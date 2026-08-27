@@ -1,0 +1,65 @@
+---
+id: 56f5f35a-020a-5134-959d-868f9060e08a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 107: The Third Floor"
+slug: 0148-chapter-107-the-third-floor
+partOf: labyrinth-of-the-mad-god
+position: 148
+ownLength: 1732
+unit: words
+publishedAt: 2025-03-24
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2148297/chapter-107-the-third-floor"
+royalRoadId: "2148297"
+---
+
+When Nick opened his eyes, he was floating. Not drifting across the vastness of space but bobbing in the air.
+
+He knew that he was back in his body because his body hurt—his limbs so stiff and sore that he could barely move them. All of which left him wondering how he was resisting gravity’s embrace. While his head and shoulders were supported by something bulky and firm, his arms and legs were dangling down toward the ground.
+
+He groaned, thoughts slowly sharpening as he came to grips with this dramatic change in scenery. His head was pounding, and he felt weaker than he could remember being since his new life began. What the fuck happened to me?
+
+Nick realized that he was peering up at an emerald sky. Although, when he took a closer look, he couldn’t see any birds or clouds, just thick packs of insects darting through the air. When he shifted his body to survey his surroundings, he wound up spinning in circles, which helped him grasp that he was being held aloft by the straps of his bag, staring down at the muddy earth below.
+
+Why is the ground wet, and why is it so humid? Where in the world am I? This isn’t a sky island, so we must have made it to the third floor… Wait. What happened to the others? With that thought, the memory of what had happened came flooding back to him. Desperately searching for his missing friends before being lured into a trap by Alma, the pirates’ boss. The bonefiend causing the warship to fall, then something slamming into the back of his head, followed by darkness and dreams.
+
+When Nick tried to get his legs under him, he felt a hand reach around his shoulder to offer support. “Hey there, sleepyhead.” Devin’s smiling face entered his view. “I’m glad to see that you’ve finally decided to wake up. Next time, it’s my turn to get some beauty sleep.” Nick could tell from Devin’s tone that his friend was deeply relieved, but he was downplaying his emotions while he made sure that Nick was alright.
+
+“It wasn’t a lot of fun dragging you around for the last two weeks, but your bag was a big help. Stay still while I add a few rocks, so that it isn’t lighter than air anymore.” He heard Devin open the flap, then grunt as he lifted something heavy. A few seconds later, the force holding Nick aloft vanished, and his feet hit the soft earth. He wasn’t strong enough to support his own weight, but Devin caught him and helped him sit down on a tarp that was spread across the ground.
+
+“Water…” Nick croaked through dry lips, as the meaning of Devin’s words sank in. I’ve been unconscious for two weeks! Devin put a canteen up to his lips and Nick drank deeply, sighing as the fluid began rehydrating his tissue.
+
+“There you go, champ. That’s the way. I was able to get a little water into you along with that elixir of restoration once a day, but food was a no go. Why don’t you eat this, and I’ll fill you in on everything that happened while you were out?” He took a piece of travel bread that Devin had soaked in water and began to chew, realizing that moment that he was ravenous. While Nick ate, his friend began recounting his adventures on the third floor.
+
+After being separated from Veronica, Shaun, and Sophia, Devin had managed to fly the two-man airship to the highest island, crash-landing it beside the staircase with a swarm of furious pirates in pursuit. With dozens of ships converging on their location and Nick out of action, Devin had been left with no choice other than to exit the floor and carry him up the stairs.
+
+Devin didn’t know what had happened to the other members of their party, but he had seen a group of ships break off and head in another direction. He hoped that it meant the rest of the team had survived the warship’s destruction and were making good on their own escape.
+
+When they passed through the portal, Devin learned that the entirety of the third floor was one big swamp. Rather than containing a true ecosystem like the sky islands, this level was more like a gigantic terrarium. It was also the breeding grounds for a particularly nasty type of beast called a mud wraith.
+
+“The wraiths are kind of like a cross between the Predator and Swamp Thing. They’re hard as hell to spot and will ambush you from behind when you least expect it. They don’t like fire, although there’s plenty of water around to put it out, so it’s kind of a draw as far as my powers go. The smaller ones are vicious but manageable, but the patriarch is fucking huge and twice as deadly as it is ugly. Fortunately, both times I ran into it, I was able to get away, since it’s stealthy and strong but not that fast. I’m not sure that our whole team could handle it at our best, unless maybe we had Kenji instead of Shaun, so trying to solo it didn’t seem like the best idea.
+
+“Anyway, the rule for this floor is called ‘partition.’ It turns out that a bunch of groups from Team Earth are crossing this level at the same time, but each party is locked into their own region and separated by force fields that function like glass walls. I was able to talk to some of them and swap info, but there’s no way to assist each other directly as far as I can tell. Each partition leads to its own stairwell, which is guarded by a pack of mud wraiths.
+
+“The wrinkle is that the patriarch can move between the partitions, and it always shows up when you engage that final group. I watched several parties get wiped out when it arrived, poor bastards. The good news is that the rest made it through, since they all went in at the same time to divide the big bad’s attention.
+
+“Circling back to the present, we’re not far from the stairs and I’ve been sitting here all day, trying to figure out how I could carry you past the wraiths without getting taken out. Even with you back in action, I don’t think we can win. Maybe against the little ones, but we don’t have a chance in hell of two-manning the patriarch on top of battling the smaller wraiths. I was getting ready to make a run for when the final wave of teams assaults the stairs and hope for the best, but it would be great if you could come up with a better plan.”
+
+It was a lot of information to take in at once. Nick tried to jumpstart the tactical part of his brain while he put the pieces of the situation together from Devin’s account. That was when it hit him. “Wait. You’ve been carrying me for weeks across terrain swarming with swamp assassins, without anyone to watch your back? That’s incredible. Thanks, Devin. I owe you my life.”
+
+“Aww, Nick. You’re making me blush. We’re a team, and I know you’d do the same for me. We are lucky that you shoved that floatstone core into your pack. It let me drag you behind me like a hot air balloon. I fed you the elixir every day, hoping that it would heal the damage to your noggin. But if I’m being honest, I was terrified that you wouldn’t wake up. Let’s save the warm fuzzies till we’re out of here though. I’m worried that the roaming wraiths will find us soon, and I have grave reservations about trying to clear a path to the stairwell under these conditions. I was hoping that big brain of yours might notice something that I missed.”
+
+By now, the wheels in Nick’s mind were turning once more and he was starting to feel better. He was still weak and a bit groggy, but the food in his belly was helping to clear his mind. While he chewed, he had Devin describe the wraiths’ abilities in detail. In addition to a powerful camouflage ability, they could send out vinelike tendrils through the mud, which would try to bind your limbs or wrap around your throat.
+
+Devin drew a map of the level in the dirt, then relayed everything he knew about the group of beasts guarding the stairwell and the big one he called the patriarch. When he was finished, Nick took out his spyglass and surveyed the surrounding terrain.
+
+There wasn’t much to see other than swampy soil interspersed with scattered patches of elevated ground, along with a few gnarly trees. He couldn’t see any mud wraiths, just lots and lots of bugs. They were annoying, but fortunately they didn’t seem to be bestial or overly aggressive.
+
+With that out of the way, he set his gaze upon the stairwell in the distance. This set was a great marble banister that belonged in a mansion. It was pristine and unmarred, and looked comically out of place rising up from the middle of a swamp.
+
+He couldn’t see any beasts near the stairs. But based on what Devin had told him, there were at least a dozen of them hiding in the muck. More were prowling throughout the area, including the patriarch.
+
+Devin is right. We can’t afford to fight them. Given the design of the tower, I doubt that simply running past will work either. We don’t have the manpower or resources to create a distraction. It seemed that their best option was to time their advance with the remaining teams after all. To carve a path through the wraiths and hope for the best.
+
+Nick could see why Devin didn’t like their odds, since he felt exactly the same way. But given their situation, there simply wasn’t a better alternative. Once the other members of Team Earth left the floor, the men wouldn’t have any chance of avoiding the patriarch, and their chance of breaking through would dwindle from slim to none.
+
+It was a bad situation, but he got ready to face it head on. No matter what happened past this point, the duo wasn’t going down without a fight.

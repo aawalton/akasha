@@ -1,0 +1,101 @@
+---
+id: 56a14008-9223-50f6-868d-ca9f780ddc33
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Decisions, Decisions"
+slug: 0031-chapter-5-decisions-decisions
+partOf: labyrinth-of-the-mad-god
+position: 31
+ownLength: 1975
+unit: words
+publishedAt: 2024-07-29
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1736944/chapter-5-decisions-decisions"
+royalRoadId: "1736944"
+---
+
+How he upgraded his mana darts wouldn’t just affect his combat capabilities in the present. It would influence his future development too, changing the course of his path to power.
+
+Nick needed to consider each option in that context before arriving at a decision, starting with boosting the dart’s pain and the duration of its stunning effect.
+
+So far, the pain that his darts inflicted had honestly been the best part about them. While he was convinced that tearing a chunk out of his opponents’ stamina, life, and mana simultaneously had made a real difference on numerous occasions, it hadn’t tipped the balance between winning and losing a fight in and of itself.
+
+The blinding agony that the darts caused, on the other hand, had created countless openings that Nick had used to land a decisive blow.
+
+Increasing the intensity and duration of the pain would make the spell even more effective as a distraction, widening the window to land a killing strike, or countering an opponent’s charge. Additionally, it would bolster the darts’ utility against large and powerful foes, who had an easier time shrugging off the spell’s effects at present. In short, it was an amazing opportunity to increase the ability’s effectiveness in a brawl.
+
+Taking option one would make Nick more dangerous when fighting with his sword, alone or with his team, giving him a way to take the pressure off his friends when they needed it the most. If it was the only good choice that he’d been offered, he would have taken it with no regrets.
+
+But options two and three had their strong points too. Boosting the spell’s ability to damage vital energy was a sorely tempting prospect. If his darts hit harder, they could start scoring kills all by themselves, especially with the increase to his magic that Nick had picked up from leveling and the increased efficiency granted by taking mana dart to rank one.
+
+And the benefits didn’t stop there. Draining both mana and stamina in addition to health could prove useful across a wide range of situations. Especially when facing off against a powerful caster or unusually resilient beast, like the river king he’d battled just before leaving the bog.
+
+Reducing the number of times that his enemies could use their most powerful abilities could save his life all by itself, granting him a fighting chance in a battle of attrition. And eating away at their stamina would limit their mobility over time, giving him a powerful advantage in longer fights. It seemed like the most useful option when combating other people as well, narrowing their range of options and helping Nick take control of the battlefield.
+
+The third option was interesting in a different way. While it wouldn’t directly increase the power of his spell, it would greatly enhance its utility. It would let Nick shoot each dart faster, further, and with a higher degree of control, countering opponents who relied on evasion as their primary form of defense.
+
+Quite a few beasts had been able to sense his spells coming, letting them leap out of the way and avoid the hit. He suspected that this problem would only grow more pressing over time. Picking the third option would help to mitigate this variable, increasing his accuracy and making his tactics more reliable, letting him execute more control over the fickle flow of battle.
+
+It would be most useful when firing his spell from the limit of its range, which the upgrade would also increase. This choice would transform his darts from a mid-range tool to something that worked from long range as well, offering Nick the option of sniping his foes from concealment, at least to some extent. It would also let him fire his darts along more complex flight patterns, guiding them around cover and hitting his enemies from multiple directions at once.
+
+He pondered the matter long and hard while finishing the pitcher of water. After a final moment of consideration, he crossed the third option off the list. He needed his darts to do more when they hit, not just hit more often. He was afraid that they would never really turn the tide of battle otherwise, even if every shot found its mark.
+
+Besides, his class was a short-to-mid-range specialist, and he intended to do most of his fighting from that distance. If he wanted to attack from further back, nothing was stopping him from learning how to shoot a bow, even if he didn’t have a skill for it.
+
+That first option was still incredibly tempting. More pain and longer stuns would absolutely increase his offensive output, and would be especially useful when fighting as a team. But Nick was worried about how the choice would influence his class selection.
+
+He didn’t want to be the kind of fighter who specialized in causing pain, and was concerned choosing the upgrade would leave him with more suffering-based classes during the next selection. It also wouldn’t help at all when fighting magic constructs, something that mana dart’s description had mentioned that it was especially good at.
+
+Even still, it was a hard option to turn down.
+
+Nick pondered the matter long and hard as he walked over to the obelisk and opened his menus. “Alright, I’m ready to make my decision.”
+
+After careful consideration, it was time for mana dart to receive a major upgrade, and he couldn’t wait to find out what it would do. In the end, he decided to go with option two, giving his darts an across-the-board enhancement in the amount of health, stamina, and mana they destroyed.
+
+Ready to make his choice, Nick sent his intentions into the screen, eager to find out what would happen next.
+
+A few seconds after he made his selection, his awareness was drawn back inside his body. He could tell right away that this was going to be different from any vision he’d seen before.
+
+Instead of watching a replay of his memories and thoughts, he found himself staring at his own brain once more, looking down at the pathway for his ability that the System had etched into his neurons and energetic channels.
+
+He was far closer than during his rank one vision, like he was floating in a room and the network was a rug covering the entire floor.
+
+This vantage point provided far more detail than any of his prior experiences, letting him take a good look at the elegant structure for the first time. It was remarkably complex, composed of hundreds of individual conduits with different shapes and properties, bound tightly together to form a single network.
+
+He knew from experience that this arrangement drew in mana from his core and wove it into a specific shape, which gave the spell its unique properties. Nick couldn’t begin to make out the intricacies of the design, since this was his first time observing how the System’s magic operated on such a fundamental level.
+
+He didn’t even know where to start if he wanted to unravel the mystery playing out before his eyes. It made him feel like a caveman poking around at the guts of a gaming PC. But that didn’t mean he couldn’t learn from this experience, even if understanding would lag far behind sensation. Because while Nick had no idea what was going on, the System knew exactly what it was doing.
+
+He let go of the need to comprehend and focused as intently as he could, committing every second to memory for later review. He didn’t have to wait for long. A paltry handful of heartbeats after the image popped into his head, he felt the System reach inside and begin tweaking the spell.
+
+While Nick had an axe to grind with the galaxy-spanning AI, he had to admit that it was a marvelous show. Like a surgeon completing a delicate procedure, it severed some threads and reconnected others. Mending and weaving, swapping out tiny fragments of various materials, reshaping the structure and the properties it bore.
+
+He watched spellbound as the pathway for mana dart became something new, something greater than before. Rather than developing theories based on his observations here and now, he took a broad view and let his mind go blank, trying to record it all rather than focusing on his analysis.
+
+Making meaning could come later, but experiences like this were few and far between. Nick had a hunch that studying this performance could lead to major innovations later down the road.
+
+Within a matter of minutes, the construction was complete, and the System’s touch withdrew. He snapped back into his body and opened his eyes, still looking inward, probing the changes to his brain and his core.
+
+He still had a lot of things that he needed to take care of, none of which were nearly as exciting as what he was about to do. Fortunately, the System’s healing had topped off his stamina and mana in addition to repairing his body, which meant that the board was green to give his new and improved spell a test drive.
+
+He would regenerate the mana before leaving the safe room, so Nick was ready to take a long, lingering look at his upgraded mana dart. Dancing from one foot to the other like a kid on Christmas morning, Nick gathered his will and conjured a dart, setting its output to maximum power.
+
+He felt warmth building just below his heart, as mana from his core went surging along the conduit leading to his brain, winding up and around his spine before connecting with the upgraded channel containing the spell.
+
+He could sense energy gathering in front of his face, the spell pulling in more mana than it ever had before. At the same time, he could tell that it was using the mana more efficiently. Two seconds later, without further preamble, a glowing silver blade shimmered into existence and began orbiting his head.
+
+When Nick had first learned the spell, the mana darts had appeared as faint metallic wedges. When he became a Kineticist and gained his Force Adept trait, the darts had become bigger and brighter, forming translucent arrows with clear, crisp geometry.
+
+Both versions were put to shame by what he was witnessing now.
+
+His new mana dart looked like a blade without a hilt, a gleaming silver spike as long as his hand. It was bright enough to throw wild, ever-shifting shadows across the chamber, the pure mana so dense that he could no longer look through it.
+
+He could tell at a glance that it was far more potent than before, to the extent that the word dart no longer did it justice. He laughed in delight, every scrap of his concentration focused on the whirling weapon formed from pure mana.
+
+He almost reached out and touched it before thinking better of it. Nick wasn’t going to shoot himself this time around. Not with this. Not when his upgraded spell felt so dangerous.
+
+He waited ten minutes to judge its duration, until he sensed that the energy was ready to dissipate. Before the spell’s matrix collapsed, he visualized the most complex trajectory that he could imagine, then ordered the spell to fire.
+
+It raced around the room before winking out of existence. It felt just a little slower than before, at least at its maximum output, but the difference was trivial compared to the added power.
+
+Nick couldn’t wait to try it in battle and was looking forward to upgrading his other spells as soon as he could. He needed to figure out the trick to deepening his understanding, then take piercing ray to rank one.
+
+Immensely satisfied with everything he’d just witnessed, he turned his attention to completing the next stage of his preparations, eager to lock in the rest of his gains.

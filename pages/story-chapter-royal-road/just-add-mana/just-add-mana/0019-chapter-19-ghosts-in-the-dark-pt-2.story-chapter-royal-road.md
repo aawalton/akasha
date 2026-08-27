@@ -1,0 +1,233 @@
+---
+id: 9cd625f2-930c-5fe0-b4bf-def3717458f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19 — Ghosts in the Dark, Pt 2"
+slug: 0019-chapter-19-ghosts-in-the-dark-pt-2
+partOf: just-add-mana
+position: 19
+ownLength: 3459
+unit: words
+ownProgress: 3459
+publishedAt: 2025-08-09
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2504717/chapter-19-ghosts-in-the-dark-pt-2"
+royalRoadId: "2504717"
+markedReadAt: "2026-06-29T18:48:10.599Z"
+---
+
+Manifested necromancy spells, Cale felt, were the best kinds of spells to fight.
+
+He sort of relished the opportunity, really. Most spells manifested in ways that couldn't be fought in any direct fashion—you either had to run away from them or figure out their rules (so you could proceed to run away from them.) Necromancy, on the other hand, was a form of soul magic, and manifested soul magic generally followed one deceptively simple rule: they had to be fought in hand-to-hand combat.
+
+Well, sort of. The reality of it was a little more nuanced than that. There were often a dozen minor rules that governed how the spell could be beaten back, ranging from weak spots to bizarrely specific requirements that had to be met in order for the spell to take any significant damage. The last time he'd been stuck inside an auric collapse like this, he'd encountered a necromancy spell that could only be hurt if it was punched following the rhythm of the song it was humming. That had been a fun fight.
+
+Cale had no idea why soul magic in particular was like this. It might have had something to do with the nature of it in general—manifested spells did have to reflect the actual spell in some way, and so it was no real surprise that manifested soul magic would reflect the variable nature of souls, even if no actual souls were involved.
+
+Anyway, he was letting himself get distracted. Cale could hear the sound of someone else fighting in the distance. He was pretty sure it was Akkau, but it was hard to make him out through the darkness, and he had a crowd of manifested spells he needed to fight through first.
+
+With Damien's help, of course. Although the dreadshade did look rather nervous about it...
+
+Still, no time for hesitation! Cale dove into the fight, ducking and weaving, and immediately got punched in the face.
+
+"Ow," he said. Damien looked at him incredulously, but he waved it off; his barrier had protected him.
+
+Mostly.
+
+It had softened the blow, at any rate. His nose wasn't even bleeding!
+
+"Cale," Damien said. "Are you bad at fighting?"
+
+"Absolutely not," Cale said. "I'm very good at fighting. Do you know how much time I've spent getting good at fighting? Probably longer than your great-great-grandfather's been ali—"
+
+The manifested spell punched him in the face again. Cale scowled. "Rude," he scolded the spell. "Don't interrupt me when I'm talking."
+
+The spell looked flabbergasted. Its manifested form resembled a skeleton of sorts, presumably because it was a manifested version of something like [Raise Skeleton], and it was staring at him with its jaw flopped open.
+
+Cale stared at this for a moment, then sighed. "Aw, I can't be mad at you," he told the spell. "I—"
+
+He got punched in the face a third time.
+
+"Cale!" Damien shouted, exasperated. "Stop letting yourself get punched in the face!"
+
+"I need time to get used to this body!" Cale complained. He ducked under the next blow before it could get him in the face again, and this time managed to land a strike directly in the center of the skeleton-spell's ribs; it fell back with a surprised look on its skull. Or maybe skeletons just looked surprised all the time. "I've only been in it for like thirty years, and I'll have you know I spent most of them studying!"
+
+"What does that even mean?!" Damien shouted. He was fighting through a throng of other spells to get to him, but hadn't quite made it yet.
+
+Cale noted with some surprise that the dreadshade was actually good with hand-to-hand combat like this. He ducked effortlessly under the spells that tried to strike him, and he almost seemed to flow around any of the attacks he couldn't directly dodge. Whenever he struck back, he put the full force of his momentum into it, handily knocking back whatever he targeted.
+
+He wasn't exceptionally strong or anything—dreadshades weren't known for that kind of thing—but he was effective, and all they really needed to do was get through the spells, not kill them. Spells couldn't really be killed, anyway.
+
+On his end of things, the skeleton-spell had managed to stand up again. Cale glanced back at it and frowned right as it began to charge at him, arm winding up for a clumsy swing.
+
+He hadn't been lying. He wasn't entirely used to fighting in this body. Reincarnation was a bit of a lottery, after all; it was a lottery biased in his favor, but there still tended to be minor differences from life to life. That meant that every time he found himself in a new body, he needed to spend time adjusting and training, especially if he planned on doing extensive amounts of physical combat.
+
+In his last world, he... hadn't.
+
+That didn't mean he was entirely helpless, of course. Far from it. For the most part, it just meant he was more prone to making mistakes.
+
+And to getting punched in the face.
+
+An attack this clumsy wasn't exactly hard to counter, though. Cale grabbed the skeleton-spell's wrist as it swung at him, turned, and threw; it flew through the air, gawking at him—
+
+—and when it clattered to the ground, it scattered into a disparate array of bones. Cale grinned. He wasn't completely rusty. "Gotta throw the skeletons!" he called. "Stuns them for a bit!"
+
+"Just stuns?!" Damien called back. Cale watched as the dreadshade managed to swing one over his shoulder and into the wall, forcing it to break apart.
+
+"Well, yeah! You can't kill a spell manifestation!" he called back. Stunning was about the best you could do. "Different spells will have different weaknesses, so call them out when you figure them out!"
+
+"I—" Damien gave up before he even finished protesting. "Got it!"
+
+With that, they set to work. It didn't take them too much time; nothing they fought had any particularly unusual weaknesses. The worst of them was a wispy looking thing that Cale was pretty sure was the manifested version of some sort of resurrection spell. Cale winced when he recognized it—someone must have tried to revive themselves while they were being consumed by Cyte. Interrupted resurrection spells were rarely pretty.
+
+That one took a moment for them to get through. It attacked by creating waves of physical force that blew them back, and it was only when Cale resorted to just throwing things at it that they realized it couldn't push back non-living objects with its force waves. It took particular exception to being hit by any of the stones from the hallway, it seemed, and ran off screeching after the third brick Damien threw struck it in the ribs.
+
+"Nice job," Cale said approvingly. Damien was panting, but managed to give him a thumbs up.
+
+Together, they made it through the rest of the hallway to where Akkau was...
+
+Well, fighting was a strong word for what he was doing, really. He was standing there impassively while a number of spells beat themselves against him, to no particular success. Cale watched this for a moment, then snickered. "Showoff."
+
+"I see little reason to waste my energy on these things," Akkau said. There was a faint twitch to his mouth that might have suggested amusement, but it vanished as quickly as it came. "I believe I understand what this is, but auric collapses are rare enough that I have little experience with them. Cale, what is your suggested course of action?"
+
+"Are you asking me or testing me?" Cale asked, raising a brow. Akkau stared at him without a word, and after a beat, he sighed. "We should move through the segments of the collapse as quickly as we can to locate the other students. There's almost certainly a rogue mage involved in all this."
+
+"What type of mage are they?" Akkau pressed. Cale scowled.
+
+"Did you spot them and not tell me?" he accused.
+
+Akkau merely raised a single scaled brow at him. "Well?"
+
+"Assassination specialty, most likely," Cale said, ignoring Damien's sharp intake of breath. "Probably shadow- or dark-attribute core, if I had to guess. They wouldn't have been able to avoid mine or Syphus's mana detection otherwise. You don't need to keep testing me, you know."
+
+"I am not." Akkau turned to start walking, and Cale fell into step beside him as Damien followed just behind. He walked at a quick clip, too, forcing them both to struggle to keep up. "I simply wish to keep the true extent of my capabilities hidden."
+
+He paused for a moment, then added, with a slightly playful lilt in his voice: "Are you any different?"
+
+Cale narrowed his eyes slightly, but said nothing, and after a moment he realized with a start that the Headmaster had managed to weave a spatial spell around them as they walked. That made him glance sharply up at the dragon. A spatial spell within the boundary of an auric collapse? Spatial spells were complex. It couldn't have been less than sixth tier, and more importantly, to do it in a place like this...
+
+That was beyond the realm of an archmage's capabilities.
+
+"You know, if I'm going to be your apprentice, we should probably share some secrets," Cale pointed out mildly. And he wasn't just doing it because he was suddenly very interested in Akkau's secrets, either.
+
+"Hm." Akkau seemed to smile slightly. "I suppose there is merit in that. Very well. Find me in my office tonight, and we shall properly begin your apprenticeship. Perhaps we will find we have much to learn from one another, hm?"
+
+Cale blinked. He was a little surprised by how open the Headmaster was being—he'd been expecting more pushback. "Sure," he said cautiously.
+
+Neither of them were fools. Master and apprentice were nothing more than titles, at the end of the day, and both of them were old enough to know they had plenty to gain from one another. Akkau was pretending to be aloof, but from the way the dragon had made space for him...
+
+Heh. Cale smiled. The dragon was rather carefully treating him as an equal, not just as an apprentice. He wasn't used to dragons, of all species, having the humility to do that.
+
+That was delightfully interesting.
+
+Cale was, he decided, very happy he'd allowed himself to be summoned to Utelia.
+
+Damien had no idea what was happening, but he was pretty sure Cale and Akkau were somehow having a whole separate conversation on top of the one they were literally having. The words were one thing, but the air between the two felt charged with a certain kind of tension, like they were evaluating something about one another with every sentence they traded.
+
+He had no idea what to make of it. The last time he'd encountered anything like this, it was with his fath—
+
+Damien winced and clutched at his head, his form wavering as a spike of pain drove itself into his skull.
+
+No. He still couldn't... he couldn't think about him. Couldn't let himself think about him, not even for a moment.
+
+There were ways he could make himself useful here. He felt outclassed next to mages like Akkau and Cale, but Cale had said so himself—he was especially suited for navigating the... what had the human called this? An auric collapse?
+
+He just needed to search out sources of decay. Cale had said something about collapses being marked by different segments, which meant he had to search for some kind of doorway, perhaps? Like the one they'd just been through.
+
+"There," Damien said desperately, interrupting the conversation Cale and Akkau were having. There was a seam in the wall that was almost invisible; both Cale and Akkau had missed it, apparently. But Damien could feel the tiniest dredge of decay seeping through its boundary, and more importantly, he could feel how to get through.
+
+"Well done," Cale said warmly, and Damien ducked his head. He still wasn't used to praise. Akkau pressed a claw against the stone and hummed in thought.
+
+"Can you open this?" he asked, turning to Damien.
+
+Damien nodded rapidly. "Yes. Um, I think..."
+
+There was a pattern in the stone, hidden among the bricks. It was different from before, but if he traced the pattern, followed the shape of what seemed to be some kind of rune...
+
+The door rumbled open, and on the other side, a water elemental and minotaur sprinted toward them. Damien blinked in surprise.
+
+"Out of the way!" Leo shouted, panting. He kept glancing behind him, where Damien could feel something... something awful. He froze in the doorway, unsure of what to do.
+
+Thankfully, Cale wasn't nearly as frozen, and casually hauled him out of the way.
+
+Moments later, Flia splashed through. She was followed shortly by Leo, whose momentum carried him hard enough that his horns tore chunks out of the stone on the opposite side of the hall; the minotaur was breathing hard, taking deep, ragged lungfuls of air as he tried to speak.
+
+"Close it," Flia said desperately, saying the words Leo couldn't. "Close the door!"
+
+Damien, operating on autopilot, traced the pattern again, and the stone door slid shut a split second before an awful, smiling thing could slip through.
+
+"Great!" Cale said. "Now we just need to find the assassin."
+
+Flia and Leo both turned to stare at him.
+
+"The what," Flia said.
+
+Aila Quickpaw knew they were being hunted, and she had no idea what to do.
+
+Neither did Izzik or Geraal. The former wasn't much help; that yellow-bellied bluescale had been panicking ever since they got here, and Geraal wasn't far behind. He might have liked to put on an air of superiority, but she'd known him since she was a child. He was a softie compared to most of the other elves of the Forest Wing.
+
+She and Izzik were both members of the Beast Wing, though, and their magic had sharpened their instincts to a razor's edge. Inside the... wherever this was, those same instincts were screaming at them. It didn't help that all her magic was somehow being forcibly contained within her core, taking away her only way to control those instincts.
+
+The truth was that Aila was barely holding it together, and she was a shifter, not a full-on beastfolk like Izzik was. If it was this bad for her, she couldn't imagine what he was going through. No wonder he'd spent the last who-knew-how-long curled up against the wall and hyperventilating.
+
+Aila couldn't help but resent him for it, though. Coward, she thought viciously. Geraal too. They're both cowards.
+
+And so am I.
+
+She gritted her teeth, trying to shake off the thoughts before they could consume her. "We need a plan before she finds us," she said. She hated how desperate she sounded. "Anyone?"
+
+Geraal refused to speak. He wasn't hyperventilating the way Izzik was, but he'd started going silent since before they tried spiking the cafeteria food with shimmerdust. He was sitting on the ground with his eyes closed, like he was meditating, but Aila saw the tears in the corners of his eyes.
+
+Izzik wasn't any help either, and she doubted he was going to be anytime soon.
+
+Dammit.
+
+They were going to die. If the Headmaster didn't kill them himself, then their handler surely would. If the soul-link was anything to go by, she was getting closer and closer. She had to be only minutes away now.
+
+Sneaks-In-Darkness. Aila distinctly remembered thinking about how cool the mage was the first time they'd met; she wore one of those high-tier shadowcloaks, and although she'd affected a humble posture and tone, Aila was absolutely sure the woman was an archmage. Maybe a recent one, judging by the strength of her magic, but an archmage nonetheless.
+
+Even just walking around, Sneaks-In-Darkness gave off an air of danger. Oh, she spoke like she was nothing more than a civil servant, all humble words and polite bows, but the way she moved was like concentrated death. Aila felt the power radiating from her with every move she made. It was like she was a single step away from shredding everything around her.
+
+And then there was the look in her eyes.
+
+Aila had loved the look in her eyes. She wasn't sure what it was, exactly, but something about it set her heart thumping. She'd started following Sneaks-In-Darkness around as she did her rounds at their academy last semester, asking her questions, trying to learn. She wanted to be just like her, she said, and the Red Hunter had welcomed it. She'd asked her warm questions about her friends, about her magic, about what she was working on.
+
+At the end of that semester, when the Red Hunters were due to leave, Sneaks-In-Darkness had found her and pressed the Red Hunter emblem into her paws. She told Aila that she had potential. That she was thinking about taking on an apprentice one day.
+
+Aila thought she'd finally done something right. Earning the approval of an archmage—that was incredible, wasn't it?
+
+Her parents hadn't seemed to think so. Her brothers looked horrified. The only ones that understood were her closest friends, Izzik and Geraal; they'd found mentors of their own among the Red Hunters, and the three of them talked long into the night about what they would do once they joined.
+
+Izzik wanted to fix things. He admired them, but thought their methods were too harsh. Geraal had been reticent about it, but had said something about his father being one of the Red Hunters, and how he wanted to prove himself.
+
+It was clear how much Sneaks-In-Darkness and the other Red Hunters believed in them, too. Those emblems were like a cheat code. They would regularly shine in the middle of the night and dispense crucial advice about some spell or the other, or even magical secrets that would be important in the upcoming tests. Aila, Izzik, and Geraal all quickly rose to be the top of their respective classes.
+
+They'd been so happy about it. This semester, Aila had thought, would be their best one yet.
+
+And then one night, about a week ago, everything changed.
+
+It had happened when she and Izzik were alone in the library. Geraal had been asleep at the time, but both she and Izzik's emblems had suddenly begun to shine. When they held the emblems out, the shimmerdust vial had appeared, along with a message recorded by Sneaks herself. Aila had been so excited.
+
+That excitement had turned very quickly into horror. The archmage's voice had been so... warm. She told them how excited the Red Hunters were to have such promising students as initiates, and told them in no uncertain terms that this was their most important test yet.
+
+And then, in the same warm tone, Sneaks-In-Darkness told them what would happen if they failed.
+
+"I hope you understand how important this is," she said, her voice full of false sympathy. "We don't want to do this, really, but us Red Hunters can't afford traitors or failures. Think of it as a protective measure to keep our mission safe."
+
+Aila had never felt so stupid. And Izzik... he'd stopped speaking to her after that. Geraal knew something had changed, clearly, but said nothing about it.
+
+Earlier, he'd said he hadn't been threatened. Why? What made him so special? Why was he...
+
+Aila looked up. "Geraal," she said. "The reason you weren't threatened. Is it because your dad's already...?"
+
+Geraal stared at her for a long moment, then nodded slightly. He said nothing further, but Aila knew him well enough. She'd wondered why he'd started to withdraw when they first began to meet with the Red Hunters. She hadn't thought to ask about it.
+
+Sneaks-In-Darkness was getting closer. The soul-link was two-way, and Aila knew the smart thing to do was run. If she wanted to, she could force Izzik and Geraal to get on their feet and start moving away. If the archmage turned her gaze on any of them, they would die; she knew that for a fact.
+
+But what was the point? Those bloodrot bombs were pinned on them anyway. They would just be prolonging things until the Red Hunters activated those bombs themselves.
+
+And what that human had said about that poison... about the shimmerdust...
+
+Aila had genuinely thought that they were helping. That the Red Hunters were doing a service, even if that service was ugly at times. The fact that they needed shimmerdust at all told her otherwise.
+
+She huddled further into a ball.
+
+Maybe it would be for the best if they were caught.

@@ -1,0 +1,181 @@
+---
+id: 4ae8530c-021c-5ce9-8ae0-2a83ea3fa096
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7 — Ancient Artifacts, Pt 2"
+slug: 0007-chapter-7-ancient-artifacts-pt-2
+partOf: just-add-mana
+position: 7
+ownLength: 2530
+unit: words
+ownProgress: 2530
+publishedAt: 2025-07-19
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2448805/chapter-7-ancient-artifacts-pt-2"
+royalRoadId: "2448805"
+markedReadAt: "2026-06-29T18:47:45.542Z"
+---
+
+If nothing else, Cale had never actually explored an Ancient Karmian labyrinth before, especially not anything that emerged from the Labyrinth Plague. This was something new for him, and new meant interesting.
+
+On the other hand, he was saddled with three other panicking students.
+
+Well, two panicking students. Leo just seemed depressed.
+
+"I wonder what kind of labyrinth this is," Cale said, walking over to one of the walls and running his hand along the stone. It felt like normal stone, but it was nearly impenetrable to his mana sense, which meant it was some sort of magical insulator. That was rare enough on its own, but on top of that, despite all the insulation, he could sense the weak pulse of several mana signatures within the labyrinth.
+
+That meant that the labyrinth was occupied, and whatever occupied it was strong enough that he could sense them even through the otherwise insulated walls. He frowned for a moment, then shook his head and turned back to the others.
+
+"If you're wondering, the Labyrinth Plague basically turned existing places into labyrinths," he explained absently. "Libraries, merchant shops, smithies, that sort of thing. We aren't surrounded by shelves, so it probably wasn't a book store. Maybe just a quarry?"
+
+Though if it was a quarry, he didn't quite recognize the type of stone it was made of. There was something about it that struck him as oddly familiar, but he couldn't for the life of him remember what.
+
+Eh. He'd remember eventually, if it was important.
+
+"Why aren't you more worried?" Flia demanded. "We just got tossed into an unknown dungeon! Do you know how many mages die from dungeons every year?"
+
+"No," Cale said, interested. "How many?"
+
+Flia faltered. "I—that's not the point! The point is a lot of mages die from these things!"
+
+"Would the professor really put us in a situation where we could die, though?" Cale asked, trying to be reasonable.
+
+"Yes." All three of the other students answered him simultaneously and emphatically. Cale blinked.
+
+This was what he got for trying to be reasonable.
+
+"Alright, then." He shrugged. "We just won't die. Can't be that hard, right?"
+
+"I feel like I'm going insane," Flia said. "Damien, you know this guy. What's his deal?"
+
+Damien found himself suddenly at the center of attention and winced. "Um," he said. "He's... my roommate?"
+
+"Sure am!" Cale said brightly.
+
+"He knows a lot of things..."
+
+"Also true."
+
+"...but there's a lot he doesn't want to say about himself," Damien finished quietly. "I don't want to press him, but he's a good person. He helped me figure out a piece of my magic."
+
+"Right, you said something about that," Flia said, her voice softening a little. "Does that mean you can actually cast something now?"
+
+Damien looked away, saying nothing, and Flia sighed. "I didn't mean it like that," she said. "We're both Astrals, aren't we? I'm not out to get you like the other Wings are. Leo isn't, either."
+
+"I... I know, but..." Damien drew his cloak more tightly around himself. Cale coughed loudly to get everyone's attention. Better than letting Damien slowly evaporate from anxiety, he figured.
+
+"If it helps, my name is Cale," he said. "I'm a new student. I enrolled today after—"
+
+He paused. Akkau had said not to mention the elves.
+
+"After I rescued the Headmaster from a rock," he said instead. Flia stared at him. He could almost see the half-dozen questions that tried and failed to form before she eventually sighed, rubbing her face with a hand.
+
+"Sure," she said. "You know what, I'm not even going to ask about that. What I want to know is why you're acting like this isn't a big deal. We're in a potentially deadly manifestation of—what in the eight infernal realms even is a Labyrinth Plague?"
+
+"Seven," Cale said absently.
+
+"What?"
+
+"I blew up the eighth," Cale clarified. How many times was he going to have to mention this? It was like no one had checked in on the infernal realms for years or something.
+
+"You... what?" Flia asked. She stared at Cale, then turned to Damien, then Leo. "Am I the only one hearing this? Did the Headmaster enroll someone completely delusional? Is this the guy we're supposed to trust knows all about Labyrinth Plagues or whatever this is?"
+
+"It would explain why he isn't worried?" Damien offered hesitantly, as if he wasn't sure whether or not to believe him.
+
+"I can't believe she put us in a labyrinth," Leo grumbled, clearly not paying attention. "This is speciesist, man. You can't just put a minotaur in a labyrinth."
+
+"You know what, I'm just going to ignore that too," Flia mumbled with a groan. "What exactly is a Labyrinth Plague? You said it changes places into labyrinths, but what does that mean? Why does it exist? How dangerous is it? Why is it called a plague?"
+
+"That's a lot of questions," Cale said, raising an eyebrow. He turned and went right back to studying the walls of the labyrinth. The more he examined it, the more certain he was that this wasn't just some average labyrinth; in fact, the only place he could think of in Ancient Karmia that had magic-resistant stone like this...
+
+Cale snapped his fingers. He did know what this reminded him of! This had to be a labyrinth that managed to infect the Karmian Well.
+
+Though if that was true... Hmm. Better keep that to himself for the moment. The others were panicking enough as it was. Cale was pretty sure he could simply blast them out of the labyrinth if he needed to, but that would have to be a last resort. That sort of thing would unleash the Plague and probably damage the school.
+
+"Cale," Damien said quietly. "I'm wondering too."
+
+"Oh! Right, I forgot, sorry." Cale turned and leaned back against one of the walls. "The Labyrinth Plague is a bit of wild magic the Karmians accidentally unleashed during the Age of Distortion. If I remember right, Hugh was trying to figure out how to generate and control dungeons. You know how it is—whosoever controls the dungeons controls magic itself, or something along those lines."
+
+He snorted. "I told him it was a bad idea, but would he listen? Noooo. Honestly, I don't know why he brought me on as an advisor if he was going to spend the entire time listening to that sorceress he hired. Though then again, if she was making that face at me I probably would've just done whatever she wanted, too. Very pretty lady. Shame about the whole secret-dark-lady thing."
+
+"I..." Flia blinked a few times. "I'm starting to get the impression that if I question every insane thing that comes out of your mouth, we're going to be here for a while."
+
+"That's probably true!" Cale said cheerfully.
+
+"Right, so." Flia pointed at him. "I'm going to pretend you didn't say any of that second bit. What do you mean, whoever controls the dungeons controls magic itself? I've never heard anything like that."
+
+"I have," Leo said, looking suddenly deeply interested in the conversation. He'd pulled out a notebook and everything. "It's only in a couple of very old tomes, though. Rumors. Are you saying you know the source of it?"
+
+"Is it not common knowledge here?" Cale asked, tilting his head. "What do you know about dungeons?"
+
+Flia, Damien, and Leo all glanced at one another.
+
+"They're anomalous spaces created by accumulations of magical energy," Leo ventured after a moment. "Most scholars think they hold glimpses into other worlds, given the consistency of the artifacts collected from them, although a niche group believes they're a form of informational noise—that dungeons are just generating histories that might exist, rather than pulling from something that already exists."
+
+"Oh, right," Cale said, blinking. "I forgot people used to think that. Yeah, no, they're definitely pulling from real universes."
+
+"And you know because you've been to them," Leo said, his gaze suddenly intense. Flia glanced up at him and shuddered.
+
+"You're, uh... you're looking a little like the professor, Leo," she said. Leo coughed and visibly tried to calm himself.
+
+"Sorry," he said. "This is just so exciting! We've never had any proof that other universes exist, and you're telling us you've been to them. I have so many questions—do you think I could stay behind with you and Professor Imrys? I can take notes—"
+
+"Leo," Flia said, exasperated. "We can't just trust everything he's saying!"
+
+The two began to argue. Cale ignored them, frowning to himself. He was beginning to think there was something strange about the available magical knowledge in Utelia. Akkau told him there were less than ten dragons left here, but even then, dragons were a multiversal species—they had nests scattered all throughout the various worlds and could communicate between them. He'd seen the spell arrays, monstrously complex things though they were.
+
+Though they were still less complex than baking spells, somehow. Cale wondered if he needed to talk to Akkau about this. Alternatively, he could make his way back to the ruins he'd been summoned in—something about those scriptures he'd seen outside the lair was bothering him, now that he thought about it. He hadn't had time to look at them closely.
+
+He had more pressing problems at the moment, though.
+
+"Dungeons emerge from the differential gradient between universes," Cale said, interrupting Leo and Flia. Damien looked relieved, like he'd been wondering whether he should step in. "They're how magic attempts to balance out the multiverse. That's why you get magical loot inside them—they're copied over from other universes, typically stronger ones. In theory, whichever universe out there has the strongest, most developed magic doesn't have any dungeons at all."
+
+Leo blinked, then immediately began scribbling in his notebook. "You're sure about this?" he asked. "What do you mean, typically? Are there exceptions? What causes those exceptions? Have you been to the strongest universe?"
+
+"Yes, I'm sure, and no, I'm pretty sure I haven't," Cale said. "And I'm not some sort of magical textbook, you know. I don't know everything."
+
+Leo looked a little sheepish. "You know a lot, though."
+
+"That I do," Cale agreed. "But for the record, you shouldn't trust me, and I'm definitely going to lie at some point. I gotta have a few secrets, you know?"
+
+Leo gave him an absolutely betrayed look, like the thought hadn't even occurred to him. Flia looked briefly triumphant, then immediately chagrined, as if remembering they were sort of relying on Cale's information.
+
+"I haven't lied to you so far, though, if it helps!" Cale added cheerfully.
+
+"It doesn't, because that could be a lie," Flia said flatly. Cale grinned.
+
+"Now you're getting it," he said. "Let's get moving, though. I don't want to stand here forever. Better if we walk and talk. Come on, let's go! Forward march!"
+
+"Who made you the leader?" Flia muttered sourly, but she followed along anyway as he began making his way through the labyrinth, however reluctantly. Cale examined the walls as he went, keeping an eye out for any marks and for the mana signatures he'd sensed deeper in the labyrinth.
+
+"So!" Cale said. "The Labyrinth Plague. Like I said, it came about from an attempt to generate and control dungeons. Hugh wanted to create artificial dungeons, in other words. He was hoping to control what sort of artifacts they generated for him."
+
+"That's..." Leo seemed stunned by the idea. "Did it work?"
+
+Cale laughed. "Nope," he said, shaking his head. "If it did, they wouldn't have created the Labyrinth Plague."
+
+"Right." Leo looked away, embarrassed.
+
+"The theory was fine," Cale continued. "It was never going to work the way they wanted, but you can artificially seed dungeons. The problem was that the sorceress in charge was a dark lady in hiding, and she modified the generation spell, creating the Labyrinth Plague. Long story short, it's a contagious bit of dark magic that implants itself within any space and slowly turns it into a labyrinth.
+
+"Now, you might wonder where the plague part of the name comes in." Cale brushed his hands over the walls. They hadn't come across any forks in the labyrinth yet, though there were plenty of twists and turns. He was starting to wonder if there were hidden passages he'd missed. "Every labyrinth created by the plague comes with something called the Labyrinth Seed. That's our target—if we don't get to and destroy the seed, it's going to germinate and infect the school."
+
+"What?" Flia demanded. "I thought—How much time do we have?"
+
+"Plenty of time," Cale said with a shrug. "An hour, maybe two? It depends."
+
+"First of all, that's not a lot of time," Flia said, paling. Cale glanced at her, interested. How was she doing that? She was made of water. "Second, what do you mean, it depends?"
+
+"It depends on how much we engage with the labyrinth," he clarified. "They function the same way dungeons do. If you engage with them, it calms them down. If you were to, say, teleport out? It would accelerate the germination process. Took the Karmians a little too long to figure that one out, unfortunately. It ate up half the city before they realized how to slow it down, and most of it was gone before they could figure out how to contain it."
+
+"Cale," Leo said. Cale glanced up at him. He really was huge—the minotaur was basically twice his height. He had to crane his neck just to look him in the eyes. "You said this was an attempt to create a dungeon. Are there magical artifacts here?"
+
+"Oh, yes, probably," Cale said cheerfully. "Now that you mention it, we should probably pick some up on the way. I bet it'll make the professor happy..."
+
+He trailed off, stopping in his tracks as the passage they were in came to an end. Cale stared quizzically at the inexplicable door sitting at the end of the corridor. It was made of oak, he was pretty sure, and it didn't feel like it was magically trapped, but what was a door like this doing in the middle of the labyrinth?
+
+Cale didn't even recognize the symbols carved onto its surface. He frowned and rapped on the door a few times, then stepped back to eye it. "Any of you know what this says, by any chance?" he asked. "Otherwise I'm gonna open it."
+
+Damien and Flia both shook their heads, but Leo immediately began flipping through his notebook. "Hold on," he said. "I think I've seen it before..."
+
+Cale waited patiently as Leo flipped a few more pages, then made a noise of triumph. "I knew these notes would come in handy! Here, look." He pointed to a page, holding it out for Cale to see. "They're Sylnarian symbols. I don't have enough for a complete translation, but I think this reads... danger? And then something about shadows?"
+
+"Huh," Cale said. "Guess we'll watch out for the shadows. If anyone knows any light spells, now's the time to mention it. Because, uh, I don't have any that don't involve melting things."

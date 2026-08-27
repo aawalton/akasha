@@ -1,0 +1,169 @@
+---
+id: ae051fae-d15b-5443-9875-72c1f663e0f8
+page-type-slug: story-chapter-royal-road
+title: "176 — Book 4, Chapter 20 — Dark Magic, Pt 3"
+slug: 0181-176-book-4-chapter-20-dark-magic-pt-3
+partOf: just-add-mana
+position: 181
+ownLength: 3452
+unit: words
+publishedAt: 2026-08-22
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3848214/176-book-4-chapter-20-dark-magic-pt-3"
+royalRoadId: "3848214"
+---
+
+"The nature of the Dark is not what you imagine," Evi said. She had gathered herself as much as she was able, though she still seemed rather flustered. Something to do with Kryva shifting to sit near the front of the class, Cale figured. "There are many who believe that the Dark is inherently evil—that in opposing the divine, all who associate themselves with it deserve death. Do any of you believe this?"
+
+To their credit, none of the students raised their hands, although Cale suspected that was largely because they were all still terrified of Evi and had the good sense not to suggest that she deserved death. Knowing that she used dark magic proved they were listening to the class, at least! Either because they were interested or as a side effect of Kryva's ongoing [Tea Party], which strangely enough still seemed to be increasing in effectiveness.
+
+"Very good," Evi continued when no one opposed her. "The Dark is not inherently evil, but those that wield it are more susceptible to the non-magical sort of corruption. To wield the Dark is to know that most of the realm would prefer to see you dead. It is to fight an unending battle against the worst of your impulses. The Pastel Queen..."
+
+Here Evi's gaze shifted and lingered briefly on Kryva. She closed her eyes and swallowed once before she continued. "The Pastel Queen," she said, her voice rough, "could resist it more than most. But not even she could stand above the worst of its impulses. Do you know why that is?"
+
+The students of her class all obediently shook their heads, though Cale and Syphus did not. They had some understanding of the difficulties of the role already.
+
+"You may be aware that the gods stand beholden, in some way, to their domains." Evi clenched her gauntlet, her voice growing distant. "A dark lady—or a dark one, if you prefer—shares that limitation. There are many parallels between the two, if one were to look. My queen fought constantly against her urge for violence, her desire to tear down the realms. Perhaps if I had been a better knight..."
+
+She shook her head, lost in the memory, before focusing once more on what she was saying. "Regardless. That influence is greatest only when you are a representative of the Dark. It is far easier for a mage such as you or I to wield the Dark without it overwhelming you, but you must be prepared for the emotion it will evoke. If you believe there is any chance your anger might wield you, I would not make the attempt."
+
+Cale winced, then made a mental note not to try this. Not until he was alone in some desolate realm, anyway. He knew himself well enough to know that with those limitations, attempting to connect to the Dark was a bad idea.
+
+He was starting to get a pretty good idea why he'd sealed away his memories, come to think of it.
+
+"What exactly is the Dark, though?" Cale asked. "How is it that any mage can make contact with it? Shouldn't it be better known, if it's that easy?"
+
+Evi glanced at him. "It is easy to excuse the influence of the Dark as something else," she answered. "And it is helped by the fact that many assume that the Dark must be observable in some way. As an obvious streak of evil in your magic, perhaps, or accompanied by an ominous glowing light."
+
+There were murmurs among the other students, several of them embarrassed—apparently, many of them had assumed exactly that. Evi let out a weary chuckle. "The greatest error is in calling it Dark to begin with," she said. "Those of us that use it embrace the name and do not correct others. If we did not, knowledge of its strengths and weaknesses might be far more widespread."
+
+This seemed familiar. Had someone tried to tell him this before, only to be dismissed, or had he sealed away the memory of this too? It was too long ago for him to know, but he leaned forward attentively, knowing this would be important.
+
+"If we had to use a name..." Evi trailed off, turning the thought over in her head. "I am unsure what would be most appropriate. The Lesion?"
+
+Cale grimaced, though again the thought of it seemed familiar. "Not exactly a pleasant name," he said.
+
+"That is because it is not a pleasant thing, and it would be dangerous to believe otherwise," Evi said simply. She shifted in her plate armor and stared longingly at her cup of tea, then gave in and reached for another sip, letting out a sigh of pleasure afterward.
+
+Cale wondered when she'd last had a good cup of tea. She was nursing it, trying to make it last as long as possible. Kryva's tea magic was facilitating her ability to drink through her helmet, so perhaps she couldn't drink it at all without that magic. That was a sad thought.
+
+"The Lesion..." Evi muttered, then nodded to herself. "Yes. It is appropriate enough. You may continue to call it the Dark if you wish—I would suggest it, in fact. I would also warn you not to reveal what you learn in this class carelessly. Any and all dark magic should be cast with supervision, especially if it is your first time using it."
+
+She glared at everyone other than Kryva, and they all nodded rapidly, terrified by the force of her glare. Evi relaxed when she saw her words had been taken seriously. "Now, to answer your question. If you want to know what the Lesion is, you must think about what the Divine is not. Your gods represent your beliefs, do they not? They are the pillars of your societies, your cultures, your civilizations."
+
+"Flia should be here," Syphus muttered, its eye narrowing slightly, and Cale found himself in agreement.
+
+"We'll pass on the lesson," Cale whispered back. "We're meeting up tonight to work on our assignments, anyway."
+
+"The Lesion represents everything else," Evi continued, her eyes darkening slightly. "All those left behind. Their anger, their hurt, their fear. Do you think it simply stops existing because it is ignored? That all that they are is lost the moment they enter the River?"
+
+Cale knew what she meant. He'd fought against it himself countless times across countless civilizations. There was a rot that developed from within, a tendency to leave people behind in the name of progress. Those who could have built ships to carry all the world with them would instead build boats made of the skin and flesh and suffering of all those they thought beneath them.
+
+And no matter how many times he stopped them, it always seemed to happen again. The same story would repeat in a different world and with different people.
+
+One of the reasons he couldn't let himself touch this dark magic, now that he knew. If he channeled that anger for even a moment...
+
+"They are not," Evi said, and her gaze flicked briefly to Cale. He wondered if she knew what he was thinking. "Their suffering leaves a scar on the Great Realms, and it is a scar that grows and accumulates with the death of every suffering soul in all the Realms. With enough time, that scar became the Lesion, and the Lesion became the source and embodiment of the Dark."
+
+Which meant that Dark Lords were, in turn, an extension of the Lesion, connected more deeply to it than any other being. It was no wonder they struggled to act freely with the weight of that upon them.
+
+"Do not mistake me," Evi added, seeing the terrified expressions of many of her students. Her tone became authoritative, and she stood, making sure they all saw her drawing herself to her full height. "The Lesion is not evil. It is a metaphysical construct in the Abyss that is shaped by the fear and suffering of many, but it is more than their despair. Many of the soul-fragments that comprise it are good and kind at heart. If it were not, its power could never be wielded for good."
+
+"But it can be," Cale said.
+
+"It wants to be," Evi corrected. "It is a thing of great anger and hatred that yearns most to be used for good—to make sure that no one can be left behind again. The great tragedy of the Lesion is that it is nigh impossible to use its power in the way it desires most. No matter how much it may desire it, the hatred it inspires within its dark ones is too strong. It weeps, I think, at the suffering it causes."
+
+"Strange," Kryva said. The class's attention darted to the wyldfire mage as she finally spoke aloud. Her brows were drawn delicately together in contemplation Cale could practically see the way Evi's heart skipped a beat as she stared at her. "That it should desire so greatly to do good, yet its power brings harm instead... it screams of interference. Of something dancing upon the strings of reality."
+
+Evi's eyes seemed to light up. "Yes!" she said. "That's what my Queen—it is what the Pastel Queen and I believed! My lady, you are as intelligent as you are beau..."
+
+She trailed off, noticing the class staring at her and the slightly-amused quirk of Kryva's lips, and tried hard not to fixate too hard on the latter. "Ah... That is to say, my Queen was as intelligent as she was beautiful, and we believed the same thing. We searched desperately for what we thought might be compromising the cycle, but we could find nothing. Only the barest hint. If we could only have accessed the Lesion for ourselves—but we could not find the key."
+
+"Perhaps you should ask the questions, Cale," Kryva said with a soft, delicate laugh. Honestly, Cale couldn't blame Evi for being so flustered. There was something about the grace with which she moved and spoke. "I am afraid I pose a distraction to our dear instructor."
+
+Evi's armor was a dark purple and had most certainly not been enchanted to turn red, but somehow, it had done exactly that. And was there steam drifting out of her eye-slits? Kryva was right; it was probably best he take over before she fainted.
+
+"What's this about a key?" he prompted.
+
+"Oh! Uh." Evi took a moment to compose and gather herself. Another sip of tea seemed to help. "This will take some explanation. If you want to wield the Dark... that is what I should have been teaching, I suppose? Mm. Let us begin there, then. To wield the Dark, you must each learn to see the shadow."
+
+Cale raised an eyebrow. He wasn't sure where this was going, for once, but he was intrigued. "The shadow?"
+
+"The shadow," Evi confirmed. She glanced nervously at Kryva, took another sip of her tea, and then settled her gauntlets in her lap. "That is... the first question the Pastel Queen and I asked ourselves was how it could be that the Lesion was connected to all the Realms. Surely the scholars and mages would have seen it? How can dark ones form the connection, and have that connection remain invisible to almost everyone else?
+
+"We realized that the Great Realms are already connected through the leylines. If the Lesion can connect to every realm, then that connection must be hidden within something that already exists. It is here that we gained our first major understanding of the Dark: that we are connected in ways the Divine could only dream of emulating. The power of the Lesion is carried in the shadow of every leyline and connects every dark one, past and present. It is that power that you must learn to access to perform dark magic."
+
+That explained how dark ones were able to draw from the experiences of their predecessors. Cale had always wondered about that. It was no doubt easier to draw from predecessors belonging to the same realm, but if what Evi was implying was correct, he suspected they could draw from the experiences of those from other realms as well. It would be more difficult, certainly, but it would be possible.
+
+"Meditate on a leyline," Evi added, almost as an afterthought. "There is one that runs beneath Brightscale Academy, and we are close enough to it here to access it. If you can find the shadow I speak of, you will be able to tap into its power."
+
+There was a slight pause. "That is to say, you should start meditating now," she added awkwardly. Obediently, the students in the class did exactly that, including Syphus. They each closed their eyes and tried to sense the shadow Evi had mentioned.
+
+Cale and Kryva were the only ones that did not. Dark magic was hardly safe for Cale to perform, given its caveats, and he suspected Kryva was more interested in how it worked than in performing it herself. Tea magic, after all, was a delicate art. It wouldn't actually gain much from the sort of raw empowerment the Dark offered.
+
+"What does any of this have to do with the key you mentioned?" Cale prompted.
+
+"Right," Evi said. She glanced around at the rest of the students, as if to make sure they were all lost in their meditative trances, then took a deep breath. "We tried to follow the shadows back to the source," she explained. "To the Lesion. And we found it, but it was locked."
+
+Cale frowned. "Locked?"
+
+"That is the most accurate term," Evi said, shifting uncomfortably. "The memory is unpleasant. The Lesion is a scar made manifest. It lingers in an empty part of the Abyss, surrounded by not even the barest speck of life. When we attempted to commune with it, we found ourselves trapped and unable to move beyond its surface. Our magic should have allowed us to speak directly to its heart, but it felt instead like we were stuck within a constantly-changing labyrinth of thought, unable to delve deeper within.
+
+"When we returned, we concluded that a key was necessary. Something to stabilize the labyrinth and make it navigable. There is one such key on Utelia, but it is fiercely guarded, and we could not retrieve it before... before my Queen was lost to her anger." Evi bowed her head. "It is my greatest failure."
+
+Kryva sighed softly. "You should not hold yourself accountable for such things," she said gently. "I may not know her personally, but I have read her writings. She spoke highly of your efforts, and I know she would not wish you to see yourself as a failure..."
+
+She rose from her seat, then stepped up to Evi, who had frozen in place. She placed her fingers under the Dark Warrior's helmet and pushed it gently back up. "So lift your head, my knight," she whispered.
+
+"Mngfrgh," Evi said intelligently.
+
+"Perhaps I said too much." Kryva chuckled softly, returning to her seat and folding her hands in her lap. She turned to Cale, who eyed her speculatively: perhaps he was wrong, and she was the Pastel Queen? Or a reincarnation of herself, somehow? He had met no other that crossed the realms between lives as he did, but there were ways to reincarnate within a realm.
+
+He knew immediately that she wouldn't answer the question if he asked, though. There was something different on her mind. "You know what this means, yes?" she asked. "A key of power, capable of stabilizing the labyrinth wrought onto the Lesion. There are many great relics on Utelia, but only one capable of distilling possibility to that degree."
+
+Cale nodded wearily. "I assume we're thinking about the same thing," he said. "The Anchor that's the prize for the Fettered Divinity Tournament. Though if it's the key to the Lesion, I'm surprised no one's figured that out before now. Aside from Evi and the Pastel Queen, I suppose."
+
+"Mngfrgh," Evi said again.
+
+"Are you trying to say something?" Cale glanced at her.
+
+"Mngfrgh," Evi said a third time, then smacked herself in the helmet. The clang echoed through the desert.
+
+After it faded, she spoke as if nothing had happened. “The key would need to be returned to its true shape,” she explained. “An academy keeps it in one form, but if it is held by a different organization, it would take a new form to suit that organization."
+
+"So it would need a shape similar to the way a dark lord’s armies are structured," Cale mused. His gaze sharpened slightly—hadn't he just observed the similarities between the Red Hunters and the way the armies of a dark one were usually set up? Had the Red Commander done that on purpose?
+
+He couldn't exactly interrogate the Red Commander anymore, but there was still technically a squad of underlings that would be sent to Brightscale. The organization hadn't lost all its power or members in the wake of their leader's death; instead, it had mostly just lost its momentum.
+
+So its underlings might very well still have an inkling on what their commander had been planning. That was important. If any of those plans was associated with the tournament, then it was almost certain he had known something of this and that the Lesion was somehow important to their plans or to the cults.
+
+Cale supposed he’d have to find out exactly when they were planning on visiting. He glanced up from his musings to find Kryva watching him, something keenly observant in her eyes.
+
+“You have acquired some crucial insight, I see,” she said when he met her eyes, chuckling. “It has truly been a pleasure meeting you, Cale Cadwell Cobbs. I look forward to working with you in the tournament. Make sure you attend, yes?”
+
+“Of course,” Cale said, mostly because he was at a loss as to what else to say.
+
+“As to the lesson on dark magic..." Kryva adopted a thoughtful expression. “I doubt it is quite so easy to access this ‘shadow’, or many more mages would have done it already. Am I right on this, Evi?”
+
+“I, ah,” Evi said. “The meditative trance to even try usually blocks out all other senses. I thought it’d be prudent. Since we were discussing the key. But I don’t necessarily expect anyone to succeed, no. You’d need a particular affinity for it, or to join the dark lord. Uh, it’ll still help them with their melee magic though! Dark magic is emotional, so they’ll benefit from even trying.”
+
+“It was not a criticism.” Kryva chuckled. “That was a clever move. I will offer my own assistance, I think. Perhaps one of our students will have a true affinity for the Dark.”
+
+With that, she waved a hand, and Cale felt her cast [Tea Party] a second time. The second cast of the spell conjured delicious-looking plates of pastries in front of every student; somehow, it broke them immediately out of their meditative trances, and there were quiet exclamations of surprise and joy as they began digging eagerly into the snacks.
+
+Cale had no idea how this was supposed to help with the dark magic thing, but he had a much more pressing concern. "I thought tea magic was closely related to baking magic," he said. "But does it... does it overlap that much? Did you just conjure croissants? You have to teach me. Or at least let me look at the spell!"
+
+Kryva laughed softly. "Well, I suppose I could," she teased. Then she paused, her brows furrowing slightly and a hint of surprise showing in her eyes. "...But I believe you have something more important to concern yourself with first."
+
+"What could possibly be—" Cale stopped mid-sentence as a dread energy filled the air.
+
+He turned slowly to Syphus.
+
+Its plate of pastries was empty, somehow, which was interesting; Cale noted he had once again missed his opportunity to observe how it ate. Probably more important, though, was the fact that its infernal eye had grown into an ominous, burning thing that gazed down on them with terrible power.
+
+"Syphus," he said. "Please don't tell me you did dark magic on your eye."
+
+"I did dark magic on my eye," Syphus said. "Please help. I can see this big pulsating egg thing and I don't like it."
+
+That made sense. Syphus didn’t tend to like any reminder of the mess that was organic life. Though he had no idea why it would be looking at an egg, of all...
+
+Cale paused. “Syphus,” he asked incredulously. “Are you looking at the Lesion?”

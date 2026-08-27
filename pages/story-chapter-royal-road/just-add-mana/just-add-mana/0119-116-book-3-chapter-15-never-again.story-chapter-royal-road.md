@@ -1,0 +1,173 @@
+---
+id: 4af838f7-467c-5836-8f73-9f33c9735291
+page-type-slug: story-chapter-royal-road
+title: "116 — Book 3, Chapter 15 — Never Again"
+slug: 0119-116-book-3-chapter-15-never-again
+partOf: just-add-mana
+position: 119
+ownLength: 2894
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3214363/116-book-3-chapter-15-never-again"
+royalRoadId: "3214363"
+---
+
+Cale remembered a lot less about aberrations than he would've liked.
+
+There were things about them that he knew for a fact, though the memories seemed to have no real origin. He knew, for instance, that their existence was not nearly as terrible as the name implied. He knew that they had chosen that name for themselves in an act of spite, so that the Realms could never forget what they were.
+
+Rejects of the so-called divine order. Creatures and monsters whose existence alone undermined the function of the Great Realms. They were a mathematical byproduct of cosmic law trapped in one of the most unenviable positions imaginable.
+
+For that reason alone, Cale offered them mercy when he could, and sometimes even when he couldn't. He took what opportunities he could find to help their chosen leaders seek peace instead of war. Every opportunity was hard-fought, and often he had to convince them to seek out that peace to begin with, but how could he do anything less?
+
+They were victims of the cosmic order, and Cale knew all too well what that was like.
+
+Yet as much as he might have tried, it was rare for that peace to succeed. It was possible, certainly; their circumstances often made such a thing difficult, made worse by the nature of the Realms themselves, but nevertheless there was the occasional realm that made it work.
+
+He remembered them, each and every one. Cale had encountered tyrants and despots and all sorts of cruelty in the many lives he'd lived, and still those moments shone brightest.
+
+The moments, rare and precious, where kings and gods and monsters could find it in themselves to agree.
+
+Of course, Cale had no idea if the peace they brokered lasted for more than a century. His soul might have been immortal, but his body wasn't. All too often he was forced to move on from those realms before he saw how long those empires he'd helped forge could last.
+
+A part of him was disappointed by that fact, but in the end, it didn't matter: he remembered those realms fondly, and always would.
+
+Yet all this only made the gap in his memories all the more frustrating. His understanding of aberrations and their culture was abstract at best. Cale couldn't help but feel like he should have known more—that he had known more, at some point. Enough, perhaps, to convince the one he fought now to stand down.
+
+There were more drastic measures he could have taken to restore his memory, but he was reasonably certain that he'd been the one to impose this limitation on himself in the first place. He'd have to trust that he'd had good reasons for doing so, and in the meantime, he would have to work with what he had.
+
+All this flashed through his mind as the worm-serpent's [Echo Wound] struck the counter-magic of [Acoustic Rebound]. There were half a dozen options available to him in that instant, half of which would have utterly obliterated the aberration; most of the rest would lead to a slow, agonizing death, even for a creature that was an amalgamation of its lesser selves.
+
+Cale picked none of them.
+
+Even beyond the fact that he needed answers, he couldn't bring himself to feel the same fury he'd felt toward the Red Commander and many of his Hunters. He couldn't muster the same rage he'd had against those foolish elves that had been so willing to sacrifice a child for the sake of their own power, back when he'd first arrived in Utelia.
+
+There were similarities, yes. This aberration had harmed an innocent—even now, the library around them trembled in its agony, and Cale could not ignore that. But nor could he ignore what he saw within this aberration. It was something he hadn't seen in either the Red Commander or those elves.
+
+Regret.
+
+It was barely noticeable. A flash of it beneath a host of other emotions. Then there was the fear, churning bright and furious within its mana; it boiled so bright that it was almost impossible to glimpse the thin thread of hope that lingered beneath a torrent of conflict. Cale might not have recognized it if he hadn't himself been intimately familiar with it, but he knew what this was.
+
+For all the grandiosity of its words, it harbored no true hatred or disregard for those it harmed. It was only that the hope it carried was painfully fragile, whisper-thin and prone to breaking. There was a desperation in its words and magic, a deep fear that if it made a mistake—if it let itself be tricked or if it failed in its duty to block the Bitter Path—then that thin, fragile hope it carried would be lost forever.
+
+Cale knew that desperation well. There would be no bargaining with it, no words that could convince it to stand down. Any deviation from the path it had chosen presented an unacceptable risk, an unknown in the face of a true possibility.
+
+Perhaps if he showed a great enough display of power, he might convince it to turn aside. Part of the problem, after all, was the fact that it was right to doubt him. In almost any other situation, a mage that approached an aberration like this was one planning to trick their way past. After all, what were the odds of encountering Cale Cadwell Cobbs?
+
+Of course, if anyone had asked Cale that question, he would've given them his most candid answer.
+
+It was far, far higher than one might think.
+
+Cale had learned the art of being at the right place at the right time long before the Thread of Fate had dug its hooks into him. It was a part of him now in much the same way that his magic was. He never went out of his way to explain it, though, even if he never went out of his way to hide it either. Let the tyrants believe it was unlikely that he would be there to stop them. It made things all the easier for him.
+
+The problem here was that he didn't know if a show of power would be enough. The aberration would have to believe both that he meant well and that the power he displayed was worth the risk, and that was not the kind of faith he could buy in a moment. Nor was the kind of power he would need to show easily achieved without destroying the library.
+
+He needed another option.
+
+It was fortunate, then, that the spell he'd acquired gave him exactly that.
+
+[Acoustic Rebound, Level 1] [Fourteenth Tier, Active] [1.0e32 Mana]
+
+Capture the magic within an opposing echo-aspect spell and contain it within an acoustic boundary of your creation. This boundary may be freely manipulated, but note that the spell it contains retains all aspects of echo magic, including its tendency to accumulate and grow.
+
+Cale might not have remembered much about aberrations—certainly not enough to convince this one of anything he needed—but he did remember a great deal about echo magic.
+
+It had once been the bane of his existence.
+
+That was part of why he remembered as much about its weaknesses as he did, even now.
+
+An echo lich had once been among the greatest of his early opponents. Xenuluat, who claimed the title of Realm's Shadow, whose armies had ravaged the lands he once protected. He was himself an echo, born from the late king's desperate need to survive even when his health was ailing. The king himself had conquered his fears and passed with his daughter at his side...
+
+...but his echo had not.
+
+That was the true danger of echo magic.
+
+In truth, its name was a poor descriptor of what it could actually do. An echo, in the context of this magic, was better described as a distorted ripple created by the events occurring within a realm.
+
+Those ripples rarely amounted to anything, even ones caused by large, world-shaking events. It was not intensity that created an echo so much as it was sheer, unfortunate chance; if the consequences of an action intersected with itself in just the right way, it could manifest as a complete echo that would itself have command over the echo aspect.
+
+This was part of what made Xenuluat so dangerous. The echo lich's command of its magic was such that no matter whatever Cale tried, it could manifest an echo in response. There seemed to be no limit to what it could do—any strategy he employed and any allies he called to arms were all turned back against him, and he would have to scramble to find a means of turning the tables once more.
+
+That process taught him about the intricacies of echo magic better than any scholar might have. He knew its properties well. It had a tendency to amplify itself, allowing an echo mage to perform far greater magics than they had any right to; it could be contained by sound magic, to a degree, though that containment did not destroy it; it was based solely on the act or individual that had created the echo.
+
+Most important, however, was the discovery that an echo was fundamentally tethered to that which had created it... and that it could be used, in turn, to reconstruct its source. In the battle against Xenuluat's forces it had allowed them a reprieve.
+
+Not only that, but when they finally reached him, they were able to call back the old king to help them. While it was a temporary measure, the act of manifesting him within Xenuluat's own soul had destroyed the echo lich, ending what amounted to almost a decade of war.
+
+Cale had teased out the nature of the worm-serpent's [Echo Wound] in the moment the spell was cast. Once it was contained within his [Acoustic Rebound], he could confirm what he'd glimpsed—that the source of this echo was based in everything the aberration had done to get here.
+
+The spell was a strike that gathered every reaction and consequence it had ever endured and imposed that force onto its target, striking at them through that target's own causal existence. It was an incredibly powerful spell, one that would undoubtedly have killed almost any mage it targeted.
+
+Cale was also relatively certain he would have been fine if he had done nothing. The spell would have had to carve through his own ripples to hurt him, and long after the battle with Xenuluat, an echo mage had once described the ripples of his existence as "incredibly violent, impenetrable soup".
+
+He'd liked that mage, actually. Hopefully she was doing alright.
+
+In any case, the way things stood, [Echo Wound] included a distortion of everything the serpent-worm had ever done, including when it had helped its partner—whoever that was—infiltrate and seal the Bitter Path. If he could isolate that part of the echo and invert it, it was possible he could reverse those actions without even needing to unseal the dungeon himself, and he was almost certain that doing this would force the aberration into a corner. If it wanted to get... well, whatever it was looking for, it would have to hear him out.
+
+Probably. This was a lot of thinking to do, and he was lucky that spell had taken as long to charge as it had. Being able to freely manipulate the boundary generated by [Acoustic Rebound] was a blessing, too; against Xenuluat, he and his allies had been forced to improvise a ritual, but with this, he could split and recontextualize the echo as he wished.
+
+"What... what are you doing?" The worm-serpent hissed uncertainly at him. Probably because as far as it was concerned, he was playing with its spell like putty.
+
+"Shhh," Cale said. "I'm concentrating."
+
+"Is that what we look like when we're concentrating?" Echo asked. "I think I understand why that one Lady of the Lake was all over us now."
+
+"You will cease this at once!" the serpent snarled, ignoring them both. It shot toward him, opting for physical violence where magical violence had failed—but now the tremor in its voice was real, and the panic impossible to ignore. "Trickery! Blasphemy! You befoul the holy magic!"
+
+"You're probably really not going to like what I do next, then," Cale said, lifting a hand. The echo magic he contained thrashed furiously as it was lifted into the air. He twisted the boundary, almost in the way of a key fitting into a lock—
+
+—and something came undone.
+
+Far in the distance, something cracked and thundered into place; Cale heard it as the familiar sound of a dungeon's entrance manifesting, albeit in reverse. Then a figure flew backwards out of that entrance, jerking unsteadily among the shelves of the library before finally snapping to a halt right in front of them.
+
+It was here that Cale and the serpent both froze, staring at the mangled figure of the aberration in front of them. The body was almost unrecognizable, and it was only the faint trace of remnant magic and the course it had taken through the shelves that informed Cale it had once been a person at all.
+
+"No," the serpent said. "It cannot be. Ravalos? You are... you are merely pretending, yes?"
+
+Something in Cale felt cold.
+
+"Tell me you are pretending," the serpent said. "Please. What has happened to you? Why do you bear the stench of death?"
+
+The coldness felt almost like it was spreading, that coldness. It took him a moment before he recognized what he felt as fury, incongruent as it was with what he was witnessing.
+
+"You cannot be dead." The serpent slithered close to the corpse, the movement small and hesitant despite its size, and nuzzled weakly against the body. Horrifying as it appeared, in that moment it seemed like nothing more than a child, sad and lost. "Please. Will you laugh? I wish to hear you laugh. I know I said it was annoying. I do not think it is annoying. Please laugh."
+
+Yet unlike every other time Cale felt this same coldness, this time, there was no target in sight. The state that body was in told him that this aberration had died days ago. His reversal of the serpent's spell had retrieved the body and undone the seal, but there was a limit to the way it interfered with causality; it could not undo time, though it could do a very good facsimile.
+
+Which meant that the serpent had been standing guard over the dungeon, waiting for a friend that would never return. Any other mortal would have been ejected at the moment of death, perhaps, but an aberration...
+
+The injustice of it burned.
+
+So did what he knew would come after.
+
+"You did this," the serpent said. "I see your strength. You must have had an ally who pierced the dungeon while you distracted me. You are a threat. You would undermine all we have worked for."
+
+"I had nothing to do with your friend's death," Cale said quietly. "I don't want this."
+
+"He's telling the truth," Echo said. "But if you let us help—"
+
+"Enough with your lies!" the serpent roared. "You have stolen something precious from me. And you are strong. Strong enough that I cannot beat you. I see you now, the multi-faceted, the static in the fog. I see the resonance of your deeds. You believe yourself untouchable?"
+
+"I don't," Cale said steadily. He knew where this was going. Already, he was working to find a way to stop it. To find any spell, any combination of spells that might stop this aberration from doing what it was planning.
+
+"I will show you," it said, and something in its voice cracked. "That no one is untouchable."
+
+A truly desperate echo mage could pull off a devastating magic. There was a spell that could undo the existence of its caster in exchange for a monumental burst of power—the sort that could cripple gods.
+
+Cale himself would be fine. He'd borne this level of assault before, and even if the worst should happen, he would soon find himself in another realm, young and whole.
+
+But he was so terribly sick of death and tragedy. More now, perhaps, than ever before. Both the battle against the Red Commander and telling his apprentices the truth of Yggdrasil's End had cemented that in his mind.
+
+Time was running out. Already the serpent was drawing its power back into itself, the extant echoes it had manifested no doubt unravelling. Only Echo fought to keep itself together, and it was losing.
+
+It shot Cale a worried look. "We're going to save it, right?"
+
+Cale nodded grimly. "I'm not letting this happen again."
+
+The only problem was that Cale was very, very good at killing. He was good at saving others, even. But saving them from themselves...
+
+A thousand faces flashed through his mind. How many people had he failed in this way? There were countless lives where he'd been a fraction of a second too late—where his allies had been forced to cast a desperate spell and buy him that final, precious second.
+
+These circumstances were different, perhaps but the desperation was the same. He'd seen it a thousand times, across a thousand lives.
+
+Never again.

@@ -1,0 +1,99 @@
+---
+id: 8c41b955-d5cb-561e-9a4e-5c873432de51
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58: Riding a Dinosaur into Battle"
+slug: 0339-chapter-58-riding-a-dinosaur-into-battle
+partOf: labyrinth-of-the-mad-god
+position: 339
+ownLength: 2166
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3859736/chapter-58-riding-a-dinosaur-into-battle"
+royalRoadId: "3859736"
+---
+
+Nick had been hoping to reach the bloodline library before monarch had time to rally its forces, but it seemed that wasn’t in the cards.
+
+During key moments throughout his adventures, his perception of time had slowed down. He hadn’t known what to make of it until investing heavily in Mind, but he’d recently realized the attribute let him overclock his brain to make split-second decisions when his life was on the line. In short, in addition to following multiple trains of thought at the same time, which would have been impossible in his old life, Nick could think a hell of a lot faster too.
+
+While he didn’t know it yet—and had by no means learned to take full advantage of his gifts—due to his recent breakthroughs, not only did he have the highest combined attributes of anyone on Earth, he was the most mentally agile person in the history of his species.
+
+He only had three seconds before the horde was upon him, but that was a second more than he needed. Nick split his attention several ways as time slackened to a glacial crawl, analyzing the enemies swarming from all sides while casting multiple spells and determining the optimal response.
+
+He had invented countless tricks during his war within the Blade World. He had learned to infuse Blightbane with Devour in addition to pure mana, letting his attacks penetrate magical defenses and drain vital energy. He also developed a technique to extend the sword’s reach while battling the bat, which was perfect for attacking from the saddle.
+
+As a half-dozen Mana Darts winked into existence above his head, Nick free cast force mana into a weave he’d learned from Arcane Shield. The energy assumed a stable matrix, extending the length of Blightbane’s hilt to transform the sword into a polearm. His creation wasn’t perfectly balanced like a mastercrafted naginata or glaive, but after his explosive gains, the weapon’s weight was negligible, which made positioning the gripping near the balance point far less critical than it was for other warriors.
+
+He used a different application of free casting to pump extra energy into Force Armor and Force Acceleration, increasing their output in exchange for efficiency. By the time a pair of Piercing Rays finished forming, his preparations were complete. He used the final second at his disposal to see what his partner was up to.
+
+Lurk’s reflexes were impressive, and she had learned to use two abilities at once. Force mana and her electric Concept came flowing from her core, encasing her body and roiling within her maw. The world was reduced to a streaking blur as she abruptly sped up, current coursing between her jaws like she was gnawing on a bolt of lightning. He didn’t know the details of her new powers, but Size Up was certain they were just as lethal as they looked.
+
+Despite the severity of the situation, Nick was acutely aware of the fact that he was riding a dinosaur into battle, which was near, if not at, the top of the list of the most badass things he’d ever done.
+
+“Let’s fucking murder them,” he addressed his mighty steed, which was not something he was going call Lurk out loud.
+
+She roared her agreement as an army of Nightmares converged like the fist of midnight incarnate—twisted beasts of living shadow straight out of a fever dream. As they reached the pair of towering constructs barring their way forward, he leapt from the saddle, landing on an Arcane Shield while Lurk went in for the kill.
+
+The instant he knew which enemy she’d chosen, he let loose with Heavy Blow and switched off Force Acceleration. Pulling off a Sonic Slice while Blightbane was in polearm mode was trickier, but thanks to his gains from Blightborn, it was effortless to execute the technique—even without his scabbard in the mix.
+
+A supersonic force blade erupted from the Legendary sword, followed by a crack that reverberated across the city. It tore into the towering Nightmare, nearly bisecting it lengthwise in the process. The gigantic summon was already pulling itself back together, but Nick wasn’t finished yet.
+
+He had released the potent blend of pure mana and Devour he’d packed into the weapon, sending a Severing Slice streaking out to land a heartbeat later. His second technique was considerably more effective against Zora’s creation. The resplendent arc of ravenous silver ripped the construct’s matrix asunder. His Concept grabbed hold of the remnants, and drew them into his channels, restoring a fair portion of his reserves.
+
+Meanwhile, Lurk struck like the wrath of nature personified. She ducked beneath a set of jagged claws, batted aside the next, and sank her fangs into the Nightmare’s neck, injecting a torrent of Concept-bolstered electricity into its shadowy form. Nick whistled in appreciation as the air crackled and his hair stood on end, and that was only the appetizer in the beast’s banquet of carnage.
+
+Jaws wreathed in living lightning, Lurk’s force-clad tail brought the thunder, battering her foe faster than his eyes could follow. In that moment, he could sense her Concept clearly. The dinosaur was an avatar of the Primal Storm, a perfect match for her innate fury.
+
+While it was heartening to defeat the gigantic constructs without taking any damage in return, Zora’s minions numbered in the thousands or more. “We can’t stay here. Carve a path to the library and I’ll watch your back!”
+
+Nick landed in the saddle, combining spells and swordplay to conduct a symphony of destruction as the dinosaur obliterated every Nightmare in her path in a blitzkrieg of talon, fang, and tail. Together, they formed a unified maelstrom of obliteration, tearing countless constructs apart while struggling to break through the inky press.
+
+It was his first time operating as a true team with the towering predator. Fighting with Kenji and Fritz involved brilliant tactics and precise teamwork. Battling with Bandit at his side was chaotic and fluid, and the lemur had countless tricks up his sleeves.
+
+Partnering with Lurk was like riding a blender the size of a whale.
+
+Thousands of rats were trampled beneath her feet as twisted cats, wolves, and animals with no earthly equivalents formed a surging tsunami of shadowy forms. Instead of breaking over their heads and dragging them into the abyss, the dynamic duo parted the tide of horrors, casting them aside like waves crashing against a rocky shore.
+
+When a bearlike construct leapt for Nick, Lurk caught its neck and slammed it into a second Nightmare that was coming the other way, tearing the first’s throat out in the process. Meanwhile, his Devour-saturated sword erased wave after wave while filling his core to the brim.
+
+They couldn’t stop them all, but Nick’s defense had undergone a night-and-day improvement since entering the quarantine zone. Force Armor deflected countless attacks and absorbed even more—far more potent after using his token to acquire all three upgrades.
+
+While they were making steady progress, he grew increasingly worried as the running battle wore on. “Zora’s ritual must be near completion if it’s willing to sacrifice so much energy to keep us busy. We need to reach the library before it’s too late.”
+
+Lurk screamed her agreement as they pushed through the press. When the horde threatened to overwhelm them, the beast leapt high into the air. Acting on instinct, Nick conjured a platform beneath her feet. Even with his boosted attributes, his magic could only bear the carnivore’s weight for a second, but that was enough time for her to jump to the next barrier he placed twenty feet ahead.
+
+The skywalking duo left the swarm behind, but soon a new enemy appeared. Bats, birds, and giant insects formed from carnivorous magic converged on their position, blotting out the sun. “Hit them with Roar,” Nick yelled as he unveiled his Predatory Domain.
+
+Size Up had informed him the constructs were infused with a fragment of Zora’s will and vulnerable to psychic attacks. Sure enough, as the double wave of killing intent broke over the winged horde, the dreadbeast’s army was driven back, although he could tell the effect wouldn’t endure long.
+
+He fired a fusillade of Mana Darts, erasing swaths of flying foes to restore the cerulean heavens. Just when it seemed that they would break through after all, a threat emerged that sent dismay coursing through his veins, even with Arctic Clarity fortifying his resolve.
+
+A Nightmare approached from the direction of the library that made rest look like pitiful parodies of the word by comparison. It was thrice Lurk’s height and totally jacked, like a titan crossbred with a yeti on steroids. Its form was humanoid, with long arms and spiked knuckles that brushed the ground.
+
+Mage sight worked in concert with his danger-sensing skill, letting him know this foe was a league above the rest—an elite guardian infused with a fair fraction of the monarch’s power. It seemed the dreadbeast had anticipated Nick’s strategy, positioning its strongest minion to prevent anyone from interfering with the ritual.
+
+His instincts were screaming to return to the ground. The construct could reach them and Lurk needed to deploy her full agility if they were going to prevail. “Shit. This one is going to be tough to tackle, even working together.”
+
+Nick could feel the odds shifting in Zora’s favor. By the time they took the big bastard down, the dreadbeast might obtain unstoppable power, and the clock was ticking for Kenji and Bandit too. This was, to put it mildly, an unfortunate development. No matter how many ways he sliced it, he couldn’t see a winning move on the board.
+
+That was when Lurk turned and spoke for the first time. “Go.” That single word conveyed a great deal. She would battle this fearsome foe while Nick dealt with the Death of Dreams.
+
+It was a reckless gambit. The Nightmare was stronger than she was, and though they had outpaced the landbound horde, reinforcements would arrive before long. There was a fair chance Lurk wouldn’t survive ensuing melee, but she was taking this risk with open eyes, staking her life the he would prevail before she was overcome.
+
+“All right. Give the creepy fucker a chomp for me too.”
+
+When the elite Nightmare came charging in, he sprang from the saddle, jumping from platform to platform to gain altitude. The massive construct reached for a nearby building and pulled a pillar free from its moorings. It cocked the makeshift projectile, intending to knock him out of the air, but before it had time to swing, the dinosaur unleashed a Paralyzing Roar and smashed into its side with her talons leading the way.
+
+Acting on instinct, Nick tied off Force Armor before skywalking out of range, leaving enough energy to remain manifest for several minutes before fading away. It was an advanced feat of magic he’d never attempted before, and he planned to study his breakthrough when he had time to spare. As he raced for the library, he looked over his shoulder, wishing the dino luck as she took on her strongest opponent yet.
+
+An incredible swell of magic was congealing within her jaws—multiples times more Primal Storm than her prior attacks. When the crackling energy hit critical mass, a surging cone of lightning lanced forth. The dinosaur unleashed a breath attack that would have done a dragon proud, eradicating every Nightmare in range other than the kaiju-sized horror and clearing the stage for a one-on-one battle.
+
+As the clamor of combat rang out, Nick pressed his body into a burst of speed. He crossed the sky in a streaking flash, approaching the crystalline building standing in the palace’s shadow. Lurk was screaming her fury and pain, but he barely noticed.
+
+By this point, every scrap of his attention was focused on the creature channeling its Concept into a glowing ring of runes. When he switched on mage sight, he sensed the spell was only seconds away from culmination. The moment the library’s barrier fell, the monarch would devour the bloodlines it held and gain untold power.
+
+Acting on instinct, Nick hit the ritual circle with a Severing Slice, disrupting the formation a bare second before it completed. Zora growled as it spun to face Nick, then surprised him by letting loose a throaty chuckle followed by velvet words.
+
+“Clever, but ultimately futile. The wards are nearly depleted, and it will be a trivial matter to resume the ritual once you’re out of the way. Come now, let me get a good look at the warrior who defeated Xuthu and Vashir—the final obstacle standing between me and the power contained within the world core.”
+
+Size Up was wailing in his ear, but Nick already knew this enemy was more lethal than any that had come before. He had grown by leaps and bounds since entering the quarantine zone. Now it was time to find out if he had what it took to defeat Zora the Death of Dreams.

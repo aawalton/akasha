@@ -1,0 +1,175 @@
+---
+id: a114f79c-936f-5a11-988b-13d3299faacd
+page-type-slug: story-chapter-royal-road
+title: "151 — Book 3, Chapter 50 — Dragonstorm, Pt 9"
+slug: 0154-151-book-3-chapter-50-dragonstorm-pt-9
+partOf: just-add-mana
+position: 154
+ownLength: 2766
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3566135/151-book-3-chapter-50-dragonstorm-pt-9"
+royalRoadId: "3566135"
+---
+
+Syphus frowned at Tajia's warning. What did she mean, this wasn't over? As far as it knew, any organic creature died without their heart. A creature made of blood was about as organic as one could get, it was pretty sure.
+
+Then again, it had never been clear on the differences between organic species and certain elemental ones. Thorn, for example. Did he count as organic, or was he some kind of plant elemental? Was he perhaps some sort of secret third option? From what Syphus had learned (reluctantly, over a number of lectures from both Cale and its fellow apprentices), there were a lot of secret third options as far as the realmborn went.
+
+Life was so messy. Syphus appreciated that about it, it supposed. Things had been monotonous back during its days with Sisyphus, and now it was constantly being proven wrong about its assumptions about the world. It was like learning that the ground didn't have to constantly slope up all over again.
+
+So when Tajia gave it that warning, it took it seriously. It knew better than to argue with someone that had fought these things before and knew what they were capable of.
+
+That, and it knew by now when a fight felt too easy. This very much felt like one of those.
+
+Sure enough, Okorin's body was still for only a moment before it rose with a wet, gurgling laugh. "There you are," he said, blood pouring from his maw as he spoke. Syphus could see the dragonlord's organs from where it was, pulsing in time with an invisible heart. It would have lamented how gross organic creatures were if not for the danger that even it could now sense. "I was hoping you'd reveal yourself if I gave you the chance. Some sort of construct, hm? Protecting a human! How interesting."
+
+He glanced down at Syphus's transformed arm with interest. "And your magic is like mine," he said, a dark sort of delight in his voice. "Self-transformation. A freeing art, is it not? I do so think we could be friends. How about it, little one?"
+
+Syphus would have very much preferred not being compared to this thing in any appreciable way, but it did have to admit that Okorin's magic was brutally effective. The problem was the sheer lack of any magic. All he was doing was transforming himself to hit things! He could have at least set himself on fire or something.
+
+"You could at least set yourself on fire or something," Syphus grunted. "What's the point of transforming yourself if you aren't going to use it to shoot magic?"
+
+"Oh?" Okorin raised a brow. "A bold stance. You enjoy the spellwork itself, do you?"
+
+"Humans shoot magic," Syphus said. "I like them."
+
+"Still too young to understand." Okorin clicked his tongue. "I prefer my magic to be efficient, that's all."
+
+"I'm older than you are."
+
+"Oh?" Okorin tilted his head, his eyes glowing briefly. "Ah, true. Interesting. But only in physical form, yes? Your mind has been around for much less time. What an interesting creature you are."
+
+Syphus sighed. "You're lucky my dad can't hear you," it muttered. "I have some problems with him, but he would absolutely smite you for this."
+
+"Perhaps he'll find me, then," Okorin said lightly. "To avenge you, I mean. I look forward to it."
+
+He made no overt movement, but Syphus knew a declaration of intent to kill when it heard one. It cast four separate [Earth Wall]s before the dragonlord could even finish the sentence.
+
+Yet it did so to no avail. Okorin hadn't been kidding about the efficiency of his spells. He pointed at them and then his fingers stretched, his scales crackling with some magic Syphus couldn't identify; there was a flicker of green on it, and [Truesight] saw it as a rending crack within mana itself.
+
+Whatever it was, those fingers pierced all four walls before heading straight for the crystals of its etherite crown. Syphus cursed, trying to roll out of the way, but the accursed things just warped and twisted mid-air until it struck the etherite and cracked—
+
+Then everything vanished. Syphus couldn't see. The [Truesight] maintained by those lovingly-etched crystals had been dispelled, and while its mana sense still worked, Syphus had never needed to rely on it before. It wasn't good enough with it to figure out where Okorin was and what it was doing.
+
+It should have practiced more. It hated it when Leo was right.
+
+"Was that not your core?" Okorin asked curiously. "I suppose that would have been a rather obvious spot for a core. My compliments to your creator."
+
+Syphus did the only thing it could think to do and shifted its entire body into the Second Form, then threw its strongest defensive spell into it.
+
+(It hated the Second Form, and it hated the idea of using it this way. The Second Form reminded it too much of the days of old, when it had been nothing more than a boulder with no mind or name of its own. To transform its entire body into the Second Form was to remind itself of a time it could do nothing more than dream and wish for something different.
+
+That dream was special, though. It was a dream shared with Sisyphus, who had given it a name and identity. Through that dream it had been given the power to make more of the world in Sisyphus's stead, to see and do what he could not. It had its fixations, but this was something it took seriously.)
+
+The Second Form of the Spellfist Arts took the form of a sphere that could transform the output of a spell into a radiating aura. Syphus had experimented with it only once before deciding that it hated it, but in that time it had discovered that the sphere was hollow inside.
+
+That was the property it took advantage of now. It brought Tajia into the Second Form, to better protect her, then channeled one of its few defensive spells into the mechanism. [Corestone Carapace].
+
+A forest of corestone exploded outward around it.
+
+Corestone had two unique properties. The first was that it was made of the same material Syphus was—in fact, Syphus was the origin of corestone, in a way. The material had been specifically created to never wear down by erosion or impact, to ensure Sisyphus's punishment would last eternal.
+
+The second was that because it was made for that purpose, it held the same symbolic power that Syphus itself did. Okorin's strange magic struggled to pierce the now ever-growing forest of stone erupting through the ground. It wasn't entirely stopped, unfortunately, likely because the spell was greater than a simple plainroot spell, but it was slowed.
+
+But the combination of spells tore through Syphus's mana more quickly than it expected. Syphus made a grinding, irritated sound. It wasn't going to be able to hold this for long, and though it had managed to produce a drop of palewater, it didn't want to waste it on defense. That would only guarantee a slow but eventual loss.
+
+"Syphus," Tajia said. She seemed surprisingly composed, all things considered. Syphus admired that about her. "What did you do?"
+
+"Bastard broke my face. I can't see," Syphus said, its voice terse. The loss of [Truesight] was more jarring than it had anticipated. "I'm using a defensive spell to keep us safe and block the corridor. Okorin won't get past us."
+
+"But you can't keep this up forever," Tajia deduced, frowning and looking around. "There's a lot of symbolic energy in... wherever we are."
+
+"You're inside my Second Form," Syphus said shortly. It was large enough to hold her, so long as it transformed everything into this form. All except for the Cauldron, anyway, which manifested now as a second sphere within the first. Tajia glanced at it curiously.
+
+The two remaining spells in there might save them, except even an enhanced [Fireblast] hadn't taken out the dragonlord. Two more might not make much of a difference. Perhaps if it used the Forge and fused them? But it had never succeeded a fusion before. It would be one thing if Leo was right about the process needing palewater, but if he was wrong, then it would use its most powerful tool for nothing.
+
+And yet what other choice did it have? It liked fighting and combat, certainly, but it would never toy with anyone else's life. Okorin had made it very clear that he would.
+
+"Tajia," Syphus said quietly. "I need to make the Second Form a bit smaller so I can try something. Is that alright?"
+
+"There's space. It should be fine." Tajia hesitated, then seemed to sharpen, and to its surprise, Syphus felt her touch on the Cauldron. "Tell me what you're going to do. I may be able to help."
+
+The Cauldron and the Forge, Tajia explained, was meant to be a single unit.
+
+It had taken her a total of two minutes to figure it out, muttering to herself as she examined each mechanism. The Spellfist Arts, it seemed, drew its inspiration from this ancient form of alchemy; the mechanisms Syphus possessed were known variations on spell systems, designed to alter the output of a symbolic spell.
+
+There was a chance it was just coincidence, perhaps, but Syphus wasn't so sure. Was it any surprise that small elements of the past might have survived into the present? Perhaps echoes of humanity's influence were all throughout their magic.
+
+Regardless, they had a plan now. That plan had almost been derailed when a tendril of the University brushed against Syphus and informed it that those dragonlords had two cores, but Tajia had adapted quickly, and now they were certain they had something that could beat Okorin.
+
+Probably. There were always ways for things to go wrong, with magic.
+
+The Cauldron was designed to accumulate and compound any spell once it was cast. The Forge was designed to force a fusion of spells, independent of the Gift. Theoretically, if Syphus had a great enough understanding of any two spells, it could use the Forge manually.
+
+It did not. As far as it was concerned, [Fireblast] was a big blast of fire. But even without that understanding, the spells could be forced to fuse; the conditions for it were simply more difficult to achieve. Tajia deduced there were three of them they would need to meet to ensure success, though there were likely far more that could influence the outcome. She simply didn't have the time to identify all of them.
+
+First, purity of intent. The Forge could not be muddied by intent that did not belong to the caster; any divine assistance would only interfere with the working. Palewater would be needed to cast the Forge with purified mana.
+
+Second, dominance of form. If Syphus had understood the nature of its spells in full, it could have used that understanding to command the form of those spells. Since it did not, the spells needed to be packed full of so much power that they could not maintain their own forms in the collision. This was where the Cauldron's influence was necessary.
+
+Third and last was direction. The resulting storm of magic could not be expected to crystallize into a coherent whole without something to shape what would emerge from it. The Forge itself did not provide this, though if Syphus had been more practiced with intent, it might have been able to do so on its own. Without that practice, Tajia explained, she would instead use something called an Edict.
+
+"I never got the chance to teach my apprentices about this." Tajia smiled a sad, rueful smile as she drew across the ground in chalk; she was using her oldest and most precious stick, Syphus noticed. It could feel the pristine condition of that chalk. It didn't stop her. "Edicts are my specialty, but they're a little advanced for a basic alchemy course."
+
+"What do they do?" Syphus asked.
+
+"An Edict imposes a symbolic meaning on its target," Tajia said. "Environmental alchemy infuses that meaning into the world, but an Edict is a direct transmutation of one symbol into another. You might think of it as one of the cornerstones of alchemy."
+
+"Oh. Okay." Syphus didn't get it, although it understood this would help direct the spell that emerged from its Forge.
+
+"Think of it as punching meaning into something," Tajia suggested, apparently aware it didn't understand.
+
+"Oh!" That metaphor Syphus did get. "That sounds cool. What meaning are we giving the new spell?"
+
+"Souldeath," Tajia said, and though her words were soft, there was a strange cadence to her voice. "It will let us destroy both cores at once."
+
+Syphus thought about this for a moment. The way she had said those words... "No. I don't like that."
+
+"...What?" Tajia froze. It could almost feel her glare as she glanced around. "This thing is going to kill us if we don't kill it first!"
+
+"I know. I'm not saying we shouldn't kill it. I'm just saying my new spell shouldn't be based on souldeath," Syphus explained. "What's it gonna do other than kill people dead?"
+
+"Why do you need it to do anything else?" Tajia sounded perplexed now.
+
+"Because I'm going to have this spell afterward," Syphus said. "And I want to be able to show off my spells to my friends. I want something that explodes really hard or something that's cool. Cale told me about soul-killing spells before. They're all boring."
+
+"You don't want a soul-killing spell because it's boring," Tajia repeated, and although Syphus couldn't nod, it did its best to project the idea that it was nodding vigorously. "I... fine. What do you want, then?"
+
+"Give me whatever you think your apprentices would find really cool," Syphus said eagerly.
+
+That made Tajia hesitate, and when she spoke again, her voice was softer; that strange cadence was gone. "...Yeah. Alright. That sounds... you have a point." She hesitated. "Thank you."
+
+"Why are you thanking me?" Syphus asked. "You're the one giving me a cool spell. Now come on, I can't keep this up much longer."
+
+Within the Cauldron, two spells raged.
+
+They had been accumulating and raging for two weeks, tumbling around one another and accruing every spare scrap of fire mana that ended up within the Cauldron. Though they were third-tier spells to start with, after all that time accumulating they were close to the seventh tier, at least in terms of raw destructive power.
+
+The bridge to the eighth tier was a difficult one, though. They could have spent a year accumulating without reaching that tier of power. Every fourth tier was a leap up in power, and they had already managed to ascend the fourth. The eighth would have been insurmountable without what happened next.
+
+A gateway within the Cauldron opened. Neither spell hesitated. They shot through the door and into the Forge, and they found themselves suddenly within an environment that burned with mana. Pure mana, even. Purer than anything they'd encountered before.
+
+They swallowed it all eagerly. More and more they ate, moving faster and faster within the Forge, until their entire existence was moving rapidly along the grooves along its inner lining. There was a grand total of three near misses as they whirled around the Forge, until on the fourth round—
+
+Collision.
+
+The spells burst apart, shattering into raw mana that only vaguely remembered the shape it once held. What was it now? What was it supposed to be? It was fire, it knew that much, but what kind of fire?
+
+It raged, uncertain, until an Edict descended upon it.
+
+My apprentices have a love for the stars, it said. That is what you are. A star that offers hope.
+
+And the fire knew what it was.
+
+You have learned [Starburst]!
+
+This was a good spell. Syphus knew it in its nonexistent bones. It couldn't see to direct the spell, though. Tajia trembled with exhaustion—that Edict had taken a great deal out of her, whatever it involved, and she could barely move.
+
+But she had just enough left for this. Syphus felt her trace a direction in its stone, and although it no longer had its eye to grin, it felt a fierce joy.
+
+"Given up, have you?" Okorin asked. "Very good. I will admit, I was getting a little bor—"
+
+Oh! And Okorin was helping it aim by talking! Perfect.
+
+Syphus cast its new spell, and a brilliant star erupted through the hall.

@@ -1,0 +1,107 @@
+---
+id: 0daccc27-d146-5596-accf-4b794e60b62e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70: Running Water and Not-So-Terminal Velocity"
+slug: 0252-chapter-70-running-water-and-not-so-terminal
+partOf: labyrinth-of-the-mad-god
+position: 252
+ownLength: 2060
+unit: words
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2789607/chapter-70-running-water-and-not-so-terminal-velocity"
+royalRoadId: "2789607"
+---
+
+Nick woke up feeling amazing—still wrapping his head around the idea that he had a bedroom and a home to call his own.
+
+Even without a mattress, his blanket-cushioned bed was far more comfortable than lying on the ground and he slept better with stout walls to guard his back and a roof over his head. He spent a few minutes stretching out while enjoying the moment before getting dressed and grabbing his pack.
+
+When he made his way downstairs, Shaun was sitting at the kitchen table next to a steaming thermos of coffee he’d traded for some of his extra equipment. The redheaded archer grinned when he saw the longing on Nick’s face, then poured him a cup and gestured for him to take a seat.
+
+“Thanks, man. Nothing beats starting my day with a hot cup of coffee. I can’t wait until we start growing our own.”
+
+Shaun laughed. “Happy to be of service.”
+
+They sipped the wonderous brew for a few minutes before the young man turned to him and said, “I wanted to thank you for letting me live here and for everything else you’ve done for me. I was a miserable little shit when we first met, but you protected me anyway and gave me a chance to become a better person. After losing my family and everyone I knew…”
+
+“I get it.” Nick sighed. “None of us were ready to fight for our lives, and we were all scrambling to survive. Humanity was dealt a harsh hand, and while you may not have been the best person when we met, you’ve worked hard to change and grow. You risked your life to save the Earth and found this city, just like everyone else. We’re all in this together, and I’m glad you’re with us.”
+
+“That means a lot to me, Nick. I won’t let you down.” They enjoyed a companionable silence for a while longer and then went their separate ways. Shaun left to join one of the squads that was conducting scouting runs along the border of the biome while Nick headed over to the bathhouse to wash up and eat breakfast in the mess hall.
+
+Not long after, the planning committee convened. Today they were meeting with a team Stan had founded to come up with creative solutions to some of Aurora’s pressing problems. They needed to consult with Nick to find out if their idea would work, since it involved combining multiple Uncommon vouchers with some magical components that could only be purchased with Building Points.
+
+It took several hours of tinkering to find an option that was viable. In the end, they worked out a design that could provide the town with clean, running water and deal with the sewage that came out the other end. In addition to being more convenient than using the wells and public bathroom, this was a vital development if Aurora was going to expand to hold thousands of residents, let alone reach a population with additional digits.
+
+Since this was a high-priority issue, they asked Sarah to join them to assist with her illusion magic and began placing buildings right away.
+
+The first component was an industrial pump that drew water from the lake. There were several models in the City Building Menu, and Nick selected a modular design that could be expanded as needed. It featured an intake system, a mana-powered pump, and enough high-grade piping to transport water across the inner district.
+
+The magic components, which included the pumping and filtration mechanisms, came out to 350 BP. The water mages thought that with time, they could learn to replicate the feat, which would let Aurora keep growing after the Rebuilding Civilization quest came to an end.
+
+The heavy-duty pipes and intake modules cost two Uncommon vouchers. They had sufficient capacity to hook up several thousand homes with running water and supply the commercial and industrial districts with the water they needed for the foreseeable future.
+
+Nick traded in several Common vouchers for modules that would make the system environmentally friendly. They included some sophisticated filters that kept any plants or animals from being drawn inside and some vibrational dampeners that made the pumps whisper quiet unless you were standing right beside them. Instead of drawing water directly from the lake, the earth shapers dug a small intake channel along one side to minimize the ecological impact.
+
+Stan’s creative-solutions team had already found volunteers to cover the intake facility in artwork and ornamental plants, which would preserve the shoreline’s scenic view. The area would double as a small park where people working nearby could take their lunch breaks.
+
+The next component was a series of massive tanks that were redeemable for Common vouchers. They would keep the flow nice and steady even when demand spiked and would serve as a backup in an emergency.
+
+The tanks were elevated so the pressure could send water to other places without the need for additional pumps. Stan requested that Nick leave the surfaces blank so the artists could use them as canvasses, and he was eager to see what they came up with.
+
+The other major purchase was a waste-treatment plant. The structure required three Uncommon and five Common vouchers, and the sophisticated earth-and-water magic it needed to function cost another 500 BP. It was an expensive purchase, but since Aurora’s income was increasing by the day and the mages could learn a lot from observing the mechanism, he didn’t mind splurging to obtain the vital facility.
+
+The magic powering the building included several fantastic features that wouldn’t have been possible to attain otherwise. One component eliminated the smell, which was a major upgrade all by itself. Another separated the treated waste into separate chemicals. This had numerous industrial applications that were above Nick’s paygrade, but the engineers and crafters assured him it would be incredibly useful as Aurora developed.
+
+All these vouchers and BP are proving to be a godsend, Nick mused. It would have taken months if not years to create a fully functional civilization from scratch, even with our new bodies and powers. I can’t wait to see what we accomplish over the next eleven months and change.
+
+The sewage treatment plant had almost ten times the capacity of the industrial pump. It wouldn’t need to be upgraded until the city’s population cracked 100,000, which wouldn’t be anytime soon, even by Liz’s most-generous estimate.
+
+Since it cost so many vouchers, there were quite a few options for the plant’s appearance. Nick sketched a few of his favorites out and after everyone voted for the one they liked, he started placing everything down. The design was something called a mega-sculpture garden, and it made the facility take up a considerable amount of space. However, the results were more than worth it.
+
+Instead of being lumped together, the plant’s components were spread across a large park. They were housed inside structures shaped like famous sculptures from other worlds, transforming the facility into an alien art gallery.
+
+Everyone was thrilled to experience the culture of other worlds, and the plant was fated to become one of the most popular locations in town. They pulled some benches over so people could eat while admiring the art. Stan’s team would coordinate with the earth mages to make a running track along the perimeter, and the crafters were eager to install some exercise equipment along the exterior so people could train while taking in the view.
+
+This facility was self-sufficient, but there were hatches where the components inside each structure could be accessed, which meant the magic researchers and the building crews could study how they worked and learn from their construction.
+
+Last but not least, Nick used some CP to lay down a pair of high-capacity pipes that spanned the city, since they were beyond what the crafters could create at present. It took the better part of the day to get everything finished, and everyone was thrilled with the results.
+
+He had delayed the building messages until the facility was up and running, and he went ahead and sent them through now.
+
+The leader of Aurora has purchased:
+
+5 Water-Storage Tanks (Common).
+
+1 High-Capacity Water-Intake System (Uncommon+).
+
+1 Sewage Treatment Plant with a Mega-Sculpture Garden (Rare).
+
+Aurora’s citizens had been watching the process all day, but everyone let out a cheer now that the project was officially complete, walking through the sculpture garden with wonder on their faces.
+
+Everyone was ecstatic that the city had an environmentally friendly, aesthetically pleasing source of running water and a smell-free way to deal with their sewage, and they were eager to get the pipes hooked up to the other buildings in town.
+
+***
+
+As the sky began to darken with the coming of dusk, Nick found himself standing on the rim of a ravine, peering into the yawning crevice where Team Earth had battled the Armada Wurm and its host of powerful beasts.
+
+He was far from the only person in the area. A support team was gathered around the cavernous tunnels the burrowing Capital Boss had created, which extended deep below the surface of the Bladewind Badlands for miles in every direction.
+
+An elite party was down there now, surveying the tunnel network, stabilizing the passages so they wouldn’t collapse, and hunting for valuable crafting materials. While all of that was exciting, he was hoping they would find another regional resource to claim, adding more of mana wells the city needed to redeem its Rare vouchers.
+
+He smiled as he watched his people go about their work, but that wasn’t why Nick was here today. He had chosen this area because an idea had come to him that he wanted to test. This was the highest point he had ever leapt from, and he knew he could survive the impact if this didn’t wind up working out the way he hoped.
+
+Even with his incredible Toughness, it was intimidating as hell to contemplate a two-hundred-foot jump without a parachute, although, if his theory panned out, he wouldn’t need one ever again. He realized that he was stalling, so he took a deep breath, called on Arctic Clarity to calm his nerves, and activated Force Acceleration.
+
+A potent field of force mana flowed out from his energetic core to encase his body in a layer of magic, which meant all that was left was to hop from the edge and pray he didn’t fuck up the timing. He let himself savor the electric thrill of danger for a few final seconds, then shrugged and stepped over the precipice.
+
+His stomach dropped and the wind buffeted him as he plummeted toward the canyon floor far below. With his current Mind, the quick freefall gave him plenty of time to visualize his plan and wait for the perfect moment. Steady, Nick. Just a little further. Now!
+
+As the ground rose to greet him, he gathered his will and deactivated Force Acceleration. Blood rushed into his head as his descent rapidly slowed, causing a ghostly double to slam into the ground with a thud that turned every eye in the area his way. Dirt billowed into the air from the incredible impact—kinetic energy that no longer belonged to his mass.
+
+Nick’s boots touched the ground half a heartbeat later, landing lightly, just as he had hoped. When he realized the support team was staring at him, he bowed in their direction, and they offered a round of applause. Grinning, he walked over to say hello—thrilled that his idea had worked.
+
+He had realized a few days ago that in addition to creating various force-based attacks, his mobility enhancing magic could be used to control his momentum beyond stabilizing his Sonic Slices.
+
+Thanks to Force Acceleration’s latest upgrade, Nick had a way to survive a fall from any height and stop himself if he was sent flying by an enemy’s attack. The breakthrough had also given him an idea for an entirely new form of transportation, but that would have to wait until he ironed out a few other issues first.
+
+Smiling wide, he spent the better part of an hour checking out the survey team’s progress and praising their efforts. He was immensely satisfied with how his day had gone and was eager to get back to work bright and early tomorrow morning.

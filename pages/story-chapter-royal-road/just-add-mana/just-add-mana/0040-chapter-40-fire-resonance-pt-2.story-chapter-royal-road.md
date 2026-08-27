@@ -1,0 +1,277 @@
+---
+id: c8094e8b-b6f5-56a5-bc03-6bc482aa72f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40 — Fire Resonance, Pt 2"
+slug: 0040-chapter-40-fire-resonance-pt-2
+partOf: just-add-mana
+position: 40
+ownLength: 4436
+unit: words
+ownProgress: 4436
+publishedAt: 2025-09-27
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2633273/chapter-40-fire-resonance-pt-2"
+royalRoadId: "2633273"
+markedReadAt: "2026-06-29T18:48:56.212Z"
+---
+
+Unfortunately—or maybe fortunately, as far as Cale was concerned—he didn't immediately have to worry about the balancing scale, because the professor from the other academy was storming over. Graystalk himself looked neither surprised nor worried, so Cale was pretty sure he'd been expecting something like this.
+
+The other professor was... interesting. She looked to be some sort of gargoyle, for one thing, with skin made of surprisingly flexible stone and enormous wings stretching out of her back. It was technically possible she was a golem, but her mana core had none of the usual signs of being artificial, so gargoyle was far more likely.
+
+The only oddity was that gargoyles couldn't usually move during the day. Some kind of enchantment stitched into her coat? Cale could sense something there, at least, if not the exact nature of the enchantment. If only he could actually cast [Identify Artifact]...
+
+Then again, she might not take to that too kindly. She seemed mad enough as it was. Or she was pretending to be mad, at the very least; her mana core didn't seem nearly as agitated as Cale might have expected.
+
+"We have a schedule for a reason," the gargoyle professor hissed, stalking up to poke a sharp-looking claw into Graystalk's chest. "The Brightscale Academy cannot change it on such short notice and expect the rest of us to comply! Do you think having a dragon as your Headmaster gets you free reign?"
+
+Cale snickered to himself. She sounded almost exactly like Professor Graystalk had when criticizing him for not being early enough to class. Had she learned it from him? He didn't miss the fact that despite her outward aggression, she was careful not to puncture the fabric of Graystalk's suit with her claw when jabbing at him.
+
+Some kind of performance, then, presumably necessitated by the relationship between their academies. What surprised him was that the other academy's students didn't strike him as the haughty noble type; if anything, they looked like they were spoiling for a fight. Three students in particular stood out to him: a serpentine lady wielding three daggers, one of them clutched in her tail; a hulking elf that looked like he had intentionally ripped his uniform apart over his biceps; and what appeared to be some sort of sentient sword.
+
+The last one he would have assumed was a weapon if not for the fact that it was both wearing a uniform and wielding another, smaller sword.
+
+...Cale had so many questions.
+
+He didn't get the chance to actually ask any of them, though, because at that point Graystalk began to speak.
+
+"A pleasure to see you again, Professor Delia," the older elf said with a polite smile. He was entirely unperturbed by the general aura of menace emanating from Delia and her students. "And a very good morning to the esteemed students of the Haelforge Academy. I apologize for the last minute intrusion, but I believe Headmaster Akkau sent a missive that explains our rather extenuating circumstances?"
+
+Delia scowled and straightened, if only so she could cross her arms angrily across her chest. "You Brightscales always have extenuating circumstances," she muttered. "We can't keep accommodating for your extenuating circumstances."
+
+Behind her, several of her students murmured in agreement. Cale watched in fascination as some of them—as in, more than one, somehow—brought their blades up to their mouths to lick, all while staring at the Brightscale students.
+
+"That can't be sanitary," Cale muttered to himself, wrinkling his nose.
+
+At least there wasn't blood all over their blades. That would've crossed a line.
+
+The Brightscale students responded by bunching together defensively and glaring right back, their Wing allegiances temporarily forgotten. That made Cale raise an eyebrow. Academic rivalries were stronger than the prejudice against the Astral Wing students, apparently. Who would've thought?
+
+You have learned [Basic Physical Enhancement]!
+
+You have learned [Lesser Shadowstep]!
+
+And that came from a Haelforge student surreptitiously casting a spell. Cale glanced at the student in question and saw to his surprise that it was a delicate-looking wisp of a girl hiding near the back of the group, avoiding eye contact with anyone.
+
+Huh. Interesting. He'd have to keep an eye on her. The first spell he could have bought as self-defense, but the second... that felt like she was preparing for something.
+
+"We will provide adequate compensation, of course," Graystalk said mildly. "I am sure you understand the frequency—no academy is free from these extenuating circumstances, after all."
+
+Professor Delia narrowed her eyes at that, but some of the tension left her shoulders. "We need this class just as much as you do," she said. "What do you propose? A duel for the shrine?"
+
+Graystalk raised an eyebrow. "I was hoping we could simply share. It hardly matters how many students use the Firestorm Scale; you know as I do that the bulk of resonance training is done after its use, not before."
+
+"The shrine doesn't have enough mana for that and you know it," Delia said, scoffing. "Really, I was hoping you'd have a better solution than that. It takes thousands of mana just to fuel the first resonance rank acquisition for a single student."
+
+"Which can only be done after our students offer their mana to the Scale," Graystalk countered smoothly.
+
+"Offerings can only do so much." Professor Delia frowned slightly. "What's your game? You know how this works. Even if we both poured half our cores into the shrine it wouldn't be enough to fuel all our students. It's why we have a schedule in the first place—the shrine needs time to recharge between sessions."
+
+She paused. "Or is that your game?" she asked, stepping closer to Graystalk. Right into his personal space, in fact. There was something dangerously playful in her voice. "You know I'm on the cusp of getting my fifth rank. Are you trying to slow me down?"
+
+Graystalk chuckled. "Hardly. I am on the cusp of the sixth rank myself; it would be foolish of me to sabotage us both."
+
+The students all let out a collective oooooh, even as Delia flinched as though struck. "Wha—when?" she demanded. "You couldn't possibly have had the time—"
+
+"Brightscale secrets, alas." Graystalk smiled politely, but Cale didn't miss the hint of smug satisfaction in his eyes. Neither did Delia, it seemed, because her scowl only deepened. "Regardless, the point is moot. We will have all the mana we need. Isn't that right, Cale?"
+
+Slowly, everyone's attention turned to Cale, who had up until then been lounging with Damien near one of the rocks. He brightened as Graystalk and Delia turned to him. "Oh! Are we bringing me into this? I was just going to watch." He gave the confused gargoyle professor a wave. "Hello! I'm Cale. Although I guess you figured that out already."
+
+Professor Delia took a moment to recover from the abrupt introduction. To her credit, she didn't immediately dismiss him—instead, she stared at Graystalk, then at Cale, then swept her mana sense more carefully over him.
+
+Her eyes widened. "You're an archmage," she said. "At least. Graystalk, why in the eight infernal realms do you have an archmage as one of your students?"
+
+The Haelforge students almost immediately burst into excited whispers, nudging at one another and staring at him. Cale didn't miss how half of them were suddenly flashing increasingly ornate weapons attached to their uniforms, nor the quarter that were visibly salivating.
+
+Well, that confirmed his suspicions about them, at least. No sane novice wanted to fight an archmage. Honestly, he kind of liked them now. Maybe he could pit Damien against them?
+
+Though with the nervous glances the dreadshade kept shooting him, that probably wasn't that good of an idea...
+
+"That would be telling," Graystalk answered. "And quite the long story, I'm afraid. Suffice to say he has an interest in studying the Standard Array."
+
+"Another one?" Delia asked, exasperated. "Where do you even find all these—you know what, never mind. How is a single archmage supposed to help with the mana scarcity problem in the shrine?"
+
+Graystalk glanced at Cale, and from the look on his face, he was enjoying himself far too much. "An excellent question," the professor said. "I do believe Cale is a few steps away from archmage, in fact. A demonstration will be far more effective than mere words, however, so how about this? If there is insufficient mana in the shrine once Cale has his turn with the Firestorm Scale, we will leave."
+
+Delia stared at him suspiciously. "...What, just like that?"
+
+"Just like that," Graystalk said. "I will even re-allocate a quarter of my assigned credits to the Haelforge Academy."
+
+"That's... generous of you," Delia said, clearly even more suspicious now. "And what do you want from me if you win this bet?"
+
+Graystalk considered this for a moment. "Well," he said. "Your students appear to be eager to fight, as usual. How about a simulated battle between our classes? Not today, of course. Two weeks from now would suffice."
+
+Several Haelforge students cheered at that, although Graystalk's own students stared at him in a mixture of disbelief and horror.
+
+"You do remember that I have Chosen mages in my class, don't you?" Delia asked. "I couldn't even guarantee the safety of your students. You're sure you want to do this? What are you getting out of it?"
+
+Graystalk chuckled. "Let's discuss that after, shall we? After all, there would hardly be a point if we happen to fail the first challenge. Cale, would you mind taking your turn with the Firestorm Scale last?"
+
+"Hm? Oh, sure," Cale said, slightly distracted. He'd been admiring the Firestorm Scale in question. The thing was enormous, and it looked like it was built to convert or extract almost any mana type placed on one side of the Scale. It would have trouble with some aspects, of course—Damien's primordial decay aspect would almost certainly give it some trouble, let alone his own prismatic mana—but all in all, it was an impressive thing. Essentially a divine artifact all on its own.
+
+...Cale still wasn't sure it would be able to handle the sheer quantity he'd be giving it. If anything, he was very sure it couldn't, at least not without the extra control he'd gained from his one rank in draconic resonance. Good thing Akkau had given that to him when he did; he could only imagine the reactions if he accidentally broke this thing.
+
+"I'll need some time to prepare anyway, just to be safe," Cale added after a moment, examining the Scale critically. "Don't want to break them by accident, you know?"
+
+Graystalk smirked at that comment; Professor Delia just stared at him. "You can't break the Scale," she said. "That would require so much mana the Gift itself would struggle to display the number. Why would you even... you know what, it doesn't matter. I don't know what you Brightscales are up to, but I'm going to go tend to my class. You better be ready to allocate those credits to me by the end of the day."
+
+"Of course," Graystalk said pleasantly. "One more thing before you go."
+
+Delia paused. "Yes?"
+
+"There are only seven infernal realms left, it seems." Graystalk shrugged. "Cale appears to have blown up the eighth."
+
+Delia stared at them both.
+
+"It was an accident," Cale added helpfully.
+
+The gargoyle professor opened her mouth, held up a finger, then closed it again and let out an exasperated huff. "Ridiculous," she muttered, turning to leave. "I never know what you Brightscales are up to, but of all the outlandish claims... and Graystalk, of all people?"
+
+The older elf in question did his best to hide his amusement, but couldn't quite stop his lips from twitching slightly. "I think I am beginning to see why you do this," he murmured, glancing at Cale.
+
+Cale beamed. "And I think I'm starting to see why Syphus likes being a bad influence."
+
+Next to him, Damien sighed and buried his face in his cloak.
+
+Cale sat with Damien in a corner of the Elemental Shrine of Fire, watching with interest as each Haelforge student approached the Firestorm Scale and attempted to commune with it. They gave it an offering of mana on one side of the Scale, causing the whole thing to tip slightly, although never more than a single degree. After that, the roaring tempest of fire on the other hand would flash and grow, causing the Scale to tip back to its end. Then a small piece of fire mana would peel off from the storm to settle over the eyes of the mage communing with it, and they would find a place to sit and meditate.
+
+To try to connect with the elemental plane of fire, presumably. They needed fire mana in spades to do that, though, and that was evident in the way wisps of that mana gathered around the meditating mages and flowed into their cores, building out that very connection.
+
+It was fascinating stuff. He so rarely got the opportunity to witness entirely new schools of magic, and this felt like it qualified. What could have given birth to this?
+
+It had something to do with the Gift, he was pretty sure. Maybe a side effect of the way it organized and categorized magic, or a result of magic itself being made available to everyone. There was a tendency for new things to manifest in realms where magic was more commonly available, and it was hard to get more "commonly available" than a realm that had the Gift.
+
+Maybe that was even the whole point of it. It was itself an incredible assistive tool for learning magic, but it had also very clearly been created to develop new magic. The most obvious way in which that manifested was the way it created new spells, but there was no reason to assume it wasn't capable of more.
+
+Cale was really starting to want to talk to the god that created it. Akkau had mentioned something about the God of Magic, hadn't he? It was probably best that he wait for his Divinities class, though. The last time he tried to contact a god unannounced he'd inadvertently caused rather a lot of chaos.
+
+He didn't exactly regret it. But still! Cale was almost offended the creator of the Gift hadn't already reached out; he had to know that Cale existed, considering how it worked...
+
+Oh well. Shrugging to himself, Cale turned to the dreadshade sitting next to him. The poor guy was huddled up in his cloak and staring out over the horizon with the same blank look Cale sometimes caught him with. He was doing his best to complete a partial attunement to fire, but was evidently struggling; so far, the Cloak had only managed to extract a very small quantity of fire mana from him.
+
+"You doing okay, Damien?" Cale prompted.
+
+Damien blinked, startled, and shook himself slightly. "Y-yeah," he answered after a moment, albeit a little hesitantly. "Sternkessel's keeping my mana leakage under control, I think? It's nice of him."
+
+"Still worried about that, huh?" Cale asked, chuckling. "He didn't offer to do that before?"
+
+"He did, I just... I didn't want to risk it." Damien looked down, unable to quite meet Cale's eyes. "All this is kinda new to me, you know? I didn't think I'd be doing, um... well, any of this, really. Just, after seeing what happened with Izzik... well, you know."
+
+He gestured vaguely, and Cale nodded in understanding. It wasn't uncommon for a mage to change their approach to magic entirely after experiencing something life-changing, and what Damien and the others had been through yesterday definitely qualified.
+
+"Do you think it'll work?" Damien asked suddenly, fidgeting with the edge of the Cloak. "I mean, even with the Cloak, I don't know if I can attune enough of my fire mana..."
+
+Cale hummed. "Decay and fire aren't that different," he said, giving the dreadshade a small smile. "Fire comforts and warms. It might be capable of enormous destruction, but it's also the root of many, many civilizations. I should know, I've seen it." He grinned, and Damien snorted slightly.
+
+"I can't tell if I'm horrified by that thought," he said.
+
+"I try not to think about it," Cale said cheerfully. "Point is, decay is basically the same. It represents rot, but that rot fuels the circle of life. You need it so the new can take the place of the old..."
+
+He trailed off, noticing Damien deflating slightly at his words. He could feel the dreadshade trying—he'd listened to his words, and was actively attempting to apply them—but something about his words had evidently triggered some kind of deeply-buried memory.
+
+Cale studied his friend for a moment and sighed. "I'm guessing something pretty bad happened with your mana at some point."
+
+Damien winced. It was a small movement, but Cale was all too familiar with the defensive reflex, the way the dreadshade instantly closed up. "I-I don't want to talk about it."
+
+"That's fine," Cale said gently. "You don't have to. But just so you know... I've made my fair share of mistakes, too. Live long enough, and you're bound to."
+
+Damien was silent at that. The seconds ticked by as he stared out over the horizon, but eventually, he asked a quesiton so quiet Cale almost didn't catch it. "How do you live with them?"
+
+Cale snorted. "I didn't have a choice."
+
+Damien shot him a startled look, clearly expecting a different response, and Cale laughed at the almost comically worried expression his friend was wearing. "Not the most inspiring answer, I know," he said with a little grin, letting just the smallest hint of his weariness slip through. "But it's the truth. I don't get to run away from what I am any more than you do."
+
+"That implies you get to run away a little bit," Damien mumbled. "Because that's what I do."
+
+"Oh, I do," Cale admitted. He leaned back against the rock, thankful for the elemental wards that fueled the shrine; without them, the place would have been scorching hot. "All the time, as much as I can. It's hard to stop once you start."
+
+He paused, then glanced at Damien, his tone casual. "What do you make of that? Because I know you've noticed."
+
+Damien hesitated, like he wasn't sure if he was allowed to say what he was about to say. Then he visibly steeled himself and sighed.
+
+"I think you should stop," he said quietly. "Just for a little bit. It doesn't have to be forever. You can slow down, or um... let your friends carry the burden sometimes."
+
+Cale nodded. "Probably true," he agreed, and then poked Damien in the shoulder. "You should listen to your own advice."
+
+"I—" Damien started to protest, then snapped his mouth shut, frowning. "You tricked me."
+
+"I did," Cale said, smug.
+
+"...That doesn't mean it doesn't apply to you too, though." Damien's gaze was worried, and Cale shifted under it, slightly uncomfortable.
+
+"My burdens would snap your back like a twig," he muttered after a moment, folding his arms over his chest. When Damien started to argue, he held up a hand. "But I'll consider it."
+
+"We can work on it together?" Damien offered.
+
+Cale let out a disbelieving scoff, then grabbed Damien by the shoulders and started giving him a noogie. "You're way too nice and innocent," he said as the dreadshade yelped and started flailing. "Do you know how hard it is to say no when you do that?"
+
+"N-no?" Damien squirmed.
+
+"Good. Never change." Cale shook his head and smiled as he let Damien go. At this rate, he really was going to give up his secrets to his apprentices. He saw too much in them. Too much of his old friends, his best lives, his greatest regrets...
+
+Cale coughed hard and changed the subject. "Anyway," he said. "I'll tell you mine if you tell me yours, but not here. Can you tell me what Graystalk was on about earlier?"
+
+"What do you mean?" Damien blinked, caught somewhat off-guard. "About what?"
+
+"He said something about credit allocations," Cale prompted.
+
+"O-oh." Damien paused, recalibrating. "Oh! Right, we were supposed to tell you more about how the credit system works... um. Okay. Here goes."
+
+Lucky for him, it seemed like Damien wanted to change the subject as much as he did. The dreadshade launched into an explanation of how the credit system worked, starting with the obvious—that four different Wing credits were required to make a 'complete' credit, apparently called an offering credit—and then into the reason why the Orstrahl Kingdom cared enough to give up precious magical artifacts in return for them. It was a little more than just wanting to sponsor powerful mages, it turned out.
+
+"The Gift makes them?" Cale asked, surprised.
+
+Damien nodded timidly. "Yeah. The Gift is meant to encourage magical study and use, so every magic academy gets an allocation of Wing credits at the beginning of each year. It wants us to interact with one another across different schools of magic and different types of mages, so it requires one of each Wing credit to make a complete offering credit..."
+
+"Well, that's not exactly working out," Cale said, wrinkling his nose. "It doesn't actually enforce who gets what credit, does it? The professors are supposed to give out credits based on Wing, but they can give out whatever. Sternkessel basically just gave us a full set."
+
+"That's one of the problems with it," Damien said, glancing away. "It's supposed to encourage students to cooperate and share their credits, but um, that doesn't really happen in practice."
+
+"Feels like it's missing a step." Cale grunted, tapping a finger on the floor contemplatively. "You'd want to reward people for sharing. What are these Offering credits used for?"
+
+"T-they're mostly useful to the Kingdoms and some of the smaller political factions in Utelia," Damien said, fidgeting slightly. "Offering credits can be used to buy... boons? Blessings. From the Gift. So if the Kingdom of Orstrahl gathers enough of them, they could buy a blessing of health for their citizens, or some sort of attunement boost. The Brightgrove elves have one for acquiring spells, for example."
+
+Cale blinked. "Brightgroves, as in Nala Whiteleaf?" he asked. "No wonder she was so mad when I was learning spells faster than her."
+
+Damien giggled at that, in spite of himself. "I wish I could've seen that," he said wistfully. "But, um, yes. I haven't seen high-level blessings myself, but they're supposed to be incredibly powerful. I guess that's why Orstrahl is willing to give away artifacts for them... they still cost a bunch though."
+
+"I'd imagine." Cale hummed in thought. "We can't just use these offering credits ourselves?"
+
+"They're only for political factions approved by the Gift," Damien said, shaking his head. "They're mostly useless to us, which is why we just trade it with Orstrahl. Technically other factions would pay us for them, but..."
+
+"They can't match what Orstrahl is willing to give," Cale said dryly. "Yeah, that figures."
+
+That did give him some ideas, though. Cale grinned to himself—he might have to get Sternkessel to let him pay a visit to the Golden Sands sooner than he'd thought. If he was right about the alchemical ingredients Izzik had been using, there was a chance he could strike some sort of deal there.
+
+It would be some time before he was ready, though. He still needed to collect a bunch of credits first. Cale's mind began to whir. He'd need to convince the other Astral Wing students that they didn't need the rewards from Orstrahl's artifact vault, and somehow convince the students to work together. It would take time, and he'd need to prove himself to them—
+
+"Cale!" Professor Graystalk called. "It's almost time. Are you ready?"
+
+Cale blinked and looked up to see that the last few students were queueing by the Scales; almost everyone else was seated somewhere in the shrine, meditating.
+
+The professors hadn't been kidding about the process using up a lot of mana. The air was nearly dry of it already. At the same time... he scanned the last few students standing by the Scales, then raised an eyebrow. "I thought the Haelforge students were going first?"
+
+Professor Graystalk sighed. "It is, unfortunately, a tradition for the more competitive amongst them to go last," he said. "They enjoy competing to see who can move the Scales more, and it seems that competitive spirit has... spread."
+
+He sounded like he disapproved, but there was a faint undercurrent of amusement there. Cale smirked. "You're just waiting for my turn, aren't you?"
+
+"I confess to some level of anticipation for your particular brand of antics," Graystalk replied in the most impassive tone he could muster. Cale snickered and grabbed Damien to drag him along with him.
+
+There were four students left from Haelforge and two from Brightscale. Four and four each, when he and Damien were included. Convenient.
+
+Haelforge's students included the serpentine lady with the three daggers he'd noticed earlier, the wisp he'd caught casting enhancement spells on herself, a full suit of armor he'd somehow missed before, and the student he was pretty sure was a sentient sword.
+
+Brightscale's students, on the other hand, included an elf Cale thought he recognized from Nala's entourage and the orc that had spoke up earlier. Orluk? Corkug?
+
+"Orguk Fangtruth will go next!" the orc announced loudly.
+
+Right! That. Cale appreciated it whenever he met people that spoke in third person; it made it far easier to remember their names.
+
+"Um," Damien whispered, tugging at Cale's sleeve. "I don't know if I've attuned enough..."
+
+Cale gave the dreadshade a once-over with his mana sense, then nodded in approval. "I think you've got more than enough in the Cloak," he said, giving him an encouraging smile. "You did great. You don't need to give the Scales a lot of mana. It's not a competition."
+
+Damien blinked. "But... isn't it literally a competition?" he asked helplessly, gesturing to the very clearly competitive group of students.
+
+"Well, sure. Technically." Cale cracked his neck and grinned. "And don't let me stop you from doing your best. Remember: fire and decay aren't that different. You can do this. Focus on all the ways they relate and attune, step by step. I'm just saying, if you're worried about embarrassing yourself..."
+
+He shrugged. "Remember, Graystalk put me in play. It's not gonna look much like a competition once I have my turn."

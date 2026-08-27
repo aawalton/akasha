@@ -1,0 +1,189 @@
+---
+id: 8864a5ee-c3f3-55ac-9a4c-a51b117621a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 – Where’s the tutorial? – Pt4"
+slug: 0006-chapter-6-wheres-the-tutorial-pt4
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 6
+ownLength: 2418
+unit: words
+publishedAt: 2024-11-16
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908024/chapter-6-wheres-the-tutorial-pt4"
+royalRoadId: "1908024"
+---
+
+Runes danced through Kindra’s mind in a kaleidoscope of color. It felt like she was looking out into space. Creation surrounded her, and it all faded, leaving nothing but the familiar smells, hunger, and pain.
+
+She exhaled and looked at the bird. The runes were gone. Did it work?
+
+[Your actions have caused your magic to grow.] ‎ [Your mana has increased: 25.8 → 26.3.]
+
+Aww. Her smile faded. The sounds of fighting animals filled the air, and the smell of meat and blood lingered around her. At least it was risk-free.
+
+She turned and looked at the pot. I need silverware. Walking to a table, she grabbed an errant fork, brought it over, and waved it through the flames to clean it.
+
+Reaching into the pot, she fished out a piece of meat and bit into it. The taste of charred meat mingled with the taste of raw meat. Worst meal on the planet. She continued eating, enjoying the taste of the raw meat and trying to ignore the burned bits.
+
+Finishing, she walked to the table and cut off more strips of meat, tossing them into the pot. System, how much would it take to make a pistol?
+
+[Materials are required.]
+
+Grabbing a sword and axe, she tried again.
+
+[25 mana required.]
+
+Nice! And to make a bullet from this?
+
+[Material components are required. Your current skill does not support chemical alteration.]
+
+So, it’s crossbow time. She tried again.
+
+[Insufficient materials.]
+
+Darn it. What’s in a crossbow? It’s just wood and metal… oh, string. I don’t have a crossbow string. What did they use way back then?
+
+Looking around the room, she failed to see anything that would work. Think, Kindra, think! Dad would know. He’d tell you some story. She paused, and a memory came rushing back …
+
+~~~
+
+Kindra stared at the exhibit. A hologram of a cow rotated in circles, and its skin vanished, revealing all the muscles inside. A droning voice described the different parts and their use throughout history.
+
+She jerked away, ignoring the polished museum and looking up at her father. “Dad, it’s gross.”
+
+Charles chuckled softly. “The path to space wasn’t easy.” He mussed with her hair and bent down. “We had to learn to use everything.”
+
+“But they used body parts.” She grimaced, stuck out her tongue, and shook her head, peeking another look at the exhibit, which showed the muscles inside of the cow.
+
+“Body parts and plants took us a very long way.” He leaned closer. “They even made arrows from the bones.”
+
+Kindra stuck out her tongue and shook her head, her hair bouncing off her shoulders. “So gross.” She spun and ran across the polished floor, heading for the robot exhibit.
+
+Charles chuckled and jogged after her.
+
+~~~
+
+The memory disappeared, and Kindra reached over to the vulture. Thanks, Dad. Holding it, a chair, and a sword, she used the skill again, willing it to become a crossbow.
+
+The wood came apart, flowing like water. It flowed up into the stock and grip. The sword did the same, becoming the limbs, the lever, and the trigger. Lastly, blood spurted as a tendon was pulled from the body.
+
+She shut her eyes. I was right. It’s disgusting. Opening them, she looked down at the lever action crossbow. It gleamed in the firelight. She ran her hand along the smooth metal and wood. Finally. She gently placed it on a table.
+
+Grabbing the pot, she placed it over the flame and turned back to the room. Now, what do I use for bolts? Bone, wood, or metal?
+
+Opting for something more durable, she grabbed axes and burned the rest of her mana on Transmutation. The wood and metal split apart, forming twenty-one bolts.
+
+She ran her fingers along a bolt. Now I can level and get out of here. She grinned and reached for her mana.
+
+[Level 3 requires 30 mana to be sacrificed.]
+
+Aww. Kindra blew a strand of hair from her face and willed the text away, listening to the sound of the fighting animals outside.
+
+With her meat still cooking, she loaded a bolt and used the lever to ratchet the string into place. With the string taut and the bolt ready, she walked out of the kitchen and headed to the door. I can’t believe this is my fate. I died and got put on some—wait, did I die? That voice. I remember that voice and the runes.
+
+She frowned and leaned against the door, listening to the creatures outside. “Death? Want to weigh in?” she asked. He did not answer.
+
+I need to talk to the locals. Maybe they know. Kindra reached over, lifting the crossbar on the door. She opened it a crack and peered out.
+
+The round courtyard greeted her. Four streets intersected to create it. In the center, bodies were around a broken well. Puddles of blood painted it all in various shades of red, the morning sun making everything visible. It did not improve the decor. Several cottages were now collapsed piles of rubble. Bloated and decaying bodies were everywhere, leaking horrific-smelling fluid from them.
+
+Clamping her nose shut, she looked at the animals fighting over the bodies. Birds ripped into flesh. A nearby tan cow licked blood from the ground, and a pack of gray rats mauled a corpse, spreading bits of meat and bone across the cobblestone street.
+
+Kindra forced herself not to vomit at the sight. She swallowed and watched a bird charge the rat pack. The madness of it all forced her thoughts back to grim survival. I need to end this plague before it spreads everywhere.
+
+She swallowed and looked at the crossbow. I guess I’d better get started. Lifting the crossbow, she heard hooves.
+
+The murder cow thundered across the ground. A large blue snake hissed, and the cow lowered its head. Magic surged around its skull, and it slammed into the snake, coming to a complete stop. The snake flew, its tail thrashing and its body rippling. Magic built around it, and it slammed into a cottage. Clay tiles rained on it.
+
+Death, if you want to get me out of here, that’d be great! Bracing the crossbow, she raised it and lined up her shot, looking down the bolt and pulling the trigger. The string twanged, and the bolt streaked across the air, hitting the cow’s skull with a loud crack.
+
+The cow wobbled. Blood oozed from its head, and she slammed the door shut. Grabbing another bolt, she reloaded, carefully nocking the bolt.
+
+Popping the door open, she looked at the courtyard. The cow was lying there, struggling to breathe. Turning, Kindra aimed at the rats and fired. The bolt flew and sunk into the pack, spraying blood across several rats.
+
+Can’t even tell what I hit. Grabbing another bolt, she nocked it and looked at the snake. Is it healing? Should I kill it?
+
+The snake somehow seemed to be healing. Its wounds were closing. Leaving a battered and bloody part of itself behind, it slithered to the cow and opened its mouth impossibly wide.
+
+Aiming for the head, Kindra exhaled and fired. The bolt clipped its back, creating a long gash.
+
+Grabbing another bolt, she reloaded and watched a vulture swoop down. Snagging the snake, it swooped onto the nearby rooftop and began eating, tearing out strips of meat and swallowing them.
+
+Kindra aimed at the bird and fired. The bolt flew and burst through the bird’s chest in an explosion of feathers and blood. It tipped and fell, its wings flapping as it crashed to the ground.
+
+Reaching down, she reloaded and peered out. A large pig-thing was looking at her. It opened its mouth, revealing the rows and rows of teeth. They glistened in the morning sun, and its beady, black eyes locked on her.
+
+Kindra slammed the door shut, tossing the bar into place. Nope. I’m not risking that. Setting down the crossbow, she walked to the dining room, pulled the pot from the flame, and set it on the table.
+
+Grabbing the fork, she ran it through the flames and looked around the barren room. So… This is my new life? Why does this seem fake? She raised a brow. If I die, do I respawn?
+
+[It’s not fake. Death is real. Don’t die. ~Death]
+
+Death, what the hell? Is this my body? What happened?
+
+[Kindra, I did what I was able. I can’t intervene right now. It will get you killed. Be careful. Use your brain and survive. ~Death]
+
+What does that mean? She frowned and didn’t get an answer. Can I send messages with the system?
+
+[This functionality is unavailable at your current system level. System Level: 1]
+
+Kindra sighed. I’m not doing tech support while on the brink of death. She picked out another piece of meat and ate it, half swallowing it. So good.
+
+Picking out another piece of meat, she listened to the fighting animals and ate the half-cooked meat. Why does the raw stuff taste better? She shrugged and ate with gusto, devouring the pieces while standing there.
+
+Licking her lips, she felt her teeth. Are they sharper? Why? She held up her hands. They were different, skinnier with longer and sharper nails. Okay. Is this my body or not? She scowled. Death didn’t answer.
+
+Fine. I’ll figure it out myself and purge this stupid plague, but you’d better give me a good title or achievement.
+
+[Not a game.]
+
+Willing it away, she returned to the door. Please tell me that I’m close to leveling.
+
+[Your mana has increased: 26.3 → 29.5.]
+
+So close. She picked up the loaded crossbow and leaned against the door and listened to the ruckus outside. Okay. I claim this land for gamers everywhere!
+
+With that thought in mind, she opened the door and looked at the courtyard. It had not calmed down. The cow was lying in a pool of blood. A large hog, only a dozen feet away, ripped a chunk of meat from a cow.
+
+Steadying her aim, Kindra lined the bolt with the pig’s head and pulled the trigger. The bolt sunk into its side, spraying blood into the air and misting across her face. The hog squealed, unleashing a horrific sound that rang through her skull.
+
+Slamming the door shut, she barred it and grabbed another arrow. A massive whump filled the air, and the hog squealed again, the sound ripping through the space like a siren song to everything.
+
+Here comes a feeding frenzy. Grabbing the bolts, she headed to the stairs, walking up the wooden steps and reaching another floor. Pausing, she looked down the hall and into a large dorm area. Most of the beds were a mess.
+
+Ignoring them, she continued up the stairs, reaching a wooden door with steel bands and a lookout hole. Sliding aside a metal shutter, she peered out the metal grate. A rooftop of gray stone and carnage greeted her.
+
+The stone formed a slightly bowed roof. Rain gutters, filled with blood, allowed water to drain from it. Bodies were clogging them, puddles of blood pooling here and there. Atop the bodies were scavengers. The vultures were tearing into the dwarven corpses and hissing at each other. A lizard skittered over the battlement and darted to a corpse. Opening its mouth, it clamped down on a hand, ripping meat from the bone.
+
+Ratcheting back the string, Kindra loaded the crossbow and aimed through the slot.
+
+A vulture hopped in front of her. It hissed, and she fired. The string twanged. The steel crossbow vibrated, and the bolt flew, slamming into the bird’s chest. It tumbled, smearing blood across the stone. One down.
+
+The lizard didn’t wait. It pounced, sinking fangs into the bird’s neck. Grabbing another arrow, Kindra loaded it and aimed. The lizard was the most obvious target. It was standing over the dead bird, clawing at another one.
+
+Steadying her arm, she fired. The bolt zipped forward and sunk into the lizard’s back. If I hurry, I can cleanse them.
+
+Grabbing bolts, she began rapidly firing them into the birds. Feathers flew. Blood sprayed, and she used all but three of her bolts to kill the scavengers from the roof.
+
+With the final bird still dying and mana streaming into her, she opened the door and dashed outside.
+
+She ran to the nearest bird, stepping on it and ripping out the bolt. Picturing the counter runes, she watched the runes of the bird hit her foot. The two met and vanished.
+
+Doing the same to the lizard, she ripped her bolt free and cleansed it of the magical plague.
+
+Moving quickly to the next targets, she repeated it, collecting her bolts and purging the remaining magic.
+
+Pausing, she took a moment to survey her surroundings. The sun continued its ascent, lighting the village. The cobblestone streets formed a grid. Cottages and shops lined them. Small yards decorated some of them. Others were packed together, and all of them were adorned with blood and bodies.
+
+Looking in the distance, she saw a collapsed wall on one side and a still-standing wall on the other. So it’s walled off… probably to stop this. She looked at the streets. Dwarven bodies of varying states of decay were there. Some random, decayed animal corpses lay there. So, a fight between dwarves? What’s with the other bodies?
+
+No answer came, and she dismissed the thought. Moving quickly, she ran to the lizard and grabbed its tail. With a grunt, she flung it over the ramparts. It soared. Animals looked up, and it hit the ground in a splatter of blood.
+
+The nearby animals rushed toward it and started fighting in earnest. Kindra grabbed the vulture and tossed it over the edge. The body tumbled and slammed into a group of rats. One squealed loudly and went silent. Did I just kill something with a corpse?
+
+Ignoring the ludicrousness, she hurried to the others, looting weapons and tossing half the bodies over the edge before she saw them. A large flock of vultures flew closer.
+
+She turned and grabbed bodies, hurling them over the edge and letting them thud into the growing madness below.
+
+The flock of death approached quickly. They circled, and Kindra shoved the last body over the edge. It tumbled and slammed into one of the birds below.
+
+She looked at the circling flock. Almost in unison, the vultures dove. Nope. Kindra turned and ran for the door.

@@ -1,0 +1,251 @@
+---
+id: da1d80d8-a133-513b-beb3-273d6bd531ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39 — Fire Resonance, Pt 1"
+slug: 0039-chapter-39-fire-resonance-pt-1
+partOf: just-add-mana
+position: 39
+ownLength: 3724
+unit: words
+ownProgress: 3724
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2622637/chapter-39-fire-resonance-pt-1"
+royalRoadId: "2622637"
+markedReadAt: "2026-06-29T18:48:53.948Z"
+---
+
+Several things had happened when Cale attempted his cast of [Disorient]. The first among them, of course, were the messages from the Gift.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Disorient] has evolved into [Lesser Planar Reorientation]!
+
+Cale was immediately delighted. It said lesser! That meant it probably wasn't a seventh-tier spell. Maybe. Which was a good thing, because the lowest tier of spell he'd been able to evolve before had been the seventh-tier [Starlight Font], and it had taken all his focus to do it.
+
+It didn't necessarily sound useful, though... He checked the spell description.
+
+[Lesser Planar Reorientation, Level 1] [Sixth Tier (Unique), Active] [1.0e24 Mana]
+
+Randomly shuffles the directionality of all entities caught within the spell effect. May create new directions. The resulting shift lasts between 1 to 2 hours.
+
+Cale caught the type of mana the spell was using a split second before it actually took effect. His eyes widened. This spell used the planar aspect—
+
+—not that he could afford to think much about it, because as soon as he had that realization, the reorientation took hold and he found himself abruptly falling up, toward the ceiling. Syphus reacted almost immediately by casting a widespread [Conjure Sand], but the spell didn't quite work as effectively as it had the first time. Instead of creating a pile of sand to land on, the sand just... fell to the ground.
+
+Not before showering them all in sand, though. For some reason, Syphus didn't seem entirely displeased by this outcome.
+
+"CAAAALE!" Leo bellowed as he fell. Cale saw the minotaur try and fail to cast a spell to catch himself with, suppressed his amusement, and quickly wrapped his friend up in a soft-ish barrier to absorb the impact. "What did you do?!"
+
+Damien wasn't doing much better, although as a dreadshade, he wasn't nearly in as much danger as Leo was. "Cale, what's happening?" he asked, trying to suppress his panic.
+
+"Oh, I tried to evolve a spell," Cale said casually. Leo bounced on the ceiling as the barrier around him absorbed the impact of his fall, then groaned, disoriented. Syphus simply slammed into it with a sharp crack that split the ceiling, but the boulder itself was uninjured. And Damien...
+
+Well, he was lying flat against the ceiling, breathing heavily.
+
+"Sorry," Cale added, slightly apologetic. Only slightly, though. He was a little too ecstatic about having finally cast a sixth-tier spell to be too upset about the results, even if being stuck on the ceiling was probably going to be a bit of an inconvenience. "I cast [Disorient] and the Gift turned it into [Lesser Planar Reorientation]. Who would have thought, eh?"
+
+"I would have thought," Leo said indignantly. "What did you think was going to happen? What's the good outcome from evolving [Disorient]?"
+
+Cale thought for a moment. "Some sort of group disorienting spell?" he offered.
+
+"Which would have taken effect on us!"
+
+Cale paused. "Good point," he said awkwardly. "I did get a little excited. I thought I could just cast it at the wall or something."
+
+Leo took a deep breath, then let it out with a long sigh. "At this rate I'm going to need to go into the labyrinth just so I have the magic to deal with everything that happens around you," the minotaur grumbled. Damien nodded fiercely in agreement, although Syphus seemed distracted—it was rolling back and forth on the ceiling, its scrying eye glowing brightly.
+
+"In that case, I take back my apology," Cale said brightly. "I'm providing motivation for my dear apprentices! That's incredibly valuable, you know."
+
+Leo groaned. "Can you please dispel this?" he asked, ignoring that remark. "We need to get to class soon."
+
+"Unfortunately not," Cale said. "This isn't an ongoing spell effect I can dispel."
+
+"What?" Leo stared at him. "We're on the ceiling. What do you mean, this isn't a spell effect?"
+
+"This is the result of a spell. I can't dispel it the same way you can't just dispel a fire left behind by a [Fireball]," Cale explained. Leo and Damien glanced at one another, baffled, but Syphus just nodded as if this made perfect sense.
+
+"That explains what I'm seeing," the golem said thoughtfully. "Your spell alters the very idea of moving in a given direction."
+
+"Why aren't you worried?" Leo grumbled, looking exasperated. Syphus's eye twitched in a way that resembled a smirk.
+
+"Because I'm capable of seeing all the directions I can now move in," it said simply. "How long will this spell last, Cale?"
+
+"1 to 2 hours, apparently," Cale said, checking the Gift again. Syphus nodded.
+
+"I'll have to be careful, then," it said. "It wouldn't do to get stuck. But that still gives me plenty of time to work with this."
+
+With that, Syphus began floating back toward the ground. As it did, it shrank strangely, revealing inner layers of its main boulder thick with inscribed runes. Cale's eyes widened at the sheer density of magical script and the half-dozen dead languages he recognized.
+
+And also at the fact that Syphus was flying. In fact, he was more interested in the fact that Syphus was flying.
+
+"How are you doing that?" he asked. "Did I just make a flying spell? Please tell me I just made a flying spell."
+
+"You'll have to figure it out yourself." Syphus was now somehow sitting on the frame of the door that led into the dueling room, and even at that distance it was very clearly smirking. "Or help me turn my arm into a spell cannon! I'd be happy to teach you then."
+
+"We're already doing that later!" Cale protested, but by that point Syphus was gone. Cale sighed. "Rude."
+
+He'd learned a couple things from that spell evolution, at least, or at least he'd evolved enough spells by now he could identify some sort of trend. Spells that required rare mana aspects seemed to lead the Gift to shift the spell aspect in some way as the spell evolved, at least where resonance wasn't involved.
+
+First had been the mirror-aspect [Lesser Reflection] evolving into the control-aspect [Auric Dominion], meaning the Gift had prioritized evolving the effect of the spell rather than creating a stronger mirror-aspect spell. Likewise, the labyrinth-aspect [Disorient] had evolved into the planar-aspect [Lesser Planar Reorientation], prioritizing the idea of confused directionality rather than causing a new labyrinth to erupt out of the ground.
+
+Cale would be lying if he said he hadn't been slightly hoping for a labyrinth to erupt out of the ground. For purely bragging purposes, of course. Like he was going to let Imrys be the only one in the academy moving labyrinths around.
+
+"How are we going to get to class like this?" Leo groaned, burying his face in his hands. "I don't know what Syphus did, but I don't want to do that, even if we could figure it out! I'm made of... you know, fleshy bits!"
+
+"I guess it'd look pretty weird if any of us tried," Cale said thoughtfully, ignoring Leo's choice of phrasing.
+
+He'd already tried about ten different times, of course, pacing across the ceiling in different directions. No matter how much he tried, he couldn't quite figure out how Syphus had managed to walk in... whatever that "new direction" it mentioned was. Presumably it was possible, but he had no idea how to wrap his mind around it.
+
+"Can't you just recast the spell so we're on the floor again?" Damien asked timidly.
+
+"The Gift says the effect is random, so we probably got lucky that it put us on the ceiling in the first place," Cale said. "Any other orientation could have us sliding along the halls or into a different dimension. Not sure I want to risk that over just waiting an hour or two."
+
+"Oh." Damien looked down.
+
+"Kind of wish I joined those expeditions into the Outer Planes now," Cale said with a wistful sigh. This was the exact sort of thing those expeditioners were great at figuring out—moving in new directions was their entire thing. The problem was that joining them would have led to all sorts of problems, and, well...
+
+Heading into the Outer Planes wasn't really a good idea for him specifically. He had his reasons.
+
+So many missed opportunities to learn, though.
+
+"What do the Outer Planes have to do with this?" Leo asked, frowning.
+
+Cale tilted his head slightly. "You don't know?" he asked. "The Outer Planes aren't separated by the Abyss the way the Great Realms are, so you can technically just walk from one plane to another. It's a lot easier said than done, though—what are you doing?"
+
+"I'm taking notes," Leo said. He was, in fact, withdrawing a notebook from his bag—carefully, so as to not spill the contents all over the ground—and readying a pencil. Cale was only slightly thrown by the minotaur keeping direct eye contact with him through this entire process. "You were saying?"
+
+Cale eyed him for a moment. "...I was saying that it's easier said than done. The planes are layered on top of each other in ways that are... I guess the best word for it is topologically incoherent? There are entire fields of arcane study that revolve around identifying and figuring out how to move in the direction of a new plane."
+
+"How would you even do that?" Damien asked, interested despite himself. Cale shrugged.
+
+"Don't ask me. I never really got into it. I know there's a lot of meditation involved; something about trying to connect your core with the pillar that holds up the plane. Sometimes you have to get through several of the Outer Planes to reach your destination."
+
+"That means people have made maps, right?" Leo leaned forward, and Cale shifted back slightly to avoid the sudden manic interest in the minotaur's eyes. "What do the maps look like?"
+
+"Gibberish," Cale said, to Leo's disappointment. "Don't get me wrong, they have maps, but if you're looking to get from one plane to another they give out these... directional leaflets? And they're nonsense if you aren't familiar with their terminology. Things like 'turn left, then move charmward for 30 pins until your liver tingles.'"
+
+Both Damien and Leo stared at him, although Leo's pencil hadn't stopped moving. "You aren't making that up, are you?" the minotaur asked suspiciously.
+
+"Not in the slightest," Cale said dryly. "Trust me, I remember that one specifically because of how confusing it was."
+
+It hadn't taken much longer after that for the trio to decide they needed to figure out how to get to class, even if they were going to be stuck on the ceiling for the next hour or two. Cale placed a series of barriers shaped like a staircase so his friends could climb up to the door, then just launched himself toward it with a blast of mana, catching himself with a soft barrier on the other end.
+
+He could sort of fly with his mana, after all. It just wasn't the same as the graceful flight that actual flying spells granted, and it tended to leave behind quite a bit of destruction.
+
+Case in point, the ceiling of that dueling arena was scorched even with its defensive wards. Cale was probably going to need to explain that one to Akkau later. The wards looked expensive.
+
+"Anyway, that's how we got here," Cale finished his explanation to Graystalk, whose lips were twitching with amusement. The professor was doing his absolute best to keep a straight face, to his credit, but it was difficult for him to do so while two of his students tracked sand all over the ceiling.
+
+Cale was also pretty sure Graystalk was doing his damnedest to settle on a response that was at least moderately professional.
+
+"I see your penchant for making my classes particularly interesting was not a one-time event," the professor finally said, his lips twitching into a slight smile. He inclined his head toward Damien next. "I apologize for my previous conduct, young Damien. While this class is not Introduction to the Standard Array, know that I will treat you the way I would any other student, and that I look forward to having you back in that class."
+
+The poor dreadshade looked like he had no idea what to say. He'd hidden himself half behind Cale almost automatically and was now peeking out at Graystalk, his eyes wide. "Um... thank you?" he said hesitantly. "I'm looking forward to learning. Um. Sir."
+
+"Professor is fine," Graystalk said, amused. "I would ask you to take a seat, but it appears the both of you will have some trouble with that for the time being. Fortunately, from your description, the spell should wear off before we head out. Unless you wish to try your luck with our resident wizard? I could issue you a pass."
+
+"Absolutely not," Cale said immediately, causing Damien to look at him, confused. Graystalk seemed to expect it, though; he just nodded like that was the answer he was expecting, then flipped a page of notes on his desk. "Damien can go if he wants, though."
+
+"I-I think I'm fine," Damien said.
+
+Cale nodded knowingly. "Separation anxiety," he whispered to the professor. "Common with new apprentices."
+
+Graystalk raised an eyebrow. "An apprentice already?"
+
+"Four of them!" Cale said cheerfully.
+
+"...and would you happen to be interested in acquiring more?"
+
+Cale blinked. "Why? Do you know someone that's interested?"
+
+Professor Graystalk coughed once. "Ahem. Well. I watched your performance in the Inverted Spires, and it was rather inspiring..." he trailed off meaningfully. Cale stared at him.
+
+He wanted to say yes, but he also didn't want to prove Akkau right about the whole hoarding apprentices thing. And he had so much on his schedule already!
+
+...He was also really bad at saying no.
+
+"Let's talk about it after this whole thing with the Red Hunters," Cale suggested after a moment, to Graystalk's evident delight. Whatever it was he'd seen when watching him, the old elf seemed like his love for magic had been rekindled; there was a new light in his eyes today.
+
+Cale paused, rewinding the conversation in his head. "Wait, did you say something about going out?"
+
+"Oh, yes." The professor grinned. "I suppose you are rather unfamiliar with the process of acquiring a resonance, aren't you?"
+
+Well, he'd just gotten his first rank of draconic resonance, but Cale wasn't about to tell Graystalk that. He needed the elf to be drinking water or something first.
+
+"Well." Professor Graystalk stood to his full height, then paused meaningfully, folding his hands behind his back. "Today will be the first fire resonance class for many students, thanks to Akkau's reordering of the schedule. You will get an explanation along with everyone else when I explain the theory."
+
+A hint of a smile. "But suffice to say we will be heading somewhere rather heated to meet with a man who could very well qualify as an elemental god. Just the sort of thing you enjoy, I suspect. Perhaps be careful with that [Blabbermouth] of yours, hm?"
+
+Cale sighed. "You're teasing me," he grumbled half-heartedly, trying and failing to hide the gleam of interest in his eyes. "You all figure out how to tease me way too quickly."
+
+Damien patted him on the back sympathetically. "You do kind of make it easy," he said. "I kind of think you like it?"
+
+"Don't you start," Cale said with a groan. He flopped back onto the ceiling.
+
+Now he was going to need to wait for the rest of the class to get here. He was starting to understand why Professor Graystalk wanted everyone to be punctual.
+
+Thankfully, it didn't take long for the rest of the class to start filtering in, although the process was... chaotic, to say the least. It was the first class of the new schedule, so some students didn't even know why they were here. Nor were many of them used to sharing a class with the rather eclectic group of Astral Wing students that joined them. To say that people were uncomfortable was an understatement, but to his credit, Graystalk did an admirable job of calming down the class.
+
+"I will not be tolerating any harassment in this class," the professor said, his tone severe. "You will make the effort to understand one another, or you will be removed from this class, and I will ensure you cannot attend again for the next two terms. I trust you understand the importance of fire resonance?
+
+"If you do not, perhaps this reminder will help." Professor Graystalk's gaze swept the class. Cale was impressed by how cold it was, considering the warmth he'd been displaying only moments ago. "Fire resonance is by far the easiest and fastest route to becoming an archmage, and is required for full recognition by the Orstrahl Kingdom. A two-term ban will prevent you from acquiring your mage license for at least a year. Is that understood?"
+
+Several students subsided immediately, though not without muttering to one another and glancing at Graystalk in confusion. Cale was willing to bet they were the ones that were used to the professor doing nothing about their taunting, and was once again glad that Graystalk had changed his mind. He could admire someone that committed to their words so thoroughly.
+
+Likewise, many of the Astral Wing students—while thoroughly confused by this sudden change—looked relieved.
+
+"Good," Graystalk said after a moment. He strode back to his desk. "As many of you are attending this class for the first time, I will begin with a brief introduction of resonance and what it does for your magic. You will take notes. The average mage requires several months to acquire their first resonance rank, and that time only goes up as your rank grows.
+
+"Even the best of the best takes weeks. Resonance acquisition is not a simple process. Some of your texts may suggest it is. If you remember which texts those are, I suggest you burn them. Any mage that suggests resonance is trivial is a fool, and you would sooner benefit from listening to the words of a liarfly than whatever nonsense they spout." Here, Graystalk paused, looking out over the class again. "Any questions before I begin?"
+
+An orc seated near the back of the class raised his hand.
+
+"Yes, Mr. Fangtruth?"
+
+"Orguk Fangtruth wishes to know why two students are on ceiling," the orc grunted, pointing at Cale, who waved. Several students murmured in agreement, having been sneaking glances at the ceiling the entire time. Professor Graystalk sighed.
+
+"That is irrelevant, but if you must know, it is because of a misfired spell," the professor said patiently. "Any questions about what I said about resonance?"
+
+Silence. Cale did see an elf—also seated near the back of the class, near the orc named Orguk Fangtruth—quietly taking out one of his textbooks and shredding it with magic.
+
+"Very well," Graystalk said. "Then let us begin."
+
+He launched into an explanation that Cale listened to with great interest. He'd managed to figure some of this out already based on the resonance vision he'd had, but Graystalk's explanation filled out a lot of the gaps and clarified what gaining a resonance rank was like for a more typical mana aspect.
+
+Apparently, the process was very similar for most of the basic elements. Throughout the four continents of Utelia were regions of high elemental magic known as Elemental Shrines. These shrines were natural accumulators of specific mana aspects to the point that they were able to manifest a connection to the very elemental plane that fueled that aspect.
+
+Utelian mages could essentially create an imprint of that connection within their mana cores, improving both their ability to cast related spells and the Gift's ability to create related spells for them. It was fascinating stuff, though the process of creating that imprint was itself rather complicated. Something to do with some sort of resonance artifact within each Elemental Shrine and earning the approval of an associated essence god...
+
+Cale sort of tuned out by that point, and he was pretty sure Graystalk noticed, because the professor shot him a smirk. He knew exactly when he began losing his students, it seemed.
+
+"In my defense," Cale whispered to Damien, "I just learn a lot better by doing."
+
+Damien gave him a perplexed look. "Doing... the essence god?"
+
+"What?" Cale blinked. Was that what Graystalk had been talking about? Could Graystalk hear them? He was pretty sure the professor's smirk had grown—
+
+The effects of [Lesser Planar Reorientation] abruptly faded, leading both Cale and Damien to collapse in a pile by the door. At almost the exact same moment, the door began to open, stopping only fractions before it would have smacked into Cale's face.
+
+"Ah, perfect timing," Professor Graystalk said with a grin, moving to help Damien get to his feet. "Professor Sternkessel will be providing transportation to the Elemental Shrine of Fire."
+
+"Indeed," Sternkessel said dryly. He reached up to flick one of the smaller rings on his head, and Cale blinked as he found himself suddenly upright and standing. He still needed to figure out how Sternkessel was doing that. He was pretty sure he knew how to block it now, at least...
+
+Oh well. He didn't really need to. Maybe if he sparred with the professor at some point. "Thanks," he said, beaming.
+
+Sternkessel inclined his head. "Is the class ready?"
+
+"They are," Graystalk said smoothly.
+
+"Very well. Best of luck to all of you, then." Sternkessel reached up, spun his rings once—
+
+—and then the class was elsewhere, surrounded by heated rock and glowing pools of lava. Cale noted with some relief that the pools were warded to avoid incinerating them, probably because this place was so frequently in use by mages.
+
+He also noticed two more things.
+
+First, there was another class here, and judging by the fact they all wore neatly-pressed uniforms, they were from a different academy. Their professor looked... displeased by their presence, to say the least.
+
+Second, the Elemental Shrine of Fire's resonance artifact was an enormous, golden balancing scale, with a roaring tempest of fire mana on one side of it.
+
+Cale grimaced. Hopefully he wouldn't be expected to put his mana on that.

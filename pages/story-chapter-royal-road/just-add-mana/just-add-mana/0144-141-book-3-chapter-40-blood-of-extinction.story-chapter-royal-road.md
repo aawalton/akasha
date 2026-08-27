@@ -1,0 +1,177 @@
+---
+id: f147bed6-5742-5ae1-a018-848b86437167
+page-type-slug: story-chapter-royal-road
+title: "141 — Book 3, Chapter 40 — Blood of Extinction"
+slug: 0144-141-book-3-chapter-40-blood-of-extinction
+partOf: just-add-mana
+position: 144
+ownLength: 3141
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3460349/141-book-3-chapter-40-blood-of-extinction"
+royalRoadId: "3460349"
+---
+
+"I'll take this one," Instructor Tajia said gently. "I know it's hard for you."
+
+Phlogis nodded gratefully, and Cale frowned as the other instructor made her way up to the podium and began to speak. What—oh, right. Phlogis had been a familiar at one point, hadn't he? And if he'd been the familiar of a dragon who was now gone...
+
+"Are you okay?" Damien asked quietly as Instructor Phlogis approached them, and Cale's heart swelled with pride. Ever insightful, that one. He hadn't even been around for the whole familiar thing.
+
+"Am fine," Phlogis said, but he accepted Damien's help in guiding him back to his seat, looking suddenly exhausted. His apprentices seemed to know to give him space, though they all seemed worried about him. "Thank."
+
+"What you have asked is a difficult question to answer," Tajia said without much preamble. "I will start with this: twenty years ago, the capital city of this kingdom suffered a catastrophic plague known as the Sixfold Consumption. It is believed it began as an experiment in creating a stable source of symbolic meaning that somehow went awry; rather than performing a successful act of creation, the ritual instead turned in on itself, causing a profound alteration to one of the invocations used in its own creation.
+
+"You must understand that at the time, one of the most widely known and popular invocations was something known as the Sixfold Invocation. It was used to stabilize spells of the Second Circle and higher, and every mage knew and used it. This is the only reason the spell was so disastrous. If it had affected any other invocation...
+
+"But I digress. In normal circumstances, a physical anchor is required for something to hold symbolic meaning." Tajia glanced at the anchors that Katerina had left in the four corners of the room for emphasis. "That is the fundamental nature of spellcasting and alchemy. Our reagents hold symbolic meaning, and we manipulate them.
+
+"This experiment was meant to anchor symbolic meaning within mana itself, but it failed, turning the effect upon the Sixfold Invocation instead. It is the first and only instance we are aware of in which an abstract object—in this case, an invocation—was able to suffer from symbolic contamination. As a result, every use of the Sixfold Invocation immediately collapsed."
+
+"That by itself might have been fine, but we began to notice that any spell that made use of the Sixfold Invocation would unpredictably alter the result. As you might guess, use of it was immediately banned, but unfortunately it was far from enough.
+
+Tajia's voice took on a grim note. "The true nature of the Sixfold Collapse would not become clear until three months later, where it became known that even knowledge of the Sixfold Invocation had experienced symbolic contamination. The effect was delayed, but after the three-month mark, any mage that thought about the Sixfold Invocation would inevitably seize and collapse.
+
+"At first, we thought that the invocation had been contaminated in such a way that just thinking about it became hazardous. That was technically true, but we missed a detail." Here Tajia took a deep breath, looking uncomfortable. "The seizures were not explicitly magically induced. Every one of them was caused by the seed of an apple tree."
+
+"The what?" Cale asked. Thorn so far had said nothing, but his stare was intense, like he was thinking very deeply about what Tajia was saying. Did he have some idea of what might be going on?
+
+Tajia sighed. "The seed of an apple tree," she repeated. "In rare cases, several of them. They manifest in the brain of the host mage, always in very nearly the same spot. After that, we discovered the same thing happening with any scrolls or tomes in which the Sixfold Invocation was recorded. All pages containing it were discovered to have turned into seeds.
+
+"So the Sixfold Invocation was contaminated in such a way that any representation of it gets transformed into an apple seed," Cale said, and Instructor Tajia nodded.
+
+Well, that was horrifying. Cale had a number of defenses prepared against plagues like that—it wasn't the first time he'd encountered some sort of cursed word or phrase—but he couldn't imagine the amount of damage it would have done on a population entirely unprepared for it...
+
+...well, no, he definitely could. He just didn't particularly want to.
+
+"You're telling us about this, so I'm assuming you found a way to deal with it," Cale said.
+
+"We did," Tajia agreed, though her expression was heavy. "But at great cost to ourselves and our allies. The solution was proposed by the Grand Sage of Coldburrow, the ice dragon that ruled the southern lands..."
+
+As Tajia spoke, Cale found to his surprise that he could hear a low, underlying hum to her words in his mana sense. It sounded similar to the songs he was now hearing all over this world, but this time it seemed less like a representation of symbolic meaning and more like an encapsulation of the distant past.
+
+A symbolic message embedded in her words, perhaps, or within history itself? Cale didn't exactly know how that was possible, but he found himself intrigued. The message didn't seem to be from Tajia. If it was a message, then it was from decades ago, left behind for someone to read it.
+
+Cale, of course, took the opportunity it represented and did exactly that.
+
+***
+
+"We must devise a symbolic seal." Trekagor Frostscale, Grand Sage of Coldburrow, spoke the words as though they were a given. "We lose more of our number by the day, and if this continues, magic itself will be in peril."
+
+Cale was impressed by the sheer fidelity of this message. He could see the dragon himself, standing tall over a gathering of three other sages, and the names of each were supplied to him the moment he looked at them.
+
+To his surprise, every single one of them was a dragon. As far as he knew, dragons were isolated creatures. The few exceptions were research hives, where they would occasionally gather to explore the limits of magic and to raise their young.
+
+This was very clearly not a research hive, however. Each one of the dragons here were distinct, shining with the sort of power that indicated they each held great territory of their own. The situation must have been serious indeed, to prompt so many dragons like these to gather.
+
+"That's easy enough for you to say," Veturion grumbled. He was the youngest of the Grand Sages. Cale got the impression that he was brash and impulsive—Trekagor's impression of him, no doubt. It was clear who had left the message by now; everything about it oozed with cold, biting draconic power that matched perfectly with the look in Tekagor's eyes.
+
+"Veturion," Akrasia admonished.
+
+"What?" Veturion scowled. "Old Trek's got the least to lose. Do you know how much a symbolic seal is going to take out of us? I have a mate to think about! We just laid our first clutch!"
+
+"I understand," Trekagor said, and Cale blinked at the warmth and regret that flowed through his voice. Not just an old and bitter dragon, then. "You do not have to participate. We can carve an exception for you and your kin."
+
+"No, I... argh." Veturion glared. "Stop being so nice. Just let me be mad at you."
+
+"Would that ease your soul?"
+
+"No, but I want to be angry with someone," Veturion said, stomping a foot into the ground. He looked embarrassed a moment later, though. "...Dammit. This sucks, you know?"
+
+"None of us are pleased," Ekardine said. "But the Frost Sage is right. The problem is far greater than we were led to believe. The humans and their memory spells will only hold the contamination for so long."
+
+"They haven't realized that it's spreading yet?" Veturion asked.
+
+"The contamination is minimal so far," Akrasia said. "They have not had cause to notice. Nor will they, if we perform this seal as the Frost Sage suggests."
+
+"Why are we even doing this for them?" Veturion kicked at a rock in frustration. The other sages looked sympathetic, though none of them moved to comfort him. "They're the ones that caused this in the first place. Our kind shouldn't have to suffer for their mistakes."
+
+"They have suffered for ours before," Akrasia said gently, and at that Veturion deflated just slightly, unable to form a response.
+
+Cale couldn't help but wonder what that was about. This history was alien to him—he had no idea that there was any kind of history between dragonkind and humanity at all. He supposed it made sense, since he'd encountered many a tale of dragonriders, of partnerships between the species... But most of the dragons he met treated him like everyone else did, so there had never been that much of a reason to think there might be something more.
+
+It was clear here that there was, though. He was watching Trekagor's perspective of all this, and through it he could feel a strange warmth for humanity, a deep gratitude for some unnamed kindness that had been done for them in the past.
+
+Cale didn't remember much of humanity. Was that who they had been? Kind? He had assumed humans were just like any other species, and perhaps they were, at some point, but...
+
+But perhaps they'd figured things out at some point. If he was right about what this was and when this was, then perhaps humanity had learned and grown kind in the years before it was lost.
+
+He hoped so. He knew very little about it anymore, and this seemed incongruent with the few bits and pieces he did remember, but he found he wanted it to be true.
+
+The only way to find out was to keep going.
+
+"I know," Veturion said, the words more quiet now. "I know, it's our chance to repay them. Just... there's so much we stand to lose."
+
+"And there is much we stand to gain," Trekagor said.
+
+"That's a one in a billion shot." Veturion didn't quite seem to be arguing anymore; he was saying the words because they needed to be said, because they all needed to be sure of the consequences. Cale had the sudden impression that though it was just the four of them talking, all of dragonkind was listening in.
+
+"We know what the backlash is going to be," he continued. "Even if we recover from this in the short term, we're going to disappear eventually. It might be more than a million years from now, but it will catch up with us. The chance that someone will find a way to stop it is astronomically low."
+
+"Will we allow that to stop us?" Ekardine snorted and puffed out her chest, smoke curling from her nostrils. "We are dragons, not cowards. I will not shy away from such odds."
+
+"Nor I," Akrasia said quietly. Cale had the startled realization that she was larger than any of the other three—she spoke so gently that she seemed smaller, somehow. It was only now, listening to the conviction in her voice, that he realized the true size of her presence and magic. "The humans have faced similar odds for us. I will do the same for them."
+
+Trekagor shrugged. "I am not so attached," he said, although Cale could tell he was lying. His thoughts seemed focused on a particular human he was fond of. Or perhaps a particular group of humans? Either way, he was definitely more attached than he was letting on.
+
+"Yeah, yeah, I know," Veturion grumbled. "You're all brave and noble and whatever. Let's just get on with it before I vomit."
+
+"You are brave and noble too," Akrasia told him.
+
+"And allergic to sentimentality," Veturion said, making a face. "I'm actually going to vomit—wait, are you guys starting the spell already? Stop that. I don't want these to be my last words. I haven't even decided what my last words are going to be! Are you all listening—none of you are listening, are you? I'm just talking to myself now. You realize I could just walk away, right? You can't just start a collective cast while a guy is still talking..."
+
+Veturion was still complaining when he stepped into the circle and joined hands with the others.
+
+Cale decided he was going to have to take notes on that one. He'd sacrificed himself before, for a given value of sacrifice, but he'd never managed to take the wind out of his own sail quite that effectively mid-sacrifice. Clearly, there was a lot he still had to learn.
+
+That answered some questions about what had happened, though. Not all of them, and Cale wasn't certain why Trekagor had shown him this.
+
+Perhaps the message wasn't intended for him at all? No. There had been a knowing glint in the dragon's eyes right at the end there, and the message answered some questions even Tajia wouldn't have known to tell him about. Trekagor was showing him, more or less explicitly, the event that had likely birthed the creature that would go on to try to end dragonkind itself.
+
+There was a spell circle on the ground, he noticed. Faint lines of chalk that the four dragon sages stood within, empowering their magic. There was a song in the background, muted by age and distance, brought together by the magic of four dragons.
+
+Cale did his best to memorize it. If there was anything Trekagor was trying to show him, then it was almost certainly that.
+
+Now he just had to figure out what to do with that information.
+
+***
+
+"...remnants of dragonkind and their artifacts remain, but for the most part, they are bound in a symbolic seal around the contaminated Sixfold Invocation," Tajia continued. "Until we find a way to cleanse that contamination entirely, their physical bodies are lost to maintain that seal.
+
+"Not all is lost, however. They can still interact with the world to a limited degree. Any artifacts they have left behind or any physical piece of them that remains can communicate with us, for example, though the process is a slow one. We were hoping they might obtain information that would allow us to perform the cleansing... but thus far our efforts have been unsuccessful." She sighed, looking regretful; clearly this was something that mattered to her.
+
+"They figured it out, right?" Damien whispered to Cale, looking worried. "I mean, Headmaster Akkau is a dragon, so..."
+
+"Yeah, they figured it out," Cale said reassuringly, giving his apprentice a little pat on the head. He was certain they had, but clearly that hadn't been enough to avert the backlash Veturion had been talking about. That was still in effect far into the future.
+
+The question was how to stop it. If the origin of the curse was born from this ancient spell of ages past, then the magic that had created it was entirely different from the modern magic of the Great Realms; it was no wonder, then, that dragonkind had not been able to stop it. Any solution would have to be rooted in symbolic meaning, just like the magic of this era.
+
+Thorn was looking at him like he knew Cale had figured something out, and to that, Cale gave him a slight nod. "I'll explain it after class," he said. "We still have to figure out what's going on with the dragon rain."
+
+"Dragon rain getting worse," Phlogis said. He seemed more comfortable with speaking again now that the topic wasn't specifically about the disappearance of dragonkind, though there was a clear despondence in the way he spoke and stood. "Likely cause is dragons. Always present, but now inhabiting symbol-realm."
+
+"Dragons have always been symbolically dense, but they have now shifted their entire existence into the metaphorical symbolic realm," Tajia translated. "Some mages suspect that dragon rain has been worsening because of leakage from their seal."
+
+"You don't agree with them?" Cale asked. There was something tense about the way she'd said that.
+
+"No," Tajia said, scowling. "They gave up everything to help us. That sort of framing makes it sound like it is their fault."
+
+"What do you think is the cause, then?"
+
+"They are hurting," Tajia said simply. "We do not know the extent of the effects of the spell that transformed them into a symbolic seal, but I cannot imagine that maintaining your identity and sense of self in such a state is easy, even for a dragon. I do not believe the seal is leaking so much as it is disintegrating from a symbolic assault, perhaps from the same contamination that we caused in the first place."
+
+"Agree," Phlogis said. "Not dragon fault. Must help. Many mages trying, but hard. Cannot find problem. Cannot identify contamination to neutralize."
+
+He seemed frustrated. Which made sense, if his summoner was, in fact, one of the dragons. Cale frowned; he wasn't certain he could help just yet, but he did know that their best bet was likely going to be in direct analysis of the dragon rain when it came tomorrow.
+
+At least with this, he had a better idea of what they needed to prepare for. The only thing that remained was—
+
+"Instructor Phlogis," Professor Graystalk said. He bowed slightly to Phlogis, who seemed startled and uncomfortable about the gesture. "Would you mind if I made use of the equipment within this room? I believe it is my turn to present, and while I am unfamiliar with the alchemy you use, my knowledge may still be essential for the trials to come."
+
+Cale stared up at him in surprise. He had been wondering about that, but was Graystalk planning to teach his secrets to the humans of the University, as well? This was no longer a simple dungeon demonstration—if they were secrets, then he would be giving away those secrets freely.
+
+Graystalk smiled at him, as if he knew what he was thinking. "Do not worry," he said. "I believe this is what my family would wish of me, and with what I have learned here, I am certain I can refine the art to greater heights besides."
+
+Ah, casual arrogance! Cale snickered; it was a surprisingly good look on the professor. "Well," he said. "Show us what you got, then."
+
+Graystalk made his way up to the stage and began without missing a beat; all three of the instructors leaned forward as he began, drawn to the power that became clear to them the moment he pulled his wand out from his pocket. "One might consider focus-crafting to be a form of alchemy—at least, the variant of it refined by House Graystalk, upon our discovery of the importance of history when it comes to magical foci..."

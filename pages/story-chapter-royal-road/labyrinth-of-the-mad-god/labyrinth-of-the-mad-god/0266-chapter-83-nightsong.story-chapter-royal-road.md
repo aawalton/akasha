@@ -1,0 +1,81 @@
+---
+id: 09a833ac-0b9e-55f8-b59e-8f82da1f04be
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83: Nightsong"
+slug: 0266-chapter-83-nightsong
+partOf: labyrinth-of-the-mad-god
+position: 266
+ownLength: 1754
+unit: words
+publishedAt: 2025-12-24
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2877209/chapter-83-nightsong"
+royalRoadId: "2877209"
+---
+
+Everyone was delighted that Nick had found a source of metal and a regional resource that would offer Aurora two new types of mana once the city’s sphere of influence was large enough to claim the site.
+
+Kenji put a party together to protect the survey team—who had finished exploring the tunnels running below the badlands. They were eager to evaluate the mine and bring back samples for the crafters to examine.
+
+Nick drew them a map of the region that included the territories and descriptions of the beasts he’d encountered. The group left a few hours later, pulling two large wagons that would transport the city’s first shipment of ore, along with anything else they found while digging beneath the mountain.
+
+However, that welcome surprise was nothing compared to the astonishment his friends felt when he revealed that he had restored Blightbane’s core, unveiled its Legendary rarity, and explained the sword’s new powers. Even Ella’s gear-staff was only an Epic item. While it had a personality and rudimentary intelligence, it was a magical construct instead of an alien blademaster.
+
+Nick had his inner circle gather in the basement of his house, then activated Blightbane’s ability for the first time. When he sent his intentions into the sword, a dense surge of mana comprised of dozens of different frequencies rose from the weapon, and Fritz materialized beside him.
+
+Only a few of them had spoken to an alien before. Everyone introduced themselves and asked a question or two before the five-minutes-per-day limit was up and the Kastillan king returned to his home within the blade’s inner world.
+
+The next day, Nick decided to start things off with his first training session with Fritz. The warrior was already intimately familiar with his fighting style, which wasn’t too surprising. After all, the king was the sword he’d been wielding all this time.
+
+Fritz began his tutelage by making small corrections in his stance and grip—details he hadn’t mastered while training with Rita since he hadn’t obtained enough combat experience to appreciate them yet.
+
+When their time was up, he thanked his mentor, ran through the shower, and had breakfast with his friends. Shaun had whipped up some fried eggs, steamed vegetables, and porridge, and his cooking was getting better by the day. After that, Nick met with the planning committee and placed some buildings in exchange for the vouchers his people were earning every day.
+
+He was in the middle of conditioning his attributes when a messenger came running over. “An envoy from one of the beast tribes has arrived,” she said. “Kenji and Elizabeth are speaking with him now and want you to join them right away.”
+
+Nick thanked the woman and followed her toward the center of town, bubbling with curiosity as they crossed the districts.
+
+Aurora had been giving their beast neighbors as much space as possible. There were some teams using long-range surveillance to study them from a distance, but they were under strict orders not to make contact unless they were approached first and avoid fighting unless their lives were in danger.
+
+Not all beasts were smarter than their animal counterparts yet, but some species were just as intelligent as Bandit and the tribe—capable of using magic, tools, and skills that had been granted by the System.
+
+Most of the beasts his people had encountered wanted to be left the hell alone, not that he could blame them. Not only were they coming to grips with their new lives on a magical planet—just like Nick and the rest of humanity—they were adjusting to a radical increase in their cognition and dramatically expanded understanding of the world.
+
+Everyone had been shocked when the scouts reported spotting the first beast village come up a few weeks back, complete with buildings, walls, and gates. It had driven home the fact that humanity was no longer the only species on Earth that was capable of planning for the future as they prepared to defend their home from the horrors dwelling within the Labyrinth.
+
+While it was amazing and surreal in equal measures, Aurora and its beast neighbors had been content to give each other plenty of space until they were ready to establish formal relationships. It seemed that today was the day when they would cross that bridge for the first time.
+
+A coyote had approached the team that was surveying its pack from a distance. The scouts had been shocked when instead of attacking or driving them away, the beast opened its mouth and said hello. It wasn’t human speech, but it was a language, and thanks to Gift of Tongues, the coyote had been able to communicate with Nick’s people, although some of the concepts didn’t quite translate to a human’s understanding of the world.
+
+It turned out that he was a scout/diplomat who had been sent to greet/evaluate the tribe of hairless creatures whose members gave off a powerful scent of danger, but also wisdom/willingness to be friends. Most unusual of all, the beast had requested to be taken to someone the pack already considered to be a friend, which he knew by smell but not by name.
+
+That was how Nick found himself standing face to face with a coyote the size of an Old Earth bull. The creature was powerful enough that Size Up released a resounding ping of danger, but he didn’t feel threatened at all. When he wondered why that was, he realized the beast wasn’t exuding any killing intent. If anything, the coyote seemed friendly and happy to be here.
+
+The canine had a noble cast to its features, dark gray fur, and intelligent yellow eyes. If its prodigious size and the intense flows of mana radiating from its core weren’t enough clues this creature was a beast, the studded leather armor it was wearing left no room for doubts.
+
+Although the messenger had warned him it was going to happen, it still shocked Nick to his toes when the coyote opened its mouth and said, “Greetings, friend of my child/giver of meat. My name is Nightsong. I am here on behalf of my people to obtain a better understanding of your own before deciding what happens next.
+
+“My son was foolish enough to reveal himself to you a few weeks back. In addition to rewarding his curiosity with nothing more sinister than your own, you were wise enough to declare your desire for peace with an offering of delicious meat. Since then, your people have shown no hostility to beasts whatsoever and have treated the land with respect.
+
+“The Voice told us that great danger is coming in less than twelve lunar cycles, and it would be ideal if we can work together going forward. However, it would be foolish to trust someone with predatory intentions, which is why I am seeking permission to live among your people for the time being and determine your true nature firsthand.”
+
+Nick was stunned by one jaw-dropping revelation after the next. Not only had the coyotes been watching Aurora far more closely than he’d realized, they understood the situation with Taltos and the Labyrinth almost as well as he did. Kenji and Elizabeth were listening closely but clearly wanted him to take the lead on this one, and he could tell from her expression that he needed to choose his next words carefully.
+
+“Nightsong, my name is Nick. I am pleased that your people enjoyed my gift, and it was an honor to meet your child. You are welcome to stay here as long as you like. Your analysis of the situation mirrors my own and we would prefer to work together if at all possible.
+
+“Feel free to ask any questions you like—we have nothing to hide. You are welcome to use any of the facilities Aurora has to offer, and if you would like to speak to me or anyone else living in the settlement, all you have to do is ask.” Then, acting on inspiration, he said, “Would it be possible to send one of our people to live with your pack? We would like to learn more about you as well.”
+
+“That would be acceptable.” Nick could sense the coyote was impressed that he had thought to ask. When he saw Liz’s beaming smile, he knew he’d made the right call. He smiled back. Her approval made him feel good about himself, whether he wanted it to admit it or not.
+
+His eyes widened with surprise when the coyote’s armor vanished, leaving only a small bag attached to a harness. That must be a spatial storage device designed for someone without hands. He spoke to the beast for a while longer before bringing their meeting to a close.
+
+After Nightsong left to tour the settlement, Nick realized he had promised to send someone to live with the coyotes without knowing if there was anyone who wanted to do it.
+
+As it happened, that wasn’t a problem. One of the members of the diplomacy team was so excited about the opportunity that she brought him flowers by way of thanks, which was a little weird but a nice gesture all things considered.
+
+The reason for her enthusiasm made sense when he asked Liz about it. The team had been hoping to send a representative to a beast village for weeks. They planned to use this experience as a template to train their diplomats in the hope of opening relations with the half-dozen species they had encountered thus far.
+
+The details of the operation were beyond him, although Nick found the subject fascinating and planned to check in with their progress from time to time. Meeting Nightsong made him curious how Bandit and the tribe were doing, which led him to think about his family and friends from his old life. After evolving, we’re going to live to be two hundred. If any of them are out there, I’ll find them eventually, he promised himself.
+
+That train of thought made him wonder how Sophia was holding up. He pulled up his citizen list to make sure her name was still on it—comforted by the fact that his friend was still alive and fighting to regain control over her destiny.
+
+I’ll ask the research team to keep an eye out for anything that might help her defeat the demon. I understand why she needs to be alone right now, but I will always have her back, and I know the rest of her friends feel the same way.

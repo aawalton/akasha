@@ -1,0 +1,69 @@
+---
+id: 6becd88f-639d-5f8c-bb5b-38eb332c9a05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: Which Way Should We Go?"
+slug: 0317-chapter-36-which-way-should-we-go
+partOf: labyrinth-of-the-mad-god
+position: 317
+ownLength: 1539
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3479513/chapter-36-which-way-should-we-go"
+royalRoadId: "3479513"
+---
+
+“Before we decide which dreadbeast to hunt first,” Nick said, “we should find a spot with a good view the dungeon. This map is a lot better than nothing, but the region has changed considerably since these pictures were taken, and we need more information if we want to make an informed decision.”
+
+It was a sensible suggestion. The party fell into formation and made their way toward a large hill about ten miles from their position. The elevated vantage would let them take in the totality of the terrain contained within the energetic dome. He was planning to use his platforms to climb even higher, but since at least one of the dreadbeasts could fly and there was a chance that they could counter Blend into the Background, he wanted to limit his time in the air until he had a good grasp of the creatures’ capabilities.
+
+Along the way, Nick used mage sight and Enhance Senses to get a better feel for the disaster that had befallen this planet. Just like the skeletal forest, the vital energy was being drained from the plants and animals he passed. At one point, they crossed an invisible boundary where the stolen mana was heading east on one side and west on the other.
+
+“The dreadbeasts are competing to consume the planet’s lifeforce,” Bandit explained. “We should be able to follow the flows to track our quarry. They might be using an intermediary process to produce this effect before absorbing the stolen energy. If that’s the case, it will lead us to their lairs instead of the dreadbeasts themselves, but finding them should be fairly easy, one way or the other.”
+
+“How does this compare to what you dealt with before?” Nick asked.
+
+“These monarchs are considerably stronger than the ones I battled on Earth, but warring with each other is impeding their growth and that barrier is preventing the drain from spreading beyond the dungeon. However, I suspect the dreadbeasts are drawing power from the dome as well. When it goes down, they will evolve at an exponential rate, leaving this world a lifeless husk within a few years at most.”
+
+“The fact that horrors like this frequent the multiverse,” Kenji sighed, “really drives home the fact that Team Earth needs advance as rapidly as possible before the System’s year of protection end. We need to rise above the curve and keep right on climbing if humanity and its beast allies are going to survive over the long haul. At least the fringe can only support Tier-3 life forms for prolonged periods, but even that is way above our paygrade for the time being.”
+
+Lurk grumbled as the conversation continued, occasionally offering a grunt of agreement or a growl of dissent. Nick wasn’t sure, but he thought the dino could understand more of their words as time went on. It’s probably a combination of boosting her Mind as she levels and having more people to listen to besides Bandit.
+
+Before long, they arrived at the base of the hill. After circling the mound to make sure no hostile critters were hiding nearby, they climbed to the top to take in the view. Nick turned on Blend, skywalked a thousand feet into the air, and pulled out his spyglasses while gazing into the distance.
+
+From here, he could see everything contained within the dungeon, except whatever was behind the volcanoes in the distance and the crater floors that were shielded by the lay of the land. Of course, he could only get a general sense of the topography with the vegetation in the way. While much of it was dead, the devastation had been wrought recently enough that the desiccated husks hadn’t had time to crumble and blow away.
+
+The borderlands running between the territories of each dreadbeast bore deep scars—evidence of countless battles between the warring creatures. In fact, Nick didn’t see the ravine the party had hidden in marked on his map, which meant the monarchs were strong enough to split the ground as they vied for the right to devour this world.
+
+After examining the distant biomes, he turned his attention to the nearby terrain, trying to get a better sense of what his team would encounter when they descended the hilltop and continued their journey. He spotted an occasional animal or beast, but there were far fewer than he would have expected.
+
+A major roadway ran north and south that led to the city, with smaller roads branching from it that had connected to other holdings before the dungeon’s formation severed access to the outside world. Unfortunately, none of the paths continued toward the dreadbeasts’ lairs, which meant his team had to cross rough terrain to reach them.
+
+After climbing back down and sharing his findings, Nick let Bandit and Kenji use his Arcane Shields to examine their options. They couldn’t climb nearly as high with the spell’s range limitation, but it was better than nothing, and there was a chance they would spot something he’d missed. Once the warrior and the lemur returned to the ground, they were ready to put their heads together and hammer out a plan of action.
+
+“Which way should we go?” Nick asked his companions to share their thoughts before adding his own ideas.
+
+“Most of these territories are in hard-to-reach places,” Bandit replied, “Which means your Pathfinder skill is going to come in handy. In addition to leaving the strongest dreadbeasts for last, I think we should start our extermination in a region with no obvious environmental hazards, then tackle the trickier areas once we have a better feel for this planet and more experience fighting the dreadbeasts.
+
+“While we’re on that subject, there’s no guarantee that their powers and predilections will be similar to the creatures I dealt with back home, which were all corrupted tigers. We should observe the monarchs and revise our tactics based on what we discover before driving a blade into their guts.”
+
+“Zora and Fennier are the mightiest dreadbeasts,” Kenji added, “and Ban-Li is laired near those volcanoes. Vashir can fly, which means our best bet is to start with Xuthu and take it from there.”
+
+The rest of the party agreed with the strategist’s assessment, which meant they were heading into the Emerald Expanse first, although the name didn’t really fit the dying forest and barren flatlands anymore. Navigating the maze of skeletal trees would be difficult, but Nick could chart a course from the air since the leaves weren’t in the way. Better still, the region was relatively flat and didn’t contain any crevices leading into the bowels of the planet.
+
+“I’m coming for you, Xuthu,” Bandit muttered with a bloodthirsty gleam in his shadow-flame eye. “I can’t wait to sink my sword into your throat.” Lurk issued a menacing growl at those words, revealing that her hatred of the dreadbeasts burned just as hot at the lemur’s as the party hiked toward the biome in question.
+
+As time wore on, Nick realized his core was refilling slower than usual. There wasn’t nearly as much ambient mana to absorb, although fortunately, the dreadbeasts’ influence didn’t interfere with his core’s natural rate of regeneration.
+
+They’re draining essence too. That means my Wand of Force, Elixir of Restoration, and Kenji’s gloves won’t recharge at full speed, he mused. I’ll have to take that into consideration moving forward.
+
+Not long after, the party entered the desecrated woodlands, taking their first steps on their journey to vanquish Xuthu the Storm Lord. Now that he wasn’t running for his life, he could take in his surroundings in greater detail.
+
+The more Nick saw, the angrier he grew. He understood killing and conquering as path to power. The System rewarded that kind of behavior, and life in the Labyrinth was even more cutthroat. However, the amount of experience and essence earned from killing creatures that didn’t pose a threat was miniscule at best, and committing wholesale genocide in exchange for meager gains was evil, even by the harsh standards of his new life.
+
+Beings that were willing to destroy entire planets just to fuel their advancement before spreading to other worlds like a plague had to be stopped no matter the cost, just like the Crimson Blight and Taltos himself.
+
+Nick had no love for the System. However, while it was brutally indifferent—willing to sacrifice the many for the growth of the few—it was helping humanity and its beast allies survive in the multiverse in addition to using them as pawns in its war. If his people managed to endure this ordeal, they would obtain the power they needed to thrive in the new era dawning before his eyes.
+
+As these thoughts drifted through his mind, the party progressed deeper into the Emerald Expanse. The team passed through healthy groves whenever possible, where they would be harder to spot from the air. They advanced as stealthily as possible—on guard against the dreadbeasts’ return and anything else that viewed them as prey.
+
+It was a wise precaution. Nick and his friends would soon learn that while the five unliving monarchs were the most dangerous creatures in the quarantine zone, they were far from the only predators prowling the dungeon.

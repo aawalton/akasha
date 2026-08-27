@@ -1,0 +1,89 @@
+---
+id: c3f4a2fd-32ec-5fca-aff6-86707c2b1cd0
+page-type-slug: story-chapter-royal-road
+title: "3. A Simple Request"
+slug: 0003-3-a-simple-request
+partOf: leveling-up-the-world
+position: 3
+ownLength: 1022
+unit: words
+ownProgress: 1022
+publishedAt: 2021-01-04
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/609558/3-a-simple-request"
+royalRoadId: "609558"
+markedReadAt: "2026-06-29T22:40:13.653Z"
+---
+
+The contrast between the village chief’s home and the rest of the houses was like between yellow and black. Rising three and a half floors above everything else, it was larger than Dallion’s entire garden, made entirely of polished white granite. A blue tile path led through the double iron door to an inner courtyard where a few people were waiting.
+
+In the past, according to Dallion’s grandfather, it was traditional for an elder or family member to accompany the awakened. The village chief had changed the practice twenty years ago, reducing the risk of potential challenges to his power. It also ensured that the awakened couldn’t rely on any advice during the trial.
+
+“What d’you want?” A blubber of a man asked. From what Dallion could remember he was a distant relation of the Luor family. What he lacked in skill he made up for in arrogance and laziness, acting the role of guard.
+
+The person beside him was no better. Tall and skinny as a twig, he had attempted awakening five times so far, each of them unsuccessful. Seeing Dallion, he crossed his arms.
+
+“The chief isn’t to be disturbed,” the skinny man snorted.
+
+“I was told to come here to acknowledge my awakening.” You know exactly why I’m here. You just want to humiliate me. “Guess I’ll come back later then.” He turned around and slowly started his way out of the courtyard.
+
+Three steps later, the guards reacted, as Dallion knew they would. The wheels in their skulls creaked to a full rotation, painting a picture of the punishment they’d get if they allowed their future victim to walk away.
+
+“Wait!” The skinny one shouted. “The chief’s waiting for you.”
+
+“You sure” Dallion asked with a smirk. “I thought you said he was busy?”
+
+“Yeah, he is…”
+
+Quick thinking isn’t your forte, is it?
+
+That’s what happened when someone became reliant on the power of others tended to become lax.
+
+“Walk this way,” the fat guard grunted, leading Dallion into the house proper.
+
+The interior was even more lavish than the exterior. While there weren’t any gold or silver ornaments, the number of tapestries and marble statues was overwhelming. The floor was made of jade tiles, polished to a shine.
+
+Dallion was led through a corridor into a large hall where the entire family of the village chief had gathered round a large table. The moment he entered all eyes turned his direction, staring at him as if he were a lamb walking to its slaughter.
+
+“Dallion Seene.” The chief, Aspion Luor himself, leaned forward. He seemed the approximate age of Dallion’s grandfather, dressed in furs and fine cotton clothes. Copper rings covered his fingers—an elaborate display of wealth aimed at intimidating anyone poorer than him. “I heard you managed to awaken… on your third attempt.”
+
+A few chairs away, a blond boy chuckled. He was roughly the same age as Dallion, and the only male grandchild the chief had. Awakening had made him even more arrogant than the average Luor family member.
+
+Four of the other five grandchildren were also there, leaning back in their chairs, faces covered in a mixture of boredom and disgust. They could pass as beautiful, though definitely not nice.
+
+“Better late than never.” Dallion smiled.
+
+“Watch your tongue!” Elin, the chief’s only surviving son, snapped. He was one of those who never managed to awaken, despite all the support of his family.
+
+“It’s alright.” Aspion grinned. “Arrogance and awakening often come hand in hand, especially among the young. People tend to forget their place. Some even believe they are invincible.”
+
+You have a terribly annoying voice, Dallion thought.
+
+“As is the custom, you must display your powers before I can acknowledge you to the ranks of the awakened.” The chief leaned back. “Any preferences?”
+
+Dunno. “A simple task. I’m a simple person, after all.”
+
+“A simple task…” Aspion’s grin widened. “Very well. My youngest granddaughter has been complaining that the ring I gave her for her birthday is too simple. All I ask of you is that you improve it.“
+
+On cue, a girl took a ring off her finger and placed it on the edge of the table.
+
+“Improve one ring? I’d have thought someone so beautiful would deserve more?”
+
+The girl’s cheeks turned pink, nearly matching the color of her blouse.
+
+“More, you say.” The chief rubbed his hands. “Are you sure? When I asked your mother, she told me she’d improve three things of my choice, and yet she didn’t manage to change even a simple ring. Such a shame. She had so much potential, being Kraisten’s daughter and all.”
+
+So that’s the trap.
+
+Despite his grandfather’s warning, Dallion had walked right into it. As any novice, he had assumed that size was linked to the difficulty of the task. After seeing the feat of his grandfather, he had assumed the village chief would ask him to improve a statue, the hall’s dining table, or even the mansion itself. A small ring had seemed so insignificant that he didn’t consider it to be the actual task.
+
+“Well?” Aspion pressed on, his face twisted in cruel delight, as if gloating to his inevitable victory. “Shall I bring something else?”
+
+Dallion went to the side of the table and picked up the ring. It was a simple band of metal, not even gold or silver, without marks or defects. If he were sneaky, he could mend something else, like the table, or the chair the girl was sitting on. Back in his previous life, Dallion had enough lawyers in the family to know how to exploit loopholes. So far, he hadn’t agreed to the task neither orally nor in writing. Considering the village chief’s nature, there was no reason he should. However, some things were stronger than logic. Dallion had been in this world less than a few hours, but even so refused to let this go.
+
+Sorry, grandpa. I have to go through with this.
+
+“Awaken.” Dallion clutched the ring in his hand.
+
+Item Awakening
+
+A green rectangle appeared in front of him. A split second later, everything else disappeared.

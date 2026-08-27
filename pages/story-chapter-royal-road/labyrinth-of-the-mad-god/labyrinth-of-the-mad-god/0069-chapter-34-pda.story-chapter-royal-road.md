@@ -1,0 +1,125 @@
+---
+id: 000fb680-5f11-5191-a56b-a9563f37eadc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: PDA"
+slug: 0069-chapter-34-pda
+partOf: labyrinth-of-the-mad-god
+position: 69
+ownLength: 1877
+unit: words
+publishedAt: 2024-10-04
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1834895/chapter-34-pda"
+royalRoadId: "1834895"
+---
+
+A few seconds later, the holographic recording winked out of existence. When it did, the crystal in Nick’s hand stopped flashing.
+
+“Poor bastard.” Veronica sighed. “Classic mad scientist. Killed by his own creation and blames everyone but himself. Now we know the whole story, although I’m not sure how much it will help us.”
+
+“Hey guys… this might sound weird.” Shaun pointed to Kellen’s remains. “But his coat and clothes look pristine. They are probably magic. Would anyone mind if I liberated them?
+
+“That’s gross as fuck Shaun,” Nick replied. Then he took a closer look at Shaun’s outfit, which had been reduced to threadbare rags by this point. “But honestly, it’s probably a smart move. He doesn’t need them anymore, and your gear is in serious need of upgrading. I’m fine with it if V is.”
+
+She nodded her approval. “Let’s take a look and see if there is anything of value on the body first.”
+
+Wrinkling their noses in disgust, they proceeded to examine Kellen’s remains. It didn’t take long, and given the state of the body, it wasn’t as bad as he was expecting. Other than the researcher’s clothing, the only items of interest were a belt with two small pouches and a pair of glasses hanging from his neck by a string.
+
+When Nick reached out to see if anything was inside the bags, his fingers brushed against the corpse. The moment they did, his crystal began to glow, and a message appeared in front of his eyes.
+
+All device functions have been locked behind a biometric seal.
+
+To restore them, unlock the seal.
+
+“Do you think that it’s like a retinal scan, or fingerprint ID or something?” Shaun asked. “Maybe you can unlock it by touching the crystal to the body.”
+
+“Shaun that’s… actually not a bad idea,” Nick admitted. “It’s worth a shot.” He took out the crystal device, and then touched it to the corpse’s fingertips. The moment that he did, another message appeared.
+
+The biometric seal has detected the presence of the device’s owner.
+
+Warning: the owner of this device has perished.
+
+Deleting all functions and data as per instructions.
+
+“Shit. Abort,” Nick cried out. But it was already too late.
+
+The crystal started glowing brighter and began to hum. He set it down and they all ran out of the room, in case it was going to explode or something.
+
+A few minutes later, the light stopped shining and nothing dangerous seemed to be happening. Nick gave Shaun a pointed look and walked back over to pick the device up. Maybe it will still be worth something to the right buyer.
+
+He was afraid that it would be totally inert. But to his surprise, a display appeared in front of his face the moment that his flesh touched crystal. Stranger still, the font and layout were subtly different than before.
+
+All data and custom functions installed on this device have been deleted.
+
+This personal assistant construct has been reformatted and all settings have been reverted to manufactory defaults.
+
+Would you like to bind the device to a new owner at this time?
+
+This was a more promising development than Nick had been expecting. “Sure.” He shrugged. “That sounds great.”
+
+When he spoke the words, the crystal construct in his hand started humming again, growing warm to the touch. He had the sense that it was probing his energetic core and maybe his bloodline as well. He might have been able to block it if he wanted to, but he let it proceed instead.
+
+A few minutes later, whatever it was doing was complete.
+
+A new owner has been registered.
+
+Creating new biometric seal and activating device functions.
+
+Warning, this construct has been damaged.
+
+Some functions will be unavailable until it is repaired.
+
+Current functions: record audio log, clock/timers, create light.
+
+Since it seemed to be able to understand him, Nick tried asking the device a series of questions, feeling a bit foolish when the lump of crystal just sat there in his hands. He turned to the others and shrugged again.
+
+“It’s too bad that it’s busted. Maybe we can fix it later. I might as well at least try out the parts that work.” When he addressed the construct using one of the three available functions, it responded to his commands.
+
+The audio log was simple enough to understand. It was a voice only version of the function they’d been using to view Kellen’s journal. It might be useful for making observations when my hands are full or recording sounds or music to replay later.
+
+When he tried out the timer, Nick discovered that the clock was precise down to a small fraction of a second. Not only did it show the local time, it could also be used to set an alarm or a countdown clock, which could definitely come in handy.
+
+That left just one thing to try. “Light,” Nick said.
+
+To his surprise, a ball of soft white light appeared over his shoulder, which stayed in place even when he put the crystal back into his bag. With a bit of trial and error, he learned that he could dim or brighten the glow to some extent and change its color. He could even change the shape of the beam, from a ball that shined in every direction to a narrow ray like a flashlight.
+
+Veronica hummed appreciatively while he fiddled with the settings. “Glad to see that it’s not useless after all. I’m curious to find out what else it can do once you patch it up.”
+
+With that out of the way, they turned their attention to the items they had retrieved from the corpse. While Nick would like to pick up some clothes with self-maintenance at some point, since everything that didn’t have the mod got destroyed eventually, it was more important that the others improved their gear.
+
+“Since Shaun gets the clothes, you can have the glasses and the belt V. This crystal is good enough for me.”
+
+Veronica walked over and examined Kellen’s belt. She started poking around inside the pair of small bags that were attached to each side, as well as a series of tiny pouches sewn into the leather. Unfortunately, it seemed that they were all empty at present. A few minutes later, she began to laugh.
+
+“Fucking awesome. I think this belt has a self-maintenance mod, and these bags are like tiny version of your magic pack. They can only hold a few pounds each as far as I can tell, but that’s still super useful. I have no idea what these glasses are for. They don’t seem to have a prescription or do anything else as far as I can tell. I’ll leave them in the belt for now.”
+
+That wound up being a good split. Nothing she found would be an upgrade for me anyway, and we each got something useful.
+
+Since they were done looting the body, Shaun spoke up again, clearly steeling himself for what was coming. “I’m going to get changed now. Does anyone have something to cover the remains? It seems wrong to just leave him naked in that chair.”
+
+Nick reached into his bag. He pulled out one of the tarps they’d found in the supply room, and then handed it to Shaun. He had several more in there and they had packed too many basic supplies anyway. He needed to clear some room if he wanted to pick up anything else they found along the way.
+
+After that, he followed Veronica outside. When they were out of sight, she said, “Go ahead, Shaun. We’ll stand guard. Let us know when you’re done. I really don’t want to watch this.” While they waited, Nick mulled over everything they’d learned, trying to determine if any of the details could help them to escape the floor in one piece.
+
+Shaun opened the door a few minutes later, dressed in Kellen’s clothes and lab coat. It was a major upgrade to his appearance. With any luck, the coat would offer a bit of armor or protection against dangerous substances. They walked back inside and then sat down, doing their best to ignore the tarp-draped chair in the corner.
+
+Since the room appeared to be safe, they all lay down and did their best to get some sleep, preparing themselves for one last push to make their way off the floor.
+
+When Nick woke up, V was up but Shaun was still asleep. He let him rest for a little longer, since the young man was exhausted from his ordeal and didn’t have the Survivor trait to reduce his need for shuteye.
+
+While they waited for the young man to wake up, Nick and Veronica finished examining Kellen’s office. When they poked around the machinery piled around the room, they discovered that the equipment was incredibly heavy and had no obvious use. So, he turned his attention to the notes instead.
+
+Although he couldn’t read them, judging from the diagrams, most of the papers seemed to be observations on the various species and substances that Kellen had used in his research. None of which seemed particularly useful. Nick slipped some into his pack anyway, just to have a sample of an alien language that he could refer to later.
+
+The notes on the Janitor, however, were written in System runes. Nick gathered them up and studied them as closely as he could. He was hoping that they might reveal some clue as to its capabilities. Perhaps even a weakness they could exploit.
+
+While he didn’t find anything game changing, his investigation wasn’t a total waste of time. When Shaun woke up an hour later, they made breakfast from their provisions while Nick briefed them on what he’d learned.
+
+“It seems that the Janitor can assume two different forms, each with its own abilities. I can’t make out the details from these papers, since part of them are written in some kind of shorthand. But judging by what I sensed when we were watching the battle, both use force mana and kinetic essence. I don’t see any obvious weakness, but maybe I can sense it coming well enough to avoid it. I’ve gotten better at perceiving force mana since we entered this floor.”
+
+Veronica hadn’t wasted any time either. She had spent her efforts discerning the route that would lead them to the stairs. She had found a complete map of the floor posted to one wall, revealing a layout that was far more complex and extensive than they’d imagined.
+
+They reviewed the path they needed to follow, then got ready to leave. Nick judged that it would take them less than a day to make their way down to the bottom level. It seemed that their long underground journey was finally coming to an end.
+
+Glad that they had each gained something from the encounter and that they had finally learned the full story of what had happened on this floor, they left Kellen’s office behind them and started heading for the center.
+
+Now all they needed to do was find their friends and they could climb to the next floor of the tower, where another challenge was certain to be waiting.

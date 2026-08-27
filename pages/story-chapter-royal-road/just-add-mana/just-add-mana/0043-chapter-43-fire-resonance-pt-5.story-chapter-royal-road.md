@@ -1,0 +1,311 @@
+---
+id: bdaa352b-ee86-5b3b-918f-77a18d0012ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43 — Fire Resonance, Pt 5"
+slug: 0043-chapter-43-fire-resonance-pt-5
+partOf: just-add-mana
+position: 43
+ownLength: 5087
+unit: words
+ownProgress: 5087
+publishedAt: 2025-10-04
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2651055/chapter-43-fire-resonance-pt-5"
+royalRoadId: "2651055"
+markedReadAt: "2026-06-29T18:49:02.483Z"
+---
+
+Observer #27 was pretty sure that he hadn't heard that Brightscale professor correctly. It sounded like he'd said his student could destroy the Firestorm Scale, and that was patently ridiculous.
+
+Of course, the idea that he'd misheard something was equally absurd. His scrying spells had a dozen redundancies to avoid interference and magical tampering, and his memory had been reinforced with spellwork designed to prevent exactly this sort of error. He couldn't mishear his targets even if he wanted to.
+
+On the other hand, the idea that anyone might be able to destroy the Firestorm Scale was more ludicrous by far. The Scale was a divine artifact. It couldn't just be destroyed. It had layers upon layers of protections cast upon them by the gods themselves.
+
+Even disregarding that, that professor had heavily implied Cale would be able to break it just by offering it his mana! The Scale was built to handle up to a quintillion points of fire mana, which was more than any one mage on Utelia even had. Not only that, but its creator had been so paranoid about this exact problem that it could even handle mana in excess of that amount.
+
+It would strain the artifact, sure, but it wouldn't destroy it. At most, it would leech a few centuries off the Scale's effective lifespan.
+
+Maybe there was something he was missing? Perhaps this Cale had a mana type that could overwhelm the divine protections on the Scale and destroy it. He'd never heard of such an aspect, but then he'd learned over the past eight years that there were many things about magic he didn't understand. Some unheard of mana aspect wasn't completely out of the realm of possibility.
+
+Alternatively, the Brightscale professor was simply lying. Observer #27 had no idea what would motivate him to do so. If the professors knew what was happening with the Scale—and they very clearly did—then their best course of action was to evacuate all the students as quickly as they could. Even if they couldn't teleport everyone away, they could hide in the tunnels, away from the disaster that was about to take place.
+
+Not that it was any of his business what they did or didn't do. They were doing nothing, and it was foolish.
+
+But then again, so was he.
+
+Five years ago, he would have cared. Eight years ago, he would have been horrified by the atrocity that was about to take place and done everything in his power to prevent it.
+
+Now all he had left was a vague sense of unease. Everything else had been carved out of him long ago by an insistent, relentless buzzing that drowned out any voice that wasn't that of the Broodmother, including his own. He knew his duty: he was to watch and document everything that happened, and to interfere if necessary.
+
+All he needed to do here was determine if interfering was, in fact, necessary.
+
+He had an array of spellslates in front of him. They were expensive things, trigger mechanisms for a variety of pre-cast ritual spells designed to give him all the versatility and flexibility he needed to ensure the plans of the Red Hunters came to fruition. Among them included an evacuation slate, intended just in case any of his Hunters happened to be caught in the field. The Commander wouldn't want to lose any of his valuable agents to a rampaging elemental god, after all.
+
+In theory, Observer #27 could activate that to save the students. It wouldn't interfere with their plans, really. The point was to corrupt the elemental god of flame. The deaths of the students and their professors was simply a bonus, something that would cause the news to spread faster and spark more outrage. It wasn't necessary.
+
+And even three short years ago, that might have been enough. Three years ago, a small part of him still cried out against the Broodmother's voice, and he might have acted, even if he didn't understand why. Three years ago, he still remembered his name.
+
+But that was long gone now. All he knew was that he'd had a name, once, and even that would soon be gone. Then there would be nothing left but Observer #27.
+
+Such was the cost of using one of the Red Relics.
+
+They were corrupt, arcane things, the Red Relics. Observer #27 didn't really understand what they were or how they had come about. They seemed different from every other artifact he had observed. All artifacts potentially had drawbacks, of course, but the Red Relics—they took something essential out of their users, like they were stealing pieces of a mage's soul.
+
+For eight years, Observer #27 had been bound to the Red Relic known as the Watchful Hive. It was far from the most powerful relic the Red Hunters used, but it was the most essential to their operations. What it lacked in raw power it made up for in sheer influence and range. Without it, the Red Hunters would not have been nearly as successful enacting their schemes. They would lose their ability to nudge events in the right direction, to hold a mage in place for just a moment too long.
+
+The Watchful Hive was crucial.
+
+And so, by extension, was Observer #27.
+
+The thought made the buzzing in his head throb. A sick sort of pride lurched in his gut. Observer #27 doubled over, hands gripping on to the edges of the scrying pedestal, his breathing growing ragged as the Watchful Hive attempted to reward him for the thought. He fought it, but by now it was more instinct than deliberate—he no longer remembered why, and soon he slackened, letting the bliss wash over him.
+
+It was always like this. Stronger each time, punishment and reward. The buzzing told him what he was allowed to think, when he was allowed to think it. It led the way when he helped set all this up to begin with. The Grand Mage had been the one to invert Kessi Lyrwin's mana core, but it was his efforts and those of the Hunters stationed at Haelforge Academy that put her in this position.
+
+All because that damn Firestorm Scale was near impossible to corrupt through conventional means. It had taken them work, and he was proud of that work.
+
+The shrine was warded against anyone that wasn't affiliated with one of Utelia's academies. It had taken them months to come up with a plan that would work, and longer still to implement it. They needed to place just the right person in place at just the right time. He had personally needed to infiltrate their dreams, to whisper into just the right ears to convince those Haelforge professors that Kessi could be trusted near the Scale.
+
+Apparently, they'd somehow still had it easier than the Brightscale team. Observer #27 snorted. He remembered his Hunters laughing at the naïve idealism of the Haelforge professors—they didn't realize how much he'd been doing behind the scenes, making them confident and foolhardy.
+
+They weren't technically wrong, he supposed. That was the primary difference between the Haelforge and Brightscale academies, outside of Haelforge's focus on battle magic: the Haelforge professors desperately wanted their Astral Wing students to succeed. Many of them had graduated from that wing themselves, long before the Red Hunters had risen to power.
+
+The Brightscale Academy, on the other hand, had taken years to corrupt. They couldn't get at any of the professors directly, and half of them were paranoid and antisocial, with all sorts of countermeasures built into or around their person. It had taken the Brightscale team decades to sow division amongst generation after generation of mages, to figure out how to pressure the professors into not interfering.
+
+They'd succeeded, in the end. They managed to make things look like a natural development, a cultural shift. But even then, things hadn't been easy.
+
+The Brightscale Astral Wing's wards had gotten an upgrade a few months back that were so sensitive that the Grand Mage had to rework their obfuscation spells just to avoid setting off a dozen alarms, and even then it was risky for their Hunters to get anywhere near the demon that anchored them. And just a few days ago, Observer #16 was complaining about some golem that apparently made it impossible to scry anywhere in its vicinity.
+
+Worse, the Commander had a special interest in Headmaster Akkau, for some reason. Observer #27 shuddered at the thought.
+
+Interest from the Commander was never a good thing.
+
+In that vein, at least, Observer #27's job had been far easier. The Haelforge Academy was overconfident and willing to use its reputation as its primary form of defense. Their wards hadn't been updated in years and were comparatively simple to bypass. None of their professors even specialized in warding magic. His Hunters told him they hadn't even run into any trouble slipping the shimmerdust into their food.
+
+Which meant he'd done well, hadn't he?
+
+Observer #27 noticed, perhaps a little distantly, that the buzzing in his skull hadn't grown again. It hadn't reacted to his thoughts. It would have by now, but instead, it almost seemed a little quieter.
+
+He forced his attention back to the scrying spell. Neither school had evacuated yet. All the students had woken from their resonance trances by this point, staring at the corrupted Firestorm Scale in a mixture of horror and alarm, which was the appropriate reaction to a corrupted divine artifact. The human, meanwhile, was just eyeing it critically, like he was judging it. Or evaluating it.
+
+What was he doing? Why weren't they evacuating? The professors had been smart enough to notice the problem and to cage the errant corrupt mana. They'd delayed the Scale's corruption and almost forced him to step in. Now all they needed to do was evacuate, and they were just standing there, watching the human.
+
+And so were all the students. They were giving the Scale a wide berth, but it wasn't like that would save them from a rampaging elemental god.
+
+Observer #27 reminded himself that this was a good thing, that it would advance their plans all the more.
+
+For once, however, the buzzing in his skull didn't respond.
+
+And Observer #27 finally noticed the absence of his ichorworm bond. The small, larval creature that occasionally took the form of a golden fly and represented his connection with the Watchful Hive—it was gone.
+
+And his heart was suddenly hammering.
+
+The death of his ichorworm didn't mean he was no longer connected to the Watchful Hive. It was nothing more than a representation. The bugs that acted as their eyes and conduits did occasionally expire in the field, and normally, all that happened was that the Observer it had been bonded to would have to report to the Broodmother. They would be fed a new spoonful of the Watchful Hive's ichor-honey, and nine hours later, a new one would be birthed from their optic nerves.
+
+But there was a gap, of sorts, created by the death of their bound ichorworm. Those things amplified the Broodmother's passive voice.
+
+Without it, he could hear his own voice again. Not loudly. It was more of a faint echo of his voice, still drowned out by the Broodmother's passive droning, but there was just enough that he knew he didn't want this.
+
+The emergency spellslate. He could activate the teleportation effect. He needed to be careful not to think about helping anyone, lest he draw the Broodmother's attention.
+
+His finger twitched. He inched his hand toward the spellslate. Observer #27 was doing nothing. He was activating a failsafe. He was making sure there would be no unnecessary casualties—
+
+—the Broodmother's presence in his mind surged. Observer #27 fell forward, his mouth opening in a silent scream as the buzzing in his mind multiplied, and multiplied, and multiplied.
+
+The Hive detected intent, and with every stray thought, it carved a new piece out of him.
+
+Observer #27 was lesser now than he had ever been.
+
+He was his duty. Bound to observe and report. To interfere when necessary. Even without his ichorworm, there were ways he could step in to prevent the destruction of the Scale until its corruption was complete.
+
+He turned to look at a different spellslate.
+
+That one would summon one of their Templars to the site if he deemed it necessary. A Templar would be clad in a dozen lesser Red Relics. It would open with a spell salvo designed to kill any mage that could interfere, activate any bloodrot links that might be tied to any of the mages present, and ensure their plans cover up the evidence.
+
+If there was any chance this human could stop the Scale, he needed to activate it.
+
+Observer #27 stared at the Templar spellslate.
+
+(A Templar was a one-time summon. Using it would drain several of their relics dry. It would take months to recreate them, and more to train a new Templar. The odds that the human would destroy the Scale were too low to waste this on.)
+
+But this particular scheme was important. The Red Hunters had plenty of other measures in place, other plans they could launch, but corrupting the Firestorm Scale was one of the highest priority. It was one of the few things that could truly sway the beastfolk tribes of the Illwyld.
+
+(A small part of him ached in remembrance at the thought.)
+
+It did seem unlikely that a human would be able to destroy the Scale. Observer #27 considered this for a moment. Destroying it through mana quantity alone was not worth consideration, no matter what the professor said; it would be a waste to call a Templar to stop something that was impossible.
+
+A destructive spell, perhaps. Something only the human knew.
+
+(But he was a student. A student wouldn't have a destructive spell that powerful. Wasting a Templar on that would anger Broodmother.)
+
+Then perhaps—Observer #27 knew that the Brightscale Academy was home to a particular mage known as the Devil Artificer. She was a nightmare of a mousefolk mage, apparently capable of constructing and rebuilding even divine artifacts like they were toys. The Red Hunters had judged that a majority of the rumors about her were nothing more than rumors, but nevertheless, she was marked as one of the more dangerous mages they knew of.
+
+She could have provided this Cale with an artifact capable of destroying the Scale. It would have been within her capabilities.
+
+(It would be foolish to give such an artifact to a human and not to the professor, however. Far more likely that the Brightscale professor had misunderstood the nature of the Firestorm Scale. Was this not the disgraced Mage Killer of the Brightgrove Elves?)
+
+Observer #27's sense of duty was satisfied. He drew his hand back. Calling a Templar would not be necessary.
+
+Instead, he would watch, as was his duty.
+
+He breathed new life into his scrying spells, feeling them resonate with his mind, recording everything just as the Watchful Hive dictated. The Firestorm Scale would be completely corrupted soon, and Observer #27 knew that the Commander would want to pry these memories out of him later, so he could watch his victory.
+
+In his vision, the human stepped up to the Scale and waved a hand—
+
+Observer #27 blinked.
+
+No. Not... not Observer #27. His name was—it was Serof Ontiladus. He was a light mage from the Lightladen Fields in the northwest corner of the Illwyld, and it had been eight years since he had seen any light other than that mimicked by his own scrying spells.
+
+His mind scrambled to try to piece together what just happened. He could... think for himself? Why could he think for himself? He hadn't been able to think for himself for five of those last eight years. It had been getting harder year over year, the buzzing in his head louder and louder.
+
+He remembered... his ichorworm getting destroyed. That had cleared his head a little. But then the Watchful Hive had reacted, and the Broodmother had reached into his head.
+
+Serof winced at the memory. Just the memory of the buzzing made him nauseous.
+
+What else had happened? He'd been... he'd been watching that human with the Firestorm Scale. He wanted to save them, but that was what had caused the Broodmother to react. There was so little of him left after that all he remembered was determining there was no risk, no need to call a Templar to take action. Then he refreshed his scrying spells, and the human stepped up to the Scale, and then—
+
+The memory flashed back into his skull. Serof fell back against the wall, wings curling protectively around himself, gasping and trembling as just the memory of it burned through him a second time, brighter and louder than any of the Broodmother's buzzing thoughts.
+
+A bright orb of prismatic light manifesting over one end of the Scale, almost twice the size of the entire tempest of fire mana that weighed down the other. Serof caught a glimpse of it only because he was a light mage scrying the scene. No one else would have had the time, because the instant that happened, the Scale rang out with a keening, desperate gong as it swung all the way to the other end—
+
+—a massive cloud of dust and soil and broken earth kicked into the sky from the force of the Scale striking the pedestal that held it like an enormous, impossible hammer—
+
+—the sheer weight of Cale's mana tearing the divinely-reinforced lever from the golden base, warping the metal enough to cause it to crack; the entire Scale bouncing from the rebound force, flung into the air before being caught by a ridiculous barrier, and a glimpse of that human's eyes—
+
+Backlash.
+
+Serof trembled in realization. He'd just experienced scryer's backlash. That—that should have been a myth! The idea that a scrying spell could see something it wasn't supposed to and hurt the caster through the spell was absurd; scrying spells were designed not to hurt their casters.
+
+And yet... he remembered it all now. He'd been watching too closely, horrified by what he was seeing, and he hadn't paid attention to where he was looking. He caught a glimpse of Cale's eyes in the exact moment the human channeled the force of his mana, and his scrying magic—designed to pick apart, designed to understand, designed to measure—had been torn open.
+
+Whatever he'd witnessed wasn't supposed to be measured. Couldn't be measured. And he'd witnessed it and tried, and the magic had burrowed straight back into him through his spell and into his mind, where it was linked.
+
+And then, where it should have blasted apart his mind, it had instead blasted apart the Broodmother's voice.
+
+That damnable buzzing was gone.
+
+Serof's breathing steadied, his wings slowly uncurling as he forced himself to his feet and stumbled back to his scrying pedestal.
+
+The artifact was out of his head. He was free! The Watchful Hive and its Broodmother were no longer connected to him, not even through the ichor they had forced him to swallow and the worm that had crawled out of his eye.
+
+The only thing Serof didn't understand was how this had happened from just attempting to scry one mage. What was he? There was no way he was just a student.
+
+But he couldn't afford to think about that. Not now, when he was still very much in range of the Broodmother's wrath. Serof stared at his scrying chamber, taking it in. It was more of a glorified cage, really, though he hadn't been able to notice while he was Observer #27.
+
+There were no windows. The door had been locked in his earliest days here, though after he had been sufficiently indoctrinated they hadn't bothered to keep it that way. He could open it, and he knew what he would find outside: dozens of identical cells, each one holding another Observer.
+
+All kept in the depths of the Watchful Hive, underneath the slumbering Broodmother.
+
+"I need to find a way out," Serof whispered.
+
+His gaze sharpened slightly. Years of captivity had taken away some of his edge, but it was there, lurking beneath the conditioning. Escape wasn't impossible. The Hunters wouldn't be expecting him to just walk out. The problem was that the catacombs of the Watchful Hive were a bit of a maze. He'd have to scry his way through first, memorize the route...
+
+And then he needed to find that mage. That human that had somehow broken his cage just by looking.
+
+If he wanted any of his friends to be free, if he wanted any of his years of captured servitude to mean anything more than the destruction he had inadvertently helped bring about, he had to find one Cale Cadwell Cobbs.
+
+Cale stared at the smoking remains of the Firestorm Scale and scratched the back of his head awkwardly. "Did I overdo it?" he asked.
+
+It was mostly a rhetorical question. He was grinning. Graystalk gave him a flat look, probably because the professor knew full well he was just playing off what he'd done. Professor Delia was too busy staring with her jaw wide open to pay him much attention.
+
+Or so he thought. Her gaze suddenly snapped to him. "What in the eight infernal realms—"
+
+"Seven," Cale cut in politely. Delia fell silent.
+
+"Oh," she said, her voice suddenly hollow and maybe a little bit frightened. "You weren't... you weren't kidding."
+
+"About blowing up an infernal realm?" Cale asked. "Of course not. Why would I joke about something like that?"
+
+Behind Delia, Graystalk coughed politely, and Cale sighed. "Okay, I would joke about accidentally blowing up a realm," he amended. "But not about the eighth infernal realm! That would just be in poor taste. Why does no one know about this? Has no one checked on the infernal realms?"
+
+"The last mage that attempted to scry the eighth infernal realm had his own entrails fed to him for the trouble," Professor Graystalk said dryly. "And he was a particularly powerful mage, so most people have been... reluctant."
+
+Cale stared. "Well, now I'm glad I blew it up," he said. And then, after a moment, he added: "Accidentally."
+
+"Indeed," Professor Graystalk said, his tone somehow even more flat than before.
+
+Cale responded by beaming at him. "I'm glad you understand! Can't have people coming to me to commission realm destructions, you know?"
+
+"A common, everyday problem, I am sure. It must be quite troublesome for you."
+
+"The troublesome part is mostly the cleanup."
+
+Graystalk raised an eyebrow. "Of the realm?"
+
+"Of the mage that asked." Cale shot his professor a look of feigned offense. "I don't just go around destroying realms for every slight, you know."
+
+"Of course. I should have known." Graystalk hid his smirk, instead climbing to his feet and dusting off his robes. "Well, I would say that our class has been rather thoroughly disrupted. We will need to report the destruction of the Firestorm Scale. I don't suppose you have a means of restoring it? It would save us a lot of trouble."
+
+Cale double-checked the Gift. "Not for another sixty hours!" he announced cheerfully.
+
+Graystalk paused. "...Am I to understand," he said slowly, "that you do, in fact, have a means of restoring the Scale?"
+
+"I dunno, probably?" Cale shrugged. "I'm assuming [Awaken Artifact] can do that. It's a twelfth tier spell."
+
+"[Awaken Artifact]?!" Delia repeated with a yelp, sounding faint. Both Cale and Graystalk turned a surprised look toward her, like they'd forgotten she was there.
+
+In Cale's case, because he had. Whoops.
+
+"Can you pretend you didn't hear that?" he asked politely. "I feel like if too many people know about that before Imrys she might actually try to kill me."
+
+Delia nodded, probably a few too many times. "I won't tell anyone," she said rapidly. "You have my word."
+
+Graystalk glanced at his colleague, amused. "He doesn't bite, you know."
+
+"It's true!" Cale agreed, then paused. "Unless you want me to. I bet I could bite through stone with the right spell. I did just get [Basic Physical Enhancement]—"
+
+"Cale," Graystalk said, exasperated, and Cale shot him an unrepentant grin.
+
+"Well, I don't need a spell to bite you, do I?"
+
+Graystalk narrowed his eyes, although his ears, once again, flushed pink. "Do not make me challenge you to a duel," he muttered. "Enough. We still have some time in the Elemental Shrine. We should make the most of it. We will not have another opportunity to attune for a fire resonance rank for at least another three days, it seems. Perhaps sooner, if Professor Imrys could be convinced to help us, but—"
+
+Professor Delia winced. Cale blinked. "She can do that?" he asked. "Does she have some kind of reputation?"
+
+"Does the Devil Artificer herself have a reputation, he asks," Professor Delia muttered exasperatedly.
+
+Graystalk ignored them both. "Fortunately for us, it seems your little stunt has done this place much good," he said, gesturing out grandly toward the rest of the shrine. "The shrine should survive a mere three days, considering all the fire mana you just added to it."
+
+Cale turned to look at what Graystalk was pointing at, and then finally actually noticed what he'd done.
+
+The entire storm of fire mana that had been sitting on the Scale was gone, for one thing. But everything the Scale had been able to process beforehand had been donated to the Elemental Shrine of Fire, raising its ambient mana level to the point that—
+
+—well, to the point that firesprites had begun to form.
+
+That was a something that could happen when ambient mana was raised to a high enough level, Cale knew, although it was rare. The mana would gather into semi-sentient sprites, fluttering and dancing through the air. There were only ever a few of them at a time, except now?
+
+The sky was full of them. They were twirling around the students, which was probably the main reason Cale hadn't been accosted by more of them for what he'd done. The few that just sat back down to try to meditate for their resonance rank had even more sprites flying around them, while a small cloud of them were beginning to gather around Graystalk and Delia each, giggling happily.
+
+"Whoa," one of the students said. "I just—I just got my first rank! Isn't this supposed to take weeks?"
+
+"I got two," Caea said, opening her eyes and studying Cale intently.
+
+"Orguk also get two!" the orc bragged, making the serpentine lady glance at him briefly. Orguk took the opportunity to wave at her.
+
+Cale just blinked. "Huh," he said. "Is that supposed to happen?"
+
+"Absolutely not," Graystalk said, but he was already sitting in a meditative position. "But far be it from me to take advantage of your generosity. You should, too—the shrine's blessing will only last for a short time, and it is needed to acquire the first rank of fire resonance."
+
+"Wha—hey, don't you get ahead of me!" Delia glared at him. She did not, however, immediately sit down to compete, as much as she seemed tempted to. Instead, she sighed and slowly gathered her barely-conscious student into her arms. "I'm going to take her somewhere safe and make sure she recovers," she said quietly. "Meet me there when you're done, Graystalk."
+
+Graystalk inclined his head slightly as Delia left. Cale blinked. Were neither of them going to explain anything to their students? Come to think of it, after Caea and Orguk's declarations pretty much all the students had gone straight to meditating.
+
+Almost as if he could sense his thoughts, Graystalk cracked an eye open and spoke, surprisingly gentle. "What you have triggered is colloquially known as a resonant blessing," he said, indicating the firesprites flitting through the air. "It is a rare event. One that does not happen more than once a decade. A mage present during it masters an element exponentially faster than their peers, and the window of time we have to take advantage of it is... limited.
+
+"Delia will ensure Kessi's safety, and I intend to move as quickly as I can so she can attempt to benefit herself. Rest assured, we will be discussing what happened here afterward. You should attempt to gain your rank while you can, as well." He hesitated. "I assume you were able to find what was affecting Ms. Lyrwin?"
+
+"I did," Cale said, his expression flickering slightly before he nodded. "Yeah, that makes sense. We'll talk about this after."
+
+He was still excited about fire resonance, after all, and Kessi was woozy but fine. Cale let out a breath, sat on the ground, and closed his eyes. He could hear a faint sound of crackling as firesprites began to converge on him, one after another. At the veil of fire mana around him made it just a little easier to peer into the elemental plane of fire.
+
+And that was what resonance ranks were about, weren't they? Connecting to the essence of an aspect.
+
+Cale allowed his mind to settle. First on the warmth of a fireplace in the middle of winter, on the comforting heat that fire could provide. Then on the raging, all-consuming flames he'd seen once tearing through entire armies. Finally he thought of how fire was the cornerstone of civilization, how its discovery helped the development of all kinds of food.
+
+Like the steady, dry heat of an oven allowing bread to rise.
+
+He reached out to the concept of fire itself, holding that in his mind, and something within his core resonated. When he opened his eyes again, he found himself in the landscape of his mind, fire burning all around him like he'd linked his sight directly to the elemental plane of fire.
+
+That fire soon responded to his call, resolving into an image of an elemental god that embodied the purity of flame. His presence felt like a manifestation of the plane itself, towering over all else, and he tilted his head down toward Cale in a slow, almost imperious movement.
+
+Then the fire flickered, like he was blinking.
+
+"...Really? You were thinking about bread?" the elemental god asked, scratching the back of his head. "I'm supposed to grant you a vision, but uh... I'm not sure what to do with that, to be honest."

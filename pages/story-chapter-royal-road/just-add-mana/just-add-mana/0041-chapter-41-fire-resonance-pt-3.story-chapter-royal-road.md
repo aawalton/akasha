@@ -1,0 +1,311 @@
+---
+id: f72f04f0-9299-56de-9161-f2d508dfe5bf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41 — Fire Resonance, Pt 3"
+slug: 0041-chapter-41-fire-resonance-pt-3
+partOf: just-add-mana
+position: 41
+ownLength: 4711
+unit: words
+ownProgress: 4711
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2640495/chapter-41-fire-resonance-pt-3"
+royalRoadId: "2640495"
+markedReadAt: "2026-06-29T18:48:58.288Z"
+---
+
+Orguk Fangtruth was very proud of his mana reservoirs.
+
+He had trained! Endured! He'd spent years racing through the mageblight swamps of the Illwyld on a daily basis long before he even applied to join the Brightscale Academy. His mana core had been large to start with, but the swamps had helped train it into something truly monstrous: there was a reason most mages that attempted to train themselves that way perished.
+
+Not him, though. Not Orguk Fangtruth. He let the vines pump his core full of that corrosive, sickly magic that ate away at his mana, and he used that to grow constantly. It was well-known that emptying your core and forcing it to refill itself helped a mage train their mana capacity, but he had taken it a step further. By letting mageblight fill his system, he forced his core to battle to produce mana just to survive.
+
+There were some that might have called that sort of training extreme, but Orguk Fangtruth simply called them cowards. How could any aspiring battlemage not use any and every available method to grow their cores? He firmly believed that all those fancy tricks with spell constructs didn't matter in the face of raw, overwhelming power.
+
+It was simple. In any battle between two mages, the one with the biggest mana core would eventually win. And Orguk Fangtruth was determined to be the biggest of them all.
+
+His most powerful spell cost a whopping thirty-two thousand mana. He could cast it three times! Sure, his professors called it a "shockingly inefficient spell" and "I beg thee to spend any amount of time refining your connection to the Gift," but he was pretty sure they were all just jealous. He had the biggest mana core and the biggest spell, so it made perfect sense that they would be.
+
+He took a deep breath and glared at the Firestorm Scale like it was a long-hated enemy. "Orguk Fangtruth will make his mother proud," he whispered.
+
+And he began channeling his mana.
+
+There was a belief among orcs that each declaration of their name allowed their lost ancestors to hear them. Orguk Fangtruth didn't know if it applied to immediate family, but he felt like it should. He hoped it did, anyway, otherwise he was pretty sure he'd look silly for constantly saying his name like this.
+
+But her last words were that she would watch over him, and that was the only way he knew to help. He didn't mind looking a little ridiculous if it meant his mom would see him become the greatest battlemage there ever was.
+
+Slowly, the Scale began to tilt.
+
+For every degree it moved, a ding echoed through the Elemental Shrine of Fire. That was the means by which a mage could measure the strength of their mana. The exact amount of mana required to move the Scale by a single degree varied depending on the day, but the average novice was unlikely to shift it by even one. A full archmage, on the other hand, could typically move it by ten.
+
+Proud as he was of his progress, Orguk Fangtruth wasn't foolish enough to believe he could match an archmage. He would be happy enough with five. After all, most other students hadn't even been able to budge the Scale by a single degree. The most so far had been two.
+
+A second ding resounded through the shrine, and Orguk Fangtruth roared in triumph. He'd matched the record, and it felt like he still had plenty of mana to spare. His core was beginning to strain from the amount he was attempting to channel all at once, but what did that matter? This was nothing compared to the mageblight.
+
+A third ding resounded. Enough to beat the record, but not enough to satisfy him. He snarled and pushed himself further—
+
+The Scale shifted by yet another degree, bringing his total to four. The tempest of fire mana on the other side of the Scale flared to new heights, as if in response to his passion; even through the environmental wards of the shrine, he could feel the heat baking away at his face.
+
+And he wasn't done yet. One more! He called up every last dredge of mana, every ounce of control he possessed. The Scale tilted by another half-degree...
+
+But no more. Orguk collapsed with a groan, panting, as he finally emptied his core of everything he had. Four-and-a-half degrees was still more than anyone else had accomplished so far, and his heart glowed with pride.
+
+"A good effort," one of the Haelforge students said, stepping forward. Orguk blinked and looked up at them through the sweat stinging his eyes. It was that pretty snake lady with the daggers. "Well done. Though I'm afraid I'll have to break your record."
+
+Orguk snorted out an exhausted sort of laugh. "Do it!" he said, thumping his chest and grinning. "Show Orguk Fangtruth the heights he has yet to reach!"
+
+"Oh?" The snake lady smirked down at him, but she seemed genuinely pleased. Orguk took the opportunity to admire the sheen of her scales. "A Brightscale who understands the Haelforge Spirit. How rare. I will remember your name, Orguk Fangtruth, as I hope you will remember mine.
+
+"For I am Caea of the Silver Shore, and I plan to kill the Dark Lord himself."
+
+She slid forward, toward the Scale, but not before leaving him a little present. Orguk Fangtruth blinked and looked down at the little dagger she'd left behind. She'd even done him the courtesy of wrapping his fingers around the hilt, all in one incredibly deft motion of her tail.
+
+He liked her a lot, he decided, squeezing the dagger close.
+
+Then the shrine's mana descended on him, and he let himself slip into his resonance trance.
+
+Damien was nervous.
+
+Honestly, nervous didn't really cut it for how he felt. He knew technically that everything Cale told him was true—the human had monstrous amounts of mana and would easily overshadow the rest of this competition, which meant that how he did didn't strictly mater—but he couldn't help but feel out of place among the rest of these mages.
+
+It probably would've helped if he'd gone earlier, but he needed the time to attune his mana. Attunement didn't come as easily to him as it did everyone else, and even with all that extra time he'd taken, Damien was worried he wouldn't have enough in the Cloak to serve as an acceptable offering to the Firestorm Scale.
+
+There was a certain irony in that. He'd joined the Brightscale Academy hoping to bring his magic under control, and resonance ranks were one of the biggest steps a mage could take toward mastering an aspect. If he managed to acquire a rank in fire resonance here, he would finally be taking a step away from decay. A real step.
+
+And that the thought that he might fail and squander this opportunity terrified him.
+
+It didn't help that all the remaining students felt like they deserved an apprenticeship with Cale more than he did. Damien knew that thought was ridiculous, but he couldn't quite shake it.
+
+First there was that orc, Orguk Fangtruth, who blew through the previous record on moving the Scale by doubling it. Damien could feel the pressure of the mana he was releasing. The scariest part was that the orc's biggest problem—and the only reason he hadn't managed five degrees instead of four—was his poor mana control. It didn't look like Orguk had noticed it, but the orc had lost a good fifth of his mana from wild, undirected bursts.
+
+Cale was watching him critically and had evidently noticed the same thing. He clicked his tongue. "Looks like he's been doing nothing but trying to expand his mana capacity," he said. "Quantity isn't everything, you know."
+
+Damien briefly stopped trying to attune his mana to shoot Cale an incredulous look, only for his friend to grin unrepentantly back at him. "What? It's not. I should know. I just happen to have enough to make up for most of the drawbacks."
+
+"I don't know if that counts?" Damien said. "I feel like if he knew how much mana you had he'd just be doubly convinced about the whole mana quantity thing."
+
+"Probably true." Cale nodded. "You'll have to convince him to take up mana control."
+
+"Wha—why me?" Damien protested.
+
+"Because you have the best mana control out of all my apprentices." Cale poked him in the chest. "And because you need to figure out how to socialize. That's your first task as my apprentice."
+
+"I thought it was bonding with my cloak."
+
+"That too!" Cale said cheerfully. "Both of those are your first tasks."
+
+Damien just sighed. It was sometimes easier not to argue with Cale... though it felt a little ridiculous that he'd arrived at that conclusion after knowing the man for just about a day. The sheer density of events around him made things like this feel normal.
+
+He went back to trying to attune his mana, but watched as the next mage stepped up to the Scale. This one was Caea of the Silver Shore—famous among the Haelforge students, if he remembered correctly. Damien remembered some of his senior students whispering about her in the corridors; she was a prodigy of some kind, it seemed. A genius even for the Haelforge Academy, although not the only one.
+
+She proved it, too. Her mana control was a far cry from Orguk's. She didn't even look like she strained. She simply slithered up and shot the Scale a disdainful look, and moments later, it began to tip. If Damien hadn't been able to feel the river of mana pouring out from her core, he would have thought she'd just scared it into tipping.
+
+By the time she was done, she'd moved the Scale by a full seven degrees. Seven. That was almost archmage-level reserves, if he remembered correctly. How was he supposed to follow that up?
+
+"She's pretty interesting," Cale said, his eyes following her movements briefly. Damien had the brief, eerie impression that he was looking directly at her mana core and dissecting it even from a distance, but quickly shook it off. No one's mana sense was that precise. Probably.
+
+Then again, he'd learned to question a lot of things he'd once considered obvious after meeting Cale.
+
+Thankfully, Damien didn't have to go next. Instead, Myrlen Tealblossom stepped up. He was an older-looking elven man who Damien vaguely remembered was Nala Whiteleaf's cousin. Something about him being the next most favored of the Brightgrove Elves.
+
+Unlike both Orguk and Caea, he didn't manage to break the record. He moved the Scale by a very respectable three degrees before exhausting his mana, swaying slightly on his feet in the process; he would have fallen entirely if not for a quick burst of wind from Graystalk that startled him back awake.
+
+To Damien's surprise, he didn't seem too disappointed by his performance. Instead, he gave their professor a quick bow of thanks, then went to take a seat far away from everyone else.
+
+At which point the fire aspect mana all around them suddenly flared to life.
+
+Damien yelped, startled, as what felt like half of the ambient mana pulled away from everyone else that was meditating and rushed to Myrlen instead. Caea looked mildly irritated, but simply closed her eyes again and redoubled her efforts, causing a small swirl of fire mana to stick around her.
+
+"Whoa," Cale said, watching Myrlen closely. "What's going on with him?"
+
+Damien hesitated for a moment, then forced himself to answer. "I-I think he's one of the Favored," he said quietly. "Some people are, um, especially favored by an element? Or a mana aspect. It's supposed to be a lot easier for them to get resonance ranks."
+
+"Is he actually favored by something, or does he just understand fire more than everyone else here?" Cale asked, and Damien blinked.
+
+"I don't know," he said. "I always thought being Favored just meant the elemental god liked you more? But I guess it could just be that he's really intuitively aligned with the aspect..."
+
+"Watch," Cale said, nudging him. Damien blinked again and saw Orguk looking up toward Myrlen, frowning slightly. After a moment, he marched up to the elf, staring intently.
+
+"Is he going to start a fight?" Damien asked nervously. "Why—"
+
+"Shh," Cale said, shaking his head. "I don't think that's it. Look."
+
+Myrlen hadn't moved, but Orguk had moved closer still, squinting at the elf like he could make something out through the torrent of fire mana surrounding him.
+
+Then something seemed to click. To Damien's surprise, the orc's expression suddenly cleared, and he took a seat only a few feet away from Myrlen and closed his eyes, sinking back into his resonance trance. Even more shocking, the fire mana around them suddenly stopped, as if confused...
+
+And then it began to flow eagerly into both mages.
+
+Cale whistled. "Thought so," he said, sounding impressed. "That orc has some incredible intuition for magic. No wonder he's so focused on mana capacity."
+
+"Intuition?" Damien cast Cale an uncertain look.
+
+Cale nodded. "Yup. It's a subconscious thing and it's pretty hard to teach, but some mages just... have a knack for figuring out certain types of magic. Hard to explain, but you'll get it if you keep an eye on Orguk. They tend to be able to learn just from watching other mages."
+
+"That sounds..." Damien hesitated, not wanting to put down the accomplishment.
+
+"Like cheating?" Cale had no such qualms, apparently. "Eh. Kinda. It comes with its own disadvantages. Being good at deconstructing magic intuitively makes it much harder to do it on purpose if you come across something that stumps you, and it tends to make you kind of overconfident."
+
+His voice turned dry. "For example, these mages sometimes think mana capacity is all they need to become the best of the best."
+
+Damien winced slightly. "I guess that makes sense..."
+
+"Yup!" Cale beamed at him, clapping a hand on his back. "I'm glad our students are interesting too. I was starting to think I might have to apply to join this Haelforge Academy instead—don't look at me like that, Damien! I was kidding!"
+
+Damien had given him a stricken, terrified look the moment Cale mentioned he might have to apply to Haelforge. The dreadshade let out an embarrassed cough and tried to wipe the expression off his face, even as his friend shook his head and gave him a reassuring pat on the shoulder. "I said I'd teach you, didn't I? I'm not just going to up and abandon you guys."
+
+"R-right, sorry." Damien nodded, a little ashamed he'd believed those words so quickly.
+
+Cale gave him a reassuring pat on the shoulder. "Abandonment issues?"
+
+Damien almost fell over. Talk about direct! "N-no!" he protested. "Well, not exactly..."
+
+He really hoped Cale wouldn't ask him to elaborate. Fortunately, he was saved from that fate, because the suit of armor on Haelforge's side was finally stepping up to the Scale. Interestingly enough, he was doing so together with the other student, the floating blade.
+
+"Huh," Cale said. "Are they gonna make their offering together?"
+
+"I think so," Damien answered hesitantly. Something about them seemed familiar to him, but it took him a moment to place why. When he did, his eyes widened. "Oh! They're Honor and Glory!"
+
+Cale blinked. "That's their names?" he asked, sounding a little skeptical.
+
+Not that Damien really noticed. He just nodded rapidly. "Honor is the son of one of our professors, I think," he said, pointing to the suit of armor. "Glory is the sword. They're both imbued life, but Glory is a really rare example of a complete life imbuement on a sword. Normally they're less, um, alive?"
+
+"I'm familiar, yeah," Cale said, nodding. His eyes brightened. "I'm guessing something about Glory being a complete imbuement makes them special, then?"
+
+"I heard they can fuse their mana cores," Damien said. He couldn't help but stare, waiting for it to happen. The idea of mana cores being able to fuse was a source of a morbid kind of fascination. For most mages, the very idea of it was disturbing. A mana core, after all, had long been thought to be an expression of the soul, and while that had long been disproved, mana cores were still deeply personal things.
+
+It didn't seem to work the same way for this pair, though. Honor grabbed Glory by the hilt, holding him up toward the Scale, and both their mana cores began to flare and flicker in sync. One beat, then the next, and the next...
+
+The entire Elemental Shrine of Fire seemed to hold its breath in anticipation.
+
+Somehow, between one beat and the next, two mana cores became one. The new construct made a grand, regal gesture toward the Scale, causing a loud gong to resound throughout the shrine. The tempest of fire on one side of the Scale roared to life, flaring a good ten feet into the air.
+
+Damien's ears rang. He squinted through the sudden surge of flame to try to see how much the Scale had moved.
+
+They'd shifted by a full ten degrees.
+
+"Archmage," he whispered, his eyes wide. Cale seemed impressed, but that was about the extent of it; Damien wasn't sure if his friend understood that two novices had just leapt several stages of core development just by fusing.
+
+Or maybe this was nothing new to him. It was so easy to forget how much Cale had already seen.
+
+"That's pretty cool," Cale said in agreement, which felt to Damien like an incredible understatement. "You said one of our professors is Honor's dad? How does that work?"
+
+"Um," Damien said, thrown off enough that he had to think a moment to find the answer. "I don't think you've met him yet. He's our swordsmanship instructor."
+
+"Oh." Cale seemed disappointed. "Figures. I don't know if I want to do swordsmanship again."
+
+"It's one of the mandatory classes," Damien said awkwardly.
+
+Cale wrinkled his nose. "Well, at least the instructor will be interesting, I guess," he decided. "I think it's your turn, by the way."
+
+Damien froze. Sure enough, Honor and Glory had both managed to find a space to meditate, leaving Damien to go up to the Scale next. Cale gave him an encouraging smile, which... didn't really help the nerves fluttering in his stomach.
+
+Well, it sort of helped, in the sense that it meant he couldn't just run away. He'd been considering it, but he was awful at saying no when he had even the slightest bit of encouragement.
+
+That probably explained most of yesterday, now that he thought about it. Most days he would have shut down as soon as they ended up inside that labyrinth.
+
+Very tentatively, Damien stepped up to the Scale and took a deep breath. He drew slowly on his connection with the awakened Manamorphic Cloak. It responded to him by fluttering against his shoulders, a rising tide of magic slowly wrapping around his core.
+
+He could feel a small reserve of fire aspect mana waiting for him. It was everything the Cloak had managed to extract from his attempts at partial attunement over the last quarter-hour or so, and it felt pathetically tiny in comparison to the feats of magic he'd just seen.
+
+It was all he could rely on, though. Unlike the others, he couldn't just feed the Scale his regular mana—decay couldn't be attuned even by artifacts like the Scale, and there was a good chance he would ruin the artifact besides. He needed to use only the tiny portion he'd managed to carve out for himself and store within the Cloak.
+
+Damien tried to convince himself it was fine. The amount he'd converted was probably enough to count as an offering, even if it was a small one, and it would get him started down the path of acquiring his first resonance rank. That would eventually make it easier for him to do this same partial attunement. It didn't matter how he did. All he needed to do was send in what he had.
+
+It took him twenty agonizing seconds to admit to himself that he didn't want to.
+
+He didn't want to settle for this. He wanted to try. He wanted to try the way he'd seen his friends trying, to put in everything he had and measure where he stood among the mages of his cohort. Damien had never cared where he stood before, but now there was an ache inside him, because he'd seen what might happen if he didn't have the strength.
+
+The Red Hunters were coming for them. They were willing to sabotage the school to do it. He didn't know Izzik, but that lizardfolk man had almost died. Where would he be the next time they came if all he did was the bare minimum?
+
+What if his friends needed his help and the only thing he could use were his stupid decay spells?
+
+Without Sternkessel, without the suppression wards in the Astral Wing, there was a very real chance anything he tried to cast would hurt his friends as well as any enemy mage they were fighting. Decay wasn't like fire, with an entire school of study dedicated to controlling and shaping it.
+
+Damien needed to be more. And perhaps more importantly, for the first time in his life, he also found he wanted to be more. Cale's fascination with magic had been infectious in that sense: he wanted to look at magic the way Cale did, to see a spell in terms of its possibilities instead of its dangers.
+
+What was it Cale had said earlier?
+
+Don't let me stop you from doing your best. Remember: fire and decay aren't that different. You can do this. Focus on all the ways they relate and attune, step by step.
+
+Damien focused on that thought. He tried to sink into the idea that fire and decay weren't all that different. Cale was right, he knew. Fire was warmth and destruction, both the spark that ushered in life and the ravaging force that often ended it. Decay, too, was—
+
+—a force that led to ruin. Decay had rotted away at his first friends and his first home and all that he'd once dared to name family—
+
+Damien gritted his teeth.
+
+Decay was not what he'd allowed himself to believe for all these past years.
+
+He clung to the memory, as ridiculous as it was, of Cale biting into the binding that controlled and contained that Abyssal One. That expression of decay was greater than any he'd ever seen. It had looked for a moment like he was staring at the very concept of a universal end, raw and unconstrained. The purest expression of rot infecting all of existence.
+
+And despite the sheer, existential terror of that idea, Cale had bent that power and used it to offer hope and freedom to a creature that had never known either.
+
+Because some things must end to make way for something new.
+
+The thought clicked into place so smoothly that Damien almost didn't realize it had happened. Decay was a process that resulted in loss, yes, but that loss created room for something else to grow in its place. He'd understood the idea intellectually before, when Cale had explained it, but somehow what he was feeling now was different, like he'd accepted it in more than just his mind.
+
+The end of a binding had led to freedom...
+
+...and the end of a fire could lead to new life.
+
+Without prompting, an image crystallized in Damien's mind with unprecedented clarity, almost intrusive with how much it demanded his attention. He saw a fire tearing through a forest, leaving behind nothing but cinders and devastation.
+
+Like decay, fire could destroy. It could ruin.
+
+But the remnants of that fire brought new life, and it did so through decay. Without decay, everything left behind in that devastation would be useless, dead things, organic matter left sitting in the ground. With it, however, all that was left behind could break down. Turned once more into nutrients that re-fertilized the soil.
+
+There were plants, he knew, that took advantage of this. Seeds that needed the heat to germinate. But decay was the means by which the natural system healed, and though it destroyed everything that was left, it made sure there would be more to come after.
+
+Something in Damien's core burned, hot and cold all at once. His mana fluctuated within him in fits and starts, almost like it was responding to his newfound understanding. Decay was a primordial aspect and could never be completely attuned, but he could feel something new taking form, a potent combination from the cycle of fire and decay and growth and healing—
+
+You have learned [Legacy of the Verdant Flame]!
+
+What? Damien's eyes shot open, startled, as he stared at the sudden intrusion of the Gift. The details of his new spell—not even a spell, an auric passive—spilled out in front of him.
+
+[Legacy of the Verdant Flame, Level MAX] [Personal, Auric Passive]
+
+You have comprehended the relationship between the primordial aspect of decay and the elemental aspect of fire. Primordial decay may now more easily be attuned to the formerly lost aspect of the Verdant Flame.
+
+As a newly reforged mana aspect, the Verdant Flame is yours to explore, conferring the following bonuses:
+
+This Legacy grants a single rank of Verdant Flame resonance.
+
+This Legacy grants increased resonance acquisition for the decay and fire aspects.
+
+This Legacy improves both decay and fire related attuning, spell acquisition, and spellcasting.
+
+This Legacy can evolve, allowing you to return the Verdant Flame to its true form.
+
+You have earned a Legacy. The Gift sees fit to offer an additional reward.
+
+You have learned [Verdant Blessing]!
+
+[Verdant Blessing, Level MAX] [Personal, Auric Passive]
+
+When attuning for the Verdant Flame, receive a +20% bonus to conversion efficiency and mana output.
+
+Damien stared, speechless. He'd never once heard of anything like a Legacy. The Gift's phrasing implied that they were a known factor, something that could be earned, and yet if anyone else had earned them there would surely have been records. They would have talked about it in class. Something.
+
+Why hadn't he heard of this? Had he—had he somehow managed to find something new? Or maybe something old, buried so deep in the Gift that no one had yet discovered it, or all memory of it had been wiped...
+
+The Scale chimed, and Damien jerked, startled, as they began to tip. He'd assumed he wouldn't have enough mana to tilt it by even a single degree, just like most of the other students. Instead, the ding echoed through the shrine.
+
+Once. Twice. Three times.
+
+Three degrees. Exactly as well as Myrlen Tealblossom had done. Not incredible, no, but so far beyond what he'd been expecting that he just stared at the Scale, wide-eyed and slack-jawed. He only moved when Cale came up to him and clapped him on the shoulder.
+
+"Well done!" he said. "I knew you could do it. Although that did feel kinda weird. Did something happen?"
+
+Damien swallowed. "Um... you could say that," he squeaked.
+
+Part of him was scared, because, well, new things scared him. The significance of those new things scared him even more, in a way. But he couldn't deny now that there was a part of him deeper still, a part he didn't know he had, that wasn't scared at all—that was excited instead.
+
+Because this, more than anything else so far, proved he could be the kind of mage he wanted to be.
+
+Almost impulsively, he wrapped Cale in a hug. "Thank you," he mumbled.
+
+Cale blinked at him, then patted him awkwardly on the back. "I don't know if I did anything, but sure! You're welcome," he said cheerfully.
+
+Damien didn't quite have it in him to explain everything just yet. It wasn't like he could, anyway, while the Haelforge students were here.
+
+This felt like the sort of thing he needed to keep a secret.

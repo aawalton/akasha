@@ -1,0 +1,113 @@
+---
+id: 8ac37c3d-c0c2-5765-9bfc-1c2694061dc7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: Monster"
+slug: 0199-chapter-17-monster
+partOf: labyrinth-of-the-mad-god
+position: 199
+ownLength: 2331
+unit: words
+publishedAt: 2025-07-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2460291/chapter-17-monster"
+royalRoadId: "2460291"
+---
+
+Nick only needed four hours of sleep a night, thanks to his enhanced Survivor trait. Since crossing the badlands in the dark wasn’t a good idea, he devoted a fair chunk of each evening to training his skills and revising his tactics, incorporating his upgraded attributes, abilities, and gear into his playbook.
+
+Those efforts were going relatively well, but he was having more trouble conditioning his physical attributes on the march than he’d expected. Tonight, he wanted to devise a new regimen that would push him hard enough to get those numbers climbing again.
+
+He left his PDA on sentry mode, set the device on top of his bedroll, then walked a few hundred feet away from camp so he didn’t wake Liz. Nick planned to start the session off with a round of Strength and Toughness training, then move on to exercises he hoped would condition his Dexterity.
+
+Now, what should I try first? Let’s begin with the classics to establish a baseline and go from there. He nodded to himself, then spread a tarp across the dirt, got down on his stomach, and placed his hands shoulder-width apart. He was curious to see how many pushups he could pump out before he started feeling the burn—how many more it would take to exhaust the muscles involved in the motion. Mindful of his form, he extended his arms just like he would have before the System arrived.
+
+His first attempt launched him a good three feet into the air, which caught him by surprise. Nick hit the ground and burst into laughter, then adjusted his output and tried again. His muscles were so powerful that his body felt almost weightless—like he was working out on the surface of the moon.
+
+100. 250. At 500 pushups, he realized he had a problem. By this point in his adventures, he was so strong that lifting the mass of his body no longer required sufficient effort to break down his muscle fibers. On top of that, he wasn’t even winded, thanks to his upgraded Toughness. While it was a problem, he wasn’t too worried. It just meant that if he wanted to get in some Strength training, he was going to have to improvise.
+
+Nick picked up his pack, then added more rocks until it was at its maximum, 150-pound weight, even with the floatstone core inside. He strapped the bag onto his back, got down on the ground, and tried again. By the time he hit the 100-pushup mark, he was able to feel a bit of burn this time around
+
+I’ll need to create some specialized gear if my Strength gets much higher, but this weight should be good enough for now once I really get going. On that note, Nick started pumping his arms faster, picking up the pace until his vision was a blur. It still wasn’t enough resistance to make his conditioning session worthwhile, so he switched to one hand instead—occasionally launching himself a few feet into the air, clapping, and switching to the other hand on the way down.
+
+Half an hour later, his arms were trembling, so he switched to modified crunches—lying along a curved boulder to incline his body while holding his bag in his arms. That worked a bit better, and he reached the point of exhaustion fifteen minutes later. Next came squats that were supplemented by the weight of his bag on his back and a stone in his hands.
+
+Satisfied with his efforts so far, Nick moved on to conditioning his Toughness, running in a circle as fast as he could while carrying a heavy load. Burning some stamina to push himself harder seemed to help with his workout, so he experimented with using it until sweat was running down his body.
+
+After letting the night air cool him off, he took a drink from his canteen, then switched to Dexterity training. At least this one should still be relatively straightforward. Thinking back to that moment in the safe room after overcoming the blight and completing his evolution, he gathered a pile of baseball-sized rocks, tossed them high, and started juggling.
+
+He began with five stones to form a simple circle, then added more one by one until he had ten stones in the air. At that point, he switched up the pattern, increasing the complexity and varying the rhythm of his tosses.
+
+Even then, it was surprisingly easy. So, Nick added another five stones, then started juggling with his eyes closed. With any luck, the visualization component will help condition my Mind at the same time. Juggling fifteen rocks blind was tricky enough that he lost the pattern on several occasions, swearing whenever a rock bounced off his head, even though the impact didn’t even bruise him.
+
+When he was done with the exercise, instead of letting everything fall to the ground, he started throwing rocks at imagined enemies, keeping the pattern going all the while. Even if my Throwing skill isn’t active, I can still improve my aim the old-fashioned way.
+
+After using the final rock to assassinate an unfortunate tumbleweed, Nick was satisfied with his progress and decided to bring his session to a close. He sat down on the tarp, stretching out while staring up at the night sky. It was amazing what he could do with his new body—perform superhuman feats without missing a beat. And this is only the beginning of what Grade-D has to offer.
+
+Since he had finally managed to wear himself out, he walked back to camp with a huge smile on his face after deciding to save his skills training for the morning. On the way, he opened his profile to check out his gains.
+
+Through vigorous exercise, you have conditioned your body and improved the following baseline attributes:
+
+Dexterity has increased from [13] to [14].
+
+Strength has increased from [14] to [15].
+
+Toughness has increased from [15] to [16].
+
+Awesome. If I push myself hard enough, conditioning my body is almost as easy as during those first few days on the Searing Isle. Nick knew it would start getting harder again once he picked up a few more points in each attribute, but he was pleased to learn that the conditioning process for his evolved body worked just the way he had thought.
+
+He climbed into his bedroll and closed his eyes, listening to the rhythm of Elizabeth’s breathing until he fell asleep.
+
+***
+
+Nick awoke early the next morning, glad to see Luna gracing the navy dawn sky instead of the emerald stranger. You’ll always be the only moon in my heart. Today, it was his turn to cook breakfast, and by the time everything was ready, Liz had woken up. She sat down beside him on a log in front of the fire and they enjoyed their meal in a companionable silence.
+
+Before they resumed their journey, they spent an hour training their skills and trying to deepen their understanding of their abilities so they could advance them with the Ability Mastery System. Everyone had received a massive infusion of essence during the battle for Earth, and he had enough to upgrade each of his powers once he cleared the knowledge condition.
+
+Now that Nick’s energetic senses were growing sharper, he was spending some time every day trying to deepen his connection to Blightbane while working on mana manipulation at the same time.
+
+He began by sitting cross-legged with the bared blade resting across his knees. Then he attempted to extend his awareness into the sword, searching for a presence within. He knew from his vision that Blightbane had been crafted by blending the soul of Kastilla’s king with the weapon, but centuries of sharing a prison with the Crimson Blight had almost destroyed the core that contained it.
+
+Rita and Gretta had both said that the blade’s core was gradually regenerating, and Nick hoped that the essence he generated while progressing along his path to power was accelerating the process. While he had a vague sense that something was in there, it felt like the presence was sleeping and he couldn’t discern any details.
+
+Moving on, he infused the blade with pure mana—a process that had become almost effortless as time went by. By now, he could fine-tune how much energy he expended, although adding too much felt far less efficient. Even still, oversaturating the sword might come in handy against an opponent with a powerful magical defense.
+
+Since his efforts were bearing fruit, Nick had begun to experiment with adding force mana instead of pure. While he thought infusing Blightbane with that type of energy was possible, so far, he hadn’t been able to get the blade to accept more than a trickle. He wondered what the difference was and tried to unravel the mechanics behind the phenomena, but thus far, no answers had come to him.
+
+After he finished his mana-infusing exercises, he moved on to practicing with the blade itself. He kept working on the katas Rita had taught him—the forms that lay at the heart of the Ever-Surging Blade. He had begun to internalize the lessons contained within the first three katas, and though the road to mastery was long, he was confident he would get there in the end.
+
+Mastering the other forms wasn’t going nearly as well. In part, because they were significantly more complex, and in part because he had learned them near the end of his month of training and hadn’t had time to refine his technique.
+
+Nick wished that he could receive more of Rita’s instruction or that Kiki was around to practice with, but at least his Sword skill had grown enough to assist in the process. It couldn’t teach him any new moves, but it could offer corrective feedback on the ones he already knew.
+
+Now that the missing pommel stone had been restored, controlling the Blightbane felt like a dream. He was able to guide it with one hand effortlessly, while maintaining a perfect awareness of where the blade was in relation to his body at all times.
+
+After meditating on the matter, Nick had decided to wait to take the Sword skill test until he spent some time training with someone more proficient than himself. He couldn’t afford to fail the test, and he had a hunch the focusing purely on the numbers instead of obtaining genuine understanding would limit his growth as a swordsman.
+
+“I’ve been meaning to ask you about those forms.” Liz walked over to his side after completing her morning routine. “I’ve never seen anything like them. Where did you learn that technique?” Nick explained that he had received a skill-training reward for completing the bonus floor of Darkstone Tower, which Sophia had earned by finding a secret entrance leading to the basement.
+
+When Elizabeth asked him if he would mind sharing more of what he had learned while sparring with her, he thought about it, then agreed. Rita never said that any of this was a secret. But it would have to wait until tomorrow. Daylight was burning and they were on the clock. They stopped to watch the sunrise together, then set off, following the river toward the heart of the badlands.
+
+By the time that late morning rolled around, another significant landmark had come into view. In the distance, Nick spotted an extensive series of rust-red mesas, which stretched on for at least twenty miles along both sides of the river. They reminded him of the Titan’s Prairie, although these rises were only a fraction of the height of those immense expanses of stone.
+
+He counted seven distinct rock formations from this angle, although there might be more hidden behind them. There were narrow spaces running between the cliff faces, which must look like maze when viewed from above.
+
+He was tempted to explore them now, and planned to climb up there eventually, but with the start of Rebuilding Civilization right around the corner, they decided to pass through and keep pressing toward the lake for now. There was one major pass dead ahead, where the gap between the stones was several hundred feet wide.
+
+The river wound its own course between the towering rocks, but there wasn’t a footpath alongside it and the whitewater rapids formed from submerged boulders made swimming or rafting a bad idea. He had a hunch that there was some manner of challenge in the area, which made him want to explore the pass instead of going around the long way.
+
+It turned out that his guess was right on the money, although the nature of the challenge surprised him. By the time that Nick and Elizabeth drew near the lane running between the mesas, the noonday sun was hanging high in the sky. When he pulled out his spyglass to take a closer look, he saw spotted massive creature moving between the stones. “What the fuck is that?” he muttered.
+
+He could tell right away that it wasn’t an animal or beast, or anything from Earth for that matter. While he let Liz look through his spyglass, Nick crept a bit closer until a message from the System appeared.
+
+You have discovered a regional event.
+
+The nature of the event is: Roaming Monster.
+
+The difficulty rating is: 2 stars.
+
+You have encountered a roaming monster—a lifeform that is generally referred to as a voidbear.
+
+Voidbears are ubiquitous throughout the Labyrinth, lurking the conduits running between sectors and zones. They dine on everything that enters the space between worlds and occasionally make their way onto inhabited planets. Voidbears are voracious, relentless hunters. Their physical attributes are high for their grade, although their intelligence is quite low.
+
+Be advised: There are no safety mechanisms in place for this challenge other than this proximity warning. If you lose, the monster will eat you.
+
+The rewards for completing this event are: 20 City Points, an infusion of compatible essence, and a small bonus to species experience.

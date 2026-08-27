@@ -1,0 +1,135 @@
+---
+id: cc93ce06-897e-5a4e-b2f5-d3fbd22667e4
+page-type-slug: story-chapter-royal-road
+title: "86. Inn with an Elf"
+slug: 0005-86-inn-with-an-elf
+partOf: leveling-up-the-world
+position: 5
+ownLength: 2074
+unit: words
+ownProgress: 2074
+publishedAt: 2021-03-28
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/654017/86-inn-with-an-elf"
+royalRoadId: "654017"
+markedReadAt: "2026-06-29T22:40:17.610Z"
+---
+
+It was said that there were things in existence that were indescribable. Nerosal wasn’t one of those places, but it was pretty close. Dallion had been in some pretty big cities when he had been back on Earth. Some of them were crowded, some of them were wide, but none were exactly like what he was looking at now. Clusters of towers shot up from clusters of houses separated by parks, forests, hills, lakes, even a lone mountain in the distance. Near one of the lakes, on top of the tallest city Dallion could see, a castle—or rather a collection of very tall, very large interconnected towers—rose above everything else, almost shining in the most perfect white ever seen. It was as if the whole building had been made of solid milk. Dallion didn’t even want to think how many level improvements had been necessary to get the material to what it was now, now what was involved in the mending process.
+
+“Your eyes will fall out if you keep looking that much,” Fatus said. The man had been grumbly ever since Dallion had improved his wagon. Even so, he had stayed true to his word, driving the boy almost to the outer gates.
+
+Maybe it’s worth it, Dallion thought. He hadn’t seen anything of the sort in Aspion’s memory of the place. The city must have developed a lot in the last fifty years.
+
+“Do I need to do anything to get in?” Dallion asked.
+
+“Just walk through the gates.” The driver waved with an annoyed expression.
+
+“Thanks, Fatun. I owe you one.”
+
+“You better remember it.” The man grinned. “I’ll be back to collect sometime.” He pulled the reins of his horses making them turn the wagon around. “A piece of advice. Get some new clothes before you get into trouble. Take care, kid!”
+
+Dallion remained where he was for a while longer, admiring the city before him. This was the place for which he had spent ten days wandering through the wilderness. Looking at it, there was no question that it was well worth it. Now all he had to do was walk in.
+
+Humming a tune, Dallion made his way to the city gates. A squad of four soldiers stood there, none particularly interested in what was going on. At this time of day there didn’t appear to be any movement in and out of the city.
+
+Years of preconceived game notions had made Dallion expect one of the guards to call out for him and start a series of questions for which he’d have to use his wit and possibly a bit of bribery money to slip through. Instead, two of the guards gave him a passing glance as he passed by, returning to their previous conversation.
+
+The instant Dallion stepped past the invisible threshold, a cold chill shook his entire body, almost causing him to fall. A second later, the sensation was gone.
+
+I really need to find a place to eat, Dallion thought. Ten days on rations and rabbits had been enough to keep him alive, but definitely was nowhere near enough to help him recover from the leveling of the wagon. Normally Dallion would rely on his senses to point him in the direction of food. The city was so abundant in aromas, however, that he wasn’t able to make out one thing from another. The only solution was to find a place the old-fashioned way.
+
+Continuing along the stone-paved street, Dallion carefully examined the nearby buildings. As he expected, almost all of them were inns, taverns, and trading shops. Signs boasting the best conditions for the least price were placed next to every entrance. Dallion’s experience in the marketing practices on Earth told Dallion that these were likely the worst deals to be had in the city. Travelers that came from the outside would usually choose something close to the city gates and not bother with the far better deals further in. That’s why instead of looking at the facades and the offers, Dallion looked at the buildings surrounding the inns.
+
+The further he went in, the more residential buildings started appearing. About twenty minutes later, after walking aimlessly along the streets, Dallion finally reached a neighborhood he found suitable. After another five minutes of asking passers by, he finally found exactly what he was looking for.
+
+The Gremlin’s Timepiece, Dallion read. Not the best name, though definitely intriguing. Brushing off the dirt off his shirt, he walked up to the entrance and stepped inside.
+
+The inn was mostly empty when he got inside—nothing but a few local regulars enjoying their drinks. Seeing him several of them stopped their conversations. Maybe it would have been a good idea if Dallion had taken Fatun’s advice and bought some new clothes, after all.
+
+“Hello, there,” a tall woman with flaming red curly hair said from behind the counter. There was no mistake she was the innkeeper, just as she wasn’t particularly pleased to have riff-raff visit her establishment. “What can I get you?”
+
+“Hey.” Dallion flashed his best smile. “I’d like a room and something to eat.” He took out all the coins he’d gotten from the village and placed them on the counter.
+
+“I can get you food, but rooms are a bit pricier than that,” the innkeeper looked at the copper coins with amusement. “Sorry. You’ll have better luck at one of the inns near the city gate.”
+
+“I know, I won’t.” Dallion had no intention of giving up. “There’s more I can offer. I’m a level six awakened and I can work to earn my keep.”
+
+“Level six?” The woman arched a brow. She was well in her late thirties, though still pleasing to the eye. Her post and air of confidence suggested she was one used to hard work and hassling. “Show me.” She took a large cracked glass from behind the counter and slammed it in front of Dallion.
+
+Glass? Dallion grinned internally. It definitely showed the woman knew what she was dealing with. Glass was among the more complicated materials to mend, similar to metals. Deliberately picking that instead of the broken wooden mugs Dallion could clearly see behind her, meant she wanted to test him.
+
+“Mend or improve?” Dallion took hold of the glass. “Or both?” He didn’t have any intention of improving anything for free either.
+
+“Just mend.” The woman crossed her arms.
+
+Dallion focused on his awakening power. One instant had passed in the real world. In that time, he had entered the awakening realm of the glass, spent well over five hours assembling a broken transparent labyrinth, and peaked at the glass’ guardian before triggering a guard skill escape.
+
+“There you go.” Dallion moved his hand away. As he did, his stomach gurgled. “Anything else?” He quickly asked in an attempt to mask the sound.
+
+“What do you know…” The woman took the glass and held it against the light of a nearby lamp. “Hey, guys, we have a level six.” The room became filled with clapping and murmurs of approval. “Jiroh, bring some food here!” The innkeeper shouted in the direction of the door behind her. “Tell Aspan no skimping this time! Kid’s earned it.”
+
+Thank the Seven that went well, Dallion thought. The gurgling in his stomach was getting pretty intense.
+
+“Sorry about that.” The innkeeper poured Dallion a glass of water. “Wanted to be sure you aren’t a semi. We get a lot of people claiming to be awakened, all looking for a free meal. Had to make sure you’re the real thing.”
+
+“That would only have been a problem if I weren’t.” Dallion was starting to like her. At least he knew that the place had standards. If the woman had accepted his proposal off the bat, he most likely would have spent the night, then gone searching for a better place. “I’m Dallion.”
+
+“Hannah.” The woman nodded. “While you’re here, I expect no funny business. First thing, no sex in the room.”
+
+Dallion almost choked. That escalated quickly.
+
+“No drinking, no eating, and no mess,” Hannah went on. “You break something, you mend it. If you can’t, you pay it. You’ll be fixing the place after heavy nights, as well as a thing or two from the regulars. One thing, you only mend what I tell you to mend. If you don’t hear it from me, don’t do it. And I mean don’t. Got that?”
+
+“Got it.” Talk about strict.
+
+“Are you in trouble with the city guard or anyone outside?”
+
+“No.” Although technically, Dherma’s village chief wasn’t his biggest fan.
+
+“Running from someone?”
+
+“Err, no?”
+
+“Good! Stay that way! The moment you get in any serious trouble is the moment I kick you out! Are you registered?”
+
+“I don’t think so…”
+
+“Get registered tomorrow morning. I’ll tell you what you need to do. Until then, don’t go out too much. Oh, and another thing.” She swept her hand over the counter, grabbing his pouch of coins in the process. “Whatever clothes you have, throw them away. I’ll give you a set for free. Everything else you’ll have to buy on your own. You’ll get half a silver for every item you improve here after you register. Questions?”
+
+Dallion started opening his mouth when the innkeeper interrupted him again.
+
+“Good!” she cut him short. “Go find a table. Jiroh will bring you your food, then prep your room. Don’t give her any trouble! One mess up and you’re out, I don’t care how good at mending you are!”
+
+“Yes, ma’am.” Dallion whispered. He had seen drill sergeants less aggressive. Then again, all the drill sergeants he’d seen were in movies and YouTube videos.
+
+Leaving his backpack on the floor, Dallion took his half full glass of water and went to one of the free tables by the window. It would have been nice if the innkeeper had poured him beer or ale, or even some kind of fruit juice.
+
+While Dallion waited, looking out of the window, the kitchen door opened. Dallion could tell it was the kitchen door by the bouquet of aromas that burst into the room. His mouth watered. Dallion swallowed.
+
+“Here you go,” a high-pitched voice said as a large plate with steaming food was placed on the table in front of Dallion.
+
+“Why, thank—”
+
+Dallion froze. Even since coming to this realm, he had seen a lot of interesting and unusual things. The awakening powers alone were nothing short of magic. However, this was the very first time he had set eyes on a sentient creature that wasn’t human.
+
+An elf? Dallion’s pulse quickened. There was no mistaking it. The sharp ears, the long white hair, slender frame, and sharp facial features… there could be nothing else. Somehow the thousands of fantasy artists back on Earth had gotten it right.
+
+“Are you okay?” the elf asked. “Is it the food?”
+
+“He’s a village kid,” Hanna shouted from across the room. “I bet it’s his first time seeing a fury.”
+
+A fury? So that’s what the race was called here? It was definitely an elf, though! Dallion was certain of it.
+
+“Sorry.” He managed to stop himself staring. “I just…”
+
+“It’s okay,” the fury smiled. “It happens when you get to a big city. There’s a lot more than humans here.”
+
+“I know… I mean, I thought… I was just never told that there were other races here.”
+
+“Strictly speaking there weren’t. Things changed after the war.”
+
+Thanks to his improved perception, Dallion was able to see that this wasn’t a topic the fury enjoyed talking about. For the time being the best thing he could do was shut up and eat.
+
+“So, enjoy your meal.” Jiroh smiled. “I’ve told the cook to keep the spices down, but just in case you better get more water. I’ll go get your room ready.” She went in the direction of the staircase at the far side of the room. “Top floor. It’s the only room there,” the fury said before disappearing up the stairs.
+
+Dallion nodded, then several seconds later looked at his food. This was it! He had finally made it—the first step towards his own adventure. Tomorrow, he was going to go about the city and learn what is what in order to make a name for himself. As for today, he had just rented a room in an inn with an elf. Could things get any better?

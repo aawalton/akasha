@@ -1,0 +1,213 @@
+---
+id: 3c35c8f7-c02b-561e-a957-87b88a68f068
+page-type-slug: story-chapter-royal-road
+title: "137 — Book 3, Chapter 36 — Reclamation"
+slug: 0140-137-book-3-chapter-36-reclamation
+partOf: just-add-mana
+position: 140
+ownLength: 3243
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3418322/137-book-3-chapter-36-reclamation"
+royalRoadId: "3418322"
+---
+
+Cale Cadwell Cobbs was not entirely certain what his spell had done.
+
+That was, of course, to be expected. Magic outside of the Gift was an uncertain thing: in most realms, the development of a new spell involved a great deal of experimentation and failure, and a mage could never be certain that they had documented every possible flaw and side effect.
+
+The Gift was unique in that it provided a description of every spell once it was cast, and integrated that spell into the caster's core in a way that made their understanding of what it did more or less complete. It wasn't a perfect system, still, but it was a great deal better than what a mage ordinarily had to work with.
+
+But those information-gathering capabilities seemed unfortunately limited here. Case in point: while the Gift had detected that he had performed some sort of magic, it seemed unable to determine what that magic was or what the spell had done.
+
+You have learned an unknown spell. Processing...
+
+Not yet, at least. So there was that.
+
+Still, Cale wasn't oblivious to the fact that the spell, ritual, or working—whatever it really was—had done something profound. The shift in the air felt almost tangible. It no longer felt like they were just inside one of Utelia's dungeons.
+
+Instead, it felt like they had moved to another realm.
+
+He deconstructed that thought, trying to figure out what it might mean.
+
+It was rare for him to become so wholly consumed with magic. That was partially because magic had, for many of his lives, been inaccessible to him. But even with that in mind he had participated in rituals, voluntarily and involuntarily, and none of them had left him feeling quite like this.
+
+He was tired. Whatever he'd done had drained a significant degree of his mana out of him, for the first time in a long, long time. It was a bone-deep exhaustion that was nothing like the lethargy that came with a little bit of mana strain. Rather than simply taxing his body's ability to handle his mana, he had actually drained a significant portion of his core.
+
+Cale squinted inward, just to be sure. Yep. His wyldfire was still burning, but it wasn't the brilliant blaze it normally was. He could actually see the darkwood underneath, gnarled and knotted from age and growing a little faster than the wyldfire could consume it.
+
+That made him grimace slightly, but it wasn't that much of a problem. It would be fixed with a good night's sleep.
+
+But the fact that this ritual had consumed that much of his mana told him a lot. It told him, for instance, that they almost certainly had moved to another realm; that wherever they were, it was no longer just a dungeon.
+
+That did not mean that it was no longer a dungeon at all. The presence of it was still there, hammered into the structure and foundation of this realm. They were still within the confines of the story the dungeon wanted to tell. The difference was that the story was real, now, that they were—
+
+—they were actually there. In a moment of the distant past, before the disappearance of humanity.
+
+Maybe?
+
+The implications of that raced ahead of Cale, and he struggled to reign them in. He couldn't let himself hope. Not yet; not again. All he wanted for now was to find out what happened. There were likely a dozen laws of the multiverse that would stop him from actually saving them. If the Monolith of Time were here, he was certain she would have a lecture for him on all the reasons changing the past was impossible.
+
+But it felt like there was a chance now, however slim. If the opportunity arose, if the chance to save his people came... he would seize it.
+
+Cale had, of course, only just come to this conclusion when he was shaken out of his reverie by Professor Graystalk suddenly grasping him in an embrace. He blinked himself back to reality, pushing away the aftereffects of the spell and the weariness that had sunken into his bones, and hesitated for a moment before putting his arms around the elf.
+
+Graystalk was trembling with emotion. He'd never displayed much dismay over his curse, and Cale in turn hadn't realized exactly how much curing it would mean to him. It meant a lot, apparently, judging by the hoarseness in his voice when he thanked him.
+
+"You're welcome," Cale told him.
+
+It took a while before the professor calmed enough that Cale could gently extricate himself from the embrace. It struck him, in that brief moment, how surprisingly light Graystalk was. A quirk of elven biology, perhaps? The others were too preoccupied with something else to pay much attention to his sudden display of emotion either way, which was probably for the best.
+
+Cale took the opportunity to guide Graystalk to sit on the edge of the stage. He was evidently embarrassed by that display of emotion, judging by the redness in the tips of his ears. "That mattered more to you than I knew, huh?"
+
+"Indeed." Graystalk managed a weak chuckle. "I did not truly expect it to be cured."
+
+That sounded familiar. Cale tried not to think too hard about his own refusal to acknowledge his hopes. "What happened?" he asked instead. "I mean, you don't have to tell me, but..."
+
+"I do not mind," Graystalk assured him. "It is not a complicated tale."
+
+He explained what had happened, and Cale's eyes darkened slightly as he spoke. When he was done, Cale sat quietly for a moment.
+
+"Well," he said. "I'm set to spar with Astiviya next week. You should come watch."
+
+Graystalk's gaze snapped to him, half horror and half delight. "You're what?"
+
+"She showed up during Divine Studies and said we had to produce a worthy mage to prove our school's standing," Cale said, smirking slightly. "And she didn't really specify how to prove we're worthy, so..."
+
+"I should not be surprised, and yet I find that I am." Graystalk shook his head. "Nor should I attend such a duel for the purposes of petty vengeance. It would be uncouth."
+
+"You're going to anyway, though, right?"
+
+"Oh, certainly." Graystalk grinned at him. "I shall be in my best attire. Perhaps I will bring my family along."
+
+Cale grinned right back. It was nice to have something that felt smaller and more self-contained, a problem he could solve without worrying about what would happen to humanity or to the aberrations of Utelia.
+
+He could worry about the full consequences of what he'd done later, once he'd had a little more rest—but for now, this was still a rare opportunity to understand more about what humanity had been.
+
+And the more he knew, the better his odds of saving them. He would just have to see.
+
+Foundational Spell Systems ended after Instructor Hikari collapsed, of course. There was no way the lesson could continue after that.
+
+There were a lot of questions about exactly what Cale had done. Erik and Elizabeth looked worried about Hikari, but thankfully didn't blame Cale for what had happened—they'd both been able to sense that it had something to do with the magic she employed rather than any effect of his spell.
+
+"What did you do, though?" Erik asked. It was the third time he'd asked that question. "I've never seen a spell maintained without the circles before. If you could teach one of us to do it, it would probably change spellcasting entirely."
+
+"You can't just tell a mage to give up their secrets, Erik," Elizabeth said, though Cale could tell her exasperation was more performative than anything else. She was just as interested in the answer as Erik was.
+
+"I'm not!" Erik protested. "I'm asking. There's a difference."
+
+"I'd tell you if I could," Cale cut in, mostly so the two didn't end up arguing in front of them yet again. "I'm not sure, though. You need to be able to hear them. You said you couldn't, right?"
+
+"We don't hear anything like what you described," Erik confirmed. "But our mana sense isn't as sensitive as yours in the first place. Did you say you normally cast using constructs?"
+
+"Like this," Professor Graystalk said. He'd managed to compose himself, and now for the most part he wore his usual expression of polite interest. But at the same time, there was something softer in the lines of his shoulders, like some of the weight he had been carrying with him had drained away.
+
+The professor gestured, casting a very modest spell array out of first- and second-tier spells only; the construct glowed for a moment, and then the remnants of the chalk on the floor began to glow in resonance. It gathered itself slowly into a little ball, then reconstituted into a length of hybridized chalk.
+
+Erik's eyes widened and his jaw dropped. "You have a Chalk Restoration spell?" he asked, delighted. "Wait, you cast it without using any reagents! You have to show me, this will change the way we cast magic so much—"
+
+"Erik," Elizabeth said, and Erik wilted.
+
+"Please?" he tried.
+
+"I am uncertain you would be able to replicate it, but I am willing to share what I know," Graystalk said, chuckling. He found a piece of paper and began burning a script into it with mana. "Here are a basic set of spellforms you will need. You must be able to maintain these shapes using mana manipulation alone."
+
+"You can hold shapes like these just with mana manipulation?" Erik scanned the piece of paper eagerly. "Are you from a realm with better mana control? We don't have nearly this much finesse! I mean, I guess you could train for it, but we've never seen much of a point with how many years it would take. But you're longer-lived, right? So you could afford to do that. I wonder if we could establish a better exchange program with longer-lived species—"
+
+"Erik," Elizabeth repeated, and this time she gestured to the still-unconscious Instructor Hikari. "We need to make sure she's alright."
+
+"Oh. Right." To his credit, Erik did seem embarrassed. "Sorry. I might come by later to learn more, though! We're gonna go, uh, take her to the infirmary and make sure she didn't get brain damage or anything."
+
+"She did not get brain damage," Elizabeth deadpanned. "Prophecy backlash is a well-known side effect of receiving a prophetic vision. Please don't worry our guests. Instructor Hikari will be fine with a little rest."
+
+"There was a prophecy?" Cale asked.
+
+"Right, right," Erik said. "She probably didn't get brain damage. I'm just saying! We still don't really know the mechanism of prophecy, right? It's possible that the mana burns through the brain..."
+
+His voice trailed off as he filed out of the classroom alongside his apprentices, followed shortly by Elizabeth and her apprentices. Hikari's apprentices were the last to leave—a tall, dark-skinned woman among them narrowed her eyes at Cale, gesturing at him with an "I'm watching you" gesture.
+
+"I know you probably did not do this to her," she said. "But if you did, we will find you."
+
+"As you should," Cale said without missing a beat. "If there's anything I can do, let me know."
+
+She nodded at him, her expression severe, and left. A half-beat passed before Syphus spoke up.
+
+"You know," it said, "if you want, I'd be happy to give people death threats in your name."
+
+"Please don't," Cale said. "But also, if you do, make sure you record it with a scrying crystal. I'm sure they'll deserve it."
+
+"We should discuss the prophecy," Thorn grunted. "Believe it was directed at us."
+
+"Right, about that!" Cale said. "Seriously. When was there a prophecy? How did I miss a whole prophecy?"
+
+Alchemy Basics was next, apparently, which was rather convenient because—according to Administrator Branch—this particular class would cover common reagents and how they were affected by the various forms of magical weather. It seemed clear that Instructor Hikari's vision had something to do with the dragon rain they supposedly had to deal with the next day, so it was a good bet for information, on top of getting to learn more about the magic of the era.
+
+Cale was, unsurprisingly, dwelling on the aspects of her prophecy that seemed less like a prediction of the future and more of an explanation of what his spell had done. It coincided almost exactly with his own conclusions, except...
+
+The strictures of time are yet unwritten.
+
+Which meant their actions here would have consequences, then. Did she mean they could change the future, or just that the specific outcome here was malleable? Cale was inclined to believe the latter, given the way dungeons typically worked.
+
+Take pity on we who preceded you, and know that we are ourselves in truth.
+
+That was pretty self-explanatory. It was a warning that they were no longer simple dungeon constructs and were entirely and fully themselves, but more importantly, it was a plea for help. Somehow, in that moment, Instructor Hikari had known the specifics of the dungeon. Perhaps she'd even been able to see how time itself was laid out ahead of them. She certainly seemed to understand that Cale and his companions were from the future.
+
+She had also known, to some degree, that asking for help would work. That the take pity was all she needed to say to guarantee that he would try. The downside of it was that it was near impossible now to hold back his hope that he might be able to change the outcome of all this; she seemed to be implying that he could. Except she'd only been talking about the dragon rain, hadn't she?
+
+The blood of dragons will spill in greater volumes than ever before, and when it does, the University itself will wither.
+
+None of that was about humanity disappearing. No—it seemed she likely didn't know that would happen, and was instead saying that the students of the University could be rescued. Perhaps only that part of time was unwritten, and he would not be able to save humanity anyway; perhaps that event was fixed.
+
+...Perhaps he was looking for excuses to avoid feeling hope.
+
+Bah. In any case, he was reminded that mages could not be underestimated, no matter the era. Magic here might have been slower, requiring complex circles and patterns of lines, but in any era a mage was defined by their ingenuity and ability to work around their restrictions. Hikari had certainly demonstrated exactly that, and he would do what she asked.
+
+They had a university to protect. But the dragon rain would not come until tomorrow, so first: Alchemical Basics.
+
+The instructors that filed into the class (though it was more of a laboratory than a class, really, and judging by Graystalk's immediate interest in the equipment it was a remarkably modern laboratory) were no less eccentric than the last. This time, two of them were human, and the third was a tall creature constructed entirely from glass rods and alchemical beakers.
+
+That caught Cale's interest immediately, of course. He had a black cloak draped awkwardly over his instruments, as if he was trying to hide how inhuman he was. Perhaps he felt out of place amongst his fellows, but once again Cale saw no indication that the others thought any less of him for that fact. Instructor Phlogis, as he was known, was apparently the former familiar of one of the university's alchemical sages.
+
+He was shy and awkward, though. He introduced himself without looking directly at any of them, and pulled the cloak more tightly over his head, despite his apprentice's best attempts to reassure him.
+
+"I'm sorry," Marcus, one of his apprentices, apologized. "He has some trouble with new people. He'll open up after a bit, don't worry."
+
+"It is not a problem," Professor Graystalk said, his tone warm. "Many of my colleagues are much the same. There is no disgrace in needing time."
+
+Phlogis shifted slightly at that. "Colleagues?" he asked. His voice was quiet and reminded Cale vaguely of the tinkling of glass.
+
+"Oh, yes." Graystalk chuckled. "Our academy doesn't hold many humans, so we all have to get used to one another."
+
+"Not many... humans?" Phlogis repeated, like he couldn't quite wrap his head around the thought. "...Unusual."
+
+"Indeed." Graystalk glanced at Cale, who shrugged. He appreciated the concern, but it wasn't like the reminder made things any worse; normally, people didn't even realize they were doing this to him. "So if you're worried—"
+
+"Not... worried." Phlogis hesitated. "Do not want to disappoint."
+
+"We keep telling you, you're not a disappointment," Marcus said with a sigh. Phlogis shifted to look at his apprentice, uncertain, but did not respond.
+
+"Instructor Phlogis won't admit it, but he is one of our foremost experts in alchemical containment and reactions," one of the other instructors supplied, taking pity on him. "He's basically a walking alchemical laboratory, and he's responsible for building basically all the equipment in here. We should probably get the class started—you'll see what he's capable of when it's his turn. He's a little less shy when he gets to do alchemy."
+
+"Of course," Professor Graystalk agreed. To their surprise, Phlogis and his apprentices chose to sit with them, near the back of the class; apparently Phlogis didn't like being close ot the stage until it was his turn to present.
+
+Cale paid special attention as the lesson began, curious if he would be able to hear the song of these reagents as well. Mages of this era seemed to treat alchemy and spellwork as parallel systems, with alchemy being largely a way to contain a spell in liquid form. Many potions could be converted directly into spells, and vice versa.
+
+"Mandalroot," Instructor Tajia explained, "can only be cultivated in environments of third-order symmetry or higher, though you can partially supplant this requirement through the use of mirrors. This makes any reflective plant an excellent ingredient to grow alongside it. Repeating grass, for instance, though you must be careful not to let their reflective planes intersect. We don't need another infestation.
+
+"Both are useful for any potions or spells based in duplication or illusion, but be aware that neither of them tolerate other ingredients well. To make them more amenable to non-symmetrical ingredients, one must make use of a neutralizing, chaotic reagent, such as the bark of the bandit-tree..."
+
+Tajia pulled out each ingredient as she spoke, and Cale concentrated on them with his mana sense. Just like before, each seemed to sing to him with its own note.
+
+Cale's brow furrowed slightly.
+
+No, he wasn't just hearing that in his mana sense. He glanced to the side.
+
+Phlogis was humming along with each ingredient, almost subconsciously.
+
+"You hear it too?" Cale whispered.
+
+Phlogis jumped immediately, of course, in a startled clatter of tinkling glass that made Cale wince. Whoops. He probably should have remembered that Phlogis was probably not used to being spoken to while observing the class. Luckily, the instructor didn't seem too offended, just surprised.
+
+"You... hear it too?" he asked. And then, in a lower, more urgent whisper: "Do you hear the other song? The bad one. The one that's coming."
+
+Cale blinked. "I don't think I hear that one," he said carefully. "But... tell me more."

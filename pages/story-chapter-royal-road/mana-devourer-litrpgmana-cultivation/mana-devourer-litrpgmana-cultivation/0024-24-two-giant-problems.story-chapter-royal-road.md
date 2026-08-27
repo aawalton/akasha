@@ -1,0 +1,227 @@
+---
+id: f837c146-66e3-584d-bbce-63cca075a1db
+page-type-slug: story-chapter-royal-road
+title: "24. Two Giant Problems"
+slug: 0024-24-two-giant-problems
+partOf: mana-devourer-litrpgmana-cultivation
+position: 24
+ownLength: 3133
+unit: words
+publishedAt: 2024-07-14
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1717327/24-two-giant-problems"
+royalRoadId: "1717327"
+---
+
+Turns out the answer to which stat he invested in with two lumbering giants bouldering their way over to him was ‘nothing’, seeing as by the time he’d managed to dismiss the new notifications on his screen and hit the stat menu, he was already having to dodge new attacks.
+
+Thankfully, these two were actually easier to fight than the first one, mainly because for all of their blind, angry swinging, they occasionally bumped or smashed into one another, with even one missed attack from the giant to the left causing him to smash his stone pillar in half over the other giant’s leg.
+
+Markus picked his moments to attack, going in with the glaive and slicing at the two opponents whenever he could, attempting to cut them down to size. Unfortunately, he didn’t have the mana in his glaive to pull off another [Detonate] any time soon, and while he could fill it with more mana on the fly, he was low enough on Flame Mana right now that he wouldn’t be able to make his skill combust properly.
+
+So it was that he attempted to use [Triple Strike] instead, going in on the giant that’d just inadvertently smashed their own weapon in half and slicing at its legs with three identical slashes against the same point, each deepening the cut and providing a new benefit as Markus inflicted [Burn I], [Freeze II], and [Corrosion I] to the creature’s upper leg all at once.
+
+It attempted to grab him with a hand, flailing, screaming in its broken, unintelligible language, but Markus was too fast for it this time. His leg ached as he stuck the landing after jumping back, and the prospect of jumping or climbing up this creature in order to finish it, while sounding tempting, seemed out of his reach right now. He had the Agility to jump a fair distance, but not over ten feet high in the air, that was too much, even for Overcharge.
+
+Still, he couldn’t just hit these creatures’ legs indefinitely, and seeing as there were two of them, he could hardly get the time to drain or [Rend] them. They were sloppy, they were enraged, and they were taking a beating, but while the two of them seemed weaker and less suited to combat than the other giant had been, he’d eventually run out of stamina at this rate.
+
+How could he get higher? How could he get closer?
+
+One idea struck him. It was a total risk, but he knew there was a chance it might work. He’d never attempted anything like this before, but if he was going to learn and try things, it might as well be when he was all out of other options.
+
+Markus dodged yet another attack, backing up some more, and channelled the energy necessary for Manifest.
+
+Spirit Mana was one of the easiest things to grab, and he had an absolutely abundant portion of it right now, so the first step was a cinch. Getting it to do what he wanted, however? A touch more difficult.
+
+Markus growled as he attempted to work the mana towards his feet, panting with exertion as he continued to move around in an effort to dodge strikes and keep the other two on their toes.
+
+He needed to be careful when he did this. One misstep, and he could go tumbling to the ground and get immediately stomped on. He needed to make sure this worked properly before he went on the offensive with it.
+
+And before that… could he even summon one ounce of workable mana down there?
+
+He knew he’d be able to make what he needed with his hands, but he still couldn’t maintain focus on objects after he stopped touching them, and for this…
+
+“Lissss…”
+
+Markus blocked out the unnerving sound, pushing extremely hard to visualise what it was he needed. He attempted to imagine himself walking uphill, the feeling that entailed, the measure of space and distance between each step, the motion his body would make with each stride and the movements his mana might make to compensate.
+
+Ever had that feeling where you reached the end of the staircase and thought there was an extra step, and put your foot out and found nothing but air? That was exactly how Markus was trying to convince his brain not to feel as he attempted to force himself to see a path that wasn’t yet there, a path he could walk and travel across as if it were perfectly tangible already.
+
+And Markus Manifested his first stepping stone. His heart thumped as he placed a tentative foot upon it. Moments previous, even as his foot extended, there’d been nothing there but air.
+
+It was smooth and wobbly, and the surface was barely wide enough to hold his balance on, but the stepping stone didn’t falter until Markus began to think about it too hard, at which point it immediately ceased to be and Markus had to spread his arms to stop himself from falling forwards.
+
+Okay, shit. That was crazy. The second I tried to think about making another one the first one disappeared. That idea’s out.
+
+Markus stared at the two giants, and then once again at his own feet.
+
+So what if I…
+
+It was at this point that Markus did something arguably somewhat risky. He attempted to make a ramp.
+
+The ridges of staircases were gonna be impossible for him, he knew, and they were frankly unnecessary. Making multiple different stepping stones and maintaining focus on them was gonna be really fucking hard too.
+
+But one continual, diagonal ramp of his energy leading up to these massive things’ skulls?
+
+That he figured he could do.
+
+He pushed as much mana into his feet as he could, imagining the angle and the geometry he’d need in order to be able to get above them with the fifteen feet he had on the two monsters.
+
+He got it almost right. He had to stand still for a couple of seconds to get the ramp to materialise properly, and the longer he made it, the more intense holding it became, the more mana he had to pour into the spell in order to maintain it.
+
+Markus placed a single foot on the contraption, scared that it might break, but found that the small walkway, barely the width of his shoulders, was still holding true in spite of his weight being pressed on it.
+
+That said, the mana cost of maintaining the spell spiked DRAMATICALLY the moment he put both feet on. He attempted to climb the ramp, but he wasn’t making new ramp fast enough, and the more he attempted to stretch the contraption of his own mental designs, the more difficult the whole thing became to hold together in his mind.
+
+And then there were the bat things. They immediately took a renewed interest in Markus the second he started to leave the ground, flying over to inspect him, dive-bombing at him without more than a moment’s hesitation.
+
+Markus was forced to jump off to avoid the attack, but he’d managed to get a few feet in the air like that. It’d been intensely difficult, but it had worked, and if he could just do it one more time…
+
+He barely dodged the next attack; the swiping, grabbing hands of the left giant murdered the air that stood between them, crushing a version of himself that’d been an inch slower.
+
+Using his mana like that had slowed him down, that and all the fighting he’d already been doing. He felt a lot more drained that he expected, actually. Part of it was surely his persistent Mana Poisoning, but also, it seemed Manifest took way more out of him than he realised.
+
+It was fucking hard to make physical objects from pure mana, even for a little while, and Markus hadn’t considered it until now, but it could be that the moment he stood on the ramp, it was taking his weight into consideration for the continued extension of the spell, and if that was the case, then…
+
+He needed to make most of the ramp before he got on it. It was the only way he was gonna be able to finish it without the process becoming too intense for him.
+
+Which meant he needed a distraction… but what?
+
+Fire attracted those bat things, but he was all out of Flame Mana. Using Mana Control to generate more would still take a fair bit of time. Talking to these giants only seemed to enrage them further. He was running out of skills and out of options…
+
+Suddenly, Markus had a brainwave. A ridiculous one. But when you’re running out of conventional options, ridiculous thoughts are often the most likely to occur.
+
+With no time left and little else to go on, Markus said fuck it. No way this worked, right?
+
+Markus considered it for a moment. Turned around and stared at his target for a second.
+
+Honestly, there was a fair chance it might.
+
+He turned, screaming back at his traitorous, insane escort. “Hey!” he shouted at the little monster, whose ears immediately perked.
+
+“What?!” he screeched back, still holding the torch.
+
+“One of these guys was talking shit about your mother!”
+
+Markus waited. He hoped.
+
+“Hahaha! That’s great!” The imp cackled freely, unabashed. “That’s fuckin’ hilarious. I hate that bitch. What’d they say, huh? Was it good?”
+
+Oh shit. That wasn’t the response he’d been hoping for at all!
+
+Markus grit his teeth. Digging deep. There had to be a way he could salvage this. He gathered his energy, aware of how short a window he had, thinking of every terrible thing this monster could’ve supposedly said that might trigger the correct response.
+
+Time was dwindling. The walls were closing in.
+
+But Markus had his answer.
+
+“He called your mother a goblin.”
+
+Silence in response. Markus dug deeper. He had to.
+
+“Big ugly gobbo bitch.”
+
+“HE FUCKING WHAT?!”
+
+That did it. The crazed imp marched forwards immediately, brandishing his torch into the darkness as he stepped closer to his mysterious, mouthy foes.
+
+“WHO HAS THE FUCKING NERVE TO SAY THAT SHIT TO MY FA—AAAAHHH!”
+
+He immediately froze upon seeing his opponents up close. He narrowly dodged the crushing fist of a giant as he backed up, retreating in the opposite direction.
+
+“MY MISTAKE! APOLOGIES!”
+
+He dodged another strike, attempting to put more distance between himself and the distracted giants, but it was all the time that Markus needed.
+
+He put all of his focus into building his ramp, stopping and resetting twice until he had the right angle and pushing forwards in length and height as quickly as he possibly could, the strain only multiplying the further he went. By the time he’d gotten the ramp just over ten feet into the air, the imp was already far enough shot of the battle that the giants turned their attentions back to him.
+
+He needed to go now. They were coming right for him, and less than thirty feet away. This was the last chance he was gonna have to try this shit.
+
+Markus started running up his makeshift, Manifested ramp as quickly as he could without falling, the surface still slippery, the momentum in his feet only barely managing to propel him forwards fast enough to avoid falling, as all the while he focussed all of his energy on increasing the distance of the walkway in front of him, straining so hard that his mind began to ache, holding his glaive perfectly level in both hands to keep his balance…
+
+After a time, he was halfway up the ramp and he had to start letting go of its foundations. It was far too much surface area to keep extending without stretching himself beyond his feasible limits, and the moment that he let go of what connected it to the ground, the feeling of weight against his mind only doubled as his mana alone kept him from faceplanting to the ground many feet below.
+
+He was most of the way there now. He needed to start thinking about striking. He repositioned his glaive within his hands, angling it so that when he landed upon the giant’s shoulders he’d be able to stab without delay, but the moment he began to move the glaive from its centred position, the moment he began to think about anything but generating more ramp before him…
+
+His spell faltered, his foot connected with nothing, and he slipped from twenty feet in the air, falling directly forwards with all the momentum he’d been built up, careening straight through the air in the direction of the leftmost giant, screaming all the while.
+
+He plunged his blade directly into the giant’s chest, falling with it about three feet, carving a giant wound into the enemy’s torso until the weapon caught against bone and Markus found himself locked in place, body twitching as he attempted to bring forth the strength necessary to pull himself up with the handle, barely managing to hold on, suspended with only the metal grips as purchase.
+
+Grimacing, Markus stuck his hand into the wide gash he’d made, beginning to drain the giant.
+
+“Mara! MARA! MARYYY!”
+
+It freaked the fuck out, flailing wildly and inadvertantly striking its comrade as Markus held on for dear life, taking every ounce of Life and Blood Mana he could from the creature, knowing it was the best thing he could use to sustain himself, to put himself back in a position of power.
+
+Once he reached Overcharge again, he began to hoist himself further up, began to push further into the wound, activating [Rend] and beginning to tear flesh directly from the enemy’s chest, causing blood to pool all around him and surround him in a translucent, sanguine ball of viscera.
+
+He continued to rip and pull from his opponent, feeding the dark clutches that infested his mind as he cast this ability. He pursued a primal desire that was only satiated by the mauling of prey, losing his inhibitions and revelling in the sensation of pure, unfiltered carnage.
+
+It was a feeling that passed the moment he’d finished his attack, one that seemed to be exemplified by his [Feral Soul]. Blood flowed freely into his wounds, patching and repairing his body even as the giant hit the ground and stopped attempting to resist.
+
+Then there was the remainder, still stunned from the blow it’d suffered from the other giant, sat on the cold ground, attempting to right its balance and pull itself back to standing.
+
+Markus felt the Blood Mana swirling and pooling around him. He could feel a level of control around the blood he’d excised with [Rend] which he didn’t usually have otherwise. This mana was far easier to manipulate outside of his body. It moved and flowed freely, and when he wanted to reposition or utilise it, it was as simple as thought.
+
+To that effect, Markus shot the blood he’d ripped from one giant directly into the eyes of the other, making the last remaining threat crash back down to the floor as it wiped at its own face in an effort to halt the ceaseless stream.
+
+“LISSOOO—”
+
+Markus climbed upon the monster’s front end as it continually scrubbed at itself in a vain attempt to see clearly, but it was far too late. Markus carved the monster with ease, slicing and stabbing repeatedly in an attempt to make the great, powerful creature inert, the relative silence of the cave deafening as the monster’s gargled screams finally faded into oblivion.
+
+He could still hear the roars, snarls, and clicks of other disparate threats, but compared to what he’d just witnessed, it may as well have been peaceful.
+
+Markus partially drained and fully devoured all three giants, making sure they were fully dead first. He could scarcely believe he’d managed to kill these things, or that he was still standing for that matter.
+
+Legs tired, body aching, Markus marched over to where the imp sat and plonked himself down on the floor.
+
+“Done already?”
+
+“No.”
+
+“Well how long are we going to be down here?!”
+
+Markus pulled up his status screen, ignoring the imp entirely.
+
+Level 26. He’d gone up 4 times since this morning. One was from Meditating, so that was roughly a level per giant devoured.
+
+[Name: Markus Brown]
+
+[Class: Otherworlder (Earth) (Tier: Novice 26)]
+
+[Health: 890/1070]
+
+[Mana: 5804/4090]
+
+[Strength: 80 (+30)]
+
+[Agility: 80 (+30)]
+
+[Arcana: 20]
+
+[Constitution: 130 (+30)]
+
+[Spirit: 100]
+
+[???: 0]
+
+Still a novice. He wondered how long it’d be until that tiered up. He needed to ask about classes at some point, too.
+
+Fuck. Markus scratched his head, rolling his shoulders as he looked his stat points over. This was the first time since getting here that he truly felt in the driver’s seat concerning one of his actions, that he didn’t just feel like he was reacting to all the bullshit around him.
+
+Felt good. Felt nice to have his efforts beginning to pay off.
+
+And he could do this for a while, assuming he didn’t find some way to nastily injure himself. He could keep this up until he was tired, sustaining himself off the mana of whatever creatures he encountered and fighting all fucking night if he had to.
+
+And he did have to. Four levels wasn’t nearly enough. He needed more if he wanted to get through this hellhole alive and punish the sadistic freak that had put him here, a lot more.
+
+42 free points and 50 regular, including leftovers from last time…
+
+50 went straight into Spirit. No fucks given. His mana capacity increased by almost 1500 on the spot. In fact, Markus felt the increase in his energy as soon as he locked that choice in, and the way it wracked his body was fucking crazy.
+
+Beyond that, it gave him energy. Higher Spirit meant less need for food and sleep, right? Markus could feel that signature alertness creeping into his mind before he’d even registered why. His determination to fight and grind through this dungeon had straight up doubled.
+
+Beyond his levels laid skills. He held his free points for now, ready to dump them the instant something called for it. Moreover, the skill tree held multiple new discoveries for him, all of them things he’d never had to deal with or figure out even once until now.
+
+Namely, he’d finally reached level 10 on two different skills and unlocked two Masteries at once, as well as unlocking a Path Evolution for Regeneration, which had just hit level 25.
+
+There were… a lot of options in front of him, and that was without even considering the Path Evolution. Time to see what the fuck Masteries did.

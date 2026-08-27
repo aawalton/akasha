@@ -1,0 +1,225 @@
+---
+id: 14c9949a-cdca-5aa7-9d92-4b2a55a1dd10
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22 – Dwarven Guidance – Pt3"
+slug: 0022-chapter-22-dwarven-guidance-pt3
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 22
+ownLength: 2167
+unit: words
+publishedAt: 2024-12-03
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1937733/chapter-22-dwarven-guidance-pt3"
+royalRoadId: "1937733"
+---
+
+Kindra felt her mana drain away, and she let it, willing it to Aika. The smell of rock, metal, and smoke surrounded her. She smashed a lump of iron ore, pulverizing it. “Did that work?”
+
+“Yes, thanks!” Aika replied.
+
+“You’re welcome. Be safe over there.” Gathering and dumping the last of the powder in the barrel, Kindra walked over to the bloomery. Smoke billowed out of the chimney, and the coals at the bottom glowed.
+
+“Spell me a minute,” Dain said, gesturing to the bellows sitting next to it.
+
+Kindra walked over and pumped them up and down. The flames spread further, and smoke billowed into the air.
+
+Dain watched and nodded approvingly. “Good, long and slow for now.” Grabbing powdered ore, limestone, and a little water, he mixed them into a muddy mess. He filled a small bucket with the mix and a larger one with charcoal.
+
+Kindra watched him move to the bloomery. Stepping up on a rock, he dumped in the charcoal and then the ore mix. Then he repeated it, walking back to make more of the mixture.
+
+I guess this is how it’s done. She pumped the bellows, watching the hide push in and out as if it were breathing. I need to get electricity here… How am I going to do that? There’s water, but probably not enough. She looked at the sun. That’s an option, but I’d need to make solar panels, which aren’t anywhere close to being possible. She watched Dain create another layer in the bloomery. “Do you have coal? Like charcoal, but mined?”
+
+“Likely, but I don’t know where.” Dain turned. “There are also magical materials that can be used.”
+
+Oh. That’s cool. Kindra nodded and looked at the limestone. “Where?”
+
+Dain nodded and gestured. “To the south.” He smiled. “Do you know why we add it?”
+
+Kindra paused. It shouldn’t need it. Not for this. She shook her head.
+
+He nodded. “The charcoal from these trees burns hotter. It helps speed it along.” Turning, he gathered the materials for another batch.
+
+Kindra continued pumping, blowing air through the bloomery. Leaning forward, she studied the charcoal. It glowed and some mana inside swirled around. Is that what makes it burn hotter? She watched as some of the mana burst from the charcoal, parts of it streaming into them.
+
+Dain piled it up to the top, periodically knocking things loose.
+
+Smoke and steam billowed out of it. Kindra pumped harder and heard footsteps. Continuing to pump, she turned to look. A small group of dwarves walked up.
+
+“Hello, Dain,” a dwarf with wild red hair said, walking up.
+
+Dain smiled and walked over. “Hello, Brunor.”
+
+“How’s our young artificer coming?” Brunor looked over. “And how did she end up with hair like that?”
+
+Dain shrugged. “I don’t know, and she’s learning. We may need to go hunting to push her along.”
+
+“That young?” Brunor asked, raising a brow and studying her. Kindra waved.
+
+“Yes, she’s that young.” Dain walked over and patted her on the back. “Any news?”
+
+“Not since the destruction of Granheim.” Brunor frowned and shook his head. “I heard the rebellion was squashed. A necromancer came to visit, taking several undead with them.”
+
+Dain nodded. “Likely.”
+
+Brunor stepped closer. “Is it true? Did they die?”
+
+“Likely.” Brunor patted Kindra once more and moved closer. “Have you heard anything regarding the harvest?” he asked in a low whisper.
+
+Kindra turned, a frown spreading on her face. Why’s he whispering? And what’s the harvest? She pumped the bellows and failed to overhear the response. The two whispered, and she scowled at the bloomery and the bellows.
+
+Noisy things. She pumped and looked at the plume of smoke, following it into the sky and spotting an undead bird. It circled overhead, its body glowing with blue magic. Sighting it in, Kindra aimed with her finger and willed the runes into her mind. Feeding mana through her finger, she released it. A ribbon of magic shot out, zipping across the sky and hitting the bird. The magic inside the bird snuffed out, and it arced downward, slamming into a roof with a loud thud.
+
+Grabbing the bellows and pumping once more, Kindra watched a small stream of mana flow into her. That worked. She glanced back at the whispering adults. What is the harvest, and why are they whispering about it? She frowned. “Aika. What do you know about this planet? Can you get Gleon to tell you about the necromancers or the harvest?”
+
+“I learned a lot. We’re in a ruined city, looking for clues on their ancient magitech. Apparently, the necromancers run the place. They buried the city, and Gleon thinks this will let us fight back.” Aika paused. “I told him we’d make something better. Can we?”
+
+“We’ll work on it.” Kindra paused. “What are the ruins like?”
+
+“It’s all buried. It’s sad. He said there was a great war forever ago, and they lost.”
+
+“So, they lost some war to these necromancers, who now control the place. Now they want to fight back?”
+
+“Yes. Hold on.”
+
+Kindra pumped, trying to overhear the group and studying the bellows. We need a pump. Her thoughts drifted. The colony handbook was all about getting tech up using fabricators and refineries using solar power. Those seemed a long way off. Can I make them with magic? That might let me get past this.
+
+She frowned and looked at the glowing coals. “Aika?”
+
+“I think they are from other planets. He mentions something like planets or realms or something.”
+
+“Makes sense. I swear I saw some of these runes before that thing pulled me from space.” Images from the ship flashed into her mind. The voice rippled through her, sending a shiver down her spine. Aww, fuck. That thing was one of them.
+
+Swallowing, she focused on the glowing metal. I need to gear up and go level tonight.
+
+Dain walked over and prodded the bloomery’s insides, clearing the air intake. He turned and looked at Kindra. “Sorry.”
+
+“What’s the harvest?” Kindra asked, her arms moving up and down.
+
+Dain walked over and took a turn at the bellows. “It’s nothing.”
+
+“Tell me. I’m not a child,” Kindra said, looking down at her body. “Even if I look it.”
+
+Chuckling, Dain shook his head. “You are, dearie. How old are you? Seven? Eight?”
+
+“I’m…” Kindra paused. I don’t have an equivalent measure of time. Ugh. She frowned and shrugged. “I’m not a kid.”
+
+“You’re young.” Dain smiled. “You shouldn’t worry over such things.”
+
+Kindra scowled at him. Harvest… Realization slammed into her, and her mouth dropped open. I’m not letting some necromancer murder the strong dwarves. I need them. Anger blazed across her face, and she stared at him, shaking her head.
+
+Dain grimaced. “You figured it out.”
+
+“Yes. When does that happen?” Kindra asked, tapping her fingers against her side. I need a better gun.
+
+“In a month,” Dain whispered. “It happens three times a year.”
+
+“Fuck that.” Kindra reached into her pocket and pulled out the piece of iron. She rubbed it in her hands and burned mana on Transmutation. The metal didn’t appear to change at all.
+
+Smiling, she placed it on the shovel and passed it over the ash and slag. Anything magnetic snapped upward, hitting the bottom of the shovel with a soft clang.
+
+Grabbing a bucket, she wiped the material into it and repeated the process, walking through the area and sweeping for anything magnetic.
+
+Dain watched and nodded in approval. “Where’d you get a lodestone?”
+
+Kindra turned and gestured, ensuring she understood the word. “Made it. Transmutation.”
+
+Dain paused, confusion briefly spreading across his face. He looked at her.
+
+“I’m not a child.” Kindra resumed her sweeping, gathering a bucket of scrap. I’ll need to visit a tree. Standing, she gestured. “Firewood?”
+
+Dain’s brow raised. “What are you doing and how?”
+
+“Making things. I upgraded Transmutation.” Kindra turned to the bucket. Time to get steel. She picked it up, burned mana, and dumped the smoldering mess on the ground. Steel flowed out of the mess, forming a small ingot.
+
+Waiting for it to cool, Kindra took the magnet and resumed her search, gathering pieces that had been missed.
+
+Dain watched. “How did you get that upgrade? What is it?”
+
+Okay. This will be hard. Kindra started gesturing. “What do you call the parts inside this?” She gestured at the ground.
+
+“Dirt?”
+
+“Smaller.”
+
+Dain shook his head. “Smaller?”
+
+Kindra nodded. “Smaller.” She moved her fingers together. “Very small.” Grabbing a handful of dirt, she began gesturing. “Inside it are thousands of pieces. Inside those are thousands of smaller pieces. And inside those are small pieces, called atoms.” She grinned. “They make everything.”
+
+“Atoms?”
+
+Kindra nodded. “And inside atoms are smaller things.” She reached down and drew a hydrogen atom. Next to it, she drew a helium atom. Gesturing at her steel, she reached down and drew two more, iron and carbon. “Inside. My upgrade lets me change the inside.”
+
+Dain studied them and studied her. “How do you know that?”
+
+“I’m from another world. Remember?” Kindra replied, a smile spreading on her face. She wiped the drawings away and poked into the bloomery, ensuring the air was blowing through it. I’ll need to make a blast furnace at some point.
+
+Dain nodded and pumped the billows. “And you remember it?”
+
+“Yes. I just don’t remember anything after something pulled me here.” Kindra listened to the sound of the bellows. And I need to make a fan. That’s brutally inefficient. She walked over to the bar of steel. Enough for a few dozen bullets. It’ll work. She willed her mana into view.
+
+[Your mana increased: 1130 → 1148.] ‎ [Your actions have caused your mana to increase: 1148 → 1160.]
+
+Should I hit level seven? She considered it.
+
+“Kindra?” Dain asked, looking at her.
+
+“Sorry. What?” Kindra asked, turning toward him and smiling softly.
+
+Dain smiled and gestured at the billows. “I’ll head back to the mine. Can you take over the bellows?”
+
+Kindra nodded and walked over to him. “How many weapons do we owe?”
+
+“We need to deliver eight swords at the end of the week.”
+
+“That many?” Kindra asked, biting at her lip.
+
+“Yes.” Dain patted her on the shoulder.
+
+I need to speed this up. She looked at the bloomery. How much mana would it take to make the swords straight from the ore?
+
+Dain looked at her, concern spreading across his face. “What?”
+
+“How much mana does it take—”
+
+“Kindra, it’s important to do this by hand.”
+
+Kindra sighed loudly. “Why?”
+
+“So you get better skills and so that you can make magical weapons in the future.”
+
+“But we could use magic for these?”
+
+Dain patted her on the back. “You could, but this is important for your growth.” He leaned closer. “And don’t let others know you are trying to push to get stronger. It will hurt you.”
+
+“Because of the harvest?” Kindra asked.
+
+“Yes. No one wants to get stronger here. Well, no one except rebels.”
+
+Kindra leaned closer. “Count me with them,” she whispered.
+
+“We already do,” Dain whispered back. “But keep quiet and practice. It will help your class.” He patted her back and grabbed the cart, heading for the mine.
+
+Kindra nodded and turned. A group of young dwarves walked up. They looked at her and whispered back and forth. Disdain and disgust flitted across their faces as they quickened their pace.
+
+I need to dye my hair. Kindra plastered a fake smile on her face and waved.
+
+The group ignored it, walking swiftly away.
+
+Turning toward the bloomery, Kindra grabbed a stick and shoved it into the air hole before resuming her pumping. Glowing metal blazed. Heat wafted, and she studied it. How does mana factor into this? Can you infuse the metal with it? — Yo, system? How’s the crafting work in this game?
+
+[Not how this works, Kindra.]
+
+Says you. Kindra pumped it and looked at the message. “Let’s look at the tickets.”
+
+[Ticket #1 - What the hell is this? - Yes, I want it escalated. - Get rid of it! Tell them that.]
+
+Ugh. Customer service. Kindra rolled her eyes. Void it, system.
+
+[Ticket voided.]
+
+[Ticket #2 - Why is this locked? I want a class now! - Escalate it. I’m six!]
+
+Kindra groaned. Void it, and no more. She turned her focus to the bloomery. No wonder that person made an AI. She sighed and pumped the bellows, boredom slowly seeping in.
+
+The sound of scuffing feet pulled her attention. Turning, Kindra looked up and then down the nearby road, spotting some undead canine. The flesh had fallen from its ribs, revealing the glowing skeleton beneath the ragged, decaying black fur. It walked toward her and sniffed. The smell of rotting flesh lingered in the air, and its eyes locked onto her. Some spark of recognition flared in them. Its lips curled back, and it lunged forward.
+
+Aw. Shit!

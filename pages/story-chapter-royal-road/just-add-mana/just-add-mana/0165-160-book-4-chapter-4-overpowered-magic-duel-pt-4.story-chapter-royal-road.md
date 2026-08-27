@@ -1,0 +1,197 @@
+---
+id: 1b5e058c-2ace-5b2f-879a-491773909aea
+page-type-slug: story-chapter-royal-road
+title: "160 — Book 4, Chapter 4 — Overpowered Magic Duel, Pt 4"
+slug: 0165-160-book-4-chapter-4-overpowered-magic-duel-pt-4
+partOf: just-add-mana
+position: 165
+ownLength: 3128
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3684807/160-book-4-chapter-4-overpowered-magic-duel-pt"
+royalRoadId: "3684807"
+---
+
+Purén did not quite know what he expected from this duel between Astiviya and Cale Cadwell Cobbs, though he had known it would not turn out as his beloved believed. Just as her domain allowed her to sense conflict and war, his own allowed him to sense the paths that would lead to understanding and peace.
+
+It was a strange thing that this duel would lead to that, but he trusted his divine instincts. That was the reason he had encouraged this even before Astiviya had been summoned into the Brightscale Divine Studies class. He would admit, if pressed, that doing so made him feel rather dirty—it felt very much like he was manipulating her, even knowing that this was what she had asked of him.
+
+But that conversation had been one of the last truly meaningful ones they'd had, without all the many veils and barriers that lay between them now. He remembered it well.
+
+"Find a way," Astiviya said. "If I ascend, and I find myself subject to the whims of my domain, find a way to loosen those chains."
+
+"Such a thing is not so easily done," Purén said quietly. He reached out, brushing a thumb over her cheek, and felt her lean into his touch. "You are certain you wish to do this? I cannot..."
+
+He hesitated. And wasn't that hesitation strange, in and of itself? He had taken many a lover amongst the realmborn peoples that roamed Utelia, and this conversation was one that he had had time and time again. He could not remember the last time it had given him any cause to hesitate—after all, Astiviya was far from the first mortal lover to offer to stay by his side like this.
+
+Yet there was something about the look in her eyes, something about his knowledge of her circumstances...
+
+Perhaps the difference with Astiviya was that she had already made the choice. He could see the certainty in her eyes.
+
+"It is a great sacrifice you wish to make for me," Purén said eventually, a touch of regret in his words. "And the sensibilities of your people are quite different from those of us who are born divine. You know this, do you not?"
+
+Astiviya laughed softly. "I do. You have asked me three times already."
+
+"Only because I must be certain," Purén said with a chuckle of his own. Her conviction surprised him still. Of the many lovers that considered this step, Astiviya was the first not to balk at his words, at his halting explanations.
+
+Peace, after all, had no true form or gender. The shape Purén wore with her was simply the shape he had been wearing when they first met, when she had been a simple soldier fighting under the orders of her commander. She took comfort in that familiarity, he knew, and he did not mind, but to ascend to be alongside him would be to strip that illusion away.
+
+He would not always be this small, slight man. He took whatever shape best represented peace or whatever shape was most likely to achieve it, for what was peace but an expression of understanding? And what was understanding but a flexibility of the self? Gender and appearance were but fluid things to him.
+
+Many of his lovers had known their time with him would be temporary, as a result. They loved him, but could not love him in all his forms. Purén held nothing against them for it—when the time came, they parted ways on good terms, in the knowledge that what they once shared would be remembered fondly regardless.
+
+Astiviya had been one of the few for whom this did not matter.
+
+Yet this was not the only obstacle, and in truth it was not the one Purén had thought would make her hesitate—her own identity was more fluid than many of the realmborn, and in that sense ascension would only benefit her. What he had thought might make her hesitate was that peace could not be entirely beholden to any one soul.
+
+It was a goal to be attained. In many cases, it was more than even that, for peace between kingdoms was but a singular expression of the aspect. It was a feeling within, sought after by mortals and immortals alike. It was the tranquility that could be found in any moment, if one only thought to look.
+
+And so it was an expression of his domain that he was always there for the gentle soul that needed comfort, the broken heart that needed mending, and the sharp but tense mind that needed relief. On occasion, when it was truly needed and desired, the guidance he gave was intimate in nature. Peace, after all, was often symbolized in marriage and connection.
+
+Rather famously, he had once ended a war by visiting two generals in their dreams, each time in the form of the other. Peace could not be built on a lie, so in both cases they had known who he truly was, but neither had been able to help spilling their hearts out to him, there in the safety of their dreams.
+
+It was no surprise that many lovers he had taken balked at this—at the knowledge that even if he took them as an anchor and a home, there were others who would need him. Again, Purén did not blame them for it, and again they parted amicably. They had known, in the end, that this would happen.
+
+Once more, Astiviya understood, and it did not deter her in the slightest. What did it matter that his form might change, that his time might be spent with others, as long as he returned to her? She liked the idea that he would not always be the same. Her preferences varied as much and as frequently as Purén's own identity did.
+
+Nor did she wish to keep him to herself. There was a joy to sharing him, she claimed, her eyes gleaming with mischief, but more than just that there was a happiness she felt when she saw his pleasure, no matter its form. When he delighted in a peace newly found, she shared in that delight. She loved his subjects as much as he did, and so his victories were victories shared.
+
+Others had considered ascension despite this, to stay by his side, and Purén had always talked them out of it. There was too much risk involved, and he loved them too greatly to allow it. He did not love Astiviya any less than he did those others, but...
+
+He saw in her that she meant what she said. The others would have tolerated and accepted his differences, perhaps, but they would not find joy in it, and Purén loved them too greatly to let them spend an eternity merely tolerating his differences.
+
+Astiviya, on the other hand, would find true joy in the ways of the divine. In her, he saw a future in which he would have an anchor he could always return to.
+
+Perhaps that was why he had not insisted as much as he ordinarily would have. Perhaps that was why he knew he would allow this, even though the risks were great.
+
+"I know you are worried, Purén," she told him, reaching down to brush her own fingers across his face. She cupped her hands around Purén's cheeks and brought him in for a kiss. "Just as I know you will find a way, should the worst come to pass. I am your devotee in all things."
+
+"As I am yours, in turn," Purén murmured, feeling a brightness swell in his heart. "I will bring you home, then, should this go awry. Only... it may take time. This has never been done before, and I will have my own duties in the meantime."
+
+A last, half-hearted effort to dissuade her, but as he expected, Astiviya did not flinch. "As long as it takes," she said.
+
+"So be it," Purén whispered.
+
+There were many ways for a mortal to ascend into divinity, each one difficult to achieve in their own right. What he had done then was the only option available to Astiviya at the time.
+
+A god could, if they so chose, call upon a follower to ascend to divinity and rule alongside them. It was one of the ways in which they could express their domain—the very height of a god's magic, and the only Divine Mandate available to every god, though unlike the others, it was a Mandate that could only be used once. He had to be certain.
+
+And as with all magics of this scale, it was something that came with a cost. That was the greatest reason for his hesitation.
+
+There was a delicate balance in the Great Realms that had to be maintained. The gods kept the realms they were bound to stable, but if they had the power to freely create other divine, they would quickly cause the realm to destabilize. Too much, and it might be possible for a divine war to break out.
+
+So when used to ascend a realmborn, the Mandate had a restriction: it could only be used to create a deity that was aligned against the god that invoked it.
+
+Purén and Astiviya, so many eons ago, had counted on their love for one another to overcome that barrier. And while that bet had worked, it had not worked enough.
+
+Astiviya remembered him and her love for him, and she could express that love within the divine domain. Yet outside of it she was bound nonetheless as a goddess of spite and war—as one who did all she could to build grudges and instill hate.
+
+Purén knew the dichotomy pained her. Between his duties, he did everything he could to alleviate it. He fought against her when needed, seeding peace and understanding amongst her followers, yet it was not until now that he saw a glimpse of what might unchain her from her domain.
+
+That glimpse, of course, came in the form of Cale Caswell Cobbs. And even he had not known how that man would manifest that hope, only that through him, there was a chance.
+
+It was only when Cale cast his second spell that Purén began to understand how that chance might come about. He saw the initial shape of the spell—a simple, basic [Summon Rock]. But as Cale's magic pushed into it and the Gift transformed it, the new shape it took...
+
+Inspirations were things given to mortal beings. To the realmborn, who were creatures of the realms, and whose magic could never exceed them without ascension. Truly powerful magic could rip apart the veil of magic for just a moment, giving those realmborn a glimpse of what ascension might entail. That was why Inspirations manifested so differently for different beings. Their paths would always be different.
+
+Inspirations were not, however, meant for the gods. Their magic was complete, and no glimpse of the Source could prove deep enough to grant them insight into the domain they already embodied.
+
+This was the theory.
+
+Purén realized, as the spell evolved, that the theory was wrong. The clash between Astiviya's Divine Mandate, [To Turn the Tides of War], and Cale's evolved [Summon Rock]... It opened a path that Purén had never seen before.
+
+A path not only to peace, but to true peace. An end to the endless battle of attrition between the divine and the aberrant.
+
+He could not lose this glimpse of insight. He would have to pour his whole being into chasing it, and even still, it had been so fleeting that he was not certain he would succeed. He knew only that he had to try.
+
+There was more he could do to ensure Astiviya's freedom, more ways he could nudge the events that followed to make sure she would not simply unleash her fury upon the poor students of Brightscale Academy, but Purén was going to have to trust that Cale had that well in hand.
+
+From what he had glimpsed of the man's soul in the brief moment of that spell's evolution, he was certain that he did.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Summon Rock] has evolved into [Sisyphean Task]!
+
+[Sisyphean Task, Level MAX] [Mandate, Active (Unique)] [1.0e50 Mana]
+
+Some tasks are destined to fail.
+
+The Named legend Sisyphus was once tasked to roll a boulder up a hill. At the peak of that hill, that boulder was cursed to always fall and roll back to the bottom, forcing him to repeat the process. It is an endless task that cannot be accomplished, no matter how hard he tries.
+
+The Sisyphean Task is a Mandate. It may be applied to any spell, and guarantees that the cast of that spell will fail in the moment it attempts to complete.
+
+As a Mandate, the Sisyphean Task may affect other Mandates.
+
+As a Mandate, the Sisyphean Task may not be reversed unless it is revoked. Revocation of the Mandate will take a total of seventeen days and sixteen hours.
+
+The thrumming sense of violation that accompanied Astiviya's spell died abruptly away, and her eyes narrowed in an expression of confusion and fury. "What have you done?" she hissed.
+
+She reached out, casting the spell again. Once more, her divinity flooded the battlefield, and Cale felt her power begin to take effect.
+
+Once more, in the moment it would have completed, it failed, and the tide of the battle turned back in his favor.
+
+"I banned your Mandate," Cale said. "This is a battle of magic, if you recall. A Mandate exceeds the limitations of that, don't you think?"
+
+"You—" Astiviya cut herself off, though her eyes bulged with anger. Which was probably fair. There was no such rule about Mandates, because they were technically a form of magic. Cale was just making the whole thing up. "Do you think you have won?"
+
+"Not yet," Cale said. "Even if I win this, I've got one more challenge to go, remember?"
+
+The reminder that she would soon get to physically beat him up seemed to calm Astiviya somewhat, and she let out a breath. "Fine," she said. "I do not know what trickery you performed, but it does not matter. You will fall before my magic."
+
+"Not if I lie down first," Cale said.
+
+Astiviya stared at him, utterly confused.
+
+"You know," he said. "Because I can't fall if I'm already lying down?"
+
+Korav's voice echoed through the arena. "Do you still explain your jokes? They are considerably less amusing when you feel compelled to do so."
+
+Cale grumbled under his breath. It wasn't his fault his enemies never got his sense of humor. Besides, he distinctly remembered Korav being one of his enemies at some point.
+
+Whatever. Now was the time to go on the offensive, anyway—there wasn't much point in continuing to let Astiviya dictate the terms of their battle, now that he'd seen some of what she was capable of. He was reasonably certain he could end this duel. The real challenge would be doing it and still casting all the spells he had prepared.
+
+He had a pretty good idea for how to start, though.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Burn] has evolved into [Primal Ignition]!
+
+[Primal Ignition, Level 1] [Twelfth Tier, Active (Unique)] [1.0e32 Mana]To [Burn] is to set matter aflame, but the Great Realms are composed of more than matter, [Primal Ignition] utilizes the caster's understanding of symbolic magic to set the underlying nature of the target alight. Its flames cannot be doused except by equivalent symbolic magic.
+
+Note that the flames created by this spell may enhance the target. Symbolic flame is not always destructive.
+
+The spell took effect, and roaring fire exploded across Astiviya's half of the arena. It was a strange sort of fire, too, its tongues a shade of gray that seemed to leech from the world around it. Even Cale, who had cast the spell and had his barriers in place, found that staring too long at his flames induced a strange, burning ache in his eyes.
+
+He was briefly glad that Korav had taken the initiative to get all of Astiviya's shades away from the battle. Who knew what this spell would have done to them?
+
+Astiviya roared in fury, instinct driving her to bat at her arms to extinguish the flames, though they had not yet eaten through her barriers. Cale thought he should probably have been more concerned about that last line in the spell description—it was clear from the rage in Astiviya's eyes that the barrier or not, the spell was having an effect. Divine mana swirled within her, ready to coalesce into another spell meant to smite him.
+
+Fortunately, Cale wasn't actually done just yet. This was the perfect spell for something he hadn't attempted in a while, and he was excited to try it out. Yet another one of the benefits of [Draconic Insight] was, after all, that it told him in advance which spells were most compatible with one another.
+
+And to his delight, [Minor Dragonfire] was singing to him.
+
+With his fire and draconic resonance ranks combined, it was one of the few spells he could cast at the third tier without risking an overload and a spell evolution, which was itself something he was excited about. This was the lowest tier of spell he had ever managed to cast, after all!
+
+But in this instance, he was much more intrigued by what would happen when he did this.
+
+At his call, dragonfire spilled out over the primal fire he had already ignited. The latter burned in shades of gray, but in all that gray, warm hues of light began to peek through. Dragonfire in its natural form could be almost any color, and it made for quite the sight as all the hues of the rainbow began burning through the gray.
+
+[Primal Ignition] should have snuffed out any hint of dragonfire. It was a twelfth-tier spell, and a third-tier magic had no business taking root amongst its flames.
+
+Yet when the two differing magics met, rather than one overwhelming the other, they began to intertwine.
+
+Spell combination attempt detected. Evaluating request...
+
+Priority mage detected. Allocating resources...
+
+Like it had the last time he tried this, a storm began to crackle over the ocean. Thankfully, this time he did not consume so much of the Gift's processing power that he disabled the whole thing for everyone else. That would probably be bad, in the middle of an event like this.
+
+But it worked, nonetheless.
+
+Relevant resonance detected: draconic resonance, second rank. Fire resonance, fifth rank.
+
+Now combining [Primal Ignition] with [Minor Dragonfire].

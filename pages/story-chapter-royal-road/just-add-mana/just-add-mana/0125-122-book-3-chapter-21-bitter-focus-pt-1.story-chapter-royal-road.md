@@ -1,0 +1,195 @@
+---
+id: ebeb260c-84b6-5c13-8678-a31e1ae17857
+page-type-slug: story-chapter-royal-road
+title: "122 — Book 3, Chapter 21 — Bitter Focus, Pt 1"
+slug: 0125-122-book-3-chapter-21-bitter-focus-pt-1
+partOf: just-add-mana
+position: 125
+ownLength: 2986
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3272575/122-book-3-chapter-21-bitter-focus-pt-1"
+royalRoadId: "3272575"
+---
+
+Professor Delia seemed rather disgruntled when Cale and the others returned to the Haelforge Academy.
+
+Which was probably fair, considering Cale had only been gone for about an hour and was now returning with what one of the strangest groups of mages she'd ever had to deal with. Or so he assumed, anyway, based on her expression. It could very well just have been how quickly he returned.
+
+"When you said you would be back soon, I didn't think you meant within the hour." Professor Delia rubbed her temples. "I was looking forward to a nap."
+
+"Well, we'll be out of your metaphorical hair as soon as we get into the dungeon," Cale said brightly. "Better than arriving in the middle of your nap, no?"
+
+"Barely," the gargoyle professor muttered with a sigh. She eyed the group critically for a moment. "There are two more people here than you said you'd be bringing... Ah. Graystalk."
+
+"Delia," Graystalk returned, his tone neutral. "A pleasure to see you again."
+
+"If only I could say the same," Delia said. "What are you doing here, exactly?"
+
+"Cale here has convinced me that there may be something of interest within this dungeon of yours." Graystalk raised a single brow in the condescending way that only elves could, though the glint of fond amusement in his eyes betrayed him. "I thought I might take the opportunity to see if Haelforge truly has something of value to offer. And if not, then my students will at least benefit from my teachings whilst they delve."
+
+"You intend to lecture them during a delve?" Delia stared at him. "Has Cale infected all of Brightscale with his nonsense?"
+
+"I'd say I've infected more of Haelforge, comparatively," Cale said thoughtfully. "Technically I've spent more time in Brightscale, but I did share my mana with your students, and from what I hear you've had students begging your faculty for a repeat of that since. Mostly or especially from jealous upperclassmen."
+
+"...You were not meant to hear about that." Delia muttered something to herself, then stiffened and shot an exasperated look back toward the academy's windows, where more than a few of her students had their faces pressed up against their windows. Cale waved up at them and heard several loud squeals—including one exceptionally manly one—before Delia abruptly snapped her fingers and turned all the windows opaque.
+
+"Trouble with the students, Delia?" Graystalk asked pleasantly. His Haelforge counterpart just groaned.
+
+"Let's just get you all into the dungeon before you cause me any more trouble," she grumbled, turning to lead the way. "You're lucky the dark lord has stopped trying to infiltrate the academy, or we wouldn't even consider allowing you to run the dungeon now. Who's the new apprentice?"
+
+"Him?" Cale turned to glance at their still-silent tagalong, a burly, enormous vinewalker that towered over even Leo. "That's not my apprentice. That's Thorn."
+
+There was a short silence as Delia waited for him to elaborate, and when Cale said nothing, she sighed. "And who is this... Thorn?"
+
+"He's one of Brightscale's wyldfires," Cale explained. "He's just here to evaluate how we do in the dungeon to see if we'd be any good as a support team in the tournament."
+
+Thorn grunted. "Can't say I'm impressed, so far," he said, crossing his arms over his chest.
+
+"We haven't done anything so far," Cale pointed out. "We aren't even in the dungeon yet."
+
+"Hm." Thorn seemed unconvinced. "We'll see."
+
+Cale just shrugged, unconcerned, though his apprentices all shot Thorn varyingly nervous looks. That much was to be expected—he was the only vinewalker at Brightscale Academy, as far as Cale knew, and he was a remarkably intimidating example of one.
+
+A vinewalker was a sort of spirit that animated and possessed a collection of plants, most often vines, and bound them together into humanoid form. Vinewalkers were a reclusive species by nature, and even in all his time in the Realms Cale hadn't encountered many examples of them. The few times he had, they were a quiet, peace-loving people, and they wove small forms that blended well with their forests.
+
+Thorn broke every one of those stereotypes, primarily by being huge, muscular, and covered in thorns. Cale wouldn't have been surprised if he'd been told the vinewalker regularly lifted trees as a workout. The thorns were distinctly sharp and unfriendly, like he was wearing them specifically to warn people off of interacting with him.
+
+Presumably, they were also the reason for his name, though Cale felt like there had to be more of a story to it. If there was, he couldn't tell—Thorn had refused to elaborate, and, in fact, had largely refused to communicate outside of a few well-timed grunts and the muttering of his name.
+
+He had volunteered to come along and assess them, though, even with the last-minute notice. Cale and his apprentices were still divided on whether it was because he was a good guy deep inside or because he wanted to find some reason to fail them.
+
+"Here we are." Professor Delia waved tiredly at the entrance to the Bitter Path. It was an enormous iron trapdoor set into the floor of the Haelforge Library, engraved with a number of arcane sigils that looked unfamiliar to Cale. "I can't give you any advice. The dungeon will adjust itself if I do. Just remember that you shouldn't be able to die in this dungeon, so don't panic if one of your party members gets kicked out."
+
+"Didn't, uh," Leo said. He glanced at Cale, who shook his head.
+
+"Aberrations," he said. "The rules don't apply the same."
+
+"Oh." Leo frowned. "Okay, I'm starting to see why you helped that worm thing."
+
+They wasted no more time and began their final preparations for getting into the dungeon. Professor Graystalk cast a number of basic protective enchantments on each of them to shield them against various environmental hazards and potential mind magics; Syphus transformed its arm into its now-signature spell cannon; Leo took the lead, as he usually did. Cale could sense the support spells Flia and Damien cast on themselves to improve their perceptions, just in case the dungeon had any traps.
+
+He grinned to himself. It had only been a month, and dungeon delving was already something like second nature to them. Thorn didn't seem all that impressed, but he didn't seem to be able to find anything to criticize, either. He just grunted to himself like he was displeased and kept leaning back with his arms crossed.
+
+Then he turned to eye Cale. "You're not preparing," he said, eyeing him with disapproval.
+
+"Don't need to," Cale said with a cheerful shrug. "You'll get it once we're in there."
+
+The vinewalker stared at him, skepticism written plain into his face. "Sure," he said, stalking over to the door like he needed to get some distance.
+
+Flia watched him for a moment, frowning, then turned to Cale. "Do you know what his problem is?"
+
+"No idea," Cale said lightly. "He might just be having a bad day. I'm not too worried about it. If he's a good wyldfire, then he'll see our worth once we get going in the dungeon."
+
+"And if he's not?" Flia looked worried more than anything.
+
+"Then we'll have another chance to prove ourselves next week," Cale said. "The goddess of war challenged me to a duel, remember?"
+
+Flia blinked. "You know," she said. "I can quite honestly say that I forgot, somehow. Which is worrying for an entirely different reason."
+
+"You'll get used to it," Cale said cheerfully.
+
+"That's the part I'm worried about, Cale."
+
+"It'll be fine!" Cale paused, glancing at Thorn, who was now glaring at them both. The vinewalker could definitely hear them, now that he thought about it. "Probably," he added.
+
+Flia just sighed. "Let's just hope this dungeon isn't as bad as the Haelforge professors claim they are," she muttered, heading off toward the trapdoor.
+
+Professor Delia wasted no more time once she saw they were ready. She opened it for them, her hands shining with some sort of magical key—presumably a temporary enchantment they'd placed over the dungeon to avoid students wandering in—and it yawned open, revealing a pitch-black darkness within.
+
+That was a standard defensive measure for dungeons. They obscured their entrances so their delvers wouldn't know what they were stepping into. It was an easy way to throw even experienced delvers off-balance.
+
+Still, Cale and his team were used to it by now, and one by one they stepped in.
+
+The first thing Cale registered was that it was cold.
+
+He drew his barrier closer to his skin, instinctively pumping more mana into it and altering it to retain more heat. It didn't help as much as he would've liked—he shivered anyway, his breath coming out as fog. Annoying, but not atypical for a dungeon. They were all about imposing specific experiences or challenges. If a dungeon wanted its delvers to be cold, they would be, and no amount of heating spells would fix it.
+
+Around him, everything was eerily silent. Cale was almost worried the dungeon had separated them, but a quick glance revealed everyone was present and accounted for, though they all looked about equally uncomfortable. Something about the environment sucked away all the ambient sound, though, explained the unsettling silence. The sound of every footstep and breath was stolen away as soon as it was made.
+
+"Well," Cale said brightly. "This is creepy."
+
+Thankfully, the dungeon didn't silence his words, though his voice sounded a little strange without its expected accompanying echo. They were, it was important to note, also in some sort of dimly-lit basement, which did nothing to help the oppressive atmosphere that surrounded them.
+
+"Indeed," Professor Graystalk said, his expression impassive. "I believe I will allow us to acclimate for a moment and for you to identify our goal before I begin my lecture. I will provide minimal assistance, of course, so that your examiner can accurately assess your capabilities."
+
+Thorn grunted, casting an annoyed look at the professor. "You already helped them."
+
+"Standard protective spells," Professor Graystalk said, inclining his head to acknowledge the point. "Nothing they would not acquire with a standard adventurer's kit worth of potions. I see little point in making our students spend their valuable resources on a test."
+
+"Hm." Thorn grunted again, but didn't argue.
+
+Cale ignored them for the most part, instead taking the opportunity to look around the basement with interest. The trapdoor behind them had vanished, which was more or less expected, but there was now a staircase leading up and presumably out of into the rest of the... house?
+
+This really did just seem like a regular old basement. A little archaic, perhaps, made of wood and stone and lit only by torches that carried a low-burning magefire. It was perhaps larger than most, given it accommodated all seven of them with ease, but Cale otherwise saw nothing that clearly explained why they were here or what the dungeon wanted of them.
+
+Were they waiting for something, or were they just meant to search? There was what looked like an old, dirty cot in the corner of the room, though something about it seemed off. Then there were crates full of what looked like alchemical supplies, about half of them broken or covered in burn marks, and shelves of ingredients that looked expired or on the verge of expiring...
+
+"Should we collect these?" Flia asked, looking over one of the shelves and eyeing a nearby crate. "Professor Rinkel could probably use them, right?"
+
+"No point," Cale said, shaking his head. "Pilgrimage-type dungeons don't let you keep anything except the reward at the end."
+
+"Oh." Flia looked disappointed, but put the ingredients she'd been gathering back on the shelf. "Could it be used for practice, then? Like, could students bring an alchemy setup in here to experiment with different recipes?"
+
+"Yes, actually," Cale said, glancing at her. "This would be a pretty good dungeon for that kind of thing. I'm surprised Haelforge doesn't use it for that."
+
+"Maybe it's not consistent?" Damien offered. "Professor Delia said it would change if she told us too much, didn't she?"
+
+"I doubt it changes that much," Cale said. "But it probably doesn't let you out unless you die, and presumably they didn't want to put their students through the trauma of having to die just to leave the dungeon."
+
+"Oh." Damien thought about that for a moment. "Makes sense... Syphus. Syphus, no."
+
+"What?" Syphus lowered its cannon. "I wanted to test something."
+
+"Don't blow us up just to test your magic," Damien said.
+
+"Real mages should be comfortable with death," it grumbled. "This is an excellent opportunity to practice."
+
+"Not without consent!" Cale called, his voice muffled from his position halfway inside one of the crates. He pulled himself out after a moment, then pulsed his barrier to shake off the dust. "And we have better things to do at the moment. You understand what a pilgrimage-type dungeon is, right?"
+
+"I do," Leo said, but the rest of his apprentices just stared blankly. Leo looked around at them for a moment, then at Cale's expression, then sighed.
+
+"A pilgrimage-type dungeon expects you to fulfill a series of conditions that mimic the journey of some great mage of the Realms," he explained reluctantly. "It's typically set as a series of challenges similar to the challenges the original mage had to face. Sometimes it's a little different, though. You might have to protect the mage, or make sure they get the guidance they need to get to the end of their journey, or—"
+
+Leo's explanation was interrupted by the door to the basement slamming open. A voice cried out in protest, and an instant later, a small figure appeared. Or, more accurately, was shoved into the room.
+
+"You ungrateful little brat!" an older voice spat. The figure clung to an arm, biting and scratching, and there was a loud curse; a moment later the arm swung with shocking force and slammed it hard into the wall, where it let out a small cry and slumped.
+
+The older voice grunted in annoyance, shaking his arm until the small figure slid off and began to tumble. "You'll sit down there and think about what you've done," he snarled.
+
+Then he slammed the door shut.
+
+An instant later, the basement flooded with magic.
+
+Depending on how one looked at it, it was either a good or a bad thing that pilgrimage-type dungeons had the ability to force certain events to occur. Delvers in those dungeons would be frozen during those instances, unable to do anything but watch. This was enforced as part of a magical contract that was implicitly accepted the moment any being entered the dungeon, and it was the sole reason none of them had been able to act the moment they understood what was happening.
+
+That could be considered a good thing, because if any of them had been able to act, the man at the top of the stairs would no longer be alive, and that could very well have derailed the Bitter Path entirely.
+
+A sharp, deadly bolt of diamond bore into the door a split second after it shut, followed shortly by decay magic sweeping across its surface. A jet of boiling water erupted from the base, aimed at where that hand had been, and then labyrinthine magic manifested, violently rearranging the space between the child and the door.
+
+Cale reacted differently. His eyes were narrowed and his entire body thrummed with tension, but he'd had that immediate, visceral reaction and paid for it far too many times to let it control him. Instead a glimmering barrier manifested before that figure could even strike the stairs, gently sloped so as to catch him and soften his fall—
+
+—and he wasn't the only one that thought to do this, it seemed. He realized after a moment that thin vines had emerged from the steps, poised to catch the boy if any of them allowed him to fall. They retracted the moment Thorn noticed Cale's barriers, stone and wood sealing behind them like nothing had happened.
+
+Cale glanced up at Thorn, his expression unreadable, and the vinewalker stared right back.
+
+Then, slowly, reluctantly, Thorn gave him a small nod.
+
+Cale nodded back.
+
+That was all the exchange they had. His apprentices were staring wide-eyed at the door, almost trembling with anger. Even Damien's fists were clenched, though he took a shaky breath and forced himself to approach the boy as Cale brought him steadily to the ground.
+
+The others took longer to gather themselves. Syphus seemed mostly disgusted, and Leo and Flia were both just pissed. Professor Graystalk was the calmest of them all, though Cale could sense the storm of conflict in his eyes—he was the only one that hadn't acted, but it had taken effort.
+
+"I guess we know why they don't let their students do this dungeon," Leo said. There was no humor in his voice. "What are we supposed to do here? Just... help the kid?"
+
+"Probably," Cale said. "Might be a little more to it than that, but we won't know until he tells us what was going on there. That door probably won't open until we're done here."
+
+He stepped up next to Damien, who was worriedly checking the boy's pulse, then froze.
+
+This was just a child, but he'd known that. On top of that, he was a simulation provided by the dungeon—an impression of some great mage from somewhere in the Realms. He wasn't technically real, though Cale knew many scholars that had debated this topic of dungeon-created life.
+
+None of that seemed to matter in the face of what was plainly obvious to Cale, from the rounded shape of this boy's ears to the mana signature that sang from his core.
+
+This child was human.

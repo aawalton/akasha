@@ -1,0 +1,151 @@
+---
+id: d7b71287-4a9e-510b-9df6-b7fbf1d0f3aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 0: A Friendly Little Recap"
+slug: 0280-chapter-0-a-friendly-little-recap
+partOf: labyrinth-of-the-mad-god
+position: 280
+ownLength: 4207
+unit: words
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2995858/chapter-0-a-friendly-little-recap"
+royalRoadId: "2995858"
+---
+
+“Hello, friend. Welcome to Aurora. My name is Elizabeth, and I need to ask a few questions before inviting you to join our community. I don’t mean to offend, but not everyone is a good fit for life on the Frontier, and it’s better for both of us if we find out if you have what it takes sooner rather than later.
+
+“What’s that you say? You’re not here to apply for citizenship? My mistake. You must be the person Nick told me about—the reader who has been following his adventures and could use a little refresher before diving into the latest volume. He wanted to meet you in person, but that won’t be possible, since he’s crossing the Labyrinth with Kenji. However, if you don’t mind my company, I would be happy to bring you up to speed.
+
+“Pull up a chair and make yourself comfortable. A little closer—I won’t bite. Before we go any further, I want to remind you that these recaps exist outside the main story. If Labyrinth of the Mad God is fresh in your mind or you don’t like breeching the fourth wall, feel free to skip straight to chapter one, where Nick just received one hell of a surprise.
+
+“Moving right along, I’ll keep the summaries of the early books brief and go into a bit more detail when we reach volume four. With that out of the way, let’s get this show on the road.
+
+“Our story began with integration—that fateful day when the System arrived, vaporized three quarters of humanity, and erased our civilization from the face of the Earth. Nick was one of the lucky ones who survived by jumping into a portal. After the System remade his body, he arrived at his orientation, where Pax explained what had happened, and what was supposed to come next.
+
+“Just when it seemed that the worst was over, Taltos made a dramatic appearance, hacking the System and stealing the Earth. In truth, the Mad God had fallen for the System’s trap, but we’ll get to that a little later. After dialing the difficulty up to eleven, Nick began his tutorial on the Searing Isle. He had to endure everything from boiling rain to a hungry dinosaur called the lurk. Along the way, he made friends with Bandit and lemur tribe, and they helped each other survive those trying days.
+
+“Part of the way through, he was trapped inside a dungeon, where he was infected with a Calamity-Class parasite called the Crimson Blight. He also found the Legendary sword Blightbane, although he didn’t know it just yet. After clearing the dungeon, he defeated dozens of deadly beasts and held on by the skin of his teeth when the island sank into the sea, leaping into a portal at the last second.
+
+“At the start of book two, Taltos appeared and made Nick an offer he couldn’t refuse. If he was willing to participate in a two-round arena battle, the Mad God would let humanity pick something better than the Basic Survivor class. Working alongside Devin, Veronica, Sophia, Kenji, Sarah, Bret, and Paul, he battled some giant wasps with subzero venom. After a surprise visit from the Herald of Slaughter, their team took on a mutant rhino that gave them the fight of their lives.
+
+“After defeating the fallen beast, Taltos proposed a second deal—a series of quests he had negotiated with the System. If Earth’s best and brightest could cross Blackmist Bog, climb the Tower of Rizzen, and defeat the Guardian waiting on the roof, the Mad God would give the Earth back instead of recycling it for spare parts. We would still become part of the Labyrinth, but since it was a hell of a lot better than the alternative, Nick accepted Taltos’s offer.
+
+“He took a much-needed break in a luxury safe room, then stepped through a portal and arrived at Blackmist Bog, heading for the tower in the center of the biome. He fought some giant frogs and hellgrubs from another dimension before running into Sophia. She helped him deal with a little problem—Shaun and two other people who were trying to rob him.
+
+“After that, the duo decided to stick together. They fell into a monster-infested mine, where Nick and the bonefiend defeated the flesh-render matriarch. He pretended not to know it was Sophia all along, and they continued on their way. After running from a fire-breathing turtle called the River King, they arrived at the base of the tower, where other members of Team Earth were camped around the base.
+
+“That’s where I came into the story. I was working with an odious man named Jim, who was planning to sacrifice the weak to foster the strong. He tried to kill Nick when they didn’t see eye to eye. I still regret letting things go that far without stepping in, but it’s all in the past now. Before either man could gain the upper hand, the shadow hunt arrived in a tsunami of blackmist, along with the River King.
+
+“After defeating the enraged beast, everyone made it into the tower, which takes us to the start of book three. Nick needed to climb four floors to reach the Guardian on the roof. Although the word ‘floor’ is a bit misleading, since they were connected by portals and had nothing in common. The first level was a ruined laboratory, where a mad scientist tried to create the perfect eating machine and things went horribly wrong.
+
+“Nick’s party was split up after entering the tower. They searched for each other while facing off against mechanical beasts and running from a nightmarish blob called the Janitor. He eventually met up with Veronica and discovered that Shaun had followed them inside, taking Kenji’s place.
+
+“The Janitor was hunting Sophia and Devin and everyone met up when the Janitor chased them into the roach queen’s lair. The gear-swarm had engineered the whole situation in a bid to eliminate the competition, and a vicious four-way battle ensued. Nick’s team defeated the roaches and the Janitor, upgrading his wand and his Force Adept trait along the way.
+
+They thought they would have to battle the constructs too, but the machines were willing to let them leave without fighting to the death. For completing the first floor, the System awarded everyone a one-month training session on a planet with compressed time. Nick picked his Sword skill and arrived on the Titan’s Prairie, where he was trained by the blademaster Rita and Kiki the combat doll.
+
+Rita liked him so much that she invited him to join her faction, which is how he became a student of the Ever-Surging Blade. When the month was up, the party got back together to tackle the tower’s second floor.
+
+“It wound up being a continent-sized space—full of floating islands and vicious sky pirates. Nick stole a piece of floatstone, using its antigravity property to let his magic bag carry far more weight than before. After sneaking abord the pirate captain’s ship while trying to find the stairs, Nick and Devin squared off against Alma of the frozen flame, a powerful tier-two warrior.
+
+“The men were in big trouble, but before Alma struck them down, Sophia turned into the bonefiend, destroyed the airship’s floatstone core, and sent it plummeting from the sky. Nick was knocked out by a swinging beam and by the time he woke up, he and Devin were on the third floor, separated from Sophia, V, and Shaun.
+
+“The third floor was a swamp full of ambush predators, but Nick only saw the last room. He helped a group that was fighting the boss and climbed the stairs without seeing any action himself.
+
+“The fourth and final floor was something else entirely. It was a species-evaluation course performed by the Trial Administrator, who told Nick that if he made it to the end, he could win some insanely powerful Species’ Experience Pills. The Administrator became a lot less friendly when it learned humanity wasn’t employed by the tower, making the rounds far more difficult.
+
+“Nick and Devin fought ice elementals in a tundra, played ‘the floor is lava’ with eels in a volcanic crater, then dodged some meteors while being attacked by burrowing vines at the same time. Part of the way through, Pax got ahold of him, revealing that she’d been tracking his progress the whole time. She told Nick the System had baited Taltos into stealing the Earth and orchestrated everything that had happened up to this point.
+
+“A lot of that would be important soon, but all that mattered then was the Trial Administrator was cheating and planned to kill them during the evaluation’s fifth round. Before that happened, Pax hacked the trial’s computer and brought its shield down. Devin and Nick broke the machine conducting the test and stole those pills, clearing the fourth floor in the process.
+
+“It was almost time to meet the rest of Team Earth on the roof for the showdown with the Guardian. Nick and Devin ate those pills, and Nick had his gear upgraded at the craft world Velen. Both men cleared the requirements to choose a new class, picking up Rare classes for the first time. All that was left was a quick and easy evolution… or so he thought.
+
+“To understand what happened next, we need to circle back in the tutorial dungeon—when Nick was infected with the Crimson Blight. It turned out that he hadn’t quite killed the world-devouring parasite after all. The blight’s controlling core had been inside him all along, growing stronger as it prepared to take him over before infecting all life on Earth.
+
+“However, triggering his species evolution early gave Nick a chance to fight back—an all-or-nothing battle that would determine his fate. Whoever won a war of wills would take control of his body, either granting him new powers or transforming him into a sentient weapon of mass destruction pointed at his homeworld. It was a near thing, but he came out on top, gaining a powerful new trait and letting him evolve without further interference.
+
+“Having become two of Earth’s strongest champions, Nick and Devin jumped through a portal leading to the roof of the tower, where humanity’s battle with the Guardian was already underway. It was a lot of pressure, since the fate of the world was literally hanging in the balance, but Team Earth, including yours truly, wasn’t going down without a fight.
+
+“Before we move on, we need to rewind the timeline to fifteen minutes before the duo made it to the roof. After Kenji gave the most moving speech I’ve ever heard and the Earth appeared in the sky above, portals rose from the rim of the tower. For the first stage of the showdown, mechanical beasts came pouring out, where Earth’s elites met them blade to claw.
+
+“When the second phase began, more portals appeared and mechanical soldiers joined the fray. We were holding our own, but the true test was yet to come. The third phase brought gigantic portals to the battlefield, through which clockwork colossi appeared—immensely lethal machines that were too much for us to handle.
+
+“That was when Nick and Devin made their dramatic arrival—armed with the new powers granted by their Rare classes, upgraded gear, and grade-D evolutions.
+
+“They slammed into the clockwork giants like heroes out of legend, then let us know what Pax had revealed about our quest’s true nature. In short, the Mad God was cheating. On top of the insane number of constructs emerging from the portals, breaking too many before the Guardian arrived would power up the boss, making it impossible to win, even if we cleared the other phases.
+
+“Pax had told Nick how to stop that from happening, and he dragged the Guardian out of the titanic machine that was controlling the clockwork army. While the rest of Team Earth battled the legion of constructs, Devin and Nick faced off against the tier-two warrior—the strongest opponent any of us had ever seen.
+
+“They fought like hell and seemed to have the upper hand… until the sneaky machine revealed that it had a second, more powerful form. Our heroes were on the ropes, but before they were overwhelmed, the rest of Team Earth came to the rescue, infusing our champions with supportive spells. The Earth added its magic to the mix, having become self-aware after reaching level one, way back at the start of the series.
+
+“It was enough to let Nick and Devin defeat the Guardian and send it plummeting from the side of the tower. While Ella retrieved its clockwork staff, the Mad God appeared in the sky above—furious that the System had come out on top in a contest stretching back across millennia.
+
+“Nick’s unique technique, Portal Visionary, granted him a glimpse of the truth behind it all while Taltos and the System went head-to-head. He learned that the System had been pulling the strings all along, tricking the Mad God into stealing worlds the AI had seeded with champions in preparation for invading the Labyrinth.
+
+“Taltos tried to stop what was happening, but it was already too late. Team Earth’s reward package was upgraded to Diamond, and the planet was plugged into the Labyrinth, along with hundreds of other worlds the System intended to use as the beachheads for its conquest.
+
+“At the end of book three, we saw Rizzen himself talking to a demigod named Preservation. We don’t know much about what they are up to just yet, but I have a funny feeling the duo will play an important role in the story before long.
+
+“That takes us to the beginning at the last volume. After enduring countless hardships and growing stronger along the way, it was finally time for Nick to go home. The Earth had been granted a year of protection to prepare for the entrances to the Labyrinth opening, and humanity wasn’t going to waste a second.
+
+“Before his boots touched the world of his birth, he experienced a vision while Earth was transported to the cosmic maze and installed along the fringe. He witnessed the Labyrinth of the Mad God in its full, fell glory—a twisting tangle of worlds, dimensions, and other planes of existence that felt like a living creature.
+
+“In the center was the Taltos’s realm, which was bordered by the four domains of his demigod pantheon, each more dangerous than the last. They haven’t revealed themselves to humanity yet, but Nick should learn more about them soon, now that he’s exploring the Labyrinth in person.
+
+“Once the Earth’s node was added to a sector, the vision ended. He was carried from orbit to the starter zone he’d selected—the Bladewind Badlands. It was the most dangerous option but also the place where he could grow the fastest.
+
+“He had two weeks before the Rebuilding Civilization quest began, so he decided to head for the lake in the center of the biome. He planned to meet up with the other members of Team Earth—who had been separated after their climatic battle with the Guardian of Darkstone Tower.
+
+“He crossed the desert while exploring the changes that had taken place while he was gone, discovering a regional resource in a cave behind a waterfall and meeting a friendly coyote along the way. His journey had been relaxing so far, but he was about to learn that the Bladewind Badlands’ name was a lot more literal than he’d thought, where is where I came into the story again.
+
+“He found me while we were seeking shelter from the bladewind, and we decided to travel together for a while. I’m not proud of it, but I did my best to manipulate Nick into trusting me. I didn’t know he was a good person yet, and I had dealt with enough poweful individuals with hair triggers that I was afraid to get on his bad side. He saw through my deception and decided to trust me anyway, which is where our partnership truly began.
+
+“After several pleasant days of travel, an event occurred that would change our lives forever, creating a bond unlike anything I’ve experienced before or since. Humanity cleared the requirements to evolve to grade-D, enhancing all our geneline traits in the process, thanks to the Diamond reward we earned. We gained an awesome new power called Blend into the Background, but the real gamechanger was the new attribute we voted for.
+
+“When the tally came in, humanity had chosen Psi—the attribute governing psychic powers. As it happens, whenever a species gets a brand-new attribute, it triggers some manner of awakening. Back when the System jumpstarted Nick’s Magic, it carved energetic channels into his body and pumped his core full of mana until it hit critical mass, leading to a host of other changes later down the line. While that was an intense experience in any number of ways, it was nothing compared to what happened when our psychic potential was unlocked.
+
+“Awakening our Psi expanded our awareness, letting us perceive each other’s thoughts, emotions, and memories like reading the words on a page. That was beautiful and not too intrusive, but the pull was so strong that our minds overlapped, blending the boundary between Elizabeth and Nick. We each took a good, long look into the deepest recesses of each other’s souls—until we knew each other on the most intimate level.
+
+“I was overwhelmed by all the changes from my evolution, and didn’t remember what had happened for several weeks, but Nick figured it out right away. From that point on, we had a profound insight into one another, having seen the true selves lurking behind all the masks and walls. It was terrifying, wonderful, and indescribably strange, building a deep and growing bond, even though we were only one step shy strangers to each other before that moment.
+
+“To distract ourselves from the bizarre and rather awkward situation, we spent some time learning about our new powers. Nick spent all the free points he’d been saving on Psi to shore up his psychic defenses and guard his heart and mind. He spent so many points at once that he left his body again, flying across the badlands as a thoughtform double for a few wonderful minutes.
+
+“We also took Blend into the Background for a test drive, which provides a powerful form of optical camouflage along some other stealthy tricks for up to one hour each day. We played hide and go seek to learn the details as we journeyed toward the heart of the badlands.
+
+“Before we arrived, the special quest we earned in our Diamond reward started—something the System called ‘Rebuilding Civilization.’ Across the globe, the System generated magical constructs in the form of powerful beasts, which it called Town, City, and Capital Bosses. Anyone who took out a boss earned the right to found a settlement, which came with a whole host of benefits.
+
+“As we had hoped, the elite members of Team Earth who defeated the Guardian all came to the Bladewind Badlands, since it was the best place to grow stronger. We met them at the lake in the center of the biome, where we came across a titanic Capital Boss called the Armada Wurm.
+
+“After reuniting with the Kenji and the rest of our people, we put a plan into motion to take out the wurm and earn one of the ten capitals the System had put on the table. It was one hell of a fight, and it took every trick we knew to bring the big bad down. We used siege engines, ice magic, and countless other tactics to lure the wurm into a canyon and trap it inside, at which point, the real battle began.
+
+“The boss’s name wasn’t just for show. The Armada Wurm had hundreds of powerful beasts living inside it—an army that came running out of its body at the start of the fight. After putting on the best performance of our lives, we won without taking any losses. It wouldn’t have gone so well if Nick hadn’t jumped inside the wurm’s body and destroyed its brain with an assist from Fritz, the Kastillan king whose soul resides within Blightbane.
+
+“Although he didn’t see it coming, we arranged for Nick to be voted in as the leader of our new settlement, which he named Aurora—the city of the rising sun. Founding a capital came with a ton of City Points and building vouchers, which let us start construction right away.
+
+“Combined with our new Professions and superhuman bodies, we were able to build at an incredible rate. He put up a Weather Barrier to block the bladewind, and some Monster Wards to warn us if any creepy crawlies came calling. After getting some well-deserved rest, we threw a massive party to celebrate the accomplishment.
+
+“It wasn’t all good news. Nick learned that Sophia had merged with the demon inside her—transforming her into the bonefiend—and she couldn’t change back. No longer fully human, she cut him loose and left on a quest to defeat her demon, which broke his heart although I understand where she was coming from.
+
+“Over the next few weeks, everyone focused on developing the city, getting our industries up and running and building homes for our people. We picked up some quests to take Aurora to the next tier, which came with some awesome rewards we weren’t about to pass up. Nick formed an alliance with the farming settlement Desert Rose, acquired regional resources that provided mana wells to the city, and discovered a dungeon locked behind a puzzle door beneath the island in the middle of the lake.
+
+“When he saved Dragon’s Tooth from a horde of monstrous ants, he cleared the conditions to take Aurora to tier four… and then jumped straight to tier five since we had already cleared those too. It made the settlement’s sphere of influence grow by hundreds of miles and granted us a portal connected to the other cities in our alliance.
+
+“Not long after, our alliance became the faction Team Earth, unlocking the Vital Energy Manipulation skill for all our members. Nick upgraded Force Acceleration, letting him fire force projectiles while stopping his own momentum, which turned Sonic Slice into a powerful ranged attack.
+
+“We traded in Rare vouchers for the Item Modification Station and Magitech Research and Development Center, both of which should make a huge difference during the days ahead. On that note, we still have some Rare vouchers to use when we get the mana wells to support them.
+
+Nick unlocked a new technique, Predatory Domain—which uses his killing intent to suppress his enemies—getting into an epic duel with Ella in the process. He also upgraded Mana Dart, granting it the ability to disrupt vital energy and turn his enemies’ power against them.
+
+He restored the Legendary sword Blightbane to its full power, letting him visit Fritz inside the blade’s inner world for half an hour of training every day. It also let Fritz materialize in the real world for five minutes at a time.
+
+“Devin, Shaun, and Veronica left with a few other elites to quest for the Simulation Dome, and Kenji and Nick accepted a dangerous quest that would let them add beasts to our faction. Their mission was to travel through the Labyrinth to another node in our sector, where they were tasked to clear an elite dungeon called a ‘dreadbeast quarantine zone.’
+
+“For the quest, the System paired the men with some friendly beasts. When he met up with them, Nick found out that one was Bandit—his lemur friend from the searing Isle. The other beast was from his tutorial too, a much-less-friendly dinosaur called the lurk.
+
+“At the end of the book, Preservation attended a meeting with Taltos and his pantheon, who the demigod had been working against from the start. We don’t know it yet, but they are going to invade the fringe of the Labyrinth in full force, creating a monster stampede along the way. We were supposed to have a full year of protection, but it looks like we’re going to be fighting for our lives again a lot sooner than we expected.
+
+“That brings us to the end of book four, which means we’ve reached the end of today’s recap. Thanks for spending some time with me and listening to our story. Time flies when you have such good company.
+
+“I hope you enjoyed my little refresher, and feel free to stop by Aurora for a visit any time you like. I’m sure Nick would love to say hello when he gets back from the dungeon. Oh, and before I forget. If you are enjoying this series and want it to continue, please consider leaving a rating or review for volume one right now or mentioning Labyrinth of the Mad God to your friends. A story lives and dies by its reviews, and we could really use your help.
+
+“Thanks to everyone who stuck with me until the end, and to all our readers who have supported us along the way. I’ll see you again soon, but now it’s time to begin Nick’s latest adventure.”

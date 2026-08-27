@@ -1,0 +1,185 @@
+---
+id: d1b35acd-a2e2-5d35-bb37-c51f7ecb3ee8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21 — Ghosts in the Dark, Pt 4"
+slug: 0021-chapter-21-ghosts-in-the-dark-pt-4
+partOf: just-add-mana
+position: 21
+ownLength: 3210
+unit: words
+ownProgress: 3210
+publishedAt: 2025-08-14
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2517694/chapter-21-ghosts-in-the-dark-pt-4"
+royalRoadId: "2517694"
+markedReadAt: "2026-06-29T18:48:14.626Z"
+---
+
+Cale generally prided himself on his ability to keep his temper.
+
+This was why, on the few occasions he did allow himself to lose his temper, he didn't keep to his own name. Cale Cadwell Cobbs was a man who was largely playful and rarely took things seriously; even on the rare occasion he discarded the more humor-driven aspects of his persona, he was still fundamentally Cale.
+
+But there were times he couldn't allow himself to be Cale, and this was one of them. It hadn't taken him long to put things together, after all. He'd seen the discarded healing potion first, followed by the flesh of an archmage-level kobold knitting itself together, and he'd caught those details just in time to hear the crack that ripped through the air like a death knell.
+
+His reaction had been immediate, almost instinctive. He flooded the hallway with as much of his mana as he could muster.
+
+Well, as much as he could muster without killing anyone else, anyway. Cale was vaguely aware of the muffled gasps from the three students standing near him. Even Akkau grunted, though he wasn't immobilized like everyone else seemed to be.
+
+The lizardfolk was frozen in the air, held in place by the thick waves of mana he was emanating. That was the only option he had the presence of mind to hold—if he kept the young mage as still as possible, there was a chance he could survive this.
+
+Only a chance, still.
+
+It wasn't Cale that stepped forward after that, though. It wasn't Yggdrasil's End, either—that part of him was locked away deep, and he hoped it would never be needed again.
+
+But those weren't the only names he'd earned.
+
+The man who stepped forward had once had his name whispered in the shadows and alleys of the Lower Fossils. He had emerged at the height of their so-called Age of Expansion, and his presence had crippled the ambitions of their expansionist movement, stopping it almost dead in its tracks. There were many, in fact, that attributed the end of that Age entirely to him.
+
+The Mad Mage.
+
+The incursion of the Breathless Ones had been what kickstarted the Age of Expansion. They were soulless, helpless mana cores that fell into their realm from some dead branch of reality, empowering all those that touched them into master-level mages. Absorbing a Breathless One imbued you with some fraction of their memories and a greater fraction of their power, and almost every member of the Lower Fossils thought it worth the tradeoff.
+
+The Lower Fossils grew tenfold in power over the course of mere months, and with that growth came arrogance. Certainty that their new military might could conquer any other territory that might have opposed them.
+
+And they would have been right, if not for the appearance of the Mad Mage.
+
+The whispers of him were scattered, and the rumors were nothing if not uncertain. Some believed that the Mad Mage was a man who had absorbed one too many of the Breathless Ones, gaining untold power and trading his sanity in turn. Others believed that the Mad Mage was simply a man that had been appointed to protect them, a so-called chosen avatar, for the fury in the mage's eyes when he fought any empowered mage was depthless.
+
+The truth of the rumors didn't matter, really. It was the legend that mattered: that the Mad Mage could strike at any time, at any moment; that his power could wipe out swathes of the city, no matter how many empowered mages stood in his way; that he could be in multiple places at once, and could tear down one noble house while having tea with another.
+
+No one knew what he looked like. The cloak he wore obscured his face, made him impossible to identify. But his magic—that was what marked him as the Mad Mage. The sheer, overwhelming strength of his magic. When he was angry, no mage in his vicinity could muster the strength to even cast a spell. His sheer weight of his mana suffocated any construct they tried to put together.
+
+It was that Mad Mage that stepped forward to confront Sneaks-In-Darkness, and when he spoke, his voice was devoid of feeling.
+
+"It seems the Great Realms truly have forgotten the work of the Monoliths," he said. "I had wondered. One would think it would take more than a few centuries for a mere archmage like yourself to be willing to risk breaking the Vows. Or did you think you were above them?"
+
+He examined the mage for a moment. She couldn't move, anyway, caught in the grasp of his mana as she was. She was trying, certainly—struggling and pushing against the thick slurry of air that surrounded her—but the Mad Mage simply thickened it further, flooded even more mana into her vicinity.
+
+It took effort, moving around this amount of mana at once. It was easy to flood everything with power, but much harder to nudge it into place afterward. He had to coax it slowly into place, create a gradient of potential that made it flow the way he wanted.
+
+Slowly, he freed the other members of the Academy from its grasp. He was aware, vaguely, that they all rushed forward as soon as they could to try to help the lizardfolk that was still frozen in place.
+
+That was enough for him to bear the full force of his attention down on the mage and her attempts to break the hold his mana had over her.
+
+"Sneaks-In-Darkness," the Mad Mage said mildly. She stiffened in shock as he took a few more steps toward her, bringing with him a wave of immobilizing, suffocating mana. "You're wondering how I know your name, yes?"
+
+He smiled. It was a cold thing, with none of the light it usually held; the kind of smile that might give someone the moniker of the Mad Mage. "Right now, my mana is seeping into every cell of your body," he told her. "There's a concept you might have heard of if you've studied magic in the right schools. It's called mana saturation. There is, in theory, only so much mana a physical space can hold."
+
+The Mad Mage tilted his head slightly. "I've known a few exceptions to that rule," he said. He pressed a finger to his lips, as though he were speaking some unknowable secret. "But there's some truth to it. The laws of mana start to break down when it reaches a certain level of saturation. For instance, your core would normally do an excellent job keeping me out. It's a very basic truth, isn't it? Magical combat would be very different if you could cast your spells inside another mage."
+
+Sneaks-In-Darkness began to panic. He could see it in the dilation of her eyes, in the way her breath quickened. "I wouldn't do that, if I were you," the Mad Mage told her, but he did nothing to stop her.
+
+Every breath she took brought more of his mana into her system. It filled her lungs and filtered into her blood, and all the natural defenses a mage had against this very thing failed, because there was simply too much mana around her. There was no particle of air that wasn't also dense with the power of the Mad Mage.
+
+"A funny side effect," he told her, his tone conversational. "Above a certain level of saturation, my mana starts mingling with your core. Yes, yes, I know that's theoretically impossible and all that, but what can I say? It's what happens. And when it does..."
+
+He narrowed his eyes. "When it does," he said. "I learn your secrets. I know everything you try to hide, Sneaks-In-Darkness. I know your worst fears, your deepest regrets, and all the little lies you try to tell yourself to justify the monster you've let yourself become. But let's strip away the biggest of those lies, shall we?"
+
+He leaned down to whisper his accusation right into her ear. "Brother-killer."
+
+Sneaks-In-Darkness took a pained, strangled breath. The sound she made wavered between a mournful scream and a pained whimper. It was the sort of sound no creature was meant to hear.
+
+The Mad Mage took a step back, his expression unchanging. "Looks like our time's up," he said conversationally. "Let's end this, shall we?"
+
+The stone hallways around them vanished as the planar boundary reasserted itself; over in the corner, still within a box of blood obsidian, sat a trembling voidcyte. But the Mad Mage paid no attention to that. He cared only about three things:
+
+One, that they were no longer in Akkau's office. The auric collapse had physically displaced them so that they were just outside the academy proper, within the sands of the nearby desert.
+
+Two, Sneaks-In-Darkness was still in front of him, and she hadn't quite given up. Instead, there was a burning, defiant anger in her eyes.
+
+Three...
+
+There was a malevolent, familiar mana coursing through her, just beneath her scales. The Mad Mage recognized the type of magic that was—it was an old, forbidden art, something that wasn't quite a curse but had many of their properties. A flesh-shaping ritual stamped into the body of a mage.
+
+[Myzonir's Ritual of Rebirth].
+
+Myzonir was the mage that had invented that spell and all its variations, but the Planar Collapse had somehow managed to corrupt the fundamental spell pattern; what had been conceived to save the life of a mage now ensured their corruption and destruction.
+
+There were twelve variations of [Myzonir's Ritual of Rebirth]. In their original iteration, they rebuilt the body of a mage that wore their patterns in the form assigned to the ritual variation; Myzonir had created one for each of the twelve major species in power at the time, with the promise to create new ones for each new species that joined the Planar Order.
+
+Now... Well, the spells still worked. Arguably, they worked even better: they granted their hosts immense power. But they each invariably also took, warping the mind and twisting the magic of the mage that used them. That was the reason the ritual had been sealed away, along with all the other healing magics broken in the Collapse.
+
+But while the Mad Mage could tell that this was a variant of Myrzonir's rituals, he didn't recognize the specific variation. It was none of the twelve variants he knew of, which meant this was something new.
+
+And new was fascinating, even to the Mad Mage.
+
+"Show me what you can do," he said. He lifted a hand, and a thick, dense construct of mana slammed into Sneaks-In-Darkness's chest. The force was great enough to create a sound not unlike the ringing of a bell; it kicked up a cloud of sand, and for a normal kobold, would have shattered every bone in their body.
+
+For Sneaks-In-Darkness... She certainly looked limp and shattered, but that was nothing more than the activation condition for that embedded ritual.
+
+The runes beneath her scales began to glow, pulsing with dark magic and sucking in every drop of mana in her vicinity. Color leeched out from the sand beneath her, turning it from crystalline grains into brittle flecks. Her scales rent apart with a terrible crack, exposing a void of purple mana within.
+
+Then she began to grow. Taller, for one thing, her bones popping and cracking as she did. Her snout lengthened, new teeth growing in to fill in the space, and her fangs grew sharp. Claws tore their way out of her hands.
+
+There was a sharp, impossible twist in her mana core. The Mad Mage watched without comment, with the only indication of his disapproval being a small frown.
+
+All the laws of magic he was aware of said this should be impossible. The rituals he knew of reshaped the body, yes, and granted physical power to the mage in question; the more advanced ones among them could slightly alter the mana cores of their wielders. None of them could change a mana core so completely. That was supposed to be impossible.
+
+And given what she looked like, and what he could feel from her mana core...
+
+Far behind him, the Mad Mage heard Akkau let loose with a feral, mournful growl. That served as confirmation.
+
+The thirteenth ritual turned those marked by it into dragons. Not partially, not merely in appearance, but in totality, driving itself deep enough to warp and change even a mage's mana core.
+
+Sneaks-In-Darkness stared at him with eyes that glittered with absolute hatred. The Mad Mage was surprised she was still lucid—the transformation had clearly been painful beyond belief, and he had never seen a mage hold on to their mind after it took root.
+
+"Fucking wild mages," Sneaks-In-Darkness spat. Her voice was distorted by the force of her own magic as it crackled around her. It was out of control, the Mad Mage noticed—every so often, streaks of her own magic would lash against her and leave her flesh open and bleeding. "It's all your fault. It's all your fucking fault! I'll kill you!"
+
+"What, like you killed your brother?" the Mad Mage asked calmly.
+
+The false dragon screamed with rage and charged.
+
+Sneaks-In-Darkness was going to kill this little shit.
+
+It felt like her entire world was on fire. Pain burned across her every nerve, and even the smallest of movements sent new, searing lines of agony through parts of her body she hadn't even known she had, probably because mere moments ago, she hadn't had them.
+
+But none of that was a surprise, really. The ritual that had been carved into her body was designed to be fueled by the energy created by her death; instead of allowing her to die and her soul to move on, it captured the burst of mana released at the moment of death and repurposed it.
+
+This particular one, the Commander had told her, was more special than even that. It would give her untold power. The only problem with it, he said, was all the pain that accompanied it—she would have to use every ounce of her willpower if she wanted to stay sane.
+
+Sneaks-In-Darkness was no stranger to pain. She welcomed it, even. Pain was nothing, in the grand scheme of things. If it was what was needed for her to beat back the threat of the wild mages, then so be it.
+
+The only reason she hadn't gone through with the ritual before this was because they couldn't risk revealing too much to their enemies.
+
+But that proverbial cat was out of the bag, now, and Sneaks-In-Darkness looked forward to putting this little whelp in his place. She could feel the power coursing through her, far more than she'd ever held before—far above the strength of an archmage. It would have made her dizzy thinking about it, if not for the anger that still burned within.
+
+What was she now? A minor divinity? It felt like it. It felt like she could cast eighth-tier spells without even blinking. Ninth might begin to put a strain on her, and she could probably only afford one or two casts of a tenth-tier spell. That would be more than enough to put down a little upstart like this, however.
+
+Probably.
+
+There was a small seed of doubt there. She remembered what it felt like when they were still in those strange stone hallways—the immense amount of mana the human had wielded like it was nothing, pressing down around her, suffocating her. She'd never witnessed such density of mana in all her time as an archmage.
+
+But that had been a monumental waste of his mana. There was no way he had enough left to deal with her now, not with the power she'd just gained. And besides, how much mana had he used, really? Surely it wasn't enough for a tenth-tier spell. He had to be an upper archmage at best...
+
+It seems the Great Realms have truly forgotten the work of the Monoliths.
+
+...unless he was implying that he was one of the Monoliths.
+
+No. That was impossible. Sneaks-In-Darkness shook off the thought angrily. This was just another wild mage pretending to be powerful, and she could show him exactly how weak he was. How vulnerable all wild mages were. They were nothing more than prey for the Red Hunters.
+
+She cast three rapid defensive spells. [Eternal Aegis], [Adamant Bulwark], and [Diamondscale]. They were all sixth-tier or higher—even an archmage would struggle to get through a combination of all three.
+
+And then she called to the depths of her new magic and changed once more.
+
+If the first transformation had been painful, this one was a soul-rending sort of pain that hammered itself into her skull, but she persisted. She was a dragon now, and dragons could wear two forms; the first was their more humanoid one, and the second carried all the ferocious power of a true dragon. Her body grew, her limbs stretched until they dug trenches into the sand, and massive, majestic wings tore their way free from her back.
+
+Like this, she could unleash all the power at her disposal. She could go beyond even the tenth tier and to the eleventh, though she could do it only once. It was fine. She wanted Cale dead.
+
+There would be collateral damage, she knew. The Commander wouldn't be happy with this spell being used here. But he would understand. Besides, she was a dragon now. She would become one of their Forward Spears, the most prestigious of the Red Hunters. A small reprimand didn't matter.
+
+She felt for the spell construct that had been implanted in her core, outside the purview of the Gift. The Commander said it was a spell from the Outer Planes, far beyond any of the Great Realms. It would erase the target utterly. Technically speaking, the true form of that spell was far higher than just eleventh-tier—but eleventh was where casting it became viable, and even a weaker version of the effect would take out Cale and probably half the academy with it.
+
+Sneaks-In-Darkness smiled a twisted smile. She'd aim it at Cale and the Astral Wing. Two birds, one stone.
+
+[Deepfire Abyss] spiralled out of her construct and toward the human...
+
+...who caught it in one hand and swallowed it.
+
+Then a tidal wave of mana slammed her into the ground and crushed her, harder and harder, until she couldn't breathe. Until her vision was blurred by the blood seeping out of her eyes.
+
+This wasn't possible. She was a dragon. She was a fully unleashed dragon! Dragons stood at the top of the proverbial magical food chain! They bordered on mythology, and even gods had to be wary of them. This—this human was suppressing her with magical force alone? He wasn't even using a spell!
+
+She looked up into his eyes, barely able to see him through her own blurred vision, and saw the pitiless gaze of the Mad Mage bear down on her.
+
+"Pity," he said. "I expected better."
+
+Sneaks-In-Darkness felt her mana core crack, and the pain tore away the rest of her grip on her consciousness.

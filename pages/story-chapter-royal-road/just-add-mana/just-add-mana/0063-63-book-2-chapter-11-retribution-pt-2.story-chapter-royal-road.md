@@ -1,0 +1,193 @@
+---
+id: 518101b4-278a-57b4-8c8e-0cb86d952386
+page-type-slug: story-chapter-royal-road
+title: "63 — Book 2, Chapter 11 — Retribution, Pt 2"
+slug: 0063-63-book-2-chapter-11-retribution-pt-2
+partOf: just-add-mana
+position: 63
+ownLength: 3436
+unit: words
+ownProgress: 3436
+publishedAt: 2025-11-20
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2777618/63-book-2-chapter-11-retribution-pt-2"
+royalRoadId: "2777618"
+markedReadAt: "2026-06-29T18:49:46.164Z"
+---
+
+Observer #28 was being forced to make decisions.
+
+He hated making decisions. He wasn't built for decisions. His purpose was simple: he was to observe the Red Hunters under his care, which in this case was one Dekora Filtrop, the minotaur that had been personally recommended for their ranks by Mr. and Mrs. Telwis. They were among the Commander's most reliable Hunters and had proven their loyalty time and time again, so a direct recommendation from them meant special consideration.
+
+Which was how Observer #28 had ended up assigned to the very specific task of observing Dekora's growth as both a mage and a Hunter. It was a pleasant enough task—unlike many of the other Observers, he didn't need to concern himself much with things like activating spellslates or reporting a detailed account of events to the Commander.
+
+Not that he couldn't. He was, technically, supposed to do those things if the situation called for it. But Dekora was a good Hunter, by all accounts, and had never gotten herself into one of those situations. Her only flaw was that she was more impulsive than most, a little prone to making snap decisions without consulting with the Hunters in charge.
+
+But that was all mostly a result of her ambition. She was driven to prove herself, for whatever reason, and her drive to succeed had allowed her to move through the ranks and improve as an archmage far more quickly than the majority of her peers. It had taken her only two years to reach the third-cloak mark as an archmage, a ludicrous speed for just about anyone else.
+
+That particular accomplishment had marked her as a potential candidate for the upper echelons of the Red Hunters, in fact. Observer #28 knew this because the moment she achieved it, he had received orders to begin taking notes not just on her magical progress but on her loyalty. He was instructed to keep an eye on her musings, her tendencies, how capable she was at adapting when a plan went awry...
+
+And so far, Dekora had passed those tests with flying colors. She did act without orders, but she did so only when she was certain it wouldn't compromise the Red Hunter cause. On the few occasions where something went wrong, she didn't hesitate to risk herself to ensure that their plans remained secret.
+
+Until today, apparently. Which meant Observer #28 had to make a decision, and he hated making decisions.
+
+It was likely that Dekora was under some sort of mental compulsion. It was the first thing he checked for the moment she began acting erratic—he tapped into his link with his ichorworm and channeled a basic set of analytical scrying spells, examining the state of her mana core and the mana fluctuations around her.
+
+Sure enough, there was something there. It was vague and ill-defined even to his scrying senses, which was unusual; his spells were normally more than capable of identifying even high-tier compulsions. He knew it was there, but it was about all he knew.
+
+Few things could escape the sight of an Observer of the Watchful Hive. That alone warranted reporting. Perhaps if he reported it now, someone else would be assigned to this task, and he would have to worry less about making decisions...
+
+The buzzing in his head grew.
+
+No go, then. Observer #28 had long grown used to the Broodmother's commands, and he had long stopped fighting against them. There wasn't much point. This, at least, was a simple order: keep observing and uncover the cause of this. The Watchful Hive did not provide incomplete reports.
+
+Observer #28 considered again everything he had observed since the moment this incident began.
+
+Dekora had approached Kessi to find out what happened during their Fire Resonance class. That alone wasn't unusual; Dekora had a tendency to try to learn even information that the other Hunters deliberately kept from her. It was one of her flaws, but she never used that information against them, only to further their cause.
+
+Observer #28 didn't particularly understand it. He was happy to follow orders, and if he was told something, he simply followed along. He had done exactly as such when Observer #27 informed him that everything had proceeded as planned with the Fire Resonance class, excepting a minor hiccup that the Commander would personally deal with.
+
+Apparently, Dekora did not find that answer satisfactory. She pried the truth out of Kessi with a fake smile and some excuse about working together with her classmates. Kessi claimed that there had been some sort of accident during Fire Resonance and that her fellow students were in the infirmary.
+
+Observer #28 prompted his ichorworm to fly over to the infirmary in question. It seemed true enough. Many of the Fire Resonance students were lying in beds, badly burned and sustained by flickering life wards. Some of the beds were conspicuously empty, presumably because those students had died in the initial accident.
+
+Truthfully, Observer #28 was surprised that this many students had survived to begin with. Perhaps the Brightscale professors were even more competent than they thought—he was aware, at least, that the team at that academy was apparently having trouble.
+
+That was none of his concern, however. He went back to his internal review. Kessi had claimed that Professor Delia was in one of the nearby classrooms, conducting a class as if nothing had happened. This seemed to have enraged Dekora, who charged straight into the classroom to demand answers...
+
+Observer #28 was briefly distracted by the sight of the classroom. There were multiple professors in there, for one thing, and while the buzzing in his head had killed most of his desire, he couldn't help but notice that all of them were abnormally attractive. Had they always been that way?
+
+He couldn't really dwell on it, because that was the point at which things had started going wrong.
+
+Dekora's sudden declaration that the professor was supposed to kill her students, for one thing. The explosive rage that seemed to overcome her as she went on the offensive with a [Nova Blast], of all things. That was not a spell she was authorized to cast on school grounds. Not only would it immediately expose her as an archmage, it would destroy half the school with it.
+
+Except it hadn't. The spell was far weaker than it should have been, for some reason. Observer #28 frowned. Was she weakening as an archmage? That seemed unlikely. An archmage did not just lose their power.
+
+Not most of the time, anyway. There were exceptions. Infernal deals, for instance, could grant an archmage accelerated growth but often at great cost. Had Dekora accepted such a deal? That seemed impossible—he'd been watching her for the past two years, and such a deal often left marks that could be identified via the scrying spells he used...
+
+Observer #28 frowned and marked it down as a possibility, just in case. Then he went back to observing, though there wasn't much to observe. For some reason, Dekora was running in circles down the academy halls, dodging first- and second-tier spells like they were death spells targeting her. She seemed panicked, near hysterical.
+
+A small part of him, beneath the buzzing of the Broodmother, was tempted to laugh. He didn't, of course. Such a thing would have been treason.
+
+But never in his life would he have imagined he would watch Dekora getting her ass kicked by a bunch of first year academy students, Haelforge or not. After all the atrocities he'd watched her commit over the past two years, a small part of him couldn't help but feel the smallest twinge of satisfaction.
+
+His head buzzed again, distinctly uncomfortable, and Observer #28 went back to work. There was more he still had to do, after all. He carefully cast another array of spells, this time a more advanced array designed to analyze and interpret the mana signatures in the Haelforge Academy and especially around Dekora.
+
+This was very likely a result of enemy action—and not action by the Haelforge Academy, considering they despised this type of subterfuge. More likely a sponsor of some sort, perhaps one of the Named or another great power that had decided to interfere with the Red Hunters and their mission for one reason or another. And if that was the case, then identifying which power had involved themselves was now an immediate priority.
+
+The buzzing in his head lessened a bit, and Observer #28 was very careful not to sigh with relief.
+
+Then he straightened as the new scrying array took effect. The Haelforge Academy took on a distinct, dizzying set of colors, each one a representation of one of the many mana aspects that made up the academy's mana signature, but one of them in particular didn't look like it belonged. It lingered around Dekora like a fog that dimmed all the magic around it.
+
+What in the eight infernal realms was that? It didn't look like infernal magic. It didn't look like anything else he recognized, either. Observer #28 frowned and carefully brought his ichorworm closer.
+
+That fog was originating from somewhere. It echoed through the mana of the Haelforge Academy, bouncing around in a way that made it difficult to track. Observer #28 tried to follow it, but even the attempt made his head pound and drained his mana much faster than it should have—
+
+—a rough, angry buzzing in his head, and Observer #28 shuddered. The natural resistance any mage had to spending all of their mana suddenly fell slack, and he felt himself expending more and more just to trace the source of this.
+
+Too much. The magic was beginning to eat into his life force.
+
+The Broodmother didn't care.
+
+He gasped, staggering, as his ichorworm finally burst into what appeared to be Professor Delia's office and the drain on his mana core when slack. He ached in a way that felt utterly wrong. Any other mage, he knew, would have been unconscious by now.
+
+But his connection with the Watchful Hive sustained him. He had to continue watching, after all. He had to observe and report.
+
+The contract on Professor Delia's desk pulsed, bleeding red into the world even through his scryer's vision. Even looking at it through the vision made him nauseous—it was like the contract itself was a violation of the world's natural laws. It reminded him vaguely of the Watchful Hive.
+
+Was this another Red Relic? It couldn't be. No one else had access to their relics.
+
+And yet...
+
+It didn't matter. Observer #28's duty was observation, not coming to conclusions. He had been worried before about making the decision to extract Dekora, but it was clear that whatever this was, it was far more important.
+
+The Commander would want to see this memory personally.
+
+Cale was, all in all, pretty satisfied with how things were going. It was always nice when things went exactly according to plan. Some elements of it he couldn't be sure of—the Observers were in no way guaranteed to do as he hoped, though he was hoping Serof's false report would make it through before the mothfolk man was cut out of the network—but that was just the nature of the thing.
+
+Plus the Haelforge professors looked like they were having fun. Professor Delia looked incredibly proud of her students and was letting out the occasional whoop whenever her scrying spell showed her yet another novel combination of battle spells being used to put a literal archmage on the run. She was grinning so hard, in fact, that Cale thought that grin might end up permanently etched onto her stone.
+
+Meanwhile, Professor Trilia seemed to be lost in a world of her own, smiling blissfully as she manipulated a grand array of illusory spells. It was pretty impressive, frankly. When Cale had proposed interfering with the Observers' scrying using an etherite fragment, he hadn't expected one of the Haelforge professors to dabble in illusions as a hobby.
+
+Apparently, "dabble in illusions" in this case meant she was absolutely obsessed with them. Cale didn't bother asking her why, but it didn't escape his notice that every time a professor was introduced as part of one of her illusions they were invariably ridiculously hot.
+
+He coughed, then turned his attention elsewhere. Best not to dwell on Trilia's hobbies. There were more important things to worry about, anyway.
+
+Like Leo. The minotaur wore a complicated sort of expression even as he wove labyrinth magic around Dekora, forcing her to navigate a labyrinth of her own perception. Cale had been least certain about this part of the plan, but Dekora was something of an unknown quantity, and as an archmage, her barriers and defenses were likely to be complex and difficult to bypass.
+
+Fortunately, she was also a minotaur, which meant she had a weakness that had been imposed upon her by one of the Named—Asterion himself. Cale had to shudder when he saw the Impetus descending down on her, moving through her barriers like they weren't even there. And the speed at which it happened...
+
+"Leo, are you sure you're comfortable with this?" Cale asked, watching his apprentice closely.
+
+Leo's shoulders tensed, and he let out a shuddering breath before he answered. "With what they did to Professor Sternkessel, this is kinder than they deserve. You don't have to keep asking me that."
+
+"That's part of why we're doing this, but it's not the only reason," Cale reminded him. "If it ever gets too much for you, we can find another way—"
+
+"It's not," Leo insisted. "I can do this. I'm supposed to get used to my labyrinth mana anyway, aren't I? When else am I going to get the chance to use it like this?"
+
+"Probably in the labyrinth magically tied to our dorm room." Cale answered dryly.
+
+"Cale's just worried about you," Damien spoke up, scratching at the professor's robe he was wearing. It was a little oversized on him, but only because the minor size charm on him had worn off. Cale had personally been delighted to see how well his apprentice managed to play as a falsely corrupted fire god, even if the acting hadn't been necessary, in the end. "I am too. You started looking upset ever since we saw Dekora."
+
+"I—" Leo started before interrupting himself and letting out a frustrated growl. "You two aren't going to let this go, are you?"
+
+"I'm not!" Cale said cheerfully. Damien just shook his head, looking worried for his friend.
+
+"Fine," Leo said. "Fine! It's—it's not the labyrinth magic. Yeah, it's kind of messed up and whatever to do that to her when I've been avoiding it all my life, but I'm not going to feel bad for someone who tried to get a whole class of students killed. If this is the way we gotta do it, then it's the way we gotta do it."
+
+"But?" Damien prompted.
+
+Leo exhaled, dragging a hand down his face. "You're worried because I look like I want her to suffer even more."
+
+Cale shrugged. "I mean, I wouldn't have put it like that, but yes. Not that I have anything against messing with the Red Hunters. I'm the one who came up with this whole plan."
+
+"It looks personal," Damien said quietly.
+
+"It is," Leo muttered. "She has—I didn't notice it before, but she's got—Dammit, this shouldn't be this hard to say."
+
+He took a deep breath. "My family sigil is sewn into her pack. Hand sewn. She casts the way my parents used to teach me to cast. I think they're—they must be teaching her. In the Red Hunters, I mean."
+
+"...Ah." Cale frowned, and Damien went right up to Leo to give him a firm hug. The minotaur stiffened a bit at the contact before forcing himself to relax.
+
+"So yeah," Leo said. "It's not the labyrinth magic that's bothering me, it's just... everything else about her. Everything else she implies. Can we just talk about this later? I don't... I don't want to think about it right now. And we still have to finish dealing with her, then deal with the rest of the Red Hunters, and I can't do that while I'm thinking about this."
+
+Cale glanced at Damien, who nodded. "Sure," he said easily. "Want to hear the rest of the plan instead?"
+
+"Yes," Leo said immediately. "You've been keeping it a secret. Spill. What's this big final part of your plan?"
+
+Cale grinned. "Well, my first hope is that the Observer on duty just assumes Dekora made some kind of infernal deal for power, which would explain why her apparent power drops so much." He inclined his head toward Professor Trilia, who was in the process of performing a fascinating impression of a gasping fish. Presumably, that was part of another illusory spell. "But I'm betting they'll keep chasing because they know there's a—whoops, hold on."
+
+The artifact he was holding had cracked. Cale tossed it into a nearby sack with all the other mana channeling relics he'd been using to share his power with the Haelforge students and professors, then picked up a new one. This was by far the most expensive part of the operation, apparently, but the Haelforge professors hadn't even hesitated when they heard the offer. It wasn't every day you got to practice with virtually no mana limit, after all.
+
+"Anyway," Cale said. "I'm pretty sure they're going to try to figure out the real reason Dekora's all messed up, so they're going to chase the trail we planted."
+
+"Which is?" Leo asked impatiently.
+
+"Well, thanks to Serof, we know about the Red Relics," Cale said, leaning back in his seat and tossing the mana channeler up and down in the air. Delia paused her cheering to give him a mortified look, which he ignored. "And we know whoever's running the Red Hunters has some experience with the Great Realms. You don't forge artifacts using Abyssal power unless you've been around a few of them."
+
+Damien's brow furrowed. "So you're... doing something only someone who has been around the Great Realms will recognize?" he asked hesitantly.
+
+Cale beamed at him. "Exactly! One point for you."
+
+Leo sputtered. "When did you start assigning us points? How many points do I have?"
+
+Cale continued beaming. "In any case," he said. "Here's something interesting about dark lords. You'll want your notebook for this one, Leo."
+
+He waited for Leo to pull out his notebook, then spoke. "A dark lord is an intrinsic fact of any universe that has developed at least one divine power," he said. "They are an ontological reality. A response, if you will, to the divine. Where they exist, they corrupt everything the divines sustain. That might include any holy magic used to keep people alive, and on Utelia, it would include..."
+
+Cale paused, waiting.
+
+"The Gift," Leo said, suddenly straightening. "That's why no one ever comes back from the Corrupted Lands. The Gift doesn't work there?"
+
+"Probably! Not like I've been there to check. But you've got the gist of it." Cale tapped his fingers briefly on the mana channeler, thinking. "That's not really the important bit, but I figured you might want to be aware in case you ever end up there. The important bit is that dark lords as a whole have access to certain types of magic no other mage is supposed to be able to cast. It comes with the whole ontological opposition thing. If you haven't been to more than one Great Realm, it would probably be difficult to recognize as something specific to a dark lord, but if you have?"
+
+Cale smirked, then tossed the mana channeler straight at Leo, who yelped and tried to catch it, nearly breaking it in the process. "It would stick out like a sore thumb," he finished.
+
+"Don't just throw fragile expensive artifacts at me!" Leo said, looking like he'd just experienced a heart attack. He deposited it reverently back into Cale's hands. "And are you saying you're setting the Red Hunters up against the dark lord? Because I can't decide if I should be impressed or worried."
+
+Damien, for his part, raised a hand. "Also, how do you even know how to do dark lord magic?"
+
+"Stop raising your hand for questions!" Cale said, exasperated. "And because I've been one, obviously."
+
+There was complete silence. Damien and Leo both stared at him.
+
+"What? I've been around!" Cale folded his arms over his chest defensively. "It's not like all dark lords are evil, you know."

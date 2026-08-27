@@ -1,0 +1,63 @@
+---
+id: 14d264e6-4533-570c-8625-01759a499bd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69: Infernal Machine"
+slug: 0109-chapter-69-infernal-machine
+partOf: labyrinth-of-the-mad-god
+position: 109
+ownLength: 1441
+unit: words
+publishedAt: 2024-12-25
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1974813/chapter-69-infernal-machine"
+royalRoadId: "1974813"
+---
+
+Rita only laughed and refused to elaborate further. It was clear by this point that his mentor was testing his resolve, so he didn’t complain or ask any questions, which earned him a nod of respect. She led Nick over to a strange machine with a screen on one side and a bunch of crystals sticking out the other. Then she had him take off his boots and strapped him into a harness hanging from the top.
+
+“It’s programmed to provide instruction as well as corrective feedback. Scream if you can’t take it anymore.” She let loose a bloodthirsty chuckle at his expression and then muttered. “If you’re still conscious.”
+
+After reaching the end of that rather unsettling introduction, Rita turned to face the training machine. She fiddled with a knob mounted next to the display and adjusted a few settings. Then she flipped a switch and sauntered out of the room with a parting wave.
+
+Nick was mystified as to what was happening for the next few minutes. Everything became clear when the device came to life. He felt the straps of his harness draw tight as fans mounted to the base began blowing. A few seconds later, a voice addressed him, and his training began.
+
+“Welcome, student of the blade. This machine has been designed to teach you the basics of body mechanics. By the end of the program, you will be well on your way to developing a true combat stance. It will also educate you in the fundamentals of footwork. The first stage will be conducted without a weapon. All other stages will require you to have a sword in hand.” This is honestly pretty cool. I wish I could use it for all my skills.
+
+At this point, an image appeared on the screen. It gave Nick a visual aid to follow, along with the verbal instructions. “In a neutral sword fighting stance, your feet should be set shoulder-width apart. Place one foot in front of the other with your knees bent. If you visualize standing in a square, your front foot should be in one corner with your toes pointing forward. Place your back foot in the opposite corner with your toes pointing outward, and your heel lifted slightly. Your back should be erect, with your weight balanced between your feet, and your body lowered over your center of gravity.”
+
+Nick shifted his feet as he listened, trying to match the picture on the display. By now, he was growing excited, eager to take his first true steps on the path of the swordsman.
+
+“When your stance is solid, a soft hum will emanate from this device. When you deviate from this stance, the humming will stop, and corrective feedback will be provided. From time to time, you will be instructed to reverse your stance by placing your feet in the opposite orientation. Once every hour, a five-minute break period will be permitted. Your feet are already in the correct position. Deepen your stance and adjust your center of gravity and we will begin our first session.”
+
+This doesn’t sound as bad as Rita made it seem. All of that was perfectly clear and it makes intuitive sense. It’s just a refined version of what I was already doing. Nick pretended that he was holding his sword and then shifted his stance, starting with his right foot in front.
+
+He had to make a few small adjustments and sink down deeper before the device began to hum. For the first ten minutes, he was able to hold perfectly still, thanks to the incredible power contained within his System-forged body. But then his center of gravity shifted forward as he leaned a little too far. The humming cut off abruptly and his training entered a new, far less relaxing phase.
+
+It was at this point that Nick learned the nature of the corrective feedback that the device provided. Instead of simply explaining what he’d done wrong, it began shocking the ever-living shit out of him. Providing a fresh jolt every time his concentration waned, or he made a mistake. Kind of like a demonic opposite of how his System-granted skills functioned. He managed to hold out for another hour, only getting shocked twice more in the process, before his legs began to ache and his true ordeal began.
+
+Around this point, the machine started calling out stance changes, shocking him if he moved too slowly, too quickly, or lost his balance in the process. It didn’t stop until he corrected himself and it began to hum once more. He soon decided that Rita was right after all. This was an awful, agonizing endurance trial. It felt more like a torture session than a genuine form of training.
+
+By the second hour, both his concentration and his body were having trouble keeping up. Nick found himself getting shocked every few minutes. He had to grind his teeth together to keep himself from calling out for help. He was determined to get through this and come out the other side, no matter how much it hurt along the way. In addition to his sword skill, his pride was on the line.
+
+By the third hour, he had entered a trancelike state, his world reduced to the feeling of his weight settling over his legs. The straightness of his back and the balance of his hips. The texture of the floor beneath his toes. The hum and shock had become his constant companions, one transitioning into the next as he fought to maintain his stance.
+
+Although it hurt like hell, he was starting to appreciate the pain. Nick had realized that every time he got zapped, a weakness had appeared within the mechanics of his body. A chance for another blade to come sliding into his flesh the moment that a hole appeared within his guard. In a battle against a skilled opponent, each shock represented a killing blow, where a single mistake could easily be his last.
+
+Within his mind, this wasn’t just training anymore. It was a true battle. While his errors wouldn’t be the end of him here and now, they represented critical weaknesses that would seal his fate if he couldn’t overcome them before he left this strange world behind.
+
+By the time that the fourth hour began, Nick noticed that he wasn’t getting shocked nearly as often. Although his legs throbbed and his back ached, his stance was solid, and he was able to change his footwork without messing up nearly as often.
+
+While the training still demanded most of his attention, he could spare a moment now and again to imagine how it would feel to do this with his sword in hand, facing off against an enemy that was determined to claim his life.
+
+At the end of the hour, Rita came walking back through the door to the workshop, triggering a visceral wave of relief across his tortured tissue. Nick forced himself not to smile or groan, refusing to acknowledge how difficult the ordeal had been as she flipped the switch and helped him out of the harness. He almost fell over when he tried to walk, but Rita caught him by the shoulder, handing him another flask of juice as she led him out of the workshop.
+
+He was weak and shaking but filled with satisfaction that he had done it. The machine hadn’t broken his spirit, and he’d learned a lot during the torturous session. He was too worn out to talk, so he just listened as his mentor offered some encouragement.
+
+“Easy does it. Take it slow, just one step at a time. Well done, Nick. I’m impressed. Another thirty hours of this and you’ll have the basics seeped into your bones. Past that point, assuming a proper stance will come as naturally as breathing, although this is just the beginning of your education. Of course, it will be a great deal harder holding the sword at the same time, much less swinging it around, but we’ll save that challenge for tomorrow. Let’s get you cleaned up and then it’s time for dinner.”
+
+He was too tired to do anything but mutter in response, which earned him another chuckle as they made their way outside. He pulled up his profile along the way, thrilled to see that his training was already paying off.
+
+Through use, you have improved the following skill:
+
+Sword has increased from [14] to [16].
+
+Nick was treated to the jaw-dropping sight of an alien sunset over the Titan’s Prairie, ready to sleep like the dead and resume his training bright and early tomorrow morning.

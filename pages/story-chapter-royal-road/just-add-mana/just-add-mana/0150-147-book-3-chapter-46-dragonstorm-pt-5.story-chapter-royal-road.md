@@ -1,0 +1,175 @@
+---
+id: 5cd7e846-d113-53a5-b30b-23ff7c9f0049
+page-type-slug: story-chapter-royal-road
+title: "147 — Book 3, Chapter 46 — Dragonstorm, Pt 5"
+slug: 0150-147-book-3-chapter-46-dragonstorm-pt-5
+partOf: just-add-mana
+position: 150
+ownLength: 3194
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3524149/147-book-3-chapter-46-dragonstorm-pt-5"
+royalRoadId: "3524149"
+---
+
+Labyrinth magic worked beautifully well with environmental alchemy, it turned out. Leo had learned to love and appreciate his magic, but working together with Instructor Katerina made it clear that he hadn't even scratched the surface of its limitations. A labyrinth mage was a master of the environment, first and foremost, and for the first time he thought he actually understood what that meant.
+
+The problem with environmental alchemy was that it was rarely practical for real-time magical combat. It excelled mostly at area-of-effect enchantments that were the rough equivalent of a modern-era ward, and environmental alchemists were typically hired to alter various places to better suit a caster's requirements. That wasn't to say they couldn't be used offensively in traps, for example, but it was significantly harder to use them in that way.
+
+Leo's labyrinth magic solved that problem quite handily, it turned out. His newest spell in particular was the cornerstone of their strategy. He'd been a little worried about [Asterion's Gaze] working properly in this world, admittedly, especially since Syphus had indicated it had lost its connection with Sisyphus... but the spell seemed to function just as well as ever, so it was probably nothing to worry about.
+
+"This is a very good spell!" Katerina praised. "Very efficient. Excellent for alchemy, yes? If you are looking for a job after this, I am open to hiring assistants!"
+
+She'd said that a few times already, though Leo was still pleased by it each time. He ducked his head, embarrassed.
+
+The two of them were positioned above the library, in a little alcove that Katerina dug into the ceiling using what a spell she'd called a Minor Dwelling. Leo contributed with [Mazelike Concealment], a relatively simple obfuscation spell that made it so no passing glance would spot them. Instead, any potential observer had to navigate a perceptual labyrinth to even see that they were there.
+
+That combination both kept them hidden and gave Leo a vantage point over every shelf and aisle, allowing [Asterion's Gaze] to reshape almost the entire library at a whim. In combination with the symbolic anchors that Katerina had created and strategically planted in a variety of different shelves, they had near complete control of the library and its environment. All Leo had to do was move the anchors around at Katerina's direction.
+
+It sounded simple enough, but there was something here, he knew. Something he needed to learn if he was going to be a mage and keep up with the others. The true strength of a labyrinth mage was their mastery of the world around them, and Katerina had that in spades.
+
+She had an uncanny awareness of what each dragonshade was and how to target their weaknesses. They were uniquely vulnerable to this sort of magic, she said—every dragonshade had an associated elemental type, which in turn defined an opposing elemental weakness. One simply had to determine what that was and adjust the environment to account for it.
+
+And she was a master at doing this. If Leo could pick up even a small amount of it and incorporate it into his magic, it would change the game entirely.
+
+He watched her closely. It took Katerina moments to dissect the state of the entire library at once and decide which section needed what effect. The shades in the firestone aisle were weak to lightning, she said, dictating the anchors he needed to move to create a static storm in the area. The poetry corner was filled with sound-oriented dragonshades and needed an effect that would dampen all sound. The dragonshade butting its head repeatedly into the shelf dedicated to alchemical baking...
+
+Well, that one Katerina said they didn't need to concern themselves with. Something about how that particular shelf was cursed. Leo knew enough about magical baking by now not to question it.
+
+He knew, though, that this was what he needed to be able to do with his magic. Cale had spoken before of legendary labyrinth mages, how battles with them supposedly grew more dangerous the longer they fought; how the worst thing one could do with a labyrinth mage was to let them prolong the fight, because the longer the fight went, the more likely it was that they would win.
+
+Leo hadn't understood it at the time, but watching Katerina now was like having his eyes opened to all the possibilities of his magic. This was what he needed—he needed this adaptivity, this awareness of everything within his domain.
+
+Of course, being Leo, the fact that he sensed this as a learning opportunity meant that his next step was to retrieve his notebook and start vigorously taking notes.
+
+Katerina laughed when she noticed. "You are taking notes? Now? You must be a very dedicated apprentice!" she teased. "What is so important that you must take notes now, hm?"
+
+"I'm trying to figure out how you do it," Leo said, gesturing down at the library. "Figure out so much about the dragonshades, I mean. I can't even tell what elemental type they are with my mana sense. They feel like they're all made of blood and storm mana."
+
+Katerina clicked her tongue, amused. "I do not use my mana sense to determine what they are, silly boy," she said. "I know my history, you see? I read many books on dragons when I was a little girl! People laughed at me, but they did not understand. If you want to use the world against your enemies, you must understand the world and your enemies."
+
+"But dragons weren't always your enemies, were they?" Leo asked, puzzled.
+
+"They are big and strong!" Katerina grinned at him. "Not all enemies are enemies you hate, yes? Sometimes they are just people you wish to spar with. But all knowledge is useful knowledge, anyway. I do not discriminate on what I learn."
+
+Leo nodded slowly. "What are you using, then, if not your mana sense?"
+
+Katerina snorted. "Okay, I will teach you." She pointed at a new dragonshade crawling its way through the library's western entrance. "You see this dragonshade, yes? What do you notice about it?"
+
+"Uh..." Leo blinked. "It's an evil blood monster?"
+
+"No, no," Katerina said. "You are looking, but you are not seeing. What is a dragonshade? It is a reflection of a real dragon! So they have patterns, much like the real dragons. This one is limping. Do you see it favoring its right leg? And there is a tiny scar on its arm! And I remember—ah, there is a great spellcaster who was like this once! A wind dragon!"
+
+Leo blinked. She'd noticed all of that? And she was doing that for every dragonshade that got into the library, all at once? He squinted at it, watching carefully, but eventually he shook his head. "I can't even tell it's limping," he admitted.
+
+"Then you need glasses!" Katerina declared, reaching up to rap at one of his horns. "You cannot just look at them! You must see what is underneath."
+
+Oh. Katerina had a point there, though probably not the one she thought she was making. Leo fished his glasses sheepishly out of his satchel. "I, uh, may have forgotten about them," he said. "I usually don't wear them for battle. They kind of get in the way? My vision isn't that bad."
+
+Katerina stared at him. "...Put on glasses, silly boy."
+
+"Right." Leo put them on, embarrassed.
+
+"Now look again," she told him.
+
+He looked. He tried to do what Katerina said—to see the dragonshade instead of just looking at it, whatever that meant.
+
+To his surprise, it worked. He could see the way it was limping now. It strutted about with the same confident arrogance all the other dragonshades did, but it was putting a little more weight on its left foot, supporting itself by putting a hand on the shelves a little more than the others did.
+
+They were reflections of something real, Katerina had said. That meant they weren't just monsters. They behaved like them, perhaps, but they adopted some of the behaviors and mannerisms from their counterparts. Katerina saw and exploited those mannerisms, she was just doing it all at once.
+
+And now that he thought about it, even monsters would have those mannerisms, wouldn't they? He'd been going about this all wrong, perhaps. Maybe if he practiced a little more with this... Leo doubted he was going to get it immediately, but he was starting to understand how Katerina did it.
+
+"You see it," Katerina said, satisfied. "Very good! Now we adjust for it. This shade is stronger. We will need to do a trick, yes? Wind shade, gravity anchor. You have the mana for it?"
+
+Leo nodded. "I'm not running out anytime soon."
+
+And even if he did, he had managed to produce a full four drops of palewater with some concentrated work. He'd been the first to figure it out, after all, and he'd been running the palewater circulation ever since. It was a good emergency button, if they ran into something dangerous.
+
+He did as Katerina asked. The "gravity" formation was familiar enough to him that she didn't need to direct him on the specifics of it now; it was a combination of the symbolic anchors for presence, attraction, binding, and blood.
+
+The last of those was strange, but it was a component of every environmental formation they'd used thus far. According to Katerina, it ensured the resulting environmental brew targeted only the dragonshades. Without it, several of the effects they'd used thus far would have caused the shelves to collapse, liquify, shatter, or otherwise destroy them enough to take away his ability to manipulate them at will.
+
+On their own, especially since they had to give up one of the slots to make sure it was a targeted effect, those four anchors were only enough to double the effective gravity within its range of effect. This, however, was when Katerina's genius came into play: as soon as she understood what he could do, she'd gotten this gleam in her eyes.
+
+"I have always wanted to try this!" she'd told him. "Come! We must set this up immediately."
+
+Leo had to admit, he'd been both terrified and slightly enraptured by the wild delight in her eyes when she said those words.
+
+The trick of it was something called layering.
+
+Traditional environmental alchemy allowed for only one effect to be active at a time. A new set of symbolic anchors could not enclose an old one—any anchor present within their bounds would disrupt the alchemical reaction. It was theoretically possible to place a new set of anchors within the bounds of an existing one, thus multiplying the effect, but there was a problem with that.
+
+Another rule of environmental alchemy stated that one could not establish a second symbolic boundary if the alchemist was already part of the first. Since the anchors for the second boundary had to be physically placed after the first boundary was established, Katerina had been unable to test this idea, though she'd been in the process of testing workarounds.
+
+Fortunately, [Asterion's Gaze] bypassed the need for any workaround. Once the first symbolic boundary was established, Leo could simply manipulate the labyrinth to move the second set of anchors into place, then the third. Katerina activated each one with a pulse of precise power directed at the center each time. She'd chosen their hideout with care for exactly this reason—it was just far enough to be outside the boundary but close enough for her to activate them.
+
+The new dragonshade staggered when gravity doubled, then fell to a knee when it became four times as strong. It collapsed with a short cry when it grew eight times as strong.
+
+At sixteen, it grew silent. The blood-silhouette wavered at the edges, then melted into the already-thick sludge on the floor.
+
+Leo shuddered and looked away, his stomach queasy. Katerina gave him a sympathetic pat on the shoulder. "Is fine," she said. "I will look. You just move the anchors, yes?"
+
+"Right," Leo said weakly.
+
+Wind dragons were especially vulnerable to gravity, as he'd learned. Earth dragons were the opposite—one earth-aligned dragonshade stepped into the symbolic boundary before he could deactivate it, and he watched in horror as it began to grow, thick muscle and plating sprouting in response.
+
+"Ach," Katerina said, clicking her tongue. "Switch, quick! Vacuum now. Anchors for freedom, emptiness, breath, and blood."
+
+He followed her instructions, and this time, once the effect was in place, he could almost see the established symbolic boundary as the air thinned out beneath them. The earth dragonshade thrashed, trying to escape, but with the enormous bulk it had grown it could do nothing more than throw itself about, crashing haphazardly into the shelves.
+
+Before long, it too stopped moving, and once again Leo looked away, opting to practice the whole idea of seeing with the other dragonshades instead. He didn't have the knowledge Katerina did, but that didn't mean there was nothing he could learn.
+
+The shades just outside the northern corner weren't entering the library yet, for example. They were cautious after the deaths of their fellows, and they seemed a little more temperamental than the ones he'd seen so far, jostling against one another to try to get someone else to go first. He could take advantage of that, couldn't he? Even without knowing their specific weakness, if he just narrowed down the corridors ahead of them and forced them to head down corridors that were clearly dangerous—
+
+Leo paused, frowning, as something else made itself known to him. A prickling sensation on the edge of his awareness that he might have missed had he not been trying to pay working on his perception. He felt a small shudder of dread echo up his spine. Was there something watching them? It felt almost like when Asterion had looked upon him, except...
+
+There. There was a dragonshade standing just outside the south entrance, and unlike all the others, it was staring right up at him.
+
+Leo's mouth turned dry. He knew almost immediately that this one was more dangerous than all the others—maybe all the others combined, even. It had broken through [Mazelike Concealment], and the way it was watching them told him it was intelligent in a way the others weren't.
+
+How long had it been standing there, watching them? Neither of them had noticed it. That rang alarm bells all on its own.
+
+"Katerina," Leo whispered. She glanced over, and if Leo hadn't thought they were in danger before, he would have from her reaction alone: she jolted and hissed out a breath, her eyes narrowing.
+
+"Shit," she said.
+
+"I'm assuming that's bad?" Leo asked weakly.
+
+"Dragonlord," Katerina said. "Not a dragonshade. He sees us?"
+
+Below them, the dragonlord lifted a hand and gave them a jaunty little wave. Something about the gesture sent a chill down Leo's spine—it looked like something Cale would do.
+
+"Such carnage, wrought by only two!" he called out. "'Tis a pity one of you is human, but not to worry. I, the dragonlord Ikarad, shall simply kill you both!"
+
+Thorn of the First Stalk, Headmaster Adam, and Professor Graystalk all stood together in the main hallway leading out of the University's foyer.
+
+They had killed the two dragonlords in front of them a total of thirteen times each. Thorn had counted. Neither dragonlord would stay down, and it was beginning to wear on them. Graystalk and Adam were both low on mana and had taken on multiple curses each; they'd dispelled them, of course, but not before those curses had done some damage.
+
+Thorn himself hadn't taken any hits yet, but he was beginning to run low on wyldfire, and that was never a good sign.
+
+Neither was the fact that Adam didn't seem to know what was going on. This was new, he said. Dragonlords from past storms didn't get up again once they were beaten, but these ones were treating death almost like it was a game. It pissed Thorn off, if he was being honest, but then most things did these days.
+
+Except Cale now, apparently, which was a fact that also pissed him off.
+
+It took two more kills before Thorn finally figured it out.
+
+They had two cores. One was the ancient-era mana core, the one Cale had pointed out these humans had, and the other seemed like a prototype for the modern-era mana core. The old mana core acted as a link to the Dragonstorm, allowing them to regenerate from virtually any injury, and the new one gave them resistance to the symbolic storm that was suppressing all these ancient-era mages.
+
+New problem: he needed to get this information to his future tournament team so none of them got themselves killed.
+
+Thorn could feel the heart of the University beating in time with the Dragonstorm, trying to fight against it. It was an incredible thing, that heart: it felt similar to the Everroot that guarded his own home. Like the Everroot, it had tendrils that stretched out through the entirety of its domain, supporting all those that lived within it. Like the Everroot, it felt true pain when any of its charges were hurt.
+
+That was what it felt now: pain. Nothing but pain, even as it tried desperately to keep the students and instructors safe. Thorn didn't need to scry to know that it was failing. Whatever the Dragonstorm had changed about the world when the barrier fell, it had also somehow suppressed the heart. It could do nothing now but watch, no matter how much it tried.
+
+And it was trying. It was trying so terribly hard. He could sense it the way he could sense most forms of plantlife, and this one was continually attempting to grow back into the University and hurting itself in the process. The blood of the Dragonstorm was caustic to it, and ate away at more of its branches every time it attempted to grow them in.
+
+Yet for every moment it didn't, more were lost. That, too, Thorn could feel through its branches. Each time a human died, each time a human was even hurt, he could feel a different part of the tree crying out, trying to shield them. It wanted badly to shelter them, to do what it thought a tree was meant to do.
+
+Thorn could help it along, just a little bit. It couldn't pierce the Dragonstorm on its own, but his magic was less vulnerable to the symbolic chaos it enforced. He could imbue its branches with his power, grant it some measure of protection and ask for its aid in this fight.
+
+Hello, Thorn spoke with an uncharacteristic gentleness to the University's symbiotic heart. I know you're in pain, but I need your help. If I lend you some of my power, will you help me send a message?
+
+From the heart of the University, Thorn felt a weak pulse of assent.
+
+So he knelt, felt for the roots threaded throughout its walls, and offered to it a small ember of his dwindling wyldfire.

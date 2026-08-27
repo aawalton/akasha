@@ -1,0 +1,67 @@
+---
+id: b04af7b7-8cd4-54a6-8751-87035baae477
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63: Rita"
+slug: 0102-chapter-63-rita
+partOf: labyrinth-of-the-mad-god
+position: 102
+ownLength: 1472
+unit: words
+publishedAt: 2024-12-11
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1951788/chapter-63-rita"
+royalRoadId: "1951788"
+---
+
+“Don’t move.” The woman reached for a slender silver sheath attached to her belt. Half a heartbeat later, she drew her sword and struck in a single motion. The blade was back at her hip before Nick even registered the meaning of her words.
+
+Before he could ask what had just happened, a rattling clack resounded from the ground around his feet. The clatter of hundreds of stones being sliced in half, destroying the matrix binding the magic they contained without triggering the spells in the process.
+
+“There.” She nodded in satisfaction. “It’s safe to step away from the edge if you walk straight toward me. Hurry now, before a rax senses the gap in the barrier and snatches you up. I won’t be able to save you if one of the big bastards sinks its claws into you.”
+
+Nick realized that he had a mountain of questions as he hurried to follow her suggestion. He decided to start with the most worrisome. “What’s a rax?”
+
+“You saw those crazy big, hoofed beasts down there on the Titan’s Prairie?” Nick nodded. “Rax are what hunt them for sport. Don’t worry.” She laughed at the look of terror on his face. “A space that size is only wide enough for their paws, and our little friends here will patch the hole I carved promptly.”
+
+The woman gestured to the cute, flying creatures that Nick had spotted earlier. Sure enough, the foxlike beasts were gliding over to the broken stones, chirping in disapproval at what they found.
+
+“Wait? I almost got killed by a bunch of chibi flying foxes?” He found that he was suddenly less thrilled to be standing upon a brand-new world. He glared as one swept by his head, doing a barrel roll along the way.
+
+“Don’t hold it against them. The little darlings are just doing their job. They’re the only reason that civilization can exist out here at all. Without their air shields protecting the highlands, the megafauna would drive us off this world within a fortnight. Besides, you weren’t supposed to be in any danger.” She looked embarrassed at that point.
+
+“I was ready to step in if one of those spells was set to cripple or kill you. Those wind bullets are fast, but not nearly as fast as Reaver.” The woman patted the sword on her hip. “I didn’t expect you to speed up by a factor of ten and then throw yourself over the edge like that. I’m sorry, it was my mistake. My name is Rita, by the way.” She offered Nick a low bow. “I’ll be in charge of your training for the duration of your stay.”
+
+“Nick.” He bowed in turn, groaning at the fresh bruises coating his ribs and the throbbing pain radiating from the tip of his right ear. “It’s a pleasure to make your acquaintance.” By now, he was coming down from his close brush with death, although there was still plenty of adrenaline singing in his bloodstream.
+
+He wanted to start asking questions and use his flask right away. But he decided to wait until he understood exactly what was happening first. To make the best first impression possible on the person who would be overseeing his training for the next month. While his body hurt, it wasn’t anything that would prevent him from walking a few miles.
+
+Rita seemed impressed that Nick didn’t voice a complaint or resent her after the unfortunate event. He just followed as she turned and started walking along the rocky heights. While they crossed the plateau, he took in the presence of the woman who would be his mentor in the blade for the duration of his stay on this world.
+
+They traveled in a companionable silence for another few minutes before she looked at him and said, “That was a slick move with the shield, although I can tell that you haven’t been using it for long. On a less promising note, your ability to sense mana is absolutely atrocious. Why is someone your age stumbling about like they’ve never used magic before?”
+
+“That’s because as of a few weeks ago, I hadn’t.” Since Rita seemed curious to learn more, Nick went on to explain that the System had altered his species’ geneline during integration, granting humanity the capacity to channel magical energy. That he had obtained his first spell and awakened his core several weeks after that, during his tutorial on the Searing Isle. She nodded along with his words before chiming in.
+
+“A planet with no magic was able to reach level one and attract the attention of a host of major deities. Weird, but I suppose that it explains why your energetic senses are so underdeveloped. I’d like to help you out with that problem, but the System has strictly limited our interaction to basic sword training. Unfortunately, I can’t coach you on any other skills, abilities, or innate powers of perception. The kind, for example, which are best trained by meditating in the presence of a variety of powerful elemental emissions.”
+
+For a moment, Nick was thrown by the apparent non sequitur. But then it hit him. I think Rita just offered me a roundabout hint for honing my magical perception.
+
+In that instant, he forgave her for letting him get thrown off the mesa by the magical traps. While Nick came close to dying on a disturbingly regular basis, being able to sense magic clearly would greatly increase his odds of survival over the long term. Humanity was starting from scratch while learning how to use the new natural force known as mana. Even a minor tip from someone knowledgeable represented an invaluable step forward.
+
+“Besides,” Rita moved on like nothing significant had happened. “We barely have enough time to teach you the fundamentals of the blade as it is.”
+
+By this time, they were approaching a ranch-style house built on the top of the mesa. A structure that had been invisible to Nick’s eyes until that moment, shielded from his sight by some manner of magic beyond his comprehension.
+
+He ran his gaze across the residence and adjoining structure, taking it all in. Two large buildings stood in the middle of a fenced off area, surrounded by crops growing in long wooden boxes filled with orange soil. There were several species of domesticated animals, each residing in their own pen. Although their coloring and features were different, the woolly ones reminded him of sheep, and the ones with udders looked a bit like dairy cows.
+
+Taken together, it looked a great deal like a ranch house from old Earth, although the architecture was unlike anything he’d seen before. But what he saw next was something else entirely. Rita led Nick through the front gate and toward one of the buildings. Both were decorated by a series of hand-carved statues, and the one that appeared to be her residence had a pair of rocking chairs on the front porch.
+
+However, it wasn’t the house that she stopped in front of, but the sprawling structure running alongside it. It looked a bit like a barn from the outside, with a thick chimney and a series of pipes sticking through the roof.
+
+“Welcome to my manufactory.” She offered a proud grin while gesturing toward the sprawling structure. “It’s a combination of a forge, workshop, and training grounds.” Rita went on to explain that the building was devoted to the creation, evaluation, and use of melee weapons.
+
+Over the course of her introduction, Nick learned that in addition to being a blademaster, his new instructor was a gifted blacksmith. The prospect of learning from her was growing more exciting by the word. Maybe she can teach me more about the nature of my sword, in addition to coaching me in its use.
+
+A few minutes later, she came to the end of her explanation, then turned to look at him with an appraising stare. “Before we get started, show me what you’ve been working with. I don’t see a sword or scabbard attached to your kit. But you wouldn’t have been sent here if you didn’t have a blade on you somewhere.”
+
+Eager to learn what she would make of his sword, Nick set down his pack and opened the flap. She raised one eyebrow as he removed the weapon from his dimensional storage device. He handed it to Rita, offering her the hilt by the back of the blade.
+
+Her eyes lit up the moment that she saw it; a whistle of appreciation passing through her dusty blue lips. “Well now, that’s a surprise and a half. It’s not every day I get handed a sword that I can’t identify at a glance. And it’s been decades since I met a blade with such a story to tell.”

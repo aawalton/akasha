@@ -1,0 +1,137 @@
+---
+id: abd4f89a-58aa-5b40-ad5e-221061ede8c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66: Trial of Mastery"
+slug: 0248-chapter-66-trial-of-mastery
+partOf: labyrinth-of-the-mad-god
+position: 248
+ownLength: 2582
+unit: words
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2761289/chapter-66-trial-of-mastery"
+royalRoadId: "2761289"
+---
+
+Nick spent the rest of the day training, pushing himself until sweat soaked his shirt and his limbs were trembling.
+
+He quaffed his Flask of Restoration to take the edge off his exhaustion and went to bed early, sleeping for over eight hours straight for the first time since returning to Earth. His dreams were filled with the ringing chime of blade against blade as his subconscious picked up where his practice left off. He woke up feeling remarkably refreshed, ready to face the trial of mastery head-on.
+
+He took a shower at the bath house, ate breakfast in the mess hall, and then sat down on one of the benches on top of the hollow mesa, gazing across the badlands while reviewing a range of plans. I have no idea what’s going to happen, but I’m only going to get one shot at this and can’t afford to wait six months to take the test again.
+
+After stretching out and working his katas, Nick had prepared himself as well as he possibly could. At long last, he was ready to attempt his first trial of mastery. That left him with one final problem to solve. How do I start the test?
+
+He tried voicing his request to the System, but nothing happened. However, when he pulled up his profile, he noticed a small symbol next to his Sword skill. When he focused on it, a window popped open that reviewed the details of the test along with some information he hadn’t seen before.
+
+Trials of Mastery
+
+After obtaining 25 skill points, a test must be passed before the skill can progress further. These trials will take place in an alternate dimension. No time will pass in the outside world, no matter how long they last subjectively.
+
+There are four ranks each skill can achieve: Journeyman (26-50), Adept (51-75), Master (76-100), and Grandmaster (100+).
+
+After advancing to a new rank, additional skill points become harder to obtain but will provide enhanced feedback per point. Additionally, passing each trial of mastery provides a bonus that is unique to each skill.
+
+Warning: The trials of mastery should not be attempted without adequate preparation. They are designed to determine whether you have fully integrated the lessons your skills have taught you and you must wait six months to try again after a failed attempt.
+
+Note: These trials are intended to evaluate your fundamental insight into the skill in question. As such, the feedback provided by your skills will not be available during the trial. In most cases, you will not be able to activate your abilities, traits, or benefit from the modifications provided by your equipment. The specifics of a given trial are determined by numerous factors, and their contents may vary considerably from one person to another.
+
+You are qualified to attempt the following trial at this time: Sword (Journeyman).
+
+Would you like to attempt the Sword trial now?
+
+The first part was just a refresher of the information the System had provided earlier, but that last bit was new.
+
+Interesting. The System is evaluating what I’ve learned from using my skills, so not being able to rely on their feedback makes sense. Same with restricting my traits and abilities. Something tells me this test is going to be intense.
+
+As a tingle of anticipation swept through every cell in his body, Nick took a deep breath, rose to his feet, and accepted the prompt, ready to begin his trial of the sword.
+
+Since these tests took place in an alternate dimension, he expected a portal to appear, but that wasn’t what happened. He blinked, and when he opened his eyes, he was standing somewhere else.
+
+The first detail he noticed was his backpack was gone, as were his toolbelt and armor. His sword was still sheathed at his side, but the scabbard had been replaced with a simple leather version that almost reached the ground. The weapon looked the same and weighted the same, but he could tell right away it wasn’t Blightbane—just a blade that was identical to it physically.
+
+When he looked down, he saw that he was wearing a plain white gi, which didn’t seem to be magical in any way. He felt naked without his wand and elixir—not to mention all his other tools and gear—but he didn’t have time to worry about it now.
+
+Nick could sense something strange going on with his energetic core. The mana inside was still there, but there was an obstruction preventing it from flowing into the energetic pathways that powered his abilities, like a clear plastic lid sealing the rim of a cup. When he tried casing Mana Dart, nothing happened, and he couldn’t infuse his weapon with pure mana either.
+
+He had processed these details in less than two seconds, which told him his superhuman Mind was working, as were the benefits provided by his other attributes. When he tried burning a bit of stamina, it worked without issue, and he was able to call upon Arctic Clarity to enhance his focus. However, Size Up didn’t respond at all, and neither did Predatory Domain.
+
+Interesting. It seems like the elements that are directly tied to my style of swordsmanship are still available, minus Force Acceleration. While he evaluated his situation, Nick’s eyes were scanning his environment, seeking anything that would reveal the nature of this challenge or might grant him even the slightest advantage.
+
+He had expected to be attacked right away and was relieved to have been granted a moment to obtain his bearings first. He was standing on the mat of a dojo. The walls were open to the air, and he could see cherry trees blossoming in the distance.
+
+The interior of the building was elegant in its simplicity—surfaces formed from dark wood and paper screens. He found the style to be quite striking, but he would have to contemplate the details later. Because standing at the far end of the mat was none other than Nick himself.
+
+The clone, doppelganger, or whatever the hell it was, was a perfect copy—right down to every last hair on his head. It had been sitting cross-legged with a sword across its knees, but when the clone saw Nick looking its way, it rose to its feet.
+
+It didn’t say a word, but when he drew his sword and assumed his stance, his clone bowed and then flourished its weapon. Intrigued despite the seriousness of the situation, Nick returned the gesture—Arctic Clarity filling his mind with frigid focus.
+
+Then, Nick and his mysterious twin approached each other, and their battle began.
+
+His first swing was a probing strike, trying to get a sense for his opponent without overexposing himself in the process. The clone must have predicted the move, because it countered with a thrust that parried his strike and almost caught him in the shoulder before he leaned out of the way.
+
+He followed up with a flowing series of slashes he’d learned from Rita, and his opponent match him blow for blow. It was clear by this point that the clone, its weapon, and its knowledge were mirrors to his own. Fighting it reminded him of his duels with Kiki the combat doll, since they were both using the School of the Ever-Surging Blade.
+
+This marked the beginning of a ferocious exchange.
+
+His heart pounded and adrenaline flooded his veins as he struggled to remain unbloodied. Without Arctic Clarity, he would have had a hard time maintaining a level head as he engaged an opponent whose ability and attributes matched his own.
+
+They crossed the mat time and time again while pressing each other hard, giving way whenever their opponent countered and regained the upper hand. The first time he took a minor cut, he was worried he had failed the test, but the clone kept on coming. Apparently, this was a fight to the death instead of first blood, and he adjusted his strategy to match.
+
+With his present attributes, Nick had enough endurance to duel for hours. He had enough Toughness that that a few cuts wouldn’t take him out of the fight, though a hit to his vitals could end his life in a flash. The wounds he suffered were painful and would slow him down as the test dragged on, but unless the clone severed an artery or vein, his body would staunch the bleeding before it was an issue.
+
+That being said, if I lose a major blood vessel, tendon, or nerve, it will put me at a severe disadvantage, and I’ll probably fail the trial.
+
+Right now, he seemed destined to lose anyway. It took everything Nick had to hold his own, and he wasn’t dishing out as much damage as he was receiving. As the ringing clang of steel colliding with steel echoed across the dojo, he realized what the problem was.
+
+His clone was perfect copy in all ways but two, and they offered his opponent a considerable advantage. His doppelganger didn’t fear death, and it didn’t care if it failed this test. Thus, pseudo-Nick was able to devote every scrap of its ability to defeating him and held nothing back, willing to take risks that let it capitalize on every opening that presented itself while using his caution against him.
+
+He would have been overwhelmed at this point if it wasn’t for the lessons Ella had taught him. But now that Nick knew how to unleash the predator lurking inside him, he was able to set his hesitation aside—devote every fiber of his being to taking his doppelganger down, risking failure to obtain the possibility of victory.
+
+He countered the clone’s next series of strikes and then took the initiative. He allowed its blade to score a shallow cut along one arm in exchange for piercing his opponent’s leg, following up with a wicked headbutt when it stumbled. He thought he saw it smile as it parried his next thrust, coming at him with a fearsome barrage of blows that almost cost him his head.
+
+Fighting like his life was on the line allowed him to battle pseudo-Nick to a standstill, but it wasn’t good enough. The way things were going, it would be a coin toss as to which of them faltered first. Not only did he refuse to place a critical aspect of his advancement into the fickle hands of fate, he wasn’t sure that winning a battle of attrition would count as passing the test.
+
+Even in the icy grip of Arctic Clarity, bubbles of frustration were rising to the surface of his mind. How am I supposed to defeat a mirror of myself that perfectly copies every aspect of my ability?
+
+That was when he saw the clone raise its sword an inch too high while attempting to parry—a tendency he’d spotted after watching it perform the same maneuver a dozen times or more.
+
+Nick wasn’t quick enough to capitalize on the opening, but that wasn’t a problem. His observation had caused a feral epiphany to blossom in the depths of his adrenaline-saturated brain. An insight that would let him prevail if he didn’t fuck up and die before he was able to utilize it.
+
+This copy is a replica of where I was when the trial began. But that isn’t me anymore. If I want to overcome this test, I must become better than the me of yesterday. The me of an hour ago. Of a single second prior.
+
+In that moment, he understood that this trial was far more than a simple test of his skill—it was an invaluable opportunity to study himself in a way that simply wasn’t possible otherwise. By fighting himself with everything he had, he could experience what it was like to be on the receiving end of his combat techniques, ascertain their weaknesses, and learn to overcome them.
+
+In short, Nick was the best possible instructor in the dynamics of his own ability. Fighting his clone let him spot flaws in his swordsmanship that he would never have noticed otherwise. Now I just need to correct them and take my swordplay to the next level without being slaughtered in the process.
+
+This began one of the most profound learning experiences of his life. He was mentored by his own proficiency. Motivated by the high stakes and the pain of steel slicing into his flesh. He fell into a trancelike state, absorbing the totality of his path as a swordsman from two sides at once while striving to integrate his insights and transcend his limitations.
+
+Nick began to experiment, learning how his swordplay held up in a hundred subtle variations over the course of an endless, sweat-soaked exchange.
+
+Some of his attempts failed and steel pierced his flesh. Others were successful and he was able to land a blow. Slash by slash and dodge by dodge, he sought out the best solution to each problem his clone presented him with, and as their battle raged on, he gradually gained the upper hand.
+
+Even when he could have landed a killing blow, he held back—more interested in milking this experience for every insight it could offer than completing the test itself. Hours, perhaps days later, he finally reached a point where pseudo-Nick had nothing else to teach him.
+
+He faced himself one final time and they both let loose with everything they had.
+
+After a blurringly fast exchange, his copy fell to the ground, bleeding from a slice that cut it all the way down to the bone. He swore he saw a grin on its face as he bowed before the clone shattered into fading fragments of light.
+
+Nick blinked, and when his eyes opened, he was back in the badlands—where no time had passed while he was away.
+
+When he looked at his body, his wounds had vanished, and he realized his exhaustion had faded away. For a second, he was afraid he’d fallen asleep and the whole thing had been a dream, before an update wavered into existence in front of his eyes.
+
+Congratulations, you have completed the Journeyman trial of Sword mastery. Your skill can now advance to 50, at which point you may take the Master-level trial. For reaching the Journeyman stage, you have gained the following bonus:
+
+Blade-Weaver
+
+Wielding a sword requires significantly less stamina. This includes both the natural drain from moving your body and the cost of activating combat arts.
+
+He let out a triumphant cry, getting a few odd looks from the people sitting on the benches nearby. Nick didn’t care. He savored the moment—passing the trial and all the insights he’d obtained along the way.
+
+That was when he realized something interesting. Unlike what Ella had reported, he could remember everything that had happened in crisp clear detail. He had no idea why his experience was different in this regard, but now he could share the contents of his trial with his people. With any luck, it will make these tests just a little easier going forward.
+
+When his update kept on scrolling, his smile grew wider still. It turned out that the knowledge he’d obtained during the test counted toward progressing his skill.
+
+By taking advantage of a rare opportunity, you have improved the following skill:
+
+Sword has increased from [25] to [28].
+
+Nick closed the window, climbed down from the mesa, and walked over to obelisk to meet the planning committee, whistling while savoring the satisfaction of his accomplishment.

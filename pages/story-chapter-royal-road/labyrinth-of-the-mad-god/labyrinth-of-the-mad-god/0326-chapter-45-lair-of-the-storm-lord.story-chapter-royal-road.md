@@ -1,0 +1,117 @@
+---
+id: f4241e45-fa3e-5638-86df-2b345a4ca1c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45: Lair of the Storm Lord"
+slug: 0326-chapter-45-lair-of-the-storm-lord
+partOf: labyrinth-of-the-mad-god
+position: 326
+ownLength: 2797
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3659011/chapter-45-lair-of-the-storm-lord"
+royalRoadId: "3659011"
+---
+
+The party resumed their journey early the next morning.
+
+By the time the rising sun brought color back to the world, Nick knew they were getting close to the dreadbeast’s lair. The drain was worse in this corner of the biome, to the extent that he hadn’t seen another living creature all day. The dread storms grew more frequent as they drew near the epicenter of the phenomenon, forcing the team to scramble for cover every few hours as the day wore on.
+
+It would have been a nightmare to endure if it wasn't for his Storm Chaser trait, and even then, there were several close calls that set his pulse pounding. While none of the green bolts landed close enough to strike him, Nick felt something within him resonating with the energy-devouring electricity—one part legacy from the Crimson Blight, and one part an affinity that was all his own.
+
+Even if he had been hit again, he sensed the missing piece wasn’t contained within the monarch’s magic, and the crystallization of his Concept eluded him. The next time he skywalked above the treetops to survey his surroundings, he caught sight of their destination.
+
+Xuthu had claimed a sprawling castle that covered an entire mountaintop—a perfect vantage point for the dreadbeast to direct its storms and absorb the energy stolen by the lightning bombarding the planet. After reporting what he’d observed, Nick helped Bandit and Kenji climb high enough to inspect the intervening terrain, and the party began an intensive strategy session.
+
+“By this point, I doubt anything living in the dungeon has challenged the dreadbeasts for quite some time,” Kenji said. “Going by what we observed earlier and the details included in the quest’s description, the quarantine zone was designed to contain the monarchs, but the barrier is only a temporary solution. The dreadbeasts have been growing stronger by devouring everything trapped inside, and they are hostile toward one another.
+
+“I think this dynamic is acting like a kodoku pot. Only the meanest, strongest monarch will survive, and by the time they absorb the others, they will be powerful enough to breach that barrier and start draining the entire world. In short, I expect that at this stage, they are focused on destroying each other instead of stalking prey, since their magic is doing the hunting for them.”
+
+“If that’s the case,” Nick replied. “They won’t expect an attack from another source. Unless we reveal our presence, we should be able to sneak into that castle and catch the Storm Lord unaware.”
+
+“There isn’t a lot of cover on that mountainside,” Bandit added. “We need to time our approach so we’re not exposed while the monarch is coming or going. Our best bet is to lay low until Xuthu leaves the castle, then head inside while it’s gone and find a good spot to set an ambush.”
+
+During the dreadbeast war, Bandit had learned that the creatures still needed to sleep, which meant their best chance of assassinating Xuthu was to wait until it was unconscious before making their move.
+
+Fritz was certain the Storm Lord would have some manner of protection in place around its inner sanctum, but with any luck, it would be geared toward detecting its rival monarchs and Nick’s mage sight would let him spot the magic so the party could avoid it. Regardless of the details, they needed to get closer if they wanted to learn more.
+
+With that, all that was left was to wait for Xuthu to leave its lair so they could approach the castle. He knew the monarch was in residence. They could sense the land’s mana being pulled in its direction, and the dread storms arrived every now and then to deposit their stolen energy before surging across the skies once more.
+
+While clean water was available from a nearby river, there wasn’t anything edible in the region, since all the plants and animals were dead. Fortunately, he’d a feeling that would be the case. Nick had spent the last few days filling his pack with edible plants his Foraging skill had identified, along with slabs of monster meat for Lurk.
+
+Even with his pack’s incredible storage capacity, it was only enough feed the towering predator two or three days, but the dino could skip a few meals after gorging herself on their trip through the Emerald Expanse. They passed the time training and refining their plans, speculating on what kind of powers the Storm Lord would employ in battle if their assassination attempt failed to kill it outright.
+
+“I would be astonished if it can’t use those lightning bolts as a direct attack.” Kenji said. “Even if we survive the strikes, they will leave us drained and weakened. Since Nick is immune to them, he’s the only one that can get close enough to land a killing blow, which means the rest of us are on support duty during the fight.”
+
+Nick thought Lurk might object, but after seeing how dangerous the dread lighting was firsthand, the big beast was willing to follow Kenji’s orders. Late on the second day of their stake-out, their patience was rewarded. Size Up released a resounding ping of danger, sending the party scrambling for cover as a massive creature emerged from the gate and began making its way down the mountain.
+
+Soon, it was close enough to discern more details, granting the team their first look at Xuthu the Storm Lord—dreadbeast monarch and threat to all life on this world. Everyone activated their stealth powers and froze in place, observing the lethal being that was skittering down the mountainside as if the sheer cliffs were no more of an obstacle than taking the stairs.
+
+Just like the information packet had revealed, Xuthu looked like a colossal golden scorpion. It had been hard to get a sense of scale from that primer, but the Storm Lord was bulky enough to make an elephant feel insecure about its size. Thick chitin plates covered every inch of its body, which appeared to have been modified to serve as high-grade armor.
+
+Nick analyzed the Tier-2 creature, supplementing his observations with details provided by Size Up. Its exoskeleton was designed to deflect projectiles and distribute the force over a wide area if it took a direct hit. Each of the scorpion’s powerful limbs was bladed along the exterior and featured a retractable spike, which meant they could be used to slash and thrust.
+
+He was certain the dreadbeast’s jaws were fearsome weapons too, but he was more worried about its tree-thick tail and the barbed stinger on the end. The limb was prehensile and looked agile enough to strike anywhere within fifteen feet of the monarch’s position.
+
+As Xuthu drew near, something within him stirred. Something about the way the monarchs used their magic was compatible with his nature and the changes his DNA had undergone after being mutated by the Crimson Blight. He hoped fighting the dreadbeast would solidify his Concept, although his gut was telling him the missing ingredient was something else altogether.
+
+Nick couldn’t get a good sense of the creature’s magic without watching it in action, but one detail was abundantly clear. The Storm Lord’s carapace featured a potent defense against spells and melee attacks. Arcs of dread lightning zipped across the exterior, forming a living lattice of energy-draining magic that would devour anything foolish enough to touch Xuthu.
+
+However, Nick was more worried about what would happen if he tried to use Mana Dart or Piercing Ray. I bet that lightning would consume the mana from my spells before they did much damage. When he checked in with Fritz, the king agreed with his assessment.
+
+“There must be a limit to how fast Xuthu can absorb vital energy, which means it should be possible to overwhelm it, although you’ll be feeding it mana in exchange for some damage. Other than that, I don’t think any of your powers will work other than Sonic Slice, which transfers its force so quickly that the drain shouldn’t be a problem. Bandit’s Shadow Flame should fare a bit better, since he is Tier 2 and his Concept will fight back, but the scorpion’s armor will still reduce the effectiveness of his attacks.”
+
+Soon, Storm Lord disappeared into the distance. Nick had pulled out his spyglass part of the way through, but with his recent upgrade to Enhance Senses, the device no longer made much difference.
+
+When he saw Bandit giving the spyglass a wistful glance, he remembered that the beast had been fascinated by the tool since way back on the Searing Isle, when both of them were scrambling to survive while coming to grips with the dramatic changes to their lives.
+
+“Why don’t you keep it?” Nick handed the spyglass to his friend. “It might come in handy, and it’s a nice memento of the time we spent together during our tutorial.”
+
+“Thanks.” A primate grin lit up the lemur’s face, dispelling the rage that sighting the Storm Lord had evoked. “That means a lot.” Bandit stored the device in his backpack, and the party began climbing the mountainside leading to Xuthu’s lair. Fortunately, the dread storms didn’t draw near now that the creature was away, as the monarch had already stripped this region of vital energy.
+
+It was still a nervous journey. They were worried that the monarch had set traps or left minions guarding its stronghold, like Bandit had encountered while warring with the dreadbeasts on Earth. However, most of his apprehension was due to the looming confrontation itself.
+
+Now that he’d seen the Storm Lord with his own eyes, Nick had no doubts that the dreadbeast was stronger than himself by a considerable margin. Even with the whole party working together, there was no guarantee they would come out on top. Combined with the fact that the monarch could drain everyone except for Nick, he knew that he was in for one of the toughest fights of his life.
+
+On the bright side, they didn’t encounter any lesser dreadbeasts as they scaled the rise and approached the castle.
+
+“I don’t think they have any subordinates due to the barrier,” Bandit said. “With a five-way war going on, the monarchs aren’t willing to let even the slightest bit of power slip through their fingers instead of consuming it themselves.”
+
+“That’s a welcome surprise,” Kenji replied. “While that creature is powerful, I think we have a decent shot of coming out on top if we work together. However, if we blow our chance to ambush the bastard and launch an alpha strike, our odds of survival will dwindle to somewhere between slim and none.”
+
+When they reached the summit, the party hid behind some boulders while Nick and Fritz scouted the area. The king used the hovering PDA to circle the edifice, searching for any unwelcome surprises. Meanwhile, Nick used his mage sight to scan for magical protections. At first, he didn’t sense anything, but then he noticed a flow of mana that was circling the wall instead of moving toward the monarch like all the rest.
+
+“I think I found an alarm,” he reported. “When Fritz gets back, I’m going to skywalk closer and see if it extends to the far side.”
+
+Fritz hadn’t found anything of note, so Nick used Arcane Shield rise above the castle wall. Luckily, the spell he’d sensed didn’t extend into the fort’s interior. He spent a few minutes scanning the courtyard and internal structures, but the place was quiet as a tomb. That meant it was time to head inside and start planning their ambush.
+
+The wall was high enough that Lurk couldn’t clear it and the warded area in a single bound. After Kenji and Bandit skywalked to the far side, Nick conjured two of the thickest shields he could manage and stacked them together.
+
+When he gave the signal, Lurk sprinted for the wall in a burst of speed. She leapt onto his platforms, using them as a springboard to clear the ramparts. The weight was too much for the barriers to bear, and Arcane Shield dissipated a second later, but it was good enough to get the dino over the wall.
+
+She landed and grunted in satisfaction, giving Nick a nod that indicated she appreciated the assistance. That trick might come in handy later, especially if I can make the shields sturdy enough to support her mass for a little longer.
+
+Since they had no idea how long the Storm Lord would be away, they needed to survey the area and come up with a plan as quickly as they could. After that, they could explore the lair in depth while one person stood watch. With any luck, there would be something valuable in here—maybe even some clues as to the dreadbeast’s origins—which the reason Bandit had accepted this quest to begin with.
+
+It turned out that the castle was more extensive than they’d thought. There were several stairways leading belowground, but none of them were wide enough for Xuthu to squeeze inside, which meant it probably stuck to the upper levels when it was in residence. There were signs that a fierce battle had occurred when the fortress was taken—scarred stonework, shattered equipment, and copious scorch marks.
+
+However, there wasn’t so much as a bone or scrap of blood, revealing just how thorough the dreadbeast’s life-draining lightning was. There was a spacious throne room in the center of the castle, and the entrance was wide enough for the Storm Lord’s body.
+
+Nick found another ward set around the structure. The party evaded it the same way as before, then entered Xuthu’s lair and surveyed the area. Inside was a spacious audience hall. Thick pillars and an interior balcony ringed the enclosure, which were perfect places for the team to hide. Better still, where the throne had once stood was a palate of mattresses and shredded clothing, which meant they knew exactly where the dreadbeast slept.
+
+“This is a good place to launch our attack,” Kenji said after inspecting the upper level. “We can hide in here, wait for Xuthu to fall asleep, then hit the big bastard hard until it’s nothing but bloodstains and bad memories.”
+
+They discussed the matter for hours, planning what they would do in a variety of circumstances. After that, the party settled down to rest. By the time everyone had recovered, the dreadbeast still hadn’t returned.
+
+There was a stairwell leading to central structure’s roof that was wide enough for Lurk to climb. She agreed to stand watch while the rest of the team explored the lower levels. Fritz would check in with the beast using Nick’s PDA every few minutes and could speak directly into his mind, so they would know if she spotted the dreadbeast returning well before it arrived.
+
+The fortress wound up having four floors, two above ground and two below. Everywhere Nick went, there were signs of battle. Shorn armor and shattered weapons littered the ground, and it seemed that the Storm Lord’s victory here had been hard won.
+
+There were signs that some residents had tried to evade the dreadbeast by hiding in rooms that were too narrow for it to enter. However, scorch marks in the shape of bodies revealed that the tactic hadn’t saved them from Xuthu’s dread lightning.
+
+Whatever the castle was made from, it was tough. While chips and scratches marred the stonework, the walls and ceilings were intact despite the heavy blows they had taken during the melee.
+
+The party didn’t discover anything salvageable on the ground floor or the level above, but on the first subterranean floor, Nick came across an armory. Most of the gear had been removed, but there was a row of swords and spears in the back, along with a half-dozen helmets. His mage sight told him that everything was modified, so he swapped them for some random resources in his backpack, adding thirty weapons to the pile he planned to donate when he made it back to Aurora.
+
+When they tried to explore the bottom level, they ran into a problem. The way was barred by a potent barrier controlled by a magitech panel. He tried break in with Mana Darts and Piercing Rays, but the sophisticated device was shielded against such tactics. Nick thought he could brute force his way inside eventually, but he decided to wait until they had dealt with Xuthu before blowing through his mana.
+
+Now that they had explored the castle, it was time to prepare the soon-to-be battleground as best they could, and perfect their plan to ambush the Storm Lord. With any luck, Xuthu would be in for one hell of a surprise, and this fortress would soon be its grave.

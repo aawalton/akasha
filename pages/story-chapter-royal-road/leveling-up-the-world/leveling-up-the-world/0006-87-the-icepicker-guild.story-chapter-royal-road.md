@@ -1,0 +1,161 @@
+---
+id: c8fb927f-b5a9-5461-ab39-93bf1e7c1235
+page-type-slug: story-chapter-royal-road
+title: "87. The Icepicker Guild"
+slug: 0006-87-the-icepicker-guild
+partOf: leveling-up-the-world
+position: 6
+ownLength: 2124
+unit: words
+ownProgress: 2124
+publishedAt: 2021-03-29
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/654517/87-the-icepicker-guild"
+royalRoadId: "654517"
+markedReadAt: "2026-06-29T22:40:19.658Z"
+---
+
+Few things could compare to the joy of waking up in a comfortable bed. After a week in the wilderness, Dallion was finally able to appreciate the pleasures of clean sheets, soft pillows, and a complete lack of insects. What was more, the room was specifically designed with awakened in mind: everything was spotless, there were no creaking boards, the sheets and covers were meticulously soft, and there weren’t any disturbing odors to be felt. Apparently, the practice of awakened helping out with chores wasn’t new, so Hannah kept a room on the top floor just for that.
+
+Nothing like a great first day in a new place. Dallion stretched. Now to have breakfast and set out exploring.
+
+Allowing himself a few more minutes in bed, Dallion then got up and went to the water bowl. One of the greatest drawbacks of this world was the lack of plumbing. Washing and basic biological functions were vastly limited. Back in Dherma village, Dallion had had to do both outside his house. Here, at least washing was in the room, as for the rest there was a dedicated room on the first floor.
+
+All washed up, Dallion put on the clothes Hannah had given him, and went down to the first floor. The shirt was a perfect fit, although the trousers were slightly on the long side.
+
+There were no customers in the main room when he got there. Hannah was behind her counter, polishing a mug, as any innkeeper would, and Jiroh was busy setting up the place. A faint smell of alcohol came from the crack of the kitchen door. Someone had been partying, no doubt.
+
+“Morning,” Jiroh greeted Dallion without even looking back. Furies, it seemed, had senses to rival that of an awakened. “Slept well?”
+
+“Very. Thanks.” Dallion smiled. He still couldn’t keep himself from staring at her ears. A faint whisper in his head dared him to go to her and pull one, just to make sure it wasn’t an elaborate fake.
+
+“Here’s your breakfast,” Hannah grumbled as she placed a dish on the counter. “Stop staring and come to eat up. I want you to go get registered first thing afterwards.”
+
+“Sure thing.” Dallion took a seat at the counter. The breakfast looked like scrambled eggs, but smelled nice and tasted better. Dallion couldn’t even identify half the spices that went into the dish. “This is really good.” He said after a few bites.
+
+“Good, now keep that to yourself. Aspan has a big head as it is.”
+
+Dallion nodded. At some point he was going to thank the cook personally, though not when Hannah was around.
+
+“So, this registration thing,” he asked casually. “What’s it about exactly?”
+
+“Awakened have to be registered in order to mend and improve,” Hannah explained. “Of course, it’s difficult to enforce the rule all the time. An item level up here and again won’t get you in trouble, but in order to do anything more serious you need an emblem. And trust me, you’ll be doing a lot of work here. The room you got doesn’t come cheap.”
+
+There was nothing regarding registration in Aspion’s memory. Then again, Dallion had only seen a snippet. Or maybe registration was a recent development?
+
+“Any place specific I need to go?” Dallion continued with his questions.
+
+“Look, I’m not here to—”
+
+“I’ll help him out,” Jiroh interrupted. “I have a few errands to run anyway, so it won’t be a problem.”
+
+Hanna narrowed her eyes. Dallion didn’t have to be awakened to see that she didn’t approve of the idea.
+
+“Just be quick.” The innkeeper relented at last. “I’ll need you back before lunch. Killian said he’ll be celebrating a catch, and I don’t want him or his drunk buddies to wreck the place. Oh, and by the way,” she turned to Dallion. “If they do it’ll be your job to fix it.”
+
+“I’ll do what I can, just don’t expect miracles.” Dallion said between bites. “Something broken in two can’t be mended.”
+
+The innkeeper gave him a look that screamed “I know that, you idiot” and sighed. “Just finish your food.”
+
+Unable to tell whether Hannah was in a bad mood, or that was her normal state, Dallion quickly gobbled up the rest of his food in silence, then quietly stood up and walked up to Jiroh.
+
+For a moment he could almost swear he felt a faint smell of ozone coming from her.
+
+“Ready,” he said, doing his best to look away from her ears. The way she kept her hair made them all the more visible—the dark brown color of her skin contrasting to the whiteness of her hair. She was so anime it wasn’t even funny.
+
+“Okay, let’s go.” The fury led the way.
+
+The weather outside was quite fresh. It seemed that mornings in the city were a tad colder than they were in the wilderness. Either that, or the clothes Hannah had given him didn’t keep warm. Dallion was tempted to improve them a bit, but decided against it. He still wasn’t clear what registration was and getting in trouble with the local authorities on the second day here was a pretty bad idea.
+
+“Don’t mind Hannah too much,” the fury said. “She’s always grumbly. It takes a while to get used to her, but she’s pretty solid.”
+
+“I gathered that. Cold exterior with a heart of gold.”
+
+“Sort of. She takes care of her own, as long as you don’t cross her or make too much of a mess. Other than that, she’ll have your back most of the time. Of course, you’ll have to earn it.” Jiroh gave him a piercing look. “So where are you from?”
+
+“Oh, a small village in the middle of nowhere.” Dallion thought best not to mention any names. There was no telling how much trouble his grandfather had made when he had last been here. “The very edge of the empire. Travelling merchants pass by from time to time, but that’s about it.”
+
+“I see. So how did you get your hands on a dartbow?”
+
+Dallion froze. How had she found out about that? He had been extremely careful to keep the weapon hidden at all times. Even when he’d gone to bed, he’d kept it nearby. Apparently, there was more to furies than their looks.
+
+“I was part of a chainling hunt,” he whispered. Not knowing her abilities the closer to the truth he could get, the better. “I helped out more than was expected.”
+
+“As long as you didn’t steal it, it’s fine. If you have… I’d suggest getting rid of it before you register.”
+
+“I’ll keep it.” Dallion was adamant. While the way he had gotten it remained somewhat dubious, it was by no means stealing. The Cleric that had been part of the hunting party had given it to him personally, with a noble’s blessing no less. It had been on the low, but it was very much official. “So, what exactly is this registration? Is it some city initiative to keep an eye on the awakened or something?”
+
+“The Countess knew about you the moment you entered the city area. Registration is more like joining a guild. You register at one of the awakened guilds and they take care of you. There’s a fee involved, but you make that back pretty fast. In a city this size guild houses always have work.”
+
+“Ah.” The description matched the definition of an adventurer’s guild if Dallion had ever heard one. As a standard gamer, he had his fair share of MMO guild experience. This sounded way better, though. “And how much is the fee?”
+
+“Depends on the guild, but anywhere between five and twenty silvers for entry. Monthlies are usually deducted from your task rewards.”
+
+“Twenty silver... that’s a bit steep. Do they give credit?”
+
+“No. The old-timers say they used to once, but there were so many abuses that the practice was stopped. Don’t worry, though. Hannah gave me enough to cover you.” The fury smiled. “To be paid back, of course.”
+
+“Of course.” Dallion laughed. “Will I be joining your guild?”
+
+“Sharp, aren’t you? You’re free to join any guild in the city that will have you, but I have a feeling the place I’m taking you would be a better match. If I turn out to be wrong, you can always quit after a month. That’s what the admission price is for.”
+
+“Nah, I trust you. It’s not like I’ll be able to decide on my own.” Besides, as the fury said, he could always change guilds.
+
+The guildhall in question was quite small. From the outside, it was no different from a residential building. Slightly larger than The Gremlin’s Timepiece, it boasted four floors, and an incredibly large terrace. Back on Earth, this would have been a swell building for a startup company. Given the universal ways in which business worked, the same practices probably held true here as well.
+
+A large green, blue, and purple banner hung over the entrance, right next to a sign with the name Icepicker Guild on it.
+
+“Cool name,” Dallion said, to which Jiroh only shook her head.
+
+The main room, as Dallion had expected, resembled the reception area of an office. There were two counters with an assistant behind each, several boards with notices, and more warning signs than Dallion would have expected. As far as he could make it, was forbidden to fight, start fires, or bring pets in the guild. Alcohol and smoking were also discouraged in large quantities.
+
+“Hey, Jiroh!” A short, bearded man at one of the counters waved. Given the little Dallion knew about the world, the man could well be a species of dwarf, or just a vertically challenged corporate Viking.
+
+“Hi, Estezol.” Jiroh made her way to his counter.
+
+A few more of the local guild members waved to the fury as she walked through the room. By the looks of it, all were rather pleased to see her.
+
+“No takeout?” the bearded man laughed.
+
+“Not today. There’s something else I’ve brought you, though.” The fury put her hand on Dallion’s soldier. “Fresh from the wilderness. He might not look like much, but he’s a full awakened.”
+
+“Yeah,” Dallion nodded. Somehow, he had hoped he’d be presented in a better light.
+
+“Hmm.” The bearded man looked Dallion over from head to two. “First time in a city?” he asked.
+
+“Yep.”
+
+“What’s your level?”
+
+“Six.”
+
+The bearded man looked at Jiroh, who only nodded in confirmation.
+
+“We’ll have to test that, but it’s a pretty good start. Know the basics?”
+
+“I think I’ll be leaving you now,” the fury interrupted, placing a small pouch in Dallion’s hand. “Got some errands to run. You’ll be fine from here on. Estezol will take care of you, just don’t get on his grumpy side. See you.”
+
+“Catch you later, Jiroh. And put in an order for tonight. Whatever Aspan has on special.”
+
+“Will do.” Jiroh waved as she walked out of the room. Definitely carefree.
+
+“She’s something, isn’t she.” Estezol sighed. “Loads of trouble, but definitely something. How d’you end up with her?”
+
+“Err, she works at the inn I’m staying.” It was Dallion’s policy when in doubt not to get mixed up in relations between people he knew nothing about.
+
+“Hannah’s place? Lucky you. I’ve been kicked out of there more times than I can count. Hannah’s got a nasty temper, but the food’s always great. Anyway, what skills do you have?”
+
+“Guard, attack, and music.” Dallion paused for a second. “Still getting the hang of music.”
+
+Estezol whistled.
+
+“That’s a rare one. There’ll be high demand once you get the hang of it. For the moment, though, I’ll put you down as a basic fighter.” The man took out a piece of paper and started scribbling something on it with a miniature plume. “How long since you awakened?”
+
+“A bit over a month.”
+
+“Late bloomer, eh? No worries, though. The fact that you’ve passed level five is enough to join. Most get stuck at four.”
+
+“So, how does this work, exactly? I pay my fee and then I get to mend and improve legally?”
+
+Laughter filled the air. It was as if Estezol had heard the funniest joke in the world. Even a few of the other guild members joined in. As disturbing as this was, Dallion could see no traces of malice on the man’s face. Estezol was just genuinely amused by the question.
+
+“Kid,” he said after a while. “Who said that you’ve been accepted? There’s more to joining a guild than the admission fee. We must test your skills and your mettle. Only then do you get to earn your emblem.”

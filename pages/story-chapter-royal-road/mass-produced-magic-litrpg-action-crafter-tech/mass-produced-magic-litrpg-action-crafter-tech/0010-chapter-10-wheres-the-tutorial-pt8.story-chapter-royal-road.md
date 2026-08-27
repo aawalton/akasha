@@ -1,0 +1,179 @@
+---
+id: fa66cf2c-7fc7-55ac-9e80-9990aa37997c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10 – Where’s the tutorial? – Pt8"
+slug: 0010-chapter-10-wheres-the-tutorial-pt8
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 10
+ownLength: 2262
+unit: words
+publishedAt: 2024-11-17
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1909427/chapter-10-wheres-the-tutorial-pt8"
+royalRoadId: "1909427"
+---
+
+Birds dove, their bodies glowing with the vibrant blue magic. Talons flashed, and beaks opened. Kindra’s heart thundered, and she looked up at the diving undead.
+
+“Your magic!” Aika shouted into her mind.
+
+Burning twelve mana, Kindra willed it forward, sending a wave of light through the diving birds. Like cut puppets, they dropped, crashing toward the ground and roof. She looked down at the two birds and reached for the one on top. “Aika?”
+
+“Watch out!”
+
+Kindra jerked back. Blood gushed from a bird’s throat, and Aika burst out in a horrifying display of red and silver. She shot inside the barracks.
+
+Kindra stepped back and slammed the door shut, barring it and turning. “You scared the shit out of me.”
+
+Aika wiped blood from her hair, sending it dripping to the ground. Her wings blew off tiny droplets. “Sorry. I wasn’t thinking.” She looked at the floor, and a crack rang through the barrack.
+
+Oh, fuck. Kindra turned and dashed down the stairs. “I think they’re breaking in.”
+
+Walking quickly down the steps, she looked at the door. It quivered, and a horn withdrew, leaving a small hole behind. Shit. Kindra turned and looked for something, anything, to brace the door.
+
+Another crack rang through the barracks. The wood strained, and two horns were sticking through the door. Swinging the hammer, Kindra slammed it into the horn. A burst of light lit the room, and the cow went berserk, ripping itself free from the door with a thunderous bellow.
+
+Darn it. Walking to the door, she saw the cow backing up for another run. The other skeletons seemed to be happy to get out of its way.
+
+And they’re working together. Huffing, she raised her hammer. The cow charged and slammed into the door, shooting a wood chip past her head.
+
+Kindra slammed the hammer into a horn, and Aika did the same. Waves of light flew out, and it dropped to the ground.
+
+Well, that’s something. Several undead ran for the door, smashing into it. Please let this work. Kindra reached forward and drained ten mana on the door itself, letting it suck in the rune sequence and entirely too much blood at the same time. The glowing red runes shifted.
+
+[Basic door has been enhanced with +5 radiant damage and +3 stamina for 12 hours.]
+
+Wobbling, she blinked. Okay. Too much blood. She leaned against the wall. Bursts of light rippled off the door in waves, crashing over the attacking undead and dropping them to the ground.
+
+That’s easier. She turned and blinked up at Aika.
+
+Aika held out a piece of meat, studying Kindra with a look of concern.
+
+Kindra took it and ate. “Thanks.”
+
+Aika smiled and landed on her shoulder. “Can you do that upstairs? We can lure them in and clean up the air. Then I can fly.”
+
+“Be careful, Aika.” Kindra turned and walked up the stairs. I need a nap and more food after this. She was pulled from her musings by scratching. She looked up the stairs.
+
+A bird pecked furiously at the door, clawing at it with talons while drumming a rapid beat. I hate undead. It’s official. She dropped low, leaned forward, and burned ten mana, not letting it pull in as much blood.
+
+[Basic door has been enhanced with +5 radiant damage for 12 hours.]
+
+Light began cascading off it. Awesome. Free mana. She watched it flow into her before turning toward the downstairs. “Hey! Undead! Keep the mana coming!”
+
+The undead did just that. They attacked the source of radiant damage with fury, and it continued sending out pulsing waves of light with every strike.
+
+She walked down the stairs and paused. A chip of wood shot through the room, and her smile faded. Is it going to hold, or should I burn more mana?
+
+[Your mana has increased: 131 → 147.]
+
+She walked up to the door and waited. Mana flowed into her. The banging slowly stopped. The pounding stopped. Leaning closer to the door, she peered out and saw a pile of undead getting in the way. That should make it harder for them. She let out a loud, high-pitched whistle and heard scuffling.
+
+A smile spread across her face, and she walked up the stairs. The door was quiet. Looking out, there was a small pile of corpses in front of the door, and Aika fluttered across the rooftop.
+
+“Come and get me, you monsters!” Aika shouted.
+
+Kindra sighed. “Be careful, Aika, please!” she shouted through the hole and headed for the pantry.
+
+Whistling loudly, she walked past the door, which lit up again. Well, that’s easy. She continued whistling and walked into the pantry, fishing out more meat.
+
+Piling up a plate, she listened and heard something move in the cellar. Are there undead down there? She knocked on it and listened.
+
+Nope. Pulling open the door, she peered into the gloom, searching for anything concerning. Barrels lined the walls. The ambient looked normal and nothing was glowing. “Hello? Anyone alive?” she asked.
+
+Nothing answered, and she shut the door. We can search for a bit. She jogged over to the front door, watching to ensure it didn’t come crashing down. Chewing on a piece of meat, she frowned at the quiet door. “Hey! Keep killing yourselves!”
+
+She turned and listened. “Aika. Where are you?”
+
+“Umm… I’m luring birds.”
+
+“Where are you really?”
+
+“Killing these undead. I have to hit them five times. It’s tricky.”
+
+“Be safe.” Kindra shook her head. Should I explain death to her?
+
+“If I die, bring me back!” Aika shouted.
+
+“Can I do that?”
+
+“That’s what the system told me.”
+
+“Don’t die. It’s forbidden.” Kindra turned her focus to the door. “Hey! Attack the door!” Scuffling feet filled the air, and light rippled off the door. “That’s more like it. Come and get me. Dinner time.”
+
+She stood there while the door flashed and mana flowed into her. Let the farming begin. Smiling, she chewed and listened. Things went quiet. “Hey! Attack!”
+
+The undead outside groaned, but the door didn’t light up. Frowning, Kindra peered through the hole in the door. A pile of bodies greeted her. She huffed. How do I clear enough for them to die to a door? She smiled and shook her head. They’re sure stupid.
+
+Turning, she looked at her supplies. Maybe I can shove the bodies out of the way. She looked at a sword. “Aika, are you attacking them?”
+
+“Yes. Make a spear and stab them. They’re dumb.”
+
+“Good plan.” Grabbing a stack of swords and a chest, Kindra used her skill, willing it to become a fifteen-foot-long wingless spear. Smiling, she hefted it and used Enhance Item.
+
+[Basic leaf spear has been augmented with +5 radiant damage for 24 hours.]
+
+Wobbling, Kindra blinked. I need to find something besides blood for this stuff. Leaning against the wall, she waited for it to fade.
+
+After a minute, she stood and walked up the steps. Unbarring the door, she shoved it open, pushing a pile of bodies away.
+
+Looking out across the streets, she searched. Undead wandered everywhere. A massive group stood outside the front door, swinging wildly at a little fairy darting above them. Bursts of light brought more attention from the undead. They swung and trampled each other to try to get her.
+
+Walking to the edge, Kindra aimed and let her spear slide through her fingers, dropping onto an undead dwarf below. A wave of light radiated outward, and it crumpled.
+
+Awesome. Fish in a barrel. That’s more like it! Grinning, she began stabbing into the mass, sending waves of magic radiating through the group. Undead dropped, and a soft stream of mana flowed to her.
+
+Ha. Leveling is easy. Whistling, she slashed through the horde below while scanning the empty sky. No birds. That makes it easy.
+
+An arm reached up and grabbed. The spear cut into it, and the radiant damage ended the dwarf. A cow bellowed and charged, slamming headfirst into the wall with a bone-crunching thud. Kindra stabbed it. Suicidal undead. As long as there aren’t many, it’ll be —
+
+She lurched as the building shook. Turning, she ran to the side and looked down. A massive, undead grub slammed its body into the building. Lowering her spear, she stabbed, driving the spear into its flesh. The grub thrashed, pounding against the street and building. The entire structure shook and groaned.
+
+Kindra’s heart thundered, and she stabbed furiously, sinking the spear into the bloody carcass and painting the streets with some vibrant green fluid. Die already!
+
+The grub continued thrashing, covering the ground with the ichor. A resounding crack echoed through the air, and a crack ran up the barracks.
+
+Shit! Kindra slammed the spear into it. Die. Just die! The grub slammed itself into the building. The crack expanded, and it went still. We can’t stay here long.
+
+Swallowing, Kindra turned her attention to the masses of undead that were swarming the grub and crack. She stabbed without aiming, letting it hit anything that got close to the crack.
+
+Aika blurred by, spinning like a top and striking with each rotation. She shot up from the group and looked at Kindra. “We can’t stay there.”
+
+“I know. Help me kill them. We need to leave.” Kindra paused. “Do you need a spear?”
+
+Aika nodded. “It would be easier.” She shot into the barracks.
+
+Kindra resumed her rapid stabbing, and another thump boomed through the air. Crap. Where? She jerked the spear upward, cutting down two undead.
+
+Turning, she searched for the grub. Aika flew up and held out a knife. Burning mana and blood, Kindra triggered Transmutation to turn it into a foot long spear. Then she used Enhance Item.
+
+[Basic leaf spear has been augmented with +5 radiant damage for 24 hours.]
+
+Dashing to the other side of the barracks, she grimaced and waited. It’s here. A grub burst from the ground next to the barracks. It slammed into it, shaking the entire building. Kindra stabbed, plunging the spear into the white flesh. Light erupted along with a burst of green ichor. The foul smell hit her nostrils, and the grub slammed into the building.
+
+The building groaned. Cracks formed on the stone, and Kindra ripped the spear out, swinging and slashing into it. The grub jerked, nearly knocking the spear away. It raised its body to slam its massive form into the wall.
+
+Monster. Imagining the runes, Kindra burned more mana, willing a ball of it down on the rampaging grub. She slammed the spear down, and the ball exploded. A ring of white light shot outward, and the grub dropped along with a dozen undead that had gathered.
+
+Half dangling from the building, Kindra wrapped her hand around the spear and pulled it free. She looked down to see the mana flowing from the undead. Several others rushed forward, eyeing the crack that the grub had made.
+
+Shit. Dashing to the other side of the building, she looked down and saw an undead mob. The undead trampled forward, stumbling over the other undead. Frowning, she stabbed in time with her thundering heart. We need a way out of this mess. She began studying the streets while she stabbed.
+
+~~~
+
+Aika’s wings fluttered, beating like those of a hummingbird. A massive grin sat on her face, and she spun, creating a little vortex of destruction. Flying is the best! With a grin, she shot down the streets, her spear blurring around her.
+
+Whistling cheerily, she turned a corner, and a massive, sticky thing slapped into her. Not again. She thrashed, willed up her helmet, and was ripped toward the ground. A massive, dark mouth closed around her.
+
+The tongue smashed her into the roof of the lizard’s mouth, and she ripped her arm free. Grabbing her sword, she started hacking, spraying herself and the strange, frog-like creature with its blood. The smell dominated everything. Eaten twice. That’s embarrassing.
+
+With an angry groan, she hacked through the tongue, cutting it off and ripping herself free. Turning, she hacked her way through the mouth of the now-still frog. Can’t tell, Kindra. She’d be pissed. Aika frowned and felt the ground tremble. Damn it.
+
+With her anxiety building, she hacked out an opening, grabbed her spear, and burst out of the undead lizard’s mouth. Her wings blurred, spraying liquid everywhere. Zipping down the street, she sheathed her sword and shot into the air.
+
+Spinning, she searched the sky and streets. Grubs. Failing to see one, she focused on a group of undead rats on a side street. Hefting her spear, she dove, the wind rushing past her.
+
+Shooting forward, she dragged her spear across the group, creating a wave of light. The rats dropped. Others turned and leapt. A large mouth opened, and she slammed the spear into the rat, launching herself into the air while ripping the weapon free.
+
+With her wings churning, she soared up and dove, a massive smile on her face. Blowing through the rats, she cut down another half-dozen before moving on, soaring high into the air and looking for an unobservant target.
+
+Fluttering above the cottages, she turned and looked at the mass of undead that remained. They littered the surrounding fields, a veritable parade of corpses. That’s so many undead. She turned back toward the barracks, and her heart dropped; three grubs were worming toward it. Shit! With her wings blurring, she flew for the barracks. “Kindra, grubs!” she mentally shouted, forcing herself to fly faster and faster.

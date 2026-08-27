@@ -1,0 +1,249 @@
+---
+id: 61fe452e-36b6-52d1-8b79-edfbcee281f3
+page-type-slug: story-chapter-royal-road
+title: "174. Old Complications"
+slug: 0008-174-old-complications
+partOf: leveling-up-the-world
+position: 8
+ownLength: 3078
+unit: words
+ownProgress: 3078
+publishedAt: 2021-06-24
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/704851/174-old-complications"
+royalRoadId: "704851"
+markedReadAt: "2026-06-29T22:40:24.172Z"
+---
+
+KALEIDERVISTO Level 2 has been cleared!
+
+Continue on to fulfill the KALEIDERVISTO’s destiny.
+
+That was two levels cleared without any health loss. Dallion waved the rectangle away, then sat on the chamber floor. His progress couldn’t be called fast, but then again, Dallion didn’t care. All he was focusing on was clearing the entire item without losing any health in the hopes he’d earn an achievement. At least that’s what some of the guild members had said. When he had tried doing it in a group nothing had happened, leading to further clarifications that he had to do it on his own. Potentially that means without relying on familiars either.
+
+What’s the holdup, dear boy? Nil asked. You’re supposed to be able to do this with your eyes closed.
+
+“It’s not like anyone could tell the difference,” Dallion replied. While alone he preferred to voice his conversations, especially when in awakened realms. “It’ll be done when it’s done.”
+
+Suit yourself. Frankly, I find that obsession of yours on achievements alarming. The echo sighed audibly. Then again, it’s hardly expected. I had hoped you’d skip that phase. Turns out you only delayed it.
+
+“That’s the fastest way to increase stats,” Dallion replied.
+
+It had been five days since he had become an official member of the Icepicker guild. Originally, he was supposed to start training under Vend the very next day. Due to complications relating to the Arthurows situation, though, he had been given some time off. In short, he had been asked politely by Estezol to refrain from visiting the guildhall for three days during which things were sorted out. It didn’t help that Euryale still hadn’t returned from her mission. The gorgon had managed to somehow send him a letter apologizing for the delay—as well as going into detail just how much she missed him. The letter had appeared attached to the outside of his window, unseen and unheard, along with a flower blossom. A nice gesture, though Dallion felt somewhat weird being the one getting flowers.
+
+If you were so intent on doing so, you could delve deeper into your own realm, Nil suggested.
+
+“I’ll get there.” Dallion stood up. “For now, it’s achievements.”
+
+Playing a chord with his harpsisword, he went through the gate to the final level of the sphere item. The final chamber was dark and fairly large. Using his music skill, Dallion could see three exits and nothing beyond. As he made a few steps, though, he felt something familiar. Bending down, he slid a finger along the floor.
+
+“Mother-of-pearl,” he whispered. That was a stroke of luck. Of all the guardians he could have faced, he got a shelfey. As long as it hadn’t spread throughout the entire level, this was going to be easy. Also, there was the chance he could learn more about the Star.
+
+Don’t be rash on this one, Nil warned. It’s just a guardian. Treat it like one.
+
+“No problem,” Dallion lied. He had every intention of finding a way to question the creature.
+
+Making it to the guardian chamber was easy enough. From what Janna and Kallan had shown him in the past, getting inside was simple; all Dallion had to do was injure the tentacle that’s blocking entrance to the guardian chamber, then run in as it contracted. Back during his first mission as a packrat, the siblings had used the destructive power of a crossbow to achieve the effect. This time, Dallion was going to take a more elegant approach.
+
+Music, he thought. Black blobs appeared throughout the shelfey’s tendril, emanating the sensation of voice. Playing a chord of pain, Dallion then struck at one of them, piercing through the tentacle’s flesh.
+
+The reaction didn’t delay. With a roar, the shelfey pulled its tentacle in, allowing Dallion to run into the chamber through the opening.
+
+LEVEL 3 GUARDIAN
+
+Species: Shelfey
+
+Class: Crippled Star
+
+Statistics: 38% HP
+
+There it was. The creature was smaller than the one during his previous encounter, merged with the corpse of what appeared to be a larger avian guardian. More than likely it had recently infected the sphere item, although when it came to awakened time “recently” was a relative concept.
+
+Without wasting a moment, Dallion took out his Nox dagger and slashed along the length of the connecting wall of flesh. Sharing the power of the crackling within, the dagger created a thin line where it struck. Moments later the entire shelfey part of the creature fell off of the guardian’s corpse.
+
+KALEIDERVISTO Level 3 has been cleared!
+
+You have fulfilled the KALEIDERVISTO’s destiny.
+
+Your attack skills have increased to 22.
+
+“Damn it!” Dallion cursed. Why did the shelfey had to be so weak?
+
+He had hoped that it would remain alive for long enough so he could attempt to extract information using his music skills. Sadly, the single attack had killed it.
+
+FLAWLESSNESS!
+
+(PERCEPTION +2)
+
+It takes skill and precision to clear a sphere realm alone without sustaining a single hit. Keep it up! You don’t need an achievement to do the smart thing.
+
+At least the stories about the achievement had turned out to be true. Dallion would have hoped for it to go to his ??? attribute, but perception was the second best. Maybe he'll have more luck practicing his forging skills. Despite every effort so far, he had yet to increase it by a single point.
+
+The chamber disappeared, returning Dallion to a large, expensive room in the real world. The vase-like he was holding, now emitted an orange glow. A fury was nearby, his eyes focused on Dallion.
+
+“There you go.” Dallion tossed the item to the fury. “As promised, one item cleared.”
+
+“Indeed. Smashing job,” the General said from the middle of his gold sand field. “You’ve paid this year’s rent.”
+
+Dallion didn’t say a word. Renting wasn’t the same as owning. Still, at least he had a year of freedom to look forward to.
+
+“If there’s nothing else, I’ll—” Dallion took a step towards the door, only to be stopped by a second fury.
+
+“You know, fulfilling your obligations doesn’t have to be the only reason for you to come here,” the general said. “There are many opportunities for someone of your skills. If you were to occasionally clear a few more items, it could be well worth your time.”
+
+“Thanks, General, but I think I’ll stick with guild work for now.”
+
+“Why go through a middleman when you could come to me directly? It’s all the same after all—I pay, you get the job done. Oh, and it’s very legal. You can ask around if you have any doubts.”
+
+“I’ve no doubt it is.” In truth, Dallion had many doubts. “Still, I’ll stick to guild work for the moment.”
+
+“Oh, well.” The general made a sign for the fury to step back, granting Dallion access to the door. “You can always change your mind. It’s not like I’ll run out of artefacts anytime soon.”
+
+“I’ll keep it in mind, sir.” Dallion went to the door.
+
+“By the way,” the general said as Dallion put his hand on the door handle. “Art has been missing lately.”
+
+Hearing the name for Dallion on edge. It took sheer force of will and the mellody of Harp in his awakened realm to keep himself from reacting.
+
+“It’s somewhat embarrassing, but he owes me a rather substantial amount of money,” the general went on. “And when I say money, I mean undelivered items. You don’t happen to know anything about that, do you? Being in the same guild and all?”
+
+“No.” Dallion looked the general in the eye. “I haven’t seen him at the guild lately. If I happen to come across him, I’ll be sure to remind him.”
+
+“That would be splendid,” the general said with a cold smile. “Well, don’t let me keep you here.”
+
+Forcing a smile back, Dallion left the room. At least that was over with. Now he had training with Vend to look forward to… unless something else came up again. Just to be certain, Dallion checked with his guild ring. According to Estezol, no changes had taken place, and Vend was already waiting for him in one of the training rooms.
+
+That didn’t sound well. From what Dallion had heard, Vend wasn’t the sort of person who liked to wait. So, Dallion swallowed his pride and ran through the streets. One of the advantages of being an awakened was that he could run quite fast for a long time.
+
+It took him about a quarter of an hour to reach the guild hall. Upon entering, he avoided the lobby section, going directly down to the training rooms. Vend was already there, sitting on a chair, tapping his foot.
+
+“Vend,” Dallion immediately rushed to him.
+
+“Late on your first day?” The elite shook his head.
+
+“My first day was supposed to be four days ago,” Dallion countered.
+
+“Fair enough.” He glanced at the stiletto on Dallion’s belt. “You’ve been working on it, I see. What level is it?”
+
+“Five. A level a day, just as you told me.”
+
+“Good. Let me know when it surpasses your level.”
+
+That was a bit harsh, though Dallion knew what he meant. The goal of the weapon was for him to push his limits. For the moment, he was merely catching up.
+
+“Any skill changes?”
+
+“I’ve reached my music cap, if that’s what you're asking,” Dallion replied. To be honest, he wasn’t sure how to react, and to be honest, he didn’t think Vend had any idea either. All the questions seemed almost scripted and suspiciously like something Adzorg would ask.
+
+“Good.” Vend nodded. “And… you know what, let’s drop it.” He stood up. “Never been good with the theoretical part anyway. Just come along.” He went towards the staircase.
+
+“Where are we going?” Dallion asked.
+
+“Stone Gardens,” Vend replied.
+
+Stone Gardens, according to Nil, was one of the later additions to the city. Originally it was just an empty space between sectors which held no importance whatsoever. A few merchant organizations had made bids to buy it, but due to its difficult access and the vast asking price, they had quickly given up leaving it barren. A few decades ago, one a minor noble who was disappointed in his children could not awaken, that he had changed his will to purchase the entire plot of land after his death, leaving them with less than a tenth of his original fortune. While most of his heirs were content with what they got, the second son was so furious that he spent every part of his inheritance to remove every plant in the garden and replace it with sand and stones. Thus, the stone gardens were born.
+
+“When do I get to start some new jobs?” Dallion asked, breaking the silence.
+
+“Soon. Have you decided on a specialization?”
+
+“I’m not sure. I was thinking to try out as a guild forger.” Dallion hesitated. Was it a good idea to mention Euryale now? Maybe not. “I’ve already learned some forging skills.”
+
+“Forger,” Vend mused, not even asking Dallion’s skill level. ”A forger’s nice, but there are better things than being a forger.”
+
+“Oh?”
+
+“I told you you’ve shown good skills in exploration. Even as a pack rat.”
+
+“Well yeah… Thanks, but no thanks. Don’t get me wrong, leveling up is fun and all, but I prefer something different.”
+
+Vend stopped. “You really are a lot like me. So eager to turn something down before you get all the details. Do you even know what an explorer is?”
+
+“I was there during the rescue job, remember?”
+
+“That’s precisely my point. All you’ve seen is jobs in low-level artifacts. Daggers, trinkets, a double-digit sphere realm. There’s more to it than that.”
+
+You’re really bad at selling it, Dallion thought. “But you’ll tell me, right?”
+
+“No. I’m here to see how much you’ve improved.” Vend looked around. “What do you see in this place?”
+
+“Lots of sand with a bunch of rocks.” Back on Earth some of the rock groupings could pass for modern art, although even that was a stretch. Rather it was more like someone had hired a bunch of people to grab any large rock they could find and dump it here.”
+
+“It’s an area in ruin. No one takes care of it since it’s nothing much. However, with the festival approaching the lord mayor has ordered that every part of the city is to be mended. Guess which guild volunteered for this spot.”
+
+“Sanitation?! You’ve got to be kidding me!” Dallion felt like crying. This wasn’t a well anymore. It wasn’t even a mansion, but far far greater. Mending this would be akin to a Herculean task.
+
+“You have a week,” Vend said mercilessly. “After that I’ll bring March to inspect.”
+
+The fun just keeps on coming…
+
+“This will take me years.”
+
+“Only if you’re really crap at it. And just to make things fair, the guild will let you pick three people to help you out. The only condition is that they mustn’t have passed their selection trial. Things would get awkward otherwise.”
+
+“I have to do this with packracts?” Maybe it was going to be better if he did it on his own. “Anything else I should know about? Now’s the time.”
+
+“I think that’s enough.” Vend turned around. “Oh, and don’t worry. No one will be keeping tabs on you. Your time is your own, as long as you get it done. Good luck.”
+
+Several minutes later Dallion was alone, staring at the small man made desert. This was not how he expected his training to start. As much as he tried to rationalize Vend’s decision, seeking some deeper logic, he suspected they had just given him the crappiest job because he was the new guy. After all, he had been the only non-senior member in the room during his second selection trial.
+
+You know what, Nox? Dallion thought. Sometimes being considered as having potential is really a crappy deal.
+
+Within his awakened realm, the crackling meowed in amusement. So much for relying on him to help out.
+
+For the next five minutes Dallion remained motionless, trying to get the idea of the task to sink in. After that he did what any same person would do—turned around and headed straight for the Gremlin’s Timepiece inn.
+
+There was no way he was starting this task today, not after all the improvements he had done earlier. Or better still, if he could lock himself in his room for eternity, maybe things would look better afterwards.
+
+Nil, how much of this was your idea? Dallion thought as he went through another part of the city.
+
+My original might have made a few suggestions on the matter, but the final decision was Vend’s.
+
+Dallion grumbled.
+
+On the bright side, it’s only mending. No one is asking you to level up such an area. Not to mention that sooner or later you have to move to something larger than items. That is, if you aim to go beyond the next gate.
+
+Of course, that was what the echo would say. Dallion was all but convinced that he had orchestrated this, not that Vend wasn’t to go along with it. No doubt he had thought the idea to be perfect—let the apprentice do all the work, then give some words of advice.
+
+By the time he got back to the inn, it was already mid-morning. To Dallion’s surprise, more than the normal number of patrons had shown up. Apparently, with the festival on its way, people from outside Nerosal were starting to trickle in. If this was any indication the city would be packed by the time the event started.
+
+“Dallion!” Hannah shouted with her usual stern expression as he stepped through the door. “Come here!”
+
+It appears you are in trouble, dear boy, Nil said.
+
+You really messed up now, the shield added. Being unliked had made the guardian a lot more quiet than he usually was. Or rather, he spent more of his time talking to the nymph than to Dallion.
+
+“Coming.” Dallion quickly went to the counter. Outside he might be a double-digit awakened, but here he was just Hannah’s employee. “What’s the matter?”
+
+“What did I tell you about favors?”
+
+“Err… they have to be earned?” Dallion tried to remember what conversation she was referring to.
+
+“I told you not to take advantage of others’ hospitality. When someone offers you a favor, be sure to be there when they ask for one.”
+
+“Okay?” Dallion had no idea where she was going with this, but nodded nonetheless. “Am I in some sort of trouble?”
+
+Before Dallion could answer, he heard approaching steps behind. Instinct made him turn around, ready for anything. However, as it turned out, he was definitely not ready for what followed.
+
+“Darude Dal.” A very familiar blond girl dressed in a fine scarlet dress hugged him.
+
+“Gloria?” Dallion managed to say, beyond confused. A hundred questions popped in his mind, but all he could do at present was return the hug for several seconds as he went through them all.
+
+“So nice to see you again.” Ending the hug, she stepped back “It feels like it’s been decades.”
+
+“It probably has. What are you doing here? I thought you were busy running the village.”
+
+“I was until we managed to level it up enough to get a few travelling emblems. The council elders are taking care of things now. That’s why we decided to see how you’re doing.”
+
+“Veil’s here as well?” Dallion looked around. “That’s great.” There were a lot of other words he could use, but none he dared to. “How did you find me?”
+
+“The ring guardian told me. Since you made a big impression on her, she was able to find you using one of my grandfather’s devices from back when he was in the city.”
+
+“That’s good…” Not to mention terribly inconvenient. It wasn’t that Dallion didn’t like seeing them. He occasionally thought about visiting back, but this was too sudden. “Where are you staying?”
+
+“Always the idiot.” Gloria chuckled. “We’re staying right here, of course. Hannah gave us rooms the moment we told her we’re your friends.”
+
+“With Jiroh gone and you being unreliable, I thought I’d use the extra help,” the innkeeper grumbled.
+
+“That’s nice.” Dallion fought to keep the smile on his face. “It’s very very nice.”
+
+Now things really got complicated.

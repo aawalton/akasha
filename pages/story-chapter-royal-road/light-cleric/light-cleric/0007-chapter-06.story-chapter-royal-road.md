@@ -1,0 +1,467 @@
+---
+id: 9c50dadb-7874-56ba-a8e4-4ed0f5220670
+page-type-slug: story-chapter-royal-road
+title: "Chapter 06"
+slug: 0007-chapter-06
+partOf: light-cleric
+position: 7
+ownLength: 5232
+unit: words
+publishedAt: 2021-02-13
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/630852/chapter-06"
+royalRoadId: "630852"
+---
+
+Logging station three was wedged in the crags of the south bank of the Grand River, several days travel from the last little village they had visited. It was composed of seven small cottages and one longhouse, each log-built with peaked, shingled roofs. Most of the loggers, the bachelors, lived in the longhouse while the cottages were reserved for the men who’d been granted leave to bring their families with them.
+
+The logging station had been established two springs ago with a manifest to send their harvest downriver to Riverton, the seat of Magistrate Putnam. But since their establishment, they’d met resistance from a man claiming to be the local game warden. He and his rangers had their own manifest from Magistrate Putnam. The conflict hadn’t yet become violent, but tempers were high.
+
+Sweep could feel the frustration, like a plugged kettle over an open flame, fit to burst. Every injury, every misfortune, every bad turn was blamed by the loggers on the rangers and by the rangers on the loggers. Men with tools began holding them like weapons.
+
+• • •
+
+Sweep pulled her eyes open with concerted effort and a gasp. Desperate, she looked around, trying to pull reality from fancy.
+
+She sat on a thin cushion in the back of a cart, surrounded by their supplies: bags of beans, several tightly rolled blankets, a set of small, dented pots, and so on.
+
+Father Vytal had purchased the cart and donkey from Farmer Kaver. He had insisted on paying, though the farmer had wanted to gift them. Temperance had named the donkey Steady.
+
+“If he’s going to carry all our stuff, he ought to have a name,” she had reasoned.
+
+The cart trundled along, Steady keeping his slow, constant pace. To the right, the Grand River splashed along in its bed. And on the far side of the river, the bank had turned steep and rocky, unlike the smooth bank on the north side where they traveled.
+
+Blinking hard, Sweep looked to the fore of the cart, where Father Vytal sat on the bench, holding the reins, and Temperance sat next to him, showing him a small white flower.
+
+But Temperance stopped and looked back at her.
+
+“What’s wrong?” Temperance asked.
+
+“I thought I heard something,” Sweep said. But that wasn’t quite right. She hadn’t heard anything but the rattle of wagon wheels and the clop of hooves and the song of birds. Instead, what she knew about logging station three had been felt, perhaps experienced, perhaps thought.
+
+“Father Vytal, is there a logging station ahead, on the south side of the river?”
+
+Father Vytal shrugged. “Not that I’m aware of. I took the north road to the Valley and haven’t been on the river road for several years now.”
+
+“What did you hear?” Temperance asked.
+
+“I don’t know how to explain it. It was… I just know…”
+
+“Ah,” said Father Vytal. “I think I know what’s happened.” He tugged at the reins, pulling Steady to a stop, then turned on the bench to face Sweep.
+
+“Is something wrong?” Temperance asked, an edge of panic coloring her tone. Sweep wanted to assure her friend she was fine, but doubt forestalled her.
+
+“Girls, do you know what a telepath is?” Father Vytal asked.
+
+Temperance nodded. “It’s a person who can share thoughts or read another’s thoughts. Saint Ruth was a telepath.”
+
+Father Vytal nodded.
+
+“So that’s it then. Piety’s a telepath, isn’t she?” Temperance said.
+
+“Yes.”
+
+Sweep looked from Father Vytal to Temperance and back again. “How long have you known?”
+
+“Since we helped Catherine. I spoke into your mind so as not to frighten her. I didn’t expect you to speak into mine.”
+
+Sweep was stunned and not a little hurt. “But, why didn’t you tell me?”
+
+Father Vytal spread his hands, a conciliatory gesture. “I didn’t want to frighten you. I am a healer and a telepath. When I arrived at the High Temple, I was the first person with more than one power in several decades. Powers are rare. Having more than one is rarer still. Outside the Scriptures, it is unheard of for a person to have more than two. I had hoped to introduce you to your other powers over time.”
+
+“Powers?” said Sweep. “You mean there’s more?”
+
+“When you told me how you healed me, you described a purple light.”
+
+Sweep nodded.
+
+“Oh,” said Temperance. “Does that mean she’s also an aura-seer?”
+
+Sweep took a deep, careful breath. Her whole body went numb and she closed her eyes. She felt as though she teetered upon the edge of a great precipice; on one side grounded reality, on the other the infinite unknown cosmos. She didn’t know if Father Vytal still spoke to her. Instead, she wondered what would happen if she fell into the cosmos. Would she fall forever? Would she meet with the cosmic divine? Or would she simply open her eyes?
+
+“Piety?”
+
+Sweep jerked from the precipice and opened her eyes. Temperance knelt next to her, face lined with worry.
+
+“I’m fine,” Sweep said. “It’s just… I don’t know what to think.”
+
+Temperance smiled at her. “Me neither. Just remember that if you need anything, I’m right here.”
+
+Temperance drove the wagon while Sweep and Father Vytal sat in the bed with the supplies and Father Vytal talked to her about telepathy and aura reading. And when it was time to try it on purpose, she sat at the desk in the room in her mind and summoned the bowl of water. Dipping her fingers into the water, she closed her eyes. Immediately she saw the yellow and green swirls of Temperance and the silvery purple nimbus of Father Vytal.
+
+“I see you, but how do I contact you?”
+
+“Sometimes, it’s easiest to start with a metaphor. Reach out to me as though your thoughts were your arms and knock upon my aura as though it were a door.”
+
+Put that way, she found it easy enough. She reached her thoughts to the silvery purple light and encountered the hard glass shell she’d noted before. She tapped at it, and the shell wavered a bit.
+
+“Well done, Piety.” She heard his voice both within her mind and without. “Telepathic contact is easier with other telepaths and even easier with physical contact. But the strongest telepathic bonds I’ve seen were between close friends.”
+
+Sweep reached out to Temperance’s green and yellow swirls.
+
+“Piety?” Temperance’s voice was clear in her mind. “That’s you, right?”
+
+Sweep nodded.
+
+“You must understand though,” Father Vytal interrupted, “telepathic power comes with vulnerability to telepathic attack. You’ve noticed my mental shield?”
+
+Sweep returned her attention to Father Vytal. “Like glass armor covering your aura.”
+
+“Indeed. Many choose stone or iron, but I prefer the metaphor of glass because it reminds me to be open to my surroundings, not closed off.”
+
+“But glass breaks,” Sweep objected.
+
+“True. Against a physical attack, glass is brittle. But in the mind, the image is what we make of it. To spread your telepathic sense beyond the most immediate, you’ll have to lower your shield. Some, however, learn to stretch their telepathy with their shield in place. We define the metaphor, not the other way around. Glass allows me to see further than the immediate.”
+
+Sweep nodded. She took a breath, closed her eyes, and slipped to the mindspace. There she sat at the desk and dipped her fingers in the bowl of water. She imagined a glass shell around herself, a shimmering, gossamer protection, flexible and translucent and yet stronger than steel.
+
+“Again, Piety, I must say, I am impressed.”
+
+Temperance interrupted them.
+
+“Father? There’s a bridge ahead. And there’s a man there waving at us. He has an ax.”
+
+His name was Thomas, and he had waved them over hoping they’d have some medical supplies they’d part with; a logger had stepped the wrong way when a tree was felled. It had fallen upon him and broken his leg.
+
+“We’ll do better,” said Father Vytal. “My apprentices and I are healers. Show us the way.”
+
+The small collection of buildings was just as Sweep had seen it, seven small cottages and one longhouse. She clutched at her new mental shield as though it were a warm blanket on a cold day. As they disembarked from the wagon and made their way into the longhouse, Temperance grabbed her hand.
+
+“It’s all right. Your powers are nothing to be afraid of.”
+
+“Aren’t they?” Sweep returned. “What if there are other things I can do? Some powers are terrible. What if I exhaust myself? Father Vytal said it could kill me.”
+
+Temperance shook her head. “Stop that. We’ve got Father Vytal now. He’ll help you.”
+
+She ought to enjoy this, Sweep told herself. She was away from the Mother, she was on an adventure, she had powers. Like the Saints, she could be a hero, or, like the saints, die tragically.
+
+• • •
+
+The wounded man had been lying in bed for three days, bandages inexpertly wrapped and infrequently changed. When they arrived, he had a fever and his wounds were infected. He smelled of brandy because, as Thomas explained, alcohol cleaned wounds.
+
+“I’ll make the tea,” said Temperance, going to the nearest fireplace and setting to work.
+
+Even pale and shuddering under several blankets, the logger was a large man with arms as big around as Sweep’s head and a chest like a trunk. He looked like he should have been able to withstand anything, even a tree falling on him.
+
+Sweep helped Father Vytal remove the bloody bandages, revealing several scabbed-over abrasions, and one large, oozing gash that smelled sickly sweet. It twisted at the thigh, broken and left unset.
+
+Without prompting, Sweep opened herself to the young man and let some of his pain ease into her. Her legs cramped and she sat with a thump on the floor. Though imbibing the brandy had subdued his pain, the logger shuddered in relief.
+
+Father Vytal knelt next to her.
+
+“Are you all right?”
+
+She nodded. “It’s not so bad. I didn’t take all of it.”
+
+Father Vytal sat next to her and steadied her with a hand on her back.
+
+“Well take this slowly, no need for mistakes. Focus on his wounds. What do you feel?”
+
+Sweep took a breath, slipped to the mindspace, and colored light swelled into visibility. This man, like most, was filled with an orangish yellow light. The aura was strong but labored against something she couldn’t see.
+
+“There’s something in him that doesn’t belong. His body is trying to remove whatever it is and fix itself at the same time.”
+
+“Indeed. There are still wood slivers in the wounds. We’ll have to help the body remove them as we encourage it to heal.”
+
+“You can fix me?” the logger asked, his breath heavy with brandy.
+
+“We can,” Father Vytal assured him.
+
+Temperance presented her tea to Father Vytal who sniffed it before nodding his approval. She gave it to the logger who drank, though not without grunting at the taste. Then Father Vytal and Sweep healed him. They set the broken bone, expelled the wood slivers, killed the infection, and closed the wounds. When they finished, their patient shuddered, sighed, and fell asleep.
+
+Sweep sweated with the effort.
+
+Father Vytal helped her stand. He wasn’t sweating; he didn’t even look tired.
+
+The door banged open and a large man entered. He was taller and broader than any man she’d ever seen. His hair and beard were thick, white stubble. His arms were bare and likewise covered in thick white hair, like a winter bear who’d decided to wear a man’s form. He was clad in thick leather.
+
+“Where is he?” demanded the snowy-bearded giant. His eyes lit upon Thomas. “I heard the sheriff had come. Where is he, boy?”
+
+“Uh, not the sheriff, sir. This is a Holy Father. He healed Lon.”
+
+The large man frowned. “Well…” he turned and stomped from the building.
+
+“He’s the man in charge?” Father Vytal asked mildly.
+
+Thomas nodded. “My father, Dakkon. He’s… uh… a bit blunt.”
+
+“Why does he want the sheriff?”
+
+“There’s been some fighting about who has rights to the land.”
+
+“The game warden and his rangers,” Sweep said.
+
+“Yes,” said Thomas. “How did you know?”
+
+Sweep looked at Father Vytal. “This is what I knew when I meditated this morning. The game warden and his rangers are fighting with the loggers because each has a manifest from Magistrate Putnam.”
+
+“Theirs is a falsified document,” Thomas said quickly, voice edged with anger.
+
+Sweep scurried behind Father Vytal, Temperance at her side. Sweep tried to slow her hammering heartbeat. She chided herself for her sudden cowardice.
+
+Father Vytal kept his calm. “Girls, what do you say we look into the situation?” He followed Dakkon from the longhouse and the girls stayed close behind. Sweep turned to keep her eyes on Thomas, who looked nonplussed.
+
+Dakkon stood on the rocks next to the river, shouting incoherently. Three large men, not quite as large as Dakkon, stood nearby, their logging axes held at the ready. Father Vytal strode toward them, Sweep and Temperance in his wake. Thomas hurried on ahead.
+
+Dakkon stepped away from the river and toward Father Vytal. The large logger reined in his temper with obvious effort.
+
+“Holy Father, you have my gratitude for healing Lon and my apologies for our abrupt introduction, but I am in the midst of dealing with brigands. I had hoped the sheriff had arrived so as to put the matter to rest.” He gestured at the river where the remnants of a small wooden structure and several supplies bobbed downstream.
+
+Father Vytal glanced at the river then extended his hand to Dakkon, and as he did so, Sweep saw him shift subtly from the kindly, travel-worn teacher to the distinguished, implacable cleric. When Dakkon took Father Vytal’s hand, though he was larger than the cleric, he did not loom over him. Father Vytal’s stature and authority were evident in the way he stood, the set of his jaw, the way he extended his hand, no matter that he wore simple traveler’s clothes.
+
+“Dakkon, my name is Tristam Vytal, and I am a member of the Church Council. I am aware of your conflict with the game warden, and though the local sheriff would be ideal in this situation, I have often served as a mediator. I would like to offer my service before the situation escalates.” He looked meaningfully at the loggers behind Dakkon. Abashedly, the men thrust their ax handles through the loops on their belts.
+
+Dakkon looked at his men, irritated, then back at Father Vytal.
+
+“That old sneak thief has sabotaged our lawful operation for nearly three years now, ever since we arrived. Our manifest is valid. I watched Noble Putnam sign it myself. Rory’s claim is as false as the signature on that old rag of a manifest he waves about. It looks nothing like the one on mine.”
+
+While Father Vytal spoke to Dakkon, Sweep felt her attention pulled in another direction. The feeling held the thin edge of disaster, like bread left just a little too long in the oven, but not yet burned, and if she could get to it, she might be able to pull it from the fire.
+
+Temperance squeezed her hand and looked at her meaningfully.
+
+“What?” Sweep whispered, distracted by the not-quite-yet disaster.
+
+But Temperance shook her head and tapped her temple.
+
+Sweep felt a small knot of excitement and couldn’t suppress a grin. She closed her eyes and slipped to the mindspace. There, she felt an immediate calm and concentration. She reached for her power and for the yellow and green swirls of Temperance.
+
+“It’s Thomas. There’s something else going on and he’s got something to do with it. Do you see him?”
+
+Sweep cast her gaze about the craggy clearing of logging station three. The wood here on the south side of the Grand was thicker than on the north. The trees were closely packed, had thicker trunks and reached taller. Thomas stood on the far side of the clearing, furthest from the river, and peered into the woods, an anxious cast to his posture, while everyone else’s attention was on Father Vytal.
+
+Sweep nodded. “Let’s go talk to him.”
+
+The made their way across the clearing, giving wide berth to the large logger loitering nearby, but not too near. They walked close together, taking comfort in each other as they left the immediate proximity of Father Vytal. Sweep tried not to clench her jaw.
+
+Thomas jumped as he noticed their approach and tried to pretend he hadn’t been peering off into the woods.
+
+“What’s going on?” Sweep asked, trying to sound calm and confident like Father Vytal, but certain she sounded like a nervous little girl.
+
+“Nothing,” Thomas replied predictably.
+
+“There’s something more to all this. Something you’re not telling us.”
+
+Thomas glanced into the woods and Sweep followed his gaze. She couldn’t see anything, but she had an idea. She closed her eyes, and opened herself to her power. Immediately she could see auras. Temperance’s green and yellow was near and bright, but also near, and not as bright, was Thomas’ orangish yellow and further on, hidden to her normal sight, another orangish yellow. Someone hid in the woods.
+
+Sweep opened her eyes. “Who is she?”
+
+Thomas hunched his shoulders and looked away. “I don’t know what you’re talking about.”
+
+Sweep looked over her shoulder at Father Vytal talking with Dakkon the logger. They argued. Or rather, Dakkon shook his head and grumbled while Father Vytal spoke in measured tones.
+
+“It doesn’t look too bad,” Sweep said, turning back to Thomas, “But it could become so.” She remembered what she had learned while meditating and shook her head. “No, it will become so. I… I’ve seen both sides’ frustration. I’ve felt it. The tension is ready to burst. Someone will be hurt. You don’t want that, do you Thomas?”
+
+Thomas shook his head, looking at them reluctantly.
+
+“Who is she?” Sweep repeated.
+
+But before he could respond, a tall young woman in leather clothes and a mottle-patterned cloak emerged from the wood, a quiver on her back and bow in her hand. She looked carefully over their heads at Dakkon and Father Vytal.
+
+“Are you a cleric?” the woman asked, not quite looking at them, casting her gaze this way and that.
+
+Sweep shook her head. “We’re apprentices to Father Vytal.”
+
+The woman glanced over their heads again. “He’ll be furious if he sees me. My name is Amelia. I’m Rory’s granddaughter.”
+
+“Rory the gamewarden? What are you doing sneaking around the logging station?” Sweep asked.
+
+Temperance squeezed her hand. “They’re in love with each other,” she said.
+
+Sweep looked at Temperance, confused for a few moments more before she understood. She looked back at Thomas and Amelia. “You’re in love?”
+
+They looked at each other and nodded.
+
+Sweep shook her head, stunned. “Well, that’ll make it harder.”
+
+But Temperance shook her head. “It might not. In history, sometimes warring nations would marry their heirs together, combining the nations and stopping the war.”
+
+Sweep felt a sudden swirl of thoughts from the two. Thomas was stunned at the thought of marrying Amelia, but almost immediately thrilled by it. Amelia, on the other hand, was skeptical their relationship could be more helpful than harmful. The thoughts intruded upon her own, and Sweep tried to hold them at bay. She slipped to her mindspace and pulled her gossamer glass shield over her mind. The outside thoughts were shut out immediately.
+
+Sweep blinked at the two blearily.
+
+“I have to go,” Amelia said. “I’ll see you tonight, my love?”
+
+He nodded. “Of course, dearest.”
+
+They shared a quick kiss and then she disappeared into the wood.
+
+Sweep looked at Temperance and both rolled their eyes.
+
+• • •
+
+Father Vytal declined Dakkon’s invitation to take luncheon with them.
+
+“I think we’ll go see the game warden. There’s no sense letting this situation stew any longer than it already has.”
+
+“He’s a slippery bastard,” Dakkon said. “You’ll not find him if he doesn’t want you to.”
+
+Father Vytal smiled and nodded. “Even so, we’ll give it a try.”
+
+Once away from logging station three, Father Vytal asked, “What did you learn from Thomas?”
+
+Sweep smiled, unsurprised Father Vytal had noticed their clandestine conversation. “Thomas is in love with the game warden’s granddaughter, Amelia.”
+
+Father Vytal chuckled. “Well that complicates things. Love often does.”
+
+“Temperance thinks it might provide a solution actually. Like a truce when heirs get married.”
+
+“Interesting. Very clever, Temperance.”
+
+Temperance blushed and hunched her shoulders. Sweep nudged her and smiled.
+
+“Piety, we’re going to search for the game warden and his rangers now. Likely, they’ll see us before we see them. But, we’ve got an advantage.” He tapped his head. “I’m going to lower my mental shield and listen for any thoughts out there. I’m keeping my mind open, just as I might keep my ears open for stray conversation. I imagine, with a little practice, you should be able to do the same.” Then he stopped and gave her a serious look.
+
+“There’s an ethical concern. Digging through someone’s thoughts without permission is a gross violation of privacy. But sometimes in order to protect someone, you have to know things they’d rather you didn’t.”
+
+Sweep frowned. “How will I know when it’s all right?”
+
+“Trust your judgment and the judgment of your peers. I have faith in you.”
+
+Sweep found it difficult to focus on her telepathy without closing her eyes, and after the third time she stumbled and fell to her knees, even with Temperance guiding her, she replaced her mental shield and let Father Vytal conduct the telepathic search.
+
+After hiking for nearly an hour, without any logical course Sweep could figure, Father Vytal stopped and said, “Ah. We’re about to have guests.”
+
+Sweep closed her eyes, slipped to the mindspace, and touched the bowl of water on her desk. In a blink, she could see the orangish yellow auras of three rangers approaching cautiously.
+
+“Just stay by me,” Father Vytal said. “They don’t mean us any harm.”
+
+Sweep opened her eyes. One ranger approached openly, short bow in hand but not at the ready.
+
+“Are you lost, Holy Father?” the ranger asked politely. He was clad in mottled brown and green leather. His hair was short and sensible, his skin darkened with long days in the sun.
+
+Father Vytal spread his hands. “Not at all. My apprentices and I happened upon the logging station and couldn’t help but hear about their conflict with the local game warden. As a neutral party, I offered to mediate.”
+
+The ranger stiffened. “The game warden has a contract from Magistrate Putnam himself. The only conflict is in the mind of that block-headed logger.”
+
+Sweep whispered, “Sounds familiar.”
+
+“That’s what we intend to find out,” Father Vytal said, giving no indication he’d heard Sweep. “If you’ll escort us to the game warden, I think we can get this sorted out.”
+
+But the ranger shook his head. “He’s on a long tracking mission. I’m afraid it will be weeks before he’ll be back.”
+
+“Don’t lie to me, young man,” Father Vytal said, his voice shifting to become grave and stern. “The game warden sits at camp and awaits your report on me.”
+
+Sweep smiled as the ranger blinked in confusion, and she wondered if she’d be able to read him as Father Vytal did. She leaned into Temperance and grasped her hand. “Don’t let me fall over, all right?”
+
+“What?” Temperance whispered back.
+
+Sweep didn’t take the time to explain. She closed her eyes, slipped to her mindspace, and reached for her power, pulling it about her. Immediately she saw the orangish aura of the ranger and his companions, still hidden in the wood. With a breath and a thought, she touched the smooth plane of her mental shield and let it fall.
+
+The ranger’s thoughts weren’t clear like when she spoke with Temperance, but rather a muted babble, like someone speaking in the room next door. And though she couldn’t pick out individual words, she could tell he was conflicted, both resistant and willing.
+
+“I don’t need you to show me the way,” Father Vytal said. “Come along, girls.”
+
+The ranger escorted them though Father Vytal behaved as though he didn’t. Sweep replaced her shield and opened her eyes, but Temperance held on to her hand anyway. It wasn’t long before they entered a small meadow housing a cluster of tents. A grizzled old ranger with short white hair and stubble sat cross-legged outside his tent, bow across his knees, waiting for them. Behind him knelt Amelia, not looking at them.
+
+The ranger nodded. “Holy Father. I understand you’re here to mediate.”
+
+• • •
+
+For nearly a week, Father Vytal and his apprentices trekked back and forth between logging station three and wherever the game warden had decided to make camp. Sometimes he switched camps several times in a day, sometimes there was no camp at all, and Sweep got the impression he was testing Father Vytal.
+
+At each day’s end, they would return to their own small camp and Father Vytal would ask them what they thought about the day’s discussions.
+
+“They’re stubborn,” Temperance said.
+
+“So how do we get them to stop being stubborn?” Father Vytal asked.
+
+“We’ve got to show them if they don’t compromise, they’re going to ruin themselves as much as the other. We have to get them to talk”
+
+“It’s like Saint Weston and the Burning Willows,” said Sweep. “All the sides in the war lost what they were fighting for because they wouldn’t stop fighting.”
+
+“But that one ends in tragedy,” Temperance said.
+
+Sweep nodded. “It’s Saint Weston’s Lament. ‘If I had been decisive, acted sooner, I could have stopped the war before it started.’” She looked at Father Vytal. “I’m not sure what to do, but I think we’re going to have to do it soon.”
+
+• • •
+
+Finally, on the ninth day, Dakkon and Rory agreed to meet in a small clearing by the road on the north side of the river, where the bank was smooth. They had agreed to each bring only three men. They had agreed, at Father Vytal’s insistence, there would be no trickery, sabotage, or violence at the meeting.
+
+Dakkon and Rory faced each other, the tools of their trades firmly put away. The men they’d brought stood at their backs like bodyguards. Father Vytal, clad in his formal black clothes and white coat and red stole stood between them so he could face them both. Sweep and Temperance stood behind him, hands clasped.
+
+“Gentlemen, you know this must stop. Someone is going to get hurt, and no one wants that. Furthermore, after examining both manifests, I have come to the conclusion that both are valid.”
+
+Dakkon and Rory began shouting at once, but Father Vytal held up a hand and the shouting stopped.
+
+“I know the signature of Magistrate Putnam, both the current and the previous. Dakkon, yours was signed by the current magistrate; Rory, yours by his father.”
+
+Both men stared agape at Father Vytal, nonplussed. The men at their backs muttered quietly.
+
+“Furthermore, I’m sure if we work together, here and now, we can work out a mutually beneficial agreement.”
+
+But Sweep felt an odd tug at her mind, a thought, a memory, an inkling demanding attention. At the same time, Temperance squeezed her hand, leaned in close, and whispered.
+
+“I think I saw Thomas.”
+
+“Where?” Sweep whispered back.
+
+“There, in the woods,” Temperance gestured with a faint nod.
+
+Dakkon’s deep voice filled the clearing. “Both legitimate,” he rumbled. “Well now, that puts a different spin on it.”
+
+“And as mine’s older, it holds precedence,” Rory said.
+
+“As mine’s signed by the current magistrate, mine holds precedence,” Dakkon countered, his claim a bellow.
+
+Father Vytal interjected. “Not in this case, I’m afraid. Neither manifest dictates a precedence and neither a period of service. Both are valid so long as they’re not invalidated by the current Magistrate Putnam.”
+
+Sweep closed her eyes and took deep, even breaths. She emptied herself of self and felt her surroundings. She touched her smooth mental shield and let it drop. Immediately, auras filled her vision and mental babble filled her ears, the thoughts so close to being spoken they may as well have been.
+
+These old fools have been fighting over nothing.
+
+The old man’s been good to me, I’ll protect his back.
+
+I don’t trust those shifty bastards, best stay sharp.
+
+“Piety?”
+
+“I’m all right,” Sweep whispered back.
+
+She took another deep breath and tried to sort through the voices and auras. Like sorting through socks, pairing a mental voice with an aura, Sweep laid them aside until she found the pairings she wanted. Temperance was right, Thomas was, indeed, in the woods, and he wasn’t alone. Amelia was with him. They whispered to each other, worried the meeting below would end in disaster.
+
+“Fools,” Sweep muttered. “They should have let Father Vytal handle it.”
+
+“What are they doing here?” Temperance whispered.
+
+“Fretting.”
+
+A sudden shout broke her concentration, and Sweep staggered, kept upright by Temperance’s arm around her waist.
+
+“There’s someone in the woods!”
+
+“Sneak!”
+
+“Betrayer!”
+
+She blinked against the chaos. Father Vytal was trying to get Dakkon and Rory to calm, trying to separate them as they’d gotten nose to nose, shouting incoherently. The rangers had drawn arrows pointed at the loggers, the loggers had their axes at the ready.
+
+“Stop,” Sweep said, her plea lost to the shouting. In the wood behind her, she felt Thomas and Amelia hurrying to the clearing. When they burst through, she knew the rangers and loggers alike would react badly.
+
+“Stop!” She steadied herself and stood as tall as she could. Temperance released her.
+
+“Piety?”
+
+Sweep pulled at her power, like wrapping a blanket tight around her shoulders.
+
+“Stop!”
+
+Her voice echoed against the minds of everyone in the clearing, and all but Temperance staggered as though struck physically. They were stunned and outraged, but they stopped and all eyes turned to her.
+
+Sweep ignored them. She turned instead to the wood where stood Thomas and Amelia, their orange auras shining brighter than the sun, pulsing rapidly with fear, hands held tightly.
+
+“What is this?” Rory demanded.
+
+“Shush,” said Sweep. “Listen.”
+
+Sweep opened herself to the thoughts of Thomas and Amelia. The swirling fear and hope, frustration and love, anger and understanding echoed in her mind and she knew, though she and Temperance might roll their eyes, that Thomas and Amelia were in love. And she pushed their thoughts as hard as she could on those in the clearing and those beyond.
+
+They did not stagger, but they did lower their weapons.
+
+Sweep wasn’t finished. She pulled at the echoes of thought, the anger and hatred and destruction of moments ago and pushed that upon them as well. Reminding them what they had nearly come to.
+
+“Oh,” said Rory.
+
+“Well then,” said Dakkon.
+
+• • •
+
+The wedding was three days later. Sweep, tired from her exertion but not exhausted, stood with Temperance in the front row while Father Vytal presided. Loggers and rangers filled the clearing, and they cheered when the bride kissed the groom.

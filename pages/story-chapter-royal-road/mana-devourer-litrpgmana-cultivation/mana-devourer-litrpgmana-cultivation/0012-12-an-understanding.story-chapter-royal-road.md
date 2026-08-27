@@ -1,0 +1,259 @@
+---
+id: 19261bcd-d5fe-5d7e-81c9-31947b15cf1d
+page-type-slug: story-chapter-royal-road
+title: "12.  An Understanding"
+slug: 0012-12-an-understanding
+partOf: mana-devourer-litrpgmana-cultivation
+position: 12
+ownLength: 3742
+unit: words
+publishedAt: 2024-07-03
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1702733/12-an-understanding"
+royalRoadId: "1702733"
+---
+
+Markus had been about to pass out when he felt a pair of hands around his chest hoisting him back to his feet.
+
+“Good fight…” Drathok whispered into his ear, before turning to bow to the audience.
+
+[D Grade Life Mana Absorbed.]
+
+In the couple seconds of contact they’d shared, Markus had received some energy from Drathok, probably just enough to stop him from going into shock. He was still bleeding profusely, but at least had enough left within him to keep his own heart pumping, to stand and breathe without falling apart entirely.
+
+“Ladies and gentlemen, esteemed guests, please, give it up for my new champion!”
+
+The excited roar of the crowd only swelled, as did the boos that came in tandem. Markus’ new fans drowned out his critics, their cheers only heightening as Drathok aimed a single finger at the one goblin cowering in the far distance of the arena, being pelted with litter and food from above, and with a blast of eldritch power, blew half the creature’s chest out.
+
+Markus watched as it fell to the floor, dead, executed with impunity, struck down by Drathok’s unfeeling hand.
+
+Perhaps it was a mercy to kill it like that. Markus wasn’t so sure. It had surrendered. It had fled. It would have died in the arena eventually regardless.
+
+None of this mattered right now, but he clung to the scene unfurling before him regardless. As he watched the creature stumble and fall, eyes dead before it hit the ground, a flash of lightning shot in his periphery, and Drathok pulled them both away.
+
+When they reemerged from the teleportation, it wasn’t in the usual summoning chamber, but rather, a different room in a different setting.
+
+They were still below the arena, Markus was fairly sure, but the room they found themselves in was crazy. A long table stretched alongside twenty seats on either side, the furniture old, yet wooden and bespoke. The walls around them were ancient stone that looked to have survived eternities, barely marred besides the slightest discolouration, and to the left of this long table, a wall that had been stripped away almost entirely, revealing through the empty space a large chamber that shone light on a vast dungeon that existed so unassumingly below the colosseum.
+
+It looked almost to be its own world, its own ecosystem. From this vantage point, staring out from the hollowed wall, Markus could see a vast, impressive central hall, complete with market and smithy and tavern and holding pens for monsters and beasts alike, alongside paths further on that wound down into the fiery beyond, an orange glow emanating from further down the way that only seemed to glow brighter the further Markus stared.
+
+In the centre of everything, a procession of creatures were being led to a distant dungeon, manacled and chained, prodded with sticks by unruly guards as they led their captives to a destiny that was surely both horrific and undeserved.
+
+This place was evil. It was beyond reproach. It needed to be destroyed.
+
+“Enjoying the view?”
+
+Markus flinched at the words. He turned to face Drathok, immediately slumping his shoulders.
+
+Shockingly, almost unintelligably, Drathok produced a chair for him. He didn’t conjure it with magic, or even use any magic to pull it. He grabbed it, he dragged it, and he placed it behind Markus.
+
+Markus tensed up by instinct. His entire body was burning with pain, adrenaline, exhaustion, and Mana Poisoning in equal measure, but this was a trick. Something would happen to him if he sat down. He’d be tortured again, or berated, or punished, or have to endure some new torment entirely. He just knew it.
+
+He made to protest, but Drathok shoved the chair into the back of his legs and forced him to sit down. When his behind hit the seat, Markus realised he couldn’t muster the energy to get up again even if he tried.
+
+At least the chair was comfortable enough. It was pretty hard, but it sure beat the shit out of laying against the wall of his cell.
+
+“You’ve impressed me once again,” Drathok said, pacing before him as he spoke, brushing his embroidered finery. “I know not why you were without a weapon, and I consider you both foolish and insane to have attempted such a thing, but I cannot deny your results.”
+
+Markus attempted to wipe the sweat from his face, bringing his face down to avoid moving his arm too much, but only succeeded in smearing blood against himself. He sighed, summoning his best face.
+
+Markus smirked, as if he were unaffected by anything in the world. “Were you worried you were gonna lose your best earner for a minute there?”
+
+“My best earner? Please,” Drathok scoffed. He leaned in, narrowing his brow. “Were you worried you were going to die, Markus Brown?”
+
+“And get away from all this?” Markus gestured with his right arm, though the motion fell flat; he was barely able to lift it. “Why in god’s name would I want that?”
+
+“A good question. I’d have killed to be in your position, once.” He shrugged his shoulders. “Well, I suppose I have killed to that effect.” Drathok snapped his fingers, and a small imp appeared before him. The same one that’d brought him to his cell after his first fight.
+
+“What’s up, boss?” the creature asked. It sounded female.
+
+“Carting me back to my cell already?” Markus asked coolly, as if he weren’t falling apart at the seams, as if he didn’t care what happened next. Maybe he didn’t. He was so tired.
+
+“Not yet,” Drathok answered. He turned to the imp. “Bring food. Bring a healing drought, too. A strong one.” He turned back to Markus. “Are you partial to any food in particular?”
+
+Markus scarcely resisted the urge to spit at his captor, if only because he thought he’d end up dribbling on himself instead. “What is this? Your idea of a reward?”
+
+“This is simply hospitality. What do you eat?”
+
+“...”
+
+Drathok tutted, lightning zapping across his fingertips. “Bring out a spread. I’m sure our purse-lipped friend will find something he enjoys. And don’t forget the potion.”
+
+“Got it, boss,” the imp saluted, flashing away not a moment later.
+
+“Apologies. The power to heal is not a gift I possess. I’d load you up with more mana, but in your state, it might kill you.”
+
+“Why are you… being nice to me?”
+
+Drathok blinked at him, as if he were confused. The characteristic grin on his face faltered a touch. “When have I ever not been courteous towards you?”
+
+“I don’t know…” Markus’ voice was a drawl. He could scarcely keep his eyes open anymore. “How about when you enslaved me, or when you cut my finger off… or when you…”
+
+“Gave you a chance to serve a purpose greater than you ever imagined?”
+
+The words snapped Markus back to focus. He jolted in his chair, offended by the sentiment. “How is killing monsters to satisfy some sad loser’s bloodlust any kind of ‘purpose’. It’s fucked up.”
+
+Drathok stewed on his words for a moment, then smiled once more. “I agree with you. Arena bouts are characteristically ugly. They satisfy a base desire that sits in the deepest and darkest recess of a creature’s heart.
+
+“That said, your combat is excellent. Untrained and sloppy, yes, but the brushstrokes are teeming with emotion, it spills out from your spirit as you defy your limitations. That is why they wager money on you. Why they cheer when you win.”
+
+“And you think that’s a great purpose?” Markus sneered. “That it’s worth kidnapping someone from across galaxies for?”
+
+“Purpose is a means driven by the individual as much as it is drawn by fate. The advancement of my purpose comes at the reshaping of others’. To be greater than I was before, to serve my purpose? My actions were necessary.” He pointed a clawed finger at Markus. “To deny the fate I imposed upon you, you acted out of necessity. I may have given you a chance to be something more, but you took it upon yourself to be greater.”
+
+“Ah, gee. When you put it that way, thanks.”
+
+“Survival isn’t your purpose, though, no. Neither is entertaining a crowd. Gods of Firellia wish to enlist you, Markus. Gods!”
+
+Markus’ eyes were closed. He tried to shut Drathok out of his brain, but it was difficult to drown his voice out.
+
+“To think what different a life you might’ve lived only days ago is astounding. I worked for eighty years to get to where I am now, and I’d not be surprised if you eclipsed my strength in three.”
+
+“What’s it matter?” Markus groaned, annoyed he’d been drawn back into the conversation.
+
+“Excuse me? What does it matter?” Drathok was silent for a moment, as if he were attempting to process. “Power is everything. It’s the only thing that matters.”
+
+Markus’ eyes remained closed. “I think I’d rather have freedom than power.”
+
+“Power is freedom.”
+
+Neither of them spoke again for a time. When the imp reemerged with the food, she’d forgotten the potion, and Markus didn’t stir. A couple minutes later, she came back with a small red vial and a shower of apologies.
+
+As Drathok’s command, she popped the vial’s cork and administered the potion, bringing it to Markus’ dry lips and tilting the vial upwards.
+
+As soon as the taste hit Markus’ tongue, his eyes shot open. It tasted almost identical to an energy drink, perhaps with a bit more of a kick to it.
+
+Perhaps it was his mind playing tricks on him. Maybe it was a mention of his previous life, mixed with a side order of delirium.
+
+Either way, Markus drank greedily from the potion, taking it from the imp that proffered it to him and downing it in one long gulp.
+
+He looked at the imp properly for the first time as he returned the vial to her. She was perhaps three and a half feet tall, her body thick but muscular, whilst still carrying the obvious marks of femininity.
+
+“Satisfied, boss?” she asked, turning to Drathok. “Sorry again for taking so long.”
+
+“Enough of that. You may leave us, thank you, Lexi.”
+
+She nodded, vanishing not a moment later.
+
+“She seems pretty fond of you,” Markus said, pointing where she’d just been as the potion ran its course through his body. Immediately, he found he could move his right arm much easier.
+
+“Of course. Why wouldn’t she be?”
+
+“Well…” Markus stayed his tongue. Did he want to pursue this line of conversation?
+
+Drathok’s smile faltered once more. He was silent for a moment, clearly in thought. “Who was it that came to collect you before your fight?”
+
+Remembering the experience only served to sour Markus’ already shitty mood further. He’d been clinging to the aftertaste of the potion, finding a faint sense of nostalgia, escapism. Being reminded of how he’d come to be in this fucked up state hardly helped with his daydreaming.
+
+Still, with the way Drathok was pressing him, eyes unblinking, he felt he couldn’t lie. “I don’t know his name. He had a scarred, wrinkled face. He was pretty loud, too.”
+
+Markus omitted details. He didn’t want Drathok to know what had happened. If there was discontent amongst his workers and Drathok didn’t realise it, that might be something he could use in future.
+
+“Did the imp that collected you do or say anything that you found troubling?”
+
+Fuck… now he was being put in a position where he had to lie. Sure, he could spill on what happened, but what would it accomplish? He’d get that jailer in trouble, rightfully so, but Drathok would be paranoid after. Perhaps he’d watch Markus more closely, too, fearful something might happen to him otherwise.
+
+He hadn’t seemed concerned at all until now. Markus knew how to lie about this shit, though. He’d spoken to teachers before, guidance councellors, social workers. The lie was incredibly well-practiced.
+
+He kept his face square, shaking his head once. “Everything was fine. Nothing bad happened. He was just a bit abrasive, that’s all. Seemed like he was in a bad mood, maybe.”
+
+Drathok studied Markus for a time, tilting his head. Behind his eyes, a faint glow burned. “That’s it? If he’s the reason you arrived with no weapon, that you almost died, then tell me. I’ll let you cut him to pieces. Tear out his eyes if you’re feeling merciful. One treacherous imp is of no importance to me.”
+
+“Nothing happened,” Markus lied. “He told me I was fighting goblins, and I decided to try out my new powers. I was feeling brave. If I’d known there were so many, I might’ve reconsidered.”
+
+“I see.”
+
+“And why are you trying so hard to be friendly with me now, anyways?” Markus deflected, circling back to a previous thought. “Now that I’ve got gods falling over sideways to recruit me, are you scared I’ll outgrow you and come back here for revenge? You already said you think I’ll be stronger three years from now. Where was this attitude when I said I didn’t want to fight for you? I think what you said is ‘I own you’.”
+
+Markus was panting a little by the time he’d finished, staring at Drathok as once again his hand sparked a bright blue. He wondered how right he was, if he’d perhaps touched a nerve of some kind.
+
+“No god would ever give you leave to kill me.” Drathok rolled his eyes. “If you haven’t noticed, they all frequent this place, and I’m the main proprietor. I’m not afraid that you will do anything. I simply wish to give proper thanks to you.”
+
+“If you really wanna thank me, then let me go home.” Markus snarled.
+
+“Home?” Drathok laughed, almost as if he couldn’t help himself. “We all have to play our part from time to time. I’d rather not play the part of owner right now, however, so if you could refrain from asking impossibilties of me, I’d appreciate it.” He spread his arms, a gesture of magnanimity. “What’s something more realistic that I can give you… Money? You can find places to barter and trade here. How about I give you a stronger weapon to make use of?”
+
+“How about a bed,” Markus interrupted, his voice cold and unfeeling. “If you’re gonna make me risk my life in this shithole, you could at least let me get some good rest afterwards. Sturdy bed, good mattress, nice comforter. Fluffy pillows.”
+
+“I really doubt you’ll be here much longer,” Drathok said, combing his head as he spoke. “Would you not prefer something you could take with you after?”
+
+“I’ll take a weapon too if you’re offering. The bed’s what I really want though. I can’t get a wink in that cell.”
+
+The two locked eyes for a moment. Markus thought Drathok might deny his request for a moment, but eventually, the demon nodded.
+
+“As you wish. I’ll have a bed delivered to your cell within the hour. As for the weapon…” Drathok waved his hand, and in a flash, he’d summoned a silvery coin that seemed to glow in the darkness, made of a metal Markus didn’t quite recognise. Drathok handed it to him, and the coin took on a light red hue. “Take this to the smithy below. Have the blacksmith refine a weapon of your choosing with it. Metals like this bring out unique properties within a weapon. You should find it to be valuable.”
+
+“Neat,” Markus said, taking the coin and pocketing it.
+
+“Perhaps you’ll opt to actually take such a weapon with you to future bouts, presuming you don’t get bought out first.”
+
+“How do you know I’ll receive an offer I even like?”
+
+“It’s in your best interest to,” Drathok stated simply.
+
+Markus narrowed his eyes. “Meaning?”
+
+“Meaning that your display earlier was either a result of excessive hubris or was an ill-conceived attempt at rebellion. Your contract compels you to fight in earnest. It doesn’t say you can’t stack the odds against yourself first.”
+
+Drathok gestured to the food around them, all of it piping hot and untouched, consisting of various meats, cheeses, vegetables, and what looked to be something similar to a cake. “I brought you here to show thanks to you, but also to broker an understanding between us.”
+
+“And what is that understanding?”
+
+“That your value diminishes greatly if you die. If you wish to keep rejecting offers, feel free. It only drives your price up further. But you will accept one eventually. And soon. With each fight that passes, the value of my hold over you depreciates.”
+
+Markus grabbed a slice of hot, salted ham and began to munch on it. “And that’s my problem?” he said between bites.
+
+Drathok growled, his throat rumbling with heat. “It very much can be your problem. For everything I hold the power to give, I can take just as freely. I’m happy to make your stay here easy, pleasant, so long as I feel you’re trying to secure a good deal for us both. I’m willing to give you a little longer to find one.”
+
+Drathok leaned forwards, his voice dropping to a whisper. “But if I get even a hint that you’re attempting to spite me, that you’re refusing to cooperate with these proceedings simply to try and fulfill your contract, I will make your life hell. I will make you wish for the hopelessness you felt when you first arrived here. I will squeeze every drop of joy and hope from your spirit and make you beg for death.”
+
+“Gotcha,” Markus nodded, munching on an egg as he spoke. “Make a deal soon or you’ll torture me, blah blah blah. You could’ve just led with that.”
+
+Drathok stood. Electricity radiated through his entire forearm. He weathered a sigh. “Enjoy your meal. Enjoy exploring this place. Find an imp if you become lost.
+
+“And Markus? Torture isn’t the point. Make a deal, or you’ll die here alone.”
+
+With that, Drathok left, and Markus immediately dropped the food he was holding.
+
+He wasn’t hungry, despite how little he’d eaten lately.
+
+No. Instead, Markus felt determination.
+
+He wasn’t stupid. He picked up as much food as he could carry, loading it onto a plate and taking it with him as he walked his way back to his cell, taking things like bread and cheese over meat, stuff he thought would last longest. No guarantee when he was next getting fed, after all.
+
+When he eventually found his way back to his cell, his bed was already waiting for him.
+
+He tested it out. It was as comfy as it looked, perhaps moreso. Compared to any bed he’d slept on in his life back on Earth, this was a massive leap in quality. It felt like he was sat on a cloud that’d been stolen from heaven.
+
+And yet, even in the aftermath of the most grueling fight of his life, Markus didn’t feel the urge to sleep. He sat upright on his bed, watching as his recent injuries very slowly began to close.
+
+He still couldn’t move his right arm fully, and his legs felt numb. Ember’s healing would’ve been useful right about now. He wondered where that dog had gotten off to.
+
+More than that, Markus wondered how likely it was that he’d encounter a deal good enough to take in the coming days.
+
+He wondered if anyone could offer him what he truly wanted.
+
+He drew out one of his two remaining Essence Stones as he considered the notion, attempting to drain away as much of the excess mana that he could, planning to allocate whatever stat points he needed to right after.
+
+He had four level-ups to go through, 32 stat points to spend, and a whole bevy of other notifications to deal with. He’d do it on his way to the blacksmith.
+
+As Markus reduced his Mana Poisoning, he started to consider Drathok’s words more deeply. Would he feel the need to make such threats if he were confident Markus would do what he wanted, or even to bribe him in such a manner?
+
+Markus didn’t want to be here. He didn’t want to be fighting for his life and he didn’t want to incur Drathok’s wrath. He didn’t want any of this.
+
+And yet, this determination he felt was unshakable. There was a feeling within him that transcended his own concerns, his fears, that pushed him solely in the direction of defiance, that made him want more than anything to tear down any prospect that demonic asshole had of a happy outcome.
+
+He didn’t just want to ruin his deal and deny Drathok’s payday. He wanted to ruin his life, tear this whole operation down around him, and destroy this sick institution once and for all.
+
+Eight more fights… Markus wasn’t thinking about it like a checklist, like a list of trials he had to get through in order to earn his freedom on his own terms. No. That’d be too simple, and Drathok would never allow him to go through with it if the demon could help it. He’d do everything in his power to deny Markus that.
+
+So rather… eight fights was a timer. Markus had that time to find a means to destroy his contract, to escape this fate, and to end Drathok’s hold over him.
+
+First, he needed to become powerful enough to do it. Drathok had said power was everything. That power was freedom. In this situation, he was likely right.
+
+But power wasn’t just levels or stats. No amount of grinding alone was going to get him where he needed to be in time, not if this was the path he wanted to commit to. What he really needed beyond anything else was information. That and allies, plus enough mana stored away to take out a powerful enemy, or at least have a halfway decent shot at it.
+
+Time to get a lay of the land. He’d meet who he could, learn everything he could about Drathok, this arena, and the world beyond, and start amassing resources and strength towards his final goal, no matter how lofty it might’ve been.
+
+From now on, no compromise. No matter what. Not again.
+
+First thing’s first, get a new weapon, and find a good place to use it.

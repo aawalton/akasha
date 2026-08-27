@@ -1,0 +1,159 @@
+---
+id: f58173aa-b1d2-584a-9cfb-d14f3090fcec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 138: The Fate of Earth"
+slug: 0179-chapter-138-the-fate-of-earth
+partOf: labyrinth-of-the-mad-god
+position: 179
+ownLength: 2708
+unit: words
+publishedAt: 2025-06-04
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2330577/chapter-138-the-fate-of-earth"
+royalRoadId: "2330577"
+---
+
+As those words echoed across the smoke-filled air, Nick and Devin sprang into motion—desperate to stop the Guardian before the process was complete.
+
+Before they could close half the distance, a thick dome of force wavered into existence, trapping them inside. The duo tried to cut their way out, but they couldn’t break through in time.
+
+Over the next adrenaline-soaked minute, the lethal construct transformed.
+
+Nick had thought the energy emanating from the Guardian was powerful before, but it was nothing compared to the dazzling storm of mana and essence that came surging out from its core. Its magic is at least twice as strong now. That bastard was toying with us the whole time.
+
+As power infused every inch of its frame, the machine continued to change shape. Its limbs extended and its torso widened, until it was head-and-shoulders taller than before. Force mana fortified every joint and limb, multiplying its strength while armoring its body.
+
+The construct’s gears reconfigured while spinning at a manic rate, conveying a promise of impending violence. Meanwhile, more radiators appeared across the Guardian’s back. Its plating grew hotter until its metal frame was glowing a blinding white.
+
+The blade of its gear-axe had doubled in size, and there was so much fire mana infusing the artifact that it blazed like the sun in Nick’s energetic senses. “That’s not good.” Devin unleashed blow after blow as Nick struggled beside him. “I think we might be in trouble.”
+
+They finally broke through the transparent barrier, just as the Guardian turned to face them, grinned, and got ready to end the fight. “Focus on defense until we find an opening,” Nick said. “We can’t afford to get…”
+
+His words were cut off when the machine made its move. Dense flows of mana surged out from its weapon, forming a tsunami of flame. It was a wide-area attack, which would have taken a big bite out of Team Earth then and there if the three of them hadn’t moved to a far corner of the battlefield.
+
+There wasn’t any way to dodge such a massive attack, so Nick cast Arcane Shield and then raised his sword in front of him—blade shining silver as pure mana crackled along its length. His spell shattered beneath the incredible surge, bending the flow before it broke over their bodies.
+
+Even with a portion of the ability’s energy deflected, it felt like he’d been hit by a runaway train and then set on fire for good measure.
+
+The impact rippled throughout their bodies, sending the men flying like leaves in the wind. Even though Nick had brought Blightbane up in time to sever some of the magic, wounds blossomed across his limbs as the machine’s magic engulfed him.
+
+The duo landed in a crumpled heap, then they rose to their feet and ran in opposite directions. At least we can keep it from hitting both of us with the same attack. Now, which one will it choose?
+
+Nick learned the answer to his question when the Guardian appeared before him in a burning brass flash, overpowering his defenses like it was child’s play. He took a kick that shattered several ribs and a slash across his arm that bit deep.
+
+He tried to regain control over the situation but found himself outmatched. The damned construct was faster and stronger than he was. His mind raced as he fought to come up with some way to win, but there was nothing he could do. The boss raised its clockwork-axe high, and Nick knew with complete and utter certainty that when it came down, he was going to die.
+
+Before the machine could finish him off, Devin appeared beside it.
+
+The warrior let loose with Flashfire Pulse and Blast Striking back-to-back, obscuring the machine in a searing tide followed by a powerful explosion.
+
+The blast drove the construct back, and Devin followed up with a flurry of Volcanic Fissures, bathing the boss in repeated spews of lava.
+
+But the tier-2 elite kept right on coming, emerging from the endless torrent of flame as if Devin’s magic were no more threatening than a light spring rain. It unleashed a searing swipe that sent the man rolling across the stones, smoking and sizzling as his body burned. His natural resistance kept him from being consumed by the blaze, but he couldn’t withstand much more.
+
+Before the Guardian could fire again, Nick launched an assault from behind.
+
+In that moment, he thought that he might be able to turn this around. But the construct deflected his strongest attacks with contemptuous ease, driving him across the rooftop with no appreciable effort. It’s more powerful than both of us combined. We can’t hold out much longer.
+
+This situation was worse than anything he had imagined. While the duo had obtained the upper hand when fighting an opponent that was limited to their tier, the Guardian’s true strength was terrifying to behold. One direct hit would kill them instantly, and even a glancing blow inflicted incredible damage.
+
+By now, both men were seriously injured, and they were burning through the dregs of their reserves just to remain upright. The living machine had shrugged off their strongest attacks, and if anyone else got caught in the crossfire, they were going to die.
+
+It was only a matter of time before a lethal blow landed.
+
+Nick called upon Artic Clarity to quell his rising panic, kicking his tactical brain into overdrive to come up with any semblance of a plan. But nothing he could think of would work—their enemy was simply too tough.
+
+They survived the next breathless seconds by the narrowest of margins. The Guardian used both force and fire in a continuous combination of carnage. Every blow of its axe erupted into flame, and it created force barriers that absorbed every attack coming its way.
+
+As bad as that was, and it was fucking terrifying, Nick was dead certain that the boss had only revealed a portion of its true strength.
+
+Any second now, it’s going to try to end the fight in a flash.
+
+No sooner had that thought crossed his mind than the construct merged both types of mana into a single strike. It sent thick flows of force to strengthen its arms as the fire dancing along the blade of its gear-axe intensified to white-hot and beyond.
+
+“Watch out,” he warned Devin. “It’s trying something new. We’re dead if we don’t get out of the way.”
+
+Half a heartbeat later, the Guardian slammed its weapon into the ground, channeling a dual blast of force and flame that surged forth like a damn bursting. Nick used Force Acceleration while burning stamina to dart out of the way, and even then, the powerful attack ravaged his body as it sailed by with inches to spare. He felt more bones fracture and coughed up a mouthful of blood.
+
+Meanwhile, Devin had sent a blend of mana and stamina into his legs and leapt straight up, using Flame Dash to obtain considerable height. He cleared the top of the searing surge, but the shockwave picked him up and threw him back, smoking as he went skidding along the stones. The white of bone protruded through his lava armor as his left arm dangled uselessly at his side.
+
+Critically wounded, both men managed to rise to their feet, refusing to yield no matter the odds. The Guardian smiled wide, relishing their final moments. It stopped using mana and switched to melee attacks, eager to claim their lives by its own hand.
+
+Even without its magic in the mix, Nick and Devin were completely overwhelmed. The subsequent barrage of blows pushed them all the way back to the rim of the rooftop, taking more damage along the way. They were barely hanging on, and the next attack was certain to send them plummeting to their doom.
+
+He looked over his shoulder when his boot touched the precipice, staring down at the moon’s surface far below. The duo raised their weapons and prepared to make their stand, intending to keep on swinging until their final breath.
+
+They had fought well and given the battle their all, but as matters stood, Nick was certain that he was experiencing the final seconds of his all-too-short life. “Sorry, Nick.” Devin sighed. “It was an honor to have fought by your side.”
+
+“You too, man. I’m sorry that my best wasn’t good enough.” The Guardian paused as it raised its weapon high, savoring the moment before ending the fight.
+
+A heartbeat before the machine’s gear-axe came down, Nick felt a surge of strength infuse his body.
+
+Then a second and a third, followed by a dozen more.
+
+Devin must have felt it too, because they dodged the Guardian’s attack with inches to spare as its eyes widened with surprise.
+
+When Nick looked up, he saw that Team Earth formed a half-circle around their position, Kenji and Sophia among them. It’s everyone who is capable of casting supportive magic, he realized. Nick had been so busy with his own fight that he hadn’t noticed his allies had won theirs. Now that the pressure has lifted, they are casting their buffs on us.
+
+“It’s not over yet.” He grinned at Devin. “It looks like it’s time for a comeback.”
+
+The construct frowned and sent a wave of force and flame surging toward Kenji’s army, but dozens of barriers sprang into existence to absorb the powerful blow. For every shield that shattered, another took its place as hundreds of spells lit up the night sky in a dazzling array.
+
+Meanwhile, the abilities empowering Devin and Nick kept on coming. Ten buffs became twenty, then fifty—all between the drawing of one breath and the next.
+
+The Guardian swore and darted in, intending to cut them down before they grew even stronger. But thanks to the assist from the rest of Team Earth, the duo was able to scramble out of the way then dodge the endless series of attacks that followed.
+
+Over the next adrenaline-saturated seconds, hundreds more spells washed over Nick and Devin, suffusing them with might. The potent blend of powers flowing out from Earth’s elites multiplied their attributes, enhanced their elemental resistances, and provided myriad additional benefits.
+
+Some of the spells were healing them too, while others were hard at work restoring their stamina and mana. Soon, they were able to meet the Guardian in a direct exchange of blows, holding it back by the narrowest of margins.
+
+Throughout it all, the supportive magic kept on coming—spell by spell and layer by layer. With each new addition, the pressure lifted by a minute degree, until the situation reached a point where the men and machine were evenly matched once more.
+
+Nick’s wounds had fully healed, and resplendent energy coursed throughout every cell in his body. He knew that Team Earth was running on fumes, and the moment wouldn’t last for long. But here in their final hour, it was enough to even the odds, granting them one last chance to win the fight.
+
+If Nick couldn’t beat the boss with his next attack, he knew he was going to lose. He hefted Blightbane over his shoulder, infused the blade with pure mana, and… before he could swing his sword, the Guardian appeared before him.
+
+Nick ducked beneath its flaming axe, but it continued to turn and let loose with a roundhouse kick that caught him square in the sternum and sent him flying him across the rooftop like a ragdoll.
+
+Agony blossomed across his chest as his bones cracked beneath the impact. Devin landed in a heap beside him—eyes unfocused from a blow to his head. Frustration and agony churned inside him as Nick forced himself onto his feet.
+
+What he saw when he looked at his foe filled him with rising despair. The machine was damaged, but its core was still burning bright. It raised its artifact-blade high above its head, getting ready to execute a catastrophic attack.
+
+Checkmate. Nick steeled his resolve while looking death in the eye—victory slipping through his grasp like a fist that was clenching the sea. The men had pushed past their limits and fought with everything they had, but it hadn’t won the day. We came so close, but in the end, it wasn’t good enough. Team Earth had lost, and now the end of the world had arrived.
+
+He could feel his supportive magic fading away—overcome with the strange realization that he was experiencing humanity’s final moment.
+
+Nick raised his gaze to behold the Earth, grieving for the slaughter to come. Please, he beseeched his homeworld with all his heart. Just a little more power and I can turn this around.
+
+He thought he felt something respond to his plea as the Guardian’s spell hit critical mass and the world slowed to a crawl—each second flowing past at a glacial procession.
+
+Just when Nick decided that it was a delusion born of despair, a flood of power suffused him—stronger than anything that had come before.
+
+When he used his energetic senses to follow the incandescent river of mana to its source, his jaw dropped in astonishment. The onslaught of magic was coming from the Earth itself, hanging in the sky above his head.
+
+As it happened, the changes to his homeworld were even greater than Nick had imagined. The Earth had heard his fervent plea, recognized the stakes of this battle, and was ready to do whatever it could to fight for its survival.
+
+Planetary magic surged through his limbs, enhancing his body far beyond anything he’d ever experienced. The spell was unimaginably strong, but he sensed that it would only endure for a fleeting moment. Long enough to empower a single blow—one last chance to win the fight and save his world from annihilation.
+
+Filled with the lifeforce of his homeworld itself, Nick bet the future of his people on one final attack. He sheathed Blightbane, took a deep breath, and called upon Artic Clarity one last time. As subzero focus filled his brain, he darted forth with incredible speed.
+
+The frozen moment gave him time to visualize his strike—to devote every scrap of his soul and fiber of his being into getting the next part right.
+
+In that instant, everything he’d learned came together like the pieces of a puzzle assembling. Even in this strange space where time flowed slow, the decisive moment was fast approaching. He didn’t have time to think, so Nick surrendered to instinct instead, placing his hand on the hilt of his sword.
+
+At the last possible moment, he drew his blade, combining Heavy Blow, Force Acceleration, and the draw-speed boost from his Half-Length Scabbard. Blightbane was infused with all the pure mana it could hold—so dense that all he could see was silver flame and the enemy standing before him.
+
+The Guardian saw him coming and tried to block, but it didn’t move fast enough.
+
+A crack like a peal of thunder rang out as time resumed its full course.
+
+Nick came to a skidding stop, then collapsed at the last bit of magic holding him upright faltered and faded away.
+
+He groaned in despair when he realized that the machine was still standing. It didn’t work and the Earth is doomed. I failed, and now every creature on the planet will pay the price.
+
+Half a heartbeat later, his hopelessness vanished like midnight before a bonfire when the Guardian’s hand detached from its body—severed as cleanly as by a surgeon’s scalpel. A deep gash was carved into the construct’s chest, spilling components across the battlefield. The clockwork axe shifted back to a staff as it fell with a clatter, then started rolling toward the edge of the rooftop.
+
+Before the boss could recover, Devin was there. He wound up like a batter in front of home plate, then unleashed his final attack.
+
+A torrent of flame accompanied his axe as Blast Striking kicked in, followed by Flashfire Pulse. The Guardian went spinning to one side, stumbling beneath the impact as it lost control over its momentum.
+
+Using the last sliver of strength in his body, Nick raised his wand and fired its final charge, shoving the wounded construct toward the precipice.

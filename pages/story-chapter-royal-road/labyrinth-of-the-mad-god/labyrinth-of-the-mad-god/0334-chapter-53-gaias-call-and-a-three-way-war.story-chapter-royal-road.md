@@ -1,0 +1,119 @@
+---
+id: f1aa113b-b59e-54e3-a2c4-0a36a2db7e87
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53: Gaia’s Call and a Three-Way War"
+slug: 0334-chapter-53-gaias-call-and-a-three-way-war
+partOf: labyrinth-of-the-mad-god
+position: 334
+ownLength: 2503
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3783552/chapter-53-gaias-call-and-a-three-way-war"
+royalRoadId: "3783552"
+---
+
+Sophia soared across the dungeon, enjoying one last sunrise before setting into motion the series of events that would end her life.
+
+She had tried so hard—rallied every fiber of her being and iota of her will into resisting Zenith’s advance. But day after day, hour by hour, second after grueling second, she had finally reached the end of her rope. She had grown stronger during her struggle, tried every trick she knew and invented dozens more, but in the end, she simply couldn’t overcome the ancient entity hailing from another plane of existence.
+
+Sophia had no desire to die, but she was weary and her mind was starting to fray. Against any other enemy, she would have battled until the bitter end, but the demon sharing her skin was precariously close taking over completely. Given the stakes, she couldn’t afford to take the chance that the next time she lost control, she would never regain it again.
+
+Zenith would raze Earth to ashes if that’s what it took. It would kill every creature that called the planet home if it helped the demon return to the dimension it was banished from millennia ago. I must end this today. The demon’s guard was down now that its victory seemed inevitable. She had done everything in her power to cement that impression, saving the final scraps of her strength for an ultimate act of defiance.
+
+That was why she had stayed far away from the volcano smoldering in the far corner of the dungeon—not showing so much as a flicker of interest as she went through the motions of making her peace with her imminent defeat.
+
+The next time the demon fell asleep, she would order Roc to approach the smoking crater and plummet into the lava. Even if the Zenith took control, she made the giant eagle promise that it would grab her body and not let go, putting an end to the foul creature once and for all.
+
+Her only regret was that she wouldn’t get to see her friends before the end. Couldn’t look Nick in the eyes and share her true feelings. But at least she would die knowing that she had ended a threat to all life on Earth. Bowed out while she was still herself.
+
+As if responding to her thoughts, Zenith slipped into the depths of dream. Sophia took a deep breath—unable to cry though she was brimming with sorrow—and ordered the eagle to begin its final flight. She basked in the beauty of this world, treasuring her final seconds despite the overwhelming loss and bittersweet memories swirling in her chitin-covered breast.
+
+As the smoking mountain grew large in her vision, Roc looked her in the eyes, making sure this was really what she wanted. Thank you, my friend. At least I won’t die alone.
+
+She nodded, bracing herself as a neon lake of molten mineral revealed itself when they crossed the crater’s rim. This is it. My final moment. Farewell, world, it was fun while it lasted.
+
+A heartbeat before she gave the order to dive, something unexpected occurred.
+
+“Turn back, brave one. Another path yet lies before you.”
+
+A voice spoke inside Sophia’s mind, echoing across the hidden recesses of her soul. It wasn’t sinister and cold like the demon’s presence. It was warm and nurturing, ancient and new, all at the same time. Her instincts told her to trust it, although the origin of that intuition was beyond her ability to divine.
+
+“Who are you?” she asked, commanding the eagle to circle the summit while she unpacked the unprecedented development. “What are you?”
+
+“I have had many names, some as old as language itself. I am the Mother and the One Who Is Many. Cradle, grave, and home. You may call me Gaia, Voice of the Earth. To be more precise, I am the consciousness contained within the world core that reached maturity moments before the System arrived to impose its will over the natural order.”
+
+Sophia realized she had felt this presence once before. When Nick and Devin were battling the Guardian of Darkstone Tower, the Earth had reached out to infuse her defenders with power, tipping the scales in the duo’s favor during the climax of the fight.
+
+To say that she was astonished by this turn of events would be an understatement of the highest order. There were ramifications to what was happening that she couldn’t even begin to process right now. However, all of that could wait. What mattered was what couldn’t.
+
+“How are you speaking to me, and what path lies before me? I’ve tried everything I can think of to resist Zenith’s assault, but I can’t hold out much longer.”
+
+“You are a part of me, and I am a part of you. Anywhere you go, I am with you. Now and forever. I am the path, but you must choose to walk it. There is a price to salvation, surrender, and oblivion. There is always a price.
+
+“Before you decide, know this. A ravenous tide is coming. Days of fire, blood, and steel. An enemy unlike any that has come before fast approach, and all will perish if we cannot hold it back. You are one with the power to protect. One worth of the title Guardian.
+
+“Should you choose to wear this mantle, I can assist you with your plight. My core is on the cusp of second ascension. At that time, I can empower a Guardian and appoint a Champion. As Guardian, you will become my sword and shield, tasked to defend me from defilers, plunderers, and predators of all stripes.
+
+“In the meantime, I can instill you with a seed of my power. Enough to resist the demon and retain your sense of self. That brings us to the price. If you accept, our bond will strengthen. Upon your appointment, you be unable to leave my presence for more than a few days without withering like a severed vine. Your roots will be planted, and you must leave exploring the carnivorous creature you call a cosmic maze to others of your kind.
+
+“Time grows short, little light. Zenith stirs. Will you accept my proposal?”
+
+That was a lot to unpack, but Sophia’s path was clear.
+
+“I will. I was prepared to die to protect you already. Staying home is a small price to pay for my life and the power to protect the people I love. Gaia, if you help me defeat my demon, I will become your Guardian.”
+
+When she uttered those words, vitality infused innermost being. A trickle of something indescribable flowed through her, nurturing in a way she had never known before. Its effects were subtle, but her sense of self was stronger, her mind sharper, and her well of willpower deeper than ever before.
+
+“And so, our pact is made. I have done what I can. The rest is up to you. You must hold on a little longer. A few more months at most. When my power blossoms, I will return. Together, we will defeat the darkness dwelling within the depths of your soul. Maintain your deception and steel your resolve. The night is long, but the sun will rise again.”
+
+Sophia ordered Roc to turn away from the searing sea roiling below her boots, smiling at the relief she sensed flowing through their bond. It wasn’t going to be easy to rebuff Zenith, even with Gaia’s gift. But now that the fires of hope had been rekindled within the guarded hearth of her heart, she would find a way to hold on until midnight gave way to the dawn of a new day.
+
+***
+
+Nick called upon Force Acceleration, rolling out of the way of Xuthu’s claws with millimeters to spare before springing back to his feet.
+
+He used Force Riposte to parry a powerful strike from the scorpion’s tail. He countered with a turbocharged thrust that carved a wedge of chitin free from the dreadbeast’s shell but didn’t reach the soft tissue below.
+
+In the distance, Fritz was trading blows with the Black Wind. The king used stamina to launch himself into the air like a grasshopper on steroids, meeting the bat claw to blade. While the monarch was a dangerous opponent, the warrior had the situation under control, letting Nick focus on the enemy looming before him.
+
+It was a scene that had played out countless times since the three-way battle began. The dynamics had shifted a thousand times during this war within the Blade World, and he had learned a great deal in that time.
+
+This place wasn’t a purely conceptual realm, like what had taken place when Nick pitted his soul against the Crimson Blight’s controlling core. It wasn’t a purely physical dimension either, although it felt far more real than the most lucid of dreams. Instead, it was a strange amalgamation of the tangible and ineffable, a place where his imagination was just as real as his flesh-and-blood being.
+
+That explained how both he and Fritz could wield Blightbane, while being inside the sword at the same time. Why he could fight long past the limits of his human body, even in its evolved state. The Blade World played strange tricks on his sense of time and self. One moment, it felt like they had only been brawling for a few seconds. The next, it seemed like the struggle had endured for years.
+
+While this situation was intriguing and unsettling on any number of levels, it provided Nick with more combat experience than the rest of his life combined—a chance to use Fritz’s expert instructing against a worthy foe in the ultimate training environment. He couldn’t advance his abilities in here, but he made multiple breakthroughs as the fierce melee raged on.
+
+This prolonged engagement also provided a unique opportunity to explore the Devouring Blade and grow accustomed to the powers at his command after ascending to Tier 2.
+
+His Concept was an energy all its own—formed from a fusion of essence and mana, along with a splash of his stamina and health. It obeyed its own rules but behaved like mana in many ways. Bandit’s Concept let him merge fire and shadows to produce Shadow Flame.
+
+Nick’s energy, which he decided to call Devour, behaved as a blend of pure mana and force. It could cut both flesh and spells, but that was only half the story. If Devour penetrated his enemies’ Arcane Barrier, it would invade their channels, rip out their vital energy, and grant it to him. He sensed that over time, he could learn to empower all his abilities with Devour, but right now, he could only use it to infuse his sword to supplement his strikes or fire a Severing Slice.
+
+Concepts could resist and negate each other to some extent, and his was especially effective against other vampiric powers. It was why he was so resistant to the Storm Lord’s dread lightning, although the changes the blight had wrought to his body played a role in that too. Devour gave him a way to steal energy from the monarchs, even survive direct hits from their life-draining touch.
+
+Whenever Nick, Xuthu, or Vashir struck a blow, power flowed from the wound and into the attacker’s body. Fritz couldn’t steal energy, but he could return to his fortress to rest whenever he was in trouble. If one of the dreadbeasts landed a killing blow and absorbed the other, they would gain enough strength to prevail. If Nick or Fritz did the same, the energy would disperse and they would gain the upper hand. Both dreadbeasts understood that dynamic, making this battle a delicate dance.
+
+However, Nick had an ace tucked up his sleeve. A way to win in the end, even if the stalemate dragged on. During this three-way tug of war, he could feel his cells absorbing a portion of the power changing hands, gradually taking it out of circulation and tipping the scales in his favor.
+
+As a result, the part of himself that had been changed by the Crimson Blight growing stronger as the conflict wore on. While he had absorbed the blight’s core and no longer had to worry about it taking control, he was forced to acknowledge a hard truth. Nick was no longer completely human. Some of his DNA belonged to a calamity-class entity capable of subjugating sectors, maybe even subsuming entire galaxies.
+
+On one hand, he wouldn’t be alive without it. On the other, the changes were not yet complete. While it was a worrisome development, he had decided to trust himself and embrace the new. He had to believe this wasn’t a coincidence. That whatever happened when his mutating cells hit critical mass would put him in a better position to protect his homeworld and the people he loved.
+
+Nick still felt like himself, and for now, that was good enough.
+
+“Switch tactics!” Fritz yelled. “I need to retreat and recover.”
+
+Nick unleashed a Sonic Slice to drive Xuthu back, followed by a Severing Slice that grazed Vashir’s wing and sent the bat spiraling to regain control. The king of Kastilla used the opening to pull back, entering his hilltop fortress to mend his myriad wounds.
+
+The airborne monarch screamed in rage and came streaking to settle the score, dodging Xuthu’s lightning alone the way. The next thing he knew, the world turned black, a phenomenon he had become intimately familiar with over the course of this war.
+
+Vashir’s Concept erased all light from the world. While the magic was an impediment to Xuthu, who was forced to use dread lightning to dispel it, Nick relied on his mage sight, psychic senses, and Theater of the Mind’s Eye to create a mental map of his environment. The Black Wind did interfere with his physical senses, but he could still track the dreadbeasts’ movements and coordinate his attacks with Fritz.
+
+When he’d asked why the king wasn’t having any problems, Fritz replied, “The Blade World isn’t merely a place to me. I am this battlefield, these walls, and the ground below our feet. In this realm, nothing is beyond my sight.”
+
+Nick continued to fight both monarchs at once, each striving to drain the others without suffering too much damage in exchange. If the dreadbeasts were willing to cooperate, he wouldn’t have stood a chance, but they hated each other even more than they despised him. Whenever an opportunity presented itself, they invariably turned on one another, giving him time to catch his breath and plan his next move.
+
+Fritz returned sometime later, and they brawled while watching each other’s backs. By now, their teamwork was impeccable, and Nick had obtained countless hours of combat experience with every power at his command. He was confident that his side could prevail in the end, but one major mistake would turn the tide the other way.
+
+As weeks in the Blade World transitioned to months, his friends were grappling with ordeals of their own.

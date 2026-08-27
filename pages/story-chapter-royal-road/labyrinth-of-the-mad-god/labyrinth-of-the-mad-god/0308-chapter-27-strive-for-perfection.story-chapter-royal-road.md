@@ -1,0 +1,75 @@
+---
+id: c149a943-92c3-5275-954f-9c381b1a5769
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Strive for Perfection"
+slug: 0308-chapter-27-strive-for-perfection
+partOf: labyrinth-of-the-mad-god
+position: 308
+ownLength: 1524
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3342330/chapter-27-strive-for-perfection"
+royalRoadId: "3342330"
+---
+
+By now, Nick was ready for an abrupt change of scenery when he pressed the icon beside the skill’s name.
+
+The instant his world shifted, he fell into a combat stance and started scanning his surroundings. Thus far, the System had given him a moment to adjust at the start of each trial, but he wasn’t taking it for granted that it would happen every time.
+
+This time around, he found himself standing in a familiar place, the road where Aurora’s residential and industrial districts met. While he usually felt safe within the city limits, he didn’t let the unexpected venue distract him. Nick turned in a circle, running his gaze across the buildings and the objects lining the streets.
+
+The urban setting was a perfect place for assailants to hide. Enemies could be lurking behind the windows and doors, perched upon the rooftops, or ducking behind the corners of the block. Even the carts and resources piled alongside the half-finished structures could conceal warriors waiting in ambush.
+
+Since this was his Shield trial, he didn’t have any gear other than a replica of his Caster’s Buckler. He couldn’t cast any spells or use any powers besides Arctic Clarity, which he called on now to enhance his focus.
+
+Since this situation was testing his defense, he assumed the action would come to him eventually. Nick kept his breathing slow and steady—on guard against attacks from all sides as he waited for the first threat to appear. If the System is evaluating my ability to block and deflect, it will attack from both melee and range, blending obvious strikes with ones launched from concealment.
+
+Sure enough, no sooner had that thought crossed his mind than an archer appeared on a nearby rooftop, nocked an arrow, and sent it streaking his way. He took a hasty step to one side, but the missile curved to remain centered on his chest, which meant his only option was to raise his shield before the missile struck true.
+
+Fortunately, other than its homing properties, it was just an ordinary arrow. When it hit his shield, the shaft shattered into splinters. Although he’d been tracking the projectile’s flight, part of his attention was watching his assailant, and the rest was surveying his surroundings for additional threats.
+
+By this point, the woman was ready to fire her second shot. He smiled when he realized she was the most generic archer he’d ever seen. She wore a light leather tunic with a green cloak and held a hunting bow in her hands. A large quiver was strapped across her back, and a knife was tucked into a sheath attached to her belt.
+
+Since he didn’t have a way to fight back, she didn’t bother to stand behind cover, firing homing arrows in an unending procession. Nick couldn’t dodge, but that didn’t mean he couldn’t take advantage of his surroundings. After all, a core component of using a shield was anticipating the angle of incoming attacks.
+
+He positioned himself between a cart and a pile of bricks that were short enough he could peer over the top, limiting the vectors the arrows could approach from while blocking one projectile after the next. So far, he wasn’t having too much trouble, although the heat-seeking aspect was a little tricky and the archer was firing faster over time.
+
+That all changed when a mage appeared on a balcony behind him and sent a fireball streaking his way. Nick had a hunch it would follow him too, and that blocking the spell head-on would make the flames wash over his arms. However, his Caster’s Buckler was designed to repel mana, which meant that if he got the timing right, he could deflect the fireball into the ground instead.
+
+Over the next adrenaline-drenched minute, he dealt with arrows and flames at the same time, spinning to block a shot with his shield before parrying the mage’s magic in the same motion.
+
+It wasn’t easy to defend against two assailants at once, but he managed to get the job done, almost setting his boots ablaze several times along the way. He couldn’t rely on Sixth Sense, and getting hit from three sides was far from ideal, so Nick decided to reposition before the next threat arrived. He wasn’t sure how his enemies would respond, but he wanted to continue the trial in a location that was more favorable for dealing with attacks from multiple opponents.
+
+Since he knew the city well, he moved deeper into the industrial district, where there were fewer windows and balconies and more resources lining the road to use as cover. The archer and the mage didn’t leap down to the street to chase him, so he assumed they would pop up again before long.
+
+Before that happened, a third figure emerged from the entrance to a supply depot, a warrior wearing chainmail and wielding a longsword. Ah, hell. This is where things get hard. As that thought crossed his mind, the fighter came charging his way. Nick couldn’t fight back, so put everything he had into his shieldwork, trying to get a sense for his opponent’s skill before the System turned up the heat.
+
+While the warrior’s blade didn’t reposition itself via magical means, which meant it was possible to dodge the blade, the man was dangerous. He anticipated Nick’s maneuvers and tried to catch him off-guard, throwing in some elbows and kicks along with slashes from his sword.
+
+Not long after, the archer appeared on the roof of a nearby building just as the mage rounded the corner of the block. Still dealing with the warrior in melee, Nick began blocking arrows and parrying fireballs.
+
+Until this point, the melee had been dicey but manageable. But being attacked by two types of homing projectiles—one of which needed to be deflected instead of blocked—and facing off against a blade-wielder trying to claim his head pressed Nick to the limit.
+
+He called on Arctic Clarity for everything it was worth, letting the technique’s frigid focus hone his concentration to a razor’s edge. Just when he thought he couldn’t take it anymore, inspiration struck. The next time a fireball came streaking his way, Nick leaned out of the way of a slash headed for his throat and deflected the mage’s spell… straight into the warrior’s body.
+
+The man screamed as the flames consumed him, but Nick didn’t let it distract him. He kept on blocking and deflecting while the sweat-soaked seconds ticked past. There were several close calls along the way, but eventually, the archer ran out of arrows and the mage’s mana ran dry. He smiled when they turned to him and bowed, returning the gesture as the cityscape faded away and he found himself standing in the Labyrinth once more.
+
+He let his party know he had completed his trial, then pulled up his menus to check out the bonus he’d obtained.
+
+Congratulations, you have completed the Journeyman trial of Light Shield mastery. Your skill can now advance to 50, at which point you may take the Adept-level trial. For reaching the Journeyman stage, you have gained the following bonus:
+
+Strive for Perfection
+
+A perfectly timed shield block will nullify a portion of the attack’s momentum. A perfectly timed deflection will add impetus to a projectile while making it easier to redirect.
+
+This bonus was interesting. It was compatible with the force aspect of the Concept he was developing and should synergize nicely with the effects of Force Riposte.
+
+Nick would have to run some tests to see what qualified as a perfect block or deflection, but on top of incentivizing him to become more precise with his shieldwork, Strive for Perfection would enhance his buckler’s defensive potential while letting him turn enemies’ projectiles into weapons of his own.
+
+Based on the Journeyman bonuses he’d received thus far, it seemed that advancing his skills could produce a wide range of benefits. Before taking his trials of mastery, he had thought most skills simply facilitated learning through a “you’re doing it right when it feels right” type of feedback—kind of like a sophisticated AR-teaching tool. But now he knew that was only one component of what his skills had to offer.
+
+As he continued clearing his trials of mastery, he would earn bonuses that behaved more like passive abilities or traits than teaching aids. It meant raising his skills would always be a critical component of walking his path to power, and he would evaluate them in a different light when the time came to choose his next class and Profession.
+
+It made him wonder what his trials would be like at the Adept level and beyond, as well as the rewards he would receive for passing them. He would get his first taste when he took Sword to fifty, and he had a hunch the test would be considerably more challenging than anything he’d undertaken thus far.
+
+While it was a fascinating subject for speculation, it was ultimately a matter for another day. Nick let Kenji take first watch and fell asleep dreaming of powers that might one day be his to command.

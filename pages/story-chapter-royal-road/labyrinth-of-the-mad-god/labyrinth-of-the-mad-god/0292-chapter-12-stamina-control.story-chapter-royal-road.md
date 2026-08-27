@@ -1,0 +1,131 @@
+---
+id: 050215d9-4adc-51f1-8801-b6217db1f461
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Stamina Control"
+slug: 0292-chapter-12-stamina-control
+partOf: labyrinth-of-the-mad-god
+position: 292
+ownLength: 2235
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3148594/chapter-12-stamina-control"
+royalRoadId: "3148594"
+---
+
+On top of training his skills and mastering mana manipulation, Nick spent some time every day conditioning his attributes and developing his stamina control.
+
+His physical attributes should reach the cap before long, thanks to the countless monsters that called the conduit home. His baseline Magic and Mind were climbing as he advanced his abilities, so he focused his efforts on Creativity, Psi, and Charisma.
+
+To condition his Creativity, he used some tricks he’d learned over the course of his adventures, which took advantage of his visualization technique, Theater of the Mind’s Eye. He engaged in a round of shadowboxing whenever the team stopped to rest—battles against imagined enemies that were so realistic it felt like the creatures were standing in front of him.
+
+He took on everything from bloodthirsty beasts to nightmarish monsters to the mechanical constructs he’d fought in Darkstone Tower. He even shadowboxed against some of Team Earth’s elites, trying to survive a combined onslaught from Ella and Laura.
+
+The other members of the party found his efforts fascinating. Bandit said Nick’s concentration was so clear that the lemur could almost see the foes himself. Kenji’s Creativity was underdeveloped compared to his other attributes, so he took up the practice too, although his version wasn’t as sharp since he lacked a comparable technique.
+
+Nick supplemented his shadowboxing sessions with a method he had developed while crossing Blackmist Bog. He created a mental model of his environment and then navigated it with his eyes closed, using his memory and the input of his other senses to chart a course through his visualized world. It conditioned his Mind at the same time and helped him perceive the mana around him, even when he couldn’t see it.
+
+To train his Psi, Nick Sized Up every creature he came across, animals and monsters alike. At the same time, he tried to get a sense for their mental states and emotions—data the informational skill didn’t provide.
+
+He kept Predatory Domain running while they walked and used it every time they got into a fight, honing his technique against hostile minds. Every now and again, he and Lurk would unleash their killing intent upon each other, pitting his technique and Paralyzing Roar against their mental fortitude.
+
+He didn’t have a comparable method to condition his Charisma, but Kenji was coaching him on leadership and empathy, and Nick hoped that developing his relationship with both beasts while striving to improve their teamwork would net him a few points before their quest was over. With any luck, he could finish capping the attribute within a few weeks of returning to Aurora, benefiting from Liz’s expert tutelage.
+
+In addition to developing his Psi, Lurk proved to be an excellent partner for training both Tracking and Stealth. Even with Blend into the Background running, the beast was better at stalking and hiding than anyone else in the party. However, the men were good enough to help the dino hone her method, so everyone got something out of it the exchange.
+
+It was fucking terrifying to be hunted by an apex predator, even one that was supposed to be on his team. Lurk knew she scared him and took immense satisfaction from making him jump every time she appeared out of nowhere and tapped his shoulder with a claw or sent her hot breath flowing across the back of his neck.
+
+Bandit’s method of concealment stemmed from shadow magic rather any natural inclination toward furtiveness, and playing “find the lemur” was helping everyone sharpen their energetic senses. Nick’s mage sight was good enough to find Bandit relatively easily, which incentivized the beast to improve his mana stealth.
+
+While it wasn’t a high priority, Kenji spent a few minutes every day helping Nick raise his Light Armor skill.
+
+“Armor isn’t simply a layer of protection between your skin and a world filled with tooth and claw,” the warrior explained, “its presence adds tactical dimensions to the battlefield. Developing an intuitive sense for which blows your gear can absorb lets you focus on the attacks it can’t, whittling down the variables that big brain of yours has to process.”
+
+He showed Nick how to tweak his equipment, making it slightly more comfortable, silent, and able to articulate without impairing the motion of his joints. They were only tiny adjustments, but together, they added up, and the instruction was eye-opening.
+
+That took him to the last and most problematic item on his list—mastering his stamina control.
+
+While Nick had been able to burn stamina to produce bursts of power since his battle with the fallen rhino in the Grand Arena of Papillion, he’d had a hard time directing this type of vital energy. It hadn’t been a priority early on, since most his powers were fueled by mana, but now that he had a combat art, a hybrid ability that used both mana and stamina, and another hybrid gem waiting for him to free up a slot, he needed to make up for lost time.
+
+Fortunately, both Lurk and Kenji were remarkably skilled at stamina manipulation. While he couldn’t sense its use directly, watching the pair in action and soliciting Kenji’s advice was helping Nick grasp the fundamentals that had eluded him until now.
+
+In addition to being highly motivated and receiving expert instruction, he had picked up a valuable tool after founding a faction. Vital Energy Manipulation made it easier to perceive and guide the stamina in his body. On that note, Bandit couldn’t wait to be invited to join Team Earth, so his people could benefit from the skill too.
+
+Unlike mana, which could be woven to create a seemingly infinite range of spell-like effects, stamina only did one thing—enhance the body’s innate properties.
+
+After speaking to Kenji—a warrior whose Build had focused exclusively on combat arts early on—Nick obtained insights that would have taken him months to tease out on his own, developing a working model for the vital energy that was catalyzing his advancement.
+
+“Stamina circulates throughout the body at all times,” Kenji explained. “Strengthening your muscles, enhancing your organs, and increasing your resistance to various forms of damage. While health fights off infections and disease and enables the accelerated healing we’ve come to rely on, stamina is a stabilizing and harmonizing force under ordinary circumstances.
+
+“We naturally generate more than we need, and excess stamina accumulates in an energetic organ located near your naval, which people are calling their stamina wells. In addition to fueling combat arts, the stamina in your well can be expended to turbocharge the body’s natural functions.
+
+“In addition to sending it into your muscles to create explosive bursts of power, it can be used to enhance the acuity of your senses. Your brain prevents you from drawing so much stamina into one area that you damage your own tissue, although that safeguard can be bypassed with an expenditure of will.”
+
+While Kenji’s understanding of stamina was vastly superior, everything thus far was in line with what Nick had worked out on his own. The next part, however, was both new to him and utterly fascinating.
+
+“The more you cycle stamina through a specific area, the more efficient the process becomes, as your tissue adapts to absorbing vital energy to produce a heightened state of performance. Like Psi and unlike mana, stamina is an energy that has flowed through all life on Earth since long before the System arrived. Its unconscious use enabled the incredible feats that martial-arts experts and top-level athletes have displayed since the dawn of human history, though it couldn’t be perceived and controlled while we were still Grade F.
+
+“Combat arts make specific uses of stamina automatic and more efficient. As they advance in rank, these abilities change the body on a cellular level to allow for greater infusions than would otherwise be possible, allowing tissue and organs to gain properties beyond the functions coded into our DNA.”
+
+That information was revelatory on any number of levels, and it wasn’t Nick’s only source of insight. Lurk knew a few ways to use stamina that Kenji hadn’t figured out yet. Both men listened carefully while Bandit translated what the dinosaur was saying, although the smugness in her clicks and grunts came through loud and clear.
+
+“She says stamina can be used as a buffer to shield the body from incoming damage,” the lemur relayed.
+
+“If you guide stamina onto the surface of your skin before contact, it will enhance the durability of your tissue, preventing bruises, punctures, and cuts. It also spreads the impact over a wider area, reducing the force that conducts into to the organs below.”
+
+Fritz had been separated from his body so long ago that he no longer had a good sense of what it felt like to control its vital energies. However, he remembered a few techniques he’d learned and shared everything he could recall.
+
+While this knowledge was invaluable, before he could apply it, Nick needed to learn how to observe the stamina within his body and guide with greater precision. He decided to call his nascent facility to perceive this form of vital energy his “stamina sense.”
+
+Whenever the party took a break, he tried to deepen his awareness. His first goal was to figure out how to send his awareness into his stamina well, which he had felt from time to time, but was beyond his conscious control.
+
+Eventually, he stumbled onto the trick. He closed his eyes while breathing deeply, shutting out the external world to focus exclusively on the sensations of his body. He followed the air flowing through his lungs. His beating heart and the blood circulating in his veins.
+
+Just like the mana that was constantly emanating from his core, traveling through his pathways, and then returning to the font, another type of energy was making its own circuit through his tissue. It felt vital and vibrant. Like the wind at his back during a long run, or a cold glass of milk on a hot day.
+
+He eventually followed the flow back to its source—a deep pool of well-being wrapped around his spine a few inches behind his belly button. Now that he knew it was there, he realized his stamina well was deeper than he’d imagined. Which made sense, as it had been growing every time he leveled, just like his mana and health.
+
+He still had trouble guiding the vital energy with any degree of finesse but learning to perceive it clearly gave him a place to begin.
+
+In addition to being educated by people who were far more skilled than himself, he paid close attention to the combat arts the System had granted him, which was easier now that his stamina sense was growing more acute.
+
+Nick realized that although he was learning how to direct stamina to various parts of his body, the process was crude and inefficient compared to how Heavy Blow operated. When he activated the ability, stamina came surging out from his well. It didn’t just flood his body; it sent precise flows of vital energy into every muscle involved in his attack, in perfect proportion to the role they played in the swing.
+
+While that was impressive enough, the locations and concentrations varied depending on what weapon he was holding, the position of his body, and the angle of his attack, offering just enough stamina into to enhance the motion without wasting any or forcing his body to work against itself. Heavy Blow also infused his bones and soft tissue at the moment of impact, cushioning his flesh from the force of his own assaults.
+
+Force Riposte was even more complex—an elegant blend of mana and stamina whose interactions were beyond his comprehension at present. He continued to deepen his understanding and practiced circulating his stamina while improving his control. He still couldn’t manage more than crude bursts in the heat of battle, but he had some ideas for how to use it when his proficiency grew.
+
+In the end, all of Nick’s hard work was rewarded. He opened his profile near the end of the day, taking in the totality of his recent growth.
+
+You have deepened your emotional and social awareness and improved the following baseline attribute:
+
+Charisma has increased from [15] to [16].
+
+Through intensive study of magical forces and visualizing complex processes, you have improved the following baseline attributes:
+
+Magic has increased from [21] to [22].
+
+Creativity has increased from [17] to [20].
+
+Mind has increased from [20] to [21].
+
+Through sensing the minds in your environment and testing your psychic powers against a difficult opponent, you have improved the following baseline attributes:
+
+Psi has increased from [9] to [13].
+
+Through use, you have improved the following skills:
+
+Light Armor has increased from [7] to [10].
+
+Stealth has increased from [7] to [9].
+
+Tracking has increased from [12] to [13].
+
+Vital Energy Manipulation has increased from [8] to [11].
+
+All of that was welcome news, and he savored his accomplishments while climbing into his bedroll.
+
+His next breakthrough occurred the next morning, when his team stopped to rest while crossing through another underground waterway. Nick was meditating while working on his stamina sense when he cleared the understanding requirement to advance Heavy Blow.
+
+Your understanding of [Heavy Blow] is now sufficient to advance the ability to Rank 1.
+
+Would you like to advance [Heavy Blow] to Rank 1 now?

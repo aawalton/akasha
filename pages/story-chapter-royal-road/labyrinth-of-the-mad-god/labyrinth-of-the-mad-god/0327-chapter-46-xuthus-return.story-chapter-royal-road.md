@@ -1,0 +1,99 @@
+---
+id: 8890ac30-57a5-5040-9fc9-34f081e684d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46: Xuthu’s Return"
+slug: 0327-chapter-46-xuthus-return
+partOf: labyrinth-of-the-mad-god
+position: 327
+ownLength: 2134
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3672386/chapter-46-xuthus-return"
+royalRoadId: "3672386"
+---
+
+It took three days for Xuthu to return to its lair.
+
+By that point, Nick had fed Lurk all the monster meat stored inside his bag. He had just decided that they would have to go hunting and return later when Fritz sounded the alarm.
+
+“We’ve spotted the Storm Lord. It will arrive within the hour.”
+
+Nick’s PDA was on the throne room’s rooftop with the dinosaur, but he was with Kenji and Bandit, halfway through their daily training regimen in one of the lower chambers.
+
+“Get into position!” Kenji ordered as everyone ran for the enclosure where they planned to ambush the dreadbeast monarch. They sprinted up the stairs and Nick conjured platforms so they could bypass the wards ringing the structure. Kenji and Bandit darted through the doorway as Lurk descended the battlements and joined them.
+
+Before he followed them inside, Nick skywalked to the ramparts and peered into the distance. It was obvious how his friends knew Xuthu was coming. While he couldn’t see the monarch itself, a storm was following in the dreadbeast’s wake like a dog on a leash.
+
+Judging by the clouds’ movements, we have about forty minutes until the dreadbeast arrives. He ran into the throne room and let the others know about the updated timetable. While he waited for the make-or-break moment to arrive, he ran his eyes across the chamber that would soon be a blood-drenched battlefield.
+
+The rectangular room was fifty feet wide and a hundred feet long—plenty of space for a ruler to address an entire battalion at once. Given the inaccessible location and martial layout of the castle, that was likely the purpose of the structure instead of receiving diplomats or dignitaries.
+
+The ceiling was thirty-five feet tall with a balconied second story twenty feet up. Heavy pillars lined both sides of the chamber. They were thick enough for everyone but Lurk to hide behind, who was concealed in a stairwell for this stage of the operation.
+
+In the back of the chamber, a series of steps led to a broad dais that had once held the shattered throne Nick found outside. It now contained a mound of bedding that was big enough to support the massive scorpion. Fortunately, despite their vampiric natures, the dreadbeasts still needed to sleep on occasion, and its bestial origin made Xuthu prefer somewhere dark with sturdy walls and a roof over its head.
+
+Nick placed a hand on Bandit’s shoulder as they went over the plan the party had worked out over the last few days, lying on their stomachs on a balcony while peeking one eye over the ledge. The lemur was trembling. He knew the beast was nervous, but Bandit’s fury was far more profound.
+
+“Keep your cool and don’t let Xuthu goad you. Try to reign in your killing intent until the battle begins. We’re going to destroy the dreadbeast, but if we fuck this part up, we are going to die instead.”
+
+Bandit nodded then activated his Necklace of Invisibility while Kenji and Nick switched on Blend into the Background and entered mana stealth. He normally would have primed his other powers too, but right now, the team needed to minimize every aspect of their presence, including their mana signatures. He let his mind go blank and entered a light trance, doing his best to reduce his psychic presence on top of everything else.
+
+When the storm broke over the castle, he knew his enemy had arrived.
+
+Nick had been vaguely curious how Xuthu would enter the fortress, as the gate was barred and the dreadbeast had hulking claws instead of hands. When he heard the clatter of chitin striking stone, he knew the creature had leapt over the wall, which was probably a trivial feat for the Tier-2 entity.
+
+A dozen heartbeats later, the monarch appeared. Backlight by bolts of fell green lightning falling from the heavens, the scorpion shoved the doors open and entered the throne room. It slammed them shut with its tail, strode down the length of the chamber, and ascended the stairs leading to its nest.
+
+The energy emanating from the Storm Lord was stronger than ever. It was insane how quickly the dreadbeasts could advance, even in the quarantine zone, where it was competing against four its kind and cut off from the rest of the planet. He shuddered when he contemplated how much faster if would grow if it were unleashed upon the world, deepening his understanding of why Bandit and Lurk were so focused on ensuring the dreadbeasts never returned to Earth.
+
+His mind was a drawn bowstring—body poised to spring into action at a moment’s notice. Nick forced himself to remain perfectly still, calling upon Arctic Clarity to quell his roiling emotions beneath its glacial chill.
+
+While they were prepared to attack if the monarch noticed them or seemed like it would leave its lair, the party was planning to launch their ambush once the creature was asleep, maximizing their chances of scoring a critical blow before the battle began.
+
+He watched as the dreadbeast made itself comfortable, taking advantage of the opportunity to examine it up close for the first time. Even with his recent upgrades to Enhance Senses, the fear he felt when observing the creature from a distance was nothing compared to the horror he experienced in that moment.
+
+Size Up was wailing like a banshee, screaming that he would be dead within seconds if he were foolish enough to engage the scorpion in a direct exchange of blows. Nick had no intention of doing anything of the sort. He buried the skill’s warning and the terror churning in his gut beneath the frigid focus of Arctic Clarity, incorporating every scrap of information his danger-sensing skill provided into his plans.
+
+He had the impression that long before the scorpion became a dreadbeast, Xuthu had been a melee specialist that preferred to battle its prey up close. Its golden carapace was thicker than his wrist, segmented to form armored plates that would repel all but the mightiest of blows. The Storm Lord had six long legs that made its elephantine torso tower even taller, and the chitin on its underbelly was only marginally thinner than the rest—nothing that could be considered a weak point.
+
+Its hulking claws were big enough to bisect Lurk and looked strong enough to get the job done. Its mouth was imposing, but Nick didn’t think biting was a key part of its fighting style, likely because its claws had a superior reach.
+
+The dreadbeast’s tail was even more dangerous than the claws. The proportions were longer and thicker than any earthly scorpion, and Size Up was convinced that the appendage would strike with blinding speed an unerring precision. Even without whatever venom it was packing, the barb could skewer his body and pierce his heart, and he didn’t trust his armor to protect him from a direct hit. Except for my backpack, which has proven to be more or less invulnerable thus far.
+
+Next, he focused on the information provided by mage sight.
+
+Even while resting, the dreadbeast’s exoskeleton crackled with green lightning. Nick was certain that the phenomenon was intrinsic to the monarch’s Concept. The magic was woven from multiple types of essence and several strands of mana. He could sense electricity, but also light, air, and what he suspected was death, although he’d never seen it concentrated enough to perceive clearly before.
+
+His gut was telling him the Storm Lord had invested heavily in its namesake power. However, he had the impression that it didn’t rely on its lightning nearly as much as its physical abilities in combat.
+
+The combined input from Size Up and mage sight led him to believe Xuthu’s magic was specialized toward draining vital energy from the land. While the dread lightning conducting through its chitin was lethal, it lacked the power of the bolts its storm unleased, which made him suspect the monarch was using a natural weather system as a catalyst, although the intricacies were beyond him.
+
+That observation sent relief coursing through Nick’s limbs. It meant the tactics they had concocted with to deal with the lightning might work, and taking a single hit probably wouldn’t kill his friends outright. Although Xuthu was the deadliest opponent he’d ever faced, working together, they just might have a chance.
+
+Finally, Nick focused on what his psychic senses were telling him, receiving the clearest impression of a creature’s mental state he had obtained yet.
+
+The scorpion wasn’t as smart as Bandit or Lurk, although it was cunning and had the razor-sharp instincts of an alpha predator. Right now, the Storm Lord was weary and frustrated, ruminating on its recent defeat rather than focusing on its surroundings. It trusted its wards to detect its fellow monarchs and hadn’t even considered the possibility that something else would invade its lair and try to claim its head.
+
+The dreadbeast grumbled to itself as it shifted its weight. Thanks to Gift of Tongues, Nick and Kenji could understand its words, which were filled with fury and disdain.
+
+“My assault was flawless. I would have defeated Ban-Li if it wasn’t for Vashir’s interference. Cowardly bat, always skulking about while waiting for its moment to strike. If I want to emerge from this trial triumphant, I’ll have to absorb the Black Wind first. I need to make my move soon. If the stalemate between Zora and Fennier ends and one devours the other, they will become too powerful to overcome.”
+
+The gigantic scorpion made itself comfortable as it complained, showing no sign that it sensed the party’s presence. Since everything was going well so far, they remained frozen in place, waiting for the dreadbeast to drift off to sleep before making their move. Meanhile, Nick reviewed the strategy his team had concocted.
+
+While the creature’s greatest weapons were its claws and tail, the most problematic variable was its life-draining lighting. Nick believed his friends could survive a strike, but it would steal their health, mana, and stamina, strengthening their opponent while leaving them diminished.
+
+To counter the deadly power, they had devised a range of anti-drain tactics. However, the party needed to test them to know if they would work. The silver lining was Xuthu had no idea that Nick could shrug off its dread lightning, which meant it was his job to draw the creature’s attention and keep it from focusing on his friends during the initial stage of the conflict.
+
+Kenji would be providing support with Tactical Command while blocking the doorway with his shield. The castle walls had held up thus far, which meant it should be possible to contain the creature as long as the portal was barred.
+
+Nick doubted Xuthu would try to flee early on, but their plan would fall apart if it left the throne room. Regardless, the position protected Kenji’s back, letting him place his tower shield between his body and any lightning headed his way, which with any luck, would prevent the vampiric magic from invading his system.
+
+Fighting in here would let the team use the pillars, balconies, and dais as cover. The layout wouldn’t restrict their movements at all, but these obstacles would impede the Storm Lord to a small but vital extent.
+
+Bandit would employ hit-and-run tactics with his Shadow Flame. His job was to wear the monarch down while using trickery to create an opening for the others to exploit. This was in part because Bandit’s Concept was well-suited to the task, but mostly because Nick and Kenji didn’t trust the lemur to keep a level head while trading blows in melee.
+
+Lurk found herself in the unusual position of needing to fight from range. She was a big target and had no defense against the creature’s claws, tail, or dread lightning. The party had piled hundreds of boulders in the throne room’s upper hallways, and the dino has spent the last two days figuring out how to launch them with incredible force.
+
+She had begun with a tail whip infused with stamina, creating an explosive burst of power at the point of contact. It was sufficient to fling the rocks, but not enough to deal damage to a creature of that caliber. To Nick surprise, the beast had compensated by adding force mana to the mix, having come up with the idea after watching Sonic Slice. He was pretty sure it qualified as a full-on technique, giving her a way to battle enemies from a distance.
+
+The team waited a while longer, not daring to twitch until the monarch was fast asleep. Right now, Nick’s role was simple. All he had to do was watch for any sign of the scorpion stirring until Kenji gave the signal and the decisive showdown began.

@@ -1,0 +1,77 @@
+---
+id: db3686c8-74d1-5221-91c4-b51f3d6d8cf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: Travelling Companion"
+slug: 0198-chapter-16-travelling-companion
+partOf: labyrinth-of-the-mad-god
+position: 198
+ownLength: 1786
+unit: words
+publishedAt: 2025-07-21
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2454840/chapter-16-travelling-companion"
+royalRoadId: "2454840"
+---
+
+When Nick opened his eyes, sunlight was flowing in through the crack in the stone.
+
+The coyotes were long gone, and the air was clear. He grabbed his pack and walked outside, where Elizabeth was tending to a small cookfire. When she heard his footsteps, she looked up and smiled.
+
+“I know it’s a poor way to thank you for saving my life, but I took the liberty of making you breakfast. Oh, and while Elizabeth is fine, my friends call me Liz. I hope that going forward, I can count you among them.” The grin on her face made Nick’s heart skip a beat and he took a lingering look before sitting down in front of the fire.
+
+Liz’s hair was auburn, and her baby blue eyes were framed by high cheekbones and fine features. Her graceful movements and athletic curves suggested a Dexterity build—perhaps some manner of Magic-using hybrid, considering the concentration of mana in her core. She was close to his own age, and not even weeks of rough living could put a dent in her radiant beauty.
+
+In addition to the gear he had noticed before, Elizabeth was wearing several rings and necklaces, which he assumed were magical. She had rebandaged her wounds, but judging by cheerful expression, none of them were serious. After the destruction the bladewind had wrought upon her armor and clothing, Nick was grateful that most of his equipment had Durability and Self-Maintenance Modifications, or the same thing would have happened to him. It made him wonder if there was any way for his people to start modifying items on their own.
+
+Gretta’s shop could create and install mods, so it should be possible for us to do it too. Maybe some of these new Professions can help, although we might have to learn more about magic first. I’ll ask around once we find more of our people.
+
+Breakfast was ready a few minutes later. Liz handed him a heaping plate of fried eggs and what looked suspiciously like bacon. Nick had no idea where she had acquired it, but he wasn’t about to complain. The meal was delicious, and he savored every bite.
+
+After they washed up and put out the fire, he turned to her and said, “I know that we’re practically strangers. But do you want to travel together for a while? I’m planning on following the river until I reach the big lake I saw from orbit. Hopefully, I can meet up with my friends once I get there, along with everyone else who had the same idea. Then we can start looking for one of those bosses, establish a settlement, and start working on the Rebuilding Civilization quest. I understand if you prefer to go it alone, but after everything I went through while climbing the tower, it’s nice to have some company.”
+
+Liz met his gaze and smiled wide. “Thank you. I would love to. I was planning to ask you the same thing. If I can’t trust one of Earth’s heroes, then we’re in more trouble than I care to imagine. Besides, I’m an excellent judge of character, and it’s clear that you don’t intend to take advantage of the situation.”
+
+She gave him a shrewd look, then continued. “While I agree that’s it’s nice to have some company, this is a good opportunity to start laying the groundwork for what comes next. You’re a key player in humanity’s future, Nick, although it’s obvious you haven’t wrapped your head around it yet. Even if you weren’t such a good person, I’d stick around anyway. I need you to help me rebuild human civilization and prepare for whatever is in store for us once we enter the Labyrinth.”
+
+Nick’s eyes widened with surprise at Elizabeth’s abrupt change in tone. She was all business as she outlined her goals for the coming weeks.
+
+“The year of protection was a godsend, but we can’t afford to grow complacent or assume we’ll ever be safe. We’re locked in a race against time, and it’s imperative that we establish a base of operations, then continue to advance as fast as we possibly can. Whatever happens when the entrances to the Labyrinth open is sure to be another deadly trial. If we want to survive, we can’t waste a second.”
+
+Her words revealed a poweful intellect and reminded him that she was a gifted leader. I’ll try to learn more about her while we travel. She might be a good candidate to run our settlement, but I’m not taking that for granted after what happened at the tower. Either way, Liz will be a valuable ally, if I decide I can trust her.
+
+While Elizabeth repacked her supplies, Nick buried the remains of their fire. When he was done, he pulled out a jar of paint from his pack, which he had found in the storeroom of Darkstone Tower. He used his trick with Arcane Shield to climb the rock face, then wrote out, “Bladewind Shelter,” above the crevice—big enough that people could see it from miles away.
+
+With Liz at his side, he continued following the river, heading toward the center of the badlands. The green moon was lurking in the sky this morning, like a stranger staring at him from the far side of the room. It made him wonder what other surprises were in store from the dimension the System had merged with the Earth—especially once he encountered the shadowy veil he’d seen from space.
+
+As he turned his thoughts from the sky above to the ground beneath his feet, Nick realized that the bladewind had carved countless gouges into the soil, pattering the highlands with an intricate texture reminiscent of scales that stretched on for as far as his eyes could see.
+
+It was otherworldly and beautiful—a tangible reminder that magic was now an integral part of life for every creature that called the Earth home. He knew the breeze would eventually cover the markings with dirt, since he hadn’t seen them while crossing the badlands, which made him hopeful that the deadly weather was only an occasional threat.
+
+We need to study the bladewind so we can predict its behavior. Building a series of shelters across the biome is probably a good idea, along with some signs warning people of the danger and pointing to the closest place to ride out the storm.
+
+As they walked, they passed the hours in pleasant conversation, comparing notes on what they had observed from orbit and while crossing the biome. It turned out that Elizabeth was a skilled hunter, and she offered to share some pointers to help Nick train his Tracking skill as they traveled. She seemed grateful for his assistance and eager to return the favor, which he appreciated.
+
+“Every trail has a story to tell,” Liz explained as they followed a flock of flightless birds back to their nest, solving the mystery of the fresh eggs. She was a gifted instructor, and by the end of their first lesson, he had picked up quite a bit.
+
+Through use, you have improved the following skills:
+
+Tracking has increased from [1] to [3].
+
+The duo hiked northeast for the next two days, learning more about each other and their new home. They often traveled in silence—each lost in thoughts of their own—but they spent some pleasant miles swapping stories, theories, and hopes for the future. Back in her old life, Elizabeth had been a political consultant; the kind that commanded a considerable sum for helping a candidate resonate with their base and win an election.
+
+Although she was brilliant and a woman of many talents, Liz had been even less prepared for the apocalypse than Nick. Integration had arrived while she was celebrating her 30th birthday, and that was only the start of her ordeal. Her tutorial sounded fucking awful, even compared to what he had endured back on the Searing Isle.
+
+She had fled into a portal with a hundred other people. After Taltos flipped the script during her orientation, Elizabeth had been teleported into a narrow valley running between a series of treacherous peaks. The basin had been relatively safe but offered limited resources—surrounded by a deadly wilderness where lethal threats were abundant.
+
+While a few people had decided to enter the wilds and brave their dangers, most of her group had been too afraid to do so, including Liz herself. There had been limited opportunities to level up and find chests within the valley, and that was only the beginning of their problems.
+
+Early on, there had been frequent rain and migratory animals, and everyone had worked together to survive. But then the rain stopped falling and the herds failed to reappear, causing hunger and thirst to run rampant. This dynamic led to intense competition for the scant sources of food, water, and shelter. By the end of the month, everyone living in the valley had fractured into warring tribes and they wound up killing more of each other than the other hazards combined.
+
+It was where Elizabeth met Jim and Ken, and the reason why she had been willing to give Jim the benefit of the doubt for so long. After all, his way of thinking had allowed her to survive. Jim had recognized her talent and helped her to grow. Liz had specialized in dealing with her group’s social dynamics, while the men taught them how to fight and kill. After arriving on the bog, she had trained intensively to raise her combat prowess, something she seemed to view as a necessary evil.
+
+Nick shared his story in turn, glossing over the situation with the Crimson Blight and everything Pax had revealed. He hoped that she would prove worthy of his trust, but by this point in his journey, Nick wasn’t willing to divulge his secrets until he had a better sense of the content of her character.
+
+That being said, he was happy to share what he’d learned about the art of the blade, and his fledgling attempts to manipulate mana. Elizabeth proved to be an eager student, and they spent part of each day sparring and studying the magic suffusing the badlands.
+
+She was even more Dexterous than Nick, although his Strength and Toughness were superior. She had an aura that boosted vital energy regeneration, which let them proceed at a rapid pace. He judged that they should arrive at the lake sometime within the next week—right around the time that the bonus quest began.
+
+Nick was hoping to run into his friends soon, but by this point, he was hopeful that his new travelling companion was someone he could rely on during the long road ahead.

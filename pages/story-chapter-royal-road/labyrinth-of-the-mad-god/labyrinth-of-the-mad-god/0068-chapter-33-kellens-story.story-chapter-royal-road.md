@@ -1,0 +1,75 @@
+---
+id: e9609810-11b2-53b8-bc30-b0dc14a3a4c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Kellen’s Story"
+slug: 0068-chapter-33-kellens-story
+partOf: labyrinth-of-the-mad-god
+position: 68
+ownLength: 1773
+unit: words
+publishedAt: 2024-10-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1831778/chapter-33-kellens-story"
+royalRoadId: "1831778"
+---
+
+Unlike most of the rooms they had come across, this one was intact and filled with a wide variety of objects. Every inch of the walls was covered with notes and diagrams, detailing hundreds of species and experimental reports.
+
+At least, that was the impression Nick got from taking in the structure and looking at the pictures. He couldn’t read a word of it, since they were written in some alien language rather than System runes.
+
+Boxes full of inscrutable equipment were piled high in the corners, which he would get to in a minute. There was a display embedded into the wall that reminded him of the ones mounted to the obelisks. Although it refused to turn on, even when he touched the crystal to it.
+
+But the most distinct feature by far was the body sitting in an oversized chair. The remains were perfectly preserved, emaciated like a mummy. It seemed that there were no bacteria or other microscopic lifeforms in here to break it down, and it had simply dehydrated over time. It was a man, although clearly not human, with a pair of glasses hanging by a strap, clad in an immaculate white lab coat.
+
+Given the color of the skin and facial features, Nick strongly suspected that they had found Kellen’s remains. The researcher who had precipitated the crises that had befallen the floor. Apparently, although he had perished too, he had been able to avoid the rampage of the Janitor and the out-of-control constructs and insects. If this was where it all began, perhaps we will get some answers at last.
+
+While time was of the essence, this was an important opportunity, so they decided to enter the room and find whatever they could. It also seemed like a perfect place to rest for a few hours, minus the presence of the body. By now, they had become inured enough to death that it was merely unpleasant rather than horrifying.
+
+“We’ve finally found a safe place to rest.” Veronica let out a long sigh. “Maybe we’ll find something valuable in here too. I say that we give the room a thorough inspection, then sleep until we’re fresh again. We can face the last stretch of this floor with a full tank of gas.”
+
+“Sounds good to me.” Nick began poking through the various piles. Shaun slumped down in a corner and closed his eyes, his sleep-deprivation and exhaustion catching up to him at last. They retrieved some provisions from Nick’s pack and ate a full meal. Then they took a few minutes to enjoy the fact that at least for a few fleeting hours, they were safe.
+
+Once they had recovered a bit, he took the crystal out of his belt pouch. It had been blinking ever since they entered the room, but he hadn’t had the energy to deal with it until after their break. As soon as it was in his hand, a message appeared in front of his face.
+
+You have discovered a location-based log. Would you like to play it now?
+
+Nick gave the order and the image of Kellen wavered into existence beside him. It was bizarre to see the man in his prime standing next to his own corpse. Shaun opened his eyes at the sound, and all three of them turned to listen as the log began to play. The first entry showed an excited Kellen staring at the monitor on the wall.
+
+“Thanks to the material samples I’ve retrieved from the executive offices, combined with the data I downloaded from directors’ personal files, I can see the light at the end of the tunnel at last. If I can combine all seven species and retain the desired geneline traits from each, I will be able to create the perfect omnivorous lifeform. A creature that can digest nearly any form of tissue or inorganic compound, and regenerate any damage it takes from dangerous specimens during the process.
+
+“They are going to give me a medal for this, and all the fools who denied me will be cast out of the tower in shame. Even Rizzen will know my name when this is over. Kellen, the man who designed the ideal creature. Now I just need to divert some power and resources from the conduits on this floor and I can proceed to experimental trials. It won’t be easy fusing everything just right, then controlling the resulting amalgamation, but I know I can do it. At last, my dreams are within my grasp.”
+
+The man wavered out of existence, then reappeared over on the far side of the room. It was clear from the changes to his appearance that some time had passed since the last log. Kellen looked disheveled and bone-weary. But a triumphant grin lit up his face, with hints of madness around his eyes.
+
+“I’ve done it. The final series of geneline fusions was a resounding success, resulting in the birth of a novel grade-E life form boasting the exact traits I desired. I managed to procure a species experience pill on the black market and evolved the creature to grade-D. Now my research will enter an exciting new phase, and soon I will receive the praise I so richly deserve.
+
+“I do have one unusual side-effect to report. While the geneline traits and abilities are perfection themselves, my creation doesn’t seem to have any skills. Not that it needs them, given what it’s already capable of. Better still, in spite of my fears, the tier empowerment was a resounding success.
+
+“After pumping the creature full of force mana and various types of kinetic essence, a concept was formed, and the prototype has been forcibly uplifted to tier-two. At this point, it’s worthy of a name, not just a designation number. From this point on, I will be referring to the entity as the Janitor, not just the project itself.
+
+"Its base form is comprised of malleable gelatinous tissue, although it should be able to assume other shapes as needed once it reaches maturity. Preliminary evaluation shows perfect compliance to all target specifications. It’s eaten everything I’ve fed it so far and has remained completely docile, even friendly in demeanor. I think it likes me. Thus far, it’s shown no signs of aggression whatsoever, even when hungry. Early experiments in instilling full obedience protocols are promising.”
+
+“Now comes the bad news.” Veronica sighed, as the image of Kellen shifted once more. This time, he was sitting in his chair. The image was superimposed over his mummified remains, terror and exhaustion clear in every crook of his features.
+
+“Oh gods. Why is this happening? What went wrong? It was all going so well until the Janitor reached its mature state. Part of its geneline must be unstable after all, because the creature shows a voracious need to consume essence, especially types that it hasn’t absorbed before. When it comes across a form of energy it wants, it will pursue it mindlessly, ignoring every behavioral protocol I have established. It wasn’t supposed to eat people. Not ones we didn’t tell it to at any rate.
+
+“Did something it consumed trigger a change? Or was it hiding its true nature the entire time, waiting to acquire its full strength before making its escape?” Kellen buried his head in his hands and began to sob. He came out of his weeping spell a few minutes later and continued to speak.
+
+“I suppose in the end it doesn’t matter. After tunneling through the floor to escape its cage, the Janitor broke into the security division and killed the entire unit guarding the level. Once most of the defenders were digesting in its stomach, the creature proceeded to lay waste to everything it came across, including the facility itself. By this point, I don’t think that any of the executives are left.
+
+“I’m going to leave this log somewhere where it will be easy for the rescue team to find when they make it to this floor. I’ll sound the alarm, then hide in my office till they get here. It’s warded with gene-linked concealment spells that the Janitor can’t detect. I have enough supplies in here to hole up for months. I should be safe enough until Rizzen becomes aware of the issue.
+
+“Things are dark, yes, but there is reason for hope. Even though matters have spiraled out of control, the value of my work should mitigate any punishment. It’s all their fault anyway. Narrow minded fools. If they had simply approved of my project, I wouldn’t have had to cut corners on the containment wards, and none of this would have happened.”
+
+“No dude.” Shaun sighed. “I’m pretty sure that this was totally your fault. Can’t blame you for retreating into delusion and denial though, since you were well and truly fucked.” The truth of his words became clear when the image of Kellen shifted for a fourth and final time, revealing the researcher standing in front of his monitor. He was haggard and weak, pale and emaciated, staring at the screen like a harbinger of the end of days.
+
+This time, he didn’t bother with an introduction. He just whispered, “They’re all dead, and soon I will join them. In a matter of weeks, the entire floor has been wiped out. I’m the only one left. I finally received a reply to my request for assistance, but it doesn’t make any sense. How can they ignore what I’ve done here? Curse them all.”
+
+Nick walked over to look at the screen, hoping that the recording included whatever Kellen was looking at. Sure enough, there was a message written in System runes on the display.
+
+Supplemental note from Rizzen
+
+The situation on this floor has been deemed acceptable for now. The portals still function and the facility continues to serve its primary purpose. All security forces have been rescinded and the alert has been cancelled. All research projects underway have been reassigned to floor 7719.
+
+I’m ordering that the containment squad stand down too. The entity called the Janitor has caught my interest. It seems to be developing a completely novel dual-force concept that warrants further study.
+
+In its mature form, the Janitor has proven to have an unstable core. It will expire unless it integrates a new type of essence every few months, which is what drove it mad with hunger to begin with. We will feed it just enough live prey that it doesn’t starve or have the strength to overcome the other two resident species on the level, so that the facility can retain its present dynamic indefinitely.

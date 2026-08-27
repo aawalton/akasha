@@ -1,0 +1,71 @@
+---
+id: 79f8d708-0ca4-5344-a279-e46f4909bb3a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52: A Plan Centuries in the Making"
+slug: 0333-chapter-52-a-plan-centuries-in-the-making
+partOf: labyrinth-of-the-mad-god
+position: 333
+ownLength: 1478
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3764796/chapter-52-a-plan-centuries-in-the-making"
+royalRoadId: "3764796"
+---
+
+Preservation met the Herald’s gaze, showing no sign of his true purpose as the demigod prepared to address the Scarlet Legion.
+
+To an outside observer, she was a beautiful rose trapped in a garden of nightmares and thorns. He appreciated the irony, since she was more dangerous than the rest of her forces combined. Though she wore the form of a lovely young woman with crimson wings, the Herald of Slaughter had a body count second only to the Red Lady herself. She had brought ruin to hundreds of worlds and corrupted countless creatures, transforming them into juggernauts of devastation more dreadful than any monster or beast.
+
+They stood atop an obsidian dais, where they could peer over the crowd. For as far as his eyes could see, Slaughter’s forces were assembled along the borderlands running between the deity’s domain and the Labyrinth’s fringe. He ran his gaze across a host of C-grade troops, thousands of B-grade elites, and a dozen A-grade generals. The Ravener. The Butcher. The Endless Maw. Each title was a blood-drenched legacy. Millions had fallen beneath the generals’ talons, teeth, and claws.
+
+This was only a fraction of the Red Lady’s true might—the most the fringe could withstand without consequences dire enough to stay even Slaughter’s hand.
+
+The vicious creatures fought one another while they waited for the order that would begin their invasion, an inevitable occurrence they would lead to more losses than the rest of the war combined… or so Taltos thought. If Preservation’s ambitions came to fruition, none of them would leave the fringe alive.
+
+Across the eldritch maze, the armies of Suffering, Slaughter, Spectacle, and Splendor were awaiting the Mad God’s signal to start his purge. This was Taltos’s reply to the System seeding worlds with champions and tricking him into stealing them of his own accord—the AI’s solution to the dead zone separating the Labyrinth from integrated space.
+
+It was a brilliant move, but the Mad God intended to wipe the slate clean. Erase every species capable of opposing his rule and turn the tables once and for all. The planets the System seeded were shielded by powerful barriers, which even Taltos couldn’t penetrate without incurring horrific losses.
+
+That was why his pantheon planned to unleash a monster stampede on a scale the multiverse had never known. Their armies would drive the creatures into the fringe and force them to cross the Veils of Protection, overcoming the planetary shields with sheer biomass until they faltered and the Calamities’ armies could finish the job.
+
+While millions of monsters would perish, some were bound to make it through before the barriers came down, softening up the inhabitants before the true invasion began. Preservation had spent months supervising the capture of monsters within established sectors. They would be released in just a few moments to begin the stampede, dragging their brethren living in the fringe along with the flow to create a ravenous tsunami capable of devouring anything in its path.
+
+Preservation could feel the Labyrinth’s anticipation—its insatiable hunger and feral excitement. It’s true nature was a secret known only to Taltos and himself, though the Mad God himself was unaware of that fact. Preservation intended to put an end to the Labyrinth once and for all, but before that fateful day arrived, he needed to drive a wedge between Taltos and his pantheon, and end the long stalemate between the Mad God and the System.
+
+Billions would perish as a result of his manipulation, but that was only a drop in the bucket compared to the lives he would liberate if this worked. Let alone the countless generations yet to be born who deserved to be more than mere playthings for Taltos and the twisted deities known as the four Calamities.
+
+While these thoughts drifted through the demigod’s mind, the last cage was placed. He waited while powerful wards were activated, preventing the monsters from heading in any direction other than the fringe. When he signaled that all was ready, the Herald turned toward the Scarlet Legion. This was only one of a hundred such assemblies, but she could divide her presence to address them all at once.
+
+Preservation himself had manifestations standing beside the other Calamities, who would order their forces to enter the fringe as one. He couldn’t wait to see the expressions on their faces when the dimensional barriers came up, their generals started dying, and the experience bloom began, although their fury would be a candle to the sun of the Mad God’s rage. Don’t get ahead of yourself. Stick to the plan and pray the System’s champions can prevail in the ordeal to come.
+
+When the Herald unveiled her Concept, the legion ceased its bloodshed. Their fear of the Herald was one of the few forces that could stifle their limitless desire for mayhem. Every eye watched as she spread her gore-hued wings and spoke in a voice that echoed across the void between worlds.
+
+“My children, the time has come. At long last, we will purge the worlds infested by the System and bring our symphony of destruction to the far corners of the fringe. They believe themselves to be safe, shielded by the System’s magic, but their paltry shells are nothing before the might of the Red Lady. Today marks the beginning of a new era. An age of carnage is dawning before our eyes, enough blood to dye the multiverse crimson.
+
+“Follow behind the monsters, and slaughter anything that survives. Knock down the Shourds of Protection and bring ruin to every seeded world. I cannot travel with you on this joyous journey of obliteration, but my generals will serve in my stead.
+
+“Devour and delight, my children. Rend and flay. Bring the purity of Slaughter to all who stand in your way!”
+
+With that, her servants opened five million cages simultaneously, releasing the monsters they contained. Before the creatures could turn on her forces, the Red Lady unleashed her Presence. An ocean of killing intent washed over the borderlands, sending the predators fleeing into the fringe.
+
+It has begun. Preservation summoned a portal to his realm. He didn’t know if he would live to see the final play, but one way or another, Taltos’s epoch was coming to an end.
+
+***
+
+Rizzen grinned as his technicians performed a final inspection of dimensional barrier 1,714.
+
+The scientist was proud of what his people had accomplished, going above and beyond despite the immense pressure as a plan centuries in the making came agonizingly close to culmination. When we get back, I’m giving everyone a raise. If we manage to pull this off, they might even live long enough to spend it.
+
+Once this artificial node was stable, they would move on to the next device they were building between the domains of the Mad God’s pantheon and the Labyrinth’s fringe. A potent stealth spell would keep anyone from tampering with the field generator until the demigod gave the signal—one of ten thousand devices his team would install before their work was done.
+
+He was honored that Preservation had trusted him with such a vital component of his scheme, the most important task Rizzen had undertaken. Not to mention, the most interesting experiment of my career.
+
+One benefit of having a tower that existed in a parallel dimension but had roots in countless worlds was he could traverse the Labyrinth faster than anyone besides Taltos and his Calamities—a fact he had been careful never to reveal in preparation for this moment. If his calculations were correct, they would soon strike a blow the likes of which the Mad God had only suffered twice in his millennia-long rule, and never on such a massive scale.
+
+Rizzen was ambitious, but even he was in awe of what Preservation had achieved, organizing the Mad God’s war efforts while simultaneously undermining them. The demigod had been playing a dangerous game for five hundred long years, laying the complex groundwork required to trick Tatos and liberate the trillions of lives trapped within the carnivorous cosmic maze.
+
+This was only one step among many that had come before and many still to come, but it was one of the most important. If the next few months went the way they hoped, Taltos would suffer a defeat far greater than when the System tricked him into stealing the worlds it seeded with champions.
+
+The infamous researcher had no love for the galaxy-spanning AI, but in this matter, their interests were aligned. Now it all comes down to whether the System’s champions can defeat the monster stampede and slay the Calamities’ generals.
+
+Having met many gods throughout his long and interesting life, Rizzen knew praying to them was pointless. Instead, he simply wished the fringe’s inhabitants luck, especially the people who had overcome the challenges he placed in their path while climbing his tower.

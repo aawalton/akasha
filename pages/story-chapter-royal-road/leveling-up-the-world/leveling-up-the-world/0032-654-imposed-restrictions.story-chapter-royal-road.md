@@ -1,0 +1,175 @@
+---
+id: 92d861c8-ed67-509f-b158-96b04ced6992
+page-type-slug: story-chapter-royal-road
+title: "654. Imposed Restrictions"
+slug: 0032-654-imposed-restrictions
+partOf: leveling-up-the-world
+position: 32
+ownLength: 2122
+unit: words
+ownProgress: 2122
+publishedAt: 2022-12-11
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1060563/654-imposed-restrictions"
+royalRoadId: "1060563"
+markedReadAt: "2026-06-29T22:41:16.084Z"
+---
+
+The blue building was full of people. Unfortunately, most of them were half his age, looking at him in a mixture of confusion, fascination, and contempt. They could see the magic trait within Dallion, as well as the weapons he was carrying.
+
+“This way,” a woman waved to Dallion. She was about his age, but the amount of magic running through her was at least ten times greater.
+
+Is that a mage? Dallion asked.
+
+Apprentice, Nil replied. It’s a bit too early to get impressed.
+
+There were a total of eight counters on the first floor, three of which were closed. Dallion made his way to the left side of the staircase. A few steps away, a young boy was handing scroll after scroll to the apprentice at the neighboring stall.
+
+“That’s a lot of paperwork,” Dallion whispered, glancing in the boy’s direction.
+
+“Oh, those are just the exams of his cohort. Now then, let’s get you sorted.” She took a blank piece of paper and handed it to Dallion.
+
+Dallion turned the sheet around. There was nothing on the back side, either.
+
+“What am I supposed to do with that?”
+
+“Place it on the counter, then press your right palm against it.”
+
+It sounded like something a magic clerk would ask, so Dallion obeyed. The moment he did, purple sparks emerged from his fingers, forming letters. The process of writing was unusual; the letters weren’t created in chronological order, but rather appeared at random, slowly forming whole words and sentences. After a few moments, Dallion saw his name as well as a full description of his skills, traits, and their values. Furthermore, all familiars and linked items were also included. Interestingly enough, Nil was absent from the list, while the rest of his personal echoes remained written out.
+
+“Hand off, please,” the apprentice said, pulling the sheet from under his hand. If Dallion’s reaction trait had been any slower, things might have been a little awkward. “Let’s see what we got.” She looked closer. “All four rare skills?” The woman sounded impressed. “And a level seventy-seven?”
+
+Silence filled the room. Everyone stopped doing whatever they were doing and looked in Dallion’s direction. Needless to say, his circumstances were rather unusual.
+
+“You don’t get many like me, I take it?” he asked, adding boredom to his voice. There was a high chance he would be caught out, but right now, that was preferable to being the center of attention in a room full of wizards.
+
+“Excuse me for a moment. I need to check something.” The apprentice walked away behind the counter.
+
+“Sure,” Dallion said beneath his breath.
+
+Slowly, interest waned. Apparently, bureaucracy was able to inflict boredom faster than anything Dallion could do. The chimes coming from outside also had something to do with it. The moment they sounded, all the children rushed into the corridor, leaving Dallion, and the rest of the administration apprentices, behind.
+
+That’s a relief, he thought.
+
+A few minutes later, the apprentice returned with a middle-aged man in a blue robe. That had to be a mage.
+
+“So, you’re Dallion Darude?” the mage asked, looking at him from head to toe. “Let’s go somewhere where we can talk.” Before Dallion could react, the mage disappeared, reappearing a step behind him. “Come along.” He made his way up the stairs. “We don’t have all day.”
+
+Just like college, Dallion thought, rushing to catch up.
+
+The two went up to a small study on the fourth floor. In some ways, it was similar to Eleria’s back in the mage village, just a lot smaller.
+
+“So, you’re a level seventy-seven.” The mage sat at his desk.
+
+“I take it that’s bad.”
+
+“Well, I wouldn’t say bad. It does complicate things. The Academy is structured in a particular way. In the vast majority of cases, people acquire magic upon awakening or upon becoming a noble. Exceptions are nearly non-existent, which is why arrangements were made to remedy the situation.”
+
+It sounded like Dallion was already at a bad start.
+
+“We were made aware of your age, but the colleague who sent you here neglected to mention the rest of your achievements.”
+
+“Is it the weapons?”
+
+“You can keep your clothes and gear in your room. However, you won’t be allowed to use them or carry them in public until you become an apprentice. That will be part of your seal. We were also aware of your familiars. Those two will have to be temporarily restricted.”
+
+On Dallon’s shoulder, Ruby flicked his wings.
+
+“Oh, you are allowed to have a pet with you, even if it is a shardfly. Personally, I would advise you to keep him in your room as well. You know what children are like. Some of them might try to hurt it just for thrills. It’s forbidden, but you know how it goes.”
+
+“I’ll make sure to spend as little time as possible with them.”
+
+“Sadly, for all involved, you’ll have to. As an irregular, you’ll have to start with the new novices. Nothing we can do about that.”
+
+“You expect me to take a class with a group of children?” Dallion wasn’t sure whether he should laugh or weep. The whole notion was absurd.
+
+“As I said, we’re prepared for that. In addition to the other limitations, your seal will give you the appearance of a ten-year-old while in Study Hall premises. You’ll be responsible for keeping your traits in check. That is something we cannot restrict so easily.”
+
+Great, Dallion thought.
+
+“This is where the problems begin. Since you’ve passed the fourth gate, you have certain abilities that might affect magic.”
+
+The mage was no doubt talking about Dallion’s spark.
+
+“If you were a noble, several tutors would be sent to you and you’d learn the principles of magic safely in the comfort of your domain. However…”
+
+“You’d appreciate it if I don’t destroy anything during class,” Dallion said with a smirk.
+
+The look that the joke earned Dallion indicated that humor wasn’t a mage’s strong suit. He was going to have to work on that in the future.
+
+“Then there’s your hunter status. Hunters are allowed to leave the Academy at any point in order to fulfill their requests. When that rule was created, no one in their right mind thought that there could be a novice hunter.”
+
+Nil, what exactly is the problem? As long as I transform back into myself outside of the Study Hall, will it be such a big deal that I have travel privileges?
+
+Novices are forbidden from leaving the Study Hall and its surroundings, the echo said. A hunter is freely allowed to do so. You can see the conflict.
+
+That was quite unfortunate. Dallion’s first thoughts were to leave at the first opportunity just to see whether it wouldn’t short-circuit some spell. At least that would put a lit on the mages’ arrogance.
+
+“I can vow not to leave until I become an apprentice, if you prefer?” he offered.
+
+“That will only complicate things further. My request would be for you to refrain from leaving and also remove your seal as quickly as possible.”
+
+“I’ll do my best… sir.” If he were to become a novice, it was wise for him to start acting the part. “Anything else?”
+
+“I trust you were taught the basic rules here?”
+
+“Actually, sir, I was told everything would be explained to me once I got here.”
+
+“Of course you were.” The mage frowned. “People not doing their job, as usual.”
+
+“I am sorry, sir.”
+
+The mage drew a pattern in the air. As he did, Dallion saw magic pass through his arm and fingers, creating symbols in the air. Once done. The light of the symbols imploded, transforming into a scroll.
+
+“Everything’s there. Learn it as quickly as possible.”
+
+“Thank you, sir?”
+
+That was anticlimactic. Dallion expected there to be at least a brief explanation. Apparently, mages were the same everywhere: unwilling to waste their time with things they deemed beneath them.
+
+“Now give me your left hand.”
+
+Without a word of warning, the man began drawing with magic on it. Dallion’s every hunter instinct yelled for him to pull his hand back. At the same time, he knew that this was part of the registration process. The fine pattern that was being created represented a seal that would restrict his magic, and other things, as the mage had explained, for a certain period of time.
+
+Once done, the mage almost literally threw Dallion out of his study, telling him to go to his dorm. Naturally, no directions were given. Thanks to Nil, though, Dallion didn’t need them. The seal, as it turned out, also contained the number of his room. The novice wing was on the second floor a few miles along the north corridor. Reaching it wasn’t as difficult as finding it, since for some reason the mages had designated numbers to rooms at random. The only firm principle was that the first number always indicated the floor.
+
+Was it the same when you were a novice? Dallion asked in his search for room two-thirteen.
+
+The Study Hall hasn’t changed in centuries, dear boy. The last time, it took an Emperor’s visit and even then; the changes were mostly cosmetic. You can say that mages are the only profession that has shrunk in time rather than the opposite.
+
+What about empaths?
+
+An empath isn’t a profession. Also, we live in the age of human dominance, each generation has fewer mages than the one before it. If you include the wars in the last five centuries, things aren’t looking too good in the long term.
+
+After half an hour of walking aimlessly around and getting conflicting directions from the people around, Dallion finally made it to his room. To his surprise, it was almost a lot more comfortable than expected, not to mention roomier. By rough estimates, the space was about a thousand square feet, complete with furniture, an actual bathroom, and a large window with a view of a non-existing landscape. Knowing it was an illusion didn’t make Dallion appreciate it any less.
+
+“What do you think, Ruby?” He placed his harpsisword on the nearest table.
+
+Fake, the shardfly replied.
+
+“Yes, but sometimes fake can be beautiful.”
+
+Ruby didn’t respond.
+
+Several sets of clothes were waiting for Dallion in the room’s wardrobe. They were all, thankfully, his size. Nil had explained that the restriction seal was also going to affect them as well, though only in the Study Hall.
+
+Taking his clothes off, Dallion took a bath—the first real one he’d had in a week. As with everything else, here it was enjoyable, but different. For one thing, the water was in the form of jelly-like cubes that had to be scrubbed on before regaining its liquid state.
+
+Finished washing, Dallion put on the pajamas prepared for him, and went straight to bed. If school was any indication, getting up early would be a thing. Also, he wanted to read the scroll the mage had given him before going to sleep.
+
+According to the explanations, there were three levels of novices. Initially, Dallion would learn methods of identifying, manipulating, and using natural magic. Thinking back, that had to be what the Canopa guardian and Cleric had been doing.
+
+Second rank novices delved into actual spell crafting by using their magic to create symbols of power. Finally, third rank novices learned symbol combinations and spell composition. From what Dallion could gather, that had to be enough to undo the seal placed on them.
+
+There were a few brief mentions of the apprentice ranks—which were five in total—but nothing worth remembering at this point. Everything else in the scroll involved proper etiquette, ways of addressing all the various ranks of mages and apprentices, as well as a map of the novice wing.
+
+Enough for today. Dallion rolled up the scroll, then turned to the side. The moment he did, day turned to night within the room.
+
+I hope you won’t return to your old habits of skim-reading, Nil grumbled.
+
+“I hope so as well,” Dallion replied with a smile. “Nil, what do you think is happening outside?”
+
+Outside the capital? Conflicts are slow. It’ll take months, possibly years, before the war reaches its peak. For the moment, it’s just border conflicts. The situation in Wetie is a bit trickier. I wouldn’t be surprised if lines are drawn in a month or two.
+
+“You’re still in Nerosal, aren’t you?”
+
+Unlike the rest of my guild, there’s nowhere else I can go. Don’t worry. I’ll be fine, and so will the Gremlin’s Timepiece. Just focus on learning spellcrafting. You have a rare moment of calm. There’s no telling how long it will last.

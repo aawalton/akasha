@@ -1,0 +1,135 @@
+---
+id: a76d0e35-d2f1-535a-a155-196d87f84d47
+page-type-slug: story-chapter-royal-road
+title: "4. Loop 0, Part 4"
+slug: 0004-4-loop-0-part-4
+partOf: lazy-loops-an-idle-litrpg-op-to-archmage
+position: 4
+ownLength: 1922
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3453054/4-loop-0-part-4"
+royalRoadId: "3453054"
+---
+
+From my bench, even facing the sky, I could see Malus and friends whacking each other in the face with their Magiball just as much as trying to actually score. No wonder I had gotten hit. My uncle’s office glowed in the spire far above the Green, its blue-lit windows visible even at this hour. Scattered groups of people dotted the grounds, enjoying a nice morning out and away from the humdrum of the school.
+
+And I could also see Kalin Tuffet, still royally pissed off from this morning, with his head down as he talked to a woman by the kitchens. He had one hand deep in his pockets and then reached forward to grab something from her. Not the most suspicious thing. You could occasionally order food to eat out on the grounds. But the way he looked at it, and his anger only grew? Well, that was odd. I would have put him out of my mind, but I wasn’t the only one watching him.
+
+The grey man from earlier was standing next to a tree, taking down notes as he looked around the area. What a loser, stalking schoolchildren. Whatever government agency had sent him surely had better things to do with its time, right?
+
+I grunted in frustration. Not my classroom, not my spellbook, not my fucking problem. That was the true issue with the world. Nobody minded their own business. Nobody left others alone to their own devices. My break was more than half over, and I was still tired from being woken so early by Finn. I needed to nap like the sun needs to set.
+
+I would not let myself turn into my parents. I was half-tempted to cancel [Wideview] and be done with my curiosity, but instead I tried one more time for a quick twenty-minute cat nap.
+
+Sleep didn’t come. Instead, my so-called best friend was here to once again wake me up. Typical. I didn’t even have to open my eyes to know his approach. I could hear his ever-present whistling, and right on cue, it stopped as he started to talk.
+
+“You look like a man who lost a fight with a bench,” Finn said.
+
+He was peering at me, half in concern, half in amusement at my still dirt-covered state. The bruise on his forehead from this morning had faded to a yellowish smudge, which meant the healers had done their job. He had a bread roll in each hand, because apparently my breakfast needed supplementing, and the time since I’d dropped him off at the infirmary hadn’t been enough for him to stop mothering me.
+
+“A Magiball hit me.”
+
+“A Magiball hit you. What, were you too lazy to move out of the way?” He snickered.
+
+“In the ribs. While I was sleeping.”
+
+“Were you sleeping on the bench again?”
+
+“Where else would I sleep?”
+
+“Well, given the state of your clothes, I assumed the grass next to it.” Without even asking, Finn grabbed his wand and cast. [Clean]. Suddenly, my clothes were minty fresh and free of grass and dirt. Now that I was clean, he handed me one of the bread rolls, and I took it without hesitation. Bread. Mmm. Now there was a food I would never complain about.
+
+“You know what we have to do before Enchantment Theory?” he said, sitting down on my bench and forcing me to scoot over.
+
+“Nothing. We have to do nothing.”
+
+“Tournament brackets, Laz. We have to pick our spots.” He said it the way you’d announce a dentist appointment. Grim acceptance.
+
+“I was hoping Corwen would forget.”
+
+“It’s been two hours.”
+
+“My uncle forgets things all the time.”
+
+“He doesn’t forget anything and you know it.”
+
+I did know it. The man had a memory like a grudge. Whatever hope I’d had of quietly ignoring my way out of Corwen’s tournament punishment had died the moment he’d left the dining hall. The brackets went up at noon, and anyone assigned by the headmaster’s office would have their name on the board whether they liked it or not.
+
+However, if someone cared enough, they could select for themselves a bracket in the tournament. Numbers one through ten, first come, first served. Each number slotted you into a different section of the draw, which meant a different path through the rounds, different opponents, different ways to lose. Sections weren’t even. Some had more entrants than others, and a few lucky spots came with first-round byes. On principle, the dungeon track usually put themselves in brackets 6-10, leaving the first five for people that wanted an easier time.
+
+The whole system was designed to reward preparation. Study the other entrants, find the weakest path, pick the number that gives you the best matchups. The tryhards didn’t care.
+
+“Eat your bread, Laz.”
+
+I ate the bread. We sat in silence for a few minutes, Finn watching the end of the Magiball game and me watching the inside of my eyelids.
+
+When the game ended, Finn stood up, wiped the bread crumbs from his clothes, and said, “Come on. We can hit the bracket board on the way to class.”
+
+“Walking requires standing. Standing requires effort, and I’ve already expended mine for the day.”
+
+“You’re going to walk past the Crucible anyway. The board is literally right there.”
+
+“I’m not looking at the fucking brackets.”
+
+“You have to pick a number, Laz. If you don’t pick one yourself, Bain’s office assigns you one, and I promise you he’ll slot you against whoever he thinks will hurt you the most.”
+
+Damn him. That was a good point. As much as I wanted nothing to do with the tournament, wanting nothing to do with it wouldn’t stop Bain from making it worse. He wasn’t going to give me a favorable draw out of the goodness of his heart, because his heart was a filing cabinet full of conduct notices.
+
+I got up and followed.
+
+A few minutes later, we approached the Crucible. Its shadow loomed at the edge of the Green as it always did. It was massive and shaped like a bowl, with tiered stone seating rising in concentric rings. In the center was a raised dueling platform of white marble, kept as pristine as it was impenetrable by the countless enchantments layered upon it.
+
+Enchanted banners hung on the outside of the arena, each one cycling through the various magical disciplines. Beside them a photo of the most recent champion of the four disciplines was displayed. It was open to the air, and even from this distance, the wards encasing the arena platform were visible to the naked eye.
+
+Of course, no system was perfect, and magical wards were no different. Quite often, under a powerful enough spell, they’d crack and harm some hapless bystander. As a result, the infirmary kept two healers on the Crucible staff. One for the participants and one for the audience. Thankfully, after that change, fatalities had slowed to almost never.
+
+The bracket board was beside the entrance arch, shining bright under a spotlight spell. The ten-foot slab of enchanted slate hovered off the ground, names glowing in gold and red.
+
+There was a fairly large crowd around the board, which, if I hadn’t just reminded myself that Bain would screw me over, would have been the perfect excuse to leave.
+
+“Come on, man. Go pick your damn spot.” Finn nudged me forward with a grin that was a little manic.
+
+There were eighty-three names listed, though more could sign up if they made it within the next hour. Round one would start this afternoon. The board was divided into ten sections, each with its own cluster of entrants. The sections weren’t equal; some had nine, others had seven or eight, and a handful of names in the smaller sections had “BYE” glowing faintly beside them, meaning they’d skip the first round entirely. At the top of each section, a glowing number pulsed gently. Numbers 2, 5, and 7 were all gone, already fully claimed.
+
+I scanned the remaining names. Sara Voss had already chosen her section: ten. Davos had picked his seat before breakfast and was in the eighth bracket. See what I mean? Tryhards.
+
+I saw my name near the bottom of the board, unslotted, pulsing amber. Next to it were the names Tuffet, Kalin, and Maric Fenn, and a handful of others I didn’t recognize. Probably the dungeon track kid and the blonde girl from this morning, as well as a few stragglers who just hadn’t assigned their names.
+
+“Come on, man, your turn, pick a number!” Finn said. He was studying the sections with genuine interest, tracing paths with his finger, trying to figure out where he would put himself.
+
+“I’m just gonna pick a random number, you know, the path of least resistance and all.”
+
+“That’s not a strategy!”
+
+“It’s the best strategy! The universe doesn’t reward planning; it rewards not caring. I’ve already told you this.”
+
+I stepped forward and pressed my hand to the board. The slate was warm under my fingers, humming with enchantment. The remaining numbers floated in front of me: 1, 3, 4, 6, 8, 9, 10. I picked 4. Not quite in the middle, not quite at the end, not quite at the beginning. The most important reason I picked it was that it was easy to get to, and now I could stop thinking about this and walk away.
+
+My name slid into section 4 and settled into place with a soft musical chime. The board rearranged itself around the new entry, opponents shuffling into position. I didn’t look at who I had drawn; instead, I turned around and headed to class. I didn’t even wait on Finn. Through [Wideview], I could see he was already pressing his hand into the board, brow furrowed in actual concentration, like he was taking this seriously.
+
+“By Therumia, man, it’s a tournament, not a dungeon reward!” After a moment, his name slid into place, and he hustled to catch up with me.
+
+“What’d you pick?” I asked with a certain disinterest.
+
+“Six! Good matchups for a healer, defensive fighters in the early rounds, offensive ones later when I’ve had time to learn how they fight.”
+
+“You actually spent time thinking about this? The tournament doesn’t matter; there’s not even a real prize.”
+
+“You thought about it for zero seconds. Someone had to even things out.” He grinned. “Come on, let’s get to class!”
+
+We walked. The morning sun was warm on our backs, and for a few minutes, nobody expected anything from me other than walking. Of course that sucked, but it was still wonderful. A nice, good, long moment.
+
+“So,” Finn said, interrupting my rest as the Crucible’s shadow fell away behind us, “how bad do you think this is going to be?”
+
+“The tournament? I’m not even thinking about it.”
+
+“No, not just the tournament. Bain. Possible charges. All of this stupid shit.”
+
+I considered his question. My uncle had turned a disciplinary action into a tournament entry. He probably thought putting us in the arena was better than whatever Bain had planned, which at least in Kalin’s case was true.
+
+“Oh, it’s gonna be terrible, but probably a little less than the alternative. I mean, imagine detention, writing lines, or Therumia forbid, cleaning classrooms. Or I don’t know, delivering pizza in a dungeon.”
+
+He squinted at my last comment. “That’s the most optimistic thing you’ve said all year,” Finn said.
+
+“Don’t get used to it.”

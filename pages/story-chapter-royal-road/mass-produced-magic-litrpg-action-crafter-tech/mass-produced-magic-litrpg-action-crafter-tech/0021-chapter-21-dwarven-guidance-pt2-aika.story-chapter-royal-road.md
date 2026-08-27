@@ -1,0 +1,191 @@
+---
+id: 7bbd4599-a517-5e0c-9f0c-90b169d7faa9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21 – Dwarven Guidance – Pt2 (Aika)"
+slug: 0021-chapter-21-dwarven-guidance-pt2-aika
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 21
+ownLength: 2585
+unit: words
+publishedAt: 2024-12-01
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1934675/chapter-21-dwarven-guidance-pt2-aika"
+royalRoadId: "1934675"
+---
+
+Aika groaned, her high-pitched voice barely carrying before it was drowned out by the dwarf in leather armor. His laughter echoed through the cave, creating a deafening ruckus that all the sane creatures had fled. Maybe I should have done the same. Aika clamped her hands over her ears.
+
+“That all you got?” Gleon shouted at the birds still roosting in the cave they’d left.
+
+Aika stood up, poked her head out of his bag, and replied to Kindra. “He got the birds to use up all their mana by paralyzing us over and over. Then they attacked him but couldn’t break through his skin or the leather. I think he has a skill for that. Thank God!”
+
+“Be safe,” Kindra thought back.
+
+Gleon chuckled and threw a stone, sending it whirring through the air. It clipped the bird, and the bird tumbled out of sight.
+
+“You’re crazy,” Aika added for good measure. “All of your plans are crazy.”
+
+“We were fine. I shielded you.” Gleon chuckled and walked further into the cave, pausing to throw rocks at any bird in view.
+
+Catching one square in the chest, the bird exploded, sending a deluge of blood, gore, and feathers into the air. It fell, splashing in the stream below.
+
+Aika looked up at the dwarf with a manic smile. “Kindra, I hope you are getting some mana from this.”
+
+“I am. Thanks, and be safe.”
+
+“You’re welcome, and I’m trying.” Aika smiled. At least we’ll get stronger. She turned and looked at the dead birds. “Are we waiting for the flock to come back?”
+
+“We’ll get them later.” Gleon leapt and landed on a boulder. Walking along a ledge, he ignored the nests and moved to the distant crack in the wall.
+
+“Now, let’s see what’s really in here.” Rubbing his hands together, he walked down it.
+
+Aika remained in his bag, standing there and peering into the gloom. The air was damp. A soft breeze washed by, and any birds stayed quiet. I guess this beats his arguing with the other dwarves about plans. She peered down the stone cave, which was more like a long crack through the rock.
+
+Gleon jumped from stone to stone, navigating deeper. The walls closed around them, and the sound of crashing water filled the air. She sniffed, and they emerged in a small, humid room. A waterfall crashed down from a small cliff.
+
+Well, that’s pretty. She smiled and looked up. The cave opened above her. “I’m flying. You can get wet.”
+
+Gleon chuckled. “Did you forget who I am, young lass?” He reached out, smashed his hand into the rock, and hauled himself up with his self-made handholds.
+
+That’s just absurd. Magic is absurd. Aika fluttered out of the bag, flying over his head and looking at the small cave. The water flowed from a tunnel with massive webs stretched in front of it. Spiders? Massive spiders? Ew. She moved closer to him. “I think there are spiders.” She landed on his shoulder.
+
+“Likely.” Gleon hauled himself over the ledge and walked toward them, ducking under a rock and entering the cave. He squinted, and large mandibles shot toward his throat. Lurching backward, he slammed his fist into the spider and shoved off the wall, landing in the water with a splash.
+
+Aika shot upward, avoiding the spray. Gleon looked at his wet pants and sighed. “Now, look what you did.” With an angry expression, he stepped from the stream, pulled out an axe, and glared at the spider.
+
+Spinning, Aika’s eyes went wide. Spiders the size of dwarves clung to the ceiling. She dove into the bag. “Incoming.”
+
+Gleon charged, swinging his axe at the spider in the nearby cave. It skittered back, and the ones above shot sticky webbing downward.
+
+Launching himself back, Gleon splashed through the water and bent low, scooping rocks from the stream. Spinning, he threw it. The stone blurred and bounced off the spider with a loud clack. The spider clicked its mandibles at him, its eyes focusing on him.
+
+“Rotten, overgrown bug.” Hefting his axes, he waited. A glob of green shot toward him.
+
+Please don’t let that hit. Aika dropped back inside the bag, and Gleon sprinted, vaulting off a rock and throwing himself up the wall.
+
+Half flying, he slammed his axe into one of the spiders. Green fluid sprayed everywhere, and he fell, hitting the ground with a loud clump.
+
+The wounded spider clicked and opened its mouth, revealing glistening fangs. Fluid dripped from the massive wound on its side.
+
+“Cowards!” Gleon bellowed, dashing toward the wall. “Come and fight!”
+
+The spiders volleyed poison instead, spraying yellow fluid downward. Gleon dashed, shooting into the tunnel and slamming his axe into the spider inside. Green fluid burst everywhere, and he spun back toward the entrance.
+
+“This is why you need a gun,” Aika said, poking her head out.
+
+“What’s that word?”
+
+“A ranged weapon.”
+
+Gleon scoffed. “Ain’t necessary. You’ll see.” He grabbed another rock and ducked through the entrance, chucking it upward. It slammed into a spider leg, ripping it free. The spiders skittered forward. Gleon hefted his axe and attacked in a fury. With water splashing around his ankles, he slammed his axe into a spider. A spray of green fluid splashed across the area, and he spun, chopping into another.
+
+Aika’s eyes widened. Spiders dropped. One lunged, sinking fangs into Gleon’s shoulder and ripping into flesh. Gleon spun and smashed his axe into it. The spider dropped, and he hissed, blood flowing down his arm.
+
+I swear that he likes getting hit. Aika sighed and ducked down, a massive leg smashing into his side. Gleon bellowed and spun, slamming his axe into another spider and punching the final one in the head. “Oi! Come finish him, Aika.”
+
+Aika grabbed her spear from the bag, poked out, and zipped over to the spider. Drawing back her spear, she slammed it into the spider’s eye. Like hitting a stone with a spear, it didn’t budge a bit. A hand reached up and shoved, sinking the spear into its skull.
+
+Gleon grinned and pulled the spear out. “Nice work.” He handed her the spear, looked at his arm, and sighed.
+
+“Is it going to make you sick?” Aika asked.
+
+Gleon stooped down and rinsed his arm in the cold spring water. “Nope. I have anti-toxin in my skill.” He grinned and watched his flesh begin to knit back together.
+
+“How did you get that skill?” Aika asked, shaking her head. “You said that your skills develop based on your use.”
+
+“They do.” Gleon winked. “And I did some training.”
+
+“I can’t believe you are alive. You shouldn’t be.”
+
+Gleon laughed, his voice echoing around the room. “You worry too much. That’s the trick of it. Force yourself to survive.” He scooped water with his hands and took a drink from the stream.
+
+Aika fluttered out and looked at the corpses. She turned and peered down the cave. “How are we getting through the webs?”
+
+“Water and my axe.” Gleon walked over and hacked the wet spider web away. Ducking into the tunnel, he walked through the water, following the stream through a narrow tunnel that became smoother and smoother.
+
+The jagged walls became completely smooth. Aika flew to him and landed on his shoulder, peering down what seemed to be a stone canal.
+
+“Gods, let this be the one,” Gleon prayed aloud. He waded through the water, and the tunnel turned into a large cavern. Smooth caves intersected with the stream. Doors were built into the soft stone, and a broken bridge lay in pieces across the stream. The water flowed through them, slowly eroding the stone.
+
+“The one?” Aika asked, studying the domed room.
+
+“Yes. The capital. Buried for thousands of years now.” Gleon stepped out of the ditch and looked around the area, heading toward a door. “I need to find it.”
+
+“How’d it get buried?”
+
+“The war with our enslavers,” Gleon practically spat, his smile fading to an angry frown.
+
+“Oh. Them.”
+
+“Aye.” Gleon stopped in front of an ancient wooden door. He reached out, and it crumbled under his touch, falling into a pile of rotten wood. Aika peered into the building. A pot lay next to a collapsed and decayed table. Dust filled the empty shelves, and Aika shivered. I wonder if Earth is like this now. Just empty shells. She paused and saw a pile of dust in the corner. I wonder what that was and how long it has been since we left. The thought lingered as she spotted other piles of dust.
+
+Gleon turned and walked down a hall, passing several decayed doors. He ignored them and walked down the streets, searching for something.
+
+“What are we looking for?” Aika asked, looking at the underground structures.
+
+“Old relics. We need some help to deal with the necromancer problem.” Gleon turned and walked down another hall. He was met with a wall of loose rock.
+
+Well. That’s anti-climatic. Aika sighed and patted her escort. “Sorry.”
+
+“It’s alright; I will find it someday.” Gleon sighed and turned away. The sound of metal on stone echoed down the hall. He turned and ran toward it.
+
+Aika peered down the hall. Much like the current one, it was smooth and surprisingly polished. Gleon’s footsteps bounced through the air, and she frowned at him. And here we go again. He’s charging into danger without a thought. She shook her head, and a strange humanoid creation stomped into view, its squat metal legs thumping against the stone. Turning toward them, a singular glowing lens turned red.
+
+And that’s a terrible robot… “Dibs!” Aika grinned and patted the back of the dwarf. She slid down onto his bag, and the golem’s gears whirred before it charged toward them, its metal legs slamming against the stone.
+
+“Oi!” Gleon barked. “Calm down.” He shoved the axe into his belt and grabbed a large hammer.
+
+The construct rushed forward with a burst of energy, raising its metal fist into the air. Gleon ducked and swung his hammer, smashing it into the metal frame. Sparks showered into the air. “I’m not your enemy,” he bellowed at it.
+
+The construct did not seem to care. Its eye glowed red, and it slammed a metal arm into Gleon. He flew, soaring backwards.
+
+Aika shot out of the bag, flying up and watching him slam into the stone wall. Dust billowed. Cracks rippled through the stone, and the construct charged, its metal feet clattering on the stone.
+
+Gleon lurched to his feet, anger in his eyes. “Now, you’ve done it.” He hefted his hammer, and his eyes glowed with a strange red light. Swinging with reckless anger, he smashed his hammer into the construct.
+
+The metal rang, and the construct slammed a fist into his shoulder, sending him staggering. Gleon corrected and raised his hammer again.
+
+Did it even dent it? Aika studied and saw a small dent in the rectangular frame. She flew upwards, and the hammer met a robotic hand.
+
+Gleon growled. The ambivalent construct pivoted and slammed its other hand forward, sending him tumbling across the floor. He spat blood and pulled his hammer back.
+
+Without pausing, it rushed forward and punched Gleon, sending him crashing into the wall.
+
+“You’re pissing me off,” Gleon bellowed, blood running from the corner of his mouth. He lurched up and slammed the hammer into the construct’s eye. The glass lens exploded, sending shards flying into the air.
+
+The construct’s arm smashed into him. A resounding thud filled the air, and blood oozed from Gleon’s side. Staggering backward, he braced against the wall. The construct whirred, swinging wildly and moving forward toward the wrong wall.
+
+It’s blind. Swooping down, Aika grabbed a rock and tossed it across the floor. The construct spun, and she shot into the air, pushing herself up against the stone arch of the tunnel. The construct moved toward the rock.
+
+Gleon shoved himself up and charged, swinging the hammer back and cracking it down on the construct’s head. Metal broke. The construct spun, and Gleon brought the hammer down with a furious grunt.
+
+The clang bounced through the halls, and the lights in the construct faded. Its gears slowed. Its metal body dropped and fell, hitting the stone floor with a loud clang. Wiping the blood from his chin, Gleon leaned against the wall and looked up. “Thanks.”
+
+Aika flew down. “Are you okay?”
+
+Gleon groaned and shut his eyes, leaning against the stone, blood oozing from his mouth.
+
+“Can you heal it?”
+
+“In a bit.” Gleon spat another glob of blood and looked at the broken construct. “Shame. I needed that.”
+
+“The golem thing?” Aika asked, landing on the construct. She studied the dented metal and the head. Why does he want this strange magic robot? It’s strong, but he could just level. She looked over at him with a confused expression.
+
+Gleon wiped more blood from his chin. “It’s a relic from the first war. Legend has it that we had armies of them, an army of metal and machine that held back the undead for generations.” He spat and looked at the stone tunnel. “I hoped to find the source. To learn how they were made. We need them if we ever wish to be free.”
+
+Aika looked up at him. “How did you lose if you had that?”
+
+“Attrition. It was inevitable. With every lost life, animal, dwarf, human, or other, it meant one more undead.” Gleon shook his head. “With every spell, they inflicted sickness, rot, and decay. It spread, slowly creeping out across the land and consuming everything with it. The forest fell. Creatures turned feral, and cities were abandoned, leaving us with little.” He grimaced. “Eventually, the mines fell or ran out of metal. That was the tipping point. We failed to keep up, and we lost everything.” His anger fell away, replaced by a look of exhaustion. “Everything we’d worked for. Everything that made us, us.”
+
+“Didn’t you kill them? How did they survive during all that?” Aika asked, leaning against the fallen golem’s head.
+
+“We did.” Gleon shook his head. “But new ones came back, over and over and over again. I don’t even know how many times. That was so long ago; the history is all but gone. The one thing I do know is that they kept coming back. Somehow, they knew what happened. Somehow, another took their place.” His wounds began to heal. “But you are here. That has to mean something.”
+
+Aika frowned. I don’t know what they expect me to do. I have no idea how to fight necromancers. She looked at his glum expression and forced a smile onto her face. “Don’t worry. We’ll bring them back… And if we can’t… we’ll make something even better.” Her smile became genuine. That was possible. They could do that.
+
+Gleon nodded, a soft smile spreading on his face. “I pray that I see it. That my daughter sees it.”
+
+“You both will.” Aika looked down at the construct. “Kindra, can you lend me some mana? I’m upgrading my suit!” A flood of it came, and she fed it into her skill. Metal flowed up from the construct, the nanites forming as she stood there.
+
+[Mechasuit upgraded to level 6, granting the wearer +6 strength, +6 dexterity, +6 speed, and +6 stamina.]
+
+She grinned and looked down at the construct. Now, how do I get this metal to Kindra?

@@ -1,0 +1,105 @@
+---
+id: 5216077b-1d9a-5dff-a7ab-98055726a903
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Bladewind"
+slug: 0197-chapter-15-bladewind
+partOf: labyrinth-of-the-mad-god
+position: 197
+ownLength: 2433
+unit: words
+publishedAt: 2025-07-18
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2446540/chapter-15-bladewind"
+royalRoadId: "2446540"
+---
+
+As it happened, that metaphor was even more astute than Nick realized.
+
+Because only a few hours later, he had his first encounter with the badland’s namesake environmental hazard—a deadly form of magical weather that lived up to its name in every conceivable sense.
+
+While he was following the river, heading toward an extensive series of mesas in the distance, he sensed something that he had never felt before. It reminded him of the pressure in his inner ear changing. But instead of being inside his head, the shift was coming from outside his body. While he was baffled, Size Up must have recognize what the sensation signified, because the skill let loose a resounding ping of danger.
+
+As the feeling intensified over the next few minutes, the horizon began to fuzz. When the wind picked up and set his hair whipping around his head, Nick understood what was happening. It’s my new Storm Chaser trait kicking in for the first time. Whatever is coming, I need to have something substantial over my head before it arrives.
+
+He frowned while racing the rising storm, activating Force Acceleration to boost his already superhuman speed. He had a good idea as to the nature of the emerging threat, since he’d been thinking about it ever since arriving in the biome.
+
+After his encounters with the boiling rain on the Searing Isle, and the inky fog covering Blackmist Bog, he had deduced that the System tended to describe places quite literally. By now, he suspected these names were deliberate clues—placed to help to newly-integrates species survive otherwise insurmountable challenges.
+
+Since the idea of wind that could cut like knife was fucking terrifying regardless of the specifics, Nick had been paying close attention to the sources of shelter in his vicinity as he travelled, doing his best to remain within a twenty-minute sprint of something substantial. Since his top speed with Force Acceleration was faster than an old-world bicycle, it wasn’t too difficult to pull off. Now, it was time to find out if his caution had been sufficient to survive the impending disaster.
+
+By the time the mesa was growing large in his vision, the wind was screaming across the badlands, shrieking as it flowed around the rocky expanse. Mere heartbeats later, the color of the world washed away—replaced with a murky amber twilight as a great cloud of dust engulfed the sun.
+
+When he looked over his shoulder and activated his fledgling mana senses, Nick’s eyes widened with astonishment. The entire windstorm that was barreling toward him like the end of days was infused with air mana. Not just regular flows, which he would expect given the nature of the weather system, but tens of thousands of distinct crescents that were flitting through the air like an army of shimmering eagles.
+
+Yup. The biome’s name is definitely literal. Getting caught out in the open by that storm would end my day in the worst possible way. No sooner had that thought crossed his mind than a warning from the System appeared.
+
+System Message: Regional Event.
+
+One exciting aspect of life in the Frontier is encountering weather and hazardous terrain that are magical in nature—something that all life on your planet will have to adapt to eventually. In this case, a dust storm infused with jagged bands of air mana is headed your way. If you’re not already running, now would be a good time to start.
+
+Reward: This is a courtesy warning intended to help you survive the transition to your new home. The message is the reward.
+
+By this point, Nick judged that he was about five minutes away from the mesa, and that the storm would hit him in ten. He was hoping to find a cavern along its perimeter, or barring that, a place where a boulder was nestled against the base and he could work his way inside.
+
+I started looking for shelter early because of my trait, but if that message was my only warning, it would have been hard to make it in time. That observation made him worry about his friends and the other people who had chosen to be transported to this region, although Earth’s elite members were capable souls and would probably be alright.
+
+He was still a few minutes away when the periphery of the storm broke over him, reducing his visibility as the gusts howled like a banshee driving a fire engine. That was when he felt something hit him in the back—hard enough to make him stagger. He glanced over his shoulder just in time to duck as a razored shard of condensed wind mana carved a wedge out of the soil behind his boots.
+
+Nick turned to face the storm, drawing on his mana senses for everything he was worth as he dodged the wind shards that were flying toward him like a legion of knives. The color reminded him of the air-bullet traps set by the flying foxes on the world where he’d trained with Rita, although the mana was woven into a different shape. It also felt wild and free compared to the ordered magic infusing those deadly little stones.
+
+He raced along the perimeter of the rise, keeping one eye out for shelter while most of his attention was devoted to surviving the lethal weather. The bladewind looked sharp enough to cut him all the way down to the bone, although with his upgraded gear, only his fingertips were exposed to the open air.
+
+With all the dust riding the breeze, it was hard to track the incoming threats. Though he dodged three out of every four, dozens of daggers forged from wind mana impacted his body, setting his helmet ringing and bruising his flesh.
+
+Although he was in the middle of running for his life, Nick tried to focus his energetic senses on the storm itself, in addition to the wind-blades it spawned. He didn’t have a chance to ponder the details, but he could see broad bands of mana screaming through the sky, carrying the dust in their wake. It was otherworldly, beautiful, and utterly captivating.
+
+After tripping over a rock and nearly face-planting while running at over 20 miles an hour, he decided to postpone studying the killer weather system until he had solid stone over his head.
+
+And this is only the periphery of the storm. If I were caught in the middle of it, I’m not sure I would survive. Not everyone is as well-geared as I am. I hope they noticed the bladewind coming in time.
+
+That was when Nick caught sight of a woman who was heading for a crevice about a half mile ahead. She was bracing herself against the gale, fighting for every step as she danced between the bladewind. She was nimble and perceptive but was having trouble gaining ground while fighting against the powerful headwinds.
+
+Her clothing was shredded, and she was bleeding in a dozen places, although nothing he could see looked too serious. That would change the moment the full fury of the storm broke over them sometime within the next few minutes. She isn’t going to make it in time. The wind will eviscerate her before she reaches the crevice.
+
+When she spun to dodge a flurry of mana-blades, he got a glimpse of her face. Nick realized that he recognized her features. It was Elizabeth—the woman he had met at the base of Darkstone Tower who had tried to convince Jim not to sacrifice the weak to nurture the strong.
+
+He didn’t know her well, but he wasn’t about to let her die. He burned stamina and flared Force Acceleration to close the distance, then slowed down long enough to grab Elizabeth and toss her over his shoulder. She screamed and began to struggle. He couldn’t afford to stop and explain, so he yelled while pressing his body into a greater burst of speed.
+
+“Don’t worry, I’m here to help. I’m going to carry you to shelter and use my magic to protect you from the bladewind.” She stopped trying to fight him, although she was shaking like a reed in a hurricane—from fear or exertion he couldn’t tell. Nick gathered his will and conjured an Arcane Shield that was a bit bigger than her body, curving the ends around her profile like an umbrella.
+
+He called upon Arctic Clarity to enhance his focus while dodging the bladewind, keeping the shield gliding in time with his Accelerated stride. It was a mana-intensive maneuver and took all of his considerable Mind to pull off, but it got the job done. It was his first time being able to move the magic shield so quickly, but he found his circumstances to be an excellent source of motivation.
+
+He had to burn more stamina to run against the wind and spent mana to restore the shield whenever the storm’s teeth sliced into it. My vital energy won’t last much longer. Just before his reserves ran dry, he drew near a crack marring the face of the stone.
+
+There might be beasts inside, but Nick didn’t have time to worry about it now. He stepped into the crevice and scanned his surroundings, breathing a sigh of relief when the worst of the wind cut off. He set Elizabeth down and kept his Arcane Shield in place to guard her back, which didn’t cost nearly as much mana to maintain now that they were out of the bladewind. She pressed herself against him as they moved deeper into the crevice.
+
+After about ten feet, narrow confines widened into a modest enclosure. There was a pair of coyotes in one corner, who bared their fangs and growled at his intrusion. After moving as far away as possible, Nick tossed them some dried meat. The beasts eventually calmed down and accepted his offering. Their canine gazes were mistrustful, but it didn’t seem like they would attack if he didn’t draw near.
+
+He deactivated Arcane Shield, stepped away from Elizabeth, and turned to face her. “Sorry for the rough handling, but there wasn’t time to figure out something fancy.”
+
+She met his gaze, took a deep breath, and smiled. She seemed to be in control of herself, although her eyes were wide with fear, and until she unpeeled herself from his back, he had been able to feel how fast her heart was racing. “You just saved my life. A jump scare and few bruises are a small price to pay for a last-minute rescue.”
+
+That was when Nick realized the storm had cut most of the clothing free from her body, leaving little… Correction, leaving nothing to the imagination. He tried not to stare, but it was already too late. Damn. She’s gorgeous and even more athletic than before.
+
+Elizabeth noticed that she was effectively naked at the same time, blushing while covering herself as best she could with the rags she was wearing. Fortunately, none of her cuts looked deep, and her pack, boots, and belt were magically enhanced, so she still had most of her gear.
+
+Nick had already averted his gaze, though with his upgraded Creativity and Mind, he could still imagine every inch of her body in perfect detail. It had been far too long since he’d seen so much of a beautiful woman, but this wasn’t how he’d been hoping to remedy the problem.
+
+Doing his best not to embarrass either of them further, he turned away and reached into his bag, pulling out some extra clothing and spare equipment. He handed it to Elizabeth without looking her way, along with a clean towel, some bandages, and a couple of waterskins.
+
+He waited until she had washed up, bound her wounds, and put on clean clothing, then both of them did their best to pretend that the last few minutes had never happened. After making sure the coyotes weren’t going to attack after all, Nick sat down beside Elizabeth where they could watch the bladewind surging across the badlands.
+
+Eventually, she turned to him and said, “I’m sorry about what happened before. I tried to stop Jim and Ken, but Jim wasn’t the type to listen to other people’s opinions, and Ken was a true believer. I was planning to depose him and do my best to get everyone inside the tower, but then the blackmist showed up along with the shadow hunt and everything went to shit. I heard Ken tried to kill you. I’m glad you survived.”
+
+While Nick still had a score to settle regarding the event, Elizabeth wasn’t to blame. “It wasn’t your fault. I heard you arguing with Jim in the tent. I know leaving so many people to die wasn’t your idea.”
+
+“Still, I should never have helped him obtain his position to begin with. At first, he seemed like a natural leader—someone who could help us get organized and survive. But the warning signs were there, and I should have listened to them sooner.”
+
+She took a deep breath and then looked Nick straight in the eye. “That being said, it’s all behind us now. Jim never made it to the rooftop. Some of the people he left for dead at the base of the tower caught up to him on a floor where the parties could interact with each other.”
+
+While Nick didn’t wish anyone ill, and humanity needed every champion it could get, he had to admit he was relieved to hear that news. It meant the man wasn’t somewhere nearby, setting up his own faction where the weak were sacrificed to fuel the strong.
+
+He was sure that Jim wasn’t the only person who had internalized that philosophy, but with any luck, Nick’s people could prove there was a better way before a tyrant rose to power. Humanity had enough on its plate without having to deal with a brutal dictator on top of everything else.
+
+After that, they sat in silence for a good long while, watching the mana-blades streak through the sky as dust roiled across the badlands. That was when Nick felt Elizabeth’s head on his shoulder. For a second, he wasn’t sure what was happening, but then he realized she was sound asleep.
+
+She must be utterly exhausted. Who knows what she had to deal with before the storm rolled in? It was nice to have some human contact, even from a stranger, so he put one arm around her shoulder while enjoying the warmth of her presence. Then Nick set his PDA to sentry mode and tried to get some rest.

@@ -1,0 +1,235 @@
+---
+id: bd1d1549-fad6-5aae-990d-812250f6ef32
+page-type-slug: story-chapter-royal-road
+title: "47. Continue"
+slug: 0047-47-continue
+partOf: mana-devourer-litrpgmana-cultivation
+position: 47
+ownLength: 2921
+unit: words
+publishedAt: 2024-08-06
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1747303/47-continue"
+royalRoadId: "1747303"
+---
+
+Gate opened.
+
+Whatever was coming out sounded terrifying. The grating of metal against stone rang out in Markus’ brain as the new challenger approached, the dragging of their weapon a new and  dissonant chime against a backdrop of bedlam.
+
+The crowd didn’t roar with the same enthusiasm as usual. Not unless Randall prompted them to. They seemed to hang on his every word and motion, puppets that danced at his whim. The arena was Randall’s theatre, and the performance almost pantomime, if not for the lack of music or anything joyous whatsoever for that matter.
+
+Markus used the few moments reprieve he had to take stock of his mana pool and what he’d used so far. He was in constant Meditation the whole time, concentrating on trying to reduce the pain behind his recent burn wounds.
+
+Still had a couple casts of Stone Barrier available. He could run Frozen Tomb for a while too.
+
+Double jump was down. Still had Dash… what was Dash’s cooldown again? A minute?
+
+It cost Life Mana. He had plenty of that. Then there was—
+
+Markus’ train of thought screeched to a sudden halt right as the sound from the hall beyond the gate began to dissipate, the weapon now brushing against sand.
+
+The man that exited the gate was something beyond human—he was massive. Brown, tanned skin, a pair of thick arms and a bare, exposed torso that rippled with muscle also, short white hair neatly cropped and sitting longer atop his head, the man was six and a half, perhaps almost seven feet tall, had one single eye, and appeared to have more than five fingers upon each hand.
+
+Then there were the spikes protruding from his torso and the spikes that laid around his shoulders, the four ears that sat upon each side of his head… what the fuck was he.
+
+Those many fingers clutched around two objects as he marched his way into the arena, one a crude, massive mace that he dragged along the sand behind him, a weapon that looked as if it would be more appropriate for demolishing houses…
+
+And in his left hand, more innoculously, he carried a wrought iron torch. It was lit, the flames dancing and leaping from side to side within the large chamber around the head of the metallic instrument, coals appearing to sit somewhere within.
+
+On the back of the creature’s hand, there stood a tattoo or sigil of some sort, one that looked almost like an open eye or a rising sun. Markus only noticed because it was lit up in a bright, burning orange that ran contrast with his skin, reminding Markus immediately of the tats Lexi had sported.
+
+“Esteemed master,” the creature intoned, sounding like the gruffest, meanest motherfucker to have ever existed, the kind of guy that actually chewed bones, the kind of guy prison guards paid off so he’d leave them alone, the kind of guy that…
+
+“Ah, so you’ve arrived, acolyte. I was expecting Reisha. What did you do to her that you might take her place?”
+
+Acolyte?
+
+Markus took a closer look at the insane, monstrous, vaguely humanoid creature. His skin was covered in yet more tattoos, many of them dark. He couldn’t make out the meaning of them, but he hardly imagined they were declarations of his stern pacifism.
+
+“She is… still whole,” the great brute responded. He dropped to one knee before Randall, completely ignoring Markus.
+
+“Please, master, I humbly ask that you allow me to prove myself to you in this contest. I have followed your every teaching, learned all of your sacred words, I—”
+
+Fuck this. Markus wasn’t gonna listen to this shit. Guy shouldn’t have taken his fucking eyes off of him. Markus ran up with his glaive, activating [Dash] as he aimed the blade squarely at the titan’s exposed neck.
+
+Markus screamed as he felt his arms being ripped from his body, his glaive clattering mutedly to the sand below alongside his limbs.
+
+“That was rather rude, Markus!” Randall chided from his seat, floating down from the air and wagging a finger in front of his face as Markus dropped to his knees, his legs completely numb. “You know not to interrupt a person when he’s speaking, nor to attack an unguarded opponent! The fight hadn’t even started!”
+
+Markus tried to speak, but he was pretty sure he bit his own tongue in the process. He kept staring at his arms. Trying to move the empty spaces where they’d once been. Trying to touch his face. Trying to reassure himself. His heart was threatening to burst. He—
+
+Randall clicked his fingers. A new pair of arms materialised where Markus’ had been only moments ago, and his bleeding, his pain… both immediately ceased.
+
+“My, your debt with me is ever growing… try not to interrupt our new friend again, will you?”
+
+Markus gaped like a fish as he opened and closed his new hands, flexed his new arms…
+
+His armour had even been repaired. Even still, the old pair were still laid right in the sand where they had been.
+
+He was struggling not to go into shock. He didn’t have time to go into fucking shock. He’d lost arms before. This was at least the third time. Sure, he’d never lost more than one at a time, but fucking deal with it! You’ll die if you lose your shit now!
+
+Markus forgot to breathew, scrambling over to his old limbs and prising his fallen glaive from his previously closed and now severed fist, the most surreal and disgusting experience he’d been through in days.
+
+…yeah. Only days.
+
+“Now,” Randall continued, as if watching Markus transfer a weapon from his just-severed arms to his barely new ones was a totally natural thing, barely taking the time to sneer at it, “where were we?”
+
+The warrior, who had barely flinched when Markus first charged him, deepened his bow, so low his face almost touched the floor.
+
+“Honoured one, I wish the glory of being chosen as one of your disciples, of being granted such a grand position. I would do anything to achieve this, more than I already have.”
+
+Wait, this guy wasn’t even a fucking disciple yet? He had to be fucking strong, though. Who or what the fuck had he taken down just to break in here?!
+
+“A disciple, hmm?” Randall tapped against the arm of his chair. “Interesting proposition. It’s hard to deny that you have moxy… you’ve shown as much already.” He leaned forwards, studied the monster’s face. “What would an altok do with such power, with such a station?”
+
+The creature’s face lit up. He didn’t dare smile, but Markus could see the excitement within his eyes. He couldn’t look away.
+
+“With your leave, I would return to my clan, and destroy each family mine has ever feuded with, so none there might tarnish you or your name.”
+
+Charming.
+
+“Then,” the monster continued, “I would slaughter each man and boy that bears my clanname, so that none might question my absolute and eternal devotion to you. I would forge a new line, seeding fitting warriors who bear your mark.”
+
+Holy fuck. This guy was pure, pure evil.
+
+Randall leaned into him, lifted the creature’s chin with a delicate hand, then stared, uncomfortably close.
+
+“And the women?”
+
+Never mind. Randall still set the bar on evil.
+
+The creature remained completely stolid. “I would ask that the women of my clan remain as servants to you, Randall.”
+
+“Hmm…” Randall looked him over. Leaned down with a tilt of his floating chair and peered at his chest, eyes bulging. “Your family was pledged to Ignoa, once?”
+
+How could he tell? The tattoos?
+
+“Yes,” the monster nodded, his voice low, as if he were admitting a great shame. “This stain is why I ask to forge a new line. I have already forsaken Ignoa’s way. The women of my clan will do the same.”
+
+“And the Clan Matriarch… she is still alive?”
+
+“My mother?” the monstrous man asked, a small quiver in his tone.
+
+“Not your real mother, altok, she didn’t birth you!” Randall laughed.
+
+Then, he sliced off the monster’s ear; Markus watched in horror as it fell.
+
+The giant man winced, but didn’t dare move a muscle. “Forgive me, Great One, I did not mean to imply—”
+
+“That you had been birthed by a filthy Ignoan whore?” Randall barked. In a rapid shift of pace, he began to laugh. He levitated the monster’s ear off of the floor, speaking into it like it were still attached. “Did you hear that, Randall? Why, yes I did. This mudcreature just asked to become my disciple, with the condition that I spare his disgusting, Ignoa worshipping cunt mother! HAahahahaah!”
+
+“My lord, I’m sorry, I—”
+
+“LORD?!” Randall roared, slicing off another ear and catching it midair. “I’m sorry, I suppose I didn’t hear you properly. Maybe I need more of these! Then again, you had four, and it didn’t seem to be working out for you!”
+
+“My god, please—”
+
+“Better… but you seem to have lost your decorum from earlier!” Randall shifted his head, looking to the left. “He does, doesn’t he, Markus?”
+
+Markus couldn’t find his tongue. He didn’t know what to say. Should he agree? Would it make any difference?
+
+“I found you rather refreshing, you know?” Randall said, twisting the monster’s head and forcing him to stare at Markus too. “You didn’t hide behind false platitudes or deference. Didn’t conveniently forget your manners when I said something you didn’t like. You didn’t have any to begin with! Unlike this false, lecherous mutt I’ve found grovelling before me…”
+
+He turned back to the monster. Relinquished his grip. “Stand up! Stand up, right now! You’re ruining my fun! This is no longer entertaining for me!” He turned, he raised his hands. “The crowd is bored too, aren’t you? Aren’t you?!”
+
+A resounding cheer. The monster rose with a forced conviction, his whole body quivering.
+
+“I AM GENEROUS,” Randall announced, screamed. “I will allow you to be marked with my fabulous name, monster! I will homogenise your clan’s useless identity and forge your entire valley into a SANCTUM for my worship. I AM GENEROUS.”
+
+The crowd cheered. Whistles and screams. Randall bowed his head at their sudden burst of adoration, almost as if he were embarrassed by it.
+
+“And you…” Randall’s voice again lowered, “you will kill that vile, detestible vermin you dared call mother before me, and your own mother too, provided she still lives. If not, then your sister. If not, your next son! You will repay the debt you owe to me, and I will not watch. I have more interesting things to do…”
+
+Then, with a sweep of his arm, Randall pushed away the sand beneath them all. Markus shook, blinking rapidly as he watched the stage around him transmute into something entirely different, the sand and pillars falling away and being replaced by earthen krags and solid rock, stalagmites and ledges and uneven ground that felt almost mountainous in origin.
+
+Had he… brought up the surface of the mountain this arena sat upon? The terrain was completely different… this was fucking insane! His footing felt completely off, his legs still felt somewhat numb after the shock of his arms being severed, his body was still quivering from the rumble beneath him as the landscape changed, from the pain shooting through him…
+
+“But for now!” Randall leaned forwards. He whispered into the giant man’s ear. Markus couldn’t make out a word. He feared for what might be being said. Nothing about this was remotely familiar or comfortable to him, and he’d gotten used to some pretty fucked up shit in the last several days…
+
+He continued to speak, eventually eliciting a nod from the creature, and then withdrew.
+
+“See, Markus? This one knows his place!” He pointed at the giant creature, who looked as if he were currently attempting to chew through a wasp, his jaw locked, his eyes wet with tears. “To think how much easier things could’ve been between us. To think of all the things I’d have given to you freely. You aren’t like this dirt! You’re special!”
+
+He sighed. He reclined in his seat once more.
+
+“Oh, it breaks my heart. The things I have to do to right our scales…” He pointed once again, jabbing a finger into the monster’s chest, causing the mountainous man to wince.
+
+“I want you to picture this man when you’re falling apart. When you’re being torn apart both inside and out. When you’re screaming and crying and flailing so viscerally that your throat becomes hoarse and you tear it from your own neck just to alleive the pressure. I want you to picture this man and remember how easy he had it compared to you.”
+
+Markus watched as Randall pulled his finger away, noting he’d left a small mark upon the man’s chest. He wasn’t sure if it was simply a wound or something more, but Markus was banking on it being something utterly terrible, because everything here fucking was.
+
+“Now… do try and entertain!”
+
+With that, Markus was left to face the monster before him.
+
+With how he shook at first, it almost felt like he was facing off against a wounded animal. Only, if that wounded animal stood on two legs and was twice his fucking size.
+
+Then, the monster snarled, lifitng his mace and touching it to his torch, igniting it, and Markus no longer felt even a shred of that same paradigm.
+
+Then, the monster pressed the torch to his lips.
+
+He blew upon it, and white-hot flames spewed directly in Markus’ direction, careening his way as he hurriedly dove to the floor below, gasping and grunting as he stuck the landing only to find that his dolphin dive onto the rock below was incredibly fucking painful, that this terrain was as hard, uneven, and rough as it fucking came.
+
+Same tactics he used in the sand weren’t gonna work here. He’d exhaust himself throwing himself around like that…
+
+Markus forced himself back onto his feet. His entire body wanted to quit on him. He went through too much of this shit too fucking often to have to deal with an enemy like this. An enemy so…
+
+Markus felt his entire body being swept out from under him as the monster smashed the mace into the back of his thigh and yanked it towards himself.
+
+He felt his chest being crushed under it not long after. Searing into his skin as the life was pulverised out of his manically beating heart, pushing desperately against the pulverising force of the mace in a jackrabbit attempt continue its momentous, impossible task.
+
+…the pressure relented.
+
+Markus was healed. He stood upon his feet.
+
+“No… that was terrible! You didn’t even see him coming!” Randall shook his head, his words steeped in derision.
+
+He was… still alive? Healed?
+
+“Again… Try again! Surely you can do better.”
+
+Markus steeled himself; it was the only thing he could do.
+
+The monster advanced on him once more, face beset in cruel, unwavering determination.
+
+Another smash, this one against his skull. Everything went black. It was too fast for him to dodge after two or three strikes.
+
+…
+
+He was back. Alive. Unscathed. Only his injuries from before now remained.
+
+“Hmm… shall we put a number on this?”
+
+Randall tapped on his chin. Markus shook his own head to try and dispel the dizziness, the maddening phantom sense he felt from the pain that had all so recently been present, the unshakable feeling that this was some other timeline, that he should be dead already…
+
+“Ten thousand! Ten thousand deaths, and I’ll allow you to move on from this fight! That means you only have…”
+
+Markus was kicked to the floor. The torch was pressed against his cheek until half his face melted.
+
+He returned to consciousness once more, pain faded, still screaming.
+
+“...nine thousand, nine hundred and ninety-seven to go!” He shrugged. “Apologies. I hate counting.”
+
+Markus watched as the monster moved to attack him again. He could scarcely concentrate on anything, his body was racked by so many disparate pains that he didn’t even feel like a real person, that he felt as if he were experiencing a terrible drug trip more than he did that he was fighting…
+
+His vision was blurred. His senses were failing him…
+
+Three more deaths went by. All of them within seconds. All of them their own eternity. All of them marking him somewhere despite the lack of blemish upon his skin as he reformed yet again before the monster, ready to die once more.
+
+Markus could feel himself slipping. This was too much for his brain. No body was meant to endure this level of torment…
+
+He raised his glaive. He didn’t know where he summoned the will. His body responded not to his thoughts, but to an instinct he could scarcely recognise the source of.
+
+He parried one blow. Dodged two more…
+
+And then had his skull caved in.
+
+Flash back to the start. Too dazed to move…
+
+Three more deaths before the pattern of blows was scattered enough that he could regain his balance.
+
+He had no intention of dying another 9980 times, or however the fuck many it was. He would  figure out how this monster fought and find a way to exploit it, and he’d do it before he went utterly insa—
+
+His head came off.
+
+That was new.

@@ -1,0 +1,111 @@
+---
+id: 004656c5-10ce-5582-974b-93f50eedeed8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Rebuilding Civilization"
+slug: 0185-chapter-3-rebuilding-civilization
+partOf: labyrinth-of-the-mad-god
+position: 185
+ownLength: 1805
+unit: words
+publishedAt: 2025-06-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2372238/chapter-3-rebuilding-civilization"
+royalRoadId: "2372238"
+---
+
+It seemed that before he decided which biome would become his new home, Nick had some reading to do. It’s time to learn more about that quest.
+
+When he focused on the information he wanted, it appeared before his eyes.
+
+The Rebuilding Civilization Bonus Quest
+
+Quest period: 1 year.
+
+Time remaining until quest initialization: 14 days.
+
+The Rebuilding Civilization bonus quest is designed to offer the inhabitants of planet Earth an opportunity to get a head start on developing their powerbase in preparation for entering the Labyrinth.
+
+Ascended beasts have been issued an alternate version of the quest, and the rest of this information only pertains to humankind.
+
+Thousands of Town, City, and Capital Bosses will be generated after a brief period of adjustment (to allow the participants of the Fate of Earth quest chain a chance to acclimate to the many changes that have transpired in their absence).
+
+These Bosses are magical constructions created by the System, based on beasts from other worlds. While these Bosses are flawless reproductions, they are not living inhabitants of the planet and may be killed without repercussion.
+
+Quest Bosses will aggressively attack anything that enters their territory, although they will not pursue prey beyond the borders of their domains or attack existing settlements.
+
+Each Boss is unique and comes in one of three difficulty classes: Town, City, and Capital. Defeating a Boss will grant the victors the right to found an official settlement and participate in other aspects of the Rebuilding Civilization quest.
+
+After 1000 Town, 100 City, and 10 Capital-Class Bosses have been defeated, the rest of the corresponding category will vanish, and no further settlements of that size will be issued.
+
+If you defeat a Town Boss, your Town will begin with: 1 Uncommon buildings, 2 Common buildings, and 50 City Points.
+
+If you defeat a City boss, your City will begin with: 1 Rare building, 2 Uncommon buildings, 5 Common buildings and 250 City Points.
+
+If you defeat a Capital Boss, your Capital will begin with: 1 Unique building, 2 Rare buildings, 5Uncommon buildings, 25 Common buildings, and 500 City Points.
+
+New settlements may not be founded within 25 miles of an existing settlement or inside their sphere of influence. Once you have founded or joined a settlement, you will be eligible to receive city quests. In addition to individual rewards, completing city quests will grant the leader of your settlement City Points (CP).
+
+These points may be redeemed for valuable rewards, many of which cannot be obtained by other means over the short-term. Examples include: defensive structures, training grounds, commercial and industrial infrastructure, and amenities such as magical lighting, temperature control, running water, and waste management.
+
+All CP must be redeemed by the end of the Rebuilding Civilization period, or they will be forfeit.
+
+Whoa. Nick rubbed his chin as he reached the last word. This bonus quest is considerably more extensive than I was expecting. It seems like these settlements will become the foundation for preparing humanity for life in the Labyrinth. I definitely need to join one, although it would suck to get stuck with a shit leader—like that asshole Jim I met at Darkstone Tower.
+
+Before I make my decision, I need to know more about the Frontier. Since the System had mentioned that the information in the Earth 2.0 Codex would be freely available, he tried focusing on the term, requesting a more detailed explanation.
+
+To Nick’s delight, it worked.
+
+The Frontier
+
+Frontier regions are created when a world accumulates sufficient cosmic energy to reach level 1, triggering a host of changes. Within the biomes generated during the planet’s expansion, the System has designated certain regions as “the Frontier.”
+
+The Frontier is home to a variety of dangers and opportunities intended to help newly-integrated species advance until they can begin exploring the multiverse at large.
+
+Frontier regions contains the following features:
+
+Quests: Quests are lengthy missions, often involving multiple stages. Completing quests awards essence, experience, species experience, and planetary experience in addition to individual rewards based on contribution. Difficult quests can only be completed by multiple parties working together.
+
+Events: Events are centered around goals that are generally restricted to a specific geographic area or limited span of time. Events reward prizes to everyone who contributes toward their completion, although major contributors may earn additional rewards. Some events may appear again later, and others are triggered by hidden conditions.
+
+Challenges: Challenges are localized encounters with conditions for victory that are short and straightforward compared to events. Elite challenges may only be completed once, while general challenges will persist and may be completed multiple times (each challenge may only be attempted once per individual/party). There are several categories of challenges, including but not limited to: combat, obstacle courses, timed trials, and puzzles.
+
+Dungeons: Dungeons are self-contained zones that are organized around a unique theme. Dungeons are dangerous, hostile environments, filled with rare resources, valuable treasures, and the like. They may contain their own events. Most dungeons are completed after defeating their boss, although some may include alternate victory conditions.
+
+Everyone who is inside a dungeon at the time of completion will receive a reward, although they have strict population limits. Once a dungeon has been conquered, it will disappear. Some dungeon entrances are clearly marked, but others may be hidden or have secret conditions that must be cleared before they can be used.
+
+Monsters: To help prepare you for the rigors of the Labyrinth, some of its inhabitants have been placed within the Frontier. Most of them are magically-altered lifeforms that are generally referred to as monsters. Unlike beasts and contestant species, monsters do not have access to the System. They can’t level, use abilities, or learn skills. They can, however, utilize mana, absorb essence, and grow stronger by devouring magic-using life. While the monsters roaming the Frontier cannot reproduce, it is in your best interest to eliminate them as swiftly as possible.
+
+As part of your Diamond reward package, the difficulty of all events, challenges, dungeons, and quests will be rated between 1 and 5 stars. This rating will be included in their introductions.
+
+Be advised: Although these features will only be generated within the Frontier, some of them may spread to or otherwise influence the neighboring regions. You have been warned.
+
+Wow. Nick contemplated what he’d read, considering what it meant for the future of his people. Unlocking that Diamond reward package was a real gamechanger. I need to make the most of it. Now then, which biome should I pick?
+
+Now that he had all the information he needed, he spent a few minutes pondering the pros and cons of each option before committing to a course of action. He liked the idea of living in a port city that was well-positioned to become an economic powerhouse, but in the end, he knew that he was heading to the badlands.
+
+In addition to being the best choice for him personally, Nick was certain that his friends would pick the place that would let them grow stronger at a rapid rate. On top of the opportunity to collect rare resources and improve their gear, everyone would want to have easy access to the Frontier and all the opportunities it provided.
+
+The badlands was probably the biome that a fair portion of Earth’s champions would choose, now that he thought about it. Since the fight for humanity’s survival was far from over, most of its elites would want to train intensively before the year of protection ended and the next ordeal began.
+
+That being said, he was sure that some of them would pick each of the other options. Which was good, since every settlement needed at least a few heavy hitters to protect the rest until they were strong enough to fend for themselves.
+
+Certain that he had made the right decision, he voiced his intentions to the System. “Take me to the Bladewind Badlands.” The moment Nick uttered those words, his bubble began to move.
+
+What happened next was the most fun he’d had in quite some time. Just like when he’d arrived at planet Drezen, he began a meteoric descent toward the surface below.
+
+Now that his Mind had reached superhuman levels, it was easy for Nick to divide his attention. Part of him just sat back and enjoyed the ride, savoring the fierce beauty of his homeworld. Another was busy memorizing the terrain, noting details that hadn’t been obvious from orbit.
+
+As his protective pod dipped below the clouds, it gave him a chance to check out the biome that would become his new home. It seemed that the Bladewind Badlands were situated somewhere along the western coast of North America—within a wide swath of soil that hadn't been there before.
+
+By his rough estimate, the badlands were at least 500 miles wide and 300 miles long. The red and orange earth was punctuated by immense spires of stone and towering mesas, which reminded him of the Titan’s Prairie where he had trained with Rita and Kiki. There was a jungle to the north, a desert to the east, open ocean to the west, and a bay to the south.
+
+He memorized everything he saw. But since his alien PDA was also recording the view, the lion’s share of Nick’s attention was devoted to the vehicle that carried him, studying the construction of the force pod with his enhanced energetic senses, in case he was able to make something similar one day.
+
+He could only discern a fraction of the details, as the laws of magic were still so new to him, but he thought that he had a sense of how the bubble worked on a conceptual level. He couldn’t use the information just yet, but it was something to ponder once he began directly manipulating mana, learning how to use magic beyond his System-granted spells.
+
+When his ride began to slow, Nick knew he was getting close to his destination. He devoted his full focus to the terrain below, taking note of some landmarks that would help him navigate once he was down on the ground.
+
+There was a river running perpendicular to the sea, originating from a large lake in the center of the badlands. There were several mountains, including three towering peaks to the northeast. He spotted some wooded areas, and a few fields that were completely covered in flowers. He counted dozens of distinct sub-biomes and suspected that there were even more out there, all of which he hoped to explore later.
+
+By now, Nick’s pod had begun its final descent.
+
+In just a few more seconds, he would be standing on the world of his birth for the first time since his ordeal had begun. He broke into a broad grin and braced for impact. Bladewind Badlands, here I come.

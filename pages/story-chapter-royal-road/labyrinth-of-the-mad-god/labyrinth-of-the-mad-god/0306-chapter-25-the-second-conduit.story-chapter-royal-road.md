@@ -1,0 +1,117 @@
+---
+id: ce88aba9-5145-5026-be11-39c28fbbdf31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: The Second Conduit"
+slug: 0306-chapter-25-the-second-conduit
+partOf: labyrinth-of-the-mad-god
+position: 306
+ownLength: 2301
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3314264/chapter-25-the-second-conduit"
+royalRoadId: "3314264"
+---
+
+Nick crept down the conduit with his team at his side.
+
+He had turned the flashlight function of his PDA to its lowest setting several hours back, relying on his mage sight, Enhance Senses, and evolved organs to navigate the dim terrain with a little help from Size Up. The murk limited his field of view, but they had learned the hard way that light attracted the monsters roaming this region, and taking on more than a few at a time was a short road to a quick death.
+
+The first conduit the party had passed through was a collection of underground passageways interspersed with short snippets of alien landscapes and ruined cities. While there had been flora and fauna, it was nothing like the terrain they were traversing now, which was several miles wide in most places. After spending the better part of the day crossing a swath of vibrant orange grasslands, they had moved into a coniferous forest with gigantic trees stretching thousands of feet into the air.
+
+There was prolific wildlife within the woodlands, as if a complete ecosystem had been incorporated into the Labyrinth and managed to flourish within. It was beautiful and would have been relaxing if it wasn’t for the predators prowling beneath the canopy, particularly the nightmares made flesh that stalked the forest after the sun went down.
+
+On that note, until a few hours ago, a sun had been shining in the blue sky above. Nick wasn’t sure how that was possible. As far as he knew, only major nodes were big enough to incorporate stars and planets, but if the light was artificial, its origin was beyond his ability to discern.
+
+“I see a faint forcefield up there.” Kenji peered through the branches to gaze upon a pitch-black sky utterly devoid of stars, “but the breeze feels natural and doesn’t carry the corruption I sensed before. I have no idea why, but the Labyrinth is preserving the integrity of this forest. I’m sure the monsters have a major impact on the animals living here, but they mostly seem to be feeding on each other.”
+
+“Maybe it maintains these sanctuaries to produce oxygen, compost soil, and process other types of biological waste,” Nick said. “This place is far more complex than it appears at first glance. The Labyrinth is more than a cosmic maze containing the worlds Taltos has stolen from the System. The more I see, the more certain I become that we don’t understand what we’re dealing with. My gut is telling me humanity won’t survive unless we can pull back the curtain and learn the secrets that lie beyond.”
+
+“I like this forest better than those twisting subterranean waterways,” Bandit added. “But trees that try to eat you are just wrong.”
+
+Lurk grunted her agreement as the party scanned their surroundings, seeking suitable shelter where they could rest until morning.
+
+In addition to the monstrous birds they were hoping to avoid by leaving the light low, this part of the conduit was home to carnivorous creatures that blended with the greenery. They waited until prey drew near before lashing out with branches tipped with razored tines and looping vines that grabbed hold and drew you in. While that was bad enough, the worst part was the cavernous maws that split their trunks, yawning mouths lined with serrated wooden teeth and moldering bones piled behind.
+
+The tree monsters’ stealth magic was incredibly powerful and could fool both physical and energetic senses. Since avoiding every trunk was impossible while following the path laid out by the System’s arrow, the party had devised an alternative method of detection. Before they drew near, Nick either fired a Mana Dart at the next tree along the trail or Bandit hit it with shadow flame.
+
+The creatures couldn’t absorb either attack without flinching and giving their position away. On the bright side, while they could walk on their “roots,” the trees were slow. Once their disguises were foiled, they were easy to kill with a well-placed Piercing Ray.
+
+The other monsters were tougher to tackle—blood-red owls the size of a wagon. The silent flyers had hideous faces featuring twisted black beaks and glowing yellow eyes from out of a fever dream. The avians were relentless hunters and would stalk the party for hours, waiting for an opening to swoop down and strike. Despite their diligence, Lurk had been hit by surprise attacks on two separate occasions.
+
+The team crept forward as Bandit tested the trunks and the others watched the abyssal sky above. Not long after, they came across a shallow cave set into the side of a low hill, made camp, and waited for the sun to rise.
+
+Later that day, their journey took them through an environment that was different from anything Nick had seen yet. A hollow tree of epic proportion had fallen onto its side, creating a passage through the middle. It was lined with roving packs of monstrous termites, which explained why the titanic trunk had toppled.
+
+Fortunately, these monsters were omnivorous and not particularly perceptive. They would attack if the party drew near but were more interested in gnawing away at the wooden surfaces. In the end, the team managed to sneak past despite a few close calls, but the men were running low on Blend.
+
+Twenty minutes later, Nick stepped out of the wooden tunnel and into a pristine tundra running between two glaciers forming the sides of the conduit.
+
+The air was chill, but their evolved bodies could handle it, and while the snow was deep, they didn’t come across any concealed crevices or tree wells. The powder was tricky to traverse, but the party soon learned the region’s true threat was the canine monsters roaming the arctic expanse.
+
+As it happened, the wolves weren’t as fearless as the other species they’d come across. Predatory Domain and Paralyzing Roar sent the monsters packing, followed by a round of shadow flame darts Bandit cast to encourage them not to return.
+
+While the team had to remain on guard, the tundra wound up being the safest terrain they had passed through yet, giving them time to ponder a range of issues as they continued their journey toward the quarantine zone.
+
+Thanks to his PDA, Nick could track the passage of time, letting him know how long he’d been away from Aurora and the duration of Earth’s period of protection. He could also see his citizen requests, alliance updates, and building notifications in his city menu. Liz’s team was hard at work, and Aurora was expanding at a rapid rate.
+
+“We’ve grown by over a thousand people since we left,” he shared. “And the districts are scaling to accommodate our expanding population. They haven’t placed any Rare buildings yet, but we picked up a half-dozen mana wells and are establishing new industries every day. We just added four settlements to our faction, and two additional beast tribes have joined the alliance. I assume will merge the alliance with Team Earth as soon as we can add nonhuman members, including the coyotes from Shady Cave and Bandit’s tribe.”
+
+“Did that boost the bonus from your title?” Kenji asked.
+
+“That’s a great question; I hadn’t thought to check. Yea, the bonus increased by five percent… wait. You know about that?”
+
+Kenji laughed at the expression on his face. “Elizabeth told me about it so you didn’t have to lie or keep it a secret the whole time we’re gone. I don’t think anyone from our original group will mind but keeping it on the downlow is a good idea for the time being. It might make it seem like you have ulterior motives, even if you didn’t know about the title until we tricked you into assuming the role.”
+
+Nick nodded his agreement. By this point, he didn’t mind being the nominal leader of his faction, and a fifteen percent bonus to his experience, essence, and skill gains was a phenomenal windfall at a time when he desperately needed to grow strong enough to protect his people.
+
+Bandit, Fritz, Nick, and Kenji shared stories from their pasts and their plans for the future as they crossed the pure-white snowscape—punctuated by an occasional grunt from Lurk. Before they reached the next node, he wanted to complete the trials of mastery for Light Shield and Wand and obtain sufficient understanding to rank up Piercing Ray and Arcane Shield.
+
+To help Nick prepare, the party flung snowballs whenever his attention wandered. The projectiles were easier to block than before, thanks to the warning provided by Sixth Sense. Lurk wanted to join in on the fun and used her tail to fling big piles of powder his way, which wound up being fantastic practice for dealing with area-of-effect attacks.
+
+He fired his Wand of Force when monsters drew near, deepening his connection to the device. He practiced with his new wand whenever he absorbed enough life mana from the environment, since they still had plenty of healing potions if they needed to treat someone’s wounds.
+
+By this point, Nick was almost ready to take both trials and was looking forward to the bonuses from completing them. He was making steady progress advancing his abilities too, which was something all four of them were working on in addition to improving their teamwork and tactics.
+
+Bandit had been manipulating mana and free casting spells far longer than anyone else. The lemur coached the party as they travelled, helping the men master the painstaking process of replicating their magic by hand. The exercise was frustrating at times, but it enhanced their understanding of the principals involved and finetuned their energetic control.
+
+Thanks to the beast’s tutelage, Nick had learned to release crude bursts of force mana that were similar to shots from his wand and produce spikes that resembled the projections generated by Force Acceleration. He could free cast a weak version of Mana Dart and concoct a spinning creation that looked like Piercing Ray, although it lacked most of the spell’s functionality.
+
+None of his creations could penetrate the arcane barriers of late Tier-1 monsters, let alone the Tier-2 horrors they encountered on a daily basis. However, it was a major step forward and the technique was dramatically improving his understanding of his abilities.
+
+Kenji was having a harder time with mana manipulation, although he wasn’t too discouraged. For now, he was focusing on free casting Bulwark and planned to work on his other abilities once he’d improved his Vital Energy Manipulation skill another dozen points or so.
+
+The warrior was getting even better at using Tactical Command, which was great for conditioning his Creativity and Mind too. Kenji could use his ocular aura to display everything from top-down maps of the region to profiles of the monsters they’d encountered, true-to-life depictions that showed their weak points and attacks—even movement patterns and ingrained reflexes.
+
+He was using Command to teach the beasts applied-combat anatomy, showing what lay beneath the surface of their skin while describing the properties of each type of tissue and organ in the body. Bandit and Lurk found the subject fascinating, learning more about themselves and where to target an enemy to do the most damage.
+
+While it wasn’t revelatory, Nick found the lessons useful too. Kenji’s pointers gave him some ideas about where to target Sonic Slice to take down opponents that were too poweful to overcome with raw force.
+
+It was hard to tell what Lurk was thinking, but the dino was working hard on her own advancement. In addition to practicing various types of stealth and detection, she was training Regeneration whenever they took a break, cycling life mana through her energetic channels to increase her capacity and control.
+
+Nick memorized what he was sensing, as he hoped to replicate the feat himself. He had a hunch that mastering life mana would make his new wand more effective and offer other benefits besides.
+
+In addition to learning from his teammates, he took his turn teaching too. His mage sight and mana stealth were better than the others, since he’d begun developing his energetic senses early on while climbing Darkstone Tower. Whenever they came across a potent source of mana, everyone stopped to meditate for a while before moving on, enhancing their sensitivity to additional frequencies of magic.
+
+That brought him to the final item on his self-improvement checklist—stamina.
+
+Nick’s stamina manipulation was improving by the day. Although his control couldn’t match any of his friends, he was confident that he would advance his combat arts before long.
+
+He spent some time every day cycling stamina from his well, through his muscles, and back. He practiced sending stamina into his arms while sparring with Bandit and Kenji, trying to improve his efficiency and control by replicating the effects of Heavy Blow and the thrusting component of Force Riposte.
+
+He eventually realized he didn’t have a term for guiding his stamina like free casting for mana. After discussing the issue while they walked, the party decided to call the practice “turbocharging” their attacks at Bandit’s instance.
+
+The men agreed to come up with a more dignified name when the lemur wasn’t around—who had become obsessed with the overpowered protagonists from the anime and games Nick described after the beast asked him what his life had been like prior to the System’s arrival.
+
+The next time Nick pulled up his profile, he grinned in satisfaction—pleased that his training was bearing fruit.
+
+Through use, you have improved the following skills:
+
+Vital Energy Manipulation has increased from [11] to [15].
+
+Through intensive study of magical forces and visualizing complex processes, you have improved the following baseline attributes:
+
+Magic has increased from [22] to [23].
+
+Creativity has increased from [20] to [22].
+
+Mind has increased from [21] to [22].

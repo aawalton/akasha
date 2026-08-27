@@ -1,0 +1,22 @@
+---
+id: d212fc13-5e15-5a3e-9737-c534cea60775
+page-type-slug: story-chapter-royal-road
+title: "Another Fool Kindle Launch and Another Health Update + I Am Become Death Update + Comic Update!"
+slug: 0019-another-fool-kindle-launch-and-another-health-update-i-am-be
+partOf: mark-of-the-fool
+position: 19
+ownLength: 398
+unit: words
+publishedAt: 2025-02-12
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2062709/another-fool-kindle-launch-and-another-health"
+royalRoadId: "2062709"
+---
+
+Greetings and salutations!So folks, I'm here to announce my kindle launch for Mark of the Fool book 9!And also, I just wanted to give some updates on my health, I Am Become Death and the Mark of the Fool comic.So first off:Woooooo book 9 launches today! Thank you all for your support this entire time, and I am very happy to be here. Without you, I would NOT be here! It's crazy to think that it's been 9 books. Just to warn you due to the length of the series spiralling, book 9 ends a little bit differently than it did on patreon and RR. I'll let you find out the end point. :)So as always, downloading an rereading the book on kindle unlimited helps me out, but-as always-YOU DO NOT HAVE TO do this. Honestly, your patience during my recent medical issues has been wonderful enough. But, if you want to get into it on Amazon, here's the link: https://www.royalroad.com/amazon/B0DGLYQTKR?maas=&ref=Also, might I get some upvotes on these reddit posts?
+ 
+https://www.reddit.com/r/litrpg/comments/1inriy2/mark_of_the_fool_book_9_is_out_today_on_kindle/ https://www.reddit.com/r/ProgressionFantasy/comments/1inri3q/mark_of_the_fool_9_out_today/
+This tale has been pilfered from Royal Road. If found on Amazon, kindly file a report.Also: HERE IS THE COVER
+ 
+Brutus looks so cool!
+Secondly, about my health. So I had an MRI and it turns out I'm NOT dying and DO NOT have a degenerative disease. :) Which is pretty good news! My doc thinks it was some sinus or inner ear thing that messed with a bunch of nerves, and kinda manifested as a form of Restless Legs and vertigo. I'm slowly healing naturally. Thank you for being here all this time. Seriously, thank you.Later this month, I'll have an announcement I've been sitting on for quite awhile. :)Now, as for I Am Become Death...I am launching it on Patreon on February 28th! After that, it'll likely come to RR about 2 weeks later or so, health depending. There'll be around 24 chappies on Patreon too. Oh, and a final thing. The webcomic has been delayed. We had to switch teams unfortunately, but it is back on track. I am very excited with how it's going. :) I'll have more on that later.
+Very excited. So, that's it for now, folks!As always, thank you for your support. You're all fabulous. And seriously. Take care of yourselves friends. Until later this month! I'll do that secret announcement (which some people on discord already found, lol)Cya!

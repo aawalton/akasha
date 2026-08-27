@@ -1,0 +1,87 @@
+---
+id: 5db08ed6-ec1a-5ef2-8002-b19512c9dc8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: Escape"
+slug: 0043-chapter-14-escape
+partOf: labyrinth-of-the-mad-god
+position: 43
+ownLength: 1765
+unit: words
+publishedAt: 2024-08-19
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1765708/chapter-14-escape"
+royalRoadId: "1765708"
+---
+
+A hundred feet ahead was an intersection, where a tunnel leading deeper into the interior crossed the ring running along the outside of the floor. Better still, there were some massive pieces of rubble scattered across the junction, including a big rock that went up almost all the way up to the ceiling.
+
+There were two directions for Nick to flee, in addition to the nearby rooms. But he had something else in mind rather than picking a path and sprinting like mad. A way to use this opportunity to lose the swarm completely.
+
+He burned some stamina to put on more speed and widen his lead. The moment that he broke line of sight with his pursuers he got ready to jump, preparing to implement the plan that he’d concocted. The intersection was coming up fast, so Nick summoned his artic clarity to enhance his concentration, activated force acceleration long enough to launch himself into the air, then immediately turned it off again.
+
+Thus far, he’d only had limited success in controlling the ability. There was just too much power for him to handle without being able to regulate its output. But the recent increases to his toughness kept him from damaging his own legs too badly, and this time, he’d judged the distance just right.
+
+Nick went sailing through the air, almost crashing into the roof before arcing back down. As the big rock grew to fill the entirety of his gaze, he reached out and grabbed the top, hanging below a gap running between the fallen stone and the ceiling. He held on tight, caught his weight, and then scrambled inside, twisting a bit to slide his pack through the narrow opening.
+
+As soon as he was out of sight, he froze in place and became as quiet as he could, keeping his breathing slow and steady. He couldn’t do anything about his racing heart, which made him thankful for his charm of muffling. The magic bangle would help him remain hidden from his sharp-eared pursuers, reducing the sound produced by his internal organs.
+
+Nick turned his head so that he could see through the crack, careful not to brush against the stone in the process. He was ready to launch himself back into the tunnel if he had to, but he was praying that his ruse would work. That the constructs would keep on running until they were past his position.
+
+A few seconds later, he could see the gear-rats approaching. The swarm was coming straight for the intersection at a rapid rate, little brass bodies streaking down the tunnel as they spread out to cast a wider net. A fresh surge of adrenaline poured into his veins when half of the constructs slowed their pace instead of sprinting past.
+
+Please don’t let them have a sense of smell, or some magical means of detecting my presence. If they did, Nick was going to have to fight them after all, then get out fast before more arrived on scene. It would be a risky venture, as his powers weren’t well suited to taking on multiple small opponents, and the constructs’ bites could shear through his armor with ease.
+
+The rat pack began investigating the various pieces of rubble spread out along the crossroads, looking behind, below, and on top of each before moving to the next. A few tried to climb the one that he was hiding on. But they soon gave up. It was too sheer to scale, and they hadn’t seen him jump up there.
+
+The swarm came back together a few minutes later, letting out metallic squeaks as they took turns reporting their findings to one another. To his immense relief, they dispersed a few minutes later, some rats going down each passage while the rest started scouting out the closest rooms.
+
+Nick wasn’t coming down until he knew that they were gone, so he decided to break for lunch while pondering what he’d seen. Ever so slowly, he unfastened the clasp on his backpack and reached one arm inside, pulling out a few provisions from the dimensional storage device.
+
+They don’t seem to be alive, but they’re clearly intelligent. Whether they are individually aware or exist as part of a collective isn’t obvious yet. At least they don’t seem to be able to communicate with each other over distances, or they would have surrounded me before I made it this far.
+
+While their bodies are machines as far as I can tell, I saw one eating cheese and I haven’t found anything on this floor that’s organic. The swarm must have devoured it all. There has to be a reason for that behavior. Maybe they’re connected to the waste disposal aspect of this facility.
+
+During his analysis, Nick ate some smoked meat for a post-running-away snack, savoring the flavor as he restored the calories he’d consumed while fleeing for his life.
+
+The gear-rats don’t seem all that powerful alone or in small groups. That being said, they are pretty agile and surprisingly durable. Given the power of their bites, getting swarmed would end my day in the worst possible way. An outcome that will become more likely the longer we’re here.
+
+There could be hundreds or even thousands of the clockwork critters down here with us, so running isn’t the best strategy either. I got the feeling that they could have kept chasing me for hours.
+
+Even taking all that together, it feels like I’m missing something important. I’m not sure how they tie into the floor’s rule of escalating threat, other than sheer numbers. But I have a hunch that I’ll find out sooner rather than later.
+
+When Nick was done with his meal, he took a swig from his canteen, then moved on to the next item on his agenda, checking out his profile to see if he’d made any gains. The only thing of interest was a stack of skill-up notifications, which he absorbed at a glance before closing his menu.
+
+Through use, you have improved the following skills:
+
+Sword has increased from [7] to [8].
+
+Evasion has increased from [7] to [8].
+
+Light shield has increased from [0] to [1].
+
+Nick had already known that he’d finally managed to improve his light shield skill. The System always awarded that initial point the first time that he followed a new skill’s guidance, and he’d felt it kick in during the battle a few hours prior.
+
+It was nice to see that his other skills were rising too, since both were critical to his performance in melee. He was certain that he’d be using all three of them again before long. He hadn’t received enough experience to level again just yet. But he’d only taken out three of the gear-rats so far and had just hit level fifteen when he’d entered the tower. Hopefully, the next fight will do it.
+
+Nick slid his body toward the edge of the rock, moving as slowly as he could. When his head was over the ledge, he took a long look in every direction, then moved to the opposite side to repeat the process.
+
+By now, most of the constructs had left the nearby rooms and disappeared down the nexus of tunnels. But the scampering noises reaching his ears told him that there were still one or two left, so he stayed put while his stamina and mana gradually recovered.
+
+He spent a few minutes replaying the last fight in his head, learning everything that he could from the experience. When he was done, he used the information to revise his tactics, including a few new plans for various contingencies.
+
+The next thing that Nick wanted to do was check out the machine that he’d taken out with a mana dart. It was the only corpse that hadn’t disappeared after the gear-rat was killed, or perhaps disabled was the better word.
+
+It must have something to do with completely draining their mana. They must rely on it to vanish like that. I wonder where they went and what purpose it serves.
+
+Curious to learn more about these strange new opponents, he took the body out of his bag for a closer look. This was the first time that Nick had encountered what had to be a magical construct, although he’d seen the System use the term several times by now.
+
+He knew that the rat was inert, since the bag wouldn’t have accepted it otherwise, so holding it should be safe enough. But he wasn’t taking that for granted. The instant that the remains appeared from his pack, he set them down and sized them up again. The skill seemed to think that they were safe enough too, so Nick held the brass body up to his face, eager to see what he was dealing with.
+
+The gear-rat was heavy for its size, which wasn’t surprising considering all the metal inside. Its plastic coating was smooth, supple, and incredibly durable given its thickness. Fascinated by the intricate clockwork, Nick began tugging on the limbs to watch the gears articulate, amazed by their precision and complexity. Something like this would have been worth a fortune back home.
+
+The construct’s body was far more malleable than he’d expected. It felt like a fresh corpse rather than a rigid machine. The device’s construction was amazing to behold, a brand-new type of magic-machine hybrid, unlike any technology he’d seen before. Thousands of delicate springs, gears, and components that he didn’t have the words to describe came together to create a lifelike critter, completely made of clockwork.
+
+Maybe someone can use this design for inspiration when I get back to Earth. I should keep at least one. After poking and prodding for a good ten minutes, Nick carefully pried the rat’s mouth open to get a better look at the teeth that could chop through steel plates with ease.
+
+To his surprise, they didn’t look all that sharp. When he put a piece of scrap between its jaws and pressed them shut, they didn’t penetrate the metal at all. The rats must use some kind of magic to enhance their chomp, but why do they eat at all? There’s no opening for waste to come out. I wonder where it all goes.
+
+He used his arena dagger to cut through the plastic encasing the rodent’s belly, then pushed his fingers inside. There didn’t appear to be a stomach or anything analogous in their torso at all. Maybe it’s broken down into fuel or transported to wherever the bodies go when they vanish. Weird.

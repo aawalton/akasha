@@ -1,0 +1,179 @@
+---
+id: 3c217172-4d0a-5e0d-ae94-90282b2914cc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44 — Fire Resonance, Pt 6"
+slug: 0044-chapter-44-fire-resonance-pt-6
+partOf: just-add-mana
+position: 44
+ownLength: 3046
+unit: words
+ownProgress: 3046
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2658271/chapter-44-fire-resonance-pt-6"
+royalRoadId: "2658271"
+markedReadAt: "2026-06-29T18:49:04.615Z"
+---
+
+Cale learned mostly a single thing over the next few minutes, which was that the elemental god of fire was named Vesuvius.
+
+The name felt vaguely familiar to Cale. Not enough for him to figure out what was familiar about it, but enough for him to realize he'd probably seen it before. He considered trying to figure that out for a moment before eventually deciding it didn't really matter; a name was just a name, and he was far more interested in this vision thing.
+
+Mostly because Vesuvius made it sound like he could give Cale a baking vision, and Cale had decided that was what he wanted most out of all this. He'd been in Utelia for more than a day and he hadn't even had the chance to bake yet! Granted, he didn't really get the chance to bake in most of his lives, but it was sort of insulting to finally have magic at his fingertips and still not be able to cast a simple [Baker's Domain]. That was half the reason he was even studying at this school.
+
+Though he was making good progress, at least. He didn't really blame anyone for the sheer density of events around him. It was just kind of a thing.
+
+"Do you think I'll be able to make some kind of oven spell with fire resonance, by the way?" Cale asked absently. "I'm hoping to be able to make a really big oven. You know, instead of a fireball. Maybe I'll be able to break records for the realm's biggest loaf of bread or something."
+
+Vesuvius stared at him, apparently at a loss for words. The poor elemental god seemed like he didn't quite know what to do with him, which was actually a surprisingly common reaction as far as Cale meeting with gods went. If anything, Vesuvius was reacting rather well.
+
+He still wanted a response, though.
+
+Thankfully, Vesuvius did gather himself enough to reply, even if he still sounded confused. "You want me to give you a spell that conjures... an oven?" he asked. "Not [Grand Fireball]? Or even [Tower of Fire]?"
+
+"You can give me spells?" Cale brightened immediately. "Then yes, I absolutely want an oven spell. Do people actually ask for that stuff? Why would anyone want to live in a tower made out of fire?"
+
+"You would be surprised," Vesuvius responded, more automatically than anything else. "It's a rather common request among young fire elementals."
+
+"Really?" Cale frowned, making a face. "That sounds uncomfortable. Even if you're a fire elemental. Actually, especially if you're a fire elemental. That would be like if I wanted to make a tower out of human flesh."
+
+Vesuvius fell silent as he processed this, then slowly glanced around at the realm of pure fire he was bound to.
+
+"Well," he said eventually. "That's a rather disturbing thought."
+
+[Blabbermouth] has reached level 12!
+
+Cale blinked at the sudden message from the Gift. Was he supposed to be able to level spells while having a vision? That seemed like an oversight... although he supposed [Blabbermouth] was more of a passive. Come to think of it, it had been a while since he'd gained a level in that spell.
+
+Maybe the Gift just wanted to be especially sure he got the message that time, given he was talking to a god and all. Giving a god an existential crisis would be awkward.
+
+It also wouldn't even be the first time.
+
+"I feel like I might need to reconsider offering that spell quite so freely," Vesuvius muttered, half to himself.
+
+"Oh, don't feel like you have to change how you do things on my account!" Cale said hastily, trying to wave it off. That was definitely the sort of thing that would get complaints. And also possibly make Akkau mad at him. "I'd have to explain it to Akkau and it would be a whole thing. Besides, it's different for elementals! Their relationship with their element isn't the same as the relationship organic species have with their flesh..."
+
+Cale trailed off, narrowing his eyes at Vesuvius suspiciously. The elemental god towered over him, even with only half a body present—he was representing himself as just the upper half of a humanoid body rising out of a floor of flames. His head was pure, glowing fire, with what was admittedly a pretty nice jawline.
+
+More importantly, he didn't even have a face, and Cale still felt like he was smirking.
+
+"You're teasing me," he accused.
+
+Vesuvius laughed. The sound boomed through the flames around him, causing them to dance and crackle with merry amusement. Really, the whole realm seemed to respond to that laughter; the fire around them blazed bright, and even through the vision, Cale felt a trickle of heat.
+
+"My apologies," Vesuvius said, his smirk turning into something of a more faintly amused smile. "I suppose it's a little immature to tease the man I should be calling my savior, but I'm a little off my game, as you may have noticed. Normally I'm unquestionably superior to the mages attempting to resonate with my element. I give them a vision that grants them a bit more insight on the true nature of fire, and then I wait a few decades until they're back."
+
+The flames around Vesuvius seemed to glow brighter, and the fire god drifted toward Cale, the entire plane morphing around him as he did. "And then there's you," he said. "I'm not sure what to do with you. You already understand the nature of the flame remarkably well. If you had been born on Utelia, you would likely be a master fire mage, almost fully resonant with the element."
+
+"I assume there's some reason you can't just give me those ten ranks?" Cale asked, sighing. Vesuvius chuckled.
+
+"Very astute," he said. "Yes. There are bottlenecks—built-in limiters, if you will, to prevent a mage acquiring too much power before they're ready."
+
+"Too many village fires?" Cale asked dryly. Vesuvius shot him a look, then reluctantly nodded.
+
+"The best I could do is get you to the fifth rank," he said. "Which I'm more than happy to do, to be clear. It comes with a gift of a single fire spell and the vision I mentioned before, but in your case..."
+
+Vesuvius shrugged helplessly. "I don't know what kind of vision to give you," he said. "Or spell, for that matter."
+
+"I want a baking spell," Cale said immediately. "Also a baking vision."
+
+Vesuvius paused. "You weren't just joking about the baking thing?"
+
+"I would never joke about the baking thing!" Cale huffed, almost offended at the thought. "I take baking very seriously."
+
+The fire god seemed amused, now. "Very well. Before we begin, though, we should discuss the events at my shrine. The presence of the Red Hunters and their attempt to corrupt me is concerning... and I am grateful for your intervention, I should add." He hesitated. "I've never had to thank a mortal before. Nor deal with a mage that has quite as much mana as you appear to have."
+
+"Not really a mortal," Cale said absently. "Or, well, I guess technically I am? It depends on how you look at it. Also, can we do all that after the baking vision? And the baking spell."
+
+Vesuvius tilted his head, but something about the flames seemed to relax slightly, like he'd been wary about Cale's reserves of mana and what he might do. Actually, that would explain a lot of the fire god's hesitation, now that Cale thought about it.
+
+"You're very single-minded about baking," Vesuvius said, chuckling lightly. "You know less than a hundred mages have asked for a fire spell that does not focus on the element's offensive capabilities?"
+
+"And that," Cale said, "is why magical progress gets held back in so many realms! Too many mages give up creativity for more firepower. Just fire alone could be so much more interesting, but all anyone wants to cast is [Fireball]. Or [Greater Fireball]. Or [Grand Fireball]. Or [Fireball Fireball]."
+
+"...What was that last one?" Vesuvius seemed curious, but Cale just waved a hand irritably and sighed.
+
+"It's a spell some mage invented a few centuries back in a different realm," he said. "Guy fancied himself the second coming of fire, but he was terrible at coming up with spell names and also everything he made was some kind of fireball variant. That one wasn't even that interesting! It was a fireball made up of smaller fireballs, which is basically just the same thing as a regular fireball to anything you're trying to set on fire."
+
+Cale scowled. "You could get so much more creative with fire," he grumbled. "Honestly. Even with offensive spells. Why is everyone making their fire ball-shaped? Where are the geometrically incoherent fire triangles?"
+
+"And what... purpose... would that spell serve? It wouldn't be very efficient, you know," Vesuvius said, but despite his words he was leaning forward slightly, looking for all the world like he was deeply invested in what Cale was saying. Probably in spite of himself.
+
+Definitely in spite of himself. Cale had no idea how he could tell, but Vesuvius's blank expression seemed like the definition of "reluctantly interested," emphasis on reluctant.
+
+"Discombobulation," Cale answered promptly, as if that answered the question. "You have to discombobulate your enemies." Then, before the fire god could ask anything else: "Also, more spells should be inefficient. That way, I can cast them."
+
+That remark made Vesuvius snort in a way that was probably a bit undignified for an elemental god. "I suppose that would explain your predisposition toward such spells... Ah! In any case. Before I forget—and you are a remarkably distracting mortal, by the way—"
+
+"Not a mortal!" Cale interrupted cheerfully. "And thank you. I'm very good at distracting people. Including myself."
+
+Vesuvius gave him a look. "Yes, well, I'm afraid I'm not very well-versed in the art of baking," he said, trying to hold back another laugh. "If you want a baking spell, we may have to use your baking vision to teach me how, exactly, this 'baking' is supposed to work. I will use that information to grant you that spell."
+
+"You don't have it already?" Now that he thought about it, Cale didn't quite know what the relationship between the elemental gods and the spells granted by the Gift were. Something to look into. "Well, I'd be happy to. Honestly, I was kind of hoping you'd say that. We'll need somewhere more comfortable than just endless fire, though. Do you happen to know how to make a kitchen?"
+
+He paused. "Also, fair warning, I haven't baked a good loaf of bread in centuries. So we're probably going to be figuring this out together."
+
+Vesuvius seemed to smile. "I look forward to it, then," he said.
+
+Cale ended that resonance vision more satisfied than he had been in decades. Possibly a century or two. For one thing, he'd just spent a few hours teaching an elemental god how to bake, which was one of the more delightful tasks he'd taken on in recent memory. Even if Vesuvius had kept burning things.
+
+By the end of it, though, Cale was pretty sure Vesuvius was disappointed to see him go. They had a quick discussion during which the god thanked him for interfering with the Red Hunters, but unfortunately, Vesuvius had little in the way of information about why he was a target. The only thing they were able to determine was that it was unlikely he was the only one: if they wanted to corrupt him, then it was likely they were targeting at least a few of the other elemental gods, as well.
+
+Something to keep a lookout for.
+
+That vision ended with one new spell, five acquired ranks of fire resonance, and a fire god insisting Cale get to the next milestone "as soon as possible" so they could try baking "croissants". Cale hadn't had the heart to tell the fire god that a lot of that prepwork could not, in fact, be done in a kitchen made of fire. Probably. He was glad Vesuvius was interested, though! It meant he'd convinced yet another mage about the importance of baking magic.
+
+Or god. Whatever. Same difference.
+
+He was mildly disappointed when Graystalk told him that five ranks of fire resonance translated only to being able to acquire third-tier fire spells. What was the point of numbering the ranks if they didn't match? He couldn't complain too much, though; the whole point of that was so he could get a baking spell, and that didn't matter, because he finally had a baking spell.
+
+Vesuvius had come through for him and then some. It was a third tier spell and would undoubtedly evolve once he tried to cast it, but with five ranks in fire resonance, he was basically almost assured a more evolved version of the baking spell instead of some other random fire-based effect.
+
+He'd been waiting centuries to be able to do this kind of thing. Cale reached out to the Gift and read the new spell description, beaming.
+
+[Baker's Oven, Level 1] [Third Tier, Active] [120,000 Mana]
+
+Create a small space that automatically bakes any dough or batter at the perfect temperature until done. Includes decorative fire sigils to mark the affected space.
+
+Just looking at the Gift's description made his heart sing. Plus, Vesuvius had been kind enough to construct a slightly more inefficient variation of the spell, specifically so Cale might have a chance of casting the base version of it within his lifetime. That also meant that although the spell would evolve when he tried to cast it, it wouldn't evolve that much.
+
+Probably, anyway. What would an evolved version of [Baker's Oven] even look like?
+
+Cale itched to test it out as soon as possible, but there was the rather pressing issue of talking to the professors about everything that just happened here. Also figuring out what to do with the Firestorm Scale, probably, considering its remains were still lying in a warped, smoking crater along with the remnants of its pedestal.
+
+...Also getting Damien up to date on things. He would've been speaking to his apprentice already if not for the fact that Vesuvius had informed him the dreadshade was "in the middle of something unprecedented." Cale wasn't exactly sure what to make of that, and would have insisted on details if Vesuvius hadn't been so certain that Damien would want to tell him himself.
+
+To be fair, it did look like the type of thing Damien might want to tell him about. There was a tiny storm of tightly-controlled decay mana swirling around the firesprites converging on Damien. Thankfully, with those firesprites all over the field, the errant mana wasn't terribly noticeable; more importantly, none of it was leaking.
+
+Interesting. Cale was starting to get some idea of what this might be.
+
+When the storm finally looked like it had begun to abate and Damien stirred from within, Cale walked straight through it to grab hold of a startled dreadshade, then started dragging him along, ignoring the firesprites trying to condense into a tiny cloak on his back. "Come on," he said cheerfully. "We gotta find Graystalk and talk about all this. Where did he go, anyway?"
+
+Cale scanned the shrine briefly, but the professors were nowhere to be seen. He frowned, then tapped into his mana sense to look more carefully—
+
+—Ah. There they were. Sitting behind some isolation wards at the entrance to one of the tunnels that led beneath the shrine, apparently. That made sense; the professors had probably decided they needed to get Kessi away from the rest of the students once she'd woken up. Cale wondered if she'd gained her own rank in fire resonance or if the whole incident had made her miss out.
+
+Hopefully not.
+
+"This way," he said, pulling a still-confused Damien along with him. "We need to tell the professors what's going on."
+
+The wards the professors had set up were pretty impressive, now that Cale took a closer look at them. Or... were they just Graystalk's wards? They were all anchored into place with the same talismans he'd used to construct the trap earlier. The design was immaculate, considering his limitations—an obfuscation ward layered with wards against scrying, mana manipulation, even something that looked design to divert the attention of divinities...
+
+No wonder Graystalk was called Mage Killer. This was impressive to the point of almost being overkill, though Cale supposed one couldn't be too careful. He wrapped Damien in a barrier bubble and strode straight through, causing Kessi to yelp out a little scream and very nearly fling a spell at him before Graystalk casually reached over to disrupt it.
+
+The elven professor sighed. "I suppose it was too much to expect that you would knock," he said.
+
+"You added a knocking function to the wards?" Cale blinked, then looked them over again. There appeared to be a ward specifically tuned for him to knock on. "Whoops. I missed it, sorry."
+
+"I will be sure to leave a note in the future," Graystalk said dryly. "Now. What exactly did you discover?"
+
+Delia sat up at this question, her expression intent. It was clear to see she felt she'd failed her student—there was guilt in her eyes, and she clutched Kessi protectively, though the younger mage protested and pushed at her professor.
+
+"I'm fine," Kessi said. She hesitated. "But... I want to know too. What did you discover?"
+
+Cale sighed. "Nothing you didn't already know," he said, nodding at Graystalk. "I'm pretty sure the Red Hunters are behind this. Our academy probably isn't the only academy they're targeting."
+
+He held out a hand, revealing the golden bead, then quickly explained everything he understood about what had happened—the likelihood of shimmerdust poisoning, the way the Red Hunters had needed to set this up, and the golden fly positioned to interfere at exactly the wrong moment.
+
+As he did, Delia's jaw tightened, her hands slowly clenching into fists. And judging by the bloodlust coming from her...
+
+Well, Cale did not envy the Red Hunters that were installed at Haelforge. They were going to be in for a rough time.

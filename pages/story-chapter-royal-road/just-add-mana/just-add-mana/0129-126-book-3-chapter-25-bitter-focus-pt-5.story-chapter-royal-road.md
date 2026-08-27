@@ -1,0 +1,191 @@
+---
+id: 89c71339-3d8b-5b83-9190-4df10085204d
+page-type-slug: story-chapter-royal-road
+title: "126 — Book 3, Chapter 25 — Bitter Focus, Pt 5"
+slug: 0129-126-book-3-chapter-25-bitter-focus-pt-5
+partOf: just-add-mana
+position: 129
+ownLength: 3044
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3309174/126-book-3-chapter-25-bitter-focus-pt-5"
+royalRoadId: "3309174"
+---
+
+Flia, in the meantime, was fixated on the strangeness in that space below the cot.
+
+Not the regular sort of strangeness, of course. The fact that the darkness beneath was seemingly impenetrable to even magically-enhanced vision was the sort of strangeness Flia now encountered about every other day, thanks to her status as one of Cale's apprentices.
+
+Granted, creepy, invisible monsters reacting unpredictably to everything and altering the ambient temperature with what was apparently just the force of their attention were a little more rare. She encountered things like that about once a week, in part thanks to the extra credit she was earning with Professor Tarbloom. The ice shamblers were strange, but not quite the same type of strangeness that called her attention now.
+
+No. It was the way the darkness seemed almost like it was calling to her.
+
+Perhaps that phrasing was a bit melodramatic, though. Flia was glad she hadn't actually said it out loud—the others would never have let her hear the end of it. It was just that something about that space seemed to nudge at one of her newly acquired senses.
+
+She'd barely noticed it, at first, too caught up with the scenario they were in. Now that things were a little quieter, though, she found that if she paid close attention she could feel something brushing gently against her thoughts. The closer she got, the more that sensation grew, yet it was only when she focused on it and got as close as she could to the boundary they had established—the one beyond which she knew she would draw the attention of the shamblers—that she could identify it.
+
+Something about that space below the cot was pinging on her connection to the Abyss.
+
+More accurately, her connection to the Abyss felt stronger near the cot, and what she'd failed to notice was that her connection in general seemed much weaker than it normally was.
+
+She should have noticed it earlier. She'd reached out to the cot with tendrils of her water, and that water had frozen. If her water had maintained a complete connection to the Abyss as it normally did, then it wouldn't have been able to freeze at all; it was one of the few advantages she held over other water mages. The sheer mass of liquid represented by the Abyss made her own magic nearly impossible to freeze, as long as the connection was an open one.
+
+"Something about this place is interfering with my connection to the Abyss," Flia concluded, her brows furrowing slightly. She glanced up at Leo. "It's a little better near the cot, but not by much. Can you sense anything odd there with your labyrinth magic?"
+
+"I don't... maybe?" Leo frowned, taking a nervous step closer and gathering some of his mana to his eyes. "It's hard to tell. I'm, uh, not that good with dimensional anomalies yet."
+
+"Didn't you just navigate one?" Damien pointed out.
+
+"With a lot of difficulty!" Leo protested, though he seemed pleased by the reminder, judging by the slight flush that spread beneath his fur. Flia tried not to laugh; he was the easiest to please out of the four of them, and that made it far too fun to tease him. "But whatever's happening here is really weird. There's definitely something there, it just feels... wrong, somehow."
+
+"That describes about half the things we encounter on a daily basis," Syphus said nonchalantly, rolling toward them with Adam on its shoulder.
+
+"Right," Leo said. "But it feels more wrong. Or maybe less? I don't know. It feels like I should be able to recognize it, but it's all twisted through a really funky mirror. Like the kind mirror mages make."
+
+"I'm not sure why that would help it improve my connection to the Abyss," Flia said, frowning thoughtfully. "I'm not sure why my connection is weaker in general. That shouldn't be possible. The Abyss is everywhere, isn't it?"
+
+"Except in this dungeon, apparently," Leo said, turning to look beneath the cot again. "Although I guess there's more of it, uh, in there?" He swallowed, then took a step back. "That's kind of creepy. I dunno if I want to be near the weird spatial hole."
+
+Flia snorted. That was... probably fair, actually, but she couldn't help but tease him anyway. "You're the most experienced with weird spatial holes out of all of us, though."
+
+Leo gave her an aghast, betrayed expression. "I don't want to be!"
+
+"And yet, here we are." Flia smirked at him, and the minotaur groaned, burying his face in his hands.
+
+By now Syphus had rolled close enough that Adam could listen in on their conversation. The little human gave her a timid tap on the shoulder once he was close enough, seeming a little shy but incredibly curious. "Um, if you don't mind me asking," he said. "What's the Abyss?"
+
+Flia smiled down at him. "It's what connects the Great Realms together, and it's also what keeps them held apart," she said. "Think of it like a great big ocean with all sorts of different realms."
+
+"Whoa," Adam said, immediately enraptured; whatever shyness he felt evaporated almost instantly. "Are there fish?"
+
+"There's at least one really, really big one," Flia told him, holding back a laugh at the thought of how the Leviathan might react to being called a really big fish. "And a lot of special fish we call Abyssal Ones. The name sounds scary, but they're actually very nice."
+
+Adam nodded rapidly. "That sounds really cool! I hope I get to visit one day." He paused, and then his eyes went big and round. "Oh! Do you think it's anything like the Fog?"
+
+There was a slight pause there as Flia processed the question. She blinked, then glanced around at the others, who looked equally confused. "I'm afraid I don't know what the Fog is," she said. "Can you explain it for us?"
+
+"Yeah!" Adam said, bouncing up on Syphus's shoulder, apparently excited at having the chance to explain something. "Mom explained it to me! It's like a big cloud? And if you walk through the cloud for long enough, you can end up in a different world. There's a road in it and everything, but you have to make sure to follow the road and avoid making any wrong turns, or you can end up stuck there. Mom said it's very dangerous, which is why we have to obey the Intersections when they tell us where to go."
+
+...What?
+
+The others didn't know what to make of this either, judging by their expressions, and Flia went silent as she puzzled over Adam's description of this Fog. That didn't sound like anything she knew of. The closest thing, perhaps, was the Outer Planes. Even then Adam's description of the Fog didn't quite match—the Outer Planes were not known for being foggy.
+
+As far as she understood it, when you were in the Outer Planes, moving from one plane to the next required identifying a direction you couldn't normally walk in, then moving in that direction. What Adam described was similar in the sense that walking was involved, but other than that...
+
+Huh. Did the Abyss not exist here, somehow? That would explain why her connection with it felt weaker than normal. It also suggested that the space below the cot was somehow closer to the Abyss than everything else, which was why her connection to it felt strongest there.
+
+Flia had no idea what that meant. The idea that the Abyss somehow didn't exist here alone seemed ridiculous, but her instincts told her she was on the right track, and after a month as Cale's apprentice she had learned it was a bad idea to ignore her instincts, so.
+
+Okay. Maybe the Abyss was somehow weaker here, maybe it didn't exist in this history for one reason or another. Suppose she was right about that. Did that help them somehow?
+
+What did it mean that her connection to the Abyss was stronger beneath the cot? Was that why those ice shamblers were drawn to it?
+
+"Adam," Flia said, and her voice softened slightly as she spoke—she knew the question she was about to ask would be a hard one. "Can you tell us a bit more about your mom?"
+
+"Um..." Adam hesitated, pain flickering across his face before he nodded determinedly. "Yeah, I think so. What do you want to know?"
+
+"Anything," Flia said. A suspicion was starting to build in her mind, but she didn't have enough information to be certain.
+
+It came down to this: the ice shamblers didn't seem to react consistently to anything. The best running theory they had was that they responded to a combination of proximity, mana, and attention. It couldn't have been mana alone, or they would have come running for Cale or Thorn the second they appeared in the basement, depending on how well they could read the mana around them.
+
+It couldn't have been attention alone, either, or Adam would be attacked every time he even thought about the things. Proximity seemed to matter most, since they'd been able to establish a boundary after which the shamblers would react, but it was proximity to the cot, not to the shamblers themselves.
+
+There had to be something about the cot that was important, and if Adam had survived all this so far...
+
+"Her name was Dione," Adam said. "She was really faithful to the Fifth Church, and she taught me a lot about it. Um, she liked reading. She used to read to me and a bunch of the other kids every week. We all miss her a lot."
+
+Flia nodded gently. "You said she started sleeping down here once the shamblers started showing up?"
+
+"Yeah." Adam looked down. "She changed when we started seeing them, but she wouldn't tell me why. I came down here a lot to try to keep her company."
+
+"And the shamblers never attacked you then?"
+
+"No," Adam said, biting his lip. "They never looked like that, either. They just kind of wandered around. They only started gathering around the bed once she, um..."
+
+"Right." Flia gave the kid a pat on the shoulder. "Anything else you can tell me about her? Anything that was special or important to her?"
+
+"I'm not sure." Adam's eyes were downcast. "Um, she had really pretty hair—"
+
+Adam let out a startled squawk, hands flying up to his mouth, and Flia's eyes narrowed. "Did they turn to look at you again?"
+
+"Y-yes." The boy nodded shakily. "Are they... do you think they're mad at my mom?"
+
+"I doubt it," Flia said, giving him a small smile. "Don't worry. Sometimes monsters just act a little weird, that's all. Maybe these ones care a lot about hair."
+
+Adam let out another squeak. "They're looking at you now," he whispered.
+
+"Keep an eye on them for me, will you?" Flia said. "Let me know if they try to get close."
+
+She could feel them, now that the shamblers' gaze was on her. She still couldn't see them, nor did her mana sense notice anything off about where they were supposedly standing, but there was a deep, physical chill that sunk through her barriers and created tiny patches of frost on the surface of her elemental body.
+
+Flia shivered. She was going to need to be careful. Elementals were immune to many physical dangers, but as a water elemental she was particularly susceptible to cold. If she let those things get too close or focus too much of their power on her, there was every chance she could end up freezing.
+
+And yet she thought she had a better idea of what was happening now. Admittedly, she was applying a scattering of knowledge gained from several different tales Cale had casually told at some point or the other—explanations of how certain types of spirits behaved, the way some people left a small part of themselves behind on death, the way the remnant of a person could affect or alter a phenomenon.
+
+This was technically a theory constructed on very shaky grounds. Any one of her professors would have reprimanded her for it. Except Cale, who encouraged this sort of thinking.
+
+Never be sure, he sometimes said, but always pretend to be. Magic responds to confidence, and it relates to itself more than people think. It all comes back to the Source, doesn't it? Which means any piece of knowledge can come in handy at any time.
+
+Flia drew on her connection to the Abyss. It was harder than usual, as weak as it was, but it was there. "Damien?" she asked. "Going to need your help with this."
+
+"What do you need?" He was next to her in a moment.
+
+Flia lowered her voice so Adam wouldn't hear. "I think I know why the shamblers are reacting whenever you-know-what is mentioned," she whispered. "Some part of Dione's spirit is still lingering and influencing the shamblers. I'm hoping I can make a connection with it. The Verdant Flame should be able to help with that, right?"
+
+Damien absorbed that, then gave Adam a small, worried look. "It should be able to," he said. "Um, maybe not directly. Lost spirits are kind of your domain. It'll just sort of... let the spirit see that there's someone there?"
+
+"Good enough," Flia said. "Do it."
+
+Damien nodded, then lit a beacon of the Verdant Flame that hovered at her shoulder. Flia took a deep breath, reaching down to connect with her Spark. Damien was right—spirits were her domain, for what was a spirit except that which was left behind?
+
+The final piece of the puzzle was the Abyss. Why was her connection with the Abyss stronger near the cot?
+
+Flia had a suspicion. It was hard to be sure, since Cale refused to say much about the afterlife; all he would do was hint that there were multiple afterlives, each one applicable to different beliefs and different peoples.
+
+The details didn't matter so long as they existed, though, because no matter the afterlife, a soul would have to travel through the Abyss to get there. Perhaps the Abyss was stronger near the cot because there was a soul there desperately trying to escape from this strange, disconnected realm, and if that was the case, then perhaps with Damien's beacon guiding the way...
+
+Flia felt her Spark warming within her magic. She reached for her connection with the Abyss and poured her magic into it, strengthening the link where the dungeon itself seemed to try to suppress it.
+
+"We just want to protect Adam, Dione," Flia said quietly, infusing her power into the words. She needed to reach the spirit, to cross the gap to wherever it was, trapped between the dungeon and the Abyss. "Let us through."
+
+The name was what did it, perhaps. The sense of cold around her fractured, and Adam let out a small gasp. "They're stepping back," he told them. "They're just watching now."
+
+"Good," Flia said.
+
+She stepped forward. It was colder than she would have liked, even without the direct force of this strange magic pressing down on her, and the closer she got the more something within her thrummed a warning.
+
+Nothing she could place. She didn't know what her instincts were trying to warn her about, only that they were trying to warn her, and so she kept a closer eye on everything happening so she would have the time to react if something happened.
+
+So far, so good, though.
+
+She was close enough now that the darkness beneath the cot yawned open before her. It felt cavernous. Flia knew, logically, that it was a small, confined space, but in that moment, it felt nothing like it. Instead the space in front of her twisted until she felt like she was staring at a massive hole that led to an almost pure nothingness, except the notes she wanted were there, faintly visible at the far end of what now seemed like an impossible distance.
+
+Something inside her tried to step back, but she found herself stepping forward instead. Flia cursed—she hated compulsions—and drew her magic to her to try to resist; at the same time, there was a distant shout that she recognized as Damien's voice calling for her through distorted space.
+
+Then the quick slap of footsteps against the ground.
+
+A shadowy hand grabbing her by the wrist, trying to pull her away.
+
+She remembered distantly the last part of what Cale always said, the same part that was screaming at her now: But the rules can change at any time, too. Always be prepared in case the rules change.
+
+She'd missed something and the rules had changed. If she didn't do something now, both her and Damien would be sucked down into this nothingness, so she clamped down instead on her connection with the Abyss, which still felt distorted and wrong—
+
+—and then she blinked, suddenly herself again. Flia shivered involuntarily at the sudden cold that enveloped her and searched automatically for Damien, who was groaning in the...
+
+...in the snow.
+
+They were in a completely different part of the dungeon, surrounded by fog, and standing in a thick blanket of snow.
+
+"Oh," Flia said. "Oh, florg."
+
+Damien let out another pained groan, then lifted his head to look at her. "What the heck is a florg?"
+
+"It's a type of magical frog I catalogued with Professor Tarbloom," Flia said, already automatically cataloguing her surroundings. This was a disaster, but they were still alive, so it couldn't be too bad of a disaster. Was there some way they could find their way back to Cale and the others? She couldn't see anything through the thick fog around her. "Tarbloom doesn't like it when I curse, so I've been saying random critter names instead. They seem to like that."
+
+Damien stared at her. "You have really weird priorities," he told her, pulling himself to his feet and brushing the snow off his cloak. "But I guess this isn't that new for us. Um. Also, where are we?"
+
+"No idea," Flia said. "I can't sense the others anywhere."
+
+"Ah." Damien paused for a moment. "Florg."
+
+"Florg," Flia agreed.

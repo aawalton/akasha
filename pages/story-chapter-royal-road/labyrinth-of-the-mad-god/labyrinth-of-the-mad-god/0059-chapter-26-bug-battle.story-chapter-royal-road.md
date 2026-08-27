@@ -1,0 +1,83 @@
+---
+id: cbe0c763-bcbd-53fa-94d3-c27276df0372
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Bug Battle"
+slug: 0059-chapter-26-bug-battle
+partOf: labyrinth-of-the-mad-god
+position: 59
+ownLength: 1585
+unit: words
+publishedAt: 2024-09-16
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1806218/chapter-26-bug-battle"
+royalRoadId: "1806218"
+---
+
+Nick conjured four mana darts as the skittering grew louder, echoing down the tunnel to his right.
+
+A noise that his mind recognized as rapid footsteps… just as six giant insects rounded the corner three hundred feet ahead and came charging straight for them. Since the tunnel was long and straight in this area, he already had his spyglass out, ready to inspect his opponents before they came into range.
+
+The angry bugs had glossy bodies, narrow legs, and hideous faces ending in wickedly barbed mandibles. He started calling out his observations while trying to decide which of their new tactics would work best.
+
+“They look like a cross between roaches and termites, with some ant thrown in on top. It seems like they will rely on their bites rather than attacking with their limbs. Wait, there are some that look different than the rest.”
+
+He put away his spyglass after reporting that the two beasts in back were making size up go nuts, the ones with green protrusions on the rear of their shells.
+
+“I think that pair can fire some kind of acid,” V said. “I can sense something resonating with my acidic bolts. It’s likely some manner of essence based on what you told me earlier. If you can injure those two with your darts and keep them from sniping us, I’ll lay into the rest. I have a hunch that if they attack with acid, they will be resistant to my own, and we can’t afford to waste our abilities.”
+
+“Got it.” Nick took aim, visualizing the trajectories that he wanted his darts to follow. “Could you fire one regular bolt at each of them to kick things off? I could use a distraction, so they’ll have a harder time dodging my spells.”
+
+Instead of answering, V raised her crossbows and fired, sending a bolt streaking toward each of the giant green insects charging their position. The moment that the missiles took flight, he let loose his spells.
+
+He sent three of them soaring for the closest acid-slinging bug. That left a single silvery wedge flying for the other termite-roach beast in the back, which he decided to call roaches just to keep things simple. “I’m going to try a hit and run. We need to do some damage before they box us in.”
+
+Trusting Veronica to keep the other insects off his back, Nick raised his sword and started running toward his assailants, taking aim for the acid-roach that had a single mana dart headed its way.
+
+He raced down the dirt-strewn tunnel, veins filled with adrenaline and heart pounding in his chest.
+
+By now, V’s bolts had arrived at the acid-roaches’ location. Instead of dodging like he’d been expecting, the big bugs lowered their bodies while raising a pair of plates running along their backs. At first, Nick thought they were wings. But then he realized that they served as a dense layer of armor instead, shielding the roaches from return fire.
+
+Unfortunately, both bolts deflected off the thick sheets of chitin, ricocheting down the passage until they were lost from sight. But he hadn’t been counting on them doing damage. As Nick had hoped, the attack served to distract the roaches, letting his spells land on target half a heartbeat later. They can’t dodge while their armor is extended. Good to know.
+
+As he closed the last stretch of ground between them, three of his mana darts sank into one of the green bug’s body. Two hit its abdomen, while the third struck it square in its hideous head.
+
+It let out a high-pitched screech, but Nick didn’t have time to see how much damage he’d inflicted. Every scrap of his attention was focused on the acid roach in front of him. As he raised his sword and prepared to strike, the beast took a single dart to its thorax, hissing as its limbs locked up from the pure mana discharging throughout its body.
+
+Before he could land an attack, some of the regular roaches turned to intercept him, which Nick had been expecting. A fraction of a second later, the pair closest to his position went down in a tangle of spasming limbs, each with a glowing green bolt planted in the middle of their heads.
+
+V's ability discharged its acid into the tissue below. Chitin hissed and bubbled before running like wax, eating away at the roach’s brains and taking them out of the fight in an instant. He barely noticed. He only had eyes for the acid roach in front of him, the one that had been hit by a single dart.
+
+Size up had told him that these creatures were more powerful individually than the gear-constructs. Nick hadn’t expected his darts to be as effective, even in their upgraded form. While he had hopes for the one that had been hit by three spells, he didn’t think a single dart would be enough to bring one of the killer bugs down.
+
+Thus, by this point, he had already begun swinging his sword down with the full power of his body behind it, aiming for the roach’s head. But the big bastard recovered even faster than Nick had expected.
+
+It spun without warning, taking his sword on one of its armored plates instead. There was a screech as metal bit into chitin, carving away a long strip. But it was enough to keep his blade from penetrating deep enough to strike anything vital.
+
+Before he could follow up, the creature turned to face him. A fat glob of gelatinous goop spat out from a protrusion on its rear, heading right for Nick’s face.
+
+He wasn’t sure that his new shield could handle being bathed in acid, so he dove to the floor as the wad of solvent went flying over his head. It splattered against the wall behind him, hissing as it ate away at the dirt-encrusted stone. It was getting ready to fire again, taking more care with its aim this time. But Nick wasn’t about to let that happen.
+
+He pulled out his wand and fired at point blank range, a rippling cone of force erupting from the end of the device. His wand had been growing more powerful as he raised his magic attribute, and it was enough to pick the acid roach up and send it flying back to land beside its twin, unable to right itself before retracting its shield.
+
+Meanwhile, another squad of bugs had appeared, all of them the basic variant.
+
+Veronica was laying down covering fire, keeping the roaches from converging on his position for a few more seconds. Fortunately, their armor wasn’t nearly as thick, and her shots were dishing out considerable damage.
+
+Since she had created an opening, Nick was able to look over and see what his trio of mana darts had done to the other acid-slinging roach, which had yet to fire a shot. He was pleased when he took in the damage that his spells had caused. While it wasn’t enough to kill the big bug outright, it was clearly weakened, moving around sluggishly as if in a daze.
+
+Losing a big chunk of stamina, mana, and health at once must be pretty disorienting. He realized that he had a good chance to finish off both acid-shooters before pulling back.
+
+Nick ran over and thrust his sword deep into the first acid roach, before it could flip back over. The tip of his sword pierced deep into its soft underside in a spray of clear fluid. He must have hit something vital, because the beast screamed and then went still.
+
+Without missing a beat, he raised his blade high and then brough it down upon the dart-weakened roach. It didn’t even try to move out of the way, letting him claim its head in a single slash. Maybe we won’t need to play defense after all.
+
+He saw that two more of the regular roaches were dead as well, perforated with a half dozen of V’s bolts apiece, leaving only a few more headed their way. He was ready to finish them off. But before he could advance, a third squad appeared from around the corner, even bigger than the last, then a fourth group from the opposite direction.
+
+Ok Nick, it’s time to go. He fired a second shot from his wand to drive the roaches back, then turned and started sprinting down the tunnel.
+
+“There are too many,” Nick yelled. “We’ll have to fight using the doorway as a chokepoint like we planned. We might have to burn through more consumables to get out of this one, but let’s save them until we can web the whole group at once.”
+
+As he continued running toward Veronica, he realized that another kind of bug had joined the fight. In addition to more acid roaches and the basic variety, there was a third type leading the charge. They were twice the size and even more heavily armored than the acid-slingers. They looked incredibly durable, every inch of their bodies covered in thick plates of chitin.
+
+V was already back at the doorway, clearly agreeing with his assessment. She fired a fierce barrage to help slow the beasts’ advance, while Nick beat a hasty retreat. He arrived at her side ten seconds later, covered in sweat but still in shape for a brawl.
+
+A brawl that began less than a minute later, when a score of giant roaches came knocking at their door.

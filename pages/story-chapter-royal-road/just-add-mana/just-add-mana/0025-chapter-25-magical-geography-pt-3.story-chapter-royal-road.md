@@ -1,0 +1,235 @@
+---
+id: 28a36067-0690-53c1-af7c-85a4ecc47d6c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 — Magical Geography, Pt 3"
+slug: 0025-chapter-25-magical-geography-pt-3
+partOf: just-add-mana
+position: 25
+ownLength: 3899
+unit: words
+ownProgress: 3899
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2541302/chapter-25-magical-geography-pt-3"
+royalRoadId: "2541302"
+markedReadAt: "2026-06-29T18:48:24.187Z"
+---
+
+Cale had no idea what to call the thing that rose out of the ground, mostly because the first names that came to mind were all ridiculous. A large part of this was admittedly because it looked rather distinctly like an elephant, down to the massive ears and elongated trunk. The only major difference was the fact that it looked like it was made out of dense, translucent crystal that distorted and scattered the light that struck its skin.
+
+It also didn't act anything like an elephant, he supposed. Unless maybe it was a very angry one? Cale didn't actually know how angry elephants behaved. This one, though, was storming after the six other students in their class and bellowing in rage.
+
+Cale noted with some amusement that it also sounded like an elephant, trumpeting sounds and all.
+
+"Cale!" Damien called after him. He and Leo were both running to catch up with him, though Leo had caught up quite easily. Cale thought to himself that he'd need to get Damien to practice running—this sort of speed would never do for the kinds of things they were likely going to get caught up in. "Do you actually have a plan, or are we just running at it?"
+
+"We're just running at it!" Cale called back cheerfully. "We can't make a plan before we know anything!"
+
+"What did you mean, work on our attunements?" Leo asked him. He was pretty out of breath, which Cale remembered being an issue back during Cyte's auric collapse as well. Maybe he was going to need to train both of them in running. "Does this have something to do with what we were going to talk about after class?"
+
+Cale considered the question for a moment. "Yes, but it's hard to explain right now," he said, gesturing around them. "Do you trust me?"
+
+Leo stared. "I just met you."
+
+"So..."
+
+The minotaur sighed, aggravated. "Yes," he said. "Look, with everything you showed us back there, I don't think I can afford not to. You're the kind of mage people would kill to learn from, aren't you?"
+
+"Great!" Cale beamed, completely ignoring the question. "Consider this your first real test as my apprentices. We're going to figure out how that thing operates and how to beat it. You can use your attunement. I have a way to make it work for you, I promise."
+
+"Your wha—" Leo started, only to be interrupted by Damien, who seemed more interested in dealing with the magic elephant before questioning Cale's choice of apprenticeships.
+
+"Nevermind that for now. How are we supposed to figure out how to beat that?" he asked. He was catching up now, though mostly because Cale had slowed down specifically to let him do so. "We don't know anything about it."
+
+"And that's going to be the majority of real dangers you encounter as a mage," Cale said, tapping his nose. "A lot of academy mages get stuck with the idea that they need to know how to deal with a threat. The real trick is to learn how to learn to deal with threats. I think Leo and Flia had a taste of that back in those tunnels, didn't you?"
+
+Leo groaned. "Don't remind me," he said. "Flia was the one that figured out that thing had rules at all, and I'm going to have nightmares for weeks."
+
+"But you still figured out the key," Cale said, grinning. "Which was brilliant of you both, by the way! Good work. Damien, why don't you try?"
+
+"Me?" Damien asked incredulously, but Cale was already pushing him toward the elephant.
+
+"Come on, you got this!" he said. They were practically within range of the thing, and it was now fully-formed.
+
+There was a method to his madness, of course. Damien needed to learn how to deal with impossibilities like these as a mage; his two friends had already proven themselves, and he needed to get familiar with that mindset that a mage needed to have.
+
+Cale, on the other hand... Well, he was focused on what he thought was probably more concerning than the elephant. An enormous refractive dome had now formed around all nine students—it wasn't obvious that it was there, given it only distorted the environment around them slightly, but it was pretty distinct once he looked for it.
+
+What really caught Cale's attention was the fact that the dome itself didn't really seem to use mana. It moved any mana that went through it and caused that mana to distort in strange, unpredictable ways, but whatever material it was made of wasn't one he was familiar with.
+
+The only aspect of it he was familiar with was something still relatively new to him. Printed on the outside of the dome, apparent only in faint, shimmering lines, were circular diagrams that reminded him of the intricate golden wards painted on the outside of their Magical Geography classroom.
+
+Whatever form of magic this place used—and Cale refused to call it anything other than magic, even if it didn't use mana, because that simply made things far too confusing—it was the same kind that Professor Sternkessel employed. That had to mean something, surely? At the very least, Sternkessel was connected to this place in some way, even if he wasn't the one that put the dome in place.
+
+At least, he was pretty sure Sternkessel wasn't the one who had done that. The handwriting looked different.
+
+Probably.
+
+Cale was aware that reasoning was somewhat flimsy.
+
+It didn't change Cale's impression that it was somewhat more dangerous than the beast they were fighting. There was something about the way it interacted with all the mana around it...
+
+Experimentally, Cale let the smallest thread of mana he could muster brush against the barrier. To his surprise, the mana that made contact began to twist out of his control, and he withdrew it as quickly as he could. When he examined it more closely, it looked almost like his mana had begun to separate on contact.
+
+Refraction. The same kind that happened with light, except Cale had never seen it apply to mana before, and certainly not with his mana. One of the few constants he'd been able to rely on was that his power was very difficult to wrest from his control—if it weren't, he would've been caught in all manner of disasters before now, or used as some kind of mana battery for some dark lord.
+
+In all fairness, this was different. Nothing was actively taking control of his power, for one thing. It felt more like this barrier imposed some sort of rule on all mana, which was tugging at a memory...
+
+He was pretty sure he could fight that separation if he needed to, but it seemed unnecessarily risky to test it. Some mana aspects were far too dangerous to unleash in pure, differentiated form, no matter how careful he was or how little of it he released. Even if he was safe, there would be far too much collateral.
+
+After a moment or two of processing what had just happened, though, Cale grinned. This was the sort of complication he loved. What manner of being could have cast a barrier like this, and what did it say about them?
+
+"I suppose now is a good time to begin the introductory lecture I promised." Professor Sternkessel's voice suddenly erupted around them, startling several students into yelps or screams; the trio of kobolds let out a set of tiny 'yips' that distinctly emerged from within the trenchcoat.
+
+Cale just looked around, wondering where the voice was being projected from. He couldn't sense the professor anywhere inside the dome.
+
+"The Brightscale Academy's location was chosen for the abundance of magical phenomena surrounding it," Sternkessel explained. "The Starfire Desert, for instance, is the largest of our surrounding biomes, though the name is something of a misnomer. That name was chosen for the frequent appearance of stars falling into the sand.
+
+"Many legends claim that is the source of the crystalline sands of the desert, but the truth is much simpler—the Starfire Desert naturally accumulates crystal aspect mana, forming crystalline storms that transform any mundane object caught within into its trademark sand. In fact, many of the beastfolk tribes that live within it consider the storms to be a form of divine reclamation. They collect the bodies of their dead to offer to the storms in a passing ceremony, so that they may rejoin the desert."
+
+Cale paused. That was... interesting, actually. Maybe there was more to this class than he'd realized.
+
+"I don't think he mentioned that second bit before," Leo muttered, frowning. He flipped through his notebook and paled. "He definitely didn't. This is a trap."
+
+Cale blinked. "...How is this a trap?"
+
+"Don't you see?" Leo grabbed him by the shoulders. "He told us he'd be testing us again, but he's adding new things into the lecture. Anyone that doesn't pay attention won't be able to get a better score!"
+
+Cale nodded slowly. "And this is what you're most worried about? Not the giant magic elephant your friend is fighting or anything?"
+
+"Cale." Leo bent down to stare at him intently. "My grades are all I have going for me, and I got a B on the last test. I refuse to let this chance get past me."
+
+"You should probably help Damien with that thing first, though," Cale said. "I don't know how, but he got onto the elephant."
+
+"He—" Leo's head jerked up in horror. "Hang on, Damien! I'm coming!"
+
+Cale went back to listening to Sternkessel's lecture as he examined the diagrams set into the dome. There really was an abundance of magical phenomena around the academy. Among other things, the professor talked about something called the Petrified Sea, which despite its name was a sort of forest created out of petrified lightning; there was apparently an actual nearby sea that was rather ominously only called the Depths; and then some sort of incredibly valuable reserve of magical plants the professor insisted was named Forbidden Magic Spider Territory.
+
+He was... relatively certain that last one was just a lie to prevent students from going there to harvest it? Probably?
+
+He was also definitely going there at some point. Mundane spiders were disgusting, yes, but magical ones? Magical spiders were cool. Except for all the times they weren't and managed to kill him, but Cale figured he'd probably made some sort of spider faux pas or something. He was a little shaky when it came to speaking Arachnid.
+
+Damien really wished that Cale had provided any kind of guidance before getting distracted and staring at nothing, especially since he'd apparently decided to take them on as apprentices.
+
+Not that Damien minded being Cale's apprentice, really. The man was obviously some sort of master mage given everything he was capable of, but he was also just as eccentric as every other master mage Damien had met. The only real difference was that Cale seemed perfectly capable of living up to everything he said he was—Damien had never made any progress with his magic until Cale.
+
+Of course, his life had also been far less hectic before Cale. As much as he'd only known the human for a day, Damien somehow doubted his life was going to get any less chaotic from here on out.
+
+Especially since none of them were willing to let go of what they'd seen when it came to Sneaks-In-Darkness.
+
+Cale had promised to answer their questions later, but that hadn't stopped them from speculating. Syphus, that golem Damien had seen around but never talked to before—it seemed to have a better idea of what was going on than most, although it also seemed frustrated about something. Whatever that something was, it didn't want to talk about it, but together the four of them had managed to piece together part of what was going on.
+
+From Syphus, they had learned that the Red Hunters had attempted to use some of the academy's students to poison their food. Damien almost lost control when it explained the effects of shimmerdust and what might have happened. It was a good thing they were in the Astral Wing proper when he'd learned about it, or the decay mana he released might have...
+
+It didn't matter. It was one thing to know that the Red Hunters wanted to cull anyone that couldn't control their magic—it was far worse knowing that they were actively trying to sabotage them. What, just so they could fulfil some kind of quota? This wasn't about keeping people safe anymore!
+
+They'd lost students to the Hunters. It had been justified every single time, which only made it hurt more, but now Damien wondered how much they were really justified. He'd always had his doubts, and now...
+
+He sighed and gritted his teeth.
+
+If he wanted to help deal with the Red Hunters, he needed to be a better mage. Maybe that was why Cale had given him so little instruction—he wanted to see how Damien would handle this without guidance.
+
+Fine. He could do that.
+
+By the time he arrived, the other six students were already backing away from what Damien mentally dubbed a refractor beast. They'd flung several spells at it already, to no avail, and the group of students that had instigated all this to begin with tried to flee only to run straight into some sort of semi-transparent barrier. Damien noticed they hadn't exactly just bounced off—each student sank partially into that barrier before hitting a dead stop, and had to pull themselves away after, as if it were sticking to them.
+
+Worse, their mana signatures felt strange, like they were partially attuned and had gone haywire. Damien's mana sense wasn't particularly advanced, but even he could tell when someone's mana core felt like it had shifted. Every student that touched the barrier looked nauseous, and their mana moved erratically within their bodies like it wasn't quite under their control.
+
+That was enough for Damien to resolve not to get anywhere near whatever that was. Or anywhere near the refractor beast, which seemed to be made out of the same stuff as the barrier.
+
+But what options did that leave him?
+
+"What spells have you tried?" he called out. That got him the attention of the other students... and unfortunately, the attention of the refractor beast as well. Damien backed away as it moved toward him.
+
+"Fire and light spells!" one of the students called back. "And we tried a rock spell after, but that didn't work either!"
+
+Energy-based spells and physical spells. Damien winced; his first thought had been that a physical spell might work where energy-based ones failed. Not that he could cast physical spells either. "What happened with the rock spell?"
+
+"It just went through! It's like it's not even there!"
+
+That meant the refractor beast either wasn't a physical creature at all, or they weren't hitting the right thing. They didn't have any way to test for the latter, but the former...
+
+Damien hated using his magic. But the decay aspect was one of the more immutable types of mana—moreso than even Leo's labyrinth aspect, it was incredibly hard to attune. That might be an advantage with a creature like this that seemed to naturally reattune any mana that came in contact with it.
+
+It was worth a test, right?
+
+Damien braced himself. It had been a long time since he'd cast a full decay spell; the last actual spell he'd cast with the Gift was the new one it gave him after he tested Cale's trick, [Spatial Decay]. That he was going to try an offensive one now didn't sit right with him, but the refractor beast was still headed for him, so...
+
+He pushed his mana into the first spell he'd ever received: [Decay Bolt].
+
+Dark mana rushed into his fist and blossomed, emerging as a sharp spike of decay aspect that rushed toward the beast. Damien almost held his breath as he waited to see if anything would happen. Maybe it would be enough and this would be over immediately, although that seemed rather anticlimactic. Or maybe it would do nothing at all and he'd have to think of something else.
+
+The answer, it turned out, was neither: his [Decay Bolt] smacked the refractor beast in the face with the distinct sound of flesh slapping against flesh. It knocked its head to the side and did little else.
+
+So... the good news was that his mana could affect the refractor beast physically.
+
+The bad news was that the refractor beast seemed like it was more pissed off than anything.
+
+Damien had no real word for what it did, but it reared up onto its hind legs and made an angry, trumpeting sound, its trunk pointing straight up at the sky. Damien froze before he looked all the way up, but two other students didn't—he saw them look straight up, then panic and begin to scream for help as they pointed frantically at the sky. Thankfully, Professor Sternkessel pulled them out before they became too much of a distraction.
+
+And then more of that strange magic blasted out of the refractor beast's trunk.
+
+"Look out!" Damien cried, alarmed. It was a full-on area attack—dozens of tiny bolts of shimmering magic sprayed from its trunk, made all the worse from the fact that it was nearly invisible. He thought quickly, then reacted by shaping his mana as quickly as he could, trying to form a barrier around himself and anyone in range.
+
+He was too slow. He managed to get barriers around Cale, Leo, and three other students, but the last one was just out of his range. More importantly, Damien simply hadn't put that much practice into forming barriers. He was approaching his limit as it was.
+
+You have learned [Decay Barrier]!
+
+Damien shook his head. That wouldn't help. One of the few things they were always told to never use was Gift-granted barrier spells—all mages benefited far more from shaping their barriers themselves. The Gift, as powerful as it was, only made standard barriers, and that was overly restrictive for almost any mage.
+
+He really should have practiced barriers more. He hadn't considered that his aspect might actually come in useful in defending.
+
+He still had no idea how he was supposed to beat this thing. Cale had said something about rules, but what use was the rule he'd learned? This didn't seem like the sort of thing he could smack around with decay mana and hope it eventually shattered. If it kept attacking, he would run out of mana long before—
+
+Damien noticed something strange out of the corner of his eye. One of the refractor beast's bolts struck the dome that surrounded them; the bolt shattered, and the dome cracked. Damien narrowed his eyes.
+
+Okay. Rules. He could work with that. If he understood how this worked correctly...
+
+Other mages suffered from a forced partial attunement when they made contact with the refractor beast or the refracting dome around them, but he was a dreadshade. The decay aspect was one of the more primordial ones, and making it incredibly difficult to force into reattunement. That meant he could probably get in direct contact with the refractor beast without suffering from its consequences.
+
+He bit his lip, then made his decision.
+
+Twin whips of decay mana formed out of his hands. He tossed them forward, wrapping them around the refractor beast and bracing himself as it tossed its head in agitation; that movement flung him upward, and he clung to his own lines of mana for dear life. For a long moment, he couldn't tell up from down or left from right, but eventually, he just barely managed to catch sight of the refractor beast's back and aimed for it.
+
+You have learned [Decay Whips]!
+
+Damien would have preferred to learn literally anything else.
+
+Pushing the aggravation out of his head, he landed on the refractor beast's back with a thump, then pulled on his whips as hard as he could. The beast roared and swung its head, trying desperately to locate him. When it couldn't, it just started charging...
+
+Straight at the other students.
+
+He needed to direct it! Why was it so hard to direct the damn thing?! He'd thought he could do it by pulling on the whips, but Flia made this seem so much easier. Damien gritted his teeth—he didn't want to ask for help, but—
+
+"Leo!" he cried out. "I need you to direct this thing to hit the barrier!"
+
+Leo's first thought, when he understood what was happening, was that Damien had clearly spent far too much time around Flia.
+
+His second thought was that he didn't need to sacrifice his progress with his labyrinth aspect for this. Professor Sternkessel had promised they would all be safe—the worst that would happen here was that they would lose some points. It wouldn't even kick them out of the class; rescuing one student counted the same as rescuing three, if the danger was the same.
+
+But...
+
+Do you trust me?
+
+You can use your attunement. I have a way to make it work for you, I promise.
+
+Cale's words nagged at him, and if those were the only words he needed to think about, he might still not have cast a spell. It wasn't Cale that nudged him into action, exactly.
+
+It was a memory. The look in his parents' eyes when they told him they were joining the Red Hunters.
+
+Learning what the Red Hunters were doing made that old pain flare up all over again, and it made it even harder to avoid the truth Leo was trying so desperately not to acknowledge.
+
+How much progress had he made, really? A true, complete reattunement of a labyrinth core was a task that would take decades. Decades where he would be behind every other mage, unable to cast a single spell for fear of losing years of progress.
+
+Was that really how he wanted to live? All for the approval of his parents, who very well might know what the Red Hunters did? When he'd seen what a wild mage who embraced his oddities could really do?
+
+Sneaks-In-Darkness had been an archmage at least, and Cale had just...
+
+[Redirection] was a Standard Array spell. For most mages, it was a simple spell that altered momentum. But Leo's labyrinth attunement had changed it when he tried to cast it, and he'd ignored it ever since; he had hoped, when he gained it, that it was a sign that his approach was working. That he was finally becoming a normal mage.
+
+Attempting to cast it had dashed those hopes. He'd seen it as a sign of failure, almost.
+
+Now...
+
+Well, Leo couldn't be a normal mage if he wanted to confront the Red Hunters for what they'd done, and it would take him decades besides. And he was realizing, for perhaps the first time, that the one thing he hated more than his attunement was doing absolutely fucking nothing. How could he still call himself a mage after everything he'd seen today, if he still refused to use any of his magic?
+
+Leo took a deep breath, then pushed his mana into [Labyrinthine Affliction], and aimed it toward the beast.

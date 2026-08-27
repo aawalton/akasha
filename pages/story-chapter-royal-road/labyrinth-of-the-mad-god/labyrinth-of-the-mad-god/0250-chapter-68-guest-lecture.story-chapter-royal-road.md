@@ -1,0 +1,99 @@
+---
+id: 5b22010b-1dee-53f1-a723-58a57d3dbc93
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68: Guest Lecture"
+slug: 0250-chapter-68-guest-lecture
+partOf: labyrinth-of-the-mad-god
+position: 250
+ownLength: 1759
+unit: words
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2775560/chapter-68-guest-lecture"
+royalRoadId: "2775560"
+---
+
+Nick spent the next few days training like crazy.
+
+His people had converted a portion of the hollow mesa into a workout area that was designed to condition superhuman bodies. They had invented machines for Strength training that involved lifting heavy stones to target specific muscle groups and come up with tools to assist individuals who were working on their Dexterity and Toughness too.
+
+It soon became one of the most popular areas in the settlement—a spot where people could enjoy each other’s company and push themselves harder with some encouragement from their neighbors. This had led to new friendships and more than a few friendly rivalries. Nick appreciated the vibe too and spent some pleasant hours working out while watching Aurora’s citizens striving to grow stronger.
+
+He had sparred with a dozen different warriors in the new training facility, honing his bladework in the shade. Various types of hide and go seek and freeze tag had become the preferred way of practicing with Blend into the Background. Facing off against other people was a perfect environment for learning how to maximize the trait’s effectiveness and counter stealthy opponents.
+
+Nick enjoyed these contests immensely. They were a fantastic way to work on his mage sight, mana stealth, and his Tracking and Stealth skills, as well as a great deal of fun. Plans for a competitive league were already underway, along with several other sports modeled on Old-Earth favorites but tweaked for double-digit attributes.
+
+Kenji had formed an emergency response team. Their first order of business was devising drills to help the settlement tackle a variety of threats at a moment's notice. He was working with Ella and Ken to develop formations and tactics suitable for battling boss-class opponents, in case something on par with the Armada Wurm or the Guardian appeared and needed to be dealt with before it reached the settlement.
+
+In addition to his martial exercises, Nick had spent some time with the mages who were meeting at the mana wells, developing his ability to perceive and manipulate elemental energy, although the latter was difficult given the restrictions of his trait.
+
+They were always happy to discuss the latest magical theory or brainstorm on how to get the most out of their spells. The group shared his enthusiasm for figuring out how to free cast spells. With their assistance, he had managed to draw ambient life and force mana into his core for the first time, and his ability to project mana beyond the boundary of his body was improving by the day.
+
+The bladewind had made an appearance yesterday afternoon, and Liz was thrilled to report that the protections at both the crop fields and quarry had held firm. A dozen more members of Team Earth had arrived and joined the settlement, and Aurora’s domain was growing by the day.
+
+Nick sprinted around the lake, putting his body through its paces as these thoughts passed through his head. When he finished his workout, he pulled up his profile to summarize his recent gains.
+
+Through vigorous exercise, you have conditioned your body and improved the following baseline attribute:
+
+Strength has increased from [19] to [20].
+
+Through intensive study of magical forces and visualizing complex processes, you have improved the following baseline attributes:
+
+Magic has increased from [14] to [15].
+
+Mind has increased from [15] to [16].
+
+Through use, you have improved the following skills:
+
+Foraging has increased from [12] to [13].
+
+Light Shield has increased from [19] to [20].
+
+Size Up has increased from [21] to [22].
+
+Tracking has increased from [7] to [9].
+
+As the System had promised, it was significantly harder to raise his Sword skill at the Journeyman level, although each point provided enhanced feedback compared to the first twenty-five. Nick was still improving at a rapid rate, but he would have to refine his bladework in battle if he wanted to reach fifty before the year of protection came to an end.
+
+Of course, not all his gains could be viewed in his profile.
+
+He had spent some pleasant hours learning from peers, who had begun offering impromptu classes on a wide range of topics—everything from skill training to research methodology to applied combat theory. On that note, there was a lecture he wanted to listen to that was scheduled to start in a few minutes.
+
+Nick ran by the bathhouse for a quick shower and made it to the classrooms just as the presentation began. He used Blend and his Stealth skill to slip inside the building without drawing attention to himself, took a seat in the back of the room, and focused on the woman’s lecture.
+
+“You need to stop thinking about defense as a binary concept. Stealth isn’t something that you either have or you don’t, and the same principle holds true any time two entities with opposing objectives go head-to-head. Take Blend into the Background for example. As I’m sure many of you have learned by now, there are numerous ways to detect someone who is Blending, and various countermeasures to inhibit those detections.
+
+“One method is to focus on the weaves of mana flowing through the environment, searching for the subtle interference patterns an energetic core creates as it warps the nearby flows. Of course, if you know how to mute your mana signature—a technique Nick Silver has named ‘mana stealth’—that approach won’t work.”
+
+People nodded along as they mulled the matter over, taking notes or relying on their high Mind to memorize the information.
+
+“But what good will mana stealth do against abilities that sense air pressure or vibrations transmitting through the soil? The point is there isn’t a one-size-fits-all method that will let you hide from any opponent. You should strive to be alert and flexible. Never assume that an enemy won’t find you and always have a backup plan.
+
+“Of course, that’s a simplistic example. Your odds of remaining undetected will improve when combining multiple techniques like Blend, mana stealth, a Stealth skill, and concealment magic, with the goal of covering as many bases as you can.
+
+“What I want you to take away from this presentation is there is no such thing as a perfect defense. Unless you integrate that understanding, you’ll be dead before the year is through. The same principle applies to layers of physical, magical, and presumably Psi-based defenses—any time two creatures with conflicting goals share the same environment.
+
+“Now I want you flip the lens and look at the issue from the offensive side of the equation. What do you do if your enemy is using a multilayered approach to evade your detection? Do you give up and die? Panic, run, hide, and then die?
+
+“No!” The teacher clapped her hands for emphasis. “You improvise, adapt, and seek novel means of overcoming the challenge at hand. That might sound like a tall order in the heat of battle, but if you are familiar with the strengths and weaknesses of multiple means of detection, you can adjust your tactics on the fly far more effectively.
+
+“That brings us to the end of the lecture portion of today’s class. Now it’s time to break into groups and see if we can come up with some…”
+
+Nick smiled, slipped out of the classroom, and closed the door behind him. He had already sat in on the applied half of this lesson the day before but wanted to catch the overview. The murmur of voices conducted through the walls of the other four classrooms too, and the courtyard was filled with people who were chatting while waiting for the next series to begin.
+
+There were dozens of workshops being offered every day as the champions of Earth shared the approaches and insights that had let them survive the countless ordeals Taltos and the System had placed in their path. Many of them were being recorded with magitech devices people had picked up in the tower, which meant these lectures could be used to train new arrivals when a teacher wasn’t available.
+
+Other people were serving as impromptu skill trainers, sharing their advanced understandings and training techniques with anyone who was interested in increasing their proficiency, regardless of whether they had been granted a given skill by their class or Profession.
+
+It came as no surprise that receiving instruction from knowledgeable individuals was more effective than trial and error. Developing a conceptual framework for a given subject served as a foundation for a skill’s feedback to build upon, helping it advance at a rapid rate.
+
+That must be how they were intended to be used to begin with, Nick mused. Skills are a powerful teaching tool, but they aren’t a substitute for the knowledge and hands-on experience required to gain true expertise—like how the sensations provided by my Sword skill became more meaningful after receiving Rita’s instruction.
+
+He grinned as he made his way across the settlement. I’ll attend more classes soon, but right now, developing Aurora is my top priority. He walked through the city while listening to the thrum and bustle all around him, taking immense satisfaction in witnessing human civilization rise from the badlands brick by brick.
+
+The conditioning stations, training exercises, and classroom lectures were only the tip of the iceberg of what his people were up to. Focus groups, research teams, exploration crews, challenge parties, and dozens more were forming every day, with Liz doing whatever she could to facilitate their efforts.
+
+As far as research was concerned, Psi, stamina, and mana were at the top of the list, along with everything listed in their profiles. People were looking into the requirements for unlocking rarer classes, how to generate essence more efficiently, and how to form the concepts required to advance to tier-2. Not to mention potential combat and industrial applications for every spell, combat art, and trait that they had discovered thus far.
+
+It was only a starting point for what they hoped to create during the days ahead—since most people were devoting considerable time to questing, leveling up, and establishing various industries—but these avenues of investigation were already making a big difference. If Devin manages to get that simulation dome he’s been obsessing over up and running, it will open all kinds of doors too.
+
+Not long after, a runner found Nick and told him Ming had requested his presence in the residential district. Curious, he thanked the messenger and headed over to meet the building crew. He didn’t know it just yet, but the next few minutes were destined to change his life in a fundamental way.

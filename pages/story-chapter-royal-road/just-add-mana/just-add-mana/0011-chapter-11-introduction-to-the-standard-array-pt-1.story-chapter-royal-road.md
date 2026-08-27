@@ -1,0 +1,233 @@
+---
+id: 060ecf38-1c03-52e1-9085-a7d8ff667e71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11 — Introduction to the Standard Array, Pt 1"
+slug: 0011-chapter-11-introduction-to-the-standard-array-pt-1
+partOf: just-add-mana
+position: 11
+ownLength: 3783
+unit: words
+ownProgress: 3783
+publishedAt: 2025-07-25
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2465239/chapter-11-introduction-to-the-standard-array"
+royalRoadId: "2465239"
+markedReadAt: "2026-06-29T18:47:53.681Z"
+---
+
+Even with the help of his schedule scroll, Cale was almost late for his second class. Almost. He managed to find it eventually, tucked away in a rather nondescript corner of a different building entirely—according to the scroll, this part of the academy was known as the Forest Wing.
+
+It didn't look very much like a forest. In fact, it was pretty much the same as the Astral Wing, architecturally speaking. The main difference was the frankly disturbing number of paintings of old, wise-looking elves, along with no small number of potted plants.
+
+...Seriously, there were a lot of potted plants. Was that why this place was called the Forest Wing? Cale couldn't be certain, but he felt like no amount of potted plants were enough to make something qualify as a forest.
+
+Probably. Would a forest comprised entirely of potted trees still be considered a forest?
+
+Vaguely (and unnecessarily) distracted by this train of thought, Cale managed to miss the hallway to the next class twice before he found it wedged awkwardly between two enormous, sprawling bushes. They were large enough, in fact, that they were spilling out of their pots and causing them to teeter dangerously toward one another.
+
+Cale squinted at them suspiciously. This felt like someone's idea of a prank. He could sense traces of earth mana still lingering in around the bushes, which meant they'd been artificially grown until the hallway behind them was nearly hidden. It left him only barely enough space to slip through, and on top of that, the mana around the shrubbery indicated that it was being actively reinforced by someone—presumably to prevent someone from simply forcing their way through.
+
+There was no way every student would be able to fit through that tiny gap, was there? What if one of them had been Leo-sized?
+
+At least his schedule scroll had quieted now that he'd technically arrived. Cale eyed the bushes for a moment, then squeezed himself through the gap between them. If it was a prank, he doubted it was meant for him. This had all the hallmarks of amateur magic, and he was pretty sure none of the students here knew he was coming.
+
+It did mean some of the students were probably trying to keep someone out of class, though. Cale frowned, eyeing the shrubbery doubtfully. They were positioned in such a way that if anyone tried to wrench them apart, they would almost certainly topple over and into all the plants lined up along the corridor. He didn't have any spells that could get rid of them without incinerating everything else in the area, and he doubted Akkau would look kindly on that kind of destruction.
+
+That didn't mean he was out of options, though. Cale still had some very, very sharp barriers, a minute before his next class started, and propensity for interfering with obnoxious plans.
+
+His frown slowly turned into a grin.
+
+It had been a while since he'd done any gardening. Why not practice his skills a little?
+
+Cale stepped into the classroom about three seconds before the official start of class, which apparently wasn't early enough to stop the professor from glaring at him. The man was an older-looking elf of some sort—almost a picture-perfect version of one, too, down to the square jaw and pointed ears. The only thing that marred it was an mottled scar that cut across his left eye, and for Cale, that was a bonus.
+
+Probably not for the professor, though. Elves tended to think of scars as marks of failure.
+
+He wore a green vest, a white undershirt that did very little to hide the defined muscle beneath, and a cold, withering glare that stood in sharp contrast to everything else. It kind of ruined the look, really. Cale idly wondered if the professor would consider wearing some sort of bag over his face.
+
+"You must be Mr. Cobbs," the elf said. His words were just as icy as his glare. "I am Professor Graystalk. I suppose you think that Headmaster Akkau's approval means you may treat the punctual attendance of my class as though it were a mere suggestion?"
+
+Ah, Graystalk was one of those. Flia had warned him he was kind of an ass. Cale sighed. He'd been kind of looking forward to this class, too. The Standard Array had exactly the kinds of spells he wished he could cast.
+
+"I arrived just before class started," Cale pointed out mildly. "Besides, I had Ancient Artifacts with Professor Imrys right before this. You know how she is."
+
+Graystalk hid it well, but Cale saw the way he twitched at the mention of her name. He tried not to snicker. No surprise there—Imrys had a reputation even among the other professors, it seemed. The rest of the class began whispering among themselves, casting him wide-eyed stares; Cale took note of a particularly pale-looking, panting elf that seemed to be exhibiting symptoms of mana strain and smirked.
+
+A sharp stare from Graystalk shut down the whispers. The professor eyed Cale coldly. "Be that as it may," he said. "I expect my students to arrive in my class at least one minute before it begins so that I may start the class itself on time. Am I understood?"
+
+Cale cocked his head. "I feel like we've wasted more than a minute just talking about this, but sure, I guess. Do you always accost new students like this?"
+
+"Only when they're an Astral freak," someone called from the back. Cale glanced back to find a tall, beautiful elven woman clad in thin, gold-sheen fabrics that left very little to the imagination. She was seated next to the other elf, the one that had clearly been trying to maintain the durability spell on the shrubbery outside.
+
+He let his gaze linger for a moment, but honestly, the haughty expression she wore and the tone of her voice put him off her even more than it had with Graystalk. He wrinkled his nose slightly and turned back to the professor, who was studying her with slightly narrowed eyes.
+
+Interestingly enough, he said nothing about the interruption, though it clearly irritated him. "As a matter of fact, I do," Graystalk answered after a moment. "I have found it far more efficient to clearly establish my expectations for my students the moment they arrive."
+
+Cale couldn't help himself. "Unless the student happens to be a pretty elven woman?" he suggested sarcastically.
+
+Graystalk's eyes narrowed even further. "I do not appreciate your insinuations, Mr. Cobbs," he said. "Ms. Whiteleaf's behavior will be addressed separately, but right now, we are discussing you. I expect a bare minimum of respect for both me and my time if you are to attend this class."
+
+The elf looked him up and down, lips curling into a sneer. "That means cleaning yourself before attending my class," he said. "Or perhaps finding some more appropriate attire. Perhaps both. I understand that Professor Imrys's methods are often considered... extreme, even amongst Academy staff... but I will not accept that as an excuse for arriving covered in dirt."
+
+Cale sighed. What was it with elves and sneering? It was terribly distracting. His earlier thought came back to him.
+
+"I don't suppose you'd consider wearing some sort of bag over your head?" he suggested hopefully. "Or some sort of mask. I'd have a much easier time in this class if you did. I might not even talk back as much."
+
+The class fell dead silent. That probably wasn't a good sign.
+
+[Blabbermouth] has reached level 7!
+
+That probably wasn't a good sign, either. Cale reviewed what he'd said, looked at the professor again, and then blanched as he realized the implication.
+
+"Not because of the scar!" he added hurriedly. "The scar looks great on you! It really accentuates your, uh, eyes? It's the part where you look like you want to stab me that I don't like."
+
+Professor Graystalk's glower only grew worse. "Sit down, Mr. Cobbs."
+
+"I really am sorry," Cale said, as sincerely as he could. He meant it, too. "I was trying to insult your face, not your scar."
+
+[Blabbermouth] has reached level 8!
+
+Okay, that time he'd just been being honest. Maybe he'd been a little too honest? Cale had lived many lives, but one of the few skills he'd never quite gotten down was when to stop talking.
+
+Graystalk said nothing, but he did lift his wand. Cale watched as the professor's magic took shape, firing two spells in quick succession. Neither of them, to his surprise, were targeted at him. Instead, the lights flickered and the wind picked up in the classroom, howling in a way that made a few students flinch and cry out. Whiteleaf, to his surprise, seemed unimpressed—she rolled her eyes impatiently.
+
+Cale, on the other hand, was fascinated.
+
+Those had both been first-tier spells at best. He wasn't sure if the other students had noticed, but the speed at which the professor had attuned his mana and fired them off with near-perfect efficiency made it almost equivalent to a single cast of fourth-tier magic.
+
+Not to mention the Academy itself was warded against being affected by basic magic. It wasn't nearly as strong here as it was in the Astral Wing, but bypassing those wards with first-tier spells required a significant degree of skill with spellwork. He wasn't sure any of the other students recognized the feat Graystalk had just pulled off, but he did.
+
+Fair enough, he decided. He could be polite in response to that level of spellwork. Cale walked over to an empty desk and took a seat.
+
+Graystalk stared at him. He seemed surprised, but after a moment, he turned and began writing something on the chalkboard. The rest of the class had started whispering amongst each other again, though the professor steadily ignored them. Cale took the opportunity to examine them more closely.
+
+There really were a lot of elves here. Despite his best efforts, Cale felt himself doing a cursory inspection, checking over the ears of his classmates on the off chance any of them might have a rounded pair rather than pointed ones.
+
+Nothing. He was the only non-elf in the class, as far as he could tell. A quick sweep with his mana sense confirmed it.
+
+He wasn't disappointed, he told himself. He couldn't be. There was no reason Utelia would be different from any other world he'd been to over the last millenia. But it was like a habit he couldn't quite shake: every time he ran into elves, or dwarves, or any of a dozen different species that looked like they might be human, he searched. Almost by reflex. First a visual inspection, to let himself hope, and then sweeping his mana sense over their cores for confirmation.
+
+But there was nothing. There were plenty of lookalikes—doppelgangers, vampires, animal shifters of all kinds—but never another human. No one ever seemed to question what he was, nor did the word "human" surprise any of them, but they never asked any questions about his species, either. They never questioned why they knew what he was, or why they'd never seen anyone else like him.
+
+It was like humanity itself had disappeared, and now existed only in a sort of informational blindspot.
+
+The worst part, perhaps, was that there were traces of humanity all across the multiverse. He couldn't simply forget. Living mythologies, the familiar scent of oak, Leo's glasses, the strangely pervasive presence of duct tape—which Cale was almost convinced was some sort of invasive species, at this point—he encountered those lost remnants time and time again, and every time, he couldn't help but hope that he'd find someone else like him. Someone that might know what happened.
+
+He never did, of course. Cale had no idea what had happened to humanity, and a part of him had given up ever finding that answer. He sighed.
+
+"Is something the matter, Mr. Cobbs?" Professor Graystalk asked, his tone acidic. "Perhaps my class isn't interesting enough for you?"
+
+Oh, right. He was in class, wasn't he? "I got distracted," Cale said. "Sorry."
+
+Professor Graystalk narrowed his eyes and stood at his desk, his magical aura beginning to flare; several of the students closer to him flinched and leaned back at the weight of it. "My class is not a joke, Mr. Cobbs," he said. "I had considered allowing you to attend without insisting on the insufferable test that so many of my colleagues seem to want to give you, but if you must test my patience—"
+
+"Please call me Cale," Cale interjected.
+
+"Cale, then," Graystalk continued, undeterred. Cale raised an eyebrow, surprised that he'd actually listened to him in the middle of his tirade. "If you must test my patience, Cale, then I will issue you my test in turn. You understand that failing any of these will impact your available classes at this school? I happen to teach the course on fire resonance, and Akkau has informed me that fire is one of your desired resonances."
+
+Cale nodded. "I need it for baking spells," he explained. "Which are the pinnacle of magic."
+
+The professor blinked, slightly thrown by Cale's lack of reaction to his implied threat. "...So the Headmaster claims, although I have yet to see the evidence," he said, his tone slightly calmer. He seemed to be considering Cale a little more carefully, too. "Tell me—is this why the Headmaster favors you? Because you share his views on magic?"
+
+"No, I'm pretty sure that's not it," Cale said. He had no idea how much he was allowed to tell the other teachers, now that he thought about it. "Akkau didn't explain it to you?"
+
+Graystalk snorted. "His story was hardly believable, and it would hardly be the first time he has lied in order to adopt yet another lost cause," he said. "I prefer to assess my students on their merit, though very few of them meet my standards."
+
+Was it just him, or was there a note of bitterness in Graystalk's voice there?
+
+"Cale," the professor continued, watching him closely. "Do you think you are too important for the Standard Array?"
+
+"What? No."
+
+"You will find, Cale, that the Standard Array..." Graystalk paused, brows furrowing in confusion. "What do you mean, no?"
+
+"Where did you get the idea that I think I'm too important for the Standard Array?" Cale asked right back, just as confused. Graystalk stared at him for another long moment before he spoke again.
+
+"You... you truly are not doing this on purpose, are you?" he muttered. He looked almost as though he was trying to reconcile some deeply-held truth with the reality Cale was presenting him with.
+
+"Doing what?" Cale asked, exasperated.
+
+"Antagonizing me," Graystalk said. "Making light of my class, the way the rest of my students do—do not give me that look, Ms. Whiteleaf. I am well aware of what you say behind my back. That I choose not to address it does not mean that I am oblivious. Or did you think your obfuscation wards went unnoticed?"
+
+The elven woman in question seemed startled that Graystalk had actually addressed her. That surprise turned quickly into realization before she shrank back into her seat, evidently not quite sure what to do with this revelation. The students around her began to whisper, and her expression vacillated between haughty, angry, and humiliated.
+
+Cale thought she looked rather constipated, personally. Graystalk tapped on his desk, and Cale turned his attention back to the professor, who arched a single brow at him.
+
+"Introduction to the Standard Array is perhaps the single least respected class among the students of this academy," Graystalk said. "I have long accepted this reality. It has become a game, amongst some, to see how quickly they can get me to remove them from this class. The ones that stay do so largely because they believe that my approval will buy them status amongst the elves."
+
+Whiteleaf looked rather ashen at that, and she wasn't the only one. A lot of the elves were murmuring among themselves now, alternating between staring at Cale and then at Graystalk.
+
+"Allow me to ask you this properly, then, without my poorly-conceived preconceptions in the way." The professor gave Cale a smile so slight he almost missed it entirely. Cale was pretty sure this was his version of an apology. "What do you think of the Standard Array?"
+
+"Uh," Cale said. Wow, Graystalk looked a lot better when he wasn't sneering. That was incredibly distracting. Stupid elves. "I don't actually know the full list of spells that are part of the Standard Array, but it's a set of basic spells that every mage is expected to learn before graduation, right?"
+
+Graystalk nodded. "To be specific, they are first- and second-tier spells that were first shortlisted by the Orstrahl kingdom as a requirement for legal recognition as a full-fledged mage. Over time, as it grew and was iterated upon, the Standard Array became recognized and adopted over much of Utelia. The Gift itself seems to reflect this: any spell from the Array is particularly easy for a fledgling mage to learn, with each one only requiring thirty minutes to an hour of study."
+
+"Huh." Cale took all this in as Graystalk steepled his hands on his desk, his gaze suddenly intent. "And that's supposed to make me think less of the Standard Array?"
+
+"It has led many other mages to dismiss its importance," Graystalk said evenly, though once again, he didn't quite manage to hide the bitter undertone in his words.
+
+"Oh." Cale was finally beginning to understand where all this was coming from. "That's kind of stupid."
+
+The class erupted with whispers again. Whiteleaf, however, sneered—really, again with the sneering—and spoke up. "Graystalk only thinks the Array is important because he can't cast anything outside of it," she spat, her tone mocking. "He used to be one of our most respected clan elders. The Mage Killer, we called him. Then an archmage locked him down with a restriction curse. How do you think he got that scar? It's pathetic."
+
+Cale stared at her. Whiteleaf looked genuinely proud of herself for saying those things; some of the students around her were nodding in agreement, and she looked at him like she was expecting him to agree, too.
+
+"Wow, she's annoying," Cale said, turning back to the professor.
+
+"Tell me about it." Graystalk rolled his eyes. "It has been rather taxing to pretend her wards were strong enough to keep me out."
+
+Whiteleaf spluttered, but both Cale and Graystalk ignored her. They were pretty much focused exclusively on one another. "Mage Killer, huh?" Cale asked, raising an eyebrow.
+
+Graystalk shrugged. "I am not proud of the title."
+
+"Do you know the easiest way to kill a mage?" Cale asked, turning his attention back to Whiteleaf and raising an eyebrow. "It's not just about the tier of magic you use, you know. Mana control and efficiency matters. If two mages cast the same spell, they don't just cancel each other out—the better mage is going to win. And if you aren't casting the same spell, then nine times out of ten, the faster mage is going to win. How fast do you think a basic spell is?"
+
+Whiteleaf stared at him, silent.
+
+"Also," Cale added. "How bad a mage are you, exactly? Did you see the spells the professor used earlier?"
+
+"That—those were basic alteration spells," Whiteleaf argued, though the students around her were beginning to look more attentive. "From the Standard Array."
+
+"Yeah, except they punched through the Academy's wards like they were nothing, and he did them so quickly they might as well have been a single spell. Did you really not notice that?"
+
+"That was—" Whiteleaf faltered. "Anyone could do that. He's a professor. He probably has an exception in the wards—"
+
+Cale ignored her. He wasn't actually interested in whatever she had to say. More important was the way the rest of the class was reacting.
+
+"Is he saying the Mage Killer was using the Standard Array to take down archmages the whole time?"
+
+"Why did he retire, then?"
+
+"I thought it was because he got the scar..."
+
+Graystalk sighed heavily, though he didn't look upset. Instead, there was a new light in his eyes. "It seems I have misjudged you, Cale," he said. "I believe I owe you an apology. I assumed you were like the many students that look down on the Standard Array, but you seem to appreciate it for its strengths in combat, at least."
+
+"Not just in combat," Cale said. "I mean, I get it. A lot of mages take magic for granted. But no one from the Astral Wing is going to look down on something like the Standard Array. Sure, it's basic magic, but do you know what basic magic means for us? I'd love to be able to make just a single flower bloom. Or light a candle.
+
+"Right now, if I tried to do either, I'd probably grow a forest and then set the whole thing on fire. Which is awe-inspiring in its own way, don't get me wrong, but... there's a lot of magic in the little things, too."
+
+There was no response. Cale waited for a moment, then realized the professor was staring at him with wide, watery eyes.
+
+"Uh," Cale said.
+
+"You actually understand." Professor Graystalk stood from his desk, walked over, placed his hands on Cale's shoulders, and stared straight into his eyes like he was searching for some sort of lie. When he found none, he threw his arms entirely around Cale and hugged him like he was some sort of lifeline.
+
+"Um," Cale said again. He looked around helplessly. Was the professor crying? Everyone was staring at him, with the sole exception of Whiteleaf, who was glowering. She looked outraged.
+
+Cale had a feeling he knew where this was going.
+
+"I demand a duel," Whiteleaf snapped, standing up from her desk and almost knocking it over. "Standard Array restriction, since you think it's so special."
+
+At the same time, a rather befuddled voice spoke up from near the door, with a sound not unlike two stones being ground together. "I... feel like I'm interrupting something?"
+
+Cale blinked and looked over at the door. He'd forgotten there was probably another student arriving—whoever those bushes had been built to block, presumably. What he saw wasn't anything like what he expected.
+
+It was a golem.
+
+And it was...
+
+"You're so round." Cale whispered the words like it was a revelation.
+
+[Blabbermouth] has reached level 9!
+
+Cale twitched. He really needed to stop doing that.

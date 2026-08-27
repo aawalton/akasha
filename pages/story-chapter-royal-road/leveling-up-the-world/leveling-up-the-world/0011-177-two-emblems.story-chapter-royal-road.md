@@ -1,0 +1,175 @@
+---
+id: 4935ea10-f4fe-55fb-a3c0-7242ded2246f
+page-type-slug: story-chapter-royal-road
+title: "177. Two Emblems"
+slug: 0011-177-two-emblems
+partOf: leveling-up-the-world
+position: 11
+ownLength: 2400
+unit: words
+ownProgress: 2400
+publishedAt: 2021-06-27
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/706580/177-two-emblems"
+royalRoadId: "706580"
+markedReadAt: "2026-06-29T22:40:30.757Z"
+---
+
+The training realm was much more structured than that of Dallion’s entrance test. A large stone pyramid rose within a field of columns surrounded by dense jungle. Looking closer, Dallion could see certain architectural similarities. If he didn’t know better, he would almost say that someone had done a copy and paste from his own testing realm. Moments later, it became obvious why.
+
+“Hello to you all,” an echo emerged. It had the appearance of captain Adzorg. “I’m the training echo of the exam and will be assisting in the evaluation.” He briefly looked at Vend, before focusing on Dallion. “It’s a bit early for a reevaluation, isn’t it, dear boy?”
+
+“He’s here as an observer,” Vend replied with a note of annoyance. “I’ll be testing these two.”
+
+“Ah.” The echo narrowed his eyes, clearly not thrilled with the idea. Apparently Nil was exaggerating about Adzorg’s dislike of pure blonds. “Where are you from, if I might ask?”
+
+“They're from Dherma village,” Dallion quickly replied. “We’re known each other since childhood.”
+
+“Ah, friends of yours.” The echo’s expression visibly changed. For a moment Dallion thought he saw a trace of relief beneath the layers of dislike. “Very well, then. I trust that you’d been told what to expect? Just to be certain, though—” he gave Vend a disapproving glance “—let me go through it again. The entire goal of this exercise is to determine your awakened abilities and the manner in which you use them. Most often this is done through a fight, unless you have crafting skills.”
+
+I have crafting skills, Dallion wanted to say.
+
+“Your goal is not to defeat your opponent. Despite his looks Vend is a guild elite of considerable talent, despite his misguided loyalties. In short, just demonstrate everything you are capable of even if you wouldn’t in a real situation.”
+
+“We have been through this sort of thing before,” Gloria replied with pursed lips. She didn’t seem to particularly like the echo either. “Dallion might have forgotten to mention that we were recruited to take part in a chainling hunt by an envoy of the Archduke no less.”
+
+Tension formed in the air. The echo wasn’t pleased that someone had spoken back to him, while neither Gloria nor Veil were used to being looked down on. All their life they were the ones who had looked down on others, and even after they had stopped the practice, they still weren’t used to the opposite. Not from an echo in any event.
+
+“Gear up.” Vend remained as calm as always. This wasn’t the first annoying situation he had been in and no doubt wasn’t going to be the last.
+
+Suddenly a second copy of the elite appeared, identical to the first. Dallion took a step back. Seeing his reaction both Vends waved a hand dismissively.
+
+“It seems you have a lot to learn,” one of them said to Dallion. “You, come with me.” He pointed to Gloria. “
+
+“You,” the other instance said to Veil. “Let’s go there.”
+
+Echoes? Dallion wondered.
+
+Singular, Nil replied. And he is right. It’s high time you started using such. The vast majority of people your age have a dozen by now.
+
+I’ll get to it.
+
+“Come along,” Adzorg’s training clone said. “Let’s get a good view.”
+
+“Is this normal practice?” Dallion followed.
+
+“Of course not, but it’s Vend we’re talking about. That boy is so lazy, I’m surprised he didn’t create two echoes and have them do the trial. Clearly his mentor has been neglecting her duties. If it were up to me, he’d have taken on an apprentice ages ago. It’s not just a matter of guild obligation, it also helps development. There comes a point after which the only way a master could learn is through his apprentices. Either that or war.”
+
+“Ready to start?” Vend shouted.
+
+“Go ahead,” Adzorg’s echo shouted back. “See? No patience whatsoever.”
+
+Both training fights started moments after. Initially Dallion focused on Gloria. As before, the girl relied on evasion and ranged attacks. To his surprise, he found that she somehow had also obtained a pair of dartbows, and they were far better than his own. Just as curious, he hadn’t noticed her carrying them so far.
+
+What are those? Dallion asked Nil.
+
+Those are extremely interesting, the echo replied. Dartblades. Usually, they are reserved for minor nobility, although they could be bought with enough gold. Your friends must be quite rich.
+
+Dallion’s initial reaction was to deny it, although when he thought about it, it sounded very much like the village chief to hoard his treasure in that huge mansion of his. Thinking back, there had been a vast number of weapons in the chief’s awakening room, even if most of them had been chained.
+
+Gloria’s style of fighting was the same as Dallion remembered it. Having improved her reaction, she avoided any direct confrontation, moving away from Vend while shooting bolts at him in sequence. Whenever the elite managed to get close to her, a brief melee exchange would follow, during which she would use the short blade of her weapon’s underside to perform a series of blocks and counters, before using acrobatics to increase her distance again.
+
+It was beautiful, as if watching a dance or ballet. If Dallion had faced her back when he was level ten, there was every chance he would have lost unless he resorted to his music skills. However, from where he stood now, there could be no comparison. Watching her fight Vend was like watching a kitten charge a tiger. Dallion could see her openings, and just as he could see his mentor not taking advantage of them. To make things worse, Dallion didn’t think he would have fared better against Vend, either.
+
+“You realize it, don’t you?” Adzorg’s echo asked. “The difference in levels.”
+
+“There never was a chance she could win, was there?” Dallion whispered.
+
+“Not in the least. Unless equipped with magic, a single digit awakened has no chance of winning against an established double digit. That’s why double digits don’t pick fights with singles.”
+
+“And if they do?”
+
+“If they do, they risk trouble. Awakened aren’t immortal. If one person keeps everyone else down, the entire domain will suffer after his death. It’s simple logic and mathematics. That’s the main reason the Imperial Eyes keep the noble families in check. If a major family becomes too oppressive, that would weaken the empire, so steps are taken. Which is why the countess is in so much trouble.”
+
+“In trouble?”
+
+“Shh. Let’s watch the fights.”
+
+After a while, it became clear that Gloria’s struggles would get her nowhere. While complex, she had a behavior pattern that was identifiable. It took Dallion a few minutes to catch elements of it, after which he pretty much knew what she might do in most situations. After a few minutes more, he redirected his attention to the other fight.
+
+Veil’s style of fighting, in contrast, could be described as the embodiment of chaos. While starting with some predefined forms, every counter was chosen on the spur of the moment. The blond had restored to using two massive broadswords, using them to parry and attack. The instances of him evading were few and far in-between, even if well executed. What he excelled in was making such fierce attacks, forcing his opponent to be on the defensive.
+
+That boy will go far, Nil said in Dallion’s mind. A class one fighter and a natural awakened at that. Quite the rarity these days. Good precision, adequate speed… when he learns splitting, he’d be a force to be reckoned with. Just look how he’s handling Hannah’s sword. The weapon has pretty much accepted him. If you had been half as good, that would have saved me a lot of shouting.
+
+Does that mean I’m better now?
+
+Dear boy, in terms of pure attack, you’re nowhere close.
+
+The comment felt like a kick in the gut. The saddest part was that it was likely true. When it came to attack skills, Veil had the upper hand. However, that had never been Dallion’s true strength. His “genius” lied in the way he combined skills, or so he thought.
+
+Both fights continued for about ten minutes—far longer than Dallion’s. Thinking about it, his session with March was probably a joke. And to think that he was under the impression that he could land a few hits. The same could be said about Dallion’s fights against Euryale. That recollection, on the other hand, made him flustered for a moment. The whole thing would have been embarrassing if she hadn’t liked him.
+
+Gloria’s fight was the first to reach its end. After a rather fierce close combat situation in which the girl had tried to shoot him from point-blank range, Vend had simply stated it was enough. Veil’s continued a few minutes longer with Veil constantly increasing the complexity of his attacks. Jumps, triple spins, and somersaults were combined with combinations of slashing and piercing attacks. In the end, however, a misstep made him lose balance for a fraction of a second, which in the eyes of him and Vend marked a defeat.
+
+“Let’s go,” Adzorg’s echo said, joining Gloria’s group.
+
+Veil and the second Vend soon followed.
+
+“Not bad,” Adzorg’s echo said. “There’s considerable promise, that’s to be sure. And no bad habits, for a change.” He glanced at Dallion for a moment, then turned to one of the Vends. “Your thoughts?”
+
+“They’ll do,” the elite said. As he did, his other instance disappeared. “We’ll see how they do at the selection trial, but they’re good for now.”
+
+“That’s it?” Veil asked. “Don’t we get any advice or hints?”
+
+“There’s no point. Without passing your second awakening trial you won’t be able to improve. Get that done and we’ll talk again.”
+
+Veil let out a snort of disappointment. Gloria, on the other hand, nodded.
+
+“We’re done.”
+
+The training realm disappeared, replaced by the small training room. Without any fanfare, Vend returned the cube to the shelf, then left the room without the word. Dallion and the rest remained still and speechless for several seconds more, uncertain how to react.
+
+“So,” Veil spoke first. “What happens now?”
+
+“We go to Estezol, I guess?” Dallion wasn’t at all sure.
+
+And that’s why I keep saying that the boy needs better mentorship, Nil sighed. It’s his responsibility to formalize the process and give them their temporary guild emblems. I hope my original has a word with the guild master about this. Anyway, you’ll have to take care of this. They are your friends, and Vend is your mentor…
+
+Riiight…
+
+“Okay, let’s go,” Dallion said.
+
+The trio returned to the guild lobby, where Estezol was waiting. Vend, of course, was nowhere to be found.
+
+“Welcome back.” The bearded man smiled wildly. “How did it go?”
+
+“Vent said ‘they’ll do.’ I assume that means they’ve passed?” Dallion asked. “He didn’t stick around to give any details.”
+
+“Of course he didn’t.” Estezol shook his head. “I wouldn’t expect anything less from him. Can you lend me your guild ring for a moment?”
+
+Dallion started taking it off, but was quickly stopped by Estezol, who only put a finger on the metal band. An instant later, he pulled his hand back again.
+
+“Alright, everything seems to be in order. Just give me a moment, I'll go get your emblems. As you know already, you still have to go through your selection trial. Not that I have any doubts, it’s just part of the procedure. Once that’s over, both of you will get your own individual emblem marking you as a junior member.”
+
+“Junior?” Veil asked, shocked at the prospect.
+
+“Yes, it’s how things start. As a junior member you also get assigned a mentor who will help with training and your path to full guild status.”
+
+“We’re not sure we’ll stay here for that long,” Gloria said. “We’re here on the countess’ invitation and we’ll be returning to Dherma after the festival is over.”
+
+“Oh.” Estezol’s smile lost its glow. “That’s a shame. Anything I could do to convince you otherwise?”
+
+Dallion could feel for the man. It was similar to a pair of online celebrities joining a local game server, only to leave a few weeks later. Of course he was going to do everything in his power to entice to stay. Knowing Gloria and Veil, though, Dallion didn’t think they had any interest. Joining a guild probably felt like part of the city experience more than anything else. Then again, there was always the chance that he was wrong, and they decided to stay.
+
+Seeing that he couldn’t convince them, Estezol went into one of the back rooms.
+
+“It’s a cool place if you decide to stay,” Dallion said while they were waiting. “At least until you mass your second trial.”
+
+“It’s really not for—“ Gloria began.
+
+“Sounds good. We’ll see how the geezers take care of the village,” Veil interrupted. “I’m not leaving them to mess things up again. Once is enough.”
+
+“Once?” Dallion asked.
+
+“All that happened was that they asked him to take a break for a few days.” Gloria crossed her arms.
+
+“And during those few days nothing happened!” Veil snapped. “I could have improved half the houses in that time!” He caught wind of his sister’s icy glare. “Fine, a quarter then. Point is that everyone’s slacking more than normal. Not to mention the family is a mess. Never could stand most of them, but now—”
+
+“Now you see why I was so eager to drag him here,” Gloria whispered.
+
+An awakened workaholic warrior… definitely a scary combination to behold. Thinking about it, maybe it was a good idea that they wouldn’t be staying. If Veil continued to be so competitive he wouldn’t rest until he became a captain, at least, and would no doubt pester Dallion to do the same. In his mind, Veil probably considered him a rival. Then again, if that was the way he wanted it, it was only normal for Dallion not to let him down.
+
+“Here we go,” Estezol arrived shortly after. “Two Icepicker emblems. I’d say keep them visible, but considering the ones you’ve already got, it’s not obligatory.”
+
+“Thank you,” Gloria said, then put her on. “What do you think?” She turned to Dallion.
+
+“It suits you,” he replied honestly. “Welcome to the Icepicker guild.”

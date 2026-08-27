@@ -1,0 +1,121 @@
+---
+id: 070b1ef9-aee0-5062-8b2a-133e0da8ee8c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48: Yesterday’s Enemy is Tomorrow’s Friend"
+slug: 0231-chapter-48-yesterdays-enemy-is-tomorrows-friend
+partOf: labyrinth-of-the-mad-god
+position: 231
+ownLength: 2175
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2649326/chapter-48-yesterdays-enemy-is-tomorrows-friend"
+royalRoadId: "2649326"
+---
+
+After dinner was served and everyone had eaten their fill, the real celebration began.
+
+An impromptu band joined the violinist in front of the bonfire. It was composed of crude drums supplemented by a surprising number of actual instruments—both Old Earth favorites and alien varieties that people had acquired during their adventures.
+
+One of the earth shapers used her magic to create a stone dance floor, and it was packed within seconds of smoothing the final section. Everywhere Nick looked, people were gyrating, swaying, and performing superhuman feats of athleticism. He couldn’t help but smile at the sight of his friends having the time of their lives while working out all the stress from their battle with the wurm and everything that had come before.
+
+He joined them for a while, then accepted a flask of potent liquor Veronica handed him, sipping on it while watching the raucous party engulfing him on all sides. He was still a little melancholy, and didn’t expect that to change anytime soon, but it was impossible to feel too blue while surrounded by so many happy people.
+
+“Aurora.” Elizabeth sat down on the bench beside him. “City of Dawn? City of the Rising Sun? It’s a pretty name and I like the symbolism.” She reached into her bag and pulled out a bottle of wine, reminding him that he wasn’t the only one with a dimensional storage device.
+
+Nick realized she was wearing better gear than the set he’d given her. It wasn’t new and given the perfect fit, it had clearly been part of a System reward. Seeing her in it triggered a series of revelations. Did she set up that whole incident with the rescue? Was she ever in danger from the bladewind? Was that wardrobe malfunction really a malfunction?
+
+When he looked into her eyes, grinning as he put the pieces together, he discovered the answer. Liz had engineered every aspect of their meeting—desperate for him to view her in the best possible light. For a second, he was annoyed that he’d been tricked, then he began to laugh.
+
+Nick couldn’t help but be impressed at how skillfully she’d played him, and besides, that stage of their relationship was over. After what happened when the System awakened them to Psi, he knew Elizabeth better than anyone else on the planet.
+
+After gazing into the hidden recesses of her soul, he trusted the woman with his life. And that bond went both ways. It had taken her a while to remember the experience, but in the end, she had delved just as deeply into his psyche as he had into hers. It was a little embarrassing to know that someone had gotten a glimpse of his true, unvarnished self, but he supposed fair was fair.
+
+He realized that she hadn’t said anything else. That she already knew what had happened with Sophia and had stopped by to cheer him up. That she wanted to move closer but was respecting his feelings and letting him set the pace. That more than anything else, Liz wanted to be friends.
+
+Regardless of how their bond had been formed, Nick was happy to see her. For all its awkward implications, the event had gifted him with another person he could trust. Someone who had incredible skills in an area he was sorely lacking. If he wanted to be on the front line of rebuilding human civilization, having someone who understood people—their wants, needs, and drives—on such a profound level would be invaluable during the days ahead.
+
+“It was the best name I could come up with.” He took another sip. “I wanted something that would let people know that despite everything—after experiencing so much loss, pain, and fear—humanity’s story has only just begun. A name that would inspire…”
+
+“Hope,” she finished his sentence, then handed him the bottle when his flask ran dry. He took a swig, smiled, and passed it back.
+
+“How long have you been conspiring to leave me in charge?”
+
+“From the moment we arrived, of course.”
+
+Nick chuckled, shook his head in defeat, and took another sip of wine while she explained.
+
+“Our people need a leader who symbolizes our best and brightest. Someone who has fought for our future and emerged victorious, no matter what horrors Taltos and the System have placed in our path. A leader who inspires trust but can also take the strategic view and make hard decisions. Devin is charismatic enough and way smarter than he lets on, but he can’t say no to save his life. Kenji was my second choice, but he flat-out refused to even consider it.”
+
+“I still think it should have been you, but I’m willing to do the job until Aurora is up and running and we can put the matter to a proper vote.”
+
+Elizabeth looked at him with an unreadable expression but didn’t say anything else. They sat that way for a while then she placed a hand on his shoulder, rose from the bench, and walked over to the dance floor, giving Nick some space.
+
+He decided to take a walk and stretch his legs, listening to the celebration with a smile on his face. After everything his people had been through, moments like these felt almost painfully precious—a night filled with love and life after enduring so many dark days.
+
+It felt good to have defeated the wurm and founded a city, but it was even better to have accomplished the feat with his friends at his side. He was worried about Sophia, but he believed she would overcome her ordeal in time, and if she needed his help, all she had to do was ask. He hadn’t even begun to sort out his feelings, but there would be plenty of time to deal with them later.
+
+When he rounded the bonfire while listening to the band, he found himself standing face to face with Ken—the man who had tried to claim Nick’s life at the base of Darkstone Tower.
+
+Ken was a superior swordsman, and running into him without warning sent adrenaline coursing into Nick’s veins. He hadn’t realized the man had joined Team Earth and was caught completely off guard.
+
+During the split second it took Nick to recover from his surprise, Ken made his move. “We never got to finish our little debate,” he began. “The only way to resolve the bad blood between us...”
+
+Ken’s hand shot down to where his sword was sheathed at his hip.
+
+Nick reached for Blightbane’s hilt, but Ken moved faster.
+
+He was about to activate Force Acceleration, only to pause when he realized what the swordsman was holding in his hand. Instead of reaching for his weapon, Ken had retrieved a silver flask—filled with apple brandy that Nick could smell from here.
+
+“Is to get drunk, tell lies, and forget the whole thing ever happened.” The man ran his fingers through his spiky brown hair as he finished his sentence, milking the dramatic pause for everything it was worth.
+
+The fake out had set Nick’s heart pounding like a taiko drum. But since Ken had used a powerful consumable to save his life shortly after their duel—when the River King and shadow hunt arrived at Darkstone Tower—he was willing to hear the man out.
+
+Besides, while Size Up assured Nick that Ken was one hell of a fighter, he couldn’t sense any killing intent coming from the swordsman this time around. Since this situation was shaping up to be an amazing distraction from his tangled snarl of emotions, Nick decided to go with the flow.
+
+“Fuck it. Why not?” He reached out, accepted the flask, and took at swig, savoring the burn of spiced alcohol sliding down his throat. “Damn.” He took a second sip and then handed it back. “That’s good stuff.”
+
+“Right?” Ken walked over and clasped him on the back. “Now, let’s go have a friendly chat where I can boast in front of the ladies. I’d rather not fall asleep in an empty tent if you know what I mean.”
+
+It turned out that Ken had plenty more brandy where that came from—courtesy of a dimensional storage device that only held alcohol. Two hours of determined drinking later, they were both sloshed despite their superhuman Toughness.
+
+“Nick and I got started off on the wrong foot,” Ken explained to a group who had gathered to listen to the man tell stories. “I’ll admit that the situation was partially my fault.”
+
+“Partially?” Nick butted in. “You tried to fucking assassinate me.”
+
+“Okay, 51% my fault.”
+
+He couldn’t help it. In the face of Ken’s flawless deadpan delivery, Nick began to laugh, then everyone joined in.
+
+Despite what had happened, he couldn’t find it within himself to resent the man for trying to kill him. Unlike Jim, the swordsman seemed like a decent person—a warrior who had been trying his honest best to save humanity, even though they hadn’t seen eye to eye.
+
+Ken didn’t seem to feel guilty about what he’d done, nor did he hold a grudge. He just moved forward as best he could and didn’t let the past hold him back. That’s not such a bad way to live.
+
+With Jim out of the picture and Elizabeth on Nick’s side, he didn’t think Ken would be a problem going forward, and it was reassuring to have such a powerful elite fighting on their side. He put his elbows on his knees to prop up his head—drunk for the first time since his new life had begun—and drifted off not long after.
+
+He woke up on and off throughout the night, grinning as he listened to people drinking and dancing to the music. Bantering, flirting, kissing, and from the sound emanating from some tents, quite a bit more. That last one made him miss Sophia, and the fact that Elizabeth would probably be more than willing to share his bed only made the whole situation more confusing.
+
+Nick eventually walked over to the obelisk and sat down with his back against the stone, watching shooting stars streaking across alien constellations until he fell into a deep and dreamless sleep.
+
+***
+
+Bandit hung from the branches of the tallest tree in his village, watching the moonlight bathe the mist-shrouded streets below.
+
+He raised his gaze and peered into the distance, contemplating the contrast between the lush jungle beyond the wall and the clusters of buildings inside, including a block of half-finished structures the earth shapers were still in the process of fortifying.
+
+The last few weeks had flown by in a flurry of activity, as his tribe built, traded, and trained like never before.
+
+The beasts of Earth had grown so much in such a short span of days that Bandit had a hard time wrapping his head around the changes. There were still traces of the old ways—behaviors and beliefs from when the lemurs had been one with the jungle—animals with few thoughts further than their next meal, finding a mate, or keeping their children safe from prowling predators.
+
+Reality had been remade when the Voice arrived, marking the end of the old world and the beginning of the new. These days, his thoughts were filled with the future, and his memories of the past swirled beside his ambitions for what might yet be.
+
+Bandit couldn’t even begin to imagine what his village would look like when the seasons turned and summer arrived once more, but he couldn’t deny that he was excited to find out. While some of these changes were difficult to contend with, the lemurs’ lives had never been easy, and most of these innovations had enhanced their well-being and bolstered their odds of surviving another day.
+
+His people now had comfortable homes with fires burning in the hearths. Sturdy walls to keep them safe—patrolled by beasts wielding weapons of war. During the daylight hours, the settlement was filled with the music of industry and expansion as his people carved out a place for themselves in this new, magical existence.
+
+His village had grown in both size and diversity. What had once been the refuge of the lemur tribe was now home to individuals from other species, including members of the hairless tribe.
+
+That last part inevitably turned Bandit’s thought to Neek—his first human ally and the man who had saved the tribe during their trial on the island of burning rain. Neek had taught them how to cook and build, and he had gifted Bandit with the concept of language.
+
+He hadn’t heard from his friend since, but somehow, Bandit was certain that Neek was still alive. He hoped that one day soon, he could find his friend, show the man what the tribe had accomplished, and work together to build a brighter future for humans and lemurs alike.
+
+After letting out a sleepy yawn, Bandit swung from branch to branch, leapt through the window of his treetop home, and slipped into bed—ready for another day of hard work when the sun rose.

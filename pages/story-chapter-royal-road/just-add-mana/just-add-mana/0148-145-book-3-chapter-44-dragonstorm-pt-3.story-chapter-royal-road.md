@@ -1,0 +1,199 @@
+---
+id: 1c4ed15f-468a-5b47-8efb-a03f4cab113b
+page-type-slug: story-chapter-royal-road
+title: "145 — Book 3, Chapter 44 — Dragonstorm, Pt 3"
+slug: 0148-145-book-3-chapter-44-dragonstorm-pt-3
+partOf: just-add-mana
+position: 148
+ownLength: 3281
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3500957/145-book-3-chapter-44-dragonstorm-pt-3"
+royalRoadId: "3500957"
+---
+
+Damien didn't know much about Phlogis, but he was getting increasingly worried about him.
+
+He was barely holding himself together, for one thing. The microscopic cracks in his glasswork had turned into a spiderweb of fractures, and it was clear from the way he trembled that he could barely keep himself standing. He might have shattered already if not for Damien's restorative magic—emerald fire flickered along his cracks, giving him just enough life to keep going.
+
+As far as Damien was concerned, though, that wasn't a good thing. If he hadn't been certain that Phlogis needed the healing to stay alive, he might have held it back in the hopes that the instructor would take the time to rest. Phlogis was pushing himself too hard, too fast, and if he kept going like this there would come a point where his magic would no longer work to heal him.
+
+But the dragonshades kept coming. There was no time to rest.
+
+The two of them stood at the entrance to the bunker that held the bulk of the University's students. They were the last line of defense, so to speak. It was the only way Adam would allow Phlogis to fight at all. In theory, they should have been almost as safe as the students were, but in practice...
+
+Well, either some parts of the defensive line had failed or some of the dragonshades had managed to find a way to sneak past. They had already been forced to fend off two of them, and Damien could sense more already on their way.
+
+It was a good thing his instincts had led him to follow Phlogis, he reflected. If he hadn't, the instructor would likely already be dead.
+
+Though his current condition wasn't all that much better.
+
+"Are you sure you can handle this?" Damien asked, not for the first time. He cast a worried glance over the spreading cracks. "I can take care of the next one, you know. You should take a moment to rest."
+
+Phlogis's answer hadn't changed, unfortunately. "Need to protect students," he said stubbornly. "Cannot rest. Will not rest."
+
+"You're on the verge of collapse," Damien argued. "If you don't rest now, you're not going to be able to help them later."
+
+Phlogis shook his head. "Cannot rest," he repeated.
+
+Dammit. Damien was reluctant to let him keep fighting, but what else was he going to do, force him to take a break? Phlogis was already sagging and had to steady himself with a hand on the wall, but nothing Damien said was getting through to him.
+
+He cast a glance down the corridor, stretching his mana sense as far as he could. There was something off in the distance, but it wasn't close enough yet to cause them problems. That probably gave them... what, about a minute or so before it was here? Their speed was something of a saving grace here—the dragonshades tended to lumber through the corridors at a slow, ponderous pace. That was probably the only reason they hadn't been overwhelmed already.
+
+Cale would stop the Dragonstorm, Damien was sure of that much. A regular mage might have taken decades to study and understand the magic of this era, but Damien was confident that Cale would be able to do it significantly faster. Through sheer volume of mana, if nothing else.
+
+Their job was to last long enough for him to do that. It was a dangerous job, but if they were careful, if they took breaks and swapped whenever one of them got tired, if they took the time to regenerate their mana... No one would have to die.
+
+But Phlogis wasn't listening to him.
+
+"Please?" Damien tried. "Just sit down for a bit, at least."
+
+"Job is to protect students," Phlogis said, glancing back just for a moment to meet his eyes, and Damien was struck for a moment by how profoundly kind they were.
+
+Phlogis was saying that Damien was a student, too. That it was his job to protect them, and he would protect all of them, including the one trying to fight by his side.
+
+Damien could have argued the point, perhaps. He could have said that he was better equipped to fight under the effects of the dragon rain, or pointed out that his mana aspect made him a formidable battlemage in his own right.
+
+Except it didn't matter what he said, did it? Phlogis had made up his mind. He still trembled when he turned to face the next dragonshade, his body on the verge of breaking, but he stood as tall as he could. In his hand he held the makeshift focus that Graystalk had made for him just the day before, and as the shade approached, he cast his spell.
+
+Glass Mimicry. Damien had seen it in action twice already: it was a transformation spell that allowed Phlogis to temporarily take on the form of his opponent, along with all the advantages that came with it and a few extra tricks besides.
+
+It was a surprisingly terrifying spell, especially invoked against a dragonshade. Phlogis's glass shattered and reformed, growing and twisting until he had turned into a sculpture the same size and shape as the dragon that faced them. His claws were the true danger here, though. Each one was tipped with a unique alchemical substance, some made to affect the opponent and others to change the environment. His ability to modify them on the fly meant he had near-complete environmental control, if he so wished.
+
+The sight would have been awe-inspiring if not for the worsening network of cracks spreading throughout his form. The first time Phlogis had cast this spell, his fractures had melted into smooth, crystalline glass. Now he seemed just as bad in this shape as he did in his original, and if the past transformations were any indication, he would be far worse once he turned back.
+
+Damien didn't know what to do. He could keep healing Phlogis, but after a certain point that would no longer be enough; his healing magic was barely keeping up with the physical degeneration as it was. What else was there, though? He was non-confrontational by nature, and it wasn't like he could force Phlogis to listen to him.
+
+Could he?
+
+How did Cale get people to listen to him? Was that something he could replicate? Cale was a force of nature that moved and acted so quickly that people around him had no choice but to go along with whatever he was planning. Damien wasn't sure he could replicate that, although he had probably picked up bits and pieces from him over time.
+
+The dragons clashed again ahead of him, and the dragonshade let out a roar of pain, staggering backward. Raw magic smoked out of its wounds, and its body wavered, like it was on the verge of dissolving.
+
+Phlogis wasn't looking much better, though. There were chunks of glass missing in his form now, and Damien could only imagine the state he would be in once he changed back. He winced and tried to quash his worry.
+
+Nevermind Cale for now. How did Flia get people to listen to her? She had a similar force of personality, but she was a different sort of confrontational and would always speak her mind. Part of that was that she had a strong sense of right and wrong and had no qualms with voicing her displeasure when something violated it.
+
+The problem here was that Damien couldn't really find it in himself to get angry. It was difficult at the best of times, and here he couldn't help but respect Phlogis's determination. The only part of him that was upset was the part that had been training to be a healer, and that—
+
+—Oh. That side of him was pissed, actually. That side of him saw Phlogis as a patient that was deliberately worsening the condition he was in and the strain on his body. At this rate, he would be held together by nothing more than determination and random filaments of the Verdant Flame.
+
+That side of him thought rapidly, then came to a conclusion.
+
+He cast [Decay Web]. Strings of decay mana erupted from the ground around the dragonshade, and Phlogis jerked backward in surprise, probably because this had all started with Phlogis's insistence that Damien not interfere. Damien found he wasn't all that concerned with that at the moment.
+
+"Damien?" Phlogis's voice was hoarse as a result of his injuries and his mana expenditure. He swayed on his feet, then stumbled backward, his transformation snapping away; Damien caught and steadied him before he could fall. "Asked you not to—"
+
+"You're going to rest," Damien said, and this time it wasn't a request. He was surprised by how steady his own voice was. He waved a hand and cast [Decaying Cloud].
+
+[Decaying Cloud, Level 5] [Fourth Tier, Active (Unique)] [500 Mana]
+
+Conjures a cloudlike bed out of any decaying material. The caster may alter the form and solidity of this bed at will.
+
+Damien had developed this spell as a result of what had happened to Izzik. When his friend's neck had been snapped, Cale had enveloped him with mana so thick that it kept him immobilized, preventing the injury from worsening. [Decaying Cloud] was his own attempt to replicate that effect in something like a makeshift medical bed.
+
+In this case, though, it was also an excellent way to hold someone still. Damien pushed Phlogis down into the fluff, then commanded it to solidify around him. The bed was nowhere near strong enough to actually restrain someone that was fighting back, of course, but he didn't actually need to restrain Phlogis. He just needed him to actually listen.
+
+"Enough is enough," Damien said, and there was a sharpness in his voice now that made Phlogis go still. "You almost killed yourself there. Again. You're missing three chunks of glass even after changing back. If you want to protect your students, we're going to need to work together, and that means you're going to rest when you need it. I refuse to be responsible for you tearing yourself apart before we've even had to face the worst of this."
+
+Phlogis stared at him. "But—"
+
+"Your students are just past that door," Damien said. "If you keep going like this, they're going to come out and find you dead. Don't do that to them."
+
+That made Phlogis freeze, his eyes growing wide. Damien hated doing this, in truth, but he needed to do something to get through to him.
+
+"I figured it out," Damien said, his voice a little softer now. "You're under a healing frenzy. Which means it's my job to snap you out of it, understand?"
+
+"Healing... frenzy?" Phlogis hesitated, confused.
+
+"Life magic makes the people under its effects feel invincible, sometimes," Damien explained. He kept one eye on the dragonshade sizzling under his web, but it had been weakened enough by now that it couldn't fight its way out; instead, it was slowly dissolving, turning back into the blood of the dragonrain. "Or it'll make them fixate on whatever gives their lives meaning. It's a temporary thing, but it's a danger of fighting with a healer on your side.
+
+"It's not really a thing that happens anymore, where I'm from. It's a little complicated, but the Law of Life is dead, and life magic has lost a lot of its potency. One of my friends knew about it, though, since he's been experimenting with potions that contain fragments of Life." Phlogis's eyes were fixed on him, and his breathing was becoming more even—that was a good sign. Shock first, then a distraction.
+
+"But the rules are different here. I should have realized it sooner. Life magic still exists, which means healing frenzies can still happen." Damien glanced at Phlogis, who thankfully hadn't tried to escape yet. "Your students mean a lot to you, don't they?"
+
+"Family," Phlogis said quietly. "Lost my master. Lost my meaning with him. Apprentices gave me meaning again. Cannot lose them."
+
+Damien nodded. "We don't know how long it's going to take Cale to stop the Dragonstorm. I know he'll find a way, but it's our job to stay alive until he manages that. We're the last line of defense, remember? If anything happens to us, then any dragonshade that gets here is going to have a free shot at your students."
+
+Phlogis winced, understanding the point. "You are also a student," he mumbled, sounding a little guilty.
+
+"I'm pretty new at all this," Damien admitted. "But I'm still one of Cale's apprentices. Um... I guess that might not mean much to you. Just—I've learned a lot under his tutelage. We deal with this kind of stuff a lot more than you think, you know?"
+
+Phlogis shot him his first skeptical look, startling Damien enough that he let out his first huff of laughter.
+
+"Yeah, I know how that sounds," he said. "It's true, though. Just trust me, okay? We gotta work together on this. I want you to be alive for your students, so let me take over, just for a little bit. You can always take over if it looks like I'm losing?"
+
+A moment of hesitation, then Phlogis nodded slowly. "...Agree," he said, his voice hoarse. "Thanks. Forgot about... how they might feel."
+
+"Well, you know," Damien said. "Healing frenzy and all that."
+
+Phlogis shot him another look, and Damien just shrugged, slightly embarrassed. It had worked, hadn't it? He wasn't actually sure if that was what happened. The symptoms fit, but he wasn't as confident as Cale was in just making those connections and declaring them as the truth.
+
+He understood how Phlogis felt, though. He was worried about the rest of his friends—it was a constant fear now in the back of his mind, the knowledge that he might lose them. They had all come to mean a lot to him. Even Cale, as ridiculous as he was.
+
+Damien wondered if things might have been like this with his father, once upon a time. He wondered where he was now. Did he worry about him, too? Perhaps that was why he'd been forced to forget. It seemed like something he would do, to make sure Damien wouldn't worry.
+
+"We'll protect them together," Damien said finally. "I'll take over for now. You rest so you don't fall apart when I need you."
+
+"Will rest. And will be there when needed," Phlogis promised, and Damien smiled at him before taking a few steps down the corridor.
+
+There, he waited. Already, more of the dragonshades were headed their way, but so far, they seemed well within his ability to handle.
+
+So far.
+
+Damien was under no illusions as to how long that would last. The greatest of the shades would be attacking the University's human instructors. If any of them fell...
+
+That was when things would get difficult.
+
+Instructor Hikari was one of the strongest of the University's mages, although she kept that fact quiet. She had a mind for spellwork, and her chalk was among the oldest and most well-kept of them all. A Fifth Circle spell produced by her chalk had the offensive power of a Sixth Circle spell, and that was before considering her mastery of Galner lines and other such abstractions.
+
+She never boasted about it, though. Her own accomplishments were secondary: what mattered to her was whether she could pass that knowledge on to her apprentices—that would be her legacy, in the end. For all her genius, what she wanted more than anything was to know that the next generation would push the limits of magic even further.
+
+There was a certain irony to it, then, that she had met Cale Cadwell Cobbs and his friends
+
+Hikari did not remember the vision that had led her to make her prophecy. She had to pore over the words instead, to pick apart what might have led her to phrase it the way she had.
+
+Fortunately, she knew herself well.
+
+The strictures of time are yet unwritten. The blood of dragons will spill in greater volumes than ever before, and when it does, the University itself will wither. Take pity on we who preceded you, and know that we are ourselves in truth.
+
+It was a message for their visitors, but she thought it might have been a message for herself as well. Take pity on we who preceded you... "Pity" was not a term she would have used unless she had died in her vision.
+
+Her prophecy was meant to circumvent that future, of course, but gazing at the dragonshade—no, the dragonlord that had tracked her down—Hikari somehow doubted she would escape that fate.
+
+At least the future was in good hands. If these visitors were from the future, as her own prophecy implied and their magical knowledge and abilities implied, then her dream had come true after all.
+
+Magic had evolved. She could be content with that knowledge.
+
+...
+
+That did not, however, mean that she would be content with that knowledge.
+
+The dragonlord stepped forward. Instructor Hikari snapped her fingers and waved her wand.
+
+What a wonderful gift from their visitors, this idea of wands. That it granted them the ability to cast without having to draw a circle was fascinating and merited extensive study. If she never got to it, she hoped her students would; she'd already drafted up several ideas.
+
+For now, though, her study of their guests and their magic had given her a delightful idea. Apparently, Professor Graystalk had a spell that could gather and reform chalk from remnant and residue. Hikari had experimented with this before, but the circle used to gather the chalk always took more chalk to draw than it gathered, and it couldn't affect itself.
+
+Wands, however, let her bypass that limitation entirely.
+
+She had taken care of her oldest and most beloved stick of chalk for decades and had never once used it. The spells she cast with it, in theory, would have a symbolic purity unmatched by any other mage. Without her wand, she would only have had the time to draw and cast a single spell.
+
+With it?
+
+When she waved her wand, the three split pieces of Mirai—she had named the chalk, obviously—drew a final, definitive stroke on three different Fourth Circle spells right as the dragonlord stepped into range. Disintegration, Blood to Stone, and Wall of Flame.
+
+The hallway exploded in a brilliant display of magic. The dragonlord screamed its fury, its scales crumbling or losing their luster before it managed to bring up an array of defensive shields—
+
+—which was when her fourth, pre-drawn spell system triggered, now that all its requisite reagent nodes had been filled with active spells or defensive shields. She'd always wondered if spells could be chained in this way, the result of one spell used as a reagent to fuel the next. It was just impractical to test and took a huge quantity of high-quality chalk. She'd never been able to justify it.
+
+But clearly she had been right, and spells could be chained in that manner. Magic crackled from the spell circle before spreading out into the blood splattered over the hallways.
+
+Then that blood exploded out and wrapped around her, shaping itself into a protective shell of armor.
+
+"This spell will need a name, I believe," Instructor Hikari said. "How about Stormfall Armor?"
+
+"Human arrogance," the dragonlord spat, twirling its spear. "You dare use our magic?"
+
+"And I'm not done," Hikari said simply. "Let us see how many new discoveries I can make today, shall we?"

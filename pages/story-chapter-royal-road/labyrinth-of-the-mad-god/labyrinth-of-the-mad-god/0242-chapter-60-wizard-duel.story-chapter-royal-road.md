@@ -1,0 +1,71 @@
+---
+id: 27541f6f-ce6f-585e-ac2f-28d8aa738064
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60: Wizard Duel"
+slug: 0242-chapter-60-wizard-duel
+partOf: labyrinth-of-the-mad-god
+position: 242
+ownLength: 1504
+unit: words
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2720606/chapter-60-wizard-duel"
+royalRoadId: "2720606"
+---
+
+Three and a half stars, eh? Nick rubbed his chin while pondering the dynamics of this challenge.
+
+In addition to facing off against a caster instead of a warrior, there were several key differences between this duel and his battle with the demon. It was rated a full star higher, which he hoped was due to the restrictions and rules and not just a raw measure of his opponent’s power. Most notably, the falling unconscious loss condition had been removed. If he was knocked out while standing inside the ring, the construct would finish him off.
+
+Before he committed to a course of action, he mulled the matter over while walking along the perimeter of the ring. Facing the demonic warrior had been a brutal brawl, but he had been able to defeat it with a well-timed Sonic Slice. For this challenge, he couldn’t use his weapon or his finishing move, but he wouldn’t have to deal with melee attacks either.
+
+Instead, this would be a contest of spell versus spell—a prospect Nick found undeniably enticing. He had never been in a fight like this before and believed it would be a valuable experience that would help prepare him for the ordeals ahead.
+
+While he wasn’t a pure mage, he had a solid selection of spells at his disposal, including a magic barrier and an attack that could disrupt most types of mana. He had Force Acceleration to help him dodge and a shield that was designed to deflect spells. On top of everything else, his mage sight had grown acute enough that it was sure to come in handy.
+
+He had some reservations about tackling a construct that was a star harder than the last, but he had gained several levels since then and advanced two of his spells. In addition to what this duel might teach him, the rewards were appealing. He wanted that voucher, the CP, and more essence, but he was even more interested in picking up those barrier charms, since they had saved his life multiple times while climbing the Tower of Rizzen.
+
+Nick would be happy to pick up that Uncommon voucher too. He hoped the hardest challenges and events would reward Rare vouchers, since they could be redeemed for buildings that were beyond humanity’s ability to replicate at present.
+
+Tackling a tough opponent was also a valuable opportunity to earn some experience and boost his skills, since unlike his tutorial and the various realms he’d explored during the Fate of Earth quest, there weren’t hostile critters trying to kill him every time he turned another corner.
+
+While this challenge posed a real risk, all he had to do was leave the ring if he got into trouble, and he had his elixir and healing potions if he wound up getting seriously injured. I should be okay unless I get killed in a single shot or knocked out, which is far less likely than simply losing the fight.
+
+In the end, he decided to go for it.
+
+He kept his magic bag on this time, since he didn’t have to worry about his opponent grabbing it and the dimensional storage device had proven to be invulnerable to every attack it had received so far. Combined with his Caster’s Buckler, Nick effectively had two pieces of armor that could protect him from spells to supplement Arcane Shield.
+
+He knew the construct, which he decided to think of as a mage for reference, would spring to life the instant he stepped across the golden ring. So, he spent a few minutes going over strategies to deal with a range of spells while stretching out.
+
+By the time he finished warming up, he was ready to start the fight. Before stepping into the ring, he issued a mental command. The metal vambrace on his left arm fanned out to form a buckler shield—modified to enhance its resistance to magical attacks. Then he conjured a trio of Mana Darts, watching as the radiant silver blades started circling his head.
+
+With that, it was time to get on with the show.
+
+Pulse racing and adrenaline electrifying his nervous system, Nick stepped into the circle and his battle began.
+
+The robed figure turned to face him the instant he entered the arena, like the System had unpaused a video it was in the middle of watching. Just like before, as soon as the challenge began, Size Up started providing information, which he absorbed with a stray corner of his consciousness without taking his eyes off his opponent.
+
+The skill was noticeably stronger now that Nick had invested some points into Psi, offering an impression of his enemy’s combat style in addition to evaluating their attributes. It told him this construct was some type of battlemage instead of a pure ranged specialist. While it didn’t fight with a weapon, it had a decent amount of Toughness and Dexterity to help it dodge attacks headed its way and endure anything that slipped past its guard.
+
+Size Up wasn’t strong enough to provide a detailed analysis of its skills and abilities, but he got the sense the mage was an elemental specialist focusing on ice, earth, lightning, and fire—a polar opposite to his magical path.
+
+As it happened, he didn’t need the information skill to know about the fire part… because the mage had begun casting a fire-aspected spell the instant their battle began. A raging sphere of crackling blaze coalesced in front of the construct and went streaking for his position a fraction of a second later.
+
+Nick visualized his trajectory and sent his Mana Darts flying forth to counter, staggering them by a sliver of a heartbeat while getting ready to make his next move. The first dart sank into the churning flames, diminishing the spell by a fair margin before the pure mana was overwhelmed. His second dart extinguished the fireball like a candle in a monsoon, leaving his third spell free to attack the mage.
+
+The direct counter caught the construct by surprise. The silver wedge almost struck true before the mage threw its massive body out of the way at the last possible second. Nick took advantage of the opportunity to reposition while conjuring two Mana Darts at the same time. Since it’s agile enough to dodge my darts, I’ll have to knock it off-balance before I can hit it, though I doubt it can evade my rays.
+
+The rigorous training he had undergone over the past few weeks let him cast on the move and conjure several spells at the same time. While the construct couldn’t replicate that feat, it was faster on the draw. His mana was still taking shape when the mage completed its spell.
+
+It was another fire attack, but instead of a roiling sphere of flame, this one conjured a quartet of burning bolts. They came streaking toward him along four separate trajectories, forming an attack pattern similar to his own. Since it was a familiar tactic, he knew that even if he dodged one, the other bolts would strike from his blind side, which meant this next part was going to be tricky.
+
+He had already activated Force Acceleration, throwing himself to one side as the first firebolt dove for his head from straight above. It struck the ground five feet in front of him, creating a searing plume of flame that stretched over ten feet into the air. Shit. Those are area of effect attacks. They’re even more dangerous than I thought.
+
+By this point, the next two bolts were curving around to hit him from opposite sides. In addition to dividing his attention, they were positioned to catch him in the blasts even if he dodged them. As he tracked their trajectory, his Mana Darts finished forming. He sent them out on an intercept course—relieved that he had put so much time into improving his visualization and control.
+
+Vermillion met silver as the spells collided and canceled each other out… just as the fourth firebolt emerged through the cloud of smoke the first had created.
+
+He tried to dodge, but the spell adjusted its course midflight, curving around to strike Nick’s chest. Fortunately, the bolt’s behavior was similar to his darts, so he wasn’t caught by surprise. He reached out with his Caster’s Buckler, deflecting the spell into the dirt while casting Arcane Shield and Piercing Ray at the same time. He could feel the heat conducting through the metal, but the buckler didn’t take any damage.
+
+The pillar of flame formed just as his barrier wavered into existence between them. It kept him from taking a direct hit, but the heat was intense, blistering his skin as he started sprinting in the other direction. His burst of speed let him avoid another pair of firebolts the mage had conjured while he was blinded by the flame.
+
+As he ran, he visualized his trajectory and sent his Piercing Ray flying toward the towering construct, which crossed the distance in the blink of an eye.

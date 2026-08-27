@@ -1,0 +1,207 @@
+---
+id: f4c3bafc-e740-51a7-ab9b-21fd94113435
+page-type-slug: story-chapter-royal-road
+title: "3. Devour"
+slug: 0003-3-devour
+partOf: mana-devourer-litrpgmana-cultivation
+position: 3
+ownLength: 2994
+unit: words
+publishedAt: 2024-06-29
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697778/3-devour"
+royalRoadId: "1697778"
+---
+
+[Prolonged contact established. Would you like to drain this creature’s essence?]
+
+It was exactly the prompt he’d been looking for. Markus selected ‘yes’ with a scream of force, all the while clamping himself to the creature’s leg as it tried to kick and flail him off of it.
+
+[Mana Drain initialised. Transferring essence. D Grade Blood Mana, D Grade Ice Mana, E Grade Spirit Mana, and D Grade Life Mana are currently being syphoned.]
+
+The wave of power hit Markus suddenly. He felt it flowing through his fingertips and into his body, emboldening his grip, keeping him firmly locked in place as the creature flailed.
+
+At first, it had seemed annoyed, but now, it was seemingly pained by the transfer, desperate to get Markus off of it as quickly as it could.
+
+[Level up! You have five unspent stat points.]
+
+Markus couldn’t spend any time on figuring out stat points right now, it was taking everything to hold himself in place as he continued to keep the transfer alive, blood spilling all over him from the power he excised, crowd in a state of bedlam, his mind reeling with all of the cumulative strength he drained as his body swelled to a degree of power he hadn’t felt in all of his life, one that made him feel almost superhuman, incredible.
+
+[Mana threshold at 100% capacity. Excess Life and Blood mana will fuel Regeneration and Growth.]
+
+[Repairing injuries. Regrowing severed limb.]
+
+Markus could feel it, the pinkie finger he lost taking shape once more as even still he clung to the bulleater. In an attempt to dislodge him, it jumped, stamping its feet harder as it landed, but the impact still wasn’t enough to shake him. Markus clung like a mountain climber, determined to take all that he could from the great beast, revelling in the feeling of new power coursing in his veins, the rejuvenation from all this boundless energy healing his injuries and reinvigorating his spirit.
+
+[Level up! You have eleven unspent stat points.]
+
+[Warning! Mana capacity exceeded. Body is now entering Overcharge: all physical stats and Growth are increased.]
+
+[Mana Poisoning I in effect.]
+
+In the midst of all the strength he was sapping from the creature, Markus could feel a cloud descending over him. It was like a drunken haze, almost, though it was eclipsed by the strength he continued to gather.
+
+All the while, the monster was now attempting to smash its leg against a barbed pillar to free himself of Markus’ grip, creating new cuts in its massive limb in the process. Whatever Markus was doing to this monster was affecting it so much it’d gladly put itself through pain if only to get rid of him.
+
+He’d seen the system’s warning, but still, he wanted to push further. This was clearly having as many negative effects for the enemy as it was benefits for him, and the longer he could keep this up, the more of a chance he’d have of defeating this monstrosity.
+
+[Level up! You have seventeen unspent stat points.]
+
+[Mana capacity at 386%. Mana Poisoning II in effect. Persistent vitality and mana drains are now in effect.]
+
+It was at this point exactly that Markus was finally thrown off of the creature, flung across the arena at least fifteen feet, his body hitting the ground, bouncing, and subsequently rolling another five feet from the impact.
+
+Still he sprang to his feet in moments. He barely felt it. Not the way he should’ve. Something within him had cushioned the impact. All the while, his energy felt explosive. It was incredible.
+
+He almost tried to levitate his glaive back over to himself if only for how empowered he suddenly felt, only to starkly remind himself that he still had limits and rush over to retrieve his fallen weapon.
+
+It felt lighter in his hands than usual. He swung it with ease. Whatever the fuck mana actually was, it was good shit, and the more of it was out of that monster and residing in him, the more confident he felt about what came next.
+
+“Abomination!” someone cried out from the stands, witnessing him as he stood tall, weapon brandished.
+
+“Ascendant!” came another cry, a cheer. The word seemed to catch attention, as it was met with more boos and jeers.
+
+Markus could hardly pay it mind. He was too occupied with what he still needed to do, the enemy he still needed to put down. He hadn’t gotten a chance to read all those system messages while he was holding on for dear life, but the amount of warnings he saw was enough to tell him that ending this fight quickly was likely in his best interest.
+
+It was only when he twirled the polearm in his hands that he realised they glowed with a faint white-blue aura. His arms did too, perhaps his entire body. He seemed to radiate with resplendent energy, a beacon of defiance in this dark, dismal place.
+
+Must’ve been quite a spectacle if he was getting such a reaction from the onlookers. He only hoped Drathok was watching too, fearful for his prized monster.
+
+He should be scared.
+
+Markus raised his weapon; Markus charged at the monster.
+
+The abominable bulleater seemed focussed on him now, a lot more so than it had been before. It limped a step, then immediately fired more icicles at him. Markus attempted to slash through them once more, not wanting to lose pace, but he missed all five.
+
+For a moment, he felt fear. In his effort to rush the creature’s weak spot before it repositioned, he hadn’t spent enough time on defence. He tried to brace as best he could for the impact, using the same sloppy technique from before to try and focus the energy in his body, but he swelled with so much of it right now that it was like trying to swish water in an overflowing container.
+
+And yet, in spite of his worry, the icicles bounced off of his chest and abdomen without so much as flooring him, feeling more like strong punches than deadly spears, an intense feeling of cold emanating from his chest both before and after the impacts.
+
+A flash of his system notified him that he’d consumed some Frost Mana to mitigate the damage, and that his chest had been inflicted with [Freeze I]. He could tell that breathing had suddenly gotten that bit harder, but it didn’t stop him from running, didn’t halt him in his tracks, didn’t stop him from sprinting straight for the creature’s injured leg and attempting to hack away at it some more, knowing that was his only opening to somehow secure a kill.
+
+The monster raised its leg out of his reach just as he arrived, and ducking under the creature to avoid being trampled once more, Markus saw a new opportunity. He swung upwards with as much strength as he could muster, just barely grazing the bulleater’s underbelly.
+
+It was enough to draw blood, but the creature barely seemed to notice, the bleeding from its stomach slow and incremental, rather than the streams that still flowed from its injured leg. It was softer there, but more durable. It’d take more force than Markus could muster in a few seconds to go for this monster’s centre of mass, and the risk of being crushed under here was definitely far greater.
+
+So he dove onto his stomach and rolled back out, right before the monster could get any ideas about simply sitting on him. As he emerged out into the sun’s glare, he paused, panted for but a second. The sun was almost immediately blotted out by the creature’s head as it leaned down and shot horrific, icy breath down upon him, searing his skin with blistering cold and locking him in place.
+
+[D Grade Frost Mana depleted. Mitigation expired. Freeze II applied to all affected areas.]
+
+[E grade Frost Mana absorbed. Mitigation in progress.]
+
+[Freeze II reduced to Freeze I.]
+
+What the fuck was happening? He was losing the potent D Grade Frost Mana he’d gained from draining the creature, but he was absorbing yet more from being attacked?
+
+He didn’t entirely understand, and he didn’t have time to. He could still move his body, though not fast enough to stop the creature from stooping down and picking him up into its maw.
+
+It was colder in here than a freezer floating in outer space. Markus barely managed to keep hold of his glaive as he was lifted up, its flames the only warmth he had as the creature lifted him up and up into the air, clearly intent on swallowing him whole.
+
+It must’ve expected to inflict a higher level of [Freeze] on him than it did. This was likely how it devoured all of its prey, freezing them and then simply picking them up and swallowing them while they were unable to move or resist. What a gruesome end.
+
+Thankfully, even if it was with extreme and mind-breaking effort, Markus could still move along the icy surface of the creature’s massive tongue, and with half of his body hanging outside of the creature, he swung his glaive with as much force as he could muster directly at the creature’s chin, encased as it was in icy spittle.
+
+A crack, but no greater impact—nothing severed, no blood. He swung again, and while he continued to crack the ice that had so stubbornly formed around the abominable bulleater’s face, he couldn’t cut through it, having no hope of reaching the skin beneath. At the angle he was being held from and with the size of the creature’s jaws, he wasn’t able to push the blade far into the creature’s mouth, but he attempted it nonetheless. It jostled and shook him, clearly alarmed, but attempting to build the momentum for a proper strike from here was pointless.
+
+Things looked hopeless. His attacks were ineffective, even with the extra mobility he’d been afforded. He was going to be swallowed and boiled alive in this creature’s stomach, and there was nothing he could do about it.
+
+Only…
+
+Markus pressed the tip of the glaive to the roof of the creature’s mouth. He channeled the Flame Mana as best he could, just as he had the first time he’d cut the creature’s leg, focussing intently on spreading the flames, the heat. He mirrored the action within his own body, pushing desperately to bring out the fire that still remained inside of him, Drathok’s unintentional starting gift.
+
+Markus pulsed with flames, his body warming to incredible levels, so much so he felt feverish, but still he pushed, forced himself to persevere, to be strong, to be so intolerably flaming hot that the creature would be forced to spit him out.
+
+It was the only way he could think of, the only solution he had, and as the bulleater thrashed and flailed with him in its mouth, attempting to close its jaws and extinguish his life, Markus pushed the blade harder against the roof of the creature’s mouth, forcing it to relinquish its hold, for its tongue to hang limp, and for it to finally, eventually drop him.
+
+Markus must’ve fell seven or eight feet to the ground, winded as he was, all the air forced from his chest. The sand cushioned the blow, but even then, standing was a challenge.
+
+He was sure that before this ability awakened, before he’d taken strength from this creature, he never could’ve been so durable, but here he was, clambering to his feet, forcing himself to stand, using the glaive as a crutch to right himself as he glared up at the impossible mountain that stood before him and dared himself to climb it anyways.
+
+The bulleater was leaned forwards, panting, its maw still barely out of Markus’ reach, dripping water. Most of the ice around the creature’s face had melted away from Markus’ explosive display, and what remained was glistening and slick wet.
+
+He wasn’t sure how damaged it was, but one thing he did know was that his glaive suddenly felt noticeably heavier, as well as somewhat alien in his hands.
+
+[C grade Flame Mana depleted. Imbuement expired. Attunement expired.]
+
+Oh, god… He’d run out entirely? Great. So he was back to being a fucking bozo who barely knew how to use this thing.
+
+He needed to imbue his weapon with something new, fast, or he was fucking toast. He was barely doing damage WITH the enchantment, without it he was truly fucked.
+
+What did he even have? Markus scrambled to remember.
+
+Frost Mana seemed out of the question against this thing, Life Mana might fucking heal it, and who knew what the fuck Blood or Spirit Mana did…
+
+Fuck, why’d he have to run out now?! Fire was so good against an ice enemy. It was practical!
+
+“Grr…”
+
+[Mana capacity at 246%. Vitality levels low. Mana Poisoning II in effect.]
+
+[In order of quantity, D Grade Life, Frost, Mystic, Shock, and Blood mana are available.]
+
+[E Grade Spirit and Frost Mana are available.]
+
+[F Grade Spirit Mana is available.]
+
+Shock Mana…
+
+…Drathok electrocuted me. Right! Thank fuck I got electrocuted!
+
+It was the only thing he was sure might do some damage. According to the system, he only had a small amount of Shock Mana available, 15% of his capacity, but it’d have to do.
+
+[Attune this weapon to an essence?]
+
+The prompt had appeared as soon as he’d committed his focus to the task, and he already knew the process was fast, watching as the blade quickly became etched with new arcane runes that looked unlike the old ones, carving themselves into the weapon as the blade began to spark with magical lightning, threatening and ferocious in its own right.
+
+Still, that 15% didn’t sound like a lot. He wasn’t gonna get a lot of juice out of this weapon, so he needed to use the charge as best he could.
+
+And if he really needed to make it count, Markus had an idea on how to do just that.
+
+It was a risky one. A risk he wouldn’t have taken if the situation didn’t look so dire, but he wasn’t going to find his way out of this without being daring. He’d known that from the start.
+
+And so he took the plunge. Markus squared his feet, his posture rigid, lining himself up with his target as best he could. A spear would be better than a glaive for this, but beggars and choosers. A lot of things would be better than having to do this.
+
+He’d been decent at shot put in school. He’d never tried Javelin. Guess there was no better time to learn than stood face to face with death.
+
+One good shot. That was all he needed.
+
+Markus brought one foot back, aimed with his left, and threw with his right.
+
+Time slowed…
+
+It landed. Hit the creature square in the jaw. Pierced the skin where the icy barrier had already been melted. Electrocuted the bastard for all of the melted ice still pooled around its face. The creature spasmed and jutted with the force of the Shock Mana coursing through it, stumbling blindly, falling onto its side with a monumental thump.
+
+The crowd cheered wildly, while just as many booed and jeered. Markus watched with incredulity, then excited motion as he realised he finally, finally had a chance to kill this thing.
+
+It wasn’t even that injured, but it was exposed. That was all he needed. All he’d hoped for.
+
+He didn’t squander that chance. He sprinted up to the overturned monster, almost stumbling in his haste, retracting the blade from its face and going directly for its neck.
+
+Once, twice, and five times more he stabbed at the creature, not daring to stop until it stopped struggling entirely.
+
+When the monster was finally dead, and the crowd were finally sated, an explosion of notifications graced the exhausted Markus’ eyes, mainly level ups, stat increases, and skill increases.
+
+He slumped, eyes half-lidded. He didn’t attempt to read it all.
+
+Amongst them was a cryptic offer, one he noticed even amongst the shower of text for how much it stood out:
+
+[Devour the Core of the slain creature?]
+
+Markus immediately selected ‘yes’. If he wished to grow strong, he couldn’t hesitate here.
+
+His system erupted in fresh notifications as the core was absorbed into his body, but before he could read even a single word of it, a voice erupted from the stands.
+
+This new voice interrupted the barking of a stunned announcer, one who’d been so adamant he’d die horribly just minutes before, and was now attempting to piece together what the fuck had happened for the sake of the just as confused audience.
+
+This new voice didn’t care. It was louder. More impactful. It carried its weight and strength so naturally that it didn’t even sound magically amplified, that it carried a different kind of force to that of the announcer, who immediately stopped talking.
+
+This was the voice of a god. Markus knew it before he even saw the entity looking down on him from up above, standing inside a fabulous booth that directly overlooked the arena’s chaos. Drathok had said something about gods before, and it’d confused him at the time, but now, seeing this entity stood above him, hearing it speak, he knew within his heart that gods were just as real as demons, and they looked fucking terrifying.
+
+The god waited for silence, and then he spoke:
+
+“You.” The god pointed at Markus. “You appear to have potential. Do you wish for a life beyond this?”
+
+“Preposterous!” another voice sounded from beside the god, just as imposing. “I expressed interest in this one first! How dare you proposition him before me?!”
+
+Before Markus could even react, the arena exploded into a fresh bout of noise, confusion, and chaos.
+
+Maybe getting eaten would’ve been easier.

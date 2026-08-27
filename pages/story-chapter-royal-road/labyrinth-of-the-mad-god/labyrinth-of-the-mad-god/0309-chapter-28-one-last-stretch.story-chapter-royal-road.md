@@ -1,0 +1,99 @@
+---
+id: 0e46a4ad-547e-51f4-9c7f-4cf038634ffc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: One Last Stretch"
+slug: 0309-chapter-28-one-last-stretch
+partOf: labyrinth-of-the-mad-god
+position: 309
+ownLength: 1836
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3354732/chapter-28-one-last-stretch"
+royalRoadId: "3354732"
+---
+
+After Kenji woke him up, Nick stowed his gear and stepped into the Blade World for his daily sparring session.
+
+When their time was up, he stood watch while bouncing ideas off Fritz, learning more about Concepts and skill bonuses while waiting for his friends to open their eyes. The king hadn’t heard of anyone who could remember their trials of mastery and thought the knowledge would come in handy when Nick’s people were ready to draft Build manuals of their own.
+
+“In a similar vein,” the warrior spoke inside his mind. “Everyone in your faction has the Vital Energy Manipulation skill, which should make advancing their abilities considerably easier over time. If you can pass the trial at skill level twenty-five, then share the information with them before they take the test, it will bolster their odds of success.”
+
+“That’s a great idea.” Nick nodded to the crystal device hovering beside his head. “I’m sure that bonus will be valuable, as will advancing Energy Manipulation beyond twenty-five, although we need to rank up our faction first.”
+
+They discussed the matter as he pulled two skillets out of his backpack and cooked breakfast over the campfire, whipping up a massive batch of scrambled eggs and bacon. The ingredients were a gift from one of Aurora’s mages, who had learned to create temporary stasis fields. The spell only lasted for a few weeks but was a major step forward in food preservation, letting him enjoy a taste from home during the early stages of their journey.
+
+The delectable odor roused the others from slumber, and they joined him around the fire. Lurk hadn’t shown much interest in cooked food until now, but when he caught the towering dino eyeing his plate, Nick used the edge to flip part of his meal into the air, and the beast snatched it up in a single bite. She spent a few seconds running the meat and eggs across her palate before swallowing it and grunting in satisfaction.
+
+He tossed her more morsels, making a game out of flinging them and having her chomp them midflight. When they were done, Lurk bumped his chest with her nose, which was terrifying, but also the friendliest gesture she’d offered him thus far.
+
+The former rivals had a ways to go before they would be anything resembling friends, but it was a step in the right direction. He was glad their grudge from the Searing Isle wasn’t going to define their relationship moving forward, as being on the bad side of a multi-ton predator was nerve-wracking to say the least.
+
+When everyone was done eating, Nick put the pot, spatula, and dishes into his magic bag, separated the grease from them with an effort of will, then removed the garbage from his spatial storage and left it for the scavengers.
+
+An hour and twenty miles later, the party came across terrain unlike anything they’d encountered so far. Instead of a tunnel or swath of open terrain, the conduit ran straight up the side of a mountain. There wasn’t a way around, which meant they needed to scale the peak and continue down the other side.
+
+Since the rise was roughly the size of Mount Everest, it seemed they had a day of hiking ahead of them.
+
+They soon learned the mountainside was infested with monsters—aggressive beetles the size of Nick’s fist. However, the creatures were opportunistic scavengers rather than ambush predators. Any inclination they felt toward testing their luck against his team evaporated when he let loose his killing intent, bolstered by an occasional Paralyzing Roar.
+
+He kept an eye out for any interesting resources they passed along the way, adding samples of everything to his bag in case his people wanted mine the materials later. They stopped for lunch around the halfway point before resuming their climb—accompanied by gusts of frigid air blowing from the snow-capped mountaintop above.
+
+When they reached the summit, another surprise awaited their eyes.
+
+Rising from the snow was an alien satellite dish. The bowl-shaped edifice was a mile wide and mounted to extensive scaffolding anchored to the stone below. He spotted a control room attached to one side. Since it wouldn’t take long to reach and explore it, Nick, Kenji, and Bandit decided to climb up and take a closer look while Lurk stood guard at the base of the stairs.
+
+“This is incredible,” the lemur said as they ascended the scaffolding, getting a good look at the bottom of the dish on the way up, and the interior after they crested the rim. “What purpose does it serve, and did your people have anything like this before the Voice arrived?”
+
+“I can’t be completely certain,”” Kenji replied, “since this is magitech instead of electronics, but yes, humanity had lots of installations like this prior to the System. The curved surface passively reflects signals to the receiver—the big metal spike in the middle of the dish—and the ensemble is designed to receive transmissions over vast distances.”
+
+Nick realized the lemur wasn’t following along, so he added, “It’s kind of like a gigantic ear. Instead of perceiving vibrations moving through the air, the dish detects other types of emissions. I’m not sure what kind, but I wouldn’t be surprised if it senses some frequency of magical energy, like how mage sight lets us perceive the mana in our environment. These dishes can be paired with transmitters to communicate with satellites in orbit, creating a global communication grid.”
+
+His explanation left the beast with more questions than answers, and they spent the rest of the climb exploring the basics of orbital physics, communication satellites, and radio transmissions. The subject matter was too advanced for Bandit to absorb everything in one go, but the curious primate was able to wrap his head around a surprising amount of material, and Nick could tell he was filing the rest away to ponder later.
+
+When they reached the control room, the team scanned the area for traps or hidden enemies. After finding nothing of the sort, the trio stepped into a room the size of Nick’s old apartment. Unfortunately, someone had pillaged all the magitech components long ago, but it was interesting to check out the facility.
+
+That was when something unusual occurred.
+
+A message flickered to life in front of his face, stayed there for a fraction of a second, then popped back out of existence like the System had changed its mind. Before it disappeared, Nick read the words on the floating screen.
+
+Incoming transmission detected.
+
+Stand by. The sender is attempting to boost the signal…
+
+“Well now.” Kenji rubbed his chin. “That was unexpected. Let’s stay up here a little longer and see if anything else happens.”
+
+After Bandit let Lurk know they were taking a longer break, the three of them continued their conversation. They soon shifted topics from communication technology to mana shaping and stamina turbocharging in the hopes of advancing more of their abilities over the next few weeks.
+
+Nick’s practice was paying off, and the insights his friends provided were making a big difference. After raising Vital Energy Manipulation, he was having an easier time cycling his stamina and free casting spells from scratch. As a result, he was growing more familiar with the intricacies of his abilities, even the ones he didn’t have enough essence to upgrade just yet.
+
+As he put the pieces together, he had begun to form a mental framework of how magic and combat arts worked, allowing him to take his successes from one area and apply them to his other powers. Going forward, it shouldn’t take me nearly as long to clear the understanding requirements, and fighting monsters in the Labyrinth should provide all the essence I need.
+
+Sure enough, less than an hour later, he had a breakthrough with weaving force and pure mana together, which applied to both Piercing Ray and Arcane Shield. Both spells blended pure and force to create their effects, although there were some significant differences between them.
+
+Piercing Ray was primarily formed from force mana. It provided the kinetic energy powering the ability, created the ray connecting the sphere to his target, and manifested the framework housing the drill’s bit.
+
+The drill itself was formed from interlocking segments of force and pure mana. By itself, pure mana nullified other frequencies of magical energy, which is why Nick’s darts could counter other spells.
+
+However, it could be suspended between other types of mana—held in place by a force that resembled magnetism—although he knew that was just a metaphor his mind could understand and the physics likely operated by another principal entirely.
+
+Regardless of the details, such constructions let pure mana exist side by side with other frequencies, allowing spells to benefit from its magic-nullifying properties without cancelling themselves out.
+
+That brought him to Arcane Shield.
+
+Nick had been analyzing various types of magic barriers over the past few weeks. He had encountered quite a few during his adventures and spent long hours on the march studying every detail he could recall.
+
+He began with the bubbles that let him descend from orbit, moved on to the partitions in the tower’s third floor and the forcefield protecting the Trial Administrator, and finished with the shield the System had built around the Earth and moon with while transporting them to the Labyrinth.
+
+He had also examined every barrier spell his people could use, including Kenji’s Bulwark and the consumable charms he’d been awarded. Most of them used a rigid framework of force mana to produce their effect, although the System’s constructions were so sophisticated he knew he’d only scratched the surface, and the ones employed in the Tower of Rizzen were almost as complex.
+
+While he still had a lot to learn, Nick had seen enough to understand that Arcane Shield was something else entirely. The spell created ribbons of force and pure mana, then wove them together to form a wall that could simultaneously withstand physical attacks and repel incoming magic.
+
+Just like Piercing Ray, Arcane Shield created an energic lattice where the opposing energies held each other in place without coming into contact. If I can figure out the proper balance, I should be able to modify the shape of the field more easily—maybe even adjust the weave to be more effective against specific types of attacks.
+
+While Bandit and Kenji played chess with pieces the strategist had carved himself, Nick lost himself in intricacies of spellcraft. He failed time and again, trying to free cast a tiny shield until he managed to form something stable enough to exist for several seconds before vanishing with a pop of displaced air.
+
+It was only one small step on the long road to mastery, but it was enough for the System to acknowledge his efforts.
+
+Congratulations. You have deepened your understanding of Arcane Shield and cleared the requirements to advance this ability to Rank 2.
+
+Would you like to look at the upgrade options for Rank 2 now?

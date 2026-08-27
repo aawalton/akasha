@@ -1,0 +1,265 @@
+---
+id: 3fd28649-4c6d-5a1d-9378-36887fc1b3f1
+page-type-slug: story-chapter-royal-road
+title: "67 — Book 2, Chapter 15 — Scattered"
+slug: 0067-67-book-2-chapter-15-scattered
+partOf: just-add-mana
+position: 67
+ownLength: 4213
+unit: words
+ownProgress: 4213
+publishedAt: 2025-11-29
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2803472/67-book-2-chapter-15-scattered"
+royalRoadId: "2803472"
+markedReadAt: "2026-06-29T18:49:55.241Z"
+---
+
+There was a nervous sort of silence as the Gift worked. Leo and Damien kept glancing at each other and periodically attempting to bring up the Gift, only to wince when it failed. Cale was...
+
+Well, Cale was busy studying the desks. Some of the Haelforge students wrote fascinating things on their desks when they were bored, apparently. He'd have to remember some of these.
+
+Fortunately, it didn't take that much longer for the Gift to finish piecing those two spells together—a good thing, too, considering how much mana he'd donated to help the process along. Cale hadn't expected it to borrow quite that much mana, but apparently whatever the Gift did was magically intensive. So much so that it had to shut itself down for everyone else.
+
+Hopefully that hadn't caused any significant problems. It was probably at least a little bit his fault, considering the note about how resonance was meant to reduce the cost, but how had he been supposed to know that? No one had told him anything! Besides, that was a bizarrely unintuitive way for the Gift to plug into resonance, though he supposed it made a twisted sort of sense in retrospect.
+
+Hmm. Actually, come to think of it, that did give him some information on how the Gift was structured and why resonance was important to begin with. If it was needed for this process of combining spells, that suggested that the Gift used elemental planes and gods as complex nodes in some sort of vast, impossibly complex divine array.
+
+That brought up new questions, though. For one thing, although he'd already known this, it made Cale even more convinced that the Gift was fundamentally impossible for a mere divine to conceive and create, let alone maintain. The sheer scale of it should have been impossible for almost any entity save for those approaching a Monolith's level of power.
+
+And the average God of Magic wasn't nearly powerful enough to create something like it. Cale had been to realms with similar constructs before, and there was a reason none of them had ever been able to harvest his mana. The fact that this one took to him almost eagerly made him wonder exactly what was at the core of it. Nothing ordinary, he was sure.
+
+He had to admit, he couldn't wait to dive into that mystery.
+
+Unfortunately, it would have to wait. He had far more pressing concerns for the moment, like figuring out what was going on at Haelforge, finishing up with the Red Hunters, and probably taking some kind of nap. Between his "donation", the two spells he'd cast to get them to merge in the first place, the cast of the resulting spell, and all the mana he was donating to the students of Haelforge, he was starting to feel a little sleepy.
+
+He wasn't at risk of collapsing or anything, of course. He'd fought Monoliths. The scale of those fights could cross several realms! But expending too much power at once always made him sleepy, as he'd learned.
+
+Cale briefly wondered if there was something to that. It always seemed like his mana reserves grew after one of those battles, though without any way to actually measure his total reserves he couldn't say for sure. That war probably marked the period in time his power had grown the most, though that was also in part because he spent most of his time in the war...
+
+...Dying.
+
+Cale grimaced, carefully shoved the thought to the back of his mind, then went back to the spell he'd gained. The good news was that it would work! The bad news was that it was stronger than he'd been hoping, which he probably should have expected.
+
+A lot stronger than he'd been hoping. This was going to take some serious work to even use. Finesse had never been his strong suit.
+
+You have learned [Alter Leylines]!
+
+[Alter Leylines, Level 1] [Sixteenth Tier (Unique), Active] [1.0e56 Mana]
+
+Permanently change the leylines of mana that run through the realm and empower its dungeons. Be cautious when using this, for the slightest change in those leylines may cause ecosystems and dungeons to shift.
+
+Note: Approval for this spell has been tentatively granted to Cale Cadwell Cobbs. Approval may be rescinded should significant damage come to Utelia through use of this spell.
+
+Cale hummed at the note, a little surprised. "That's a first. Gift didn't do that before. Did something change?"
+
+The Gift clearly didn't want him casting [Fangs of the Festering Fields], and had even explicitly ordered him not to, but it hadn't threatened to remove the construct from him. The spell was technically a tier lower than [Alter Leylines], but it posed more of a direct threat to Utelia. Why the special treatment for this one?
+
+An update, maybe. Perhaps once he created [Fangs of the Festering Fields], the Gift or its creator had—rather sensibly—realized the necessity of being able to revoke spells and worked it in. Cale wasn't sure if he believed that explanation, though; the Gift seemed to act as something of a neutral force, and while it was certainly willing to express opinions, it never actually acted against the mages using it.
+
+If it was atrocities that were the problem, then the Red Hunters wouldn't have access to it. So something else, maybe? The purpose of the Gift was to expand the limits of magic, or so it seemed. [Alter Leylines] could directly impact its ability to do that.
+
+Alternatively, the Gift placed a restriction on all spells that could potentially affect the realm, but was unable to restrict spells that reached into the Outer Planes. For all its power, [Alter Leylines] acted only within the realm. The Red Hunters exhibited evidence of their magic being Abyssal-touched, so that could explain their freedom...
+
+Bah. Too much to think about. Something there was definitely important, too, but he'd have to file it away for later just like everything else. He was trying to solve a mystery here!
+
+"Praise the Gift, the Gift is back," Leo muttered, his shoulders abruptly relaxing. Then he frowned. "I actually don't know how to feel about that saying now."
+
+Damien breathed a small sigh of relief. "I see it too," he said quietly. "Does that mean you got the spell? Was it the one you needed?"
+
+"Eh, yes and no," Cale answered, wiggling a hand. "Yes, I got a spell, and yes, it can do what I need it to do. No because it definitely can't do that by default. I'm going to need to tweak and weaken it."
+
+"Of course you will," Leo said. He pinched the bridge of his snout, then made a begrudgingly interested noise and pulled out his pencil. "Okay. What does the new spell do? What tier is it? How much mana does it cost? Also, what school of magic would you say it belongs to—"
+
+"Whoa," Cale interrupted, laughing. "Are you documenting my spells now?"
+
+"Well, who else is going to?" Leo said indignantly. "You realize you're practically inventing new schools of magic every time you evolve a new spell, right? Half of your spells could be studied. They could be the foundation of entirely new magical fields!"
+
+"I feel like you're exaggerating a little..." Cale trailed off, mostly because he was pretty sure telling Leo the spell was just going to prove the minotaur's point.
+
+Leo pounced on this like he was sensing weakness. He made direct eye contact, then very slowly pushed up his glasses. "I'm your apprentice. What's. The. Spell."
+
+"You know, most masters don't tell their apprentices all their secrets day one," Cale commented, then laughed when Leo looked utterly horrified at the idea that he might keep his new spell a secret. "Fine, fine. This one is called [Alter Leylines]. It's sixteenth tier. I'm sure you can guess what it does."
+
+Leo made a strangled noise. His pencil, poised to write in his notebook, snapped instead.
+
+"Problem?" Cale snickered while Damien looked between them, confused.
+
+"I—what do you mean, problem?" Leo looked like he wanted to shake Cale. "Sixteenth tier? Altering leylines? Normally I would ask what the limits are, but because of that spell tier and because it's you I'm going to assume there aren't any. But just to be sure—are we talking about the same leylines? The giant rivers of mana running through the continents. The ones that the entire realm depends on?"
+
+"I don't know if I would call them giant rivers..." Cale muttered. Leo's eye twitched so hard he found himself briefly worried the whole thing was just going to pop out. "No, I didn't—I meant I don't know if I would call them rivers, I wasn't questioning the giant part! They aren't that literal, is all!"
+
+Leo took a deep breath, then carefully placed his broken pencil into what looked like a pocket specifically meant for them, then retrieved a new one. Very carefully and meticulously, he wrote down the name of the spell and its tier. "...I think if I ask about the mana cost I might actually get a heart attack," he said. "I'll ask later. When I've mentally adjusted to all this again."
+
+"Probably a good idea," Cale said, looking vaguely relieved. Mostly because he had no idea what to do when his friends were having panic attacks. Enemies and dark lords were familiar territory, but friends? Mana couldn't solve that.
+
+Unless it could. Cale felt like he'd managed to throw mana at a friendship problem at least once. He'd have to keep it in mind.
+
+"Anyway!" Cale said. "Like I was saying, the spell by default does way too much for what I need. I'm pretty sure I can still use it, I just need to weaken it enough to make sure I don't move any actual leylines..."
+
+He squinted at the flow of mana in the room, muttering to himself. With [Alter Leylines] active, he could actually feel the little grooves left in Haelforge's classrooms by the constant flow of ambient mana. They were, in a way, a much smaller version of how the leylines themselves worked—a mark that guided the flow of mana. The spell was meant to alter those marks, it was just meant to alter a much bigger version of them.
+
+So! He just needed to do some minor sculpting with the magical equivalent of a [Meteor Swarm]. That was fine? He could do that. He'd pulled off harder things before.
+
+Or he could just weaken the spell. That was probably the more sensible option, considering the risks.
+
+Right on cue, Damien piped up. "I don't know much about leylines," he said. "Um. Should I be worried? What's supposed to happen if you move a leyline?"
+
+"Nothing good, I don't think," Leo muttered, sighing. "I've read a bit about them. They're supposedly how mana is distributed and recycled throughout the realms. Only about twenty percent of the mana you expend for a spell becomes ambient mana—the rest filters down into the leylines for redistribution."
+
+"Mostly correct," Cale praised absently, beginning to pick away at the spell. He was pretty sure he could see how it worked; weakening it wouldn't be as simple as supplying it with less mana, but he could weaken it.
+
+"Mostly?" Leo looked briefly offended, then remembered who Cale was and rummaged through his bag for a different notebook. "Wait, no. Explain the mostly part."
+
+Cale blinked. "The twenty percent part," he said. "It varies between realms, and it can shift depending on magical activity across the realm. It fluctuates, basically."
+
+Leo nodded, noting this down, but Damien still looked confused. "I don't know what that means?" he said helplessly. "What makes it bad if they're moved?"
+
+"Dungeons," Leo guessed.
+
+"Yep," Cale said. "Leylines are... okay. Think of them as an extension of the system that balances out the Great Realms. I said before that dungeons serve to balance out magic between the realms, right? Leylines are how they're able to do that in the first place. They're what keeps the dungeons connected to the whole system of realms. Almost a miniature version of it, now that I'm thinking about it. They empower the dungeons, let them balance power between themselves, keep it connected, that whole thing."
+
+Leo paused. "Wait," he said. "Doesn't that mean they're somehow connected to the Abyss?"
+
+"Well, yeah," Cale said. "You called them rivers of mana, didn't you? I don't like the river metaphor, but it's pretty accurate if you're talking about their relationship with the Abyss. Magic isn't a closed system."
+
+"But—" Leo sputtered, then shook his head as he crunched through the implications. "If that's true, then that has to be how summoning spells work, right? The ones that reach across the realms. They'd have to pull things through the leylines."
+
+Cale grinned at that, briefly looking away from his spellwork to shoot Leo an approving glance. "Good catch, yep," he said. "That's how good summoning spells work, anyway. Think of it like an incredibly dangerous form of astral fishing! Now, bad summoning spells just try to punch through the realm directly, which comes with all sorts of problems. They're more mana-intensive, you end up with realm contamination, you need a blood sacrifice... oh, hey! I think I got it."
+
+"Got what?" Damien asked blankly.
+
+"How to weaken the spell," Cale clarified, already working at it. He was still in lecture mode, though. "Anyway! Point is, leylines power dungeons, which means if you move them...?"
+
+Damien frowned in thought. "Um," he said. "Dungeons are a huge part of the ecosystems around them. So I guess if you move the leylines and a dungeon withers, it would ruin the environment around them?"
+
+"And worse!" Cale said. Then he coughed, and adopted a tone that was slightly less enthusiastic. "Leyline alteration is dangerous, remember that. Not that I think either of you are about to go off and do that, but still."
+
+"What about the Karmian Well?" Leo asked suddenly. Cale blinked. "You said that the... the Sunken King?"
+
+"Hugh," Cale supplied.
+
+"Right," Leo said. "Hugh. You said that Hugh made some sort of spell that moved all the dungeons underneath Karmia and merged them into the Well. Wouldn't that have involved leyline alteration?"
+
+"It did," Cale confirmed. "It's one of the reasons that spell was so impressive, especially at that tier. There were more restrictions on how it worked, but that's basically one of very few examples where leyline alteration didn't go horribly wrong. It even had a minimal impact on the rest of the realm."
+
+"Minimal," Leo repeated. "But not none?"
+
+"Grand spells like that always have an impact," Cale said. "People were mostly drawn to Karmia by its sheer supply of power, but some were refugees. The spell caused a few dungeon breaks and drained at least one land of its mana. Not too bad, all things considered; Hugh took responsibility and managed to restore balance pretty quickly. I've seen way worse."
+
+Damien winced. "Do we want to know?"
+
+"Absolutely not!" Cale said cheerfully. "Okay, I think I've figured it out. Stand back."
+
+Spell alteration was a bit of a trick. Cale didn't have much experience with casting spells himself, but he did have experience messing with other people's spells, and he'd had enough of a minor obsession to study in-depth how different spells tended to manifest. For ones with an ongoing effect, it was most often a change in the affected mage's aura or core, and for [Alter Leylines] specifically?
+
+It manifested as rivers of power within his core.
+
+Just like leylines! Which meant he could use the spell to modify itself, interestingly enough, and although Cale was worried at first about the scale, a tentative test proved that it was perfectly fine. In fact, it was almost like he was just using the spell for its intended purpose, like it had created leylines in his core or something.
+
+Pfft. What a ridiculous thought.
+
+After about ten minutes of concentration—which felt far too long for Cale, but this was one of the times he wanted to be absolutely sure he didn't make any mistakes—he was confident the spell would do exactly what he needed and nothing more. "Alright," he said. "Stand back. I'm going to change the way mana is supposed to flow through this room, and if there's something hiding here relying on that, it's probably going to wake up."
+
+"Should we prepare to fight?" Damien asked hesitantly.
+
+Cale thought for a moment. "Eh, probably not," he said. "There aren't many things that can hide the way this thing is hiding, and most of them can't fight. They're dangerous in a very different way."
+
+"What kind of way?" Leo eyed the air like it was about to bite him.
+
+"We're about to find out," Cale answered. Which wasn't really an answer, but Cale was pretty sure any of the answers he could have given would have been even more worrying.
+
+So, before Leo could ask anything else, he reached into the grooves that had settled into Haelforge's corridors and yanked.
+
+A knot of power unravelled. Something screeched with a resonance that vibrated through mana itself, making both Leo and Damien flinch and stumble back. Cale didn't move—he just stared into the air intently, watching as something began to tear its way through the veil.
+
+And then it flopped awkwardly onto the desk beneath it.
+
+"Is that..." Leo stared at it. "Is that what you were looking for? It's tiny."
+
+"It doesn't look dangerous," Damien added softly.
+
+"Doesn't it?" Cale raised a brow. "Reach out with your mana sense."
+
+He could see the moment they did. Both of his apprentices shuddered and took an instinctive step back, raising their hands as if ready to blast it. Cale shook his head and stopped them before they could.
+
+"No point," he said. "It's already dying."
+
+It squirmed on the desk as if to prove his point, desperate to breathe. Cale ignored this in favor of studying it carefully, trying to find any evidence that it wasn't what he thought it was. He would really, really prefer that it wasn't. Mostly because he didn't like the implications.
+
+Unfortunately, he was pretty sure it was.
+
+What writhed on the desk had the appearance of a small, shimmering worm, but absolutely wasn't. Cale recognized it well, in part because it registered as wrong to every single one of his senses. Just being near the thing made the magical equivalent of his hackles rise in a way that Abyssals didn't.
+
+Abyssals didn't belong to the Great Realms. This thing didn't belong anywhere. It wasn't supposed to—shouldn't, couldn't—exist. Just like a dozen other things on Utelia.
+
+A very long time ago, it wouldn't have appeared as a worm at all. Its creation would have been celebrated, because it marked the growth of a new branch of Yggdrasil. It would have been carefully cultivated with an assortment of high-density mana until that branch grew into something real and life flourished within.
+
+But Yggdrasil was dead, and so the realmseeds were reduced to this. A husk imitating life, more than anything. They were a fraction of what they were, a representation of the rot that continued to eat away at the former World Tree.
+
+Some of their old elegance remained. Fragments of what would have been the shell of the seed stuck to the worm, gleaming with silver whorls and intricate patterns. But the sense it exuded now was deeply and truly wrong to any mage with a core.
+
+"What is that thing?" Leo asked, shuddering.
+
+"It would have been called a realmseed, once," Cale murmured. "Now it's just what happens when you try to make one. More a remainder than anything else. Or a reminder."
+
+He knelt by the desk, then picked up the now-dying worm. It made sense now that Haelforge's mana flows had been redirected toward it—a malformed realmseed wouldn't survive without a constant flow of ambient mana sustaining it. More importantly, it fed not only on that mana, but on the realm itself.
+
+And there was no place where the veil was weaker than within those flows. These things were aberrant creations now, bound to an older iteration of the Great Realms, an older form of magic.
+
+An older version of the Source.
+
+That was the other reason they were impossible. The corrupted part of the Source had been excised and destroyed, as far as he knew. If these things still existed, and if they had been deliberately seeded throughout Utelia...
+
+Cale crushed the worm in his grip, more to end its misery than anything else. He sighed.
+
+Damien, watching him, bit his lip nervously. "That's not a good thing, isn't it?"
+
+"No," Cale said. "It is not. But I was right about it being important, at least. It's a good thing we found this out now."
+
+"Why's that?" Leo asked.
+
+"Because it tells us that the Red Hunters—or, more likely, their Commander—are creating more of their so-called dangerous wild mages on purpose." Cale felt a sudden exhaustion that had little to do with how much mana he'd expended. "And that tells us their end goal isn't really to get rid of all wild mages. It's just a means to an end."
+
+His gaze lingered briefly on the remains of the realmseed still sitting in his palm.
+
+A realmseed like this, if seeded properly throughout a realm, would warp the leylines just enough to cause more exotic types of mana to leak through. It would affect the birth of every new mage in that realm, making it that much more likely that the mage would be born with a mana core no one else had.
+
+Worse, they enabled the appearance of mana aspects that were connected to that corrupted version of the Source—all the aspects he and the Monoliths thought they'd sealed away. The best option would have been to excise them all, but the ritual to create them was gated more by knowledge than power, which meant these were likely seeded all throughout Utelia. Hunting them all down would be a losing battle from the start.
+
+It didn't mean they were out of options, though.
+
+"But... they hate wild mages," Leo said, his brows furrowing, and from the sudden pain in his voice Cale knew he was thinking about his parents. "Why would they be making wild mages on purpose?"
+
+"That's the question, isn't it?" Cale murmured. "If I had to guess? Whoever's in charge of the Red Hunters is trying to get someone with a specific type of mana core to be born. If I had to make an even more specific guess, then they want a mana aspect that doesn't show up unless the world's in sufficient conflict.
+
+"The more they push wild mages to fight back, the more they'll disturb the realm's mana. The more they do that, the more the problem caused by the realmseeds gets exacerbated, and the more wild mages get born. Eventually, the wild aspects will change to reflect the conflict in the world. You'll get mages with dreamplague cores, mindchain cores, skittersoul cores..."
+
+Leo swallowed, and Damien made a small, worried noise in his throat. It took Cale a moment to understand why. Right—his apprentices weren't exactly used to this sort of thing, were they?
+
+"Do you think that means they're right?" Damien asked quietly. "To be afraid of us, I mean?"
+
+Cale snorted. "They're the cause of this, don't forget," he said. "And any of those mages on their own could learn to control their power. The problem here is that whoever's behind this doesn't care if the realm is overwhelmed with them—you can only teach so many mages at once. This is an apocalypse of their own making and not your fault."
+
+"What are we going to do about all this?" Leo asked. "Please tell me you have a plan."
+
+"Of course I have a plan," Cale said, reaching up to pat Leo on the shoulder. Then he gave Damien a pat as well, just for good measure. "When don't I have a plan? We should head back, though. I need a nap."
+
+"Now?" Leo protested.
+
+Cale gave him a tired smile. "The short of it is that we just need to find what they're looking for and stop them in their tracks. This sort of scheme takes years to execute. It won't change anything in the short term."
+
+"I don't want to do nothing," Leo said stubbornly.
+
+"We're not," Cale said. "Now that we know this, we can hit them where it hurts, remember? And you guys are perfect for it."
+
+Leo and Damien stared blankly. "What do you mean?" Damien asked.
+
+Cale hummed. "The state of the realm impacts the type of core created, remember?" he said. "Everything we do has an impact. Everything. So be yourselves, and I'm sure whoever's behind this is going to get a nasty surprise when they check their data."
+
+Then he grinned. "In fact... I'm pretty sure they will already."
+
+The Red Commander twitched, staring at the report.
+
+There were more wild mages. That was good.
+
+He did not understand why so many born in the last day had, for some infernal-forsaken reason, been granted mana cores related to bread.

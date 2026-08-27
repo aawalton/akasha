@@ -1,0 +1,197 @@
+---
+id: b9b7fd76-bcb6-5da5-8844-c3e83c5bafc9
+page-type-slug: story-chapter-royal-road
+title: "6. Helldog"
+slug: 0006-6-helldog
+partOf: mana-devourer-litrpgmana-cultivation
+position: 6
+ownLength: 3813
+unit: words
+publishedAt: 2024-06-29
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697782/6-helldog"
+royalRoadId: "1697782"
+---
+
+[Hellhound. Essence Attunement: Fire/???. Level: ??. Threat level: Extremely High.]
+
+The dog growled as it sized him up, two horns shooting out from its head radiating in a golden glow, complete with patterns that reminded him of his glaive when freshly imbued. Weird. Very weird…
+
+He didn’t get long to think about it as the dog lunged in his direction. He thanked Heavenly Fuck that he felt well-rested enough to move properly, barely dodging as the creature lunged in his direction and left a fresh crack in the wall right behind him. Voices shot up in the distance, other prisoners roused by the commotion, but he couldn’t see any of them.
+
+He hadn’t paid much attention as he’d been dragged in, as exhausted as he was at the time, but his cell was further along than most and in an apparent blindspot. He wasn’t even sure if a guard would hear all of this straight away…
+
+The dog snarled in his direction, snapping at the air and ducking low to the ground, looking ready to pounce once more. Markus smashed the plate against the wall as it moved closer, scrambling to grab the biggest piece he could and nicking one of his fingers in the process.
+
+Good. He needed it sharp.
+
+Another lunge, and this time, while the dog still missed him, snapping at where his arm had been moments ago with its sharp and ferocious maw, it still managed to brush close enough to him that the hairs on his right arm were seared off by flame. The heat radiating from the creature made him jump back against the bars behind him, cursing and waving his arm manically.
+
+He’d been resting… his mana pool had increased pretty dramatically while he’d been asleep, almost back to its capacity, and while it was G grade, he had a fair amount of Frost Mana at his disposal and a decent idea of how to move it within his body.
+
+He used the few moments he had to try and coat his arms and torso in it. He needed to not burn up instantly just from coming near the creature, or he’d never be able to strike it.
+
+The helldog wasn’t content waiting for him to sloppily reposition his mana, and spat molten flame directly at Markus’ body. He couldn’t dodge a projectile at that speed, he couldn’t even react from this distance…
+
+It hit him straight on. He felt a small measure of flesh within his shoulder beginning to melt away, and shot as much Frost Mana as he possibly could at the impact zone to try and mitigate the damage, but it was already pretty severe.
+
+[E Grade Flame Mana absorbed.]
+
+No clue if that was of any use. Surely this thing was impervious to flames…
+
+He’d lost a chunk of flesh about the size of a grape already, and the pain was spreading from his shoulder and radiating along his whole neck, making it hard to see even see straight, let alone command his body to move.
+
+The dog’s many rows of teeth clamping around his right arm seemed to snap him out of things.
+
+If it wasn’t for the coating of Frost Mana acting as a barrier, he was pretty sure the hound would’ve torn the arm from him in a single bite, but the small measure of protection he’d been afforded kept him from instantly losing his limb.
+
+Nonetheless, Markus fell to his knees, wracked by pain. This wasn’t like the bulleater. He’d thought that thing was fast, but this was no fucking joke. This thing would tear him apart in only a few moments more if he didn’t find a way out fast, and it was almost impossible to stage a counterattack against something that moved so quickly, not to mention its incredibly potent attacks…
+
+Was he really going to allow himself to die here?
+
+Markus sent a pulse of mana through his mangled arm; it was the only way he could make the nerves respond. The dog shook and ragged at his arm as all the while he tried to force enough energy into it to make it move. This was spirit mana. He was using it to make his thumbs and fingers twitch. Each response came with an explosive bout of pain, and he eventually gave up on trying to yank his arm out.
+
+He’d established a connection with the creature. All he wanted to do from this spot was drain it. It was the only way he could think of to turn the tide of this fight, but his hand was nowhere near able to touch it directly, not with how it held his forearm near the elbow.
+
+Markus stabbed forwards with the bit of plate in his left hand, desperate, aiming for the side of the creature’s face. He needed it to let go. He felt like his heart was gonna fucking explode. The pain was intolerable, insane.
+
+The impact caused the creature to relax its jaws, but little more. Markus had burned up his left hand stabbing it in such a manner, and while he just about managed to pull his right arm free after, it was hanging so limp that he might as well have lost it, sizeable chunks of flesh missing, bleeding profusely even in spite of how he continually attempted to freeze over the fresh wounds…
+
+The dog lost focus for a moment, a large tongue lulling from its panting mouth. It licked over the area in which it’d been stabbed, and within moments, the bleeding began to cease. The wound receded into fresh flames, looking partway healed already, and Markus began to wonder just why it was that the entire world seemed to be against him. Had he done something to deserve this torment and struggle? Did the universe just hate him?
+
+He was running low on options. Shooting Life and Blood Mana towards his wounds sounded like the ideal option, but he’d still not figured out how to do that on the fly, and within the tight confines of the cell, he wouldn’t be able to run from this thing for long. His right arm was basically out of commission, and he had yet to try channelling Frost Mana through his left.
+
+Still… first time for everything.
+
+Markus fell to his backside trying to scoop up the rag from the floor. He couldn’t just shoot it out without freezing his hand off. He’d learned from his practice that he still needed a conduit. Channelling as much of his remaining Frost Mana into the miserable material as he could, he attempted to form a ring of icy energy from the rag as he worked his resource into it, knowing that if this had no effect, he’d be fucked, that this was likely his last and only hope at some means of turning the tide, with the alternative being horrific and torturous death at this beast’s claws.
+
+Fuck… why did the thing have to be on fucking fire?! If he could just grab it by the scruff and drain it, then maybe he’d have a fighting chance!
+
+Well, that was what he was banking on. Once he’d poured as much ice into the rag as he could manage, he lunged at the creature, blanketing it in the cool aura and pushing back the flames that surrounded its body.
+
+It looked far less menacing when it wasn’t exploding with fire, but still it rippled with muscle.
+
+Markus threw himself onto its back with no restraint, still burning up as he did so even as he blanketed it in Frost Mana. The rag sizzled as it pressed against the creature’s back, and through the thin surface, Markus pressed his hand against the creature’s skin hard, praying it’d count as prolonged contact, that the system wouldn’t begrudge him using a layer of separation to keep his hand from melting off.
+
+He pressed it down harder and harder, like a patty on a grill, watching as his hand seared with impossible heat, until finally, finally, a new prompt established itself, and Markus screamed his confirmation with such hastened intensity that his voice rang out and echoed through the entire chamber.
+
+[Mana Drain initialised. Transferring essence. D Grade Blood Mana, D Grade Flame Mana, E Grade Spirit Mana, C Grade Life Mana, and A Grade Divine Mana are currently being syphoned.]
+
+At least two other notifications besides that ticked by Markus as the creature growled and thrashed, seemingly pained by the transaction, its horns glowing brighter, its body a furnace, as all the while Markus clung on for dear life, his hand frying as his whole body slowly caught up, his eyes steaming so heavily he could barely see, his balance so precarious that he worried any second he’d fall straight forwards and cook himself on the creature’s flaming back.
+
+[Mana threshold at 100% capacity. Excess Life and Blood mana will fuel Regeneration and Growth.]
+
+He was entering Overcharge again. He could feel it this time as he knew what to expect. The bolster in strength he gained was still enough to make him feel superhuman, but compared to the monster’s power he was still entirely dwarfed.
+
+Holding on was almost impossible. The fact that the fires on the creature’s back began to dim and dwindle after a time was the only thing that stopped him from combusting himself. The healing waves flowing into him from the creature’s blood were doing just enough to offset the constant injuries mounting on him that he could keep himself in this position for just a little longer.
+
+“Just hold on. Just hold on…” He repeated the mantra to himself with what little bit of wherewithal he had left, anything to ground him in the moment, to halt him succumbing to exhaustion. Even with all the new power that flowed into him, he felt ruined by the pain he’d endured, his mind reeling and on the verge of breaking entirely.
+
+As the creature’s horns began to dim, Markus felt a new power flow into him all at once. It was something utterly unlike any of the other mana types he’d previously harnessed. This one was so powerful, so prominent that it threatened to engulf him entirely. And with it, with the A grade Divine Mana that flowed into his body as he kept himself firmly rooted, he felt something beyond simple power.
+
+He felt a command. A spur to violence. An innate desire to hurt… himself?
+
+[Mana threshold at 242% capacity. Mana Poisoning I in effect. Overcharge in effect.]
+
+[Regeneration: 4 >> 8. New path available. 10 Arcana required.]
+
+[Right arm is critically injured.]
+
+The creature finally threw Markus off right as the horns on its head stopped glowing gold, the etchings within them beginning to fade.
+
+He could still feel the echo of Divine Mana within his body as he clattered against the stone floor, attempting to pull his charred body up and to his feet. Even with Regeneration running fully through him, even with it having improved over the course of his fight, he was still very injured, much moreso than he had been in his first fight. He couldn’t take much more damage. His drain attack seemed to have barely affected the creature stood before him, and yet…
+
+It wasn’t attacking him. If anything, the creature seemed to be eyeing him warily. Why the sudden change? Had his attack scared it that much?
+
+When Markus sprang to its feet, the creature lashed forwards, barking manically, but as soon as he hit the wall, it sprang back towards its hind legs, appearing more threatened than bloodthirsty.
+
+Markus panted, fighting for breath as the creature growled before him. Its demeanour was…
+
+Markus tried to take stock of the situation. Of the mana he’d gained from the creature, of what he might be able to do or use from here in order to mount a counterattack. It was only as he began to mentally work through his options and realised that the creature still wasn’t attacking, that he slowly began to realise…
+
+This Divine Mana… it was powerful. Seriously fucking powerful. He could feel an echo of it inside of him at all times, even when usually he couldn’t differentiate the mana types flowing within his body. And even beyond that, he could feel a purpose etched into it. Even now, he felt the innate desire to attack himself, a fervant need that transcended common sense or emotion.
+
+It was only his awareness of its source that managed to quell the power, to still it. He worried that if he were only a touch less cognisant, he’d have fallen into a stupor from only touching this incredible, alien power…
+
+The gears began to turn in his head all at once. That was why the dog was so intent on killing him only moments ago, that was why it seemed so out of sorts now. It’d been charmed! Commanded! Forced to do someone else’s dirty work!
+
+And if the kind of mana used was any indication… he could guess pretty easily what kind of being might be responsible for such an ambush. At this rate, gods didn’t seem much better than demons.
+
+Still, none of this solved the problem of the 300 pound flaming dog stood in his cell with him, looking like it was wondering how the hell it had gotten there. It still seemed incredibly untrustworthy of him. Well ditto. This thing could likely rip him in half with a well-timed sneeze, if what he’d experienced already was any indication, and he really wasn’t looking to get on its bad side.
+
+“Easy…” He held his left hand up, trying his hardest not to invite the creature to bite it off in the process. What else was he meant to do? Stand here stock still for god knows how long as he bled out? He couldn’t make a run for it, because that might spur the creature to attack, but he could hardly approach it either when it looked so defensive! What the hell was his way out of this?!
+
+The helldog stared at him as he spoke, snarling in his general direction. Markus cursed his luck that he hadn’t been given more than cheese, that he didn’t have some meat to throw its way, but he knew he’d have already eaten it if that’d been the case. There was no easy solution. All he could do was study the creature and try to find a way forwards.
+
+“Yeah! I don’t know why you’re here either!”
+
+He used the calmest, softest voice he could. He hoped it’d have some small effect on the skittish, massive creature, but it only seemed to eye him with something between wariness and confusion. Markus moved once more, adjusting his injured shoulder, and it growled once more.
+
+It’s really reactive… is it hurt? How much does it remember?
+
+Markus didn’t risk moving again for a while. The dog stared at him for another couple of minutes, coming up to sniff for a moment, almost making Markus yelp and jump back to avoid the flames, but eventually, it lost interest, sauntering over to a corner of the cell a small distance away and laying down.
+
+It didn’t appear restful. Markus panted and sighed, attempting to adjust to the overheating room as all the while he watched the dog repeatedly lick at its shoulder.
+
+It kept going for the same spot, stalling, then returning to lick it some more. He’d already seen its tongue had healing properties, he’d watched it repair a cut on its face like it was nothing, and yet…
+
+Was it trying to heal a spot it couldn’t reach? Was that why it was so defensive?
+
+Markus attempted to use [Identify] to see beyond the flames, but he couldn’t properly confirm his hunch. All he could think was that the area he’d drained the hellhound from had left a lingering mark, or some other form of pain, and that the creature couldn’t right it due to the angle of the injury, leaving it in a perpetual state of discomfort.
+
+Markus weighed his options. Standing here like this for much longer was gonna cause him to faint. He knew he couldn’t keep on his feet forever. Fainting wasn’t an option. This thing could get hungry any minute and decide he looked appetising. Besides that, the commotion outside seemed to have died down. No one was coming to check on him. Either no guard had heard it, or no one thought the sounds warranted investigation. Not great news for him.
+
+That left two options: try and kill it while it was distracted and not paying him any mind, or somehow attempt to heal the creature.
+
+Usually, he wouldn’t even consider the idea of killing something this tough—the amount of damage he’d inflicted so far seemed pretty pitiful. That being said, now he had an incredible portion of mana floating in his body. If he could make that into a weapon, then maybe…
+
+No. Too much could go wrong, and besides that, it didn’t seem right. Of his two options, either of them seemed about as likely to doom him, so why go for the unfair one? What right did he have to snuff out this creature who’d been forced and compelled to do things it didn’t want to?
+
+The bulleater was aggressive. It’d have always killed him if he didn’t kill it. This was different. This thing was…
+
+Scared. Scared and hurt.
+
+It took Markus time to find the flow of Blood Mana in his body. He couldn’t pin down Life Mana at all. It was too nebulous of a concept for him to grasp. Blood Mana flowed like one might expect, however, rhythmically with the beating of his heart. Gathering it was less of a task than he’d anticipated. If anything, it felt easier to recognise when he was bleeding, and Markus was bleeding pretty profusely.
+
+Once he’d brought enough to bear, he tested trying to push some of it into his mangled right arm.
+
+Mixed results. It didn’t necessarily speed up his healing, but it decreased the pain somewhat. In the background, a notification dinged from his discovery.
+
+Another thing to check later. For now, Markus needed to attempt this before he lost consciousness.
+
+He advanced on the creature slowly, whistling as he did so. He’d thought about rushing it before it could react, but he was sure it’d end in his demise. All he could do was trust in the monster. Any aggressive movements, and he’d abort instantly.
+
+The helldog didn’t lunge for him. Rather it stared at him, flinching a little as he drew incrementally closer, but not rushing back to its feet. Markus was moving so delicately that he felt like a trapeze artist, all the while brandishing the soft aura of the Blood Mana residing in his palm, straining with the effort to keep the power in place.
+
+“Shh… it’s okay…” The helldog barked once as Markus finally got a couple of feet away, flinching hard as he began to lower his hand.
+
+Markus stood incredibly still. Even through the burning sensation emanating from its vicinity, he simply stood and withstood it as best he could, even when his body begged him to pull away. For a good twenty seconds, he remained this way, waiting for the animal to lower its guard.
+
+Not only did the dog relax a little, but the flames around its fur dimmed somewhat, their intensity lowering a fair amount. Did it understand? Was it inviting him to pet it?
+
+Perhaps it was used to affection?. Maybe it simply didn’t consider Markus such a threat anymore. Either way, it laid back down, its heat more akin to that of a boiling kettle than that of a roaring furnace now, though even that was barely tolerable.
+
+Was he really gonna stick his hand in this creature’s fur again? Was he willing to withstand the pain?
+
+Yeah. Fuck it, he’d come this far. May as well see it through.
+
+It hurt less than he anticipated. Maybe the Blood Mana was numbing his hand. The creature flinched as soon as he touched it, but it didn’t attack. The effects of the flow of Blood Mana seemed to pretty instantaneous, and while Markus couldn’t readily choose between grades, he knew that some of the more potent Blood Mana had come from this creature already, and feeding it back was likely doing a decent job of alleviating its ailments, or at the very least dulling the pain.
+
+Markus didn’t entirely know what he was doing. He wasn’t sure if he was healing it really, or simply taking the pain away for a while, but either way, the results seemed to be positive. When he finally pulled his hand away, the mark on the creature’s neck was still there, but the helldog seemed much more relaxed. It didn’t jump to alert, it didn’t turn around and snap at him, and it didn’t otherwise freak out in any noticeable way.
+
+As far as impossible situations and favourable outcomes went, this seemed pretty okay. Markus felt much less worried about the prospect of this thing turning around and attacking him. The next few minutes cemented that, as at once, the dog turned to face Markus, licking his left hand, the one he’d all but fried in an attempt to drain it earlier, then heal it not long after.
+
+In the space of two licks, the helldog undid most of that damage. His hand looked as if it had been burnt weeks ago, and barely hurt anymore.
+
+[D Grade Life Mana absorbed.]
+
+It didn’t take the creature long to notice his mangled arm. Markus didn’t have to ask, the creature healed him automatically, undoing in seconds what natural healing might’ve never accomplished.
+
+Markus stifled a laugh as the creature healed his burning shoulder, as all the while, a shadow crept over the cell door, blanketing them both. He had more than ten notifications to go through from his last fight, alongside a couple of level ups to contend with, but all of those new considerations were put on pause as he looked up to find a familiar face staring down at him, looking faintly amused at the scenario he bore witness to.
+
+It was one of the gods from the arena. The tall one, with features so distinct you could see him from a mile away, and the brightest golden eyes that Markus had ever seen.
+
+He cleared his throat, the helldog instantly freezing in place as he did so.
+
+“Hello, mortal. Perhaps I’ve come at a bad time?”
+
+Oh, right. A bunch of gods wanted to buy his soul, or something. Somehow, in the midst of fighting for his life every damn second since he’d arrived in this fucking hellhole, he’d almost forgotten about that!

@@ -1,0 +1,185 @@
+---
+id: 71608e00-c0e9-5993-b258-da6f30b3db1d
+page-type-slug: story-chapter-royal-road
+title: "747. Old Advice and New"
+slug: 0036-747-old-advice-and-new
+partOf: leveling-up-the-world
+position: 36
+ownLength: 2149
+unit: words
+ownProgress: 2149
+publishedAt: 2023-05-18
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1217375/747-old-advice-and-new"
+royalRoadId: "1217375"
+markedReadAt: "2026-06-29T22:41:24.366Z"
+---
+
+There was no way of telling how Hannah would react upon seeing Dallion. Considering how he’d left, she had every right to be furious. She could shout at him or even toss him out as she’d done with a few customers she didn’t approve of. On the other hand, given her obsession of helping lost causes, she could be glad to see him. Possibly, even if highly unlikely, she might get emotional.
+
+When Dallion stepped into the inn, he was quick to find out. The innkeeper sat at the bar, an annoyed expression on her face. Looking at him as if he’d come a few hours late for work, she poured a glass of amber liquid and slid it to the spot across the counter.
+
+“Thought you might show up,” she poured herself a glass as well. “Didn’t think you’d drop by so soon after Priscord had gone. Then again, you always were reckless. Reckless and stupid.”
+
+Dallion walked up to the empty chair by the glass and sat down. The inn was largely empty. A few of the regulars were finishing their meals. None of them seemed particularly interested in Dallion’s arrival. In fact, the way they were behaving, it was as if they hadn’t seen him at all. There was a time when Dallion would have had questions on the matter. Now, he could see the threads of magic going from the kitchen to each of the people. The spells weren’t something that he recognized—they were vastly different to the Academy magic he had studied—but they were very much active.
+
+“So that was why you were never worried about what could be said here.” He took a sip of the drink. It had a rich taste of mango and peppers. “That’s why you were never worried anything might happen to this place, no matter who won the city.”
+
+“I still have taxes to pay, same as everyone else. But yes, it’s good to have some support.”
+
+“Di not here?”
+
+“I sent her on an errand.” Hannah was quick to say.
+
+“Right.” Dallion took another sip. The drink wasn’t to his taste. “I don’t expect you’ll tell me where Adzorg is? He’s gotten himself in a bit of trouble.”
+
+“Wouldn’t be the first time.” The woman’s expression didn’t budge. “But, no, I have no idea where he’s at. He left the city a while back.”
+
+“And you haven’t kept in touch?”
+
+“I know why you’re here, Dal, so let’s not bullshit each other. And don’t you try anything with that music skill of yours. The captain made sure that no one in the city could find him before he left. He hasn’t “kept in touch” and he hasn’t left me any messages for you.” The woman grumbled. “To think you’d be after him after everything he’s done for you.”
+
+“You did a lot for me. He did the bare minimum, so I fell for his con.”
+
+That was harsh. Even after everything that had happened, Dallion couldn’t deny that it was Nil who’d helped get where he was. If the old mage hadn’t given him the library ring and the echo, it would have been unimaginably difficult to level up as fast as he had. Harp and the other guardians were a serious factor as well, but Nil had provided the initial push.
+
+“I’ll still find him.” Dallion forced himself to gulp down the glass, then took a small aether cube out of his pouch and placed it on the counter. “Consider it a gift with interest,” he said.
+
+The innkeeper looked at the purple object for several seconds.
+
+“I suppose I can use it.” She took it.
+
+“Do you have any free rooms?”
+
+“I’ve kept your old room.” Without breaking eye contact, she finished her entire glass in one go. “No visitors. Everything is as you left it. I made sure.”
+
+“That’s very kind of you, but I don’t think I’ll stay more than a day.”
+
+“I think you should. Might give you a chance to think properly.”
+
+“There’s nothing you don’t know, is there?” Dallion cracked a smile.
+
+“Can’t afford not to. Plus, the overseer told me you’ve entered the city domain. Didn’t take much to know where you’d go.”
+
+So, you have some sort of arrangement with the overseer, don’t you? Dallion thought. By all probability, she had an arrangement with Countess Priscord as well. That was as impressive as it was dangerous. Dallion concentrated, attempting to peek into a memory fragment of Hannah’s. Unfortunately, to no result.
+
+“You’ll have free food and drink while you’re here.” The innkeeper stood up. “See the sights, finish your business, and get out.”
+
+“I thought you’d be glad to see me.”
+
+“I’m glad that you’ve alive. Now, piss off.” That was as much an admission Dallion would ever get. In this case, he wasn’t even sure it was genuine.
+
+“Am I allowed to pass through the kitchen?” he mockingly asked.
+
+There was a momentary pause. It was almost as if Hannah hadn’t considered such a response. Over ten seconds, she stood there, looking at him, then finally nodded.
+
+“Go ahead,” she said. “He could use a break.”
+
+As Dallion put back the chair to its place, he improved it, turning it into mahogany. Anywhere else, this would have served as a warning. Here, he still wanted to impress her. The grunt that came from her suggested he had failed.
+
+That’s a woman who knows what she wants, the armadil shield said. And it isn’t you.
+
+I’d forgotten how talkative you used to be, Dallion replied, making his way to the kitchen.
+
+I have large shoes to fill. Plus, there’s something nostalgic about going back to the place you found me.
+
+The inside of the kitchen was astonishingly bland. Given that mages tended to cover everything with layers of spells and symbols, Dallion expected a decoration or two here or there. Instead, he found that the cook hadn’t made any modifications, not even on himself.
+
+Cooking eggs at the oven, the man was as average as could be. His appearance guaranteed that he wouldn’t be noticed in a crowd. Upon seeing Dallion, though, his form changed, becoming a copy of the otherwordler. Most fascinating of all, there still weren’t any magic runes visible on his being, just the bright glow of inner magic. Witnessing its brightness made Dallion swallow. While not as pure as the Moonstone, the cook’s magic level had to be well over a hundred, possibly even a hundred and fifty.
+
+“Feeling alright, Dal?” the cook asked.
+
+There were many ways Dallion could have responded. However, all he could do was look in awe at the creature. The two had fought a few years ago, resulting in Dallion’s victory. However, seeing what he could see now, Dallion had no inkling of how he had achieved it. Based on what he was seeing, he shouldn’t have even come close. He had known the man was, in fact, a member of the copyette race and, at one time, an emperor who had tried to conquer the entire world, but he had never imagined what level of power that was. Could it be that Emperor Tamin was just as powerful?
+
+“You’re not using magic,” Dallion managed to reply.
+
+“The shapeshifting?” The copy Dallion split in two, each becoming a Dallion wearing a different colored shirt. “It’s not magic. Well, not entirely. I’m using muscles, or my equivalent of them.”
+
+The cook tossed the omelet he was cooking.
+
+“Take a seat. I’m just about done with your snack.”
+
+“Thanks, Pan.” Dallion glanced at the table, yet didn’t move.
+
+“On the go it is.” The cook laughed. “I take it you’re a mage now?”
+
+“Apprentice,” Dallion clarified.
+
+“Not a bad start. That’s the thing about magic—it’s full of exceptions. Unlike the other skills, the more you do, the faster you improve. You’ll be a full mage soon enough, and then the interesting stuff will begin.” He tossed the omelet again. “Before you ask, I can’t teach you any spells.”
+
+“I know. I’m not here for that,” Dallion lied.
+
+He had hoped he could learn a thing or two from the copyette. Unfortunately, seeing how different Pan’s magic was, there was no way he’d be able to match it. All the copyettes Dallion had fought lately in the awakening realms had used modern type magic. The way they had created the symbols was different, but the overall principle could be copied with a bit of imagination. Pan was old-school casting spells as entire threads. If anything, his sort of magic was closer to potion making.
+
+“Where can I find Di?”
+
+“Straight to the point.” One of the fake Dallions sliced a loaf of bread in two, while the other tossed the omelet to him. It didn’t seem like the most elegant sandwich one could imagine, but it wasn’t fully done yet. “Why do you think she isn’t here?”
+
+One of Pan’s forms sliced the omelet sandwich to pieces while the other focused on making a salad.
+
+“Hannah knew you’d come for the kid ever since you joined the Academy,” the cook continued. “Personally, I support your idea. If you don’t take her there, someone else will, and that would only make things worse for everyone. You know Hannah, though.”
+
+“It’s not her decision.”
+
+“Oh? You’ll find out that it is. You brought the kid here to be safe. Taking her off to fight battles against battle-hardened enemies doesn’t fall in that category.”
+
+The sandwich slices were placed on a platter and garnish with a rich salad composed of mushrooms, celery, cabbage, and spicy turnip. The smell alone made Dallion’s mouth water. Clearly, Pan hadn’t lost his touch.
+
+“I still want to talk to her,” Dallion didn’t give up. “Is she in the city?”
+
+“The Academy must have made you stupid.” Pan’s tone changed. “Where would she go outside of the city?”
+
+“Where would Adzorg go?”
+
+“Is that your worry? Adzorg didn’t even know she had magic.”
+
+“Adzorg knows a lot, including everything Hannah does. If she knew, she would have told him.”
+
+“Well, you can rest assured, she hasn’t. The goal was protecting the kid. Going out with Adzorg is more dangerous than going with you, especially with him changing sides.”
+
+You really know everything, Dallion thought.
+
+Officially, no one was supposed to know about Adzorg’s involvement, least of all the southern provinces. The focus there had been the internal conflict and ensuring that each settlement believed that it was on the winning side. It could be argued that the Azure Federation had made sure to spread news of the Academy’s split as quickly as possible, but nowhere was Adzorg’s name mentioned.
+
+“Tell her I need to talk to her.”
+
+“I just told you that I don’t know where she is.”
+
+“You did.” Dallion cast a quick spell, causing the food platter to float towards him. “Just one more thing. What do you know about Moon curses?”
+
+Pan smirked. Unlike Dallion, he hadn’t been cursed with a temporary measure. The entire copyette race had been banished to the realms for what they did when conquering the world. Many of the old races suffered such a fate. What made the copyettes special was that they had at least one member who had managed to break free.
+
+“Curses are like trials,” Pan said, as the fake Dallions merged into one. “There’s always a way out. You just don’t get any hints.”
+
+“You still managed.”
+
+“After trying for a hundred of your lifespans. Besides, even I got help.”
+
+“Help?”
+
+“In theory, the Order might be able to help you. I suspect that isn’t an option, or you’d have gone to them already. Another option is to perform a Moon boon. There’s no guarantee that will cure you, but at least you’ll earn yourself a hint and maybe a reprieve.”
+
+“Who said I’m the one’s got it?” Dallion narrowed his eyes.
+
+“It’s obvious if you know where to look.”
+
+Chills went down Dallion’s spine. If Pan could see it, had anyone else?
+
+“No artifacts that could help?”
+
+“Not from my time.” The cook shook his head. “Maybe the nymphs had something, but I doubt it. Their focus was magic. Ironically, the Star might have known. If you’re lucky, maybe you can find yourself a high-ranking cultist to ask? There haven’t been many of those since you killed the last Star, but they’re still out there.”
+
+A cultist hunt? Somehow Dallion didn’t consider that a good idea. As Nil would say “one thing at a time.”
+
+“Still, since you came all the way here, let me give you a piece of advice you’re free to completely ignore. Try to level up. I think you’ll learn a lot.”
+
+“You’re the second person who’s told me that.”
+
+“It’s your decision.”
+
+“Why? What will I see?”
+
+“That would be telling.” Pan winked.
+
+Of course it would. Dallion sighed internally.
+
+PERSONAL AWAKENING

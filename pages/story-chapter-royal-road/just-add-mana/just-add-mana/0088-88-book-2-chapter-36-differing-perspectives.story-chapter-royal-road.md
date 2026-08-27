@@ -1,0 +1,143 @@
+---
+id: eb96ab42-d1b1-5819-b123-4df09e933d04
+page-type-slug: story-chapter-royal-road
+title: "88 — Book 2, Chapter 36 — Differing Perspectives"
+slug: 0088-88-book-2-chapter-36-differing-perspectives
+partOf: just-add-mana
+position: 88
+ownLength: 2768
+unit: words
+ownProgress: 2768
+publishedAt: 2026-01-17
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2952142/88-book-2-chapter-36-differing-perspectives"
+royalRoadId: "2952142"
+markedReadAt: "2026-06-29T18:50:39.010Z"
+---
+
+"I'm sure you have questions," Cale said quietly after his apprentices finally broke off from him. Flia and Leo both nodded, though Damien seemed less curious and more concerned, and Syphus looked like it wanted to ask things that Cale would probably really not want to answer.
+
+But before any of them could say anything, Icon's presence rose up within Angus. There was an awkward pause as the Monolith hesitated, waiting for Angus to nod his assent; when he did, it took control just enough to speak, its words softer than Cale remembered.
+
+"However," Icon said, "be aware that even now, Cale speaks too lightly of the Planar War. He did not mention the scale of death and suffering perpetuated for each day it continued."
+
+"You don't need to defend me, Icon."
+
+"You will not do it for yourself," Icon said, giving Cale a severe look, and Cale had nothing to say to that. "A thousand realms worth of death and suffering were perpetuated for each day the war continued. I named myself the Icon of Battle for my celebration of the art, and yet even within my domain, that war weighed heavily. If any of you must judge Cale for what he did, then judge those of us that stood by him as well. We are each responsible for the choice that was made, and we would not have him bear that burden alone, no matter how he sees it."
+
+"I'm right here, you know," Cale said tiredly, though he was grateful for Icon's words. This was an argument he'd had with the Monoliths that helped him many times over. "And you weren't the ones holding the axe."
+
+Icon gave him a flat, unimpressed stare, and Cale slowly sank back down and refused to meet its eyes.
+
+"We haven't even said anything," Flia said, crossing her arms over her chest. "In fact, I'm pretty sure I remember our first reaction was hugging him, so I feel like you're worrying about something that isn't happening."
+
+"I do not speak only for your benefit," Icon said, its gaze sliding to Kazza. The lizardfolk had pressed himself far back against the wall, his tail coiled tightly around himself, and though he did his best to hide what he was feeling, there was a very clear glint of fear in his eyes. One that hadn't been there before, even when Cale had demonstrated exactly what he was capable of.
+
+Flia gave Kazza a brief glance and scowled, but she seemed to understand, and didn't press him on it. Instead, she turned her gaze back to Cale.
+
+"So," she said. "That's your big secret, I take it? Will you believe us now if we tell you we still want you back at the Academy to mentor us?"
+
+Cale stared at her, unsure what to say, and she sighed.
+
+"Look, I don't think I'm in any position to say anything about what you did," she said eventually. "If I'm being completely honest, the idea that it even happened is horrifying. It's a scale of death and destruction I can't even begin to imagine. But so is the entirety of the war before it, and I'm not going to stand here and pretend I have even the slightest idea what any of it was like.
+
+"There's a part of me that wants to believe there was a different way," she continued. "I believe you searched for it and couldn't find it. I want to believe that it exists anyway—that there was some other solution that could have saved all those realms—but I'm old enough to know what I want isn't always going to be reality, and either way, I wasn't there to find it. I wasn't there to make the better choices I wish there were.
+
+"So I'm not going to stand here and—what, act like you're a monster for doing the only thing you thought could be done? For trying to stop an untold number of lives from suffering what sounds like an endless nightmare of horrifying bullshit? That's not me. What you did then doesn't change what you're doing now for any of us, and if anything, I'd rather stay close by so if anything like that ever happens again, I'm in a position to do something about it."
+
+Flia had turned her speech into something that was practically a rant by the time she was done, and she glared at Cale as she finished, as if daring him to say something about it.
+
+Cale wasn't sure he could have thought of something to say even if he'd wanted to. He was mostly speechless, which was kind of a first for him. Even Kazza was staring at her, his brows creased with uncertainty, like she'd given him something to think about.
+
+Then Leo raised a hand, timid and hesitant. "Flia's right, I think," he said. "But honestly, all this stuff is too big for me. Maybe I should be horrified or something, I dunno, but I can't even begin to imagine the scale of what you're talking about, and I don't think I should try.
+
+"But... I do read a lot about all kinds of things. I really do like learning, even if it started as wanting a way out of the labyrinth core I'm stuck with." Leo chewed on a pencil, then visibly startled himself as he cracked it open; he spat out the splintered remains with a disgusted sort of glare before gathering himself to speak again.
+
+"The one thing I know about this kind of thing is that the most important thing to do is make sure it doesn't happen again. So I think I care more about that then about what already happened. I dunno if it was necessary or not, but it's more important that no one ever feels like it's necessary ever again."
+
+Leo paused, fidgeted, and then started again, this time visibly uncertain. "And I think, if it's not too hard for you, we should... I mean, if you remember anything about the realms that were destroyed, or you know anything about them, we should try to write it down somewhere? Keep a record of them. I think someone should honor their history and remember them, at least."
+
+Cale blinked. He'd never considered that, somehow. The realms were generally such an impermanent part of his life that constructing any sort of memorial or record always felt out of the question. It was something he could have done if he still had his worldship and branch-hopping was still possible, but with the way he moved between his lives, it hadn't felt possible.
+
+That, and he just generally avoided thinking about that time as much as he could. Leo had a point, though, and with the way different magics and records trickled down through the realms...
+
+"Will you help me do that?" he asked quietly.
+
+Leo smiled at him, awkward but genuine. "Definitely. I've always wanted to write a book."
+
+"Thank you." Cale wasn't sure if he could say that the weight was gone from his shoulders, exactly, or even that it was lighter—but it certainly felt like he was more capable of bearing it now that there were others that knew. Even Kazza's expression was more complicated now, still fearful but no longer quite disgusted.
+
+He turned his gaze to Damien, whose approach was predictably different. The dreadshade seemed more concerned about Cale than about what he'd had to do. "That was really hard for you, wasn't it?" he asked quietly. "I'm sorry you had to do that."
+
+"It was," Cale said, and that admission did make him feel oddly lighter. Some part of him had already known that Damien would accept him, but it was one thing to think it and another to experience it firsthand; the dreadshade wasn't even thinking about blaming him. "I'm not sure it's me you should be sorry for, but... thank you."
+
+"I can be sorry for everyone involved at once," Damien said, like it was the obvious answer. Cale couldn't help but chuckle. He was technically right. "But you're the one in front of me, and you've obviously been torn up about this the whole time. Do you feel better now?"
+
+"Somewhat," Cale said, a touch dryly. "Somewhere between better and feeling like I just confessed to a war crime. Part of me is waiting for the other shoe to drop. Maybe Syphus will decide I'm unforgivable?"
+
+"Actually, I'm pissed at the Lower Branch Cults you mentioned," Syphus said. It sounded genuinely upset in a way Cale had never heard before. "Cowards, the lot of them," it ranted. "Battle magic is supposed to be cool. This war magic you're talking about doesn't sound cool at all. It sounds like stupid shitty cowardice.
+
+"Don't get me wrong, I'm all for scaring the enemy and breaking their morale, but that shit you were talking about? Plagues that turn people on each other, spells that turn your hope against you, fucking torture monsters? That's the type of shit fake dark lords do because they think it makes them scary when it actually just makes them look like sadistic fucking idiots."
+
+Syphus rolled around the room, incensed. "You know Sisyphus told me stories like that when I was three years sapient, and I guess I always thought he was joking, but no, people really are that stupid! I met a guy like that once! You know what I did? I clubbed him to death. With a stick. He didn't deserve to be killed with magic. And now you're telling me whole realms of people were like that? If you gave me the axe I'd chop their stupid fucking branches off myself."
+
+Cale, Flia, Damien, and Leo all glanced at one another, slightly stunned by the sudden diatribe, not to mention the sudden volume of profanity pouring off the golem. It didn't even seem to notice. Once it got going, it really got going. It turned to Cale.
+
+"Were their realms among the ones to be destroyed?" it demanded. "They better have been. They better have been the first."
+
+"I—We don't know," Cale said after he'd recovered. It was almost relieving that someone was reacting the same way he had when he'd experienced it all, but then again, there was every chance that Syphus had been alive during the war, wasn't there? It was old, and a part of Sisyphus's mythology.
+
+After Yggdrasil's death, that entire period—the war and everything that had preceded it—had begun to fade, and most of the realms experienced something of a soft reset. Many of them simply forgot entirely. But the Named were an exception, often remembering bits and pieces like nightmares of a time gone by.
+
+Perhaps some of that had passed on to Syphus, whose anger seemed almost appropriate for a veteran of the war.
+
+"What do you mean, you don't know?" Syphus said, almost glaring at him. Cale shook his head.
+
+"We don't know," he repeated. "I told you that the lower branches sealed themselves off somehow, from travel and everything else. We have no idea what happened to them or if they're still around, but I haven't encountered anyone from any of the Lower Branch Cults since the war, for what it's worth. I didn't include them in the count of the realms I... the realms that were destroyed."
+
+"Good," Syphus muttered darkly. "They don't deserve to be included."
+
+"You are a child of Battle," Icon finally spoke, directing its words to Syphus in a way that sounded oddly impressed. "Perhaps when Angus has settled his duties to his people, I will ask him to attend this Academy you speak of. I should like to see what you are capable of. It seems we see things in much the same way."
+
+That made Syphus brighten. "Deal," it said immediately. "You better keep to that deal, though. And you better come back, too, Cale. Don't think I forgot you were planning to leave or whatever."
+
+"I will," Cale said, snorting at how quickly its mood had turned around. "Don't worry. You guys have convinced me disappearing isn't an option, so unless I just straight up die or something, I'll come back."
+
+"Oh, come on," Leo complained. "Why'd you have to go and say that? That's bad luck. Everyone knows that's bad luck."
+
+"Will it help if I tell you I'll be checking up on your progress when I'm back?" Cale raised an eyebrow.
+
+"...Maybe. I don't know. I need to consult my notebook on superstitions." Leo pulled out the largest notebook Cale had seen from him yet.
+
+"Where have you been keeping that thing?" Cale asked, unable to help himself.
+
+"I usually keep it in my room, but I figured out this morning I could use an upcast [Labyrinth Bolt] to turn the inside of my bag into a labyrinth and make it a storage space," Leo explained.
+
+...huh. Apparently Leo was making much better progress with his magic than he'd let on. Had he wanted to surprise him or something? "Well done," Cale said, impressed. Leo practically preened at the praise, which wasn't even a thing Cale had known minotaurs could do.
+
+It surprised him, how comfortable he was feeling. When he pictured telling anyone about what he'd done, it had always been followed by a long, awkward period of adjustment. Cale was under no illusions as to how people would react, even—or especially—the ones that thought the best of him.
+
+And while his apprentices hadn't universally hated or loved him for what he'd done, they did accept him, and that meant more than he'd thought it would.
+
+"I'm going to learn some baking magic when you come back," Damien told him earnestly. "Or before you come back, if you take too long. That way, when you're back, we can do some baking magic together."
+
+"Oh, now you're just bribing me," Cale said, narrowing his eyes playfully at Damien; after a moment, though, he let up and gave his apprentice a smile. "I'd like that. Thank you, Damien."
+
+Cale straightened, then, and let out a breath. The pocket realm around them was starting to fade, but the wood around them—the strange, mortal caricature of the World Tree that felt painfully oppressive around him, for everything it reminded him of—no longer felt quite as damning, and he found he could appreciate the beauty of this little pocket realm as it faded.
+
+He recognized it, now. Most of it, anyway. This place had once been among the upper branches of Yggdrasil and one of Vital's favorite realms to linger. It was largely empty, and so the Monolith of Life had taken it upon himself to push his powers to their limits. To see what he could make of the plains and mountains and valleys, the forms of life he could conjure.
+
+Even now, his influence remained, lingering enough to shape the formation of a pocket realm.
+
+"Angus," Cale said, glancing at what had once been the Red Knight, and Icon's influence slowly faded until the lizardfolk within was once more peering inquisitively at him. "I know you want to get back to your people, but can you lead me to that temple you found, first? It belongs to an old friend of mine. I'd like to say hi, and I'm going to need his help to find who did this to Icon."
+
+"Of course," Angus said, bowing his head. "I would be happy to."
+
+As if the realm itself could hear them, the pocket realm finally faded away, revealing the sparkling desert that was the Golden Sands. The sun shone bright overhead, with not even the slightest indication that there was once a great storm here, save for an indentation in the sands.
+
+Relief coiled in Cale's chest. Part of him had been dreading some last-minute twist, some reveal that he'd been playing into someone else's hands all along. That had happened time and time again, during the Planar War.
+
+But now there was the proof, shining brightly overhead. The Aspect Cascade was no more, and so the first part of his task, at least, was done.
+
+Next, he would find the Red Commander, who had done all this to Icon. Who seemed to be trying to revive the worst of the Planar War, and to bring its horrors back. He couldn't let that stand, no matter the potential karmic effect. He doubted it would be great if the Commander was who he seemed to be, anyway.
+
+And more importantly, Cale thought that perhaps with this, he finally could put some of the Planar War behind him.

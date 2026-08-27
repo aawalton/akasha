@@ -1,0 +1,101 @@
+---
+id: 295c72b4-c3f6-5647-b771-ba79ba558873
+page-type-slug: story-chapter-royal-road
+title: "Chapter 128: Blight Story II"
+slug: 0169-chapter-128-blight-story-ii
+partOf: labyrinth-of-the-mad-god
+position: 169
+ownLength: 2611
+unit: words
+publishedAt: 2025-05-12
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2274495/chapter-128-blight-story-ii"
+royalRoadId: "2274495"
+---
+
+For the first time since the Crimson Blight had taken control of the shark, Nick remembered what it was to be afraid.
+
+This was a worthy adversary. He would still fight to remake this world in his image, but he would have to proceed with caution. He possessed the element of surprise and had spread his thralls across a significant portion of the globe. Once he finished bending this species to his will, he would rule the planet forever.
+
+By this point, his consciousness was linked to millions of brains, which he could network to process complex projections and abstractions. He was shrewd enough to observe his enemy and devise a plan before launching his attack.
+
+Thus, his next objective was to gather more information. Nick sent his birds flying over the cities, watching through modified eyes that could perceive fine details from miles away. The current rulers of this world were a race of bipedal rodents with thick fur and wedge-shaped faces. Their civilization was vast—governed by laws and economic forces that were presently beyond his grasp. He had to learn more, and the best way to do it was to assimilate one of their kind.
+
+However, he couldn’t afford to reveal his presence in the process—tip his hand and make the rats suspect that something was out of the ordinary. It meant that his first thrall needed to be isolated from others of its kind. Someone whose disappearance would go unnoticed. After weeks of searching, his scouts came across a hermit. An old rat living on a deserted island. Filled with an exquisite sense of anticipation, he struck, then transferred his core into the hermit and claimed its knowledge for his own.
+
+When he peered inside the ratman’s mind, he discovered a complexity of thought that he’d never imagined. He learned that their species was far more powerful than he had believed, with a robust culture and scientific achievements spanning centuries. The rats’ civilization was comprised of hundreds of cities hosting millions of lives, guarded by champions whose combined might was greater than his army of thralls. Their people were protected by thousands of high-level warriors and mages—the strength of a species that had risen above all other life on the planet.
+
+Defeating them wouldn’t be possible using the tactics that Nick had employed until now. If the rats became aware of the blight’s existence, they would rally and destroy him utterly. He needed to weaken them and grow stronger still before his army was ready for an all-out war.
+
+That was when an idea came to him. Perhaps stealth could prevail where strength could not. He began taking the rats over one by one, sending his thralls into their cities to infect thousands within a matter of months while broadening his horizons in the process. He kept his spores dormant for now, so that the rats wouldn’t notice until it was too late.
+
+It was a good plan, but it wasn’t good enough. Eventually, one of their greatest healers realized that something was wrong despite his best efforts. For the first time, Nick lost control of a thrall as foreign magic purged the Crimson Blight from her body.
+
+The rats began scanning their population for his influence, curing the infected along the way. He had no choice other than to let them believe they had succeeded in eliminating the outbreak of an unknown parasite. If he had stood his ground, word would have spread to the capital, threatening to reveal his existence. He reluctantly let thousands slip through his tendrils, but at least the healers hadn’t divined his true nature.
+
+His first taste of defeat was bitter indeed, but Nick wasn’t about to give up. This world was his to command. His to feed from and shape as he pleased. His setback was illuminating but not insurmountable. It just meant that he needed to be careful.
+
+Instead of infecting the citizens of their cities, he would remain on the fringes for now, claiming the outcasts from their society. People with no homes, and no loved ones who would notice when they went missing. He learned many concepts from the rats he assimilated. Emotions and dreams. Subterfuge and misdirection. Strategies and tactics far beyond the primal laws of the jungle that had governed his prior existence.
+
+For long years, Nick waged a war of attrition, building his power from within the shadows. His forces grew stronger by the day—concentrated in the deep wilderness, where no one could witness the dramatic changes his touch had wrought upon the land, sea, and sky. During this time, he came to understand that the only way of securing his victory was to destroy the rats’ seat of power. To kill the master mages, warriors, and healers living in the grand city of Kastilla—the capital of their civilization.
+
+Eventually, his preparations were complete, and he was ready to make his move. His thralls numbered in the millions—with a vanguard of elite beasts he had mutated to become stronger still. At long last, it was time to drive his tendrils through the heart of his enemy.
+
+He gave the order, and his host marched to war. Their first mission was a surprise attack, intended to take the rats’ elite pieces off the board before they understood the scope of the threat he posed. Creatures of every shape and size approached the capital, cutting off all avenues of retreat and reinforcement. Due to his diligent planning, they weren’t spotted until they were only a few miles from Kastilla’s borders. Before the rats could rally their might, Nick’s army struck, engulfing the capital in a living tide of blight-enhanced bodies.
+
+His assault was a masterstroke, killing over half of the soldiers guarding the city in a single afternoon. However, the rats’ elite forces were stronger than he’d believed. He had decimated their army but couldn’t breach the wards shielding their holy sanctum, tower of magi, and royal palace.
+
+His invasion transitioned into a siege—an eventuality that he wasn’t prepared for. When rats arrived from across the continent to save the heart of their civilization, his army was devastated and forced to flee. Now that the ratmen knew what to look for, they hunted his thralls using magic that made it impossible to hide. The Crimson Blight was purged from the continent, and only his strongholds in the sea and costal islands allowed Nick to recover.
+
+The war became a stalemate that lasted for decades. Each time a city fell, the mages purged all life from the region, leaving no foothold for the blight to spread. But it was only a matter of time. Their population was dwindling, and after being driven from the countryside, the rats couldn’t grow enough food to sustain them.
+
+That was when it happened. The pivotal moment that would set into motion a series of events leading to the battle for the body of the man called Nick Henry. In the heart of Kastilla, a greater power was born. An artifact so rich in essence that his core could sense it from a thousand miles away. If he were to consume it, he would have more than enough energy to defeat the rats once and for all.
+
+Fortunately, he had discovered a flaw in Kastilla’s ward network that would let a single entity enter their stronghold unnoticed. His core and its host could pass through, but not his army of thralls. In the end, the lure of the artifact proved too great to resist. He would enter the city alone and feast upon its power.
+
+He approached Kastilla in the body of the hermit, cloaked in a spell he’d devised to shield him from all forms of detection. The thrill of that moment was exquisite. Victory was within his grasp, but seizing it carried the risk of annihilation.
+
+Nick made his way through the city while heading toward the palace, walking down squalid streets where starving rats were living in their own filth. A far cry from the thriving metropolis he had watched through the eyes of his thralls.
+
+By now, he was drawing close. The artifact was located inside the palace—just a few miles ahead. When he made it to the inner walls, he exploited the flaw to get through the wards, then killed a guard, stole her uniform, and hid the body in a well.
+
+He walked unnoticed amongst the defenders, traveling down and down and down until at last, he stood before the vault. To his surprise, it was unguarded, save for a complex lock on the door. The rats must never have considered the possibility that Nick would risk his core to claim the artifact. An act of hubris that would seal their fate.
+
+After altering his body to flow under the door, he could see the relic at last. It was a curved sword sitting in a diamond chest—so resplendent with power that it made every fiber of his being pulse with desire. The blade held more than enough energy to conquer the rats. It would let him spread his spores to other worlds and hasten his ascension by millennia.
+
+He leapt inside the chest and picked up the sword, certain that victory was a hand. The instant that his host touched the blade, his triumph turned to tragedy. A crystal lid fell from the ceiling, trapping him within a prison that was fueled by the sword’s incredible magic. He knew in that instant that he’d been tricked. That the rats had deliberately woven imperfections into their wards and had forged the artifact to cage his core.
+
+He tried to transfer his consciousness into a thrall via magic. It would have cost him a great deal of essence but allowed him to escape. However, the damnable diamond box was shielded against his abilities. If the rats opened it, even for an instant while attempting to destroy him, he would escape and repay their hospitality in kind.
+
+But they never did.
+
+At first, he was confident that he still had the upper hand. He was trapped and unable to control his army, but the sword was every bit as rich in magic as he’d believed. He began eating away at its item core, growing stronger by the bite. Within a few years, he would shatter his prison and resume his conquest of the planet.
+
+But as years turned into decades, Nick realized that the sword was alive. That the rats had infused it with the consciousness of their king—the greatest warrior-mage in the history of their species. Worse, it was developing a resistance to his touch, and consuming each sliver was harder than the last. He had diminished the artifact greatly, but he couldn’t finish the rest.
+
+He realized that his prison was designed kill him through millennia of starvation. That the rats had sacrificed most of their power to remove him from the board. He grew tired and frail as the centuries passed, and his army of thralls reached the end of their lifespans. He had lost the war for this world and death would claim him soon. The wards of his prison had diminished along with the sword, but he was too weak to break through.
+
+As Nick straddled the precipice of oblivion, he heard voices for the first time in eons. A group of rats had discovered his crystal cage, and they had no idea what was trapped inside. They attacked the diamond prison, chipping away the exterior before bringing something capable of breaking through.
+
+A great blast ensued, and he was finally free. He engulfed his liberators, infecting them with the Crimson Blight using the last drops of essence he’d retained. He claimed four new thralls and a host for his core—a grizzled foreman known as Trell.
+
+He just needed to reach the surface, then fall upon a planet burgeoning with unsuspecting life. He’d learned from his mistakes. This time, he would destroy rats utterly, ending their civilization before they knew what hit them.
+
+He sent one thrall to the surface, with orders to flee into the wilds and raise an army anew. The others remained to guard his core, making sure that the way was clear before exposing himself to a world that was certain to have changed greatly during his long imprisonment.
+
+But he had underestimated the willpower of his new host. Trell managed to regain control long enough to cast a powerful ritual, sealing Nick inside the chamber containing his former prison. The spell would only endure for a few decades at most, but Trell’s magic was sufficient to thwart his plans. Nick could sense his army begin its conquest, but he couldn’t escape or direct his forces.
+
+The irony was that even without his guidance, they won. The mutant beasts defeated the rats, who were greatly diminished in this era, and spread the blight across the globe. But trapped beneath the ruins of Kastilla, he couldn’t absorb the energy they harvested. Eventually, meddlers from another planet arrived and purged every trace of his influence from the land, sea, and air, leaving only his host, and the trio of thralls trapped in the sewer alive.
+
+By the time that he’d managed to drill a hole in Trell’s spell, the System had turned the sewers into a dungeon that was isolated from the outside world. By this point, he was starving to death, and the blight-ravaged sword had developed an immunity to his touch. It seemed that both the Crimson Blight and the cursed blade Blightbane would die together—lost and forgotten amidst the bones of a once-mighty civilization.
+
+But then someone entered the dungeon—a member of a smooth-skinned species he had never seen before. When the man defeated his thralls, he used the drops of essence they released to tweak his DNA, offering his core one last chance to escape his doom.
+
+After infecting the man and scanning its mind, he learned that the creature was known as Nick Henry, who was on a quest to conquer the dungeon. In that moment, a new plan was born. He would let the man defeat his old host and think that he’d won, then use his body to spread the blight across a new species—human beings from the planet Earth. He wove himself into the man’s jacket, then entered stasis until Nick left the dungeon and portaled to another world.
+
+His core awoke in a place called the Searing Isle, where Nick was undergoing his tutorial, then slid back into the man’s body. His core should have been able to assume control within a matter of days, without the man ever knowing he was in danger. But then something unexpected happened. Blightbane bonded to the man, granting him a portion of its resistance to the Crimson Blight.
+
+His core’s assimilation was delayed, granting the man time to rapidly advance. As a result, instead of a clean takeover, the blight’s geneline began merging with its host’s. Their power was nearly equal by the time that Nick entered the Tower of Rizzen. By that point, they had merged to the extent where they were a single body with two minds, and the System’s healing was no longer a threat.
+
+It looked like the blight would win in the end, despite the myriad obstacles thrown in its path. But just before the core took control, Nick acquired enough species experience to evolve. The problem was, there wasn’t enough energy for them both. Only one entity would survive and ascend to a higher state of being.
+
+Now it was time to find out who would win the war for the soul of Nick Henry. Nick, or the Crimson Blight.

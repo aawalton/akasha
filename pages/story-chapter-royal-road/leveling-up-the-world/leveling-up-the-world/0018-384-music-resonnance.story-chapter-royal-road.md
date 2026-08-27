@@ -1,0 +1,167 @@
+---
+id: 96fbbc03-0273-581c-a708-885d5309b19f
+page-type-slug: story-chapter-royal-road
+title: "384. Music Resonnance"
+slug: 0018-384-music-resonnance
+partOf: leveling-up-the-world
+position: 18
+ownLength: 2014
+unit: words
+ownProgress: 2014
+publishedAt: 2022-01-23
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/830554/384-music-resonnance"
+royalRoadId: "830554"
+markedReadAt: "2026-06-29T22:40:45.902Z"
+---
+
+So, you’re the grandson that Kraisten keeps talking about, the building said the moment Dallion stepped inside. Good to know that the awakened line is strong.
+
+Thanks, Dallion replied. He was used to chatty objects, though buildings usually gave him enough space when he needed it. That was one of the reasons he spent so much time in the wilderness lately—it was much quieter there.
+
+“Wait till you see my room!” Lin rushed up the stone staircase. “We got a new floor last month. Veil made it for me. It’s really cool!”
+
+“It doesn’t take much to keep you happy.” Dallion wondered since when his brother used words like “cool.” If there was even the slightest indication that Linner had awakened, Dallion would have wondered whether another soul from Earth hadn’t merged with the boy’s being. Since that wasn’t the case, most likely his grandfather had a hand in this.
+
+Linner’s room was on the fourth floor. However, upon reaching the second one, neither of the brothers were able to continue. Standing in the corridor, dressed in a set of simple clothes, the type she used to wear back when Dallion was still in the village, was Gertha—Dallion’s mother.
+
+For several seconds, mother and son looked at each other silently, and during that time weeks of conversations were exchanged. Only they weren’t conversations using words, but rather emotions. Each could feel the other had a high level of music skills. Emotions flashed, almost oscillating between the two. Just by standing there, Dallion knew that his mother was alright, that she had leveled up to a double digit, and even had increased her skills beyond that. The growth of the village, the changes that occurred within it, even the songs Gertha would sing every day… all that and more became instantly known to Dallion, as if he had witnessed it in person. The experience was both unusual and relieving, as if he had a year’s worth of feeling associated with past events, but not the memories of them.
+
+“Dallion, you’re back,” Gertha finally spoke.
+
+Dallion nodded. There was nothing he could think to add.
+
+“You’re just in time for lunch.”
+
+“I’m not hungry,” Dallion lied. A split second later, he felt the resonance of his own lie within his mother. Despite all his skills, this was one person who’d always known if he were telling the truth. “Sure,” he added. “Where are the fishes?”
+
+“Lin will get them.”
+
+“Mom…” the younger brother said, with the annoyance only someone nearing teenage could. “I was going to show him my new room.”
+
+“You can do that after lunch,” the woman said. She didn’t use any music skills in the process, but still managed to convince Linner to do as he was asked. “Let’s go to the dining room.”
+
+“Sure.” Dallion waited for her to lead the way. “He’s not awakened?” he whispered, making sure that she was the only one to hear.
+
+“No. We tried using the awakening shrine, but it wasn’t meant to be.”
+
+“I see. I’ll look into it.”
+
+“There’s no need.” The woman was smiling, but Dallion felt the momentary ring of sadness that came from within her. “I tried, so did the monk of the Order. The Moons have refused to accept him, so he’s to remain as he is.”
+
+That was rather unfortunate. Being an awakened, Dallion couldn’t even imagine returning to his previous life without the skills he had amassed… it would be like going to a world without smell, taste, or color. For Linner, it was all he would ever know.
+
+The dining room was slightly smaller than the one in Dallion’s old house. Then again, back then, it was considered the only room. The kitchen had been small, barely enough to have two people inside, and the bedrooms weren’t much different either.
+
+Dallion’s grandfather was already sitting at the table, drinking a cup of alcohol that Dallion had smelled since entering the building. Seeing his grandson, the old man greeted him with a grunt and a nod, then took another gulp from his cup.
+
+“Dal will be joining us for lunch, father,” Gertha said before filling the man’s cup to the brim again.
+
+“Mhm,” the old man said. He seemed unusually cold for some reason. Given that he too was from Earth, Dallion expected he would be happy to see him. Instead, he could tell the man was quite disappointed. “I think we’ll need more fruit now that there’s one more person.”
+
+“Of course.” The woman agreed. It was obvious that the man wanted to discuss something with Dallion in private. “I’ll be right back.”
+
+Getting the hint as well, Dallion sat in one of the free chairs. The food smelled quite nice. Spending time in the wilderness, Dallion had become accustomed to eating non-awakened rations, but even so, he could tell when something was prepared by someone with the ability. That was probably the reason he enjoyed his mother’s cooking so much as a child—even sealed, she had retained her sense of taste.
+
+“Why did you come back?” the old man asked.
+
+“I thought you’d be happy to see me.”
+
+“Why?” Kraisten frowned. “Because I wanted to have someone to discuss the “good old days” from Earth? I have Aspion to reminisce about the past. Now that he has no power, it’s all he does.”
+
+There was an awkward moment of silence. It was clear that the man couldn’t or wouldn’t talk about any topics of the past, so Dallion had to take the first step.
+
+“Aspian’s sister says hi,” Dallion said. “She’s doing well.” As well as was possible, given the circumstances, at least. “She told me to ask you about what happened when the time was right. Is it right?”
+
+“Probably not. If that’s the reason you’re here, you’ve wasted your time.”
+
+“It’s not the only reason. There’s something I need to discuss with Gloria.”
+
+“That ship has sailed long ago. Maybe things would have been different if you had stayed, but all your interest ended the moment you awakened and came to this place. All you’re doing now is chasing guilt and that never ends well.”
+
+“You should know.” It was guilt that had driven Dallion here, but not the kind the old man was implying. Dallion already knew that there would be no romantic involvement between him and Gloria.
+
+Before the conversation could continue, Gertha and Dallion’s brother returned. On cue, Kraisten went back to assuming the role of local village elder. The conversation quickly shifted to talks of the village, events in Nerosal—though not the catastrophic ones—and reminiscing of memories before Dallion’s departure.
+
+“I saw that the Order is in the city now,” Dallion said casually. “Does that mean they’ve repaired the awakening shrine?”
+
+“It was faster for them to build one in the village proper,” Kraisten replied. “There are always a few monks here now. They’re making sure that everyone has the potential to become an awakened. Quite a few have joined the monastery.”
+
+“That’s good.”
+
+“Mostly, they're here because of your mother. As Dherma’s only double-digit awakened and with music skills, they want to steal her from us.”
+
+“I doubt that, father,” Gertha said in diplomatic fashion.
+
+“You can see it better than me,” the old man grumbled. “They just want to make you a nun, so you go about from place to place and convince the world of the Order’s good intentions.”
+
+Your grandfather has a rather sharp tongue, Nil said. After the events in Nerosal, it had become impossible for Dallion to keep his family history secret, from his echoes and guardians, at least. Did he always hate the Order?
+
+He’s not hating on the Order, Dallion replied. He’s just warning me about them in the only way he could.
+
+Wise words, indeed.
+
+“What about you?” Kraisten shifted the topic of conversation. “What have you been up to? Working in a mending shop in the big city?”
+
+“I was part of a guild for a time. It didn’t work out, so I’m training to become a hunter.”
+
+“A hunter, eh?” the old man remained unimpressed. “Been out in the wilderness a lot?”
+
+“A fair amount.”
+
+“Please be careful out there.” A sense of fear emanated from Dallion’s mother. “Especially since you have a girlfriend now,” she “innocently” let the word slip into the conversation. This definitely caught the old man’s interest. In contrast, Dallion’s brother had become exceedingly annoyed that his mother had hijacked a perfect topic of adventure in the wilderness, for something so trivial.
+
+“Yes, I’m with someone now.” Thanks, mother, Dallion thought. “She’s a hunter, and a forger like you.” Dallion decided it wasn’t appropriate to mention that she was also a gorgon. “We were on a job nearby, so that gave me the time to come visit.”
+
+“What did you do?” Lin grasped his opportunity to get the conversation back on track.
+
+“I was hunting griffins.” Dallion smiled.
+
+“Griffins?”
+
+“Large birds with the body of a lion. Well, half lion, half eagle.”
+
+“And you caught them?”
+
+“No,” Dallion laughed. “The point wasn’t to capture them, just to get something from them. You see, I was in a shade griffins’ lair. These are creatures that used to be sun griffins, but were—” Dallion paused a moment. It had become so normal for him to discuss matters relating to chainlings and the Star that up till now he’d never considered how touchy the subject really was. Just mentioning the words could be potentially harmful, all the more so in a small village such as this. “—changed into something scary. In their current state, they could no longer have young, so they steal the eggs of other griffins so they can raise as their own.”
+
+“Wow!” The boy beamed. “Can you fix them? Make them sun griffins again?”
+
+“Not everything can be fixed,” Dallion’s grandfather said firmly. “Sometimes the best thing is to move on. You father doesn’t try to “fix” the boars who are attacking our livestock, is he?”
+
+“No?” Linner wasn’t sure what the proper answer was, but had a good idea what his grandfather wanted to hear.
+
+“It’s the same with life.” The old man stood up. “I’ll go rest a bit. How long will you be staying?”
+
+“A few days at most,” Dallion replied. “I’ve got another job I must do.”
+
+“Life as a hunter must be interesting,” the old man grumbled, and left the room.
+
+“Things haven’t been easy for him,” Dallion’s mother said once the old man had left. “The changes in the village were faster than he’s used to. And then, there’s his condition…”
+
+“I know.”
+
+Dallion still had trouble understanding the old man. When things were bad, he did everything in his power to help Dallion as much as possible. Now that Dallion had actually made it, he didn’t want to have anything to do with him.
+
+He just wants the best for you, dear boy, Nil said. And in his view, the best is not being here.
+
+So, he did everything possible to help me escape this place? I thought that he wanted me to be free and not get sealed.
+
+Apparently, not. Only he could say for certain, and by the looks of it, he doesn’t intend to tell you.
+
+“So, want to see my room?” Linner urged Dallion once more.
+
+“I will. Is there a place for me to sleep here?” Dallion turned to his mother.
+
+“There’s a room for you. Father was against it, but I always kept a room ready, in case you ever came back. I’ll show you.”
+
+“I can do that!” Linner said.
+
+“Well, have it ready for me.” Dallion winked at his brother. “I just need to go see Gloria for a short while and will be right back.
+
+“Aww.” Linner crossed his arms.
+
+“Don’t be like that,” Gertha chuckled. “Your brother is an important hunter now. Of course, he’d want to see the village chiefs. After that, you’ll be able to show him everything you’ve found.”
+
+“Promise?” Linner looked at Dallion.
+
+“Promise,” Dallion said. “I’ll be back before you know it.”

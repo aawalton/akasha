@@ -1,0 +1,275 @@
+---
+id: 4578aa0f-a94d-541a-b407-28d82141c1c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 — Secrets and Sorcery, Pt 1"
+slug: 0032-chapter-32-secrets-and-sorcery-pt-1
+partOf: just-add-mana
+position: 32
+ownLength: 4066
+unit: words
+ownProgress: 4066
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2587257/chapter-32-secrets-and-sorcery-pt-1"
+royalRoadId: "2587257"
+markedReadAt: "2026-06-29T18:48:39.143Z"
+---
+
+When they arrived back at the dorm, Cale was almost immediately drawn to the labyrinth door that was now mysteriously affixed to the back of his room. "Ooh," he said immediately, impressed. "So that's the door."
+
+It looked identical to the one they'd seen in the labyrinth, so it wasn't the door itself that impressed him so much as the feat of magic it had likely taken to get it there. To do this, Professor Imrys would have had to take a magical spatial anomaly and then somehow convince the academy that it was a part of it; not only that, she would have had to control where it manifested, ensure it was properly warded so that random students didn't wander in, and then layer another ward on top of it so that the labyrinth's creatures wouldn't get out.
+
+That was frankly a ridiculous feat to pull off, especially at a distance. Manifested phenomena like these weren't easy to manipulate, even under ideal conditions; in fact, for most mages, it was outright impossible. Imrys managing it suggested she was either a tier of mage several steps above what Cale had initially assumed or—he figured this was far more likely, at least in her case—that she had access to some truly special artifacts.
+
+Dang. And here he'd been hoping to avoid her questioning. There was probably no avoiding it now if he wanted to know how she'd done this, and he was willing to bet that she'd known that full well when she let him go.
+
+He grumbled to himself, drawing confused looks from the other students. The idea of getting any kind of access to her probably-esoteric artifact vault was too tempting for him to just avoid her. Think of all the things he might learn, all the artifacts he might find!
+
+...That would be a task for tomorrow, though. Cale's Thread of Fate meant he was more or less used to his days being rather eventful, but today had been pushing it, even for him. It was rare that he found himself looking forward to a good night's rest, but, well, here he was.
+
+For now, he brushed his fingers experimentally over the labyrinth door, more to see what would happen than anything else. The ward over it reacted to his touch by flickering to life, drawing mana into a glowing, flickering spiral; it spun around his fingers for a moment, then scattered into twelve distinct runes, turned green, and faded back into the wood.
+
+An enchantment meant to read his mana signature without overloading on it? Clever. It didn't try to read the whole signature, just sampled for particularly esoteric aspects that wouldn't be present in anyone except a true prismatic's core.
+
+The door unlocked with a distinct click. Without any further prompting, it swung open with a groan. Cale eyed the passage behind it with a slight raise of his brow.
+
+It looked like the shadeling corridor they'd encountered in the labyrinth before. It did not, however, feel like the shadeling corridor. His mana sense reacted to it the way it did to the Inverted Spires, albeit to a lesser extent—there was that distinct feeling of oil again, like an aftertaste gone bad.
+
+This time, he recognized the feeling. He'd gotten the exact same feeling back when he first explored the Karmian Well. That meant that the labyrinth had changed somehow, either at Imrys's hand or simply because they'd destroyed the Labyrinth Seed. Fascinating.
+
+Cale thought about the implications of all this for a moment, then promptly took a step back and slammed the door shut. "Nope!" he announced cheerfully.
+
+Everyone stared at him, and Flia was the first to speak. "What do you mean, nope? Is there something wrong with it?"
+
+"Not really," Cale said carefully, because it wasn't exactly a lie. "If anything, it's a delightful mystery. I just meant that we're not doing that right now. Unless any of us want to get caught up in another hour-long adventure?"
+
+Flia, Damien, and Leo all quickly shook their heads. Cale clapped once and grinned. "Good! It's settled then. Labyrinth shenanigans tomorrow, pending Leo's approval."
+
+"Wha—why me?" Leo protested, looking startled at being called out.
+
+"Because you're the one most affected by this," Cale pointed out. "Imrys put this here knowing you wouldn't like it. I mean, she might not have done it on purpose, since she had no way of knowing you'd come to our room, but she did know you were friends with Damien."
+
+He paused. "Point is, we're not going in there until you're comfortable with it," he said. "I think it'd help you, personally. But we'll get to that later, and I'm not here to force any of you to do anything."
+
+"Just to very strongly point us in the right direction?" Flia asked, sarcastic.
+
+Cale grinned at her. "Exactly!" he said cheerfully. "I'm glad we all agree my direction is the right one."
+
+"That's not what I—"
+
+"Anyway," Cale continued, barely even flinching at Flia's exasperated glare. "I figure we wait for Syphus now. If I'm going to tell you all who I am, I don't want to have to keep doing it. You said it should be finishing up class?"
+
+"I think so?" Damien hesitated. "Um. It said it would be done soon, yes. It... it should be on its way now."
+
+"Then we won't have to wait long," Cale said easily. He wandered over to the window right by his bed and peered out of it with interest; he hadn't paid much attention before, but the view from up here was great. He could see both the Starfire Desert and the Petrified Sea from here.
+
+Interestingly enough, the boundary of the two was full of what looked like petrified stone trees that had been half-transformed into crystalline sand. Cale supposed the storms Sternkessel had mentioned intruded a bit into the Sea. Maybe the boundary was decided by two magical storms fighting for dominance?
+
+That sounded cool. He hoped he'd get to see that at some point.
+
+Utelia's sun was finally beginning to set, too. Its light cast the evening rays through prismatic glass, scattering multicolored light in a circular pattern across the center of their room. He turned to admire the design it set on the ground for a moment, made a quick note of it, then turned back to stare up at the sky.
+
+He did this for long enough that Damien eventually noticed he hadn't blinked for several minutes.
+
+"Um..." the dreadshade said. "What are you looking at?"
+
+"I'm trying to find the moon," Cale said.
+
+Damien blinked, evidently thrown off by that answer. "Why?"
+
+"Because you learn a lot about a world based on how messed up its moon is," he explained vaguely. "Or how messed up its moons are, in the cases where it has more than one. It's a Rule. You didn't know that?"
+
+"No?" Damien looked confused. "Was... was I supposed to?"
+
+"I guess it's not very important unless you're traveling the Great Realms." Cale shrugged and pressed his face against the glass, squinting. "It's pretty simple, really. If the moon's just a bunch of blown-up fragments, there's probably a major divinity level mage somewhere in the world, or a monster of equivalent power. If there's a giant crater in it? Moon's probably haunted. If there are glowing cracks in the moon, it's either an egg, or it's haunted. Big ritual circle carved into the moon? Definitely haunted."
+
+"Um," Damien said. "Are... are haunted moons a common problem?"
+
+"Oh, yes," Cale said. "Like you wouldn't believe. It's not really a problem unless you have to visit the moon for some reason, though, in which case I recommend bringing a lot of salt."
+
+"I will... try to remember that?" Damien said the words as more of a question, glancing between Flia and Leo as he did so. Flia had taken over Cale's bed and had her face buried in his pillow—quite literally inside it—and Leo was busy taking notes.
+
+"You should," Cale agreed. "Really, though, most moon types aren't that much of a problem. The real danger is if the moon is alive in some way. Not secretly-an-egg alive, either. If you see a moon with a face, you should probably run. Usually means the world's about to end horribly. A face on the moon is never a good sign, let me tell you. Especially if it's smiling."
+
+There was a long silence where everyone turned to stare at Cale. Cale cocked his head, blinking a few times. "What?" he asked. "Was it the part about the salt? That's just how you fight ghosts."
+
+"No?" Damien said. "It's just that, um..."
+
+He pointed out of the window, where the moon—moons—were finally visible in the sky. Cale turned to stare up at them.
+
+"Oh," he said intelligently.
+
+There were definitely shattered fragments of a moon up there. There was also a moon with a giant glowing green chasm that split it right down the middle, making it look almost like an eye.
+
+The third moon was definitely a face, and it was definitely grinning.
+
+"And no one thought that was ominous?" Cale demanded, turning to look at the others.
+
+Leo huffed. "We grew up with it," he said defensively. "And the world hasn't ended yet."
+
+"That you know of!" Cale rubbed the bridge of his nose and sighed, then turned to the moon and scowled at it authoritatively. "You. Stop smiling."
+
+"I don't think the moon can hear you?" Damien squeaked.
+
+"Don't talk to it," Flia hissed, grabbing him and pulling him back. "You'll get us all cursed! Again! I don't need a second curse, thank you very much."
+
+"Guys?" Leo said. He sounded a little faint. "The moon, uh... the moon stopped smiling."
+
+Flia and Damien's gazes both shot up to the window, where the third moon of Utelia had indeed stopped smiling and was instead now staring straight ahead, lips pressed into a thin line. It even looked a bit like it was trembling.
+
+All three students turned as one to stare at Cale, who was busy dusting off his shirt.
+
+"What?" Cale said. "I bought you a few centuries. You're welcome."
+
+"I... I don't even..." Flia muttered.
+
+Leo let out a heavy sigh and sat down on Damien's bed so heavily that the monster hiding beneath squawked with anger. "I give up," he muttered. "I'm just going to wait until Syphus is here so we can get some kind of explanation."
+
+"Why in the seven infernal realms did Akkau put you in my room?" Damien asked, his tone almost desperate. Cale patted him on the head.
+
+"No idea!" he said cheerfully. "But I didn't think your moons were going to be this interesting. I don't think I've ever seen those three all at once. No wonder Utelia's got so much to offer."
+
+He paused. "Also, I think Syphus is about to arrive," he added, cocking his head toward the door. He got up to pull it open right before the golem knocked, to its surprise, and then he grinned at the four students now in the room.
+
+"I don't explain myself very often, you know," he said. "Consider yourselves lucky. Usually I like to play the mysterious, wandering mage. With a box."
+
+"I don't see a box," Damien said, confused.
+
+"I haven't found a box yet," Cale said vaguely. "But I always find a box. Boxes are very useful tools, you know."
+
+Flia looked skeptical. "Are they?"
+
+Cale nodded, keeping his face perfectly straight. "You'll understand once you're a thousand years old," he said. "Probably. I never counted."
+
+There was a long silence, so Cale moved on before anyone could ask him any more questions about boxes. "Anyway! After that we'll talk about how you can master your respective cores so you can cast Standard Array spells. Don't get me wrong, the Red Hunter philosophy is bullshit, but... we all want to cast those Standard Array spells, right?"
+
+Everyone nodded slowly. Cale smiled brightly.
+
+"Alright then," he said. "My name is Cale Cadwell Cobbs, and every time I die, I reincarnate in another one of the Great Realms, usually with a bunch more mana. That's it. Anyone have any questions?"
+
+Damien found, much to his own surprise, that his first reaction to Cale's explanation was less one of shock and more one of relief. Mostly because his imagination had started going to some truly terrifying places. That stunt with the moon—which Damien still refused to think about in too much detail—had started to make him wonder if Cale was actually some sort of entity from the Outer Planes themselves, slowly driving them to madness.
+
+Compared to that, the idea that he was a reincarnator that reappeared in a different realm every time he died was a lot less worrying. Not that Damien didn't have some concerns, though Cale was quick to wave off the first question everyone had.
+
+"Actually, before anyone asks," he said. "No, I haven't seen any other reincarnators, I don't know why I'm stuck in this cycle, and I'm not answering any questions about what happens to people's souls when they die."
+
+Leo deflated a bit. Flia, on the other hand, was still practically bursting with questions.
+
+"Are you telling us you just get reborn in a different realm every time you die?" Flia demanded. "And you remember everything?"
+
+"It's rather disconcerting, I assure you," Cale said dryly.
+
+"But what happens?" she asked. "Do you have parents? Do you just, what, burst out of a tree?"
+
+"Why would I burst out of a tree?" Cale asked blankly. "I usually show up in a wicker basket delivered by a stork, thank you very much."
+
+Flia paused for a moment. "Are you... lying... about that?" she asked suspiciously.
+
+Cale beamed and said nothing.
+
+Damien, meanwhile, was mostly ruminating on what that must have been like for Cale. The idea was almost overwhelming for him—he had a hard enough time adjusting to life at the Brightscale Academy. Doing that again with every life, adjusting to new people and new cultures, across different realms? It sounded exciting, but he couldn't imagine going through it himself.
+
+It did explain everything strange about Cale Cadwell Cobbs, though.
+
+In retrospect, it wasn't like Cale had tried to hide any of it. He'd been open about the fact that he'd been to other realms from the very beginning. That meant he'd encountered dreadshades in those other realms, too. The Sheriya he'd mentioned, for instance, who had created new spells by partially attuning her decay aspect—she must have been from one of those other realms.
+
+And that knowledge felt... strange.
+
+Most species were commonplace across the Great Realms; they knew that just because of the records they'd found in dungeons. Certain things kept recurring in patterns—species, some basic aspects of culture, language. The running theory was that mana itself influenced the development of civilization and vice versa, making it far easier for similar cultures and species to develop across the realms.
+
+Dreadshades were something of an exception. Records of them were few and far between, and every record that had been found so far indicated there were never more than two dreadshades in any given realm. It was part of the reason he'd given up on finding other methods to manage his power.
+
+The other part was the memory-lock in his head. Damien winced a little—even thinking about it made his head throb—and as he did, Cale looked over at him. There was something in his eyes that told Damien he might know whatever was behind that memory-lock.
+
+"...So," Cale said. "Now that that's all settled—"
+
+Had it all been settled? Damien had no idea. He'd stopped paying attention for a bit.
+
+"We should start talking about how each of you is going to work on your magic," he said. "Damien's up first. Damien?"
+
+Damien blinked, then stepped forward, more out of habit than anything else. He stood there awkwardly for a moment, unsure what to do.
+
+"Question for the class," Cale said. "What's a mana aspect?"
+
+That took him a moment. "The magical embodiment of a concept?"
+
+"Close!" Cale grinned. "I mean, that's most of it, yes, but it's not the whole picture. Think about Leo's labyrinth aspect, for example—what does it mean to have a labyrinth aspect? What would a hypothetical [Labyrinth Bolt] do?"
+
+Leo frowned slightly, not entirely happy with being used as an example but willing to go along with it. "Mana aspects exist at different levels of abstraction," he said. "Higher levels of abstraction tend to be more specific. Labyrinth mana embodies the ideas of navigation, redirection, entrapment; you could make a [Labyrinth Bolt] variant out of any of those, but the strongest spellforms would embody the concept fully."
+
+"Good," Cale said approvingly. "Higher levels of abstraction also tend to be harder to attune, because they embody so many other concepts within them. That's not the problem Damien has, though."
+
+Damien winced slightly. He'd been afraid of that. "What... um, what do you mean?"
+
+"I mean that decay mana isn't really a high-abstraction aspect." Cale tapped the side of his nose knowingly. "It's not a low-abstraction aspect, either. You probably know this already—decay is one of the primordial aspects. That's the reason it can't be fully attuned."
+
+"R-right." Damien hoped Cale wasn't about to tell him he would never be able to heal.
+
+"So," Cale said. "How much do you know about decay?"
+
+Damien blinked at him, thrown slightly off-balance by the question. "It... decays things?" he offered, wincing as he spoke. That wasn't a good answer. "It makes them rot."
+
+"Sure, but what does decay represent?" Cale asked, leaning forward. "A primordial aspect represents a fundamental force. Decay is a lot more than just organic decay. When you do a partial attunement, you're reaching into one of the mechanisms that allow the Great Realms to run the way they do.
+
+"You've spent most of your life thinking of decay as something destructive." Cale's voice became a little more gentle. "But it's much more than that. Even when it's rot, decay plays into the life cycle of every ecosystem. What would happen to a realm without decay, do you think?"
+
+"It would be overwhelmed," Damien said quietly.
+
+Cale nodded, then gave him a pat on the shoulder, where he was still wearing his Manamorphic Cloak. "You're afraid of your aspect," he said. "I understand why. But attunement relies on understanding, and if you don't fully understand your aspect, it's going to be very, very hard to attune it to anything else. Now, all that said..." Cale beamed. "Mind if I use a spell on your cloak?"
+
+Damien blinked. "Um—a spell?" All of Cale's spells seemed incredibly destructive, so that seemed like a bad idea.
+
+"[Identify Artifact]," Cale clarified. "I want to figure out the nuances of how the artifact works and see if there's a way for me to make it work with your needs."
+
+"You're sure you won't destroy it?" Damien asked tentatively. [Identify Artifact] seemed harmless enough, but he'd also seen what Cale had managed to do with [Decay Bite], and he wasn't sure he was going to get that memory out of his head anytime soon.
+
+"Mostly!" Cale paused. "I'll get you another one if I break it?"
+
+"...Sure." As much as he hated to admit it, he wasn't making as much progress with the Manamorphic Cloak as he might have hoped. He couldn't help feeling nervous as he slipped it off his shoulders and handed it to Cale, though.
+
+Akkau probably wouldn't be happy if Cale destroyed it.
+
+"This should only take a moment," Cale said. He waved a hand over the cloak—
+
+—there was a moment where Damien once again felt Cale bringing an incredible, dizzying force of mana to bear, though it lasted for only a second—
+
+—and then suddenly the Manamorphic Cloak was shimmering. Damien stared, wide-eyed, at the clear sense of power it gave off.
+
+"Weird one," Cale said, squinting at whatever message the Gift had sent him. "Something called [Awaken Artifact]. Comes with a lot of limitations, apparently? But it's tier twelve—"
+
+Tier what.
+
+"—and it lets me tune and awaken an artifact, allowing it to be used for spellcasting." Cale grinned. "Can't use it too often, and I probably shouldn't let Imrys know I have this, but this is cool. Wanna know what your new artifact does?"
+
+Damien felt a bit mortified, in large part because he didn't know if he deserved something this valuable. An awakened artifact that could cast spells? If this got out to anyone else in the academy, he couldn't imagine what they might do to have it. Even Flia and Leo looked a bit jealous.
+
+The other reason he felt a bit mortified was because he was actually kind of excited. He nodded slowly, and Cale fastened the cloak back over his shoulders in a grand, sweeping gesture.
+
+"The good news is, this thing was amazing even before I awakened it," Cale said. "Akkau really pulled out all the stops for you. Attunement artifacts are rare, and ones that don't come with like thirty side effects are even rarer. This one didn't have any, so awakening it doesn't worsen them.
+
+"When I awakened it, I gave it the ability to capture different aspects of mana." Cale was wearing a self-satisfied grin. "It's still going to help you attune, but now that's just the first step. The next step is its ability to split any mana you partially attune into decay mana and your attuned mana. It's going to store that separated mana for you and work as a sort of battery pack, which will let you cast both Standard Array and partial attunement spells when needed.
+
+"Of course, you're going to need to bond with it." Cale gave Damien a slight nudge, and Damien jumped, mostly because he was still busy trying to process everything the cloak could now do. "Awakened artifacts get stronger the more they bond with their owners. You're also going to need to achieve a high base level of partial attunement before it's able to capture enough of your mana, but the good news is that once you've bonded enough, it'll handle any mana leakage problems you have. Better yet—" He leaned in to whisper. "It'll work at a distance, so you don't have to worry about people stealing it."
+
+Damien stared at Cale, wide-eyed. He had no idea what to say. This was the sort of artifact that was legendary. Cale had just... what, made this thing in a few seconds? How did he even begin to thank him?
+
+"You do still need to understand and accept decay mana to attune it enough for the cloak," Cale said, giving him a faux-severe stare. "Understand?"
+
+Damien swallowed a bit. "R-right," he said. "I need to... understand and accept decay mana. I can, um... I can try to do that."
+
+Easier said than done, though. He'd seen what decay mana was capable of, and while he knew he wanted to try, he wasn't sure if he could ever accept—
+
+"Remember," Cale said, and his tone became a bit more gentle. "Decay is more than death."
+
+Damien paused, then nodded tightly. Something about those words resonated with him. His mana had helped save that Abyssal in the Inverted Spires, hadn't it? He didn't need to let his past define him.
+
+"Decay is more than death," Damien repeated, mostly to himself. He tugged the cloak tighter around his shoulders, focusing inward on the flow of decay, and tried a small attunement to fire.
+
+And it felt, in just the smallest way, like his mana was moving with him rather than against him. It was the first time he'd ever felt that during an attunement. He glanced up, heart beating rapidly, but Cale was muttering to himself, a slight frown on his face.
+
+"Funny thing is, I thought the Collapse meant artifacts couldn't be awakened anymore," he said, brow furrowed. Damien looked helplessly at the others—were they supposed to hear this? What was a Collapse? "Something's weird about Utelia. I don't get it."
+
+Then, as if nothing happened, he turned his attention to Leo.
+
+"Anyway," Cale said. He grinned in that very Cale sort of way, bordering on manic intensity. "Leo. How do you feel about building a second mana core?"
+
+Leo blinked. "...What."

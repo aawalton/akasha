@@ -1,0 +1,77 @@
+---
+id: 5dc189df-a256-595d-86cb-12644cea204d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: An Unfortunate Change of Scenery"
+slug: 0057-chapter-25-an-unfortunate-change-of-scenery
+partOf: labyrinth-of-the-mad-god
+position: 57
+ownLength: 1604
+unit: words
+publishedAt: 2024-09-13
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1801792/chapter-25-an-unfortunate-change-of-scenery"
+royalRoadId: "1801792"
+---
+
+Late on the duo’s third day of traveling together, their surroundings began to change. At first, it was just a faint scent that Nick couldn’t quite place, which grew stronger as the hours ticked past. They kept on walking for miles, making their way through those lonely halls of stone.
+
+It was the best-preserved section of the facility that he’d seen yet. It felt less like they were walking through a post-apocalyptic war zone, and more like they were touring a tomb. Which, if Nick understood what had happened here, wasn’t too far from the mark.
+
+It made him especially glad for Veronica’s company. It made all the difference having someone to share stories and jokes with to lighten the mood. Not to mention a skilled tracker to keep an eye out for trouble and a trusted friend to watch his back. Still, he would be thrilled to leave this place behind him for good. He much preferred the natural environments of the Searing Isle and Blackmist Bog to the vast underground ruins.
+
+“Nick,” she said as they passed by what looked like a decimated warehouse, the contents long-since devoured by the construct swarm. “There’s something that’s been bugging me for a while now.” He turned to look her in the eyes. “It’s slight, but there’s a grade to the floor here, see?”
+
+She took out her canteen and poured out a bit of water. Sure enough, the pool began gliding across the stonework, moving in the direction they were headed. He frowned, processing the meaning of her observation. “Wait, if the passages aren’t completely flat, does that mean…”
+
+“I think this place has more than one level. The floorplan might be more complex than the layout we were envisioning. It could wind up being a three-dimensional maze.”
+
+“Shit.” He groaned, rubbing his temples with his fingertips. “I think you’re right. That’s going to make getting out of here even harder than I thought. This place is already massive. If there are multiple layers to it, who knows how many miles these tunnels stretch on for?”
+
+“Yea, that’s what is worrying me too. It’s a good thing that we didn’t try to explore the whole exterior, or we would never have made it this far. The good news is that our strategy is still sound. We’ll keep heading toward the middle and meet up with the others when we get there, assuming that we don’t find them along the way. Once we’re reunited, we’ll start searching for the closest stairwell. With any luck, we will pass one before then. Then we can retrace our steps and get the hell out of here without wasting any more time.”
+
+Her words helped to cheer him up. Nick nodded as he replied, “I’m sure that Kenji and Sophia will come to the same realization. Devin can be surprisingly sharp sometimes too. Once they grasp how big this place is, the others will head straight to the center, unless they get stuck somewhere along the way. It’s the only logical way for us to find one another, and everyone is smart enough to come to the same conclusion.”
+
+Veronica and Nick walked in silence for the next few hours, each lost in thoughts of their own. They decided to take a break and eat a late lunch after finding an empty room with a door that still worked; a perfect place to conceal themselves from the construct swarm.
+
+He was glad that they’d found the extra food in the storeroom, since there hadn't been any other opportunities to restock their provisions since entering Darkstone Tower. At least water hadn’t been a problem, since they had found intact sinks every so often whose plumbing was still functioning.
+
+Not long after they resumed their journey, the changes to their environment became more pronounced. The floor, which had been free of anything organic up to this point, began to crunch beneath Nick’s boots with every step he took.
+
+The layer of grit gradually grew thicker, until they could only see patches of the stonework beneath. “I think that its dirt.” Veronica bent down to take a closer look. “Or maybe not. It smells super gross.” Her nose wrinkled in disgust.
+
+Sure enough, when Nick took a sniff, a faint yet lingering aura of nastiness washed over his nostrils. “Yea. That’s foul all right. I think that we must have left specimen refinement and crossed over into the waste disposal division a while back.”
+
+“Whatever lives here, it’s not those gear-constructs.” V pointed to some tracks in the dirt. “Those markings look wrong for their feet and are too far apart for creatures their size. Whatever made them is bigger than the scorpion models. I think that it might be some kind of insect, although I’ve never tracked giant bugs before so I can’t be sure. Should we head back and look for another way around?”
+
+Nick considered the question before replying. “Let’s keep going for now. Who knows how far we’d have to backtrack to find another path leading toward the middle? With any luck we will spot whatever made those tracks before they notice us. If there’s something else down here besides the swarm, we’ll need to come up with new tactics to fight them, and to avoid them when it’s time to rest.”
+
+“Alright, that makes sense. I hope it’s not centipedes, those things fucking creep me out.” Veronica shuddered. After his experience with the flesh-renders back on planet Drezen. Nick could only agree.
+
+They kept on going, moving as quietly as they could, on guard against ambush from all sides. As they progressed, the dirt covering the ground thickened, until they could no longer see the floor at all, although he could feel its firmness below his boots.
+
+The strange soil was piled high along the walls, making it feel like they were venturing underground. Although Nick suspected that had been the case the whole time, since the other part of the floor had been dug out from what appeared to be solid bedrock.
+
+Eventually, they came to another four-way intersection. Unfortunately, there wasn’t a map anywhere nearby. But Nick had been adding each tunnel they took to the chart in his journal, judging their direction as best he could. “I’m not completely certain, but I think we need to turn right.”
+
+“That’s where the worst of the smell is coming from, so you’re probably right. I have a hunch that we’re going to be forced through the thick of things before we come out the other side. So whatever seems worst is likely the quickest route.”
+
+While V’s analysis might have sounded cynical to a casual observer, Nick suspected that she was right. Neither the System nor Taltos would let them leave without a fight. A battle on a scale bigger than the constructs they’d dealt with thus far.
+
+Nick drew his sword and carried it as they walked, stopping to inspect every shifting shadow and unknown echo. By this point, the dirt was piled all the way up to the ceiling along the tunnel walls, partially obstructing the light crystals embedded into the stonework.
+
+From time to time, he heard a faint clicking in the distance. He couldn’t tell what it meant, but V’s ears were sharper than his own, thanks to her charm of listening.
+
+Not long after they made the turn, Veronica held up one hand, flashing one of the signs they had agreed on earlier. The one that meant, “We’re being stalked by enemies.”
+
+Nick nodded and began looking for a defensive position, preferring to fight on the ground of his choosing if given the chance, rather than stumbling into an ambush. While they walked, he started reviewing tactics in his mind, deciding which spells and tools would work best in this environment against various types of opponents.
+
+Ten nervous minutes later, they came across a room whose entrance was partially blocked with debris. The inside was littered with fragments of chitin and what appeared to be some manner of excrement, but nothing seemed to be dwelling within. Since it was clear by this point that they had already been detected, he signaled to V, suggesting that they hole up here to deal with the threat.
+
+While there was a risk of getting trapped inside by a superior force, pushing ahead or turning back was even risker. Being besieged within a chamber where they didn’t have to watch their backs and had a natural chokepoint was far better than being hit from two sides at once.
+
+Before they committed to a course, they needed to make sure that the room was really empty. That nothing nasty was lying in ambush or some other form of trap awaited them inside. While V went in to scout it out, Nick stood guard by the entrance.
+
+“It’s clear.” She rejoined him a few minutes later. “Gross, but free of traps, enemies, or hidden tunnels. How are things on your end?”
+
+“I can hear something coming, it won’t be long now. There’s no point in trying to be stealthy, they clearly already know we’re here. Let’s hit them from maximum range as soon as they appear, then duck inside the room so we can use the door as a bottleneck. If we wind up needing to make our escape, we can use the wand, web, napalm combo that worked before. Although its best to save our consumables if we can.”
+
+“Sounds good.” Veronica reached into her pack as she started preparing for battle. The crossbows mounted to both her wrists extended, bolts knocked and at the ready.

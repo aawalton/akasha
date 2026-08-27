@@ -1,0 +1,199 @@
+---
+id: 1dd5c5b3-8b81-5d3f-8835-c78d0b6ae640
+page-type-slug: story-chapter-royal-road
+title: "Chapter 393: Drevicia"
+slug: 0012-chapter-393-drevicia
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 12
+ownLength: 2184
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/3307911/chapter-393-drevicia"
+royalRoadId: "3307911"
+---
+
+Quinn wasn’t sure what she was supposed to feel as his mind snapped and pushed her out of it.
+
+Dravishk’s eyes rolled back in his head as blood began to trickle from his eyes and ears at first, before flooding from every single orifice in his body. The spines and scales began to detach, or perhaps it was better said that they decayed, sliding down in a putrid heap of melting parts once they mingled with what appeared to be acidic blood.
+
+She continued to watch indifferently as his body further decayed, slipping from Drevicia’s grasp as it finally stumbled and slumped to the floor on its own.
+
+People gathered all around the entrance. Quinn could feel them.
+
+Not the golems. No. Security golems dispatched those who’d injured Library workers or patrons. There was no tribunal here. No higher authority. They spilled blood on Library ground. Library rules were in place.
+
+She could sense Hal and an injured Drukala approaching from the check-in desk, knew that Drivok was unconscious in the hospital and Dronar still hadn’t recovered in the guest quarters. Betty’s presence had faded had passed and Quinn still couldn’t find some people including Narilin and Finn. Geneva’s wings were injured, but she rode on Hal’s shoulder until she could jump on a gurney and make her way to the hospital where Nishpa was now located.
+
+There was so much that Quinn could tell with one thought.
+
+Aradie swooped in, her talons and claws somewhat bloodied. Quinn didn’t mind; she just needed the soft feathers of the bird to lean against.
+
+No one spoke.
+
+Malakai and Lynx hadn’t even moved from their positions at the desk. They all just gazed at Quinn. Watching.
+
+Quinn.
+
+Was that still who she was?
+
+The Library was hurting. She could tell that. One command sent worker golems to fix any damage the Library couldn’t just swallow by briefly changing shape. But a lot of the power they’d gathered in excess had already gone to defending the Library.
+
+A sob caught Quinn’s attention, and she looked over to where Drevicia had fallen. They were supposed to have time.
+
+Drevicia’s once-beautiful skin had a sickly pallor now.
+
+Quinn knelt down next to Drevicia’s head and pulled it into her lap. “You should have told me.”
+
+“I didn’t know for so long.” Drevicia coughed, blood and spittle mingling on its lips.
+
+“But once you knew, you should have told me,” Quinn pressed, her anger stirring. “You tricked me.”
+
+Drevicia tried to shake its head, but Quinn glared. “I didn’t trick you, I just . . .”
+
+“A lie of omission is still a lie,” Quinn said, the glare persisting. She’d thought she had a family, but this betrayal . . . She brushed some of the blood out of Drevicia’s eyes, pushing back the hair, despite it getting caught on Quinn’s scales.
+
+“This was the only way.”
+
+“I’m sure I could have ripped his mind apart in other ways.”
+
+A flash of regret passed through Drevicia’s expression. “I’m sorry, but it’s your affinity. Once I became complete again and realized its capabilities, I knew this was the only solution, and I alone possessed the power to restrain him for you to be the one to stop him.”
+
+“But you used it all up,” Quinn’s voice cracked. She bowed her head, the tears coming freely. This wasn’t supposed to happen. Quinn was supposed to get a family out of this after such a raw deal in the beginning.
+
+Drevicia reached up a hand and petted Quinn’s hair. “I didn’t want to leave you. But this . . . we couldn’t forge anything to hold him. We couldn’t just place him in a jail or ice block. The only thing that has ever properly wounded us, and for those wounds to stick, is another one of us.”
+
+Quinn knew Drevicia was right, but she didn’t like it and said as much.
+
+“Once I realized. Once it all came back, I knew I had to calibrate you. This was the only way I could see for the universe, for the Library to survive.” A tear rolled down Drevicia’s cheek. The cosmicisodracus coughed and blood spittle coated her lips.
+
+Quinn pulled the dragon in tightly and held on, rocking gently, mind emptier than she’d realized it could get. Shock sat with her, tears rolled down her cheeks, and as Drevicia hugged back, the grip began to loosen.
+
+“No, no . . .”Quinn said. “Stay with me. Milaro can come and help. They can heal you.”
+
+She looked up at them all, her voice cracking as she spoke. “Hal. Milaro. Drev needs you.”
+
+“I’m sorry, little dragon,” Hal’s voice broke, and Milaro didn’t look like he could speak without breaking down.
+
+“No, no . . .” Quinn watched as Drevicia’s eyes began to fade . . . “No, you didn’t even get to be yourself. He took that from you. For most of your life you were splintered!”
+
+“I wanted to know you.” Drevicia sighed, her eyes slowly clouding over. “But I got to see you, meet you. The Library is safe with you.”
+
+Words weren’t working anymore, and Quinn couldn’t do anything else but watch as Drevicia faded.
+
+“I love you, Quinn.” A blink and an agonizingly slow exhale. “I’m so sorry. . .”
+
+And Drevicia was gone.
+
+A rumble passed through the Library, soft and mournful.
+
+Quinn sat there, stroking Drevicia’s hair for so long she lost track of everything. Not even the hive mind spoke up.
+
+She could feel the life around her begin to buzz as repairs continued, as people bustled about gathering broken books. Up in the hospital wing, there were a few dozen people injured. Quinn could feel that Dottie’s injury would take longer to heal than most. Apparently, it was a superellux futora thing. Betty had passed, and she sensed the discovery of Narilin and Finn’s bodies. A flash of sadness wafted over her, but the numbness returned.
+
+Drukala stepped lightly toward them, and Quinn unconsciously clasped Drevicia to her chest.
+
+“I will not take Drev away from you,” she said, her voice soft. “I just wanted to come and mourn my sibling with you.”
+
+Quinn looked up for the first time since Drevicia past and saw Drukala’s red-rimmed eyes. “Sorry. I’m hogging . . .” She shrugged.
+
+“You don’t need to apologize for this. Are you okay?” Drukala asked softly, holding her sibling’s hand and petting it.
+
+“What use is being the Library, if I couldn’t even save Drevicia?” Quinn looked into Drukala’s eyes, begging for answers.
+
+Her aunt shook her head and gave Quinn’s shoulder’s a squeeze.
+
+Quinn blinked and slowly looked around. They’d moved Dravishk’s corpse and cleansed the area, and she hadn’t even noticed. “I killed my uncle,” she said, wondering at how distanced she felt from that fact. It seemed so separate from herself.
+
+Drukala gave her shoulder another squeeze. “He was only an uncle through technicality. Now, if you’d killed Hal, we’d be having words.”
+
+Quinn actually chuckled.
+
+“See, you can still smile.”
+
+The Librarian looked up at Drukala and nodded, even though tears threatened to spill again. “Drev sacrificed its dragon form for the Library, right?”
+
+Drukala nodded.
+
+“Is that why I could take it over?”
+
+“You’ll have to ask someone with a lot more knowhow than I have.” Dru smiled and stood, brushing her skirts off.
+
+Which was when Quinn noticed she’d changed and looked down at herself with a grimace. “I’m a mess,” she said. Blood and rot and dirt and burns littered the clothes she wore as well as the skin under it. “I don’t know if I can leave it there.” Quinn looked up as another wave of loss crashed over her.
+
+“Drev wouldn’t want you to blame yourself.”
+
+“I’m not!” Quinn interrupted.
+
+Drukala just gave her a long and measured look.
+
+“Fine, maybe I am a little.”
+
+“Drev should have told you and all of us ahead of time. But I think maybe the plan might not have worked if we’d all known what was planned.”
+
+Quinn mulled that over, able to see the logic, even if she hated it.
+
+Misha popped in front of Quinn, who clutched her chest. “Warn me next time,” Quinn said, but there was no bite in it.
+
+“Sorry, Librarian. There is . . . We will take care of Drevicia. There are procedures of honor, of a place with the core. We will prepare the remains.” Misha bowed deeply before warping away.
+
+Quinn stood staring at where the supervisory golem had been, and where Drevicia’s body was no more. Her arms felt empty, her life like one big chasm.
+
+“Come on, I have it on good authority that there are people who want to see you.” Drukala guided her toward the kitchens, which helped, because Quinn’s mind was in too much turmoil to find her own way.
+
+Even as they made their way over to the culinary division, Quinn could feel the golems repairing the Library, the assistants righting the books, and assessing the repairs and overdues. Others gathered in the culinary branch. Food fixed so many things.
+
+It almost felt like it should be a song.
+
+“I’m not dreaming. Am I?” she asked, without much hope.
+
+“Sadly, no. But . . . you have so many people in your corner. Here for you, Quinn. Don’t forget that.” Drukala pulled her into a hug and for just a few seconds, Quinn clung to her aunt. The aunt she’d had fun training with. The aunt whose full dragon form she’d actually met.
+
+There was more to the Library than Drevicia. Quinn just wished it didn’t feel so cold.
+
+Milaro and Hal met them at the entrance, each placing a hand on Quinn’s shoulder and steering her toward Cook.
+
+They placed a schnitzel in front of her with spätzle and pommes frites. Quinn hadn’t even realized how hungry she was until now, nor could she remember when she last ate. She devoured the food, poignantly aware of all the people in the kitchens also eating. The ones missing were in the hospital getting their wounds seen to, healing up.
+
+Suddenly, as dessert hit and Quinn was just about to dive into some apple pie, Hal, Milaro, Malakai, Eric, Nishpa, and Geneva joined her at the table.
+
+“Dottie couldn’t come,” Eric said, digging into his own brimstone pie of some sort. “Her leg got smashed. It’ll take a bit to heal.”
+
+Malakai settled next to her, a calming presence pressed loosely against her side. It had the desired effect. Some of her anxiety dissipated.
+
+“Little dragon, you should eat more than that. You just consumed massive amounts of energy.” Hal’s eyes gleamed, and he hid his sadness well.
+
+Milaro sighed. “It’s been hours, Hal. Stop it.” She could see the concern in his expression but pretended it wasn’t there.
+
+They were all trying to distract her.
+
+Nishpa moved to her side and spoke gently. “Miles will want to see you at some stage even though I told him you weren’t physically hurt. You’ll probably end up having to see me or Milaro, to talk.” She sounded almost apologetic.
+
+Quinn smiled. “I’d be okay with both of those.” She knew after this last kerfuffle she was going to have to talk to someone consistently. The Furionas fae just smiled, and Milaro gave her a grin.
+
+Geneva flittered forward, bandage tight on one wing. “When Dottie is better, we’ll take over Betty’s duties. Don’t worry about the Library. I will find a new book doctor. You can count on us, Quinn.”
+
+Quinn couldn’t stand having lost people. She’d only just started to have a better relationship with Narilin too. Loss was not something she dealt well with. And Finn… She sighed heavily and attempted to smile at Geneva.
+
+Her friends began chatting, and Quinn let herself fade into the background, suddenly absolutely exhausted. Cook slipped her a cinnamon donut without anyone noticing, and she nibbled on it gratefully.
+
+Malakai was a constant presence at her side, a piece of comfort in this crazy mixed-up universe she’d gotten herself embroiled in.
+
+She was the Library now.
+
+Technically.
+
+Also, the Librarian.
+
+Though not the System, they were integrally a part of one another. And she had a sneaking suspicion she hadn’t given up being able to shift into a full dragon since Drevicia initially sacrificed that part of itself and that was the entire basis for the Library.
+
+Quinn drew in a deep breath and looked around at her friends and her home.
+
+“Penny for your thoughts?” Malakai asked, giving her hand a brief squeeze.
+
+She looked at him, wondering if they’d all realized what had happened when Drevicia essentially handed over the Library connection to her. Then she realized it didn’t matter.
+
+Quinn grinned up at him and leaned in conspiratorially. “I’m the Library. You’re about to be dating the damned universal Library.”
+
+Malakai’s grin echoed hers. “Really? This should be quite interesting.”
+
+Quinn popped the rest of her donut into her mouth and grinned, never letting their eye contact break. “Yeah. I think so too.”

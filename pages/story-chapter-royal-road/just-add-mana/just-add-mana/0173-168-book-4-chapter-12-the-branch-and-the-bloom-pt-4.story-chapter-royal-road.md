@@ -1,0 +1,217 @@
+---
+id: 848c0e42-f41f-550a-bdb6-ee3ce94bc327
+page-type-slug: story-chapter-royal-road
+title: "168 — Book 4, Chapter 12 — The Branch and the Bloom, Pt 4"
+slug: 0173-168-book-4-chapter-12-the-branch-and-the-bloom-pt-4
+partOf: just-add-mana
+position: 173
+ownLength: 3382
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3768260/168-book-4-chapter-12-the-branch-and-the-bloom"
+royalRoadId: "3768260"
+---
+
+Something sparked within him, and Cale remembered.
+
+There were those who would insist, quite rightfully, that the Great Realms were defined primarily by cycles.
+
+Many different cycles, in fact, all operating in tandem to ensure that the cosmos would never grow stagnant. One of them was the way mana would flow between the realms, carrying with it ideas and progress and societal development through the leylines and dungeons. Another was the River that held the souls of the dead, a roaring, unstoppable current that was as much a force of destruction as it was a force of creation.
+
+Then there was the divine cycle, defined by the birth of divinity and the creation of its counterpart. Any realm that bore living, thinking beings would eventually give rise to a divine entity born from their beliefs. But divine light could not exist without creating a shadow, and so the presence of a god would invariably result in the presence of the so-called Darkness.
+
+It was a misleading term, perhaps. Darkness, and indeed dark magic as a whole, was simply that which existed in the divine shadow. It was magic that existed divorced from any godly power or influence. Perhaps in a perfect world the Darkness would be able to keep the Light in check, and perhaps that was even the intent of that cycle, but in practice...
+
+Well. It said something about the Realms that the divide between the two forces was so often defined as a battle between Light and Dark. If the two were only supposed to keep each other in check, then there was a fundamental, obvious flaw built into the system:
+
+If the Light came about as a result of the beliefs of the realm, how could Darkness be seen as anything but its enemy?
+
+That was the inherent tragedy of the divine cycle. The chosen representative of the Dark was by their very nature an enemy to the realm, and the circumstances that created them were practically guaranteed to push them deeper into the role.
+
+Yet there could be no real victory for them, no matter what they did. Success meant only that they had caused untold death and destruction, and though their aberrations might live free lives for a time afterward, it was only a matter of time before their own beliefs and hopes brought about a new divinity for the cycle to begin anew.
+
+Cale had seen it far too many times to count, even before he remembered. He was less surprised than he would have liked to be to learn that a dark lady was at the heart of all this. All the same, he wished very much that this had been literally anything else.
+
+"What..." Leo started, then stopped, his words suddenly hesitant. "What does this mean? Why is there a little girl here? I'm really confused."
+
+Everyone else was staring at him too, so they'd probably figured out that he had some idea of what was happening. Cale winced. He would have preferred not being the bearer of bad news, in this instance.
+
+"It means this wasn't a plague from the start," he said. "It had all the characteristics of a plague, but there's something else that causes the properties of a region to change. That causes the local fauna to either die or run away, and creates monsters that are oddly hostile to other forms of life."
+
+Though Cale suspected there was more to it than just hostility. His gaze was fixed on the corpse of the vinewalker—whoever that was, he'd spent his last breath protecting that little girl, and she had stayed in his arms ever since.
+
+How long had she been there? It had to have been months, at least. T'vela had indicated they had started looking for help with the plague months ago, and realistically speaking it would have taken time for them to decide they needed help, to start praying for assistance from their Holy Mother.
+
+Leo was staring at him. "Are you... are you saying she's a dark lord?"
+
+"A dark lady, technically, but yes," Cale said, the words heavy. Everyone here knew what it meant. If this was corruption, then the only way to stop it was the dark lady's death. And even if none of them were willing to do it, it was quite likely that the atverians would, the moment they learned of this.
+
+"But she's just..." Leo trailed off.
+
+"She's so little," Damien said quietly. He stepped forward as if wanting to reach out, but at the last moment he glanced hesitantly back at Cale. "That's not... it's not fair. Isn't there anything we can do?"
+
+Cale sighed. That was a more complicated question than Damien likely knew. He glanced around at the others, trying to put his thoughts in order. Imrys wouldn't be any help here—she seemed far less perturbed than the others, but she also clearly had no desire to intervene. Featherstrike mostly just looked slightly ill, and Thorn...
+
+It was difficult to tell what Thorn was thinking. His gaze was fixed on the pair in the distance, though, and his fists were clenched. Cale could only assume he was as indignant as the rest of them.
+
+"Cale," Leo said, his voice almost pleading. "How could a child be chosen as a dark lady? Shouldn't there be rules against it?"
+
+"It's more common than you'd think," Cale said quietly. "No one ever writes about it in the history books, because they don't want to admit to having killed a child, so you won't find many records of it in dungeons."
+
+"But why?" Leo asked. "It's just..."
+
+"It's cruel," Damien said.
+
+"That it is," Cale agreed softly, his gaze distant. "It's a consequence of how dark ones are chosen. Do you know much about it?"
+
+"This is going to be depressing, isn't it," Leo said, and Cale inclined his head in a nod.
+
+"There are only three real conditions," he said. "One, the realm has to be developed enough to have a sufficient quantity of divine essence in it. Dark ones don't get chosen until the mana in that realm is sufficiently saturated with divine intent.
+
+"Two, someone needs to make a wish. It needs to be a desperate, earnest wish, like you're using your whole soul to cry out into the void, and it has to be a wish that will lead to the overturning of the current divine order.
+
+"If that wish is made at the right time, in the right circumstances, then the person that makes the wish will be offered a deal. They'll have their wish granted if they agree to represent the Dark. The third condition is that they accept the deal. Once they do, they'll be anchored into the role of that realm's dark one, and their mana core and magic will be transformed over the course of three to five years, on average. During the incubation period, they start spreading corruption and creating aberrations, usually related to their wish in some way."
+
+The others all stared at him, stricken. "Is that wish actually granted?" Leo asked after a moment. "Because this sounds like people get chosen when they're at their most vulnerable."
+
+Damien's words were almost inaudible. "You said it's more common than we think, but..."
+
+It figured that Damien would notice. "Children are disproportionately selected, yes," Cale confirmed heavily. "Same reason chosen ones are so often kids or teenagers. And the wish is granted, yes, but it's always twisted in some way."
+
+And he could guess what this child's wish had been. All the pieces were there, ready for him to put together: the story Damien had pried from A'ruk, mentioning a forbidden love between T'vela and one of the vinewalkers; the presence of an atverian child here, in the middle of a vinewalker village; the goldsong spear in the vinewalker's back...
+
+"She wanted her father back," Thorn rumbled at last, still staring at the crying figure in the vinewalker's arms. "That was her wish."
+
+Cale nodded, his expression somber.
+
+She wanted her father back, and that wish had been twisted into a magic that mindlessly tried again and again to recreate him from all the souls and creatures within its domain. No matter what it did, though, it could not call his soul back from the River. The best it could do was create a copy of him in the moment of his death.
+
+Not that this little girl would be aware of what she was doing. The incubation of a dark one kept them in a kind of stasis, preserving their exact state of mind at the moment of their transition until the process was complete.
+
+Fortunately, that incubation process was fragile and could be interrupted. It wouldn't stop them from growing into the role, but it would temporarily halt the spread of corruption, at least until the would-be dark one was overwhelmed by their emotions once more.
+
+"Best if we start by getting her out of this," Cale said with a sigh. "We'll figure the rest out afterward, but we can stabilize things a bit if we comfort her. Damien?"
+
+Damien hesitated. "I don't think I should do it," he said after a moment. "I'm not insecure about it anymore or anything, but my appearance can be pretty scary to kids. Um... If you don't mind me saying so, I think you should do it, Thorn."
+
+There was a long pause as Thorn froze, surprised at being called out. "Not good with children," he said gruffly, but he cast another glance over at the two, something pained flickering in his eyes.
+
+"No, I think Damien's right," Cale said thoughtfully. "She's probably going to be more comfortable with another vinewalker than with anyone else, if she's been living here the whole time, and I know you're not as grumpy as you pretend to be. I'll come with you, if you like."
+
+Thorn frowned, conflicted, but eventually nodded reluctantly. "Very well," he conceded. He kept his expression guarded, but Cale thought for a moment he seemed almost grateful—like he simply hadn't known how to ask.
+
+Damien might have spotted that, too. That was probably why he had suggested Thorn step forward in the first place; Cale wouldn't put that past his apprentice.
+
+"Try to let the vinewalkers here know what's going on," he said. "Thorn and I will try to get her awake and stable. This is going to sound a bit cruel, but don't release them from the roots yet, if you can. I'm pretty sure they're preventing the corruption from transforming them."
+
+"I got it," Damien said.
+
+Cale gestured for Thorn to follow him, and the two of them made their way in relative silence toward the girl until they were far enough away from the others. Thorn was the first to speak, then.
+
+"I did not think that they would have had a child," he said. "An atverian and a vinewalker."
+
+"Does that bother you?" Cale glanced up at him.
+
+"...Less than I had imagined. My anger has always been at the cowardice of my fellows, but I cannot call this cowardice. Wall must have cared deeply for T'vela and her child."
+
+"Wall?" Cale prompted.
+
+"Vinewalker names and a small account of our lives are written in the way our petals and vines are woven. It is a means of communicating aspects of ourselves to others, even after death. Our names are most often a single word we feel best represents us. I am Thorn. He is... he was Wall."
+
+"You'll have to teach me to read that sometime," Cale said, and he felt Thorn give him an answering hum of acknowledgement. "A strange name to choose, though."
+
+"Not so strange," Thorn said. "He likely felt he was the boundary between his people and the atverians of this realm. If he loved an atverian, then he might have felt trapped between two peoples. Obligated to protect his own, but wishing desperately to be more. A wall can protect, but it is different from a barrier. Perhaps he hoped his daughter could be the door between their peoples."
+
+"You aren't including yourself in there," Cale noted. Thorn cast him a glance, then gave him a small nod.
+
+"I am not," he said. "As you may have guessed, I hold some resentment toward my people, and I no longer consider myself one of them. They have made choices that I do not agree with. I consider myself to belong to a separate culture, though I suppose that line is not as clear as I hoped."
+
+Cale was silent for a moment. "They're still with their atverians?"
+
+"Correct." Thorn's fists tightened for a moment, then relaxed. "But I am... glad... that the vinewalkers here made a different choice."
+
+"There's always time," Cale said quietly. "A'ruk said their vinewalkers didn't do it all at once, either. They left one by one, just like you did."
+
+Thorn grunted. "Perhaps," he said. "But we are not here to reassure me."
+
+"I suppose you're right." They were at the source of it all now. Cale stared down at the atverian girl, still wrapped in the arms of her father's corpse. "He was protecting her from something. That's a goldsong spear, which means..."
+
+"One of the atverians attacked them," Thorn agreed. "Most likely a commander. Operating under the orders of their queen, I would assume, although given the political strife A'ruk described it may have been an independent actor."
+
+"Do you think that's likely?"
+
+"I do not know enough about this colony to say." Thorn glanced down, as if contemplating something. "If the queen allowed them to leave, then perhaps it is more likely that it is an independent actor hoping to force each side into war. It would allow them to make the argument that allowing the vinewalkers their freedom is dangerous to the colony."
+
+"That's my read as well," Cale agreed.
+
+"To think that this is corruption," Thorn murmured. "Mana operating on the intent of a desperate wish, with not even an aspect to speak of."
+
+"It's one form of it, anyway," Cale said. "Corruption can take many forms and changes depending on the dark lord."
+
+"That explains why each tale of each dark one is different, but to think that they are born from a wish... few things could be worse."
+
+"You won't hear me arguing with that."
+
+"I do not know how to begin," Thorn admitted at last, something in his tone suddenly more vulnerable—like he was trusting Cale with a side of himself he almost never shared. Cale glanced up at him and saw the way Thorn was looking at him. Give me something, that look said. A way to make this less cruel.
+
+"Like I said, we'll have to start by stabilizing her."
+
+"There must be more. We cannot leave a child to this fate."
+
+"I'm inclined to agree." Cale was silent for a moment. He stared at the crying figure of the little girl, and then a thought slowly sparked. "I do have some ideas. There might be something we can do. But first, we need to help her break out of her spell."
+
+Once a dark lord had been chosen, the role could no longer be revoked. The Realm had to have a dark lord. That was an ironclad Rule of the Great Realms, and though Cale was briefly tempted to pull out Rulebreaker again, magic of that degree would definitely snap them back to Utelia. Besides, something inside him was still fundamentally exhausted by what he had done for Astiviya.
+
+There was nothing, however, that said the role couldn't be transferred.
+
+Cale was vaguely aware that this had been done before, though he wasn't aware of the specifics—for once, he hadn't been involved in the attempt. He knew only that it was possible. He had some guesses as to how it could be achieved, but first and foremost, it would require someone that was willing to take on the role in the girl's stead.
+
+It couldn't be any of them. That might have been a neat solution if not for the fact that they didn't even originate from the realm. One of the few things he did know was that for the transfer to take, it had to be someone who was native to the realm. That meant they would be in for a difficult conversation sometime soon, but first and foremost...
+
+There was the matter of comforting a child who had lost her father.
+
+Thorn knelt by the atverian child's side. He said nothing for a long moment—simply offered her his hand and made sure she could see it. Gradually, the sobbing trailed off into hiccups, and she looked up and spoke, something in her voice lost and broken.
+
+"Mister...?" she asked. "Who are... why are you all here? Are you here to help Dad?"
+
+Thorn bowed his head. "I am sorry, but—"
+
+"No!" the girl burst out before he could finish speaking; she started hitting him, fists wailing weakly against his shoulders. "No! Don't say it! If you say it, you'll make it real! Magic can do anything! Dad said so! I just have to wish hard enough and... and..."
+
+She trailed off, slowly weakening, and let out a quiet sob. "He's not coming back, is he?"
+
+"I am sorry," Thorn said again.
+
+"Are you one of the Tendrils?" the little girl asked. "Did the Holy Mother send you?"
+
+"I am not."
+
+"Good." Something bitter flashed across her face. "I hate the Holy Mother. It's her fault my dad's—"
+
+She cut herself off before she could finish, her expression crumpling again, and she pulled herself into Thorn's arms, crying uncontrollably. Thorn allowed her to cry out her grief, one hand rubbing gentle circles into her back. He'd withdrawn most of his thorns so he wouldn't stab her by accident.
+
+"I don't understand," she whispered. "Why'd they come? We weren't doing anything. But that stupid... that stupid, evil woman..."
+
+She clenched her tiny fists. "I'm going to kill her," she said, and Cale felt the Darkness that flowed from her with that statement. It was the sort of determination a dark one had that underpinned their very existence, and it had no place coming from a child.
+
+"That is not a task that should be left to a child," Thorn said quietly, and though in most cases that might have been the wrong thing to say to a very determined child, something in his tone seemed to reach her. The girl sagged in his arms, still weeping. "What is your name, little one?"
+
+"It's F'lora," the atverian said quietly. "And the woman that killed my dad is K'teri. Don't let her get away with it. Please. No one even knows she visited, and I-I don't know how long it's been since—"
+
+"Months," Thorn said softly, and F'lora jerked in his arms; she looked up and seemed to notice for the first time the state of the fungal forest, the utter silence that enveloped it. She saw in the distance the other vinewalkers of her village, trapped in roots of her making, and gasped.
+
+"No!" she exclaimed. She reached out instinctively, and the moment she did, the roots retracted, letting the vinewalkers collapse loosely to the ground in relief. "I didn't... I didn't mean to..."
+
+"I know," Thorn said roughly. "They know it, too. They were trying to get to you so they could help. It is alright, F'lora."
+
+"But it's not," F'lora said. "I... I hurt them. I didn't mean to hurt them, but I still hurt them. Dad always said we need to take reponsilibity when we hurt people."
+
+"Your father was a very wise man," Thorn said gravely. "But there is a more pressing matter we must address. Can you stand?"
+
+"I think so, but... I don't want to leave dad alone." F'lora turned to look at the still-frozen state of her father and pressed one hand against his.
+
+"He will be there for you later," Thorn told her. "But he would want you to eat. It has been months, after all. Your magic may have sustained you, but you must be starving."
+
+"I..." F'lora looked down. "O... Okay. I'm pretty hungry..."
+
+"Come now." Thorn took her hand gently, standing. "We will discuss this further elsewhere."

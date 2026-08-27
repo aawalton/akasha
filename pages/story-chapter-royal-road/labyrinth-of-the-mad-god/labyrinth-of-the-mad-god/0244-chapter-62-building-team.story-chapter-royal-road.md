@@ -1,0 +1,121 @@
+---
+id: e7d9fcea-b0ea-561a-94c2-e4f60e50f7ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62: Building Team"
+slug: 0244-chapter-62-building-team
+partOf: labyrinth-of-the-mad-god
+position: 244
+ownLength: 2563
+unit: words
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2735492/chapter-62-building-team"
+royalRoadId: "2735492"
+---
+
+Nick’s trip back to town was relatively uneventful.
+
+He was approached by a pack of alien beasts that could swim in the soil, but Predatory Domain took care of the problem. Unleashing his killing intent sent the creatures fleeing in the other direction and that was the last he saw of them. This technique is handy as a deterrent as well as an attack. He nodded to himself in satisfaction.
+
+When he entered the city limits and passed by the supply depots, he noticed the one being used as communal storage was almost full. The others were in the middle of being loaded by a long line of people carrying wood and stone who were returning from a neighboring sub-biome. Harvesting was being handled by another team that Liz was overseeing, so Nick didn’t have to worry about the logistics of extraction and hauling, much to his relief.
+
+As he made his way past the obelisk and toward the hollow mesa, he was surprised to see that the frame of a house was already standing—the first structure Aurora had constructed by hand. They finished laying the foundation and completed most of the first floor in a day. That’s incredible.
+
+He decided to take a closer look and introduce himself to the building team, who was led by a forewoman named Ming. After he shook hands with everyone, Ming outlined the various ways they were incorporating magic into the construction process.
+
+“Of course, these superhuman bodies help too. I can’t wait to see what we whip up once we have more tools, but I don’t foresee any problems with building structures by hand. Get us some industrial infrastructure and specialized equipment, and I’ll build you a city unlike anything this world has ever known.”
+
+The dark-haired woman explained that they were in the middle of testing out several different designs. Once the builders had a prototype they were satisfied with, they would be ready to start building houses, storefronts, and any other structures people wanted. They were coordinating with Stan on the planning committee, and since everything was proceeding smoothly, Nick spent a few minutes praising their efforts and then went to find Elizabeth.
+
+As he had expected, she was inside the hollow mesa, which was serving as Team Earth’s base of operations for a little while longer. Liz was surrounded by a throng of people, answering questions and giving orders with the brisk efficiency he’d come to admire. When she saw him, she wrapped up her session and came walking over to greet him.
+
+They took a seat on one of the benches and told her about his meeting with Cathy and allying with Desert Rose. By the time he was done, she was grinning from ear to ear. “Well done. I’m proud of you, Nick. I knew you had it in you. I know you haven’t realized it yet, but your reputation is more valuable than any natural resource. I’m lucky to have you on my team—it’s going to make my job a whole lot easier.”
+
+Nick smiled when he realized she had framed that sentence like she was in charge of the settlement. He didn’t say anything to dissuade her, since that attitude was exactly what he was hoping to cultivate. I’ll have you running things in no time.
+
+The planning committee was waiting nearby, since they were ready to place some more buildings and talk over a few other issues. Before he met with them, Liz reminded him there was another matter to attend to first. “We have 23 people who want to join the settlement, and we picked up another 255 CP while you were gone.”
+
+After learning the citizen requests were all veteran members of Team Earth who had been part of the battle with the Guardian, Nick approved them immediately, at which point he learned an interesting detail. Apparently, the size of Aurora’s domain expanded by a few feet with every new citizen on top of the bonus from increasing the city’s tier.
+
+The mesa had been beyond the edge of where he could build, but now it fit comfortably inside. You know, the System never said buildings had to be placed on ground level, I wonder if… Following that train of thought, he opened the Building Placement Menu to see if his idea would work, grinning when he saw that it was viable after all.
+
+He called the committee over and explained what he was thinking. Everyone agreed it was a good idea, so Nick confirmed the placement before they moved on to other matters.
+
+The leader of Aurora has purchased:
+
+1 Advanced Watch Tower with Alarm Bell (Uncommon).
+
+People stopped what they were doing when they saw the announcement. They looked up as the settlement’s newest building waved into existence one layer at a time and then let out a spontaneous cheer.
+
+The watchtower was straddling the interior of the mesa—a tall wooden tower rising from a lattice of heavy support beams. It made the area below considerably shadier, which was welcome bonus considering the badland’s pervasive heat. At least we don’t have to worry about getting sunburned anymore, he mused. And I’d probably have to walk into an oven to get heatstroke.
+
+Nick rubbed his chin while evaluating his handiwork. Building the watchtower on top of the mesa would make it easy for the lookouts to see over the buildings as Aurora grew. After playing with his placement settings, he had been able to build a spiral staircase for a few BP that made it easy for anyone to climb the tower and reach the top of the mesa.
+
+Once we pull a few benches up here, this will be a perfect place to watch the sunset and a popular spot for dating. I hope Sophia is doing all right.
+
+The committee was excited about the watchtower and decided to begin their meeting from the belltower while peering down at the city below. Before they dove into the details, he let them know about the alliance and the seeds Cathy had gifted Aurora. There wound up being three varieties—carrots, tomatoes, and bell peppers.
+
+“While we’re planning everything else,” Nick began, “we should figure out where we want to plant our first batch of crops. The river should make irrigation easy, but we should start growing as soon as possible to limit our environmental impact and learn more about mana-infused plants and various species from other worlds.”
+
+That reminded him of something that had been sitting in his backpack for quite a while now. “On the subject of experimental crops and potential alchemical ingredients, I found something interesting while crossing Blackmist Bog.”
+
+He reached into his pack and pulled out a bag of seeds, saving just a few for himself. “These came from an edible flower that sates both hunger and thirst. It has a mild stimulant property too.”
+
+This revelation led to an animated debate. Kerry was hesitant about introducing alien species to the environment, which could have precipitated an ecological disaster back on Old Earth. Kenji countered that the since the System had merged the Earth with a planet from another dimension and everything was mutating like crazy anyway, every ecosystem in the planet was already in flux.
+
+“Besides,” he concluded. “Those portals to the Labyrinth will open in less than a year, and there’s no way that Nick was the only person who picked some interesting plants during his adventures.”
+
+In the end, the committee decided to form an agricultural team to oversee the operation. The seeds he’d collected would be the first crops they grew, along with anything else their people had brought back while scouting the biome.
+
+Stan reminded them that Aurora needed to keep an eye out for a source of textiles, paper, grain, and something to make alcohol out of. “I would love start producing beer, wine, and eventually something harder.”
+
+Kenji grinned at the prospect. “We need to figure out how to make recreational beverages with enough of a kick to affect people with superhuman Toughness. I’ll gladly volunteer to be a test subject, and I’m sure Ken feels the same way.”
+
+Everyone got a good laugh out of that before the committee switched topics and started discussing the Rare building options. Everyone agreed with Nick’s take regarding the importance of the Item Modification Station and Magitech Research and Development Center.
+
+They also wanted to use one of the vouchers on a Capital-Class City Hall, which hadn’t been on his list. It featured several types of magic that would aid in diplomacy, governance, logistics, and communication, which he would take a closer look at later.
+
+“We don’t need to place it right away,” Liz began. “But if everything proceeds according to plan, Aurora is going to become one of the most important cities in the world. Within a matter of months, I hope to receive visiting dignitaries on a regular basis, along with trade representatives and various other diplomats.
+
+“We need a capitol building that reflects the importance of this settlement—for psychological reasons as well as practical. Besides, we’re going to need offices as the city’s leadership expands, conference rooms to conduct our own business, and places where our citizens can connect to the various organizations that have already started to form.”
+
+The committee strongly agreed with Liz’s assessment, so Nick deferred to their experience. There was some disagreement on which Rare building they wanted to place first, which they tabled until they had the mana nodes to pay for them. They decided to delay placing the capital building until they had a better sense of how the settlement was growing and completed their plans for additional districts.
+
+That just left the Common and Uncommon buildings Nick needed to redeem for vouchers, since they were saving CP for roads, regional resources, and big-ticket items with magical effects. They discussed the matter while climbing down from the tower, heading over to check out the batch of structures he had placed a few days prior.
+
+Stan led this part of the meeting as the committee considered which options would be better to construct with vouchers and which should be assembled by hand. Now that they knew Aurora’s citizens could pick up more vouchers by completing challenges and events, there was even less reason to save them.
+
+A few minutes later, the group came to a stop in front of the lumbermill.
+
+The mill was already running at capacity, cutting trees into planks that would be seasoned and then handed over to the construction crews. When he spoke to the people working inside, Nick learned the wood they were slicing was far more durable than anything that had existed on Old Earth, thanks to the incorporation of mana into the trees’ biology.
+
+“It’s a good thing too,” the woman operating the saw explained. “People are so strong now that we would have wound up breaking things by accident. And if our city is ever attacked, these new materials won’t collapse from incidental fire. They aren’t quite as tough as the resources the System is using for Uncommon structures, but they’re close and we hope to discover more durable materials as time goes by.”
+
+Nick was surprised to hear that even substances like stone and metal had been affected by the Earth’s transformation—that the mana permeating the planet had begun changing them in countless ways. The construction team was working on a grading system to measure how durable various materials were, but it would take some time and experimentation.
+
+When the committee moved on, he discovered the kiln was fully functional too. People had found the right kind of clay to fire ceramics in one of the rivers, along with mud for making bricks. The crafters were focusing on roofing tiles right now and hoped to branch out into a range of other goods soon.
+
+The construction crew was testing out concrete made from the enhanced materials harvested in the badlands, and the scouts were searching for a viable location for a quarry that would add several types of stone to the city’s stockpiles.
+
+“I think we should hold off on anything leather related,” Nick said when Stan brought up building a tannery. “Using the workshop for repairs and the like is fine, but I don’t want to encourage killing animals until we are dead certain that everyone can tell the difference between animals and beasts.
+
+“Even then, I think we should wean ourselves off animal products as much as possible. Some sustainable and humane dairy, eggs, and fisheries might be a good idea eventually, but the Earth’s creatures are our allies in defending the planet from the horrors dwelling within the Labyrinth. We’ve been awful neighbors until now, and we can’t afford to fuck it up again.”
+
+“I agree,” Kenji said. “Maybe we can figure out a way to grow meat with magic instead.”
+
+“I’m keeping close tabs on the harvesting teams to prevent unfortunate accidents,” Liz added. “But we should get those crops in the ground as soon as possible and transition to a diet that doesn’t rely on hunting and gathering. It’s not a problem right now, but we’ll need to have a sustainable solution in place before the city scales up.”
+
+That brought up another issue that needed to be dealt with soon. Earth’s beasts were already powerful, and while some hadn’t grown more intelligent, many were well on the way to becoming people if they weren’t already.
+
+“We need to set up a committee that is devoted to beast research and diplomacy,” Liz said. “Develop a strictly enforced policy for interacting with them and work on establishing favorable dealings. It will be much easier to get things right from the start than trying to repair a damaged relationship.”
+
+The committee’s next stop was the forge and adjoining workshop.
+
+The forge had a pair of smiths working in it, but until Aurora discovered a reliable source of ore, they were focusing on repairing people’s equipment instead of crafting anything new. The workshop was filled with people working on dozens of small projects—everything from maintaining gear to constructing wagons and carts to make resource collection easier—and plans were already in motion to build additional facilities by hand.
+
+By this point, Nick had a considerable pile of tools he had picked up across his adventures, including the stockpile he’d found in the storeroom of Darkstone Tower. He kept a few that would come in handy while exploring and delving dungeons and donated the rest, receiving a hearty cheer from the various crafters when he spread them across a table.
+
+When Stan inquired about the details of Aurora’s budding industries, Nick learned that right now, people were working for free or in exchange for barter, but the lack of currency was already causing problems.
+
+“That brings me to my request,” Kerry chimed in. “It’s time to get the Contribution Token Exchange up and running. We also need to erect some storefronts for merchants, including yours truly. Breaking ground on Aurora’s first commercial district will help with distributing resources and will be vital once we start trading with other settlements and non-resident visitors.”
+
+“All right,” Nick said. “Let me process some of these other requests, then we can place our first set of shops. I’ll let you and Liz handle the logistics involved, but I’m happy to get the ball rolling.”

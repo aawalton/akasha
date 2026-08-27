@@ -1,0 +1,181 @@
+---
+id: 2730e687-4203-52ae-8bdb-95b10b53d437
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 – The Gardens"
+slug: 0025-chapter-25-the-gardens
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 25
+ownLength: 2032
+unit: words
+publishedAt: 2024-12-08
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1946982/chapter-25-the-gardens"
+royalRoadId: "1946982"
+---
+
+Turning away from the grub, Kindra looked for Stavn, who had fled the area as if the mana was a deadly toxin.  It was only two hundred mana or so.  She shrugged and looked into the smooth tunnel it had left behind. Small ridges lined it, forming stone ribs.  Wonder where that goes.
+
+Ignoring it, she retrieved her bolts and walked through the area, hunting for more rats to kill. Spotting one, she shot it and collected it. The sound of feet on stone made her turn.
+
+Stavn walked down with Sigrid.
+
+Smiling, Kindra turned and waved at her.
+
+“Hello, dear,” Sigrid said, walking over and placing her hands on the wall. Magic rippled out, mending cracks in the walls and pillars.
+
+“You’re fixing it?”
+
+“Yes. She’s skilled with it,” Stavn said, moving over and studying her. He smiled. “Thank you for continuing.”
+
+Kindra examined him and leaned closer. “What level results in… umm… the harvest?” She grimaced.  God, I can’t imagine having that looming over you your entire life.
+
+Sigrid sighed and turned. “You found out?”
+
+“Yes.” Kindra walked up to her.
+
+“There isn’t one, but it’s a given as you get stronger,” Stavn said, shaking his head. “You’re young and can afford it,” he said sympathetically.
+
+Kindra nodded. “I’ll help clear out the pests and take it.” She smiled. “That’s not a problem.”  I need it, a lot of it.  She watched the magic surge around Sigrid. Runes flashed into view, and Kindra memorized, watching as she mended any cracks throughout the cavern.
+
+Sniping a rat, Kindra pulled the mana into herself and dumped the carcass on a trail before turning back.
+
+“With me, Kindra,” Sigrid said, walking into the grub’s passage.
+
+Kindra jogged over and peered into it. “Shouldn’t the tunnel collapse behind it?”
+
+“No, it pushes the stones using magic. It can create interesting minerals and crystals.” Sigrid walked into the passage and gestured, running her fingers along a small line of quartz.
+
+Following along, Kindra walked down the passage, examining the smooth walls. Small ribs flexed in and out as if it had created small speed bumps.  How much pressure can this thing put out?  She studied the metamorphic rock while she walked.
+
+Running her fingers against the wall, she slowed. The tunnel narrowed, and Sigrid ducked into it. Crouching through the narrow portion, she followed through it and emerged in an intersection. Two parts headed toward the surface, and one headed deeper.
+
+Turning, the three headed deeper, traveling down the smooth tunnel. Kindra swallowed.  Why are we doing this? It seems unsafe.  She checked her crossbow.  Does anything live down here?
+
+The tunnel went down and then leveled off. It bent here and there. Crossing tunnels began merging with it, and Kindra studied the walls, trying to memorize the path taken.
+
+Pausing, Kindra squinted at the wall. A vein of something ran through the stone.  Is that copper?  She tapped it with her finger. “Sigrid?”
+
+Sigrid turned and walked up. She smiled and nodded. “That’s a copper vein. A good find.”
+
+Kindra did her best to memorize the spot.  I need this.  She turned and followed the two. The tunnel began arcing down once more. A few minutes ticked by, and the smell of dirt and rock shifted to decay.
+
+Wrinkling her nose, she stepped forward, and the two dwarves paused. Sigrid gagged. Stavn looked pale, and Kindra peered into a room full of mana. The decayed remnants of bodies littered the floor. Bones had been smashed into the stone, creating strange white splotches. To top it off, a strange, glowing fungus was spread across it.
+
+Stepping forward, Kindra was jerked to a stop. She turned toward Sigrid, who shook her head and gestured at the mold.
+
+Kindra turned and looked at it. It was glowing.  Is it toxic or something? Why come down here?
+
+Sigrid pulled up her hand and sketched out familiar runes.  That’s for fire.  Kindra nodded, turned, and formed the sequence of runes in her mind. Like the elemental of her dream, her hand glowed. Flame formed in it and licked out. The mold erupted, spraying some sort of spore into the air.
+
+The fire flickered through it, and the green haze ignited with a whump. A breeze pulled at her back. The oxygen sucked from the room, and Sigrid grabbed her hand, pulling her back.
+
+Good point.  Kindra jogged and then ran after them, pausing near an intersection with the tunnel. The smell of smoke lingered in the air, and mana flowed into her.  I can level from mold? That’s cool.
+
+“The spores are very dangerous,” Sigrid said, gesturing to ensure Kindra understood the words.
+
+Kindra nodded. “But they are flammable?”
+
+“Yes.” Sigrid looked down the intersection.
+
+“Why are we coming down here?” Kindra peered down the intersecting tunnel. A soft breeze washed over her skin.  What are they looking for?
+
+“Gems, potential veins, and to kill any eggs,” Stavn replied, stretching and walking back toward the smokey room.
+
+Kindra followed them down. “Will we collapse this?”
+
+“We’ll link it to the mines,” Sigrid said, her eyes locking onto the walls. She paused and pointed. “Stavn, another copper vein.”
+
+Running her fingers along the copper, Kindra smiled. “I need some of this.”
+
+“Copper?” Sigrid asked, her brow raised.
+
+“Yes. I need some of that.” Kindra turned and walked down the tunnel. She peered into the room, studying the ash for signs of life. Spotting an unburnt patch, she studied the glowing mana inside of it. Sigrid’s fingers flickered, and a stream of fire bathed the stone, heating it. The spores burned and didn’t explode.
+
+Are we going to suffocate?  Kindra frowned and stepped back. The two others did the same, quickly moving back up the tunnels.
+
+Kindra followed, her thoughts drifting as they headed to the intersection. Reaching it, they stood there, waiting. She looked at the glowing mana inside Sigrid. It was far more than Stavn, and he had fled the grub. A nervous chill ran through Kindra’s body. “Mom, are you too strong?”
+
+Sigrid turned and gave her a pained smile. “It’ll be fine, Kindra. Don’t worry.”
+
+I know what that means.  Kindra frowned.  How do I stop that? They have to be strong, but a good rifle goes far. Maybe I can make a stronger one.  She nodded to herself and looked at the two.
+
+“Kindra, are you a tinker? You create little devices, like your crossbow?” Sigrid gestured to it.
+
+Kindra nodded. “I picked that one, yes.”
+
+Sigrid paused a moment before turning to Stavn. “And the priestess?”
+
+“Ranger or rogue are possible, but unlikely. Her magical affinity is high. You saw it.” He gestured to the smoke below. “She cast that spell without an issue.”
+
+“So, a forge druid would be ideal,” Sigrid said, nodding. She turned to Kindra, pulled out a pick, and scratched a rune into the wall.
+
+Kindra studied the rune.  That was in the spell she used for the walls, but there were others.  “What’s it do?”
+
+Sigrid turned and smiled. “I guess fire speaks to you easier.” She gestured. Runes flashed into view, and stone pulled from the wall, forming a ball in her hand. “It’s the rune for stone. You can use it to manipulate stone, though the proper spells require some others.” She paused. “Your fire was similar. It was impressive that you could will it forward like that without having a skill.”
+
+“Likely a fire affinity,” Stavn added.
+
+Kindra blushed.  Whoops. I just used the runes from the dream.  She watched. Runes flared around the stone, and it launched down the passage, hitting the wall with a loud thud.
+
+Oh!  Kindra nodded.
+
+Sigrid turned and etched out seven other runes, scratching them into the wall. “This one controls the stone. These four allow you to control it, and two more are used to shape it.”
+
+Looking at the stones, Kindra memorized the runes, forming them in her mind. She fed it a tiny bit of mana. A stone formed from the wall, becoming a little ball. Like an extra limb, she felt the connection thrumming. Willing it forward, she launched it down the tunnel. It zipped forward, hitting and bouncing off the rocky ground, rolling to a halt in the cavern below and making something move.
+
+Kindra gasped. A strange, snake-like thing moved, sinking itself into the ground.
+
+“Well done,” Sigrid said, surprise spreading across her face. “You’ll make a wonderful druid.” She patted Kindra’s back.
+
+Kindra’s focus remained on the strange thing.  What is that?  She stepped forward, and Stavn passed her, walking down the tunnel.
+
+Kindra followed and then stopped as the cavern came into view. Massive mushrooms were shuffling into the cavern, their roots moving like large snakes, slithering and pulling them forward.  An underground forest?  Glowing runes and magic cast the area around them into a deep glow.
+
+“We found it,” Stavn whispered.
+
+“We don’t know that for certain,” Sigrid whispered back, her eyes locked onto the moving trees.
+
+“Found what?” Kindra whispered, looking over.
+
+“An entrance to the underrealm.” Sigrid stepped forward.
+
+Kindra did the same, peering into the room. The mushrooms slithered into the room and anchored themselves in the stone, driving their roots in and causing water to spray from the ground. A stream began to form, and the mushrooms gathered around it.
+
+“Are they dangerous?” Kindra asked, studying the strange forest.
+
+“Not these,” Stavn whispered. “Well, unless you attack them.” Moving silently, he walked through them, careful not to step on any.
+
+Kindra followed.  Does magic let things live down here?  She felt a breeze.  And are they producing the breeze?  She walked past a large mushroom with a trunk the size of a small car. Its roots reached out and sunk into the rotting things on the ground.
+
+With eager smiles, the two dwarves made their way through the forest. Kindra followed.  Why are they so happy?  The two dwarves eagerly moved through the tunnel. Other trees had spread upward. A pile of eggs was covered with them, the roots breaking into and consuming the remains.
+
+If there are drow down here, I’m getting the gun.  Kindra chuckled to herself and followed them, carefully avoiding the mushrooms. The lights from the fungus lit the place, casting strange shadows.
+
+Walking around a corner, she looked at a cavern. Water dripped from the stone ceiling. Stalactites and stalagmites littered the cave, and plants grew on the mineral-rich water. The mana was thick, and plants were breathing it in and out.
+
+Staring at a small mushroom glowing with mana, Kindra tapped Sigrid and walked up to it, gesturing.
+
+“That’s a magical mushroom, very useful for healing potions,” Sigrid said happily. She walked up to it and stopped, gesturing to Kindra. “Gathering it will help you level if it has collected enough mana.”
+
+“What if it doesn’t have mana?”
+
+Sigrid shrugged. “It’s still very useful.”
+
+Kindra walked over and pulled it off the wall, pulling the mana into herself at the same time. The mushroom wilted, and Sigrid took it with a wink.
+
+Blushing, Kindra winked back and looked around the room. Moving to anything aglow with mana, she pulled it into herself.
+
+[Your mana increased: 1354  →  1498.]
+
+No wonder they said I was weak.  She plucked another mushroom from the wall and pulled mana into herself.
+
+After harvesting the older ones, she turned and nodded to the two dwarves. They walked down the slopes.
+
+“We’ll need to be careful,” Stavn said softly.
+
+“I should last one more,” Sigrid replied, shaking her head.
+
+A small flicker of rage spread through Kindra’s chest.  No, I’m not letting someone use them like literal livestock.  She followed and began working through the runes to break a magical shield.
+
+The tunnel forked, and Stavn ran his fingers on the ground, searching for signs of the mushrooms. Locking onto the direction, he took the tunnel to the right.
+
+Turning, Kindra did the same, following the two dwarves. Glowing lights in the distance twinkled. Mana swirled around her, and Kindra watched a large, glowing blob move across the ceiling.  What is that?  A barrage of magic filled the air. Runes cascaded forward, and horror flooded through Kindra’s body.

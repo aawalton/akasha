@@ -1,0 +1,161 @@
+---
+id: c39588b3-06c2-5dd8-83f3-167209f2f803
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: Building a Global Society 1"
+slug: 0318-chapter-37-building-a-global-society-1
+partOf: labyrinth-of-the-mad-god
+position: 318
+ownLength: 2565
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3497802/chapter-37-building-a-global-society-1"
+royalRoadId: "3497802"
+---
+
+“Thank you for that moving speech, Nightsong.” Elizabeth bowed to the coyote and turned to address the diverse collection of settlement leaders and emissaries filling the assembly hall.
+
+“Now that everyone who wanted to speak has done so, all that’s left is casting your vote. Take all the time you need, and we will proceed with today’s presentation once your settlement is an official or provisional member of the Promethean Coalition.”
+
+Liz took a seat between Kerry and Stan while the dignitaries broke into groups to discuss her proposal. She nodded to the leaders of Desert Rose and Dragon’s Tooth. They had worked hand-in-hand with her team to present a compelling argument, along with representatives from the beast tribes that had already entered the alliance and were ready to join the faction as soon as Nick completed his quest or Aurora reached City Tier 7.
+
+More than thirty settlements had agreed to take part in today’s deliberations, including most of the sizable towns her scouts had made contact with thus far. The first ambassadors had arrived last week, and she had spent every waking moment using every trick at her disposal to achieve a favorable outcome for her people and humanity as a whole.
+
+No, she corrected herself while gazing at the astonishing range of intelligent beasts participating in the diplomatic process. For all of Earth’s protectors, along with every living creature who calls this planet home.
+
+The representatives had spent countless hours haggling for access to mana wells where the settlements’ domains overlapped, along with rights to a wide assortment of resources both magical and mundane. Kerry was having the time of her life and had formed a team of experts to oversee Aurora’s economic needs.
+
+While she waited for the envoys to commit to a course of action, Liz made eye contact with each prospective member, smiling at dozens of new faces she had met over the last few days. From the moment the first dignitary arrived, the time had flown by in a flurry of negotiations, meetings, and city-planning sessions, along with an occasional trip into the badlands to clear a new challenge or event her hunters had discovered.
+
+She wasn’t sure what several of the settlements would decide, but she was confident that enough would join Team Earth to complete her city quest, including the most powerful. While the mayor of Aurora was a big believer in inclusivity and a quasi-democratic process, she would never have left such a critical outcome in the fickle hands of fate.
+
+An hour or so later, the chatter died down and everyone took their seats.
+
+As they had agreed, each delegation lit one of three colored lanterns and revealed them at the same time. Liz let out a silent sigh of relief when she saw that the overwhelming majority were green, which indicated a vote for full-faction membership. There were several yellows too, which meant the representatives were still thinking the matter through.
+
+The handful of red lanterns wasn’t a problem. She suspected those settlements were planning to join other factions and having them in attendance was still important. She hoped to maintain favorable relationships with everyone, even if they weren’t going to be working arm in arm during the days to come.
+
+While those thoughts drifted through her head, Elizabeth smiled and addressed the crowd.
+
+“Thank you, everyone. I can’t tell you how much I appreciate you taking the time to participate in this process. I value the insights you have shared during these deliberations and respect your decisions. If you are still contemplating your options, I’m happy to discuss the details at your leisure and provide additional information.
+
+“Regarding our beast friends, we should be able to add you to the faction soon, which will grant your people access to Vital Energy Manipulation, and any other faction skills we acquire. I’m extending an invitation to join the alliance now, which we have decided to call the Planetary Defense Force. It will let to use the portal network, facilitating trade, military assistance, and diplomatic efforts between our settlements.
+
+“To the groups who decided not to join our faction, we wish you the best of luck. Aurora would love to maintain friendly, mutually-beneficial relationships with your settlements going forward, and I know everyone here feels the same way. Regardless of the specifics, we are all in this together as we fight to keep our planet safe and help our people thrive in our new lives as part of the System, the multiverse, and the Labyrinth of the Mad God.
+
+“Please enjoy everything Aurora has to offer as you prepare for the trip home, and speak with our Minister of Finance, Kerry Allbright, about establishing trade caravans before you leave. She can also discuss the possibility of joining our alliance as a trading partner instead of a faction member. Once our Minister of Defense returns, joining the alliance as part of our mutual-defense pact is also an option, as will becoming a research partner, once we find the right person to oversee that cooperative venture.”
+
+Liz waited until the diplomats who had rejected her offer or were still undecided left the room, then addressed everyone who had voted to join the faction, along with the beast tribes who had chosen to become provisional members until the System granted them full access.
+
+“Welcome, one and all, to the Promethean Coalition. There will be a party tonight to celebrate this momentous occasion, and I hope to see you there. However, we have some exciting matters to attend to first. Today’s vote cleared the conditions to take Aurora to City Tier 6, along with any other Tier 5 settlements in our faction.
+
+“Stan has established a committee that is dedicated to helping each and every one of you advance through the tiers before the Rebuilding Civilization bonus quest comes to an end, including the requirements for Tier 7, which I am about to discover. Give me a moment to read through the details, and I will share them with you.”
+
+With that, Elizabeth opened her city menu and read through her updates, clasping her hands together so they didn’t tremble with excitement.
+
+You have formed an alliance with 32 additional settlements, 21 of which have also joined your faction.
+
+Congratulations. The Promethean Coalition has advanced to Level 2.
+
+The cap for your faction skills has increased from [25] to [50].
+
+Upon reaching Faction Level 3, you will be allowed to choose an additional faction skill.
+
+Aurora has completed the final objective required for reaching the next tier.
+
+Would you like to increase Aurora’s City Tier now?
+
+Grinning as she imagined Nick’s surprise on reading the big news, Liz accepted the System’s prompt.
+
+Congratulations, Aurora has advanced to City Tier 6.
+
+For reaching Tier 6, the settlement has gained the following rewards:
+
+Significant expansion of the city’s sphere of influence (250 miles).
+
+Inter-Alliance Portal Network upgrade (Current time limit: 60 minutes per day).
+
+Selection of an additional faction skill (This bonus may only be obtained the first time a member reaches City Tier 6).
+
+Selection of City Specialization (Combat, Commerce, or Research/Crafting).
+
+Aurora’s domain is massive now. We will have to find an equitable way to share resources in the areas where we overlap with other members, but the Monster Wards and Weather Barrier should save countless lives during the days ahead.
+
+Before she dealt with the faction skill and city specialization, she opened her city-questing menu to read the requirements for Tier 7. The specifics would shape the discussion to come, and the dignitaries were eager to learn the details themselves.
+
+Current Quests
+
+Acquire 50 mana wells and 7 Rare buildings.
+
+Have 5 residents Tier 2 or above.
+
+Expand Aurora’s population to 50,000 citizens.
+
+When this quest has been completed, your city will advance to Tier 7 of 7.
+
+Rewards
+
+1 Unique Building Voucher (you may also redeem any other Unique building vouchers/rewards in your possession).
+
+No restrictions on using the Inter-Alliance Portal Network (24-hour access).
+
+Right to participate in Earth’s Global Council (formation pending) and vote on planetary policy (details to be divulged at a later date).
+
+Additionally, the following reward will be provided to the first of Earth’s settlements to reach Tier 7:
+
+Global Auction House (Unique) (System administrated and protected).
+
+10,000 City Points.
+
+Elizabeth let out a soft sigh of relief when she read the conditions for the final quest in the series. Aurora shouldn’t have any problems achieving those numbers for population size, mana wells, or Rare buildings in the time she had left.
+
+Having five people reach Tier 2 might be tricky, but there were a few members of their faction who had already done so and could offer advice, and she was confident that her people would start tiering up soon. Nick, Kenji, Ella, Devin, and V should be close by now, and the rest of our elites are making rapid progress.
+
+Since Aurora was the first settlement in Team Earth to reach Tier 6, she shared the Tier 7 requirements and rewards with the other emissaries. Some of their cities were small right now, but she intended to have everyone reach the final tier in the remaining months at their disposal. Learning the details set off an animated discussion among the visiting dignitaries, and she grinned as she contemplated the final set of rewards the System would provide if her settlement completed the quest in time.
+
+Including the milestone reward we earned for founding one of Earth’s first capitals, that makes two Unique vouchers plus the Simulation Dome Devin’s party is questing for. I can’t wait to talk our options over with Kenji and Nick when they get back.
+
+Moving on, unrestricted use of the portal network will be a godsend. Managing that time limit is a pain in the ass and its only gotten worse as we’ve added more members to our alliance. I have no idea what joining the Global Council will entail, but it should make influencing planetary policy feasible far faster than I originally planned.
+
+Last but not least, the Auction House sounds like a great way to conduct business with individuals and groups outside of our alliance. If we manage to add it to Aurora, it will draw people from around the globe, maybe even other worlds once we explore more of the sector. Elizabeth had been planning to race to Tier 7 all along in the hopes of picking up another millstone bonus, but she was more motivated than ever now that she knew what it was.
+
+While the possibilities were thrilling, she parked that train of thought for a few hours. There was still a great deal she needed to accomplish before the day was done, starting with choosing Aurora’s city specialization. She had discussed the matter extensively with the settlement’s leadership, including Kenji, Nick, and Devin’s team before they left on their quests.
+
+Even still, Liz read through the details one final time before pulling the trigger, just to make sure she hadn’t missed something the first hundred times around.
+
+City Specialization
+
+When a city reaches Tier 6, it may select a specialization—combat, commerce, or research/crafting. All skills related to this specialization will grow 25% faster if used within the city limits. All mana-using buildings related to this specialization will have their requirements cut in half, letting their wells support additional structures or be used in other ways.
+
+While each of the three specializations was valuable in its own way and would help Aurora’s residents advance their skills, only one choice made sense considering the Rare buildings they had already chosen and the ones they planned to add next. It would be insane not to take full advantage of doubling the efficiency of the city’s mana wells, which would only become more valuable when humanity devised other ways of using them during the days ahead.
+
+As adrenaline raced through her veins like a herd of wild stallions, Elizabeth made her decision and confirmed the prompt.
+
+Aurora has chosen its City Specialization: Research and Crafting.
+
+Going forward, all skills related to this specialization will grow 25% faster if used within the city limits.
+
+Additionally, the mana costs for maintaining the Item-Modification Station and Magitech Research and Development Center have been reduced by 50%, as will all buildings related to the settlement’s specialty that are placed during the Rebuilding Civilization period.
+
+Liz let the conversation continue as voulentters served refreshments, chatting with Stan and Kerry about how these revelations would affect their short-term plans. When everyone was done snacking, she rose to her feet once more.
+
+“I’m glad to see that you are just as excited about tiering up your cities as I am. We will be working together to punch out those requirements over the coming days. For now, let’s turn our attention to the next item on the agenda, after which I will lead you on a guided tour of Aurora’s recent efforts, starting with the placement of our newest Rare building. Before we cut the ribbon, we have another matter to attend to while the leaders of our faction are sitting in the same room, voting on our second faction skill.”
+
+Technically, the bonus skill was Aurora’s milestone reward, and Liz could have unilaterally picked it without her members’ input. However, that wasn’t the kind of dynamic she wanted to cultivate, so she was giving everyone a chance to voice their opinion first.
+
+That being said, she had no intention of allowing the outcome of such a vital decision to slip through her fingers. Elizabeth had already spoken to enough leaders in private to secure the skill she wanted, which made the ensuing debate considerably less stressful than it would otherwise have been.
+
+She waited patiently for everyone to speak their piece, come to a decision, and cast their vote, then read along with the others when an update from the System appeared.
+
+Your faction, The Promethean Collation, has chosen to acquire the following skill:
+
+Sense Hostility
+
+Sense if an entity has hostile intentions toward you. This includes, but is not limited to, killing intent, physical abuse, psychological harm, or the theft of your possessions.
+
+While there were dozens of solid options to choose from, she wanted a skill that would be useful in myriad contexts—both here and now, and over the long-term.
+
+Sense Hostility would work together with Psi to help warriors detect enemies while exploring the Labyrinth, and it would synergize nicely with skills like Size Up. It would also help ordinary people locate predators lurking nearby, whether they were of the monstrous, bestial, or human variety.
+
+However, the skill would be just as useful for diplomacy and trade as it was on the battlefield, working with Charisma to let Liz know who she could trust and who was seeking to harm or take advantage of her people. It wasn’t a perfect defense—someone who bore her no ill will could harm her without triggering the skill, and some entities were certain to have powers that could counter its effects—but Sense Hostility would serve Team Earth well during the ordeals to come.
+
+Satisfied that her plans were proceeding apace, Elizabeth moved on to the next item on her list. There was still a great deal she intended to accomplish before everyone went their separate ways, and she was looking forward to rolling up her sleeves and advancing her next batch of goals.

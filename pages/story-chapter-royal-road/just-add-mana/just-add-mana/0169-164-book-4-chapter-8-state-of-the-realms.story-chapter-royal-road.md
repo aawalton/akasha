@@ -1,0 +1,179 @@
+---
+id: 173cf5f5-c967-554a-ba9a-9b18e727afd2
+page-type-slug: story-chapter-royal-road
+title: "164 — Book 4, Chapter 8 — State of the Realms"
+slug: 0169-164-book-4-chapter-8-state-of-the-realms
+partOf: just-add-mana
+position: 169
+ownLength: 3292
+unit: words
+publishedAt: 2026-07-25
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3724342/164-book-4-chapter-8-state-of-the-realms"
+royalRoadId: "3724342"
+---
+
+The first thing Cale noticed about the labyrinth was that it felt different, somehow. He wondered if that was because Professor Imrys had done something to the door—he'd noticed her fiddling with it for a little longer than usual before opening it, although he hadn't sensed anything unusual about her magic at the time.
+
+"Psst," Cale whispered to Leo, who glanced at him oddly. "Does the labyrinth feel different to you?"
+
+"I guess?" Leo frowned. "Now that you point it out, it does feel a little more twisted than usual."
+
+"Imrys opened the door differently," Cale said. "I wonder if that has something to do with it?"
+
+"Why would the door change anything?" Leo's brows furrowed, and he reached out to place a hand on Cale's forehead. "Are you sure you're well enough to be attending classes?"
+
+"I'm fine," Cale insisted, batting ineffectually at Leo's hand. "Doors can change everything! That's how a lot of door magic works, you know. You change the door and you change what's behind it. It's practically built into the Great Realms."
+
+"Is it?" Leo asked, clearly skeptical, and Cale nodded emphatically.
+
+"There are realms you can only reach if you open the right door, at the right time, with the right key," he said. "And there are worlds that exist only while the door that connects to them stays open. Door magic is incredible. Not as incredible as baking magic, mind you, but still."
+
+"And you think Professor Imrys did something with the door to change the labyrinth?" Leo glanced at the walls around them doubtfully. "I guess that's possible, but if we're going to be crossing realms, we have to be using more than just door magic, right?"
+
+"With very few exceptions, door magic isn't enough to cross the Abyss," Cale agreed. "There's definitely more to it than that."
+
+"Something about the magic in the labyrinth feels familiar," Damien offered, reaching out to brush his fingers against the walls. He concentrated faintly for a moment, then shook his head. "I'm not exactly sure if this is what it reminds me of, but it feels almost like—gah!"
+
+Damien jerked backward with a yelp as Professor Imrys appeared suddenly in front of him, her cane outstretched and a reproachful look on her tiny face. "I must ask that you pay attention to the class, my dears," she said, tapping Damien's nose with her cane. "I'll explain things soon, not to worry! I'm sure you can manage to focus until then, hm?"
+
+"Y-yes, ma'am!" Damien said, straightening and giving her a salute for some reason. Cale wasn't even sure where he'd learned that, but Imrys seemed satisfied; she nodded at him, smiled, and trotted back along the corridors of the labyrinth, looking remarkably small against its enormous walls.
+
+Cale glanced at his fellow students, baffled. She hadn't started the class yet, so what was there to pay attention to? After a moment, though, he shrugged and followed along; maybe whatever magic she was doing required silence. It wasn't like there was anything else he could do until she decided to start her lecture, and the other mages accompanying them weren't exactly conversationalists.
+
+Like most of Professor Imrys's classes, Streaming the Realms was a relatively small and contained lesson, consisting mostly of mages that she believed would be able to handle an excursion into another realm. Of Cale's apprentices, only Leo and Damien were attending, though that was because Flia and Syphus both had other classes they were already excited about. Other than that, two of Brightscale's wyldfire mages were attending, and that was it.
+
+One of them was Thorn, who, true to form, had been tense and silent throughout, though his gaze lingered on Cale every so often. The other was a spatial mage that went by the name of Featherstrike.
+
+Cale didn't know much about Featherstrike. He was an avian mage of some description, with glossy black feathers and a tall, lean build. Most of that was hidden beneath his cloak, which he only seemed to open whenever he needed to cast a spell. So far the only time Cale had seen him cast was just before they'd stepped into the labyrinth, though that glimpse alone was telling—the bird-man had what looked like nearly a hundred miniaturized spell reagents strapped to his belt and chest.
+
+Alas, as much as this intrigued him, Featherstrike seemed entirely uninterested in conversation. In some ways, he was even worse than Thorn, who had at least been quiet because he was reasonably suspicious of Cale. Featherstrike had no such concern, but he'd still gone out of his way to establish that he was less than friendly.
+
+"I recognize that you have the power to beat even the gods," Featherstrike had told him when he first tried to introduce himself. "But power alone does not earn my respect. Do not expect me to worship the feet you walk on simply because you have it."
+
+Cale had opened his mouth to respond, frowned, closed it again, and thought carefully about what Featherstrike said before speaking. "Uh," he said. "Just for the record, the phrase is 'worship the ground you walk on'. Not feet."
+
+Featherstrike had stared blankly at him, and the seconds that passed after felt like some of the longest and most awkward silences Cale had ever personally experienced. Mostly because the avian seemed to fall into what was, as best as Cale could tell, a deep contemplation about the nature of the saying. He wasn't sure he'd ever seen anyone concentrate this hard on a saying, in fact.
+
+"To worship the ground and not the feet..." Featherstrike had muttered to himself. "Odd. Why is it that Irathia always speaks of worshipping the feet I walk on, then? Perhaps the ground is simply a mammalian variant of the saying?"
+
+Thorn had grunted. "No. Cale's right. Saying's ground, not feet."
+
+"I see. In that case, I thank you for the correction and opportunity to learn." Featherstrike had bowed toward Cale, then, before lapsing right back into a state of deep contemplation.
+
+In all his many years of life, Cale had never seen a stranger's opinion of him turn around so quickly, especially not when he'd done it by complete accident. And by correcting him on a saying, of all things! He'd even tried to clarify afterward that he was not, in fact, interested in anyone worshipping him in any capacity, but Featherstrike had only nodded distractedly; he was clearly deeply caught up in whatever train of thought Cale had provoked.
+
+So that had been interesting! Cale had no idea what to make of it aside from that. Which was pretty novel for him, honestly, and since he loved the many eccentricities of high-level mages, that alone was enough for Featherstrike to earn some points in his book. He had to wonder what kind of magic a mage like that would specialize in. He was a spatial mage, sure, but what kind of spatial magic did he use? He hoped he'd get the chance to find out soon.
+
+This was, unfortunately, the one time the labyrinth stayed quiet and unassuming as they made their way through it. That probably had something to do with the two wyldfire mages accompanying them that did nothing to suppress their power, though Cale wouldn't have been surprised if Professor Imrys's presence had something to do with it as well.
+
+He wasn't actually sure if she was at wyldfire herself. She wore an artifact that kept her core entirely suppressed, and he hadn't thought to ask. He was almost certain, however, that he'd caught at least one beast slinking up to her only for her to give it a sharp look that sent out whimpering and scampering away.
+
+Terrifying. Did she use some kind of artifact for that, or was that some magic intrinsic to her?
+
+Either way, they moved through the labyrinth quickly as a result. Not even the traps posed a problem to them—Imrys led them around those traps with a deftness that might have suggested she was a minotaur herself if not for the fact that she was cheerfully making use of an artifact she had built explicitly for this purpose.
+
+(It was an artifact that used minotaur fur. Cale was aware of this because Leo had come up to their room just a day ago looking vaguely traumatized. Apparently, Imrys had "needed his fur for something.")
+
+"Dear me," Imrys said at last. "I suppose I see now why you speak so much to your companions."
+
+Cale blinked. "What do you mean?"
+
+"I don't need telepathy to be able to see how loud you're thinking," Imrys said, tottering closer to peer up at his face. "Goodness. You think constantly. Do you never let that brain of yours rest, my dear?"
+
+"I'm pretty sure you do have to be a telepath to see how loud I'm thinking," Cale pointed out. Imrys ignored this, clicking her tongue instead and starting back down the corridor.
+
+"Very well," she said. "I suppose I should begin the lecture before I bore my poor students to death! It's not every day I get to host our prestigious wyldfire mages, is it? You two must be bored, too. Or wondering how it is that we will travel between the realms like this, hm?"
+
+Thorn grunted. "Could wait. Would prefer not to."
+
+Featherstrike had finally shaken himself from his reverie. "It would please me greatly to know how you intend on solving the Abyssal bridge."
+
+Professor Imrys grinned. "Ah, but that's the beauty of it, my dears! I don't have to. Cale here has done it for me."
+
+"I did?" Cale asked blankly.
+
+"Oh yes," Professor Imrys said. "The beauty of a labyrinth produced by the Labyrinth Plague, my dears, is that they are so spatially confused within that they may be convinced that they lead almost anywhere. This is why the labyrinths produced by the Plague are connected, yes? You were able to cross a continent once with this trick, as I recall."
+
+To get to Sternkessel. Cale remembered that. "That doesn't let you cross the Abyss," he pointed out.
+
+"It didn't," Professor Imrys said gleefully, and she began to rap her cane against the tiles and walls of the labyrinth, causing a rhythmic tap-tap-tap to echo out around them. "But the Abyss is different now, isn't it? I saw it in the folds of magic itself. You created a truebridge that links us across all of time and space. And that sort of magic is very, very special, my dear."
+
+Imrys pressed a final tap on the tile directly beneath her, and Cale realized belatedly that she had been tapping her cane in a circle—that even the rhythm of her tapping had formed a circle. At the end of her cane, a tiny imprint of a third kind of magic circle had been stamped, and she had marked the walls of the labyrinth with it.
+
+A triplicate ritual. The magic in the labyrinth surged toward her, fueling the spell she'd cast, and Cale wasn't sure if he hallucinated it, but he was almost certain she danced a tiny, excited little jig. Or maybe that was part of her spell?
+
+"It's the kind of magic that will give us access to all the secrets of all the worlds," she said. "Think of all the artifacts we'll be able to make, dearies! Utelia will no longer be isolated in a corner of the Great Realms, and we can learn from everything that's out there."
+
+She paused long enough to beam at them, and then, with a flourish, spoke. "Welcome, my dears, to Streaming the Realms!"
+
+The circles around her glowed with power, and a moment later, mist began to billow out from the walls. Damien let out a gasp of recognition, and Leo tensed, reaching out to grab him by the wrist—no doubt remembering the moment they'd lost him in the Bitter Path, when he'd been shunted into the Fog.
+
+Because that was exactly what this was. Imrys had somehow found a way to tap into the truebridge and access the power of the Fog within it. It bloomed out now throughout the labyrinth, changing from within on an absolute, fundamental level.
+
+It was an incredible feat of magic. Cale could feel himself grinning, drawn into the demonstration.
+
+Granted, this was a terrible idea for a great number of reasons. If he'd known ahead of time that this was what she wanted to do, he might even have tried to stop her. A connection like this was two-way, after all, and there was an already existing problem with the labyrinths and a potential invading force connected to the Nothing. Who knew what this would do? It would, at minimum, bring attention to Utelia.
+
+Yet at the same time, was this not the very essence of magic? It gave them the potential to truly explore the realms, to uncover every hidden secret, to discover what had never been found before. Cale knew more than most how much danger lurked in the shadows of the Realms, but he knew also the other side of it: that there was beauty within those shadows, answers that could not be found in a single realm, and new magics to solve old problems.
+
+They were going to have to be careful, though. He wasn't worried about Thorn, Damien, or Leo, since they had all experienced the Bitter Path firsthand. Imrys and Featherstrike, on the other hand?
+
+Powerful as they were, they were probably going to need someone to look out for them.
+
+"Babysitting protocol," Cale whispered to Leo and Damien before the Fog could fully envelop them. Both of them gave him a funny look.
+
+"Seriously?" Leo asked. "Why would—"
+
+This was, of course, the moment the Fog dropped away and they found themselves standing on rough, strangely cracked ground. Cale glanced down, his brows furrowing, then stared at the northern horizon, where a great canopy of giant leaves seemed to spread across half the sky; over on the southern horizon, there were instead roots that spread through the air in large tangles, mimicking the shape of a dome.
+
+They were, in other words, standing sideways on a giant tree.
+
+"Oh!" Cale said. "We're in a tree dimension!"
+
+Everyone stared at him, and Cale beamed right back, trying to calm his racing heart. For a split second he had thought Yggdrasil had somehow returned. He hadn't experienced a summoning to a realm like this in eons. Thankfully logic reasserted itself in time—this tree was nowhere near large enough to be the World Tree. And he did know a thing or two about tree dimensions, so it was a good thing Imrys had brought him along.
+
+Speaking of which, he had better warn the others. "Okay, so, you're going to want to be careful. Gravity in these realms only works if you believe in it."
+
+"It what?" Leo frowned at him, confused. "What's that supposed to mean?"
+
+Cale just pointed at Featherstrike, who was squawking and scrabbling in panic as he began sliding helplessly across the ground toward the roots. "You know how gravity was discovered because of an apple tree?" he asked, ignoring the way everyone shook their heads in response. "Tree dimensions like these are all really proud of that, so if you don't believe in gravity, they just start messing with you."
+
+"I have so many questions," Leo said with a sigh. He moved to help Featherstrike before the poor mage floated off into the atmosphere. "But I'm guessing they're going to have to wait."
+
+"Yup!" Cale said. "First, we gotta greet the locals."
+
+Far away from the continent of Ercryst, a certain dark lord was puzzling over the changes that had manifested overnight within a particular school of magic.
+
+In most cases, Kelegas would simply have chalked up any change in the effects of his spellwork to the fact that he was now in a region saturated with divine intent—there was, after all, a pretty good reason that he and his army of aberrations spent all their time as far away from it as possible—but the dark magic he practiced was the one form of magic that should not have been affected by any divinity.
+
+The good news was that his magic hadn't been rendered entirely ineffective. The bad news was that many of his spells now acted unpredictably, and he had nearly failed one of his classes because of it. It was a good thing Steve had been able to cover for him. Kelegas had never been quite so thankful for the man.
+
+Still, this was a problem. If he intended to infiltrate the Fettered Divinity tournament, Kelegas needed to prove himself to this academy and join their team of wyldfire mages. He couldn't do that if his magic was acting unpredictably and he failed to pass the most basic of tests. That meant he needed to identify what had changed about his magic and how that had happened.
+
+"It should not be possible," Kelegas muttered, scowling to himself. "True dark magic is aberrant in nature. Nothing that affects the fabric of divine-tainted magic should affect my spellwork. Perhaps it is sabotage? But none should be aware of my presence here..."
+
+"Sir?" Steve asked, looking over at him. They were sharing a dorm, of course, and the poor man had been listening to him mutter to himself for the last thirty minutes.
+
+"I have told you to call me Kel while we are 'students' in this academy," Kelegas corrected absently.
+
+"Kel, then." Steve seemed strangely abashed by the command. "What's going on?"
+
+"You have noticed it already," Kelegas said. "My spells have been more unpredictable lately. If I knew the cause, I might be able to account for it and correct it, but I am at a loss as to what could have changed."
+
+Steve frowned. "Your magic isn't the only magic that's been acting up, from what I've heard," he said. "I overheard some of the professors here talking about it. Apparently the oceans are storming again and some people are getting new spells granted to them by the Gift or something, with magic they've never seen before."
+
+"That is... odd, but it should not have an impact on my magic." Kelegas drummed his fingers on his desk restlessly. "I draw from the Abyss and the Nothing. Only a larger change in the structure of the Great Realms should have any impact."
+
+"Oh!" Steve straightened, his eyes gleaming with sudden excitement, as they always did when he realized he could be helpful. "In that case, I know what it is! It has to be the time tunnel."
+
+"...The what?"
+
+"Remember when I had a fever and was all sick and stuff? I figured out why. It's because someone was building a time tunnel in the Abyss. And now there's... well, now there's a time tunnel in the Abyss. That kind of structural change could affect your magic, right?"
+
+Kelegas stared at Steve. "And you did not think to mention this before?"
+
+"I didn't think it would affect your magic!" Steve looked abruptly worried. "Is it bad, si—I mean, Kel?"
+
+Kelegas sighed. "It could be worse, but I will have to rebuild many of my spells to account for this change," he muttered. "Luckily, we should have plenty of time to do so. It is fortunate that this academy is in need of more wyldfires, and are thus reluctant to scrutinize me too closely... come along, now. We have much magic to do, and I will need your assistance to measure the exact length and size of this tunnel, as you call it."
+
+Steve, for some reason, went red, though Kelegas had not the faintest idea why.

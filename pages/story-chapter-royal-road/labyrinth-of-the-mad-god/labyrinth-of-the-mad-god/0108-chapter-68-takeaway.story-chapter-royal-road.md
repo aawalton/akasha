@@ -1,0 +1,59 @@
+---
+id: 5461583f-7dc8-52df-8dd1-a906c35ed3e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68: Takeaway"
+slug: 0108-chapter-68-takeaway
+partOf: labyrinth-of-the-mad-god
+position: 108
+ownLength: 1632
+unit: words
+publishedAt: 2024-12-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1971465/chapter-68-takeaway"
+royalRoadId: "1971465"
+---
+
+By this point, Nick was wondering if he could give his reward back to the System. Maybe trade it in for a week at the beach. The fact that Rita was completely unrepentant and staring down as his bloody nose with rapt attention, like she was committing the moment to memory so that she could treasure it later, did nothing to assuage his doubts.
+
+Her next words did manage to make him feel a little bit better. At least enough not to start running away on the spot. “That’s enough for now. Thank you, Kiki. You can give yourself a mana-treat and then power down for the rest of the day. It’s obvious that Nick isn’t ready to fight you yet.”
+
+With that, the doll gave Nick a last, lingering look and then sauntered off toward the far side of the workshop, setting her sword down on a table along the way. “Before we go any further.” Rita tossed him a towel and a flask filled with sweet juice. “Why do you think that you lost?”
+
+He answered as he wiped the sweat off his face. “I don’t think that it’s a matter of speed. While that doll is faster than I am, I was able to track all her movements. At least the ones that didn’t catch me by surprise.” Rita nodded, encouraging him to dig a bit deeper. He had an answer ready, because Nick had been analyzing the issue from the second that he found himself lying on the floor.
+
+“There were two primary problems that I can see. Three, if you count how little experience I have fighting other weapon wielders. The first is that Kiki is stronger than I am, and not just by a couple of points, like the difference in our dexterity. She is strong enough to overcome my attacks in a direct exchange of blows. Even more importantly, Kiki is powerful enough to wield the sword in one hand. It allows her to vary her attacks and expand her reach as needed, enabling a range of counters and combos that I’m not skilled enough to imagine.”
+
+“Very good.” Rita looked genuinely impressed for the first time since Nick had met her. “Although she isn’t faster than you, at least not by measuring your raw potential. I set her dexterity to be equal to your own, as it’s in a solid range for someone with your level and build. Any difference you felt came from other factors.
+
+“But you were dead on about the difference in strength. Kiki’s is set to fourteen, four points higher than yours. I didn’t choose that number simply to demonstrate the importance of strength to a warrior,” Rita continued. “Although I’m glad that you were able to pick up on that part.
+
+“I chose fourteen because that’s the minimum strength required to wield your weapon at its full potential. That mysterious sword is unusually heavy for its size. The replicas I made are lighter than it will be when it’s fully restored. If you want to be able to swing your blade around with total control, you will need more power than an average swordsman.”
+
+Nick nodded along with her words as Rita analyzed his performance. “The value of strength isn’t just about using the sword one handed, although you were right about the advantages of having that option on the table. It comes into play when wielding it two-handed as well. Moving the blade through space, directing and redirecting its momentum at will. Being able to create sufficient pressure along the cutting edge and breaking through your enemy’s defense. All of these feats require raw power to execute, especially if you plan to fight while wearing the weight of your gear.
+
+“I highly recommend that you put your free points into strength now, and that you prioritize the attribute until you hit fourteen. You can keep it there unless you choose a heavier weapon or acquire a new class, and focus on raising your other stats instead. Now, what was the second reason that you lost?”
+
+“Skill,” Nick said, then corrected himself. “No. That isn’t quite right. None of her attacks were overly complex, although they were much smoother than anything I can manage. It isn’t that Kiki demonstrated superior technique. She picked the right attack at the right time. Performed them in the right order with no hesitation or wasted movements, if that makes sense. Which is probably why it felt like she was faster than I am, now that I think about it.”
+
+“Not bad at all.” Rita offered him an encouraging pat on the back. “You really are an analysis specialist, although your instincts aren’t terrible either. That’s more or less the crux of the problem, Nick. Experience. While restricted to her lowest setting, Kiki is limited to simple blocks, slashes, parries, and thrusts. Basic movements that anyone can pull off, and nothing that simulates a trait, ability, or a sword skill higher than your own.
+
+“But that isn’t all there is to being a competent fighter. Kiki has decades’ worth of combat experience and an excellent memory. In essence, she outranks you on a fundamental level that has nothing to do with the powers granted by the System.” As she spoke, Rita began to move, each motion, deliberate, controlled, and graceful.
+
+“She knows how to shift her stance. When to turn her body the right way at just the right time. How to react to every move you make, from the start, all the way to end the fight. You, on the other hand, are self-taught and have extremely limited experience facing off against another weapon. Everything is still brand new, and you are constantly improvising, feeling out each situation as you go along. While it’s impressive that you’ve come this far in such a short span of time, you’re like an amateur competing on the field against a trained athlete.
+
+“If you were playing a game, I would say that Kiki has seen every move you could possibly make a hundred times before, and she knows the counter to each. Due to the gaping chasm in experience, nothing that you can do will surprise her, while you have absolutely no idea what to expect. But that’s not the only problem.”
+
+Rita continued to shift from stance to stance, flowing from one to the next as naturally as breathing. “You’re a thinker, Nick. A strategist who is trying to become a swordsman. While your ability to analyze is a powerful weapon, you spend too much time thinking in the moments that you should be acting. There isn’t always time for both in the middle of battle.
+
+“But that’s only your starting point. I can already tell that you have a warrior’s mindset growing inside you. That improvised backbend during your duel was exactly the right way to respond. No hesitation. No picking the best option out of the bunch. Just spotting a solution that was good enough to survive and executing it cleanly in that instant.
+
+“When you can do that reliably, you won’t need to think, and you will have earned the right to call yourself a swordsman. To make that happen, you need to understand the sword on a deeper level. To live it. Breathe it. Feel it like an extension of your own body and know every move it can make. You won’t get there by the end of our time together, but I promise that you will have taken your first strong step in that direction. After that, walking the road of mastery will be up to you.”
+
+With that, Rita came to a stop and led Nick over to a corner of the workshop he hadn’t seen on the way in. A space that was filled with a several large devices that looked like exercise equipment at a steampunk convention. While they walked, he went ahead and spent his free points on strength, trusting his teacher’s judgment. As the painful sensation of acid dissolving his muscles and shaping them into a more efficient configuration played out, he listened to Rita’s explanation.
+
+“While we’re waiting for your body to recover from the beating you just took, it’s time to get started on the basics. Bright and early tomorrow morning, I’ll teach you your first kata, and then pummel you a bit to shore up your defense. But before you can run, you need to learn how to walk. Or in this case, before you learn how to slash, you need to learn how to stand. Your stance is too rigid and shallow, so we’ll start you off with something that will correct the problem.
+
+“The good news is that you will have plenty of time to reflect on everything that you’ve learned today. The bad news is… well, let’s just say that you’re going to hate it. I’ll give it to you straight. This is going to be an awful experience. But it’s the fastest way to learn how to take a proper stance and not to drop it when you’re tired or your mind begins to wander.
+
+“We don’t have weeks to drill it into you the old-fashioned way, so we’ll speed things up by letting pain be your teacher. I’ll get you set up and then come back when it’s time for dinner. Don’t bother trying to escape, you’ll only make it worse.”
+
+“Ok, I think that makes sense. Wait, back up. What was that last bit again?” Up to this point, Nick had been trying to commit every word to memory. To get the most out of every second with his mentor. But when he processed the meaning of what he’d just heard, the gears in his head stopped turning and he looked at Rita with dawning apprehension.

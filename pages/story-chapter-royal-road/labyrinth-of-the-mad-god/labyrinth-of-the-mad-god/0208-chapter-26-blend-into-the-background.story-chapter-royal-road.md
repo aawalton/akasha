@@ -1,0 +1,123 @@
+---
+id: ca143d17-a391-5653-9bf0-35db46387307
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Blend into the Background"
+slug: 0208-chapter-26-blend-into-the-background
+partOf: labyrinth-of-the-mad-god
+position: 208
+ownLength: 2391
+unit: words
+publishedAt: 2025-08-13
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2515643/chapter-26-blend-into-the-background"
+royalRoadId: "2515643"
+---
+
+By the time Nick made it back to the cave, Liz was back to her old self—or her new self, in this case.
+
+She was still in a great mood, but the flirtatious sensuality saturating every saunter and syllable was gone. He let go of Arctic Clarity, which he had summoned just to be safe, then started cooking the milestone-celebration feast he had promised.
+
+From the way Elizabeth was smiling, she remembered him sprinting out of the cave in response to her advances, but she didn’t seem to be aware of what had taken place before—when their minds had left their bodies, touched, and then melded with each other.
+
+He was still overwhelmed by the incredible, intensely intimate experience, and Nick knew it was going to take a while to wrap his head around the significance of the event. They moved into the crevice to give the smoke room to vent, then he pulled out some wood, a big pot, and a complete collection of cooking utensils.
+
+“That bag is incredible,” Liz said. “Mine is magic too, but it can only hold fifty pounds. Where did you get it anyway?” While he retrieved some of the dried provisions and spices he’d found in the tower, Nick explained that he had used a quest reward token to increase his backpack’s rarity, and then unofficially upgraded it again by adding the antigravity floatstone he’d removed from an airship.
+
+“Clever.” She nodded her approval as they both sat down and waited for the stew to simmer. As a delicious aroma rose to fill the air, he told her what had happened while he was gone, including everything he’d learned about the advantages and risks of exploring the world as a psychic projection.
+
+“You were able to fly? That sounds incredible. Maybe I’ll pick up a Psi-based class next time.” Nick repressed the urge to shudder. While he now understood Elizabeth on a profound level and knew he could trust her with his life, the idea of someone with that much Charisma being able to read minds and sense emotions directly was a terrifying prospect. I’m glad she’s on our side.
+
+While they discussed what wielding psychic powers might mean for the future of their people, he watched her closely, looking for any sign that she had recalled their close encounter. He didn’t find anything of the sort.
+
+Nick realized he understood the woman well enough now to read her tells, making him one of the only people on the planet who could see through the mask she wore—although Liz didn’t know it yet and he had no idea how she would feel when she found out.
+
+When dinner was ready, they both ate several bowls of stew. He tossed everything into his bag to clean later, and they got ready to go to bed. They had both undergone mind-boggling experiences—quite literally in his case—and even with his enhanced Survivor trait, he was exhausted.
+
+He wound up sleeping in late. By the time Nick woke up, Liz had already made breakfast, changed clothes, and packed up her gear. He enjoyed a plate of fried eggs and began his morning routine while she did some yoga and maintained her gear.
+
+After reflecting on the matter, he decided that the best way to deal with last night was to pretend nothing had happened. Elizabeth had simply been reacting to the pleasure of her evolutionary experience, and didn’t seem to remember her psychic awakening at all.
+
+It had been a magical and unquestionably tempting evening, but ultimately an unintended moment of intimacy created by a unique set of circumstances that neither of them had chosen nor seen coming.
+
+It did, however, make Nick miss Sophia quite badly—the memory of her lips pressing against his own had filled his dreams. There might have been some other lips involved in his dreams too, but he forced himself not to think about it and kept his mind on what would happen when their journey across the badlands came to an end.
+
+They would reach the lake before long, and Rebuilding Civilization would begin around the same time. This was a turning point for his people. It was time for humanity to rise from the ashes and establish bases of power across their magic-saturated homeworld.
+
+Once they had founded a city, they needed to grow as powerful as possible before the Shroud of Protection came down and the portals to the Labyrinth opened. Nick intended to push himself to the limit to make sure he was ready for whatever awaited them past that point, and he knew Team Earth’s elites would feel the same way.
+
+After what had happened on the roof of Darkstone Tower—when Nick had caught a glimpse of the truth behind it all—he knew war was coming on a scale he couldn’t possibly comprehend. Taltos had promised to destroy the Earth, along with every world the System had tricked the Mad God into stealing. The System, on the other hand, intended to use those planets as a beachhead in its millennia-spanning plans to invade the Labyrinth.
+
+Nick had his own agenda. He had a score to settle with both of the warring cosmic entities—although his primary goal was ensuring the survival of his people and his planet.
+
+Hopefully, there will be some useful information in the Codex of Taltos and the Labyrinth. We need to unlock as many entries as possible, so we have a better understanding of what we’re dealing with before the next crisis arrives. While he thought the matter through, he worked on his katas while putting his body through its paces.
+
+First things first. It’s time to reunite with my friends, found a city, and upgrade it as much as we can while the bonus quest is running. Once we find a way to establish contact with other settlements, we can coordinate our operations, and I can start looking for my family and friends from the old world. With any luck, at least a few of them will still be alive.
+
+The next time Nick opened his menus, he learned that his trip into Liz’s mind had come with an unexpected benefit.
+
+You have deepened your emotional and social awareness and improved the following baseline attribute:
+
+Charisma has increased from [9] to [11].
+
+Interesting. He finished browsing his updates while considering the changes his people had undergone the day before.
+
+As part of your Diamond reward for the Fate of Earth Quest chain, the following geneline traits have been enhanced: Awakened to Magic, Gift of Tongues, and Versatile.
+
+Your species has evolved to Grade-D and voted for the following upgrades:
+
+Your new attribute is: Psi.
+
+Your new geneline trait is: Blend into the Background (Enhanced).
+
+That last line reminded him that he still had a brand-new power to explore. After they finished their workout, Elizabeth and Nick climbed out of the crevice—eager to explore humanity’s latest geneline trait.
+
+They scanned their surroundings to make sure nothing dangerous had wandered into the area, then got ready to give Blend a try. When he focused on it, he was pleased to discover the trait came with an instinctual understanding of how to use it—much like System-granted abilities. It was enough to get a sense of the broad strokes, although they would have to experiment to learn the details. That’s all right. While visions are nice, nothing beats hands-on experience.
+
+“So,” Liz said. “How do you think we should do this?”
+
+“How about a few rounds of hide and seek? We can move behind some rocks, turn Blend on, and then see what happens.”
+
+“That works for me. Let’s take five minutes to get used to it before we start the first round. Whoever finds the other person wins. Best of three rounds—loser buys dinner and drinks once we establish our city.”
+
+“Deal.” With that, they walked a few hundred feet apart then stepped behind a cluster of boulders. Excited to find out what was about to happen, Nick began figuring out the details of how his new trait worked.
+
+Wearing a broad grin, he gathered his concentration and willed Blend into the Background to activate. His body tingled as the geneline trait went to work. He looked down at his hands—only to discover they were still there, the same as always.
+
+While Nick could tell the power was active, Blend didn’t change his appearance from his own perspective, which was a pleasant surprise. It looks like there won’t be a steep learning curve with this one, and I can just move around the same as always. When he glanced at his feet, he discovered that his shadow was gone, which meant the trait was even better than he’d hoped.
+
+After leaving Blend on for a few minutes, he realized he could sense how much energy it had left in the tank. There was a warm spot in his mind that gradually cooled off as the trait ran out of juice—kind of like a tactile version of a battery bar. It began warming back up when he switched Blend off, which meant it wouldn’t take a full 24 hours to refill unless he used it all.
+
+By now, his five minutes were almost up. He came up with a plan and got ready to start the first round. This was just a trial run in the form of a friendly competition, but that didn’t matter. It was in his nature to give every game his all—especially when playing against a skilled opponent.
+
+When the clock hit zero, Nick sprang into motion.
+
+His first goal was to relocate, since Liz was bound to be watching the spot where he’d stepped behind the stones. By this point, he had already removed rocks from his bag until it was lighter than air, reducing his own weight considerably. He picked out a rocky spire the size of a two-story building and leapt, sailing through the air to land lightly on top.
+
+Elizabeth hadn’t said anything—which meant she hadn’t seen him moving—and now the woman should have no idea where he was. He lowered himself to his belly to reduce his profile, pulled out his spyglass, and took a good look at the cluster of boulders she had stepped behind.
+
+After some consideration, Nick decided to be systematic in his approach. Blend’s primary effect was optical camouflage, and it worked to a lesser extent on his scent, sound, and heat signature. He didn’t have any way to sense heat, and his nose wasn’t nearly as sharp as a beast’s, which meant he would focus on sight and sound while probing the trait’s effects. Neither of us have spotted each other yet, even after I moved into the open, so the camouflage effect must pretty powerful.
+
+Next, he closed his eyes and focused on his ears, casting his upgraded senses into his environment. He could hear the wind whistle as it blew across the badlands. The rustle of tumbleweeds rolling by and the cry of a hawk as it rode the warm currents rising from the ground. But try as he might, he couldn’t hear anything that let him know another person was in the area.
+
+I’ll try it again when I’m certain she’s close. With that, he opened his eyes and began scanning his surroundings, focusing on the stretch of orange soil running between the areas where they’d started the game. For a while, Nick didn’t see anything, but then he noticed a tiny puff of dirt, which could have just as easily been blown by the breeze. But when he watched the area and waited, he saw it again just a few feet away.
+
+The next time it happened, he focused on the spot immediately, and to his astonishment, Elizabeth wavered into existence.
+
+As the trait had mentioned, if he knew exactly where she was, he could see her clearly, but if he looked away even for a second, he had to fight to find her again. That being said, it wasn’t as hard when he knew where to start. Blend wasn’t as effective while moving, leaving a faint patch of distortion hanging in the air.
+
+After studying Liz, Nick learned that the trait’s effect could be countered with careful observation. The easiest method was to follow her footsteps, tracking her progress by the prints she made. Even the dust billowing against her body could reveal her position, although the effect was so subtle you had to know exactly what you were looking for. Something heavier like rain or leaves would probably show up easier.
+
+Now that he had a good sense of how everything worked, he was ready to win the round. He judged the distance and leapt, using the bonus from his boots and the lift from his pack to land right behind Elizbeth’s back. He reached out and tapped her shoulder, enjoying the jump scare she received before she realized what had happened.
+
+“Holy shit.” She began to laugh. “Okay, you win round one.” They took a break to compare notes and discussed everything they had learned. Then they picked new starting points and began round two.
+
+Since he had chosen a high spot last time, he decided to mix it up and hide behind a big bush, then wait to see if Liz would reveal herself again. He was careful not to disturb the ground as he changed locations, stepping on stones so he didn’t leave prints.
+
+He moved into position, then almost leapt out of his skin when he felt a hand grab his own. Nick turned around to find a grinning woman staring at him, self-satisfaction clear in every crook of her features.
+
+“Okay, you win round two. How in the hell did you find me?”
+
+“I had a hunch you would try to outthink me by hiding somewhere completely different. After that…” She pointed at his feet. When Nick looked down, he could see a tiny pile of dirt beside each of his boots—blown by the wind and then blocked by his body.
+
+“I had to comb the terrain until I noticed that tiny distortion. Once I knew you were there, you wavered into existence.”
+
+It was at this point that Nick came to an important realization. Our insight into each other goes both ways. Shit. I might be in more trouble than I realized.

@@ -1,0 +1,191 @@
+---
+id: b5fad629-b60b-5954-b1f8-614c6c3b8e2e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Ability Mastery System"
+slug: 0029-chapter-4-ability-mastery-system
+partOf: labyrinth-of-the-mad-god
+position: 29
+ownLength: 1458
+unit: words
+publishedAt: 2024-07-26
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1733290/chapter-4-ability-mastery-system"
+royalRoadId: "1733290"
+---
+
+The Ability Mastery System (AMS)
+
+The ability mastery system becomes active at level 15, when an individual’s path to power begins to solidify, releasing a form of transformative energy known as essence.
+
+When enough compatible essence has been accumulated (a process that begins before the AMS is activated) and an individual’s understanding of the fundamental nature of their power crosses a critical threshold, abilities can undergo powerful transformations, advancing along a series of six milestones known as ranks.
+
+Ranks 1, 3, and 5 are known as minor steps. When an ability advances to a new minor step, it becomes more efficient, costing less mana or stamina to produce the same effects, or enabling an enhanced effect with an expenditure at the previous level.
+
+Ranks 2, 4, and 6 are known as major steps. When an ability advances to a major step, their wielder is offered a choice that will change the ability’s core function, influencing the path that it will follow from that point on.
+
+Additionally, any class-granted ability that has advanced to rank two can be kept when a class is changed without requiring an ability slot.
+
+Abilities that are granted via an ability stone will no longer require a slot once they advance to rank 6.
+
+Beyond rank 6, ability customization is still possible, but their advancement must be shaped by their wielder directly, as they continue to develop their unique concept.
+
+This was a lot to take in, and all of it was great news, filling Nick with a heady rush at the promise of power to come. It seemed that he’d just unlocked a whole new way to grow stronger. Something beyond the methods already offered by his level, class, and attributes.
+
+Just thinking about what it could mean for the survivors of team Earth had him dancing with excitement, not to mention his own odds of living to see the top of Darkstone Tower.
+
+When he was done reading the primer and recording it into his journal, Nick realized that there was a new menu for the AMS listed in his profile. When he opened it, he found a pleasant surprise awaiting his perusal. Something that dialed his thrill of anticipation all the way up to eleven.
+
+AMS Notifications
+
+You have accumulated sufficient essence to advance [piercing ray] to rank one. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance [mana dart] to rank two. You have obtained a sufficient understanding of the ability to advance its rank at any time.
+
+Would you like to advance [mana dart] to rank one and see the options for rank two? (There is no time limit for ability advancement decisions.)
+
+“Why not? That sounds fucking amazing.” Nick sent his intentions into the screen, willing mana dart to advance to rank one.
+
+That was when he realized that he should probably lie down, rushing over to the bed and then sliding beneath the covers.
+
+By now, every fiber of his being was tingling with the rush that came with acquiring a major gain. This was Nick’s first time advancing an ability. But if it was anything like spending his free attribute points or leaning a new ability, then he was about to experience some intense sensations.
+
+Sure enough, less than a minute later, he could feel something building within his core. When it hit critical mass, he was granted a vision, unlike any he had seen before. His consciousness was pulled out of his body, to a place where he could watch his own memories like movies on a screen.
+
+Without further preamble, images began to play, compressing hours of experience into a concise summary. Nick realized that this vision was a playback of every time he had used mana dart so far, both on and off the battlefield. Summarizing not only his actions, but his understanding of each experience, like he was making a presentation in front of the class.
+
+It was surprisingly informative, not only refreshing every thought and insight about his darts that he’d had thus far, but granting him additional perspective, letting him notice new details and facets that were hard to spot during the middle of battle.
+
+When it was over, the nature of his vision changed, and his attention was drawn inward. Down into the pathways that the System had carved into his brain, and the cord that linked the ability to his energetic core. Where something fascinating was already underway.
+
+He watched on, giddy with anticipation, as the System altered the foundation of his ability. The energetic nodes and arrays that controlled his darts became more complex, compact, and efficient. Somehow, Nick could tell that his brain and core had developed enough to handle the higher load and additional infrastructure.
+
+The whole process only took a couple of seconds, but it felt like hours due to the intensity of the experience.
+
+“Wow. What a trip.” He lay there for a few minutes, committing every detail to memory, so that he could reflect and build upon the insights later. Now he knew what the System meant when it mentioned his fundamental understanding of the ability.
+
+What Nick had learned about mana dart over the last few months let him know what he was still lacking with piercing ray and force acceleration, knowledge that would help him develop his abilities going forward.
+
+That was when he remembered that there was still another, even more profound advancement awaiting him. The chance to change his mana dart on a fundamental level. He rose to his feet, walked over to the screen, and opened the AMS menu, so pumped up that he nearly broke into song.
+
+Congratulations, you have successfully advanced the ability [mana dart] to rank one. Would you like to look at the options for rank two?
+
+“Yes, please.” Nick continued to read, certain that whatever options were presented to him, they were going to be good.
+
+You can alter the ability [mana dart] in one of the following ways:
+
+Hrm. That’s a tough one alright. Each of those options sounds really, really useful.
+
+While he thought the matter through, Nick pulled up his profile, considering his skills and attributes while he decided how to upgrade mana dart and spend his free attribute points.
+
+Contestant Profile: Nicholas ‘Nick’ Henry.
+
+Level: 15.
+
+Tier: 1.
+
+Species: Human of Earth (E).
+
+Class: Kineticist (uncommon).
+
+Base attribute points per level: +1 magic, +1 dexterity every other level.
+
+Free points per level: 1. You have 3 unspent free points at this time.
+
+Attributes
+
+Abilities
+
+Ability slots: 2 active, 1 passive, 1 free.
+
+Used: 1 active, 1 passive.
+
+Active abilities
+
+Mana dart (spell). Rank 1.
+
+Piercing ray (spell). Rank 0 (You have enough essence to advance to rank 1 but lack the understanding required to do so).
+
+Passive abilities
+
+Force acceleration. Rank 0.
+
+Class Traits
+
+None. (The trait for this class has been incorporated into your bloodline).
+
+Geneline Traits
+
+Gift of Tongues: you can understand and speak the languages of all intelligent creatures.
+
+Awakened to Magic: +1 to magic.
+
+Versatile: +1 to all attributes. +1 free ability slot.
+
+Bloodline Traits
+
+Filled bloodline slots: 2. Open bloodline slots: 1.
+
+Survivor (enhanced): you require 50% less food, water, oxygen, and sleep.
+
+Force Adept: you receive a bonus to mana efficiency and scaling from energetic attributes when casting spells that use force mana or pure mana. Force Adepts are unable to cast elemental spells and receive a substantial penalty when manipulating elemental-aspected mana in any way.
+
+Skills
+
+Active
+
+Sword: 7
+
+Evasion: 7
+
+Throwing: 7
+
+Light shield: 0
+
+Wand: 9
+
+Inactive (inactive skills may be used but not improved.)
+
+Size up: 10
+
+Foraging: 10
+
+Inventory (basic and above)
+
+Bag of molding (rare).
+
+Elixir of restoration (rare). Modifications: Soulbound.
+
+Arena dagger (uncommon). Modifications: Eversharp.
+
+Adventurer’s toolbelt (uncommon). Modifications: Self-maintenance.
+
+Pugilist’s gloves (uncommon). Modifications: Durable.
+
+Adventurer’s coat (uncommon). Modifications: Durable. Self-maintenance.
+
+Cloak of thermal regulation (uncommon). Modifications: Self-maintenance.
+
+Wand of force (uncommon). Modifications: Soulbound. Skill activation (Wand).
+
+Caster’s buckler (uncommon). Modifications: Durable. Self-maintenance.
+
+Explorer’s boots (common).
+
+Ratman dagger (common).
+
+Hemp shirt (basic).
+
+5 alarm traps made of twine and shell (basic).
+
+Worn bathrobe (basic).
+
+Canteen (basic).
+
+Brass spyglass (basic).
+
+Ratman helmet (unidentified).
+
+??? Sword (unidentified).
+
+With his profile out of the way, it was time for Nick to commit to a course and decide how he wanted to upgrade his mana darts. While he was eager to rank the ability up, he forced himself to breathe slow and deep, activating the tactical part of his brain while he thought the matter through at length.
+
+He was certain that this was one of the most important decisions that he’d been given, second only to his class selection, and he was determined to get it right.

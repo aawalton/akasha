@@ -1,0 +1,107 @@
+---
+id: 44369dea-e9c6-52d1-9093-2b4594d9e411
+page-type-slug: story-chapter-royal-road
+title: "Book 3 Deleted Scene — Magical Foci"
+slug: 0160-book-3-deleted-scene-magical-foci
+partOf: just-add-mana
+position: 160
+ownLength: 1839
+unit: words
+publishedAt: 2026-07-04
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3631372/book-3-deleted-scene-magical-foci"
+royalRoadId: "3631372"
+---
+
+"What exactly is the point of a magical focus?" Professor Graystalk asked.
+
+He stood where Adam had been standing earlier at the head of the room as he began his lecture. It felt strange to be doing this now, with two of the intended students not even in the room, but they had a way around that: Cale's schedule scroll was still connected to that of his apprentices. The connection was weaker thanks to the dungeon, but Graystalk was relatively certain he could still project the lesson to Flia and Damien.
+
+Whether they were listening was another matter entirely, but he would repeat the lesson if need be. His students were all a little distracted at the moment—he couldn't blame them, he was quite distracted himself—but Graystalk recognized that they all needed the normalcy of this.
+
+Cale most of all. Hence the lesson, poorly timed as it was.
+
+"A focus is created using an arcane core," Graystalk continued, gaze sweeping across the room and lingering briefly on Cale. "Anyone who has used one knows that they fundamentally refine your magic. A traditional Magical Foci professor might tell you that means your spell costs less, and that is true but what is it that the focus is doing to reduce the cost? Why must it use an arcane core, and how does your choice of core impact the result?"
+
+This would be easier to do with a chalkboard, but whatever realm and era they were in evidently didn't outfit the average room with chalkboards. Instead, he paced the length of the room, using various mana constructs to emphasize his points as he spoke.
+
+"Cale?" Professor Graystalk prompted. The human startled a little at the sound of his name, and Graystalk reflected on how strange it was now, to think of him as human and realize that the word held far more weight than he'd known. "You have encountered a great deal of magical foci, I am sure. What can you tell us of them?"
+
+Cale eyed him as if he knew exactly what Graystalk was doing, but answered the question anyway. "It differs from realm to realm," he said. "Although the differences are aesthetic—more about the material requirements than anything else. The arcane core needs to be something magically significant to the realm."
+
+"And why might that be?"
+
+"It's how they work," Cale said, shrugging. "A focus draws on the realm's collective history and knowledge in order to function. A good core ideally has a strong link to it. You can usually bet on a few of the basics to remain consistent, though; wood usually functions as a good arcane core, for instance."
+
+Professor Graystalk smiled. "Very good. Now, knowing this, you might expect that magical foci did not become a part of mage tradition until well after the basic schools of magic had been established. However, this is not the case: our records indicate that mages began to make use of foci almost as soon as magic itself was discovered.
+
+"Among practitioners of the foci-crafting trade, this is typically known as the Origin Paradox. Everything we know suggests that the earliest foci should have been close to useless, but our records suggest that while they were less effective, they were still significantly useful. To date we have found no explanation for this paradox, although..."
+
+Graystalk raised an eyebrow at Cale, who laughed. "I'm afraid I haven't studied foci crafting all that closely, although I might know a couple of secrets."
+
+Now that human was just teasing him. "I will have to inquire with you later, then," Professor Graystalk said, ignoring Cale's smirk. "I favor the theory of natural memory myself, though I will not go too deeply into it for the purposes of this class."
+
+"Natural memory, sir?" Leo glanced up from his notebook, intrigued.
+
+"As I said, I will not go too deeply into it, but..." Graystalk hummed in thought. "Suffice to say it is the idea that mana itself contains memory. It is a somewhat niche corner of magical theory, but explains the Origin Paradox quite neatly; essentially, if it were true, then all magical foci would always have a baseline level of efficacy based on the overall magical progress within the Great Realms. After that, it would depend on the age of your chosen core and how much it has 'experienced', so to speak, before it was harvested."
+
+Syphus perked up suddenly. "Wait," it said. "You're saying that the older an arcane core is, the stronger the resulting foci? Based on how much magical progress the core has experienced?"
+
+Professor Graystalk paused and eyed the construct. "...The specific mechanics are not quite that simple, although you are essentially correct," he said carefully, slightly worried about what Syphus might get up to. It was staring down at itself in a way he found concerning.
+
+"An arcane core generally only taps into magical knowledge that it has been exposed to, which is why older ingredients generally make for better foci," Graystalk explained regardless. "As Cale has kindly pointed out, wood is one of the most common examples of this—wands made of wood are popular because they are effective, and they are effective because trees are natural wardens of a realm's historical knowledge."
+
+"They're basically the most predictable and reliable sources of magical foci," Cale added nonchalantly. "The older a tree is when it's harvested for wandwood, the more powerful the resulting focus."
+
+"I see," Syphus said. "What about rocks? Rocks are older than trees."
+
+"They are not alive," Graystalk said, then took in Syphus's offended stare and re-evaluated his sentence. "Not for our purposes, in any case. An arcane core works best when its materials are harvested from something that is or once was alive. Only a living thing can qualify as having 'observed' a realm's history. There are exceptions, of course—slivers of ancient statues or gemstones exchanged in the founding of a kingdom—but those are few and far between."
+
+Syphus was still staring down at itself. Graystalk sighed. "I suggest you refrain from harvesting yourself for crafting materials until at least the end of all of my lectures, and I do mean all of them. You would not wish to waste such a limited resource, would you?"
+
+Syphus blinked. "Good point," it said. "I'll wait. For now."
+
+Graystalk ignored the ominous way in which it had whispered those last two words. "Regardless," he said, "since you bring it up, we will discuss core malleability. This is essentially an arcane core's ability to retain its memories. A core created out of a living subject better retains those memories. This is why wands of wood and bone are common, for instance, but wands of stone or metal are not. Such materials are often best used for sorcerous imbuements or artificing, which will be covered in their respective classes."
+
+Graystalk hurriedly added that emphasis when Syphus raised its hand again, and it put its hand back down, though it seemed vaguely grumpy about it. At least the others seemed interested—all except Thorn, anyway, who wasn't paying much attention because he'd already been through the equivalent of this class years ago. He had an interest in the crafting techniques of House Graystalk, but until Graystalk started actually teaching that, Thorn was focused on trying to craft a workaround for whatever magic kept their memories of humans blurred.
+
+He wanted to sigh, but managed to keep it in, instead turning his attention to Cale.
+
+It was rare that he had cause to re-evaluate one of his students. He'd been forced to do so with Cale Cadwell Cobbs twice already, and now he was doing it again for a third time in what could not have been more than a month.
+
+Perhaps it was folly to try to place any form of expectation at all on him. That was probably the sensible conclusion, and a greater elf might have left it at that.
+
+Valen Graystalk was not a greater elf. For all that he pretended at being aloof, he had a great passion for magic that few others of his kind shared. It was one of the reasons he had made it as far as he had with only Standard Array spells. Part of that passion for magic was an insatiable curiosity for all of its mysteries, and Graystalk had been presented with his greatest one yet.
+
+Of course, he was not so crass as to reduce Cale's situation down to a mere mystery. He couldn't imagine what it might have been like for Cale, who had walked through worlds knowing that he was perhaps the last of his kind and yet unable to acknowledge it to anyone other than himself.
+
+Worse was the fact that there was every chance he and the others would forget again the moment they stepped out of this dungeon. Cale was alone, and that loneliness was one thing. To have no one else able to acknowledge or even recognize that loneliness...
+
+It was a fate Graystalk would not have wished on anyone. He only wished there was more he could do.
+
+That did not, of course, mean that there was nothing he could do. For now, the best he could do was teach.
+
+He could do that, even if it meant he had to share a few secrets.
+
+"So," Graystalk said. "An arcane core establishes a connection with the memory of the realm and its understanding of magic. The greater that connection, the greater the efficiency of your focus. Who can tell me, based on that, what a focus actually does?"
+
+***
+
+Flia raised her hand impulsively, then put it down, looking mildly irritated. "I hate that he can't hear us," she muttered.
+
+"I can't believe he's just having the lecture without us," Damien said, peering at the projection from the schedule scroll. "We can't even ask any questions."
+
+"That elf is hot," Ashvali said. "Is he single?"
+
+It was remarkable how quickly Flia had learned to treat Ashvali exactly like she did Cale. Perhaps it wasn't the wisest thing to do—Ashvali was certainly more dangerous and unpredictable—but Flia still ignored the question just as she would have if Cale had asked it.
+
+"If you get us back to our friends, you could find out," Damien said, evidently thinking on his feet better than she was.
+
+"Mm. No deal," Ashvali said. "Not yet, anyway. I told you! I can't get you to them even if I wanted to. You have to wait until the time is right."
+
+"Aren't you a god?" Flia asked, unable to help herself.
+
+"I am an Intersection, my dear," Ashvali said sternly. "I represent a collision of possibilities, and in none of those possibilities do you and your friends meet up yet. But it'll happen, don't worry! Besides, it's not like you're missing out. You should explore! Find out more about the people in this motel. They're all very interesting, I assure you."
+
+"Um," Damien said. He looked back up at the projection. "Maybe after class?"
+
+Ashvali pouted. "You two are no fun."

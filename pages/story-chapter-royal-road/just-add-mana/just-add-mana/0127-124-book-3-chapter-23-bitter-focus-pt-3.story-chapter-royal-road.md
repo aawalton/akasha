@@ -1,0 +1,191 @@
+---
+id: 4876063c-5a88-57e3-82c3-11aa2a7b3d6d
+page-type-slug: story-chapter-royal-road
+title: "124 — Book 3, Chapter 23 — Bitter Focus, Pt 3"
+slug: 0127-124-book-3-chapter-23-bitter-focus-pt-3
+partOf: just-add-mana
+position: 127
+ownLength: 2780
+unit: words
+publishedAt: 2026-04-18
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3289365/124-book-3-chapter-23-bitter-focus-pt-3"
+royalRoadId: "3289365"
+---
+
+Thorn did not know what to think of these mages.
+
+It felt inappropriate to call them novices, which was a disgruntling thought in and of itself, and yet as much as he hated to admit it, the way they carried themselves alone disqualified them from the title.
+
+Perhaps their cores were plainroot cores. Perhaps the rest of Utelia would consider them simple novices. As far as Thorn was concerned, what made a mage was not the state of their cores but the way they reacted to danger.
+
+These mages petitioning to join the Fettered Divinity tournament as Brightscale's support team reacted the way veteran mages did. Thorn had not failed to notice that when he first arrived to greet them, each and every one of them had immediately evaluated how they would fare against him as an opponent. They had just as quickly determined that they stood no chance individually, and then they had shifted their stances just slightly, preparing to take him on as a team if it became necessary.
+
+At the time, he had been about to dismiss them. His colleagues had expressed an interest, but they were only plainroot mages, and there was already a darkwood team they worked well with; Thorn had very little interest in changing their plans for a group of novices last-minute, no matter how promising they were.
+
+That reaction, however, had convinced him to go along with them instead.
+
+He was almost certain it was a waste of his time, but all of his projects were at a standstill anyway. Another few hours staring at magical diagrams was unlikely to make a difference. These mages, on the other hand, had managed to pique his interest, and he supposed that if he did intend to reject them he might as well see what they were about.
+
+Thorn was not impressed, at first.
+
+Their so-called mentor was a plainroot mage like them. Thorn had heard rumors of this Cale Cadwell Cobbs from time to time, but he dismissed them out of hand; the Headmaster acquired new favorites all the time, and this was doubtless more of the same. After all, the supposed feats attributed to Cale were absurd and hardly believable.
+
+More likely this was some sort of trickster mage that specialized in illusion magic, and that was how he'd gathered those four more talented mages to him. Unlike his "apprentices", he had barely spared Thorn a glance or bothered to evaluate how much of a threat he was.
+
+For all his cheek, this Cale was a novice. More bark than bite, which fit in with Thorn's general impression of humans.
+
+How disappointing. It was almost enough for Thorn to write Cale off entirely, if not for that odd, out-of-place respect Professor Graystalk seemed to offer him. Thorn remembered Graystalk as a highly respectable professor, and while he could believe four talented mages might be taken in by a con-mage, it was much harder to believe that Graystalk would fall for the same.
+
+And now... now there was this.
+
+Thorn was reluctantly impressed by how quickly the four apprentices adapted to Bitter Path. He had not expected Cale Cadwell Cobbs, the charlatan mage, to beat him to keeping that child safe. In that split second while Thorn had been frozen in justified anger, Cale had acted.
+
+A lesser mage might have chalked it up to luck, or perhaps attributed it to Cale simply not caring.
+
+Thorn was not a lesser mage. He knew experience when he saw it. What he'd seen was a reaction honed through exposure. Cale had seen this before. He'd allowed that anger to control him before, had gone after perpetrator instead of victim. He'd suffered the consequences of that choice.
+
+That made Thorn uncomfortable. Because if he'd been wrong about Cale, then that meant that the human had evaluated him, but had done it so quickly that Thorn hadn't even noticed. And given the complete lack of reaction afterward, Cale must have decided that Thorn wasn't a threat.
+
+Which pissed him off in a completely different way, so he might have sniped unnecessarily at Cale.
+
+Something about Cale's reaction, though...
+
+When was the last time you saw one of us, then, aside from me?
+
+That was an odd question to ask. Thorn was certain he saw plenty of humans all the time. They were all over Brightscale Academy.
+
+Weren't they?
+
+The question unsettled him, and an odd discomfort began to grow in his gut.
+
+It was Syphus, of all people, that took on the job of keeping Adam occupied while the rest of Cale's apprentices went about investigating the basement.
+
+This was at least in part because they realized quickly that if they didn't give Syphus this job, it was going to try to run over one of the monsters again, and there was no telling what would happen if it succeeded. Leo figured possession was a distinct possibility, though, and since none of them wanted to deal with a possessed construct capable of firing amplified spells out of a cannon, they collectively decided it would be safer if Syphus focused on keeping Adam company somewhere far away from the cot.
+
+"Alright," Syphus declared, rolling up to Adam. "How about we teach you some magic so you can protect yourself?"
+
+Adam lit up immediately. "Wait, really?" he asked, all terror suddenly forgotten—or at least temporarily put to the side. "Dad won't let me learn magic. Are you saying you can teach me? I've been trying to get someone to teach me for ages, but everyone's scared of dad."
+
+"I can definitely teach you," Syphus said confidently. "My magic is very good for teaching."
+
+"I'm not sure that's true," Leo called out.
+
+"Ignore him," Syphus told Adam. "He is jealous because I shoot spells with a cannon."
+
+Adam's eyes went wide. "A cannon?" he asked, awed, and then watched in fascination as Syphus demonstrated by transforming its arm into a spell cannon. "That's so cool," he gushed. "Does it help you shoot spells farther?"
+
+"Yes," Syphus said. "But you won't be doing that yet. We need to teach you some basic magic first. Can you manipulate your mana?"
+
+"I don't know how," Adam admitted, shaking his head.
+
+"That's fine," Syphus said. "Just think about it like this..."
+
+Syphus, it turned out, was in fact remarkably good with children and at teaching the basic principles of magic. Most young mages struggled to get a feel for how to manipulate mana, yet Syphus was able to find the right analogy to help Adam almost immediately, and soon Adam was happily stretching his mana into all sorts of shapes.
+
+Some of it was pure natural talent on Adam's part. That little bit of guidance was enough for him to shape his mana into the forms required for a few basic first-tier spells. The pure excitement that burst out of him at the simple act of creating a ball of light was enough to make all of them smile. Even Professor Graystalk and Thorn couldn't help themselves, though they were doing their best to stay back and observe.
+
+"It is easy to forget what that first spell is like," Professor Graystalk mused, glancing at Cale. "To have even a fraction of the realms at your fingertips is no small thing."
+
+Cale chuckled. "Would be nice to be able to call up a ball of light without summoning the entire sun."
+
+Graystalk let out a snort. "I would not bet against you doing both."
+
+Thorn shot them both a puzzled look, though the vinewalker seemed generally distracted by something. Cale ignored it for now; he had more important things to worry about, and if Thorn hadn't yet figured him out then he could find out like everyone else did.
+
+Which was to say, at a suitably dramatic moment.
+
+In the meantime, Flia, Damien, and Leo were all cautiously approaching the cot, taking notes on the way the temperatures shifted and on whether anything they did provoked a reaction from the monsters in the basement. A little bit of coaxing from Syphus helped Adam get over the rest of his hesitation at this point, and he managed to explain the rest of what he knew about them.
+
+"I call them ice shamblers," Adam said. Being able to weave magic of his own seemed to give him some measure of confidence; he held the orb of light he had conjured like it was a shield. "Like I said, they started appearing just before... just before my mom died. We could both see them, but mom became obsessed. I don't know why. They were really scary even then."
+
+"Obsessed how?" Leo asked.
+
+Adam fidgeted, holding his light closer. "She wanted to study them," he explained. "She kept saying... um, she kept calling them our future. I didn't understand it, and honestly I didn't want to understand it, but after that she started eating and sleeping in here. She wouldn't leave it, no matter how much dad and I tried to make her."
+
+He was silent for a moment. "That's when dad started drinking," he admitted quietly. "I tried to keep her company, so I came down to visit, but it was really scary, so I didn't spend that much time down here."
+
+"What happened to her isn't your fault, you know," Syphus said, patting him on the back, and Adam froze.
+
+"I—" he started, shaking slightly, and forced himself to swallow. "Um. I know. But thank you."
+
+"If she was studying them, did she have any notes?" Leo asked. "Anything we might be able to read to see what she found out?"
+
+"I think so." Here Adam seemed more uncertain. "I saw her writing in her notebooks, but I'm not sure where she put them. I think maybe under..."
+
+Adam trailed off, staring at the cot, and the apprentices followed his gaze to see what they'd overlooked: a darker-than-normal shadow beneath it, just slightly out of place, obscuring the papers within from even magically-enhanced sight. It almost seemed like a natural obfuscation ward, of sorts.
+
+"I'll get them," Leo said. He seemed determined despite his obvious apprehension, but Adam screamed a warning the moment he stepped forward—
+
+The blast of cold sent Leo stumbling back, leaving his teeth chattering and his fur covered in frost even through his shields. "D-don't move!" Adam called out, his eyes wide. "They're surrounding and staring at you."
+
+"They're doing what?" Leo asked, keeping himself as still as possible. Cale could see him working to refine more palewater and pumping more mana into his barriers, as if that could protect him, and Cale readied himself to interfere if it was needed.
+
+Fortunately, the shamblers lost interest eventually, and Adam reported timidly that they had returned to stare down at the cot. Unfortunately, they reacted to mana in the same way, and Leo's attempt to distort the space beneath the cot resulted in the exact same thing.
+
+"I really, really hate not being able to see them," Leo said, shivering.
+
+"You're being very brave," Flia told him, giving him a sympathetic look. "Anyone have any other ideas?"
+
+Cale could tell this was going to be quite the process.
+
+It was probably best to let his apprentices handle this for now, though Cale would be keeping an eye on them just in case. He was starting to get a better picture of what was happening here—even if he hadn't encountered these ice shamblers specifically, they fit the pattern of some manifestations he'd encountered during one of his stints as an exorcist.
+
+For now, he leaned back against a wall and began to appraise his options. For now, he was limited to seventh-tier spells at the lowest, but even with his calibration attempts he wasn't confident that he'd be able to perfectly target a spell correctly. His mana supply felt entirely outsized at the moment, and if he put in too much mana, he would end up evolving a new spell instead of casting the one he needed.
+
+That wasn't necessarily a bad thing. Cale could often work with whatever the Gift provided him, and the Gift itself had a degree of intelligence it used to help him. It wasn't something he wanted to rely on in a dungeon, though, so it would be best if he established a number of spells that would be useful if evolved, a number of spells he could consistently cast, and take stock of his various resonances and how they affected that.
+
+After a few minutes, he had a list he decided he was relatively satisfied with.
+
+First Tier:
+
+[Burn][Bestow Light][Create Impulse][Taunt][Elemental Orbs][Shrivel][Slice][Elemental Spray][Mark][Vision]
+
+If he was going to evolve a spell, it would be easiest to work with the first-tier spells, which in his experience seemed easier to guide mid-evolution. Higher-tier spells tended to be less predictable, so at least until he was out of the dungeon he would try to avoid his second- to sixth- tier options.
+
+One of each elemental type he had access to would give him a good degree of versatility. [Elemental Orbs] and [Elemental Spray] had both surprised him in that the Gift had automatically granted them to him once he'd learned the basic elemental spells of each.
+
+Especially since each element had a separate cooldown. His apprentices had needed to drag him out of the makeshift tower that was starting to build around him once he'd discovered that.
+
+The non-elemental spells would be helpful on the off chance he needed more support-based effects; [Mark], for instance, was a basic spell that did nothing except make its target slightly more attractive to other spells and magical effects. Any evolution of [Mark], on the other hand, would undoubtedly be useful; his last attempt had resulted in the fifth-tier [Arcane Spellsphere], which could attract and absorb a remarkable number of spells in its vicinity.
+
+What else was there? He'd marked a number of spells for emergencies, and there were some he would almost certainly need if he intended on finding out the truth of the Bitter Path. He had tricks other than the spells the Gift provided him, but he still wanted these spells in his toolbox. He'd have to make sure he could cast them consistently, though, which meant there was a limit to the number he'd work with.
+
+He ended up with a shortlist that looked a little like this:
+
+Seventh Tier:
+
+[Instant Magishell][Truthseeker's Domain][Spatial Shuffle]
+
+Tenth Tier:
+
+[Auric Dominion]
+
+Twelfth Tier:
+
+[Elemental Vineyard]
+
+Five spells. Pilgrimage-type dungeons tended to be on the longer side—Cale was confident in his ability to adjust to the casting requirements of five spells. [Instant Magishell] technically didn't do anything his barriers didn't already do, but had the advantage of staying anchored to the people he wanted to protect. Cale had evolved that one after he'd been launched into the air during one of Instructor Solsburn's exercises and accidentally taken his entire team with him.
+
+[Truthseeker's Domain] was a generally useful one that compelled those within the effect of the spell to speak the truth as they saw it, and had the additional effect of guiding them toward the truth if none of them knew it. It would be useful for them now, in fact, though Cale wanted to see how his apprentices did first.
+
+And as much as he hated [Auric Dominion], there was no denying its defensive potential in how it could arrest nearly any magical effect.
+
+[Elemental Vineyard] was the one he was most cautious about. He would have to speak with Thorn about it—vinewalkers could be possessive over other mages using nature conjuration spells—but given the apparent alchemy themes of the dungeon. Cale suspected it would be useful. It was a spell that promoted the instant growth of alchemical ingredients across a wide variety of plants and elemental aspects.
+
+Satisfied, Cale reviewed the spells he was going to work with one last time, then froze.
+
+[Vision]. Dammit, he'd forgotten about [Vision]! He'd evolved most of his fifth-tier perception spells from that over the past month, and while he could no longer cast fifth-tier spells for the time being, there was nothing stopping him from evolving a new one now that might let him see the specters Adam kept referencing. Being able to see them meant he would at least be able to react if something changed—far better than them fumbling around in the dark.
+
+He poured his magic into it—
+
+—there was resistance. Cale frowned. Was the dungeon fighting him on this spell, somehow?
+
+No matter. He poured in more.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Vision] has evolved into [Eyes of Ashvali]!
+
+Caution: You have attracted the attention of an unknown entity.

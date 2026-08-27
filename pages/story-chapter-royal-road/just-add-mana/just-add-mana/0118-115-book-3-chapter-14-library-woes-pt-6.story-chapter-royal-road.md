@@ -1,0 +1,200 @@
+---
+id: a30ca2bf-d403-583c-be93-f0cfb307b013
+page-type-slug: story-chapter-royal-road
+title: "115 — Book 3, Chapter 14— Library Woes, Pt 6"
+partOf: just-add-mana
+position: 118
+ownLength: 3678
+unit: words
+publishedAt: 2026-03-28
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3203612/115-book-3-chapter-14--library-woes-pt-6"
+royalRoadId: "3203612"
+---
+
+Using the labyrinth to augment his focus on the Seventh Rhythm was working, but not nearly fast enough.
+
+Leo didn't need to make the calculations to know that for a fact. His muscles were burning, and even the few stamina-enhancing spells he'd learned wouldn't be able to keep up for much longer. He didn't know how long he'd been running at this point, but he was at the point where he knew if he stopped there was a good chance he would collapse.
+
+Which was a problem, to say the least.
+
+He'd made at least three complete circuits of the Seventh Rhythm in the twisted space of their makeshift labyrinth, and he'd managed to coax some of the mana in his core to do the same.
+
+It took almost every ounce of willpower to force it to move, though, and even then he only managed to make only a small fraction of his magic follow the path. The rest stayed stubbornly stuck within his core, refusing to budge no matter how much he pushed at it.
+
+This wasn't going to be enough. He could sense perhaps a meager portion of the intent within his mana changing into his own, but making palewater required mana that was entirely pure. The slight improvement in quality would help—it meant he could use less of his mana against his counterpart to fight off its spells—but until he achieved palewater, he wouldn't have the qualitative change he needed.
+
+At this rate, his echo would catch up with him before that happened.
+
+Yet he wasn't afraid.
+
+The realization was a surprise. He thought that perhaps he should have been; Leo had never considered himself particularly brave. Even with the burning in his limbs and the pounding of his heart, though, his mind felt strangely clear.
+
+Danger, it seemed, brought with it a certain clarity of mind. Back in Brightscale it had been easy to be overwhelmed by the multitude of thoughts clamoring for his attention. Disappointment with himself, for one. Worry about what his friends might think of him if he failed, or what would become of him if he fell too far behind.
+
+Here, all he had to do was run. He let himself be consumed by the Rhythm. Allowed a part of his mind to become the Rhythm, following its path in that strange, circuitous route. He couldn't fall completely into meditation with his echo still after him, but everything else could fall to the wayside.
+
+All he needed to do was focus on the next step, the next turn, the next part of the path...
+
+...the next answer.
+
+Leo had questions. To win, he needed to make palewater; to make palewater, he needed to understand what made his current approach different; to get that understanding, he needed to survive his echo; and to survive his echo, he needed to understand what made it different.
+
+It was more single-minded than he was, he'd noticed that immediately. It bore down on him with the sort of determination Leo only remembered having when he was truly furious.
+
+Was that what it was? He'd always had problems with his anger, especially when he was younger. Managing his temper had been something of a struggle. He would lash out, often physically, and end up destroying something or the other. It was his aunt who took the time to coax him out of his moods and teach him to control that rage.
+
+His echo didn't seem to have any of that. It worked with a terrifying focus, but it was blinded by that same impotent rage. Leo could recognize it now that he thought about it.
+
+He could take advantage of that.
+
+The anger explained why his echo hadn't yet figured out what he was doing. In its position, Leo would have recognized the change in strategy and immediately tried to figure out what had caused it. His echo, on the other hand, was focused purely on complex strategies to meant to pin him down, and missing the bigger picture in the process—
+
+The bigger picture.
+
+Leo nearly stumbled mid-step as the thought struck him. He half-tripped anyway, his breath catching, and it was pure instinct that made him flare his barriers in case his echo tried to take advantage of his lapse in focus. He was, in that moment, incredibly glad for the absurdity of his training with Syphus, because the instinct it had drilled into him with its rock-throwing exercises absolutely saved his life.
+
+A massive spike blasted out of the labyrinth's walls, aimed directly at his head. Leo cursed and staggered as it glanced off his reinforced barrier, but managed to avoid completely losing momentum. Instead, he grabbed on to the end of the spike and cast two spells in quick succession.
+
+In practicing with labyrinth spells, he'd learned two important ones meant for disabling and dismantling traps on the fly. They were incredibly useful in most dungeons, which were easily affected by labyrinth magic. [Disconnect] could physically separate most traps from the mechanisms that controlled them, and [Mass Shift] could make deployed projectiles like arrows too heavy to be fired.
+
+This time, he employed the spells for offense. [Disconnect] broke the spike off from the wall of the labyrinth, and he made sure to cast [Mass Shift] only after he'd already begun to swing his new, improvised bat.
+
+If his echo was as angry as he thought it was, then he was almost certain its next act would be to come for him directly. He could feel the moment it abruptly shifted within the labyrinth, hoping to follow up with a secondary spell while he was still disoriented by the spike.
+
+Leo smiled grimly as the mass-enhanced spike slammed into its skull with enough physical force to launch it out of his way and through a wall.
+
+"Nice try," he said out loud. "But I know myself a little too well for a trick like that."
+
+...Which probably would have sounded better if he hadn't been so incredibly out of breath while saying it.
+
+Still, it seemed to work. His echo snarled in a blind rage even as it tried to pull itself out of the collapsed rubble, and it was so consumed by that rage that it didn't notice the spell he fired off quietly. [Labyrinthine Collapse] made the makeshift walls crumble down on top of his echo, and a second [Mass Shift] made them even heavier.
+
+That would occupy it for a minute or two, judging from the scream of anger muffled by broken stone and debris. It didn't quite have the presence of mind to reverse the [Mass Shift] and free himself, which meant he'd bought himself time.
+
+Leo retrieved a vial from his satchel and swallowed it down, grimacing at the taste, but letting out a sigh of relief as the burning in his muscles eased. Stamina potions, at least, were more reliable than the spells he'd acquired. It was a good thing Flia had insisted he carry them.
+
+He took a deep breath, then went right back to running, ruminating on the revelation he'd had right before being so rudely interrupted.
+
+He was missing the bigger picture. What had he just learned that applied to all this? Why would running through a labyrinth, even one shaped like the Seventh Rhythm, help him master a form of mana refinement that needed to happen inside his mana core? Leo had done this in part so he wouldn't have to split his focus between navigating the labyrinth and manipulating his mana, but without some sort of breakthrough he should still have been at a bottleneck.
+
+The fact that he wasn't implied that the Seventh Rhythm, even applied externally, was actually doing something.
+
+And of course it was.
+
+He couldn't believe he hadn't realized it before. The Seventh Rhythm, like all the other palewater exercises, was a pattern of mana circulation. It was a specific path through which a mage was meant to cycle their mana.
+
+Put like that, it felt obvious: a cycle was just another word for a circular pattern.
+
+It all came back down to ritual magic.
+
+One way or another, the various palewater exercises must have been an expression of a ritual designed to facilitate the communication of intent. Specifically, it needed to match the mage's intent to the divine intent present in their mana and coax the latter into becoming the former.
+
+In that light, it was plain to see why the First Rhythm was the most complex of the palewater exercises. It had to be designed to work for any mage, in any language, for any kind of intent.
+
+But once it was known to be possible, scholars could isolate the parts of the ritual that worked best for one subset of intent or the other; that might even have been the Herald's purpose in releasing it. Those new versions of the ritual would be more limited, but vastly more simplified, allowing mages all over the Great Realms to advance into palewater.
+
+The First Rhythm was a vastly complex ritual spell designed to help a mage process their mana. Why hadn't he seen it earlier? He could have written an entire paper about this! He probably still would, as soon as he was done figuring the rest of it out—there were nuances to this he hadn't grasped yet—but he was certain he was right.
+
+It even explained why working the pattern into the labyrinth helped. That there could be a sympathetic resonance between two identical rituals was a well-known, documented effect. Leo doubted, however, that any mage had ever tested the efficacy of conducting simultaneous rituals inside and outside the body at the same time.
+
+Which was absolutely another paper he could write. Leo was almost tempted to demand his clone stop the fighting for five minutes so he could write all this down, but he hadn't quite developed Cale's level of audacity just yet.
+
+Leo rounded a corner, felt the magic within him shift, and carried the Rhythm with him as he built on the ritual.
+
+It was easier now that he understood what he was doing, and the limitations of the technique made far more sense. The Seventh Rhythm was near impossible to execute through mana circulation alone because of the sheer weight of Cale's intent. He was effectively trying to invoke a spell that involved Cale.
+
+Not even Cale could do that. Not before coming to Utelia, at least. Granted, that was more about mana quantity than anything else, but Leo was almost certain some of the same principle applied.
+
+Was there a solution to it, then? There had to be. Cale could cast spells now, after all, and the fact that casting the Seventh Rhythm externally helped at all meant there had to be other ways to boost it. The mana moving through his system right now was only a trickle, but if he could just find the key or some sort of trick...
+
+Leo turned the problem over in his mind. He'd studied ritual magic, though not in as much depth as he now wished he had. He understood some of the basics—resonance between similar rituals, the possibility of altering or simplifying them. He doubted he was going to redefine the principles of ritual magic on such small notice, but he was almost certain he'd read before about simplifying ritual magic so that novices could participate.
+
+Some rituals used a focal object to simplify the ritual. Most often, they were a form of dark magic or blood magic, requiring some sort of sacrifice in exchange for the simplicity of the ritual. That was out of the question.
+
+What else? A ritual could be broken apart, in theory, and activated all at once. This was most common in the standard sanctifying rituals used to ward places of power, since the mana cost was often too much for any single mage to pay at once. Instead, the ritual was broken up into smaller, incomplete rituals that could overlap into a single complete one, like a circle within a circle.
+
+Was that it? That had to be it. Leo's heart thundered as the thought came to him. He didn't have the expertise needed to deconstruct something as complex as the First or Seventh Rhythm on the spot like this, but the best part of this was that he didn't need to! Countless scholars and mages already had, extracting usable subsets of the Rhythm out into simplified variants.
+
+Cale had to have been hinting at this. He'd told him to cycle through each of the exercises, which was exactly what he was going to have to do to pull this off. Without that practice, Leo wasn't sure he'd be able to. He was good with patterns, but even he needed a bit of practice before they became ingrained.
+
+Regardless, the pieces fell together. If he thought about this as a greater ritual combination, then he'd already created the greater, outward circle by using the Seventh Rhythm. He could take the mana that had been affected by the Rhythm, meager as it was, and thread it into each of the successive exercises, forming a secondary circle beneath it, using his mana core as the central anchor to convert all his mana at once—
+
+Leo felt his echo finally free itself.
+
+No time to waste in theory, then. He got to work.
+
+Time passed in a blur. Leo's head felt like it was stuffed full of cotton. He'd underestimated the sheer amount of concentration it would take to cycle through different mana exercises while still avoiding the attacks from his echo. It helped that his counterpart still hadn't figured out what he was doing, but he doubted it would last; sooner or later, it would calm enough to realize he was doing something, and at this point if it tried to disrupt his ritual the effects would be devastating.
+
+He was almost done, though. He was at the final exercise. He was stretching every bit of his affected mana to finish it, though. For this to work, he could use only the mana that had already been affected by the Seventh Rhythm, and he had just barely enough.
+
+One more turn. One more path, straight ahead.
+
+Leo felt the ritual's completion like thunder reverberating through his soul. The compounded ritual flared to life, fueled by the mana in his core, and he staggered as he felt every drop of his mana suddenly drain into the spell.
+
+Panic seized him. He'd forgotten to consider this, to realize that the ritual would affect all his mana at once to attempt to change it to palewater. His barrier flickered and failed, and he was all too aware now of his echo charging toward him, aiming to strike him in his brief moment of weakness.
+
+All his remaining mana—every scrap of it—coalesced into one single drop of pure palewater, and the world seemed to slow around him as he took it in. Panic fell away, replaced by wonder.
+
+It felt like a drop of pure light glimmering in his soul.
+
+He knew, objectively, that he was going to need so much more than this to develop his core into a complete palewater core. He would need to do this repeatedly, let his core process the palewater he created and adapt to hosting a completely different quantity and quality of mana. He knew he needed to respond, to try to get away from his echo before it killed him in his moment of distraction and weakness.
+
+None of that seemed important.
+
+He'd succeeded. He'd created his first drop of palewater.
+
+Leo had, prior to that moment, been conscious of the fact that there were mages that could override his magic. In many ways, that was part of the simple reality of being a mage. There would be others that were stronger than you. A novice mage (or a plainroot one, as Leo now understood) wouldn't be able to stop a palewater mage's [Fireball] with a [Quench], even though the latter spell was designed to stop the former; the hierarchy dictated that palewater was superior.
+
+But before this moment, Leo had always thought of this as a representation of skill with magic. He thought of stronger mages as having access to more mana and a greater understanding of their spells, perhaps a stronger core, to fuel their magic. He had not considered that the very underlying quality of mana could be different.
+
+Now he could feel that difference for himself. Palewater was a part of him in a way that plainroot mana never could be. To call it mana manipulation was almost too demeaning. It didn't feel like he was using a different skill at all. Rather, it felt like he had gained mastery over a limb he hadn't even known he had.
+
+Leo tilted his head slightly. He felt the labyrinth shiver around him as his echo commanded it to change and crush him; he felt the walls begin to expand, bearing down on him with force.
+
+He let his one drop of palewater flow into a single spell.
+
+[Makeshift Labyrinth] has evolved into [Labyrinth Domain]!
+
+[Labyrinth Domain] and [Minotaur's Domain] are compatible. Processing spell fusion...
+
+You have learned [Asterion's Gaze]!
+
+It was, Leo reflected, an exceptionally good thing that the spell took effect before he finished reading what the Gift had to say about it. If it hadn't, then his echo might very well have killed him before he could stop its attack. Instead, every part of the labyrinth he could see—the walls emerging to crush him, the spikes he'd failed to notice sprouting beneath his feet—became a part of him.
+
+Once again, he was starkly aware now of the difference between palewater and plainroot. His echo strained against his control; he could feel the mana going into the spell, could feel it pressing the force of its will against his own in increasing quantities of magical force.
+
+But for all that it tried, it took no effort at all for him to brush off its efforts.
+
+"Sorry about this," Leo told his echo. With the immediate danger gone, he found himself feeling almost sorry for his counterpart. None of this was its fault, and it was clearly intelligent enough that he couldn't simply chalk it off as some mindless copy; it had almost managed to outthink him, in fact. If not for the rage it had been created with, it might very well have defeated him before he could gather himself enough to come up with a strategy.
+
+He couldn't bring himself to kill it. Even past the fact that he was uncomfortable with killing in the first place, the fact that it looked like him made the thought... distinctly unpalatable. Instead, he reached out to cage it within the labyrinth, warping its walls and floor so it flowed around his echo.
+
+Making it effectively a part of the labyrinth.
+
+He hadn't been sure this would work, and perhaps it was only the unique circumstances here that allowed it to, but the moment the stone flowed over its shoulders, he could feel it becoming part of his domain. Enough for him to prevent it from casting any spells, at least, which would keep him safe until Cale returned and they could figure out what to do.
+
+Speaking of which, where was Cale? Leo frowned, reaching out with his mana sense to try to find any trace of his mentor. He'd been too frantic trying to survive earlier to dwell too much on it, but now—
+
+His echo let out a bloodcurdling scream, and Leo's attention snapped over, though his reflexive attempt to reinforce his barriers did nothing. There was no power left in him except the mana fueling [Asterion's Gaze].
+
+He needn't have worried. The scream wasn't a scream of rage. Leo recoiled in muted horror as he saw his echo visibly losing cohesion, melting in front of his eyes.
+
+The library around them trembled, and a groan reverberated through the ruins of the shelves, like the entire structure was creaking.
+
+Leo rushed to his echo. "Are you alright?" he asked. He wasn't sure if it could actually understand him, and its eyes were glazed over, but he saw it struggling weakly to look at him. The sight was absolutely going to get lodged into his nightmares. "Stupid question. Just—hang on a moment, let me—"
+
+Was there something he could do? The echo was a part of the labyrinth. Theoretically, [Asterion's Gaze] gave him dominion, and he could try to hold it together...
+
+But it felt like he was trying to sculpt with liquid. The echo fell apart around him faster than he could rebuild it. It didn't help that his own soul was shaking in response to whatever just happened; he could barely keep himself focused on the task when he felt like he was being rattled around inside his own body.
+
+He tried anyway. He stopped only when the echo was nothing more than ruined, liquid magic, pooling in a puddle on the ruined ground, and he tried very hard not to think about what that had looked like.
+
+He needed a distraction. What was causing this? Something was happening in the library, that much was obvious. Another fight. Cale's, perhaps? Did Cale have to fight an echo of his own? It would explain why he'd disappeared, though Leo didn't want to imagine the kind of devastation a fight like that could cause.
+
+For a moment, Leo hesitated. He was pretty much out of mana. It was going to take at least a few hours before he regenerated enough to be useful in any kind of fight.
+
+But he was so, so tired of not being able to do things. And he'd proved himself, hadn't he? More than that, [Asterion's Gaze] was still active. As long as there was anything there he could manipulate with it, he wouldn't be completely useless.
+
+Leo drew himself to his feet, clenching his fists.
+
+Time to find out what was going on.

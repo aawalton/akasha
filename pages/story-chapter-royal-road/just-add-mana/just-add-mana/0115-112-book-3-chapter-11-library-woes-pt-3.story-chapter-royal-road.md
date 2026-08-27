@@ -1,0 +1,242 @@
+---
+id: f08a426f-ada6-51a9-87d8-da07bb9f85ff
+page-type-slug: story-chapter-royal-road
+title: "112 — Book 3, Chapter 11— Library Woes, Pt 3"
+partOf: just-add-mana
+position: 115
+ownLength: 3326
+unit: words
+publishedAt: 2026-03-21
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3177016/112-book-3-chapter-11--library-woes-pt-3"
+royalRoadId: "3177016"
+---
+
+About thirty minutes later, Cale and Leo had both acquired a brand-new set of robes, courtesy of Haelforge Academy.
+
+"Cale," Leo said. "Have you done this before?"
+
+"I have no idea what you mean." Cale put on his best, most innocent-looking expression, though by now his attempts at this usually just made his apprentices more suspicious. "Requisitioning robes? I've done plenty of requisitioning before."
+
+"I'm not sure what you did counts as requisitioning."
+
+"Of course it did," Cale said. "We're doing something on the behalf of the Haelforge professors, and we need Haelforge uniforms to pretend to be Haelforge students. Requisitioning."
+
+"Typically," Leo said, "requisitioning something involves forms. You just accosted the first professor we found and asked for a set of Haelforge uniforms, then kept insisting even when he pointed out that Haelforge doesn't actually have any uniforms."
+
+"Well, he was clearly just hiding them from us," Cale said, sniffing. "We got them in the end, didn't we?"
+
+"We got a set of standard battlemage robes," Leo said. "Either that, or you intimidated that poor professor so much he decided to give you a pair from his personal collection of robes. I haven't decided which one is more likely yet."
+
+"I didn't do anything intimidating," Cale objected. "I just asked for some uniforms!"
+
+"You also started showing off your collection of spells when he didn't give them to you immediately."
+
+"To prove that we deserved them!"
+
+"You shattered his best barrier."
+
+"It wasn't a very good barrier. I thought he was testing me. This is Haelforge; it's how they do things. I asked!" Cale frowned and paused. "...wait, did we just mug one of the Haelforge professors?"
+
+"Did you just mug one of the Haelforge professors, you mean," Leo said. "And no. I followed up with him after and made sure he was okay. I think he was impressed. But in any other situation, yes, that might have counted as a mugging."
+
+"Huh." Cale frowned. "I feel like this explains a lot of interactions I've been wondering about."
+
+"Please tell me you haven't been mugging people without realizing it."
+
+"No, no," Cale said. "I'm pretty sure I haven't. I don't requisition materials that often."
+
+"I don't know how reassuring that pretty sure is."
+
+"I can usually tell if I'm scaring someone," Cale said. "It's just that I realized some of the mages I met might have been trying to mug me. I just thought that was how they greeted people."
+
+Leo blinked. "You're going to have to explain that one to me."
+
+"It's a cultural thing," Cale said. "There are realms where mages greet each other by exchanging their best spells. I just thought it was another one of those."
+
+"I can't decide if I believe you or if you just deeply misinterpreted them all attacking you simultaneously."
+
+"No, no, it's a real thing. I met the king that way! Great bloke, fantastic penetrating spell. He actually managed to crack one of my barriers."
+
+"I'm... not even going to comment on that." Leo shook his head. "At least these robes are nice."
+
+"They have so many pockets," Cale said happily. "Pockets are amazing. You don't appreciate them until you have to live through a realm that hasn't invented them yet. I get around to inventing them, don't get me wrong, but you'd be surprised how hard it is to get the masses to adopt them."
+
+"Why would that be hard?" Leo frowned.
+
+"Customer complaints," Cale said. "Never underestimate the power of a mage determined to complain about something. First they think it's a hole in their clothes, then they complain about leaving expensive spell materials inside their pockets when casting cleaning spells and destroying them by accident. Plus the engineering is harder than you'd expect. We had to deal with an infestation of pocket mimics, and apparently sometimes tentacles emerge from the pockets, so we had to establish a pocket troubleshooting department..."
+
+Cale trailed off. Leo was giving him one of those looks that said he'd said something strange. "What?"
+
+"Those aren't normal problems with pockets."
+
+"Aren't they?" Cale frowned. "I just thought most realms fixed the pocket tentacle problem."
+
+"I am reasonably certain we've never had a pocket tentacle problem, and I cannot believe I just spoke that sentence," Leo said dryly. "Have you considered there might have been a good reason that particular realm hadn't invented pockets?"
+
+"Huh. Hadn't thought about that." Cale shrugged. "We fixed it, though. It was very popular after that."
+
+"Well, now I have to know how."
+
+Cale thought about it for a moment. "Now that you mention it, I guess it probably was realm-specific," he said. "That, or we fixed it for all the realms at once. Not sure which. Basically, one of my friends invented a spell that let us enter the pocket dimension.
+
+"Just to be clear: the pocket dimension, not to be confused with a pocket dimension. There was some sort of infestation in it..." Cale hummed in thought. "Maybe it was created by a curse directed at pockets? I'm not sure. It's been a while."
+
+"...I have so much I need to process about everything you just said." Leo shook his head and sighed. "Sometimes I can't decide if I'm jealous of everything you've seen and done."
+
+Cale took a moment to respond to that, and Leo glanced over at him, as if only just realizing what he'd said. "I'm sorry," he said. "I didn't mean—"
+
+"It's fine," Cale said. "I know what you meant. And don't get me wrong, I'm glad I've gotten to see as much as I have. I just wouldn't wish the rest of it on anyone."
+
+Leo hesitated for a moment, and when he asked his next question, the words were tentative. "Is that why you do things like this?"
+
+"What do you mean?"
+
+"We didn't really need new robes," Leo said. "Theoretically, as long as we're not looking for the books with the explicit purpoe of unsealing the dungeon, we should be able to reach them. Assuming we're right about that, I mean. But you insisted on getting the robes, and I'm not really sure I understand why."
+
+It was tempting to avoid the question, but Cale was starting to work himself out of that habit, and so instead he considered it carefully.
+
+"It's important to have fun when I can," he said eventually. "I've lived for a very, very long time, Leo, and if there's anything I've learned about immortality, it's this: I have to choose when to bear the weight of it all. If I don't..."
+
+He shook his head, lapsing into silence, and thankfully, Leo didn't press him any further. The minotaur seemed to be thinking hard about something, though, so Cale left him alone until they were once more surrounded by the bone-carved shelves of the Haelforge Library.
+
+Leo was glad that Cale was opening up. He didn't know how to feel about everything else—in fact, all too often, he just felt like he was in over his head—but he at least knew enough to recognize that Cale rarely talked about himself with that much open vulnerability.
+
+It seemed to help, but it also wasn't something he did for very long. He was going to need another distraction sooner or later. It was just sort of how things went.
+
+"Have you done anything like this before?" Leo asked, deciding to pre-empt that distraction. At least this way, he'd learn something new about the realms. In the meantime, they made their way to the shelves of conjuration-fire-five, this time with nothing but the intent to pick out a tome each to read.
+
+Well, theoretically. To get whatever defensive spell this was to misread their intent, they would have to both convince themselves that that was what they were doing. That was, for obvious reasons, much easier said than done. Hopefully a distracting conversation would help.
+
+Cale glanced at him. "What do you mean?"
+
+"You know." Leo gestured at the library around them. "Trying to bypass some sort of spatial magic to get somewhere. Was the Labyrinth Plague anything like this?"
+
+"Huh." Cale's expression turned thoughtful. "Not the Labyrinth Plague, no. You'd know if you were caught in the Plague. It doesn't like to let you leave. But there are some similarities, now that you mention it...
+
+"It's probably not the best example, though." He hummed in thought. "There are dungeons that rely on all sorts of spatial trickery like this. Corridors that turn in on themselves or trap you in some kind of loop, that sort of thing. There's always some sort of trick to get through it, kind of like what we're doing now. Trap magic in general always has some kind of weakness."
+
+"How do you know when a trap like that activates?" Leo asked. "Is there something I should watch out for?"
+
+That made Cale brighten, and Leo grinned internally. Cale loved having the chance to explain the rules, so to speak; he claimed that a deep understanding of them was how a good mage could keep themselves alive.
+
+"Excellent question!" Cale beamed. "The first thing to look for is distortions, like in the tomes and shelves we saw. The second thing to look for is repetition—you already know this, but it's good practice to mark each corridor in a dungeon as you pass them, and one of the reasons for that is in case you walk into a spatial trap.
+
+"The really devious ones are a lot more subtle than that, though." Cale paused for a moment, picking out a tome and gently paging through it, as if he was actually interested in its contents. Perhaps he was. "I once explored a dungeon that created a spatial veil. Basically a false space layered on top of a real one that can be freely manipulated by the caster. Those things are much harder to spot, since the caster is in active control, and the worst part is they can make you think you've left the dungeon while keeping you inside the veil."
+
+Leo grimaced. "That sounds awful."
+
+"Oh, it wasn't so bad," Cale said. "It's hard for a good spatial veil to mimic people, so one of the obvious signs is if you visit a populated village and it's completely empty. Or there's people in it, but they act like puppets."
+
+"That just sounds creepy," Leo protested. "And there are other spells that can do that kind of thing."
+
+"You do have to watch out for that," Cale agreed. "The thing is, every spatial trap has some kind of rule; it's intrinsic to how the spells work. You just need to know which ones have which rules. Veils fall apart if you move too quickly for the spell to keep up with you, for example. Interpolation magic can be defeated just by moving backwards. Corridor-replication usually requires a specific series of twists and turns, which labyrinth magic is uniquely suited for breaking..."
+
+He trailed off, and Leo frowned. "Cale?"
+
+"I think we're here," Cale said, although his voice sounded oddly distant. Leo looked around and blinked a few times, feeling strangely dizzy for a moment. What did he mean, they were there? They were heading for the shelves of conjuration-fire-five, and they were only at—
+
+They were only at—
+
+Leo felt almost as though he was seeing double for a moment. His labyrinth senses told him one thing, his brain told him another, and his eyes were refusing to notice something he absolutely should have noticed before.
+
+"It's powerful obfuscation magic." There was something different about Cale's tone—was it worried? Angry? He couldn't tell. It still felt like it was far away. "Give me a moment, I can't just purge the effect from you. I think it's anchored by something—"
+
+Leo shook his head and grunted. It was hard to listen to what Cale was saying. The words slipped in and out of his perception, as though they weren't quite in the same location despite ostensibly being right next to one another.
+
+But a small part of him was still doing what Cale had instructed right at the beginning of all this. He was cycling his mana through each of the palewater patterns, moving it in and out of his core. At that exact moment, entirely subconsciously, he switched to the one pattern he had the most trouble with—the one that refused to move.
+
+And like it had been prodded from a deep sleep, the fragment of Cale's intent embedded within his mana surged to life.
+
+For a fraction of a second, Leo thought that he'd finally succeeded in creating palewater, but that was a bleary, half-formed thought, and it became clear quickly that something very different was happening. The intent burned within him, seemingly offended by the existence of something—
+
+—something that had wormed its way into his mana core without Leo even noticing—
+
+—and in that same fraction of a second, it cast it out.
+
+Leo fell to his knees, gasping for breath, and Cale was suddenly there, arm around his shoulders to keep him steady. "Are you alright?" he asked. "Shit, did you just break out of that by yourself?"
+
+"Not—" Leo grimaced, still feeling slightly woozy, but far better than he had before. "Not by myself. Your intent did something. What happened?"
+
+"Perception worm," Cale said, frowning. "They shouldn't be here. They can fall through gaps in unsealed realms and can make powerful anchors for obfuscation spells, but Utelia isn't an unsealed realm."
+
+"I don't mean that," Leo said, although he had been wondering. Far more concerning to him, though, were the shelves of conjuration-fire-four.
+
+More specifically, the lack of them. The part of the Haelforge Library they were in looked absolutely devastated, like a fire had raged through it and left behind nothing but ashes. The rest of the library seemed intact, but impossibly far away.
+
+"Ah," Cale said quietly—and Leo thought he heard what might have been actual worry in his voice. "I think we might have been a little wrong about what happened here."
+
+"It wasn't trying to stop us from unsealing the dungeon?" Leo asked. He pulled himself slowly to his feet. Something about the air around them felt wrong, indistinct.
+
+"Right," Cale said, uncharacteristically hesitant. He knelt in the ashes to pick out what looked like the burnt cover of a book, and he held it reverently, brushing off the ashes with a gentle touch. "I think that might have been the library trying to protect us."
+
+"Oh." There was an obvious follow-up question to ask there, but Leo's tongue felt oddly like it had frozen in place. He swallowed and forced it through anyway. "Protect us from what?"
+
+"Good question." Cale seemed wary, which was never a good sign. "I don't know."
+
+Cale was normally delighted when he didn't know things. Leo found it incredibly unsettling that he had said those words without even grinning. "Which means we should be careful."
+
+"There's a lot of magic here," Cale said. "A wounded library is practically a wound in magic, Leo. And this one's in pain, but it's doing its best to protect its students and professors. We just broke through that defense."
+
+"Is it—" Leo swallowed. "Is it going to be alright? Can we help it?"
+
+"Maybe. We'll have to figure out what happened here first." Cale's expression tightened. "Leo?"
+
+"What?"
+
+"Very few things can wound a library like this. Especially one well-established and taken care of. The ones that can are usually different forms of magical parasites, capable of taking advantage of the magic that leaks out. The most dangerous among those that I know of uses it to fuel echo magic, and there's one thing you need to know about echo magic."
+
+Leo swallowed, unnerved by the intensity in Cale's expression. "What's that?"
+
+"It's an echo," he said. "And it can only ever capture what you were. It does not know what you could be. I have faith in what you could be, Leo."
+
+"You're saying that like I'm going to have to do it alone," Leo said, his worry now reaching a height he hadn't thought possible.
+
+"If this is what I think it is," Cale said, "then I won't have—"
+
+Leo really, really wished Cale had been able to finish that sentence. And also that Cale made a better habit of explaining what he thought things were. Especially since he was right most of the time, and the ambiguity of not knowing was far worse! Granted, he was pretty sure he knew what Cale had been about to say, but... dammit.
+
+Echo magic. He had never heard of echo magic. But he understood well enough from the name what it meant, and sure enough, when he looked up, Cale was gone. In his place was what looked like a pure-white reflection of Leo, with blazing golden eyes.
+
+Leo might have been impressed if those eyes hadn't also looked very much like they wanted to kill him.
+
+"I don't suppose we can just have a conversation?" he asked. "About, uh, I don't know. Earning points. Do you like points? I'll give you ten points for not attacking me."
+
+"...ten points... attack..." the echo muttered in return, and Leo felt the all-too-familiar coalescense of labyrinth magic suddenly surging in his clone.
+
+Great. His first doppelganger fight and he wasn't even going to get to make good conversation.
+
+Considering how much more worried Cale had been, Leo wondered vaguely if he wasn't picking too much up from his mentor. He should have been terrified. Cale was gone, and this was an example of magic that was far beyond him—whatever had caused this had managed to hurt a library. That was so unheard of none of them had even considered the option.
+
+But also, it was clearly dividing its resources, if all it wanted to do was have him face a copy of himself.
+
+There were two problems with that.
+
+One, at that moment, Leo didn't like himself. It wasn't a good thought, he knew—his friends would certainly be upset with him for it—but it still burned within him, no matter what he told himself to feel.
+
+And second...
+
+An echo can only capture what you were. It does not know what you could be.
+
+This struck him like an opportunity.
+
+Leo pushed his mana to circulate in the complex patterns he needed and felt it stall once more, but his gaze didn't waver from the golden eyes of his clone.
+
+The win condition was simple. They were evenly matched, from what he could feel, which meant they could counter one another perfectly. The clone could draw from the mess of magic left behind by the wound in the library, which meant Leo would run out of mana first and lose.
+
+Unless he figured out the trick to palewater.
+
+"Well," Leo said. "Nothing quite like a fight for your life to motivate you, eh?"
+
+His clone snorted and charged.
+
+"I know, I know," Leo said. "That's the sort of thing Syphus would say. I've been learning a lot from it. Friends in high places and all that."
+
+Walls surged up around them as they each unleashed a spell of [Labyrinthine Control]. It was more a spell for controlling the field than for battle, but Leo thrived best when he controlled the field.
+
+So did his clone. Like this, they would wrestle for control over the labyrinth while hunting one another down. The walls of the makeshift labyrinth shifted as they tried to crush one another, making their way through the twists and turns.
+
+Leo did recognize, somewhat distantly, that he was coping with danger by attempting to banter with an opponent that couldn't speak. Clearly, he was learning too much from Cale.
+
+But perhaps he could use that.
+
+Slowly, deliberately, he turned part of his focus inward, even as the rest of him fought to maintain control of the labyrinth shifting around him.

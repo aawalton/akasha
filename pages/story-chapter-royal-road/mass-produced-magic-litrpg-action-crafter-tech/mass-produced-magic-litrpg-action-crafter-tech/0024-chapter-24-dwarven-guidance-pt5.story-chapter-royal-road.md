@@ -1,0 +1,181 @@
+---
+id: f8d9cea3-5c48-5b71-a3a4-ff59fa3317fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24 – Dwarven Guidance – Pt5"
+slug: 0024-chapter-24-dwarven-guidance-pt5
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 24
+ownLength: 2265
+unit: words
+publishedAt: 2024-12-07
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1945625/chapter-24-dwarven-guidance-pt5"
+royalRoadId: "1945625"
+---
+
+Magic churned around Kindra. Runes flashed like stars, and she felt a burning desire to rip the spell apart. Studying the runes, she started to form the sequence. “Stavn?” she asked, letting her anger show. “Five seconds before I react.”
+
+Stavn spun. “What?”
+
+“I don’t like spells cast on me.” Kindra reached for her gun.
+
+“My apologies,” the priestess said, surprise showing on her face. “It’s to help us guide you.”
+
+Dain trusted them. And it’d probably cause problems to stop this. Kindra let the magic wash over her, a nervous frown on her face. She chewed her lip, and the magic faded. “What spell was that?”
+
+“A spell to allow me to see your level, mana, and class.” The priestess quirked her head, her brows raising. “How are you so weak?”
+
+Kindra blushed. “I’m not that weak.”
+
+“My dear, you are behind what you should be,” the priestess said sympathetically. “How?”
+
+“There wasn’t magic before all this,” Kindra replied, crossing her arms. She blew a strand of white hair from her face and scowled at the priestess.
+
+“No magic?” The priestess’s face contorted as she struggled to process it. “How is that possible?” She shook her head. “No. It must be something else.” She walked to Stavn and whispered.
+
+Kindra sighed and looked around the church. She’s a priestess. Is she worshipping this Death guy? Tapping her finger on a stone pew, she considered it. System, are there other gods?
+
+[Nice try, Kindra. ~Death]
+
+That’s a yes. Or something is there. Kindra turned and looked at the two. Is it impolite to ask that question? She ran her fingers across the polished stone pew and considered doing it.
+
+An awkward tension built around her. The two continued to whisper. This is a bust. She turned and headed for the door.
+
+“Kindra, wait. I apologize,” Stavn called, stepping forward. “We needed to ensure some things.”
+
+Kindra spun and looked at the two. Both had disbelief on their faces. Stavn looked into her eyes and looked away, fidgeting momentarily.
+
+“How did you know I was casting a spell?” the priestess asked, her brow raising.
+
+Kindra opened her mouth and shut it. She shrugged. “I don’t know. I saw and felt it.”
+
+“You could see and feel the spell?” the priestess turned to Stavn, shaking her head. “I don’t know if she’s lying, but her eyes aren’t natural. That could explain how she’s seeing it. I—”
+
+“My eyes aren’t natural?” Kindra interjected, stepping closer.
+
+The priestess turned and nodded. “I don’t know what happened to your body, but it was altered by extremely powerful magic. My spell confirmed as much.” She turned back. “I highly doubt she’ll get any martial class over tier two. Her affinity for magic is too high unless she has dumped every single point into spell resistance.”
+
+“Did you?” Stavn called.
+
+Kindra shook her head. “No, I have physical stats and intelligence.”
+
+The priestess turned toward Kindra. “Is there a particular type of magic you’ve tried to learn?”
+
+Kindra stepped forward. “No. I’m still trying to figure out the basics.”
+
+“I have a book of beginner runes and spells that she can work through.” The priestess walked to the side of the church and pushed on the wall. A panel slid open, and she walked into an office.
+
+Kindra studied the wall. That’s clever. She saw a small collection of books.
+
+The priestess brought one out and looked at her. “Stavn will give this to your father or mother. Take care of it, or it will cost you.” She handed it to him.
+
+Stavn slipped it into his bag.
+
+The priestess gave Kindra a final look, a hint of fear lingering in her eyes. “I do not know your plans, child, but I advise against the dark magics. Don’t let that magic corrupt you further.”
+
+It’s my stupid hair and eyes, isn’t it? Kindra sighed and nodded. So, I’ll probably get a caster class, like the two I had offered. The thought sent a shiver down her spine. Realization hit her, and she looked at the priestess. She knows. “I’ll try to unlock a different one,” she said, swallowing nervously.
+
+“Do so, child. You walk a dangerous path,” the priestess replied, shaking her head.
+
+Staven turned and whispered with the priestess again. She whispered something back.
+
+Kindra sighed, walked to the door, and reached for the handle. Maybe I should have stayed in the woods. She turned the handle, weariness building around her. I was not prepared for any of this.
+
+Stavn reached out and pushed the door shut. “I’m sorry, Kindra. We have to be certain. An entire village was recently killed. We don’t want the same to happen to us.” He smiled, sorrow still lingering on his face. “I don’t know your story. No one does, but we can’t have you taking that path.”
+
+“I understand, and I won’t.”
+
+“That’s a good lass. If you practice, you can unlock a good caster class at level fifty. Druid or cleric would be ideal.” He patted her on the shoulder and turned back to the priestess. “Are you certain?”
+
+“A Scout or Ranger class is still possible for her. The rest aren’t.”
+
+“How do I become a priestess?” Kindra asked, looking back at her. “Do I swear loyalty to a god?”
+
+“Yes. You need to make an oath. Practice the spells. See if you have an affinity, and return if you do,” the priestess said, her frown wavering. “Go with the gods, child, and may their cleansing light heal you.”
+
+Kindra didn’t reply, following Stavn out the door with a frown on her face. I owe Sigrid for that necklace. I owe her a ton because that priest would likely light me on fire. She walked down the stone street and looked at a distant undead. The blue magic glowed inside it, the vibrant, icy blue a mirror of her own eyes. I’m going to need to make goggles or something.
+
+Turning, she followed Stavn, who moved swiftly down the cobblestone streets. Dwarves moved quickly by, heading about their business. The smell of a stew washed over her, and she passed a small cluster of carts full of random food that dwarves were buying.
+
+A few glanced at her. Scowls spread through the group, and she quickened her pace, darting quickly down the streets and into the mines.
+
+Pausing, she waited for Stavn to catch up.
+
+He entered. “It is important, Kindra. Be careful, and wait to pick until you have the right class.”
+
+“I know,” Kindra said. “I know.”
+
+“Do you know why you look like that?”
+
+I have no idea. None of this makes sense. She shrugged at him.
+
+He sighed and walked down the tunnels. Kindra followed him down several passageways and around a corner, stopping as he did.
+
+Stavn paused. “Did you mean what you said earlier? There is no magic where you are from?”
+
+“Yes.” Kindra nodded. “I know you don’t believe it, but that’s true.”
+
+He shook his head and muttered to himself, walking down a passage. Kindra followed him for a few minutes before she heard familiar squeaking. Rats, again? She blew the strand of hair from her face, and he nudged her forward.
+
+A rat peered in their direction, its little core glowing vibrantly. Kindra pulled out her crossbow. Loading up a bolt, she ratcheted it back, and Stavn examined the bow with a look of surprise.
+
+Ignoring him, she lined up the bolt, exhaled, and fired. The bolt zipped forward and sunk into the rat. It tumbled, and the rat toppled over.
+
+Stavn nodded approvingly. “Where’d you get that? And why didn’t you mention you had a cache skill?”
+
+Kindra shrugged. “I didn’t know the words for it, and I made it.”
+
+Walking up to the rat, she ripped the bolt out and pulled the mana into herself.
+
+Reloading, she proceeded down the tunnel. Stavn walked up and picked up the rat, following her.
+
+Spotting another, Kindra reloaded, aimed, and fired. A bit unsporty, but I suppose it makes sense. I’d level kids this way, too. She grabbed her bolt and sucked in the mana, spiraling down the tunnel deeper and deeper into the ground. The sound of water filled the air. Another underwater stream? We could use that for power. She emerged from the tunnel and looked out into a cavern. Stone pillars supported the place. A small stream of water flowed from the wall, and magic lit portions of the room.
+
+Blinking, Kindra rubbed her eyes and looked at the growing plants.
+
+“Our mushroom farm. Follow the path. Shoot anything that’s eating the plants.” Stavn chuckled and patted her back.
+
+So, this is the equivalent of a starting quest. I’m killing the garden pests. Shaking her head, she walked down the path and searched the plants.
+
+A large beetle waddled forward, and she aimed, lining up the bolt with the bug. Pulling the trigger, the bolt hit the bug with a resounding clang, vibrating and flying into the air. The beetle chirped and scurried toward the wall, a large crack oozing fluid from its carapace. Fine. Kindra burned mana and grabbed another bolt.
+
+[Basic crossbow has been enhanced with armor-piercing rounds for 24 hours. Each shot will negate up to 15 stamina when fired. This effect lasts ten seconds after being fired.]
+
+Ratcheting in another bolt, she aimed, and the beetle scurried into a hole.
+
+“No matter,” Stavn said, walking from the edge of the room. He pulled out a small bundle of sticks and charcoal. Walking to the beetle’s hole, he set them into it and began constructing a fire. “It’ll come out of its hole. Keep searching.”
+
+Not nearly as threatening. Kindra picked up her bolt and walked through the farms underneath the city. Logs were perched against the large stone pillars, and mushrooms feasted, growing everywhere. This is smart.
+
+Peering around a pillar, she spotted a rat and fired at it, her bolt blowing through its side. Walking forward, she retrieved the bolt and rat, pulling the mana into herself. The metallic scent of blood filled the air, and her mouth watered. Don’t do it, Kindra. It’s bad enough without letting him see that.
+
+She looked back at him. “What do I do with them?”
+
+“Pile them up for now. You’ll carry them back.”
+
+Kindra nodded and placed it on the path. Reloading, she scouted around the cavern and saw another beetle. Aiming, she fired. Is this the time for a farming montage because it’s not that exciting? She mused and watched the bolt hit with a resounding crack. The carapace broke, and yellow fluid gushed from the bug. Walking over, she retrieved both and set them on the path.
+
+The process repeated, and Kindra quickly found herself bored. A small pile of pests was gathered, and she struggled to find new pests to kill. Well, so much for the tutorial level. It’s boring. Opting to explore, she walked through the cavern, following the stream. It flowed and formed a small pond that was surrounded by massive pillars. Sunlight streamed down into the pond, and a bucket lowered, dropping down into it. And that’s the well.
+
+Kindra nodded and studied the deep pond. Its sides were unnaturally smooth. They made the well. That’s cool. She turned and walked around it, spotting some strange-looking mole-like creature. Its massive whiskers flickered, and it opened its mouth to reveal jagged teeth. Chomping down on a mushroom, it chewed, and she fired.
+
+The bolt sunk into the overgrown mole. Blood oozed from the mole, and the metallic smell filled the air. Kindra stepped forward, and the ground shook. The water and stone trembled, and she froze. Shit.
+
+Stavn cursed, his noise bouncing through the tunnels. Kindra stood there, carefully reloading the crossbow and looking nervously at her feet. I need a gun, not this.
+
+The ground shook again, and a massive grub burst from the wall, showering the place with stone. Its mouth opened wide and engulfed the mole.
+
+Turning, Kindra looked toward Stavn. He grimaced, a look of pain flashing on his face before he shot forward like a bullet.
+
+Kindra staggered backward. The grub turned, and Stavn slammed his axe into the worm, spraying green fluid across the caverns. The grub went nuts, thrashing up and down. Aiming, Kindra locked onto its open mouth and fired. The shot was easy, and the grub had less armor than assumed. The bolt blew through it, bursting out of the other side. Stavn hacked it open, spraying the walls with fluid.
+
+The grub wriggled and slammed into pillars, walls, and Stavn. He flew, and the grub burst the cuts open. Green fluid leaked everywhere.
+
+I hate these things. Kindra aimed. Where’s the heart or brain? And does it matter? Aiming at the back, she fired, sinking the bolt into it.
+
+Stavn landed and dashed forward. The grub turned and opened its mouth. Dodging to the side, he slammed his axe into it, spraying himself and the cavern with the fluid.
+
+Kindra reloaded. The grub continued thrashing, and Stavn slammed his axe deep into it. Fluid flooded the room, and he leapt back, racing away.
+
+He doesn’t want the mana. Kindra turned her attention back to the grub. Its thrashing slowed as the fluid drained all over the stone floor. Sheesh. How are we going to clean that up? I guess it might seep into the water. She felt her spirit lock onto the grub. Reaching out, she didn’t bother sharing, ripping it into herself with a happy smile.
+
+[Your mana increased: 1138 → 1354.]

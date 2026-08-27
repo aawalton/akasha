@@ -1,0 +1,109 @@
+---
+id: 2010c4ef-f8fd-52c6-9910-1884e3fd2f05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 122: Species-Evolution Pill"
+slug: 0163-chapter-122-species-evolution-pill
+partOf: labyrinth-of-the-mad-god
+position: 163
+ownLength: 1974
+unit: words
+publishedAt: 2025-04-28
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2238714/chapter-122-species-evolution-pill"
+royalRoadId: "2238714"
+---
+
+It felt like Nick had swallowed a sliver of the sun.
+
+Molten power slid down his throat and into his stomach, then dissolved and began to spread. His awareness was drawn inward, following the resplendent energy flowing through his veins.
+
+By this point, he had experienced a wide variety of incredibly strange and indescribably extreme altered states. From the System remaking his body on a cellular level and jumpstarting his mana pool, to the Crimson Blight invading his body.
+
+None of them had felt like this.
+
+It wasn’t really pain, although it was so intense that it was hard to appreciate the difference. Golden flakes of something that he had no words to describe were permeating every speck of his being. Mixing with his stamina, health, and mana. Infusing his energetic core and the conduits leading to his abilities. Vitalizing his tissue and recoding his DNA.
+
+Most unusual of all, a portion of that power was leaving his body, coursing along channels that connected to something he couldn’t quite perceive. Something that bound all of humanity together as one. That must be my geneline, he realized, before all such thoughts were driven from his head by the sheer intensity of what he was experiencing.
+
+The sensation soon died down to something manageable. Nick could still feel electric power thrumming inside him, but it didn’t stop him from navigating the outside world. I have to go through several days of this until my evolution is complete? Actually, that doesn’t sound too bad.
+
+A few minutes later, Devin hopped onto the scaffolding with a resounding thud. Apparently, there was a ladder that led up to the machine when the simulator wasn’t running. The blond warrior stepped onto the landing, carrying a lump of metal the size of a bowling ball in one hand. Devin walked over and placed it in Nick’s pack, which helped him keep his feet on the ground.
+
+“I found a souvenir while I was climbing up here. It’s the part of the machine that creates these elaborate simulations. At least, I hope that it is. Since you needed to put on a few pounds anyway, I was wondering if you would mind carrying it until we get back to Earth. It’s heavy and I don’t have room in my bag.”
+
+“Sure, Devin. Nice thinking. You aren’t the only one who found something interesting.”
+
+When he saw what Nick was holding, he let out an appreciative whistle. “Holy shit. You hit the jackpot this time. My body wants to eat that thing so badly my bones are aching. I didn’t know that was possible. What is it?”
+
+“It’s one of the Species-Experience Pills the Administer dangled in front of us. Pax said that it contains concentrated experience that will catalyze our evolution to the next grade and take all of humanity closer to the threshold in the process. Rizzen was using them to lure people into the tower, so they must be incredibly valuable.”
+
+He already knew the answer, but he couldn’t resist the temptation to tease his friend. He motioned like he was putting the pill into his pack, then turned to the man and asked. “Oh wait. Do you want to eat one?”
+
+“Fuck yes, Nick. I want to eat one. There’s one for you too, right?” He was touched that his friend cared about his needs, even with the lure of the pill right in front of him.
+
+“Don’t worry, I ate it while you were climbing. Here you go.” Nick winked, reached out, and dropped the pill into Devin’s palm. His body protested letting it go, but he suppressed the urge with a laugh.
+
+“Thanks, Nick. You really are the best. A lot of people would have eaten them both and never said a word. Cheers!” Devin raised the pill like he was making a toast, then popped it into his mouth, took a swig of water, and swallowed.
+
+His eyes went wide as the pill worked its magic. It would be a few minutes before Devin was aware once more, so Nick used the opportunity to take care of a few loose ends.
+
+At the top of his list was refilling the ballast in his bag. Making the pack lighter than air had been a useful way to reach the machine, but having the straps pulling him up was annoying and completely destroyed his balance. The device Devin had found was a good start, but he needed to be able to remove supplies without having to worry about their weight.
+
+He started grabbing random chunks of metal that had come loose when he broke the controlling crystal, until his pack weighed about fifty pounds—a light load with his current Strength. That’s better.
+
+That was when Nick realized that his belt was vibrating. It wasn’t his wand this time around, but the crystal PDA he had found in the basement. When he took it out and held it in front of his face, a display appeared beside it.
+
+Compatible components have been detected. Absorbing them will allow this device to regain a portion of its functionality. Your permission is required to proceed.
+
+Nick had already looted what he wanted and would have been happy to let the device have the parts regardless. He gave the PDA his blessing, then touched its crystal to several internal components on the machine when prompted. Each time, the object began to glow before disappearing with a pop of displaced air. When it was done, a new message appeared.
+
+This device has regained the following functions:
+
+Automapping: the device will record geographic data from the regions you pass through and use it to compile a map of the area.
+
+Sentry: the device can be set to issue an alarm when danger presents itself. (The device must calibrate itself to the immediate environment and this function cannot be used while traveling).
+
+Awesome. Now I have a way to map my surroundings and another source of protection while we sleep. I wonder what else this thing can do when it’s repaired. Combined with its log, picture and video recording, and timer functions, the alien crystal was starting to feel a lot like a magical version of a smartphone.
+
+He wanted to check out his updates, but that would have to wait until he made it to the craft world. Devin was coming back to his senses, and they were on the clock. On that note, the warrior opened his eyes and took a long look around. “Whoa. What a rush. I can’t wait to find out what happens when this baby finishes digesting.”
+
+Then Devin gestured and grinned. “Nick, are you thinking what I’m thinking?”
+
+“I am if you’re thinking that we should break into that machine and see if there are any more pills stored inside.”
+
+“Ok. That’s what I’m thinking now.”
+
+With the Administrator out of commission, there was nothing stopping the men from applying their full might to the task at hand. Nick tried using his various tools to access the guts of machine properly, but there weren’t any screws or joints that he could identify. Even if there were, his tools weren’t designed to be used on such durable materials, and he abandoned the effort after almost running his prybar and hammer.
+
+“It looks like we’ll have to use our weapons and hope that we don’t destroy anything valuable in the process.”
+
+With that, he unsheathed his sword and raised it above his head, while Devin changed his axe into its two-handed form. Nick brought the blade down as hard as he could, filling the air with a chiming clang. The blow barely scratched the metal plating, but it was an encouraging sign. If he could inflict any damage at all, it meant that they had a chance.
+
+When he moved his sword out of the way, Devin took his turn, bringing the great axe down with the full power of his body behind it. It did more damage than Nick’s sword and left a tiny dent behind. They shared a grin and then went at it with everything that they had, taking turns as they slammed their weapons into the machine time and time again. They didn’t have time to lose, but this opportunity was too valuable to pass up.
+
+Blam. Wham. They wailed on the metal for everything they were worth, gradually widening the space where the crystal had sat and carving into the layer below. He started adding Heavy Blow to the force of his swings, supplementing them with tiny bursts of Force Acceleration.
+
+At last, the final plate gave way, revealing a modest cavity all the way in the back of the device. When Nick reached inside and started feeling around, he broke into a broad grin. Paydirt! He carefully fished out three small spheres, dancing with excitement when he saw they were Species-Evolution Pills after all. That’s enough to help Sophia and Veronica evolve, and one more person too. Hopefully, we will run into Kenji soon and I can give it to him.
+
+After making sure there weren’t any more pills inside, he put them into his pack and gave Devin a triumphant high five. It seemed that the rewards for completing this floor had just gotten a whole lot better. That was when Nick remembered Devin’s earlier comment. “Wait, what were you thinking before I mentioned breaking into the machine?”
+
+Devin laughed. “That we should tag the wreckage with our names, and maybe “Fuck you, Rizzen” for good measure.” Since it didn’t hurt to blow off some steam, and Nick doubted that anyone in the tower could read English phrases, he took out a small jar of paint he’d picked up in the storeroom and they both signed the broken machine. It only took a few seconds, and it made him feel better about escaping from what was supposed to have been a deathtrap.
+
+When the last letter was done, the men gathered their gear and got ready to go. Filled with the rush of surviving another harrowing ordeal and standing at the precipice of evolution, they started climbing down the ladder leading to the ground a thousand feet below.
+
+Nick was ready to begin the showdown with the tower’s guardian, with the fate of the Earth hanging in the balance. A fight that they would tackle with new and improved bodies and classes. But not just yet. Before they arrived at that final trial there was one last reward to receive. At long last, it was time for Nick to acquire some major upgrades to his gear.
+
+When they made it down to the ground, there was a simple wooden staircase set along one wall that hadn’t been there before. Nick was relieved that he wouldn’t have to climb all the way back up to the ceiling to activate the portal linked to the stairs.
+
+He stopped to inspect the display mounted beside the base. This time around, the message was simple.
+
+This staircase leads to the rooftop, where a battle with the guardian of the tower will ensue.
+
+Before the conflict begins, you will be granted a three-day rest period to recover and prepare yourselves.
+
+Before they started climbing, Nick followed Pax’s instructions and said, “I want to turn in my voucher for item crafting that I picked up on the second floor.”
+
+Acknowledged.
+
+Your safe room destination has been changed. It will now feature a door that leads to a certified craft world instead of the communal meeting area for your species. Your companion may share the safe room with you, but he will be unable to enter the craft world.
+
+With that, both men began climbing the stairs, ascending them side by side. Before Nick took his tenth step, the world faded away as he was dragged into the space between stars.

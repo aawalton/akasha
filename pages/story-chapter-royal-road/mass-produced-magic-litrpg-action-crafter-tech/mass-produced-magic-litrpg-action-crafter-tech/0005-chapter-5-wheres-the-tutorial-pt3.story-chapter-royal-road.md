@@ -1,0 +1,185 @@
+---
+id: 771c2919-4602-5326-8f1b-c7eecacb121a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 – Where’s the tutorial? – Pt3"
+slug: 0005-chapter-5-wheres-the-tutorial-pt3
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 5
+ownLength: 2986
+unit: words
+publishedAt: 2024-11-16
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908015/chapter-5-wheres-the-tutorial-pt3"
+royalRoadId: "1908015"
+---
+
+Steadying herself, Kindra looked out at the animals. Some went quiet. A flock of birds burst from the forest, and the others continued their squabbles.
+
+That happened, right? She looked at the streets, and the ground quaked again. She turned and searched for the source. Some animals stood there, unmoving statues with fear in their eyes. Most were too busy fighting to care. The ground shook, and a nearby chunk of wall tumbled, crashing onto the ground, the stone rolling across the ground until it hit bodies.
+
+Swallowing, Kindra felt the hair on her neck rise. Her heart thundered, and she tried to calm it. It’ll be alright. She looked around her and looked up. A black and white bird dove toward her, its talons extended.
+
+She jerked the spear up, and the bird slammed into it, impaling itself on the metal. Its wings slammed into her, and she dropped the spear, letting it hit the roof with a thud. Rotten bird.
+
+Crouching down, she pulled the spear free, and the village shook. The clay tiles around her rattled, and one snapped.
+
+Kindra swallowed and listened to her thundering heart. Calm down. If it hears my heartbeat, I —
+
+The ground trembled. A look of panic spread across the nearby cow. It jolted, and the ground erupted. A massive grub the size of a house burst forward, its cottage-sized mouth engulfing the cow and slamming shut.
+
+Kindra stared at the massive insect. Horror filled her. Death? I want a new world. Wriggling its pale flesh, it wormed forward, its body jiggling and then shaking. The grub tensed and launched forward, slamming into a cottage with a loud thud. Two horns burst through its side, and a muted bellow carried from its body.
+
+Seriously? House-sized grubs? She turned and watched some of the rats start attacking their own. The smell of the bird’s blood hit her nose, and her mouth watered. The metallic scent seemed so alluring even while surrounded by the decay. Rotten plague… She grimaced. System, how do I cure a magical plague?
+
+[The system is designed to aid magical growth, not provide general information for your life.]
+
+Well, how do I get a skill to cure magical illness?
+
+[With your current magical capabilities, you don’t.]
+
+Huffing in frustration, she looked at the city. Just survive, level, and get out of here. She scowled at the nearby rats who’d turned on each other. They were ripping each other apart, painting the streets with their blood.
+
+Kindra grabbed a hammer and threw it into them while focusing on the mana in everything. The glowing light of mana surged into view. It was in everything, bathing the place in soft, pulsing light. Runes decorated the scavengers and bodies like some ominous warning. This is way too hard for a starter level. System, wish me luck.
+
+[Error! This command is unavailable. A ticket has been submitted.]
+
+I need to fix that.
+
+[You currently have 29872 tickets in the queue. Would you like to see them?]
+
+Fork, no! Kindra picked up a rock. I can see why Death wanted to foist it on me. Loading it into a sling, she swung it overhead and aimed toward the biggest conflict: the grub. Creatures of all sorts ran in, trying to bite off pieces. The grub tried to burrow, and the cow inside went wild, rolling it over and smashing it into a cottage.
+
+The building groaned and snapped, crashing down on the grub and nearby creatures. Kindra rifled off her shot and missed.
+
+Damn it! Grabbing a hammer, she aimed and launched it, sending it smashing into a group of rats.
+
+Using her excess weapons as ammunition, she launched them into the fray while watching a slow stream of mana flow back to her.
+
+Throwing a final rock for good measure, she grabbed the supplies and dropped from the rooftop, hoping that the grub would provide her with a moderate distraction.
+
+Creeping along the buildings, she tip-toed around puddles and bodies. The sound of fighting creatures filled the air. The sun’s rays added color to the grisly setting, lighting the crimson blood and brown grime that littered the streets.
+
+She crept by them, pausing to grab and stash a few more knives and axes on her way down the lane. Reaching an intersection, she slowed, grabbed a spear, and crept forward.
+
+The sound of wings pulled her focus. They churned the air, drumming a beat before going silent. Kindra jerked up. The vulture dove. Its long razor talons extended, glistening in the early-morning light.
+
+More out of instinct than anything else, Kindra jerked her spear up. The vulture slammed onto it, and she shoved the spear away, slamming the bird into a cottage and scrambling away.
+
+I can get a new spear. She darted away, even as the bloodshot eyes of several creatures turned.
+
+Darting around the corner and grabbing another spear on her way, she dashed down the street and past an intersection littered with torn animal carcasses. A blast of air followed her, nearly knocking her over.
+
+She didn’t slow down or bother to look. Instead, she dashed down the street and peered around the corner.
+
+Chaos greeted her. The grub had rolled around the corner and halfway down the street. Collapsed cottages surrounded it, and it slammed itself into another, hitting it with a loud thump and spurting green fluid all over the street.
+
+I do not understand. Kindra watched it roll backward, causing several rats to pop in an explosion of gore.
+
+Grimacing, she looked at a nearby corpse, her eyes drifting to the weapons next to it. Level three isn’t that far off. Leaning the spear against the wall, she picked up a hammer and launched it at a bird. It looped through the air, missing the bird and smacking the grub in its head. An explosion of green goop spattered across the ground and its attackers.
+
+Grabbing the axe, she flung it into the writhing mass before snatching her spear and sprinting down the lane. Vaulting over a corpse, she landed and paused—just as a rat jerked its head up, chunks of flesh hanging from its bloodstained mouth.
+
+Shit. Her heart pounded as she charged and thrust the spear toward the creature. It darted to the side, and she ran past. Don’t chase me—please don’t chase.
+
+She dashed. The sound of wings reached her ears, and she dove, talons raking her back and slicing into her skin. A flash of pain shot through her, and she hit a cottage’s wall. Pain wracked her shoulder, and she forced herself to spin.
+
+The bird landed, its wings folding as it stabilized. Before it could lunge, she ran forward and slammed her spear into its back. The spear sunk through its flesh. Ripping it out in a spray of delicious-smelling blood, she turned and fled the rat that skittered toward her.
+
+Her heart thundered, and with every step, the pain in her leg and back grew. The oppressive reality of the world wormed through the shock. It crushed in on her hope, the little flame flickering. Just get in the barracks. She swallowed, rounded a corner, and froze.
+
+A massive cow stood in the street, gnawing on a corpse, its hulking frame blocking the way. Breathing heavily, she glanced up at the sky, watching with dread as the light grew stronger. I need shelter. She looked at the nearby cottages. The streets were a mistake. With a quick jump, she grabbed the roof and pulled herself up. The cow turned and charged, its hooves clattering on the stone.
+
+Time seemed to slow, her heart pounding in her ears. Scrambling upward, she clawed at the tile and threw her legs up over the edge, looking back at her attacker. The cow didn’t slow, its red eyes locked on her.
+
+Kindra’s eyes went wide. Oh, shit! It crashed into the house with a bone-shaking impact. The roof dropped from under her, and she fell, tumbling onto the hard stone below.
+
+Ow! With aches and pain spreading everywhere, she forced herself up, the debris all around her. The cow had made it into the cottage before it all came tumbling down. With the debris all around it, it bellowed.
+
+Kindra forced herself off the cold, sticky ground with a groan. Grabbing her spear, she spun and slammed it into the cow. Stupid thing! The cow kicked, tearing the wound open even wider. She yanked the spear free and drove it between its ribs. The cow let out a painful bellow, and she ripped the weapon out again.
+
+Can’t stay. She turned and hobbled down the road, blood running from various scrapes, cuts, and wounds. I need a healer. Rubbing the dirt from her face, she forced herself down the road and peered around the corner—freezing in her tracks. Three vultures were tearing into carcasses, their beaks snapping and hissing at one another. Keeping low, she pulled behind the building and felt something squish beneath her foot.
+
+Looking down, her shoulders slumped. Her leather shoes were drenched in blood. It coated everything, and she reached for her mana. Please tell me I can make the crossbow.
+
+[Your mana has increased: 4.3 → 13.9.]
+
+Not enough. Pausing momentarily, she walked to a corpse and grabbed a waterskin. Unscrewing the lid, she opened it, sniffing a few times. It smells okay, and I’m already infected. She took a drink, added it to her supplies, and leaned the spear against the wall.
+
+Grabbing a hammer from the body, she peered around the corner and threw. It spun through the air and hit the large bird in the chest. The bird tumbled, a wing snapping. The two others pounced and ripped into it.
+
+Grabbing an axe, she sent it flying, clipping one of the birds. The other pounced on it, and the two started fighting. One more. She reached down and grabbed a discarded hammer.
+
+Hefting it, she looked at the remaining bird. It turned toward her, spreading its wings. Chucking the hammer at the bird, she turned and grabbed her spear.
+
+The bird collided with the hammer and tumbled across the road. Kindra ran and stabbed it, sinking the spear into its body and dragging it behind her.
+
+The bird skidded along the stone. The smell of blood wafted by, and Kindra paused. She ripped the spear free and grabbed the corpse while poking her head around the corner.
+
+A large courtyard stretched up to the barracks. Corpses were scattered everywhere, and the scavengers were fighting over them.
+
+Okay. Just run. Run to it and bar the door. Taking a deep breath, Kindra pushed her aching body forward, sprinting toward the open door.
+
+Racing past rats, vultures, and a hog, she dashed inside the building and slammed the door shut, dropping a heavy bar into place and slumping against the door, the exhaustion and frustration slamming into her.
+
+Slumping to the ground, she looked down at her bloody dress. Her leg throbbed, and her back stung. She felt emotion well up in her chest. She was on an alien planet, surrounded by plague-infested creatures and no one else. A pang of loneliness rippled through her, and she buried her head in her hands, the smell of blood and dirt filling her nostrils. Why me? Why here?
+
+No answers came. She swallowed, her mind flickering back to the ships. How many of them survived? The system didn’t answer. Neither did Death.
+
+Pain from her legs pulled her back from the spiral. She looked down at her legs, watching blood trickling down. You can’t sit here, Kindra. You will die.
+
+She shoved the emotion down and blew an errant strand of white hair from her face. White? What the hell, Death? Shaking her head, she forced herself to stand. How long until I can make a crossbow?
+
+[Your mana has increased: 13.9 → 19.8.]
+
+She let out a soft groan and looked around the building. A dozen corpses in varying states of decay were lying there. A wooden staircase sat against the far wall, and a hallway stretched in front of her, a few doors on each side.
+
+Turning, she saw the equivalent of a closet. Empty shelves and hooks lined the walls, and a door sat on the end. Future problem. She walked down the hallway and stopped at the first set of doors. To the right was an office, and to the left was a large room full of tables and chairs.
+
+She poked her head into the dining room. The embers in a nearby hearth glowed faintly, lighting the wooden furniture in a soft, red glow. The tables had a few plates sitting on them, and a small stack of wood was in the corner. A door at the end stood there, half shut. Probably the kitchens.
+
+Stepping inside, she set the bird on the table before turning and walking out of the room. Ignoring the office, she walked past another office and poked her head into the room at the end of the hall. Beds lined the place. Small trunks sat in front of each bed.
+
+Dormitory. She walked inside and grabbed a thin blanket from the bed. The fabric was surprisingly soft, the threads woven with far too much precision. Do they have sewing machines? Or did magic do this? She grabbed a knife and cut off a few strips.
+
+Pulling out the waterskin, she poured it on the cloth and sat on the trunk. Don’t think. Just do it. Reaching down, she forced herself to scrub off the grime covering the wound, sending pain through her leg and making her flinch.
+
+With her foot drumming out pain, she scrubbed off the dirt. Fresh blood oozed from the wound, and she grabbed a strip of cloth. Looping it around her leg, she pulled it tight and tied the cloth into a makeshift bandage.
+
+Pausing, she waited, letting the pain slowly dim. Staring at the stone wall, she knocked dirt and grime from her hair. Did Death dump me on another planet? She looked at the shining bracelet. I don’t understand any of it. Where’s the ship? How’d I get here?
+
+Leaning against the bed, she listened to the squabbling animals and failed to get an answer. A trickle of blood running down her back called her attention back to the other issue. Sighing, she pulled her arms out of the dress and pushed it down.
+
+Reaching behind her, Kindra scrubbed at the dirt and gravel embedded in her skin, wincing as she dabbed at the wound she couldn’t see. Finally, she grabbed a large strip of cloth and wrapped it tightly around her chest.
+
+Why’d you drop me here, Death? She wondered, pulling her torn dress back over her shoulders and looking longingly at a bed.
+
+Don’t do it, Kindra. If we want to live, we have things to do, her inner voice urged. With a long breath, she forced herself up and returned to the dining room. Get food.
+
+She walked to the woodpile, grabbed a piece, and hacked off smaller chunks, tossing them onto the coals and letting them catch fire.
+
+She added other small pieces as the flames flickered to life, stoking the flame higher and higher. As the warmth and light spread through the room, she grabbed logs and added them to the fire. That should do it.
+
+Leaving the fire, she grabbed a cooking pot and walked to the dead bird, her stomach growling at the sight. Fighting the urge to devour it raw, she ripped out the feathers and sliced off chunks of meat, placing them in the pot.
+
+Carrying the pot back to the fire, she hung the pot on a hook mounted on the stone wall. Stepping back, she absently ran her fingers through her blood-matted hair. Was I dead then? The thought gnawed at her. He was cagey about that, and it’s the only thing that makes sense. Zombie Kindra.
+
+The distant sound of squabbling animals snapped her out of her thoughts. She left the fire and poked her head into the adjoining kitchen. A large hearth dominated the space, surrounded by several pots, some scattered food on the shelves, and an open door leading to the cellar.
+
+At least I won’t starve. She listened to the animals and shook her head. The entire planet is going to die if this spreads.
+
+Turning back, she walked back to the front of the barracks and looked at the dead dwarves, focusing on the faint runes that covered the bodies. Can I break them? I did it before.
+
+She approached one of the corpses and started with the first rune, recalling the best counter. Then she worked down the line, mapping out the runes she’d need to break them.
+
+She memorized them as best as she could. “System, how do I do this? Is there a spell or something?”
+
+[Given your current abilities, you may conjure the runes in your mind and touch the infected. Your blood will do the rest. You may also will your mana forward while picturing the runes in your mind. This is considered free casting.]
+
+So I can get rid of it. She took a moment to review the runes, and the smell of burning meat reached her nose. Oh, shirt. Forgot.
+
+Bolting back to the dining room, she grabbed the pot and placed it on the floor. Now, does it have it too?
+
+She studied her meal and saw the same runes. Reaching down, she touched the meat and pictured the rune sequence. The runes all snuffed out.
+
+[Your actions have caused your magic to grow. ‎ Your mana has increased: 19.8 → 24.8.]
+
+A massive smile spread across her face. She placed the pot on the fire before turning to the bird’s corpse. It’s time to farm some mana. With an eager look, she dashed to it.

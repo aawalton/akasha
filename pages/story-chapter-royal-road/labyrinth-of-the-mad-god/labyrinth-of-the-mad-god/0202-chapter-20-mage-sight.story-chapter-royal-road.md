@@ -1,0 +1,107 @@
+---
+id: 53619481-1c69-577d-8126-cdc17d771d09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Mage Sight"
+slug: 0202-chapter-20-mage-sight
+partOf: labyrinth-of-the-mad-god
+position: 202
+ownLength: 1869
+unit: words
+publishedAt: 2025-07-30
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2479261/chapter-20-mage-sight"
+royalRoadId: "2479261"
+---
+
+Nick and Elizabeth pushed themselves hard from that point on, crossing the biome at a rapid rate.
+
+She didn’t have nearly as much Toughness, but she was still superhuman by the standards of Old Earth—able to maintain a brisk pace for hours on end. Even when the terrain was rough and sweat was pouring down her body, Liz never complained. She only took a few breaks throughout the day and did everything she could not to slow him down.
+
+As they journeyed, the river was their constant companion—a shimmering azure highway lined with greenery winding its way along the dusty red plains.
+
+They crossed through a wide variety of sub-biomes along the way, each of which featured magical phenomena whose beauty filled him with wonder. Nick saw groves filled with crystal trees that hummed when the wind blew through their branches. Flowers that floated up from their roots like helium balloons, releasing clouds of bioluminescent pollen when they bumped against each other.
+
+Their biggest surprise came during a night when the moons were absent and the sky was clear. It turned out that that the badlands had a magical version of the northern lights, caused by immense flows of mana riding the upper atmosphere refracting the sunlight passing through. They watched with awe as brilliant bands of color lit up the night sky—magic on a scale that took his breath away.
+
+Over the days that followed, Nick did everything he could think of to develop his energetic senses, taking a long break whenever they came across anything that featured unusually powerful emanations. By now, he was able to shift his perception to what he had decided to call “mage sight” after a few seconds of concentration—a meditative state where he could see the tapestry of mana clearly.
+
+Even when he wasn’t using mage sight, he could detect concentrated mana whenever he drew near its source—subtle manifestations that were filtered through one of his other senses. Lightning mana made his forearms tingle when he walked past, and earth mana tasted slightly sweet. He assumed that his brain was learning to interpret these-brand new feelings by using metaphors he already understood.
+
+Liz couldn’t see the tapestry of mana at all. However, she could hear it like a melody playing in the background in places where the flows were strong. It turned out that she was better than Nick at controlling her stamina and they both shared everything they’d learned so far.
+
+His other pursuits in the magical arts left something to be desired. He had barely progressed in learning how to manipulate the mana in his environment. He’d had better luck with drawing ambient energy into his core, but the amount was minuscule compared to his passive generation.
+
+While his failures were frustrating, Nick wasn’t too discouraged. Right now, he was most interested in learning how to draw mana from his energetic core and manifest it outside his body. He had come to believe it was a critical step in understanding his abilities and altering their behavior.
+
+His efforts were aggravating and tantalizing in equal measures. For days now, it had felt like he was close, but no matter how hard he tried, he could barely extend his mana beyond the surface of his skin.
+
+That all changed when the bladewind forced them to seek shelter within a cavern set into the base of a giant boulder. While Liz got a fire going and made dinner, he sat down and began his nightly training, reflecting on everything he had learned so far, and everything he had observed since developing his mage sight.
+
+The breakthrough came when Nick realized that he’d already found a way to move the energy in his core beyond the boundary of his body without casting a spell. He had been doing it every time he infused Blightbane with pure mana.
+
+The reason why he hadn’t grasped it sooner was that he didn’t actually push the energy outside his body like he’d been trying until now. Instead, when the sword’s hilt touched the magical circuitry embedded in his palms, it conducted like a wire to create a field. Maybe I can do the same thing without Blightbane in my hands.
+
+Instead of trying to shove mana through his fingertips and into the world beyond, Nick sat down with his palms a fraction of an inch apart. He drew some energy out of his core, then willed the pure mana to move toward one hand, just like when he was holding the sword.
+
+When the magic gathered in his fingertips, he pulled with his other hand—like when he was trying to absorb mana from the environment. To his delight, it worked.
+
+Nick felt a strange sucking sensation, then the silvery magic emerged from his fingers, jumped the gap, and entered his other hand, creating a looping circuit that fed back into his core. He pushed with one hand and pulled with the other, strengthening the flow until he could sustain it.
+
+While the action taking place in his hands was incredible enough, what really blew him away was what was happening in the middle. A bar of pure silver mana was flowing through the space between his palms, like Nick had reached out and captured the moon. Liz walked over when she heard him laughing. She smiled upon witnessing his success, then sat down to watch while doing her best not to break his concentration.
+
+Now that he could conduct mana beyond the boundary of his body, his next goal was to learn how to shape it, then stabilize his construction once he cut the link to his core.
+
+Nick figured the best way to deepen his understanding of his spells was to try to replicate their effects from scratch. Once he learned how they functioned on a fundamental level, he hoped to clear their requirements for advancement while experimenting with how to modify their effects at the same time.
+
+He began with his very first spell, Mana Dart. It took him two days to get the bar of pure mana running between his palms to assume physical form and remain stable after he broke the connection.
+
+When he finally got it to work, it was a tiny silver shard that only existed for a fraction of a second before its matrix collapsed. While the result wasn’t too impressive to watch, he knew he had just taken a giant step forward—a major milestone on his road to understanding magic on a deeper level.
+
+Nick’s first self-cast spell was laughable compared to the lethal geometry of his Mana Darts, but it was enough to meet the requirement to advance the ability.
+
+Your understanding of [Mana Dart] is now sufficient to advance the ability to Rank 4.
+
+Would you like to advance [Mana Dart] to Rank 4 now?
+
+“Hell yes fuck yes I would.” When he confirmed the prompt, a lengthier message appeared.
+
+At Rank 4, you may modify the core effect of the ability.
+
+These choices represent diverging paths that will influence the power’s ultimate form.
+
+You can alter the Mana Dart in one of the following ways:
+
+1) Mask the spell’s mana signature and remove its light, making it harder to detect through both mundane and magical means.
+
+2) Instead of draining a portion of your target’s vital energy, you will destabilize it instead, creating interference within their energetic networks.
+
+3) Turn the darts into mana traps, significantly increasing their output but losing the ability to fire them at range.
+
+Nick thought about the matter long and hard, pondering how each choice would help him now and the direction it would guide the spell’s development over time. He had to consider what role he wanted Mana Dart to play as he progressed down further his path to power, as well as his other abilities, shaping them to form a synergistic whole that was more than the sum of its parts.
+
+While the darts were an effective means of dispelling magic, Blightbane infused with pure mana was significantly better at the task. While it was great that his darts drained stamina and health too, diminishing his opponent’s vital energy only helped near the end of the fight and didn’t do much early on. On top of that, the Tier-2 enemies he’d faced had seemingly endless pools of vital energy—to the extent that that siphoning them off no longer felt like an effective strategy under ordinary circumstances.
+
+Taking all of that into consideration, the stealth option would only help when he was facing weak or unusually agile enemies, and he wanted his darts to be useful when fighting something strong.
+
+The trap option sounded powerful in principle. But it would work much better when defending an established position than exploring a hostile environment, which wouldn’t help him once he entered the Labyrinth. More importantly, magic traps didn’t really fit in with the concept he was developing.
+
+Now that he had seen what Rank-4 upgrades could do, Nick was glad that he hadn’t chosen the pain upgrade at Rank 2. If he had, the spell would have been guided along a path that didn’t resonate with him.
+
+The more he thought about it, the better the feedback upgrade sounded—something that would be far more effective than simply draining his opponents’ vital energy. He wasn’t sure what the effects of disrupting the stability of the mana, health, and stamina flowing inside the body were, but he had a hunch they would be both distracting and distinctly unpleasant. Turning my enemy’s own power against them is more my style and sounds like it will be useful when facing elites.
+
+Confident he’d made the right choice, Nick pulled up his menus, made his selection, then sat down and made himself comfortable as the visions overcame him. He was treated to a close up of his own brain, watching as the System upgraded the magical circuitry running through his synapses. He did his best to memorize everything he saw, since it might prove useful once had reached an advanced level of magical proficiency.
+
+When the show was over, he rose to his feet—thrilled to have deepened his understanding of Mana Dart. He had a hunch that this initial breakthrough would be the hardest, and he could advance his other abilities faster going forward. Next on the list was Piercing Ray, although he’d had some insights regarding Force Acceleration that he wanted to explore too.
+
+As he had been hoping, developing his mage sight and mana manipulation were the missing ingredients in learning how to condition his Magic attribute. Additionally, all the visualization and mental modeling had helped to train his Creativity and Mind.
+
+You have deepened your connection to the mana within your body and improved the following baseline attribute:
+
+Magic has increased from [9] to [11].
+
+By practicing your powers of visualization and holding complex concepts in your mind have improved the following baseline attributes:
+
+Creativity has increased from [12] to [14].
+
+Mind has increased from [12] to [13].
+
+He sat there for a long while, savoring the satisfaction of the moment. It was only the first step on a long and winding road, but Nick’s journey to mastering the magical arts had officially begun.

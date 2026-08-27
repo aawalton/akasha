@@ -1,0 +1,117 @@
+---
+id: 4e9c52ac-4bbc-5e92-8e14-3207278d29d7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64: Shrine of the Faceless Gods"
+slug: 0246-chapter-64-shrine-of-the-faceless-gods
+partOf: labyrinth-of-the-mad-god
+position: 246
+ownLength: 2047
+unit: words
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2749562/chapter-64-shrine-of-the-faceless-gods"
+royalRoadId: "2749562"
+---
+
+It was raining when Nick woke up—a hearty downpour that died down a few hours after dawn.
+
+The badland’s heat returned in full force once the clouds blew past, leaving pools of steam scattered across the muddy soil. The ground would dry out before long, but the muck made him glad they had placed so many roads, which made it easy to get around town without tracking mud everywhere.
+
+He ate a late breakfast in the mess hall and then chatted with his people while working out, which was where Liz found him. She let him know the committee was coordinating with the building crew to review their plans for the next few weeks.
+
+“We don’t need you to place anything today, Nick so you’re off the hook. I do, however, have another matter I could use your help with, which I think you will enjoy.”
+
+By the time she finished explaining, he was nodding along. “That sounds perfect. Let me know when everyone is ready to head out.” She drew him in for a quick hug and then left him to his training.
+
+Nick was taking his Sword test tomorrow and planned to stay close to town for the next few days anyway, but he wanted to do everything in his power to help the settlement grow as quickly as possible. Luckily, there was a section of Aurora’s backyard that still needed to be explored, since Kenji had deemed it too dangerous for anyone to tackle without a full party of Earth’s elites—the island in the middle of the lake.
+
+People hadn’t gone into the water after Nick spotted a gigantic creature dwelling below the surface, although no one had seen it since. Thus, his team’s mission was twofold. They would head to the island to discover what secrets it held and try to learn more about Aurora’s aquatic neighbor along the way.
+
+He passed the time sparring with anyone who had a few minutes to spare. Eventually, a messenger stopped by to let him know his party was ready and waiting by the lakeshore. He made his way over to the water, where Devin, Veronica, Shaun, and Mirium were standing beside a raft the crafters had put the finishing touches on the day before.
+
+“Nick.” Devin bumped fists and then slapped him on the back. “How is the day treating you so far?”
+
+“Not bad. I’m looking forward to exploring that island. My old gaming instincts are tingling and I have a hunch we’ll find something good.”
+
+“It’s nice to have most of our original party together again,” V added. “Although I miss Sophia. I hope she is doing all right.”
+
+“Me too.” Nick sighed. “I can see her name on my list of citizens, so I know she’s still alive, which helps me sleep a bit easier.”
+
+Shaun noticed the melancholy expression on his face and tactfully guided the conversation to another topic. “You’re the closest thing we have to a water expert, Mirium. What do you think is living in the lake?”
+
+The mage shrugged while running her fingers through her curls—prolific piercings glimmering in the sunlight. The elemental hovering beside her mirrored the gesture, surreptitiously giving Nick the finger before retracting its temporary limbs into its amorphous mass.
+
+“I’ve had Flo inspect the lake several times, but it’s so wide and the bottom is so deep there could be anything down there. I didn’t find any signs of a colossal predator though. I’m tentatively optimistic that whatever Nick saw isn’t aggressive and won’t try to snack on us today. This guy isn’t much a conversationalist.” She pointed to the strange creature floating near her shoulder. “It’s hard to get details beyond ‘nothing dangerous’ out of his scouting runs.”
+
+Nick followed her finger and examined the bound elemental that followed Mirium everywhere. As far as he knew, most elementals were temporary manifestations of a planet’s mana. While they occasionally stepped in to protect a given ecosystem, they weren’t intelligent and lacked any sense of identity.
+
+It was clear that the being the water mage called Flo was something else entirely, but if she didn’t want to divulge the details, that was her business. She had earned his trust a dozen times over, and everyone was entitled to their secrets.
+
+Nick had no idea why the elemental didn’t like him, and it had singled him out all the way back at the base of Darkstone Tower. But receiving an occasional rude gesture or dodging a random spray of water was more humorous than problematic, so he supposed the reason didn’t really matter.
+
+Regardless of the details, he was glad to have her along. With her elemental watching from below, nothing could ambush them while crossing the lake. Nick had been hoping to get to know Mirium and Laura better and was glad this opportunity had presented itself. It would improve their teamwork the next time they found themselves standing on the same battlefield, and he hoped to pick up some pointers from the elite mage.
+
+The party bantered for a few more minutes then got ready to head out. Flo dove into the lake, and when the elemental emerged, Mirium let them know nothing dangerous was waiting below the surface. With that, all that was left was to board the raft and make their way over to the island.
+
+The raft was a beautiful piece of work—a far cry from the slapdash piece of shit he and Sophia had built while crossing Blackmist Bog. It featured an adjustable sail, a retractable anchor, and four long paddles with oarlocks to make the rowing easier.
+
+The five them of them walked down to the water’s edge, hopped aboard, and used the poles to push themselves out of the shallows. While everyone else started rowing, Mirium adjusted the sail, occasionally checking in with her elemental. Flo was invisible while submerged, although Nick could sense the dense weaves of mana emanating from the construct with his mage sight.
+
+The lake was beautiful when viewed from the open water. He smiled as he took in the pristine azure depths, the verdant growth along the shore, and the profile of the city contrasted against the horizon. Only Shaun appeared visibly nervous, although the young man had matured considerably over the last few weeks and didn’t voice a complaint.
+
+Nick shared some of the archer’s apprehension—worried that a massive creature would attack while his ability to strike back was curtailed. Mana Dart and Piercing Ray both worked underwater, but their range was significantly reduced. While Force Acceleration would help him swim faster, none of his skills, spells, or combat arts were well-suited to fighting in that element. At least my Survivor trait will help me drown a little slower if I do find myself down there.
+
+After a quarter mile or so, the lake bottom fell away, revealing an endless expanse of blue. “How deep do you think that is?” he asked Mirium.
+
+“My elemental can only range a few thousand feet from me,” she replied and then shrugged. “The floor is at least twice that deep.” It was a mind-boggling volume of liquid. We won’t ever have to worry about running out of fresh water.
+
+When Devin asked how the isle fit into the equation, the mage explained that the island was formed from a spire of stone that rose from the depths like a tower leading into the bowels of the planet.
+
+Veronica knew enough about geography to be certain the crater had been created by a meteor strike. “Since it wasn’t part of Old Earth, I assume this region is part of the dimension the System merged with our world while we were busy surviving our tutorials.”
+
+“I hope we learn more about that subject soon,” Mirium said. “While we’ve spotted some species that must have come from another world, we still know next to nothing about the matter, including the green moon and the phenomenon the System called the Shroud.”
+
+They continued the conversation while gazing into the depths, pondering the mystery of it all. Despite the tension filling the air, Nick’s party didn’t spot anything more menacing than a few big fish and reached the island’s shore safe and sound.
+
+They maneuvered the raft into the shallows, dropped the anchor, and then lowered the sail to keep the vessel from drifting off while they were gone. After surveying the shoreline to make sure nothing hostile was hiding nearby, the party was ready to move on. The island wasn’t too big, but it would take a few hours to explore thanks to its unusual topography.
+
+While there was some mud along the shore, the floor of the isle was formed from dark stone. It was covered in gigantic boulders and moss in a hundred shades of green, creating a colorful maze of twisting passageways that occasionally opened into larger spaces. They decided to split up to cover more ground and would regroup in the middle of island. While he couldn’t sense any danger thus far, if anyone ran into trouble, help would only be a few seconds away.
+
+Nick paired up with Veronica, giving each group a decent balance of melee and ranged attacks. Together, they made their way through the warren of stones, scanning for threats, valuable resources, and anything else that caught their eye. So far, they hadn’t seen anything but moss, birds, and insects, and Size Up hadn’t revealed anything unusual about the terrain.
+
+The pair made their way toward the center of the isle in a companionable silence. After cleaning a final row of boulders, they found themselves standing in front of what appeared to be some manner of shrine.
+
+The ground was covered in shallow pools with walkways running between them, leading to a white-stone structure in the middle. It had an open front, a peaked roof, and a row of benches running along the walls. A pillar of flame rose from a terraced ring, from which Nick could sense dense flows of fire-aspected mana.
+
+Six marble statues lined the interior of the shine. Their faces had been removed by crude tools, forming featureless masks of raw stone. “Spooky,” Veronica said as they took a closer look. “I wonder what their story is.”
+
+Shaun, Devin, and Mirium arrived a few minutes later. They had found some mana-infused moss that might have alchemical properties but hadn’t crossed paths with anything dangerous either. Before they approached the statues, Mirium had her elemental inspect the pools to make sure there weren’t any surprises and the area was free from traps.
+
+After receiving the all-clear, the party stepped into the shrine to inspect the faceless figures. When Nick took a seat on one of the benches, a message from the System appeared.
+
+System Message: Regional Point of Interest
+
+You have discovered a regional resource. It is currently unclaimed and within your settlement’s domain.
+
+Shrine of the Faceless Gods
+
+This lake contains high concentrations of water and earth mana. The shrine acts as a conduit for both types of elemental energy, along with fire mana rising from below. It may have other uses as well.
+
+Cost to claim: 850 CP.
+
+City bonuses once claimed: +2 Water mana generation. +1 Earth mana generation. +1 Fire mana generation.
+
+Status: Unclaimed.
+
+Only a city lord may claim this resource (if it is within their domain and they spend the requisite CP). You may use this facility freely while it remains unclaimed.
+
+While the description had revealed some tantalizing details, the shrine held many mysteries.
+
+I wonder who built it, which gods they revered, and what hidden benefits this site has to offer. He hoped to unravel these mysteries one day, but none of that changed what he needed to do next.
+
+Heart racing with the thrill of acquisition, he opened his city menu and claimed the shrine. The committee had already agreed to pick up every mana-generating resource Aurora could get its hands on. Everyone was eager to redeem his Rare building vouchers, and he was certain linking their mana to the city would provide additional benefits too.
+
+Nick could hear his people cheering from clear across the lake when an update from the System appeared.
+
+The leader of Aurora has claimed the regional resource:
+
+Shrine of the Faceless Gods

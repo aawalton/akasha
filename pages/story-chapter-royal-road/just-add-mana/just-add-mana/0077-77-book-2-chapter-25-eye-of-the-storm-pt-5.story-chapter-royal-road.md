@@ -1,0 +1,189 @@
+---
+id: 783675b4-3325-5eec-87c3-dcf0aa5cfe38
+page-type-slug: story-chapter-royal-road
+title: "77 — Book 2, Chapter 25 — Eye of the Storm, Pt 5"
+slug: 0077-77-book-2-chapter-25-eye-of-the-storm-pt-5
+partOf: just-add-mana
+position: 77
+ownLength: 3024
+unit: words
+ownProgress: 3024
+publishedAt: 2025-12-23
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2873434/77-book-2-chapter-25-eye-of-the-storm-pt-5"
+royalRoadId: "2873434"
+markedReadAt: "2026-06-29T18:50:16.696Z"
+---
+
+It took almost an hour for them to figure out all the intricacies of the new plan, but it was a good hour. Cale had forgotten what it felt like to blaze with this kind of energy, to work for possibility instead of destruction. Most of the time, when he had to get involved, it was a destructive sort of thing. He would slay a dark lord, destroy a cage, blow up a ritual meant to sacrifice hundreds of innocents. His expertise was rarely required for an act of healing, and the victims of these sorts of spells could never really be saved.
+
+Or, at least, they couldn't be when he worked alone. When he had friends and allies, things could be different, but he had allowed himself to forget because of how painful it could be to lose them again and again.
+
+No more. Not this time, anyway, and not as long as he was on Utelia. He wasn't going to forget Damien's words.
+
+We don't have to do this.
+
+Every one of his apprentices had taken to their new tasks with a fevered sort of determination, practicing to make sure they would be able to get it right when it counted. All except Damien, whose role was both most important and one that couldn't be practiced. He busied himself helping the others and coordinating with Kazza instead.
+
+Damien still hadn't stopped shaking, Cale noticed. The dreadshade was doing his best to hide it, but he was terrified of failure. He could tell himself that it was trying that was important as many times as he wanted, but his heart hadn't completely bought into it yet.
+
+That was fine. It wasn't the sort of lesson Damien could learn in a single conversation, but Cale would be damned if he let it die because his very first try failed.
+
+"Just remember," he told Damien. "Souls are part of a sort of cycle, too. They decay and then they return to the Great Realms. I'm living proof of it. Sort of."
+
+"I'm... not sure you're a great example," Damien said, but he smiled weakly. Cale laughed.
+
+"Yeah, I realized it as soon as I said it. It's true, though. I can't tell you exactly what happens to a soul after its host body dies, but believe me, decay is relevant to it. The Verdant Flame will do what we need."
+
+Damien didn't quite meet his eyes. "I hope so," he said quietly. "I think that's the important part. The hoping."
+
+"It is." Cale nudged his apprentice. "Thank you for reminding me."
+
+Damien didn't reply to that, but the shaking lessened, at least a little. Then he took a deep breath and dove right back in, joining Flia and Syphus as the former attempted to understand exactly how to imbue her Spark into her friends' magic.
+
+Leo, in the meantime, was busy studying the diagrams Cale had drawn out on the wall. His new labyrinth spell would be needed to guide the fortress in the right directions; they had decided they would be using it to carve the new ritual into the sand, writing right over the old one. The fortress moved fast enough that it was possible.
+
+The only problem was that they needed to figure out an optimal path. They were still, after all, using a storm to draw a spell into the sand; there had to be room for error, and crossing over the same lines risked widening them or deepening them too much, messing up the array. It was especially important to be delicate around the more intricate intersections of the array.
+
+As a result, the minotaur had his notebook out and was scribbling in it, muttering to himself and glaring intently between the diagrams and his notebook. Cale left him alone, but made a mental note to reward Leo with points later. Or at least to mention that he'd earned them.
+
+He still wasn't actually keeping track of any points, though.
+
+Kazza's job was arguably one of the most important. He stood by the window, using breath magic to speak with his clan and convince them to stay out of the way of the storm. Judging by the look of exasperation on his face, he wasn't having a great time of it. Cale raised an eyebrow as he approached him.
+
+Kazza sighed. "It was difficult to convince them to withdraw all hunting parties for a plan they see as a shot in the dark, but they are willing," he said without preamble. "The appearance of your fortress did a lot to convince them. Many believe it is a sign."
+
+"That seems like good news," Cale noted. "Why do you look frustrated?"
+
+"My clan is concerned that I have discarded my duty as emissary to play hero," Kazza said dryly. "A concern that might have substance, if not for the strength I have seen you wield."
+
+Cale snorted. "I'm sure they'll be a lot less concerned once the Cascade is gone."
+
+"Indeed." Kazza glanced back out of the window toward the magical storm still raging in the distance. "It is a strange position I find myself in, to pity the storm that slaughtered my people. I feel shame for believing that cursed tale of wild mages and weather magic, disgust that I failed to notice such a plaintive cry for help, and yet... the anger beneath remains at the lives this storm has taken."
+
+"Better to direct that anger to the people that actually did this."
+
+"As you say." Kazza nodded. "Though it is difficult to overturn that feeling immediately when the storm still rages. I suspect I will feel differently if your spell succeeds."
+
+"I guess we better succeed, then, huh?" Cale smiled faintly.
+
+"You seem confident, for one who was certain destruction was the only option moments ago."
+
+"When you've lived as long as I have, it's easy to forget some things. Even when they're important." Cale shrugged. "I try to keep some habits that help me remember, but there's a lot that slips through the cracks."
+
+"You are far older than you appear," Kazza said. "I had wondered. Humans do not live that long, do they?"
+
+Cale had no idea how to answer that question. Technically, his natural lifespan was... what, eighty or so years? But it varied from realm to realm, and he often died early for a multitude of reasons besides. Then there were the times his lifespan was stretched out through the magic of friends and foe alike, resulting in lifetimes spent in a single realm.
+
+Was he a good example of humanity? He had no idea anymore. It wasn't like there was anyone else to compare with. Cale often assumed that these default assumptions that others held about humans were true, but if they were, then they seemed plucked out of a specific point in time in human history. Many seemed to look down on them by default.
+
+He wondered briefly if that was intentional. It felt sometimes like when others looked at him, they were forced to see someone who was "average" in every way. A "typical human", whatever that meant. That illusion quickly faded whenever he proved himself, but it was always as the exception, not the rule.
+
+Maybe that meant something. Surely humanity had reached greater heights before it vanished. Surely there were notable archmages and divines amongst them. The most damning proof of this were the mythologies, named and otherwise, the absolute majority of which were built specifically out of human legend. Did that not say something about the heights his people had reached?
+
+"Cale?" Kazza eyed him curiously, and Cale shook off his reverie.
+
+"Oh, I have no idea. Probably not that long," he said cheerfully. "Eighty years, give or take? I'm older than that, but you probably figured that out already. You see, every time I die, I get born again in a different realm."
+
+Kazza snorted. "Ah, of course. A wanderer who has roamed the Great Realms, just like the legends."
+
+Cale blinked. "You have legends about this?" he asked, a sudden hope springing up in him.
+
+Kazza paused, startled. "...You were serious?"
+
+"Yes."
+
+"I... what?" Kazza stared at him, the lizardfolk's mouth slowly falling open. "I do not... but..."
+
+"What were the legends?" Cale prompted.
+
+"I... buh..." Kazza said intelligently. "The... the elders. The elders would know the legends in detail. They are ancient. I do not, uh, um..."
+
+"You know what, I'm going to give you time to process this." Cale patted Kazza on the shoulder, watching as the poor lizard made a strangled, vaguely appreciative noise.
+
+He had no idea why the poor guy was only getting starstruck now. It wasn't like he hadn't already performed two impossible feats in front of him, and while he'd been surprised the other two times, he hadn't done this. Why was this what tipped it over the edge? Those legends must have been something.
+
+"I'm going to go make sure everyone's ready for the ritual," Cale said, noticing everyone else appeared to be mostly ready. "Thanks for all your help! We'll reconvene on that legend thing once we're done."
+
+Kazza made another strangled noise that could probably be construed as a squeak, and Cale decided to take this as a sign of enthusiastic agreement.
+
+Leo was up first. The minotaur grunted, eyes blazing, as he recast the spell that Akkau had taught him. Apparently he'd figured out a path that accounted not only for the new array they needed to draw but also the path of the Aspect Cascade itself; the end point of their path would now put them directly in front of the magical storm, positioned perfectly for them to execute the next steps of the ritual. He was panting by the time it was done—apparently the spell took no small amount of mana when it involved tiny, intricate movements.
+
+Well, tiny compared to the route they had taken to the Golden Sands, anyway. They were still massive curves in the sand several times larger than the fortress itself.
+
+After that, it was Cale's turn. He set the fortress carefully down in the sand at their intended ritual center, then stepped outside, placing a single foot down in the starting line of the array.
+
+Then he flooded it with thrumming, prismatic power.
+
+It took time for that power to travel to the edges of the desert. That was one thing about massive spells like this—mana didn't travel instantly, especially not mana gathered in such dense quantities. It moved faster than it would if it had been pure liquid, but most of the circle was out of range of his mana manipulation, so his power had to follow the curves of the array naturally.
+
+Leo had accounted for this too. They were far enough away that the Cascade wouldn't reach them until the ritual was complete. Cale was impressed. He definitely needed to remember to give the minotaur some points.
+
+Fortunately, they didn't need a signal to make sure the first part of the ritual had succeeded. They could feel it the moment the spell began in earnest. Every drop of ambient mana in the desert tainted with a fraction of the sacrificed mage's soul began flowing to the five distinct points where the flickerant nests were hidden.
+
+Cale absolutely did not sigh with relief when the mostly-theoretical part of the spell worked, and he ignored it when Flia narrowed her eyes at him in sudden suspicion. He had good reasons to think it would work! This part of the ritual amplified what the flickerants were already naturally doing, accelerating the gathering process and imbuing it with a bit of an extra push.
+
+The circle flashed a steep gold when the gathering part of the ritual was complete, just a little bit brighter than the natural luster of the Golden Sands. Cale nodded in satisfaction, then shifted his feet to connect to the next set of ritual lines, pouring his power into the secondary array underneath it.
+
+The nature of the ritual shifted in a way that could be felt palpably in the air. Gathering turned into release, and mana—fragmented, boiling, desperate—rushed into the open desert.
+
+Every last fragment of the Aspect Cascade roared to life in the Golden Sands, and found themselves drawn inexorably toward the major storm just in front of them. Five fragment-storms intended as weapons, one noticeably smaller than the others given they had only just teleported one of the queens free.
+
+Speaking of which... Cale flicked out the barrier marble containing the part of the Cascade he'd contained, allowing it to join the rest.
+
+Flia stared at the building storm and trying to hide her nerves. "I know you told us already, but are you sure this will work even with all the queens that were already harvested?"
+
+"The point of the queens is to keep the soul fragments apart as much as it is to gather them," Cale said. "To maintain the storm, I mean. Part of it is caused by magical tension between resonant pieces of magic—"
+
+"Cale."
+
+"Souls can partially regenerate as long as most of the pieces are there, which is what the sacrificial spell is counting on in the first place. It works because there's enough of the soul left to fully regenerate. It'll be fine."
+
+Flia nodded. "Then shouldn't the storm be settling now that it's all gathered?"
+
+Cale glanced at the darkening clouds ahead of them.
+
+Honestly, calling the Aspect Cascade a magical storm was a bit of a disservice. A storm brought to mind clouds and rain and lightning, and while the Aspect Cascade certainly was those things, it was a lot of other things besides. The sheer density of energy within it sucked out all traces of light that dared to enter it, and the only reason you could tell it was a storm was because of the sound.
+
+Crackling lightning, for the most part, but also an ominous rumbling. The wind howled so fiercely Cale imagined it to be a representation of the mage at the center of all this, screaming their pain into the nothingness. Every so often, the sound of rushing water, an avalanche of earth, a roaring fire.
+
+Sometimes, flashes of light would escape as a wave of the Cascade transformed one mana type into another, and they would get a brief glimpse to the absolute hell within. It looked like an elemental disaster, for lack of a better term. A tide of water raging against an avalanche of sand in the middle of the sky. Abominations of flesh grew from raw, broken life magic, only to be torn apart by the claws of a dozen offensive aspects.
+
+Cale could see why even being near this thing had killed so many mages. To survive inside of it would have been impossible for just about anyone. Cale had met many a talented mage, and the ones that could probably survive something like this he could count on one hand.
+
+Well, unless you counted running away. He did know a lot of mages who were very, very good at running away.
+
+The thing was, Flia was right. With all the pieces of the mage's soul returned and gathering in one place, the storm should have begun to calm.
+
+Instead, it looked like it was intensifying. Another flash in the storm gave Cale the distinct impression of an entire ocean's worth of water crashing into a still-growing mountain, and for a brief moment, something with far too many eyes seemed to glare down at them through the storm.
+
+"Well," Cale said. "We knew this was a possibility."
+
+"You said this was unlikely," Flia said. "One in a million odds."
+
+"I mean, yeah, but how many one in a million things have we had happen to us since I came here?" Cale grinned. "It'll be fine. We planned for this!"
+
+"Cale, the plan was to walk directly into the storm, and you assured us we probably wouldn't have to."
+
+"Probably," Cale emphasized, but he let his expression settle into something a little more serious. "Look, if you don't want to do this, we can still back out."
+
+Flia scoffed. "Put your barrier up already. You think any of us are backing out now?"
+
+Cale grinned a little, but the grin faded as he turned to the lizardfolk standing with them and staring stiffly at the storm. "Kazza? You're going to have to come with us. Wouldn't want to leave you exposed to the storm."
+
+"I am aware," Kazza grumbled. He was hiding his own shaking well, but this was difficult for him; he'd been forced to watch this storm tear his own people apart once already. "I just... give me a moment."
+
+His breathing was quickening, though he was doing his best to control it. Cale opened his mouth to say something, but before he could, Damien stepped over to Kazza and reached out to offer his hand.
+
+"I don't know if this will help," Damien said quietly. "But, um, I used to panic like this. A lot. And my... there was someone who would hold my hand, and tell me to squeeze if it was getting bad, and focus on the touch. You don't have to or anything! But if you want, I'm here. Only if you want, though."
+
+Kazza stared at him. "I am not a hatchling," he muttered, but he took the hand anyway, and after a moment, squeezed it tight.
+
+Cale said nothing. In fact, he made sure not to look at them at all, and he made his barrier large enough to give Kazza the space he needed. "Alright. If everyone's ready, let's go."
+
+With Cale's barrier protecting them, they made their way toward the approaching storm. This close, it looked almost like they were staring into another realm.
+
+Flia fell into step beside him. "He's a natural, isn't he?" she muttered.
+
+Cale smiled slightly. "Born to be a healer, I think. Just needs to figure a few things out for himself."
+
+Not long after that, they stepped into the Aspect Cascade, and the world around them changed.

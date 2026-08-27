@@ -1,0 +1,175 @@
+---
+id: 3ca8bece-70ef-5141-936d-290d13d6c546
+page-type-slug: story-chapter-royal-road
+title: "86 — Book 2, Chapter 34 — Return to Form"
+slug: 0086-86-book-2-chapter-34-return-to-form
+partOf: just-add-mana
+position: 86
+ownLength: 3015
+unit: words
+ownProgress: 3015
+publishedAt: 2026-01-13
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2938981/86-book-2-chapter-34-return-to-form"
+royalRoadId: "2938981"
+markedReadAt: "2026-06-29T18:50:35.002Z"
+---
+
+Angus had spent most of his life dreaming about meeting the Wanderer, but in none of those dreams had he ever considered that he might already be dead when they finally met. Or that the Wanderer might be human instead of a lizardfolk, though that was something of a lesser concern. He'd always thought that something about the legends were strange, anyway. What sort of legend about a lizardfolk hero didn't include any mention of them using their tail?
+
+"You're oddly put-together," Flia observed, her tone gentle. Angus gave her a polite but distracted nod.
+
+"Yes, well, I don't remember much about the last two years, and I suspect I don't want to," he said, allowing himself a lighthearted laugh, though he could tell that no one around him quite believed it. He stared at his fingers—gauntlets, really, now that he was in the Icon of Battle's body, but it was so strange to have five of them—and flexed them a few times, still trying to get used to his new form.
+
+Their new form, he supposed. He was technically sharing this body with Icon, now, but the Monolith's presence was retracted at the moment. He could feel that it was weakened and that it needed time to recover; there was the shattered weight of a Law behind it, and it would take most of its energy and focus to repair that broken Law.
+
+Before all this, of course, he wouldn't even have known what a Law was. He was still struggling to process the deluge of information he now shared with Icon, but he would take it one step at a time.
+
+He'd agreed to the Wanderer's proposal, of course. It hadn't even been much of a decision. The alternative was to allow his soul to move on to whatever afterlife awaited him, and Angus flatly refused to move on before getting any of the answers he'd been searching his entire life for. Even if he'd still been alive, this was the sort of once-in-a-lifetime opportunity he would have jumped at; he was close to the end of his lifespan in his mortal body, anyway.
+
+Besides, this was the Wanderer. Just being able to help the great hero was a dream come true.
+
+His arrangement with Icon wouldn't last forever, though. Once the Monolith managed to fully repair its Law, it would have the strength it needed to abandon its vessel, and Angus's soul wouldn't be able to sustain a vessel like this by itself. After that, it was likely he would be forced to move on, and Angus was okay with that.
+
+Kazza, on the other hand, had been... less accepting.
+
+Angus glanced at the youngling. The lizardfolk was a full adult now—and much older than the last time he'd remembered seeing him—but Angus would always think of him as a youngling, really. Even now, there was guilt etched into his face. He'd thought Angus was dead, and he blamed himself for not searching. For not realizing what had happened.
+
+"No sane mage could have predicted what would happen to me," he told Kazza, one gauntlet resting gently on the younger lizardfolk's shoulder. "You mustn't hold yourself responsible. Us elders are the ones meant to guide you, remember?"
+
+"But... if I had not been so eager to despise the Cascade and the mage that caused it..." Kazza clenched his fists.
+
+"Then you will remember, in the future, that all may not be as it seems," Angus told him gently, and then his voice took on a teasing tone. "Why do you think I kept searching for the source of those legends?"
+
+Kazza laughed weakly. "We just thought you were..."
+
+"Kooky," Angus said with a grin in his voice, though his new body wasn't quite capable of reproducing it. "I'm well aware, dear child. But you helped me anyway."
+
+"It was fun," Kazza admitted. "For all of us. When we were with you, we could believe that adventures were real."
+
+"There you go, then!" Angus nudged the young lizardfolk. "You have nothing to be sorry for. You would need to know of ancient and forbidden magics in order to even guess such a thing might have been done to me, and if you did somehow learn of those things, I'll have you know that I would assign you to a month's worth of youngling care myself."
+
+Kazza stiffened in practiced, false horror, although it was a little forced. "You wouldn't," he said.
+
+"I would," Angus said. "Do not blame yourself, young one. Focus on what can be done in the future. Our clan will need minds like you yet. It was you who led the Wanderer himself to rescue me, wasn't it?"
+
+A complicated set of emotions flickers over Kazza's face. Angus could guess why—the Wanderer had not hidden his purpose in coming here, and he had explained that if not for his apprentices, he might simply have erased the soul fueling the Cascade. Kazza, no doubt, had been on the other end of that debate.
+
+"You focus too much on what could have been," Angus said quietly. "Focus instead on what is and what could be."
+
+Kazza nodded, retreating in a bit of a contemplative daze, and Angus straightened. Younglings were resilient. Kazza would be fine, once he was given a bit more time to process. Angus wasn't going to have him blaming himself for something no one could have predicted.
+
+Now if only he could apply that same wisdom to himself. That, he'd learned, was always harder.
+
+For now, he was simply doing his best not to think about it. Icon was helping, in a way, using the sheer weight of its presence to shield him from the bulk of his own emotions. Angus was grateful for it—if not for the Monolith's support, he suspected he might have collapsed into a breakdown of his own.
+
+And he really, really couldn't afford that at the moment, given what they'd learned.
+
+"So, um," Damien said. The dreadshade fidgeted awkwardly, pressing his thumbs together. "What do we do now?"
+
+"We'll have to wait for the pocket realm to fade," Cale said. "It won't be long now. I think the storm has more or less stopped on the other end."
+
+"I meant about, um... everything else."
+
+"I know." Cale's tone was heavier. "That doesn't involve any of you. After this, you'll go back to the Academy. There's a chance that the karmic backlash from me freeing Icon will hit it, so get Akkau to set up some more defensive spells and tell him what happened. Work on improving your magic with the tools I've given you. The Red Hunters will still be visiting, so you need to be ready for them."
+
+He paused, then offered his apprentices a small smile. "I know you'll be great."
+
+Angus might not have known the Wanderer personally for long, but he'd studied the legends. If the Wanderer thought he wouldn't return from something, he would say something vague and encouraging, and make sure the people he cared about had the tools they needed to survive in his absence.
+
+This was as close to goodbye as the Wanderer ever got to saying.
+
+Given the severity of the warning Icon had given, Angus couldn't blame him. When Angus had first agreed to help—when his soul had entered the Monolith's vessel and given it the substance it needed to act—Icon had instinctively seized hold of him with a vast, suffocating presence. Within that presence was power unlike anything Angus had ever sensed before except perhaps within that temple, and yet...
+
+And yet, in spite of all that power, Icon's emotions had been terribly and damningly mortal. Angus recognized within it a storm of anger and panic that closely matched his own, and in that panic, it had used his soul to speak without realizing he was more than just another artificial soul.
+
+It felt a little bit like being picked up and used as a toy by a giant, and the fact that his soul was only barely holding together did not help. The Monolith's mere presence shoved his thoughts into a corner of his own mind and took him over, flooding out into his soul, and then it spoke the words that had caused even the Wanderer to freeze.
+
+Almost immediately after doing this, it seemed to recognize its mistake and pulled its presence back in apology. It had taken Angus a moment or two to recover, though in an odd way, he found he didn't mind. Terrifying as it was, it was a reminder that no matter the scale, some problems remained the same; even something as great and powerful as a Monolith was no stranger to mortal things like fear and panic.
+
+The words rang in his mind, even now.
+
+The Source, Cale. It is the Source. We may have been able to cut out the rot, but we did not destroy it.
+
+More than that, though, there was the way the Wanderer's expression twisted the moment Icon said those words. Angus didn't know if he had a word for it. Something terrible and dark and ugly had appeared in the Wanderer's face for a fraction of a second, some combination of horrified realization and dark promise.
+
+Whatever had given him cause to make that expression, Angus was suddenly certain that it would soon be dead. Even in the legends, nothing survived angering the Wanderer, and this was as angry as Angus had ever heard of him getting. It was no surprise that he wouldn't want his apprentices around for it.
+
+His apprentices didn't seem to agree, though.
+
+"We can't just leave," Damien protested. "Not now that we know what's going on."
+
+"You won't be able to help, either," Cale said. "Not with this. It's safer if you stay behind with the school. This won't take me long once I find it."
+
+"How are you going to find it?" Leo asked. "How do you even know it's here?"
+
+"It's here," Cale said without explanation. "And Vital will be able to help me find it." He turned to Angus. "He's here, isn't he? That temple is a dedication to him."
+
+"The temple is here," Angus agreed, though his answer was hesitant. Something about the look in the Wanderer's eyes, perhaps. Angus had always thought of him as a hero of legend, a man that always managed to save the day even when victory seemed impossible.
+
+He'd never once considered what happened when it truly was, or how much he might have needed to sacrifice to get there.
+
+How many times had a legend never formed because the Wanderer lost? What was it like to, truly, to live through all those tales? Even in the greatest of those tales, allies and friends often sacrificed themselves to help push him to his victory, to help him do what was necessary. The legends had never lingered on those people, nor on the Wanderer's thoughts of their sacrifice.
+
+Even the Wanderer didn't always survive his own legends. He left behind a legacy before moving on to a new world, certainly, but, well...
+
+Angus was only now realizing that no one would survive that without scars. He was seeing an expression of that scar now, a burst of all that pain and rage and hurt that must have built up over millennia.
+
+Which was why he winced when the presence of one of the Named—Sisyphus, the Wanderer had told him—once more surged up out of the golem. "I told you," he said angrily. "I told the rest of you there was a problem, but did you listen? I said we had to find him—"
+
+"We were already looking for him," Hephaestus growled. "Your input wasn't required."
+
+"You were looking for the wrong reasons!" Sisyphus said, rolling Syphus forward so he could confront the man directly. "If you just helped me, we might have found him sooner!"
+
+"I gave you your tools, if you remember." Hephaestus narrowed his eyes, staring just behind Syphus, where the presence of Sisyphus was strongest. The air between the two Named began to warp once more as their presence compounded their rage. There was an unspoken history there, Angus could tell, but the timing...
+
+Just like he expected, a cold menace exuded abruptly from Cale, shattering the power that was building between the two Named.
+
+"Hephaestus," he said. "Sisyphus. Now is not the time."
+
+"When is it ever, with you?" Hephaestus said, but he balked when Cale glanced at him.
+
+"You know what that new spell means, don't you?" he asked, his voice icy. "I can't guarantee I'll be able to get a spell that summons any of the other Named. But right now, I'm in a position to give you what you want. If you waste my time fighting one another now, I will not only never cast that spell again, I'll find a way to rip it out of the Source. I'll make a low-level spell that repels the Named, and you're going to find it harder and harder to manifest. Anywhere."
+
+Hephaestus took an involuntary step back. "You wouldn't," he said, his voice gaining an edge that was angry and terrified all at once. "You can't."
+
+"I wouldn't normally," Cale said. "And you're right, I'm not much of an inventor of spells. But the Gift seems to like me, and frankly? Right now, I don't know what I would or wouldn't do. So don't test me."
+
+The last words were bitten off with enough ferocity that Sisyphus's presence just vanished abruptly as he retreated. Hephaestus narrowed his eyes, but stayed silent. Even then, the Wanderer didn't look like he was done—
+
+But Damien put a hand on his arm. "Cale," he said quietly.
+
+Cale remained stiff for a bit longer before he forced himself to relax, blowing out an angry sigh. "Right," he said shortly.
+
+"We don't really understand what happened," Damien said, tactfully changing the subject back. "So we don't know why you have to leave. I mean, we have some idea, you told us about having to excise the corrupted parts of the Source... but there's more to it, isn't there? You never told us what actually happened. What you had to do. And it's been weighing on you."
+
+"You could say that," Cale said, his tone flat. He avoided looking at any of them, instead staring intently at the door, as if wishing he could leave already. The pocket realm wasn't fading nearly fast enough for that, though. "And I don't want to talk about it. If I did, you wouldn't see me the same way again. And rightfully so."
+
+"I think you have to take that risk," Damien said softly, placing a hand on his mentor's shoulder and looking up at him earnestly. "I know you're scared it'll push us away, but I'm asking you to trust us. You haven't been able to talk to anyone about this, have you?"
+
+Damien hesitated, then forged on. "I'm scared that if you never tell anyone, it'll fester until you'll end up doing something you can't take back. Because it won't matter how far you fall if you have no one to come back to. If... if you aren't going to let us be with you in person, then at least let us show you that we can be there in spirit. That we can support you, even after you tell us what happened."
+
+Flia nodded in agreement. "To be clear, when you do tell us, we're going to tell you you're stupid and that we want you back at the Academy and as our mentor when you're done. Damien won't say it, but you're obviously in your head and planning to disappear after you do whatever this is. We all know it."
+
+"Wait, we do? He's planning to what?" Leo asked, looking suddenly alarmed. He winced when Flia elbowed him harshly in the ribs. "Uh, I mean, yeah. Flia and Damien are right. Please don't disappear."
+
+Cale stared at them silently, his expression unreadable. Leo gave Syphus a frantic nudge, and the golem blinked, looking around at the others. "Oh. I'm supposed to say something?" it asked. "Uh, you know me. If you told me you personally went around stabbing babies I'd probably be fine with it as long as you did it with a cool spell."
+
+Everyone, including Angus and Kazza, turned to stare at the golem.
+
+"What?" it asked. Then it tilted its head, as if it was listening to someone else. "Oh. Sisyphus says you're all worried I'm going to go around stabbing babies. No, that's a waste of time. Babies don't fight back. I'd rather shoot monsters with magic. Which I still need you to teach me about, so yeah, you should come back."
+
+"Syphus," Flia said, rubbing her temples. "If you see someone stabbing babies, please stop them."
+
+"Of course I'd stop them," Syphus said, giving her an affronted look. "They'd be a much more interesting fight than the babies."
+
+"Can we please stop talking about babies?" Damien interjected.
+
+"You were the ones that brought babies up," Syphus complained.
+
+"Patently untrue," Leo said.
+
+Angus kept an eye on the Wanderer as his apprentices bickered, fascinated by the way it changed. First it tightened with dread, like he just couldn't imagine telling his apprentices whatever it was he'd done; then it turned into something far more mortal, a kind of vulnerability Angus had never imagined on a legendary figure like the Wanderer.
+
+And then as the apprentices continued, Cale's expression slowly twisted with more and more incredulity as their bickering went entirely off the rails. Finally, he shook his head and let out a short laugh, interrupting them. There was something heavy in his eyes, still, but his shoulders seemed lighter.
+
+"You guys are ridiculous," he said, though not without fondness. It reminded Angus of when he told stories to the younglings and they began arguing with one another about their favorite characters or legends. "Fine. I'll tell you. You know half the story already, anyway. You just... didn't hear the worst part."

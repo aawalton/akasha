@@ -1,0 +1,245 @@
+---
+id: efbb0178-1e92-5b0c-9ce0-62dfafc58ae5
+page-type-slug: story-chapter-royal-road
+title: "15. Sword God"
+slug: 0015-15-sword-god
+partOf: mana-devourer-litrpgmana-cultivation
+position: 15
+ownLength: 3497
+unit: words
+publishedAt: 2024-07-05
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1705861/15-sword-god"
+royalRoadId: "1705861"
+---
+
+Markus didn’t even know there were training rooms until now. He’d also expected them to be teleported right there, but instead, Maesha the Sword God simply said she would ‘lead the way’ and took off walking.
+
+Markus had to jog to keep up with her, and yet she looked to be taking a simple stroll. It boggled his mind, but he supposed everything about gods was confusing in some way or another.
+
+It didn’t take them too long to arrive, Markus struggling not to pant. He was still recovering from his latest fight, after all, and physical exertion in general was extra draining right now. Ah well. He’d suck it up and deal with it for now. Wasn’t like backing out was even an option anyway.
+
+Besides, he wanted to test his glaive out. Having the next fight for his life be his first opportunity to practice with the weapon didn’t sound like the best plan if he could help it.
+
+The main area of the training hall was large, about half the size of a football field. The foreground contained a bevy of wooden dummies to strike, stuffed leather bags, weights and balls, targets for archery, and a rack of wooden swords for sparring, amongst other instruments and tools Markus couldn’t quite grasp the purpose of.
+
+He was led past all that, down to a smaller room that consisted only of a circular fencing ring and a couple of benches off to the side, alongside racks of weapons. Waiting on one of those benches was a creature that Markus was pretty sure was an orc, short tusks protruding from his mouth, his black hair braided, his skin a dark brown.
+
+He was lean but still muscular, his well-built physique clearly outlined through his tunic.
+
+When he stood, Markus realised he had about half a foot on him, maybe more. He rushed over to Maesha, whom he had a similar height advantage over, and bowed low enough that she might look down on him.
+
+“Lady Maesha. I apologise for not being properly prepared to greet you.”
+
+“Greet our guest, Cyrus.”
+
+“Yes! Apologies.” Cyrus turned to Markus, bowing to him in kind. “The Esteemed Lady tells me you are of some interest to her. You must be a remarkable figure, ser.”
+
+“I… thanks. I don’t know if I’m remarkable.” Markus rubbed the back of his neck as he spoke. Easy to be cocky when people looked down on him all the time. The opposite just felt… weird.
+
+“You have mastery over the glaive?” Maesha asked, pointing to the weapon slung over Markus’ shoulder.
+
+“Oh!” Markus pulled the thing out and held it in his right hand, and then, suddenly, in both.
+
+Was it always this heavy? I could swear that even when I went to pick it up earlier, it’d been lighter.
+
+“I’ve used one before, if that’s what you’re asking, yeah. I’m not a total beginner.”
+
+Maesha scrutinised his sheepish smile before turning and striding over to the fencing ring. “You’ve used one before? I see. What rank is your glaive mastery?”
+
+“It’s… three?”
+
+“Three?” Maesha looked at him as if he were crazy. “You mean to tell me your skills already rival those of an esteemed gladiator?” She blinked, appearing stunned. “Have you trained with the weapon for your whole life?”
+
+“Uhh… no?” Markus raised an eyebrow. “Just one fight, actually. I was level 1. Now I’m level 3.”
+
+Maesha visibly grimaced at his words. “I asked what rank you were, fool, not what level. Ranks are the result of levels. Novice at 10, Apprentice at 50, Adept at 125, and so on.” She threw her hands up. “Honestly, I’m a bit disappointed to hear it. For a moment, I thought this might be more entertaining.”
+
+“I’m not a fool,” Markus said, unable to help himself. “You just didn’t explain what you meant properly.”
+
+“Did I not?” Maesha glowered, an eye twitching. “Apologies. I will speak in simpler words from now on. Evidently, the common parlance is far too challenging.”
+
+“Yeah, maybe you’d be less likely to fuck up simple words.”
+
+Before Markus could utter another word, or even live to regret his statement, he felt the world begin to spin around him. By the time he’d realised what had happened, he was on his ass, Cyrus the orc standing over him, an almighty ring in his ears from the discombobulating slap that had just floored him.
+
+“You will not DARE speak to Lady Maesha in such a way again.” He postured over Markus, looking ready to strike him again any moment, bellowing directly down at him with unbridled fury. He grabbed Markus by his robes. “She is a radiant, golden god, and you are a lowly, pitiful creature graced by her shining presence. You will show the proper courtesy, or you will have your tongue ripped out!”
+
+Markus attempted to formulate a response, but he was too dizzy to speak. Words didn’t come to mind. When he turned to try and face Maesha, she was already walking in his direction, hand on the hilt of her sheathed weapon.
+
+It was long and curved and resembled a katana. Perfect for bisecting mouthy mortals, he imagined.
+
+Once Cyrus had finished screaming in his face and dropped Markus back to the floor, he immediately rushed over to Maesha, speaking in a frenzied syllabic deluge. “Holy Sword God, I have enacted this retribution in your name so that you might not have to sully your hand with the blood of this filth—”
+
+“Cyrus,” Maesha intoned, tapping on the pommel of her weapon.
+
+“I have spared no ire in my response and have shown this creature the severity of his error, but he is not of this world, my goddess. He does not know the weight of his transgression! Please reserve your judgment and allow him a chance to benefit from my correction. If he should repeat his mistake, you may punish me in turn.”
+
+“Cyrus…”
+
+“Lady Maesha, I beg you,” Cyrus bowed lower, lower than he had when first greeting her. “I beseech you accept my actions, that you find in your eternal wisdom the ability to forgiv—”
+
+“Cyrus!” Maesha all but screamed, shaking the walls around her, stifling the petrified air. “I do not plan to kill him. You may relax.”
+
+Cyrus remained bowed as Maesha walked right past him, reaching Markus and prodding him with her foot. “Stand. And speak no more ill of me, lest I change my mind.”
+
+“Okay… I’m sorry. I forgot myself. It won’t happen again.”
+
+Markus lifted himself to his feet as quickly as he could, though he was still dizzy, and still couldn’t see too clearly. Cyrus was inert, bowing in the same position for the last twenty seconds, chest rapidly rising and falling.
+
+Markus wasn’t quite certain of it, but it seemed as if the orc had just acted quickly and risked a lot in order to prevent something worse from happening to him. If that was the case, then Markus definitely owed him one.
+
+Markus wasn’t at all sorry for what he had said. Maybe sorry he was a fuckheaded idiot who put his own foot in his mouth, but she’d deserved a clapback after being so rude to him. She was already basically demanding his time and presence, and now she was berating him. Who did these gods think they were, anyways?
+
+But regardless of how he felt, now Cyrus’ fate might be tied to his. Insulting a shitty god to her shitty face was one thing, endangering someone else with his actions was another.
+
+And so Markus bowed. He bowed low, and as courteously as he possibly could. Pride didn’t matter when it put someone else at risk.
+
+Maesha slowly smiled at the gesture once Markus had risen. “Ah, I see you learn rather quickly. Must be a rather discourteous place, Earth, for you to speak to your betters in such a matter. It’s a good thing you recognise your mistake.”
+
+“Ah, yes, Earth’s a shi—bad place. Very bad. Lots of rude people there. None of them have really prepared me for talking to Your Holiness. I apologise.”
+
+Markus tried to remain as stolid and serious as he could while he spewed whatever bullshit seemed to give her the biggest kick. This was a more than familiar picture, just a new person on the receiving end.
+
+Once Maesha was satisfied with his apology, only making him repeat it four more times in different words, she finally took her hand off of her sword, returning to the centre of the room.
+
+“Human! I wish for you to spar with my disciple. Your weapon versus his. Show me which of you is the most worthy of my time.”
+
+Well, that sounded fucked up. Not like he could really refuse, though. Most worthy of her time? What did that mean?
+
+Ah well, at least this was kinda on the lines of what he’d been expecting. He’d been expecting sparring of some sort. He could do this.
+
+Oh. It seemed that Maesha neglected to inform Markus that Cyrus used TWO weapons, wonderful. He grabbed a sword from his belt, then immediately walked over to the bench and placed an axe in his left hand. He brandished the two, swinging them in a circle, warming his hands up.
+
+“I wish to see a fight to first surrender,” the goddess stated, moving over to the side of the ring and taking her place as spectator. “You will hold nothing back from one another. Fight as if you are facing your worst enemy. Do to each other as you would unto him.”
+
+“If it pleases my lady,” Cyrus started. “Might we dull our blades first, so no undue fate comes to pass?”
+
+“You will dull your blades,” Maesha answered, venom in her tone. “I’ve told you by now that I do not wish to kill him. Are your ears decorative?” She then pointed at Markus. “But why should he? You are a student of the Sword God, Cyrus, are you not? You follow the virtue of Strength. Do you fear the cuts of an inexperienced whelp?”
+
+“I do not. I will dull my blades, and face his in earnest.”
+
+As he said so, the orc ran his hand along the edge of his axe, looking as if he should’ve sliced his fingers straight open what with the speed that he did so.
+
+Instead, the weapon became noticeably blunter at the edges. He repeated the process with his sword, ensuring the weapon was properly safeguarded before advancing.
+
+Markus stood with his glaive awkwardly, its edge planted against the floor. “Hey… aren’t you worried that I’ll cut you?” He looked to Maesha a touch more nervously. “Shouldn’t I do that to my weapon too?”
+
+“Don’t speak out of turn,” Cyrus whispered to him, before speaking in a louder voice. “You humble us with your audience, Lady Maesha. May you find this bout both entertaining and satisfactory.”
+
+Man, did he just come up with this formal stuff off the top of his head? It was impressive.
+
+That said, more concerning was the fact he had to fight this orc like this! There were a million thoughts racing through Markus’ mind as the two of them squared up, not least the fact that this hadn’t ended up being anything like what he’d pictured earlier. He wasn’t sure what he’d hoped for. A gentle mentor, or at least not a complete asshole. Learning of some kind, maybe.
+
+Not this. Not ‘hack my disciple to pieces for my amusement, also he can’t fight back properly, also the loser isn’t worth my time, also I’m a massive cunt’.
+
+Yeah. Markus hadn’t been expecting that one. Maybe he needed to blame himself for that. Just expect the absolute worst from now on.
+
+Cyrus bowed, and Markus bowed in turn. He figured it was the right thing to do. He hadn’t considered what the fuck he was gonna do next. Was he allowed to use magic in this fight? Mana? He needed to imbue his weapon with something, at least, or he wouldn’t be able to wield it properly. Spirit Magic? That was like, the least magicky of the magic he had.
+
+As soon as he began the process, Maesha raised a finger.
+
+“No enchantments. Fight with only your weapon.”
+
+No enchantments? That was all well and good, but his opponent had half a foot and fifty pounds on him. How the fuck was he supposed to fight that with no attunement and a shitty level 3 Glaive Mastery? He didn’t even have the first rank of mastery apparently! He was rankless!
+
+I bet this guy’s like rank 50, level 2 million. I’m gonna get fucking smoked.
+
+Markus grabbed his glaive in both hands and lifted it. It was heavy. Difficult to use. Unwieldy and not balanced like his previous weapon had been.
+
+He was supposed to defend from two weapons with this?!
+
+Cyrus advanced, and Markus raised the glaive to block by instinct.
+
+Smack.
+
+Markus was on the floor before he could blink. He hadn’t even been struck with a weapon—Cyrus had kicked him to the ground with one fluid motion. He keeled over, coughing violently as he rolled to his knees.
+
+“What are you waiting for, you stupid monster, strike him! His neck’s exposed!”
+
+“Does attacking a downed opponent not go against the Virtue of Strength?” Cyrus asked, turning to his goddess.
+
+“No! It doesn’t! The strong are those who are victorious, now strike!”
+
+Too late. Markus was back on his feet already. He swung with the handle of his glaive, not wanting to use the blade, finding that the pole was long enough he could hold it in the middle and do so without endangering himself, but the attack had little momentum behind it. This weapon was really fucking cumbersome to him. He imagined he’d need Overcharge and an imbuement to wield it properly. It was totally different than he remembered.
+
+Cyrus deflected his sloppy attack with the slightest of efforts, immediately smashing the glaive out of his hand and sweeping his legs from under him by hooking them round the back with his dulled axe and pulling hard.
+
+Markus fell to the floor, and the orc immediately piled atop him, keeping him pinned, a hand pushing his face into the floor.
+
+“Do you surrender?” he asked.
+
+“No! He doesn’t surrender! Get up and hit him!”
+
+Cyrus did as he was bidden, and Markus launched himself scrambling back to his feet as soon as he was able. He was surprised he wasn’t more winded after having that massive creature pin him. He could still move, however, and once again tried his hardest to swing the handle of the weapon forwards, clashing with Cyrus’ axe, pulling back and repeating the motion to a tad more success, actually being able to push him back an inch.
+
+Was the glaive… getting easier to use as I attacked with it? Could that be?
+
+He’d ponder that later. Right now the main concern was keeping his guard up and not letting himself get pinned again. He didn’t want to hurt the orc, but he didn’t want to disrespect Maesha by refusing to fight. There was always a chance she winded up blaming that on Cyrus, after all.
+
+So he continued to push on, remaining focussed, swinging and moving his legs and pivoting around the stationary, defensive position that Cyrus had taken up.
+
+He couldn’t push him back or move him in any way, no matter what angle he struck from. Sure, Markus wasn’t using his weapon to its full extent, barely incorporating the blade, but he couldn’t strike him whatsoever regardless. The difference in skill between the two of them was massive. This wasn’t a fight, but a farce.
+
+Still, for every attack that the orc blocked, for every swing Markus missed, the misses became more narrow. The attacks became more powerful. The blocks became ever so slightly more strained.
+
+He couldn’t explain it, but the speed and power with which he attacked only became dramatically heightened the longer and longer he fought. What had started as a completely one-sided match now had a fraction of a decimal of a hope of being more than a complete stomp.
+
+It was the malichor, surely. Markus could feel that chance growing nearer with each strike he had parried or blocked, with each narrow opening he barely failed to exploit, with every attack he piled onto his flurry until finally, finally, Markus managed to achieve some form of a result, forcing the orc’s foot to move back a single step.
+
+“What?..” Maesha’s voice was loud, distracting. Markus continued to pile on the attacks, light and heavy, short and long extensions of his arm, moving into a rhythm of his own design, keeping the pace, working hard to ensure that his body remained both loose and flexible as he went, determined to end this thing as quickly as he possibly could.
+
+When he finally managed to leave the smallest, lightest gash upon Cyrus’ arm, Maesha screamed at him in fury.
+
+“Useless orc! Why are you only blocking! Punish him!”
+
+Before Markus knew what hit him, Cyrus parried his next attack and he was flat on his ass again. He moved so quickly that Markus could barely see him. He was like a ninja, quick and disciplined, able to strike both effectively and without warning, deadlier with dulled weapons than most were with a full armory.
+
+“That’s it! Now stamp on his head! Kick his teeth out! Leave him branded by your boot for any worthless god that might claim him!”
+
+“I surrender!” Markus yelled between pants, fearful for his jawline. “No… no head stamping, please.”
+
+“No, you do not surrender! Not until Cyrus repays the wound you delivered to him, not until you are marked by the scars of defeat!”
+
+“This scratch, Lady Maesha?” Cyrus asked, holding his arm up, which was barely even bleeding. “Is it of such great consequence?”
+
+“Yes! You allowed an untrained weakling to draw blood from you, and you will exact recompense in the name of your god!” She was seething, purely enraged, the glow around her eyes so intense they were almost blinding.
+
+Cyrus hovered over Markus for a moment, staring at him, and then finally, in a flash of intense struggle, hesitated. “He is squarely bested. That is recompense enough for me.”
+
+“You are a blithering, ridiculous coward. Oh, the bandits I bought you from really sold me a pack of lies, didn’t they? I’d string them all up if I saw them again!” Maesha kicked the air as she stood, drawing her sword and marching straight over to Cyrus. “You may be the lowest of my disciples, but by my name are you a disappointment. It’s been six months, Cyrus, and you’re still incapable of fulfilling even basic commands. I have half a mind to kill you here.”
+
+“Please don’t,” Markus interjected, coughing as he struggled to his feet. “He beat me. You wanted him to beat me, right? He didn’t do anything wrong.”
+
+“He is useless! Bled by an unranked fighter, unable to push past his screaming, useless conscience!” She tutted, shaking her head, face turning red.
+
+“I won’t kill you. You can stay here. Perhaps I’ll get a decent bag of silver for you, if I don’t mention your utter unwillingness to hurt a living soul!”
+
+Jeez. Rough world to have morals in, that was for sure.
+
+Markus was bid to leave not long after, thankfully keeping his head in the process.
+
+He called her a bitch on the way out. Couldn’t help it. He didn’t wait to see her reaction, but he didn’t immediately die, either, so that was something.
+
+Maesha had never been interested in recruiting him, apparently. Magic users weren’t her thing. She’d wished to make a point about the martial prowess of her disciples. She’d wanted him to be tarnished by any god that chose him with the knowledge that her lowest disciple had bested him, that without magic, he was worthless.
+
+And in the process, she’d ended up losing her lowest disciple, tired of his sickeningly upstanding and honorable behaviour.
+
+Not hours after that encounter, Markus’ glaive mastery had increased, his opinion on gods had shifted firmly into the negatives once more, and the empty cell opposite his had become occupied. Guess Maesha didn’t make idle threats.
+
+Suddenly, Markus had a new neighbour, a potential sparring partner, and a possible friend, and his name was Cyrus: former disciple of the esteemed Sword God, gentle soul, and Big Fucking Orc.
+
+“Welcome to Prison Club,” Markus said, putting his hand through the bars to shake.
+
+“...”
+
+Eventually, the orc bit. “Prison Club?”
+
+“Yeah. Prison Club. It’s just us right now.”
+
+“...and what’s the goal of Prison Club?” Cyrus asked, glancing from the corner of his cell.
+
+Markus grinned.
+
+“To get the fuck out of Prison Club.”
+
+It took some time, but eventually, Cyrus shook his hand.

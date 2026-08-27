@@ -1,0 +1,107 @@
+---
+id: 7ff2f233-f139-5223-a0e1-9acc280526f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Supply Run"
+slug: 0055-chapter-23-supply-run
+partOf: labyrinth-of-the-mad-god
+position: 55
+ownLength: 2220
+unit: words
+publishedAt: 2024-09-09
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1795735/chapter-23-supply-run"
+royalRoadId: "1795735"
+---
+
+Nick crept down the passageway with Veronica at his side, trying to move as quietly as possible without sacrificing speed in the process. She nodded her approval as he stepped between the piles of loose debris, keeping one eye on the tunnel ahead in case any gear-rats were headed their way.
+
+After their latest discussion, he had been trying to teach V how to sense the mana in her core. He had also explained how to consciously guide stamina through her body to enable explosive bursts of speed, although he was still a novice himself.
+
+In exchange, she’d been coaching him on how to move silently. It was already helping him to reduce his presence, though he had a long way to go before he would be anywhere close to her league.
+
+Nick and Veronica had been hiking for a few hours after leaving the office behind them. At the moment, they were in the middle of heading down another long stretch of tunnel, instead of the big industrial areas they’d been crossing the day before.
+
+They were making good time, since all the doors in this section were sealed and locked. After taking a close look at several, they had decided to leave them alone. It would take too much time and effort to break in, and the noise would attract unwanted attention.
+
+On the bright side, they hadn’t run into any constructs all day, allowing them to fully recover from their fight. Nick’s wand had gained another charge, even faster than usual, thanks to the ambient force essence flowing across the level.
+
+It was nice to get a break, even for a few hours, although he was sure that it wouldn’t be long until the next ordeal was upon them. However, neither a break nor an ordeal was what fate had in store for them next. It seemed that the duo was in for a bit of excitement after all, and a pleasant surprise to boot.
+
+As they passed by the last chamber in the cluster, a message from the System appeared in front of Nick’s eyes. When he saw the first line, he read the rest of the details with interest.
+
+Proximity-triggered event: Sealed storeroom.
+
+This storeroom was magically sealed to preserve the contents inside. If you choose to participate in the event, you will have fifteen minutes to sort through the items before you will be automatically ejected. You may keep anything that you find but are limited to what you can carry on your persons.
+
+Do you wish to participate in the event?
+
+“Huh.” Nick rubbed his chin. “I didn’t expect there to be any more location-triggered events once we made it inside the tower. This one seems safe enough and it won’t take too much time. I say we go for it. What do you think V?”
+
+“Sounds good to me. Before we head in there, we should come up with a plan to maximize our gains. Since we can only take what we can carry, this is a perfect chance for your magic bag to shine. Why don’t you take out anything heavy that isn’t too critical before we enter? There’s a chance that the rats will eat it while we’re gone. But we don’t need firewood down here and whatever we find in the storeroom is probably going to be a lot more useful.”
+
+“That makes sense. How do you want to proceed once we’re inside?” They spent a few more minutes discussing their strategy and priorities for looting the storeroom. Meanwhile, Nick took various raw resources out of his bag and set them beside the door. Five minutes later, they were ready to head inside.
+
+“We’ll participate in the event,” he addressed the System, and the door to the storeroom cracked open.
+
+They shared a grin and then stepped through the doorway, eager for a chance to pick up some loot that didn’t come with a fight attached. They hadn’t been able to look inside the room before beginning the event, so their first order of business was to figure out what they were dealing with, then revise their strategy as quickly as they could.
+
+Nick began by examining the interior, firing up his looting protocols. It was the first time he had relied on his old gaming skills in weeks. He was glad that they were still good for something now that he was fully immersed within a magical, danger-filled reality. First step, figure out where they store the most valuable items, then start prioritizing the rest by utility and weight.
+
+The storeroom was big, at least thirty by thirty, with a textured floor and a high ceiling. Nick broke into a broad grin as he took in the sheer volume of goods on display. This must have been used by the workers that maintained the facility.
+
+Everything appeared to be in good shape, and there wasn’t so much as a speck of dust to be found. Since time was of the essence, he ran his gaze across the enclosure while walking over to the nearest shelf, trusting his internal loot filter to point out anything unusually valuable.
+
+Veronica was excited too. After all, they had thousands of items to choose from. Tools and hardware in a vast array of functions and forms. There were metal racks running along each of the walls, with four broad shelves stuffed with gear arranged in well-organized piles. The center of the room held a series of smaller displays, with dozens of sealed crates stored below them.
+
+“Let’s start with a quick survey,” he suggested. “Call out what you find as we work our way around the room. We can spend the rest of our time grabbing whatever gear seems most useful. Claim anything that looks good without stopping to confer until we get a sense of what we want the most.”
+
+They broke apart and started going around the chamber in opposite directions. V grunted her agreement, not wasting a second as she started digging through the piles.
+
+As they had planned, Nick had already placed his pack beside the door, where they could both reach it easily. Anything top tier would go inside immediately. Anything that was a maybe would be placed next to it, so that they could make their final decisions during the last few minutes.
+
+He began by investigating everything that was sitting on the shelves, since it was easy to see what he was working with. While the crates were labeled, the words weren’t written in the runes the System used. He couldn’t tell what was inside without cracking them open, and it would take some time and effort to pry open the tops and take a look.
+
+The shelves closest to him were filled with an assortment of utility supplies. There were lengths of chains and coils of rope. Buckets and bags of every shape and size. Thick piles of cloth, leather, and even a few oiled tarps. It was all basic stuff, but it would help fill in the gaps in his kit, including some items that would improve their collective quality of life.
+
+He reached out and grabbed a coil of rope made from what appeared to be silk, then threw it across the room to land beside his bag. He flung a second coil, a few leather pouches, two towels, and a big tarp. It took him less than a minute to move on to the next rack, eager to see what he’d find.
+
+It was a decent start. What he saw on the next set of shelves really dialed his excitement up to eleven, because it was filled with a wide variety of tools. Nick didn’t stop to consider what he was grabbing, anything that looked useful got thrown beside the bag.
+
+A series of mallets was his next acquisition, then a metal pick, a backup canteen, and what appeared to be a hand drill with some manner of gemstone coating the bit. A claw hammer and a box of nails soon joined the rest. Tweezers and lockpicks. Pliers and bolt cutters. Even a coil of wire. All of it was made from a lightweight metal that he didn’t recognize, which made them light for their size.
+
+Meanwhile, he could hear Veronica laughing as she looted like a woman possessed, items flying through the air in a frenzy. “I just found a bunch of medical supplies, Nick. This is some good shit!”
+
+When he looked over his shoulder, he saw rolls of sterilized gauze streaking across the room, followed by what looked to be a bottle of disinfectant and a needle and thread. None of it seemed magical or better than basic quality, but it was still an enormous windfall by any accounting.
+
+With a chuckle of his own, he returned his attention to his own acquisitions. By now, they’d used up about half of their time, and they only had a few of the open-air racks left to examine.
+
+The next shelf held an assortment of dried provisions. While they still had some food left in their bags, running out while climbing the tower was a real concern. So far, they hadn’t come across anything edible on this floor, and while the garbage-eaters sounded like beasts, he wasn’t eating anything that dined on trash unless he was starving to death.
+
+Although they were dry, the packaged rations weren’t particularly light, so he tried to limit himself to about fifty pounds. Prioritizing the stuff that at least resembled human food, Nick tossed a good twenty meals into the pile before moving on.
+
+The last set of racks was filled with clothing. Something that he’d really been hoping to find, since all his gear that didn’t have self-maintenance mods was stained and full of holes. You wore through clothes fast in a world where a thirty-mile hike and a couple of fights was just another day of the week.
+
+Nick grabbed a pile of shirts that were close to his size, a few pairs of pants, a warm hat, a scarf, and several pairs of socks. “Hey V, I found some clothing. You should check this pile out and grab some in your size.” He pulled down a few final items for the other members of his party, then got out of the way.
+
+“Thanks Nick!” They traded positions so that she could get some new threads too, high fiving each other as they went. In that moment, Nick realized that not only was this a great opportunity to pick up some sorely needed items, it was a great deal of fun too.
+
+It was the only moment of pure recreation he’d had in far too long. He’d savor the memory when it was over. But for now, all that mattered was using the last few minutes as efficiently as he could.
+
+By now, they had completed their survey of the shelves, which meant that it was time to start looking inside the crates. They each picked up a mallet and prybar from the pile of tools, then started levering open the tops of the wooden containers.
+
+The first few were a bust, holding nothing of interest. But the next one Nick cracked open contained glass vials, metal canisters, and other assorted storage containers. Figuring that they might be useful later and didn’t weigh much, he picked out an assortment and put them into his bag. Then he went back to grab a few final items from the crate that V had just opened.
+
+Veronica had found some flint and steels, whetstones, and an assortment of utility knives, along with a sewing kit that appeared to be designed for repairing leather armor. It seemed that the people staffing this floor had occasionally ventured outside the tower and used these supplies to keep their weapons and armor in top shape.
+
+Since there were only two minutes left on the clock, they both ran back to the bag as planned. They threw in everything light without bothering to sort it, then spent a few seconds debating which of the larger items they wanted.
+
+When the bag was full, they started piling up the rest in their arms. Nick had just picked up the last item he could carry when the System informed them that they were out of time.
+
+Event complete. The items you collected are their own reward. No additional experience or essence has been awarded.
+
+With that, he felt an irresistible compulsion to leave the room. Side by side with Veronica, they stepped through the door and back into the hall. The doorway closed behind them, sealing itself with a faint hiss. They spent the next half hour reorganizing their haul. Then they packed it all up and left the rest behind.
+
+As they continued on their way, Veronica reached over and slapped him on the back. “That was the best event ever. Nothing was better than basic, but being able to pick out what we wanted and not having to fight for it was amazing.”
+
+“You said it V. I couldn’t agree more.” Nick started walking with a spring in his step, glad for the gear and the moment of sorely needed recreation.
+
+He strongly suspected that it was the last moment of levity he would enjoy for quite some time to come.

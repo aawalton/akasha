@@ -1,0 +1,83 @@
+---
+id: dab0088d-d88d-502e-928f-6e4d83a9e530
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ten: Blood and Water"
+slug: 0010-chapter-ten-blood-and-water
+partOf: labyrinth-of-the-mad-god
+position: 10
+ownLength: 1545
+unit: words
+publishedAt: 2023-09-07
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1335819/chapter-ten-blood-and-water"
+royalRoadId: "1335819"
+---
+
+Nick’s brain stuttered and came to a stop as his understanding of the world shattered like toppled glass.
+
+While he stood frozen in the throes of an existential crisis, the battle between the tribe and the colossal creature raged on. The lurk leapt into the middle of the gathering and caught three more lemurs between its talons. They died before they even knew what hit them.
+
+For another breathless second, the tribe stood motionless, processing the fact that a multi-ton predator had landed in their midst. Then the elder’s voice rang out, and they sprang into action.
+
+Instead of scattering to the wind like Nick had expected, the tribe ran for their weapons and prepared for battle. A barrage of sticks and stones rained down upon the gigantic beast, distracting it long enough for the lemurs to fall into formation.
+
+While the primates continued hurling whatever they could reach, four of the club-wielders charged straight for the shaggy behemoth, taking a few projectiles themselves as they drew near. When the stonefall began to wane, the brave quartet leapt into the air. Meanwhile, the rest of the tribe made their escape, heading south along the shoreline.
+
+The towering beast opened its jaws and eviscerated a lemur mid-flight, the ivory daggers it had for teeth snapping shut with a crunch that Nick felt in his bones. But the tribe’s warriors were undeterred. They grabbed onto the lurk’s fur and started wailing with their clubs, offering up their lives so that the others could survive.
+
+Primal instincts came bubbling up to the surface of his awareness. Reactions branded into mankind’s DNA in an age long-since passed. He wanted nothing more than to rise and run away, no matter how poor his odds.
+
+He restrained himself through sheer effort of will. While he was having trouble processing the events playing out before his eyes, he knew that his strength would fail after taking a few faltering steps.
+
+Instead, Nick froze every muscle in his body, closed his eyes to slits, and ceased to breathe. His instincts were certain that if the lurk noticed him, he’d be dead before he had time to scream. That his corpse would join the lemurs digesting in its stomach.
+
+Unable to run, he pressed himself deeper into the sand, further reducing his profile. He didn’t dare to so much as twitch as he watched the primates make their final stand.
+
+The fifteen-foot-tall creature roared and whipped its body from side-to-side, furious that its hunt had been cut short after such a meager haul. The violent motion flung one lemur to the sand, where it was splattered between the beast’s talons.
+
+Another misjudged the reach of its arms, which were far from vestigial after all. The lurk’s razored claws speared the lemur through the stomach, popping the unfortunate creature into its mouth like a cocktail shrimp.
+
+In defiance of the odds, the final lemur managed to escape. The rampaging beast spun so hard that it threw the furry warrior high into the air, sailing up into the forest with a terrified shriek. The lemur reached out and latched onto a branch mid-flight, scampering into the safety of the canopy.
+
+All the while, Nick suppressed the urge to shudder. He put every scrap of concentration into remaining utterly still, doing his best impression of a piece of driftwood. After witnessing the brief, bloody battle, he was certain that if he moved a muscle, he was dead.
+
+He watched as the powerful predator returned to the spot where it had slain the first lemurs, growling in frustration as it began a paltry meal.
+
+Oversaturated with terror, Nick discovered that it was possible to feel even worse when he realized that one of the coconuts had vanished. Another had been shattered and ground into the sand, lost beyond any hope of recovery.
+
+But none of that mattered until the lurk left the area.
+
+The beast finished its gory meal and started sniffing at the air. As if it could smell something that it couldn’t quite place. Just as he was certain that it would turn and track him down, the lurk grumbled, licked the blood from its fur, and disappeared into the trees.
+
+When he had recovered enough to scan the battlefield, Nick’s gaze landed on a single coconut that had survived the predator’s rampage. The rest had been eaten by the tribe or pulped to a smear beneath the lurk’s feet.
+
+Every fiber of his being wanted to turn back. To get as far away as he could as quickly as possible.
+
+But he couldn’t give into the urge to flee, no matter how badly he wanted to. He needed to eat that fruit. He’d already pushed his luck, and his body was dangerously low on resources. If Nick wanted the strength to sneak past the lizards and make his way upstream, he had to grab the coconut now, while he had the chance. That beast must have massive territory. It has no reason to stick around and is probably long gone.
+
+Nick was about to rise when a sensation of overwhelming danger blossomed in his mind. He realized that the cries of the animals along the shore, which had ceased when the lurk appeared, were still completely silent. In that moment, he knew. The creature was still out there, waiting for him to reveal himself.
+
+Ten breathless minutes later, he saw the lurk again. The beast had been hiding in the woods just behind the grove. With a dissatisfied grunt, it abandoned its place of concealment, turned around, and ambled into the forest.
+
+Not long after, the music of life returned to the environment, and the delayed reaction to what Nick had witnessed hit him with full force. He began to hyperventilate, limbs shaking like grass in a hurricane.
+
+Eventually, he regained control of his body, and his mind began to clear. It was time to get as far away from this place as he possibly could. But not until he walked over to the site of the ambush and claimed the final coconut.
+
+Forcing himself to cross the blood-stained grove was the hardest thing that Nick had ever done. Every cell in his body screamed that he should turn and run, even though he would die the next day if he did.
+
+Every time the branches swayed in the wind, he had to stifle the urge to panic, convinced that the lurk would come streaking out of the trees again. Battling his own imagination, he forced himself to walk, not run, toward the site of the massacre.
+
+Straining his ears to the limit, he listened for the silence that had preceded the creature’s arrival. As he drew closer, the metallic stench of blood, rose to hang heavy in the air. He would have thrown up if he had anything left in his stomach. That was when Nick realized that he couldn’t see the coconut. It must have been buried in sand by the constant sea breeze.
+
+He arrived at the spot where he’d last seen the fruit and started to dig, terrified that it had been stolen by another animal when he wasn’t looking. That the lurk would return before he found it. But then his fingertips brushed against something hard beneath the sand. With a grunt of exertion, he pulled the intact husk out of the ground.
+
+There might be another somewhere in the area, but his nerves were shot. Nothing could stop him from getting the hell out of there while he still could. He picked up a rock and the bone the lemurs had used as a pick when he spotted them near his feet, then kept on walking until he could no longer see the blood-drenched dunes.
+
+At last, shaking with stress, exertion, hunger, and fear, Nick carefully set the coconut in the sand and tapped the bone with his rock, afraid that he would accidentally split the shell and spill the fluid inside. To his relief, the crude tool went in easily and came out again with a bit of twisting.
+
+He raised the coconut to his lips and tilted his head. Nothing came out, although Nick could smell something sweet wafting out of the hole. A black wave of despair threatened to overwhelm him before he remembered that the lemurs had drilled two holes, allowing air to replace the liquid inside.
+
+He tapped a second hole and tried again. This time, delicious, life-giving coconut water poured into his mouth. He drained it down to the last drop, tears running down his mud-stained cheeks. Thanks to the lemurs’ misfortune and his own good luck, he’d found enough fluid to survive the night and resume his hunt in the morning.
+
+He pulled the husk in half, shoving bits of coconut meat into his mouth as he walked south, heading for the obelisk in the middle of the lemurs’ territory. A point as far away as he could possibly get from the island’s resident predators. The lurk to the north and the color-changing lizards to the south.
+
+As he hiked, Nick refused to think about what he’d witnessed. An impossible sight that he wasn’t ready to process until he was somewhere safe. Or at least beyond the territories of mysterious, bloodthirsty beasts.

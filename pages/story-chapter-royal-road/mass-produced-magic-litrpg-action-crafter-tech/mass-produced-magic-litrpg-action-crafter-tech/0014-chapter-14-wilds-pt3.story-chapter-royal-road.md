@@ -1,0 +1,161 @@
+---
+id: 329c0d0c-2342-5eb1-812a-aac3b6c9e8dd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14 – Wilds – Pt3"
+slug: 0014-chapter-14-wilds-pt3
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 14
+ownLength: 1977
+unit: words
+publishedAt: 2024-11-19
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1913500/chapter-14-wilds-pt3"
+royalRoadId: "1913500"
+---
+
+Kindra leaned against the stone and rubbed her leg. I really need to clean this. She tilted her head and sniffed. A soft breeze washed by, carrying damp air. Is there a stream in here?
+
+Turning, she peered out into the crater. A bird swooped down, landing near the bison. I either waste bullets or bolts. Given the lack of metal, it looks like I’m back to the medieval era. Frowning, she shook her head and looked back. “Aika, is there a way out?”
+
+“Yes, but there are birds in it.”
+
+“So, we need bolts. Lots of bolts.” Kindra turned. “Bad news, I need material for crossbow bolts.” She set her bag, the rifle, and the crossbow down. Slipping out of the cave, she edged toward the vine.
+
+The black and white vulture pecked, ripping flesh from the wounded bison’s leg. The bison bellowed, and Kindra slid across the wall. She grabbed the vine. Hauling herself up, she peered out at the edge of the forest. The cats were lying there, and four birds had landed, pouncing on the free meal. One turned and hissed at her. Oh, fork it.
+
+Pulling out the gun, Kindra aimed, lining up the gun with the vulture’s head. “I need those. Get out of the way or die.”
+
+The bird hissed. She squeezed the trigger, and the gun barked. The bird didn’t have time to react, the bullet blowing through its head. Its dead body twitched, ran a few steps, and fell over, its wings flapping against the ground.
+
+The other birds took off, fleeing her and the gun. Kindra dashed forward and grabbed the cats, dragging and tossing them into the pit. Aika shot past her, zipping into the forest and grabbing fallen branches.
+
+After another tree, Kindra jogged into the woods and hacked a branch off the tree. Racing back to the pit, she tossed it in and glanced at the group of birds. They descended, swirling lower and lower. One dove for the bison.
+
+Ignoring it, Kindra bolted back into the woods, hacking off a dead branch and running it back.
+
+The two ran laps, quickly piling wood into the pit. The nearby scavengers edged closer, and a deathly quiet fell on the area. Kindra shivered and ran a branch back. What is it now? She scanned the trees and looked up.
+
+Large, blue wings flapped. Scales shimmered in the sunlight, and a massive wyvern looked down. “Aika, time to hide!” She grabbed the vine and scrambled down, dropping heavily to the ground.
+
+Pain lanced through her leg, and she grabbed a cat carcass, dragging it into the tunnel. The wyvern dove. Its body pulsed with vibrant light. Its mouth opened to reveal large teeth, and Kindra scrambled down the tunnel.
+
+Peering out, she watched the wyvern land on the bison. Massive claws sunk into its flesh, clamping down on its prey. With a roar of victory, the wyvern bit into the bison, ripping its neck open and spraying things with blood.
+
+Please tell me that it can’t breathe fire. Kindra swallowed and ducked against the wall. Aika landed in her lap and huddled with her.
+
+Kindra reached out and pulled her close. “Aika, start moving things.” She grabbed her gear and crept backward, moving it deeper into the cave. Walking to the entrance, she looked out. The wyvern gorged, and Kindra carefully grabbed some of the remaining branches, pushing them towards Aika.
+
+The wyvern ate like a bird, ripping off pieces and using gravity to aid in swallowing massive pieces.
+
+Pulling in half the bodies and most of the branches, Kindra turned and looked at the wyvern. Its body was aglow with mana. Its eyes blaze with it. Reaching down, it ripped off a leg and swallowed it, bones and all. I don’t even want to know what level it is.
+
+Looking at a cat carcass, she reached and grabbed it, pulling it into the little cave. Swallowing, she looked at the others. Is this going to piss it off? She grabbed another, pulling it inside before looking at the others.
+
+Aika tugged on her sleeve. “Don’t do it. It’s looking.”
+
+Kindra nodded and touched the rock. Time to wall this off. She burned mana to turn the entrance into a tiny crack. The stone shifted, closing off all but a crack.
+
+Letting out a light breath, she looked over at the wyvern. It ripped off another leg and devoured it. Finishing the leg, it turned and looked at Kindra, sniffing the air with its massive nostrils.
+
+Kindra froze. Please don’t let it see me. It looked back at the bison and ripped the remainder of it in half. Then it began devouring a side.
+
+Kindra turned and dragged things away from the opening. She looked down at the cat. Mana was leaking from the body and flowing into her. Mana from the bison wasn’t. Does it get more mana by eating it? And do I get kill credit?
+
+[Mana is released when creatures die. Some will flow into the nearby creatures. Killing them creates a stronger tie. Some creatures have adapted other methods, such as consuming flesh.]
+
+Kindra felt her teeth with her tongue. Am I one of them?
+
+[Unknown.]
+
+You don’t know?
+
+[This information is unavailable. Your current species is listed as REDACTED.]
+
+Death knows and won’t tell me?
+
+[This information is unavailable.]
+
+Hey, Death? What’s with that?
+
+[Your genetic code is distinct due to magical alterations. The system has classified you as an aberration because of it. ~Death]
+
+I’m not an aberration. She frowned, and the sound of heavy steps jerked her focus back to the problem outside. Grabbing the supplies, she dragged them further back. The wyvern walked up to a cat and opened its mouth. A long tongue wrapped around the cat and pulled it into the gaping maw. A massive eye turned toward Kindra and blinked.
+
+Shit. Kindra swallowed and crawled backward, dragging the cat with her. The wyvern’s head turned, and the eye stared at her.
+
+We’re next. Her heart thundered in her chest. Her lungs struggled to work.
+
+“Kindra!” Aika screamed. “Back up!”
+
+Kindra forced the panic back, dragging things further from the entrance.
+
+The wyvern swallowed the last cat and looked inside. Reaching forward with massive, black claws, it sliced through the stone and ripped it out of the way.
+
+Kindra continued retreating. We’ll collapse the tunnel and pray that’s enough. Dragging the material for her bolts, she made it fourteen feet, sixteen feet, eighteen—A massive tongue flickered down the tunnel, and Kindra dropped everything.
+
+With her arms trembling, she grabbed the gun and raised it. Breathe. Just breathe. Exhaling, she looked down the tunnel. Fangs lined the bottom and top of the cave. The tongue flicked out, eight feet, ten feet, twelve—She pulled the trigger. The gun boomed. A shell flew, and she pulled the trigger again and again.
+
+Bullets streamed through the air, magic trailing behind them. Like tiny insects, they flew toward the massive creature, and Kindra scrambled backward.
+
+The first bullet hit the tongue and shattered. Blood oozed from the minor cuts, and the wyvern’s tongue jerked backward. The next bullet whizzed by the tongue, flying into the creature’s open maw. Hitting the back of the throat, it broke and bounced, sending a spray of tiny shrapnel through the wyvern’s mouth.
+
+The wyvern bellowed and jerked its tongue back. The third bullet hit it, bouncing off a fang with a high-pitched ping. Kindra felt her heart pause. She stared, and the wyvern lost it, ripping furiously at the stone with its claws.
+
+Rocks rained, and Kindra scrambled backward as the tunnel slammed shut behind them.
+
+Everything grew quiet, and Kindra stood there, her heart thundering through her chest. Her eyes watered, and she looked down.
+
+Aika patted her on the shoulder. “It’s okay. It can’t hurt us now.”
+
+“But we’re trapped in some dungeon thing.” Taking a long breath, Kindra turned and looked at their limited supplies. I hate this stupid planet. Earth was better than this death planet. She turned and looked down into the cave. It bent, leading elsewhere. “What’s beyond the bend?”
+
+“The birds. Lots of them.” Aika patted her.
+
+Kindra grimaced.
+
+“It’s okay. I’m quick and—”
+
+“No, Aika. We have to be smart. I don’t care if I can bring you back, I’m not letting you die.” Kindra shook her head. Creeping down the passage, she heard the sound of water. There’s water in here? She crept forward and peered out of the narrow tunnel. The cave opened up, revealing a large gap in the stone. Jagged ledges lined the walls, and a small stream flowed through the bottom of it, leading somewhere. At least I know how to get out.
+
+Kindra crept forward and felt her mana.
+
+[Your mana has increased: 293 → 302.]
+
+Well, it’s not enough to make bolts and seal this. We’ll have to camp here. Focusing on the floor, she frowned. I need doors. If I can’t open this, we’re screwed. Creating a picture in her mind, she imagined stone doors that she could slide open and shut. Adding small grates to the top and bottom, she pushed on her mana, triggering Transmutation and willing the picture to take shape.
+
+Stone flowed from the walls and floor, coalescing into stone doors and leaving grooves behind. Is this why their village was stone? Did they use this skill? Reaching forward, she slid the doors into place and looked at Aika. “Aika, can you eat raw meat?” She walked over to the cat carcass.
+
+“Sounds gross.” Aika stuck out her tongue.
+
+“It tastes amazing, like spicy meat.” Kindra gestured to her bag. “There’s some fruit in my bag. You should eat it before it goes bad.” She sat down and cut open the cat, slicing off meat and eating it raw. This is my life now. Random magic? She paused. Can I use it to get back to Earth? I could theoretically make a wormhole device. I just need to map my location, make a ship, and then jump back… Maybe magic could help me do it. She gnawed on the meat.
+
+“Kindra?” Aika asked, cutting off a piece of fruit.
+
+“Sorry. Thinking about Earth… Is the ship here?” she asked herself and Aika at the same time.
+
+“Maybe?” Aika studied Kindra. “Is that your body?”
+
+“I think so.”
+
+“Then we need to find it.”
+
+Kindra nodded and ate another chunk of meat. Add that to the list. Just need to survive this dungeon thing, find the dwarves, and deal with whatever pulled me here. She grimaced and then paused. Why did that thing know my name? And why did it call me daughter? She swallowed another bite and shook her head. Strange.
+
+Aika looked up. “Kindra, what are we going to do?”
+
+“We need to find out if others survived and find out what’s on this planet. Then we can try to find Earth.” Kindra looked at her. “Do you remember what routines triggered?”
+
+“Collision protection protocols activated. I remember that. So, some of the tech should have survived it.”
+
+Kindra smiled. “So that’ll be the focus… we just have to survive first.”
+
+Eating a final bite, she burned the rest of her mana on the wood she’d gathered, making a large bundle of bolts. Pulling out the blankets, she wrapped herself in one and sat against the wall. Aika snuggled up to her.
+
+Kindra stared at the stone, looking down. “Aika? What was it like to die?”
+
+“Strange. I saw another fairy.” Aika shrugged.
+
+“Another fairy? Do you think there are others here?”
+
+“I hope so.” Aika smiled. “What do you think the dwarves are like? Do they have magic forges where they make amazing things?” Her eyes twinkled. “We could use them to save Earth.”
+
+“I hope so,” Kindra whispered. “I really hope so.”

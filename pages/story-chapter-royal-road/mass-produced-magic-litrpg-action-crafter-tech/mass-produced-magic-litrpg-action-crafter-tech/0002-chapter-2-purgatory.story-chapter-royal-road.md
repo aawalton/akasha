@@ -1,0 +1,221 @@
+---
+id: 76adcead-eff6-5432-b025-198690165546
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 – Purgatory"
+slug: 0002-chapter-2-purgatory
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 2
+ownLength: 2379
+unit: words
+publishedAt: 2024-11-16
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908012/chapter-2-purgatory"
+royalRoadId: "1908012"
+---
+
+Pain. It was her constant. Everything hurt, and the world was shrouded in darkness. Kindra looked out at the void, her heart racing and panic building. Why is there nothing? Did I go blind?
+
+Blinking, she tried to see anything, to smell anything. Nothing. Why is there nothing? The darkness pressed around her, suffocating, though she could somehow breathe. Panic grabbed her throat. Am I dead? She forced out a shaky, “Hello?” The hollow sound barely reached her ears before it faded, the void swallowing it.
+
+“Please,” she whimpered, and nothing happened.
+
+A sense of dread filled her. Did the entire fleet die? Memories of the ships and the wormholes filled her mind. We’re all dead, aren’t we? She slumped to an invisible floor and cried, tears rolling down her cheeks.
+
+Time passed fitfully. Images of the crew, Earth, and her friends floated through her mind. Her dread and grief slowly drained, lost to some time that she failed to sense.
+
+Resigning herself to her fate, she waved her hand through the darkness. “God? Are you out there?”
+
+As if in response, glowing runes flickered to life. They drifted and pulsed like little stars. Squinting, she moved closer to one and studied the intricate symbol. These were on the computer.
+
+It ignored her, pulsing softly. “Am I dead?” she asked it, and the runes gathered around her, pulsing with soft light and lighting up her body. That made them move? She leaned closer. They are sort of pretty. She waved her hand through one and felt agonizing pain burn through her palm.
+
+Jerking her hand away, she stepped backward and felt runes slam into her back. It burned. Agony lanced down her spine, and a scream ripped from her throat.
+
+The pain grew worse, and the runes turned a vibrant red. The metallic smell of blood filled the air, and she jerked forward, hitting other runes. Pain lanced through her.
+
+Pulling back, she looked for something—anything to protect herself. God? Please?
+
+The runes pulsed again, brighter this time. They grew in size, turned red, and moved closer. Agony came with it. Her arms lit on fire, and the taste of blood thickened in her mouth.
+
+Turning away, she fled, and the agony followed. It grew with every step. Her breath came in ragged gasps, and she clawed at her burning skin. “Please,” she choked out. “God? Please?”
+
+The runes appeared around her, and dismay filled her. What do I do? She looked up. “Please!” she screamed.
+
+No answer came. The silence was as endless as the darkness. She fell to her knees and pulled herself into a ball, the unending pain crashing into her with each pulse of the runes. I’m in hell, she thought numbly. This has to be hell.
+
+Closing her eyes, she lay there. Time ceased to have meaning as the pain surged to newfound heights before ebbing away, leaving her with nothing but the runes. They streamed around her. A language just out of reach, and a hell that had engulfed her.
+
+Sorrow gave way to anger. Anger gave way to despair. And despair gave way to grim acceptance. Acceptance of the runes that now imprisoned her. Acceptance of the void and acceptance of her hell.
+
+With nothing else to do, she studied the symbols, and patterns slowly emerged. A familiarity grew as the runes repeated, and the unknowable language didn’t seem as mysterious. Parts made sense, and some seemed the opposite of others.
+
+Lying there, she waved her hands through the runes. If I figure you out, will you let me out? She sat up and sighed, letting out a long breath. “God? Satan? Someone? Please. I don’t want to be here anymore.”
+
+Neither answered. The runes continued pulsing through their pattern, and rage filled her once more. Glaring at them, she grabbed at one, pushing every bit of her will into it and demanding it stop.
+
+The rune flickered like a blown candle, and she gasped. It snapped back into place and drifted by as if nothing had happened. Wait...
+
+Her eyes widened as the realization hit her. I can bend them. She watched the floating symbols with renewed focus, picking one out and willing it to change into another.
+
+The rune resisted, wavering as though alive, and she pushed harder, forcing it to take the shape of another. It distorted and then snapped back into position, leaving her with a throbbing headache.
+
+Kindra ignored the headache and tried again, willing it to take the shape of a rune that looked opposite. The rune shook and bent. She exhaled and slammed her will into it. Break!
+
+The rune shattered, light spilling across the floor like liquid fire. It hung there, and it stayed there. Delight spread across her face. Yes. She grinned, adrenaline surging through her veins. One by one, she reached for more runes, slowly breaking them.
+
+With each broken rune, the place lit, and the darkness trembled. Grabbing another, she shattered it. Light poured out of it. Wind whipped through her hair, and something thumped—soft, like a heartbeat.
+
+“Svel’kal!” some woman shouted, her voice echoing through the place.
+
+“Yeah, well, screw you!” Kindra shouted back. With a smirk on her face, she waited for the next batch. They appeared, and she resumed her work, shattering runes with a triumph blazing through her mind and heart.
+
+The voice shouted at her again, and Kindra waited for the next one. “Come on. Feed me another,” she yelled upward.
+
+“Interesting. Want to do me a favor?” a masculine voice asked.
+
+Kindra jerked, tumbling over and landing in a heap. Looking up, she saw a young man with messy black hair. Wearing a t-shirt and jeans, he looked like a young college student. He held out his hand.
+
+Who is this guy? Kindra struggled to process it, moving her hair from her eyes and blinking at him. He is there, right?
+
+He reached down. “Up you get.”
+
+“Are you real?” Kindra asked, taking his hand and pulling herself up.
+
+“Yes.”
+
+“Who are you?”
+
+“Death, God, or whatever you want to call me,” he said. A desk appeared in front of him, and he sat at it.
+
+She studied him. Did I finally die? Thank god. She looked at him and blushed. Glad he didn’t hear that.
+
+He looked up and chuckled. “Sit down.” He gestured to the chair.
+
+Not knowing what else to do, she walked over and sat on it. “So, I’m dead?”
+
+“Your spirit is fine, and that’s what matters.” God smiled. “Now, I’m going to help you, and you’re going to help me.”
+
+“How?” Kindra asked, running her fingers along the wooden chair. I can feel something. Joy flooded her as she ran her fingers along the polished, cool wood.
+
+“I want another anchor point for this spell.” He grinned. “And you’re an ideal one.”
+
+What the heck does that mean? Kindra had no idea what it meant. “Will you let me out?”
+
+“Yes.” He gestured, and a computer appeared. Unlike everything else around her, the text was in English. “Review that for me.”
+
+Kindra leaned forward and studied the code. This is Aika’s code… no. He changed it. She sat in front of the terminal and studied it. “Is my spirit trapped somewhere?”
+
+“Yes, and I’ll help fix that.” He gestured, and runes appeared around him.
+
+“Why have me do it this?” Kindra asked, looking up for the code. “You clearly know more than me.”
+
+“Something for you to do.” He smiled, the smile containing some hidden depth to it.
+
+Strange.
+
+“Consider it a learning opportunity.” He turned back to his work. A surge of runes filled the air.
+
+“What do they mean?” Kindra asked, looking at the symbols.
+
+“Consider them a quantum programming language.”
+
+Kindra leaned closer. Some were new, and they shone a vibrant, blinding white. She felt their heat as she stuck her hand closer. “And I can see them?”
+
+“Yes. That’s why I made the offer.”
+
+She started reading the code, studying the strange changes he’d made. A few places shifted into the runic language that she failed to understand. She searched for patterns and began to see some repeating symbols. Minutes turned to hours. Hours seemed to turn to an eternity. She lost her sense of time.
+
+Jerking up from the dizzying pattern that swirled out of reach, she looked at the young man. “Are you sure this isn’t some hell? You can tell me.”
+
+“It’s more like a purgatory, and I will get you out of it.” He looked up. “You have my word.”
+
+“How does being God work?” Kindra asked.
+
+“Not today, Kindra.” He went quiet. “And I’m almost done.” Runes flooded through the air.
+
+A strange, uncomfortable warmth came with them. Kindra worked and felt a dull ache growing through her body. Please tell me he isn’t the devil. She looked at the runes. They pulsed like stars. Those are impressive. Reaching out, she waved her hands through one, and text popped into her vision.
+
+[System 3.14 install in progress. Please wait.]
+
+“What’s a system?” Kindra asked. And how is it talking to my brain?
+
+“An aid for sapient life who have direct contact with the powers of creation. You’re an anchor point to help spread it.” Death didn’t look up. “It’ll speed things up.”
+
+Kindra raised a brow. That’s wild.
+
+“So, you’re Death?”
+
+He nodded.
+
+“Are there other Gods?”
+
+“Sorry, Kindra. This isn’t a lesson on the divine. I’m just making things easier for everyone.” He stood and gestured. Her computer exploded, turning into a ribbon of glowing runes. They burned into Kindra’s eyes, fiery suns that filled the entire space with light.
+
+“How do I learn what they mean?” Kindra whispered.
+
+“You’ll figure it out.” He looked up. “Don’t break it, though. If you do, I’m adding you to my list.”
+
+Kindra blushed, and runes streamed through her, burning with the same intensity as the first day. Her mouth dropped. She dove, and the runes turned into a glowing ball of light. It stood there, radiating fire and light.
+
+[System 3.14 install complete!]
+
+Death looked at her and grinned. “Make your choices wisely and all that.” He waved and vanished.
+
+Kindra stood there, surprise on her face.
+
+[Base Class Selection Unlocked. Please select a class: ‎ - Artificer (Tier 4): You will acquire abilities related to crafting. +2 Intelligence per level. ‎ - Necromancer (Tier 3): You will acquire abilities related to undeath and decay. +1 Intelligence and +1 Spirit per level. ‎ - Blood Mage (Tier 3): You will acquire abilities related to harnessing the power of your blood and the blood of others. +1 Stamina and +1 Spirit per level. ‎ - Thief (Tier 2): You will acquire abilities related to acquiring goods, dextrous combat, enhancement, and physical combat. +1 Agility per level.… ‎ ]
+
+She ignored the text. Dropping to her knees, she looked up, the panic surging. She’d be stuck here. Again. Forever. An eternity of nothing but the symbols.
+
+Her panic grew with every passing moment. They ticked by like glacial agony. The silent space remained, and she looked at the computer. The only thing that she could even understand. Her eyes watered. “Death, please.”
+
+[Pick your class. Study the computer, and smash any runes you see. I’ll get you out from there. ~Death]
+
+She took a deep breath. Okay, I can do that. Text appeared in front of her face once more.
+
+[Base Class Selection Unlocked. Please select a class: ‎ - Artificer (Tier 4): You will acquire abilities related to crafting. +2 Intelligence per level. ‎ - Necromancer (Tier 3): You will acquire abilities related to undeath and decay. +1 Intelligence and +1 Spirit per level. ‎ - Blood Mage (Tier 3): You will acquire abilities related to harnessing the power of your blood and the blood of others. +1 Stamina and +1 Spirit per level. ‎ - Thief (Tier 2): You will acquire abilities related to acquiring goods, dextrous combat, enhancement, and physical combat. +1 Agility per level.… ‎ ]
+
+She studied the symbols. “System, what do the tiers mean?”
+
+[Tiers are based on the number of assignable attribute points acquired at each level.]
+
+Kindra looked at them. “So Artificer gives me four attributes? Necromancer gives me three? Like a video game.”
+
+[Yes. That’s correct.]
+
+Looking down the list, she willed the others into view and saw tier two and one classes more suited to a medieval setting. Well, I do like making things, and it is the strongest class. She picked Artificer without another thought.
+
+[Artificer Selected. Please confirm.]
+
+“Is this a video game?”
+
+[The system is designed to guide your magical growth. It is not a game.]
+
+“What’s magic?”
+
+[This data is unavailable. Would you like to submit a ticket?]
+
+“Yes.” She sighed. “Are the runes magic?”
+
+[Yes.]
+
+“Is there a guide for new people?”
+
+[This help document is unavailable. To create a ticket, please confirm.]
+
+“Confirm.” She watched as a beam of light lit the area. It flowed into her, and relief spread through her. This is new at least.
+
+[You have acquired the Artificer class.]
+
+[You have acquired the ability: ‘Enhance Item.’ Imbue magical runes onto an item, unlocking additional potential. These runes will fade in time. Mana and materials affect rune strength and duration.]
+
+[You have acquired the racial passive: ‘Empowered Blood.’ You may use blood as a reagent in crafting.]
+
+[You have acquired the racial passive: ‘Runic Sight.’ You perceive magic and runes.]
+
+Humans have empowered blood and runic sight? She shook her head. It didn’t make sense, but she’d take it.
+
+Looking at the darkness around her, she frowned. Time stretched by at a glacial pace, and impending dread filled her with every soundless minute.
+
+The silly runes reappeared, and she promptly broke all of them, shattering shards of light around her. Pausing, she looked up. Death? Please? A pillar of light engulfed her. Pain came with it, blossoming in her chest in exquisite agony. Gasping, she looked up and was launched into the light.
+
+Reality hit her like a truck. Pain wracked her body, and she failed to scream. Her lungs refused to move. It felt like she was drowning. The metallic scent of blood filled the air. Blurs surrounded her, and everything went dark.

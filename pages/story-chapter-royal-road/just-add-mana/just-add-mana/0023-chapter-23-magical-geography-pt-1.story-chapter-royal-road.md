@@ -1,0 +1,303 @@
+---
+id: 71eb5fca-a447-5328-9d72-c79cbd970386
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23 — Magical Geography, Pt 1"
+slug: 0023-chapter-23-magical-geography-pt-1
+partOf: just-add-mana
+position: 23
+ownLength: 4854
+unit: words
+ownProgress: 4854
+publishedAt: 2025-08-19
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2530653/chapter-23-magical-geography-pt-1"
+royalRoadId: "2530653"
+markedReadAt: "2026-06-29T18:48:19.279Z"
+---
+
+It didn't take long for the two of them to make their way back to the academy. Akkau surprised Cale by insisting on accompanying him all the way to the classroom, located somewhat awkwardly right along the border between the Astral and Forest Wings. Some sort of supplementary class for Astral Wing students, perhaps? There was a near-identical classroom right next to it decorated with the same array of golden diagrams all over its walls.
+
+The only difference was that there were additional diagrams layered carefully on top of the existing ones for the version of the class that was held in the Astral Wing. Cale eyed it curiously for a moment—as far as he could tell, those diagrams didn't hold mana, but they were definitely interacting with it.
+
+"Is that some sort of non-magical ward?" Cale was almost immediately interested. "How's that work?"
+
+Akkau raised a brow at him. "I am surprised you noticed," he said after a moment. "Unfortunately, Professor Sternkessel's secrets are not mine to tell... though yes, I suppose you could call them that."
+
+Cale was suddenly very excited to meet this Professor Sternkessel. Manipulating mana without magic? He'd encountered a few esoteric arts in his time, but whatever this was made the few tricks he knew look like child's play. It looked almost like it took advantage of the natural flow of mana, somehow.
+
+Unfortunately, as far as he could tell, there was no Professor Sternkessel in sight. Instead, there was a large throng of students standing around outside the locked door of the classroom. Cale could almost feel Akkau glowering at it.
+
+"I would tell you to ask him yourself, but it appears that he is late again," Akkau muttered darkly, mostly to himself. "What a surprise."
+
+There was... definitely some history there.
+
+Ah well. Cale wasn't too worried about it. He was more interested in finding Leo and Damien, since Akkau had said they would be here.
+
+It didn't take him long. He found them huddled together farther down the hall, far away from the main group of other students and whispering to one another. They both jumped when they saw him and Akkau approaching and immediately began talking over one another.
+
+"Cale, what was that? Are you okay? Why are you still coming to class?" Damien looked both terrified and worried, which was sweet of him. Cale wasn't used to people worrying about him after that kind of thing.
+
+"Headmaster, I need to talk to you about Professor Imrys," Leo said at almost the same time, standing up to his full, intimidating height.
+
+...Unfortunately for him, he was still a little shorter than Akkau was, so it didn't have much of an effect.
+
+The Headmaster, to his credit, didn't seem surprised or offended by Leo's attempt at confronting him. Instead, he sighed. "I am aware of your concerns," he said, not unkindly. "Unfortunately, as I am sure you are aware, I have important matters to attend to for now. Rest assured I am taking your needs into consideration. Perhaps speak to Cale on it? My apprentice may have a solution for you."
+
+Cale shot Akkau a betrayed look, but the dragon simply pretended not to notice. He gave them a regal nod and then turned to head back to his office, taking the blood obsidian box that held Cyte back with him. Cale had suggested that earlier—if he had to attend classes, then it was best the Headmaster take it so he could ask his questions when Cyte woke up.
+
+Besides, he didn't really want to lug the voidcyte around all day. He needed to get some sort of storage artifact as soon as possible, really. Maybe if he could convince Syphus to follow him around...
+
+"What does that mean?" Leo asked. There was an edge in his voice, and when he turned to Cale, his expression was intense. Cale winced. "Do you have a way for me to fix my core?"
+
+Cale held his hands up defensively. "First of all, Akkau just threw me under the bus," he said. "I don't just have a solution for everything on hand."
+
+Leo blinked, momentarily thrown. "...What in the eight infernal realms is a bus?"
+
+"Seven," Cale said automatically, making Leo twitch. "And don't worry about it."
+
+Honestly, he wasn't even sure he remembered what a bus was. He was pretty sure they existed, though. And that he'd used the term correctly.
+
+"Second," Cale said. "That's a long conversation that we really shouldn't have here. I didn't say anything before because I didn't think you were ready to hear it, and honestly, I'm still not sure if you're ready to hear it."
+
+A look of frustration flitted across Leo's face. "So you do know something," he said. "I don't think that's something you should get to decide for me."
+
+"And if I just tell you your core isn't broken?" Cale asked. He kept his voice steady—he wasn't trying to destroy the poor minotaur, after all. "What if I say you shouldn't try to fix it?"
+
+Leo flinched. His fists clenched, tightening reflexively until his knuckles turned white; Cale wondered briefly if he was going to lash out. Damien certainly seemed worried he was going to. He reached out to put a steadying hand on Leo's shoulder.
+
+Thankfully, Leo did nothing more. He just stood there for a moment, fists clenched, then eventually forced himself to breathe out and relax his hands.
+
+"I... would want to know why, at least," Leo said carefully, though he clearly struggled to say even that.
+
+Cale tilted his head. That was a surprise. He'd expected Leo to lash out more than that. He studied the minotaur for a long moment, then nodded to himself, satisfied.
+
+"After class, then," he said. "I'm planning to go see Izzik and someone else after class. You could come with me?"
+
+Leo seemed shocked that Cale changed his mind so quickly. He opened his mouth, then closed it again, brows furrowing. "We also need to figure out what's happening in Damien's room," he said, glancing at the dreadshade in question uncertainly.
+
+"Something happened to the room?" Cale asked, blinking.
+
+"It's the reason we came to visit the Headmaster's office in the first place," Damien said quietly. "I guess we kind of forgot, because of... uh, you know... but yeah. You know how you said there was a secret passage?"
+
+"Did it activate?" Cale grabbed Damien by the shoulders and stared at him intently; the dreadshade reacted by making a sound not unlike a squeak, and Cale promptly released him and coughed.
+
+"Um... sort of?" Damien answered after taking a second to collect himself. He shrugged helplessly. "There's a door there now, but... it's the door from the Karmian Labyrinth. The one with the warning about the shadelings on it."
+
+"Oh." Now that was a surprise. Cale wasn't sure what to make of that. He'd been hoping the passage would lead somewhere new and secret. The Karmian labyrinth wasn't exactly new, but it probably did have more surprises in store for him, which was probably good enough.
+
+After ruminating on this for a moment, he thought of something and cocked his head. "Wait, does that mean Imrys managed to bind the labyrinth to the academy?"
+
+"I guess?" Damien frowned. "Is that important?"
+
+"Not important, exactly, but it's pretty advanced magic." Cale didn't quite manage to hide his sudden interest, going by Leo's somewhat judgemental look. "Look, don't worry, this kind of spatial integration is harmless. Could be undone pretty easily if we want it. But we shouldn't, for reasons I'll explain later."
+
+He gave Leo a significant look, and the minotaur folded his arms across his chest, looking like he wanted to protest. He didn't, though. Instead, he forced himself to relax with a sigh.
+
+"Fine," he grumbled. "We still need to do something about it though. At least hide the stupid thing. Nala Whiteleaf saw it."
+
+Cale blinked again, now thoroughly confused. "Really? How'd she end up in our room?" he asked, glancing between Leo and Damien. He didn't actually know how old either of his friends were. A thought struck him, and he made a face. "Wait, do I want to know?"
+
+"I-It's not like that!" Damien yelped, looking scandalized. "I mean, she just... found us? And then insisted we show her what we could do or something. I don't really understand it, but she offered us Forest credits, and we kind of need those, so..."
+
+The poor dreadling didn't seem like he knew how to explain that whole sequence of events. Cale didn't blame him; it all sounded very confusing. He also still needed to get them to tell his friends to tell him what was up with that credit system; "redeem political favors from the Kingdom of Orstrahl" could mean a lot of things.
+
+"Clearly, there's a lot I need to catch up on," Cale said, running his fingers through his hair and shaking his head. "Is anyone at least keeping an eye on her?"
+
+"Everything in our room is warded, and Flia's going back there once she finds a mage to help bind her shadeling," Damien offered. "We don't even know if she's still there. She might have gotten bored of waiting."
+
+Cale thought about this for a moment. "Eh, good enough," he said, shrugging. "We can go back to our room after we make the visit and figure out what to do then; I'll try to be quick. Is Izzik being kept far from here?"
+
+"He's in the Vital Wing," Leo said. "It's a bit of a walk, but there's a shortcut we can take to get there."
+
+Damien looked up, and some sort of silent conversation passed between him and Leo. "Are you talking about... the thing?"
+
+Cale perked up.
+
+"Yes." Leo nodded. "It's the fastest way there."
+
+"I wish I could check out the thing," Damien muttered. "I can't believe Cale is going to get to see it before I can."
+
+Leo patted Damien on the head. "You'll get there eventually," he said, his voice encouraging. "You just need to figure out that cloak of yours. Then you can come see the thing with us."
+
+"...You're both absolutely messing with me, aren't you," Cale said, deadpan. "You realize I'm going to spend the entire class wondering what the thing is?"
+
+"And we're going to spend the entire class wondering who you are," Leo retorted. "Seems fair to me."
+
+Cale opened his mouth, then closed it again. He rolled those words around in his head. Then he let out a sigh. "You know any answer I could give you isn't going to satisfy you, right?" he asked, grumbling. "...I hate that you have a point. And I still can't believe you're doing this to me."
+
+It was kind of surprising to him, really. It was true that Leo and Damien had already seen him deal with both the shadeling queen and the chimera, back in the maze, but it was rare that he met anyone willing to treat him completely the same after what he'd pulled with Sneaks-In-Darkness.
+
+Not that it had slipped past them entirely, either. There was a glimmer of something when they looked at him that wasn't there before. Fear, maybe, or just a better understanding of what he was capable of.
+
+It didn't stop them from snickering at the look he gave them, though. Which was perfect! If only all the people he met were this good at pretending to treat him just like anyone else.
+
+"Speaking of class," Cale said. "When is it starting, anyway? I don't see the professor anywhere. Unless he's invisible?"
+
+"Why would he be invisible?" Leo stared at him. Cale shrugged.
+
+"Some people like being invisible," he said. "It's very comforting! And good for the skin, believe it or not."
+
+"Um..." Damien spoke up before Leo could contest that claim. He fidgeted slightly as he spoke. "No, it's just that Professor Sternkessel is late sometimes."
+
+Leo snorted, and Damien amended the statement. "He's late, uh, very often actually. But don't worry! He'll be here soon, and, uh... then we'll start class?"
+
+He didn't even sound certain about class starting. Sternkessel definitely had a reputation. Cale squinted a little, then directed his attention once more to the other Astral Wing students—this was the largest group of them he'd seen, even if there still weren't that many. Six others, aside from him, and every single one of them had a unique mana signature that made him want to ask a thousand questions.
+
+Maybe he should. Just to level [Blabbermouth]. Surely the Gift would be happy about that? Among the students, the ones that stood out most was what looked like a fabric elemental of some kind, a furnace-golem of the kind usually used in forges, and...
+
+Cale paused.
+
+"Guys," he said. "Is it just me, or is that—"
+
+Damien turned to look at what he was staring at and immediately clamped a hand over Cale's mouth. "Don't," he said.
+
+"What?" Cale protested indignantly, pulling his face away from Damien's hand. "I'm just saying, I'm pretty sure that's—"
+
+"No, really, don't," Leo cut in, also putting his hand on Cale's face.
+
+"Stop putting your hands on my face!" Cale complained. "You're both acting like something bad's going to happen if I say it. They're not going to hear me from here."
+
+"They absolutely will," Leo deadpanned. "And if you must know, they have a clone-attuned core that isn't very well controlled. I promise you, you do not want to say it."
+
+"Fine," Cale grumbled.
+
+He really did, though. Really, telling him not to say anything was worse. Now he couldn't think about anything but saying something. How much harm could it do?
+
+Bah, He'd try to control himself for now. At least the clone attunement explained things somewhat.
+
+Not enough, though. He really wanted to know why one of those students was just three kobolds in a trenchcoat.
+
+It was another five minutes or so before Professor Sternkessel finally showed up, and when he did, he instantly caught Cale's attention. Mostly because Cale had no idea what he was looking at, and that almost never happened.
+
+Well, it happened a lot, actually. The multiverse was a big place. But still! It was getting rarer and rarer these days, and whatever species the professor was, it wasn't one Cale had seen before. He would have guessed him to be some sort of golem if not for the fact that his mana core seemed to be entirely natural.
+
+The professor was impeccably dressed in a blindingly white suit trimmed with gold and embellished enough to rival even the peak of elven pretentiousness. That part Cale was fine with—he could appreciate a man with a good sense of fashion, after all.
+
+He had a little more trouble with the fact that the man appeared to have a floating armillary sphere in place of a head.
+
+Not only that, but Sternkessel's mana core was in the center of that sphere, of all places. Most people had their cores in their torso, not in their heads. It also felt far weaker than he would have expected, considering the level of all the professors he'd met so far, and was protected only by a thin layer of what looked like glass.
+
+Of course, that was followed closely by the layers of the armillary sphere, which was a complex series of interlocking golden rings that spun and rotated around the core. Cale doubted it was nearly as vulnerable as it looked.
+
+By all accounts, the sense he got from that mana core should have translated to Sternkessel being a weak mage, but Cale found himself studying the professor with caution anyway. And wasn't that interesting! It was rare his instincts warned him so directly about the danger another mage might pose.
+
+Utelia was just full of surprises, wasn't it? He couldn't wait to dig into them.
+
+Professor Sternkessel evidently noticed Cale's attention, because the rings of his head immediately spun to focus on him, giving him the rather distinct impression of being stared at. "You must be Cale Cadwell Cobbs," the professor said. "A pleasure to meet one so... distinguished."
+
+"Just Cale is fine," Cale said, distracted. Normally he would have questioned whether the professor was being sarcastic, but right now he was far more curious about the mechanics of how that head was supposed to work. He stood on his tiptoes, trying to peek at where the professor's neck was supposed to be. "Where are you even talking from? Do you have some kind of neck hole?"
+
+[Blabbermouth] has reached level 11!
+
+Behind him, Damien sighed, and Leo pressed his face into his hands. Cale heard the distinct sound of a minotaur desperately trying to suppress his laughter moments later.
+
+"It's a legitimate question!" Cale said, offended. How was this enough to trigger a [Blabbermouth] level? Surely it should have been getting harder to level by now.
+
+Professor Sternkessel, to his credit, seemed entirely unperturbed by Cale's remark. "Perhaps we should save the personal questions for after class?" he suggested smoothly. "Though I am aware you have other matters to attend to today. I can make my office open to you, if you like; feel free to visit any time you are available."
+
+"Good, because I have so many questions," Cale said immediately. Maybe he could squeeze in some time after meeting with Akkau? It wasn't like he needed to sleep much, and there were far more important things to do, like ask Sternkessel if he could spin the individual rings of the professor's head. Or if anything would happen if he kept rotating one of the rings.
+
+Also, how did he eat? Did he even need to eat? Had he never experienced the wonders of sourdough bread?
+
+"I can see you need a moment," the professor said dryly. "Alas, we do not have time for such dalliances. I understand your fascination, but I must ask we do this at another time, if it pleases you. I assume Akkau has informed you that I will be conducting a test to ensure you have what it takes to attend our academy?"
+
+The other students immediately began whispering among one another, casting wide-eyed glances at him. Cale was briefly distracted by, again, what was clearly three kobolds in a trenchcoat arguing with each other and gesticulating wildly. Everyone else was studiously ignoring the sight, which was ridiculous. The trenchcoat was bulging!
+
+"Uh, yes, he might have said something along those lines," Cale said, snapping back to the moment. Akkau had definitely said a lot of things, but he also didn't quite seem to like Sternkessel, for reasons Cale had yet to determine. He was probably a bit biased in how he was presenting him.
+
+Sternkessel seemed fine so far. A little eccentric, perhaps, but no more so than Imrys had been. If anything, he seemed like the most normal professor so far. And he hadn't so much as glanced at Leo or Damien, so Cale wasn't sure he was as biased as Akkau claimed.
+
+"Allow me to lay out the parameters of the test, then, so you understand what is at stake," Sternkessel said. He reached up to adjust one of the rings on his head, almost like he was adjusting his glasses. "In addition to being the professor for Magical Geography, I teach the Celestial and Spatial Resonance classes. You will not be allowed to attend either until I am certain of your proficiency. Are we understood?"
+
+"Perfectly," Cale said cheerfully. All that meant to him was that he'd get to see Sternkessel even more, which meant all the more opportunity to study the enigmatic professor. That he taught spatial resonance was even better—Akkau had said resonance was required to learn spells above the second tier, and spatial spells tended not to have any low-tier variants.
+
+"Should I be concerned about the expression he is wearing?" Sternkessel asked Damien, who started.
+
+"No?" Damien answered cautiously. "I think he's just like that."
+
+"I see." Sternkessel folded his arms behind his back. "Do you not have any questions, Cale?"
+
+Cale opened his mouth.
+
+"About the class," the professor clarified. Cale snapped his mouth shut again and thought for a moment.
+
+"Akkau said you wanted to test me on dangers unique to Utelia?" he asked instead.
+
+"That is correct." The professor gave him an approving nod. "You have proven yourself quite capable against dangers that you have context for, and your circumstances mean you have far greater contextual awareness than many of your peers. The celestial and spatial aspects, however, care very little for context. One must exhibit the capacity to adapt to new circumstances to be able to master them."
+
+Was it just him, or was Sternkessel beginning to sound kind of excited? The students around him, on the other hand, were beginning to look increasingly nervous. He was almost certain he heard Damien audibly gulping.
+
+Cale wondered if it said anything about him that everyone else's clear discomfort only made him more excited.
+
+To be fair, it had been a long time since he'd had the chance to really test himself. That whole thing with Sneaks-In-Darkness didn't count; he'd barely had to show off a fraction of what he was capable of to put her down. Magical combat rarely interested him, really.
+
+Now on the other hand, if Sternkessel was designing a test for him and had observed his classes with Imrys and Graystalk, there was a good chance that whatever test he concocted would actually let him stretch his wings a little. Though he supposed Syphus's presence during Graystalk's class might have disrupted any scrying attempts...
+
+Eh. If the professors were any good—and they were—then they could simply have observed his duel with Nala Whiteleaf through the academy's windows. Not everything needed a magical solution.
+
+"So what's the test going to be?" he asked curiously.
+
+"Perhaps it will be easier to show you," Sternkessel said. Cale didn't know how he knew, but somehow, he was almost certain the professor was smirking at him. Then he dipped his head in a slight bow, reached up to grasp one of the golden rings that made up his head, spun—
+
+—and between one second and the next, he and all the other students of Magical Geography were just... elsewhere. Cale blinked rapidly, startled. He hadn't felt the professor using any hint of magic, nor should any magic have been able to teleport him without his allowing it. He double-checked his barrier, just in case, and it was as strong as it always was.
+
+Professor Sternkessel had bypassed it somehow? Or... no. More likely what he'd done just hadn't counted as magic to his barriers, at least not in a way Cale understood.
+
+The professor was an out of context problem. For him! Cale had so many questions.
+
+Then his mana sense caught up with the rest of his senses. Cale took an almost involuntary step back, brows furrowing slightly—there was some sort of boundary in front of him, and while the immediate impression he'd gotten was that he was in front of a place of restoration, something about the mana felt off.
+
+Just beside him, Professor Sternkessel nodded in approval.
+
+"Good instincts," he said. Then, displaying a remarkable amount of physical strength for his relatively slight frame, Sternkessel placed a hand on his back and promptly shoved him forward through the barrier.
+
+He did the same for every other student in his class simultaneously, though the others were handled with simulacrums. Cale noted with some satisfaction that Sternkessel had reserved his real body to deal with him specifically.
+
+More interestingly, it also looked like they had been separated intentionally into three groups of three. Leo and Damien were with him, though they both still looked rather disoriented; Damien in particular clutched his cloak tightly around himself, clearly uncomfortable without the Astral Wing's suppressive wards around him.
+
+To Cale's surprise, though, he couldn't feel even a wisp of stray decay mana from his friend. Was the professor shielding him somehow? He had to be, or else Damien wouldn't have had any experience with these expeditions, surely.
+
+Before Cale could ask about it, Sternkessel cleared his throat, his voice booming all around them. He sounded entirely different now—cheerful, excited, anticipatory. Cale grinned. He recognized a mage in their element when he saw one.
+
+This was a professor that was truly passionate for the subject he was teaching.
+
+"Welcome," Professor Sternkessel said, "to the Inverted Spires!"
+
+Professor Graystalk sat in a magically sealed room in one corner of Kazix Brightscale's Academy of the Attuned Arts, watching the scrying mirror set into the far wall intently.
+
+Normally, he wouldn't be caught dead in the so-called Teacher's Lounge. As a general rule, Graystalk avoided the other professors as much as possible. He didn't dislike them, per se, nor was he exactly afraid of them—but he was a private man, and he preferred to keep other people out of his affairs. Many of the other professors were either eccentric or too well-meaning for their own good, and Graystalk simply didn't have the energy to deal with them most of the time.
+
+Especially Imrys, who struck him as missing a few too many screws to be allowed to teach in a magic academy.
+
+As usual, though, the Headmaster's word was final, and for whatever reason the dragon seemed to trust the little mousefolk. She did seem to have an incredibly sharp intuition. For all that she took almost no precautions when it came to her Ancient Artifacts class, their students never died during them.
+
+They had, however, sometimes emerged badly injured, mutilated, or cursed.
+
+Which was why it said a lot that he continued to remain in the Teacher's Lounge even with Imrys pressed up against his side.
+
+"Would you like a cookie, dearie?" Imrys asked, holding a crumbly biscuit up toward him. Graystalk wondered where she kept those things. Were they even fresh? She always seemed to have a few at hand.
+
+"No, thank you," he said shortly, trying to stay polite and move away from her.
+
+There wasn't much space to do so, though. Really, there were far too many professors here for his liking, but Graystalk couldn't really blame their interest. It was the whole reason he was here, after all, and it was the reason even the most introverted and reticent of professors had shown up.
+
+They all wanted to see how the new student dealt with Professor Sternkessel's test.
+
+The Inverted Spires were famed for being one of the most dangerous active magical anomalies across all of Utelia—more dangerous than even the most highly-ranked dungeons, which was saying something. But it wasn't dangerous because of mana quantity, powerful monsters, deadly spells, or anything of the like. If that were the sole criteria, then many of Utelia's dungeons would be more dangerous by sheer magical power alone.
+
+It was dangerous simply because it didn't seem to care how powerful a mage was. Many, many mages had tried to uncover its secrets, and many of those mages had died or gone missing. About thirty percent of them, in fact, across almost all tiers of power that had gone in.
+
+Professor Sternkessel was just about the only man in the realm that could guarantee a mage's safety, and up until now, he'd refused to provide his escort services. He'd certainly never used the Inverted Spires to test first-year Academy students, of all people.
+
+"I do hope you know what you are doing, Sternkessel," Graystalk muttered. He stared at the scrying mirror for a long moment. "Or perhaps I hope that Cale surprises us yet again."
+
+Graystalk frowned slightly as he spoke, then took a moment to examine exactly what he felt. He'd assumed initially that he was worried—he'd been against this particular test for Cale especially—but now that he thought about it...
+
+It wasn't that he wasn't worried. There was always the chance for things to go wrong, and the fact that the Inverted Spires didn't seem to care about the rank of the mages that explored it implied rather heavily that one of its anomalies either ignored magic entirely or scaled in danger to the mage's power. Professor Sternkessel's test had every chance of going wrong, and if it did, he wanted to be ready to try to intervene, even if his curse restricted him.
+
+But if he was being honest with himself, he was also excited.
+
+It was an old instinct, really. He hadn't paid attention to it in years because he hadn't felt anything from it in years. But he could feel it stirring now, a song of adventure he thought he'd long lost, and it spoke to him in no uncertain terms: Keep watching, Zeren Graystalk, and you might learn something new.
+
+Graystalk snorted. To think the human he'd barely known for an hour was already making him feel like he might learn new things. Yet he was here, wasn't he? And tolerating Imrys and the other professors, even.
+
+Some part of him, it seemed, had faith.

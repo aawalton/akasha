@@ -1,0 +1,121 @@
+---
+id: 7b078cd0-e73c-504d-965b-4310a8c192e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44: A Turn For the Worse"
+slug: 0227-chapter-44-a-turn-for-the-worse
+partOf: labyrinth-of-the-mad-god
+position: 227
+ownLength: 2268
+unit: words
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2626011/chapter-44-a-turn-for-the-worse"
+royalRoadId: "2626011"
+---
+
+At that point, the situation took a dramatic turn for the worse.
+
+As it happened, the Armada Wurm didn’t have three species of symbiotes dwelling inside its cavernous bulk—it had four.
+
+The slicers and stingers were numerous and agile, helping the wurm hunt flocks of small game. The bashers helped it devour bigger beasts, while defending the boss against creatures that were powerful enough to pierce its hide.
+
+The fourth species was a pair of slumbering protectors—powerful elites the wurm only roused when its life was in danger. With its escape thwarted and the odds of taking a critical injury rising by the heartbeat, the Capital Boss was ready to play its ace in the hole.
+
+Accompanied by an intense surge of mana, the creatures hibernating inside its body began to stir, forming massive bulges along its skin that moved toward its head and the world of light beyond.
+
+After executing a furious flurry of tongue attacks that drove Nick’s party back, the armored wedges shielding the wurm’s face opened wide, revealing the dark tunnel of its throat.
+
+Team Earth rallied and pressed the attack, trying to end the fight before reinforcements arrived, but they couldn’t peel back its hide in time. A swath of tissue parted along one side of the wurm’s gullet, creating a passage that led to another chamber deep inside its body.
+
+Through the slimy mess slithered two elephantine creatures—pale bodies swelling as they emerged onto the ice. Kenji swore while ordering the kill team to pull back until they knew what they were dealing with.
+
+At first, Nick wasn’t sure what he was looking at, but when the towering creature slid free from their host and spread out to defend its flanks, he was able to put the pieces together. Those aren’t insects; they’re giant slugs. Nasty.
+
+While this was a disheartening development, Team Earth wasn’t going to watch enemy reinforcements appear without doing something about it. A hail of ranged attacks and offensive spells rained down on the boss’s position, including a few shots from the siege engines.
+
+The newly arrived beasts proved to be remarkably durable—dense hides repelling both arrows and elemental attacks. Size Up was wailing like a banshee, warning Nick that these creatures were deadly combatants that could give Earth’s elites a run for their money.
+
+The skill informed him that the beasts didn’t have an obvious weakness. They were resistant to both physical and magical attacks and could deal damage at range over a wide area. If that wasn’t enough to deal with, after leaving the wurm, the slugs’ skin started secreting a powerful acid. A sticky solvent that would dissolve flesh with ease and destroy any weapons that weren’t modified or enchanted to resist it.
+
+He passed on what he’d learned to Kenji so the strategist could use Tactical Command to inform the other teams. The only bright spot in all this was the ranged units were keeping the wurm and its guardians distracted, but they were burning through their energetic reserves and couldn’t maintain the barrage much longer.
+
+Nick’s party regrouped, getting a better sense of what the slugs could do while waiting for Kenji to come up with a plan. He tried hitting them with Mana Darts and Piercing Rays, and while both spells did some damage, it wasn’t enough to bring the beasts down. He continued casting, pumping one of the slugs full of darts to disrupt its vital energy. His magic was impeding the beast, but it wasn’t going to kill the creature anytime soon.
+
+Shit. He downed his final mana potion, refilling his core to the brim. I don’t have enough mana to deal with these defenders and finish off the wurm. Not that I can get close enough to carve into the boss with these slimy bastards blocking my path.
+
+As if responding to his train of thought, both towering elites turned to spew a thick spray of acid. One was angled toward Nick’s party, but the other flew over a hundred feet into the air. His group was able to dodge the attack, but the rest of Team Earth was still battling the army of slicers, stingers, and bashers. The stream of solvent arced high before spilling across one of the fortified hillocks, engulfing everyone who was fighting nearby, including the wurm’s own forces.
+
+The warriors screamed as gear smoked and flesh bubbled—the white of bone visible through their dissolving tissue. Nick watched on in horror—certain that he was about to witness Team Earth’s first deaths in the fight. However, he had underestimated the strength of their supportive elements.
+
+Barriers sprang into existence to protect the wounded fighters, blocking the next two acid sprays the slugs sent their way. As the ranged specialists burned through the dregs of their reserves to distract the creatures, a mage cast a spell that turned the sizzling solvent into water. Then someone used a powerful consumable that affected a wide area, causing the warriors’ molten tissue to pull itself back together.
+
+It looked like despite the close call, they were going to be okay, but the attack revealed just how deadly these new arrivals were.
+
+The acid-spewing slugs had reversed the momentum of the battle, plunging what had been an almost certain victory back into the murky depths of uncertainty. The mages couldn’t raise enough barriers to block every attack, and the closest teams were forced to abandon their fortified hillocks, putting more pressure on the rest of the battlefield.
+
+Of course, the Armada Wurm wasn’t idle while all this was taking place. It had begun battering the ice with its tongue, trying to reach the soil below so it could submerge—an event that would result in humanity’s loss, even if they defeated the rest of the horde.
+
+Kenji and Ella were trying to stop the tongue, but acid attacks from the slugs were driving them back. The rest of the kill team was pulling on the hide flap to create a weak point, but between the solvent sprays and the wurm’s bucking and writhing, they weren’t going to make it in time.
+
+In that moment, their defeat seemed to be forgone conclusion. Despite Team Earth’s extensive preparations and solid execution, Nick couldn’t see a way to salvage the situation in the handful of heartbeats remaining. He fired Darts at the wurm’s tongue as fast as he could, doing his best to delay the inevitable.
+
+While they could handle any of these threats in isolation, neutralizing them all before the wurm escaped was in impossible task. Even Kenji couldn’t find a way out of this mess, and they were almost out of time.
+
+Defeating the Capital Boss is a challenge on par with the Guardian of Darkstone Tower after all, although the dynamics of this battle are completely different.
+
+The situation would have been unsalvageable it wasn’t for one critical detail—the Armada Wurm didn’t have a monopoly on late arrivals. Team Earth had one more elite numbered amongst its ranks who had been on Nick’s mind all day, and she was ready to join the fray.
+
+Just when defeat seemed as certain as dark following dusk, Bret pointed to the ragged slice of sky visible from the canyon floor and yelled, “What the fuck is that?”
+
+When Nick followed the man’s finger to where something massive was streaking across the heavens, he let out a whooping cheer. A refulgent wave of hope permeated every fiber of his being as he realized the battle wasn’t over yet after all.
+
+Devin dodged an acid spray, fired off a Flashfire Pulse without missing a beat, and provided the answer. “That, my friend, is reinforcements. Sophia the summoner has arrived on the battlefield.”
+
+V looked up when she heard the news, succinctly summarizing what everyone was thinking. “Holy shit. Sophia can fly!”
+
+Nick fired another volley of Mana Darts, freezing the wurm’s tongue for a few critical seconds while his errant friend made her move. He glanced up in time to watch Sophia make her final approach, which was, hands down, the most impressive entrance he’d ever witnessed.
+
+Surrounded by a buzzing swarm of frostfury wasps flew a vermillion eagle that was big enough to snatch up an elephant and carry it away. Riding the majestic beast was the bonefiend—Sophia’s xenomorph form.
+
+A flock of stingers broke away from the battlefield to engage Team Earth’s wayward champion, but the bugs didn’t move fast enough. The instant she was in position, Sophia leapt from her mount while dismissing the expensive summon, performing a plummeting dive from five hundred feet in the air—wrist-blades extended below her body like a sword-studded meteor.
+
+In that moment, time seemed to slow to a crawl, letting Nick make out each millisecond of her epic appearance in crisp, clear detail.
+
+After evolving to Grade-D, her bonefiend form had undergone some considerable changes—even more imposing than the last time Nick had seen it on the deck of the Bloody Surprise.
+
+Sophia still had a pair of swordlike protrusions jutting out from the back of her wrists, but her armor-plated body was smaller than before. Instead of looking like someone had pulled a sheet of molten plastic over a skeletal cadaver, the bonefiend now split the difference between alien warrior and monster girl.
+
+Her chitinous profile featured feminine curves, like she had merged with the demon living inside her rather than assuming its appearance. Her face was covered by an intricate series of interlocking plates, or maybe that was her face in this form, he wasn’t really sure. Size Up was certain that the bonefiend was considerably more powerful than before—a truth that was revealed to every creature on the battlefield when she struck the Armada Wurm like a falling star.
+
+Sophia hit the beast so hard the big bastard bounced, causing both warring armies to bow beneath the impact like waves upon a storm-racked sea. Her high-velocity strike punched straight through the wurm’s hide and bit deep into the tissue below. Amber blood splattered across her magenta carapace as the Capital Boss howled in pain.
+
+And that was only the beginning.
+
+The bonefiend continued its brutal rampage, clawing and stomping like a force of nature personified. The wurm’s tongue came whipping around, but she leaned out of the way like it was moving in slow motion, scoring two deep cuts with her wrist-blades along the way.
+
+She might have killed the creature then and there if the giant slugs hadn’t turned to face her while opening their orifices to fire.
+
+“Watch out!” Nick yelled. “Acid spray incoming.”
+
+Sophia heard him and leapt off the beast’s back, just in time to avoid two thick sprays of solvent. Unfortunately, the slugs’ aim was good enough that they only caught the boss in the periphery, causing its skin to sizzle but not dealing serious damage.
+
+They kept on firing, forcing the bonefiend to dodge instead of pressing the attack. Sophia evaded them with contemptuous ease, inflicting some light wounds along the way until she was driven back by the combined efforts of slugs, tongue, and the flock of stingers descending from above.
+
+Her wasps arrived a few seconds later, engaging the winged creatures in an aerial melee. The bonefiend wasn’t the only power that had received a considerable upgrade—her wasps were stronger too. The cerulean-striped bugs were bigger and meaner than ever, and most impressive of all, could now shoot their stingers to inject frost venom from range.
+
+Half the wasps made short work of the stingers while the rest started shooting at the acid-spewing slugs, leaving thick patches of ice encrusting their slimy bodies.
+
+Meanwhile, the bonefiend rebounded off the canyon wall and landed lightly beside Nick, summoning fresh troops the instant she touched down. As mana came streaming out of Sophia’s energetic core, a contingent of warrior roaches and spear-tongue frogs began growing into being. Bones, muscles, and veins appeared layer by layer, like they were being 3D-printed by an invisible machine in fast forward.
+
+Both species of summons had been upgraded too, but he didn’t get a chance to check out the details.
+
+Because that was when—right in the middle of the battlefield—Sophia wrapped her arms around Nick to share a tender embrace. He laughed in delight, returning her hug with everything he had. It didn’t matter what form she was in; he had missed her greatly over the last few weeks and was delighted to see her again.
+
+He was about to make a quip about how metal she looked, but he sensed that something wasn’t right. Somehow, her joy felt bittersweet. He had the impression that she was holding back an ocean of sorrow—like the gesture was equal parts “hello” and “goodbye.”
+
+He couldn’t read Sophia’s expression in this form, or even her body language, which made him wonder if his heightened Charisma was playing a role, or perhaps those points he’d put into Psi. Either way, this wasn’t the time to figure it out. Whatever is bothering her, we’ll talk it out after the battle, and I’ll do whatever I can to help.
+
+After one final squeeze, they let each other go—just as the summoner’s army finished forming.
+
+Kenji laughed as he speared a slicer, reevaluating the situation in the blink of an eye. He issued fresh orders with Tactical Command as the kill team fell into formation with the summoned beasts taking point.
+
+As the violinist played a vigorous tune he’d composed on the spot to be Sophia’s theme song, Nick gripped Blightbane and infused the sword with pure mana—ready to bring the showdown with the Capital Boss to its climatic conclusion.

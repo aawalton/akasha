@@ -1,0 +1,273 @@
+---
+id: 8d8b14b8-6fa0-5555-975c-db76cae12b7a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20"
+slug: 0021-chapter-20
+partOf: light-cleric
+position: 21
+ownLength: 3331
+unit: words
+publishedAt: 2021-07-04
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/710273/chapter-20"
+royalRoadId: "710273"
+---
+
+It snowed.
+
+The battle for Upton Port was over, and the Royal Army had lost. Night fell, bringing with it the gentle serenades of crickets, but they weren’t enough to drown the macabre caw of the scavengers. The remnants of the Royal Army camped on the hill they had crested to begin the whole bloody affair.
+
+All of it blanketed in a thin layer of snow.
+
+Piety sat on a precarious folding chair arranged in a small circle with others sitting in similar chairs. They were housed in a large tent lit with oil in glass lanterns. She’d been given a chance to bathe, and changed into comparatively clean clothes and robe. Temperance had brushed her hair and she’d done the same for Temperance. They wore their sunburst amulets against their almost white robes so that the scarlet symbol stood prominently.
+
+To Piety’s right sat Minerva Aegis. Piety had introduced her to this impromptu council as the Purple Prophesier. She had asked Minerva before the meeting began if she could use the reputation of the Purple Prophesier to make the army go home; Minerva had acquiesced.
+
+The others in the circle were two Lieutenants, the only officers who had survived the melee, the Quartermaster, and the Master of Fire-Arms, a new position created for the strategy and maintenance of the new weapons.
+
+The lieutenants were young, born of wealthy noble families from Kinswell, assigned to this detail with an experienced sergeant to learn the practicalities of command; both were in full military uniform: solid grey with brass buttons and purple markings of rank. The woman had her hair short in the standard military fashion. She looked well-muscled, if not as bulky as her male counterpart. The man was clean-shaven, though his face was young-looking enough that he might not need to shave every day. Both looked uncertain of themselves and kept looking to the Master of Fire-Arms.
+
+The Master of Fire-Arms was a tall, broad, imposing man with a bristling moustache. His broad chest strained his uniform, which was smudged with dirt and powder. His face was set in a perpetual scowl.
+
+The quartermaster was short, round, and soft. Most of his hair was greying fringe and his bare scalp was shiny. He wore a military uniform without markings of rank.
+
+Piety didn’t recognize any of them from Pinefort.
+
+The Master of Fire-Arms, who had introduced himself as Alexander Gohlen, cleared his throat, a sound like falling rocks, and stood up. “Well,” he said, “I think we all know what has to be done.” He looked at them, as though daring them to speak in opposition.
+
+Piety stood. “Perhaps you should tell us exactly what it is you think needs to be done.”
+
+Gohlen turned his glare upon her. “Though we managed to hold this hill—”
+
+“They never wanted the hill, you fool,” Minerva berated. She stood next to Piety. “The charge was only to hold you off while the rest of them took the port. They’re in the buildings now, they have the superior position. And short of burning down the entire town, you’ll never get them out.”
+
+Piety winced. She didn’t think the Master of Fire-Arms would see such a condition as a deterrent, and she didn’t want him entertaining ideas of razing an entire town.
+
+Gohlen sneered at Minerva. “You don’t fool me with those purple eyes.” He gestured curtly at Piety. “Magic tricks. You’re no prophet.”
+
+Minerva sat, cheeks flushing.
+
+“She speaks sense,” Piety said. “We can’t take back the city without burning them out.”
+
+“We’ll burn them out then. We’ll destroy the buildings with our demons.”
+
+“No,” said Piety. “We won’t. There are civilians in there. We’re not going to risk it.”
+
+“Enough!” Gohlen shouted, his face going red, Piety couldn’t help but take a step back. “You are children. You don’t understand the strategic importance of this hill or the port. What makes you think you can make such a decision?”
+
+Without taking her eyes from Master Gohlen, Piety said, “Quartermaster Wiktor what is the status of our supplies?”
+
+The Quartermaster made a surprised little sound before sitting up a little straighter. “Well, uh, unfortunately, we have more supplies per soldier than we did before the battle began. Because, you see…” And he glanced nervously at the Master of Fire-Arms, “Well, we lost two thirds of our forces.”
+
+“Do we have enough to lay siege to the port?” Piety pressed.
+
+Wiktor shook his head. “No, sister. They’ve got the supplies of an entire town and they’ve got the port, they’ll be receiving a constant stream of—“
+
+“We don’t need to lay siege!” Gohlen shouted again. “Our demons will make rubble of the town.”
+
+Piety let her anger fuel her resolve. She wasn’t going to let him destroy an entire town, or even part of it.
+
+“That’s not going to happen.”
+
+“You have no authority here, child.” Gohlen waved at her dismissively.
+
+“Sister,” Piety corrected him. “I am a full sister of the Church of Khulanty—“
+
+“The Church doesn’t command the Royal Army,” Gohlen interrupted.
+
+Piety ignored him and continued. “My duty is to the people of Khulanty. If you persist in this reckless course of action, in endangering the people I have sworn to protect, I will be forced to stop you.”
+
+Master of Fire-Arms Alexander Gohlen stepped up to Piety and looked down on her from his far superior height. “And how do you intend to do that, little girl?”
+
+With barely a thought, Piety drew upon her power, gathered it around her. She felt that great cosmos open before her, and she embraced it. She experienced double vision as she both looked up at Master Gohlen and into the cosmos within her mind. With a caress, the gentlest application of telepathy, she put the large man to sleep. With telekinesis, she helped him into a prone position so he did not crumple.
+
+She regarded the lieutenants, who looked at her apprehensively. For several moments, she studied them, listened to the beating of their hearts, their too-fast breathing, she watched their eyes widen, she could feel their confusion, torn between what they saw as their duty, and their fear of her. And she realized she could not empathize with them. They were so far beneath her they didn’t matter. She realized that with a series of well-placed thoughts, she could take control of the Royal Army and the Kempenny Army and make them stop. She could enforce peace.
+
+“Piety?”
+
+Temperance’s voice and her hand upon Piety’s shoulder made Piety shake her head and push away the cosmos. It reminded her of herself. She shivered. She looked at Temperance and smiled a little, letting her know she was all right.
+
+“I mean you no harm,” she told the young officers. “Tonight, I’ll be giving Father Vytal his last rites. In the morning, I’ll be returning to Pinefort. You two need to decide what you’re going to do with the soldiers who follow you.”
+
+• • •
+
+Piety stood at the side of the grave she’d dug with telekinesis, ignoring the putrid smoke of the giant pyres sending the dead to God’s side, ignoring the thick heavy flakes falling steadily. It was by the fire of those pyres that she had seen to dig the grave with her telekinesis and by that fire, under a star filled sky, that they gazed upon it now.
+
+On her right stood Temperance, crying quietly and holding Piety’s hand. On her left stood Minerva Aegis, the purple-eyed woman, the woman of her earliest memory and of her dreams, the woman who they’d come to rescue from Kempenny. She tried to remember an appropriate quote from the Scriptures, but none came to mind. She wondered how long it had been since she’d quoted the Scriptures.
+
+“Did you know him?” Temperance asked.
+
+Piety was confused until she realized Temperance wasn’t speaking to her.
+
+“No, but I knew of him.” Minerva replied.
+
+“How?” Temperance asked.
+
+Minerva shrugged. “He’s famous, isn’t he?”
+
+“When he died, you said you didn’t know this would happen. But you’re the Purple Prophesier,” Temperance pressed. “Aren’t you?”
+
+Minerva turned to look at them. “The first time it happened, I was seven years old. I woke up and I was in the court of the First Royal of Khulanty, Dalton Loreamer himself, except he wasn’t the Royal yet and Khulanty was just the name of Judge Loreamer’s horse. But I’d studied history and I have a pretty good memory, and I knew what was supposed to happen, and I advised him. He called me his Purple Prophesier.”
+
+“You’re not from here,” said Temperance.
+
+Minerva shook her head. “Not exactly, no.”
+
+“He spent much of his life looking for you,” Piety said. “He said you helped him once and he never got to thank you.”
+
+“This is the first time I met him.”
+
+“But not the first time he met you,” said Piety.
+
+Minerva put her hands over her face. “I wish it would just stop.”
+
+“God has given you a gift,” said Piety. “You should use it wisely.”
+
+“I’ve seen a great many mysterious things, but I’ve never seen God.” Minerva looked at Piety and Piety looked back into those kind purple eyes. Several moments of silence passed.
+
+Finally, Minerva yawned. “Good night, Light Cleric, Temperance. I’ll see you in the morning.” And she left the graveside.
+
+Piety let the silence linger. She thought about what Minerva had said, that she didn’t believe in God. Last year, when Father Shane had implied that Father Vytal didn’t believe, the warrior cleric had said it like it was a joke. She had liked Father Vytal’s explanation on his views of the reality of God and had started to take on such views herself. That the purple-eyed woman did not believe made her sad. If God did not exist, what happened to a person after he died? If God did not exist, there was no Paradise, no Hell and a person did nothing more than rot after death. Piety could not accept such a fate for Father Vytal.
+
+Temperance sighed. She’d stopped crying but her voice was raspy when she said. “Perhaps it’s time for us to go to bed too?”
+
+Piety nodded. “Sure.”
+
+The army had provided them with a tent to share. Not that they minded, but the soldier who had given it to them had bowed and called them “sister” and apologized for the inconvenience, no matter how they tried to assure him it was fine. As they sat upon their bedrolls, dressing for bed, Temperance sighed and rested her head on her knees. Piety put a hand on her back consolingly.
+
+“Do you ever wonder about God?” Temperance asked.
+
+“All the time.”
+
+“Have you come to any conclusions?”
+
+Piety nodded, though Temperance still had her face buried in her knees. “Some. There’s something benevolent out there. I don’t think it’s a man living in the sun, but there’s something looking out for us, helping when it can.”
+
+“Why didn’t He help today?”
+
+“I don’t know.”
+
+“I want you to take it from me.”
+
+Piety was shaken by the abrupt change of subject and tried, for several moments, to make the last sentence fit. When she decided she couldn’t, she said, “What?”
+
+“The exploding powder. Father Vytal said you could take it from me. He said you could make me forget it.”
+
+Piety felt her heart rate increase, and she shivered. “Yeah, I could probably do that, but I’m not sure. It could be dangerous.”
+
+“You won’t hurt me, and I want these weapons destroyed.”
+
+“Temperance, I’ve never done anything like this before.”
+
+“Piety, please. When we get back to Pinefort, they’re going to ask me to make more. They’re going to order me, and I don’t want to do it, but the only way they’ll let me get away with it is if I can’t remember it.”
+
+Temperance’s expression was desperate and Piety knew she couldn’t deny her.
+
+• • •
+
+Piety lay flat on her back, her head propped by a thin pillow, her left hand grasped in Temperance’s right. She had her eyes closed and was concentrating on her breathing, meditating, as Father Vytal had taught her. But the thought of Father Vytal brought stinging tears to her eyes, and she forced herself into the rhythms of meditation. When her breathing was regular, her mind still, she eased into the room in her mind.
+
+So many times Piety had gone into the room in her mind without assistance of such preparations, but the task Temperance had set before her would be difficult. Piety was pretty sure that she knew how it could be done, but she also knew it could be dangerous, and she didn’t want to hurt her friend. Once in her mindspace, she sat in the large, comfortable chair upholstered in black and white and silver.
+
+She closed her eyes again in the mindspace and reached for Temperance. Temperance’s aura, pale yellow with swirls of green, stood out strongly. Piety embraced her aura and tugged on it gently until Temperance stood in her mindspace with her.
+
+Temperance gasped and stumbled, as though she’d come to a sudden stop from a great speed. Piety stood from the chair to steady her friend. Still holding on to Piety, Temperance looked around the small room, taking in the chessboard set up for a new game, the bookshelf, the desk, and the chair with comforter folded over the back.
+
+Temperance swallowed hard. “Cozy.”
+
+“Are you all right?” She’d never brought another person into her mindspace before and the effects were uncertain.
+
+Temperance nodded. “Fine, just a little shaky.” She looked at Piety. “How do we do this?”
+
+Piety gestured to the desk and its simple wooden chair. Temperance sat while Piety set before her a small, empty, leather-bound book, a quill, ink, and all the paraphernalia of writing.
+
+“Write down your notes,” Piety told her. “It will help me to focus on the right memories. Then I’ll make sure you can’t remember them.”
+
+Temperance nodded, dipped the quill, let the ink settle, and wrote. For a few minutes, Piety watched her friend, reading over her shoulder, though she didn’t really understand it. Then, when she realized that it was going to take a while for Temperance to finish the task, she sat in her upholstered chair to study the chessboard.
+
+Piety had seen when she came in that the board had been set up for a new game, but she had failed to see that a small slip of paper had been set underneath the white consort. With a glance at Temperance to make sure her friend was engrossed in her task, Piety lifted the chess piece and took the bit of paper. With cold, shaking fingers, she unfolded the note.
+
+White,
+
+What’s the difference?
+
+-Black
+
+P.S. Good game
+
+The paper slipped from her fingers and dropped to the floor in three sweeping arcs, ending underneath the large chair.
+
+Piety wasn’t certain what she had expected from her little note, but this frightened her. A response. A riddle. It was inconceivable that sharing her mind with another person could be something to be cavalier about. So, if this note was written by another person, they were teasing her. If it had been produced by her subconscious, she was teasing herself. Neither possibility was comforting. Piety berated herself for writing the question in the first place.
+
+“Piety?”
+
+Piety started. Temperance stood at her shoulder, holding the slim volume. Piety blinked slowly and took the book. She leafed through the pages, not really seeing the writing on the paper.
+
+“It was strange,” Temperance said, “the ink dried without having to be blotted, and it didn’t take as long as I thought it would.”
+
+Piety nodded and tried to push the note to the back of her mind. There was a task to be done and she needed to focus. She looked at Temperance who was looking around the room again.
+
+“It really is cozy,” she said, “It’s nice.”
+
+Piety smiled a little. “It is.”
+
+“You can escape here any time you want.”
+
+Piety shrugged. “The real world is always waiting for me.”
+
+“What if you just stayed here and refused to go back?”
+
+“I’d die of hunger I suppose.”
+
+“Still, it must be nice.”
+
+“It is.”
+
+Piety let the silence stretch almost a full minute before she said, “Would you like me to teach you how to do it?”
+
+Temperance shook her head. “I don’t have any powers. I couldn’t do this.”
+
+“It’s a trick of the mind.”
+
+Temperance looked dubious. “This all seems too real to be just a mental exercise.”
+
+“Maybe so.” Piety hoped her concern wasn’t obvious. She cleared her throat and stood. “Temperance, I’m going to take this information away from you now.”
+
+Piety gestured for her to sit down in the large chair and Temperance did so.
+
+“When I’m done, you won’t be able to remember how to make the black powder. But you’re smart, so if you try to recreate it, you’ll probably figure it out eventually.”
+
+Temperance nodded.
+
+Piety focused on the book she held, recognizing upon it, Temperance’s aura, like she’d left an imprint upon the book. Then she looked at Temperance, who looked at her. Gently, Piety slipped into Temperance’s thoughts, ignoring the surface thoughts: concern about the power of the fire-arms, relief at the giving up of the burden of the black powder, and absolute trust in Piety’s abilities. Deep grief at their recent loss of Father Vytal was buried under the surface, an aching maelstrom that had been, for the moment, sated.
+
+Piety slipped deeper into Temperance’s memories and it was like she was looking through the well-catalogued files at the High Temple’s library, looking for the location of a specific book or scroll. With the feeling of the book as her guide, she found what she was looking for. The knowledge was surrounded by a dark cloud: pain and sorrow and guilt.
+
+Piety wrapped the information in her power, like she was wrapping Temperance’s shoulders in a thick blanket against a bitter chill, and she tugged. And that was it. She knew she had succeeded, that Temperance would not remember how to make the black powder.
+
+Temperance slept. With a thought, she sent Temperance back to her body, then looked down at the book in her hands. Temperance no longer knew how to create the weapons, but Piety held the knowledge now, and she didn’t think she could make herself forget. The knowledge of the black powder was hers to guard.
+
+• • •
+
+In the morning, Minerva Aegis was gone. The soldiers on watch claimed they hadn’t seen her leave.
+
+“Perhaps she disappeared,” Temperance suggested. And that seemed as likely as anything.
+
+They stood on the outskirts of the military camp, watching soldiers pack up to head north to Pinefort. The stink of burning bodies lingered on the cool, morning air. Piety wondered why she’d never encountered Master Gholen at Pinefort. She wondered why Father Vytal hadn’t known about the attack on Upton Port. She wondered who his source about Minerva’s escape had been. She wondered…
+
+“What if we just don’t go back,” Piety said quietly.
+
+“Hmm?” Temperance had been lost in thoughts of her own.
+
+Piety met her friend’s gaze. “We’re not beholden to the army. Let’s just go our own way.”
+
+Temperance looked around. “Which way? And what about supplies?”
+
+Piety shrugged. “It doesn’t matter. West maybe. Maybe even past the western border. There are people who live out there who’ve probably never heard of Khulanty and its wars.”
+
+Temperance nodded. “We could do odd jobs to earn meals. Mending, healing, cooking. Well, I’ll cook, you can do the magic cleric stuff.”
+
+“So, you’re all right with the idea?”
+
+“Piety, you’ve done everything for me. I would do anything for you. I love you, and will go wherever you go.”
+
+So, the two young Sisters of the Khulanty Church, Daughters of God, turned and walked away.

@@ -1,0 +1,131 @@
+---
+id: baefbd87-5d39-5160-84ed-dcc47b11dd67
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Predator Versus Predator"
+slug: 0285-chapter-5-predator-versus-predator
+partOf: labyrinth-of-the-mad-god
+position: 285
+ownLength: 2715
+unit: words
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3060531/chapter-5-predator-versus-predator"
+royalRoadId: "3060531"
+---
+
+After watching Kenji and Bandit in action, Nick turned his attention to the final member of the party.
+
+Instead of committing to an overarching strategy, Lurk went wherever the hell she wanted. The furry dino went charging across the conduit one second then stood her ground the next, tearing her way through monster after monster in a frenzy of talon and fang. Her offense is amazing, but…
+
+Nick’s train of thought was derailed when the beast disappeared beneath a clattering tide of crayfish—surrounded by dozens of shelled monsters swarming in from all sides. He thought she was in trouble when he saw red blood flying through the air alongside milky spews of ichor, but he had underestimated the resilience and ferocity of the towering apex predator.
+
+Plumes of gore erupted from Lurk’s position as the beast went berserk. She let loose a furious cry, striking with her talons, teeth, tail, and claws so quickly that they blurred before his eyes, leaving her ringed by mangled corpses as she emerged from the press while looking for her next victim.
+
+The wounds marring her body disappeared almost as fast as they formed—sundered flesh knitting itself back together before vanishing without a trace. He suspected blood loss would take a toll if the dino suffered enough damage, but her regenerative powers were amazing to behold.
+
+“We’re lucky she’s on our side,” he muttered. “At least, I think she’s on our side.” As Nick traded blows with the crustacean in front of him, part of his brain was processing what he’d observed.
+
+Lurk was still tier one, and her mana control was worse than anyone else on the team. Even still, she is making the most of the life mana she’s channeling, using her healing magic to enhance her combat style like a hammer rather than a scalpel.
+
+She had taken out almost as many monsters as the rest of the team combined, and she was just getting warmed up. The dino’s bottomless vital energy, potent natural weapons, and unmatched ferocity weren’t the only tools at her disposal—a fact the crayfish became intimately aware of five seconds later.
+
+When the horde rushed in to encircle the beefy dino, she spread her jaws wide and unleashed a Paralyzing Roar. The sound was intimidating as hell—a guttural scream that was loud enough it would have popped his eardrums before he evolved—and that was only the beginning of what it could do. A concentrated wave of killing intent broke over the swarm, bowing them back like willows beneath a hurricane gale.
+
+Unlike Predatory Domain, Roar didn’t differentiate between friend and foe. Primal terror infused Nick’s synapses before his warrior instinct pushed back. After his struggle with the Crimson Blight, a feral part of his psyche would die before it submitted to the will of another, and he activated his domain on instinct, repelling Lurk’s Roar and restoring his clarity of thought.
+
+He'd been planning to save Predatory Domain for a critical moment and hadn’t considered what would happen to creatures that were caught by two killing-intent fueled techniques at the same time.
+
+Every crayfish on the walkway was trapped between his domain and Lurk’s Roar, invading their minds with primeval fear while stripping control over their limbs.
+
+Fortunately, both Kenji and Bandit had come with a way to withstand the murderous intent of others. Thus, the unintended combo didn’t wind up paralyzing their allies—an outcome that wouldn’t have been possible in a party with other members.
+
+The four of them took in the chaos they’d wrought then burst into motion. Men and beasts took advantage of the opening to tear into the monsters’ ranks, slaughtering one pale crustacean after the next.
+
+Nick slashed and thrust in a flurry, Force Acceleration transforming Blightbane into a streaking silver smear. He added Heavy Blow to the mix whenever he couldn’t reach a vital point, cutting straight through the creatures’ chitin to reach the organs below.
+
+The next thing he knew, every crayfish on the walkway was bleeding on the ground. While Size Up was certain more were on the way, it gave his team a moment to reposition and catch their breath.
+
+He had burned through perhaps a quarter of his mana so far, which showed just how far he had come since evolving and obtaining a Rare class. He was winded, but he still had plenty of stamina too and thought he could handle another group of that size without drinking a potion or quaffing his elixir.
+
+While he used the opportunity to analyze his performance and take stock of his resources, Lurk had other priorities.
+
+Nick had grave reservations about eating monster meat, even though the feedback from his Foraging skill came back as a question mark rather than confirming they were inedible. The towering carnivore had no such concerns and devoured one crustacean after the next, enjoying an all-you-can eat-buffet in an act of gluttony matched only by her ferocity.
+
+Ninety seconds later, the next wave arrived. Twenty monsters leapt from the spillway and landed in front of his team. The second phase of the battle had officially begun, and his party was ready to rock.
+
+Since returning to Earth, Nick had been blessed by weeks of relative peace—only engaging in a handful of battles since his victory over the Armada Wurm. As a result, he hadn’t had many opportunities to test Arcane Shield in combat. When he cast the spell, he learned that developing his mana manipulation and raising his Magic attribute had improved the ability in several key ways.
+
+He was delighted to discover he’d grown skilled enough to maintain two barriers at once and could reposition them at the same time. While Bandit and Lurk dealt with stray monsters along the periphery of the walkway, the men took on the thickest part of the press.
+
+Nick positioned the rectangular forcefields in a wide V with an opening at the base, forcing the creatures to come charging down the middle where the warriors were waiting.
+
+Some of the crayfish tried to break through, but the magic barriers—woven from interlocking bands of pure and force mana—had grown considerably more durable since he had taken the spell for its trial run. Most of the monsters were only taking incidental swipes at the Shields since they weren’t completely barring their path, but the barriers were absorbing a considerable amount of damage for only a minor drain on his energetic reserves.
+
+While it was nice to have some extra protection, the primary purpose of this tactic was to force the horde to bunch together. Chitinous bodies packed in tight as they tried to force their way through the five-foot gap at the end of the funnel he had constructed.
+
+He waited until the milling mass of monsters was close to breaking through before making his next move. In a surge of speed, he used Riposte to block an attack and cut out the eyes of the crayfish in front of him. The blinded creature created a bottleneck as it lashed out, striking its allies in the process.
+
+Before the horde had time to climb over or push past, Nick sheathed Blightbane in a single motion and activated Heavy Blow. Stamina surged into his arms as he drew the Legendary blade—the bonus from his Half-Length Scabbard combining with Force Acceleration and his combat art to turn the weapon into a screaming length of razored metal.
+
+A crack like a thunderpeal erupted from his position as his attack broke the sound barrier, bisecting the first crayfish before it realized it was under attack. A slim fraction of a second later, he deactivated Force Acceleration. A ghostly double of Blightbane shot out from the edge of the blade as his arm came to a gentle stop, completing the finishing move he had named Sonic Slice.
+
+The supersonic wedge of force mana crossed the spillway in the blink of an eye, carving into the clumped creatures like a hot blade through butter. Ichor and shorn chitin fell like rain as his attack slaughtered a dozen crayfish at once before cutting into the wall on the far side of the tunnel.
+
+When the shockwave broke over the combatants, the battle ground to a halt—every eye widening upon witnessing the devastation he’d wrought.
+
+It was the beasts’ first time seeing Sonic Slice in action. Bandit offered Nick a grinning thumbs up, chittering his approval before sinking into the shadows. Even Lurk looked impressed, nodding in respect before eviscerating the closest monster as the passageway became a whirling panorama of violence once more.
+
+I’m getting better at using my powers. I can’t wait to see what happens when I rank more of them up. Two minutes later, the last monster hit the pavement, fluid leaking from its shell like a carton of milk with two holes in the bottom.
+
+Just when it seemed like the battle was over, a fresh threat emerged from the water.
+
+Accompanied by a wave that washed half the corpses away, a monster three times bigger than any of the rest leapt onto the walkway with five lesser crayfish in its wake. Size Up started screaming when he ran his eyes across the elite crustacean, confirming Nick’s suspicions that he was gazing upon a tier-two entity—a monster more dangerous than the rest of the horde combined.
+
+Even Lurk treated the new arrival with caution, falling into a proper formation for the first time as Bandit emerged from the shadows and leapt onto her back.
+
+His skill informed him that the hulking crayfish had more powers at its command than its tier-one cousins. Thus, he wasn’t caught off-guard when it opened its maw and spat a heavy spew of venom his way, even though the creature was too powerful for Size Up to provide more than a general sense that a ranged attack was coming.
+
+He couldn’t dodge or the toxin would hit his team, which meant he needed to deflect it instead. His left hand released Blightbane’s hilt, darting for the belt loop that held his Wand of Force.
+
+In a move he’d been practicing for months, Nick aimed the force-flinging device at the soaring spray while turning the gem that controlled the width of the cone, maximizing the efficiency of the cone of kinetic energy that was released when he pulled the trigger half a heartbeat later. Return to sender.
+
+The power of his wand scaled with his Wand skill and his Magic attribute, and by this point in his adventures, it packed a considerable punch. A ripple of displaced air preceded an intense blast of force mana, which caught the incoming venom and flung it back at hideous creature, coating its eyes and mouth.
+
+Apparently, the monster wasn’t immune to its own toxin. It cried out in pain as its chitin bubbled, although its body was too durable for the substance to deal critical damage. The crustacean beside it wasn’t so fortunate. It caught the venomous spray square in its face, screaming until its organs burst and it collapsed like a rag doll.
+
+Being struck by its own attack enraged the tier-two creature. It roared a command and the other crayfish lined up beside it, fighting as a four-monster squad instead of a disorganized mob now that their leader had assumed command.
+
+This development meant the final act of the party’s first battle would be rather different from the melee that preceded it—a four versus five deathmatch instead of a chaotic free for all.
+
+Now that Lurk was on board, Kenji used Command to issue orders while both sides came together with their weapons at the ready. The biggest member of each team took front row center with the other combatants arranged along the sides. Bandit slung spells from the dinosaur’s back, where he could focus on offense and the monsters couldn’t reach him.
+
+As the quintet of crayfish came charging in an arrow formation, Nick gathered his will and Lurk opened her jaws. They glanced at each other, nodded, and projected their killing intent at the same time.
+
+Predatory Domain and Paralyzing Roar merged as they erupted from their position. Two flavors of lethal intentions broke over the monsters like a tidal wave, causing the weaker crustaceans to freeze and foiling their maneuver.
+
+He knew it would only distract them for a moment, but under Kenji’s guidance, their party made the most of the opening. By this point, Nick had already conjured a trio of Mana Darts. He added a pair of Piercing Rays as Bandit fired a series of shadow fireballs—all targeting the pair of monsters on the elite’s right.
+
+The tier-two crayfish realized what was happening at the last possible moment. It shoved one of its troops out of the way then raised a claw to block a dart, hissing in pain as his magic took hold but not losing control over its body. While the move had been sufficient to save one of its minions, the other was well and truly fucked.
+
+The monster was struck by two darts, two rays, and Bandit’s volley of inky flame. Its vital energy was turned against it, leaving the crustacean helpless to resist the whirling drills that were boring through its shell and the living shadows that were searing and stabbing its body at the same time. It collapsed in a smoking pile a bare second later—dead before it hit the ground.
+
+The elite was undeterred by the loss of its ally. It issued a warbling war cry its squad resumed their charge. The creatures had recovered from the blast of killing intent and wouldn’t be susceptible to the same tactic now that they’d overcome their bout of primal terror.
+
+As the creatures closed the distance, Nick realized he had been sensing something exuding from the tier two ever since it appeared—a force that felt different from the mana flowing from its core and the essence it emitted.
+
+It was more complex than either energy, and the longer the fight dragged on, the more certain he became that he was perceiving a vague impression of the monster’s Concept. It’s something related to carving out its enemies’ guts and shearing off their limbs. Simple, but brutally effective.
+
+Over the next two minutes, the fight continued at a frenetic pace. By this point, both sides were wary of what the other could do and were feeling each other out before committing to an all-or-nothing assault.
+
+That came to an end when the elite crayfish activated an ability that made both claws form a ghostly double. Nick knew the attack was bad news. Size Up was certain it could do enough damage to cut Lurk in half if she took a direct hit. As mana congealed along the chitin-plated natural weapons, the monster swung, sending four killer claws screaming for the furry beast.
+
+Kenji activated Bulwark, causing a hemispherical barrier to shimmer into exitance around the giant carnivore, while Nick conjured a pair of Arcane Shields.
+
+His spells couldn’t stop the monsters’ claws, but that wasn’t where he positioned them. Using a trick he’d come up with during his duel with Ella, he manifested each shield near the base of the crayfish’s limbs, where they would interfere with the motion of its swing without contacting the cutting edge.
+
+Even with his obstructions in place, the quadruple strike carved its way through Bulwark, but their efforts bought Lurk enough time to get out of the way. The elite crayfish hissed in frustration as the beast pulled back. It stepped to one side and sliced his Shields to ribbons… which gave the bloodthirsty dinosaur a chance to return the favor.
+
+In an explosive burst of stamina, Lurk leapt high into the air, reaching out with both taloned feet along the way. She went falling toward two of the lesser monsters like a bladed avalanche, lining up the razored lengths of keratin up as her bulk came down.
+
+The multi-ton dinosaur’s natural weapons unleashed a devastating attack. Her talons sliced into the monster’s shells like they were made of cream cheese, severing every vital organ in their bodies before her feet hit the ground.
+
+The impact reverberated across the conduit, nearly knocking Nick to his knees. The towering beast grunted in satisfaction as the fierce melee reached its dramatic climax.

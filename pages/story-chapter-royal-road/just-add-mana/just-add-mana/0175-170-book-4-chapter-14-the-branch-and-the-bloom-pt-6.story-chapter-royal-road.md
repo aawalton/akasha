@@ -1,0 +1,219 @@
+---
+id: 5ee485e6-014f-59ac-ac8d-2fba64fa98bb
+page-type-slug: story-chapter-royal-road
+title: "170 — Book 4, Chapter 14 — The Branch and the Bloom, Pt 6"
+slug: 0175-170-book-4-chapter-14-the-branch-and-the-bloom-pt-6
+partOf: just-add-mana
+position: 175
+ownLength: 3788
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3786871/170-book-4-chapter-14-the-branch-and-the-bloom"
+royalRoadId: "3786871"
+---
+
+The atverian that marched into the tent was evidently one of their doctors, and she did not seem pleased to see Cale. “What’s going on here?” she demanded.
+
+“I fell on top of him,” Cale said immediately, and when A’ruk mustered up the strength to shoot him a glare, he coughed. “Oh, right, sorry. Supposed to stay silent.”
+
+It was probably a good thing he wasn’t connected to the Gift at the moment. Who knew how many [Blabbermouth] levels he would’ve gotten from that? It had seen fit to show him mercy recently, but he doubted that skill was gone. More likely it would show up again when he stuck his foot in his mouth at some inopportune time, which would happen sooner rather than later with all the new professors they now had at Brightscale...
+
+“This is—an ally,” A'ruk said, hesitating for only a moment before he settled on the word. He was pushing past the fog of pain as best he could, but his eyes were unfocused, and Cale had the sudden thought that he was a deeply loyal man to do this for people he had only just met. “He was among the others brought to this place by Commander T’vela.”
+
+“T’vela.” The de doctor’s eyes narrowed with distaste, and Cale wondered briefly if his assumption that she was a doctor was right after all. She didn't carry any weapons with her, but maybe she’d simply left them outside. “That fool still believes things can be salvaged?”
+
+“The former Tendrils do not have the magic to create such a plague, M’lori,” A’ruk said.
+
+“Not by themselves,” the atverian said, crossing her arms across her chest. “But it is hardly uncommon for new magics to come about from the presence of a root-node, or from a pact made with an abomination. What other explanation is there?”
+
+“We don’t... know yet,” A’ruk said, struggling to get the words out; it was clear this level of activity wasn’t good for him. Cale wondered if F’lora could reverse the corruption. He suspected she could, if they brought him back into her domain, but that would take some convincing.
+
+“You have no alternatives,” M’lori said scornfully. “And you and T’vela expect us to hold back?”
+
+“Actually—” Cale started.
+
+“You speak of genocide,” A’ruk suddenly snarled, jerking up in his bed and tearing apart his wounds once more. Cale winced. He regretted not having any magics that could help with that. The only third-tier spells he could cast were fire-related, thanks to his resonance ranks, and even if he had it he doubted [Cauterize Wounds] would do much good here. “The Holy Mother has not called forth more Tendrils for months. If they are the last of their kind, we would be ending them all on a guess!”
+
+“And?” M’lori asked. She didn’t see a problem with that, clearly. “They were created to assist us in serving the Holy Mother, and they have served their purpose. I see no reason to risk suffering at their hand. Look at yourself and your fellows. You would have this happen to more of us?”
+
+“I would have you learn why it is happening!” A’ruk snapped. Cale noted that M’lori was doing nothing to help him with his wounds—she was clearly aware of them and keeping track of how much blood he was losing. “If you are wrong, then you would have done this for nothing! You might invite further punishment on us!”
+
+That was actually true. F’lora was a nascent dark lord, and if the atverians went ahead with their plan to magically nuke the vinewalker colony, it would result in the same karmic backlash that happened every time a dark one was killed before they had time to consolidate.
+
+What would likely happen was that the atverians as a whole would fall to misfortune, even the ones living further away on the Upper Bark. By necessity, to discourage the immediate murder of chosen dark ones, the consequences were always worse than what the dark ones themselves would invite on the realm.
+
+“And if we are right,” M’lori countered, “then no more of you would have to suffer.”
+
+Cale had thus far kept to his promise of not interfering, which was why he was very careful to keep his analysis of the situation mostly dispassionate. What he actually wanted to do was manifest a barrier inside her throat. Her soul would normally protect her against that sort of thing, but she was acting like she didn’t have one.
+
+He tried it. Nope, she still had a soul, despite how soulless she was acting. Darn.
+
+No matter how dispassionate he tried to be, though, there were certain things he couldn’t just ignore. The fact that M’lori had said you instead of us had been particularly telling.
+
+“Excuse me,” he said politely. M’lori turned to glare at him, and A’ruk seemed exasperated but relieved—clearly whatever he’d been planning hadn’t worked, or he’d allowed himself to get too worked up and that had thrown off his plan. “What did you mean by no more of you? Don’t you mean us?”
+
+M’lori scoffed. “Outsiders,” she said, the word disparaging. “Why would we sacrifice good soldiers and women to test the spread of the boundary? We send our men to check. The weak ones, preferably.”
+
+“I see.” Cale kept his tone neutral. He was starting to see why A’ruk had wanted to be the one speaking; it was very clear this wasn’t an encounter he would be handling diplomatically. “Do you know a Commander K’teri, by any chance?”
+
+A’ruk shot a look at him that screamed what are you doing, but Cale gave him a reassuring smile (that did not, unfortunately, seem to do much to reassure him.) M’lori paused, thrown by the sudden change in subject.
+
+“She is one of our Supreme Commanders,” M’lori said. “A great woman.”
+
+“Cool,” Cale said. “Is she missing her spear, by any chance?”
+
+M’lori took a step forward. “What are you implying, outsider? Are you the reason she lost her spear? She said she lost it hunting.”
+
+“I suppose you could call it that,” Cale said. “If by ‘hunting’ you mean she threw it at an atverian child. Is that the kind of sport you play? I’m afraid I’m rather new to this realm.”
+
+M’lori’s eyes widened, something complicated flashing through her expression. Alarm, fear, recognition, anger. Had she known about this, then? No, the anger was out of place—it wasn’t anger directed at him. “You know something,” she said.
+
+“So do you,” Cale said cheerfully. “If you agree to an exchange of information and to help bring T’vela here, I won’t kill you. How’s that?”
+
+“A threat?” M’lori said the words dismissively, but her antennae twitched, and she took a step back. Something about his expression had changed, and she was clever enough to see it. “I will do as you ask. But you do not order me around, human.”
+
+“While you’re fetching her, you should probably send someone in to tend to his bleeding,” Cale said, jerking a thumb to A’ruk. He was pale, which wasn’t even a thing he had known atverians were capable of doing. Apparently their carapaces were more translucent than opaque.
+
+M’lori’s gaze fell to A’ruk again, and after a moment, she grimaced and nodded, then whirled and left the tent. Cale stood there in silence, surrounded by the labored breathing of various atverian men.
+
+“Thank you,” A’ruk said, breaking the silence. It sounded both embarrassed and relieved. “I... allowed my temper to get the better of me.”
+
+“Oh, so did I,” Cale said absently. “I usually don’t threaten to kill people. Damien’s been weaning me off the death threats.”
+
+“Damien?” A’ruk asked curiously. Cale brightened.
+
+“One of my apprentices. He’s the one that asked about you and T’vela,” Cale said proudly. “Let me tell you about them..."
+
+Cale learned a few things in relatively short order, though something was still nagging at him. It felt like there was a missing piece to all this that he hadn’t quite put together yet.
+
+M’lori had been surprisingly contrite when she returned to the tent with T’vela in tow. She explained that K’teri had asked her help binding several suspicious-looking wounds. M’lori hadn’t thought much of it at the time and accepted her explanations at face value. The injuries she had were due to vinewalker attacks. The tiny atverian bite marks were because she had been playing with the children, who had been rough with her. The loss of her spear was unrelated—she had gone hunting shortly thereafter, and speared a barkeater that had dug into the ground and vanished.
+
+But M’lori was a smart woman, and even with her obvious prejudices she couldn’t help but put everything together the moment Cale made his accusation. It was why she hadn’t taken much convincing and had backed down the moment he made his threat. She believed the vinewalkers were at fault, but with an accusation against K’teri that she couldn’t immediately refute...
+
+Atverians found it rather difficult to conceive, so the birth of every child was a great event for them. To their colonies, children were a precious resource. Cale balked at the idea of their value being measured in such a way—calling them a resource was galling, even if they were considered a precious one—but they did, ultimately, care greatly for their children to the exclusion of all other principles. Cale could somewhat respect that.
+
+No surprise, then, that the moment M’lori understood that Cale’s accusation was plausible, she dropped all her other protests. She grew more and more pale as Cale explained the situation in more detail, even as T’vela grew visibly horrified and enraged in equal measure.
+
+“She knows,” M’lori growled, pacing the tent. “That fool, she knows how precious even a single child is. Why did you keep this a secret from us, T’vela? If we had known—”
+
+“If you had known that vinewalkers could support atverian conception, you would have rounded them back up for the colony!” T’vela snarled, rounding on M’lori, who took a step back in surprise. She didn’t, Cale noticed, refute the accusation. Cale actually hadn't realized until that moment that Wall was F’lora’s biological father. He wondered how that worked, exactly. “Don’t deny that you would have wanted to study my child!”
+
+“I—” M’lori started, hesitating, then rallied herself. “It would have been the rational thing to do!”
+
+“Rational,” T’vela said darkly, and there was disgust in her tone there. She didn’t bother explaining herself. “Human. Is the forest now safe for entry? You said my daughter was broken from her... domain, as you call it.”
+
+“It should be,” Cale said.
+
+“Good,” T’vela said. “M’lori, you will tell no one of my daughter, but you will stop the ritual spell K’teri is leading. I will head to the forest myself. Is that clear?”
+
+“How do you expect—” M’lori began, indignant.
+
+“I do not care,” T’vela said, rounding on M’lori, her eyes flashing. “Swear a binding oath. If you want me to speak of my daughter, if you want me to speak of what the vinewalkers could do for us rather than have them all flee into the Roots, I will do it on my own terms, and I will only do it if you swear the oath and do what I ask.”
+
+“I—” M’lori said, a thousand protests clearly running through her mind, but she must have seen the certainty in T’vela’s face, for she swallowed and nodded, relenting. “I swear,” she said.
+
+Her mana flashed to a point within her. Some sort of innate atverian magic, then? Interesting.
+
+“Good,” T’vela said. “Human, I will be at the village within the hour. Do not let anything happen to my daughter.”
+
+“That was already a given,” Cale said, nodding.
+
+A’ruk let out a shuddering breath. “You should... take me with you,” he managed.
+
+“What?” T’vela’s gaze snapped to him. “You are injured. You should rest.”
+
+“The others are... immune to the plague,” A’ruk managed. “It will be difficult for them to tell if the curse is truly gone. Best if you bring me in to ensure your safety.”
+
+“You would have me risk you even more?” T’vela’s expression flashed with something complicated, and Cale understood then that what they shared was love, if not a romantic one. “I could not do that to you.”
+
+“It might be a good idea, actually,” Cale offered, and when T’vela shot a glare at him, he shook his head. “Not like that. F’lora has some subconscious control over her domain now. If you bring him with you and she recognizes him as an ally, she might be able to retract the corruption and heal him.”
+
+T’vela clenched her fists. “I still cannot believe..." she started, then shook her head. “No. There is no time for disbelief. What you have told me makes sense. But I... I will not have my daughter as a dark lady. If you are certain I can take that role from her, I will do it.”
+
+“Nothing is certain,” Cale said quietly. “I’ve never succeeded before.”
+
+T’vela’s eyes narrowed, but she let it go. “It is worth a try.”
+
+That, Cale could agree with. He still couldn’t help but feel like he was missing something, though. He just didn’t understand what.
+
+The creation of a dark one was not unlike the baking of a loaf of bread. The wish that created them—that granted them the role—was the force that flung all the required ingredients together within the dark one, who were themselves the bowl in which all those ingredients were mixed. Then the realm kneaded them until they were the perfect representative of the Dark, ready to bake.
+
+...Cale could tell before he’d even finished that he'd lost almost everyone with this analogy. He was working on it! Baking was a surprisingly good metaphor for a lot of magic; probably another reason baking magic itself was so difficult, or something.
+
+“The point is,” he said, “you have to convince the realm to switch bowls. That there’s a bigger, better bowl and that the current one is too small to hold all the ingredients.”
+
+“You’re really losing us with the analogy,” Leo said.
+
+“I wanna bake bread,” F’lora said, bouncing up and down a little in T’vela’s lap. Her mother chuckled softly, pressing a kiss to her head and holding her close.
+
+“Perhaps one day,” she said wistfully. There was a sadness about her now—she was on the one hand pleased that her daughter was alright, that she had not lost F’lora as she had assumed.
+
+Yet her circumstances now were not much better. Whether they succeeded or failed, those touched by divinity had great difficulty living alongside a dark lord. Once their powers had matured, they could pull back their corruption enough for it to last to a certain point, but there was no avoiding that they had to be separated for a time. The reprieve they had now was only temporary. Once the growth began to reassert itself, this would no longer be possible.
+
+That would happen as soon as F’lore felt any emotion too extreme. It was one of the reasons T’vela worked so hard to keep her calm now, and to distract her from the tragedy that had happened.
+
+A’ruk stood nearby, silent, though it was clear in his expression that he was just as pained as the rest of them. He was healed, but the thought of a child being forced to become a villain was too much to bear for him. He had support, at least. It turned out he got along rather well with Damien when he wasn’t engulfed with pain, and he seemed to appreciate the dreadshade’s presence.
+
+But still, there was the matter at hand.
+
+“It’s best if it happens near... around where F’lora was originally selected to be the dark lady,” Cale said eventually. “That’s the closest I’ve ever gotten. We’ll draw a circle around you to symbolize the start of a ritual, and then T’vela, you need to make a wish. Something powerful and more desperate.”
+
+T’vela closed her eyes. “That will not be difficult.”
+
+“But the more powerful the wish, the more corruption it will create, and the harder it will be to fight,” Cale said quietly.
+
+“I understand,” T’vela said. “But if there is even the smallest chance... A’ruk, will you...?”
+
+She didn't state it explicitly, worried about upsetting her daughter, but A’ruk caught her meaning. He bowed his head. “Of course,” he whispered. “It is the least I could do.”
+
+“Then let us begin.”
+
+The circle had been drawn. T’vela held her daughter tight, then bid everyone else to leave; this was difficult enough to do without a crowd, and Cale suspected that the crowd had been part of what caused the last attempt to fail. Something he’d learned thanks to the Bitter Path: if symbolism mattered, then what most often caused the birth of a dark one was an overwhelming feeling of loneliness.
+
+At least symbolically, the ritual had to reflect that, so none of them could be around to watch. Instead, they retreated into one of the nearby homes, keeping an eye out in case the atverians or their magic came to interfere. Thankfully, it seemed M’lori had done her duty: whatever she’d done, there was no sign of anyone on their way. The anchor feather he had quietly snuck into her pouch allowed him to keep an eye on her, and what he could sense suggested that rather than trying to convince anyone of anything, she had instead started some kind of riot.
+
+Smart. Probably the best way to prevent them from being discovered in the short term. It surprised him a little, how quickly she had changed her mind—too often the others he met were set in their ways and did nothing to change, even when presented with evidence. All too easy to dismiss that evidence as false, he supposed, in a world of magic. If only it was easier to teach how to judge that evidence for oneself...
+
+But he digressed. Something was still bothering him about all this.
+
+The agaût-mortis blooms. Why were they there? It was a warning for other vinewalkers to stay away, but—
+
+Cale blinked. Wait. Wall was F’lora’s biological father, according to T’vela. The vinewalkers had a means of helping atverians conceive. When he learned this he hadn’t thought much of it, but karmic bonds were a little behind, as far as social progress went. That karmic bond would be stronger if Wall had fathered F’lora...
+
+His mind raced. “Thorn,” he said abruptly. “How do vinewalkers reproduce?”
+
+“Uh,” Leo said. “Kind of an inappropriate time to ask that question, don’t you think?”
+
+Thorn didn’t even flinch; he seemed entirely unperturbed. “A donation of a piece of the soul to a special flower we can bloom, the ulaût-vigor,” he said. “Many vinewalkers must come together to produce the flower. Once the soul is placed within the bloom, it will close, and when it opens again, a child will be born of the donor’s body and the vinewalker’s magic.”
+
+Cale’s mind raced. “That means everyone in this village contributed to F'lora's birth?” he asked.
+
+“Most likely,” Thorn agreed.
+
+Karmic bonds were stronger when blood was shared on both sides of that bond, and it was clear that F’lora considered the whole village to be her family. If Wall had successfully saved his daughter and K’teri had left after, why had he wanted everyone to leave? If the spear had killed him instantly, how had he had the time to bloom those flowers? Thorn suggested that it was a slow process—any vinewalker immediately killed wouldn’t have had time to grow them.
+
+Why was Wall frozen in place, rather than collapsing? Cale had assumed it was in some way an effect of F’lora’s wish, attempting to preserve him, but what if—
+
+“You can predict when a dark one will appear, if you keep a close eye on the energies of the realm,” Cale said rapidly, beginning to pace. “You can predict where a dark lord will appear if you keep an eye on where the tensions of the realm are greatest. You. Was Wall a mage?”
+
+The vinewalker he’d turned to looked startled. “He was the pride of our village,” she replied after a moment. “He was a very clever mage. And powerful. K’teri should not have been able to kill him.”
+
+There it was. The piece he was missing. Cale cursed under his breath, then pulled the door open and started to run. If he was right about this, then K’teri hadn’t.
+
+Wall had figured out before anyone what would happen, who the most likely target was to be transformed into the realm’s dark one—a little atverian girl, caught between two peoples. And like many powerful mages who wanted the best for their children, he had taken that fate into his own hands, but hadn’t bothered to tell anyone else about it.
+
+Stupid self-sacrificial dads, Cale thought, almost snarling to himself. Can’t even warn anyone about—
+
+He shut away the memories.
+
+There was, theoretically, a way to kill a dark lord before their time. Karmic backlash could only hit if there was someone there to receive it. If the dark lord In question set things up to secure their own death the moment they acquired the role, there would be no one there to receive the backlash. Cale had dismissed the possibility because it seemed clear that K’teri killed him, but if she hadn’t—if he’d managed a spell that would put off his death, something to keep himself in stasis until the moment of his choosing—
+
+The realm would be safe from the Dark for decades. Not the centuries they had between true cycles, but time. Time enough for a childhood, to grow and live, to be happy...
+
+But the role would never go to someone so willing to discard it. Not unless it was transferred to them, and that would be even more difficult than what Cale was trying to do: the role would not transfer into someone already destined for death unless no other karmic bonds were available. Hence the agaût-mortis urging the other vinewalkers to leave—Wall had most likely set up the ritual to trigger once everyone else was out of range.
+
+The magic ahead of him was increasing in density. Cale could feel the ritual tightening the bond between mother and daughter, ripples of karmic energy moving between them. The transfer was working.
+
+There was a certain irony to that, he thought. The one time this plan might have succeeded, and he couldn’t allow it, because someone else had gotten there first.
+
+He had to stop T’vela.

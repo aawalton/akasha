@@ -1,0 +1,163 @@
+---
+id: 02448196-1a1a-5f36-b439-ee1219f03089
+page-type-slug: story-chapter-royal-road
+title: "382. Griffin Nests"
+slug: 0016-382-griffin-nests
+partOf: leveling-up-the-world
+position: 16
+ownLength: 2484
+unit: words
+ownProgress: 2484
+publishedAt: 2022-01-21
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/829225/382-griffin-nests"
+royalRoadId: "829225"
+markedReadAt: "2026-06-29T22:40:41.804Z"
+---
+
+Blue light filled the chamber, causing part of the mosaic on the floor to glow. At some point in the past, thousands of nobles and merchants must have passed through here in order to show their respects to the ruling noble of the region and pay the toll of passage. Figures of fire bronze decorated it, serving as a symbol of wealth and authority. Now, all of them were gone, stolen by treasure seekers and melted down for weapons or trinkets. In their place, however, there were nests… nests made of countless strands of iron.
+
+“Maybe I shouldn’t have taken you along today,” Dallion said to the shield strapped to his left arm.
+
+If I hid from all the threats out there, I wouldn’t have lasted long in this line of work, the shield replied.
+
+“What you said doesn’t mean what you think it does,” Dallion whispered while he carefully examined the mosaic. All the valuable pieces had long been stolen, but from what he could tell, at some point, this must have depicted a natural scene. He was almost certain that he could see a hedgehog of sorts among what was left. “Shields that avoid fights remain unscarred.”
+
+Shields that avoid fights are called decorations. Besides, the sheltered types like a few scars here and there.
+
+Dallion tried his best not to snort in laughter. Even after all this time, the shield guardian still managed to provide a chuckle. Joking aside, he probably knew quite well when to be on guard and when not to. Before being banished, the shield had been a high-ranking officer in the dryad empire. Now, he was just a piece of “companion armor,” though even so, he had saved Dallion’s life several times.
+
+“Do you recognize the architecture?” Dallion asked.
+
+“It’s not dryad, and there’s too much metal for it to be nymph. I’d say dwarf most likely.”
+
+Dwarf ruins, Dallion thought. This was definitely a first. He had heard a lot about the race, although so far, he had never had the chance to meet any representatives. Supposedly, there were a few in the imperial capital, but even that was doubtful. Dwarves tended to keep to themselves. That wasn’t the reason Dallion had ventured into the ruins, however. He had come in search of something, and that something had little to do with ancient civilizations.
+
+As quiet as a clawless kitten, Dallion made his way to the nearest of the nests. Up close, it looked like an iron mesh, the same that would be used for scrubbing back on Earth. The major difference was that the shreds of iron had come from the armor of the unfortunate souls who had come here before. Thanks to his forging skills, Dallion was able to differentiate between the strands as well as assemble them in his mind, creating an approximate image of the item when in its previous state. The next in front of him was made mostly of swords, although there was the occasional gauntlet.
+
+Good thing I didn’t bring Harp along, Dallion thought. Given the exotic taste of the nest’s owner, the harpsisword would have been a prime target. Are you sure a chainling didn’t make this? Dallion asked.
+
+A wild chainling wouldn’t have wasted all that precious material, dear boy. The echo inside of Dallion’s head said. No, most likely you’re looking at a Shade Griffin.
+
+Yeah, I fear as much…
+
+Unlike the name, the actual creature—at least the ones found in the wilderness—were rather vicious. Unlike the other griffin varieties, these liked to use cold metals—iron, silver, platinum—for their nests. Most often, they would settle in underground caves or old abandoned structures they would turn into their lair. The fact that there were so many nests and none of them seemed particularly disturbed suggested that the ones here were quite old and quite strong.
+
+Drawing his whip blade, Dallion gently touched the nest with the weapon’s tip.
+
+Gleam, does that feel real? Dallion asked.
+
+Definitely real, the shardfly within the sword replied. Look for a nest that has lots of dirt, rot, and insects on it. If there’s one like that, it’s most likely an illusion.
+
+Hold on. Dallion tapped a small cylindrical device on his belt. Up to now, that had been his light source, glowing in a fine blue light. The moment Dallion’s fingers touched the metal surface, the light became brighter.
+
+There’s at least a dozen of them, Dallion said mentally. All of them seem pretty alright. Why dirt, rot, and insects?
+
+General reaction instinct, Gleam replied. That’s the problem with natural illusion. They’re always too perfect. Want to give the impression of something being abandoned for decades? Add a few dead insects. No one will willingly live with those around.
+
+Thanks for the tip.
+
+At first glance, all the nests seemed quite shiny and well kept. After taking a closer look, however, Dallion noticed another set of nests hidden further back, forming an entire second row. One of them in particular looked quite messy, more than it should have.
+
+Slowly making his way between two giant meshes of metal, Dallion reached into the nest in question. Once there, he tapped it gently with his whip blade. Within moments the silver that seemed to compose the nest fell off like dust, along with all the dirt, revealing a nest made of pure gold.
+
+Fancy, Dallion thought.
+
+I’d call it average, Gleam grumbled. Sun griffins have always been big show offs. Even when they hide, they choose a spot that is close to treasure. Most likely, there’s a chest of goodies buried underneath.
+
+I’m sure there is.
+
+To many, this would have been of extreme interest. Given the size of the nest itself, the hidden treasure, if true, had to be enough to set some for life. Dallion wasn’t here for that, though. All he wanted was what was hidden inside the nest.
+
+Putting the whip blade back in its sheath, he drew a dagger from his belt. The dagger appeared normal in any single way. As it touched the golden strands of metal that made the nest, they broke in two. Layer by layer, Dallion kept “cutting” until he ripped an entrance to the inside. So far, so good. Now the tricky part began. Removing his shield from his arm, Dallion used both hands to widen the opening. Three large golden eggs were visible inside.
+
+Damn it! Dallion thought.
+
+He had been told that there would be one. Now he wasn’t sure what to do. Taking one egg would have been difficult. Three pretty much guaranteed that he wouldn’t be able to fight.
+
+You can always carry them out one by one, the shield suggested. Or just juggle them as you go.
+
+Very funny…
+
+You have the skills, why not take advantage?
+
+Ignoring the suggestion, Dallion carefully reached in and took one of the eggs out. It felt a lot warmer than he thought, also… happy, as if he were holding a bubble of laughter.
+
+Pure emotion, Dallion thought as he ticked it in his shirt.
+
+The second egg felt identical. The next egg was similar, although he could feel a hint of mischief as well.
+
+With all the golden eggs carried awkwardly in his shirt, Dallion slowly took a step back. This was the point at which he had to make his way out of the ruins and back to the surface. Unfortunately, before he could do that, a loud screech filled the hall. A silver feather, the size of his arm, split the air, flying directly towards his head. Moments before it could reach it. The body of the whip blade extended, twisting through the air in spiral fashion just along the correct trajectory to deflect the feather, sending it off into the ceiling.
+
+Immediately, Dallion split into a dozen instances of himself. Each instance was a possible future occurring simultaneously while doing something completely different. More feathers appeared from the other side of the chamber, targeting Dallion’s general area. Some flew through instances of Dallion, slicing through them like grass.
+
+Careful not to harm the eggs he was carrying, Dallion grabbed the shield from the ground, covering as much as he could of his torso. Several seconds later, Dallion split again.
+
+“Blind them, Lux!” Dallion shouted, closing his eyes.
+
+The object on his belt flashed incandescent white. Screeches filled the chamber. Cracking one of his eyes open, Dallion was able to see two fully grown griffins flapping their wings furiously. Unused to light of such brightness, the creatures were clawing at everything nearby in a bit to protect themselves. For one thing, they were definitely a lot less majestic than Dallion imagined them to be. Back on in the fantasy novels back on Earth, maybe that was the case. Here, they were more vicious and aggressive than intelligent, and definitely not in a mood to converse.
+
+So much for knowing Zoology, Dallion thought as he rushed at full speed towards the tunnel that had brought him into the chamber. The sound of screeching behind him continued for a few seconds more, after which it was replaced by the flapping of wings.
+
+They’re after you, Gleam said as she extended the whip blade behind him. I’m not sure how good I’ll be against claws.
+
+Toss me on your back, the shield said.
+
+Dallion did so without thinking. Normally, this would have ended with a certain miss, but the shield managed to twist and turn in exactly the right fashion so as to be caught by the end of the whip blade.
+
+Just be careful, the shield added. I’m not as indestructible as you are.
+
+Gleam growled. She didn’t particularly like dryads, but since the shield was part of Dallion’s gear, she was going to make an exception.
+
+“Lux, go for another flash!” Dallion shouted, splitting in six instances.
+
+A sad chirp coming from the firebird let him know that the creature didn’t have the strength to light up the tunnel just yet. While it was possible to use its power in the real world, emitting such an amount of light wasn’t… at least not all the time.
+
+Screeching behind, the leading griffin flapped its wings, releasing a dozen more feathers at Dallion. One of Dallion’s instances turned around to look back. The action caused him to slow down considerably, but that didn’t matter since Dallion had the information. Taking advantage of the fact, all other instances leaped in the direction of the walls, twisting in acrobatic fashion.
+
+Guard and acrobatic skills combined. Twisting and turning, Dallion evaded all the feathers one after another and, in doing so, completed a full guard sequence. As a result, time slowed down slowly. It wasn’t much, but enough for him to combat split again and have the shield deflect one of the feathers, sending it flying back towards his pursuers. An ordinary person would have relied on pure luck. Dallion relied on his awakened skills and combat splitting to achieve the same result, the feather hit the griffin in the wing, causing it to abruptly lose speed, blocking the path of the one behind it.
+
+Aggression ran wild. Already in an agitated state, the griffins found a new target for their viciousness—each other—quickly engaging in a fight that filled the corridor with sparks as their wings and claws scarred the stone walls. Dallion didn’t even look back.
+
+I must say that was rather sloppy, dear boy, Nil said from within Dallion’s realm. I thought you would be far better prepared.
+
+Not the time, Nil! Dallion kept on running. Corridor changed into chamber, then stairway, then cave. On and on he went, not pausing to look back. Every now and again he would combat split to see if there was anything behind him, but with each next combat split, the number of instances decreased.
+
+By the time Dallion reached the surface, the pain in his temples was too intense for him to split at all. Thankfully, he didn’t have to. Shade griffins detested the sun. There was no way they were going out in the next six hours and by then Dallion was going to be long gone from here.
+
+“Took your time,” a female voice said.
+
+Sitting on one of the many rocks in the valley were a group of five. Each of them was dressed in common adventurer clothes and unimposing leather armor. Most of the people were human, but one—the same one who had addressed Dallion—was a gorgon.
+
+“What happened?” she asked with a smile. “Did you decide to take a nap?”
+
+“Very funny,” Dallion managed to reply as he tried to catch his breath. “You didn’t tell me there were three.”
+
+“Three griffins?” the gorgon asked.
+
+“Three eggs.” Dallion tapped his shirt. “All of them in the same nest.”
+
+“What do you know?” The gorgon mused out loud, the snakes on her head moving about. “Shade griffins are thieving creatures. Guess they took a few more than were expected. We were only hired to save one, so we’ll have to renegotiate the deal.” The gorgon stood up. “I’ll let Jiroh take care of that. By the looks of it, I need to take care of you.”
+
+At first Dallion didn’t know what she meant. When he looked at his hands, he saw that he was bleeding. Clearly the nest had done more damage than he thought. The sensation of joy while holding the eggs must have masked the feeling.
+
+“I’m fine,” he lied. “Lux will take care of it.”
+
+“Not if you need stitches,” the gorgon approached. “We can’t have you go back to Dherma in such a state.”
+
+“Yeah…”
+
+Despite still holding three griffin eggs, it was clear that Dallion wasn’t too thrilled to be going back. Or rather, he was afraid. It had been a while since he had last been here, not to mention he’d had a rather nasty argument with his close friends from there.
+
+Four months real time was a tremendously long period for an awakened, ranging decades or more. However, he still wasn’t sure that it was enough. Even so, he was determined to go back. There were a few things he needed to do in his home village before he moved on to what was next.
+
+“It’ll be alright,” the gorgon said. “Besides, you don’t need to go if you don’t want to.”
+
+“Thanks, but I’ve delayed it long enough.”
+
+The gorgon nodded.
+
+“Don’t worry, I’ll only be there for a few days. You go ahead and release the eggs. I’ll catch up to you in Halburn.”
+
+“Two weeks,” the gorgon said. “If you’re not there in two weeks, go back to Nerosal. I’ll come back as soon as I can.”
+
+“Two weeks. Got it,” Dallion said, then looked down at the golden griffin eggs in his shirt. It was fun getting them, though now the less enjoyable part of the day was to follow.

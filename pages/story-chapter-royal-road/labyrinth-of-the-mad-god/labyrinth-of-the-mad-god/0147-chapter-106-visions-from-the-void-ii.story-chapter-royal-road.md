@@ -1,0 +1,97 @@
+---
+id: b51d0bd7-f001-5ab6-8ccd-ef81adf07dc6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 106: Visions from the Void II"
+slug: 0147-chapter-106-visions-from-the-void-ii
+partOf: labyrinth-of-the-mad-god
+position: 147
+ownLength: 1958
+unit: words
+publishedAt: 2025-03-21
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2142077/chapter-106-visions-from-the-void-ii"
+royalRoadId: "2142077"
+---
+
+Nick’s vision of Earth faded away, and he found himself floating in the void once more. This time, he wore a smile on his face. He was glad to know that the lemurs were safe. That his planet was adapting to life in the multiverse, although it had changed greatly during his absence.
+
+And that wasn’t the only good news. His connection to his body was stronger than before, and the haze enshrouding his mind was gradually lifting. He had no idea how much time had passed since he’d awoken in this strange celestial space. It could have been hours, weeks, or even months for all he knew. But he was still alive, and his home had yet to be ravaged by the whims of the Mad God.
+
+Since there wasn’t anything else to do, Nick reached out toward those distant points of energy, searching for more of his friends. Some of them were shielded—in places that weren’t accessible to him right now, but there was one he could touch.
+
+With a grin, he sent his awareness toward it. It was time to check in on Kenji. The man Nick had been worried about ever since entering the tower.
+
+***
+
+Kenji raised his shield and braced for impact, absorbing a hit from the bipedal jackal’s sword before shoving the creature to one side.
+
+His allies rushed forward to engage the beastman, hoping to finish the fight while it was off-balance. Mirium’s water elemental changed into a swarm of piranha—each toothy fish formed from fluid that could move through the air.
+
+The elemental tore chunks out of the jackal’s flesh as the fiend lashed out with its weapon to defend itself. Every attack that connected disrupted the essence animating the elemental, drenching the beastman as it battled the swarm of flying fish.
+
+“Laura,” he yelled. “It’s ready. Hit it with your lightning!” The blond mage raised her arms and called upon the magic within. Mirium’s elemental pulled back, just a bolt of electricity as thick as Kenji’s wrists surged forth from Laura’s fingertips. It crossed the open air fast as thought before discharging into the jackal’s body.
+
+The beastman smoked and spasmed as the high-voltage spell caused it to lose control of its muscles, leaving it vulnerable for the next few seconds. Kenji wasn’t about to let the opening go to waste.
+
+He raised his spear and charged with the team’s warriors at his side, ready to end the fight before anyone was seriously injured. On this floor, all their enemies had powers of stealth in one flavor or another, and he was eager to find the stairs before they ran into something even more powerful than the beastmen—the insanely aggressive legacy of one failed experiment or another.
+
+The jackal had already risen to its knees by this point. In another few seconds, it would shrug off the effects of Laura’s spell and resume the fight. He raced to close the last stretch of open ground, took aim, and lunged with the full power of his body behind it.
+
+The spear he had crafted from the fallen rhino’s horn pierced the beastman’s chest, sliding between its ribs and puncturing its heart. The creature toppled to the ground as the life faded from its eyes.
+
+“Good job, everyone.” Kenji smiled as his five-member team fell into formation. They took a few minutes to catch their breath before approaching the chamber that held the boss of this level. While they recovered, he considered what they had accomplished since entering Darkstone Tower.
+
+By now, his party had grown accustomed to working with one another, merging their unique powers and fighting styles into a unified whole that seamlessly combined offense and defense. He was fond of them and was glad to know that Team Earth had other talented members. But he couldn’t help but wonder what had happened to Nick and the rest of the team he had fought beside in the Grand Arena of Papillion.
+
+He had been following them after taking down the river king, as the blackmist and the shadow hunt engulfed the tower’s base. He had almost caught up to everyone despite the shock of losing his arm, when a young man appeared out of nowhere and jumped into the hole that Sophia had pointed out.
+
+By the time that Kenji got down there, the door was gone, and only solid stone awaited his gaze. Half-conscious and weak from blood loss, he had dragged himself back out and run for his life, taking shots from the redfangs’ feathers while one of the fell hounds followed hot on his heels.
+
+Just when he was certain that the immense beast would catch him, someone had yelled to get his attention. It was a woman standing on a ledge ten feet up, which led to one of the hidden doorways Sophia had discovered. With no time to question what was happening, he leapt for all he was worth while reaching out with his remaining arm. She caught it and pulled him up, and they flung themselves through the doorway just as a fang-filled face came streaking out of the blackmist.
+
+It turned out that Laura was looking for a fifth party member before entering the tower. She had saved Kenji’s life with only a fraction of a second to spare, which was how he found himself climbing the tower side-by-side with a new team.
+
+They only had one more floor to complete before Team Earth faced the tower’s guardian on the roof—the decisive battle that would determine the fate of their homeworld. Kenji hoped that they would have a chance to meet as a group and plan out their strategy before the climatic fight began. With any luck, he would run into Nick and the others and he could combine the strength of both parties, each of which featured some truly exceptional individuals.
+
+But that was a worry for another day. With a groan, Kenji rose to his feet and resumed his journey toward the massive golden gate, ready to resume his fight for the future of his people.
+
+***
+
+When Nick found himself drifting through outer space once more, he felt much stronger than before. By now, he was certain that his body was healing. Just one more vision and it would be time to return to the world of the living.
+
+He had several minds to choose from, but only one belonged to someone who he’d been afraid had died. A woman who meant more to him than he had realized until fate drove them apart.
+
+***
+
+Sophia swam for the network of caves in the distance—desperate to stay ahead of the pack of killer whales that was closing in from behind.
+
+In front of her, one of her frogs was swimming far faster than she could manage unassisted. Its long tongue was wrapped around her waist and pulling her along, enhancing her mobility in this underwater level of the Tower of Rizzen.
+
+On either side swam Shaun and Veronica—each towed by their own spear-tongue frog. Two more of the crimson amphibians were in the process of falling back to delay the whales’ pursuit. They didn’t have a chance of beating the immense beasts that had been hunting the party for days, but they didn’t need to.
+
+Her frogs only had to buy enough time for them to head inside the network of caverns ahead. The whales wouldn’t pursue them past that point. Not because they couldn’t, but because the blood-sucking eels that lived within the caves would attack the instant they tried, ignoring all other prey until the killer whales were eliminated or fled their domain.
+
+The beasts in question shared few similarities to the creatures from Earth she’d named them after. But the aggressive predators were whale-shaped and happy to kill, so the name seemed fitting enough.
+
+It had been two weeks since the members of Sophia’s party had gone their separate ways. It was all her fault, but she hadn’t had a choice. The only way to escape from the Skyswarm Pirates and their tier-2 leader was to damage the airship and get away in the confusion. She had been dead certain that transforming into the bonefiend wasn’t good enough. That she had to destroy the warship’s floatstone core and send the vessel plummeting from the air.
+
+She had downed her last stamina potion after changing back, giving her enough energy to summon one last batch of wasps after reaching the main deck. She saw Nick and Devin waiting for her in one of the smaller ships. But before her group could reach them, the ship had lurched and flung them over the side.
+
+The wasps weren’t strong enough to carry them for long, but they had maneuvered the three of them onto another floating isle. This island was only a quarter mile across, but it held something interesting—a cluster of ancient structures that predated the pirates’ arrival. After exploring it and defeating a serpent guardian, they eventually found another staircase.
+
+They waited in the ruins for as long as they could. But after a few days it was clear that Nick and Devin weren’t coming. Not that Sophia blamed them. The men had no idea where she was and were being chased by a swarm of angry pirates the last time she saw them.
+
+The trio had been crossing this aquatic level for over a week now, making it the longest that they had stayed on any floor of the tower. As the quest’s description had promised, this one was the most dangerous yet. They were lucky that the water they were swimming in could be breathed like air, or they would have died within minutes.
+
+The strange substance had resulted in a terrifying moment after their arrival. Everyone thought they were drowning until they were forced to take that first breath and realized that they were going to be ok, at least in the short term.
+
+It was hard to maneuver in the undersea environment, but her frogs let the party progress at a reasonable rate. They had faced whales, sharks, barracudas, and some giant pistol shrimp that had a devastating ranged attack. But by the skin of their teeth, Sophia, Shaun, and Veronica had managed to outfight, outrun, or outwit each predator in turn, always heading toward the ocean’s floor far below, where the System promised that a set of stairs was waiting. At least it had provided a map this time around, which meant there was never any question as to which way to go.
+
+It would have been wonderous to explore an alien sea under other circumstances, but as it was, Sophia was ready to leave this nightmare behind her for good. If she never set foot into a body of water deeper than a bathtub again, it would be fine with her.
+
+Her team entered the caves moments before the whales reached them, shrieking in fury as their prey passed beyond the boundary of their domain. She hadn’t seen any of the eels yet, but it was only a matter of time. For now, her team took advantage of the opportunity to rest and plan out their next move.
+
+Thanks to the bioluminescent plants that grew at this depth, Sophia could see that they were finally reaching the bottom. Another few days and they should reach the crevice holding the stairs.
+
+She was about to tell her friends that it was time to get moving, when she was overcome with the sensation that someone else was there. A feeling like someone was reading a book from over her shoulder. A presence that she had been longing for ever since they were separated.
+
+“Nick,” Sophia whispered into the darkness. “Is that you?”

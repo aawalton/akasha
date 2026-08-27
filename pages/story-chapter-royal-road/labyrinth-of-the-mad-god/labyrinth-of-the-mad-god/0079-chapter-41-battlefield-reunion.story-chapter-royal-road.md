@@ -1,0 +1,73 @@
+---
+id: 34428559-83c0-5109-a8e4-488ea0af6cd9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41: Battlefield Reunion"
+slug: 0079-chapter-41-battlefield-reunion
+partOf: labyrinth-of-the-mad-god
+position: 79
+ownLength: 1559
+unit: words
+publishedAt: 2024-10-21
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1861707/chapter-41-battlefield-reunion"
+royalRoadId: "1861707"
+---
+
+Nick fell into formation by Sophia’s side, sliding in between a spear-tongue frog that was guarding her flank. Crossing the room had been easier than he’d expected, thanks to the war between the Janitor and the roach horde raging in the middle of the enclosure.
+
+He was glad that their diversion had worked, keeping the mutant from reaching their friends long enough for the next squadron of beasts to engage it.
+
+Nick had fired off a couple of mana darts, while Veronica and Shaun unloaded a half dozen bolts and arrows between them. All their attacks had landed on target thanks to the sheer size of the Janitor, which was far easier to track in its white shark form.
+
+Their strike hadn’t done any lasting damage. But they had surprised the creature, slowing it down long enough for the next group of killer bugs to close the distance and hit it from behind.
+
+He had learned something from the attack too. Nick had noticed one of Shaun’s arrows deflect away from what had appeared to be a patch of open air, just before a pair of roaches beneath it were smashed to smithereens.
+
+The magic it’s using in this form is different from the long-range area of effect attacks it was launching as a translucent blob. According to Kellen’s notes, it’s an ability that can manipulate the environment as well as attack. I can almost make out the shape of something hovering around its head. It must be another force-based power for me to be able to see it so clearly.
+
+His party had taken advantage of the opportunity to follow the contour of the wall, until they arrived at Sophia’s position. Despite the seriousness of the situation, Nick was thrilled to see Sophia and Devin on their feet and relatively uninjured. They were covered in dirt, bruised and battered, but still alive and kicking.
+
+She drew him in for a quick embrace, then said, “We need to get out of here while its distracted. For some reason, it won’t stop coming for us. We have to run past and escape through the hallway while we still can.”
+
+“About that,” Veroncia chimed in. “I have some good news and some bad news. The good news is standing in front of you.” She gestured to herself. “The bad news is that the hallway leading out of here is barricaded by the gear-construct swarm. I’m pretty sure that they led us here on purpose so we would all kill each other, and they don’t seem inclined to let us leave. Right now, there isn’t a way out. Our only chance it to win this battle and then deal with the swarm after.”
+
+Since the bugs were in the middle of changing up their formation and hadn’t sent another wave their way yet, Nick let the others know everything that he had learned about the Janitor, including the reason why it was so keen on attacking them compared to the roach and construct armies.
+
+“So,” Devin summarized. “That big thing is called the Janitor. It’s desperate to eat us because it’s starving and needs our essence to survive. The roaches are just trying to keep it from wiping out the queen and her eggs. They have been sending forces to keep the Janitor contained long enough to make their escape.”
+
+Nick nodded along with Devin’s analysis. The man was surprisingly quick on the uptake. “The beasts know that if the mutant gets us, it will turn on their queen next. They want to keep the big baddy far enough away from the eggs that they won’t get caught in the crossfire. That’s why they are trying to stop the Janitor from eating us before they make their escape.”
+
+At that point, Sophia cut in. “Those mechanical creatures are intelligent, or at least whatever is controlling them is. They orchestrated this situation to some extent. Now that their enemies are all trapped in the same room, they are planning to wipe us out. But they're waiting for us to kill each other first.”
+
+She let out a long sigh after taking a swig from her canteen. “The Janitor can switch between two different forms. Both use powerful force magic that is invisible to the eye, although Nick can sense it because it’s similar to his own powers. The white shark is specialized for close range combat, and the clear blob for long.”
+
+“Yea.” Nick nodded. “That’s the short of it. Now, how in the hell are we going to turn this around before the Janitor reaches us? The roaches aren’t going to sacrifice any more of their forces to protect us. They’re almost ready to leave.”
+
+“The last eggs are almost loaded,” Veronica said. "The horde is going to make a break for it any second. When they do, they are going to find out that the gear swarm is blocking their retreat, and all hell is going to break loose.”
+
+For his part, Shaun merely nodded, intimidated by Sophia’s presence given everything that had gone down the last time they met. Now that they had all been brought up to speed, everyone shared the powers and gear they had picked up since the last time they were together.
+
+While the party used the momentary reprieve to brainstorm, switch out their equipment, and rehydrate, Nick then turned to face the middle of the room. Sixty feet in front of him, a dozen giant roaches were locked in combat with the Janitor, an even mix of the basic bugs and the specialized variants.
+
+Although they were losing, It seemed like the beasts would be able to hold the creature back for a few more seconds, giving him time to unpack the dynamics of the complex situation.
+
+He was standing in one corner of a gigantic enclosure. It was a rectangular space perhaps two hundred yards long and a hundred yards wide. The floor was covered with earth, although he could see the skeletons of machines poking out from the detritus, including a massive device filling the corner behind him. This must be their nest, lair, or whatever you call it.
+
+The only exit was the passageway they had come through, set in the center of the far wall. In the other back corner towered a massive beast. The queen was even bigger than Janitor, armed with a pair of bladed limbs that looked like scythes the size of greatswords.
+
+Given that she was in a nest and surrounded by eggs and attending insects, it made Nick wonder if the species was closer to ants than roaches, not that it mattered now. The beasts were in the final stages of preparing to move their eggs, not realizing that the construct swarm was filling the hallway.
+
+Nick finished his survey and then turned to address his team, while the Janitor dealt with the last four roaches charging for it as one.
+
+“The beasts are a major threat. But unless we do something to provoke them, I don’t think they will turn on us in mass while the Janitor is nearby. As soon as the queen makes her move, we need to reposition and keep the insect army between us and that monster for as long as possible. That way, we won’t get hit from two sides at once and they’ll keep grinding away at its massive pools of stamina and mana.
+
+“Keep your eyes open and call out anything that looks suspicious. We need to learn as much as we can during the next few minutes, so that when it’s time to go all out, we’ll have a better idea of what we’re dealing with.” Everyone nodded as he continued.
+
+“I don’t know what we can do about the rats just yet. Let’s hope that they hold back from hitting us while the Janitor and the roach queen are still on the field. We’re the only reason that the big bastard is willing to fight to the death. If we get eaten too soon, the Janitor might leave before it kills the queen, ruining the rat’s trap. The constructs have an incentive to keep us alive at this stage.
+
+“On that note, the swarm might be willing to attack the Janitor directly if a good opportunity presents itself. Let’s keep that possibility in mind throughout the battle.” Nick wanted to ask his team if they had any other ideas, but that was all the time for planning they were given.
+
+As the last sentence passed his lips, the Janitor slaughtered the final roaches in range. It turned to face Nick’s party, as they got ready to spring into motion. But before anything else happened, the roach queen and all the forces on her side of the room began running for the exit, carrying the horde’s eggs with them.
+
+“We need to go, now!” Devin yelled. With that, the party started running along the back wall, heading for the opposite corner. The began circling around, trying to keep the horde positioned between themselves and the Janitor.
+
+Nick kept one eye on the mutant creature as he moved in time with his team, heart hammering in his chest and adrenaline singing in his veins. The next few minutes would determine whether they had a chance of living through the day, and he intended to make every second count.

@@ -1,0 +1,217 @@
+---
+id: db2c3dd6-7096-5f6d-aecc-79cd4f341ed6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9 — Ancient Artifacts, Pt 4"
+slug: 0009-chapter-9-ancient-artifacts-pt-4
+partOf: just-add-mana
+position: 9
+ownLength: 2900
+unit: words
+ownProgress: 2900
+publishedAt: 2025-07-22
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2456839/chapter-9-ancient-artifacts-pt-4"
+royalRoadId: "2456839"
+markedReadAt: "2026-06-29T18:47:49.556Z"
+---
+
+Cale hadn't quite managed to calm down by the time they encountered the first shadeling.
+
+About twenty paces into the corridor past the door, the shadows in the corridors began to lengthen unnaturally. Without Cale's light source, it probably wouldn't have been noticeable—the natural lighting in the labyrinth was sparse and flickering at best, comprised of a number of old, half-rotted torches set into the wall. The shadows, as a result, were constantly moving, cast across an assortment of old pottery that lined the hall.
+
+With the mana ball, those shadows were thrown into sharp relief, which made it exceptionally obvious when one was different from the others. Every so often, a shadow would lag behind the rest, not quite able to change in time with the light Cale was carrying with him.
+
+Cale recognized the phenomenon instantly. This was a relatively standard shadeling infestation.
+
+That was a bit of a relief, really. He knew what they were and how to deal with them, which was a step above being completely in the dark. Not being able to read the warning on the door had worried him slightly. As exciting as it usually was when he encountered something new, this labyrinth had formed out of the Karmian Well. Anything new here had a good chance of killing one of his classmates before he figured it out.
+
+Fortunately, shadelings alone weren't too much of a danger. Cale stepped around them carefully and directed the others to do the same.
+
+"They're known as shadelings," he said. "No relation to dreadshades, if anyone's wondering." He glanced at Damien, who looked relieved. "Think ambush predators that hide using shadows. They're a bit like mimics, actually, except mimics physically turn into a copy of the object they're mimicking. Shadelings consume and take over the shadow, although they're not very good at it."
+
+To demonstrate, he waved his mana ball near one of the decorative vases that lined the hall. The shadow attached to it froze in place, as if it wasn't quite sure what direction to move in. It tried one direction, then the other...
+
+And then it squished in on itself, as though it was dizzy or pouting. Either way, it had given up trying to predict Cale's movements. Cale chuckled and moved his mana ball away to give it a bit of a break.
+
+"Too bad I don't have any food with me," he said. "They're kind of cute when they're eating, believe it or not."
+
+He glanced back at the others, only to find all three of them looking a bit queasy. Cale raised an eyebrow, then snapped his fingers. "Right," he said. "They do emit a sort of low-level psychic field designed to make their prey uncomfortable. A basic mana barrier will dispel most of the effects. They're not as dangerous as they seem, don't worry. You'll pretty much be fine as long as you don't step on them."
+
+"What happens if we do step on them?" Damien asked, looking a bit nervous.
+
+Cale frowned. "Don't," he said simply.
+
+"Shouldn't we get rid of them or something?" Leo grunted. He still seemed frustrated, though Cale said nothing about it. "I don't know if I'm comfortable leaving these things lying around. What if they break out and infest the school?"
+
+Cale sighed. "They're not doing anything wrong. I'm not going to slaughter them all just because they might be dangerous."
+
+"But they might hurt a student," Leo said.
+
+"And?" Cale asked. "So could any of us. That's the whole point of the Astral Wing, isn't it? Keeping the dangerous students contained."
+
+Leo opened his mouth, then frowned and closed it again. He had nothing to say to that.
+
+"Try feeding one of them sometime," Cale said. "Trust me, they're a lot cuter when they're eating, as long as they're not eating a person. They like meat, preferably heavily salted. Believe it or not, they're a pretty popular pet in the Lower Fossils."
+
+Leo looked like he wanted to argue—he clenched his fists, clearly annoyed—but forced himself to take a deep breath. Damien still seemed uncomfortable, though he said nothing about it.
+
+Flia... was rummaging about in her satchel. Cale watched as she somehow retrieved an enormous steak from within its depths, then blinked.
+
+"That doesn't seem sanitary," he said.
+
+"Shut up," she told him, rolling her eyes. "It's perfectly sanitary if the bag has the right enchantments, and I still come from a family of water elementals."
+
+She crouched down next to the shadeling, tore off a chunk of meat, and then tossed it onto the shadeling. A moment later, the shadow coalesced—collecting itself into a tiny, four-legged creature with white eyes and a jagged mouth. It was probably about the same size as one of Leo's fists, and it was adorable.
+
+Then its mouth opened into a gaping maw larger than its own head, and it swallowed the entire chunk of meat. Damien and Leo both looked alarmed and took a step back, but Flia seemed enchanted by the display.
+
+"It's so cute," she said. "You said there are people that keep them as pets? How do you tame one?"
+
+Cale blinked again, then triple-checked what he was seeing. None of the others had a barrier up, and both Leo and Damien were definitely affected by that passive effect emitted by the shadelings.
+
+As far as he could tell, Flia... wasn't.
+
+"You have to let it take over the shadow of something that belongs to you," Cale said after a moment. "It helps if you have something like [Bond Familiar], but if you don't, any sufficiently powerful magic item will appease them until you can get to a certified mage."
+
+"So I can give it my bag," Flia said. Leo gaped at her.
+
+"You can't do that!" he said. "What if it attacks someone? Or-or what if it reproduces?"
+
+"Shadelings don't reproduce," Cale said, causing Leo to glare at him. He shrugged. "What? They don't. It's the shadeling queen that reproduces. They can't do it without their queen, and we're going to have to get rid of the queen to get through the dungeon."
+
+"We are?" Flia asked, looking up from where she'd started petting the shadeling. Cale almost did a double-take—that thing had started purring. He hadn't even known shadelings could purr. "Will that hurt this little guy?"
+
+"No," Cale said. "They had to cull shadeling queens in the Lower Fossils, too. They have an almost parasitic relationship. Shadeling queens spend most of their lives dormant and hibernating. They only wake when they get hungry, and when they do, they send out a signal to all the shadelings in their territory to go berserk and hunt prey to bring back."
+
+"So they are dangerous," Leo almost growled. Cale glanced up at him, brows furrowing slightly.
+
+"Why haven't any of you put up a barrier yet, by the way?" he asked. "I can see they're affecting you. Except Flia, for some reason."
+
+The elemental in question was already gently ushering the shadeling toward the shadow of the bag she wore. She glanced briefly up at her name, then went right back to it.
+
+"We can't." It was Damien that answered, albeit a little reluctantly. "We've been focusing most of our efforts on attunement, since our raw mana is dangerous to the people around us."
+
+"Really?" Cale tilted his head. "But barriers are basic mana manipulation. You should get some practice in with them even if you're focusing on attunement—not only will it make it easier to attune, but it'll solve any issues you have with mana leakage."
+
+"What are you talking about?" Leo asked. "Barriers only hold mana leakage while they're active. The moment they drop, it all floods out and makes the problem worse."
+
+"Well, yeah," Cale said. "That's why you don't drop the barrier."
+
+The others all stared at him. Even Flia looked up.
+
+"Cale," Leo said. "What are you talking about? No mage keeps a barrier up all the time. We need to sleep."
+
+"So keep the barrier up while sleeping."
+
+"You can't—" Leo stopped mid-sentence. "Are you saying you do this?"
+
+"Yes?"
+
+"Cale, that's not normal," Flia spoke up. "Mages can't... that's not an easy skill to just learn. It would take us years, if that's even possible."
+
+"I've heard of mages that can sleep-cast, but not with barriers," Leo said.
+
+Damien, for the most part, just looked thoughtful.
+
+"Huh." Cale frowned. He'd mastered constant barrier maintenance so long ago that he didn't really remember if it was difficult. "My bad, then. Here."
+
+He poured some of his mana into shaping some new barriers for his classmates. They were a little clunky, of course—Cale couldn't exactly make them skin-tight and keep up with all their movement—but a vague box-shaped barrier was enough to help both Leo and Damien relax.
+
+Flia simply went right back to coaxing the shadeling into her bag, apparently intent on acquiring a new pet.
+
+"She does that sometimes," Damien offered awkwardly. "She'll be back to normal in a minute."
+
+"Oh, I'm not worried about it," Cale said, chuckling. "It's just... interesting. Is she normally this good with magical creatures?"
+
+"Believe it or not," Leo said. "She's usually better."
+
+It took about two minutes before they were ready to move on, which was the amount of time it took Flia to coax the shadeling into the shadow of her satchel. Cale estimated that meant they had about thirty minutes left before the Labyrinth Seed erupted, which was plenty of time, as long as they didn't run into too many new obstacles.
+
+It was enough time for Leo to calm down the rest of the way. Cale saw the minotaur repeatedly glancing his way, then swallow the rest of his irritation and ask the question that had apparently been on his mind this whole time.
+
+"Why was there a warning on that door?" he asked. "Has someone been through this labyrinth before?"
+
+"I doubt it," Cale said. "Dungeons are the same way, remember? They have challenge rooms, and challenge rooms are usually preceded by a hint as to what they contain. It's a good thing you had notes on Sylnarian, or one of us might've lost a leg."
+
+Leo looked like he was getting a bit excited. "If this is a challenge, then does that mean..."
+
+"We'll probably find some kind of artifact, yes," Cale said. "We'll bring it back for the Professor to examine. I can hold it in a barrier until we close the labyrinth."
+
+"Um," Damien said, raising a hand. "Are we going to be able to beat the shadeling queen?"
+
+"First of all, you don't have to raise your hand to talk to me," Cale said, poking him. "And second, we'll be fine. I've got a plan."
+
+The shadeling queen was an enormous web of shadows that clung to every corner of a massive chamber. The labyrinth's corridors had opened rather abruptly into it, with no rhyme or reason. Cale stopped Leo a moment before the minotaur would have stepped on the edge of the queen, then stared at the mass in front of him contemplatively.
+
+She was definitely hibernating, but her shadows were keeping the door on the opposite end of the chamber shut, which meant they would have to wake her to get through. He'd figured as much, but it was good to get confirmation.
+
+[Plasma Transmutation] would turn the entire floor into plasma. [Decay Bite] had similar issues, in the sense that he had no idea what it would turn into if he tried to use it—if it tried to decay the labyrinth, there was a chance it would unleash everything inside.
+
+Cale was really looking forward to trying out a new spell, though, and he'd had enough time to calm down that he was finally excited about [Bestow Light]. He had no idea what that was going to turn into. Some sort of light spell, of course, but what?
+
+Shadelings were weak to very powerful sources of light. Shadeling queens had that same weakness multiplied tenfold—they were most often found within the deepest tunnels of a shadeling nest, where no light could reach. As far as Cale understood, the universe the species had originally developed in was shrouded in perpetual darkness, hence their aversion to light.
+
+Then that universe had experienced a universal breach, and... well, here they were.
+
+"Stand back," he said cheerfully. His classmates were all staring at him curiously. He supposed he hadn't actually told them anything about himself and what he could do, had he? He'd only really shown off his knowledge, not his magic.
+
+In fairness, Cale had no idea what would happen if he tried to show off his magic, especially if it was with a new spell. But that was part of the fun!
+
+"I got [Bestow Light] just now," he added, as if that would help. The others stared at him.
+
+"Um..." Damien said. "Does that... help? With a shadeling queen?"
+
+"I have no idea." Cale grinned. "Only one way to find out!"
+
+"I thought you said you had a plan," Leo protested.
+
+"And I do! The plan is to find out what happens if I try to cast [Bestow Light]." Cale began to concentrate, feeding his mana carefully into the spell construct. He didn't need to create another eighth-tier spell for this; it was just a shadeling queen, not a demon lord.
+
+It was hard, pushing in even less mana than he had into [Burn], but he was pretty sure he managed it. The tiniest scrap of mana he could manage, poured into a basic, light-generating spell.
+
+Mana overload detected! Attempting to compensate...
+
+Well, that much he'd expected. Cale waited patiently, then thought of something. "Oh," he said. "You should probably cover your eyes just in case. And keep your bag in shade, Flia."
+
+"It's just [Bestow Light]," Leo said, although Flia almost immediately moved behind him so she could hide in his shadow. "Why would we need—"
+
+Adjusting spell construct...
+
+[Bestow Light] has evolved into [Starlight Font]!
+
+[Starlight Font, Level 1] [Seventh Tier (Unique), Active] [1.0e25 Mana]
+
+Create a font of pure starlight that draws its flame from the heart of the closest living star.
+
+Cale stared at the spell description for a moment. He hadn't even known Utelia had living stars.
+
+Then the spell activated, and he watched as what looked like a crystalline bottle manifested above the web of shadows that represented the shadeling queen. It hovered in the air for a moment, as if hesitating, before a tiny, pin-sized hole appeared inside it.
+
+From that tiny hole, living flame poured forth, trapped only by a bottle of pure mana. The crystal almost seemed to warp under the pressure, twisting and turning until it turned into something akin to a living flame itself. The light it cast on the chamber grew and grew until it seared into the walls around them.
+
+The shadeling queen screamed.
+
+"Huh," Cale said. "Oops."
+
+Cale briefly considered waiting for the light show to end, but it didn't seem like it was likely to happen any time soon. The bottle he conjured was perfectly willing to sit there like a tiny, miniature sun. He was pretty sure it would've burned all four of them if not for the barriers he'd stuck around the others. Good thing for that.
+
+He really wished his spells were less destructive, but this was still more than he could do with mana alone. He was pleased with that. Maybe he'd be able to come back and collect the bottle later, as a sort of souvenir.
+
+"We're going to need to move," Cale said casually. Barrier-tuning was an easy enough skill to master, at least; he turned them more opaque, mostly so his companions would be able to see.
+
+"Cale," Leo said, his voice trembling slightly. "What the fuck was that?"
+
+"[Starlight Font], apparently?" Cale answered, already picking his way through the remains of the shadeling queen. She'd left behind a lot of dust when she dissolved. "Really though, we should hurry. We've got about twenty minutes before the Seed starts to germinate, and we really don't want a second Labyrinth Plague."
+
+"I thought you said you were going to cast [Bestow Light]," Damien said.
+
+Cale nodded. "I also said I can't do magic properly, same as you three," he said cheerfully. "Or, well, I might have only said it to you. Can't remember. That's why I'm here! So I can learn magic." He frowned. "This one's a little too destructive, though."
+
+"What exactly is your anomaly?" Flia asked carefully. Cale grinned.
+
+"I thought you said it was rude to ask," he said flippantly. He saw her try and fail to scowl, clutching her satchel protectively to her side—she was trying to protect the shadeling from the Font, he noticed. He could respect that. "I can't cast most spells, if you must know. The spell constructs can't handle the amount of mana I have. Akkau said that if I learn 'elemental resonance' or whatever I'll be able to better control the kind of spells I make, so that's what I'm here to do."
+
+"But if you can do... that... what kind of spells are you trying to learn?" Flia asked, swallowing.
+
+Cale tilted his head. "Baking spells, obviously," he said, as if the question was ridiculous.
+
+Then he kept walking, leaving the other three sputtering behind him.

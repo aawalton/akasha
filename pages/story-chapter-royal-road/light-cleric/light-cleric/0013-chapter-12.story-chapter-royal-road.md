@@ -1,0 +1,321 @@
+---
+id: 39b8c96c-8964-5daf-9619-f4f57339df2e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12"
+slug: 0013-chapter-12
+partOf: light-cleric
+position: 13
+ownLength: 3716
+unit: words
+publishedAt: 2021-05-29
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/690268/chapter-12"
+royalRoadId: "690268"
+---
+
+Piety dropped the Heir’s hand and took a quick step back to bow formally. “My apologies, your Highness. I didn’t know.”
+
+“That’s not necessary, Piety,” the Heir said.
+
+“I’m afraid she’s going to insist on it,” Cleric Radden said. “Piety considers respect important.”
+
+The Heir sighed. “I see.”
+
+“You may as well get used to it, your Highness, your station commands such respect.”
+
+“Aren’t you the same man who chafes at his constant protection and insists on bowing to his subordinates no matter how it scandalizes the Church Council?”
+
+Cleric Radden chuckled but did not refute the accusation. Instead he said, “Perhaps we should all sit down. Unless you’d like to return to your birthday party?” He sat in one of the cushioned chairs while Piety and the heir sat across from each other on the couches. The heir gave him a steady glare and he chuckled again.
+
+Sitting across from her, Piety examined the heir. The High Cleric’s study was dimly lit, most of the light coming from the fire that leant warmth to the room. The heir was young, but clearly a woman, not a girl. She was thin and sat up straight, with no slouch or doubt to her posture. Her skin was the regular brown of most people and her eyes were the same, but her hair was grey. It wasn’t the grey of age, but rather a perfect blend of white and black, almost silver. The cast to her features was calm and confident. She looked familiar.
+
+“Do you have any sisters?” Piety asked.
+
+Heir Loreamer raised an eyebrow in an expression startlingly similar to Father Vytal.
+
+“No, I have no siblings.”
+
+“You look much like Devorah Kempenny,” Piety explained. “When Father Vytal and I were in Sunslance…” she trailed off, realizing she had inadvertently accused the Heir’s father or mother of infidelity.
+
+The Heir looked at Cleric Radden. “I thought you said she would insist upon respect,” she said wryly.
+
+“And yet she can be surprisingly direct,” said High Cleric Radden. He looked at Piety. “You’ve brought us straight to the point, Piety.” he said. “As I’m sure you have suspected, the Governor of Kempenny is making things difficult for us, and Heir Loeramer wanted to hear about your adventure in Kempenny Province.”
+
+“Piety, I am the niece of Erin Kempenny, Governor of Kempenny, and I am her only niece. But, like you said, Devorah Kempenny looks an awful lot like me. I wanted to hear the story from someone who was there.”
+
+Piety nodded. “That’s what Father Vytal said. Devorah, the mayor of Sunslance, she looked like you, but with black hair, and younger.”
+
+“She claimed to be the Governor’s niece?” Heir Loeramer asked.
+
+“Yes. And Father Vytal told her that was impossible, but later admitted he could be wrong.”
+
+“Did she display any powers?” Cleric Radden asked.
+
+“She claimed to be a necromancer. She was able to destroy the monsters she had created just by touching them.”
+
+“The vhamps?” Heir Loeramer asked.
+
+Piety looked at her. “They were undead, like from the Scriptures. But somehow the mayor had created them. She made a man named Frederick Vahramp into an undead that could make more like himself, and the ones he created were under his control.”
+
+“Is that the only power she demonstrated?” asked Cleric Radden.
+
+Piety shrugged. She felt like she was in trouble, with two of the most powerful people in the nation interrogating her. She gripped the edge of the couch. Piety looked away from the High Cleric thinking about the last time they’d talked. “No. She’s a very good swordsman though.”
+
+“You’re sure?” Cleric Radden pressed.
+
+Piety took a deep breath before answering. Nervousness prickled across her skin. “I’m sure that’s all I saw her do.”
+
+The High Cleric frowned and Piety leaned away from him.
+
+“Relax, your Holiness,” said Heir Loeramer, “You’re frightening the child.”
+
+Cleric Radden blinked and sat back in his chair, his smile returning like a mask. The prickly sensation vanished. Piety smiled at the heir in thanks.
+
+“Cleric Radden tells me that you’re quite gifted yourself.”
+
+“I have some powers,” Piety conceded, “but my friend, Temperance, is far smarter than I am. She can examine a plant for a few minutes and figure out whether or not it’s good for food or medicine, or if it’s poisonous. She even mixes medicines for the High Temple’s healing house.”
+
+“So I’ve heard. And Marcus tells me she’s planned something this evening for the celebration.”
+
+Piety scooted forward on her couch. “Do you know what she’s planning?”
+
+“Oh no,” said the High Cleric quickly. “I won’t risk Mother Simmons’s wrath if that particular secret is given away before she’s ready. She’s made it quite clear this is meant to be a surprise.” He looked at the heir and smiled. “Piety’s friend started this little project on the auspicious of celebrating the Newyear, but I’m pretty sure it was actually for Piety’s birthday.”
+
+“Is it your birthday?” asked the heir.
+
+Piety blushed. “My founday, actually.” And she chided herself for falling into the habit the Mother Superior had entrenched for her. But it was just too much. Too much that Temperance had claimed she looked like Devorah and that Heir Isabel clearly looked like Devorah also. If Piety should share a birthday with her too, the coincidence would be too much.
+
+“Founday?”
+
+Piety didn’t want to answer and was saved from doing so.
+
+“The day she was found by the orphanage,” clarified Cleric Radden.
+
+“I see.”
+
+“They found me on the front step,” said Piety, despite herself. “It was snowing.” Several silent moments followed.
+
+“Wouldn’t it be something if we truly did share the same birthday, Piety? Especially with you looking like you could be my little sister.”
+
+Piety looked up, and couldn’t deny she’d seen features so much like the heir’s in every reflection of herself. She swallowed hard. “It would be an honor, Your Highness.” She met the heir’s gaze and they studied each other for several moments.
+
+The High Cleric cleared his throat. “Isabel. You wanted to ask Piety about the vhamps?”
+
+Heir Loreamer shook herself. “Right. Piety, the vhamps are running roughshod over the southern provinces, and just because Governor Kempenny is making a nuisance of herself doesn’t mean we can let the people of her province suffer.”
+
+“Yes, ma’am,” said Piety. “What do you need of me?”
+
+“Just tell me everything you know about them.”
+
+Piety sat back. “Well, they’re strong and fast and hard to kill. They burn quickly and sunlight will set them ablaze. They’re telepathic, at least a little bit. I can feel their screams in my mind when they die.” Piety shuddered at the memory. “And they crave human blood. But surely Father Vytal told you this?”
+
+The heir nodded. “I thought, maybe, you might have some insight into… I don’t know, their motivation perhaps.”
+
+The High Cleric broke in. “They’re undead, they don’t have motivation.”
+
+“They’re motivated by hunger and rage,” said Piety
+
+“Piety,” the High Cleric turned his gaze to her. “The undead are soulless. They can’t feel anything.”
+
+“I wouldn’t know, sir. But I shared one’s mind and it was definitely hungry and angry.” That proclamation brought surprised silence. Piety looked from one to the other. “Did I say something wrong?”
+
+“Not at all,” said Heir Loreamer, who was sitting on the edge of her couch, interested now, while at the same time, High Cleric Radden said, “That’s a rare talent, Piety.”
+
+Again, Piety looked from one to the other. She settled on the High Cleric. “What is? It’s just telepathy.”
+
+“No. It’s a specialized form of telepathy. To share the mind of another is extremely rare. Tell me, could you just sense its thoughts?”
+
+“No, sir. I could hear what it heard, see what it saw… He could see heat and hear our heartbeats like he had his ear to our chests, all at once.”
+
+“Interesting,” said Heir Loreamer.
+
+Heir Loreamer seemed prepared to ask another question, but the High Cleric cut her off. “Well,” he said, “we’ve kept you long enough, Piety. I think Temperance will be waiting for you in the square.”
+
+Piety nodded. She stood and bowed to the High Cleric and the heir, then left.
+
+• • •
+
+Temperance caught up with her as she was walking through the great hall to the front doors of the High Temple. Piety rarely left the temple and when she did it was usually through one of the many less ostentatious side doors, so she was still awed by the grandeur of the multiple stained-glass windows depicting the eight saints, and the Sunburst of God, the marble and gold pillars and the scarlet drapery, all dwarfing Sacred Heart in size and splendor.
+
+“I’ve been looking everywhere for you,” Temperance admonished.
+
+“Sorry. The High Cleric and the heir wanted to talk to me.”
+
+Temperance paused, stunned. “What about?”
+
+“Sunslance,” Piety replied. She described her meeting with the High Cleric and her introduction to Heir Isabel Loreamer. She described how the Heir looked like she could have been the older sister of Mayor Kempenny in Sunslance, except for her silver hair instead of black.
+
+“So she looked like you too?” Temperance asked.
+
+Piety nodded. “Her Highness certainly seemed to think so. She said I looked like I could be her little sister. And the High Cleric told her that tomorrow is my birthday, just like her.”
+
+“It is weird how much you and the mayor looked alike,” said Temperance. “So maybe you…”
+
+But Piety shook her head. “I don’t want to talk about it, Temperance. Like I said before, you’re my sister. I don’t need any long-lost royal relatives showing up. Okay?”
+
+Temperance shrugged. “Okay.” But she didn’t sound convinced.
+
+The bells in the sanctuary bell tower began to sound twenty-three-hour, their sonorous ringing permeating the ancient walls of the High Temple.
+
+Piety blinked. “I didn’t realize it was so late,” she said.
+
+“It’s only an hour to the new year,” Temperance said, suddenly frantic. She grabbed Piety’s hand. “Come on.”
+
+Piety let Temperance drag her from the High Temple’s grand hall and into the great square where people had gathered to celebrate. About a half the distance between the High Temple front steps and the old well for which the city had been named, there was an area that had been sectioned off from the crowd with wooden posts, between which were hung thick ropes. Inside the sectioned-off area were several small wooden boxes, and an acolyte named Elijah. Elijah was a skinny boy with big ears who was quite tall. Piety had only seen him once or twice before and was surprised she remembered his name. He smiled at them as they approached.
+
+“Hello, Temperance, Piety.”
+
+“Hello, Elijah,” said Piety.
+
+“Do you have everything?” Temperance asked eagerly, looking at the boxes and shifting them about.
+
+Elijah nodded. “The powder, the pots, the fuses, the matches…”
+
+Piety lost track of the conversation.
+
+As Elijah stood next to Temperance to help her locate what she was looking for, Mother Simmons stepped over the ropes holding back those who were curious and those who weren’t watching where they were going. She held three thick leather aprons
+
+“Piety,” she nodded in greeting.
+
+“Hello, Sister. I hear you all have quite a show planned.”
+
+Mother Simmons’s eyes narrowed. “Did anyone tell you?” she demanded.
+
+Piety couldn’t help a small chuckle. “No, ma’am. They all said you’d wring their collective necks.”
+
+The sister’s expression relaxed, then she smiled and winked. “Quite a show indeed.”
+
+Piety watched while Temperance donned the heavy leather apron and a pair of goggles with round, green-tinted lenses. Temperance and Elijah mixed together several various powders and poured them into a paper packet that Temperance twisted shut and dropped into a metal cylinder. She continued to mix and pour, and Piety lost track. Eventually, after a complicated set of powders were packed into bits of paper and those bits of paper were packed together into a larger package of paper, three acorn sized packages in all, and it was all stuffed into a metal cylinder attached to a broad metal base, Temperance looked up.
+
+She’d gathered a small audience, people who were interested enough to press up against the ropes to watch. Temperance stood and addressed the crowd.
+
+“Um… please step back,” she said timidly. The crowd did not respond, likely because they couldn’t hear her rather than willful disobedience.
+
+Mother Simmons stepped to the center the roped off area. “All right folks, take a few steps back. The exhibition will commence shortly. Everyone take a few steps back.” Mother Simmons’s voice boomed and those within earshot took heed.
+
+“Thank you, Mother,” Temperance said.
+
+The tall cleric winked at her.
+
+Elijah handed Temperance a box of matches and Temperance selected one carefully. She looked up at the High Temple’s clock tower.
+
+“It’s time. Here we go.”
+
+Temperance slid the match across a rough piece of paper and it flared with a bit of smoke and an acrid stench. She touched the flame to a bit of waxed cotton protruding from the top of the cylinder, and the cotton caught fire. Temperance stood and backed away quickly, waving the match to put out the tiny flame. Not watching where she was going, Temperance stumbled over the thick rope meant to keep people back, but Elijah was there and he caught her before she could fall.
+
+“Oh.” Temperance looked up at the skinny boy and Elijah blushed and looked away. Temperance smiled. “Thanks, Elijah.” But her attention snapped to the metal cylinder. Only the few people who’d watched her at work seemed at all interested and not even all of them. Most others were concentrating on the musicians and actors. But Temperance grabbed Piety’s hand and waited with anticipatory silence.
+
+The wick burned down into the cylinder, its orange glow glinting off the metal until it guttered and died. Some in the crowd let out a breath of disappointment.
+
+“I’ll get it,” Elijah said and hopped over the rope.
+
+“No,” said Temperance, “wait.” She reached for Elijah, but missed.
+
+Elijah seemed not to hear Temperance. He hurried toward the metal cylinder. Temperance hurried after him and Piety after her. Mother Simmons shouted. Elijah knelt and bent over the cylinder while at the same time there was a dry echo.
+
+“Elijah!” Temperance shouted. She leapt at the other acolyte and knocked him over. And with him, she toppled the metal cylinder.
+
+A light so bright it seared Piety’s eyes burst from the cylinder and streaked toward the audience. Elijah screamed in agony, his hands going to cover his face. Piety reacted, moving to her mindspace and reaching for her power without allowing herself time for reflection; time, she knew, wasn’t available.
+
+With her mind, with that intangible, invisible muscle that felt of warm blankets and cozy hearthfires and cool, still waters, with that which was her power, she reached for the brilliant light, and a moment stretched into eternity. She took hold of the fiery light and it burned her as though she’d touched it with bare skin, but she did not shy away. Instead, she wrapped it in her power, and she pulled. The fire and light resisted, its momentum was not prepared to be trifled with, but Piety was not prepared to be denied. Bit by bit, Piety pulled and changed the trajectory of Temperance’s creation, sending it into the air, as intended.
+
+There came a second dull echo but in Piety’s focused state, it sounded like deep, slow thunder. She remembered Temperance had stuffed three paper wrapped packages into the metal cylinder. She thrust her hand, palm out, toward the cylinder and the physical motion helped her to focus the telekinetic force, but it was too much. Instead of standing the cylinder up as she had meant to, it toppled over the other way. The second ball of fire and light launched from the cylinder, but this one Piety could see was traveling at such an angle as to be more vertical than horizontal. She would not need to alter its path.
+
+The third and final sound came from the cylinder and this time, Piety twitched her fingers and the cylinder righted itself, just in time to launch its blinding burden straight up.
+
+The world sped to make up for the time Piety had snatched. She could hear the gasps and cries of those near enough to have seen disaster avoided by a hairsbreadth, even if they didn’t understand how it had happened. Piety felt her knees weaken, then buckle, and she fell to the paving stones, flat on her back, staring into the starry night. The sounds of revelry faded and Piety didn’t know if that was because she had hit her head on the stones or if because all waited in silence to see what would happen next. In staring into that star spangled void she felt close to the celestial heavens, like she might reach out and travel into that space beyond the world.
+
+The night exploded in red, then gold, then blue. Like flowers of fire, they opened over the crowd in a startling beautiful display of colored light. The crowd gasped and was silenced. Piety felt her eyes go wide at the spectacle, unexpected delight bloom in her chest. It was like a brief painting of light on the canvas of the sky.
+
+“Piety?” Temperance’s face appeared, blocking out the colored light, her eyes still hidden by her goggles. “Piety, were you hit?”
+
+Piety shook her head and the lack of pain indicated she had not stuck it upon the stones.
+
+“I thought I’d knocked the cylinder over,” Temperance said, relief evident in her voice. “It would have been terrible if someone had been hit.”
+
+“Elijah,” Piety said, and her voice sounded weak.
+
+Temperance frowned at her. “Are you sure you’re not hurt?”
+
+Piety smiled a little. “I…” but she paused. She didn’t want lie to her friend, but neither did she want Temperance to think that she’d nearly hurt someone. “I steadied the cylinder with power… with telekinesis I think.”
+
+“Oh.” Temperance’s eyes went a little wide.
+
+“Is Elijah all right?”
+
+Temperance nodded. “He had a burn across his cheek, but Mother Simmons healed it.”
+
+Piety nodded and sat up. “Good.”
+
+“I didn’t know you were telekinetic,” Temperance said.
+
+“Me neither,” Piety admitted. “It just… happened.”
+
+The stern figure of Mother Simmons loomed over them, and both girls looked up.
+
+“Piety, let me see your hands,” Mother Simmons said.
+
+Piety looked at her hands and her gasp echoed Temperance’s. Her palms were covered in angry red burns like she’d thrust them into a pot of boiling water. Seeing the burns, being aware of the wounds, brought them to mind’s fore and made them sting and ache.
+
+“You were hit.” Temperance groaned.
+
+Piety shook her head, but couldn’t find the words to describe what had happened. Mother Simmons knelt next to her and put a hand on each of her wrists.
+
+“You know how this works, Piety. Just try to relax.”
+
+Piety felt Mother Simmons’s power, that magical power meant to encourage and empower the body to heal itself. Her hands itched but she resisted the urge. After several seconds, the pain faded, but the ache remained.
+
+Piety sighed and thanked the cleric. They joined Temperance and Elijah who appeared to be packing up pots and papers and boxes and such. Around them, the new year revealers were calling to them.
+
+“Are you going to do it again, acolyte?”
+
+“That was spectacular!”
+
+“Was that the only one?”
+
+All around, Piety could hear the excited buzz of the crowd.
+
+As Piety approached, she heard Elijah whisper, “It’s all my fault, Temperance, I’m so sorry.”
+
+“Forget it, Elijah. It doesn’t matter; it was a stupid idea anyway. Dangerous and stupid.”
+
+“But it worked,” Elijah insisted. “It was amazing.”
+
+“I didn’t notice. I was too worried that I’d killed my friend.”
+
+Elijah wilted.
+
+“Temperance, I’m fine,” Piety said.
+
+But Temperance wouldn’t look at her, she just kept packing things away, ignoring the questions from the crowd. Piety rested her hands on Temperance’s shoulders and felt them shaking. Temperance was crying.
+
+“Temperance,” Piety tried again, but Temperance spun about and Piety took a step back to avoid being knocked down.
+
+“This was supposed to be your birthday present. I made this for you. I wanted to make something special for you. And instead, I hurt you.”
+
+“It wasn’t your fault, Temperance. It wasn’t Elijah’s fault either. It was an accident.”
+
+“But I ruined your birthday.”
+
+“No. No, what you’ve created, it’s amazing. I never would have even thought such a thing possible. How did you come up with it?”
+
+Temperance just sort of shrugged. “Experimenting in the laboratory. I found the notes of an old father. I think he’s the one who first made matches. Anyway, Mother Simmons helped.”
+
+“None of that,” said Mother Simmons sternly. “All I did was show you old Father Roquet’s notes. You did the rest.”
+
+Temperance still wouldn’t meet anyone’s gaze. The cries of the crowd grew insistent.
+
+“Acolyte,” Mother Simmons said, “you had intended a more lengthy demonstration, had you not?’
+
+Temperance wiped away her tears on her sleeve and looked up at the mother. “Yes, ma’am.”
+
+Mother Simmons nodded brusquely. “It’s true that disaster was narrowly averted.” She shot a look at Elijah who hunched his shoulders and shrank away. “But it was an impressive display, and I think we all understand what’s going on well enough to avoid any more mistakes. I would like to see more. If you don’t mind.”
+
+“You don’t think it’s too dangerous?”
+
+Mother Simmons shook her head. “What happened was an accident. With a careful and professional approach, it should be just fine.”
+
+Temperance looked at Piety. “Are you mad at me?” she asked.
+
+Piety smiled sadly. “No. This is an amazing birthday gift.”
+
+Temperance turned to Elijah and began issuing orders. Elijah hurried to obey. Soon, Temperance had three more metal cylinders loaded with a potpourri of powders. The clock tower of the Church of Khulanty struck midnight just as they finished. As the bell tolls faded, the night sky exploded with colored light, and the crowd cheered for the new year and for Heir Loreamer’s birthday.

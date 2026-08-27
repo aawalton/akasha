@@ -1,0 +1,207 @@
+---
+id: ef440d74-efac-501a-b481-b008f33eeef4
+page-type-slug: story-chapter-royal-road
+title: "652. Taste of Magic"
+slug: 0030-652-taste-of-magic
+partOf: leveling-up-the-world
+position: 30
+ownLength: 2060
+unit: words
+ownProgress: 2060
+publishedAt: 2022-12-09
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1059143/652-taste-of-magic"
+royalRoadId: "1059143"
+markedReadAt: "2026-06-29T22:41:11.907Z"
+---
+
+Where the hell is it? Twenty instances of Dallion shot bolts into the darkness. No red rectangles emerged.
+
+At this distance even the blue flames weren’t able to illuminate the terrain sufficiently for the guardian to become visible. All that Dallion had to go by were the guard marker cones.
+
+Seconds later, another burst of purple flames flew his way. Dallion didn’t even bother to evade using the armadil shield to block the attack. Immediately after, he split again and shot in the general direction from where the flame had originated.
+
+The guardian must be moving, Nil said.
+
+“You think?!” Dallion snapped. It was obvious that the guardian was moving and doing so quite fast. While it was tempting to attribute that to magic, there was no such indication. Spells would have allowed Dallion to see the entity and not have to rely on guesswork.
+
+It was all out annoying how much the lack of senses affected the outcome of a battle. If Dallion was only missing his sight, that wouldn’t be such an issue. He’d been in similar situations in the wilderness. There, sound and smell made up for it, allowing him not only to determine the position of his opponents but also bring him victory. Here, it was as if the guardian didn’t exist.
+
+“Nox, go down there and find it!” Dallion ordered.
+
+As things stood, this was the most absurd stalemate he had gotten himself into. It seemed that neither could defeat the other, though for different reasons. The guardian lacked the ability to strike all of Dallion’s instances simultaneously, while Dallion was incapable of pinpointing a target.
+
+The puma emerged, leaping out to the darkness below, then disappeared completely out of sight.
+
+Unsummoning the bladebow, Dallion grabbed his harpsisword and played a series of chords. Sounds filled with overconfidence and rage filled the air in an attempt to target the invisible attacker.
+
+Why can’t I see any emotions? Dallion wondered.
+
+He hadn’t had a one on one with a village guardian in a long time, but he was more than confident that he could win with his current set of skills. The magic was the one huge unknown. Given how it transformed mediocre awakened into killing machines that three high-level awakened had difficulty against, it could potentially do the same to an area guardian.
+
+“Can it be invisible?” Dallion asked.
+
+Most definitely. You don’t need to know spellcraft for that. That’s basic elemental manipulation.
+
+Dallion was afraid of that answer. Not only was the guardian fast and able to spray fire, but turn invisible as well.
+
+“Lux, bring me down,” he said. “A foot above the ground.”
+
+To be on the safe side, he burst into a wave of instances. There was no telling whether the guardian couldn’t manipulate the terrain as well.
+
+Found anything, Nox? Dallion switched the way he was holding the harpsisword.
+
+Nope, the familiar replied.
+
+Two more waves of fire were launched at Dallion as he made his descent. Some of them evaporated a few of his instances, but overall, the attacks were harmless. They managed to confirm one thing, though: the guardian was definitely on the ground.
+
+“If that’s the way you want it.” Holding his breath, Dallion swung his weapon, doing a spark infused line attack.
+
+This time, there was a result. The glowing thread went onwards into the darkness, when suddenly part of it vanished.
+
+CRITICAL STRIKE
+
+Damage dealt is increased by 200%
+
+A blob of darkness shattered like the shell of an egg, revealing the outline of a figure.
+
+CANOPA VILLAGE GUARDIAN
+
+Species: RUNE GOLEM
+
+Class: STONE & AIR
+
+Health: 45%
+
+Traits:
+
+- BODY 40
+
+- MIND 50
+
+- PERCEPTION 20
+
+- REACTION 50
+
+- MAGIC 5
+
+Skills:
+
+- GUARD
+
+- ATTACK
+
+- ATHLETICS
+
+- ACROBATICS
+
+- ELEMENTAL CONTROL (Species Unique)
+
+- STONE SHIELD (Species Unique)
+
+Weakness: EYES
+
+A white rectangle emerged for a moment before vanishing again. It wasn’t much, but enough for Dallion to get an idea what he was fighting against.
+
+Of course it would be a golem, he thought.
+
+Having the eyes be the weak spot was somewhat unexpected. He’d have assumed that tendons or joints would be a better candidate. Seeing that the guardian had more magic that Dallion was slightly concerned, as were the value of the other traits. Then again, if it were easy to defeat a village guardian, the mages would have done it by now.
+
+If he doesn’t know spellcraft, how can he use spells? Dallion asked, heading in the direction he’d seen the guardian.
+
+I can’t tell you that, Nil said with an audible chuckle. Clearly there is a way, otherwise you wouldn’t be facing magic flames or invisibility.
+
+Nil, sometimes you really are annoying.
+
+Dallion stopped, then spread out with his instances. No attacks followed on the guardian’s part, prompting Dallion to do another line attack of his own. Sadly, no new rectangles emerged. More than likely, the guardian had used his acrobatic skills to leap over the thread of destruction. Brute strength wasn’t going to be the solution here. Although, one more line attack was all that it took to grant Dallion the win.
+
+Taking a deep breath, Dallion concentrated, using magic layer vision once more. The color of magic was a lot more vibrant around him, but that wasn’t all. This close to the ground, Dallion was able to see the lines of magic, like underground streams. He also saw them be scooped up and thrown at him in the form of flames.
+
+That’s what elemental control is? He asked as a third of his instances were incinerated.
+
+When he’d initially seen Cleric do magic, he had mistaken them for spells. He couldn’t be further from the truth. The magic trait simply allowed a person to extract magic already in the world and transform it into something basic. The only reason it had seemed so mysterious was because, until recently, he wasn’t able to spot all the magic sources around him. Now that he could, the mystery was no more. Also, it gave him an idea.
+
+Ignoring the burning sensation in his brain, Dallion dashed to the nearest magic “stream” and reached out for it. The only thing more peculiar than physically grabbing magic was the soft and flaming sensation that came with it. The closest thing Dallion could compare it was like grabbing a worm of boiling jelly. The intensity made him instantly drop it. For the time being, it was safer to stick to magic.
+
+MINOR STRIKE
+
+Damage dealt is increased by 10%
+
+A red rectangle suddenly appeared.
+
+Thanks to the successful line attack not too long ago, Nox had managed to spot the guardian and had gone on the offensive. The void nature of the puma allowed it to claw through the invisibility bubble and into the golem’s arm. It wasn’t much of a blow, but it did its part. More importantly, it provided Dallion with the information he needed to do a targeted point attack.
+
+Get out of there! Dallion ordered, as he thrust the harpsisword forward.
+
+Purple sparks burst from the ground, culminating in a loud blast.
+
+CRITICAL STRIKE
+
+Damage dealt is increased by 200%
+
+The guardian came into view, along with its white rectangle. Looking closely, Dallion saw that its health had only gone down by ten percent. Considering the amount of damage he had done with his last attack, the only conclusion he could reach was that the golem was able to heal itself as well. Normally, that would be a bad thing, but Dallion had enough experience to know exactly how to react in such situations: go on an unrelenting all-out attack.
+
+The first thing he did while the guardian was still visible was to play a series of chords on his harpsisword. With the invisibility gone, the golem’s emotions were easy to see, like large blobs within its body.
+
+A connection formed. The golem was too strong to be immobilized by the effect of music itself, but not enough to reject the doubt and weight that was put into him through the melody. Breaking into a dash, Dallion kept on playing, all the time moving closer and closer. Then he switched hold and lunged forward with his weapon.
+
+Sensing danger, the guardian leapt in the air. This time, no point attack followed. Instead, Dallion leapt up along with the golem.
+
+Art attack, Dallion thought.
+
+The tip of his blade pierced through parts of the guardian’s arms and torso, moving back as if Dallion was sewing. Red rectangles appeared, stacking one over the other. Each did the smallest amount of damage, but taken together, they continuously decreased the golem’s health.
+
+“Surrender,” Dallion said, switching to a multi-attack.
+
+Slabs of stone emerged from the guardian’s body, shielding him from any attacks. Tapping his sword, Dallion sliced through them like butter, continuing with his attacks.
+
+“Surrender,” Dallion said again. “I know your pattern.”
+
+The guardian’s health was at ten percent now. Surrender was the logical thing to do, yet the golem stubbornly persisted, fighting a losing battle mid-air. The outcome was obvious, but just to make certain, Dallion’s last strike was a point attack right in the guardian’s chest.
+
+TERMINAL STRIKE
+
+Damage dealt is increased by 1000%
+
+With a fraction of a second, the guardian burst into a cloud of sand. As he did, the realm’s night abruptly came to an end, and the sun emerged in the middle of the sky.
+
+CANOPA level increased
+
+CANOPA has been improved to TOWN
+
+Dallion landed on the ground. Breathing heavily, he still looked around, as if expecting another attack.
+
+Well done, dear boy! Nil congratulated him. Now, that wasn’t so hard, was it?
+
+For several seconds, Dallion just stood there, unsure how to reply. An achievement would have been nice, as would have been a rectangle, confirming him as the area’s new owner. He knew that to be the case—the realm felt similar to his own awakening realm. Dallion knew the location of everything in it, including the guardians. At the same time, he could shake the hollow feeling that went through him.
+
+Dal? Nil asked. Is anything the matter?
+
+“I thought it would feel more fulfilling.” Dallion replied.
+
+A lot of things in life rarely do. You can admire your new realm if you wish. Maybe that will cheer you up?
+
+“I’m not feeling down.” Dallion unsummoned all his weapons. “I guess I don’t know what I expected.” He closed his eyes. When he opened them again, the village had changed. For one thing, the place seemed a lot newer. The magic “patches” were gone, replaced by flawless walls and buildings.
+
+The change took a while to get used to and not only for Dallion. Mages were looking about as well, trying to deal with the massive déjà vu that had befallen them.
+
+Maybe next time, don’t mend settlements, Nil advised. It’s less awkward that way.
+
+“Bravo.” Dallion heard clapping from the direction of the administrative buildings. Mage Eleria was standing in front of the entrance—where she wasn’t just a split second ago. “Now we’ll finally be able to build a few more animal pens.”
+
+It was obvious to everyone that she wouldn’t be the one doing the actual building, but Dallion nodded nonetheless.
+
+“And you even mended the town,” the mage added. “Outstanding. It didn’t present a challenge, I trust?”
+
+“No, it didn’t.” You knew what you were getting me into, didn’t you?
+
+Improving the village was done very much for Eleria’s benefit, but at the same time, it had also shown Dallion a few things regarding magic—things that no doubt she was unable to share.
+
+“Good. Well, you better have some food and rest. You’ll be heading towards the capital first thing tomorrow.”
+
+“Lanitol?” Dallion blinked. “I thought I was going to the Academy.”
+
+“The Imperial Capitol. That’s where the Academy is located. I strongly suggest you keep in mind everything we discussed earlier. Also, learn the rules as quickly as possible. The next time we meet will be under very different circumstances. Don’t forget that.” The sudden sternness in her voice suggested that he had been given a lot of leeway until now. Whatever he was doing wrong wouldn’t be tolerated for much longer.
+
+“I will. Thank you, mage.”
+
+“You’re very welcome, dear boy. Do your best. I hope to see you again in a few years.”

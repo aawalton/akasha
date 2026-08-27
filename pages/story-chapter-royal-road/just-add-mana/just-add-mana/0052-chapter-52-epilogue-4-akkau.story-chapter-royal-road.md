@@ -1,0 +1,119 @@
+---
+id: 0a88a521-8a6f-5d01-99ac-a21895a64ad6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52 — Epilogue 4 — Akkau"
+slug: 0052-chapter-52-epilogue-4-akkau
+partOf: just-add-mana
+position: 52
+ownLength: 2019
+unit: words
+ownProgress: 2019
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2703847/chapter-52-epilogue-4-akkau"
+royalRoadId: "2703847"
+markedReadAt: "2026-06-29T18:49:21.898Z"
+---
+
+Akkau had earned many names throughout his very long life. The Thousand-Cored Beast was the one he earned in his earliest days on Utelia, and he thought of it now with a wistful sort of fondness.
+
+Things had been much easier back then. Even with Dragonfall—or Vekorax, as Cale insisted on calling it—hunting them down, his kind had still numbered in the thousands, and the threat of extinction seemed both distant and immaterial. Vekorax was hardly the first to try to extinguish all of dragonkind, and at the time, Akkau had assumed with some arrogance that it would not be the last.
+
+For there had been many, many threats and attempts to end the "threat" of dragonkind. They were one of the few creatures capable of traveling between the realms, and those that learned of them quickly realized that their kind had no compunctions against using wing or claw to tip the scales of history.
+
+There was a danger in that. Some thought them to be harmless benefactors, others saw it as interfering with the development of a realm, and still others thought of this as outright tyranny.
+
+The truth, as Akkau saw it, was far simpler. Dragons were individualistic and capricious creatures. There was no grand conspiracy. Each dragon needed to be judged on their own merits.
+
+Not that the people of the Great Realms saw it that way. And there was a greater threat to their mere existence that frightened even those that saw no fault in their actions. Their species was the only one to ever bridge the gap between myth and realmborn. When they first appeared, they had been living mythologies like so many others, forced to operate under strict rules.
+
+At some point, however, that had changed. They shook off the shackles of myth and legend and became a species in their own right. That was what many saw as an outright existential threat, for if any myth could make that transition to reality—if they could shake the rules that ought to hold them fast—then what could stop the greater myths from doing the same?
+
+The idea of one of the Named managing to do this, for instance, terrified many. While they pretended to be realmborn and adopted the mannerisms of many of them, the fact remained that they were perhaps some of the most alien creatures that were capable of existing within the Great Realms. Their motivations were too often inscrutable, and their morality entirely foreign to those that walked the realms.
+
+So dragonkind became a target. Not only from the fearful, who wished to prevent their secrets from passing on to other myths, but also to the Named, who wished to learn their secrets.
+
+Which was unfortunate, because not even dragons themselves knew how it had happened. As far as Akkau was aware, it was something that had happened, with no particularly remarkable event to explain their transition.
+
+Very few believed this, of course. The attacks had only died down once dragons proved time and time again to be capable of defending themselves, and a slow understanding took root, allowing them an uneasy sort of peace settling amongst the realmborn.
+
+In time, they became just another species, albeit one that held an enormous amount of power. Some dragons were worshipped as gods, others outright managed to make the ascension into deity...
+
+Honestly, Akkau had never seen the appeal himself. To become divine was to take up the trappings of belief once more. What would the point of their initial ascension be, if they simply took on the same chains that mythology had once brought upon them?
+
+Still, point remained: there had been many attempts to end the so-called threat of dragonkind, and they had always thrived in spite of it. So when the first rumors of the Dragonfall began to spread, Akkau had simply dismissed them. Even if their own great mages couldn't stop the threat, the divines surely could; they who had taken on the chains of divinity had enough power to stop even the greatest of threats that had ever befallen them.
+
+His early visits to Utelia had been during this time, before he truly understood the threat that faced them. It was more a passing curiosity that called him to the realm than anything else, for very few other dragons had settled here.
+
+Utelia, after all, existed right on the boundary of the Great Realms, on the outer edges of the Abyss and right at the limit of the Leviathan's influence. It made traveling to other realms a pain. Most dragons preferred to stake their territory nearer to the Leviathan's Heart, where one could use the cosmic nexus as a way to accelerate through the Abyss.
+
+Moving to other realms here on the edge of existence, on the other hand? It was slow. Even spells seemed to drag here when moving through the Abyss, causing delays in inter-realm communication, summoning, and scrying, along with a bevy of other magics.
+
+It was one of the reasons he still held hope that perhaps there were others of his kind out there, hiding at the edges of existence, where their magics would take years to reach him. Perhaps his signalling spell had not been ignored, and the answer was traveling to him now...
+
+Akkau sighed. He knew exactly how unlikely that was. He'd calculated the odds time and time again—
+
+A box on his table rattled, breaking him out of his reverie. Akkau blinked at the innocent-looking box of blood obsidian, then sighed and opened it, letting Cyte burst out eagerly. For a beast that had apparently helped consume an entire realm, this particular one seemed... remarkably innocent.
+
+It was even waving at him. Akkau had no idea where it had picked that up. From Cale, probably.
+
+"Are you hungry again, little one?" he asked, smiling slightly at the voidcyte's antics. "You have a fearful appetite."
+
+"Not little!" Cyte immediately protested, then pounced on the scattered attunement papers he fed it. Akkau wondered briefly how it would react to being fed one of his artifacts, then winced at the thought of what Imrys would say if she discovered him doing such a thing. "And we are hunger given form! It would be stranger if our appetite was not fearful. You should fear it. And us."
+
+It looked at him pleadingly. Akkau just laughed and gave it a pat on one of its many tendrils. "If I were to fear you, then who would feed you?"
+
+The voidcyte paused, looking remarkably stricken for... well, for a formless shadow-void made of countless tendrils. "We did not think of that," it admitted. "Do not fear us. You should continue feeding us instead."
+
+"Do you always think with your stomach?"
+
+"We think with our seventy-eight stomachs." Cyte consumed another attunement paper, then burped, looking incredibly satisfied. "Seventy-nine."
+
+"Ah, is that how that works," Akkau said dryly.
+
+Cyte nodded eagerly. "Yes! Our elders have many stomachs. We see it as a sign of wisdom. Those with more stomachs know where best to acquire snacks, so they must be followed!"
+
+"Much like how mages admire those with many cores, I suppose..."
+
+"Yes! Mage-core is like stomachs!" Cyte agreed immediately. "How many stomachs do you have, smaller star?"
+
+"I see my ego will not survive your persistence," Akkau said, amused. "I have but the one stomach, though if you refer to my cores, then it is in a rather unique situation. I can split them into one thousand, seven hundred and twenty-eight minor cores for layered casting."
+
+Cyte stared up at him, manifesting several dozen eyes just so they could widen at him. "You are like one of our elders," it said admiringly. "No wonder you feed us. You know where all the snacks are kept."
+
+"That is not..." Akkau sighed. Why was he trying to explain this? Cyte's concerns were far different from his own. "I suppose you can see it that way, yes."
+
+"Is that why you brought the star here?" it asked curiously, crawling out of its box and up onto Akkau's wrist. The dragon glared, briefly considering pushing it off and shoving it back in the box, but eventually relented with a sigh.
+
+"I did not... bring him here, exactly," Akkau said reluctantly. Again, it was beyond him why he was discussing this with Cyte, of all people. Then again, maybe that was exactly why: Cyte didn't operate with realmborn morality, and so it was the least likely to judge him.
+
+Though Cale himself seemed aware that he had something to do with the summoning. The old dragon let out a tired sigh, dragging a hand along his snout.
+
+"I orchestrated events, yes," he muttered softly. "I saw that those two were likely to attempt a terrible summoning. One that required sacrifice. I knew that their ritual required a dragon and a planar being; I sought to alter their secondary summoning so it would bring forth a planar being capable of ending the threat to my kind, as well as one capable of healing the divide that has grown in my academy.
+
+"It was... an ambitious plan. A foolish plan, in truth. I regretted it deeply the moment the die was cast, but I have tried many, many things to help my students. Each year only brought greater loss, and if these students were foolish enough to attempt to wreak such havoc, I hoped I could at least use it."
+
+Akkau's gaze grew slightly distant. "I thought I had failed, at first, and I was willing to let their ritual take me," he admitted. "A dragon cannot die by their own hand, and the wards I placed outside would have prevented any undue damage from their summoning. I hid circles beneath the rocks to preserve the lives of the other victims. I thought I had prepared for everything. Even for Sternkessel to take my place, for as much as we have fought in recent years—and as much as he believes I do not know this—he loves our students as much as I do.
+
+"Now that I think about it... it is a strange thing, but I suspect part of his anger with me is because some part of him knew what I had chosen." Akkau looked down, suddenly guilty. "I should apologize to him, should I not?"
+
+"Only if he has less stomachs than you do," Cyte replied, clearly not having focused much on any of this explanation. He was busy picking random items off Akkau's desk and eating them, in fact. Akkau didn't have the heart to stop him.
+
+Then the voidcyte hesitated. "Wait. We are confused. Your secondary summoning brought you the star! Why did you think you failed?"
+
+Akkau blinked. "...Because he seemed an archmage at most, and because he was a simple human," he answered. "I know better now, but—"
+
+Cyte interrupted him. "Ah! You are fooled by the star's shadow. Yes. We know of this. No realmborn can see it! You cannot see the shadow when you are part of it, yes?" It waved a few tendrils around excitedly. "We think that metaphor works. But we are not good at metaphors. We need more stomachs for that."
+
+Akkau had no idea why the voidcyte was suddenly so fixated on the stomach thing. Or what the voidcyte meant, for that matter. "What?" he asked, confused. "Why would a star have a shadow?"
+
+"All things have shadows!" Cyte said, as though the question was ridiculous. "The greater the being, the greater the shadow! You are being very silly. Even five-stomach voidcytes know this."
+
+"Excuse me?" Akkau sounded slightly affronted. He was not used to being called "silly."
+
+"Hm. We cannot show it to most realmborn... ah, but you have a hole! Perfect. We will use the hole."
+
+"Excuse me?" Akkau repeated, now at a distinctly higher pitch. Then he realized the voidcyte was staring at the black scale on his wrist, not at... anything else. Still, he had no idea what it was talking about. "What are you—"
+
+Cyte surged from his wrist into his blackened scale, and Akkau's eyes widened.
+
+"...Oh."

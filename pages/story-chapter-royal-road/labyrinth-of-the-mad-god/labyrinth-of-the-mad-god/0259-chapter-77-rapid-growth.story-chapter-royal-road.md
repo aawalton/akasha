@@ -1,0 +1,311 @@
+---
+id: e6cc849c-d1ab-5217-8ecc-d45297608841
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77: Rapid Growth"
+slug: 0259-chapter-77-rapid-growth
+partOf: labyrinth-of-the-mad-god
+position: 259
+ownLength: 2664
+unit: words
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2836662/chapter-77-rapid-growth"
+royalRoadId: "2836662"
+---
+
+Nick sat with his legs crossed, focusing on the rhythm of his heartbeat and the mana flowing out from his core, through his energetic channels, between his outstretched hands, and back.
+
+Through the crystal wall, he cast his gaze across the submerged city the System had designated as a dungeon, studying the intricate flows of force mana forming the magic dome that held the water back. Meditating down here had sharpened his mage sight, letting him pick up minute details he would have missed just a few short weeks ago.
+
+At the same time, he used his superhuman Mind to consider every manifestation of force magic he had witnessed since dawn his adventure. The Janitor’s force armor, the partitions on the third floor of the tower, the dome protecting the Trial Administrator, and the bubbles he had ridden in orbit were the most prominent examples, but there were a few other experiences that might teach him something useful, so he pulled them up too.
+
+Finally, he conjured an Arcane Shield, comparing its energetic composition to the other examples. The weaves of force mana are similar, but the pure mana forms a matrix that repels incoming magic without disrupting the shield.
+
+Nick was trying determine the underlying principles that made force barriers function. After brainstorming with the other mages and performing this exercise daily, he had identified a few structures that were present in every manifestation he’d seen. He still couldn’t replicate them by hand, but he was starting to understand the science of magic on a deeper level, at least as far as force defenses were concerned.
+
+Sure enough, his meditation was interrupted when an update from the System wavered into existence.
+
+Your understanding is sufficient to advance Arcane Shield to Rank 1.
+
+You have accumulated sufficient essence to advance Arcane Shield to Rank 2. However, you lack the understanding required to advance the ability at this time.
+
+Would you like to advance Arcane Shield to Rank 1 now?
+
+Awesome. This method should help me advance my other abilities too.
+
+He had also absorbed enough force essence over the last few days for Arcane Shield to reach rank two once he obtained sufficient understanding. I can’t wait to find out what upgrade I get. First, things first. Let’s take the spell to rank one now.
+
+He accepted the prompt and was overcome with a vision that reviewed his use of Arcane Shield. It wasn’t as helpful now that his memory was so good, but the experience offered a few insights that might be useful later.
+
+Grinning at his accomplishment, Nick moved on to the next part of his training—drawing the ambient mana in his environment into his energetic core. While advancing Arcane Shield was a major step forward, it wasn’t the only progress he’d made in his attempts to master the magical arts.
+
+While studying with the mages, he had realized his core naturally drew in life mana, although he could absorb compatible types from his surroundings too. Whenever he cast a spell, his core converted the mana into the frequency the magic required. Some energy was lost in the process, like filtering light through colored glass.
+
+However, if he had absorbed that type of mana directly, there was no need to filter it, and no energy was lost. This discovery would let him expand his effective mana pool, as long as he planned his expenditures ahead of time and collected the types he needed.
+
+Nick was also getting better at manipulating the mana in his environment without absorbing it and expelling mana from his core and weaving it himself—a process he hoped would allow him to modify and free cast spells once he mastered the technique.
+
+His latest breakthrough in this area was something he’d learned from Ella, accumulating and expelling small amounts of gravity mana. The only effect it had at his current level of proficiency was increasing the weight of his body by about ten pounds. He wasn’t discouraged, since that was exactly what he’d been hoping to achieve, taking him one step closer to a goal he had been pursuing for some time.
+
+I need to improve before I give it a test run though. I don’t want to be carried across the continent by a stiff breeze.
+
+After bringing his session to a close, he bid the researchers farewell—who were engrossed with the runes covering the dungeon’s door. Right now, opening it was a secondary goal, since the man leading the team thought the lock was a puzzle based on the fundamental laws of magic.
+
+It meant that in addition to obtaining whatever treasures were sealed in the dungeon, working on the puzzle was advancing Aurora’s understanding of mana. Every day, the team down here met with the group researching the wells, pooling their findings to allow for parallel advancement instead of working on redundant issues.
+
+While these thoughts passed through his head, Nick climbed the winding staircase leading to the surface—ears popping several times from the change in pressure. He spent a few minutes gazing at the Shrine of the Faceless gods before following a path between the prolific boulders to the dock his people had built, where several rafts were lashed.
+
+Before he set sail, he peered into the water, searching for any sign of danger. Team Earth had spotted the creature in the lake on two separate occasions, but it was so shy that it had vanished into the depths within seconds being sighted.
+
+They hadn’t been able to make out the details, but it was a gigantic beast covered in deep blue scales. More critically, people with information-gathering abilities had confirmed that whatever it was, it had no hostile intentions.
+
+They were hoping to learn more soon and proceeding with caution in the meantime, but the lake was no longer off-limits, which meant his people could enjoy the water. Given the sweltering heat and pervasive dust of the badlands, the shoreline was a popular destination. With their attributes, it was easy to minimize their ecological footprint, and Aurora intended to keep the lake as pristine as possible as the city grew.
+
+While he floated toward the settlement, Nick watched the city’s newest members training with Kenji, going through a series of drills intended to teach them battlefield awareness, how to handle their weapons, follow orders, and fight as a team. There was a separate program that focused on performing in smaller parties, along with countless other endeavors to help narrow the gap between these recent arrivals and Team Earth’s elites.
+
+Abby’s people were adapting remarkably well. Some of them weren’t suited to living in a dangerous Frontier biome, but being surrounded by powerful people offered them a sense of security they deeply appreciated.
+
+They had reported the location of several settlements in the jungle biome they had come from. Kenji had sent a team to conduct an extensive survey of the region and establish contact. Hopefully, they will be a better fit for the people who aren’t happy here. I should see if Desert Rose is open to accepting new citizens too.
+
+There had been a few disturbances thus far—mostly altercations between the new arrivals—but a warning from Ella had been enough to rectify the situation. Fortunately, she seemed to enjoy her role as sheriff, as long as it didn’t take too much time out of her day.
+
+Liz was planning to make the position permanent if she could talk Ella into it. Maintaining order would be important as Aurora grew, even though there was no crime to speak of and such conflicts were few and far between.
+
+On the whole, Aurora’s new citizens were fitting in, and Elizabeth planned to use their integration as a template as the city grew. They were contributing in various ways—everything from cleaning and maintenance to crafting, harvesting, and exploration. A fair number were training hard to improve their combat skills and advance their abilities, participating in scouting runs to help them level up by fighting monsters and completing challenges.
+
+The challenges that could be repeated had been attempted by almost everyone in the city, offering a modest but reliable means of gaining experience, essence, City Points, and the consumables that were in chronically short supply until the crafters learned how to make their own.
+
+Of course, the new arrivals weren’t the only ones who had made major gains over the last few weeks. On that note, Nick pulled up his updates to consider his recent progress.
+
+Through vigorous exercise, you have conditioned your body and improved the following baseline attributes:
+
+Dexterity has increased from [20] to [21].
+
+Strength has increased from [20] to [21].
+
+Toughness has increased from [20] to [22].
+
+You have deepened your emotional and social awareness and improved the following baseline attribute:
+
+Charisma has increased from [13] to [15].
+
+Through intensive study of magical forces and visualizing complex processes, you have improved the following baseline attributes:
+
+Magic has increased from [15] to [19].
+
+Creativity has increased from [15] to [17].
+
+Mind has increased from [16] to [20].
+
+Through sensing the minds in your environment and testing your psychic powers against a difficult opponent, you have improved the following baseline attributes:
+
+Psi has increased from [6] to [8].
+
+Through use, you have improved the following skills:
+
+Foraging has increased from [14] to [15].
+
+Light Shield has increased from [20] to [21].
+
+Size Up has increased from [22] to [23].
+
+Tracking has increased from [9] to [11].
+
+All in all, he was thrilled with his recent gains. He had even managed to improve his Psi by killing-intent dueling with Ella, and a few other people who had picked up similar techniques.
+
+Nick hadn’t viewed his full profile in quite a while, so he went ahead and pulled up his menu to ponder how far he’d come since arriving on Earth.
+
+Contestant Profile: Nicholas ‘Nick’ Henry.
+
+Level: 34.
+
+Tier: 1.
+
+Species: Human of Earth. Grade: E.
+
+Class: Force Weaver (Rare).
+
+Attribute Points Per Level: +1 Magic, +1 Creativity, +1 Mind. +2 Free Points.
+
+You have 4 unspent free points at this time.
+
+Attributes
+
+Strength: 21 (29)           Dexterity: 21 (38)          Toughness: 22 (39)
+
+Mind: 20 (38)                  Creativity: 17 (31)         Charisma: 15 (17)
+
+Magic: 19 (52)                Psi: 8 (20)                        ???
+
+Abilities
+
+Ability Slots: 2 Active. 1 Passive. 1 Free.
+
+Filled Slots: 2 Active. 1 Passive.
+
+Note: Only abilities granted by ability stones and unranked abilities retained from previous classes require slots.
+
+Active Abilities
+
+Arcane Shield (Spell). Rank: 1. (You have enough essence to advance the ability to Rank 2 but lack the understanding required to do so).
+
+This spell creates a barrier formed from interwoven layers of force and pure mana. As a result, it can defend against most forms of attack. This barrier can be placed anywhere within 50 feet of the caster’s position but must be manually repositioned with an effort of will.
+
+Mana Dart (Spell). Rank: 4. Path: Vital Energy Disruption.
+
+Creates a magical projectile formed from pure mana that disrupts all forms of vital energy (health, mana, and stamina), turning them against the spell’s target.
+
+Heavy Blow (Combat Art). Rank 0. (You have enough essence to advance the ability to Rank 1 but lack the understanding required to do so).
+
+Heavy Blow consumes stamina to imbue a weapon strike with extra inertia, increasing its destructive potential.
+
+Piercing Ray (Spell). Rank: 1. (You have enough essence to advance the ability to Rank 3 but lack the understanding required to do so).
+
+Creates a rotating drill of force mana. The spell moves fast but takes time to reach full power.
+
+Passive Abilities
+
+Force Acceleration. Rank 2. Path: Kinetic Projection.
+
+Drastically increases the speed of movement in exchange for draining mana at a rapid rate. (This ability may be turned on and off at will.) After deactivating the skill, most of your kinetic energy will continue to travel in the direction you were moving, dramatically reducing your momentum
+
+Traits
+
+Class Traits
+
+None. (The trait for this class has been incorporated into your bloodline).
+
+Geneline Traits
+
+Awakened to Magic (Enhanced)
+
++1 to Magic. 10% increased mana capacity and rate of regeneration.
+
+Blend into the Background (Enhanced)
+
+Blend into the Background generates a potent layer of optical camouflage for up to one hour each day. The effect also masks body heat and reduces sound and scent to a lesser extent.
+
+The trait can be switched on and off at will, and these effects take 5 seconds to reach full power. The trait will not function against a creature that knows exactly where you are.
+
+Gift of Tongues (Enhanced)
+
+You can understand and speak the languages of all intelligent creatures. This trait is inheritable and will be granted to all members of your species in perpetuity.
+
+Versatile (Enhanced)
+
++1 to all attributes. +1 free ability slot. 15% increased rate of skill improvement.
+
+Bloodline Traits
+
+Filled Bloodline Slots: 4. Open Bloodline Slots: 6.
+
+Blightborn: Your bloodline trait capacity has doubled. +2 to all attributes.
+
+Force Adept (Enhanced): You receive a significant bonus to mana efficiency and scaling from energetic attributes when casting spells that use force mana, and a modest bonus to those using pure mana. Force Adepts are unable to cast elemental spells and receive a substantial penalty when manipulating elemental-aspected mana in any way.
+
+Survivor (Enhanced): You require 50% less food, water, oxygen, and sleep.
+
+Mana Manipulation [Non-Elemental]: Increases your sensitivity to non-elemental mana, making it easier to perceive and manipulate. This includes both the mana originating within your core and the ambient mana present in the environment. Mana Manipulation is helpful when creating original spells that are not granted by the System.
+
+Profession
+
+Trailblazer (Uncommon).
+
+Trailblazers specialize in exploring the multiverse and surviving in uncharted territory, with a lesser emphasis on surveying dangerous biomes. (This Profession is only available to newly-integrated species).
+
+Skills: Foraging. Pathfinding. Size Up (Evaluate Threat). Stealth. Tracking.
+
+Trait: Storm Chaser.
+
+Storm Chaser grants its bearer the power to sense weather patterns, especially dangerous and magical variants. It will help them notice changing conditions early on and may provide some insight into the nature of the danger.
+
+Faction
+
+School of the Ever-Surging Blade (Initiate)
+
+Faction Bonus: Sword skill is unlocked with no cap, regardless of class.
+
+Techniques
+
+Arctic Clarity
+
+You may enter a state of extreme focus at will, shutting out external distractions, intense sensations, and undesirable emotions. This power will not function at full strength if it has been used recently.
+
+Predatory Domain
+
+You can project your killing intent and indominable resolve to assault the minds of your enemies.
+
+Portal Visionary
+
+Your consciousness has a natural propensity to resonate with the energy of the cosmos, which manifests as visions. Other situations beyond experiencing the portal network may trigger this technique.
+
+Theater of the Mind’s Eye
+
+You can visualize memories, objects, and mental models with a remarkable level of clarity and precision.
+
+Skills
+
+Active Skills
+
+Acrobatics: 10
+
+Evasion: 24
+
+Foraging: 15
+
+Light Armor: 6
+
+Light Shield: 21
+
+Pathfinding: 0
+
+Size Up: 23
+
+Stealth: 5
+
+Sword (Journeyman): 28
+
+Blade-Weaver: Wielding a sword requires significantly less stamina. This includes both the natural drain from moving your body and the cost of activating combat arts.
+
+Tracking: 11
+
+Wand: 24
+
+Inactive Skills (Inactive skills may be used but not improved.)
+
+Throwing: 9
+
+Inventory (Uncommon and above)
+
+Adventurer’s Coat (Rare). Modifications: Durable. Self-Maintenance. Elemental Resistance. Force Distribution.
+
+Bag of Molding (Rare).
+
+Battlemage Armor (Rare). Modifications: Self-Maintenance. Durability. Flesh Guard. Otherling Resistance.
+
+Battlemage Helm (Rare). Modifications: Self-Maintenance. Durability. Transparency. Mind Guard.
+
+Elixir of Restoration (Rare). Modifications: Soulbound.
+
+Explorer’s Boots (Rare). Modifications: Self-Maintenance. Durability. Elemental Resistance. Sound Dampening. Enhanced Leap.
+
+Wand of Force (Rare). Modifications: Soulbound. Skill Activation (Wand). Living Artifact.
+
+Arena Dagger (Uncommon). Modifications: Eversharp.
+
+Adventurer’s Toolbelt (Uncommon). Modifications: Self-Maintenance.
+
+Pugilist’s Gloves (Uncommon). Modifications: Durable. Self-Maintenance.
+
+Cloak of Thermal Regulation (Uncommon). Modifications: Self-Maintenance.
+
+Caster’s Buckler (Uncommon). Modifications: Durable. Self-Maintenance. Magic Resistance.
+
+Half-Length Scabbard (Uncommon). Modifications: Durable. Self-Maintenance. Quickdraw.
+
+Blightbane (Unidentified).
+
+Short Sword (Unidentified).
+
+Wand (Broken, Unidentified).
+
+Immensely satisfied with his progress, Nick lowered the anchor on his raft and stepped into the city.

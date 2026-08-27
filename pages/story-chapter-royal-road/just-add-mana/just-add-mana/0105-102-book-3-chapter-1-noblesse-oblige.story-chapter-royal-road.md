@@ -1,0 +1,229 @@
+---
+id: db5ebe95-9cd2-5f6f-ae47-e81288259414
+page-type-slug: story-chapter-royal-road
+title: "102 — Book 3, Chapter 1 — Noblesse Oblige"
+slug: 0105-102-book-3-chapter-1-noblesse-oblige
+partOf: just-add-mana
+position: 105
+ownLength: 4069
+unit: words
+ownProgress: 4069
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3094846/102-book-3-chapter-1-noblesse-oblige"
+royalRoadId: "3094846"
+markedReadAt: "2026-06-29T18:51:15.763Z"
+---
+
+Cale Cadwell Cobbs wanted to go back to studying at the academy, which was odd enough that he wondered if he needed to get his head checked.
+
+Probably not. This was technically well within his expectations. He just hadn't expected it to wear on him so quickly.
+
+Now, he'd known even going into this deal with Naria Greenthistle that it would be. Nobility in general was exhausting as a matter of course; they existed in almost every realm he visited, and they were almost universally arrogant and egotistical.
+
+Which wasn't to say there were no great exceptions. There were. These were the ones that Cale most admired, because they considered their status a responsibility rather than a privilege; they were the caretakers of their people, and much beloved for it.
+
+They were just also unfortunately a minority, at least in all the realms he'd been to. So he'd learned to keep his guard up around nobility as a general rule—one could never be too careful, after all.
+
+House Greenthistle was strange, however, in that they didn't quite fit into either category. Cale had encountered plenty of minor exceptions, but none quite as difficult to deal with as them. Their arrogance wasn't the usual sort, borne of unfounded belief in their superiority. Instead, it was borne of actual practice and skill, and the real problem was that they seemed to think their talents meant they were owed more than they were.
+
+And not even by a lot! If they had been full of unbridled arrogance, it would've been easy enough to put them in their place. Instead they were reasonable about it when they were corrected, and they would ask to learn, and then he'd spend half a day slowly guiding some ridiculously handsome or beautiful elf that refused to put on a shirt for reasons unbeknownst to him.
+
+Cale grumbled to himself. If only Leo and Flia hadn't insisted on drilling etiquette lessons into him. He could've done without the knowledge that taking any of them up on it would embroil him in some nonsensical thing of political marriage. They'd even predicted that Naria Greenthistle would encourage the members of her House to do something like this.
+
+Which would have annoyed him if they had been clearly reluctant, but no, they were all very enthusiastic. He was relatively certain they'd made a competition out of the whole thing. He'd caught two elves whispering and trading gold earlier.
+
+Bah.
+
+All of this meant, in effect, that Cale was forced to deal with far too many individuals of any gender trying to impress him in various states of undress while he went about his duties. The fact that their enthusiasm was real made some of their attempts at impressing him genuinely endearing, in spite of himself.
+
+Not enough that he was going to get embroiled in politics, though. So rebuffing them all was getting tiresome, no matter how many novel forms of amusement it provided him.
+
+Of which there were many. So, so many. He was, for example, as yet uncertain as to whether that one elven woman had actually gotten stuck upside-down in a chandelier, or if it had been an act to show off her flexibility.
+
+He lent them his help where he could, which they seemed to genuinely appreciate, and spent the rest of his time investigating the matter that Naria had wanted help with. All questionable incidents with members of House Greenthistle aside, that was at least something he found genuinely interesting. It was no wonder she'd gone to Akkau to ask for help—he doubted an average mage would be able to understand much about what was happening.
+
+Cale had been expecting some political scheme, or perhaps his assistance as a mana battery in some grand ritual.
+
+Instead, Naria had presented him a mystery.
+
+She was certain there was some sort of magical effect influencing the workings of her House, but none of the mages she hired had been able to find anything, let alone determine what it was. A few of them had apparently suggested to her that she was simply imagining things, and Naria had explained this with the sort of dripping vehemence that conveyed perfectly exactly what she thought of that.
+
+The problem was bad luck. House Greenthistle had been experiencing a streak of bad luck. Papers went missing at the exact moment they were needed, despite meticulous organization and recordkeeping; members of the House or its working staff fell sick on days they were particularly needed; the supplies needed for their alchemy labs, the primary source of their income, were lost just before they would have arrived—too late to order a new batch in time for their next shipment.
+
+Every noble house ran into issues like this, of course, and it had apparently been worse than usual for everyone of late. Naria had been open about that. Despite her suspicions, the streak of bad luck they were having wasn't extraordinary by any means. The weather had been poor recently, so supplies were more likely to be lost and members of the staff were more likely to be sick, which would in turn cause them to lose papers they would otherwise be able to keep track of.
+
+"But you're sure it's magic," Cale had said. Naria nodded firmly, so he agreed to investigate—
+
+—and after about a day on her estate, he was pretty sure she was right.
+
+The Thread of Fate he carried in his mana core was a curse in many ways, but it was also a useful tool when it came to examining curses—or similar magical effects—that related to karma or luck. Cale wasn't certain if this was actually centered around either of those two aspects, but whatever the truth, it was close enough that just his proximity triggered a noticeable result.
+
+After all, the Thread of Fate tended to interfere with other similar magical effects. Destructively.
+
+There was a lot that remained unknown about the Thread of Fate, in spite of the many attempts that various scholars made to study it. Like most forms of fate-related magic, it tended to resist any concerted effort to understand it, with probability itself bending to ensure it remained poorly understood.
+
+But it had a very real presence on many of the Great Realms. It was a core component of the cycle of darkness and divinity, for its presence alone heralded increased activity from whatever dark one threatened that realm. So despite the risks, scholars had persisted in studying it, and they had achieved...
+
+Well, less than they hoped, but they'd certainly achieved some base understanding of what it did. Somehow, it wove itself into the karmic lines of a realm, forcing various events to entangle with whoever held the Thread.
+
+More important for this circumstance was the fact that it could not be subverted. Much like the hierarchy of magic, there was a hierarchy of fate, and the Thread of Fate stood above it all. Luck charms and probability magic fell apart in its presence, often in ways that undid whatever effect it had in the first place.
+
+Cale had read a great many papers about it, and he'd spoken to just about any scholar he could find. He had good reasons for doing so, of course, and most scholars that studied it were excited to speak to him: he represented a strange exception among the holders of the Thread. Most of them were Chosen Ones of some nature, subject to some prophecy, but Cale was rather explicitly not.
+
+Instead, his Thread ensured he got involved with any other Thread of Fate that was active. The first time he truly used his magic for anything other than a basic barrier on any realm, it was unleashed, and it would latch on to any compatible mana core in his vicinity. It was why he was so careful about it now—all too easy to use a mana blast carelessly and turn some unwitting innocent into a Chosen One.
+
+That was what his version of the Thread did, after all. It seemed like all the others, but within that silver thread of mana was the faintest glimmer of gold, only visible when examined by ritual amplification.
+
+And his version of the Thread was particularly testy when other forms of probability magic tried to interfere with it.
+
+Within the first twelve hours of Cale's arrival on the Greenthistle estate, part of the attic collapsed, revealing several crates of magically preserved supplies that the last potionmaker had squirrelled away in case of emergencies. There was enough excess in that supply to create the potions needed to alleviate the symptoms of those members of the House and its staff that were still sick.
+
+Within the next twelve hours, the head butler—who had inexplicably gotten stuck in the attic for reasons no one could determine, though given the furiously blushing noblewoman that accompanied him, Cale could certainly guess—miraculously remembered that there was a full backup of all of House Greenthistle's documentation in some dusty archive at the back of the library.
+
+It was pretty easy, after that, to conclude that some sort of probability-manipulating effect was definitely involved. Cale could practically feel the Thread's indignation at having to unmake such petty and uninspired probabilities.
+
+Or he was just projecting. He was pretty sure the Thread wasn't a person.
+
+Whatever this effect was, though, it was relatively new to him. Like Naria said, there was no apparent mana he could use to trace back to its source, which was unusual for probability magic. He spent the first three days navigating around the members of House Greenthistle and investigating various potential sites, hoping to find some trace of ritual magic; there were none.
+
+Then he began looking for the influence of an Abyssal One, or perhaps the anchor for some sort of domain. That, at least, would explain its ability to influence events without making any direct use of magic. That hadn't led to anything, either.
+
+But he did begin to realize that his Thread wasn't completely neutralizing whatever this was. It was similar to a probability-based curse, but it wasn't the same, and so instances of bad luck were still happening, even if the Thread reversed them afterward. By moving around and paying careful attention to what was happening around him, Cale could map out exactly where this effect was strongest, and therefore exactly where it didn't want him to go.
+
+Which was the basement, obviously. In retrospect, the fact that he kept getting distracted by some absurd event or the other every time he got close to the basement should have made it apparent. But also, of course it was the basement; why would it be anywhere else?
+
+A week investigating this, when he could have just checked the basement. Cale grumbled to himself, then approached the door that led down into the basement.
+
+...There was an out-of-order sign on the door.
+
+Cale stared at it for a few seconds. "You're a basement door, you know," he said. "Basements can't be out of order. That's not a thing."
+
+The basement door did not respond. Cale sighed, then tried to open it anyway, though he found himself entirely unsurprised that it was locked. He called for one of the nearby butlers to produce a key, which promptly fell into a hole in the floor, and watched with a distinct sense of exasperation when the butler managed to get stuck ass-up trying to reach for it.
+
+"I need to get an unlocking spell," he muttered to himself after helping the poor butler out of the hole. The key was predictably gone, carried off by some scurrying rat or the other; Cale wasn't too worried about it. The Thread would either reverse that soon and drop the key into his lap, or he'd have a different way of getting in.
+
+Probably the latter, since he was getting tired of this. He just needed a way in, preferably without breaking the door down. Breaking the door down might make Naria upset, and she would have grounds to ask him to stay longer, or something.
+
+Again, he sighed. If his apprentices hadn't spent so long drilling him on noble etiquette...
+
+He did technically have an unlocking spell now, but it suffered from the same problem most of his evolved spells did—the spell effect was too large. [Decay Boundary] was his dreadshade apprentice's version of it. Damien had created it to cross barriers and other potential impediments.
+
+When Cale tried casting it, he'd evolved [Merge Thresholds] instead. It was a good thing they'd tested that in the labyrinth, since that spell had proceeded to melt the entire labyrinth into a single enormous room. It recovered eventually, at least, but that had been a harrowing fight for his apprentices. (Cale had refused to participate, of course, because at the level they were at it was a good experience for them.)
+
+It was too bad, but while it would have been convenient, he technically didn't need an unlocking spell. The past week or so had given him a guess as to what was happening here, and if he was right—
+
+—he needed someone to talk to about this. It just wasn't the same when he didn't have an apprentice to ramble at. Cale wandered around, then stopped at the first person he ran into. One of the maids that Naria employed, he thought? She had a maid outfit on and everything.
+
+"What's your name?" he asked.
+
+"Um... Mylah, sir?" Mylah said, looking at him with wide eyes. Cale briefly wondered how she managed to make the maid outfit work; she was a thornspine, a species that tended to bristle with literal thorns whenever they were startled, and she was very much covered in them at the moment. The fabric was enchanted against it, maybe?
+
+He dismissed the thoughts. Not important at the moment. "Mylah, then!" he said. "I need your help. You're going to pretend to be one of my apprentices."
+
+"What, sir?" Mylah asked blankly.
+
+"Basically just follow me around and make noises when I say things," Cale said, already striding back toward the basement. Thankfully, she followed after him, looking vaguely bemused.
+
+"So!" he said. "Naria's worried about some kind of luck curse that was placed on House Greenthistle. I'm pretty sure she's mostly right, but there's a few things that have struck me as kinda weird about it. For example, if it was just luck or karma, my Thread would neutralize it. Whatever this thing is, it's still able to act."
+
+The basement still said it was out of order, and Mylah looked at it, apparently confused by the sign. "Do you need me to get a key, sir?"
+
+"Nah, that wouldn't work," Cale said. "We'd just get another butler stuck in a hole or something."
+
+Poor Mylah was looking increasingly confused. "A hole?"
+
+"Not important," Cale said. "But think about what I just said. It's still able to act. That's significant, isn't it? Why is it significant?"
+
+"Because that means it is... doing things?" Mylah offered helplessly.
+
+Cale snapped his fingers. "It's doing things," he said. "Exactly. It's taking action. It's defending itself, which means it's alive. It's not a curse at all! It's some sort of magical creature trying to protect itself."
+
+"But why would it try to affect the House, if it did not want to be discovered?" Mylah asked, trying to follow his line of thought. Cale grinned at her.
+
+"That, my dear apprentice, is an excellent question," he said. "Most magical creatures fear discovery; it's a baked-in instinct. They're new to the world, but they know what might happen if they're discovered—especially if they're useful in some way. So they try to find a way to fit in and disappear into the ecosystem. There are probably thousands of minor magical creatures at any given moment that no one even knows about. So why is this one making a move?"
+
+He didn't wait before continuing, caught up in his own thoughts. "It could've been trained," he said. "Maybe someone wants to sabotage House Greenthistle, so they trained whatever this is to affect the House. But that would require figuring out how to train a creature that no one's ever heard of just to make things inconvenient for Naria Greenthistle. I don't exactly know the politics in the area, but that seems like a lot of politics for very little gain."
+
+Mylah was staring cautiously at the door. "Y-you believe there is a monster in there?" She sounded horrified. "A natural-born monster?"
+
+"Oh, no," Cale said, and then he reconsidered. "At least, I wouldn't call it a monster. That's a very loaded word, you know. I have friends that call them critters instead. It's a much kinder word."
+
+Mylah blanched. "But—they attack us. The natural-born."
+
+"The ones you know about," Cale said. "Because those are the only ones worth talking about. You're not going to hear a story about a critter that shows up and then just harmlessly prances around, are you?"
+
+"I-I suppose not?" Mylah seemed uncertain and was staring at the door doubtfully, but she was at least thinking about it.
+
+"The point is that it's probably a magical critter of some kind," Cale said. "Now, I could be wrong about the training thing. Maybe someone just really wants to inconvenience Naria. But I'm pretty sure I'm right about it being a critter of some kind! And if that's the case..."
+
+He paused and joined Mylah in staring at the door. She jumped when she noticed him standing beside her. "S-sir?"
+
+"You know," he said. "This thing is suspiciously powerful, don't you think?"
+
+"Powerful, sir?" Mylah seemed frightened.
+
+"I mean, think about it," Cale said. "It's basically altering events at will. Bad luck is one thing and coincidences are another, but does your House even use out-of-order signs? What could possibly be in the basement that requires an out-of-order sign?"
+
+"I..." Mylah hesitated, then for the first time, looked more carefully over the sign. "I do not think I have seen that before, sir."
+
+"And we know it's not exactly luck or karma," Cale said. "What is it, then? Why is it doing it? If it's a natural-born monster, then its first instinct is to hide, and its second instinct is to feed. The second instinct overrides the first when it becomes desperate enough, so everything that's happened must have something to do with what it feeds on..."
+
+He frowned for a moment, thinking, and then his gaze abruptly softened. "Oh, you poor thing."
+
+"Sir?" Mylah glanced over at him, confused.
+
+"You should stop calling me that," Cale said absently. "Cale is fine. But don't you see? It could've done a lot worse, if it can just change events at will. So whatever this is, it probably doesn't actually want to hurt the House. Maybe because it needs to feed on the House, or maybe because it just actually doesn't want to hurt anyone."
+
+Flia had opened his eyes to that one. His water elemental apprentice had really grown into her abilities as she worked with Professor Tarbloom on cataloguing various magical creatures; they might have their instincts, but they also had different temperaments.
+
+In particular, some of them hated causing harm, though their natures required them to in order to feed. Flia always felt bad for them, and much of her research focused on finding alternatives. Professor Tarbloom had approved that as a secondary project for her.
+
+No one left behind, as she would say.
+
+"I feel like you're making a lot of assumptions," Mylah said, her tone still uncertain. Cale chuckled.
+
+"Assumptions are the name of the game, but I have figured out a lot of its limitations over the past week. I've tested this in a few different ways. I just needed to put it all together." He closed his eyes. "It has to feed on something, but it doesn't want to cause undue harm. Whatever it feeds on produces these problems as a side effect. It's limited in some way, or I wouldn't even be here..."
+
+He trailed off.
+
+"It's rationing," he said. "The poor thing is starving. Doesn't have enough food, can't get too much of it without hurting people, and me being here complicates things because the Thread can undo what it causes. The inconveniences always stack up more after it does something to stop me from investigating the basement—"
+
+As if to confirm his words, there was a resounding crash from somewhere upstairs. Mylah flinched and yelped, thorns bursting out of her skin, but Cale didn't react to it.
+
+"—probably because not everything it changes feeds it," he said. "So it drains itself to stop me, and then it has to start eating again so it doesn't starve. Which leaves outcomes."
+
+"Outcomes," Mylah repeated, trying to calm herself. She glanced nervously in the direction of the crash. "I... I should help with whatever that is, sir. Cale."
+
+Cale nodded, distracted. "Of course, of course," he said, waving her away. "Outcomes. I should have seen it. Good outcomes, specifically, although I don't know how you'd judge how good an outcome is. Good for whom, you know? But it fits; you feed and subsist on positive outcomes, but you can consume any outcome, it just comes at a cost if it's not a positive one. That's what you're using to keep me out of the basement."
+
+He glanced back at the unassuming basement door. "I'd help you if I got in there," he said. "But you're feeding on that outcome, too. Is it all you're feeding on right now? That and whatever just happened upstairs? Sheesh. Must be hard." He thought for a moment. "Okay. I'm going to give you a feast. Any number of positive outcomes. Should keep you fed for a while. Just leave me something vaguely positive so I don't inadvertently end up blowing up the mansion."
+
+Evolving the spell from the Gift was a matter of outcomes, after all, and many of them were positive. Many of them were spells he really wanted, in fact. He glanced over his spell list, then sighed—he'd been hoping to save this for when he could guarantee getting himself a flight spell, but he was pretty sure that was the exact outcome this thing would feed on, considering how much he wanted it.
+
+Oh well. All for a good cause.
+
+He cast a spell.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Windborne] has evolved into [Frigid Gusts]!
+
+[Frigid Gusts, Level 1] [Eighth Tier (Unique), Active] [1.0e27 Mana]
+
+Conjure a gust of freezing wind, bypassing most barriers and obstacles. The Gift suggests its caster wear a coat.
+
+Oh, great. Cale winced and hardened his barriers, though not before a truly devastating chill slipped through; he shivered violently and scowled, but resisted casting a fire spell to warm himself up, lest he put too much mana in it and burn the place down. This was still tolerable, if only barely.
+
+The winds also caused the door to freeze over completely, which was secondary to the ridiculous coincidence of the distinct click of the lock coming undone. Cale gave it a distrustful glare, then sighed and gingerly pushed it open.
+
+Thankfully, the door did not shatter into dozens of broken splinters at his mere touch. Instead, it swung open silently, revealing a dark room that was thankfully much warmer than the now-frozen corridors outside, and what looked like a drooping cactus sitting in the middle of it.
+
+Even as Cale watched, however, it shook, then began to plump up again, its stem returning to a healthy green. A pink flower bloomed at the top. It quivered at him, as if uncertain of his intent, but Cale shook his head and smiled.
+
+"I know a water elemental that will be delighted to take care of you," he said wryly. "You know, I told my apprentices I wouldn't bring them any gifts? Now I'm going to have to get them all stuff. You better help me out. It's going to be days before I can try for a flight spell again."
+
+The cactus-thing quivered again, this time in what seemed like relief. Cale shook his head, smiled, and began the laborious process of putting it in a pot so he could transport it.
+
+At least he'd be seeing his apprentices again soon. He wondered how they were doing.

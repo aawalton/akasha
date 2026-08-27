@@ -1,0 +1,529 @@
+---
+id: aa489a9a-21f7-51a3-9924-406c4dd94c4a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 09"
+slug: 0010-chapter-09
+partOf: light-cleric
+position: 10
+ownLength: 7093
+unit: words
+publishedAt: 2021-03-27
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/653449/chapter-09"
+royalRoadId: "653449"
+---
+
+Father Shane stood shirtless in the early morning, breathing hard, a short sword in each hand. He was covered with a fine sheen of sweat that steamed against the cool of the dawn air. The ragged, red scars of the night before had been healed to thin white lines like a haphazard spider web across his face and arms. It was a testament to Father Vytal’s skill and power as a healer that the scars had been so reduced. One of those thin scars started just above Father Shane’s left eye, ran across his lips, and ended at his right jaw. His left eye, once a normal dark brown, was now a pale, unearthly blue.
+
+Father Vytal hurried to Father Shane’s side to look down at the creature still pinned to the ground on Father Shane’s great sword. Sweep followed slowly, Temperance at her side. When they arrived, they found the creature twitching and groaning painfully around the broad blade that pierced its side. It was still curled in on itself, its face hidden by its hands. Its clothing was in tatters about its body, its hair was lank upon its head. In the coming morning light, it looked more like a starved, pitiable person than an abnormally strong, fast, and ravenous monster.
+
+“God’s Beard,” said Father Shane, “It is a demon.” He looked at Father Vytal. “An actual demon.”
+
+Father Vytal knelt beside the creature and reached out carefully, prodding its back with his fingers. Sweep could feel him contacting it mentally. After a few moments, Father Vytal took a deep breath, flexed his shoulders, stood, and stepped back. The others stepped back with him.
+
+“Well,” he said, “It’s not a creature from some hellish Realm. But neither is it entirely human.”
+
+“So not a demon? Then what is it?” asked Father Shane.
+
+“Undead. But not one I’m familiar with,” Father Vytal replied. “A few days ago, he was Samuel Baker. Now he barely even remembers that much. He is consumed with hunger for human blood.”
+
+“Undead, like in the Scriptures” said Sweep. The horrible images of her nightmare at Noble Putnam’s returned forcefully. The papery-skinned, relentless, starving monstrosities rose from their graves and reached for her.
+
+Temperance held her hand tightly and Sweep was pulled from the dream. She bit her tongue on a scream and leaned into her friend.
+
+Father Vytal nodded. “I believe so, one that specifically requires blood.”
+
+“How was he so fast and so strong?” Father Shane asked. “I’ve fought a lot of undead and none of them are fast. Zombies are strong and a lich is brilliant, but this thing moved twice as fast as a mountain cat.”
+
+Creatures whose hearts did not beat, lungs did not breathe, but who shambled on in a horrific mockery of life, were a tale from the Scriptures like demons and dragons. Her nightmares notwithstanding, Sweep had thought they were creatures of the distant past if not total fabrications. Father Shane talked about fighting the undead as a common occurrence. Perhaps, for him, it was, which made him like a hero from the Scriptures. Sweep looked at Father Shane with new awe.
+
+“Maybe his transformation brought on new powers.” Father Vytal suggested, “I don’t know.”
+
+Father Shane shook himself. “The Council will want to know about this.” He hefted his swords and twirled the one in his right hand. “Do you think if I behead it, it will die?”
+
+Father Vytal closed his eyes and ran a hand over his face. “I have no idea. Its constitution is clearly impressive as it has survived hours with your sword through its body. I know of no living thing that can survive long without a head. But then again, it’s undead. It doesn’t live the way we understand it.”
+
+Father Shane grunted and twirled his sword again.
+
+Temperance squeezed Sweep’s hand, gaining her attention, and whispered, “Is something burning?”
+
+Sweep instinctively looked back at the campfire, looking for evidence of burning breakfast, trying to remember if she’d touched anything involved in preparation. But the campfire was bare of meal preparation.
+
+“It’s smoking,” Father Shane exclaimed, taking a quick step back from the creature, the others following his example.
+
+In the next moment, the creature burst into flame, screaming and writhing, tearing itself from the blade of the great sword. Sweep backed up quickly, staring with fascinated horror, while Temperance hid her face against Sweep’s shoulder. The fire burned hot and fast. At the back of her mind, like a high wind that dried the eyes, she felt a sound, a piteous whine trying to be a scream. Sweep made sure her mental shield was in place and could feel it vibrating against the squeal.
+
+The creature squirmed and rolled, it beat at itself with burning arms, it croaked in desperate agony until its throat was powdery ash and it could scream no more. The whine at the back of her mind lingered a moment longer.
+
+Soon after it had ignited, the fire died away, leaving only greasy ash and a foul smell on the air. Father Shane’s sword was impaled in the ground, blackened but whole.
+
+“Sorry about your sword, Jack.” Father Vytal said with a laugh.
+
+Sweep shifted her wide-eyed gaze to her mentor. Father Vytal was pale and shocked despite his light tone, and his laugh had a hard edge to it.
+
+Father Shane swallowed hard but responded glibly. “It’ll take more than a bit of spontaneous combustion to hurt a sunblade, Tristam.”
+
+“You have a sunblade? Since when?”
+
+Their conversation had a forced tone to it. They were trying to affect nonchalance, though whether for the benefit of the young apprentices or for themselves, Sweep was uncertain.
+
+“Several months ago. You weren’t there to vote, but I assured the council you’d vote yes.”
+
+“Ah. Congratulations.”
+
+The clerics didn’t look at each other, keeping their gazes on the smoldering remains of the creature. Temperance kept her face hidden against Sweep, shaking. The sounds of wildlife, having gone silent during the piercing shrieks of the burning undead, returned before any of them spoke again.
+
+“Have you ever seen anything like this?” Father Shane asked.
+
+“No, this is a first,” said Father Vytal.
+
+“Why did it do that?”
+
+“It was the sun,” Sweep said.
+
+She was certain. When they first approached it, before the sun had fully risen, the undead creature had been in the shade of the trees of their little grove. Now the ashes lay dappled in sunlight.
+
+“A sword in its side didn’t kill it, but a few spots of light burned it like it was doused in oil.” Father Shane mused. “Interesting.” He strode forward and pulled his sword from the ground with a grunt. “But it’s dead now, truly dead. Though we should scatter its ashes, just to be sure.”
+
+“There are more of them out there,” Sweep said, remembering the creature’s thoughts when she had shared its mind. “This one was created by another.”
+
+“How many?” asked Father Shane.
+
+Sweep shook her head. “I don’t know.”
+
+Father Shane retrieved a rag from his equipment and began cleaning his sword of greasy ash. “Well, Tristam, seems there really are demons.”
+
+“Undead are not demons,” Father Vytal replied. Then he laughed, a short, harsh sound. “You’ll say anything to be contrary, won’t you?”
+
+Father Shane grinned. “No, I won’t.”
+
+Father Vytal shook his head. “Would you like to put your hunt for traitors on hold and hunt undead instead?”
+
+“Indeed.”
+
+To be certain the undead creature wouldn’t reform its body out of the ashes, as Father Shane assured them could happen with a particularly tenacious undead, they gathered what they could into an earthenware pot. What was left on the ground, they scattered using a spade from Steady’s packsaddles.
+
+As they resumed their travel, they scattered the ashes to the wind every few miles and crushed the pot into powder when it was empty.
+
+• • •
+
+Sunslance was a city the size of Riverton, but it had no inner and outer city. The entire city was contained in its high, stone walls. Its large, iron-bound gates stood closed. A guardsman in the black and blue of House Kempenny met them at the gate. Unlike Riverton, which had been overseen by a county magistrate, Sunslance was home to provincial guards. The guard wore three gold knots on his left shoulder indicating an officer rank. Fifteen more guardsmen were arranged behind him in neat ranks. The late afternoon light glinted off of their well-maintained armor and weapons.
+
+“Fathers,” the guardsman greeted them warily. “What business do you have in Sunslance?”
+
+Father Shane dismounted, handing his reins to Sweep. Sweep took the reins without thinking then held them uncomfortably, unsure what to do with them. Their ride south had made her proficient at not falling off a saddle, not so much at actually riding a horse.
+
+Father Shane took several steps toward the officer. “We are here at the behest of the Council. Your Mayor sent for us.”
+
+The man cleared his throat uncomfortably. “His Honor, Mayor Theobald, is dead, sir. The city is under quarantine and we have orders to let no one in or out.”
+
+“Orders from whom?” demanded Father Shane.
+
+“Governor Kempenny, sir.” The guardsman looked increasingly uncomfortable, but seemed confident in the veracity and potency of his orders.
+
+“She gave you these orders personally?”
+
+“Her niece acts as her proxy, sir.”
+
+Father Vytal asked, “What’s your name, Lieutenant?” He leaned forward, resting his arms on his saddle and smiling in that grandfatherly way he had.
+
+“Loman, sir.”
+
+“Lieutenant, my name is Tristam Vytal, I’m a healer, and my apprentices,” he gestured behind him, “are training in the same craft. If there is a sickness in your city, we are well equipped to handle it.”
+
+Lieutenant Loman swallowed hard. “My orders didn’t say anything about healers.”
+
+“Did your orders say anything about a Sword of the Church?” Father Shane asked.
+
+Lieutenant Loman glanced at Father Shane but didn’t answer. He shifted uncomfortably. “I’ve heard your name before, Father Vytal. They say you can bring people back from the dead.”
+
+Father Vytal shook his head. “No one but God can do that, and He wouldn’t. But I can heal sicknesses with magic and with herbs.”
+
+Lieutenant Loman closed his eyes and shook his head. “Sir, my orders were explicit. No one in or out.”
+
+“Lieutenant, I know Erin Kempenny, the Governor. I know how formidable and tenacious she is. I know she is loyal to her people and would do anything she could to protect them. You are an officer of the guard of Kempenny. How far will you go to help the people you’ve sworn to protect?”
+
+• • •
+
+“I expected a city with a name like Sunslance to be a little more… cheerful. This place is downright gloomy.” Father Shane groused over a bowl of thin stew.
+
+Sunslance had been quarantined for two weeks, which had stopped the flow of goods from the farmers and tradesmen who lived outside the city. Food stores were running short and the Crown of Rays, the inn Lieutenant Loman had conducted them to, had nothing better to offer than thin turnip soup and watered beer. Lieutenant Loman had left them to wait while he reported to the mayor, the governor’s niece, on their arrival.
+
+“Do you really know Governor Kempenny?” Sweep asked in a low voice. The common room was half full of unhappy travelers who’d gotten stuck in the city, and she wasn’t certain she wanted them overhearing her question. Governor Kempenny’s popularity was dismal amongst trapped travelers.
+
+Father Vytal nodded. “I do. The odd thing is, I also know her only sibling, Margaret.”
+
+“The Consort?” Temperance asked.
+
+“Exactly. Royal Sean Loreamer’s wife, Margaret Kempenny Loreamer.”
+
+“Wait a moment,” Father Shane leaned forward. “That Officer Lyman fellow said that the governor’s niece was acting as the governor’s proxy. But if the governor only has one sister, and that sister is Margaret Loreamer, then the governor’s niece is Heir Isabel.”
+
+“Indeed,” agreed Father Vytal. “And I find it hard to believe that Heir Isabel Loreamer is away from the palace and ordering cities in Kempenny Province under quarantine.”
+
+Father Shane smiled. “A mystery. I’d forgotten how much fun it is to be around you, Tristam.”
+
+Sweep looked at Father Shane, incredulous. “Yesterday you nearly died. You call that fun?”
+
+“I abhor boredom, child. Any day I don’t feel some excitement is a failure.”
+
+“I’d be happy with a little more boredom,” Temperance said. “I like Father Vytal’s approach, traveling around and quietly helping those in need.”
+
+“Hey now, I offered to send you two off to Kinswell, but you insisted on coming. No take backs now, brats.” Father Shane grinned before turning his attention back to Father Vytal. “Anyway, Tristam, do you think that Officer Leehman was lying to us?”
+
+“Loman,” Father Vytal corrected. “And no, I don’t. But I don’t think he’s aware of the whole truth either.”
+
+“And what is that?”
+
+“I hope to find out.”
+
+Only twenty minutes later, as Sweep drank the last of her soup, the door to the street opened and everyone in the common room got quiet.
+
+Sweep set down her bowl and looked up to see Lieutenant Loman trailing a girl into the common room. The girl was clad in an elegant black dress with dark blue trim and a matching blue waistcoat. At her hip was a thin sword and Sweep wondered if the girl knew how to use it. She had the brown skin and brown eyes common to the Nation of Khulanty, but her hair was pure black and shined in the dim light of the common room. She had a confident cast to her expression. The girl stopped at their table, Lieutenant Loman stopped a pace behind her.
+
+“Good afternoon, Fathers. Lieutenant Loman tells me he allowed you to break my quarantine.”
+
+Father Shane leered. “You’re awfully young to be Mayor Theobald.”
+
+Lieutenant Loman stepped forward. “I already told you, sir, the mayor is—“
+
+The girl cut him off. “That’s enough, Lieutenant. You are dismissed.”
+
+The officer’s eyes widened and he took several steps back, like she had struck him. He looked about to protest, but swallowed hard, turned on the spot, and marched from the common room.
+
+“Miss Kempenny, my name is Father Vytal. I’m a healer. If you’re having an outbreak, I can help.”
+
+The girl nodded once. “Quite right. Come with me please.” She turned then, and left, not waiting to see if they followed.
+
+Father Shane looked at Father Vytal, a small smile betraying his amusement. “Shall we follow the girl?”
+
+Father Vytal nodded and stood. “I think so. She’s clearly in charge, and she certainly reminds me of her aunt.”
+
+“So you believe this girl is Governor Kempenny’s niece?”
+
+Father Vytal shrugged. “If not by blood, certainly by temperament.”
+
+As they left the common room, Temperance said in a quiet voice, “Piety, this is… peculiar.”
+
+“It was peculiar yesterday when that monster attacked us. And then again this morning when it wasn’t dead.”
+
+Temperance shook her head. “That’s not what I’m talking about. The Governor’s niece, if she were a little shorter, and had white hair, she’d look just like you.”
+
+“She looks like me?”
+
+Temperance nodded. “Like you were sisters. And since you’re an orphan and Father Vytal doubts this girl is the blood relative of the governor, perhaps she really is your sister.”
+
+Sweep stopped walking. For a moment, she couldn’t feel her body, her vision blurred, and a buzzing filled her ears. A sister. It felt impossible, but in that moment, Sweep entertained the idea that perhaps her family was out there, somewhere, existing in the world. She couldn’t have sprung from nothing, after all.
+
+But looking vaguely like a girl who probably wasn’t really related to the Governor of Kempenny proved nothing. And assuming a familial bond was too farfetched to entertain for long.
+
+“Piety?”
+
+Sweep took a breath. Temperance looked at her, concerned.
+
+“I didn’t mean to frighten you,” Temperance said.
+
+Sweep shook her head. “It’s fine.”
+
+“It’s just that—“
+
+But Sweep cut her off. “It’s an interesting thought, Temperance, but not likely. And even if it is true, you’re my sister.”
+
+Temperance smiled and together they joined Fathers Shane and Vytal outside the inn.
+
+On the cobbled-stone street, a carriage already hurried away and a second stood waiting. A tall, thin man stood at the carriage door and opened it for them. Father Vytal entered and Father Shane motioned for Temperance to precede him. Sweep followed Temperance but Father Shane laid a gentle hand on her shoulder.
+
+“Piety.”
+
+Sweep paused and looked at Father Shane.
+
+“Tristam told me I have you to thank for my eye. Said that he didn’t have the strength to fix it but that you insisted on trying.” He rubbed at his cheek, just under the now pale blue eye.
+
+Sweep nodded. “Yes, sir.”
+
+“Thank you, Piety. I owe you one.”
+
+Sweep shook her head and patted his hand. “No sir. That’s not how it works.”
+
+• • •
+
+The mayor’s mansion was richly appointed. The room they were in contained three couches and several large, upholstered chairs. Thick rugs covered the stone-tiled floor, which had been polished to a shine. All of the upholstery and rugs were patterned in blue and gold. Oil on canvas paintings of pleasant and pastoral landscapes adorned the walls while decorative vases held bouquets of flowers, freshly picked. Three large windows dominated one side of the room, stretching nearly from floor to ceiling, the small panes of glass held together with lead. The room was overly warm thanks to the fire in a fireplace large enough to roast a whole cow.
+
+Night fell while they waited for the girl, Mayor Kempenny as the servants referred to her, to attend to some other business. When she finally arrived, servants trailed her, bringing trays of tea, cookies, cheese, wine, and other refreshments.
+
+Father Shane unabashedly availed himself of the food, loading a small plate with the bite sized portions and pouring himself a small glass of wine before settling in a chair with a pair of extra pillows. His sunblade rested in its scabbard, point down, against the side of the chair. He balanced the plate upon a knee and sampled the cheeses.
+
+Following his example, Sweep and Temperance each took a plate but only took a few snacks apiece. Sweep chose two fruit pastries and a cookie.
+
+The girl in black, poured herself a cup of tea and added two spoons of sugar with ritualistic care. She picked up the cup, blew on the steaming liquid, and took a small sip before smiling faintly.
+
+She looked at Father Vytal and raised one elegant, black eyebrow at him. Sweep held in a small chuckle as the cleric’s most common non-verbal question was returned on him.
+
+“Won’t you take refreshment, Father?”
+
+“I must admit, Miss Kempenny, I’m a bit confused and not a little concerned.”
+
+She nodded and took another sip of her tea, looking at Father Vytal over the rim of her cup. For some time, neither said anything. The fire crackled gently.
+
+“Did the councils send you?” she asked suddenly.
+
+“The Church Council sent me,” said Father Shane, brushing at his beard to dislodge a few crumbs. “A Sword of the Church to deal with the demon.”
+
+The girl nodded. “Of course. And you, Father?” she looked at Father Vytal.
+
+“No.” Father Vytal shook his head. “Father Shane just happened upon me as he was heading this way and invited me to join him.”
+
+She turned her attention to Father Shane. “And have you found what you came for, Father Shane?”
+
+Father Shane was finishing his small glass of wine and did not interrupt the draught to answer. When he was done, he gave a large sigh, and a small belch, and set the glass down. He stretched his massive arms wide and there was audible popping as his joints stretched. “Not yet, Miss Kempenny. But I haven’t even gotten started looking, and demons can be tricksom little devils. Ha! Get it?”
+
+Unobtrusively, Sweep laid a hand on Temperance’s arm. Easily, she slipped into her mindspace and achieved the calm and concentration necessary to access her powers. In the moment of thought when she could see the room in her mind, she noted her subconscious had moved a black knight on the chessboard. She moved a white cleric in response, certain she was about to lose this game though not yet certain how.
+
+Then she accessed her telepathy and whispered into Temperance’s mind.
+
+“Is Father Shane acting a bit strange?”
+
+Temperance nodded only slightly. “I think he and Father Vytal are playing a sort of game. Father Shane is pretending to be… buffoonish.”
+
+“Shrewd.”
+
+“So it’s demons that concern you?” The Kempenny girl set her cup on the table.
+
+Father Vytal took several moments before he closed his eyes and nodded slowly, once. “Always.”
+
+“And you think they’re here in Sunslance?”
+
+Father Shane leaned to the table and poured himself another glass of wine. “Mayor Theobald did.”
+
+“Mister Theobald is gone, abandoned his post. I’m the mayor now.”
+
+“On whose authority?” Father Shane demanded.
+
+“My aunt, the Governor of Kempenny Province.”
+
+“Kinda’ a titchy brat for bein’ a mayor, aren’cha?” Father Shane drank the small glass of wine in a swallow.
+
+The girl’s eyes narrowed angrily.
+
+Sweep held in her smile; Father Shane’s game was succeeding.
+
+“Mayor Kempenny, please excuse my fellow Son of God. He’s a fighting man, and not accustomed to the niceties of a mayor’s presence.”
+
+Her jaw tensed as she continued to glare at Father Shane. “Then it’s good he brought you along, Father Vytal.” She turned to face the elder cleric.
+
+“I’m curious, your Honor, how you can be the daughter of Erin Kempenny’s sister. Erin’s only sister is named Margaret and Margaret Kempenny is married to the Royal Sean Loreamer. They have one daughter, Isabel. I have been a personal tutor to the Heir, Isabel Loreamer, and you, your Honor, are not her.”
+
+The girl’s nostrils flared and her lips went thin and white. She did not respond.
+
+“Why do you have the city under quarantine?” Father Vytal pressed. “Is there plague? My apprentices and I are healers. We could help.”
+
+She shook her head. “It’s not that kind of quarantine.” She sighed and all the fury fell from her face so that she was a mask of calm. She stood, putting her hands behind her back and walked to one of the tall windows curtained in pale blue velvet. She stared out the window into the dark yard beyond.
+
+Father Vytal stood and followed her. “What’s happening? We can help.”
+
+She bowed her head. “It is said Tristam Vytal is a great scholar of powers. Is this true?”
+
+“It is.” Father Vytal nodded once.
+
+“Then you will understand when I say I am a necromancer, and I have created something terrible.”
+
+Sweep’s mouth went dry. The nightmare of rotting demons forced its low moans and thick stink upon her. Necromancers, like undead, Sweep had throught to be creatures of long ago, confined to the pages of the Scriptures.
+
+Father Vytal went rigid. Father Shane was on his feet, his sunblade gripped in both hands, naked of its sheath, up and at the ready. Temperance grabbed Sweep’s arm, afraid.
+
+Kempenny straightened and turned to face them, her composure reclaimed. She seemed not to notice Father Shane. “It is stronger and faster than any warrior I’ve ever seen. Its skin is hard enough to turn a sword, only a direct thrust will penetrate. It thirsts for blood The conventional methods of mayhem will not kill it, but a sword through its heart will stop it. It will only die if it’s burned.”
+
+“God’s Fire, child,” said Father Shane, all trace of the slur gone. “Couldn’t you have stuck to zombies? They’re less dangerous.”
+
+“General Vahramp was dangerous before I killed him.”
+
+“You mean Frederick Vahramp?”
+
+She nodded.
+
+Father Shane sneered. “I knew Freddy when he was with the Swords of the Church. He had a taste for blood even then.”
+
+“Every night there are more victims lying in the streets, or in their beds, or at their tables, drained of blood. And every night more people go missing. The populace thinks there is a sickness claiming the lives of their neighbors.”
+
+“So Frederick is in the city?” Father Vytal asked.
+
+“He’s come here now. I tried to warn you… but… but he’s in my head. I… I’ve been hunting him but…”
+
+“Well then, tonight’s your lucky night, little bitch. And look who you’ve brought me: old friends.” The five of them whirled at the new voice.
+
+General Fredrick Vahramp had gained entry without anyone hearing so much as the squeak of a hinge, a whisper of cloth. He was tall, with a square jaw and a barrel chest, built similarly to Father Shane. His dark hair was pulled away from his face into a short tail. His chest was bare, revealing smooth muscles that would have looked impossibly large on a normal human. He wore loose silk pants dyed brilliant crimson, but his feet were bare. His fingers and toes ended in black claws and his eyes were scarlet. Arrayed behind him were emaciated wretches with sallow skin and lank hair, and though they did not share General Vahramp’s beauty, they did share his hungry, burning eyes.
+
+Father Vytal took a step toward them. “Frederick Vahramp. My name is Tristam Vytal. I can help you.”
+
+General Vahramp shook his head. “No you can’t, Father. The only thing you can do is kill me. But I enjoy my new life; I’m faster, stronger, more aware. No, I came here only to destroy the bitch. And now I get to kill a couple clerics as well.”
+
+Father Shane raised his sword. “Not going to happen, Freddy.”
+
+General Vahramp looked at Father Shane and smiled. “Jack Shane. It’s good to see you again.” He smiled to reveal fangs like a cat’s. “Kill them,” he whispered, “Kill them all.”
+
+General Vahramp stood like a boulder in a stream while his emaciated minions surged into the room. At the same moment, before anyone else could react, Father Shane moved to meet them, anticipating Vahramp’s orders and counter attacking. The large cleric’s anticipatory attack bisected two of the undead, spilling rotten viscera onto the polished wood and thick rugs.
+
+The sudden destruction of two of their fellows was enough to make the rest of the creatures hesitate for several moments.
+
+Temperance grabbed Sweep’s arm and dragged her back toward the fireplace. Father Vytal thrust his mind at Vahramp, and Sweep felt the attack shatter upon Vahramp’s mental shield.
+
+Father Shane raised his sword two-handed above his head. Sweep felt a twinge of magic from the sword before blinding white light filled the room and seared her eyes. A chorus of screams resulted, a disconcordant cacophony ghosted through her shield and filled her mind. The pressure built quickly, and the glass-like mental shield shattered from within. The telepathic screams pierced her mind, and Sweep’s world was reduced to a point of pain at the base of her skull.
+
+The world swam back in fuzzy lights and muted sounds. A vile, acidic taste coated her tongue. Sweep fought through the nausea, tried to stand, and a hand helped her to her feet. People were shouting; confusing, conflicting sounds leapt through the air.
+
+“What happened?” Sweep asked, but the words choked and she coughed instead.
+
+“This way,” Temperance said desperately. “Next to the fire.”
+
+The fire. Of course. Perhaps the creatures would sense the danger of the fire and not want to come close. Sweep managed to keep her feet under her while being dragged to the fire. A few more moments and her vision began to clear.
+
+Mayor Kempenny stood in front of the fire, her thin sword drawn, her black hair loose and wild. Neither Father Shane nor Father Vytal were in evidence. Desperately, Sweep looked around for her mentor, pulling away from Temperance’s embrace.
+
+“What happened?” she demanded again, and this time it came out whole. The nausea faded.
+
+Father Shane stood in the middle of the room, a small grin tugging at his beard. Father Vytal was at the door, closing and locking it. Piled around the door was a tangle of burned bodies, their skin and muscles turned to ash, their bones barely recognizable. Father Vytal stepped carefully around the oily, stinking mess and walked toward the fireplace.
+
+“I’m not sure all the servants made it out of the house,” Mayor Kempenny objected.
+
+“He’s probably killed them already,” Father Shane said. “He likes killing.”
+
+“Damnit,” she muttered, but her face betrayed no expression.
+
+Father Vytal placed one hand on Sweep’s shoulder, and one on Temperance’s. He looked at them, his expression serious, and offered no false reassurance just a familiar touch, and that gesture calmed Sweep. For the first twelve years of her life, Sweep had often wished the Mother Superior was more like an actual mother. But here, in this man, she had known a father, and she realized she loved him. The realization put her at peace.
+
+Father Vytal released them and turned back to face the room. “Jack, join us?”
+
+Father Shane nodded and backed toward the fire.
+
+Sweep looked at Father Vytal. “What happened?” she asked for a third time.
+
+From behind her, Mayor Kempenny answered. “You collapsed and vomited.”
+
+Sweep turned to look at her. The other girl was glaring at her with unconcealed disgust. Father Vytal put his hands on Sweep’s shoulders and Sweep returned her attention to him. She tried not to let the older girl’s obvious contempt upset her. There was no reason she should desire Mayor Kempenny’s approval.
+
+“Father Shane evoked the power for which a sun sword is named. Usually it is used to stun and subdue an enemy but apparently against Miss Kempenny’s necromantic creations,” here he glanced over Sweep’s shoulder at the young mayor, “it works as a deadly weapon. Unfortunately, the general escaped.”
+
+He looked back at Sweep. “Are you all right?”
+
+“They’re telepaths,” she explained. “Sort of. When they died, there was a telepathic scream. It shattered my shield.”
+
+He nodded. “I felt it too. Can you rebuild your shield? We will need your talent for psychic combat. Remember the attack in the woods?”
+
+Sweep nodded. “I remember. I can do it.”
+
+She closed her eyes and slipped into the mindspace. A black knight had taken the cleric she’d moved. She moved a castle in response, fearing she’d never get to finish the game.
+
+Her power came to her easily and she imagined a glass shell about herself, flexible to her movement but repelling any outside force that might try to gain access to her mind, even the subtle death screams of the creatures. Her power felt irritated, raw, as though it had been stretched too far. But she flexed it gently, urged it to her will, and the shield flowed into place. It made her feel better, secure.
+
+When she opened her eyes, she let herself linger in the room in her mind, wishing she could stay here, safe. She wished she could select a book from the shelves, a novel perhaps, and curl upon the black and white and silver chair, and read until the messy ordeal was over.
+
+“He’s coming back.”
+
+Sweep pulled herself back to her body. It was the young mayor who’d spoken. Temperance took Sweep’s arm and held tight.
+
+“Piety.”
+
+Sweep looked at Temperance. Her friend was frightened, features tight, tears sliding down her cheeks, hands clenched.
+
+“We’ll be fine, Temperance. Father Shane and Father Vytal will protect us.”
+
+The three windows shattered; shards of glass flew into the room. Sweep flinched as a shard struck her cheek. Temperance screamed. Behind the flying glass, the sallow-skinned creatures boiled into the room, red eyes glowing with malicious hunger, clawed fingers offered with menace.
+
+Without letting herself take the time to think, to understand the danger of the situation, to become afraid, Sweep focused on one of the creatures and let fly her telepathic energy, like a snaking lash. The creature’s eyes widened and dark blood oozed from its nose and eyes before it fell backward. Elsewhere in the room a blast of light, much less impressive than Father Shane’s initial salvo, fell across one of the creature’s torso, melting skin, muscle, and bone. Though its chest was gone the creature continued to scream and claw at the floor and furnishings. She could feel its mental scream against her newly rebuilt shield, and this time, ready for it, her shield held.
+
+Sweep let the scream distract her for only a moment. She could feel Father Vytal’s telepathic energy striking into the minds of the creatures, one after another, felling them. She could feel him wielding his mind like a sword to protect them, and Sweep continued her assault, following her mentor’s lead, striking out with her mind, felling a creature with each thought. She let her gaze fall upon a single creature at a time, released her will upon it, then went to the next. The creatures were not faster than thought, but they were fast, and for each felled another took its place.
+
+The creatures closed within sword range, scrambling over the bodies of their fallen comrades. Father Shane stepped forward and, with a long upward swing, bisected one of the creatures. Its halves dropped to the floor and continued to twitch. He took another step forward, bringing the sword back down and catching another upon the shoulder. But as he pulled the sword back around one of them darted in, and its speed outperformed his skill. It slashed at Father Shane’s side, ripping through red-lacquered metal, hardened leather, and flesh. Father Shane’s blood sprayed across the room—a glistening, crimson arc. Piety felt the thick, warm liquid soaking into her dress at her chest. Another of the creatures slapped at his sword, tearing it from his hands.
+
+And then they were upon him. They leapt to his back, climbed to his shoulders to tear at his throat, slashed at his legs, and brought the large cleric to the floor, even as he bellowed and drew his short swords. Those unable to reach Father Shane turned their sights to the rest of them.
+
+Sweep felt Father Vytal reach his healing powers out to Father Shane who still swung about with his swords as the creatures stabbed and slashed, bit and licked. But these swords were not made by magic and could not breach the skin of the creatures.
+
+Desperately, Sweep let loose her psionic power in an attack that lashed across several minds at once. The divided attack divided its strength, and the mentally struck undead were stunned, but not killed.
+
+Mayor Kempenny sprinted to meet the oncoming creatures and thrust her sword into the chest of one so violently she was splattered with blood. And Sweep felt another peculiar twist of power, power of a flavor different from both the sunblade and her own powers. It tasted like paper and ink. And that moment of power produced a pause among the massed undead.
+
+“I’ve got it,” Kempenny whispered. With her other hand, she reached out to the creature impaled upon her blade and brushed her fingers across its face, the gentle caress of a friend. In the next moment, the creature crumbled to dust, like it had never been.
+
+Another darted toward the girl with its enhanced speed, but when it touched her, instead of rending her body to bloody ruin, Sweep sensed that twist of power, and it too fell to dust.
+
+The wretched creatures seemed to sense the danger of the black-haired girl’s touch and, in an effort at self-preservation, shied away from her. She continued to lash out with her sword and her touch, using her necromantic power to destroy the bloodthirsty creatures she had created.
+
+Sweep took the moment of distraction to reach her power to Father Shane. The creatures on him had failed to be distracted by Mayor Kempenny’s necromantic touch and licked at the warrior cleric’s wounds, but she could feel he was still, tenuously, alive. With a deep breath, she pushed a surge of healing power into his body and willed him to get up, to join them by the fire.
+
+But Father Shane had a different idea. For a moment, she was connected to Father Shane as she had been the creature last night. The power she sent him was twisted just a bit, tinkered with, and channeled into the sunblade. She felt her power turn from a warm healing hand to a blistering hot flame. Father Shane had taken her gift and used it to his own purposes.
+
+“Thank you, Piety.”
+
+The resultant blast of light elicited screams of pain and fury. Piety squeezed her eyes shut and concentrated on her mental shield. When it was over moments later, the creatures were burned to ash and flames licked at the room’s furniture and rugs. The vases held charred stems where they hadn’t shattered. And Sweep could no longer feel Father Shane.
+
+In the next moment, Frederick Vahramp was in the room. He stood behind Mayor Kempenny one arm around her chest the other around her shoulders, his hand bending her head to the side, exposing her neck. Sweep blinked. There had been no time between Father Shane’s blast of holy light and General Vahramp’s endgame.
+
+Sweep tried to summon the strength to attack the inhumanly beautiful man with her telepathy, but her power was running thin. It ached to reach for it. She was exhausted.
+
+More of the creatures crawled warily through the shattered windows.
+
+Sweep backed as close to the fire as she could. She watched Vahramp and Kempenny. Vahramp smiled, reveling in his victory. Slowly, he lowered his head to rip at Mayor Kempenny’s neck with his teeth, but he paused halfway.
+
+His arms were crumbling to dust.
+
+Quickly, he released the black-clad girl and took several steps back. He held up his hands to further study the phenomenon, and he screamed. He screamed vocally and mentally, and Piety felt her mental shield buckle. She fell to her knees, covered her ears with her hands, and squeezed her eyes shut. The shield held, but barely.
+
+From behind her, Sweep felt the fire flare.
+
+Temperance passed her, carrying the safe end of a burning piece of wood. With an inarticulate wail, she hurled it at Vahramp. Vahramp sidestepped easily, but the flame burdened wood struck the mass of undead creatures behind him. When the fire hit them, it flared and spread across them like dry grass. Those not caught in the conflagration recoiled, retreated.
+
+Vahramp was gone.
+
+The creatures shrieked, agonizing cries filled the room and battered Sweep’s mind. Those who could, fled, some of them still ablaze, leaping through the broken windows. The rest squirmed and rolled upon the floor. The room caught fire.
+
+“Out,” Father Vytal commanded. “Everyone out.” He pushed Temperance and Sweep before him.
+
+“Father Shane,” Temperance protested, “We can’t leave him.” She tried to go to him through the noxious smoky ruin of undead bodies and the still flaming furnishings. Sweep caught her arm.
+
+“It’s too late Temperance, come on.”
+
+“You can save him,” Temperance insisted.
+
+“I can’t. He’s dead.”
+
+Sweep regretted her blunt words the moment she let them loose, but there was no time to apologize. The fire spread up the walls, and the ceiling creaked threateningly. She pulled on her friend’s arm, and Temperance no longer struggled. Mayor Kempenny led them from the mansion, the hallways before them already acquiring a thin layer of smoke at the top.
+
+On the street outside the mayor’s mansion, Sweep held Temperance while her friend sobbed into her shoulder.
+
+“I killed him,” she said, “Why did I do that? I killed him, I killed him…”
+
+“No,” Sweep assured her again, “No, he sacrificed himself for one last attack. Not all the healing power in the world could have made him whole again. Your action forced their retreat. You saved us.”
+
+But Temperance was inconsolable.
+
+All around them, the black-clad soldiers of Kempenny arranged a bucket brigade to haul water from the nearest well. They managed to contain the fire, but the mayor’s mansion was only so much charred remains.
+
+Hours later, the night heavy about them, Mayor Kempenny spoke with Father Vytal.
+
+“I understand my power over him now, and so does he. I will hunt him down.”
+
+“I can send help,” said Father Vytal.
+
+“No.”
+
+“Frederick was dangerous before you gave him new powers and an unquenchable thirst for blood. I can tell you’re not without formidable powers yourself, but you’re going to need help. Don’t let pride feed him more victims.”
+
+“Your councils are about to declare war on my province. I’ve been kicking Loreamer out of Kempenny. I can’t willingly let them back in.
+
+Father Vytal sighed gustily and frowned. “I hate war. I was hoping it had only been rumor. Are you responsible for the attack on House Putnam?”
+
+The mayor grit her teeth and shook her head. “I’ve done all I can to stop the war. I’ve failed in that as I’ve failed in everything else.”
+
+Piety felt pity for the mayor. When she’d first seen the black-clad woman standing with such confidence, wearing a sword and speaking with command, Piety had thought she was someone who could handle any situation. Now she looked small and wan and defeated.
+
+“It’s time to try something new,” Mayor Kempenny said. “Tell your friends to keep their soldiers north of the Grand, and Kempenny will keep hers south of it.”
+
+“Can you guarantee that?” Father Vytal asked.
+
+“You said you knew the governor, my aunt. She told me that I’m the twin of Heir Isabel. I’ve met the heir. I’m certainly not her twin, maybe her sister? Either way, my aunt told me I was abandoned because a twin would make succession messy. Do you believe that, Father?”
+
+“I believe Erin told you that.”
+
+“Precisely. I’ve been lied to all my life. I can’t guarantee anything.” She shook her head and looked away. Her shoulders slumped “You should go home. Your council will be needing you.”
+
+Father Vytal gave a small bow. “As you say, Mayor Kempenny.” He turned to Piety and Temperance, put a hand on each of their shoulders, he led them from the smoking remains of the building.

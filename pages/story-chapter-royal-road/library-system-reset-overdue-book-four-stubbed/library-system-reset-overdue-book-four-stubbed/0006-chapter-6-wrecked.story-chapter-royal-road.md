@@ -1,0 +1,197 @@
+---
+id: d086a905-2d62-5145-be27-582d681163c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Wrecked"
+slug: 0006-chapter-6-wrecked
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 6
+ownLength: 2988
+unit: words
+publishedAt: 2023-10-25
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1385356/chapter-6-wrecked"
+royalRoadId: "1385356"
+---
+
+Quinn stood at the front of the ornate, massive library, staring at the wreckage before her. She breathed out her exclamation, "What the hell happened here?"
+
+Lynx glanced at her, a dusting of irritation in his expression. "You haven't been listening to a word I've said, have you? I told you. Over hundreds of years, the Library lost everything. It lost all its librarians, many of its books are missing. It has had nothing but the dregs of power for centuries. This isn't just the work of bookworms, this is the work of neglect, the work of whoever decided that the Library should wither away without librarians."
+
+But it really didn't matter what he was saying, because Quinn was distracted by the sheer magnitude of the interior of the Library. It didn't register. There was dim lighting overhead, probably a lot brighter than it had been before she'd touched the core. It added a modicum of light and allowed her to take in most of the room, or the building…
+
+Frankly, she wouldn’t be surprised if she found a lost city in these walls.
+
+The sides ran deep, and she couldn't see past a few feet into the shadows. There was no real sense of danger in here, but there was something sort of ominous, underlying whiffs, scents of things she couldn't quite place, which was odd, because her sense of smell has always been heightened.
+
+She'd always had somewhat of a super sniffer.
+
+In front of her stood a massive wooden desk. But that wasn’t quite an accurate description. It appeared to be a desk, but there was a lot more to it. The thing stood almost five feet tall, because she could look over it, but it pretty much came up to her eyes.
+
+At one stage, this monstrosity had been beautiful. Carvings of trees blossoming into books, with words strung across like leaves blowing in the wind. It gave her an odd sense of motion, not quite like vertigo, but instead, it had a smidgen of safety.
+
+It smelled like the blues of freedom on the surface of a lake, with reeds blowing in the wind.
+
+That’s where it became apparent that the desk was part of a platform that oversaw the Library.
+
+She tried to analyze it, and the good old Library came to the rescue.
+
+Check-in Counter.Level: Administrator Access OnlyStatus: Damaged 20% Operational
+
+For some reason, the summary made her feel a little sad. She turned her attention away from the desk.
+
+Beyond it, there was nothing but gloom. Nothing but dully lit areas, with massive bookcases rising up to the ceiling, and books scattered absolutely everywhere. An eeriness hung around beyond the safety of the entrance. Yet, it beckoned to her, like it wanted her to solve its problems.
+
+The desk itself, though beautiful, was damaged. There was something about it that had faded, and it wasn't just the weathering of time. She moved slowly around the desk and found a couple of steps that led up onto the platform within it. She stepped tentatively inside, unsure of why, but once she was in there, it felt like she'd come home.
+
+Even though dust tickled her nose, there was no scent of decay. That in itself was surprising. Decay crept into everything, from wood and food, to just being alive. But this place felt right.
+
+Ancient in a way that transcended her current understanding.
+
+The desk was safety. The rest of the Library... that was currently debatable.
+
+She turned to look over the back of the desk and peered deeper into the Library. Some of the gloom seemed to have abated. Before her stretched a long path, edged by massive wooden columns, and she realized that the bookshelves that went up to the ceiling only went up to the ceiling of the first floor, or ground floor, because above it, all around the sides, was another floor, with more bookshelves, going even higher, and pillars that rose all the way up.
+
+It was difficult to see much above seven or so feet though.
+
+There were carvings low down on the pillars, and they reached up into the gloom. Even though she was fairly sure she could see the second level connecting them. The light just didn't reach far enough for her to identify anything with accuracy.
+
+The level she was on, was like a veritable treasure trove of, well, dilapidated furniture, books that had been upturned and scattered. Some books were creased down the spines in such a way that she was fairly sure they were broken. She’d always tried not to leave a mark on spines when she read a new book.
+
+She shuddered seeing the spines cracked beyond repair. It was wrong.
+
+Otherwise, the Library was devoid of any life other than her and Lynx. Apart from an odd sound she could hear through to the back, something distant and unappealing. Lynx stood silently next to her, his hair deep, deep purple, with those strange black runic accents, and he watched her. He watched her with an expression of curiosity and contentment on his face.
+
+"Are you done gaping? We don't have all day," he said, but there was no admonishment in his tone. In fact, he seemed more amused than put out.
+
+Quinn nodded. "It's a lot more run down than I thought it would be. I guess I didn't really understand when you said it was ruined."
+
+"Well, it's not an actual ruin yet. How about we see if we can save it?" His eyes sparkled in a way she didn't think a projection should be able to do.
+
+Still though.
+
+Magic, right?
+
+Quinn didn't have to consider any other options. Even the meager possibility of bringing this Library back to its former glory? It made her skin tingle with excitement. "I think restoring the Library is a really good idea."
+
+"Well, it's a good thing you do, because you’re kind of obligated to now that you're linked to it.” He grinned somewhat impishly. “Otherwise, I'm just going to annoy you until you do."
+
+"Oh great, like the big brother I never wanted." Quinn rolled her eyes.
+
+"You really have a penchant for sarcasm."
+
+"Yeah, learned it from my mother." Saying that made Quinn feel a little melancholy. But she wanted to clear one thing up. “Just so we’re on the same page though. I’ve helped you out, and I’m linked, but I’m choosing to stay and help. Don’t make me change my mind.”
+
+Lynx watched her for a few seconds, his brow creasing in thought. “Understood. I’ll have to hope you don’t change your mind.”
+
+Quinn nodded as the gravity of the exchange hit her. She'd left Earth behind? Seriously? Was she actually okay with that? Not that she'd had super close friends, or any family to speak of. If she was going to get a fresh start with a career, it may as well be somewhere where nobody knew her at all. She clapped her hands together and grabbed onto all the determination she could muster.
+
+She’d deal with all that other stuff, later, when she had to. "Okay, so what do I do? Where do I step on these bookworms?"
+
+Lynx laughed. "Yeah, so stepping on them is not going to happen, because I think you forgot the fact that I told you they were bigger than small dogs."
+
+She turned and blinked at him, running all their conversations back through her mind. "Oh, that's right. So, where are they?"
+
+Lynx gestured toward the darkness-obscured end of the Library. The part where the weird sounds were coming from?
+
+Quinn gulped. "Oh, is that them?"
+
+"Yep, that's them.”
+
+She listened to the sound of… munching? Or sucking. “Are they, like, devouring the books?"
+
+Lynx shrugged his shoulders in a way that told her it wasn't quite accurate, but that she was pretty close, and he couldn't think of a better way to tell her.
+
+She paused for a second realizing he hadn't told her what he was thinking, but that the connection with the Library somehow relayed the spirit of the information. "Okay, so tell me about bookworms, then."
+
+Whether the Library misunderstood her deliberately, or she had just directed her thoughts well enough, information popped up in front of her face with images of bookworms. They were really, really cute. Maybe three or four inches long? A little fatter, more like a caterpillar, but not quite, than the earthworms from back home. And they had rings of color around each end. They were this sort of steely grey and not brown at all. "Oh, wow, they're actually quite cute."
+
+Lynx snickered. "Yeah, when they're not trying to rip your face off or devour your magical books or steal the remaining energy from the Library."
+
+"You sound a little bitter," Quinn said.
+
+"Well, they're supposed to help. Because of them, I haven't been able to feed the night owls properly. There have been no magical quills for..." He paused. "Okay, you don't need to know that until we can actually do something about it. We’re in a huge time crunch right now. So I just need you to trust me to tell you things when you need to know them. Okay?”
+
+Quinn narrowed her gaze at him, not overly happy with being kept even somewhat in the dark. “You’d better tell me before I need to know things.”
+
+He nodded emphatically. “I will, it’s just a lot, and I have to prepare a different variation of the guide for you to absorb too. Our time right now, is limited though not as drastically as it was when you first got here. It won’t be once we get everything done. First things first, bookworms need to be dealt with."
+
+Quinn realized how much effort this was going to involve. There was so much information, so many encompassing changes that would affect her and how she lived her life.
+
+What even was her life going to be? She paused, took a deep breath and glanced at the information that was still sitting somewhat distantly in her vision. She whirled it forward and gave the summary a quick read-through.
+
+Bookworms
+
+Required ingredients in Magical Quill creation. Also excellent at soil fertilization for magical herbs.
+
+Danger: When left unattended Bookworms can become engorged. Salt is the best weapon against an engorged bookworm. It should sap moisture from the creature, leaving it relatively helpless and able to be picked up.
+
+"Okay, well then do you have salt?" she turned to ask her guide.
+
+Lynx looked at her and a slow smile spread over his face. "Salt is probably the one thing I have a lot of. It doesn't really go off or bad or away. But keep in mind, the information you have is relevant for mildly engorged bookworms. You won’t be able to pick up the ones we need to get rid of."
+
+She shrugged, trying not to retort with something like - who’s a salty little library then - because that would do neither of them any good. "Slugs dry out with salt, stands to reason a worm will too. We could make a salt gun even."
+
+"A salt gun? You're funny and you didn't even know it."
+
+"You know I didn't mean it like that," Quinn said. Salt barely even sounded like assault, but she had to admit it was a wee bit funny.
+
+"Anyway, let's go get some salt, kill some worms, and then we'll be scot-free to go and eat and clean up the Library."
+
+"Well, aren't you just a positive ray of sunshine?" Suddenly, Lynx transformed back into his cat form and he stretched out one paw after another, shaking it off like he needed to stretch. Except he was a little bigger than he had been the first time she saw him, coming clear up to her hip now.
+
+"You know, a talking cat is super weird." She peered down at him.
+
+"Well, I may be a talking cat, but I can also be a talking human, or if you really need me to be, I can be a talking alligator.” He managed, somehow, to waggle his massive Lynx eyebrows. “This form, however, may allow me to use my claws if the bookworms decide to get more violent than I’m anticipating.”
+
+Quinn was taken aback. "Do you really think that's possible? Do you think they'll lash out at us?"
+
+Lynx shrugged, which looked liquid smooth on a cat. "I mean, wouldn't you want to stop something that was draining all your lifeforce away? If they attack us, I'm going to rake them with my claws."
+
+"Sounds like a plan," Quinn said, even if she was not sure about that at all. Her stomach grumbled and for a second she regretted thinking of fighting worms first. Hunger pangs were no joke.
+
+~~
+
+Lynx picked his way delicately through the refuse on the floor, which was mostly books and pieces of furniture. Quinn followed, picking her way through just as cautiously. There were more bookcases than she'd realized, lots of desks, chairs, and tables. Everything was haphazard, some of it was broken, and all of it was extremely untidy.
+
+Loose pages fluttered around the main hall. It had a dilapidated, dejected feeling to it, and there was a smell of staleness about it, a sort of sadness underlying everything. Even if she closed her eyes briefly, she could sense a stagnant smidgen of hope. Maybe that was related to her arrival, coming here, connecting, and having all this information flung into her brain that she still needed to process.
+
+"Where are we?" she started to ask, but it was quite obvious where they had gone once Lynx stopped. They were in a kitchen of sorts, more of a break room. There was what looked like a magically powered cooler, like a refrigerator perhaps, but it was off. And then there were gardens, like terrariums, most of them overgrown.
+
+She really hoped that wasn't where the food Lynx had spoken of earlier was going to come from, but she had a stomach-nauseating feeling that it was. Even if the vegetation was slightly rank on the nose, there was hopefully something good in there if he thought she could eat it.
+
+Lynx rummaged around in the cabinets after transforming back into his human shape and pulled out a large box of salt. "There we go. How about we see if your idea holds any water?"
+
+"That's not going to hold water with salt, is it?" And she had to stop herself from laughing at her own joke. Lynx just raised an eyebrow and walked out with her.
+
+"Not turning back into a cat?' she asked, cheekily.
+
+"No, don't have opposable thumbs in that form. Need them to hold the box." He answered her matter-of-factly.
+
+She laughed. "I thought you weren't corporeal. Isn't holding that box taking up energy?'
+
+He paused. "Yes and no. It's just a box. I'm not trying to force anything. I just created a solid platform in the shape of my hand. That's it."
+
+"Oh," was all she could say because she really didn't understand at all. She didn’t like that he was withholding information from her, but she understood. He needed her to be functional. Too many questions and too much information at once might overload her. As she understood it, they needed something drastic to restore power to the Library.
+
+Then they’d have all the time in the world for her to meltdown every now and again at the sheer magical nature of the place.
+
+They picked their way through to the dimly lit back of the Library, where the rejuvenated light had yet to reach. It was dark and dank, it smelled musty and earthy, and sort of melancholy.
+
+There were two short steps up onto a new floor with more books. It had railings on either side of the large entrance stairs with more ornate carvings.
+
+But she did not expect to be greeted by one very silent, massive worm standing, or worming, or whatever they did, directly in front of her.
+
+This thing came up to her waist. It was round and it squelched as it slowly moved its attention to her. It was maybe six to seven feet long, and tubular in shape, and its strange matte grey coloring was overlaid with what might have been iridescent rainbow colored rings around the mouth. Except there were splotches of other colors that dimmed the original outer ring. Like something had infected the true shade of the beast.
+
+If the creature didn't appear to be so bloated there would have been ridges all along the body. The face wasn't a face like she was used to but had only a mouth and no discernible eyes. Its ring of color was oddly stretched and contorted. It had a paper scrap hanging out of its mouth, and dust particles clinging to its once shiny body. Energy pulsed softly around it.
+
+Quinn couldn't say quite how she knew that, but she did. The flash of knowledge jolted through her brain and appeared directly in front of her as if she'd punched it into an internet search bar.
+
+"This is an engorged bookworm?"
+
+Engorged BookwormStatus: AlertHealth: 100%
+
+"Yes. Yes, that's precisely what these are." Lynx's mouth opened in an unnaturally wide grin and he tossed what appeared to be a broom in her direction. "That's your weapon for now."
+
+"You're kid..." but that's as far as Quinn got. Because the worm she’d thought was looking at her, sniffed the air.
+
+As if it had finally fully sensed her presence, it turned slightly and focused on her, and opened its gorging mouth. Teeth rimmed all around the circular opening. Sharp and jagged rows of them. The creature raised itself up several feet on the hind section of its body and roared out a squelching, guttural challenge.

@@ -1,0 +1,247 @@
+---
+id: d3b70e42-7cb4-5992-9bbf-1ed52842934e
+page-type-slug: story-chapter-royal-road
+title: "98 — Book 2, Chapter 46 — Aftermath, Pt 3"
+slug: 0098-98-book-2-chapter-46-aftermath-pt-3
+partOf: just-add-mana
+position: 98
+ownLength: 4465
+unit: words
+ownProgress: 4465
+publishedAt: 2026-02-10
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3033134/98-book-2-chapter-46-aftermath-pt-3"
+royalRoadId: "3033134"
+markedReadAt: "2026-06-29T18:51:01.186Z"
+---
+
+Attending classes without Cale there felt... weird, to Damien.
+
+Which was probably a little weird. He hadn't been attending classes with Cale for long, after all. But the man had a way of making his presence felt, and it was strange now to be without it. Even with the other classes he'd attended without Cale, he'd always known his mentor was around. This was the first time he truly didn't know how long Cale would be gone for.
+
+Or if he'd be coming back, Damien supposed. He tried not to think too hard about that.
+
+It had been days without Cale's return, now. Something felt missing without him around, and Damien often found himself wondering what Cale would be doing if he'd been there with them. More than once, those thoughts prompted him to act, and, well...
+
+He usually made an impression, when he did.
+
+That was all in line with Flia's plan, which was working even better than he would've expected. Apparently, Cale's approach had left its mark on all of them. Damien found himself the subject of personal attention from a professor more than once.
+
+His friends were no different. Syphus had earned the admiration of one of their dueling instructors, Flia had apparently become one of Professor Tarbloom's favorite students, and somehow Leo had managed to find some long-missing section of the Brightscale Academy's library that commanded the attention of the Chief Librarian himself.
+
+Damien, for his part, was largely working on a new project. It was in this project that he'd distinguished himself in the eyes of Professor Graystalk, thanks to the remedial lessons for Introduction to the Standard Array that he was conducting every night. His work had both surprised the professor and even earned him a few Wing credits.
+
+It was an oddly pleasant feeling, to be known for something other than being dangerous. And to earn something with his own efforts. The other Astral Wing students were beginning to look to him for advice, which Damien admittedly mostly found disconcerting and difficult to deal with. The students of the other Wings had developed what was a sort of reluctant respect for him, which Damien also didn't know how to deal with.
+
+Also, he was receiving anonymous letters of admiration now? That was a thing. Flia had teased him about it, and Damien largely just kept his head down and pretended it wasn't happening. He had no idea how to deal with any kind of attention.
+
+Cale would probably have basked in it, but he hadn't picked that much up from his mentor.
+
+A lot of this was due to the fact that Professor Graystalk had very publicly expressed his respect for his work, and that counted for far more than Damien expected. He was still a little embarrassed about it—he didn't think what he'd done was that noteworthy, really—but Graystalk believed otherwise, and now so did a lot of the other students.
+
+It had started during the second lesson.
+
+Damien was, of course, still using the Manamorphic Cloak that Cale had awakened for him. Using it became simpler as he attuned to it, and it became an integral part of how he was able to learn and cast basic Standard Array spells. That, in and of itself, wasn't an achievement—the cloak was doing the heavy lifting for him, after all, and by the time their second lesson rolled around Damien was starting to think about all the other students that didn't have a precious artifact to help them out.
+
+So he started thinking about an alternative. What if he could prove that it was possible to emulate the Standard Array with his own provably destructive mana aspect? It wouldn't be a solution for everyone else, but it would at least show that it was possible, and it might inspire others to follow in his footsteps...
+
+It helped a great deal that Damien already had a starting point for this.
+
+One of the first things Cale had taught him was that decay was more primordial than he first assumed. Damien had learned his very first real spell, then, or at least the first one he considered to be truly his own—[Spatial Decay], a theoretically simple spell that broke down space itself between him and his target. Casting it allowed him to move much more quickly on average.
+
+Of course, according to Cale, a dreadshade he'd once known had been able to use a more powerful version to move entire cities. Damien wasn't nearly as capable yet, and he wasn't trying to be. That spell was more like a proof of concept. Now that he knew it was possible to apply his mana aspect in a more abstract form, he had a starting point for reinventing the Standard Array.
+
+Every mage needed to be able to cast the spells from the Standard Array to be able to fully graduate as a professional mage under Orstrahl's standards. That was what set the Astral Wing students apart—most of them had unusual mana aspects or conditions that rendered them incapable of casting some part of the Standard Array. When he started out at Brightscale Academy, Damien had been unable to cast any of them.
+
+But with some prompting, Leo had helped him do a bit of research, and it turned out that Orstrahl's standards did allow for a very minor degree of flexibility. This was to account for differences between even conventional mages.
+
+Sometimes, for one reason or another, an otherwise perfectly ordinary mage would be unable to learn some spell from the Standard Array. The Gift would deny them, perhaps, or they had some personal trauma that made them unable to work with a particular spell. In these cases, Orstrahl's standards allowed for the mage to pass as long as they could create a similar effect using a similar amount of mana.
+
+And Damien realized that if he could recreate the entire Standard Array incorporating decay mana, it would essentially be a significant political statement decrying everything the Red Hunters stood for.
+
+It felt like the sort of thing Cale would approve of, so he set to work immediately.
+
+[Burn] was a simple fire-lighting enchantment for creating mundane campfires and torches and the like. It was one of the first spells anyone studying the Standard Array would learn. For Damien, it functioned as the perfect starting point. He spent the second lesson attempting to recreate it, with Professor Graystalk's approval.
+
+...almost immediately, he ran into a problem. [Burn] was a simple spell and required a similarly low amount of mana. Unlike even most first-tier spells, its base cost was a meager 10 mana.
+
+Damien's first attempts at replicating the effect with decay mana required a comparatively exorbitant 1,000.
+
+He hadn't succeeded during that class, but he spent the night and the next day working on it. It took ultimately hours of meditation, experimentation, and discussion with his friends and professors before he understood that the problem was a fundamental one.
+
+[Decay Cold] made sense in theory, allowing him to heat up a target until it ignited, but "cold" was not a mana aspect. On top of that, the concept itself aligned too closely with the decay aspect, which was a little bit like trying to turn the decay aspect on itself in order to heal; that was theoretically possible, but the aspect wasn't suited for it, and that inflated the mana costs involved.
+
+So Damien switched to another approach. Leo helped him dig into the books on mana aspect interactions, and they'd uncovered something interesting: apparently, when it came to battle magic, the decay aspect was naturally inclined toward decaying elemental resistances. Simply picking the opposite of the effect he wanted wasn't enough, but if he learned the intricacies of fire resistance and applied that to a small enough point...
+
+You have learned [Decay Fire Resistance]!
+
+[Decay Fire Resistance] [First Tier (Unique), Active] [5 Mana]
+
+Apply the decay aspect to erode a target's natural ability to resist both mundane and magical fire. Note that because there is always some degree of ambient fire aspect mana, this may ignite targets that do not already possess magical fire resistance.
+
+It was pretty much exactly what he was looking for, in other words.
+
+Professor Graystalk had been delighted when Damien reported his new spell during their third remedial lesson, then immediately subjected it to a litany of testing, mostly to ensure it met the same Standard Array requirements that [Burn] did.
+
+What surprised them both was that in most cases, [Decay Fire Resistance] was more effective than [Burn]. The sole exception was in environments that were saturated with frost or water aspect mana, where the presence of ambient fire mana was much diminished; in those cases, [Burn] could ignite targets that Damien's spell could not.
+
+But the opposite was true, too. [Burn] was a basic spell that was largely used to assist in creating mundane fires, and it had very little ability to pierce materials that were enchanted to be magically resistant to fire. While Damien's version couldn't ignite things in the absence of ambient fire mana, it could ignite dungeon torches.
+
+This was a big deal. Dungeon torches were resistant to [Burn] and most lower tier forms of fire magic. They tended to appear within dungeons as part of puzzles or traps, and often required locating a source of magical fire within the dungeon. [Decay Fire Resistance] could bypass this entirely and ignite them, albeit at an increased mana cost.
+
+It was still the sort of thing that could cut dungeon runs short, which meant it was valuable to the Kingdom of Orstrahl.
+
+When he realized this, Professor Graystalk grinned with fierce satisfaction and handed no less than three Wing credits to Damien.
+
+"The truly important part of my class is the ability to think with the flexibility of a mage," he said. "The Standard Array is merely a set of tools. If you can meet or surpass it, then you will have passed my class, and you have my blessing to move on to the palewater stage."
+
+Damien blinked. This was the first time he'd heard a professor even mention moving on to their next academic stage. "Wait," he said, scrambling. "You mean—"
+
+"I am far from the only professor you need approval from," Professor Graystalk said, laughing softly. "It seems Ms. Flia was telling the truth when she told me of your lack of attention to our customs. But it is a step forward, yes. It seems neither you nor your companions will be as constrained by your aspects as many of us believed."
+
+The professor smiled at him, then turned to the rest of the class, raising his voice. "That goes for all of you," he told the remedial students. They were Astral Wing students, by and large, though one Nala Whiteleaf sat sullenly in a corner. "Your greatest advantage—one we have suppressed for far too long—is your creativity and flexibility as mages. This is what Brightscale Academy was founded upon, and it is long past time we return to that path.
+
+"Consider this your assignment: if you cannot cast a Standard Array spell, create an equivalent effect, for the equivalent cost in mana. I will assist as much as I am able, but the greatest lesson you will learn is not the spell itself so much as the way you think about your magic. If you do this, I will stand behind you at the exams, and woe betide any examiner that attempts to fail you merely because your mana cores are not standard."
+
+Nala scoffed weakly. "...a little dramatic, don't you think?" she muttered, though for her, the barb was hesitant.
+
+Professor Graystalk chuckled. "Perhaps," he said. "But it is the least I owe our students. Or do you claim to have seen differently, Ms. Whiteleaf?"
+
+The elf was silent for a moment, and Damien glanced at her, curious. He didn't even know why she was attending these classes—she was clearly uncomfortable amid all the Astral Wing students, and yet it seemed that her encounter with Cale had left something of a mark. She understood, at least, that her distaste for the Standard Array had been misplaced.
+
+Perhaps that was why she hadn't passed the class herself yet. Even with a grasp of all the spells, she couldn't demonstrate the flexibility Graystalk demanded.
+
+Eventually, she shook her head. "No," she said, her tone oddly quiet. "I've had much to think about, and it seems that those who do not embrace the possibilities of magic are all the weaker for it."
+
+Graystalk paused and raised an eyebrow, as if surprised, but smiled. "Well said, Ms. Whiteleaf," he said, folding his hands behind his back. "Perhaps we'll make a real mage out of you yet. Mr. Damien, however, remains at the top of this class for that fascinating invention. Do keep surprising me in that regard. I have not been this excited for quite a while."
+
+With a start, Damien realized Graystalk was looking at him. He grasped hesitantly for a response. "Uh... I'll try?" he said, suddenly embarrassed.
+
+"That is all I ask." Graystalk smiled a more genuine smile. "Now! We must address the Standard Array spells so many of you are reluctant to learn—I understand most mages see themselves as above this type of thing, but [Clean Laundry] is an absolute necessity on long missions and dungeon runs, I assure you. Why, when I was chasing down Hecroat the Blood Terror..."
+
+That was another thing that had changed about Graystalk's classes—the professor now spoke more openly about his past, taking the time to explain how his mastery of the Standard Array had allowed him to survive against even proficient and deadly mages. He had earned the title Mage Killer, after all, and had no shortage of these stories.
+
+...Some of them seemed like fabrications, but, well, Damien had seen stranger things. He was Cale's apprentice, after all.
+
+And it felt like, in inventing [Decay Fire Resistance], he'd managed to prove that in some small way.
+
+If only all his professors had met Cale. Some of the ones that hadn't were still a little stuck in their ways, and far less receptive to Damien's newfound confidence.
+
+Relatively speaking, anyway.
+
+"Damien," Professor Lith said with an aggravated sigh. He rubbed at the bridge of his nose, clearly irritated. "I am aware you are a dreadshade, but the idea that the decay aspect can apply to the decay of more than organic life is ludicrous. That would upset Milterine's Axiom of Aspect Balance and make decay one of the most flexible aspects in existence."
+
+Damien blinked. "Yes, but, um... like you said, I'm a dreadshade?" he pointed at himself quizzically. Normally, he wouldn't even have dreamed of contradicting his professor, but he had two entire spells that made use of this interaction. Graystalk had acknowledged him for it. "I was able to replicate [Burn], and I can decay space."
+
+"I am sure you have a spell that uses the exothermic properties of decay to ignite materials, and another one that allows you to move quickly," Professor Lith said, folding his arms over his chest. "But I do not understand why Professor Graystalk has allowed you to continue operating under this delusion that you have fundamentally broken the balance of mana aspects. There is simply no way your spells use the decay aspect in the way you are implying.
+
+"If that were possible," he continued, "then we would be unable to trap any monsters that make use of the decay aspect. They would, in all likelihood, simply overwhelm us. Yet we have not only managed to trap them, but study them. Not a single one uses decay mana in the way you are describing."
+
+Professor Lith was the professor of their Decay Resonance class. Damien didn't really need the class, being a dreadshade—he was, by default, already resonant with his element. Akkau had taken him aside and asked for his assistance in the class, however, and so Damien was playing a role similar to the one Cale had previously.
+
+He was here as a teacher's assistant, in other words. Damien was starting to think that Akkau had more reasons to assign him to this class than just that, though, because Professor Lith's understanding of decay was horrifyingly lacking, and his rank with decay resonance, while more than most others, was...
+
+Well, it was rank three? It was the equivalent of a single shrine visit. Still impressive, since most people that visited that shrine apparently died, but Damien really didn't think that meant Professor Lith knew enough to argue with him about how his own magic worked.
+
+That didn't stop the professor, though. He was already retrieving some sort of elaborate box from underneath his desk, and he set it down in front of his students with a thud. "An example, since you clearly need teaching," he said. "Within this box is a shadowhaunt. Since you're an expert on decay magic, perhaps you could tell the class what this is?"
+
+Damien frowned slightly at the box. Two days ago, the idea of this demonstration might have made the class laugh, since the professor was mocking him.
+
+But two days could be a lot of time in a magic academy, and word of Cale's apprentices had spread. Between the four of them, they'd attended enough classes that almost everyone knew what tended to happen when they were tested. Apparently, Professor Lith either hadn't gotten the memo or didn't believe it.
+
+Damien wasn't sure why things were working out that way, admittedly. Maybe Akkau had something to do with it? Either way, he'd have to prepare, because he doubted this was going to go anything like what Professor Lith was expecting. He readied himself, then took a deep breath.
+
+"A shadowhaunt is a shade of decay magic," he said as impassively as he could—this was, in a way, a dig at him and his own nature. "They're a form of magical parasite, latching on to a host's shadow and feeding off of the natural decay the host is experiencing."
+
+"Very good," Professor Lith said. To his credit, there wasn't a trace of mockery in his tone, but the condescension was almost as bad. "Shadowhaunts are known for their use of decay magic, are they not? They may feed on it, but as they grow, their ability to manipulate decay mana does as well."
+
+He tapped the box. "The one trapped within this is ancient. If your hypothesis were true, then it should have escaped within... two weeks of its capture, I would say. I captured this specimen three weeks ago, and yet it remains trapped. What do you say to that?"
+
+Professor Lith's smile was smug. Damien hesitated. He didn't see any way this was going to go well... but it wasn't like he could avoid pointing it out now that the professor had put him on the spot.
+
+"Um," he said. "Well, shadowhaunts are naturally difficult to spot, right? They use a form of obfuscation magic, which is really a form of decay magic applied to perception and memory, and they really don't like attention being called to them."
+
+"Oh, relax." Professor Lith rolled his eyes. "This is perfectly safe. It has been trapped in a box for three weeks, Damien, it will not escape just because we're talking about it."
+
+Damien paused. "Well, no," he said. "It won't."
+
+"So you admit that I am correct?"
+
+"No," Damien said. "I mean, um... most decay-using creatures probably wouldn't be capable of advanced decay magic? But shadowhaunts absolutely would be. Especially ancient ones."
+
+"And yet it remains trapped," Professor Lith said. "I am waiting for your explanation, dreadshade."
+
+Damien wasn't sure he liked the way Professor Lith had said that. He cast a nervous glance at the class, half of whom had already caught on to what he was implying and had started preparing their own barriers; the other half seemed confused, but broadly aware that something was wrong.
+
+That was good enough. He was pretty sure he could repel any attack from the shadowhaunt, but he didn't want to risk it if the rest of the class was caught completely unawares. One of the other students even tried to speak up in his defense—some Beast Wing lizardfolk, if he remembered correctly? Going by the name of Sezeya?
+
+"Professor," she cautioned. "It may be best to listen to him and head to the medical wing—"
+
+"Goodness, what are you talking about now?" Professor Lith sighed. "I must say, I was hoping for better from you, Damien. When Akkau recommended you, I was expecting great things."
+
+Damien sighed and told himself this was probably not the professor's fault before he spoke again.
+
+"The box is empty, professor," he said. "That's what I'm trying to tell you. It's not going to escape, it already did."
+
+"What?" Professor Lith frowned at him. "Don't be ridiculous. Of course it hasn't. The alarm ward would have tripped."
+
+"There is a large hole in the box?" Damien said, turning it so the rest of the class could see. "It likely decayed the alarm ward before eating through the rest of the enchantments, then latched on to your shadow and—"
+
+"Enough with this," Professor Lith snapped irritably, but he was noticeably pale now, his cheeks more sunken in than they had been at the start of the class. More importantly, there was now a cloak draped across his shoulders that seemed to be made of shadow and rotting flesh, which was how a shadowhaunt tended to manifest in advanced stages of infestation.
+
+Like, say, the kind that showed up after about a week. At least it explained the professor acting the way he did. Damien wondered briefly if Akkau had known about this.
+
+Now for the reason he'd been hesitant to bring this up at all: the shadowhaunt making itself visible meant it knew that it had been discovered, and that, in turn, meant it was about to attack. At this stage of the infestation, it could exert a limited amount of control over its host. Professor Lith snapped his fingers, decay magic surging out of him in a spell meant to obliterate everyone who knew of its presence.
+
+Damien didn't move from his seat. He cast [Decay Dominion] instead, and the surge of magic froze in place.
+
+"I feel like I should feel some sort of kinship with you?" Damien said after a moment. "But, um, you're kind of trying to kill my classmates. And you shouldn't do that."
+
+He was, of course, talking to the shadowhaunt. Professor Lith had been right—this thing was ancient. And if it was ancient, that probably meant it had acquired some degree of sapience? That was common for monsters. Damien felt like he owed it some chance to talk and figure things out.
+
+Professor Lith scowled, but the voice that emerged from his throat wasn't his own. "Discovery is death," a sibilant voice hissed. "I will not allow myself to trust a mage. Especially not one who has turned against his own kind, kin-killer."
+
+Damien flinched, but before he could respond, he felt a very familiar mana signature at his side.
+
+"You know," Cale said. "I was trying to figure out what this was all about. Kinda weird to try to explain decay mana to a guy that's basically a decay elemental, you know? I guess some sort of shadow possession explains it, but now the shadow is insulting my friend, so I have a whole other reason to be mad."
+
+Damien whirled around. "Cale!" he exclaimed, then rushed forward to hug his mentor. Cale laughed and hugged him back.
+
+"Don't let go of your spell," he reminded Damien, and Damien blinked and flushed before reinforcing [Decay Dominion]. Whoops. That might've been bad. "Now, if you hold that in place, I can take care of the shadowhaunt."
+
+"N-no!" Damien protested, and Cale tilted his head, looking curiously down at him. "I... it doesn't need taking care of. I just want to talk to it."
+
+"I have nothing to say to a kin-killer," the shadowhaunt said darkly. Cale raised an eyebrow in its direction, then turned to Damien and waited.
+
+"I'm not sure why it's saying that," Damien said, shaking his head. "I haven't... you know. Not any other dreadshades or decay elementals that I know of. But I don't want to just kill it. There has to be a way for it to... not have to do that, you know?"
+
+Cale blinked. "I'm not sure I do?" he said. "But I'm listening."
+
+"You lie," the shadowhaunt said. "We are hunted. You reveal us. All that reveal us are hunters, and if you are kin, you are a kin-killer."
+
+"Lots to unpack there," Cale said after a moment.
+
+Damien sighed. "Yeah, there's... some stuff going on," he said awkwardly, shuffling his feet. Then he hugged Cale again, just because he felt like it. "But, um, we have it under control. Mostly. We'll need to talk to it, though, and maybe see if we can find a way to help. Sorry, Professor Lith, this is just going to take a second."
+
+He fumbled about in his pack, then removed a box made of blood obsidian. When he opened it, a voidcyte popped its head out, looking around curiously.
+
+"This is Erys," Damien introduced. "It's the other voidcyte that came over. We found... well, it's a long story. But, um, it should be able to help us here."
+
+Cale quirked a brow, but said nothing as the voidcyte greeted him enthusiastically, then surged off into Professor Lith. Moments later, it emerged, dragging a writhing, shadowy shape along with it. Professor Lith stumbled as the shadowhaunt left his body, looking suddenly exhausted, and Cale caught him before he could collapse entirely.
+
+"I get the feeling we need to catch up on a lot of things," Cale said.
+
+"We do," Damien said, then gave him a small smile. "But I'm really glad you're back. Just, um... don't go killing any monsters you find, okay?"
+
+Something passed through Cale's eyes, then. Damien wasn't sure what it was. It wasn't the same darkness he was used to, though. This one just seemed... sad.
+
+"I can't make any promises," he said. "But I'll try. Honestly, I could probably use your perspective. Should we meet with the others?"
+
+Damien nodded rapidly. "I've already called them."
+
+Cale raised a brow. "...I didn't see you do anything. Learned a few new tricks?"
+
+"Nope," Damien said. "It's just, um, I've always wanted to say that to the kind of person that always notices everything. I haven't actually sent anything yet."
+
+Cale burst out laughing, and Damien impulsively hugged him a third time.
+
+It was good to have him back.

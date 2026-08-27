@@ -1,0 +1,23 @@
+---
+id: 262127a3-eda7-51c6-9b20-44f5f24adcb1
+page-type-slug: story-chapter-royal-road
+title: "Announcement of Oaths (Kyembe and Wurhi's Story)"
+slug: 0026-announcement-of-oaths-kyembe-and-wurhi-s-story
+partOf: mark-of-the-fool
+position: 26
+ownLength: 282
+unit: words
+publishedAt: 2025-09-21
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2618263/announcement-of-oaths-kyembe-and-wurhis-story"
+royalRoadId: "2618263"
+---
+
+Heyyyyy Foooolks!
+
+It’s been a busy couple of months. I’ve continued to heal from my chronic vertigo, gotten sick…twice, went to Dragoncon and have started plotting out and pre-writing the second book of I Am Become Death.But today…wanna talk about something else.
+
+So before I wrote I Am Become Death and before I wrote Mark of the Fool or cowrote Rune Seeker…I created another series on Royal Road: Ogre’s Pendant…which I have renamed Oaths, Blood & Coin. This series stars Kyembe and Wurhi, who you might remember as helping defend the capitol in the final book of Mark of the Fool.
+
+Over a long period of time, on my off hours, I’ve re-edited that novel.
+
+And now…that book is going to be released on Amazon on Tuesday, September 23rd! This is the first book in their series Oaths, Blood & Coin. With book 1 being called Oaths.If you find this story on Amazon, be aware that it has been stolen. Please report the infringement.This is a new version, edited by me, then edited professionally and with new content. I also put more focus on Wurhi’s progression and training. It’s the definitive version.It’s also coming out on audio and is narrated by Michael Kramer who narrates a lot of Brandon Sanderson’s books and THE WHEEL OF TIME.I am SO pumped! It’s gonna be so cool.Book 2 Blood is coming out early next year as well. Set in the same universe as Mark of the Fool and I Am Become Death! (P.S. It’ s looking like I Am Become Death will start posting book 2 around NovemberishCheck out the Oaths here ( I will announce it again on launch day!Amazon: https://www.royalroad.com/amazon/B0DZ818C6QAudible: https://www.audible.com/pd/Oaths-Audiobook/B0FPXS5C74Here's the cover:

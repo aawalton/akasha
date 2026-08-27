@@ -1,0 +1,197 @@
+---
+id: a0cc814a-6ff1-5ab0-9a3b-d429a3cc6847
+page-type-slug: story-chapter-royal-road
+title: "173 — Book 4, Chapter 17 — Ripples in Brightscale"
+slug: 0178-173-book-4-chapter-17-ripples-in-brightscale
+partOf: just-add-mana
+position: 178
+ownLength: 4020
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3817601/173-book-4-chapter-17-ripples-in-brightscale"
+royalRoadId: "3817601"
+---
+
+Flia wasn't sure how she felt yet about the shadowy thing following Professor Tarbloom around and acting as their secondary professor for the class.
+
+She'd been excited about the class at first. Critter Synchronization was everything she needed to develop her magic, especially since she'd had difficulty repeating her feat with Sabri outside the confines of the Bitter Path. Without the pressure of her life being in danger, her [Leviathan's Touch] simply couldn't seem to last. There was some kind of dissonance between her and Sabri that stopped the bond from being as smooth as it had been then.
+
+The Inspiration she had received during that duel between Cale and Astiviya should have helped, but unfortunately, Flia couldn't make heads or tails of what she'd seen. She'd been hoping that this class would help resolve some of those issues and help her take the next step with her magic. She could produce palewater, now, but until she better understood the nature of her own mana, her core would have trouble adapting to it.
+
+That, and it just didn't flow as well as it should have through her mana channels. She didn't know exactly what she should have felt, but she knew what she had seemed... incomplete, somehow.
+
+The problem now was that the class wasn't quite what she had been expecting, and that was at least in part due to their somewhat creepy new professor. Every other student had very quickly decided he was trouble, perhaps because he had all the looks of an evil mage here to steal their souls. He was some sort of skeleton lich made of pure shadow.
+
+Flia knew better than to judge mages by their appearances, though, and Professor Tarbloom seemed outright delighted by his presence. Mylo Forgan Enqis the Third, as he apparently called himself—Flia privately thought that this was a little much for a name—was supposedly a famed explorer from centuries back, which explained Tarbloom's enthusiasm.
+
+At some point, Professor Enqis had either been forcibly recruited or had voluntarily joined the forces of the reigning dark lord of his era. He was rather reticent about the details, which really didn't do much to help his image. Many students took it to mean he had committed a number of atrocities in that time.
+
+Flia wasn't as certain. Besides, she was Cale's apprentice, so judging Enqis by whatever atrocities he had committed centuries ago felt like it would be hypocritical. More important to her was the fact that he had authored hundreds of books on the various critters that could be found all across Utelia during his era, and enough of them had survived that Tarbloom had dozens of those very books occupying one of their many shelves.
+
+He did know what he was talking about. The problem she had was not Professor Enqis's credibility nor his threatening appearance. It was the fact that he was as much of a nerd as Professor Tarbloom was, and while Flia very much enjoyed learning about Utelia's critters, the combination was not at all productive for the whole "learning more about her magic" thing.
+
+"Oh my!" Professor Enqis gasped at one of the diagrams Tarbloom had written out on the chalkboard. "Is that a skulking haerophant? It looks so different from what I remember!"
+
+Professor Tarbloom's gelatinous form wobbled in excitement. YOU RECOGNIZE THESE? they wrote rapidly. I WAS NOT CERTAIN IF THEY WERE THE SAME SPECIES! I CALL THEM PROPHETIC GRAYFLIES.
+
+"They've changed greatly since I last documented them, if your diagrams are accurate, but these grayflies of yours undoubtedly evolved from the haerophants I encountered centuries ago," Professor Enqis said, studying the chalkboard intently. "They are significantly smaller, so I can see why you did not recognize the similarities... perhaps the lack of ambient mana has caused them to shrink over the years? They're a rather short-lived species, yes?"
+
+QUITE, Professor Tarbloom wrote. THE LONGEST LIFESPAN I HAVE DOCUMENTED IS TWO WEEKS. IT IS UNFORTUNATE. THEY PROVIDE GREAT INSIGHT INTO MAGICAL DISCOVERIES.
+
+"Yes, that's always been the tradeoff with the skulking haerophants," Professor Enqis said regretfully. "They have all sorts of brilliant insights on magical development, but they get them only in flashes before their death. Couple that with how hard it is to even find them and they don't help us nearly as much as they should."
+
+"Um," a student spoke. Flia glanced at him—that was an elf named Garret, if she remembered correctly? He kept looking nervously over at Enqis. "Professors, are you suggesting these grayflies are, um, sapient?"
+
+"Oh, no," Professor Enqis said, clacking his teeth together dismissively. Garret flinched. "You must understand, grayflies and haerophants are... hm... they belong to a class of magical critter I suppose you might think of as knowledge digestors, though that classification leaves much to be desired. They do not understand and produce these insights with their minds, per se. Instead, they consume what is understood about a particular phenomenon, then excrete a refinement of that information."
+
+WHICH IS ONLY USEFUL IF YOU HAVE A MANA-READER OR A TELEPATHIC SPELL, Tarbloom added helpfully. AND IT LASTS ONLY FOR AN INSTANT BEFORE DISSIPATING INTO AMBIENT MANA. THEY CAN BE VERY USEFUL! BUT YOU MUST BE LUCKY TO GET THEM AT THE RIGHT TIME.
+
+"Indeed. They're terribly difficult to train," Professor Enqis agreed. "Trying to utilize them deliberately makes it far more likely they will digest some unexpected, unrelated tidbit of information. Suppose you're a mist mage working on an iteration of [Invoke Mists], for example. If you kept a caged population of haerophants nearby, they would be more likely to feed on your knowledge of the classic [Fireball], and grant you some insight into how to make a better [Fireball] instead."
+
+THEY ARE RESPONSIBLE FOR MANY SUDDEN INSIGHTS, THOUGH! Tarbloom wrote. MANY TALES OF A MAGE EXPERIENCING A SUDDEN FLASH OF INSIGHT IS A RESULT OF GRAYFLY EXCREMENT.
+
+Garret looked mildly ill. "You didn't have to put it like that," he muttered, clearly thinking back on some flashes of insight he'd had.
+
+Tarbloom didn't seem to notice. They were, Flia had noticed, remarkably matter-of-fact when it came to the reality of dealing with magical critters; the fact that a mage would have to deal with their waste and excrement was simply part and parcel of the subject. They moved happily on from the subject and began drawing a new sketch on the chalkboard, this time of a dragonfly-looking critter that Enqis also seemed to immediately recognize.
+
+This was all very interesting, but Flia wondered idly if either professor remembered that this was supposed to be a Critter Synchronization class. Was this all necessary to teach them to better synchronize with their familiars, or were the two professors just getting distracted?
+
+Flia did love critter trivia, and at any other time, she might not have minded the two professors distracting one another. She was learning so much more about the little creatures of Utelia than she had ever imagined she would. One day, she knew, all this knowledge would become a part of her magic. None of what she was learning here was wasted, exactly.
+
+And yet...
+
+A lance of dragonfire burning past her and straight into Elizabeth's heart, breaking through every barrier she had prepared in advance. The properties of dragonfire preventing that wound from being healed, even though they were in an era where healing magic should have worked.
+
+The look on Erick's face when he realized what had happened.
+
+Flia knew all too well that she couldn't let what happened in the Bitter Path control her path forward. She had spoken to Cale, her friends, and the professors she trusted most about it, and she trusted their advice.
+
+But that didn't mean she'd managed to let it go. Far too little time had passed for that. It simmered over her still, ever-present in the back of her mind, and at this moment it felt like the thought of her failure was louder than ever.
+
+There was so much more Flia needed to know about her magic. She needed to learn. Even having finally taken the step to palewater, even with the knowledge that she could beat mages that technically commanded more power than she did, it felt like she was too weak. If she had been stronger, she might have been able to stop Elizabeth from getting hurt. If she had known beforehand what she could do with Sabri...
+
+As if the little shadeling could hear her thoughts, Sabri crawled out of her pouch to nuzzle against her, and Flia smiled faintly as she scratched along the shadeling's back. Sabri buzzed happily in response, vibrating in a loud purr and pressing herself against her hand.
+
+She had been much more affectionate ever since their trip to the Bitter Path, Flia thought. It was almost like she knew that Flia needed comfort.
+
+A gentle tap on her desk got her attention, and Flia looked up to see Tarbloom holding up their chalkboard. IS EVERYTHING ALRIGHT? they had written.
+
+"Everything's fine," Flia said, offering them a smile, though it was a little less steady than she would have liked. "Just, uh..."
+
+She hesitated for a moment, then decided to go ahead. Tarbloom never seemed to mind criticism. "I feel like you and Professor Enqis are distracting one another a bit," she said. "I was hoping I'd learn more about synchronization and familiar bonds today. I've been having trouble properly merging with Sabri again."
+
+The other students murmured in agreement. Tarbloom and Enqis, however, only looked at one another knowingly.
+
+"What do you suppose is the most important part of synchronizing with a familiar?" Professor Enqis asked. The shadow-lich's words were surprisingly gentle, and Flia took a moment to think it through.
+
+"Understanding," she answered after a moment.
+
+"Indeed." Professor Enqis beamed, though how a skeleton could beam she hadn't quite figured out yet. He was definitely smiling, though. "And what is the greatest obstacle to understanding?"
+
+Flia frowned. When she merged with Sabri, she hadn't spared much thought to there being an obstacle; they had wanted the same thing, and so they simply... Became one.
+
+But she had struggled to cast the spell again, presumably because without her life being in danger, her thoughts didn't line up quite as well with Sabri's. It wasn't that the spell failed, exactly, but it kept ending far earlier than it should have.
+
+What was the greatest obstacle to understanding her companion?
+
+Sabri buzzed inquisitively on her desk, then headbutted her. Flia couldn't help but laugh softly.
+
+"Our differences, I suppose," she said, now smiling as she stroked along the shadeling's back. "I don't necessarily know what mood Sabri is in when I want to merge with her. I don't really understand how she experiences the world. I don't really even know how she sees me. I know she likes me, but I don't know what that means for her."
+
+VERY GOOD, Tarbloom wrote out, beaming at her. AND THIS GOES FOR ALL OF YOU! YOU MUST UNDERSTAND WHAT IS THE GREATEST OBSTACLE TO SYNCHRONIZING WITH YOUR CHOSEN FAMILIAR(S). OFTEN, IT IS YOUR DIFFERENCES. WE MAY APPEAR DISTRACTED—
+
+"In part because we are," Professor Enqis interjected, amused. "We do bear some blame for this. That said, it is, in part, intentional. You must learn to adapt to other modes of thinking, including our own. As foreign as it may seem to you, your little critters will have minds even more foreign than ours."
+
+THE MOST IMPORTANT THING TO LEARN IS THAT EVERY CRITTER IS DIFFERENT, Tarbloom continued to write. THE MORE YOU LEARN OF ALL OF THEM, THE MORE YOU WILL UNDERSTAND THEIR PLACE IN THE ECOSYSTEM AND HOW THEY PERCEIVE THE WORLD. IF GRAYFLIES CONSUME KNOWLEDGE, WHAT CONSUMES GRAYFLIES? HOW DO THEY SEE THE WORLD?
+
+Something within her stirred at that, and Flia's thoughts slipped back toward her Inspiration. It had seemed incomprehensible to her at the time, but...
+
+As she thought, Garret raised a hand. "How are we supposed to use this to eliminate our differences?" he asked. "I mean, my familiar is a foxfire wisp. I don't see how learning about grayflies is going to help make us the same."
+
+Professor Enqis cracked his teeth together. "If you believe the goal is to eliminate your differences, you are missing the point," he said. He turned to Flia, and the hollow sockets of his eyes seemed to glint with recognition. "Ah. Fascinating. Miss Flia, if you would? You seem to understand now."
+
+Flia blinked. It was true, she realized—her mind felt surprisingly clear. Part of it was focused on her Inspiration, still but the other part had relaxed thanks to Sabri, who had taken to lying on her back and was now wiggling her legs in a desperate attempt to get a belly rub.
+
+Strangely enough, it helped.
+
+"The differences are the point," Flia said, hesitant at first before gaining confidence. "If grayflies feed on knowledge, then we know they have a way to sense it. They might see the world in shades of magical knowledge. If you know that, you know they probably gather around academies and mages and libraries, and that they'd be excited around any great source of knowledge. Or around any new knowledge."
+
+Come to think of it, it was a miracle that Cale wasn't constantly swarmed with the things. Maybe he had some sort of filter on his barrier that kept them away?
+
+...Or maybe they just kept away because he was too much like them. She snorted at the thought. Grayflies could be lured and captured with any hoard of magical knowledge, and she was pretty sure the same applied to Cale.
+
+"Our differences highlight the ways in which we're the same," Flia murmured, finally giving Sabri her belly rub. The shadeling squeaked happily at her touch. It was remarkable how physical Sabri was, now that she thought about it. Shadelings were ambush predators, weren't they? They sat in a shadow and did nothing until some unfortunate soul stepped on them.
+
+The fact that Sabri had so easily attached to her suggested that shadelings weren't just that, though. Perhaps they hadn't always been ambush predators.
+
+Once more, she thought about her Inspiration. At the time it seemed incongruent with everything she knew about her magic, but now that she thought about it, maybe that was just because the vision hadn't been from her perspective.
+
+She remembered light and darkness. She remembered cold—a long memory of cold in fact, broken only by the presence of something flowing and liquid. She remembered a sudden, reliable offering of warmth.
+
+"Ah," Flia murmured. "You're hungry all the time, but you don't exactly feel it as hunger, do you?"
+
+Sabri cooed up at her, white eyes blinking curiously.
+
+"You feel it as cold," Flia continued. She pulled a large slab of meat out of her purse—the other students flinched, but that was only because they weren't yet used to the apparently endless supply of meat she kept in there—and gave it to Sabri, who immediately swarmed around and devoured the thing. "Do you just like food because it makes you feel warm?"
+
+Sabri wiggled happily. Cozy, she seemed to say, nuzzling up against her owner, and Flia smiled.
+
+Deep within her, the palewater she had been struggling to keep cycling through her core seemed to shift in some minute but fundamental way. It seemed to flow more easily, somehow? Flia straightened, startled by how much easier it suddenly felt, and Professor Enqis grinned at her.
+
+"Just as talented as Tarbloom said," the lich praised. "Not many students adapt so quickly to their lessons! And already at palewater... Goodness. The dark lord of this era might have some trouble indeed, if he plans to compete against you lot."
+
+"I doubt it'll be that easy," Flia said, and Enqis chuckled.
+
+"Such cynicism," he said. "In my youth, I was chasing legends! Did you know the lizardfolk of the Golden Sands have tales of a Wanderer who bears a great connection to the Great Realms? All the critters that man must have seen. I joined the dark lord in part for a chance to search for this Wanderer, you know."
+
+Flia blinked, wondering if she should say anything, but Enqis seemed entirely lost in thought. "Alas, I am starting to believe he is simply a legend after all," he continued, shaking his head. "And I can hardly attempt the same thing again. My contract prevents me from simply joining the new dark lord. I do wonder how this cycle would turn out, though. You are correct in that a battle against a dark lord is never easy, but you have such a fascinating little academy here. I can't help but find myself intrigued."
+
+YOU SOUND KIND OF EVIL WHEN YOU DO THAT, Tarbloom wrote.
+
+"By design, I assure you," Enqis said, beaming. "I find it terribly amusing how afraid your students are of a simple skeleton. Why, many of you have one yourselves! There is nothing to be afraid of."
+
+Flia snorted. Yeah, she wasn't going to say anything about the whole Wanderer thing. She was looking forward to seeing what Cale made of this guy when they finally met, though.
+
+Akkau had a headache.
+
+It was a common enough occurrence now that he wondered if his healers would allow him to take some scalefire draught to alleviate it. Fortunately, Sternkessel was around to dissuade him from making decisions that were that impulsive (though this was also possibly unfortunate; Akkau hadn't entirely decided yet.)
+
+This particular headache was, admittedly, not one he could blame on his "apprentice." Cale was off helping Professor Imrys with her latest ploy at advancing the field of artifice; Akkau had assumed this was some unrelated tangent she had acquired an interest in, at first, but she'd mentioned in passing that this new magic was closely related to some new artifact she wanted to build.
+
+In order for that to work, she needed to gather data from a multitude of different realms. The Streaming ritual allowed her an incredible opportunity to do what would otherwise require decades of dungeon delving to accomplish, and she had been very insistent on being allowed to carry out this new class. Akkau had originally been somewhat hesitant, but...
+
+Well, Imrys seemed quite certain this new magic would be of some use in helping them with their current predicament. She kept her secrets close to her chest, but Akkau suspected it had something to do with the rise of the dark lord. He knew they would need every advantage they could get against him—the kingdoms were being complacent and overconfident, but Akkau had lived long enough to know that a dark lord could not be underestimated.
+
+"Though I suppose that is not the only reason I am allowing her to move forward with her project," Akkau muttered to Cyte. The voidcyte purred and curled a tendril around his wrist, feeding eagerly on the mana he offered it. Adorable little thing. Feeding it his mana actually seemed to help with his headaches, strangely enough. "The Great Realms have changed too much since Cale conjured that truebridge. It is best we understand the nature of that change as quickly as possible, and these Streaming rituals will help us accomplish this."
+
+Our star has changed the worlds! Cyte agreed happily. Akkau let out a grunt of amusement. He wasn't certain Cyte understood anything other than the fact that Cale had been involved in this change, and it was happy to hear any news about the man. It really was attached to him for some reason.
+
+"And then there are the implications of that Inspiration I received," Akkau murmured. He struggled to understand it in its entirety still, but what he did understand worried him. He had been granted unprecedented insight into what was causing the extinction of all dragonkind, but even after days of research, he didn't know what to do about it.
+
+Leylines. Vekorax, as Cale had chosen to name the beast, lurked somehow within the leylines that connected the Great Realms. He should have figured it out earlier—the fact that he could no longer communicate with others of his kind could only mean that their means of reaching out across the Abyss had been compromised. Of course Vekorax lurked in the leylines, as impossible as that should have been.
+
+More than that... those leylines had something to do with true dragonfire, that now-lost magic that all dragons had once shared.
+
+How long had Vekorax lurked within the leylines, feeding on their fire, before going on the offensive? It had bided its time in just the same way a dark lord would have. Akkau couldn't help but wonder if the two were somehow related. If Vekorax was somehow a dark lord attached not to a realm, but to the species of dragonkind itself. The thought seemed worryingly plausible.
+
+It was also the primary reason for his headache.
+
+He had spent the last few days researching the Dark, trying to understand the link Vekorax might have to it. He thought if he understood, he might be able to stop the extinction of dragonkind, perhaps even reverse what it had done—he knew that was unlikely, of course, but he couldn't help but hope. He understood more about Vekorax now than he had ever dreamed of understanding before, so there was every chance he would find something to help him restore his kind...
+
+He wondered, briefly, if Cale felt the same way about humanity. Their journey into the Bitter Path must have felt the same to him. How had he really felt about being forced to leave them behind? He'd masked it all behind his usual cheer, but Akkau knew him well enough by now to recognize where he was worn at the edges.
+
+"I do believe I told you to take a break," Sternkessel said, interrupting Akkau's thoughts. Akkau blinked. When had he entered the room? The Greater Indictment had his arms crossed and was leaning against the frame of the door as if he'd been standing there all the while. "You do have classes to handle today, you know."
+
+"I know," Akkau grumbled, pulling himself from his desk with a sigh. How long had he been sitting there? His entire body ached, which was unusual for a dragon. The pile of books he had to the side nearly collapsed from the movement, and would have if Sternkessel hadn't flicked a spell out to catch them. "I must be close to a solution now. It is difficult to remind myself to take breaks."
+
+"And so I must continue to station myself in your office," Sternkessel said, shaking his head, though his words were fond and teasing. "You would forget to eat and drink if I were not here to remind you. I trust you remember our deal?"
+
+"Yes, yes," Akkau muttered. He'd driven Sternkessel away because of this before by allowing himself to be consumed by his work to the exclusion of everything else. He wouldn't do that to him again, no matter how close to a solution he felt like he was getting. "I will join you for lunch. The work can always wait."
+
+"Very good," Sternkessel said approvingly. Akkau reached out, his arm settling around the Indictment's shoulders, and they made their way toward the cafeteria.
+
+Apparently, Alina had unlocked a new tier of recipes. Akkau still had no idea what that was about—she had been very secretive about the whole thing. The only thing he knew was that it had something to do with her own Inspiration. Did recipes even have tiers? That sounded unnecessarily complicated.
+
+He found he was looking forward to finding out, though. Besides, it was an excellent opportunity to meet and speak to some of the new Brightscale professors. Akkau still wasn't exactly sure how Cale had managed to pull off what seemed essentially like some kind of resurrection, but judging by the magic these ancient beings knew...
+
+Well, even their wyldfire students were signing up for classes now. That upcoming tournament was no doubt going to be interesting.

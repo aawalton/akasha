@@ -1,0 +1,103 @@
+---
+id: 1fe3bf42-853f-5369-a8b0-766f9ad5dea8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 104: Frozen Flame"
+slug: 0145-chapter-104-frozen-flame
+partOf: labyrinth-of-the-mad-god
+position: 145
+ownLength: 2358
+unit: words
+publishedAt: 2025-03-17
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2132801/chapter-104-frozen-flame"
+royalRoadId: "2132801"
+---
+
+“Before we start, why don’t I sweeten the pot? If you can last three minutes, I won’t torture your friends before I finish them off.”
+
+Nick and Devin had been circling around to launch another attack. They came to a skidding stop when Alma reached out with both hands, accompanied by a surge of bloodlust that made him break out in a cold sweat.
+
+As the other pirates scrambled back to open more space, mana came streaming out of her core. Flows of incandescent red wound their way around her left arm, while bands of wintry blue coalesced along her right. He wasn’t sure what was happening, but given the overwhelming intensity of the woman’s magic, Nick was certain that taking more than a glancing blow would be fatal.
+
+He had been entertaining the possibility of killing her, but it was clear in that moment that the duo had no hope of defeating the tier-2 warrior. That their only chance of survival was to hold on until Sophia made her move. While the men got ready to defend themselves, the pirate captain’s magic assumed physical form, extending into a pair of swords that were two and a half feet long.
+
+Each elemental blade had more mana packed into it than Nick held in his core—dense enough that he doubted pure mana could disrupt it, at least at the level he could put out. If there was even a chance, it would be through channeling it into his sword. There was no way that Mana Dart was going to cut it.
+
+He used the final seconds at his disposal to whisper into Devin’s ear. “Do everything you can to avoid taking a direct hit. While we fight, make as much noise as possible. We need the others to hear us, so they know the crew is distracted.” Devin nodded—eyes never leaving Alma as her blades finished forming a bare second later.
+
+Before the last word left Nick’s lips, the leader of the Skyswarm Pirates made her move. She been standing twenty feet back, grinning like a maniac as she drank in the sight of her prey. Half a heartbeat later, she was standing right in front of him—so quick that her profile was reduced to a liquid blur.
+
+If Nick hadn’t undergone a month of intensive training with Rita, along with all his extra sessions with Kiki, he would have been dead before he even knew what hit him. But thanks to the instincts his mentor had beaten into him, his body had begun to move without waiting for a conscious command.
+
+He ducked beneath a swipe of the glacial blue blade, letting it pass above his head with a fraction of an inch to spare. Although the dodge saved his life, being that close to the subzero sword froze the skin on his nose, leaving him shivering as he darted back to open more room.
+
+Devin hit her from behind the moment she stopped moving. Alma didn’t even look as she lashed out with her flameblade. He blocked the weapon with his shield, trusting his Heat Resistance passive to protect him from the searing sword. The ability saved his life, but it wasn’t strong enough to negate her power. He went flying back, blisters forming on his scorched skin from the molten touch of Alma’s blade.
+
+The blond warrior came to a skidding stop, struggling to regain his balance while grimacing from the pain. The pirate turned to face him with a predatory smirk. She’s going to take advantage of the opening to finish Devin off. Before she made her move, Nick activated Force Acceleration and charged her from her blind side.
+
+For a second, it looked like his attack would connect. But even by his new standards, Alma’s reflexes were superhuman. One second, the woman was facing Devin. The next, the pirate had turned to face Nick with her twinblades poised to strike. She nodded in approval as she began her assault.
+
+He was still learning to control the power of Force Acceleration. If he overcorrected or made the slightest mistake, there was a significant chance that he would throw himself over the side of the airship.
+
+But in that moment, he didn’t have a choice. He had to leave the power on and hope for the best or Alma was going to cut him down like wheat before the scythe. He called upon Arctic Clarity to enhance his focus, leaping and ducking like mad as he dodged a series of lightning-fast strikes. Pain engulfed his body from the rapid change of temperature, as blades of electric sapphire and liquid ruby came at him in an unending barrage.
+
+Despite his best efforts, he could only evade the first dozen swings. After he ducked below a vicious swipe with a fraction of a second to spare, Alma feinted with her flaming sword before thrusting with her iceblade.
+
+Nick didn’t have time to get out of the way. Even with Force Acceleration going full blast, her attack was going to connect. Acting on instinct, he drew pure mana from his core and infused it into his weapon. He brought the silver-wreathed sword up in a streaking flash, just in time to meet the blue blade head-on.
+
+Alma’s magic was vastly superior to his own. He was gambling that the unique properties of his sword could make up the difference. Time slowed to a crawl as their weapons collided. If this didn’t work, Nick was going to die—an outcome as certain as dusk following dawn.
+
+To his immense relief, the silver sword met the blue blade and cut straight through, shearing it in half. The silver flames flickered and died half a heartbeat later—their power consumed to make that single attack.
+
+For the first time in the fight, Alma looked surprised. In fact, the woman looked downright astonished. She came to a stop while staring at her broken blade. “That’s impossible. You don’t have enough power to counter my elemental magic with pure. Not even if you burned through all your reserves at once. There must be something special about that sword. I must add it to my collection.”
+
+The shocking event broke her concentration for a crucial second, creating an opening that Devin wasn’t about to squander. The instant that she glanced down at her shorn blade, he hit her from behind. A crackling cone of fire erupted from his position as he unleashed Flashfire Pulse from point-blank range, bathing the woman in a searing blanket of flame.
+
+The men scrambled back to make more room, and when the fire died down a few seconds later, Alma was wearing a fierce grin. As a look of concentration crossed her face, her broken blade reformed. Shit, my attack cost her some mana, but she isn’t injured at all. This is bad. We can’t hold on for much longer.
+
+Confirming the truth of those words, the tier-2 warrior chose that moment to reveal her true strength. For the second time of the fight, mana came surging out of her core—far more than had been contained in her initial release. Her elemental swords extended, as the wind born from the contrasting temperatures whipped across the deck. “Get ready,” Devin said. “Here it comes.”
+
+It was at this point that Nick learned there were some major differences between physical swords and ones made of congealed mana. Most notably, the mana-blades weren’t locked into a single shape—Alma could extend or shrink them at will. As wintery wrath and volcanic fury shrouded the pirate in a scintillating mantle of might, her spell-blades extended to over ten feet in length. Before Nick knew what was happening, she started spinning like a top, sending her twin swords lashing for their position in a red-and-blue flash.
+
+The men were caught off-guard by the surprise attack. The flameblade hit Devin hard, lashing across his shield and helmet, but catching some skin too. Even with his innate resistance, it must have really fucking hurt, because the athletic warrior screamed, although he didn’t fall down.
+
+Nick was worried, but he didn’t have time to help his friend. He had his own problem to deal with. A fraction of a second later, the bladed band of icy mana collided into his body. He caught it with his Caster’s Buckler, nearly freezing the blood in his arm even though the shield deflected the strike.
+
+The duo retreated to the edge of the ring as pirates scrambled out of the way to avoid being caught in Alma’s wrath. By this point, she had stopped spinning and raised her swords above her head. Nick could tell that she was planning to end the fight with her next attack. Both swords lengthened to over twenty feet. Then they met and began to merge, forming a resplendent purple blade that was somehow both fire and ice at the same time.
+
+“Ah, hell.” Devin sighed. “I don’t think we will be walking away from this one. There’s no point in both of us dying. I’ll charge her while you get away. It was nice knowing you, Nick. Get out of here while you can and save the others.”
+
+The gesture was deeply touching, but Nick wasn’t about to let Devin sacrifice himself.
+
+He desperately sought out any means of living through the next few seconds, as Alma’s magic reached a crescendo and her sword began to fall. Variables whirled madly through his mind, but there simply wasn’t enough time.
+
+A heartbeat and a half before her magic erased the duo from this world, the warship lurched. It dropped fifty feet in the blink of an eye, throwing a dozen pirates over the side before it evened out once more.
+
+The purple blade carved a smoking, steaming canyon into the deck before Alma dispelled her magic and yelled. “What the fuck is happening?”
+
+“There’s a monster on board the ship!” One of the pirates answered.” It broke into the engine room and is wreaking havoc upon the machinery. We’re fighting back but we can’t stop it for long. If it damages the floatstone core…”
+
+The pirate’s words were cut off as the Bloody Surprise shuddered, freefalling for a few seconds before stabilizing once more. Nick hit the deck hard enough to bounce, although thanks to his high Toughness, the impact didn’t do any damage.
+
+For the first time, Alma of the Frozen Flame, captain of the Bloody Surprise and leader of the Skyswarm Pirates, looked worried. She’s afraid. Apparently, destroying the warship’s core would be just as cataclysmic as Nick had imagined. She abandoned their fight without a second thought, racing for the stairs in a flash.
+
+“That must be Sophia,” he yelled. “We have to help her.” Before he could take two steps, the airship began to plummet, and this time, it didn’t pull up. Its nose was angled down, and it was falling faster by the second.
+
+“No time.” Devin grabbed Nick’s arm to stop him from heading down the stairs. He tried to break free, but his friend held him in an iron grip, then shook him hard. “The airship is going to crash. There isn’t time to head back inside. Our only chance is to board one of the smaller vessels and let the others come to us. We need to believe in our friends and focus on what we can do. Trust them, I’m sure they have a plan.”
+
+Nick wanted to race to Sophia’s side, but he knew that Devin was right. If the duo didn’t find a way off the Bloody Surprise before the core failed completely, they were all going to die.
+
+The instant Nick nodded, Devin let go and the men began racing toward the side of the ship, passing scores of screaming pirates along the way. They were too panicked to fight, so everyone ran past each other as the warship tumbled from the sky.
+
+Fifteen frantic seconds later, the men found what they were looking for. They were approaching one of the little ships mounted to the sides of the vessel. It was where most of the crew was swarming, even though only a fraction of them would fit.
+
+The duo fell upon the buccaneers from behind, cutting down ten pirates before they knew what hit them. This marked the beginning of a brief but desperate battle, which was interrupted every time the deck lurched under their feet. The bucking threw as many pirates overboard as the men killed, nearly falling off themselves several times during the melee.
+
+When the last pirate lay dead by their feet, Devin and Nick leapt aboard the smaller ship, getting ready to take off while waiting for their friends to appear.
+
+More pirates tried to board. Nick blew through his mana holding them back, then kept on chopping with his sword. Meanwhile, Devin had figured out the controls and was ready to take off, but the rest of the party was nowhere in sight. Please hurry. We’re out of time. It was a grim situation—one that was growing more hopeless by the second.
+
+Just when Nick was about to jump off and search for his friends no matter the risk, he saw the bonefiend emerge onto the deck, with Shaun and Veronica following a few steps behind. Nick didn’t see Sophia, but he had always suspected that the bonefiend was a transformation rather than a summon. He hadn’t pressed the issue, trusting Sophia to tell him when the time was right. “This way. Hurry!” He jumped up and waved.
+
+The others saw him and darted across the deck, closing the distance as the warship fell from the sky. One hundred feet. Fifty. Thirty. Just when it seemed that they would make it, a great crack rang out, as the airship was stressed beyond its limits by the forces pulling it apart.
+
+The deck split down the middle as the Bloody Surprise broke in two. The last thing Nick saw was his friends sliding down the shorn deck, rapidly approaching the precipice. Because that was when a beam swung around hard and smacked him in the head, and oblivion rose to embrace him.

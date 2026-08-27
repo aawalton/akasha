@@ -1,0 +1,117 @@
+---
+id: 4a92461a-12ee-5905-81ed-3efe433f8c94
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90: Placing the Portal"
+slug: 0273-chapter-90-placing-the-portal
+partOf: labyrinth-of-the-mad-god
+position: 273
+ownLength: 2092
+unit: words
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2927564/chapter-90-placing-the-portal"
+royalRoadId: "2927564"
+---
+
+Nick relaxed for the rest of the day and woke up bright and early the next morning.
+
+After enjoying a hearty breakfast with his housemates, he opened his codex to the entry on factions.
+
+Factions
+
+Factions and alliances are the most common types of collaborative unions in the multiverse. While joining an alliance requires nothing more than the agreement of its members, joining a faction is a significant commitment. Individuals may only belong to three factions at the same time, and once left, they may never be rejoined.
+
+Factions absorb a small portion of the essence gathered by their members to unlock skills regardless of their Profession or class. At Faction Level 1, 1 skill may be chosen with a cap of 25.
+
+Interesting. A single skill might not seem like much at first glance, but giving the right power to thousands of people could be a gamechanger, allowing our civilization to advance in ways that might not be possible otherwise.
+
+Nick wasn’t surprised that Liz had already read the entry and considered the matter at length. She had sent runners to Desert Rose and Dragon’s Tooth, inviting them to Aurora for their first inter-alliance conference.
+
+She asked Nightsong to join them too. The coyotes were a strong contender for the faction’s fourth member, and she wanted to hear a beast’s perspective on the issue regardless.
+
+Everyone had agreed and would arrive in two days. It gave Elizabeth time to arrange a party to welcome the visiting dignitaries and use some of the vouchers from the emergency quest to construct the appropriate facilities. They met with Stan and the other members of the planning committee then got busy building.
+
+Three hours later, the work was complete, and Nick took a step back to admire their efforts.
+
+The embassies included several comfortable dwellings, a sitting room for receiving guests, another for conducting conferences, and a spacious garden with ornamental vegetation to provide privacy. It would have been a bit much for a single event, but he was certain the facilities would see heavy use over the coming months as Aurora established ties with settlements across the globe.
+
+The committee took a lunch break and reconvened a few hours later. After reviewing Liz’ plans for the upcoming conference and discussing the bonuses Aurora had obtained for jumping two tiers at once, they were ready to move on to the next item on their list—learning more about the portal the System had granted and figuring out where to put it.
+
+To get the ball rolling, Nick opened his Building Menu. This thing is huge. The structure was twenty feet tall and fifteen feet wide, which meant it could accommodate several wagons at once.
+
+They needed to place the portal somewhere central—a location with easy access to key parts of the city but wouldn’t create undue congestion or interfere with the orderly layout the committee had designed.
+
+After Sarah stopped by to create an illusion that served as a visual aid, Stan went to grab Ming, and everyone hammered out a solution together. In the end, they decided to use an undeveloped block on the border of the commercial and industrial districts. It was a good spot for shipping and wasn’t too far from the research and commercial centers arranged along the lakeshore.
+
+Since it was a quest reward, the portal didn’t cost any CP or vouchers, although they had to tweak the roads to accommodate heavy traffic. When the time came, Nick let Elizabeth do the honors, since he could tell she was excited to place her very first building.
+
+When she confirmed the prompt, the System’s magic congealed around the area in question—more intense than anything he’d seen before. Inch by inch, a majestic arch of crimson marble grew into existence. A crowd had gathered to watch, cheering as the portal rose from the level of his knees to just above his head to the height of a two-story building.
+
+The stonework was as thick as his body—covered in a dense lattice of runes that he could almost, but not quite, understand. There was a display mounted to one side of the arch, which only Nick and Liz could access by default. With that, all that was left was to fire the device up and give it a try.
+
+When he set the destination to Desert Rose, dense flows of mana gathered between the arch. There was a pulse of energy that pushed the dirt and debris out of the way—a safety mechanism that prevented anything from being torn apart when the gateway appeared.
+
+The surface turned reflective as a mirror, letting everyone see themselves before the image wavered to display the farming community. Abby and Walter were standing on the other side—jaws slack astonishment. Liz had warned them it was going to happen, but not exactly when.
+
+Everyone laughed at the expressions on their faces as the leaders of Desert Rose stepped through the portal entered Aurora. After switching it off to save energy, everyone chatted for a while, came to several agreements, and Walter and Abby went home.
+
+This marked the beginning of an animated conversation. The researchers were thrilled to have another example of advanced magic to study. The other crews and committees were just as excited by what the portal would offer Aurora as the alliance gained new members.
+
+Now the structure was up and running, Nick’s people could teleport hundreds of miles in the blink of an eye and visit their allies whenever they pleased. The five-minutes-per-day restriction meant they had to move quickly when the gateway was open, but with a bit of planning, it shouldn’t be too bad. When the other cities hit tier five, they would receive a portal of their own, which would connect the settlements for longer each day and make the logistics easier to manage.
+
+Even under the current limitations, the gateway made it easy to stay in touch with Aurora’s allies and support each other in a variety of ways. They could transport personnel and cargo without having to send a caravan across the biome and risk encountering the bladewind, roaming monsters, and the like.
+
+It would also make it simple to share research, initiate joint projects, and lend military assistance. That being said, they needed to come up with a way to communicate with each other than stepping through the portal and passing messages in person.
+
+By the end of the first day, quite a few curious people had stepped through and trade between the cities had begun in earnest. It was a major milestone, and this was only the beginning.
+
+Aurora and Dragon’s Tooth had established contact with several other settlements, which meant the alliance was well on its way to becoming a nexus of commerce, research, and diplomacy. It brought Liz one step closer to achieving her dream, and Nick had never seen her so happy.
+
+New faces were everywhere, taking in the sights and making new friends. It was nice to have visitors appreciate all the hard work the committee had put into designing the city, and he hoped Aurora would become a popular place to visit for a variety of reasons.
+
+As the leader of the largest city, Nick was technically in charge of the alliance—the only one beside Liz who could access the menus and make decisions on its behalf.
+
+However, they were taking a democratic approach to most matters. The leaders of each city had agreed to confer before Aurora added any new members, although having more destinations the portal could reach was a tempting proposition and they hoped to expand soon.
+
+He couldn’t wait until he could cross the globe whenever he wanted, but it made sense to go slowly during the early stages. Everyone wanted to have some control over who entered and left their cities, and Elizabeth was already hard at work establishing protocols and expectations while deepening the ties between them.
+
+Nick didn’t have much to contribute to this part of the process, so he decided to complete another objective while he waited for the faction conference to begin. It was time to take care of something he had been looking forward to ever since discovering his first regional resource shortly after returning to Earth.
+
+Since the cave behind the waterfall and the mine were now within Aurora’s sphere of influence, he activated Force Acceleration and took off in a flash—eager to claim both mana-generating resources before someone beat him to it.
+
+After a moment of deliberation, he decided to visit the mine first. His people were already using it, and they would benefit from some additional infrastructure now that he could place buildings and build roads near the site.
+
+By this point, Nick could run fast enough to reach both locations in less than a day, and he zoomed across the badlands with a smile on his face. He laughed at the startled expressions of the beasts he passed by in a blur and arrived at his first stop just a few hours later. He scaled the mountain in a streaking flash and didn’t stop running until he reached the central shaft.
+
+The instant he was in range, he opened his city menu, spent the points, and added the mine to Aurora’s collection.
+
+The leader of Aurora has claimed the regional resource:
+
+Mana-Saturated Mine
+
+The miners let out a cheer, and he chatted with them while inspecting their operation. They had already exposed more of the iron vein and found traces of several other metals nearby. They hadn’t uncovered the pure-mana infused variants yet. But given how quickly they could dig and the powers at their command, the crew were certain that it wouldn’t be long.
+
+While he was placing some barracks, warehouses, roads, and auxiliary buildings, Nick noticed an option in his Building Menu that he hadn’t seen before. Interesting. The list expanded after advancing Aurora’s tier. He couldn’t confer with the committee, but it was reasonably priced and would help protect his people, so he decided to act on his own initiative and purchased it on the spot.
+
+He watched as a barrier sprang to life over the entrance to the mine and the structures he’d placed outside. According to the System’s description, the shield would bar entry to anyone that wasn’t a resident of his city, along with monsters and beasts.
+
+It couldn’t absorb unlimited punishment and would gradually restore itself over time, but the barrier would offer some extra security to people who were working in a remote location. It would also keep other people from using the mine, although he was happy to trade metal with other settlements once Aurora had what it needed.
+
+With his first objective taken care of, it was time to claim the second resource.
+
+Nick bid his people farewell and ran down the mountain, sprinting south until the great cliff that divided the lowlands and the highlands came into view. It had taken some effort to scale the precipice the first time he’d passed through but down wasn’t a problem at all.
+
+He ran to the edge and leapt over the side, moving so fast that he cleared the rim by over a hundred feet. Before he hit the ground, he switched off his ability, causing a force double to slam into the rocky soil a heartbeat before his boots hit the ground.
+
+He had been worried that another city would find the falls and claim it and was relieved when he found no signs that anyone had discovered the site.
+
+The leader of Aurora has claimed the regional resource:
+
+Mana-Infused Waterfall
+
+After he stepped into the cave and claimed the resource, he considered placing another barrier before deciding to save his CP. The falls didn’t have any valuable materials to extract, and his city was already receiving the mana. If someone wanted to meditate or train inside the cave, they were more than welcome to do so.
+
+He thought about adding some infrastructure but decided to confer with the committee first.
+
+I should talk to Stan about building a set of stairs along the cliff. I think our engineers can whip up something that will let boats go up and down too. That will make it easier to explore the biomes to the south, as well as the ocean, and allow for trade once we establish friendly relations with anyone living in that direction.
+
+His objectives complete, Nick made his way back to Aurora—eager to place the city’s next Rare building and take their research to the next level.

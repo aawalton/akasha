@@ -1,0 +1,225 @@
+---
+id: 72bcfbea-b418-500d-995d-0b4717fd85e7
+page-type-slug: story-chapter-royal-road
+title: "59 — Book 2, Chapter 7 — Alchemy 101, Pt 2"
+slug: 0059-59-book-2-chapter-7-alchemy-101-pt-2
+partOf: just-add-mana
+position: 59
+ownLength: 3635
+unit: words
+ownProgress: 3635
+publishedAt: 2025-11-11
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2751768/59-book-2-chapter-7-alchemy-101-pt-2"
+royalRoadId: "2751768"
+markedReadAt: "2026-06-29T18:49:37.485Z"
+---
+
+Cale's relationship with alchemy as a practice was... complicated.
+
+He considered himself decent, he supposed. He'd dabbled with it more than a few times across several lives, in large part because he'd thought that he might be able to use them to circumvent his usual problems with mana. Unfortunately, it turned out that brewing a magic potion often required magic, which left him right back where he started.
+
+If anything, adding too much mana to a potion had even greater risks than adding too much mana to a spell. A spell would simply shatter if it couldn't handle the mana flowing into it. A potion, on the other hand, would explode.
+
+In the best case scenario.
+
+Cale had, more than once, thought he'd brewed a potion perfectly only to discover that his mana altered the potion's effect in some unpredictable way, despite the potion itself being visually identical to the one he'd been supposed to make. On the plus side, he was responsible for several new safety protocols being implemented across several alchemical labs throughout the Great Realms!
+
+He'd also been given no less than fifteen lifetime bans from those same alchemical labs, but they were lifetime bans, and thus had most likely expired at this point. As far as Cale was concerned, he was currently banned from zero alchemical labs.
+
+In any case, while more complex potions were generally beyond him, a number of the simplest ones were fortunately stable even when filled with far too much mana. That meant that a basic understanding of alchemy quickly became essential for him to survive across the realms—reincarnation was a lottery, after all, and not all realms were hospitable to humans. Barrier-filtering could only do so much for so long.
+
+An oxygenation potion, on the other hand, only required a liquid base, a drop of human blood, and imbuing the mixture with mana while shaking it vigorously. It was a pretty simple recipe that tended not to vary between realms and had saved his life many times over.
+
+Plus it doubled as an explosive if the situation called for it! As far as Cale was concerned, that was a useful secondary feature for all potions. Granted, he only really knew this because of the fire swamp, which had rather notably not been a fire swamp prior to his arrival.
+
+He didn't feel too bad about that one. The swamp had been trying to eat him, after all, and the local village had been both awed and grateful for "intervening with the Dark Lord's blight." Cale had not particularly been trying to do this, nor had he even encountered that Dark Lord yet in that life, but he hadn't had the heart to tell them it was an accident.
+
+"Cale, what are you doing?" Flia asked, perplexed. "You've been staring at the cauldron for the past three minutes."
+
+"Trying to remember my potion basics," Cale said cheerfully. "Some of the fundamentals are constant between realms, but a few of them are always shifting. I'm trying to remember which is which."
+
+"Or we could just listen to Professor Rinkle," Flia pointed out. "I'm sure she'll explain..."
+
+Flia trailed off. The projection spell was currently displaying Professor Rinkle attempting to literally strangle some sort of living root. She sighed.
+
+"Nevermind," she said. "Continue. Orguk needs an explanation anyway, and I've done this class before so I can point out if anything on Utelia is different from what you know."
+
+"Well, the absolute basics are always the same," Cale said. "There's a liquid base, the addition of any number of magical or non-magical ingredients, and then something to catalyze the reaction while you add some mana of the appropriate aspect. Usually that's heat, but some potions require stirring, shaking, chanting incantations, doing a dance..."
+
+Flia blinked. "There are potions that require dancing?" she asked, as if the suggestion was ridiculous.
+
+Well, clearly the lessons she'd had so far hadn't been comprehensive. Cale nodded emphatically. "The ways of magic are strange and mysterious," he said. "Besides, plenty of ritual magics require the same, and alchemy is a form of ritual magic."
+
+"Huh. Never thought about it like that." Flia's brows creased slightly, but she seemed thoughtful. "That makes a strange amount of sense."
+
+"Orguk likes that," the orc grunted. "Orguk is a very good dancer, you know."
+
+Both Cale and Flia turned to look at him. Cale looked delighted by this fact, while Flia remained skeptical.
+
+"Orguk once read that dancing improves mana capacity," the orc explained. "Turned out book was for children. Explains all the pictures. But Orguk had fun, so Orguk continued practicing."
+
+"Huh," Cale said. "That's somehow both exactly what I expected and not at all like what I expected."
+
+"Cale," Flia said, exasperated.
+
+"Anyway!" Cale continued cheerfully. "It's usually the ritual parts that change most between realms. Incantations tend to be similar in cadence and intent, but they aren't word-for-word identical, and the specific wording is usually important in potion brewing. Unless it isn't on Utelia?"
+
+Flia thought for a moment, then shook her head. "It's the same. Professor Rinkle usually insists we practice the incantations a few times beforehand. She says if you mess up the rhythm, it can corrupt the potion." She grimaced. "I've seen it a couple times. It's usually not pretty."
+
+Cale raised an eyebrow. "Corrupt the potion?" he asked, just to make sure he'd heard that right, and when Flia nodded, he frowned. "I'm going to need some clarification on that later. Usually messing up the incantation just nullifies the potion or changes the effect, it doesn't corrupt it. What exactly does corruption mean, in this context?"
+
+"The potion turns black and tries to eat everything around it," Flia said.
+
+Cale blinked, then glanced more cautiously at the cauldron they'd been provided. "And that didn't strike you as like... an ominous sign?"
+
+Flia stared at him blankly. "A sign of what? Why would it be ominous?"
+
+Cale sighed. "I keep forgetting you guys have just been living with this stuff," he muttered. "This is the moon thing all over again. Nevermind, we'll get to it later if someone corrupts their potion or something."
+
+Orguk raised a hand. "Can Orguk do it?"
+
+"No," Cale and Flia both responded immediately.
+
+Orguk, to his credit, didn't argue for it. He looked incredibly disappointed, though. Flia had to look away after a moment. "It's not a good thing, Orguk," she tried to explain. "It's dangerous. The last time a student made a corrupted potion, it nearly killed a student."
+
+"Orguk understands," the orc said, his tone incredibly forlorn.
+
+Cale decided to change the subject before Flia just let the orc do it out of pity. "You know, I once figured out I was in an illusory realm because of the alchemical principle thing," he said cheerfully. "It's pretty useful when you know about it! Someone tried to trick me with this illusion that I died and reincarnated in a new realm, and it was a pretty good illusion, too. Nailed the whole 'new realm, new rules' thing, crafted whole new monsters, all sorts of things."
+
+"Someone... crafted an illusion of an entire false realm?" Flia asked, her voice strangled.
+
+Cale nodded. "But they forgot the fundamentals," he said with a disappointed sigh. "The incantation for brewing a fireflight potion was identical to the one in the last realm I was in. Great attempt otherwise, but forgetting about potion incantations was amateurish, frankly."
+
+"...If I had to create an illusion of an entire realm, I cannot imagine giving even a moment of consideration to potion incantations," Flia deadpanned. "Just for my own sanity, please clarify—when you say someone, are you referring to a regular mage, or yet another divine-level entity of some kind? Because I've noticed you tend to speak of both in the exact same way."
+
+"I do not," Cale protested. "And I have no idea, it's been ages—" Flia began to glower at him, and Cale hastily corrected himself. "The second one. Definitely the second one."
+
+Flia nodded, satisfied. "Also, in case you forgot, Orguk's right here," she said, gesturing to the enormous orc. "I don't know if you intend to keep your reincarnation thing a secret, but he knows now, so."
+
+"Orguk does not even know what re-in-car-knitting is," Orguk said. "Orguk also does not care. Unless it has something to do with how the mana man has so much mana. Does it?"
+
+"Okay, first of all, please never call me that again," Cale said. Somehow, that was also a first. "Second, technically yes, but not in any way that can be copied, so please don't try to copy it."
+
+"Then Orguk does not care." Orguk shrugged, satisfied and apparently proud of himself for this.
+
+Cale gave Flia a thumbs up. He had admittedly forgotten. Not that Orguk was there—the orc was rather hard to ignore, with how much he towered over them—but that he didn't already know. "The good news is, no one else can hear us!" he said cheerfully. "Because we're surrounded by thick layers of potion-goop. We're probably even scry-proof right now."
+
+Which was true. Some time during their conversation, Professor Rinkle had started the brew, pouring what felt like an entire ocean's worth of potion base into the cauldron on top of them. The protective ward beneath their workstations each lit up with a yellow glow, creating tiny pockets of breathable, cool air in the cauldron even as the brew started to boil around them.
+
+"Always remember to pre-heat your potion base if the recipe calls for it!" Professor Rinkle announced through her network of wards and charms. She gestured grandly to the cauldron bubbling in front of her. "That is one of the most important steps to many, many potions. Your potion base must be warm and happy, or your potion will not be."
+
+Flia sighed. "I never know what she's talking about when she says stuff like that," she muttered despairingly. "I don't suppose you do? Because I think that's only the difference between my potions and hers. Mine always come out a little wrong."
+
+Cale considered this for a moment. "I mean, you told me she was apparently able to use water from one of your spells as a potion base, right? If that's true, then I'm kind of inclined to just take her at her word. You've already got resonance, so maybe Utelia has brewing principles that require some kind of emotional connection with your potion."
+
+Flia made a face. "I hope that isn't true, because if that's a requirement then I'm never going to do well in this class," she muttered. The projection spell was showing Professor Rinkle adding an assorted list of ingredients to the cauldron, now, one after another—the eye of an eldroot, lightly seasoned; brightbeetle shell shards, ground to paste; citrus peels, lightly salted...
+
+Cale was about to comment on that last one when the potion around them abruptly flashed with a bright blue glow, illuminating their workstations perfectly. He wondered if that was part of the reason she'd chosen this particular potion for this class. What were they brewing, anyway?
+
+He squinted at the workstation. There was a recipe there, pinned to the top, labeled amplification potion.
+
+That... didn't explain anything.
+
+"What are we amplifying, exactly?" Cale muttered.
+
+"An excellent potion!" Professor Rinkle's voice boomed through the wards, making them all jump. "Ahem. I mean—an excellent question, my dear student! This is a potion of my own invention, and I daresay it has the potential to change the fabric of our very society. Once imbibed, this potion temporarily amplifies almost any characteristic or magical trait!"
+
+Cale blinked, then stared at the recipe again. That rang pretty much every single one of his "too good to be true" alarm bells.
+
+"And the downside?" he asked.
+
+They could practically hear Professor Rinkle's shrug. "As I said, it amplifies almost any characteristic or magical trait," she said. "Unfortunately, I do not yet have a way for the drinker to select which one."
+
+"So it amplifies something at random." Cale's estimation of this potion dropped dramatically.
+
+"Correct! But that is where you, my dear students, come in." Professor Rinkle beamed. "You must understand, alchemy is a rather expensive class, and many of our ingredients are difficult to come by. However! Despite its problems, this potion has potential that is highly coveted by the Orstrahl Kingdom—"
+
+Oh, Cale could hear the devious glee in her voice. "—and they have promised to fund any and all research related to it," she said. "Also, it just so happens that the recipe for this potion involves nearly every modern alchemical technique and is an excellent brew to develop your fundamentals. So! We will be studying this one potion for the entire term."
+
+There was a short pause, during which a different student presumably asked her a question. "Ah, but what about useful potions, you ask!" Professor Rinkle grinned. "Yes, well, you have your textbooks. I will keep my classroom open for you all, with the following rules: only attempt potions whose fundamentals you have already practiced with the amplification potion. If you wish to experiment, you will clear it with me. Otherwise, the generosity of the Orstrahl Kingdom keeps our ingredients cabinet stocked, so feel free to use them as you wish!
+
+"Now, back to expectations for this class. The amplification potion is an advanced recipe, so I don't expect anyone to successfully complete it," Professor Rinkle added. "You will only succeed when you truly understand the potion from within. But do not worry! Mistakes are welcome! Make as many mistakes as you want, as long as I am here to supervise!
+
+"I know I said earlier not to deviate from any alchemical recipe, and I stand by what I said. But for this potion and this potion only, as long as you are within my wards, you may experiment. For it is in great mistakes that the greatest alchemical discoveries have been made. Why, the ancient alchemist Gaflard only derived the principle of magical distillation from accidentally falling asleep while he was brewing his masterpiece..."
+
+Professor Rinkle trailed off as she continued to ramble, now clearly lost in thought, but Cale was snickering.
+
+"Wow," he said. "I take back everything I said about her. She's a genius."
+
+"What are you talking about?" Flia asked, perplexed.
+
+"She's using Orstrahl to fund her alchemy lessons," Cale said with a grin. "Look at these ingredients! I don't know everything native to Utelia, but farblooms are scattered all through the Great Realms, and I've never seen their seeds sell for anything less than the price of a small house or its equivalent. And two of these ingredients definitely just neutralize each other.
+
+"But she's not wrong, either—if she's at the level I think she's at, then she's more likely to get a workable result from a bumbling student than from another alchemical master. You can't always 'solve' a potion. Sometimes they need a step that's basically never been invented before and requires sheer dumb luck. Or, alternatively, students that have no idea what they're doing."
+
+Flia's mouth opened, then closed again. "How do you even know all this?" she muttered, going back to the ingredients list and giving it a closer look. A second later, she did a double-take. "Ghostfire pollen from the Illwyld, pale petals from the Aersheld cliffs—silver dragon scales?!"
+
+"She definitely knows what she's doing," Cale said approvingly. "And to answer your question, I tried out alchemy a couple times. It's not as fun as actual magic, though. I want spells, not potions."
+
+Still, class was class, and the distortion storm did what he suspected, then there was a good chance he could use what he learned in this class to brew something that might help Sternkessel. Cale had encountered at least a few alchemists that had attempted exactly this back in Karmia, though they had never succeeded. Something about thresholds?
+
+"Well, we might as well get started," Cale said. "Let's—"
+
+Cale paused mid-sentence, his brow furrowing. He glanced at their cauldron, which was now both inexplicably full and bubbling merrily. Then he turned his gaze to Orguk.
+
+"Orguk put in all the ingredients with the most mana," Orguk said. "Orguk thinks this will make a mana capacity amplification potion. Orguk will drink the potion when it's done, and Orguk will get lots and lots of mana."
+
+Cale considered this for a moment.
+
+"Well, it's not like we're short on ingredients," he said after a moment, shrugging. "Let's just see if we can't make Orstrahl empty their entire treasury, shall we?"
+
+What Cale had feared the most about Alchemy 101 was that it might bore him.
+
+All the other classes he'd been to had been fascinating, but even with all his practice, he'd always struggled to really get into alchemy. He saw it as little more than a basic survival tool—even the few times he managed to brew a working potion and imbibe it, something about that just felt different than casting a spell on his own.
+
+Not that he had any problems with alchemy itself as a form of magic, of course. His own lack of affinity with it didn't mean he saw it as lesser. But what interested him most about Utelia was the Gift and its ability to adapt any kind of spell, and alchemy seemed like a magic that would have virtually no interaction with the Gift.
+
+Cale reflected that he should probably have known better than to worry about this, considering Professor Rinkle's personality. The ingredients they were using were exactly the sort of bizarre and eclectic collection that fascinated him, and more than half of them required specialty spellwork just to handle them. No wonder she'd said this would take all term.
+
+In the first few minutes alone, Professor Rinkle had them learn [Iron Grip]—a necessity for handling dartaway petals, which did exactly as their name described—and [Divide], which was a simple cutting spell that was practically a requirement for handling some sort of specialty pollen that would explode violently if not split exactly in half.
+
+Cale was pretty sure he could evolve [Iron Grip] into some sort of kneading spell. For baking, obviously. He would have tried it, too, if Orguk hadn't taken to the spell with an alarming sort of ferocity. He seemed to take the failure of their first attempted brew quite personally, probably because it exploded in his face within the first couple of seconds.
+
+Professor Rinkle had stepped in before it could do any harm, fortunately, and then she had praised him for attempting to try something new, then warned him not to deviate that much from the instructions.
+
+Probably fair, really.
+
+Still, he learned a lot about handling Utelian ingredients over the next half-hour or so. He even innovated, in a manner of speaking!
+
+"Cale," Flia said nervously. "You do realize that's demon-molt that you're handling, right?"
+
+"Yes?" Cale glanced down at the cocoon-like object he was currently stirring into the cauldron. It had stopped shrieking a while ago, thankfully. "Why?"
+
+"I'm just making sure you read the part of the ingredients handling list where it specifies that demon-molt kills you if you don't sing to it," Flia said tightly.
+
+"Oh, that." Cale shrugged. "They only kill you if they think you're weak. I told this one I blew up the eighth realm and it stopped shrieking pretty quickly."
+
+Flia stared down at the cocoon, which was currently visibly trembling instead of performing the death-shriek it was supposed to. "Ah," she said after a moment, her voice strained.
+
+You have learned [Shrivel]!
+
+[Shrivel, Level 1] [First Tier, Active] [5 Mana]
+
+Shrink to appear non-threatening.
+
+"Huh," Cale said. "Didn't know demon molts could cast spells. I wonder if they're alive."
+
+"They are very sophisticated magical constructs, but they are not alive," Professor Rinkle said, her voice filtering in through the wards to speak to them privately. "I would never use them as an ingredient if they were. But the potion must be happy, not terrified! Perhaps you should sing to it anyway?"
+
+Cale made a face. "No thanks. I've tried that before," he said. "Trust me, that would not make the potion happy."
+
+He glanced back over the ingredients they'd been provided thoughtfully. There was something else that was interesting about them. Professor Rinkle didn't actually have a complete inventory of all the ingredients she provided—the Orstrahl Kingdom had mixed in a number of unknown herbs with the shipment, apparently.
+
+The cabinets were all magically linked together and she hadn't had time to sort them further, so instead she'd warned them not to use anything that wasn't explicitly labeled, since they had no idea what they were. She would, she warned, be watching.
+
+"You must know your potions from within," Professor Rinkle had repeated emphatically. "Adding something you don't know or understand means you do not, and an alchemist cannot control what they don't understand."
+
+"Well," Cale said, eyeing the ingredients thoughtfully. "That's all well and good, but..."
+
+He did, in fact, recognize several of these. Some were things that could only be obtained from the Abyss, so no wonder Professor Rinkle hadn't been able to identify them. That said a lot about Orstrahl's connections.
+
+More importantly, several of these ingredients were supposed to be extinct. Cale remembered more than one campaign sent out across the realms to destroy them all, mostly because they could be used to brew potions that could counteract some of the most dangerous magicks from the Planar War.
+
+If he used these right, there was a chance he'd be able to use them to brew something that would mess with a lot of the Red Hunters' leverage.
+
+"Professor Rinkle," Cale said, slowly grinning. "I think I'd like to request your permission to experiment."

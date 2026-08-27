@@ -1,0 +1,167 @@
+---
+id: cfc09312-b048-5a17-b662-768128963004
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89: Tiering Up the Town"
+slug: 0272-chapter-89-tiering-up-the-town
+partOf: labyrinth-of-the-mad-god
+position: 272
+ownLength: 2083
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2921134/chapter-89-tiering-up-the-town"
+royalRoadId: "2921134"
+---
+
+Nick took a good look at the settlement’s leaders as they came to a stop beside him.
+
+Athena was tall and blond and Tita was dark and short. Size Up told him both women were warriors specializing in close-range combat, which wasn’t a surprise after examining their powerful bodies and heavy weapons.
+
+“Thank you,” Tita began as everyone shook hands. “We were in bad shape when you arrived. We would have lost a lot more lives along with the city’s core if wasn’t for your timely intervention.”
+
+“Everyone in Dragon’s Tooth owes you a debt,” Athena added. “If there is anything we can do to return the favor, all you have to do is ask.”
+
+“Anytime,” Nick said. “Everyone on Earth is on the same team, fighting to survive the whims of the Mad God and everything the Labyrinth throws our way. I don’t need compensation, but if you come across someone who needs your help, pay it forward, and lend them a hand.”
+
+“That’s a good way of looking at things.” Tita smiled. “I feel the same way.”
+
+“There is something you can do that will benefit both of us.” Nick shared the details of his quest to improve Aurora’s City Tier, which was one step further along than Dragon’s Tooth.
+
+“If you are willing to join our alliance, it will take both settlements one step closer to reaching tier seven. It’s critical that our cities reach the final tier before the Rebuilding Civilization period comes to an end and we lose the chance to earn the rewards the System is offering.”
+
+The women discussed the matter for a while, asking some questions to see how closely their values aligned. Athena and Tita must have been happy with the answers he provided, because they accepted his proposal and opened their City Menu to seal the deal.
+
+You have formed an alliance with Dragon’s Tooth and advanced Aurora’s city quest, completing the final objective required for reaching the next tier.
+
+Would you like to increase Aurora’s City Tier now?
+
+Since he didn’t see any reason to wait, Nick accepted the prompt then and there, causing another update to waver into existence before his eyes.
+
+Congratulations, Aurora has advanced to City Tier 4.
+
+For reaching Tier 4, the settlement has gained the following rewards:
+
+Significant expansion of the city’s sphere of influence. (100 miles).
+
+The following roles may now be assigned:
+
+Prime Minister (Expenditure of City Points and redemption of building vouchers. Citizenship approval/dismissal).
+
+Economic Minister (Contribution Token administration).
+
+Defense Minister (Emergency alerts and control of automated defenses).
+
+Additional titles may be assigned at your discretion but will not grant administrative powers.
+
+Awesome. Nick was so excited that he danced in a circle, blushing when the woman raised their eyebrows at his behavior. He honestly didn’t care. He could finally delegate his responsibilities as the leader of Aurora and put Liz in charge like she should have been all along.
+
+He would still do whatever he could to bolster morale and planned to meet with the committee whenever he was in town. But not having to place each building himself, mess with the token system, or approve citizenship requests would let him devote his time and energy to what he did best—growing stronger, defeating powerful enemies, clearing dungeons, and protecting the Earth from anything that dared to invade his home.
+
+On top of everything else, Nick had dramatically expanded Aurora’s sphere of influence, increasing the range of the Weather Barrier and Monster Wards, and bringing more sub-biomes and regional resources into the city limits.
+
+The settlement’s committees and crews were going to be thrilled, and he was sure the upgrade would benefit his people in a hundred different ways. While all of that was exciting enough, it was only the beginning.
+
+Another prompt followed the first and he read its contents with interest.
+
+Faction Creation
+
+As the largest member of a 3-city alliance, you can create a faction that will offer its members considerable benefits. A new section in your codex had been unlocked that explains the details.
+
+Forming a faction sounded great. The only one he knew of was the School of the Ever-Surging Blade, which had granted him an uncapped Sword skill independently of his class.
+
+Every advantage he could offer his allies would be most welcome, but Nick was too tired to read through the details just yet. Besides, he wasn’t doing anything that affected the lives of thousands of people without consulting with his team and conferring with the other settlements first.
+
+He decided to check out Aurora’s next city quest instead. When he opened his menu, he received his biggest shock in a day that was chocked full of surprises.
+
+Current Quests
+
+Acquire 5 mana wells and 1 Rare building (complete).
+
+Rewards: Domain expansion.
+
+Have 300 citizens with Rare classes and a minimum level of 25 (complete).
+
+Rewards: Portal Network (Allied settlements only).
+
+When both quests have been completed, your city will advance to Tier 5 of 7.
+
+Aurora has completed the final objective required for reaching the next tier.
+
+Would you like to increase Aurora’s City Tier now?
+
+The message caught Nick completely off-guard. His jaw dropped when he realized his people had cleared the requirements to take Aurora all the way to tier five.
+
+Leveling three hundred citizens to twenty-five and accomplishing feats that would let them earn them Rare classes would be a long, arduous process for any settlement on Earth… any settlement except for Aurora, whose founders had climbed Darkstone Tower, defeated the tier-two Guardian on the roof, and saved their homeworld from being recycled into raw materials to expand the Labyrinth.
+
+The champions of Earth had put their lives on the line time and time again, growing stronger along the way. Now, all their hard work way paying off—albeit in a manner he could never have imagined until he saw those words on the screen.
+
+Nick accepted the prompt with a flourish, grinning when he imagined how surprised Elizabeth was about to be, along with everyone else back home.
+
+Congratulations, Aurora has advanced to City Tier 5.
+
+For reaching Tier 5, the settlement has gained the following rewards:
+
+Significant expansion of the city’s sphere of influence. (150 miles).
+
+Inter-Alliance Portal Network. (Current time limit: 5 minutes per day).
+
+Nick wasn’t sure how the Portal Network worked, but regardless of the details, it was going to make a big difference.
+
+It would be easier for Aurora to work and trade with Dragon’s Tooth and Desert Rose going forward, and that was only the beginning. When they added more cities to the network, it would open all kinds of opportunities that he couldn’t even begin to wrap his head around just yet.
+
+This is huge. While he mulled the matter over, he decided to read the next quest in the series.
+
+Current Quests
+
+Form a faction that includes 20 other settlements.
+
+Rewards: City specialization (see codex for more information). Domain expansion. Upgraded portal network. Additional faction bonus (this bonus may only be obtained the first time a member reaches City Tier 6).
+
+When this quest has been completed, your city will advance to Tier 6 of 7.
+
+That one is going to take some effort. I have a hunch that Liz can manage it within a few months, which should leave us with half a year to tackle the tier-seven quest. I’m sure it’s going to be tough, but I bet the reward is incredible.
+
+He let Laura and Eris know what had happened, chuckling at the astonishment on their faces as he chatted with Tita and Athena while waiting for Kenji’s team to arrive.
+
+Nick was so excited that he couldn’t stop moving. They had saved Dragon’s Tooth, and what he had received in exchange blew him away. The ability stones were fantastic, and the gains to his city were even more impressive.
+
+In a single day, Aurora’s sphere of influence had spread to cover a significant portion of the badlands, granting his people access to a vast range of resources. The Monster Wards and Weather Barrier now covered hundreds of miles, offering their protection to everything below.
+
+Today was a major milestone for Team Earth, and more were on the horizon. Forming a faction was certain to offer a powerful advantage, and the prospect of being able to pick a city specialization at tier six was tantalizing.
+
+On that note, he pulled up his codex and read the entry now.
+
+City Specialization
+
+When a city reaches tier 6, it may select a specialization—combat, commerce, research, or crafting. All skills related to this specialization will grow 25% faster if used within the city limits. All mana-using buildings related to this specialization will have their requirements cut in half, letting their wells support additional structures or be used in other ways.
+
+His eyes widened and his jaw dropped when he processed the implications of what he’d read.
+
+Nick hadn’t expected something like this to be on the table. Whatever specialization Aurora chose would radically change the nature of his city. While the commerce option didn’t appeal to him, it was just as valuable as the rest, and any of the specializations would offer his people a tremendous advantage while preparing to enter the Labyrinth and tackling whatever came next.
+
+It seemed that Aurora’s leaders had some big decisions to make, both now and in the future. He had a few choices in front of him too, including which ability stone he wanted to use and which he would save until he advanced Heavy Blow and freed up another slot.
+
+He wasn’t going to rush into anything, but there was one choice he was ready to make here and now—spending his attribute points. Sticking with his plan, he decided to put three into Magic and two into Psi.
+
+He wasn’t sure how heavily he wanted to invest in psychic powers going forward, but right now, the layer of mental protection, ability to sense other minds, and boost to both Size Up and Predatory Domain were potent advantages. He also had a feeling that if he improved the attribute a bit more, he would cross a threshold that would let him get more use out of his innate psychic energy.
+
+He enjoyed the sensations that accompanied spending his points, which weren’t nearly as intense this time around. Kenji’s team arrived a little while later. Veronica used her powers to heal everyone who had been injured in the battle, finishing off the ants Laura had captured.
+
+Nick brought his friends up to speed on everything that had happened, including the upgrades to Aurora. Kenji and V looked just as astonished as he felt, and everyone enjoyed the moment before going their sperate ways.
+
+Kenji’s team was planning to stay put for a few days, helping Dragon’s Tooth get back on its feet and make sure that nothing dangerous was lingering in the area. After bidding farewell to Athena and Tita, Nick and Laura returned to Aurora.
+
+They decided to race to burn off their lingering adrenaline, tearing across the biome at a mind-boggling rate. She beat him in a photo finish, and they agreed to a rematch when they had time to spare.
+
+He treated himself to a hot meal and a soak in the pools before meeting up with Elizabeth and the planning committee. Nick’s update resulted in a spontaneous celebration. Stan had every team in the settlement join them to share the good news and incorporate the information into their plans.
+
+Kerry was happy to accept her new role, since she had been running the Token Exchange from the start. Kenji had decided to split his Defense Minister role with Ella, and Nick made her sheriff title official while he was at it.
+
+They agreed to meet up in the morning to discuss forming a faction and the other changes that advancing the city’s tier had brought before calling it a day.
+
+Liz stayed behind and the pair spoke at length.
+
+Nick took great pleasure in addressing her as “Minister.” She pretended to be annoyed but he could tell she was pleased that the city had finally grown large enough to need a proper government.
+
+Before long, he was openly flirting, and Nick bid his friend farewell before he said something that he would either regret a great deal or not at all—he wasn’t really sure.
+
+Either way, the tension that had been building between them for weeks was coming to a head sooner rather than later.

@@ -1,0 +1,77 @@
+---
+id: 8040659a-4241-5e4a-906b-ba6ba866a57d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84: Hard Day, Long Night"
+slug: 0125-chapter-84-hard-day-long-night
+partOf: labyrinth-of-the-mad-god
+position: 125
+ownLength: 1554
+unit: words
+publishedAt: 2025-01-29
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2036761/chapter-84-hard-day-long-night"
+royalRoadId: "2036761"
+---
+
+When the dino died, the rest of its pack pulled back to feast on its remains. This time, they didn’t come charging back right away, although Nick knew that it was only a matter of time before they returned.
+
+The good news was that the sun was going down outside the tower. Unless the pirates could see in the dark, the party would be safe from overhead observation until morning, or at least safer than they were right now.
+
+The bad news was that while everyone’s night vision was better than it had been back in their old lives, they couldn’t make their way through the trees once they lost the last of the light. Team Earth needed to find somewhere to hide, and they needed to do it now.
+
+Hopefully, the raptors will sleep through the night before resuming their hunt in the morning. We need to be on a ship and off the ground before that happens. We can’t afford to waste time and energy facing beasts with our true enemy prowling the skies above.
+
+That was when Sophia pointed to a recess about thirty feet up on the growth-covered wall. “I think that’s a cave or something similar. If we can make our way inside, we should be safe from the beasts roaming the forest floor.”
+
+Veronica nodded her agreement, and then offered to scout it out. She started scaling vines and ferns while the rest of the party watched her back, ready to offer support if needed. Fortunately, nothing hostile appeared, and after completing the climb, V leapt into the opening.
+
+She popped her head out five minutes later. To Nick’s relief, she flashed the hand sign for ‘all clear,’ and everyone started climbing up to join her.
+
+Not long after, they stepped inside the enclosure, which revealed itself to be a modest cave that stretched about twenty feet back before ending in a metal wall. Or maybe cave isn’t the right word, since most the surfaces are made of tightly woven plants. Apparently, the overgrowth lining this side of this tower was even thicker than he’d realized.
+
+It was damp, dank, and covered in the droppings of something that had been living here not long ago, but at least it shielded their flanks and covered their heads. After making sure that nothing unfriendly had observed their ascent, everyone took off their packs and sat down in a circle, recovering from the grueling ordeal before planning out their next move.
+
+Since starting a fire was out of the question, Nick used the device he’d found on Kellen’s body to illuminate their surroundings.
+
+After fiddling with the settings, he discovered that the light had a range of options. It could be set to float over his shoulder, or hover in place if he remained within fifteen feet. The beam could be focused like a flashlight or set as a sphere that shone in every direction.
+
+He anchored the light near the top of the cave, then adjusted the output so that it didn’t shine toward the entrance. This thing is already coming in handy. I can’t wait to see what else it can do once it begins repairing itself.
+
+While the party recovered their stamina, Nick began handing out some of the supplies that he’d found in the storeroom on the last floor. When Devin, Sophia, and Shaun saw what he had to share, they began to get excited. Helping to dispel the lingering tension, if only by a hair. Even Nick was surprised when he realized just how much he and Veronica had managed to shove in there during the bonus event.
+
+Feeling a bit like Santa Claus, he handed out coats and cloaks, shirts and pants. Tarps, blankets, and… “Is that a pillow?” Sophia asked in delight as Nick handed her something soft to put below her head. “Nick, I’m not sure how to tell you this. But I’m pretty sure that I’m in love… with your bag.”
+
+Everyone got a good laugh out of that as they stretched out, far more comfortable than before. Now in a considerably better mood, the team moved on to unpacking the dynamics of their situation. After making a meal from cold travel rations, they spent the next half hour getting organized and talking out their options.
+
+It was clear by now that the raptors wouldn’t return until morning. His team had until sunrise to find a ship. Or at least a more secure shelter to keep the beasts off their back and shield them from the pirates’ eyes. Regardless of the rest, they had to find a way to start climbing the floor sooner rather than later, and needed to take to the skies today if they could.
+
+On that note, Veronica was getting ready to embark on a scouting run, having insisted that she go alone. “No one else is nearly as quiet as I am, Nick included. If I want to cover sufficient ground and get close to our enemies without being spotted, a solo mission is the only thing that makes sense.”
+
+Nick agreed with her assessment, although he was worried about V going alone. He took off his charm of muffling and handed it to her, so that its magic could help her remain undetected.
+
+She looked surprised at the offering. A person’s gear was their lifeline, and giving an item to someone else for any reason was clearly a big deal to her. She thanked him, drew him in for a hug, and promised to return the charm before disappearing into the night.
+
+Although everyone was worried about her, they knew that Veronica was right. She was the only member of the team that was suited to the task. When she was down on the ground out of sight, they went back to recovering from their ordeal as best they could.
+
+Devin and Sophia took the first watch, while Nick and Shaun caught some shuteye. I should pick up a tent when I get the chance. I’m sick of sleeping on the ground. But this pillow and sleeping bag are a lot better than nothing… That was the last thought to pass through his head before he fell into a deep and dreamless sleep.
+
+Nick woke up a few hours later. He let Shaun rest, since he didn’t have the Survivor trait and needed a full eight hours. Sophia moved into the sleeping bag Nick had been using, murmuring, “It’s still nice and warm,” before closing her eyes and passing out on the spot.
+
+While everyone else got some much-needed rest, he walked over to the cavern’s entrance and looked out over the floor, still blown away that such a massive space was just one small part of the Tower of Rizzen.
+
+What he saw when he cast his gaze into the distance made all such thoughts vanish from his mind. His jaw dropped in wonder at the otherworldly sight, because countless points of light shone back at him from every direction.
+
+Through the open side of the tower, Nick could see an endless expanse of stars. They were incredibly bright and clear since there wasn’t much atmosphere at this altitude, at least outside the tower. It made him realize that there had to be some manner of magic at work, regulating the oxygen content and air pressure inside.
+
+His eyes traced the contours of foreign constellations, realizing that he might be the first person in the history of his species to bask in their celestial majesty. Then he turned his head to take in the rest, because the limitless heavens were only half the show. The inside of the tower was lit up like a Christmas tree.
+
+Most of the islands had crystals sticking out from the bottom and some were covered completely in gemstones. They glowed with their own inner light, in a vast array of colors and shapes. Combined with the motion of the flying isles, they created intricate, dazzling patterns in ever-shifting arrangements. Like a drone firework display on a continental scale.
+
+The crystals weren’t bright enough to illuminate the ground, which was a good thing under the circumstances, or to reveal the creatures soaring through the air. But it was plenty of light to track the position and heading of the islands.
+
+Nick was relieved when he realized what it meant. If the party got their hands on an airship, they could fly at night without being spotted or crashing into the floating landmasses. It offered them a way to ascend to the upper levels without drawing their enemies’ attention. Or at least it should improve our odds
+
+On that note, he could see a giant ship crossing the space far above his head, of a different make than the one they’d spotted earlier in the day. It was shining a vast beam of light, panning it back and forth across the ground.
+
+It looks like the pirates are patrolling the ground level, along with the big islands. That ship must belong to one of the roaming bosses. The pirates’ leader or one of the subcommanders. Let’s hope that we don’t have to worry about them for a while longer.
+
+Nick made himself comfortable and then settled down to wait. One way or another, it was going to be a long night.

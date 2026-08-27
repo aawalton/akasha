@@ -1,0 +1,115 @@
+---
+id: c0456903-030f-5e4e-810e-6d5be2c05810
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Diverging Paths"
+slug: 0204-chapter-22-diverging-paths
+partOf: labyrinth-of-the-mad-god
+position: 204
+ownLength: 2461
+unit: words
+publishedAt: 2025-08-04
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2492019/chapter-22-diverging-paths"
+royalRoadId: "2492019"
+---
+
+Nick was shaking with excitement by the time he reached the end of the message.
+
+Picking up a new geneline trait and enhancing the rest was fantastic, but those last two items were gamechangers—upgrades with the potential to dramatically increase humanity’s odds of surviving the rigors of the Labyrinth.
+
+He wished that he had some way of conferring with his people en mass, but since he couldn’t, he had to accept that the results of these votes were largely out of his control. That being said, this was a pivotal moment in the story of his species, and Nick was going to consider his options long and hard before making the best choices he could.
+
+Liz was still grappling with the fact that she might live to be 200. It was clearly an emotional moment, so he walked a bit further downstream to give her some privacy while he continued to read.
+
+He began by pulling up the list of geneline traits, since the first vote would occur in a little less than twelve hours. There were over 100 in total, and since they were enhanced, all of them came with considerable advantages.
+
+Nick started off by excluding the traits that wouldn’t be useful right away, as humanity needed all the help they could get if they wanted to make the most out of the Rebuilding Civilization quest and year of protection. Some of the traits he crossed off the list were better-suited for a species with an established global infrastructure and specialized facilities to take advantage of them. Others were commercial in nature, which wouldn’t be useful until the Labyrinth opened and they met their neighbors, since there wasn’t anyone to trade with yet as far as he knew.
+
+Instead, he focused on traits from three broad categories. Those that had direct combat utility, traits that would help Team Earth survive, and powers that could help humanity level and train faster. Ideally, we will pick something that checks all three boxes.
+
+After mulling the matter over, Nick decided to stick with options he believed a lot of people would pick. Anything too obscure would never make it to the next round, even if he thought it was good.
+
+He eventually narrowed the traits down to a shortlist to ponder on the move. He walked back over to Liz and they discussed it for a while. But since there were hundreds of millions of people weighing in on this decision, they agreed to make their selection without trying to coordinate their votes. He still had half a day on the clock, so he moved on, thinking the matter through as they hiked.
+
+As thrilling as a new geneline trait was, what really had Nick giddy with enthusiasm was the second choice his people would make—picking a new attribute. He had seen references to Psi during integration, when the System was scanning his body. He noticed the other attribute the AI had mentioned back then, Resonance, wasn’t one of his choices. He wondered why, before dismissing it as a mystery beyond his ability to solve.
+
+There were five attributes described at the end of the message, and each and every one of them was utterly amazing. He knew this decision went way beyond the advantages the attribute offered in the short term—it would send humanity down diverging evolutionary paths.
+
+Which stat his people picked would change them in fundamental ways. It would dramatically impact the classes they were offered going forward and redefine what it meant to be human. Since there was only one vote on this topic and only five attributes in the running, he considered each option at length while crossing the final stretch of soil leading to the heart of the Bladewind Badlands.
+
+Nick began by browsing the description for each attribute, taking the broad view before firing up the analytical part of his brain.
+
+Equilibrium
+
+Equilibrium is the attribute that rewards harmony with nature (e.g. Healthy ecosystems, low pollution, cooperation with beast neighbors). It can provide powerful bonuses when that harmony is achieved, as well as considerable penalties when it is not. For that reason, Equilibrium is generally regarded as the most powerful attribute under ideal circumstances.
+
+Be advised: Equilibrium is the only attribute that can generate negative consequences if the balance is not maintained.
+
+Thanatos
+
+Thanatos is the attribute that enhances all death-related energies. It provides an experience bonus for killing your enemies and allows you to collect essence more efficiently when a creature dies nearby—especially if you were involved in its demise. Additionally, Thanatos can augment attributes and fuel abilities when standing in proximity to recent death.
+
+Psi
+
+Psi is the attribute that regulates projecting your consciousness outside your body and your sensitivity to psychic phenomena. Psi can be used to sense the thoughts and emotions of others and influence them in some cases. Mastery of Psi allows for remote viewing, communication over long distances, and sensing killing intent. Psi also augments your natural psychic defenses, shielding you from mind-affecting abilities and other forms of psychic attacks.
+
+Ward
+
+Ward is the attribute that shields your vital energy pools, preventing physical, magical, and stamina damage while your Ward-shield is charged. After being depleted, this barrier will regenerate over time. The strength of the shield and its rate of renewal is regulated by the Ward attribute. The effects of Ward may manifest in other ways at high levels.
+
+Meta
+
+Meta is the attribute that increases the effectiveness of all other attributes. Investing in Meta in addition to your primary attributes will yield greater results than investing into your primary attributes alone. Meta allows for extreme specialization that would not otherwise be possible, but it is useful for every path to power.
+
+“Whoa.” Nick let out a low whistle as he absorbed the implications of this information. In addition to the words on the screen, the System had imparted a brief vision, providing more details of how each attribute worked and what it would mean to acquire it.
+
+He had known this decision was important, but even still, he was blown away by the significance of this moment. He was taking part in a critical event in the history of his species, which would have repercussions long after he was dead.
+
+He was certain humanity would have one more chance to gain a new attribute, based on the other ??? field in his profile, but there was no guarantee that it would contain the same list of options. It meant that Nick needed consider the value of each attribute carefully, as well as the opportunity cost of giving up the others to pick it.
+
+After conferring with Elizabeth, they decided to push themselves and travel as far as possible today. Tomorrow, they would continue until they found a defensible location, then hole up until the clock hit zero. They would remain in the area until her evolution was complete, and they both got used to the new powers they were about to receive.
+
+With a plan in place, Nick turned his attention to the decision ahead, considering each of his options in turn. He began with Equilibrium—the attribute that rewarded living in harmony with the natural world.
+
+He liked the idea of achieving balance with nature—especially when considering the rise of beasts and humanity’s poor stewardship of the Earth up to this point. Most enticing of all, the System had said Equilibrium was the most powerful attribute under ideal circumstances, and he couldn’t deny that the lure of that possibility appealed to him greatly.
+
+The problem was that there was no guarantee that humanity would receive the attribute’s benefits without a considerable investment of time and energy, and Equilibrium came with the possibility of incurring a penalty too. He didn’t know how difficult it would be to reach and maintain a proper balance with nature, but he had a hunch that the consequences of failure would be severe.
+
+While Nick generally tried to give his people the benefit of the doubt, this wasn’t the right time to roll the dice. And if he was being honest with himself, humanity still hadn’t reached a place where he trusted them to make the best decisions for their collective future.
+
+While there was a chance that choosing Equilibrium would help his people become better stewards of their planet, in the end, it was too risky and there were too many unknown variables at play. Besides, something tells me that attribute won’t be very popular. Even if I pick it, there’s a good chance that I’d be throwing my vote away.
+
+Thanatos sounded a great deal more promising. Acquiring more essence would help his people level up and advance their abilities faster here and now. Taking a longer view, Nick knew that accumulating various forms of compatible essence and refining them into a concept was a key component of reaching Tier-2 and the advancing to the Tiers beyond.
+
+Picking Thanatos would make that happen faster and more reliably, helping humanity advance over both the short-and-long-term. He was sure there would be other benefits too. For example, it would let his wand refill after killing compatible enemies. Although that wasn’t really an issue anymore, since his natural essence generation was recharging the wand at a rapid rate.
+
+While all of that sounded great, Nick had some concerns that choosing a death-based attribute would encourage humanity to become more violent and indifferent to the lives of others. Killing and fighting had become a part of their everyday existence, and he was already worried that the Labyrinth’s influence would twist the inhabitants of the Earth into something cruel and dark. He didn’t want to do anything that might encourage that process.
+
+It wouldn’t be a disaster if humanity wound up choosing Thanatos, but he wasn’t planning to vote for it.
+
+Meta and Ward were both intriguing, and they were the attributes Nick was leaning toward picking. He was having a hard time deciding between them, so he talked it over with Liz as they crossed through a grassy region filled with fragrant wildflowers.
+
+From his vision, he had learned that Ward was a powerful layer of defense. It created an automatic shield that worked even when you were unconscious. It was effective against both physical and magical threats and protected all three forms of vital energy. Ward would help keep humanity safe by filling the holes in their classes’ defenses, protecting them against a broad range of threats.
+
+On top of those considerable benefits, he was certain that Ward had more to offer once people acquired abilities and traits that were centered around it—just like stamina and mana. Nick could probably figure out a way to make his Ward-shield work like Liz’s totem, setting it to absorb blows that would cripple or kill him while ignoring attacks that would be easy to shrug off with his high Toughness.
+
+Ward would give children and low-level people a fighting chance of surviving their new reality and would be just as useful for warriors on the front line. That being said, it wasn’t a perfect defense. A Ward-shield could only absorb so much punishment before it needed to be recharged, and unlike the arcane barrier, Ward only protected against damage. It wouldn’t do anything to shield them against magic that influenced the mind or body or attacks that dealt indirect damage. Extreme temperature changes, oxygen deprivation, disabling spells, poisons, and countless other dangers would still pose a lethal threat.
+
+Although Nick had a long list of questions that went beyond the knowledge he’d been given—how much punishment each point of Ward could withstand and how quickly it recharged—he was certain the attribute would help ensure humanity’s survival, both now and over the long haul.
+
+On that note, even if we don’t pick Ward, I need to be on guard against enemies that can use it going forward. Same goes for these other attributes too.
+
+Moving right along, Meta was both simpler in concept and richer in nuance than any of the other choices. The short of it was that Meta functioned as an attribute multiplier. Even if you just picked up a few points, it would be generally useful, making you better at what you were already doing. Better still, the learning curve was non-existent. You got the full benefit of Meta right out of the box and wouldn’t have to undergo any specialized training to learn how to use a new type of energy.
+
+But that was only the beginning. Like the other choices, you could pick classes that were centered around the attribute, which could limit Meta’s focus while increasing its output to enable various forms of hyper specialization.
+
+By narrowing Meta down to one or two attributes, you could reach a level of performance that was significantly higher than would otherwise be possible. If Nick understood the class system properly, this would lead to unique opportunities for advancement—although there were certain to be novel classes enabled by each of the other choices too.
+
+That brought him to the last option on the list. Psi was the most mysterious attribute of them all. Out of the five choices the System had provided, Psi was the wildcard, and he couldn’t even begin to imagine what picking it would mean for humanity over the long-term.
+
+On the one hand, acquiring psychic powers was certain to come with a range of interesting benefits. Enhanced communication and perception would add powerful tools to his species’ kit. Even if he didn’t learn to wield them himself, he liked the idea of having a passive defense against mental attacks, beyond the bonus provided by his helmet. Nick hadn’t had to contend with any psychic enemies yet, but the idea of facing foes who could manipulate his thoughts, emotions, or perceptions at will was terrifying on a primal level.
+
+Hell, even a subtle push would be lethal under the right circumstances. Psi might not be a bad choice. That being said, learning to master stamina and mana was already a tall task, and humanity was only a few steps past the starting line. Adding an entirely new energy to the mix would only complicate things further. It would likely take decades if not generations to truly unlock what the attribute could do.
+
+In the end, he crossed Psi off the list. Team Earth needed to grow stronger across the board if they were going to survive when the Shroud came down and the doors to the Labyrinth opened.
+
+Elizabeth and Nick spent the rest of the day debating the options for both choices as they made their final approach toward the center of the badlands. By the time they found a place to camp for the night, he was ready to make his decision.

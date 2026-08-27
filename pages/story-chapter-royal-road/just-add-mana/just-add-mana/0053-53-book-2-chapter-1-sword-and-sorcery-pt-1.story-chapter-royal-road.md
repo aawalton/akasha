@@ -1,0 +1,203 @@
+---
+id: 5c6af936-e7d4-5e52-acbd-13fa721f2b51
+page-type-slug: story-chapter-royal-road
+title: "53 — Book 2, Chapter 1 — Sword and Sorcery, Pt 1"
+slug: 0053-53-book-2-chapter-1-sword-and-sorcery-pt-1
+partOf: just-add-mana
+position: 53
+ownLength: 3035
+unit: words
+ownProgress: 3035
+publishedAt: 2025-10-28
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2711469/53-book-2-chapter-1-sword-and-sorcery-pt-1"
+royalRoadId: "2711469"
+markedReadAt: "2026-06-29T18:49:24.199Z"
+---
+
+Cale Cadwell Cobbs wasn't quite sure how he'd ended up in this situation.
+
+He also wasn't entirely sure if he wanted to get out of this situation. Not yet, anyway. This, at least, wasn't all that unusual for him: he had a habit of taking his time with anything that interested him, regardless of the personal risk involved. Sure, he could die, but what did that mean besides waking up in a different realm yet again? That was nothing compared to an opportunity to study whatever interested him closer.
+
+Granted, there were times when personal risk actually mattered. Mostly this was when he grew attached to a world and wanted to settle down for a time, which he had more and more been trying to avoid. Reincarnation was all well and good when it came to surviving a variety of dangers, but it rather thoroughly destroyed any plans he might have for settling down.
+
+Alas, in all the time he'd spent searching, he still hadn't found an easy means of traveling the Great Realms. Very few species could travel the realms safely, and the ones that could weren't terribly willing to share their methods.
+
+Also, the one time he'd stepped foot in the Abyssal Crossroads that dragonkind had built to ease their passage across different realms, he had accidentally blown up a rather large segment of it. Those things were mana-sensitive, apparently?
+
+Point was, intentionally traveling across the Great Realms was not an easy task. He'd been searching for a means of doing so for almost as long as he could remember being alive, and he still hadn't found a solution.
+
+Of course, the fact that it would solve most of his problems made Cale suspect it was going to be one of those problems, where he wouldn't really find the solution until it stopped mattering. He'd developed something of a sense for these things over the centuries.
+
+Anyway, the point was he was currently pinned to the ground by a massive claw, with the jaws of what appeared to be a massive, mutated bone drake hovering over him. That wasn't really the situation—that was something else—but how he dealt with the drake was going to be part of it, so...
+
+"I don't suppose you can just let me go?" Cale asked conversationally. It wasn't like he was in any danger; the drake's teeth and claws didn't stand a chance of piercing his barriers. He had no idea why it was even trying to eat him; as far as it was concerned, he probably felt and tasted like a particularly smooth and shiny pebble.
+
+Something had instilled aggression in it, perhaps? Or maybe he'd forgotten to turn off the taste filters in his barriers and the drake could taste him. Hm.
+
+Either way, the biggest problem with all this was that bone drakes were rare—basically an endangered species, really—and Cale was loathe to kill it, nor did he have any real disabling spells. [Lesser Planar Reorientation] might work, but it might also make the drake start phasing through walls and walking on the ceiling, which would probably make things worse.
+
+Cale considered doing it anyway, because it would be funny, but he was pretty sure it would dock him some points.
+
+He could still use his barriers as weapons. Cale eyed the drake, though it was hard to see more than the gaping depths of its maw. "Remind me, do drakes regenerate dismembered limbs?" he asked. "You're related to lizards, right? I feel like you should be able to regenerate limbs. Just asking. For a friend."
+
+It roared at him, spittle flying into his face. Cale sighed. "I'm rusty with these older variants of Drakan," he told it. "I can't tell what you're trying to say. Something about flowers?"
+
+"Cale," Leo said, his voice desperately panicked, "it is not speaking a language! It's roaring at you!"
+
+"Are you sure? Drakan has a lot of roaring. Especially older variants." Cale frowned slightly, turning to look at his apprentice—or, well, at one of them, anyway. Leo was in the process of grappling with some sort of lesser wyrm, his muscles bulging as tried to keep its mandibles from closing around him.
+
+Minotaurs really were naturally strong. As bookish as Leo was, he wouldn't have expected the guy to have the strength to go hand-to-hand with a lesser wyrm like this. Cale supposed it made sense; if Leo had been focused on avoiding his mana and casting spells until yesterday, then he would have had to train for other forms of defense.
+
+Grappling with the mandibles wasn't the greatest choice, though. With a lesser wyrm like that, you always wanted to go for the throat. Mostly because some miracle of evolution had placed their kidneys there.
+
+"Also, try punching it in the throat," he added. "Or use one of your spells! You know you want to."
+
+"There isn't exactly enough space here for a labyrinth aspect to be useful!" Leo grunted with frustration, then snarled and kicked the wyrm in the throat, just as directed. The wyrm let out something like a high-pitched whimper, recoiling away from his minotaur apprentice and giving him space to breathe. "Why did that work?"
+
+"That's where it keeps its kidneys," Cale said wisely. "You're lucky. It could have been one of the variants that keeps exploding sacs in its throat."
+
+"One of the what—" Leo started, whirling to shoot him a disbelieving glare, only to be interrupted by Damien's screams as he ran past the two of them for the third time.
+
+"Cale!" he cried. "Any suggestions?"
+
+"Have you tried decaying it?" Cale suggested helpfully. He was glad to see Damien was keeping the dream wasp distracted.
+
+"I don't want to decay it!" Damien yelped. Space abruptly contracted in front of him as he dodged away from one of the dream wasp's attempted angry stings. Cale approved; it was some delicate usage of spatial decay, especially in the middle of a fight.
+
+"You'll have to give me a moment," Cale told the drake currently trying to bite his head off. It wasn't having much success. His barriers meant all it could do was chip its teeth and slobber all over him, which might have posed a drowning risk if Cale hadn't made sure his barriers filtered that sort of thing. "Damien, that thing is a dream wasp. It needs to die. Don't you remember my briefing?"
+
+"You didn't give us a briefing," Leo reminded him. "You said the best way to learn is by doing."
+
+Cale paused, frowning to himself as he thought back. "I did say that, didn't I," he said after a moment. "My bad! This one's important enough that you should know. That thing over there? That's a dream wasp. Dream wasps reproduce by infecting the dreams of their victims and slowly filling them with wasps."
+
+"What?" Leo asked blankly, kicking the lesser wyrm in the throat again just so he could turn to stare incredulously at Cale. The wyrm in question drew back with a screech.
+
+Cale just nodded. "Yeah," he said. "Basically, more things in your dreams start leading to wasps. Dream about opening a drawer? It's filled with wasps. Check your dream mailbox? Your letters are all wasps. Dive into a lake? The lake is wasps now. That sort of thing."
+
+"What?" Damien asked, horrified. He gave the (now angrily buzzing) wasp a terrified stare, to which it began buzzing even more loudly.
+
+"Once the victim's dreams are full of wasps, it starts leaking into their memories, replacing all their most important memories with—"
+
+"Wasps," Leo said wearily.
+
+"Yup!" Cale said cheerfully. "I know I sound chipper, but don't let that fool you. Dream wasps are a deeply horrifying species that should probably be purged from the entirety of the Great Realms. I just sound chipper because of this dog I found."
+
+"You mean the drake currently trying to bite your head off," Leo said, kicking the wyrm again. It didn't look like it was taking any actual damage, but the kick clearly hurt it; it was actually whimpering now.
+
+"This dog I found," Cale repeated, patting the drake's snout while its teeth scrambled for purchase on his barriers.
+
+"Surely not... all... of them need to be purged?" Damien suggested weakly, though he was also now clearly much more wary of the wasp chasing him. A thin thread of decay mana had begun to wrap around him, which told Cale he was finally getting ready to cast a spell.
+
+Good. Damien had made some good progress, but he needed to get over his fear of his own magic. They both did, really.
+
+"Again, dream wasps replace your most important memories with wasp in the later stages of their infection," Cale reminded him. "Your closest friend? Actually just wasps now. Favorite childhood toy? A wasp nest. I know a kid who told me his dad left the house to get wasps. I found the dad in the attic, full of dream wasps. Which I guess could mean he actually did leave to get wasps, but somehow I doubt it."
+
+Damien stared at him, expressionless, then turned and fired a [Decay Bolt] at the dream wasp without further comment. Thankfully, as insidious and horrifying as its method of reproduction was, dream wasps didn't have much in the way of magical protection; the moment the bolt hit, it began to crumble into a pile of fine, pinkish sort of sand.
+
+"Oh! You should collect that," Cale said, peering over to the side with interest. "I know I said they should all be destroyed, but their remains actually make pretty good dream-fertilizer. And it's a great alchemical catalyst for anything related to dream potions."
+
+"Really?" Leo asked, interested. The lesser wyrm was staring at him warily, as if contemplating whether or not to strike, which was fascinating considering Cale was pretty sure it was under some sort of compulsion to attack. Like most of the other creatures in this labyrinth seemed to be, strangely enough.
+
+"Yep!" Cale said. "It's called dream dust. Great for promoting dreams, putting people to sleep, and it never makes you dream about wasps. Unless you accidentally use their eggs instead of the dust. Don't ask me how I know that."
+
+Damien opened his mouth, then shut it again, letting out a sigh instead. Then he produced a basic collector's kit from his satchel and began to gather up all the pinkish dust into a little vial.
+
+Cale beamed. His apprentices were doing so well! Two of them, anyway; Syphus had rolled on ahead somewhere, and Flia hadn't joined them on this particular adventure, alas. Something about needing to check out the academy's menagerie and "fixing the mess he made." Cale hadn't questioned it too much; he trusted her to know what she needed, and he trusted the Leviathan to not lead her astray.
+
+Besides, apprentices that were willing to clean up his messes were few and far between. She would get bonus points for that! Cale had no idea what the points would be for, but academies seemed to like point systems, and there was probably a good reason for that.
+
+Speaking of which, the situation he was actually in. A professor from the Brightscale Academy of Attuned Arts had insisted on accompanying them into the labyrinth the moment he learned they'd be in there. Cale craned his head to look up at the imposing armored figure now.
+
+"So, how'd I do, teach?" he asked brightly.
+
+The professor just stared at him silently. He was a very taciturn sort of fellow, Cale had noticed. Intimidating, too, given he was a full set of heavy plate enchanted armor. Not wearing a full set of heavy plate enchanted armor; he was the armor. Apparently, the Sword and Sorcery professor was the father of one of the Haelforge Academy's students.
+
+In complete contrast to his son, though, Instructor Solsburn—who insisted on 'Instructor' rather than 'Professor', for whatever reason—made for a terrifying, evil-looking figure. The armor wouldn't have looked out of place on a dark lord; it was full of (frankly impractical) spikes, and if that wasn't enough, Solsburn's eyes glowed a dark, crimson red.
+
+Said eyes regarded Cale silently for a long moment, then exhaled slowly, the sound echoing in his helmet. "Your strategy is interesting," he grunted. "You sent the dreadshade to fight the dream wasp. Intentional?"
+
+"Damien's immune to dream wasp infection, so it was the obvious choice," Cale said cheerfully. Behind him, the dreadshade let out a sudden, relieved sigh, as if he thought Cale would actually have sent him up against something that could him to a horrifyingly painful death.
+
+...He would have been offended if that didn't seem to be something like the norm for a lot of professors.
+
+"Dreadshades are neat like that!" he added. "Hey, have you ever wondered why they're dreadshades and not decay elementals?"
+
+"No." Solsburn's reply was brusque and dismissive, and usual. He really didn't seem to like talking. "Decent strategy. Explain Leo."
+
+"Strong enough to stun a lesser wyrm, but not defeat it. He needs to learn to use his magic," Cale answered with a shrug. He glanced over at the minotaur in question, who gawked at them, scowled, and then blasted the lesser wyrm with a [Labyrinth Bolt] as if to prove a point.
+
+Nothing happened. The wyrm screeched and tried to bite him again, and once more, Leo found himself grappling directly with its jaws.
+
+"Think more creatively!" Cale called out. "You're inside a labyrinth right now! It should be your place of power!"
+
+"That's not how it works!" Leo called back irritably, and then he frowned, a sudden realization crossing his features. He looked briefly obstinate, then sighed and kicked at the wall, and in the same moment, the ceiling slammed down on top of the lesser wyrm. "...Okay, maybe that is how it works."
+
+Cale had felt the [Labyrinth Bolt] emerging from the minotaur's foot at the moment of impact. "Smart! I like the alternate spell firing point. That can really surprise people."
+
+Leo sighed. "How did you know I could do that? I didn't even know I could do that."
+
+"Oh, abstract Bolt spells are always weird," Cale said easily. "A Bolt spell is just a moment of expression for its intrinsic aspect. They go higher in tier and have more complex effects as the aspect gets more abstract."
+
+Leo grumbled something under his breath before gingerly stomping the ground and retracting the ceiling. He grimaced at the mess. "Please don't tell me I have to collect anything from this."
+
+"Wyrm teeth make for an excellent book-binding base," Cale said cheerfully. Leo let out a sound that was very close to a pained sigh, then began to retrieve his own collector's kit.
+
+Solsburn, who had been watching this, grunted again. "Hm," he said. Cale couldn't tell if it was an approving sound or not. "Understood. And you?"
+
+Cale pointed at himself in askance, and when Solsburn nodded, Cale just pointed at the drake on top of him. "I found a dog," he said.
+
+"...Drake."
+
+"Dog," Cale insisted. "In the shape of a drake, which is in the shape of a friend."
+
+Solsburn stared at him. "No."
+
+"Yes."
+
+"No."
+
+"I can see we're not going to get anywhere with this," Cale said. "You haven't answered by question! What's the verdict?"
+
+Solsburn grunted again. "I would fail you normally."
+
+"What? But I did so well!"
+
+Solsburn kicked at the swords lying near his feet, sending them clattering. "I teach a swordsmanship class," he said. "You abandoned the swords."
+
+"Swords are a terrible weapon to fight any of these monsters with!" Cale protested. "Except maybe the lesser wyrm, but then Leo wouldn't be forced to use magic, and the class is Sword and Sorcery."
+
+Solsburn narrowed his eyes at Cale, as if not expecting to be called out. Then he grunted again. "Yes," he agreed. "So you pass. For now."
+
+"For now?" Cale blinked. Solsburn simply pointed down the corridor that Syphus had rolled ahead on earlier. "Oh. I mean, it wants to test making spell cannons, which it shouldn't be doing anywhere near us."
+
+"Agreed," Solsburn said. "So you pass. As long as the golem is unharmed."
+
+"You know what, that's fair," Cale said. He was pretty sure Syphus would be fine; it wasn't like Sisyphus would allow his only contact with the outside world to get hurt. But he couldn't outright say that; he was pretty sure that the Named was keeping his presence mostly a secret.
+
+Instead, he changed the subject. "So," he said. "Did you seriously follow us into the labyrinth just so you could do your test thing? I thought you professors were done making me prove myself."
+
+Solsburn grunted. "Promised I would."
+
+"Ah," Cale said knowingly. "And you're the type that never breaks a promise."
+
+Solsburn leveled him with an unreadable stare. "And you are students. It would be dangerous alone."
+
+"You've seen the rest of my classes," Cale said. "Danger's not that much of a problem for me. Besides, what about the rest of your class?"
+
+Solsburn shrugged impassively. "They can wait. Patience is an important tenet of the sword."
+
+"Is it, or did you just make that up?" Cale asked, eyeing Solsburn, who didn't respond. He paused contemplatively. "You know what, I think I like you. You have very simple priorities. Want to go out sometime?"
+
+"Cale!" Leo said, sounding horrified.
+
+Solsburn, on the other hand, still didn't react with much of anything; instead, he simply tilted his head slightly. "I have other priorities. But if you wish to hunt. You may call on me."
+
+"Great!" Honestly, Cale mostly just wanted to get any kind of reaction out of the guy. That... sort of qualified? He wasn't really sure if he'd succeeded, actually. What did hunting even mean in his culture? "I'll keep that in mind."
+
+"What the fuck just happened," Leo said, pressing a hand against his face.
+
+Cale turned to look at him. "Are you asking about the flirting, or the weird clown thing running away from us?"
+
+"Both!"
+
+"Oh," Cale said. He grinned. "In that case, I have no idea. Isn't that just grand?"

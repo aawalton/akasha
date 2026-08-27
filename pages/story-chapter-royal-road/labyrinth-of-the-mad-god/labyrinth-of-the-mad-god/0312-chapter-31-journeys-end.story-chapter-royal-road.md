@@ -1,0 +1,81 @@
+---
+id: 1518fbc4-4ee4-5614-aa18-033a0339b106
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Journey’s End"
+slug: 0312-chapter-31-journeys-end
+partOf: labyrinth-of-the-mad-god
+position: 312
+ownLength: 1466
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3400610/chapter-31-journeys-end"
+royalRoadId: "3400610"
+---
+
+After nearly two weeks spent crossing snowcapped mountains, tropical rain forests, burning deserts, and the bones of long-lost civilizations, Nick knew his journey through the conduits was coming to an end.
+
+He could see another rift a few miles ahead, and judging by the size, it led to a major node. However, there was a problem. The path leading to the pulsating gash in spacetime was blocked by the biggest pack of voidbears he’d ever seen.
+
+“I counted fifteen of the ugly bastards,” Bandit reported after returning from a scouting run using his Necklace of Invisibility. “Two of which are Tier 2. They are feeding on anything that passes through the rift and aren’t ranging far from that location.”
+
+“We might be able to slip past,” Kenji replied. “But then we will have to deal with monsters waiting in ambush on the way back. It’s safer to take them out now, where we have the element of surprise on our side, plenty of room to work with, and time to think things through, rather than risking a blind fight after passing through the other way. I’m willing to consider other options, but I think our best bet is to wipe them out before entering the node.”
+
+“That makes sense.” Nick nodded. “We need the experience and essence anyway. Besides, who knows what kind of shape we will be in after conquering the dungeon? It would be ironic to defeat the dreadbeasts in an epic battle, only to be eaten by monsters on the way home. That being said, we need to play this smart. We should be able to handle several Tier-1s at once, but those big ones are going to be trouble.”
+
+Everyone sat in a circle, eating lunch while hammering out a plan. Bandit had spotted a few furtive creatures lurking in the area, but the voidbears were the alpha predators in this section of the conduit, which meant their odds of being ambushed midbattle were low.
+
+Since there were too many monsters to tackle at the same time, the team debated the merits of setting traps to weaken their enemies, they moved on to discussing the best ways to use the terrain to their advantage. “The voidbears are the biggest bads around,” Kenji said, “I doubt they will hesitate to chase down any prey that crosses their path.”
+
+“They’re aggressive but not very bright,” Bandit added. “They rely on swarm tactics rather than teamwork. Their senses are sharp, but they should be easy to trick.”
+
+“Best of all.” Nick smiled wide. “Voidbears are melee specialists and don’t have any ranged attacks.”
+
+“I can use this device to serve as a distraction,” Fritz chimed in, “and manifest directly if needed. But if you split the monsters up and don’t take on too many at once, I’m confident you can get the job done.”
+
+For her part, Lurk just grunted while licking her lips—enticed by the prospect of sinking her teeth into so much fresh meat.
+
+The strategy session went round and round, adding refinements and fleshing out contingencies for a wide range of outcomes. Several hours later, the party was satisfied with their plan. It was almost time for the conduit’s night cycle, so they decided to wait until morning and start culling the pack bright and early the next day.
+
+The team pulled back far enough that the voidbears wouldn’t find them, swept the area for other dangers, then settled down to wait. After his nightly exercises and Blade World sparring session, Nick fell asleep while dreaming of the battle to come.
+
+***
+
+He woke up four hours later—completely refreshed thanks to his enhanced Survivor trait. He traded places with Kenji, standing watch while his friends got some shuteye. When they woke up, breakfast was waiting. Nick pitched a few tweaks to their strategy that had come to him during the night, and before long, the party was ready to head out.
+
+Now that they had determined their tactics, they just needed to complete their preparations, lure the monsters into their killing field, and hope everything worked out the way they’d planned.
+
+The party hadn’t used set any traps thus far, but it was a perfect time to try out an idea Kenji had been tinkering with over the last few days. With any luck, they could pull the monsters apart and defeat them in small groups, thinning the pack before the voidbears realized what was happening.
+
+If they wound up getting in over their heads, they would make a break for the rift and escape into the node, but Nick intended to defeat most of the creatures before leaving the conduit.
+
+He thought Lurk might have trouble understanding the plan, but that wasn’t the case. Apparently, her natural inclination toward stealthy ambushes applied to lures and misdirection too. She also remembered how Nick had tricked her back on the Searing Isle, setting traps with flashbangs and drawing her into the territory of the gigantic mushroom that had nearly killed them both on one occasion or another.
+
+Nodding in satisfaction, he pulled three shovels out his backpack, rolled up his sleeves, and got ready to do some digging.
+
+***
+
+The Tier-2 voidbears screamed a challenge as they charged one another, exchanging a vicious series of blows as they fought over the corpse of an elephantine beast that had passed through the rift ten minutes prior.
+
+The pack had surrounded the terrified creature in the blink of an eye, which had entered the conduit in search of salvation only to meet a bitter end. The beast tried to break through, but it was swarmed by monsters that had been ambushing anything that appeared for months and were well-versed in cutting off any avenue of escape.
+
+While they all wanted to feed on the juicy carcass, the voidbears obeyed a strict hierarchy, and their Tier-2 members would claim the choicest morsels before the others dined. However, the powerful predators hadn’t been able to agree on an equitable way to divide their sumptuous feast.
+
+After some hissing and posturing didn’t resolve the dispute, the hulking horrors decided to renegotiate their pecking order via a brutal exchange of blows. The pack stood in a circle with both would-be alphas in the middle, waiting for an opportunity to claim a piece of the prize, although they would be just as happy to consume the loser of this duel if the battle weakened them sufficiently.
+
+The monsters were so fixated on the quarrel that they failed to notice the man striding through the sky above their heads, stepping from one force platform to the next while waiting to make his move. A trio of silvery darts circled his head—packed full of pure mana that was poised to invade his enemy’s energetic network like a platoon of marines riding in an amphibious-assault vessel.
+
+The next time the omnivorous creatures came together, the man took aim and fired his spells. His Mana Darts came down and plunged into one of the voidbears during this critical juncture. The magic could only paralyze a Tier-2 entity for a few seconds, but that was more than enough.
+
+Before, the predators had merely been vying for dominance. But when the thick-skinned monster realized its opponent was impaired, its intentions changed in the blink of an eye.
+
+Instead of claiming a meal from its longtime rival, it would claim the stricken monster as its meal. The voidbear burned stamina to power an attack, tearing out its challenger’s throat while it spasmed in the throes of the pure mana assailing its stamina, mana, and health.
+
+Now that there were two gigantic corpses to consume, the pack rushed in to feast on the gory bounty, precepting several smaller squabbles as the creatures fought to claim the prime pieces for themselves.
+
+As with any contest of might, there were winners and losers. The stronger monsters dug in and began to dine, while the weaker pack members licked their wounds and waited for an opportunity to feed from the scraps.
+
+Bellies rumbling, they salivated while fantasizing about being able to eat their fill. As if responding to their gluttonous desires, an armored man and a furry beast appeared while approaching the rift ahead.
+
+When the duo spotted the monsters, they yelled in dismay, turned, and ran for their lives, kicking the voidbears’ predatory instincts into overdrive. It seemed that the lesser monsters wouldn’t go hungry after all, and lunch had just delivered itself to their door.
+
+The Tier-2 voidbear and three Tier-1s stayed behind to enjoy their bloody banquet, but the remaining seven pounced on the opportunity to claim an easier meal. As the man in the sky followed behind, the monsters went charging for the retreating figures—unaware that who was predator and who prey had yet to be decided.

@@ -1,0 +1,129 @@
+---
+id: c05f3711-1018-5815-8172-c8c7b63a2eaf
+page-type-slug: story-chapter-royal-road
+title: "8. Loop 0, Part 8"
+slug: 0008-8-loop-0-part-8
+partOf: lazy-loops-an-idle-litrpg-op-to-archmage
+position: 8
+ownLength: 1520
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3453263/8-loop-0-part-8"
+royalRoadId: "3453263"
+---
+
+The Spire was visible from almost anywhere on campus. Twelve stories tall, built with white stone that rose above the treeline. Its blue-tinted windows ran its full height, but at the peak, where my uncle's office was, it always gave off a faint glow. Whether it was night or day, like a lighthouse that had gotten lost on its way to the coast, but was still valiantly trying to be seen at all times.
+
+Whether that was comforting or ominous depended on your relationship with the man who lived at the top. Mine was a little complicated.
+
+My uncle's private dining room occupied the eleventh floor, just below his office. The express lift was the only way up past the eighth floor without clearance, and even the lift required a password that changed weekly. This week's was "perseverance."
+
+I thought it was a dig at me, but with my uncle, you could never be sure. The room itself was modest by the standards of a building that used to house royalty. There was a round table for eight, though it was only ever set for two. Walls lined with bookshelves rather than portraits or finery or any number of things royalty would have. This said everything about where my uncle’s priorities lay.
+
+The enchanted windows could show any view he wanted, just like the cafeteria commons. Tonight, he had chosen the sunset over Freehaven, Restralia's capital. There was amber light and long shadows which fell across rooftops and church spires and the surrounding swamps. It was beautiful, which probably meant he was in a weird mood.
+
+My uncle was already seated when I walked in, and the food was already on a plate. Tonight's course was roast chicken, root vegetables, and a bread still warm enough that steam was rising off the crust. He poured me water without asking, because he knew I'd drink whatever required the least decision-making or arguing.
+
+He looked up as I entered. The shadows under his eyes were somehow deeper than they'd been at dinner yesterday or even this morning.
+
+"You skipped lunch," he said.
+
+"Finn told you."
+
+"Your friend is worried about you."
+
+"Finn worries about everyone. It's his whole personality."
+
+"It's a good personality to have." He gestured at the chair across from him. "Sit. Eat."
+
+I sat. I even ate because the bread was good. Not because not eating would lead to a conversation about eating, which was worse than the act of eating. Maybe. The chicken was fine, but the vegetables were a war crime, as always.
+
+An entire institution dedicated to the mastery of magical arts, and nobody had thought to enchant the kitchen into producing food that didn't taste like boiled cardboard. I had been working on a food conjuration spell since last year. The day I cracked it would be the day I stopped coming to meals entirely, and everyone in my life would be worse off for it, except me.
+
+For a few minutes, we ate in silence. It wasn't the comfortable kind. Something was off. Corwen kept glancing at the door like he was expecting someone or worried about something.
+
+"Thane tells me you embarrassed a flagstone and a third-year in the same afternoon."
+
+"The flagstone was an accident. And Marsh was just a guy who picked section four, which tells you everything you need to know about his ambitions. I barely even had to try. It was great."
+
+"Your professors say you're brilliant when you deign to participate."
+
+"Participation is overrated."
+
+He set down his fork. "Your father used to say that." His voice was steady. "Before he got too tired to say much of anything."
+
+The room went cold. Not literally. The heating enchantments in the Spire were excellent, but something in my chest constricted and the bread in my hand stopped being interesting. He didn't bring up my parents often. Neither of us did.
+
+My father had been a Yarrow, Corwen's brother, and one of three triplets, a talented enchantment mage. He had left Restralia for Kratos after the war because he'd fallen in love with a woman who’d refused to leave her part of the country.
+
+My mother, Pazra, had been just as stubborn and just as brilliant, and together they poured every ounce of that brilliance into the Kratosian factory system until it wrung them dry. My mother burned through her mana channels by the time I was eight. My father followed two years later.
+
+Corwen arrived in Kratos the day after my father died. Two days too late to say goodbye and too many years too late to talk his brother out of staying.
+
+"That's not fair," I said.
+
+"No, it's not." He met my eyes. "But neither is watching you waste the kind of potential he would have given anything to see nurtured. Your parents worked themselves to death, Lazlo. I know that, but I also know that giving up entirely isn't the lesson you should have learned from them."
+
+"How would you know what lesson they wanted? You could have saved them. You could have stopped all of it, but you were too late to do anything. Always working, just like them."
+
+The silence that followed was the kind that had weight to it. I regretted the words before they'd even finished leaving my mouth, but I couldn't take them back. My uncle's expression didn't change.
+
+"Yes," he said. "I was."
+
+He returned to his food, and I did the same. The vegetables were still terrible, but the silence was worse.
+
+After a while, he changed the subject, and I let him.
+
+"How are your impressions of the student body this year?"
+
+"My impressions?" I gave him a look. "That's a strange question."
+
+"Is it?"
+
+"You have an entire faculty to observe the student body. You don't need my opinion."
+
+"I'm asking for it anyway."
+
+He was asking me something without really asking. Testing whether I'd seen anything unusual, which meant there was something unusual to see. My thoughts went to the grey man and Kalin's behavior, but I didn't say anything. Whether it was effort or spite keeping me silent, I couldn’t say.
+
+"If you want me to spy for you, Uncle, just say so."
+
+"I want you to be safe. Is that spying?"
+
+"Depends on the definition."
+
+He almost smiled. "You're too clever for your own good."
+
+"And too lazy to do anything about it. The perfect combination for survival."
+
+My uncle had a habit of sharing things with me that the headmaster probably shouldn't share with a student. I think he did it because he didn't have anyone else. His siblings were dead or estranged, and his colleagues were all employees and not friends. The only other people he talked to besides me were all political types, exactly the kind of people who saw honesty as a vulnerability and he wouldn't be friends with to begin with.
+
+I was somehow the only person in his life who wouldn't use what he said against him, mostly because using things against people required effort.
+
+He changed the topic again. "The Exhibition this Thursday," he said. "It's bigger than usual this year. The Ministry has invited a delegation from both Kratos and Hessalonia."
+
+"Thursday is going to be complicated," he said. "The Exhibition brings people onto campus that I can't vet the way I'd like. Donors, politicians, foreign delegations. Some of them I trust, but most of them I don't."
+
+"Most people aren't worth trusting, Uncle. Welcome to my whole philosophy."
+
+"I'm serious, Lazlo."
+
+He wasn't smiling anymore. "I have taken precautions. I've been spending time in the Lost Library reviewing old research, reinforcing things around MIRKS that haven't needed reinforcing since the war. But precautions only work if the people around me are paying attention." He looked at me. "Be careful Thursday. Please."
+
+"Careful of what?"
+
+"I don't know yet. That's what makes it complicated."
+
+He wasn't going to tell me. I could see it in the way his jaw set and his eyes went flat. He'd decided what I needed to know and what I didn't, and no amount of pushing was going to move that line. Fine. Like I cared.
+
+We finished dinner. At the door, he stopped. "If something ever happens," he said, and then paused, as if reconsidering the sentence. "If you ever need to talk about anything, you know where to find me."
+
+"Touching. Are you dying?"
+
+His expression flickered just for a moment. Something moved behind his eyes that I couldn't read.
+
+"I hope not," he said.
+
+I laughed, because it was obviously a joke. He didn't join me. The lift doors closed between us, and I descended through the Spire alone.
+
+By the time I reached the grounds, I had already pushed the conversation to the back of my mind. I filed it under "Corwen being Corwen" alongside every other time he'd been cryptic and protective and frustratingly vague. Whatever my uncle was worried about, whatever was waiting for him the moment I walked out, it wasn't my problem. Especially not tonight. Tonight, I had somewhere to be for once.

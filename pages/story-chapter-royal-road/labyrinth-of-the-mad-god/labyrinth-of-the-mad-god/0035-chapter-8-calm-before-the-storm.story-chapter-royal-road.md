@@ -1,0 +1,89 @@
+---
+id: 166c85b7-06f8-5908-9ce2-56bbb6ce26ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Calm Before the Storm"
+slug: 0035-chapter-8-calm-before-the-storm
+partOf: labyrinth-of-the-mad-god
+position: 35
+ownLength: 1815
+unit: words
+publishedAt: 2024-08-05
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1746060/chapter-8-calm-before-the-storm"
+royalRoadId: "1746060"
+---
+
+Nick was thrilled to learn that being stuck with his survivor class for the first nine levels hadn’t hurt him in the long run, something that he’d been worried about for some time. Starting off with a basic class might even have been ideal, given the extreme conditions of his solo tutorial.
+
+It had helped him to level fast, increasing his stamina and health. Not to mention his mana, which he relied on to power his spells. While the skills he had started off with weren’t geared toward combat, they had dramatically improved his odds of survival and his quality of life.
+
+Maybe that’s part of the reason why the System didn’t do more to stop Taltos. Everything that is happening must be advancing its own agenda too. Either way, they can both go fuck themselves. I’ll never forgive them for what they’ve done.
+
+He’d been given a lot to think about, so Nick decided to process everything that he’d read while getting in some exercise and skills training. It was the first time that he’d been able to go through his full routine since leaving the luxury safe room and traveling to Blackmist Bog.
+
+As numbers and words danced across his brain, he sat down on the floor and began to work out, enjoying the simplicity of following his breath while taking his muscles through their paces. Now that he wasn’t injured or fighting for his life, Nick realized that his body felt good, better than ever before.
+
+He’d gained more attributes over the last few days than at any other point in his adventures, and he could already tell that it was really starting to make a difference.
+
+His limbs felt strong, power welling up from his muscles like a deep and endless river. Acting on impulse, he started doing pushups, curious to find out how many he could squeeze off before his arms gave out from under him.
+
+Ten. Thirty. One hundred. At two hundred pushups, Nick realized that he could probably keep doing them all day. Lifting the weight of his body was no longer sufficient to tire him out, especially with the recent improvements to his toughness.
+
+It meant that if he wanted to discover his limits, he was going to have to work for it.
+
+He decided to pick up the pace, going faster and faster until his arms were pumping as quickly as they could without impeding his form. When he built up enough steam, he pushed even harder, so that both hands left the floor, clapping them together before his weight came down.
+
+It took enough effort that he was starting to feel the burn, but Nick wasn’t done yet. He did another hundred pushups with just his right arm. Then he rounded things off with his left before coming to a stop, sweating and short of breath at last.
+
+He pulled himself into a seated position, then crossed his legs and closed his eyes, drawing his focus within. His heart rate was elevated, and his arms were shaking, but even now he could fight if he needed to. The gains to my toughness are shining through in more than one way.
+
+To his delight, he recovered within minutes and began working out the rest of his body, noticing a similar improvement on and down the line.
+
+When he was done with his calisthenics, Nick pulled out his sword, going through the various drills that he’d devised over the last month. While he took the blade thorough its full range of motion, he studied his weapon of choice, the mysterious artifact he’d been gifted by the ratman foreman Trell.
+
+He was certain by now that the sword was repairing itself. It had been growing heavier over time, the holes eaten into its surface gradually filling in. The edge looked more like a proper blade than the ragged, saw-like length of metal he’d taken back to his tutorial.
+
+Even with its recent restoration, Nick had a sense that the sword was only a shadow of its former self. Something critical was still missing after being devoured by the blight for centuries. But that was a matter for another day. Right now, he just needed to become skilled in its use as fast as he could.
+
+It was still awkward wielding the weapon in one hand. In part due to the weight, and in part due to the missing pommel stone. But his control was improving regardless. The extra strength and dexterity he’d obtained were more than enough to compensate.
+
+As he slashed along the eight basic angles, Nick abandoned his analysis, giving himself completely to the feeling of the blade in his hand. The weapon that had become his partner as he explored the mysterious multiverse he now called home.
+
+He sliced and thrust, leapt and dodged. While he trained, he imagined facing off against dozens of different opponents, coming at him alone or in groups. Nick’s ability to visualize the enemies in front of him, an exercise he called shadow boxing, had been growing sharper ever since his mind and creativity had started to improve near the end of his stay on the Searing Isle.
+
+When he was really into it, it felt like his opponents were in the room with him. Their physicality and killing intent so genuine that it set his heart racing and adrenaline singing in his veins.
+
+The minutes ticked past as he battled enemies of every type, never hitting the walls or ceiling despite the narrow confines of the safe room. He could sense his improvement with every move he made, aware of the orientation of his body and blade at any given moment.
+
+While Nick knew that his technique needed some work, the sword had come to feel natural in his hand, each attack flowing effortlessly into the next.
+
+Now that he was fully warmed up, he started working his shield into the mix, occasionally blocking with the vambrace instead of the full shield for good measure. He frowned at how clumsy the movements felt. Not due to a lack of agility, but because using the shield was so new, changing his balance and granting him additional options that he hadn’t had time to integrate.
+
+A few points into his light shield skill would go a long way toward fixing the problem, although just like his sword, Nick needed to receive proper training in its use at some point.
+
+At last, worn out and immensely satisfied, he decided to call it a day. He needed some time to cool off and regain his stamina if he wanted to be in top shape when he left the safe room and entered the tower.
+
+Since he still had over three hours left on the clock, he helped himself to a glass of water, used the pitcher to refill his canteen, and then crawled into bed. While the System had restored his body, he still needed to decompress from his latest adventure. Starting the next ordeal with a full night’s sleep sounded like a fantastic idea.
+
+Nick pulled the covers over his head and closed his eyes, melting into the mattress. The bed was as basic as the System had promised, but compared to weeks of rough living on Blackmist Bog, it felt like a cloud to him. He spent a few minutes reflecting on how much easier he could fall asleep in random places than back in his old life, then stepped into the land of dreams.
+
+He awoke two hours later feeling completely refreshed, since it had only been late afternoon when he’d stepped through the portal and entered Darkstone Tower. The power nap had helped him to relax both physically and mentally. Now Nick was ready to finish preparing himself for the trial that would begin the moment that the door to the safe room cracked open in a little over an hour.
+
+He made himself a meal from his provisions, used the bathroom, then got ready to fight, starting with a series of stretches intended to increase his range of motion. He wanted to be at his best from the moment he entered the tower’s basement, and limbering up his body was the next step in the process.
+
+While he stretched, he began pondering his goals for the immediate future. Laying down various plans to speed up his advancement, and contingencies to use in a range of situations and emergencies.
+
+Nick’s biggest consideration was integrating the new ability mastery system into his long-term plans. He needed to think about how he wanted to upgrade each of his spells when given the chance. What role would suit them best over time.
+
+He pondered what he had learned so far, trying to suss out why he had gained enough understanding to advance mana dart’s rank, but not his other abilities. But then he realized that he’d been testing and tweaking his darts ever since he first learned the spell, including shooting himself for good measure.
+
+While he was starting to get a better feel for piercing ray, he hadn’t tried to figure out how it worked to nearly the same extent, although he wasn’t going to be shooting himself with that one. I’ll have to experiment and work it out while I’m climbing the tower. Maybe I can improve my ability to perceive mana and study how the spell operates more closely.
+
+When he was done with his yoga, he opened his menu to check the time, and saw that he had a little over half an hour left on the clock. The next goal on Nick’s checklist was to prepare himself to enter a hostile environment. To steel himself toward the danger that would assail him the moment that he stepped foot out of the safe room. To be ready to act at a moment’s notice.
+
+While he visualized various scenarios and how he would deal with each, Nick went over his equipment, cleaning the pieces that didn’t have a self-maintenance modification, then making sure that all his tools were in the right pouches of his toolbelt.
+
+With five minutes left to go, he was as ready as he could be. He slipped on his pack and drew his sword, humming to himself as the seconds wound down.
+
+When the clock hit zero, a stairwell shimmered into existence, the kind that circled around a central pole as the stairs wound their way up toward the ceiling. He couldn’t see an exit up there, but he supposed that it didn’t matter. He knew that the stairs were just the entrance to another kind of portal after viewing the tower from the outside.
+
+Ready to begin his latest adventure, Nick took the first step and began to climb, the rap of boot leather striking metal echoing across the stone chamber. His body vanished in a flash of light before he reached the top.

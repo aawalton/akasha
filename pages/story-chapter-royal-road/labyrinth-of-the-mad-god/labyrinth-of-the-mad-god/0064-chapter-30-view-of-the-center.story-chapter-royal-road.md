@@ -1,0 +1,81 @@
+---
+id: 57ff4ec4-ad64-53f4-8af7-0d443d8fd714
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: View of the Center"
+slug: 0064-chapter-30-view-of-the-center
+partOf: labyrinth-of-the-mad-god
+position: 64
+ownLength: 1716
+unit: words
+publishedAt: 2024-09-25
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1820206/chapter-30-view-of-the-center"
+royalRoadId: "1820206"
+---
+
+Not long after, the tunnel they were following came to an end.
+
+For once, this development was good news rather than a source of frustration. The reason why was simple. Instead of being blocked by rubble like the other obstructions they’d encountered, this passage terminated in a curved sheet of what appeared to be thick glass or crystal.
+
+When Nick peered through it, he broke into a broad grin. We finally made it. At long last, after days of exploring and fighting, they’d arrived at the middle of the floor. And that was only the beginning of the good news. Not only had they successfully navigated the mazelike facility, there was a staircase sitting in plain view. A crude set of wooden planks leading up the side of one wall to a hole in the ceiling high above.
+
+Nick and Veronica high fived and then hugged. They even relented enough to fist bump Shaun. Then everyone took a good look at the rest of the room.
+
+The cylindrical space on the far side of the glass was huge, far bigger than any of the enclosures they had crossed along the way. At least three football fields would have fit comfortably down there, with plenty of room for the stands.
+
+The floor of the room was hundreds of feet below Nick’s boots. V was right. Although this entire facility was considered to be one level of the tower, some of the passages and rooms were stacked on top of each other, just as Veronica had suspected. Now we just need to find a way down there.
+
+The difference in elevation meant that they still had a bit of traveling to do. Nick hoped that it would be relatively easy to work their way down to the ground, compared to the warren of passageways they’d had to navigate to get here.
+
+When he looked at the far wall, he could see hundreds of windows lining the chamber from floor to ceiling. Further evidence that the tunnel network was even more extensive than he’d realized. It gave the inner ring the appearance of a honeycomb, each windowpane leading to a separate corridor. Many of them were covered in dirt, revealing the extent of the roaches’ territory.
+
+“This place is incredibly massive. Exploring the whole floor would have taken us months.” Veronica’s words mirrored Nick’s train of thought. “Heading for the middle was the right choice. We would have never come across the others looking around randomly.”
+
+Then, for a long while, the three of them stood shoulder to shoulder, simply taking it all in. Although the room in the middle of the tower was free of creatures, living or otherwise, it was far from featureless. It was divided into two main sections with a long strip of clear ground running between them.
+
+On one side, dozens of basins were arranged in an orderly grid, which looked a bit like empty swimming pools from this elevation. On the other, rows of raised platforms emerged from the floor, each topping off around waist height.
+
+Even after taking out his spyglass and surveying the area, Nick wasn’t sure what he was looking at. He was hoping to uncover some clues as to the chamber’s purpose and dynamics, since he had a hunch that they wouldn’t reach the staircase without a fight. This room must be important, given its central location. Something critical to the floor’s role in managing the tower’s waste.
+
+It all became clear five minutes later, when the scene erupted into chaos. In between the drawing of one breath and the next, clarion alarms rang out. Sharp clangs that echoed endlessly down the myriad passageways.
+
+Nick drew his sword and fell into formation beside Veronica, convinced in that moment that they’d triggered a trap and were about to be swarmed by the facility’s residents. But after several nervous minutes, nothing seemed to be coming for them. He returned his attention to the middle of the floor, where something strange was taking place along the ceiling.
+
+There was a sense of energy congealing. Magic on a scale that he’d never experienced before. Not long after, a large portal shimmered into existence, with a metallic sheen like a pool of mercury was floating above his head. It must be a node along in the tower’s portal network. But why is it so big and what purpose could it serve all the way up there?
+
+The answer was revealed two minutes later. There was a bright flash. When it dimmed, shadows began marching across the floor below. Nick looked through his spyglass, jaw dropping in confusion when he realized that hundreds of corpses were emerging from the portal ten at a time.
+
+When the last body materialized, the portal flashed again and then vanished. In that moment, Nick thought that he was about to watch the bodies hit the floor like a grotesque waterfall. However, instead of plummeting to the ground, something even stranger occurred.
+
+Each corpse began floating, as if guided by fine wires, making its way from the center to the edge of the ceiling. Once they were in position, they started to slide, circling the room as they began gradually working their way down the wall.
+
+From time to time, one of the bodies came to a stop, rotated ninety degrees, and then fell into a hole that had opened in the stonework. It seemed that this bizarre procession was some manner of sorting process. The corpses were shunted off to different sections of the floor based on a criterion that Nick couldn’t even begin to imagine.
+
+As they stared up at this unique and rather unsettling display, he had the impression that the bodies were sliding down a series of conveyer belts formed entirely of force magic. They were invisible to the eye, but not to his fledgling ability to sense mana. While some of the remains were removed along the way, the majority continued their descent uninterrupted, winding down and around the interior of the chamber as they were lowered to the floor.
+
+When they reached his elevation, he was able to take a closer look. Most of the corpses appeared to be animals or beasts. There were carnivores and herbivores, quadrupeds and bipedal creatures, along with a fair number that he had no idea how to categorize.
+
+Not all the cadavers belonged to animals. Some were human, along with dozens of alien species in a vast array of forms. Most were naked, and some were clothed in simple robes, but none of them had any visible gear on them. There were scars and wounds all across their bodies. Evidence of desperate battles and cruel experiments carved deep into their flesh.
+
+Clearly, this was only the final stop in the series of calamities that had befallen them. Witnessing the gruesome procession made Nick sick, and bile rose hot in his throat. It wasn’t just the corpses, which were unpleasant all by themselves. But the realization that they must have endured something terrible within the tower, before being thrown out like trash.
+
+It fit with the impression of Rizzen that Nick had been granted in his vision. An incomprehensible mad scientist unbound by conventional morality. He just hoped that the members of team Earth could overcome this challenge without meeting a similar fate. Although he knew deep in his gut that not everyone would be so lucky.
+
+No one said a word, each processing what they were seeing as the corpses slid down and down and down in an orderly fashion, until they reached the bottom of the chamber. At this point, they were placed upon the rows of platforms, like some sort of bizarre funeral arrangement.
+
+While he had a general sense of what was happening, it still didn’t explain the layout of the chamber. Everything became clear five minutes later. The construct swarm appeared from a lower tunnel in a river of brass, spreading out as it engulfed the rows of bodies.
+
+What had to be thousands of gear-rats surged into the room, the scraping of their claws against the stone forming an endless, clattering roar. The army of mechanical rodents was under guard by at least fifty gear-scorpions. A force far larger than he’d imagined and more than they could hope to defeat.
+
+Frowning as he took in the might of his enemy, Nick noticed that there was a third type of construct with them. A variant that they hadn’t seen before.
+
+The new machines looked a lot like turtles. They had four long feet, broad toes, and a heavy shell upon their backs. Their role in the construct swarm was clear at a glance. Because each of the gear-turtles was covered in a shimmering dome of magical energy that stretched out a good ten feet from their location.
+
+The barriers of translucent energy came in a range of colors. Some were the ethereal silver of pure mana, while others were the green of acid. There were several with a reddish tint that had to be some manner of fire mana, while the last set were translucent. Nick’s energetic senses told him that those were made of force mana, the same energy that powered his wand and piercing ray.
+
+“They are some kind of portable shield carrier.” Veronica verbalized what Nick was thinking. “It’s what Kellen mentioned in his log. They must be designed to protect the swarm from enemies that can take out a bunch of rats at once. I bet those shields are a lot stronger than the ones guarding the individual constructs. If several of those turtles stand near each other, it’s going to be hard to use any of our abilities against the swarm.”
+
+Nick nodded his agreement, analyzing everything that he saw while the rats went to work, taking apart the corpses bite by bite.
+
+It cemented his desire to make it off the floor without being drawn into another big fight. It was now crystal clear that the construct army was far too powerful to take on this close to the center of the facility. If the clockwork creatures came at them in full force, they would be overwhelmed within a matter of seconds.
+
+As disheartening as this development was, it turned out that the show was only halfway over.

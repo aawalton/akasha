@@ -1,0 +1,261 @@
+---
+id: 9ef45275-7ae9-5a2a-9279-f19068d3f5a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13 — Introduction to the Standard Array, Pt 3"
+slug: 0013-chapter-13-introduction-to-the-standard-array-pt-3
+partOf: just-add-mana
+position: 13
+ownLength: 3761
+unit: words
+ownProgress: 3761
+publishedAt: 2025-07-29
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2475788/chapter-13-introduction-to-the-standard-array"
+royalRoadId: "2475788"
+markedReadAt: "2026-06-29T18:47:57.746Z"
+---
+
+Nala Whiteleaf had no idea how Cale had beaten her, but he wasn't going to do it again.
+
+He'd cheated. Somehow. She didn't know how, but he had to have! The Mage Killer had helped him, or... or something. There was no way a mere human could have beaten a Brightgrove royal otherwise—the Gift favored them. It let them learn spells faster than anyone else, gave them passives no one else could acquire. There was no way she could lose to someone from the Astral Wing.
+
+Her hands were trembling. She clenched them into fists, trying to stop them. Nala could feel the others staring at her, whispering. What were they whispering about? About her loss? Were they mocking her for being weak? For being a poor example of a royal?
+
+"I didn't lose," she snapped. "He cheated somehow! The professor helped him!"
+
+Some of the elves around her nodded in agreement, but Nala saw a few of them staring at her doubtfully. She scowled at them until they looked away, burning their faces into her mind. She'd remember them when this was over. She'd remember this... this humiliation.
+
+Just in case, she called to the Gift. Maybe Cale had done something. Maybe he'd locked away one of her aurics, somehow, prevented her from picking up the spell the professor had shown them.
+
+But no. It was still there.
+
+[Spell Scholar, Level MAX] [Brightgrove Blessing, Auric Passive]
+
+Increases spell acquisition aptitude by 50%. Prerequisites must be met to learn anything above the second tier.
+
+How could Cale possibly have beaten her with something like that at her fingertips? She had a blessing from the Gift itself! Her father was the Brightgrove King, the leader of the foremost mage-clan of the elven population on all of Utelia. Their elders held enough power to collapse entire mountains, and she was set to inherit all of that.
+
+She'd dominated every aptitude test she'd been subjected to throughout her childhood. Her prismatic core carried a whole 46 mana aspects, nearly unheard of for prismatics. When she attended her aspect magnification classes, she'd come out as the fastest prismatic mage there, able to magnify the aspect she needed at a moment's notice. Anything she didn't already have in her core she could attune, but conveniently, all 46 of her mana aspects were the ones most commonly used in spells.
+
+More importantly, she learned every spell she tried to learn an order of magnitude faster than anyone else. Standard Array spells, in particular, took only minutes of focused study.
+
+It was patently absurd that Cale had managed to pick up that spell in what seemed like seconds. For Nala Whiteleaf, the question wasn't whether or not he'd cheated—it was how he'd cheated. Had he already studied the spell? That was unlikely. The whole point of using the Gift as an arbitrator was that it could catch cases like that, and the Gift had declared Cale's victory legitimate.
+
+And it had done so in quite possibly one of the most absurd displays of magic she'd ever seen. It was like it wanted to humiliate her. What was the point in flooding the field like that? She'd never seen a signal so powerful, not even when she'd won a similar test against one of the Brightgrove Elders. It had been bright, but there hadn't been an entire shockwave to go along with it.
+
+Nala gritted her teeth.
+
+She hated the fact that she was even here. Professor Graystalk's classes were pointless. Who cared about the Standard Array? The spells were easy to learn and easy to counter. No mage worth their salt would be peddling spells like [Burn] and [Bestow Light] when they could be using [Incinerate] and [Illuminate]. Not only were the effects stronger, they were harder to dispel.
+
+Still, the class was a mandatory class, and if she had to attend it then she'd at least attend the one that was being taught by the fabled Mage Killer. The scar was a pity, really. Graystalk had been one of the only Brightgrove elders she respected, and the strength of his magic had been one of the reasons her father had considered him a potential suitor for her. He was a little old, but his bloodline was strong—he would have made a decent husband.
+
+The scar ruined any chance of that, of course. Curse-blood was tainted and always would be, even if the curse was cured, and priests capable of breaking curses that strong were few and far between besides.
+
+"The second challenge will be speed casting," Graystalk said. Nala looked up at that, feeling the knot in her stomach beginning to settle.
+
+Cale might have beaten her at spell acquisition. Somehow. She didn't know how, but the Gift had decided he'd won. Fine. She couldn't dispute that without making herself look like a fool—she'd look into it later, away from the prying eyes of her classmates.
+
+But speed casting? That was what he'd chosen?
+
+Nala Whiteleaf had been confident before, but with this challenge, she was absolutely certain.
+
+There was no way she could lose. Not with a prismatic core that held the essential aspects of every spell in the Standard Array.
+
+Cale was pretty sure he'd lose this next challenge, but that was pretty much why he'd chosen it. The challenge order, after all, was fixed: Cale's selected challenges had to be completed first. If he won both challenges, then Whiteleaf would never get to her combat challenge, and neither he nor Syphus would get the chance to kick her in the face.
+
+But he didn't want to give Whiteleaf the satisfaction of winning any of the challenges, either. The idea had come to him while he was reading through the list of challenges he could propose. This one was perfect.
+
+"As a reminder to the audience, speed casting is a two-stage challenge," Graystalk said. "And I will take this opportunity to note that speed casting is one of the reasons even seasoned archmages do not abandon the Standard Array. The spells chosen for the Array were selected by mages more experienced than you or I; they are some of the fastest spells and most efficient spells known to exist."
+
+Whiteleaf rolled her eyes. "You can make excuses all you want, Mage Killer. The Standard Array is for mages that can't do any better. I've seen real mages fight."
+
+Graystalk paused. "I am aware you have observed many duels between our elders, Ms. Whiteleaf, and I do not mean to say there is no place for higher-tier spellwork when it comes to magical combat. However, you would do well to remember that duels are not the same thing as true warfare. Our elders duel to show off how far they've come with their magic.
+
+"In an average battle between two mages, the Standard Array composes the majority of spells cast. High-tier spells are used most often to throw off the rhythm of the battle. Other exceptions exist, of course. If an opponent is good enough with barriers, high-tier magic becomes almost a requirement to break through. Alternatively, battles fought over long enough distances use an entirely different set of basic spells."
+
+The professor smiled a thin smile. "Does that satisfy your concerns, Ms. Whiteleaf?"
+
+Whiteleaf frowned, but didn't seem to have anything to say in response; a few of the elves around her were beginning to mutter. Cale saw a few of them grabbing notebooks and jotting things down, and evidently Graystalk did too. The professor seemed like he was on the verge of getting emotional again at the sight.
+
+Evidently, some of the elves were finally beginning to realize why the Standard Array was considered mandatory. Cale wondered if Whiteleaf had been the one to lead them down this path. She couldn't have been the only one, since Graystalk had clearly been dealing with this type of thing in his classes for a while, but she was at the very least the latest.
+
+Her grip on the class was slipping, though.
+
+"Also, you keep saying Mage Killer like it's an insult," Cale remarked, leaning against the makeshift platform Graystalk was standing on. "First of all, that's a badass moniker. Second, you're a mage."
+
+That one got him a few snickers. Whiteleaf turned to glare at the offending elves, who promptly pretended to be looking somewhere else.
+
+"As I was saying." Graystalk cleared his throat. "Speed casting is a two-stage challenge. Technically speaking, only the result matters: the mage that achieves the desired effect first is the victor. However, the Gift is a tool both for learning and the development of magic, and as such, it sees fit to show us not only the victor, but who achieves the requisite amount of attuned mana first."
+
+That was the main reason Cale had selected this challenge, really. It was interesting, in a way: the point of the Standard Array challenges seemed to be to highlight areas that a mage might be deficient in. Spell acquisition was all about understanding a spell enough for the Gift to grant it to you. Speed casting was about attunement or magnification, followed by the act of feeding mana into the spell. The efficiency with which a mage did either could impact both the speed at which the spell completed and the magnitude of its effect.
+
+Graystalk was an absolute monster at both, and Whiteleaf...
+
+Well, she was okay. Cale supposed she was indeed very good compared to the average mage, but even the "average" mage tended to have a sort of personality to their magic. It shaped everything from how they attuned their mana to how they fueled their spellforms.
+
+Whiteleaf, on the other hand, was so picture-perfect with how she did things it was just sort of boring.
+
+"Hurry up and start," Whiteleaf said impatiently. Cale rolled his eyes and watched as Graystalk set out two small tables and a candle atop each, then spoke a quiet incantation; soon, a gentle aura of white mana settled around both Whiteleaf and Cale.
+
+"Take your positions by the candle," Graystalk said. "When I say 'begin', a ten-second countdown will begin, at the end of which your auras will turn red. That is the indication to cast [Burn] to light these candles. Both of you have [Burn], correct?"
+
+"Yep," Cale said cheerfully. He'd told Graystalk as much earlier. Whiteleaf just nodded tersely, getting into position.
+
+"For the benefit of the audience," Graystalk said, raising his voice. "The mage whose aura turns green is the mage who manages to gather enough mana of the correct aspect first. The mage whose aura turns gold is the challenge victor. If the same mage wins both aspects of the challenge, they will have a golden aura, whilst the other mage will have a red one."
+
+Cale was pretty sure he saw some of the elves exchanging bets. Amusingly enough, Syphus had made its way into the crowd and was making as many bets as it could. Without Whiteleaf around, a lot of the elves seemed far more amenable to its presence.
+
+"Now, Cale, Ms. Whiteleaf." The professor was doing his best to pretend he didn't see his students betting on the outcome of this duel. "Are you both ready?"
+
+Whiteleaf's grip on her wand tightened. Cale stood next to his candle, stance relaxed.
+
+"Begin."
+
+A bead of sweat trickled down Whiteleaf's forehead. She stared at the candle like her life depended on it. Cale, on the other hand, stuck his hands into his pockets and looked around; the elves all seemed deeply invested. Syphus was giving him an encouraging thumbs-up, but it was well aware of the plan.
+
+Graystalk raised an eyebrow at him. "You could at least pretend to look invested, you know."
+
+"Yeah, but that's not as fun." Cale grinned.
+
+The countdown finished. Cale watched with interest as Whiteleaf's aura flickered red, then rapidly turned gold; a thin trail of smoke rose into the air to accompany the merry flame that now burned steadily atop her candle. She stared down at the golden light dancing along her arms, almost like she couldn't believe she'd won.
+
+And then she spun around, expression haughty and sneering as ever. "I knew it," she said. "I knew you couldn't—"
+
+She froze. Cale hadn't moved; his hands were still resting casually in his pockets, and he was watching the crowd of elves instead of paying any attention to the candle or Whiteleaf.
+
+Amusingly enough, most of the elves in question were staring at him instead of the Brightgrove princess. A few of them did let out a few half-hearted cheers, but those seemed to incense Whiteleaf more than it helped. The rest of them...
+
+Well, they were staring at the green mana swirling around him and crackling like a miniature storm.
+
+"Aw, shucks," Cale said. "No need to stare. I'm very shy."
+
+Syphus snorted. It stopped collecting money from disgruntled elves long enough to turn and call him out, its tone amused. "Liar."
+
+"Guilty as charged." Cale waved at the crowd, then turned to Whiteleaf and clicked his tongue. "You need to stop making that face, by the way. It makes you look constipated."
+
+The advice didn't help, unfortunately. If anything, she looked even more constipated than before. "I... what..." she sputtered. "How dare—no, I mean, how did you—"
+
+"Oh, that's the question, isn't it?" Cale shrugged, making no attempt to hide his smirk. "Guess I'm just faster. But you still won, don't worry! We can move on to the third challenge now, if you want."
+
+"You didn't even try," Whiteleaf said, pointing her wand at him. "You didn't light your candle!"
+
+"Didn't want to," Cale agreed. "I would've lost anyway. I can't cast Standard Array spells very fast."
+
+Technically, he couldn't cast them at all. He could pour his mana into one, but then he'd have to wait for the Gift to turn it into a spell capable of withstanding his mana. The rules of the restricted duel technically allowed it—Gift intervention was considered a form of divine intervention and superceded the normal duel restrictions—but that process tended to take a few seconds.
+
+He could have tried anyway, he supposed, but he didn't want to reveal the full extent of his capabilities just yet.
+
+"I want a rematch," Whiteleaf said. "You can't possibly be faster than me at this. I bet you have—you have a fire aspect core or something. That's why you didn't need to attune. You and Graystalk planned this, didn't you?"
+
+Cale cocked a brow. "Interesting theory," he said. "That would be pretty clever of us, I suppose. You know what? Sure. I'm willing to test that out. Gift, mind giving us a reset? Aspect-testing only."
+
+At this, Graystalk physically cringed. "Cale," he hissed. "The Gift is not something you can simply casually address—"
+
+He was interrupted by a white glow once more settling around both Cale and Whiteleaf. Cale beamed. "Thank you!" he called.
+
+Graystalk sighed. "...I think perhaps I should speak to Headmaster Akkau again on what exactly you are."
+
+Whiteleaf either hadn't registered the exchange or didn't care. "Are we having a rematch or not?" she demanded, and Cale rolled his eyes.
+
+"You won," he said patiently, as if explaining it to a child. "We're not having a rematch. But I'm willing to let you test this fire core theory. Why don't you pick the aspect, this time?"
+
+Whiteleaf's eyes narrowed. She snarled. "You think you're so special," she said, taking a step forward and jabbing a finger into his chest. "Fine. Water."
+
+"An opposing aspect," Cale said approvingly. "Good choice. Professor, would you mind?"
+
+"Begin," Graystalk said, his lips twitching slightly. He knew what was about to happen.
+
+Ten seconds later, Cale's aura turned green, and Whiteleaf's stayed red. The elf said nothing for a long moment, then grabbed the front of his shirt, yanking him close.
+
+"Whoa," Cale said. "This is second date territory."
+
+"Earth," Whiteleaf seethed, ignoring him. A lot of the elves were murmuring among one another now. Some were giving her nervous glances, and more than a few seemed to be looking at her in a new light.
+
+Cale almost felt bad for her.
+
+"Begin," Graystalk said experimentally, and almost jumped when their auras turned white. He shot the sky a quizzical look, but it offered him no answers.
+
+Ten seconds later, Cale's aura turned green once again. Whiteleaf, on the other hand, was beginning to turn a color that matched the red mana dancing around her. This was, what, the third time now? Cale resisted making a joke about it.
+
+"Light," Whiteleaf said, looking increasingly desperate.
+
+"Begin."
+
+The pattern repeated. Within the crowd, Syphus was looking more and more delighted, like this was the best day of its life. Many of the elves, on the other hand, were beginning to look uncomfortable. One of them tried to speak, wringing her hands together.
+
+"Nala," she said. "I don't think—"
+
+"Shut up, Julia," Whiteleaf hissed. She rounded on Cale. "How about this? Decay."
+
+"That's not even in the Standard Array!" Julia protested, this time more strongly. To Cale's surprise, a few of the other elves joined her in protest, murmuring in agreement.
+
+"I will not allow that," Graystalk said, his tone turning severe. "You are well aware, Ms. Whiteleaf, that misuse of the Gift is a serious offense. Cale has been generous enough to allow these tests as it is."
+
+"He shouldn't be able to beat me!" Whiteleaf spun to glare at the professor, her eyes wild; her hand twitched, like she was ready to point her wand at him. "I have a prismatic core! Aspect magnification is my best class!"
+
+"You have a false prismatic core," Cale commented idly, frowning slightly. This seemed a bit much, even for an elf having a breakdown. He watched her a little more carefully, noting the disheveled hair, the way she trembled. The more she broke down, the more a presence seemed to reveal itself in the gaps of her magic.
+
+Strange. It felt familiar, too, except... no. It couldn't be what he was thinking of.
+
+"What?" Whiteleaf turned to stare at him, and the feeling vanished. Her confusion had broken her out of her reverie. "All prismatic mages are false prismatics. True prismatics don't exist, and if they did, they would be utterly useless as mages."
+
+"Well..." Cale trailed off. Before he could finish, however, the professor cut in smoothly.
+
+"If I may?" he asked.
+
+Cale raised an eyebrow slightly, saw the barely-suppressed smirk in Graystalk's eyes, and laughed. "What, you want to steal my thunder?"
+
+"I have had to deal with Ms. Whiteleaf for the better part of an academic year," Graystalk answered smoothly.
+
+"Fair point." Cale took a step back and gave Graystalk an overdramatic bow. "Have at it, then."
+
+Graystalk rolled his eyes, but raised his voice, speaking both to Whiteleaf and the rest of the class. "It seems that—due, in part, to an erroneous assumption on my part—I have failed to properly introduce Cale to this class," he said. "Please welcome Headmaster Akkau's personal apprentice, Cale Cadwell Cobbs."
+
+The elves' eyes went wide. Syphus's etherite-ears perked up and swung toward him. Cale waved at them all merrily.
+
+"His arrangement is rather unique," Graystalk continued. "He will be a student in this class, but he is also charged with assisting me with your education. I admit I was skeptical of the Headmaster's plans and claims, at first, but I believe Cale has more than proven himself."
+
+"What does any of this have to do with prismatic mages?" Whiteleaf demanded.
+
+"I should have hoped it was obvious by now, Ms. Whiteleaf," Graystalk said. "But if it must be explicitly stated... We believe Cale to be Utelia's very first true prismatic mage."
+
+Several jaws dropped, and the class erupted with excited chatter. Even Syphus was looking at him in a new light.
+
+"Damn," it said. "I can't believe you kept that from me when we were planning."
+
+"I did tell you what to bet on, though," Cale said cheerfully. "I figured I'd leave it up to whether or not you trusted me. If I actually told you the secret, the betting would've been kind of unethical."
+
+"Because that's the issue here," it said sarcastically. Cale snickered, then turned back to Whiteleaf, who shrank back from him.
+
+"Still want a rematch?" he asked.
+
+For the first time, her response was small. She shook her head. "...No."
+
+"Still want to fight?"
+
+Whiteleaf's eyes hardened. "Yes," she said. "It doesn't matter if you're Headmaster Akkau's apprentice. You dishonored my clan. Besides, I know your secret now. It's why you haven't been casting, isn't it? True prismatic spells would take every last drop of your mana. All I need to do is make you waste it, and I win."
+
+"Interesting theory," Cale said again, smiling slightly. That was how a real mage thought. She was wrong, of course, but unlike all the other excuses she'd been making, this one took into account everything she knew.
+
+Most importantly, she was... well, she was technically still underestimating him, but she was no longer looking at him like he was beneath her.
+
+No. She was looking at him like a rival.
+
+"Let's test it, shall we?" he said, cracking his neck. His original plan had been to allow her to waste her mana against his barriers. Then he'd switch with Syphus and let the golem wail on her a few times until she exhausted the rest of her mana.
+
+But if what he'd felt from her earlier was correct, then something had followed him here when he was summoned, and that required a slightly different plan.
+
+Graystalk seemed to realize something was off. "What is it, Cale?"
+
+"Nothing," Cale said. "I just need to test something. I can do it during the challenge. Can you start it, please?"
+
+The professor eyed him, then nodded. "As a reminder, only spells from the Standard Array are allowed. If the Gift modifies them, that is its prerogative. Take your positions."
+
+Cale and Whiteleaf both walked to stand on opposing sides of the stage. Cale gave her a small bow. Whiteleaf hesitated for a moment, glanced at the murmuring elves that were watching them, then bowed back.
+
+Graystalk whispered his incantation, and then—
+
+"Begin."
+
+Whiteleaf fired some sort of spell. Cale didn't pay attention to it; it glanced harmlessly off his barriers, anyway. Instead, he poured his mana into his newly-acquired Standard Array spell: [Lesser Reflection].
+
+This time, he made sure to give it a little more than just a drop.

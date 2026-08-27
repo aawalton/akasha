@@ -1,0 +1,157 @@
+---
+id: 2202e09a-a589-504a-b506-d4bf2bc52919
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Devin’s Quest"
+slug: 0304-chapter-23-devins-quest
+partOf: labyrinth-of-the-mad-god
+position: 304
+ownLength: 3224
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3286479/chapter-23-devins-quest"
+royalRoadId: "3286479"
+---
+
+Devin charged though a cloud of smoke with his axe poised to strike—fire and earth intertwining to coat the weapon in vermillion mana that roiled like molten lava.
+
+It was barely perceptible to the party, but the cloud Shaun’s Smoke Arrows created was blinding to the giant foxes they were fighting. Even still, the creatures had sharp senses and weren’t going down without a fight.
+
+The furious beasts turned to face Devin, focusing on the clanking of his armor and the light cast by the searing magic encasing his body and blade. The foxes could not, however, hear Veronica, who was the stealthiest person he knew. The moment the vulpines committed to their charge, she struck in a streaking flash.
+
+Advancing from her target’s blind side, V swiped with the Bone Claws protruding from her knuckles. Her attack carved parallel gashes along one flank that bled profusely, due to an ability that suffused the weapons with anticoagulant venom.
+
+As the lithe warrior completed the cut, she turned and fired her wrist-mounted crossbows. A pair of Acidic Bolts hit the next fox over, plunging into its fur near the base of its neck. The beast screamed as her solvent went to work. It dislodged the missile with a paw, but the damage had already been done.
+
+Veronica’s damage-over-time attacks were insanely powerful, and they only grew stronger as the battle raged on. Thanks to one of her traits, every time she struck an opponent, they became more susceptible to her venom, acid, and flames, along with any frost attacks she unleashed with consumables.
+
+While all of that was deeply impressive, it was only the beginning of what V could do.
+
+Devin began feeling better as he traded blows with the closest beast. His wounds sealed shut and energy flowed through his limbs as his health and stamina were restored by his friend’s unusual powers.
+
+Her supportive magic had always been great, but it had grown even stronger after she picked up a Rare class that specialized in converting damage into vital energy, rejuvenating her allies while harming her foes. Veronica could restore mana too if she set her enemies ablaze, although it looked like this fight would be over before she had a chance to use her Napalm Grenades.
+
+The foxes stricken by V’s abilities were critically wounded. They were out of the fight and would perish within a handful of heartbeats. As Devin scanned the battlefield, his axe carved a sizzling wedge into the beast nipping at his heels, driving it back. He took advantage of the opening to turn to the group that was charging the party’s ranged specialists, unleashing a pair of back-to-back Volcanic Fissures.
+
+When he slammed his flaming weapon into the ground, he injected his mana into the soil below—a process that was stronger and smoother after Ella had transferred a portion of the clockwork framework from her artifact staff during their battle with the Armada Wurm.
+
+His Fissures cracked the soil as they raced toward the foxes, leaving glowing crevices in their wake as his magic overtook the vicious vulpines. Spews of flame erupted from the below, burning the beasts’ bellies and setting their fur alight.
+
+Meanwhile, Shaun peppered the pack with Electric Arrows with V at his side, conserving vital energy while her abilities finished off the wounded creatures and restored the team to full strength.
+
+As Devin traded blows with the beast before him, he watched Sarah, Bret, and Laura out of the corner of his eyes. The trio had assumed a defensive position thirty feet away, dealing with another group of persistent predators. The foxes had been planning to wipe out the party in a pincer attack but wound up biting off more than they could chew.
+
+Bret stood in front of his sister and the elite lightning mage. Shadows congealed along the blade of his oversized greatsword, forming a coruscating shroud of darkness mana that played tricks on the eyes and made it hard to predict his attacks. At the same time, his shadow spread out from below his boots, engulfing the ground where he stood and the women behind him.
+
+When the first fox sprang to tear out his throat, ink-black spikes erupted from the gloom beneath its paws, skewering the unlucky creature and holding it aloft while Bret hit it with a full-strength slash. Stamina accelerated the greatsword as his shadows sharpened the blade on a molecular level, forming an edge no whetstone could match.
+
+The warrior’s attack bisected the agile beast. Blood geysered as he spun to face the women behind him, preparing to intercept the foxes before Sarah waved him back.
+
+The man was fiercely protective of his sister, but the light-and-lightning specialists didn’t need to be saved. The duo had been chanting for the last several seconds, focusing their wills while preparing to unleash their wrath.
+
+Sarah’s spell finished first. Her versatile illusions could be used in countless ways, and this was one of Devin’s favorites—a directional flash of light so intense it could cause permanent blindness. It would impair her opponents’ eyesight, even if their eyes were closed.
+
+By this point in their dungeon-crawling adventure, the party was intimately familiar with what each member could do. Through trial and error, they had refined their teamwork and tactics to the point where they came together like a well-oiled machine.
+
+Thus, when Sarah gave the signal, everyone raised a hand in front of their face. Half a heartbeat later, an intense pulse of radiance erupted from her position, making Devin’s vision flash despite the precautions he’d taken.
+
+The beasts had been caught off-guard and were blinded by her light. They knew they were in trouble and tried to flee, but it was already too late. Laura had already sent a plume of electric magic into the heavens above, resonating with the mana flowing in the upper atmosphere to create a sympathetic response.
+
+His world turned white for a second time when lightning struck from out of the clear blue sky. This technique magnified the power of Laura’s magic while reducing the cost, making the lethal mage even more dangerous when fighting in the open. The cracking surge engulfed the remaining beasts as a thunderpeal echoed across the dungeon, frying the foxes to a crisp and ending the fight in a flash.
+
+After making sure the predators were dead and nothing else had been drawn by the clamor of combat, the party came together, taking stock of their situation before moving on. Thanks to V’s magic, they were almost topped off on vital energy and would be ready to continue soon, although the mental fatigue from these life-and-death contests couldn’t be remedied so easily.
+
+Devin walked over and gave Veronica a high five, laughing as she pulled him in for a passionate kiss that set his pulse racing.
+
+This team was so skilled that they didn’t need a leader, but this was his mission and he took his responsibility seriously. This is valuable experience. I won’t always be working with the best of the best and I need to learn how to give orders, maintain morale, and keep our heads in the game while exploring dangerous locations.
+
+Like they did after every fight, everyone sat in a circle—where they could look at each other while watching every approach to their location.
+
+“Our performance is improving by the day,” Devin began. “I didn’t even get a chance to use Flashfire Pulse, Blast Striking, or that new trick I’ve been working on, although something tells me delving the dungeon is going to grow more difficult past this point.”
+
+Starting with V, he addressed each party member in turn, searching for something to praise as well as areas where there was room for improvement.
+
+“Your class is one of the strongest I’ve seen—right up there with Sophia’s and Nick’s. The damage you deal is amazing once you rack up some hits, and we can keep fighting all day unless you run out of mana. That being said, I think it would be a good idea if you opened with Acidic Bolts before entering melee range. Once you’ve injected an enemy with solvent, you can heal yourself, even if you’re unconscious and no one is close enough to pour a potion into your mouth.”
+
+“Will do, boss man.” Veronica poked him in the ribs, grinning to let him know he was doing a good job.
+
+“Bret, I know you want to protect your sister and everyone else in the back line, but you’re too focused on making sure they’re all right. Trust your team to let you know when they need help. Use your ears and energetic senses to track the enemies other people are fighting instead of your eyes—at least where there’s an opponent in front of you.
+
+“Since you are getting so good at spreading your shadows to form a defensive perimeter, maybe you can come up with a way to sense anything that steps on them. That way, you can keep tabs on Sarah without turning around.”
+
+Bret was an amazing warrior, but from the moment they’d met, his priority had been shielding his sister over everything else. He’d learned how to work with a team while saving the Earth, but that instinct still ruled him, even though Bret knew Sarah could take care of herself. He frowned at those words but then nodded his agreement, which was progress in Devin’s book.
+
+“Sarah, fantastic use of illusion magic as always. Blinding enemies is an effective tactic, although some opponents are bound to have ways of protecting themselves from the flash or fighting when their eyes are out of commission.
+
+“Be prepared to defend yourself if your spell doesn’t stop them. Keep practicing with your bow so you can deal damage at range and contribute in fights where your illusions don’t work and the sun isn’t around to power that awesome death ray finishing move.
+
+“Oh, and this is more of a long-term goal, but when we’re fighting foes that are susceptible to illusions, come up with some tactics that sow chaos amongst their ranks. Try tricking them into attacking each other or coaxing them to move in a matter that interferes with their teamwork and disrupts their formation.”
+
+Sarah took her role seriously and nodded along with his words. While they had been working on this problem for a while, she was happy to try anything that would improve the efficacy of her magic.
+
+“Laura, I love that trick with the lightning bolts. The downside is it takes longer than casting your spells directly, and both the flash and the boom will reveal our position to every critter for miles around. It’s fine when we have a clear view of our surroundings and have already scouted the area but be mindful of drawing more trouble to our doorstep.
+
+“I was also hoping that you would be willing to practice smaller-scale attacks that can stun enemies trading blows with our warriors, but don’t run the risk of catching them in the crossfire like your full-power bolts.”
+
+“That makes sense, Devin. I’ll see what I can do.”
+
+“Shaun, you’ve really come a long way. Your accuracy is impressive and you get more use of lower-rarity abilities than anyone else I know. Laying down a smokescreen should be your top priority on enemies that use their eyes to hunt, followed by precision strikes to vital areas. Those Electric Arrows are a nice distraction, but until you can pump more mana into them, a lot of opponents will be able to dispel your mana with their arcane barriers or resist the stun outright.”
+
+“Got it. Will do.”
+
+When Devin was finished, the others took their turns, pointing out what they thought had gone well and any mistakes they had made. While he listened to their feedback, he took a good look around, reflecting on how far they’d come since setting out on the quest to obtain the Simulation Dome.
+
+After stepping through a portal, they had arrived at a dungeon on another planet—a wide valley bordered by mountains so sheer that climbing them was impossible, even with superhuman bodies. The vale had a river running through it and was covered by a blend of woodlands and the sprawling prairie they were crossing now.
+
+There were plenty of monsters and beasts to be found, although the party left the latter alone unless they were attacked. Their mission was to reach the temple at the far end of dungeon, which was home to a boss that was certain to be a difficult fight.
+
+Devin hoped to find some treasure in the temple beyond the main reward, but even out here, the trip was worth their time. The party was leveling up and earning a ton of essence, obtaining more combat experience and advancing their abilities along the way. They had collected a decent pile of valuable resources, including some herbs, minerals, and parts harvested from the creatures they’d defeated.
+
+One feature of the dungeon that made it different from a natural biome was the progressive nature of its challenges. The creatures had grown considerably more powerful as his team hiked from one end of the valley to the other. By this point, they were starting to encounter Tier-2 monsters, which were far more dangerous than their Tier-1 counterparts.
+
+The terrain had grown rougher and more hazardous too. His team had been forced to contend with quicksand and pitfalls—even a storm of subzero rain that would have frozen them solid if they hadn’t found cover in time.
+
+When their post-battle briefing was complete, Bret and V skinned the foxes while Devin extracted their claws. They decided to camp for the night after spotting a grove a few miles ahead. It was far enough away that they shouldn’t have to worry about being followed, especially with Bret using his shadow magic to erase their trail.
+
+When they arrived, the party scouted the area to make sure nothing nasty was prowling nearby, then set down their packs, broke out their bedrolls, and began building a firepit. The siblings were on first watch, which left the others to cook dinner while unwinding from their day.
+
+“I know we didn’t have a choice.” Veronica gestured to the furs drying on a rack near the fire. “But I feel bad about killing beasts.”
+
+“I wouldn’t worry about it too much,” Devin replied. “They don’t seem to be as aware as Earth beasts and insisted on attacking, even after we tried to scare them away.”
+
+“I suppose that’s true. Where do you think we are anyway?” She asked while gazing up at the alien stars growing brighter by the second as the sun sank below the horizon.
+
+“Nick has a weird technique that grants him visions, particularly while traveling through portals. According to what he’s seen, these dungeons are on planets that are relatively close to Earth, cosmically speaking. They are isolated spaces the System has sealed off for one reason or another.
+
+“He thinks clearing them is helping the System in some way, which is why it rewards us for doing its dirty work. My best guess is everywhere humanity has traveled is in the same sector. Nick’s Sword mentor mentioned it costs a lot of cosmic energy to teleport between them.”
+
+“Interesting,” Laura said while polishing grime off the metal staff she used as both weapon and mobility aid. “I knew Nick Silver had visions, but I haven’t heard some of those details before.”
+
+They discussed the issue for a while longer before Shaun switched topics. “Once we get out of here and the Simulation Dome is up and running, where do you want to go first?”
+
+“An island vacation sounds nice,” Sarah added.
+
+“Maybe skiing in the mountains.” Bret took off his boots to retie the laces. “Or a tropical ocean cruise.”
+
+“All of those sound awesome,” Devin said. “I wouldn’t mind checking out the moon. I only caught a glimpse of the surface during the battle for Earth. That reminds me. I wonder what a branch of the Tower of Rizzen was doing up there to begin with. Do you think if we landed a rocket on the moon, there would be a door at the base of the tower and we could enter it again?”
+
+That question led to a round of vigorous speculation. “Some of the aliens Team Earth talked to during our training and shopping rewards mentioned there were different difficulties of climbs,” Laura revealed, “and we were taking the easiest route.”
+
+“Maybe one day we will merge our understanding of science or magic and come up with a way to discover the answer.” Sarah rubbed her chin. “I wouldn’t mind giving Rizzen a piece of my mind after the bullshit he put us through.”
+
+Devin let his thoughts wander as the conversation went round and round. He’d been fantasizing about the Simulation Dome ever since going through the species-evaluation course on the third floor of Darkstone Tower and was thrilled to have a chance to make that dream come true.
+
+Back then, the simulated environments were filled with creatures that were trying to tear him to pieces, but the possibilities of what the dome could provide were limitless.
+
+While you could use it to create a wide variety of simulations that let people do everything from training their skills to practicing navigating rough terrain, it was also the ultimate entertainment device. He loved the idea of being able to visit any location he could imagine—everything from lost venues from Old Earth to winter wonderlands to alien vistas more exotic still.
+
+He hadn’t expected that stealing the component from the tower would let him obtain a dome of his own in such a direct manner, but for once, the System was doing Devin a favor instead of trying to get him killed. And while obtaining the Unique magical building for Aurora was a fantastic opportunity, clearing the dungeon was also a good way to turbocharge his party’s advancement.
+
+While everyone enjoyed a hot meal, his focus shifted to the brave women and men beside him.
+
+It was wonderful to get a chance to travel with Veronica, who was far more than a friend by this point. Shaun had come a long way since they’d first met—to the point where the earnest young man was both good company and trustworthy enough to play a supportive role while he worked on boosting his damage.
+
+Sarah and Bret were insanely powerful. While the shadow-and-light wielding siblings were a little odd, they were stalwart allies who knew how to throw down when shit hit the fan. He hadn’t spoken much with Laura until this mission, but the high-energy lightning mage was a top-tier elite, and Devin was happy to have her along for the ride.
+
+He wasn’t sure what the dungeon had in store as they continued delving its depths, but he couldn’t ask for better allies at his side and was enjoying their adventure.
+
+When everyone was done eating, Devin rose to his feet and said, “Let’s get some shuteye, then head out bright and early to take out those monsters we spotted earlier. We’re making great progress, but I have no doubts that exploring the temple and defeating the boss will make everything we’ve overcome thus far seem like child’s play.”

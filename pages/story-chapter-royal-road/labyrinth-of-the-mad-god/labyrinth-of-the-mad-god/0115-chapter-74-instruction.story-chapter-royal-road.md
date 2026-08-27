@@ -1,0 +1,77 @@
+---
+id: 09d8ae9e-eeef-54bb-aebd-fd6972fdcca8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74: Instruction"
+slug: 0115-chapter-74-instruction
+partOf: labyrinth-of-the-mad-god
+position: 115
+ownLength: 1711
+unit: words
+publishedAt: 2025-01-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1995528/chapter-74-instruction"
+royalRoadId: "1995528"
+---
+
+When Nick was clean and dry, Rita led him back into her house and served him lunch. Today’s alien culinary encounter turned out to be some kind of meat sandwich with sliced cheese and a tangy sauce. It was tasty, filling, and thoroughly satisfying. He ate every bite and then sucked the crumbs off his plate.
+
+“That meat has nutrients in it that are good for building muscle and restoring stamina,” she explained. “It will let you train longer and harder, and help your body solidify the gains that you made along the way. It’s one way to get a little more out of our time together, just like using your flask.”
+
+Nick thanked Rita for the meal and helped her wash the dishes. Then it was time to get strapped back into the stance machine for another arduous session. On the bright side, he was already making progress. Agreeing with his master’s assessment, after evaluating his stance, the device judged that he was ready for the next stage.
+
+For stage two, instead of just two stances, right and left foot forward, the machine created a light at any point around the circle. He had to shift his feet and turn to face it in less than a second, or the humming would stop, and the shocking would start.
+
+In addition to the rotational element, he had to hold his sword at the ready the whole time. Even with his powerful body, it was an endurance trial different from any he’d undergone before. The replica of his mysterious blade had been heavy to start with, but Nick felt like Atlas holding up the world by the time he was done.
+
+It was a grueling task. More exhausting, both physically and mentally, than the day before. He endured countless shocks before Rita appeared and set him free. By that point, his arms were rubber, and his entire body shook with strain. But as he lowered his sword for the final time, he realized that he was starting to get the hang of it.
+
+A few more days and Nick would be ready for the final stage, where in addition to shifting his facing on the fly and maintaining his stance for hours on end, he would start adding basic attacks into the mix. He wasn’t looking forward to his sessions by any means, but by now he could see the value in the process.
+
+After helping him get clean, Rita led him back into the house for another delicious dinner. While they ate, he tried probing her, seeing if she could teach him anything about the other tools that he used to fight. He asked for advice on a range of topics including the best use of his spells and wand, and how to train his evasion and shield skills.
+
+But his master was adamant in her refusal. To the point that Nick had the sense that she wasn’t simply unwilling to tell him, she actually couldn’t. It was disappointing, as he’d been hoping to use the month to advance some of his other goals too. Such as learning more about his abilities, working on his other skills, leaning to sensing mana, and using stamina more efficiently.
+
+Just when he was about to give up, Rita said something that changed everything. “I’m only allowed to train you with the sword. Not your shield, spells, or any other abilities. But if someone were to activate Kiki while I was asleep, then convince her to help, absolutely without my knowledge or permission you understand, then that person might be able to slip in some other forms of training before I woke up…”
+
+Nick took the hint and didn’t press the matter further, grateful that Rita was willing to help him as much as she could without breaking the rules that the System put in place.
+
+She let him test the limits of what she could say while they ate. But he was only able to squeeze a bit more knowledge out of her, no matter what he asked. The first tidbit provided a little more context about where he was and the nature of his surroundings.
+
+“You’re still in the Labyrinth. This planet runs on compressed time and your stay has been paid for by the System, not that anyone else could afford it. The reason that this world was colonized to begin with was because time runs at a different speed here, thanks to the presence of massive magical anomaly. Staying for too long can have disastrous consequences for your potential, but a month or two every few years is safe enough. I don’t normally live here either. My workshop was transported for the duration of your training.
+
+“You never would have been sent here to begin with if you didn’t have Gift of Tongues, or if there was somewhere with comparable time dilation closer to your point of origin. The System is shockingly stingy with cosmic energy, considering that it owns everything in this corner of the multiverse.”
+
+The only other details that Nick was able to learn were related to his sword skill, but they wouldn’t come into play until later. The first was that the System imposed some manner of test before any skill could be taken higher than twenty-five, although that required a rare class to begin with. The second was a bit more on concepts.
+
+“Right now, you’re just learning the basics. The mechanics of moving your weapon around your body. Later, you will need to decide what role you want the sword to play in battle. If you want to use it as your primary attack, or as a supplement to your spells, and a hundred other details besides. Same with all the other elements that form your personal combat style. The more concrete that your chosen path to power becomes, the more essence you can generate and absorb.
+
+“Over time, these pieces will merge into a single vision, known as a concept, and you will begin to generate essence at an increased rate. I can’t teach you any of the details. But eventually, this concept will form the foundation for tier-two and beyond, enabling you to develop you own unique path to power. Unless of course, you discover a compatible build that you choose to follow instead.”
+
+Nick was grateful for the insights and sensed that he had exhausted the limits of what she was able to tell him. He resolved to spend the rest of their time together at the dinner table asking about the sword and getting to know his master better as a person instead.
+
+When he checked his updates, he saw something that he hadn’t been expecting. Apparently, joining Rita’s school came with more benefits than she had let on. She must have wanted me to make the right decision without being swayed by the bonus.
+
+You have joined the faction: School of the Ever-Surging Blade.
+
+While you are part of this faction, you will receive the following bonus: Your sword skill is uncapped by class rarity (the trials of mastery must still be completed every 25 skill levels).
+
+Warning: Once a faction is left, it can never be joined again.
+
+That’s incredible. Nick broke into a beaming grin. Not only could he raise his sword skill past 25 now, he could pick a new class that didn’t have the weapon skill included without interfering with his growth as a swordsman.
+
+That night, after Rita went to bed, he slipped outside and entered the workshop. It was a gesture of trust that she had given him tacit permission to enter the sacred space while she was away. Nick resisted the urge to explore all the crafting stations or take one of the weapons from the wall and give it an experimental swing.
+
+He made his way over to where he had watched Kiki walk after their last training session. He realized that he was curious to discover what the combat doll did while no one was around. If she would be deactivated and waiting for Rita to call upon her once more, or if she had a life of her own.
+
+One way or the other, Nick was certain by now that the doll was more than a mindless construct. That Kiki had a personality and will of her own. That she was Rita’s senior student and not just a sophisticated tool.
+
+He walked over to what appeared to be some manner of holographic display, like a television that played images that completely engulfed the viewer. Or maybe a VR rig that didn’t require a headset was a better comparison. There was a program running, some pleasantly wooded area with snow piled high. He took a few minutes to marvel at the sophisticated magic on display, then stepped closer to see where Kiki was, since she was obviously active and had been using the device recently.
+
+The next time that his foot came down, Nick felt the now familiar sensation of a blade pressed against his throat. Kiki had approached him from behind without him ever realizing she was there.
+
+Having expected this exact outcome, he froze in place and said, “Hi. Rita mentioned that you might be willing to spar with me from time to time, using my other skills and equipment instead of just the blade. If you would be willing to teach me, I would deeply appreciate getting a chance to learn from such a gifted individual as yourself.”
+
+Since the doll was prideful, he figured that a bit of flattery couldn’t hurt his chances. Besides, he meant every word he said. Kiki must have found his proposal worth considering. Perhaps she was curious to see how Nick fought when using his full range of powers and gear, because she took the blade away from his throat and shrugged.
+
+When he began heading toward the ring, the combat doll stopped him with a hand on his shoulder. She pointed to his pack and then gestured to herself. It took Nick a moment to realize what she wanted, but then it hit him.
+
+Oh. She is willing to help but expects to get paid for her service. Fair enough I suppose. I’m the one asking for a favor after all.

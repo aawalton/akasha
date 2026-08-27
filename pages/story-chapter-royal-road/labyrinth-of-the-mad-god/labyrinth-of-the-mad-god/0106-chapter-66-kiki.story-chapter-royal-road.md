@@ -1,0 +1,71 @@
+---
+id: ead6386e-d66f-5733-93ef-ab240a78e04b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66: Kiki"
+slug: 0106-chapter-66-kiki
+partOf: labyrinth-of-the-mad-god
+position: 106
+ownLength: 1636
+unit: words
+publishedAt: 2024-12-18
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1963230/chapter-66-kiki"
+royalRoadId: "1963230"
+---
+
+To Nick’s astonishment, what stepped past the threshold wasn’t another contestant, or a person at all for that matter. It was a magical construct. A life-sized wooden doll that looked like a marionette held up by invisible strings.
+
+That was the best metaphor that Nick could come up with on the spot, but it didn’t do the construct justice. Although the living machine looked completely different from the gear swarm he’d faced back in the tower, she was equally complex, perhaps even more so. He ran his gaze across the wooden creation, taking in her features and form, surprise growing by the heartbeat as she came to a stop by Rita’s side.
+
+Instead of being jerky and sporadic, this doll’s movements were completely natural and more graceful than anything he could manage. Each joint mimicked the function of Nick’s own body. They articulated so cleanly that he wouldn’t have known that the construct wasn’t alive if it wasn’t for her appearance.
+
+Her face was round and smooth like a mask, with features painted on the surface instead of being carved. The details were remarkably lifelike beyond their lack of depth, forming the visage of a girl of perhaps eighteen years old. The rest of her body was a perfect replica of a human being, the filigree so fine that it blurred the distinction between woman and machine.
+
+Kiki wore a black robe similar to Rita’s garb, with a red sash tied around her waist. She was only a foot shorter than Nick and could have easily passed for a human of Earth if not for her flat features and the spiraling grains running along her exterior.
+
+The living doll turned to face him, then put one hand on her hip, like she was impatient to get things started. Nick fought to recover from his shock, because had never seen anything like it. A product of an advanced, magic-based technology far beyond his understanding.
+
+“I know she’s pretty, but you don’t have time to flirt.” Rita laughed and then poked Nick in the ribs, chuckling when he jumped and nearly dropped his blade. “Daylight’s burning.” With that, Rita tossed the doll the other sword, who caught it so naturally that it made his own efforts look like a child taking their first steps.
+
+“Wait,” he protested, putting the pieces together slower than usual due to his astonishment. “The badass training golem I get. But don’t you think I’m a little too green to be squaring off against an actual sword without going over the basics first?”
+
+“Nonsense.” Rita snorted. “The prospect of death looming right around the corner is always the best teacher. Besides, I’m not a monster. I’ve enchanted that blade. It won’t be able to cut you…” Nick sighed in relief. “Quite as deep.” And then tensed right back up.
+
+“Trust me. Given your situation and the limited time at our disposal, this is the best way to begin. Just accept what I’m about to tell you. Face the fear and then push past it.” Rita looked straight into his eyes, her amusement transforming into total sincerity.
+
+“Nick, you are going to get cut. Not just once, but time and time again. Such is the fate of all swordsmen. While it’s not what we’re aiming for, being afraid to bleed is a weakness that will get you killed. Worse, you will die a coward instead of fighting for your last breath.”
+
+The speech wasn’t nearly as reassuring as Rita seemed to think, but Nick did take her point. After all, it was something that he had already been dealing with for months. Ever since the System had arrived and thrown his life into chaos.
+
+“Once you’ve had all you can take, we’ll spend the evening going over basic theory and then relax for two hours before bed. Trust me.” Rita cut off Nick’s protest. He had been hoping to push himself harder and practice until he was ready to drop.
+
+“With your stats, that’s the absolute limit of what your body can handle. Overdoing it will take away from your progress, not add to it. One final world of advice before we begin. It’s clear that you haven’t fought much against another blade.
+
+“Facing off against someone wielding the same weapon won’t prepare you for a battle against beasts. You will have to adapt the training to such opponents yourself. But it’s necessary for learning the ins and outs of your weapon. It will also give you a taste for what it’s like to cross swords with another blade wielder at your level of proficiency. Something that will be far more common since you’ve left the tutorial behind. Now, face off against Kiki and show me what you’re made of.”
+
+“Wait.” Nick held up one hand in protest. “Everything you said makes sense, and I’m willing to give it a shot. But I’ll last a lot longer if we can do this out of the sun. I’m not used to this heat, and I want to make the most of this opportunity.”
+
+“Fair enough. Follow me.” Rita gestured and then turned away. Nick and Kiki followed the blademaster through the door and stepped into her workshop. He was thrilled that she had agreed to his request. While it was uncomfortably warm outside, it wasn’t the real reason why he had voiced the complaint.
+
+What Nick truly wanted was to see what was going on inside the building. To discover what a crafting operation from an established species looked like. Both to satisfy his own curiosity and to learn anything that might be useful to the survivors of Earth. To take advantage of an opportunity that might never come his way again.
+
+What awaited him when he crossed the threshold exceeded his expectations in every way. He ran his gaze across the room, taking it all in while committing everything he saw to memory. Half of Rita’s workshop was filled with crafting equipment. It ranged in complexity from a basic forge with a hammer and anvil, all the way up to intricate workstations covered in piles of tools that Nick could not even begin to guess the purpose of.
+
+Rita turned when she realized that he’d stopped, grinning at the look of wonder plastered on his face. She let him stare for a few minutes without interrupting, clearly pleased by his reaction. Then she poked him in the ribs to get him moving, leading him past the workstations and further into the building. What he saw next left him even more excited, although this time, Rita didn’t let him linger.
+
+Nick only had a moment to drink in the image of a vast display, which was a fantasy nerd’s wet dream come true. All along one wall was an armory. Endless racks holding hundreds of masterfully crafted weapons were mounted to the wall. The product of what looked like centuries of labor.
+
+He strongly suspected that any of the blades on display would be wildly overpowered for someone at his level. It was his first time gazing upon gear that radiated mana so intensely that their auras were visible to the naked eye. They must be forged with essence too, maybe even concepts. Although he desperately wanted to get his hands on one of those magnificent weapons, he knew that the System would never let him beg, borrow, or steal one. But it could never kill the dream.
+
+Rita let out a dark chuckle at the look on Nick’s face, reading his thoughts from his expression. She was having fun drawing this out, enjoying his appreciation of her workshop and wares, as well as his naked greed. All too soon, they were past the last rack, and after a final, lingering look, he returned his attention to the matter at hand. His imminent duel with Kiki the combat doll.
+
+They walked past the end of the armory and into the other half of the building. It was almost empty save for some metal plates attached to the walls and a score of dummies lined up against the far corner, crafted in a range of sizes and materials.
+
+He nodded while stretching out his shoulders. While most of the rest had gone over his head, this was something that Nick understood. Because he was clearly looking at a weapon testing facility. A space that apparently doubled as an impromptu sparring ground. The ceiling was covered in square panes of glass, letting in the light from outside.
+
+To his relief, it was much cooler inside than it had been standing beneath the strange green sun, although it was still quite warm by the standards of his former life. Fortunately, thanks to his toughness now being multiple times higher than before, he didn’t mind the heat at all. He set down his pack and picked up his sword. He took a few experimental slashes at the air, savoring how easy it was to control a properly balanced blade.
+
+“Less stalling, more stabbing.” Rita gave Nick an unsettlingly predatory look. “I’m ready to find out what color your blood is.” He walked into the middle of the open space, trying as hard as he could not to let how creeped out he was show on his face.
+
+This was in part due to the feral gleam in his teacher’s eyes, but mostly because of how unnerving it was to be facing off against a wooden doll that looked like a teenaged woman. An eerily lifelike yet unnervingly expressionless doll holding a very large, very sharp sword, eagerness to cut clear in every crook of her posture.
+
+Seeming to relish his unease, Kiki stepped back about ten feet and then offered Nick a formal bow. A gesture that seemed to be universal in the multiverse as far as he could tell.

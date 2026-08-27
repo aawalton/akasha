@@ -1,0 +1,87 @@
+---
+id: 32395a6d-0592-5a42-9d88-8ecb49cf1e31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73: Bad Timing and New Friends"
+slug: 0255-chapter-73-bad-timing-and-new-friends
+partOf: labyrinth-of-the-mad-god
+position: 255
+ownLength: 1625
+unit: words
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2809893/chapter-73-bad-timing-and-new-friends"
+royalRoadId: "2809893"
+---
+
+Nick opened the front door of his home as the horizon began to glow, heralding the beginning of a new day.
+
+He tossed his boots into his magic bag—mentally separating them from the dirt covering every inch before pulling them out, stepping inside, and setting his boots against the wall. His scouting run had taken longer than Kenji had anticipated, but by the time they reached the border of the biome, they were certain the monster that had slaughtered Abby’s people had returned to the jungle after all.
+
+They had had, however, run into a one-star monster on the way back, which they wound up subduing instead of killing so Veronica could use her powers to heal people in an emergency. It was an intensely unpleasant creature called a putrescence imp, which spat wads of rancid goop that smelled every bit as bad as the name implied.
+
+His team knocked the little bastard out, hit it with a dozen disabling spells, and dosed it with a sedative for good measure. Once they were sure it wouldn’t wake up anytime soon, they bound the imp’s limbs and locked it inside the cage after fashioning a makeshift muzzle.
+
+Nick found the proceeding to be deeply distasteful, but it was the best option on the table until his people learned to use healing magic, other than burning through their small stock of irreplaceable potions. With any luck, the life mana Earth generates will be the key to unlocking new classes, and restorative spells will be more common going forward.
+
+His thoughts were filled with the people he’d saved as he climbed the stairs—eager to take a hot shower and get some shuteye. While he only needed four hours of sleep each night, he still grew just as tired as before when he didn’t get enough.
+
+He stepped into his bedroom, set down his pack, and stripped to his skin, wrapping a towel around his waist before heading down the hallway.
+
+As he reached out to turn the handle, the door opened on its own, revealing Elizabeth’s profile framed by the illusion magic illuminating the bathroom beyond. He hadn’t realized she was still awake, and the sight of her body half-covered by a pair of towels caught him completely by surprise.
+
+Whatever he might have said faded away as his mind caught up to the present. The most beautiful woman he had ever known was mere inches from him, bound by wet cloth that left nothing to the imagination.
+
+Nick had been avoiding thinking about his feeling for Liz—content to remain friends for the time being. But in that moment, a surge of raw attraction hit him like a fist to the gut, taking his breath away.
+
+His desire was accompanied by a poignant wave of longing. All the loneliness and loss he’d experienced since the System arrived—the sorrow and frustration from losing Sophia—came boiling up to the surface, combined with a fervent desire to reach out and grab hold of what happiness he could before it slipped through his fingers again.
+
+He would have shoved those emotions aside it if the feeling wasn’t mutual. But when he looked into Liz’s eyes, he knew she felt it too. She wanted him just as badly as he wanted her, and not just in a physical way.
+
+They had endured so much to arrive at this moment. And while their intimate bond had begun as the product of a bizarre encounter that neither of them had asked for, it had grown into something far more profound in the time they had spent together. Their attraction stemmed from a genuine appreciation of the other person, respect based on shared values, and incandescent sexual chemistry.
+
+Her eyes were wide and her breath was heavy—lips parted as she took a single step toward him with her wet skin glistening. His heart was pounding as his hesitation evaporated like fog before the morning sun. Without thinking about the consequences, he reached out to touch her face… just as the door to Devin’s room cracked open.
+
+“Hey, Nick.” The sleepy warrior said. “I thought I heard you come back. I’m going back to bed for another hour or so. Tell me what you found out there when you wake up.”
+
+When Nick turned around, Liz was gone, having slipped into her bedroom while he was distracted. Still reeling from the intensity of that electric moment, he stepped inside, turned the shower as hot as it would go, and closed the door—emotions swirling in his chest like the water circling the drain.
+
+***
+
+Nick awoke feeling remarkably refreshed.
+
+He smiled, sighed, shook his head to clear his mind, and then sighed again. He had absolutely no idea what he was going to do about Elizabeth, but she knew him better than anyone and wouldn’t hold it against him if he needed more time to sort his feelings out.
+
+Besides, she hasn’t said anything either. I know she has her own issues she’s working through, and this situation isn’t easy for either of us. Relieved that he understood his friend well enough that he didn’t have to worry, he shelved the matter for the time being, got dressed, and walked into the city.
+
+The committee was taking the day off while Abby’s people got situated, and they would discuss how the situation changed their priorities tomorrow. Since he didn’t have anything scheduled, Nick decided to grab lunch for breakfast and see how they were holding up.
+
+It was a night and day difference from before.
+
+The refugees’ wounds were bound, and the worst injuries he saw would heal on their own within a week or two. Life-threatening damage had been reduced to cuts and bruises after Veronica’s magic ran its course, highlighting just how powerful her abilities were.
+
+The newcomers were well-fed and out of the sun, although the heat was a problem with their current Toughness. The ice mages had provided buckets of ice and barrels of chilled water, so no one was in danger of overheating despite the sweat running down their faces.
+
+The most traumatized individuals were housed inside the barracks until they got back on their feet. Some citizens with mental-health experience were helping as best they could, listening to the survivors’ stories while providing emotional support. When Nick asked one of the caretakers for an update, he learned they were working on new treatments that took advantage of Team Earth’s superhuman Charisma and Psi.
+
+He spent some time talking to Walter—who had already begun assigning his people tasks to make sure they were pulling their weight. Right now, their efforts were limited to simple chores inside the city, like hauling, cleaning, and cooking, but Liz was developing a mentorship program to start narrowing the gap between the new arrivals and Aurora’s elites.
+
+She was conferring with Abby while assembling team to oversee the situation, including a group of volunteers who had chosen teaching Professions. It was a mutually beneficial arrangement, since they could raise their skills by showing the refugees some useful tricks that would keep them alive when they were ready to venture outside the settlement.
+
+While the two of them toured the city, Nick asked Walter what it had been like living on New Earth for months. His people had returned to the planet after their tutorials, instead of participating in the arena battles and Fate of Earth quest.
+
+They had struggled to survive at first, although it wasn’t too bad, since they had picked up a few levels by that point and were more powerful than any human from the old world. After enduring a period of adjustment, Walter’s people had managed to build a crude village and survived by living off the land.
+
+As their situation improved, they began exploring the Frontier, which covered a portion of the jungle where they lived. They had leveled up by clearing some low-star challenges, and growing stronger had fueled their ambition. They eventually decided to try their luck at taking down a Town Boss, succeeding after a fight that sounded every bit as epic as Team Earth’s battle with the Armada Wurm from their perspective.
+
+Nick knew the rest of the story. Everything had been good until a roaming monster attacked in the night, precipitating the crisis that brought them to his door.
+
+When they were done talking, Nick had Abby’s people walk over the obelisk to apply for citizenship. He went ahead and accepted the lot, taking Aurora’s population to 672 when added to the handful of people who had arrived since the city was founded.
+
+We’re almost halfway to clearing the requirements to reach the next tier. If we establish contact with the other towns Walter told us about, I’m sure we can pick up more—people who want to grow stronger by living in the Frontier or whose settlements aren’t working out and are in danger of collapsing.
+
+While Nick was going through the list of requests and accepting them one by one, he was also watching his territory grow.
+
+While he wished it had happened under happier circumstances, gaining so many new citizens had expanded Aurora’s sphere of influence by a considerable degree. The fields were now inside his placement dome, which meant the Weather Barrier would protect them from the bladewind going forward, and the air mages who had been shielding them could be stationed elsewhere.
+
+The quarry was a bit further out, but it wouldn’t be long before it was inside the dome too, at which point, he could place some additional infrastructure that would accelerate the facility’s production.
+
+Nick was going over some of the scouts’ reports with Kenji and Liz when a messenger came running up, bearing news that upended his plans for the day.

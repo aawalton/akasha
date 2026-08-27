@@ -1,0 +1,91 @@
+---
+id: dcfe8122-cd7d-5dd4-b550-1874e5637252
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59: Contemplations by Starlight"
+slug: 0241-chapter-59-contemplations-by-starlight
+partOf: labyrinth-of-the-mad-god
+position: 241
+ownLength: 1467
+unit: words
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2714936/chapter-59-contemplations-by-starlight"
+royalRoadId: "2714936"
+---
+
+Nick chatted with Cathy’s people for a while longer, finishing several bottles of whiskey along the way.
+
+After a parting round of handshakes, he promised to visit again in a few weeks and invited them to stop by Aurora anytime. They gave him several bags of seeds to commemorate their alliance, and he began his trip home with a smile on his face.
+
+He could have made it back by midnight if he sprinted while using Force Acceleration, but he decided to take his time and learn more about the biome instead. I’ll get in some conditioning, check out anything that catches my eye, and roll into town early in the afternoon.
+
+He plopped down on top of a big boulder, stretching out while watching a spectacular sunset. Part of the way through, Nick realized that he had never felt so free and happy to be alive. As color bled from the world and the stars pierced the veil of the heavens, his thoughts turned to his family and friends. To Angie—who had been killed by the System during integration—then his brother, mother, father, and the people he’d gamed with for years.
+
+He had no idea if any of them were still alive, but there was a good chance at least some of them were. He hoped to find them once civilization had advanced enough that it was easy to communicate with and travel to other cities.
+
+That brought Nick to his second family—the wonderful people he had met during his new life as part of the System. By this point, Devin and Veronica were like siblings to him. Kenji was a wise uncle, and Shaun was a bratty younger cousin who was finally growing up.
+
+His feelings for Sophia were considerably more complex.
+
+She was family too, and while he loved her and was still holding on to hope that they would wind up together in the end, he had come to accept there was a chance that romance simply wasn’t in the cards for them. He prayed for her safety and would help her however he could, although after his ordeal with the Crimson Blight, he understood why Sophia needed to face her demon alone.
+
+And then there was Liz.
+
+His feelings for Elizabeth were even more complicated than his situation with Sophia. Nick wasn’t looking for a relationship right now, but he’d never been so drawn to another person before either. While part of the reason he was keeping some distance between them was because he was still grappling with Sophia’s loss, part of him was frightened by the sheer intensity of his emotions.
+
+There was undeniable sexual chemistry between them—heightened by the fact that he knew she felt the exact same way. But that animal magnetism only scratched the surface. He was drawn to her drive to build a better world. To use every resource at her disposal to ensure the prosperity of Team Earth, no matter what it cost her. He was in awe of her profound insight into other people, and the force of will that drove her to give every second her all.
+
+On top of everything else, their fates were bound together for the foreseeable future as they strove to make Aurora a cornerstone of human civilization. When you combined all that with the knowledge that she’d peered deep into his soul and accepted him for who he really was—didn’t try to take advantage of his attraction or push him into anything he wasn’t ready for or interested in…
+
+He sighed, shook his head with a rueful grin, and got ready for bed. I’m not going to figure it out tonight, and there will be plenty of time in the morning. He set his PDA to sentry mode and slipped into his bedroll, watching falling stars until he fell asleep with a smile on his face.
+
+When he woke up, it was still dark, since he only needed four hours of shuteye. However, the sky had changed considerably while he was asleep. The green moon was shining bright, and Luna was nowhere to be found. The stranger’s light saturated the badlands in an otherworldly emerald radiance—like he was gazing at the bottom of an alien sea.
+
+Nick stretched out under the moonlight then began his katas, losing himself until there was nothing but the blood in his veins, the air in his lungs, and Blightbane flowing around his body so effortlessly it felt like he was floating.
+
+Then, for just a second, he sensed someone standing beside him, mirroring his every move. He didn’t hear a voice, but he was certain it was the soul of the sword in his hand resonating with his own.
+
+He came to a stop and thanked his partner. Then he sheathed Blightbane, took a swig from his canteen, and started walking. With the full moon and his evolved eyes, he could perceive his environment clearly, hiking until the sun rose a few hours later.
+
+When he pulled up his profile, he saw that the Aurora had picked up more CP. A dozen people had requested to become citizens, which he would worry about when he got back. Nick had a personal update awaiting his perusal too.
+
+You have achieved a favorable outcome in a social situation with significant stakes and improved the following baseline attribute:
+
+Charisma has increased from [11] to [13].
+
+Liz was right. This trip was a good idea, although something tells me diplomacy isn’t always going to be this easy. Nick whistled as he picked up a pile of rocks, juggling to condition his Dexterity as he continued crossing the biome.
+
+He realized he hadn’t seen so much as a hint of pollution since returning to Earth. In addition to erasing every manmade object from the planet, integration had eliminated the toxic byproducts of their industries too, restoring the globe to a pristine natural state. Or maybe the planet is cleansing itself.
+
+After all, the Earth had pitched in during the fight with the Guardian. It clearly possessed some level of self-awareness and potent magical powers. Who knew what his homeworld would be capable of as it continued to level up, refine cosmic energy, and infuse the globe with increasingly concentrated mana?
+
+Either way, it was a chance for humanity to make a fresh start with their stewardship of the planet, and Nick vowed that his people would do a better job this time around.
+
+A few miles later, he let the rocks fall to the ground after spotting something that demanded his undivided attention—another combat challenge the System had placed within the Frontier.
+
+He ran his gaze across a perfect circle drawn onto the face of the badlands. This time around, the ring was glistening gold instead of abyssal black. There was another figure standing perfectly still, but instead of waiting in the middle of the circle, there was a golden line drawn down the center of the ring and the construct was positioned near the perimeter.
+
+The creature was eight feet tall and broad at the shoulders, but it was hard to make out any additional details. The reason why was simple—the figure was covered from head to toe in voluminous black robe.
+
+It wore a pointed cap and a shroud across its face, leaving only its eyes exposed. They were a striking shade of green, and Nick could make out a band of yellow skin running between them, which made him wonder if it was the same species as the demonic warrior he’d battled before.
+
+Instead of a traditional melee weapon, the construct held a heavy staff with a skull mounted to the top and gems set into the sockets. By this point, he was certain the nature of this challenge was quite different from the last. Every detail he’d seen so far screamed “mage” instead of “warrior.”
+
+Size Up couldn’t tell him anything until he stepped into the ring. Nick walked closer, waiting for the System’s message to waver into existence.
+
+You have discovered an elite challenge.
+
+The nature of this challenge is: Wizard Duel.
+
+The difficulty rating is: 3.5 stars.
+
+For this challenge, the following rules are in effect:
+
+Once begun, the battle will continue until one of the following conditions has been met:
+
+Be advised: Although the construct will cease its attack once you exit the arena, no healing will be provided, and your survival is not guaranteed.
+
+The rewards for this challenge are: 4 Barrier Charms (2 physical and 2 energetic). 40 City Points. 1 Uncommon Building Voucher. A small bonus to species and planetary experience.
+
+Note: Each challenge may only be attempted once. Elite challenges will vanish upon completion.
+
+Nick rubbed his chin while considering his options. He wasn’t sure what the day would bring, but he was eager to find out.

@@ -1,0 +1,229 @@
+---
+id: a3dc944e-e45f-5f43-ba5f-63d68e541a97
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Connection"
+slug: 0005-chapter-5-connection
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 5
+ownLength: 2990
+unit: words
+publishedAt: 2023-10-24
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1384330/chapter-5-connection"
+royalRoadId: "1384330"
+---
+
+The overwhelming sense of disorientation finally abated. Quinn was relieved to find that she hadn't actually passed out, though the pain was so intense she thought she might have. Slowly, she cracked one eye open. When nothing happened, when no vertigo hit her, when nothing assaulted her senses again, she carefully opened the second.
+
+A simple tree stood in front of her. She was on all fours to stop herself from falling all the way down. Lynx squatted next to her, a look of panic on his face.
+
+"Are you alright?"
+
+Librarian Connection EstablishedStatus: TentativeFuture Synchronization Required
+
+Quinn shook her head to clear the words, a mistake as the headache began pounding as soon as she moved. She sighed and angled herself to fall on her butt as gently as possible by twisting to the side. And then she willed the words away, and they finally disappeared. "No, I'm not, but I will be."
+
+"Well, that's a relief. I haven't ever linked with someone from Earth before and I was kind of worried." Lynx said, running a hand through his hair. It flickered slightly in the corner of her vision, raising more questions in her mind.
+
+Quinn counted to five in her head before she realized she was suddenly too angry and looked at him anyway. "You're telling me you didn't know if this would work?"
+
+Lynx shrugged. "I was pretty sure it would work because you had the right signature, but your physiology isn't something I'm an expert in yet. There are differences. So there could have been something..."
+
+"Seriously? There could have been something. Are you shitting me?" But she held up her hand when he went to speak and took a deep breath. "It's done now. Don't ever pull that crap again, okay? I've been through enough. But it's fine, this is..." Quinn paused as words flashed across her vision.
+
+No, it wasn't quite words, more like script. Slanted, cursive, not quite decipherable. She blinked, trying to focus on each individual cluster of lettering, but she couldn't quite grasp it yet. The headache wasn't helping either.
+
+The pounding behind her eyes only intensified and she massaged her temples.
+
+"You know." Lynx started, and almost stopped when he noticed her pointed glare. "You have to accept the information and that headache will go away. Right now you're stopping the floodgates of knowledge."
+
+"Wait, I can see the Library information just like that? No touch screen needed?" But she already knew that answer because of the script telling her she was a tentative librarian or whatever had flashed in front of her eyes. Touching the core had done more than she imagined. "Did I just power the Library backup simply by touching that trunk?"
+
+Lynx chuckled. "That's not quite how it worked, although I do understand the theory of electricity that runs on your world."
+
+Quinn leveled a stare at him. "I'm so glad you find my homeworld amusing, but I did ask a question. Did what I just did power the Library up?"
+
+Lynx at least had the grace to look a little bit ashamed. "Well you've asked more than just one question. But yes, it did. You linked. There is no touch screen needed, all that's required is that you stop fighting the connection.”
+
+"Connection?" Quinn paused and closed her eyes briefly, still massaging her temples. Let the information in, eh? Counting to ten, she began to relax, pushing all of the fear and confusion as far away as she could.
+
+First of all she began with reasoning. She was, indeed, in a huge ass room that was now lit. Simply touching the console or whatever that trunk had been did that much. She could accept that. The evidence was right in front of her.
+
+Like an on switch.
+
+So the next step was to relax as much as she could and let the Library know she was ready to accept it.
+
+Emergency Power Mode still in activation.Rudimentary Library transfer activating.Emergent Librarian receiving in
+
+3
+
+2
+
+1
+
+She forcibly lowered her shoulders and just let the information flood in. The sheer onslaught surprised her and left her gasping for air.
+
+"That's it. This initial flow won't happen again. You'll be fine." Lynx's voice was soothing, and he gently patted her back with just the right amount of reassurance. Surprisingly solid for what she'd assumed was a hologram. As she began to breathe deeper, he continued.
+
+"It's now able to gather ambient mana from you and use your energy reserves. I mean, I'm now able to gather ambient mana from you."
+
+Maybe he thought that was reassuring, but it really wasn’t. Quinn paused, pushed herself up straight and opened her eyes, regarding him questioningly. "From me? I have mana?"
+
+"Well, yes, you have a magical signature, of course you have mana." He said it like it was the most obvious thing in the world.
+
+"Oh," Quinn thought that over for a second. "Like in a video game?"
+
+"Well, we don't use video games because we have magic. But I guess, from references..." his glowing eyes flickered momentarily, "Yes, from reference, technically like a role-playing game."
+
+"Oh," Quinn was a little taken aback, but she'd already accepted the fact that she had come to a completely different world, and now she had connected to a tree-core-computer-library-console-thing.
+
+So sure, why wouldn't she have magic?
+
+There were probably dragons around here somewhere too.
+
+"Well, just give me a few." This time she tried to focus on well, it wasn't a screen, it was more just like information in a sort of heads-up display that slowly appeared in her vision. One of her foster parents had had this fancy BMW with a heads-up display that fascinated her. Sadly, she'd never been allowed to drive it, but she had seen it once, and that's kind of what all this information was like.
+
+Anything she looked at, a feed of information flashed across her vision. She looked at the core, and it simply said:
+
+Library System Core - console accessible
+
+She wondered if she asked it to give her more details, like what it was made out of, but even as she had the thought, it popped up in front of her.
+
+Petrified World Tree Core
+
+"Wow, okay." She was right. It was petrified wood, and that explained absolutely nothing.
+
+On a whim, she glanced at Lynx and willed the system to bring up information on what he was. After a split second, it listed him as
+
+Links: Category F Manifestation - Library Core Manifestation - Duration Infinite.
+
+Oh, it was spelled differently. She frowned. Still, he reminded her of a cat. She was sticking with Lynx.
+
+"You know," Lynx drawled, "you could have just asked me. I would have told you. I'm an open book. Quite literally."
+
+It was like he was waiting for her to laugh, and she couldn't help but give him a small grin. “That was a really bad dad joke.”
+
+He pouted ever so slightly. "Will you explain to me what a dad joke is?"
+
+Quinn laughed. "Well, it's more like stating the bleeding obvious. Jokes that aren't necessarily funny but kind of make you laugh anyway."
+
+Lynx nodded thoughtfully.
+
+Quinn changed the subject. “You can read my thoughts?”
+
+“Not yet. But I can see what I display for you when you pose a query.” He grinned at her.
+
+"Ah." She mulled that over.
+
+Lynx flashed her a smile and said, "Well, do you need me to explain anything? Right now it’s easier for me to do so, to preserve what power we can."
+
+"Isn't this you who's explaining things to me with words in front of my eyes?" Quinn asked, extremely confused now. If he was a manifestation of the Library and was an infinite manifestation of the Library, then couldn't he already see what she was already seeing and knowing?
+
+Wow, did that make him like a library god? She was getting very, very confused.
+
+"I can see the Library's end of things. I can't see yours. You're not, you're not a part of the Library, you're an addition to the Library. And like an annex, I can't read your mind. We’re not fully integrated yet. Just because I can see what your thoughts are bringing up, doesn't mean I necessarily understand the why. I could explain things better if I did. And I can only process and hear those thoughts if you, well, if you're specifically directing them to be answered by the Library." Lynx paused as if waiting to gauge her response.
+
+"Oh," Quinn couldn't help but feel relieved. "Then all my thoughts are still my own unless I'm specifically directing them toward you."
+
+"Yes, technically. Exactly. It's kind of like directional telepathy at the moment."
+
+"Sure," Quinn said, digesting that as well. "Telepathy. Why not? I've got mana. I've got magic. I'm connected to a magical library. Great. Why not telepathy too?"
+
+Quinn stretched her arms out, trying to relieve the inherent soreness in her body, not to mention to give her something else to focus on.
+
+Lynx had been staring at her, his lips pursed. Then he clucked his tongue in triumph. "Do you think you tend to rely on sarcasm as a defensive mechanism?" he asked, and she could tell he was genuinely curious.
+
+"It’s definitely a defensive mechanism. Thank you so much for pointing that out."
+
+"And now I've offended you," Lynx said, but it was phrased more like a question. "I apologize. This will take some getting used to. I haven't had company for a few centuries. It's odd having someone else to speak to."
+
+Quinn shrugged, feeling slightly uncomfortable. "Well, that's okay. Everything will be fine. I just have to figure out how to use the system."
+
+"That’s easy enough. You just ask it what to do. Ask me to make you a to-do list. I can show you everything." Lynx sounded smug.
+
+"I don't suppose you've got any food, do you?" Quinn really needed some food because she was starving. If she judged time correctly, it had been at least a day since she'd last eaten breakfast.
+
+Maybe even longer, if her stomach cramps were anything to go by.
+
+A shadow passed over Lynx's face. "Oh, yes, food. We can definitely do some food, I think. I think we have some roots, some vegetables. Is that okay? I mean, you're organic, right?"
+
+Quinn just looked at him. "Yes, I'm organic. Have you had non… no, I’ll ask that later. I can eat roots and vegetables as long as they're not, you know, toxic."
+
+"Of course, they're not toxic," Lynx said, waving her away. "We're not going to keep toxic vegetables on the premises – at least not in the kitchen anyway. At least, I’ll make sure they’re not toxic to humans anyway. Of course the alchemical annex has toxins but that’s still sealed."
+
+Quinn cocked her head to one side and chose to let the latter comment slide. "You’ve had non-organic Librarians before?” She was so curious.
+
+“Of course. Library Assistants to be more accurate. There are a lot of different species out there.” He sounded quite proud.
+
+“But you're not organic, are you?" She considered him carefully.
+
+"Look, that's neither here nor there. I don't need to breathe. I don't need to sleep. I don't need to do a lot of things, and yet I can do them all. But what I do need to do is get you to help me with the bookworms." He smiled.
+
+"Help you with the bookworms?" Quinn asked, not understanding at all. "Aren't bookworms a good thing? I mean, I think they'd be a good thing."
+
+Lynx just looked at her, shock evident on his face. "Bookworms are very important and have to be carefully handled. As long as they're maintained, they're a necessary thing. I mean, you can't just let them go rampaging through any book dust they want to. The residual magic is going to destroy their insides and make them absolutely useless for the night owls."
+
+"Night owls?" And it was suddenly very, very clear to Quinn that they were having two completely separate conversations.
+
+It appeared that Lynx realized the same thing because he stood there, just looking at her, blinking very slowly. "Damn it. I keep forgetting I need to recalibrate the Information package. Let me get a start on that.”
+
+His eyes grew distant for a moment and then he grimaced. “That’s going to take longer than I’d like. But anyway. I know what bookworms I'm talking about. What do you think a bookworm is?"
+
+Quinn just sort of shrugged and said, "A person who reads a lot of books."
+
+Lynx actually laughed. It would be closer to a guffaw because it was like a super huge belly laugh that just reverberated throughout the cavern. He wiped his eyes that were dry of tears anyway, even though she was pretty sure he hadn't laughed that hard and looked at her again.
+
+"A bookworm feeds off magical residue. It's a worm, you know, like the ones that grow in the ground. Do you guys call that something different than the wiggly things that, you know, help fertilize the earth around us?" He asked, curiosity winning out.
+
+Quinn shook her head. "No, we call those worms earthworms."
+
+"Okay," said Lynx, "that's something we have in common. So earthworms are very distant cousins of bookworms. Bookworms are much smarter than earthworms. I mean, bookworms have affinities to specific types of magic, just like humans do."
+
+"Wait," Quinn said, "humans have different affinities to magic. How many different affinities to magic are there?"
+
+Suddenly a massive amount of information flowed up in front of her face and she had to close her eyes. But it didn't matter because the information was still there like it was drawn on the back of her eyelids. She’d have to figure that out later.
+
+This was getting really bizarre.
+
+Lynx poked her shoulder.
+
+"Hey, stop trying to fight the connection. Let's just get the bookworms out of the way. You can figure out the rest of the Library later."
+
+“I still need to eat.” She took a deep breath. Focus. She needed to focus. "Okay, so what do you mean by affinities?"
+
+He sighed like he just wanted to go fight worms. "All different magic has different affinities. There's earth, air, fire, water, spirit, electricity, and, I mean, you name it, there's an affinity for it. There's mind magic, there's physical magic, telekinesis, telepathy, like everything. Anyway, all the books will give off different, I guess, vibes,” he paused, deadpan stared at her, and wiggled his fingers like an entertainment magician, before continuing, “and different frequencies of the different magics that are used. Got me?"
+
+Quinn nodded, fighting the urge to laugh at his finger wiggle while trying to process it all. It was a lot of information. "Yeah, okay, I've got it so far, I think."
+
+"Good, we'll work with that," Lynx said and continued. "So basically, earthworms have their own affinities and so they'll gravitate to cleaning up any excess magic residue, or dust, which is currently a problem in itself because the Library needs all the magic it can get. But while there was no one to take care of the worms and the books, and as I had to manage everything, they got a little out of hand."
+
+"What do you mean they got out of hand?" Quinn said.
+
+"Maybe it's just better if I show you."
+
+"You show me? Are they like, have they gotten big? Are they like a dog now?" She tried to coax the answer out of him, not entirely certain why he didn’t just tell her everything at once.
+
+Lynx just looked at her, cracked his neck a bit, and sounded slightly uneasy when he finally spoke. "Well, the smaller ones are. See, it's been a few hundred years since I could take care of them properly, without the golems to help me it doesn't matter how well I can technically multitask."
+
+"Golems?" Quinn said, trying to stop her mind from reeling.
+
+"Oh, sorry," Lynx batted that away like it didn't matter. "I'll get to that. We need to go take care of the bookworms and you're not going to like how we're gonna have to do that."
+
+"And just how are we gonna have to take care of bookworms?"
+
+"Well, we're gonna have to kill the really big ones. And when I say we, I mean you, because I'm technically incorporeal and I can't really help at all."
+
+Quinn stopped because she was sure she'd heard him crack his neck earlier, plus his hand against hers had felt smokey but real. "You said 'technically incorporeal.' What do you mean by 'technically'? Does that mean you can sometimes be corporeal?"
+
+Lynx sighed. "Yes, but it takes a lot of effort. And when I say effort, I mean power, which the Library doesn't have to spare right now. So pulling on any extra power will drain the Library more and thus quicken its demise. Which, until we get everything sorted, is not an option. Now, follow me."
+
+Quinn followed him through the dark cavern, past all the beautiful, dimly mint-green glowing branches and veins that suffused the entirety of the room she'd been in for the last... well ever since she'd arrived.
+
+She had no idea how long that had been. They went up a spiral staircase that didn't seem to want to end. It was probably two stories? Maybe three stories? She had never been very good at judging that sort of thing. And there were no landings to give her definitive stopping points.
+
+And then they finally made it up to the top.
+
+Quinn gasped.
+
+The Library spread out in front of her. She lost all ability to articulate anything at all. It was huge. It was massive.
+
+And it was totally wrecked.

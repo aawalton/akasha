@@ -1,0 +1,235 @@
+---
+id: 992c3a9a-a98a-56f4-9ac1-9d344c287891
+page-type-slug: story-chapter-royal-road
+title: "161 — Book 4, Chapter 5 — Overpowered Magic Duel, Pt 5"
+slug: 0166-161-book-4-chapter-5-overpowered-magic-duel-pt-5
+partOf: just-add-mana
+position: 166
+ownLength: 3857
+unit: words
+publishedAt: 2026-07-18
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3693857/161-book-4-chapter-5-overpowered-magic-duel-pt"
+royalRoadId: "3693857"
+---
+
+The nature of dragonfire was not something Akkau often had cause to ruminate upon.
+
+He had, in fact, largely put it and the problems that plagued it to the back of his mind. There were far greater troubles that he had to face, after all, such as the thing that hunted dragonkind through all the Great Realms—the thing that Cale had dubbed Vekorax. He did not yet know how to defeat it or if it was possible to reverse what it had done, but thanks to Cale and Thorn both he now finally had an inkling of what it was.
+
+That alone was a greater step toward a solution than he had ever managed alone, and he was grateful for it.
+
+But putting all his focus on the problem of Vekorax meant he had never had the time to reflect upon what it meant for dragonfire to change, though he had certainly observed the results of that change over the years.
+
+It had been noticeable even before their people had realized that they were under attack. Whether or not it started before Vekorax first appeared was under contention, for no one was quite certain when dragons had begun to vanish, but the truth even then had been clear: Dragonfire, as a whole, was growing weaker.
+
+Once, it had been the purest expression of draconic power. It took the visual form of fire, for that was what was most closely associated with dragons in many of the tales and legends of old, but its true form was in many ways a reflection of the essence of change itself. It embodied a mana aspect that no mage could attune, which meant that through their fire, dragons could perform miracles that no other mage could dream of.
+
+In those days of old, their flames were used to grant the greatest of blessings, to forge artifacts and relics that would be the envy of all the Realms. Alliances were made and treaties were signed simply on the promise that a dragon would agree to provide their fire, perhaps to light a dwarven forge once a fortnight, or perhaps to breathe it upon a church's gathered acolytes.
+
+Used correctly, dragonfire transformed anything it touched, making it vulnerable and receptive to change.
+
+But it was also finite, and dragonkind had not realized this until it was far too late.
+
+Every dragon that used it tapped into a reserve shared by all their kind. That reserve was replenished occasionally by a means unknown to them, but once it was depleted, some fundamental spark required for it to function at its full capacity had been lost. The dragonfire they could call upon after this happened was still powerful, and it still carried within it some catalyst for change, but it did not match the power it had before.
+
+Worse, it had continued to weaken.
+
+It had stabilized, eventually, but only now that it was nothing more than a pale imitation of what it had once been. Strangely enough, that pale imitation matched what those mockeries within the Bitter Path had been able to conjure. It still irritated him to be reminded of it. To think those false dragons believed they were a match for true dragons, when the power they wielded was only what their kind had held at their weakest...
+
+Bah. What an unpleasant reminder of what dragonfire had become.
+
+At the very least, though, he approved of Cale's use of it. [Minor Dragonfire] was not the most impressive example of what their power was capable of, certainly, but it was a clever use of magic—and what could be more draconic than that? To hoard and use every resource available to protect what belonged to them was the very essence of a dragon.
+
+Even this weaker form of dragonfire would be more than enough to soften a divine barrier, and the Gift's only condition for winning this duel was for Cale to break his opponent's barrier. This would be more than enough to set him up for victory.
+
+Except Cale was not done. Akkau felt the power within the Gift surge, saw the storm beginning to form over Utelia's oceans. There was a turbulence in magic itself, the kind that only happened when the Gift tried to fuse two spells together.
+
+That turbulence brushed against him, and the sensation of it made him freeze.
+
+Akkau was not one of the mages that should have benefited from watching this battle. He had seen great battles before, absurd exchanges of monstrous spells between divine tyrants. He had watched a Monolith hold a realm together and felt the resulting fractures within reality. There should have been nothing more for him to gain, no matter if this battle marked the realm with an Inspiration.
+
+Yet there it was within the fire: an impossible glimpse into the nature of dragonfire and what he might do to restore it.
+
+More importantly, within that glimpse, there was a recognizable shadow. A darkness that had been following him and hunting him.
+
+Vekorax.
+
+Akkau's full attention was suddenly focused on the glimpse he'd received. He didn't know why it was happening now, why this particular battle had torn open the veil when so many others he had witnessed had not, but it didn't matter, for before him was finally a path forward, if he could only follow it.
+
+Though the Headmaster had more reason to notice than most, no one could have missed the moment [Primal Ignition] and [Minor Dragonfire] merged into one.
+
+While the two spells were distinct, Astiviya's side of the arena burned with primal flame, with only the occasional flicker of different hues of dragonfire breaking through the gray. As Cale felt the new spellform take root in his core, however, all that fire stopped, and just for an instant the world in front of Cale resembled a frozen, silver sea. Even Astiviya had stopped moving.
+
+Then came a knock.
+
+Every single mage in attendance felt it reverberating within them. In that one instant where it seemed like the world held its breath, the fabric of mana rippled, and the sensation of it was such a simple one that few mages had any idea what to make of it. Those that discussed it afterward would only be able to agree that it had felt as though someone was reaching out to knock on a door no one had known was there, a tap-tap-tap that contained a polite request for entry.
+
+Of course, if such a door existed, no one knew how to open it—and in the next moment the impression of it was gone, replaced instead by a crackling roar as all the flames in the arena rushed back toward Cale. Gray and silver and every color of dragonfire coalesced into an inferno that danced around him in what seemed almost like a celebration of existence.
+
+The sight of it made his breath catch. It was beautiful. The flames seemed to hold a history that matched or exceeded his own. If he looked closely, he thought he could see within it the silhouettes of all those who had once walked the realms.
+
+It lasted for no more than a second. After that, as if satisfied with itself, all that fire rushed down into Cale's palm, coalescing into a single prismatic candleflame floating just above his skin. There it burned steadily and unimpressively, as though it was nothing more than colorful but ordinary fire.
+
+Cale stared down at it, wondering if he was disappointed with the end result. Not really, he decided. For one thing, the spectacle had been incredible, and for another Astiviya was a little pale; she had taken a step back, and she was staring at the little flame as if worried it would burn right through her.
+
+There was also the little notification from the Gift. The name of the spell alone told him what he'd done was probably a little more significant than he'd intended.
+
+You have learned [Sourcefire]!
+
+That had implications. Implications that Cale probably didn't have time to worry about in the middle of a duel. He had the brief, wild thought of simply lobbing it at Astiviya, but given the cautious way she was staring at it, that probably wasn't a good idea.
+
+Even if the thought of it was kind of funny. He grinned to himself, then shook his head.
+
+"So, should we just pretend this didn't happen?" he asked, gesturing to the little flame in his palm. "I'm good with pretending this didn't happen. I feel like that one went a further than I intended."
+
+Astiviya's face grew a shade more ashen, but she eventually managed to force herself to speak. "That... may be for the best," she forced out. "If you were to unleash that, I am uncertain that even these barriers would survive."
+
+Cale quirked a brow. "Huh. Really? It seems kind of unassuming."
+
+"You cannot possibly tell me you do not know what you wield."
+
+"I have some idea, but I'm trying not to think about it while I have all this other stuff to worry about," Cale said. He cut his connection to the spell and closed his fist, extinguishing the flame. "We'll go with the pretending that didn't happen. Also, is it just me, or are you nicer now?"
+
+Astiviya looked briefly like she had bitten straight into a lemon. "I can acknowledge that you are a worthy opponent, at least," she said, though the words emerged through gritted teeth. It was strange—it felt almost like she was fighting against herself, in some way. "But the duel continues. Ready yourself, human."
+
+With that, the Goddess of War reached up, grasping at the air. The mana in the arena all seemed to swirl toward her as she manifested another Mandate.
+
+Once again, [Draconic Insight] activated, and he saw what she had cast.
+
+[Take Command] [Mandate, Active (Unique)] [1.0e15 Mana]Use your divine nature to assert your right to command any force of your choosing.
+
+The description of her Mandate was shorter than his own by far, Cale noted. He considered countering this one with [Sisyphean Task] as well, but she wasn't asserting the spell on Korav or any of the shades in the aren...
+
+Oh! She was taking control of all the ambient mana swirling around them. Cale beamed; that was a brilliant use of a Mandate, and it would make their fight a lot more even. Thanks to all the power he'd been pouring into his spells, the arena was full of wasted mana. Ambient mana like that was normally difficult to channel into new spells without refinement, but [Take Command] was an effective way to sidestep that limitation.
+
+Also, it made the duel more even. Cale was all for a fair fight. What would she do with all this mana? What new magic could a Goddess of War manifest, with so much power available for her to control?
+
+"Could—could you stop smiling?" Astiviya asked suddenly, exasperated. "You look far too excited about this."
+
+"I want to see what spell you cast!" Cale said. "You know I've lived for eons, and there are still spells I've never seen? Especially here on Utelia. There are so many new forms of magic here. I'm just excited to see more."
+
+Astiviya snorted. "You will not be so pleased when you find yourself forced to face down this magic," she muttered. Although was it his imagination, or was there less vehemence in her words than before?
+
+She thrust her hand out into the air, and all the mana she commanded snapped toward her, coalescing into the spell.
+
+[Spear of the Fissure, Level 2] [Fifteenth Tier, Active (Unique)] [1.0e30 Mana]Once, there was a war that divided a continent.
+
+Much of this war has been lost to time, but the moment that ended that war is told in stories still: a great commander in one side of this war, whose titles and acclaims had only grown as the scale of that war continued to grow, decided that she would fight no longer.
+
+That day, she threw down her spear, and she threw it with force enough that it cracked the continent in two. The spear drove down through the land and embedded itself within the stone at the core of the realm, and the great fissure it created became a symbol for the end of that war, for neither side was willing to fight the commander who had so plainly displayed her power.
+
+Yet while the fissure was a symbol of peace, her spear was thrown in anger. It was soaked in the blood of her enemies. Over years of battle, its resentment at their enemies had only grown. When it was abandoned, that hatred only grew further, encompassing not only the enemy but the one who had once wielded it and had chosen to abandon it.
+
+Where the fissure was a symbol of peace, that spear became a symbol of war. At the base of the realm, where mana is most dense, it has been collecting power and anger both.
+
+Now as an artifact it has nearly exceeded divinity. It is said that a thrust of this spear could cleave the realm.
+
+Caution: This spear should not be wielded lightly.
+
+Mana took the form of dark, misshapen metal, oozing with malice. Astiviya wielded the spear with divine indifference, though Cale could see the tendrils of its influence trying to spread into her soul. It could find no purchase on her barriers, however—no matter its power, she was still greater than it was.
+
+She twirled the spear menacingly, and Cale took the opportunity to start evolving a counterspell. Or what he hoped would be a counterspell, anyway. Weapon summoning spells were always interesting. They held great power, but that power had to be held within a story. It was quite unlike a weapon forged for the same purpose, which would have rules and powers.
+
+Weapons like these were powered by symbolic significance.
+
+Thankfully, Cale had just learned quite a bit about that. Astiviya had given him the perfect opportunity to experiment.
+
+He cast [Shrivel].
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Shrivel] has evolved to [The Scale of All Things]!
+
+[The Scale of All Things, Level 1] [Fifteenth Tier, Active (Unique)] [1.0e42 Mana]In many cases, scale is merely a matter of context. Those that live their lives in a single land may not know how much more there is to the realm; those that roam the realm may not know the depths of the Abyss, and those few that brave the Abyss may not know the true extent of the Outer Planes.
+
+This spell recontextualizes the scale of its target by using the experiences of the caster.
+
+Astiviya's spear had, for centuries, known nothing more than the bottom of a fissure. The tragedy of what it had experienced was great, but in the grand scale of everything Cale himself had witnessed and known, against the context of everything he had gained and lost...
+
+The [Spear of the Fissure] seemed to abruptly lose the menacing aura it possessed. Its massive form shrank abruptly until it was no larger than the size of a toothpick, nearly causing Astiviya to stumble as she tried to swing it toward him. It must have been heavier than it looked. She let out a curse as the weapon bit into her skin and dropped it, where it lay flat on the ground.
+
+Cale was not sure he had ever seen a spear having an existential crisis, but given the uncertainty that now emanated from it, he was pretty sure that was exactly what he was looking at. Thankfully [The Scale of All Things] was not just a spell that would show the spear its relative insignificance. He found true joy in exploring the Realms, after all.
+
+There was more out there than darkness and tragedy.
+
+Astiviya stared down at the trembling, tiny spear, then sighed. "I don't even want to ask," she muttered under her breath, mostly to herself. Then she turned to Cale, and her eyes flashed briefly with something new.
+
+...Huh. Cale tilted his head. She was using [Divine Insight], her own version of his [Draconic Insight]. He wondered which one was better.
+
+"I see," she said, frowning slightly. She circled him warily now, floating on a current of mana, and Cale found himself rather envious of the ability. "You are creating new spells as we fight. An impressive feat, for one such as you. Why do you not use your existing magics?"
+
+"It's more fun this way," Cale said, shrugging. "I get to learn more magic, you know? I take every opportunity I can to learn more magic."
+
+Astiviya snorted for a second time, and this time she wore a ghost of a smile. "...You are as obsessed with magic as my consort is with peace," she said, glancing over at Purén. The Prince of Peace was seated in the far corner of the arena, eyes closed and brows furrowed in concentration.
+
+"You should see what I do when there's baking magic in the room," Cale told her.
+
+"...Are you the cause of Vesuvius's fascination with baking?" Astiviya sighed. "I should have known."
+
+Cale brightened. "You know him?"
+
+"The elemental gods are lesser beings, but I am aware of them, yes," Astiviya said, ignoring the way Cale's eyes narrowed at the words lesser beings. "Very well. I acknowledge you fully as an opponent, but this means I will hold nothing back. Do you understand?"
+
+"Were you holding things back before?" Cale asked curiously.
+
+"A duel of magic is traditionally slow, to allow each mage time to show their respective strengths," Astiviya said. "That is different from a battle one would have in war, in which I would take advantage of your every weakness. And there is a significant weakness in your strategy."
+
+"And what might that be?"
+
+"You rely on evolving your spells," she said. "If you stick to this artificial restriction, you will lose. Spell evolution takes time. If I simply cast faster than you can evolve your spells, you will have little recourse but to use the full extent of your power against me."
+
+"Interesting thought," Cale said, grinning slightly. "Is that what you're aiming for now? To see the full extent of my power?"
+
+"It would only be polite," Astiviya said. She seemed less interested in winning the duel itself, now—the fire in her eyes still burned, but it was a different kind of fire.
+
+Excellent.
+
+She brought all four hands together, and between them, a ball of black-red flame grew. This time, there was no hesitation before she threw it at him. Cale only barely had time to glimpse what his [Draconic Insight] said of the spell.
+
+[Fireball of War, Level 17] [Eighth Tier, Active (Unique)] [1.0e21 Mana]A Fireball spell fused with the Flames of War spell. This spell has all the explosive force of an eighth-tier fireball, but imposes an additional effect: the fires created will increase aggression and anger in its targets.
+
+This is an ideal spell for causing chaos within enemy ranks by making them fight amongst one another. Alternatively, should your own forces be relatively flammable but not prone to death by fire, you may use this spell to create an army of flaming, angry soldiers who will stop at nothing to achieve your goals.
+
+If not for the fact that he had only a second to react to the spell, Cale would have quipped something about how this spell was particularly strange. Why in the world did it have a list of suggestions from the Gift on how to use it? Was it one of the first spells Astiviya had acquired as the Goddess of War, or something?
+
+(He would later learn that it was, in fact, one of the first spells she had learned as the Goddess of War. At the time she received this spell, the Gift had been set to tutorial mode, which was apparently something available exclusively to the gods. Why such a thing would only be available to the gods was beyond him.)
+
+"Thing is," Cale said. "Even if you cast the spell quickly, all I have to do is slow it down."
+
+He poured his intent into the ball of flame as it approached, and Astiviya stared in disbelief as it slowed and began to wobble like it was drunk. Cale, meanwhile, set to work pouring his mana into [Enhance Fortitude].
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Enhance Fortitude] has evolved into [Oblivion's Maw]!
+
+Cale blinked. He hadn't quite been aiming for that... But he supposed it did what he needed it to. Hopefully it didn't traumatize too many of those watching.
+
+He opened his mouth, which stretched and stretched until it could encompass all of Astiviya's [Fireball of War]. Rather than his regular, human features, what appeared within was instead the fangs and endless stomach of an oblivion-eater, a particular critter found in the infernal realms that Cale thought made excellent pets. It was too bad they couldn't survive outside those realms.
+
+Whichever one he'd connected to for this would probably find this to be a treat, though. He munched on the spell a few times, feeling it dissolve into traces of something that tasted oddly like tomato and cardamom.
+
+Ah. But Astiviya wasn't quite letting up. She was right about his weakness, technically; spell evolutions took time, and in the time he had taken to eat this one spell she had already fired off another two, one of which was a swarm of voidleeches that were poisonous to oblivion-eaters.
+
+So she hadn't lied about taking the fight seriously, had she? Cale was glad he had such a capable opponent. It made the fight far more interesting.
+
+Unfortunately for her, nothing in the rules said he could evolve only a single spell at once.
+
+[Enhance Speed] has evolved to [Ethereal Flickerstep]!
+
+[Elemental Bolt] has evolved to [Lightning Storm]!
+
+[Create Impact] has evolved to [Contact Shatter]!
+
+[Lightning Storm] dealt with the voidleeches, which were famously weak to electricity; they fell to the ground, stunned, once the lightning tore through them. [Ethereal Flickerstep] made the world seem to slow to almost nothing around him. Astiviya had prepared for that, for her spell had conjured what seemed like thousands of daggers to slice through him no matter how he moved.
+
+But that was what the ethereal part was for, wasn't it? He phased straight through them.
+
+[Contact Shatter] was a melee-range spell. It wasn't quite what he'd been looking for, but [Ethereal Flickerstep] made up for that. The spell itself was simple: if its caster could make contact with a barrier, it would generate the exact amount of physical force needed to break it.
+
+Cale rematerialized in front of Astiviya, caught her outstretched hand, which had been in the middle of a cast, and shook it as though she had offered it. "I'll be pleased to meet the real you very soon," he told her.
+
+Her barrier shattered with a bright, ringing sound, and moments later, golden light exploded from Cale, signifying his victory in the second challenge.

@@ -1,0 +1,247 @@
+---
+id: a9310c6d-5390-566b-9e18-b23f85bfcf7a
+page-type-slug: story-chapter-royal-road
+title: "20. Bidding War"
+slug: 0020-20-bidding-war
+partOf: mana-devourer-litrpgmana-cultivation
+position: 20
+ownLength: 2603
+unit: words
+publishedAt: 2024-07-10
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1712493/20-bidding-war"
+royalRoadId: "1712493"
+---
+
+“Please… please fuck off.”
+
+Only five minutes ago he was knocking against the great glowing doors of heaven, and in the time that’d passed since, these rich fucks would not for the life of Markus stop badgering him.
+
+Nor for the death of him. Hell, he probably could’ve expired right there and those dopey idiots would stand and make offers to his corpse instead.
+
+Daven was repeatedly trying to heal Markus with magic, but for as much effort as he put into closing the wounds and fixing the breaks, Markus’ mana total just ended up ticking proportionally higher, and eventually, voice hoarse, Markus had to explain to Daven that if he kept this up, Markus would likely explode.
+
+The other prisoners had managed to wave away the rich for the time being, giving Markus at least enough time and space to be healed.
+
+“How’d you find the strength to finish it off in the end, anyways?” Daven asked. “I thought you were a goner once you fell off the eldrae.”
+
+“Eldrae?”
+
+“The four legged creature,” Daven explained.
+
+“Right…” Markus tried to make a mental note, and likely failed because his brain was currently mush. “As for how I won, I ate an Essence Stone. That gave me the strength I needed.”
+
+“Hold on, you ate one?” Daven stared at him as if he were utterly mad.
+
+“Y-yeah… I’ve eaten two recently. is that… bad?”
+
+Daven blinked. “I-I mean, not necessarily.”
+
+“You’re looking at me as if it’s bad.”
+
+“Do you know what Mana Toxicosis looks like? What even the early stages can do to a creature?”
+
+Markus shook his head. Maybe he should know.
+
+“See me? See how I’m blue?”
+
+Markus nodded. He was most certainly rather blue.
+
+“I never used to be blue.”
+
+Markus recoiled. He’d been running the risk of turning into a… smurf this whole time?
+
+Davos cracked a smile. “I’m joking. I’ve always been blue. The effects of toxicosis are far more mundane.”
+
+Markus breathed a sigh of relief.
+
+“Breath loss, heart palpitations, sores, mana leakage, inconsistent control of magic, sporadic hair loss, gout, yes, that’s a nasty one. Blisters, muscle spasms, chronic itching, insomnia, an acute stabbing pain in the navel, vertigo, nausea—”
+
+“Okay! Okay. Stop. Don’t eat stones anymore. Got it.”
+
+Daven shook his head. “Not what I was saying. If you can swallow an Essence Stone and not have those things happen to you, your tolerance is likely high enough that the occasional imbibement is fine. It is rather effective in combat, if expensive, and some creatures can handle an Essence Stone, especially a lower grade one.”
+
+“Right…”
+
+“But don’t pop them like they’re candies. They take about a day to leave your system for each grade beyond G. Use too many and you’re asking to damage yourself.”
+
+Markus fished the last stone out of his pocket and showed it to Daven. “Can you tell what grade this is?”
+
+“D! I haven’t seen these in years! Where did you get this?!”
+
+“A god gave them to me,” Markus admitted.
+
+“Oh, a god gave them to you?” Daven rolled his eyes. “Well whoop-de-doo. Good on them for not explaining any of this to you. Anyways, you’ve kind of ruined my premonition of us all dying horribly. I feel like you aren’t meant to be here. Are you from another world?”
+
+“You can tell that easily?”
+
+“Of course. The humans from this planet don’t have hair on their faces. It’s a dead giveaway. Well, that and the fact you could make mincemeat of a monster like that. Besides, my premonitions are never wrong, unless something happens to come along and change them.”
+
+That’s… so unspecific. That makes it sound like they’re always wrong…
+
+“Warrior!” came the shout of a portly man, pushing past the other prisoners to be heard and seen by Markus. “I’ve come to offer you five thousand gold pieces. Would you be interested in becoming my bodyguard?”
+
+“Five thousand?” Markus repeated back to him, laughing despite the pain racking his chest. “You were bidding hundreds of thousands for that monster I killed.”
+
+“No, you’re right…” The large man nodded. “ten thousand, for twenty years of service! That’s more money than you could earn in a lifetime! Three lifetimes!”
+
+“You are tight-fisted, aren’t you…” A well-built woman moaned, all but pushing him to the side as she approached. “I don’t feel it’s fair to take advantage of your position. Eight thousand a year, and you can tutor my sons on how to fight like that.”
+
+“I’m under a contract,” Markus stated, rubbing the back of his head as he spoke, still dizzy. “You’d have to pay off the rest of that first, I think, even if we came to an agreement.”
+
+“Well, what’s the value of your contract currently sitting at?”
+
+“Uhh…” Markus pulled up his system and looked for the journal tab, under which he found his contract. Was there a way to… oh. He thought that was a log number for every contract that’d ever been made or something. That was the value.
+
+“It’s…” Markus attempted to parse the number through his double-vision, but he was struggling immensely.
+
+“It’s a lot. Millions. Tens of millions? I’m not sure.”
+
+“How many numbers are there? Try to count the numbers.”
+
+“Uhh… three, four, five… Holy fuck. Nine digits?”
+
+“Oh my. I’d have to sell some of my assets to comfortably afford you.”
+
+“I wouldn’t,” a male voice popped up. “Perhaps I’m interested.”
+
+Fuck me. Between gods, demons, and nobles, is there anyone on this planet that ISN’T trying to purchase me?
+
+Markus grit his teeth as he listened to them bicker between one another about who could offer more. Here he was bloody and beaten with a severely broken arm and these guys wanted to, they wanted to…
+
+“You know what? Fuck this. I’m not for sale today. If you wanna thank me for the private show of a fucking lifetime just now, then buy these guys!” He tried to point to the prisoners stood around him. It hurt to point. “I’m sure they won’t cost you hundreds of millions. Probably substantially less!”
+
+“Wh-what are we meant to do with a bunch of ragtag prisoners?” the large man asked, scratching his head. “I’d buy the mage for a hundred, maybe, but the rest aren’t even worth a bag of silver from what I’m seeing. Do you… people have any qualities that make you worth owning?”
+
+“Grr…” Markus stood in spite of the pain, marching a few steps towards the large bald man, watching as his eyebrows raised. “I’m not saying you should own them, I’m saying you should buy their freedom! That you should save them!”
+
+The man bit his grip, staring between Markus and the other prisoners as if it were some great riddle. “Why would I do that? Does it benefit me in some way?”
+
+“It benefits you not to anger me and do as I fucking say!”
+
+Markus didn’t know whether to punch this guy or tear his own hair out. He didn’t know if the morality of this place was just so twisted that compassion didn’t make sense or if it were simply that this guy specifically was too stupid to understand it.
+
+He was starting to feel weak again. His head was spinning. He could crash and hit the floor at any moment. The only thing keeping him standing was his desire to throttle this guy.
+
+Maybe it was both. Maybe it didn’t matter. Even trying to do the right thing was starting to feel pointless, so why the fuck was he bothering?
+
+“I’ll purchase their freedom,” came a voice, female, light and airy.
+
+Markus could almost swear he recognised it, but through the headrush of recently launching to his feet, it was hard to discern from where.
+
+All he knew was this: it restored his faith in the universe a little.
+
+Soon enough, he came crashing back down again, and when he awoke once more, it was to Elasar’s face staring down at him.
+
+“Well? Aren’t you a specimen? And just where did you appear from?”
+
+Markus said nothing. He felt too sick, too braindead to attempt to speak. Even as petrified as he was face to face with this creature, he didn’t manage to say a word in his defense.
+
+“Hmm… you appear to be overcome with sickness. Let me help you.”
+
+Elasar pressed a single palm to Markus’ chest, and within moments, the incredible mana building up inside of his body had begun to dissipate, not being absorbed by Elasar, he didn’t think, but being nullified entirely.
+
+Is this guy a Mana Manipulator too? How the fuck did he do that?
+
+“There. Now, that’s temporary, so you’re going to want to do something about your problem quickly when that seal evaporates. Else, you can imagine what happens.”
+
+Markus shakily nodded. He felt miles better with the effects of the sickness falling away, his Mana Capacity essentially reduced to only his Divine and Mystic Mana as the rest of it was seemingly locked in a tiny portion of his body where it couldn’t wreak havoc on the rest of him, at least for now.
+
+“Now, I’m curious as to how you wound up in my private chamber. Why would a creature of your obvious power be chosen for a demonstration? I’m told you essentially killed the hatchling single-handed.”
+
+That thing was a fucking hatchling?!
+
+“Yes. Less than a week old. In another five days its size would’ve likely doubled.”
+
+“How did you—”
+
+“No, I can’t read minds. Your face is extremely expressive, however.” He chuckled to himself. “Well, I assume you thought I’d be livid from how you’re acting, but far from it! Happening across a creature with such combat prowess is rare. Tell me, how did you kill my creation?”
+
+Markus tapped his glaive. “Well… I… cut its heads off…”
+
+He was intrinsically afraid of offending Elasar, so much so he’d clamped up and didn’t know what to say. None of the other gods had had this sheer aura about them—it was abhorrent. When his eyes were trained upon Markus, he felt he couldn’t turn anywhere, do anything.
+
+“Yes, you did!” He frowned. “Hmm. Do you mind if I simply appraise you? It might be faster.”
+
+What the fuck was he supposed to do, say no? This wasn’t a Divine Virtue that he could attempt to resist, this was a demon compelling him to do as he was fucking told! Even thinking the word ‘no’ felt like an unquestionably burdensome weight in his mind, he could barely hold the notion!
+
+Markus forced himself to nod, and Elasar grabbed him by the wrist.
+
+This appraisal was far less probing and crude than the one he’d been put through upon first arriving, and it lasted half as long. Within seconds, Elasar snaked back his hand, audibly gasping.
+
+“You’re…”
+
+He turned to the rest of the gathered crowd, offering them a deep bow. “My many apologies for the winner of the trimander bid, I promise to have another prepared for you within the fortnight. I’ll be happy to return to the proceedings momentarily! If you will, please help yourself to drinks and snacks in the meantime.”
+
+With a wave of his hand, Elasar summoned an entire table full of varied foods and wines, and with a crackle of burning flame, he whisked both himself and Markus into another room.
+
+“Make a contract with me,” he said immediately upon them arriving, Markus’ head spinning from the sudden travel. “I demand it. I’ll give you anything you desire. Anything. Name it.”
+
+“I…”
+
+“Yes? What is it?”
+
+“...could you send me back to Earth?”
+
+“Earth?” Elasar’s head tilted. “What is Earth?”
+
+“The planet I came from?” Markus tensed his body, forcing himself to continue speaking, the hardest he’d ever had to push for a few words. “Also, either way, I’m not for sa—”
+
+“You’re from another…” Suddenly, a lightbulb seemed to turn on in Elasar’s brain. His face grew immensely stern—like that of a statue. “Drathok summoned you here.”
+
+“Yes.”
+
+“Drathok made a soul contract with you already.”
+
+Markus couldn’t help but flinch as those red eyes continued to bore into him, so intense he thought they might fry his skin. “Yes, he did.”
+
+His voice was incredibly, impossibly soft, so much so it was barely perceptible.
+
+“What are the terms?”
+
+Still, Markus picked up every word. He couldn’t afford not to.
+
+“Ten fights and I go free. I’ve already fought two.”
+
+“You’ve fought two battles already… and between your fights, have you been approached by anyone?”
+
+“Yeah. Gods. Drathok intends to sell me to one of them.”
+
+Markus left off the part about how he didn’t intend to say yes to anyone. He was pretty sure this demon was a hair trigger away from crushing his skull.
+
+For an intangible length of time, Elasar was silent. There was no room around him, no detail to describe. Only his face, his reactions, his tone. Markus could feel in his heart that every instant he spent breathing before this man hinged upon those things and those things only.
+
+Eventually, Elasar smiled. “Well, wonderful! What a find you were. Go and collect your weapon, say your goodbyes, and we’ll return you to your cell. Sound like a plan?”
+
+Markus smiled and nodded, and kept that vacant smile upon his lips until he’d finally been teleported back to his bed, Cyrus sleeping, Ember notably absent.
+
+He was left with one final command before he left, and it was simple:
+
+“Please do not speak of our meeting to anyone, nor about any of what transpires below.”
+
+Of course he’d agreed. He was pretty sure he’d even meant it at the time.
+
+Fuck.
+
+He’d kept his head through that conversation somehow. He couldn’t explain it, he couldn’t rationalise it, but somehow, that had been the most terrifying experience he’d had since arriving, and it wasn’t close.
+
+He had no true idea what that’d all been about. He was sure if he thought about it, he could figure something out, something to do with Elasar not knowing about his existence, and something more about the many reasons there might’ve been to hide what he’d seen, and then there were the parts his mind was too hazy to sift through…
+
+Never mind. That was all of it. His mind was too muddled to make sense of a single word or even flashing image of what’d transpired. He could have the solutions to everything bound together in a goddamn picture book right now and he still wouldn’t be able to make heads or tails of it.
+
+Markus was exhausted. Markus’ head hurt. Markus’ body ached.
+
+Markus was still residually terrified.
+
+And Markus really needed another bath now. He was caked in dried trimander blood.
+
+Speaking of blood, he had a fresh Mana Core to use and a decision to make, and it was just the decision laying at the top of a laundry list of notifications that’d ticked over from his last fight.
+
+This choice seemed to take precedence though. It felt the most pressing of everything here, and Markus wanted to deal with it before the seal on his mana began to wear off. There was a good chance the choices he made here would dictate the pace of everything he did next.
+
+[Malichor blade (Unawakened 9): 45 points available.]
+
+[Blood Required for Evolution: 102/100.]
+
+[Evolve weapon? Mana Core Required.]
+
+[C Grade Fledgling Tri Core (Caustic, Flame, Frost) absorbed. Would you like to affix this core to a slot (2/4), or would you like to affix it to your weapon? (0/1).]

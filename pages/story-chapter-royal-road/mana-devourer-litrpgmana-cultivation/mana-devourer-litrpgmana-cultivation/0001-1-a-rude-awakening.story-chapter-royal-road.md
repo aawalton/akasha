@@ -1,0 +1,339 @@
+---
+id: 8b3a5e6b-9d3b-5705-b570-713a0597b8fa
+page-type-slug: story-chapter-royal-road
+title: "1. A Rude Awakening"
+slug: 0001-1-a-rude-awakening
+partOf: mana-devourer-litrpgmana-cultivation
+position: 1
+ownLength: 4446
+unit: words
+publishedAt: 2024-06-29
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697774/1-a-rude-awakening"
+royalRoadId: "1697774"
+---
+
+Markus reached over for the half-empty can of energy drink beside him and found his hand brushing cold, hard stone instead.
+
+“Greetings, combatant.”
+
+“What in the hell?..”
+
+This wasn’t right. This wasn’t even half right. Markus’ eyes shot open, fully alert, moreso than he thought possible without a carbonated stimulant at the ready. The sight that greeted him made him wanna go straight back to sleep.
+
+A red-eyed, grey-horned creature with slits for nostrils and a fanged, toothy smile stared down at him, shrouded by an entourage of robed creatures whose features Markus couldn’t quite make out. The entire room was blanketed by a muted red glow.
+
+“The fuck is this…” Markus rubbed the sleep from his eyes, jolting back as horror quickly substituted sleepy inertia, only for his back to brush against an invisible wall that kept him locked in place. The desire to go back to his bed, back to his life, and back to his soon to be finishing download were extremely strong. He’d even set his alarm an hour early so he could game a little before he left for work, and now…
+
+He looked down only to find that not only did this same transparent wall seem to surround him in a wide circle, but that below him, intricate symbols and carvings had been freshly placed, painted in what he could only assume in his panic-addled mind to be blood.
+
+“Shit. I ain’t even played Hades 2 yet…”
+
+He was somewhere between laughing and shaking, fear and disbelief. Gone were his usual threads, no stained grey hoodie, no baseball cap, no ripped jeans or odd socks. Instead, they’d been swapped out for cuffs and manacles, as well as a plain black robe that ran all the way to his ankles.
+
+At least he had his modesty. Hell couldn’t be THAT terrible if they took the time to dress you, right?
+
+The strange, hellish creature looked down at him with a faint sense of bemusement, before brandishing a small flicker of electricity from his right hand. Markus’ eyes followed. He couldn’t see a taser or anything in the creature’s grip.
+
+Magic?
+
+“Strange. Usually otherworlders take longer to subdue. I’m accustomed to prolonged bouts of hysteria.”
+
+“I’m sorry, would you feel better if I started crying?”
+
+The demonic creature tutted, before waving his hand at what Markus could only assume were his subordinates. At once, the creatures around him lowered their hands, and the invisible barrier behind Markus fell away. He crashed back against the hard stone ground, barely avoiding slamming his head, only for a text box to immediately pop up in front of his face.
+
+[Containment field deactivated. System integration initialising.]
+
+[Processing…]
+
+[Warning: subject’s World of Origin is undocumented. Subject’s inborn traits and physiology may not be fully compatible with this world. Unique traits may emerge. Would you like to return the subject?]
+
+“What in the…”
+
+Markus was struggling to read it all. His eyes were still blurred, and he hadn’t expected a litany of text to suddenly get dropped in his face. He didn’t have a clue what half of this meant…
+
+“Relax.”
+
+That was all the guidance he got, and Markus watched skeptically as the demon pressed a couple of buttons and verbally said the words ‘no’ and ‘yes’ once or twice each, all the while growing increasingly cognisant of his thundering heart.
+
+The boxes were going too fast for Markus to read at this point, barely even appearing for an instant before being accepted or declined, and that either meant that his summoner had exceptional reading skills or he’d gone through this set of options many, many times before.
+
+Before Markus could ponder the implications, a new text box appeared, this one not instantly getting whisked away like the rest. It seemed apparent that his summoner was intent on him at least getting to read this one.
+
+[Greetings, Markus Brown. Welcome to Firrelia, The First World.]
+
+“Uhh… thanks, I guess?”
+
+[Your astral spirit and physical body have been summoned to Firrelia by means of ritual magic. You are hereby bound to a Firrelian system, through which the potential of your body and soul will be summarily measured.]
+
+That was pretty foreboding. Always the off-chance this was a cool thing that he’d wind up being grateful for? …probably not. The implication that his body and soul had been whisked across space was pretty hard for Markus to get his head around, and the confirmation of the cause being magic was just that bit more bonkers, even if it’d been incredibly obvious from the start.
+
+The demon cleared his throat. “Now that you understand your situation—”
+
+“That’s an overstatement,” Markus laughed; he couldn’t help it. “Five hours ago I was crawling into bed on Earth and setting my alarm. All I ‘understand’ is that I’m probably gonna be late to work now.”
+
+“Earth, hmm?” The demon inspected his fingernails as he spoke, another spark shooting across his hand as Markus interjected. If he was bothered by it, his tone didn’t betray his anger. “Is that the little world that I plucked you from?”
+
+Markus’ head tilted. “You don’t even know where I came from? You summoned me here, didn’t you?”
+
+“You were pulled from deep space as a last-minute replacement. One of our combatants… expired upon arrival, and I was pressed for time, so I deigned to gamble on a specimen from an unknown world.” His eyes narrowed, and with a click of his fingers, Markus was launched to his feet. “Are you ready for your appraisal?”
+
+Without being given any time for a response, one of the demon’s hooded subordinates stepped forwards, placing an icy, calloused hand upon Markus’ wrist. Explosive pain immediately shot out from the point of contact, as all the while, text boxes began to flash around Markus once more.
+
+[Growth stat estimated range: E to SS.]
+
+[Inborn trait established: ???.]
+
+[Unique trait established: ???.]
+
+[Traits are currently unlisted. Attempting to calibrate against documented skills and passives.]
+
+[Decoding…]
+
+[Inborn trait decoded: Mana Manipulation. Ability Grade: ?]
+
+“Mana Manipulation?..”
+
+It had been the creature holding him that had whispered it, not Markus, who was currently too busy dealing with freezing pain shooting through his whole body to whisper shit.
+
+[Unique trait is… unidentifiable.]
+
+“Sir… his ability scores are all reading as rather low, but he has—”
+
+[Prolonged contact established. Would you like to absorb this creature’s essence?]
+
+Huh? What did that mean?
+
+All at once, Markus felt the agony cessate as the demon clicked his fingers and his subordinate immediately let up on the torture, causing the system’s strange offer to vanish. “Yes. It seems he’ll do just fine.”
+
+“Isn’t that ability—”
+
+The demon briskly waved him away. “It’s likely a useless permutation. The grading could also be low. I suppose we will see soon enough, though.”
+
+Whatever it was, the ghoulish looking creature that had appraised him seemed pretty riled up about it. Markus imagined Mana Manipulation had to be at least a somewhat uncommon thing to see, else he wouldn’t have said anything.
+
+Still, he didn’t like the sound of his ability scores being ‘low’. Could he see those himself somehow?
+
+The demon turned to Markus as he rubbed his sore wrist, his eyes glinting like rubies in the darkness. He smiled. “Well, Markus Brown, it seems you’re just about good enough to die for us! What do you say? Ready for your new life to begin?”
+
+Markus ignored him, alongside the unnatural, static feeling in his body that still persisted after being magically scanned. This was all so much to take in…
+
+Finally, he grit his teeth. “I’m not interested in whatever you’re selling me. I don’t want to be a combatant, or a mana whatever. What I’d really like to do is go home.”
+
+Now it was the demon’s turn to laugh, a short, barking snap that his subordinates seemed to emulate by instinct more than anything.
+
+The demon leaned in, regarding Markus with a measured, imperious stare. He lowered his tone, its richness substituted for cold depth. “Let us be clear. I own you. You were summoned for the purpose of entertainment, and you will entertain. Alternatively, you will be disposed of and quickly replaced.”
+
+Markus felt his legs threatening to buckle. There was a literal demon snarling over him, his breath so hot that even a full foot away the creature made him sweat, teeth so sharp he looked as if he could tear Markus in half with a single bite. Not to mention his entourage. He couldn’t even tell what those guys were with how they were hooded and garbed, but he could only assume they looked just as nasty and imposing as their leader.
+
+[Drathok of the Severed Star wishes to make a soul contract with you. Would you like to view terms?]
+
+A soul contract? Well, that sounded just wonderful.
+
+Markus reached out to touch the latest text box, and another one appeared instantaneously.
+
+[With this signing, your soul is intrinsically bound to the will of Drathok of the Severed Star. Drathok may call upon you to fight for him at any time and you are forced to oblige him with both courteous respect and diligent focus.]
+
+[Failure to oblige will result in your immediate termination.]
+
+[Do you accept these terms? Yes/No.]
+
+Yup. That sounded like your average showbiz contract.
+
+Ugh…
+
+He’d be a madman not to accept whatever document he was presented with, what with this terror staring him in the face. He’d have to have an absolute death wish.
+
+But…
+
+“Not interested. Just kill me here.”
+
+For a long, painful moment, there was only silence.
+
+The demon clicked his tongue. Licked his lips. Fire danced behind his eyes, and not in a figurative sense either. He reached a clawed hand forwards, and for a moment, Markus thought he’d made a terrible mistake, that the demon would simply oblige his request and crush the life out of him right there and then, but before he could attempt any prayers or try to take off sprinting, Drathok stayed his hand.
+
+“Please… explain your decision.”
+
+“You’re just gonna use me to fight until I die anyways, you already told me as much. Why die for your profit when I can just die here and save myself the trouble? Better death than a life of servitude.”
+
+Drathok smirked, an evil thing devoid of any real mirth. It was more like a predatory mimicry of human emotion than anything remotely genuine. He reached forwards, grabbing Markus by the already aching wrist.
+
+In an instant, his entire body was convulsing with electricity, frying him from the inside out. He felt as if his soul were being split into a million fractions, his body not so much a collection of neurons and signals as it was an orchestra of pain receptors firing at full tilt… his vision was beyond blurred, stomach convulsing, each of his senses in overdrive as he struggled to maintain any sense or semblance of self beyond the mind-numbing pain.
+
+Just as suddenly, it stopped, retreated, retracted, as all the while Drathok held his limp body like a wet rag.
+
+“Do you wish to reconsider your position?”
+
+[D Grade Shock Mana absorbed. Retaliation Strike available.]
+
+“The fact…” Markus was cut short by a cough. What had that said? I absorbed something from Drathok’s attack? Was it because I touched him? Was this my new power at play somehow?
+
+Even if it was, he was sure it was nothing he could use to force his way out of this situation. If it was just Drathok, he might try his luck, but with all these other creatures stood around him… Diplomacy was surely best.
+
+He hacked and wheezed his way through the next ten seconds before finally attempting to speak again, forcing himself on-balance and back to his own feet all the while. “The fact you haven’t killed me yet tells me there’s a reason. If I was that easy to replace then you’d have done it already.”
+
+“You think you’re clever, you insect?” Drathok growled, molten coals rumbling in his throat. He glanced at a new screen for a moment, one Markus could only assume came from his own system, then looked back at him.
+
+“Fine…” Drathok smirked again, that same smile that came with inflicting pain. “I’ve revised my contract. Tell me if it’s more appealing to you now.”
+
+[With this signing, your soul is intrinsically bound to the will of Drathok of the Severed Star. Drathok may call upon you to fight for him during scheduled arena bouts and you are obligated to participate in earnest. Your contract will be satisfied after twenty consecutive victories in armed combat.]
+
+[Victories will earn you rewards which may help you to fight onward.]
+
+[Do you accept these terms? Yes/No.]
+
+Markus read the terms carefully after they were shoved in front of him. It was still worded in a very predatory manner, and it didn’t say anything about what precisely might happen after the contract was satisfied, but the clarification about rewards and an actual end-condition for the contract was at least something to feel positive about.
+
+It wasn’t indefinite slavery. It was actually a lot better than that. It was an opportunity to find a way to thrive in this world, maybe even a way home.
+
+Still…
+
+“Well? Is this more to your liking?”
+
+“Twenty is too many. Ten fights.”
+
+With that, Markus lost his pinkie finger. Searing, horrible pain gripped him as the demon sliced the finger from his left hand without even making contact with him, then all at once cauterised the wound with the glow of blue-hot flame.
+
+[Transfer initiated. C Grade Flame Mana absorbed.]
+
+“Twenty fights. I need a presentable combatant now. I do not need him in perfect condition.”
+
+Markus swore, clutching at his wounded hand. The pain was fading unnaturally fast, but the shock and phantom sense were in full force, and all at once, he was realising just how much he might’ve overplayed his hand, even to the point that he’d lost some of it.
+
+Still, I took something from him again… Flame Mana. He didn’t even touch me that time, and I still took a bit of his energy.
+
+But with the bevy of mana he’d absorbed from Drathok’s attacks, maybe this would be one of his more fortuitous mistakes…
+
+“Ten fights,” Markus growled, ignoring his recent injury as best he could, staring straight into the demon’s eyes. “Or you can find a new last minute fighter. Think you’ll have time?” Markus forced himself to smile. “Well, what about it? Better make your mind up quick… clock’s ticking, buddy.”
+
+“Grr…” The demon swiped the air and replaced the contract before him once more. “You are a difficult creature, Markus Brown.”
+
+“And you’re a fucking asshole.”
+
+Markus signed the contract as soon as he’d checked it for any last minute loopholes, but the demon insisted on shaking. Guess that custom existed wherever Firrelia was, too. Grinning fiercely, Drathok extended his left hand, prompting Markus to do the same, trying not to stare at the charred nub where his pinkie had once been.
+
+The demon squeezed hard, hard enough that Markus almost wished he’d cut off the rest of the hand too so he didn’t have to experience this anymore.
+
+Then, another prompt:
+
+[Contact Established. Absorb this creature’s essence?]
+
+It was so tempting to say ‘yes’, to see what might happen if he did, but Markus held what seemed to be his biggest trump card back for now. Whatever he’d been doing up until now via passive absorption seemed to be fairly undetectable to these guys, but he imagined straight up essence draining wouldn’t be as invisible to them, nor taken kindly.
+
+Drathok continued to smile as they shook, but it was a facade. Any form of compromise with an otherworlder must’ve been a horrible concession for him. This was his way of ensuring he showed Markus just how much he’d revel in his newfound servitude.
+
+As soon as he let go, the circle around Markus pulsed, and the demon gave a neighbourly wave. “Now, you’re due out in four minutes. Take the time to select weapons, pray, soil yourself, whatever it is you need do. And do try to put on a good show for your new gods.”
+
+My new gods?..
+
+With that, reality flashed out of focus, and Markus was whisked away from the chamber full of demons to a large, torch-lit room filled with various weapons and pieces of armour, of which he didn’t even recognise the use of half. There was a persistent rumble above, though he couldn’t figure out why or what it was.
+
+“You the new summon?” A horrible purple thing with tentacles on its face asked, looking up from a nearby desk.
+
+“I… yeah.” Markus didn’t have time to question it. His eyes scanned the various items all out on display, some of them rusted, some stained by blood. “Any idea what I should grab?”
+
+The tentacled creature glanced him up and down. “Something heavy if you wanna die quickly… Something light if you wanna die slow.”
+
+Well, that’s fucking helpful. Markus searched out a weapon in a hurry, pushing his way through spears and axes, maces and morningstars, kunai and daggers, trying to find something that made sense to him, that fit his real-world knowledge whatsoever.
+
+No guns or tire irons here, that was for sure. Time was ticking. When Markus looked up, the creature had gotten up from his table and started to pull open a large metal grate which he could only assume led to his destination.
+
+“Two minutes,” the guard stated, looking down at Markus with eyes bereft of any obvious emotion.
+
+Markus was no closer to picking anything than when he’d started. He’d been about to grab a sword and just try his luck with it when suddenly he happened across something else.
+
+It was a…
+
+[Identify: Glaive. Long wooden pole affixed with curved, single-bladed tip. Ideal for combat at four to eight feet.]
+
+[Weapon Grade: Unknown.]
+
+It was a glaive, apparently. More apparently, his system had identified it for him? Whatever, he didn’t have time to ponder that, and the glaive would have to do. Looked easier to swing from a distance than a spear, and Markus was sure he wasn’t gonna want to get close to whatever was waiting for him out there.
+
+He grabbed it, and a new prompt came up.
+
+[Iron Glaive equipped.]
+
+[Attune this weapon to an essence? Flame, Shock, and Spirit Mana available. Mystic Mana available, but incompatible.]
+
+Were those all the things I’d absorbed already? He wished he understood how they all worked, and what the attunement process even did, but he was pressed for time as it was and he had no clue if he’d get a chance to do this later. He selected ‘yes’ and began to attune his weapon to flame mana, watching as the previously dull and uninteresting blade took on new life, glowing with mystical arcane carvings as the blade seemed to take on its own warm, orange glow.
+
+Suddenly, Markus was thankful he hadn’t grabbed a metal sword or dagger. It might’ve been too hot to hold with the heat suddenly being conducted through it. He could only hope this would help with whatever came next.
+
+…what did come next?
+
+“One minute left.”
+
+The voice made him realise just as much. He had no clue what he was even fighting! Why’d he gotten such little time to prepare?!
+
+“Hey, any chance you know what I’m facing out there?”
+
+“Horror.”
+
+“I can tell why you aren’t my new tour guide,” Markus spat, marching past the tentacled guard into the dark unknown.
+
+Torches lit themselves as his feet compelled themselves forwards, a digital timer ticking down at the edge of his vision. It was his job to fight now. If he didn’t, he was as good as dead, and regardless of how little preparation he might’ve had, Markus was determined to see this through. He hadn’t gambled his life pushing for a potential way out to squander that now, and if there was even a chance he could see his way through his first fight, he’d grab it and run with it.
+
+There was no way he was dying in the middle of some sick arena on some random bumfuck planet, not after everything he’d been through back home. No. He was gonna fight his way through this and get back to his life, to the one thing that mattered. He was determined to make this work.
+
+The rumbling sound from earlier became increasingly clear the closer he came to his fate. It wasn’t thunder, it was cheers and boos, shouting and jeering. A packed audience waiting for him to come out and give them a show.
+
+He’d give them a fucking show alright. He’d get through this if it took every last thing he had.
+
+Markus clutched his fiery glaive tighter as he approached the ring, fuelled by desperate bravado, by fierce determination. Whatever awaited him on the other side was just another challenge for him to conquer, another trial for him to blaze through, another day for him to seize.
+
+Because he’d been doing so much of that in his old life, hadn’t he?
+
+“Grr… fuck this!”
+
+He shouted it at no one in particular. Perhaps god, if there was such a thing, for stranding him in this new mayhem. The gates creaked open, and the crowd exploded into fresh, rapturous cheer, their excitement swirling and only continuing to elevate as he stepped forth into the arena, a gleeful announcer taking over, his magically amplified voice peaking over the invigorated crowd.
+
+“ALLLLRIGHT, SUN CITY! IT’S TIME FOR THE NEXT EXHIBITION! AREEEE YOUUU READDYYYY?”
+
+More cheers. More boos. As Markus stepped out into the arena, the first thing he noted was just how massive it was—like the Colosseum on Earth, but perhaps even larger, with a crowd so loud and energetic it’d make packed rock concerts seem quiet and dull by contrast.
+
+It was terrifying. He couldn’t make out faces from here, but while some of the creatures looked to be strangely shaped and sized, others seemed almost human-looking, or at the very least, humanoid.
+
+Creatures of all shapes and sizes had come to see him get torn apart. Terrific.
+
+“ON THE REEED SIDE, WE HAVE WHAT APPEARS TO BE A REGULAR HUMAN, BUT DON’T BE FOOLED! THIS CREATURE HAILS FROM A PLANET SO FAR FROM HERE, SO PRIMITIVE, THAT THERE IS NO CHANCE HE COULD EVER COMPARE TO A FIRELLIAN! NOTE HIS GREEN EYES, THE DARK HAIR ON HIS FACE! WHATTTT A FREAKSHOW! MAY THE GODS FIND AMUSEMENT IN HIS DEATH!”
+
+This display elicited shouting, pointing, laughter, and more cheers as Markus’ face was plastered on a magical screen for all around to see up close. This raised many questions, but there was only one on Markus’ mind right now, and that was what the fuck the creature lurching its way through the much larger gate opposite him even fucking was.
+
+“AND ON THE BLUEEEEE SIDEEEEE, A HORRIFIC MONSTER FOUND DEEP WITHIN THE D GRADE ALZORE ZONE! IT TOOK FOUR HUNTERS TO BAG HIM, AND THOSE ARE JUST THE ONES THAT DIED! THE BIGGEST BULLY IN ITS HABITAT, UGLY AND POWERFUL AS ALL SIN, BUT IT’S GOT THE CHARISMA TO MAKE UP FOR IT!”
+
+With that, the creature let forth a mighty belch, as if on queue, with such intensity that the entire arena began to shake. Fucking charming.
+
+“GIVE IT UP FOR OUR STAR OF THE SHOW, THE CUDDLIEST CRITTER YOU EVER SAW, THE ABOMINABLE BULLEATERRR.”
+
+The more the terrible creature swayed and bounded its way onto the scene, the more the name began to feel like an understatement. That thing looked like it’d take a bull as a light snack, let alone a full meal.
+
+He was supposed to fight that?
+
+“AND NOWWWW, LET THE SLAUGHTERRRR BEGINNNN!”
+
+Well, no. He wasn’t supposed to fight it, was he? He was supposed to flail and die against that.
+
+Walking on four legs, the creature was easily twice Markus’ height, perhaps moreso, and if he had to guess, likely two or three times as thick as a horse, its body more akin to that of a hippo or a rhinoceros, if not for the oblong angles of its face and shoulders, the way it hunched, the spittle dripping down from its jowls that seemed to freeze the arena floor below…
+
+As Markus took stock of this threat, its apparent strength, its weight, and the fact that apparently four people had given their lives just to capture this thing, a few things became apparent to him all at once:
+
+One, the prospect of him winning even one fight here was a joke, let alone ten. That fucking demon had probably been laughing at his expense all along. He probably found it even funnier to make Markus think there might be a path out of this.
+
+Fuck it, I’ll forge my own path.
+
+Two, the arena was designed to discourage him hiding. Everything was spiked and serrated, so if he were to attempt to crawl into a crevice and wait for the creature to get tired, he’d only impale himself in the process, and there was nothing easily climbable that he could see.
+
+Doesn’t matter. No point in hiding anyways.
+
+Three, the creature hadn’t noticed him yet. He was likely too insignificant. He’d maybe have a few moments to think up a game plan before that thing decided he looked tasty. Its jaws looked like they radiated ice, a cool mist breezing from them. If that thing did gobble him up, at least he’d probably freeze before he felt himself being chewed to pieces.
+
+Still, there was one thing that demonic loser didn’t know about, and that was the trick up Markus’ sleeve, the one he was still only beginning to figure out now. He brandished his weapon, flames flickering from the tip as he stared up at his new foe. Then, he immediately cast [Identify], taking advantage of the small moment of preparation he’d been afforded.
+
+[Abominable Bulleater. Essence attunement: Ice. Level ??. Threat level: Extremely High.]
+
+Markus glared at the horrible creature’s ugly maw as it snarled and thrashed before him, but past it he saw only the burning eyes of the demonic summoner that had toyed with him, tortured him, and royally fucked him over. It was all he could think about.
+
+Extremely high, huh? Sounded better than impossible. He’d have to like those odds.
+
+Gritting his teeth, glaive in hand, Markus advanced on his prey, forcing his legs to move.

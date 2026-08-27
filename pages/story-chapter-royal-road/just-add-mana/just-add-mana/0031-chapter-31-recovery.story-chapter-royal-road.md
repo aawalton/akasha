@@ -1,0 +1,247 @@
+---
+id: fb6571e8-916f-5e78-92e8-80eff1d9b68c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31 — Recovery"
+slug: 0031-chapter-31-recovery
+partOf: just-add-mana
+position: 31
+ownLength: 3946
+unit: words
+ownProgress: 3946
+publishedAt: 2025-09-06
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2579362/chapter-31-recovery"
+royalRoadId: "2579362"
+markedReadAt: "2026-06-29T18:48:36.786Z"
+---
+
+Cale's mind lingered on a few of Sternkessel's questions, even after the professor brought back the rest of the class. The questions were nothing he hadn't considered before—he'd asked about the possibility of there being a curse placed on humanity, among other things—but as much as the effect fit the profile of some sort of censorship curse, curses were always anchored on something. They had loopholes and workarounds.
+
+Whatever this was didn't, at least as far as he knew. Any information about humanity's disappearance simply slipped past people entirely; the more Cale had tried to talk about it, the more whoever he was talking to would simply glaze over his words. Sternkessel was the first and only being he'd met within the Great Realms that could remember.
+
+That might be enough to make a difference. The professor had promised to look into it in his own time, and Cale was grateful for the offer.
+
+After that came the announcement of their final point totals. Cale's team ended that expedition with a grand total of forty-eight points, including the bonus Sternkessel offered at the end of it all. Cale was pretty sure the number was completely arbitrary and he'd simply rounded up enough to give them a credit each, but he wasn't complaining.
+
+Threek had gotten a pretty hefty bonus too. They had been delighted.
+
+Once Cale had exchanged the points for a few different Wing credits, he asked the others to lead him to the infirmary in the Vital Wing, at which point he finally got to witness what Leo and Damien had been so secretive about. Apparently one of the Astral Wing towers held what was, for lack of a better word, an immensely long slide.
+
+The slide led to an empty room in the Vital Wing, because of course it did. Damien had never been able to go down it because he risked destabilizing the magic entirely if any decay mana leaked out, but he wanted to. Cale almost thought the poor dreadshade would explode if they left down the slide without him.
+
+So of course he'd offered to cover him in a barrier for the duration of their Vital Wing visit. It wasn't like it'd be a lot of effort for him.
+
+Which led them to where they were now.
+
+Cale decided rather quickly that he didn't like the Vital Wing.
+
+He hated infirmaries in general, largely because they were a stark reminder of the aftermath of the Planar Collapse. There had been a time where infirmaries like these were far less ubiquitous—they were needed for dealing with outbreaks of different types of dark magic or nasty magical plagues, and rarely a necessity otherwise. Healing and life spells had once been prolific and easy to come by, and so physical injuries just hadn't really been something that the average person worried about. If they got injured, all they needed to do was visit a healer.
+
+Now... well, the aftermath of the Collapse meant that even the most basic of healing spells qualified as fourth-tier magic. Cale was particularly familiar with what the healing line looked like, in fact. The first and most easily available spell was [Curative Wind], and all it did was boost the recovery time for an injury by about ten to thirty percent, depending on the caster's aptitude.
+
+If only he could learn a healing spell now. The Gift made it theoretically possible, so all he needed to do was pick up [Curative Wind] and try to cast it; the evolved spell would almost certainly let him help with that lizardfolk's broken neck and all the other injuries in the infirmary besides.
+
+The problem with that plan was that [Spell Intuitionist] only worked up to the second tier. Akkau had said something about how elemental resonance was necessary to learn higher-tier spells under the Gift's framework, not to mention evolve them into something he had some amount of control over. That meant he'd need to pick up life resonance.
+
+And Cale still hadn't actually managed to attend a resonance class. He grumbled to himself at the thought. He wanted to know what resonance even meant! It seemed like it was something unique to Utelia, but all the professors had wanted to test him before enrolling him in a proper resonance class, and he didn't have any classes left for the day. He didn't even know if he'd met whichever professor taught life resonance yet.
+
+Probably not, unless it was Imrys, and that didn't seem likely. He tried to picture her in a nurse's outfit and immediately snorted so hard he almost choked.
+
+"Cale?" Damien rushed over to him, alarmed. Cale waved him off, coughing madly a few times.
+
+"I'm fine," he said. "I'm fine! Just had an involuntary thought. You don't want to know what it was."
+
+"If you're sure..." Damien seemed a little doubtful, but helped Cale straighten slowly.
+
+"I'm sure," Cale said. "Is the Vital Wing always like this?"
+
+"Like what?" Leo looked at him, confused, and Cale just gestured around vaguely.
+
+"You know," he said. "White. Sterile. Smells like soap and magical disinfectant, which I hate, just for the record."
+
+"Why do you hate magical disinfectant?" Damien asked, confused.
+
+"I hate the smell of magical disinfectant," Cale corrected. "It smells much worse than regular disinfectant. Regular disinfectant itches, magical disinfectant makes me feel like I constantly need to sneeze."
+
+He wrinkled his nose. Even mentioning it made him want to sneeze, but try as he might, he couldn't. He let out an aggravated sigh.
+
+"Infirmary's this way," Flia said, ignoring Cale's theatrics. She gestured for the three of them to follow. "Just so you know, Nala left your room and ran back to hers almost immediately after we left. Apparently something in the room tried to talk to her? I don't know the details, but a few elves came by to ask what we did."
+
+She paused, then smirked slightly. "One of them also asked if we could do it again in the future."
+
+Damien let out an involuntary giggle at that, while Leo let out a sharp bark of laughter.
+
+Cale just grinned. "And here I thought she was going to find a way into the labyrinth and force us to mount some kind of rescue mission."
+
+"Don't even say that." Flia groaned at the thought. "At this point I just want to get the day over with. We'll go check on Izzik, Cale will give us the answers he promised—" At this she gave Cale a glare, as if she was daring him to change his mind. "—And then I'm going to go to bed and pass out for the next eighteen hours. I will drown anyone that tries to wake me up, I swear on the ei—seven infernal realms. Don't even start, Cale."
+
+"I'll throw them into Imrys's labyrinth myself," Leo muttered, scowling. He was in full agreement with Flia, apparently. Damien just glanced between his two friends, looking vaguely panicked.
+
+Cale patted him on the head. "Don't worry," he assured him. "You don't have to contribute to the violence. We know you're a very good dreadshade."
+
+Damien let Cale pat him for a moment. "This feels condescending?" he questioned awkwardly, but made no effort to move away. If anything, he seemed comforted by it.
+
+"I was being entirely sincere," Cale said cheerfully. "But if you're worried, I'll help you set anyone who wakes you up on fire. Oh! Or I'll get Alina to do it. I bet she'd love to set people on fire."
+
+Flia narrowed her eyes slightly. "Please don't tell me you made friends with the lunch lady," she said.
+
+"I definitely made friends with the lunch lady," Cale said cheerfully. "I mean, have you seen her? We did bench presses!"
+
+"What does that me—" Damien started, only for Flia to clap a hand over his mouth.
+
+"Don't," she said. "I don't care what answer he gives, I'm pretty sure I'm going to hate it."
+
+Cale grinned happily. "You know me so well."
+
+Considering the sheer frequency of incidents at the Brightscale Academy—though Cale supposed he was something of a statistical anomaly all on his own—he had thought that the Vital Wing's infirmary would be holding a lot more students. To his surprise, however, there weren't that many people here.
+
+He was also pretty sure one of the beds was occupied by a professor. Or maybe he was just a very old student that happened to like wearing lab coats? Cale had no idea. It wasn't like ages within an academic year were consistent in a school like this one.
+
+He also didn't look particularly hurt. Cale wondered briefly if there were professors that just snuck off here to take naps.
+
+Izzik was kept near the back of the infirmary, layered in several compounding seventh-tier healing wards. Cale had to take a moment to admire the spell formation—layering together this many healing spells took monumental skill, especially when they were above the sixth tier. A long time ago, this sort of setup might have been enough to instantly heal any student that entered their boundary.
+
+It was a testament to how badly the Collapse had damaged the foundation of healing magic that all this could do now was sustain life and promote healing. It was still impressive magic, of course, but considering what he'd seen life magic capable of doing before...
+
+Cale sighed.
+
+"Cale?" Flia gave him a questioning look. "Are you okay?"
+
+"Fine," Cale lied. "Just admiring the magic that goes into these wards, that's all. Did you know there's an anti-bedsore charm in there? Plus a spell to prevent blood clots, one that promotes blood flow—which I've seen some older mages use in the bedroom, by the way—"
+
+"Nevermind," Flia said immediately, wrinkling her nose in disgust. "I'm sorry I asked."
+
+The way she looked at him, though, Cale thought she might have known he was avoiding the question. Honestly, the mages he chose to train were always too perceptive by half.
+
+Which might have been his fault.
+
+"How long do you think he'll take to recover?" Damien asked worriedly. He stood outside the ward boundary, wringing his hands together beneath his cloak. Cale glanced at him, then at Izzik, who lay quietly in his bed and stared up at the ceiling.
+
+"I don't know," he answered quietly.
+
+An injury like Izzik's... Well, the sort of healing magic he'd seen so far at the academy indicated that it would likely take days of recovery, then weeks of physical therapy. General healing magic was hard to get after the fourth tier—everything after that tended to be spells dedicated to promoting or preventing specific outcomes.
+
+Like the ward concentrated around Izzik's neck dedicated entirely to preventing any bone fragments from further damaging his cervical nerves, for instance. Or the one meant to guide those same fragments back to his vertebrae to be fused back into place. A dozen tiny spells like that, some more complex than others, each promoting recovery, and still it wouldn't be enough; healing would be a complicated, long-term process.
+
+"Maybe I can pick up life resonance in the next few days," Cale muttered to himself. That was probably doable, right? All he needed to do was figure out how resonance worked, then work on life resonance until he managed to learn [Curative Wind]. Then, when he tried to cast it, the Gift could take over and he'd have something that could instantly heal someone.
+
+Probably.
+
+There was about an equal chance he would just make some sort of hurricane spell.
+
+"Are you here to see Izzik?" A nearby nurse hurried over to them, looking frazzled and out-of-sorts; Cale had no idea why, considering how empty the infirmary seemed. Maybe one of the other patients was a more complex case than he'd realized. "We can't allow more than one person to enter the healing wards. They aren't stable enough."
+
+"That's alright, I think?" Cale said, glancing at the others. They all slowly shook their heads. They were worried about Izzik, sure, but none of them knew him personally.
+
+To be fair, neither did Cale. He just wanted to make sure the lizardfolk was alright and had some questions for him. One of which was a rather important one, although he hadn't realized it until now.
+
+Sound and smell slipped away as he entered the bubble of the outermost ward. His skin prickled in response, even underneath his barriers. He'd never had cause to tune them against healing, after all. He approached Izzik's bedside quietly, noting with some surprise that the lizardfolk was, in fact, awake.
+
+Immobilizing wards prevented him from moving his neck, but his gaze flickered over to Cale and immediately became fraught with worry. Cale said nothing for a long moment, instead taking a moment to examine Izzik's prone form.
+
+The pillow beneath his head was damp. His arms were scarred from what looked like magical damage—the type of scarring one might get from constant, intensive duelling without the proper protections in place.
+
+More importantly, it didn't look like anyone else had visited. No trace of mana, no indentations in the bed. The leather on the nearby seat had no telltale imprint.
+
+"Why are you here?" Izzik eventually asked. His voice was hoarse, and he couldn't quite open his mouth to speak properly. Instead, an interpretative ward caught his attempts to speak and turned it into a facsimile of sound. He stared straight up at the ceiling, unwilling to look at Cale.
+
+There was an unspoken question there. Why did you help me?
+
+"You tried to heal her, didn't you?" Cale said. He sat himself in the nearby chair. "You gave her a healing potion. Did you know about the lifelink, or did you just think you were doing the right thing?"
+
+Izzik laughed, though it came out as more of a wheeze. Three wards flashed to life as he did, preventing him from moving too much. "I don't know what I was thinking," he admitted after a moment. "I just... I didn't want to be like them anymore. Didn't want to be like her. So I did the opposite of what I thought she would do. That was probably pretty stupid, huh?"
+
+Cale shrugged. "Some people would call that stupid, yes," he said. "Your circumstances are completely different. Killing her or letting her die doesn't make you anything like her. Choosing to join the Red Hunters in the first place? That did. And saving her would have just given her the chance to keep hurting others."
+
+Izzik closed his eyes, and another tear fell down his face and onto his pillow. "I know," he whispered, his voice hollow.
+
+"But you still saved a dozen lives by doing that," Cale continued. "Probably more. So who cares if it was stupid?"
+
+He stood, then, so Izzik could more easily look him in the eyes as he opened them again. Their eyes met. "You wanna know what I think?"
+
+A long silence. "What?" Izzik asked slowly.
+
+"I think the world could do with a few more idiots, sometimes," Cale said, grinning slightly. "Be a little stupid. Who cares? Do what you think is right. Live your truth! No one else is going to do it for you. And yeah, sometimes people need to die, but you don't have to be the one to do it."
+
+He winked, but there was something heavy in his voice. "That's my job. You just need to know when to run."
+
+Izzik wanted to let out an incredulous laugh. He couldn't, because if he did another dozen wards would flash to life and hold him down, but he wanted to. Who was this human, saying such ridiculous things with so much confidence?
+
+And yet... it didn't feel like he was lying.
+
+Izzik couldn't get that memory out of his mind. He'd replayed it over and over in his head. That monstrous amount of mana that had flooded into the world, the feeling of raw, consuming fury that had accompanied it. The look on Cale's face as he recognized what had happened and came for Sneaks-In-Darkness like he was Death itself.
+
+"Who are you?" Izzik asked. The question came out more plaintive than he wanted it to.
+
+Cale snorted. "Would you believe me if I said I'm a mage that really wants to learn baking spells?"
+
+Izzik couldn't quite turn his head to stare at Cale, so he settled for staring vaguely in that direction. "You're messing with me."
+
+"Maybe a bit." Cale grinned down at him. "But it's the truth. You wouldn't happen to know any baking spells, would you?"
+
+"...Just one." He'd learned it on impulse, but it wasn't like he could demonstrate it right that moment, and all it did was make sure that bread came out with the perfect crust. His friends had made fun of him for it.
+
+Cale still brightened like he'd told him he knew the secret to magic itself. "You'll have to show me sometime," he said. "Please?"
+
+Izzik felt the urge to laugh again, and forced himself to stop. "I think I owe you a lot more than showing you a spell," he muttered. "So... sure."
+
+There was something still bugging him. Izzik hesitated, then decided to go for it. He was afraid of Cale, he could acknowledge that, but he was also tired of giving in to his fear. It was fear that had led him so far down this path—fear of what wild mages could do, fear of what they had done. It was fear that had blinded him to everything the Red Hunters were.
+
+"Why are you really here?" he asked. "It can't just be to check on me."
+
+Cale's expression settled a bit, some of the cheer fading away. "Not the only reason, no, although I did want to check on you," he agreed. "I have two questions for you. What made you join the Red Hunters?"
+
+Something in Cale's voice seemed to tighten. "And where did you get that healing potion?"
+
+Izzik would have winced if he'd been capable. He squeezed his eyes shut against the tears that threatened to well again. Part of him didn't really want to part with those answers, afraid that this mage—this man that might be a literal god—might judge him unworthy.
+
+But maybe it was time for judgement.
+
+Izzik kept his eyes shut, but he told him everything, beginning from the Aspect Cascade that had consumed his home and family, leading to his meeting with Durak of the Crimson Sea, and finally his biggest secret of all. The only one, in fact, that he thought he could be proud of.
+
+The project he'd been working on with Aldur of the Golden Sands before his father's untimely death, composed of a dozen ingredients sourced from all over the Illwyld continent, all to make a healing potion that worked.
+
+Cale made a mental note to talk to Sternkessel about the Aspect Cascade at some point, because it seemed like the exact kind of thing that would be up the professor's alley. It also seemed like the exact kind of thing he might be able to do something about. He wasn't going to make any promises about it yet, but magical storms were always interesting, so it wasn't like he was going to just ignore it. He'd even spent a couple of his lives storm-chasing.
+
+The magical storms specifically, of course.
+
+Then the lizardfolk began talking about healing potions, and well... Cale had thought there was something strange about that potion, back when he'd seen it. That Izzik had apparently used the only one he'd ever made on Sneaks-In-Darkness of all people filled him with a restless sort of frustration, but he locked that down as best he could; he was pretty sure if Izzik noticed the poor lizard would pass out again.
+
+Part of him did feel a little guilty for prying so many answers out of him while he was hurt, but Izzik seemed almost like he desperately needed someone to hear his story. Once he got going, he didn't stop—he told Cale every little detail he could think of. Frankly, a number of them made Cale tempted to stalk off to the Red Hunters and tear them apart. Slowly.
+
+He might have done it, too, if there weren't a dozen compounding factors to think about; the bloodrot bomb, the fact that they were a large enough group of mages that they could route him...
+
+Bah.
+
+Thankfully, Izzik's halting explanation about the healing potion had quickly distracted him, frustrations aside.
+
+Most healing potions formulated post-Collapse were mere mimicries of the real things. They were, essentially, little more than magical shots of adrenaline accompanied by minor stasis charms that could hold a mage together for longer than they otherwise might have lived. They could keep those mages alive long enough to get them to healers, certainly, but by and large they did very little actual healing.
+
+Izzik's potion had, though. Cale hadn't been entirely sure at the time, in large part because he'd assumed that Sneaks-In-Darkness had healed as a result of her [Myzonir's Ritual of Rebirth] tattoos, but the more he'd thought about it and re-examined the mana signatures he'd felt at the time, the more sure he was.
+
+That healing potion Izzik had so casually tossed aside had been real.
+
+"I hate to ask again," Flia said. "But are you okay? And do not give me any 'fun facts' about what old mages do in the bedroom."
+
+Cale snorted. "I'm just fine," he said. "Let's get back to the dorms. I owe you three some answers."
+
+He'd wanted to visit that little girl who had been caught up in the summoning, too, but she was still asleep; apparently, the damage those suppressors had done to her core had been severe. She'd be good to talk in about a week, apparently, which was... a long time. But at least she was safe.
+
+"Damn straight," Flia muttered. Damien shot Cale a slightly worried look, as he'd started to do every time he thought Cale was hiding something. Leo had picked out a book from his bag and was now buried halfway in it, so he wasn't really even paying attention.
+
+Cale's thoughts were elsewhere.
+
+The reason healing spells were so badly broken in the aftermath of the Collapse was because of the Third Monolith, the Source of Vitality.
+
+He was—had been—the Law of Life. He alone upheld an entire corner of the multiverse. He was the source of all vital magic, and he had been perhaps one of the closest constants Cale had.
+
+It was his death that made Cale decide that enough was enough. That had driven him to eventually earn the name Yggdrasil's End.
+
+Cale had never been able to find his body. Neither had the Leviathan, though she had searched and searched.
+
+But if Izzik had been able to make working healing potions here, of all places... then this had to be where his corpse had landed.
+
+Part of him ached to have that old wound torn open again, but another part was glad for the closure. He'd almost given up on ever finding Vital's corpse to give it his respects, and if what Izzik had said was true, then it seemed that even in death he had found a way to continue to promote life.
+
+He was in no big rush to go see him. He'd waited for long enough that a bit more of a wait wouldn't hurt, and he had plenty of other things left to learn in the Brightscale Academy.
+
+But Cale was glad to know he was here.

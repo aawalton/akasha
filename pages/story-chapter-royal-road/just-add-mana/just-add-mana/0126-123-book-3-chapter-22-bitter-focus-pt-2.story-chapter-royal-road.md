@@ -1,0 +1,211 @@
+---
+id: 005104ef-0323-5d1a-84af-98652ea9a5c3
+page-type-slug: story-chapter-royal-road
+title: "123 — Book 3, Chapter 22 — Bitter Focus, Pt 2"
+slug: 0126-123-book-3-chapter-22-bitter-focus-pt-2
+partOf: just-add-mana
+position: 126
+ownLength: 3591
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3281272/123-book-3-chapter-22-bitter-focus-pt-2"
+royalRoadId: "3281272"
+---
+
+It felt for a moment like he was frozen in place.
+
+Another human. Here, in the midst of a pilgrimage-type dungeon that presumably held a record of the life this child had lived. Was that even possible? Cale had long ago lost any hope he had of seeing another one of his kind, and the idea of finding out what had happened to humanity seemed somehow even further away.
+
+Yet the child in front of him was undeniably human by every sense he brought to bear.
+
+Cale had met more than his fair share of species that bore the outward appearance of humanity, along with no small number of mages and shapeshifters that attempted to fool him by pretending to be just another human. He'd learned long ago how to distinguish between doppelgangers and mimics and changelings and all the myriad species that might seem human at first glance.
+
+This child was none of them. He was human in all the ways that mattered, as far as Cale could tell, and the only thing that set him apart was the fact that he was technically a creation of the dungeon. The Bitter Path was in that sense nothing more than a recording, and Cale was still as far as he knew the last human alive...
+
+...but that meant this dungeon might hold something. A clue, perhaps, about what had happened to humanity. Some small piece of the puzzle. Cale would have hoped to get answers outright, but he knew better than to hope for such a thing by now; he would take even the smallest scrap of information, if only it gave him closure.
+
+"Cale?" Flia asked, looking over at him with concern.
+
+"I'm fine." Cale shot her a small, reassuring smile, though he knew it didn't quite reach his eyes. "I'm just surprised. Wasn't expecting to see another human."
+
+Somewhere behind him, Thorn scoffed. "Don't see why not. You lot are everywhere."
+
+"Yeah? When's the last time you saw one of us, then, aside from me?" Cale didn't turn to look at him, but he could sense the way Thorn shifted in sudden discomfort.
+
+That was how it went. The worst part of whatever curse had been placed on humanity was that inability for almost any other being to recognize that humans as a whole were gone. Sometimes it felt almost like he was being mocked with it, like it was something personal.
+
+It was one of the reasons he'd stopped bringing it up everywhere he went. What was the point? If he asked, he would be told that the closest human town was one town over, or just over the nearest hill, or perhaps that a human merchant had just been through the town a few days back.
+
+Yet whenever he looked, there was nothing. No matter how long he waited, that supposed human merchant had always come through town "a few days ago". Sometimes he found different towns entirely where others had claimed humans had settled, and those towns would have no idea what he meant, but would claim in turn that there was a human settlement just nearby.
+
+And if he pushed—if he tried to force the issue by asking and asking until whoever he was speaking to had to confront the contradictions in their own minds—something within their souls and cores would rebel. At worst, it could cause those souls to fracture, doing damage that would take months of dedicated healing to reverse.
+
+So he'd stopped asking. Stopped even talking about it, for the most part, except on the rare occasion when he felt someone might be able to handle the knowledge, or if he found some new method he thought could circumvent the curse.
+
+It was a lonely thing, to be the last of your kind and have no one able to acknowledge it. Even his closest friends and allies thought he was just one amongst many. Sternkessel and now Akkau were the only ones so far that could remember, and even then Cale feared taxing whatever kept them protected from the curse.
+
+He still didn't understand its true limits, after all. It was the greatest active spell he knew of, and it defied study. Cale had no idea who had cast it or why it had been cast, and not once until Utelia had he discovered a means of circumventing it.
+
+Cale could feel the prickle of Thorn's gaze on his back, which surprised him—the vinewalker was studying him silently instead of responding, his core flickering with something that felt like confusion.
+
+Huh. Most people, confronted with the paradox of humanity's erasure, would simply drop the subject. It was one of the components of the curse, presumably to warn Cale against pushing the matter; anyone subjected to it was compelled to avoid acknowledging the contradiction. It was only if he kept pushing past it that it risked damaging them. But if Thorn tried to push through it on his own...
+
+"Couldn't tell ya," Thorn grunted finally. "You humans all look the same to me. Could've been yesterday or a damned century ago."
+
+Cale breathed a sigh of relief, but felt unsettled all the same. That had taken longer than it should have.
+
+"I'm sure the kid will be fine," Flia told him, misinterpreting the look of worry on his face. "Damien's been making good progress with the Verdant Flame. He can heal with it now."
+
+"We should open that door in the meantime," Syphus suggested, slamming its fists together. "I'm sure the other human is still somewhere up there, and I'd like to talk to him."
+
+"If your spells didn't break the door, I doubt we're going to be able to open it," Cale said dryly. "You're welcome to try, though."
+
+"Fine," Syphus said, rolling over to the stairs. It stopped at the bottom of said stairs, glaring up at the door, and Cale snorted as it began the laborious process of attempting to climb them.
+
+"Come to think of it," he said. "I don't think I've seen Syphus try to climb stairs before."
+
+"Neither have I." Flia didn't bother to hide her own amusement. "I have to admit, it's unique."
+
+"At least it's not making me carry it up this time," Leo muttered, then froze as Syphus turned to stare at him. "Ah, dammit. I'll be right back."
+
+Cale shook his head and laughed, some of the tension in his shoulder dissipating. He had so many questions. He knew better than to pepper the kid with them the moment he woke up, but he couldn't deny the temptation. When had all of this happened? What was humanity like, at this point in time?
+
+"They're not going to get anywhere, are they?" Flia asked, looking up the stairs.
+
+Cale shook his head. "I doubt the Bitter Path will allow it," he said, then snorted as Leo slipped, let out a curse, then chased after Syphus as it rolled back down the stairs. "Every stage of a pilgrimage dungeon involves some kind of challenge the mage had to overcome. This one probably has something to do with why this kid got thrown down here... and probably why he was fighting so desperately to avoid it."
+
+Flia frowned. "Aside from just not wanting to be thrown down a flight of stairs, you mean," she said, the contempt in her voice sharp as she glanced back at the door. "You think there's something down here?"
+
+"It's very cold," Cale pointed out. "I thought that had something to do with the dungeon, but there might be something else going on."
+
+Flia was silent for a moment. "I don't sense anything."
+
+"Neither do I. We'll have to ask the kid once he's feeling better." Cale did his best to conceal his worry. The opportunity to ask his questions would come; in the meantime, he had to be patient and play along with what the dungeon wanted. If they were somehow kicked out for failing to go along with it or distorting the journey too much, there was every chance the dungeon's parameters would change.
+
+A fixed reward didn't mean the delve would be the same every time, after all, and the Haelforge professors had indicated that it could and did change in response to its delvers. It was possible the only reason this delve followed a human mage was because he was a human himself, and if that was the case, then a second attempt could yield something entirely different.
+
+"Are you sure you're alright, Cale?" Flia asked, and it was Cale's turn to go silent as he considered the question.
+
+"Mostly," Cale said finally. "Just thinking about how we'll need to be careful."
+
+"Right." Flia nodded, her fists clenching as she glanced back at the door, and Cale felt his own anger simmering alongside her. In the shock of realizing that the kid was human, he'd almost forgotten what had happened.
+
+Cale wasn't willing to lose what might be his one opportunity to find out what had happened to humanity. But he would need to be patient if he wanted his answers, and at least for now, it was more important to make sure the boy was alright.
+
+Damien's work was almost done, at least. The dreadshade really had mastered the Verdant Flame; the magic he wielded was potent now. Weaker than it should have been without the Monolith of Life, perhaps, but enough to soothe away what might otherwise have turned into a concussion.
+
+Cale, in the meantime, did his best not to look at the door.
+
+"You aren't one of the monsters, are you?" the boy asked, eyeing them warily. "Why are you all in dad's basement?"
+
+Cale winced. At least the kid wasn't kicking or screaming—there were much worse ways he could have reacted to the sudden presence of seven strangers in his basement. If anything, he seemed a little too calm, though no matter how well he controlled his voice it was clear he was ready to bolt at any moment. His eyes kept darting to the door, for instance.
+
+"We're not sure," Flia said, stepping forward to take the lead, though she stopped the moment she saw the kid tensing up. "We usually just show up where we're needed, but the magic that brought us here doesn't bother explaining why, so we were hoping you could tell us."
+
+That part was a standard explanation delvers could offer in scenario-based dungeons, but Cale was impressed by how naturally Flia had been able to deliver it. She crouched slightly so she wouldn't seem too imposing before continuing. "My name's Flia. What's yours?"
+
+The boy didn't answer for a moment. He glared at them suspiciously, then relented. "I'm Adam," he said. He glanced down at his own hands. "Are you guys why it doesn't hurt anymore?"
+
+"Damien here has some healing magic," Flia said, patting the dreadshade on the back. Damien bowed his head, but said nothing—he knew how scary dreadshades could be.
+
+Adam didn't show any apparent fear, though. He hopped off the shelf he'd been perched on and stepped up to Damien, peering at him closely. "Didn't know there were any healers around," he said. "Dad says they're all holed up in the capital dealing with the plague."
+
+A plague? Cale narrowed his eyes, but held himself back from asking; there would be plenty of time for that later. They had to figure out what was going on here first.
+
+"Damien's special," Flia said after a moment. "And he's still in training."
+
+"Was that your dad?" Damien asked quietly, though he seemed a lot more hesitant. "The one that...?"
+
+"Threw me down here? You can say it, you know." Adam glared at the door. "Yeah. He's been like this ever since mom died. And he won't believe me when I tell him about the monsters, even though they're the whole reason our business is failing.
+
+"What monsters?" Flia exchanged glances with the others, a ripple of concern spreading through the group. None of them had sensed anything.
+
+"You can't see them either?" Adam demanded, despair flickering briefly across his face before he masked it with all-too-familiar anger. "Why are you even here, then?"
+
+"The magic that brings us here doesn't tell us much," Flia explained. "But we usually show up to help someone, so if you say there are monsters here, we believe you. We need to know more, though. Where are they, exactly? What aren't we seeing?"
+
+Adam's face scrunched up with frustration. "They're here," he said, gesturing all around the basement. Leo and Damien took an almost instinctive step back at the declaration, and Flia visibly controlled her own. "All over the basement! Why can't you see them?"
+
+Flia gave Cale a questioning look, and he shook his head in response. "I still can't sense anything," he said. "But like I said, the cold is unusual. If there's something here, it's something that can hide from conventional magical senses."
+
+"And it's not something you've encountered before." Flia's brows furrowed in thought. "We'll have to figure out the rules, then. Any ideas?"
+
+Cale had ideas, of course, but he didn't say anything. This was more a test for his apprentices than it was one for him; he'd step in if it was necessary, but Thorn would notice if he was the one doing all the work.
+
+"Best way to do that will be to figure out why Adam can see them and we can't," Leo said. "Adam? When did you start seeing these monsters? What can you tell us about them?"
+
+Adam seemed startled that they were taking him seriously. "Uh," he said, momentarily at a loss for words. "They... started showing up just before mom died. She could see them too, and she started spending more and more time down here, even though I tried to get her to stay away from them. She started sleeping down here."
+
+"Over in that cot?" Cale asked, looking sharply at the old cot again, and when Adam nodded in response, he frowned.
+
+He hadn't paid much attention to it before. An old bed was really the least interesting thing about the basement, and it didn't even look like it had been used in a while. Nothing seemed to particularly stand out magically, either.
+
+And yet... Cale walked in a slow circle around the room. It was subtle, but if he lowered his barriers slightly, it did feel like the basement was distinctly colder closer to the cot. That implied there was a source to the effect, somehow, and that it was linked to that old, rotting bed in some way.
+
+Leo was evidently thinking the same. He waved a hand through the air, then stepped closer to the cot, and Cale watched as a thin layer of frost formed on his clothes and fur. "How long ago was this?" he asked.
+
+"About a year?" Adam answered warily, watching Leo. "Careful. You're close to one of them."
+
+"Gah!" Leo jerked backward. "Are they—are you saying they're in the basement right now?!"
+
+"Obviously," Adam said, giving him a strange look. "What did you think I meant?"
+
+"I just thought—I don't know, I thought you were saying they just show up from time to time or something!" Leo took several steps away from the cot, brandishing his magic in its general direction. "You're seeing them right now? Where are they, exactly? What are they doing?"
+
+"They're mostly gathered in a circle around the cot." Adam shuddered slightly. "That's what they're doing every time I get sent down here. They just... stare down into it. It's creepy."
+
+"What do they look like?" Syphus rolled up toward the cot, apparently unaffected by the declaration that there were invisible monsters gathered around it. If anything, it looked like...
+
+Right. This was Syphus. Cale was fairly certain, now that he thought about it, that it was trying to run one of them over. Thankfully, Damien realized the same thing and pulled it back before it could ram straight into the cot.
+
+"They look like pale old people," Adam said, making a face. "Really old people, with their skin all sagging and stuff. Um. They all look like they're the same person? And they don't have any hair or anyth—aah!"
+
+The words dissolved into a shriek, and Adam jerked back, very nearly slamming the back of his head against the wall he was already propped up against. His eyes went wide with fear, and Flia shot toward him in alarm; this time, he didn't flinch away from her. He was too busy staring at the cot, heart pounding in his chest.
+
+"Adam?!" Flia caught him by the arm to steady him, and he clutched at her, trembling. "What happened?"
+
+"I-I don't think they liked me describing them," Adam said, swallowing. "They all turned to look at me. They, um..."
+
+He squeezed his eyes shut, like he was hoping that would be enough to make them go away. "They—they don't have eyes anymore," he explained in a rush. "When I saw them before they still had their eyes, but now it's just—holes. Like someone pulled them out."
+
+Well, that was horrifying. "Are they saying anything?" Cale asked immediately, now on the alert, although he kept his voice even so as to not alarm the kid. "Any chance they're trying to communicate?"
+
+"No, they're just... staring." Adam swallowed again, opening his eyes fractionally. Whatever he saw seemed to let him relax a little. He took a deep breath, then opened them all the way, though he blinked furiously once he did; Cale and the others said nothing about the tears. "O-okay, um, they're back to looking at the cot. Holy Ashvali, I thought I was going to die. They've never done that before."
+
+Leo took several more steps away from the definitely haunted bed. "Cale, please tell me you know what these things are, because all this sounds like one of Professor Corwell's horror stories."
+
+Cale paused, considering, then shook his head. "I have absolutely no idea what they are," he answered honestly. "But don't worry, you'll solve this. I have faith in you guys."
+
+"What do you mean, you guys?" Leo whipped around to stare at him with a look of utter betrayal.
+
+"It wouldn't be fair if I helped too much," Cale said, mustering a grin. "I'm sure you guys can figure it out."
+
+He'd help if he needed to, of course, but that exclamation...
+
+Holy Ashvali. It could have been nothing. Different realms had different exclamations depending on how connected they were to the rest of the Great Realms, but something about that particular phrase nagged at him. He'd seen that name before, hadn't he?
+
+A long time ago, while trying to investigate what had happened to humanity, he'd fixated on delving dungeons. At the time, he'd been certain that he'd find his answers in them, one way or another, and while he'd eventually given up on that endeavor, he'd uncovered secrets in that time that few other mages ever found.
+
+One of those secrets included mentions of an ancient civilization that matched none of the other records in the Great Realms. It seemed more legend than reality, at the time, and all the descriptions he'd found implied that humanity hadn't existed even then, so he'd tucked that knowledge away as a dead end.
+
+But what if those records had simply been wrong? Or incomplete, or altered in some way?
+
+Ashvali wasn't the name of a Monolith, but he was almost certain it was the name of a deity from those ancient texts. That implied those texts were more than legend, and if that was the case...
+
+Then Cale was almost certain that they referenced a civilization that had existed before Yggdrasil itself.
+
+Cale was old. He had lived for eons, longer than perhaps any human ought to exist, and in all that time he had only seen little hints that the multiverse might have been different, once upon a time. It had never been something he could verify. This one phrase from Adam was perhaps the closest thing to evidence he'd ever found.
+
+It wasn't nearly enough, he knew, and now he had more questions than ever. It did make a certain kind of sense—eternity was a long time. On a long enough timescale, even the cosmology of the Realms was subject to change. Before the Abyss there had been Yggdrasil, and before Yggdrasil there had been this.
+
+If that was true, then the Bitter Path might very well represent something older than even he could imagine. Had the Monoliths even existed this far back? Did the Named? If this was what he thought it was, then how significant was this version of the cosmos from back before Yggdrasil had been seeded?
+
+Most importantly, if he was right, then the dangers here would likely be dramatically different from what he was used to. He felt for that potion in his pocket; if it came down to it, and he needed just that bit of extra control, then perhaps...
+
+...He was going to be so pissed if this dungeon didn't answer at least one of his questions.
+
+Granted, he was probably going to be pissed anyway. Given the name of the dungeon and the way the Haelforge professors spoke of it, he doubted their upcoming journey was going to be a pleasant one.
+
+Which made it even more crucial that he understood what the dungeon wanted.
+
+If he did, then there was a chance—however small—that their pilgrimage wouldn't end with Adam's death.

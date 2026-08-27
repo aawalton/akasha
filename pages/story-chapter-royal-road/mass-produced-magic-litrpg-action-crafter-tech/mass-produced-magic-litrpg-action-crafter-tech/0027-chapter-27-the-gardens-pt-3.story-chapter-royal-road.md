@@ -1,0 +1,209 @@
+---
+id: 31f922c3-6f7d-59e3-b5f3-00c2016197fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27 – The Gardens – Pt 3"
+slug: 0027-chapter-27-the-gardens-pt-3
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 27
+ownLength: 2165
+unit: words
+publishedAt: 2024-12-12
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1953688/chapter-27-the-gardens-pt-3"
+royalRoadId: "1953688"
+---
+
+Aika peered into the gloom. Blood droplets lay on the dusty stone floor. Collapsed walls and houses lined the street, and a mountain of stone entombed all of it, leaving it in dark silence.
+
+Scales rippled across the stone, and large yellow eyes turned toward them. A massive forked tongue flickered out into the air. Barbs lined the thing, and a flash of dread shot through Aika.
+
+I’m not getting swallowed. Flying backward, she took a position behind Gleon. “Did you really have to wake it up?” she hissed.
+
+Gleon laughed and slammed his axe into the severed tail. “Aye, I did.” He clutched his axe tightly and grinned. “Come on, ye beast! Let’s see who’s the king of the city!” he bellowed and charged.
+
+Spinning her spear, Aika followed him. The exact opposite of Kindra. She thinks about everything. I don’t think he thinks.
+
+The snake lunged, its massive jaws opening wide. Gleon threw himself to the side, and Aika shot backward. Tumbling across the floor, Gleon vaulted up. He grinned, and a massive, bloody tail smashed into him, sending him rolling across the stone floor.
+
+Aika shot toward the ceiling of the cavern. “Kindra, can I use some mana?”
+
+“What did he wake up?” Kindra’s voice replied.
+
+Aika felt mana surge through her, and she fed it into her suit. “Some snake monster thing.”
+
+[Living Mechasuit has been augmented to grant +25 to all attributes for 4 hours.]
+
+Alright. Gleon pulled himself off the floor. The snake turned, and she dove with her spear outstretched.
+
+Like a small missile, she zipped across the room and slashed her spear across a yellow eye. Blood oozed from the eye, and it thrashed, slamming its head upward and launching Aika up to the ceiling.
+
+With her wings blurring, she slammed into the stone. A wave of pain came with it. That was a mistake. Every bone in her body felt like it was broken. Falling from the ceiling, she half-fluttered and half-dropped onto the floor, hitting with a heavy thud. I miss Kindra.
+
+Coughing, she struggled to get up. Gleon thundered across the stone floor and leapt. His axe slammed into the snake, chopping through scale and spraying blood through the room. The snake punted him with its body, sending him flying into the stone wall. Launching itself forward, it opened its mouth and engulfed the dwarf, swallowing him whole.
+
+Crazy dwarf. Aika stood and looked at her spear. I can’t take another hit. It’ll kill me. She frowned and looked at the snake. It slithered toward her, its massive jaws opening and its body moving erratically.
+
+Like a television scene, its skin contorted, a massive spike pushing on it. Is he attacking it from the inside? Aika hobbled backward, and Gleon burst from the skin in a shower of blood and gore.
+
+“Wha’cha think yer doin?” he bellowed at the snake and hacked at it like a tree trunk, his axe spraying blood, meat, and bone everywhere.
+
+Aika hobbled backwards. “Oh, and he’s definitely crazy.” She sighed. “I miss you and the guns.” Moving backward, she watched the snake’s tail flick.
+
+It slammed into Gleon, and he hacked at it while sailing through the air. Landing, he chucked his axe, sending it blurring through the room and sinking it into the snake’s open maw.
+
+The snake turned and slithered for a hole, leaving a massive trail of blood. Gleon ran forward and grabbed the massive serpent, trying to stop its escape.
+
+Hobbling forward, Aika shook her head and watched the snake slowly drag him into the hole.
+
+“Come on, Aika!” Gleon bellowed.
+
+Massaging her ribs, she reinforced them with her mechasuit and walked after the two leaving her behind. The snake sunk into its hole. Gleon grabbed its scales and spread his feet, slamming into the wall and ripping the scales off.
+
+“You lost your axe,” Aika said with a long sigh.
+
+Gleon grunted. “Aye. Cursed beast.” He turned, and his fury faded. “Alright there, Aika?”
+
+“No.” Aika shook her head and hobbled over.
+
+Gleon walked over and scooped her up, setting her on his shoulder. “My apologies, Aika. Forgot you’re still so young.” He turned and walked into the tunnel.
+
+“Are you okay?” Kindra asked.
+
+“I’m alright, but I need a rifle. This little body isn’t keeping up.” She sighed.
+
+“I’ll work on it, but small guns are a challenge.” Kindra went quiet. “Be safe over there.”
+
+“Trying.” Aika sat there. “We’re following it?”
+
+“If it got in, it can get out. We need to know how so we can reclaim the city.” Gleon walked down the tunnel, pulling a hammer off his back.
+
+“I don’t think you’ll find what you’re looking for. The city is buried, Gleon.”
+
+“We’ll unbury it.” Gleon stretched and followed the trail of blood down a smooth, wide tunnel.
+
+Aika studied the stone. What made these things? She shrugged and sat on his lumpy shoulder. “How are you not dead? You should be.”
+
+“You two are very weak. Extremely weak. It doesn’t make sense. You should have been at least level ten by now. Twenty or thirty is far more realistic.” He frowned and ducked under a ridge in the tunnel.
+
+“Why?”
+
+“You get mana from doing all sorts of things. How do you not have it?” Gleon shook his head with a look of confusion.
+
+“I told you. We came from a planet without magic. That’s why we don’t have it.”
+
+“That makes no sense. How would you have gotten here? And don’t tell me you made something to cross realms without it because that’s magic.”
+
+“I don’t know. Something pulled us here.”
+
+Gleon grunted. “Do you know what did that?”
+
+“No idea. Did you see a giant metal thing?” Aika asked, turning toward him.
+
+“Nope.” He paused and looked at her. “And you vow that Kindra wouldn’t hurt us?”
+
+Aika rolled her eyes. “She wouldn’t. I told you that—why do you keep asking?”
+
+He swallowed and moved further down the tunnel. “I have to be certain. She looks like an undead.”
+
+Is he lying? Aika frowned. “You’ve said that, but you seem way too nervous, given how weak we are.”
+
+“Because I know what necromancers become.” He grimaced. “And the final step is looking like that.”
+
+“What do they become?”
+
+“Monsters.” Gleon’s eyes went cold, and he followed the trail of blood.
+
+Aika went quiet. “Kindra, how did your hair and eyes change?”
+
+“I think it happened when Death brought me back, but I don’t know for sure. He’s quiet.”
+
+Maybe it is that. She jerked and nearly fell off Gleon’s shoulder. Grabbing onto the leather armor, she clung until he had passed another narrow chunk of tunnel.
+
+“Sorry about that,” Gleon said, peering down the stone passage. He hefted the hammer.
+
+“Can’t we just leave it?” Aika asked.
+
+“No. I want my axe back, and I need to explore.”
+
+Aika sighed. “Fine, but I’m not helping you fight, and I need a healer.” She grimaced and massaged her aching ribs. I need a healing skill.
+
+Gleon turned a corner, and she looked down the dark tunnel. The smell of blood lingered in the air, and the snake turned and slithered toward them. Blood trickled from its eye. The gaping wound remained on its side, oozing blood all over the floor.
+
+I’m not dying here. Aika stood. Gleon picked her up and set her on the floor. Turning back, he charged with a massive burst of speed. The snake pulled back and opened its mouth, revealing large fangs and a gash across its mouth.
+
+Lunging, the snake’s head shot forward, and Gleon swung his hammer, smashing it into an exposed tooth. A resonating crack rang through the air, and the tooth shattered. Shards blew into the air, and blood sprayed from the snake’s mouth.
+
+The snake reeled, jerking back. Gleon ran forward and slammed his hammer into the snake. Its coiled body flexed, slamming into him and sending a spray of blood through the tunnel.
+
+With a furious hiss, it struck with its mouth opening wide. He slammed his hammer into the other tooth. A loud clang echoed down the tunnels, and the tooth cracked. Blood spurted from the snake’s mouth, and it bit down onto the dwarf.
+
+The tooth snapped. The mouth warped, and bones snapped. Gleon staggered out a few seconds later, his axe in hand. “I got her!” He grinned at Aika and slammed his axe into the snake once more.
+
+Aika watched, leaning against the wall. Well, he did kill it, but it was dumb. She sniffed the air and wiggled her armor-covered fingers. The metal felt like an extra skin, a damaged extra skin.
+
+She swallowed and looked around the cavern. It formed a domed room that seemed unnaturally smooth; however, no ruined buildings lined the wall. Instead, it was all just stone. Did the dwarves make this? It’s so round. She turned back and saw the grinning dwarf. “Nice throne room, King of the Rubble.” She chuckled to herself.
+
+Gleon winked and nodded, a smile spreading across his face. “Wait until we find the real one.” He stretched, and his wounds began to mend. Reaching down, he picked up Aika and placed her on his shoulder. He walked to a far tunnel, and Aika felt a light breeze.
+
+“Probably the way out. Let’s check it to be sure.” Gleon turned and walked down the tunnel.
+
+Aika leaned back and enjoyed the ride, the feeling of mana from the snake passing into her. “What level should we be, anyways?”
+
+“Depends who you ask,” Gleon said with a note of bitterness. “Most are afraid to level. To them, you should never level or get mana. But even among them, someone her age would have at least ten thousand.”
+
+“Then why don’t we get more for killing things?” Aika asked. “If they have that much mana, why don’t we get all of it?”
+
+“Mana’s a little funny that way.” Gleon turned, following the breeze. “Your body needs to be able to take it in. That puts a limit on it.” He turned toward her. “A lot of it gets lost into the air. The plants absorb it.”
+
+Aika nodded and sniffed the air. “Is that what you get by working at things?”
+
+“Aye.” Gleon walked down the passage.
+
+The metallic scent of blood faded; stone and dust lingered in the air. The tunnels shifted to a more natural appearance, one that hadn’t been made by the dwarves.
+
+Gleon sighed. “It’s here,” he muttered.
+
+He wants it so bad. Aika looked at the stone. “When did you lose the city?”
+
+Gleon grimaced and shook his head. “I don’t know.” He looked at her. “Do you?”
+
+“No. Why would I?”
+
+“Because you’re a fairy, the ally of the fae.”
+
+Aika scrunched up her face and made him translate to pick up the words. “Oh. I’ve never met one of whatever that is.”
+
+Gleon failed to hide the disappointment. He swallowed, marched forward, and kept his gaze on the tunnel.
+
+“Gleon?” Aika asked.
+
+“I have to believe they’re out there. We need them,” Gleon said, turning and following the breeze.
+
+“They probably are. I was born recently. Here, in fact.” Aika patted his shoulder.
+
+“Which makes no sense.” Gleon paused. “Sorry. It just doesn’t make sense.”
+
+“It’s okay.” Aika leaned back, looking down at her aching ribs. Is this how he got his healing skills? Getting hurt over and over? She looked at the glum dwarf. “We’ll free them. You’ll see.” She peered into the distance and saw sunlight. A smile spread on her face, and something large moved in front of it.
+
+Aw, darn it!
+
+Gleon grinned and hefted his weapon. “Oi! This be my domain!” he bellowed and charged down the tunnel.
+
+Aika groaned. “I need a vacation from Gleon.” She braced herself, and the dwarf slammed the weapons into what appeared to be some disgusting ball of slime.
+
+The slime thing oozed forward, and he hacked it, spraying the walls with horrible-smelling fluid. Some of the juice hit Aika and burned. Hissing, she scrambled behind his head.
+
+Disregarding his clothes and well-being, Gleon hacked off pieces of the slime, painting the walls in the acidic glop. Well, we’re going to need more than a rifle if we have to deal with crap like this.
+
+Aika hid, using him as cover. “Hey Kindra, how hard would it be to make a flamethrower or napalm?”
+
+“It’s doable. It’d be easier with fossil fuel, but I have no idea where to find that. Also, how’d the fight go?”
+
+“Snake’s dead. We’re fighting some massive block of slime. It’s disgusting and acidic. I think Gleon’s going to be naked by the time it’s dead.” Aika wrinkled her nose. “Also, healing is strong.”
+
+“Are you alright?”
+
+“I’m hiding behind him. What about you?”
+
+“Great. I’m hauling my loot into the forge.”
+
+“Good. Make a flamethrower.” Aika sighed and watched the slime spray around her. We need so much gear.

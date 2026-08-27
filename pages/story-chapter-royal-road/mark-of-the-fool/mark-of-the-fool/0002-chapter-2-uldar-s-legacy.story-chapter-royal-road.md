@@ -1,0 +1,199 @@
+---
+id: 121b7eb3-7ef9-5abd-8073-234150661f76
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Uldar's Legacy"
+slug: 0002-chapter-2-uldar-s-legacy
+partOf: mark-of-the-fool
+position: 2
+ownLength: 2277
+unit: words
+ownProgress: 2277
+publishedAt: 2021-04-01
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/656291/chapter-2-uldars-legacy"
+royalRoadId: "656291"
+markedReadAt: "2026-06-29T20:10:51.504Z"
+---
+
+“What th-?” he gasped.
+
+The common room was chaos. Dozens of sacks and chests were piled against the wall; many were half-filled with clothes, tools, ornaments and anything that was portable. Most of the Lu family rushed back and forth, stuffing the bags with more supplies. Only Master Lu and Theresa were missing from the scene.
+
+It was clear they were going on a trip.
+
+A long one.
+
+As he stepped into the room, the family froze in mid-step, looking at him with fear and worry. They looked as though he would turn into smoke and blow away at any moment.
+
+“Alex,” Mrs. Lu began examining him. “Did you-”
+
+“Alex!” a tiny voice cried.
+
+A rapidly sprinting bundle of long chestnut hair and chubby cheeks slammed into his waist, nearly driving the breath from him. “Selina? What’s wrong?” he asked.
+
+His ten year old sister looked up with large green eyes shining. “Master Lu heard that Th-the Chosen got found. S-so did The Saint.”
+
+His heart nearly stopped.
+
+“What?” he dropped the sack of gold on the floor; it landed with an ugly clink. “When!?”
+
+“Today,” came the deep voice of Master Lu. The family patriarch was taking the stairs two at a time as though he were a man half his age. In his hands, he clutched the old Lu family ancestry book and the swords once wielded by his own grandfather.
+
+Alex grew even more nervous. Those never left the master bedroom. Not ever.
+
+He looked over to the mural on the inn’s wall. It was an amateur piece of art: painted through many hours of labour and love by himself, Mrs. Lu and Theresa. On the left was the ancient form of Uldar, the prophet-god that guided the people of Thameland. He was the first to face their eternal enemy.
+
+On the right floated a blot of darkness being cut through by the Chosen’s sword.
+
+The Ravener.
+
+It was their eternal enemy who always arose—seeking to consume the Kingdom of Thameland as it had for generations—starting slowly, taking its time and crafting armies of monsters from its inner core. Then it would bud, sending out scores of smaller pieces of itself to burrow deep into the land to then sprout, creating nests and dungeons that spawned monsters.
+
+After Uldar had defeated it in his age, he had ascended to the heavens. Yet, he had not destroyed it. He knew that The Ravener would reform in time, for darkness always returns, as sure as the days grow long. So, he cast a part of his own power down onto the people, and foretold that five Heroes would rise in his place and defeat The Ravener once more.
+
+A century after Uldar’s ascension, five young folk gained a shining mark on their bodies: The Chosen. The Champion. The Sage. The Saint. The Fool. Together, they defeated The Ravener again. A century after that, it had returned.
+
+Five more arose to triumph over it.
+
+And so it was again.
+
+And again.
+
+A cycle of victory and horror: the pride of the Kingdom of Thameland.
+
+…and Alex cared absolutely nothing for any of that bullshit.
+
+In the painting set between Uldar and The Ravener, stood the five heroes from three generations ago: the Saint of that party had come from this very town of Alric. Well, sort of. The young woman had claimed to have come from somewhere incredibly far away, but was settled comfortably in Alric when she’d been marked on her eighteenth birthday.
+
+She had died in the next generation, though, when she—ancient and long retired—had set off to defend Alric from a dungeon that had sprung up in the caves just north of town. She had defeated the core and—in death—left her magic infusing the entire underground complex.
+
+The Caves of the Traveller.
+
+People who entered them came out in all sorts of places; it was a portal that shot people out at random: the next town, the capital, somewhere in the wilderness to the north, or even in some cave on the continent.
+
+Now, it might hold something far more sinister.
+
+Once The Ravener used a place as a dungeon, chances were high it would use it again. No wonder the town had been so quiet. How many others were frantically packing up their worldly possessions into as many bags as they could?
+
+“We’re going to stay with my brother in the Rhineian Empire,” Master Lu placed the swords in a chest then closed and locked it. “Until the Heroes can clear out the land.” He paused, giving Alex an odd look. “You…you haven’t felt anything strange today have you?”
+
+Alex knew why he’d asked: the Heroes all had their marks appear on the same day, when they hit adulthood. And he’d turned eighteen today.
+
+“Nothing, Master Lu.” He shook his head.
+
+“Good,” the older man sighed in relief. “I didn’t want you dragged into this, even if there was only the slightest chance. Especially not with the future you have ahead.”
+
+He gave a thin smile and tossed something across the room to Alex. The young man caught it: a scroll case, with a broken wax seal that had the symbol of four towers flanking a taller, fifth in the centre.
+
+“I found that when I was packing your things. That’s the seal of the Genesari University, isn’t it?” His grin widened. “I’ve seen it on some of the embassies in the capital. Biggest, fanciest wizard school in the world, right?”
+
+“Yeah,” Alex chuckled as some of the tension left the air.
+
+“An acceptance letter: you little rascal, when were you going to tell us?”
+
+Alex’s chuckle became a full laugh. “Tonight. I had this whole thing planned. I was gonna brag and you would cheer, and I’d show you the spell I’d shown the examiner who came through the magistrate’s office last year. Then we’d have a big party and I’d ask for Theresa’s hand in marriage, then dodge you and Mrs. Lu as you tried to choke the life out of me.”
+
+Thankfully, that got a chuckle out of them.
+
+He sighed at the bad timing. “But then the world had to go and end on me. At least, this part of the world.” He grew more serious. “So, what’s the plan?”
+
+Master and Mrs. Lu looked at each other, then at him.
+
+“You’re going to school, Alex,” Mrs. Lu said firmly, like a lord giving an order to one of their retainers. “Your mother...she had a hard time bringing you into the world, and I’m not going to see her baby caught up in all this, or waste his opportunities. ”
+
+Alex had to choke back emotion. He glanced down to Selina, falling to one knee in front of his sister. “You still ready to go, little goblin? Things have changed now, but...I still want you to come with me. We’d have a place together, just the two of us. That sound good?”
+
+Excitement shone in Selina’s eyes, but with it was a mix of worry and guilt. She slowly looked to Master and Mrs. Lu. “Are-are you going to be okay?”
+
+Alex grimaced. She had been young when the fire had taken their own mother and father, but old enough. He sometimes still woke up drenched in cold sweat with her scream from that night echoing in his head. Ever since, she had been strongly protective of Alex and the entire Lu family.
+
+Master Lu put an arm around his wife’s shoulders and smiled gently at her. “We’ll be alright, Selina. Go with your brother, and we’ll come visit you.”
+
+The little girl watched them for a bit, trying to see if they were telling her a lie to spare her feelings. “I want to go with you, Alex,” she finally said.
+
+“Good!” he stood, patting her on the head. He looked at the Lu family. “Where’s Theresa?”
+
+One of her older brothers pointed toward the back of the inn. “Getting the mules ready. She’s cleaning out the stables, getting the wagons ready, and feeding Brutus.”
+
+Alex winced. Brutus had never liked him much. He’d need to make sure to stay on whatever wagon he wasn’t in.
+
+“I’ll…catch her when she’s done,” he coughed awkwardly and took Selina by the hand. “Come on, little goblin, let’s get you packed and in bed. We’ve a long way to go tomorrow.”
+
+As he led her up the stairs, he idly scratched his shoulder.
+
+A glowing red ball of force floated above Alex’s finger, and on top of that he’d balanced a small clay cup of honeyed milk. Four years working for a baker either gave one a sweet tooth, or made it so that one would never, ever want to eat sweets again.
+
+In Alex’s case, it was the former.
+
+He grabbed the cup and took a sip, enjoying the flavour while he let his mana dissipate from the spell.
+
+“One…two…three…” he counted. “Fo-”
+
+The room went dark as the spell winked out.
+
+“Nearly four heartbeats,” he noted. “New record.”
+
+Concentrating again, he spoke the words of power under his breath while constructing the spell array in his core. He felt a sudden shift of energy as the words and array connected, forming a magical circuit into which his mana poured. The circuit sprung to life.
+
+Energy coursed through it at rising speed.
+
+“One...tw-”
+
+Before two heartbeats passed, it formed the shape he desired. Red light flooded the room as another force ball formed. Smiling, he rushed to the open notebook on his tiny desk.
+
+Across the pages were tables that recorded his daily practice: numbers indicating how long it took for the spell to form, how long it took for his mana to dissipate when he stopped feeding the circuit, and how many times he could construct the ball before his inner mana ran dangerously low and the circuit reached for his life force to power itself.
+
+He’d scribbled enough entries to fill half of the large book: a mark of how he’d never missed a day of practice, even if it was for only a few minutes at the end of the night after a long shift at the bakery. It’d been worth it. He flipped back to the front page and shook his head at the numbers.
+
+Spell Formation: Thirty-four heartbeats.
+
+Dissipation: Half a heartbeat
+
+Amount of times creating Orb of Force: One.
+
+He flipped back to tonight’s entry.
+
+Spell Formation: Oneish heartbeats.
+
+Dissipation: Three and a half heartbeats.
+
+Amount of times creating Orb of Force:
+
+“Four and counting.” He smiled and twirled the orb around his finger.
+
+He might have been self-taught, and he’d only ever found one spell to practice, but he was sure as hell going to have it mastered by the time he got to Generasi. All in all, not all that bad a day considering it started with intentionally getting himself fired and ended with the return of the land’s ancient evil.
+
+He was scratching his shoulder again—starting to wonder if a biting fly had crawled into his sleeve sometime during the day—when he noticed the ball’s red light shudder. He glanced at it.
+
+His hand was shaking.
+
+The little ball tethered to his finger shook with it.
+
+As much as he acted like all was well, the news about The Ravener had scared him. He, his sister and the Lu family—and judging by the dead silence outside his window, half the town—would be packed up and heading for port by morning. But there would be a lot of people that wouldn’t be able to make a ship before things turned grim.
+
+With the Cave of the Traveller so close, there was even a chance he and those he cared about wouldn’t get out in time; not if it became a dungeon again. A small chance, but still a chance; he would’ve been crazy if he wasn’t a little scared. So, he took a breath and steadied himself. If he’d given into all his heavy emotions over the last four years, he would’ve been a wreck.
+
+“Let it pass,” he told himself. “It’s going to be what it’s going to be. You’re one person: all that matters is what you can do for you and your own. If it’s clear to the coast, then good. If it’s not, then you think. Adapt. Survive, like you always have. Worrying about it now’s not gonna help anybody.”
+
+Repeating that mantra had gotten him through the last four years alive and sane; he’d keep it up until it no longer helped him. Outside, the bell at the church of Uldar rang, dragging him from his thoughts. Eleven chimes. His birthday was nearly done.
+
+Time to finish practice then finish packing and try and find Theresa.
+
+He killed the mana flow to the spell.
+
+“One…”
+
+He counted.
+
+“Two…”
+
+He counted.
+
+Then came the agony.
+
+He doubled over, his scream choking as his body locked up with white-hot pain. His teeth clenched—grinding together—and his vision wavered. Alex Roth hit the ground with a heavy thump, and he could not even writhe as his muscles tensed all at once.
+
+His shoulder burned worst of all, paining as if ants chewed their way through his flesh. Ants that were on fire. His forceball winked out, but light didn’t fade from the room. It changed.
+
+Through the shoulder of his white shirt came a golden glow that filled the air. Through the radiance, he felt something pour into him. Something that slipped into his body, his mind, his mana and somewhere deeper. His entire being wrenched as if a giant hand was puppeting it.
+
+Flashes of memory burst into his mind.

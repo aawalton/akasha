@@ -1,0 +1,179 @@
+---
+id: ddfd78b2-1e26-58b7-a700-582af5bb0929
+page-type-slug: story-chapter-royal-road
+title: "174 — Book 4, Chapter 18 — Dark Magic, Pt 1"
+slug: 0179-174-book-4-chapter-18-dark-magic-pt-1
+partOf: just-add-mana
+position: 179
+ownLength: 3206
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3830053/174-book-4-chapter-18-dark-magic-pt-1"
+royalRoadId: "3830053"
+---
+
+Cale had rearranged his class schedule slightly after a quick discussion with Akkau, who seemed much less stressed than he had been only a few days ago. He was pleased to see that, at least! Sternkessel seemed much closer to him now and was clearly doing the old dragon some good. Cale himself would have liked to take some time to relax after that class with Professor Imrys, but there were simply too many things to do to just relax.
+
+Fortunately, Cale was very good at taking his requisite relaxation time alongside other things that he needed to do. As long as whatever he was doing entertained him in some way, he was technically relaxing. And the new faculty that had been brought into the Brightscale Academy absolutely qualified. They were all so fascinating! He would have to thank Korav for doing such a wonderful job recruiting Astiviya's shades to his cause; it made all this work he was having to do feel much more like a vacation.
+
+That meant he was also in a much better state of mind when he returned to his room at the end of the day and found Damien sitting on his bed, waiting for him.
+
+"Hey," Cale said carefully. He sat next to Damien when the dreadshade shifted aside to make space for him, still silent. "You doing alright?"
+
+"I figured you noticed," Damien said with a small smile, though Cale could tell his heart wasn't quite in it. "I don't know. Just... it feels like a lot, you know? What we saw and what I know about dark lords and stuff now. On top of everything from the Bitter Path."
+
+"That's not what's bothering you, though," Cale said, more an observation than anything else. He'd been paying attention even while dealing with everything else during Imrys's class—after they discovered that the "plague" was, in fact, the birth of a dark lady, Damien had gone much quieter than usual.
+
+And he had fallen even deeper into contemplation once they understood what Wall had done. Cale could feel the conflict stirring in his core, though at the time he had known that Damien wasn't yet ready to talk about it.
+
+Now, though, he was. Damien sighed and looked up at him, then nodded.
+
+"Yeah," he said. "I've made more progress on the Verdant Flame thanks to what we saw with T'vela and Wall and their daughter, but I can't help but feel like I shouldn't have... benefited from that. You know? And I don't like how familiar it feels."
+
+Cale said nothing and simply listened to the dreadshade as he talked; for now, Damien just needed someone to talk to.
+
+"It shouldn't feel familiar, should it?" Damien continued, hesitant now. "I mean, I've never been involved with the dark lord before, I don't think, but what if I was and I just don't remember?"
+
+"Does that matter?" Cale asked, and Damien blinked up at him, surprised.
+
+"Of course it does," he said, though his brows furrowed. "Doesn't it?"
+
+"We already know dark lords aren't all evil," Cale pointed out. "And if you think about it, there's a pretty good reason for them to exist. What we saw in realm with the atverians and vinewalkers happens all over the Great Realms—not that exact combination of circumstances, obviously, but it's very easy for civilization to fall into a rut. To decide that things as they are are good enough.
+
+"The deities of a realm can't do much to change that. They're empowered by the beliefs and ideals of the status quo. They are, in a very real sense, an embodiment of civilization as it stands. And there comes a point where civilization begins to weigh itself down: where change requires that the individual give up a little too much, and it's easier to turn a blind eye to the small injustices.
+
+"When a dark one takes action, that's not something you can do anymore. They strip away all the protections and comforts afforded to a realm, and in the process they put a spotlight on all the mold and rot that grows in the corners of every empire. Even when they fail to take over a realm, civilization often does change for the better in the wake of their actions, believe it or not."
+
+Damien was silent for a long moment, lost in thought.
+
+"It almost sounds like you think they're a good thing," he said eventually. He fidgeted nervously, squeezing his fingers in his lap.
+
+"I don't think they're a bad thing," Cale said with a sigh. "But in their current state... I don't know, Damien. My best guess is that there's something wrong with the cycle. Maybe it's compromised, or maybe it was poorly thought out to begin with. There's too much pressure working against every dark lord, and the way it works is far too cruel. I can see why they exist, but I can't stand behind them."
+
+"That's why you want to know more about the cycle, isn't it?" Damien asked, hesitant. "Do they have anything to do with what happened to humanity, do you think?"
+
+"I have my suspicions based on what Adam left us, but nothing concrete yet." The holes in his memories almost certainly had something to do with it, though, and Cale suspected there would be yet more answers in that tournament. Everything converged on Utelia. "The point is, even if you were involved with the dark lord, it's not a mark against you. You're worried your missing memories about your dad are related, I take it?"
+
+"Yeah," Damien admitted, looking down. "Maybe he left to work for the dark lord, or... I don't know. I don't even know why I'd have to forget any of that. I'd be okay with it, I think, if we talked about it. But I just felt so sad when we learned about Wall, and it felt like a really old sadness, and I just... I don't know."
+
+"We'll figure it out," Cale promised, wrapping an arm around his apprentice and pulling him close. Damien squeaked a little, but leaned into the hug. "In the meantime, though, you should trust yourself a little more. You have good instincts. I'm sure whatever you were thinking, you had good reason for it."
+
+"And so did dad," Damien said, though he bit his lip a moment later. "...Maybe. I hope."
+
+"I don't think anyone that raised someone like you would have gotten involved with the dark lord without a damn good reason," Cale said, giving his apprentice a reassuring smile. "But even if he did—even if both of you did—the decisions you may have made back then don't have to reflect on who you are today."
+
+"We just have to move forward and do our best," Damien murmured, and his expression crumpled a little as he realized what his worries might have implied about Cale. "Um. I guess you'd know better than anyone, wouldn't you? I'm sorry."
+
+"Don't be." Cale shook his head, his gaze briefly distant. "I try to bring hope wherever I go, but I've made mistakes. There are people who will never forgive me for the things I've done and the choices I've had to make. I've accepted that."
+
+"Still," Damien said, but he fell silent afterward, unsure what else to say. Cale just smiled and gave his apprentice a squeeze.
+
+"Don't worry about it," he said. He paused, then, his expression growing serious. "That said, if you remember anything more, come talk to me about it, okay? It might be important. I won't judge you, no matter what it is."
+
+"I will," Damien promised. He hesitated briefly, then looked up at Cale. "Thank you. For listening, I mean."
+
+"You're welcome." Cale beamed, his mood instantly changing as though a switch had been flipped. "Now, how about a game of magic go fish before bed? Just to relax."
+
+"...Are you going to cheat this time?"
+
+"Involving actual fish isn't cheating, Damien. It's just what makes the game magic. Besides, it's good for the fish. Skyswimmers need constant enrichment, you know."
+
+"Which is why Flia told you to take care of them."
+
+"Obviously." Cale grinned. "Come on. One game?"
+
+"Alright, alright." Damien smiled back at him at least, though his expression flickered as a thought occured to him. "We still need to go talk to Vital, you know."
+
+"I know." Cale was proud of how steady his voice was when he said the words. "We'll go soon. I think I'm just about ready."
+
+The next day, Cale found himself in the middle of a Melee Magic class led by the Dark Warrior Eviscerator, who had insisted on being introduced by her full name and title. She also strutted around in heavy plate despite the class being held in the Starfire Desert, for reasons that were entirely unknown to Cale.
+
+Perhaps the plate was bound to her? It did look like cursed armor, right down to the requisite purple glow. All the other students were keeping a careful distance from her—all save himself, Syphus, and the wyldfire Kryva, who was auditing the class.
+
+Kryva was a joltsprit, a salamander-like species with lightning dancing all over their bodies; supposedly, the species descended from lightning elementals, though Cale hadn't yet figured out if that was true. They did tend to have a very strong affinity for lightning magic, though from what he could sense, Kryva herself did not.
+
+Cale wasn't sure what magic she did have, in fact. Thorn had suggested she was special even amongst the wyldfires of Brightscale, but had refused to explain why.
+
+Suspicious. Thorn clearly thought it was a magic that would interest Cale, but wanted it to be a surprise, and Kryva had thus far been uninterested in demonstrating her specialty. That only made him more curious, of course, and Syphus had picked up on that curiosity.
+
+"What magic do you think she has?" Syphus whispered.
+
+Its normal etherite crown had been replaced after being damaged in the Bitter Path—the new one had taken painstaking work to rebuild, in part because Sisyphus was the only one capable of building it. They had been unable to source any pure etherite for the new crown, too, and as a result they'd resorted to using infernal etherite, summoned through a contract with a demon.
+
+Syphus wasn't entirely used to it just yet. There were drawbacks to the new crystal it hadn't explained, claiming it wanted time to figure out its quirks. It did, however, look significantly more intimidating. Not only did it have a runic eye floating above its head, that runic eye was now also on fire.
+
+Cale stared at said eye for a moment, then remembered to answer its question. "No idea," he said honestly. "Probably something cool, though, or Thorn wouldn't have been all mysterious about it. She's an Astral student too, isn't she?"
+
+"She is," Syphus said. Its infernal eye gleamed. "I really want to know what magic she does. I wonder if she'll be up for a duel?"
+
+"You can ask her after class," Cale said dryly.
+
+His attention was admittedly divided. This was one of the classes he thought would help him uncover one of the pieces he was missing about the divine cycle—there had to be something he still didn't understand. Instructor Eviscerator (Cale was very tempted to give her some kind of nickname, because that was going to get tiring quick) had been granted the title of Dark Warrior, and while that wasn't quite the same thing as a dark lord, it did suggest she had been close to the dark lady of her time.
+
+Though he would have figured that out quickly even if he hadn't known anything about Dark Warriors. Eviscerator was constantly boasting about her lady. It really undermined the whole "Eviscerator" thing in her name, because rather than being intimidated, Cale was just amused by how obvious the crush was.
+
+In any case, the important thing was that any given dark one could assign roles to those most important to them. The Dark Warrior was one of those roles; there were their Generals, who would command factions of their army, and there was also the Apprentice and the Lover. Dark magic as a whole seemed reliant on these roles, to a certain extent, though if he had learned of how it worked before it was beyond him now: those memories were still sealed.
+
+Cale was struck abruptly by the thought that the hierarchy of the Red Hunters seemed eerily similar to how many dark armies were organized. Had the Red Commander done that on purpose? Was there a meaning to that? He had freed Icon from their grasp, but they had three other Sentinels still. If there was something the Red Hunters knew about dark magic that he did not...
+
+Bah. He'd have to remember to check on what they were up to, but he'd focus on the class for now. He could feel now that several of his memories regarding the divine cycle were still sealed. If he got what he wanted from this class, he would unlock even more of them—perhaps even uncover why they'd been sealed in the first place.
+
+Besides, Eviscerator was an interesting sort of mage.
+
+"A good stance," Eviscerator said, peering closely at Syphus, who was pretty much just standing there. Syphus tilted its new crown at her in askance. "A stable stance. Stability is important in magic. A true warrior is always grounded and stable, much like the Pastel Queen, who could not be moved even by the fall of a mountain."
+
+And there it was again. Cale had to suppress a chuckle. He didn't think Eviscerator had said anything that hadn't been accompanied by some sort of praise for this Pastel Queen. A strange title for a dark lady, though. He wondered what her magic had been like.
+
+"Did she stand under a lot of falling mountains?" Syphus asked, puzzled.
+
+"It was her training!" Eviscerator boomed, making most of the class flinch away from her. The sand beneath her boots stirred at the force of her shout. "Every morning she would stand at the foot of a mountain, and I would collapse it on top of her. You should have seen it! She was magnificent, fighting off every rock with precise blasts of magic... A lady of true strength and beauty."
+
+"And you didn't run out of mountains?" Syphus asked again. It seemed somewhat more interested in the fate of those mountains than in the Pastel Queen herself.
+
+"Of course not," Eviscerator said, offended. "I would build those mountains up again to ensure they would be ready for her the next day. Training is very important in all forms of magic, but especially melee magic! You must engrave this lesson in your hearts! The greater the punishment, the greater your knowledge of force, and thus the greater your magic."
+
+Cale blinked. When had punishment come into play?
+
+"I find myself disinclined to trust your advice," Kryva called out. She was far enough toward the back that she had to raise her voice to be heard, and she was practically invisible from where Eviscerator stood.
+
+"Bah!" Eviscerator said, scowling and looking around to find the one that had spoken. She marched her way through the rows of students. "What do you know? I collapsed entire mountains with a single [Punch], and I did that every morn—"
+
+The Dark Warrior stopped mid-sentence with a faint, strangled noise as she finally made eye contact with Kryva, who as it turned out, was not only near the back of the class but had also managed to find a convenient rock to sit beside. The rock itself she was using as a table, and on that rock, she was brewing a pot of tea.
+
+The silence that followed was long enough that Kryva eventually raised a delicate brow. "Would you like some tea?" she ventured.
+
+"Ah," Eviscerator managed, her voice still oddly strangled. "Uh, no, my lady—I mean, um—you are not—what is your name, student?"
+
+"I am Kryva of Snowspire," Kryva answered, tilting her head slightly. "Is something wrong, Eviscerator?"
+
+"No, no, not at all!" Eviscerator said rapidly. "Everything is fine, ma'am—uh, student. Ordinary student. Or you aren't ordinary, I suppose, since you're wyldfire, but—"
+
+"I take it I bear a resemblance to this Pastel Queen of yours?" Kryva seemed amused by the thought. She placed her tea back down on the rock. "I am not her, I am afraid, though I appreciate the compliment. I would ask that you avoid collapsing any mountains on me, however. My training regimen is quite different."
+
+"I would—I would never," Eviscerator said, swallowing.
+
+Cale was, at this point, curious if Kryva was in fact the Pastel Queen. Perhaps she had somehow survived or shaken off the role? That should have been impossible, but nothing would surprise him, at this point.
+
+He doubted it, though. Kryva's mana core was strange, but it bore none of the marks that might have suggested a connection with the Dark.
+
+"The Pastel Queen..." Kryva mused out loud. "That was quite some centuries ago, yes? I believe some of the scrolls in our clan vault may reference her. Father must have wanted to hide our connection to the Dark, to bury them so deep, but perhaps she is an ancestor of sorts."
+
+"Of—of course, my lady," Eviscerator said, dipping into a half-bow before realizing what she was doing and straightening abruptly. "Ah, I mean, yes. That makes sense. But it is an honor to meet a descendent of the Pastel Queen. If you ever require any assistance with your training—"
+
+"I will ask," Kryva said. "I do believe you have a class to teach, though?"
+
+Sensing that Eviscerator needed some help getting things back on track, Cale chose this moment to jump in. "When you say you used a [Punch] to fell a mountain, are you talking about the first tier spell? The one that costs ten mana and just slightly enhances the blow?"
+
+Eviscerator latched on to the question like a lifeline. "That is correct!" she boomed, turning to face Cale. "A true understanding of melee magic gives a good mage the power to cause great calamity with even a lesser spell. That is a foundational principle of melee magic!"
+
+Many of the other students looked awed, and even Syphus leaned forward, interested. Cale's brows furrowed instead. She wasn't wrong—melee spells came with a great many disadvantages, but often made up for it with overwhelming power.
+
+Collapsing a mountain was far beyond that simple tradeoff, though. Cale frowned slightly. No, the only way a basic spell like that could accrue that much power was if it somehow incorporated an aspect of the Dark.
+
+Fascinating. He'd hoped to learn something about dark ones from Eviscerator, but it seemed he had a chance to learn how dark magic functioned, instead. He had to take a look at this spell as soon as possible.
+
+"Cool!" Cale said brightly. "You should demonstrate to the class."
+
+Eviscerator frowned at him. "It is a highly destructive spell when wielded correctly, I would remind you. How exactly would I do that?"
+
+Cale beamed. "By casting [Punch] on me, of course!"

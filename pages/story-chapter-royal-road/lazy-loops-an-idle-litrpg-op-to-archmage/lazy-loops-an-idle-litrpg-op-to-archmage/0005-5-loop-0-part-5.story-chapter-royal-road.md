@@ -1,0 +1,119 @@
+---
+id: 844d3c62-7262-513b-95c0-55c701ce42a8
+page-type-slug: story-chapter-royal-road
+title: "5. Loop 0, Part 5"
+slug: 0005-5-loop-0-part-5
+partOf: lazy-loops-an-idle-litrpg-op-to-archmage
+position: 5
+ownLength: 2204
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3453088/5-loop-0-part-5"
+royalRoadId: "3453088"
+---
+
+Enchantment Theory was the one class I cared about, for the simple reason that enchantment was the only school of magic that understood laziness as a design philosophy. You spent the effort once, and you never had to spend it again. It really was the best school of magic. Every other discipline required repeated casting or wore off after a certain time, or worse, made you do things. I shuddered. Enchantment let the object do the work, permanently.
+
+Lecture Hall 3 occupied what had once been a banquet hall for dignitaries back when Old Main had been a palace. Old murals of ancient royalty lined the walls like a forgotten family tree, most faded beyond recognition. They were kept in place by the Old Main Restoration Project my uncle spearheaded. It lacked proper funding, but somehow the pictures endured.
+
+At the head of the hall was a gorgeous stained glass that needed no saving. It depicted Queen Therumia, the last ruler of a united Hessalonia, in deep crimson and gold. She rested one hand on a brilliantly blue scepter that radiated power and magic, and, the other, she lifted skyward hoisting a sword. Around a hundred years ago, she had united the fractured kingdoms and founded her Queendom on top of an ancient library she’d discovered.
+
+When her heir was murdered some sixty years later, it sparked a civil war that tore the country into the three nations that exist today: Hessalonia, Kratos, and Restralia. The library she built her throne upon supposedly still sat beneath our feet, but had never been found. Some said magic protected its secrets. Others said those secrets never existed at all.
+
+That morning, the light hit the stained glass at just the perfect angle to throw colored reflections across the room. Blue and gold and red separated the room almost in perfect thirds, with the deep red silhouetting the lectern like a spotlight. Probably intentional. Queen Therumia had been known for a knack for the theatrical.
+
+Professor Marcus Thane was already talking when we walked in, ten minutes before the class even started. Finn split off to find a seat near the front where he could take notes, like the overachiever he always pretended not to be. I climbed to the back row where the light from the stained glass didn’t reach, and the seats were warm from the heating enchantments in the stone. As much as I liked the class, I still preferred to sleep.
+
+Floating subtitles appeared beside the professor as he paced. This was my favorite spell. The [Subtitle] charm dutifully translated his rapid-fire lecture into text I could read from across the room. At least one spell was earning its mana cost today.
+
+“The fundamental problem of the unified enchantment theory is that everyone always treats enchantment like it’s just casting a spell on an object. It’s about as technically accurate as saying cooking is just applying heat to food.” He was pacing back and forth across the lecture hall, giving his standard pre-lecture theory chat.
+
+“You’re not attaching magic to matter. No, no.” He laughed in an almost manic way. “You are convincing matter to behave differently. It’s a negotiation. A relationship between you, your magic, and the object of your enchantment spell.”
+
+A handful of even earlier students than us watched from their seats with the glazed patience of people who had learned to tune out his rambling.
+
+Suddenly, he jumped forward and thrust his wand out at the front of the stands. “You wouldn’t just walk up to a stranger and [Sticky] charm a to-do list to their chest, would you?”
+
+“I might,” a student in the second row jeered. Thane turned his head, stroked his chin, and then approached.
+
+“You might! And what would the consequences be, dear boy?”
+
+“They’d probably hit me?”
+
+“They’d probably hit you!” Thane repeated with delight, spinning away from the student with a hop before resuming his pacing. “And the objects will react the same way! Rejection! Instability! Catastrophic failure! I once saw a freshman try to enchant a wooden table into a liquid! The enchantment fought with the wood, the wood fought with the enchantment, and the table, get this, tried to eat him. Putting aside the dangers of attempting to enchant Treant-made furniture, enchantment is all about persuasion.”
+
+Thane approached a chalkboard that appeared out of nowhere before casting another spell at the board. Writing appeared and started diagramming his speech.
+
+“You have to understand what the material wants and then convince it you want the same thing. Wood wants to be sturdy? Stout and tall? Wonderful. You’re not changing that at all.”
+
+It was nine o’clock, the hall had filled with students, and Thane was still ranting about the same topic. But nobody wanted to stop him.
+
+“No. Instead, you’re saying, ‘Hey there, friend, sure would be nice if you could be stout and tall and sturdy. But you know, I think if you really want to be sturdy, you also need to be fireproof. Or unbreakable, or bigger, or smaller.’”
+
+He paused now, taking a moment to realize his class was already there.
+
+“That is why enchantment is the superior school of magic. Every other school forces its beliefs. Its ideas. Its magic on the target of the spell. But enchantment at its core forms a partnership between mage and spell, between mana and object.”
+
+There was a complicated magical diagram on the board, which had slowly enlarged itself as he spoke. At its center was a spell titled [Access Ward], its schematic laid out in detail. I never bothered with anything as complicated or finicky as another person’s spell schematic. Usually, they cost too much mana, or required extra thinking, planning, or time. All things I hated.
+
+Still, I took note of what he suggested for the persuasion piece.
+
+The board said: Stone wants to be still. Use this. Stillness is a wall. You’re just asking it to be still with a specific purpose…
+
+There was more, but my eyes glazed over at the obviousness of the spell. While I had never cast this spell before, I didn’t have to be Sara Voss to know that a fucking stone wants to be still. I shook my head at this waste of my time. Why did I even bother getting out of bed?
+
+The problem with most schools is that they’re forced to teach down to the rigor of the lowest common denominator, and despite never making proper headway with that denominator, everyone keeps acting like education is still on the up and up. And when things inevitably come crashing down, the system is never the problem. It’s the teacher.
+
+Not that it was Thane’s fault. The man knew enchantment better than anyone on faculty. His enthusiasm was genuine, even if it was wasted on a room full of students who couldn’t tell the difference between a ward and a wall. The system just wasn’t built for him. It wasn’t built for anyone, really.
+
+Thane had defected from Hessalonia near the tail end of the war. That was the official story, shared with me by Finn. The man absorbed rumors like a sponge and relayed them to me whether or not I cared.
+
+As students began the practice portion of the class, the door opened. I half expected some late student to come rolling in, but instead, the grey man from the Green walked in, hands clasped behind his back. Same cold grey eyes, same sharp grey goatee that seemed to point at people as his gaze lingered on them. Same grey suit, same grey expression, same grey muted energy, like he was trying to blend into a background that didn't want him, either.
+
+First the Green, now my classroom. Stalking schoolchildren was one thing, but stalking me specifically? Bold move. I barely stalked myself most days. He walked up the stands and took a seat in the back row.
+
+Ten minutes later, a bell chimed. The dull roar of the class muted down as all eyes turned back to the professor.
+
+“Who is ready to demonstrate their ability to suggest? Who can command the rocks to yield?” He flared his hands toward the class, asking a few individuals for help with a pleading look and a pointed hand.
+
+Sara’s hand went up before Thane even finished the question. Of course it did. Subtitles flickered beside her as she answered, though she spoke clearly enough that I didn’t need them. Three rows ahead of me, Finn was scribbling furiously in his notebook, diagramming the spell schematic but adding healing annotations branching off from it.
+
+He didn’t talk about it, but Finn was actually pretty smart. He did this in every shared class, mapped other disciplines onto a healing framework to make his own spells better. It was either brilliant or insane, I wasn’t sure which, but there was one thing I definitely knew: it was hard work, and I hated it.
+
+Sara walked to the front of the classroom and knelt before the flagstone.
+
+As she touched her wand to the anchor points of the flagstone, mana pulsed through her wand and out into the corners of the stone. The flagstone resisted at first, but through a few bits of pleading and more mana being fed into the stone, a faint shimmer started rising from the surface. Barely visible, it formed a pillar. That pillar was now as immutable and solid as the stone beneath it.
+
+Thane tested the ward by attempting to walk through the pillar; his boot hit an invisible wall of resistance and stopped dead in its tracks. He placed his hands in the air and pushed. Hard. The ward held.
+
+“Excellent. Excellent. Very well done, Miss Voss. Clean anchoring with uniform coverage. This is what proper persuasion looks like.” He spun around, eyes glancing through the crowd. They lingered for a moment on the grey man before turning toward me as if they were on a mission to spite me specifically. “Mr. Yarrow! You’re up next, please. Up, up, up, up, uppity up!”
+
+Ugh. Effort. Boo.
+
+I didn't want to. And I definitely didn't need to. I'd figured out my own ward spells last year, cheaper and lazier versions that did the job without all the anchoring busywork Thane was so fond of. But refusing would actually mean more effort.
+
+I'd likely end up in a conversation about why I was refusing. With Thane involved, the conversation would become a treatise on the reasons why enchantment was actually the most difficult school of magic. True? Sure. Worth talking about at length? Hell, no. Compliance, as always, ended up being the path of least resistance.
+
+I didn’t even get up. I scanned the room through [Wideview], looking for a target. Any flagstone would likely do for the lesson. They were all the same: grey, old, and almost driven flat by the passage of time. I was almost ready to pick one at random when [Soul Sense] pinged.
+
+It did that sometimes. My family trait, despite my uncle’s protestations that I keep it a secret, was mostly useless: Oh, look! There’s a soul! Oh, it’s just Finn. Yes, I am so grateful to know that my best friend has a soul and isn’t just some random Hessalonian golem plot. Revolutionary information on a daily basis. But every now and then, it caught something unexpected, and right now it was catching something from a flagstone near Thane’s unused podium.
+
+Unlike the rest of the stones in the room, there were three features unique to this one. First, this flagstone sat relatively higher than its neighbors; its surface still rough and textured, with a ridge that had somehow withstood the tests of time.
+
+Second, it had an elemental core. Elemental cores were common enough, the low hum of latent magic that half the rocks on any campus had, easy to detect with even basic magical training. You could trip over an elemental core in a gravel pit and not think twice about it. This one was a bit unusual only in that construction stone was typically stripped of its core during quarrying, but it wasn’t exactly remarkable.
+
+What was remarkable was the third thing. Deep within the stone, past the elemental core, there was something else: a dim, sleepy warmth that [Soul Sense] had latched onto. A soul. Small and sturdy, buried so far down that no ordinary detection spell would have caught it. Now that I saw it, I could feel how much it just wanted to take a nap.
+
+I liked it already. That was twice in one morning. First the Magiball, now a flagstone. Either souls were more common than anyone thought, or I was having a very strange day.
+
+With an ounce of effort, which Thane was lucky enough to get, I cast, “[Access Ward].”
+
+[Access Ward - Enchantment]
+
+Cost: 33 mana.
+
+Enchants a target surface to reject unauthorized access to a specific area.
+
+As the mana slithered away, I spoke thoughts to the power coursing out. Hey, my name is Lazlo, what’s yours? People walk all over you, don’t they? Wouldn’t it be nice if they didn’t?
+
+Only I wasn’t expecting the stone to talk back.

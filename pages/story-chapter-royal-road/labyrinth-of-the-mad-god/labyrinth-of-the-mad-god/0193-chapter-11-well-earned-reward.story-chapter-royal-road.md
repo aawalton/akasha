@@ -1,0 +1,111 @@
+---
+id: 8fb0cbbc-d4ca-54f8-8f47-8eaf8a12690a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: Well-Earned Reward"
+slug: 0193-chapter-11-well-earned-reward
+partOf: labyrinth-of-the-mad-god
+position: 193
+ownLength: 2061
+unit: words
+publishedAt: 2025-07-09
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2422172/chapter-11-well-earned-reward"
+royalRoadId: "2422172"
+---
+
+Nick felt a flash of disorientation when the demon hit the dirt and then shattered into fading fragments of light.
+
+His thoughts sharpened as his energetic core expanded then compacted within his chest, letting him know that he’d leveled after winning the fight. That’s a lot more intense than leveling as a Kineticist, thanks to those extra attribute points.
+
+He took a shuddering sigh, retrieved his sword, then sat down in the soil, absently noticing that the black ring had vanished along with the construct’s remains. As he fought to catch his breath, Nick took stock of his situation. He was battered and bruised—down to the dregs of his mana and electrified from the gallon of adrenaline still sloshing through his veins.
+
+Winning the fight had taken everything that he had, but in the end he’d prevailed. Beating the demon by the skin of his teeth had been terrifying, liberating, and utterly exhilarating. 2.5 stars was cutting it close. I should limit myself to two-star challenges for the time being.
+
+That being said, Nick was glad that he had decided to go for it. The battle had been a perfect tool to evaluate his growth, revealing several areas where he needed to improve. While all of that was valuable, it wasn’t the extent of his gains. He’d also picked up the potion pack, improved several skills, and earned a level to boot. He knew he had some updates awaiting his perusal, but he was too tired to look at them for a few more minutes.
+
+He was in bad shape if something unfriendly found him, so he slid his Flask of Restoration free from its beltloop, popped the cap, and downed the contents while enjoying the refreshing flavor. The elixir would take a day to refill, but with the potions he’d won serving as a backup, he didn’t need to save the flask for emergencies anymore—he could start using it to maximize his progression instead, like when he was training with Rita.
+
+Warm energy rushed through his limbs as the elixir went to work, restoring a quarter of his health, mana, and stamina. The magic brew took the edge off his wounds and gave him enough energy to rise to his feet. Since he was feeling better, he was ready to check out his prize for completing the challenge. Now, where did the System place my reward?
+
+He learned the answer when he noticed a simple wooden crate sitting beside his bag. After he cracked open the lid, Nick saw ten potions sitting inside, with a slip of paper listing their contents. However, he didn’t need it to determine which vial was which, since the concoctions were color-coded.
+
+Red for health, green for stamina, and blue for mana. Exactly as it should be. He grinned at the flashback from his old life filled with online games. He’d seen yellow Antidote Potions back in his tutorial, which meant that by process of elimination, the black brews had to be the Potions of Echolocation.
+
+He was curious to learn how they worked, but it would have to wait until he actually needed them. Echolocation would be perfect if he ever found himself stuck in a pitch-black environment, and those concoctions could save his life in a pinch.
+
+When he read the slip of paper just to be sure his deduction was correct, Nick discovered an interesting detail. While Basic potions from the System came in simple glass tubes, these high-grade versions came in shatterproof vials. It meant he could store some in his toolbelt for quick access and reuse the vials later. They must have counted as part of the reward—not that I’m complaining.
+
+He slid a health, stamina, and mana potion into his beltloops, then put everything else into his bag. After taking a quick look around to make sure nothing had approached while he was distracted, he opened his menus to check out his updates.
+
+Congratulations. You have accumulated enough experience to reach level [29].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+You have 8 free attribute points awaiting allocation at your discretion.
+
+Through use, you have improved the following skills:
+
+Acrobatics has increased from [3] to [4].
+
+Size Up has increased from [10] to [11].
+
+Wand has increased from [20] to [21].
+
+Note: You may not increase your Sword skill beyond 25 until you complete the trial of mastery. The trial will not be available until the Rebuilding Civilization quest begins.
+
+Decent gains for such a short fight. Nick had been hoping to pick up his first point of Stealth from creeping up the hillside, but he knew from experience that raising a new skill from zero to one usually took some time and effort.
+
+Even though he couldn’t take the test for a while longer, he decided it was a good time to look into the trials of mastery so he could start preparing himself for when they became available.
+
+Nick was pleased to discover there was a short codex entry on the subject.
+
+Trials of Mastery
+
+Every 25 skill points, a test must be passed before a skill can progress beyond that point. These trials will take place in an alternate dimension. No time will pass in the outside world, no matter how long they last subjectively.
+
+There are 4 ranks each skill can obtain: Journeyman (26-50), Adept (51-75), Master (76-100), and Grandmaster (100+).
+
+After advancing to a new rank, skill points become harder to obtain. However, passing each trial of mastery provides a bonus that is unique to each skill.
+
+Warning: The trials of mastery should not be attempted without adequate preparation. They are designed to determine whether you have fully integrated the lessons your skills have taught you and may not be retaken for six months after a failed attempt.
+
+Interesting. I didn’t realize skills were so complex. I should work on my swordplay before I take the trial. Maybe Kenji can offer a few pointers.
+
+He was hungry after his battlefield workout, so he climbed the hill again and helped himself to early lunch. When he looked down at the site of his duel with the demon, all signs of the System’s presence had vanished, although the scars in the soil remained.
+
+When he was done eating, he continued hiking northeast, taking it easy until his bruises finished healing and his vital energy had time to regenerate. Along the way, he reflected on everything he’d experienced since arriving on Earth.
+
+He was pleased with his performance in the fight and immensely satisfied with his new body and powers, but it wasn’t all good news.
+
+Nick needed more combat experience against skilled opponents and to become more proficient in wielding Blightbane. Raising his Sword skill after taking the test would help, but what he really wanted was instruction from another blademaster. For now, he would keep working on the katas Rita had shown him. Some members of Team Earth should be able to teach me. I hope I find them soon.
+
+By the time that late afternoon rolled around, he had realized that the badlands were even more extensive than he’d believed. It could only mean one thing. In addition to the brand-new pieces, the planet must have grown more than I thought. After making some quick calculations in his head, he decided that even by a conservative estimate, the Earth’s surface had to be almost twice as big as before.
+
+It was strange to contemplate and rendered his prior understanding of physics obsolete. But in the end, it was ultimately an upgrade from his perspective. The extra landmass would give humanity room to grow without stepping on the toes of their new beast neighbors—especially after so many people had died during integration and everything that had followed.
+
+Nick wasn’t sure how many of his people had fallen during their tutorials and while the Fate of Earth quest was underway, but he doubted that there were more than a billion humans alive today, and likely considerably less. It was a staggering loss by any accounting, and thinking about it filled him with a pungent wave of grief.
+
+His girlfriend, family, and most of his friends from his old life were probably dead. It was a bitter pill to swallow, but he had already faced his sorrow head-on. While the loss would always be painful, he was strong enough to carry their memories in his heart and soldier on. Some of them might still be alive. Once we figure out a way to establish communication between settlements, I’ll do whatever I can to find them.
+
+Nick spent the rest of the day crossing the dusty flatlands. Since he wanted to get in some training tonight, he decided to camp early after coming across a cluster of building-sized boulders nestled together like eggs in a nest. There was a gap running between two of them, leading to a modest enclosure that was too shallow to call a cave.
+
+Animals had been living inside at some point, but the tracks appeared to be several weeks old. Good enough. It didn’t have a bolt hole, but at least nothing could sneak up on him from behind, making it a decent place to camp for one night. He spent a good two hours working on his katas, enjoying the agility of his new body while preparing himself for the System’s sword test.
+
+Since it had been a while since he’d eaten a hot meal instead of munching on dried provisions, Nick built a fire, pulled a pot out of his pack, and tossed in some dried meat and spices to make stew. He enjoyed his dinner while watching the sunset from atop a boulder, then cleaned up his campsite, put the rest of the stew away to eat for breakfast, and got ready to call it a night.
+
+He set his PDA to sentry mode, spread a tarp out on the ground, then lay down with Blightbane propped up beside him, using his pack for a pillow and his cloak for a blanket.
+
+He awoke before dawn feeling remarkably refreshed. His mana and stamina weren’t quite full, but his wounds had healed, and he could fight at full strength if he needed to. With his thoughts on the future, he began stretching out his muscles while waiting for the sun to rise.
+
+Nick was ready to go at the crack of dawn, exiting his shelter while nibbling on a strip of jerky and sipping on a cup of cold stew. When he stepped out from between the boulders, he froze in place as a jolt of adrenaline shot through his veins.
+
+The reason for his alarm was simple; he wasn’t alone anymore.
+
+Two amber eyes were staring at him from a hundred feet away, framed by a furry gray face and a canine nose. I think it’s a coyote. The creature wasn’t much bigger than an old-Earth version, but he could tell at a glance that it was a beast; not an animal. It looks like a juvenile.
+
+He did his best not to appear threatening while scanning his surroundings. He didn’t see any others right now, but Nick was certain the rest of the pack wouldn’t be far away. For its part, the coyote just stared at him, tongue hanging out of its mouth while regarding him with open curiosity. The beast didn’t seem hostile, although his Size Up informed him that it was quite powerful.
+
+That was when he realized that the coyote wasn’t staring at him after all. The beast’s gaze was laser-focused on the strip of meat in his hand. Thinking back to his early days on the Searing Isle, when he had befriended the curious little lemur Bandit, Nick flung the strip of jerky toward the coyote and then froze in place.
+
+Thanks to his upgraded stats and the work he’d put into training his Throwing skill before it became inactive, the dried meat went sailing through the air in a gentle arc, heading right for the hungry beast. Before the tasty treat hit the dirt, the coyote leapt and snatched it from the air, displaying a liquid grace that took his breath away.
+
+The beast chewed, swallowed, then gave Nick one last look before vanishing in a flash of gray fur, leaving him alone with his thoughts once more.

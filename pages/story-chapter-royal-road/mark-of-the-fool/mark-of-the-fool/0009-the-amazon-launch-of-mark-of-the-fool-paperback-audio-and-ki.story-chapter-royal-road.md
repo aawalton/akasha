@@ -1,0 +1,19 @@
+---
+id: 3ac0e9ea-d4fe-53e6-8909-13870b02229d
+page-type-slug: story-chapter-royal-road
+title: "The Amazon Launch of Mark of the Fool: Paperback, Audio and Kindle! [+more]"
+slug: 0009-the-amazon-launch-of-mark-of-the-fool-paperback-audio-and-ki
+partOf: mark-of-the-fool
+position: 9
+ownLength: 363
+unit: words
+publishedAt: 2022-09-20
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/998100/the-amazon-launch-of-mark-of-the-fool-paperback"
+royalRoadId: "998100"
+---
+
+Hello everyone, I just want to thank you all so so much!Today is the day!
+
+It’s my great pleasure (and rapidly rising shock/panic) to announce the launch of my debut published novel Mark of the Fool Book 1, available now through Amazon’s Kindle Unlimited, Paperback…and…oh there was something else…Oh yeah, as an audiobook narrated by the great, the almighty Travis Baldree, who has narrated such greats as Primal Hunter, Unbound and this lil’ story that you MIGHT have heard of called Cradle. He also recorded this amazing trailer found here (https://www.youtube.com/watch?v=f-LI3yGFQaA) I’m really excited about the audio because Audible is having an amazing cash sale right now!It was really lucky the way it happened during my launch, but means that for the next 5 days you can get the audiobook for 1 credit or $8.63 USD in the current sale (regular price is 24.95 USD) so it’s pretty much the best time to jump into the series on audio.You can get it through these links:Amazon: https://mybook.to/markofthefool1 Audible: https://www.audible.com/pd/B0B6JPQXR6/?source_code=AUDFPWS0223189MWT-BK-ACX0-316942&ref=acx_bty_BK_ACX0_316942_rh_usThis...is the realization of a life long dream. A truly life long dream. Your support for me in these times moves me to tears. Seriously.Now, some people have asked how they can help. Here it is:Reviews and Ratings on Amazon (keeping in mind that anything below a 5 on amazon basically is a downvote because their ratings skew up) will REALLY help me right now, and the nice thing is that you don't need to buy the book to rate or review. So if anyone wouldn't mind jumping on amazon.com and doing that, that would be fantastic. (Or your local amazon).This content has been misappropriated from Royal Road; report any instances of this story if found elsewhere.I don't normally like to ask for much; this really helps me, though.A download on kindle unlimited helps too, if you have it. Makes the algorithm like the book more.Upvoting these posts can help me a bunch too:
+
+Thank you so much for all your help.And to celebrate, I'll be posting three chapters for today's update in the next hour! Thank you all so much!P.S. Also thank you so much, we've sold over 70 medallions! Thank you all so much!

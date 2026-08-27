@@ -1,0 +1,205 @@
+---
+id: 484fe87c-b646-52da-94e5-5fc46fbb7396
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19 – Language – Pt2"
+slug: 0019-chapter-19-language-pt2
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 19
+ownLength: 2149
+unit: words
+publishedAt: 2024-11-28
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1929470/chapter-19-language-pt2"
+royalRoadId: "1929470"
+---
+
+Kindra slumped on a wooden table, her head lying there. She yawned while two voices bounced around the small, stone home. Why is learning languages so hard?
+
+She let out a soft breath, blowing some of her white hair. Maybe I was so stressed that it turned white.
+
+Sigrid patted her on the back and gestured toward the room. Kindra nodded and stood. She paused, blushed, and grabbed the chamber pot. You’re on the list. I’m not dealing with you for long.
+
+Walking into her room, she used it and immediately searched for a sink. You’re on the list too. She frowned, looked at her dirty hands, and walked to the door, cracking it open and spotting Sigrid.
+
+Sigrid handed her a rag and grabbed the pot, taking it outside somewhere.
+
+Dain turned and smiled. He began gesturing, slowly asking a single question. “Why Artificer?”
+
+Kindra frowned. “I—” She frowned and gestured wildly. I wanted it. She slowly worked through words until she got something close.
+
+Resuming the vocabulary lesson, he began gesturing and miming out words. Kindra repeated words while her head swam once more.
+
+Dain paused, realization spreading on his face. He walked over and patted her back, gesturing to the bed.
+
+Kindra nodded and walked inside. She closed the door, pulled off the dress, and climbed into the bed. The mattress was surprisingly soft. Pulling the blanket up, she leaned against the small pillow and let out a relieved breath. “Aika? How are you?”
+
+“They’re teaching me the language while roving through the jungle like some primitive hunters. It’s wild.”
+
+“Are you safe?”
+
+“Yes, but I think Gleon is a little reckless. What about you?”
+
+“I’m alright. Lying in bed after too many new words.”
+
+“Can you tell them to me? I can teach you mine.”
+
+Looking at the stone ceiling, Kindra began listing the words and their meaning. Aika confirmed, listened, or replied with words of her own.
+
+Minutes slowly ticked by. The sound of people outside faded, leaving little more than the sounds of bugs.
+
+Kindra finished her exchange of words and embraced the growing exhaustion. “Sleep well, Aika. Be safe out there.”
+
+“You too. Miss you.”
+
+Smiling, Kindra listened to the sounds of the city. The eerily quiet city. The silence permeated everything. It has to be the undead. She frowned, and the sound of scuffing feet passed by.
+
+Shivering, she pulled the blankets closer and rested her head on the pillow. Her exhaustion sunk in. What a long day. She let it settle across her body. Pulling the blanket closer, her eyes drifted shut, and everything faded.
+
+~~~
+
+Ash fell from the sky like snow. The sky glowed a vibrant red, casting the rocky terrain in red light. The jagged volcanic stone stretched up to form a ridge.
+
+Kindra frowned at the hazy volcanic planet. Another dream? Walking forward, her feet sunk into the ash, sending little clouds into the air. “I hate this planet.” The words burst from her mouth in some foreign tongue. Somehow, she understood it, and they came without her speaking them. What? Her eyes shifted toward the man beside her. With white hair and icy blue eyes, he turned toward her.
+
+“Yes, but they are becoming a problem that we need to deter,” he replied, his voice rumbling.
+
+Turning, Kindra sighed and searched the horizon. “Come out, you horrific monsters!” she shouted in some strange tongue.
+
+A stream of fire licked across the land and snapped toward her. A stream of magic and runes snapped into existence, forming a transparent shield. The fire slammed into it, engulfing her in flames.
+
+Fire and magic danced around her. Am I dreaming? Kindra memorized runes. She flicked out her hand, and a burst of magic and runes appeared around her. The air around her went cold. Ice formed on the shield. It faded, and a burst of steam billowed into the air, the fiery magic ending.
+
+“Come out,” Kindra called, her voice lilting.
+
+A glowing being of living flame lumbered onto the ridge. The being’s form shifted from that of a tornado to that of a humanoid. Its eyes glowed white, and flames coursed up and down its torso. “Leave our world,” it rumbled in some strange language.
+
+“You have intruded on our domain,” the man next to Kindra hissed. “You will pay the price.”
+
+“All worlds are our domain.” The elementals’ flames burned white. The surrounding air lit on fire, and runes surged everywhere. Kindra’s hand snapped forward, and runes poured from her fingers. Icy wind met ribbons of flame.
+
+The man beside her waved his hands; runes poured from them and faltered.
+
+“There is no water here, fool,” the elemental spat.
+
+Kindra felt her lips pull into a sneer. She looked disdainfully at the elemental. “And yet, your entire kind will be extinguished.” With a burst of magic, a gale whipped forward, pushing the flame backward.
+
+What is this place? Kindra looked around the desolate world. Runes swirled around her, and she memorized. At least I can learn new spells. She focused on the runes. They surged in earnest. Rocks ripped from the ground and slammed into the elemental.
+
+It surged off the ground, flying into the air. “You fools think you can win here?” It laughed. “In the realm of fire?” The streaming ribbons of flame turned a vibrant blue, and heat washed across her skin.
+
+Kindra tried to gasp, to react in any way. Nothing happened. Her sneer remained locked in place. “Color me unimpress—”
+
+Her shield snapped into existence, and a fury of heat slammed through the shield. It grew with every moment. Sweat poured from her body, and Kindra saw the shield waver. Hissing a spell, runes flooded the area, and her body jerked.
+
+Space folded around her. Strange colors blurred, and she slammed into the ground on another world. A winter chill filled the air, and an ancient presence turned toward her.
+
+Like staring into the sun, the magic from its body lit the entire area. Her eyes remained locked on it, and Kindra’s heart thundered, jerking her awake.
+
+Thrashing in the blanket, she jerked up. Sweat trickled down her body, and she looked around the dark room. What the hell was that? The runes remained in her mind, blazing emblems that lit her mind. She took a long breath, shivered, and pulled herself into a ball.
+
+The door creaked open, and Sigrid poked her head in, her long braid dangling. “Kindra?”
+
+“Sorry.” Kindra pulled the blanket closer and looked up apologetically.
+
+Sigrid walked in and sat on the bed, patting her shoulder. She mimed. “Bad dreams?”
+
+Kindra nodded. Where did those even come from? She frowned. My hair was white in it.
+
+Sigrid scooted closer to her. “What was it?”
+
+Kindra paused and then shook her head. “Don’t know words.”
+
+Putting an arm around her, Sigrid nodded. “We’ll fix that.” She rubbed Kindra’s back and began singing softly.
+
+Listening to the music, Kindra curled against her and let her exhaustion win out, slowly drifting off to sleep.
+
+~~~
+
+“Get up, Kindra,” a voice called. It bounced around the stone room.
+
+Kindra groaned. If this is another nightmare, I’m going to ask for a sleep spell. She cracked an eye open and saw Sigrid standing next to the bed.
+
+Sigrid smiled and pulled the blanket away. “Time to get up and learn.”
+
+Nodding, Kindra forced herself up. Sigrid began a quiz, pointing at everything in the room and demanding the answer.
+
+Kindra quickly began reciting them, the words returning with far more ease than she expected. Guess the intelligence is helping.
+
+After passing her bedroom quiz, Sigrid opened the door and walked to the kitchen. She grabbed a bowl and brought it to Kindra, pointing at things and stating the words.
+
+Kindra repeated them and ate, forcing the dirt-tasting vegetables down and trying to find out if they tasted like that to the dwarves.
+
+Sigrid shook her head and tried to describe the taste, teaching her new words.
+
+Missing half of their meaning, Kindra finally gave up and ate the porridge, forcing it down before she could think about it.
+
+Standing up, she gestured and received a vocabulary lesson on cleaning. Sigrid washed the tin bowl in dirty water and placed it next to the flame, gesturing and describing words about fire, heat, and germs.
+
+Do they know germs? Or does that word mean something else? Kindra pondered it and didn’t know how to get the answer. Instead, she prompted another vocabulary lesson about different adjectives, starting with colors.
+
+The two spent hours practicing while they washed clothes, cleaned up after breakfast, and split wood out behind the house. At lunchtime, Sigrid vanished after telling Kindra to stay put.
+
+Kindra did, sweeping the floor and cleaning up the hearth while she waited.
+
+Dumping the last of the ash outside, she paused and looked at the door. What do I do now? She walked to the door and poked her head out, glancing up and down the street. Dwarves walked by. One turned toward her, and she pulled her head back in, shutting the door. Guess I should learn the language first.
+
+Sighing, she walked around the kitchen, examining the rather empty shelves. Do the necromancers take everything?
+
+The door opened, and Sigrid poked her head in. “I’m back. Doing alright?”
+
+Kindra nodded. “Where’d you go?”
+
+“To get wood.” Sigrid gestured her outside, grabbing a cart full of wood and pulling it behind the cottage.
+
+Kindra followed and paused. Sigrid began stacking wood.
+
+“Is this what you do all day?” Kindra asked.
+
+Sigrid shook her head and gestured at the wood. “I help Dain at the forge most of the time.”
+
+Kindra walked over and piled the logs. “Magic?” she asked, gesturing. “Why not use it?”
+
+Sigrid leaned closer and shook her head. “No, Kindra. Leveling is bad,” she mimed.
+
+What? Kindra raised a brow.
+
+“The necromancers watch,” Sigrid said as if that explained it.
+
+I’ll probe on that later. Kindra pointed at the nearby garden, and Sigrid resumed her vocabulary lesson, speaking softly and gesturing at the plants.
+
+Finishing the wood in a rapid flurry of movement, Sigrid walked over and gestured, giving names and descriptions of the plants. She ripped out what Kindra assumed were weeds.
+
+Repeating back the names of the plants along with several words regarding weeding. Kindra helped pull several weeds and looked at the small garden. “Food?”
+
+“There’s little,” Sigrid admitted.
+
+“Why?” Kindra gestured to the forest.
+
+Sigrid shook her head. “Necromancers.”
+
+Do they stop people from leveling? Kindra frowned.
+
+Sigrid turned and resumed the lesson. She pointed at parts of the city, the buildings, the stones, and anything else that came into view.
+
+Kindra memorized and memorized, her headache slowly returning, along with a growing desire to flee to the forest.
+
+The sun arced through the sky above, descending toward the horizon. Kindra’s head throbbed, and she massaged it while the unending stream of words flooded over her.
+
+Stumbling into the home, she laid her head on the table. “No more. I need to get out of here.”
+
+The door thudded open, and Dain walked in, covered with dust and ash. He walked over, kissed Sigrid, and grilled Kindra on every word that came to his mind.
+
+Kindra groaned and stumbled through the lesson and dinner, the words churning around her like a storm.
+
+Plopping onto her bed, she collapsed and drifted into a fitful sleep, her mind tangled in dark visions. A realm of shadow and plague filled her vision. It stretched out before her, and she spread it, sending cascading runes of darkness in front of her.
+
+With her heart thundering, her eyes snapped open to the familiar sight of Sigrid's cheery face. Kindra shivered, pulling the blanket closer.
+
+“It’s alright, sweetie.” Sigrid patted her. “It’ll pass. It’ll pass.” She sat next to her and resumed the lesson, pointing at things in the room.
+
+Kindra groaned, but she didn’t argue. Instead, she forced herself up and repeated the entire process: household chores, language lessons, more chores, and evenings curled up in her bed, exchanging vocabulary with Aika in an attempt to communicate.
+
+Time passed in a blur of routine. With each repetition, she noticed small improvements—catching the melody in Sigrid's words, mimicking her intonations, and stringing together phrases more easily each day. The cabin felt smaller every passing hour, and an itch to explore beyond the walls began to gnaw at her.
+
+Driven by a growing desperation to reclaim her freedom, Kindra forced herself to dive even deeper. She mumbled phrases aloud while scrubbing floors, repeated vocabulary while chopping vegetables, and tested sentences while mending torn clothes. She even practiced silently during meals, shaping the words with her mouth between bites of stew.
+
+After five intense days, she retired for the evening, her head no longer throbbing and the words finally starting to make sense.

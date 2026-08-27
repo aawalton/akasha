@@ -1,0 +1,197 @@
+---
+id: 43265a2c-2058-53c0-a50f-f7aded045ebb
+page-type-slug: story-chapter-royal-road
+title: "385. Gloria's Realm"
+slug: 0019-385-gloria-s-realm
+partOf: leveling-up-the-world
+position: 19
+ownLength: 2018
+unit: words
+ownProgress: 2018
+publishedAt: 2022-01-25
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/831532/385-glorias-realm"
+royalRoadId: "831532"
+markedReadAt: "2026-06-29T22:40:47.906Z"
+---
+
+A cloud of whispers always surrounded Dallion wherever he went. News about him being an empath had spread among the items of the village, and like anywhere else, there were guardians who wanted to talk. It didn’t help that Dallion had increased his empathy to nine. As much as he felt for them, though, Dallion kept on walking, barely responding with a single word. That was the problem with inhabited areas—he still was getting used consciously blocking the noise. Sometimes it just happened without him even thinking about it. Others, he couldn’t manage no matter how much he concentrated.
+
+There were no guards in front of the mansion, unlike in the past. However, Dallion felt the emotions of someone else.
+
+“You saved our lives back there,” Veil said, coming into view. “That still doesn’t make you welcome here.” He wasn’t joking.
+
+“I came anyway,” Dallion said.
+
+“Gloria said you would. I hoped you’d have more common sense.”
+
+“I’m not here to fight, Veil.” Not that there was any issue. Given that both of the Luors had refused to go beyond the second trial, Dallion would have no problem defeating them. “I came here to help.”
+
+Veil looked Dallion straight in the eyes. The Luor’s platinum blond hair shimmered slightly in the sunlight, almost making it seem he was an otherworlder as well. Emotions conflicted within him, emitting faint sounds that Dallion could pick up. After several seconds, the emotion of acceptance gained the upper hand.
+
+“I’m just here to talk to her,” Dallion decided he needed to give Veil a slight push. “And you.”
+
+“Let’s see if she wants to.”
+
+The current village chief turned around and walked into the inner garden. There was a time when this structure had seemed beyond magnificent to Dallion. Back then, it was the epitome of wealth, worth more than everything else in the village combined. Now it didn’t even look like a place a Nerosal minor noble would use for a home.
+
+“I heard you left the guild,” Veil said as he led Dallion through the corridor towards the great hall.
+
+“It was the best for everyone. I needed my space and it would have been awkward if I had stayed.”
+
+“So, just being you.”
+
+The hall was the same it had always been, just empty. Veil made his way to what passed as a throne and sat down. At first Dallion thought that Veil had changed his mind after all, and this was all he was willing to give. Soon enough, though, he heard steps. They were faint, but audible enough to hear. Then Gloria entered the hall. She was dressed as a noble ought to be—not the rough adventurer outfit of her brother, but a fine blue dress of improved silk and a love sleeved shirt of sapphire threads. There was little doubt that the clothes had been a gift from Falkner, though based on her reactions, she hadn’t deliberately put them on to spite Dallion.
+
+“Dal,” she said with a polite smile, making her way to the seat next to Veil. “A pleasure to see you. I didn’t think you’d come to visit so soon.”
+
+That was a clear lie. Apparently, Gloria was picking up the behavior of being a noble.
+
+What did you expect, dear boy? You didn’t exactly give her a reason not to treat you coldly.
+
+“I’m here to fix things,” Dallion went straight to the point. “For both of you. After that, I’ll be gone.”
+
+His sincerity managed to pierce through the fake pleasantries, causing both the twins to react. Even so, Gloria maintained her calm.
+
+“How exactly will you fix things?” she asked.
+
+“I’ll open the gate in your realm, so you can become double digits.”
+
+“That’s impossible!” Veil stood up, a hurricane of emotions raging within. “Once the gate is sealed, there’s no way it to be reopened.”
+
+“There’s a way, but it’ll require me to enter your realms.”
+
+This was the tricky part. The first thing an awakened were taught was never to allow others into their realms. Once inside, they were vulnerable to attack. At best, all their secrets regarding skills and abilities would be revealed. At worst, they could end up with a limiting echo and become puppets to another’s will.
+
+Under normal circumstances, Dallion wouldn’t have even offered. But the three of them shared a deep bond, one that even recent events wouldn’t dissolve… or so he hoped.
+
+“No way,” veil said, even if internally he remained conflicted. “I’d rather—"
+
+“Is there a real chance,” Gloria interrupted. “If you enter, is there a real chance that you might succeed?”
+
+“Yes,” Dallion nodded. “It’s real. You saw how I unsealed the powers of my mother. This should be similar.”
+
+The Luors looked at each other. Dallion could sense that they were discussing something in a whisper, but his perception level wasn’t high enough for him to hear what it was about. In future he was going to have to increase that as well.
+
+“Alright.” Gloria turned at him. “Start with me. After everything you’ve done, I trust you enough to let you try.”
+
+Of course, Dallion knew that if he messed things up, he’d have Falkner and family to deal with. Slowly, he made his way to the woman and placed his hand on her forehead.
+
+“Ready?” Dallion asked.
+
+Gloria nodded.
+
+PERSONAL AWAKENING
+
+The hall, and the rest of reality, disappeared, replaced by a far smaller room made of white marble. There were while columns in every corner, making the place a lot more sophisticated than Dallion’s own awakening room. Frames of skills covered the walls, like paintings. At a glance, Dallion could see that Gloria had gathered a lot more acrobatic skills than him.
+
+YOU ARE LEVEL 10
+
+BODY: 10
+
+REACTION: 10
+
+PERCEPTION: 10
+
+MIND: 10
+
+A blue rectangle glowed, indicating her level. As expected, she was capped at ten, meaning that no matter what she did, she’d never improve beyond this point. Her skills were no different, all ending at that level.
+
+“Amused?” a copy of Gloria asked.
+
+This caught Dallion off guard. He could see that this wasn’t an echo, which was rather unusual. Last time he had entered someone’s realm, the person in question hadn’t been there. Then again, the person in question was merely a semi-awakened.
+
+“It looks much different from mine,” Dallion said. “More artistic.”
+
+“Of course, you’d say something like that.” Gloria’s lips moved in a semi-smile. “Is there anything I must do, or just wait and watch?”
+
+“Take me to the gate,” Dallion said. “Or rather, take me to where you thought the gate would be.”
+
+Gloria didn’t move. Despite having invited him into her realm, she still felt uncomfortable by the fact.
+
+“I don’t need to see any of the other rooms,” Dallion reassured her. “I just need to see the corridor.”
+
+“This way.” She went towards the nearest entrance.
+
+Dallion followed her into a curved corridor that wrapped around the awakening room like a ring. The layout was nothing like Dallion’s own realm. There was truth to the saying that everyone’s realm was the same, but unique in their own particular way.
+
+“You’re staring at the walls again,” Gloria said.
+
+“It just reminds me of something.”
+
+Dallion only saw two doors along the way—nothing but the basic setup as it were. Gloria still didn’t have the ability to add rooms on her own. It was possible that she hadn’t understood Dallion when he had asked about the gate’s location. A short while later, he saw that he was half right. The place Gloria had led him to was a dead end. If Dallion were to guess, he’d say that the combat arena was located on the other end of the corridor, leading her to expect the gate to be in this one. Interestingly enough, that turned out to be correct. Dallion was able to see the outline of a door, the same way he could see hidden realms. The faint shimmering was a lot fainter, though, and whitish in color.
+
+“Stand back.” Dallion drew his Nox dagger. “I’ll cut through the seal.”
+
+“Wait.” Gloria reached out. “Give me a moment.”
+
+“You want to remain sealed?” Dallion asked.
+
+“I just want to be ready. The last time I went through the gate, I didn’t know what would be on the other side. Now I do and…”
+
+She’s afraid of admitting to a Moon she wants to change her mind, Nil explained to Dallion. Frankly, I don’t think there’s a more appropriate reaction. One shouldn’t be able to unseal a door.
+
+I guess I’m an exception to the rule.
+
+Dear boy, you are a stack of exceptions woven together in one giant impossible rug. I’ve long stopped counting how many statistics you’ve broken.
+
+“Take all the time you need.” Dallion lowered the dagger and waited.
+
+Clusters of fear and regret formed within Gloria, like grapes. Slowly, they faded away, replaced by wonder and hope. Then, she nodded.
+
+“Go ahead.”
+
+Dallion slid his hand along the wall, stopping at the corner of the door outline. There he pressed the tip of the dagger, pressing it inside.
+
+“Nox is quite useful,” Gloria said as she watched Dallion slide the knife down, ripping the wall.
+
+“He’s become a real rascal. All of my familiars are.”
+
+“That’s right, you have more than one. Even Falkner was a bit jealous.”
+
+That’s not what he was really jealous about, Dallion thought.
+
+Bit by bit, the outline of the door was formed. As Dallion moved the knife towards the final connecting point, something made him split into instances. It was a good thing too, for the moment the entire gateway was cleared, a massive mace broke through the stone, crushing two of Dallion’s instances.
+
+“Lux!” Dallion shouted in the remaining instance. Wings of blue flame emerged from his shoulders, propelling him and Gloria away from the opening seconds before the section of the wall was smashed to bits.
+
+COMBAT INITIATED
+
+“What the hell is that?!” Gloria shouted, summoning her bladebows. Dallion followed suit, summoning his harpsisword.
+
+“I don’t know,” he said, playing a chord of charm focused both at her and himself. “This didn’t happen last time.”
+
+Last time, you didn’t break into the chamber of a Moon, Nil said.
+
+The giant mace pulled back. Through the doorway, a room was visible—the exact same room in which the trial had taken place. From this distance the details were unclear, but Dallion thought he recognized the stone furniture. A tall man in shimmering white armor and an enormous mace calmly stepped out of the chamber and into the corridor.
+
+MOON ECHO
+
+Species: ECHO
+
+Class: Emion-spawn
+
+Statistics: ???
+
+Skills: ???
+
+Weak spots: None
+
+Seeing the white rectangle was enough to make anyone feel afraid. Dallion had never seen a Moon Echo, he hadn’t even heard the term, but even so he knew perfectly well what it represented. Of course, it was naïve to expect that breaking a gate would be as easy as a simple unsealing. The Moons had created all the rules in order to maintain some sort of balance in the world. Of course, they would step in if someone abused it. If not, the Star would have ruled freely over the world by now.
+
+Taking a few steps forward, the echo looked at Dallion, then at Gloria.
+
+“It’s not here to punish us,” Dallion said. “It’s only here as part of the trial. Since you refused before, now you must prove your resolve.”
+
+“And you’re here to help me,” Gloria said. “Just like in the good old days.”
+
+It was funny how a year’s time was referred to as the “good old days,” but Dallion got the point. Back then, Gloria had asked him to help her level up by joining forces against a sandstorm dragon. Now it was no different.
+
+“Don’t worry, it’s probably level fifteen at most,” Dallion said. “We’ll take care of it.”
+
+“I’m just a level ten,” Gloria replied.
+
+“Lux, onto her.”
+
+The blue flames jumped from Dallion to Gloria.
+
+“Now you’re more than level ten,” Dallion winked. “Now, let’s get you unsealed.”

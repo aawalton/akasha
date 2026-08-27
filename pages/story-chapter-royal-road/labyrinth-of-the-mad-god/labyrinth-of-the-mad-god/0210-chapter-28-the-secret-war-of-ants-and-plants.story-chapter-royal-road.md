@@ -1,0 +1,99 @@
+---
+id: 275c90df-a57a-5005-b409-af4076560566
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: The Secret War of Ants and Plants"
+slug: 0210-chapter-28-the-secret-war-of-ants-and-plants
+partOf: labyrinth-of-the-mad-god
+position: 210
+ownLength: 1961
+unit: words
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2528698/chapter-28-the-secret-war-of-ants-and-plants"
+royalRoadId: "2528698"
+---
+
+As Nick crossed the Bladewind Badlands, he began to grasp just how much the Earth had changed while he was away.
+
+It wasn’t just humanity, beasts, and the strange lifeforms the System had introduced to the planet. The animals and plants were changing too, undergoing rapid evolution as they integrated the new natural force known as mana into their biology. In fact, every creature he encountered seemed to be developing survival strategies that were based on magical principles.
+
+When the duo stopped to eat lunch, they watched as a swarm of wasps invaded an anthill, digging through the dirt to feast on the larva living below. It was an epic struggle on a miniature scale—every bit as intense as his most desperate battles.
+
+After experiencing a wide variety of creatures trying to kill him on a fairly regular basis—including some giant wasps back in the arena—he understood just how terrifying it was to be attacked by a superior force. From an ant’s perspective, the sleek killing machines known as wasps were just as horrific as any monster.
+
+He knew that ants employed a range of strategies for dealing with such invasions—from forming chains to counterattack the wasps’ nests, to spraying their enemies with acid. But when a line of regular-sized ants emitted a two-foot flamethrower that caught a dozen wasps on fire, he realized the rules had changed while he was away.
+
+When Nick switched on mage sight, he could see faint flows of fire mana being channeled throughout the colony—thousands of insects pooling their efforts to create a spell-like effect. It was crude compared to a System-granted ability, but more than he could manage as far as manipulating raw mana was concerned.
+
+When he looked at his travelling companion, Liz was watching the battle with wonder on her face. “It’s like the System said. All life on Earth is learning to use magic, evolving at a rapid rate in directions that would never have been possible before. As strange as things are now, this is only the start. I can’t even begin to imagine what our planet will look like in another decade, let alone a century.”
+
+“I can’t either.” He met her gaze and smiled. “But if we play our cards right, we should live long enough to find out.”
+
+After that, he kept an eye out for more of the changes that were taking place now that the Earth was generating life mana—the precursor to all the rest. The closer he looked, the more he saw. Nick spotted vegetables that screamed when beasts tried to eat them—flowers that could uproot themselves and hover in the air, stealing the sunlight from the vegetation below.
+
+Elizabeth drew his attention to a flock of ducks that were crossing the sky in a flying V. A pair of hawks swooped down from high above, heading for the rear of the formation. Before their talons could sink into their prey, electricity conducted along the row of ducks. A cracking bar of lightning knocked one hawk from the sky and sent the other fleeing in the opposite direction while screaming in terror.
+
+He shook his head as they kept walking. It seems I’m not the only one who’s still adjusting to our new reality.
+
+While they journeyed, Nick kept working on his mage sight and mana manipulation. After learning about his successes in advancing his abilities, Liz adopted his training regimen. They spent at least an hour on it every day and stopped whenever they came across an unusually potent source of magical energy to hone their senses.
+
+He was also working on tuning his mage sight inward, trying to sense the mana flowing out from his core as it travelled through the magical circuitry in his brain before manifesting in the physical world. On the mana manipulation front, he spent some time trying to recreate each of his abilities from scratch, mirroring the process he had used to advance Mana Dart.
+
+He didn’t obtain a deep enough insight to rank up any of his powers yet, although he sensed he was getting close with Force Acceleration. He did, however, take his first steps toward modifying the ratio of pure and force mana that formed the drill bit of Piercing Ray. He wanted to learn how to prioritize force when penetrating physical defenses and emphasize pure when shattering magical shields. The going was slow, but he considered the time to be well spent.
+
+He was also getting a better feel for the stamina flowing out from his well, but his efforts to guide it throughout his body were rudimentary at best. He was hoping to get some pointers from warriors specializing in combat arts when he met up with more of Team Earth’s elites.
+
+After losing another round of Blended hide and seek, Nick was ready to start working on suppressing his energetic signature. When the duo camped for the night, he closed his eyes and sent his focus inward, watching the mana churning within his energetic core.
+
+Now that his senses were growing sharper, he could perceive traces of life mana flowing in through tiny channels embedded within his skin, which the System had carved during integration. Once it entered his body, the mana condensed until his core was full, but that wasn’t the end of the story.
+
+Tiny flows were constantly cycling, moving through his magical circuitry for reasons he didn’t even begin to understand. I wonder if I can stop the flow and have my energy go perfectly still. After some trial and error, Nick was able to figure out the trick. It took intense concentration, but he could mute his mana signature and let the energy permeating his environment shine through.
+
+When he activated Blend into the Background while maintaining that state, Liz reported that she could barely sense him at all. There was still a faint distortion from the planet’s mana flowing around the concentrated energy contained within his core, but it was difficult to spot unless you knew exactly where to look.
+
+After that discovery, they added the technique to their daily training regimen, which they decided to call “mana stealth.” His efforts to maintain it while moving or dividing his concentration ended in frustrating failure, but Nick wasn’t too discouraged. Mana stealth was a novel form of mana manipulation, and it would take some time to master. It’s helping us train our baseline Magic too, so it’s useful in more ways than one.
+
+Watching each other’s cores so intently led to one last discovery, which he wasn’t sure what to do with just yet. While their bodies naturally absorbed any mana that was compatible with their abilities, most of it was comprised of unexpected life mana. But when they cast a spell, their circuitry changed the frequency of the energy, producing the various other types of mana the spells required to function.
+
+That brought Nick to the final item on his magic-training checklist.
+
+He had been looking for a chance to test out his latest upgrade to Mana Dart, but they hadn’t come across any more monsters or constructs. It didn’t feel right trying it out on a random animal or beast—especially since they were going to be allies going forward, working together to defend the planet from whatever stepped through the portals when the entrances to the Labyrinth opened.
+
+He eventually decided that if he wanted to understand his spell’s new property, he was going to have to experiment on himself.
+
+Given how painful shooting himself had been the last time he’d tried, Nick wasn’t looking forward to the experience at all. But he needed to understand the consequences of destabilizing vital energy before he could rely on it in battle, and it was likely to teach him something interesting regardless.
+
+He would never have attempted it if he were travelling alone, but he had Liz to guard his back. He didn’t know how long the effects would last, but he doubted a single dart would prevent him from travelling the next day—especially with his Flask of Restoration ready to patch him back up.
+
+He also had the potions he’d earned for defeating the demon in case something went catastrophically wrong. He doubted he’d need them, but having some insurance gave him enough confidence to proceed with the test.
+
+After scanning their surroundings for danger, they both activated Blend and got ready to begin. Liz was fascinated by the prospect of watching the effect up close—to the point where the gleam in her eyes scared him just a little. He knew she was just excited to learn more about magic, but it made him feel like a research subject, which, to be fair, was an accurate description of the situation.
+
+“Okay.” Nick took a deep breath and conjured a dart. “Here goes nothing.” With that, he gave the spell its marching orders, bracing himself as the silver wedge penetrated his arcane barrier, plunged into his leg, and dispersed into the tissue below.
+
+Being hit with a Mana Dart back in the luxury saferoom had been incredibly painful—the natural consequence of having a chunk of all three vital energies torn free from his system. What happened this time was something else entirely.
+
+He clenched his jaw to keep himself from screaming, focusing on the spell rampaging inside him. The immediate effect wasn’t as intense as before, but that initial shock was only the beginning. Apparently, having his vital energies disrupted instead of erased made them unusable and highly reactive.
+
+It was like a sliver of Nick’s health, mana, and stamina had been turned into weapons. The unstable energy was actively damaging his system—disrupting his stamina well, magical circuitry, and biorhythms at the same time.
+
+The combined effect was deeply unpleasant and had consequences beyond mere pain or disorientation. While his body was suppressing the rogue energy, he had a hard time casting spells, guiding his stamina, and controlling his limbs. The interference made it impossible to concentrate on mage sight or mana stealth and weakened the output of all his abilities. Even Blend wouldn’t work at full strength. His body kept flickering in and out of invisibility.
+
+Nick wasn’t in any real danger from taking a single spell, but he had a feeling that stacking enough of them could cause lethal damage.
+
+In short, his new Mana Dart was both amazing and kind of terrifying. I’ll have to be on guard against powers that disrupt vital energy going forward, although I doubt many attacks will target all three forms at once.
+
+When he was done analyzing the effect, Nick slammed his Flask of Restoration. The magic brew worked wonders, refilling the energy he’d lost and repairing the damage the destabilization had caused.
+
+The successful experiment had deepened his understanding of Mana Dart and of vital energy in general. Combined with his other exercises, it was enough to boost his baseline Magic.
+
+By deepening your understanding of magical energy, you have improved the following baseline attribute:
+
+Magic has increased from [11] to [13].
+
+Liz had picked up another point too, and they discussed what they’d observed while walking the next day. A few hours later, Nick finally came up with a name for his finishing move—the faster-than-sound slash that combined Heavy Blow, Force Acceleration, and the Quickdraw modification from his scabbard.
+
+While he was talking the matter over with Liz, she rubbed her chin and said, “That attack is supersonic… how about Sonic Slice? By the time your enemy hears the crack, they’ve already been cut.”
+
+“That’s… actually pretty awesome. I’m sold. Thanks, Liz. You have a real talent for branding if this whole post-apocalyptic leader of humanity thing doesn’t work out.”
+
+She laughed and they kept walking as their trek across the biome entered its final stage.

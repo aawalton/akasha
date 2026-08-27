@@ -1,0 +1,221 @@
+---
+id: 23bb15eb-e3e0-5b3e-bd7c-10438d8f3139
+page-type-slug: story-chapter-royal-road
+title: "271. In the Mirror"
+slug: 0014-271-in-the-mirror
+partOf: leveling-up-the-world
+position: 14
+ownLength: 2696
+unit: words
+ownProgress: 2696
+publishedAt: 2021-09-29
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/758578/271-in-the-mirror"
+royalRoadId: "758578"
+markedReadAt: "2026-06-29T22:40:37.670Z"
+---
+
+SPHERE ITEM AWAKENING
+
+A forest surrounded Dallion. In several ways, it was similar to the one in his last visit, however, there were a few subtle and not-so-subtle differences. For starters, all the tigerpines were gone. Dallion could sense a few creatures in the vegetation, but they did their best to keep away from him, likely aware of the level difference. Another difference was that the trees themselves had changed into a weird hybrid of pine trees with maple leaves. Back on Earth the combination would have been unthinkable, here Dallion didn’t even blink, finding it just mildly amusing.
+
+“No fighting this time, Nox,” he said as he made his way to the arena of the first level guardian.
+
+The guardian chamber, as before, was a large meadow next to a large rock that held the gate to the level below. For a moment, Dallion wondered what the connection between a forest and a mirror could be, but decided not to ask questions.
+
+Sometimes going slow is the fastest way to move forward, Nil said. Something you might want to consider, dear boy.
+
+“I think I’ve no problem with the slow department,” Dallion replied. In his view, he was already wasting too much time, being on the verge of procrastinating. If he had a bit more discipline, instead of slacking away, he might well have been level twenty-five by now, or at the very least maxed out his skill level. Instead, he had turned into the average, middle of the road slacker who was constantly rushing at the last moment to achieve the minimal requirements for the next challenge life in this world presented him.
+
+That is precisely part of the problem. The reason you’re so slow is because you’re trying to go so fast. It’s something you need to work on.
+
+Dallion didn’t say a thing, but he knew that already. Sadly, he also knew that he couldn’t do anything against it. It was wasteful for others to tell him to “slow down,” but the only thing that did was to make him procrastinate even more.
+
+“Nox, you didn’t defeat the guardian again, did you?” Dallion gave the Nox dagger an annoyed look.
+
+A distant meow assured Dallion that no such thing had happened, but considering Nox was behaving more and more like a cat with each level up, he still had some doubts. Thankfully, it turned out to be the truth. There was a rustling sound. A patch of grass several steps away grew at an alarming rate, exploding into a hedge. Before Dallion’s very eyes, the hedge twisted into a shape, creating a creature he had encountered before.
+
+“Bladicorn,” Dallion whispered.
+
+LEVEL 1 GUARDIAN
+
+Species: Bladeicorn
+
+Class: Earth
+
+Statistics: 100 HP
+
+Skills:
+
+- Entangle
+
+- Rain of Blades
+
+- Charge
+
+Weak spots: Hooves
+
+Seeing Dallion, the creature snorted, then stomped the ground with its front hooves. It was the closest thing to an actual unicorn Dallion had seen, created entirely of blades of grass. The last time Dallion had faced a creature of this nature was in one of Nerosal’s awakening shrines. Back then Dallion wasn’t even a double digit awakened, though he still remembered the creature fearing him for some reason.
+
+“Hey, there.” Dallion took a step forward, extending his hand. “There’s no need to fight.”
+
+At his current level, if the creature were to charge at him, Dallion could easily leap in the air, and avoid the attack even without the use of instances.
+
+“I just want to fulfill the mirror’s destiny.”
+
+The bladicorn snorted, taking a step back. Dallion could see the doubt in it, but also hope pulsing in its head.
+
+“It’ll be alright.” Dallion took another step forward, putting as much empathy as he could through the use of his music skill. “Remember the last time I was here? I cleaned the place. I’m not here to fight. I’m just here to help someone.”
+
+That caused the bladicorn to stop in place. Turning its ears forward, it waited. For a moment Dallion thought it would talk as some guardians had, but alas, there was only silence.
+
+“You don’t even need to surrender. We could call it a draw.”
+
+That won’t work, dear boy, Nil said. Normally, all guardians must be considered defeated in order for an artifact to level up. Then again, I could be wrong.
+
+Dallion knew that wasn’t entirely correct, though little more beyond that. Either way, it was a good idea to be a bit more convincing. For a moment, he concentrated as hard as possible, then… he split in two.
+
+The unicorn stepped back. Most likely, the process seemed just as freaky to it as it did to Dallion. Even Nil could be heard to chuckle from within Dallion’s realm.
+
+You definitely need more practice in creating echoes, the old echo said. Looking at you is like looking at a five-year-old.
+
+“Easy,” Dallion’s echo said, moving slowly towards the bladicorn. “I’m not going to hurt you.”
+
+“I just want to show you that I don’t intend to fight,” Dallion proper added. I just want to show you I’m serious, he said mentally. “If you want further proof, my echo will stay here while I clear the other levels.”
+
+Nil’s gasp could be heard throughout Dallion’s entire realm. Offering a guardian a draw was controversial enough. Creating an echo just to spend time with one was beyond comprehension.
+
+“You don’t have to surrender.” Dallion ignored Nil. “As I said—"
+
+Combat ended
+
+The Bladicorn has accepted a draw
+
+That was fast, Dallion thought.
+
+It knows it stands no chance, Gen said. Also, it's curious to see what would happen.
+
+What do you mean?
+
+Having an awakened go through all the trouble to create an echo just to spend time with a guardian that by definition should be killed so that the awakened could continue to the next level? I don’t know, that sounds pretty unique to me.
+
+Surely someone must have tried something similar, Dallion dismissed the notion.
+
+Not that I can tell. At least I wasn’t able to find anything in the library. I’ll look again.
+
+That can’t be right. I’ve been hearing that children do this all the time.
+
+Not many children venture into sphere items, Gen reminded. We’re talking either nobles or eccentrics, both of which don’t like to leave records for others to see. I’ll discuss it with Nil once he gets over his shock. For the moment, deal with your stuff. You already have plenty of it.
+
+Moments later, the gate to the lower level opened. Dallion turned towards the bladicorn. The guardian had allowed Dallion’s echo to approach close enough to pat it on the side, as if the creature were one big horse. The more surprising, and slightly annoying, element was that the echo seemed to do this much more naturally than Dallion. Clearly, echoes were created with some knowledge of the world that Dallion lacked.
+
+This isn’t supposed to happen, Nil whispered.
+
+You’re overreacting, Nil, Dallion said as he walked through the gate to the next level of the mirror realm.
+
+No, I mean the gate shouldn’t have opened. The guardian’s death is a requirement.
+
+I’ve seen exceptions.
+
+Exceptions exist, but they’re supposed to remain exceptions. The last time you were here, Nox had to defeat the guardian so you could continue. The requirement must be the same.
+
+Well, lucky for us that it wasn’t, Dallion moved on. It was rare for Nil to overreact. Seeing him get like this for something as trivial, suggested that the Green Moon had given Dallion a few more gifts. If he had gained the ability to overcome guardians without fighting them, this could be a huge advantage. It was a very specific advantage—good for exploring and leveling up sphere items, though otherwise useless.
+
+The silver lake was already rippling when Dallion entered the second level of the mirror. Approaching the edge, Dallion crouched and reached to touch the surface. The area beneath his hand hardened, like a circle of ice on water. That was different from last time, though it no longer frightened Dallion. With a smile, he straightened up and walked forward. Spots of the lake hardened forming platforms of support beneath his feet, before melting away.
+
+Soon enough, the guardian emerged from the lake, her wings shining like the surface she emerged from.
+
+Dallion held his breath. Looking at her was like looking at a fractal painting. Back on earth there probably would be an arts professor giving all sorts of explanations relating to the golden ratio, the Fibonacci spiral, and a lot of other terms Dallion had never heard, all to explain why the combination of lines and colors seemed to incorporate beauty itself. However, Dallion wasn’t focusing on that, he was looking at the light beneath the pattern, which had only become clearer now that he was a seer.
+
+“You came back,” the guardian said, somewhat surprised.
+
+“I made a promise.” Dallion smiled. “I also bought you.”
+
+“You did?” The butterfly descended, stopping a few feet from the lake’s surface. “Just me?”
+
+“For now. I paid to book the other items, but I didn’t have enough money for them, yet.”
+
+“You’re unusual.”
+
+“I’ve been told that before.” In fact, he had all too often.
+
+“And now you want to level up the mirror?”
+
+“No.” The answer caused blotches of confusion to appear throughout her wings. Even the way emotions appeared on the guardian were different—not the usual clumps of sound and color, they had the appearance of thine lines that followed a pattern. “I came because I want you as a familiar.”
+
+Hearing that, the Spectral Shardfly quickly flew higher, well beyond reach.
+
+“I’ve heard that before,” she said bitterly.
+
+“I suppose you have. As I said, I can see you, and I know you don’t belong here.”
+
+“You don’t you only guess. There are a lot of things you can’t know.”
+
+“And you can’t tell me before I learn it myself,” Dallion repeated out of habit.
+
+“I can tell you.”
+
+This time it was Dallion’s turn to be surprised. This was an answer he didn’t expect. From everything he has seen so far, the Moon’s laws were absolute. Even the Star couldn’t go against them, and somehow she could tell him things beyond her level?
+
+“If I choose to,” the guardian added. “I’ve seen that you’re different, but the one who caught me was also different. She didn’t make promises, she didn’t even talk, always doing things that made me curious, and when I got close to ask her, she captured me.”
+
+Nil, know anything about that?
+
+I don’t think so, the echo replied. For the first time since he had been given the library ring, Dallion wasn’t convinced the Nil was telling the truth.
+
+“Tell me about it,” Dallion said.
+
+“So, you can capture someone else?”
+
+Dallion remained silent.
+
+“I was captured for my wings,” the shardfly said after a while. “The mirror, the lake you so much admire, exists only because of me. The people that made it wanted a perfect reflection, so they sent out hunters to capture me and put me in the item’s realm. My freedom, my whole existence, was taken and locked out of this world only so that someone could buy a cheap trinket that would reflect just a bit better.”
+
+Dallion felt the vines round his heart tighten. He could see the agony build up in the guardian. When he had come here to free her, he knew that the people at the Drum had treated the item—and guardians inside, respectively—poorly, but he hadn’t expected this.
+
+“You’re from an imprisoned species,” he whispered.
+
+“No. Just one of the creatures in the wilderness. I lived in a beautiful and terrifying place, until I was snatched out of my reality and put here.”
+
+“What if I take you out of this prison?”
+
+Faint laughter filled the air, causing the light in around the butterfly to reflect.
+
+“The only way to set me free is to break the item,” the guardian fluttered closer. “Forget that. Complete the favor I asked. That will be enough.” She flew further away again. “In a few weeks, you’ll forget all about this conversation. That’s the fate of those like you. Other things will appear demanding your attention and you’ll give it, just as you did for me.”
+
+“I know a way.” Dallion didn’t give up. “I think I do. You won’t be able to return to the real world directly, but you’ll see it…” He clenched his fists. “I want you to become my familiar.”
+
+For a second, the butterfly froze. It was as if someone had paused reality as far as she was concerned—her wings remained perfectly still, and yet she didn’t fall or even change her position in the air. Specks of hope appeared throughout her body, building up in the edge of her wings.
+
+Taking this as a good sign, Dallion continued.
+
+“I need to defeat you without fighting,” Dallion said. It was just a theory, but that was the common element between Lux and Nox. “I need to make you fade away from this realm. When I level up you will return.”
+
+“You don’t sound too sure.”
+
+“I’m not.” You need to decide whether to go on, Dallion thought, but didn’t have the heart to say it out loud.
+
+“You’re asking a lot of me.”
+
+“When I said I see you, I also saw your pain. You’ve been hoping that one of the challengers breaks the mirror during the gauntlet; that only then will you find some rest.” Dallion paused. “I don’t know what happened to you before, but I am offering to take away the pain. I won’t go on with it if you don’t want to. I won’t even level up the mirror, if you tell me not to.”
+
+The shadfly’s wings moved, though not to fly. Two by two they folded in on each other, changing the shape of the guardian like a living origami. Streams of silver trickled down, as if squeezed out of the creature, and with every drop the lake became more and more plain. Other parts of the guardian’s body kept on folding on itself, halving in size. The sharpness, so typical of the species, slowly disappeared, replaced by warm softness. In the end, an entirely new butterfly fluttered in the air—a bundle of emotions with seven wings each glowing with the color of the Moons. Free of its burdens, it circled Dallion twice, then landed on Dallion’s open hand.
+
+“Want me to continue?” he asked. Warmth spread down his hand down his elbow, along with the sensation of a spring dust of wind, and autumn drizzle.
+
+The shardfly’s emotions replied for it, asking that he continue. Finally, after millennia, it didn’t feel alone and wanted to keep the sensation.
+
+“It’ll be fine.” As gently as he could, Dallion passed a finger over the creature, as if stroking it.
+
+The guardian’s emotions flared up. It felt happy for once, glad that someone else had offered to share his warmth with it. Every stroke had the effect of an eraser over a pencil picture, removing part of the creature away.
+
+Why does this part always have to be bittersweet? Dallion asked. There was no answer, just as there was no guarantee the shardfly would return as a familiar. The only thing that was certain was that it had finally found happiness once more.
+
+It took over a minute for the Spectral Shardfly to disappear completely. Once it did, the familiar rectangle appeared, letting Dallion know he could continue to the final level.
+
+A gate of silver emerged from the lake, revealing a staircase downwards. However, Dallion wasn’t in the mood to continue.
+
+You have to finish this, Gen said. It won’t work unless you fulfil the item’s destiny.
+
+Just give me a while, Dallion said. A few minutes won’t slow me down.
+
+He looked at his empty hand, then at the sky. The sun was still shining, its way bouncing off the surface of the lake, but the light seemed faded. Without the shardfly, it was almost as if there was no light at all.

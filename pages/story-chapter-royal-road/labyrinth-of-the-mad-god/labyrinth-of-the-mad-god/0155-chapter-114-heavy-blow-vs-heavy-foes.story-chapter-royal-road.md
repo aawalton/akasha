@@ -1,0 +1,87 @@
+---
+id: e85d2231-9c00-5d68-9334-92181ecb4866
+page-type-slug: story-chapter-royal-road
+title: "Chapter 114: Heavy Blow vs Heavy Foes"
+slug: 0155-chapter-114-heavy-blow-vs-heavy-foes
+partOf: labyrinth-of-the-mad-god
+position: 155
+ownLength: 1754
+unit: words
+publishedAt: 2025-04-09
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2188218/chapter-114-heavy-blow-vs-heavy-foes"
+royalRoadId: "2188218"
+---
+
+Nick feinted to one side, drawing two of the ice hedgehogs in that direction when they moved to block his path.
+
+The third wasn’t fooled and came charging right in, which suited him fine. All he wanted was to create an opening, and this was as good as any. Before the elemental could claw his chest or bite his legs, he raised his sword in a two-handed grip and then brought it down with the full power of his body behind it.
+
+Along the way, he willed Heavy Blow to activate. Unlike casting a spell, which drew mana from his energetic core, this ability was powered by stamina. Nick had been able to sense his stamina for a few weeks now, which felt like a deep pool of vitality welling up from the base of his spine.
+
+Some of that vibrant force flowed into the pathways the System had carved into his body. They changed the frequency of his vital energy, granting it a specific form before it went surging into his arms.
+
+The whole process only took a fraction of a second, and his sword was halfway to the hedgehog when Heavy Blow kicked in. It bolstered the power of his muscles, accelerating the force of his swing while multiplying its momentum. The creature tried to dodge, but the abrupt change in velocity threw it off-balance. Nick’s sword caught it in the flank, creating an incredible impact that stung his hands despite his high Toughness.
+
+This time, the ability-bolstered blade kept right on going. It cut straight through the hedgehog’s body before erupting out the other side, nearly bisecting it in the process. Apparently, although the elementals weren’t living beings, they could only absorb so much punishment. The ice-beast tried to run, then fell to pieces as the magic animating its body diffused into the snow.
+
+Holy shit. Heavy Blow rocks! Nick didn’t have time to savor his satisfaction, because the other two hedgehogs had returned and were pressing their attack. Now that he knew how to hurt them, he stayed on the defensive, waiting for an opening to use Heavy Blow.
+
+Thanks to his sword training and upgraded skills, he was able to finish both ice-beasts off a few minutes later. He took a series of scratches along his leather jacket, which left the surface covered in frost but didn’t cut through the leather.
+
+Since there weren’t any enemies in sight and it would be safer to open as much distance as possible between himself and anything hiding below the snow, Nick climbed to the top of the hill to check on Devin. What he saw when he got there made his eyes widen with astonishment.
+
+Apparently, Devin had been dealing with the brunt of the assault all along. There were five hedgehogs surrounding the blond warrior. Judging by the heaping piles of ice by his feet, the man had already taken out several more.
+
+Nick was about to lend his friend a hand, but what happened next made him realize that his assistance wasn’t needed just yet. Waves of icicles went streaking for Devin, coming at him from all sides. The man didn’t panic, even when one hit him hard in the side and shattered against his new armor. He just kept turning, making his movements hard to predict as he bobbed and weaved. Never stopping as he twisted his neck to widen his field of view.
+
+Devin couldn’t watch all five enemies at once; not when they kept circling around to remain within his blind spot. Nick realized that he was tracking his opponents by anticipation and visualization as well as sight, counting each shot the ice-beasts fired and how many they had left in reserve. It’s not a perfect solution, but it’s pretty good. I should start doing the same thing.
+
+Whenever Devin saw an icicle coming, he made a snap judgement on how to respond. If it wasn’t going to hit him anyway, he ignored it, shifting his mental resources to other targets. If it would be easy to evade, he kept moving, letting his momentum carry him out of range. For attacks that were going to be direct hits, he sometimes ducked or leapt, but mostly dealt with the problem head-on. He blocked two shots back-to-back on his shield—the clang of ice against metal resounding across the snow-swept hilltop.
+
+Although Devin was plenty Dexterous, he had far more Toughness and heavier armor than the women Nick had fought beside. His fighting style reflected those differences. Given that Flashfire Pulse needed to take hits to charge, he chose to block and parry far more often than dodge. When his shield wasn’t in position, he would block with his axe instead. He had already dealt with half of the elementals’ spines, while taking negligible damage in exchange.
+
+Devin had always been remarkably athletic, even by the post-System standards of the human body. But his weeks on the bog, days in the tower, and month training with an axemaster on that strangely-colored world had honed all that raw potential to a razor’s edge. Catalyzed his transformation from an athlete into something even more potent—a warrior.
+
+By now, the elemental hedgehogs were almost out of spines. Devin blocked a final pair, and then grinned up at Nick as all five creatures came for him as one. He winked, letting Nick know that he didn’t need help, then adjusted his stance and shifted his axe into its two-handed version. He judged the distance, then unleashed a mighty swing just as the first elemental came into range. Powered by the full strength of his body, the heavy weapon hit the ice-beast with an impact that Nick could feel in his bones.
+
+The creature’s body shattered, and the pieces went flying, felling it in a single blow. Nick let out an appreciative whistle. He didn’t even use an ability. Devin didn’t have time to take another big swing, because the other four elementals were coming in hot, or cold as the case may be. He transformed his weapon and caught one attack on his shield, spun out of the way of two more, then hit the fourth hedgehog in the side of the neck with a hasty chop.
+
+It didn’t have as much power as his last blow and only cut halfway through the ice-beast’s rock-hard neck. The other hedgehogs were coming back around, but before they arrived, Devin activated Blast Striking. An explosion erupted from the head of his axe, decapitating the elemental. A patch of fiery mana was attached to its torso, which was still moving. It began melting the ice with a sizzle and soon the beast’s body was broken beyond use.
+
+Nick thought that Devin was in trouble when the last three hedgehogs came at him. But the man just grinned and used his other power. Flashfire Pulse was fully charged after taking so many hits. Devin waited until the elementals were close to each other, then unleashed his might.
+
+A cone of incandescent flame erupted from his position, like a lesser version of the River King’s breath. Crackling blaze washed over the elementals, reducing them to limbless lumps of ice and clearing a wide swath of snow from the hilltop.
+
+“Damn, Devin.” Nick cheered. “That was badass.”
+
+Devin laughed, then both men moved to the hilltop to catch their breath while they waited for the next wave. They didn’t have to wait for long. A few minutes later, Nick felt the ground rumbling beneath his boots. The source became clear shortly after, when a giant made of ice came walking through the trees. It was fifteen feet tall and roughly humanoid, although like the hedgehogs, its form was only vaguely suggestive of a living creature. It looked more like the wrath of winter personified.
+
+Hot on its heels came another pack of hedgehogs—twelve by Nick’s count. “Ah, hell.” Devin cracked his neck while Nick popped his knuckles. “This round is going to be a lot harder. Let’s use your wand and Flashfire Pulse to deal with the little ones and their ranged attacks first. Until we finish them off, we should avoid the big bastard. I’d rather not take a hit from something that size, if it’s all the same to you."
+
+Nick nodded as the duo fell into formation, ready to finish the fight and move on to the next round.
+
+***
+
+Twenty minutes later, the last hedgehog erupted into a spray of icy chunks as Devin’s axe caught it square in the back. Nick had just finished putting the big elemental down. After getting a sense for its capabilities, he had cut off its legs with his mana-infused sword, powered by Heavy Blow. Then Devin unleashed a torrent of flame until the torso stopped moving.
+
+They both sat down when the Trial Administrator declared the end of the stage, granting the men a one-hour break before the next ordeal began.
+
+There was a flash of light, and when it vanished, the men were resting on a featureless white floor, without a trace of ice or snow. The air returned to a neutral temperature, helping them warm up as they recovered their stamina. The duo discussed their performance, including observations on how they could improve their teamwork, then moved onto various contingencies for potential situations based on what they’d experienced so far.
+
+When they were finished, Nick opened his profile to check out his updates.
+
+Evasion has increased from [19] to [20].
+
+Light Shield has increased from [8] to [10].
+
+Sword has increased from [24] to [25].
+
+During the fight, he had noticed that strange sensation he’d last felt while training with Rita—like something was moving below his skin. But when he focused on it, it was gone, and he didn’t feel it again.
+
+Not long after, the voice of the Administrator rang out.
+
+“I have finished scoring the results for stage one. Your performance has been rated in the top tier, well above my expectations. How frustrating. I have adjusted the difficulty of the next trial to compensate.”
+
+While they waited to find out what would happen next, Devin and Nick lay down on the floor, recovering from the fight as best they could. They didn’t lower their guards, since they didn’t trust the Administrator, but fortunately, nothing happened until the voice from above spoke again.
+
+“Initiating challenge course stage two: The Molten Bowl. The nature of this environmental challenge is: Extreme heat, agility, spatial awareness. The condition for clearing the first stage is: Survive eight hours.”

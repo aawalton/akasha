@@ -1,0 +1,87 @@
+---
+id: 033cbde4-94b1-51a8-9848-fba27303e91a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 118: Badass Bloodline Trait"
+slug: 0159-chapter-118-badass-bloodline-trait
+partOf: labyrinth-of-the-mad-god
+position: 159
+ownLength: 1688
+unit: words
+publishedAt: 2025-04-18
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2212856/chapter-118-badass-bloodline-trait"
+royalRoadId: "2212856"
+---
+
+With that, the voice in his ear was gone, leaving Nick alone with his thoughts once more.
+
+A part of him was afraid that Pax was using him as a pawn in a game of gods far beyond his understanding. But her advice had helped him on the previous floor, and he knew that whatever was going on, this was his best chance of making it to the tower’s roof in one piece.
+
+He wished that he could tell Devin what he’d heard, but Nick took Pax’s warning to heart. When the fourth stage began, he would be ready to play his part. Which meant that right now, he needed to recover as best as he could and conserve his energy for the big moment.
+
+While he thought the matter through, he opened his menus to check out his latest gains.
+
+Evasion has increased from [20] to [22].
+
+Light Shield has increased from [10] to [11].
+
+Wand has increased from [16] to [18].
+
+These trials are awful, but they’re great for training my skills. When Devin awoke, Nick lay down to rest, still pondering the significance of what he had learned.
+
+He wasn’t sure why Pax was tracking his progress or why she had waited so long to contact him in such a roundabout manner, but he was glad for the development regardless. The Trial Administrator was gradually wearing them down. It would keep turning up the heat until the duo was dead in the ground.
+
+Nick was no stranger to having the deck stacked against him, and having a way to even the odds was a welcome change of pace. He was sure that Pax wasn’t helping purely out of the kindness of her heart, but he’d always had a good impression of the big blond warrior. He suspected that the System was playing a role in this too, given the sheer volume of magic involved in transmitting her voice across the stars.
+
+While he lay there, he began plotting, visualizing how he would reach the giant machine and what he would do when he did. Pax had warned him that he would have a narrow window to take the device out of commission, and he couldn’t afford to waste a second once his moment arrived.
+
+He wasn’t planning on sleeping. But he must have nodded off after all, because Devin woke him up sometime later. “The combat phase is starting, some kind of lizard this time around. I was worried that it would be something flying, since my only ranged attack is the pair of knives Sophia gave me.”
+
+Nick nodded to show he was following along. He repacked his gear and drew his sword, scanning his surroundings while deciding what was safe to say out loud. “I’m going to do my best to conserve mana during this stage. I have a hunch that I’m going to need it for the next trial.”
+
+“Alright, Nick.” Devin gestured with his axe. “You should know by now that I trust your judgement. Let me handle the heavy lifting this time. Speak of the devil, here they come.” He pointed to where six giant lizards were scaling the sheer mountainside with no appreciable difficulty.
+
+They ran low to the ground in a skittering rush, with a dark coloration that blended in well with the rocky mountaintop. Each beast was fifteen feet long from snout to tail—girthy around the middle and at least twice his mass.
+
+At first, Nick was afraid that they were going employ some manner of ranged attack—spitting poison or something equally nasty from a distance where the men couldn’t engage in melee. It would have forced him to use his spells and made it impossible to save mana. But the beefy reptiles came charging straight in, trying to overpower the duo in a surging assault.
+
+Instead of attacking with tooth and claw like the komos Nick had faced back on the Searing Isle, these beasts fought with long, spiraling horns that jutted out from the center of their skulls. Size Up informed him that the lizards weren’t venomous, but they were tough and lightning quick. They were also used to hunting as a group—well-versed in pack tactics. He had the sense that they had another power too, but his skill couldn’t provide any additional details at its level.
+
+But Devin was a natural-born fighter. A warrior who was coming into his own at a remarkable rate. He saw through their tricks and wasn’t overwhelmed by their speed. The man was just as tough as the horned beasts, and he hit way harder.
+
+What followed was a short but brutal battle. Devin and Nick fought back-to-back, dishing out damage whenever they found an opening. Their only close call came the first time that the reptiles hit the duo with a powerful gust of air, nearly picking Nick up and throwing him straight off the mountain. Now that they knew to expect it, both men kept their profiles low and stayed near the center of the summit, occasionally leaping from one flat spot to another to open some room.
+
+As promised, Devin went all out. Nick restricted his move set to his sword and wand, while saving his mana for the next trial. Devin fought like a demon. He kept on slashing, burning, and chopping like a fiend, sprinkled with a liberal amount of exploding in two distinct varieties.
+
+Their big break came when Flashfire Pulse was primed and ready to go. He waited until four of the beasts came charging for him as one, seeking to exploit an opening in his guard that was really just a ruse. When they were in range, Devin bathed the lizards in a searing wave of flame that was concentrated along the angle of their approach. One of the beasts was set ablaze and wound up rolling over the precipice while scrambling to put out the fire.
+
+The other three had their eyes seared by the flaming ability and were easy to pick off now that they were fighting blind. Once the first four lizards were dead, the men were able to take out the last two using conventional tactics and secure their victory.
+
+Devin wound up killing five of them in the end. Nick got the sixth with wand blast that blew it completely off the mountaintop—falling hundreds of feet to the stone below in a dramatic reversal of their earlier exchange. It was a tough fight, but not nearly as bad as the first two stages. It would have been a lot worse without our Survivor trait.
+
+“Since the low O2 wasn’t playing a role, these lizards weren’t nearly as bad as those ugly fucking eels,” Devin mirrored Nick’s train of thought. “Although I must admit that their lava powers were pretty cool. A natural upgrade to creatures with a fire-affinity.”
+
+A few seconds later, the voice of the Administer rang out from above.
+
+“Stage three has been successfully completed. You have demonstrated an unprecedented tolerance to low-oxygen environments and are able to fight effectively on uneven terrain. Since all stages have failed to yield satisfactory results, I will employ direct, maximum-threat environmental hazards for the subsequent rounds. Beginning the one-hour rest period.”
+
+“Maximum threat?” Devin sighed. “Sounds lovely.” Both men sat down when the mountain vanished, leaving them in the great, featureless room once more. While they went over strategies for dealing with various situations, Devin bandaged his wounds and they both put in some maintenance on their equipment.
+
+Despite the seriousness of the situation, Nick realized that he was curious. In part about the nature of the next trial, but mostly what would happen if he managed to get his hands on those pills. His party had earned quite a bit of species experience for completing various events and bonus challenges. Back on Blackmist Bog and after they had entered the tower.
+
+If he understood the species evolution process properly, every time that a member of Team Earth earned some, it hastened the development of humanity as a whole. On top of that, individuals who made major contributions could become eligible to evolve early.
+
+With any luck, those pills will be enough to put us over the top and evolve here and now, before we fight the guardian on the roof. It would explain why Pax sent us here and improve our odds of saving the Earth.
+
+Not long after, the Administrator spoke once more, informing the duo that their next ordeal was about to begin.
+
+“Initiating challenge course stage four: The Pummeled Plains. The nature of this environmental challenge is: Meteor shower (agility, spacial awareness, blunt-force trauma). Condition for clearing the first phase: Survive one hour.”
+
+“What?” Devin looked up and raised his shield. “I have to admit. I didn’t see that one coming.”
+
+Nick nodded his agreement as the dome flashed white. When he opened his eyes, he found himself standing in the middle of a grassy plain—a wide-open prairie stretching on for as far as his eyes could see. The sea of grass came up to his knees and there were wildflowers in bloom all around him, but he didn’t have time to appreciate the view.
+
+Every scrap of his attention was riveted onto the sky above his head. More specifically, to the dozens of flaming dots that were streaking across the horizon, growing larger as they approached his location. “Do you think that these are going to be like the meteors that took out the dinosaurs?” Devin asked.
+
+“Much smaller.” Nick prayed. “Otherwise, we’d have no chance of surviving a single impact, let alone the shower that’s coming. We won’t know how big the blast radius is until they start hitting the ground, but our objective is clear—we need to anticipate where each meteor is going to land, then get the hell out of the way before it hits. If we pick the wrong direction, we’ll wind up underneath the next impact with no time to dodge. This trial is going to require keeping a level head amid an intensely stressful situation.”
+
+“Wonderful.” Devin sighed. “You always take me to the nicest places.”

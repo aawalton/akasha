@@ -1,0 +1,315 @@
+---
+id: e454da9b-e09e-5693-b889-5c3272dc0e09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28"
+slug: 0029-chapter-28
+partOf: light-cleric
+position: 29
+ownLength: 4453
+unit: words
+publishedAt: 2021-08-21
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/737505/chapter-28"
+royalRoadId: "737505"
+---
+
+Thirteen vhamps sat in a semicircle around Father Hirrom Berek. It was nearly midnight, but, after weeks of traveling at night, Piety couldn’t sleep. She sat at the entrance to her tent, watching the vhamps, while Temperance breathed quietly behind her.
+
+Her gaze was drawn to Tobias, remembering the feel of his strong arms around her as she’d fallen, and the longing way he’d said Isabel Loreamer’s name.
+
+With a shake of her head, she turned her attention back to the vhamps. They had set their camp apart from the non-undead camp—four multi-layered tents, each facing south so as to receive as little sunlight as possible during the day. Despite being thoroughly wrapped in cloth, not a day went by that at least one vhamp didn’t wake with burns. Only Hirrom seemed immune.
+
+Hirrom had resumed his role of teacher, putting the newly awakened vhamps through basic mental training; empty your mind, now picture a room, now picture a bowl of water…
+
+A few days after starting the meditation lessons, Hirrom had explained their necessity to Piety. Those without telepathy have a natural mental shield, he explained, but becoming a vhamp bestowed telepathy without the training to create a shield or use the power, making vhamps open to control by other telepaths, particularly vhamp telepaths.
+
+Their camp lay just inside the border of Olytan County, and Tobias had ordered a full day of rest, so they’d not be moving on again until tomorrow night. He sat with his back to a small fire, a long-necked, stringed instrument on one knee. She wondered where he’d gotten it. She didn’t remember seeing it before.
+
+Tobias sat so he could keep an eye on the vhamps, his fingers plucking idly at the strings, coaxing effortless music from them. Piety walked the few paces between her tent and Tobias and sat next to him.
+
+“Why do you dislike them?”
+
+Tobias flickered a glance at her. “They’re dangerous, Mother.”
+
+“I know that. But that’s not why you dislike them.”
+
+He looked at her longer this time. His fingers plucked a familiar tune from the instrument. “They’re killers. Vhamps have eaten and terrorized and poisoned people all over Khulanty.”
+
+“You’ve killed people,” Piety pointed out, “and so have I.”
+
+“That’s different.”
+
+“Why? Because Isabel told you to?”
+
+Tobias stopped plucking at the strings and fiddled with some knobs at the end of the instrument’s neck. When he played again, the music was somber.
+
+“When I kill someone, alive, undead, whatever, I do it to protect people. When a vhamp kills someone, they’re not thinking about the consequences.”
+
+“They’re killing to survive. I’ve been inside their minds, Tobias. They’re like beasts when they’ve been starved. Do we execute beasts for doing what they must to survive?”
+
+“Hmm.”
+
+Tobias played a quiet, mournful tune. Piety tried to remember if she’d heard it somewhere before.
+
+Hirrom’s steady, calming chant as he led the vhamps through the meditation was like the intermittent gusts of a gentle wind. Piety ran the fingers of her left hand over the points of her scarlet sunburst amulet.
+
+“If I kill a man to save my life, is it justified?”
+
+Tobias sighed, clearly hoping they’d been finished with the conversation.
+
+“Yes.”
+
+“What if I’m a vhamp and I’ll die if I don’t have blood?”
+
+Tobias shook his head. He ran his hands quickly over the strings, producing a sharp, staccato, intricate melody.
+
+“I am not without sympathy to their situation. But they’re dangerous, and I took an oath to guard Royal and Nation. Your super-powered blood may have given them a semblance of humanity, but in my estimation, that only makes them more dangerous.”
+
+“I told them they had to control themselves, that I would destroy any who lost control and became a danger,” said Piety
+
+“I know.”
+
+“But I don’t think their nature is cause for dislike, Tobias. Caution, pity, but not dislike.”
+
+“Did you come over here to chide me, Mother?”
+
+Piety laughed, tugging a faint smile from the taciturn bodyguard.
+
+“Not specifically.” She couldn’t help but gaze at his hazel eyes, large, strong-fingered hands, and muscled forearms. She had to clear her throat roughly to fight down the blush. “I can’t sleep and wanted company.”
+
+“Then perhaps we could sit quietly?”
+
+Piety nodded. She looked at the vhamps and her eyes were drawn to a girl. Her skin was paler than Piety remembered, but everything else about her was the same. According to Hirrom, vhamps stopped aging. Faith had never been nice to Piety, had been downright cruel on occasion. And now she was a vamp, forever caught on the edge of adulthood, forever in between.
+
+In that moment, Faith looked up at her, and Piety caught her gaze. She wondered what Faith thought of her now. She knew the vhamps viewed her as a savior. Hirrom had told her they both respected and feared her.
+
+Faith looked away.
+
+Redhill was a mining town in the foothills of the Western Mountains. The mines were further up in the mountains and the town mostly served as a place for miners to get away from their stifling work, to rest, and for the owners of the mines to conduct business with proximity but without inconvenient mess.
+
+When Piety followed Temperance and Tobias to the small town, the sun had only just risen. Hirrom had taken his thirteen students to the hills to find shelter for the day. Piety had asked him if there was anything he or the vhamps needed while they were shopping for supplies.
+
+“My students, they fear that they’ll burn up in their sleep, go up in ashes and never know what happened. If you can find a way to block out the sun entirely, that would be helpful.”
+
+“Like what?”
+
+“I don’t know. But if you see something you think is likely…”
+
+However, as they approached the small town, they found it in ruins: burned out buildings, belongings strewn in the streets, the dead lined up in rudimentary shrouds.
+
+“Mothers, stay near.” Tobias had a hand on his sword hilt and scanned the landscape.
+
+All Piety could see were survivors trying to clean up the mess, but she stretched her mind and took in what there was to be had.
+
+There had been a raid; the terror was still fresh in the minds of the survivors. Giant pale men had come from the night like ghosts. Clad in fur cloaks, wielding great hammers and axes and under the banner of Kempenny Province, they had felled the small contingent of guards commissioned by the Magistrate of Olytan with hardly a struggle. They took the city with speed, efficiency, and great explosions from hand-held fire-arms. Once the soldiers and the civilian insurgence had been killed, the raiders looted the town for valuables. Those working now to clean up the aftermath had managed to numb themselves enough to do what needed doing. Piety pulled her mind back.
+
+“Kempenny’s forces,” Piety said. “Warriors from the Mountain Kingdom. And…” she paused and looked at Temperance. “And they were using fire-arms.”
+
+It took Temperance a few moments to understand the implications. When her expression fell, Piety hugged her one armed as best she could on horseback.
+
+“None of the raiders are still here,” Piety told Tobias while Temperance struggled not to cry into her shoulder. “They left hours ago.”
+
+“Even so, Mother, we should exercise caution.”
+
+The townspeople were as wary of their approach as Tobias was of them. Several of them stopped what they were doing and fled into what was left of the town. By the time they were a stone’s throw from the ash marking what had once been the edge of town, they were met by a short, rotund woman in soot-streaked finery holding a pitchfork and several other women armed with whatever tools they could find.
+
+“We mean no harm,” Tobias started.
+
+“Then keep moving.” She brandished her pitchfork.
+
+Tobias’ hand resting on his sword tightened just a bit.
+
+Piety urged her horse forward. “We’re healers.” She gestured at herself and Temperance. Temperance had mastered her tears but her expression betrayed her dismay. “We could help.”
+
+The woman looked at Piety’s sunburst. “The Church sent you? We haven’t had the chance to send out messengers yet. How did you find out?”
+
+“We didn’t, ma’am. We’re just passing through, were planning to resupply.”
+
+“And you’re healers?”
+
+“Yes, ma’am.” Piety dismounted and walked toward the woman. “My name is Piety Churchstep. What’s yours?”
+
+There were surprised murmurs from the gathered women, but the woman in front only frowned. Her pitchfork shifted slightly to point at a space just over Piety’s head. Piety felt Tobias shift.
+
+“I’ve heard the name of course, but anyone can claim a name, or wear a sunburst. How do we know we can trust you?” Pain and fear were fresh on her face, radiated in her aura.
+
+Piety walked toward her and nodded. She reached mentally for the woman and opened herself to her pain, became a willing vessel. “I understand. I’ve seen war, and I know that sometimes you see something so awful you think you’ll never be able to trust in the goodness of humanity ever again.”
+
+Piety felt the woman’s pain and accepted it. She’d never taken on emotional pain with her martyr power before. It was different. Instead of feeling what the woman felt, it was like the pain poured into her. She might have filled to capacity, but a solution quickly presented itself. With a blink, she entered her mindspace and looked at the wall that stood between her and the cosmos, and then it was gone and she stared into forever. Instinctually she fed the pain into that limitless space.
+
+“But there are injured among you. I can feel them. And I can help.”
+
+The rigid cast to the woman’s face softened, the pain around her eyes eased as Piety allowed the emotional build up to pass through her into the cosmos, like draining the excess water from boiled potatoes. Piety knew she would be unable to remove the pain entirely without making her forget, but she hoped that by easing the burden, she’d help this woman handle it.
+
+“Adora. My name is Adora. I can show you to the injured.”
+
+All the public buildings had been burned, so the wounded had been gathered on the edge of town where there’d been no burning. No one building was large enough to hold them all, so the injured had been laid out in the houses of accommodating neighbors. After being moved though, little had been done to tend them.
+
+Temperance took charge immediately, demanding from the small crowd that had followed them volunteers, clean cloth, and boiled water. Then she turned to Piety. “You’ll find those who need you?”
+
+Piety nodded. She recognized her friend’s expression, grim determination, a veneer over horror.
+
+“Be careful you don’t drain yourself.”
+
+Piety hugged her. “You too.”
+
+Piety closed her eyes and cast out her senses, searching for those most injured that she might save. The work was much the same as it had been at Pinefort. Piety sorted out those who needed her magic and those who would recover with non-metaphysical healing. Fortunately, there was no one so injured that only release from life would end the suffering.
+
+Those houses chosen for the task of makeshift hospital buzzed with activity, and Piety sank herself in it. As each patient came under her hands, she examined their bodies with acute mental sense, removed foreign objects with telekinesis, and poured healing energy into them, encouraging bodies to heal quickly.
+
+And she lost track of time.
+
+When at last she looked for the next patient and there was none, she sighed and sat back, closing her eyes. The day’s work had required a lot of careful and subtle healing and while she wasn’t drained of power, she was mentally exhausted. At some point during her last healing, night had fallen and she realized she was hungry. She tucked the blanket up around the patient’s shoulders and absently patted his shoulder before standing and looking about.
+
+The ground floor of the house was a single room housing a kitchen and seating area. Two other victims of last night’s raid were also laid out here. A young woman, a volunteer recruited by Temperance, stoked the fire over which hung a kettle of tea. She was young, maybe just about Piety’s age, and the thought made Piety smile—that she would consider someone her own age young when she never thought of herself that way.
+
+“Thank you for your help today,” Piety said.
+
+The girl started violently. In her haste to stand, she struck the kettle with her arm. Scalding tea splashed, sparks and flames flared, and the girl squealed in pain.
+
+Piety was at her side in a moment, opening her consciousness and immersing it in the girl’s body. Within moments she had soothed the burns and eased the pain. The burns were gone without a mark. As she set about picking up the kettle and spilled tea with telekinesis, she smiled at the girl sympathetically.
+
+“Are you all right?”
+
+But the girl wouldn’t look at her. She’d hunched her shoulders, ducked her head, and squeezed closed her eyes. Like Adora, this girl was filled with pain, it burst from her aura in waves like the scalding liquid from the tea kettle. There was also guilt and revulsion; the girl was disgusted with herself. Piety cringed; the self-revulsion was like a greasy sheen on dishwater. But the emotion was strong and destructive, and though she was tired, Piety couldn’t leave without trying to help. She opened herself to the pain and let it drain into her, and when she did, she felt the physical pain as well, the pain the girl hid out of shame.
+
+She’d been raped. One of the blond-bearded mercenaries of the Mountain Kingdom had found her in the cellar of her father’s home where she’d been hiding.
+
+Piety stopped the memory before it could replay in full. She took a breath.
+
+“You can’t blame yourself.”
+
+“Mother. I’m sorry, I didn’t know you were still here.”
+
+The room wasn’t particularly large. For the girl to not notice Piety meant she was focused inward, probably reliving the event.
+
+Piety kept herself open to the girl’s pain, hoping to siphon away enough to help.
+
+“My name is Piety.”
+
+“Yes, Mother. You’re the Light Cleric.”
+
+“You seem upset. Do you want to talk about the raid?”
+
+The girl shook her head, but she’d gone still, looking into Piety’s eyes. Piety focused on keeping eye contact and waited.
+
+“They came out of the night, like shadow demons in the Scriptures.”
+
+And Piety couldn’t help it—she saw the events unfold from the girl’s mind. The men were huge, like bears, with wild, pale eyes, bristling with weapons and wearing the colors of Kempenny Province. The girl had been loitering in her father’s yard. He was a wheelwright and the yard where he worked housed a shed that could afford privacy. She and the shopkeeper’s son had taken to meeting there over the past fortnight.
+
+But this time the shopkeeper’s son didn’t come.
+
+She’d seen the raiders before the alarm had been raised. They’d spread quickly through the town, unnaturally silent, and the girl had frozen, avoiding their notice. Then had come the sounds of battle: metal on metal, shouts of fury, screams of pain. Her fear shifted from frozen to flight. She sprinted across the yard, her father found her, thrust her into the cellar, and told her to hide. That’s when the explosions started. She’d thought they were bursts of thunder from a sudden storm; she had no concept for what a fire-arm was.
+
+The time in the darkness had stretched.
+
+When the cellar door had opened, she’d expected to see her father, maybe the shopkeeper’s son. Instead it’d been one of the hulking, blond brutes. He hadn’t seen her at first. Instead, he’d rooted through the supplies looking for something.
+
+“And then, and then he…”
+
+The girl teetered for a moment between letting it loose and shutting it in. Piety tried to convey compassion in her expression through she wasn’t sure the girl was seeing her. When the tears slid down the girl’s face, Piety hugged her impulsively. She kept herself open to the girl’s pain, and tears marked her own face.
+
+She knew she could take all the pain, swallow it like stale, moldy bread, but she also knew that to do so she’d have to make the girl forget, like she’d done for Temperance, and making her forget wouldn’t remove her guilt and grief. Piety remembered thinking the same about a young soldier on a battlefield far to the south. It had felt right then and it felt right now. So, instead, she put it at a distance where the girl could look at it without reliving it.
+
+“It’s not your fault,” Piety said, brushing the thought against the girl’s mind to lend strength of truth.
+
+“How do you know? Bran and me, we’d been meeting for two weeks to… What if this is God’s punishment?”
+
+Piety shook her head. “’Live, love, and find comfort in each other.’ That’s what Saint Zyta said. Even Saint David the Chaste said, ‘Passion is God’s gift, not God’s curse.’” The girl seemed unconvinced. “I was attacked once. Not as you were but… but nearly.” With the admission, she could see the thick brow, large nose, and squinty eyes of the man called Raimy. She’d given little thought to that night in the two years since. The comfort and support of Father Shane, Father Vytal, and Temperance had helped her weather that trauma and many others.
+
+This girl didn’t have such support—her father and sweetheart were both dead.
+
+“Pardon, Mother.” Adora stood in the doorway, looking from Piety to the girl. “Everyone’s gathered. We were hoping you’d be willing to say something. For the fallen.”
+
+Piety gently extricated herself from the girl. “Of course, Adora.” Mentally, she added, “This girl needs you.”
+
+Adora looked at the girl and, while Piety walked past her to the door, took the girl’s hand and squeezed it gently. That gentle squeeze spoke volumes and Piety, still open to the world around her, sensed that Adora needed the girl just as much.
+
+“Mother, there’s something I wanted to give you,” Adora said. She held out to Piety a sunburst amulet on a leather cord, much like her own. “It belonged to Brother Peter. I thought you might be able to take it back to the High Temple.”
+
+Piety accepted the amulet and smiled. “Thank you, Adora. I’ll see it gets where it needs to be.”
+
+At what was once the edge of town, now a blackened, rubble strewn stretch of land, the bodies of the fallen had been gathered, laid out with care and shrouded in what cloth could be spared. It was a distressingly large group. Their gathering was lit by the just setting sun and a few torches born by the survivors to light the pyre at the conclusion of the rites.
+
+Piety took a breath. She was tired. The walk from the patients to the funeral had proven to her that she was more tired than she’d thought. Her thighs and stomach were sore, her shoulders knotted, she was beginning to feel flush. Suddenly, she didn’t feel up to the task of performing funeral rites or even speaking loudly enough to be heard.
+
+She blinked.
+
+And in the space between seeing and not, the sun began to set behind the towering Western Mountains, and it seemed as though the time inbetween day and night, stretched out into forever. And beyond she could see an ephemeral place of twilight, a world of mutable form, of indirect light, of the space inbetween. It was the Twilight Realm, and it approached.
+
+She opened her eyes a blink later, and the world was as it had been, the surviving residents of Redhill gathering at sunset to witness the funeral rites of those slain and send them to God’s warm embrace by funeral pyre.
+
+They all looked to her, the Light Cleric, for guidance and comfort, and after glimpsing through forever into the Twilight Realm, she was further exhausted. She didn’t know whether or not she could give them what they sought.
+
+“Piety?”
+
+She looked at Temperance who had rested her hand on her shoulder. “You look pale. Perhaps you should sit?”
+
+Sitting sounded like a good idea. She relaxed, and someone helped her to sit, someone with strong arms. She wanted nothing more in that moment than to sink into those arms and fall asleep. But the pain of Redhill hung over them like a bruise.
+
+She tried to stand, but her stomach cramped so violently that her vision sparkled and she couldn’t breathe.
+
+“Piety?” Temperance’s face was inches from hers, expression creased in worry. “What happened?”
+
+“I don’t know, I…”
+
+“We should get her to a bed,” said Tobias, and his voice vibrated in his chest against her back.
+
+Piety tried to object, but another cramp stole her breath. So she spoke mentally. “No. Not yet.” She slipped to the room in her mind and the pain of the cramp receded. She avoided looking at the chessboard and sat at the desk where she imagined a bowl of still water, just as Hirrom had taught her at the High Temple years ago. But this time the water was not her power. Instead, it was a window on the world, she was looking down on the gathered from above.
+
+“’Death comes for us all’, warned Saint Claes the Generous, but for some it comes too soon. This was a conflict not of your making, yet it fell to your shoulders and now, will you or nil you, its burden is yours to bear. And so you shall for it was also Saint Claes who reminded us that in each other we find strength.
+
+“We send our kin to God now, and we know they are loved.
+
+“So be it, Truth.”
+
+The gathered echoed her words in a quiet chorus. Piety stretched her shoulders in the room in her mind and watched as Adora laid her torch at the funeral pyre, the girl at her heels. Then came another, and another, and soon the pyre was burning high and bright.
+
+She dreamed she stood nude on the edge of shear cliffs of dirty white stone overlooking a storm-tossed sea. The wind blew her hair into her face and as she brushed it aside, she saw that it was not pure white but also pure black and all the shades of grey inbetween.
+
+At a sound she turned her back on the sea to find the black and white armies at war while the storm raged above spreading twilight across the battlefield. The violent movement of the armies was slow and muted as though they moved through syrup.
+
+The black clad army fought under the snapping banner of Kempenny Province: blue unicorn on a black field. The white-clad army fought under no banner. She’d expected the silver banner of Isabel Loreamer, but there was none.
+
+And in the distance, beyond the muted field of battle, purple eyes. She was not as Piety had first met her, a frightened young woman uncertain of her gift and of her place in the world. Instead, she was as Piety first remembered her, wise eyes providing comfort in a storm. Minerva Aegis stood watching it all with a sad detachment.
+
+Piety took a step toward her…
+
+“Mother.”
+
+Piety started. The storm wind dragged her multi-colored hair before her eyes again and when she shook it aside, a new figure had entered the dreamscape. Hirrom stood with her on the cliffs of Olytan. He looked hazy, indistinct, and uncertain, as though looking for something without knowing how to find it. Suddenly she was aware of her nudity and she shivered in the wind. Her rising blush was quickly covered by a simple white dress.
+
+“Mother, we need your help. If you can hear me, please respond.”
+
+The dreamscape wavered.
+
+“I’m here, Hirrom.”
+
+And she woke in the room in her mind. She could not keep from looking at the chessboard and the little slip of paper immediately caught her attention. She ignored it for the moment and instead her eyes went automatically to the bookcase, as they had done for years. And with sudden cold certainty, she knew she had supplied the notes that had allowed Devorah Kempenny’s forces access to the fire arms. Piety had so often searched the bookcase for new arrivals that it had become automatic. Certainly Devorah Kempenny had had the same habit. She’d discovered the notes Piety had taken from Temperance’s mind. She’d understood them, and she’d improved upon the design.
+
+Piety bent to the chessboard and picked up the slip of paper on which was written a single word.
+
+Yes.
+
+“Mother, where are we?” Hirrom looked about himself with a mixture of awe and unease.
+
+Piety crushed the slip of paper in her fist. “The room in my mind.”
+
+He looked at her. “I never taught you to do this.”
+
+“Hirrom, you gave the impression this was urgent.”
+
+“Right. Yes. We’re under attack. Three Swords of the Church. We were hunting and Theodore had sighted an elk and…” Hirrom took a breath to steady himself. “I felt him scream. We’ve been practicing communication, everyone connected at once for practice and so that we’ll all know if one needs help with prey, but even had we not been connected, I’m sure I’d have felt him scream.”
+
+“Where are you?”
+
+“In the hills above Redhill; we’ve hidden in a cave.”
+
+Piety looked at Hirrom, looked at his aura, a red and gold conflagration held close to his body, and she nodded. It had been a long day of healing and she’d been exhausted by its end, so she turned to the wall that served as a barrier between her and the cosmos, and she parted it easily. Behind her, Hirrom gasped.
+
+“I’ll be there shortly, Hirrom.”
+
+“What…” Hirrom stared at the cosmos with an awe that would not allow him to continue.
+
+“Later.” Piety took hold of Hirrom by the arm and by extension his consciousness, and pulled them both from her mindspace. She was on her feet and at the window without thought. Through the cosmic void just outside her mind, she could feel Hirrom and his students in the foothills of the Western Mountains, and she could feel the Swords of the Church hunting them, each armed with a blazing sunblade.
+
+With a thought she opened the window and leapt into the cold night sky.

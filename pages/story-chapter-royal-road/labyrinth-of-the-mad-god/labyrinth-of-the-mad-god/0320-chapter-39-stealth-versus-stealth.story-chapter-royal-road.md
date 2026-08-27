@@ -1,0 +1,71 @@
+---
+id: c189801f-e540-53ef-ab4f-8115afde840e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39: Stealth Versus Stealth"
+slug: 0320-chapter-39-stealth-versus-stealth
+partOf: labyrinth-of-the-mad-god
+position: 320
+ownLength: 1693
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3530569/chapter-39-stealth-versus-stealth"
+royalRoadId: "3530569"
+---
+
+As the day wore on, Nick became increasingly certain that something was stalking his team.
+
+Its presence felt like a prickling near the base of his skull—a muted amalgamation of hunger and killing intent that grew fainter at times and stronger at others. However, it never drew close enough for him to catch sight of the creature in question, which made him suspect their stalker was waiting for the party to lower their guards before springing an ambush.
+
+He warned his friends the moment it first appeared, but even the beasts’ sharp senses couldn’t detect anything out of the ordinary, confirming his suspicion that his high Psi and nascent ability to perceive the minds of living beings was responsible for the phenomenon.
+
+They couldn’t afford to ignore it, as that would inevitably lead to being attacked at the worst possible moment. However, if the party reacted in a way that revealed that they’d noticed its presence, there was a good chance that whatever was hunting them would drop back and they would lose track of its position.
+
+Nick decided it was a perfect time to try out an idea that had come to him a few days ago, a new use of his abilities that should help him figure out what was pursuing the party and turn the tables on their would-be assailant.
+
+First, he needed to make sure the creature couldn’t detect him while he was concealing his presence. After working out the details with his team, he switched on Blend into the Background and mana stealth then dropped back while the rest of the party kept walking. Sure enough, the feeling grew stronger, which meant his stalker hadn’t noticed him and was drawing closer than before.
+
+He caught up and let his friends know that he was ready to proceed with his plan. Nick removed resources from his backpack until he was effectively weightless. Then he reactivated Blend and used Arcane Shield to carry him a few hundred feet into the air. When he was in position, he canceled the spell and entered mana stealth, bobbing like a ballon in the breeze as he cleared his mind and scanned his surroundings.
+
+He couldn’t use Enhance Senses in stealth mode, so he focused on his growing facility to perceive killing intent, using his psychic powers to bolster his perception. The rest of the party was making a slow circle around the woodlands, giving him plenty of time to spot whatever was prowling in their wake. At first, he didn’t detect anything out of the ordinary, but soon the tingling grew stronger, and he felt bloodlust emanating from the ground below his boots.
+
+When he homed in on the sensation’s origin, he spotted a faint trail being stamped into the dirt. After playing so much Blended hide-and-go-seek back in Aurora, Nick knew right away that it was a creature advancing under the cover of concealment magic. It wasn’t surprising that something that had survived in the quarantine zone for so long was either incredibly clever, absurdly powerful, or both, although his money was on the former given how cautious it was being.
+
+By this point, he could tell that there were three distinct minds moving in a tight group. Whatever they were, they had had come to a stop less than a hundred feet away, providing an excellent opportunity to examine them while testing out various forms of detection against their stealth technique. No matter how hard he tried, he couldn’t see anything other than tracks in the soil, which meant the creatures’ optical camouflage was extremely effective. He couldn’t hear anything either, but he didn’t expect to while the creatures were standing still.
+
+The faint scent of decaying meat was wafting up from below—a reek he’d come to associate with carnivores that had fed recently, and doubly so with monsters that feasted on corpses and the garbage of fallen worlds.
+
+His newly awakened mind sense was picking up more information as time went by. In addition to predatory intent and the hope that their hunger would soon be sated, he could perceive an iron will controlling the creatures’ base impulses, overriding their desire for carnage with the mantra that the patient hunter is most often rewarded. It’s hard to be certain, but those feel like the thoughts of monsters rather than beasts.
+
+Finally, Nick’s mage sight revealed mana flowing into the soil from where his stalkers were standing, significantly more concentrated that the weaves being absorbed from the local wildlife. Since the monsters intended to strike when their prey was asleep or otherwise distracted, he proceeded with his plan—waiting for his team to circle around and pass beneath his position.
+
+When the trio appeared, he used gravity magic to lower himself to the ground, switched off Blend, and refilled his pack with the pile of wood and rocks he had removed to lighten his load. He shared what he’d learned as they hiked through the blighted woodlands, showing no sign that they knew they were being followed.
+
+“It was only a matter of time until we ran into intelligent monsters.” Kenji sighed. “But this is a good lesson for both you and Bandit. While the threat posed by foes capable of using complex tactics is far greater than battling simple-minded aggressors, intelligence can be a double-edged sword, particularly when you believe that everything is proceeding according to plan. Let me teach you some tricks to turn your opponents’ cunning against them, playing into their expectations and trapping them with the very tactic they employed against you.”
+
+When Kenji was done, Fritz offered his take on the matter. As usual, the king and the strategist shared a similar outlook, although each warrior had a unique perspective formed from decades of combat experience. The party worked out the details on the march, and when the sun began to set, they set up camp in a spacious clearing surrounded by skeletal trees. They completed their preparations, ate dinner, and then made themselves comfortable, since this next part might take a while.
+
+These monsters were considerably smarter than the voidbears. The team had no idea if the creatures had prior experience hunting humanoid prey, so they decided to put on a good show. Nick propped his back against a trunk and peered into the sea of dying trees for the better part of an hour before closing his eyelids ninety percent of the way and pretending he’d fallen asleep while standing watch.
+
+It was a decent performance, but even still, it took a while for the predators to make their move. He could sense them growing closer as the minutes ticked past. The impression of cautious gluttony gave way to excitement and the anticipation of striking a killing blow as the monsters surveyed the area before approaching the glade.
+
+Kenji had chosen this location for two reasons. The clearing was spacious enough for the team to fight in formation, and there were only two entrances wide enough for a sizable predator to pass between the trunks. Nick subtly shifted his hands so one finger was pointing left and two were pointing right, indicating the positions of the approaching monsters.
+
+The creatures were wary. They observed the team from the tree line for several adrenaline-soaked minutes before entering the glade. Kenji was coordinating the party’s movements with Tactical Command, and the instant the predators were in position, he gave the signal.
+
+At that point, several events happened back-to-back.
+
+The men switched on Blend into the Background while Bandit entered Shadow Form, which was difficult to make out in the darkness. Kenji highlighted their positions with Command, ensuring everyone knew where their allies were as both men took aim and flung the consumables clasped in their hands.
+
+The spherical devices crossed the distance in the blink of an eye. The monsters were astonishingly agile, but they didn’t move fast enough. The glue bombs landed beside the invisible creatures and exploded into twin fountains of adhesive, impeding their movement as they stumbled into the clearing. Or two of them did at any rate. The third monster leapt straight over its glued companion, coming down hard enough to send the branches swaying.
+
+“Oh shit,” Bandit drew his blade as the team sprang into motion. “These things are bigger than I thought.” The lemur panned a shadow-flamethrower over the monster that had just landed. The inky fire made the creature’s profile contrast against the barren trunks behind, while the glue outlined the profiles of the other two.
+
+Now that their positions had been revealed, the monsters dropped their stealth magic to conserve mana, letting the party get a good look at what they were up against. Thanks to his high Mind, Nick could analyze his opponents within a matter of seconds, combining his observations with the information provided by Size Up, his mind sense, and mage sight.
+
+The monsters’ bodies were a mixed bag. Their abdomens resembled crimson beetles the size of wagons, so that was what he decided to call them. However, instead of six legs, the creatures had dozens. It explained why they had left such shallow tracks, since they could distribute their weight over a wide area.
+
+The bulky bugs had spherical heads that were massive compared to the size of their bodies, filled with row after row of jagged red teeth. They were mounted to long, prehensile necks that looked incredibly flexible, letting the monsters bite from almost any position. The overall effect was pure nightmare fuel, filling Nick with an instinctual dread that had nothing to do with psychic powers—just pure, weaponized ugliness.
+
+The beetles’ abdomens tapered to form a point, bearing stingers that reminded him of wasps. He could sense conduits connecting their venom glands to their energetic cores, which meant their stings were bolstered by some manner of offensive ability.
+
+Finally, the monsters were armored with thick plates of chitin that were infused with icy mana, the same energy they had blended into their venom. “Ice magic is infusing their stingers and shells!” Nick warned his friends as he rose to his feet and started casting spells, marking the start of a fierce melee.

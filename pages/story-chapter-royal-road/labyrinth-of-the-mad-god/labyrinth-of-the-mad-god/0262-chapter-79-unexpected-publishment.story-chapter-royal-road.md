@@ -1,0 +1,79 @@
+---
+id: fdcf4375-3537-5ac2-a139-f5ebf22a46da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79: Unexpected Publishment"
+slug: 0262-chapter-79-unexpected-publishment
+partOf: labyrinth-of-the-mad-god
+position: 262
+ownLength: 1555
+unit: words
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2850837/chapter-79-unexpected-publishment"
+royalRoadId: "2850837"
+---
+
+Nick finished the last bite of his meal, sighing in contentment at how delicious everything tasted now that the cooks had gotten their hands on additional ingredients.
+
+Aurora’s crops, the Cloning Center, and trading with Desert Rose had given them what they needed to bake bread and create a range of tasty dishes like the beef-and-veggie chili he’d enjoyed for lunch. He walked over to the sink, rinsed out his bowl, and placed it into the pile before making his way out of the mess hall.
+
+He was in the middle of deciding what he wanted to do next when he walked by a woman who was reading a book that looked recently printed instead of carried over from the old world. He stopped dead in his tracks when he saw his name on the cover. “Nick Silver’s Guide to Surviving the System. Edited by Kerry Duvalle.” What the fuck?
+
+The woman looked up when she noticed him—eyes widening when she realized who he was. “I’m sorry to bother you, but can I take a quick look at that?”
+
+When Nick read the first page, he spotted a familiar quote. “Not all treasure comes in chests.” As he flipped through the contents, he learned the book was filled with a blend of the observations he had written in his journal, the entries he had copied from the Knowledge Point system back in the tutorial, and a bunch of detailed commentary that he hadn’t seen before.
+
+After signing the guide at the woman’s request, he walked over to Kerry’s shop with a bemused smile on his face and stepped into the bustling commercial enterprise. He had no idea how she’d done it, but Kerry had acquired a vast range of goods over the last three weeks, and business was booming.
+
+There was a counter where people could make offers for barter, although many of the items had a price listed in Contribution Tokens too, which had become the primary currency of the settlement now that everyone had earned enough to jumpstart the economy.
+
+Nick was glad the System handled rewarding people for their contributions and was looking forward to taking the city to the next tier, at which point he could delegate approving the transactions from the token exchange instead of processing them himself.
+
+The range of goods people could purchase was growing by the day, and shoppers were browsing aisles filled with tools, furniture, dinnerware, and clothing, all of which had been produced by Aurora’s citizens.
+
+He came to a stop in front of two tall shelves filled with a large section of books. There were several dozen copies of the guide, and a lot of old favorites too. It seemed that someone had learned how to copy them with magic, which meant any printed materials people had brought with them from Old Earth could be reproduced.
+
+A wave of nostalgia broke over him while perusing the familiar titles he’d never expected to see again. Part of our culture survived integration. There might even be some laptops, smartphones, and data drives out there. The System fucked us hard, but not everything humanity has accomplished since the dawn of civilization is destined to be forgotten after all.
+
+He was still staring at them with a grin on his face when Kerry realized he was there.
+
+“Hello, Nick. I hope you don’t mind putting your name on the cover. Everyone I shared your journal with wanted a copy for themselves, which got me thinking about using magic to replace the printing press.
+
+“The information has been saving lives and helping people advance, and I plan to update the guide as we learn more about the System. I’d give you 100% of the royalties, but since I’m giving them away for free, how about I offer you some books instead?”
+
+“It’s a little weird to see my name in print, but this guide is a fantastic idea. You should make more of them. Maybe get some skill-training and ability-advancement manuals out next. Your books could make a big difference as we get ready to enter the Labyrinth. Not only for our people, but everyone out there fighting to protect our planet.”
+
+“Already in the works, my popular friend. How does it feel to be one of the biggest celebrities of the new world? Oh wait, I bet you don’t even know about the videos. Someone with a working phone recorded your fight with the fallen rhino back in the arena. She was watching on a screen from another venue.
+
+“She also caught the battle with the Guardian, including Kenji’s speech, everyone kicking ass, and you and Devin showing up like a pair of living legends. We figured out how to recharge the battery, and Sarah is using the recording to make a holographic version with her illusion magic. It should be a huge hit when her performance is ready.”
+
+Nick was still processing this rapid turn of events—deeply impressed by the progress his people were making in areas he hadn’t even considered. “I’d like to watch that, especially what happened before I made it to the roof.”
+
+“Sure. I’ll let you know when Sarah is ready for her debut. Or if you want to arrange a private viewing, I’m sure I can make that happen.”
+
+“No need, but if you can save me a seat in the front row, that would be amazing. Oh, and I’ll take you up on that offer for some reading material.” They chatted for a while longer and Nick left Kerry’s shop with three new books—two of which he hadn’t read before.
+
+Since recreation was on his mind, he decided to head into the entertainment district next, which had finally begun to take shape.
+
+Right now, it was only a public meeting area, performance stage, dance floor, and an open-air eatery, which would become the town’s first pub once they managed to produce alcohol. The growing team had planted some seeds that might do the trick, but Aurora’s citizens weren’t waiting for them to get started.
+
+Someone had discovered a new species of cactus fruit a while back. They were infused with life mana and tasted amazing. Several barrels had already been fermented and were in the process of being distilled. Everyone was looking forward to having a drink or two to unwind, especially Kenji and Ella.
+
+Music filled the air as Nick toured the district. A dozen musicians, including Brad the bard, were putting on regular performances. A variety of other shows were in the works, including plays, performative dances, and stand-up comedy. Once the pub was open, they planned to add an open-mic night—even karaoke, once they ironed out a few bugs with the illusion magic required to make it work.
+
+On that subject, Sarah and the city’s other illusionists had begun putting on shows to train their Creativity and Mind, creating spellbinding images that were more impressive than anything that had existed in the world that came before.
+
+Nick was planning to head into the badlands to practice Sonic Slice but decided to stop by the research district first and see how things were coming along.
+
+The science of magic and tier advancement were Aurora’s top priorities, but there were plenty of researchers who were looking into other areas. Psi was a popular choice, and dozens of people had begun investing in the attribute in the hopes of gaining a Psi-based class the next time they were able to change theirs.
+
+No one had managed to recreate the psychic bonds that had formed during humanity’s awakening or generate mental projections like what had happened when Nick spent a ton of free points on Psi at once. They had, however, made considerable progress into other areas.
+
+The first was detecting other minds in the vicinity. Anyone with enough Psi could do it to some extent, and this “Mindsense” was extremely effective when combined with sensory magic and informational skills, such as Size Up. They were hoping to learn how to hide themselves from psychic observation too, but the researchers hadn’t made a breakthrough in the matter yet.
+
+Another area of interest was conditioning Psi. Like what had happened to Nick when he battled Ella, people were able to gain a few points by withstanding psychic assaults. Right now, only the two of them had domains that were powered by killing intent, but several warriors had developed weaker techniques that were still incredibly useful, both on and off the battlefield.
+
+Nick and Ella had made some gains from using their psychic powers on other people, although he had the sense that if he wanted to condition his Psi further, he needed to use Predatory Domain while fighting with his life on the line.
+
+He still hadn’t figured out the trick himself, but quite a few people had developed techniques involving some form of psychokinesis—like the dueling swords he had watched a few weeks back. None of them were anywhere close to becoming poweful attacks, but the ability to manipulate objects from range was an incredibly versatile tool that had plenty of combat potential outside of dealing direct damage.
+
+Nick left the city with a spring in his step—thrilled by the amazing accomplishments his people had made in a short span of time and eager to see what they came up with next.

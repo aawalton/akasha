@@ -1,0 +1,158 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "178 — Book 4, Chapter 22 — Dark Magic, Pt 5"
+slug: 0183-178-book-4-chapter-22-dark-magic-pt-5
+partOf: just-add-mana
+position: 183
+ownLength: 3172
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3871815/178-book-4-chapter-22-dark-magic-pt-5"
+royalRoadId: "3871815"
+---
+
+Syphus had absolutely no idea what a grappling gun was, but it was a quick learner, and it did have the word gun in it. Once Cale explained the concept in more detail, it was delighted. The thought of one—especially the thought of firing a magical version of one at Sisyphus, who for once sounded a little nervous about the idea—was possibly the best thing it had ever heard. There were other problems that had to be worked out before they went ahead with that plan, of course, but for once it was excited to put one of Cale’s plans into action.
+
+“You should come up with plans like these more often,” it told Cale, who made a face. Apparently the human was less of a fan of exploding sticks.
+
+A grappling gun wasn’t even that, though. One of those would have made Sisyphus’s trips up the hill so much faster! It would’ve had to be an incredibly strong grappling gun to work, and the rules of the Named probably wouldn’t allow for it, but still. If it ever found itself stuck at that hill with Sisyphus again, it was going to make sure it had the spell.
+
+The grapple itself was technically just a new mechanism of the [Spellfist Arts], and Syphus had enough of an intuitive grasp of that magic now that it didn’t take much effort for it to show up in the Gift. [Spellfist Arts], as it turned out, was mostly all about visualization and discrete mechanical effects—as long as it understood the effect it wanted and it wasn’t too complex for the level of the spell, it could add a new mechanism to the list.
+
+As such, the grappling gun part wasn’t the problem. The problem was magic: Syphus simply wasn’t powerful enough to forcibly pull back one of the Named, even if the Named in question was willing.
+
+Thankfully, there was a simple way to solve this. They had after all just established that Syphus had an incredible affinity for the Dark, and that the Dark could greatly empower magic.
+
+Technically, dabbling with dark magic was exactly what had caused these problems to begin with. But this was different, Cale assured them. Without Sisyphus’s bond to stabilize the spell’s connection with the Gift, the new spell would simply split off the moment it incorporated an aspect of the Dark. The resulting free spell construct would then settle in Syphus’s soul as an independent spell without any link to the Gift.
+
+“Honestly, it’s probably a good thing not to be entirely reliant on the Gift. No offense, Gift,” Cale said, glancing briefly up at the sky. “You’ll have to be careful, though. Having a dark spell in your soul will probably change the quality of your mana a little bit. I’d double up on the palewater training afterward just in case; it’ll help your core get used to the new mana.”
+
+“I can do that,” Syphus said. It had been planning to do that anyway; this palewater stuff was complicated, and if it didn’t train, then its friends were going to leave it behind. It already felt like there was something missing from the palewater it was producing.
+
+Besides, having a little bit of dark magic sounded cool. It wanted to be just like Instructor Dark Warrior Eviscerator. Maybe the dark lord could give it a title, too? It wasn’t going to join the dark lord just to get a title, of course, but if dark lords weren’t all intrinsically evil then surely this one might be willing to give away a cool-sounding title.
+
+Sisyphus seemed to sense the direction of its thoughts and sent it a frown. Your creator is one of the Named, you know, he sent, his voice echoing in Syphus’s mind. He sounded almost jealous. The dark lord isn’t the only one who can give you a title.
+
+No, thanks, Syphus thought back. You’ll probably give me a title like Duck Feeder or Round Boi or something.
+
+What? I would never! Sisyphus’s mental voice sounded offended, but Syphus could feel the guilt in his voice. He had absolutely been considering it.
+
+As far as Syphus was concerned, the point of a title was the prestige that came with it. Being named by the dark lord of the realm sounded cool, and being named by its creator was just the sort of thing creators were supposed to do anyway.
+
+“Syphus,” Cale said, his voice stern, and Syphus started. The visage of the Lesion was still imprinted on its [Unveiled Eye], and it seemed the influence it exerted had taken on a different tack—now its thoughts were scattered and more easily led astray. The ache that came with looking at it remained, but the Lesion’s whispers made it hard to notice how close it now seemed.
+
+And it had gotten closer, hadn’t it? The Lesion loomed above Syphus now, as if it had sensed the construct’s gaze. The words of the Gift still obscured it, but they were noticeably more translucent, as if it could no longer block out quite as much of the Lesion’s influence. The closer it got, the harder it would be for anything divine to offer much protection.
+
+Perhaps the reason it had lasted this long at all was only because it had Cale’s intent in its mana rather than true divine intent. It wasn’t fully palewater yet, so a large portion of its mana had yet to be processed; that intent still lingered within its core, offering its protection.
+
+“Right,” Syphus said, trying to focus. “I need a spell that can pull Sisyphus back to me so he can re-establish the bond between us.”
+
+It felt a flicker of gratitude from Sisyphus. The Named almost never showed any form of affection, but he had started doing this more and more of late, even before this incident with its [Unveiled Eye]. Syphus hadn’t known it at the time, but it had come very close to death when its original etherite crown had been destroyed, and something about being faced with that possibility...
+
+Well, compared to how he had been acting in the past, Sisyphus had been positively nice ever since it had returned from the Bitter Path.
+
+The mechanism was simple enough. It could already fire spells with its spell cannon, so all it needed was a mechanism that would keep that spell attached so it could be reeled back in. Each time it unlocked a new mechanism before, it had been offered automatically by the Gift. This time, when it cast the spell and felt its arm begin to change, it threaded its palewater into the construct and thought hard about what it needed.
+
+“Remember,” Cale said. “This is the boundary the Spellfists needed to pass before they were considered advanced practitioners of the art. You want a complex manaforged mechanism. It needs to both modify the spell emerging and be able to pull it back. Three components, total. Got it?”
+
+It knew all that. Cale had been very detailed in his initial rundown of the mechanism, and Syphus had been very certain it could do it.
+
+It might not have been able to if it hadn’t started generating palewater. External intent interfered with spellcraft like this, occasionally turning the caster’s power against themselves. But it did have palewater, and it could impress upon its mana the purest expression of what it desired. A spell with the properties of the Slug modifier, sticky enough to attach to whatever it struck; a reeling mechanism in the arm; a line strong enough to reel the spell back, or failing that, a line strong enough to pull it toward its target.
+
+Syphus thought about how important this was. It had struggled for a long time to understand that concept of importance. It was a rock. That some things might matter more than others simply hadn’t occurred to it for the longest time.
+
+But it didn’t want to lose Sisyphus. It didn’t want to lose any of its friends, either. It had seen some of the dangers that were out there in the Great Realms, now, and if it couldn’t grow strong alongside them, it knew it was only a matter of time until it lost one or both of those things.
+
+Something thrummed within its heart—
+
+And the Gift heard its plea. Something within Syphus shifted.
+
+[Intermediate Spellfist Arts] has evolved to [Advanced Spellfist Arts]!
+
+Beneath the words, the description for the spell rearranged itself, a new explanation popping up. It congratulated Syphus on advancing to the next stage of the Spellfist Arts and described in great detail the history of the monks that had invented it. Syphus ignored it all, going down the list until it found the new manaforged mechanism right at the bottom.
+
+[Grapple] [Modifier] [Complex]Sub-Mechanism: [Slug]Sub-Mechanism: [Thread]Sub-Mechanism: [Reel]Alters the output spell with [Slug], causing it to manifest primarily as a glob of exceptionally sticky slime. This slime remains attached to the caster using a single strand of reinforced mana, the [Thread]. Once fired, the [Reel] mechanism may be used to pull the spell back to the caster, or to pull the caster toward the spell.
+
+Perfect. Exactly what it needed.
+
+Now came the hard part.
+
+Syphus’s initial connection to the Dark had been something of a fluke. While eating the pastries that Kryva had manifested, it had felt something strange drifting in the leylines below, and without thinking it had cast its mind toward it. Syphus wasn’t certain why it had done that, but—
+
+Well, no. It was lying to itself. It knew exactly why it had done that.
+
+The glimpse it caught had been brief, but it had been enough for Syphus to catch something of a kindred spirit within that leyline. It saw a desperate struggle, a repeated attempt to climb to the top again and again, only to fail. It had felt, in that moment, that someone or something was out there, trying again and again to reach for something better only to roll back down the hill.
+
+It had empathized. And in the moment its thoughts aligned with the shadow, something had passed into its mana. Syphus reacted on instinct, shoving the foreign power toward the only spell and the spell it was most conflicted about: its [Infernal Eye].
+
+Now it had to do the same thing again, only this time, it had to take that power and move it into its arm the moment Sisyphus broke the link between them. Syphus was nervous about that, though it didn’t let it show. Sisyphus’s power had been the reason its [Unveiled Eye] had experienced such a detrimental evolution, but that same power was still protecting it in some way, wasn’t it?
+
+And not even Cale knew what would happen to the [Unveiled Eye] once Sisyphus broke their connection. It would no longer be able to sustain itself in its current form, but whether that meant it would take on a new shape or revert to its old one was anyone’s guess. There was a chance, then, that the spell would become something worse.
+
+But it would deal with it, if things came to that. Syphus quashed its nerves. It didn’t even have any, so feeling nervous was absurd.
+
+Ready? Sisyphus sent. He sounded strangely apprehensive, too, and the thought of that was oddly reassuring to Syphus. It was one thing for it to feel nervous and quite another for one of the Named to feel such a strange, mortal emotion. Arguably that should have made it feel worse, but Syphus was mostly glad not to be alone.
+
+That had defined most of its existence, after all. Loneliness was the entire reason it had been created. It had been born alongside and was a direct result of Sisyphus’s longing for companionship. Its memories from before it had been given life were vague, but it remembered the rambling stories Sisyphus had told to his only companion, the way he had once collapsed against it, sobbing, and admitted he might break.
+
+Syphus steadied itself. It focused again on the Spellfist Arts and felt its new form take shape: the point along its arm closest to its body, its “shoulder”, grew into a massive pauldron that housed the [Reel] mechanism. One hand shifted and took the shape of the spell cannon it was now used to, but within that cannon were the pores of the [Slug], ready to ooze whatever spell it chose. The [Thread] would appear only when the grappling gun was fired.
+
+Yes, it answered. This was as close to ready as it would ever be. Sisyphus gave it a mental nod of acknowledgement, and then something Syphus didn’t quite understand, an odd feeling of warmth and appreciation that it had never felt from Sisyphus before.
+
+And then, for the first time in its existence, it truly was alone.
+
+The image of the Lesion wavered and snapped away between one moment and the next, but Syphus found itself staggering, its soul gasping for a breath it didn’t even need to breathe. Was this what others felt like all the time? Its connection with Sisyphus had always been there in the background; even if Sisyphus wasn’t watching, it had always known that he could. That he’d peek in if he desired, or if Syphus itself called for him.
+
+Now that connection was gone, and even now that it could see Cale and Kryva and Evi all staring at it in concern, it was alone. A dark panic crept in, unfamiliar and almost physically painful—
+
+Cale reached out and grasped its free hand. “I’m still here, Syphus,” he said. What was that look in his eyes? It was almost as if he understood. As if he knew exactly how Syphus was feeling. “Focus. You’ve got a spell to cast, remember?”
+
+The spell. Yes. It had its [Grappler] modifier loaded and ready, but it needed to connect to the Dark if it wanted any chance of retrieving Sisyphus before their bond was lost forever—there was just enough of a remnant that it knew what direction to fire in, at least. It glanced about wildly, raising its arm to aim.
+
+...It hadn’t needed to worry about knowing what direction to shoot in. Sisyphus breaking their bond had left what was, in fact, a very clear ghostly image of him flailing as he was drawn up toward something in the sky that rippled with magic. Syphus knew it for what it was the moment it saw it. It had seen it before, every time one of the Named was summoned.
+
+Had Cale done that? He couldn’t even evolve spells at the moment—he had no access to the Gift. What, had he just torn a hole in reality to summon Sisyphus? Now Sisyphus was being drawn back through that rift.
+
+But the distance gave Syphus time. Had Cale known this was a possibility from the moment he’d called on the Named?
+
+It didn’t matter. Syphus needed to connect with the Dark. It cast its mind again into the leyline below, pushing desperately past the roar of mana and magic to search for the shadow underneath. Where was it? Without the [Unveiled Eye], those dark threads were invisible once more. And it didn’t have one of Kryva’s pastries to help it along.
+
+But it needed to see. It needed to connect with the Dark again for this to have any chance of working. It needed to find a glimpse of that shadow, the one that knew the same struggle it had shared with Sisyphus for untold eons.
+
+It had never truly needed anything before, but just this once...
+
+Please, it thought.
+
+Something in the leyline flickered. It felt a connection brush against its core, not great enough to form a permanent tether but enough for a whisper of Dark intent to enter its soul. It guided that intent to the spell loaded in its [Grappling] mechanism, and yet as the spell began to take shape, it realized something.
+
+This couldn’t work the way it had planned. It couldn’t sacrifice a simple [Pebbleblast] to the Dark and create a spell strong enough to pull Sisyphus back. The spell it imbued had to be a spell that was an integral part of its core.
+
+Syphus thought back to the lessons it had learned in the Bitter Path. There was power in symbolic meaning. If it was to mark one of its spells with Darkness, losing all the advantages that spell’s connection with the Gift offered, it had to be a spell with meaning.
+
+For that, only one spell sufficed, and so it drew that fragment of the Dark to [Advanced Spellfist Arts], instead.
+
+It hurt. The spell was integrated thoroughly with the Gift, and the Gift was integrated thoroughly with its core. It didn’t have Sisyphus’s power to soothe the paradox, so the spell was ripped away from the clutches of the Gift and forced into a different part of its core.
+
+But now power was roaring through its form. The stone of its transformed arm darkened to near-black, but the raw, empowered magic it contained visibly distorted the air around it.
+
+Syphus aimed at Sisyphus, its creator and father, and fired a spell.
+
+What emerged from the cannon, however, was not a spell it had in its repertoire. It was more like a ghostly image of itself that soared through the air and grabbed hold of Sisyphus, who let out a startled yelp. Then it engaged the Reel, drawing Sisyphus back, fighting against the currents and the forces of the universe that demanded the Named serve his sentence.
+
+Cale did something, then. Syphus didn’t know what he did, but there was another expression of mana that seemed almost like it briefly isolated them from the rest of the Great Realms. Sisyphus snapped abruptly back to Syphus, long enough to re-establish their fading bond.
+
+What spell did you cast? Sisyphus asked, incredulous. I was expecting you to stab me with a hook, not hug me.
+
+Well, that was just silly. Why would it stab Sisyphus with a hook?
+
+We both know you would’ve stabbed me with a hook, Sisyphus said.
+
+That was patently ridiculous. Syphus had no idea what Sisyphus was talking about.
+
+Cale asked the same question moments later, though he was less convinced that Syphus had fully intended to stab Sisyphus. He was more interested in what sort of magic Syphus had used.
+
+The only problem was that Syphus had absolutely no clue. It had simply reached for the first spell that came to mind. When it admitted this, both Cale and Sisyphus—probably justifiably—scolded it for being too reckless with how it cast about its magic.
+
+Syphus was fine with that. It was far too pleased with itself to be upset about their rambling.
+
+It was probably going to have to figure out how to change back at some point, though. Its new spiky boulder form, as dark and terrible as it was, was probably too intimidating for most of the other students at Brightscale.

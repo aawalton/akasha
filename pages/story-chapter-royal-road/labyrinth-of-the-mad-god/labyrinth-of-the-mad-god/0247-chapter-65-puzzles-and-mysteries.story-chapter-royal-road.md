@@ -1,0 +1,115 @@
+---
+id: e61ab188-e93c-5d5d-9667-2e0a6dc6a214
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65: Puzzles and Mysteries"
+slug: 0247-chapter-65-puzzles-and-mysteries
+partOf: labyrinth-of-the-mad-god
+position: 247
+ownLength: 2053
+unit: words
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2755559/chapter-65-puzzles-and-mysteries"
+royalRoadId: "2755559"
+---
+
+Nick’s party exchanged a round of high-fives, savoring their accomplishment while checking out the shrine.
+
+They were getting ready to leave when he realized something wasn’t sitting right with him. “This is a great resource, but it feels like we’re missing something. The System always places some opportunities out in the open, but the best rewards I’ve found were hidden and required considerable effort to obtain. Do any of you have a way to inspect the stones below our feet?”
+
+“Flo can sweep the area.” Mirium gestured to her elemental. It lowered itself to the floor of the shrine, running its body across every crack and crevice while trying to force its way inside. It’s not just looking for concealed spaces. Nick noted with interest. It’s feeling for them.
+
+At first, it didn’t seem like the elemental would find anything, but when it surged beneath one of the benches, part of its body sank through the seam running between two paving stones. Flo rose into the air, formed a watery arm, and then pointed to the area in question. Bingo.
+
+Sure enough, when Nick bent down and took a closer look, he spotted a pair of hinges behind two of the legs. He ran his fingertips across the bottom of the bench until he palpated a hidden button. He had everyone stand back just to be safe, then pressed it with a faint yet distinct click.
+
+He darted back with Force Acceleration while casting Arcane Shield, but his caution proved to be unnecessary. The bench simply slid to one side, revealing a staircase below. “Good instincts, Nick.” Devin broke into a broad grin. “I’ve got a good feeling about this one.”
+
+“It’s been a while since we discovered a secret passage,” V said. “I can’t wait to find out where it goes.”
+
+“You don’t think there’s anything dangerous down there, do you?” Shaun drew his bow. “I can fire Smoke Arrows to provide cover, but my class isn’t well-suited for close-quarters combat.”
+
+“Don’t worry.” Veronica gestured and a pair of bone claws extended from the back of both wrists, followed by her crossbows unfolding. “I’ve got your back.”
+
+Although Size Up was silent, everyone activated their abilities and proceeded with their weapons at the ready. There wasn’t room to swing Blightbane, so Nick drew his arena dagger, conjured a pair of Mana Darts, and sent them circling around his head.
+
+The staircase formed a tight spiral that was carved into the stone spire comprising the isle. He expected it to lead to a room directly below the shrine, but that proved not to be the case. Instead, the stairs kept right on going, winding down and down and down.
+
+Fifteen minutes later, they were still descending, and the pressure in his ear told him he was far below the surface of the lake. “This crater is incredibly deep,” Mirium said, “and these stairs are taking us all the way to the bottom.”
+
+“This is exciting,” Shaun added. “I wonder what’s down here.”
+
+“We will find out soon enough.” Devin hefted his shield and one-handed axe. “Keep your guard up. It’s going to be tricky if we have to fight on these stairs.”
+
+Despite the blond warrior’s well-founded caution, the party encountered nothing more threatening than a few patches of mold. They pressed on until the echoes told them they were approaching a sizable enclosure.
+
+After descending what must have been several thousand feet, the stairwell ended, and the landing opened into a spacious chamber. The party swept their surroundings for danger, and after finding nothing of the sort, proceeded to inspect the chamber at length.
+
+While the room was free from enemies and traps, it was far from empty.
+
+Two of the walls featured thick crystal windows, and the far wall ended in a massive door that was completely covered in runes. “Well now,” Mirium said. “Nick was certainly right about this one. Wherever lies beyond that door, I’m certain that it represents a valuable opportunity for Aurora.”
+
+Nick was walking over to take a closer look when Shaun let out an excited gasp and waved everyone over. “Come check this out!” The archer gestured toward one of the windows. “You guys aren’t going to believe this.”
+
+Everyone came to a stop by Shaun’s side and peered through the great crystal window. He’d thought it would be pitch black outside given the depth, but that assumption proved to be unfounded. His jaw dropped with wonder when he beheld what was rising from the bottom of the lake.
+
+Centered around the spire he was standing inside was a city big enough to hold tens of thousands. The structures were fashioned from a luminescent blue stone. It wasn’t bright enough to be seen from the surface at night, but the effect was sufficient to illuminate the endless rows of buildings and the broad streets running between them.
+
+Some of the structures had crumbed to ruins, but most were still intact. Nick’s eyes were wide as he took in a metropolis that had been inhabited by beings from another world. The architecture was unique—all gentle curves and rounded protrusions that made the structures look like they had been grown instead of built. As impressive as the city was, the most astonishing part was that it was filled with air instead of liquid.
+
+There was a powerful dome keeping the water out, along with anything else for that matter. Given the dense weaves of mana permeating the barrier, it would impossible to pass through from the outside, which meant the only way to enter the city was the strange doorway taking up most of the adjoining wall.
+
+Staring up at the force magic holding back the water tickled something in the back of his mind. If I come back later and meditate on it with my mage sight, it might provide the insight I need to advance Arcane Shield.
+
+Nick was brought out of his reverie when Mirium pointed. “Something just moved down there! There it is again.”
+
+“Are there people living in the city?” Devin asked.
+
+“I don’t think so,” the water mage replied. “I only caught a glimpse, but it looked more like a monster to me—lots of limbs and a skeletal torso.” The party stared into the distance, but whatever Mirium had spotted didn’t show itself again.
+
+Nick pulled out his PDA and recorded everything that was visible from the windows, so Aurora’s citizens could contemplate the information at their leisure. They eventually moved on to the last item in the room—the gigantic doorway covered in strange symbols.
+
+The portal was made from a silvery metal without a speck of rust or hint of erosion. When he rapped his knuckles on it, it didn’t echo at all, indicating the material was incredibly thick. Flo couldn’t squeeze through the cracks, and he was certain that trying to force it open would be fruitless. If we want to find out what’s on the other side, we’ll have to play this straight.
+
+He had encountered runes used by Taltos and the System over the course of his adventures, but these geometric sigils didn’t resemble either type. No one on his team could read them or had seen anything like this before.
+
+There were thousands of runes, forming complex patterns that ran from floor to ceiling. Arranged in even intervals along the perimeter were twelve depressions, which projected a sense of purpose even though he had no idea what it might be.
+
+“These runes are engraved onto sliding tiles,” V said. “I think this is some kind of puzzle.” Sure enough, when Nick ran his fingertips across the door, a message from the System appeared.
+
+System Message: The Lost City of Xanian
+
+You have discovered a hidden dungeon. To access the dungeon, you must first solve the puzzle on the door.
+
+Note: This dungeon is not a part of the Rebuilding Civilization quest and will persist once the quest ends.
+
+The description didn’t include a difficulty rating, and it wasn’t a lot of information to go on. At least this confirms Veronica’s theory, and we don’t have to race against the clock to solve it.
+
+“I know we have time.” Mirium absently stroked Flo’s surface. “But it might be a good idea to have a few of our people try to figure this out. Whatever is on the other side is bound to be valuable and we might learn something useful by studying the puzzle itself.”
+
+“That’s a good idea.” Nick nodded. “I’ll let Liz know and make sure the research team she’s forming is aware of its existence. I have a hunch we’re not strong enough to tackle the dungeon yet, but I doubt placing this lake in the center of the badlands was a coincidence.”
+
+With that, they made their way back to the surface, speculating on their find as they walked. When they arrived at the lakeshore, the raft was still there, and they sailed it back to Aurora without incident.
+
+Well before they set foot onto dry land, Nick noticed that a crowd had gathered around the obelisk. When he walked over to take a closer look, it was easy to see why. Apparently, acquiring mana-generating resources didn’t only let Aurora construct Rare building—they manifested as physical objects too.
+
+Set a short distance away from the obsidian monument serving at the city’s core were three… well, he wasn’t honestly sure what they were. They looked like shallow stone pools with raised rims that came up to his knees. One was glowing with a soothing azure light, the second was filled with a fiery luminosity, and the third was emitting a rich brown radiance.
+
+When he switched on his mage sight, he realized what he was looking at. “It’s mana,” Mirium mirrored his train of thought. “Dense enough to take liquid form.” Sure enough, all three pools were filled with elemental energy—far more concentrated than he’d ever seen before.
+
+“This must be what powers the magical effects those Rare buildings come with,” Nick mused. “This is a fantastic place for people to train their energetic senses, and I’m sure it has other uses too. I wonder what will happen to these mana wells once we link them to a structure. Hopefully, they won’t just vanish, and we can study them at our leisure.”
+
+Elizabeth was standing nearby, speaking with some excited mages who were already obtaining insights from observing the potent fonts of elemental mana.
+
+“Claiming those regional resources is going to be even more critical than we thought,” she said when he came to a stop beside her. “I’m going to prioritize exploring those tunnels the Armada Wurm dug. It’s our best bet of finding another that is already inside the city’s domain.”
+
+“That sounds like a good idea, and the shrine isn’t the only thing we found.” He went on to tell her about the puzzle door and the dungeon beyond, pulling out his PDA so she could study the recordings.
+
+“The research teams are already forming.” Liz shot Nick a dazzling smile. “They already have a lot on their plate with studying mana, stamina, Psi, and how to maximize the various aspects our advancement. But I’ll add the door and those ruins to the list.”
+
+It would take time for their efforts to bear fruit, but this was invaluable chance to study artifacts from an ancient, magic-using civilization. They were certain that whatever was inside the city the System had designated as a dungeon would be important as time went on.
+
+As they discussed the details, he learned that a survey squad was already looking into the lake, trying to learn more about the creature Nick had spotted and determine if the water held any hidden dangers before anyone went for a swim.
+
+“The mana takes us one step closer to building the Magitech R&D Center and the Item Modification Station.” He rubbed his chin. “We just need a source of pure mana for the first and crystalline for the second.” They discussed the matter for a while longer before he left to condition his body and spar with anyone who had time to spare.
+
+Today had been chocked full of interesting discoveries, but they didn’t change Nick’s next objective—clearing his first test of mastery and getting his Sword skill moving again.

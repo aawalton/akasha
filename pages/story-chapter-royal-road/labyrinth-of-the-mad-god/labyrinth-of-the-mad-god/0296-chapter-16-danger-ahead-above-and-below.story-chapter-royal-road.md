@@ -1,0 +1,113 @@
+---
+id: 0b11e9c4-afa1-5e60-ae8a-26933b605c0a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: Danger Ahead, Above, and Below"
+slug: 0296-chapter-16-danger-ahead-above-and-below
+partOf: labyrinth-of-the-mad-god
+position: 296
+ownLength: 2094
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3184896/chapter-16-danger-ahead-above-and-below"
+royalRoadId: "3184896"
+---
+
+The party entered stealth mode when they realized they weren’t alone.
+
+Kenji and Nick switched on Blend into the Background and Bandit shifted into Shadow Form. Lurk didn’t have any concealment magic, but the ambush predator was a master in the art of sneaking around. Quiet as a whisper, she slipped between a pair of marble pillars, lowered her profile, and went perfectly still, making her hard to spot, even if you knew she was there.
+
+Kenji activated Tactical Command, using his visual-augmentation aura to help everyone keep track of each other while they scanned their surroundings for danger. After making sure nothing nasty was headed their way, they moved to the platform’s edge and cast their gazes across the ruined metropolis.
+
+Nick pulled out his spyglass and activated Enhance Senses, letting him perceive the platforms’ features from considerably further away. The air was perfectly clear, since there wasn’t any dirt riding the breeze, or a breeze at all for that matter.
+
+Before he examined the city’s layout, there was another detail that demanded his attention. What he had thought were the walls of an immense cavern was something else entirely—a sinister structure that sent alarm bells ringing inside his mind.
+
+This isn’t a cave. The node is engulfed in a web of epic proportion. Layer after layer of webbing encapsulated Eroquis, with fabric-like sheets running between the support strands to form a solid sphere.
+
+A shiver ran down Nick’s spine as he took in a webworks that stretched on for miles. The pale-yellow cables were wider than his outstretched arms and glowed with a soft inner light. They glistened like they were coated in oil and lacked the geometric order present in a spider’s handiwork.
+
+The great web’s exterior was woven into panels that prevented anything from passing through, and taken together, it was a bit like standing inside of a hot-air balloon. However, there were several gaps in the outer shell. One connected to the conduit they had entered through. A second was located on a sprawling platform on the far side of the city, which was the exit they needed to take, judging by the System’s arrow.
+
+Unfortunatly, the marker pointed straight across the yawning precipice lying between them, which meant it wouldn’t help the party navigate the node. Finding the way out was easy enough, but getting there is another story.
+
+The dilapidated transfer station was positioned near the top of the city, and this platform offered an excellent view of the levels below. In addition to forming a ball with Eroquis in the middle, vast sections of webbing enmeshed the floating islands and most of the buildings, although there were some clear areas here and there and other places where the silk wasn’t nearly as prevalent.
+
+While the alien web was undeniably creepy, the legions of monsters infesting the node were outright terrifying. Most of them resembled nightmarish spiders, but there were dozens of other species prowling the platforms, decrepit structures, and overgrown parks.
+
+They weren’t friends either. He watched a pair of mutant arachnids take on a pack of voidbears. The fiends tore each other apart until only a single spider remained, which feasted upon the corpses of the voidbears and its fallen sibling.
+
+After studying the node for the better part of an hour, it became clear that the city was divided into three layers—a quasi-ecology with three distinct strata, each home to progressively powerful beings.
+
+Even up here where the monsters were weaker, quite a few were early Tier 2. While Nick thought they could handle two or three, Size Up was confident these nightmares made flesh would annihilate his party if they drew too much attention. Even Lurk seemed intimidated, remaining in stealth mode without complaint instead of displaying her usual nonchalance.
+
+While the top of the entangled metropolis was dangerous enough, the peril only grew the deeper you went. The middle was home to horrors the party would be hard-pressed to defeat, even fighting them one at a time. Our best bet is to cross to the far side before descending into the central strata, limiting our exposure to the powerful predators prowling below.
+
+Navigating the top layer followed by a quick trip through the middle would be risky as hell, but it was nothing compared to what was living in the deepest recesses of the web. Nick ran his eyes across gigantic creatures that could have given the Armada Wurm a run for its money, and his instincts were certain there were things down there that were even worse.
+
+His team would be slaughtered within a matter of minutes if they were foolish enough to enter the deep web, although it might one day become a valuable hunting grounds when he reached the next tier and had another fifty levels under his belt.
+
+As he scanned the lowest level, he spotted something that explained how the node’s striated ecology had come into being.
+
+There was an expansive palace filling the platform at bottom of the web—surrounded by the strongest monsters he’d ever seen. They were arranged in territories that resembled the war camps of opposing armies, fighting to claim a spot closer to the massive structure.
+
+“I bet that’s the Hall of Heritages,” Kenji whispered. “We need to head down there and explore it once we’re equal to the task.”
+
+Whatever it was, the building was releasing an incredible amount of mana, along with countless varieties of essence Nick wasn’t experienced enough to identify. He really wanted to find out what was inside, but that wasn’t going to happen until he grew quite a bit stronger. Dealing with the monsters on this level is already going to be tough, let alone the ones living in the middle of the city.
+
+By now, it was clear that crossing the node would require stealth rather than strength. His party needed to navigate the infested metropolis and make it to the far side without attracting the attention of something too powerful to defeat or being swarmed by lesser foes.
+
+The monsters’ hostility toward one another was the only reason they had a chance of making it at all, as there were neutral areas running between their territories where only an occasional patrol or raiding party passed through.
+
+“These things are awful,” Bandit muttered. “But they’re still better than the dreadbeasts.”
+
+“I don’t know if it’s possible to keep the conduits near Earth free of monsters,” Kenji added. “But even if it is, that’s not going to happen until we wipe out everything living in this node.”
+
+“Either way.” Nick put his spyglass away. “We need to exterminate this infestation so Team Earth can access the Hall of Heritages and explore the rest of the sector. But that’s tomorrow’s problem. Today, we just need to reach the exit without getting trapped on a platform or biting off more than we can chew.
+
+Now that he’d obtained a sense of the city’s layout and the locations of its monstrous inhabitants, he tried to chart a course that would take the party across platforms whose walkways were still intact and weren’t home to nests of hungry predators.
+
+He couldn’t discern a complete route with the flooring, buildings, and webbing in the way, but Nick eventually identified a path that would let them cross a quarter of the node while minimizing their odds of getting into a fight they couldn’t win.
+
+From there, we should be able to see more of the city. I doubt the System would send us here if there wasn’t a way through. At his best guess, it was going to take the better part of a day to reach the other rift—longer if they had to pass through an infested area or had trouble navigating the city’s center.
+
+With a plan in place, all that was left was to proceed with caution and hope for the best.
+
+That was when he felt a familiar sensation he hadn’t experienced in quite a while. A subtle sense of concepts coming together that occurred when using a new skill for the first time.
+
+Sure enough, when Nick pulled up his profile to peruse his updates, a message he’d been hoping to see for some time now awaited his gaze.
+
+Through use, you have improved the following skills:
+
+Pathfinding has increased from [0] to [1].
+
+It was a welcome development, as he had been worried that he could only use Pathfinding while charting a course through untamed wilderness. It seems that the skill functions in urban environments if they are sufficiently mazelike, which means it should work underground and inside too. I probably would have increased it while travelling through the conduit if the System’s arrow wasn’t guiding our way.
+
+Nick had chosen his Trailblazer Profession because it came with Size Up, Tracking, and Stealth, along with a trait and survival skills that would be useful while exploring alien planets. Now that he knew Pathfinding would help him navigate ruins, mazes, and dungeons, he was even more satisfied with his choice. I can’t wait to find out how my Profession improves when I max out all the skills and advance it from Uncommon to Rare.
+
+However, that was a matter for another day. He shook his head to clear his mind and returned his attention to the task at hand. After pointing out a path leading to the next isle, his team agreed to head there first, then determine their next steps based on what they discovered.
+
+Other than the transfer station, this platform was free of buildings and adornment. It featured prolific railways, wide streets, and rows of decaying benches, keeping the surrounding airspace free for aerial traffic.
+
+Before the planet was destroyed, this must have been a hub for moving goods and people to distant locations along with other points inside the city. I wish I could have seen Eroquis in its heyday, before Taltos arrived.
+
+The men deactivated Blend for now, letting the trait’s energy recharge as they crept their way forward. As they walked, Nick used his PDA to record everything, so his people could analyze it in preparation for an extensive monster-slaying expedition when they had time to spare.
+
+The researchers might be able to figure out something useful by studying the city’s construction. I’ll try to examine how the platforms function if I get a chance.
+
+While he had the sense that this metropolis had been destroyed centuries ago, parts were remarkably well-preserved. The paint still had its color, the woodwork was intact, and artifacts from people’s daily lives littered the streets.
+
+There wasn’t any sunlight or much moisture in the node, which meant there weren’t any sources of erosion down here other than oxidation, although there were plenty of places that had been wrecked relatively recently—caught in the crossfire of warring monsters.
+
+Nick walked past a pair of suitcases and a headless doll. Putting the pieces together, people had swarmed the transfer station in a panic, desperate to escape the calamity that had consumed their world.
+
+By now, they were drawing near the far side of the platform. Before they continued, he took a closer look at some areas he hadn’t been able to see clearly from his prior vantage.
+
+The structures that ran alongside the outer web were in considerably worse shape than elsewhere in the city. Judging by the wreckage littering the levels below, their destruction had occurred after Eroquis was absorbed by the Labyrinth and transformed into this node.
+
+He spotted gigantic gouges that bit deep into the stone. It made him wonder just how big the creature that had spun the outer web was, which was one of the monsters the System had called a voidspawn at his best guess. With any luck, we won’t have to find out. Something that strong should be hunting high-level prey on the lowest strata.
+
+Nick turned his gaze to the next platform over, which ran between the one they were standing on and a wide level that stretched on a considerable distance ahead. It was the size of a city block, and all the buildings had been thoroughly destroyed, leaving little to obstruct his view.
+
+There wasn’t anything connecting them, but the gap was only ten feet across—a trivial matter to the party by this point. After scouting the far side, Nick conjured a pair of Mana Darts and leapt across while Bandit covered his advance.
+
+He landed safe and sound, so the others joined him and his team fell into formation—on guard against danger arriving from ahead, above, and below.

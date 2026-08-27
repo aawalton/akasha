@@ -1,0 +1,117 @@
+---
+id: 5a869e6e-93d7-5be2-87dc-efeb8b0840e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 0: Our Story so Far"
+slug: 0182-chapter-0-our-story-so-far
+partOf: labyrinth-of-the-mad-god
+position: 182
+ownLength: 3499
+unit: words
+publishedAt: 2025-06-16
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2361589/chapter-0-our-story-so-far"
+royalRoadId: "2361589"
+---
+
+“Hello everybody, Devin here. Today, I’m smashing through the fourth wall to bring you up to speed on our story so far. Just a reminder, these recaps exist outside the main story and are meant to be a fun way to provide a refresher for anyone who needs it. If you’re all caught up or don’t enjoy these little interludes, feel free to head on over to chapter one, where Nick has quite a surprise in store.
+
+“Joining me for today’s recap is Veronica. We decided to give Nick the day off, so that he can relax after the big battle while this dynamic duo handles the heavy lifting. Before we get going, I wanted to say thanks to all our fans out there. We love you, and we couldn’t do this without you. V, why don’t you say hello to all our friends?”
+
+“Sure thing, Devin. Hi everyone. Wow. I wasn’t expecting such a big crowd. It blows me away that so many people are enjoying our adventures. I’m excited to find out what happens next, but before we get to the opening of book four, why don’t we take a few minutes to recap the Fate of Earth trilogy?”
+
+“That sounds like a plan, Veronica. I’ll begin with a quick summary of what happened in volumes one and two, then you can dive into the details of book three—where we climbed the Tower of Rizzen. Let’s start way back at the beginning, before all the craziness began.
+
+“Our saga opened with Nick having a dream where the Earth hit level one after millennia of absorbing cosmic energy. When he woke up, the System arrived, killed a lot of people, and tinkered with the rest of humanity’s DNA so they could use Magic.
+
+“After dodging a bunch of killer beams raining from the sky, Nick was teleported into an office building the size of a small continent. That was where he met a blond woman in a white suit named Pax. Aside from the apocalypse, everything seemed great at first. Pax told Nick that the Earth had been sponsored by an awesome goddess named Astra. Everyone was about to get hooked up with some Epic classes, then cheese their way through a powerlevel-themed tutorial.
+
+“Now, I know what you’re saying. ‘That sounds too good to be true, Devin.’ Well, that’s because it was. Right before we got our hands on the good stuff, Taltos the Mad God arrived.”
+
+“I still don’t know why he’s called the Mad God, Devin. He honestly just seems like the biggest dick I’ve ever met, and I’ve known quite a few.”
+
+“That’s a great question, V. And I have a funny feeling that Nick is going to learn the answer sooner rather than later. Anyhow, Taltos erased all those juicy, ezmode settings then dialed the difficulty all the way up to 11. He locked us into Basic classes, stole our starting gear, and tossed Nick in a survival tutorial on the Searing Isle. It seemed like a nice place to take a vacation—right up until he ran into a pack of carnivorous lizards, some boiling rain, and the furriest T-Rex that I’ve ever seen.
+
+“Nick had to figure out how to survive in a hostile, magical wilderness, and he needed to do it fast. He battled the elements, bloodthirsty beasts, and the paralyzing fear of living through the apocalypse—not to mention that hungry dinosaur he decided to call the lurk. He got his ass kicked for the few weeks—gradually toughening up and getting his shit together—before a searstorm forced him into the dungeon way below its recommended level.
+
+“Nick had to adapt to his dramatic change in circumstance, learning how to fight and kill with his life on the line. He explored the sewers beneath the lost city of Kastilla, and almost had his mind taken over by a parasitic fungus called the Crimson Blight. He defeated some zombie ratmen and found a broken magic sword after beating the dungeon’s boss.
+
+“After he made it out, Nick took on a pack of oversized hyenas, befriended Bandit and his tribe of supersmart lemurs, and met some giant spiders who were way more chill than their appearance would suggest. For the climax, our hero had to survive a war between beasts, then climb a mountain while the whole damn island sank into the sea. When he made it to the summit, Nick was forced to contend with a cyclone the size of a city, along with a bunch of boiling rain.
+
+“By the skin of his teeth, our hero prevailed, leaping through a portal with seconds to spare. At the start of book two, Taltos made another appearance. He offered humanity a chance to win back the Earth… eventually. First, the Mad God added a bonus round to our tutorial, which would let humanity earn some better classes if they won a two-round arena battle.
+
+“Nick agreed, and when he was portaled to the Grand Arena of Papilion, he met some other important characters, including Veronica and yours truly. Sadly, not everyone survived. First, we had to fight some giant wasps with a subzero sting, but that was nothing compared to when the Herald of Slaughter appeared—a beautiful girl with blood-red wings. With a kiss, she turned a rhinoceros into a fallen creature. I still don’t know a lot about what that means. But in this case, it mutated the rhino, making it totally jacked while losing most of its skin.
+
+“We barely won that fight, and after picking his new Kineticist class, Nick agreed to participate in the Fate of Earth quest chain—humanity’s last chance to keep our planet off the scrap heap. The first step of the quest was to cross Blackmist Bog and reach the Tower of Rizzen. Nick was alone at the start and had to fight some giant frogs and horrors from another plane of existence while learning to survive the blackmist.
+
+“He eventually ran into Sophia—who helped him deal with Shaun and some other people who were trying to rob him—and they decided to stick together. After a while, they fell into an abandoned mine and were forced to battle a bunch of nasty insects called flesh-renders. While they were fighting the boss, Sophia revealed that she could summon a powerful demon called the bonefiend, which we’ll learn more about soon.
+
+“They had almost reached the tower, but the global events were getting worse and worse. After bumping into a giant dragon turtle called the River King, they finally made it—only to run into trouble of the human sort instead. A man named Jim was trying to tell everyone what to do, sacrificing the weaker members of Team Earth to foster the elites. Jim and Nick hated each other from the start, and they seemed headed for a collision that only one of them would walk away from.
+
+“That was when Nick and Sophia met back up with Veronica and myself—just a few hours before enough people entered the tower to trigger the last global event. The River King arrived, and we had to fight it, while the blackmist and a bunch of bloodthirsty creatures converged on our position. Thanks to our efforts and some secret doors Sophia found, most of Team Earth survived. Kenji lost an arm and everyone entered the Tower of Rizzen, marking the end of volume 2. Why don’t you take it from here V?”
+
+“Sure, Devin. I’ve got this. Since our party entered the tower through a secret door, we began with a bonus level located in the basement—the first of four floors we had to climb for this stage of the Fate of Earth quest chain. The place was huge, and we started our new adventure in separate locations.
+
+“Nick explored a series of battle-damaged rooms and pick up an alien PDA before running into some mechanical rats that gave him quite a scare. He led them on a merry chase and met up with me a few hours later. We continued looking for the rest of our party and found a bonus event where we pillaged a storeroom.
+
+“Over time, we learned the story of how the tower’s basement had been destroyed by a monster called the Janitor. It had been created by a mad scientist named Kellen, with predictable results. We eventually found another person, only instead of Kenji, it wound up being Shaun—the dude who tried robbing Nick back on Blackmist Bog.
+
+“Meanwhile, Sophia and Devin ran into each other and fought a lot of giant roaches before the Janitor found them. Everyone was racing to the stairwell leading to the next floor when the gear-swarm forced the bugs, our team, and the Janitor into a four-way war.
+
+“It was one hell of a fight, but in the end, we killed the roach queen and the Janitor, upgrading Nick’s force powers and magic wand along the way. Our reward for completing the bonus floor was a month of compressed time spent training the skill of our choice. I picked Crossbow, Devin chose Axe, Shaun worked on Bow, and Sophia trained her Battlefield Awareness skill.
+
+“Nick wound up picking Sword and was taken to a planet with a purple sky and green sun. He trained with Rita—his master in the school of the Ever-Surging Blade—with some assistance from Kiki the combat doll. He learned a lot, including a bit about his sword Blightbane, then we all met back up at the entrance of the tower’s second floor.
+
+“That entire level was a continent-sized space that was still inside the tower. It was full of flying islands and some sky pirates—who wound up chasing us across the level. We stole an airship, killed a lot of buccaneers, then got shot out of the sky. With some quick thinking from Nick, we used the ship’s floatstone core to bail and land safely, which also gave his magic bag a major upgrade.
+
+“To keep climbing, we were forced to stow away on the Bloody Surprise. It was captained by Alma of the Frozen Flame—the sky pirates’ leader and the boss of the floor. Oh, and Nick and Sophia finally fucking kissed. I hope they get some quality time together soon.
+
+“Anyway, moving on, Shaun, Sophia, and I got caught by the pirates, forcing Nick and Devin to mount a rescue. They crept across the ship—only to get tricked by Alma and forced into a desperate fight. It seemed like they were royally screwed, but then Sophia turned into the bonefiend, broke out of the brig, and smashed the ship’s floatstone core.
+
+“As the Bloody Surprise fell from the sky, Nick and Devin boarded a little ship strapped to the side and waited for us to join them. Before we made it, the airship broke in half, and a beam knocked Nick out. He had some visions of Bandit and Kenji, then woke up near the end of the tower’s third floor—where Devin had been taking care of him.
+
+“That was when Pax got ahold of Nick. Apparently, she had planted a tracker in his finger way back at the start of book one and had been watching his progress the whole time—part of a scheme to help the System invade the Labyrinth. Pax showed him how to find a secret stairwell, and after helping a group deal with the level’s boss, they climbed up to the final floor of the tower.
+
+“Why don’t you handle this next part, Devin, since you were there. Then I’ll jump back in to recap the final battle.”
+
+“Sure thing, V. After carrying Nick’s unconscious body around like a balloon on a string using his newly upgraded backpack, he finally woke up and we made it to the fourth and final floor of Darkstone Tower. Unlike the other levels, this one had an entity that was directly overseeing what turned out to be an evaluative trial.
+
+“The Trial Administrator told us that if we completed all five stages of its assessment, we could win something called Species-Experience Pills that would help us evolve. It became a lot less friendly once it realized we weren’t employees of the tower, changing the course into a multi-stage deathtrap instead. While that floor really fucking sucked, I have to admit that the simulation dome it took place in was awesome, which I why I took a piece of it with us on the way out. But I’m getting ahead of myself.
+
+“Round one of the trial took place on the Ever-Winter Tundra. First, we had to survive 24 hours in a beautiful, cold-as-shit winterland. It wasn’t too bad during the day, but a storm was brewing, and the temperature began to plummet as night arrived. Luckily, Nick and I had grown pretty strong by this point. We knocked down some trees, built a cabin, and tucked ourselves in to ride out the storm. It was a good thing we put in the extra effort, because a few hours later, a blizzard hit us hard.
+
+“We rode out the deadly weather from inside our shelter. It gave me a chance to get to know Nick better, and we swapped stories while waiting for the combat portion of the round to begin. The next day, we fought a bunch of ice elementals—a mix of little hedgehog creations and a few frost giants.
+
+“The next round was the world’s most dangerous game of ‘the floor is lava.’ We hopped from rock to rock in the middle of an active volcano. That was bad enough, but the magma eels we fought during the combat portion were even worse. Nick had to do the heavy lifting on that one, since I didn’t have any ranged attacks just yet.
+
+“We caught a break on the third round, since the environmental challenge was a low-oxygen environment and we both had enhanced Survivor traits that cut our 02 needs in half. While we were getting some rest, Pax made a surprise return to the story. She let Nick know that the Trial Administrator was planning to kill us during the fifth round, and we needed to take it out before that happened.
+
+“After dealing with some big lizards, we made it to round four, which placed us at ground zero of a meteor shower. That one really sucked. Fortunately, that simulation took a lot of processing power, letting Pax hack the Administrator’s shield while it was distracted. Nick got up there and went to town on the machinery—thanks to his magic bag and an assist from yours truly. Once the Administrator was reduced to a pile of scrap, we were able to steal those pills and proceed to the last safe room before the final battle that would decide the fate of the Earth.
+
+“Nick received a floor reward that let him visit a craft world, and while we were waiting for his gear to be finished, we both evolved to Grade-D. Nick’s transformation wound up being a hell of a lot more dangerous than mine—thanks to the calamity-class parasite called the Crimson Blight—which he had picked up all the way back in his tutorial. The Blight had been getting ready to take him over and turn him into a weapon of mass destruction. After winning a war inside his own mind, Nick absorbed the fungal bastard instead and used its essence to fuel his own advancement.
+
+“Once the Blight was gone, we picked new Rare classes—Magma Warrior and Force Weaver. Then we jumped in a portal that took us to the final fight with the Guardian of the Tower of Rizzen, which was already underway. Veronica, why don’t you wrap up the recap, since you were there for more of the battle than we were?”
+
+“Will do, Devin. Thanks for getting us here. Our pal Kenji wound up leading the elite defenders of Earth. After a passionate speech and an unexpected cameo from our missing home world, the final battle began on the tower’s roof.
+
+“For the first phase, one hundred portals rose in a ring around the rooftop. A wave of mechanical beasts came pouring through them every three minutes. Team Earth raced to break the portals before we were buried in a tide of clockwork critters. It was a tough engagement, but thanks to the gains we made while climbing the tower, humanity was able to hold our own.
+
+“Things got a lot tougher during phase two, when more portals appeared and unleashed an army of clockwork soldiers. Those constructs were no joke, and some good people died trying to hold them back. But with some help from Kenji’s elite units, we were able to stem the tide and start breaking some portals. So far, the battle that would determine the fate of Earth and everyone who called her home was looking good.
+
+“That all changed when the third phase began. There were only two portals this time, but the thirty-foot clockwork giants that emerged from them were deadly as fuck. Even after letting loose with our strongest attacks, Team Earth was only able to take one of the big bastards down, and we couldn’t break their portals. Making a bad situation worse, everything went to shit when the next wave of giants arrived only two minutes after the first, and it looked like our story was about to end in tragedy.
+
+“But in the heart of our darkest moment, our heroes arrived. Outlined by the Earth hanging in the sky above, Devin and Nick appeared on the battlefield—two of humanity’s strongest warriors. This was your big moment, Devin, so why don’t you wrap up the end of the fight?
+
+“Will do, Veronica. Fantastic job with the recap by the way. Nick and I were late to the party, but we were just in time to help turn things around. The third phase of the battle was already underway, and an army of clockwork beasts, soldiers, and giants was hitting Team Earth hard. We needed to deal with the Guardian, but first, we had to take some pressure off our friends so they could do their part while we engaged the boss.
+
+“Nick and I let loose with some smashy smash choppy chops, then attacked the device controlling the portals to draw the Guardian out. That living machine was a total badass—our toughest enemy to date by far. We gave it our all, and it seemed like we had the upper hand, but it turned out the metal bastard was toying with us the whole time. It removed its Tier-1 Limiter, then hit us with the full fury of a Tier-2 elite.
+
+“We had undergone some crazy growth recently, but that was too much even for us. Just when we thought we were done for, the rest of Team Earth began buffing us with supportive magic, giving us the boost we needed to win the fight. Once the Guardian was dead, the Earth was finally safe… or so we thought.
+
+“Taltos and the System made a surprise appearance, fighting over the rules for the Fate of Earth quest chain. You’ll have to ask Nick about the details, but both of them had added a few tweaks, trying to one up the other. Taltos made the Guardian crazy strong, and the System snuck in a special Diamond reward for humanity if they were able to bring it down. Nick also learned the full story of how the System had been planning to invade the Labyrinth all along—seeding worlds with champions and then tricking Taltos into stealing them.
+
+“In the end, the System won their dispute, securing the Diamond reward for humanity and granting us a one-year protection period after we became full citizens of the Labyrinth and the Earth was installed into the outskirts. We had just enough time to give a Species-Experience Pill to Sophia, V, and Kenji before the teleportation sequence began and book three came to an end.”
+
+“Although our planet is safe for now, we still have a long fight ahead of us before we shake off the shackles of the Mad God for good. That brings us to the end of today’s recap. Thanks for sticking around to the end. That reminds me, I have a favor to ask before we say goodbye.
+
+“If you are enjoying this series and want it to continue, please consider leaving a rating or review right now and mentioning LotMG to your friends. A story lives and dies by its reviews, and we could really use your help. Thank you so much for following along with our adventures and I’ll see you soon. Why don’t you get the last word in, Veronica?”
+
+“Sure. I just wanted to add my thanks to Devin’s and let you know that we have something special planned for book four. I won’t include any spoilers, but I think you’re really going to enjoy it. Have a fantastic day. Now, let’s check in with Nick and get this story rolling along. Bye for now!”

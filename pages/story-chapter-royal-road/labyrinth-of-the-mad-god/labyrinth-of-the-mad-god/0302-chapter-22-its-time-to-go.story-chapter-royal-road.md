@@ -1,0 +1,159 @@
+---
+id: ce66843a-422b-5ec8-9086-0c83aa7c6106
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: It’s Time to Go"
+slug: 0302-chapter-22-its-time-to-go
+partOf: labyrinth-of-the-mad-god
+position: 302
+ownLength: 3032
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3269253/chapter-22-its-time-to-go"
+royalRoadId: "3269253"
+---
+
+Nick dreamt of treasure and woke when Kenji’s hand shook his shoulder.
+
+After eating a cold breakfast and repacking their gear, the party was ready to complete their journey across the fallen city. Before leaving the manor, they peered through the windows to make sure no monsters had moved onto the grounds while they were inside.
+
+The coast was clear, so they walked through the front door, ready to do some scouting before picking their path. Bandit leapt onto the wall, activated his necklace, and vanished, performing a full circuit before wavering into existence once more.
+
+The lemur hadn’t spotted any predators prowling nearby, so everyone crossed the barrier and fell into formation.
+
+Bandit took point while the team made their way across the platform, heading to the conduit on the far side of the fallen metropolis. It turned out that one drawback of the necklace’s invisibility was Kenji had had hard time tracking it. He couldn’t use Tactical Command to highlight the beast’s position, so Bandit switched to Shadow Form instead.
+
+After studying the fresco in the knight’s bedroom, Nick had a solid understanding of Eroquis’s layout, although they still had to find stairs and bridges that hadn’t been destroyed. Even still, it made crossing the city a great deal easier, and they reached the halfway point an hour later without running into trouble. Along the way, he sketched the magitech relays built into the floating blocks above his head, in case his people could draw inspiration from their design.
+
+By the time lunch rolled around, the team had crossed two thirds of the node as the crow flies. However, the final leg of their trip was destined to be trickier than the rest.
+
+The handful of high platforms in this area were spread out and didn’t lead to where they were going, which meant it was time to set foot onto the city’s middle strata. The monsters down there were fucking dangerous. Nick doubted the party could handle more than one, even with perfect teamwork.
+
+If that wasn’t trouble enough, the lethal beings hunted in roaming packs, which meant stealth was the party’s top priority. If they were spotted, their best bet was making a break for the exit instead of sticking around to fight. Of course, there was no guarantee that his team was faster than the monsters or the entrance to the conduit was unguarded.
+
+The four of them came to a stop at the top of a staircase descending to the middle strata, discussing their options and scanning the platforms before committing to a course of action. Based on the intact walkways he could see from here, there were two viable routes that would lead them to rift and the conduit beyond.
+
+One would take them through the ruins of the commercial district, which had once been home to high-end stores as well as an open-air market. The other platform’s purpose was harder to deduce, but after his extensive city-planning sessions back home, Nick had a hunch that it was an administrative block where the settlement’s leaders had conducted their business and met with foreign dignitaries.
+
+Judging by the broken doors and shattered windows, monsters had moved into the buildings, and given how dangerous the creatures down there were, picking through the rubble wasn’t a smart move regardless. That meant they only needed to consider the tactical aspects of both options—the layout of the structures and streets, and the positions of the voracious predators prowling within.
+
+The first platform was ruled by web-slinging voidspawn, scaled spiders that were bigger and stronger than the ones he’d battled in the upper levels. The other was populated by two warring species. Monsters that looked like a cross between sea urchins and hippos lived on one side, and canines the size of draft horses camped in the other, with a wide swath of no man’s land running between them.
+
+His team didn’t like the look of either block, but in the end, they decided to try their luck crossing the commercial district. The spiders primarily detected prey by sensing vibrations, whereas the hedgehippos’ powers were a mystery and the giant dogs were certain to have a poweful noses. His party didn’t have a way to mute the beasts’ scents, which meant the canines were guaranteed to catch wind of their presence, while the spiders might not notice their intrusion if they managed to avoid the alarm webs.
+
+After double checking to make sure the route to the conduit was complete, all that was left was to get down there and embark on the treacherous crossing.
+
+“It should take about an hour to reach the conduit,” Nick judged. “If the monsters notice us near the end of the route, we can sprint for the exit, but it they spot us right away, we’re going to be in trouble.”
+
+“If that happens, we need to retreat to this strata, fend them off, and try the other path,” Kenji replied, “although I don’t like our odds of slipping past those dogs.”
+
+Since they were prioritizing furtiveness, Bandit used his new necklace, switched to Shadow Form, and activated mana stealth to mute his energetic signature, rendering the beast invisible to Nick’s senses. The lemur was riding the dinosaur, so keeping track of him wasn’t an issue right now.
+
+The men used mana stealth and Blend into the Background, with a little help from Nick’s Charm of Muffling. Lurk entered ambush mode, which wasn’t any type of magic as far as he could tell. Even still, the consummate hunter was so quiet that he barely knew she was there, combined with a way of moving that didn’t draw the eye nearly as much as her usual gait.
+
+With their protections in place, the party was ready to proceed. Fortunately, unlike the area they’d arrived in, there were numerous ways down to the city’s middle level. Though they needed to watch out for alarm webs and other types of traps, there wasn’t a single route through which prey passed, which would have guaranteed the presence of monsters lying in wait.
+
+While he was certain they preyed upon creatures crossing through the conduit, the predators inhabiting the central strata seemed more interested in exterminating each other than lying in wait to catch an occasional meal wandering by.
+
+They decided to pass through the market, which had fewer structures where enemies could hide. When they made it to the far side, they needed to cross two final platforms before reaching the rift and leaving Eroquis behind.
+
+As his team descended the crystal stairs, Nick switched on Enhance Senses and pulled out his spyglass. Using his boosted vision from a lower elevation let him get his first good look at the deep web lining the bottom of the node, which was home to the strongest monsters he’d ever seen.
+
+The massive creatures were deep into Tier 2. Size Up informed him they had fully-fleshed Concepts and incredible raw attributes, and his mage sight revealed energetic cores emitting potent pulses of mana.
+
+The middle level is bad enough. We wouldn’t survive a minute further down. If we want to conquer the node, Team Earth needs to level up and invade Eroquis in full force—prepared for a battle considerably tougher than our tussle with the Armada Wurm.
+
+His musing came to an end when they stepped on the next block. While he could divide his attention under most circumstances, he needed to place every scrap of concentration on navigating the platform ahead.
+
+Past this point, a single mistake was likely to be their last.
+
+For now, he kept Enhance Senses running to supplement Size Up, although he was ready to swap the ability with Force Acceleration at a moment’s notice.
+
+The stonework they passed was heavily scarred. The endless war between the monsters had taken a heavy toll on the city’s infrastructure, although the platform had endured centuries of abuse without falling apart thus far. He didn’t see any webs as the party crept across the center of the open-air market, staying as far away as possible from the buildings lining both sides of the block.
+
+By now, the tension was so turgid he had broken into a cold sweat. He called upon Arctic Clarity, filling his veins with frigid focus while praying they reached the exit without getting into a fight they couldn’t hope to win.
+
+His team ducked behind a pile of rubble when a band of monsters that lived on an adjoining platform appeared—bizarre beings that looked like carnivorous mounds of broken glass held together by pulsating vines. Whatever they were, the creatures didn’t hunt by scent. They passed Nick’s location without glancing his way, sending a fresh surge of adrenaline flowing through his bloodstream.
+
+As they progressed, the party communicated via hand signals and Tactical Command, not daring to so much as whisper as they pressed deeper into the city’s dark heart.
+
+There were two alarm webs strung across the walkway connecting to the next block, which was horizontal since they were both on the same level. His party hopped over the silken stands, crossed the bridge, and stepped into a storage area featuring collapsed warehouses and defunct distribution centers.
+
+While the journey was intense and frightening, they made their way past rows of ruined structures without drawing attention to themselves, making him hopeful they would reach the rift without incident.
+
+However, Nick optimism was premature—a fact the party became intimately aware of five minutes later, when one of the warehouses reached out and tried to grab him.
+
+The monster—an amorphous blob that could mimic the buildings around it—was a powerful ambush predator. Bulwark and Arcane Shield barely slowed its pseudopods down, giving them just enough time to jump out of the way as the thing began gliding toward them, moving far faster than he would have expected given its size and shape.
+
+He wasn’t sure if his team could kill it under ideal circumstances, and this situation was light-years short of ideal. All they could do was run while praying they could outpace the gelatinous giant and nothing else had heard the commotion.
+
+The party had almost arrived at the end of the block when another building turned into a monster and started flowing their way, cutting off their only avenue of escape.
+
+The first mimic was only a few hundred feet back—almost as fast as his team moving at full speed. The creatures would catch them in a few heartbeats at most, which meant they were trapped between two lethal beings.
+
+“We don’t have a choice,” Kenji said. “Hit the one in front hard, break through, and then sprint for the rift.” Eschewing stealth, Nick unleashed his Predatory Domain while reaching for Blightbane’s hilt as Lurk spread her jaws wide and let loose with Paralyzing Roar.
+
+Their killing-intent combo broke over the monsters, causing them to flinch before resuming their pursuit—just enough time to activate Heavy Blow and fire a trio of back-to-back Sonic Slices.
+
+The supersonic blades of force mana tore into the quivering blob, slicing into its gelatinous tissue. He doubted he’d dealt a serious wound, but his attacks must have hurt, because the mimic stopped while keening a piercing screech that vibrated his bones.
+
+He followed up with a barrage of Mana Darts—the gears in his mind whirling as he sought a way to bypass the towering creature before its twin hit them from behind and their options for escape dwindled down to none.
+
+That was when Bandit yelled, “Bunch up tight. I’m going to teleport us to the next platform.”
+
+Nick had forgotten the lemur could use Shadow Blink on other people too. The beast hadn’t tired it yet since it consumed an incredible amount of mana, but they had bigger problems right now. Bandit burned through every drop of shadow mana in his core and cast the spell on the whole team at once.
+
+What happened next was one of the strangest sensations of Nick’s life. The world turned to smoke and mist, although he knew his body had become insubstantial instead of the other way around. He sank into the pool of shadow stretching beneath his boots… sliding along at a right angle to reality before rising from another patch of darkness and his body became solid once more.
+
+Bandit was suffering from severe mana sickness, so Nick tossed him a potion to help him recover as they sprinted toward the rift. He’d hoped the blobs couldn’t follow, but they simply stretched out until they were thin enough to cross the walkway, which meant Bandit’s incredible feat of magic had only earned them a few seconds’ lead.
+
+The situation was dicey as hell, but it was still a considerable improvement. Another minute or two would see them to the far side of the block, where the next conduit awaited.
+
+However, matters were not fated to be resolved so simply. Before Nick’s day got any better, it was about to get a whole lot worse.
+
+The platform leading to outer web was the one the largest—second only to the level in the deep web that held the Hall of Heritages.
+
+Whatever purpose it had served before being woven into the Labyrinth was impossible to divine. The monsters’ endless skirmishes had reduced half the buildings to rubble and damaged most of the rest.
+
+If Nick had a gun to his head, he would guess this was a specialized industrial area related to the production of magitech machinery, but he didn’t have time to ponder the matter while running for his life.
+
+The building-sized blobs were following hot on their heels, and something about the structures ahead was tickling the back of his mind. When he spotted copious mounds of bones piled beside them, Size Up filled in the rest, sending a fresh cascade of cortisol coursing through his veins.
+
+“Some of those ruins are mimics too!” he warned the party. “They’re smart enough to copy the damage in this area.”
+
+This development transformed a dubious situation into something far more treacherous. The structures were too densely packed to avoid them all. If the party passed too close to a disguised monster, a single swipe of its pseudopods could pull them inside, culling their lives in a flash.
+
+He hadn’t charted a course that would lead them around, and if they slowed down at all, the other blobs would catch them. As his team approached the platform’s midpoint, an idea came to him. It was going to burn through his reserves and draw even more attention than they already had, but by this point, they didn’t have a choice other than press on and pray they reached the far side.
+
+Still sprinting at full speed, Nick sheathed Blightbane and let loose a Sonic Slice. Not at the monsters pursuing them, but the buildings lining the street ahead. His first attack tore into concrete and wood, erupting out the far side with a thunderous crack. The second force blade sank into gelatinous tissue, coaxing a shrill scream from the shapeshifting blob.
+
+The party darted to the opposite side of the street to open some room, but they couldn’t afford to stop. Nick hit the big bastard with a barrage of Mana Darts while Bandit covered it in shadow flame, distracting the creature long enough to run past and adding a third contender to the chase. Over the next breathless seconds, they used the same technique to bypass two more mimics.
+
+Another quarter mile to go, and they would be home free. They would have to contend with the node’s predators again on the way out, but that was a problem for another day.
+
+That was when he noticed the floor was shaking. It isn’t just the platform we’re standing on; the entire web is vibrating.
+
+It could only mean one thing. A flash flood of fear poured adrenaline into his veins when he realized something immense was headed their way.
+
+The rest of his party had sensed it too. Without needing to confer, they burned through their stamina while racing for the conduit ahead. A half-dozen mimics that had been lying in wait fled for their lives as something even more dangerous made its presence known.
+
+When Nick glanced through a crack in the platform below, he caught sight of the murky outline of a gargantuan body with far too many legs. It was still quite a ways out, rising from the depths by climbing the exterior web. Even still, the sight made his heart race like a hummingbird’s wings as terror electrified his nervous system.
+
+“Oh, shit!” he yelled. “It’s time to go. I think it’s the creature that spun the mesh around this node.”
+
+Size Up was wailing like a banshee, but he didn’t need the informational skill to know the situation was as dire as they came. If his team was still in the node when the colossus arrived, they were going to die—an outcome as certain as dawn following dusk.
+
+By now, the platform was shaking so violently that only his superhuman Dexterity let him remain upright. Nick shut out his fear and pushed his body into a burst of speed—glad that Kenji had a head start and Bandit was riding Lurk, who was even more agile than he was.
+
+By now, he could see the rift, a gash in reality that offered salvation if he could reach it in time.
+
+That was when the first titanic leg cleared the rim of the platform.
+
+As he followed a shrieking Bandit into the rift, he caught a glimpse of the horror’s head as it crested the precipice and tuned his way. It was a sight that would haunt his dreams for months to come, a horrific amalgamation of hunger and hatred ruled by an alien will.
+
+Holy shit. That monster is Tier 3 for sure.
+
+The thing met his gaze with the promise of murder clear in every crook of its features.
+
+Mana exploded from its core as it started casting a spell.
+
+Before Nick had the misfortune of discovering more of the details, he passed through the yawning slit in spacetime and his world vanished in a flash of light.

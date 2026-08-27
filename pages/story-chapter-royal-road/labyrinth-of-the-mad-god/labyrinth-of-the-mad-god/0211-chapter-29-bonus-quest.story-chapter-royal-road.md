@@ -1,0 +1,87 @@
+---
+id: a04df3e1-1cd4-5001-95c9-b3c5f93ace72
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Bonus Quest"
+slug: 0211-chapter-29-bonus-quest
+partOf: labyrinth-of-the-mad-god
+position: 211
+ownLength: 1584
+unit: words
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2534055/chapter-29-bonus-quest"
+royalRoadId: "2534055"
+---
+
+After waking up and greeting the rising sun, Nick began checking the countdown clock every few hours, waiting for the Rebuilding Civilization bonus quest to start.
+
+The duo crossed the badlands with a spring in their step—eager to begin this crucial phase of humanity’s comeback and turbocharge their efforts to prepare for the day they came face-to-face with the cosmic horrors lurking in the depths of the Labyrinth.
+
+Although most of his people had returned to Earth at the end of their tutorials, they had been forced to start over from scratch. The System had removed all manmade objects during integration, including the tools that made modern construction possible.
+
+Nick was certain that hundreds of settlements had been founded over the last few months, but now it was time for Team Earth’s elites to join in and take things to the next level. Of course, even the average person wasn’t so average anymore.
+
+By now, everyone had evolved bodies, new Professions, and classes whose rarity was no longer limited by Taltos’s whims. Combined with the knowledge in their heads and the ability to earn City Points, this was a turning point in the story of humankind—a chance to rise from the ashes of the old world and take their place in the new.
+
+He knew life on Earth would never be the same—that what it meant to be human had changed over the course of their ordeal. Nick’s people had lost so much in such a short span of time, but they had gained a great deal too.
+
+Going forward, magic would be a part of their everyday lives, along with Psi, stamina, and a range of superhuman abilities. Though they were destined to face the dangers of the Labyrinth, cruel deities, and the brutal indifference of the System, humanity was united in purpose like never before. It was a chance to set aside old grievances—work together to protect their people and every creature that called the Earth home.
+
+Nick was ready to roll up his sleeves and get to work—eager to take out a City Boss and help build a thriving civilization from the ground up. He was excited to see what they would create together and happy to do his part.
+
+As he walked beside Elizabeth, he fantasized about building a place for his friends to prosper and grow. A center of learning and progress where they would study the rules of their strange new existence, mentor and support one another, and work together to defend their home from anything that threatened their prosperity.
+
+He knew his friends felt the same way, and he was certain the goal of founding a settlement would bring them together soon. He’d seen ample signs over the last few hours that hundreds of people had passed through the area recently. All the tracks were heading in the same direction—the lake in the middle of the badlands.
+
+He had been wondering if he would reach the heart of the biome before the quest began, but it looked like it was going to take the duo one more day to arrive, while the quest would start in just a few hours. That’s all right. It will give us a chance to scout for a boss while we make the final approach.
+
+Twenty minutes before the clock hit zero, Liz and Nick stopped walking and waited for the announcement to commence. They sat down on top of a big boulder and ate lunch while the final minutes ticked past.
+
+“Are you as pumped up as I am?” He asked between bites.
+
+“You have no idea.” Elizabeth smiled wide. “It feels like my whole life has been a prelude for this moment, and now it has finally arrived. We’re standing at the precipice of a new age—in a position to set the course of human civilization for millennia to come.”
+
+She spread her arms and gestured. “This isn’t just a chance to rebuild what we’ve lost. We can make something better. What we put into motion will transcend mere survival, although that’s a critical element. This is an opportunity to reinvent what it means to be a global civilization—to move past our petty grievances and chronic shortsightedness and become the people I’ve always dreamed we could be.”
+
+Liz’s brilliance and ambition shone through in every word she spoke—passion saturating every syllable. She’s both a pragmatist and a dreamer. Someone who has seen the worst in people but believes we can be more. His admiration for the woman grew with every hour they spent together, and he couldn’t think of anyone better suited to lead a settlement during the trying days to come.
+
+They sat side by side as the final seconds on the quest timer dwindled away—enjoying a companionable silence until an update wavered into existence in front of their eyes.
+
+System Message: Bonus Quest
+
+Attention, people of Earth. The Rebuilding Civilization bonus quest has officially begun.
+
+If you have not already done so, please read the information provided in the questing menu.
+
+Be advised: Town, City, and Capital Bosses will spawn in 1 hour.
+
+If you hear a siren, you are standing within their territory. If it is loud, you are near their spawn point and should relocate for your own safety.
+
+While living in an official settlement is optional, it is strongly advised that you participate in the Rebuilding Civilization quest to maximize your chances of surviving when the period of planetary protection ends. Defeating a boss will allow you to found a City Point (CP)-eligible settlement or convert an existing settlement to the CP system.
+
+From this moment on, a scoreboard will be added to your quest menu, displaying how many bosses remain before all constructs of that category despawn.
+
+The rules for founding/developing a settlement are as follows:
+
+In addition to the buildings that may be purchased with CP, all eligible settlements will gain access to the Contribution Token system. Contribution Tokens allow settlements to issue their own rewards for completing various requests—the tracking and payment of which will be handled by the System. This is an excellent way to incentivize both residents and visitors to assist with CP-earning activities and any other tasks you see fit.
+
+Note: The challenges you have completed will award 50 CP to any settlement you join or found.
+
+“Fascinating.” Nick rubbed his chin after reading the last line. “This is an even bigger deal than I thought. I can’t wait to see what we can buy with City Points and vouchers. I’m sure the benefits provided by ranking up our city core will be important too.”
+
+“The Contribution Token system is a nice touch,” Liz said. "It gives us a way to found an economy beyond just bartering—although we’ll have to think of something else when it’s time to start trading with other settlements.”
+
+She rose to her feet with a gleam in her eye. “Let’s get going, Nick. There isn’t a second to spare. Let’s pick up the pace and head for the lake. Along the way, we should scout for bosses and look for a good place to found our city. I hope we find a Capital Boss. I want our new home to be built on the strongest possible foundation.”
+
+She was so excited that he started laughing, although he felt the exact same way. “I’m with you 100%.” Nick stuck out his hand. “Let’s do this, partner.”
+
+Elizabeth shook his hand then looked him in the eye with an expression he couldn’t read despite his recent insights. “Partners. I like the sound of that. Now let’s kill a boss and get busy building.”
+
+With that, they hopped down from the boulder and started to run. He had never seen Liz move so fast and they pounded the dusty soil beneath their boots while racing the sun. Since they were reaching an area that would be within their settlement’s domain if all went well, he paid close attention to the terrain, memorizing the details and recording everything with his PDA to review later.
+
+They cataloged the various natural resources filling the sub-biomes they passed and noted anything that warranted further investigation. They also kept an eye out for any beasts living in the area, since they seemed designed to be neighbors. Elizabeth was exhausted by the time the colors began bleeding from the world with the onset of dusk. Nick took care of dinner while she walked over to the river to cool off and wash away the dust from the road.
+
+She was strong enough that he wasn’t too worried about her running into something she couldn’t handle—especially with Blend—and he was only a short sprint away if she did. Fortunately, they didn’t have to worry about stumbling onto a boss’s territory unaware, since the System was providing an auditory warning.
+
+By the time Liz returned, he had finished whipping up a big pot of stew. They ate their fill then he decided to rinse off too. He set his PDA to sentry mode and left it with her, just to be safe. He enjoyed a cold bath under the light of both moons, staring up at alien constellations that had yet to be named.
+
+When he made it back to camp, his partner was fast asleep. Nick worked on his mana exercises for a few hours while mulling over what the System had revealed earlier in the day. Then he slipped into his bedroll and closed his eyes—thrilled to find out what tomorrow would bring.

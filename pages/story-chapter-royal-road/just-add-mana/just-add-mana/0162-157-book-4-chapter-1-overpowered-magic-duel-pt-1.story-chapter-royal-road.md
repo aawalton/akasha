@@ -1,0 +1,215 @@
+---
+id: ae0df83b-93ca-5680-8855-70ac43dc5c2a
+page-type-slug: story-chapter-royal-road
+title: "157 — Book 4, Chapter 1 — Overpowered Magic Duel, Pt 1"
+slug: 0162-157-book-4-chapter-1-overpowered-magic-duel-pt-1
+partOf: just-add-mana
+position: 162
+ownLength: 3617
+unit: words
+publishedAt: 2026-07-09
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3653266/157-book-4-chapter-1-overpowered-magic-duel-pt"
+royalRoadId: "3653266"
+---
+
+The Brightscale Academy of the Attuned Arts had endured many dangers that should have destroyed its foundations, but nothing had ever threatened its existence quite like the coming duel between Astiviya, the Goddess of War, and one mildly irritated Cale Cadwell Cobbs.
+
+It was no wonder that Headmaster Akkau and the various mages of his faculty pulled out all the stops, working to build a dueling arena that would hopefully minimize the odds of their entire academy being annihilated. Along with quite possibly the continent it was sitting on. For some reason, they hadn't seemed particularly comforted by Cale's repeated assurances that he wouldn't allow Astiviya to do such a thing.
+
+"It's like they think I'm going to annihilate the continent," Cale complained to one of his apprentices. Flia had mostly recovered from her experiences in the Bitter Path, and while the water that made up her elemental form remained somewhat turbulent, she was herself enough now to look mostly just bemused by Cale's complaints.
+
+"That's because they do think you'll annihilate the continent," she said dryly. Her gait was steady as she walked alongside him, the two of them making their way to the newly-built arena. Cale's duel with Astiviya wasn't due for at least another hour, but he'd been asked to arrive early to help reinforce the barriers surrounding the place.
+
+"Why?" Cale asked, exasperated. "It's not like I've been going around blowing up continents!"
+
+"Do you really need to ask?" Flia gave him a flat look.
+
+Cale grumbled under his breath. He knew perfectly well why Akkau and the rest of his professors were being cautious, of course, but that didn't mean he wasn't going to complain about it. Their upcoming duel had been the talk of the academy for the past week, and there had been no getting away from it. Every student and level of mage from plainroot to wyldfire were invested in its outcome, though their expectations differed.
+
+It was kind of funny, actually. They all knew by now that Cale was the Headmaster's apprentice, but many of the plainroots and some of the palewaters still didn't believe the rumors that surrounded him. They were, they claimed, just looking forward to watching an arrogant student get beaten up by a goddess.
+
+In fact, Cale had noticed a small contingent of them starting to strut around in what appeared to be Astiviya's religious symbols, presumably as some kind of statement against him. One student passed him now, wearing earrings of the blood spear she wielded, and he grimaced.
+
+"I still can't believe they started a fanclub," he said once the student was out of earshot, shaking his head. "They realize Astiviya was threatening our school, right?"
+
+Flia turned to stare at him. "They started... Cale, it's called a church, not a fanclub."
+
+Cale blinked. "Are you sure? They put up posters and everything."
+
+"Paintings," Flia said.
+
+"And they have the action figures?"
+
+"Idols." Flia rubbed a hand over her face. "You're doing this on purpose, aren't you?"
+
+Cale grinned. "I'm just saying, there might be some denominations of her worshippers that I respect, but these ones aren't it. They might as well be a fanclub. They basically just organized around her because they're jealous of the new kid."
+
+"I hate that you kind of have a point." Flia shook her head, though she couldn't hide the slight smile that slipped across her face. Cale was glad to see it—it was another sign of her recovery. "You won't have any doubters after the duel, at least. It'll be hard to deny what you can do once they see it for themselves."
+
+"Eh, you'd be surprised. People are really good at lying to themselves, especially when they're mages." Cale chuckled. "But they're plainroot mages and they aren't regularly going on adventures that could kill them, so it's the sort of mistake they're allowed to make. Best get it out of the way now, before they hit darkwood and start taking jobs that'll get them killed if they don't assess their enemies correctly."
+
+"Very pragmatic of you." Flia raised an eyebrow. "This doesn't have anything to do with how none of the wyldfire mages doubt you, does it?"
+
+Cale scoffed. "My ego does not depend on a bunch of wyldfire mages respecting me," he said. "But it is nice that Thorn made sure they all knew I was the real deal, even if he pretends he didn't. You know, I think he might like me."
+
+"Are you sure he doesn't want to strangle you?" Flia deadpanned.
+
+"Those two things aren't mutually exclusive," Cale began. "I'll have you know I wouldn't be opposed to—"
+
+"If you finish that sentence, I'm going to leave," Flia said, narrowing her eyes dangerously. "And I won't come back in time to watch your duel."
+
+Cale looked stricken. He placed a hand over his heart, then conjured his most innocent expression. "I would never."
+
+"Very good." Some of the sternness vanished from Flia's expression as she laughed, shaking her head. "You know, it's no wonder no one believes you're a wyldfire mage. You don't act like one half the time."
+
+"First rule of being a true mage: never be what people expect you to be."
+
+"You need to stop changing what the first rule is."
+
+"I can't." Cale lifted a finger and tapped the side of his nose knowingly. "The first rule of being a true mage is that the first rule always changes."
+
+Flia rolled her eyes and hid her laughter, letting out an exaggerated sigh instead. "Let's just go meet up with the others."
+
+The dueling arena, if it could be called that, was about as ready as it could possibly be. All that remained was to perform the summoning that would call Astiviya's divine presence to return to Utelia. A vast circle drawn out in the center of the arena would accomplish that task, once they were ready.
+
+But first there was the matter of organizing the students that had come to observe the duel.
+
+At first, Headmaster Akkau had been adamant that none of the students and few of the professors would even be allowed to attend and observe the duel. It was far too dangerous, he argued. The scale of magic that they knew would be thrown around—both by the Goddess of War and her opponent—was not the scale of magic any mortal or immortal mage ought to be exposed to unless they were wyldfire mages themselves.
+
+Professor Graystalk, who was not yet a wyldfire mage himself, had an excellent counterpoint: being in the vicinity of such magics was a once-in-a-lifetime opportunity for any mage.
+
+It was no secret that a sustained volley of high-tier spells tended to leave an imprint behind on the fabric of magic itself, and it was often said that if a mage could find one of these imprints, they could grow their own magic by leaps and bounds. All the better if a mage was present for such an exchange, though obviously that approach came with significantly more risks. On the off chance that they survived, however...
+
+Well, no one was quite sure how it worked, but the elemental chaos that resulted from such intense magical exchanges seemed capable of knocking something loose within the mages in its vicinity. The survivors of a battle between two gods, for instance, often found themselves with vastly improved elemental resonances.
+
+More importantly, many of those that struggled to advance their mana cores would find it suddenly easier, as though some key insight into the process had been granted to them.
+
+Even those mages that had already reached wyldfire could benefit, though the results tended to be far more unpredictable for them. Occasionally, they would achieve a new understanding of whatever form of magic they specialized in. Other times, they would find in the aftermath that they had a newfound affinity for mana control, or were able to handle more simultaneous instances of mana at once.
+
+So ubiquitous was this effect that it was known in many realms as an Inspiration. When great mages fought, it was said, they left an Inspiration imprinted on both the battlefield and all those around them.
+
+Which was why it was unsurprising, perhaps, that once Professor Graystalk pointed out that this fight would likely produce a high-level Inspiration, the wyldfire mages of Brightscale Academy began clamoring to be allowed to observe the fight. They had been passively interested before, but were so used to the idea of other mages being weaker than they were that they hadn't considered the possibility of this particular one helping them grow until they'd been reminded.
+
+And that had opened the gates for everyone else, really. If the wyldfires were going to be involved in force, then they had all the protection they needed for any other mage that wanted to observe. If anything was capable of getting past the arena's defenses and the wyldfires in charge of maintaining them, simply being absent from the arena itself would do nothing to save them.
+
+So Headmaster Akkau had reluctantly approved turning the duel into something of an event for their school. It was, after all, supposed to be how their academy proved themselves ready for the Fettered Divinity tournament. That Astiviya had targeted and challenged the one student entirely capable of overwhelming her magic was just her own misfortune.
+
+She was still a goddess. Akkau knew very well that any being capable of reaching and sustaining their divinity would have no small number of tricks up their sleeves. He also knew, however, that Cale himself was familiar with all those tricks.
+
+After all, how many gods unfit for their seats had he already slain?
+
+Akkau would not soon forget the look in Cale's eyes when he had asked that question. Cale had only shaken his head and answered that he would not want to know, and somehow, Akkau had believed him.
+
+A Utelian duel was structured in the form of three challenges, and though the last duel Cale had fought had been against a simple plainroot elf, it turned out that those basic rules did not change even when one was fighting a god. Cale would pick two challenges to start with, and Astiviya would pick the third, to be handled if he lost either one of his challenges.
+
+The last time Cale had participated in a duel, he had deliberately picked a second challenge he had known he would lose. To do so again against a goddess, however, would only be the height of arrogance.
+
+...He was kind of tempted to do it anyway.
+
+"You're going to pick normal challenges, aren't you?" Damien asked, as if sensing what Cale was thinking. Ah, his favorite dreadshade apprentice, always fretting over him! Poor Damien sounded both worried and suspicious all at once. "Please tell me you're picking normal challenges. Like mana capacity or something."
+
+"Of course I'm picking normal challenges," Cale said, blatantly lying. Damien stared at him, and it became very clear that his apprentice did not believe him in the slightest. After a moment in which neither of them blinked, Cale threw in his brightest, most convincing grin.
+
+It didn't seem to do anything to help. Once again, Cale was impressed by how perceptive the dreadshade was. Fortunately, Akkau chose that moment to start making an announcement, saving him from having to respond to his apprentice.
+
+"The duel between the Goddess of War and Cale Cadwell Cobbs will begin shortly," the old dragon boomed, his voice amplified by magic and echoing all across the stadium. "Once again, I ask that every one of you stay behind the barriers that we have established. Do not cast any magic. Do not attempt to bypass the barriers. If you must record the battle, use an approved scrying crystal to do so. Do not attempt to scry through the barriers yourself. They will blast you, and I have instructed our healers to heal you only enough that you may keep your lives."
+
+This was a lie, of course. Akkau was far too softhearted to do this, although from what Cale knew of the Brightscale healers it was very likely they would make good on his threat all on their own. They could be harsh with students that didn't take their own safety seriously.
+
+"Once the Goddess is summoned, I implore you not to comment on the battle, no matter how much you may feel the urge to. You are here to learn and to benefit from the effects of an Inspiration, should one happen to be created. You are not here for entertainment, or to mock a god, or to mock my apprentice." Akkau paused and gave the academy students his most severe expression, his gaze sweeping across them. "I hope you all understand what an opportunity this is. Do not waste it. That is all."
+
+With that, Akkau inhaled, then blew a breath of bright dragonfire over the circle inscribed into the arena grounds. The fire spread along the lines of the summoning circle, then grew higher, then higher still. Soon it was a roaring blaze of white, nearly impossible to see through.
+
+Cale was quietly impressed—this was more mana than he had ever seen Akkau expend before. He had, it seemed, given up on hiding the true extent of his strength.
+
+Then the dragonfire began to reshape itself into the form of a tall, four-armed woman wielding four blades, and the telltale signs of a divine aura spilled out over the battlefield. The arena barrier stopped it cold, creating a stark contrast between either side of it. For a moment it seemed as though the arena within was saturated with color, while the stands outside, full of Brightscale mages of every capacity, were gray and lifeless.
+
+Cale chose that moment to step through the barrier, sticking both his hands in his pockets so he could lift one up in a lazy, casual wave. "Welcome back," he called out cheerfully. "I'm ready for our duel now. Also, no particular reason, but did you by any chance happen to curse an elven child some decades ago?"
+
+Astiviya's radiant form abruptly cut out so she could glower imperiously at him. "This is how you greet your goddess?" she asked, her tone scornful.
+
+"This is how I greet a goddess," Cale corrected. "I would greet my goddess very differently. Or god, for that matter. And you haven't answered my question."
+
+"You are concerned about your professor," Astiviya said. "You plan on taking revenge for him? You should worry about yourself, first."
+
+"I did," Cale said. "I've been worrying about myself all week. Wanted to get it out of the way, you know? So now I'm free to worry about my friends."
+
+Astiviya growled. "We will pick our seconds," she said, trying to ignore his attempts to needle at her. Mostly unsuccessfully, judging by how tightly she was gripping her swords. "And you will pick your challenges. You will not waste my time with this tomfoolery."
+
+"Answer my question," Cale repeated, and this time there was a bite of steel in his voice. Astiviya looked taken aback for a moment before she sneered.
+
+"Yes," she said. "If you must know, it was I that placed a curse on your professor. He tried to lessen my power."
+
+"He was a child."
+
+"And? Should I show mercy to every child that might usurp my domain? Does a goddess have to bend to the whims of children?"
+
+"A goddess wouldn't be worried about children usurping her domain, I should think," Cale said. "And frankly, if a child did manage to usurp her domain, she probably didn't deserve to have it in the first place."
+
+Astiviya narrowed her eyes and gritted her teeth. "Enough. Who is your second?"
+
+An armored form lumbered up behind Cale, gleaming red. Its presence was entirely magically silent—it had concealed itself completely, until now.
+
+"This guy," Cale said brightly. "Old friend of mine. How about yours?"
+
+Astiviya raised a hand toward the heavens, and divine magic swelled. A moment later, the clouds parted, and a slender, pale figure descended to land by her side.
+
+An explosion of clashing divine intent followed, rippling out throughout the arena. Just like the first time Akkau had summoned the gods, the presence of more than one clashing domain could easily disrupt the mages in the vicinity as it laid havoc upon all the mana in its range. The first time this had happened, it had been an accident, and Cale's entire plainroot Divine Studies had nearly collapsed.
+
+This time, she was doing it deliberately. As some sort of statement, Cale suspected. But the ripple of clashing divine power reached the arena's barriers and just... stopped. Astiviya seemed nonplussed; she narrowed her eyes at the barriers. "What is this?" she demanded. "Did you believe such barriers were necessary for a simple duel? I will not cause such destruction."
+
+Cale was too busy staring at whoever it was Astiviya had summoned. "I have a better question," he said. "Who's this guy? Why'd you summon a naked twink to be your second? Is this an exhibitionism thing? Because I didn't consent to this."
+
+Astiviya gritted her teeth. "This is the Prince of Peace," she said. "My consort. A god in his own right."
+
+"And he's naked because..."
+
+"Peace does not come with weapons," the Prince said, his voice quiet but strong. "I show that I am unarmed in all ways."
+
+"All ways except one," Cale muttered. "That thing's basically a sword. Put on a sock or something."
+
+"Your challenges," Astiviya demanded.
+
+Cale sighed, then stared up at Astiviya. "You know, if you had shown even the slightest bit of regret for forcing a child to live with a curse, I would have gone with my original plan," he said. "Something lighthearted so we can put on a bit of a show for the kids. Maybe a bit of minion chess. Have you ever played minion chess? I miss that game."
+
+"What are you talking about?" Astiviya asked, exasperated, though Cale noted that the Prince of Peace beside her looked intrigued. He did seem like the sort that would be into minion chess. Cale made a quick note of that for later.
+
+"Nothing important," Cale said. "I think I'm abandoning that plan now. I need you to understand why this matters and how much you made my friend lose with your little curse. So I'd like to issue a second challenge."
+
+The goddess stared at him for a moment. "And what challenge is that, little plainroot?"
+
+Cale decided not to disavow her of that notion for now. "We're going to win all three of our challenges," he said. "If I lose even one of them, the victory goes to you. But if I win, you apologize to my friend personally."
+
+Astiviya's grip on her swords tightened, trembling with rage; beside her, the Prince placed a hand on one of her elbows, as if to urge calm. She took a deep breath before she spoke.
+
+"If you are able to do such a thing, I will not only apologize, but bestow a Blessing upon the Graystalk child," she said. "And upon his parents, to make up for the time they have lost."
+
+Cale blinked. "That's surprisingly generous of you."
+
+"You will not win two challenges against a goddess, let alone three," Astiviya said. "I lose nothing by being generous."
+
+That wasn't strictly true, but Cale said nothing to deny it. He could afford the divine a bit of grace. Many of them were bound to act in ways that would expand the reach of their domains. It was no true surprise that Astiviya would play the part of someone stubborn and ignorant, willing to start what might be a decades-long feud for the simple reason that she was offended.
+
+But it said something interesting, too, that her consort was someone known as the Prince of Peace. It spoke of one who fought against their chains. Not well, perhaps, but ever since his time in the Bitter Path, Cale had begun to wonder.
+
+Gods and goddesses acted differently around him. For the longest time, he had chalked this up to nothing more than his attitude and approach, yet the more time they spent around him the more human they seemed to be.
+
+And if he was right about that, then this duel could serve as what she needed to become more than just her domain. Best to take it seriously.
+
+"My challenges are mana quantity and magical combat," he said.
+
+Astiviya seemed like she had been expecting some sort of trick. She frowned at the suggestion. "Foolish," she said. "You believe you will defeat a goddess of war in matters of mana and spellwork?"
+
+"Obviously," Cale said. "Your challenge, please."
+
+Astiviya narrowed her eyes, and something inscrutable passed through her expression. The Prince seemed to sense something and reached out for her again, but before he could calm her, she took a step forward.
+
+"I choose trial by mundane battle," she said, all trace of self-contemplation vanishing; in its place was an ugly sneer. "You will fight me without your magic."
+
+Cale froze, allowing the first hint of uncertainty to slip into his expression. "...I thought the whole point of this was to prove we have the magic we need to participate in the tournament."
+
+"It was," Astiviya said. "But now you wish for me to apologize personally to a mortal you claim I have wronged; the stakes have changed. Do you wish to withdraw?"
+
+Seconds passed, and the whole stadium seemed to hold its breath. Eventually, Cale sighed once more.
+
+"I do not," he said. "I accept your terms."

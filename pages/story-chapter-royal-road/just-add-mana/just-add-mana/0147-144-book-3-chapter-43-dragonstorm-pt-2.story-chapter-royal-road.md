@@ -1,0 +1,269 @@
+---
+id: c2be56a2-7b1f-52f9-8fcb-8b2422a6d3ff
+page-type-slug: story-chapter-royal-road
+title: "144 — Book 3, Chapter 43 — Dragonstorm, Pt 2"
+slug: 0147-144-book-3-chapter-43-dragonstorm-pt-2
+partOf: just-add-mana
+position: 147
+ownLength: 4172
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3492077/144-book-3-chapter-43-dragonstorm-pt-2"
+royalRoadId: "3492077"
+---
+
+The sheer violence of the Dragonstorm was greater than Cale expected, even with the warnings that Phlogis and the others had given him. Part of that was perhaps because he had been expecting something along the lines of the amplified Aspect Cascade, which itself already topped the list of violent magical storms in recent memory.
+
+He had not been expecting this.
+
+The Dragonstorm didn't tear through the veil of the realm as the Aspect Cascade did, but what it lacked in realm-penetrating force it made up for in sheer symbolic violence. Every time he thought it had reached a peak, it surged to new heights, until Cale felt the howling of the winds as though they were a physical force.
+
+And that was through the multiple barriers that had been laid out to defend against it.
+
+They were working, at least. The problem was that even dampened, the song crashed through the university, carrying with it the weight of war, of draconic conquest, of overwhelming dominance. The air hummed with that song, bore it every gust and gale; the rain held a note within every drop of blood; the sky itself seemed to burn with it, blotting out the sun as far as the eyes could see—
+
+—and that was quite far indeed for someone like Cale, given he still had his [Eyes of Ashvali] active. He was tempted to disable them. In the midst of the Dragonstorm they were almost more of a hindrance, for even with his understanding of how to use them, they showed him almost nothing except all the ways in which this could fail. There were a thousand different ways the University might be destroyed, leaving only a few survivors.
+
+Or only a single survivor, really. Of all the University mages present, Adam stood out as the only one guaranteed to make it through. Cale supposed it was because he had a greater role to play.
+
+Outside the University, the skies boiled with draconic fury, clouds crashing and roiling against each other in a way that resembled the waves of a tumultuous sea. Each flash of arcane lightning was accompanied by a shockwave of thunder that sent a tremor through the building, and even that thunder sounded more like the roar of a dragon, somehow furious and pained all at once.
+
+Most damning of all, perhaps, was what he saw when he looked too closely. The stormclouds appeared to be nothing more than stormclouds at a glance, but if Cale allowed his gaze to linger on the brief flashes of light, on the places where the clouds crashed against one another to create a tidal wave of magic...
+
+It felt almost like he could see what was hiding within it. There were shapes within the clouds, silhouettes of dragons trying to push through the storm. The more he watched, the more it looked like they were struggling desperately to escape some greater force.
+
+(He had tried, when he first noticed this, to simply blast the sky open. Some problems could be solved by throwing enough mana at them, after all. Unfortunately, the Dragonstorm wasn't one of them—his mana cut through the clouds without leaving any trace of an impact. Intuition told him not to try again.)
+
+Still, if this was an era of magic shaped by symbolism and meaning, then the imagery of the storm had to represent something. Perhaps the Dragonstorm itself was simply the result of some greater cosmic struggle. A battle between two fundamental forces did often manifest in strange ways...
+
+Not for the first time, Cale felt for the vial of draconic essence in his pocket.
+
+It was warm now. The liquid trembled and shook, seemingly in response to the storm itself. When he took the vial out of his pocket to check on it, he found thin strands of liquid climbing the sides of the vial, almost as though it was trying to climb out of the vial.
+
+Or perhaps it was trying to roar back. To scream its defiance against its own kind. That was a very draconic thing to do, Cale thought, turning the vial over in his hands.
+
+If there was a time to use it, there was no doubt that time would come soon.
+
+Cale's silent rumination was interrupted by footsteps as Adam came to a stop beside him, and Cale turned to glance at him. There was fear in his eyes, but it was hidden well, concealed beneath the lines of grim determination in his features.
+
+The barrier wouldn't last. The spell the University's instructors had constructed was impressive, there was no doubt about that. With the sheer number of magical reagents they had used and Cale's own barrier added to it, their defensive construct was likely close to an eighteenth-tier spell. It was very nearly as powerful as it could get.
+
+But the Dragonstorm was like nothing Cale had ever seen. It was the idea of disaster wrapped within a storm, and it was everywhere. He had no doubt that if he were to look in the Fog, he would find it there too. If he walked to another realm in this time, the same storm would be there, striking different worlds with the same lightning and drowning it all in the same rain...
+
+Was this the extinction event that had taken out humanity? It would have been hard to believe yesterday, but looking up at the sky now, Cale could certainly believe it.
+
+Regardless, the barrier they had wouldn't last, and dragon rain always came in at least two phases. The Dragonstorm would be no different.
+
+"It isn't usually like this, you know," Adam said quietly, looking up at the sky.
+
+"Normal dragon rain, you mean?" Cale had assumed as much, but he let Adam talk; there was clearly something he wanted to get off his chest.
+
+"Yes." Adam didn't look away from the storm, but he clenched his fists, and there was tension in his voice. "The rain is bad, but it's not usually... this. Normally it hits about five worlds at a time, and it's weak enough that we can just activate the school's defenses and let them ward off the worst of it.
+
+"But they've been getting worse. The storm is bigger every time it hits, it envelops more worlds at once, and the shades it creates afterward have been getting stronger. We expected this one to be worse than the rest, but we didn't expect... we didn't anticipate this."
+
+"There's nowhere to hide, is there?" Cale asked. "If it's hitting all the worlds at once, then it wouldn't matter even if you managed to evacuate your apprentices. It's the equivalent of a twentieth tier spell. No one defends against that."
+
+Except him, though it was a near thing every time. Cale didn't bother saying that out loud, though.
+
+"Twentieth tier?" Adam frowned.
+
+"Terminology from my world. It doesn't really matter." Cale shook his head. "Point is, I don't think any amount of anticipation would have been enough."
+
+Adam bowed his head. "Perhaps," he said reluctantly. "But things will only get worse. Even if we succeed in defending against this—even if other worlds have mounted their own defenses and small pockets of us survive—we will be decimated. And the Dragonstorm is not the only thing that has been getting worse. Magical disasters all over the worlds have increased in severity."
+
+"Do you know why?" Cale asked.
+
+"Not yet," Adam admitted. "Many kingdoms are reluctant to even acknowledge that there is an existential threat, despite the insistence of the Fifth Church."
+
+"I suppose they'll have a hard time ignoring it now," Cale said, staring out at the storm.
+
+"They may have a hard time acknowledging it, if there is nothing of them left," Adam muttered, the words bitter. "It shouldn't have come to this."
+
+"It shouldn't have," Cale agreed.
+
+How many times had he been in this same position, sounding an alert no one would listen to? It was one of the reasons Cale had eventually distanced himself from the kingdoms and cities of the Great Realms, preferring instead to focus on smaller villages or on the problems that affected individual people. He'd met a few he admired, but for the most part, dealing with councils and kings just wasn't for him.
+
+"You lied about why you were here, didn't you?" Adam asked suddenly, making Cale look up. Adam wasn't meeting his eyes—he was staring out the window instead, his gaze distance. "I wondered about it for years, you know. You don't have a single other human with you, and I'm pretty sure I'm the first other human your friends met."
+
+"I said we're here to help," Cale said. "I didn't lie about that."
+
+"But you're also here to find out what happened to us," Adam said. "To humans as a whole."
+
+Cale studied Adam for a moment. He took in the other man's exhaustion—the dark circles under his eyes, the way he sagged just slightly, even while trying to stand tall for all the people that believed in him. He looked far older than he should have been.
+
+No point in denying it, Cale decided. Adam deserved to know.. "It wasn't why we came here at first," he admitted. "But yes."
+
+"I've been trying to figure it out," Adam said. "What's going to happen to us, I mean. I was hoping I'd have answers for you by the time you showed up again, enough that you could maybe do something about it, but..."
+
+Cale shrugged. "I wasn't expecting answers when I came here in the first place."
+
+"But you want them," Adam said, and Cale nodded. What else could he say?
+
+The two of them stared out at the storm in silence.
+
+"It might be this, you know," Adam said, breaking the silence. "The Dragonstorm. It's so much worse than I was expecting. I thought we had a few more decades left, but maybe I was wrong. I never figured out how to read the shambler patterns as well as Mom did."
+
+In the chaos of the storm, Cale hadn't even thought about the shamblers. "How many of them do you see with us?"
+
+"None," Adam said. "That's the problem. A few new types of them have shown up, and they're each correlated with some kind of loss or disaster. You can use them to predict what's going to happen, sometimes. But right now I don't see any of them, and I'm worried that means this is it. This is what creates them in the first place."
+
+Cale thought about it for a moment, then slowly shook his head. "I don't think so."
+
+"How would you explain it, then?"
+
+"I think it's possible," Cale said carefully. "I think that, if left unchecked, the Dragonstorm could consume the worlds and leave them barren. Maybe there's some version of events where that wipes out humanity and creates the shamblers, and that's why none of them are here right now."
+
+"But you don't think that's the version of events we're living," Adam said. "Why not?"
+
+"First, what are you and your instructors going to do?" Cale asked. "Once the barrier breaks, I mean."
+
+"We'll need to split up," Adam said, clearly confused about the relevance of this, but going along with it. "The Dragonstorm will move into its second phase and create dragonshades that will rampage through the University and get to the students unless we stop it."
+
+"And these dragonshades are symbolically linked to the storm in some way?"
+
+"They're reflections of it," Adam said. "So... kind of. The storm creates shades that can defeat and subdue each human within it, and defeating a shade weakens the storm. It's one of the reasons we ally with nonhumans so heavily."
+
+Cale nodded. Call it intuition, but he was guessing there would be something like that. It would be stranger if something symbolically linked with the extinction didn't have a gimmick like this. "Right," he said. "In that case, you should continue with your plan. Send everyone deep into the University, preferably. I'll stay in the foyer and keep the barrier up."
+
+"That still doesn't answer my question," Adam said, frowning. "Why are you so sure this won't be what ends us?"
+
+Cale cocked his head. "Because you've got me here, of course," he said. "I'll end the storm. Just make sure you keep your students safe until I can do it. It might take me a little bit, since I'm new to this world and all."
+
+Adam stared at him like he'd grown a second head, which was probably fair. "You can't be serious."
+
+"I am entirely serious," Cale said.
+
+This time, something about his tone seemed to get through to Adam, whose brow furrowed. "I shouldn't believe you," he said. "Why do I believe you?"
+
+"I'm just cool like that," Cale said, leaning back against the windowsill. "Let your mages know, alright? They just have to hold out until the storm is over."
+
+Adam nodded slowly, and Cale threw in a languid grin, just for effect; that seemed to get Adam to relax, and he left to do exactly that.
+
+Cale let out a breath, his expression turning a little more somber.
+
+He was certain he was right about this, but he was also certain it was going to be a lot harder than he'd made it seem.
+
+Hopefully, the mages of the University could hold out for long enough. His friends would be able to help them, at least.
+
+The barrier was holding, but it wouldn't be long until it broke.
+
+It had weakened enough now that even with all three layers active and warding off the Dragonstorm, the building shook. There was an invisible weight pressing down on every mage within its walls, increasing by the moment. Many of the University mages were trembling, though not out of fear. It was more that they were straining against the pressure, wielding every ounce of power they had against the pressure of the storm.
+
+Cale did what he could to alleviate it, folding more mana into his part of the barrier and attempting to lend it symbolic meaning, in the hopes that it could muffle more of the storm. Even with that, though, it wasn't long before one of those mages collapsed outright. He watched as Damien ran up to the fallen mage, Verdant Flame in hand...
+
+A thought occurred to him, and Cale frowned as a piece of the puzzle slotted into place.
+
+He was fine. He could feel the pressure the storm was exerting on them, but it was a distant thing, one he wouldn't even have noticed if he hadn't been looking for it. It certainly wasn't enough to make him collapse like that.
+
+That in itself might have been unremarkable, but Damien wasn't affected, either. The flame he produced was pure and steady. In fact, if he looked closely, everyone from Brightscale Academy seemed largely unaffected by the Dragonstorm, despite the clear impact it had on the mages of the University.
+
+Cale focused on his mana sense for a moment, then narrowed his eyes.
+
+It was their mana cores. The humans of this era had mana cores that were fundamentally, structurally different from the mana cores of mages from the Great Realms. That had an implication in and of itself, but most important was that it meant Thorn, Graystalk, and all four of his apprentices would be largely unaffected by the Dragonstorm.
+
+He called both Thorn and Graystalk over to explain his observations, and they each frowned in thought.
+
+"Our cores must provide us a form of protection that their cores do not," Professor Graystalk said. "Perhaps ours developed the way they have precisely because of this event..."
+
+Right, those were the implications he'd been thinking about, though now wasn't the time for them. As though he could read his thoughts, Thorn grunted. "Not important," he said. "Means we should split up. Provide support."
+
+"Of course," Graystalk agreed.
+
+This was convenient, given Cale had been looking for an excuse to send his apprentices along with the instructors to defend those other paths anyway. As much as he would've liked to keep an eye on them, he was going to be targeted by the greatest part of the storm, so he couldn't afford to have them anywhere near him.
+
+Besides, he trusted them. If any mage could find a way to grow from a disaster like this, it would be them.
+
+"I agree," Cale said. "Can you let them know, please? I'm going to need to stay here to keep my side of the barrier up."
+
+Which was true, but also technically a lie of omission. He didn't want to worry his friends or have some of them stay back just to keep him safe.
+
+Graystalk nodded, then left to do exactly that.
+
+Thorn, however, lingered. Cale felt the weight of his gaze on him. "...What is it?"
+
+"Do not get hurt," Thorn said, blunt as ever. "I want you and your team for the tournament. Do not forget."
+
+"Is that your way of saying you care?" Cale asked, raising a brow. Thorn just stared at him impassively before walking off. "I care about you too, just so you know! I just don't have enough spikes to do it in a cool way!"
+
+Thorn, of course, did not deign to respond.
+
+It took a grand total of four tense hours for the Dragonstorm to create the first cracks in the University's barrier. It took a grand total of four minutes for those cracks to progress into a complete shattering as the spell circle failed entirely. Cale watched as what must have been an entire treasury's worth of magical reagents disintegrated with an ear-splitting crack.
+
+His own barrier was holding. He could feel the battering of the storm against it in the back of his mind, and that alone was worrying; most of the time he couldn't feel the strain on his barriers at all. What did it say about the Dragonstorm that it could pit itself against him?
+
+But then the presence of his barrier was the only reason that many of the University's mages were still standing. The moment the other two layers shattered, many of them collapsed, screaming in agony. About half of those mages managed to force themselves back to their feet, with a worried Damien rapidly moving between the rest.
+
+For a moment, the foyer was still and eerily silent. All Cale could hear was the pained, trembling breathing of more than a dozen mages and the sound of rain.
+
+Then—
+
+Lightning.
+
+It was a poor word for what happened, but it was the closest Cale thought he was going to get. The world itself seemed to crack open, and then time seemed to divide itself into a series of split-second impressions.
+
+First was a source. The beginning of all things. A mass of possibility and energy.
+
+Second was a reaction. The sky called to the source, and suddenly there was a yawning abyss tearing through the ground, clawing its way up to the sky.
+
+Third was the resolution. That gap in the world snapped wide, enveloping the school, and the thunderous crash of a thousand dragons roaring followed; the shockwave alone cracked the foundations of the University and split open its walls.
+
+Thorn slammed his fists into the ground, covering everything with a layer of soft, protective vines a split second before the mages were sent flying into the walls. That saved them from breaking their necks, but did nothing to stop the sudden transformation of the University's halls.
+
+The floor was covered in bubbling, boiling dragonblood, and the light around them had turned a deep, crimson red. Unlike before, the dragonblood did nothing to eat through the stone. Instead, it began to coalesce into shapes—
+
+"Everyone, get into position!" Adam called, his voice sharp, and the mages of the University scrambled to obey. Cale caught his apprentices, Thorn, and Graystalk following suit in the corner of his eye, each one choosing an instructor to follow as they darted through the passages of the school.
+
+They would be caught and cornered by the spawn of the Dragonstorm. Cale could see that much through the [Eyes of Ashvali]. But he was blind to the outcome. There was too much noise in the future, too much symbolic weight altering every possibility in real-time; the storm seemed almost as if it intruded upon Ashvali's domain, though how that was possible Cale had no idea.
+
+Then there was his own future. Cale saw nothing but a perfect emptiness there, which was a little foreboding. Especially since he was now alone in the foyer.
+
+But that was nothing he hadn't already expected, given Adam's warning, and now that the future was closer Cale could see it more clearly: in every future where he left to help the others, he saw that same perfect emptiness stretching out into infinity for everyone.
+
+If he stayed, he only saw that future for himself. The choice was obvious. Even if the worst should happen—and that wasn't a guarantee, as far as he was concerned—he would wake up again in a new realm. That would be bad, but, well...
+
+There were worse fates to be had, especially if it meant his apprentices would be safe.
+
+Right on cue, the blood that covered the floor began to bubble again. Cale watched, his expression impassive, as the chalk lines now barely visible beneath the blood began to drain into the bubbles as though they were liquid. He felt the song of the Dragonstorm itself pour into this manifestation, until all he could hear through his new sense was a strange, throbbing silence.
+
+That and the distant echo of drums. The "bad song" Phlogis had mentioned, no doubt, but there was no time to think about that now.
+
+He watched instead as the four sages of dragonkind climbed out of the blood, their bodies twisted together into a single abomination. Only their heads were distinct—Cale recognized them all from the vision that Trekagor had left for him. Four heads in total, emerging from a single, grotesque body. It stumbled forward, opening its mouths to roar at him.
+
+Cale swiped, manifesting a barrier, and in a single motion cut off all four of its heads before the first drops of spittle had landed. He followed up by surrounding the remains with a barrier before snapping his fingers to fill the entire thing with blistering wyldfire.
+
+And then, just for good measure, he poured his mana into an [Elemental Orb] attuned to void and erasure.
+
+Mana overload detected! Attempting to compensate...
+
+Excess draconic interference detected. Unable to compensate.
+
+Cale's expression didn't change when he felt the attempted spell construct shatter and burn. It didn't change when he saw his wyldfire being inexplicably drawn into the sage hydra, nor when all four heads regenerated near-instantaneously.
+
+It didn't change even when the hydra roared and clawed at him, though something about that attack seemed off. He narrowed his eyes. It was too far away to do any real damage, but the Dragonstorm's song swelled as though it was about to strike true—
+
+Somehow it had absorbed the symbolic weight of his attack and turned it against him. Decapitation had meaning, after all; it was often associated with judgement and punishment, and the hydra was turning that meaning against him now.
+
+His barriers would do nothing against this. Cale dodged, flinging himself out of the way, and felt an invisible blade slice straight through his left ear. It fell to the ground with a wet smack.
+
+Cale ignored it.
+
+The sage hydra stared at him, and something in its expression seemed to flicker. Did it have some understanding, then, of what it represented? Was it intelligent enough to understand what it faced?
+
+Because for once, he wasn't the Mad Mage, fighting for revolution. He wasn't Torment's Shadow, filled with anger and vengeance. He wasn't Yggdrasil's End, forced to make a terrible choice for the greater good. Each was a legend that once formed around him, a legend that he had turned into a mask.
+
+But legends or not, those names and legacies were simply footprints left behind by a single soul. A single name.
+
+That was the person now staring down the avatar of the Dragonstorm.
+
+Cale Cadwell Cobbs wore an expression of perfect, deadly seriousness. It didn't matter that his opening had failed—this was a different era of magic, and a different era meant different rules. He would learn and adapt as he always did, with or without his magic.
+
+For example, decapitation had failed because it carried symbolic meaning that the hydra could use against him. The Gift had been unable to evolve his spell because the world around him was soaked in draconic essence, and it could not compensate for that.
+
+There was a simple solution to both those problems.
+
+Cale cast [Create Impact].
+
+Mana overload dete—
+
+Then he popped open the vial of draconic essence and downed every last drop.

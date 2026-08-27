@@ -1,0 +1,119 @@
+---
+id: 1cce1407-f6d0-5cb3-90fc-c84b8af2a312
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39: Mountain of Muscle"
+slug: 0222-chapter-39-mountain-of-muscle
+partOf: labyrinth-of-the-mad-god
+position: 222
+ownLength: 2252
+unit: words
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2595644/chapter-39-mountain-of-muscle"
+royalRoadId: "2595644"
+---
+
+Nick leapt from his rocky perch, landed on the canyon floor, and sprinted across the ice, following the path highlighted by Tactical Command so he didn’t have to worry about friendly fire.
+
+As the rest of his party fell into formation beside him, they kept Blend on while threading their way through the battalion of slicers assaulting the fortified hillocks.
+
+Along the way, Nick spotted some familiar faces. The party he’d assisted on the third floor of Darkstone Tower was holding back the horde, along with Ethan and Kira. Out of the corner of his eye, he watched Kira pin a slicer to the ice with her spear before Ethan slew the beast with a bolt to the brain. Those two have really come a long way. All of us have, for that matter.
+
+The moment he stepped into range of the support squad’s auras, magic went surging through his limbs like the sun was rising inside him. He grinned as a warm rush of power suffused every cell of his body, along with buffs to his combat awareness, elemental resistance, and dozens of boosts he couldn’t tease apart in that moment.
+
+The power coursing through him in a crackling rush gave him a renewed appreciation for how different the dynamics of large-scale conflicts were from most of his battles to date, but he would have to reflect on that insight later.
+
+By this point, Nick’s team was circumventing the bashers and the warriors trading blows with the powerful insects. Then he shot past the last party and found himself crossing the final stretch of ice between Team Earth and the titanic Capital Boss looming before him.
+
+He was still wrapping his head around the idea that he was supposed to kill something so big—a mountain of leathery gray flesh, bulging muscles, and ill will.
+
+But that wasn’t going to stop him from trying.
+
+During their strategy session, his team had agreed to play it safe during the first few minutes of the engagement—probe the beast for weakness, get a sense of what it could do, and watch out for surprises along the way. Even for Earth’s most powerful elites, taking a direct hit from something that massive was a short road to a quick death.
+
+That being said, they couldn’t afford to give it free reign either. Kenji’s strategy would fall apart if the wurm managed to break through the ice and submerge into the soil, and that wasn’t their only concern. Since the creature seemed to have at least some control over its army, giving it an opportunity to coordinate its forces would increase the casualties his people suffered during the early stages of the fight.
+
+As these thoughts passed through Nick’s head, his party came to a skidding stop in front of the wurm and assumed the formation they had agreed on.
+
+Since many of them had little to no experience fighting as a team, it wasn’t a complex arrangement. Mirium, Laura, Paul, and Sarah stood fifty feet back, where they could attack from range without having to worry about being hit by the weaponized tongue. Meanwhile, Nick, Veronica, Devin, Ella, and Bret spread out and got ready to engage the boss in melee.
+
+It was fucking surreal to be facing off against a beast an order of magnitude bigger than a blue whale, and he could see his own disbelief mirrored in their eyes. As Kenji had suspected, from this close, the Tier-2 construct could detect them even with Blend running. They left the trait on anyway, since it would help keep them safe from stray slicers and stingers.
+
+Size Up started screaming when the wurm turned to face them, contemplating the tiny creatures who dared approach it. Then it opened its mouth and roared.
+
+It was like standing next to the loudspeaker at a rock concert. A wave of sound rippled through his body, sending dirt cascading from the canyon’s rim. It would have blown out his eardrums if it wasn’t for the protective magic provided by the support team.
+
+From this close, Nick could smell the Armada Wurm—a pungent, musty odor that stung his nostrils. He was getting ready to let loose when a message from Kenji appeared before his eyes.
+
+“The wurm’s protective plates are still open. There must be more insects coming. Let’s see what we’re dealing with before committing to our attack.”
+
+Sure enough, no sooner had those words faded from the air than reinforcements came pouring out of the creature’s cavernous maw.
+
+It turned out the boss had been holding a squadron of bashers in reserve to deal with direct attacks against its person. “Shit.” Devin tightened his grip on the haft of his axe as five elite beasts came charging their way. Kenji sent another warning, but Nick could already tell the burly bugs could sense him through Blend.
+
+Two bashers that were already on the field had pulled back, despite Team Earth’s efforts to prevent them from repositioning. Seven elites headed our way, with the big bastard backing them up. This is going to be tough, but with the buffs from the support team, I think we can take them.
+
+While this was an unfortunate development, it was one of the scenarios they had planned for. Guided by arrows from Tactical Command, Nick’s party pulled back and got ready to deal with the boss’s guards. Except for Ella, who had volunteered to keep the wurm busy while they battled the bashers, and Veronica, who had another role to play.
+
+Before the insects arrived, Mirium struck the first blow. As the armor-plated creatures streaked toward their position, the water mage completed the spell she’d begun casting the moment more enemies appeared.
+
+The giant sphere of water floating over her shoulder formed eyes and lips as Mirium sent mana flowing out from her core and into her elemental, bolstering her magic to lethal new heights. By channeling her energy through the bound entity, she could multiply the power of her spells using a combination of abilities and class traits.
+
+Nick wasn’t privy to the details, but the results were clear as day. The elemental took aim, opened its mouth, and fired an intense spray, which seemed to be creating water rather than transferring it.
+
+The spew was more powerful than a firehose and had a range of several hundred feet. Mirium panned it across the charging insects, soaking them while coating the ice in a layer of fluid. It knocked the beasts off balance and sent them sliding across the canyon floor, but that wasn’t the primary purpose of her attack.
+
+The spray packed enough pressure to gouge the bugs’ natural armor, disrupting their coordination in the process. She even managed to take out an eyeball or two, distracting the elites and reducing their field of view.
+
+Meanwhile, Sarah and Bret moved to engage the pair of bashers that was approaching the party from behind. Nick’s turn was coming in another handful of heartbeats, but in the meantime, he had a front row seat to watch one of Earth’s strongest mages unleash her heaviest hit.
+
+Mirium’s elemental kept the water coming while Laura continued to chant. The spray was slowing them down, but it wasn’t going to delay them much longer. However, on this occasion, another ten seconds was all Laura needed.
+
+Kenji warned Nick to stay back until the woman completed her spell. When a spark-flinging sphere of electric mana gathered between her hands, he learned the reason why. His party got out of the way as the magic hit critical mass. Then Mirium’s water cut off and a wrist-thick bolt of lightning erupted into being.
+
+It was slower than natural lightning, but it was still the quickest spell he’d ever seen, putting even Piercing Ray to shame. The bashers had sensed the incredible volume of energy coalescing, running in opposite directions to limit the damage. Before they could take ten steps, Laura’s lightning discharged, crossing the open air fast as thought.
+
+The blinding bar of crackling current struck an unlucky basher broadside, enduring long enough to transfer the mana Laura had manifested. It only took two seconds, but in that time, her bolt wreaked havoc on the bug’s insides. The elite beast screamed as it spasmed and smoked, ravaged by the torrent of electrical energy before collapsing in a twitching heap.
+
+Thanks to Mirium’s spray, two more bashers were caught in the periphery of the attack—electricity conducting through the water and into their bodies. The beasts were still alive, but they had taken some serious damage from Laura’s spell.
+
+Damn. Nick let out an appreciative whistle. That’s some insane power. I doubt I could survive a direct hit. He gripped Blightbane’s hilt as the quartet of bashers came charging for his party—eager to settle the score.
+
+Veronica and Ella pulled back and fanned out—ready to advance on the boss the moment the bashers were engaged. The staff-wielding warrior would deal with its tongue, keeping it from attacking the team or digging through the ice.
+
+V’s powers grew stronger every time she attacked a given enemy. She had begun firing her wrist-mounted crossbows the moment she came into range and would continue racking up the hits as the battle progressed. This tactic would maximize the damage she inflicted to the colossal construct and the rate at which she restored her allies’ vital energy when she started using her damage over time abilities.
+
+That left Nick, Devin, Mirium, and Laura to wipe out the four bashers barring their path to the boss. Sarah and Bret were tackling the pair approaching from behind, and Paul was backing up both groups with his bow.
+
+Nick and Devin moved to intercept the uninjured bugs, leaving the others to the mages, who had assured him they were perfectly capable of engaging opponents in melee in addition to firing long-range attacks.
+
+Mirium and Laura had been working as team just as long as Nick and Sophia. They had fought beside each other during their arena battle, then crossed Blackmist Bog and entered the tower together. Laura wielded a metal staff she could infuse with electric mana to shock the shit out of anything her weapon struck. Mirium used a slender sword whose metal was poisonous when it entered the bloodstream.
+
+That was all the time for analysis Nick had before his opponent was in front of him and his battle began.
+
+He opened with a Sonic Slice, hoping to take the basher out in a single blow. But he had underestimated the elite insect.
+
+The bug had been getting ready to launch an attack of its own, but when it sensed the mana from Force Acceleration and the stamina from Heavy Blow, it threw its body to one side at the last possible second.
+
+It was the first time an enemy had dodged his finishing move, which made him wonder if the beast had some manner of danger-sensing skill. It wasn’t faster than Sonic Slice, but it had redirected its momentum before he began his draw, leaning out of the way as Blightbane went streaking past its head.
+
+It almost caught him with a swipe from its tail, but the force of his swing carried Nick out of the way with millimeters to spare, sending him scrambling to recover his stance.
+
+The basher followed in his wake, launching a rapid series of strikes that he barely managed to counter by combining Force Acceleration with Arctic Clarity. Its bites were vicious but could be deflected with his vambrace or blocked by his armor, but its tail was something else entirely. Not only was the bug’s spike-ball appendage insanely fast, it had enough power to shatter his bones.
+
+Blocking it was a bad idea and there was too much momentum to parry, which left Nick with one option—dodge like mad while waiting for an opening to appear. He landed several glancing blows with his sword in the process, but in addition to being durable and thick, the beast’s chitin was angled to deflect such strikes, making it hard to cut.
+
+He sidestepped a pair of mandibles closing around his neck, then ducked beneath a swipe of its tail… but the move was just a feint. The basher kept on spinning, completing a full revolution while activating an ability that made its attack abruptly speed up.
+
+Employing a strategy similar to how Nick used Force Acceleration and Heavy Blow, the unexpected change in velocity caught him by surprise and messed up his timing.
+
+Size Up was wailing that he was about to take a heavy hit, and he wasn’t in position to dodge. Nick conjured an Arcane Shield at the last possible second, then brought up his vambrace and braced for impact.
+
+It was the only thing that saved his life.
+
+With an impact that rattled his jaw, the basher’s tail broke through his barrier, losing some impetus before striking his vambrace.
+
+As pain rippled throughout his body, Nick was flung back twenty feet, fighting to keep his bearings as the lethal beast followed hot on his heels.
+
+Half a heartbeat before it caught him, an arrow planted itself between a shoulder joint, as Paul provided covering fire while impairing the creature’s mobility. It bought him a few seconds to recover as the basher was forced to divide its attention.
+
+Nick steadied his stance, called on Arctic Clarity, and got ready to counterattack as the technique’s frigid focus steadied his nerves despite the torrent of adrenaline coursing through his veins.

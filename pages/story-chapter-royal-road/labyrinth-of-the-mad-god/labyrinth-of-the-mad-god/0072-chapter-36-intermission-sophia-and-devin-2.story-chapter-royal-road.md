@@ -1,0 +1,89 @@
+---
+id: 1d94ebd8-aa4d-510e-8a4d-5c2f8f26d4b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: Intermission: Sophia and Devin 2"
+slug: 0072-chapter-36-intermission-sophia-and-devin-2
+partOf: labyrinth-of-the-mad-god
+position: 72
+ownLength: 1714
+unit: words
+publishedAt: 2024-10-09
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1842227/chapter-36-intermission-sophia-and-devin-2"
+royalRoadId: "1842227"
+---
+
+Sophia crept down the passageway with Devin at her side, stalking the next group of roaches blocking their path. They got as close as they could without drawing attention to themselves, then crouched down low and started counting.
+
+With the big bugs moving in and out of the adjoining rooms, getting a good sense of their numbers took a fair amount of patience, combined with careful observation. Once they had a better idea of what they were dealing with, they would decide whether to turn back and seek an alternate route or launch a surprise attack and force their way through.
+
+After days spent battling the giant insects while making their way across the floor, the duo knew their enemy well. The first few engagements had been hard fought, and they had barely escaped from several hordes that were far too big to overcome.
+
+But it wasn’t all bad news. Their situation had taken a dramatic turn for the better after they both hit level fifteen and gained access to the ability mastery system. Both Sophia and Devin had met the requirements to rank up several of their abilities, granting them additional power, efficiency, and versatility.
+
+Today, at long last, they were nearing the end of their journey through these desolate halls of stone. After making it to the glass wall overlooking the middle of the floor a few hours earlier, they had spotted the stairwell leading to the next level. Knowing that they were nearly free of this wretched place had bolstered their morale, to the point that they were practically dancing with excitement.
+
+They had endured being stuck inside of a giant maze, fighting killer bugs every step of the way. But had finally found the way out. With any luck, whatever awaited them on the next floor would be less cramped and depressing, even if the danger was comparable to the basement level.
+
+Now they just needed to hook up with the other three members of their team and navigate the final stretch of passageways leading to the stairs. Then they could leave this nightmare behind them forever. Hopefully, they would get there without running into too many roaches or the weird mechanical creatures the beasts had been fighting near the stairwell.
+
+Sophia knew Nick pretty well by this point. She was sure that he was already heading toward the middle of the floor… unless he’d run into trouble along the way. She suppressed the spike of worry that rose at the thought, but she didn’t let it bring her down.
+
+Everyone on my team is capable, and Nick can handle the danger as well as anyone. If they aren’t waiting for us at the stairwell, we can leave a note and start gradually widening our search. Even if they aren’t here yet, they should be getting close by now. Regrouping in the center of the floor is the only sensible strategy.
+
+Having thought the matter through, Sophia let out a sigh of relief. Hopefully, Nick and the others were already down there, and they would all climb the stairs sometime in the next few hours. Devin looked over, offering an encouraging grin at the anxiety he’d caught on her face, easily reading her thoughts from her expression.
+
+She smiled back, glad to have the man at her side. It was reassuring to have a powerful warrior and good friend to watch her back, even if his intuition was annoyingly sharp at times. By now, the athletic axeman felt like a member of her family. A younger brother to help get her through tough times.
+
+When she heard skittering echoes bouncing down the passage, Sophia shelved such thoughts until later, then began preparing herself for another fight.
+
+From this position, they could see the bugs clearly. They spent twenty minutes studying the roach horde, judging their strength and counting the tougher variants. They marked their opponents’ position, so that they could take out the flame and acid-spewers at the start of the battle.
+
+At that point, there wasn’t anything else to do. It was time to commit to the attack or turn back. They looked at each other and nodded. They both thought that fighting their way through was the best course.
+
+Devin gestured, then raised his axe and shield, signaling how he wanted to begin the engagement. They would rush in from the front, drawing the bugs’ attention while three of her upgraded wasps assassinated the ranged roaches. Then Devin would take out as many as he could with flashfire pulse before they finished the rest in melee.
+
+It was a tactic they had used several times before. It worked well, and the roaches showed no signs of adapting to their strategy. One small blessing amidst their prolonged ordeal. She nodded her agreement and then gathered her concentration, preparing to summon a trio of frostfury wasps as planned.
+
+Just before she started casting the spell, she felt the air around her move, sending adrenaline surging into her bloodstream. Since there wasn’t any wind in this underground facility, it could only mean one thing. Something massive is making its way down the passageway behind us.
+
+When she turned around to see what it was, nothing but dirt-lined stone stretching out into the distance met her gaze, although she could see the mounds of dirt moving around. That doesn’t make any sense, the passage is straight and free of obstructions. Why can’t I see anything coming?
+
+But then Sophia realized that the tunnel looked blurry in that direction, as if she were looking through a lens that was out of focus.
+
+For a second, she thought that there was something wrong with her eyes. But then she realized that the area behind the distortion was perfectly clean. All the stinking soil had been erased beyond that point, and more was vanishing by the heartbeat.
+
+The cleared ground was drawing closer and closer. Soon it would overtake their position. She had no idea what was going on, but she was dead certain that it wasn’t anything good.
+
+When she looked over, Sophia saw that Devin had noticed the strange phenomenon too. Wearing a confused expression that mirrored her own, he shrugged and threw rock in that direction… which proceeded to bounce off the warped space before clattering to the ground.
+
+“There’s something there all right,” he whispered. “Something translucent and so big that it’s blocking the entire passage. Shit. We’re trapped. What should we do Soph? I have a bad feeling about this.”
+
+She was about to answer, when some inner sense screamed danger. It was accompanied by the sensation of mana congealing, a vague impression of energy gathering in the air. Devin must have felt it too, because he was already moving away.
+
+They abandoned their hiding spot without hesitation, then threw themselves through the nearest doorway. Half a heartbeat later, powerful magic erupted down the hallway. The deadly spell tore strips of stone free from the walls and shook the ground beneath her boots, decimating the place where they had been standing a fraction of a moment ago.
+
+The roaches turned to face the noise, and Sophia prepared herself for a desperate battle, besieged on both sides by a superior force. But that was not what happened. Instead of charging to attack, the horde of killer bugs took one look in their direction, then started running the other way, fleeing with panic clear in every crook of their posture.
+
+Whatever was attacking them had to be incredibly powerful to scare the big beasts so badly. The situation must be even worse than I thought. She let Devin know what she’d seen. “We have to get out of here, or we’ll be trapped inside.”
+
+Without hesitation, they darted back out the door and started sprinting as fast as they could. She followed behind the fleeing roaches, casting on the run.
+
+Before they had taken ten steps, power began gathering behind their backs once more. But by this point, Sophia had already completed her spell. A frostfury wasp grew into being in the air above her head. Its bright blue carapace appeared half a heartbeat later, accompanied by a faint green glow.
+
+The instant that it finished forming, the venomous insect flew toward the distorted space and they both threw themselves onto the ground.
+
+A long line of stone was ripped free from the wall a bare second later, sending a shower of rubble raining down onto their heads as a deep gouge was carved into the rocky surfaces. Looking up at the deep scars marring the stonework, Sophia was certain that if the attack had hit them, they would have been torn to pieces with no chance of surviving.
+
+With fighting off the table, all they could do was run.
+
+By now, her wasp had reached the distorted area. It began stinging at something that she couldn’t see, disrupting the next spell that was already beginning to form. It bought them a few precious seconds to widen their lead before the summon slammed into the floor in a spray of ichor. It vanished in a flash of emerald light, crushed to paste by incredible force.
+
+They had risen to their feet and continued fleeing for their lives the instant that the last attack was over. The duo was able to use the opening she’d created to put a few hundred feet between themselves and their unseen assailant. A creature who wasn’t fated to remain unseen for much longer.
+
+The next time that Sophia looked over her shoulder, the translucent space shifted. It solidified a moment later, revealing the form of something monstrous. Something that looked a bit like a white shark with six legs, although the comparison didn’t do the creature justice.
+
+She was hoping that her wasp had managed to deal some serious damage. But the patches of frost spawned by its stings were already disappearing, revealing undamaged tissue beneath. “It can regenerate. That isn’t good.” Devin swore as they both kept on sprinting for everything they were worth.
+
+Their assailant let out an ear-shattering roar and started coming for them at full speed, barreling down the passage like a runaway train.
+
+The sound marked the start of a desperate race for their lives. One Sophia wasn’t sure she could win.

@@ -1,0 +1,127 @@
+---
+id: 54ae22c5-2452-5c19-b696-95ed7a259f51
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 – Where’s the tutorial?"
+slug: 0003-chapter-3-wheres-the-tutorial
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 3
+ownLength: 1852
+unit: words
+publishedAt: 2024-11-16
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908013/chapter-3-wheres-the-tutorial"
+royalRoadId: "1908013"
+---
+
+A soft breeze washed through the air, fluttering cloth and hair. A prone body lay in a shallow puddle of dark blood, and Kindra coughed. The taste of metallic blood filled her mouth, and a bird hopped forward, pecking at her leg with a long, sharp beak.
+
+Pain spiked through Kindra’s leg, and she jerked it away, her eyes opening to see the blood-covered cobblestones beneath her head. Crusted blood covered her body. Grit dug into her skull. Jerking up, she rubbed the grime from her face and looked around her. What greeted her felt like a scene from a black-and-white horror film.
+
+Small stone cottages lined a narrow cobblestone road. The small front yards, once likely quaint, were overrun with broken plants and bodies. The streets were similar; dark pools of blood and still corpses decorated the stones. All of it was drained of color, cast in eerie shades of macabre gray.
+
+Why is it gray? Kindra frowned, wiping dirt and blood from her face. She searched for something familiar in the strange city. Where is the ship and the crew?
+
+Kindra sniffed—and immediately regretted it. The stench of blood and rot filled the air, heavy, like a slaughterhouse on a hot day. It clung to her, and she felt a growing desire to gag.
+
+Turning her head, she saw a corpse with a sword stuck in its chest. Umm. Death? Where am I?
+
+Another spike of pain hit her leg. Wincing, she jerked her leg back and turned to see a large bird. The dog-sized, black-and-white bird opened its beak, revealing a dark tongue. It hissed and spread its large wings wide, its taloned feet clutching the stone.
+
+Heart pounding, Kindra scrambled to her feet and ripped the sword free of the nearby corpse. Great. One hell for another. She hefted the unfamiliar weapon, glancing between it and the strange vulture-like bird. How do you even use this thing?
+
+The killer vulture lurched forward, its wings churning and its talons shoving it toward her. The sharp bill closed, and Kindra swung the sword like a baseball bat, smashing it into the bird’s head with a resounding clang.
+
+The bird staggered, crashing into her. Feathers and wings flailed. It squawked, and Kindra slammed the sword into its head again and again. Blood sprayed. Bone crunched, and the vulture dropped to the ground, blood oozing onto the stone. The hell was its problem?
+
+She scowled at the corpse, studying the strangely colored feathers. The metallic scent of its blood joined the rest of the smells. Pain lanced up her leg. Looking down, Kindra saw a blood-covered dress. She lifted her leg and saw a deep gouge. Her blood oozed out of it. Rotten bird. She looked at her horrifically dirty and torn dress. And I don’t have bandages.
+
+She turned to find something to use. Dismay filled her. The place was beyond filthy, with bodies and blood everywhere. Her stomach sank, and she swallowed. How am I supposed to clean that? Sighing into the air, she shook her head. This is some crappy service, Death.
+
+He didn’t answer, and she watched another vulture bird swoop down. It landed on some corpse and pecked, ripping away faintly glowing flesh. Why’s it glowing? Kindra looked at the dead bird and the nearby bodies. Each had a similar, soft glow.
+
+Leaning down, she studied the nearby, faintly glowing corpse. With a large gash across its chest, the humanoid was shorter than average but built like a linebacker. A long, ragged beard extended to his slightly large belly. Looks kind of like a dwarf.
+
+A strange feeling washed over Kindra, and she looked down, focusing on the source. A ribbon of light appeared, streaming into her from the vulture. What’s that?
+
+[Your mana has increased: 1.7 → 2.4.]
+
+Well. I guess that’s a good thing. Willing the text out of her vision, she looked at the village. “Hello? Anyone alive?”
+
+The only response came from some nearby scavengers. The birds and rodents turned toward her, and she quickly realized something else. All of them looked like living killing machines. Their claws, fangs, and beaks were far too sharp.
+
+Don’t tell me they get to level up. Focusing on a bird, she saw a glowing ball of mana inside it. She slumped and looked at the scavenger-filled streets. A bird looked at her and hissed. I hate this game.
+
+[This is not a game!]
+
+Willing away the annoying text, she grabbed an axe, dropped the sword, and studied the corpse again. His gear was a mess, the leather armor hacked away. Deep cuts covered his arms, and a belt was wrapped around his waist. Okay. Survival game. Loot, survive, level up.
+
+[Again, this is not a game.]
+
+She ignored it. Grabbing the knife from his belt, she looked down at the dress. Why am I in a dress? I need pants. She sighed and ripped the belt off his body, tying it around her waist and glancing at the bracelets still on her arms. Repair nanites? I have those, but not my flight suit.
+
+She stashed the knife and shook her head, the confusion building like the errant cries of the scavengers. Death, care to weigh in?
+
+He did not answer, and she looked down at her ankle. Right. She reached down and cut off a piece of his shirt, tying it around her ankle. I need to find somewhere to clean —
+
+A hiss disrupted the thought. Jerking back up, she spun and saw another one of the killer vultures. It hissed at her and flapped its wings.
+
+Kindra waved her hands at it. “Shoo!” It didn’t seem to care for her attempt at intimidation. Instead, it launched itself off the ground, the large ball of mana thrumming inside of it.
+
+Hell, no! She turned and ran, vaulting over corpses while her heart thundered in her chest.
+
+Tearing down the street, she scrambled around a corner. The vulture followed. Dropping the axe, Kindra grabbed a nearby spear and tucked herself against the wall.
+
+The vulture scrambled around the corner, its feet scraping stone and its wings churning. Launching itself upward, it glided toward her, its talons outstretched.
+
+Snapping her spear upward, she impaled the vulture, dove to the side, and landed on a body. The body burst like a water balloon, splashing disgusting yellow fluid everywhere. Oh, god!
+
+Kindra gagged and stood, wiping away the horrific fluid. The smell of rancid pus flooded over her. She felt it oozing down her disgusting dress. I hate this place. Reaching down, she wiped the fluid off her arm and face, fighting the growing desire to vomit.
+
+What the hell, Death? He didn’t answer, and the vulture tumbled to the ground. A growing desire to panic, cry, and scream filled her. The scavengers did not care, each squabbling with the other over the macabre remains. Leaning against the wall, she felt her emotions growing. We can break down later. Not now. Blinking back the tears, she ripped the spear free before turning her focus back to the city. A soft ribbon of light connected to her, the mana from the nearby bird flowing into her.
+
+[Your mana has increased: 2.4 → 3.2.]
+
+Looking at the message, she paused, her brow raised. “Okay, what good is mana?”
+
+[Mana is used to power abilities and recharges after 24 hours.] ‎ [You may permanently sacrifice 10 mana to reach level two, granting attributes and an additional skill.] ‎ [You may also permanently sacrifice 5 mana to permanently increase an attribute. ‎ - Intelligence: This will boost your baseline cognitive function. ‎ - Charisma: This will boost your appearance and appeal. ‎ - Strength: This will boost your baseline strength. ‎ - Dexterity: This will boost your baseline grace, reflexes, and flexibility. ‎ - Speed: This will boost the speed at which your muscles can respond and your body can move. ‎ - Stamina: This will boost your baseline durability. ‎ - Spirit (locked): This will boost your mana regeneration, granting you mana reuse throughout the day. ‎ - Resistance (locked): This will boost your ability to shake off magical effects. ‎ ]
+
+Why are spirit and resistance locked?
+
+[Spirit is restricted to mage classes or until you reach level fifty. Your mana reserves recharge while sleeping, allowing you to reuse it the next day.] ‎ [Your innate resistance isn’t working correctly. A bug report was submitted.]
+
+Kindra shook her head and cleared it away. Just pretend it’s a game. The most horrible game ever made. She swallowed and looked down her new street. Just like the last, it was covered in blood and bodies. Scavengers were feasting. “System, can I spend the mana before I sacrifice it?”
+
+[Yes.]
+
+Add all of that to the starter guide during class selection.
+
+[Starter guide created.]
+
+And be more descriptive with skills and classes. Tell people more about them.
+
+[Updating documentation.]
+
+Good enough. Now how do I use my skill, Enhance Item?
+
+[You’ll feel it inside of you.]
+
+Looking at her spear, she turned inward and felt something like an extra limb. A strange flowing presence surrounded it. She reached to it and fed the flowing mana into it. It connected to the spear and searched for something. Does it need ink? It did say materials. Remembering her blood, she tried it.
+
+The skill snapped into place, and she fed her mana into Enhance Item, throwing everything into the spear. Light streamed out of her, and dazzling runes surrounded it.
+
+[Basic spear has been enhanced for 24 hours. Wielding it will grant +1 strength.]
+
+That’s it? She frowned and hefted the spear. I do feel a little stronger. Maybe that’s enough. She turned and saw three bald, overgrown rats. They dug large claws into a body and ripped out pieces of meat with large, sharp teeth.
+
+I need to get out of this town… but first, I should level. And rats seem fitting. She hefted the spear, taking a step closer to them.
+
+A rat opened its mouth, revealing large canines. It chittered furiously at her, and the others jerked up. Their whiskers bounced. Their mouths opened, revealing the same teeth.
+
+Kindra’s foot hit a body, and she glanced down. Oh, good. She reached down and grabbed a hammer. Hefting it, she chucked it at one, sending it blurring through the air. The hammer slammed into the rat, sending it flying.
+
+The other rats squeaked and ran forward. Kindra reached down and grabbed an axe, throwing it at the rats. It slammed into one, and she grabbed her spear. Single target. Should be — A hundred squeaks filled the air. The sound of tiny feet sent a shiver down her spine, and dozens of massive rats crashed around the corner, a wave of flesh, claws, and teeth.
+
+Kindra’s adrenaline spiked. Horror filled her, and her mouth dropped open. I hate this level.
+
+[Not a level. This is a planet, and this is not a game.]
+
+Willing the obnoxious text out of her face, she turned and ran, sprinting down the streets while the massive swarm chased.

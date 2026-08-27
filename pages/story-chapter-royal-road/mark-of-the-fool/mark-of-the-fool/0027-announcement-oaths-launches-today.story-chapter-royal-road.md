@@ -1,0 +1,23 @@
+---
+id: c5834fff-8226-5f92-9d73-2efb5e751cf5
+page-type-slug: story-chapter-royal-road
+title: "Announcement: Oaths Launches Today!"
+slug: 0027-announcement-oaths-launches-today
+partOf: mark-of-the-fool
+position: 27
+ownLength: 297
+unit: words
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2622628/announcement-oaths-launches-today"
+royalRoadId: "2622628"
+---
+
+Hey everyone, as promised...checks watch...all of 2 days ago, Oaths has published today!I am so pumped. Compared to Rune Seeker, Mark of the Fool, and I Am Become Death, this is my fastest paced series with lots of focus on action, punching wizards, tyrants and demons.It's also set in the same universe as my other series, though a different planet.If that sorta thing might interest you, check it out with the links below:Find it here: https://www.royalroad.com/amazon/B0DZ818C6Q?maas=&ref=And here for audio: https://www.audible.com/pd/Oaths-Audiobook/B0FPXS5C74
+
+You can read the synopsis to get a bit of a preview here:Claim the ultimate reward or pay the ultimate price.
+
+Betrayed and left with a life-crushing debt by a treacherous business partner, Wurhi is left with little choice — break into a palace haunted by sorcery and plunder it's mysterious riches for all they're worth.Wurhi has the lock picking and burglary down as an experienced Rogue, but it'll take more than that to survive. Wits, speed, and a tumultuous partnership with a penniless, hellfire-wielding, demon-slayer named Kyembe the Spirit Killer.From burning desert city-states, to ogre-infested forests and haunted mountains, Wurhi and Kyembe will face a world of tyrants, monstrous cultists, power-mad merchant princes, and ambitious wizards to win an ever growing pile of treasure.This story has been taken without authorization. Report any sightings.Wealth beyond wildest dreams awaits.…and woe to any enemy that stands in the way, as long as they can find a way to work together, that is...Don't miss the next action-packed Progression Fantasy series from J.M. Clarke, bestselling author of Mark of the Fool and Rune Seeker. It's perfect for fans of Unbound, Wraithblade, Rage of Dragons, and The Witcher!Hope you enjoy folks!P.S. Would y'all mind upvoting these reddit posts?
+
+https://www.reddit.com/r/litrpg/comments/1noi4xe/progression_fantasy_oaths_book_1_of_oaths_blood/
+
+And I'm gonna let the cover aura farm again because...I love it lmao.

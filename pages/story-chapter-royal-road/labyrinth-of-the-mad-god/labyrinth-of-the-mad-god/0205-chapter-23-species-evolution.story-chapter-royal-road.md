@@ -1,0 +1,109 @@
+---
+id: 6c6d4341-68cd-55de-aa5c-ae72b4815457
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Species Evolution"
+slug: 0205-chapter-23-species-evolution
+partOf: labyrinth-of-the-mad-god
+position: 205
+ownLength: 2248
+unit: words
+publishedAt: 2025-08-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2497426/chapter-23-species-evolution"
+royalRoadId: "2497426"
+---
+
+For humanity’s new geneline trait, Nick voted for something called Blend into the Background.
+
+Blend offered a powerful form of concealment for up to one hour each day. In addition to providing optical camouflage, it helped mask body heat, and dampened sound and scent too. The trait could be switched on and off at will, although it took a few seconds to reach full strength.
+
+In its enhanced form, Blend could be used while moving, which took it from decent all the way to amazing in Nick’s estimation. The only downside was that it wouldn’t work against something that knew exactly where you were. Even with that limitation, picking up a flexible form of combat-viable invisibility sounded overpowered as hell—especially since if an enemy lost track of your position, the effect would kick back in.
+
+He chose Blend because it would be generally useful for anyone to have. Better still, it would provide a lifeline to anyone who was behind the power curve due to their decisions or circumstances.
+
+While Nick would love to add the trait to his build, the main reason he had picked Blend over the rest was for the children. He still didn’t know what had happened to the children of Earth, along with the women who had been pregnant at the time of integration. No one had seen them in their tutorials, or in any of the quests that took place after.
+
+It was a worrisome development, but he was certain they were still alive. If the System wasn’t protecting them in some way, at least a few of them would have been spotted by now. Besides, no matter what happened to the others, more children will be born before long. Until they could pick their first class at age 16, they needed an advantage that would help them survive the dangers of a magical world—especially once the Shroud came down in a little less than a year.
+
+For the attribute, he eventually chose Meta. All the options sounded great in theory, and only Equilibrium featured a significant downside. But Nick liked the idea of his people getting an across-the-board bonus that would make it easy for them to specialize however they pleased. Humanity wouldn’t have to contend with a rocky transition, climb a steep learning curve, or walk a long road to mastery to make the most of their new attribute.
+
+Team Earth was already learning how to live alongside the new natural force known as magic. If that wasn’t complicated enough, people had new classes and professions to master—not to mention a new geneline trait, powerful beast neighbors, roaming monsters, and real estate from another dimension. With Meta, they would hit the ground running and dive into Rebuilding Civilization without missing a beat or wasting a second.
+
+When they woke up, they ate a quick breakfast, then Elizabeth and Nick got ready to head out. After greeting the rising sun, he pulled up his menus. The first round of voting for their new geneline trait had been tallied while he was asleep. He was pleased to see that Blend into the Background was one of the top three powers chosen.
+
+He wouldn’t learn what attribute humanity had picked until later that evening, when the final vote for their geneline trait was tallied before their species-wide evolution began.
+
+Although the duo was still heading northeast, they switched their objective from covering ground to locating shelter, looking for something that was both hidden from view and easy to defend. A shallow cave wasn’t going to cut it, since their new powers were bound to be disorienting at first. There was a good chance they would be significantly impaired for a prolonged period once Liz’s evolution began and they both gained a new attribute.
+
+While they walked, Nick took a closer look at the other geneline traits that had made it to the second round along with Blend into the Background.
+
+They were both solid choices, and he could see why so many people had voted for them. The first trait was called Rejuvenation, and it let people regenerate at an accelerated rate. Since the trait was enhanced, it worked on stamina and mana in addition to health, which made it useful for anyone—even if they weren’t magically inclined.
+
+Rejuvenation would let people work longer and harder and use their abilities more often, increasing their industrial output. It couldn’t help them defeat powerful enemies, but it would help them survive wounds that would otherwise be fatal. Better still, Rejuvenation would enable Team Earth to advance faster, which would wind up saving lives indirectly.
+
+The second winner was something called Blitz. It enabled an explosive burst of power, followed by a period of exhaustion and a lengthy cooldown. Since it was enhanced, the trait worked with both magical attacks and combat arts. Using it would help people defeat enemies that were well above their level—at least under ideal circumstances.
+
+But the downsides were worrisome. If your enhanced attack didn’t finish off an opponent, the exhaustion would leave you critically vulnerable. Nick was afraid that picking Blitz would encourage people to take gambles that many of them would lose, leading to a tragic loss of life that his species could ill-afford.
+
+In the end, he decided to vote for Blend in the Background again. This decision wasn’t just about the present—it was about ensuring the survival of the next generation. Team Earth’s power would multiply over time if more people survived to reach maturity, along with the early stages of their adventures after obtaining their first class.
+
+Rejuvenation was a close second. But the trait wouldn’t do anything to help a child that encountered a determined predator, and Blitz would wind up losing more lives than it saved. Liz wasn’t forthcoming with her own choice, so he respected her privacy and didn’t ask.
+
+By the time that early afternoon rolled around, Nick was so excited that he couldn’t stop dancing from one foot to the other. He was intensely curious to find out what was going to happen—to learn what humanity would be capable of after every member of his species was upgraded at once. His people had been returned to the planet of their birth, and now they would be ready to kick some serious ass.
+
+A few hours later, Elizabeth spotted a cavern running along the side of a ravine. It was part of a larger series of crevices that extended a few hundred feet below the surface. Given the elevation and sheer walls, nothing was likely to stumble upon them that wasn’t down there already. “What do you think?” She turned to face him.
+
+“It seems promising. Let’s take a closer look.” After retrieving a rope from his pack, he tied one end to a tree, and they lowered themselves into the ravine.
+
+The floor of the crevice was about ten feet wide and a hundred across. While there were some small animals living down here, Size Up was convinced they wouldn’t give the duo any trouble. The cave Liz had spotted wound up being fairly spacious, with two separate sections partitioned by a thick band of stone. This will do. We can even have some privacy if someone wants to be alone.
+
+After retrieving his rope and freeclimbing back down using Arcane Shield, Nick stepped into the cavern. He put his PDA into sentry mode, set it beside the entrance, then walked with Liz all the way to the back of the enclosure. Once they were certain nothing hostile was lurking inside, he pulled out some bedding so they could lie down and placed a pile of provisions beside it.
+
+While she did yoga, he forced himself to work his katas, so the time would pass more quickly. Eventually, his menus popped up on their own, and he read the updates with a smile on his face.
+
+The votes would be tallied in just a few minutes, and he was so keyed up that his hands were trembling. Elizabeth found his antics amusing, although he could tell she was just as excited. The System was going to reveal the results of both votes first, then begin humanity’s species-wide evolution. One hour later, it would switch on their new attributes and their enhanced geneline traits.
+
+Spacing them out makes sense. Evolving is already super intense, and if activating Psi is anything like what happened when the System jumpstarted my energetic core and magical circuitry, it’s going to be a wild ride.
+
+At last, the clock hit the one-minute mark. Nick sat down beside Liz, then they looked at each other, smiled, and waited for the results to come in. A few seconds later, the big moment arrived.
+
+Your species has voted for its new geneline trait.
+
+The winner is: Blend into the Background (Enhanced).
+
+Blend into the Background generates a potent layer of optical camouflage for up to one hour each day. The effect also masks body heat and reduces sound and scent to a lesser extent.
+
+The trait can be switched on and off at will, and these effects take 5 seconds to reach full power. The trait will not function against a creature that knows exactly where you are.
+
+She laughed when he let out a cheer combined with an emphatic fist pump. He was pleasantly surprised that his top pick had been chosen by a popular vote. It’s nice to see so many of us on the same page for a change.
+
+His moment of solidarity lasted exactly 40 seconds, when the results of the attribute vote came in.
+
+Your species has voted for its new attribute.
+
+The winner is: Psi.
+
+Psi is the attribute that regulates projecting your consciousness outside your body and your sensitivity to psychic phenomena. Psi can be used to sense the thoughts and emotions of others and influence them in some cases. Mastery of Psi allows for remote viewing, communication over long distances, and sensing killing intent. Psi also augments your natural psychic defenses, shielding you from mind-affecting abilities and other forms of psychic attacks.
+
+Stand by for species-wide evolution.
+
+Nick’s eyebrows rose in surprise. Elizabeth was grinning from ear to ear, which made him wonder if Psi was the attribute she had voted for. He wanted to talk to her about what obtaining psychic powers might mean for humanity’s future, but it was going to have to wait. Judging by the coruscating energy that was flowing around her body, she had more pressing matters to attend to first.
+
+He had warned Liz that her evolution was going to be intense, and she was already lying down with her head propped up against her pack and a blanket spread over her body. Her cheeks were flushed, and her core had begun pulsing in time with the magic rewriting her DNA.
+
+She had an ecstatic smile on her face and a distant look in her eyes—like her thoughts were a million miles away. Her breathing sped up, and she began to twitch as sweat ran down her body. While it was a lot to deal with, Nick knew from experience that the evolutionary process was painless and intensely pleasurable.
+
+On that note, I’m sure she would appreciate some privacy. “Good luck.” He waved to his travelling companion, then walked over to the other section of the cave, putting a long wall and several feet of solid stone between them. To distract himself from soft moaning echoing across the cavern, he focused on his own impending changes.
+
+Even though Psi wasn’t the attribute he had chosen, Nick was eager to find out what it had to offer—learn how it would change the human experience over time. It will help us to communicate and scout more effectively, and I’m sure that’s just the beginning. Even if I don’t specialize in using it, having a Psi pool to protect me from enemies manipulating my thoughts, emotions, and perceptions is sure to come in handy.
+
+He wasn’t too interested in picking up a Psi-based class anytime soon—since he was still only a few steps past the starting line of learning to use magic—but it would probably be a good idea to put some points into the attribute to increase his passive defenses. He thought that it might have some synergy with Size Up too, based on what the description had said about sensing killing intent.
+
+Nick still had almost an hour before his upgrades arrived, so he decided to pass the time doing something that he had learned early on his adventures. Using his high Creativity and Mind, Nick could shadowbox so vividly that it felt like his enemy was really there—the foundation of the technique the System had named the Theater of the Mind’s Eye.
+
+After a moment of contemplation, he decided to take on some of the sky pirates he’d fought in the Tower of Rizzen. There wasn’t room to swing his sword in the cave, so he drew his arena dagger instead. He began a vigorous workout, starting with the golden-furred buccaneer he’d battled before stealing an airship, then the pirates he’d battled on the Bloody Surprise.
+
+By the time Nick was done, he was short of breath, and just as sweat-soaked as Liz had been when he left her. He sat down with his back against the wall, drained his canteen, and got ready for the show to begin.
+
+Thirty adrenaline-soaked seconds later, the magic words appeared.
+
+Stand by for Psi activation and geneline trait enhancement.

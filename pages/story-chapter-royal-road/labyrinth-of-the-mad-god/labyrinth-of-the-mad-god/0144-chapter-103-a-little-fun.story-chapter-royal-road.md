@@ -1,0 +1,95 @@
+---
+id: 2022e19a-41fd-5f10-b555-c5c1c9d5b97d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 103: A Little Fun"
+slug: 0144-chapter-103-a-little-fun
+partOf: labyrinth-of-the-mad-god
+position: 144
+ownLength: 2306
+unit: words
+publishedAt: 2025-03-14
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2126591/chapter-103-a-little-fun"
+royalRoadId: "2126591"
+---
+
+The pirate’s demeanor was chillingly casual. Although she radiated a palpable air of menace, she showed no sign that she was preparing to attack as she pointed over her shoulder.
+
+“There’s no point trying to get past me. This stairwell doesn’t lead to the brig—it leads to the treasury. I hate to be the bearer of bad news, little mice, but you’re not going to rescue your friends. You’re going to join them in the great beyond.
+
+“Don’t worry, they’re still alive… for now. I didn’t want to take the wind out of your sails before we had a chance to dance. Who knows? If you manage to defeat me, you just might be able to save them. They are a little worse for wear though, especially that summoner girl who exhausted herself by overusing her powers. We all had a good laugh chasing her wasps around the deck while waiting for you to show up.”
+
+By this point, a cold sweat had broken out across Nick’s body. Size Up was going absolutely nuts, informing him that he was facing an enemy on par with the Janitor. An opponent with a stable core and a clear mind—a warrior with more combat experience than the members of Team Earth combined.
+
+But Nick didn’t need his skill to know that he was in trouble. He had put the pieces together the moment that he’d laid eyes on the woman, and already knew that he was standing in front of Alma, the leader of the sky pirates and the captain of the Bloody Surprise.
+
+There were two reasons why he had arrived at this conclusion. The first was the incredible volume of mana contained within her energetic core. It was so dense that it formed a field around her body, outlining her profile in a coruscating aura of power. He could sense two types of mana flowing through the weave—volcanic red and glacial blue.
+
+The second reason why Nick knew he was outmatched was the way that the pirate moved. After his training with Rita, he could tell that the woman was a blademaster, even without a sword in her hand. “I think we’re in trouble, Devin. She’s packing enough fire mana to burn the whole ship down, and enough ice to freeze us solid.”
+
+“Quite right.” The woman grinned. “Before we get to the fun part, allow me to introduce myself. You stand before Alma of the Frozen Flame, commander of the Skyswarm Pirates. Since we still have a few hours before we arrive at our destination, and there isn’t anywhere for you to run even if you tried, why don’t we have some fun and get to know one another… more intimately?”
+
+By this point, both men had realized that their plan had failed. But they didn’t have time to worry about it now. No matter what happened next, they had to get away from Alma before she grew bored with bantering and attacked. They turned as one and raced up the stairs… only to discover that their situation was even worse than he’d thought. The moment that Devin and Nick reached the top deck, they learned that all avenues of escape had already been cut off.
+
+What had to be a sizable fraction of the crew was waiting for them with an air of anticipation, laughing and taunting the beleaguered members of Team Earth. They had spread out to form a ring around the stairwell, creating an open space perhaps forty feet across. Left with no other option, Nick and Devin drew their weapons and fell into combat stances, standing back-to-back in the middle of a sea of jeering faces.
+
+It was a desperate, borderline hopeless situation, and the battle hadn’t even started. But there was one small detail that offered Nick a glimmer of hope in the middle of this crisis. The fact that Sophia had blown through her vital energy summoning wasps, even when it wouldn’t help her escape.
+
+She must have been clearing the conditions to call upon the demon living inside her. She’s planning to summon the bonefiend and break out of the brig. Sophia must be waiting for the right moment. We need to put on a show and keep the pirates distracted until she makes her move. This is bad, but we still might have a chance after all.
+
+While Nick was processing the dynamics of his dilemma, Alma sauntered up the stairs and came to a stop in front of him, strolling across the deck like she was in complete control and had all the time in the world. Which, to be fair, was an accurate read of the situation from his perspective too.
+
+He whispered what he was planning into Devin’s ear, relieved that the pirates hadn’t attacked them yet. This must be a prime source of entertainment for them. We can use that to draw this out. “By all means, confer.” The pirate boss grinned. “I can’t wait to see what you come up with, and the look on your face when your plans fall from the sky like a ship with no core. This is a perfect way to kill time while we travel, and I want to enjoy our dance to the fullest.”
+
+If they want a show, I’ll give them one. He stepped forward, flourished his blade, and bowed. “Nicholous Henry, champion of Earth. Slayer of Fallen, and student of the ever-surging blade.”
+
+While Devin made his introduction, Nick took advantage of the opportunity to adjust his tactics and get a better sense of the battlefield. He was dead certain that once the fight began, he wouldn’t have a chance to think.
+
+He was standing on the deck on an airship, soaring through the sky as the wind whipped his hair and set his cloak rippling. He was surrounded by a ring of jeering pirates—weapons drawn and voices filled with derision. The toughest opponent he’d ever faced was looming before him, mere heartbeats away from making her move.
+
+While this situation was several light years short of ideal, Nick had to admit, this moment was epic as fuck.
+
+The more fun this is for her, the longer she will be willing to play. If she grows bored, she’ll cut us down in a heartbeat, then finish off Shaun and the girls. When Sophia makes her move, we can try to escape and find a way off the ship.
+
+By now, Devin had offered his name, and it was time to start the show. Alma was still unarmed. It seemed that she intended to begin the fight barehanded, although Nick was certain that she had a weapon somewhere nearby.
+
+She gestured to the pirates, then turned to face the duo. The crew began stomping their feet while smacking their weapons against their armor, creating a thrumming beat that set his blood pumping and adrenaline surging into his veins. Then she raised one hand and motioned for the men to come at her, and the most difficult battle of Nick’s life began.
+
+They looked at each other, bumped fists, and charged. As they made their approach, the men split apart, coming at Alma from opposite sides as they unleashed their first attacks.
+
+Devin shifted his axe into its two-handed form as he ran, putting the full strength of his body into the swing. Nick was about to let loose with a heavy hit of his own, when his instincts screamed danger. He threw his body to one side—just in time to avoid a lightning-fast kick that would have snapped his neck like a twig. The pirate’s boot sailed past his nose with millimeters to spare, as Devin’s axe came down like a bladed avalanche.
+
+For a second, it looked like the blond warrior might manage to take Alma down, or at least score a serious wound. But she reached out without even looking his way, catching the blade of his axe with her bare hand like the weapon was paper mâché.
+
+Even when Blast Striking kicked in half heartbeat later, all it did was force her to take a step back. She looked down at the layer of fire mana sizzling on her hand, then licked it and smacked her lips.
+
+“Spicy, with a generous portion of essence mixed in. You’ve already started to form a concept at tier 1. I’m impressed.” Nick was shocked that Devin’s attack had been completely ineffective, even given the difference in their levels. She must have an ability that protects her from heat, along with some crazy high Toughness. They repositioned and got ready to try again. But before the duo had a chance to attack, Alma made her move.
+
+Without further warning, she came at them, moving even faster than Nick could manage with Force Acceleration. He was ready to put everything he had into another desperate dodge, but she changed directions at the last possible moment, swerving to appear in front of Devin instead.
+
+He had just enough time to pull his weapon in front of his body before Alma’s fist struck him with the force of the battering ram. He would have suffered some broken ribs or worse if she had hit his chest instead of the flat of his axe. With a clang that reverberated across the deck, Devin flew back, slamming into the ring of pirates. They threw him back into the cleared area while roaring their approval.
+
+Nick was worried about his friends, but he couldn’t afford to look away. Instead, he took advantage of the opening to lash out with his blade. He burned some stamina along the way, multiplying the force of the attack and increasing its speed.
+
+She must have recognized that his sword was special, because instead of blocking it with her body, she swerved out of the way, displaying a grace that was both deeply impressive and terrifying to behold. Then Alma turned to face him and began a rapid barrage of blows, weaving punches and kicks into a seamless combination.
+
+It took everything that Rita had taught him, every attribute point and skill that he had, to survive the brutal assault. But he couldn’t avoid them all. Even when he blocked, the force of her strikes battered his body and cracked his bones. And the worst party was, Nick knew that she was toying with them. Holding back to entertain her crew and prolong her enjoyment of the melee.
+
+As Nick endured blow after blow, Devin came running back, switching his weapon to its hand axe and shield configuration along the way. Good. We can’t beat her, so focusing on defense is the right move.
+
+The duo attacked in unison, their days of fighting by each other’s side coming together in that moment to form a balanced blend of offense and defense. While one man dodged her attacks, the other circled around to hit Alma from behind. When she broke through one man’s guard, the other leapt in to block the blow. They endured a punishing pummeling, scoring a few strikes in return. But even their most poweful abilites couldn’t do more than scratch her durable body.
+
+When Nick saw the look of disappointment in her eyes, he knew that he had to change things up before she lost interest. He flashed a hand sign to Devin, letting the man know that he needed a few seconds to prepare. Devin nodded and rushed in, unleashing a flurry of strikes that were so fast his weapon seemed to blur. Each impact released a detonation that drove the pirate captain back, streaking her skin with bands of burning mana.
+
+The instant that Devin created an opening, Nick started casting. He drew deep upon the magic within, conjuring a Piercing Ray and two Mana Darts at the same time—the most complex feat of spellcraft that he had managed thus far. The darts finished forming first. The silvery missiles winked into existence and began orbiting his head as a ball of whirling force congealed between his hands.
+
+Everything was ready to go five seconds later. He visulaized his trajectory and let loose with all three spells at the same time. He sent the darts curving around to approach from opposite sides, while his ray came straight up the middle.
+
+Piercing Ray was a fast spell. Once the churning sphere of kinetic energy reached critical mass, the force-drill flew forth in a streaking blur, crossing the distance between them in the blink of an eye. But the pirate’s leader was faster still.
+
+She reached back to block Devin’s axe with an open palm, then lashed out with her other arm. To Nick’s utter astonishment, Alma backhanded the incoming ray. Her fist diverted the beam to one side. It drilled straight through a pair of pirates before disappearing into the distance, killing one and grievously wounding the other.
+
+The loss of her crew didn’t bother the woman at all. She looked down at the scrape that touching the drill had left on her knuckles, as if surprised to see her own blood, then grinned.
+
+Meanwhile, both Mana Darts streaked for their target. She tracked their approach with contempt, then did something that Nick hadn’t been expecting. Alma stepped into the path of the spells, letting the wedges of chrome-colored mana sink into her skin. There was no appreciable effect other than a soft grunt of pain. She has too much vital energy for the dart’s drain to disorient her. Shit. She’s even tougher than I thought.
+
+“That’s the spirit. I can’t remember the last time that I took a wound from something that was still tier 1. I must admit that I’m pleasantly surprised. Perhaps I’ll be able to enjoy our dance after all. I think this will serve as a warm-up. Let’s see how long you last once I turn up the heat.”

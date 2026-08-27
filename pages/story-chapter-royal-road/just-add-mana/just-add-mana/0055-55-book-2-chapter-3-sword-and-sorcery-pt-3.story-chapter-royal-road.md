@@ -1,0 +1,233 @@
+---
+id: 109bf108-c748-5d05-b0aa-91b8463ac531
+page-type-slug: story-chapter-royal-road
+title: "55 — Book 2, Chapter 3 — Sword and Sorcery, Pt 3"
+slug: 0055-55-book-2-chapter-3-sword-and-sorcery-pt-3
+partOf: just-add-mana
+position: 55
+ownLength: 3562
+unit: words
+ownProgress: 3562
+publishedAt: 2025-11-01
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2722902/55-book-2-chapter-3-sword-and-sorcery-pt-3"
+royalRoadId: "2722902"
+markedReadAt: "2026-06-29T18:49:28.282Z"
+---
+
+Syphus was having the time of its life.
+
+For one thing, it finally had a sword. A sword! For some reason the academy's professors had refused to allow it to wield a sword until it received official "safety training" from any one of the academy's instructors. It had difficulty actually getting that training, unfortunately, mostly because it didn't have Sword and Sorcery on its schedule until the next term.
+
+(Which was why it was delighted when it happened to be brought along on this particular mission. Solsburn didn't seem to have an issue with Syphus joining in, and had even brought along a spare sword that he offered without a single word about safety. This raised Syphus's estimation of him greatly.)
+
+It didn't really see what all the fuss was about, anyway. It wasn't like it had any fleshy bits it could accidentally chop off with a sword. Even if the sword were one of those enchanted magical ones that could cut through steel—something the academy had evidently been quite worried about—Syphus had faith in the construction of its golem body.
+
+Well, that and it was technically quite indestructible, or it would have worn down over eons of being rolled up and down a hill. One of the benefits of being a component of a mythology, even if it wasn't technically a living mythology itself. Not that it ever advertised this fact. It had already done so once, and had no interest in being subject to experimentation by overenthusiastic wizards again.
+
+Now it just needed to figure out how to keep the sword after class on the off chance that Instructor Solsburn wanted it back. Syphus was pretty sure it could just shove the sword into its storage spell and claim it had lost the thing somewhere in the labyrinth's depths.
+
+Then it would always have a sword on hand. Especially when those elves started growing foliage in its way again.
+
+Accursed foliage. Sand was so much better. It didn't understand the appeal of all that flimsy green stuff, anyway, or why most species seemed to prefer to decorate with that rather than with sand in its many, many forms.
+
+Jars, for example. A jar of sand was basically sand containing more sand. It was great.
+
+In any case, the point was Syphus finally had a sword to call its own and it had successfully managed to test out that new spell it had managed to put together using all those manuscripts Leo managed to find. Finally! It had been excited for this since... well, since about twelve hours ago, but still.
+
+Frankly, it took all the patience it had to wait until it was far enough away from Cale and the others to test out the spell. Apparently there was a chance the spell would backfire horribly in some way, and it needed to be a good distance away before casting it.
+
+A part of Syphus was, in fact, quite interested in how a spell like this might backfire. Alas, however, the array it had put together worked perfectly. In fact, to Syphus's delight, the Gift actually recognized its efforts and rewarded it with a new spell of sorts, though it took a form it had never really seen before.
+
+You have learned [Basic Spellfist Arts]!
+
+[Basic Spellfist Arts, Level 1] [First Tier (Unique), Active] [4,000 Mana]
+
+Unlocks access to a lost spell-based martial art.
+
+Transforms a part of your body into a manaforged mechanism capable of firing any known spell up to a full tier above its base power. Note that you may only fire spells equivalent to the current tier of this spell.
+
+Deepen your understanding of manaforging to unlock new manaeforged mechanisms. Deepen your understanding of the Spellfist Arts to evolve this spell to its next form.
+
+At your current level of understanding, you have unlocked the following:
+
+[Slug] — A loose and ill-formed expression of the transmutation magics imbued into the art. The Slug mechanism, if it can be called such a thing, oozes the input spell out of its pores as slime.
+
+[First Form] — A cylindrical mechanism that fires the input spell straight ahead. Provides a minor boost to speed and power, at the cost of mana.
+
+Warning: any damage incurred to the transformed part will transfer to your body when the spell expires.
+
+Warning: input spells have a chance of backfiring if the construct is not well-controlled. Use with caution.
+
+Syphus read the details eagerly. Sort of.
+
+A normal mage, perhaps, would spend some time going over the pros and cons of [Basic Spellfist Arts]. They would almost certainly read the entire description and its warnings carefully, for the Gift was very rarely this thorough when it provided a new spell. When it was thorough, well, that was usually when the description being provided was particularly important.
+
+Syphus was not most mages. Nor was it particularly worried about any of the warnings. It eagerly read right up to the point where the two "manaforged mechanisms" it had unlocked were listed, made a mental note to search for more later—or enlist Leo's help in doing so—and then promptly cast [Basic Spellfist Arts].
+
+Twice.
+
+Because it had been given not one but two new options, and why wouldn't it test them both out? Secreting spell-slime sounded like it could be a fantastic weapon, if used the right way. It was curious about how so many spells would operate when in slime form, whatever that meant.
+
+Again, it was having the time of its life, because for the first time in its life, it could freely cast all the destructive spells it wanted. It didn't have to worry about the aspect of the spell or the spell itself failing. Sure, one of its arms was now considerably less flexible, but who needed flexibility when it could fire out an enhanced [Burn], which it privately decided to call [Lesser Fireball]? Not to mention all sorts of other spells, like...
+
+...well, mostly just that, actually. It had wanted to play with fire for longer than it could remember, and now it could blast flames out from an arm. It was pretty happy with that.
+
+If only it wasn't just restricted to first tier spells. Syphus decided it would need to evolve this spell as soon as possible.
+
+For now, though, the [Lesser Fireball] was plenty. Echoes of its gleeful laughter rang through the hallway as it rolled down at full tilt, blasting them from its cylindrical arm at any monster that showed up in its sight.
+
+The other hand, which was indeed now some sort of organic tendril-thing, was clutched carefully around its new sword.
+
+Both the arm and the sword were very much on fire.
+
+As far as Syphus was concerned, the spell was a success on all counts.
+
+Even the slug arm, which seemed to be capable of secreting fire-slime. It had no idea why anyone would consider that a failure. This was amazing.
+
+Serof didn't know how long he'd been running. All he knew was that he couldn't stop, even though he was running out of mana. Even though he'd just spent nearly an hour fighting off a dozen creatures he'd barely encountered before in his life, let alone had to fight. It had taken all the foresight of his scrying abilities to avoid most of them and to anticipate the ones he had to fight, and by the time he was done, he was bruised and bleeding.
+
+And all this was still preferable to the life he'd had in the Watchful Hive.
+
+The problem now was that Sternkessel absolutely hadn't been kidding when he told him to run. Serof didn't know what he expected, but he what he hadn't expected was for the professor's body to twist out of his suit like some sort of demented puppet, and he certainly hadn't expected him to start slaughtering the Red Hunter and his army. If he had been anywhere in the vicinity...
+
+Even now, the labyrinth trembled with the aftershocks of Sternkessel's power. Serof was in shock, really, which ironically was part of the reason he was still alive; as long as he didn't have time to stop and process what he'd witnessed, he would be fine. The sheer hate he'd seen emanating from the professor...
+
+Serof was a scrying sage, and he'd seen many, many things in his time as an Observer. As a puppet of the Red Hunters, that had been his entire job. And there were many, many people that hated them, silent though that hatred was.
+
+In all that time, Serof still hadn't seen a comparable amount of hatred coming from anyone as it did from Sternkessel in that moment.
+
+The only reason he knew all this—the only reason he could keep track at all—was thanks to the scrying spells he was now maintaining to navigate his way through the labyrinth. If it were at all possible, he would have tried to avoid scrying Sternkessel entirely; he'd had enough of scrying far-too-powerful entities for one day.
+
+But he couldn't afford to take his eyes off the professor for a number of reasons. For one thing, it sounded like the professor was relying on him to tell Cale where he was and what had happened. For another, if he wanted to keep a reasonable distance from Sternkessel at all, then he pretty much had to keep an eye on him.
+
+So that was where he was at.
+
+It took him far too long to find a place he thought was remotely safe, and even then, he couldn't entirely stop moving. Parts of the labyrinth were constantly collapsing and rebuilding themselves—if he didn't know any better, he would have said that the labyrinth was somehow integrating itself with a different one in a desperate attempt to repair all the damage that professor was doing to it.
+
+Serof was terrified at the amount of power that implied on both sides. Sternkessel was damaging not only the labyrinth, but the dimensional space that contained it. On the other hand, the labyrinth was somehow holding him back.
+
+What kind of monsters were the professors of the Brightscale Academy? Those other Observers hadn't been kidding about what they had to put up with. The idea that he was running toward it was both a relief and terrifying...
+
+It occurred to Serof that he did not, in fact, have any idea how he was going to get out.
+
+Which meant his only hope was to ask for help. Sternkessel had implied that this Cale had a tendency to be in the right place at the right time, and Serof really hoped that was the case this time, or he would be forced to try to survive this labyinth for who knew how long until someone came looking.
+
+[Nightmare Lure] was non-ideal as an emergency spell, but it was a miracle he had one to begin with.
+
+Now he just had to hope that Cale was the sort of mage to follow creepy-looking puppets.
+
+Cale tapped his chin and thought, frowning. It was still bothering him how aggressive the labyrinth's monsters were being, and it bothered him more that he couldn't quite pinpoint why. Not to mention that there was still no indication so far as to what was causing the labyrinths to merge. The labyrinths walls dampened his mana sense, but still, he should have sensed some kind of disturbance.
+
+Instead, there was nothing. Oh, there were plenty of mana signatures, mostly from the sheer variety of monsters now lurking throughout the labyrinth, but nothing that would explain the reaction the labyrinth was having. And it was still having that reaction, too—it wasn't like it had just stopped. Every so often, the entire place would reverberate like an earthquake had struck, and Cale would feel an almost nauseating wave of mana as the labyrinth attempted to compensate.
+
+Though what he felt was only a fraction of what poor Leo was feeling. The first time it happened, the minotaur tripped and fell flat on his face. And he hadn't even been walking at the time!
+
+"Um, Cale," Damien said hesitantly.
+
+"Shh." Cale waved him off. "I'm thinking!"
+
+"Right, I know that, but... do you really need to do that while that drake is trying to gnaw your head off?" Damien asked. "Do you want us to help you with it?"
+
+"It's fine," Cale said dismissively. "I don't want to hurt it. Bone drakes are endangered, you know. Besides, it helps me think."
+
+Over in the corner, Leo looked up from where he was still trying to get his bearings. "How," he started to ask before letting out a still-nauseated groan. "How could it possibly help you think."
+
+"It's very relaxing," Cale said. "Like having a weighted blanket, except angrier."
+
+Leo rubbed at his temples, evidently choosing not to even comment.
+
+"It's weird how many different types of monsters we're seeing," Cale continued thoughtfully, ignoring him. "None of these monsters would normally be anywhere close to one another. Dungeons usually at least try to mimic some kind of sensible ecosystem. This just feels like a random scattering of creatures? I guess the labyrinth merger would explain it, and the Karmian Well's ecosystem was pretty varied to begin with, but still."
+
+Solsburn grunted. "That does not explain the aggression."
+
+"Aren't dungeon monsters always pretty aggressive?" Leo asked, leaping onto the more productive train of thought.
+
+"Kind of," Cale answered. "Dungeon monsters are usually a little bit more aggressive than their wild counterparts, but generally not by this much. The aggression is caused by the magical agitation common to dungeons, plus the fact that they're outside their natural habitats and have no idea what to do."
+
+"They are controlled first by their instincts," Solsburn said without any intonation, but Cale noticed he had placed a hand on the hilt of his sword and was looking around warily. Had he sensed something? "Even when the dungeon is intelligent and directing them, it cannot completely override their natural urges. For them to ignore their instincts so completely, something else must be at play."
+
+Cale blinked. "I think that's the most you've ever said in one go," he said. "Can you do it again?"
+
+Solsburn stared at him, completely silent.
+
+"...Guess not." Cale shrugged. "I mean, he's right. Monsters don't just stick around and let you kill them. If they think they're going to lose, they'll run away. And think about the shadelings, for example—if they were this blindly aggressive, they'd be running at us and be much easier to spot. They're ambush predators for a reason."
+
+"Do you think something's controlling them?" Damien asked worriedly.
+
+"Either that, or it's something more indirect, like some sort of mass curse," Cale said. "Personally, I'm more worried about the latter. I think that's what the big guy over there is worried about, too."
+
+Solsburn just grunted again. Cale was beginning to wonder if he'd just exhausted all his words for the next hour or so.
+
+That was the crux of it, though. Dream wasps were one thing. Those things attacked pretty much anything on sight.
+
+But bone drakes? They preferred to hide within their dens, emerging only to feed on the tributes the local species would often offer to them. They tended to form something of a symbiotic relationship with anything that lived nearby and rely on them for food.
+
+Which was the whole reason they were endangered! That instinct was so strong it was present even in their dungeonspawn variants, and dungeons often overrode the basic instincts of their spawn in the interests of the dungeon.
+
+It was the same for lesser wyrms. Those things abhorred dealing with people. They preferred to tunnel unseen, consuming only the refuse that littered the soil. Even in places where that was impossible—such as the labyrinth they were in, for instance—they would cling to ceilings and avoid potential predators as much as possible. They were enormous and terrifying, yes, but they were also cowards.
+
+Or they were supposed to be.
+
+Leo's kick to the throat should have made the lesser wyrm retreat. The fact that it hadn't was bugging Cale. It felt like this sort of behavior should have been ringing a bell. Like he'd seen something like this before, though he couldn't for the life of him remember where. What made monsters so universally and suicidally aggressive?
+
+"Also, I still want to know about the clown thing," Leo said, shooting a nervous look down the corridor. "What was it? Did you recognize it? Because I've read all three Dungeon Monster Compendiums and that was not in any of them."
+
+"You shouldn't trust those compendiums," Cale said mildly. "Trust me, I tried once. Almost got eaten by five varieties of mimics. I did get eaten by three, but the good news is I gave them indigestion. Because I fed them too much mana."
+
+Leo stared at him. Cale wondered if he could get away with telling them he wanted to follow the clown thing.
+
+"Also," Damien said. "Why was it running away? You were saying every dungeon monster is suicidally aggressive; how come that one isn't?"
+
+Cale paused, blinking. "Huh," he said. "You have a point. It should be attacking us like everything else, unless it's immune for some reason. Or unless it's—"
+
+He groaned, smacking himself in the forehead; the movement triggered the now-exhausted drake to try gnawing off his head again, though not to any success. It looked almost put out by the whole situation.
+
+"Unless it's not one of the dungeon monsters," he said. "It might be a spell. It feels like a spell, I just got distracted because it looks like a clown. Who makes their spells look like a clown?"
+
+"Cale," Solsburn said.
+
+"It's a spell, and it came back," Cale continued, his eyes brightening slightly before they narrowed in focus. "Which means it's trying to lead us somewhere—I think I know what this spell is. Some cultures that specialize in illusory and scrying magics often developed these as a sort of coded way to ask for help; they're meant to scare off anyone who doesn't understand the signal."
+
+Leo twitched. "Please tell me we aren't going to follow the clown thing."
+
+"Like it or not, if that's what I think it is, then we're going to have to," Cale said. He pushed himself to his feet with no apparent effort, expanding the barrier he was using to protect himself to create space, then wrapping a new one around the bone drake. It snapped in distressed confusion at the air. "It's our only clue about what's happening here so far."
+
+"It could also be a trap," Solsburn said, picking up one of the swords and holding it out to him.
+
+Cale eyed it for a moment before taking it with a sigh, "You know if there's something to fight, I'm probably just going to blast it with mana, right? I'm not really a swords kind of guy/"
+
+"You are holding it wrong," Solsburn said. Cale frowned and adjusted his grip, and after a moment, the instructor nodded in satisfaction. "Good. You have experience with the blade."
+
+"A little," Cale muttered. "I don't like it."
+
+"Not all problems can be solved with spell," Solsburn said. "Those that cannot can usually be solved by blade. I prepared one that can handle a fraction of your mana."
+
+Cale frowned. "It would take a divine artifact to handle my mana," he said. Solsburn stared at him and didn't elaborate, and Cale eventually sighed again, eyeing the delicate inscriptions on his new sword gingerly. Now that he was looking at it properly, it did seem... overly ornate.
+
+Their instructor handed out two more swords to Damien and Leo each. "It seems this expedition will extend well beyond my class. I will ensure you four learn the basics of Sword and Sorcery before its end."
+
+"What about Syphus?" Damien asked.
+
+"It will be here soon," Solsburn said impassively. Cale turned his gaze from his sword to the instructor, his brows furrowing slightly. There was no cast of magic, so how would he—
+
+Oh. He could almost certainly sense where his swords were, couldn't he?
+
+Right on time, Syphus strode into the room. Damien and Leo both looked horrified, while neither Cale nor Solsburn reacted to the golem that was entirely covered in some sort of fire slime.
+
+"That was fun," Syphus said gleefully, "I don't think there's anything left alive in that corridor."
+
+"A good use of that arm, though swinging it like a windmill will only work against monsters," Solsburn said. "Decent start. I will give you notes on improvements to your form."
+
+Syphus paused. "Were you watching me?" it asked suspiciously.
+
+"Yes."
+
+"Ah." Syphus said nothing further for a long moment, and Cale could practically see it recalculating something it had been planning. "Well then. What are we doing next?"
+
+"Following some sort of clown thing," Leo grumbled. "Apparently. If it comes back. I, personally, really hope it doesn't. Because I think it's a trap."
+
+"I have bad news," Cale said, already striding off.
+
+As he did, he allowed some of his worry to slip into his expression. He still couldn't for the life of him remember what it was that could drive dungeon monsters to such aggression.
+
+But he was increasingly sure he was not going to like the answer.

@@ -1,0 +1,259 @@
+---
+id: 76794e8c-b36d-5190-b40a-1406386c201e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9 – Where’s the tutorial? – Pt7"
+slug: 0009-chapter-9-wheres-the-tutorial-pt7
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 9
+ownLength: 2703
+unit: words
+publishedAt: 2024-11-17
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1909155/chapter-9-wheres-the-tutorial-pt7"
+royalRoadId: "1909155"
+---
+
+Kindra darted into the forge, Aika flying alongside.
+
+“Kindra?”
+
+“Getting bodies. We’ll want them.” Opening the door, she peered out at the street. The undead haven’t headed here… Time to get ingredients. Dashing outside, she grabbed a hog by the legs and dragged it back into the building, leaving a smear of blood across the ground.
+
+Running back out, she grabbed two large rats and carried them back while Aika flew by with one. The two grabbed a dozen carcasses and dragged them into the forge.
+
+Turning, Kindra barred the door and walked over to the hog. “I can’t believe I’m doing this.”
+
+“Didn’t early humans do this? In medieval, modern, and… well, most of them, actually,” Aika said, flying next to it.
+
+“Yes, but it’s sort of disgusting and messed up.”
+
+Aika giggled.
+
+Kindra sliced the pig open and looked at her. “What’s funny?”
+
+“Do you remember what your dad used to say?”
+
+“Don’t remind me…” Kindra stared at the wall as the memory came rushing back.
+
+~~~
+
+A six-year-old Kindra stuck her tongue out and shook her head, wrinkling her nose in disgust. She turned away and looked out the window. “Dad, that’s gross.”
+
+“Come on, sing along with me,” he replied, laughing and stepping closer. ‎ “Oil is dead dinosaurs. Plants are mixed in too. ‎ The truth is that the building blocks are sitting inside you. ‎ Fat was used for candles and fuel for many things. ‎ All of life builds on itself, so sing along with me.”
+
+“Ew! I’m telling Mom!” Kindra stood, giggled, and headed for the door.
+
+~~~
+
+Kindra snapped out of the memory. She laughed. “How do you remember that?”
+
+Aika smiled. “You loved those silly poems and songs.”
+
+“Yeah.” Kindra walked into the kitchen and grabbed a pot. She walked back into the smithy and sliced off every bit of fat she could find, dumping it into the pot. I can’t believe I’m making tallow.
+
+Aika flew up and helped, somehow making small knives from her new suit. The two worked in quiet, filling up the pot.
+
+Kindra finished and stood. She grabbed the pot and carried it back to the fire, placing it next to it and letting the water and other impurities burn away. Well, that’s one of the grosser things I’ve done.
+
+Looking down at her mess of an outfit, she walked to the other room and stole a blanket to wipe her hands. Tossing it into the corner, she kneeled at each chest and checked if it was locked.
+
+Popping open a few, she found a few near-empty coin purses and several sets of attire that appeared to be made of something like wool. Pulling them out, she promptly realized that they would not fit well. They were made to fit short dwarves, not humans who’d gone full carnivore.
+
+She sighed and swapped anyway. Swapping into trousers and a shirt that revealed her midriff, she balled up the large shirt and tossed it in the dirty laundry pile. Grabbing a sword, she cut off a strip of fabric from the blanket and turned that into a dust mask.
+
+Walking out of the room, she paused and listened. A muted shuffling passed by. Great. They are wandering. She walked out of the room and headed to the forge.
+
+“You look silly.” Aika zipped up and perched on her head.
+
+“I agree, but I can’t waste mana right now.” Walking into the forge, Kindra picked up a hammer and headed to the barrel of charcoal.
+
+“Are you pulverizing it?” Aika asked.
+
+“Yes. We can use it for bullets or as part of the explosive.”
+
+Aika flew off her head. “Is it cheaper to make black powder? We don’t have the saltpeter.”
+
+“No idea. But we can use it.” Kindra began crushing it with a hammer, slowly pulverizing it into fine dust.
+
+Aika sighed. “I’m going to search for treasures.”
+
+“Find me some clothes.” Kindra chuckled and kept going. A few hours ticked by while she ground the charcoal into dust and created a mess. Finishing most of it, she walked out of the forge and checked the melted fat on the fire. It continued steaming, so she left it and walked into the pantry.
+
+Grabbing some salted meat, she nibbled at it and checked her mana.
+
+[Your actions have caused your magic to grow. ‎ Your mana has increased: 67.5 → 69.5.]
+
+System, how does that work?
+
+[Class related activities increase growth. For crafters like you, it allows you to level without killing.]
+
+Well, that’s handy. She turned. “Aika? Where are you?”
+
+“Looting! I’m rich!”
+
+Kindra laughed. She fished more meat on the plate and walked to the dorm, finding every chest open. Walking up the steps, she found Aika on a pile of gold and silver coins. “That can’t be comfortable.”
+
+Aika laughed and sat up. “It isn’t, but we’re rich.”
+
+“Okay, but I get to be president. And there are taxes.” Kindra smirked.
+
+“Boo! Down with taxes.” Aika flew off the pile. “I did find a few books, but I have no idea how to read them.”
+
+Kindra shrugged and shook her head. “It’s a problem.”
+
+Aika stood and looked at the door, holding up a single coin. “Do you think there are survivors?”
+
+“If there are, they’re in cellars, hiding. Or in another village.” Kindra sighed. “And I have no idea how to find that, short of picking a road and praying.”
+
+Aika giggled. “You believe in God now?”
+
+“Yes. He made the system… Unless he wasn’t a god.” Kindra frowned. He isn’t the one that stole our ship, right?
+
+Death didn’t answer. Kindra looked at the coins. “Think they are worth anything?”
+
+“No idea.”
+
+Kindra turned. “Come on. Let’s check on the tallow. I’m hoping that will make it cheaper.” She walked down the stairs and into the kitchen. Looking at the simmering pot of fat, she grabbed a piece of firewood and dunked one end into it.
+
+Pulling it out, she stuck it in the flames before walking back up the stairs. Let’s hope they’re flammable. Popping open the door, she crept out and peered over the ramparts. The undead were milling around like some zombie movie. Is that all they are going to do? Sit there until they find something to rip apart?
+
+She tossed the makeshift torch. It looped and flickered while spinning through the air, hitting a blood-covered undead dwarf. The flames licked across it but did not catch.
+
+The undead dwarf searched for the source, and the torch clattered. That caused a surge of movement among the undead, who rushed forward, swarming the torch and quickly extinguishing it.
+
+What a waste. Taking careful aim and only using a tiny bit of mana, she pictured the rune sequence and aimed it at the closest undead. A bolt of glimmering light shot forward, dimming as it traveled.
+
+Hitting an undead in the chest, it staggered. The runes around it flickered but didn’t go out. So, I have to burn more than that. Don’t tell me it costs a whole mana… wait.
+
+She studied the runes. They were fainter than the rest. Targeting it, she tried again. The spell shot through it, clipping another undead. Both flickered, but neither fell.
+
+So, at least point three mana. She grimaced and tried it again. The first undead dropped, the magic fading from its body. She turned and walked into the barracks, carefully shutting the door.
+
+“What did you figure out?” Aika asked, landing on her shoulder.
+
+“It takes three mana to kill them, and they do not just ignite in flame if you hit them with fire.”
+
+“So, explosives?”
+
+“Yes, assuming it’s cheap. It may be cheaper to shoot magic at them, which is a real downer.” Kindra sighed.
+
+Aika nodded. “I need a stronger mech suit. Then I’d crush them.” She flexed and gestured at her dress.
+
+“Why a dress?”
+
+“I didn’t have enough for more. And this let me shift it.” Aika gestured, and the dress flowed up her body, creating a helmet and armor on her wings. A little shield formed in her hands.
+
+Moments later, it rippled back into a dress. “Maximum flexibility,” Aika said with a grin.
+
+Kindra smiled. “Impressive.” Entering the dining room, she pulled the pot of fat off the fire and walked into the kitchen. Alright. Time to test this out. With a crooked smile, she searched the shelves for something disposable.
+
+Grabbing a mug, she carried it out and set it near the pot. Closing her eyes, she took a moment. Okay. Just don’t cough or sneeze or bump into anything. It’ll be fine. Looking down at the fat that she planned to turn into nitroglycerin, she struggled to believe her pep talk. The doubt gnawed at her, and she second guessed her choice.
+
+Maybe I should do it on the roof. On the edge. Right where I can toss it. Nodding to herself, she carried the pot up the stairs. Popping open the door, she looked down. Not enough undead.
+
+“We need more undead,” Kindra said loudly, turning toward Aika.
+
+“We’re attracting them?” Aika grinned and zipped away.
+
+Where’s she going? Kindra shrugged. “Here zombie, zombie. Supper time.” She looked down and saw some turn toward her. “Come and get it.”
+
+Aika flew, soaring through the nearby streets and shouting. Undead turned and ran toward her, and she raced back, shooting up into the air and flying past Kindra. “Got them.” She zipped off.
+
+Kindra smiled. She’s as fun as ever. Looking down at the pot, she dipped the mug in, carefully leaving just enough room to flow. Using the skill, she willed it to fill the mug with nitroglycerin and not use more than fifteen mana.
+
+The skill consumed fourteen mana, and the entire pot shifted, smoke billowing off it.
+
+Jerking away, Kindra watched as the magic turned the extra matter into gases. Well. Didn’t expect that, but it makes sense.
+
+The smoke and steam faded. Looking down at the entire pot of the stuff, she swallowed. So, it redid everything and burned off the carbon while preserving energy? Notes of terror and excitement ran through her. How do I handle an entire pot of one of the most unstable explosives ever made.
+
+Aika zipped up, carrying a mug. She dumped the charcoal powder onto the group below and shot down the stairs. Turning, Kindra followed, leaving the pot, running down, and filling two chamber pots with the crushed black powder.
+
+Running back up the stairs, she waited and handed the pots to Aika, who soared up and dumped it, letting the powder drift over the area.
+
+This is going to be so bad. I’m running inside.
+
+Aika flew back and nodded before fluttering to the doorway.
+
+With a horrified and nervous smile, Kindra gently picked up the pot and moved carefully to the ledge. Don’t pour. Throw. Looking down at the undead, she shook her head. This is the dumbest thing I’ve ever done. With that thought, she tossed the pot. The liquid sloshed and spilled as it arced.
+
+Spinning, she ran frantically for the door. A thunderous boom ripped through the air; the ground shook, and shrapnel shot everywhere.
+
+With her heart pounding, she slammed the door shut and spun. A large plume of smoke billowed from the courtyard. The pot soared over several houses. Bones, blood, and body parts joined it, flying everywhere. Undead turned and ran into the fiery mess. Please tell me I didn’t blow up our shelter.
+
+Aika giggled. “That was awesome. Let’s do it again.”
+
+“No. No. That’s enough explosives for the day.” Kindra blew the hair from her face. Let’s see if we’re about to die.
+
+She walked down the stairs and peered at the first floor. The dust was thick in the air. She waded through it and studied the walls. It’s still standing, thank god… Should I say thank Death?
+
+Shaking the thought aside, she headed back to the stairs and ascended.
+
+“You should see it. We blew up four cottages.” Aika burst into laughter.
+
+Kindra smiled and walked out the door, peering through the smoke in the air. Limbs were strewn everywhere. Two cottages were rubble, and two others had collapsed. All of them were painted in gore.
+
+Looking down, she studied the barracks walls. Cracks were running through it, and fragments were missing. No more explosives.
+
+Aika flew up. “I can’t see the pot.”
+
+“We’ll have to find a new one.” Walking back inside, she looked at her mana.
+
+[Your actions have caused your mana to increase: 69.5 → 72.] ‎ [Your mana has increased: 72 → 131.]
+
+Aika fluttered over. “What now?”
+
+“I look into making a gun and then try using magic to kill the ones that wander over.” Kindra barred the door with a cheery smile and headed down the steps.
+
+Walking into the smithy, she grabbed a body. System, how much to make some nitrocellulose?
+
+[Complete material conversion would require 20 mana and make 2.2 lbs].
+
+She stared at it, her smile growing massively. How much to make potassium fulminate?
+
+[Complete material conversion would require 20 mana and make 8 ounces.]
+
+Okay. Expected. Getting a primer was always going to be the struggle here. She walked into the smithy, grabbing a bar of metal. Round three. How much for bullets and centerfire casings for a nine-millimeter?
+
+[Complete material conversion would require 10 mana and make 200 of each.]
+
+Not too bad. Smiling, she heard something go thump. Aika. She turned and headed back inside the barracks. Aika flew out of the pantry with a plate of fruit. She happily began eating. “So, magic?”
+
+“Yeah. I need to try an enchantment. Bullets are expensive and won’t kill them.” Kindra picked up a hammer. Can I use Enhance Item to make this anti undead?
+
+She pictured the runes. Feeding mana into her skill, she watched vibrant crimson runes appear on the hammer. They shifted to a vibrant white, and text appeared.
+
+[Basic hammer has been enhanced with +5 radiant damage for 6 hours.]
+
+Kindra studied the hammer, running her finger along the polished handle. What the heck is radiant damage?
+
+[It’s a specific type of magic that is only harmful to a select group of creatures. No, I’m not telling you which ones. You have to learn that.]
+
+Eh. Good enough. Kindra walked up the steps and looked outside. Where are the birds?
+
+Aika fluttered up and peered out. “I’ll check.” She stuck her head between the bars. “There are birds circling. I don’t know if they are undead.”
+
+Kindra opened the door and walked out. She looked up at the glowing birds and studied the runes. “They’re undead, and they heard me.” She jumped back inside, slamming the door shut and barring it.
+
+“Here. I’ll use the hammer.” Aika giggled and held out her tiny hands.
+
+“I’ll enchant your suit and sword. Come here.” Kindra took a few steps back and waited.
+
+Aika fluttered up and held out her sword. Burning 10 mana, Kindra enchanted it.
+
+[Level 3 mechasuit has been enhanced with +5 stamina to the wearer.] ‎ [Level 3 sword has been enhanced to deal +5 radiant damage on hit.]
+
+A bird hit the door with a thud. Its beak slammed through the bars, and it clawed at the door.
+
+Blowing the hair from her face, Kindra raised the hammer, and Aika shot forward, driving her little blade straight into the bird’s eye. A burst of light flashed from her sword, and the bird crumbled.
+
+“Cool!” Aika grinned and looked at her glowing sword.
+
+“Bird!” Kindra shouted, swinging the hammer. A long, black beak shot through the bars, snapping shut on the little fairy.
+
+Horror ran through Kindra. She slammed the hammer into its head, sending a wave of light blasting through the bird. It went limp, and Kindra dropped the hammer. She reached forward, her fingers scraping on the bill. It slipped through her fingers and dropped outside the door. Horror ran through her. No. No. No.
+
+A crack sounded from the door downstairs, and Kindra ignored it. “Aika? Are you alive?”
+
+“Kindra, help!”
+
+Grabbing the bar, Kindra ripped it to the side and pulled the door open.

@@ -1,0 +1,49 @@
+---
+id: 3f87b719-2b66-5352-b953-c1b91df6f014
+page-type-slug: story-chapter-royal-road
+title: "An Interlude with Nick and Bandit: Book One Recap"
+slug: 0014-an-interlude-with-nick-and-bandit-book-one-recap
+partOf: labyrinth-of-the-mad-god
+position: 14
+ownLength: 1436
+unit: words
+publishedAt: 2024-02-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1504351/an-interlude-with-nick-and-bandit-book-one-recap"
+royalRoadId: "1504351"
+---
+
+“Hi everybody, it’s Nick. I’m here with Bandit to give you a quick rundown on what happened in book one before the first chapter of book two comes out in a few days. I know that we just finished the first volume, but these recaps should be helpful later on, especially for people who aren’t reading the books back-to-back. If you’re all caught up, you can skim or skip this review and I’ll see you back in the safe room where we left off, where some wild stuff is about to go down.
+
+What’s that little buddy? Ok, I’ll tell them. Bandit wants you to know that even though he won’t be appearing much in volume two, he is off having his own crazy adventures and that we haven’t seen the last of the lemur tribe. Fine, I'll talk to the author and see if I can get you a few intermission scenes in book 2. Alright, enough with the preamble. It’s time to get this recap rolling.
+
+Our story began on a night like any other. I was just wrapping up an epic gaming marathon when I passed out in front of my computer. I had the weirdest dream ever, where I watched the story of life on Earth. From that very first spark, all the way until the present day. Earth was busy processing cosmic energy all the while, and as I watched, floating above it all, the planet’s core reached critical mass and the Earth hit level one.
+
+What’s that Bandit? No, I don’t need to tell them that this is going to be important to the plot. It’s already heavily implied. Anyway, when I woke up, a quest prompt from the System was floating in my vision, telling me to jump into a portal before I was erased by these killer beams of light. During the chaos, one of the beams killed my girlfriend Angie, vaporizing her right in front of my eyes before I escaped through a portal in my closet. Thanks Bandit, I appreciate the sentiment. I’m sure that she would have liked you too.
+
+While I floated in the space between worlds, the System made some crazy changes to my body, giving me attributes, geneline traits, and unlocking the ability to use magic. It totally blew my mind. When the System was done rewriting my DNA, the Earth was assigned a mentor. A benevolent goddess known as Astra the Green Mother. I thought that the worst was over, but that’s when things really started to go downhill.
+
+I was in the middle of my orientation, getting shown the ropes of life in the multiverse by a cool lady called Pax, when Taltos made his appearance. Yes Bandit, they know that Mad God a key player in our story, it’s right in the title. Moving on, Taltos hacked the System and stole the Earth from Astra. We haven’t learned what he has in store for our little blue planet just yet, but something tells me that we’re about to find out. No Bandit, that isn’t a spoiler. It’s called foreshadowing and it’s a good way to… never mind, I’ll explain it to you later.
+
+Anyway, Taltos modded the settings for our tutorial, locking us into basic classes and dialing the difficulty up to eleven, before shoving me into another portal. I woke up on the beach of the Searing Isle, with more holes in my memory than Swiss cheese and only my trusty bathrobe on my back. They didn’t even give me shoes for fuck’s sake. I got super dehydrated while I was trying to figure everything out and was almost eaten by these giant lizards I wound up calling komos.
+
+I ran for my life before being saved by the lemur tribe, which is where I met my new best friend, Bandit. What’s that little buddy? Fine. To be precise, Bandit saved my life again a few minutes later, by giving me some fresh fruit to keep me going. Although he might have just been hoping to score another cookie. No Bandit, I don’t have any more. You will have to ask Pax the next time you see her.
+
+Not long after, I ran into a furry dinosaur called the lurk and realized that I was a lot further away from home than I thought. I spent a few days learning how to survive in the wild and hit level two. That was when I was forced into the tutorial dungeon by the lurk and nasty bit of weather known as a searstorm. I was super under leveled for the dungeon, but for a bunch of reasons that made sense at the time, I decided to explore the Sewers of Kastilla anyway.
+
+I wound up killing a bunch of gross zombie ratmen, who were possessed by a creepy parasitic lifeform capable of destroying entire civilizations. I think it was called the crimson blight. I got beaten and battered and almost died on several occasions. I beat the rat boss by the skin of my teeth, which is where I picked up my trusty sword, leather jacket, and magic backpack. Yes Bandit, I’m sure you would have kicked his ass if you had been there.
+
+After an unplanned swim through shark-infested waters, I made it back to the Searing Isle, only to find out that the beach had sunk while I was exploring the dungeon. At that point, I had no choice other than to scout out the dangerous interior of the island, starting with the southern forest. I spent a few days training my skills and investigating the woods before I took on a pack of giant hyena-boars known as bonecrunchers. What Bandit? Yea, I really hate them too.
+
+With some clever traps and a bit of luck, I eliminated the pack and claimed their cave for my base, then got busy preparing for the tutorial’s final phase. I worked hard, leveled a bunch more, and raised my skills and attributes. I even wound up pulling a fast one over on the lurk to claim my first gold chest. That’s how I obtained my first ability, mana dart, which is a super cool spell if I do say so myself.
+
+During the tutorial’s third phase, the water rose again, forcing the beasts on the island to fight it out in the highlands, before we could climb the big mountain in the middle of the isle. With Bandit and the lemur tribe at my side, we had to battle a bunch of komos and more bonecrunchers. It was a brutal brawl, and we probably would have died if we hadn’t had our asses saved by a colony of giant spiders, who wound up being a lot friendlier than I expected.
+
+I got chomped on the knee by a cruncher, had a breakthrough with my mind and creativity, then had to climb the mountain while the island kept right on sinking. We made it up to the summit after a scarry reunion with the lurk and a giant squid monster I call the thing in the sea. On top of the mountain, we finally found the portal leading off the island. Before we could jump through, we had to endure a supersized version of a searstorm, which isn’t my idea of a good time, but we made it through in the end.
+
+When I leapt into portal, I found myself in some dude’s living room. Just before the curtain fell, Taltos, the Mad God himself, walked through the door. I totally didn’t see that coming, even if Bandit thinks it was obvious. Taltos made some cryptic remarks about the fate of the Earth and offered me a chance to get a better class, but I was cruelly cliffhangered before we could get to the good part.
+
+Ok, that’s it for today’s recap. Thanks to everyone who stuck with me until the end and to all of our readers who have supported us along the way. If you enjoyed this adventure and want to see more of it, kindly consider following the story, leaving a rating or review, or mentioning it to your friends. We can’t do it without your help. Anyway, see you in a few days, book two starts on 2/6. Bye for now.
+
+What Bandit? No, I don’t think the story would do that much better if you were the protagonist instead. Don’t complain to me little buddy, those decisions are way above my paygrade. What, my mike is still on? I need to press the button by the…”
+
+(This is Bandit's original size. The lemurs are bigger now.)

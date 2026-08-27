@@ -1,0 +1,115 @@
+---
+id: 4e4ec8b2-858b-5d50-b840-bd02022d3deb
+page-type-slug: story-chapter-royal-road
+title: "469. Spring Hunting"
+slug: 0020-469-spring-hunting
+partOf: leveling-up-the-world
+position: 20
+ownLength: 2083
+unit: words
+ownProgress: 2083
+publishedAt: 2022-04-22
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/892097/469-spring-hunting"
+royalRoadId: "892097"
+markedReadAt: "2026-06-29T22:40:50.190Z"
+---
+
+The change was subtle, like a firefly flickering near a fire. To someone with experience, however, that was more than enough. Splitting into five instances, Dallion dashed towards the cave entrance from several sides. The hedgerel paused. As a creature of magical nature, it was able to sense his presence along with the instances that were approaching it. Dull gray fur glowed up in bright orange in an attempt to ward off enemies. Moments later, that was accompanied by a burst of instances on the creature’s part as well. A wave of hedgerels appeared like a river filling up the cave, then rushed forward like a river of lemmings.
+
+“Gleam!” Dallion shouted.
+
+All but one of his instances vanished as the whip blade flew out of its sheath. The blade extended forward, slicing through the torrent of creatures as it split it into two parts. Half of the hedgerels disappeared in the blink of the eye. The others continued running forward, keeping their distance from the blade as if an invisible wall had emerged.
+
+So far so good, dallion thought.
+
+Normally, there wouldn’t be an issue capturing a hedgerel. The creatures were the size and shape of a squirrel, with hedgehog spines that had a tendency to glow when frightened. Most would call them harmless, but every now and then, there were exceptions as the one that had been terrorizing an entire region of Keliesh County. With several of the empire’s provinces engaged in open war against the neighboring countries, food was sent to the battlefield, not to mention that the crop poisoning incidents were still increasing, affecting a greater area of the continent. And it wasn’t only settlements that were suffering either. Parts of the wilderness, otherwise left to their own devices, had also been affected, along with the creatures that inhabited them. As far as Dallion was aware, three simultaneous hunts were ongoing through the empire itself, all led by nobles and battle clerics. That left all lesser nuisances to be dealt with by mercenaries and starting hunters.
+
+Remember not to use line attacks this time, Nil said. It’s not a good look to destroy mountains each time you’re on a hunt.
+
+I know. Dallion split into instances again, chasing after the hundreds of instances. The nature of the creature allowed it to split into so many of itself that even Dallion’s first teacher would have a hard time keeping up. That, however, didn’t matter. When it came to everything else, the hedgerel was quite a simple creature, so all of its instances pretty much did the same thing, running in the same direction one after the other.
+
+“Once more!” Dallion ordered.
+
+The whip blade swung again, halving the stream of instances. As the creature felt boxed in, its spines grew brighter changing into a bright amber, like the top of a candleflame. Focusing all effort on running, it stopped maintaining its additional instances, letting them vanish away a dozen at a time. This was precisely what Dallion was waiting for. The moment there was only one creature in front of him, he ran at full speed and snatched the animal from the ground.
+
+The first moment the hedgerel’s legs left the ground, the creature froze. Then in a fit of desperation it started fidgeting wildly in an attempt to break free. Unfortunately, that proved impossible. The thunder-hide gloves Dallion had procured himself—at tremendous expense—protected him from any spines and bites the hedgerel could offer. Holding it tightly, he shifted from a sprint, to a run, and then to a fast-paced walk, as he made his way to the outskirts of the nearby village of Vitanallia.
+
+“Is that the last one?” Dallion asked.
+
+Looks like. The whip blade compressed back to its original length. I’d be sure if I got a few more level ups, she said.
+
+“Gleam.” Dallion sighed.
+
+It’s the last one, she replied, annoyed. I’ll check.
+
+Gleam was one of Dallion’s familiars, whom he’d made guardian of the whip blade. In the real world she had no actual presence, only being able to move about through the weapon that Dallion had with him. In the world that was his awakened realm, however, she was a small, but increasingly beautiful and deadly shardfly with crystal wings. When he had first found the creature, she had been trapped as a guardian of a broken hand mirror, which served as a toy in a criminal gambling den. Since being freed, she had helped him to a great extent, although she kept insisting that Dallion help her improve her awakened level so as to regain some of the powers she used to have.
+
+A few minutes later, the whip blade returned and gently made its way into the empty sheath on Dallion’s back.
+
+There’re no more, Gleam said. We’re good to go.
+
+That was everything Dallion wanted to hear. Holding the hedgerel tightly, he continued walking.
+
+“Nothing will happen to you,” he said, adding some calm to his voice. “I just can’t have you guys eating all the food there is.”
+
+That made the animal pause a bit. In a while—seeing that there was no way to escape—it stopped fidgeting. Dallion would have preferred that it stopped doing so on its own accord, not do to an obvious threat, but still he’d take the win any way he could.
+
+It was roughly an hour’s walk to Vitanallia. The village was rather large, some would even mistake it for a town. At any other time, they would have been, but the archduke of the entire provinces had recently declared that no settlements could increase their level without an official permission from him. Given that response was pretty much known before even any request was even made, all minor nobles in towns and villages had preferred not to bother at all.
+
+It's a real shame, Nil said from within Dallion’s personal realm. If the village was allowed to become a town, they’d have food to spare in a few years. Not to mention they’d be able to deal with a threat such as this on their own.
+
+Dallion didn’t respond. He agreed with the notion, but knew from personal experience that it was better not to meddle in the affairs of nobles. As the saying went, one tended to easily lose his name and head in such circumstances. At present, there had been two cases of nobles making their objections known publicly on the matter. No one knew who they were, for the archduke had used his awakened powers to erase their names from the entire province. No person, creature, or book could remember those names since they had been stricken out of reality itself.
+
+Upon nearing the village, Dallion slowed down, giving the guards a chance to spot him approaching. It was stupid, be if he didn’t the people would be alarmed as he had seen the previous few times. And just to make sure he waved in their direction. A short while later, the guard on the village wall responded.
+
+Ok, there’s that, Dallion thought. Now to business.
+
+The village gates opened widely, however, instead of a grateful crowd, only two people emerged. Both of them were awakened—probably the most powerful people in the village—and both had mixed feelings about Dallion’s involvement. Thanks to his music skills, Dallion could feel their internal conflict. On the one hand, they were relieved that the last of the creatures ravaging their crops had been caught. On the other hand, Dallion had cost a lot, even if he were only an apprentice hunter.
+
+“Here’s the last one,” Dallion raised the creature in his hand. “You should be good from here on.”
+
+“Unless some other plague doesn’t hit us,” the village chief grumbled. She was old enough to be Dallion’s grandmother, but her awakened powers made her appear in her mid-forties. By Dallion’s estimate, she was a double-digit level, though below twenty. Not bad for someone in a village, strictly speaking.
+
+The woman glanced at the tall slender man next to her. Getting the hint, the man took out a small pouch from within his vest and tossed it to Dallion.
+
+“What we agreed upon,” he said. “The guards will bring the basket with the rest shortly.”
+
+“Much appreciated,” Dallion smiled.
+
+“I still don’t know what you need with those pests. They are a blight. Nothing good will come from them.”
+
+“Even creatures like those deserve to live,” Dallion replied. “Don’t worry, I won’t set them free anywhere near. You have my word by the Seven Moons.”
+
+“My the Seven.,” Both the village chief and her assistant nodded.
+
+“I still don’t know what good they’ll be. If I were younger, I’d hunt them down myself.”
+
+“And you would have managed, given a bit more time.” Dallion smiled, adding a note of cooperation in his voice. One of the best advantages of knowing music skills was that he could see and affect the emotions of others. The trick was to be subtle about it and never abuse his powers. “You’ll let the rest of the villages know?”
+
+“Of course.” The woman crossed her arms. “Although if you’ve done your job well enough, they’ll notice without my help. I just hope we managed to stock up on food before the poison plague hits. From what I heard it’s moved further north, but who knows. You can’t trust anyone these days.”
+
+“You can say that again.”
+
+It had been half a year since the plague had appeared and still no one knew anything about it. The Academy of mages denied any involvement and refused to look into the matter with the excuse that it wasn’t their problem. The Order of the Seven Moons had tried to help the affected population—within the empire and beyond—but even they hadn’t progressed much. The cause for plants suddenly becoming poisonous remained a mystery; all the clerics and followers could do was to take safe food to the people who needed it. Even the large cities were getting concerned. So far, there was no case of one being affected, but everyone whispered that it was a matter of time. Even Dallion had to rely on his bowl guardian to be sure the food he was eating was fine.
+
+“Any other jobs you have for me?” he asked.
+
+“No, and even if I didn’t, I wouldn’t be able to afford you. No offense to you hunters, but you cost more than half the buildings in the village.”
+
+“Hunter’s code,” Dallion replied. As much as it pained him, there were some things he couldn’t go against. Hunters remained mercenaries, and mercenaries had to stick to firm prices. “In that case I’ll be on my way. The Seven be with you.”
+
+The village chief nodded, then briskly turned around and returned back to her village. A few moments later four guards emerged, carrying a large backpack and an even larger basket made of metal. The sound of squirrels was coming from the basket. When Dallion approached though, all the noises died out.
+
+“It’s fine,” he said as he split into a dozen instances and gently removed the cover. Surprisingly, none of the creatures made any attempts to escape, leaving him to release his final capture inside. Once the cover was closer and secured again, the noises continued. “I’ll take it from here,” Dallion told the guards as he took the backpack with the rest of his gear. With a swift action, he put it on his back, then grabbed the metal basket with one hand. One of the many advantages of being awakened was that he had the strength of a dozen oxen.
+
+I had to say this, dear boy, but the woman was right, Nil said. What will you do with all those creatures? Start a carnival?
+
+I’ll learn to talk to them for one thing, Dallion replied, suppressing a chuckle. After that, we’ll see.
+
+Well, you’ll have to learn on the way. There’s been a development in the Icepicker guild.
+
+Dallion paused. The Icepicker guild was the one which had taken him in after he had left his home village for the big city. Certain events had caused him to leave them, almost breaking ties with a few people. Even so, he kept informed of what was going on thanks to Nil, who was an echo of one of the captains there.
+
+What happened? Dallion asked.
+
+I can’t tell for certain, but it seems the guild master has asked to see you. And so has March.

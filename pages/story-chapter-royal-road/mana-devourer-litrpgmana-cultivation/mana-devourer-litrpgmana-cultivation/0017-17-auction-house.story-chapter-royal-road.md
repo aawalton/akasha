@@ -1,0 +1,191 @@
+---
+id: 6b8ae446-dbe9-5bcc-95ff-92e7b80333f0
+page-type-slug: story-chapter-royal-road
+title: "17.  Auction House"
+slug: 0017-17-auction-house
+partOf: mana-devourer-litrpgmana-cultivation
+position: 17
+ownLength: 3123
+unit: words
+publishedAt: 2024-07-07
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1708643/17-auction-house"
+royalRoadId: "1708643"
+---
+
+Markus hastily distributed points into his attributes as the cart roughly bumped the uneven surface below, the group of them being dragged along with no approximation of a destination in sight, only whatever their imaginations could conjure.
+
+“I was right. I told you, I was right…” Daven muttered.
+
+Another man sobbed freely. A woman whispered soothing words to another.
+
+Markus blocked it all out. He focussed on the screen in front of him.
+
+Thankfully, it didn’t seem to have drawn any attention. He was pretty sure the blue light the system boxes generated was something that radiated out into the world, but the screens themselves could only be viewed by him.
+
+[Name: Markus Brown]
+
+[Class: Otherworlder (Earth) (Tier: Novice 15)]
+
+[Health: 294/435]
+
+[Mana: 1803/1890]
+
+[Strength: 22]
+
+[Agility: 30]
+
+[Arcana: 10]
+
+[Constitution: 50]
+
+[Spirit: 70]
+
+[???: 0]
+
+He had 19 free points and 22 regular. He’d levelled in his fight with Cyrus, and while he’d yet to spend the points, he still had two Essence Stones on his person, one partially filled with Mystic Mana but otherwise empty, the other entirely filled with whatever Blood, Life, Spirit, and Frost Mana he couldn’t keep on his person.
+
+He kept his mana near its maximum on purpose. He wanted to be able to draw himself over his limits again quickly if he needed to, and also with limited means to store the excess he developed, Markus didn’t want to be at low mana and deal with the increased mana regeneration that afforded him.
+
+Even still, he was planning to raise himself over his limits soon enough, and clutched an Essence Stone in his hand as he mentally spent his points, attempting to find an appropriate way to dole them out.
+
+He put Strength up to 30. Made sense. That glaive always felt heavy when he first started using it, and while it seemed to get lighter and easier to wield the more he swung it, something to do with the malichor it was made from, he didn’t want to bank on fights going long. There was no guarantee he’d get to make five slow warmup swings, after all.
+
+He bumped Constitution again, this time to 60, making use of his free points and increasing his mana maximum to 1910 in the process. If he could survive a little longer in combat, that boded well for him, and each point of Constitution was only making his Respite passive even better.
+
+Hell, he could feel the effects already, the passive regeneration pumping through him as he shuddered from the sensation of his body improving once more. It was slight, but noticeable, and the improvement was most definitely tangible.
+
+He still hadn’t gotten used to that feeling. It almost made him forget where he was, how much peril he was in.
+
+Markus drained a small touch of mana from the stone, something to replace the bit he was now missing from his maximum being increased, still hovering under 100% purposely, ensuring he didn’t cross the boundary.
+
+Overcharge came with a prominent blue-white glow. It was hardly inconspicuous down here in the dark, and using it invited other dangers to boot. He needed to keep a lid on his mana while he didn’t know what was gonna happen next, rather than give the game away now and start a commotion.
+
+They were isolated here, sure, and there was a chance Markus could take both the imps and the troll together, but they were in the middle of a monster-infested cavern from the looks of things, and it sounded like the torch the imp weilded was the only thing keeping the monsters at bay. That wasn’t a situation Markus wanted to initiate combat in. Like it or not, waiting seemed best.
+
+And so he looked over his remaining points: 9 free, 14 regular.
+
+Bump Constitution again? Agility?
+
+Spirit was risky here. More mana felt great in preparation, but it needed time to generate, seeing as it only increased his capacity. The other benefits of Spirit were helpful day to day, but Spirit definitely wasn’t something he wanted to dump into ahead of a combat situation, and neither was Arcana. Maybe if he had a spell or ability that was modified by either, he’d feel differently.
+
+It was Constitution or Agility. Those were the only choices that made sense. He was leaning more towards Constitution just because of the free points he could use on it, but while he mulled over the results of each decision in haste, the cart lurched once more, and they headed over a bumpy krag towards a narrow, torchlit tunnel, angling further and further away from the dungeon above.
+
+As they reached this point, the imps ahead seemed to relax a little, though they still spoke in clammy and rushed voices, sometimes walking in silence for long stretches.
+
+This path definitely led somewhere. They’d be at their destination soon. Markus needed to make a decision, and fast.
+
+He raised his Con to 70, then dumped the remaining points in Agility, bringing it to 43. His stats were looking a touch more rounded for once, and this was the first time he’d had another stat high enough that it rivalled his Spirit score. He felt confident when looking at the numbers that represented his power. Sure that while he was still learning how to properly be a warrior, he wasn’t down and out fucked here, no matter what got thrown at him.
+
+After all, impossible situations were something he was beginning to get used to. In three days he’d seen more peril than a hangglider in a hurricane.
+
+Markus heard another roar from ahead, and steeled his nerves as best he could. Yeah, he felt pretty prepared considering the situation. Didn’t stop it from being scary.
+
+Especially with the wailing and yammering of the other prisoners. It wasn’t all of them, but the sounds of even two or three were enough to become distracting pretty damn quickly.
+
+He tried to keep a positive attitude. Even the guards had stopped trying to quieten those in the cart. Maybe they didn’t care so much now that the danger from the path behind them had passed.
+
+If that was the case, maybe Markus should attack now. Quickly, while the three of them felt relaxed and at ease.
+
+No, it was still too risky. He was sure he’d beat them with Overcharge in this narrow space, especially with the drop on them, but then what? Press on with the prisoners? Not like going back was an option. Someone would surely spot them, assuming they didn’t get eaten in the caves, and Markus didn’t even know if that ramp they’d travelled down could be lowered from the bottom. What if these guys were too wounded to climb the long set of stairs?
+
+Besides, he wanted to know where this led. It was the only way to determine if there was an actual way out through here, and if this path did in fact just lead to more hellspawn waiting for them on the other side, Markus very much doubted he could pass for an imp or troll, and so he refrained from attacking.
+
+Daven insisted once again that they were all going to die as the tunnel on each side of Markus finally began to widen. He peeked his head up, finding that the exit beyond seemed to open up to an extremely large cavern, one that seemed to have been partially excavated and refashioned into a room of sorts, though he couldn’t make out much detail from here.
+
+Further on, he could hear a loud, powerful roar, much like the one he’d heard previously when passing this place.
+
+Beyond that, however, he could hear voices. And… music?
+
+They were faint, and Markus didn’t have the perception to quite pick up what they were saying, but he was sure that at least several pairs of voices were chattering amongst themselves over the sounds of monsters, and perhaps even more than that. They sounded casual, conversational, perhaps a tad reserved.
+
+They didn’t sound like guards. They weren’t rough, crass, loud, or any of the behaviours he’d come to recognise from most of the workers he’d met here. He could be wrong, but regardless, the impression he got from the voices was one of status.
+
+Then, Markus heard from between the gaggle of voices ahead the words ‘bidding’ and ‘auction’, and his ears pricked, the hairs on his arms raising.
+
+Maybe, just maybe, these prisoners had been told the truth. Maybe someone had come to buy them all. It seemed to almost beggar belief, but Markus knew nothing. These people could be brilliant mages or leading scientists or experts at trades. They could have a high inherent value and be worthy of a private auction, rather than the more wholesale market that seemed to operate opposite the tavern in the dungeon’s main hall.
+
+Perhaps this wasn’t something to get so worried about after all. It was still a problem, and still something Markus would try to intervene with if given an opportunity, but it at least might be a bit less of a dangerous problem than he’d first expected.
+
+“Ladies and gentlemen, may I… Have. Your. Attention?”
+
+The voice sounded as soon as Markus and his cart were dragged into the room. The torches all around him seemed to dim a little, almost of their own accord, and the sounds of music in the background immediately disappeared. Whoever the owner was, the voice they spoke in was rich, silky like satin, and exquisitely dark.
+
+Hushed whispers overtook the previous loud yammering as their owners shuffled into seats and settled down. Markus peeked over the edge of the cart, one hand still on his Essence Stone, the other grasping to make sure he still knew where his glaive was.
+
+What he saw made him gasp. He blinked twice, waiting as his eyes adjusted to the lower light to try and ensure he was seeing things clearly.
+
+Whoever it was that was stood on the centre podium, speaking out to the sitting crowd, it was definitely a demon, and it most certainly wasn’t Drathok. This guy had about two feet on him, and was about twice as broad around the shoulders, which were covered by a red and black two-piece suit. He had grey, curved horns that must’ve been a foot long at least, not to mention a pair of leathery red wings that furled neatly around his back, their tips cresting just past the tip of his shoulders.
+
+He was nothing like the other monsters Markus had encountered so far. He was the most handsome creature Markus had seen since arriving besides a god, and even rivaled one or two of those. He smiled, revealing two rows of immaculately sharp teeth, and resumed his speech, every voice finally falling silent at once, enraptured by his presence. Even the cries from the cart abated.
+
+“Why, it is so lovely to have you all here, to be able to host a soiree with such esteemed guests, and yet, the fun hasn’t really started yet, has it?” He grinned, pointing a finger out at the small crowd. “All of you are exceptional patrons in your own right, the beating heart of Sun City, the reason that a humble creature such as I is able to run such a captivating show upstairs, as well as afford such… elegant company.”
+
+There were claps, a couple of cheers. Markus glanced over to the crowd one more, staring closer this time. All of them looked both well-dressed and well to do. Of the residents of Sun City, these must’ve been some of the most powerful and influential, or at the very least, the ones most willing to spend money.
+
+The demon put the back of a hand to his mouth, lowering his voice a little. “Well, and the wives of such elegant company.”
+
+Laughter, complaints, and small, playful arguments between the crowd erupted as the demon laughed at their response, his voice booming through the large chamber.
+
+“The husbands too!” one woman shouted, who looked to be dressed in a suit herself and had all the fierceness of an oligarch about her.
+
+“Hah, yes! The husbands too, Lady Shalz.” He cleared his throat as the laughter began to settle. “The point is, being able to indulge myself with the presence of such wondrous people brings joy to my heart, and I am thankful to each and every one of you for taking the time to join me this evening.”
+
+“Happy to be here!” came a strangely accented voice, somewhere further into the crowd.
+
+“Yes, and I am so happy to have you here, Prince Salthor!” The demon leaned forwards, looking between each member of the crowd one by one, establishing that connection. “Now, I promised you festivities, entertainment, and the chance to bring something special home with you that you’d be truly pleased with, did I not? A chance to participate in this most exclusive of auctions, with a guarantee that the proceeds would be going to a fabulous cause.”
+
+“Your pocket isn’t a fabulous cause, Elasar!” another audience member jeered, encouraging more laughter from everyone, including the demon, apparently named Elasar.
+
+“Alright, I might’ve lied about the fabulous cause, but everything else I promised is just that. I told you that you would be amazed by what I presented to you here, creatures unlike any we showcase in the arena, creatures both created and refined by me personally to suit the desires of any enthusiastic collector!”
+
+A step to the side, a wave of his arm, like that of a magician about to reveal something hidden in his hat, and the podium he stood upon faded away, as if it had never existed there to begin with.
+
+The torches lit up, the massive depth and area of the place was revealed in its entirety, and in the distance, a massive iron gate could be seen. As if reacting to the increase in light, something began to bang and smash against the gate, agitated and unruly.
+
+“Now, as I’ve said, each creature here is one of a kind, but that doesn’t mean there isn’t something for everyone! That said, I’ve decided to begin the showcase today with something special I concocted recently. Prepare to witness our first wonder, the trimander!”
+
+With that, the gate swung open, as if by magic, no mechanism used whatsoever. A burgeoning tension began to take over the crowd as a massive six-legged creature ran out of the small space it’d been contained in, sprinting straight in the direction of the audience and screeching horribly as it did so.
+
+As soon as it made it more than two-thirds of the way across, looking fully intent upon decimating every person in sight and fully capable, Elasar snapped his fingers once, causing the creature to immediately skid to a halt and sit calmly in place, awaiting further instructions.
+
+“Incredible…” breathed one member of the crowd as yet more of them began to relax from their recent bout of terror. “How was it made?”
+
+“Oh, a little bit of blood magic, a proprietary demon ritual or two, some selective breeding of fire salamanders and other elemental creatures… I’m afraid I can’t be too specific, but needless to say, the trimander is one of a kind! Or, I suppose you could say ‘three of a kind’.”
+
+Markus stared at the creature to the left of Elasar, which, true to his words, had three fucking heads, and each of them was about the size of Markus’ torso. It almost looked like a patchwork creature, if not for the lack of awkward Frankenstein stitches, with a green head, a red head, and a blue head all morphing into a body that constantly changed colour and hue.
+
+It was like an unholy mix between a hydra and a chameleon, its body four feet high and easily twelve feet long, the heads reaching higher than even Elasar did at seven or eight feet tall. The creature continued to remain still as Elasar spoke, not even screeching, as if it were totally placid and calm.
+
+“Naturally, I have tamed this creature in its entirety, but I have also taken the liberty of crafting a Ring of Control for whosoever might purchase the creature, ensuring you won’t have to waste any time teaching it to beg or fetch.”
+
+More laughter. More stares. Markus wondered what the fuck this thing might beg for. A ‘treat’ for it would probably be a full stable of horses.
+
+“Show us what it can do!” one patron insisted, his voice childish and gleeful.
+
+“Of course! That’s exactly what these are for!”
+
+As he spoke, Elasar grabbed the cart with an exceptional show of magic, levitating it multiple feet into the air and dumping it about ten feet away from the trimander. Markus looked around him, heart pounding, and found that the bindings had been slipped away from everyone around him, and each of them were scrambling to pull the coverings off of their heads.
+
+“Now, I’m afraid I must attend to a private matter for the next half hour, so my wonderful associates will handle the bidding on this creature.” A short laugh. “I thought it’d be fun if the bidding commence now! Start somewhere small… say a hundred thousand gold?”
+
+“A hundred-fifty!” someone immediately shouted as the trimander stirred, spitting flames from one of its heads.
+
+Markus grabbed his glaive as he and the other prisoners scrambled to their feet. He hadn’t been singled out from the rest of the crowd as someone not meant to be there, but he seriously didn’t think it mattered anymore. Just what in the fuck had he gotten himself into?
+
+“Also, a big thanks to our helpers today! This demonstration would be impossible without all of you!” He paused. “Or rather, it would be impossibly dull… Anyways! I bid you all adieu, and happy bidding!”
+
+“One-seven-five!” a burly voice roared, rivalling the blood-curdling screech of the trimander the second Elasar left. Was that… acid dripping from its third head?
+
+“Wh-what the fuck… what do we do?!”
+
+“Told you this would happen.”
+
+“Not now, Daven!”
+
+Markus leapt on top of the cart, grabbing his glaive in both hands, staring down the new threat he’d come to face, an experimental monster that he and his fellow prisoners had literally been put here to be eaten by.
+
+Couldn’t say his life was dull.
+
+“Get behind me!” Markus shouted, absolutely zero plan in mind, draining just enough mana from the Essence Stone as he did to tick him back over where he’d been hovering at 99% and push him into Overcharge once more.
+
+“What the fuck do we do behind you?!”

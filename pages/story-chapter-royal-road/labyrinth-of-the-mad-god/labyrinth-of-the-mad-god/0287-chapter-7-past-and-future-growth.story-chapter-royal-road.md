@@ -1,0 +1,317 @@
+---
+id: 5324fb6b-3c27-541c-957d-51bdd4bd9698
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Past and Future Growth"
+slug: 0287-chapter-7-past-and-future-growth
+partOf: labyrinth-of-the-mad-god
+position: 287
+ownLength: 2880
+unit: words
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3084952/chapter-7-past-and-future-growth"
+royalRoadId: "3084952"
+---
+
+Nick cast his senses into the distance to make sure they were still alone, then pulled up his updates to check out his gains.
+
+Congratulations. You have accumulated enough experience to reach level [37].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+You have 2 free attribute points awaiting allocation at your discretion.
+
+By pushing yourself to the limit in the midst of a deadly battle, you have improved the following baseline attributes:
+
+Dexterity has increased from [22] to [23].
+
+Toughness has increased from [23] to [24].
+
+Through use, you have improved the following skills:
+
+Light Armor has increased from [6] to [7].
+
+Light Shield has increased from [21] to [23].
+
+Sword has increased from [30] to [31].
+
+Stealth has increased from [5] to [6].
+
+Note: You may not increase your Evasion, Size Up, and Wand skills beyond 25 until you complete the trials of mastery.
+
+You have accumulated sufficient essence to advance Heavy Blow to Rank 2. However, you lack the understanding required to advance the ability at this time.
+
+That’s what I’m talking about. While Nick had deeply enjoyed his time on Earth, he had only engaged in a handful of battles since returning to the world of his birth. It was a welcome change of pace after surviving one terrifying ordeal after the next, and rebuilding human civilization from the ground up had been the most rewarding experience of his life.
+
+However, part of him had been growing restless over the last few weeks. While he cherished peace and had no love of war, he needed to grow stronger before the year of protection came to an end and the entrances to the Labyrinth opened for good. If he wanted to defend his planet and protect the people he loved, he needed to do everything in his power to advance at a rapid rate.
+
+Though training and experimentation would always be valuable, one aspect of life in the multiverse had been made abundantly clear by this point—the System’s primary directive was strength through conflict.
+
+The intergalactic AI offered rewards that were proportional to the challenges involved. That meant the fastest way to grow was surviving dangerous situations with high stakes, and nothing was more hazardous than fighting with his life on the line.
+
+Nick wasn’t willing to slaughter innocent people or beasts to streamline his advancement, but he had no qualms about slaying monsters. Creatures that had been mutated by the Labyrinth into twisted mockeries of their former selves and instilled with a relentless drive to consume.
+
+Based on what Bandit said, the dreadbeasts are even worse, and a potent source of essence to boot. He listened to his companions shift in their sleep while pondering his goals for the short-term. I’m not ready to take any tests of mastery just yet, but I’ll talk to Kenji when he wakes up and see if he can help me prepare for my Evasion trial and has any insight into Size Up.
+
+On the abilities front, Nick needed to earn more essence before he could rank up Mana Dart, Force Riposte, and Force Acceleration, but he had enough to advance the rest. What he lacked was the requisite understanding. However, he was making rapid progress with his mana manipulation, thanks to all the hard work he’d put in over the last few months developing mage sight and mana weaving.
+
+His proficiency was increasing faster than ever after gaining Vital Energy Manipulation from Team Earth’s faction bonus, and he was confident that he could advance every spell he knew before they reached the quarantine zone.
+
+He hadn’t devoted nearly as much time to developing his stamina control, but Energy Manipulation helped with it too. After watching Kenji and Lurk fight, he was certain they could teach him far faster than he could learn on his own, although he wasn’t sure if the dino would be willing to help until they improved their relationship.
+
+Moving on, his baseline attributes were growing at a steady pace, and Nick was looking forward to the milestone bonuses he would receive when he took them to twenty-five—the cap for his species grade.
+
+I hope I can cap them all before I evolve to Grade-C; I bet the bonus is fantastic. Charisma is going to take some work, but I can ask Liz to tutor me when we make it back to Aurora. I want to spend some quality time with her anyway, and it will come in handy in my role as faction leader.
+
+That train of thought filled his mind with images of the woman in question—of the day they spent together after confessing their feeling for one another after holding back for so long. Nick had been in a few relationships before and had learned to love Sophia over the course of their adventures. But this was his first time being head-over-heels in love with another person, thanks to the innate compatibility that been revealed by their psychic bond.
+
+Thinking about both women put a smile on his face. While he was worried about Sophia, he had faith that she would prevail against her demon and return home safe and sound. He wasn’t sure how to square having feelings for two different people, but that was a problem for another day.
+
+That brought him to the final items on his list—spending his free points and pondering his Concept in preparation for ascending to tier two.
+
+Going by what Bandit had told him and what Nick had sensed during his battles with the Janitor, Alma the pirate captain, the Guardian of Darkstone Tower, the Armada Wurm, and most recently, the elite crayfish monster, he had the sense that Concepts arose from taking the disparate elements an entity’s fighting style—their skills, mana affinities, abilities, and traits—and merging them into a unified whole that was more than the sum of its parts.
+
+Bandit’s situation was unique, since he had been inundated with an overwhelming volume of shadow and fire essence after defeating the tiger king. Fortunately, the lemur was compatible with both energies and had been able to assimilate them on the spot, advancing to the next tier instead of being infected with the dreadbeast’s taint.
+
+While Nick might encounter something similar in the quarantine zone, he was hoping to form his Concept without imperiling his soul in peril in the process. Surviving the Crimson Blight was enough for one lifetime.
+
+Regardless of the details, the first step was getting a better idea of what kind of Concept resonated with him. He had grown quite fond of using both pure and force mana and fighting with a sword as his primary weapon. But he could already tell that wasn’t sufficient.
+
+He had a hunch a Concept wasn’t just about how he wanted to fight, but what kind of person he wished to be—the life he wanted to live as he pursued his path of power to the lofty peaks, which were still shrouded in haze from the foot of the mountain he trod.
+
+There was something about his latest upgrade to Mana Dart, which turned his enemy’s own energy against them, that he found deeply appealing, as well as the Ever-Surging Blade he’d learned from Rita. However, he couldn’t see a way to fit them together or combine them with the other parts of his skillset. The more he tried, the harder it was to hold onto that tentative feeling of connection, and he eventually gave the exercise up as a lost cause.
+
+Since he wasn’t nearing a breakthrough just yet, he tabled the matter until he got some rest. Nick moved on to deciding how he wanted to spend those points, since saving them in the middle of a monster-infested maze wasn’t a smart idea.
+
+Magic was his top priority, and his Mind and Creativity weren’t as high as he’d like. That being said, he gained a point of each attribute every time he leveled Force Weaver and still had some conditioning to do, so all three attributes should continue climbing over the days ahead.
+
+He planned to put more points into Psi over time. He wanted to bolster his psychic defenses, enhance Size Up and Predatory Domain, and eventually learn how to read minds and travel as a thoughtform double.
+
+But right now, he was on the most dangerous quest he’d ever undertaken and needed to pick something that would improve his odds of survival here and now and when it was time to try his luck against the dreadbeasts lurking in the quarantine zone.
+
+In the end, he decided to go with an old friend, since investing in it so heavily early on was the only reason he was still alive. “I would like to put two points into Toughness, please.”
+
+When he voiced his intentions to the System, his body grew warm. At the dawn of his adventures, spending free points had been incredibly intense. But now that his attributes were so high, it wasn’t nearly as bad. He felt his muscle fibers squirming as his tissue softened—bonds breaking down before reconnecting to form a new, more resilient configuration.
+
+When the changes were over, Nick pulled up his profile to consider his growth.
+
+Contestant Profile: Nicholas ‘Nick’ Henry.
+
+Level: 37.
+
+Tier: 1.
+
+Species: Human of Earth. Grade: D.
+
+Class: Force Weaver (Rare).
+
+Attribute Points Per Level: +1 Magic, +1 Creativity, +1 Mind. +2 Free Points.
+
+Attributes
+
+Strength: 22 (30)           Dexterity: 23 (40)          Toughness: 24 (43)
+
+Mind: 20 (41)                  Creativity: 17 (34)         Charisma: 15 (17)
+
+Magic: 20 (78)                Psi: 9 (28)                        ???
+
+Abilities
+
+Ability Slots: 2 Active. 1 Passive. 1 Free.
+
+Filled Slots: 2 Active. 1 Passive. 1 Free.
+
+Note: Only abilities granted by ability stones and unranked abilities retained from previous classes require slots.
+
+Active Abilities
+
+Arcane Shield (Spell). Rank: 1. (You have enough essence to advance the ability to Rank 2 but lack the understanding required to do so).
+
+This spell creates a barrier formed from interwoven layers of force and pure mana. As a result, it can defend against most forms of attack. This barrier can be placed anywhere within 50 feet of the caster’s position but must be manually repositioned with an effort of will.
+
+Force Riposte (Spell, Combat Art). Rank: 0.
+
+Absorb the kinetic energy from an incoming blow when it touches your weapon and add it to your next attack. The attack must occur within 1 second or the effect will be lost. (This ability requires both stamina and mana to activate).
+
+Mana Dart (Spell). Rank: 4. Path: Vital Energy Disruption.
+
+Creates a magical projectile formed from pure mana that disrupts all forms of vital energy (health, mana, and stamina), turning them against the spell’s target.
+
+Heavy Blow (Combat Art). Rank 0. (You have enough essence to advance the ability to Rank 2 but lack the understanding required to do so).
+
+Heavy Blow consumes stamina to imbue a weapon strike with extra inertia, increasing its destructive potential.
+
+Piercing Ray (Spell). Rank: 1. (You have enough essence to advance the ability to Rank 3 but lack the understanding required to do so).
+
+Creates a rotating drill of force mana. The spell moves fast but takes time to reach full power.
+
+Passive Abilities
+
+Force Acceleration. Rank 2. Path: Kinetic Projection.
+
+Drastically increases the speed of movement in exchange for draining mana at a rapid rate. (This ability may be turned on and off at will.) After deactivating the skill, most of your kinetic energy will continue to travel in the direction you were moving, dramatically reducing your momentum
+
+Traits
+
+Class Traits
+
+None. (The trait for this class has been incorporated into your bloodline).
+
+Geneline Traits
+
+Awakened to Magic (Enhanced)
+
++1 to Magic. 10% increased mana capacity and rate of regeneration.
+
+Blend into the Background (Enhanced)
+
+Blend into the Background generates a potent layer of optical camouflage for up to one hour each day. The effect also masks body heat and reduces sound and scent to a lesser extent.
+
+The trait can be switched on and off at will, and these effects take 5 seconds to reach full power. The trait will not function against a creature that knows exactly where you are.
+
+Gift of Tongues (Enhanced)
+
+You can understand and speak the languages of all intelligent creatures. This trait is inheritable and will be granted to all members of your species in perpetuity.
+
+Versatile (Enhanced)
+
++1 to all attributes. +1 free ability slot. 15% increased rate of skill improvement.
+
+Bloodline Traits
+
+Filled Bloodline Slots: 4. Open Bloodline Slots: 6.
+
+Blightborn: Your bloodline trait capacity has doubled. +2 to all attributes.
+
+Force Adept (Enhanced): You receive a significant bonus to mana efficiency and scaling from energetic attributes when casting spells that use force mana, and a modest bonus to those using pure mana. Force Adepts are unable to cast elemental spells and receive a substantial penalty when manipulating elemental-aspected mana in any way.
+
+Survivor (Enhanced): You require 50% less food, water, oxygen, and sleep.
+
+Mana Manipulation [Non-Elemental]: Increases your sensitivity to non-elemental mana, making it easier to perceive and manipulate. This includes both the mana originating within your core and the ambient mana present in the environment. Mana Manipulation is helpful when creating original spells that are not granted by the System.
+
+Profession
+
+Trailblazer (Uncommon).
+
+Trailblazers specialize in exploring the multiverse and surviving in uncharted territory, with a lesser emphasis on surveying dangerous biomes. (This Profession is only available to newly-integrated species).
+
+Skills: Foraging. Pathfinding. Size Up (Evaluate Threat). Stealth. Tracking.
+
+Trait: Storm Chaser.
+
+Storm Chaser grants its bearer the power to sense weather patterns, especially dangerous and magical variants. It will help them notice changing conditions early on and may provide some insight into the nature of the danger.
+
+Factions
+
+School of the Ever-Surging Blade (Initiate)
+
+Faction Level: ?. Faction Size: ?. Faction Leader: ?.
+
+Faction Bonus: Sword skill is unlocked with no cap, regardless of class.
+
+The Promethean Coalition “Team Earth” (Founder)
+
+Faction Level: 1. Faction Size: 3 settlements. Faction Leader: Nicholas Henry
+
+Faction Bonus: Vital Energy Manipulation skill is unlocked with a cap of 25, regardless of class.
+
+Titles
+
+First Among Equals
+
+Effect: Receive a 10% bonus to experience, essence, and skill gains acquired from any activity that benefits the members of the Promethean Coalition.
+
+Techniques
+
+Arctic Clarity
+
+You may enter a state of extreme focus at will, shutting out external distractions, intense sensations, and undesirable emotions. This power will not function at full strength if it has been used recently.
+
+Predatory Domain
+
+You can project your killing intent and indominable resolve to assault the minds of your enemies.
+
+Portal Visionary
+
+Your consciousness has a natural propensity to resonate with the energy of the cosmos, which manifests as visions. Other situations beyond experiencing the portal network may trigger this technique.
+
+Theater of the Mind’s Eye
+
+You can visualize memories, objects, and mental models with a remarkable level of clarity and precision.
+
+Skills
+
+Active Skills
+
+Acrobatics: 10
+
+Evasion: 25
+
+Foraging: 15
+
+Light Armor: 7
+
+Light Shield: 23
+
+Pathfinding: 0
+
+Size Up: 25
+
+Stealth: 6
+
+Sword (Journeyman): 31
+
+Blade-Weaver: Wielding a sword requires significantly less stamina. This includes both the natural drain from moving your body and the cost of activating combat arts.
+
+Tracking: 11
+
+Vital Energy Manipulation: 7
+
+Wand: 25
+
+Inactive Skills (Inactive skills may be used but not improved.)
+
+Throwing: 9
+
+Inventory (Uncommon and above)
+
+Blightbane (Legendary). Modifications: Living Artifact. Soul Forged. Blade World.
+
+Adventurer’s Coat (Rare). Modifications: Durable. Self-Maintenance. Elemental Resistance. Force Distribution.
+
+Bag of Molding (Rare).
+
+Battlemage Armor (Rare). Modifications: Self-Maintenance. Durability. Flesh Guard. Otherling Resistance.
+
+Battlemage Helm (Rare). Modifications: Self-Maintenance. Durability. Transparency. Mind Guard.
+
+Elixir of Restoration (Rare). Modifications: Soulbound.
+
+Explorer’s Boots (Rare). Modifications: Self-Maintenance. Durability. Elemental Resistance. Sound Dampening. Enhanced Leap.
+
+Wand of Force (Rare). Modifications: Soulbound. Skill Activation (Wand). Living Artifact.
+
+Arena Dagger (Uncommon). Modifications: Eversharp.
+
+Adventurer’s Toolbelt (Uncommon). Modifications: Self-Maintenance.
+
+Pugilist’s Gloves (Uncommon). Modifications: Durable. Self-Maintenance.
+
+Cloak of Thermal Regulation (Uncommon). Modifications: Self-Maintenance.
+
+Caster’s Buckler (Uncommon). Modifications: Durable. Self-Maintenance. Magic Resistance.
+
+Half-Length Scabbard (Uncommon). Modifications: Durable. Self-Maintenance. Quickdraw.
+
+Short Sword (Unidentified).
+
+It was always satisfying to contemplate how far he’d come since waking up alone on an empty beach with his memory in tatters.
+
+It made him wonder whose gaze he would meet in the mirror years from now—if he would even recognize the person he became. Somehow, he was certain that no matter how much he changed over the course of his ordeal, he would always remain true to himself. Be proud of the man he had been and look forward to meeting his future self.
+
+On that note, Nick was happy with the path he had chosen, and he enjoyed his new life deeply.
+
+Despite everything—all the suffering and loss he’d experienced since the System arrived and erased the world that was—he woke up every day filled with wonder, awestricken that magic had become an integral part of his life and gratified to work alongside such an amazing collection of individuals.
+
+He brought his musings to a close when he realized Kenji was awake, which meant it was his turn to get some shuteye.
+
+While he wasn’t as skilled in the arts of slumber as the veteran warrior, Nick had lived in the wild long enough that a bedroll over concrete felt relatively comfortable, and he was out like a light five minutes later.

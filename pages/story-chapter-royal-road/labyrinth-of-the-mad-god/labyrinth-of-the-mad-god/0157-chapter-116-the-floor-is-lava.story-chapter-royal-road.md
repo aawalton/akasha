@@ -1,0 +1,95 @@
+---
+id: edec03a7-8f3f-52f3-be09-2bbc070bb254
+page-type-slug: story-chapter-royal-road
+title: "Chapter 116: The Floor is Lava"
+slug: 0157-chapter-116-the-floor-is-lava
+partOf: labyrinth-of-the-mad-god
+position: 157
+ownLength: 2498
+unit: words
+publishedAt: 2025-04-14
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2201968/chapter-116-the-floor-is-lava"
+royalRoadId: "2201968"
+---
+
+Over the next four hours, Nick and Devin leapt for their lives, enduring the toughest environmental challenge they’d experienced to date.
+
+It was unbearably hot down in the crater, hopping from rock to rock while making sure not to breathe any poison gas in the process. Despite the discomfort and the tension evoked from knowing that a single false step would end in a lava bath, Nick was able to unpack the dynamics of his situation through trial and error as the minutes ticked past.
+
+Unsurprisingly, the heaviest stones were the most stable. They stayed afloat the longest when he was standing on top of them and didn’t shift beneath his weight nearly as much. The little ones sank after only a few seconds, but they also bobbed back up to the surface quite a bit faster. The round rocks were the worst, requiring an extreme test of balance not to roll them, while the slab-shaped boulders wouldn’t tip no matter where he stood.
+
+Unfortunately, there were more small stones than big ones and more round rocks than flat ones. It meant that they had to save the stable slabs for when they wanted to catch their breath and be careful not to land somewhere with no other boulders nearby.
+
+Nick and Devin spread out as far as they could, so that they didn’t remove potential perches from each other’s paths. They tried to move in the same direction, circling the bubbling basin in a clockwise motion.
+
+It was touch and go the entire time. Given the turbulent nature of the roiling lava, the stones didn’t float in a regular pattern. The rocks that were glowing red were too hot to touch, so he could use their color to judge which ones were safe to land on. Although safe wasn’t really the right word, since they could still be hot enough to fry his flesh like bacon in a pan, forcing Nick to take a hasty jump before he injured his feet.
+
+Only the thermal resistance of his boots let him keep going, and the heat was stressing the common item to their limit. The material lining the bottom was growing thinner with every hop, leaving a stamp of rubber behind with every step he took. Even if they survive the trial, they won’t last much longer.
+
+At least he had plenty of water in his pack. He tossed Devin a backup canteen every now and then, keeping the men hydrated despite all the sweating. The situation with the gas was marginally more manageable. Nick had learned how to spot it from a distance, letting him track the clouds if he had a few seconds to stop and concentrate. It helped that the wind always blew in the same direction. The breeze made the heavy clouds flow in a circle, albeit at various speeds and heights.
+
+If his concentration didn’t lapse, he could predict their movement, letting him hold his breath long enough to get past. It was one more thing he had to pay attention to in this incredibly complex environment, and it made him insanely jealous of the air filter in Devin’s helmet, but thankfully he hadn’t poisoned himself yet.
+
+That was when he glanced over in time to see Devin leap. Not in the direction of the nearest stone, but straight at the wall of the basin. Nick was afraid that his friend had made a critical error in judgment. But Devin just kicked off the wall, obtaining a bit more height and changing his direction in the process. That’s brilliant. Using the wall to parkour will widen our move set. It’s too bad they’re too steep to climb.
+
+When the eight-hour mark rolled around, the men were still holding on. They were running low on stamina, but they had plenty of water and had only taken minor injuries thus far. He still had no idea how Pax had contacted him or why she wanted him to come to this floor of the Tower of Rizzen, but he didn’t have time to worry about it now. All he could focus on was surviving his tour of the volcanic crater.
+
+Just when Nick thought they finally had everything under control, the Administrator’s voice spoke again.
+
+“The second environmental challenge is complete. Proceeding to the combat phase of this stage. You have one minute remaining until program initialization. The enemy for this phase is: Magma eels.”
+
+“Shit,” Devin growled. “This isn’t going to be fun.”
+
+Nick couldn’t agree more. On the bright side, all the stones came rising to the surface a few seconds later. They stopped sinking even when he was standing on them and didn’t tend to rotate nearly as much. It made the platforming aspect of the trial a lot easier. He wasn’t sure how the Administrator was controlling everything behind the scenes, but it was a welcome change.
+
+He came to a stop after one last leap. He was gasping for breath, desperate for even a moment of respite as he scanned the area while Sizing Up everything in sight. Unfortunately, the lava was so dangerous that the skill couldn’t offer any additional information, and his tactical brain was going to have to do the heavy lifting this time.
+
+I have no idea what a magma eel is. But they will either be coming from the lava, the air, or both at once. The combat trial has already begun. We need to remain vigilant until we know what we’re dealing with.
+
+As it happened, he wound up learning more about his opponents even sooner than he expected. At that very moment, an impression of danger blossomed from behind his back. It wasn’t the informational feedback provided by Size Up, but the killing intent Nick had sensed a few times before. He spun, just in time to see something long and dark break the surface.
+
+As its name suggested, the beast was some manner of giant eel, but way uglier than any species from Earth. It had grossly-distorted features, which were likely an adaptation to surviving the incredible pressure of the molten rock it swam in. The creature had long antennae-like protrusions, and no eyes or nostrils. What it did have was a pair of massive fangs jutting out past the end of its jawline.
+
+Nick was only granted that brief moment of analysis. Because at that point, the beast reared back, opened its mouth, and spat a wad of molten stone straight at him. The projectile attack was searing white—hotter than the lava filling the crater. Now Size Up could analyze the danger, and the skill was going absolutely nuts.
+
+It told him that he wouldn’t survive a direct hit. That even a glancing blow could cripple or kill him. He dove to one side while crying out a warning. “Ranged attacks coming from the waterline. Err lavaline… Whatever, just fucking dodge!” He ducked beneath a second shot and jumped over a third. This situation was already far more dangerous than the last combat challenge and the trial was just getting started.
+
+Three more eels breached the surface, surrounding him on all sides. Several more surfaced near Devin, although Nick didn’t have time to watch that side of the basin. He had too much to deal with to divide his attention right now.
+
+On that note, all four beasts took aim and fired at the same moment. He had already drawn his wand while leaping to one side. He dodged a pair of lava blasts, then fired his wand at the others. The force-flinging device let out a cone of kinetic energy, knocking the shots to one side.
+
+This marked the beginning of a hectic game of keep away. The four magma-eels circled him, changing positions while firing blasts of molten stone every few seconds.
+
+While this was a nasty dilemma, it wasn’t all bad news. With the massive improvements to his Dexterity, Strength, and Toughness, combined with his Evasion skill, Nick wasn’t easy prey. He ducked and leaped and dodged like mad, timing his breathing to avoid the poison gas. He deflected a shot with his shield, which grew so hot that he decided not to use it again unless he didn’t have a choice.
+
+It wouldn’t have been possible if the stones were still sinking. But with the advanced platforming elements removed from the equation, he was able to keep the magma eels from ending his day in the worst possible way. That being said, whenever they hit the stone he was standing on, the incandescent lava rendered that area untouchable, so he still had to keep moving while paying close attention to his surroundings.
+
+Nick had undergone some dramatic improvements to his Creativity and Mind since waking up on the Searing Isle. One of the consequences of having a superhuman mental capacity was that his powers of visualization had been seriously upgraded. His Creativity let him track the position of each beast within the theater of his mind’s eye, along with the gas and stones.
+
+His Mind helped him to predict the motion of each element, as well as the trajectory of every lava attack. Combined, it was enough to keep him scrambling out of the way without losing track of the multitude of variables contained within the most extreme battlefield he had experienced yet. His mental attributes worked in concert with his physical gains, letting him move his body through space with a level of precision that would have been the envy of any Olympic athlete in history.
+
+Just when Nick thought that things were under control, the situation took a dramatic turn for the worse. The next time that an eel emerged from the lava beside him, he could sense that something was different in the mana flowing from its core. Size Up was screaming, confirming that he was in imminent, lethal danger. I need to get out of here. He activated Force Acceleration for a fraction of a second, soaring up and away in the blink of an eye.
+
+No sooner had his boots left the boulder than the eel fired an ability. Instead of launching a wad of molten stone, this time it sprayed lava like a shotgun. The spew didn’t have nearly as much range as the compact missile, but it covered a wider area. If he had tried to pull off a regular dodge, he would have been caught within that searing discharge—cooked to a crisp with no hope of escape.
+
+As it was, his boots barely cleared the cone in time, causing the heat to blister his legs. “Devin, watch out! They have a wide-area version of their attack.” Nick didn’t have time to see if his friend had heeded his warning. He was soaring toward the sheer side of the crater, calling upon the magic within as he flew. By the time that he rebounded off the wall and went sailing for the closest stone, his spell was ready to go.
+
+Mana Dart. The silver wedge went streaking for an emerging eel, striking the beast before it could fire. The ugly thing let out a scream when the painful magic discharged throughout its body, and it sank below the lava once more. By this point, he had landed on a big slab and cast a second dart.
+
+He sent it flying for another eel. Just before the spell reached its target, the beast dove out of the way. The dart sank into the lava and quickly dissipated. Apparently, the magic couldn’t travel through molten stone like it could through water or air. The darts aren’t going to be effective if the eels can dive to dodge them.
+
+It meant that if he wanted to eliminate the killer beasts, Piercing Ray was his only chance. The force-based spell traveled faster than his darts. Better still, the connection between the rotating drill and the ball of mana in Nick’s hands couldn’t be broken once it was formed as far as he knew. He started running while hopping from stone to stone, waiting for an opening to appear.
+
+However, he wasn’t the only one who was adapting as the fight dragged on; the eels were learning too. They began aiming for the rock he was landing on after he had committed to his leap. Only some hasty dodges combined with a blast from his wand kept Nick from being covered in a layer of neon lava.
+
+On a brighter note, he was able to finish his spell after ducking beneath a final shot. Piercing Ray. A ball of churning kinetic energy congealed between his palms. He visualized his target and willed the spell to fire, acting before his opponents realized they were under attack. A thin beam of force mana, topped with a whirling drill bit of pure, lanced forth in the blink of an eye and stuck to the side of a magma eel’s head.
+
+This beast was able to survive in extreme conditions. It was high on Toughness, and its skin was incredibly durable. But Nick wasn’t finished yet. More energy poured out of the ball and into the beam, increasing its penetrative power. By this point in his adventures, he had developed a good sense for how much resistance various substances were putting up. He had a hunch that while the eels were tough, the ray was going to break through in another few seconds.
+
+Sure enough, the black beast screamed as its flesh gave way. It dove in a flash, but it couldn’t open enough room to break the connection. The ray kept right on drilling, creating a small whirlpool in the lava from the momentum. The spell broke through half a heartbeat later, piercing the eel’s head and carving a tunnel through its brain. Then the beam dissipated, and the beast’s body came floating back up to the surface.
+
+The eels pulled back, reassessing the threat that he posed now that he had killed one of their own. It gave him a chance to check in on his partner and survey the battlefield as a whole. The good news was that there were only five more eels. Devin only had two of the beasts on him, which meant that the lion’s share had emerged near Nick.
+
+The bad news was that Devin couldn’t fight back. He didn’t have a ranged attack other than the throwing knives Sophia had given him, which would melt if he used it now. The warrior had to focus on defense until Nick had a chance to clear his side of the basin. He still had a fair amount of mana, but he was running low on stamina and couldn’t afford to miss a single spell. The men still had a chance of coming out on top, but it was going to be close.
+
+Nick called upon Arctic Clarity to enhance his focus, then got ready to take out the rest of the eels. It was time to win this stage and take a much-needed rest.

@@ -1,0 +1,201 @@
+---
+id: ead9c5c9-e697-5f01-a90f-13c9998340f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 139: Diamond"
+slug: 0180-chapter-139-diamond
+partOf: labyrinth-of-the-mad-god
+position: 180
+ownLength: 2805
+unit: words
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2335892/chapter-139-diamond"
+royalRoadId: "2335892"
+---
+
+The Guardian of Darkstone Tower—the final obstacle standing between humanity and their lost homeworld—staggered toward the rim of the rooftop.
+
+Its once gleaming body was now battered and warped, covered in oil and ash. Springs and gears fell from the machine’s shorn hand as electricity discharged across its body and smoke boiled from its joints. It staggered and spun as the mechanisms animating its limbs went haywire, leaving it unable to halt its momentum.
+
+The Guardian’s eyes met Nick’s own one final time. Just before it reached the edge, it nodded in a show of respect before stepping over the precipice.
+
+He wasn’t sure if the construct’s wounds were fatal, but it wasn’t in any shape to survive the fall either way. On that note, he could hear a procession of clangs as its torso rebounded against protrusions along the tower’s surface, followed by the clatter of its brass body falling apart.
+
+That was when Nick saw the Guardian’s staff rolling near the rim of the rooftop, having reverted to its original form sometime over the last few seconds. He wanted to claim the weapon for humanity and tried to run over to grab it, but he only took one faltering step before collapsing.
+
+He simply didn’t have it in him. With the pain of his wounds, combined with mana sickness and the exhaustion from being drained to the dregs of his stamina, it was all he could do to remain conscious as he watched the weapon roll off the edge of the tower.
+
+But Nick wasn’t the only person who had noticed. A heartbeat after the clockwork staff vanished from view, an athletic woman with bright red hair leapt over the side while reaching for the artifact. That’s crazy. I hope she reaches it without getting herself killed in the process.
+
+While he watched the unexpected event play out, most of his attention was devoted to scanning the periphery of his view, waiting for an update from the System to appear.
+
+In that moment, he was terrified that that Guardian falling from the tower wouldn’t count as humanity winning the fight. No. After everything we went through, it must be enough.
+
+Relief coursed through every fiber of his being when two events happened at once.
+
+The first was that Nick felt an incredible surge of disorientation, which he knew from experience meant he had gained several levels at once. The second was that the message he’d been waiting for wavered into existence in front of his face.
+
+System Message: Quest update.
+
+Congratulations.
+
+You have defeated the Guardian of the Tower of Rizzen and completed the final phase the battle.
+
+The species-wide quest chain, the Fate of Earth, has been successfully completed.
+
+The performance of your species during this stage has been rated as: Phenomenal.
+
+When he read those wondrous words, the pain of his wounds and the stress from the battle—all the fear, anger, and loss that had become core components of Nick’s life—faded away.
+
+Part of him was alive with pure anticipatory bliss, waiting to see what upgrades Team Earth had won. Not only for themselves, but for all their loved ones back home and countless generations yet to be born.
+
+As amazing as this moment was, and it was spectacular, part of Nick’s attention was focused on a feeling that was rising in the back of his mind. A premonition of conflict that made the hair on his neck stand on end.
+
+He sensed tension and friction—electricity and pressure—like a storm was brewing on the horizon. A maelstrom powerful enough to make the stars themselves quake.
+
+In that moment, he was overcome with a complete and utter certainty that his ordeal wasn’t over yet. A godlike power is coming. No… There’s more than one.
+
+He could hear Team Earth cheering in the background, but it felt faint by comparison—muted by the immense cosmic forces that were only heartbeats away from breaking over his head.
+
+While Nick tried to understand what he was feeling, updates from the System continued to scroll past his eyes.
+
+As per the conditions of this quest, ownership of planet [Earth, 1] has been transferred from Taltos the Mad God to humanity and Earth’s resident beasts in perpetuity.
+
+Instead of being recycled and used as raw materials, the planet will be installed within the outskirts of the Labyrinth.
+
+A one-year period of protection will be implemented. During this time, the conduits to the Labyrinth will be sealed and the planet may not be visited by other residents of its sector.
+
+Finally, Team Earth has completed the hidden objective: Defeat the Guardian of Darkstone Tower instead of enduring its siege.
+
+As a result, your species reward package has been upgraded from [Platinum] to [Diamond].
+
+A shiver ran down Nick’s spine as he read those lines, pushing past his rising foreboding to electrify every cell in his body.
+
+We did it. We fucking did it! Not only did we win back the Earth, we managed to secure the Diamond reward package, just like Pax said.
+
+A cheer arose as the defenders of Earth read what they had won. Despite all their hardships and loss—the endless obstacles thrown in their path—they had won. They could finally go home, and the people they were fighting to protect were safe from annihilation.
+
+While this was just the beginning of their life in the multiverse, humanity had bought themselves a reprieve—a chance to grow stronger before facing the horrors awaiting them within the Labyrinth of the Mad God.
+
+As magical as this moment was, Nick barely heard those joyous cries. While no one else seemed to sense it coming, every scrap of his attention was focused on an impending eruption of violence. It felt like two titanic freight trains were barreling toward one another, mere heartbeats away from colliding with cataclysmic force.
+
+He realized that he had experienced something like this before, although it hadn’t been this intense. It triggered a flashback of when Tatos and the System had been contesting ownership of the Earth, moments after the planet’s integration.
+
+He would have called out a warning, but this event wasn’t taking place on the tower’s rooftop; it was a conflict ensuing on a galactic scale.
+
+Nick’s focus was drawn to lines of text scrolling in the background of his menus, racing along at incredible speed. No. Not text, he realized. Runes. Half of the symbols were the elegant geometries used by the System, and the rest were the snaking glyphs favored by the Mad God.
+
+The runes weren’t just flying past at a mind-boggling rate; they were two armies at war with one another. He watched with wide eyes as two strains of code underpinning reality itself battled for dominance.
+
+They were fighting and consuming. Mutating and dying. Like a game of ∞-dimensional chess being played at breakneck speed.
+
+While Nick watched the inexplicable event play out, his updates continued to scroll.
+
+Your Diamond quest package contains the following rewards:
+
+Your planetary protection period has been upgraded to include a Deity-Grade Shroud of Anonymity. No one on the outside can identify your planet or divine its location.
+
+The System’s control over your world has been enhanced and Taltos’s influence has been dramatically reduced.
+
+The Earth has received an infusion of planetary experience equivalent to 50% of its next level.
+
+Humanity has been granted a significant infusion of species experience.
+
+Your species has been granted access to the Profession system.
+
+All caps limiting class rarity have been permanently removed. Going forward, the rarity of classes offered will be based on individual accomplishment.
+
+Your geneline traits will be enhanced during the next species-wide evolution.
+
+You may access your menus at will and without restriction.
+
+The Earth 2.0 Codex has been unlocked and may be freely accessed.
+
+The Codex of Taltos and the Labyrinth can now be unlocked with Labyrinth Knowledge Points (LKP).
+
+Finally, the Rebuilding Civilization bonus quest will be available during your 1-year protection period. More details will be provided soon.
+
+Each staggering revelation precipitated a thunderous cheer.
+
+Every item on that list would dramatically increase humanity’s odds of surviving whatever came next, but Nick didn’t have the bandwidth to process them now. Not when the heavens themselves were roiling.
+
+Those cosmic trains weren’t just headed toward one another anymore—they were crashing into each other here and now.
+
+The warring runes on his screen reached a fever pitch, just as the voice of a god rang out. It didn’t emanate from a single location. Instead, it reverberated from every speck of matter in the solar system at once.
+
+“No!” Taltos’s rage echoed across reality itself as the Mad God addressed the System. When the cheering cut off and silence descended upon the rooftop, Nick realized that everyone else could hear it too.
+
+“This outrage will not stand! We have a binding arrangement, and I will not be cheated. I never agreed that my contestants could unlock diamond rewards. I don’t know how you tricked me—you infuriating, meddlesome machine—but I swear that you will pay. I will appeal to the arbiter, invalidate our contract, then raze every world you have tampered with to ash.”
+
+Each word was accompanied by a surge of cosmic energy, slamming into Nick like waves pummeling a boat on the ocean. But while the Mad God’s wrath was terrifying to behold, it lacked focus and direction.
+
+He doesn’t know where we are. Even when Taltos’s image waved into existence in the sky above, he didn’t seem to be looking their way.
+
+Nick could see Taltos standing in space like the deity had grown to galactic proportions. For its part, the System remained silent, but Nick could tell that it was hard at work, in the midst of orchestrating… whatever the fuck is happening.
+
+While the image of the Mad God was captivating, Nick could sense that the real conflict was taking place on a deeper level—in the runes battling behind his display, embedded within the fabric of reality itself. Somehow, by looking at the strains of code warring within his menus, he could read between the lines, getting a glimpse into a conflict that was erupting across the multiverse.
+
+In the Theater of his Mind’s Eye, Nick could see similar events playing out across hundreds of planets at once. He was certain that the System had arranged these quests to be resolved within minutes of each other, preventing Taltos from countering the move.
+
+He couldn’t even begin to unpack the intricacies of the quarrel taking place between the staggeringly powerful entities known as Taltos and the System, but it seemed that they were bound to the letter of their agreements in a fundamental manner. Taltos could bend the rules by spending cosmic energy, but he couldn’t actually break them.
+
+The System couldn’t reach across the dead zone and invade the Labyrinth, but it didn’t need to. It could get around that restriction by seeding new worlds with champions, then baiting the Mad God into claiming them—a Trojan horse ploy on a planetary scale.
+
+Now, all the seeded worlds that had survived their integration would enter the Labyrinth at once— armed with advantages that Taltos hadn’t seen coming, creating a series of beachheads for the System’s annexation.
+
+Nick realized that there was no way he could have deduced all of this from the runes filling his screen—that the information was being absorbed by his mind through a mechanism beyond his comprehension.
+
+Regardless of the details, what he learned over the next few minutes was fascinating—his first true glimpse behind the curtain of his new reality.
+
+This moment and everything leading up to it, had been meticulously planned—the first seeds sown millennia ago. After preparing hundreds of planets and revealing their existence at the same moment, the System had tricked Taltos into stealing them, knowing that he intended to recycle them and feast upon the rich energy contained with their cores.
+
+But that was only the beginning.
+
+The galaxy-spanning AI had deliberately created a loophole for him to exploit—a weakness in the mentorship bidding program—then pushed back just hard enough to let Taltos think he had the upper hand
+
+After hacking the System and registering as the planets’ mentor, the Mad God was contractually obligated to provide each world with two things: a Tutorial, and a means of becoming full citizens within his domain if they survived his sadistic modifications and completed a subsequent challenge.
+
+The mentorship contract allowed each party to create binding rules for the quest chains that would determine the fate of each planet, with one additional twist. The System knew that Taltos would jump at the chance to use a neutral arbiter instead of negotiating directly, hoping to find some way to bend the rules to his advantage.
+
+In the Earth’s case, Taltos had introduced the Guardian as the quest’s final enemy during a timed survival challenge—an entity that would be impossible for a tier-1 army to withstand.
+
+However, the System had predicted the move and had added the stipulation that if the champions of Earth were able to defeat the boss outright, they would receive a Diamond reward that was exponentially better than the contents of a Platinum.
+
+Having planned all this centuries in advance, the System had formed an alliance with the goddess Astra and informed her of its plans before the contract was signed. The goddess had offered humanity an insanely overpowered mentorship package that she never intended to deliver, knowing that the Mad God would find the opportunity to pull the rug out from them irresistible, since he considered such dramatic reversals of fortune to be prime entertainment.
+
+Once Taltos took the bait, the Green Mother worked independently, helping humanity win the Mad God’s challenge in a manner that didn’t count as the System violating its agreement. In Nick’s case, Pax had fed him critical information that had catalyzed his evolution, leading to this very moment.
+
+He knew that everything he was sensing was just a metaphor—a version of events that his mind could understand—but it was enough to let him understand what was happening. While the Mad God ranted and raved in the sky above, Nick could sense that Taltos was trying to hack the System, attempting to override this reward like he had back in the Grand Arena of Papillion.
+
+But though the amount of cosmic energy Taltos spent was staggering, this time, the System met him in kind, refusing to yield an inch. He realized that it had deliberately lost their prior struggles, allowing the Mad God to believe it had grown weak, all for this moment.
+
+Half a heartbeat later, one army of runes overwhelmed the other and Nick’s menu flickered out of existence.
+
+After one final push—a collision of cosmic energy that sent ripples across the fabric of the multiverse—Taltos faltered and gave way.
+
+“Fine. Have it your way. You will have your year, but you haven’t won—not by a long shot. I’ll find your champions and delight in their destruction. What would have happened if they lost this quest will seem like a mercy compared to the fate I have in store. Every planet you seeded will burn, and their final moments are going to be epic.”
+
+With those ominous word, the presence of the Mad God vanished, and a new message appeared.
+
+Objection overruled.
+
+All quest rewards will be implemented as stated.
+
+The Earth will be integrated into the Labyrinth in 3 minutes.
+
+Good luck.
+
+Nick set aside the utter mindfuck he had just experienced and raced to find his friends before the clock hit zero.
+
+Kenji was standing beside Veronica and Sophia. They were still staring up at the sky with astonishment clear on their faces. Nick hoped he would see them again soon, but just in case, he wanted to give them their pills now.
+
+With Devin at his side, he limped over to his team, retrieving the Guardian’s hand along the way. Then Nick reached into his pack and handed a Species-Evolution Pill to Sophia, V, and Kenji. When he saw Shaun he said, “Sorry. There are only three of these left. But based on that update, our species-wide evolution should happen soon anyway.”
+
+“No problem,” Shaun replied. “I’m just glad you’re alive. I want to get stronger by my own efforts from this moment forward.”
+
+By now, there were only a few seconds left. Before humanity learned what fate had in store for them as citizens of the Labyrinth, there was one last thing that Nick wanted to do first.
+
+He wrapped his arms around Sophia, held her tight, and drew her in for a tender kiss.
+
+For the next ten, wonderous seconds, nothing existed beyond the warmth of her presence and the sensation of Sophia’s lips pressing against his own.
+
+Then the world vanished in a flash of light and Nick’s next adventure began.

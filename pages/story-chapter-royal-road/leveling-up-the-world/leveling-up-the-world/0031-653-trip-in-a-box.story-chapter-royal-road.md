@@ -1,0 +1,153 @@
+---
+id: 6cc45daa-a13f-54ec-abe8-872277c525e2
+page-type-slug: story-chapter-royal-road
+title: "653. Trip in a Box"
+slug: 0031-653-trip-in-a-box
+partOf: leveling-up-the-world
+position: 31
+ownLength: 2070
+unit: words
+ownProgress: 2070
+publishedAt: 2022-12-10
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1059911/653-trip-in-a-box"
+royalRoadId: "1059911"
+markedReadAt: "2026-06-29T22:41:14.063Z"
+---
+
+“Hey, make some room,” a plump apprentice said to Dallion.
+
+Judging by his appearance, magic or not, Dallion could take him out with one punch. When it came to the Academy, though, the man was still considered a superior. Since he was in his twenties, it was likely that the man would never move beyond the apprentice level. As Nil suggested, either the apprentice was lazy, his magic limit was low, or he had lost enough duels to keep him at this level.
+
+“Sure.” Dallion moved further in.
+
+As it turned out, the way to the Academy was via carriage, but not the sort Dallion had seen before. A wooden box would suit the contraption a lot better. There were no windows, no comfort, not even horses to pull it, just two seats on the inside and one outside. From what Nil had explained, the “carriage” was used to transport mages from poor sections of society to the Academy. The common explanation was that it was to keep all unbecoming away from the gaze of the inhabitants of the imperial capital. In reality, it was merely a security measure. No one simply went to the capital without an invitation or permit. Awakened with the magic trait were the only exceptions, though there were a few conditions attached. This was one of them.
+
+“You don’t get seasick, right?” The apprentice glared at Dallion.
+
+“Not particularly.”
+
+“Better not puke on me.”
+
+Dallion considered making a snarky comment about him flying more than the apprentice ever would. It would certainly put the man in his place. Then again, creating a bad impression early on was sure to make his life a lot more complicated. He’d already done a good job of insulting several nobles. Keeping cool was the best strategy for the moment. At least until he rose to a high enough mage rank.
+
+“I’ll do my best.”
+
+A few minutes later, the only door of the carriage was closed. Light was provided by a single white light crystal crudely put on the ceiling. It was bright enough for a person to read, which was what the apprentice immediately started doing.
+
+Using a few instances, Dallion glanced at the contents of the scroll, hoping it would be a spell manual or some kind. To his disappointment, it turned out to be an adventure story of questionable literary quality. Sometimes having high scholarly skills was also a curse. For one thing, finding a palatable work of fiction was more difficult than finding adequate food.
+
+The carriage rocketed, reminding Dallion of the sensation he felt while cocooned in his armadil shield.
+
+“We’ll be flying,” he whispered.
+
+“No,” the apprentice corrected. “The box will be flying. We’ll just be in it.”
+
+A typical pedantic answer of someone who wasn’t good in magic.
+
+“How long will it take to get there?”
+
+“A day, give or take. I’ve brought some more scrolls if you want to pass the time.”
+
+“Thanks, but I think I’ll take a nap.”
+
+“Suit yourself.”
+
+There was no point in trying to spark a conversation, so Dallion didn’t even try. Instead, he concentrated on his magic vision. The color of magic had progressively faded since first acquiring it. From what Nil had explained, that was normal for late bloomers. Initially, his senses had been on overdrive, but after his body had gotten used to the experience, his magic sense had faded to its current level. He’d still be able to see what non-mages couldn’t, but never as bright as before, unless he increased his trait level.
+
+What happens to those who can’t become mages? Dallion asked.
+
+You have nothing to worry about, dear boy. As long as you don’t engage in reckless duels, you have a very good chance of becoming one in a few years.
+
+I’m asking in general.
+
+If you can’t become a mage, you remain an apprentice. Simple as that. It might sound insignificant, but an apprentice mage is still a force to be reckoned with. The stories about apprentices causing havoc in cities are only popular because they are true. In addition to the Academy’s support, they can also deal with most awakened, city guards included. There is one catch, however.
+
+Dallion leaned back, trying to make himself as comfortable as possible. In this world, there always was a catch. Just most of the time it was presented as a rule.
+
+Apprentices aren’t allowed to be on their own. Some assist mages, though most serve the tower. It’s not a bad life. Better than being a servant in most noble families.
+
+It’s still servitude.
+
+That’s life, sadly. There’s always the option to give up your magic. In the history of the academy there’ve only been two that have. That and going rogue, though for that you need some level of skill. Being an apprentice means you don’t have it.
+
+This was the point at which Dallion was starting: talentless. It was going to be a long climb to get to anywhere substantial. However, he had a plan. All he needed was to boost his magic trait to five, then he could level up to eighty. Losing three levels was an acceptable price, especially since he would gain a lot more past the awakening gate.
+
+The trip went through stages. The first stage was the curiosity stage, during which he followed every sound the carriage made, in the hopes of figuring out where he was flying through. That ended in less than ten minutes, leading to the speculation stage. Left with nothing to do, Dallion attempted to learn as much as possible about the academy from Nil. The old echo, unfortunately, either gave obvious answers or avoided the topic entirely.
+
+After an hour of attempts came the boredom stage. Dallion made a few attempts to sleep, but each time he’d wake up after a few hours, only to be told they were nowhere near the Academy itself. After the third attempt, he did the only foolproof option available: resort to using music.
+
+“What’s the Imperial Capital like?” he asked, his voice full of joy and agreeableness.
+
+Normally, the apprentice would grumble some answer, then get back to reading. This time, he slid a finger along the scroll, leaving a line of magic—likely a magic bookmarker—then rolled it up.
+
+“Large,” the man said. “Larger than anything else in the world. There are provinces less big. If you’re asking whether I’ve been in the imperial district, then the answer is no.”
+
+“Why not?”
+
+“Only nobles and mages go there.” There was an unmistakable note of envy in his voice. “Well, that and anyone the imperial family fancies inviting. I don’t know the last time that’s happened. Not that I’d be invited either way.”
+
+“Why not?”
+
+“Get real.”
+
+Hierarchy is very strict, dear boy. You’ll learn more once you arrive.
+
+You said that already, Dallion sighed mentally.
+
+“What’s being an apprentice like?”
+
+“It has its moments. Worst they could do is send you to an enclave. Thank the Moons they made me part of your travel escort. With luck, I’ll never go back to that wretched place!”
+
+The man had all the earmarks of a city kid. He was probably used to the bustle of a dense urbanized area and didn’t appreciate the wilderness, or manual work, too much. His sharp tongue made it obvious he hadn’t been in a serious fight in his life, otherwise he’d be a bit more cautious. A constant hum of fear emanated from him as he spoke.
+
+The conversation quickly devolved from there, turning into a complaint fest. It was astounding how isolated the Academy was from the rest of the world. Neither the brewing internal conflicts in the Wetie province, nor the Empire’s war, were mentioned at all. The only thing that mattered was allegiances and shifts of power within the Academy itself. For an apprentice, it was by far more important to know which mage to support, else they would risk being sent to less prominent environments, or even enclaves. Thankfully, among the heaps of trash, there were a few nuggets of information that Dallion managed to obtain. For starters, upon his arrival at the Academy, he was going to be made a novice and have a magic seal placed on him. Novices were the lowest rank of mages and were considered a threat to themselves and others. Thus, they were only allowed to perform spells in certain areas of the Academy and nowhere else.
+
+After learning the basics, novices were expected to unseal themselves, at which point they’d earn the title apprentice. It was from that point that the spell techniques came into play. In terms of parallels, if novice-hood could be said to be elementary school, apprenticeship went all the way to the end of high school. All apprentices who rose up the ranks and made it to the end, were allowed to hold a mage trial, granting them the right to leave the Academy and start working for a patron, or continue with their studies and become a driving force within the mage academia.
+
+Two things were certain: sooner or later, a mage always made it to the apprentice level, though there was no guarantee he’d ever become a full mage.
+
+“Okay, we’re here,” the apprentice said all of a sudden. Magic flowed through his clothes, straightening them to perfection.
+
+“I don’t hear anything.”
+
+“Precisely. When the ride calms down, it means we’re near. No one wants to be seen bringing a shaky box to the Academy.”
+
+Dallion looked at his own clothes, then went into the realm of each to fix them as much as possible. The result wasn’t bad, although it couldn’t compare to what had been achieved through magic. There could be no denying that magic made things appear flashier, even when they weren’t.
+
+The landing was so soft that Dallion didn’t even feel it. It was the apprentice who opened the door and went outside. Grabbing his gear, Dallion followed.
+
+Welcome to the Academy, Nil said.
+
+Up till now, Dallion had caught a few glimpses of the Academy from the perspective of the rogue mage he’d faced. Seeing it in person was a hundred times more breathtaking. If there was such a thing as a cyber university campus in which every building was built in baroque fashion, this was it. Millions of glowing decorations of magic covered otherwise flawlessly constructed buildings. Dallion even looked up, expecting to find flying cars and spaceships; though the only thing he saw were a handful of mages flying about.
+
+A large palace-like structure composed of multiple towers stood a few hundred feet away, surrounded by a moat of sapphire water. Figures made entirely of water moved about, performing a theatrical play throughout the moat. The performance was at least as good as what Dallion had seen in Nerosal. By the looks of it, though, he was the only one impressed by it. Everyone else walked about, focusing on their own problems. Even Dallion’s arrival barely earned a few glances.
+
+Different to what you’re used to, isn’t it? Nil asked in a smug voice.
+
+“Come along. We need to get you officially registered.” The apprentice went towards the main entrance of the palace.
+
+“That’s the Academy?”
+
+“That’s the Study Hall. You’ll spend a few years there before you can go about the Academy proper.”
+
+“Just how big is the Academy, anyway?”
+
+“It’s much bigger on the inside.” The apprentice chuckled. “See that there?” He pointed in the distance. “That’s where the White Eye faction lives. They’re the ones to keep an eye on while you’re here.”
+
+“Oh?”
+
+“They watch over everything happening here.”
+
+In other words, the mage guard, Dallion thought.
+
+“Their faction isn’t anything much, but until you become a mid-level apprentice, pretend it is,” the man whispered.
+
+“Got you.” Dallion nodded. “Anything else I should know?”
+
+“Lots, but you’ll find out.”
+
+The inside of the Study Hall was almost a city in itself. From what Nil had said, there were several dozen thousand mages within the world, most of them at the Academy. Corridors the size of streets went on and on, surrounded by walls of buildings on either side.
+
+Dallion followed the apprentice several hundred feet to the only blue building in sight. Three large runes shined in purple just above the entrance.
+
+“Administration,” the apprentice said. “Your new home away from home. Remember it. You’ll be going there a lot.”

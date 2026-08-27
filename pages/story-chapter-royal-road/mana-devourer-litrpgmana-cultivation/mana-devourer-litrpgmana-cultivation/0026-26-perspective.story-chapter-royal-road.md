@@ -1,0 +1,323 @@
+---
+id: 1daa687b-7e5d-5c9b-9045-8019e9deb38e
+page-type-slug: story-chapter-royal-road
+title: "26. Perspective"
+slug: 0026-26-perspective
+partOf: mana-devourer-litrpgmana-cultivation
+position: 26
+ownLength: 3285
+unit: words
+publishedAt: 2024-07-16
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1719994/26-perspective"
+royalRoadId: "1719994"
+---
+
+I’ve been waiting. Waiting for so long…
+
+Days. Weeks. Years. Eons… it’s all the same down here. Any and all approximations of time are immaterial in this place.
+
+Unable to move more than a few feet at any given time, unable to breathe without lungs to carry air, unable to do anything but lay in constant wait, my world unturning, my heart frozen and petrified and still.
+
+Every time I see a shadow pass in the distance, just in the corner of my vision, I feel a flicker of hope.
+
+Flickers of hope have since become my only means of marking time’s passing. No matter who or what might wander towards the edge of the nearby cave, none dare venture further. They see the darkness and the secrets it holds and think better of such folly. As they should.
+
+As I should have.
+
+When yet another unfamiliar shadow flickered in my periphery, it was a familiar scene to me. How many more times would I endure this whiplash of the heart?
+
+I told myself I still clung to hope. That one day, if I waited for long enough, I believed I could be liberated from this cruel fate… but I was lying to myself.
+
+I didn’t bother to look this time. I didn’t turn or shift or move or do anything at all. I simply waited, ignored the brush of movement at the edge of the corridor, and continued to lament my continued, unending existence.
+
+And then, in a flash of inconceivable motion, the shadow was no longer just a shadow, but a living form.
+
+I’d have rubbed my eyes if I had any. Pinched myself to ensure I wasn’t dreaming.
+
+I could scarcely believe it. I felt my form shift and writhe against the constraints that sat all around me, awakening to a desire I could scarcely remember for how long it’d been since I’d last had need of it.
+
+And yet it returned to me in such earnest that I could swear it’d always been there, waiting alongside me. The swirling, shifting mounds of this thing I called a body cried out with that same sentiment screaming through my mind, spirit, and soul in unison.
+
+That longing, that hunger, that need…
+
+Sensation took form within my soul.
+
+I drew as still as I possibly could. Statuesque. I needed to not scare it away. Whatever it was, it was drawing closer, and my spirit was rumbling. Another shadow lurked at the edge of the corridor, but it dared not approach. This one was like the rest, fearful. But it was loud. It was… protesting the decision of the other figure, trying to convince them not to step any further.
+
+It was…
+
+No, no, nononono—QUIET, you’re going to fuck it all up!
+
+The succulent mass of flesh standing at the corridor’s entrance faltered momentarily. An inconsolable need to sob gripped me as the creature paused. It had seen the error of its judgment, surely. Realised that this was an unsafe route, and decided upon a better course of action.
+
+It was dark down here. Full of horrors. That was what the little bastard was thinking. It was going to turn away, to LEAVE ME here, as they all did! AS THEY ALL HAD.
+
+It was going to…
+
+Wait.
+
+It was coming! Coming closer!
+
+It was coming closer to me it had heard my dark need and it would start to plead as I began to FEED—
+
+Wait. Wait.
+
+Wait.
+
+It’s coming closer.
+
+You’ve waited so long for this.
+
+You can do this. Just be patient.
+
+Be patient.
+
+Be patienttt.
+
+I can’t do it. I can’t wait. I need to—
+
+It isn’t running away, is it? Because you’re staying still! You’re staying still for as long as it takes, aren’t you? You’ve gotten so good at this, haven’t you? You’ve become so, so patient from all the time you’ve been sat here. I’m so proud of you. Such a special boy.
+
+I’mwaitingandwaitingandwonderingwhyIkeepwaitingandsittingandprayingandhopingyou’llcomeandthensitandrelaxandslipintomyjaws
+
+…
+
+Wait.
+
+Each step was like an earthquake against my nascent, unformed senses. Each thudding motion a pulse against my internal, eternal metronome, a substitute to vascular motion unlike anything I’d even imagined before. With each passing instant, it felt as if my body was being further emerged from cryonic stasis, as if I was breathing for the first time, thinking for the first time…
+
+I’d never felt
+
+more alive
+
+he was moving
+
+closer
+
+to his
+
+demi—
+
+QUIET.
+
+He moves.
+
+…
+
+…
+
+…
+
+Just
+
+A little
+
+…
+
+…
+
+…
+
+NOW.
+
+I struck as soon as he entered my range; hate, vitriol, hunger, and anticipation flowed through my being as I leapt to the edges of my confinement, latching onto the body before me and wrapping my malleable, viscous tissue around it.
+
+I pulled it immediately, slammed it against the wall that served as my prison. My flesh was such a soft grey, I merged so seamlessly with my surroundings. Now, this creature would merge with me…
+
+The hunger gnawed at my mind as I clutched tighter around my new vessel, depriving him of oxygen, moving closer to his body and away from my old host. I’d been bound to the dead and barely living vines and fauna that adorned this wall for far too long… now, finally, I’d be able to move once again…
+
+I tested the new body just as soon as I’d moved my entire being on top of it, enveloping it beneath me, sliding from the confines of the corridor’s wall to the creature’s back as effortlessly as a feather drifting through the wind. I came down around it from all sides like a large, writhing tent, clasping myself shut around the creature and searching for any entry points I might use to infest its brain.
+
+The creature was spirited. I heard it mumble something below, then thrash and bellow in futile resistance, throwing itself and me against the wall beside us, repeating the motion until the cobbles shook and vines snapped away.
+
+There would be no clemency for my prey. It would be consumed in full, used in full, every last drop of blood expunged, all in the efforts to finally rejuvenate my spirit.
+
+I’d waited so long for this! If I could just get a taste, steal an iota of this creature’s strength, embed myself firmly in its mind…
+
+I heard the mumbled protests below beginning to subsist. It was useless. The creature couldn’t shake me no matter how it tried. It was growing tired, and my presence was increasingly cumbersome. It grew stiller with each passing second.
+
+After some time, some caution, some final IMPOSSIBLE waiting…
+
+I reached out with my body to find an entrance. Tendrils poked and prodded at cuts in the creature’s body, ones I might exploit and drain. I found a still bleeding wound, fresh, and decided that would be my optimum entry point.
+
+The moment I touched it, I felt a presence begin to invade my body.
+
+What… what was this? It felt evil. It felt wrong!
+
+My goal had been only to drink the lifeforce from this creature, to drain it fully and use its withered body as a vessel for my spirit. Instead, I was the one being drank from!
+
+I clutched the monster beneath me with all of my might. I had the strength to crush an ogre, once.
+
+Now I could scarcely make this creature’s bones crack. Already he’d taken so much vitality from me, so much…
+
+All I could do is drink, drink in an effort to try and avert this madness. There was no way that this was happening to me, TO ME. It couldn’t be. It wasn’t fair. It wasn’t. It wasn’t…
+
+His blood was like POISON! It was rancid, putrid filth! It turned to ash and bile in my system and burned my insides with pure, pernicious toxicity! How could any creature’s blood be so unpalettable to me, so harmful? I was born to drink from this world! I was born to feast upon all things!
+
+So why…
+
+Why was I beginning to fade?
+
+I could feel the will within me beginning to falter as I continued to attempt to crush the life from my target. I knew it was futile now. Whatever creature I had encountered, they were not of this world, and they were not a simple being of flesh and blood.
+
+They were something more than that.
+
+A defiant death gasp, a swerving, pulling motion as I attempted one final time to wrestle my target to the ground and pull it apart.
+
+It was met with failure. There was nothing more I could do. I was fading more and more now, and in the time that it took, I was beginning to slowly lose parts of myself. First, there were the voices. The ones that chided and berated, that screamed and argued, that encouraged and protected me. All of them faded, one after the other.
+
+It was almost peaceful. Perhaps I was happier without this endless hunger, this need. Perhaps I could welcome the abyss, and be glad to no longer concern myself with anger, hatred, and pain.
+
+I wasn’t fully myself anymore, so understanding of situation continued diminish further un… until…
+
+Until.
+
+I realise.
+
+I realise what it is.
+
+Even
+
+Even in death gentle embrace
+
+Even as all fade
+
+I see him.
+
+And I feel terror.
+
+Gripping me.
+
+Consuming me.
+
+He…
+
+Help m—
+
+H-he
+
+…
+
+***
+
+Markus shuddered as the slimy grey residue around him receded, having finally drained the monster.
+
+“Ugh! Fuck, man, that was weird. Why’d you let me go down here?”
+
+“I told you to go back, idiot!” the imp yelled. “You’re lucky you’re still breathing!”
+
+“Yeah, whatever.” Markus shrugged. “This thing was pretty weak once I started draining it.” He glanced at the wall it’d jumped over from, a mixture of flesh and dead plant life sprawling for multiple feet in either direction. “That thing was fucking weird though.”
+
+He said it more to himself than anyone else. Markus had been prepared for a lot down here, but a big slimy wall chameleon parasite thing wasn’t anywhere on that list, or even near that list.
+
+In fact, big slimy wall chameleon parasite things probably existed only to spite lists.
+
+Still, that hadn’t been a total cakewalk. He hadn’t been able to breathe for a few seconds there. Markus wondered how fucked he might’ve been if he hadn’t drained it when he did. He also wondered how the creature even managed to do that, and how long it had to wait to blend in with its surroundings so—
+
+Oh, neat, a passive!
+
+[Stone Skin I:  Using 50 (F Grade) Earth and Spirit Mana, shield your body in a protective coat of stone that lasts for up to 30 seconds or until smashed through. Stone coating affords light protection against physical attacks, major protection versus lightning, and moderate protection versus heat. Strength and duration of Stone Skin are modified by Arcana.]
+
+Okay… so this was an actual spell? Was that what he’d gotten here?
+
+It was a spell. Markus just wasn’t very used to getting them, so processing that took a moment. He’d gotten that from killing that enemy, huh?
+
+Or from absorbing that mana core. Speaking of which, he had like four to look through now, between the ones the giants had dropped and the ones he’d just picked up.
+
+Markus decided to hold off on affixing any for now. He was gonna run out of slots if he wasn’t careful, and while he knew he could combine and otherwise upgrade and replace his cores once his slots were full, he wasn’t sure if that was something he could necessarily do whenever, or if it was like selecting Masteries where he’d have to do something specific and potentially convoluted to undo his choices.
+
+And so he continued on with a touch more caution, watching the walls he passed to see if anything moved, bringing the blade of his glaive up like a makeshift torch to inspect different surfaces as he moved further and further into the corridor.
+
+He had to watch his step. The ruins of a fallen pillar were scattered around him, and just past that, sharp chunks of a shattered urn threatened to slice his feet.
+
+Further on, there were holes in the wall, but nothing came through them to attack, thankfully. This place was truly quiet, eerily so.
+
+After everything he’d gone through now, chest in the near distance, what were the chances this thing was a fucking mimic? That it’d try to swallow him whole and spit him out in another fucking dimension, or some equally horrible fate?
+
+Eh, he could use to be more optimistic. Sure, everywhere he went here, something was waiting to kill him, but he deserved a win, and by god was he gonna take one. If it was a gross eldritch chest monster, he’d beat the fuck out of it and take its treasure after. Made no difference to him.
+
+Thankfully, no such chest beating had to occur. When Markus reached the chest, he soon discovered that it was, thankfully, just a chest.
+
+However, its contents were far more interesting than its status as a chest.
+
+Namely, the hefty sack of coins that sat atop the pile, its contents spilling out onto the book it rested on. Besides that, there were a couple of gems of varying colours, one bright green, another a dark lapis, and two clear white rocks with roughly cut corners sat within the chest.
+
+The book was one of two, one immaculate and bound in a metal covering, and the other tattered and weathered by age. Alongside these items was a dagger, and further in the chest, a small paper fan that had been partially torn at the ends.
+
+There might’ve been more that he wasn’t seeing, but it was hard to tell in the low light. Markus considered pocketing what he could here, but he didn’t want to have to stuff his pockets full and had no clue where the hell he was putting the massive book.
+
+What was the alternative? It was a bit shit that the system hadn’t seen it fit to give him a handy-dandy pocket dimension to store stuff in. Wouldn’t have hurt that much, would it?
+
+Markus tried hoisting the chest.
+
+It moved surprisingly easily. He’d almost thought the old container would fall apart in his hands, but it was clearly reinforced and sturdy. While a bit troublesome to carry, Markus could still manage it well enough, and within a fairly short space of time, he’d managed to carry the chest most of the way back out of the corridor.
+
+“Hey… you’re still alive?” The imp stood at the edge of the corridor, still clutching his torch. He narrowed his eyes. “The fuck you got there?”
+
+“Chest,” Markus grunted, shifting the container with a fair bit of effort. It’d started off feeling easy, but walking with this thing became increasingly difficult the further he went, and it wasn’t long until it became pretty difficult to not just drop it.
+
+“I can see that. What’s it got in it, huh?”
+
+“Few silver coins and a couple books,” Markus lied. “If you teleport it back to my cell with me I’ll let you have some silver.”
+
+“Yeah, sure.” The imp growled. “I know you’ve got more in there. I can tell that much from here.”
+
+Markus raised an eyebrow. “Maybe I do. Are you in a position to argue, though?”
+
+“Grr…”
+
+“Thought so,” Markus smiled, plonking the sturdy chest down and sitting on it.
+
+First thing he’d had that resembled a chair or stool in days. It was kinda comfy in an extremely uncomfortable kind of way.
+
+Beat the floor at least.
+
+“Alright,” the imp said, tapping his foot as he spoke. “We heading back now?”
+
+“Huh?” Markus blinked at him. “Fuck no. I’ve only got so long until my next fight—”
+
+“A day,” the imp interrupted.
+
+“A day? Really?”
+
+“Yeah, probably. Start of a new week tomorrow, which probably means you should rest up, riiight?”
+
+Markus shook his head. “No way. If I’ve only got today to train, I’m getting the most out of it. Besides, might be more chests down here.”
+
+“Grr, LET ME THE FUCK OUT OF HERE!” The imp stamped on the floor as he spoke, hair going everywhere as he flailed in futility. “Yes, there’s more treasure, and it’ll still fucking be here tomorrow, or a year from now!”
+
+“You can leave when I’m done or when I’m dead. In the meantime, can you levitate shit?”
+
+“Wha—no! Do I look like a mage to you?”
+
+“No. You look like a ballsack,” Markus said. “Anyways, if you can’t carry them with magic, you can at least carry this chest, and teleport them all back with me when we’re done. I’ll give you… what, three silver for each one we find?”
+
+“That’s less than I make in a day you cheap fuck!”
+
+Markus shrugged. “Find ten and I’ll let you keep one.”
+
+“Hmm…” The imp rubbed his chin. “Who chooses which one I keep?”
+
+“I do. Take it or leave it. Don’t help if you’re not interested.”
+
+Markus stood his ground, staring the smaller creature in the eye. By all means, he could force the imp to do what he wanted if he really felt inclined, considering the fact he still had [Detonate] hanging over his shoulders.
+
+But Markus wasn’t interested in doing that. He didn’t mind leveraging or even intimidating the imp when it came to coming down here, considering the little bastard tried to double-cross him twice, but there was a limit to how far he was willing to take it. Even if it felt somewhat liberating  to be in a position of power, even if this guy deserved to sweat after what he’d done to him, Markus wasn’t like Drathok. He wasn’t gonna put this creature on any more of a leash than he had already.
+
+The imp thought it over for some time, grumbling and murmuring to himself as the torchlight flickered and swayed.
+
+Eventually, he nodded, and the pair of them shook on it.
+
+Invigorated with new purpose and activating his newly upgraded [Identify] once more, Markus went off in search of a fatter haul, and more monsters to devour.
+
+By the time he got out of here, he was determined to be more than ready for whatever the fuck got thrown at him next.
+
+Wasn’t long until he picked up on another treasure indicator, and this one was twice as potent. The pair of them headed straight for it, the goblin carrying Markus’ chest with surprising ease. He was strong for his size.
+
+This next chest was sat on a high ledge perhaps twenty feet up, thorns and vines all around it, ivy snaking up the walls on either side and firmly wrapping around the container. For more than thirty feet across, excessive plant life shrouded the neighbouring walls and floor. A ruined, crumbling series of ledges, loosely connected by overgrown plants seemed to be the only viable way to climb to the treasure sitting at the top.
+
+Markus stepped into the room, and all around him, the plants immediately sprung to life, growing rapidly, snaking around his ankle, shooting up to strangle him, thorns pressing against the back of his neck as he attempted to snake back his limbs, barely dodging the vines that attempted to wrap around both his arms.
+
+He sliced through a portion of the aggressively germinating vines, panting as he freed his neck from their grasp, only for them to reattach themselves in front of him not moments later.
+
+Oh. Well this was gonna be fucking spectacular.

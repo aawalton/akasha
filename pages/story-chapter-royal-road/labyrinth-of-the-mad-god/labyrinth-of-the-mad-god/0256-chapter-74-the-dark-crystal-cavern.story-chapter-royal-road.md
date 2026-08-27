@@ -1,0 +1,99 @@
+---
+id: 880931dd-d230-56f4-a25c-bd6daebed9fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74: The Dark Crystal Cavern"
+slug: 0256-chapter-74-the-dark-crystal-cavern
+partOf: labyrinth-of-the-mad-god
+position: 256
+ownLength: 1661
+unit: words
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2816051/chapter-74-the-dark-crystal-cavern"
+royalRoadId: "2816051"
+---
+
+The messenger turned to Nick and said, “We found a regional resource, and the System confirmed it’s within the city limits.” He grew even more excited when the man told him what types of mana the site provided. Claiming it will let us place Aurora’s first Rare building.
+
+“Go on then.” Kenji grinned. “I’ll grab the rest of the committee. When you get back, we can place that building. After that, we should throw a party to celebrate the accomplishment and welcome our newest members. It will do them good to take their minds off what happened, even for a few hours.”
+
+Liz was in the process of agreeing, but Nick didn’t catch the details. By this point, he was already running toward the crevice where Team Earth had battled the wurm—thrilled to lock in this major milestone for settlement and start working on a project he had been looking forward to for weeks.
+
+He switched on Force Acceleration after leaving the city, transforming his view into a smear of motion as he sprinted across the biome. Not long after, he arrived at the ravine. He leapt straight off the edge and deactivated his skill to break his fall, earning another round of applause from the group that was waiting for him at the bottom.
+
+The survey team—who had been exploring the warren of tunnels the Armada Wurm had dug—provided the details of their discovery while everyone followed their crew leader into the subterranean passageway, which had changed considerably over the last few days.
+
+Instead of raw dirt, the walls were covered in solid stone, courtesy of the earth shapers. Here and there, a support beam was reinforcing the ceiling, and illusion-generated lights were attached to the floor every twenty feet. “We would have found this faster, but we had to stabilize these tunnels,” the woman explained while they walked deeper into the Earth.
+
+“Since they were created by a creature that burrowed using magic and aren’t a natural formation, they were in danger of caving in with even the slightest tremor. It will take a lot more shaking to collapse them now, which means we can use these spaces for other purposes going forward and dig out as many side passages as we want. Storage, mushroom farming, and an emergency escape route were a few of the ideas the gang has been tossing back and forth while we worked.”
+
+“That’s amazing,” Nick said. “Your people have done one hell of a job, and those are some great ideas. I’ll pass them along after I secure the regional resource. How extensive are these passages anyway?”
+
+“We have no idea. The boss had only been spawned for a few days when we killed it, so they can’t go on forever, but Armada Wurms must command expansive territories in the wild. If I had to guess, I would say another mile or two, tops. We plan to keep exploring until we reach the end. I have a good feeling we will find something else down here that makes it worth the effort.”
+
+While she continued to narrate, the surveyor led Nick down and down and down—far further than he had expected. They came to a stop when the wall on his right opened, revealing one of the largest underground caverns he’d ever seen. His eyes widened when he realized what he was looking at.
+
+The wurm had clipped one edge off a gigantic geode before adjusting its course, exposing the mana-rich resources inside. The surfaces of the enclosure were covered in gigantic crystals that were shrouded in flowing darkness. The effect was beautiful, otherworldly, and utterly magical, as the minerals were absorbing the light they touched instead of reflecting it.
+
+Even if he hadn’t been told, Nick would have known he was looking at a regional resource. The mana filling the air was so thick he could sense it without switching on his mage sight—shadowy tendrils rising from an orderly matrix of magic.
+
+Sure enough, when he stepped into the cavern, a message from the System wavered into existence.
+
+System Message: Regional Point of Interest
+
+You have discovered a hidden regional resource.
+
+The Dark Crystal Cavern
+
+The crystals in this cavern gradually absorb life mana and convert into crystalline and darkness. Note, the mana will cease to flow if the crystals are destroyed.
+
+Cost to claim: 800 CP.
+
+City bonuses once claimed: +2 Darkness mana generation. +2 Crystalline mana generation.
+
+Status: Unclaimed.
+
+Only a city lord may claim this resource (if it is within their domain and they spend the requisite CP).
+
+Interesting. He rubbed his chin while mulling the matter over. The System mentioned the planet’s mana could take on other aspects if it was allowed to resonate with certain environments. That must be what is happening here.
+
+However, the other resources I’ve found seemed like they were conduits for mana, rather than the source. The research team will have a field day down here. I don’t know much about crystalline mana, although a lot of the magitech I’ve come across appears to be crystal based. There must be some connection between them.
+
+As the surveyors had reported, the resource was within Aurora’s domain, which meant it truly was a sphere of influence and not just the hemisphere that was visible from the surface. Since this cavern provided two types of mana he’d been hoping to find and the committee had preapproved the acquisition of all regional resources, Nick pulled up his city menu and claimed it now.
+
+The leader of Aurora has claimed the regional resource:
+
+The Dark-Crystal Cavern
+
+Everyone let out a cheer when the System’s update appeared, and he praised the explorers on their way back to the surface. He wasn’t trying to bolster their morale—he was genuinely thrilled by their discovery and proud of their ingenuity.
+
+When he made it back to Aurora, most of its citizens had gathered in front of the mana wells, inspecting four new basins that had appeared only moments ago. He let out a low whistle when he came to a stop beside Liz and peered into the fonts of concentrated energy.
+
+The darkness wells were fascinating. Nick had watched Bret use shadow magic on several occasions but hadn’t observed darkness mana in its natural state until today. Since it wasn’t elemental in nature, it resonated with him in a way that the earth, fire, and water wells didn’t.
+
+The potent energy was black as ink and conveyed an impression of hidden spaces and half-seen faces. With enough practice, I should be able to manipulate and absorb it, he mused. There must be trace flows of dark mana everywhere at night. I should mediate here, attune myself to the frequency, and learn how to perceive it in the wild.
+
+With that, he turned his attention to the second type of well, which was filled with an energy he knew even less about. The crystal mana felt strikingly different from any other type he had encountered—to the point that he had a hard time putting what he was feeling into words.
+
+Every frequency of mana created sensations that each mage interpreted in their own way. For Nick, fire mana felt fierce and all-consuming, and electric mana tingled with boundless energy that sought the path of least resistance.
+
+Crystal mana felt… ordered was the best word he could come up. Like the energy was contained with a stable matrix that made it far more predictable than any of the rest. Peering into the font reminded him of staring at the circuitry of his computer, as if the individual flows could be combined into complex structures to create a vast range of effects.
+
+As fascinating as they were, studying these new types of mana would have to wait. Now that Aurora had access to earth, darkness, and fire wells, the city had cleared the requisites to acquire its first Rare building, the Item-Modification Station.
+
+Nick couldn’t wait to find out what it could do, and it took everything he had to resist the temptation of placing the building right away. This was a historic moment for the settlement—an accomplishment born of the hard work his people had put in for weeks on end—and it was only fitting that everyone was here when the building came up.
+
+While they waited, Sarah used her illusions to help the committee decide on the exact placement. They had discussed the matter before but wanted to make a few tweaks based on some changes to the roads they had made in the meantime.
+
+The last team in the field made it back to town an hour before sunset.
+
+Nick found himself surrounded by a sea of excited faces as over five hundred people followed him into the inner district, where they had decided to place all structures related to research and the advancement of the magical arts. When they reached the right spot, he opened his city menu, selected the station, and confirmed the prompt.
+
+Whenever the System materialized a building, he could sense energy coalescing that was unlike anything he’d felt before. But when the galaxy-spanning entity created the Rare structure, the effect was far more intense. A thrumming buzz filled the air, making his body tingle. There was a sense of mounting pressure—of coiled tension—like lightning was about to strike.
+
+The area began shining as the foundation dug itself, followed by walls and internal structures that grew into being from the bottom up. He could sense the flows from the mana fonts being redirected, stretching out from the wells before linking up to the nascent building and infusing it with power.
+
+Whatever the System was doing, the Earth’s mana reacted to it. The crowd let out a collective gasp of amazement, staring at the dazzling interference patterns in the ambient flows until the last roofing tile appeared and the jaw-dropping display cut off as abruptly as it had begun.
+
+The leader of Aurora has purchased:
+
+1 Item-Modification Station (Rare).

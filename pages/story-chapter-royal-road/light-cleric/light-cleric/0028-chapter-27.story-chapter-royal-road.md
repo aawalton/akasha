@@ -1,0 +1,323 @@
+---
+id: 05dce8ca-dc5f-55b2-b9c1-39ad5dd4928d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27"
+slug: 0028-chapter-27
+partOf: light-cleric
+position: 28
+ownLength: 4964
+unit: words
+publishedAt: 2021-08-14
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/733742/chapter-27"
+royalRoadId: "733742"
+---
+
+Night travel was harder than Piety had thought it would be. She knew it was dark at night, but traveling through the dark on horseback proved to be slow and uncomfortable. She often found herself peering into the darkness, straining her eyes. Tobias had forbidden her to create light for them, reasoning that it would shine like a beacon to any looking their way, and that their mission was now clandestine.
+
+Making matters even more difficult, the horses did not like Hirrom. The first night after leaving Sacred Heart, he had entered their camp, as they had planned, and the horses had raised an almighty fuss, pulling at their tethers, and whinnying shrilly. Piety had soothed them with mental caresses, but, even days later, the vhamp still made them nervous.
+
+“I suspect I smell like a predator.” Hirrom shrugged sheepishly.
+
+Finally, Piety found it difficult to sleep during the day. Three days into their journey, after they had secured Hirrom in a thick-curtained tent in the shade of a copse of trees, Piety lay on her back and stared at the canvas above her. She was tired, her body near trembled with exhaustion, but her mind was caught in a tumult of cyclical thought: what would happen as they approached the Intersect, was Hirrom, a vhamp, really safe to travel with, and why couldn’t she stop thinking about Tobias? In particular, she kept thinking about his hazel eyes with their dark brown ring around the outside.
+
+The past two days, Temperance had shared her inability to sleep during the day, and they had passed the time whispering in quiet conversation. But today, Temperance slept quietly beside her, breathing evenly. Piety regarded her friend with envy, and Temperance snuggled a little closer.
+
+With nothing else to do, Piety closed her eyes and slipped into her mindspace. She sat in the chair in the room in her mind and stared at the chessboard, set for a new game. She hadn’t moved a piece since her first victory, since the responding note, since Father Vytal’s death. The note still sat trapped under the white royal. She moved the game piece to pick up the note and read it again.
+
+“What does it matter?”
+
+“Of course it matters,” she whispered to the note.
+
+She took the note to the desk, prepared to respond, but didn’t know what to say. Instead, she retrieved the pack of playing cards from a drawer in the desk and dealt out a hand of solitary.
+
+For years Piety had suspected someone shared the room in her mind, someone who stocked the bookshelf, who knew the rules to cards, with whom she played chess. She had explained it to herself as a manifestation of her subconscious, she had hoped she’d been right, she had tried not to think about it too hard.
+
+But it was obvious now, beyond obvious, that she shared her mindspace with another—she could ignore it no longer. So, looking at the cards on the table, Piety tried to figure out what to do about it.
+
+Certainly no harm had ever come of it. The card games, the books, the games of chess, they had all been welcome, helpful even. The mindspace had been a refuge, the books had stretched her understanding of the world, the chess games had taught her a new way to think. So why did it bother her that she shared it with another? Why did it matter? Because she had thought of it as a refuge. She had wanted a safe place, something that couldn’t be taken from her.
+
+But that desire had come from a frightened little girl who had nothing of her own but a friend’s affection. She was the Light Cleric now, and she was no longer afraid. This person with whom she shared her mindspace, she (or he) had never been malicious. In fact, Piety would go so far as to say she (or he) was a friend. And that did it; Piety decided it was time to introduce herself.
+
+She stacked the cards without playing a hand and retrieved paper and ink.
+
+Dear Black,
+
+My name is Piety Churchstep, and I am an orphan.
+
+She held nothing back. She wrote about her life at Sacred Heart, escape, and return; she wrote about Temperance, their friendship, and their disagreement about God. She wrote about Father Vytal, his lessons, and his death. She wrote about Father Jack Shane and Father Hirrom Berek and High Cleric Marcus Radden, about fire blossoms and fire-arms, about war and healing, about a woman with purple eyes and ravenous undead.
+
+And then she paused.
+
+Her narrative had been out of order, organized by subject as it came to mind, one flowing to the next with addendums and alterations thrown in whenever she recalled them. Her struggle with the vhamps would have easily led into a description of General Devorah Kempenny, and Piety was strongly reminded that Temperance and the Royal had both commented on how alike they looked. And she couldn’t help but wonder, again, if perhaps they were related.
+
+And if they were related, would that allow them to share a mindspace?
+
+Piety looked at the chessboard, then back at the paper to realize that she’d trailed a line of absent-minded ink down the page.
+
+In a quick, scrawling hand heavily at odds with the neat script she’d used for the rest of the letter, she wrote,
+
+Black, are you Devorah Kempenny?
+
+• • •
+
+She stood on the edge of a cliff looking over a storm-tossed ocean on the edge of evening, a time of inbetween. The Cliffs of Olytan, the place of the Twilight Realm Intersect. She turned to face the rolling hills of Olytan County dotted with scrub brush and olive trees, blanketed in short, yellow grass. The storm clouds overhead did not blanket the sky, and beams of sunlight shafted to the field in an alternating pattern so as to give the impression of a chessboard, alternating patches of light and shade.
+
+And standing on either side of this rolling field, each poised to do great harm to the other, stood two armies. On her left, from the east, stood an army clad in white tabards over tunics from a number of counties from all over the nation. Piety had never made much study of heraldry and did not recognize the represented counties. Further, the white tabard was unusual, for Royal Isabel had continued the use of the purple tabard for the royal army. On her right, from the west, stood an army clad in the black tabards with blue trim of Kempenny Duchy. None wore under tunics representing counties within the province, but there was a greater variety of human variation among them; pale skin, blond hair, blue eyes, the people of the Mountain Kingdom from across the southern seas. Theirs was a more eclectic group in weaponry as well, sporting single and two-handed axes and great war hammers in addition to the more traditional swords and shields, pikes and bows.
+
+• • •
+
+Piety came awake with Temperance’s hand on her shoulder and a thin coat of sweat on her forehead. The light had dimmed significantly since she’d last had her eyes open. It was late evening.
+
+“You were dreaming,” Temperance said.
+
+Piety nodded.
+
+“Was it…”
+
+“Armies, a checkered field, stormy skies.”
+
+“So the usual then.”
+
+“But this time it felt more…” Piety hesitated. Temperance watched her with patient eyes. “It felt more immediate, less abstract.”
+
+“There’s going to be a battle.” Temperance spoke with conviction, confident in Piety’s dream.
+
+Piety shrugged. “Loreamer is at war with Kempenny. It’s not an impressive prediction.”
+
+“Perhaps it’s a really important battle.”
+
+“Perhaps so.”
+
+Temperance prepared breakfast, though with the sun setting Piety couldn’t help but think of it as dinner. Tobias was already up, maintaining his sword. Their tack was laid out and smelled of leather and soap. He nodded at them but said nothing. He was clad in a thin, sleeveless undershirt that clung to his body, showing off smooth muscles glinting with sweat in the setting sunlight. With the light shining off him he looked like a Saint out of Scriptures, surrounded by a golden halo.
+
+When he looked up at her and smiled, just a bit, Piety felt her cheeks catch fire and her whole body rush with a kind of tingle. Quickly, she looked away, closing her eyes. But when she closed her eyes, she could still see him, see his aura. She’d never seen his aura before, never thought to look at it. His aura was not the yellow-orange of most, but unique: bright, sky blue with red and gold tracing the edges.
+
+“Piety?”
+
+Piety jumped at Tobias’ voice. When she opened her eyes, he was looking at her with wary concern.
+
+“Father Berek has asked to see you. Are… are you all right?”
+
+Piety cleared her throat and tried to stifle the sudden pounding of her heart. “Um, what?”
+
+Tobias put a hand on her shoulder and his concerned expression deepened. Piety swallowed hard.
+
+“Perhaps you should sit, Mother.”
+
+“No. I’m fine really just… uh, never mind. What was it you needed?”
+
+“Father Berek wanted to see you, but—“
+
+“Hirrom? He’s awake?”
+
+“Yes, Mother. He can be awake during the day, remember?”
+
+Piety had a hold of herself now; Tobias’ proximity was no longer distracting. “Yes. Of course.”
+
+Hirrom’s tent was made of several layers thick fabric stitched together by Piety and Temperance. No stray sunlight penetrated the tent. But when Piety approached the south-facing tent, she noted the entrance flap was open, even though the sun had not finished setting, even though some stray sunlight filtered in. Piety knelt and peered into the shadows of the tent.
+
+Hirrom sat cross-legged at the back of the tent, hidden by shadow.
+
+“Tobias said you—“
+
+“I used to love watching the rising and setting of the sun. It is the symbol of our Noble God, the tangible manifestation of an abstract idea; we wear it to symbolize our love for Him and all His people, and now I’ll never be able to look upon it again.”
+
+Piety didn’t know how to respond but got the feeling she wasn’t being asked to, so she stayed quiet, kneeling in the dirt before the tent, waiting.
+
+“My hypothesis, though I have only anecdotal evidence, is that the Dark General’s umbramancy instilled in her undead an aversion, a weakness even, to sunlight to such a degree that we must sleep while the sun shines. But for one such as me, who so loved the sun, and for those of my line, we can resist, just a little.”
+
+Piety cleared her throat. “Your line?”
+
+“Those I infected with the vhamp poison. Vahramp taunted me with them. He would starve me, then present me with blood, with people. But he would take them from me after only a taste then show me the creatures I had created. He took delight in the evil spread by a holy father.”
+
+The sun barely peeked over the horizon now. Hirrom crawled to the tent opening, and Piety stood to get out of his way. He thrust his hand out of the tent, palm up to show the faint burn scar he’d acquired by swearing an oath with his hand on the gold inlaid sunburst of the Scriptures. The skin of his hand and forearm smoked gently; the stink of burning flesh perfumed the air. Hirrom sighed a groan of pleasure and pain. Moments later the sun was below the horizon and twilight reigned the sky, night eminent.
+
+“Your aura is looking well today, Mother.”
+
+Piety smiled and couldn’t help a small, delighted laugh. “Thank you, Hirrom.”
+
+He stepped out of the tent and stood. “Now, what was it you wanted to see me about?”
+
+“Tobias said you wanted to see me.”
+
+Hirrom’s bloodless cheeks couldn’t pale, but he looked concerned and apologetic. “I forgot. I was entranced by the sun and your aura. Speaking of which, my aura reading has improved greatly, and I’d like to—“
+
+“Hirrom.” Piety’s stern voice cut though his sudden, excited babble.
+
+Hirrom started. “Oh. Quite right, another time. I asked Tobias to send you because there are vhamps out there.” He waved vaguely at the foothills of the Western Mountains that would parallel them all the way to the Cliffs of Olytan. “I felt their minds as I slept. They’re not powerful, but they’re hungry”
+
+Tobias had come upon them quietly, and when he spoke, Piety jumped.
+
+“We are well equipped to handle them, Father.”
+
+Hirrom touched his chest absently where might once have rested a sunburst pendant. “No, Tobias, that’s not what I meant. I was hoping to bring them with us.”
+
+Tobias interposed himself between Piety and Hirrom and put a hand on his sword hilt. “This mission is dangerous enough without trying to corral undead monsters.”
+
+“Oh, I agree, Tobias. But, what if we could return to them their humanity?”
+
+Piety stepped from behind Tobias, giving him a frown he ignored. “You want to feed them?”
+
+He nodded.
+
+From where she tended breakfast, Temperance said, “Who?”
+
+They all looked at her, the cooking fire providing the greatest source of light in the deepening dark. She kept her gaze on her task. Hirrom cleared his throat lightly, apologetically, but Temperance didn’t give him a chance to respond.
+
+“It’s Piety, isn’t it? You want to feed them Piety’s blood.”
+
+“Absolutely not,” said Tobias at the same time Piety asked. “Why?”
+
+Hirrom cleared his throat again. He turned his gaze to Piety. “As I was saying, I can see your aura much more clearly now. You are so powerful, and you don’t even know it. And that power can be tasted in your blood. One cup of your blood has sustained me these many days, and I can tell will do so for many more. One cup will restore a savage vhamp their humanity. Mother, we can save them. Please.”
+
+Temperance sighed. “I know you didn’t mean it Father, but you just made it impossible for Piety to refuse.”
+
+Piety turned to her. “Temperance…”
+
+“It’s fine Piety. I don’t like that it’s dangerous, but it’s fine. If you can help them, you have to.”
+
+Tobias was not so quick to acquiesce. “Mother, it’s too dangerous. The royal tasked me with your protection. How am I to protect you if you if you insist on exposing yourself to danger?”
+
+“If I didn’t expose myself to danger there would be no reason to protect me, and if I didn’t try to help these people I wouldn’t be worth protecting.”
+
+“They’re not people.”
+
+“They were once, and they can be again.”
+
+“They’re undead. They have no souls.”
+
+“How do you know? How does one measure a soul? And even if they don’t, so what? Hirrom proves that they’re people, soulless or not.”
+
+Tobias did not reply.
+
+“’It is not our place to judge but to facilitate justice,’ said St. Lucius. ‘We can but be subject to one another, love and guide one another,’ said St. Mary. Tobias—”
+
+“No need to quote Scripture, Mother. We’ll do it. But we maintain our travel schedule. And you,” he pointed at Hirrom, “Will be responsible for collecting the creatures. We cannot help you in that. They are too dangerous.”
+
+“Agreed.” Hirrom nodded.
+
+Tobias looked at Piety. “And you and I will make a report to the Royal.”
+
+After breakfast, after Hirrom had left to seek out the vhamps, after they had packed their gear and stowed it on the riding and pack beasts (who were much calmer now that Hirrom was gone), Tobias delayed their departure long enough to report to the Royal. He retrieved from his belongings a mirror the size of a dinner plate. It was smooth and without flaw. It was bordered in silver worked with intricate patterns. This he set upon his knees. Piety sat next to him and Temperance sat next to her.
+
+“Is it a magical mirror?” asked Piety.
+
+“No. The Royal’s power is of inbetween places, and the surface of a mirror is one of those places. This particular mirror has a twin and to signal that I wish to speak with her, I put my hand to the glass and say her name three times. Her mirror will glow lightly. She’s expecting my report, so she shouldn’t be long in answering.” He put his hand upon the glass and whispered her name three times, “Isabel, Isabel, Isabel.”
+
+The way he said her name, with a wistful longing, caught Piety’s attention and she looked at him, but his gaze was focused on the mirror. And Piety felt an unpleasant itch along her shoulders and a tightening of her chest. She swallowed hard.
+
+Moments later, the mirror shone with a pale light, and when it faded, the face of Royal Isabel Loreamer appeared. “Hello, Tobias. Anything interesting happen since last we spoke?” It sounded like a ritual, like a greeting the two shared all the time.
+
+Tobias smiled softly. “Hello, my Liege. In fact, yes. Our newest mission has taken on a new wrinkle. But I’ve asked the Light Cleric to come explain it to you herself.”
+
+“Piety’s with you? So much for clandestine communications.”
+
+“I thought we trusted her, Isabel.”
+
+The Royal smiled, and her smile held a hint of sadness and a hint of playfulness Piety could not decipher. “We do. Well then, let’s hear your new wrinkle, then I’ll tell you mine.”
+
+Piety found that she was examining the details of their conversation: the smiles, the way they spoke to each other, the way they looked at each other, looking for clues as to whether the royal and the soldier were more than just allies, more than just friends. And she couldn’t explain why the thought might bother her.
+
+Tobias handed the mirror to her and Piety settled it on her knees. Piety experienced a moment of disorientation when the face looking at her looked so much like her own, as though she was looking into a regular mirror, and in that moment she stood at the edge of the cosmos, teetering between here and… But then she gave herself a small shake and came back to herself. The Royal and she looked similar, that was all, a fact already established. But she couldn’t help thinking that only hours ago she had sat in the room in her mind and come to the chilling conclusion she might be sharing her mindspace with Devorah Kempenny, the Dark General.
+
+“Hello, Piety.”
+
+Piety took a breath and focused her mind. “Isabel.”
+
+“Tobias tells me you have something to report.”
+
+“You already know about Hirrom’s speculation on the Twilight Realm?” At Isabel’s nod, she continued. “Hirrom thinks we can save more vhamps.” Piety explained how Hirrom thought that her blood was particularly potent, how they could restore the vhamp’s humanity, and how Hirrom was in the foothills of the Western Mountains right now, searching for vhamps they could save.
+
+Isabel raised an eyebrow in a manner that reminded Piety of Father Vytal. “And you don’t think this is needlessly dangerous?”
+
+Piety shrugged. “It’s dangerous, certainly, but it’s not needless. Isabel, your war continues unabated and I can’t do anything to make that any better. I’ve tried already. But this is something I can do.”
+
+“And what do you intend to do about Vharamp? Tobias tells me he too seeks the Twilight Realm.”
+
+“I’ve grown in power since we last met. I can handle him.”
+
+Isabel was quiet for several minutes, her calm expression revealing nothing. Eventually she said, “Speaking of the war, that’s my wrinkle. Though the main conflict remains on the front of Pinefort, there have been reports of Kempenny troops here in the north. I don’t know how she’s put troops north of the Grand, so if you find out, let me know. In the meantime, be careful.”
+
+• • •
+
+They rode through the night, guided for the first several hours by a pale half-moon. After the moon set, only starlight shone upon them and that wasn’t enough for Piety to make out anything but shuffling shadows, the clop of hooves, and the hoots, howls, and shouts of nightlife. Piety let loose the reins, trusting to her horse to follow the other horses and to be better able to see as it carefully picked each step, stumbling only occasionally.
+
+Piety stared up at the night sky; pinpricks in black velvet, diamonds on a noble’s collar, brightly colored fish at the bottom of the darkest sea, and she felt its depth, as though whatever kept her here on this ground was so tenuous it might give way at any moment and she would dive into the velvet, dancing among the diamonds, spinning away forever.
+
+“Piety?”
+
+Piety looked at Temperance, though she could barely make out her friend’s features. She smiled.
+
+“Did you know the people of the Mountain Kingdom believe in many gods?” asked Temperance. “Frij told me.”
+
+Piety was mollified to hear Temperance stumble over the unfamiliar name as she had. “I know only what they told us at the High Temple. Both the Mountain Kingdom and the Taraknaki Empire are polytheists, but worship different deities.”
+
+“There’s Woten, the king deity. In the Mountain Kingdom, they say ‘king’ for male royal. That’s why they call it a kingdom. There’s also a queen, a female royal, called Fregg, or maybe Fregga, and they have brothers and sisters who are giants and trees and mountains, all of whom are immortal, and they’ve got kids who are deities too.”
+
+Piety nodded though Temperance couldn’t see it.
+
+“I guess my point is, if our God is real, then why can’t theirs be? The clerics say God is the only deity, but why shouldn’t theirs be just as real? How can we know for sure?”
+
+“I suppose we can’t.”
+
+“That’s it? We’re Mothers of the Church, and that’s all you can say?”
+
+“Well, what do you think about it?”
+
+“You already know what I think.”
+
+Piety shrugged again. “The existence of other religions doesn’t disprove ours.”
+
+“What if those other deities really exist?”
+
+“So what? It’s not about God or gods, it’s not about saints or demons, it’s not about our stories or theirs. It’s about us, Temperance, you and me and Tobias and Hirrom, Lillyfiled and Willow. Isabel and Devorah and Father Vytal. I don’t care if we’re in the High Temple or on the other side of the world, our religion is about what we can do to help other people, no matter what God or gods they pray to.”
+
+Piety stopped, feeling a little flush in the cheeks and short in wind. It didn’t bother her that Temperance might not believe in God, though she had no doubts herself, but it did bother her that the lessons of the Saints as recorded in the Scriptures might be invalid just because other people prayed to other deities. Justice, charity, compassion, these were qualities Piety could not see being the purview only of the Church of Khulanty, but to all people everywhere.
+
+“You’re saying religion isn’t about God.”
+
+Piety hesitated before answering, because though she had never doubted His existence her immediate reaction was to agree. Finally, she said, “Yes.”
+
+• • •
+
+They were met by Hirrom and three naked, slavering vhamps just as they prepared to stop and make camp. The horses shied and stamped and wouldn’t go near.
+
+The vhamps were several paces behind Hirrom, kneeling, with their foreheads on the ground, but they were not still. They writhed as though trapped within an oven and nothing they could do would free them. She could feel their hunger, and feel Hirrom muzzling it. Tobias stood at her side, sword drawn and at the ready. Temperance stood with the horses, trying to keep them calm.
+
+Piety opened herself to her power. She felt the nervous minds of the horses and she calmed them. She touched Temperance’s mind gently, like a friendly hand on her shoulder. Temperance smiled and nodded encouragement. Then she turned her attention to the vhamps. They were desperately hungry, and they feared the rising of the sun, but Hirrom’s mental hold was strong. They wouldn’t move until he allowed them to.
+
+“There were others, but these were the only ones I could capture, Mother.”
+
+Piety nodded, but her attention had already moved past him to the kneeling wretches. She blocked out Hirrom’s apology and Tobias’ protective hovering, and she focused on the vhamps. She touched their minds each individually, she reached past the immediate hunger to the personality that once inhabited the body: the daughter of a dairy farmer, a weaver, and a smith’s apprentice. She found their minds remarkably open, which was how Hirrom kept hold of them.
+
+In their equipment, Piety knew there were a few sets of travel dining implements: metal plates and bowls, sturdy spoons and forks, cups of wood. She reached to where Temperance made camp and found one of the wooden cups, she felt its grain smoothed by use, and she took hold of it with her power, wrapped it in telekinesis, and pulled it to her right hand. She held it steady while holding her left arm above the cup and slashing it with a sharp pull of power. Immediately blood welled from the wound and dripped into the cup. She felt Hirrom tighten his control over the vhamps as the scent of blood reached them. Gently, she insinuated herself into their minds alongside Hirrom. She projected comfort and protection.
+
+She bade the farmer’s daughter come forward first. It was difficult to determine sex among the emaciated frames, even with them completely naked, but the one who rose from its prone position and crawled toward her on hands and knees was the smallest of the three. Piety held the cup out to it, holding the cup with telekinesis to avoid any potential accidents with claw-like fingernails.
+
+The vhamp took the cup delicately from the air, its hands shaking slightly. Piety lowered her bleeding arm and took a step back, using her power to close the wound. The creature raised the cup to its lips and drank in great gulps, its elongated tongue protruding from between carnivorous teeth to lick the cup dry.
+
+Piety took the cup back without touching it and sent the creature back several steps to sit upon the ground without abasing itself. Then she summoned the smith’s apprentice while she repeated the process of opening her arm, letting the blood flow, and presenting the full cup with telekinesis. This one was less careful in its movements, snatching the cup and spilling blood over its fingers, drinking greedily and making sure to lick its fingers dry.
+
+For the third vhamp, she repeated the process and watched the weaver drink the blood carefully, and this time she saw notable change. As she drank, the vhamp lost her emaciated figure, filling out like a reverse of a wilting flower, her stomach first, then hips and breasts, thighs and shoulders, arms and calves. Her skin became smooth though not flawless, her hair thick though not without grey, her eyes lost their madness though not their fear. She took a breath, coughed, and shuddered, dropping the cup. Piety caught it with her telekinesis.
+
+The woman looked at Piety and dropped to her knees, pink tinged tears tracking down her cheeks. Piety sensed no guile in her.
+
+“Cleric! Please, I… I don’t…”
+
+“I know.” Piety let the woman see her mind, speaking mentally as well as physically. She showed her that she knew the torture of the vhamps and that she would help them if she could. She showed her they were going to a place that might save them the torture they had known. And Piety showed the vhamp that she could and would kill her if she could not control herself.
+
+“Ah, Mother?” Hirrom’s polite interruption reminded her of the rest of the world.
+
+“Yes. Hirrom.” She took hold of his arm and propelled him into the view of the vhamps. “This is Father Hirrom Berek. He will teach you how to… how to be a vhamp.”
+
+“Mother…”
+
+“Hirrom, you should take them to your tent before the sun rises.”
+
+Hirrom nodded and swallowed hard. With a mental tug, he had them on their feet and was hurrying to the south-facing tent of heavy cloth erected some distance from the other tents. But as Piety looked to the east, she saw why Hirrom had been so anxious. The bright halo of the sun already topped the horizon. She looked back at the vhamps quickly trailing Hirrom, and realized they wouldn’t make it in time. They had a moment when they needed several.
+
+The barest hint of the sun came over the horizon, and Piety felt it like the opening of an oven, like a rushing tide of light. Before the light of the sun could even caress the flammable skin of the fleeing vhamps, Piety thrust her hand and bent it. It was like standing in the path of a flooding river and bending it to her will. In preternatural umbra, the vhamps used the few moments they needed to seek the shelter of the tent.
+
+The exertion combined with the blood donation left her exhausted. She released her power, taking with it the rest of her energy. She’d have fallen to the ground had Tobias not caught her.
+
+Temperance made her eat: thick stew with vegetables and a heavy flatbread. Piety forced it down without tasting it. Then she let Temperance help her to bed. As she lay her head upon the thin pillow and took comfort in Temperance pulling the blanket around her shoulders, she knew she would have no trouble sleeping today.

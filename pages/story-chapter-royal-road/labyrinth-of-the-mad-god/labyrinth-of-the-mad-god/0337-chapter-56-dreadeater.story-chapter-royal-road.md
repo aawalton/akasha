@@ -1,0 +1,243 @@
+---
+id: 403d0d0c-382f-52db-9bb9-b8a4b0cc465f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56: Dreadeater"
+slug: 0337-chapter-56-dreadeater
+partOf: labyrinth-of-the-mad-god
+position: 337
+ownLength: 3224
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3826753/chapter-56-dreadeater"
+royalRoadId: "3826753"
+---
+
+“Fritz,” Nick addressed his ally in a low voice. “I’m ready.”
+
+“I’ll get into position and await your signal. Good luck.”
+
+He had long-since realized the man could hear even the faintest of whispers inside the Blade World, as the artifact’s core was merged with his soul. Better still, the king could speak directly into Nick’s mind, letting them converse freely while keeping the dreadbeasts in the dark.
+
+They had been planning this moment for what felt like an eternity, though his perception of time was so warped by this point that its passage had lost all meaning. The duo had fought long and hard, maintaining the delicate balance of power as his cells feasted upon essence and vital energy, leaving the monarchs increasingly diminished as the battle wore on.
+
+At last, the dreadbeasts were weak enough that he was confident he could defeat the scorpion in single combat. The bat was far more problematic, but Fritz was certain he could drive the creature back long enough for Nick to land a decisive blow.
+
+Both roles were vitally important. If Vashir broke though and delivered the killing strike, it would absorb Xuthu’s energy, restoring itself to pristine condition while multiplying its might. Instead of indulging in what ifs at this critical juncture, Nick called upon Arctic Clarity, replacing with his doubts with the technique’s frigid focus and honing his awareness to a razor’s edge.
+
+While his ally goaded the bat and led it to a far corner of the battlefield, he conjured eight maximum-power Mana Darts and sent them whirling around his head. He had learned how to cast multiple versions of the same spell simultaneously during the endless exchange of blows—how to turbocharge them by free casting extra mana into their matrices while the magic was taking form.
+
+At the same time, he cast four Piercing Rays and used psychokinesis to pull his Wand of Force free from its sheath. Force Armor and Force Acceleration were at full power, and he had positioned Arcane Shields in key locations across the battlefield. Blightbane was shining like the sun from all the pure mana he’d packed into the Legendary blade, and when he finished instilling the sword with Devour, his preparations were nearly complete.
+
+He activated Theater of the Mind’s Eye, visualizing the flight paths for all twelve spells at once, plus his wand and sword-based attacks. He used his superhuman attributes to pull up contingency plans in a partition of his awareness—prepared to reach endgame no matter how the Storm Lord responded to his assault.
+
+Of course, the monarch hadn’t been idle during those handful of heartbeats. The golden scorpion had wreathed itself in dread lightning upon sensing the incredible volume of energy coursing through Nick’s channels.
+
+Recognizing the extensive setup for it for the gambit it was, Xuthu decided its best move was finishing him off before he could pull the trigger. A torrent electricity coalesced around both claws and the scorpion’s tail—a dozen bolts lancing forth as the monarch made its last stand.
+
+The Black Wind screamed in incandescent frustration, sensing victory slip between its claws. The bat tried to make it back in time to finish its rival off, but Fritz wasn’t having any of that shit.
+
+“Not in my house!” the Last King of Kastilla roared, having picked up quite a few phrases from Nick after spending so much time together. The warrior leapt like a rocket taking flight, streaking along an intercept course. He slammed into the big bat with the force of a wrecking ball, knocking it into the far corner of Blade World.
+
+Fritz couldn’t keep Vashir contained for more than a few seconds, but that was all the time Nick needed.
+
+He pointed his wand at himself and pulled the trigger, abruptly changing position as Xuthu’s claws came crashing down. He positioned the force-flinging device as high as he could and fired four times back-to-back, driving the dreadbeast into the ground as he moved into its blind spot. Nick switched off Force Acceleration and came to a sudden stop, letting the projection carry his momentum away.
+
+Combining the subzero alacrity and expanded power of visualization provided by two of his oldest techniques, he waited for another fraction of a heartbeat... until the Storm Lord was in the perfect position.
+
+“Checkmate, you big golden bastard.” As those words left his lips, Nick unleashed all twelve spells at once.
+
+Xuthu was insanely fast. It maneuvered one claw in position to block two rays while its hindlimb caught a third. The other claw intercepted three darts, using its Concept-fortified chitin to prevent the pure mana from penetrating. The final Piercing Ray struck its torso as five Mana Darts followed suit from multiple sides.
+
+The foul green lightning flickered and died when the darts’ magic invaded the scorpion’s system, turning a portion of its vital energy into an invading army. Meanwhile, the whirling drill bit carved a channel through its dense natural armor, splitting into a dozen smaller rays when the spell broke through to fill Xuthu’s soft tissue with holes.
+
+Even still, the Storm Lord refused to fall. It reached for Nick while screaming its hate, determined to drag him down to hell, even at the cost of its life. If that was the extent of his power, the monarch’s tenacity would have spelled the end for the leader of Aurora, and one of Earth’s mightiest defenders would have drawn his final breath.
+
+Nick was just getting warmed up.
+
+While the dreadbeast was distracted by his brutal barrage, he gripped Blightbane’s hilt, reactivated Force Acceleration, and called upon Heavy Blow. The sword erupted from its sheath in a furious flash, travelling three feet in a sliver of a second before he switched off Acceleration to complete Sonic Slice.
+
+A supersonic force blade burst free from the cutting edge, followed by a boom like all the world’s thunder resounding in choir. It was the strongest attack he’d managed thus far, and he still had one card to play. In the same instant the technique was completed, he unleashed another. Nick released the dense weave of pure mana and Devour he’d packed into the weapon, manifesting a Severing Slice that followed in Sonic Slice’s wake.
+
+Riven of dread lightning, the force blade carved its way through Xuthu’s shell like a rotten melon, nearly bisecting the dreadbeast in the process. He could have claimed the monarch’s head and ended the fight that way, but at the last possible moment, Nick had listened to his instincts instead. Instead of dealing a lethal blow, Sonic Slice bit deep into the scorpion’s body, exposing the area below its heart.
+
+Severing Slice struck the fulcrum of the dreadbeast’s being a bare second later, snipping every conduit in its energetic network and isolating the creature’s core. The concentrated wave of Devour engulfed the seat of Xuthu’s power, claiming it as his Concept began to pull.
+
+As Vashir screamed in impotent rage, Nick’s cells absorbed the Storm Lord’s might and made it his own. A crackling tsunami broke over him, stretching his channels, condensing his core, and filling his vital energy to the brim. Far more essence than he’d ever absorbed from a single opponent suffused his soul, strengthening every ability he had.
+
+The monarch’s plundered power sank into the part of his DNA that had been mutated by the Crimson Blight, completing the process that was set into motion when he was struck by that first bolt of dread lightning.
+
+He felt memories flowing into his mind, followed by awareness, emotion, and intent. Xuthu made a desperate, last-ditch effort to take control, but Nick’s struggle with the Crimson Blight hadn’t just transformed his genetic structure; it had tempered his will during the war of minds that followed.
+
+In short, this wasn’t his first rodeo. He purged his psyche of the Storm Lord’s presence, purifying its essence, sterilizing its Concept, and using it to fertilize his own. A distant part of his awareness realized something profound had occurred—that what he’d stolen was even more fundamental—but all such thoughts were driven from his mind when a floating screen wavered into existence.
+
+Congratulations. You have accumulated enough experience to reach level [42].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+Congratulations. You have accumulated enough experience to reach level [43].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+Congratulations. You have accumulated enough experience to reach level [44].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+Congratulations. You have accumulated enough experience to reach level [45].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+As a milestone reward for reaching level [45], you have been awarded a bonus free attribute point.
+
+You have 9 free attribute points awaiting allocation at your discretion.
+
+You have improved the following baseline attributes:
+
+Psi has increased from [18] to [22].
+
+Nick waved away the update, only to have the first display replaced by a second bearing astonishing news.
+
+The bloodline trait Blightborn has advanced. It is now Enhanced.
+
+Blightborn (Enhanced): Your bloodline trait capacity has doubled. +27 to all attributes.
+
+You have achieved a remarkable feat and developed a unique bloodline trait.
+
+Dreadeater: You may consume the cores of dreadbeasts and other parasitic entities, gaining a portion of their attributes and innate resistances and converting their essence into form that is compatible with your own.
+
+By absorbing Xuthu the Storm Lord, you have gained:
+
+10 Strength
+
+5 Dexterity
+
+7 Toughness
+
+3 Mind
+
+8 Magic
+
+7 Meta
+
+Increased resistance to electricity, poison, and venom.
+
+Note: Your species has not awakened to Meta. The energy will be held in reserve until your next evolution, at which point you may decide to integrate it or allow it to disperse.
+
+Before Nick could fully process the implications of those words, a pillar of energy transfixed every fiber of his being. A seed of power buried deep within his DNA took root, broke ground, and blossomed between the drawing of one breath and the next. At the same time, his blight-altered genes hit critical mass, catalyzing their evolution into something far greater than before. The attributes he’d stolen from Xuthu merged with the points from gaining four levels at once, adding another stream of energy to the tempest raging inside him.
+
+His core was a volcano, and his flesh was a storm—soul aflame as living lightning flowed through his veins. Every speck of matter was remade on a fundamental level as over two hundred and fifty attribute points hit him at once and the changes to his bloodline took hold.
+
+In that moment, Nick was reborn. His might multiplied and his Concept drank deeply from the feast of essence Severing Slice had ripped from the scorpion’s core.
+
+“I need help! Vashir went mad the instant Xuthu fell.”
+
+He was still in a wildly altered state, but his sense of self snapped back into focus at those words—reason riding along the frozen tendrils of focus Arctic Clarity spread across the molten tide of euphoria, astonishment, and culmination roiling within his breast.
+
+The bat was firing a thousand wind blades at once, driving the king back beneath its onslaught as the dreadbeast’s fury and fear crystallized into an all-consuming madness. Fritz was dodging and blocking in a flurry of motion, slicing through the blades he couldn’t evade.
+
+Nick wasn’t fully lucid. He had by no means begun to adapt to the shocking changes he’d undergone, but none of that mattered right now. His friend was in trouble, his enemy was in sight, and that was all he needed to know.
+
+Drawing on Force Acceleration, he gathered his strength and leapt. The world was reduced to a smear of color and motion as he broke free from gravity’s embrace, streaking through the sky at breakneck speed. He used Arcane Shield to conjure platform after platform, gaining momentum with every jump and arriving at the battle in three seconds flat.
+
+He plowed into the bat like a meteor plummeting from the heavens, catching its neck in the crook of his elbow as he conjured a final platform beneath his booth with his head pointed toward the ground far below. He unleashed the newfound power thrumming through his legs, reaching the velocity of a fighter jet for a fraction of a second before switching off Force Acceleration.
+
+It drained an incredible amount of mana, but it was nothing compared to his expanded reserves. Nick came to a gentle stop as his force clone drove the monarch into the dirt in a catastrophic choakslam, cratering the ground below.
+
+Vashir was rattled but it wasn’t dead yet. A distant corner of his awareness realized the monarch had used its Concept to cushion its fall but suffered significant damage in the process. As Fritz regained his stance and fell into formation, Nick’s boots touched the ground, and he went in for the kill.
+
+He fell upon the bat in a maelstrom of blades, unleashing a relentless series of Devour-infused strikes that ripped energy from its core. Every time the dreadbeast tried to get away, he corralled the maddened creature, leaning on his insane attributes to counter every move it made. Meanwhile, he fired off Mana Darts and Piercing Rays as effortlessly as breathing, wearing the monarch down while shattering any wind blades it sent Fritz’s way.
+
+“No!” Vashir’s voice was thick with horror as its preservation instincts penetrated the monarch’s insanity. “This can’t be happening. He said it wasn’t possible for anything to resist my touch. What are you?”
+
+“I have no idea.” Nick moved in sync with his ally. “But I’m the last thing you’ll ever see.”
+
+With that, the duo struck as one. Fritz drew every scrap of energy contained within his core and cast it like a net, immobilizing the Black Wind while Nick served up a Severing Slice. He didn’t open with a Sonic Slice this time. Instead, he kept his Concept bound to the blade as it cut through the bat’s body like a scythe through sea foam, using his energetic senses to target the creature’s core.
+
+When Blightbane reached the energetic heart of Vashir’s being, his concentrated wave of Devour encased monarch’s epicenter, pulling every mote of power it contained into his channels.
+
+The bat’s psyche put up a better fight than the scorpion’s, but it was nothing compared to the unassailable bastion of Nick’s will. He consumed the creature’s essence and vital energy and took a bite from its soul, extinguishing its mind like a candle in the rain.
+
+By absorbing Vashir the Black Wind, you have gained:
+
+4 Strength
+
+11 Dexterity
+
+6 Toughness
+
+8 Mind
+
+7 Magic
+
+6 Meta
+
+Increased resistance to pressure changes and wind attacks.
+
+Note: Your species has not awakened to Meta. The energy will be held in reserve until your next evolution, at which point you may decide to integrate it or allow it to disperse.
+
+Congratulations. You have accumulated enough experience to reach level [46].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+Congratulations. You have accumulated enough experience to reach level [47].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+Congratulations. You have accumulated enough experience to reach level [48].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+Congratulations. You have accumulated enough experience to reach level [49].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+You have 19 free attribute points awaiting allocation at your discretion.
+
+Power surged through Nick’s channels, but it wasn’t nearly as intense as what he’d experienced when Xuthu met its end and Blightborn assumed its enhanced form. He was still lucid enough to notice there was a second page of updates.
+
+He swiped the floating screen while adjusting to the changes taking place, reading though all the gains the System hadn’t acknowledged until their three-way war reached its astonishing end.
+
+Through use, you have improved the following skills:
+
+Acrobatics has increased from [17] to [25].
+
+Evasion has increased from [28] to [40].
+
+Light Armor has increased from [15] to [20].
+
+Light Shield has increased from [29] to [36].
+
+Sense Hostility has increased from [7] to [22].
+
+Size Up has increased from [31] to [48].
+
+Sword has increased from [35] to [50].
+
+Vital Energy Manipulation has increased from [24] to [25].
+
+Wand has increased from [26] to [44].
+
+Note: You may not increase your Acrobatics and Vital Energy Manipulation skills beyond 25, or Sword beyond 50 until you complete the trials of mastery.
+
+You have accumulated sufficient essence to advance Arcane Shield to Rank 4. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Enhance Physical Senses to Rank 4. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Force Armor to Rank 3. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Force Acceleration to Rank 5. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Force Riposte to Rank 3. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Heavy Blow to Rank 5. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Mana Dart to Rank 6. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Piercing Ray to Rank 6. However, you lack the understanding required to advance the ability at this time.
+
+While everything he’d read was incredible, not all of Nick’s acquisitions were contained within that list. He could sense that his tier had advance considerably—his Concept refined by pitting itself against the monarchs’ own. He was pretty sure that he’d picked up a massive windfall of species experience too, although it was hard to be certain.
+
+Nick had felt Blightborn absorb a portion of the Black Wind’s essence, cementing his certainty that it could grow even stronger than it already was. He couldn’t sense any changes to Dreadeater, which either meant the trait couldn’t evolve or it advanced through other means. When he detected a pulse of energy near his boots, he realized his Wand had absorbed a fair amount of essence too, taking the living artifact one step closer to its next transformation.
+
+“Well done,” Fritz came to a stop beside Nick and clasped his shoulder. “A king whose body is a sword wielded by a man whose soul is a blade. What a pair we make. If we live long enough, we just might become the stuff of legends. I have a mountain of questions regarding what just happened, but they can wait a little longer. I couldn’t extend my senses beyond the Blade World while we were fighting, but you need to go. I don’t see Bandit or Kenji, and I fear our friends are in danger.”
+
+Unwilling to waste a second, Nick’s consciousness left Blightbane and returned to his body, where a great deal had changed while he was away.

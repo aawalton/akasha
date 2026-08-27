@@ -1,0 +1,309 @@
+---
+id: e35bbeb4-f262-549a-aa29-0b46a160576b
+page-type-slug: story-chapter-royal-road
+title: "8. Frost Mastery"
+slug: 0008-8-frost-mastery
+partOf: mana-devourer-litrpgmana-cultivation
+position: 8
+ownLength: 3872
+unit: words
+publishedAt: 2024-06-29
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697801/8-frost-mastery"
+royalRoadId: "1697801"
+---
+
+Well, that could’ve gone worse.
+
+Maxen wasn’t a crack dealer. What he did end up being was a brothel owner. He found Markus’ power interesting, and hoped to use his ability to transfer mana to invigorate his workers with incredible energy, ensuring they could continue to see clients, perform shows, and generally be available near enough twenty-four hours a day for as long as humanly possible.
+
+As Markus understood it, the most valued courtesans were in such high demand that it actually behooved Maxen to limit their availability. Something about retaining their exclusivity.
+
+It was the dozens upon hundreds of lower-ranked workers he owned that he wished to see working twenty-four seven, insisting that such a life would be more than splendid for any of his employees, for they ‘did so enjoy working for him’, and ‘endless work would only mean endless fulfillment’ for any of them.
+
+Markus wasn’t so sure about that. He turned Maxen down, but not before hearing his offer. Mainly because Maxen had led with it:
+
+After he’d finished training in the necessary method to transfer energy between subjects, he would’ve been contracted to appear at the brothel every evening to take mana from livestock and distribute it to workers.
+
+Transferring energy itself wasn’t something that was outside the reach of regular magicians, Maxen had explained. But it was difficult to do properly. Too often, botched mana transfers resulted in either the subject of the transfer, the source of the mana, or the middleman enacting the exchange having some issue that screwed everything else up.
+
+Load a person with too much mana and the effects could be catastrophic. Take too much away and similar issues could occur. Then, beyond quantity were the matter of types and grades. Regular magicians only had a limited understanding of these.
+
+That was why the Innate Trait of Mana Manipulation was so desirable to Maxen. The ability to properly portion mana in exact grades and percentiles and transfer it smoothly from multiple subjects to multiple recipients over and over again without failing was something not even the most practiced magician could do without a decent chance of failure.
+
+It was something that, with practice, Markus should be able to do effortlessly.
+
+And for a couple hours of mana transferring a night, every night, Maxen was willing to offer Markus what seemed to be a ton of benefit. A hundred gold a night, an amulet with a thirty mile range that would open a portal to the brothel whenever Markus needed it, and beyond that, he’d also offered something called a ‘boon’.
+
+This boon was a fragment of a godly power, one which would allow Markus to persuade people of things more easily, as well as mitigate hostilities between Markus and creatures with a lesser Spirit attribute than him.
+
+It sounded tempting, but ultimately the costs outweighed the benefits. This was only cemented by the fifty year contract Maxen had in mind.
+
+“If you’re unwilling, then you are unwilling. It is a shame. Your life in Firrelia could’ve been a rather fortuitous one, unfettered with worries.”
+
+Markus was pretty sure he could get hired as a bartender or florist here and some monster or other would still come along to try and murder him within the week. The prospect of a worry-free life on Firrelia sounded like lunacy at this point, and he’d only been here a single day.
+
+He refrained from saying as much, but Maxen seemed surprised when Markus turned him down.
+
+He was at least pleasant about it. He spent almost the entire meeting between them combing his long, pristine hair. At a point, he conjured a piece of meat from seemingly nowhere and fed it to the helldog, who leapt up in excitement the moment it smelled the freshly cooked beef.
+
+Markus was ashamed to say his stomach rumbled. He felt more ashamed to say that he’d been struggling to sit upright for most of this meeting.
+
+“Have you named this one yet?” Maxen asked as the dog graciously accepted its meal, gnawing and ripping at it against the floor as he spoke. “I’m surprised you’ve managed to tame such a beast. Whoever sent her must’ve employed a rather sloppy spell of frenzy, but to manage to tame such a creature is impressive still.”
+
+“Any idea who sent it?” Markus felt disarmed around Maxen. He’d struggled more than he should’ve to reject his offer. It was like his presence alone was so calming and innocuous that Markus almost wanted to take his honeyed words about these endlessly devoted workers to be true, even if his heart told him the concept was inherently twisted.
+
+“I would be remiss to share even conjecture on that, I’m afraid” Maxen said, his tone serious. “I am a neutral party. I work to ensure as much. I do not make enemies with my fellow deities, no matter how they might like to play at war.”
+
+Markus coughed once more, bringing a hand up to his mouth. He touched his forehead and felt sweat. “Well, can you tell me anything that might help?”
+
+“Yes. I can tell you that you absolutely stink of mana.” His voice turned more stern, almost like that of a parent. “If you continue to hold so much power within you, you will die. Every minute, you increase the chances of Toxicosis taking hold.”
+
+Shit, he’s right. I haven’t worked to get the mana out of my body since I last fought, and I still have way too much swirling around in me. No wonder I feel so fucked right now. Not like Randall mentioned shit about it to me, either, and I was hardly thinking straight after everything that happened with him.
+
+Markus sighed. “I don’t know what to do about it. I’ve been trying to keep my mana under control by putting more points into my Spirit, but still…”
+
+“Try this.”
+
+With that, Maxen tossed him a small, purple stone. It looked like an amethyst.
+
+“These stones are excellent at containing mana. They have other uses, too, but I haven’t more time to explain them. I appreciate you meeting with me.”
+
+With that, he tossed over two more. The three stones landed before Markus’ feet with a slight clatter, though none of them looked to crack in any way.
+
+“Wait. Wh-why would you…”
+
+“Call it payment for an entertaining fight yesterday. Imagine it beats whatever you earnt for it down here, if anything.” Maxen shrugged. “Call it a retainer for future services, if you will. I imagine you’ll be of some use to me in future, assuming you leave this place soon.”
+
+“I already told you I don’t wanna work for you…” Markus felt terrible pushing away what looked to actually be a valuable gift, but he wasn’t gonna take anything that bound him to anything. That had trouble written all over it. Last thing he needed was to be indebted to a god.
+
+“Fine. Just call it a tip. No strings attached.” With that, he stood, and with a single flick of his wrist, spruced up the entire cell, the blood and plate shards disappearing from view, the floors and walls of the cell taking on a sheen they’d likely not had since construction.
+
+“Why do any of this for me?” Markus asked, voice catching a little. “I refused your offer.”
+
+“My virtue is Service. You looked as if you required some. What does it hurt me to part ways with a few stones? I have so many more.”
+
+“Kinda feels like you’re throwing a dog a bone,” Markus murmured, staring down at the stones.
+
+“What an odd thing to say.” Maxen phased through the bars of the cage, going to make his leave, then turned to face him once more.
+
+“You’re not a dog. You’re a person.” He blinked, looking as if he were trying to parse the idiom once more. “And those are simply stones.”
+
+With that, Maxen took his leave.
+
+***
+
+Markus found himself simply holding the stones for a few minutes, a chill in the air, his chest heaving as he tried to reconcile everything that had happened up until now.
+
+These gems… they were the result of the only positive interaction he’d had since his arrival. Their deep purple was captivating, and while staring at them helped to anchor him in the moment, in this crazy reality he’d now found himself a part of, he only noticed his hand was shaking when he heard them begin clacking together.
+
+Gently, delicately, he settled the three stones onto the floor, and put his face into his hands.
+
+Markus felt tired. He’d gotten a few hours of sleep. He’d had to fight for his life no less than three times in the last twenty-four hours. To say that he felt tired was an understatement. He felt insane. It had taken that small shred of humanity, of normalcy in the face of this new hell to realise just how different everything now was.
+
+And it had come from what was likely another evil god. Or at the very least, one he was almost sure he couldn’t consider to be ‘good’. He was more than skeptical of Maxen, but even so, the affirmmation he’d given Markus without even meaning to was so much more than anything anyone else had done for him since getting here that it had almost broken the shell blanketing his emotions entirely.
+
+This was a horrible place. He didn’t want to be here. His body ached, his shoulder still missing some flesh, his throat was sore, his hand was still singed, his entire body felt partially numb from the exertion that Mana Poisoning was bringing about within him.
+
+This was hard. Maybe too hard. He told himself it didn’t matter. Nothing was coming to save him, after all. If he wanted to survive this situation, he had to rely on himself, he knew it.
+
+There would be more gods. They might torture him more. Strip even more away from him. He had nine more fights to get through if he couldn’t find another way out, and he wasn’t sure he’d last that long.
+
+His resolve would have to be stronger than that. Even if there was no way out, even if his life was doomed to this, even if he couldn’t clearly see the path through his misty, tired, crying eyes, he would have to be stronger. Stronger than his enemies. Stronger than Drathok. Stronger than even the mightiest god in here.
+
+Markus felt a stillness come about him. A quiet intensity that blotted out his doubts and strangled his worries. Something inside of him told him to keep fighting, and its incessant voice couldn’t be quelled by any one niggling fear or paltry concern.
+
+None of that mattered anymore. Only his escape. From this cell, from this fate, from sitting under the thumb of every wretched deity that called Firrelia home. He’d do whatever he had to to thrive, to progress, to carve his way towards his future.
+
+He felt a lick against his arm, alongside an alarming brush of flame.
+
+He barely flinched. Instead, he leaned into the hellhound’s face and petted it, finding that the flames around the dog’s face receded further the more he pressed his hand against the dog’s fur. It understood how not to hurt, or at least to avoid doing so.
+
+“Hey,” Markus spoke to the helldog, touching its ear, which immediately perked up. “I still haven’t given you a name yet, have I?”
+
+It was some solidarity in the darkness, some hope in this forgotten place, to see how calm and friendly this creature seemed in the face of it. It’d warmed up to him so quickly.
+
+Markus wiped his face, inhaling sharply through his nose as he did. He blinked himself to focus, turning to look at the happy, lion-sized nightmare beast, a smile upon his face.
+
+“How about Ember? Do you like that name?” He tried to push his hand further into her fur as he went, but burnt himself a little. If anything, she seemed to be glowing hotter than before.
+
+“...does that mean you like it, or you hate it?”
+
+She licked his hand where it burnt.
+
+Markus laughed, holding his hands up. Was he imagining the intent here? Who knew.
+
+“Well, it’s decided. If there’s no objections, I’ll call you Ember until further notice.”
+
+Ember barked, flames leaping outward from her body, then ran in a circle. Then she laid down a short distance from Markus’ feet.
+
+To think this thing was sent to kill me just hours ago… that ‘kill’ command must’ve been pretty damn powerful to force this creature to change so drastically. She seems practically harmless right now, if you ignore the fact she’s permanently on fire. Well, that and the size.
+
+The thought cheered Markus up a bit. He hadn’t expected he’d wind up in here with a companion of any sort. While he was hardly glad he’d condemned the creature to be stuck in a cell with him, it was nice to at least have some friendly company.
+
+“Don’t worry, I’ll get you out too.”
+
+Ember’s ear twitched, but she didn’t react otherwise.
+
+Still, Markus believed he could do it. He’d stopped them from tearing each other apart, after all. He’d killed that horrible monster, too. A god had been willing to pay him a hundred gold pieces a DAY for his services. That had to be more than most people made a month here, surely?
+
+Things were fine. For a person being constantly pushed to the brink of death, they were great, in fact.
+
+And why had he been sitting around feeling so lethargic anyways? He still had everything to fight for. He still had so many tools he could use, and much more to learn. All he’d been doing was amassing more means to survive with each trial he’d been through, and the best thing he could do right now was find a means to store his mana and get his body back in check, just like Maxen had told him to.
+
+Markus grabbed one of the stones and used [Identify] on it.
+
+[Essence Stone. Grade: ?. A purple stone used to power magical objects and bolster arcane spells and rituals, able to be filled with various types of mana. Consumable.]
+
+Consumable? Did that mean he could… eat it?
+
+Surely not. That’d be crazy.
+
+…worry about that later. Try putting mana in the thing first.
+
+[Current Mana Capacity: 205%. View breakdown? Y/N.]
+
+“Breakdown?.. Yeah. Show me.”
+
+[Stored mana by Grade:]
+
+[G Grade Frost Mana: 12%]
+
+[F Grade Spirit Mana: 46%]
+
+[E Grade Spirit Mana: 18%]
+
+[E Grade Flame Mana: 7%]
+
+[D Grade Mystic Mana: 16%]
+
+[D Grade Blood Mana: 30%]
+
+[D Grade Flame Mana: 11%]
+
+[D Grade Life Mana: 34%.]
+
+[C Grade Life Mana: 22%]
+
+[A Grade Divine Mana: 9%]
+
+Wow, that was a lot… was that everything he’d generated that he hadn’t used already? He’d already used up all of the Shock and Flame Mana he’d received from Drathok in his first fight, and then from what that creature ended up giving him, he’d blown all of that Frost Mana between training his cryo skills and fighting off Ember. He was still generating more from the core he’d devoured… but it was a really low grade. It didn’t do much.
+
+There were multiple mana types Markus still didn’t understand the uses or applications of, but the one that perplexed him most on the list was the Mystic Mana. He’d had it since his first fight, he was sure, but when had he absorbed it? When he’d been teleported here, maybe? Who knew what it did?
+
+That didn’t matter right now. What mattered was storing away the right kinds of mana so that he didn’t run too low on the ones that might be useful to him. He began doing so, shifting some of the less utilised mana inside of him into the stone.
+
+…this was difficult. He didn’t want to be without useful things, but he could only store so much.
+
+He still had 15 stat points to spend, courtesy of his fight with Ember. He decided to distribute those before making any solid decisions.
+
+[Name: Markus Brown]
+
+[Class: Otherworlder (Earth) (Tier: Novice 10)]
+
+[Health: 303/395]
+
+[Mana: 832/1090]
+
+[Strength: 48 (+30)]
+
+[Agility: 52 (+30)]
+
+[Arcana: 6]
+
+[Constitution: 60 (+30)]
+
+[Spirit: 45]
+
+[???: 0]
+
+[For each ten points in Spirit, you have been awarded a free point to spend on Arcana or Constitution per level. You have 8 free points available.]
+
+4 free points per level just for having a high Spirit score? Markus had almost completely forgotten about that. That brought the total he had to spend up by over 50%, and considering he’d been planning to raise his Arcana anyways, this had worked out great for him.
+
+Markus knew he needed 10 Arcana if he wanted to unlock Paths and rank up his skills. He remembered as much since both the [Frost Mastery] and [Regeneration] skills had reached high enough ranks to open themselves up to Path access. He still had no clue what paths did, but he figured they had to be important enough to warrant the increase.
+
+Four free points went into Arcana, leaving him with four more free points to spend. Constitution seemed like a safe bet, but he was curious to see what future Arcana breakpoints did… He decided to hold off on committing the rest of his free points until he had some idea of what a Path actually was.
+
+That being said, he immediately dumped 5 of his 15 regular points into Spirit, bringing it up to 50. Higher mana capacity, more free points every level, more mental resilience, better growth… what wasn’t to like?
+
+Well, if you ignored the caveat of Spirit also increasing Markus’ mana generation.
+
+That’d be fine. He’d just put all his mana in stones! No problem.
+
+Speaking of which, now that he’d increased his capacity, time to do just that.
+
+Increasing his Spirit score had ticked his mana total over to nearly 1200. It felt nice to have a four digit mana score now, it was almost triple what he’d had available level 1. The amount of mana he held in his body right now was enough to give him mana poisoning, but likely would’ve been 500% of his capacity a day ago, and who knew how much damage that would’ve done to him then?
+
+One thing he knew for sure was that through trials and tribulations, he’d definitely grown, and the tasks that had been put in front of him were hardly easy ones.
+
+It was as he was transferring mana to the first stone, mainly focussing on moving the excess F Grade Spirit Mana out of his body, that he saw a new notification pop up, one he’d never seen before.
+
+[Mana Manipulation: 1 >> 2. Your Mana Capacity has increased from 1190 to 1390. Your passive Growth has increased. Empower skill unlocked. Manifest skill unlocked.]
+
+[Mana Manipulation will sometimes give a unique option in the advancement of future skills and traits.]
+
+Wait… he’d levelled Mana Manipulation?
+
+This was great! It’d increased his capacity by so much! Not to mention two new skills, he really hoped they were something he’d find helpful down here.
+
+By the time Markus was done shifting and moving the mana in his body, his remaining reserves looked like this:
+
+[G Grade Frost Mana: 2%]
+
+[F Grade Spirit Mana: 2%]
+
+[E Grade Spirit Mana: 10%]
+
+[E Grade Flame Mana: 5%]
+
+[D Grade Blood Mana: 15%]
+
+[D Grade Flame Mana: 9%]
+
+[C Grade Life Mana: 18%]
+
+[A Grade Divine Mana: 7%]
+
+Some of these percentages had gone down due to his capacity increasing, but the main change had been moving most of the Frost and Spirit Mana out of his body, seeing as he still generated those, and keeping the more potent Spirit Mana in case he needed it. He’d also put all of the Mystic Mana within its own stone, which had taken on a black sheen. For some reason, he couldn’t mix it into the same stone as other elements.
+
+That said, other mana types didn’t seem to have that restriction. He’d dumped a good potion of Blood and Life Mana into the same Essence Stone as the one he’d put his Frost and Spirit into, and the stone still seemed to be capable of holding yet more. The way it shone in the darkness of the cell was noticeable, its shifting colours crazy and kaleidoscopic.
+
+Now that he’d done as much, his body feeling more than relieved from his mana being drained and his Overcharge promptly ending, Markus stood, pacing around the cell as he came to finally discover what the hell a Path was, pulling up a list of his skills and passives.
+
+[Cryomancy: 3. Mastery awakens at 10.]
+
+[Frost Mastery: 5. Awaken a Path?]
+
+[Regeneration: 8. Awaken a Path?]
+
+[Pyrokinesis: 1. Mastery awakens at 10.]
+
+[Glaive Mastery: 3. Mastery awakens at 10.]
+
+[Evasion: 3. Mastery awakens at 10.]
+
+[Empower: 1. Path awakens at 5.]
+
+[Manifest: 1. Path awakens at 5.]
+
+[Diplomacy: 1. Mastery awakens at 10.]
+
+[Mana Manipulation: 2. Evolution awakens at 5.]
+
+[Frost Resistance: I.]
+
+[Freeze I/II resistance.]
+
+Markus hovered Frost Mastery and selected ‘yes’, and a list of options appeared before him.
+
+[You may now awaken a Basic Path for Frost Mastery. You are able to hold up to four different Paths at one time. You may forget, combine, or evolve previous Paths in order to learn more. Paths unlock new skills, as well as new features and passives, allowing skills to grow much more powerful or gain unique effects.]
+
+[Basic Frost Mastery Paths are as follows:]
+
+[Freeze Lance: A martial skill which allows the user to imbue their weapon attacks with ice during combat. Landing successive blows will inflict Freeze I upon opponents. This ability requires 30 Frost and 20 Spirit Mana to cast and lasts for thirty seconds. Freeze Lance can be upcasted with higher Mana Grades to inflict higher levels of Freeze.]
+
+[Frost Barrier: A passive skill which allows the user to reduce damage taken from physical strikes by 5-70% depending on Mana Grade used, with G Grade Mana offering a 5% reduction and S Grade offering a 70% reduction. Damage reduction is halved versus elemental damage, and nullified versus Flame Mana. Frost Barrier can be actively channelled whilst grappling an enemy to slow their movements for a short time, or inflict Freeze when used with higher Mana Grades.]
+
+[(Mana Manipulation) Frozen Tomb, G Grade: A continuous channel ability that allows ice to flow out from around you, affecting terrain and slowing enemies within at a cost of 2 Spirit and 2 Frost Mana per second. While stood within the frozen terrain, you may spend 15-30 Frost Mana and 15-30 Spirit Mana to spawn 3-6 icicles which will seek to impale opponents, inflicting Freeze I and Bleed I alongside damage. Enemies stood within Frozen Tomb for over a minute will be inflicted with Freeze II, compounding to Freeze III after 3 minutes. Enemies that die within Frozen Tomb will be devoured, their Mana Cores automatically being absorbed.]
+
+[Please select a single path from the options listed above.]

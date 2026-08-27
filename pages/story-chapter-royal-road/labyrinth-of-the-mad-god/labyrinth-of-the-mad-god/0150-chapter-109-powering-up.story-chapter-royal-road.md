@@ -1,0 +1,163 @@
+---
+id: 1dc3b881-fe37-5d17-8079-8f191393ea7b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 109: Powering Up"
+slug: 0150-chapter-109-powering-up
+partOf: labyrinth-of-the-mad-god
+position: 150
+ownLength: 2272
+unit: words
+publishedAt: 2025-03-28
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2157560/chapter-109-powering-up"
+royalRoadId: "2157560"
+---
+
+When he emerged from the portal, Nick found himself standing in a small stone room with Devin at his side. There were a couple of beds in one corner, along with a table, two chairs, and a watercooler.
+
+“Thank god, it’s a safe room.” Devin sighed, pulled up a chair, and began wiping the muck off his boots.
+
+Nick sat down beside him, then opened his menu to see how long they had until the next ordeal began. After learning that this was just a one-hour rest stop, he moved on to reading the big batch of notifications that was awaiting his perusal. He hadn’t thought to check his updates after waking up on the last floor, since everything had happened so quickly.
+
+It meant that he had two floor-completion notices to read, along with some other gains.
+
+You have completed the second floor of the Tower of Rizzen.
+
+Your party’s performance for this floor has been rated as: strong.
+
+Additional experience and essence have been awarded.
+
+The total prize pool for Team Earth has increased, and species experience has been awarded.
+
+For completing a key stage of the Fate of Earth quest chain, you will receive part of your reward now. The rest will count toward increasing the rarity of the quest reward package that all participants will receive after completing the final stage.
+
+The current value of Team Earth’s reward package is: Silver.
+
+The maximum value for this quest chain is: Platinum.
+
+Bonus objectives completed:
+
+Destroy a kraken-class warship.
+
+Injure the floor’s boss (Tier 2).
+
+A (Gold) chest has been awarded.
+
+Nick felt a visceral surge of satisfaction when he learned that the pirates’ warship had been destroyed after all, although it seemed that their leader Alma had survived the fall. He’d been hoping for some word about the rest of his party, but since there wasn’t anything of the sort, he kept on reading.
+
+You have completed the third floor of the Tower of Rizzen.
+
+Your party’s performance for this floor has been rated as: fair.
+
+Additional experience and essence have been awarded.
+
+The total prize pool for Team Earth has increased, and species experience has been awarded.
+
+For completing a key stage of the Fate of Earth quest chain, you will receive part of your reward now. The rest will count toward increasing the rarity of the quest reward package that all participants will receive after completing the final stage.
+
+The current value of Team Earth’s reward package is: Gold.
+
+The maximum value for this quest chain is: Platinum.
+
+Bonus objectives completed:
+
+Left the level through a secret staircase.
+
+Injure the floor’s boss (Tier 2).
+
+Assist an allied party.
+
+A (Silver) chest has been awarded.
+
+“Fucking awesome,” Devin said, who was in the middle of reading his own updates. “Team Earth managed to take our reward package to gold. Hopefully, we can boost it to platinum on this floor and max out our gains.”
+
+Nick nodded. “Whatever we get for completing the full Fate of Earth quest chain, it’s certain to be invaluable for our species going forward.”
+
+His words were accompanied by a rising tide of excitement. There was a silver chest sitting by his left foot and a golden box resting by his right. Before he moved on to opening them, he finished reading the rest of his updates.
+
+Congratulations. You have accumulated enough experience to reach level [24].
+
+You have gained one point of Magic from your class.
+
+You have one free attribute point awaiting allocation at your discretion.
+
+For gaining your 15th level in the class [Kineticist] you have been awarded an additional class ability. On this occasion, the ability will be chosen for you, based on your current build and needs.
+
+The ability you have been granted is: Heavy Blow.
+
+The reason why it was chosen is: You do not have an ability that uses stamina at this time.
+
+Note: Heavy Blow is compatible with a forced-based concept even though it does not use force mana.
+
+Heavy Blow
+
+Type: Combat Art
+
+Activation speed: Instant
+
+Range: Weapon
+
+Heavy blow consumes stamina to imbue a weapon strike with extra inertia, increasing its destructive potential. Maximum uses are determined by the user’s stamina pool and the ability’s parameters scale with the user’s physical attributes.
+
+Well look at that. I was able to pick up Heavy Blow after all. Nick had originally been presented with the option to acquire the ability when he’d used his first ability stone back on the Searing Isle, although he had chosen Mana Dart instead. It had been a close decision, and gaining Heavy Blow was perfect for him now.
+
+It would let him hit harder and faster with his magical blade, which could cut things that normal weapons couldn’t. Heavy Blow would let him use stamina to fuel his offense, through a mechanism far more efficient than the crude bursts of power he could obtain from burning stamina manually. I don’t seem to be able to use it yet though.
+
+No sooner had that thought crossed his mind than he felt the System reach inside him. Whenever Nick had learned a new spell, the System had carved its pathway into his brain—immensely complex constructions that channeled mana into a specific form. Then it had connected those pathways to the energetic core resting two inches below his heart.
+
+Apparently, combat arts worked a bit differently. Since they were powered by stamina instead of mana, they didn’t connect to his energetic core. He had been able to sense his stamina pool for some time now but couldn’t locate the place where it resided. But now that the System was interfacing with his stamina directly, he could tell that it was concentrated in the middle of his abdomen, right alongside his spine.
+
+This time around, when the System began carving the channels for the ability, it set them into his muscles and nerves instead of his brain, mostly in his shoulders and arms. When it was done, it connected the newly-forged conduits to the pool stamina residing in his gut. The strange sensations came to a stop several minutes later, and when Nick opened his profile, he saw the combat art listed alongside the rest of his abilities.
+
+At that point, he realized that he might have a problem. I’m going to get a new class next level, but I can’t keep class abilities unless they have reached rank 2. But then he remembered something that he’d read a while back. Wait. I can use my free slot to hold onto Heavy Blow until it advances enough that it doesn’t need to be slotted anymore.
+
+Glad that his free slot had finally come in handy, although his friends had been using them in various ways for some time now, Nick turned his attention to the pair of chests gleaming by his feet.
+
+He started with the golden box that he’d earned from completing the second floor, flipping open the ornate lid as his heart began to race. There was only a scrap of paper inside, but Nick had learned from his training with Rita that it just meant the prize wasn’t a physical object.
+
+Congratulations. You have earned a (Gold) quest reward chest.
+
+Contents: Item-Crafting Voucher
+
+This voucher may be redeemed for a visit to a System-authorized craft world. There, you may sell various resources and items in exchange for custom-crafting jobs (the price of which will be greatly reduced if you provide your own materials). Additionally, the cost for the most expensive item you commission will be covered by this voucher.
+
+Note: Since most crafting jobs take several days to complete, your first chance to use this voucher will come after completing the fourth floor of the tower, in lieu of the standard three-day rest period. You may also wait to use the voucher until after your quest is complete.
+
+Fantastic. I can finally get the pommel of my sword repaired. And, if I understand this properly, I can exchange some of the objects I’ve found during my adventures to commission new gear or upgrade what I already have.
+
+Nick let out an appreciative whistle. This was a fantastic opportunity, especially considering how many potentially valuable items he’d collected by this point but hadn’t found a way to use until now.
+
+He was going to redeem the voucher as soon as he completed the next floor. Upgrading his gear was certain to give him an edge during the fight with the tower’s guardian on the roof. With that out of the way, it was time to check out his second chest, which was big enough that he was sure it held a physical object this time. Sure enough, when he cracked open the gleaming silver container, there was something inside with another scrap of paper resting on top
+
+What he realized what he was looking at, it dialed up his enthusiasm another notch. The chest contained an item that he’d been wanting for some time, even if it looked a little strange. Before he took it out, Nick picked up the scrap of paper and began to read.
+
+Congratulations. You have earned a (Silver) quest reward chest.
+
+Contents: Half-length Scabbard (Uncommon)
+
+This scabbard is a minor dimensional storage device. It will reduce the length of the sword inside, effectively halving the span of the weapon until it is drawn. Additionally, the force of the draw will be enhanced if the user desires it.
+
+Modifications: Durable, Self-Maintenance
+
+“Fucking awesome.” Nick pulled his sword out of his bag and slid it inside the scabbard with a flourish. Like all System-granted items, it was a perfect fit. To his delight, the curved sword disappeared into the two-foot scabbard, leaving only the hilt sticking out from the top.
+
+Nick had never been able to carry his blade on his person, since it was too long to wear on his belt. He had settled for transporting it in his backpack, but the motion to draw it had always been a bit awkward and took a critical second during an ambush. Now, he could keep the blade at his hip and draw it in the blink of an eye.
+
+He attached the scabbard to his toolbelt, opposite his new short sword, then gave the enhanced draw a try. To his immense satisfaction, the weapon came out smooth as silk and lightning fast. It took some maneuvering to sheathe it again, but all things considered, the Half-length Scabbard was a fantastic addition to his toolkit that would serve him well in the days ahead. Having his primary weapon so close at hand was a weight off his mind.
+
+When he thought to wonder what Devin had been awarded, Nick saw the man open a chest and remove a suit of armor. It was a beautiful piece of work, fashioned from overlapping black scales. When the blond warrior tried it on, he reported that it only weighed a few pounds but was incredibly durable.
+
+Additionally, the armor offered substantial protection against several elements, including heat, cold, electricity, and acid. It had a self-maintenance modification, which would keep it clean and repair any damage it received over time. When he finished tightening the straps, Devin struck a dramatic pose.
+
+“Ok, I have to admit that you look like a total badass.” Since Nick could fit so much into his bag now, he swapped out Devin’s old suit of chain and leather for a couple of big rocks. He didn’t have a use for it now, but someone might want the armor later.
+
+When Nick thought to ask Devin what he had earned for completing the second floor, he learned that the man had been given a different type of voucher. Instead of a visit to a craft world, it let him pick out a new piece of gear from a list.
+
+He had chosen a pair of vambraces that could boost his Strength for ten minutes once a day, which had come in handy while fighting the wraiths on the last floor. Devin had also figured out what the belt he’d taken from the pirate did, which made his fire-based abilities burn a little hotter.
+
+With the rewards out of the way, it was time to try out his brand-new ability. Devin stepped back to give Nick some room. Then Nick unsheathed his sword, gave it a swing, and willed Heavy Blow to activate. He felt stamina surging out from that spot behind his stomach, which he decided to call his stamina-well for reference. Energy went flowing into his arms, along with the other muscles involved in the motion of his attack.
+
+The flow of stamina added power to his swing, multiplying the force of the strike in the blink of an eye. In addition to making him hit harder, he realized that the abrupt acceleration could come in handy in other ways, interfering with his opponents’ timing and keeping them off balance.
+
+After a few more tries, he could sense that the combat art used stamina far more efficiently than his own crude efforts. With his current stats, Nick could use Heavy Blow quite a few times without significantly impacting his reserves. The ability was already great, and it would only become more useful when he managed to rank it up.
+
+By the time that the men were done admiring their gear, discussing Nick’s new ability, and getting caught up on what had happened while he was unconscious, the countdown clock had almost hit zero. They had just enough time to go over a few contingencies before a purple portal appeared on the wall and they stepped through the glowing ring.

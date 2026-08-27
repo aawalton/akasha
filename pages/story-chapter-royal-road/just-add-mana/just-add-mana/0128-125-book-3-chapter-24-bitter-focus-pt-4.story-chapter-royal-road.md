@@ -1,0 +1,255 @@
+---
+id: 113bba01-d591-5479-8ba6-d86da3354dc7
+page-type-slug: story-chapter-royal-road
+title: "125 — Book 3, Chapter 24 — Bitter Focus, Pt 4"
+slug: 0128-125-book-3-chapter-24-bitter-focus-pt-4
+partOf: just-add-mana
+position: 128
+ownLength: 3802
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3300738/125-book-3-chapter-24-bitter-focus-pt-4"
+royalRoadId: "3300738"
+---
+
+Cale's first thought was something along the lines of: Oh, great, I'm greeting a god by stealing their eyes. Again.
+
+His second thought was less of a thought and more of an immediate concern, given most of his experiences with drawing the attention of unknown entities were negative ones. This one presumably wasn't that unknown—it was most likely Ashvali, given the timing, and Ashvali was probably a force for good given Adam had described them as "holy"— but he knew too little about the circumstances of the Bitter Path to really say. Perhaps he hadn't caught Ashvali's attention at all; perhaps one of Ashvali's enemies had taken an interest in him, or perhaps those ice shamblers were staring at him right now and he had no idea.
+
+Though that last one didn't seem too likely, since generally accompanied with freezing cold, and Cale wasn't experiencing any particular change in temperature at the moment.
+
+"Well," Cale mused out loud. "It's not the worst way I've greeted some unknown cosmic entity."
+
+His friends predictably gave him looks that were simultaneously exasperated and worried, and Cale ignored that in favor of ruminating over which of his greetings actually qualified as the worst.
+
+Probably a tie between the time he'd been caught stealing a dozen kidneys and the time he accidentally interfered with what had turned out to be an extraordinarily elaborate roleplay?
+
+In his defense, in the former case, that god had owned a truly excessive collection of kidneys. Who even needed that many of the things? And kidney disease had been a very real problem amongst that god's congregation, so if anything Cale had been trying to help.
+
+Anyway.
+
+Eyes were a comparatively tame sort of treasure, as far as gods were concerned. Kidneys were one thing, but eyes would just grow back if they were stolen. Apparently this hadn't always been a thing, but after a few centuries of various deities having their eyes stolen, used as core ritual components, clawed out by other deities, or otherwise rendered non-functional, the deities of the Great Realms had just... collectively developed the ability to regenerate their eyes.
+
+A bit like teeth, actually.
+
+Nowadays divine eyes were more like a valuable, tradable commodity, and most deities—assuming they had eyes to begin with—had about a dozen of their eyes in active circulation at any given time. Many were used in the construction of divine artifacts or in the brewing of some sacred potions, though many more were locked away in some holy vault or the other.
+
+And then there were the whole communities that thrived on obtaining and collecting sacred eyes, sometimes for more esoteric rituals and sometimes just because mages as a whole tended to be weird collectors of all sorts of things. Case in point: Akkau's collection of soaps, Syphus's collection of jars, and Damien's collection of blasphemous paintings...
+
+Cale blinked. What had he been worried about, again?
+
+Oh, right. He'd stolen a god's eyes and had presumably attracted their attention. Cale waited for a few moments, but there was no indication of anything outside the ordinary happening other than the spell taking effect.
+
+Well, alright then. Hopefully, whoever this was, they were just watching because they were interested. Though if he was right about this being pre-Yggdrasil in some form then there was the chance that the deities hadn't yet developed the ability to regenerate their eyes, in which case he might have angered Ashvali quite a bit...
+
+He checked the spell description just in case it had more information for him. This particular spell was taking unusually long to take effect, so he had time.
+
+[Eyes of Ashvali, Level MAX] [Fifteenth Tier (Unique), Active] [1.0e54 Mana]
+
+Borrow the eyes of the Fifth Intersection.
+
+Cale paused. "Well, that didn't help at all," he muttered, squinting at the Gift.
+
+"What didn't help?" Flia asked suspiciously.
+
+"Spell description," Cale explained absently.
+
+He supposed he couldn't be too surprised. It was surprising enough that the Gift had been able to evolve a spell directly related to what should have been a lost history, one that existed only within the Bitter Path. If it had been able to uncover some great truth about the pre-Yggdrasil cosmology on top of that, Cale would have had some serious questions about how the Gift worked.
+
+Okay, he had some serious questions about that already. He would have had more, though.
+
+The good news was that the spell specifically noted that he was borrowing the eyes, not that he was stealing them, which meant the effect was both temporary and that he was unlikely to invite sudden divine retribution down on him and his apprentices. Borrowing indicated a certain degree of consent, didn't it? With that in mind, the spell had most likely just reached out to Ashvali to establish a contract with them.
+
+As opposed to just ripping their eyes out of their skull to catalyse the magic, which was a real spell. Cale had unfortunately once been a front-row witness to such a spell being cast. Talk about unnecessarily brutal.
+
+He glanced back at the tier and cost of [Eyes of Ashvali], frowning. That was the biggest problem with the divine contract theory; establishing a divine contract alone couldn't explain the tier or the exorbitant cost of the spell. That was the domain of twelfth-tier spells. Fifteenth-tier spells were spells that had the potential to impact the stability of an entire realm, and Cale could see no reason for something like this to carry that risk.
+
+The Gift hadn't warned him the way it had when he evolved [Fangs of the Festering Fields], though, so presumably this spell wasn't as great of a risk? If it would just hurry up and finish casting—
+
+Cale winced, then began blinking rapidly and rubbing his eyes vigorously as the spell accelerated.
+
+Okay, he'd been asking for that one. Apparently he wouldn't have any more time for theorycrafting until after the spell took effect, because when the Gift had said "borrowing", it meant the direct, transmutation-driven sort of borrowing. As in the kind that physically changed his eyes.
+
+This was the worst sort of borrowing spell, and he knew a lot of borrowing spells!
+
+For no particular reason. He would never let his apprentices know how many of those spells he'd managed to pick up over the last month. Or about the thriving criminal network underneath Brightscale Academy. Who knew what Syphus would do with that information?
+
+"What in the eight infernal realms are you doing, human?" Thorn asked. He sounded both fascinated and disgusted with his own fascination, which Cale could very much relate to.
+
+Cale didn't bother responding, since he was now dealing with the existential terror of having the inside of his eyeballs start itching.
+
+Fortunately, his apprentices were familiar with the routine by now, and took over for him. "Seven," they chorused simultaneously. None of them even looked up from whatever else they were doing.
+
+"...What?" Thorn turned to them, disgruntled.
+
+"Seven infernal realms," Flia clarified. She extended a tendril of water toward the cot, then frowned when it froze before it could reach into the shadows beneath for the notes. "Cale destroyed the eighth one, apparently."
+
+"It was an accident," Cale said distractedly. The spell... seemed to be done. Or the itching had stopped, at least.
+
+He blinked open his new, god-granted eyes, then frowned. Any kind of godsight should have granted him some new perspective and impossible clarity of vision, but Cale found himself instead assaulted by ugly, garish-looking blue-red images overlapping everything in the basement.
+
+It made him feel like he was seeing double. It was also making him nauseous. Egh. Maybe this Ashvali had really bad eyesight?
+
+"What do you mean, it was an accident?" Thorn asked, incredulous, and it took Cale a second to remember what they were even talking about. "How does one accidentally destroy a realm?"
+
+Oh, right. That. "Lots of ways," Cale said, trying to blink away his nausea. It was only vaguely working. Were there three Thorns in front of him? Why was one of them squirming so much? "I mean, have you never accidentally tripped and destroyed a realm?"
+
+"I have not." Thorn's words were flat, and his gaze dug hard into Cale. "Have you?"
+
+Cale thought for a moment. "No, actually," he admitted. "I guess that would be kind of weird."
+
+"So please elaborate on how you accidentally destroyed a realm."
+
+Cale eyed Thorn for a moment. The poor guy was more conflicted than he was letting on. That happened sometimes—wyldfire mages saw so much more than the average mage that they were primed for the impossible, but they were also primed to watch for all the various ways they could be tricked. If Thorn had been away from Brightscale for most of the past year...
+
+This particular incident wasn't one he was ready to talk about, though. "It's a personal question," Cale muttered. "You can't just ask me how I accidentally destroyed a realm."
+
+"Fine." Thorn took a deep, steadying breath. Cale raised a brow, surprised the vinewalker let it go so easily. "What about my first question?"
+
+"What first question?"
+
+"What. Did. You. Do." Thorn practically growled out each syllable, and he was visibly restraining himself; his vines writhed in agitation.
+
+"I cast a spell, obviously," Cale said, pointing at his eyes. "It made my eyes itch."
+
+"You cast a spell that made your eyes itch."
+
+"No," Cale said. "I cast a spell, and it made my eyes itch as a side effect. Why would I cast a spell that makes my eyes itch on purpose?"
+
+"How would I know how humans think?" Thorn started, then groaned when he realized Cale had distracted him from the question yet again. "Look. I'm asking what you are doing. The magic emerging from your eyes is strange. I don't recognize it, and while I have yet to be convinced that you and your apprentices are worthy of entering the tournament alongside us, I would prefer none of you die because of some foolish, unknown spell."
+
+Well, that was the most words Thorn had ever said in one go, and it was a pretty good point. Cale sighed.
+
+"It's a spell evolution from the Gift. The spell description is incomplete, so I don't know exactly what it does, yet," he explained. "I'm assuming based on the name of the spell and its description that I'm borrowing the eyes of some kind of minor deity from this realm. Problem is, everything just kind of looks like a mess"
+
+Thorn frowned. "Putting your apparent ability to spontaneously evolve spells aside, a spell related to a dungeon scenario is unusual. What is it called?"
+
+"[Eyes of Ashvali]," Cale quoted, and over by Syphus, Adam let out a loud yelp, nearly falling off the shelf he was perched on. Thankfully, Syphus caught him before he hit his head, though Adam almost immediately wriggled free so he could look at Cale's eyes for himself.
+
+"Whoa," Adam whispered. "You do have their eyes."
+
+"How can you tell?" Cale grinned down at the kid.
+
+"It's said that the Holy Ashvali's eyes are exactly like yours are now," Adam said. He looked like he wasn't sure if he needed to kneel or not. Cale supposed that for him, he was seeing a minor manifestation of his deity. "Alight from within with the glow of sacred light."
+
+"Ah, that must be why I can't see anything," Cale said dryly. "Too many mages give themselves glowing eyes without realizing they're not going to be able to see afterward. Is it also said that Ashvali walked into walls a lot?"
+
+"Cale," Flia said, exasperated, and Cale belatedly realized this was probably someone that Adam worshipped and respected greatly. Whoops.
+
+"You can't just say that!" Adam hissed, horrified. "The Holy Ashvali is the Fifth Intersection, who possesses sight beyond sight. Their priests take years to understand and interpret it!"
+
+"Ah," Cale said, nodding and deciding not to argue. Clearly, this meant a lot to Adam, though he wasn't quite sure he understood why. The good news was that Adam probably knew the answers to a lot of the questions he had about Ashvali, at least. "Can you tell me more about... no, wait."
+
+Cale straightened, suddenly interested, and looked around again. "You're telling me I'm not just seeing double? There's a way to interpret this?"
+
+"Of course!" Adam said, puffing out his chest. "Followers of the Fifth Intersection are blessed with a part of the Holy Ashvali's gaze. Mom was... she was a devout follower. I'm, um, not as faithful, but I can see a little bit when I try."
+
+Cale glanced at his apprentices, who were all now paying close attention, and Adam fidgeted slightly under the weight of their collective gaze. "And your dad?" Cale asked, his voice gentler.
+
+"Dad... thinks the Fifth Church is nonsense," Adam said, his voice smaller. "He mostly just cares about his alchemy. They're not, though, I swear. The priests are really nice. They help me when, when..."
+
+Adam trailed off, his entire body drooping slightly as he glanced at the door, and Cale sighed. That was enough for him to get the picture.
+
+"I see," he said quietly. "Try not to think about that for now. What exactly can Ashvali see? What makes their sight so special?"
+
+Adam bit his lip. "It's... sight beyond sight," he repeated, unsure. "Um. Followers of the Fifth Intersection can use it briefly, but not the way you're doing it. Their eyes aren't supposed to manifest. You just get little glimpses, and if you understand what you're looking at, sometimes you can reach into it."
+
+"Reach into it?" Cale repeated. He looked around, brows furrowing.
+
+"Yeah," Adam said, nodding vigorously. "Um, the priests are ranked by how much they can interpret their sight, and they can all do stuff without magic. They put on shows sometimes. Mom used to take me to see them. There was this one time I saw a priest of the Third Understanding pull a flock of birds out of a hat, all without using any magic!"
+
+Cale blinked. He wasn't sure he'd been expecting that to be how this church's priests demonstrated their power.
+
+"It's okay if you don't understand what you're seeing," Adam said, trying to be comforting. "It takes years for the priests to get their first Understanding. I've been trying to get it too, but I just can't figure it out..."
+
+There he trailed off, looking over at the cot again, and his face crumpled slightly at the reminder. "Do you think... do you think the shamblers are here because the Holy Ashvali is mad at me?" he asked quietly. "Did I do something wrong? Maybe that's why I can see them."
+
+Cale shook his head. "No," he said. "I don't think so."
+
+"But—but how can you be sure?" Adam asked, looking increasingly upset. "I can see them, and my dad can't, and you guys can't either. And you guys can do magic. The only difference is that I worship the Holy Ashvali. What if I did something wrong and they're punishing me? What if that's why mom got hurt?"
+
+Cale quelled his first impulse, which was to point out that if that was true, then Ashvali did not deserve their followers, and he would find them and blast them out of the sky. He quelled his second impulse, which was to storm up the stairs and tear open the door and confront the boy's father for letting it get to this in the first place.
+
+Then he sighed, kneeling, and placed a hand on Adam's shoulder. "You didn't do anything wrong," he said firmly, looking into the boy's eyes. "You know how I know that?"
+
+"How?" Adam looked at him, lips trembling.
+
+Cale looked over at the cot. "Because Ashvali can't see your shamblers, either," he said, the words somber.
+
+There was nothing there. [Eyes of Ashvali] had granted him the deity's eyes, and the deity's eyes saw nothing. Perhaps the faintest shadow that might have been one of the shamblers staring down at the bed, or the slightest trace of something wrong that nagged at him the moment he looked away, but for the most part, Ashvali saw nothing. Could see nothing.
+
+Which was probably why when he stared at that cot, he could feel an echo of an emotion that wasn't his own.
+
+Dread.
+
+Ashvali, reacting to the presence of something even they couldn't see.
+
+Cale did not like the implications of that, but he kept his reaction to himself, for now. Adam was already staring at him fearfully. "What do you mean, the Holy Ashvali can't see them?" he asked. "You just don't know how to interpret their divine sight yet, that's all! It's really hard, don't worry, but with a few years of training—"
+
+Okay, that was quite enough of that. Cale understood why Adam was panicking, but this was getting to be a little insulting. He coughed lightly to interrupt the kid, then reached to pull a coin out from behind Adam's ear. "Ta-da," he said, giving him a small bow.
+
+"What?" Adam's eyes went wide. "But—but only a priest of the First Understanding can do that! And that takes at least a year of training!"
+
+It took significant self-control for Cale not to laugh at Adam's wide-eyed, awed reaction. He was pretty sure Adam was just regurgitating the explanation the Fifth Church gave to children; whoever had founded the church had probably been cackling to themselves when they'd come up with this.
+
+But it was interesting that [Eyes of Ashvali] did, in fact, allow him to pull it off without any actual sleight-of-hand.
+
+"Well, think about it this way," Cale said. "If I'm that good with divine sight already, it's proof that Ashvali sent us here to help you, isn't it? And it's proof that you're special."
+
+"It is?" Adam's eyes widened again. Cale suppressed the urge to hold out his hands in case they fell out.
+
+"You're the only one that can see the shamblers," Cale said. "Ashvali is going to need your help to figure out what they're up to, you know?"
+
+"Oh... oh!" Adam brightened, then ran over to Syphus, who without prompting helped him climb up onto its shoulder. "I can do that! I can definitely do that. I'll tell you if I see anything!"
+
+With that, he started staring intently at the cot, earnest determination written all over him. Cale blinked.
+
+Next to him, Flia sighed. "And how did you actually pick up whatever that was so quickly? I'm assuming you didn't just have a coin lying around."
+
+"Nope," Cale said cheerfully. "I didn't figure it out until Adam kept insisting it was 'sight beyond sight', but I used to know this eyefiend with a similar kind of visual curse. I lost a bet, so we swapped eyes for a week. Absolute nightmare, but it did train me to figure this sort of thing out quickly."
+
+"So what exactly is this sight beyond sight?" Flia asked, curious.
+
+"It's a bit like what the Leviathan does, but I guess maybe an older or visual version of it," Cale said. "It's a map of how everything is connected. Past, present, and future, but also the relationship between objects or their relationships with themselves. I mean, I get why it's hard to interpret; everything has like a thousand different overlays.
+
+"If I focus I can kind of see when this shelf used to be a plank, for example. Or when the plank used to be a log. Or when the mage collecting the logs took off their pants—"
+
+"Nope," Flia said, holding up her hand. "Thanks, I get it. Don't need to know the rest."
+
+"It's not that bad."
+
+"Don't need to know," Flia repeated, giving him a flat look, and Cale grinned but dropped the subject. "Tell me the truth—do you think this Ashvali's got something to do with the shamblers? I get that you didn't want to uproot the kid's entire belief system, but..."
+
+"Indirectly, maybe, but I don't think they're behind them," Cale said, shaking his head. "If anything, they seem... afraid."
+
+Flia frowned. "Adam said his mother claimed the shamblers were the future," she said. "And according to you, Ashvali's sight can see into the future a bit. Or the relationship something has with the future, at least."
+
+Cale's expression shifted into something more grim. "I noticed the same thing," he said. "What do you think that means?"
+
+"I don't know yet." Flia studied him carefully. "But there's something you haven't told us, isn't there?"
+
+"There's something I can't tell you, which isn't the same thing, but..." Cale hesitated, looking over at Thorn. "I don't know. That might be changing. I'm not sure yet. If anyone can figure it out, it's you guys."
+
+Flia nodded. "Just as long as you're not keeping it from us on purpose," she said, giving him a light punch on the shoulder. "I'm gonna go figure this out. There's something that's been nagging at me about that space under the cot. Think I might have an idea."
+
+"Show me," Cale said. He watched as she walked over to the others, muttering something about the Abyss and how her connection to it felt strange here.
+
+Then Professor Graystalk stepped up beside him. "This dungeon is proving a poor environment for learning," he said, bemused.
+
+Cale snorted a bit and shot the professor an apologetic glance. "Maybe in the next scenario."
+
+"Knowing you, I will somehow have to figure out how to teach while you fight off a dragon," Graystalk said dryly. "Which will be the second time I have had to do such a thing."
+
+Cale blinked, intrigued. "How'd that happen the first time?"
+
+"That is a story you will have to earn, I think," Professor Graystalk said with a chuckle. "In the meantime, I believe Thorn may have some questions."
+
+The vinewalker had indeed walked up to them, as scowling and intimidating as ever. Cale looked up at him, not the least bit intimidated. "What's up?"
+
+"Your spell," Thorn said. "[Eyes of Ashvali]. The Gift has given you a spell that draws from a deity that should be dead."
+
+"I've been thinking about that," Cale said, nodding. "It's strange. It's a higher-tier spell than it should be, too. Either this is a really weird dungeon, or this Ashvali is somehow still—"
+
+Cale stopped mid-sentence, then raised an eyebrow at the thorn being held against his throat. "Is this some kind of mating ritual I don't know about?" he asked, ignoring Professor Graystalk, who had begun to choke.
+
+Thorn glowered at him. "You cannot be plainroot," he said. "You are masking your true self. Who are you, and what are you doing in our school?"

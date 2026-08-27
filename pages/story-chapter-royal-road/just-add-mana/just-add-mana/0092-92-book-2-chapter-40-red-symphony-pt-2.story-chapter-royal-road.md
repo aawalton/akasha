@@ -1,0 +1,211 @@
+---
+id: 6665caf4-aab4-5530-9f9f-adc34e4de514
+page-type-slug: story-chapter-royal-road
+title: "92 — Book 2, Chapter 40 — Red Symphony, Pt 2"
+slug: 0092-92-book-2-chapter-40-red-symphony-pt-2
+partOf: just-add-mana
+position: 92
+ownLength: 3092
+unit: words
+ownProgress: 3092
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2984523/92-book-2-chapter-40-red-symphony-pt-2"
+royalRoadId: "2984523"
+markedReadAt: "2026-06-29T18:50:48.508Z"
+---
+
+Fortunately, Torment's Shadow had cast [Blistering Physique] before all this. It might not have had the edge it needed without the spell. With it, it noticed the slight give in the air around the Greater Indictment a moment before the swipe would have made contact, and it leapt backward, eyes narrowing.
+
+Even with the distance it had created, the Greater Indictment had managed to steal a chunk of the speed and power currently flowing through its body. Not much, thankfully, given [Blistering Physique] was only a sixth-tier spell, but it was something to be wary about, nonetheless. Evidently, the spells it cast were not subject to the same hierarchy its own existence normally was.
+
+It still cast the spell a second time, stacking the benefits atop itself and noting that the second attempt was only about a quarter as effective. There was a limit to how much it could stack, apparently.
+
+At the same time... it examined the Greater Indictment approaching slowly. The way the air around it warped was distinctly noticeable, and it indicated that the power it had wasn't entirely voluntary.
+
+"Ontological drain," Torment's Shadow mused. "You steal the traits of anything that gets too close to you."
+
+Worse, what it was sensing around him meant that his power out extended a few feet, like something of a draining aura. Torment's Shadow would need to keep its distance. Its barriers might provide some defense—those were largely immune to such abilities, given a pure expression of its mana stood nearly at the top of the hierarchy of power—but if the Red Commander was a Lower Branch cultist, then he would likely have a countermeasure ready.
+
+He was still screaming on the ground, though. Desperately trying to get to his feet, forcing his magic to heal around the pain, but there was limited utility in that. Torment's Shadow decided it had time to experiment.
+
+It made a dense barrier of mana and pushed, sending the Greater Indictment stumbling back for a few feet. Just as it suspected might happen, the Red Commander looked up and grunted, then made a weak, dismissive gesture; Torment's Shadow watched as a relic attached to the Red Commander's waist activated with a pulse of Abyssal energy, promptly disrupting that barrier and his control over it.
+
+Unsurprising. The Lower Branches had been desperate to find some form of countermeasure against its abilities during the war, and this was similar to something it had encountered before.
+
+This time, with an Abyssal's power behind it, the relic did something new: it stole the power from the Shadow's disrupted barrier, draining its mana directly into the Red Commander.
+
+Torment's Shadow grunted in annoyance, knowing what was coming. That boost of mana was, unfortunately, enough to get the Red Commander back to his feet. He took a deep breath like the mana he'd stolen had been refreshing, even stretching and cracking his neck with false nonchalance. The starsteel armor he wore was still burning him, but the mana he'd acquired acted almost like a buffer, empowering his flesh-shaping enough to protect him for the moment.
+
+"Yggdrasil's End," the Red Commander said, letting out a slightly pained grunt. His voice shook slightly, but became steadier by the moment, and he let out a rasping laugh. "You're almost as terrifying as the legends say. And the Gift gave you an upgrade, too. How quaint. Do you really think it'll be enough, after what you did to us? Do you really think we haven't prepared?"
+
+Torment's Shadow didn't bother to respond.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Bia's Hammer] has evolved into [Purified Kinetic Splinters]!
+
+[Purified Kinetic Splinters, Level 1] [Twelfth Tier (Unique), Active] [1.0e30 Mana]
+
+Flood a designated area with microscopic splinters of pure kinetic energy to tear an opponent apart from the inside out. Each splinter carries enough power to pierce tenth-tier wards and barriers, and temporarily disrupt mana use in a small radius around them.
+
+Torment's Shadow examined the spell. That wouldn't be enough. The Greater Indictment had recovered now, and if he came within range of the splinters, he would absorb their power and become particularly aggravating to deal with. The mana-disruption and barrier-piercing abilities alone...
+
+But no conventional spell would stop something like that Greater Indictment. His reluctance to actually follow the Red Commander's orders helped, but he wasn't fully in control of himself, and Torment's Shadow couldn't break that control without getting that armor off.
+
+A different option, then. One restriction of abilities such as these that they often could steal only a single trait at a time.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Bestow Light] has evolved into [Inner Light]!
+
+[Inner Light, Level 1] [Fifth Tier (Unique), Active] [1.0e23 Mana]
+
+Fill a target with inner light, causing them to glow from within.
+
+This spell boosts the target's metabolism and other physical attributes where applicable, as much as needed for the target to be physically comfortable.
+
+This spell boosts the target's resistance to mental effects and control spells.
+
+Torment's Shadow frowned slightly at the description. It hadn't intended for the latter two effects, though they didn't hurt. It had mostly intended to incapacitate the Greater Indictment with a simple enchantment that looped in on itself.
+
+No matter; this would still work. The Greater Indictment blinked in confusion as he began to glow, and when he attempted to drain the spell, he simply drew it into itself and strengthened it. The light grew brighter and brighter, and he fell to a knee, not sure what to do.
+
+Torment's Shadow had no such qualms.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Gravitational Crux] has evolved into [Gravity Prison]!
+
+[Gravity Prison, Level 1] [Twelfth Tier (Unique), Active] [1.0e30 Mana]
+
+Suppress and contain a target using an immense gravitational force. This spell causes any mana within its radius to be partially attuned toward the gravity aspect, disrupting spellwork and any attempt to dispel the effect.
+
+Sure enough, the first spell the Indictment tried to cast—a basic dispel, presumably an attempt to remove the still-growing light stuck to his body—splashed to the ground like a liquid before it could turn back to strike him. Basic dispels were convenient in that way, given they were always projectiles, and Torment's Shadow had known that Indictments like these were unlikely to carry more complex spells.
+
+It turned its attention back to the Red Commander, who was snarling as he forced his way through the splinters. They slowed him down to a degree, but he was rather surprisingly unperturbed by them; the most they did was melt him down slightly as he moved through them. The flesh-shaping magic that animated him was aggressive, working its way around the radius of each splinter and creating a warped, stumbling abomination absolutely littered with holes.
+
+Torment's Shadow frowned and repeated its cast of [Gravity Prison], this time targeting the Red Commander—
+
+—only to find itself flung back by an incredible force.
+
+It stopped its flight with a quick blast of mana at its back, then caught its fall with a soft barrier placed just at its feet. It narrowed its eyes at the Red Commander, who was starting to regain some of the confidence he'd had at the start of the fight; he laughed and staggered forward, still riddled with holes, his voice layered like he was speaking from each one.
+
+"I will kill you," the Commander said. "I will kill you and eat your flesh and drink your blood, and I will bring your bones back to the Cult so that they may laugh and mock the pathetic remains of the Fugitive Seal—"
+
+"Thank you for the information," Torment's Shadow said. "I wasn't sure if any of the Cult was left. Now I know to make sure every last one of you is dead."
+
+The Commander roared. "You won't be able to find us! We are everywhere and nowhere. We hide in the shadow of every apocalypse, in the blood and tears of your heroes, in the crack between hope and despair!"
+
+He raised his arms into the air, and foul magic gathered around him. Torment's Shadow watched in the way a different version of it might once have watched bread rise in an oven. Idle curiosity and mild fascination, for the most part, even as an enormous quantity of blood began to pour from the Red Commander's armor.
+
+Most of it wasn't even his own. Torment's Shadow could sense it in the mixture of mana, the eclectic gathering of conflicting attunements. The liquid gathered into thick orbs of sludge and slurry, and a flare of energy from the corrupted Source turned it all from mortal blood into divine ichor.
+
+Each one radiated with the pain and mana of an entire village. Torment's Shadow recognized each one, though it showed none of it in its expression. The mana signatures were unique. It had been raised from birth in each of those villages, which was something of a rare occurrence, and each and every one of those villages had been emptied by a magical plague that choked them on their own blood.
+
+A taunt. Yet another attempt to break it, most likely. Did the Red Commander know that this was what had created Torment's Shadow in the first place? That the Branch King that planned and executed this torture had been the first of its victims?
+
+The barrier-disrupting relic, however it worked, required the Red Commander to activate manually. Torment's Shadow allowed the Commander to believe he had stunned it into silence and waited until the orbs shot toward it, turning into golden streaks intent on infecting it with the same plague that had killed thirty-two of its families.
+
+Then its barriers flashed into existence. Just long enough to block and deflect each streak, to contain them within a sphere of its own power and drop them at a distance into the ground. It dismissed each barrier even as the Commander jerked toward the relic, intent on activating it; by then, it was already too late.
+
+The plague was still present, drifting up from the remnants of each orb. Torment's Shadow did not take its eyes off the Red Commander, but it took a page from the lizardfolk of the Golden Sands.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Whispered Breeze] has evolved into [Sonic Hounds]!
+
+[Sonic Hounds, Level 1] [Twelfth Tier (Unique), Active] [1.0e30 Mana]
+
+Conjure a pack of elemental hounds that embody the aspects of sound and wind. These hounds may target anything within their domains.
+
+Stone and foliage erupted away from Torment's Shadow in the boom of a sonic explosion, and in its wake, twelve wolves of screaming, howling winds stood in a circle around it. It made a gesture, and as one, the hounds howled; they shot toward the remnants of the plague, where crimson smoke had begun to stain the air and flow toward the Shadow.
+
+But the hounds snarled and snapped, and Torment's Shadow watched dispassionately as the plagues were sucked into each hound, briefly turning each one a bright red. One by one, the sonic magic within them intensified until they glowed and shattered with a lingering prismatic flame.
+
+All except one. The hound forced its plague down into its legs and away from its face, then bounded to the Shadow, leaping up to lick it in the face. It whimpered softly, gently pleading, then bounded away again to let the spell run its course; like the others, it burst into prismatic flame, eliminating every last trace of the blood plague it contained.
+
+Torment's Shadow had, up until that point, been simply standing there for the entire duration of the spell. The Red Commander had been watching it in anger and disbelief, struggling to maintain his control over his orbs in the vain hope that the plague would successfully infect it; Torment's Shadow used that opportunity to deconstruct what had happened with its [Gravity Prison], going over the moment in its mind again and again.
+
+The Red Commander had a variety of artifacts—Red Relics, presumably, each one fueled by the power of a stolen Abyssal—and they were attuned and attached to him at the waist. They were held in cages of flesh and bone that sprouted through armor that had appeared to have been built for this very task.
+
+Every bit of magic and spellwork the Red Commander shown so far were variants of flesh-shaping and blood magic, with only the more exotic effects handled by the relics. Barrier disruption was one of them, but the one that had activated for [Gravity Prison] was different. Automatic.
+
+Which reminded it of something else it had seen the Red Hunters do before, this time to a student of the Haelforge Academy. This relic must have been what they had used to compromise her, and if that was the cast, then it was dealing with aspect inversion. The relic targeted [Gravity Prison] and inverted the gravity aspect, then somehow multiplied or corrupted it, amplifying the force with which it flung everything away from the Red Commander.
+
+Even now, the Commander floated slightly above the ground, albeit with reduced effects. Torment's Shadow examined him thoughtfully.
+
+And it was at that moment that the hound conjured by its spell bounded over to lick it. That pulled Torment's Shadow from its train of thought, and it frowned slightly, puzzled by the behavior. For a second, it hesitated.
+
+Then it shook its head and continued. It had completed the analysis it needed, anyway. It ended the other [Gravity Prison], then cast a different spell.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Pillars of Psamathe] has evolved into [Tower of Babel]!
+
+[Tower of Babel, Level 1] [Fourteenth Tier (Unique), Active] [1.0e32 Mana]
+
+Spontaneously conjures a massive tower that reaches the atmospheric limit. Any entities caught within the spell radius will be brought to the top of the Tower and flung upward at escape velocity calculated from their initial position.
+
+Thereafter, any language-capable entity that enters the radius of the Tower will have their primary language swapped with a random primary language from the same realm. Any limbs or extraneous organs required to speak that language will be automatically granted to each entity.
+
+Any entities that remain in the Tower for more than 24 hours may voluntarily trade—
+
+Torment's Shadow stopped reading the description, which was rather long for a single spell, though it had seen other spells of this kind before. Instead, it prepared more spells for when the Red Commander inevitably descended, first and foremost being one that would put it on equal footing with the Commander.
+
+The Red Commander fought primarily with blood magic and a monstrous ability to shape his own flesh. Torment's Shadow suspected he would heal from nearly any physical injury, and so most of the spells it could evolve were useless; it would need something that granted it not only physical but spiritual advantage, something it could use to suppress the Commander's ability to heal and sever his soul from his vessel.
+
+For that, it would need to transcend the same barrier it needed to to transcend whenever it needed to kill a Monolith. Normally, the process was simple: it would simply fold its mana into itself until reality began to buckle under the pressure. It was what it used to destroy souls, and it was similarly what it needed to kill any transcendent being.
+
+The Red Commander could disrupt its mana manipulation and steal its mana, however, which meant a different tack was necessary.
+
+And that, Torment's Shadow knew, would have to come from the ladder that defined spells of physical enhancement.
+
+Cale had been unwilling to evolve [Blistering Physique] beyond the sixth tier before. Physical enhancement spells like that one stopped existing after that tier; any mage that wanted to enhance themselves physically with higher tiers of magic turned to spells of physical transformation, even when the spell construct or ritual was largely the same.
+
+Scholars of such spells thought of this as the transformational ladder, and Cale was rightfully hesitant to ascend it. Spells of that nature were difficult to reverse, and did not always expire naturally.
+
+Cale Cadwell Cobbs liked who he was.
+
+Torment's Shadow had no such attachments.
+
+It knew the Red Commander was descending furiously. He was a smear of blood magic and corruption in its mana sense. A transformation spell would take time, but even with the speed at which the Commander was descending, it was certain it had the time for this.
+
+There was an instinct to this, really. A rhythm to spell evolution it was beginning to understand, one that had been inaccessible to Cale but felt far more obvious to Torment's Shadow.
+
+A simple mana blast might have done the trick, of course. It might have been sensible to make the attempt first, to see if the Red Commander had a counter. That was what Cale might have done—hoped for a simple, easy victory.
+
+But Torment's Shadow was not a creature of hope. It was blind to even the possibility, because all it saw was the rhythm of a war it had never left.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Blistering Physique] has evolved into [Twilight Gate of Potential (Flesh)]!
+
+[Twilight Gate of Potential (Flesh), Level 1] [Twelfth Tier (Unique), Active] [1.0e30 Mana]
+
+Unlock the Twilight Gate of Potential that lurks within organic flesh, transforming your physical body into a mana-matter composite for the duration of the spell.
+
+For the duration of the spell, acquire physical attributes in proportion with the mana contained within your vessel. Sufficient mana will unlock the power of flight.
+
+For the duration of the spell, acquire spiritual attributes in proportion with the mana contained within your vessel. Sufficient mana will unlock the ability to use spiritual suppression.
+
+Cautionary note: The primary benefit of a non-gestalt body is the capacity for change. The Twilight Gate is one of the final steps toward becoming a true divinity. By accessing and unlocking it out of order, the caster gains great power, but must embody the will imparted to them at the time of casting.
+
+Cautionary note: Be careful, Cale Cadwell Cobbs. You are not that which haunts your soul.
+
+Prismatic mana began to burn and fuse with its flesh. The pain was excruciating.
+
+Or it should have been. Despite it, Torment's Shadow did not look away from where its mana senses told it the Red Commander awaited.
+
+Only a small part of it wondered what Cale's apprentices would think.

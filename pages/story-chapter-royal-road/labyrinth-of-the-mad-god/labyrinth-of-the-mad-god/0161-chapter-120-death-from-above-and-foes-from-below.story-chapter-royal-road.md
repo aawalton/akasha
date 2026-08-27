@@ -1,0 +1,85 @@
+---
+id: 632cf41a-5b49-5d8c-b701-b864f1afbe3e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 120: Death from Above and Foes from Below"
+slug: 0161-chapter-120-death-from-above-and-foes-from-below
+partOf: labyrinth-of-the-mad-god
+position: 161
+ownLength: 1570
+unit: words
+publishedAt: 2025-04-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2225458/chapter-120-death-from-above-and-foes-from-below"
+royalRoadId: "2225458"
+---
+
+Although Nick was terrified, he trusted his friend’s judgment. Instead of panicking, he followed Devin’s command, shutting his eyes tight and pressing his lips together.
+
+A bare heartbeat later, searing heat engulfed him as Devin activated Flashfire Pulse. He sent the flames flying for the spot where the creepers emerged from the earth, catching Nick’s legs in the periphery of the blast. It hurt like hell but didn’t do any serious damage, burning away the vines in the process.
+
+Then something hit Nick hard and carried him away. When he opened his eyes, he realized that Devin had grabbed him and was running from the meteor plummeting toward their heads. The warrior was burning through his stamina to enable a final burst of speed, but it wasn’t good enough. We’re not going to make it.
+
+That was when Devin reached back and threw Nick as hard as he could, sending him sailing through the air. The man was superhuman by humanity’s old standards, whereas Nick only weighed a few hundred pounds.
+
+He went flying beyond the blast radius, but Devin was still too close. When the plummeting stone landed in another three seconds, it would grind him to paste. If that wasn’t bad enough, a dozen vines were reaching for the man at the same time. Their encirclement was complete, and he had no chance of escape.
+
+Time slowed down as Nick kicked Arctic Clarity into overdrive. This was the moment that would decide Devin’s fate and he couldn’t afford to waste a millisecond. The surge of frigid focus erased his fear and let him place every scrap of concentration into getting this exactly right. He was flying back in a glacial procession—one hand reaching for his belt pouch as the falling rock came closer and closer.
+
+By this point, the vines had caught Devin and bound him tight, leaving him helpless to resist as the meteor came down less than fifty feet from his position.
+
+As matters stood, his friend was about to die, but Nick was ready to make his move.
+
+He had already gathered his will and used half his reserves to unleash three Piecing Rays midflight—the first time he had cast multiple versions at once. A ball of kinetic energy appeared between his hand, with two more floating in the air beside it. The drill bits coalesced into being last, then all three spells went streaking forth with the next beat of his heart.
+
+The searing stone was terrifyingly fast, but Piercing Ray was faster still.
+
+The triple rays went streaking out. Two of them were heading straight for the meteor, while the third raced for the vines binding Devin’s body. Nick had no idea if this was going to work, but he refused to let his friend die without fighting with everything that he had.
+
+The trio of spells reached their targets at the same time. They began drilling through plant and rock, growing more powerful with every rotation.
+
+There wouldn’t have been enough time for a single ray to shatter the meteor. But with two spells working together, it was just enough. The red-hot lump of minerals broke apart moments before impact. Which meant that instead of one big rock, a hundred smaller stones were screaming toward the ground like the spread of a shotgun.
+
+It still would have been the end of Devin if it wasn’t for one small fact. By this point, his right hand had reached inside his belt pouch and withdrawn a glass bead. As the final ray cut through the mass of vines restraining his friend, he flung the consumable at Devin while praying his aim was true. “Stand still and cover your head!”
+
+Half a heartbeat before the celestial shotgun engulfed the man’s position, the orb shattered beside his feet. A dome of force sprang into being fast as thought, repelling the next set of vines that were headed his way, just as the debris-field came crashing down at terminal velocity.
+
+There was a series of ground-shaking impacts and a great cloud of dust, which momentarily obstructed Nick’s view. He used his wand to deflect a cluster of fragments headed his way and leapt out of the way of a second, hoping all the while that his consumable barrier was strong enough to save his friend.
+
+When the air cleared, relief went flooding though every cell of his body. Devin was standing strong with his shield overhead, as a hundred fist-sized rocks shattered against the transparent dome.
+
+While the forcefield was sturdy, it wasn’t strong enough to stop them all and shattered like glass a moment later. But the item had blocked most of the meteoric barrage, and the stones that slipped through rebounded from Devin’s shield with clamorous clangs.
+
+It must have hurt like hell to absorb all that force, but the warrior’s body was tough. When the rockfall ceased a few seconds later, the man lowered his arms and started to laugh. Then he changed his axe into its two-handed form and brought the head down as hard as he could.
+
+An explosion ensued, and when the smoke cleared, there was a crater in the ground. A crater with a writhing wooden creature at the bottom, burning as it was transfixed upon the blade of Devin’s axe.
+
+“Got the little bastard. I thought I felt something crawling below my boots. Thanks Nick! That was one hell of a save.”
+
+“You too, Devin. Do you think…”
+
+His words were cut off when more kraken vines emerged from three distinct locations, as another batch of meteors came streaking across the horizon. The men broke free from the tendrils’ encirclement with a burst of speed, draining the dregs of their stamina to open some space. It bought them a final few seconds, but their ordeal was far from over.
+
+They raced to escape the burrowing plants, as fire and stone rained from the sky. Just when he was convinced that they weren’t going to make it, the voice he’d been waiting for spoke within his mind.
+
+“Nick. Everything is ready on our end. We’re going to take down the shield in sixty seconds. I’ll give you instructions once you’re in front of the machine, but you need to work fast. Get up there the instant the way is clear, or I won’t be able to help you save the Earth.”
+
+Knowing that this was their best and only chance of escaping this deathtrap in the form of an evaluation, Nick reached into his backpack and pulled out a rock. Then a second and a third. He kept on going until he felt his feet start to lift off the ground. His pack was light enough to offset the weight of his body, thanks to the floatstone core he had taken from the pirates’ ship.
+
+Despite his demeanor, Devin’s mind was as sharp as his blade, and he’d always been quick on the uptake. The athletic man didn’t seem confused at all by Nick’s behavior. He just nodded and asked, “You’re ready to pull the trigger on whatever you’ve been planning, right?”
+
+Nick nodded, impressed by the man’s foresight. He pointed to the bank of devices a thousand feet above his head. “I need you to get me up there in exactly thirty seconds.”
+
+Devin didn’t hesitate for a heartbeat. He just swung his massive weapon around so the flat of the blade was resting beside Nick’s boots. “Climb aboard and brace for impact.” Nick wasn’t sure what Devin was planning, but the trust they shared ran just as deep both ways.
+
+He stepped aboard the blade, using his Dexterity to ride it like a skateboard. “I’m going to do this baseball style. Keep your legs braced, and don’t let the heat distract you.” With that, Devin flicked the axe, causing Nick to lift a good ten feet into the air. As he floated back down like a feather on the breeze, Devin took his stance and then swung the weapon in a 360-degree arc.
+
+When the flat of the axe slammed into Nick’s boots, an explosion ensued.
+
+He hadn’t realized that Devin could control Blast Striking with such precision. It sent him rocketing into the sky, just as the next batch of meteors arrived and a fresh host of vines burst free from the soil. He was worried about his friend, but right now, he couldn’t afford to think about anything other than the task at hand. Disabling the killer machine before it recovered from whatever Pax was about to do.
+
+Nick soared like a falcon with a booster engine, streaking for the bank of machinery above his head, which was growing larger at a rapid rate. Seven hundred feet to go. Five hundred. At three hundred feet, the voice of the Administrator reached his ears. It was tinged with a note of what sounded like surprise, followed by annoyance.
+
+“Unauthorized approach detected. Activating security protocols.”
+
+At that same moment, a wall of neon cherry light sprang to life around the device. That must be the catastrophe-class shield Pax mentioned. Size Up let out a resounding ping of danger, letting Nick know that if his body touched the field, it was going to fry him like a bug landing on an electric fence.
+
+The decisive moment was fast approaching. Nick had rolled the dice and wagered it all. Now it was time to see how the pips came up.

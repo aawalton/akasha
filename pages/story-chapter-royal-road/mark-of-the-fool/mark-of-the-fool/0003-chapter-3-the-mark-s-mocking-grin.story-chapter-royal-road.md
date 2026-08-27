@@ -1,0 +1,269 @@
+---
+id: 1c8a3c15-9d04-58d7-8edd-a29d0acc9f1a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: The Mark's Mocking Grin"
+slug: 0003-chapter-3-the-mark-s-mocking-grin
+partOf: mark-of-the-fool
+position: 3
+ownLength: 3032
+unit: words
+ownProgress: 3032
+publishedAt: 2021-04-02
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/656985/chapter-3-the-marks-mocking-grin"
+royalRoadId: "656985"
+markedReadAt: "2026-06-29T20:10:53.435Z"
+---
+
+The memories whirled in his head.
+
+Half formed images: Forests he’d never seen. Towering old men standing on altars. Landscapes blasted by war and teeming with monsters. A floating mass of dark.
+
+Scents came next: scorched meat. The rusty, sour stench of blood. Others he could not decipher. Then sounds completely alien to his ears: cries from beings that were neither mortal nor animal.
+
+Time held no meaning.
+
+His mind spun faster and faster, teetering on the edge.
+
+And then, it was over.
+
+The pain disappeared, leaving him gasping for breath as the golden glow dimmed, wavering like a candle in the dark. As soon as he could think again, his mind began to race. Confusion and fear threatened to overtake him, but he pushed it down.
+
+“Think,” he gasped. “Adapt.”
+
+He had a sinking feeling.
+
+Your mother...she had a hard time bringing you into the world.
+
+That’s what Mrs. Lu had said; maybe that meant his mother had taken a long time in labour birthing him. If so, then by law, he might have been eighteen by sunrise, but he wouldn’t have lived a full eighteen years until sometime late in the day.
+
+Or, late at night.
+
+And if he had really just passed into manhood, then logic would mean only one thing could have happened to him. Dread filled him. He didn’t want to look, but he had to. With a trembling hand, he reached up on his desk and fumbled for his knife.
+
+It clattered to the floor.
+
+Shaking, he picked it up and slowly hacked at the shoulder of his shirt.
+
+“Please be nothing, but if it has to be something, please be The Sage, please be The Sage,” he muttered.
+
+With one eye closed and one eye squinting open, he held up the knife to catch the reflection of his shoulder in the steel.
+
+“No,” he gasped. Both eyes flew wide open.
+
+Reflected back was a glowing mark. A Hero’s Mark, but not the staff of The Sage, nor the horned helmet of The Champion. What stared back at him was a mocking grin from the twisted face of a jester with bulging eyes and a belled cap on its head.
+
+The blade fell from his fingers.
+
+The Fool.
+
+He’d worked so hard. He’d pushed himself to get into the greatest school of wizardry in the entire world. He’d lost his parents. He’d taken care of his sister. He’d endured a bully of a boss for more than a quarter of his life.
+
+And for what?
+
+Uldar had reached down from his ‘oh-so-mighty’ place above and branded him as The Fool?
+
+“Oh go to hell,” Alex growled.
+
+The rage hit him with full force. He stopped thinking.
+
+Think. Adapt.
+
+Think. Adapt.
+
+Think. Adapt.
+
+His mantra brought him back, but he had no idea how long he’d lain on the ground, throwing out every curse word at Uldar he’d ever heard. But, it was pointless: it wasn ‘t like the god was around to hear him. Only he heard his own protests.
+
+And maybe that was a damn good thing.
+
+“Okay.” He clutched the desk and dragged himself back to his feet. “Okay. Let’s think about this. Let’s think about what we know.”
+
+His heart was thudding as he threw himself down in his chair. He wiped the cold sweat from his forehead.
+
+“Okay. So. You got the Mark of the Fool. Worst mark you could get.”
+
+He talked to himself; it helped him focus.
+
+“That means some church officials are gonna drag me to the capital and make me fight monsters with a bunch of strangers. Each of them are gonna be hand-picked by Uldar and have damn crazy powers. So, where does that leave me?”
+
+He needed to write this down. The glow of the Mark had faded until it was only a dull outline on his skin. He needed some light. Concentrating, he began constructing another spell array in his core to conjure another force ball.
+
+Then his brain exploded.
+
+Memories flooded him, cramming their way into his mind like wild dogs on a piece of meat. Every mistake he ever made while practicing magic came back along with every single setback and moment of frustration. They destroyed his concentration and the array began to twist.
+
+“Ah shit!” he grabbed his head. The spell array warped. Panic surged through him: if the array formed with its shape so twisted, then the mana feedback might blast him unconscious. Even worse, the circuit might form wrong and make some wild magic erupt out of him. The image of blowing up the Lu’s inn and watching a second home burn down, nearly made him pass out in panic. He abruptly shattered the array before it could do any damage.
+
+As soon as he let go of his mana, it all stopped.
+
+He puzzled at the sudden silence.
+
+“What the hell?” He slowly brought his hands down. “What was that?”
+
+Frowning, he tried to speak words of power.
+
+The flood returned.
+
+Every mis-pronunciation. Every wrong word. Every stupid mistake he’d ever made shoved their way into his mind until his words were a stream of useless gibberish.
+
+Grimacing, he stopped speaking. The flood stopped, leaving his mind calm. It took him a few moments to organize his thoughts. Then a terrifying possibility hit him. “Oh no...no, no, no.”
+
+Quickly, he dug out one of his candles and lit it; when the tiny flame caught on the wick, he dragged a book from his bag and slammed it down on the desk.
+
+A History of Our Heroes and their Opposition of the Ravener, by Finnius Galloway.
+
+Alex flipped to the second appendix: each generation of heroes was listed with their originating towns, where they’d died, and their most important deeds. At the back of that was a definitive statement on what each mark did, compiled from the descriptions of multiple heroes of previous generations.
+
+Alex flipped to the Mark of the Fool’s entry and began to read out loud:
+
+“The Mark of the Fool is a useful, but pitiful mark. While The Champion is granted incredible strength, speed and the martial skill of all his predecessors, The Sage’s mana pool expands many times, and The Saint gains a divine connection to Uldar himself, the Fool gains no great gifts. In some ways, it is the opposite of the greatest mark: The Chosen. The mighty Chosen gains lesser versions of the three preceding marks and the ability to synergize them all, but The Fool gains nothing. In fact, the Mark of the Fool actively interferes with any action related to Combat, Divinity-”
+
+“No, no, no.” Alex’s blood turned to ice.
+
+“or Spellcraft-”
+
+His words trailed off. Interferes with spellcraft!? He was going to Uldar-damned wizard university! He glared at the thing on his shoulder. The thin, glowing jester’s face seemed to cackle at him while it utterly destroyed his life.
+
+Trembling, he forced himself to finish reading. If he didn’t, he might’ve lost his mind right there and then:
+
+“-but in return, The Fool gains vastly accelerated learning of any skill unrelated to these areas. Thus, The Fool can become the Heroes’ guide through the wilderness, learn to operate watercraft, scout enemies, repair equipment (though they cannot craft great weapons), and take care of horses. Such things are needed on every adventure. Previous Fools have also become fine painters, jugglers, musicians and mastered other such skills. And yet many parties have defeated The Ravener even after their Fool has been killed, betrayed them, or is otherwise absent. Uldar, however, is infinite in his wisdom: Fools serve as the heart of the Heroes’ Party, which is perhaps why such marks find their way to young folk of good nature and good humour. Perhaps that is also why the deaths of previous Fools have motivated Heroes’ Parties like the deaths of no other members have. Thusly, even absent, a Fool can bring a Heroes’ Party to greater heights. If a Fool is reading this now, I encourage you not to despair, for though you might not be greatly rewarded by history, fulfilling one’s duty is a reward on its own.”
+
+“Yeah, that’s easy for you to say. I wonder how many of The Fools thought that Uldar’s wisdom was ‘infinite’, Mr. Galloway.” Alex slammed the book shut and shoved it away in disgust.
+
+So that was it? Alex Roth: big brother, revenge enthusiast and future wizard forced into the role of nanny, clown and sacrificial lamb? No matter what he wanted to be before he got some Mark he didn’t ask for?
+
+“Oh sure,” he muttered bitterly. “I’ll just give up my whole life so that writers can pity me, I might die and in the end they’ll just build a statue of me that makes me look like the guy parents think about when they tell their children not to talk to strangers.”
+
+“And while I’m off risking my life, I’m abandoning Selina and giving up all hope of attending Uldar-damn wizard university!  Wait, speaking of risk... let me check something.”
+
+He dragged the book back toward him, flipping through the records of previous Fools and counting the amount of entries that read ‘disappeared’ or ‘tragically killed while-’.
+
+He shuddered when he’d gotten to the end.
+
+Half of them didn’t make it out of the final fight with The Ravener, and the survivors didn’t do much better. Some were maimed, some made a fortune in the arts, or became good merchants, but their reputations chased them for the rest of their lives. It was like that for all the Heroes, but having the reputation of ‘Epic Champion’ was a lot better than being the guy named ‘The Fool’ and being known for being useless. Most of them had left for other lands, it looked like.
+
+This just got better and better.
+
+For one crazy moment, he considered trying to cut the mark off with his knife. He shook off the thought for what it was: irrational. And the last thing he needed was more ‘irrational’ right now.
+
+Right. So: ‘accelerated learning of any skill unrelated to these areas.’
+
+No Divinity, Magic or Combat. What did that mean? He snatched up his pen and flipped to a new page in his record book: the handwriting on all the charts was messy. He might have been a quick study with a pen, but his letters didn’t look pretty, no matter how much his teachers had tried to correct that.
+
+He wrote a sentence: ‘I, Alex Roth, am the unluckiest person in the entire Kingdom of Thameland,’ and it came out like a chicken scratching across a page after sticking its feet in ink. Narrowing his eyes, he started writing again below the chicken scratch. This time, he focused on trying to do better.
+
+If he was right-
+
+The flood of memories came back, but in an entirely different way: every single lesson he had been taught on writing. Every moment when he had written something in a slightly neater way. Every triumph came back in great detail, laying out how he’d achieved each previous success at bettering his writing. While the memories of his magic failures had been chaotic and ruined his concentration, these memories neatly organized themselves in his mind, as though guiding his hand as he wrote.
+
+By the time his pen had dotted the period, he was staring at the best looking writing he had ever produced. It looked like someone else had grabbed his book and wrote the second sentence for him. Carefully, he tried it again. The memories came back. This time they were joined by images of him writing the sentence he just had; everything he’d done right just now floated up in his mind, guiding him to do even better.
+
+The third sentence was slightly neater than the second.
+
+He repeated the experiment a few more times, each time improving his handwriting in slight increments. The neater letters also grew easier for him to reproduce without thinking so hard.
+
+“So, that’s how you work,” he noted and started neatly writing down his findings:
+
+He tapped his pen on the page, thinking back on what had just happened. He wrote down something else:
+
+Question: Does it make it impossible to use magic?
+
+Alex sat up in his chair and closed the book. The wood creaked beneath him. He blew out the candle, dropping the room into darkness. Last thing he needed was more distractions.
+
+He took a deep breath and steadied himself.
+
+Concentrating, he began to construct the array again. Slowly, this time. The flood came back, attacking him with every single failure he’d ever had. It pushed its way into his mind, but instead of pushing back, he let it come while holding the partially complete array inside himself.
+
+Think. Adapt.
+
+Think. Adapt.
+
+Think. Adapt.
+
+He repeated his mantra while letting the distracting memories roll off, just like he had done with all the grief of the past four years. Patience guided him as he monitored the stream: as each memory forced its way into his head, he let them pass and built the array a little more in the brief instants between. Slowly, it neared completion.
+
+Then he started to speak the words.
+
+The flood flowed faster, interfering with his speech.
+
+He shut everything out. Every noise. Every distraction both in and outside of his head, just as he had when he was first learning the spell. The flood was just like McHarris’ bakery or the inn on a busy night: it was loud but if you went slowly and carefully…
+
+…you could get past it.
+
+Then he had a thought that was so significant that it burst through the flood:
+
+What if it wasn’t just about getting past the noise?
+
+As he finished the array, he started to pay careful attention to every failure the mark was spitting at him. He examined each memory, trying to analyze them through the chaos. Some came too quickly to pick up on. They were just noise, but others let him see his failures clearly.
+
+Let him see how he failed.
+
+For the few failures he figured out, he did the opposite of what he had in those memories.
+
+The array came out slightly different from his earlier ones, and when he grounded it and completed the circuit, he felt an immense rush of mana.
+
+Voom.
+
+He opened his eyes to find a bright red glow illuminating the room. Another ball of force floated at the tip of his finger, and he nearly screamed in triumph.
+
+It was bigger than any he’d made in the past: about one and half times the size with a much brighter and more steady glow emanating from it. Creating it was slower. It had been more difficult. But it had been better.
+
+He shook with excitement; one could learn from failure too.
+
+Alex opened the book and wrote an answer beneath his question:
+
+Not impossible.
+
+It could be done, and that just meant it was hard. He could work with ‘hard’. Working for McHarris was hard, but he’d done it. Learning the beginning magic from rotted books in the church library was hard, but he’d done it. Helping his sister and the Lu family was hard while studying and acing every evaluation at the church school was hard, but he’d done it.
+
+And what was the common thread with all those? He’d done it all for him and those he loved. He threw a dirty look at the history book. It wasn’t for some god that tried to tell him what to do, ‘Heroes’ that didn’t need him, or a populace that would think of him as a joke. His sister needed him. He needed himself.
+
+He could still use magic; it was just slow and difficult right now, but it would’ve been impossible without the powers of concentration he’d developed by learning how to deal with his grief. He’d need time to truly learn how the mark worked. Explore it. Develop it and himself, and use it to learn something helpful.
+
+He wouldn’t get that time if he was off playing servant to a bunch of ‘Heroes’.
+
+Which left one option: “Looks like you’ll need to write ‘disappeared’ under the entry for another ‘Fool’, Galloway.” He stood and clenched his fist. “Because I’m getting the hell outta here.”
+
+There was something important that Galloway mentioned about seeking out Uldar’s priests. If he had to seek them out, then that meant they didn’t just know where he was.
+
+But they’d likely start searching soon.
+
+He needed to get out of Thameland as quickly as possible. He’d need to cover up his mark, wake Selina and get-
+
+“A...lex?”
+
+He froze.
+
+His head turned slowly as though his neck were attached to a rusty lever. A young woman stood in the doorway, her long, black hair tied back. She gripped a key ring in calloused fingers.
+
+Theresa Lu.
+
+His oldest friend was gaping at him, with eyes darting between the red ball above his finger, and the jester’s face on his shoulder.
+
+“I…” she said. “I was coming to talk to you, but I heard you saying all these weird words through the door, then I saw a red light. I asked if you were okay, but you wouldn’t answer me-”
+
+Oh shit, he’d tuned out everything.
+
+“-and I got the spare keys and let myself in...and…”
+
+She trailed off.
+
+He took a deep breath. Alright. Time for Plan A.
+
+Lying.
+
+“Okay, so.” He straightened himself up. “This is not what it looks like-”
+
+“It looks like you got The Mark of the Fool.”
+
+“-okay, so it’s exactly what it looks like.”
+
+Well, Plan A was dead. Oh well, Plan A sucked. It was thought of by a guy named The Fool’; of course it sucked. Time for Plan B, then.
+
+...too bad Plan B didn’t exist.
+
+“So, uh,” his mouth went renegade while his mind raced. “Thing is, uh...you know-This...this is the worst birthday I’ve ever had.”
+
+“If you’re leaving.” She stepped into the room. The door creaked as she shut it behind her. “Then I want to come with you.”
+
+Alex blinked. “...what?”

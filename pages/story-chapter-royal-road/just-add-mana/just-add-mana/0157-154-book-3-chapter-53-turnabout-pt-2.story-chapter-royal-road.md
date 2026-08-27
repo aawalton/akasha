@@ -1,0 +1,166 @@
+---
+id: 06a95e27-7530-5f8d-9a22-122f4cdb9967
+page-type-slug: story-chapter-royal-road
+title: "154 — Book 3, Chapter 53 — Turnabout, Pt 2"
+partOf: just-add-mana
+position: 157
+ownLength: 3366
+unit: words
+publishedAt: 2026-06-27
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3598971/154-book-3-chapter-53-turnabout-pt-2"
+royalRoadId: "3598971"
+---
+
+"Such carnage, wrought by only two! 'Tis a pity one of you is human, but not to worry. I, the dragonlord Ikarad, shall simply kill you both!"
+
+An introduction like that, as far as Leo was concerned, practically guaranteed that he was in for the fight of his life. That included the time he'd been forced to face a terrifyingly persistent copy of himself, which come to think of it had happened only... what, yesterday? Two days ago? It was surprisingly difficult to figure out how the passage of time worked whenever Cale was involved.
+
+Either way, it was clear that he and Katerina were in trouble. Over the course of his adventures with Cale, Leo had learned to read how dangerous an opponent likely was based on their demeanor, and the most terrifying thing about Ikarad by far was the fact that he didn't seem to have an ounce of arrogance in him.
+
+If anything, death threats aside he seemed extraordinarily cheerful. That worried Leo. The only other mage he knew that was this cheerful in the middle of a battle was Cale, and it wasn't exactly an encouraging data point.
+
+"You could also just not kill us both?" Leo called down.
+
+"A tempting offer!" Ikarad called back. "It is truly a pity that I hold in my heart such burning hatred for the humans, or I might consider it! Alas, I have seen you side with the lovely Katerina, and that is reason enough to condemn you both."
+
+"You are aware of how that sounds, right?" Leo glanced at Katerina, who had pressed herself back against the walls of the alcove. It kept her just outside Ikarad's line of sight, theoretically, and gave her the time to prepare a complex-looking spell circle. She had the focus Professor Graystalk provided to her gripped tight in one hand, but whatever spell she wanted to cast, it apparently wasn't enough.
+
+"I know, I know." Ikarad sounded truly regretful when he spoke, and it sent a shiver up Leo's spine. He seemed to not even consider the possibility of changing his mind, though by all appearances he didn't seem to want to kill either of them. "Perhaps one of my brothers might have been strong enough, but I am a victim of my own rage, I'm afraid. I do hope you'll forgive me."
+
+Leo stared at the dragonlord. "...No?"
+
+"A pity." Ikarad sighed again, then brightened, folding his arms behind his back. "All is as it must be. We will take the realms as we deserve, at least! Take some solace in that. Now, have you finished your preparations?"
+
+Leo grimaced. It was too much, he supposed, to hope that Ikarad had not noticed either him or Instructor Katerina preparing their spells; he had been able to spot them even through the obfuscation ward, after all. That meant catching him off-guard was most likely off the table unless the spell he used was something truly extraordinary.
+
+Luckily, as much as Leo's role among Cale's apprentices was that of a defensive fighter, every one of them knew the value of having at least one powerful offensive spell reserved exactly for moments like these. He had no idea if it would work, of course, but it was better than nothing.
+
+The spell in question was one he had acquired during a delve, and it was rather aptly named [Inversion Stream].
+
+The labyrinth aspect was complex at the best of times, with numerous complex applications that took the average mage decades to master. By and large it excelled in things like environmental control and thus had little in the way of pure offensive power.
+
+But labyrinth mages were still dangerous, and there was a reason for that. A fight with any given labyrinth mage had to be ended quickly. The longer the fight went, the more control over it a labyrinth mage gained; let a duel with one go on for long enough and soon they would have taken complete control over the space around them, leaving their opponents with no idea where they were or how to get to them.
+
+Leo was still a long way away from becoming that sort of labyrinth mage. It was one of the reasons he'd been so closely studying Instructor Katerina's ability to perceive and control the battlefield. That did not mean, however, that he had no options available to him.
+
+Though really in any circumstance he would have preferred not to use [Inversion Stream]. Cale had once told him of terrible labyrinth mages that would leave their opponents to starve within the labyrinths they created, and while Leo had certainly resolved not to become anything like them, [Inversion Stream] wasn't really much better.
+
+It took the conceptual nature of the aspect to its absolute extreme. Most labyrinth spells relied on an already-existing labyrinth or operated to create a labyrinth out of the environment. This one simply imposed the nature of a labyrinth upon its target, taking whatever leaps it needed to get there.
+
+Many organic bodies had a network of blood vessels that could be considered labyrinthine in nature, for instance, but the typical labyrinth spell would not work on them; they were protected by the mage's soul. [Inversion Stream] belonged to a rare category of spell that could bypass that soul protection by folding the soul itself into the domain of the spell. That allowed it to slip past and affect its targets directly, turning them inside out.
+
+Leo was aware that this was not a great deal better than starving an opponent to death. It was the best he had at the moment, however. The spell had its weaknesses—anyone with even a modicum of soul control would be able to deflect it, for instance—but Leo was relying on the fact that as far as he knew, these shades of the Dragonstorm didn't have much of a soul to begin with.
+
+And yet when he cast the spell and a brilliant stream of blue-green flew toward Ikarad, it simply bounced off.
+
+Ikarad chuckled, apparently amused. "The Dragonstorm is a wonderful thing," he said. "With each moment, it hands us the reins to this world. We grow stronger, and your magics grow weaker. You may stand unaffected, traveler, but even your magics will weaken. Your advantages will wither. Just as your magic failed, whatever spell that human with you is casting will fail. You may as well give up now."
+
+"You're spending a lot of time trying to convince us to give up, for someone who said he was going to kill us," Leo pointed out.
+
+"Consider it something of an indulgence." Ikarad smiled. "I have the advantage of time, after all. What do you have on your side?"
+
+Behind Leo, Katerina finished her spell. Leo had the time only to notice the various symbolic anchors placed throughout the University's library exploding before Ikarad staggered, grunting under some invisible weight. The smile slipped off his face.
+
+"Do you think... this will... be enough?" he gasped out, dragging himself forward. His muscles bulged as he fought against whatever it was Katerina had done. "Only a dragon... can stop... a dragon..."
+
+Leo was about to retort, but he wasn't certain he could have come up with a better retort than what actually happened next. In fact, he had some trouble believing that it actually happened.
+
+The Headmaster of the Brightscale Academy of the Attuned Arts burst into the library in a blaze of draconic glory, took one look at Ikarad, scowled, then finished the work of Katerina's spell by smashing his face into the ground.
+
+"A dragon would know better than to make such claims," Akkau muttered, clearly irritated. He turned to glance up at Leo, whose mouth hung open in shock. "There you are, student. Please tell me what is happening. This is a most unpleasant weather event to find myself in."
+
+"I will have to wash my jacket," Professor Sternkessel remarked. Because he was here too, apparently. "How bothersome."
+
+"Uh," Leo said. "What are you... I mean... What?"
+
+"Haelforge informed us something strange was happening with the dungeon," Akkau explained. "I had to investigate what was happening with my apprentice, of course. One can never be too careful when it comes to him."
+
+"Your headmaster is a dragon?" Katerina seemed awed. She stared down at Akkau. "You must make introductions, Leo! And lend me one of your notebooks. Actually, give me one of your notebooks. You're not getting it back."
+
+Leo sighed, then decided he would just resign himself to this. Akkau being here was a relief, and it was better than whatever else was probably going to happen. Not to mention that frankly, he hadn't actually wanted to use that spell. [Inversion Stream] was rather disgusting.
+
+He pulled out a set of notebooks, handing one over to Katerina. He had, of course, kept meticulous notes on everything that led up to this moment.
+
+Far better to let his notes do the talking than to try to explain the ridiculousness of everything that had happened so far.
+
+Across the halls and rooms of the University, the tide of the battle began to turn. The four apprentices and their victories were only the start of it: the moment the [Barrier King's Blessing] took effect was the moment many of the University's mages found their second wind.
+
+Together, for the first and what would be the only time in recorded history, they began to push back the Dragonstorm.
+
+Damien made sure that Instructor Hikari's discoveries were passed on to her apprentices, and though it was clear her students were devastated by her loss, they gathered themselves admirably. They chose to disseminate the most useful of her discoveries in a replica of her dying spell, sending out all the tricks she'd learned to the University's instructors to be used against the shades.
+
+With the hallway to the apprentices strangely protected by... whatever it was Cale had done—the remnants of Karadd's brother, the pile of freshly steamed buns, seemed strangely toxic to any other dragonshades that tried to enter the vicinity—Damien chose to heal: he went wherever the Verdant Flame felt weakest, using whatever means he had to reignite that flame.
+
+Flia roamed through its halls, relying on her summoned beasts to sniff out any mages that were in trouble and saving them wherever she could. Her shadows, it turned out, could act even without a direct command, and so her presence alone was enough to reinforce more than a dozen paths that would have otherwise led straight to the apprentices.
+
+Leo's labyrinth sense proved invaluable to Headmaster Akkau and Professor Sternkessel, who he noted fought together like they had done so for centuries. They made such quick work of even the dragonlords that Leo struggled to believe they were truly a threat, though he knew they were. Sternkessel's ability to instantly displace anyone and anything made it impossible to target them, and somehow Akkau's dragonfire seemed like a direct counter to the Dragonstorm. It burned through everything.
+
+Syphus had exhausted most of its power in its fight, and had not recovered its ability to see. It would need a new etherite crown inscribed for it, and Instructor Tajia was magically exhausted besides. It decided to take a nap.
+
+Its version of a nap turned out to be remarkably deadly, though it took some assistance from Branch for it to truly become a weapon. Without its crown, Syphus decided the way it could be most effective was to cast a radiating [Perpetual Motion] and allow Branch to roll it around while it slept. In this way it was able to save three of the University's mages, though it had left several holes behind in the walls by the time it woke.
+
+And it did not have to be said that Thorn, Graystalk, and Adam were able to defeat the dragonlord twins in the University's foyer. Once their weakness was determined, the outcome of the battle was more or less certain, and though they put up something of a fight...
+
+Well, Thorn was a wyldfire mage, and both Graystalk and Adam were powerful in their own right. Even the two most powerful dragonlords (or so they claimed) could not last against them, even if they had attempted a last-minute transformation that merged their forms. Thorn had responded by warping into a monstrosity that Graystalk and Adam both refused to speak about or comment on.
+
+Thorn, frankly, had no idea what the big deal was, though he was quietly rather pleased about it.
+
+That left only Cale. That the tide of the battle had changed at all was indicator enough of how the battle within the vision-realm was going, but had anyone been able to see the fight itself, they might have been amused to see just how one-sided it had become.
+
+Or, well... there was, in fact, one person who was able to observe the fight in all its glory, and from a rather personal point of view, at that.
+
+Cale was still borrowing her eyes, after all.
+
+The Fifth Intersection of the Fog Between Worlds, known also as Ashvali the Fifth, had known nearly nothing about Cale Cadwell Cobbs prior to his arrival to the Haelforge dungeon. The only thing she knew was this: that he existed, and that one day he would determine the fate of all humanity.
+
+Sort of. Technically speaking, the fate of humanity was already written, or the ghosts of what-would-be would not have begun invading the worlds. As the primal deity that determined the outcome of all fates, however, Ashvali had some influence on how a written fate was read.
+
+And she rather favored humanity! There was a reason they were so prolific across all the worlds within the Fog. Though their magical ability as individuals was largely unremarkable, as a whole, they species exhibited a remarkable capacity for influencing and building upon the Source of Magic.
+
+It had something to do with their ideas, she thought. Or perhaps the diversity of culture they shared. Magic in all its forms was rooted in ideas and inspiration, and humanity seemed to have a never-ending supply of it. By themselves they were already an incredible influence on the evolution of the Source, but where they truly shone was when they interacted with all the other species and cultures of the various worlds.
+
+Ashvali had never seen anything like it, and she doubted she would see anything like it again. Though also capable of terrible things, at their best, humanity always managed to find a way to participate in and celebrate the cultures of every species and civilization they made contact with. Their presence made the worlds a greater, more vibrant place, and unremarkable as they might have seemed, their presence made magic itself blossom.
+
+So to her, humanity was something of a precious treasure. One she could ill afford to lose, at that. What would become of the worlds in the Fog without them? Ashvali could see that future in detail, and it was disheartening—many civilizations would pull back and turn more isolationist, and others still would grow to resent the differences around them. War would inevitably result in every future of every world.
+
+Somehow, humanity kept all that stable. They were like that... that stuff that one of them had invented. What was it? Glue? Tape?
+
+Either way, the point was this: she needed a means of reinterpreting their fate. At first she had known no more than that an opportunity would arrive, for one always did. As the future approached, she saw more clearly the shape that opportunity would take.
+
+Now, after more than a millennia of waiting, she finally got to see for herself what he was like, and she was absolutely delighted by what she saw. Honestly, she could not have hoped for a better pawn than Cale Cadwell Cobbs.
+
+The pieces were almost set. Only a few more remained to fall into place, which was admittedly the riskiest part of her plan. After all, Cale did not yet have everything he needed. For that, he would have to return to Utelia before completing the Bitter Path and find that other human.
+
+Hopefully he would pick up on her hints on that matter. It was all she could do to guide him. Once he had what he needed, though, it would be entirely in his hands. What he would do, when faced with humanity's extinction?
+
+It was an exciting question, because for all of Ashvali's knowledge, she still did not entirely know what he was. He was useful, but the source of his existence and how he was able to persist between worlds was a mystery to her. Perhaps there would be an opportunity to find an answer to that soon. She could think of all sorts of uses for his reincarnation trick.
+
+In the meantime, watching him thrash a snake was deliciously entertaining.
+
+The vision-realm that represented the Duat was very nearly a ruin now. It held together only because of the symbolic strength of the Duat itself; without it, the whole place might well have fallen apart when Cale evolved his thirteenth-tier spell [Might of the Mountains], which had caused every mountain in the vicinity to grow animate and sentient. They matched Apophis in size and tossed the serpent around like it was nothing more than a children's toy, causing a regrettable amount of damage in the process.
+
+Fortunately, the fight was over. Apophis no longer had the spirit to fight, and it had accepted its defeat as inevitable. As the vision-realm began to tremble and collapse with the conclusion of their battle and they approached the twelfth and final country of the Duat, it spoke.
+
+"I do not understand how you did this," it said. Its form reverted back to that of the hydra, with the heads of four dragons emerging from its neck. Cale wondered briefly if the pain he saw in their eyes was real. If the true dragons had been watching all this as it happened, unable to stop it. "The storm should have been inevitable. The worlds were ours to retake."
+
+It sounded as if it was pleading with him. Not for mercy, exactly, but for reassurance, or for an answer of some kind.
+
+"We deserved better," it added, the words plaintive and confused. "Did we not deserve better?"
+
+Cale eyed its pitiful form, then sighed. "The dragons that spawned you did," he said after a moment. "They didn't intend for any of this. They just wanted to repay a debt, and they trusted us to come up with a better solution. I admire what they did. I'm not sure I could've done the same."
+
+"And what about us?" the hydra asked. "We exist only because of them. Because of you. We are the castoffs of your existence."
+
+"That might be true," Cale said. "But your choices were your own. The good news is, I think you'll enter the cycle, just like everyone else the Dragonstorm created and gave enough life to speak. If you have something of a soul, you won't be gone forever."
+
+The hydra absorbed this, then spoke again, quiet and bitter. "I can sense your anger," it said. "You are not that different from us. You carry within you the same resentment that created us. Perhaps more. I do not understand how you can ignore it."
+
+Cale snorted. "I don't ignore it," he said, a shadow crossing briefly over his face. "But I don't let it control me, either. I've seen what happens when it does, and I love magic too much to let my hatred turn it into something ugly."
+
+The hydra fell silent and bowed its head. It was battered and bruised—it did not have the strength left to fight even this battle of words. Besides, what was left for it to say?
+
+"For what it's worth," Cale said. "Whatever remains of you in the next life, I hope you remember that, and make some better choices."
+
+A blade of prismatic mana formed in his hands; he slashed, and the vision-realm fell apart around him.
+
+A moment later, the sun began to shine through the fading storm.

@@ -1,0 +1,151 @@
+---
+id: 88565681-9053-54a1-943c-c4170426ce0d
+page-type-slug: story-chapter-royal-road
+title: "64 — Book 2, Chapter 12 — Retribution, Pt 3"
+slug: 0064-64-book-2-chapter-12-retribution-pt-3
+partOf: just-add-mana
+position: 64
+ownLength: 2654
+unit: words
+ownProgress: 2654
+publishedAt: 2025-11-22
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2783574/64-book-2-chapter-12-retribution-pt-3"
+royalRoadId: "2783574"
+markedReadAt: "2026-06-29T18:49:48.205Z"
+---
+
+"I'm afraid you have the wrong person," Professor Aurs said as politely as he could, trying to hide the fact that his heart was pounding. He folded his hands delicately behind his back in the way he imagined a proper elven professor would, then did his best to quell the nervous tic that made his ears twitch every few seconds. He was pretty sure he was screwed. Why had he even agreed to this assignment?
+
+His students just stared disbelievingly at him. Aurs's gaze flicked to the very unconscious Dekora that they were dragging along with them. He cleared his throat nervously. "R-really, now," he managed. "I may be new to this academy, but that is no reason to suspect me as part of this... absurd and convoluted scheme. I must insist that you perform a more thorough investigation."
+
+"We could investigate your skull after we crack it open," Caea suggested, making Aurs flinch. Oh, by the infernal realms, he wasn't even sure she was joking. She'd brought her skull collection along with her into his class. More than once!
+
+Not for the first time, he considered casting some sort of spell to get himself out of this situation. Given what they'd apparently been able to do with the very decorated archmage that was Dekora Telwis, however, he was pretty sure he would just be destroyed. Better to play the few cards he had than to instigate a fight.
+
+Because he'd been in Haelforge Academy for a grand total of three months, and he was well aware of exactly what Haelforge students could do when they got themselves into a fight. The academy's reputation for being battle-obsessed was not only true but outright understated; the number of times he'd been forced to indulge in duels with students alone—
+
+—and the number of times he'd lost those duels, for that matter! Aurs had never questioned his own proficiency with magic until he was assigned here as a substitute professor. He was, for all intents and purposes, better at every conceivable class of magic than their students. His spells were more powerful, he cast them more quickly, and he was the very model of a perfect, albeit new archmage.
+
+Somehow his students managed to find creatively humiliating ways to win their duels with him anyway. Usually, this involved some unexpected combination of spells he wasn't prepared for. Never in his life would Aurs have imagined a mundane knocking spell could be weaponized, and yet he had been soundly defeated by one.
+
+Twice.
+
+Suffice to say his ego had been well and truly demolished within the first month of his time at Haelforge Academy. So demolished, in fact, that he'd considered handing in his resignation with the Red Hunters and just enrolling in Haelforge as a student. He had quite clearly misjudged how beneficial joining them would be.
+
+Of course, simply resigning wasn't really an option when it came to the Red Hunters, which was why he hadn't yet. A decision he was starting to regret, because he was reasonably certain that whatever his students came up with to punish him was going to be decidedly worse than whatever the Red Hunters would have done.
+
+At least it would be deserved, though. Aurs winced slightly at the intrusive thought. He should have known better than to underestimate his students; no doubt they had somehow survived the summoning, and that would explain their anger. They did not appreciate it when someone messed with one of their own.
+
+"What, do you really have nothing else to say?" Caea asked, twirling her daggers. Their edges were gleaming with magic—Aurs knew from experience exactly how sharp they were—and from the savage grin she was wearing, she had no interest in holding back. "We have all the evidence we need. There's nothing to investigate. Dekora already told us you were working with her."
+
+"I—Well—" Professor Aurs faltered a bit at that revelation. Dekora had given him up? She was the one constantly preaching about the necessity of absolute loyalty to the Hunters! "How do you know she wasn't lying? Perhaps she simply wanted to weaken Haelforge by instilling distrust for its professors!"
+
+One of the other students snorted. "That would require us to have trusted you in the first place, and you're a terrible actor. We knew something was up from day one."
+
+"Why do you think we kept hounding you for duels?" Another one quipped.
+
+Aurs's face fell. "W-what's that supposed to mean?" he protested. "I came recommended by the Brightgrove elves themselves! I should imagine I would be among the most trustworthy of the faculty!"
+
+Almost as soon as the words left his mouth, Aurs cringed internally. That was not the most convincing argument he could have given. The Haelforge students had no particular reason to trust the Brightgrove elves, and the recommendation had been faked to begin with. He just didn't have anything else going for him.
+
+"Right," Caea said, unimpressed. "A non-Brightgrove elf, recommended by the Brightgroves, who have been staunch and reliable allies of Haelforge—nope, just checked, they're a random group of elves we don't care about and you keep muttering to yourself every time you think you're alone."
+
+"I do not!" Aurs protested. Did he? Now that he thought about it, maybe he did. He had a habit of pacing in corners and muttering. "A-and how do you know I'm not a Brightgrove?"
+
+"You don't have one of their stupid elf names," Caea said. Aurs opened his mouth to reply, then closed it again. He had nothing to say to that. "Look, prof, are we really doing this? I'd like to get to the fighting already, and you aren't even trying to defend yourself. This is boring."
+
+"Look, I can't just... this isn't..." Aurs gave up mid-sentence. This was pointless. But he was being watched, he couldn't just explain who he was! The Observers were always there. It was a fact of being a Red Hunter, and it was why he'd never once been able to step out of line, no matter how much he hated that stupidly hypocritcal plan with Kessi. "I need to cast a spell," he said. "Please don't kill me."
+
+With that, he started waving his hands around, making sure to use grand, exaggerated movements. That way his students would see that he was creating an obfuscation ward and not just trying to kill them all. Aurs had no idea if this ward had the power to repel the Observers and their sight, but it was the best he could do if he wanted to preserve his own life.
+
+He was kind of stuck between a rock and a hard place, here. Except the rock was the Commander , who was very far away, and the hard place was a terrifying serpentfolk woman who had once shown him her collection of elf ears.
+
+Aurs liked his ears. No matter how much they kept betraying him. He was disinclined to test Caea's patience, or that of any of his other students. Why had he ever agreed to come to Haelforge?
+
+Also, why did he still want to enroll as a student here? There had to be something wrong with his brain. Aurs decided he would need to see some sort of healer if he survived this.
+
+"Look," he said desperately as soon as the obfuscation ward settled around them. "I'm under watch, I can't just say things. But yes, you're right, but in my defense, I wanted to resign! But the Red Hunters don't look very kindly at people that try to leave them, okay?"
+
+Caea looked distinctly unimpressed. "You wanted to resign," she said flatly.
+
+"It's not like I belong here!" he said, his tone pleading. "I mean, I thought I did, but then I started losing to Haelforge students in my first week here. And that was before you figured out how to do... that." He gestured to Dekora's unconscious body. "Please don't kill me. Or beat me up. I'll work with you! I swear I never wanted it to get this far."
+
+His students glanced at each other. Caea made a face. "I was kind of hoping the whole cowardly incompetence thing was an act," she grunted, crossing her arms and lowering her daggers slightly.
+
+"I am not a coward!" Aurs protested. "Or incompetent. You are just astonishingly good at weaponizing things that should never be weaponized, and I am astonishingly bad at defending against this."
+
+"Sounds like incompetence to me," Caea said. Aurs's face fell. "Why did you join the Red Hunters, then, coward?"
+
+"It was—it was the practical thing to do," Aurs mumbled, and when Caea gave him a disbelieving look, he groaned. "It was! Have you seen the kind of artifacts and magic they have access to? It's beyond what any academic fund would allow! Mages with access to their resources grow a whole forty percent faster than their peers!"
+
+"And that forty percent has gotten you so far you lose duels to first-year Haelforge students," Caea said.
+
+"I—that is not—I do perfectly well in a fair duel," Aurs blustered for a moment, and when Caea just raised an eyebrow at him, he slumped. "Yes, I recognize now that there is more to magic than its theoretically perfect application. You all taught me a very thorough lesson in that. Multiple times. I also recognize now that I failed to account for the political position the Red Hunters occupied and the assignments they would likely send me on. But I regret it. Truly. I would leave them, but they would kill me for it, so maybe I can just... pretend to work with them? Give you information on the side?"
+
+He gave his students a hopeful smile. "I could even warn you the next time we try to poison your food or something! I was always against—"
+
+Aurs faltered, sensing he'd said something wrong, because every student's expression darkened as soon as he said those words. Caea slithered toward him, brandishing one of her daggers and pressing the tip of it just beneath his chin.
+
+"An interesting proposition," she said, her voice sweet. "Am I to understand, then, that you were part of that poisoning?"
+
+Aurs swallowed. "No?" he tried. "No, I mean—I knew about it, but I didn't approve of it, and Dekora didn't trust anyone else to do it because the dose was too important to mess up—"
+
+"Hm," Caea said. She hummed thoughtfully, then glanced at the rest of the students, who had all visibly relaxed... somewhat. "Oh, very well. The rest of you, please get Dekora to the professors for containment. I need to have a few extra words with the professor."
+
+The rest of the students glanced at each other, shrugged, and then promptly left the room, bringing Dekora with them. Aurs held his breath until they left, then breathed a sigh of relief. "Thank you," he said. "I promise, you won't regret this—"
+
+Caea pressed a dagger into his hand, and Aurs froze.
+
+"Oh, don't worry," she chuckled. "I accept your offer. I'm sure we could use someone on the inside. Can't let Brightscale outdo us, you know? It's just... you knew Kessi would be poisoned and said nothing about it, and I'm afraid I can't just let that go."
+
+She smiled a terrifyingly sweet smile. "But I'll let you off light. We'll just go for a few rounds, how about that? Daggers and first-tier spells only."
+
+"A few rounds?" Aurs managed. He'd duelled with Caea under these same rules before. A single round with her promised bruises for days. He still hadn't figured out how she knew to cut through the weak points in his barriers, and he was pretty sure this wasn't going to be when he found out.
+
+"You would have let Kessi take the blame," Caea said, and for the first time Aurs caught a glimpse of how angry she truly was. "And the rest of us would have died. You're getting off light, even if you didn't technically participate."
+
+"I..."
+
+What could he say to that? She was right. He'd known about the plan, and even if he disapproved, he hadn't done a thing to stop it. If not for this, he would have continued going along with it, too. For the first time, Aurs thought he understood how some of the other Hunters fell in so deep. If his own ego hadn't been repeatedly shattered when he'd arrived at Haelforge, where would he be now?
+
+"I'm sorry," Aurs said quietly. "I know that's not enough, but I am."
+
+Caea snorted. "Yeah. Funny thing is, I actually believe you, which is why you're getting off lighter than the others. Now get ready, will you?"
+
+Aurs nodded. He slowly, hesitantly brought up the dagger he'd been given, trying to ignore the way his hands were trembling.
+
+Caea grinned. "Good," she said.
+
+Then she leapt at him, and her—were her teeth multiplying? When had she learned a spell like that?
+
+Aurs dropped the dagger and let out a high-pitched scream, which was not what he'd intended to do. It also did nothing to stop Caea.
+
+And that was just the first round.
+
+Cale was pleased. That was two out of the four Red Hunters stationed at Haelforge dealt with. The other two were likely to be a little trickier, but not so much that he expected it to be a problem, which was why he was now wandering the hallways of the Haelforge Academy with Leo and Damien in tow.
+
+"Um," Damien said. "Are you sure we should leave them? Shouldn't we, I don't know... supervise or something?"
+
+"Why? They've got all my mana," Cale said, swinging around the mana channeler he'd brought along with him. Leo was carrying an entire sack of them, mostly because he was the only one in the group that could actually carry them all. "Least they could do is let us explore the place."
+
+"Why do we want to explore the place, again?" Leo grumbled. "I thought we were here to make the Red Hunters pay for what they did."
+
+"And we did," Cale said cheerfully. "That's about enough of that, I think. I try to be pretty careful with how much time I spend on that kind of thing. There was this time I spent two years making this one mage miserable, and you know what I found out afterward?"
+
+"What?" Leo asked.
+
+"I missed a major discovery in baking magic," Cale said. "It was the first one in decades, too! I'm still upset about it. Anyway, all that fighting made me notice that the mana flow in the academy is weird, and that's what I've decided I'm interested in right now."
+
+Leo stared at him.
+
+Damien, on the other hand, nodded like all of this made perfect sense. "What's weird about it?" he asked instead.
+
+"Normally, mana collects at different focal points within a magic academy, creating manifestations like secret passages and the like," Cale explained. "The mana in this academy is pretending to do the same thing, but it's crossing paths with itself a lot and creating a whole different set of focal points. It's the type of thing that wouldn't normally be noticeable if you weren't mapping out the mana flow or, say, powering a group of first-year students with infinite mana for spells."
+
+At this, Leo seemed reluctantly interested. "So what does that mean for Haelforge, exactly?"
+
+"For Haelforge, nothing much," Cale answered. "This type of focal point doesn't create a manifestation. It does the inverse—creates a sort of distorted echo of a past event. Kinda like the kind of scrying spell that lets you look into the past, but without the spell!"
+
+"Oh." Leo blinked. "And why do we want this, exactly?"
+
+"Aren't you curious about how a bunch of first-years beat an archmage?" Cale beamed. "I expect both of you to take notes, by the way."

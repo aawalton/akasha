@@ -1,0 +1,509 @@
+---
+id: 10e09f5d-cbfa-54ef-8d60-1d1c36f8f10b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24"
+slug: 0025-chapter-24
+partOf: light-cleric
+position: 25
+ownLength: 7192
+unit: words
+publishedAt: 2021-08-01
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/726591/chapter-24"
+royalRoadId: "726591"
+---
+
+Appledel came into view over the green farmlands and ripe orchards like another foothill. Baked tile roofs shone in the afternoon springtime sun, red and brown and all the colors between. Whitewashed stucco walls stood out brilliantly against the foothills. Sacred Heart Church was the tallest of the buildings and the great, east-facing stained-glass window of a sunburst shone its brilliance, glinting and shining and sparkling so it seemed as much mystical as symbolic. Piety had never seen it from the outside. When she’d left with Father Vytal, she hadn’t bothered looking back.
+
+It was stunning.
+
+Temperance rode to her left, engrossed in a book. Or perhaps only pretending to be. She had her head down so that her sun-lightened hair obscured her profile. Piety looked at her, but she didn’t seem to notice, so she looked back at Tobias, who rode behind them, quietly watching everything. He really wasn’t bad to look at, she decided. He noticed her looking and met her gaze for long enough that she turned away, blushing.
+
+The road on the north bank of the Grand River was smoothly paved, though grass grew between the paving stones here and there. On either side of the river were farmlands fed by carefully dug, maintained, and controlled canals and ditches. People in loose shirts and short pants worked in the fields, chopping insistent weeds with hoes, removing stubborn stones with shovels, and guiding water to where it was needed.
+
+The glinting sunburst window caught her eye again—the symbol of God, abused by the Mother Superior.
+
+With sudden conviction, Piety twisted awkwardly in her saddle and undid the straps and holds so she could dig through her pack. The clothes were all on top—two extra dresses, two extra pairs of pants, socks in need of darning and socks suitable to wear, underwear, a formal robe she had never worn for fear of ruining it—but not the article she was looking for. Beneath the clothes were a cake of soap, a brush, a pot of mint flavored soda, and a variety of other paraphernalia that made travel hygiene possible.
+
+“Piety, what are you looking for?”
+
+Piety looked up embarrassed. “I’m looking for a scarf.”
+
+Temperance frowned. “What for?”
+
+Before she could stop herself, Piety’s hand went to her hair.
+
+Temperance’s frown deepened. “No.”
+
+“But—”
+
+“No. I won’t permit it.”
+
+“You decide what I wear now?”
+
+Temperance snapped her book closed and urged her horse to stop. Piety followed suit but delayed enough that she had to turn her horse to look at Temperance.
+
+“It’s been over two years. You can’t… she can’t do anything to you. You’re the Light Cleric, damn it!”
+
+Piety flushed, and her fingers and toes went numb. She wanted to hide. She looked away from Temperance only to see Tobias, and she didn’t want to look at him either. He regarded her quizzically with his pretty hazel eyes. Piety flinched away from the thought.
+
+Tobias turned to Temperance. “Why does she want to cover her hair?”
+
+Temperance looked away from Piety. “When we were orphans at Sacred Heart,” and she pointed accusingly at the church and its shining window, “the Mother Superior hated Piety. Piety’s white hair makes her stand out and the Mother hated how “unnatural” it was.” Temperance said “unnatural” like it was disgusting word. “The Mother used to cut her hair every month to keep it short and made her wear a scarf to cover it.”
+
+“Actually,” Piety interrupted, “I covered my hair myself. She never told me to, it just seemed prudent.”
+
+Temperance ignored her. “And now, she wants to put it back on, like the Mother still scares her.”
+
+Tobais nodded. “Perhaps she does.”
+
+“I’m right here,” Piety protested, “Don’t talk about me like I’m not here.”
+
+Tobias looked at her, and Piety wished she’d kept her mouth shut. “Does she scare you, Mother?”
+
+Piety wanted to deny it, to claim the Mother Superior of Sacred Heart Church held no power over her. She wanted to point out that she’d faced and killed several vhamps, that she’d fought General Frederick Vahramp and survived, that she had served as a healer at Pinefort and seen horrors beyond anything the Mother could concoct, but she was unable. Instead, she shrugged and tried not to blush. She hunched her shoulders and ducked her head.
+
+“Mother Churchstep, yesterday I saw the scars on your back. I thought they came from fighting vhamps but…” He looked at Temperance who nodded once and swallowed hard.
+
+Tobias looked at Piety. “If I may suggest, Mother Sunday is correct in forbidding you to wear the scarf. In fact, we should make your hair as overt as possible. And you should look regal. Do you have any formal robes?”
+
+Piety nodded. “Uh… yes…”
+
+“Good. As soon as we get to the town’s inn, you two should make yourselves look as much like emissaries of the High Temple as you can. Make sure your sunbursts are prominent. Then we’ll go see this Mother Superior and find out what’s going on in Appledel.”
+
+Piety watched the whitewashed houses pass with interest. When she and Temperance had fled, she hadn’t been interested in what the town looked like. Besides, it gave her something to think about other than what she was going to say to the Mother. Most notable was the distinct lack of people. Though her experience in town had been relegated to what she’d seen from the front step of Sacred Heart, she’d seen towns since and certainly there should have been more people.
+
+Tobias approached the innkeeper and made arrangements for lodging, food, and baths. As he did so, Piety couldn’t help but notice there weren’t many people in the common room. The innkeeper took Tobias’ money with a furtive look.
+
+A meal and a bath later, Tobias knocked upon their door, and it was time to go. They walked through the deserted streets to Sacred Heart. Tobias proceeded them up the stone steps of the Sanctuary. Piety and Temperance walked side by side, a few paces behind. They held hands.
+
+The formal robes had been tailored to them and so fit well, though they had both grown in the months since leaving Pinefort. They were white, and because they hadn’t been worn, they were clean, without the stains and wear that came from regular use. Wide belts of crimson, embroidered with golden sunbursts, pulled the robe in at the waist. The robe was open below the waist so that it flared dramatically around their hips and revealed the white dress worn beneath.
+
+Piety had insisted on wearing her pants beneath the dress and her sturdy boots, so some time had been spent polishing the boots. Temperance wore her slippers, claiming they were more comfortable than the travel boots. Each wore their sunburst so that it rested against their chests, scarlet against the white of the robe.
+
+Temperance had brushed out Piety’s hair until it shone. Piety had wanted to have it braided or at least pulled back with a tie, but Tobias opined that it would make a more dramatic statement to have it loose and flowing. Temperance had agreed and that was that. Piety had brushed Temperance’s hair in return and put it in a simple braid. Piety had examined her friend and had to admit that, dressed formally, the travel cleaned from her hair, the sunburst prominent upon her chest, she looked like a mother.
+
+But as they followed Tobias up the steps to the great front doors of the sanctuary of Sacred Heart, they gripped each other’s hand tighter and tighter. Piety clenched her jaw to keep it from chattering and tensed her shoulders to stop the shudders that threatened wrack her body. Her palms were sweaty, so she didn’t know if Temperance was sweating too.
+
+Tobias also had dressed for the occasion. He wore a military uniform of the Royal army, a soft grey with shiny silver buttons, a high collar, and a white stripe running down the arms and legs. Purple knots on his shoulder identified his rank; lieutenant. He wore his saber at his belt, but the scabbard was polished to a silvery shine and the belt was shiny black. Piety wondered if he had polished scabbard and belt, or if he carried extra for just such an occasion.
+
+The great double doors, carved in relief with the imagery of kneeling supplicants, beatific saints, and God’s sunburst, stood firmly closed. Tobias took hold of one of the large, copper handles and tugged, but the door did not open. He took hold of the handle in both hands and pulled harder but though the door budged, it did not open. Piety looked at Temperance who looked at her. The doors of the sanctuary were never locked; there was no way to lock them—they were meant to be open to any who desired entrance.
+
+Tobias turned to look at them. “Shall I knock?”
+
+“The doors shouldn’t be locked,” Piety said.
+
+“We could try the orphanage entrance,” Temperance suggested.
+
+“No,” said Piety, “If we’re going to do this right, we’re guests, and guests are meant to enter the sanctuary via the front doors. I’ll open them.”
+
+She closed her eyes and sent her senses at the door. She felt the grain of the wood worn smooth with age and polish, and she slid along it to the stone step and under, into the sanctuary. On the other side, she felt the great wooden beam resting in two great iron hooks on either side of the double doors and threaded through the copper handles. She wrapped the beam in her telekinesis, slid it aside, and leaned it gently against the wall by the door. It took little effort.
+
+“The door should open now.” Piety opened her eyes.
+
+Tobias took hold of the handle and tugged. The door opened, but not as easily as it had the last time Piety had used them, as though its hinges had been neglected, and it hadn’t been opened in a long time.
+
+The three entered to a sea of frightened expressions and panicked whispers. The back most pews were filled with grey-clad orphans while those nearer the front held white garbed acolytes. None of the girls moved. The area in between, reserved for Appledel citizens, was empty, as was the front most section for sisters, and the dais. Tobias closed the door behind them.
+
+“It’s time for the evening service,” Temperance whispered. Piety nodded.
+
+“Then we should sit,” Tobias said. He closed the doors, then strode up the aisle and chose a spot five pews up and on the left. The orphans in that pew scooted to the far end, some going so far as to move to the pew behind. More may have done so but the church bell signaled six-hour, and the sisters filed in. The orphans and acolytes faced the dais and went still and silent.
+
+The sisters, dressed in varying shades of red, gold, and white, took up the three front pews and chatted quietly amongst themselves until the final retinue of sisters, headed by the Mother Superior in her scarlet dress, took their place on the dais.
+
+Wasting no time, the Mother stepped to the fore of the dais and swept the crowd with her gaze. Piety grabbed Temperance’s hand and they held each other tight. But the Mother seemed not to see them and began the evening’s sermon.
+
+“God punishes the wicked with wrath and plague and monsters.” The Mother’s voice filled the sanctuary but held an edge that was new. To Piety’s ear, she sounded desperate. “The appearance of the undead within Khulanty is a blessing from God to cleanse this land of the Godless. Only those with the protection of the blessed shall weather this onslaught and emerge from God’s wrath the stronger for it. Even here, in Sacred Heart, the wicked among us have been taken. But I have blessed and barred our doors to protect the righteous…”
+
+Here the Mother gestured at the entrance of the sanctuary, and here she faltered. Her face flushed with fury, and she managed to utter “Who?” before anger choked her.
+
+The acolytes and orphans, everyone who had seen the trio enter, turned to look at them, directing the Mother’s gaze.
+
+Tobias whispered, “Now’s the time. Be brave, Mothers.” He stood and strode down the aisle to within several feet of the dais where he bowed. But the Mother ignored him, she kept her gaze and fury on Piety and Temperance.
+
+“Mother, I am Lieutenant Tobias Ruthven of Her Majesty’s Royal Guard. I present to you Mother Temperance Sunday and Mother Piety Churchstep, the Light Cleric, here on the Royal’s command.” And he gestured back at Temperance and Piety.
+
+Piety was paralyzed. She wanted to stand and confront the Mother, but the Mother’s furious gaze was upon her, and she could not move. Her vision was invaded by a grey fuzz that narrowed her sight to the Mother. Her breathing came in short, shallow gasps.
+
+“Come on,” Temperance whispered.
+
+Temperance stood and pulled Piety to her feet. Piety let Temperance guide her to the aisle and down the red carpet to where Tobias waited. She stumbled once, but Temperance’s arm around her shoulder steadied her pace, then her breathing, then her thinking, and she remembered why they had come. This wasn’t about the Mother, and it wasn’t about her; it was about finding the vhamps attacking Appledel.
+
+When Piety looked up, they were standing next to Tobias. She looked at the Mother. The Mother Superior of Sacred Heart Church had her fists on her hips, knuckles white. In her right hand she held her rod of office. Her hair, pulled back in its customary bun, was more white than it had been the last time Piety had seen her, her face more lined, her lips thinner, but she still stood tall and furious.
+
+Piety took a step forward, then another, and another. She felt Temperance and Tobias behind her, staying only a pace back, but letting her take the lead. She stopped just out of reach of the mother, folded her hands at her waist, and bowed.
+
+Piety tried to speak, but no words came out. She swallowed hard, closed her eyes, and went to her mindspace. She took a moment to look around the room, draw comfort from its familiarity, and let it focus her thoughts. In the next moment, she opened her eyes and knew that to the onlookers, she had only blinked.
+
+“Mother Superior, I apologize for interrupting your sermon. It was not our intention. However, I am here on order from Her Majesty concerning—“
+
+Piety wasn’t allowed to finish. The Mother struck with her rod of office, as Piety had seen her do many times before. She saw the arc of the Mother’s blow, had time to understand what was happening, but did not take the opportunity to use her power to stop it. Instead, she tensed, hunched her shoulders, and let it happen.
+
+The pain exploded just under her left eye. The heat of pain radiated from the point of impact, it plugged her ears with a dull buzz, and danced sparks before her eyes. She staggered and put her hand to her face. She was bleeding, the cut stung and dripped on her palm. It was difficult to breathe through her nose.
+
+Piety straightened and faced the Mother, no longer afraid. The Mother had lost her temper and hit her, just as Piety had known she would. And that was the worst that could happen. The worst had happened and Piety knew she wouldn’t allow it to happen again. With a thought, she healed the cut on her cheek, the break of her nose. She watched the Mother’s eyes widen as the wounds healed in moments.
+
+“Her Majesty, the Royal, has asked me to investigate this plague of monsters, as you so eloquently put it.” Piety continued, just as though nothing had happened. She knew they were being watched. She could feel the shock, confusion, and terror of those in the sanctuary.
+
+“I know why you’re here, Sweep.” The Mother’s voice was harsh, as though she spent a lot of time yelling, or crying.
+
+“Then you’ll understand that I need to ask you some questions about what’s been going on in Appledel. The rumors are wild.”
+
+“The world rejected you,” said the Mother, as though Piety hadn’t spoken. “I protected you, and you’ve come back.” Her eyes had not lost the fervor, but her voice lowered, softened.
+
+Confused, Piety shook her head. “What?”
+
+The Mother spoke gently, as though to a small, frightened animal. “Even God rejected you. I was the only one to protect you, and now you’ve come back, dirtier and more wretched than before.”
+
+“I’m here on the command of the Royal…”
+
+“I shall beat the evils of the world from you…”
+
+“No,” said Piety, “Mother, I need to know about the vhamps…”
+
+“Do not interrupt me, child!” the Mother screamed, an edge of desperation in her voice. “I shall punish you for fleeing me and for the evils of the world.” She reached out for Piety. “You know you deserve this.”
+
+Piety wanted to step back, to turn and flee, to scream with fear and frustration, but she held her ground and when the Mother’s hand closed on her shoulder, she took hold of the Mother’s wrist. The Mother dug her fingers into Piety’s shoulder, but the grip was not as strong as she remembered. Piety did not squeeze the Mother’s wrist, only held it firmly.
+
+“Mother, I need you to listen to me.”
+
+“Wretch!” the Mother screamed.
+
+She swung the rod again and this time Piety raised her left hand as if to ward off the blow, but she stopped the Mother’s swing by wrapping her arm in her telekinesis. The Mother grunted at the sudden stop.
+
+“Willow.”
+
+Piety put everything she felt about the Mother Superior of Sacred Heart into that one word, her name. All the fear, and hate, and disgust bubbled from Piety’s chest like a pot over-boiled, and Willow’s grip on her shoulder loosened. Piety released her hold on Willow’s arm and the Mother Superior stumbled backward.
+
+“Willow, what have you done? Why don’t you want to tell me about the vhamps?”
+
+Willow swallowed and shook her head faintly. “No,” she whispered, and her voice had gone hoarse again.
+
+Piety stepped up onto the dais and Willow took another step back.
+
+“I need to know. People have died, and I can stop the vhamps if you’ll just tell me.”
+
+Willow stepped back again, but stumbled and fell. She pushed herself to her knees but stopped when she saw Piety still advancing. Her hair had come loose from its bun, spilling about her shoulders in grey waves, highlighting her light-brown, almost golden eyes. Piety was reminded of another, more beatific, grey-haired, golden-eyed cleric.
+
+A nudge at her toe made Piety look down to see the Mother Superior’s rod had rolled from Willow’s grasp and stopped at her feet. With telekinesis, she lifted the rod to her hand and took hold of it in her right hand. It was a golden length of wood embellished with crimson and white lacquered knotwork making repeating sunbursts in tiny rows up and down the length of the rod. It was pretty.
+
+Piety looked away from the rod to regard the sisters of Sacred Heart, seated in their thrones, bathed in the fading light of evening through a stained-glass window. Some gripped the arms of their embellished chairs, some were pushed up against the backs as though trying to escape, some wore expression of fear, some of surprise, some of shock, none of pity, or remorse, or mercy. She looked back at Willow.
+
+Willow remained on her knees, looking at Piety and she flinched when Piety looked at her. Piety adjusted her grip on the rod.
+
+“Willow, the vhamps are coming back tonight, aren’t they?”
+
+Willow whimpered.
+
+“I can stop them, I have the power, but everything I know about them will help me. You must tell me.” Willow trembled. Tears welled at the bottoms of her eyes but she did not look away from Piety. Piety bent to rest on one knee, putting her level with Willow. Willow watched her.
+
+“Willow, I’m not going to hurt you, but if you won’t tell me, I’ll take it from your mind. I have that power.”
+
+Willow had to lick her lips before she could speak. She whispered so softly Piety could barely hear her. “I can’t. It’s terrible.”
+
+Piety narrowed her eyes. “You openly abuse everyone within your power. What is too terrible for you to admit?” She too whispered, as though sharing an intimate secret. She gripped the rod tightly and desperately wanted to bring it down on the woman’s head.
+
+Willow sobbed, a loud, coughing sound that echoed through the sanctuary but took control of herself immediately and did not dissolve into tears. “I can’t,” she whispered again.
+
+Piety took a breath and considered her options. She considered the rod in her hand and the revenge she might extract with it, cutting Willow’s cheek and laying into her back with abandon—the idea both repulsed and satisfied her. She thought about forcing Willow to admit whatever it was she’d done to everyone in the room, watching her blubber her shame in front of those she abused. But, eventually, she decided as she always did, on mercy.
+
+“Would it be easier if I just took it?” she asked gently.
+
+Willow closed her eyes, sending tears down her lined cheeks, and shuddered a sigh. She nodded and bowed her head, shoulders slumped.
+
+With trembling fingers, Piety rested her left hand, palm down, on Willow’s head.
+
+Piety stood, a silent, invisible observer, and watched the memory unfold.
+
+Willow stood before a desk covered in stacks of paper. She had significantly less grey in her hair than in reality. On the other side of the desk sat a middle-aged man, round and balding.
+
+“I do not appreciate being summoned away from my church, mayor.”
+
+The mayor nodded. “I know, Mother Willow. Please, sit.”
+
+Willow only crossed her arms.
+
+The mayor cleared his throat nervously. “I would not have sent for you if it weren’t important.”
+
+“Silly man, you do not decide what is important to me.” She turned to leave, but the mayor’s voice stopped her.”
+
+“People have gone missing,” he said desperately. “The Sonnborns”
+
+Willow turned around slowly and gave the mayor the full weight of her glare. “Who?”
+
+“Mr. and Mrs. Sonnborn. They attended sermon every Sunday. Surely you knew them?”
+
+“Many people come to sermon on Sunday. You aren’t among them I’ve noted.”
+
+The mayor blushed and stammered.
+
+“I’m not a magistrate, Mayor, I haven’t got time to conduct an investigation. Is that really why you sent for me?”
+
+“I just thought that—“
+
+“Is there anything else?” Willow had her hand on the door latch by the time the mayor said, “Ah, yes, actually, there is something else.” He picked up a folded paper packet and withdrew from it a piece of paper. “You’ve been sent a letter,” he said.
+
+“I told you, I don’t want his letters.”
+
+The mayor spoke quickly. “I know. This isn’t from him, it’s from Glenallen Teladine, Chief Commander of the Royal Army.” He cleared his throat nervously. “Mother Superior Willow Vytal, I regret to inform you of the death—“
+
+“Enough.”
+
+“There’s news of a terrible battle on the coast, some port was taken…”
+
+“I said that’s enough!” Willow rose to the strident timbre used for sermons that the filled the great sanctuary. “Do not ever send for me again, mayor.”
+
+Piety was stunned. Not because Willow had so rudely dismissed the mayor, but because of the name: Willow Vytal. And someone close to her had died during a battle for a port. Perhaps it would have been obvious to someone else, but Piety had never suspected the Mother Superior was related to Father Vytal.
+
+Piety blinked, Willow’s memory faded; she blinked again and a new memory coalesced around her. She stood in the chambers of the Mother Superior now and couldn’t help but shiver. Willow leaned upon her desk on straight arms and glowered at the mayor who huddled in his coat and held his hat in his hands.
+
+“Get out!”
+
+“But Willow, please, there are rumors of vhamps, people have been disappearing from their homes.”
+
+Willow strode around the desk and the mayor backed up to the door. He hit it with a thump.
+
+“You disrespect me, mayor.”
+
+“I’m only asking for help. You’re a cleric. Clerics are supposed to have power over the undead. Protect us, please!” The mayor’s voice was high and shaky, his bald pate shone with nervous sweat.
+
+Willow smiled her nasty smile. “The righteous are always protected.”
+
+The mayor’s jaw fell. “Righteous? Mr. and Mrs. Sonnborn were honest, pious folk. And Jenny Leavenworth was a kind spinster who spent all her day at the loom. What of Corley Jonson? He was five years old, Willow.”
+
+Willow hit him, slapped him hard on the cheek. “Out,” she demanded. A pink handprint rose on the mayor’s cheek.
+
+They mayor swallowed. “I’m still mayor here, representative of the citizens and endorsed by Magistrate Wardenburg of Wardenburg County.”
+
+Willow’s smile widened. “So the Magistrate is interfering in church business?”
+
+The mayor’s face crumbled. “Church… No, I…”
+
+“I shall have to write a letter to High Cleric Radden.”
+
+“You… you know the High Cleric?”
+
+“My foolish father was on the church council, as you’re so fond of reminding me. They were friends.”
+
+“But, Mother…”
+
+“Out, mayor, or I shall treat you like an unruly orphan.” She stroked the rod tucked into her belt.
+
+Piety blinked.
+
+Willow stood naked before a full-length mirror. Piety was shocked and looked away. Since working as a healer at Pinefort, Piety had seen countless bodies. Before that, she had assisted in birth and healing under Father Vytal’s tutelage, and she and Temperance had dressed and undressed in front of each other all the time. The human form was no mystery to her. However, to see the Mother Superior, who preached against vanity and lasciviousness, staring at her own nude reflection, was a shock.
+
+The window was open, and a fire danced on the hearth. Eddies of warm and cool air circled the room. Willow was alone so she must have sent the attending acolytes to bed.
+
+Piety saw the man at the window before Willow did. She recognized him as one of the two vhamps who had killed Sister Sheliah. He was dressed as Piety had last seen him; black leather and white silk.
+
+The vhamp spoke conversationally. “You’re too ripe for his tastes, but blood is blood.”
+
+The vhamp was upon Willow before she had time to scream. One arm wrapped around her waist, pinned her arms to her side, the other pinning her arm at the shoulder and covering her mouth.
+
+“Don’t scream, cleric, or I’ll kill you now. Stay quiet and you’ll get to live a bit longer.”
+
+Piety reached for her power to kill the vhamp but remembered this was only a memory, that in reality this vhamp was dead.
+
+The vhamp took a breath though his teeth. “I just… I just want a taste before I take you to him,” he whispered. He put his face next to Willow’s neck and breathed deeply. He smiled, showing off elongated fangs. In his bliss, he relaxed his grip enough that Willow was able to speak around his hand.
+
+“I can help you,” she said.
+
+The vhamp laughed. “Not likely.”
+
+“I can get your master blood, blood less… ripe.“
+
+The vhamp pulled her close and squeezed a little tighter, moved the hand on her waist slowly to her thigh, the hand on her mouth to her neck. “No one is my master.”
+
+“Then why fetch me for someone else?” Willow’s voice, still breathy with fear, sounded a trifle confidant. “Why not just eat me now?”
+
+The vhamp growled and squeezed her tighter. His fingernails dug into her thigh. “We can walk into any house here and take any human we want from this town. He doesn’t need your help.”
+
+“Yes, he does. Magistrate Wardenburg has sent soldiers. They killed two of you last night and no one disappeared. The High Cleric is sending a Sword of the Church, a man trained to kill creatures like you.”
+
+“And what can you do for my master?”
+
+“I can send the Sword of the Church away or lure him into a trap so you can kill him.”
+
+“And blood? Whose blood will you offer in your place?” He flicked a finger across her neck and a red welt raised but did not bleed. He put his face next to her neck again. “You smell so good, cleric.”
+
+“Orphans,” she gasped. “No one will miss them. I’ll forbid anyone from speaking about it.”
+
+Several moments of labored breathing filled the room before the vhamp eased his grip, leaving bruising finger marks on Willow’s thigh, and stepped back. “Hmm, interesting.”
+
+“You could come here,” Willow continued. “I’ll have an orphan here waiting for you, you can take her quietly. There will be no soldiers to contend with.” She was breathing hard and shivering. She didn’t turn to look at the vhamp.
+
+“Fetch me an orphan then. But I warn you, cleric, you are too ripe for my master’s tastes, not for mine. This had best not be a ruse.”
+
+Piety blinked.
+
+Willow held Faith by the arm. Faith was taller than Piety remembered and resembled a woman more than a girl. Her dark brown curls bounced where they weren’t plastered to her face, wet with fear.
+
+“Mother, I haven’t done anything, please, I’m sorry, please.” Faith pled, tears streaming down her face.
+
+The vhamp smiled. “She’ll do.”
+
+Faith tore her pleading eyes from Willow, and saw the pale, well dressed figure of a man with prominent fangs in an arrogant smile.
+
+“No! Mother, I’m sorry, I’m sorry—“
+
+But the vhamp grabbed Faith in a movement too quick to see and leapt out the window. Faith’s screams quickly faded to silence.
+
+Piety blinked; memory shifted.
+
+The vhamp lounged in a chair, facing Willow across her desk.
+
+“You’ve done well, cleric. The girls you provided have boosted my master’s vitality.
+
+Willow swallowed hard and nodded quickly.
+
+The vhamp laughed. “Is that a bit of remorse I detect, cleric? Do you feel guilty for offering up your wards to the great evil undead?” He laughed again.
+
+“You’re here early,” Willow said, though what would have been a chastisement to anyone else, delivered with sharp, clipped words, sounded breathy when said to the vhamp.
+
+“Indeed. Tonight is special. Tonight, my master wants to meet you.”
+
+Willow gasped and swooned in her seat. The memory faded and wavered around Piety, and she felt nauseous. But Willow put her hands on her desk, took a deep breath, and everything settled.
+
+“Meet me?”
+
+The vhamp looked away from Willow, at the wall, as though seeing through to a place far away. “He’s on his way,” the vhamp said, and his voice held the same far away quality.
+
+“I see,” said Willow. “All right then.”
+
+But the vhamp cocked his head as though listening to something much closer then glared at Willow. “You’ve set me up,” he growled.
+
+Willow blanched. “No,” she managed before the door to her office banged open and the mayor came striding through. Willow stood, outrage and fury wrapping around her like a favorite cloak.
+
+“I told you not to come back here,” she shouted, while at the same time, the mayor waved a folded piece of paper above his head and shouted “What is the meaning of this?” For several minutes, the room was filled with shouting, neither listening to the other. Willow came around her desk to stand barely a breath’s distance from the mayor and each shouted into the others’ face.
+
+The vhamp seemed to have disappeared, but with close inspection, Piety could see him in the far corner. His form was blurry, indistinct, as though Willow was uncertain in her memory where the vhamp had hidden.
+
+Two soldiers came into the room wearing the green and white livery of Magistrate Wardenburg. They stood behind the mayor and looked at Willow. Willow’s tirade trailed off but her mask of determined fury remained.
+
+“This letter,” the mayor fluttered it above his head again, “this letter states that you, Willow, have been removed from your post as Mother Superior of Sacred Heart Church for gross abuse of authority. Two years ago! It says you were removed and that you were supposed to have reported to the High Temple, which, clearly, you have not. A missive was sent to your office detailing your removal. I suppose that was just another letter you failed to open?”
+
+“Do not presume to lecture me, you foul, bureaucratic, stuffy little man. This is my church, I make the rules here, not you.”
+
+But the mayor didn’t wait for her to finish before talking over her. “Willow, no, this isn’t your church. You’re in violation of the law! The magistrate’s men are here to arrest you.”
+
+Willow looked at the guards each in turn but her glare had no effect on them. “Arrest me? You wouldn’t dare, mayor.”
+
+“They’ll be transferring you to the charge of the High Temple,” the mayor said.
+
+Willow looked down, cleared her throat, and looked up. “And what of the Swords of the Church?” she asked. “Would it not be more appropriate for them to arrest me?”
+
+“They’re here on other business. Business you refused to help me with.”
+
+“So, they’re here?”
+
+“My wife just served them dinner in the inn’s common room.”
+
+Willow swallowed, her breath coming faster. She flickered her glance to the corner of the room. “Kill them,” she whispered, “Kill them now.”
+
+The vhamp struck in a flurry of claws and blood, screeching metal and groaning men.
+
+Piety blinked.
+
+The floor of Willow’s chambers was covered in blood, bodies, and viscera, but the vhamp in the black leather and white silk only just now stepped from the corner of the room. Piety noted the carefully neutral cast to his features. Willow stood splattered in blood and breathing hard. Before her stood a tall man, impossibly muscled, clad in loose silk pants and nothing else. His chestnut hair was pulled back from his square-jawed face. Only a massive, ragged scar upon his left breast marred his perfection.
+
+Piety remembered half-forgotten words whispered to her upon a dark cloud carrying her to safety. She remembered that voice, the voice of Devorah Kempenny, telling her they had failed, that the fiend they hunted together, Frederick Vahramp, had been stronger than expected, and that he would return.
+
+She felt a thrill of fear.
+
+Willow had to try three times to speak past her frantic breathing and fear-stuck throat. “Master. The Swords… they’re here, at the inn.”
+
+Vahramp nodded once. “I heard. Fear not, pet, I shall slay them for you.”
+
+The vhamp bowed. “Master.” His voice was hesitant, uncertain. “You look well. I hadn’t realized you were so close to full recovery.”
+
+Vahramp smirked. “Do not think I was unaware of your scheming, Jace. But it’s no matter, my pet’s offerings were fulfilling in so many ways.”
+
+The memory blinked and fuzzed and scattered.
+
+She knew what happened next though; Willow had heard the news in the following days. Vahramp had blown into the inn and slaughtered the champions of the church before they could stand. People had screamed. Sheliah had been at the table with them and seen it happen, but Vahramp had fled afterward, not harming anyone else. The disappearances had continued, a search for the missing mayor had been undertaken, further help was requested, and people began to flee the town.
+
+With a breath, Piety stood once again on the dais of the sanctuary of Sacred Heart Church. The memories of Willow Vytal dissipated. The evening sun still bathed her and Willow in scarlet and golden light. Willow still knelt beneath her hand. No time had passed.
+
+Piety knelt to face Willow who cried silently, eyes closed, mouth slack. “You made a deal with a creature of evil. I’ve seen accidents of nature and horrors of war and that man is worse than all of them. You fed him the people you were charged to protect.”
+
+“You have no right to accuse me,” Willow whispered.
+
+“Yes. I have.”
+
+Piety tapped Willow gently with her telepathy and put her into a deep sleep from which she would not wake until either Piety woke her or she came to acknowledge and repent her wrong doings. It was a complicated bit of telepathic work, but Piety did it instinctively. Willow slumped to the floor and lay still.
+
+With a breath, a sigh, and a faint grunt, Piety stood and faced the congregation. In a carrying voice, she said, “By decree of the Council of the Church of Khulanty, Willow has been removed as Mother Superior. This requires the selection of a new Mother Superior.” There were several gasps and a sudden flurry of chatter that came and went like a wave on the beach.
+
+Piety let it pass then continued. “Sister Lucille Clarice, the healer, had been assigned to take Willow’s place, but Willow kept this information secret and quickly dismissed Sister Lucille.” As she spoke, she stretched her telekinesis to Willow’s neck, and gently pulled free the sunburst pendant made of gold and rubies.
+
+“As Mothers of the Church, Temperance and I are the only members of sufficient rank present to take the position.”
+
+Piety sought out Temperance and looked at her. To anyone else observing she was just looking out over the crowd, but Piety knew Temperance would see the question in her eyes. Temperance shook her head quickly.
+
+The sunburst floated into Piety’s grasp. “But we cannot remain.”
+
+She sent her telepathic senses among the thoughts of all present, searching. Before her stood Tobias and Temperance. Temperance was crying but also smiling. Her thoughts were all about Piety: pride, fear, and a hesitant happiness. Tobias only felt satisfied and alert. Most of the sisters and acolytes were concerned for their own continued well-being after the sudden collapse of the Mother; she had protected them from the vhamps after all. Several were delighted with the collapse of the Mother, the cruel woman who had done cruel things.
+
+There was one mind, though, who had what Piety was looking for: compassion. This woman felt pity for those who disappeared at the hands of the vhamps, for those locked outside the church and the Mother’s protection. She had winced in sympathy when the Mother struck Piety with the rod and felt bad for the Mother now. She was a kind and gentle person who, though she resented the Mother for the beatings, still didn’t want to see the Mother, or anyone else, in pain. She didn’t want revenge, which was more than Piety could say for herself.
+
+Piety spoke, and her voice carried through the sanctuary. “Lillyfield.”
+
+From the sea of grey dresses and brown hair, one orphan stood slowly, hesitantly.
+
+“Come here, please,” Piety said.
+
+Lillyfield walked slowly down the aisle. Piety felt her sudden anxiety at being singled out, and she smiled in an attempt to calm the other girl’s fear. Lillyfield had changed since Piety had left; she was taller and rounder, though not plump, as no girl could become plump on orphan’s meals at Sacred Heart. In the other girl’s thoughts, though, Piety sensed a maturity that tempered her compassion, an awareness that tempered her dreaminess.
+
+Lillyfield achieved the dais, folded her hands at her waist, and bowed deeply. “Mother,” she whispered.
+
+Piety bowed in return and felt surprise ripple through the crowd. “Lillyfield.”
+
+“Mother,” Lillyfield whispered, “We were awful. I’m sorry.”
+
+“I know you are. Of all the minds here, yours is the most kind. It’s why I’ve chosen you.” She held the sunburst out to Lillyfield.
+
+Lillyfield’s eyes went wide. “Chosen me for what?” Her voice went high and squeaky.
+
+Piety sensed the other girl knew the answer but could not bring herself to believe it.
+
+“You know what.”
+
+“But, I’m just an orphan.”
+
+“You are compassionate and kind. That is what this church has been missing.” She held out the sunburst again, but this time she was interrupted.
+
+“Now wait just a moment. I’m the mother’s second. If anyone is to succeed her, it should be me.”
+
+The indignant voice sounded familiar to Piety, but when she turned around she didn’t recognize the sister. She was the youngest sister on the dais though not as young as Piety. She wore a dress of soft gold with white embroidery finer than anything any other sister wore. Her fists rested on her hips and her soft face was scrunched into a frown.
+
+“You may have impressed everyone else with your white robes and your royal bodyguard,” she looked around at the other sisters on the dais and nodded, assuming their support, “but you’re not fooling anyone. We all know who you are. Your white hair is unmistakable, Sweep.” She smiled with satisfaction as though having made her point and won the debate.
+
+Piety shook her head, a little confused, a little amused, and a little irritated. “I just went through this nonsense with Willow. Weren’t you paying attention?”
+
+“Don’t talk to me that way, orphan. I have experience taking my hand to the wayward. Shall I take my hand to you?”
+
+And Piety recognized her. “Lana Weaver.”
+
+“That’s Sister Lana Weaver to you, Sweep, and I demand you name me the next Mother Superior, not that motherless child.”
+
+Piety just barely kept herself from laughing. “Lana, you cannot question my authority and exploit it in the next breath. You’re contradicting yourself.”
+
+Lana began to protest but Piety had had enough.
+
+“Lana, you’re mean. You’re manipulative and selfish and callous. I know your mind. I can read it without trying. I see your memories. You’ve abused your authority, beaten those in your power on a whim. I’m not going to allow you to be the Mother Superior. In fact, I’m going to petition the church council to expel you. Now, sit down.”
+
+“But it’s mine.” Lana stamped her foot. “I deserve it and I demand it.”
+
+Piety couldn’t restrain her laughter this time. Her laughter released the tension of the room and a ripple of laughter echoed off the walls.
+
+Flushed and pouting, Lana sat.
+
+Piety looked at the other sisters on the dais and then out at the gathered. “Are there any other objections?”
+
+No one replied.
+
+“Kneel, Lillyfield.”
+
+The girl knelt. Piety released the sunburst and set it around Lillyfield’s neck with careful telekinesis. She bent and touched the girl lightly at the left temple. Instinctively, a small surge of power leapt from her fingers to the hair, and where it touched, Lillyfield’s hair turned white as Piety’s own, giving Lillyfield a wide band of white among the brown.
+
+“Rise, Lillyfield Morning, Mother Superior of Sacred Heart Church.”

@@ -1,0 +1,121 @@
+---
+id: 26f1cef6-81d4-5228-add0-15e352fb93c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 126: One Last Surprise"
+slug: 0167-chapter-126-one-last-surprise
+partOf: labyrinth-of-the-mad-god
+position: 167
+ownLength: 2647
+unit: words
+publishedAt: 2025-05-07
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2262937/chapter-126-one-last-surprise"
+royalRoadId: "2262937"
+---
+
+Two days later, when there were only a few hours left on the safe room’s clock, it finally happened.
+
+As Nick was stepping out of the shower while toweling himself dry, the last sliver of the Species-Experience Pill absorbed into his core. Shivers ran down his spine as his body began tingling from head to toe. He felt hot, then cold, then both at the same time.
+
+These physical phenomena were accompanied by an exquisite sense of anticipation. Of a catalytic transformation only heartbeats away from reaching critical mass. He grew even more excited when a message from the System appeared.
+
+Congratulations. You have met the requirements for species evolution.
+
+Your personal contribution has allowed you to evolve ahead of your species, which has acquired 69% of the experience required for general evolution at this time.
+
+Awesome. It’s great that everyone else is getting close too. Nick had just enough time to slip into bed before a torrent of living lightning began racing along every inch of his body, permeating each cell, every fiber of his being.
+
+Devin must have started feeling it a few seconds earlier, because he had sat down on the floor, closed his eyes, and entered a trance—power coursing along his profile in resplendent mantle of might. Judging from the transcendent smile on his face, the man was enjoying every second of the process.
+
+Some of the changes that Nick had undergone since the System entered his life had been pleasant. Others had been excruciating ordeals that threatened to shatter his sanity beneath their intensity. If Devin’s expression was any indication, this was one of the good ones, and Nick was looking forward to what happened next.
+
+For the next ten minutes, everything went well. He was riding a high that was one part pleasurable experience and one part thrill of anticipation. He could feel everything lining up—the coruscating energy reaching a stable configuration before triggering the next stage of the evolutionary process. His smile grew wider with every beat of his heart, as he came closer and closer to advancing to a new state of being.
+
+Just as the transformative power buzzing within him hit critical mass, another message from the System appeared. At which point, matters took a dramatic turn for the worse.
+
+Warning: Two distinct intelligences have been detected within this geneline.
+
+Both have a valid claim to this body, and neither is dominant at this time.
+
+One belongs to Nicholas Henry (Human of Earth, E) and the other belongs to a controlling core of the Crimson Blight (Calamity-Class Parasite, E).
+
+There is only enough species experience to evolve one entity. The other will be subsumed and used as fuel for this process.
+
+“What the fuck?” Nick yelled. “How could there possibly be a controlling core living inside me? You healed me back in the Sewers of Kastilla. The blight’s core was ejected from my chest, and I ground it to paste beneath my boot.”
+
+He had been worried that the blight’s brief residence in his body had altered his DNA. But never in his wildest nightmares had he imagined that the core was still inside him. That it had merged with his geneline and continued taking over his body.
+
+To his surprise, on this occasion, the System chose to answer Nick directly.
+
+While it was merged with your consciousness, the controlling core learned the details of your quest. It knew that a full restoration would kill it if it was still inside your body. 7 seconds prior to System healing, it emerged on its own and left a decoy behind, which you destroyed.
+
+The core altered its cellular structure, wove itself into the lining of your jacket, and entered a deep state of stasis. Since it was not technically alive at that moment and had bound itself to an item, it counted as part of your inventory and was eligible for teleportation when you left the dungeon.
+
+Once you were back on the Searing Isle, the core revived and invaded your body, altering your geneline while preparing to consume your consciousness. However, the influence of the artifact Blightbane delayed the process. At its current rate of progression, the controlling core would have fully matured and taken over in approximately 51 days, then infected everyone nearby and spread throughout your species like wildfire.
+
+“Well.” Nick rubbed his temples as he absorbed the meaning of those words. “Shit.”
+
+He had known that the Crimson Blight was intelligent and capable of global domination. But he’d had no idea that it was smart enough to game the System, enact complex deceptions, and plan for the long-term. He realized in that moment just how lucky he was to have found those pills.
+
+He was still completely fucking terrified. But it sounded like whatever was about to happen had saved Nick from a fate worse than death—if he managed to survive it. It almost felt like the System was helping him, providing context for what was happening and some hints on how to come out on top. Its next message only strengthened that impression.
+
+Since there are two entities eligible for species evolution, an emergency event has been sanctioned.
+
+The winner will be granted ownership of the body presently controlled by Nicholas Henry and the loser will be absorbed as genetic material to fuel the winner’s evolution.
+
+Prepare yourself, Nick. The contest begins now.
+
+As he read the last word, Nick felt something hidden within the depths of his consciousness rise to the surface, as transformative energy ran rampant throughout every speck of his being. Something alien, ancient, and eager to devour him whole. He didn’t know how he was supposed to fight for the right to claim his own body, but he wasn’t going down without struggling with everything that he had.
+
+While the System’s warning had given him a moment to steel his resolve, nothing he had read prepared him for what happened next. Without warning, his awareness was drawn into the parasite living within him—the entity known as the Crimson Blight.
+
+Their essence. Their mana. Their very minds and souls began to blend during this contest to see which entity would advance to the next stage of evolution, and which would die here and now. A contest that would spell the doom of his species if Nick lost, along with every living creature that called the Earth home.
+
+In the heart of that terrible moment, he was assailed by a riot of thoughts and sensations. He had just enough time to realize that he was experiencing the Crimson Blight’s memories, before he was drawn in completely and there was nothing left but the vision.
+
+***
+
+Nick found himself soaring through space, sailing across the void between the stars.
+
+Around him were thick walls of metal and stone, shielding him from the powerful forces flowing through the gulf between worlds. His core was lodged inside a meteor, which had been seeded by his progenitor millennia ago and then cast into the darkness to forge his own path. His awareness was dormant most of the time as centuries ticked by, conserving energy for when the moment arrived to carve his own path to power.
+
+At some point during this lengthy cosmic voyage, something subtle shifted. He awoke after sensing a dense concentration of energy in the distance. It was a world teeming with life, just waiting to be devoured and added to his collective. The planet was still far away, but observing the radiant lifeforce filled him with a primal hunger—a need to feed, infest, and bend the circle of life to his will.
+
+There was a gentle pull as the planet’s gravity tugged on his rock, altering its trajectory by a fraction of a degree. Then Nick sailed on by and went back to sleep, only to awaken again as he passed by the same world a few hundred years later. He eventually grasped that he had been caught within the star’s gravity well and was orbiting the solar system. Over the course of countless years, his path was bent each time he sailed past the planet, until his meteor drew near its exosphere.
+
+Some deep-seated instinct him told him that it was almost time. That within another hundred revolutions, his transport would come crashing to the surface, and the next phase of his existence would begin.
+
+Whenever he was close enough to perceive it, Nick woke up and inspected the world that he would soon try to conquer, learning everything he could about the place where his legacy would be either forged or crumble to dust.
+
+It was a rich blue planet—oceans burgeoning with life that had evolved to a satisfactory level of complexity. They would be fitting hosts for his will—carriers of his genetic code and warriors in his mission to spread himself across the multiverse. He was only a Grade-F core seed now. But with the resources that were almost within reach, he could evolve and grow strong, then take his conquest to other worlds and planes of existence.
+
+The glowing blue ball was vibrant against the abyssal blackness of space. Alive, thriving, and oh so appetizing. Nick couldn’t wait to feast upon the myriad species living below. He would have landed there eventually, but the lure of prey so close at hand was irresistible. He used some of his precious magical energy to shift his orbit, until his rock rode low enough to kiss the atmosphere in passing, hastening the conclusion of his journey.
+
+Decades ticked by as his rock circled the world in an increasingly-tightening spiral, brushing against the atmosphere with every pass. Each touch slowed his speed by a hair, causing the next orbit to come just a little lower than the last, dragging against air that was a fraction thicker than before. Eventually, the process arrived at a critical junction, where each dip reached a point where the air was dense.
+
+His ride began to burn with the friction of tearing through the sky. Only the protections his progenitor had woven into his meteor allowed him to survive. The intense airbrake sapped his transport’s kinetic energy exponentially faster than before. Within a few more orbits, Nick was caught within the planet’s pull—no longer able to escape its gravity well. He circled the world—rock growing slower as he dipped lower, vaporizing more of its surface with every revolution.
+
+Around that time, he realized that he might have a problem. In his greed to reach the banquet below, he had hastened his landing to the point where atmospheric entry might kill him instead of depositing the shielded core of the meteor onto the surface. But by this point, there was no turning back. He was going to strike the planet on the next pass. It was time use all the mana he had left to erect a shield to help withstand the heat.
+
+The air screamed with his passage. Pieces of burning rock broke away, streaking across the sky. His ride shook violently as it entered low orbit, plummeting toward the surface as Nick’s universe was consumed by ravenous flame. Minutes before the heat burned him to ash, the meteor plunged into the ocean. The impact released an incredible cloud of steam and formed tsunamis that would end the lives of dozens of species.
+
+Compared to everything that had come before, all this took place in the blink of an eye. Just a tiny blip on the glacial scale of the cosmos. As he entered the great web of life spanning the globe, the heat faded away, providing blessed relief to the singed core residing inside the rock. There was a brief sensation of sinking before his ride settled onto the ocean floor, plunging deep into the mud before resting against the bedrock below.
+
+Only a fraction of his biomass was still intact, and his energetic system was running on fumes. Nick was wounded and weary, an F-grade entity that was laughably weak compared to the monsters that dwelt within these depths—each containing vast reserves of mana and essence. Any of them could end his existence the moment they became aware of it, and would do so instinctively, since he represented a threat to all life on the planet.
+
+But he came from a proud strain of the Crimson Blight. A majestic AA-grade entity that spanned an entire galaxy, spreading its seeds across the multiverse. He might be weak, but he was armed with the knowledge handed down by his progenitor—strategies and tactics on how to achieve global domination, even from a modest beginning. Starting with the crucial step of infecting his first host and reshaping its body.
+
+Nick made his way to the exterior of his rock, then poked a thin tendril of mycelium through the surface to survey his surroundings. He only had enough energy to invade a single creature, and he needed to make it count. One poor decision or a bit of bad luck would spell his doom, making his millennia of effort come to naught. Before he wagered his existence on that gambit, he needed to regain some of the strength he had lost during his fiery arrival on this world.
+
+Even deep in the mud at the bottom of the sea, there was plenty of life to be found. Bacteria and tiny organisms living in the muck. Creatures that were too insignificant to serve as hosts but were more than sufficient for his first meal in eons.
+
+He began with the least of them, setting traps with loops of mycelium infused with minuscule slivers of mana, which looked like food to the microscopic life forms. When they came to feast, they were devoured instead, becoming sustenance for the controlling core living inside the mud-shrouded rock. How many months it took to grow just a little bit stronger, Nick would never know. Months turned into years, and decades passed before he was ready to seek out stronger prey.
+
+But at long last, the fortuitous day arrived. He was finally strong enough to invade a complex creature and transfer his consciousness into its brain. It would become the prime progenitor—the initial host for the Crimson Blight on this world. With any luck, only the first of billions to come.
+
+This time, instead of setting traps to dissolve his prey and consume it whole, Nick released tiny balls of blight into the muck around his rock, disguised as delicious food that was rich in mana and essence. Most were eaten by creatures powerful enough to resist his intrusion. The resources were lost as the animals devoured the offering and continued on their way, never knowing how close they had come to losing control over their bodies and minds. But eventually, a slender silver fish—a bottom feeder resting on the lowest rung of the food chain—appeared.
+
+The fish came across his lure and took a tiny nibble… before enthusiastically swallowing the entire spore-studded bite. When the mycelium entered its stomach, it began to spread, granting him a detailed image of the creature he’d infected. It was far from ideal, but it would have to do. At least Nick had found a host that was capable of independent motion.
+
+Now that it had absorbed his flesh, he could use his influence to keep the fish in the area. He waited patiently as the spores inside it blossomed, watching as they engulfed the creature’s nerves and worked their way into its brain, granting him remote control over its motor function.
+
+When the process was complete, he ordered the fish to rest against his rock and then made the leap, passing through water before diving into living tissue. Once his core was lodged inside the fish, he deepened their connection, transforming the creature from a thrall into a host by overriding its mind until its body became his own. This marked the beginning of his invasion of this world.

@@ -1,0 +1,121 @@
+---
+id: 34acfe1b-84d0-5ce8-a354-f467834325ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10"
+slug: 0011-chapter-10
+partOf: light-cleric
+position: 11
+ownLength: 1715
+unit: words
+publishedAt: 2021-04-17
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/666286/chapter-10"
+royalRoadId: "666286"
+---
+
+Kinswell was larger than either Sweep or Temperance had anticipated. The main streets were wide enough for four or five wagons abreast, buildings soared into the sky like they might reach out and touch it, and people filled every available space. The people were all loud and all talking at once. Merchants shouted their wares; customers haggled prices; friends talked about the recent happenings of their lives. Father Vytal had to divert course to winding side streets due to a construction project that had torn up the main thoroughfare. It would have been impossible to get through the press of people with any sort of expediency had they not been atop horses.
+
+The High Temple stood across an expansive public square from the Royal Palace. The public square was paved with multicolored stones creating a variety of scenes: ships at sea, glowing forge fires, fields of crops. In the center of the square was a well, the well at which First Royal Dalton Loreamer had convened his first council with the heads of family who would become the governors of the provinces of Khulanty, the same well by which Kinswell took its name.
+
+A pair of stable boys, clad in red tunics edged in gold, collected their horses at the foot of the great steps that lead to the colonnaded portico of the High Temple. They took the horses and Steady to a gate in the wall of the complex. Father Vytal unloaded his packs from his horse, despite the protests of the stable boys. Sweep and Temperance followed his example.
+
+The cleric led them up the steps and through the great entrance, doors three times as tall as Father Vytal, into the receiving hall, a vault-ceilinged room with stained glass windows and marble tiled floors polished to a shine. There were men and women dressed in civilian garb sitting on cushioned benches at the walls of the hall, talking in quiet voices. Red-robed clerics made their way between the groups to confer with them. They walked through this hallway, past a pair of guards who saluted Father Vytal, and up a set of stairs. After a long climb and several more hallways, they came to a small office that housed a large wooden door flanked by another pair of guards. A young woman sat at a neat desk, and she stood when the three of them entered. She bowed to Father Vytal.
+
+“Father,” she said respectfully.
+
+“Is he free?” asked Father Vytal.
+
+“Just a moment, sir,” she replied. She knocked thrice on the door and opened it, putting her head through the opening. “Sir, Father Vytal is here to see you.”
+
+There came a muffled response. The secretary opened the door wider and gestured for Father Vytal to enter. Sweep and Temperance followed him, Sweep meeting the woman’s curious gaze, but Temperance keeping her eyes down.
+
+The private office was paneled in dark wood; beige and grey rugs carpeted the floor. A large, clear, circular window dominated the far wall. Before the window was a heavy desk covered in neat stacks of papers, ordered bottles of ink, and other items Sweep had no words for. A pair of couches and a few assorted chairs faced each other around a low table at the front of the room; a small common area in a place where serious business was done.
+
+The man who sat on the edge of the desk smiled at them as they came in. He came forward, hand extended to Father Vytal, and they shook hands like old friends. He was taller than Father Vytal, his skin was dark and his head was completely bald. He wore simple clothes, cotton dyed in muted ivory and brown, cinched with a wide, brown leather belt. A golden sunburst rested upon his chest, held by a thin leather cord.
+
+Father Vytal turned to them. “Girls, this is Marcus Radden, the High Cleric, and my good friend. Marcus, may I present to you Piety Churchstep, and Temperance Sunday.”
+
+“Indeed,” said the High Cleric. He smiled at them brightly.
+
+Sweep and Temperance automatically folded their hands at their waists and bowed their heads. This man, no matter how familiar with Father Vytal, was the High Cleric, the leader of the Church of Khulanty. He was the man in charge of all other fathers, mothers, sisters, brothers, and acolytes in service to the church. Father Vytal claimed the man as a friend, he was allowed to be friendly with him, but to two orphan girls raised at Sacred Heart Church, this was a man to be respected and deferred to.
+
+Only God was higher.
+
+“It is a pleasure to meet you at last,” said the High Cleric. “Tristam has written me several letters, keeping me abreast of your adventures across Khulanty and of the considerable talents you both possess.”
+
+Sweep didn’t move and neither did Temperance. Sweep wondered what Father Vytal meant by bringing them to see the High Cleric, but she simply couldn’t think of anything such a man could want with them.
+
+Father Vytal knelt before them so that, even with heads bowed, they could see his face. His forehead was furrowed, his eyes sad, his mouth uncertain, as though he didn’t want to say whatever came next.
+
+“Girls, I had hoped our journey to Kinswell would be far more circuitous. But now, I have work to do, and I cannot take you with me.”
+
+Sweep nodded while keeping her head bowed. She sought Temperance’s hand and they held tightly.
+
+“Why don’t we all sit down?” suggested the High Cleric. He took one of the comfortably upholstered chairs. Father Vytal sat on one of the couches.
+
+Sweep and Temperance didn’t move.
+
+“Girls, really, it’s all right,” Father Vytal assured them. “Have a seat and we can talk about this.”
+
+“He’s leaving us here,” Temperance said into Sweep’s mind.
+
+“We knew that was the plan,” Sweep replied.
+
+“I didn’t expect it to feel like this.”
+
+“Like he’s abandoning us.”
+
+Piety raised her head and looked at Father Vytal. His soft, shoulder-length, grey hair reminded her, not for the first time, of the halos of light surrounding the heads of the Eight Saints in art and description. His likewise grey beard was well-trimmed and gave him the paternal air of a grandfather. His golden-brown eyes shone under thick brows and a heavy gaze. He looked sad.
+
+Father Vytal steepled his hands, touching the tips of his index fingers to his lips. He took a breath to say something but seemed to change his mind. He looked down, then at the High Cleric and then back at them. Sweep had never seen him so agitated. Even trapped in a room facing a horde of undead, Father Vytal had been more confident than he was now.
+
+Sweep decided the silence had gone on long enough.
+
+“You have to go. It’s all right. This was the plan all along. You were bringing us here. And now you have work to do, and we would be in the way. Taking care of a pair of orphans cannot be your top priority.”
+
+“But it should be,” said Father Vytal. “There should be no greater priority than teaching and caring for our children. But it will be dangerous. Taking you to Sunslance with me was selfish. I’m sorry.”
+
+“I don’t want him to leave,” Temperance whispered into Sweep’s mind. “I don’t want to stay here without him.”
+
+“Look at his face,” said Sweep.
+
+After another moment, Temperance said, “He doesn’t want this either.”
+
+Sweep squeezed Temperance’s hand.
+
+“There’s war coming,” Sweep said. “General Vahramp is still out there. The church needs you. You’ve already done so much for us. You took us away from that place. We can’t ask any more from you.”
+
+Father Vytal looked away, unable to meet her gaze.
+
+“Piety’s right,” Temperance said. “We can take care of ourselves. We’re not more important than the council or the country.”
+
+“What I have to do is going to be dangerous,” Father Vytal repeated, talking as though he were trying to convince them.
+
+“And we’ve had more than enough danger,” Temperance agreed.
+
+Father Vytal looked at them, his eyes shining, his bearded-jaw clenched. After several deep breaths, he said, “Well, you’re both taking this far better than I am.”
+
+Sweep took a step toward him and Temperance followed her lead, still hand in hand. Father Vytal stood from the couch and embraced them.
+
+“I wanted to search for the Purple-eyed Prophet with you. I wanted to show you the cliffs of Ceres Bay, to examine the pale blue flower that only grows on the mountains of Western Artio. We weren’t done.”
+
+Sweep laughed. “Ceres Bay and Western Artio aren’t on the way from Sacred Heart to Kinswell.”
+
+Father Vytal looked at them, still holding them tight, tears making their way down his cheeks to hide in his beard. “That’s why it would have been a circuitous route.”
+
+Sweep leaned her head against Father Vytal’s chest as she felt her own tears rising. Father Vytal kissed the top of her head, then Temperance’s, and squeezed them closer. For several minutes they didn’t move.
+
+The High Cleric cleared his throat delicately, and Sweep felt a flash of anger that he’d interrupt them, that he’d be so eager to send Father Vytal away, but the High Cleric’s expression was mildly pained. He held a folio.
+
+“Lest we forget, Tristam, you wish to sponsor them, yes?”
+
+Father Vytal nodded. He released the girls and sat back on the couch, taking the folio and opening it.
+
+“Girls, here at the High Temple, you will be safe, you will be educated, and, eventually, you will be offered a position within the church. Here you’ll be provided the opportunity to serve others as you should have been served.” He took up a quill the High Cleric set on the table, dipped it in the accompanying inkpot and signed his name.
+
+“My signature tells the Church of Khulanty you are worthy of such trust.”
+
+“We’ll be acolytes,” Sweep said.
+
+“Yes.”
+
+Here was an opportunity to be better than the Mother Superior of Sacred Heart Church, to prove that a Daughter of God was kind rather than cruel, inclusive rather than exclusive, helpful rather than harmful. Sweep looked at Temperance. Temperance nodded.

@@ -1,0 +1,247 @@
+---
+id: 05382bcf-b50a-5237-b09a-6ce488cc71a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14 — Introduction to the Standard Array, Pt 4"
+slug: 0014-chapter-14-introduction-to-the-standard-array-pt-4
+partOf: just-add-mana
+position: 14
+ownLength: 3244
+unit: words
+ownProgress: 3244
+publishedAt: 2025-07-31
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2481166/chapter-14-introduction-to-the-standard-array"
+royalRoadId: "2481166"
+markedReadAt: "2026-06-29T18:47:59.776Z"
+---
+
+Perhaps the most convenient thing about this whole duel thing was that it was done under the supervision of an expert mage and arbitrated by the Gift itself; had the situation been different, Cale might have been far more reticent about experimenting with magic, even if it was a spell that was largely defensive. Who knew what [Lesser Reflection] would turn into?
+
+If this was what he thought it was, though, then an evolved [Lesser Reflection] would...
+
+Well, it wouldn't solve the problem. Voidcytes weren't a problem that could be solved with magic alone. If Cale was being perfectly honest, he'd been rather relieved when those elves had summoned him here—the last universe was a bit of a lost cause, even after almost thirty years living there and studying the problem. Magic there barely worked, and without mana to keep its universal filament intact, the whole thing was unraveling.
+
+Granted, that universe had more severe problems than its voidcyte infestation. Cale frowned.
+
+Still, if some of those voidcytes had followed him here, that was worrying. It wasn't just that they could hide themselves thoroughly within even the most powerful of mages—the biggest problem with voidcytes was that their mere presence tended to attract a whole host of other, bigger dangers. Anomalies that didn't quite abide by the rules of magic, for instance. Eldritch gods that could snap reality apart with the weight of their gaze alone.
+
+His ex.
+
+Cale shuddered at the thought.
+
+Really, the idea that anything had managed to follow him through a ritual summoning implied that those elves hadn't bothered with basic summoning protections, which presented a whole host of problems on his own. Cale's barriers would normally have prevented that sort of piggybacking, but he'd had to let his own barriers down to let the summoning work in the first place. Those elves hadn't exactly been powerful.
+
+Hm.
+
+Well, he could worry about most of these things later. Voidcyte infestations weren't all that dangerous early on as long as they weren't left to fester, and he'd learned a few tricks to keep them contained in the time he'd spent in that last universe. If anything, Utelia would give him even more options when it came to containment.
+
+First things first, though: before he could contain the voidcyte, he needed to extract it, and that was where [Lesser Reflection] came into play.
+
+Or rather, its evolved spell.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Lesser Reflection] has evolved into [Auric Dominion]!
+
+He glanced at the new spell.
+
+[Auric Dominion, Level 1] [Tenth Tier (Unique), Active] [1.0e35 Mana]
+
+Take control of the flow of mana within a limited range. Overrides the mana manipulation abilities of most entities at tiers less than archmage.
+
+Cale raised an eyebrow. That was a pretty impressive spell. It had the potential to lock down mages entirely, provided he got close enough. The only real problem with it was the limited range thing—he needed to be almost next to the mage in question for it to work.
+
+So he started walking.
+
+It was only about halfway across the stage that he realized that casually walking across the stage while half a dozen Standard Array spells bounced off his barriers was probably kind of intimidating. Whiteleaf was starting to panic-cast, beads of sweat dripping down her forehead; it was causing that strange presence to begin emerging from the gaps in her magic again.
+
+He did technically need to bring it out, but this felt unnecessarily cruel. Cale decided to speed things up by turning his walk into a sprint.
+
+Whiteleaf began screaming and panic-casting even faster, which was impressive. Cale blinked and stopped in his tracks, reviewing his actions for a moment.
+
+Ah. Right.
+
+"Sprinting at you is probably worse than just walking at you, huh?" he asked rhetorically, frowning. Whiteleaf didn't deign him with a response. She was breathing heavily, her wand sparking with her magic as she forced herself to take a breather.
+
+Somewhere off to the side, Professor Graystalk snorted.
+
+"Well, I need to get close," Cale said. "So... sorry."
+
+He went back to sprinting.
+
+Whiteleaf demonstrated a truly impressive array of spells in her attempt to push him back. Cale counted among them a force spell, a wind spell, and a spell meant to make the floor beneath him slippery and difficult to walk on. Cale took advantage of the last one by simply letting himself skate along the floor, much to Whiteleaf's consternation.
+
+There were a lot of spells in the Standard Array, apparently. Even Graystalk looked begrudgingly impressed—Whiteleaf's repertoire evidently extended somewhat beyond whatever he'd covered in the syllabus. She didn't quite have the same expertise as Graystalk did, though. If she'd just thought to combine one of those force spells with the slippery floor spell, she might have been able to slow him down.
+
+As it was, Cale finally stepped close enough to bring Whiteleaf within range of his [Auric Dominion], and everything stopped.
+
+"Hm," Cale said, his brows furrowing. "I'm not sure I like this spell. It feels weird."
+
+"Care to elaborate?" Professor Graystalk called from the sidelines.
+
+"[Lesser Reflection] evolved into a spell called [Auric Dominion]," Cale explained idly. "I'm using it to freeze all the mana around us in place, but it feels a lot more awkward than traditional mana manipulation. The mana is... sticky, I guess? It's kind of gross."
+
+"I see." Graystalk paused for a beat. "And what does [Auric Dominion] do?"
+
+"It allows me to control all mana within my range as long as it isn't under the control of another archmage-tier mage or higher," Cale said. "Pretty cool effect, I guess? I don't think I'll use it again, though. Like I said, it feels gross."
+
+Whiteleaf flung a hand at him, which he caught. "What in the eight infernal realms are you talking about?" she demanded. "You can't be—a spell evolution? Does the Gift favor you that much? My spells are evolved too! You can't—let me go!"
+
+"Seven," Cale said patiently. "And I can't do that. Not for a few more seconds, at least." He did his best to look apologetic. He was sympathetic to her situation, after all. "Sorry. I need to make sure you don't have a voidcyte infestation."
+
+"What do you mean, seven?" Whiteleaf glared at him. "What's a voidcyte infestation?"
+
+"I'm glad you asked!" Cale said happily. Finally, a chance to explain things! He loved explaining things. Except the whole seven infernal realms thing. Honestly, it was like people didn't count the infernal realms anymore.
+
+"A voidcyte infestation is a little like an ether parasite," he explained, raising his voice so the whole class could listen in. "Or a mana parasite, if you prefer. It's an anomaly that burrows into your mana core and feeds on your mana. They're very subtle and almost impossible to spot, though; they're basically only visible if you get agitated enough to cause core turbulence or spend most of your mana."
+
+"What—" Whiteleaf stared at him. She was trembling a little, he noticed, and tried to wrench her wrist out of his grip, but he held firm.
+
+"Just a little longer," he said apologetically. He tried to give her as much space as he could. The situation was uncomfortable for the both of them, really. "I'm pretty sure you do have a voidcyte infestation, and we have to get it out now before it does any more damage."
+
+"You're making this up," Whiteleaf said, her breathing shallow. Professor Graystalk frowned.
+
+"Cale," he said. "Unless you are certain about this, I cannot—"
+
+"There," Cale said.
+
+Right above Whiteleaf's chest, a tiny, shadowed tendril had started to emerge, writhing about fiercely. Whiteleaf looked down and screamed. Graystalk assumed a defensive stance, pulling out his wand.
+
+"Cale," he said. "Explain."
+
+"Voidcyte," Cale said. "Like I thought. It's hard to force them out traditionally—you have to starve them of mana. I was hoping [Lesser Reflection] would give me something that could reflect its mana-absorption capabilities, but [Auric Dominion] is just as good."
+
+"Danger level?" Graystalk asked.
+
+"In this state? Low." Cale grabbed the tendril before it could thrash around too much and finally let go of Whiteleaf's wrist; she scrambled away, her eyes wide in fear as more and more of the shadowy mass spilled out from her chest.
+
+"What is that what is that what is that—" The poor elf was practically hyperventilating. A few of her classmates were beginning to look concerned.
+
+Cale raised his voice to speak to them, his voice sharp. "What are you doing? Go help her!"
+
+A few of them scrambled to her side to reassure her. Cale kept his grip on the now-thrashing voidcyte. Without an active mana core to feed on, it spilled onto the ground in a mess of shadowy ink, looking almost like an ooze variant instead of the dangerous mana anomaly that it was.
+
+"Sorry," he called to Whiteleaf again. "I wasn't sure it was voidcytes and I didn't want to scare you."
+
+And he doubted he would have been able to get her to try standing inside his [Auric Dominion] for long enough, outside the context of this duel. She was too busy vomiting to respond to him, though.
+
+Not too busy, however, to give him the finger. Cale was impressed. Somehow, she'd managed to make it look both insulting and grateful.
+
+Graystalk had begun to cautiously approach, though he kept a good distance from the still-thrashing voidcyte. Cale glanced at him and inclined his head in acknowledgement. "It's a good thing we caught this early," he said. "These things are kind of a pain in the ass if they spread too much. Plus they tend to make the host mage, uh, emotional."
+
+"From mana core fluctuation?" Graystalk asked. Cale nodded, and the professor frowned in thought. "I suppose Ms. Whiteleaf was a little worse than usual this class, but I cannot say it was significant. You were able to notice this from her outburst earlier?"
+
+"It was pretty slight," Cale agreed. "But yes. It can't have infected her for long—if this thing followed me, then it hasn't been on Utelia for more than a few hours at this point. I'm hoping there aren't any else, but we'll have to stay on the lookout... speaking of which." He raised his voice. "Can someone get some sort of mana-proof container? Blood obsidian is best, if you have it."
+
+Graystalk raised an eyebrow at him. "You don't plan to just destroy it?"
+
+"With what, a spell?" Cale shook his head. "It'd just eat the spell, and it's immune to most physical forms of damage. Maybe there's a spell that can damage it, but if there is, I haven't found it."
+
+He could overload them with mana, technically. He'd done it before. But the process was messy and destructive and would probably leave a crater in place of the school, and that would probably upset Headmaster Akkau.
+
+"Um..." one of the elves raised a hand, though she was clearly hesitant. Cale glanced at her—she was the same elf that had protested against Whiteleaf earlier. She was one of the good ones, he decided.
+
+"Julia, was it?" he asked. She nodded shyly.
+
+"I have one in my room, but it's kind of small." Julia indicated the size with her hands—it wasn't much larger than the length of two handspans. "Do you think it'll, um... fit?"
+
+"First of all, never hesitate when asking if something is going to fit," Cale remarked dryly. He snickered a bit when she blushed, then gave her a reassuring smile. "But yes, that's plenty. These things can compress themselves a lot, and even if they couldn't, I can make them."
+
+He shot the voidcyte a dark look, and for a second, it looked almost like it was shivering.
+
+"Anyway." Cale turned his attention back to Julia. "Would you mind grabbing it?"
+
+"Oh, um, y-yes?" Julia said. "Or, um... no? I mean, I don't mind—"
+
+"Thank you," Cale said, cutting in before she could trip over herself any further. Professor Graystalk seemed amused, though he brandished his wand before she could flee.
+
+"One moment, Ms. Fadepetal," Graystalk said. "This is a rather urgent matter. I will boost your speed, with your permission."
+
+"O-oh!" Julia blinked. "Um... okay?"
+
+Cale watched with interest as Graystalk cast again. He didn't quite manage to catch the spells this time—Graystalk was layering a lot of them together—but he could still see that he'd neatly layered three or four different movement- and reaction-boosting effects without them interfering with one another.
+
+The professor was an incredible mage, whether or not he was limited to the Standard Array.
+
+"My eyes are up here," Graystalk said, sounding amused.
+
+"Yes, but your wand is over there, and I'd much rather stare at that," Cale answered instantly. Graystalk snorted.
+
+"You are too clever with your mouth for your own good," he said, and then, before Cale could say anything else, added: "Do not respond to that."
+
+"But I'm so close to getting another level of [Blabbermouth]." Cale grinned. Graystalk could only shake his head. He turned, quite deliberately, to look at the cloud of sand Julia had kicked up in her wake.
+
+Cale noticed that the tips of his ears were pink, though.
+
+"Class is going to be rather strange with you around, isn't it?" the professor mused.
+
+Cale shrugged. "I've been known to shake things up here and there," he said. "Although..."
+
+"Although?"
+
+Cale hummed thoughtfully. "Did Akkau mention the whole thing with the Thread of Fate?"
+
+Graystalk frowned slightly. "He did, yes, although I cannot say I knew what to make of it," he admitted. "I am not well-versed in such magics. Is this a typical result of its involvement?"
+
+"I'm not sure yet," Cale said. "Even with the Thread of Fate, it feels like things are kicking in a little fast. Makes me think there might be something else going on."
+
+The professor gave him a sharp look. "Is that something we need to be concerned about?"
+
+"Oh, always." Cale grinned a little, unable to resist. "But I don't think so. At least no more than you'd normally need to be, as far as the Thread is concerned. I'll let the Headmaster know if I find anything."
+
+He paused, glancing at the still-thrashing voidcyte he was holding. "I hope Julia gets back soon, though," he added. "This is getting kind of awkward."
+
+"The star!" the voidcyte hissed. "We are being held by the star! We thought we were too weak, but it holds us like we are precious!"
+
+Graystalk turned to stare at it, blinking, then raised his wand warily. "In the future, Cale, perhaps mention when you are holding a sapient being captive," he said. Then he paused. "Though correct me if I am wrong, but does it sound... giddy?"
+
+Cale sighed. "I really hope Julia gets back soon," he repeated.
+
+Julia did, thankfully, return within about three minutes. Cale was glad for it, because by that time the voidcyte had started leaking, and he wasn't sure he wanted to know how or why it was doing this.
+
+There had, in fact, been a faction amongst the voidcytes that had almost... worshipped him. It was awkward at best and uncomfortable at worst, even if a few of them were capable of pleasant conversation. The one he was holding wasn't one of them, though—it seemed to be one of the fanatics that belonged to the so-called Cult of the Star.
+
+Which was the third cult he'd accidentally started. He had no idea how these things kept happening to him.
+
+On the plus side, it meant that the voidcyte didn't protest much when he told it to get into the box, nor did it seem unwilling to answer any of his questions. "Yessss," it whispered instead, slithering into the box the moment he held it out. "We are bound by the star. The star will feed us, yes? It will give us mana?"
+
+"If you're good," Cale said, slightly uncomfortable. Everyone in the class was staring at him at this point. Syphus was snickering, evidently amused, and Professor Graystalk's lips kept twitching. "Are there any more of you, or are you the only one that came with me?"
+
+"There is one more of us!" the voidcyte hissed eagerly. Then it paused, as if ashamed. "We do not know where it went. We are sorry... will the star punish us now?"
+
+"Indeed, will you?" Graystalk asked, making no effort to hide his amusement. Cale shot him a dirty look.
+
+"I'm not answering that," he said. "Do you know if anything else followed me through? Anything that isn't a voidcyte? One of the Greater Indictments?"
+
+The voidcyte shrank a little inside its box of blood obsidian, pulsating and swirling for a moment as it thought. "We do not know," it said eventually. "The journey was... strange. Confusing. There were too many colors. But... there may have been something more, yes."
+
+"Great." Cale sighed. "Can't even get a straight answer. Guess I'll have to prepare for the worst... not that that's anything new, I suppose."
+
+Professor Graystalk laughed outright. "You are, perhaps, the most interesting student I have ever had," he said. "Or assistant, I suppose. It does not feel quite right to call you a student. Will you be telling us what a Greater Indictment is, or is that a secret you plan on keeping to yourself?"
+
+"Oh, I'll keep it a secret for now." Cale smirked a bit, glad the professor had caught on to the type of person he was. "No point causing a panic. I might let you in on it if you prove yourself, though."
+
+"It is not often I find myself on the lesser end of an interaction," Graystalk remarked, but he didn't seem to mind. "You are a fascinating man, Cale Cadwell Cobbs."
+
+Cale coughed. "Just Cale, please."
+
+"Of course." Graystalk still seemed amused. "I believe you may have forgotten something, though."
+
+"...Did I?" Cale gave himself a quick once-over. None of his clothes were missing. Graystalk gave him a strange look, as if confused that that was the first thing he'd checked, and Cale shrugged. "Look, I've been in a lot of situations, okay? What did I forget?"
+
+A throat cleared behind him. Cale groaned. "Really?"
+
+"We are not done, Cale Cadwell Cobbs," Whiteleaf declared, pointing her wand at him. The impression was ruined somewhat by the bit of vomit that was still on her lips. "We have not finished our duel."
+
+"You're barely standing," Cale said, exasperated. "Also, just Cale! Why do people keep calling me by my full name?"
+
+"It's fun to say," Syphus said, hopping up onto the stage next to him. It cracked its knuckles threateningly and looked at Whiteleaf. "Hey, if she wants to finish this duel, we should let her finish it. Don't you think?"
+
+"I guess," Cale grumbled. He went back to stand at his spot on the stage, waiting for Whiteleaf to hobble over to hers. "But just for the record, I think this is stupid."
+
+"Alas," Graystalk said. "Ms. Whiteleaf cannot allow Brightgrove honor to be tarnished. She initiated the duel, and so she must finish it. Are you two ready?"
+
+Cale nodded tiredly. Whiteleaf raised her wand, a determined look in her eye. The Gift's presence had receded during the altercation with the voidcyte, but Cale could feel its attention was now once more upon them.
+
+Graystalk raised his voice. "Begin."

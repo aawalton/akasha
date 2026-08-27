@@ -1,0 +1,219 @@
+---
+id: f813d8e8-3f1a-59ea-9322-ff0ed3ab9420
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95: Into the Labyrinth"
+slug: 0278-chapter-95-into-the-labyrinth
+partOf: labyrinth-of-the-mad-god
+position: 278
+ownLength: 3452
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2965429/chapter-95-into-the-labyrinth"
+royalRoadId: "2965429"
+---
+
+Nick didn’t set out for the Labyrinth until the following morning. After confessing his feelings for Elizabeth, he didn’t want to leave without enjoying a full day together.
+
+Kenji didn’t mind delaying his departure. The warrior had been hoping they would clear the air and was happy they had done so before Nick began his next adventure.
+
+The duo didn’t do any work and treated the day as one long date. They ate delicious meals and caught several performances in the entertainment district. It was strange and wonderful to hold her hand after denying himself for so long, and their frequent detours to his bedroom were more wonderful still.
+
+Nick had been fantasizing about Liz for months, and while her beauty took his breath away, the warmth of her love was more precious still.
+
+They went for a long walk along the lakeshore and watched the sunset from the top of the butte. They ended their date with a soak in one of the private baths, drinking in the sight of each other beneath the star-studded heavens.
+
+After another magical night where neither of them got much sleep, Nick kissed Liz farewell, grabbed his bag, and met Kenji by the obelisk.
+
+The quest notification included the coordinates of the closest entrance to the Labyrinth, which was located in the far corner of the Bladewind Badlands. Since Kenji could only run at a fraction of his speed, the men had plenty of time to chat along the way, sharing stories from their old lives and getting to know each other better.
+
+Kenji had been one-hundred-and-seven when the System arrived and rewound his biological clock to fifty during integration. Nick hadn’t really considered what that meant until now, but it explained a great deal. The man had so much practical knowledge—so much life experience—that it only made sense he had lived over three times as long as himself.
+
+Kenji told him that a fair portion of Earth’s champions were old fogies like himself. Although, after being reset to fifty, then evolving and adding another hundred years to their lifespans, they were technically in the summer of their youth again. Eventually, the gap would narrow, but right now, they had the best of both worlds—wisdom and health—and Nick was glad to have them fighting by his side.
+
+The warrior revealed that he had former military experience, but he preferred not to divulge the details. From the way Kenji spoke about that period of his life, Nick had the sense the man had been near the top of the chain of command and bore deep scars from killing so many his own kind before retiring from the battlefield.
+
+After Kenji started losing his mobility, he turned to competitive online gaming to pass the time. While discussing the matter, they discovered they’d met in the old world, although not in person.
+
+The men had battled in a tournament of champions, competing under their aliases. Nick remembered the match. It was one of the few times he had been resoundingly defeated. Their bout had taught him a great deal about using your opponent’s expectations against them, and he smiled at the memory Kenji’s words evoked.
+
+“Small world,” he said.
+
+“Quite a bit bigger, actually.” Kenji managed to keep a straight face for a good ten seconds before they both burst out laughing.
+
+Elizabeth had handed Nick a package on his way out the door, and told him not to open it until he was outside Aurora’s sphere of influence. While it was tempting to sneak a peak right away, he did as she’d asked and unwrapped it the moment he passed through the Weather Barrier.
+
+Inside was a collection of consumables to use on their trip. The whole town had pitched in, and she had included a note with words of encouragement from all his friends and associates living in the city.
+
+She also went into graphic detail concerning what she planned to do when he got back, which made him blush so deeply that Kenji realized what was happening, laughing so hard that he started to cry.
+
+Nick shared the words of support, put Liz’s note into his bag to read again later, then took a closer look at the care package itself. It included some of the first concoctions the alchemists had produced—ten low-grade healing, stamina, and mana potions.
+
+There were also two potions of steelskin, which would increase his Toughness for ten minutes, and two potions of heroism, which would do the same for his physical stats across the board. The kit contained four glue bombs that created a weblike mess of adhesive stands and six high-power flashbangs—more potent versions of the consumables he’d used to great effect back on the Searing Isle.
+
+Nick still had two high-grade health, stamina, and antidote potions, and Kenji had a decent selection of the same. They split the steelskin and heroism potions, along with the glue bombs and flashbangs. He put the rest in his backpack for safekeeping, since the brews the alchemists whipped up didn’t come in shatterproof vials.
+
+As they drew near their destination, they spent some time refining their two-man tactics and briefing each other regarding their equipment and abilities.
+
+Nick loved Kenji’s storage strap. While it wasn’t as good as his bag, watching the warrior’s spear and tower shield shrink when they touched it and grow when removed was one of the coolest magical effects he'd ever seen.
+
+After going through their gear, the men dove into the details of their powers. Kenji had picked up a Rare class too, which was called a Commander. It focused on supportive auras and defensive skills but still packed a considerable punch.
+
+Just like Nick, he had put quite a few free points into Psi to enhance his psychic defenses. When Nick asked what had happened when the System jumpstarted his Psi, Kenji flat-out refused to answer. It only made him more curious, although he respected the man’s privacy and didn’t pry.
+
+Late in the afternoon, they came across the most striking point of interest he’d seen yet—a pair of ruby pillars the size of skyscrapers, which must have come from the dimension the System had merged with the Earth during integration. The spires were beautiful while sparkling beneath the light of the late-afternoon sun, and he stopped to sketch them in his journal before moving on.
+
+As it happened, the entrance to the Labyrinth was located between the towering pinnacles. Beside base of one pillar rose a full-sized obelisk—an onyx tooth juxtaposed against a crimson-crystal canvas.
+
+When he waked over and touched the screen mounted to one side, a message from the System appeared.
+
+You have found the first of four entrances to the Labyrinth on your planet.
+
+Be advised: The rift is sealed at present. It is vital that you fortify this gateway to your homeworld before the Shroud of Anonymity dissipates and the period of protection comes to an end.
+
+Your party meets the requirements for an elite quest and is authorized to bypass the seal.
+
+After confirming this prompt, you must wait until a pair of compatible of beasts is located. At that point, a portal to this location will appear beside you, no matter where you are.
+
+There was some vital new information contained within the prompt. Kenji left a note for the scouts the next time they passed by, informing Elizabeth, Ella, and the building committee that Aurora needed to fortify the area as soon as the city’s sphere of influence reached this area.
+
+When he was done, Nick confirmed the prompt, at which point, he found out they wouldn’t be waiting after all.
+
+A pair of compatible beasts has been located, and you may enter the Labyrinth immediately. The rest of your party is entering through a different rift. Your paths will converge shortly after stepping through.
+
+With that, the men walked between the gemstone towers, coming to a stop fifty feet out from a tear in space that was unlike anything he’d seen before.
+
+By this point in his adventures, Nick had come across and been sucked into a wide variety of portals. Thanks to his Portal Visionary technique, which he still didn’t even begin to truly understand, he usually had some kind of mind-expanding experience while travelling between worlds, granting him tantalizing glimpses into the greater multiverse, the System’s domain, and Taltos’s realm.
+
+He hadn’t realized until this moment that his technique also provided some insight into the fundamental nature of portals themselves—especially after increasing his mana sensitivity and learning mage sight.
+
+Thus, when Nick gazed upon the entrance to the Labyrinth of the Mad God, he was dead certain that the rift wasn’t a portal at all.
+
+Its proximity triggered a miniature vision. Not the kind where his mind left his body to take in the cosmos, but the crystallization of something he’d known all along but hadn’t truly grasped until that moment.
+
+Nick wasn’t “entering” the Labyrinth. He had been inside it all along.
+
+The carnivorous maze was everywhere, permeating the very fabric of reality to embrace the Earth in a terrifying intimacy. That being said, the node of stable space the System had created kept them from merging completely—like a bead of oil immersed within a body of water.
+
+The tear looming before him was a membrane where the Earth’s node and the greater Labyrinth overlapped. The place where the shoreline fell away, and the dark and hungry waters began.
+
+The maze exuded an air of menace, like he was standing at the entrance to a predator’s lair. He had sensed its nature from a distance while the Earth was being transported, but that was nothing compared to what he was feeling now.
+
+Nick shuddered while narrowing his perceptions, focusing on the rift itself.
+
+Unlike a portal, this wasn’t a wormhole connecting one point in space to another—it was a place that defied classification. A phenomenon that answered to no laws other than its own. The twisting bowels of a beast the size of a galaxy.
+
+Instead of simply stepping through and appearing somewhere else, the men had to do this the hard way. To reach the next node, Nick and Kenji would have to travel along the maleficent cosmic maze, and only the gods knew what awaited them on the other side of the rift.
+
+“He who fights with monsters should look to it that he himself does not become a monster,” Kenji quoted Nietzsche while peering into the void.
+
+“And if you gaze long into an abyss, the abyss also gazes into you,” Nick replied.
+
+“I don’t know about you.” The warrior threw an arm around his shoulder. “But this place really creeps me out.”
+
+“You have no idea.”
+
+“Still want to do this?”
+
+“Absolutely. I’ll see you on the other side.”
+
+With that, the men bumped fists and stepped through the veil, leaving the planet of their birth behind and entering a dimension filled with great danger and terrible beauty.
+
+For just a moment, Nick’s mind opened like a flower greeting the rising sun. He felt countless lives extending in every direction, along with dreadful eldritch presences that chilled him to the marrow of his bones. He had the sense that he was a tiny fish swimming in a bottomless midnight sea, surrounded by ravenous titans of tooth and fin.
+
+He came back to himself with a gasp when Kenji’s hand closed around his shoulder, gazing upon the byzantine confines of the Labyrinth of the Mad God.
+
+He was standing in a sewer pipe a mile wide—a nexus where thousands of smaller passages came together.
+
+The ceiling was suffused with clusters of glowing crystal that emitted a forlorn yellow light, like a lonely dawn a breath after sunrise. Whatever the original purpose of this place was, the tunnel had been renovated several times since—so long ago that everything was dyed in a thousand shades of mildew and rust.
+
+There were ladders leading to scaffolded platforms. Side passages connecting to doorways and stairs. There was so much going on that it was overwhelming to contemplate. How big is this place? And this is just one small section bordering the node where Earth resides.
+
+Nick had the sense that if he left the planet’s surface in a rocket, he could travel through space at least as far as the moon. This passage was something different—set along a parallel axis of reality where time and space didn’t obey the same rules.
+
+“Interesting.” Kenji rubbed his chin. “There could be anything down here. I wonder where we are supposed to go.”
+
+They learned the answer a few seconds later.
+
+Proceed to down the conduit to a temporary saferoom.
+
+The beasts assigned to your party will meet you there.
+
+Be advised: The Labyrinth is home to valuable opportunities and myriad dangers. Proceed with caution and know that leaving the conduit is fraught with peril.
+
+With that, a small arrow appeared within his field of view, pointing down the main pipeway. At least we don’t need to worry about getting lost.
+
+With Kenji at his side, Nick took his first steps into the Labyrinth.
+
+In a sense, he had been trapped inside the great maze ever since passing through the portal at the end of his tutorial. But the planets he’d visited were curated by the System and featured dangers appropriate for newly-integrated species.
+
+Now he was plunging headfirst into the twisting tangle of worlds, dimensions, and other planes of existence which, along with the conduits that connected them, formed a knotted skein on a galactic scale.
+
+With weapons drawn, the men walked for miles. Eventually, the refurbishments fell away, baring the original architecture like old paint scraped away by a dirty blade.
+
+This section of the conduit looked like a sewer line the size of a small country. An endless array of pipes and ducts lined the walls—caked in rot, rust, and putrid filth in every color of the rainbow.
+
+Two concrete platforms the size of superhighways lined each side of a central waterway, through which a turgid river of sludge crawled its way from one unknown location to another. The water shimmered like an oil slick—studded with decaying islands of amalgamated waste.
+
+It was gross and spooky, and anything could be hiding in there. On the bright side, it wasn’t actual sewage as far as he could tell.
+
+As they walked, Nick wondered where all of this had come from. Based on what he’d learned thus far, the Labyrinth was always expanding. Out here on the fringe, bits of pieces of the planets Taltos destroyed were recycled to create new real estate, which meant he was peering at the bones of a civilization whose people had perished or worse.
+
+The lighting was unnerving and air tasted strange. Even the ambient mana felt unsettling in a way he couldn’t describe.
+
+Other than the gurgling flow and occasional clatter of debris colliding, the conduit was quiet. No minds met his psychic senses, and Nick couldn’t detect any threats with Size Up, but the atmosphere was charged with tension.
+
+This place feels… alive. Somehow, he was certain that wasn’t just a metaphor; the Labyrinth itself was aware. Its presence was sinister, cruel, and insatiable—driven to consume and grow.
+
+“This place is terrifying,” Kenji spoke in a small voice that echoed endlessly off the water and stone.
+
+“I can feel its hunger… its hatred. No wonder the monsters are so warped. I doubt anything can live down here for long without being corrupted. The Earth seems to be buffered from the effect. I think the nodes are self-contained pockets of stable space, whereas these conduits are an extension of the ever-expanding maze.”
+
+As they continued their journey, Nick pondered the significance of what they were sensing. He had thought the Labyrinth was merely Taltos’s realm, but now that he was standing here in the flesh, he was certain the truth was more complex.
+
+He wasn’t sure if the Mad God was the uncontested master of this maze, merely its caretaker, or if the malevolent deity served a greater power far beyond Nick’s comprehension.
+
+Regardless of the details, it didn’t change what they had come here to do. The duo needed to meet their party and survive the trek to the quarantine zone. Then it would be time wipe out the dreadbeasts and secure the reward.
+
+When the men made it back, he would do everything in his power to help his people grow strong enough to survive what came after the year of protection ended, and Earth had to contend with its new neighbors without the System’s shield in the way.
+
+An hour passed in silence. The route they followed was wide open. He suspected that other places along their route would be far more confined. For now, it let him breathe a little easier, although he had no intention of lowering his guard.
+
+The duo stayed as far away from the water as possible, prepared for an ambush from ahead or below. They turned when the System’s arrow pointed down a side passage that was half as wide and studded with support beams thicker than his outstretched arms.
+
+Nick scanned their path with Size Up while Kenji watched their backs. The men could only use Blend into the Background for an hour each day, so it made sense to save the trait’s energy for battles or when their environment seemed unusually dangerous.
+
+They spotted several monsters as they proceeded deeper into the rotting guts of the conduit, sneaking past a pair of voidbears that were feasting on a pile of refuse.
+
+While this place lacked a true ecosystem, it was far from lifeless. He felt the prickle of hostile minds when they entered a passage filled with wrist-thick roots that stretched on for miles.
+
+Monstrous insects lurked between the pipes lining the walls. Nick was certain the creatures would attack if they sensed vulnerability, so he unleashed his killing intent. Predatory Domain washed over the critters in a menacing wave, causing the vicious scavengers to skitter away with the scrabble of claws against metal.
+
+After that, the bugs stayed out his way, hiding until he passed through the area while watching with hungry eyes.
+
+A few miles later, their surroundings began to change. The walls narrowed and the ceiling lowered until they were walking along a tunnel that was only a hundred feet wide. The corroded pipework transitioned into ancient bricks—covered in graffiti from an unknown language.
+
+From time to time, Nick came across a decaying artifact from a fallen world. He recorded everything with his PDA for his people to analyze later as the men proceeded deeper into conduit.
+
+Somehow, he was certain that Labyrinth’s influence was weak here. These jumbled scraps of other planets had been added recently and were only infused with a nascent tendril of the ancient evil he’d sensed when stepping through the veil.
+
+It made him wonder how things would change as time went on, and what the maze was like closer to the center. Hopefully, humanity will never have to find out. The fringe is dangerous enough. We wouldn’t survive five minutes closer to the Labyrinth’s heart.
+
+Not long after, the arrow they were following pointed to an archway with the word “Saferoom” painted across the top.
+
+“It’s time to meet the rest of our party.” Kenji stepped past the threshold with Nick at his side. “I wonder what manner of friendly beasts the System paired us with.”
+
+He was about to reply when he came across the last thing he’d expected to find in this place—an old friend.
+
+When Nick spotted the lemur sitting on top a giant boulder covered in moss that looked a great deal like shaggy gray fur, he sheathed Blightbane and spread his arms wide.
+
+Although the clever beast had changed greatly since their tutorial on the Searing Isle, he would recognize the black banding around those curious eyes anywhere.
+
+“Bandit,” he cried. “You’re alive! I’m so happy to see you.”
+
+His good cheer took an abrupt one eighty when the boulder Bandit was perched on woke up and rose to its feet, revealing the profile of a powerful predator that towered above him in a mountain of muscle and ill-will.
+
+“Nick,” Kenji spoke in a low voice while remaining perfectly still. “You never told me you were friends with a dinosaur.”
+
+“That is not a friendly beast.” Nick activated Force Acceleration as killing intent exploded from the creature like a star going nova. “Run!”
+
+No sooner had those words left his lips than the lurk opened its cavernous maw and issued a bone-shaking roar, lunging for him with the promise of murder gleaming in its eyes.

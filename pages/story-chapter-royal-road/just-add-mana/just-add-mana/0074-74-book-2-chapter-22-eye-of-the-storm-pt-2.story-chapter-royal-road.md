@@ -1,0 +1,273 @@
+---
+id: e04877af-47f3-5aa6-9d5f-e16ccb3910e8
+page-type-slug: story-chapter-royal-road
+title: "74 — Book 2, Chapter 22 — Eye of the Storm, Pt 2"
+slug: 0074-74-book-2-chapter-22-eye-of-the-storm-pt-2
+partOf: just-add-mana
+position: 74
+ownLength: 4409
+unit: words
+ownProgress: 4409
+publishedAt: 2025-12-16
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2853152/74-book-2-chapter-22-eye-of-the-storm-pt-2"
+royalRoadId: "2853152"
+markedReadAt: "2026-06-29T18:50:10.578Z"
+---
+
+Damien was a little surprised by how much he enjoyed talking to Izzik.
+
+It took some time for them to open up to one another, of course. Damien had no idea what to even say, at first, and Izzik had taken his silence to mean he was there to rebuke the lizardfolk for his part in the whole shimmerdust poisoning incident. With everything else that had happened since then, Damien had forgotten that had even happened, and so the two of them spent the first few minutes of the visit awkwardly apologizing to one another over a misunderstanding.
+
+Honestly, it was probably a good thing he'd told one of the healers on duty why he was there. The mage had walked past, listened to them for all of two seconds, then rolled his eyes and explained why Damien was really there.
+
+The moment he explained, Izzik's eyes shone with interest. Healing was a genuine passion for him, it seemed.
+
+...For a moment, Damien found himself feeling strangely envious. Just for that moment, though.
+
+"I don't think my reasons were great at first," Izzik admitted. He shifted slightly, or as much as he could under all the layers of magic that protected him, and tried to show off a scar etched into his scales. "Do you know about the Aspect Cascade?"
+
+Damien stared at the scar, unsure what to say. "Um... I know that it's some sort of magical storm," he said, trying not to fidget. This felt like one of those things he absolutely should have known about, but he'd been focused on trying to control his mana for years.
+
+Izzik didn't seem to mind, at least. He attempted to nod, remembered he couldn't, blinked a few times instead, then scowled. "I've been trying to figure out what I can do instead of nodding. I don't think that one works. It just makes me look confused."
+
+"A little bit," Damien admitted, wondering if it would be rude to laugh.
+
+"Anyway," Izzik said, giving up. "You're right, although magical storm is a bit of an understatement. The Aspect Cascade is... it's the magical storm. It's worse than the storms you get in the Endless Depths. If you're a mage, there's nothing you can do about it, and everyone on Utelia is a mage."
+
+"It's that bad?" Damien asked quietly, and Izzik let out a tired sigh.
+
+"It killed so many," he said, looking up at the ceiling. "The Cascade forcibly attunes your mana into a different aspect. It turns your core against you. If you're in range for long enough, that means death for almost any mage, no matter how powerful they are. We tried so hard to fight it, and every spell we cast..."
+
+"That sounds awful." Damien wished sometimes, at times like these, that he knew what to say. The story felt painfully familiar.
+
+"I lost half my clan," Izzik said distantly. "When the Cascade first appeared, I mean. Half of us gone, just like that. I was interested in healing before that, but after, it became something I had to learn. I wanted to make sure nothing like that could happen to us ever again. I wanted to be a great healer, strong enough to keep my people safe even through something like the Aspect Cascade."
+
+That sounded painfully familiar. Damien said nothing, partly because he couldn't help the memories beginning to well up within him and partly because his first thought was that this wasn't Izzik's responsibility. The lizardkin looked like he was barely of age now, and he would have been only a teenager when the Cascade took his family.
+
+Damien didn't know what that meant for him. He had been young when it happened, but he still felt like he was responsible. He thought he likely always would.
+
+"I don't know if this will make any sense to you, but I couldn't stand the thought of it happening again," Izzik said quietly. "It consumed me for more than a year. The drive to learn to heal, I mean. Even after I got here and made a few friends, I just... every time I closed my eyes..."
+
+It made too much sense to Damien, in fact, but he didn't know how to say that. Instead, he nodded. "I get it."
+
+Something in his voice made Izzik look at him for a moment. Damien said nothing further, though, and the lizardfolk let it go with a sigh.
+
+"It wasn't enough," he said. "I poured everything I had into learning how to heal, and it wasn't enough. I ran into a roadblock because I didn't understand what I needed to."
+
+"What you needed to...?" Damien repeated.
+
+Izzik bit his lip. "I'm an intuitive mage," he said eventually. "Like a lot of Beast Wing students. I can learn spells quickly if I understand either the spell or the intent of the spell, but with healing, I was missing half the picture. I was focused on preventing outcomes and on making sure I would never lose anyone ever again."
+
+He sighed. "But no matter how great a healer I become, I'd never be able to save everyone."
+
+Damien wanted to protest, but he felt frozen. Strangely, Izzik looked like he understood the feeling.
+
+"It was Professor Norctis that explained all this to me," he said. "Life magic is about more than just preservation, you know? It's about possibility. Think about it." Izzik gestured weakly to his still mostly-paralyzed body. "Half this magic is in place to make sure my injuries don't get worse, but the other half is there to make sure I get better."
+
+"It gives you options," Damien said.
+
+"Exactly!" Izzik said, and then he flinched as the spells holding him still flared brightly. He'd shifted a little too much there. "When you heal someone, it means they get to keep going. They return to their place in the Cycle, create things they never would have been able to create, share ideas they might never have had. They might not always come back the same, but if you manage to heal them, they do come back. And that's the point of it.
+
+"There was a class that stuck with me. Professor Norctis brought in one of his patients—I think her name was Wickle? She was this goblin who nearly died when her home exploded in a fireball incident. The rest of her family did die. The professor was too late to save them."
+
+That made Damien wince slightly, but Izzik didn't seem to notice. Instead, he looked back up at the ceiling, as if trying to remember.
+
+"He says you can't save everyone. That if you blame yourself for every life lost, it breaks you. I don't know if I can just not blame myself like that, if I ever graduate as a full healer, but I do know that he's right. I'm not learning to heal so I can save everyone. I'm learning to heal so I can try."
+
+Despite himself, Damien leaned forward at those words. It felt like it had struck a chord within him. Izzik grasped his wrist the moment he was in reach, to his surprise, and he froze as the lizardfolk began to speak in earnest.
+
+"Because Wickle survived, she could keep going. Her family's legacy didn't die. Her mother did embroidery, and her father told these ridiculous stories. Wickle took what scraps she could and turned it into a livelihood of her own. It wasn't a great success or anything, but I could see Professor Norctis was really proud of her, and she was really happy. Her whole village has something she made to remember her family."
+
+Izzik hesitated. "Though I mean, not everyone is like that," he said. "Everyone grieves differently. But the point stands, you know? Because she lived, some part of her family could keep living with her, and she had the choice to turn it into something good."
+
+Izzik let go of Damien's wrist, suddenly embarrassed. "Uh... I don't know if I'm making any sense," he said awkwardly. "It was what helped me understand, though. It was how I got over my roadblock and learned some of those spells I was stuck with. Still have a long way to go, though."
+
+"I think I understand," Damien said quietly. "Um... do you think..."
+
+The dreadshade hesitated, trying to figure out how to word his question, and Izzik gave him a quizzical look. "What is it?"
+
+"You survived," Damien said eventually. "So it's the same for you, isn't it? Whether healing was involved or not, we're all made up of little bits of those we left behind."
+
+"...Huh." Izzik looked thoughtful. "I don't think I ever thought about it like that, but you're right. That's sort of a nice thought."
+
+And so am I, Damien thought but didn't say. The idea was oddly comforting. He'd spent years blaming himself for what had happened so long ago, and he didn't think he would ever stop, but he'd never once given thought to how he would honor them.
+
+No one was left that knew about them, now, aside from him. He felt both guilty and relieved all at once—guilt for not even considering this, and relief that he finally had direction.
+
+You were there, he thought to himself, surprising himself with the intensity of his own emotions. You existed. And now there's no one except me left to remember, and I spent all this time hating myself instead of telling the world who you were.
+
+Damien had been alone for most of his childhood. He knew how dangerous it was for him to interact with others, even then, and so he kept himself secluded. Things would have stayed that way had it not been for the one mortal child that insisted he join them in their games, that offered him slices of pie from her aunt Percia and bowls of stew from uncle Renar.
+
+He'd moved closer after a while. Close enough to hear that terrible music that his best friend said was old man Henrik, and close enough to experience the rhythm of civilization and friendship. He made sure not to get too close, though. He wanted to make sure they were safe.
+
+He'd judged poorly.
+
+"Are you alright?" Izzik asked, worried, and Damien realized he'd been crying.
+
+"Oh. Um, yeah. Sorry." Damien sniffed a bit. "Thanks. That helped a lot, I think. Do you mind if we keep talking for a while?"
+
+"Well, my so-called friends haven't visited, so you're kind of the only company I've got." Izzik was silent for a moment. "...I feel like an ass for being so scared of you. And for joining the Red Hunters. It's going to sound stupid, but... I thought I could make them better."
+
+"My magic can do terrible things," Damien said. "I'm scared of it, too. I don't blame you."
+
+"But if the rest of us weren't so scared, you might have had the chance to learn how to control it sooner."
+
+"...Yeah." Damien had never thought about it that way, either.
+
+After that, they just kept talking. Damien would never have expected it, but he and Izzik had so many things in common, despite everything. The lizardfolk joked that he was risking another neck injury from smiling too much and insisted on being shown Damien's art collection.
+
+Damien, of course, was terribly embarrassed, but agreed as long as Izzik did his best to recover. They were interrupted only by Leo suddenly bursting into the infirmary through the door, nearly making Damien fall off his chair.
+
+"Cale's about to go to the Golden Sands to try to end the Aspect Cascade," the minotaur blurted.
+
+Damien and Izzik exchanged glances. "What?"
+
+The most appropriate place to try to evolve this spell, Cale eventually decided, was outside where he'd initially had his "duel" with Nala Whiteleaf. According to Kazza, the [Gilded Hurricane] that emerged from repeated casts of [Windstream] was basically a hurricane made of golden sand. The sand acted as a stabilizing point for the spell, coalescing into platforms that could hold their homes aloft. There was no guarantee Cale's evolved spell would do the same, but if it did, it would be best not to waste that cast of the spell.
+
+Fortunately, there was a desert right around the Brightscale Academy, which meant they didn't really need to worry about sand availability. Nor did they need to go out all the way to the desert or anything. This particular dueling arena had been built to mimic that desert's environment, so it had everything they needed.
+
+Cale did stop in his tracks when he saw Leo, Damien, and Syphus all waiting for him at the arena. How in the world had the rest of his apprentices found out so quickly? He gave Flia a glance, but she just looked away deliberately, whistling to herself.
+
+Well. Okay then. There were going to be more people coming with him than he expected, apparently. Cale winced a little at the realization, but he couldn't really think of an excuse not to bring them with him considering what he'd subjected them to already.
+
+"I don't suppose I can convince you to go to your other classes instead?" he tried.
+
+Leo gave him an incredulous look. Flia snorted. Syphus was too busy rolling around in the sand to answer him, and now that Cale thought about it, he realized it was probably impossible to convince Syphus not to tag along on a trip to a distant desert.
+
+That left Damien. Cale looked at Damien, who shrugged awkwardly. "I promised Izzik I'd tell him what happened."
+
+Cale sighed.
+
+It wasn't that he thought any of them couldn't handle the trip. He didn't even think the trip would be all that dangerous. It would be one thing if they were caught in the storm, but Cale planned to observe it for a minute or two, find a weakness, and then eliminate it entirely. Danger wasn't the problem here. If anything, the trip would teach them a lot about how to deal with problems like these as a mage; out-of-control magical reactions weren't exactly uncommon, after all. The experience would be invaluable for them.
+
+He just didn't want them to see him doing any of it. Cale knew everything he would be doing was necessary, but once he did it, he would no longer be able to hide the truth of who he was if they came with him.
+
+In the end, though, he relented and chose not to press the matter. The journey would help them, and if they chose to break off from him as a result, it was better that it happen sooner rather than later.
+
+He could always give Akkau and their professors what they needed to grow, even if he couldn't directly mentor them.
+
+Kazza still looked as though he had no idea what was going on. "We will need far more people to cast the spell, even if all of you could learn it, if this is your plan," he said, glancing between each apprentice in confusion. There was a flash of worry in his eyes that he quickly hid, and Cale snorted; he was pretty sure the lizardfolk was starting to think they had no idea what they were doing.
+
+He'd prove him wrong soon enough. Everyone else knew exactly what Cale was about to do and were standing back in anticipation; the only one that wasn't was Professor Tarbloom, who had managed to distract themselves cataloguing the sudden appearance of wind sprites in the area.
+
+"That's not quite the plan," Cale said. "You might want to stand back a little."
+
+Kazza still seemed confused, but he took a step back regardless. Akkau patted him on the shoulder. "Trust in my apprentice. He knows what he is doing."
+
+"Mostly!" Cale added cheerfully, which did absolutely nothing for Kazza's confidence.
+
+Then Cale finally measured his mana and cast [Windstream].
+
+Despite the name, [Windstream] was—as implied in the spell description—technically an application of breath magic. The caster was meant to blow air towards their target, and that air would be amplified by a specialized node of breath mana in their throat. When compounded enough times, the lingering remnants of breath mana in the spell would coalesce into the greater spell effect [Gilded Hurricane].
+
+This, of course, did not happen when Cale cast the spell.
+
+He'd started off with a quick discussion with Akkau to decide exactly how much mana he needed to put into this spell. Too much, and it was likely he would accidentally create some wind-related spell of mass destruction instead of keeping the original spell's transportation capabilities. Too little, and he wouldn't gain enough speed for all this to be worth it.
+
+Cale had been a little worried about a lower-tier spell not being fast enough, but thankfully Akkau had said unique magic like [Windstream] was more stable when the Gift evolved it. They could afford to aim for a higher tier without derailing the spell, as long as it wasn't too high.
+
+They'd eventually decided that it was best Cale aim for an eighth tier spell just in case he overshot.
+
+Which he did. Immediately.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Windstream] has evolved into [Fortress of the Gilded Storm]!
+
+[Fortress of the Gilded Storm, Level 1] [Tenth Tier, Active (Unique, Lost)] [1.0e34 Mana]
+
+A lost magic that once belonged to the lizardfolk of the Golden Sands, emerging from their natural affinity with breath magic and their unique relationship with the heart of a dead Monolith. All traces of this spell and its existence have been lost to the sands of time, and the lizardfolk have suffered dearly without its protection.
+
+This spell creates a moving sandstorm that acts as both transportation and protection for those living within.
+
+This spell requires a large mass of sand in order to cast. That sand will be transmuted into a unique, mana-corrosive sand.
+
+This spell captures all structures within its initial radius.
+
+The Fortress of the Gilded Storm is ancient magic that blesses and protects those within. Its sands act like a living thing, capable of scouring away all would dare to harm their masters, creature and magic alike.
+
+Offensive spells of ninth tier and below that would otherwise strike the Fortress will be torn apart by the sands. Offensive magic cast from within the Fortress will remain unaffected.
+
+The first part of the spell description—or more specifically, the differences with the previous one—made Cale freeze. What did it mean, unique relationship? He'd known about Illwyld and Vital already, based on what Izzik had said about his healing potions, but those words implied... worship.
+
+It implied the lizardfolk in the Golden Sands had once known the exact nature of the land they lived on.
+
+It also implied they didn't anymore, which was the only reason he didn't stop things immediately to question Kazza. Cale took a deep breath, trying to settle the sudden pounding in his heart.
+
+He couldn't even if he wanted to, he told himself. Evolving a spell through the Gift caused it to cast immediately.
+
+Case in point, as the spell activated, the world rumbled and began to shake.
+
+Sand erupted all around them, causing Syphus to cry out in joy while everyone else flinched at the sheer violence of it. A blazing storm of wind and sand whipped into existence, practically blinding them. It probably could have skinned them alive, too, if not for the fact that the spell carefully wove the sand around everyone included in it.
+
+A flash of blazing mana rippled through the storm, causing all that sand to turn into swirling streams of gold. Syphus, at this point, was rolling around and trying to catch the streams as they ducked out of its reach. Cale tried not to snort too hard at its antics. He probably should have predicted this would happen.
+
+Beneath them, the ground rumbled, and a massive platform of the same golden sand began rising out of the dirt. The spell grew with every second that passed, drawing more sand into its radius, turning them into streaks of gold that whipped into the shape of walls and towers and parapets, creating a veritable castle out of golden sand.
+
+Furniture, too. Cale blinked as a throne rose out of the ground, followed by chairs and tables and beds, of all things. It was a little haphazardly placed, though he sensed he could adjust it if he wanted. "Feels a bit excessive," he muttered, eyeing it critically.
+
+His words were mostly just lost in the wind.
+
+Akkau and Professor Tarbloom didn't stay idle. They had a role to play in this, after all. While neither of them needed to come along, they knew their help might be needed to enhance and stabilize this evolved spell. [Fortress of the Gilded Storm] was technically complete on its own, but Tarbloom's efforts warded it against any monsters that might otherwise take an interest in their giant, flying castle.
+
+The headmaster, on the other hand, was focused mostly on reinforcing the transportation aspects of the spell. The spell construct fueling it was temporarily exposed in the heart of it all, and Cale could feel the old dragon pouring mana into different parts of it, making it faster and more responsive.
+
+Meanwhile, Kazza was mostly just staring open-mouthed. Cale was pretty sure that if the spell didn't automatically protect them, the poor lizardfolk's lungs would have been filled with sand at this point. "What..." he started, staring at Cale, then at the fortress, then at the sand whirling all around them. It took him another twenty seconds to figure out what he even wanted to say. "I do not understand. This is nothing like the spell you learned."
+
+"It isn't," Cale agreed, unhelpfully.
+
+Kazza barely registered it. He turned around a few times, mouth still agape, then slowly approached one of the walls to rest his claws against it. "This... resembles one of our legends," he murmured, a touch of wonder in his voice. "It is a legend we tell our children. A tale of the perfect home, one that keeps us safe from the dangers of the Golden Sands. We say it hides from us until we prove ourselves worthy."
+
+"I guess you've proven yourself worthy, then." Cale grinned.
+
+"It is a legend," Kazza repeated, shaking his head in disbelief. "It is not supposed to be real. We tell this tale to comfort ourselves, to pretend there was a time when our clan could traverse the sands of our home in safety. To pretend there could be again. There is a festival where we attempt to call our home back to us through dance and song, but no one has ever considered that it might truly exist."
+
+"Are the Golden Sands that dangerous?" Cale asked curiously.
+
+His new lizardfolk friend stopped tracing the walls with his claws and turned to regard Cale, confused. "You... do you know nothing of Illwyld?"
+
+"I haven't even been on Utelia for a week, to be honest."
+
+Kazza stared blankly at him. "You are the result of a summoning?" he asked, putting the pieces together. "Or are you claiming that you were created? Brought into existence by your master?"
+
+Cale almost choked, and somewhere behind him, so did Akkau. "Please don't call him my master," he muttered. "Just because I'm his apprentice doesn't mean I call him master. That's weird."
+
+Kazza's stare continued to be blank. "Why would it be weird?"
+
+"I'm not going to answer that." Cale decided to rapidly move on. Poor Kazza looked like he was currently re-evaluating his life, and it would probably be best if he was given some time to acclimate. "Let's go back to the danger thing. Or, well, you can tell me more about those dangers once we get moving, I guess. This spell can move pretty fast, but it won't get us there instantly. Maybe about..."
+
+"Half an hour," Akkau supplied.
+
+Cale brightened. "That."
+
+Kazza looked between them both, expecting one of them to laugh, and when he realized they were serious, his entire body sagged. "Half an hour," he repeated. "You truly believe you can move a structure this large so quickly?"
+
+"It better move that quickly, otherwise I'd have to insist on Plan B," Cale sniffed.
+
+Flia glared at him. "We are not doing Plan B.".
+
+"Plan B was fine!"
+
+"You said Plan B was to enclose us in a giant barrier and then just fling mana at the ground until we got there." Flia folded her arms across her chest.
+
+"Exactly!" Cale said. "It was fine! It would have gotten us there in like, an hour tops. Probably."
+
+Flia narrowed her eyes, then turned away deliberately. "Leo, go get that navigational spell set up. Akkau said he needed you for that part, right?"
+
+Leo nearly jumped out of his skin. He'd been staring out of one of the windows up until then, but shot straight to attention when Flia spoke. "Uh, yes!" he said. "Although I've never done a joint spell before. Are you sure you need me? I'm not going to be able to take any notes if I'm helping maintain this spell..."
+
+Akkau chuckled, walking over to him and placing a reassuring hand on his shoulder. "You will be fine," he said. "I only need a portion of your mana to assist, and then you may take over after I am done."
+
+"And you can't just attune to labyrinth mana yourself and let it run on autopilot?" Leo asked, wringing his hands together.
+
+"I can, with some difficulty," Akkau said. "But this is far simpler, and more importantly, a joint casting of this spell will allow the Gift to register the spell to you. It will allow you to return with the same spell, if teleportation does not suffice."
+
+Leo sighed, but nodded. "Just as long as Syphus helps me take those notes like it said it would," he muttered. "Syphus?"
+
+Syphus was still rolling enthusiastically around in the sand. It gave no indication that it had heard him, and had, in fact, dropped Leo's notebook into the sand. Nearby, Flia let out a long-suffering sigh and picked it up. "I've got it," she said. "You owe me, though. You didn't even waterproof your notebook."
+
+Cale beamed. "Extra points for teamwork, Flia!"
+
+"Wha—" Leo let out an anguished groan. "Again? What about my points?!"

@@ -1,0 +1,236 @@
+---
+id: 2c8b0556-6c22-51a4-b1fa-26e3e7a0d326
+page-type-slug: story-chapter-royal-road
+title: "155 — Book 3, Chapter 54 — Endings"
+partOf: just-add-mana
+position: 158
+ownLength: 4149
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3612276/155-book-3-chapter-54-endings"
+royalRoadId: "3612276"
+---
+
+Cale and his allies found that there was little time left for them to gather themselves once the final remnants of the Dragonstorm had faded away.
+
+It was unfortunate. The University was a mess, and Cale could see in the faces of his apprentices that they wanted nothing more to stay and help the students and instructors here recover. Yet time around them was already beginning to accelerate, to take them to the next part of Adam's story, and even with Cale they could only resist the change for so long.
+
+After all, when they had entered the Bitter Path, they had essentially agreed to a set of rules proposed by the dungeon. While this space they were in could no longer be called that, the rules they had agreed to were still in effect. They had seen and done what the Bitter Path wanted of them here, and it was time to move on.
+
+Whatever they saw next, Cale knew, would be the last of what it wanted to show them. He was almost certain he knew what it would be, for everything in the Bitter Path had been leading up to it. He was less certain if he was ready for it yet, but it wasn't like he had much of a choice either way.
+
+Besides, he was far more concerned about his apprentices at the moment.
+
+"How much time do we have?" Damien asked. His eyes were worried, flitting across the mages gathered within the University's infirmary, presumably trying to calculate how many he would have the time to heal before things accelerated too much for them to interact with this part of the dungeon any longer.
+
+"I'm holding it off, but even with that, not much," Cale admitted. A dome of prismatic flame burned around the University's infirmary, packed with enough mana and intent to ward off the acceleration of time. "Maybe a couple of minutes at best."
+
+He might have been able to stretch it if he poured more mana into it, but he had spent much of his wyldfire already, and he suspected whatever came next was going to need a great deal of his power.
+
+That, and stretching his mana here wasn't going to give them enough extra time to make a difference.
+
+Damien grimaced at his response, but nodded in acceptance. "I'll talk to the healers and help them triage," he said. "I can do it faster than they can with the Verdant Flame. Find any hidden injuries or curses."
+
+"Good idea," Cale said, watching as Damien moved deliberately toward the University's healers.
+
+Before the Dragonstorm, the dreadshade might have struggled to decide on a course of action. Now he understood immediately that there was nothing else they could change about their circumstances, and focused instead on how he could do the most good in the short amount of time they had. Cale was proud of him, of course, but he knew also that such growth wasn't easily earned. How many times had the Dragonstorm forced him to make these decisions, again and again?
+
+Nor was he the only one of Cale's apprentices to change so drastically. They all seemed exhausted from the fight, and they were each injured to varying degrees. He glanced over them again, trying to conceal his worry.
+
+Damien had exhausted most of his mana trying to keep the mages of the University healed throughout the storm. Even now, he was doing his best for them, unwilling to let any of them fall if he could help.
+
+Leo was bruised and battered, for even with Akkau and Sternkessel helping, the fight with the dragonlords had been intense; he'd exhausted much of his mana and all four drops of palewater he'd gathered in a series of labyrinth spells that funneled their enemies away from the instructors and toward the Headmaster.
+
+Syphus had lost the etherite crown that kept its scrying eye stable and was now effectively blind. It hadn't complained about it yet, but it was far quieter than usual, and Cale could only guess at what it was thinking.
+
+Flia...
+
+She was the most affected out of all his apprentices, perhaps, and from the way she kept glancing at the bed Instructor Elizabeth was lying in, Cale could guess why. As far as she was concerned, she had failed one of the people she was trying to protect. There was a weight in her shoulders that had been absent before.
+
+Cale had wanted more than anything to protect his apprentices from this. They were not mages that could turn away from those in need, but that meant also that the path they were on would inevitably hold tragedy. There would be beauty in it, too, but there would be times like these, when they felt like they had failed those they had pledged to protect.
+
+It was the sort of thing that changed you. Cale knew that all too well, and he could see the beginnings of that in Flia now. It was a seed of the same anger he kept within himself—the anger that emerged when he faced someone who was willing to hurt or kill for their power. This was the same anger that killed the two elves willing to sacrifice a child on his arrival to Utelia, and it was the same anger that had eventually birthed Torment's Shadow.
+
+Cale did not think of this anger as evil. But it was something that he knew more than most, and so he knew how important it was to keep in check. He would have to speak with Flia later, once this was over.
+
+Not now, though. Not yet. He knew well enough that there was nothing he could say now that would make her feel any less to blame, no matter that she had made no mistakes that he had seen.
+
+It should have been years before she had to deal with this, though. It should have been years before any of them had to deal with this. Cale saw that the anger was greatest in Flia, but it wasn't absent from the rest of his apprentices. They all had it to varying degrees. How many dead had they encountered, roaming the halls of the University, trying to save everyone they could?
+
+Too many.
+
+"The instructors here were good to us." Flia's gaze lingered on Elizabeth's bed, where she lay taking shallow breaths. There was still a hole where her heart had been, and the only thing keeping her alive was her own pulse of mana. For all that Damien's healing magic had progressed, he did not possess the ability to regrow a heart, and Cale's own attempts to evolve a spell that would assist in the matter had failed to bear fruit.
+
+Her life now would be measured in days. Time enough to say goodbye to her apprentices, perhaps, but a far shorter life than she should have had.
+
+To say nothing of Instructor Hikari, whose apprentices still grieved her. Her body had been put back together, but she lay still and unmoving. Her apprentices hadn't left her side in all the time that had passed, and Cale doubted they would for a long while yet.
+
+But thanks to her, the seeds for change in humanity's very understanding of magic had been planted. Hikari's discoveries would forever change the face of magic. She had known that when she died, according to Damien, and so she had accepted her death with a fierce, defiant joy.
+
+It wasn't enough to comfort any of those that knew her, though, and Cale knew it would never be enough. Not to her apprentices or to those that cared for her. Not even for him, as little as he had known her. A mage like that came around once a century, and in her death humanity had lost something that could never be replaced. The same was true for all the mages of the University who had died in the fight; Cale's barrier spell had saved a number of them, but many had died before he managed to cast it, and others had been too grievously wounded for it to make much of a difference.
+
+Their victory, such as it was, had come at a very real cost.
+
+"They were good to us," Cale agreed finally. He glanced at Headmaster Adam, who stood by silently, his gaze clouded as he looked over the injured and the dying. These were all mages he had personally hired, he had said, and he felt responsible for each and every one of them. Whatever Cale and his apprentices felt, he was certainly feeling a greater version of it.
+
+But he hid it well when he finally turned toward them. Adam bowed low, hands pressed together in a gesture of gratitude. "Thank you," he said, his voice hoarse. "If you had not been here, I cannot imagine the disaster that would have been wrought on my mages."
+
+"I wish we could have done more," Damien said, but Adam shook his head.
+
+"Do not let what might have been consume you," he said. "Your mentor would say the same, I'm sure, but perhaps it will mean more coming from the man who was responsible for all these lives. You should not have had to fight. You are young still, barely at the start of your journeys. That you risked yourselves for us alone is a debt we can never repay. After all, you are students yourselves, are you not?"
+
+"We are, but—" Damien started.
+
+"More lives were saved with you than there would have been without," Adam said. "If there is anything you take away from this, let it be that. You have saved lives this day."
+
+One by one, Cale's apprentices nodded, though they seemed reluctant to accept his words. Flia especially, Cale could tell. She didn't say anything in spite of that, and merely bowed her head. Even with that, she didn't quite manage to hide the way her eyes slid to Elizabeth once more.
+
+Cale understood what Adam was trying to do, though, and he shot the man a grateful look. There was a moment of shared understanding between the two men before Adam spoke again.
+
+"I wish there was more I could give you before we part ways," he said. "I will have my hands full, I think, helping my people recover. If we had only managed to learn more about what will happen to us..."
+
+"Hopefully the kingdoms take you more seriously, now that they've seen the extent and nature of the Dragonstorm," Cale said. "They'll have trouble denying the evidence of that, at least."
+
+"The ones that remain alive will," Adam said, the words grim. "I will do what I can. You will appear before us again, I'm sure, at least once before the end. Perhaps then we will finally know what becomes of us. I don't suppose you know when that may be?"
+
+"Not in the slightest," Cale admitted. There was no way to tell when he didn't know the events of the history they were exploring in the first place. "I don't think there's much left here that we're supposed to see. If I had to guess, we'll show up again right before the end, when everything comes to a head."
+
+"A bit late for answers to change anything, then." Adam was silent for a moment. "Do you think you'll be able to do something about it, the way you did here?"
+
+"I don't know," Cale said, and that was perhaps the most difficult part of all this for him; that he still didn't know the role he had to play here. It was one thing when the dungeon was still just a copy of the past. The fact that this moment in time had been pulled forward into the Abyss, that the people here were real...
+
+If it were even possible to do such a thing, then what would happen now, if he were to prevent the extinction of humanity? It would surely create a paradox. It felt like there was something he was still missing, a piece of the puzzle he needed to understand what he was supposed to do here.
+
+It wasn't whatever this was. If he and his apprentices hadn't been present for the Dragonstorm, Cale suspected the eventual end of humanity would happen all the same. Adam's involvement in it wouldn't change, either. He would likely have managed to find some way to escape, then gone on to do whatever it was he had done to solidify his status as a historical figure of the cosmos.
+
+But their actions here had changed things, and while the outcome was certain, the events that would lead up to it were not. How much would change, exactly, as a result of his actions? As a result of his apprentices?
+
+Was there a way to change enough to give humanity a future?
+
+Lost in thought, Cale was startled when Flia suddenly spoke. "When we meet again in the future, can you tell us what happened to everyone here?" she asked. "I think I'd like to know."
+
+Adam glanced at her, surprised, and hesitated for a moment before he responded. "I will prepare a report," he told her. "Whatever the situation may be when you find me again, look for that report. It will let you know what happened should the situation be too dire for us to discuss it in detail."
+
+"That'll work," Flia agreed.
+
+"Are you all okay?" Cale asked, looking at his apprentices. They were all still alive, he was grateful for that, but none of them had come out of the conflict unscathed.
+
+"We will be," Damien offered. The other apprentices nodded in agreement, and Cale hesitated for a moment before he nodded back. That would have to be good enough.
+
+He turned to Headmaster Akkau and Professor Sternkessel, who waited for him at the edge of his barrier. "Thank you for coming," he told them. "This would have been far worse if you hadn't arrived."
+
+"It is no trouble," Akkau said.
+
+"I believe it was, in fact, a great deal of trouble," Professor Sternkessel remarked. "You may have to duel Haelforge's Headmaster at some point. Akkau has reached the end of his rope with him."
+
+Cale snorted. "At least that's a problem I can deal with," he said. "Let's hope that's somewhere in the far, far future, though. I have enough duels on my plate for now."
+
+"Cale." Akkau placed a heavy hand on his shoulder, his expression a serious one in spite of the banter. "I have lived long enough to know when the workings of fate are in command. Leo told me what this is, at least in part. Are you certain you are ready for what comes next?"
+
+Cale sighed. "I think I'm going to have to be," he said.
+
+"You do not," Sternkessel said. "I was able to cross the bridge to bring us here. If you decide you are not yet ready, we could return before the world resumes, and it will wait for us in stasis. I can take you here again, when the time comes."
+
+That made Cale hesitate. Did he want that? If he could put it off and wait to do it until he was ready? But so much could happen in that time: the dark lord's plans were still underway, and there was the matter of the creatures making their way through the Nothing, using Asterion's labyrinth as a means to claw their way back to the Great Realms...
+
+He thought of the Source of Vitality, then. The Monolith had waited for eons for him, and still he had made him wait longer. Cale had done far too much waiting, in his many lives.
+
+"No," he said. "Thank you for the offer. I'm grateful. But I think I need to do this. I need to know. We'll deal with what comes after."
+
+Sternkessel nodded, as if he had known all along that Cale would choose this. "Then we are with you," he said.
+
+Cale smiled at him in thanks, then let his barrier dissolve. Once more, the world accelerated around them.
+
+"Owwww," Steve groaned, doubling over as his pain intensified once more. "Damn it, I thought this was over!"
+
+Emline rubbed Steve's back gently, one arm braced on his shoulder. Where was Kelegas, anyway? He had been interrogating that new arrival for what seemed like hours, now. It was unusual for someone like him to be gone so long. "You'll be okay," she comforted. "Is it as bad as last time?"
+
+"Not as bad, but..." Steve shook his head, shivering. "It's cold, for some reason. I don't think that's a good sign. If this doesn't stop soon, we might be in trouble."
+
+"The fabric of time again?" Emline asked.
+
+"Yeah," Steve said. "Whoever's messing with it needs to take a break or they're going to rip a hole straight through. Even time needs time to heal, you know. I've always said it."
+
+"I don't think that wisdom is very well-known," Emline said dryly, hiding the true extent of her worry. She had never seen Steve like this, even when he practiced his strongest chronomancy spells.
+
+Hopefully, Kelegas would be back soon, and then they could figure this out.
+
+When Cale and his friends found themselves on steady footing once more, it was at the end of a massive banquet table. He blinked in surprise, in part at the lavish spread of food, and in part at the fact that they were not, in fact, surrounded by demons and fighting off the end of the world.
+
+Adam's voice—old now, from the far end of the table—spoke up. "I suppose I am unsurprised that it is this moment you would appear in," he said wearily. Cale stared at him. How much had he aged? He had a massive beard now, and his skin was wrinkled and spotted with age. Entire decades must have passed.
+
+"It has been fifty years," Adam told him. "And humanity is about to end. Welcome, Cale, to the feast at the end of the world."
+
+There was a slight pause as Cale stared at him, then at the piece of parchment he had retrieved from his robes. That was the report on what had happened to the University's instructors, presumably. He took it, scanned through it briefly, then turned to Sternkessel.
+
+"I changed my mind," he said plainly. "Can we come back in like three weeks? I think I need a break from all this."
+
+Sternkessel's rings rotated in a way that, impressively, somehow managed to convey the idea that he was raising an eyebrow. "You are certain?"
+
+"Very." Cale glanced at Adam. "You'll be fine, right?"
+
+Adam shrugged. "It is a strange thing you have created," he said. "Truebridge or not, this place will be held in stasis if you leave. There would be little consequence to it, if you need more time."
+
+"Good." Cale noticed everyone else staring at him and made a face. "What? I think we've earned a break! And there are things I need to look into before we get any further with this. This isn't a Vital situation."
+
+"Right," Flia said. She sounded a little skeptical, but Cale thought there was a hint of relief in her tone, which only reinforced his decision.
+
+Though that wasn't the only reason he had changed his mind, of course. He gripped the parchment a little more tightly. Adam hadn't entirely spelled out what caused the so-called end, at least for humanity, but he had included in his report enough of a hint that Cale could make an educated guess.
+
+Just enough, in fact, to tell Cale he didn't have all the magics he needed yet. And judging by the lack of surprise on Adam's face and the knowing glint in his eye...
+
+"Well," Cale said. "We'll see you soon, I guess. Three weeks for me, no time at all for you."
+
+"Indeed." Adam smiled. "I look forward to it. May the Fifth go with you."
+
+"I would really rather she didn't," Cale muttered, mostly to himself. From what Damien had told him of her, that would just create a mess. This was probably just a saying, though, right? She wasn't actually going to follow them back through into the Abyss.
+
+"Are we ready?" Sternkessel asked, his tone oddly gentle. Cale took a moment to look around at the feast Adam had prepared and memorize every detail—the food he had laid out, the ostentatious, golden decorations, the overly-large room. He had the odd feeling it was important.
+
+Adam had prepared for this for fifty years, after all, and he was a clever man. Not all things could be put to writing.
+
+"We're ready," Cale decided. "Let's go home."
+
+Steve let out a breath of relief just as Kelegas hurried into the room. "It stopped," he said as the dark lord approached worriedly. He pushed himself gingerly to his feet. "That was... unpleasant. Feels like it's still there, sort of like an unfinished stitch, but it's not tearing itself open anymore."
+
+"Ah," Kelegas said, slowing his pace, though the worried look didn't leave his face. "You are alright, then?"
+
+"For now." Steve grimaced, rubbing his temples as Emline moved to the dark lord's side and gave him a kiss on the cheek. "I'll let you know if anything changes. Did you learn anything from our new... uh, guest? Prisoner? What is he, anyway?"
+
+Kelegas hesitated. That stuck out to Steve, who had never seen Kelegas hesitate like this on anything that was important.
+
+"I do not know," he answered eventually, and he seemed troubled by that fact. "I have yet to decide if he can be trusted. But regardless, we must act on the information he has given us. If there is any chance at all that he speaks the truth, then this Cale Cadwell Cobbs may be the greatest threat to our plans on Utelia."
+
+"What will we do, then?" Emline asked.
+
+"I will disguise myself as a student or professor of a rival academy," Kelegas said. "Joining Brightscale would bring too much attention, but I believe there will be joint exercises before the tournament, and it will allow me to infiltrate the tournament itself as well."
+
+Emline frowned at that. "You're going to do this yourself?"
+
+"I will not risk anyone else being exposed to Cale or his apprentices," Kelegas said. Whatever he had heard from Echo must have truly worried him. "So yes. Keep things stable in my absence, will you?"
+
+"Only if you keep your rage in check." Emline's voice was soft with concern, and Steve was equally worried, though he couldn't bring himself to voice it.
+
+To operate within the domain of the divine like this would exacerbate the effects of being a dark lord. Kelegas could fight it off more than most, but even he was vulnerable to the anger that came with it.
+
+Could he help? He wasn't technically an aberration, unlike Emline. He could live on any of the other continents without any adverse effect. He was here because he had chosen to stay and help, but if Kelegas was going to get personally involved—
+
+"I'll come with you," Steve said, before he could think twice about it. Both Emline and Kelegas looked at him, and he coughed awkwardly, looking away. "I can't... organize things like Emline can. And I can help keep you in check. If you want."
+
+"I would appreciate that," Kelegas said softly. "Emline?"
+
+"It's a good idea," Emline agreed, smiling at Steve. "Take care of him for me, would you?"
+
+Steve nodded, clenching his fists in determination. "I'll do my best."
+
+Ashvali perked up. There it was! Her opportunity! Cale was returning to Utelia, to her relief—she had been briefly worried, when he had chosen to continue on with the Bitter Path. But he had changed his mind, which not only meant things were back on track, but that she could finally find out what exactly the man was.
+
+Or at least how he reincarnated. That, she thought, would give her some kind of hint about his origin. Probably.
+
+Normally such secrets were obscured from her, but here she had three advantages: one, she needed only to look at a moment within Cale's past, which was well within her domain. Two, Cale and his companions were in the space between the Abyss and the Fog, and in that transitory space there was a weakness in the fabric of the worlds that she could take advantage of.
+
+Three, Cale still hadn't dismissed his [Eyes of Ashvali], which gave her direct access to it.
+
+Excellent. The Fifth Intersection tapped into her eyes, then peered excitedly into what would have been the moment just before Cale's very first reincarnation.
+
+If only she had known at the time what she would see.

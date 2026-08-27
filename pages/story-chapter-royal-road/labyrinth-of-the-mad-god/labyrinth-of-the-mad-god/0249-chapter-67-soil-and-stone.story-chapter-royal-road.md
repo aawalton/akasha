@@ -1,0 +1,97 @@
+---
+id: f849f8e2-9305-5e28-a3ab-dafdda9c4b19
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67: Soil and Stone"
+slug: 0249-chapter-67-soil-and-stone
+partOf: labyrinth-of-the-mad-god
+position: 249
+ownLength: 2015
+unit: words
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2769710/chapter-67-soil-and-stone"
+royalRoadId: "2769710"
+---
+
+When Nick ran into Elizabeth, she let him know there was a change of plans and the committee was meeting outside the city limits.
+
+They were kicking off today’s session by checking in with a team that had formed a few days ago, which would oversee Aurora’s agricultural efforts. “They’re ready to report on their progress,” she explained. “Stan and the others are already there.”
+
+Side by side, they started walking south, following the river that had led them to the lake during their first trek across the biome. Eventually, they turned and began hiking east, taking Nick into a portion of the badlands he hadn’t seen before. Not long after, a large sub-biome filled with lush grass came into view.
+
+“The soil here is considerably more fertile,” Liz said, “and it’s far enough away that it won’t interfere with our plans for the rest of the city.”
+
+“What about the bladewind?”
+
+“Aurora’s domain should reach this region before long. Until then, we’ve come up with another solution. The air mages who are studying the Weather Barrier have learned how to create something similar on a smaller scale. It costs a ton of mana, and they will have to get over here fast if a storm rolls in, but their magic should be sufficient to protect the crops in the short term.”
+
+“That’s fantastic. It’s hard to wrap my head around the idea that our territory will encompass a fair portion of the biome before long.”
+
+He clasped her shoulder as they came to a stop beside the rest of the committee. Stan was conferring with the other engineers on the team, debating the merits of one layout over another. Kerry was chatting with a group that was in the middle of plowing a section of the prairie, and one of Aurora’s air mages was practicing her spellcraft nearby.
+
+Elizabeth introduced Nick to growing team, many of whom he’d already met. The pair in charge of the operation were named Isla and Dan, and they had been farmers back in their old lives. Dan was supervising the plowing, and Isla was showing Kerry a chart displaying which crops were growing where, along with the layout of the fields they were in the process of clearing.
+
+He listened to the explanation with one ear, watching with interest as two people dragged a crude plow behind them—work that would have required a powerful animal or motorized machine back in the old world.
+
+“We’re experimenting with breaking up the soil via magical means too,” Isla explained. “But we want to make sure our first crop is successful, so we’re plowing the main fields by hand until we refine our technique. Some of our people can use magic that influences the growth of plants, but we’re waiting for the results of our test crop before using it on the rest. Both techniques should be ready before it’s time to scale up our production.”
+
+When Nick switched on his mage sight, he discovered the sub-biome was rich in life mana—even more so than the rest of the badlands. He was certain it was playing a role in how fertile the region was, although he had no idea how it worked. Humanity’s life on a magical planet had only just begun. Right now, there were still a dozen questions for every answer and new mysteries were being discovered by the day.
+
+When he asked Isla what they were growing, he learned that in addition to the seeds he had received from Cathy and the flowers he’d collected on Blackmist Bog, the scouts had found potatoes, wheat, and strawberries growing in the wild.
+
+Nick was surprised they had sourced so many plants in such a short span of time, but it made sense after Isla explained where they’d come from. “While the System erased everything manmade and reshaped the planet’s surface, the crops that were growing were untouched. There are plenty of favorites from the old world out there, just waiting for someone to find.”
+
+Before the planning committee returned to Aurora, Isla and Dan provided an overview of the farming team’s objectives over the short and medium term. They intended to get the first harvest in as quickly as possible, while evaluating various options for what to plant next.
+
+Their initial goal was to make hunting and gathering unnecessary, both to save time and effort and reduce humanity’s dependency on meat to promote good relations with their new beast neighbors. Their initial experiments would be completed within the next few weeks, and they would integrate what they’d learned for the second harvest.
+
+Once they were ready to scale up, the team planned to grow enough food to last 10,000 people several months every season—to prepare for Aurora’s expansion and create an emergency supply of provisions. If they wound up growing more than they needed, the city could trade their excess crops with other settlements.
+
+Nick and Liz offered to pull the plow for a while. Together, they dragged the heavy contraption across the rich brown earth, shattering roots and pulling up rocks along the way. It was satisfying to work on such a simple task, breaking up the soil in preparation for planting.
+
+On the way back to the city, the committee discussed their next objectives. “Going forward, we plan to construct most buildings by hand,” Stan began, “saving our CP for regional resources and structures with magical effects that we can’t replicate on our own. Getting running water and sewage treatment in place is our next key goal, and we have some ideas on how we can combine Uncommon vouchers and City Points to make that happen.
+
+“The building crew is almost done with the prototyping phase, so we should see a lot of structures coming up over the next few weeks, although we’ve hit a bottleneck on resource collection until we locate a suitable site for a quarry. Right now, people are hauling stones by hand from across the badlands, but it’s inefficient and it won’t take us long to use up all the loose boulders near town.”
+
+Kerry reported that merchants had moved into the stores Nick had placed and the Token Exchange was receiving steady business. On that note, she had a list of transactions for him to approve, which he processed as he walked. Kenji let him know the training buildings were a big hit and told Nick that he should stop by sometime soon and take a closer look.
+
+“We’ve also found several elite challenges offering Uncommon vouchers,” he reported, “which we should clear sometime in the next few days. In a similar vein, we located some challenges than can be completed without disappearing, so we’re having everyone in the settlement attempt them when they have time to spare.”
+
+Nick decided to complete them too. The rewards were minor compared to the elite challenges he had attempted, but the BP would add up over time, and the species and planetary experience would yield benefits later down the road.
+
+By the time Liz reached the final items on her list, they were almost back to Aurora. “We want to focus on recreational facilities once our initial industries are up and running and everyone is living in communal housing. Some of those crops can be used to make alcohol, and I’ll fill you in on the details later.
+
+“Last but not least, people are putting those classrooms to good use. You should take a look at the courses being offered and sign up for a few. They should help streamline your advancement, and your presence will be good for morale.”
+
+After bidding the others farewell, Nick and Elizabeth stopped by the bathhouse, rinsing off the dirt from working the fields. After a quick dip in the heated pools, they walked over to the mess hall to enjoy a hearty stew one of the cooks had whipped up.
+
+“I can’t wait find out what’s on the menu after the new ingredients finish growing,” he said between bites. “We should check in with Cathy and see if she has anymore seeds to trade.”
+
+They enjoyed each other’s company for a while longer, chatting until one of the scouts found them. It was exciting news. His team had completed one of the key objectives on their list, discovering a prime location to establish a quarry.
+
+When the man was done speaking, Nick rose from the table. “I’ll check it out now and then confer with Ming and her building team. This is exactly what they were hoping for, and I’m sure they’re going to be thrilled.”
+
+Nick followed the scout toward a series of low hills in the distance, which belonged to a sub-biome where the ground was rockier than the rest of the badlands. A survey team Kenji had organized was already in the area, conducting a thorough sweep for hostile creatures and hidden dangers since people would be working in the region for the foreseeable future. Fortunately, there weren’t any beasts living in the sub-biome, and the only monsters they’d found had been killed several days prior.
+
+The spot in question was a wide expanse of beige stone. One of the earth mages was working with the scouts. She explained that the mineral was incredibly durable but extracting it shouldn’t be a problem once they established the appropriate infrastructure and had time to refine their technique.
+
+Since it wasn’t within Aurora’s domain, they were going to establish the quarry the old-fashioned way. Although I suppose that phrase isn’t accurate anymore, since we have bodies that can lift a sizable fraction of a ton and magic that can rearrange earth and stone at will.
+
+The construction crew was thrilled by the news and requested samples as soon as possible. Ming asked Nick to lay down a road as close to quarry as possible—one that could handle the heavy carts required to haul stone to the industrial district. The earth shapers would use it as a template to complete the rest, at which point, transporting raw rock would become a great deal easier.
+
+After checking in with the planning committee, he added the strongest road he could build to the city’s growing transportation grid—wide enough that two wagons could pass each other comfortably.
+
+Discovering the quarry meant it was time to redeem an Uncommon voucher to build Aurora’s first stone masonry. He placed it as close to the site as possible, along the outer edge of the industrial district.
+
+The leader of Aurora has purchased:
+
+1 Stone Masonry (Uncommon).
+
+Nick decided to wait a few hours before taking a closer look so that he could see the structure in action. He walked back over when he heard the hearty clank of chiseling echoing across the badlands. The first delivery from the prospective quarry had already arrived, containing samples from several adjacent deposits to evaluate before committing to a specific site.
+
+The front of the building featured a sliding panel that made it easy to unload wagons filled with stone. There was a loading area on both sides where materials could be stacked and stored—one for unprocessed slabs and one for finished blocks.
+
+When he stepped inside, Nick ran his gaze across workstations equipped with chisels, hammers, and other tools for cutting slabs into the right shape. Some of the masons were earth shapers and could cast spells to create the same effect, and the rest used their powerful bodies to get the job done. Either way, they were able to produce rugged construction materials in a fraction of the time it would have taken before the System arrived.
+
+There was a room in the loft where the crafters were experimenting with various forms of mortar, grout, and cement, trying to develop the strongest possible materials before Aurora’s buildings started coming up in earnest. They had begun the process several days ago and were thrilled to have a dedicated space to perform their tests.
+
+Nick spent a good half hour chatting with his people then continued with his day, stoked to see how much Aurora would grow over the coming weeks.

@@ -1,0 +1,117 @@
+---
+id: a2f77c0f-0c17-53aa-848f-e4cab815a557
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Saferoom"
+slug: 0027-chapter-2-saferoom
+partOf: labyrinth-of-the-mad-god
+position: 27
+ownLength: 1651
+unit: words
+publishedAt: 2024-07-22
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1728039/chapter-2-saferoom"
+royalRoadId: "1728039"
+---
+
+During that moment of disorientation, recent events became jumbled.
+
+The last thing that Nick could remember was racing for the tower with the colossal hound hot on his heels. His eyes snapped open, the whites showing all the way around as fear wrapped icy fingers around his spine and squeezed tight.
+
+His hands shot down to his waist, desperate to arm himself as quickly as he could. He grabbed hold of his wand with one hand and his dagger with the other, searching for enemies hidden within the blackmist.
+
+All the while, the adrenaline pumping into his veins went to war with the haze that had risen to cloud his mind.
+
+As Nick raised his weapons before him, adrenaline won the fight, sending a crackling jolt surging throughout his body that shocked him back to his senses. I was just teleported inside the tower.
+
+It all came rushing back to him. Their victory over the river king, running from the lord of the shadow hunt, and being shunted through the tower’s transportation network. Nick had experienced a similar state of discombobulation several times before, a phenomenon that he had begun thinking of as portal sickness, although this was the most jarring experience by far.
+
+The portals powered by the tower must operate by a different mechanism than those provided by the System. Those conduits felt like a fundamental part of its architecture rather than something coming from outside. The momentary confusion must be some kind of side effect.
+
+By this time, Nick had processed two critical details of his environment. The first was that he was standing in a small room formed from grey stone blocks. The second was that he was alone. Where are Sophia and the others?
+
+For a moment, he was terrified that he was the only one who had made it to safety. But then he remembered that she was holding his hand when they went through the door. The others were nearby when the mist hit us. She must have led them in then come back to get me.
+
+He let out a long sigh of relief. This must be another saferoom. Hopefully, everyone will be waiting for me when I leave. All in all, Nick decided that this was good news. At least in the sense that nothing was trying to kill him, which was a rather different situation than the one he’d left behind.
+
+Better still, his painful collection of wounds had vanished without a trace. Moving his arm no longer hurt, and his bones no longer seemed to be broken. As promised, the System had provided full healing to everyone on entering the tower.
+
+The others should have been restored too, including Kenji’s arm. But that was way too close for comfort. While he couldn’t be certain that the rest of his party was safe, there was ample reason to believe they were fine. The quest had promised that the people who entered the tower together would climb it as a group, so there shouldn’t be any reason to worry.
+
+Now that Nick had regained his wits enough to realize that he was standing inside Darkstone Tower, he began looking for a block of text floating in the periphery of his vision. The System’s update to his fate of Earth quest, and the rewards for completing the first stage.
+
+To his surprise, it was nowhere to be found. Even when he willed them into existence, his menus refused to open. Confused, he took a closer look at his surroundings.
+
+He was standing in a stone chamber the size of a small studio apartment. There was a bed in one corner, a toilet in the other, and a pitcher of water sitting on a nightstand beside an empty glass. It was a far cry from his luxury penthouse in the sky, but the furniture looked comfortable enough, especially compared to sleeping on the ground.
+
+That was when he spotted a recessed area set along the far wall. Within the nook sat a miniature obelisk, like the one Nick had found on top of the mountain back on the Searing Isle.
+
+Although he strongly suspected that he was safe, at least for the moment, he crossed the chamber with caution, on guard against traps, concealed enemies, or anything else that Taltos or the System decided to throw at him today.
+
+An anticlimactic ninety seconds later, he found himself standing in front of what he had come to see as a tiny avatar of the incomprehensibly vast System.
+
+When he looked down at the onyx statue, Nick caught sight of a display set into the wall beside the obelisk, oriented like a plaque in front of a museum exhibition. The System must have put it here so that we can read our quest updates, even if we already accessed our menus today.
+
+Never one to turn down free information, he reached out and activated the display. What he read let him relax completely. It turned out that he was safe after all.
+
+As a reward for completing the first stage of the quest. ‘The fate of Earth,’ you have been granted a 6-hour rest period in a basic quality safe room.
+
+Time remaining: 5 hours 55 minutes.
+
+Notifications (4)
+
+Quest updates (1)
+
+Nick scrolled past his notifications for now and pulled up the questing menu, eager to discover what the System had in store now that Taltos’s challenge had entered its second stage.
+
+Quest: The fate of Earth.
+
+Stage one complete.
+
+Congratulations. You have survived the perils of Blackmist Bog and entered the tower with a party more or less of your choosing.
+
+He cocked an eyebrow at the odd choice of phrasing. It seemed that the System was growing more… colorful in its messaging over time.
+
+Stage two: Climbing the Tower of Rizzen.
+
+The details for this stage are as follows:
+
+Goal: The goal of this stage is to clear three full floors and then emerge onto the roof, where all surviving contestants will battle the tower’s guardian at once.
+
+That last bit was interesting, but pondering the full implications of the message would have to wait, as the next block of text was more pertinent to his immediate situation.
+
+Tower rules: Each floor of the tower has its own unique rule(s), as well as multiple exits, each leading to a different floor. The first floor has been chosen at random.
+
+At the base of each staircase, a display will be mounted to the wall with the rules for the adjoining floor listed on it. Completing each floor will provide a reward, and each level will be more difficult than the last*.
+
+You will begin each floor in a safe room, which will be free of all forms of danger. The contents and duration of the safe room will be determined by your performance of the previous floor.
+
+In addition to being able to access your profile once a day as in the last stage, you may browse it without restriction while standing inside a safe room.
+
+Got it. Wait, was that an asterisk? That can’t be good.
+
+While this observation was generally true, in this case, Nick’s fears were unfounded, at least for the most part. While the symbol’s implications were a bit of a mixed bag, the details were a great deal more promising than he’d feared. As he read them, he let out a breath he hadn’t realized he was holding.
+
+*You have discovered a secret entrance leading to the tower’s basement (the first of four floors). This is a bonus floor that follows the same rules as the others with one exception. While the difficulty of the basement is equal to that of the second floor, the reward it provides is equal to the third.
+
+Floor rules:
+
+A high tier reward at just a fraction of the danger. Could be a lot worse. It seems that Sophia uncovered a valuable opportunity for us. I’ll have to thank her later.
+
+In retrospect, Nick wasn’t surprised to read that the tower’s staircases were actually portals, since it was in line with what he’d seen in his vision. Besides, there was no way that he would have been able to reach the top after climbing only three or four floors. Not when the tower held thousands or more.
+
+The strange arrangement had to be the legacy of the tower’s builder, the mage named Rizzen, who appeared to be some sort of spacial magic specialist. While having found a bonus level was generally good news, he didn’t care much for the rules governing the basement, which seemed designed to make him feel pressured. We should get out of here as fast as we can once we find each other.
+
+After reading the quest’s details for a second time while recording them into his journal, Nick moved on to the final page of the questing menu.
+
+You have successfully completed the first stage of the quest, ‘The fate of Earth.’
+
+The overall performance of team Earth has been rated as: strong.
+
+Your personal performance has been rated as: impressive.
+
+For completing the first stage of the quest, you will receive part of your reward now. The rest will count toward increasing the rarity of the reward package that your entire team will receive after completing the final stage.
+
+The current value of team Earth’s reward package is [silver]. The maximum value for this quest chain is [platinum].
+
+You have earned a silver quest reward chest and have received a modest bonus to your essence and experience. Additionally, your team has earned a small bonus to your species experience. You may open the chest at any time to receive your prize.
+
+While some of this information was totally new, the word ‘chest’ was something that Nick had no trouble understanding. Before he thought about everything else he’d just read, it was time to see what he’d won.

@@ -1,0 +1,95 @@
+---
+id: 084b20f4-d814-5501-a03c-b7b7a4d17d9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: City Boss"
+slug: 0212-chapter-30-city-boss
+partOf: labyrinth-of-the-mad-god
+position: 212
+ownLength: 1720
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2539358/chapter-30-city-boss"
+royalRoadId: "2539358"
+---
+
+Nick and Liz awoke before dawn. They wolfed down some dried provisions instead of preparing a proper breakfast and got ready to head out.
+
+With both moons hanging full in the sky, it was bright enough to pick out a path along the dusty red plains, and neither of them wanted to waste a second. The duo planned to push themselves hard until they reached the lake, which should be less than a half-day away. Once they arrived at the heart of the badlands, they would meet up with everyone who was already in the area and start looking for a boss.
+
+After that, they just needed to come up with a plan and take the construct down, and it would be time to start building. Nick smiled when he noticed dozens of footprints running along both sides of the river, many of which were less than a day old.
+
+We must have passed some people who were using Blend into the Background without even realizing it. It’s going to take a few days to wrap my head around the idea that our entire species is way stealthier than before.
+
+When he checked his quest menu, he saw that over fifty bosses had already been defeated worldwide. It was mostly Town bosses, but a few City Bosses had been eliminated too, which meant his team needed to work fast if they wanted to claim one for themselves.
+
+The sun rose not long after and two hours later, Nick heard a faint humming in the distance. At first, he thought it was a natural feature of the badlands, or maybe an effect produced by a magic-using animal or plant. But when the sound grew louder over the next few minutes, he realized what was going on.
+
+“That must be the warning the System mentioned.” Liz mirrored his train of thought. “We’re approaching the territory of a boss.”
+
+“Since we’re already here, we might as well take a look. After we learn what we’re dealing with, we can share our findings when we join up with our people and then put our heads together on how to kill it.” She nodded her agreement, and they continued on their way, using the sound to orient themselves on the boss ahead.
+
+When the humming stopped growing louder, they knew they were getting close. They turned on Blend, walking side by side so they knew exactly where the other person was and didn’t have to worry about losing track of their position. By now, they were drawing near the base of an oblong hill that rose a hundred feet above the badlands—a perfect place to scout the surrounding terrain.
+
+When they reached the top and Nick pulled out his spyglass to peer into the distance, he caught sight of the lake at last. It was a massive body of fresh water—at least five miles wide in the middle. There were three other rivers branching off from it, which made him wonder where the flow originated from, since there weren’t any mountains close enough to contribute runoff from the snowpack.
+
+Regardless of the details, this looks like a perfect place to found a city. I can’t wait to get closer and take a better look. Nick’s excitement was dialed up another notch when he noticed tents spread out along the lakeshore and the distant profiles of people. Everyone else was thinking the same thing after all. Good. I have no idea how strong these bosses are, and I’ll feel a lot better having some of our best and brightest fighting by my side.
+
+He was so happy to see more members of Team Earth that he’d forgotten why he had climbed the hill. He remembered when Liz grabbed his hand to get his attention, then pointed while holding a finger to her lips and entering mana stealth.
+
+Nick’s eyes widened when caught sight of a creature the size of a barn—a giant green bird with the head of a snake. It was busy fishing in the river, plunging its scaly head below the water to pull out fat fish longer than his outstretched arms before swallowing them whole.
+
+The creature’s chimeric appearance caught him by surprise. What the fuck? I don’t care how fast the beasts are evolving—that one isn’t native to Earth. For a second, he thought it might be a monster or something from another dimension, but he learned it was a boss after all when a message from the System appeared.
+
+System Message: Quest Update
+
+You have discovered a City Boss.
+
+Designation: Feathered Serpent.
+
+This construct is a replica of a beast called a granger. They are intelligent, highly aggressive predators with venomous bites that can cast a variety of wind-aspected spells.
+
+Difficulty: 3.5 stars.
+
+Nick waited until the message faded, then focused on the granger, which was in the middle of devouring a particular beefy fish. He had been hoping the System would provide some additional details, but none were forthcoming. He wasn’t sure if he wanted to fight the big bird, but that didn’t stop him from contemplating the best way to kill it.
+
+I didn’t consider the possibility these bosses could fly. This will be tricky opponent to beat head-on, since it has long-range magic and is insanely mobile. Our best bet is to lure it into a trap or ambush and clip its wings. Thank god it’s not a roaming monster and we won’t have to worry about being attacked from the air once we leave its territory.
+
+On the bright side, the construct didn’t seem to be able to spot them while Blending—at least from this far away. Since it didn’t know the duo was there, he took advantage of the opportunity to get a better sense of how powerful City Boss were.
+
+It was clear at a glance that the star ratings for bosses weren’t comparable to the values the System used for challenges and events. It reminds me of a raid boss from the games I used to play. He smiled at the memories that thought evoked and then returned his attention to the task at hand.
+
+The granger’s level was too high for Size Up to provide the details, but the skill let him know that while the creature was dangerous, it wasn’t nearly as strong as the Guardian of Darkstone Tower. Nick let out a sigh of relief. That fight had only been winnable thanks to the buffs he’d received from the elite members of Team Earth along with an assist from the planet itself.
+
+When he looked over at Liz, he could tell she was thinking the same thing. He shook his head to clear his mind, then finished his evaluation.
+
+Those talons look sharp and I’m sure its venom is lethal. But the real problem is those wings. It can use wind magic to bombard us from above and it will be hard to hit something that’s moving that fast. As far as I know, no one on Team Earth can fly, although who knows what the future will hold?
+
+The mana in the creature’s core blazed bright in his mage sight, but not as intensely as the tier-2 enemies Nick had defeated. After evolving and picking up Rare classes, he thought that if his old party joined forces with the elite unit Kenji had with him on the tower, they would have a decent chance of taking the granger down. And it looks like we’ll have a lot more people than that. But if a City Boss is this strong, how powerful will a Capital Boss be?
+
+Something had been bothering him for the last few minutes, and as that thought crossed his mind, he figured out what it was. The humming in the air wasn’t the only sound he could hear. A second chime was ringing too—lower pitched than the first—and a faint rumbling was conducting through his boots.
+
+While Nick was still processing the significance of that observation, the situation changed in the blink of an eye.
+
+One second, the granger was stretching out in the sunlight after enjoying a heavy meal. The next, the ground parted like water and a prehensile tongue the size of a redwood tree emerged from the soil.
+
+Everything happened so fast the bird-snake didn’t see it coming until the last possible second. It flapped its wings and took to the air, but before it could gain much height, the rubbery appendage struck.
+
+It wrapped around the granger’s body, pinning its wings to the side. The creature screamed, biting at the tongue while preparing to cast a powerful spell, but it was already too late. The owner of the appendage breached the surface for a fraction of a second as a behemoth rose from below.
+
+The immense tongue pulled the unfortunate construct toward an armored mouth the size of warehouse. In a flash of ivory teeth, one of the chimes cut off and the City Boss was gone—killed in a single strike. The colossal predator arched its body and then dove below the ground, revealing enough leathery gray skin to make winter coats for a dozen blue whales before vanishing without a trace.
+
+Everything had happened so fast that Nick didn’t get a good look at the gigantic creature. As he stood there—slack-jawed with astonishment—another message from the System appeared and the ringing cut out a few seconds later.
+
+System Message: Quest Update
+
+You have discovered a Capital Boss.
+
+Designation: Armada Wurm
+
+This construct is a copy of a creature called a yadras—a fearsome burrowing beast that is the apex predator of its planet. In addition to its immense size and powerful defenses, yadrases form a symbiotic relationship with a variety of blood-sucking beasts that live inside its protective shell. In exchange for feeding from its body, these creatures will defend their host when it is threatened and can be quite dangerous in their own right.
+
+Difficulty: 5 stars.
+
+Elizbeth and Nick waited for a few minutes, just to be sure it was gone. Then they turned Blend off and turned to face each other while processing what they’d observed.
+
+Before either of them broke the silence, a familiar voice reached his ears. “That’s one hell of an earthworm, isn’t it Nick? But something tells me you’ll find a way to kill it anyway.”

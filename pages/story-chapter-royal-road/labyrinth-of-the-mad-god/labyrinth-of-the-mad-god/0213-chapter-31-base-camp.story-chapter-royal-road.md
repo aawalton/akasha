@@ -1,0 +1,95 @@
+---
+id: 54d9243a-ff8d-545e-8539-ffd75759d3ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Base Camp"
+slug: 0213-chapter-31-base-camp
+partOf: labyrinth-of-the-mad-god
+position: 213
+ownLength: 1946
+unit: words
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2547275/chapter-31-base-camp"
+royalRoadId: "2547275"
+---
+
+Nick smiled wide when Kenji wavered into existence, then stepped forward to clasp his hand.
+
+“Kenji, just the man I wanted to see. I think that one is a touch too big for me and Liz to tackle alone, but I’m sure the three of us can get the job done.”
+
+They both got a good laugh out of that. The men tightened their grasp and stayed like that for a few seconds, taking the measure of each other now that the fate of the world wasn’t hanging in the balance.
+
+Nick had last seen the battle-scarred strategist on the roof of Darkstone Tower—where they had only been able to exchange a few words before Talos arrived, lost his challenge, and the System whisked them away. He already knew Kenji’s right arm had grown back after losing it to the River King, but feeling the power in his grip was a weight off Nick’s mind.
+
+Like everyone on Team Earth, Kenji had changed dramatically since the men had fought beside one another in the Grand Arena of Papillion. Back then, he had been an athletic, middle-aged gentleman—covered in scars that predated the arrival of the System.
+
+Now, Kenji’s body radiated vitality, and he was almost as muscular as Devin. After evolving, he looked ageless rather than middle-aged, which Nick supposed made sense. The System reset his age to fifty during integration, and now our lifespan is close to two hundred. That makes fifty the new twenty-five. Man, what a trip.
+
+Nick was thrilled to have run into one of Team Earth’s pillars—someone who could help organize their forces before tackling the Capital Boss. He took advantage of the opportunity to check out the man’s evolved body and upgraded gear. Kenji had medium skin and angular features. He had been bald before, but now had a full head of black hair, although he’d trimmed it short. Nick thought he was Japanese, although he hadn’t inquired about the details of Kenji’s past.
+
+He was wearing a steel breastplate and chainmail, which must be magical, since they remained whisper quiet even when he was moving. The warrior had a shield and spear hanging from a strap attached his back—tiny tools that looked like toys. Nick recognized the spear, since Kenji had made it from the horn of the fallen rhino they’d fought in the arena. That strap must have some kind of storage magic.
+
+“Thanks for that pill.” Kenji pulled on Nick’s arm and drew him in for a hug. “Evolving early let me tackle several tough challenges while crossing the badlands, and now I have a head start on Grade-C. Kerry, the boss is gone now. Stop wasting your Blend.”
+
+With that, a second figure wavered into existence. It was a woman who was in the middle of taking notes—so focused on what she was writing that she hadn’t turned his way. He realized he recognized her. It’s Kerry, the merchant who copied my journal at the base of the tower right before shit hit the fan.
+
+Kerry’s appearance reminded Nick that he wasn’t alone either. “Let me introduce Elizabeth, my travelling companion for the last several days.” Kenji bowed and then shook Liz’s hand. It turned out that they had met briefly on several occasions, but didn’t know much about each other. When Kerry finished the page she was annotating, she introduced herself and then turned to face Nick.
+
+“I’m happy you’re here. After that performance on the rooftop, your presence will be a big boost to morale.”
+
+“Thanks. I’m glad you made it through the tower and survived the battle for Earth.”
+
+“Come on.” Kenji gestured toward a rocky rise in the opposite direction of the lake. “Let me show you where we’re camped, then we can discuss what to do about our city situation.”
+
+Nick walked beside Kenji as they descended the hillside. Kerry was scribbling away in her book and Liz seemed content to let the men catch up while she took in her surroundings, although he suspected she was devising plans of her own.
+
+As they crossed the stretch of yellow soil ringing the base of the hill, the men swapped stories of their adventures, filling each other in on what had transpired while the other was away. Kenji was astonished by Nick’s battle with the Crimson Blight and Nick was proud to hear how hard Team Earth had fought before he’d joined the battle with Devin at his side.
+
+He was thrilled to learn Earth’s elites had obtained so much experience in fighting as a team. It would come in handy while dealing with the boss and defending their city after. It turned out that Kenji knew the answer to one mystery that had been on Nick’s mind since before the battle for Earth—the identity of the first person to evolve to Grade-D.
+
+“Her name is Ella. She’s the woman who jumped off Darkstone Tower to retrieve the Guardian’s staff. She’s a centennial like me—one of the individuals who was over one hundred when the System arrived and restored us to our prime. I haven’t seen her since, but I would be astonished if she chose to start somewhere other than the badlands, so I’m sure we’ll run into her within another day or so.”
+
+When Nick asked Kerry what she was doing, he learned her meticulous notes were for a book she was writing. In addition to her commercial inclinations, she wanted to document the historic events of the past few months, so a record would exist for future generations.
+
+While the men chatted the women followed behind, Kenji led Nick toward a small mesa. He wasn’t sure why Team Earth had chosen it for their base camp at first, but the towering expanse of red rock had a surprise inside. Instead of being solid stone all the way through, this mesa was a ring containing an open area that was sheltered from the bladewind.
+
+Countless footprints crisscrossed the dry earth along the approach, and he could hear the murmur of voices well before their owners came into view. Even still, he was surprised when he stepped through a crevice and found hundreds of people camped inside.
+
+It turned out that Kenji had ambitions that rivaled Nick’s own and could even give Elizabeth a run for her money. The man who had served as humankind’s general during the decisive battle had arrived at the lake a few days ago, having landed considerably closer after his orbital descent.
+
+He had been collecting everyone he could find, setting plans in motion in preparation for the start of Rebuilding Civilization. This must be at least half the people who were fighting on the roof of Darkstone Tower.
+
+Nick ran his gaze across an assembly of some of the strongest people on the planet. Although there might be larger groups acting more like conventional armies who have us beat in sheer firepower. We’ve been gone long enough for organizations to start scaling up their efforts.
+
+Everywhere he looked, people were sitting and talking, resting and eating. Even more were hard at work preparing themselves for the ordeal ahead. There were teams sparring in rings of rock that had been arranged along the ground. Another group was firing off spells and projectiles at a series of logs someone had erected to serve as targets.
+
+A contingent of crafters was repairing equipment, and there was an impromptu market set up in the shade where people were swapping various items they had made or found during their adventures. Food was being provided free of charge, thanks to the efforts of some skilled hunters, and water wasn’t a problem given the proximity of the lake.
+
+More people were camped out along the exterior of the mesa, offering them some privacy while staying close enough to take shelter when the next storm rolled through. Kenji told Nick to take a quick look around, then come back when he was ready to discuss their plans to eliminate the Armada Wurm.
+
+It didn’t take long for him to spot some familiar faces. Sarah, Bret, and Paul were in one of the groups who were vigorously sparring—members of his team back in the Grand Arena of Papillion. Shaun was over at the shooting range, practicing with the wind bow they’d claimed from the pirates on the second floor of the tower.
+
+“Where are Devin, Veronica, and Sophia?” Nick asked.
+
+“Devin and V are camped on the other side of that wall.” Kenji pointed. “I haven’t seen Sophia, but Devin met up with her while they were crossing the badlands.
+
+Before Nick could run off to reunite with his team, Kenji stopped him with a hand on his shoulder. “Just a minute. Since most of us are here right now, there’s one thing we need to take care of first.”
+
+Kenji gestured to a woman who was standing nearby. She nodded and mana went flowing out of her core to suffuse the enclosure. Nick wasn’t sure what was happening, but when Kenji next spoke, his voice carried like he was hooked up to a microphone.
+
+“Everyone, could I please have your attention for a few minutes? I have some exciting news to share.” The crowd paused their various activities, turning to face his voice. It was clear from their behavior that the strategist commanded considerable respect among Earth’s elites—relationships he’d begun building in the communal safe room while Nick and Devin were visiting the craft world Velen.
+
+“Don’t worry, it isn’t another bladewind warning—I just wanted to share some good news. We’ve found another one of Earth’s champions, and he’s just in time to join us on our hunt for the Armada Wurm. Everyone, please give a warm welcome to a man who needs no introduction. A member of the dynamite duo who defeated the Guardian of Darkstone Tower, Nick the Silver!”
+
+Silver? That was all the time for surprise Nick had before the crowd erupted into raucous cheers. People were screaming, slamming their weapons into the ground, and beating their fists against their armor. The cheering soon turned into a chant. “Silver! Silver! Silver!”
+
+He was shocked by the development and tried to slip away, but Kenji’s vicelike grip on his shoulder tightened—like the man knew exactly what he was planning. “Sorry, Nick.” Kenji grinned in a way that made him question the sincerity of that statement.
+
+“Like it or not, after that last-minute save on the tower, you and Devin have become more than just men—you’re symbols of humanity’s rebirth. It’s probably going to take some getting used to, but right now, they need this. To believe we have what it takes not just to survive, but to thrive in the new epoch blossoming before our eyes.”
+
+Nick spotted a deeply amused Liz watching from the crowd, wearing an expression that screamed, “I told you so.”
+
+Devin and Veronica had heard the commotion and came running into the enclosure. They threw their arms around him, drawing him in for a group hug that creaked his ribs. “So.” Devin grinned. “You might have noticed that you have a nickname now. We both got colors. Mine is crimson, which is obviously cooler, but silver isn’t half bad.”
+
+V laughed at the grimace on Nick’s face. “Don’t complain. You almost wound up being called Nick the Pure.” Eventually, the cheering died down and everyone went back to what they’d been doing before Kenji grabbed their attention.
+
+Nick waved farewell to Kenji and Elizabeth, then followed his friends over to their campsite, where there wasn’t so much noise. He was eager to catch up and enjoy their company, now that the gang was back together again.

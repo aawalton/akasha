@@ -1,0 +1,155 @@
+---
+id: 6754b536-8146-5241-8225-1252a785ed6a
+page-type-slug: story-chapter-royal-road
+title: "746. Leaderless Nerosal"
+slug: 0035-746-leaderless-nerosal
+partOf: leveling-up-the-world
+position: 35
+ownLength: 2028
+unit: words
+ownProgress: 2028
+publishedAt: 2023-05-17
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1216366/746-leaderless-nerosal"
+royalRoadId: "1216366"
+markedReadAt: "2026-06-29T22:41:22.287Z"
+---
+
+Passing through the provincial capital was the smart choice. Dallion’s life would have been a lot easier, not to mention it was likely he’d get quite a few generous gifts from the archduke and nobles there. Being a mage was always a big deal, amplified considerably after the end of the internal conflict that had wrecked Wetie.
+
+Dallion chose to send a courier letter instead, informing the archduke of his visit. That was he was in the clear, since he’d addressed the rightful ruler first. Of course, the visit was going to take place on the way back from Nerosal. This way, no one could afford to openly cause trouble, and Dallion could enjoy a bit of anonymity for a while.
+
+If Nil were here, he’d tell you that’s a terrible idea, the armadil shield said. I fully approve of it.
+
+“I’m sure you do.” Dallion kept on flying. He had made sure to draw a few illusion symbols on his robe, hiding the fact that he was a mage. The only people who could tell were other mages and the occasional noble with a kaleidervisto. Since artifacts were far from fashionable, the chances of the latter were incredibly small.
+
+As we went over the land, Dallion saw the scars that the war between Priscord and Lanitol had caused. The issue wasn’t the cities: those were quickly repaired. The minor villages, and the wilderness itself, were at times changed beyond recognition. Hills, mountains and forests were severely impacted, sliced up by Moons know how many line attacks. Every so often there would be large clusters of craters—now filled with rain water—where none had been before. Here and there, even field fortifications were visible, left abandoned.
+
+Amateur stuff, the shield said.
+
+“Which side?”
+
+Both of them. The positions are bad for both attack or defense. If it were me, I’d—
+
+They used chainlings, a melody of sounds interrupted. Never using her own voice, this was the way the harpsisword preferred to communicate.
+
+“Chainlings?” Dallion split into instances. “Are you sure, Harp?”
+
+They’re long gone now. Whoever used them tried to cover things up, but they still left traces.
+
+Dallion took the guardian at her word. He himself wasn’t able to see even a hint of chainling presence, and neither could Nox.
+
+“I’ll keep an eye out. Thanks.”
+
+The guardian didn’t respond, but Dallion felt warmth emanating from her in his realm. Even if less talkative, the nymph was still looking out for him.
+
+The city of Nerosal seemed like a shell of its former self, as if a puppy had grown two sizes larger, then shrunk again, causing its skin to get baggy. Almost the entire section between the city itself and the outer walls were ill kept and empty. The countess had probably used the area as a troop staging ground. Now that the fighting and armies were gone, she hadn’t bothered to fix things, leaving her successor to deal with it. Barracks and watchtowers were left abandoned, no longer worth more than the materials they were made out of. Ironically, this was closer to the Nerosal Dallion was familiar with.
+
+Landing a safe distance from the outer gate, Dallion made one final check to be sure that his illusion was still in effect, then started the long walk to the city. Soon enough, the sensation of millions of guardians swept over him. It took him a few moments to get used to the sensation. Even with the missions Katka sent him on, it was rare that he went somewhere with so many guardians in one place. The thought of putting on his blocker ring came to mind. In the current situation, doing so could turn out to be rather risky. Conflicts tended to make nobles paranoid, and Dallion didn’t want to start on the wrong foot.
+
+A squad of twenty soldiers was standing at the city gate. All of them were awakened, and based on the wounds, gear, and calm demeanors, they had seen more than their fair share of fighting. Spotting Dallion, one of them made a sign for the otherworlder to approach. The rest didn’t seem to mind, but Dallion noticed that a few of them were discretely holding the hilts of their weapons.
+
+“Hunter,” Dallion said, showing his hunter’s emblem.
+
+“Hunter?” One of the soldiers asked. He was in his forties, and fortunately, wasn’t someone that Dallion had met during his time in the city. “What brings you here?”
+
+“The usual.” Dallion shrugged. “There’s always business after wars. I thought I’d see if anyone needs my services.”
+
+One of the soldiers gritted his teeth.
+
+“What’s your level?” the first soldier asked.
+
+“Enough to handle most things. Pretty much anything except a dragon.” Dallion deliberately split into a dozen instances, to prove his point.
+
+The display was impressive enough to attract attention, though not to the point of causing alarm. Deep hatred emanated from the soldiers. Most likely they didn’t hold any loyalty to the former countess, but still saw Dallion as a vulture who was quick to swoop to the city now that the danger was over.
+
+“I’ll see to him personally,” a female voice said. A figure entirely in black had appeared five steps from Dallion.
+
+Several of the soldiers drew their weapons. Upon seeing who it was, they quickly sheathed them again, moving back with a bow.
+
+“Overseer.” The highest-ranking soldier—captain by the looks of his uniform—stood to attention. “We didn’t want to trouble you.”
+
+“Fresh skills never trouble me,” the overseer said. “It’s been a while since there were hunters in Nerosal. I’d welcome the bad streak to come to an end.”
+
+“Yes, overseer.” The captain gestured for his men to move aside.
+
+Dallion waited until they had done so, then calmly walked forward.
+
+“Thank you for greeting me in person, overseer,” he whispered as he reached her. “I feel honored.” The last time they had seen each other, she was trying to capture and kill him on the countess’ orders. Now, she couldn’t, even if she wanted to.
+
+“Nerosal is always happy to welcome its former heroes,” she whispered back. “Especially when they come from the Academy.”
+
+“I guess news travels fast.”
+
+“Not so much. Still, I manage to hear things.”
+
+There was a time when Dallion was in awe of her power. Half human, half chainling, the overseer was the embodiment of the city’s guardian. There weren’t many things within the domain of Nerosal that she wasn’t aware of. Without a doubt, she had sensed Dallion’s presence the moment he had stepped through the outer gate. To make things more complicated, she was also the great aunt of his Dherma friends and a close friend of his grandfather. Technically, she was over eighty years old. However, that didn’t matter—time had stopped mattering for her ever since she’d become the being she was today.
+
+“The streets look the same,” Dallion said as they walked. “I was expecting a lot more buildings to have popped up.”
+
+“There were a few, but Archduke Priscord took them when she left for her new province.”
+
+“Well, she always was pragmatic.”
+
+“She would have taken the castle as well if it wasn’t for what’s hidden beneath it.”
+
+Dallion tried to imagine that. He could actually picture it: one great crater in the middle of the city, while Priscord abused her influence to have the building and all underground dungeons transported north.
+
+“Who’s in charge now?” he asked.
+
+“That’s a bit tricky. Officially, Archduke Linatol must designate a count to take over the city. Given that it still rivals the provincial capital, there aren’t too many nobles willing to take the post.”
+
+Only nobles could have such problems, Dallion thought.
+
+“Until that’s done, I’m in charge, along with the generous assistance of the Order.”
+
+Several voices yelled at Dallion in greeting. They weren’t people, though, but guardians who still remembered him from the time he’d frequented Nerosal adequately. It was almost comical that his spells and the countess’ limiting echoes weren’t able to hide him from a bunch of buildings and household items.
+
+Gradually, the road got louder and louder, becoming an all-encompassing wave. Dallion dedinitely didn’t miss this. Then again, he had long since trained his mind to ignore anything that he didn’t deem important.
+
+“A new bishop arrived, along with his very own citadel,” the overseer added. “If I knew who you were, I’d suggest going to see him as quickly as possible, but I suspect you have other things in mind.”
+
+“Yeah, yeah I do.” Dallion paused.
+
+The smell of freshly cooked awakened food hit his senses. It was a stark difference from what he was given at the Academy lately. In order to get mages used to field conditions, the archmage had ordered that the food provided be the most basic of the basic. Considering that a large part of the mages came from wealthy and even noble families, “basic” was a nuanced term. Yet, that was only valid for those with an awakened level of twenty or less.
+
+“Are any of the Icepickers still around?”
+
+“Funny you should ask. Your old guildmaster is one of the people Archduke Lanitol is considering giving the city to. In the past, that would have been unimaginable, but war makes strange bedfellows.”
+
+“And the rest? Estezol? Vend? March?” Dallion waited for several seconds. “Adzorg?”
+
+“Vend and March were officially pardoned, so they should be here somewhere. I’m sorry to say that I still haven’t rebuilt the guildhall. The guardian is still alive… in a terrible shape, but alive. Maybe you can restore him?”
+
+“Yeah, I can do that later.”
+
+“Later works as well.”
+
+“And Adzorg?”
+
+“Spike’s here,” the overseer continued, as if ignoring his question. “He’s become a major nuisance. Not enough to have anyone do something about it. A few more of your guildmates could be found doing odd jobs. As for the old man, I have no idea.”
+
+Something in the way she said it made Dallion suspicious.
+
+“I could never tell when he was here and when not. I know that he was before the poison plague, but what happened after that…” the woman shrugged.
+
+Yet again, the old man was a step ahead. Not that Dallion expected anything less.
+
+“I’m sure he’ll show up,” Dallion said. “He usually does. Anyway, I think I’ll go rest.”
+
+“You can go to the palace,” the overseer suggested. “It’s empty.”
+
+“Thanks, but I think I’ll go to the gremlin. Hannah’s still here, right?”
+
+“Yes.” Disappointment rang in the woman’s voice. “She’s still here. Not sure how she’ll react when she sees you.”
+
+Dallion didn’t either. Once he and the overseer said their goodbyes, the woman vanished in mid-air, just as suddenly as she had appeared. It was only then that Dallion noticed that the people on the street weren’t staring at him. Even in a city the size of Nerosal, people would pause what they were doing to see who their overseer was talking to. That is, unless she had made sure that they didn’t.
+
+Thanks for the gift, Dallion thought. No doubt this way her apology for what happened last time.
+
+The Gremlin’s Timepiece, was just as Dallion remembered it. A few empty tables were placed outside, probably in anticipation of the new city ruler. A single patron—one of the regulars Dallion had served ages ago—sat at one, drinking a large quartz glass of wine.
+
+She kept your glass, the armadil shield said.
+
+No, that’s not my glass. It’s just one like it.
+
+Standing here, a feeling filled the air. If he concentrated, Dallion could almost imagine back to the time he was a low-level awakened arriving in the big city for the very first time. He had no job back then, barely any money to speak of, and a set of village clothes he had kept on mending non-stop during his trip through the wilderness. Hannah had offered him a job and a place to stay. It could be said that Dallion owed everything to her. In turn, he had let her down more often than not, and now he had come to take away one of the people she valued the most.

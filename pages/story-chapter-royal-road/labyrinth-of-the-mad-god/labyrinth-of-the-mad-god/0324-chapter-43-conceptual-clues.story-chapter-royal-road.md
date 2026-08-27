@@ -1,0 +1,89 @@
+---
+id: c3965e7a-02bd-5440-8315-8d8548068555
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: Conceptual Clues"
+slug: 0324-chapter-43-conceptual-clues
+partOf: labyrinth-of-the-mad-god
+position: 324
+ownLength: 1650
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3628195/chapter-43-conceptual-clues"
+royalRoadId: "3628195"
+---
+
+Over the next two days, Nick’s party navigated the sea of skeletal trees while searching for the Storm Lord’s lair.
+
+Time was of the essence, but the party needed to grow stronger if they wanted to defeat the dreadbeast monarchs and emerge from this ordeal without losing anyone along the way. They left the biome’s beasts undisturbed unless the creatures attacked first, but the monsters were fair game.
+
+Congratulations. You have accumulated enough experience to reach level [41].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+You have 2 free attribute points awaiting allocation at your discretion.
+
+Through use, you have improved the following skills:
+
+Sense Hostility has increased from [5] to [7].
+
+Stealth has increased from [17] to [18].
+
+Vital Energy Manipulation has increased from [22] to [23].
+
+You have accumulated sufficient essence to advance Force Armor to Rank 1. However, you lack the understanding required to advance the ability at this time.
+
+After putting his free points into Toughness, his modified value was 53. By the time he maxed out his conditioning, his odds of suffering a fatal blow would be significantly lower, particularly with Force Armor added to the mix. Thanks to his rapid progress, Nick was getting close to unlocking his Vital Energy Manipulation trial. Completing it was critical to his advancement, although he wasn’t confident that he could pass it just yet.
+
+While they travelled, the team devoted considerable time to contemplating the creatures that were threatening this world.
+
+Bandit believed each dreadbeast had its own strategy for draining the land of its essence and vital energy, which were tied to their Concepts. It was clear that the titles included in the quest’s details contained clues regarding the nature of each monarch’s powers, and the party had spent long hours speculating on what kind of magic Black Wind, Walking Conflagration, Swarm King, and Death of Dreams implied. They had come up with several theories and potential counters regarding all but the last, although they thought Zora might employ some manner of psychic attack.
+
+They also discussed what had happened when Nick was struck by dread lighting, trying to understand how he had emerged miraculously unscathed. “When you repelled the invading energy,” Bandit said, “that wasn’t just mana or essence; I sensed something more integrated that went beyond either form of energy. I think your Concept is close to manifesting.”
+
+“That’s my take too,” he replied. “It felt like the pieces of my Build were coming together. I’ve been reflecting on it ever since, and I think the next time I see the dreadbeasts’ magic up close, I can finish the process. The lightning was doing something to my Blightborn trait too, although whatever the blight did to me, the controlling core that was trying to take over my body seems to be gone for good.”
+
+Lurk and Kenji needed to crystallize their Concepts and advanced to Tier 2 as well. The three of them continued working on the problem as they journeyed deeper into the heart of the Storm Lord’s domain.
+
+Nick wasn’t comfortable with the fact that the dreadbeasts’ magic resonated with him, but he couldn’t deny that he felt something stir when he watched the mana flowing out of the land, let alone the intense reaction he’d experienced when the dread lightning tried to drain him dry.
+
+However, while aspects of their approaches overlapped, there were some major differences too. He had no desire to extract vital energy from the world around him or consume his foes in such a literal manner, which made him wonder what kind of warrior he wanted to become. Fritz had told him to find an image that felt compatible with his soul. Not just his preferred fighting style, but his orientation toward life and approach to walking the myriad paths to power.
+
+Outside of battle, what Nick cared about most was protecting the people he loved, followed by defending humanity as a whole and the Earth herself. He was a blade that would strike down whatever threatened them, not an indiscriminate weapon of mass destruction. He still didn’t know how to merge those aspects into a unified whole, but he sensed that he was close to finding the solution.
+
+While that breakthrough eluded him for now, he had made considerable progress with another.
+
+After training his stamina control for weeks under the guidance of Bandit, Lurk, and Kenji, Nick was getting better at sensing his stamina well and perceiving the natural cycle of vital energy flowing through his body. He had begun paying close attention to what happened when Enhance Physical Senses was running, studying how the ability infused his sensory organs with a swell of stamina and a surge of life mana at the same time.
+
+It was hard to manipulate his stamina and mana simultaneously, but thanks to his diligent daily practice and rapidly rising Energy Manipulation skill, he was able to get the job done, doing his best to recreate the effect within his eyes and ears whenever Enhance Senses wasn’t running. It was good practice for increasing his control, and it improved his eyesight and hearing to a small but helpful degree—information Size Up could incorporate when evaluating an environment filled with a thousand deadly dangers in addition to the dreadbeast monarchs themselves.
+
+The training also allowed him to deepen his understanding of his newest ability in record time. Nick knew he was progressing quickly, but he was still surprised when a message from the System wavered into existence before his eyes.
+
+Your understanding of [Enhance Physical Senses] is now sufficient to advance the ability to Rank 1.
+
+Would you like to advance [Enhance Physical Senses] to Rank 1 now?
+
+He let his friends know he needed to take a short break while his advancement was underway. As Lurk, Bandit, and Kenji stood guard, Nick sat down, crossed his legs, and cleared his mind—determined to make the most out of what these experiences could provide.
+
+Since this was a small step upgrade, he was treated to a flawless review of everything he had learned about Enhance Senses thus far. It was more than a recap of what occurred each time he’d used the ability, although that was a major component. The System also included any relevant thoughts, intuitions, and insights he’d had about the power and its applications.
+
+As Nick memorized everything he was shown, part of his awareness was contemplating the purpose behind these visions. Over time, he had come to suspect that everything the System did served a deeper purpose. While the direct power it awarded was certainly useful, there was another aspect to every type of advancement it facilitated.
+
+Skills guided their users toward fundamental principles in addition to providing corrective feedback. The visions that accompanied even-rank ability upgrades were teaching him how stamina and mana interacted with his body to produce their various effects, along with the rules that governed weaving mana into spells. Those insights led him to believe the concentrated reviews from odd-rank upgrades were doing more than merely refreshing the information in his mind.
+
+There is a pattern to which pieces are included. This review didn’t cover every single thought I’ve had about Enhance Senses, just the ones that helped me improve its use. That must be it. They System it showing me what insights were valuable, which means any ideas that weren’t included were looking in the wrong direction.
+
+While he pondered the matter, the presentation came to a close. He’d only had this ability for a short while, so there wasn’t too much ground to cover yet. When he snapped back into his body, Nick shared everything was contemplating, including his theory that the keys to advancing their abilities were hidden within the System’s methodology.
+
+“I’ll be damned.” Kenji rubbed his chin while considering Nick’s words.
+
+“I knew you were smart, but this is a major breakthrough. I’ve been thinking in the same direction, but I didn’t put the pieces together. This line of inquiry won’t only help us make the most out of the tools at our disposal; it could eventually lead to a deeper understanding of the System itself. When we get back to Aurora, share this with the research team right away. They’re going to go apeshit when they hear about this. No offense.” He turned to Bandit.
+
+“None taken. Lemurs aren’t apes and their shit is disgusting. On a more serious note, I’m still learning how to think like you do. This kind of analysis and searching for deeper meaning is new to me, even with the knowledge I picked up when I absorbed the tiger king’s essence.
+
+“That being said, I’ve always felt the assumption that the Voice—the entity you call the System—is merely an impersonal force that provides strength through adversity was suspect. Whatever its true nature and however it came into being, there must be a reason why it spreads throughout the galaxy, integrates new planets, and strengthens their inhabitants through a trial by fire. An end goal that those methods serve.
+
+“Whatever that might be, looking beyond the surface of how it operates might teach us things that will help us survive being caught in the crossfire as it wars with Taltos and the Labyrinth. One thought did come to me while you were speaking. Perhaps the understanding requirement for advancing abilities is intended to teach you how to free cast with mana and turbocharge your stamina.”
+
+Nick winced internally at the term turbocharge, but he didn’t want to hurt his friend’s feelings, so he kept it off his face.
+
+“You’re right. That must be it. If the System only wanted to make our abilities stronger, collecting compatible essence would be the only requirement, since using them is instinctual. I’ll keep thinking about it while we travel, but I wanted to share my ideas while they were fresh in my mind.”

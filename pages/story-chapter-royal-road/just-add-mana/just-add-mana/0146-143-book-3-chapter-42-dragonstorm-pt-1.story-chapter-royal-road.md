@@ -1,0 +1,161 @@
+---
+id: 7e2e13b4-c16f-56cd-95b0-fb6c63f6537f
+page-type-slug: story-chapter-royal-road
+title: "143 — Book 3, Chapter 42 — Dragonstorm, Pt 1"
+slug: 0146-143-book-3-chapter-42-dragonstorm-pt-1
+partOf: just-add-mana
+position: 146
+ownLength: 2951
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3483023/143-book-3-chapter-42-dragonstorm-pt-1"
+royalRoadId: "3483023"
+---
+
+When Cale finally woke, the world smelled of dragons.
+
+He snapped awake immediately, briefly worried that the dragon rain had started while he was asleep, but as far as he could tell the world outside the windows seemed—normal. There was a storm, certainly, but the storm was no different than any other storm he had experienced through his many lives; a torrent of rain and wind slamming against the windows, with lightning flashing in the distance.
+
+The only thing that marked this storm as any different was the faint but distinct smell of dragons in the air. If not for Cale's experience with draconic essence and the draconic resonance he'd managed to build, he might not have noticed it himself. It was a subtle thing, the smallest spark of resonance carried within each drop of rain.
+
+He knew instinctively that this was only the beginning. That it always started like this, a seemingly normal storm that grew caustic with time as draconic power seeded the clouds and transformed the water within. When the skies grew heavy with blood, the rains would begin in earnest.
+
+Though this particular case of it promised to be more violent than all the others. Cale could feel it brewing already, a coalescence of power that dwarfed even the Aspect Cascade.
+
+Exactly how much power had Trekagor and the other dragon sages put into their spell?
+
+Cale reached into his pocket, fingering the vial of draconic essence Akkau had granted him. He had the feeling that it would soon be time to use it. What better time, after all, than when they were facing a storm of that very same power? He could almost feel the vial reacting to it, and when he checked, he saw the liquid bubbling in response to the charge in the air.
+
+Soon.
+
+That was enough of the dramatic melancholy, however. Cale glanced around the room, finding to his surprise that he was, for once, the first one to wake. Everyone else was still fast asleep, blind to the storm brewing around them. Leo, Damien, and Professor Graystalk all slept in their beds; Syphus stood in the corner and leaned against a wall, its eye-rune dim; Flia was an indistinct body of water within a tub that the University had provided; Thorn...
+
+Cale snorted. Much like Flia, Thorn apparently did not bother maintaining his form in his sleep. He was best described as a loose pile of vines with a face, positioned just beneath a sun lamp that Administrator Branch had been kind enough to add to their room. It was surprisingly cute; Cale hadn't known Thorn was even capable of looking that relaxed.
+
+He'd let everyone get a bit more sleep, he decided, and wake them only if it was necessary. There were a few hours yet before the storm began to fully transition into dragon rain, and they needed all the rest they could get.
+
+So did he, in all honesty. He was mostly recovered from the exertion of that spell yesterday, but there was a lingering soreness in his limbs that he couldn't quite shake off. It wasn't likely to pose too much of a problem, but he'd have to be careful, just in case.
+
+In the meantime, he'd do what he could to investigate the nature of this rain. Instructor Phlogis's explanation had been helpful, but there was no substitute for studying the real thing, after all.
+
+By now, the University's instructors were most likely already gathered and working on a plan to protect their students from the coming storm. Instructor Hikari's prophecy would have given them ample warning that it would be nothing like the previous dragon rains, so they would know, at least, to start making their preparations early. And if they took that prophecy seriously and understood that the bulk of it had been directed at their visitors...
+
+Cale opened the door to find that the school's vines and branches had, rather helpfully, grown a series of red blossoms along the walls. As if that weren't enough, they were glowing, and had been rather pointedly shaped to look like arrows.
+
+He grinned to himself. That was a good enough place to start. Hopefully when the others woke, they'd know to follow the path the Administrator had conveniently laid out for them.
+
+Cale found himself in the large, central foyer of the University amongst a crowd of gathered, muttering instructors. Adam stood tall at the center, his face pinched with a worry he couldn't quite hide; the moment he spotted Cale, he gestured, and the entire gathering fell silent.
+
+Well, that was one way to greet him, he supposed. Cale wasn't sure he merited that much attention.
+
+"Cale," Adam said. "I don't suppose you managed to find a way to avert the dragon rain? And be careful where you step, please."
+
+Cale stopped mid-step, right before he would have stepped directly onto a line of chalk. He raised an eyebrow—now that he looked more carefully, he could see an intricate series of lines and nodes drawn in different chalks all throughout the foyer, with a number of important-looking reagents in glass jars set into each node.
+
+The instructors milling about were all very careful to avoid stepping on or tripping over any of them; Cale wondered briefly how often they'd practiced something like this. Perhaps it was just something they'd learned to do over years of spellcasting.
+
+"I can't say I have," Cale admitted. "I have a few basic ideas, but it really depends on how the rain interacts with my magic. If it's anything like I suspect it's going to be, we're going to have to figure out something else."
+
+In most cases, the hierarchy of magic protected him from things like having his magic copied or his mana stolen. The problem was that magic in this era cared more about symbolic meaning than about something as concrete as a magical hierarchy; for all he knew, it would just absorb his power, and that would certainly make things worse.
+
+Fortunately, it wasn't his first time dealing with dangers that defied the usual circumstances and rules of the Great Realms, so he knew to be careful. He'd glanced over his available spells the previous night and made note of the ones that were most likely to help—[Instant Magishell] or an evolution of it, for instance, though he would first have to see how the rain responded to his mana.
+
+"Understood." Adam didn't question his response, thankfully. He just gave him a grim nod. "Given Hikari's prophecy, I've abandoned my emergency plan for staging an evacuation. I'll be helping with the defense of the University instead."
+
+Cale blinked. "You did what now?"
+
+"I tried casting a spatial evacuation spell yesterday, as soon as I got word of what Hikari prophesized. The symbolic contamination was already too severe to safely perform any kind of spatial spell." Adam's expression was grim. "Even a basic translocation spell bisected the target, so we've decided it will be safest for the students if we hide them in the University's deepest bunkers and surround it with as many protective wards as we can."
+
+"I have used every single anchor we have!" Instructor Katerina declared, and though her voice was as boisterous as ever, Cale couldn't help but notice how exhausted she seemed—there were bags under her eyes. "It should keep the students safe as long as we keep the rain-echoes away from the bunker. One job for us! Will be easier."
+
+The confidence in her words didn't quite mask the worry she felt for her students. Cale glanced around at the other instructors, and saw the same worry, the same thought reflected in all of them.
+
+These were their apprentices. They were willing to hold the line and risk their lives for them, and they knew exactly what would happen if they failed. There was a good chance their apprentices would be slaughtered.
+
+And while this had started as a dungeon simulation, what he'd done meant that this was real. Perhaps humanity would go extinct at the end of all this. Perhaps nothing could be done to avert that particular fate.
+
+But the young mages and apprentices of the University had their whole lives ahead of them. Even if that future came about no matter what he did, there were likely years before that happened—years of joy and discovery, of worlds to explore. Cale had met and spoken to them enough to know that they were bright young minds, and that given the opportunity, any one of them had the potential to change the world.
+
+Their mentors felt the same way. Cale could see the determination in all of them, despite their worry. Every one of them would stand and fight until they could stand no longer.
+
+He took a deep breath.
+
+"Alright, then," he said. "Let's go through our options. Tell me what to expect, and I'll see what I can do."
+
+Their first step was to name what was coming.
+
+Names had power, and a name in and of itself carried a degree of symbolic weight. There were some concerns that by naming this one they would empower the storm, but the truth of the matter was that the storm was already beyond anything the University was prepared to handle.
+
+The hope was that in naming it, they would contain some of its power. Dragon rain was nothing but a particularly disastrous weather event, and there was nothing that could be done against the weather. The Dragonstorm, on the other hand, was an antagonist: it was something with substance that they could work together to defeat and bring down.
+
+That was the theory of it, anyway. Cale wasn't sure if it worked out the way Adam hoped it would, because even he was caught off-guard by the storm that came for them.
+
+It began with blood. There was no dramatic moment to announce its arrival, no flash of lightning to signify the change—the rain was water one moment and then blood the next, pouring down in thick streams splattered against stone and melted through wood.
+
+This much Cale was prepared for, and it marked the first of many tests. The rain wasn't yet strong enough to burn through the enchanted stone of the University, so Cale stood at the massive doors that marked the entrance to the school and manifested a large, prismatic barrier on top of the fountain just outside.
+
+A few nearby instructors stopped to stare, caught off-guard by the strength of his barriers and the fact that it appeared to hold up against the rain. Soon, though, they forced themselves to move on. The storm would get far worse, and even in the best case scenario, they had much work left to do.
+
+They were in the midst of preparing a massive defensive spell that functioned as both a physical and symbolic barrier. Instructor Hikari had explained that they would ordinarily have tried to come up with a triplicate barrier, a theoretical Seventh Circle spell that would defend against physical, mana-based, and symbolic attacks.
+
+With Cale in the mix, though, they decided their efforts were better focused on a double-barrier with reinforced physical and symbolic defenses. It would still be a Seventh Circle spell, but without needing a mana barrier in the mix, they could ensure that the physical and symbolic aspects of the spell were twice as strong.
+
+That meant a hasty redesign of the spell system and a rapid swapping out of reagents, with Phlogis barking out instructions to an increasingly harried-looking group of instructors.
+
+This was all well and good. Cale was confident in his ability to maintain a mana barrier, and he had a few other tricks besides.
+
+And yet...
+
+Cale frowned, his lips pressing into a grim line. He felt no strain in his dome, no apparent holes burned through it by the storm.
+
+The fountain beneath his dome was melting, though. The water spouting out from the top had turned a deep, crimson red, and the stone hissed and smoked as if it was getting struck by the rain. There was nothing wrong with his barrier itself, but when he flicked on his mana sense and listened for the song—
+
+—it was there. A cacophony of noise, drowning everything out, and with everything his barriers could block, clearly they couldn't block symbolic noise. Cale winced, casting a sharp glance at Phlogis. It was incredible that the man was getting any work done at all. Was he not hearing the same thing?
+
+He was. Every so often, whenever the song of the Dragonstorm spiked, Phlogis would wince and shudder. Cale had no idea how he was able to hear anything else in all the noise, but he was pulling it off, barking out orders to swap one reagent or another. Every so often he would pause to listen and correct himself, and the teachers around him would scramble to adjust.
+
+Cale caught a glimpse of it, just briefly, as Phlogis turned and the light caught on his glass. There were tiny, barely-visible fractures running through the glassware of his body, worsening each time he listened to the noise. Part of him wanted to call out and tell him to stop, but he knew he would only be wasting his breath.
+
+Phlogis was doing everything he could to save his apprentices. Cale would have done the same.
+
+So he turned back to his work instead, adjusting his barriers and listening through the noise for any change. If he could find a trick, some way to imbue symbolic meaning into his mana or some way to agitate it that could drown out the Dragonstorm's song, then he could take some of the pressure off the other mages.
+
+If he was doing this, he needed to make sure he did it right.
+
+"A barrier isn't going to be enough?" Damien asked. He was staring at the stormclouds in worry.
+
+He was the first of Cale's apprentices to wake and join them. The others were on their way, apparently. There had been a very brief attempt to get them to join the other apprentices in the bunker down below, but rather predictably, they'd all refused, and Cale knew better than to try to force the issue.
+
+"It might be," Cale said. "I don't think it will be, though, and I don't want to risk it."
+
+Damien studied him for a moment. "Does this... remind you of something?" he asked carefully.
+
+"You're a little too perceptive, you know that?" Cale flashed Damien a small smile to show he wasn't offended, though the smile didn't quite reach his eyes. The memory it brought to mind wasn't a good one. "Yeah, I've been through something like this before. I promised some people I'd be able to protect them."
+
+"It didn't work?" Damien's voice was soft.
+
+"I was confident." Cale studied the rain. His latest barrier permutation was better, but the storm had grown in the meantime, and the end result was that just as much symbolic destruction pierced it. This meant he was on the right track, at least—he'd shaped this one with a bit more symbolic meaning after a quick look at some of the icons in one of the University's textbooks. "I mean, almost nothing gets through my barriers. Told them they didn't need to worry, that I had it."
+
+Damien thankfully didn't look at him pityingly or try to sympathize; instead, he nodded, giving Cale's hand a squeeze. Cale appreciated it.
+
+"Sometimes I encounter new magic that I'm not prepared for, though, or I run into something that just bypasses how they work. Like how Abyssals can just alter the rules."
+
+"And that was one of those times?"
+
+"It was one of those times." Cale sighed. "I don't think they would have survived either way, but that's not much of a comfort. But I'm not going to be overconfident about this. They're doing everything they can to save their apprentices, and we're going to do everything we can to help them."
+
+Damien nodded. "What should I do?"
+
+Cale hesitated. "Go see if Instructor Phlogis needs some help," he said eventually. "Maybe check if the Verdant Flame can do anything for him. Regular life magic isn't going to work for glassware, but..."
+
+"I got it," Damien said. "I'll see what I can do. Don't... um. Take care of yourself, okay?"
+
+Cale snorted. "I should be saying that to you," he teased, his tone light, though his gaze was still fixed on the storm. The clouds were gathering into something visibly monstrous now—if he looked closely, he could see the faint impression of draconic shapes, twisting and coiling through them. "Stay safe. Make sure the others know what's going on when they get here. I might be a little too occupied once this really gets going."
+
+Damien nodded again, then ran up and caught him in a brief, tight hug before darting off to find Phlogis. Cale blinked, surprised, then blew out a breath.
+
+A part of him admittedly regretted bringing his apprentices along. This whole thing had been far more dangerous than he'd anticipated. Then again, who knew where he would be without them? Even now, in the midst of all this, they found their place and grew as mages. They would be truly incredible one day, perhaps sooner than any of them realized.
+
+For now, though, Cale was going to do his best to make sure these instructors didn't lose their apprentices. He could see in their faces the same worry and hope he felt for his own.
+
+He adjusted his barriers again, listening to the change in the song, and all the while, the Dragonstorm approached.

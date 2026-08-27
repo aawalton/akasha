@@ -1,0 +1,93 @@
+---
+id: 32a9a4ef-0a19-5275-af0f-136fa5d86dd1
+page-type-slug: story-chapter-royal-road
+title: "Book Three, Chapter 1: The True Tower"
+slug: 0026-book-three-chapter-1-the-true-tower
+partOf: labyrinth-of-the-mad-god
+position: 26
+ownLength: 1606
+unit: words
+publishedAt: 2024-07-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1725634/book-three-chapter-1-the-true-tower"
+royalRoadId: "1725634"
+---
+
+Over the last two months, Nick had crossed the threshold of a wide variety of portals. Leapt though mysterious rings of light in every color of the rainbow.
+
+Some of those journeys had been relatively short, brief jaunts from one star to its nearest neighbor, while others had taken him beyond the Milky Way.
+
+Although he wasn’t sure why, he had frequently been granted a vision of his voyage, as his essence was shuffled from one planet to another.
+
+While each trip had been different in both character and content, there had also been similarities that made them feel related. As a result, he’d developed an appreciation for the System’s power and precision as he rode the channels that the galaxy-spanning entity had carved into the cosmos in an age long since passed.
+
+What Nick experienced when he entered the Tower of Rizzen was something else entirely.
+
+Instead of an orderly disassembly of his body and mind, it felt like he’d fallen through a hole that was torn into the fabric of the universe. Instead of connecting two distant locations, the tower’s portal ripped him away from the surface of Drezen and thrust him into a different dimension. A realm beyond time and space where the true tower resided.
+
+Nick had thought that the spire he’d observed from Drezen’s orbit was big, which was fair, as it was more massive than any building he’d ever seen by several orders of magnitude. But what he witnessed in this strange place between places, this plane between planes, was so much more.
+
+There was no point of reference to compare the true tower to, since nothing existed here besides the structure and the pathways leading to its body and heart. But he had a sense that the Tower of Rizzen was bigger than the world of his birth, existing in this mysterious place and various points in three-dimensional space simultaneously.
+
+That Darkstone Tower on planet Drezen was only one small mote of its mind-boggling totality. A twig on tree large enough to shade countless worlds beneath its canopy.
+
+Winding across, around, and through the surface of the tower were conduits. Tunnels of stable space that were shielded from the ravages of the surrounding void. Highways connecting distant regions of the sprawling edifice to one another, without relying on the System’s portal network at all.
+
+There were other differences too. Instead of breaking him down into energy or particles, Nick’s body remained intact, floating within a stable pocket of space as it was shunted down the line.
+
+As he was transported from a distant branch to somewhere closer to the trunk, he could make out additional details, places that he soared past at a staggering rate. There were rooms the size of continents, wings the size of moons. A reservoir running along one side that could hold every ocean he could name with room left over.
+
+Most unusual of all were the branches threading into other planes of existence, and the roots planted in hundreds of worlds. He could only receive a vague impression of their endpoints within this alternate dimension, but every conceivable type of terrain was represented, along with some that were so strange that his mind couldn’t even begin to process them.
+
+Although his subjective sense of time had slowed to a crawl, Nick had the sense that this journey was only taking a couple of seconds. Not long enough for exposure or oxygen deprivation to harm him. It was a good thing. Although the pocket of space he rode was stable, it was cold, airless, and far from comfortable.
+
+Being immersed within this baffling otherness had distorted his perception of distance as well as time. It let him appreciate the tower’s scale in a way that he wouldn’t be able to comprehend in his usual state of mind.
+
+It helped him get a sense of the structure as a whole, as his ride connected to a larger network surrounding the trunk of the true tower. Like a car merging from a one-lane country road onto a fifteen-lane superhighway.
+
+As Nick tried to make sense of what he was experiencing, the pathway his body followed began to speed up, as it traveled along a winding route leading toward the main body of the tower.
+
+Instead of trying to analyze the entirety of the edifice, a task far beyond his means in any state of being, he started studying the individual rooms and floors, learning whatever he could before the mysterious vision faded away.
+
+Without any air to distort the light, everything was crystal clear. Even from this distance, Nick was able to focus on the chambers and the stairs, at least the ones nearby, as he flew by fast enough to circle the Earth within a matter of seconds.
+
+When he looked closely, he could see a writhing tapestry of color permeating the various structures, bathing them in living light. Apparently, in this place, he could sense mana clearly, a facility he had yet to develop in his daily life.
+
+The first thing he noticed was that every floor had its own unique arrangement of elements and energies, creating specific conditions for reasons that he could not begin to imagine. Some of the floors seemed to be controlled by the tower itself, while others were leased to powerful entities in a vast array of forms.
+
+The next details he considered were the properties of the stairs. Although the word ‘stairs’ was deceptive, as each staircase was actually an entrance to the portal network. They connected the floors to one another in a way that has nothing to do with their physical relationship within the tower.
+
+Having learned what he could about its layout, Nick turned his gaze to the heart of the tower, hoping to uncover its mysteries while he still could. To understand its true nature on at least some level. Near the top was an immense source of energy, brighter than the sun and twice as potent. He had the sense that it contained magic, heat, and countless types of power that he had as of yet no words to describe.
+
+Channels separate from the portal network flowed down the middle of the edifice. Conduits for this energy as well as various substances that were shunted from one floor to another, following a logic far beyond his grasp.
+
+By now, he sensed that his ride was slowing. His path drew near the base of the tower and then began to descend. Down and down and down, zooming past thousands of floors along the way.
+
+Before it was too late, Nick unfocused his eyes and used size up, trying to get a sense of the tower as a whole. To his surprise, it worked. At least enough to learn a little more.
+
+Taking in the Tower of Rizzen in its entirety, he could sense that it was governed by a cold logic. Ordered around a greater purpose. A desire to understand that transcended any need to cling to traditional morality.
+
+Darkstone Tower was full of deadly danger, but it was also a place of experimentation and learning. A nexus of innovation, gathering knowledge from across the multiverse, no matter who was consumed in the process.
+
+While there were millions of projects underway, he had an impression that one directive reigned supreme. An obsession to unlock the secrets of time and space. To unravel the mystery of the System’s power, perhaps even transcend or supplant it.
+
+That was when Nick caught sight of the person looming behind it. A shadowy figure dwelling in the background, whose influence could be felt in every nook and cranny of the galaxy-spanning conglomerate. The absolute ruler of the grand machine known as Darkstone Tower and a thousand names besides.
+
+Rizzen, the man who stood at the heart of it all.
+
+Nick had the sense that Rizzen was distracted, consumed by a project for so long that the tower had changed greatly during his absence. He wasn’t sure if the man was really there at all, or if it was just the lingering afterimage of the entity’s powerful presence.
+
+He wound up learning the answer a great deal sooner than he expected. Because that was when the titanic phantom turned to look straight at him, analyzing every last fiber of Nick’s essence in less than the blink of an eye.
+
+Although Rizzen’s regard was terrible to behold, as the being could unmake Nick with a thought, he could sense no hostility in Rizzen’s gaze. Just a burning thirst for knowledge that trumped all other considerations.
+
+For just a fraction of an instant, Nick met Rizzen’s gaze, before the entity nodded and then turned away, returning to whatever he’d been pondering before noticing Nick’s presence.
+
+The experience was both enlightening and profoundly disturbing, but he didn’t have time to dwell on it now. Because at that point, his descent abruptly ended, as his channel drew near its terminus portal.
+
+Nick was able to take a last look around before arriving at the end of the line.
+
+He saw that he was being drawn to one of the sub-basements near the foundation of the tower. To a place where waste from many floors flowed and little returned. To a tiny room that sat beside the floor, separate but only a short portal away.
+
+He focused intently, committing what he’d seen to memory before facing whatever awaited him on the other side.
+
+Half a heartbeat later, Nick arrived at the room and was forcibly ejected from the space between worlds in a rush of sensation. Spat out of a portal and into the saferoom beyond.

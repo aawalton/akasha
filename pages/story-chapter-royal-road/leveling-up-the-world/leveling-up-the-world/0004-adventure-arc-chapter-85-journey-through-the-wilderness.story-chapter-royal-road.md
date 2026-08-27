@@ -1,0 +1,207 @@
+---
+id: 9a948eed-ab57-5fff-b764-3575ff92c5df
+page-type-slug: story-chapter-royal-road
+title: "Adventure Arc. Chapter 85. Journey Through the Wilderness"
+slug: 0004-adventure-arc-chapter-85-journey-through-the-wilderness
+partOf: leveling-up-the-world
+position: 4
+ownLength: 2093
+unit: words
+ownProgress: 2093
+publishedAt: 2021-03-27
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/653568/adventure-arc-chapter-85-journey-through-the-wilderness"
+royalRoadId: "653568"
+markedReadAt: "2026-06-29T22:40:15.527Z"
+---
+
+Sun, wind, and earth... those had proved to be the greatest enemies Dallion had had to face as he made his way through Countess Priscord’s lands. So far, he had improved his shoes three times, and they still could barely withstand the harsh soil under his feet. And that couldn’t compare to the humid heat that wrapped him like a blanket.
+
+When he had left Dherma village, Dallion had thought it would be a cakewalk to the nearest city. Having gone hiking several times back on Earth as a child, he was confident that his experience and awakened powers would be able to make the journey if not exciting at the very least comfortable. Now, over a week later, he wished he could take back his words and throw them at the bottom of a well.
+
+The food that his mother had thoughtfully packed for him was nearly gone, and two of the water skins were completely empty. Good thing that his enhanced senses gave him an advantage when it came to hunting. The local creatures had proven to be harmless and nutritious, if small. The greatest issue remained Dallion’s reluctance to skin and cook them—the knowledge was there, thanks to his memories in this world, but the desire to do so was iffy at best.
+
+“What do you think, Nox?” Dallion asked as he paused to take a few moments’ rest. “Is the journey exciting enough for you?”
+
+There was no response. The crackling cub had chosen to spend most of the days in Dallion’s awakening room. Only at night would it manifest by cracking a branch or stone in two. Dallion had tried to train the creature to do the same or larger objects, but the creature had refused in typical feline fashion. So much about loyalty during boredom.
+
+“I tell you, once we reach the top of that hill, we’ll see a village,” Dallion whipped the sweat off his forehead. He had said the exact same thing three hills in a row. “It’s inevitable. The universal probability of statistics demands that there’s a city. Or maybe a town.” He looked up at the sky. The sun was scorching down without a cloud in sight. “A hamlet at the very least. If nothing else—”
+
+Dallion stopped. His improved perception let him catch the sound of wheels and hoof steps approaching from the distance. Turning around, he could make out what seemed like a wagon making its way between the hills.
+
+No guards? The boy wondered.
+
+From this distance there was no telling how many people were on the wagon, but there was no one escorting it, that was for sure.
+
+“Get ready, Nox,” he whispered. “Things might get interesting.”
+
+Rendering himself as presentable as his clothes would let him, Dallion waited. When the wagon got close enough for him to be sure that the driver could see him, Dallion waved. Fortunately for him, the driver responded in kind.
+
+Finally, a bit of good luck. Dallion smiled. Maybe he was going to get some proper food and rest, after all.
+
+“Hey, there!” The driver shouted as he stopped the wagon a few steps from Dallion. “Are you lost? It’s not safe walking along in the open.” There was a note of fear masked by curiosity.
+
+“Just travelling.” Dallion smiled. “Trying to get somewhere. Don’t worry, I have a travelling emblem.” He showed the locket round his neck.
+
+That seemed to get the driver to relax somewhat. Looking at him, he was a carbon copy of an Earth trucker as much as this world would allow, or at least according to Dallion’s interpretation. Large, muscular with long hair, short beard, and a sleeveless vest, the man winced for a few seconds more, then waved at Dallion to join him in the front of the wagon.
+
+“Isn’t it dangerous to pick up anyone?” Dallion wondered.
+
+“You’ve got an emblem, I’ve got an emblem. If you try anything funny, the Seven remove their blessings and leave you to wander about until you die. Also, I have quite the punch.”
+
+“Won’t argue with that.” Dallion laughed and rushed to the front of the wagon.
+
+A few moments later the wagon was on its way again, and Dallion could finally feel his feet relax. Unfortunately, now it was his ass that was feeling the brunt of the movement.
+
+“Name’s Fatun,” the man said.
+
+“Dallion.”
+
+“Well, Dallion, so where are you headed?”
+
+“You’re not asking me where I’m coming from?”
+
+“Nope.” The man shook his head. “There’s only one reason for someone like you to be walking through the wilderness. Born in a small village somewhere and off to try your luck in one of the towns.”
+
+“It’s that obvious?”
+
+“Yep. I’ve seen a lot like you throughout the years—young, reckless, and awakened.”
+
+Hearing the last, Dallion tensed up.
+
+“Hey, nothing to get worried about. With those clothes and those shoes, what else can you be?”
+
+Dallion paused, then looked at his shoes. All in all, there wasn’t anything special about them—a mix between high shoes and low boots, they were made entirely of hard leather. Most people in Dherma village had similar. The only difference was that Dallion had used his awakening powers to mend them to perfection.
+
+“Oh.” I’ll have to keep that in mind.
+
+“If you’re trying to hide, next time, leave a scratch or two, alright? Less conspicuous that way.”
+
+“I’ll do my best.”
+
+“So?”
+
+Dallion arched a brow before it hit him.
+
+“Oh, right. I’m trying to get to Nerosal. I heard it’s the place to be.”
+
+“Nerosal.” The driver scratched his chin. “Definitely the place to be. A bit further away than I can take you, though.”
+
+“Oh? If money’s a problem, I have some saved—”
+
+“Money isn’t a problem. It’s the damned wagon. It won’t last that far. Besides, I’m heading in another direction. I can drop you off three quarters of the way to the town of Engelle. It’s not as big as Nerosal, but it’s definitely something.”
+
+“It has to be Nerosal.”
+
+“Sorry.”
+
+Dallion felt excitement rush through his veins. Finally, after all this walking, he had found proof that he was on the right track. The city that his grandfather had gone to still existed, and by the sound of it had grown to become a major center. Now that he had finally so close, he wasn’t going to give up.
+
+“What if I mend your wagon?” Dallion asked.
+
+“What?” Fatun narrowed his eyes.
+
+“If I mend your wagon, will you take me to the city?”
+
+The driver didn’t say anything, but Dallion could already see the mercantile nature of a trader glittering in his glance.
+
+“The entire wagon?”
+
+“The entire thing. I can even upgrade it too, if you want.”
+
+“As long as you’re offering.” A grin appeared on Fatun’s face. “Tell you what. Do that and I’ll drive you directly to the gates of Nerosal.”
+
+“It’s a deal, then.”
+
+Area Awakening
+
+Dallion’s surroundings suddenly disappeared. Instead, he found himself in the middle of a leafless forest. Massive trees rose up into the air like pillars of wood, and a short distance away, in the middle of it all, a gigantic ring-like tree pierced the heavens. It was all very impressive, and definitely not what Dallion would have expected.
+
+You are in the land of WAGON.
+
+Defeat the guardian to change the land’s destiny.
+
+“I guess I need to climb to the top of that,” Dallion said. “What do you think, Nox?”
+
+The panther cub silhouette emerged on his shoulder. Without a moment’s warning, it rushed through the forest and up a nearby tree. No sooner had it done so than a large black snake darted its direction, aiming to bite it with its fangs. Before it could get remotely close, a metal bolt pierced the serpent, pinning it to the tree.
+
+Realm section mended!
+
+Overall completion 67%
+
+Sixty-seven percent? Compared to what Dallion had dealt with recently, the wagon was virtually brand new. A second shot later, the percentage increased to seventy. Mending this was definitely going to be much easier.
+
+“Nox, let’s catch some snakes,” Dallion said and rushed after his familiar.
+
+Finding the cracks in the wagon proved to be quite fast. From what had seen, depending on their size, areas tended to create their own populations of cracks and deformations. In this case, those were silhouette snakes—dark, long, difficult to see, and deadly if they were allowed to grow for too long.
+
+Nox had no trouble sniffing them out, and thanks to his dartbow and high perception stats, Dallion found dispatching the creatures just as easy. Ten dead snakes later, the coveted blue rectangle emerged before him.
+
+Realm fully mended!
+
+The WAGON is now flawless!
+
+“You okay, Nox?” Dallion asked, putting his weapon back in its holster. The cub looked at him with its large eyes, then yawned. “That’s fine. Get some rest. I’ll take care of the guardian.”
+
+Making his way to the central tree, Dallion couldn’t help but note how small this realm was. Granted, a wagon was nowhere as large a well or building, but the realm was ridiculously small. In many ways it almost seemed as if he were in a large object. Even so, the place was kind of calming. Now that the snakes were dealt with, the only persistent sound was that of the wind passing through the forest.
+
+So a wagon is wood and wind, Dallion thought, amused. No doubt a peculiar way of describing it, although there were plenty of dogs back on Earth that would probably agree.
+
+It took Dallion several hours to reach the ring tree, and several more to climb to the top. The tree had four large sets of branches, each forming a circle around either side of the massive wooden ring. The bark was quite smooth, but thankfully there were a multitude of smaller branches linking the various branches like spokes of a bike wheel.
+
+Finally, after a lot of grunting and a few swear words, Dallion made it to the top.
+
+“Where are you, guardian?” he asked, looking around. If memory served, the guardian had to appear the moment, he reached the heart of the realm. “I’ve mended your realm, now all that’s left is you.”
+
+That had sounded much better in Dallion’s mind. Thankfully, it proved enough to make the guardian take form. Initially, Dallion thought that he’d be facing some sort of wood golem, or a variety of Tolkien Ent. Instead, the figure of a dryad appeared before him.
+
+WAGON GUARDIAN
+
+Species: DRYAD
+
+Class: Pine
+
+Statistics: 100% Health
+
+Skills
+
+- Splinter Arrows
+
+- Entangle
+
+Weak Spots: Joints
+
+“You’re the guardian?” Dallion arched a brow. He had heard that sailors considered their boats to be female, but he hadn’t expected the same logic to be used for wagons. “want to surrender?”
+
+COMBAT INITIATED
+
+Dozens of green circles appeared on Dallion’s body, along with two sets of footsteps.
+
+Apparently not, he jumped to the side, protecting his face and upper torso with his buckler. Half a dozen wooden vines emerged from the dryad’s hands, hitting the shield like arrows. Several more vines wrapped themselves round Dallion’s legs, rendering him unable to move.
+
+ENTANGLED
+
+You are unable to walk or run for the next five minutes, or until you remove the vines.
+
+“Cute,” Dallion said, then drew his dartbow and shot two bolts right at the guardian’s knees.
+
+CRITICAL WOUND!
+
+Dealt Damage increased by 200%
+
+CRITICAL WOUND!
+
+Dealt Damage increased by 200%
+
+“What do you say about that?” Dallion asked, as he aimed at the guardian’s shoulders. Before he could squeeze the trigger, though, a green rectangle emerged.
+
+WAGON Level increased
+
+The WAGON has been improved to Birch.
+
+That was it? It was difficult to believe, almost as if all this was a joke. For several seconds Dallion stood there motionless, expecting the rectangle to turn around, revealing this was nothing but a big joke. It never did.
+
+“Have I become really that strong?” The boy wondered. His first area guardian after leaving the village and he had defeated him just like that? Heck, if he had been a bit more careful, he could have done this without even getting entangled. “No point, in complaining, I guess.” Dallion reached forward and smashed the rectangle to pieces.
+
+“Done!” Fatun said back in the real world, completely unaware how much time had passed for Dallion. “So, when do you start?”
+
+“Look around,” Dallion mumbled, eyes half closed. “And wake me when we get here. I think I’ll take a nap till then.”

@@ -1,0 +1,181 @@
+---
+id: 966c5bd1-d57f-596a-b69f-039429bcad41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17"
+slug: 0018-chapter-17
+partOf: light-cleric
+position: 18
+ownLength: 2787
+unit: words
+publishedAt: 2021-07-03
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/710077/chapter-17"
+royalRoadId: "710077"
+---
+
+Piety kept herself aloft with thorough application of telekinesis, throwing herself above the mountains covered in sparse pine forest, her hair, dress, and limbs flailing uncomfortably. Finally, she thrust herself mostly up and the apex of her climb she took a moment to wonder at the cool stillness of midnight in summer, high above the ground. She drank in the silence but for the wind past her ears, absorbed the sensation of being alone. The half-moon above lighted the ground below and shone off her skin, making her gleam like a summer cloud.
+
+Pulling herself back to the task at hand, Piety extended her telepathy. She knew Vahramp was down there somewhere, hiding from her, and she knew she wouldn’t be able to confront him without descending into the forest.
+
+And so, with great concentration and careful application of telekinesis, she controlled her fall into a small clearing blanketed with last autumn’s leaves and needles. Just before forest floor, she let go of her power and dropped into a crouch. The fallen needles and branches poked through the soles of her slippers and she wished she’d worn boots.
+
+A subtle creak caught Piety’s attention and she froze.
+
+“Don’t move.” The whisper was harsh.
+
+Piety settled onto one knee, hoping the disembodied voice didn’t consider that to be sufficient movement to warrant an attack. From the shadows on her left, a tall, thin figure approached, short bow drawn and held steady. The broad tipped arrow was pointed at Piety.
+
+Piety stretched her senses to the unknown bowman but her telepathy encountered the strongest mental shield she’d ever sensed, like liquid steel. The only bit of information she was able to discern was that this person felt nothing like General Vahramp or any of his minions. That pervasive hunger was absent.
+
+“Stop that,” the bowman hissed and the tension on the bowstring increased.
+
+Piety pulled her senses back to herself and made certain that her own shield was strong.
+
+“What are you doing out here?” the voice demanded.
+
+Piety studied the figure a few moments before answering. He was thin and tall, but clearly strong as he continued to keep the bow drawn and steady. Though he’d stepped out of the shadows, his face was still obscured, as though the shadows clung to him, like a viscous liquid. His clothes, too, were dark, but he had dressed for a night in the woods. His boots were sturdy, his pants looked like thick leather. He wore a variety of weapons difficult to identify by moonlight and shadow, but one was clearly a rapier at his hip.
+
+Finally, Piety took a breath and answered. “I’m hunting.”
+
+The bowman laughed, high and clear. “In a worker woman’s dress and indoor slippers, you come to the woods to hunt rabbits, girl?” He eased the tension on his bow and pointed it at the ground.
+
+Piety smiled and bowed her head in recognition of the critique. “I didn’t have much time to prepare.” She stood then, slowly and with her hands held palm downward.
+
+“I told you not to move,” he hissed, bringing the bow back up.
+
+But Piety was confident she’d be able to put up a wall of force with her telekinesis in time to stop the arrow, if she needed to. For that matter, she could snap his bowstring with the same power. She continued to unbend until she was standing, and the bowman did not shoot her.
+
+“Sir,” Piety said, “I pursue an undead horror who just attacked Pinefort.” She gestured back down the hill at the town hidden by the trees. “He is fast and crafty and he’s getting away.”
+
+There was a protracted moment of silence while the two looked at each other and Piety waited for him to respond. Piety knew she could get away if she needed to, she could leap into the sky where he couldn’t reach her, not even with a bow, and continue her pursuit, but the strength of that mental shield, made her pause.
+
+“Is that blood on your dress?”
+
+Piety nodded. “I’m a healer at Pinefort.”
+
+Another pause just long enough to notice before he said, “I know you,” and his harsh whisper gave way to a voice that better suited the laugh. “A year ago, in Susnlance.” She lowered her bow and stepped forward, shedding the shadows to reveal her face. It was Devorah Kempenny, the young woman who had been mayor of Sunslance when Piety had first met General Frederick Vahramp and his minions.
+
+Piety took a quick step back and focused all her energy on the woman, prepared to attack with telepathy and telekinesis.
+
+“Stand down, acolyte. I mean you no harm. I too hunt Vahramp. I mean to correct the monster I have loosed on this world.”
+
+“I should arrest you, Mayor Kempenny,” Piety said uncertainly.
+
+The other woman smiled. “It’s Governor Kempenny now, acolyte.” She had not resumed the tension on her bow, nor raised it to point at Piety.
+
+Piety relaxed her stance. “Sister Churchstep,” Piety said, tapping the red-lacquered sunburst amulet at her chest. “So, you’ve succeeded your aunt as the Governor of Kempenny Province? Are you also the general of Kempenny’s army?”
+
+Devorah nodded. “I have, Cleric, and I am. But as you said, Vahramp is fast, and crafty, and he’s getting away. We can fight with each other after we’ve dealt with him. Agreed?”
+
+Piety nodded. “Alright then, General. I’ll help you deal with the greater of your evils. Then we can deal with the lesser.”
+
+General Kempenny’s smile faded. “You’ve grown since last year.”
+
+Piety did not respond. Instead, she stretched her telepathic sense and felt Kempenny do so as well. Together, they searched the surrounding hills and woods, searching for Vahramp.
+
+The general found him first.
+
+“Got him,” she whispered. “How fast can you run?”
+
+“I’m pretty fast in the air.” Piety tied to project confidence.
+
+The general smiled. “Have you got his scent?”
+
+Piety nodded.
+
+“Then I’ll see you when we catch him up.” The general slid back into the shadows, appearing to glide rather than walk, and she was gone.
+
+Piety took a moment to focus her mind, making sure she had a hold on Vahramp before gathering her telekinesis, like drawing a blanket to her chin, then thrusting it at the ground. She shot into the air, scattering needles, leaves, and dirt with the force of her telekinetic thrust.
+
+Again she was surrounded by cool, clean silence, bathed in pale moonlight. With another thrust of power, she sped through air, positioning herself parallel with the ground.
+
+With her senses out-stretched, she could feel General Kempenny far below her, sliding through the shadows with as much speed as Piety through the air. It was as though the shadows were a copper pipe through with the general flowed like water.
+
+Far ahead, Vahramp ran with unnatural speed and endurance. But Piety and the general were catching up. Soon he was almost directly below her and she knew he hadn’t sensed her yet.
+
+Piety spied a clearing up ahead and angled herself toward it, prepared to land and then angle back and cut Vahramp off, but, much to her surprise, Vahramp changed course, headed directly for the clearing. This gave Piety an exciting idea, an idea that both thrilled and frightened her. She tried not to think that General Frederick Vahramp had been spoken of with caution by Fathers Chirstoph, Shane, and Vytal, that she didn’t really know how to control this style of travel, about the danger of what she was about to attempt.
+
+Piety let herself fall quickly and thrust her power at the ground hard to slow her fall, scattering forest debris and sending up a strong gust of wind and landing lightly on her feet.
+
+Vahramp staggered back at her entrance. For several long moments, he stared at her in surprise and she stared at him, prepared to attack or defend. The staring match lasted so long that Piety was just beginning to feel the niggling of nervousness, thinking she ought to escape while she could, when Vahramp recovered his aplomb, turned back the way he’d come, and broke into a sprint.
+
+General Kempenny slid from the shadows, directly in his path, sword drawn.
+
+Vahramp skidded to an ungraceful stop, scattering forest floor detritus, legs splayed and hair wild. If before he had resembled an arrogant and crafty feline, now he looked like the cat that had just fallen off the table.
+
+Slowly, Vahramp steadied his stance and took a step sideways, so he could almost look at them both.
+
+“Now girls,” he said, “there’s no need for ugliness.” He smiled revealing elegantly pointed fangs.
+
+Kempenny took a step putting her closer to his back and he took another step sideways, still smiling. Piety watched them both, still.
+
+“You will not escape me again, Freddy,” Kempenny said.
+
+General Vahramp shifted his gaze to Piety, turning his back to General Kempenny. “And you, sister? Will you condemn me to death, or does your religious piety guide you to saving any life that can be saved?”
+
+Piety raised her chin as though a resolute gesture might guard against duplicitous words. “When I think of all those you’ve killed, and worse, I have no pity for you, Vahramp. But if I thought a prison would hold you, I might spare your life.”
+
+Vahramp laughed bitterly and held his hands out as if to show he was unarmed. He had regained his arrogant composure. “So you would sentence me to death because of what she made me?” He gestured behind him at the general. “Is it my fault that I’ve been cursed with unending hunger and the physical prowess to take whatever prey I please?”
+
+General Kempenny crept up on Vahramp, her sword prepped to strike.
+
+“The general and I will discuss her crimes once we’ve dispensed with you, Vahramp.”
+
+“So that’s it then? No trial, only a sentence. What if I surrender to you?” Vahramp sank gracefully to his knees, hands out at shoulder height.
+
+Piety glanced at General Kempenny. She knew Vahramp was clever with words and was trying to talk his way out of a deadly confrontation, but he had a valid point. Anyone else who had committed his crimes would at least be allowed the chance to plead his case, or pay someone else to plead his case for him. Piety considered if she could, in good conscious, execute him after he’d offered to surrender.
+
+When the objection was on the tip of Piety’s tongue, Kempenny struck. The dark-clad young woman swung her sword with an intricate flourish, aiming for Vahramp’s neck. Vahramp, slid and twisted in a way that should have been impossible and, instead of striking Vahramp’s neck, General Kempenny’s sword was jerked from her hands. Blood spilled from his hands where he’d grasped the blade, and Piety noted that the sword cut him where any normal weapon wouldn’t have broken the skin.
+
+Vahramp hurled the sword like a spear at Piety before slashing at Kempenny with fingers that had become claws. Piety threw up her hands, putting a wall of force between her and the rapier. The thin blade bounced off the wall and fell.
+
+Kempenny was quick to dance back, staying only just ahead of Vahramp’s strikes, while at the same time drawing another weapon from somewhere upon her person. Piety felt the general tugging at the shadows and drawing them around her like a favorite cloak.
+
+Piety focused herself and struck out with her mental lash. Vahramp’s shield was weaker than it had been in the courtyard, but his mind was stronger than his minions’. He staggered, but his mind was not destroyed.
+
+Vahramp’s momentary stagger was enough to allow Kempenny to move on the offensive. She flung out one arm and a chain flail capped by a spherical weight, whistled though the air. Vahramp twisted and dodged.
+
+Piety grabbed at Vahramp’s feet with her power and pulled. He grunted and fell to the ground, arms outstretched to catch himself. Piety meant to hold him by his ankles in the air, but he had his own mental powers and was able to slide out of her telekinetic grip, falling to hands and knees.
+
+Kempenny twirled her flail and brought it down in an overhand arc. It struck the center of Vahramp’s back with a thick, wet crunch, followed by a surprised gasp. Vahramp staggered away on all fours, struggling to his feet. He meant to sprint away, but Kempenny twirled the heavy flail above her head and let it fly. The chain struck Vahramp across the back and the two weighted ends wrapped him about the arms, pulling him to the ground where he tumbled several times before coming to a rest on his side, facing them.
+
+Vahramp coughed and wheezed and whispered something intelligible.
+
+“What did he say?” Piety asked.
+
+General Kempenny didn’t answer.
+
+Vahramp rested his head on the ground and closed his eyes, blood leaked from the corner of his mouth. Piety took several steps closer and knelt before the fallen man, dirt-stained and broken. She kept her mind ready though, suspecting a trick. She stretched her senses to him and felt his shield weakened, his aura diminished.
+
+“What did you say?” she asked him.
+
+“Mercy,” he breathed, eyes closed. Not even the dried leaves by his mouth stirred at the voice.
+
+Piety stood slowly and took a careful step back. Over her shoulder, but without taking her eyes from their dangerous captive, she said, “He is captured and your weapon seems able to hold him. Perhaps we can take him for trial after all.”
+
+There was no response.
+
+“General?” Piety took another step back and glanced over her shoulder, but the general was gone.
+
+She was alerted to Vahramp’s sudden movement only by the shifting air and her suspicion he might try it. She turned, ready to strike with her mind but he was upon her, teeth at her throat and tearing.
+
+Piety screamed.
+
+The pain consumed her, pierced her, drew her away from the calm focus she had cultivated over the past months and shattered it. The burning spread from her throat to her shoulders and down her arms, to her chest and down her torso to her legs, to her toes. It blinded her with a lightning filled world. She was brought to herself only when her collarbone snapped like a dropped plate. For a moment, that sound drew her out of the pain and she could see, could think.
+
+She saw General Kempenny behind Vahramp, sword thrusting for his back, aimed for his heart. But Piety didn’t wait for the general to save her. She slipped into her mindspace to focus, took hold of her power, and slammed it like a bludgeon against Vahramp’s mental shield. Vahramp spasmed, his claws and teeth sinking further into her, his shield cracked but held. Piety drew her power into long, thin, piercing needles and drove it at those cracks, feeling it shatter beneath her, and she drove those needles into his mind and watched it convulse.
+
+• • •
+
+“We broke the bastard’s body, shattered his mind, but I fear he is more powerful than we anticipated. My magic was strong that night and therefore so is he. Vahramp will be back.”
+
+Piety didn’t know where the words came from, and didn’t care. She floated on a dark cloud, born to an unknown destination. The sound of the voice was familiar and comforting. The cloud carried her gently. For the moment, there was nothing to worry about. Earlier, there had been pain and chaos, but now was only peace and comfort.
+
+“I didn’t mean for it to happen like this, Cleric, but your council is deeply flawed. It must be war, in a variety of ways. I don’t mean to imply I’m not doing this for personal gain. I certainly intend to make gains. But I will bring order and honesty to this land, I will protect it from the likes of Frederick Vahramp and Marcus Radden. I’m sure you won’t understand.”
+
+Piety wondered if she should be scared. She knew that, not long ago, there was good reason to be afraid, but she couldn’t recall why now.
+
+“I owe you my life, for the incident at Sunslance. You did well, better than I expected. I repaid the clerics already, and now I’ve repaid you. Unfortunately I’m sure we’ll meet again on opposite sides of the chess field.”
+
+The dark cloud settled her on a hard, cool surface.
+
+“You look so much like her. And, I suppose, like me.” There was a pause and a sigh and a gentle touch on her forehead. “Good luck, little sister.”

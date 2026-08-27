@@ -1,0 +1,149 @@
+---
+id: 5e4ebcfa-2ddd-54c7-b6a7-21e029a46ab0
+page-type-slug: story-chapter-royal-road
+title: "56 — Book 2, Chapter 4 — Sword and Sorcery, Pt 4"
+slug: 0056-56-book-2-chapter-4-sword-and-sorcery-pt-4
+partOf: just-add-mana
+position: 56
+ownLength: 2502
+unit: words
+ownProgress: 2502
+publishedAt: 2025-11-04
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2731755/56-book-2-chapter-4-sword-and-sorcery-pt-4"
+royalRoadId: "2731755"
+markedReadAt: "2026-06-29T18:49:30.394Z"
+---
+
+Instructor Solsburn had discovered rather early in his new career that the best way to teach swordsmanship to a group of mages—who were really only interested in the sorcery part of his class—was to ensure that they didn't realize they were learning it.
+
+This was a task easier said than done, of course. Swordsmanship was not something that could be taught without its students realizing, especially when those students refused to wield a blade to begin with. How could he correct a stance or grip, if the very act made it clear what he was trying to teach?
+
+The answer, it turned out, was simple: he would frame the act of swordsmanship itself as a form of magic.
+
+That was the reason his class was called Sword and Sorcery. Many students came into his lessons expecting to learn sword-related magics, and it was true that he would teach those forms of magic in his class.
+
+Rather conveniently, it was also true that those magics worked best with a proper understanding of how to wield a blade. Thus he was able to teach his lessons largely in peace, without his students complaining that what they were learning was not true magic.
+
+If only they knew the true strength of the blade. That magic itself acknowledged the sword was no coincidence—Instructor Solsburn had long observed that mana aspects corresponded only to concepts that were held in sufficient reverence. And the sword was a near-timeless concept, held to an ideal even after it was surpassed by other forms of weaponry.
+
+Mages often assumed that Solsburn's sword was heavily enchanted, given his ability to slice through spells with little effort. It was true that his blade held a number of enchantments. Most of them, however, were enchantments to keep its edge sharp and its metal shining.
+
+That he could cut apart magic itself was no mere enchantment, though few mages would ever believe him. It was a simple application of repetition and practice. He had learned to hone the edge of his blade with the essence of his will, and with that strength he once stood as one of Kazaran's prime defenders.
+
+At least until the Fall. Solsburn's grip tightened briefly on his blade, his eyes straying once more to the unassuming human that now led their little group along the labyrinth's hallways.
+
+He held no true animosity for Cale. The arrival of the Fourth Blade had only hastened the fall of their once-great kingdom, but that true fall had begun long before the man ever stepped foot on their soil. If anything, he owed his life, his freedom, and his future to him.
+
+Solsburn shuddered to think of what might happen if his bond of duty had never been severed. Would he still be wandering that empty kingdom? Likely. Likelier still that he would never have had a son. The debt he owed to the Fourth Blade was, he thought, greater than he would ever know.
+
+...Except here he was, meeting the Fourth Blade once more. He was certain it was the same man, though it baffled him why Cale would pretend not to even know how to wield a blade.
+
+That minor correction he issued had been a test—to see if the human still remembered—and he clearly did, from the way he'd adjusted his grip. There was skill there, albeit rusted over by dust and time.
+
+A part of him wanted to take Cale aside and thank him for what he had done, and to pledge his fealty to repay his debt. Another part was still mortified that the Fourth Blade himself had flirted with him. Had that happened the first time? He thought his memory of that fight was clear, but now that he thought about it, some of the things the man had said...
+
+Solsburn tightened his grip on his sword again. The Fourth Blade seemed to sense this, and turned just long enough to give him a strange look. Solsburn did his best not to react.
+
+Thankfully, he had already established that he did not speak overmuch, and the Fourth Blade was more preoccupied with following the supposed emergency spell than he was with attempting once more to engage him in conversation.
+
+Which was probably a good thing, because another part of him—one he thought he had long left behind—really wanted to challenge the Fourth Blade to a duel. He was aware that Cale's refusal meant that someone or something must have persuaded him to put down the blade. Wanting to see his skill again was likely a selfish desire.
+
+His grip tightened once more on his sword.
+
+Perhaps it was best he find a monster to take all this energy out on. Personal matters aside, the situation in the labyrinth seemed serious. Now was hardly a time to pursue the dreams of his youth.
+
+But in the future, perhaps. After all, the Fourth Blade would be in his class every week. He would have plenty of opportunities to speak to him then. He had thought initially to approach him before class, but...
+
+Well, clearly visiting him in his room wasn't going to work. It seemed the room was something of a nesting ground for friends and trouble both.
+
+Serof had hoped but had not actually expected that Cale would show up. After all, they were more than a continent away from the Brightscale Academy; what were the odds that Cale would not only find a way to him in such a short period of time but also somehow access the dimensional pocket he was in?
+
+And yet the human striding with all too much confidence after his [Nightmare Lure] was definitely Cale Cadwell Cobbs. Serof felt his wings sagging in relief, and when he spoke, his voice nearly cracked.
+
+"Your friend," he said. "He came to help me, but something happened, I-I'm not sure what exactly. He went berserk."
+
+Cale frowned. "Which friend?"
+
+"The one with rings for a head," Serof said nervously. He'd forgotten the name, and he cursed himself for it; how had he managed to forget the name of the one person who'd saved him? "One of the Red Hunters was here, and he brought an army with him, and the moment he heard their names he told me to run and get you—"
+
+The look in Cale's eyes sharpened suddenly. Serof remembered with a surge of terror that those eyes had cut through the fog of the Watchful Hive from two continents away.
+
+He took an instinctive step back, but Cale's gaze flicked to him, and after a moment the human adjusted his expression to be something more deliberately blank. Serof might have felt patronized, if not for the fact that he mostly felt relieved.
+
+"I see," Cale said. "Explain everything you know, please. Quickly."
+
+And though he hadn't spoken it as a command, Serof found himself rapidly spilling everything he knew, from the first moment he had broken free from the Watchful Hive's control.
+
+Cale would have cursed himself for not realizing this from the start if not for his belief that this sort of blame-distribution was an utter waste of time. He knew exactly why he hadn't thought of this earlier: Sternkessel was fully capable of handling himself against almost any threat that could be thrown at him, and there was no reason to expect to encounter him within the labyrinth attached to their dorm, of all things.
+
+But that must have been the cause of the labyrinth merge. The Red Hunters had another spatial cube collected from Karmia and had attempted to use it to delay Sternkessel and Serof's escape, most likely because they knew it was one of the few things that could get around the professor's ability to manipulate space at will. Then they'd most likely aimed to distract or disable him for long enough that they could retrieve Serof, and since they knew how powerful Sternkessel was...
+
+They'd decided to act on what little information they had on his past. Cale was sure they now realized exactly how much of a mistake that had been, but now the damage had been done, and Cale—
+
+Cale wasn't sure if he could bring Sternkessel back from this. It was miracle enough that he'd been able to grow into his own person; that was something that Indictments, Greater or otherwise, simply didn't do. They were quite literally bound to their purpose, and it was through sheer cosmic chance that Sternkessel's purpose had been removed from existence at the moment of his creation.
+
+That left him aimless enough to wander, to grow and learn. But Sternkessel remained bound, in a way, and it seemed those chains had returned in force.
+
+"Is Professor Sternkessel going to be okay?" Damien asked nervously.
+
+"We'll make sure he is," Cale answered without glancing back. "Serof, do you know what direction he's in?"
+
+"Y-yes." Serof nodded rapidly, though for whatever reason he couldn't quite seem to meet Cale's eyes. "I had to keep track of him so I don't get too close. And so that I could take you to him when I found you. He seemed pretty sure I would find you."
+
+Cale's expression darkened further. "Can you lead us to him?"
+
+"Are you sure?" Serof asked. "Even if you can handle him, the room is..."
+
+Cale sighed. "I bet," he muttered. He gripped the sword Solsburn had given him, taking a moment to eye the inscriptions along its length. Now that he was looking at it properly, the blade looked a lot older than the ones he'd given the other students. Was this some ancient artifact, then?
+
+It didn't matter. Whether he liked it or not, if he wanted to make it to Sternkessel, a sword probably was the better option here. The spells he had risked doing too much damage to the labyrinth and straining the academy's wards even further.
+
+"Take us to him anyway," Cale said. "This isn't a good time to split up, and we're still connected to a labyrinth grown from the Karmian Well. If a distortion storm hits, it's best we stick together. Damien, Leo, you might... want to look away, when the time comes."
+
+He straightened, feeling the sword fall into a more natural grip in his hands. Just as a test, he let a fraction of his mana flow into the steel, and was surprised to see his mana channeled into—
+
+A barrier spell along the edge of the blade.
+
+Clever. That explained why it could handle his mana, then; it was built for his specific capabilities. Even the barrier was attuned enough to him that he could control it, sharpen it as necessary or extend the blade. That style of weapon was achingly familiar in a way Cale refused to think about.
+
+Instead, as Serof began to lead them further into the labyrinth, Cale sighed and began to speak.
+
+"I said earlier that dungeon monsters aren't usually this aggressive," he said. "There is an exception. Or there was. Dungeon ecosystems at a very basic level subsist on mana, and if that mana is tainted in any way, it affects the entire dungeon. Back during the Planar War, when the Source was corrupted, this sort of behavior was commonplace."
+
+He said the words as dispassionately as he could. It never got easier, talking about that particular moment of history, but Cale was beginning to see that Utelia would force those secrets to light whether he liked it or not.
+
+Better to share on his own terms. He'd learned that lesson long ago, among many others.
+
+"But the Source isn't corrupted anymore," Damien protested weakly. Syphus was whispering a quick explanation to Leo, who looked aghast at having missed this particular conversation. Solsburn seemed as expressionless as ever, though his gaze was intent.
+
+"It is not," Cale confirmed. "The point is that magic responds to how you use it, which means that mana can still be tainted if the circumstances are exceptional enough. You see it all the time in places of exceptional joy or tragedy, where myths and legends form."
+
+"And what would cause this?" Solsburn asked in his low, rumbling voice.
+
+Cale was silent for a long moment. He'd brought up the Planar War not because he wanted to, but because the parallels were exact. He knew the conditions that brought this about all too well. He'd lived those exact conditions, after all. Grown up in them, time and time again.
+
+"Hatred," Leo said. "It has to be hatred, right?"
+
+"If it was hatred, that lesser wyrm you killed wouldn't have stopped, even when you hurt it." Cale's grip tightened again on his sword, and without looking, he cut down a creature that tried to drop down on them from the ceiling. "Hatred doesn't leave gaps. It expends everything at the expense of the self.
+
+"So no, what we're seeing isn't hatred." Cale sped up slightly, knuckles still white around his sword. "It's desperation."
+
+Sternkessel was still in there.
+
+They made their way through the labyrinth in record time, even with monsters launching themselves at them every so often. Solsburn was largely silent through the expedition, was his general preference. Indignation burned within him at the thought of what had been done to Sternkessel, though. He was aware enough of the other professor's circumstances, and to think that the Hunters had managed this under their noses...
+
+His classes usually followed a strict curriculum. The greatest secrets of Sword and Sorcery were not taught except to those that proved themselves worthy, simply because it was hard enough to get his students to learn the blade the regular way. But if these ones were as intent as they appeared to be on facing every problem head-on—
+
+Well, a small adjustment wouldn't hurt, if it would lend them the power they would undoubtedly need. Solsburn was more than capable of stepping up himself, but he was well aware of his limitations. He could not be where he needed to be as easily as these students would be.
+
+And so it began with him helping Damien fend off a particularly large bloatwraith, which seemed entirely immune to both his magic and his blade.
+
+"Do as I do," Solsburn said gravely, and though it was his sword that cut through the bloatwraith, Damien's expression afterward told him the ploy had worked.
+
+"[Steel Sorcery]," Damien read, his brow furrowing. "What—how did you do that?"
+
+"The blade has its own logic," Solsburn grunted. It was the same answer his masters had given him, a long time ago. "There are many forms of magic, and sorcery belongs to itself."
+
+Damien looked, if anything, even more confused, but Solsburn refused to elaborate. His own masters hadn't offered him much more than that. But he did intervene twice more, to give Leo and Syphus the same instruction and gift.
+
+And though Cale was clearly preoccupied with what had happened to Sternkessel, he paused once, just long enough to give Solsburn a calculating look with the smallest flicker of recognition.

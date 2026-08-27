@@ -1,0 +1,173 @@
+---
+id: 6e87c30a-1dc2-59f9-b2ee-a78906aa9eed
+page-type-slug: story-chapter-royal-road
+title: "177 — Book 4, Chapter 21 — Dark Magic, Pt 4"
+slug: 0182-177-book-4-chapter-21-dark-magic-pt-4
+partOf: just-add-mana
+position: 182
+ownLength: 3241
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3863294/177-book-4-chapter-21-dark-magic-pt-4"
+royalRoadId: "3863294"
+---
+
+Syphus, of course, had absolutely no idea whether or not it was looking at the Lesion. It also hadn’t really been paying enough attention to know what the Lesion was. It just knew that it very much did not want to keep staring at it, in part because it was convinced that at any moment this strange, organic-looking thing would open an eye and stare right back at it.
+
+There was also the fact that looking at it kind of hurt. Syphus did not experience the phenomenon of a “headache” that its friends always complained about, but it suspected what it felt now came close. If this was what they were constantly dealing with, Syphus frankly had no idea how they were able to exist all the time.
+
+But last and most important of all, Syphus just didn’t like looking at it. The egg-thing was gross! It throbbed and squirmed the way that organic things did whenever it peered too closely at them, and no matter what Syphus did, it couldn’t seem to look away. No matter where it turned, the blot in its vision followed, as if it was stuck to its eye.
+
+Which was a horrifying thought in itself. Syphus wished it had never had it.
+
+“Can you describe it?” Cale asked, his voice urgent, and Syphus sighed and did its best. It wished briefly that Sisyphus had bestowed it with the ability to throw up, because it very much wanted to. There was a reason it avoided all of Damien’s books about squishy organic things doing squishy organic things.
+
+How did it even describe this, anyway? It looked oddly flat, like a two-dimensional smear that squirmed moved around in some invisible plane. It didn’t have color, exactly, and Syphus suspected it would have been invisible even to the likes of [Truesight]—it wasn’t hidden so much as it was a construct that didn’t interact with light or mana.
+
+But it was there nonetheless. It had been there all the while, Syphus supposed. Millions of dark threads protruded off its surface and disappeared into the distance, presumably connected to different things or people across the Great Realms.
+
+“I dunno. It looks like an egg,” Syphus said. “A flat egg. With a million legs.”
+
+“That is the Lesion,” Instructor Dark Warrior Eviscerator said. Syphus knew she had technically given them permission to call her Evi, but it liked the name Dark Warrior Eviscerator.
+
+“How did you get that from that description?” Cale asked, incredulous.
+
+“I am a very good describer of things,” Syphus said. “Please tell me how to turn this off. I have a headache and it’s getting worse.”
+
+It could not, unfortunately, just close its eyes. That was one of the drawbacks of how its etherite crown had been designed, and Sisyphus hadn’t thought to fix it with this new, infernal variation. In all fairness, Syphus hadn’t asked for it to be fixed, either. It had gotten used to its ability to see anything and everything in its vicinity.
+
+“You have a headache?” Cale’s voice was sharp and worried, now. Syphus knew this to be Cale’s thinking voice. The human only spoke like this when he was rapidly considering and discarding ideas, trying to identify what magic was at work or what rules they were operating under.
+
+“The Lesion is not a construct that should be observed by mortal eyes,” Instructor Dark Warrior Eviscerator said. Strangely, she also sounded worried. Syphus hadn’t thought of her as the type of person to worry about others unless they were truly in danger. “My Queen and I bound our senses as much as we could before we approached it. We navigated the path using only our connection to the Dark.”
+
+“Oh, it’s one of those,” Cale muttered. “Ancient and unknowable, emphasis on the unknowable. Syphus, can you call up the Gift? Maybe a description of what happened when you used dark magic with your eye? Try to block your line of sight with it.”
+
+Huh. Now there was an idea. Syphus willed the Gift to respond, and to its surprise, the words appeared in a near-opaque screen across its vision.
+
+[Unveiled Eye, Level MAX] [Passive]An upgraded form of [Infernal Eye]. It is the nature of the infernal to deal in sin and secrets, but some shadows remain hidden even from the towering spires of the infernal realms and the watchful eyes of the gods. These are shadows of the things that should have been but never were: the sins and secrets of the lost and forgotten.
+
+The [Unveiled Eye] draws on the Dark to reveal these shadows and reveal the hidden underbelly of the Great Realms. It may not be closed.
+
+The mounting pressure in its mind seemed to lessen slightly as the Gift blocked Syphus’s view of the Lesion, although that last sentence in the spell description wasn’t exactly encouraging.
+
+“It worked,” Syphus reported after a second. “But only partially. I can still kind of see the Lesion, it’s just not as bad.”
+
+“Keep the description visible, then,” Cale instructed, not that he’d needed to say anything. Syphus was, in fact, trying to pull up as much text from the Gift as it could. “What does it say about the spell?”
+
+Syphus hesitated. It really didn’t want to talk about the problems it had been having with its new [Infernal Eye]. There was a reason it had wanted to handle that by itself! Its friends had gone to so much trouble to get the materials needed for it, after all, and while it normally wasn’t the sentimental sort...
+
+Well, it did understand that it could be difficult to get along with. There was a lot it still didn’t understand about the realmborn—about the people that lived in the Great Realms. For all that it was technically one of them, now, many things they cared and worried about simply didn’t come naturally to it.
+
+The concept of privacy, for example, had taken Syphus years to understand. Its natural [Truesight] meant it was aware of everything around it at all times, and for the longest time it had barely understood that walls were supposed to be barriers. That it wasn’t supposed to simply blurt out things that happened behind closed doors because it wasn’t supposed to know about those things.
+
+And then when it had finally learned that some things were supposed to stay secret, it had to contend with this whole new category of things that were technically secret, but that it was supposed to report to others! How was it supposed to know that some forms of penetration were different from others and that some types of leakage were bad? In all the time it had been raised up that hill by Sisyphus, it had never received lessons on these bizarre forms of mortal etiquette.
+
+That was probably why it hadn’t made any real friends for so long.
+
+Damien and Leo and Flia didn’t seem to mind whenever it tripped over some unspoken etiquette it didn’t understand. They were embarrassed sometimes, certainly, but they never seemed to blame it, and they would explain in detail if it asked. Sometimes they would explain in a little too much detail, frankly, but Syphus preferred that to the loathing and silence.
+
+Silence was bad. Silence was what it got on Sisyphus’s bad days, when the Named’s eyes would turn glossy and he would say nothing as he pushed it up the hill. It would go for hours or days on end with no stories, no banter, no absurd remark.
+
+Syphus did not like silence. It worried, on some level, that if its friends knew what its [Infernal Eye] did, they would distance themselves from it. That it would be like its problems with [Truesight] all over again, only worse.
+
+...Maybe it was a little more sentimental than it thought.
+
+“Syphus?” Cale prompted, clearly worried now. Syphus couldn’t see him, but it jerked slightly when it felt soft human hands grabbing one of its arms. “Are you alright?”
+
+“Yes. Sorry.” Syphus did its best to gather itself. It was the most stoic of Cale’s apprentices! It wasn’t supposed to be thrown off its game just because there was some sort of evil-but-not-evil egg it couldn’t look away from. “You wanted the Gift’s description for the new eye, right?”
+
+“If you would.” Cale’s eyes were scanning it, concerned. Syphus didn’t need to see Cale to know from his voice exactly what he was doing.
+
+“Okay,” it said, and then more quietly: “Don’t judge me, though. And I’d... prefer it if you didn’t tell the others.”
+
+It read out the spell description, trying not to focus on the Lesion in the background or its worries about how Cale might react. The pressure it felt was mounting again. Syphus wasn’t sure what would happen when it became too much—would its mind just shut down? Was that even a possibility, for an enchanted construct built by one of the Named?
+
+To its relief, Cale didn’t comment on the implication that its [Infernal Eye] had been able to peer into the secrets of others. It had done its best not to look, but magical vision was entirely involuntary. It knew secrets about its friends now that it was pretty sure they hadn’t wanted to share. That was a violation of their trust, wasn’t it?
+
+It had empowered its eye with dark magic in the hope that the spell would turn into something different. [Truesight] again, perhaps. [Infernal Eye] could see secrets, but it couldn’t peer past walls and illusions the same way its original eye could; it could identify illusions, since they were necessarily secrets, but it wasn’t quite the same thing.
+
+That had clearly been a bad idea. Syphus wondered if this was what regret felt like.
+
+Cale was muttering to himself. “Shadows..." he said. “The [Unveiled Eye] can obviously see the leyline shadows you were talking about, Evi, but I’m not seeing a way to shut down the spell. Maybe if—”
+
+He cut himself off before he finished the thought, but Syphus could guess what he was thinking. In the worst-case-scenario, they’d have to smash its crown of infernal etherite and render it blind again.
+
+Except if its [Unveiled Eye] was sustained by the Gift, there was no guarantee even that would be enough. [Truesight] had been reliant on it having vision in the first place, but both [Infernal Eye] and [Unveiled Eye] were effects that suggested the Gift was maintaining the enchantment. Perhaps it felt guilty that it had allowed Syphus to go blind at all, and this was its way of fixing the problem.
+
+Its headache was getting worse. It hoped Cale figured out a solution soon.
+
+“The Gift is divine, though,” Cale muttered. Syphus could hear his footsteps as he paced about in the sand, which didn’t seem like a good sign. Cale always paced when he was struggling to figure something out. “Dark magic shouldn’t even be able to interact with it. Syphus, how did you manage to empower a spell granted by the Gift with the Dark without breaking its connection to the Gift?”
+
+“Don’t know,” Syphus said. Its voice came out sounding alarmingly distant—Syphus wasn’t sure where it was anymore. It felt like it was trapped halfway between Utelia and the Lesion. It could feel that its body was present in Utelia, but its mind was being drawn inexplicably and inexorably toward the tumor in the Abyss.
+
+The way it pulsed seemed almost inviting, now. That was strange. Syphus was certain it had been grossed out by it before, but now the Lesion seemed almost comfortingly familiar. It had been through similar struggles. It wanted to... help?
+
+But it didn’t know how. The Lesion’s version of help was to pull Syphus into it, to have it join the chorus of voices within. Voices that would understand, yes, but in exchange it would lose its freedom.
+
+It didn’t want that. It wanted more time with its friends.
+
+“Cale,” it said. “Please help. I don’t want to go there. I haven’t told my friends I like them yet.”
+
+It was such a strange, silly thing to worry about. Why was it worrying about that, of all things? There was still so much magic it wanted to master. Like explosions! It wanted to learn how to shoot explosions from its spell cannon and to use its magic to inflict various forms of creative and colorful violence.
+
+But it also wanted to see how its friends reacted to that, it realized. It wanted to see Leo panicking over the possible destruction its new spells could cause, to hear Damien exclaim in wonder, and it wanted Flia to challenge it to do better. It wanted to see if it could create magics that even Cale had never seen before.
+
+It wanted to see the Great Realms so that Sisyphus could have a taste of the freedom that had been kept away from him. He had taken care of Syphus for so many years, and it had only shown him a fraction of what it had promised.
+
+“SISYPHUS!” Cale suddenly bellowed, and Syphus flinched at the force of his voice and the magic that suddenly poured from him. What was Cale doing? That wasn’t even a spell! It felt like a bonfire of pure magic had been suddenly lit right next to it, and even with its sight stripped away it could feel that familiar prismatic mana pouring up into the sky.
+
+That sheer presence had a gravity to it, and Syphus found itself suddenly there again, its mind in Utelia and far away from the whispers of the Lesion. The pressure lessened again—it was only temporary, Syphus knew by instinct, but it was relieved nonetheless. It would not be leaving just yet.
+
+Cale’s plan couldn’t have been to simply anchor it there with a stream of mana, though. What was he doing?
+
+“Sisyphus,” Cale called again, his voice loud and drumming against the sand, and Syphus realized abruptly that this was a summoning. That he was calling Sisyphus’s attention to them in the here and now. The Named were strange beings that were in some ways separate from the flow of time, and so even though Sisyphus had nothing else to do, he wasn’t always watching the world through Syphus. He peered in across the past and present, sometimes at possibilities in the future, depending on what drew his interest the most.
+
+Cale was making sure that this moment drew his interest, and sure enough—
+
+“What is it,” Sisyphus snapped. Syphus felt the force of the Named suddenly inhabiting its mind and body. “I was having a perfectly good time watching the skorran bathhous..."
+
+Sisyphus trailed off abruptly, and Syphus could feel him frowning. “What is this?” he demanded, rotating slowly in the sand. “What’s it doing in Syphus’s eye?”
+
+In its eye? Syphus felt mildly ill. It didn’t like the thought of that.
+
+“You tell me,” Cale said. He didn’t seem angry, exactly. Which was good, because Syphus didn’t like the thought of Cale and Sisyphus fighting in the slightest, and it had been a little worried about that when Cale first started shouting for Sisyphus. He was... what was the word? Forceful? “It tried to incorporate dark magic into its new eye and it twisted the spell.”
+
+“That’s impossible.” Sisyphus said immediately. “I made sure [Infernal Eye] was linked to the Gift. The dark and the divine can’t coexist.”
+
+“Not in most cases,” Cale said. Syphus could hear the scowl in his voice. “Unless you’ve got another impossible thing available to sustain the paradox.”
+
+Sisyphus scoffed. “And what would that be?” he asked. “I’m not a magician, Cale, I don’t just make impossible things happen—”
+
+“You are the impossible thing, you idiot,” Cale hissed, and Syphus felt its body jerking in place; to its surprise, it felt almost like Sisyphus’s presence had been pulled partially out of it. Had... had Cale somehow grabbed Sisyphus by the collar and dragged him out? It really wished it could see what was happening. It would save the memory forever. “Your paradox is sustaining this. You aren’t supposed to be able to roam free in the Great Realms, remember? You’re supposed to be trapped, rolling your boulder up a hill for eternity. What are you doing now? Resting in the fields, watching a bathhouse, you said?”
+
+“It’s all consensual!” Sisyphus defended himself. “Syphus told them I would be watching before it entered!”
+
+“That’s not the point,” Cale snapped. “Your link is bridging the Gift and the Dark. If you keep it in place, Syphus is going to have its soul drawn into the Lesion!”
+
+“I—what would you have me do? Abandon the link?” Sisyphus shot back. “Syphus is my only link to the Great Realms. Without it—”
+
+“It’ll be lost either way!” Cale snarled, interrupting him, and Syphus felt a shove, like he has pushed Sisyphus back somehow. It felt a flicker of alarm. Why were they talking about this? Did Cale really want Sisyphus to abandon their link? Its relationship with Sisyphus wasn’t perfect, but it didn’t want him gone.
+
+“You—” Sisyphus started, glaring. And then, also to Syphus’s alarm—because it had never once seen its creator back down—Sisyphus relented. “Fine,” he said. “I... you’re right. I don’t need the link. It deserves its freedom.”
+
+Syphus struggled against the hold Sisyphus had on it. It didn’t want this! Sure, it didn’t like the way its creator sometimes took over abruptly, but Sisyphus had still raised it. Had told it stories even before it had been alive. It had seen how lonely the Named was, and it didn’t want him to go back to that.
+
+It hadn’t even realized until now that it cared. Syphus had always been bad at expressing that it cared about anything. Maybe Cale thought it wanted complete freedom from Sisyphus, that it didn’t want to have the Named always looking over its shoulder. It wanted more freedom, certainly, but it didn’t want their bond severed.
+
+It needed to speak. It needed to say something. It could already feel Sisyphus reaching for their link, preparing to break it—
+
+“No!” it burst out, and both Sisyphus and Cale turned their attentions to it, startled.
+
+“Syphus?” Cale asked.
+
+“I don’t want Sisyphus to be alone,” it said, and it felt the surprise in Sisyphus as it said the words—the surprise and the warmth that it had never cared to notice before. “There has to be another way, Cale. Please.”
+
+Syphus still couldn’t see its mentor, but it could feel the contemplative gaze on it. “You’re sure?” Cale asked.
+
+“Yes,” Syphus said firmly. “He is still my father.”
+
+It could feel Sisyphus’s shock at those words. For once, the arrogant Named had nothing to say. Cale, for his part, fell silent for a moment before he spoke again. Syphus could hear the frown in his voice, the way he rapidly thought and recalculated.
+
+“The bond is what’s sustaining the spell,” he muttered. “But if you break it and let the spell dissolve, then re-establish it quickly enough... the only problem is Sisyphus won’t be able to re-establish it once it’s broken. Syphus needs to be the one to do it, and it doesn’t have the enough power or the right magic, unless..."
+
+He’d thought of something. Syphus could tell, from the shift in cadence in his words. “Syphus,” Cale said. “Have you ever heard of a grappling gun?”

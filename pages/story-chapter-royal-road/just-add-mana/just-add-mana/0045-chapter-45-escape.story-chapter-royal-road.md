@@ -1,0 +1,185 @@
+---
+id: 083e1fad-972a-5d21-ae2f-28ce82cdb8d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45 — Escape"
+slug: 0045-chapter-45-escape
+partOf: just-add-mana
+position: 45
+ownLength: 3379
+unit: words
+ownProgress: 3379
+publishedAt: 2025-10-09
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2663432/chapter-45-escape"
+royalRoadId: "2663432"
+markedReadAt: "2026-06-29T18:49:06.887Z"
+---
+
+Serof Ontiladus was running out of time, and he knew it.
+
+The Watchful Hive ran on a strict schedule, in large part because of its position off the eastern coast of Aersheld. Inconvenient as it was, the waters of the Endless Deep did a remarkable job shielding the enormous, tower-sized relic from would-be spies and scryers. The ocean around them created a strong magical interference field that was all but impossible for most spells to penetrate.
+
+Unfortunately, the same thing applied to travel. It was virtually impossible to reach or leave the Watchful Hive unless the tides were low, which—thanks to both the natural movement of the oceans and some very powerful spells cast by the Grand Mage—happened only about once every two months. For about six hours, the otherwise impenetrable magics of Utelia's oceans would be diminished just enough to sail across, albeit not without a great deal of protective magic.
+
+That meant Serof's escape plan hinged entirely on being able to navigate the Watchful Hive without being spotted, steal a boat, power its enchantments, and sail across a stretch of the Endless Deep within a six-hour window.
+
+Oh, and he had to do that while avoiding the Red Hunters that would also be making their way to the Watchful Hive.
+
+If nothing else, the tight schedule made things more predictable. There were no Red Hunters here to catch him unawares, for example, and there would be none until the waters had lowered enough for them to sail across.
+
+That was... pretty much where the good news ended.
+
+The interference around the Watchful Hive made it just as difficult for spells to reach out as it was for spells to reach in. The only reason Serof and the other Observers had been able to scry into Utelia was because of their ichorworm connections. The larvae acted as a sort of spell anchor on the opposite side of the field, allowing simple scrying spells to make their way across.
+
+With his own ichorworm dead, however, Serof was rapidly losing his ability to see outside the Hive.
+
+And that was a problem.
+
+The Watchful Hive didn't have much in the way of timekeeping devices—none of the Observers needed it, in large part because they were constantly monitoring what was happening to their targets anyway. And while it was just a suspicion on Serof's part, he believed part of it was also to make sure the Observers were as detached from their own reality as possible.
+
+With no real sense of how much time was passing, it was far easier to default to the Broodmother's constant buzzing, and far easier to fall into the task of scrying constantly. They stopped only for breaks. For food and water, essentially, as well as for any other physical needs that might need tending to, though calling the slop they were given "food" was... well, it was generous.
+
+Serof grimaced a bit as a few more of his memories came flooding back. Cale's mana might have broken the Broodmother's control over him, but there were still cobwebs over most of his mind. Every so often, a memory would strike him, making him relive one of the many indignities he'd endured over the last eight years.
+
+The food felt like it was one of the worst, but not because he hadn't seen and endured worse over the years. It was just that cooking had been one of his joys, prior to all this. Serof had loved it. He'd loved learning about different cultures and styles of food, exploring new ways to combine flavors and coming up with new dishes.
+
+More than that, he'd loved seeing the way people lit up in response to his food. Unlike most other mages, he didn't delve dungeons to see what artifacts they held or what secrets they contained. He just wanted to see what sort of food was being made in other realms. He wanted to study their recipes, see if there was a way to incorporate what they did into his own work.
+
+Not only had he not cooked a single meal for eight years, he hadn't even eaten real food for eight years. Serof remembered day after day of mechanically shoveling goop into his mouth while the buzzing told him it was the best thing he'd ever had.
+
+It was decidedly not. Especially not now that he had the clarity of mind to think back on it.
+
+The Red Hunters valued efficiency, after all. They would have used teleportation to get into and out of the Watchful Hive if it were possible, and there were some spells that could reach across when properly anchored. The spellslates, for example, worked because they were linked to a similar network of spellslates buried all across Utelia.
+
+But even with the help of the spellslate network, teleporting in and out of the Hive was impossible. Anything they tried to teleport, spell anchors or not, was mangled beyond recognition. That was the reason spellslates needed to be manually transported via boat, though Serof suspected they wouldn't have wasted the precious things on just getting in and out even if it had been possible.
+
+Regardless, there was one thing they could teleport that reduced the necessity of making large supply runs: food and water. It didn't matter if the food got mangled as long as all its nutritional content was still there, and so Observers were kept fed with what their Hunter teams fondly nicknamed "teleportation sludge."
+
+Now that Serof thought about it, that name had definitely been mocking. He scowled at the thought, then scowled again at the fact that he'd been eating nothing but teleportation sludge for years. As if that weren't bad enough, he was pretty sure that sludge was "supplemented" with the lesser honey that the Broodmother regurgitated after each feeding.
+
+No doubt because it helped keep them all pliant. Serof was struck by a sudden thought—food production was a process that was mostly automated, with most of the incoming food teleported into a tank that preserved the resulting sludge. If he could sabotage the process to somehow make sure the lesser honey was wasted rather than mixed in...
+
+Serof winced. It all came back down to the fact that he didn't know if he had time. If teleportation wasn't so much of a problem, he might have been able to teleport himself to Aersheld and get in contact with the kingdom of Thyrahl. They might have tolerated the Red Hunters, but if they caught wind of what was happening in the Watchful Hive, that tolerance would almost certainly end.
+
+Serof wouldn't have been surprised if they declared outright war, in fact.
+
+Though now that he thought about it... would they even believe him? That buzzing had carved out so many of his memories. So much of his life before the Hive was a blur, and even his time as an Observer was rapidly starting to feel like there were cobwebs plastered over his memories. He knew he'd enabled atrocities, but now he was barely remembering which ones.
+
+The most important things remained, at least. He was still himself. He knew what he'd loved doing, once, and he hoped he'd be able to get to that again one day.
+
+Though that day, he knew, was unlikely to come anytime soon.
+
+Serof sighed. He'd been carefully scrying the catacombs of the Watchful Hive for the past hour or three; he was pretty sure he now knew the route out, and even if he got lost, his scrying wasn't disabled within the Hive. It would probably take him about the same amount of time to identify where the boats were kept and where the food production facilities were, if he decided he wanted to mess with those.
+
+The trouble was that he was pretty sure low tide would be arriving soon. Before his ability to scry outside had begun to fail, he'd managed to locate both the boathouse on the Aersheld coast and a glimpse of the schedule; it looked like they were preparing for a shipment. Whatever else happened, he needed to be on a boat and on the way back before low tide was over.
+
+Serof sat back against the wall, sighed, and began to scry. This time, he searched for the boats that would allow him to sail back to Aersheld.
+
+As well as the food supply tanks. Just in case he had time.
+
+At the same time, he went over his plan once more. He needed to leave the Hive without being spotted by any of the other Observers. It wouldn't be the end of the world if he was spotted, at least. Serof was now well aware of and familiar with the downsides of indoctrination, which was that none of them were very good at thinking for themselves. If he was spotted and just gave an excuse, he was pretty sure it would be accepted without question.
+
+He just didn't really want to deal with it. Knowing that his friends and family were under the control of the Broodmother was one thing, but actually meeting them? Serof didn't trust himself not to try to shake them out of it, and that he knew wouldn't go down well.
+
+He'd prioritize making his way to the boats for two reasons. One, the boats were at the entrance to the Hive, and from there, he'd be able to see what time of the day it was. Serof may have been unsure about exactly when low tide would happen, but he did know it always happened at night; if the sun began to set, then he'd know to watch the water level.
+
+Second, he needed to get help first and foremost. Sabotaging the sludge might reduce the Broodmother's influence, but it wouldn't do much with their ichorworms still in place. If food production happened to be somewhat near the boats and there was time, then he could spare a moment to mess with it. Otherwise...
+
+Well, he would be back with help. Serof told himself that a few times, trying to ignore the shaking in his limbs.
+
+After he found the boats, he'd need to spend some time familiarizing himself with the enchantments on them, too. He'd never sailed before, and while he knew it was typically done by supplying mana to a set of enchantments on the boats, he had no idea how to manage them. If he wanted to have any hope of avoiding the Red Hunter patrol that would be coming in the opposite direction, he needed to know how to sail intimately.
+
+Or at all. He would also settle for "at all." Escaping the Watchful Hive was ambitious enough, and the truth of it was that he had no real idea if he could pull any of this off.
+
+But he had to try. All his friends and family were here. Practically his entire clan, each one specializing in light and scrying. Even now, Serof could barely remember how or why they'd all ended up here, but he knew he needed to get them all out.
+
+He was the only chance they had left now. Just this morning, they didn't even have a chance left. If he could find Cale, if he could get him to help... it would all be alright.
+
+It had to be.
+
+Serof managed step one with relatively little fanfare.
+
+The biggest problem he'd run into was that the boats were warded, but those wards had been surprisingly easy to break through. They were minimal things, more to prevent them from being whipped out to sea by an errant wind-current from one of the Endless Deep's constant magical storms than secure them against a potential thief. Clearly, the idea that one of their Observers might break free from an eight-year-long control spell had been outside the Red Hunters' considerations.
+
+That relieved some of his concerns, but not all of them. The sailing enchantments may as well have been a complex arcane lock, for all Serof understood them. He was beginning to realize he would need to practice within the rather limited confines of the port, which was probably more accurately described as a cavern with some water in it.
+
+On the other hand, there were two boats moored here, so he could afford to mess up with one of them. As far as he was concerned, it was probably better if he did; the more he did to ruin things for the Red Hunters, the better. The whole reason they needed backups like these was because sailing across the Endless Deep was so dangerous. If he destroyed one and stole the other, and the Hunters wrecked their ship getting across, they'd be trapped here.
+
+The thought of that gave Serof a grim sort of satisfaction.
+
+Possibly too much satisfaction. He accidentally crashed the first boat within minutes, feeding just a little too much mana into the wind enchantment and causing it to slam straight into the wall of the cave.
+
+On the other hand, that was enough for him to figure out how the enchantments worked. They looked complicated, but were surprisingly simple: the largest rune created winds that blew the ship forward, and the two slightly smaller ones on each side steered it. Serof spent a few more minutes experimenting with the smaller runes beneath, noting that each of them were associated with a series of defensive spells, most likely to help the boat withstand the storms of the Endless Deep.
+
+Good enough. Serof considered sailing the boat he'd wrecked into the Hive's walls a few more times, but decided it was better to steer it back into place and leave it as it was, with only a minor patch to prevent water from leaking in.
+
+The sun was still high enough that he had time to go sabotage the food tanks, too.
+
+Even better.
+
+—
+
+Scrying hadn't prepared Serof for how bad everything would smell.
+
+The teleportation sludge itself was effectively sterile, partly due to the teleportation spell that had created it in the first place and partly due to the preservation wards etched into the food tanks. It wasn't the source of the smell.
+
+No, the source of the smell was the pipes. The Broodmother's regurgitated lesser honey was piped through the walls and down into the food tanks, and it smelled nothing like how he remembered. Serof shuddered. In his memories, his food had both smelled and tasted pleasant... which meant that almost everything about it was probably artificially induced by the buzzing.
+
+Any hunger he'd been feeling evaporated at the smell, at least, so there was that.
+
+Thankfully, the production line wasn't too hard to sabotage. The pipes were relatively fragile things, made out of a thin metal that had clearly been hastily shaped for this purpose. He climbed to the top of the tanks, shoved as hard as he could, and they broke loose and dribbled their honey all over the tank lid.
+
+And also his hands and knees. Serof winced with disgust. He'd need to wash himself thoroughly before eating anything after this. Thankfully, that was all he really needed to do—pushing the pipe into place behind the tank made the so-called honey drip into the drainage system behind, and with how dim the whole place was, his sabotage was barely even noticeable.
+
+Phew. That had been remarkably easy, actually. Serof glanced around, half-expecting one of the other Observers to suddenly appear in the dark; when no one did, he made his way back to the "port" to wait for low tide. While he was there, he gingerly dipped his limbs into the water to scrub off as much of the honey as he could.
+
+It was when he was done that he realized that something was wrong.
+
+Or not... wrong, perhaps. Strange. The sun was still high, which meant that it wasn't even noon yet; his estimation of time had been way off. It looked like not even half the day had passed.
+
+And yet the water level was going down.
+
+Low tide wasn't supposed to happen until night. This was one of the few things Serof remembered very clearly, mostly because the Hunters that came to resupply their spellslates never stopped complaining about it. Something about the waters of the Endless Deep being much more intimidating beneath the light of the Dread Moon.
+
+Except right now it was clearly still the middle of the day. It shouldn't have been time for low tide yet. The tides happened like clockwork, and as far as Serof knew, it had never been off for the last eight years.
+
+Every two months, the Red Hunters arrived in the middle of the night, complaining about having to do so. This was a fact ingrained into him so deeply at this point that it felt wrong to consider that anything else might be true.
+
+So what did it mean that it was off now?
+
+Serof stared at the boats. He had no idea what to think of this. Did that mean he needed to leave now? Was there a reason the Red Hunters waited until night? Low tide was supposed to last six hours, but his sense of time was so off by this point that he barely knew what that meant.
+
+He was pretty sure six hours wasn't enough time for it to be the middle of the night. This just seemed like the tide was a few hours off.
+
+But why would the tide be a few hours off?
+
+There had been no communication from the Red Hunters about this, so it was unlikely they were anticipating it. When Serof was scrying earlier, he hadn't noticed the usual team anywhere close by, and if they had been preparing to sail off they would at least have been in the vicinity. That would almost certainly screw with their plans—the tides being low now meant it would be rising again by the time the Red Hunters were in position.
+
+It also meant he wouldn't need to worry about running into them while sailing back across, if he was quick about it. He might be able to escape into the mountains of Aersheld and find a way to a teleporter that could get him to the Brightscale Academy.
+
+Whichever god did this... thank you, Serof said, bowing his head in a small prayer, feathery antennae dipping with him. Because who else could have done this? The tides shifting to help him couldn't be anything less than an omen from the gods. A sign of their favor.
+
+After all, the only other thing that might shift the tides themselves was if someone had moved one of the moons, and the idea of that was ridiculous.
+
+Sternkessel cocked his head. If he had eyes to narrow, he would have narrowed them; as it stood, he simply paused mid-sentence to stare into space, the rings of his head spinning silently for a moment.
+
+"Sterny?" Cale poked him in the shoulder. "You were about to tell us about something you noticed."
+
+"Sterny?" Sternkessel repeated, turning to stare at the human.
+
+"I'm trying out nicknames! Not sure I like that one, though. Might have to try something else."
+
+"I see," Sternkessel replied evenly, careful to avoid changing his expression. Mostly because keeping Cale guessing was developing into a remarkably interesting past-time. "Yes, well. What I was about to say was that I was aware of a third party presence disrupting my domain, but could not trace it. That, it appears, has changed."
+
+Cale squinted at him. "Are you about to teleport away with no further explanation?"
+
+Sternkessel chuckled. "I will be back in an hour or two," he said.
+
+Then he reached up to spin one of the rings on his head and vanished.
+
+Cale stared at the spot where he'd left.
+
+"Well," he said eventually, shrugging. "I've got about an hour before the next class, so this is a perfect chance to test my new baking spell."
+
+He beamed, then paused.
+
+"Technically, I have to see what it evolves into first," he amended. "It might not be a baking spell. But it probably will be. Anyone coming? We should go fast, because Imrys is headed this way and I'm pretty sure she's looking for me."

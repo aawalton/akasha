@@ -1,0 +1,71 @@
+---
+id: 13fc847b-4f48-5ac7-936c-9be85642723e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53: Force Ray Assault"
+slug: 0092-chapter-53-force-ray-assault
+partOf: labyrinth-of-the-mad-god
+position: 92
+ownLength: 1576
+unit: words
+publishedAt: 2024-11-18
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1911325/chapter-53-force-ray-assault"
+royalRoadId: "1911325"
+---
+
+The Janitor stopped chasing Nick while he raced to rejoin his team. Instead, the wounded mutant darted over the far corner of the chamber, where it was beyond the gear-swarm’s reach and safe from the party for at least a few more seconds.
+
+Nick came to a skidding stop—gasping for breath as sweat poured down his body. Even with his high Toughness, pushing his body to its absolute limit while burning stamina was tiring, especially while running for his life against a terrifying monstrosity. He drained his canteen, put it into his bag to refill it with the water inside, then drained it again.
+
+While Team Earth switched up their formation and began to advance, the Janitor started to change shape—emitting a dense cloud of mana-infused essence in the process. Apparently, transforming was hastening its core’s rapid decomposition, but the starving creature didn’t care. It was either going to eat everyone in the room and stabilize itself with their essence, or it was going to die trying.
+
+The battle between Team Earth and the tier 2 monster had arrived at a pivotal moment, and only one side would be walking away when the dust settled.
+
+Nick recovered from his prolonged race as he watched the mutant change shape for the final time. First, the shark’s limbs and mouth softened and lost cohesion, retracting into the Janitor’s body until it was a quivering blob once more—the original form that the party had encountered.
+
+The mutant reabsorbed its white shell over the next few seconds, changing the force mana into a state that it could use to fuel its spells. Its body faded until it was almost transparent, making it hard to track its position with his eyes.
+
+Luckily, Nick could sense the force energy that the creature was releasing, along with Sophia, who was wearing Kellen’s glasses for this stage of the operation. Its core is close to falling apart. One way or another, this fight won’t last much longer. The Janitor is going to be even more aggressive than before, since it needs to eat us before that happens.
+
+The moment that the mutant was done transforming, it turned to face Team Earth—mana coalescing in the air above its head. He opened his mouth to issue a warning, but Sophia was already on it.
+
+“It’s gathering its energy and preparing to fire,” she called out. “Spread out and get ready to dodge! Focus on evasion until we get a better sense of the timing. You won’t survive if you get caught in the blast. It’s taking the Janitor a minute to change gears, but don’t expect the next spell to have nearly as long of a delay.”
+
+“Shaun,” Nick yelled. “Hit it with a Smoke Arrow, fast! It should help everyone see the force rays coming and give us more time to get out of the way.”
+
+“Sure,” the red-haired archer replied. “But it won’t be nearly enough smoke to fill the air in a space this big.” He was already nocking an arrow and taking aim, trusting Nick’s judgement despite his concern.
+
+“That’s perfect. Too much smoke and we’d wind up blinding ourselves.” Shaun was clearly confused, but to his credit, the young man didn’t hesitate. He drew back an arrow and activated his ability—pushing past his fear to focus on the task at hand.
+
+When his arrow began glowing with a pale gray light, he raised his sights and released the missile. It went soaring through the air, trailing smoke all the while, then went plunging into the Janitor. No longer shielded by its protective shell, the arrow sank into the mutant’s side.
+
+“Direct hit.” Devin called out. “Nice job.” The moment that missile found its target, it began releasing a thick cloud into the air—hissing all the while like two cats with their tails tied together. The ability ran out of juice a few seconds later, but it had done its job. The heavy smoke around the mutant began pooling across the floor, with a thinner layer riding on top. “Let’s see if this works.”
+
+The team let loose a barrage of ranged attacks while the Janitor’s spell finished forming—taking advantage of the moment to get in some free hits. As bolts and arrows filled the air, some shimmering with magical energy, Nick fired off a pair of Mana Darts. Sophia’s summons were running low on time, so they rushed in, landing as many strikes as they could before the mutant unleashed its volley.
+
+Thick bands of force mana were gathering in the air above the Janitor’s head, each containing more energy than his own Piercing Rays. Now that he could perceive them clearly, he was able to appreciate how much raw power the creature packed into each of its spells. There’s no way that I would survive a direct hit from one of those, he observed as his team spread out in a staggered half-circle around their deadly opponent.
+
+As the Janitor wove the bands of mana together, they began to spin. The entire mass of force energy started to rotate, faster and then faster still. Not just the tip like Nick’s Piercing Rays. He could sense essence woven into the mix as well, adding power and structure to the churning blender of force. Then the beam hit critical mass, no longer shrinking as it spun like a compressed tornado.
+
+“Its spell is ready to go!” he yelled. "Open some distance and get out of the way.” The instant that he cried out his warning, the mutant unleashed its wrath. A beam of concentrated kinetic energy went streaking out from its position.
+
+While the translucent power was invisible to the naked eye, the smoke from Shaun’s arrow was swept up by the powerful wind the spinning beam created—making the path of the attack clear as day as it shot out from the corner of the room at breakneck speed.
+
+It only gave them two heartbeats to figure out where the spell was heading. Just enough time for Sophia and Veronica to jump out of the way. The beam touched down a bare second later, expanding into a hemisphere of volatile mana ten feet across before dispersing a few seconds later. The power behind the blast was incredible—strong enough to rip chunks of stone free from the floor and send them sailing across the room.
+
+“That was perfect, Shaun,” V called out. “Whenever the smoke gets too thin to see, launch another round. Be careful not to overdo it, or the plan will backfire.”
+
+Everyone else began to return fire while Nick came to a stop, poised on the brink of an epiphany. Watching the force beam up close had given him an insight into his own Piercing Ray. If I can get the entire ray to spin, and not just the tip, I think I can increase the efficiency of the spell. He was agonizingly close to internalizing the gain, but he was going to have to watch a few more blasts before it happened.
+
+He launched another Mana Dart—noticing that the team’s barrage was inflicting some real damage this time around. Patches of the Janitor’s jellylike body were bubbling and burning, eaten away by acid and flame. Devin threw his two-handed axe and activated Blast Striking, blowing a massive hole in its side that was filled with sizzling mana.
+
+After that, the warrior borrowed Sophia’s daggers, launching another one each time that the magic blades returned to his outstretched hands. It seemed that the magnitude of the explosion was tied to the size of the weapon, but it let Devin deal damage while standing far enough back to dodge the monster’s spells.
+
+Shaun fired off another Smoke Arrow as he retreated to the back of the room, where he would have longer to react to any beams headed his way. He couldn’t get out of the way as fast as the others, and needed all the time that he could get. His smoke only offered a brief warning, but it made all the difference. It kept Team Earth from taking any direct hits as both sides continued to trade attacks from range. Well, look at that. Shaun was able to make a real contribution after all.
+
+No sooner had that thought passed through Nick’s mind, than he felt mana congealing in the air above the Janitor—far more power than it had packed into its other attacks. This spell feels different from its force beams.
+
+His suspicions were confirmed when a white tube began growing out from the side of the blob that was facing the party. It seemed to be made of condensed force mana, just like the shark form’s shell. Meanwhile, pseudopods extended from the base of the mutant—planting themselves into the ground to stabilize its mass in an arrangement that reminded Nick of a tripod.
+
+At first, he thought that it was shifting into a new form. But then he realized that the protrusion looked more like the barrel of a cannon. Ah hell. That can’t be good. By now, the heavy flows of mana were being drawn inside the muzzle, along with wisps of other types and a fair amount of kinetic essence.
+
+“Watch out,” Nick yelled. “This ability is different from anything that we’ve seen. It’s going to fire something from that cannon that’s a lot more powerful than its other spells. The Janitor is bringing out the big guns. Spread out and get ready to dodge!”

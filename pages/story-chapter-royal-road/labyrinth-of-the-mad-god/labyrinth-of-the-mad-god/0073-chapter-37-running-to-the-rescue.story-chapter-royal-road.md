@@ -1,0 +1,67 @@
+---
+id: 9a4ba7ee-b209-5a21-bcb6-f9ad998a1b79
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: Running to the Rescue"
+slug: 0073-chapter-37-running-to-the-rescue
+partOf: labyrinth-of-the-mad-god
+position: 73
+ownLength: 1538
+unit: words
+publishedAt: 2024-10-11
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1845676/chapter-37-running-to-the-rescue"
+royalRoadId: "1845676"
+---
+
+The slap of boot leather striking stone echoed down the passageway. Nick, Veronica, and Shaun sprinted across the facility, making their way down to the basement’s lowest level as fast as their feet would carry them.
+
+Veronica watched the way ahead while Nick charted a course using the map, leaving Shaun to watch their backs. Sweat poured down their bodies and adrenaline sang in their veins. Nick wanted to run even faster, but he forced himself to play it smart so that he didn’t burn himself out before he reached Sophia and Devin.
+
+Although he was filled with an electric sense of urgency, he knew that this race was a marathon, not a sprint. That giving into his fear wouldn’t help his friends, only make things worse. They moved as quickly as they could without exhausting themselves, using the windows lining the central chamber as a reliable point of reference.
+
+After witnessing the war for garbage and the Janitor’s ambush, they hadn’t seen any constructs or roaches all day, letting them devour one mile after another as they raced to save their friends. They couldn’t afford to rest for more than a few minutes at a time. Not with that monster hunting Sophia and Devin. What they needed now was speed.
+
+After the first hour, it was clear that it was going to take at least several more to intercept the rest of the party. Nick prayed that they would make it in time. He would have felt better if they had been able to warn the others. But with an invisible killer on their trail, he couldn’t get the image of the Janitor falling on Devin and Sophia unaware out of his head. Tearing them to pieces before they even knew what hit them.
+
+Whenever his imagination got the best of him, Nick used arctic clarity to keep a level head. Although he was deeply worried, the situation would only get worse if they took a wrong turn or stumbled into a trap.
+
+They stopped to eat a quick dinner, double checking the map while putting their heads together regarding what they’d observed. Then they kept right on going, although it was clear that Shaun was tired and sore.
+
+To his credit, the young man didn’t complain. He just kept on putting one foot in front of the other while running as fast as he could. Which was good, because Nick and Veronica wouldn’t have been willing to wait for him no matter what. She gave him a stamina potion when he started falling behind, doing everything she could to help reach the others faster.
+
+Nick had hoped that they would make it without running into any more enemies en route. But their good fortune ran out an hour later, when the gear swarm reappeared from wherever it had been hiding. They were forced to slow their pace to avoid attracting attention. To stop and hide on three separate occasions, losing precious minutes until the mechanical menaces passed them by.
+
+While part of Nick was tempted to force their way through, he knew that it was an impulse born of frustration rather than a viable plan. Now that they knew how powerful the roach horde and construct swarm truly were, being forced to fight either at this point would be a recipe for disaster. Even if the party was able to triumph, it would cost them far too much stamina, health, and mana.
+
+They were manageable further out from the middle of the floor, where their forces were spread thin. Their bases of operation must be relatively close to the site of the garbage dumps.
+
+Even if their victory was guaranteed instead of uncertain, they couldn’t afford to draw that much attention to themselves. Not while their friends were being pursued by an immensely powerful creature. If they got trapped between the Janitor and either army, he doubted that they would survive.
+
+Nick had to reach them first, shake off the monster’s pursuit, then get the hell off this floor while they still could. Maybe we can lure the horde or the swarm into its path, then get out while they’re fighting.
+
+He didn’t know what he would do if the party was forced to engage the force-flinging creature before they could climb the stairs. At this point, Nick wasn’t sure that they could even hurt the Janitor, let alone kill it. Even if they could dish out some serious damage, the creature was capable of high-speed regeneration. It would erase anything they could throw at it as far as he knew.
+
+He hadn’t been able to discover any weaknesses studying Kellen’s notes as he ran. There was only so much that he could learn from diagrams that he couldn’t read large portions of. Making a bad situation worse, the creature’s magical attacks seemed too powerful to defend against using conventional means. Taking a direct hit from its spells would result in severe injuries if they survived at all.
+
+On top of everything else, Nick was the only one who could see what was happening when the Janitor unleashed its abilities. Both V and Shaun had reported that the monster’s attacks were completely invisible to their eyes, although Veronica had felt a vague sense of energy building before it struck.
+
+But that wouldn’t be enough to let her engage it effectively, let alone Shaun. They couldn’t fight something that they couldn’t see. Couldn’t dodge or deflect powers that they couldn’t perceive. When we get out of this, we all need to learn how to sense mana clearly. We’re critically vulnerable against certain spells until we do.
+
+While he ran, Nick kept searching for a solution to that dilemma. His brain whirled like mad as he fought to come up with a plan that would let them survive if they were caught by the Janitor, or forced to hold it back long enough to help his friends break free.
+
+He ran various scenarios through his mind, trying to decide how to use their limited resources as effectively as possible. On that note, he went through their new powers and consumables one more time, making sure that he had a good grasp of what everyone could do.
+
+With her upgraded stats and taking the ability to rank two, Veronica could fire a few dozen acid bolts without running out of mana, healing the party if they landed on target. Her bleeding claws used stamina instead, so she could use them as needed without taking away from her supportive power. However, she burned stamina in battle in other ways too, so she had to be careful how she used it.
+
+Nick wasn’t sure if her claws would do anything to the Janitor, so he wouldn’t know how to incorporate them into his plans until she gave it a try. At least every time that she lands a hit, her damage over time will grow more effective. Maybe if she can rack up enough blows, her powers will be strong enough to counter its regeneration.
+
+Moving on, V still had two web consumables left, which she was saving in case they needed to get away from the horde or the swarm. Her concentrated potions of stamina were a silver lining in the dark storm brewing on the horizon. They would let the party to fight harder and longer than they normally could, and sprint long distances if they were forced to retreat. He doubted that there would be any left by the time they reached the rooftop, but they had already been an invaluable asset.
+
+For his part, Nick still had all three consumable barriers. His mana was topped off and his wand was sitting at full charges. He questioned whether the wand would do anything to the Janitor given its size, so he would try to find other ways to use it in a fight. He suspected that his mana darts wouldn’t do much good either, given the creature’s grade and tier. He would save his mana for piercing rays, or force acceleration as a last resort.
+
+Shaun’s regular arrows weren’t going to do much damage no matter what they were facing, but they might be able to serve as a distraction. His electric arrows would help against the roaches or constructs after Nick bunched them up using his wand, and his smoke arrows could help them get away once they were ready to make a break for the stairs.
+
+For the most part, Nick just hoped that Shaun would be able to stay out of the way and protect himself once the fighting started, since no one could afford to guard him in a battle against that monster.
+
+He wasn’t sure how smart the Janitor was. But given the way that it had tricked Kellen into thinking it was harmless until it was strong enough to take over the floor, it had to be at least at the level of a smart animal. If it was closer to a human, they wouldn’t have any chance at all.
+
+Nick kept on processing contingencies as they ran, praying that he could come up with something before they ran out of time, as the echoes of their footsteps echoed across the stonework.

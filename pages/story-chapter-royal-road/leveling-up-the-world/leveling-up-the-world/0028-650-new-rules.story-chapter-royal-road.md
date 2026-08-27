@@ -1,0 +1,181 @@
+---
+id: 029b8beb-2158-5af3-b24e-4b20c22ebc73
+page-type-slug: story-chapter-royal-road
+title: "650. New Rules"
+slug: 0028-650-new-rules
+partOf: leveling-up-the-world
+position: 28
+ownLength: 2221
+unit: words
+ownProgress: 2221
+publishedAt: 2022-12-07
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1057557/650-new-rules"
+royalRoadId: "1057557"
+markedReadAt: "2026-06-29T22:41:07.697Z"
+---
+
+“She’ll be difficult to track,” the hunter said. “You can’t sneak up on a gorgon. Also, she sounds like someone who wouldn’t be found unless she wants to.”
+
+Dallion nodded. He was fortunate enough to have stumbled on another hunter in the mage village. The man was a veteran from the north with a permanent contract to the Academy. From what he had explained, the war was causing increasing disruptions in the northern provinces to the point that the Academy preferred to do their creature research in the local enclave.
+
+Having spent his time exclusively in the southern part, Dallion still found it difficult to believe that the Tamin Empire could be anything but victorious, but apparently reality thought otherwise. While the Wetie province enjoyed relative calm—other than the internal conflict between Countess Priscord and Archduke Lanitol—and had even acquired a few new territories, other provinces had gone on the defensive.
+
+“It won’t be a priority mission, though. I’ll keep an eye out when I’m doing other things.”
+
+“As long as you give me regular news.” Dallion nodded. None of the local mages had officially said anything, but he had the feeling that in a few days he’d be moved to some place closer to the Academy. It also helped that the dryad items kept being gossipy as always.
+
+“An echo item, then.”
+
+“I don’t have enough to pay you now, but the hunters in Lanitol will tell you I’m good for it.”
+
+“Kid, you’re a mage now.” The veteran cracked a smile. “You’re more than good for it. Are you sure, though? This is the sort of thing that can become expensive really fast.”
+
+That was a good question. Did Dallion have to search for Euryale? The gorgon was smart enough to see the political implications before they happened. It was entirely possible that she had hired someone to search for him as well; and given the recent development, Dallion wouldn’t be difficult to find.
+
+“I’m sure,” Dallion said, firmly.
+
+“You’re the client.” The veteran adjusted his backpack, then tossed a metal ring to Dallion. The way he did suggested that this wasn’t the first time he’d had to leave echo items behind. “A personal piece of advice. Don’t spend too much time talking to my echo. It’s unlikely I'll find anything for the next few months.”
+
+“I’ll try.” Dallion put the ring on his left pinky finger. “May the Moons be with you.”
+
+“Thanks, kid.” The hunter turned around and made his way to the village gate.
+
+Dallion kept on looking until the man disappeared from view. With that, his old life effectively came to an end. For the moment, there was no one else he could tell of his ascension to magehood. The personal conflict between him and Countess Priscord made it unwise to attract attention to himself. And even if that wasn’t the case, Dallion wasn’t sure what to say exactly.
+
+It’ll be fine, Nil said from within Dallion’s awakening realm. News will spread like wildfire, if it hasn’t already. New mages are always a big deal. A late bloomer such as yourself is quite extraordinary. The last time it occurred was during the early days of the empire.
+
+“Yeah,” Dallion whispered.
+
+Close to a week had passed since the Star had been defeated. Dallion’s condition had improved significantly. Thanks to the mages’ efforts, the permanent pain effect had been removed, though the bleeding was still there. Mage Eleria had managed to reduce it significantly, but confessed that only time or a bishop of the Order of the Seven Moons could remove it completely.
+
+“Dal,” Lalandra, the village scribe, rushed to him. Not that he had acquired the magic trait, her attitude towards him had changed significantly. “The chief wants to see you.”
+
+Be on your guard, dear boy, Nil said. Sounds like Eleria will call in her favors.
+
+You say that each time she calls for me.
+
+She’s a mage. Mages only call people when they want something from them. I would know.
+
+Dallion didn’t respond. The creator of the echo was indeed a mage, although he had been outcast by the Academy and banished to Nerosal. Neither the old echo, nor the man, had shared any further details, and Dallion never asked.
+
+“Let’s go,” he said, then started his way towards the administrative building of the enclave.
+
+The structure remained the largest in the village, rising four floors high and maintained to perfection. In the past, Dallion thought that the building’s domain was maintained daily. Now, thanks to his magic vision, he could see that wasn’t the case. The walls were no different from those of any structure he’d seen, except for the fact that they were covered with intricate rune patterns. It wasn’t so much an illusion as a shift of reality. Nil had tried to explain it, but all Dallion could compare it with was combat splitting of a building in which only the best version was brought to reality.
+
+The scribe opened the door for him, accompanying him through the labyrinth of stairways and corridors until they arrived at the mage’s floor.
+
+“Good luck,” Lalandra said with her usual smile. “I’ll be waiting for you here.”
+
+“Thanks.”
+
+Dallion went up to Eleria’s door, then, with a polite knock, stepped inside. The room was exactly how he remembered it, only much brighter. Purple colors emanated from all books, making the bookshelf like an eighties disco. Even the mage’s desk and furniture were magic infused. When Dallion was told that mages see the world in a different fashion, he thought it was more of a metaphor. As it turned out, the phrase was quite literal. Looking beyond the physical aspect, Dallion could see an entirely different style. The chairs and desk were a lot more intricate with magic lines curving into decorative doodles, reminding Dallion of French Baroque.
+
+“Still getting used to the sight?” the mage asked, seated on an ornate chair that looked like a throne through mana vision. “I remember it took me a while as well. I was very confused back then.”
+
+“Weren’t you a child when it happened?”
+
+“There was that too, but as you’ve seen magic awakening isn’t like the normal kind. The weirdness spills in the real world as one of my teachers used to say. That aside, I have some news. You’ll be going to the Academy tomorrow.”
+
+Finally! “So soon?” Dallion asked.
+
+“It took them a while to prepare things for you. You are an unusual case, which leads me to a few things. You’ll be taught the basics there, but before that, there are a few things you need to know. For starters, don’t level up.”
+
+Dallion froze. He was so close to the next awakening gate. Thanks to the achievement of defeating the Twister Star, he had only three more levels till eighty. Respectively, all doors in his domain except for three had vanished.
+
+“Why?”
+
+“Magic is a different trait.”
+
+“I’ve been hearing that a lot lately.”
+
+“And you’ll hear more. There’s a reason the Purple Moon is considered special.”
+
+The same was said about the Green Moon, Dallion thought.
+
+“For one thing, magic is envious. Each time you level up your magic trait decreases. Of course, you can compensate for the difference by advancing the trait itself, but that becomes pointless, especially after passing the second gate.”
+
+That explained why Nil had been so insistent he rested before attempting any more awakening trials. The old echo was looking out for him, while unable to share the real reason.
+
+“There’s no practical point leveling up over twenty. Many don’t even go that far. Achievements can make up for the difference.”
+
+“I was told there are no magic achievements.” Other than killing a Star or its echoes.
+
+“Ah. Magic advancement is different.”
+
+Dallion struggled not to roll his eyes.
+
+“You can increase it without leveling up. For example.”
+
+The mage drew a series of symbols in the air. Dallion was able to see the trails of magic her finger left, as if she were drawing with a light pen in the air. Once the circle was complete, two glasses appeared on the table. Moments later, an expensive-looking decanter joined them.
+
+“Assume that this,” Eleria removed the stopper of the decanter “is the amount of effort you have in your lifetime. You can use it to improve your level,” she poured in one of the glasses, “or your magic, but never both at once.”
+
+Dallion wasn’t sure whether that was meant to be a serious lesson, or Eleria just wanted a drink. Still, it did make a bit of sense. Cautiously, he took his glass and sipped. Bitterness filled his mouth, quickly dissolving into a bouquet of tastes and fragrances.
+
+“Awakening is found within,” the mage continued after taking a sip of her glass. “Magic is found in the world. That’s why mages always roam about. No one can fully predict where the next “trial” would appear. You’ll be told more on the matter at the Academy.”
+
+“No leveling up.” At least initially. “Can I sacrifice magic levels for normal ones?”
+
+“You can do whatever you want. I’d advise you not to until you have a good grasp of basic magic principles. There were a few who thought as you did and they ended up exhausting their trait.”
+
+Chills ran down Dallion’s spine. There was a chance he could lose his magic though ignorance? If he had persisted in leveling up, he could have lost through greed that he had gained through such expense. And judging by her expression, that had happened before.
+
+Cleric lied to me, Dallion thought.
+
+Most likely, yes, Nil admitted. I expect the name erasure was done as a sort of mercy. Losing your magic through greed and stupidity isn’t easily forgotten. No wonder he had to join the Order. No one else would have him.
+
+Did you know him?
+
+No, but my original might have. Such failures are rare and remembered for a long time, even if no one talks about them.
+
+That would explain a lot. Could it also be the reason that Cleric was an albino?
+
+Never ask him that, Nil warned. It’ll be the same as asking someone how they got their powers sealed. The difference is that there’s no way to unseal magic. Once you lose it, it’s forever.
+
+“Does that disturb you?” the mage asked.
+
+“No,” Dallion lied.
+
+“Finally, don’t accept any duels until you get your trait to ten. Personally, I’d say forever, but at level ten you’ll be able to make up your own mind.”
+
+“Are they to the death?” Dallion let out a polite chuckle.
+
+“No, they’ll just cost time. A duel is a way to shift magic trait levels. The winner takes a level from the loser. The Moon doesn’t allow anyone to lose their magic completely, but you might be stuck at level one for the rest of your life.”
+
+“I can always make up for it.”
+
+“Sure you can, but the effort required will always increase. Losing magic levels doesn’t decrease the difficulty of the next.”
+
+“I see what you mean.”
+
+The example with the glasses was a bit deeper than it seemed. The decanter was also illustrating a point. Either that, or Dallion was overthinking things.
+
+“Finally, there’s one small matter I’d like to discuss.”
+
+Dallion nodded, taking another sip of his drink. It was clear by the bouquet of aromas that it had to be insanely expensive. More than likely, he wouldn’t get offered more in the near future.
+
+“I want you to level up this village to a town.”
+
+The request almost made Dallion drop his glass in shock. Not only was the request extreme, but it was also made in such a calm fashion that someone would think it was a matter of improving a pocket knife.
+
+“No need to look so surprised. You’re a high enough level for it. Besides, as a hunter and Hero of Nerosal, it should be easy.”
+
+“Easy isn’t the right word…” Dallion said beneath his breath. “If I do that, it’ll make me the owner of the area.”
+
+“So? No one here will be bothered. In fact, you’ll be doing us a service. We’ve been asking for this place to be improved for a while, and both the countess and the archduke are dragging their feet. Since they know that the Academy can’t take sides in internal conflicts, their interest in the matter is… somewhat lacking.”
+
+What did I tell you? Nil grunted. Mages. Can’t trust them as far as you can cast them.
+
+“You know that both of them hate my guts, right?” Dallion remained uncertain how to proceed.
+
+“We’re not waiting for approval, Dal. We just need someone to actually do the job. Paying mercenaries is… troublesome. And mages tend to be too low level for that.”
+
+“Didn’t magic make up for that?”
+
+“It does, but as an exception, it also can’t improve things. If that weren’t the case, there'd be mage cities all over the world. As powerful as magic is, its ability to modify the physical world is limited.”
+
+It was starting to sound eerily similar to the Star’s void abilities.
+
+“Since you’re one of us now, the Academy won’t have anything against it if you help out.”
+
+Nothing against, eh? Dallion thought. What about me?

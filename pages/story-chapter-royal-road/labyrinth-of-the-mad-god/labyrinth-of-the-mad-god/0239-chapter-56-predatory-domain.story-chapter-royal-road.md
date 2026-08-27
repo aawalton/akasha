@@ -1,0 +1,125 @@
+---
+id: 4fa153eb-5490-565a-9b4f-4a983a61dfa1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56: Predatory Domain"
+slug: 0239-chapter-56-predatory-domain
+partOf: labyrinth-of-the-mad-god
+position: 239
+ownLength: 2145
+unit: words
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2696951/chapter-56-predatory-domain"
+royalRoadId: "2696951"
+---
+
+While Nick struggled with everything he had to withstand the crushing assault of Ella’s killing intent, a stray corner of his awareness was analyzing the experience with a clinical detachment.
+
+As mind-bogglingly intense as this moment was, he realized that he had felt this pressure before—experienced it to a lesser extent during some of the toughest battles of his life. While that was an interesting revelation, it wasn’t important right now.
+
+What mattered was the speck of his consciousness that could still process and comprehend was coming to grips with a fundamental truth, triggering an epiphany from the murky depths of his subconscious as his perception of time slowed to a crawl.
+
+This overbearing promise of mayhem—the rapacious desire to claim the life of anything that bared its fangs—wasn’t merely something Nick had sensed from his enemies. It was a part of him too.
+
+In that moment, something fundamental shifted like a lens coming into focus. Instead of simply suppressing it, Ella’s killing intent began resonating with a piece of his soul. A savage slice of his being he had shoved into a cage, lest he be forced to see himself in a way that was anathema to his self-conception. Inside this prison of the mind was a wild beast that was unrestrained by social conventions or moral quandaries.
+
+In the heart of this timeless moment, he grasped that except for a handful of battles where humanity’s fate was hanging in the balance, he had held himself back without realizing it, imprisoning the beast to quell its endless rage. Even then, he had drawn upon this self-aspect without acknowledging its existence, denying a primal facet of his nature.
+
+Staring this unsettling truth square in the eyes, Nick found himself standing at a crossroads—the precipice of a decision that would have profound implications for his pursuit of power.
+
+He could either deny the predator inside and submit to the strong, or he could unlock that cage, open the door, and embrace all that he was.
+
+As time resumed its full course, Nick nodded to himself, drew a shuddering breath, and made his choice.
+
+While he would always view violence as nothing more than a means to an end, he had to accept that he was a killer too. A predator who walked a path paved in the bones of his enemies.
+
+His bloodlust would slumber until the moment he stepped onto the battlefield, but when the time came to kill or be killed, he would fight until his dying breath. After nearly being devoured by the crimson blight, he would never let anyone suppress his will again. He would point the sword of his soul at mortals and gods alike—even someone he had considered to be a friend until this moment.
+
+Thus, rather than succumb to Ella’s ruthless desire for carnage, Nick opened the door, threw away the key, and embraced the beast inside, accepting the totality of himself for the first time.
+
+The instant his hidden nature merged with his persona, a river of power surged through him, pushing against the pressure emanating from the woman with the clockwork staff. He could feel his yearning for mayhem—his killing intent—flowing out of his psyche and into his environment, laying claim to everything his mind could reach while conveying a message that transcended language—submit, flee, or die.
+
+His stance steadied and his arms stopped shaking as Arctic Clarity blended with this new state of being, a merciless, murderous aura cold enough to freeze the stars themselves.
+
+A System message formed but he waved it away—every scrap of his concentration devoted to the lethal warrior standing before him as their wills clashed like warring titans.
+
+Every animal for miles around, even the bugs and microorganisms, fled for their lives—desperate to escape the premonition of doom emanating from the pair of killers standing atop a strip of dusty orange soil. Meanwhile, a stray corner of his mind noticed Blightbane transmitting its approval, even while asleep.
+
+Now that he had regained control over his body, the beast inside Nick wasn’t content to fight back with his spirit alone. He would battle the warrior in front of him with everything he had, until his fury was quenched by blood bathing his blade.
+
+Nick would eventually realize that he was in an altered state evoked by an intense psychic awakening, but in that moment, he didn’t hesitate for a heartbeat or hold anything back. He called upon every attribute point he had, dialed Arctic Clarity up to eleven, and attacked Ella with every molecule of his might.
+
+He infused Blightbane with pure mana and charged, transforming the blade into a blinding bar of silver as Force Acceleration reduced the world to a smear of color and motion. During the fraction of a second it took him to close the distance, he cast a half-dozen spells at once while burning stamina to activate Heavy Blow.
+
+He had just enough time to register the wide-eyed expression on Ella’s face before their weapons came together with cataclysmic force, cracking the ground below her boots as a ringing chime reverberated across the badlands. Her body was wreathed in turgid flows of gravity mana, increasing her mass to prevent her from being blown away beneath the force of his assault.
+
+It was an incredible exchange, but Nick was just getting started.
+
+He unleashed a vicious series of strikes—each intended to claim her life—forcing Ella on the defensive. She blocked and dodged and parried like a force of nature personified, evading lethal blows with millimeters to spare.
+
+He didn’t let up for a microsecond, adding more magic to the mix as he fired off spells the instant they formed. At that point, the warrior began to laugh. Even though he was still ramping up the pressure, she began to counterattack, launching strikes that could pulverize boulders to keep herself from being overwhelmed.
+
+A distant corner of his awareness heard someone call out, “Oh shit! Ella and Nick are going at it! Go get… everyone!”
+
+By this point, he was firing an unending stream of Mana Darts—each coming from a different direction and timed to hit Ella the instant she launched another attack. But the woman repositioned like her bones were rubber and her muscles water, never committing to a single path even as she struck.
+
+As the force of their attacks remade the terrain, she cackled again then said, “Yes! That’s the spirit. This isn’t a lesson. It isn’t a duel. Show me the killer that’s been slumbering inside you and prove you’re worthy of the title Nick Silver, leader of Aurora and champion of Earth.
+
+Even fighting unrestrained for the first time in his life, he could never have held his own against Ella with Blightbane alone. But with Force Acceleration and Heavy Blow bolstering his strikes and an endless onslaught of spells flying in from all sides, he was pressing her hard. Blood was running down their bodies, mingling with the sweat dripping onto the parched earth below.
+
+Her gravity-bolstered blows fell like meteors, impacts reverberating throughout his body time and again. But though Nick was in an altered state, his mind had never felt so clear. He adapted as he fought on, striving to improve with every beat of his heart.
+
+His next barrage was supplemented by a pair of Piercing Rays, which he had cast without being conscious of the effort. Combined with Heavy Blow and a volley of darts, he almost slipped past Ella’s guard. At the last possible moment, she struck the soil with her staff, flinging him back with the shockwave. She flipped out of the way of the darts, but the rays adjusted their course—faster than any move she could make.
+
+A bare instant before the drill bits struck true, the woman burned stamina to enable an explosive burst of speed. She caught one ray on each end of her staff and twisted, deflecting both drills into the soil at the same time.
+
+While it was an amazing move, Nick was just getting warmed up.
+
+Ella had effortlessly dealt with his sword before, but while being harried by an endless fusillade of lethal magic, she couldn’t defend them all. The next time she tried to follow up, Nick conjured an Arcane Shield. Not at the point of her weapon’s impact, but near her elbows to foil her swing, preventing her from completing the strike.
+
+He didn’t notice the crowd gathering in the distance. Hear the murmurs of excitement and concern as every person the settlement watched its most powerful elites fight each other unrestrained.
+
+Over the next breathless seconds, he used every move he had and invented more on the fly. He picked up stones and flung them with Force Acceleration while blasting with his wand at the same time. He used his latest upgrade to fire force fists and force kicks—subzero focus honing his instincts to an edge so sharp, reality itself was in danger of being cut.
+
+That was when matters came to a head.
+
+An opening appeared where both Ella and Nick had time to unleash their strongest attacks. Without hesitation, he sheathed his sword and got ready to end the fight, while gravity magic encased Ella’s body in a scintillating mantle of might.
+
+They would come together a heartbeat later, and he knew deep in his bones that only one of them would be walking away.
+
+He was so absorbed by this transcendent moment of slaughter that he gave voice to his attack. “Sonic Slice!”
+
+Ella responded in kind. “Singularity!”
+
+A nanosecond before they let loose, a hand grabbed Nick’s wrist in an iron vice, preventing him from drawing Blightbane. His eyes widened when he noticed the expression on Kenji’s face—far more serious than any he’d seen before. The strategist’s other hand was restraining Ella’s staff, and while his arms were shaking from the strain, Kenji didn’t seem affected by their killing intent at all.
+
+“I think that’s enough for today. Let’s call this one a draw. I can’t get any work out of you if you’re dead and Aurora can’t afford to lose either of you over a duel… although part of me wishes I could have watched the rest.”
+
+In that moment, Nick came back to himself—changed but no longer consumed by the desire to destroy. When he realized what he’d almost done, his eyes went wide as Blightbane fell from his fingers. Holy shit. I just tried to kill Ella.
+
+Once it was clear the fight was over and both combatants were okay, the crowd began to cheer. Ella reassured Kenji that everything was all right and then sat on the ground, tending to her wounds while catching her breath.
+
+“I like you, Nick. You’re fucking crazy and your technique is as raw as a sanded asshole, but you have what it takes after all. I acknowledge your worth and admire your resolve. Keep honing your soul on the whetstone of adversity and I will follow you gladly.”
+
+Part of him wanted to apologize, but he realized he had no regrets. Instead, he asked, “Did you know that was going to happen?”
+
+“No. Although I had a good feeling that something would. I was certain you had invested heavily into Psi, and my instincts told me you had the same killer instinct buried inside you—restrained by the ethics of the old world.”
+
+She broke into a beaming grin. “To be honest, I also wanted to tug on the tiger’s tail and see what you were capable of when you weren’t holding back. I would say I’m sorry… but I’m not. That was the most fun I’ve had since my new life began. To circle back to where we started, I’m certain that I can help improve your swordplay and you should be able to pass that trial with flying colors soon.
+
+“But not today.” Ella groaned and rose to her feet. “I haven’t been spanked like that since my honeymoon. I need to let these old bones mend and integrate the insights I obtained during that fight. You’re not the only one who had a breakthrough midbattle.” He quaffed his elixir, rose to his feet, and shook her hand.
+
+After they bid each other farewell, Nick remembered that he had an update from the System awaiting his perusal.
+
+You have withstood a powerful psychic attack and returned it in kind, triggering a psychic awakening. You have improved the following baseline attributes:
+
+Psi has increased from [3] to [6].
+
+Mind has increased from [14] to [15].
+
+You have learned how to project your killing intent and have developed a new technique.
+
+Predatory Domain
+
+You can project your killing intent and indominable resolve to assault the minds of your enemies.
+
+Note: Techniques are not granted by the System. As a result, they can be enhanced through use but not directly upgraded like abilities and attributes.

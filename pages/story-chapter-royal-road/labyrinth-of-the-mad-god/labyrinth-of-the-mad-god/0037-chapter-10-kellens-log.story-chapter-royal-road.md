@@ -1,0 +1,83 @@
+---
+id: c04340d2-3a75-528b-a3cf-d449431b6ace
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Kellen’s Log"
+slug: 0037-chapter-10-kellens-log
+partOf: labyrinth-of-the-mad-god
+position: 37
+ownLength: 1736
+unit: words
+publishedAt: 2024-08-09
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1751445/chapter-10-kellens-log"
+royalRoadId: "1751445"
+---
+
+The moment that Nick acknowledged the prompt, the base of the crystal projected a beam of light into the air beside him. To his surprise, it formed a three-dimensional hologram of a tall man wearing a white lab coat with a lanyard around his neck.
+
+The detail was exquisite, to the extent that Nick couldn’t tell the person wasn’t actually standing beside him until he passed his hand through the rendering.
+
+It was clear at a glance that the man wasn’t human. His skin was yellow, textured like aged parchment. His bright blue eyes were twice the size of Nick’s own, and he had no nose at all. Every crook of his posture screamed “scientist.” If it wasn’t for his face, he could have fit in with any college research lab or corporate R&D division back on Earth.
+
+Despite the differences in their anatomy, Nick had no trouble reading the man’s expression, a combination of confidence, frustration, and disdain. This dude seems to think pretty highly of himself. An impression that was reinforced when the researcher began to speak. His tone was brisk, and there was anger burning in his eyes.
+
+“Video diary, day five-hundred and eleven. While the corpse-gnawers and the garbage-eaters are useful for day-to-day elimination of failed test subjects and other assorted waste, Groff, the head of the Disposal Division, lacks the ambition to deal with our greatest problem with anything remotely approaching elegance or efficiency. The issue with the highest cost in the division by an order of magnitude in resources, energy, and lives.
+
+“I am referring, of course, to the occasional class-seven hazard that passes through the floor. Ranging from powerful entities who don’t die when they’re dead, to the radioactive spores that wiped out all of team three before they realized that the microorganisms were eating through their containment suits. But no longer. I am pleased to report that the lack of vision in our department ends today, courtesy of yours truly.
+
+“In fact, I’ve figured out a way to end the problem in perpetuity. Best of all, it will cost us nothing that we don’t already have on hand. If we merge the genelines of several omnivorous species developed by the extreme environments division, then forcibly upgrade its tier, we can create a superorganism. A creature that can absorb almost any type of waste, living or otherwise, and regenerate whatever damages it takes in the process.
+
+“If Groff doesn’t approve my proposal this time, I’m proceeding to experimental trials on my own initiative. I’ll have it all wrapped up before he realizes I’ve begun. Kestryl will have no choice other than to let me back into R&D on floor seven-hundred nineteen when he witnesses the results. With my proprietary blend of traits added to the mix, the lifeform should be easy enough to control…”
+
+The projection cut off midsentence, prompting an update from the device. “Error. The rest of this log has been corrupted.” With that, Kellen’s image flickered and then wavered out of existence, leaving Nick alone in the room once more.
+
+Well now, I certainly wasn’t expecting that. More logs might explain what happened on this floor, and offer some clues as to how we can avoid the same fate. I might be able to learn more if I can discover additional areas with encoded entries. With any luck, I can find a way to get past the bioseal and access the rest of the device. It’s bound to have some useful functions.
+
+Since it wasn’t a mystery that he was going to solve right now, Nick put the crystal into his belt pouch and left the ruined chamber. He stepped past the threshold and into the hallway beyond, ready to find his friends and start climbing Darkstone Tower.
+
+When he made his way out of the decimated enclosure, he found himself standing in a broad hallway, or perhaps tunnel was the better word. The landing around the room’s entrance was badly damaged, although the devastation wasn’t as thorough, and more of the area’s stonework remained intact.
+
+Even still, what Nick saw when he stepped into the tunnel was something right out of a war zone. Or maybe a horror flick, given the lighting. Half of the crystal lights lining the ceiling were shattered or missing completely. The rest were flickering like they were on their last legs, casting the rocky tube into a patchwork of ever-shifting shadows.
+
+The passage was at least thirty feet wide and twenty feet tall, with a curved ceiling built to withstand the immense pressure of the ground above. Like the room he’d just left, ragged gouges and gaping holes had been torn from the tunnel’s stone surfaces, by something that must have emitted immense force.
+
+When Nick ran his fingertips across a particularly massive crack in the floor, he felt a strange vibration. Some manner of energy still lingered in the scarred stone after all this time. It resonated with something deep within his energetic core, like there was a greater truth instilled within the devastation. Traces of a power that his abilities shared.
+
+This feels different than mana. It must be remnants of a force-related essence. Something similar enough that it’s compatible with my spells. Maybe being on this floor will help me rank them up just by passing through the area.
+
+Now that he knew they were there, he had a sense that the motes of essence were gradually flowing into him. Since touching the gouges didn’t seem to speed up the process, he returned his attention to his surroundings. As with the last room, Nick called upon his mind’s eye visualization to figure out what had happened.
+
+The longer he looked, the more certain he became that a fierce battle had been fought in this place, a siege if his intuition was correct. The far wall was covered by thousands of scorch marks and impact craters, which seemed to have been caused by some manner of magic or conventional weaponry.
+
+The other wall, the one running alongside the room he’d come out of, looked like it had been hit by the same power that had demolished the contents of the chamber.
+
+Judging by the direction of the blasts, the people inside the room held off whatever was assaulting them for some time before it breached their defenses and forced its way inside. I still don’t see any blood or remains, and I can’t tell what manner of magic, beast, or machine was able to carve up the bedrock like a leg of lamb. There aren’t any tracks or droppings either.
+
+Unable to learn anything more from the panorama of prolific devastation stretching out before his eyes, Nick turned his attention to the layout of the tunnel instead. He thought that there was a slight bend to the passage stretching out in both directions, but he couldn’t be sure given all the rubble and debris obstructing his view.
+
+Unidentifiable echoes resounded in the distance, warped and bent as they bounced their way down the ruined halls. It was honestly kind of freaky, but at least they didn’t seem to be headed in his direction.
+
+There was another large room next to the one that Nick had been portaled into. When he walked over to the doorway to take a closer look, he saw that the ceiling had completely collapsed, sealing the space behind countless tons of rock. I won’t be exploring that one.
+
+Having found nothing hostile in the area, or nothing living for that matter, he started analyzing his surroundings with the goal of picking out a path, trying to decide which way he should go.
+
+On guard against enemies from ahead and behind, he began exploring further out, looking for clues that might reveal where he was, what had happened, or the location of the stairs that would lead him out of this floor and into the next. Nick soon discovered that the hall continued in both directions with no end in sight.
+
+Figuring that one way was as good as another, at least until he had more information to work with, he continued walking forward with his sword held in front of him, trying not to focus on how creepy this place was. He had enough to worry about without encouraging his imagination to invent more.
+
+He didn’t come across any more rooms or passageways after walking for a good ten minutes, revealing that this place was much bigger than he’d expected.
+
+Here too, while the scarring to the stonework was extensive, Nick found no traces of blood, bodies, or any organic material. After taking a closer look, he eventually uncovered a metal plate mounted to one wall. On it was a half-destroyed diagram revealing the layout of the level.
+
+It seemed that Nick was standing in a circular tunnel that wrapped all the way around the exterior of the facility, assuming that it was still intact. When he saw a small arrow indicating his location, he was finally able to get a sense of the scale of the floor.
+
+It was hard to be precise, but he had the impression that the outer ring was dozens of miles long, maybe even hundreds, making the total size of this level mind-bogglingly big.
+
+The prospect of exploring it would have been completely overwhelming if the rooms weren’t so spread out. After taking in the details, he discovered that the chambers were arranged in dozens of clusters along the perimeter, with a second ring lying between his position and the middle of the floor.
+
+Even still, what had to be thousands of individual chambers bordered both sides of the hall, some even bigger than the one he’d started in. Although, judging by what he’d seen so far, he doubted that more than a fraction of them were still accessible. While this was welcome news, it still left hundreds of rooms to search, spread out across long miles of tunnel.
+
+And Nick didn’t have the luxury of taking his time. In addition to the sheer scale of this place, the floor’s rule was an escalating threat.
+
+While he had a window to get his bearings and catch his breath, the System was bound to turn up the heat before long. He needed to rejoin his party before that happened, then locate the stairs before the pressure became too great.
+
+In short, Nick needed to hurry. The clock was ticking.

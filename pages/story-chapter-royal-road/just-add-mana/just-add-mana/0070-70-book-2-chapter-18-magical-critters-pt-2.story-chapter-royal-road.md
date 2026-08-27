@@ -1,0 +1,191 @@
+---
+id: ab67b422-b75d-5fd7-bd8c-4bc96907a18f
+page-type-slug: story-chapter-royal-road
+title: "70 — Book 2, Chapter 18 — Magical Critters, Pt 2"
+slug: 0070-70-book-2-chapter-18-magical-critters-pt-2
+partOf: just-add-mana
+position: 70
+ownLength: 3403
+unit: words
+ownProgress: 3403
+publishedAt: 2025-12-06
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2824632/70-book-2-chapter-18-magical-critters-pt-2"
+royalRoadId: "2824632"
+markedReadAt: "2026-06-29T18:50:02.081Z"
+---
+
+Cale watched with amusement as Professor Tarbloom practically vibrated in enthusiasm. In fact, the professor ended up having to stop and calm themselves so they could make a few needed modifications to the teleport array. Apparently, while Tarbloom had hoped that Cale would have some revelation that would require it, they had also planned around it just in case he didn't. In which case it would have been used to teleport a different specimen in from Illwyld for the next part of their class.
+
+It was surprisingly considerate. Cale appreciated the thought.
+
+I WOULD HAVE BROUGHT IN TWO RINOCERNS, Professor Tarbloom wrote. VERY INTERESTING CRITTERS!
+
+"Rinocerns?" Cale asked, tilting his head. Tarbloom began rapidly scribbling something, but before they could get too into it, Flia interrupted from behind him.
+
+"They're also a species native to Illwyld, although they're much more dangerous than the flickerants," she said. "I read about them. The internal structure of their horns resemble a spell construct, but only part of one. Rinocerns mate for life if they find a partner whose horn completes their spell."
+
+Professor Tarbloom seemed happy with this explanation and gave Flia a thumbs up. THEY MUST COLLIDE AT HIGH SPEEDS TO CAST THEIR UNITED SPELL, they added on their slate. IT IS VERY DESTRUCTIVE! BUT VERY BEAUTIFUL. MY FAVORITE DEMONSTRATION.
+
+Then they went right back to modifying the spell array. It didn't look like too much needed to be changed—as far as Cale could tell, Tarbloom was mostly tweaking the target destination and adding an input node for Cale to act as a mana battery. This was far preferable to a node where he supplied his mana, mostly because Cale didn't really have the control needed to carefully inject a precise amount of mana into the array.
+
+Treating him like a battery bypassed the problem somewhat, though. It wasn't a perfect solution by any means, for even the process of tapping into his mana tended to fry any construct that attempted to access it, but it was usually good enough for one or two casts.
+
+Interestingly enough, it looked like Tarbloom had taken this into account. They were setting up a timed teleport array—a spell that would teleport their target into the ward Jaxovar had set up, allow it to remain for a certain amount of time, and then send them right back where the spell had originally plucked them from. It was a pretty good setup for any kind of temporary study if you wanted to minimize the damage, and Tarbloom clearly did; the spell even had conditions that would force it to end early.
+
+Once they were done, they turned back to the chalkboard and began writing, this time in the more delicate script they presumably reserved for when they needed to address the entire class.
+
+A small interruption! Tarbloom wrote. Normally, I would proceed into a demonstration of what one of the more destructive magical critters can do—a lesson on the true potential of our little friends and the necessity of caution around them, if you will. Many mages grow overconfident as their skills with magic grow, and they forget that the critters surrounding us all have unique ways of using magic, some of which can bypass our best defenses.
+
+Well, that was true. Cale had once witnessed an archmage specializing in water magic begin to drown. Granted, that was because the archmage in question had annoyed the Leviathan, and her domain overruled any kind of magic the archmage could deploy... but the point was solid! There were magical creatures out there that could disable very specific kinds of magic, or even enforce a very limited Rule the way Abyssals could.
+
+However, our friend Cale has offered to allow us a different kind of lesson, Tarbloom continued. Cale wasn't sure if he would phrase it like that. It really wasn't helping with Flia's suspicions about him corrupting their professor. If anything, she seemed even more suspicious now. We will instead address the correct procedure when encountering new critters entirely! As usual, while we will take every precaution possible, the unknown always presents a certain level of genuine risk. You have my assurance that I will do my utmost to defend you, but if you choose to sit out the rest of the class, you will still gain full credit.
+
+That said, know that the ability of a mage to adapt to new dangers makes the difference between life and death in dungeons and out in the wild. The skills you learn today may very well save your lives. Remember: identify any rules that the critter might operate under. Test the rules by attempting to disprove them where possible. And if all else fails, run.
+
+Once all of that was written, Tarbloom sent out a quick mana-pulse to get everyone to look up at the chalkboard. WE WILL START WHEN EVERYONE IS DONE WITH THEIR FLICKERANTS, he wrote to Cale and Flia.
+
+Cale decided that he very much liked Tarbloom. Not that he hadn't decided that already! But this was pretty much the same advice he'd given his apprentices both in the labyrinth and in the Inverted Spires, and it said a lot about Tarbloom's experience in the field. "You sure know what you're talking about," he remarked. "Were you an adventurer before this?"
+
+Tarbloom turned to him and seemed to consider his question for a moment. I ADVENTURED! BUT I WOULD NOT CALL MYSELF AN ADVENTURER.
+
+Cale tilted his head. "You didn't work with a guild? Does Utelia have guilds?"
+
+I DID, AND IT DOES! BUT MY WORK WAS STUDYING AND DOCUMENTING MAGICAL CRITTERS, NOT CONQUERING DUNGEONS.
+
+"Oh!" Cale snapped his fingers. "You write the guides!"
+
+I HAVE AUTHORED MANY OF THEM. Tarbloom seemed exceptionally smug about this fact.
+
+"Wait," Flia said. "You wrote the—are you talking about the Adventurer's Guide to Monsters? The one that documents the fauna and flora of Utelia? I've never seen your name listed on there."
+
+I REFUSED. THEY WOULD NOT NAME THE GUIDE CORRECTLY. Tarbloom's expression dimmed a little, almost like they were scowling. I WANTED IT CALLED "THE TRUE GUIDE TO MAGICAL CRITTERS."
+
+Cale made a sympathetic noise. "Adventurers probably wouldn't pay much attention if you called it that, unfortunately."
+
+"But you never told us," Flia said, like she was trying to wrap her mind around it. "Doesn't the Guide include information about the Corrupted Lands? And some of the most dangerous magical beings on Utelia?"
+
+ALSO SEVERAL SPECIES OF MEGAFAUNA FOUND ONLY IN THE ENDLESS DEPTHS. Tarbloom grinned. Or smirked. Cale felt like that smile definitely qualified as a smirk, considering the sheer smug energy still radiating off their professor. I AM VERY CAPABLE.
+
+"I love the illustrations. Did you draw them yourself?" Flia said. Tarbloom nodded a few times and beamed at the compliment. "They're very detailed... although now I can't decide if I should be excited and ask you to sign my copy or mortified I never realized you were one of the authors."
+
+"They probably keep it a secret on purpose," Cale pointed out. "I doubt they want people asking them for advice on how to kill monsters, and that's sort of the primary purpose of most adventurer guides."
+
+Tarbloom nodded rapidly. THE GUILD HAD ADVENTURERS ADD TO MY WORK! they wrote aggressively. TOO MANY MONSTER SLAYING INSTRUCTIONS.
+
+"That explains that. I was wondering," Flia admitted. She glanced back at her desk. "I should probably get the second stage of the experiment over with. I was actually coming over here to get you, but I got distracted."
+
+AH! Tarbloom brightened. VERY GOOD! YES. SHOW ME HOW YOU DEAL WITH A FLICKERANT BITE.
+
+This was probably going to take a while. Cale briefly considered allowing a flickerant to bite him, given that was the next stage of the class and he had nothing else to do, but... well, he'd experimented with magical parasites before. Most of them exploded as soon as they latched on to him, and Cale was pretty sure that would upset Tarbloom.
+
+So he resigned himself to just watching the rest of the students while he waited, keeping a close eye on the professor all the while. Mostly he was wondering if any of them would try to pocket a flickerant or do anything interesting, but this particular class seemed pretty tame. Maybe Tarbloom had a reputation?
+
+Cale really needed some way to work on his own magic so he wasn't left waiting in times like these. There was a time when he would fill all these spare moments with mana control exercises, but those had long since ceased to bring him any value, and without that the only aspects of his magic he could work on were...
+
+Hmm. He had plenty of spells to evolve, at this point, but to gain the spells he actually wanted, he needed to work on gaining different kinds of resonance ranks. Of those, the only one he could actively work on was draconic resonance. Everything else was more or less dependent on attending different resonance classes and visiting their respective Elemental Shrines.
+
+Draconic resonance was different, though. The Gift said it expected him to take seven days to fully digest the first rank of resonance, but that could fluctuate depending on how compatible his soul was to the essence of a dragon.
+
+In theory, anything he did to improve that compatibility—collecting spells, for instance, or just increasing the "quality" of his "hoard" by teaching his apprentices—would help him evolve more quickly to the next rank of draconic resonance. And considering how much the first rank had helped him, there was some real potential that it would help him create some of the spells he was really interested in.
+
+Which was mostly more baking spells. Although he did also want to fly. And teleport.
+
+Cale considered his dilemma.
+
+There was a way he could work on achieving all those things at once. The most important one was helping his apprentices with their magic, because that would help them too, and Cale doubted Utelia was getting any safer. Not to mention Damien's whole thing with the Verdant Flame. He still refused to think too deeply about the implications of that.
+
+He refused to hope.
+
+But if he wanted to make progress with his magic, then that seemed the clear way forward. Pick up any spells he could, become more like a dragon, earn that next level of draconic resonance sooner than the seven-day timeline he'd been given. He'd learned quite a number of spells since the last time he'd checked the Gift, so perhaps it had a new estimation for him?
+
+You are at the first rank of draconic resonance. The first rank of draconic resonance provides improved physical abilities, spell acquisition, and mana control. Complete integration of this first rank will take approximately four days and thirteen hours.
+
+Cale raised an eyebrow. It had been seven days about twenty-four hours ago, so he was definitely making progress with it; picking up all the spells he did definitely helped. His options now were to pick up every scrap of knowledge and spellwork he could while pushing his apprentices as far as they could reasonably go.
+
+So... lesson plans?
+
+Lesson plans.
+
+Not that he wouldn't have been helping his apprentices anyway, obviously. He didn't need to know that his draconic resonance would be growing just to help them; he'd taken them on for a reason. It was a nice little bonus, though.
+
+Fortunately, he'd visited Akkau that morning about precisely this. At the time, he'd mostly been seeking a means of knowing what his apprentices were up to so he could "visit his wisdom upon them whenever he wanted." Akkau had responded by giving him a flat look and then a lecture on privacy and not scaring his students just because he felt like it.
+
+Cale had agreed, wandered around the campus until he got permission from each of his apprentices anyway, then went straight back to Akkau.
+
+Who had sighed and begrudgingly inscribed a modification on his schedule scroll.
+
+This seemed like the perfect time to test that out. He was pretty sure he had at least ten minutes until they were done with the flickerant testing.
+
+Damien was meditating on the Verdant Flame when a projection of Cale's face suddenly appeared in front of him. He yelped, grabbing at his sheets and rolling backwards, nearly setting them on fire in the process. "C-Cale?!"
+
+"That's me!" the unnecessarily large projection of Cale's face said, all too cheerfully. "I wanted to check on you. See how you were doing with the cloak and all. Also if you've made any progress with the Verdant Flame."
+
+"It's been twenty minutes since you left for class," Damien protested, his heart still hammering in his chest. Did he even have a heart? Had Cale scared one into him, or had he just had knowledge of his own anatomy scared out of him?
+
+...Okay, maybe he needed a moment to calm down a little. Cale was staring down at him, bemused and waiting, and Damien waited for his thoughts to settle slightly before he let out a trembling sigh and responded.
+
+"No, not yet," he said gingerly. "Um, except for the Cloak. My progress with that is going pretty well, I think. It's just that I don't really know what to do with the Verdant Flame? I kind of understand what it is, but not what to do with it, which makes me think maybe I don't understand what it is at all..."
+
+He fidgeted. Cale hummed in thought, then shook his head. "If you didn't understand it, you wouldn't have been able to get it in the first place," he said encouragingly. "But with all magic, it helps if you have a goal you're working on. Not just being able to control your magic or hold it back or anything. Take me, for example! I want to explore the limits of baking magic."
+
+Damien hesitated. "I-I know that," he said. It was hard not to know that Cale was interested in baking magic, really. "But I don't know what I want to do with my magic. I mean, I want to be able to heal, but..."
+
+"That's a bit of a stretch, even with the Cloak and the Verdant Flame," Cale agreed. "And sure, maybe that's what you want. But here's a more important question: do you want it to make up for something in the past, or because it's something you genuinely want to be able to do?"
+
+That question made Damien hesitate.
+
+The answer was technically the first one. Damien had never been able to get the image of that ruined village out of his mind—he wanted more than anything to have the power to reverse it. Or, at the very least, to make sure that it never happened again. If he ever lost control of his mana again, he wanted the power to make sure he didn't do any permanent harm.
+
+Damien knew instinctively that none of those were the answers that Cale was looking for. His desire to heal came from a desire to avoid certain outcomes, not from a desire to master that form of magic for himself. He'd already started realizing this, but it was almost startling for it to be put into such stark clarity.
+
+"I don't know," Damien said softly. "I want... to want to heal, if that makes sense?"
+
+"You wish you had better reasons for wanting healing magic?" Cale suggested.
+
+"Yeah." Damien fidgeted. "Is that okay?"
+
+Cale snorted. "Do you know how many mages I've met that don't even realize they hate their own magic?" he asked dryly. "You're allowed to take your time to figure out what you want, Damien. You're allowed to change your mind, even! Listen, how about this—you remember Izzik?"
+
+"The lizardfolk who was... almost killed?" Damien asked, flinching a bit at the memory.
+
+Cale nodded. "He wants to heal, too," he said. "Why don't you go visit him in the infirmary? You can handle trips outside the Astral Ward now with your Cloak, can't you?"
+
+"Um..." Damien hesitated. He could. For short periods of time, anyway. He wouldn't have agreed to join Cale at the Haelforge Academy if he couldn't. "Y-yeah," he said eventually. "I can. Are you sure I should bother him...?"
+
+"He could probably use some real friends, to be honest," Cale muttered. "Just ask him a bit about why he wants to heal. You might find something you can relate to."
+
+"Okay," Damien agreed quietly. He didn't have class for another forty minutes, anyway, and his attempts to further understand the Verdant Flame had entirely stalled out. He was a little nervous about talking to someone new, but he'd been doing a lot of new things these days. It was probably fine, right?
+
+Damien took a deep breath, then stood and began carefully making his way to the door, although he stopped just before he opened it. "Um..." he said. He wasn't sure how to ask this. "Are you just going to follow me like that?"
+
+Cale blinked at him, then appeared to remember he was currently a giant floating projection of a head. "Oh! No, I'm pretty sure I have to get back to class now. Good talk! Make sure you learn lots of things. I'm sure Izzik will have plenty to talk about."
+
+Then he vanished. Damien stared at empty space for a while, then slowly made his way out of his dorm and toward the infirmary.
+
+Hopefully, Izzik would be willing to talk. Damien had no idea what the lizardfolk thought of the Astral Wing students. Joining the Red Hunters wasn't exactly a good sign, but then considering his current condition...
+
+He sighed. No point speculating. He took off at a determined pace, mostly to make sure he wouldn't change his mind before he got there.
+
+Cale decided he was reasonably happy with how that turned out. Even more interesting was the fact that the timer to his next rank had dropped! It was down to four days and twelve hours, now. Which wasn't a lot, but considering Damien hadn't actually made any progress with his magic, he was more than happy to take it. That meant draconic resonance accounted for his apprentices making peace with themselves, too, which he was pretty happy with.
+
+The other possibility was that either Syphus or Leo had made some progress with that magic at that exact moment, but unfortunately, Cale didn't have time to check with either of them. Professor Tarbloom was already shuffling back toward him.
+
+EVERYONE IS EXCITED, they wrote on their slate. AND I AM PLEASED TO REPORT THAT ALL MY STUDENTS HANDLED THEIR SAMPLES EXCEPTIONALLY WELL! I WILL ENSURE THEIR FLICKERANTS FIND GOOD HOMES.
+
+"What, you're telling me no one tried to pocket one?" Cale asked, amused. Tarbloom didn't seem to notice he was joking.
+
+I KNOW! IT IS EXCITING, they wrote instead. SHALL WE?
+
+Cale stepped obediently into the part of the teleport array that had been designated for him. "Whenever you're ready," he said.
+
+He felt it when the spell fired. Tarbloom injected a pulse of mana into the teleport array, which activated in a swirl of prismatic color—not because of Tarbloom's magic, but because of the mana it sucked away from him and into the runes. Whatever amount it took was too miniscule for him to register, but even then, the chalk used for the circles burned away, just as predicted.
+
+It didn't matter. The teleport array took effect, seeking across an entire continent to the deepest parts of a flickerant nest. It used the flickerants in their class as a sort of spiritual anchor, tracing the lines of mana along the next, down a dizzying labyrinth of tunnels and dirt and spells meant to hide their queen, drawing more mana from him than expected—
+
+—and then the spell took hold. A bright flash of mana, and two places in space swapped.
+
+Cale had the time to register the vague outline of what was presumably the head of the flickerant queen, although that was only a tiny portion of her. No, what truly commanded all their attention was the absolutely massive abdomen that stretched halfway to the ceiling and flung Tarbloom's desk back.
+
+More importantly, it was full to bursting with a storm of chaotic mana.
+
+"Oh!" Cale said. "So, uh, that's a bomb."

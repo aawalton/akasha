@@ -1,0 +1,101 @@
+---
+id: 60ee3ff1-d8cf-5d00-a62e-4fbbe823e546
+page-type-slug: story-chapter-royal-road
+title: "Chapter 124: Craft World"
+slug: 0165-chapter-124-craft-world
+partOf: labyrinth-of-the-mad-god
+position: 165
+ownLength: 2295
+unit: words
+publishedAt: 2025-05-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2249930/chapter-124-craft-world"
+royalRoadId: "2249930"
+---
+
+“Come in. Thanks for the warning.” Nick sat up and tried to look alert, intensely curious as to what was about to happen.
+
+Without further preamble, the door cracked open, and a bipedal bird walked into the room. The creature was seven feet tall and covered in brilliant blue plumage. She had yellow skin, a long beak, and bright green eyes. All of that was strange enough. But what really made Nick do a double take was the pair of arms mounted above her wings—polished chrome limbs that were clearly the product of an advanced magical technology.
+
+“Greetings, traveler of the Labyrinth.” The bird-person offered a small bow, which Nick returned from his seat. “Welcome to my humble establishment. My name is Gretta, and I will be coordinating with the System to process your crafting reward.”
+
+“My name is Nick. It’s a pleasure to make your acquaintance.”
+
+“Likewise. Let me run you through the basics first. Then I can answer any questions you have, and we can get down to the details of your order.”
+
+Nick nodded his agreement and listened closely—excitement bringing him back to full alertness. “You are in my workshop on the craft world Velen,” Gretta explained. “We forge, repair, and modify a wide range of arms, armor, and other specialized equipment. False modesty aside, opportunities to acquire gear of this quality are incredibly rare for a newly-integrated species. At least until your race obtains professions and has decades of experience under your belt in using them.
+
+“This is a chance to acquire customized gear that will serve you well for years to come. Assuming you live that long, no offense. Better still, instead of just getting whatever the System feels like handing out, you can make specific requests and walk out of my workshop with exactly what you need. I will help you work within your budget and can offer a range of options to meet any given need.
+
+“Since you probably don’t have any currency, I am authorized to commission sales from a barter-based exchange model. I can use any materials you already have on hand, and purchase whatever you don’t wind up using to cover the cost. The labor for the first crafting is free, since it’s included in your reward. We will use it to pay for the most expensive item, but you can purchase as many as you can afford. The System limits my profit margin to 25 percent, so I’ll be making money from our exchange, but nothing close to what I would normally charge. Do you have any questions so far?”
+
+“Just one. In addition to making new equipment, you said that you can repair and modify items too. How do you determine the price for those services?”
+
+Gretta nodded, pleased that Nick was following along. “It’s combination of time, mana-expenditure, and the value of whatever resources I source myself. If you can provide the base materials, it will be a lot cheaper than buying them from me. Why don’t we start by inventorying everything that you have to work with? All the resources, equipment, and valuables that you’ve acquired during your trials.”
+
+Nick’s eyes lit up at those words. He had found quite a few interesting odds and ends during his adventures, and now he could finally make use of them.
+
+“Once that’s out of the way, you can let me know what kind of gear you’re looking for. Then we will discuss which options best meet your needs, given the constraints of your budget. I can evaluate your equipment at the same time, which will help me fine-tune my suggestions.
+
+“Most jobs can be finished within three days, which is how long you are allowed to physically remain on Velen. If anything takes longer than that, the System will transport it to you when it’s ready. That service is free of charge, since it’s built into the reward itself.”
+
+“That sounds fantastic, Gretta. Let’s get to it.” With that, Nick reached into his bag and began pulling out everything that he had collected over his adventures through the multiverse—resources and potentially valuable items he had found during his tutorial on the Searing Isle, while crossing Blackmist Bog, and inside the tower itself.
+
+As he unloaded his pack, the bird-woman pulled out a notepad and meticulously recorded everything, occasionally asking a question or requesting to take an item into another room to examine it with specialized gear. In the end, everything was spread across the floor, and Nick’s pack had never felt so empty.
+
+He had to run back into his safe room to fill the bag with water twice during the process, to keep it from floating away. The only things he kept inside were his consumables and provisions, the weapons and armor he planned to give to other members of Team Earth, and a few items that he wanted to study later, including all the machines and magitech devices he’d found.
+
+By the time that he returned from his second trip, Gretta had completed her tally. “This is quite a haul. Far more than I would have expected for someone so recently integrated into the System. Now it’s time for the fun part, placing your order. To help whittle down your options, is there anything in particular that you’re looking for?”
+
+“My top priority is to repair this sword,” Nick unsheathed the blade for the woman to inspect. “Especially the missing pommel stone. Other than that, I could really use a decent helmet, new boots, and better body armor—ideally something that I can wear beneath my jacket. Oh, and a pair of gloves would be great.
+
+“The top contenders for upgrades are my jacket, shield, cloak, backpack, and belt. I wouldn’t mind picking up a ranged weapon either. As far as modifications go, anything that will let me dish out more damage or survive in the wild. Although, since I don’t have access to a crafter right now, self-maintenance mods would be ideal on top of everything else.”
+
+Gretta made some clucking sounds that Nick interpreted as following along. “Got it. Let me talk to our inventory department and get exact prices for some materials to supplement what you are providing. Then I can whip up a list of options along with the cost for each. I doubt that we can get to everything you mentioned, but you will absolutely be walking out of here with some major upgrades to your gear.”
+
+“Thanks, Gretta. I really appreciate it.”
+
+“Happy to help. It’s what we do. Besides, working for the System always comes with some sweet bonuses. The better job I do while working within the rules, the better the reward I’ll receive. So, don’t worry about anything, I’m in your corner on this one. I’ll be back in a few hours. In the meantime, I think you might enjoy the view from the balcony. I can’t let you interact with anyone or explore the city, since your still in the middle of your planetary trial, but you are welcome to take in the view.”
+
+Nick nodded his agreement, then followed Gretta out the door and down a long hallway. When she opened the door at the end, bright sunlight met his gaze. He stepped onto a large red-stone balcony, covered with tables and chairs.
+
+When he walked over to the railing and looked down, his jaw dropped in wonder, because Nick was looking out over his very first alien city.
+
+Buildings stretched on for as far as his eyes could see, forming a metropolis that must have been home to millions. The structures were beautiful—fashioned from a variety of stone and wood, some of which were painted in bright colors. Despite the sprawling constructions, there was a sense of balance and organic design that he had never seen in a city of old Earth. Trees and flowers grew alongside the roadways, and parks and common areas were interspersed between the blocks.
+
+While all of this was magical and mind-blowing to behold, it didn’t hold a candle to the people. The streets were filled with countless faces—the same avian species as Gretta and dozens of more besides. Nick even saw some humans, or aliens who looked human enough that he couldn’t tell the difference from this distance.
+
+Size Up informed him that everyone was combat trained and could hold their own in a brawl. He realized that despite its beauty and advanced development, life on Velen was far from safe. Despite that, these people looked happy, healthy, and prosperous. They chatted with one another as they walked down the street, filling the city with thrum and bustle. It wasn’t the kind of civilization he’d known back on Earth. Even the children were armed, revealing that even on an established planet, danger was a daily occurrence for the residents of the Labyrinth.
+
+Nick’s eyes widened with surprise when he took a closer look, because magic was everywhere. It was clear that this civilization had learned to harness the natural force known as mana, and that magic was an everyday part of their lives.
+
+He watched in wonder as crystalline bubbles flew through the air, carrying people across the city. On one corner, an illusionist was conjuring animated figures to entertain a flock of children. He was creating shimmering flowers and fireworks—even an occasional cartoonish monster that sent the little ones running while shrieking with laughter.
+
+On a balcony across the street, a woman was washing clothes. When she was done, she gestured, and water started streaming off the cloth, drying it thoroughly within a matter of seconds. Fantastic beasts walked side by side with people and were treated with respect. Vendors lined the streets, using magic to enhance the cadence of their pitches.
+
+Unfortunately, this opportunity wouldn’t let Nick explore the city or interact with people other than Gretta. Even still, he was grateful to be here. He found it deeply comforting to know that even in the Labyrinth, there were people going about their daily lives—part of a civilization that wasn’t one failed quest away from annihilation.
+
+Gazing upon the craft world Velen brought tears to his eyes and filled him with optimism for the future. Hope that his people could do more than survive. That they could carve out a place for themselves in this strange new existence. Rise from the ashes of their old world and rebuild civilization. That the Earth might once again become a place where children could play and people could grow old.
+
+Although the citizens of Velen couldn’t see Nick or speak with him, they clearly knew he was there. Everyone who walked by the balcony stopped to wave or offer words of encouragement. He grinned while taking it all in, absorbing the reality of a magical civilization—filled with a pungent blend of longing, loss, and determination.
+
+***
+
+Nick was still standing there an hour later, when Gretta walked back through the door.
+
+“It’s quite a sight, isn’t it?” The bird-person asked with pride in her voice.
+
+“Yes. It really is.” When they walked back into the guest room, Gretta handed him a list. On it were the various resources and valuables that he was willing to barter—each with a price listed beside it. He wasn’t sure what the denomination was, but the details weren’t important. All that mattered was that it was a base ten number system and a single type of currency.
+
+Then she handed him a second sheet. On it was a list of potential modifications for his current gear, along with items he could have crafted from scratch. Most of them used the materials he had provided, although a few of the more expensive pieces were made from various substances that Gretta could sell him. For the upgrades he had requested, several configurations were listed, outlining a range of costs and modifications.
+
+After answering some questions, Gretta left Nick to it. He kicked his strategic brain into high gear, loading up some of the gaming skills he hadn’t used for some time. He began sifting through his options, organizing them by cost and utility, crunching the numbers to achieve the greatest possible value.
+
+He only picked items that would be useful during the fight with the guardian of Darkstone Tower, but he also tried to select gear that would help after humanity had been returned to the planet of their birth. One thing he didn’t see on the list was the cost of restoring Blightbane. Only the price for fixing the sword’s pommel was on it. When Gretta came to check on him, Nick asked her for more details.
+
+“That blade is a true mystery. It has a hidden rarity and unknown properties. Even if we could repair it, you couldn’t afford the resources we’d have to invest, even with the System covering the price of labor. It would be a waste of this opportunity regardless. That weapon is in the process of restoring itself, although there’s still a long way to go. Even when the body finishes regenerating the last of the missing metal, it will take a while for the item core to heal and reactivate any modifications that are attached to it.”
+
+At this point, she offered him something valuable for free—information that was music to his ears.
+
+“If you can bathe the sword in compatible essence, or better still, a closely-related concept, it will speed things up considerably. I can, however, repair the missing pommel stone, since it was never linked to the item’s core to begin with. It’s just a heavy piece of high-grade material intended to balance the blade.”
+
+Gretta answered a few more queries and then gave him some space while he thought the matter through. Alright, Nick. Let’s do this. It’s time to gear up.

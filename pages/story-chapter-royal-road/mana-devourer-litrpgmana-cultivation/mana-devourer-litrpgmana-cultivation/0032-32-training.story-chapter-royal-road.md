@@ -1,0 +1,273 @@
+---
+id: 86a49176-46f0-5ae9-92d9-0c8c1bc95c19
+page-type-slug: story-chapter-royal-road
+title: "32. Training"
+slug: 0032-32-training
+partOf: mana-devourer-litrpgmana-cultivation
+position: 32
+ownLength: 3565
+unit: words
+publishedAt: 2024-07-22
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1727909/32-training"
+royalRoadId: "1727909"
+---
+
+“Blunt my weapon.”
+
+Cyrus took Markus’ glaive and put a protective sheen of magic over the blade in the same way he just had his own sword and hand axe.
+
+“You ready?” Cyrus asked, raising his blade, preparing to touch it against Markus’.
+
+Markus didn’t respond. He only advanced, thrusting his glaive forwards so suddenly that Cyrus had to jerk his arms upwards in order to block the strike, the weapon smashing off the side of his axe-head.
+
+Cyrus immediately punished the attack, shoving the weapon to the side and moving in with a flourish to strike at Markus’ shoulder, but his blade missed its mark as the metal handle of Markus’ glaive was smashed straight into his chin, forcing him to grit his teeth as he stumbled ahead, instantly bringing both weapons into a defensive stance as his head rattled.
+
+“You okay?” Markus asked, and Cyrus only nodded.
+
+Five more thrusts followed, each slightly faster than the last, building in momentum and speed even as Cyrus deflected one after the other.
+
+It was uncanny. Markus had never been like this before, not even days ago. His movements were still somewhat sloppy, but they were faster, notably so, to the point that Cyrus could feel himself sweating as he attempted to weave his two weapons together in a fast enough rhythm to block the mounting series of strikes assailing him.
+
+He couldn’t take Markus too lightly. He’d get dropped on his back if he fought defensively this whole time. This wasn’t the same boy he’d been forced to duel with for Maesha’s amusement only a short time before, this was a real fighter. Not by experience, or even by technique, but by power, by determination, and by heart, he dwarfed any amateur Cyrus had ever met before.
+
+Still, his movements became predictable after a time, enough so that Cyrus was able to smash his sword against the blade hard and disorient him, then follow up with a sweeping leg to take both his ankles out.
+
+As Markus fell, a small hill of brown earth formed on the ground beneath him, slanting, allowing him to roll out of the way before Cyrus could pin a blade to his neck. He scrambled away a fair distance, then, as soon as he was back on his feet, leapt at Cyrus with such speed and intensity that he resembled a jaguar more than he did a human.
+
+Cyrus brought up both of his weapons in a cross to block Markus’ swing. His weight and his pressure, the strength of his blade, the power he sent coursing through it as his weapon glowed a electric white-blue, all of it was enough to put strain on Cyrus, enough that the muscles of his arms rippled and flexed with tension as he attempted to stop his enemy from breaking through.
+
+They were deadlocked for a short while, but summoning his own strength, Cyrus managed to shove Markus away from him, pushing with sword and axe both to dislodge him and then driving his shoulder directly into Markus’ chest.
+
+He went sailing back almost ten feet, clattering against the ground, no spell to absorb the impact this time.
+
+“You okay?” Cyrus asked.
+
+Markus said nothing.
+
+He raised an eyebrow as he approached. Perhaps he had hit him a touch too hard.
+
+When he stood only five feet from Markus, the floor beneath him turned to ice, and he  immediately almost slipped over.
+
+Markus was back in a sitting position already, swinging his glaive at Cyrus’ feet and attempting to knock him off balance. One swing, a second, and a thrust to Cyrus’ knee caused him to raise his arms just to stay on balance, and the moment he exposed himself like that, even for a second, Markus attempted to kick out his legs from under him, Cyrus barely managing to jump past Markus’ attack and only just sticking the landing without toppling over.
+
+And now Markus was standing once more, assaulting him repeatedly, his strikes having reached a point where they belaboured Cyrus each time he attempted to deflect them, where he had to put actual energy into keeping Markus from breaking through, as all the while his legs worked overtime to keep him on balance against the slippery surface below.
+
+“You’re. Still. Holding. Back!” Markus struck between each word, enunciating his frustrations with the clash of steel on steel, pulling back his weapon and immediately striking in a threefold motion that hit the exact same part of his sword each time, making it so hot to the touch that Cyrus struggled not to drop it.
+
+Cyrus bellowed in Markus’ face, disorienting him with the sound, then swung his axe directly at the man’s side, striking him straight on, causing him to crumple in on himself. Recognising an advantage, Cyrus prepared another attack, but this time, despite striking the same part of his opponent’s body, Markus weathered the strike and took it like it was almost nothing, remaining strong and firm as he absorbed the blow, then following up with a headbutt that flew right at Cryus’ jaw.
+
+“Ow!”
+
+“Argh!”
+
+Cyrus stepped back a few paces, head ringing, dropping his weapons and spitting a little blood onto the floor. Meanwhile, Markus stood and clutched his head, looking as if he were about to fall over.
+
+“Jesus, are you made of literal fucking steel?”
+
+“Orc bodies are rather hardy,” Cyrus said, running his tongue along his teeth between words, tasting copper. “That fucking hurt my tusks, though. Getting hit like that is rather jarring.”
+
+“I think I did more damage to myself…” Markus pushed the handle of his weapon down, using it as a walking stick as he stumbled over to the bench. “I’m dizzy. Gimme two minutes.”
+
+“Alright…”
+
+Markus sat in silence for the next minute or so, casting some kind of red glowing spell on himself, targeting his head and chest. His aura was likely the result of [Meditation], but it might’ve been something more that Cyrus didn’t quite recognise. Either way, before long, Markus was standing and walking straight back over to the sparring ring, shoulders set, head held high.
+
+“Let’s go again.”
+
+“Are you sure?” Cyrus asked, staring at him, tilting his head as he looked him over. He wasn’t usually so quiet, nor so serious. He felt somewhere between a vacant soul and a rabid dog, and the duality only became apparent once he’d started fighting.
+
+That and when he was questioned.
+
+“I said, let’s go again. I’m ready. Don’t hold back on me this time, either.”
+
+“Wait,” Cyrus said, grabbing up his weapons and standing a distance away. “How did you get so much stronger in such a small amount of time? You’re five times the warrior you were only days ago.”
+
+“I let a bunch of assholes push me to the brink of death,” Markus said. His eyes were cold. “And if it means getting out of this place, I’ll do that shit a hundred more times. Now fight me.”
+
+***
+
+Markus stared down Cyrus as he approached, feeling his glaive burn hot in his hands with the energy that flowed through it, his malichor a bright red against the white-blue spirit energy he allowed to flow through it, a mesh of colours that swirled and pulsed with his menacing aura.
+
+He’d already pulled out every non-lethal move in his arsenal, and it hadn’t been enough. His Malichor Frenzy was maxed out, and even with the Control buffs he’d received, even with his enhanced Agility and Strength and all of his spells, he still wasn’t able to break through Cyrus’ defenses, not enough to do anything meaningful to him.
+
+Even the weakest disciple of a god was still a god’s disciple, Markus could see that now.
+
+And still he wanted Cyrus to come at him with everything he had. Part of it was determination, an innate desire to overcome this massive obstacle that sat right before him, a representation of the power he’d have to eclipse if he wanted to escape this hell.
+
+And part of him just wanted to fucking fight. To hit and be hit. To forget the bullshit and engage in the thrill and carnage of battle. To lose himself in the fate he’d consigned himself to when he’d rejected Drathok, Randall, Maxen, Serena… when he’d rejected Serena. When he’d told himself he couldn’t trust.
+
+When he’d told himself that this was his path forwards.
+
+If this was his path, he wanted to fight for it with everything he fucking had. He wanted to prove he’d made the right choice.
+
+When Markus and Cyrus next clashed, it wasn’t like fighting the same orc. He was faster, more decisive, more lethal. Time and time again he sent Markus crashing to the floor, and time and time again Markus scratched and clawed and grappled his way back to his feet. He didn’t permit himself to lose, even when he lost. He didn’t allow himself to quit, even when his body gave up on him. He didn’t accept his defeat, even when the pressure to even hold his weapon aloft was too much for his tired arms.
+
+He simply poured more mana into his weapon, focussed his meditation on his greatest wounds, steeled himself, squared his shoulders, and focussed harder.
+
+Cyrus was unrelenting in his attacks. What had started as an upscale in difficulty had soon devolved into something else, and Markus could see it in the orc, in the concern etched on his face, the grimace he wore each time he landed yet another strike at twenty times the rate Markus did.
+
+He didn’t want to fight him like this. He wanted to beat and exhaust him so soundly that he gave up. He used disabling moves intentionally to ensure that Markus kept losing his momentum, that it took him yet more energy to keep returning to a fighting stance, that he couldn’t keep going for as long as before with each successive pause.
+
+And yet, in Cyrus’ dedication to deflect, to disarm, to parry, to overwhelm…
+
+Markus began to recognise a pattern.
+
+He could see it in his footwork, first, then in his thrusts, then his twists. There was a series of motions Cyrus made whenever he made to disarm Markus, and after three attempts to copy and anticipate those movements, Markus finally managed to twist with Cyrus in a manner that allowed his weapon to stay in his hands, giving him an opportunity to smash the handle into Cyrus’ stomach and force him back once more.
+
+Markus followed up with a strike to Cyrus’ exposed neck, heart pumping, but Cyrus caught the weapon’s blade in his hand, stopping it short, staring at him, lips parted.
+
+“How did you do that?”
+
+“Let’s keep going,” Markus said, flaring the mana in his blade. “Let go.”
+
+Cyrus shook his head. “No, seriously. That was incredible. I didn’t learn to counter a move like that for years.”
+
+“Keep. Fighting.” Markus said, pushing Flame Mana into his glaive, attempting to get Cyrus to drop it.
+
+“No,” Cyrus said, lowering his sword. “I think I’m done.”
+
+“Why the fuck?” Markus shouted, retracting his glaive and slamming the handle against the floor. “It’s barely been twenty minutes! You told me we could come out here and train, so fucking train me!”
+
+“You’re barely standing,” Cyrus said, panting a little, pointing at him with his sword. “We could both use a break. We can resume later if you wish.”
+
+“I’m not gonna be able to do shit to save us both if I can’t get stronger, so instead of worrying about me, why don’t you raise your fucking sword and fight properly?”
+
+“I…” Cyrus blinked. Cyrus sighed. He picked up his axe, brandishing his weapons once more. “If you are sure.”
+
+Markus stared at him. Really stared. Waited until the red mist began to clear.
+
+He sounded…
+
+Markus threw his glaive down. “No. I should chill the fuck out. I’m sorry.”
+
+Cyrus paused. He hesitated, looking like he’d been frozen in place. “You’re sure?”
+
+“Yeah.” Markus nodded. He walked over to Cyrus and patted him on the back. “You’re great. You’ve really helped me see how much I’ve improved. I can feel the difference between now and when we first fought, even if I’ve still got miles to go until I can really match you.”
+
+“You’re like a whole other person,” Cyrus nodded. “Only…”
+
+“Only?”
+
+Cyrus hesitated. He puffed his chest. “I don’t just mean as a fighter.” He looked at him directly. “Is everything alright?”
+
+“Y-yeah. This place is just getting to me a little.”
+
+Cyrus sighed. “I know what you’re trying to do. I know you’re trying to help both of us. But trying to deal with everything by force and attrition like that, it’s…”
+
+“Yeah. I know. It’s just…” Markus searched for words. He didn’t know exactly how to say it or how much he wanted to divulge. It was difficult to talk about any of it. Hard to even get it straight in his own head. “I feel like the only thing I have to rely on is me. Everyone else wants something from me. Some agenda or price or something. It’s difficult. I never wanted to be in this situation.”
+
+“It seems difficult,” Cyrus said. “I imagine it’s all very confusing for you.”
+
+“Yeah, it is.” Markus tutted. “But then I feel like a fucking prick talking to you about it like this. You’re locked up in here too, and who knows what shit you went through before this?” Markus scratched the back of his head, feeling a fresh, tender bruise. “And talking to you makes me realise that it’s not true. That not everyone just wants to use me. Maybe those gods do. Maybe Drathok does…
+
+“But I’ve met at least a couple of people down here that have just wanted to help me, and they’ve kept me going until now. I guess I slipped for a minute. You don’t deserve me pushing you like that. I’m not fucking Maesha.”
+
+“I didn’t feel like you were,” Cyrus said, his eyes soft against his otherwise imposing demeanour. “I felt like I was watching someone push themselves too hard. You seem angry. Angry at this place? You should be. You can use that.” His voice lowered an octave, his brows becoming stern. “But you can’t take it out on yourself. That won’t help you grow at all.”
+
+Markus stared at him. “You really think I was doing that?”
+
+“Yes. You seem discouraged you can’t take on the whole world yet. Desperate to be there right now. But you still have time. Trust in the process.”
+
+“But you’re so much stronger than me. Hell, I even thought about slotting another core just to try and beat you there.”
+
+Cyrus laughed. “And who is being courted by gods? Me? I was worth nothing to Maesha. She threw me away. If I’m so much better than you are, why is that the case?”
+
+“I don’t know. It feels like people are just overestimating me. Potential’s a hard thing to actually visualise when everything beats the fuck out of you.”
+
+“My Sword Mastery is well over two hundred. What’s your Glaive Mastery?”
+
+Markus pulled up his screen to check. “...eighteen. It went up one in that fight.”
+
+“And yet I had to work to keep you down. You’re tenacious, and far more powerful than any novice I’ve met, and any I will ever meet again. Keep fighting, keep learning, and you’ll become far more powerful than I am. I’m sure of it.”
+
+“You really think so?”
+
+“I know so. There are fast learners, and then there’s you.”
+
+“...thanks.”
+
+Markus sat quietly for a short time, simply catching his breath, mulling over Cyrus’ words. He didn’t deserve a friend and helper like this. He’d put himself on the line for Markus before, and even now, when he should’ve been angry at his own situation, angry at Markus for his behaviour, he listened, he understood, and he advised. He helped to calm Markus when he felt he should be going crazy, when everything in his mind felt so hopelessly destructive that he only wanted to tear everything around him down, good or bad.
+
+That fire in his heart didn’t need to be quelled entirely. It only needed to be aimed.
+
+He couldn’t lose sight of the objective before him. He’d made his decisions so he might do things his own way and secure his own future, and to do that, he needed to trust in himself. To allow himself to have weakness, to understand that improvement was something that came from the work and effort he put into it, not just how badly he wanted and wished for a thing.
+
+The energy that went into a desire for change wasn’t the same energy that went into actualising it. That was something Markus could feel within himself. The shift in his spirit was prominent enough that he could sense it. He felt lighter. Less encumbered. Ready to face the challenges that laid before him, both impossible and scary, but achievable if he could keep sight of his principles, his desires, of who he truly was.
+
+But to reach that point, Markus wanted to understand the pinnacle. The next step. The point he’d have to reach if he wanted to smash through his current limits and become a force that could truly bring change and betterment to his surroundings.
+
+“Hey. Can you do me a favour?”
+
+“Most likely.”
+
+Markus stood. He pointed at his chest. “I want you to hit me properly. Hit me like you really, really mean it. Just once.”
+
+“I can’t. At your current level I’d kill you.”
+
+“You won’t,” Markus insisted. “I’ll use my Stone Skin, I’ll use another spell to reinforce my chest, and I’ll be able to take it. I’ve got over 200 Con already.”
+
+Cyrus raised an eyebrow. “That number is less impressive than you might think. But fine.” He rose to his feet, a mountain of muscle and intensity, power rumbling through his body as he approached, his gaze formidable. “Just once. I’ll trust you can withstand it.”
+
+Markus braced himself, expecting to find himself halfway across the room within moments, coughing his guts up, but instead, something else happened.
+
+Cyrus stopped short an inch from his chest. The resulting energy of his punch flowed into Markus so violently that his entire body locked up, his lungs fighting stay functional, his eyes blurring.
+
+Then, Cyrus pressed two fingers into Markus’ chest and pushed. Markus was shot back five feet, crashing to the floor, panting rapidly, his heart threatening to shatter his ribcage.
+
+He was more shocked than hurt. The force behind that blow had been so intense that he’d almost shut down his nervous system without even touching him. To think that the power and skills of a god’s disciple were so vast…
+
+Cyrus walked over to where he sat, holding his chest, feeling his heartbeat as he tried to get it under control. He watched with a smile upon his lips.
+
+“You’re even stronger than I realised. I don’t think I even broke anything.”
+
+“Maesha sold you for a bag of silver?!” Markus panted, still in shock, barely able to gasp the words out.
+
+“I imagine she said that only to spite me.” Cyrus put a hand out. “Days ago, that same attack would’ve likely destroyed half your torso. Now, you’re barely winded.”
+
+“Can… can you teach me to do that?”
+
+“How about right now?” Cyrus laughed. “Still eager to go another round?”
+
+Markus panted a couple more times, wiping sweat from his brow, then stared at Cyrus’ extended hand once more.
+
+“Nah, I think I’m done. I’m gonna go pass out for twelve hours.”
+
+With that, Markus grabbed Cyrus’ hand and pulled himself back to his feet. When the pair of them reached their cells, a bed almost identical to Markus’ sat in Cyrus’ cell, taking up almost half the space.
+
+“What in the…”
+
+“I told you,” Markus laughed, moving over to his own bed and unceremoniously slumping. “Nothing beats this.”
+
+Cyrus eyed the bed warily, as if it were an alien entity that had invaded his room. He moved towards it slowly, cautiously, as if it might evaporate at any given moment.
+
+“I’m accustomed to the floor.”
+
+“Try it.” Markus insisted. “If you hate it, take the floor instead. I won’t stop you.”
+
+Cyrus gently, gingerly sat upon the bed. It creaked a little, but held his weight with ease.
+
+“This is…”
+
+“Well?”
+
+Cyrus didn’t answer. He laid back further against the mattress. Markus could barely see him through the bars.
+
+“Well? How is it? Tell me!”
+
+Cyrus didn’t say a word.
+
+A few moments later, Markus heard a loud snore.
+
+The sound brought him amusement. He kicked back and laid in his own bed. The darkness was soft and pulled against his eyelids.
+
+He missed Ember. He wondered where she went when she was gone.
+
+Only a few hours into sleep, he was awoken by a banging at the door of his cell, and a voice calling his name.
+
+Not another arena fight already, surely? Was he expecting a visitor?
+
+“I finally found you!” came the triumphant sound of a husky voice, its owner tapping their claws against the bars. “Good job not dying.”
+
+The tigress paused. She squinted.
+
+“Whoa… You have a bed?!”

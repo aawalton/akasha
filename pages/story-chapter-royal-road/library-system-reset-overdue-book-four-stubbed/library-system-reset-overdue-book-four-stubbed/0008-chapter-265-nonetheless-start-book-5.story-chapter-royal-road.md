@@ -1,0 +1,151 @@
+---
+id: 895adbdd-ff80-5676-b101-08a3b0bd42f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 265: Nonetheless [Start Book 5]"
+slug: 0008-chapter-265-nonetheless-start-book-5
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 8
+ownLength: 2207
+unit: words
+publishedAt: 2025-02-25
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2088102/chapter-265-nonetheless-start-book-5"
+royalRoadId: "2088102"
+---
+
+Quiet tension permeated the hospital floors, undercut by the scent of lemon and bleach. The hospital wing was less busy now that half the injured Salosier had left it. Quinn’s wounds took no time at all to heal, but the same couldn’t be said of Drukala’s dragon fired face. Nor Geneva’s wings. Apparently the gossamer strands that made up the wings were difficult membranes to regrow.
+
+Or something.
+
+At least they pulled through, though...
+
+Quinn’s fingers wouldn’t flex the way she wanted them to. In fact, her whole concentration was blown, even when she tried to multitask. Maybe it was the compartmentalization issue.
+
+In that, she refused to retrieve the emotions that threatened to tear her apart.
+
+She’d realized, in the course of everything, that she didn’t deal well with loss. The fact that her senses expanded in sensitivity with her last synchronization didn’t help either. She was acutely aware of everything and everything going on around her, approaching her. So, she knew who it was, even before they gently brush a hand against her shoulder.
+
+With sheer willpower, Quinn steeled herself. “Hey Mal...” she said instead of leaning into the touch like she wanted to. Just for that bit of tactile reassurance. Something about her nerves just then told her that if she leaned back, she’d end up curling up and hiding from the rest of the world.
+
+“I’d ask what’s going on in your head,” he said softly, “but I’m pretty sure it’s the same spiral you’ve been going through for the last few days.”
+
+Quinn wanted to shake her head, to deny it, but she couldn’t. Pursing her lips, she sighed instead, knowing what he was about to say.
+
+“It wasn’t your fault.”
+
+Malakai’s words ground into her like a corkscrew. He might have been right, but it didn’t hurt any less.
+
+“Yeah.” She glanced down the hall toward Geneva and Drukala’s doors and shook her head. “I know, but it doesn’t make me feel any better.”
+
+“Never said it did. But right now, you’re needed elsewhere...everywhere, really.”
+
+Quinn tried to smile in response because she knew Malakai wanted to cheer her up. But a part of her just couldn’t. It felt dark around her, like everything was at a distance. Like that was the way she should keep everyone.
+
+Malakai frowned as they made their way out into the main part of the Library. He hesitated, as if he wanted to say something, and then thought better of it before continuing. “Got your list, then?”
+
+She nodded, bringing it up in her head to make sure she did. There was still so much to go over. “Check on Misha’s progress, on Betty and Dottie’s workplace cohesion, Milaro and Lynx’s deep dive into memory, and we should probably look into the pillar. I’ve felt the damned ground rumbling every so often.” The latter made her mad. She wasn’t entirely sure how to process all this. Except that she had to. So she would.
+
+Mal shot her an unreadable look and sort of jostled her into her office instead of to any of the other destinations. He closed the door behind her and leant on it, the frown deeper now, so much that it accentuated the crease in his forehead.
+
+She raised an eyebrow and crossed her arms, her fingers squeezed her inner arms. “What did I miss?” Because that had to be it, right? She’d obviously missed something on her list, and he wanted to tell her.
+
+“Stop the whole woe is me, self pity and recrimination act.” He said, and his voice sounded tight, painful even. He was angry, but she could tell it wasn’t solely directed at her. His gaze bores into hers and then he sags a bit. “You weren’t the only one there.”
+
+He was right, and she knew it. But it somehow made it worse. Still... he did have a point. She nodded begrudgingly. “Perhaps. I mean, I know we were. It’s just a lot harder ...”
+
+“Than you thought? That whole losing someone because we let our guard down for a split second? Of course it’s hard, Quinn." He reached forward, and this time pulled her into a hug.
+
+At first, Quinn just doesn’t let herself be pulled, and then her body defied her, melting. Hugs were definitely one of those things that worked wonders for the psyche. She wasn’t sure how long they stood there, maybe a couple of minutes, before she muttered her thanks into his arm. He was a lot taller than her.
+
+“Feel like we can push through with what we need to now?” He asked quietly, his tone full of concern.
+
+Quinn nodded. “Yeah for now... I mean we can always,” she waved a hand around, gesturing vaguely to everything. “We can always deal with all that after we’ve solved the whole sabotage angle, right?”
+
+“Very right,” Malakai smiled, and Quinn could see the shadows still there behind his mood, too.
+
+Maybe it was selfish, but it felt better knowing she wasn’t the only one in mourning.
+
+It definitely made it easier for her to suck it up and soldier on as she so eloquently put it in her own head.
+
+She cracked her neck from side to side, sparing a brief thought of where Aradie might be. The owl had been quite scarce since they’d returned, and Quinn had some trouble wondering if it was because of her. Likely not, but still, paranoia felt like a tangible thing right then. “We should...”
+
+But a knock on the door pulled her up short and Malakai spun to open the door. His expression changed to one of indifference. “Oh, it’s you.”
+
+Milaro poked his head in the room, raising an eyebrow at how Quinn stood in the middle of the room with her arms crossed, a slight scowl on her face. “Oh, I see things are going well in here. Would you like me to try that entrance again?”
+
+Despite her current mood, Quinn laughed. “No, come on in.” She broke her stance and made her way over to her desk. It felt like she hadn’t sat in her chair in forever when, in reality, it hadn’t even been a week. So much had happened, so much of it bad...
+
+“To what do I owe this pleasure?” She asked, forcing a smile onto her face.
+
+Milaro looked at her, as if he could see right through her, and pursed his lips in thought. “You’re not sleeping well enough and you need to reinforce your shielding.”
+
+Quinn blinked at him, pushing through her shields, confused as to his statement. Her scales practically rippled through the blue and gold as she inspected them and she opened her mouth to speak, only to be cut off.
+
+“Not your physical shields.” Milaro’s impatience leaked out. “Your mind.”
+
+She paused, shocked.
+
+Her routine! She hadn’t been reinforcing anything. Since they got back, she’d just fallen into a sort of boneless routine. It’d been days since she’d gone through her usual exercises that included making sure her mental shielding was at its strongest. Slamming her walls into place, checking and double checking them to verify their strength, she sighed with relief, not finding anything untoward.
+
+Granted, they’d been at full strength back during the fight with Drukala and Dro.
+
+“Sorry.” She murmured, her shoulders slumping.
+
+Milaro narrowed his eyes as he approached. He reached out one elegant Elven hand and rested it briefly on her forehead, frowning. “You don’t have a fever. As far as I can tell, your vitals are fine. Would you like to talk?”
+
+Quinn stared at him. He sounded so sweet and understanding and grandfatherly. And for the first time in a long while, the elf king actually seemed to be well rested. The worry she carried for him on an almost constant basis dulled a little in relief. She shook her head. “Not right now, but I want a rain check on that.”
+
+A strange buzz sounded in her head as the translator had difficulty with that phrase and Milaro eyed her quizzically. “A rain check?”
+
+She dug deep to figure out just how to explain that to him. “Like... at another more suitable time.”
+
+“Ah,” he watched her, his expression thoughtful. “Anytime. And always even.” His smile was gentle, full of understanding.
+
+“Thanks.” Out of the corner of her vision, she could still see Malakai leaning next to the door. But it didn’t matter that he’d witnessed a vulnerable moment. She’d been having a lot of those over the last little while and frankly... both Milaro and his grandson had become a type of family to her.
+
+“Anyway. I didn’t come in here to chastise you or demand you rebuild shields.” Milaro’s grin was contagious.
+
+Quinn smiled back at him. “Fine then. What dire news do you bring me this time? Who do I need to hunt down and fine now?”
+
+Milaro laughed that same comfortable sound that usually filled the room. It eased all the tension she’d been holding in her shoulders as she waited for him to answer.
+
+“No fines this time,” he winked at her. “Just thought you might like to see the progress Harish has made with Misha.
+
+A pang of guilt shot through her, followed closely by something akin to hope. But she couldn’t help the caution that held her back from jumping up and running to the room. If Misha had fully recovered, then Milaro would have phrased his statement differently. She pushed some of the errant curls out of her face and counted to three, hoping her tone would come out even. It was mostly successful. “What is it you’re not telling me?”
+
+Malakai shifted by the door, changing how he distributed his weight as if he was reacting to something prematurely. Milaro eyed her contemplatively for a few seconds before answering. “Misha isn’t restored yet, but there has been significant progress.”
+
+Again, Quinn frowned. “It’s more something I have to see for myself?”
+
+Milaro’s eyes crinkled to go along with his sad smile. All he did was nod.
+
+Quinn pushed herself up from her chair and headed out toward the room Harish had Misha in. She ignored the patrons, or at least tried to. The Library was teaming with people and the power thrummed through the soles of her feet. Or perhaps that was just her own power in synch with that of the Library.
+
+We’re always in sync now. The voice glossed through her mind, just a gentle nudge, like the Library was specifically responding to the emotional turmoil Quinn was experiencing.
+
+Quinn sighed, but this time it freed some of her pent up sadness. It seemed like, in the last week or so, she’d lost so much, perhaps too much. Her heart hammered in her chest as she approached the room. It wasn’t as if she was scared exactly, but the anticipation of what she found felt like a stab wound waiting to happen.
+
+The door opened silently, slotting into the wall. Quinn hadn’t remembered it being a pocket door, but it wasn’t like the Library couldn’t change on a whim.
+
+Harish stood at the center console, reaching over screens and projections, maximizing and analyzing all the data in front of him. As the door swooshed closed behind them, he turned, a genuine smile spreading across his face.
+
+Quinn had to bite her tongue to keep from gasping in surprise. She’d never really seen him smile before. Not like this, anyway.
+
+“Ah, you’re here. Come along.” He said, motioning them over to the massive tub.
+
+She watched it as they approached, noticing how it was larger than she recalled. “Has it expanded?”
+
+“Yes. Yes.” Harish flashed her an absent-minded smile as he ushered them all toward the incubation pod. “Here.”
+
+He reached forward to something on the top of the pod, and with a brief murmur, activated its magic.
+
+The lid became transparent and this time Quinn couldn’t contain her gasp. In the pale blue liquid with strings of purple lightning pulsating all through it was Misha.
+
+They looked exactly like Quinn remembered before they’d had to tear their mind apart. Short, strong and somehow petite without being fragile. Gorgeous silver limbs and a face that looked like they were asleep.
+
+“Will Misha be... okay?” There was hesitance in her voice because Quinn wasn’t sure if she could take another loss. Not now.
+
+Harish smiled, and it was filled with a sort of enigmatic kindness. “I believe I’ve recovered the majority of her personality and purged the old. There will be some gaps. But Misha is strong, and Misha fought the influence. All the simulations and diagnostics show me as full a recovery as I could have hoped. Give me a couple more days and you’ll have them back.”
+
+The relief rushed through Quinn, took her breath away and she smiled. “Thank you.”
+
+Malakai reached over and squeezed her hand briefly, just providing that element to ground her. Quinn wasn’t sure when he got to know her so well, but she appreciated it nonetheless. Now, all she had to do was get through Jasper’s memorial. That was... if she could convince the Library, Milaro, and Lynx that it was safe for her to leave.

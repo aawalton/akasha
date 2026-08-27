@@ -1,0 +1,299 @@
+---
+id: 7c9116e8-ec06-572c-8b41-4cf90e654def
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22 — Ghosts in the Dark, Pt 5"
+slug: 0022-chapter-22-ghosts-in-the-dark-pt-5
+partOf: just-add-mana
+position: 22
+ownLength: 4466
+unit: words
+ownProgress: 4466
+publishedAt: 2025-08-16
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2522934/chapter-22-ghosts-in-the-dark-pt-5"
+royalRoadId: "2522934"
+markedReadAt: "2026-06-29T18:48:17.212Z"
+---
+
+You have learned [Create Impulse]!
+
+[Blabbermouth] has reached level 10!
+
+The auric spell [Blabbermouth] has achieved First Consolidation and budded the spell [Taunt].
+
+You have learned [Taunt]!
+
+Cale stared for a long moment at the motionless form of Sneaks-In-Darkness. Remnants of rebirth magic still swirled around her body, sparking occasionally into violent bursts of vital lightning as it tried to heal away her injuries. It didn't have much success—healing magic rarely worked on someone with a cracked mana core, and even high-tier rebirth magic like this had difficulty.
+
+As far as he knew, in fact, he was the only person that could recover from that kind of damage.
+
+She wasn't dead yet, though. The dragon's body lay broken and bloodied at the bottom of a crater nearly twenty meters deep, but even from where he stood, Cale could make out her shallow, pained breaths. Dragons were incredibly durable creatures, so it was no real surprise; if he wanted to end her now, he would have to shape a barrier meant for the task.
+
+He reached out—
+
+"Don't!"
+
+A voice screamed in the distance, and Cale frowned slightly. He looked up to find the catgirl desperately running across the desert toward him. From the looks of things, she'd been running for a while; there were scrapes on her elbows and knees from where she'd undoubtedly fallen.
+
+Come to think of it, when had he moved this far away from the academy? The Headmaster and the other students were little more than a speck in the distance. He supposed he had hit Sneaks-In-Darkness rather hard in his initial burst; he'd needed to use a trick with his barriers to launch himself and close the distance, but he'd done all that without really thinking.
+
+Now that he looked, though, there was a rather telling section of melted glass burned into the sand.
+
+"Please," she said. She'd finally managed to catch up to him enough to be within earshot and promptly collapsed into the sand; it mixed into the mess of tears and snot on her face, clumping into her fur in a way that couldn't have been comfortable. "She's—she said she's linked to the—you know. We can't kill her, it'll... it'll..."
+
+She swallowed and bowed her head. "I don't know who you are," she said. "I don't know what you are. Maybe I don't have the right to ask you for anything after what I did. But please, if you do this, our families..."
+
+Cale sighed. "What's your name?" he asked.
+
+She swallowed. "Aila. Aila Quickpaw."
+
+Cale suppressed the urge to ask if her last name really was Quickpaw, of all things. Instead, he glanced back down into the crater and gestured for Aila to come and take a look; after a moment, he heard her struggling to her feet and limping slowly to the edge.
+
+As soon as the dragon came within view, Aila's breath caught, and she fell backward, her eyes wide. "I-Is... is she already...?"
+
+"No," Cale said mildly. "Though I was planning to finish things when you showed up. You realize the risks of keeping her alive, don't you?"
+
+"I..." Aila swallowed and looked away, giving him a tight nod. "Please," she whispered softly. "I don't want my family to pay for my mistakes, and Izzik's already lost most of his clan. I don't know much about Geraal's situation, but no one deserves this."
+
+"Just like no one deserves to die because they happen to have a slightly abnormal core," Cale said casually, and Aila flinched, her ears drooping. He shook his head. "Don't worry. I'm not going to kill her. Frankly, I'd rather not deal with her any more than I have to."
+
+As if he was going to risk setting off a bloodrot bomb, of all things. It wasn't like he hadn't been aware—he'd learned quite a lot when those fragments of Sneaks-In-Darkness's mind had bled into his own, and he knew the limits of her body besides. Honestly, with all the things he'd learned...
+
+Cale shot the dragon in the crater a look of mild disgust, then dug around in his pockets and handed Aila a handkerchief. "Come on, clean yourself up and let's head back. You don't want your friends to see you like this, do you?"
+
+Aila stared at him for a moment, then at the handkerchief. "Really?" she asked, as if in disbelief. Cale cocked a brow at her. Had she assumed he wouldn't listen? Why had she bothered pleading with him, then? "But I thought..."
+
+Cale snorted. "What, that I'm going to do whatever I want because I'm one of those wild mages?"
+
+Aila sniffed and took the handkerchief. "I don't know," she said, wiping at her face to clean off the dirt and tears. "I'm not... used to anyone listening to me, I guess."
+
+"Well, don't get used to it," Cale said dryly. He was only being nice because she was crying. "Come on, we better get going."
+
+With that, he covered the crater in a barrier and started walking off toward Akkau and the others. Judging by the magic he could feel in the distance, the only reason the Headmaster hadn't joined him already was because he was using his magic to keep Izzik alive. He could sense elements of vitality and preservation mana swirling like a thick fog, far ahead.
+
+That was a relief, at least. Cale had been worried about being too late, but it seemed like he'd immobilized the lizardfolk's neck just in time. He was going to need to talk to him later—trying to heal Sneaks-In-Darkness had been beyond suicidal, and he wanted to know exactly what went behind that decision.
+
+"Who are you, really?" Aila broke the silence with a tentative question as she followed behind him.
+
+Cale glanced at her and shrugged. "I'm Cale," he told her. "And that's all you need to know."
+
+Cale didn't quite allow himself to relax until he watched the academy's healers take Izzik's prone body into their custody. He'd have to find some time to visit later. The lizardfolk was taking small, shallow breaths, even with Akkau's help to stabilize him. A big part of that, he knew, was because there were very few functional healing spells in the aftermath of the Collapse. The majority of them carried... side effects, like the one Sneaks-In-Darkness suffered.
+
+What he found concerning was the fact that the side effects were less severe than they should have been. He frowned slightly. Was the seal weakening? It didn't feel like it was, and there would be many other signs if that were the case. More likely this was—
+
+He caught himself before he thought of it as an "isolated incident." There were never really isolated incidents where magic was involved. Someone had managed to find a partial workaround, perhaps. It would explain the bloodrot and the use of Myzonir's ritual.
+
+The only problem was that even partial workarounds should have been impossible. Not without at least one of the seal's anchors being alerted to it, anyway, and he'd sensed nothing of the sort. So... what was all this?
+
+He shook his head. There was no point speculating. He was glad, for once, that the Thread of Fate was in effect—it meant that no matter what the Red Hunters were trying to pull or how they were working around the seal, they would be inexorably drawn into his orbit, and he'd be able to find out what they were doing.
+
+All he needed to do was be patient.
+
+For now, he had something more important to take care of. The blood obsidian box that carried Cyte was half-buried in the sand, and the voidcyte within was oozing dizzily, having not quite managed to recover from the auric collapse it had suffered just moments ago.
+
+Cale knelt beside it and pulled the box out of the sand to hold it steady. "Hey, Cyte," he said, his voice uncharacteristically gentle. "You okay?"
+
+"Star?" the voidcyte sounded a little out of it. "You are alive! Oh, we thought we might have hurt our star, but we were wrong! Oh, joyous day!"
+
+Cale sighed. "Sometimes I wonder why I even bother," he muttered. "You know you can just call me Cale, right?"
+
+"Our star would give us this honor?" The voidcyte was staring at him with... were those puppydog eyes? How did that even work?
+
+"If anything, I insist," Cale said. He held a hand out to the voidcyte. "Come on, eat up. You can have some of my mana to recover. I'm going to need you to absorb all three of the emblems we recovered from those kids—the 'folded hearts'. You think you can do that?"
+
+"If our star—" The voidcyte cut itself off. "If Cale feeds us, we can do anything!"
+
+Cale couldn't decide if that was any better. It was... an improvement, probably?
+
+Akkau had been holding on to the emblems, at least. The Headmaster handed them to him without comment, though he could see the old dragon had a lot he wanted to say; no doubt he was waiting until they weren't surrounded by other students, though. Geraal was pale and shaken, Aila was still trying to calm herself down, and the others...
+
+Well, they were clearly bursting with questions but doing their best to hold back.
+
+Slowly, Cale allowed the voidcyte to feed, alternating between giving it his mana and the emblem to chew on. It didn't take that long, in the grand scheme of things—without other mages there to interfere, it only took a few minutes for it to consume each emblem. In that time, the others whispered quietly to one another.
+
+Akkau, on the other hand, grew visibly impatient. He shot repeated glances back to where Cale's barrier shone over Sneaks-In-Darkness's crumpled body, then eventually let out a sigh and contacted some of the other faculty professors to look after Aila and Geraal.
+
+Then he turned to Leo, Damien, Flia, and Syphus. "You four should get back to your classes," Akkau said. They stared at him, incredulous.
+
+"After what just happened?" Flia burst out. "You can't just—"
+
+"I understand that there is a lot to process," Akkau said gravely, if perhaps a little distractedly. Cale could see the dragon doing his best to stay focused. "But events such as these are rare opportunities to prepare for a danger you will undoubtedly encounter as a mage. There will be times where things simply continue to escalate and one disaster occurs after the next, and if you are not ready when those times come..."
+
+He trailed off and shook his head. "Your next classes are safe—relatively speaking—and if you are able to attend them without distraction, it may yet save your lives in the future. You may have tomorrow off from your classes, if you so wish. I will inform your professors of this. But for now, I ask that you try. It may yet save your lives in the future."
+
+"Cale?" Damien shot him a pleading look, and he wasn't the only one. Cale shrugged helplessly. The thing was, Akkau wasn't wrong; sometimes, it just wasn't possible to get all the time and answers you needed. It was a little harsh to impose it on Academy students, but if their next classes were relatively safe and not led by Imrys, the Headmaster might very well have had the right of it.
+
+"I'll explain what I can later," Cale promised. The four of them shot him doubtful looks, but eventually seemed to accept that answer and turned to slowly trudge back into the academy.
+
+Just from the look of them, they were clearly going to find a quiet corner to discuss what to do about all this. Cale smiled slightly at that—it was, in and of itself, a mark of a mage's potential. He'd felt that potential from them to start with, but now he was sure.
+
+All four of them could become incredible mages indeed.
+
+That done, Cale took a surreptitious peek at his schedule scroll, wondering what the next class on his list was. Magical Geography, it said.
+
+Cale wrinkled his nose. Surely there were more important things to do than Magical Geography? Though if he tried to get out of it now, he would probably look like a hypocrite...
+
+As he ruminated on this, Cyte continued to consume the emblems, moving from one to the next in quick succession. It took only a few minutes, all in all, and Cyte seemed quite full when it was done; it didn't even protest when he closed it back within its box. It was going to need time to digest before either of them could get their answers.
+
+Though Cale had a fair portion of them already, just from what he'd glimpsed from Sneaks.
+
+After that, it was just him and Akkau left. The two of them exchanged a wordless glance before making their way back to the edge of the crater, and Cale dismissed the barrier he'd left over Sneaks-In-Darkness.
+
+For a long moment, Akkau just stared at the limp body of the dragon lying at the bottom. The sight must have been difficult for him—Sneaks-In-Darkness may not exactly have been a true dragon, but she still looked like one, and Akkau had mentioned being nearly the last of his kind.
+
+"Sorry," Cale said. "I mean, not for doing this to her, but..."
+
+"I would have done this myself, if you had not," Akkau said. Cale looked up in surprise—there was a tightly controlled thread of anger in the dragon's voice. "This magic makes a mockery of our species. It makes a mockery of all that we were and everything we stood for. To think they were even able to use such magic..."
+
+His fists clenched, and Cale felt some of Akkau's magic lash out, as if wanting to destroy what was left of Sneaks-In-Darkness. Cale couldn't blame him.
+
+Even now, he was holding himself back.
+
+"You lied to Aila," Akkau said after a minute had passed. "You have already killed this mage."
+
+"It wasn't a lie," Cale said. "She's alive. If there's a lifelink between her and the bloodrot bomb, it won't activate."
+
+"But you shattered her core." Akkau took a step forward, and his magic caught him as he did, allowing him to descend carefully down the crater toward the dragon's body; that same spell quested carefully around him, seeking permission, and he allowed it to carry him down alongside the Headmaster. "Her magic leaks out of her even now. She will not survive the night."
+
+"She could, given medical assistance," Cale said with a shrug. His eyes darkened slightly. "But she'll never cast again."
+
+"There are those that would call that a punishment worse than death. To be without a working core in a world of mages, in a world with the Gift..."
+
+"She tried to kill a child, Akkau."
+
+"She did. I do not say this to reprimand you, only to be certain that you act with full knowledge of what you are doing. And it seems I have underestimated you, even knowing all you were capable of." Akkau hesitated, then, something vulnerable in the set of his shoulders. "It is rare that I encounter another that has lived as long as I have. Even among those that have, not all have faced the same degree of..."
+
+Akkau trailed off as he struggled to find the word, and Cale snorted, a small grin tugging at the corner of his mouth. "Unbridled trauma?" he suggested.
+
+"Difficulty," Akkau compromised, shooting him a look that didn't quite manage to hide a faint, reluctant amusement. "Though yes, I suppose that would not be an inaccurate descriptor."
+
+"You got all that from how I chose to deal with this?"
+
+"A mage's choices and actions reveal much about who they are," Akkau said. He landed them next to Sneaks-In-Darkness, examining her injuries with a small furrow in his brow. "And what they choose to do with power when they have it, I believe, reveals most of all."
+
+He glanced up at Cale. "Even in your anger, you hold yourself back," he said. "Many mages would have killed her, and far more would have lost to her entirely in their anger. Your actions were calculated to neutralize the threat she posed."
+
+Cale shrugged. "If the Red Hunters are willing to use bloodrot, they'd be willing to use lifelink magic. It's a reasonable precaution to take."
+
+"But not one easily made in anger, nonetheless," Akkau said, observing him. "I believe I understand you far more now than I did before. Am I wrong?"
+
+"I still know almost nothing about you," Cale remarked, not quite answering the question. Instead, he folded his arms across his chest and quirked a brow at the dragon, who chuckled softly.
+
+"All in good time," he said. "I do not trust easily, Cale. I will admit to having had concerns, enrolling a mage of such power into my academy. But I believe I can say now that I am pleased to have met you, and I look forward very much to seeing the mage you will become when you have mastered the Gift."
+
+"You're a sentimental old dragon, aren't you?" Cale said, his lips twitching. Akkau rolled his eyes.
+
+"Do not make me regret my words."
+
+"I won't." He meant it, too. Cale's gaze flickered to Sneaks-In-Darkness, and he paused for a moment. "What are you going to do with her?"
+
+Akkau sighed. "We must keep her alive, at least for now," the dragon said. "When we find a way to unbind her soul from the bloodrot, we can let nature take its course. But such an unbinding is not trivial. It will take time. And so in the meantime..."
+
+The dragon reached out and up, whispering an incantation, and Cale witnessed what might have been the most beautiful execution of combined spellwork he had ever seen.
+
+It was a series of six eighth-tier spells, but with their constructs interwoven in such dizzying complexity that it took his breath away. He caught elements of a spell of stasis and a spell of binding, a series of wards meant to prevent her from being located and recaptured, and a spatial spell to tuck her away into a dimensional gap.
+
+All that executed in a fraction of a second. A major divinity could have cast such a spell, but it would have been a twelfth-tier miracle. For Akkau to do it this casually and replicate the effect with six eighth-tier, layered spells? It was preposterous. It was... it was almost better than a baking spell.
+
+Almost. He wasn't about to get heretical there. Still, was this how people felt when he did things?
+
+"You are drooling, Cale." Akkau sounded amused.
+
+Cale snapped his mouth shut and did his best to look offended instead of awed. "I am not."
+
+"One might consider it inappropriate to drool in the aftermath of such an event," Akkau said.
+
+"I have an excuse!"
+
+"And what might that be?"
+
+Cale gestured between the two of them in the now-empty crater. "Unbridled trauma," he emphasized.
+
+"Indeed. I suppose I can excuse it, if only because there are no others here to witness your impropriety." Akkau smirked at him. Cale grumbled under his breath, though not with any real heat.
+
+Then his schedule scroll started to vibrate, and he groaned.
+
+"Seriously? Now?" he complained. Then, realizing this was his chance, he directed his best pleading expression to the Headmaster. "Can't you excuse me from classes for the rest of the day or something? I mean, with everything Damien and the others just had to deal with, I could just join one of their classes and make sure they're okay."
+
+It wasn't that he didn't want to attend classes, really. It was that he didn't want to attend Magical Geography in particular.
+
+"Well, in that case, you will be pleased to know that two of them share the same next class as you do," Akkau said dryly. Cale grumbled to himself. There went that idea. "I am well aware you do not need the training they do, but I suspect if I allowed you to miss your classes simply due to unusual circumstances, it will take four times as long for you to complete your education. I am sure you will be fine—the trauma will help."
+
+"You know you're not supposed to make fun of my trauma, right?"
+
+"Hm. Somehow, I do not believe you mind." Akkau raised an eyebrow at him, and Cale huffed. He wasn't wrong... Though speaking of classes, there was some crucial information he was missing.
+
+"Oh, right," Cale said. "My next class is Magical Geography, but I haven't had a class that explains the basics of the Gift yet. I'm pretty sure I understand the gist of it, but I got a new message earlier—something about a spell reaching First Consolidation?"
+
+"Ah, yes," Akkau said. He gave Cale a considering look. "I am surprised you have achieved First Consolidation with one of your passives already; I would have scheduled your classes differently if I had known you would take to it so easily. Do you have a particular affinity with the spell that budded?"
+
+Cale twitched. "You could say that."
+
+Akkau seemed to sense there was something Cale wasn't saying. He narrowed his eyes slightly, but before he could say anything, the scroll in Cale's pocket started screaming.
+
+Softly. But still.
+
+Akkau sighed and seemed to mentally brace himself, then asked, "I can give you a quick overview on the details, but before that, would you like a lift back to the academy?"
+
+Cale perked up immediately. "Do I get to ride you?"
+
+Akkau stared at him. "...I will fly us back with a spell."
+
+"That's what I meant."
+
+"Hm." Akkau's magic lifted them out of the crater and back into the sky, at which point the scroll immediately quieted; at the same time, the Headmaster apparently decided not to argue the point, because he dove immediately into the overview he'd promised. "Auric spells—the passive ones, granted by the Gift—are a form of... proto-spell construct, for lack of a better term. You may have noticed that the purpose of the Gift is both to train new mages and to expand the possibilities granted by magic; aurics are one way in which it accomplishes this."
+
+Cale nodded attentively, expertly concealing his disappointment at not being able to ride back to the academy on the back of a massive, fully unleashed dragon. Akkau, for some reason, kept giving him suspicious looks anyway.
+
+"At certain levels—typically multiples of ten, although it may differ for more unusual aurics—the Gift will acquire enough information to 'bud' a new spell off the auric. This is known as Consolidation, and achieving a sufficient number of them usually earns a mage a reward from the Gift."
+
+"Huh. Neat." Cale thought about this for a moment. "So what you're saying is that it would benefit both me and the Gift if I leveled [Blabbermouth] as much as possible."
+
+"...I find myself unsurprised that it is that particular auric that you have an affinity with." Akkau grimaced. Cale just coughed and made it a point to avoid direct eye contact. He hadn't kept that particular secret for very long, had he? "The official line is that the Gift works in mysterious ways, but in this case, I would like to ask that you avoid leveling that intentionally."
+
+"You say that like I'm going to keep doing it accidentally," Cale protested indignantly.
+
+Akkau just gave him a look. Cale, who didn't really have a response to one of the Headmaster's devastating stares, promptly distracted himself by checking the descriptions for his shiny new spells. New spells were always exciting.
+
+[Create Impulse, Level 1] [First Tier, Active] [30 Mana]
+
+Apply an impulse directly to a target using mana.
+
+[Taunt, Level 1] [First Tier (Unique), Active] [50 Mana]
+
+Speak words or perform an action that would draw the ire of an opponent. Note that the effects of this spell may vary. A certain Cale Cadwell Cobbs should probably be wary of casting this spell.
+
+"Wha—" Cale glared. "Why is it calling me out specifically?"
+
+"Most mages would be ecstatic to be so acknowledged by the Gift," Akkau commented.
+
+Cale squinted at him. "You don't even know what it said."
+
+"The fact that you budded [Blabbermouth] tells me all I need to know." There was that faint hint of amusement again. If Cale didn't know any better, he would've guessed the dragon liked picking on him.
+
+He grumbled under his breath. At least with Akkau flying them back, the schedule scroll wasn't likely to start screaming anytime soon. He'd make it to his class with plenty of time to spare—maybe enough to start sorting through all the information he'd acquired from Sneaks-In-Darkness.
+
+There was a lot of work to do.
+
+"So," Cale said, more to fill in the silence than anything else. Anything they could talk about was best done in Akkau's office tonight, with dedicated privacy wards and maybe a couple of drinks. "What's Magical Geography like?"
+
+Akkau hummed to himself. There was that amusement again! What, was the professor for Magical Geography someone like Imrys?
+
+...Cale wouldn't have minded that, actually. That might make the class interesting.
+
+"Professor Sternkessel is rather a fan of hands-on, practical lessons," Akkau said vaguely, that thin undercurrent of amusement still in his voice. "I believe he is also particularly interested in testing your capabilities when it comes to, say, unfamiliar environments. He believes you have been cheating using your experiences from the Great Realms, you see, and wishes you to prove yourself against Utelia's more unique dangers."
+
+Cale paused. "That sounds like a challenge," he said suspiciously. "Is this a challenge?"
+
+"I would never intentionally goad my own apprentice into proving himself by entering a challenge against a member of my faculty," Akkau said. "But you may be interested in knowing that Sternkessel has a particular distaste for Leo and Damien, who share this class with you."
+
+That sounded like a lie. Cale squinted at the old dragon. "You placed some kind of bet on this class, didn't you?"
+
+"A true Headmaster is above such petty things," Akkau said. "Kazix Brightscale would certainly never do that, and I follow in his footsteps."
+
+Cale flicked some of the sand on his coat at Akkau and was disappointed when the wind immediately whisked it away. "You've really perfected the whole 'mysterious immortal never answering questions directly' thing," he said.
+
+"I have no idea what you mean," Akkau said. "But I suspect if I did, I would thank you."
+
+Cale rolled his eyes and grinned.
+
+Well, it wasn't like he was above letting people he considered his friends win a few rigged bets.

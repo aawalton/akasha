@@ -1,0 +1,65 @@
+---
+id: 69b02d9e-0b93-556b-8c35-c4017d75b62d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91: Vertical Escape"
+slug: 0132-chapter-91-vertical-escape
+partOf: labyrinth-of-the-mad-god
+position: 132
+ownLength: 1656
+unit: words
+publishedAt: 2025-02-14
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2067340/chapter-91-vertical-escape"
+royalRoadId: "2067340"
+---
+
+Everyone grabbed onto the frame of the vessel as the airship continued to climb. Within a matter of minutes, the pirates’ outpost was reduced to the size of a child’s toy. Nick drank in the exhilarating sensation of soaring through the air, which melded with his relief from winning the fight to leave a fierce grin plastered on his face.
+
+But he couldn’t afford to just sit back and enjoy the ride. Although Team Earth had survived their first battle against other people and escaped on the airship as planned, they were still in grave danger. The burning base below was a blazing beacon, letting the pirates know that their prey had arrived on this floor. Worse, they knew exactly where Nick’s party had been only a few short minutes ago. The buccaneers were bound to converge on this side of the level, and he was certain that within a matter of hours, the air would be thick with ships hunting for the stolen vessel.
+
+In short, their escape had only just begun, and they were already running out of time. By now, the horizon had begun to lighten—the world beyond the tower shifting from black to a flawless navy blue.
+
+“We don’t have much longer until dawn,” Sophia echoed his train of thought. “Even if word of our theft hasn’t had time to spread, if anyone sees how bad I am at steering this thing, they’ll know something isn’t right. We need to climb to the first big island, find a place to hide, then learn more about this floor before we commit to a longer flight.”
+
+While Sophia and Veronica worked on learning the controls, the men watched for approaching ships and beasts, along with any smaller islands that were headed their way. It was hard to see the distant vessels in the dark, which was a good thing under the circumstances.
+
+They fled as fast as the airship could ascend, racing the rising sun. The beauty of their surroundings clashed with the danger engulfing them on all sides. The thrill of surviving a dangerous fight contrasted with the knowledge that if they stayed out in the open for long, it would be the end of them all.
+
+Just before they crested the rim of the closest floating island, Shaun pointed to a cluster of giant crystals jutting from the bottom. “Steer us that way. I think there is some manner of cavern hidden between those gems.” They didn’t have time to survey the surface, so the party followed Shaun’s suggestion. They stopped climbing and traveled along the bottom of the isle.
+
+Sure enough, when they drew near the spot in question, Nick could see a recess formed from the place where two big crystals came together. It wasn’t a proper cave, but it looked deep enough to land the ship. Better still, the opening was angled so that it would be hard to see without taking a close pass at just the right elevation. It wouldn’t offer perfect concealment, but it was the best they were going to find before the sun rose.
+
+“Given the prevalence of the crystals, there are probably places like this all along the islands,” Devin said. “I doubt they will look for us here until they finish sweeping the surface of the nearby isles. It will still be a risk, but we’re out of time.” The women steered the ship toward the enclosure, slowing down as they maneuvered it through the gap between the minerals.
+
+There was a groan as the gemstones scraped the sides of the vessel, but they managed to land it without causing any serious damage. Devin lodged the anchor between a series of protrusions, keeping the floating vessel from drifting off. Then everyone ducked down to reduce their profiles as much as possible.
+
+Since they didn’t need to sleep and were too saturated with adrenaline to rest even if they did, everyone sat in a circle. They spoke in low voices as Nick reached into his pack and retrieved what they had taken from the pirates below. While Team Earth began sorting through the plunder and inspecting the ship for anything useful that might be stowed aboard, they pulled up their profiles to check out their gains from the battle.
+
+“Holy shit,” Shaun said. “I finally did it. That fight shot me all the way up to level fifteen, and I can access the ability mastery system. I only have two abilities, but I can take them both to rank two right now. Before I do, I was hoping that you would help me think over my options, along with how I should spend my free points. I want to focus on contributing to a team rather than working solo going forward, and I want to direct my growth with that goal in mind.”
+
+After talking the matter through and experiencing the visions that came from taking his abilities to rank one, Shaun decided to advance Smoke Arrow to rank two first. All three options were solid, but after listening to everyone’s opinion, he decided to go with the one that was best suited to fighting alongside a small party.
+
+The upgrade he chose was incredibly useful. It didn’t make the smoke thicker or grant it offensive capabilities like the other picks. In fact, it didn’t change the properties of the smoke to outside observers at all. However, its effects would be radically different to the members of his team. Going forward, the smoke from his arrows would appear translucent to Shaun and his party. He could lay down a smokescreen that wouldn’t obstruct his allies’ view but would still blind his opponents. It was an amazing support ability, and Nick was thrilled to add it to the team’s toolkit.
+
+All three options for Electric Arrow were offensive in nature. Since added utility was off the table, he decided to shore up one of the party’s weaknesses and gave the arrows a chaining property. The electricity released by the original discharge would leap to all targets within ten feet, then again a second time, losing strength in proportion to the number of splits.
+
+Shaun would have to be careful not to hit his own team, but his upgraded ability would dramatically increase the area of effect of the attack. It would be fantastic when fighting swarms of small opponents, especially when he had some more raw power behind it.
+
+Nick had ranked up his abilities after the fight with the Janitor, but everyone else had gained some valuable new powers from winning their latest battle. After talking the matter over with the team, they made their decisions. They laid down to experience the visions, then shared the details of their gains.
+
+Slaying the roach queen, who had wielded powerful enhancement magic, had granted Sophia almost enough essence to take her aura to rank two, and killing the pirates had given her the rest. The upgrade she chose was simple enough. Before, her aura had boosted the Toughness and Dexterity of anything friendly within its range. Now, the passive ability would increase their Strength too, letting the team and her summons hit harder with every blow.
+
+The effect was noticeable right away. The instant that her vision was complete, Nick sensed power flowing into his body, making his limbs feel lighter. When he drove one fist into his open palm, he could feel the extra Strength. “This is amazing.” He grinned. “Your powers are awesome, Sophia.”
+
+For his part, Devin had taken Flame Resistance to rank two. In addition to protecting his body from burning attacks, the passive ability would help him to regulate his body temperature, which would let him endure extreme heat and cold for prolonged periods of time.
+
+Veronica had ranked up all three of her abilities, one of which would enhance the effectiveness of the entire party. After some consideration, she had gone with an upgrade to Bleeding Poison that was similar to her improved Acid Bolt. Only instead of restoring the team’s health, the party would regenerate stamina while her opponent was afflicted by her anticoagulant.
+
+“I love it,” Devin said. “We’ll have to think of a cool name for the new version, like Vampiric Bolt or something, but you’re turning into one hell of an offensive healer. Most parties would kill to have someone like you.”
+
+V had also taken Bone Claws to rank two. After some consideration, she had gone with an upgrade that would increase their penetrative power and make them harder to break. When she tried it out, her claws were covered in what appeared to be a thin layer of diamond. When she ran them across a banister, the cutting edge sliced into the hard wooden railing with no appreciable resistance, carving thick curls of wood as she drew them along the surface.
+
+Finally, Sophia had leveled and gained a new ability. Since she had performed a ritual using a beast core from a warrior roach, that was the new creature she could summon. She had also received enough essence from the fight to take her spear-tongue frogs to rank two. She had just gained a new frontline fighter, so she decided to take her frogs in a different direction.
+
+Instead of focusing on their melee ability, she granted them an unusual specialization that the System called “mage hunters.” It increased the size of the black plates that banded the vermillion frogs’ bodies, while enhancing their antimagic property. The upgrade improved the summons’ resistance to a wide range of spells, granting the team a new way to counter a dangerous type of opponent.
+
+They couldn’t afford to waste the vital energy to summon some now, but Nick couldn’t wait to see what her warrior roaches and upgraded frogs could do. Everyone spent a few minutes complimenting each other, enjoying a moment of shared satisfaction at their new powers before moving on to their material gains.

@@ -1,0 +1,91 @@
+---
+id: 076cb6dd-b4b6-5c14-a4a3-6615712ee4b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 136: The Final Act"
+slug: 0177-chapter-136-the-final-act
+partOf: labyrinth-of-the-mad-god
+position: 177
+ownLength: 1773
+unit: words
+publishedAt: 2025-05-30
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2317660/chapter-136-the-final-act"
+royalRoadId: "2317660"
+---
+
+The men came to a stop twenty feet in front of their foe, as the battle on the rooftop raged all around them.
+
+For a final, fleeting moment, Nick, Devin, and the Guardian of Darkstone Tower simply stood there, taking the measure of each other.
+
+It gave Nick a chance to run his gaze across the most dangerous opponent he had ever faced. Unlike the Janitor, this wasn’t an artificially-enhanced facsimile, but a true tier-2 elite. A battle-hardened warrior with a stable core and powerful abilities that came together to form an integrated concept.
+
+Every move the living machine made revealed a mastery of martial arts far surpassing his own. It was an intelligent enemy versed in tactics and technique. He knew in that instant this opponent wouldn’t have any obvious weaknesses to exploit or holes in its defenses.
+
+While Nick absorbed the presence of the killer construct, he catalogued its features and form, doing his best to evaluate its capabilities before their confrontation began. The Guardian’s body was more intricate than its army of clockwork soldiers, like it was the original design and they were cheap copies. The craftsmanship was incredible—magitech of a caliber beyond anything he’d seen before.
+
+The machine was formed from gleaming brass plates connected by a complex assembly of gears. The mechanisms forming its joints rotated in time with its movements while the rest spun in a pulsating rhythm, like the beating of an artificial heart.
+
+Most remarkable of all was the construct’s face. It had gemstone eyes and platinum teeth—thousands of interlocking components that could freely articulate. It was so lifelike that Nick could pick out the subtle blend of emotions conveyed in the Guardian’s expression.
+
+The clockwork warrior was enjoying itself. It was savoring the battle to come and utterly confident that it would emerge triumphant—its victory as inevitable as dusk following dawn. It viewed the rest of the conflict as a diversion. A trivial task now that it had taken to the field.
+
+While all of this was fascinating on some level, none if mattered now. What was important was that the machine’s arrogance was no mere show of bravado; it was every bit as lethal as it believed itself to be.
+
+Nick could tell from the Guardian’s stance that it had mastered its unusual weapon, although its style was far removed from the Ever-Surging Blade. The clockwork staff was six feet long and the shaft was studded with jewels. Just like its wielder, the killing-tool was covered in rotating gears, and it gave off an aura of incredible power. After spending so much time with Blightbane, he could sense that it was an artifact of comparable might—one of the most powerful magic items that he’d ever seen.
+
+The elite’s weapon was imposing enough, but the truly terrifying detail was the energy emanating from the Guardian’s core. He could perceive so much mana that felt it like the construct had a nuclear reactor implanted into its chest—capable of unleashing far more firepower than the Janitor at the height of its onslaught.
+
+On that note, the magical circuitry running throughout the construct’s body was an order of magnitude more complex than Kellen’s failed experiment. And though Nick’s energetic senses were newly awakened, he could tell that this formation was stable, synergistic, and complete.
+
+On top of an overwhelming amount of mana, he could sense vast reserves of vital energy thrumming through mix. Not life and stamina, but something comparable that sustained the living machine. Flowing through it all were thick bands of essence—each specialized toward a different type of combat—forming a whole that was greater than the sum of its parts.
+
+These various energies came together to weave a radiant tapestry of lethality. A unified mosaic of destruction that was the hallmark of a tier-2 entity.
+
+As Nick probed the Guardian for anything remotely resembling a gap in its defenses, hoping to secure even the slightest advantage before the battle began, the machine smiled wide and said, “We never got to finish your examination from the 4th floor. Allow me to complete your evaluation instead. Fair warning, unlike the Trial Administrator, I have always favored the direct approach—keep pushing harder until something breaks. Now then, what would be an appropriate measure to judge your worth?”
+
+Nick wasn’t sure what was about to happen, and he had no intention of waiting to find out. He could tell from Devin’s posture that his friend was thinking the same thing. Rather than replying, he let Blightbane do the talking. He activated Force Acceleration and sprang into motion, surging forth in a springing stride that devoured the distance between them.
+
+His newly-evolved body seemed so light that it felt like he was flying, and his upgraded reflexes could handle the incredible speed with ease. His tissue was tough enough to withstand Force Acceleration running at full blast even after its advancement, letting him get the most out of the ability for the first time.
+
+Nick crossed the battlefield in a flash and Devin followed half a heartbeat behind—the light from Flame Dash throwing ever-shifting shadows across the rooftop. The clockwork elite held its ground, grinning like it didn’t have a care in the world. The brass bastard didn’t even bother to activate an ability. As Nick closed the final few feet, he pushed pure mana into his sword until its blade was shining like the moon.
+
+A bare second before he struck, he activated Heavy Blow—stamina flowing out to suffuse his arms and multiply the power of his swing. When Blightbane came streaking down in a silver arc, the Guardian’s staff came up.
+
+There was an incredible impact as the gleaming brass weapon blocked Nick’s blade cold. A chime like a bell rang out, reverberating across the battlefield as the artifacts collided and golden sparks fell like rain.
+
+For a second, he thought that the pure mana infusing the blade had dealt some serious damage. But then he realized the clockwork staff was coated with mana too—a color and frequency that he didn’t recognize.
+
+The opposing energies had accumulated at the point of impact before canceling each other out, leaving both weapons unmarred. He wasn’t sure if the living machine truly felt emotions at all. But when the Guardian turned to look Nick in the eyes, he thought he saw surprise shining in those faceted jewels, along with the faintest glimmer of respect.
+
+“Where did someone so new to their powers come across an artifact of that caliber? No matter, once I deal with you, I will analyze the blade and divine its story myself.”
+
+With that, the elite construct kicked him in the chest so fast that he barely caught the motion. The impact would have broken half the bones in his body if he hadn’t anticipated the move. By the time that its foot collided with his chest, he had already begun leaping back, burning stamina along with Force Acceleration to create an explosive burst of speed.
+
+As a result, he wound up with a few cracked ribs and an impressive collection of bruises. But thanks to his incredible Toughness, it wasn’t a crippling blow. Nick went flying back, feet skidding across the stones as he fought to regain control over his momentum.
+
+Meanwhile, Devin had come to a sliding stop behind the machine. The moment that it forced Nick back, the warrior completed his turn and swung his weapon with the full strength of his body behind it.
+
+His two-handed axe was burning bright—so hot that it warped the air around it. The Guardian didn’t have time to bring its staff to bear. Instead, it reached back without looking and caught Devin’s weapon by the blade with no appreciable effort.
+
+The damned thing didn’t even take a step from the impact. It did, however, take a step when Blast Striking kicked a fraction of a second later, erupting from point-blank range.
+
+As Nick raced to rejoin the fight, the machine leapt back to open some room. It rubbed its chin as the men came to a stop beside one another. The construct shook its hand like the explosion had stung it, then addressed the duo once more.
+
+“Force and flame specialists? With a bit of pure mana thrown into the mix. I could reconfigure to counter your magic, but where would be the fun in that? Instead, let’s find out how far down the road to mastery you have truly walked—how long you can endure in a direct exchange against powers mirroring your own.”
+
+Then the Guardian glanced over at something that Nick couldn’t perceive and said, “Convert the energy I’m drawing from the tower into fire and force only, then adjust my magical circuitry to match.”
+
+With that, the mantle of magic surrounding the construct shifted. The myriad flows of mana emanating from its core changed their aspect, until only two varieties remained.
+
+The men launched another attack, hoping to score a blow before the process was complete. Before they could close the distance, the Guardian held up one hand and unleashed a river of force that held them back. It was all Nick could do to keep from being tossed aside like a leaf in a windstorm as the clockwork warrior began to change.
+
+Heavy bands of force mana engulfed its body while fire surged into the staff clasped between its hands. While its core reconfigured, the elite’s body shifted to match.
+
+He had never seen anything like it. This was more than an ability; it was a true transformation. The machine’s gears and plates came apart, then assumed a new configuration before locking back into place.
+
+Meanwhile, the boss’s gear-staff underwent a transformation of its own. The metal began growing hotter until the brass surfaces were glowing cherry red. Meanwhile, the shaft shrank and wicked half-moon blades emerged from both sides, becoming a spitting image of Devin’s weapon. With that, the gear-axe burst into flame, completing the boss’s hybridization of the duo’s abilities.
+
+The entire process was remarkable, revealing a mastery of magic that Nick could only dream of. Regardless of its motivation, this development works in our favor.
+
+No matter how powerful the construct was, using powers that were similar to their own would offer the men an advantage. Nick was intimately familiar with the mechanics of force mana, and Devin’s abilities offered him an innate resistance against flame.
+
+When the tsunami of force faded away, the men bumped fists and got ready to brawl. It was time to find out how their evolved bodies and team tactics stacked up against the Guardian of Darkstone Tower—an elite enemy one tier higher than themselves.

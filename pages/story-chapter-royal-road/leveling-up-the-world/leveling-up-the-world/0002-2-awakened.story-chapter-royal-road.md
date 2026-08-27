@@ -1,0 +1,79 @@
+---
+id: e9039d3f-d390-5265-9b4d-90f8d967361b
+page-type-slug: story-chapter-royal-road
+title: "2. Awakened"
+slug: 0002-2-awakened
+partOf: leveling-up-the-world
+position: 2
+ownLength: 1031
+unit: words
+ownProgress: 1031
+publishedAt: 2021-01-03
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/609169/2-awakened"
+royalRoadId: "609169"
+markedReadAt: "2026-06-29T22:40:11.819Z"
+---
+
+Awakening, as Dallion learned, was a huge deal. The village his “family” was from, had less than a dozen awakend, half of which were well beyond their sixties. The rest were part of the village chief’s family, which made sense come to think about it. Among other things, awakening brought with it a huge status boost, thus Dallion was enjoying a meal—the local equivalent of a feast—at his home surrounded by family, friends, and neighbors. The food was on the plain side, but he had an inside notion that it cost well more than his family could afford.
+
+“I always said the boy would achieve great things,” Vanessa Dull said with a nod.
+
+She was some distant relative once, married to a trading merchant, who only visited during major holidays or when she had favors to ask. Dallion “remembered” that she never liked him much, to the point that she had suggested the boy would be better off joining a monastery of the Seven Moons. Now that Dallion had proved useful, she couldn’t stop voicing her support.
+
+“None of you thought he’d amount to anything, but thanks to my constant support he has,” the woman added with the unmistakable expression that she was owed favors.
+
+The rest of the people took little notice, anchoring their attention to Dallion.
+
+“I’ll try not to disappoint you,” the boy replied. He never liked people looking at him as he ate. Struggling to maintain his fake smile, he took a bite from what looked like an orange tomato and nodded. “Now that I’m awakened, what do I do?”
+
+Intense silence filled the room. Dallion felt as if even the insects had stopped only to gape at him.
+
+I shouldn’t have asked that question…
+
+“Soul confusion,” Kraisten Seene said, stroking his beard. A village elder, and Dallion’s grandfather, he had seen more things than most and even spent some time in a few cities when he was young. More importantly, he was also an awakened, even if he was too old for it now. “It sometimes happens after one awakens. No need to worry, it’ll pass with time. We just have to indulge him a little until it does.” He gave Dallion a pat on the back, almost making the boy choke.
+
+A resounding “Aaah!” filled the room, as everyone let out a sigh of relief, pretending they knew what the old man was talking about.
+
+“Now that you’re awakened, you’ll go to the chief to be acknowledged,” Dallion’s father said. He was a massive man with an even more massive moustache. Most of his days were spent on the field, though sometimes he assisted with lumber gathering for the winter season. “After that, you’ll be allowed to exercise your skills at home.”
+
+“And in other homes too!” Vanessa Dull chirped.
+
+“Okay.” Dallion started standing up, when a firm hand grabbed his shoulder, slamming him down in the chair again.
+
+“Finish your food first,” Kraisten said. There was a warm smile on his face, but Dallion got the impression the offer was not up for debate. “Can’t visit the chief on an empty stomach.”
+
+As if on cue, Dallion’s mother rushed out of the room only to return with another plate of food. Back in college, Dallion would have considered that a snack, but by the way the people around him swallowed at the sight of it, he suspected he was being served a delicacy.
+
+It took half an hour for Dallion to finish everything that was served to him. Normally, he’d have been faster, but having to engage in polite and useless conversation every three mouthfuls prolonged the process. Once the last morsel of food was gone and even the most pointless came to an end, the people started leaving.
+
+To Dallion’s surprise, at one point even his younger brother left the room, leaving him along with his mother and grandfather.
+
+“You don’t have to stay for this, Gertha,” the old man said.
+
+“I know. But he’s my son.”
+
+Dallion remembered her to be a kind, but quiet woman, spending most of her time in the house. For some reason he had never noticed that in his “past life.” Now, it was obvious there was a lot more in it.
+
+“I know,” Kraisten sighed. “Well, boy, there’s no point in delaying.”
+
+Giving Dallion a stern glance, he cracked his knuckles, then slapped both hands on the wooden table so hard that Dallion expected it to fold in two. Instead, the piece of wooden furniture not only held its own, but seemed somehow sturdier than a moment ago. A faint red glow surrounded the wooden surface, peeling away any cracks, chips, and other signs of wear, until the table was as good as new.
+
+“This—” Kraisten said as drops of sweat trickled down his forehead “—is what awakening lets you do.”
+
+The elder abruptly pulled his hands off the surface. The flow disappeared, yet the state of the table remained the same. It was extraordinary, magical, and by the looks of things very taxing. Dallion’s mother reached to support her father, but the old man raised his hand in a sign for her to stop.
+
+“However, just because you’re awakened doesn’t mean you can’t lose your skill.” Kraisten wiped the sweat off his forehead. “Your mother also awakened, but lost her gift during her acknowledgement.” He clenched his fists in anger.
+
+“It’s alright, father,” the woman whispered with a sad smile. “I’m used to it.”
+
+“No, you’re not.” Kraisten grumbled. “And he doesn’t have to get used to it either!”
+
+“I won’t!” Dallion said firmly. While still uncertain as to the nature of awakening, he wholeheartedly agreed with his grandfather.
+
+The old man smiled.
+
+“The village chief will try to provoke you when you get there. Don’t let him. He’s an envious weasel who’d do everything to ensure that only his family has awakened. He’ll try to get under your skin so you choose a perilous trial.” Kraisten paused. “He succeeded with your mother.”
+
+“Is it bad doing something more difficult?”
+
+“No.” The old man shook his head. “But once you fail while using your awakened powers, you won’t be able to use them ever again…”

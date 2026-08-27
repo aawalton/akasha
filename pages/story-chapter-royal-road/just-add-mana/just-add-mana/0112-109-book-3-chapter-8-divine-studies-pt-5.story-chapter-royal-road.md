@@ -1,0 +1,227 @@
+---
+id: fd3ea4cc-7b50-5f28-b8a9-cfacb9a2797b
+page-type-slug: story-chapter-royal-road
+title: "109 — Book 3, Chapter 8 — Divine Studies, Pt 5"
+slug: 0112-109-book-3-chapter-8-divine-studies-pt-5
+partOf: just-add-mana
+position: 112
+ownLength: 3251
+unit: words
+publishedAt: 2026-03-14
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3151188/109-book-3-chapter-8-divine-studies-pt-5"
+royalRoadId: "3151188"
+---
+
+Cale had no idea what the big deal was.
+
+Or, well, he understood on some level what the big deal was. But it wasn't his fault that Colin had decided to pick a "human" name in memory of him and had ascended into divinity as a result. That was just how divinities worked; the very last thing they needed, the final step, was very often a name with enough power associated with it.
+
+It just so happened that names that Cale gave out technically fulfilled that requirement. Sometimes. Not even always, or he would've been a lot more careful with the matter. There had to be some sort of sentiment embedded in the name—
+
+—okay, now that he was thinking about it in explicit terms, he could probably have been a little more careful about it. In his defense, though, he hadn't actually given Columns Reaching For the Sky the name. He'd just said that Column and Colin sounded similar, and by the end of his visit the messenger had taken it to heart, and...
+
+"That's not the part we're having a problem with," Flia objected, interrupting his train of thought. "We already know you do this type of thing wherever you go."
+
+"I don't know if that's entirely fair," Cale said. His apprentices all gave him a look, and he paused. "Alright, fine, that's probably fair."
+
+Although that meant the reality was even worse: they weren't interested in the accidental ascension part so much as they were in the relationship part.
+
+The day had come.
+
+Cale could admit he was probably being dramatic about this. It wasn't necessarily the situation itself that embarrassed him—he wasn't exactly shy when it came to these sorts of things anymore. After all, he'd lived enough lives to have lost, regained, and then once again lost all semblance of anything that could be construed as a sense of shame.
+
+Shame wasn't the problem at all. Mostly, it was just that explaining things would be kind of awkward.
+
+He sighed and gave it a shot anyway.
+
+To think he'd be trying to explain the particulars of his personal relationships with his apprentices... No number of lives could help him muddle through a task like that, especially when he'd avoided getting close to anyone for the past—what, several centuries? Nothing like this had been necessary in recent memory.
+
+This was all Akkau's fault. That old dragon had known what he was doing when he insisted on Cale using the orb. Cale could only assume this was some sort of revenge for something.
+
+Admittedly, he had no idea what Akkau would be taking revenge for. He wasn't going to question whether or not he deserved it, but he'd been the old dragon's apprentice for more than a month. There were far too many things he'd done that might have deserved some sort of retaliation.
+
+There was the time he'd arranged for Sternkessel and Akkau to bump into one another by "accident," for example, and then subsequently ended up locked in a closet long enough to work out their differences. Or the time Cale had accidentally incinerated half of Akkau's paperwork, which he suspected Akkau might have been grateful for if not for the fact that he'd incinerated the completed half of the paperwork.
+
+Not to mention the pollen incident, although that one was technically Tarbloom's doing. Cale had just been present at the time, which was hardly a crime. He was pretty sure Akkau didn't blame him for that, at least.
+
+Of course, the worst possibility—and the one that he refused to consider for more than a moment—was that this wasn't revenge at all, and that this was simply Akkau's way of prompting him to be a bit more open about his personal life to his apprentices.
+
+That would've been patently absurd. He told them plenty of things about himself and his adventures! More than he'd told anyone in centuries, in fact. He just didn't bother with telling them everything he got up to on Utelia because some of it was just so mundane. They didn't need to know what he got up to if it didn't have anything to do with their abilities, or the coming invasion of the dark lord, or...
+
+Cale frowned at himself. Maybe the hypothetical Akkau in his head had a point.
+
+Still, there was a lot more interest in Colin than he'd been expecting. Cale had no idea that his apprentices would even care. Eventually, he trailed off.
+
+"I don't know what else to say about it, honestly," Cale said with a helpless shrug. "Colin's nice. We spent some time together in Thyrahl right after I beat the Red Commander. It's why I took a while to come back, remember?"
+
+"You didn't tell us you got with someone in that time!" Flia said.
+
+"It's not like that," Cale insisted, and then he paused. "I mean, it sort of is, but... you can't really hold a relationship with a divine messenger in that way. They're beholden to their gods. And it's worse if they ascend, because they gain a whole heap of new responsibilities."
+
+Not that Colin had been very interested in any of his new responsibilities. As far as Cale knew, he was pretending to still be a divine messenger and mentoring the scribes in the temple; he was even tithing all his newly-gained power to the god he served.
+
+"So you had a fling with a divine messenger, ascended him to a full divinity, and then left?" Leo asked, incredulous.
+
+Cale winced. "I wouldn't call it that," he said. "It was a good time for us both, and I'd consider him a close friend. We agreed something longer term probably wouldn't work, and we were both happy to leave it at that."
+
+Although Colin did still send him letters. They were very sweet ones, too, imbued with the scent of bread baked in his newly-crafted divine oven. It was possible there was a little bit of pining involved there.
+
+Flia shot him a sympathetic look. "You scared him off with the baking magic, huh?"
+
+"Wha—" Cale glared at her, though she just gave him a smug grin in return. "Absolutely not. I'll have you know that baking magic is how we connected in the first place."
+
+"Ah." Flia nodded. "Somehow, that explains everything. Are all wyldfire mages obsessed with baking magic? Is that a thing that happens when you hit wyldfire?"
+
+"Why would—" Cale stopped in his tracks, frowning. Was it something that happened when you hit wyldfire? He was pretty sure it wasn't, but now that he thought about it, he couldn't remember any wyldfire mages that weren't into baking. "I don't think so?"
+
+Now all of his apprentices were giving him disbelieving looks.
+
+"In my defense, I don't bother remembering wyldfire mages who don't care for baking magic," Cale said.
+
+"That also explains a lot," Flia said dryly. "I'll be sure to develop a crippling obsession with baking magic before I hit wyldfire, just so you don't forget me."
+
+"I do not have a crippling—" Cale started to protest, but interrupted himself before he finished the sentence. Even he could admit that was probably hard to believe. "I'm not going to forget about you four just because you don't love baking magic as much as I do."
+
+"Good save." Flia snickered.
+
+"I just want to know how it works," Leo said, pulling out what looked like an empty notebook. Cale blinked at him. Now that he thought about it, the minotaur seemed to be carrying a ridiculous number of notebooks around at any given time. "There aren't many books about this, you know. Aren't most messengers made out of geometry?"
+
+"Yes?" Cale said. "What does that have to do with anything?"
+
+"How does it..." Leo gestured. "Work? You know? You ended up with a detectable divine alignment, Cale, you can't tell me nothing happened."
+
+Cale stared at his apprentice, opened his mouth, then closed it again. He took a moment to process the question.
+
+"Are you asking me how sex with a divine messenger works?" he asked wearily. "Because it sounds like that's what you're asking me."
+
+"I don't need details," Leo explained. "Just the facts. For the book I'm going to write about you one day."
+
+Cale gave Leo a withering look. "I absolutely forbid you from writing about this, of all things, in a biography about me."
+
+"...But I do have permission to write a biography about you?"
+
+"Not yet, you don't," Cale said, somewhat begrudgingly.
+
+Mostly because Leo had, in fact, earned the right to write about some of what had happened to him; their joint project on what had happened to the lost realms of Yggdrasil was going remarkably well. It didn't alleviate the guilt, exactly, but Leo had been right—there needed to be something out there that remembered what had happened.
+
+"Look," Cale said. "It mostly just works through an exchange of mana. That's why there's a trace of divine alignment in my core. It'll clean itself out eventually. Happy?"
+
+"Delighted," Leo said, already noting it down.
+
+Unfortunately, the mention of exchanging mana appeared to have drawn Syphus's interest. It had been quiet up until then, given that it claimed to be largely indifferent to mortal relationships, but it was interested in all manner of uses for mana.
+
+"An exchange of mana..." it repeated thoughtfully. "Interesting. Would your mana core not be too large for such a thing?"
+
+It asked this perfectly innocently, of course, which didn't stop any of his other apprentices from reacting. Leo almost choked, the pencil in his fingers snapping; Flia laughed, delighted; even Damien smiled slightly, though he was doing his best to stay on the sidelines.
+
+Ever thoughtful, that dreadshade. Cale appreciated him greatly, and especially in moments like these.
+
+"Yes, it generally is, and that's all I'm saying on the subject," he said, folding his arms across his chest and trying to be stern. It was a bit difficult to do when he had to suppress his own amusement. "Now, can we please move on?"
+
+"Sure," Syphus said, shrugging.
+
+"Yep," Flia agreed.
+
+"Fine by me," Leo said.
+
+"I'm just glad you were able to take a break from things," Damien told him.
+
+That... had been easier than expected. Cale blinked, surprised, and Flia rolled her eyes and gave him a friendly nudge. "We're teasing you, not trying to harrass you," she said. "It's just good to hear you have a life of your own, that's all. If we ever get to be too much, all you ever need to do is say something."
+
+"Oh." Cale, for some reason, hadn't been expecting that. "Uh. Thanks?"
+
+"You're welcome," Flia said. "And don't worry, I'm sure you'll find someone to suit your tastes longer-term. Maybe Alina the lunchlady?"
+
+"Probably not good for my long-term presence on this realm," Cale said without elaborating.
+
+"Does he need to have someone?" Syphus asked curiously. "A lot of you seem to care about relationships. I've never seen the appeal."
+
+"Need is probably the wrong word," Flia said. "But it would be fun to change things up a little. I'll look into summoning ancient eldritch lords or something."
+
+"Flia," Cale said, groaning, and she grinned at him.
+
+"Or I could just ask Lev," she said.
+
+"Flia."
+
+"Moving on," she agreed cheerfully. "We should probably get back to class. Speaking of, is it normal to cover this core development stuff during Divine Studies? Feels like a strange class to do all this in."
+
+"Sort of," Cale said, grateful to be slipping back into familiar territory. "It's a pretext. Most magic academies do something similar—the ones I've been to, anyway. You can't just name a class Core Development or a bunch of students are going to try to sneak in before they're ready. I think in this case there's more to it, though, with the dark lord on the approach and all. Akkau probably wants us to be ready for that."
+
+"I do indeed," Akkau said. The void around them faded as he spoke, the rest of the lecture hall filtering back into view. Leo visibly relaxed as the seat reappeared beneath him. "There is more to it than just that, but we shall speak of that later. For now..."
+
+He cleared his throat and spoke to the class, his voice echoing out with a deep, resonating tone that commanded attention. "You are all now aware of your various alignments," he said. "I remind you again that these alignments have no bearing on who you are or which god you dedicate yourselves to. It is not to be used to judge your peers. It is simply information you will need to create your own palewater.
+
+"While your alignment could certainly aid you in pleading for the assistance or power of one of the divines, that will not be part of your studies here. If you are interested in such a thing, I suggest paying a visit to one of Thyrahl's monasteries.
+
+"Now, I will be showing you a series of palewater exercises. Choose whichever one works best for you; the process differs between mages and alignments. Do not worry if you cannot do this immediately. To move to the palewater stage is expected to take even a prodigy at least a year to master."
+
+With that, he began writing a series of instructions down, his magic projecting the words and diagrams across the room for all to see. As he did this, Leo leaned closer to Cale.
+
+"How long did it take you?" he whispered.
+
+Cale paused, thinking. "About five minutes?" he said. "Although I didn't realize it at the time. I just thought I was sweating a lot."
+
+Leo had thought—or hoped, even—that Cale's prodigious ability in producing palewater would apply to each of his apprentices.
+
+This had, in retrospect, been a foolish hope. The reason he was able to convert intent so easily was the same reason it was difficult to convert his intent in turn. For whatever reason, Cale's intent had weight to it, and transforming even a fraction of that weight seemed to Leo to be a herculean task.
+
+Akkau's exercises were theoretically simple, and Leo had tried each of them in turn, hoping one of them would make things click. Instead, each attempt had only frustrated him further.
+
+It shouldn't have been this difficult. He understood Cale, or at least he thought he did, and understanding was supposedly the key in turning the lock. For most mages, detecting the divine intent within their own mana was the most difficult step, but neither Leo nor any of the other apprentices had any trouble with that. The moment it had been pointed out to them, sensing Cale's influence within their mana was easy.
+
+But converting it? Leo felt like he was trying to force a cliff into moving.
+
+Identify one aspect of divine intent within your mana that aligns with your own. That step was simple enough. All of Akkau's palewater exercises started the same way, and each one after that detailed different methods of circulating that mana while focusing on the idea of that intent being your own.
+
+Most of the exercises felt... wrong, to Leo. He didn't have a better way of describing it than that, but just moving his mana in the pattern made him sure of it. There was no resistance and no indication of change. Most likely, that was because the pattern didn't reflect him enough—Akkau had said something about that.
+
+The physical movement of mana traced the key mana signatures of the various species and civilizations that lived across Utelia. Moving it in those patterns reinforced that the mana was yours, and by matching your intent to the divine intent within your mana, you could persuade that intent that it was also yours.
+
+Leo was pretty sure he knew which exercise worked best for him. It was the most complicated one of all. The mana in that pattern moved in complicated, self-intersecting weaves, exactly like a labyrinth, and it felt right. When he tried that exercise, he could feel something happening within his mana.
+
+The problem was that it wouldn't move.
+
+Or, more accurately, it would move, but only at mere fractions of an inch, and only when he shoved the full weight of his mind behind it. Leo hadn't made the comparison with trying to force a cliff into moving lightly. It felt very much like he was doing exactly that.
+
+The strange thing was that he could make his mana move in any other pattern just fine! It was only when he tried this one that the resistance suddenly showed up, and he found himself locked in a battle of wills with his own mana. It was frustrating. Frustrating that he should have been at least getting started on his journey to archmage, and he'd been behind on just integrating his mana core for so long, and now he was—
+
+"Leo," Cale said softly. "Are you alright?"
+
+"I'm fine," Leo said, although his voice was hoarser than he'd expected. Had he been grunting? "It's just... harder than I expected."
+
+"There's no shame in struggling to produce palewater," Cale said. "Like Akkau said, even geniuses take a year."
+
+"We don't have a year," Leo half-snapped, though he tried to reign himself in a moment later. "I've already been holding us back. I can't keep falling behind!"
+
+"You're not," Flia said.
+
+"I am," Leo insisted. "You all had to wait for me to even integrate my core before we started on all this, and you've all got—"
+
+"No," Flia said softly, "I'm saying you're not. We're all having the same trouble you are."
+
+Leo paused. A part of him had just assumed that the others would breeze ahead as usual. They all had their own specialties, after all, and they didn't seem to struggle with new discoveries or talents or what-have-you. He was the most mortal, the most mundane in the group. Of course he would struggle more.
+
+But no. Flia, Damien, and even Syphus all looked somewhat troubled, too.
+
+"We can feel the intent," Damien said. "But we can't convert it, and that's supposed to be the easier step. We're thinking it's probably..."
+
+He hesitated, clearly torn about what he was about to say, but Cale didn't have the same compunctions. The human sighed, and once again, just for a moment, Leo could see how old he really was.
+
+"Yeah," he said. "It's probably because you're having to convert my intent. The good news is that you'll probably have a much easier time with darkwood... but first you'll have to figure out how to control my intent. Sorry, guys."
+
+"It's not your fault," Flia said, shrugging. "Besides, it'll be nice to beat you in something."
+
+Cale snorted. "That's the spirit," he said, grinning.
+
+Leo didn't feel nearly as cheerful, though. Cale was good at hiding what he truly was—at playing pretend, at being mortal—but he wasn't.
+
+And Leo was the most mortal of them all. Even if Flia, Damien, or Syphus were able to, he wasn't sure if he could.
+
+"Leo?" Damien said softly. The dreadshade was always so damn perceptive. He placed a hand on Leo's arm, and Leo grunted, then shrugged it off.
+
+"S'fine," he said. "I need some time to think. I'll see you all later."
+
+With that, he trudged off, trying to ignore the stares he could feel burning into his back.
+
+He would be fine. He just needed some time to think.

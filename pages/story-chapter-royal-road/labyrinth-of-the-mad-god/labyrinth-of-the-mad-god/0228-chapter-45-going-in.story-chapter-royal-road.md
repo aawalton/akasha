@@ -1,0 +1,127 @@
+---
+id: 7af7c109-5c11-5d4a-bc3c-b912b8367472
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45: Going In"
+slug: 0228-chapter-45-going-in
+partOf: labyrinth-of-the-mad-god
+position: 228
+ownLength: 2291
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2631360/chapter-45-going-in"
+royalRoadId: "2631360"
+---
+
+With Sophia’s dramatic arrival, the ponderous pendulum of war had swung back in Team Earth’s favor. Even with the elite slugs spewing streams of acid, Nick was confident his party could overwhelm the Capital Boss in a direct exchange of blows.
+
+However, the Armada Wurm had one last card to play, and it was a doozy.
+
+With its life in imminent jeopardy, the behemoth beast was desperate to escape, even if it had to sacrifice its army to secure its retreat.
+
+It spread its jaws and issued a thunderous roar—a piercing cry that almost burst Nick’s eardrums before Veronica’s magic healed the damage. As the boss’s command echoed across the canyon floor, every bug on the battlefield turned on a dime and started swarming for the wurm.
+
+With the pressure lifted, the teams on the hills descended and fell upon the horde from behind. The warriors were slaying one insect after the next, carving through the chitinous tide with little danger to themselves. At the rate they were going, they would mop up the swarm within a matter of minutes. But none of that mattered if the wurm got away and slaughtered the kill team in the process.
+
+By this point, over half of the bugs were lying dead on the ground, but that still left hundreds of beasts headed Nick’s way—far too many for his party to handle.
+
+When the press of bladed bodies broke over them, his group was going to be overrun within a handful of heartbeats. And that was only half the problem. The moment they turned around to defend themselves from the swarm, the boss would finish digging through the ice and the slugs would hit them from behind.
+
+While Nick could get away by climbing the canyon wall, not everyone was as mobile as Ella, Devin, and himself. If he abandoned this position, Sarah, Laura, Mirium, and Paul were going to die, and Kenji and Bret would be in serious trouble.
+
+While people’s lives were paramount, accepting defeat would also mean losing the chance to found their settlement, making Team Earth’s painstaking efforts come to nothing. Even if they managed to save everyone, the same trick wouldn’t work twice, and after ten Capital Bosses were defeated worldwide, the wurm would vanish without being vanquished.
+
+Nick called upon Arctic Clarity and every point of his Mind—the gears in his head whirling like mad as he tried to find some way out of this mess. The situation was falling apart, but it wasn’t over yet. While some insects had already arrived, the kill team had about a minute until the tsunami of blades broke over them.
+
+He realized Kenji had returned to the support squad and was conferring with a group of mages. Nick used his wand to swat a flock of stingers, just as a message from Tactical Command appeared in front of his eyes.
+
+“Nick. We figured out a way to kill the wurm before it escapes. But you aren’t going to like it.”
+
+That sounds super fucking ominous, but I’m willing to try anything at this point.
+
+“You need to slip past the tongue and enter the beast’s body through the gaps between its armored plates. If you follow the flesh tube to where the slugs were hibernating, you will reach a cavity that’s only a few feet away from its heart. At that point, a Sonic Slash from Blightbane should do the trick.”
+
+Hold up. You want me to run… inside the wurm’s mouth?
+
+“I know what you’re thinking. Yes, I need you to run inside its mouth. Don’t take a wrong turn and get yourself swallowed or I’m going to have some explaining to do to Elizabeth and Sophia.”
+
+Kenji was right. Nick didn’t like this at all. He processed the message within a fraction of a second and moved on to analyzing the plan.
+
+The construct should vanish if he managed to kill it, so he didn’t have to worry about being trapped inside the beast’s body. Given the dynamics of their dilemma, it was probably their only shot at bringing the boss down without suffering significant casualties.
+
+“We don’t know how much air there is in there, but the wurm’s mouth has been open for a while, so there should be some oxygen inside. Either way, your enhanced Survivor trait should keep you going long enough to destroy the heart… I hope. Sarah is clearing a path for you now. I have a trick or two to play that might buy us a few more seconds, but after that, I’m spent. I believe in you, Nick. Good luck.”
+
+“Well then.” Nick took a deep breath and turned to face the boss. “Shit.”
+
+He leaned even harder on Arctic Clarity, using the technique to quell the raging deluge of adrenaline electrifying his veins and find the focus he needed to give this moment his all.
+
+Meanwhile, a torrent of light mana came streaming out of Sarah’s core as the mage gestured and cast a spell. It was the same ability she’d used back in the Arena of Papillion, but the woman’s magic had grown multiple times stronger since the last time he’d seen it in action.
+
+As a fierce battle raged all around them, each member of Nick’s team split into seven versions of themselves. Each true-to-life replica went running in a different direction, dividing the horde’s attention while shielding Team Earth’s elites.
+
+He would never have been able to tell which figures were real and which were fake under ordinary circumstances. Even the mana in their cores felt completely genuine. Sarah’s masterful illusions would have created just as much chaos for his party if it wasn’t for a small tweak that Kenji had added with Tactical Command.
+
+As the mirror images scattered across battlefield, red text displaying the word “fake,” wavered into existence above each copy’s head—labels that could only be seen by members of Team Earth.
+
+The acid-spewing slugs were tearing through the duplicates in a frenzy—aided by the first set of slicers and stingers to reach the wurm’s position. Each time a beast landed a hit, an illusion vanished as the mana forming the spell’s energetic matrix was disrupted. But Sarah kept creating more.
+
+Judging by the mana in her core, she could only keep her spell running for a few more seconds. Before her reserves ran dry, the opening Nick had been waiting for appeared.
+
+Kenji’s arrow was stretching out before him, but he had already burst into motion, charging for the Capital Boss for everything he was worth. The world transformed into a streaking blur of color and motion as he pushed Force Acceleration as far as it would go.
+
+He ducked beneath a stream of acid then leapt over a pair of slicers as he crossed the final stretch of ice between his position and the wurm’s maw. Size Up was wailing like a banshee all the while, screaming that this course of action was going to get him killed.
+
+The Capital Boss realized something was wrong—that one of its enemies wasn’t behaving like the rest. It sent its tongue lashing for him while tightening the wedge plates around its head so there wasn’t enough room to get past.
+
+That’s not good. Nick didn’t have time to second-guess himself or get out of the way—to do anything other than sprint, pray, and put his faith in his friends.
+
+Just as the wurm’s appendage came crashing down, two figures appeared.
+
+One was Ella—clockwork-staff wreathed in gravity magic as she stepped into the tongue’s path. The other was Sophia, who had reached out to grab the bladed appendage with her bare hands. Together, the women stopped the beast’s attack cold. Meanwhile, Devin and Bret forced their weapons between the armored plates, muscles bulging as they opened a narrow gap.
+
+Nick judged the angle and sprang, diving into the wurm’s maw just as the gap between plate and tongue sealed shut, trapping him inside.
+
+Nick had done some crazy shit by this point in adventures, from flash-banging a dinosaur to being launched from Devin’s axe to attack a killer computer. But forcing his way into the mouth of a predator that made the lurk look like a gerbil took the cake by an order of magnitude.
+
+Well, that worked. Now I just need to survive my success.
+
+Unsurprisingly, the inside of the Armada Wurm’s mouth was hot, damp, and dark. He wouldn’t have known which way to go if it wasn’t for Kenji’s magic, which illuminated a flap of skin running along the inside of the creature’s throat. Nick pulled back the flap stepped into a narrow tunnel of flesh, which was barely big enough for the slugs’ soft bodies to squeeze through.
+
+Touring the guts of a living creature was his strangest battlefield yet. It was terrifying knowing that the moment the wurm broke through the ice, it would dive below the surface, sealing his doom. That if its minions followed him inside, he would be surrounded and devoured, and if he failed in his mission, a lot of good people were going to die.
+
+In the end, those problems led him to a single conclusion—Nick needed to work fast.
+
+He shut out all such distractions beneath a wave of frigid focus, entering a pocket filled with a sticky substance that smelled surprisingly sweet. It must be what the wurm produces to feed its army. Gross. Now I need to carve a path to the beast’s heart and deal a killing blow.
+
+He was infusing Blightbane with pure mana when the situation went from bad to worse in the blink of an eye.
+
+First, Kenji’s overlay flickered and then faded away, along with all the buffs Team Earth was providing. Total darkness engulfed Nick as his allies’ supportive magic cut off, including Tactical Command’s instructions on where to cut.
+
+Fuck me. The beast’s arcane barrier is blocking their mana. He tried using his PDA to conjure a ball of light, but it sputtered and vanished a bare second later. The only speck of good news in this raging storm of shit was that Force Acceleration was still bolstering his body.
+
+While he could still use his abilities, this was, to put it mildly, not good.
+
+Nick was flying blind and running on fumes. He didn’t know where the wurm’s heart was and he didn’t have time to cut in the wrong direction. If that wasn’t enough to deal with, the air in here was thin, even with his enhanced Survivor Trait. Not that he was going to live long enough to suffocate if he couldn’t figure this out.
+
+Knowing that every millisecond was a precious resource, he pushed past his fear and kicked his brain into overdrive. He considered his options while reaching down to his belt to slam his Flask of Restoration, refilling his depleted pools of stamina and mana.
+
+I need to know what I’m dealing with and destroy the heart before it’s too late. He pulled out one of the Potions of Echolocation he’d received for defeating the demon and downed it in a single gulp.
+
+When the magic brew reached his stomach, his perceptions expanded. Nick could sense the walls of flesh encasing him on all sides in crisp, clear detail. The potion’s magic was fascinating, and he would have studied it closely under happier circumstances, but right now, all that mattered was finding the right place to cut.
+
+The problem was, all he could see was an endless expanse of flesh, and nothing in here looked like a vital organ. For a moment, he thought he was going to have to slice at random and pray his luck was good, but then he noticed that part of the wurm’s tissue was vibrating—thrumming and pulsing like… a heartbeat!
+
+There were several places that were pulsating, but one was stronger than the rest. He didn’t have time to ponder what it meant. It had already been sixty seconds since he’d entered the bowels of the beast. The wurm could dive at any moment and the longer this took, the more likely one of his allies would be slain in the chaotic melee raging across the canyon floor.
+
+He gripped Blightbane’s hilt while topping it off with pure mana. Certain that he was only going to get one shot at this, Nick aimed for the center of the throbbing mass—ready to bet his life on the next swing of his sword.
+
+A bare instant before he unleashed Sonic Slice, something reached out and touched his mind. A presence that was both familiar and new at the same time. I think it’s coming from… he looked down at blade in his hand, just as a voice echoed inside his head.
+
+“The wurm has two hearts and you’ll die before you get them both. Aim five feet to the right. We need to destroy its brain instead.”
+
+Nick realized he’d heard this voice before, during his vision of the Crimson Blight’s war with the Kastillan people. It’s their king. The man whose soul was merged with a sword to create Blightbane.
+
+He didn’t have time to process this astonishing turn of events, but Blightbane had saved his life countless times and shielded his soul from the planet-destroying parasite. Trusting his blade to know its business, he adjusted his aim and got ready to roll the dice.
+
+Nick took a deep breath while gripping the sword’s hilt and assuming his stance. Then he drew the blade while using Force Acceleration and Heavy Blow at the same time, receiving a boost from the scabbard’s modification along the way.
+
+Mana and stamina suffused his arms in a surging rush as he wagered his future on a single attack. Sonic Slice.

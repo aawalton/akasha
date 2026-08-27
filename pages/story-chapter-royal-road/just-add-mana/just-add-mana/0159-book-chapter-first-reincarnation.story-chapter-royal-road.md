@@ -1,0 +1,67 @@
+---
+id: e06352e7-b79a-53e9-887b-0685d93d8db0
+page-type-slug: story-chapter-royal-road
+title: "??? — Book ?, Chapter ?? — First Reincarnation"
+slug: 0159-book-chapter-first-reincarnation
+partOf: just-add-mana
+position: 159
+ownLength: 883
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3621916/book-chapter-first-reincarnation"
+royalRoadId: "3621916"
+---
+
+There was only one step left. Reincarnation, after all, required a vessel for the waiting soul.
+
+"What you ask of us is cruel," the mother whispered, carefully cradling in her arms the small, still form of her newborn.
+
+"I know." The Zero-Monolith, known also as the Law of the Cycle, did not shy away from what it was. It was cruelty and kindness in equal measure, the necessity of rebirth bound with the possibility of a second chance. This was the responsibility it held.
+
+"We're going to lose him again," the father said. "You would have our son turn into a stranger."
+
+"I would." The Cycle could have argued with this. It could have reminded them that the child would not lose his memories of his upbringing—that the Cycle was ultimately additive, and did not overwrite who was born. It could have done many things to convince them that this was for the best.
+
+But it would not. It had done enough already. It was approaching them in a moment of great vulnerability, when their mind and thoughts were choked with grief. Was there a better time to approach them? Perhaps. The Cycle did not know. This was the first of many, and it would have to experiment to better understand those nuances.
+
+Yet there was only a small window in which this was possible at all. Perhaps this was the best it could do. It would make sure that this was a choice. It would make sure that the chosen would understand the fullness of what would happen and would not come to resent their child. That was baked into the spell, at least. It would only find those that could handle the choice.
+
+That did not make the choice itself any less cruel.
+
+"But he will have a chance," the mother whispered. The scales on her cheeks glinted, wet, as she drew the veil back and gazed upon her son as though this was the last time she would ever see his face. "We will know who he could have been? We will have time with him and only him?"
+
+"His memories will not begin to return until he is of age," the Cycle promised. "Until that happens, the time you have with him will be yours and yours alone. Even when his memories begin to return, they will do so only in fragments, to give him time to adjust. But he will shed his current form."
+
+"To become human," the father said. "To become this... this anchor you're suggesting the universe needs."
+
+"Yes," the Cycle agreed.
+
+"Are we the first?" the mother asked quietly.
+
+"You are."
+
+"And what will happen if we say no?" the father asked.
+
+"Nothing," the Cycle said. "All will be as it would have been. Your child's soul will join the River, where it will merge with countless others. You will remember nothing of this conversation."
+
+"That is a death in itself," the mother said. "If we agree to this, he would... he would live, would he not? He would live past his own death. His soul will never enter the River."
+
+"It will be but one part of an ever-growing whole," the Cycle cautioned, for it was duty-bound to speak the truth. "And I cannot promise that he will not come to resent his existence in time."
+
+"But he would live," the mother said, clutching the body of her child close to her chest. She looked up at her husband, who reached down to take a hand. Something passed between them, in that moment, a silent conversation that the Cycle did not yet understand, and when it was over the father let out a heavy sigh and then knelt down beside his wife, leaning into her.
+
+"He would live," the father agreed, the words heavy. "And he will carry us with him always."
+
+"We want you to do it," the mother whispered. Her cheeks were still wet with tears, but there was hope in her eyes, now. Hope and grief and a little bit of fear for what might come next. "If you can promise us that no one will notice the change, that he will not live a cursed life because of this, then you have our permission."
+
+"No one will know when it happens," the Cycle promised. "To all except him, it will be as though he was always this. You will not question what he becomes, but you will love him all the same."
+
+Even his parents would forget that their son had not always been human. Their memories would change, when the time came, though their love for their son would not. The Cycle would have liked to leave them with their memories intact, but there were limitations to its power.
+
+There were rules, after all, even for the Cycle, who existed now long before it had even been created.
+
+"Then we are ready," the mother said.
+
+The Cycle bowed its head. It committed this moment to memory: what was first, but would not be the last. The bravery of those that would bear the weight of this cruelty, even if they would not remember the choice. It would remember them all, it decided.
+
+Then it vanished, and a moment later, the still form in the mother's arms began to wail.

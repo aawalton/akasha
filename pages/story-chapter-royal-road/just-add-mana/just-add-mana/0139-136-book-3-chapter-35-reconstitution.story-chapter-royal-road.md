@@ -1,0 +1,151 @@
+---
+id: debf322d-da17-5e62-9d33-015d58843915
+page-type-slug: story-chapter-royal-road
+title: "136 — Book 3, Chapter 35 — Reconstitution"
+slug: 0139-136-book-3-chapter-35-reconstitution
+partOf: just-add-mana
+position: 139
+ownLength: 2965
+unit: words
+publishedAt: 2026-05-16
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3403595/136-book-3-chapter-35-reconstitution"
+royalRoadId: "3403595"
+---
+
+The Leviathan felt the change in the Abyss.
+
+It was a peculiar thing. The Abyss was her domain in its entirety, as much a part of her as a limb might be for most of the mortal creatures that walked the Realms. That did not make her omniscient, of course—what mortal creature knew at any given moment what their hearts or lungs or blood might be doing?—but it did mean that she was aware when anything caused a ripple within the Abyss.
+
+Many of those ripples could be safely ignored, so to speak. Her duty was to keep the Great Realms stable, and while her heart ached every time a realm was destroyed, she could not lend her power to save it. It was one of the many limitations that came with the power she held.
+
+She could rescue those that survived, perhaps, and help them find new homes. She could look after the remnants destined to become one of the Abyssal Ones, who she considered to be her children. In rare cases, in the few ripples that mattered, she could even hold the remnants of a realm together and give those within time to escape; this she did by invoking a hardening of the Abyss itself, crystallizing it into a protective dome that would keep things stable for just a moment later.
+
+But she could not save them with her own personal power. The greatest tragedy of the Leviathan was that for all her love of the realmborn, she could never wander amongst them. She was an observer, not a participant, and all the longing in the Realms would not be enough to grant her a day amongst the mountains and trees and grass.
+
+And she would need more than that, certainly, if she intended to prevent the destruction of a realm. Such a thing was most often caused by the realmborn themselves in some ill-fated venture of magic. Averting it, therefore, was less a matter of magical violence and more a matter of persuasion.
+
+The Leviathan had invested her power in avatars and chosen ones before, in an attempt to avert the inevitable, and her heralds had never succeeded. Her efforts brought them only suffering. For a realm to be pushed to such a state to begin with, for their magic to begin causing ripples within the Abyss... it was not a common event, certainly, but once it began, it was equally difficult to avert.
+
+In fact, as far as she knew, the only times that sort of destruction had been averted was when Cale got himself involved. It was one of the reasons she appreciated him as much as she did, though she rarely said it. That man had a big enough head as it was.
+
+Regardless, as a result of this, the Leviathan was careful about where and when she paid attention to those ripples in the Abyss. It would break her if she approached every single one, no matter her power—she was all too aware that her mind was very mortal in this regard. The other Monoliths each had their quirks, but they were able to detach themselves from their duty and do what was necessary.
+
+The Leviathan could not. Her domain was connection itself, the relationship between all things; she was the Law of What Lies Between. How could she do anything but care?
+
+It shamed her, sometimes, that she had needed to learn when to look away.
+
+Still.
+
+This was not one of those occasions. This was, in fact, very much the opposite of one of those occasions. What she sensed now was certainly not a ripple, and at bare minimum it was much, much larger than that, on the scale of a wave crashing through the Abyss.
+
+Yet the form it took was nothing like a wave at all.
+
+A wave she might have known how to deal with. A wave would have indicated change rippling through the Great Realms. This might have had the scale of such a thing, but the look of it was anything but.
+
+For the first time she could recall—perhaps for the first time in all her existence—the Leviathan felt something else subsume a part of her power.
+
+She arrived at the location in a single flick of her tail, the Abyss itself propelling her to the exact place this was happening. It was close to Utelia, which did not surprise her, but it was not in Utelia, which certainly did. Instead, a long tether stretched away from the skin of the realm, to...
+
+The Leviathan had no idea what she was looking at.
+
+The tether itself was glowing with Cale's power and flickers of prismatic flame, which was all she needed to confirm that he was somehow involved and suppress her initial instinct to bat at it with her tail. At the end of it, however, the Abyss seemed like it was beginning to disappear, fading away instead into an indistinct fog that was equally indistinct in her senses.
+
+That alarmed her. The Leviathan's command of the Abyss was absolute, for she determined the nature of the Abyss itself; the fact that any part of it had transformed against her will, let alone such a large patch of it, was reason enough to worry. Worse was the fact that she could sense a different presence at work, something that felt very much like another one of the Monoliths and yet was very much not.
+
+It reminded her almost of those elder and eldritch gods that existed in the Outer Planes, but not even they had the power to oppose her when it came to her domain. What was this?
+
+She could not feel hostility or malice, at least. That was a start. But a change in the Abyss was worrying, nonetheless. She stared at it for a moment, trying to understand what it was and how it had gotten there, but she knew she would find no answers here; her duty was not to find answers.
+
+What she had to do was make a choice.
+
+Her first option was to wall this off—to freeze the Abyss around both this anomaly and around Utelia itself, and minimize the danger this posed to the rest of the Great Realms. It was by far the most sensible option. Who knew how much damage something like this could do, if its influence began to spread? It did not need to be hostile to do harm. If it spread further, if it ate away at more of her domain, the Great Realms might collapse entirely.
+
+Nor was there any guarantee it would remain benign. If there was any chance it would become hostile in the future and leverage this strange power against her, it might be better to excise it entirely, much like one might remove a tumor.
+
+And yet...
+
+And yet the same was true for Cale, was it not? The power he wielded was certainly enough to wreak havoc to the Great Realms, if he ever chose to wield it in such a way. It was true for the Monoliths as well, for many of her own Abyssal Ones, and for every being with the potential to grow.
+
+Cale had said something about this once, in a conversation long ago. She had asked him why he never acted preemptively, why he only took action once his enemies had made their choices. He had gone silent and thoughtful for a moment, which was rare for him, but his answer had stuck with her.
+
+"I try not to worry about all the things someone could do." Cale's gaze was distant, like he was remembering something from long ago, even then. "Life's kind of a drag that way. Best to be a little cautious, don't get me wrong, but I'm not going to make my choices based on fear of what someone's going to do just because they're an undead skeleton or born with plague magic or whatever.
+
+"I make my choices based on the kind of future I want to see. And I wanted to see that skeleton find his family again! I wanted that plague mage to have a normal childhood. It's not any more complicated than that, really. Make a choice, then take responsibility for it, you know?"
+
+The Leviathan's duty was to protect the Great Realms. It was within her right to destroy anything that might threaten it. But Cale had a point. If there was a choice to be made, then she did not want her choice to be fuelled by fear of what might be. So what did she want, instead?
+
+She looked at it again: Utelia, the tether, the fog. There was always a danger in powerful magic, and now that she looked, she could see the cracks, the potential for backlash that would ripple all across the Realms.
+
+But she could see the hope, too. Whatever he was doing, Cale's magic sang with hope.
+
+I want to know what you are, new thing.
+
+Though some part of her seemed to think this was not such a new thing at all, merely something that had been hidden until now. A connection that had always been there, yet outside her domain...
+
+Strange.
+
+The Leviathan took a deep breath. The cracks here came from her domain and this new one fighting for dominance. If she would not seal this off entirely, then her best option was not to fight it, but to help it along in whatever it was trying to do. She would keep it stable.
+
+She started with a working of structured intent, a dense web of Abyssal crystal that would break and dissipate any wave that erupted from this anomaly. That would protect both Utelia and the rest of the Great Realms from the worst of the effects if anything went wrong.
+
+And in the meantime, the Abyss relented and melded with this magic instead, a joining that oddly felt like it was always meant to be.
+
+The ripples and full implications of what would later be understood as Grand Sympathetic Magic would not be fully understood for quite some time. The effects were far-reaching, after all, and every entity sensitive to time reacted to it in one way or another. In fact, it was later said that several deities related to that endless march of entropy variously collapsed or curled up into balls—to say nothing of the temporal Named. Kronos, for instance, rather mysteriously reappeared with a whole new crop of children, despite his complete isolation.
+
+But in that moment after the completion of the spell, if anyone had said any of this to Valen Graystalk, he would not have cared. In fact, he would have had a rather colorful selection of creative insults he could direct at anyone that tried to distract him from the fact that his curse was broken.
+
+That foolish, irresponsible, reckless, absolutely beautiful example of a human being that was Cale—
+
+Graystalk had more or less accepted his lot in life. Cale might have mentioned the possibility of curing it with whatever the dungeon reward would be, but Graystalk had for several reasons been unwilling to get his hopes up; for one thing, his curse had been placed on him by a god. For another, as brilliant as Cale was, the man was distractible at the best of times.
+
+In particular by any appearance of new magic, of course, but also now especially. Cale was on the verge of uncovering what had happened to humanity, which was a problem Graystalk had not even known existed. He had for the first time in who knew how many lives been given the opportunity to understand his own people, to re-explore their culture and to learn how they lived.
+
+And despite that—despite the fact that he would have had every reason to forget, to not even consider Graystalk's problems—he had remembered. Perhaps it was because it was a necessary component of whatever magic Cale was casting, but Graystalk rather doubted it. He knew the circumstances under which he received that curse and he had little doubt that whatever spark Cale needed to complete it, he could have gotten it elsewhere.
+
+Graystalk wasn't sure Cale even knew the significance of what he had done for him.
+
+He had been little more than a child when he first received that curse.
+
+A child on the cusp of adulthood, admittedly. Elven tradition was firm about this. Like most especially long-lived species, they were slow to reach maturity, and an elf was not considered a fully-grown adult until they inscribed their name on the petals of their family's ancestral soulbloom.
+
+To do so was a great event for them, for the process molded the body to match the soul and granted them a degree of the wisdom their ancestors had earned. Prior to that they were largely identical and undifferentiated, save for the presence of whatever flower had been used to seed their conception. That flower was largely how elven children told one another apart.
+
+It was no surprise, then, that many were desperate to earn the right to inscribe their name and grow wholly independent. The process took decades, however; to earn that right in the Brightgrove tradition, one had to discover and construct an elven spell of the third tier without the aid of the Gift. That was a process that took many decades, and many elves were well into their forties by the time they earned that right.
+
+Valen Graystalk had almost completed his spell at the age of twenty-six.
+
+He loved magic. He loved the possibilities of higher-tier magic especially. Every day he would go to the gardens, eager to learn, and there amongst the spell-echo trees and recitation-flowers his mother would teach him magic. The spellforms that went into every modern spell, the ways they linked together, how invocations could modify them and empower them...
+
+Valen absorbed it all, and he understood it in a way few others did. Among his peers he was the first to put a first-tier spell together without any assistance from the Gift—he remembered the way his parents held him close that day, shining with pride. It was when they'd gifted him with his first focus, a token carved from the tallest spell-echo in the glade.
+
+This, they told him, was why the Gift favored them. It was their love for magic, their determination to understand it on top of what it offered.
+
+Valen took that to heart. With his new focus, he could practice far more than he could before. And practice he did! He put together his first second-tier spell only a few years after that to just as much fanfare and pride, and perhaps that was the trouble.
+
+Pride.
+
+It had been easy to get into his own head, back then. Easy to believe that he truly was a prodigy of magic, because he was, but also that he was above the rules, which he wasn't.
+
+His attempt at a third-tier spell took him longer than it otherwise would have. Valen had gotten it into his head that he could create one that was truly unique. That he could impress the Gift itself, and perhaps the ancestral soulbloom along with it. At the time he envisioned for himself a future in which he'd been granted special knowledge and an exceptional form.
+
+And so he worked feverishly on a spell that was only a third-tier spell by technicality, but in truth was significantly more complex. He wanted this spell that marked his adulthood to be something special, something that made a statement.
+
+Elves were told never to touch deliberately on the divine with their spells, and Valen did it anyway. Inadvertently, his spell alerted the gods, as he had been warned it would; inadvertently he treaded upon Astiviya's domain and earned her ire; inadvertently he disgraced his family, and lost his ability to touch the magic he so loved.
+
+Valen had only just inscribed his name when Astiviya appeared, burning with fury. He felt the shockwave of her appearance tear through the soulbloom, distorting something in the connection he shared with it. He saw his mother's pride turn to a look of confusion, his father's into one of concern; he saw their lack of recognition.
+
+He fled.
+
+The curse interfered with his connection to his elven roots, and it prevented the soulbloom from repairing it. He had sworn to himself he would not return until he found a way to restore it. In truth, Cale had already changed his mind on that—he planned to go back, when Akkau allowed it, and explain to them what had happened—but now...
+
+He knew the spell he should have cast. The one he could have created even back then, that he'd been considering in the back of his mind. It was elven magic, and nothing he did with spell arrays could have replicated it, but he did so now, putting together spellforms that he had long ago put aside. They came to him with remarkable familiarity, as though they had been waiting.
+
+You have learned [Arboral Recollections].
+
+A single root emerged from the ground and rapidly sprouted into a miniature version of the spell-echo grove he'd spent his childhood learning in. The blooms in this version were special, though. Rather than containing echoes of past spells cast by great mages, they contained memories.
+
+And in them was the first time he had been gifted his focus, when both his parents smiled at him with pride in their eyes.
+
+Professor Graystalk took a shuddering breath and strode up to Cale, and he was polite enough to wait until he was certain Cale had finished casting himself before grasping him and pulling him into a firm hug.
+
+"Thank you," he said, his voice hoarse.

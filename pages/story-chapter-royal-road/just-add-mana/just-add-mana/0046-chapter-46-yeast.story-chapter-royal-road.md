@@ -1,0 +1,209 @@
+---
+id: 53ef5214-83c1-5c17-b9c2-967912fad03d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46 — Yeast"
+slug: 0046-chapter-46-yeast
+partOf: just-add-mana
+position: 46
+ownLength: 3368
+unit: words
+ownProgress: 3368
+publishedAt: 2025-10-11
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2668488/chapter-46-yeast"
+royalRoadId: "2668488"
+markedReadAt: "2026-06-29T18:49:09.163Z"
+---
+
+"Yeast," Cale said, very patiently.
+
+Damien stared at him. The poor dreadshade looked like he was getting increasingly confused rather than enlightened, which, frankly, was a little insulting. This explanation had worked perfectly well with Vesuvius!
+
+Although Cale supposed that Vesuvius hadn't actually had to worry about how yeast worked. It wasn't really necessary for the vision, and it was technically a vision. It operated on how they both understood the world. All Cale had needed to do was procure the ingredients, mix them in front of an increasingly fascinated elemental god, and then stick them in an oven.
+
+Vesuvius had been both surprised and fascinated the fifth time he went through the process, when the dough rose and baked into a reasonably bread-looking loaf. He was familiar with his element burning things, charring things, and even with the general idea of cooking. What he apparently hadn't encountered yet—or hadn't paid much attention to—was baking, where the application of heat transformed raw dough into a different product entirely.
+
+That was when he'd really gotten invested. Cale sighed wistfully; that had been a good few hours of baking. He'd have to find a way to repair the artifact quickly and get another one of those visions... although that meant he'd have to confront Imrys, and he did technically run away from her earlier.
+
+Damien, who had no real way of realizing that Cale was in the middle of a nostalgic reverie, cut through his thoughts. "Yeast?" he asked helplessly.
+
+"What? Oh. Yes. Yeast." Cale nodded distractedly.
+
+"I don't... um... I don't know what you want me to do with that," Damien said.
+
+There was a small jar sitting on the table between them. As far as Cale was concerned, the jar was just the starting point. It had been a long time since he'd had a good loaf of sourdough bread, and while he could technically get Alina to bake one for him the normal way, it just wasn't the same for him if it wasn't made from start to end with magic.
+
+And now he had that magic. Sort of. He still needed to actually evolve the spell, but first he needed to get all the ingredients together, and he had to make his own starter. Cale had ended up running all over the academy grounds just to collect everything he needed.
+
+Which was the following: a jar from Syphus (who had a jar collection, for some reason); several types of flour from Alina (who was very interested, but unfortunately busy trying to tame her mandrake root); water from Flia (who chased him back out of her room immediately after, muttering something about almost having it); and space from Imrys (which he had only acquired after promising to cast the next [Awaken Artifact] with her present.)
+
+Now all he needed to do was to get Damien to accelerate the process of making the starter. Decay mana was closely related to fungal mana! All Damien needed to do was use his magic to accelerate the growth of the yeast in the air while he fed it various types of flour...
+
+...Hm. Now that he thought about it, Damien would probably be a lot less confused if he'd said all of this out loud. He sort of assumed he had, but thinking back, he was pretty sure he'd actually just stared intently at his apprentice and then said the word "yeast."
+
+"Damien," Cale said. "Did I ask you to make some yeast, or did I just stare at you and then say the word yeast?"
+
+"The, um... definitely the second one," Damien said awkwardly. "You wanted me to make yeast? How do I even... shouldn't we talk about, you know, everything that just happened?"
+
+"What?" Cale asked blankly. "Oh, you mean with our fire resonance class? I mean, we can't just run off to Haelforge to solve their problems. Professor Delia seems like she has it handled, and they have an alchemist that knows how to alleviate the symptoms of shimmerdust poisoning. Imrys already said she'd help fix the Firestorm Scale. I feel like everything resolved pretty neatly."
+
+Damien stared at him. "First of all, they didn't," he said. "We have those... those fly things all over the academy! We have to do something about them!"
+
+"If we did, they'd know we're on to them," Cale said reasonably. "What we should do is find out where they're coming from and destroy the source artifact before they can hide it. Which Sternkessel is doing, so I think we get to focus on baking."
+
+Damien sighed. "And second, I was talking about our History of the Great Realms class," he said. "You know, the class we just had, where you took over the professor and started lecturing the class instead? Three students fainted, one of them somehow discovered a new spell, and I'm pretty sure you gave the professor nosebleeds for several different reasons."
+
+Cale paused, frowning. That had been... a pretty normal class, it felt like. Certainly less eventful than most of his other classes had been. "What's there to talk about?"
+
+"Everything!" Damien gestured wildly, then groaned at Cale's blank expression. "You can't just completely overturn centuries of..."
+
+The dreadshade trailed off and sighed. "Nevermind. You're going to do it no matter what I say, aren't you?"
+
+Cale shot Damien an offended look. "The textbook was wrong. And rude! I wasn't just going to let my friends be slandered. K'xoarcl might have a mouth in its exposed brains, but it also has feelings."
+
+He paused. "Twice as much feeling per feeling, actually," he added. "We checked. Mathematically sound. It really messed up the utilitarians in that realm for a bit."
+
+"I think if I question that I'm going to end up the same way our professor did," Damien muttered to himself. "Okay, um... just nevermind all that, then. I do have something I need to talk to you about, but that can wait until Syphus gets here again. I don't think I should let people overhear me. Especially if those fly things are around."
+
+Cale shot him a curious look at that, but shrugged, choosing not to question it. "So, you'll help me?" he asked brightly.
+
+Damien hesitated. "What did you want me to do? You wanted me to make yeast?"
+
+"Fungal magic is closely related to decay magic," Cale explained. "All you need to do is figure out some sort of decay spell that accelerates the growth of yeast in this jar while I feed it."
+
+Damien stared doubtfully at the various packs of flour Cale had brought with him. "Are you sure that's how you're supposed to make... whatever this is?" he asked. "Decay isn't usually something I would want to mix with food..."
+
+Cale shrugged. "Mostly!" he said, beaming. "Technically you're just supposed to feed the starter with one type of flour, but I figure we can mix it up. Give the yeast a nice, varied diet. Enrichment, you know?"
+
+"I don't think that's how that works," Damien said hesitantly.
+
+"It'll be fine." Cale waved off his concerns. "Just hit the jar with a [Decay Bolt] or something. It should kickstart the whole process."
+
+"We're not starting with [Decay Bolt]," Damien protested immediately. "That's just a full decay effect! It would make it rot!"
+
+Cale paused. "Good point. What about [Yeast Bolt]?"
+
+"I would have suggested that already if I had it," Damien mumbled. "I don't know how to make one."
+
+"Would be a great time to try!" Cale gave him a friendly grin. "You never know what you're capable of. Besides, think about it—you'd be proving that you can use decay mana for much more than just death and rot. You'd be able to use it for baking. Which is kind of like healing, if you think about it."
+
+"You lost me at that last part," Damien said, though he couldn't help but smile slightly. "But yeah, I guess... I guess that would be nice."
+
+Damien stared at the jar and hesitated, feeling slightly ridiculous. There was no reason to feel nervous about his ability to follow through on Cale's absurd plan—especially since he was pretty sure Cale wouldn't blame him if he failed—but the guy was so sincerely excited about it that Damien just didn't want to disappoint him.
+
+That and he was liable to come up with something even more worrying if this whole thing with decay mana didn't work out. Damien wasn't sure which one was worse. After everything Cale had helped him with, though, this seemed like a minor favor to return in comparison.
+
+He just had to figure out how exactly he was supposed to do this. Safely. As powerful as Cale was, he wasn't invulnerable, and one of the few secrets he had been concerningly open about was the fact that he was still vulnerable to most non-magical kinds of poison.
+
+Damien really didn't want his only effective mentor-slash-friend to die of food poisoning before they got to understanding his new mana aspect. Or after, for that matter.
+
+Or ever, preferably, but from what Cale had said...
+
+Damien studiously avoided thinking about that by engaging the one defense mechanism he'd practiced thoroughly with: changing the subject he was dwelling on. He still hadn't gotten the chance to talk to Cale about his new [Legacy of the Verdant Flame]; Syphus had been in a bit of a rush when they were meeting with it earlier, but had promised to meet them "soon." Damien was only willing to talk about this with Syphus in the room, especially now that he knew that the Red Hunters were apparently constantly watching them.
+
+He could still think about it, though. He might even be able to cast Verdant Flame spells—if the Red Hunters hadn't already detected its emergence when he placed his mana on the Firestorm Scale, then they weren't likely to be watching closely enough to notice when he cast a second time. The only question was whether the Verdant Flame would help him with this whole yeast thing.
+
+Cale wasn't wrong. Decay magic was closely tied to fungal magic. The few times his decay mana had grown out of control, he'd seen all sorts of strange types of fungi growing on everything it touched.
+
+Mostly mushrooms. Really, really weird mushrooms.
+
+Now that he thought about it, Damien realized he'd developed a bit of a fear of mushrooms. No wonder he felt so uncomfortable in the cafeteria... not to mention that one enormous myconid he shared Magical History lessons with.
+
+"And here I thought it was because of the whole psychic link thing," Damien mumbled to himself.
+
+Cale gave him a strange look. "What?"
+
+Damien jumped. "Oh! N-nothing. Um, I was just realizing I kind of have a fear of mushrooms?"
+
+"You do?" Cale blinked, and then a look of understanding dawned in his eyes. "Oh. Yeah, no, that makes sense, actually. Are you sure you want to do this?"
+
+"Yes," Damien said quickly, because the only thing worse than the idea of failing to do this was the idea of not even trying. "Just give me a minute, I need to decide if... um, I need to decide on something."
+
+He needed to decide if the Verdant Flame would help him with this.
+
+As far as he understood—and he didn't understand much—the Verdant Flame embodied the relationship between fire and decay. More specifically, however, Damien was pretty sure embodied the cycle of decay. In the same way that decay was an abstract representation of entropy and death, the Verdant Flame was an abstract representation of the movement of life. Of one living thing making way for another.
+
+Yeast was kind of like that, wasn't it? Damien wasn't all that familiar with what it did, but the basic idea of it had been covered in Magical Plagues: yeast was present basically everywhere, and the vast majority of subspecies weren't magical in the slightest. The few that were rarely affected any living species. Instead, they evolved to feed on specific magical plants when they died, eating away at the defensive mana to allow the natural process of decomposition to take place.
+
+Damien was pretty sure he could work with that.
+
+He drew on his mana, hesitated for a moment, then began trying to attune it to the aspect of the Verdant Flame. His eyes widened—the process felt almost easy. Most of the time, trying to attune his mana made him feel like he was pushing up against a massive wall of stone; even when Cale had helped him make the process easier, it felt like... trying to roll Syphus up a hill or something.
+
+But attuning to the Verdant Flame was different. There was still resistance, far less, like he was opening a door rather than trying to force something impossible. His Manamorphic Cloak fluttered beneath his shoulders as he focused, attempting to draw on his mana, but he quieted it with a small effort of will. He didn't need it to separate his mana for now.
+
+Strangely enough, Damien thought he felt a hint of... reluctance? Annoyance? He wasn't sure, but it felt like the cloak had responded with something. Still, it obeyed, releasing its grasp on the mana he was trying to attune.
+
+And soon after that, Damien finally had a fistful of Verdant Flame mana in his core.
+
+Attuning to the Verdant Flame was costly, he noted distantly. It was easier for him to attune by far, but it took a lot of decay mana to produce even a single unit of Verdant Flame mana. Why that was he couldn't be sure, but Damien suspected it had something to do with it being a Legacy.
+
+It didn't matter for now. Once he had the Verdant Flame mana, he could...
+
+Damien paused. He didn't actually know how to make a spell.
+
+"Um," he said. "How do mages normally... make spells?"
+
+Cale raised an eyebrow. "If you want to know how spell constructs are made we're going to be here a while," he said. "And frankly I don't know all the details myself. Construct creation is quite literally an art that takes centuries to master."
+
+"Oh," Damien said.
+
+"But!" Cale continued cheerfully. "Spell constructs are technically just a way to make sure a spell effect is repeatable. Normally a mage manages a spell effect and then spends years studying it to break it down into a construct; the Gift is a shortcut for that part of the process. So all you really need to do is figure out a way to make the mana do what you want."
+
+"But... how do I do that?" Damien asked helplessly. Cale grinned at him.
+
+"You just gotta try," he said, and then when Damien gave him a despairing look, he laughed. "It's a lot easier than it sounds, I promise," he said. "Magic wants to be cast. Do you know what the earliest forms of magic were? They weren't spells cast through wands—that's a recent development, for a relative value of 'recent.' It happened because mages needed ways to cast spells immediately.
+
+"In a lot of ways, that modern version of magic is better, but if it solved everything then rituals and all that would be obsolete. And I'm sure you've noticed this already, but it very much isn't." Cale smiled, extending a thin barrier from his hand as though it were a wand. "Rituals are needed for some of the strongest magics out there. You've seen what domains can do. Now, what's one form of magic we haven't dealt with yet?"
+
+Damien hesitated. "Incantations?" he guessed.
+
+"Exactly!" Cale beamed proudly at him, clapping a hand on his shoulder, and Damien did his best to suppress the glow of pride from within. Mostly because he wasn't really sure what to do with anyone being proud of him. Or him being proud of himself, for that matter. "Magic wants to be cast. Incantations are one of the best ways to persuade it to do that. Just like praying to the Gift, for example."
+
+"So... I should try an incantation," Damien said slowly, and Cale nodded at him.
+
+"Try to shape your mana in a way that feels right for what you want it to do," he said encouragingly. He took Damien's wrist and guided it to the edge of the jar, just over the water-flour mixture inside. "Then whisper your incantation. It might take a few tries, but don't worry if it fails."
+
+"A-alright," Damien said. He felt a little foolish, but he did it anyway, extending his new Verdant Flame mana into a thin little rod that extended into the mixture.
+
+Cale's eyes widened slightly at the pale, flickering green flame that extended from Damien's fingers, but he said nothing. Instead, his gaze somehow became intent. Damien looked up for just a moment, caught the conflict in his eyes, a flicker of something old and heavy he couldn't understand.
+
+And along with that, something seemed to change. The rest of the room faded away, leaving only Damien, the jar, and Cale Cadwell Cobbs. He could feel the mana in the room gathering around them, almost like it was holding its breath and waiting for him. Waiting for...
+
+Waiting for the creation of a spell.
+
+Damien thought it would be difficult to find the words, but instead, the words came to him naturally and seemed almost to reverberate into the mana itself:
+
+O driver of cycles within the air: you who seeds civilizations, the ever-present, the spore-eternal
+
+Feast now upon your gods-given fare: an offering given for a harvest yet to be, now-ethereal
+
+Something seemed to flood through Damien, a pattern that was familiar and then suddenly different. The Gift curled around him in reaction—no, in anticipation. Excitement? His cloak fluttered behind him, seeming to sense the change in energy.
+
+[Decay Bolt] has evolved into [Yeast Bolt]!
+
+Damien stared. He'd almost forgotten that all of this was about encouraging yeast to grow in the jar.
+
+[Yeast Bolt, Level 1] [Second Tier (Unique), Active] [500 Mana]
+
+An application of the Verdant Flame, this spell encourages the growth of yeast and other microorganisms that contribute to the taste profile of sourdough bread. This spell will forever be known as the first of the Legacy of the Verdant Flame.
+
+"Um," Damien said. "I think the Gift might be making fun of me."
+
+"We definitely need to talk about that," Cale said, sounding distracted. Damien glanced over to find his mentor busy dumping pinches of flour into a now-frothing mixture of flour and water. "And about how you know about incantation rules. After we deal with this, though! We need to make sure we don't ruin the starter. Quick, help me dump more flour into this—"
+
+Syphus's dry voice echoed into the room, making them both jump. "I would ask if I arrived at a bad time, but I'm not sure any timing would explain this," the golem said. "Lucky for you both, I don't care as long as Cale turns my arm into a cannon later. What was it you wanted to tell us, Damien?"
+
+"Um," Damien said. "It's about... I think it's about a new mana aspect? Kind of? The Gift said it was something called a Legacy—"
+
+"Oh?" Syphus seemed suddenly very interested. It rolled all the way up to him and peered at him closely. "You've discovered a new mana aspect, have you? How interesting."
+
+"Sisyphus, stop taking over Syphus without asking," Cale said without looking up. "Also, come help me dump flour into this jar! The yeast is hungry!"
+
+Syphus—or Sisyphus? Damien was deeply confused about this—sighed and straightened. "You know, I did think you would be as difficult to locate as the legends say... but I did not think you would be difficult to predict as well."
+
+"Less talking, more flour-bending, or I'm going to make sure the next time Syphus conjures sand it's going to show up on top of you."
+
+"...The fact that I believe you troubles me greatly." Syphus's golem body shuddered before moving to help.
+
+Damien just stared at them both.
+
+Then he mechanically grabbed some flour and started helping with the flour thing. It seemed easier than questioning whatever this was.

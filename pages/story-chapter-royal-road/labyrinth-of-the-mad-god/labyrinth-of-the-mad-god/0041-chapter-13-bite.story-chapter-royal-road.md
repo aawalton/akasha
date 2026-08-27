@@ -1,0 +1,81 @@
+---
+id: b222d6ab-b51e-587b-99ac-f6cc0603f9a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Bite"
+slug: 0041-chapter-13-bite
+partOf: labyrinth-of-the-mad-god
+position: 41
+ownLength: 1686
+unit: words
+publishedAt: 2024-08-16
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1761514/chapter-13-bite"
+royalRoadId: "1761514"
+---
+
+Apparently, the constructs’ bites were even more dangerous than he’d realized, even if their bodies were weak. He was lucky that it hadn’t been worse. The wound hurt like hell, but it wasn’t deep enough to impede his movement. It shouldn’t pose a problem, but the damage to his boot was another matter.
+
+Nick’s boots were only common items. While they were durable, they didn’t feature the self-maintenance modification that his best gear had. They wouldn’t repair themselves over time, and he would be in trouble if they fell apart before he found a replacement. The last thing he wanted was to explore an alien industrial facility with bare feet.
+
+Even more concerning, if the constructs could bite through the steel plates in his boots, there was a good chance that they could tear through the leather of his jacket too. It meant that when facing these mechanical menaces, Nick was effectively unarmored. I need to end the fight without letting them get close.
+
+By now, the first gear-rat, the one he’d sent flying with a smack from his buckler, had recovered from the blow. The tiny brass gears behind its plastic skin were turning faster than before, conveying a sense of irritation as they churned. The construct came skittering back in his direction, eager to repay the affront in kind.
+
+But Nick had already conjured a mana dart and taken aim, planning to finish the fight at range so that he wasn’t bitten again. The spell’s description had mentioned that it was effective versus magical constructs, and this was a perfect opportunity to test out the truth of that claim.
+
+He resisted the urge to fire it off right away. Since his opponents were agile, he needed to create an opening so that the rat couldn’t avoid the spell.
+
+He threw a kick as a feint, forcing the critter to dodge to one side. Then he visualized his trajectory and let loose. The rat’s hasty move placed it directly into the line of fire as Nick sent his dart streaking forward. The construct saw the magical missile coming at the last possible moment. Its little brass feet tried to scamper out of the way, but it was already too late.
+
+The radiant dart struck the gear-rat broadside and sank into its torso, discharging its pure mana in a flash of silver light. It was the first time that Nick had used his spell since it had gone up two ranks. He was hoping that the dart would be powerful enough to score a kill by itself, which it hadn’t been able to do until now.
+
+He broke into a broad grin when he saw what happened next, because his newly upgraded spell exceeded his expectations. After absorbing his mana, the vicious little machine spasmed and then went still, the life fading from its eyes. And that wasn’t all.
+
+Not only had the dart killed the rat in one shot, it had another effect that he hadn’t been expecting. This time, instead of vanishing, the corpse remained where it lay.
+
+It was the first time that Nick had slain an enemy with his darts alone, but he didn’t have time to celebrate or ponder the presence of the remains. Not with the other gear-rat coming straight for him. By this point, he could cast quite a few darts without running out of mana, so he ran back to open some space, recast the spell, and repeated the process.
+
+The construct must have learned from what had happened to its companion. Because this time, the gear-rat was able to leap out of the way despite his feint, having clearly predicted the blow. It was not, however, able to dodge the thrust of his sword that followed. The weapon skewered it cleanly, piercing the rat straight through the middle before emerging out the other side.
+
+The body disappeared with a pop a few heartbeats later, leaving him alone in the room once more. Nick took off his boot and bandaged his ankle, frowning as he poked his finger through the hole. He plugged it with a strip of leather, wiped off the blood, and put his boot back on. Before he kept moving, there was just one thing left to do, collect the construct’s body so he could study it later.
+
+He sized up the remains to make sure that they were safe, then he picked them up and put them in his bag. After making sure that he wasn’t trailing any blood behind him, he got out of there as fast as he could, afraid that the sound of his fight would draw more trouble to his location.
+
+His intuition was spot on, but it was already too late. The instant that Nick set foot into the hallway, he heard a chorus of squeals, accompanied by the patter of brass feet clicking against the stone floor below.
+
+He turned toward the noise, taking in the sight of another five gear-rats approaching, coming from the direction that he had already explored. “Shit.”
+
+While each construct wasn’t too dangerous on its own, fighting five at once seemed like bad news, especially since his last battle had led fresh enemies to his location. This must be the escalating threat the System mentioned. Staying in the same place for long will end badly for me.
+
+Since his goal was to find his friends and climb the tower, not fight every inhabitant of the massive floor, Nick turned in the other direction and started to run. He figured that discretion was the better part of valor, at least in this instance.
+
+He sprinted down the stone tunnel as fast as he could, leaping over debris and swerving around the copious mounds of rubble as his heart pounded in his chest. He spent the next ten minutes doing his best to lose the rat-pack that was following hot on his heels, before they drew more trouble to his door.
+
+Nick ran down the ruined passageway. The rap of boot leather striking stone accompanied the racing of his pulse and the adrenaline singing in his veins.
+
+Behind him skittered seven of the clockwork rats, two more having joined the pack sometime over the last few minutes. The rhythm of their paws tapping against the floor echoed down the tunnel as the constructs continued their relentless pursuit.
+
+Sweat poured down his body and every step sent a jolt of pain radiating throughout his wounded ankle, but at least the bleeding had stopped. Otherwise, he would have left a clear trail behind him, making it impossible to get away from his mechanical assailants. He needed to open some distance and then find somewhere to hide. But nothing promising had appeared in the direction he was running.
+
+While it was a moderately stressful situation, he wasn’t in any real danger yet. The gear-rats were fast and showed no sign of tiring out. But Nick was faster and had enough endurance to sprint for hours, thanks to his heavy investment into toughness.
+
+He should be able to evade them eventually, unless the pack cornered him, or another group arrived from a different direction. Hopefully, he would make it to an intersection or another cluster of rooms before long. But for now, he only had one option. Keep on running down the half-lit tunnel and hope that no new threats appeared.
+
+While he had to keep part of his attention on outpacing the gear-rats, Nick couldn’t afford to ignore his surroundings. Not unless he wanted to be driven into a trap or walk into an ambush. Not to mention the possibility of tripping over a random piece of rubble and falling flat on his face. It looks like I’m approaching another row of chambers. It seems to be a series of small offices this time.
+
+As he ran along the battle-scarred tunnel, he noted any rooms that looked intact, in case he wanted to come back and explore them later. But what he was really looking for was somewhere to hide. As far as he could tell, the gear-rats’ senses weren’t particularly sharp, other than their hearing. A detail that could offer him a way out of this mess.
+
+Nick had practiced evading creatures with keen ears back on the Searing Isle, during his weeklong struggle with the ferocious bonecruncher pack. He knew how to keep quiet, and he knew how to hide. He just needed to open some distance and get out of sight of his assailants.
+
+He'd already run past two chamber clusters without spotting anything more promising than an occasional empty room. The problem with hiding in one of those was, if he was wrong about the means the rats used to track him, he’d wind up trapped inside with the only entrance blocked.
+
+The last thing that Nick needed was to be besieged by a swarm. Surrounded as more and more constructs arrived on scene, wearing him down until they broke past his guard.
+
+In addition to the danger of being overwhelmed, he couldn’t afford to waste that much time. He needed to find his friends fast and then keep on moving, before whatever had blown this place to hell and beyond wound up crossing his path. He was already dead certain that the floor was home to something far worse than the rat pack, and facing it alone was a losing proposition.
+
+On a brighter note, Nick had gained some ground while pondering his situation.
+
+By now, the swarm was far enough back that he could barely see or hear them. He could break line of sight anytime that he wanted if he pressed his body into a brief burst of speed. He counted the doors as he flew past, comparing their layout with the map in his head.
+
+The next set of rooms was coming up fast. If Nick had been tracking his location correctly, he should be drawing near what he’d been waiting for. A few steps later, finally saw it.
+
+After maneuvering around a tall chunk of debris, he was certain that he’d come across a chance to escape at last.

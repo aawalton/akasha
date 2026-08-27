@@ -1,0 +1,165 @@
+---
+id: c8fd6881-6837-5d46-b0ef-9f0b171a1681
+page-type-slug: story-chapter-royal-road
+title: "272. Obsidian Dragon"
+slug: 0015-272-obsidian-dragon
+partOf: leveling-up-the-world
+position: 15
+ownLength: 2067
+unit: words
+ownProgress: 2067
+publishedAt: 2021-09-30
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/759177/272-obsidian-dragon"
+royalRoadId: "759177"
+markedReadAt: "2026-06-29T22:40:39.712Z"
+---
+
+Dallion couldn’t stop thinking of the shardfly’s last moments. It was easy to wave the sensation away as a momentary low. After all, he had felt the same when Nox and Lux had originally faded out of existence. This should be no different… and yet the intensity of sadness was multitudes stronger. Maybe it was because the guardian could speak, unlike Dallion’s previous familiars. That sounded like a logical reason, though as much as he tried to rationalize it away, Dallion felt that there was something more to that.
+
+What do you think March’s expedition will be like? Gen asked all of a sudden.
+
+“No idea,” Dallion said. “Probably a copy of the real world in some aspects… but you know that.” He paused for a moment. “You know everything that goes on in my mind.”
+
+Yeah, and you needed a distraction. It’ll be fine. She was happy. Remember the echoes of the dagger? They were happy when you fulfilled its destiny.
+
+“Yeah… all I need to do is defeat the last guardian…”
+
+From what Dallion had seen so far, the task wasn’t going to be difficult. His skills had given him a significant advantage. Now it was clear why guilds divided jobs based on performance. Not only was it a waste to use a high-level awakened on item leveling, but it was probably a terribly unfulfilling job. Even elites who had been doing the same job for years, wanted to feel at least a partial challenge. That’s why the higher levels were focused on area and sphere item jobs, while the rest were pretty much packrats.
+
+The third level of the mirror was once again very different from the ones before. If the first was a forest, representing the wood of the handle, and the second a lake—being the mirror itself, the third had absolutely nothing to do with either. A desert of black sand stretched to the horizon while a pale red moon shone above.
+
+“Centor’s moon,” Dallion said.
+
+Quite right, Nil sounded somewhat impressed. That means that the mirror has likely been strengthened.
+
+The glue? Dallion thought. I’m in a realm that represents the glue between the handle and the mirror?
+
+That would be hilarious if it were the case, also very creepy. Last time Dallion didn’t have to venture so far. After coming to an arrangement with the spectral shardfly, she had instantly dealt with the cracklings throughout her level, letting Dallion get the credit for it.
+
+Music, Dallion thought.
+
+There was no metal to be seen, and no creatures. That was good, though it made him slightly anxious. The last time he had been in a desert, the guardian he had fought had been—
+
+COMBAT INITIATED
+
+A giant green marker appeared on the sand below Dallion. Without wasting a moment, Dallion dashed back, and right on time. A creature the size of a tower thrust up, filling the air with black sand. Despite Dallion’s best efforts, a few specks managed to get into his left eye.
+
+Damn it!
+
+Focusing, he fought the urge to scratch his eye. With his hands covered in sand, that was only going to make things worse. It would have been nice if he had some water, but there was none anywhere to be seen. Next time, Dallion was going to have the foresight to carry some from his own realm, especially for the expedition. That wasn’t his only problem at the moment, though.
+
+LEVEL 3 GUARDIAN
+
+Species: DRAGON
+
+Class: OBSIDIAN
+
+Skills:
+
+- Sandstorm
+
+- Wing slice
+
+- Sand shield
+
+Weak Spots: EYES
+
+There could be no doubt now. In order to level up the hand mirror, Dallion was going to have to defeat another dragon.
+
+Didn’t expect to have one of those here, Nil said. Dragon guardians are quite rare, you know.
+
+“Lucky me,” Dallion summoned his dartbow. “Lux, lift me up and keep me away for a while.”
+
+The firebird emerged on Dallion’s back and pulled him up, making it appear as if he’d sprouted wings.
+
+In theory, the battle had to be easy. Last time Dallion had fought a low-level dragon, he had defeated it in a matter of seconds. All it had taken were a few aimed shots at its eyes. The whole thing had been over so fast that Dallion had felt bad about the guardian. Having sand in the eye changed a lot. As Dallion found out, not only was aiming impossible, but he also wasn’t capable of using combat splitting. Clearly, he had a lot to get used to when it came to combat conditions.
+
+Seeing that his foe was in a weakened state, the obsidian dragon thrust towards him, leaving a trail of back sand in its wake. Thankfully, Lux didn’t hesitate, moving away at speeds only he was capable of.
+
+Dallion felt his entire inertia throughout his entire body as he was moved—almost instantly—from one point of the sky to another.
+
+Not so fast! Dallion thought. Dealing with the speed was also unpleasant. His eyes were already tearing, hopefully taking care of any specks stuck to them. The annoying scratchy feeling was still there, though.
+
+“Move, move, get out of my eye,” Dallion hummed, using his music skills to reduce the irritation. Thankfully, it worked. He still felt as if he had something stuck there, but at least now he could see well enough. “Lux, turn me around, but keep flying away from the dragon.”
+
+That’s a bit reckless, don’t you think, dear boy? Nil asked. It might be better for you to take charge of flight navigation.
+
+“What could possibly go wrong?” Dallion asked. “We’re in a wide-open space! There’s nothing we could crash into if we wanted.”
+
+Let’s hope you didn’t just jinx yourself, Gen said.
+
+Raising his dartbow, Dallion aimed at the dragon. It had been quite a while since he had taken advantage of the ranged attack marker. Most of the guardians he had fought lately were either weak enough so he could defeat them with normal means, or so tough that ranged weapons hardly helped at all. Seeing the attack ray and dot made Dallion feel somewhat nostalgic. In terms of real time, it had been less than half a year, but in terms of true time, it felt like a memory from his youth when he was just a rookie awakened.
+
+The dragon was similar to the sand dragon he had fought before, but also different. Half as large, this one seemed to constantly release a train of obsidian sand behind, sparkling in the crystal moon like embers. Two crimson eyes—making for great targets—shone on its large head, glaring at Dallion as the guardian tried to reduce the distance between them.
+
+“Darude,” Dallion whispered and squeezed the dartbow’s trigger.
+
+A bolt split the air, then a second, then a third. Things were exactly like during his previous battle… until the dragon reacted.
+
+Unlike the sand dragon from the Dherma temple, this one didn’t bother trying to evade. Instead, a cloud of sand suddenly emerged, in front of its head, trapping the bolts inside so that the rest of the creature could fly through, like a train through a cloud of smoke.
+
+Lux, take me to the side!
+
+Once Dallion was parallel to the dragon, he split into three instances, shooting at the dragon’s head from the side. To his great disappointment, once again, none of the bolts hit their target. The guardian created an entire sheet of dust on the side, shielding it from any attacks. Obviously, a dartbow wasn’t going to be enough against this enemy.
+
+“Well played,” Dallion said, adding a lot of weight to his words thanks to his music skill. “Guess it’s close combat for you.”
+
+The dartbow disappeared from Dallion’s hand, replaced by the harpsisword.
+
+“Any chance for a draw?”
+
+I think you should pay a bit more attention, Nil runted. Obsidian is one of the materials that reduces the effects of music. Since the dragon is made entirely of that material…
+
+The echo paused, waiting for Dallion to finish the sentence.
+
+“I get it,” Dallion said. “I need to use something else.”
+
+Nox, you up for some action? Dallion summoned the Nox dagger in his left hand. The crackling meowed. Okay. Lux, listen up.
+
+There was a time when aerial combat alone was all it took to defeat a slightly stronger enemy. Against a capable flyer, though, Dallion had a lot of catching up to do. Concentrating, he split into three instances, all of which headed towards the dragon in slightly different fashion. It was only now that Dallion saw the wisdom in Vend’s teaching. The elite had insisted that Dallion should be able to control his familiars reliably in all instances. At the time, that seemed a useless and impossible task. If only Dallion had known…
+
+Each combat splitting was the equivalent of fine tuning, reducing the lag between his orders and the firebird’s execution. Sadly, that proved not to be enough.
+
+The moment Dallion went near, the obsidian dragon sprouted wings of obsidian dust and slashed through the air with them. One of Dallion’s instances was severed in two, receiving a terminal wound. The remaining two managed to block the attack thanks to the quick reaction of the armadil shield, which expanded so as to stop the layer of sharp dust.
+
+Normally, Dallion would have quickly moved out of danger, allowing himself a few moments before he could take another go. This time, he only had one instance of him do it, while three more twisted in the air, combining his acrobatic skills with Lux’s flight. Using the Nox dagger, he slashed at the wing.
+
+A dark line appeared along the layer of dust. Cracks extended in all directions, created the start of an opening. Thanks to his new sight, Dallion was able to see the crack for the first time—it wasn’t just a series of cracks, rather it resembled a portal to another world shimmering away.
+
+The fascination only lasted a second, as Dallion twisted again in the air, thrusting his harpsisword so as to pierce the dragon’s eye.
+
+As expected, a protective layer formed inches from the target, no larger than a saucer. This time, though, the defense was not enough. The strings of the harprisword vibrated, the melody linking with the new object. The protective tile froze in reality only to have the rest of the weapon smash through it like a chisel through an eggshell, buddying itself deep in the dragon’s eye.
+
+FATAL STRIKE!
+
+Dealt damage is increased by 500%
+
+A roar pierced the air. Wounded, the dragon dove down, a violent sandstorm forming around it.
+
+“Shield!” Dallion shouted.
+
+The piece of equipment extended further, surrounding him completely before it was caught in the cone of the sandstorm.
+
+Hardly the best strategy, dear boy, Nil criticized. It seems you have forgotten all of the attack patterns I tried to teach you.
+
+“We’re in the air, Nil!” Dallion snapped back. “You never taught me any patterns for the air!”
+
+Oh. Well, an omission I will be certain to correct once this is over.
+
+The shield ball was swung violently, causing Dallion’s body to slam against the inside of it.
+
+“Lux, keep me steady!” he shouted.
+
+Never in a million years would he have thought to use a firebird as a makeshift gyroscope, but here he was. At the end of the day, if it did the job, who was Dallion to complain?
+
+Who would put a dragon guardian in a mirror? Dallion asked as the sandstorm outside switched direction yet again.
+
+Someone who’s very serious about his craft, Nil replied. A bladicorn to ensure the condition of the handle, a spectral shardfly to gain unparalleled reflection, and an obsidian dragon to ensure that neither magic, nor humidity would harm the item. Maybe when you fulfil the item’s destiny, we might find a stamp or signature which will provide us a clue as to the craftsman’s identity.
+
+“That’s great. But before that, I still need to actually defeat the guardian. He’s still got one eye, remember?”
+
+Not to worry, dear boy. I have complete faith in your abilities. Defeating such a guardian should be a walk in the park.
+
+As he said that, the sound of sand brushing against the outside of the shield abruptly stopped. Moments later, Dallion felt his stomach rising like it did when we went down a rollercoaster.
+
+“Crap!”

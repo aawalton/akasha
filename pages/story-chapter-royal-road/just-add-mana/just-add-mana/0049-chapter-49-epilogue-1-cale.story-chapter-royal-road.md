@@ -1,0 +1,123 @@
+---
+id: bf3d872c-885b-5c44-9f40-8ac4b333f4fa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49 — Epilogue 1 — Cale"
+slug: 0049-chapter-49-epilogue-1-cale
+partOf: just-add-mana
+position: 49
+ownLength: 2025
+unit: words
+ownProgress: 2025
+publishedAt: 2025-10-18
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2686223/chapter-49-epilogue-1-cale"
+royalRoadId: "2686223"
+markedReadAt: "2026-06-29T18:49:15.273Z"
+---
+
+For Cale, magic the way he envisioned it had always been something just a little bit out of reach.
+
+He was well aware, of course, that the feats he was capable of were things that even gods dreamed of. Liches, dark lords, and all sorts of ancient powers would have sacrificed their souls and kingdoms for just a fraction of the power he wielded. As a matter of fact, some of them had tried, though for obvious reasons that had never ended well. Cale didn't particularly enjoy having things sacrificed to him.
+
+But raw power could only do so much, and finding new ways to use his barriers had only really been entertaining for the first millennium or two. He hadn't been lying when he'd explained to Akkau his desire to actually be able to use magic. He wanted to be able to fly, to generate motes of light, to bloom a single flower.
+
+And he wanted to do it without struggling to control every fraction of power he possessed.
+
+There had been a time when mana manipulation came to him with relative ease. Cale couldn't remember much about his early lives, but he remembered that, at least. As his mana core grew, though, it slowly became more and more difficult—and one day, it was like a switch had been flipped, and attempting to use his mana in small, controllable amounts suddenly became like trying to lift a mountain.
+
+The first few lives after that had been absolute chaos. He'd lost a few of them just trying to draw his mana out of his core, when it lashed wildly out of control and destroyed everything around him no matter how hard he tried to control it.
+
+He'd very nearly given up on using mana at all, back then. The only reason he continued trying was because his mana was his greatest trump card, and if anything like the Planar War ever happened again, he knew there was a chance he would need it.
+
+No matter how much he wished otherwise.
+
+Still, it had taken him years of practice to be able to wield his mana safely again. Centuries to be able to form his barriers the way he could now, and even longer to begin to pierce the fringes of barrier magic. He found the limits of what he could achieve with his barriers, broke those limits, then did so again and again. If barriers were all the magic he would be able to cast, he wanted to master them inside and out.
+
+By now, Cale was pretty sure he was one of the foremost unstructured barrier mages across the Great Realms. But even then, there were some things barriers couldn't do, and more importantly...
+
+Well, after millennia of doing nothing but barrier magic, his barriers no longer felt like magic.
+
+It was a bit of a foolish notion, he knew, but the inherent limitations of barrier magic—along with the fact that he'd had to deconstruct every principle he knew about barriers and how they worked, and then build them up again from the ground up—meant that his feats with barriers no longer really felt like magic to him.
+
+Real magic was more an art than a science. There were rules, of course, but the rules didn't strictly determine the outcome. Damien's incantation to create his new Verdant Flame spell, for instance! That had been magic. A means of connecting to the world and having it respond in the form of a spell. And then there were rituals, charms, artifacts...
+
+All he had were barriers, at least until Utelia, and truthfully Cale was still hard-pressed to believe that the Gift was capable of processing the enormous quantities of mana he pumped into it. He could only guess at what it was doing when it evolved a spell.
+
+But that was part of the fun of it. Magic was suddenly a mystery again. He had no idea what elemental resonance consisted of, and even now that he knew, there was no ironclad way to earn resonance ranks. Just because he understood the fire well didn't mean that understanding extended to other elements. Draconic resonance, for example, had been a little out of his wheelhouse.
+
+And he hadn't even gotten to any of the more esoteric aspects yet.
+
+The point was, for the first time in a very long time, his magic was once again new to him. He didn't quite know what would happen when he tried to cast a spell. More importantly, he could try to cast a spell, and there would be results! His first few attempts had been useful, but they were never quite the type of thing he dreamed of.
+
+This, though? This was the first spell that was.
+
+Cale had pretty much stopped reading after the first sentence. The amount of mana he'd shoved into the spell was overkill—it always was—so he wasn't really surprised that it would come with some side effects. He could always worry about it later. The important thing was that he was finally, finally doing magic.
+
+And it was a baking spell! He couldn't have asked for a better first spell. There were thousands of spells he wanted to cast one day, of course, but it was the complexity of baking magic that had always fascinated him.
+
+Even if he hadn't had his mana sense, [Touch of Vesuvius] was a delight. The spell allowed him to essentially turn any object he wanted into an oven, and it gave him an unobstructed view of what he was baking in the process. Because he did have his mana sense, though, Cale could tell exactly what the spell was doing, and it was pretty much just as interesting as he'd hoped.
+
+The spell was "performing the act of baking" on any raw baking product that made contact with the enchanted object. Which was a vague description, but Cale couldn't exactly think of a better one: it looked to him almost like Vesuvius himself was personally tending to the dough and replicating the exact conditions of an oven. It didn't matter that the dough was just sitting on a table, nor did it matter what it was making contact with...
+
+Cale paused, then grabbed some of the spare water they had and, with a look of intense concentration, began pouring it on top of the dough.
+
+"Um, Cale?" Damien said.
+
+"Shh," Cale said. "I'm doing science. Except not really, because doing science on this would be boring. This is magic, and it's giving us a whole new world of possibilities. Say, do you think anything special would happen if you were able to knead dough while baking it?"
+
+Damien stared at him.
+
+"Also," Cale added, "I think I might be able to use this spell to make a brownie that's all edges. I don't think the spell actually cares about things like the shape of your pan or anything like that. It bakes the way you want it to bake. I think if I just poured brownie batter into a bowl or something it would bake into layers. Half edge, half fudge."
+
+"I'm not sure that's what we should be worried about?" Damien sounded hesitant.
+
+"I mean, just look!" Cale gestured grandly to the dough. Which was just sitting on the table, as dough is wont to do, even while baking. "It's baking. I don't even have to touch it!"
+
+"I don't think you normally have to touch things that are in the process of baking," Syphus called out.
+
+"Details." Cale rolled his eyes. "It's magic, that's what's special about it! Plus this would be really easy to scale up, and you mostly don't have to worry about things like leaving your cookies too close together—"
+
+"It's the scaling up part that's the problem," Damien interrupted desperately. Cale blinked, pausing, then finally looked around at the rest of the room. Which was covered in fire sigils, indicating it was ready to bake.
+
+So was the door, in fact. Cale casually walked to the door and pulled it open, hoping that the dueling arena's wards had stopped the spell, only to find that the hallway was covered in the same fire sigils.
+
+"Huh," he said after a moment. He pulled the door shut again, stared at it for a moment, and then locked it for good measure. "Alina's probably going to kill me for this, isn't she? I dunno if you saw this, but she had this huge preservation ward filled with raw pastry and dough."
+
+"I see fireballs in your near future," Syphus said mysteriously, then snickered. "Not with my all-seeing eye or anything, to be clear, it's just common sense."
+
+"We should probably warn her to change her preservation ward," Damien said worriedly. "Maybe it's not that bad? We don't know how far it reached—"
+
+Cale's schedule scroll vibrated. His brow furrowed. "I thought the next class wasn't for an hour yet," he muttered, taking it out and glancing it over.
+
+In large, bold text, scrawled in familiar handwriting where his next class was supposed to be, were the words: Dearie, my biscuits have all become quite hard. They're rather difficult to chew like this, you know! I bake them my way for a reason. Stay where you are, will you? We need to talk.
+
+Cale stared at it for a moment. "I think Imrys somehow hijacked Akkau's spell?" he said. He hadn't even known that was possible.
+
+Then there came a sudden knock at the door, though it was far too high up to be Imrys.
+
+"Cale?" Leo's voice filtered through, high-pitched and panicked. "The, uh... the labyrinth door is glowing."
+
+Cale beamed. "Hey, look, a perfect excuse to avoid the consequences of our actions!" he said cheerfully. "Syphus, could you grab the table and everything on it for me, please? It should be fine in your storage spell. I think."
+
+Syphus shrugged its shoulders. "As long as we still go to the library later," it said. "I want my spell cannons."
+
+"Oh, I told Leo to go find you your books after the last class," Cale said cheerfully. "We can figure that out on the way! Now let's hurry before Imrys tracks us. I want to be knee-deep in distortion magic by the time she realizes we're in the labyrinth."
+
+He paused as he unlocked the door. "I mean, not really," he added. "I like my knees the way they are. For now. I know a girl whose legs dissolved into a bunch of spiders because of a distortion storm, and I definitely don't want that."
+
+Damien stared at him, horrified. "I-I thought you said the storm usually changes people in a way they like!"
+
+"Oh yeah, that girl was really into having spider legs," Cale said happily. He pulled open the door.
+
+Leo stood there, fist poised to knock again, but with his mouth frozen in an expression of mild horror. "Do I... want to know what you were talking about?"
+
+"Nope," Syphus answered for Cale before he could say anything. It grabbed Leo's arm and started rolling off toward the dorm. "Let's not waste any more time! I want my books, and Sisyphus is being annoying about our magic glowing door."
+
+That was probably fair. Cale followed after them, humming to himself.
+
+Even with all the chaos, it was hard to be upset. He'd finally done magic, after all. And it was magic he'd wanted, at that! He could still feel his spell chugging away, slowly turning his dough into a perfect loaf of bread.
+
+As long as he stayed here on Utelia, this would be just the beginning. Cale was usually pretty cavalier about death, but this?
+
+Well, this—along with the fact that he actually cared about the people he'd met here—meant that for once in all his lives, he wanted to stay in this realm as long as he could manage it.
+
+"How about that, Vital?" he murmured. "You always did say I should settle down. Maybe I'll give this realm a few centuries, see how it feels..." He grinned. "Well, first things first, I suppose. I gotta turn this lot into archmages."

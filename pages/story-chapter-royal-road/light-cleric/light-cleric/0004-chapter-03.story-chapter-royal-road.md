@@ -1,0 +1,473 @@
+---
+id: 924e7d60-2558-52b3-a48c-ae4c426f41b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 03"
+slug: 0004-chapter-03
+partOf: light-cleric
+position: 4
+ownLength: 5949
+unit: words
+publishedAt: 2021-01-09
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/612038/chapter-03"
+royalRoadId: "612038"
+---
+
+Sweep walked to her room without thinking too hard about the pain threatening to overwhelm her, ignoring the stares, gasps, and whispers of those few still in the halls. But upon entering the room she shared with Temperance, her friend screamed, short and sharp, and Sweep could no longer ignore it. She dropped to her knees, taking a deep, shuddering breath, as her thoughts shattered to shards of pain.
+
+Temperance undressed her, pulling the drab, grey dress off over her head. It was stuck to her back in several spots where she’d bled through the material, and when Temperance pulled it free, the sharp sensation was enough to steal her breath.
+
+Temperance helped Sweep to the bed, where she collapsed, gasping and sobbing and shaking.
+
+Behind the trunk storing their clothes was a loose stone in the wall and behind the loose stone was a little hollow. They had discovered it when they were children and imagined that some orphans who’d shared this room before them had created it to hide personal treasures.
+
+Temperance moved the trunk and the loose stone and retrieved a small, earthenware pot they’d filched years ago. The pot was filled with an ointment Temperance mixed on nights when she couldn’t sleep, an ointment she’d learned to mix because Sweep was so often beaten; it numbed pain and reduced swelling. But on this night, the ointment ran out before the pain did.
+
+Temperance refused to go to bed. She sat at Sweep’s bedside and cried over her. At Sweep’s request, she described the welts and bruises between shuddering breaths.
+
+Once, a few years ago, Sweep had asked Temperance to trace the scar lines covering her back because she had wanted to know where they were. She’d lain upon her bed, much as she did now, and Temperance had done so with cool if trembling fingers. Sweep wondered how many new scars would be added to the pattern after her back healed.
+
+Several hours later, after Temperance had cried herself to sleep at Sweep’s bedside, Sweep still couldn’t sleep. The burn and ache jerked her awake every time she started to drift off. She’d tried to slip to the room in her mind, but she couldn’t concentrate. The comforting chimes wouldn’t come.
+
+The night passed in measured, jaw-clenching throbs.
+
+“Piety?”
+
+Sweep appreciated that Temperance still called her Piety. Even though the Mother had given her the name, Sweep liked it. It reminded her that, despite the Mother’s hypocrisy and anger and abuse, the Eight Saints taught love and forgiveness and acceptance. And it reminded her that, though everyone called her Sweep, though she even called herself Sweep, Temperance thought of her as more than just a body to do a chore.
+
+“I’m fine, Temperance.”
+
+“No, you’re not.” Temperance’s voice was harsh, evidence of last night’s crying. In fact, Sweep thought Temperance had probably cried more than she had.
+
+“No,” Sweep agreed, “I suppose I’m not. Do you think it’s morning yet?”
+
+“Pretty close.”
+
+Sweep heard Temperance shifting around then fumbling for the candle and a match. When she had the candle lit, Temperance sat next to Sweep’s bed. Sweep blinked against the sudden light but otherwise didn’t move. Just the thought of moving was painful.
+
+“Do you think you can heal yourself now?” Temperance asked.
+
+Temperance had wanted to know what had prompted the beating, so Sweep had told her about how she had prayed at Father Vytal’s side, about the silvery purple light within him and the black splotches. Temperance, already convinced Sweep was special, had declared Sweep possessed healing power.
+
+Sweep didn’t know what to believe, but she knew she couldn’t concentrate.
+
+“It’s all I can do to keep still.”
+
+“Oh, Piety, we’ve got to get you away from here.”
+
+Sweep started and the movement made her wince and hiss. She had not expected Temperance to suggest running away.
+
+“Are you serious?”
+
+Temperance nodded, and the movement loosed silent tears. “The Mother is getting angrier. What if she does this again? What if she does worse?”
+
+“But where would I go?” asked Sweep. “No one in the valley would take me on. I’m obviously an orphan; they’d just give me back to the Mother. I don’t have any way to travel. I have no money. I wouldn’t even know how to live off the land.”
+
+“We could hire on with a traveling merchant,” Temperance replied. “We could trade services for travel; we could clean and mend and cook… well, I could cook. We could go to a city, there’s always work in a city, and then we could save money.”
+
+Sweep was nonplussed. She’d dreamed of leaving, of course, but she’d always thought it would be on her sixteenth founday. She’d never considered running away. “How long have you been planning this?”
+
+Temperance shrugged. “Since forever, I guess.”
+
+“And you’d come with me? The Mother doesn’t hate you the way she hates me.”
+
+“I couldn’t let you go on your own. You’d starve without someone to cook for you.”
+
+Sweep laughed a little and weathered the pain.
+
+“Besides I don’t like being here any more than you do. I think we could make it.”
+
+Sweep took a deep breath and tried to still her nerves. Running away from the orphanage was a terrifying notion, but Temperance made it sound possible. The life of an orphan after being discharged wasn’t encouraging, most found work as laborers in the valley. Those who left the valley were never heard from again. At least, that’s what the Mother told them.
+
+“I’m in no condition to do any running right now,” Sweep said. “But…”
+
+“I don’t think we have time to wait,” Temperance cut her off. “I think we need to leave soon. Tonight. I overheard one of the sisters yesterday, there’s a merchant in Appledel, at the inn, and he’s leaving tomorrow morning. We should go with him.”
+
+“Are you sure he’ll take us?”
+
+“Probably,” Temperance said. “If he doesn’t, we can walk until another merchant passes, and ask him.”
+
+“Are you sure we have to leave now? Maybe the Mother has calmed down.”
+
+Temperance shook her head and a few more tears trailed down her cheeks. “If you could see your back, you wouldn’t say that.”
+
+Sweep could think of no way to respond, and Temperance fell silent.
+
+After a while, Sweep said, “Well, if we’re going to run away tonight, we’ll need to act normal today.” She started to get to her feet, but Temperance put a hand on her back and even that small touch sent a stab a pain through her.
+
+“Sorry,” Temperance apologized quickly. “You shouldn’t move.”
+
+“Temperance, if I can’t move, how can I run away?”
+
+“Rest,” Temperance replied, “Try to heal yourself. I’ll tell Sister Clarice you’re ill.”
+
+“Do you really think she’ll let me off because the Mother saw fit to beat me?”
+
+“Once she gets a good look at your back she will.”
+
+Temperance stood and changed from her nightdress to the grey orphan’s dress. “I’ll come check on you as much as I can.” She brushed a kiss on Sweep’s cheek, and went for the door, but Sweep stopped her.
+
+“Temperance? If we leave… I’ve always wondered about the purple-eyed woman.”
+
+“The one from your dreams?”
+
+“Yes. I think she’s real. I’m certain of it. She knew me. I think she could tell me where I come from. If we run away, could we maybe try to find her?”
+
+From her place by the door, Temperance nodded. “Sure. Try to get some sleep, Piety.”
+
+Once Temperance was gone, Sweep felt anxious, like there was something she was supposed to be doing. She considered getting up and attending her chores and lessons as normal, but when she tried to move, the pain forced her back down. So she lay still and tried to figure out what she would tell Sister Clarice when she arrived, or whoever Sister Clarice sent. She tried not to consider the situation should the Mother Superior decide to visit.
+
+After a while, she closed her eyes.
+
+• • •
+
+She balanced upon the wind, her expansive wings keeping her aloft over the endless grey-blue ocean stretching to the sky at a hazy horizon. The ocean in her ears and air under her wings and the salt on her tongue called to her, encouraging her to never go back.
+
+And she stood in a shadow-dark forest, clad in shade and armed with vengeance. Her enemy lurked in those shadows, not realizing that they belonged to her, moved at her command, and would not protect him.
+
+And she sat on a throne of light overlooking the field of battle, checkered in light and shadow, under a storm-tossed sky.
+
+• • •
+
+Sweep snapped from sleep with the vague sensation she’d been thinking about something important, but unable to recall it. She blinked at Temperance who knelt by her bed, bundled against cold and bearing a pack strapped to her back.
+
+“What?” Sleep fuzzed Sweep’s thoughts.
+
+“We have to go. Now. There’s a fight. I don’t know what about, but the Mother is raving in the refectory. If she gets it in her mind to punish someone…”
+
+That was enough to convince Sweep. She pushed herself into a sitting position. Her body still ached, but sleeping seemed to have helped. At least, she could move. Even so, she had to move slowly and she spent several minutes getting dressed in the layers of clothing Temperance insisted upon. Briefly, Sweep felt bad about the theft, but practicality asserted itself; if they were running away on a winter night, even late winter, they’d need extra clothes. Besides, the Mother had already extracted a stiff price.
+
+Finally, she let Temperance slip the straps of a pack over her shoulders and secure it across her chest. Initially, the pack awoke the agony in Sweep’s back, but after a few moments and some deep breaths, the pain receded to an ache.
+
+“Ready?”
+
+Sweep laughed and shook her head. “Not at all.”
+
+Temperance smiled at her, small and tight. “Good. Let’s go.”
+
+Temperance led the way through the dark hallways. Sweep tried to imagine how they would escape. If there was a fight, how would they avoid it? Would they leave through the acolyte’s entrance? The sanctuary? Perhaps they would slip out a window? But Temperance led her to the laundry yard door, and Sweep remembered the narrow gate with the wooden latch.
+
+The laundry yard was a bitter slick of ice. Trampled snow packed into crusty ridges melded with smooth planes where laundry water had slopped over the sides of the copper tubs. The laundry yard was never pleasant; too hot in the summer, too cold in the winter, and always miserably humid, but on this lightless night, with her body in throbbing agony, each step was treacherous, each movement liable to send her sprawling. If she fell, Sweep was certain she’d be unable to get up again.
+
+“Almost there,” Temperance kept whispering, “almost there.”
+
+Sweep didn’t bother looking for the tiny gate in the shadows. Instead, she kept her head down and her weight on Temperance’s shoulder. She let Temperance’s reassurance sooth her, though she knew that “almost there” was only a step closer than it had been before, and “before” felt hours gone. All the while, someone might open the door on the laundry yard and they’d be caught. Sweep decided if that happened, she’d urge Temperance to run, to get away.
+
+When they finally reached the gate, Sweep didn’t fight the tears of relief though they froze on her cheeks. She and Temperance fumbled around in the dark until they found the rude wooden latch.
+
+“I was beginning to think we’d imagined it,” Sweep whispered.
+
+She made her cold-clumsy fingers wrap around it, Temperance’s fingers wrapped around hers, and together they pulled.
+
+The treacherous ground slid under her feet. Only her hold on the door kept Sweep upright. Her muscles tensed and shrieked. Beside her, Temperance fell to her knees with a crack.
+
+But her weight on the latch opened the gate and it swung into the yard.
+
+“Hurry,” gasped Temperance. “Someone is sure to have heard.”
+
+Sweep stepped through the gate to the frozen ruts of mud in the dark alleyway beyond. Behind her, she heard Temperance groaning to her feet and soon felt her presence.
+
+“Did I yell?” Sweep whispered. The bruises and raw wounds along her back throbbed in time with the beating of her heart. The throbbing made her head pound. She felt ill.
+
+“It doesn’t matter,” said Temperance. “We’re out now. Just don’t stop.”
+
+But within a few steps, Sweep’s stomach clenched and her vision splintered into shards of light and pain. She retched, bracing herself against the outside of the laundry yard fence. Only spittle and bile resulted. She’d never been grateful to have missed meals before. She heaved a few times, then spat. Sweat froze on her skin while Temperance rubbed her arm gently and she tried to breathe steadily.
+
+The opening of the door beyond the fence froze them both.
+
+A coppery fear flooded Sweep.
+
+“Who’s out there?”
+
+Sweep recognized the voice of one of the young sisters, though she couldn’t recall her name.
+
+“Can you walk?” Temperance’s whisper was barely audible.
+
+Sweep nodded carefully, and together they walked down the dark alleyway, Temperance limping.
+
+They heard the sister mutter as she picked her way across the frozen yard.
+
+“Don’t stop.”
+
+Sweep wasn’t sure whether it was her or Temperance whispering the encouragement. Tears made her vision blurry.
+
+Suddenly, the way ahead was lit from behind. Their shadows stretched before them. Sweep could see the end of the alley where it met the cobbles of the street, only steps away. And from there, a corner around which they could hide. But they’d been seen.
+
+“Don’t stop.”
+
+Sweep and Temperance scrambled against their fear and rounded the corner. There was a tense, awkward moment when Temperance went right and Sweep went left. But Sweep stumbled and as Temperance caught her they went left together.
+
+The lantern light continued to shine down the alleyway for several moments.
+
+“Drunken whores!” the sister shouted. “The Mother told you to stay away from the church.”
+
+“Don’t stop.”
+
+Sweep took a shuddering, stumbling step down the street, still clutching Temperance’s hand. Together they took a second and a third, quickening as they walked away from Sacred Heart.
+
+Sweep expected that at any moment they’d be caught, that the hand of a sister would descend upon their shoulders. Then would come the blows as they were dragged back to the church and before the Mother Superior. Every gust of wind, every shifting moonshadow was a sister out to get them.
+
+They hurried down the dark street, staying close to the buildings on their left, made the next turn they came to, and paused. Sweep strained for the sound of pursuit over the thudding of her heart. She heard no such sounds but was unconvinced that pursuit did not come. Soon they were moving again, but quickly they realized that neither of them knew where the inn was. Neither of them had been away from the church, much less to the inn. They paused again to discuss strategy.
+
+“I think,” said Sweep between labored breaths, “that it’s a couple of streets down from the church.”
+
+Temperance nodded. “So, where’s the church from here?”
+
+The girls looked around. The street was dark. The buildings lining the street were unfamiliar. Little outside the church was familiar. Sweep, who had swept the front step of the sanctuary every morning and evening for years, and so had seen the buildings across the street, thought that they looked like shop fronts, but she couldn’t be certain. Not an hour outside the church, only streets away, the runaways were already lost.
+
+Temperance took a deep breath. “Do you remember the kitchen garden?”
+
+Sweep shook her head though it was dark.
+
+“Cook makes us plant in little squares,” Temperance continued. “She uses lengths of cord and rope to make squares a pair of handbreadth’s across. Remember?”
+
+“Sure.” Sweep said, hesitant, uncertain why her friend was going on about the garden.
+
+“So, the ropes are like the streets. See, the streets are straight.” She gestured.
+
+“Oh.” Sweep nodded. “So the planting squares are where the buildings are.”
+
+“Right. So, if we walk along the streets and we make sure to walk around each square, eventually we’ll come across the street where the inn is.”
+
+Sweep hugged Temperance as tightly as she could through the layers of clothes and heavy pack.
+
+“You’re brilliant, Temperance.”
+
+And though it was slow and nerve-wracking, it was a sound plan. By the time they found the lighted windows of a building proclaiming itself the Apple Blossom Inn, they were exhausted and footsore.
+
+Sandy-eyed and watery-limbed, Sweep approached the lighted yard and the bustle of activity it contained. Dimly, she wondered how long she and Temperance had been systematically walking along the streets of Appledel, how long it was from dawn, and how many times they had passed this darkened building front and not realized it was the inn.
+
+The gate to the yard stood open, lit by lanterns casting long shadows that danced and twitched and jumped about madly, lending an air of chaos. She watched the bustle for several moments, numbly, before Temperance nudged her and pointed. She pointed at a tall man with thick moustaches who oversaw it all. In the few moments she watched him, three people stopped to talk to him, and he sent them on further errands. This man was in charge.
+
+“Well,” said Sweep, dispelling her reservations, “It’s this or go back to the Mother.” She hitched up her pack, ignoring the pain with ease of practice, and walked purposefully through the courtyard, ducking and dodging those running errands. Temperance stayed at her side but let her take the lead.
+
+“Excuse me, sir?”
+
+The man did not respond. A woman approached, and he looked at her expectantly.
+
+“Roger, the young bay has a bruised hoof.”
+
+“God’s Beard take the stubborn beast,” the man, Roger, cursed. “If he’s not harassing the mares or breaking the picket, he’s stalling our departure. God’s Wounds.”
+
+The woman made a noncommittal sound. She had the expression of one used to such outbursts and was waiting for it to pass so the business at hand could continue. In a moment of muttered curses, it did.
+
+“Can we sell the beast?”
+
+The woman shrugged. “We can, but we still need a second horse to pull the third wagon. Either way, we’ll be traveling slowly until either he heals or we find another horse.”
+
+The man let loose another stream of curses, and the woman weathered them patiently. Eventually, Roger said. “Is there anything else?”
+
+“We’re ready to leave.”
+
+“Finally,” Roger muttered.
+
+The woman turned her attention then to Sweep and Temperance. Her gaze drew Roger’s attention, and Sweep hesitated. When she had strode across the courtyard, she had gathered her confidence. Now confronted with the man who spewed curses under a thick, black moustache, she was nervous again.
+
+“What?” Roger demanded.
+
+“We want to travel,” Sweep said, sticking close to the truth. “We can work. We can sew and clean and cook… well, Temperance can cook.”
+
+“Bah!” he waved his hand at them. “I have no time for runaways. Go back to your mother. She doesn’t beat you half as hard as I would.”
+
+Sweep doubted the accuracy of the man’s claim, but after having seen his temperament, did not doubt that he would be a strict and heavy-handed taskmaster. Sweep had hoped the world outside the church would be kinder, contrary to what the Mother claimed. It seemed a foolish hope now.
+
+Temperance tugged on her sleeve. “Piety, come on, let’s go,” she whispered.
+
+“Just a moment, girls,” said the woman. “Roger, husband, think on it a moment. We could always use another pair of hands willing to work. Saints know enough of our men are too willing to avoid it.”
+
+Roger frowned at his wife. “I’ll not take on a pair of runaways. I don’t care if they can make silk from patches, runaways aren’t worth the trouble.”
+
+The woman frowned right back at him. “You’re not thinking like a businessman. They don’t eat much and are already clothed. They’ll easily make up for their wages.” She smiled down at the girls.
+
+Sweep was conflicted. Roger was clearly a short-tempered man and he’d already threatened to beat them. But he couldn’t be worse than the Mother, and the woman had mentioned wages. Sweep couldn’t decide if she wanted Roger’s wife to convince him or not. But when the woman smiled down at them, Sweep was struck with a sudden sense of unease.
+
+“Oh,” Roger said, and he smiled. It was a smile Sweep recognized seeing on the lips of the Mother when she had thought of something particularly cruel. He looked at them “Well, I suppose we might find a place for you after all.”
+
+“Actually,” said Sweep, “we’ve changed our minds.”
+
+Roger’s face darkened, but he kept his smile as though it were frozen in place. He reached out to put a hand on Sweep’s shoulder. Sweep jumped back, pulling Temperance with her. The pain of movement was expected, had become a part of her, and she did not wince when it came. The woman, Roger’s wife, sidled around, trying to get behind them. Sweep and Temperance continued backward, angling to keep the woman from their backs.
+
+“Now, dears, that’s no way to treat your employer,” she said.
+
+Run for it, Sweep thought desperately.
+
+As though she’d spoken aloud, Temperance broke into a dash, pulling Sweep behind her. But Sweep stumbled as the sudden movement jabbed pain from her back to her limbs, and she fell almost immediately. Temperance shouted. Sweep pushed to her feet, taking deep breaths and fighting her heaving stomach. With her bearing about her once again, Sweep looked up to find Temperance in the grip of the man called Roger, a trickle of blood evidence of a split lip. Roger’s wife stood behind Sweep with a cruel smile.
+
+“Pardon me, master merchant, but you’re frightening my apprentices.”
+
+The voice was deep. It carried across the courtyard and above the racket. It was polite but ominous, calm but commanding. Sweep didn’t dare turn to look at the speaker; she kept her gaze on Temperance, still fast in the merchant’s grip, trying to figure out how to free her. Whoever this newcomer was, she’d deal with him once Temperance was free.
+
+The man who strode into view was Father Vytal. He seemed taller than Sweep remembered and far more menacing. His expression bore none of the kindness she’d seen on the night they’d met. He was clad in a charcoal-colored shirt and pants. A white coat with a high collar and golden scrollwork crawling up the arms was decorated with the scarlet and gold sunburst on either collar. The sunburst amulet hanging at his chest glinted in the light of the lanterns around the courtyard.
+
+Roger the merchant was so impressed he released Temperance unconsciously. Temperance dashed to Sweep’s side, and together they watched the silent confrontation between cleric and merchant. Around them, the bustle of the courtyard had not abated and Roger’s wife was not in evidence.
+
+Soon, Roger lowered his eyes, muttered something that was supposed to be respectful, and waded into the milling crowd without a backward glance, shouting orders.
+
+Father Vytal turned to the girls. Temperance shrank back, but Sweep hoped to see the kind expression she’d been granted a week previous. She took a step forward. When she met his gaze, the grey-haired cleric did smile, just a little.
+
+“Come girls, let’s get this sorted out.”
+
+He led them back to the church through the dark streets of Appledel. At the front step, Sweep stopped and squeezed Temperance’s hand. Temperance stopped next to her. Father Vytal was at the front door of the sanctuary before he noticed the girls were no longer following. He looked back at them and raised an eyebrow in question.
+
+“Yes?”
+
+“We’re not going back, sir.” Sweep was pleased with the steadiness of her voice.
+
+Father Vytal stepped off the step and sat upon it, heedless of the cold stone. He smiled though his eyes were sad.
+
+“I wouldn’t ask you to. I need to do a few things and while I do so, you two should rest, for when I leave, I intend to take you with me. With your permission of course.”
+
+Stunned, Sweep’s skin felt of pins-and-needles, like when she’d slept all night with her arm at a funny angle. She looked at him and said nothing. Next to her, Temperance stiffened and squeezed her hand. Though their gambit with the merchant had failed, Father Vytal was offering them another way out. She didn’t know what to say next.
+
+“You don’t trust me, and I don’t blame you,” said Father Vytal. “Perhaps a gesture of good faith is in order?” He held his hand out to Temperance. “May I?”
+
+Temperance squeezed Sweep’s hand, then let go and approached the well-dressed cleric. She gave a small nod. Father Vytal took her chin in his hand. With a gentle brush of his thumb, he wiped away the dried blood on her chin. Temperance gasped. She put a hand to her lip to find that it was no longer cut nor swollen.
+
+“Thank you, sir.”
+
+Father Vytal shook his head. “My name is Tristam, not sir.”
+
+Temperance bowed. “Yes, sir.”
+
+Sweep found her voice. “Where would you take us, if we agreed to come with you?”
+
+Father Vytal stood and brushed at his pants. “To the High Temple in Kinswell. There, you could receive a proper education. Girls, I promise you, I am nothing like Willow. My unsubtle questioning this morning has revealed Willow’s methods of persuasion and discipline and which two orphans are the usual recipients thereof. I won’t allow it to continue.”
+
+Sweep looked at Temperance who looked back at her. Temperance nodded and Sweep looked back at Father Vytal. “All right. We’ll go with you.”
+
+“Excellent.” Father Vytal smiled. “I’m afraid your healing, Sweep, will take a bit more effort, and you should not be standing when I do it.” He sighed. “I know you two spent a considerable amount of effort running away, but I ask that you return to your dormitory for a few hours more.”
+
+“Do you promise?” Sweep asked. “That you’ll take us away from here. That you intend to protect us?”
+
+The cleric nodded. “I promise.”
+
+“I mean it,” Sweep said. “You have to promise.”
+
+“I promise. I mean it.” His expression was grave, the lines of his face deep.
+
+“Because, it’s hard to know if you’re telling the truth,” Sweep continued. “You seem kind, but…”
+
+Father Vytal knelt. “I promise you both, I mean you no harm and intend to take you away from this place to somewhere you can learn, prosper, and be happy.”
+
+Sweep felt a weight settle about them, as though his words held power, magic, but at the same time, she felt a burden lift from her thoughts. She knew he meant what he promised.
+
+• • •
+
+The room was as it had been when they’d left it only hours before. Sweep had thought to never see it again. It was disconcerting to return.
+
+“After I heal Sweep, you two should try to get some rest. It will be dawn in a couple of hours and I want to leave at first light.”
+
+“But what if someone comes?” asked Sweep.
+
+“No one will come. I’ll see to it.” He laid a hand gently on her forehead. His hand was cool and dry. “Now, this won’t hurt, but it might be a bit of a shock.”
+
+She felt Father Vytal suddenly buzz with power, and the faint chimes sounded as though across a large, empty room. Then that power flowed into her. Fortunately, it didn’t come all at once. Slowly, the searing pain she’d put in the back of her mind cooled and faded. By the time Father Vytal was finished, Sweep was shivering and exhausted, lying face down on the bed, still bundled in several layers of clothes with a pack strapped to her back. Her back itched, but she couldn’t summon the strength to do anything about it.
+
+Father Vytal was speaking. “She needs warmth and rest. You’ll watch over her?”
+
+“Yes, sir.”
+
+“Good. I’ll make sure no one bothers you.”
+
+“Sir?”
+
+“Yes, Temperance?”
+
+“Why?”
+
+Father Vytal paused several moments. “There are many reasons. A friend once told me that I do my best work while teaching young people. I haven’t had an apprentice for nearly a decade.”
+
+“Why us and not any of the others?”
+
+“There’s something special about the two of you. I don’t know what it is, but I can feel it.”
+
+“But what about everyone else? If we just leave them here…”
+
+Their conversation faded, as though they walked quickly down a long tunnel. Sweep didn’t hear if Temperance continued to question him because oblivion rose to claim her.
+
+• • •
+
+As she dressed again, she became more alert, even energized. Her back held only a dull ache, and she reveled in being able to bend and twist as she dressed. The knowledge that Father Vytal stood just outside the curtain, ready to take them away to Kinswell, made her at once hurry to prepare and savor the moment.
+
+When they were both ready, Sweep pushed aside the curtain.
+
+Father Vytal had changed from the formal clothes and fancy. Now he was in workman’s leather pants and a cotton shirt with a heavy coat bundled on the pack at his back. His sunburst amulet rested against his chest from a simple leather cord. He wore his confidence and authority like a familiar cloak.
+
+Sweep bowed and folded her hands at her waist. “Sir, thank you for healing me.”
+
+Father Vytal made a pained noise. “Please don’t bow at me like that, Sweep.”
+
+Confused, Sweep risked a glance at Temperance who seemed equally confused.
+
+“Sorry, sir. How should I bow to you?”
+
+Father Vytal shook his head. “You shouldn’t bow to me at all. I am not your master; I am not better or greater than you are. We are both people and we should be able to meet each other as equals.”
+
+“But, Father Vytal, you healed me.”
+
+“As you healed me, Sister Sweep.”
+
+Sweep felt her fingers and toes go tingly and numb with shock. She heard Temperance gasp. Father Vytal had called her Sister, like she was a Daughter of God, and he claimed that she had healed him with a quiet certainty she couldn’t dispute. Her heart pounded in her ears and her cheeks went warm with the strangeness of it. Everything she’d been taught about the way of things, the way people related to one another, this man, this Son of God, was overtly rejecting. She looked at the sunburst resting on his chest just to make sure it was still there, for his words sounded like heresy.
+
+“The Scriptures tell the stories of the Saints. You know them?” he asked.
+
+“Yes sir.”
+
+Father Vytal smiled, banishing the pained expression. “Many would have you believe that the Children of God, those sworn to His service, are born to a higher calling. But the teachings of the Saints tell us that no man is higher than any other. Saint Mary the Servant said, ‘Choice and deed set us apart. No one is born to greatness.’”
+
+Sweep nodded. “But Saint Mary also said ‘Honor wisdom and kindness, for they are precious.’ We have understood that the Mother is wrong about nearly everything, and we had hoped that the world would not be as cruel as she claimed. You, I think, bear out that hope, sir.”
+
+It took several moments and a deep breath before Father Vytal said, “Well. I am impressed.”
+
+Sweep bowed. “Thank you, sir.” Temperance followed her lead.
+
+“I’m not going to break you of that habit, am I?”
+
+Sweep gave it a little thought. “No sir, I suppose you aren’t.”
+
+Temperance nodded.
+
+• • •
+
+The Mother’s chambers were hot after the cold of the dormitory. Sweep stood next to Temperance, the two holding hands so hard it hurt but neither willing to release the other. Between them and the Mother was Father Vytal, and the two argued.
+
+“You’re a foolish, addled old man chasing dreams and myths. You can’t even take care of yourself. What makes you think you can take care of a little girl, much less two of them? What are you going to do, take them trekking across the nation with you? What kind of life is that for a girl? And what about their education?”
+
+The seven-hour bell rang, permeating the walls of Sacred Heart, and Father Vytal took the opportunity to interject.
+
+“Willow, why are you so angry with me? What did I ever do to make you hate me so much?”
+
+“You disrespect me by ignoring my title.”
+
+“To me, you’ll always be Willow.”
+
+“And that’s just it… Tristam. You’ve never thought I was good enough.”
+
+“A title is not a measure of a person’s worth.”
+
+“And what of a name? What of my name?”
+
+Father Vytal shook his head. “This is because your mother named you Willow?”
+
+“And you let her.”
+
+Sweep glanced at Temperance, who looked just as confused as she felt.
+
+The Mother Superior drew herself up, and her expression turned hard. “You cannot have them, Father.”
+
+Father Vytal shook his head. “Willow, if it’s a question of authority, you don’t have any. If it’s a question of force, I will win. If it’s a question of right and wrong, I’m right, and you’re wrong. And what’s more, Willow, you know it.”
+
+The Mother Superior stood with her mouth open, prepared to continue shouting, but no words came out. Her eyes widened considerably. The sudden silence, where before there had been anger, made Sweep aware of small sounds: the guttering of candles, muffled footsteps, and the muted babble of conversation far away.
+
+“We’re leaving, Willow. Furthermore, you are under review. I’d always wondered how you’d gained this position. I suspected you traded on our shared name. Had I known what you’d used it for…” He shook his head again. “I’ll be sending a note on to Kinswell, detailing the abuses I’ve seen here.” Father Vytal turned and gestured to the girls to precede him from the room, but the Mother wasn’t finished.
+
+“I demand compensation. If you’re taking two of my best workers and several valuable supplies, I demand compensation.”
+
+Just before Father Vytal spun back to face the Mother, the girls saw his expression turn angry and frightening.
+
+“Are you suggesting I buy them?” he demanded. “Slavery is illegal in Khulanty, Willow. And the supplies are property of the Church, whose council I’m a member of, as you well know. You should be ashamed. I saw the state of this girl’s back. There are scars. The only reason she can walk is because I healed her. If this is how you treat your best, I fear for the least of your congregation.”
+
+The Mother took a step back, but was undeterred. “So that’s it then? You’ll spirit away two little girls to only God knows where over my explicit objections?”
+
+There was so much he could have said. Sweep could see the set of his shoulders tense as though preparing to continue. But then he relaxed and said, simply, “Yes.”
+
+The Mother Superior turned away. “Be gone then. You have overstayed your welcome, Father.”

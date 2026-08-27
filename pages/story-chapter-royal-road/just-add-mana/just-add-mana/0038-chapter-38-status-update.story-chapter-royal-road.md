@@ -1,0 +1,273 @@
+---
+id: e5781703-cb09-5070-84fb-f7e91b50d13a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38 — Status Update"
+slug: 0038-chapter-38-status-update
+partOf: just-add-mana
+position: 38
+ownLength: 3960
+unit: words
+ownProgress: 3960
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2627877/chapter-38-status-update"
+royalRoadId: "2627877"
+markedReadAt: "2026-06-29T18:48:52.086Z"
+---
+
+Cale wasn't exactly sure how it worked, but there was apparently something rousing about giving lectures about the history of the Great Realms. He was far more awake than he had been about an hour ago. This, to him, seemed deeply offensive; the very idea that anything was more effective than his usual routine of staring straight at the sun until he woke up felt like blasphemy.
+
+This meant he'd need to find people to lecture in his next life just to wake himself up! That sounded far too time-consuming. Maybe if Sternkessel made good on his word and didn't mind waking up to a lecture or two...
+
+Otherwise he'd have to put in the effort to find more apprentices. Cale tried not to think too hard about that one. His next life was inevitable, but dwelling on the idea rarely led to anything good.
+
+In any case, he was awake enough now to consider the implications of that resonance vision, so there was that! He'd been excited about it when he first woke up, of course, but in the early morning he hadn't quite been able to untangle vision from dream. And then Leo had wandered into his room and distracted him, so he'd just sort of dealt with the Gift's insistent nudging the entire time.
+
+Enough time had passed now that everything that was just a dream had faded, leaving the memory of the resonance vision crystal-clear in his mind. It was a good thing visions didn't follow the same rules as most dreams, or they'd be virtually useless.
+
+The good news was that Cale understood this whole resonance thing a little more, thanks to that vision. He didn't have the whole picture just yet—figuring out the entire system from just a single vision was beyond even his capabilities—but at the very least he now had a basic idea of what it was and what it did.
+
+Resonance was essentially about understanding and connecting with the essence of an aspect. It was pretty similar to what he'd said about connecting with their aspects to his apprentices just yesterday, except here on Utelia it seemed to go just a step further. Enough of a connection with a mana aspect led to resonance, and resonance was...
+
+Well, mana aspects were magical embodiments of a concept, and they existed at different levels of abstraction. Because they had those different levels of abstraction, they were often amalgamations of a number of smaller, simpler concepts.
+
+Resonance, then, was about connecting to the smaller pieces that made up the whole. Except with some sort of metaphysical component to it, it seemed. Whatever it was, it bound a mage's understanding of an aspect to their mana core more tightly than was possible in other realms, making it easier for them to cast or create related spells.
+
+Incredible. Was that a natural property of Utelia as one of the Great Realms, or had it been an invention of the Gift? The Gift certainly seemed to be able to use it, from what Akkau had said—if resonance affected spell acquisition and evolution, then it followed that the Gift tapped into a mage's resonance to guide the formation of the resulting spell.
+
+Unfortunately, the resonance vision he'd received hadn't been able to give him many answers in that regard. It had been rather relaxing, exactly as promised, but it hadn't involved much more than sitting in the dragon's tower and waiting for the so-called knight to come rescue him.
+
+Cale had promptly derailed that, of course. Like he was going to stand by and be some sort of damsel in distress. But he couldn't help but be a little disappointed; he was expecting something a lot more... well, mystical.
+
+Then again, the fact that it hadn't been more mystical was probably at least a little bit his fault.
+
+Possibly mostly his fault.
+
+Honestly, he'd probably thrown things off a lot by refusing to wear that dress.
+
+Anyway.
+
+The draconic aspect, it turned out, had a lot to do with the mythological roots of dragonkind. The underlying concepts bound to it were closely tied to classical tales of dragons, and so the vision had attempted to take him through exactly that. The classic story of a princess kidnapped by a dragon and of the knight sent to rescue her.
+
+In that sense, it wasn't the vision's fault that Cale had undermined it so thoroughly. Fortunately, that hadn't affected his acquisition of the new resonance, and Cale found himself looking forward to other visions in the future.
+
+The whole princess-and-dragon thing was obviously not the only classic that involved dragons. As his draconic resonance grew, he would receive other visions, each one exploring other mythologies and origins for dragonkind. Tales from other cultures all around Earth, in other words.
+
+Cale felt a small pang in his heart at the thought.
+
+It had been a long time since he'd truly involved himself with Earth's old stories. This path he was going down essentially guaranteed he'd be immersing himself in his home once more, and while he was looking forward to it, a small part of him was dreading it as well.
+
+On the one hand, it was nice to see some piece of humanity live on. On the other... it was a reminder of how alone he was.
+
+Though less alone now than ever before, he supposed. Cale smiled slightly to himself. He wasn't used to the idea of not being alone, but now he had Sternkessel, who at least knew. And while Akkau couldn't retain any memory of it, there had been a moment where—guarded by Cale's barriers—he'd been able to remember long enough to promise his help.
+
+Which meant he had not one, but two. Two others who might live as long as he did, who were willing to work with him and whose existences might not be constrained to a single realm or stuck between them.
+
+And yet...
+
+The wood from the desk snapped under his fingers, startling everyone aside from Cale. Syphus and Leo stared at him in concern, and Damien darted over, his eyes wide. "A-are you alright?"
+
+"Oh, I'm fine," Cale said, plastering on a grin. "Barriers, remember? I just needed to remind myself of something, that's all."
+
+Damien frowned. "Remind yourself of what?"
+
+"It doesn't matter," Cale said. "Anyway! I have messages from the Gift to check. Shhh."
+
+Damien did subside, but he kept glancing at Cale, brows furrowing. That probably wasn't going to keep working on the dreadshade, then.
+
+Cale was going to have to remember that.
+
+Partly to distract himself, but mostly because he was genuinely excited, Cale finally called up the Gift and read the words that were waiting for him. The first one caught his attention almost immediately.
+
+You have acquired your first rank in draconic resonance!
+
+The first rank of draconic resonance provides improved physical abilities, spell acquisition, and mana control. Complete integration of this first rank will take approximately seven days, depending on overall soul compatibility.
+
+Cale promptly forgot everything he'd been thinking about to focus on that instead.
+
+First of all, the Gift kept track of resonance! That was convenient, because Cale was pretty sure he'd lose track of whatever resonances he had after a while. It wasn't like he could feel for it within his soul or anything.
+
+That seven-day integration time and mention of soul compatibility probably had something to do with what Akkau had said about "acting like a dragon." The more draconic he was, the faster he would fully integrate his first rank of draconic resonance and be ready for the second.
+
+Cale wasn't sure exactly what he was supposed to do to integrate this faster. Was he supposed to lean into draconic stereotypes to speed up the process? Apparently he acted a lot like a dragon anyway—the dragon essence in his vision certainly seemed to think as much—but he wasn't sure how comfortable he was leaning into draconic stereotypes...
+
+Eh. It was probably fine. He could just keep going the way he normally did. That was what had earned him his first rank, after all.
+
+Cale hadn't mentioned this to Akkau, mostly because he thought the old dragon might have a heart attack if he did, but part of the reason he'd been so eager to consume the potion was that everything seemed to indicate it would make him seem a little bit more like a dragon.
+
+And that, in turn, meant that if Vekorax came to Utelia to hunt, it might very well come for Cale.
+
+Cale was rather interested in meeting this hunter of dragons for himself. Mostly because he had some very stern words (and rather a lot of mana) ready for it when it did.
+
+All in all, Cale was delighted by this development. Now all he needed to do was to test it out, which meant he just needed to get some spells to copy. Maybe his friends would be willing to demonstrate some spells for him...
+
+First things first, though. More gifts from the Gift! Besides, he hadn't checked on his full spell list in a while.
+
+Congratulations on surviving your first day on Utelia! The Gift has been adapted to better serve your specific requirements, Cale Cadwell Cobbs. As thanks for your service in calming Ixix, the Dread Moon, you have been assigned a greater priority for spell construct evolution.
+
+Your spell list is as follows:
+
+Auric Passives:[Blabbermouth][Escape Artist][Marked][Spell Intuitionist][Fire Resistance]
+
+First Tier:[Burn] (Evolution on cooldown — 2 hours remaining)[Bestow Light] (Evolution on cooldown — 3 hours remaining)[Decay Bite] (Evolution on cooldown — 320 hours remaining)[Identify Artifact] (Evolution on cooldown — 79 hours remaining)[Create Impulse][Taunt][Orb of Earth]Second Tier:[Lesser Reflection] (Evolution on cooldown — 160 hours remaining)[Labyrinthine Affliction]
+
+Seventh Tier:[Starlight Font]
+
+Eighth Tier:[Plasma Transmutation]
+
+Tenth Tier:[Auric Dominion]
+
+Twelfth Tier:This book is hosted on another platform. Read the official version and support the author's work.[Awaken Artifact] (Use on cooldown — 63 hours remaining)
+
+Fifteenth Tier:[Fangs of the Festering Fields]
+
+The first thing Cale fixated on was the evolutionary cooldowns.
+
+That answered one of his major questions—whether he could evolve a spell again after acquiring it. That he could evolve them again after some sort of cooldown was perfect; far better than losing the spell entirely with every attempt at evolving it, and technically better than just allowing him to keep trying.
+
+Mostly because Cale was pretty sure that if the Gift let him, he would end up locking himself up in a tower and experimenting with evolving a single spell over and over again. That was the sort of thing that led to wizardry! And he had nothing against wizards, but then they'd try to recruit him for their whole Universal Wizard Order again, and it would be a whole thing.
+
+No, the cooldown was perfect for him. It helped that Cale was pretty sure that whole thing about being "assigned a greater priority" meant that his cooldowns were lower than everyone else's.
+
+Last but not least, [Burn]'s cooldown ended around the same time his next class started—the one for fire resonance. That would be the perfect opportunity for him to evolve some sort of baking spell, assuming he acquired his first rank of fire resonance. He could get some ingredients from Alina, maybe? And then he could focus on evolving some sort of [Baker's Oven]...
+
+Although it had been a while since he'd done any sort of baking. Even longer since his last encounter with a mage that specialized in baking magic. He was pretty sure a [Baker's Oven] had some tangible benefits over just using an actual oven, but he had no idea what they were.
+
+If the Gift didn't tell him directly, he'd have to borrow some extra ingredients and run some experiments back-to-back. Maybe try baking a few different types of bread.
+
+Lost in thought, Cale didn't notice his apprentices staring at him until Leo spoke out loud.
+
+"Now he's drooling," Leo said, chewing on his pencil before scribbling something in a notebook. Syphus was peering curiously over his shoulder, and after a moment, it reached out to point at an empty page.
+
+"His barrier output increased, too," the golem said. "You should make a note of that."
+
+"Are you two studying Cale?" Damien asked, scandalized.
+
+"Yes. I got a new notebook just for this. Not every day you get to study someone that's traveled the Great Realms." Leo stuck his tongue out in thought and adjusted his glasses, then scribbled another note, looking up a few times as if to reference Cale for a sketch. "I'm sure Cale's fine with it. Right, Cale?"
+
+Cale wasn't particularly bothered by it. It wasn't like this was his first time being studied, and it was far more benign than most of the other attempts.
+
+He did see an opportunity here to test out his newly-acquired draconic resonance, though, so he leapt at it with a grin. "Only if you three demonstrate some spells for me to learn."
+
+Leo, Syphus, and Damien all paused to stare at one another.
+
+"...You know what? Sure." Leo stood from his desk and stretched, a few of his joints popping as he grunted. "Only if we get to cast the spells at you, though. Syphus says there's a lot to be learned from dueling."
+
+"I am a terrible influence," Syphus agreed, looking incredibly pleased with itself.
+
+Cale couldn't help but laugh. "I'd be disappointed if you didn't," he answered brightly.
+
+What a change. He supposed he should have expected it—he'd seen a glimpse of the kind of mage Leo and the others could be back in the Inverted Spires, after all—but the gleam in the minotaur's eyes had grown since then. He wasn't completely comfortable with his magic just yet, but he was becoming increasingly eager to grow and learn.
+
+Just the same as any true mage, Cale thought. He hadn't missed all the times Leo had gotten excited during that little lecture about the Karmian Well; he always caught himself after a moment, like he was reminding himself that all that priceless knowledge was buried within a labyrinth, but even that was only so much of a deterrent.
+
+Cale had met mages like Leo before. Once he got over the worst of his fears, he would be unstoppable. His desire to learn would drive him to heights even archmages would be jealous of, as long as he had the right guidance.
+
+And Cale, by this point, fully intended to provide that guidance.
+
+Damien groaned and muttered something to himself before drawing his cloak around his shoulders. "Fine," he mumbled. "I guess we have another two hours before class anyway... but, um, we should do this in one of the Astral Wing dueling rooms."
+
+"Probably true!" Cale agreed happily. That would make it more difficult for him to evolve spells without destroying the arena, but he was mostly just going to test spell acquisition, anyway, and Damien still wasn't comfortable leaving the Astral Wing.
+
+Honestly, Damien had incredible potential, too. It was just buried deeper within him, beneath a dozen fears about what he might do with his power. Underneath all that, though, Cale saw a mage that desperately wanted to help. To participate in the beauty of magic, and not in its destruction.
+
+Come to think of it, he should probably introduce the dreadshade to Izzik. He was pretty sure the two would do each other some good.
+
+It didn't take long for them to find an empty dueling room—it was, after all, early enough that none of them were actually in use. Cale was fascinated to find that they were constructed out of a thick metal covered heavily in the same inscriptions that decorated the rest of the Astral Wing. These ones, though, appeared to be fueled by a different mana source. Probably so they would withstand stronger blows.
+
+He would have spent a bit more time examining it, but he was excited to get to the spell learning bit for once.
+
+Fortunately, that took no time at all. Cale learned to his absolute delight that draconic resonance did, in fact, improve his ability to acquire spells. It seemed likely that full integration of his first rank had more to do with being ready for the second, because the actual benefits of draconic resonance felt like they were in full effect.
+
+His ability to acquire spells had been good to start with, considering he only needed to examine a spell to acquire it. [Spell Intuitionist] made sure of that. Now, though? With draconic resonance in play, all he needed to do was sense the spell, and a part of him just... understood.
+
+You have learned [Pebbleblast]!
+
+The pebbles clattered harmlessly off his barrier as Cale lounged back against a nearby rock, examining the new spells entering the list granted by the Gift with fascination.
+
+Acquisition still only worked with low-tier spells, of course, but this was still an absolute boon. How many spells had he missed because he hadn't been paying attention? Now he didn't need to—in fact, he didn't even need to look in the spell's general direction. His mana sense was constantly active, and that meant that as long as a spell entered his range, he picked it up.
+
+You have learned [Disorient]!
+
+With draconic resonance in play, he could start accumulating spells just by walking around the academy. In no time at all, he'd...
+
+Cale frowned. "Wait a minute," he said, narrowing his eyes. "Is this so easy because it's like I'm gathering spells for a hoard? I don't hoard things!"
+
+"Um..." Damien blinked at him mid-spell, wisps of decay mana evaporating before being sucked into the academy's inscriptions. "Who are you talking to?"
+
+"The Gift!" Cale gestured exasperatedly at the air while everyone else stared at him. "I'm not that much like a dragon. I should know! I tried to join a dragon nest once and they very politely kicked me out."
+
+"Okay, so, I have like five questions about that," Leo said, raising a hand. Cale ignored him to glare into the air for a moment more before he subsided with a sigh.
+
+"Is being compared to dragons that bad?" Damien asked hesitantly.
+
+Cale blinked. "What? No. I just know if I actually let it get to my head I'm going to start bragging about it. You don't want me in a bragging phase, trust me."
+
+He was flattered though. He just wasn't letting himself acknowledge it.
+
+You have learned [Basic Acceleration]!
+
+And there was the other benefit of his newfound draconic resonance—it served as an early warning system, even when he wasn't paying attention. Cale grinned. He wasn't surprised Syphus had more interest in the duel than in the conversation; the golem was rapidly speeding toward him, fully intent on mowing him down.
+
+For a moment, Cale was tempted to deactivate his barriers and testing his "improved physical abilities," but he wasn't quite that foolish. Instead, he grinned and slammed a sloped barrier into the ground in Syphus's general direction, then watched, impressed, as the golem flung itself high into the air.
+
+Good thing the arena they were in had a pretty high ceiling. Instead of crashing into the top of the room, Syphus tumbled into the air, then rapidly oriented itself toward the ground and—
+
+You have learned [Conjure Sand]!
+
+—conjured a massive pile of sand for itself to land on. Cale took a casual step back as a massive cloud of sand immediately burst into the air on impact, not that the extra distance made much of a difference. His barriers did, though.
+
+When Syphus emerged, it was covered in a fine layer of sand and seemed inordinately pleased with itself. "Can we do that again?"
+
+Cale squinted. "You realize you're going to track sand all over the academy, right?"
+
+"Obviously," the golem said. "It would be an aesthetic improvement. More places and things should be covered in sand. Like the elves and their trees."
+
+"I don't think the elves are going to like that."
+
+Syphus stared at him blankly.
+
+Cale grinned. "Yeah, good point. Trade you for two more spells?"
+
+"Deal."
+
+Cale was having a great deal of fun.
+
+After the first few rounds, he'd started letting up on his barrier, if only because the onesided nature of three students casting spells at him was beginning to bore him. Besides, it wasn't like he was afraid of pain, and he liked exerting himself once in a while.
+
+It turned out to be a fantastic decision. He'd discovered that labyrinth mana tasted a bit like a mix of chocolate and mint, for instance. Decay didn't have any more of a taste than the last time he'd tried eating it, though it had something of a smoky flavor without his barrier in the way.
+
+"Sand mana just tastes like sand, though," Cale remarked, trying to get the last few bits of sand out of his mouth. Syphus was watching him with something like either amusement or appreciation; he wasn't sure which. Maybe it liked that he was willing to try tasting sand? It seemed very convinced that sand was the superior element.
+
+"For the last time," Leo said, exasperated, "it's not sand mana after Syphus conjures it. It's just sand. Syphus isn't even using sand mana for the spell!"
+
+"Yeah, but I wanted to see your face after I tried eating it," Cale said. Leo buried his face in his hands, groaning something underneath his breath.
+
+Cale just beamed. That was entirely worth it, in his opinion. Besides, he'd eaten worse things than sand. And he'd learned a few more things about his new resonance besides!
+
+First of all, his physical endurance and reactions were better. It would still be foolish for him to take on Syphus without a barrier, but he could dodge some of its physically-enhanced blows now. He could outright take a hit from Leo, and while the difference in mass sent him flying, the impact didn't actually hurt.
+
+He could outright carry Damien around too, but the dreadshade didn't really have weight, so that didn't count for much. He'd just done it to see him yelp.
+
+There was a final test he wanted to do. It was almost time for the next class—Cale fully intended to be exceptionally punctual for Graystalk, this time—but one of the spells he'd acquired he was pretty sure he could cast with minimal repercussions no matter what it evolved into.
+
+He wanted to test the "improved mana control" that draconic resonance gave him. Maybe he'd be able to cast something at an even lower tier now.
+
+Cale poured as little mana as he could into [Disorient], then waited for the Gift to take over, his eyes gleaming in anticipation. What sort of spell could his improved control grant him?
+
+Cale entered his next class with Damien right behind him, both of them looking mildly mortified. They were very early indeed—so early, in fact, that no one other than Graystalk was in the class. The professor looked up at them as they entered, his expression impassive at first, then brightening as he recognized Cale.
+
+Then his brows furrowed, puzzled. "Cale," he said slowly. "And you are... Damien, yes?"
+
+Damien nodded timidly.
+
+"Very well." Graystalk paused for a long moment. "Would you care to explain why the two of you are walking on the ceiling and covered in what appears to be sand?"
+
+Cale shrugged helplessly. "I evolved a spell?"
+
+There was a long silence.
+
+"Now this I must hear about," Graystalk said, folding his arms delicately across his desk and doing his best to suppress his laughter. "Tell me everything."
+
+"It's not going to help if I say it's embarrassing, is it?"
+
+Graystalk's lips twitched with amusement. "No, I believe it will not."

@@ -1,0 +1,165 @@
+---
+id: 6fb7d77c-627b-5ffb-af07-dac6650dd5cd
+page-type-slug: story-chapter-royal-road
+title: "91 — Book 2, Chapter 39 — Red Symphony, Pt 1"
+slug: 0091-91-book-2-chapter-39-red-symphony-pt-1
+partOf: just-add-mana
+position: 91
+ownLength: 2963
+unit: words
+ownProgress: 2963
+publishedAt: 2026-01-24
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2974711/91-book-2-chapter-39-red-symphony-pt-1"
+royalRoadId: "2974711"
+markedReadAt: "2026-06-29T18:50:46.458Z"
+---
+
+The biggest problem with [To Dance Upon the Web of Life] was the amount of subjective time Cale had to experience. The specifics of the spell were lost to him, though Vital had explained it once before: it had something to do with potential mycelium networks and information transfer and using magic to play around with the definitions of both.
+
+It was all very impressive and a clever workaround for a Monolith whose domain didn't usually involve teleportation. It was also near-instantaneous, which was even more of a miracle, considering what the spell actually did. The spell had to break down the physical body of its target, then reconstitute it elsewhere. Vital had managed to tweak it so that the process was both painless and immediate, but he'd never quite been able to fix the subjective time issue.
+
+For reasons unknown to him, no matter how quickly the spell operated, the mind of its target would experience time as though they were moving at a fixed speed. That speed was still pretty fast, so Cale wouldn't be stuck inside the semi-realized construct of a mycelium network for subjective hours or anything, but it would feel like several minutes were passing at the least.
+
+Which was better than it could have been. The Golden Sands and the coast of Aersheld weren't that far apart. Cale had been forced to endure several hours of the spell once already, and he wasn't sure if he could handle hours of disembodied transportation a second time. Especially not now, when it felt especially dangerous for him to be left alone with his thoughts.
+
+Cale knew that it had helped, in some immaterial way, to have finally talked about his past with his apprentices. It helped to know that even if things changed, they wouldn't change completely. Even Flia, who seemed most reluctant to accept what he'd done, chose not to impose those feelings on him; she understood how much the decision had cost, and though the scope of what he'd done worried her, she still felt she knew who he was.
+
+The problem didn't lie with any of his apprentices, or with the fact that he'd spoken about the events of the Planar War. The problem was that the memories were fresh now, old wounds had been opened and aching. Those wounds had never really healed in the first place, of course, and so he was raw and vulnerable in a way he wasn't used to being.
+
+In the span of a few hours, he'd witnessed an echo of the Planar War in the Aspect Cascade. He'd confronted two friends he thought long dead, first the Icon of Battle, who had been broken and enslaved for what must have been the better part of several centuries, if not longer; Icon had been reluctant to elaborate, knowing what it would do to him.
+
+And he might have saved Icon in the end, but everything he'd seen of Vital told him his friend was well and truly gone. All that was left now was a vestige, and even that was something he was going to have to let go once this was all over.
+
+Cale was resilient, but a lot had happened, and dwelling on any of that—in particular, dwelling on who had caused all of it—was dangerous for him. Trapped as nothing more than a disembodied mind, however, he had little other choice.
+
+...Come to think of it, this was probably why Vital had given him that warning in the first place, wasn't it? The Monolith knew him better than most, and was keenly attuned to all his tendencies; he knew that if Cale was given the opportunity, he was probably going to spiral.
+
+It was kind of annoying that he was right. After all this time, he would've liked to have changed in some way that was surprising. Apparently that was just the fact that he'd picked up apprentices. They weren't even the first ones he'd picked up!
+
+They were the first ones he'd allowed himself to get close to, though.
+
+Cale let out a mental sigh and tried to focus on the more positive side of things. He hadn't expected to be able to speak to Vital again, and the fact that there was even a vestige left brought him a warmth he hadn't been expecting. If he hadn't listened to Damien and the others, he might have never gotten this opportunity at all. That was encouraging.
+
+And there was the fact that the Brightscale Academy still awaited him once this was all over. His apprentices hadn't abandoned him, even knowing the truth. They'd been able to save Angus on top of it all, an outcome he hadn't even dared hope for when he first realized what had caused the Aspect Cascade. It bode well for what his apprentices might grow into.
+
+Which was contingent on him stopping the Red Commander once and for all.
+
+The Red Commander was the sole mind behind the Red Hunters. He had orchestrated the capture of all those Abyssal Ones, creating impossible relics he used to capture and enslave all who opposed him. The tactics were more subtle than what he was used to from the Planar War, but he'd heard from Serof about the state of the mothfolk, trapped in the Watchful Hive. And Izzik had told him about the nightmare that was the Aspect Cascade, of everyone that had been taken from him the day it appeared.
+
+Cale had been on Utelia for barely a handful of days and had already seen the fingerprints of the Red Hunters in every nearly disaster and atrocity he'd encountered. It was at the hands of the Red Commander that the Icon of Battle was broken and enslaved. It was through him that Angus's soul had been torn apart, used as fuel for the storm that took the lives of half the lizardfolk of the Golden Sands. How much had that single event affected Izzik, or Kazza?
+
+And the Commander had used one of their own people to do it, too. It was...
+
+Cale didn't want to think it, but it was just like the atrocities he'd seen those Lower Branch cultists pulling off time and time again, back during the Planar War.
+
+The thought should have strengthened him for the fight that was coming. He knew more than anyone else how important it was, and the thought that any of it might be coming back should have reminded him how important it was for him to protect the precious drop of peace he'd found.
+
+Instead, even with the millennia that had passed since, Cale felt suddenly like he was caught once more in the grasp of that war.
+
+Without a body, he couldn't take a deep breath to steady himself, couldn't clench his fists, couldn't do anything to express even a fraction of the anger he felt at being brought back to this, in the one life and in the one moment he finally thought he might have a fraction of peace.
+
+What else was the Red Commander responsible for? Even now, if he reached out with his mana sense, he could feel an ugly power wrapped around a Greater Indictment. Only moments after losing the Icon of Battle, the Red Commander had taken control yet another being. Where would it stop? The students from both Brightscale and Haelforge, enslaving the entire clan of mothfolk, what had happened to Sternkessel...
+
+Something within him snapped. Hot rage transformed into cold fury.
+
+His mana sense said that no one else was around.
+
+Good. There would be no collateral for what was coming.
+
+Cale Cadwell Cobbs did not step out of the fungal bloom that placed him in Aersheld, because Cale Cadwell Cobbs was not the mask he needed to wear at the moment. While that version of himself felt increasingly like less of a mask, he was still capable of discarding it when necessary.
+
+This felt necessary.
+
+There were justifications, of course. Whatever else the Red Commander was, he was also an avatar of the corrupted and excised pieces of the Source. Where he had come from and how all this had happened were still questions that needed to be answered, but the link itself was undeniable. If Cale felt any doubt, then the mark of the Lower Branches burned into the pauldron of the Commander's armor eliminated it.
+
+So when Cale stepped out of the bloom, he was no longer Cale Cadwell Cobbs. Nor was he Yggdrasil's End, who had earned that moniker but had hated every moment of it. The Mad Mage may have fit the moment, in a way, but what the Mad Mage represented was something of a more calculated anger—a man capable of using any means to achieve a goal.
+
+He'd earned worse names, though. Like the one he tried to forget about. The one he'd earned at the height of the Planar War, when the last of his friends and crew had died or left, and his worldship was left empty of all but himself. The Monoliths had yet to join him, at the time, and he'd had almost nothing left in the way of options. Almost nothing left in general, really.
+
+So he'd taken it upon himself to end every Lower Branch cultist he could find. To depose every tyrant and dictator in every realm he could reach. He'd said it to his apprentices, even. He tried everything he could to stop the war, to avoid the necessity of destroying Yggdrasil.
+
+One of those things he'd tried had been fear.
+
+The memories still weighed on him, in a way, and part of him wondered if he could truly slip back into this mask. Perhaps too much time had passed, and that cold, scarred part of him was gone or weak. Instead, the mask slid into place as if it had been there all along, hiding just beneath the person he wanted to be.
+
+It would have been worrying how easy it was, but Torment's Shadow did not worry. It had no use for such things.
+
+There were tales told of Torment's Shadow. It made no effort to hide its work. It wanted the stories to spread—wanted the would-be dictators and petty tyrants to hear its name and fear what would come for them. Those that caught sight of it spoke of the detached fury in its eyes, of the tears it always seemed to shed, and yet in spite of those tears it never stopped what it was doing. It was ruthless in its work, giving none of its enemies any quarter.
+
+And above all—unlike any identity that came before or after—it was not kind.
+
+It had its rules, of course. It would not harm the innocent or the young. There was a legend that needed to be told, something real and visceral and capable of invoking terror. Torment's Shadow did not try to invoke hope, for the realms it visited were long succumbed to misery and ruin. It did not offer warmth nor shelter, nor make the same countless promises it had failed to keep.
+
+When the people of Yggdrasil whispered its name, it was not because they wished for freedom. Its name and legend promised only one thing.
+
+Revenge.
+
+Those that prayed to it knew there was nothing left for them except to know that the perpetrators of their suffering would suffer as they had. Torment's Shadow stalked the branches of Yggdrasil, delivering exactly that to realm after realm. Its legend spread in exactly the way it intended, making the cult fear every shadow, every whisper of its name.
+
+It even brought peace, in a way, though it was a broken sort of peace. Torment's Shadow promised the peace of satisfaction instead of closure. The hope it gave, however, inadvertent, was a hope without a future.
+
+It spoke to the state of the realms, perhaps, that even that hope was a hope their people clung to.
+
+Regardless, Torment's Shadow was what it needed to be. Cale Cadwell Cobbs would think and reflect and look for opportunities, but Torment's Shadow could break an opponent without flinching and fight without hesitation. By the time it stepped out of the fungal bloom, eyes cold and dead, it had already begun pouring mana into its opening spells.
+
+Two of them at once, in fact.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Starlight Font] has evolved into [Starlit Barrage]!
+
+[Starlit Barrage, Level 1] [Twelfth Tier (Unique), Active] [1.0e30 Mana]
+
+Conjure a barrage of miniature stars, each one at minimum capable of affecting lower-mantle dwarfsteel.
+
+This spell automatically prioritizes the destruction of armor and other physical accessories by instantly transferring all energy within a conjured star to its target item or limb. Any item destroyed in this way may cause severe burns due to the nature of its destruction.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Plasma Transmutation] has evolved into [Hand of the Plasmic Godsmith]!
+
+[Hand of the Plasmic Godsmith, Level 1] [Fourteenth Tier (Unique), Active] [1.0e32 Mana]
+
+When triggered, transmute all plasma within range into divine-grade starsteel that may be freely reshaped and manipulated for the duration of this spell. This spell may be held at the ready.
+
+Cautionary note: divine-grade starsteel is not considered a suitable material for a realm of this level and will continually burn any subject in contact with it, including fire elementals and other constructs typically resistant to heat.
+
+Torment's Shadow knew that if its apprentices saw this, they were likely to protest. It was glad that they weren't here. In a distant sort of way, it knew that without them, it would not be coming back.
+
+Behind it, the sky darkened, then filled in with a dozen miniature stars, each one pouring out enough mana and condensed power that they carried their own gravitational pull. Torment's Shadow tilted its head, and they shot toward the Red Commander with unerring precision, blazing trails of cosmic fire through the air.
+
+Something in its eyes seemed to spook the Red Commander. There was a momentary panic in his expression as he glanced up at the sky and at the magic suddenly targeting him. "You can cast?" he shouted. "You aren't supposed to be able to—"
+
+He cut himself off, perhaps realizing that it was a waste of time to speak instead of break the spell. A red pulse rippled from him, no doubt an attempt to dispel the barrage; Torment's Shadow noted distantly that it might have worked on a spell of the tenth tier or less. It would have to avoid those lesser spells, then.
+
+The Red Commander snarled, then made a rough gesture, a second attempt to block the spell. Thick trails of blood poured out of his armor, their ends solidifying into makeshift shields of flesh and bone, radiating with corrupted power. The blood stayed in place as tendrils that kept the Commander attached to his shields, allowing him to move each one independently.
+
+And move them he did. A full eight out of the twelve stars were deflected, slapped to the side and spearing deep into the ground. Torment's Shadow watched as each star speared a deep fissure into the realm, reflexively dispelling them before they fell too far.
+
+The other four, however, whirled around the shields to settle and strike on the various pieces of the Red Commander's armor: both of his gauntlets and one of the greaves. The fourth made for the final limb, but Torment's Shadow twitched a finger at the last moment, and the star instead burrowed straight into the Red Commander's helmet.
+
+In an instant, all four pieces of armor turned into plasma. And unlike [Plasma Transmutation], which seemed to create plasma that was held together by the plasma aspect, these pieces threatened to vaporize and explode instantly. They held for only a moment.
+
+Torment's Shadow used that moment to activate the [Hand of the Plasmic Godsmith], turning each transmuted piece of armor into divine-grade starsteel the realm itself wasn't meant to support.
+
+The Red Commander stumbled back with an agonized scream. The acrid smell of burning flesh filled the air, and his skin bubbled and popped, melting into his throat and choking off the scream for a half second before a pulse of flesh-shaping magic forced it back into place.
+
+Torment's Shadow did not react. Instead, it spoke, its voice bland and empty.
+
+"I thought you might appreciate the upgrade to your armor," it said, quietly activating [Blistering Physique]. "Divine-grade starsteel is hard to get, you know. Even for me, that kind of metal would take a few minutes to cut through, and that's assuming you don't have any measures in place to protect against my barriers."
+
+It half-crouched to stare at the Red Commander, who was still scrabbling impotently at his helmet. The corrupted flesh magic he used was enough to keep him alive, and he was evidently used to some level of pain, because anyone else should have been utterly incapacitated by it.
+
+"What are you doing?!" the Red Commander rasped. Torment's Shadow tilted its head curiously for a moment before it realized the Commander wasn't even talking to it. He was talking to the Greater Indictment he'd trapped into servitude.
+
+It had forgotten about that Indictment for a moment. It looked at it now, a broken thing with pieces of corrupted armor clinging to its form like melting glue, and the Indictment stared back at it.
+
+"Help me," the Red Commander shouted.
+
+"As you wish," the Greater Indictment said. Torment's Shadow didn't miss the way his gaze lingered on the Commander, as if he would much rather do nothing. But the armor fused into him flickered regardless, forcing him into obedience.
+
+He reached out to swipe at Torment's Shadow.

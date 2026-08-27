@@ -1,0 +1,87 @@
+---
+id: d3494a22-1bc2-5f2e-9cef-49696ec99b85
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: Tactical Withdrawal"
+slug: 0080-chapter-42-tactical-withdrawal
+partOf: labyrinth-of-the-mad-god
+position: 80
+ownLength: 1548
+unit: words
+publishedAt: 2024-10-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1864993/chapter-42-tactical-withdrawal"
+royalRoadId: "1864993"
+---
+
+Nick looked over his shoulder as he ran, turning in time to watch the Janitor finish off the last beast that was attacking it. It gave him a chance to witness its other ability in action, which seemed to operate on a different principle than the explosive blasts it had unleashed in its blob form.
+
+Instead of a beam of force erupting from the mutant’s position, the warrior roach was lifted into the air in front of the creature, exoskeleton cracking beneath the intense pressure. After one final squeeze, the beast was flung across the enclosure as if it weighed nothing at all.
+
+Nick could see a vague outline of two long arms made of condensed force mana hovering above the Janitor, before his attention was drawn to the chaos that ensued a few seconds later.
+
+The party was headed away from the freaky white shark, circling the room to try to get behind the roach army before the mutant could catch them. The queen and the rest of her forces were charging for the exit, carrying their eggs with them, heading straight for where the rats were waiting.
+
+Before the party could cross the last stretch of ground, the gear-swarm made their move. Thirty mechanical scorpions appeared, forming a sold wall of brass across the entrance to the passage. Behind them, a dozen gear-turtles stood in a loose formation. Their overlapping magical shields covered the entire area, each specialized to repel a different element.
+
+The beasts saw them appear and tried to turn aside, but it was already too late.
+
+The moment that the roaches were in range, the scorpions took aim and let loose, sending a barrage of magical blasts plunging into the first wave of bugs. The line of roaches leading the pack were hit hard. Most of them simply exploded after taking multiple shots at once, sending plumes of ichor and chitin-covered body parts flying out in all directions.
+
+The roach queen shrieked out in fury, as her elite guard fanned out to protect her from the scorpions’ assault. The egg-carriers bunched up behind them, where they were shielded from incidental fire.
+
+By now, the Janitor had turned and was headed in Nick’s direction. If it kept coming for his team, it would skirt the periphery of the insects’ formation sometime within the next thirty seconds.
+
+They had managed to open some distance, but the party still had a ways to go before they would be close enough to use the horde for cover. A few bugs were standing in the mutant’s path, but they were scrambling out of the way instead of closing to attack.
+
+Nick wasn’t sure what was going to happen next, but he was about to find out.
+
+The roaches decided to try to break through the blockade rather than taking any more losses fighting the regenerating, force-wielding monster. They kept right on coming for the gear-swarm, their heavily shielded warrior models leading the charge.
+
+Several of them fell to the scorpions’ shots, but the armored bugs were far less susceptible to the magical blasts than the other variants. The squadron of warrior roaches made it under the swarm’s shields, intending to break through their ranks and take out the turtles maintaining the multilayered barrier.
+
+Before the bugs could reach the back of the constructs’ formation, a massive wave of gear-rats pushed through to the front, covering the lead roaches in a living blanket of brass.
+
+This marked the beginning of a brief but intense melee. Dozens of machines were defeated within a matter of seconds, disappearing with pops of displaced air as they teleported back to the pocket dimension where the entity controlling the swarm resided.
+
+In exchange, the rats devoured the roaches, eating them down to the stumps of their legs. The bugs pulled back and began launching ranged attacks instead. Jets of flame and globs of acid slammed against the turtles’ shields, but it wasn’t enough to bring down the magical barriers.
+
+The roach queen roared out in fury. But she wasn’t going to be able to break through without taking severe losses, including all the horde’s eggs. She ordered a retreat, and the bugs began pulling back from the passageway, regrouping where they would be out of range of the swarm’s assault.
+
+“Burn stamina everyone,” Devin yelled. “Or we’re not going to make it in time.” As everyone else pressed their bodies into a burst of speed, Devin reached over and picked Shaun up, carrying the young man along with him.
+
+The party took advantage of the bugs’ confusion to run past the edge of their formation without engaging, heading for the far corner of the room.
+
+The Janitor paused to eat the last nearby insect, then continued charging for Nick’s team. But it came to a stop again when it realized that the bulk of the horde was now positioned between them. It looked like it planned to barrel straight through.
+
+Before the mutant made its next move, the constructs made theirs instead. The gear-swarm changed targets now that the bugs had fallen back, and the shark was in range.
+
+The scorpions began firing at the Janitor instead, whittling away at its health until it darted out of reach. It started trying to circle around the horde. But it was unable to get past now that they had repositioned to defend their eggs and queen.
+
+At this point, every combatant in the room came to the same conclusion. No one was leaving until every other opponent lay dead on the floor. It was going to be the final resting place for three of the four warring forces.
+
+The queen screeched out a command and the roaches fell into formation, a curved line facing the Janitor and the gear-swarm. Their forces spread out with the warriors up front, the flamethrowers in the second rank, and the acid-spewers in the third.
+
+That’s a solid strategy, Nick frowned. It lets them bring their full might to bear on anything advancing from the front. The wall is guarding their back, and they can change their facing as needed.
+
+The regular roaches filled in the gaps, with half of their number serving as units of mobile skirmishers. The queen positioned herself behind the third line, just in front of the eggs, with a small group of elite warriors defending her flanks.
+
+The good news was that the bugs looked ready to go all out, intent on taking down the Janitor rather than trying to escape.
+
+Unfortunately, this also meant that the roaches no longer had a reason to keep Nick’s party alive. The queen was furious that Team Earth was standing behind their formation, using the horde as a shield. That being said, she seemed to view the humans as an annoyance, while the mutant and the brass machines were a true threat.
+
+The roaches sent a squad of mixed forces skittering for Nick’s team, but most of them were preparing for a showdown with the Janitor. A few final units moved to guard the egg bearers, as the rest spread out to launch an assault on the white monster standing in the middle of the room.
+
+While the party got ready to engage the beasts headed their way, the massive roach queen cast another round of magic, some manner of aura that made half the bugs glow with a soft golden light. Every affected insect began moving faster. Sophia let him know that they would be stronger and tougher too until the spell wore off.
+
+“Stick to defense until we learn how this is going to play out,” he said. “Try not to piss the queen off in the meantime.”
+
+He wasn’t sure how he wanted to use his mana yet. He took his stance beside Devin, while the other three members of his team got ready to fire off some ranged attacks. Meanwhile, Sophia finished summoning a pair of frostfury wasps, bringing the total to four. They began circling in the air above his head, with her spear-tongue standing below.
+
+Nick judged that it would take another thirty seconds for the bugs heading his way to finish closing the distance. It gave him a chance to check out what was happening in the middle of the room. He opened his senses and watched as closely as he could, trying to learn more about the two gigantic creatures before he had to fight them himself.
+
+By now, the roaches were ready to make their move. Their melee units were poised to charge the Janitor in staggered waves, spreading out to minimize the damage they took from its force-based attacks. The ranged squadrons were set to follow behind them, preparing to bathe the mutant in a continual barrage of fire and acid.
+
+As matters stood, Nick thought that the beasts had a good chance of pulling this off. Assuming that they were able to either overwhelm the Janitor’s regeneration outright or deplete the pool of mana powering its ability.
+
+Its healing is potent, but it’s not invincible. Case in point, the creature still had visible damage across its white surfaces, although they were gradually fading away.
+
+However, he had underestimated the mutant’s intelligence. Because at that point, the Janitor switched tactics, changing the dynamics of the battle in an instant.

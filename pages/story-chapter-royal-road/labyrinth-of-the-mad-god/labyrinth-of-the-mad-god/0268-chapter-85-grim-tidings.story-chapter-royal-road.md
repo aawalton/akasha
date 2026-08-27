@@ -1,0 +1,99 @@
+---
+id: 559612f2-a6f8-52a8-95a2-76351e1c354d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85: Grim Tidings"
+slug: 0268-chapter-85-grim-tidings
+partOf: labyrinth-of-the-mad-god
+position: 268
+ownLength: 1703
+unit: words
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2890727/chapter-85-grim-tidings"
+royalRoadId: "2890727"
+---
+
+Nick was on his way to the bathhouse to enjoy a soak in the heated pool when a message from the System wavered into existence.
+
+It informed him that one of his people had cleared a five-star dungeon. Aurora had received a Rare voucher as a reward, along with a hefty pile of City Points. Since the training dungeon was only one star and the only other dungeon he knew of was locked behind the puzzle door, he realized Sophia must have cleared it on her own.
+
+He smiled—proud of his friend’s accomplishment despite the bittersweet emotions swirling in his chest. Part of his mind was already pondering which Rare structure the planning committee should add to their list, but most of his attention was focused on Sophia and the demon dwelling inside her.
+
+Just keep doing what you’re doing and don’t let it win. I know that you’re trying to protect us, but you aren’t in this alone. Your friends are hard at work, doing everything we can think of to help you come out on top.
+
+Nick had already recorded everything he could remember from his struggle with the Crimson Blight. The dynamics of their situations were different, but if one of his insights could aid Sophia in even the slightest way, he wanted to share it with her before it was too late.
+
+The research team was surveying Aurora’s citizens, sifting through everything they had experienced in the Tower of Rizzen for clues that would boost Sophia’s odds of defeating the demon. He wasn’t sure how to contact her yet, but he was hoping that as the city increased its tier, some kind of communication network could be purchased or won.
+
+When he left the bathhouse, Nick let the committee know about the Rare voucher. They spent a few hours discussing their options—ultimately tabling the matter until they had more mana wells at their disposal and knew which choices were viable. He got in an intensive conditioning session, took a few laps around the lake, and enjoyed his daily sparring sessions with Ella and Fritz.
+
+After that, he had the rest of the day to use as he pleased. While he was driven to advance as quickly as he could, Nick couldn’t spend every waking moment training, or the stress would wear him down and the cost would outweigh the benefits.
+
+He spent some time every evening visiting with his friends and socializing with the town’s other residents, but he’d realized that something was missing. When he asked Liz for advice a few days earlier, she told him that he needed to balance out his routine and suggested he pick up a hobby that would help him relax and use his brain in other ways.
+
+After browsing Kerry’s wares and talking the matter through with the friendly shopkeeper, he had decided to take up drawing.
+
+Nick had been sketching in his journal ever since receiving the book before entering Blackmist Bog. After months of practice and boosting his attributes to superhuman levels, he had gotten rather good in his humble opinion.
+
+He liked picking out a scene and bringing it to life—whether it was a gorgeous landscape in front of him, a memory he carried with him, or something that had only existed in his imagination before putting his pencil to paper.
+
+He drew everything he could remember from his old life. Faces and places from the world that was. He added the wonders and horrors he’d witnessed while fighting to save the Earth, sketching alien panoramas from a multitude of worlds.
+
+From time to time, someone would ask to see his drawings. Some were curious about life on other planets and others were researching one topic or another. He was happy to oblige and made several new friends who enjoyed the same pastime.
+
+After finishing his latest sketch, he walked to the commercial district for an appointment he had made several days prior.
+
+Now that people were selling services in addition to bartering for goods, Nick found himself sitting in a barber’s chair for the first time in his new life. The man had worked out a deal with the earth shapers and some other crafters to create a small salon that was stocked with everything from a swivel chair to a hair-washing sink to an impressive collection of scissors and brushes.
+
+He had been cutting his own hair for so long that he had forgotten how much better it looked to get it done professionally. Nick walked away with a smile on his face. Liz did a double take the next time she saw him, blushing when he caught her checking him out.
+
+The exchange left him in a fantastic mood. Aurora still had a long way to go before it was thriving metropolis instead of a Frontier settlement, but they were getting a little closer every day.
+
+***
+
+Nick was working with the planning committee, getting ready to place a few auxiliary buildings when a message appeared before his eyes. The single line it displayed made his blood run cold.
+
+One of your citizens has died.
+
+Panic gripped him as he opened his citizen roster and read through the list, which he had memorized thanks to his high Mind.
+
+He was terrified it was Sophia or one of his other friends. A pungent blend of sorrow and relief washed through him when he saw that it was Ethen—the crossbowman he had first met near the base of Darkstone Tower.
+
+Kenji organized a rescue party and they left within minutes of hearing the news. They returned a few hours later with the other members of Ethan’s party along with the warrior’s remains.
+
+It turned out that they had been ambushed by a monster. The creature resembled a colossal antlion, and the party had fallen into its pit. Ethan died while pulling people out of the sinkhole, saving everyone but himself in the process. Kenji’s group eliminated the menace, but by the time they arrived, the man had been dead for over an hour.
+
+It was the first time that a member of Team Earth had fallen since the battle with the Guardian, which was both a testament to their measured approach and a tragic event. Later that night, everyone who knew the man gathered to hold a wake, sharing stories and remembrances while consoling one another.
+
+Nick spent hours talking to Ethan’s closest friends, Kira and Elaine. He left the gathering in a somber mood, determined to do whatever he could to make sure nothing like this happened again. He knew people would die despite his best efforts—that life in the Labyrinth was fraught with peril—but he would everything in his power to keep his people safe.
+
+***
+
+“Nick, we have an emergency!” Liz’s voice dragged him back to the world of light from the murky depths of dream.
+
+He leapt out of bed, threw on his clothes, and rushed down the stairs, grabbing his pack on his way out the door. He began strapping on his gear as she ran to his side, issuing orders to a pair of messengers along the way.
+
+“We’ve discovered another settlement,” she explained. “A hundred and fifty miles to the northeast. One of our scouts has long-range communication magic and she just sent word that the city is under attack. A sinkhole opened and a swarm of monsters came boiling out. They managed to repel the first wave, but they need backup now. Kenji is getting a squadron together, but the only people who are quick enough to get there in time are you and…”
+
+Her sentence was rendered obsolete by the same event that interrupted it.
+
+In a flash of crackling electricity, a woman came streaking into view. She was moving so fast that Nick could barely track her with his eyes and energetic senses combined before she came to a skidding stop beside Elizabeth.
+
+It was Laura, the lightning-wielder who had fought beside Mirium during the battle with the wurm. He hadn’t realized she could move like that, which had to be the result of an ability she’d obtained over the last few weeks.
+
+“Do we have any idea what they’re facing?” she asked Liz.
+
+“A swarm of monstrous ants, as far as we can tell. The scout didn’t spot any offensive magic, but their attributes are incredible for their size. We don’t know how many there are, if there are more than one kind, or how deep their nest goes. But if their city core is destroyed, it will be an incalculable loss, and their lives are even more important.”
+
+She continued her rapid-fire briefing, outlining the settlement’s location and everything the scout had reported about the monsters attacking it.
+
+While Nick listened, he took a good look at the elite lightning mage. Size Up informed him that Laura could dish out some serious damage with her magic. Her melee skills were decent, although not as good as his own.
+
+The blond woman was wearing her chainmail, which was modified to weigh next to nothing and didn’t restrict her mobility. The collapsible metal staff she carried was strapped to her backpack, and the rest of her gear was infused with powerful magic.
+
+As always, he found Laura’s electric-yellow eyes to be captivating, especially the miniature bolts of lightning that danced around her irises. The mage met his gaze, looking away when a runner arrived with a map in his hand.
+
+Elizabeth handed it over and said, “Here’s the route our scout took to reach the settlement, along with everything we know about the surrounding terrain. She is waiting in the area and will provide backup when you arrive.
+
+“Defeat the monsters if you can, but don’t risk more than you must. If you can hold out for a few hours, Kenji and Ella will arrive with reinforcements.” She reached out and squeezed his hand. “Don’t die, no matter what. We will do our best to save them, but we can’t afford to lose either of you.”
+
+“Got it.” Nick handed Laura the map after memorizing its contents. Liz pulled him in for a fierce hug then left to help Kenji as the duo got ready to head out.

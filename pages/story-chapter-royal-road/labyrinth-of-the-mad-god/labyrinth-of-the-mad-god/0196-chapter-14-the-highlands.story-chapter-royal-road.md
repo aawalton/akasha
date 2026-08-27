@@ -1,0 +1,111 @@
+---
+id: ace3b9c6-9c46-54e1-a6f6-e030eca91b8b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: The Highlands"
+slug: 0196-chapter-14-the-highlands
+partOf: labyrinth-of-the-mad-god
+position: 196
+ownLength: 2083
+unit: words
+publishedAt: 2025-07-16
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2440596/chapter-14-the-highlands"
+royalRoadId: "2440596"
+---
+
+Even though he hadn’t found any challenges or chests behind the waterfall, Nick was satisfied with the hidden point of interest he’d discovered.
+
+The mana-rich cave was a perfect place to hone his energetic senses and work on mana manipulation. On top of those amazing benefits, performing his katas in front of the falls had helped him focus, and the endless rumbling was soothing to his soul. Once he was reunited with his friends and they founded a city, he planned to return here to train while pursuing his other goals. The city bonuses sound great too. I hope we can claim this resource before someone else finds it.
+
+After stripping down to his skin to wash his body and gear, Nick came to a stop when he spotted his reflection in the basin—the first time he had taken a good look at himself since evolving to Grade-D.
+
+His brown hair was a mess from cutting it with a dagger to keep it out of his eyes, framing his hazel eyes and fine features. After attuning his core to force and pure mana, the top half of each iris was bordered by a band of silver, which he found to be quite striking and rather mysterious.
+
+He would have expected the stress and rough living to leave lines in his face, but he looked younger than ever—more like someone in his mid-twenties than early thirties—which reminded him that his natural lifespan had been extended by 100 years. His features had shifted just a little, to be more in line with his ideal self, but he still looked like Nick, at least from the neck up. The changes that had taken place to the rest of his body were far more substantial.
+
+Every inch of his frame was lean and toned, covered in muscles that made him look like a professional athlete. He let out an appreciable whistle as he turned to check himself out from a few different angles, astonished at just how much he had changed in just a few short months—how much everything had changed.
+
+“Looking good, Nick.” He smiled, got dressed, then left the cave and continued on his way. While lowlands were certain to feature some valuable opportunities, he had a hunch that the best rewards and most dangerous challenges would be found within the heart of the badlands.
+
+Thus, his next objective was to climb the sheer cliff separating the lowlands from the highlands. Based on what he had observed, the entire expanse was a giant slab of rock that stretched on for a hundred miles or more. It was a significant barrier, but not insurmountable given his recent gains.
+
+He spent a few minutes examining the rise, planning his route while making sure that nothing dangerous was lurking nearby. However, he couldn’t find any handholds, even after walking along the base for a few miles. The rock is surprisingly smooth. Once we establish a settlement and take care of needs like food and shelter, we should build something to make the climb manageable to everyone.
+
+While it was a tricky situation, it was also a perfect opportunity to try out an idea that had come to him the day before, while reflecting on the properties of Arcane Shield. If this worked out the way he hoped, Nick would have an easy way to climb the cliff whenever he wanted, or anything else for that matter.
+
+First, he pulled stones out of his bag until it was lighter than air and his body only weighed a few pounds. Then he conjured the smallest Arcane Shield he could. Alright. Let’s see if this works. When he jumped on top of the floating barrier, it started sinking the instant he touched it, crushing Nick’s dream of flying on one of the floating platforms.
+
+While it was a disappointing development, he wasn’t too discouraged. He was pretty sure that he could come up with something that would work eventually—after he advanced the ability a few ranks and selected the right upgrades. For now, he moved on to his backup plan instead.
+
+During his earlier experiments, he had noticed that when he leapt on top of a barrier that was braced against the ground, it wouldn’t wobble or tilt. As long as the bottom was touching a solid object, the shield would remain perfectly stable.
+
+Thus, he intended to solve the problem of the sinking platform by lining up one corner along tiny protrusions in the stone that were too narrow to grip. He grinned after performing a quick test run, since it seemed like his idea was going to work after all. Even a fraction of a centimeter of solid stone was enough to keep the Shield from dropping when he grabbed the top, and since his body was now light as a breeze, climbing the sheer cliffside was effortless.
+
+Each time Nick positioned the barrier, he grabbed the top and pulled to launch himself high into the air. He replaced the shield while he was in motion, then repeated the process.
+
+It was a little awkward and his technique could use some refinement, but it was good enough to let him scale the red rock. Ten minutes later, he crawled onto the top of the cliff and set his eyes on the horizon, gazing upon the highlands of the Bladewind Badlands.
+
+From where he stood, the terrain didn’t seem too different from the region below, although the soil was more yellow than orange once he walked past the rocky area and stepped onto the dirt. Cacti and tumbleweeds were prevalent in the main biome, along with scrub grass, scorpions, and serpents, including some massive rattlesnakes. Most of them were animals and seemed relatively harmless to someone his level. Nick doubted that they could penetrate his skin or their venom would affect him with his present Toughness, even if they could.
+
+He filled his bag with more rocks, then set off at a light jog—eager to find out what the day would bring.
+
+He followed the river for the next two days, spending some time training and conditioning each morning, and again when he stopped for the night. He didn’t run into any of his people or any hostile creatures, although he sighted some beasts in the distance that seemed surprisingly strong. I bet the Bladewind Badlands naturally attracts elite beasts—just like its drawing the toughest members of Team Earth.
+
+Since Nick wanted to reach the lake and brainstorm with his allies before the Rebuilding Civilization quest began, he didn’t take any detours.
+
+As he devoured the miles beneath his boots, he spotted some interesting landmarks that were likely candidates for points of interest and System challenges. He noted their locations on the map he was drawing, planning to explore them after he met up with his friends and established a settlement. With any luck, we can take out a City Boss—maybe even a Capital Boss if we find one. Hopefully, it won’t be too much stronger than the Guardian of Darkstone Tower.
+
+In addition to training his skills, he spent a few hours every day sensing the mana in his environment, learning to perceive several new types along the way. The practice wound up being a good way to boost his baseline Magic, which was something Nick had been having trouble with until now. Even though he couldn’t manipulate the energy outside his body, he was satisfied with his progress.
+
+On that note, he pulled up his menus to check out his recent gains.
+
+By engaging in rigorous exercise over a prolonged period, you have conditioned your body and improved the following baseline attributes:
+
+Strength has increased from [12] to [14].
+
+Toughness has increased from [14] to [15].
+
+By deepening your understanding of magical energy, you have improved the following baseline attribute:
+
+Magic has increased from [7] to [9].
+
+Nice. It’s awesome that I can condition my attributes to 25 after evolving. He grinned, then kept on reading.
+
+Acrobatics has increased from [4] to [6].
+
+Foraging has increased from [10] to [11].
+
+Light Armor has increased from [2] to [3].
+
+Size Up has increased from [11] to [13].
+
+Note: You may not increase your Sword skill beyond 25 until you complete the trial of mastery. The trial will not be available until the Rebuilding Civilization quest begins.
+
+Earlier in the afternoon, Nick had realized that this was the longest he had gone without getting into a fight that he could remember, which was both kind of fucked up and a welcome reprieve.
+
+He intended to aggressively level up once he was part of a settlement, which would kill two birds with one stone—since clearing quests and dungeons would help it gain City Points and grow—but it was nice to focus his development in other areas for a change.
+
+Although Acrobatics had gone up during his fight with the Guardian, his Stealth and Tracking skills hadn’t kicked in yet. He knew from experience that picking up that first point took considerable effort—usually involving a new way of conceptualizing the related activity. After that, raising the skill would be relatively easy until he pushed it past 10.
+
+It was nice to see Foraging and Size Up climbing again after being inactive for so long—like saying hello to old friends he hadn’t seen in a while. Although Nick wasn’t relying on Foraging just yet, it was certain to come in handy while exploring the Labyrinth, helping him find clean water and safe food and showing him how to obtain them. On the other hand, getting Size Up to 25 as soon as possible was critical to his survival, and he hoped to take the danger-sensing skill even higher eventually.
+
+His Sword skill couldn’t progress until he took the System’s test, but he didn’t want to jump the gun and attempt it too early, since there was a considerable penalty for failure. Besides, there wasn’t anything stopping him from improving his bladework the old-fashioned way, so the opportunity cost of waiting a few weeks wasn’t too high.
+
+While he was in a hurry, getting his other skills off the floor was important. It was worth taking an occasional detour to make that happen.
+
+With that goal in mind, he spent the next hour following some faint tracks along a sandy stretch of riverbank. He was trying to figure out what manner of creature had made them and what it had been doing that led to subtle variations in the pattern and depth of the prints it left behind.
+
+His experiences on the Searing Isle had been a solid introduction to the basics. Now Nick needed to consolidate what he’d learned from observing the island’s beasts and take his understanding to the next level.
+
+I think these tracks belong to a predator that hunts along the river. Judging by the width of the paws and the length of its stride, it’s around my size—maybe a little smaller. The prints get lighter and closer together whenever they reach a section of the bank with lots of birds nesting nearby, which means that it switched from covering ground to stalking its prey. Those toes and claws look like a cat rather than a coyote or wolf, although it’s hard to be sure with the knowledge I have.
+
+A feeling of rightness had accompanied several of his observations—a certainty that his insight had been correct. Some of the others didn’t resonate the same way, which either meant that his guesses were wrong, or those details were too advanced to fully process. Since the impressions had come from outside of himself, he knew it was his Tracking skill kicking in for the first time.
+
+Sure enough, when he opened his menus, there it was.
+
+Through use, you have improved the following skills:
+
+Tracking has increased from [0] to [1].
+
+Now that his Tracking skill was active, he could identify the prints with greater precision and intuit more from their shape. Awesome. Now I just need to jumpstart Stealth. I’ll have to wait until a good opportunity presents itself but training it should be relatively easy with all these beasts roaming the badlands.
+
+With a spring in his step, Nick ended his skill-training session and broke into a light jog. He smiled while basking in the beauty of the badlands, savoring the events of the last few days. These rare moments of calm felt almost painfully precious, and he was certain the next storm was already brewing along the horizon.

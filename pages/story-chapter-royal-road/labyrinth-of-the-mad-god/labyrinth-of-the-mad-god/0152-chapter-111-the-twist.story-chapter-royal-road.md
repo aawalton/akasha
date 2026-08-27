@@ -1,0 +1,71 @@
+---
+id: 6f277195-c0d9-5887-85f0-4c441de718f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 111: The Twist"
+slug: 0152-chapter-111-the-twist
+partOf: labyrinth-of-the-mad-god
+position: 152
+ownLength: 1557
+unit: words
+publishedAt: 2025-04-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2169207/chapter-111-the-twist"
+royalRoadId: "2169207"
+---
+
+“And there it is.” Devin winked and then brandished his axe. “Whenever something sounds too good to be true, it usually is. It’s Devin’s second law of the System.”
+
+Before Nick could ask what the first law was, a voice rang out from above—addressing them directly instead of communicating via the floating displays. It sounded vaguely synthetic but was far more lifelike than any construct Nick had encountered before.
+
+“Attention intruder-participants. The parameters for this evaluation have been modified, although the rewards have not been changed. All safety protocols have been removed and both challenge categories have been merged into a shared-trial format.
+
+“Instead of completing forty distinct trials with a period of rest in between each, you will instead participate in five dual-format stages. The first half of each stage will feature an environmental challenge, and the second will consist of a combat trial within that environment. The recovery period between each stage has been reduced from one day to one hour. Exiting the evaluation without completing the final stage will no longer be permitted.
+
+“As promised, survivors of all five stages will receive one Species-Evolution Pill each. The estimated odds of this occurrence have been reevaluated from .1% to .00001%. I hope that your deaths are agonizing, filthy intruders who have dared to violate the sanctity of a double-digit floor. You have one minute to make peace with your gods before the first trial begins.”
+
+“Yea. Fuck you too,” Nick muttered under his breath. This doesn’t seem nearly as promising as Pax led me to believe. I hope she knows what she’s doing.
+
+Since there weren’t any distinguishing features to the flat, sterile landscape, all the men could do was stand beside each other and wait to see what happened next. Not long after, the voice from above spoke once more.
+
+“Initiating challenge course stage one: The Ever-Winter Tundra. The nature of this environmental challenge is: Extreme cold. The condition for clearing the first phase is: Survive 24 hours.”
+
+When the final word faded from the air, there was a bright pulse of light, emanating from every surface of the vast chamber at once. Nick had to place one hand over his eyes to protect them from the piercing radiance.
+
+But he didn’t need his eyes to sense the moment that the world changed. In between the drawing of one breath and the next, he felt sunlight break over his skin. It did nothing to dispel the chill that had risen to fill in the air. A winter breeze began to blow, so cold that it made him shiver in an instant.
+
+When he took a breath in through his nose, the sharp scent of pine broke over his palate. Why is there wind in an enclosed space?
+
+When Nick lowered his hand and took a long look around, he found himself standing in the middle of a snowy clearing—a windswept tundra that stretched on as far as he could see in every direction. Were we just teleported? He looked up, only to discover that the bank of machinery was still there, seemingly floating in midair.
+
+“It seems that we’re both outside and inside at the same time…” Devin rubbed his chin. “A bit confusing, but some impressive magic by any standard. I’d love to explore but doubt that we have time to sightsee. It’s cold as fuck and the sun looks like it’s already going down. How much do you want to bet that this is the warmest part of the day?”
+
+“Devin, death flag.” Nick groaned, although he was sure that his friend was right. It was going to get a whole lot colder in just a few short hours, and it was already taking every point of Toughness he had and his temperature-regulating cloak to endure the chill. “Are you going to be alright?”
+
+“I think so. At least for now. A side effect of my core becoming fire-attuned is that I burn a little hotter now. A bit of bonus cold resistance to go with all the rest. Combined with my abilities, I can endure this for a while. We should hurry though. We need to either find or build a shelter, then get a fire going before the sun sets. At least lighting it isn’t going to be a problem.” He laughed.
+
+With that, both men began walking through the snow, heading for a forest in the distance. Nick kept his weapon at the ready and Sized Up everything in sight. While this was supposed to be an environmental challenge related to withstanding the cold, he wouldn’t put it past the System, or whoever was pulling the strings here, to toss in some hazardous terrain on top of everything else.
+
+When they came across a particularly tall tree, Nick stopped Devin with a hand on his shoulder. “Hold up. We don’t have time for a lengthy survey. We need to find out if there’s any shelter nearby, then decide what to do if there isn’t.” When Devin nodded his agreement, Nick walked over to the tallest tree he could find, picked out the handholds he wanted to use, and got busy climbing.
+
+He had scaled his fair share of trees back on the Searing Isle, and he made it to the top of this one without breaking a sweat. My improved attributes are really making a difference. I could do this all day. When he climbed above the level of the canopy, Nick pulled out his spyglass and took a long look around. Fortunately, the trees were sparse enough that it was easy to see the ground between them. “There’s nothing around for miles. No hills or houses or anything remotely resembling shelter.”
+
+Devin looked up and replied. “I just realized that we should have hit the wall of the tower a while back. This magic dome is awesome. I really want one, Nick. Do you think we can beg, borrow, or steal it if we play our cards right.”
+
+“I doubt it, Devin. But always dare to dream. What are we going to do? We could dig a big hole in the snow, but it will leave us blind to anything approaching and we won’t be able to build a fire. There’s no guarantee it will be warm enough, but it would be a lot better than camping on the surface of the tundra.”
+
+“That would make the most sense if we were back on Earth. But since we have these amazing new bodies and some really sharp weapons, I have a better idea. How about we cut down a fuck ton of trees as fast as we can and build ourselves a log cabin? I know a bit about carpentry, and it should be easy if we keep things simple.”
+
+Nick nodded his agreement as he climbed back down to the ground. “That’s probably our best bet, since it will let us build a fire. We can bank the walls with snow to provide insulation. Good thinking, my friend. Let’s get chopping.”
+
+The men needed to move quickly, but it didn’t make sense to start felling timber until they knew where they were going to build. They started running through the snow until they found a patch of flat ground without any protruding roots or too much powder on top—thanks to a dense cluster of trees serving as a windbreak.
+
+Nick took out his shovel and Devin used the flat of his axe to clear the ground of snow. The earth below was relatively level. After filling in a few holes with a shovel full of dirt, they were ready to start chopping, although they left the closest trunks alone to shield them from the wind.
+
+With that, they picked out some trees and went to work, unleashing heavy swings with their sword and axe. The trunks were resilient but couldn’t withstand the assault. The men were knocking them down in just a couple of minutes each, as needles and woodchips fell like rain.
+
+An hour later, the tundra had grown noticeably colder. Judging by its progress, the sun would set sometime within the next thirty minutes. Nick activated Kellen’s device to give them more light to work with as the shadows grew long with the end of day. Soon, the duo had a few dozen trees piled around them, which should be more than enough for their needs.
+
+By now, color was bleeding from the world, and the temperature was plummeting by the heartbeat. Even with the energy he’d expended chopping down the trees, Nick was losing body heat fast. They had to finish the shelter before night fell or they were going to freeze to death. Only their incredible Toughness, Nick’s cloak, and Devin’s fire affinity had let them endure the chill this long, but it wasn’t enough to save them past this point. They needed walls around them and a fire to keep them warm, or they wouldn’t survive another hour.
+
+Worse, the wind was picking up, and when Nick set his gaze upon the horizon, he saw a white smudge instead of the line where sky met ground. “Hurry.” He started stripping branches fast as he could. “I think a blizzard is coming.”
+
+“Of course it is.” Devin picked up the pace as the men struggled to complete their shelter, racing the rising storm.

@@ -1,0 +1,137 @@
+---
+id: 4af6ca01-8f19-5e89-ac8a-cd2662adac10
+page-type-slug: story-chapter-royal-road
+title: "470. Professional Hunter"
+slug: 0021-470-professional-hunter
+partOf: leveling-up-the-world
+position: 21
+ownLength: 2043
+unit: words
+ownProgress: 2043
+publishedAt: 2022-04-23
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/892517/470-professional-hunter"
+royalRoadId: "892517"
+markedReadAt: "2026-06-29T22:40:52.457Z"
+---
+
+“Hunter!” the one of the guards at the watchtower shouted as Dallion made his way towards the gate of Nerosal.
+
+The practice was annoying to the extreme, even if his title was not accepted. Half a year ago, he had to be stopped each time and go through a ridiculous process. At least now, there pretty much wasn’t a soldier or guard in the city that didn’t know him by sight.
+
+Home sweet home, Dallion thought.
+
+Despite the tensions in the empire and the rest of the world, the city had remained untouched. In part, that was due to it being in the most southern region of the empire. The new kingdoms nearby had declared neutrality, unwilling to feel the wrath of the entire empire, while the northern provinces were engaged in combat. It also helped that the city was brimming with soldiers and nearly every noble that had lost favor in the eyes of the emperor. It would be suicide to attack there, especially considering there was nothing to be gained from such an action.
+
+“Bringing some critters,” Dallion said as he passed through. Several of the soldiers gave the metal basket he was carrying a quick glance, then let him continue on his way unimpeded.
+
+Food? One of the squirrels asked. The time it had taken Dallion to reach the city, he had managed to learn the hedgerels’ language. It was a useful skill that simultaneously increased his writing and zoology skills. However, he had grown to regret it.
+
+Food! I smell food! Another joined in, followed by the yells of all the creatures in the basket.
+
+I’ll give you food! Dallion shook the basket in an attempt to calm them down. At least it was a good thing he didn’t have to make actual noises to communicate with them. Doing so would have been weird, even for him.
+
+Hello, Dal, a tavern greeted Dallion as he passed by. New catch?
+
+All part of the job, he replied.
+
+That was another thing to keep in mind. Ever since he had developed his empathy trait, the guardian of every item, building, and area in the city was able to talk to him. The first year had been tough, although now things had started to calm down a bit, mostly because he wasn’t seen as such a novelty anymore. As it turned out, buildings were like people: they lost interest after a while.
+
+Anything interesting happen while I was gone? Dallion asked.
+
+Merchants complaining about the wilderness and the plague. Nothing out of the ordinary.
+
+That much was a given. Somehow, merchants always found something to complain about. As far as Dallion was concerned, there was no better time to be a merchant. Kingdoms were all too willing to buy their wares at almost any price and always sent large escorts to protect them along the way. The only drawback was that the travel distance always varied. The old trade routes were somewhat disrupted, though not by too much.
+
+As he walked, Dallion got a whiff of a nearby bakery. The bread was freshly baked, and rather good by normal standards, but it wasn’t for awakened. The hedgerels, though, went crazy to the point that Dallion had to buy a dozen loaves for them.
+
+When I take you home, he said. No need to make a scene. Food’s tight even here.
+
+The creatures calmed down somewhat, though not that much.
+
+“Afternoon, Dal,” a stall seller said.
+
+She seemed like a nice young woman with a charming smile. Most of the neighborhood perceived her as such. Dallion, however, knew that she was part of the mirror pool—the sanctioned criminal organization that ran all the city’s underworld. Due to recent events, they had been keeping pretty quiet, but now, with the war, things were starting to change again. Every source of information was valued, and the mirror pool had lots of information to offer.
+
+“I’m not in need of handkerchiefs today,” Dallion replied, keeping up the pretense.
+
+“It’s a shame. I have some that would suit you. No rush, though. Just arrived from abroad. I’ll save it for you if you change your mind.”
+
+Fat chance, Dallion thought. This wasn’t the first time they had approached him in the last few months. Ever since he had become a hunter, the organization had sent feelers his way. There was a time when he had gotten involved with them, but that was before he knew how things were run.
+
+Dallion made his way to one of the workshop areas. The neighborhood was filled with workshops for tailors and blacksmiths. The owner of the place Dallion was staying had mastered both; she was also a gorgon and Dallion’s girlfriend.
+
+Several human looking statues decorated the small lawn in front of the entrance. Dallion knew that they were sculpted, but each time it made him chuckle imagining that they were thieves who had been caught. Before going to the workshop, Dallion walked to the side of the building and went up to the second floor. As his hunting tasks had increased his money had as well, granting him enough to rent the space above Euryale’s workshop. The reason he needed to was that there simply was no place to put all his catches.
+
+You are aware that hunters don’t usually keep their catch, aren’t you? Nil asked.
+
+I’m fully aware, Dallion replied. This wasn’t the first time they’d had the conversation. He took off his backpack, leaving it at the start of the staircase, then carried the hedgerels up to the door. Open up, he told the lock.
+
+Normally, people needed keys for that purpose. However, since Dallion had acquired the rare ability to talk with items, he let them do it for him. The lock he had installed was forged by him, using a combination of cast iron and mercury alloys. Just as items could affect minute changes in the real world—slip out of someone’s fingers at the right moment, become misplaced, or even stop functioning when their owner most needed them too—this mechanism of this lock could open and close on demand.
+
+A loud click made Dallion know that he could enter, which he did.
+
+Thanks, he said. Anything interesting while I was gone?
+
+Nothing outside, sir, the lock replied in dignified fashion. For some reason, it considered itself the butler of the floor and acted accordingly. Mistress Eury made sure to feed your pets as appropriate, although not all of them appreciated it.
+
+Who was it this time? Dallion sighed as he placed the basket of hedgerels in a free corner. The menagerie of creatures started chirping, howling, and making all sorts of noises, acknowledging his return.
+
+“Guys…” Dallion said out loud. Instantly, the noises ended. “We’ve been over this.”
+
+At present, there were a total of a total of seven moonlight pups—nearly invisible during the day—Two sapphire birds, half a dozen sun griffin eggs, several ruby shardflies, a water-snake, and fully grown dust lynx in the living space.
+
+So, who was it? Dallion removed the cover of the basket and threw a loaf of bread inside.
+
+Ruby, sir, the lock said unapologetically. She went through another of her artistic phases.
+
+“Just great…”
+
+When someone said that a creature had gone through an artistic phase, that usually meant that it had done a mess. When it came to shardflies, however, that meant a whole lot more. Being the equivalent of large butterflies with razor-sharp ruby wings, “Ruby” had a tendency of scraping off parts of the walls as she attempted to draw scribbles on them. So far Dallion had had to repair the inside of the building half a dozen times in the last month alone.
+
+“Ruby, do I need to tell Gleam to have a talk with you again?”
+
+The shardfly in question flapped away from the rest, landing “innocently in a corner of the room. She knew the drill, just as Dallion knew thanks to his music skills, that she didn’t regret what she had done one bit.
+
+Sorry about that, Dallion said to the building.
+
+I’ve gotten used to it, the guardian of the structure replied.
+
+Dallion placed his hand on the wall and used his awakening powers. A second later, all the damage was gone and the walls were as good as new. Duringthat second, though, Dallion had entered the awakened realm of the building—a whole world of its own—and tracked down and killed all the creatures that represented the scars. It was a difficult task but it had taken him half a day in terms of the realm.
+
+“Can you manage a week without scarring a wall?” Dallion looked at the guilty shardfly. “Just a week, okay? I promise I’ll find you a place where you can break loose soon enough.”
+
+‘kay, Ruby replied, remaining perfectly still.
+
+“Why do I even bother?” Dallion went back to the hedgerels and tossed in a few more loaves of bread. “Ground rules,” he began. “You stay inside the basket. I’ll find a place to put you in the wilderness where you won’t have to eat people’s crops and set you free there. Okay?”
+
+The creatures were too busy devouring the bread to reply. Even so, Dallion knew that they had heard him.
+
+“Just show a little patience, okay?” he went to the door. “And everyone else, try to make them feel welcome. And by that, I don’t mean slicing the basket,” he pointed at the group of shardflies. “Now, I need to go somewhere for a few hours, but I’ll be back this evening. Behave till then.”
+
+The silence was encouraging, but this wasn’t the first time that creatures had tried to pull a fast one on Dallion. Unfortunately, he had business to take care of.
+
+Keep them in, he said as he closed the door. A cloud click followed.
+
+Have a good day, sir, the lock said as Dallion went back down the stairs.
+
+Grabbing his backpack, he then went to the front of the building. The workshop door was locked, which meant that Eury was out somewhere. That wasn’t unusual. A relationship between hunters was almost like a long-term relationship. When they weren’t off doing jobs, they were within the realm of some item or other, improving it or themselves. It wasn’t rare that they’d spend weeks apart—sometimes within the course of a single day. That made the time they did spend together all the more cherished.
+
+Any idea what March wants to see me for? Dallion asked as he unlocked the door in the standard fashion—with a key—then tossed his backpack inside.
+
+I cannot say, dear boy, Nil replied.
+
+That was a rather dubious answer from the echo, meaning either that it had no idea or that the original from whom he had been created didn’t wish to share that information. That was the problem with echoes, since they were the equivalent of virtual clones within the awakened realms, they remained close to the individual from whom they were created. As such, they knew exactly when to keep secrets.
+
+Well, it’s time to find out. Dallion locked the door and returned the key to his belt pocket.
+
+The Icepicker guild wasn’t particularly close to Eury’s workshop, though in terms of the city it couldn’t be said to be too far away either. Dallion had passed by it several times. However, entering it since quitting had always been weird.
+
+Standing in front of the entrance of the four-story building, memories flashed through his mind. There was a time when he viewed the people inside the building as his family. They had treated him better than well, and yet he had betrayed them. It had been for a good cause—saving Nerosal from being swallowed in the wilderness—however, that was no excuse. Dallion felt that he had to take responsibility, and he did by leaving once all the issues were settled. To a degree, he had been avoiding them ever since.
+
+Never thought I’d be welcome back here, he said to himself.
+
+I still think leaving was a bit melodramatic, Nil said. But I agree that you needed a change of surroundings. The important thing is that it all worked out.
+
+Yes, things worked out.
+
+Dallion took a deep breath, then entered the building.

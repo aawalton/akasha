@@ -1,0 +1,201 @@
+---
+id: 81193f9f-27ee-5600-bb48-8c909ef0faaf
+page-type-slug: story-chapter-royal-road
+title: "54 — Book 2, Chapter 2 — Sword and Sorcery, Pt 2"
+slug: 0054-54-book-2-chapter-2-sword-and-sorcery-pt-2
+partOf: just-add-mana
+position: 54
+ownLength: 3115
+unit: words
+ownProgress: 3115
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2716833/54-book-2-chapter-2-sword-and-sorcery-pt-2"
+royalRoadId: "2716833"
+markedReadAt: "2026-06-29T18:49:26.262Z"
+---
+
+Technically, all of this had started about an hour ago. Or something along those lines, anyway. Cale wasn't great at keeping track of time, and it was worse when they were in the narrow corridors of a labyrinth with no sunlight to speak of. It felt like around an hour had passed, and that was good enough for him.
+
+He hadn't quite known what to expect when Leo had barged into his baking session to tell him that the door magically implanted in his dorm room was glowing, of all things. The last time he'd examined it, the only enchantments that had anything to do with glowing were the ones that keyed it to their mana. Without any of them trying to open it, it shouldn't have been glowing.
+
+And Leo had sworn he wasn't trying to open it. Apparently he'd just been staring at it to hype himself up for later? But at some point in that process, it started glowing, and while Leo had thought at first that he'd somehow done something wrong just by staring, he had fortunately quickly realized this was caused by something else.
+
+Not that he knew what it was. He just knew nothing about labyrinth mana should have been able to make the door start smoking. The glowing was one thing—labyrinth magic could sometimes highlight the correct route with a telltale glow—but smoking? That definitely wasn't him.
+
+And it was the smoking that really got Cale's attention. Glowing was fine! Magical things glowed all the time for a variety of different reasons. Unexpected glowing usually wasn't a good thing, but it was rarely dangerous. It was when things started to smoke and spark that there was a real cause for concern.
+
+Mostly because, in Cale's experience, it usually meant something was about to explode.
+
+"Now, there's a formula for calculating how dangerous a magical explosion will be," Cale said, staring contemplatively at the door and tapping his chin. "I have no idea what that formula is, mind you, but I know there is one!"
+
+"Cale!" Leo glared at him.
+
+"Okay, I do know what the formula is, I just don't feel like doing the math," Cale admitted. Which apparently wasn't what Leo was worried about, because he just stared at him like he'd grown a second head. "Look, long story short, the more magically complex something is, the bigger the explosion. Also the weirder the explosion."
+
+"And, um, how magically complex is the labyrinth?" Damien asked worriedly.
+
+"Oh, incredibly." Cale poked at the door, wondering if he could contain the blast in a barrier. Probably not—even if he surrounded the door itself with a barrier, there was an entire extradimensional complex behind it that he couldn't shape his barriers around. "I mean, just the door alone is, what, around an eight on the complexity scale? It's a dimensional graft attached to the Brightscale Academy's naturally manifesting secret passages. Do you know how hard that is to pull off?"
+
+"N-no?"
+
+"Really hard. And even if we put that aside, the door leads to a pseudo-dungeon created by an ancient, abstract plague that infected and formed it out of the greatest power source ever devised by Karmian society. That also happens to be a megadungeon created out of every dungeon that existed in Karmia."
+
+Damien took a careful step back from the door. "So... what's going to happen if it explodes?"
+
+"Oh, I have no idea," Cale said. "I just know it'll be bad. And weird. Bad and weird. Not a great combination of things, honestly. I would rather we avoid finding out."
+
+He paused, looked at the worried expressions that Damien and Leo both wore, then hastily added: "It might not explode, though! For all we know someone just cast a smoke spell on the other side of the door."
+
+"You're bad at reassuring them," Syphus called out, flipping a page of the book it was reading. It didn't seem to care very much about the impending magical disaster, or at the very least it was far more interested in the books Leo had managed to gather for it.
+
+Cale was kind of surprised Leo had managed to find so many documents relating to the old Spellfist Monks, honestly. None of them were complete, of course, but it made for a great starting point. More than enough for them to recreate the first of the monks' Forms, at least.
+
+Assuming none of them died in the explosion that was probably coming.
+
+"Do you think we should call someone?" Cale asked thoughtfully.
+
+"What do you mean," Leo said, the words remarkably high-pitched. Too high-pitched for it to even sound like a question. Cale was kind of surprised his voice managed to get to that register. "Who would we even call, the plumber?"
+
+Cale gave Leo a strange look. "Why would we call the plumber?" he asked. "You're being hysterical. Obviously we'd call either Akkau or Imrys, since she's the one that put this here in the first place, but..."
+
+He really didn't want to deal with Imrys. Mostly because she seemed like she was mad at him about the baking spell he'd inadvertently spread all over the school. He wondered briefly how far the effect had reached—presumably, it would have kept going until the spell ran out of mana or ran into a ward.
+
+"Oh! What about Jax?" Cale snapped his fingers. "He's bound to the Wing, right? He should have some idea what's going on."
+
+"Jax?" Leo broke out of his hysteria for a moment to stare at him in confusion. "...Are you talking about Jaxovar? The Demon Custodian of the Astral Wing?"
+
+"Yes, but I decided to call him Jax," Cale said. "Also, why did you say that like it's a title?"
+
+"Because everyone knows him! He's terrifying!" Leo grabbed him by the shoulders. "Jaxovar is a demon, Cale!"
+
+"So is Alina, and she's nice," Cale pointed out.
+
+"That's different! Alina's had plenty of time to adapt to the realm! She escaped centuries ago! Jaxovar is summoned under contract. He has all the powers of a demon and he can call upon the mage he's bound to!"
+
+Cale blinked at Leo. "Sounds like a great candidate to tell us what's going on behind the door, then," he said cheerfully. "Besides, you just called him by his true name three times in the span of like a minute. Even if he wasn't paying attention before, he's definitely paying attention now."
+
+Leo went pale. "That—is that how it works?" he asked, his voice suddenly timid. Cale grinned.
+
+"And that, my dear apprentice, is why demonic etiquette is an important class in half the Great Realms," he said cheerfully. "Names give them power, yes. It's polite to give them a nickname, although most of them will pretend they don't like it. The opposite is true for so-called escapees or demons that abandon the infernal realms, though, so make sure you know the difference—"
+
+Before he could finish what he was saying, there was an impatient knock on the door. Cale gave the still-mortified looking Leo a thumbs up, then went to pull it open, revealing a very disgruntled looking Jax.
+
+"Right on time!" Cale took the demon's hand and shook it. "We need your help with something, but I'm assuming you figured that out already."
+
+Jax's hand was limp in his grip. "Why," he asked frostily, "does it feel like your room is jabbing an ice pick into my brain?"
+
+"I'd imagine it has something to do with that." Cale jerked a thumb toward the door, which was now trembling and sparking violently. "Any idea if that's going to explode any time soon, by the way? We need to know for reasons."
+
+Jax stared at the door, then at Cale. "...it will not explode as long as the suppression wards are held in place," he answered, gritting his teeth. Cale winced slightly in sympathy; it looked like anchoring the wards was hurting him here. "Why, may I ask, is there what appears to be an ancient labyrinth attached to your dorm room?"
+
+"Professor Imrys did it," Leo interjected desperately. "It's not Cale's fault, sir, she did it without any of us knowing."
+
+Was he trying to protect him? Cale beamed; that was sweet of him. Also unnecessary, really, but clearly there were some untoward rumors about the so-called demon custodian of the Astral Wing.
+
+"She what." Jax's tone went dangerously flat, and he fell completely silent for long enough that Cale started to worry that he'd passed out from sheer, frustrated irritation.
+
+Then Jax let out an aggrieved sigh. "Sure," he said. "Of course she cast an eleventh-tier spell on the Astral Wing with no consideration of the strain that would put on the suppression wards. It's not like the wards or the state of the Wing are bound to my immortal soul or anything."
+
+"...are they?" Cale asked, immediately curious.
+
+Jax glared daggers at him. "I will not answer questions about the location or status of my soul," he said, which was probably fair. "More importantly, someone has to deal with this. The space this door is connected to grows more unstable by the second—Kazerath!"
+
+The last word he snarled out as he clutched at his head and nearly fell to his knees. Cale reached out reflexively to catch him, and to his surprise, Damien joined him, looking immensely worried for their custodian. Together, they guided the demon to sit on the nearby bed, where he nursed his head and muttered even more curses under his breath.
+
+While he recovered, Cale turned to his apprentices. "That's a swear word in Altered Demonic, if you're wondering," he explained. "Means something like 'may your mother be damned by the rot of your soul,' except pretend it's filled with a lot more expletives. It's technically a very poetic curse by infernal standards. Tends to be used by upper-class demons and their children."
+
+"You are not supposed to know that," Jax muttered. "Nor were you supposed to explain it. Please refrain from doing so in the future. It sets a poor example for the students."
+
+Cale nodded pleasantly. "Of course," he said. "Now, is there any way I can help?"
+
+Jax sighed. "Some mana will help stave off the worst of the pain and allow me to maintain the wards longer, but the problem in the labyrinth must be dealt with," he said. "I may be able to share some information based on the way this labyrinth is straining the wards, but it would help if it didn't feel like my skull were about to split open."
+
+"Oh, right," Cale said. "Demons are a mana-assimilating species, aren't they? Like mana vampires. How do I donate?"
+
+"Please do not compare us to vampires," Jax said wearily. "Simply place a hand on one of my horns and channel your mana into it. Just be sure to do it gently—kovusu!"
+
+Before Jax even began the second part of that sentence, Cale had already grabbed his horn and started channeling.
+
+Not even half a second later, Jax was curled up and hyperventilating for a completely different reason.
+
+"Ah," Cale said, blinking. "Whoops. Maybe I should've had one of you do it."
+
+It took some time for Jax to recover, but thankfully, the mana donation had helped quite a bit—the door was emitting only a faint glow now, and Jax's red skin looked healthier than ever. He did abjectly refuse to talk about what just happened, though, and instead did his best to describe what he could feel happening behind the door.
+
+It turned out that the labyrinth was mutating.
+
+Sort of, anyway. That word implied the labyrinth was a living thing, and that wasn't strictly accurate. Better to say that the magic that suffused and maintained the labyrinth was having a sympathetic reaction with something and was therefore growing rapidly out of control.
+
+That was something Cale knew could happen with powerful magical artifacts, albeit usually to a lesser extent, and usually not destructively. At higher levels of magical complexity, artifacts kept in close proximity could spontaneously develop a sympathetic resonance with one another, resulting in a new, undocumented effect that neither artifact could achieve on their own.
+
+It most often happened with artifacts that were similar enough to one another, though. Rings, for instance, developed this sort of sympathetic resonance rather frequently. But the spatial cubes used to trap the labyrinths created by the Labyrinth Plague were specially designed to do exactly that; the possibility of a similar artifact causing any kind of sympathetic resonance was... well, it was low at best.
+
+Unless, Cale thought suddenly, there were other spatial cubes that had been opened. He wasn't exactly an expert on extradimensional geometry, but he did know that spatial artifacts in particular could occasionally break the rule of proximity. The artifacts themselves didn't need to be near one another as long as the extradimensional spaces they contained were.
+
+If he took that into account, then what was most likely happening was that another labyrinth created by the Labyrinth Plague was resonating with the one in their dorm. The only question, then, was why. If it was at all possible, then it should have happened long ago.
+
+A trigger event, then? Some artifacts didn't evolve until they were exposed to a sufficient amount of raw magical energy, and others required active use in combat. Still others required the artifact itself to be tested and strained. That was pretty close to what Jax had described—he'd explained that the space inside the labyrinth was "attempting to grow beyond its bounds."
+
+So a second labyrinth, then, and something magically violent happening in one or both of them. Possibly the cubes were trying to merge the two labyrinths so they could contain what they would almost certainly perceive as a threat. That would explain most of what Jax had explained he was feeling, and it also meant the only way to stop this was to stop whatever was straining the spatial cubes.
+
+"Okay," Cale said. "I'm pretty sure we're going to have to go in if we want to fix this. Leo? I know I said you could have some time to get yourself ready. Do you think you're ready?"
+
+"Cale, it's been like—it's been like two hours!" Leo pressed his face into his hands. "I mean I've been thinking about it since last night, I guess, so it's longer than that, but—"
+
+"If you aren't ready, you don't have to come," Cale said steadily.
+
+Leo sighed. "I'm not ready," he admitted. "But I don't think I'm going to be on any sort of timescale that matters. The Red Hunters are going to be here in less than a week now. I'll come with. Besides, you might need my help navigating."
+
+"I was hoping you'd realize that, because I'm liable to get hopelessly lost on my own," Cale said with a grin. Something in Leo's shoulders seemed to relax slightly at this.
+
+Meanwhile, Syphus snapped the book it was reading shut and brightened. "I think I get how to do the first spell," it said. "If I come along, will I get to test it out?"
+
+"I don't see why not,," Cale said. He raised an eyebrow. "Are you sure you figured out the spell array? Because if you get it wrong, it's going to turn your arm into a slug or something. Not that I'm stopping you, because personally I'd love to study your new slug-arm."
+
+Syphus shrugged. "I learn best by doing. If my arm must become a slug, then it's a necessary sacrifice."
+
+"You two scare me," Leo said. Damien nodded vigorously.
+
+Jax, still perched on the bed, pinched the bridge of his nose. "I should not have allowed the two of you to meet," he muttered. "I should have altered the schedule before Akkau gave it to you. If only I had known..."
+
+"You know we can all hear you, right?" Damien asked him.
+
+Jax gave him an affronted look. "You are supposed to pretend you do not."
+
+Then he glanced toward the door and frowned slightly. "...It appears that Instructor Solsburn is approaching your dorm now. I don't know what you did, but please do not antagonize any more professors lest Akkau send me to fetch reconciliatory gifts. Again."
+
+"Instructor who now?" Cale asked. He glanced through the still-open door and down the hallway to find an entire set of armor slowly looming up the stairs. "...should I be concerned?"
+
+"In the short time I have known you, I do not believe a single thing has ever made you concerned," Jax answered dryly. "Resolve this quickly, please. Your donation has helped me greatly—in fact, I may very well advance to the next stage of my molt because of it—but the wards cannot hold out in perpetuity, regardless of my involvement."
+
+"Your molt?" Leo asked. Jax didn't respond; instead, he snapped his fingers and vanished in a cloud of smoke.
+
+"Can't wait to learn how to do that," Cale remarked. "Although I really don't think this room needed more smoke."
+
+"I think that's just a side effect of infernal teleportation," Leo said. "What did he mean, molt?"
+
+"I have a better question," Cale said. "Who's this Instructor Solsburn?"
+
+Leo sighed, evidently accepting he would need to look this up in the library later. "He's our Sword and Sorcery professor," he said. "He likes to visit students personally before class to make sure they know what to expect, and also to have them choose a weapon for the class. He prepares the blades himself. That's probably all this is."
+
+"That's some dedication," Cale said, impressed. "Do you think he's going to ask about the door?"
+
+"It would be weirder if he didn't," Leo said.
+
+Sure enough, Instructor Solsburn paused just outside their doorway, staring silently at the glowing door, the remnants of purple smoke still in their room, and the lingering crackle of demonic energy. He tilted his head.
+
+"Explain," he said simply.
+
+Cale blinked, looking at Leo. The minotaur shrugged. "He doesn't like talking much."
+
+And that was how the five of them had ended up exploring the labyrinth together. The whole place had been eerily silent for about ten minutes of walking, after which Leo seemed to finally relax.
+
+Then and only then did the monsters start flooding in.
+
+And there were so many monsters.
+
+The weirdest part, Cale thought as the drake on top of him continued attempting to gnaw his head off, was that most of these monsters weren't normally nearly this aggressive.
+
+"Um," Damien said nervously. "The clown thing is coming back? And... no, nevermind, it's running away again."
+
+Except the clown thing. Apparently.

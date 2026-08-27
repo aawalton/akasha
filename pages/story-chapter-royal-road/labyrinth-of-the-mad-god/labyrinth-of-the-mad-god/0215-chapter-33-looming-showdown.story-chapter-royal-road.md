@@ -1,0 +1,97 @@
+---
+id: 601636b7-6bc2-5da9-921a-af857766c9b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Looming Showdown"
+slug: 0215-chapter-33-looming-showdown
+partOf: labyrinth-of-the-mad-god
+position: 215
+ownLength: 2450
+unit: words
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2558510/chapter-33-looming-showdown"
+royalRoadId: "2558510"
+---
+
+Nick woke up late the next morning, sleeping in for the first time he could remember.
+
+He hiked down to the riverbank to wash up, then helped himself to a heaping pile of fried potatoes from the communal kitchen Kenji had set up inside the hollow mesa. When he was done eating, he toured the base camp. He spent the better part of an hour introducing himself to the people who were destined to become his neighbors and friends after they founded a city and had time to get to know each other better.
+
+Nick had been hoping to reconnect with Sophia, but she was still out acquiring the new summon she wanted to add to her collection. He said good morning to Kerry and Liz, then decided to head into the badlands by himself, getting a sense for the surrounding terrain while pondering the battle ahead.
+
+On his way out of the camp, he watched Team Earth prepare for the coming fight. Most of the parties were with their assigned units, drilling in formation to improve their teamwork while reviewing the strategy Kenji had concocted to defeat the gigantic construct.
+
+But that was only one aspect of their plan. There were several support teams who were pursuing other goals. One group was hard at work constructing portable barriers made from wood and stone. Nick’s people would never have been able to move them before the System arrived, but thanks to their evolved bodies and the new natural force known as magic, they were able to reposition the bulky barricades with relative ease.
+
+When he stepped outside the enclosure, he saw that another team was hard at work building siege weaponry. He ran his eyes across two ballistae and three catapults, along with a towering mangonel that could launch massive boulders with incredible force.
+
+Nick was astonished that his people had been able to construct the devices so quickly. When he walked over to learn more, the engineers explained that their team had been at it for almost a week, having been one of the first groups to arrive at the lake. They had also had prior experience building these weapons while climbing the tower, although they hadn’t been able to take them to the fight on the roof.
+
+Even still, he couldn’t figure out how they were able to build siege engines with the materials at their disposal. There was plenty of wood around, and people had collected lots of rope and various tools while climbing Darkstone Tower, but the firing mechanisms and buckets were another matter.
+
+He learned the answer when an earth shaper arrived to help finish one of the catapults. Nick had never seen this kind of magic before, and the woman explained that one of her spells let her mold raw rock like wet clay. It was a slow, mana-intensive process, but incredibly precise. She waved him over to a boulder she had been working on for several days—gradually opening space in the middle of the stone until it was shaped like a cup with a circular hole near the base.
+
+After she completed the last section, a pair of engineers slid the hole onto the end of a treated log that would form the catapult’s throwing arm, creating a bucket that could hold a heavy payload. The earth shaper’s magic had enhanced the stone to increase its durability, so it could handle being fired multiple times. The other siege engines had been built using a similar technique, leaving him deeply impressed by Team Earth’s ingenuity.
+
+And earth magic was only one technique at their disposal—the builders had crafting skills and various traits helping them too. These new Professions are already making a difference, he decided. People can specialize in their preferred roles, creating tools and enabling tactics that wouldn’t have been possible before.
+
+That when Nick spotted another type of siege engine he hadn’t noticed at first, since they were already complete and in the middle of being prepared for transport. It was a pair of modified ballistae that fired stone harpoons with heavy chains attached to boulders on the far ends. They were designed to bury themselves inside the wurm’s body and then pull tight, weighing it down and restricting its movement.
+
+The devices had short range due to their bulky payloads and would have to be fired from the canyon floor close to where their anchors stones were lined up, making them the most dangerous siege engines to operate.
+
+One of the catapults was getting ready to fire a test shot, so Nick stopped to watch before moving on. He noted with interest that instead of a big rock, its basket was filled with lots of little ones. The attending engineer explained that in the battle, the stones would be infused with a time-delayed spell that would activate once they came back down, creating a field of landmines.
+
+Rather than hurting the boss, the mines would help deal with the armada of beasts it would unleash once they trapped the wurm on the surface and began their assault. Best of all, the mages could attune the spells’ triggers to exclude human DNA, so the devices wouldn’t activate when a friendly unit touched them.
+
+People would still have to watch out for being caught in the crossfire if they were standing too close when an enemy touched the stones, but Nick was deeply impressed by the ingenuity that had gone into creating magical weapons that were suitable for large-scale battles. Team Earth had learned a great deal during the fight with the Guardian of Darkstone Tower, and they were using that knowledge to prepare for combat on an even grander scale.
+
+Some of the mage-engineers were imbuing piles of missiles with explosive magic that glowed brightly in his energetic senses. Another team was casting a type of spell he hadn’t seen before. It could infuse a weapon with a temporary elemental charge that would transfer onto an enemy after landing a direct hit.
+
+He observed with interest as their creator tested them against some of the dummies people had been using for target practice the day before. When she drove a spear into the center, a surge of frigid mana flowed into the dummy, covering it in ice in the blink of an eye. Then she moved on to a crossbow loaded with mana-imbued bolts. When it sank into its target, the wood began to sizzle before melting like wax. That one seems similar to Veronica’s Acid Bolts.
+
+These magically-enhanced weapons didn’t have the stability of System-granted consumables, and their charges would only last for a few days. But they served much the same purpose and would allow Team Earth’s warriors to unleash elemental attacks, infusing their combat arts with magic even if they were pure martial specialists.
+
+Those imbuements will make us far more versatile going forward, allowing every member of our team to attack with elemental magic that targets our enemies’ weaknesses.
+
+What his people had accomplished was amazing, and Nick knew this was only the beginning—that he was witnessing the first generation of applied magical theory. It made him excited to see what the future held, now that mana was a part of their everyday lives.
+
+However, conducting the research required to take their efforts to the next level would have to wait until they defeated the Armada Wurm and established a settlement. Then people could build the infrastructure required to advance their knowledge of mana manipulation, magitech, and countless other pursuits.
+
+Moving beyond this initial stage should dramatically improve our odds of surviving whatever happens when the Shroud of Protection comes down and the entrances to the Labyrinth open.
+
+Watching the field test reminded Nick that he had seen other types of magitech weapons that were different from anything humanity knew how to make. He pulled out his journal and shared his sketches of the cannons he’d seen in the airships, including everything he could remember about their energetic signatures. He also told the mage-engineers about the wind-bullet traps he had encountered while training with Rita and the constructs he’d fought in the tower’s basement.
+
+On that subject, Nick had quite a few magitech devices in his pack, including the remains of several varieties of constructs and components from magical machines. They were an invaluable resource that could help advance humanity’s understanding of the science of magic through analysis and reverse engineering. He would hold onto them just a little longer—safe inside his spatial storage—then donate them for research once the settlement had been established and the appropriate facilities were in place.
+
+While these thoughts passed through his head, he left Team Earth and walked into the badlands. He planned to use the afternoon consolidating everything he’d learned over the past few weeks before conferring with his party in preparation for the big fight.
+
+Since one direction was as good as another, he decided to take a lap around the lake that had been his destination for the last two weeks, pondering the best spot to place their city after his people overcame their latest ordeal.
+
+The azure lake was at least five miles wide. Plants grew in abundance along its shore and the four rivers branching off from it, creating a wide swath of greenery across the red and orange dirt that made up the core biome of the badlands. When Nick walked to the water’s edge, he saw that the mud continued for a few hundred feet before descending sharply—so far down he couldn’t see the bottom.
+
+That was when he caught sight of the shadow. For just a second, he spotted the vaguest suggestion of a massive body covered in scales, before it noticed his presence and vanished without a trace. He thought it was a City Boss until he realized there hadn’t been a warning chime and Size Up hadn’t sounded the alarm. It must be a beast, although it didn’t seem aggressive. I’ll talk to Kenji about it later.
+
+Moving on, there was a large island in the middle of the lake that was covered in tall trees. After discovering the cave behind the waterfall, Nick was certain there would be something interesting inside such a prominent point of interest. He decided to explore the isle after they defeated the wurm and he had a day to spare. Although we should probably figure out what’s living in the lake before anyone tries to cross it or goes for a swim.
+
+After switching his senses to mage sight, he could perceive thick flows of water mana lazily winding their way across the lake—light blue energy that felt like it could assume any form. There were also traces of what he thought was earth mana. It must be rising from the underground waterway that feeds the lake. Suffusing it all was a dense layer of life mana, which seemed to be ubiquitous in any area with a healthy ecosystem—especially where plant and animal life was abundant.
+
+He decided to go for a jog, circling the shoreline while surveying the region. The more that he looked, the more certain Nick became that this would be an ideal spot to build a city. The biggest draw was the lake and adjoining waterways. They would provide vital resources for life and industry and enable trade along the rivers—once they created a safe way to sail down to the lowlands at any rate.
+
+But that was only the beginning.
+
+There were several distinct sub-biomes that were only a few miles away, including a sprawling woodland that could provide a renewable source of timber, lush fields that seemed perfect for farming, and rocky hills that might be suitable for a quarry. Better still, since the Bladewind Badlands were relatively flat, building an efficient network of roads, bridges, and the like would be relatively simple.
+
+While animals were plentiful, there weren’t too many beasts nearby, although he spotted several drinking from the rivers. Based on what I’ve seen so far, animals outnumber beasts by several orders of magnitude, though that will probably change over time. We will have to work hard to develop good relationships with our nonhuman neighbors, but at least we won’t be stepping on anyone’s toes right from the start—another advantage of the new and improved, plus-sized Earth.
+
+After a while, Nick’s thoughts turned to Sophia and the kiss they had shared before boarding the Bloody Surprise and again on the roof of Darkstone Tower. He was glad they had finally acted on what had been building for months, but since they hadn’t spoken much about their feelings, he honestly wasn’t sure where they stood with one another. If I don’t see her before the fight, we can catch up after and talk things through.
+
+That subject inevitably brought up Liz. After their shared psychic experience, he knew way more about Elizabeth than he did about Sophia—or anyone else for that matter. He was still wrapping his head around going from strangers to understanding the woman in such a profound and intimate manner.
+
+He wasn’t sure what he should do about it, but he couldn’t deny that a bond had formed between them. It had been created by that magical moment when their minds touched, but its strength was based on shared values and a fundamental compatibility, and he’d realized that it was growing stronger over time.
+
+The fact that Nick knew beyond the shadow of a doubt that Elizabeth was attracted to him just as intensely as he was to her made the whole situation even more confusing.
+
+Nick and Sophia had shared some important parts of themselves, but they both had experienced a great deal of suffering they hadn’t really talked about. Their brief moments of intimacy had only scratched the surface—nothing compared to what he’d experienced with Liz. And while Nick and Sophia shared a genuine friendship and undeniable attraction, they had been too busy navigating one ordeal after the next while trying to save their homeworld to find out how deep those feelings ran.
+
+Now that they were ready to build a home where they could live for the foreseeable future, he needed to sort out his shit. That being said, one part of the situation was easy to figure out. After what they had been through together, he owed it to Sophia to find out where they stood before considering any other options, as tempting they might be.
+
+Nick eventually decided to put the matter on hold for just a few more days. Kill the behemoth boss and found a city, then worry about your love life. On that note, how in the hell can I land a killing blow on something that big?

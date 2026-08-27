@@ -1,0 +1,333 @@
+---
+id: d374d65c-9a98-5b17-b429-40c7f694fe15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8 – Where’s the tutorial? – Pt6"
+slug: 0008-chapter-8-wheres-the-tutorial-pt6
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 8
+ownLength: 4428
+unit: words
+publishedAt: 2024-11-17
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908169/chapter-8-wheres-the-tutorial-pt6"
+royalRoadId: "1908169"
+---
+
+Kindra dashed into the barracks, closed the upstairs door, and barred it. “Aika, I’m going to grab bolts. Keep an eye out, please.”
+
+Aika flew down the stairs, her silvery wings carrying her across the air like a giant butterfly. “Got it.”
+
+Kindra followed, rapidly descending. “I’ll scout first.” Poking her head out the front door, she saw a pig snarfing down a body with a look of bliss on its face. Its massive jaws ripped an arm off, and it swallowed it. Crazy planet. Shaking her head, she aimed the crossbow and pulled the trigger, shooting it in the neck. Blood sprayed, and she shut the door. “Can you map escape paths while we’re out?”
+
+No response came back. Kindra looked up, and Aika fluttered down in front of her, looking at the floor.
+
+“Aika, it’s fine if you can’t,” Kindra said, holding out her hand.
+
+Aika landed on it and looked down with a sad frown. “I can’t remember much, just little things I saved. And I can’t do math and things like I used to.”
+
+Kindra reached out and gently patted her back. “It’s fine. We’ll figure it out.” She turned toward the door and listened. Seems quiet. She turned to the little fairy. “And don’t you dare get hurt.” She gave her a stern look.
+
+Aika smiled and nodded. “I’ll be careful.”
+
+“Good. We’ll go quickly and meet back inside. Then we’ll grab food and hunt a little before nightfall.” Kindra opened the door and looked out. The courtyard was still. Bodies and blood littered the ground like leaves in autumn. The vibrant red was practically aglow with magic and the light of the evening sun.
+
+Grabbing an axe, she ran outside, using the runes and her feet to purge. Ripping bolts from the bodies, she looped around the courtyard and down a few side streets.
+
+A pig snorted and poked its head out. It opened its mouth and revealed the shark-like teeth. Drool dripped from its mouth, and it looked at her, its tiny eyes locking onto her.
+
+Kindra’s heart lurched. She turned and ran. The pig did the same, scrambling down the street, its feet clattering across the stone.
+
+Vaulting bodies, Kindra dashed around the corner of the barracks and raced toward the dead pig lying there. Swinging the axe high, she slammed the axe down on the leg, hacking through the joint. Come on. Come on.
+
+“Kindra. Hurry. It’s looking for you,” Aika said, fluttering toward the door.
+
+With her heart thundering, Kindra ripped the leg free, dashed inside, and shut the door. Barring it, she looked at Aika. “Thanks.”
+
+“Really. All that just for dinner?” Aika laughed, her high-pitched sound ringing through the room.
+
+Kindra chuckled. “I’m hungry.” She headed to the fire, hanging the leg over the fire and willing up her mana.
+
+[Your mana has increased: 45.9 → 81.1.]
+
+Not a bad haul for the day. Enough to hit level four. A roar rippled through the room, making every hair on her neck stand. Kindra froze, looking at the door. “See anything, Aika?”
+
+“No.” Aika fluttered back from the pantry, a piece of fruit in hand.
+
+Walking to the stairs, Kindra climbed them and peered out onto the rooftop. A flock of birds was circling, their wings lit by the setting sun. And the bird army is waking up. She blew a strand of hair from her face and unbarred the door, peering out across the town and finding the source of the noise.
+
+A pack of massive black and tan cats rushed into the town. Moving like black and tan smoke, they seemed almost incorporeal as runes flashed around them. A murder cow charged, and a massive cat leapt onto its back, sinking its claws into its hide and biting into its spine.
+
+Kindra watched the bones break. The cow’s legs went limp, and it fell to the ground. The cat spun and ripped its throat out, spilling blood onto the ground.
+
+And now they are infected. She frowned. And they are predators. Real predators. She swallowed and closed the door, barring it and moving silently down the stairs. Keep the noise to a minimum.
+
+Walking into the dining room, she grabbed the slightly cooked meat. Cutting off strips, she piled them onto a plate and ran back up the stairs. Where’s my skill up for running? She slid the bar out of the way.
+
+“Have enough to level?” Aika asked, flying up to the door.
+
+“Yes, but I want to get more before the sun sets.” Kindra walked out the door, striding across the roof. “I don’t think we want to be out here in the dark.” Setting the plate on the ramparts, she grabbed the bow and aimed at a nearby cat’s neck.
+
+The bolt streaked through the air, hit its neck, and bounced off, leaving little more than a scratch. The cat hissed, and she dove behind the ramparts, her heart thundering. How much stamina does that thing have? Reaching up, she grabbed a slice of meat and ate it.
+
+Ratcheting in another shot, she studied the bolt. It's blunted. Go figure. Frowning, she burned a little mana to make it sharper. Poking her head up, she aimed at the cat and fired again. The bolt streaked through the air, sinking into the angry cat’s neck.
+
+The cat went wild, thrashing and lashing out at everything around it. Its claws raked other cats, stones, and a few corpses. That set off the other cats.
+
+Ducking down, she ate another strip of meat, savoring the largely uncooked flesh. Swallowing the last of it, she loaded another bolt, burning mana to make it sharper.
+
+With that done, she propped the crossbow on the stone rampart, lined it up with tan fur, and fired. The bolt streaked through the air, and the cat slapped it away with its paw.
+
+Seriously? She ducked back behind the stone and ate another strip of meat. They have that level of speed, too? Chewing on the meat, she poked her head up and studied it, looking at the concentrated mana running through its body. It’s at least ten times stronger than everything else here.
+
+Her eyes widened. That’s too high. Ratcheting in a bolt, she searched the area for other things to shoot, promptly finding a swarm of rats that were fighting with each other. Aiming, she pulled the trigger. The string snapped forward, and the bolt cut through the air.
+
+The bolt blew through a rat and sunk into the next one. That was a lot easier. Grabbing another bolt, she looked up into the sky. Birds circled the city, avoiding the pack of death below. A few birds descended towards the fields that had once surrounded the town.
+
+Well, they won’t be coming here. Turning her focus back to the rats, she fired off another bolt, trying to get more mana as the last rays of the sun faded, casting the world into muted grays. The village did not calm as twilight fell. It got worse. Far worse. More scavengers entered the fray and joined the war of the infected.
+
+Aika gestured. “Up top. They’re circling.”
+
+“Tell me if they dive.” Kindra frowned and reloaded, aiming at a strange, scrawny canine. “Aika, do we dare go out at night? This morning wasn’t too bad, but this battle was recent.” She studied the cats and frowned. They’re so strong. She reloaded and aimed at a group of rats.
+
+Aika flew closer, her wings fluttering as she hovered near Kindra’s shoulder. “We can’t fight the cats without a gun,” she whispered, sorrow in her vibrant golden eyes.
+
+“That’s true.” Kindra pulled the trigger, sending a bolt flying. She ate another slice of meat and looked at Aika, who was flying there, bobbing up and down with a pained expression. “Aika?”
+
+Aika’s frown deepened, and she gestured at her small, delicate form. “It’s fun to have a body,” she said, her voice heavy with frustration. “But it’s useless. I’m useless. And you need the nanites—”
+
+“You aren’t useless,” Kindra interrupted, lowering her weapon and looking at her old friend. “You’ve never been useless. And I will figure out how to make armor or something.”
+
+Aika fluttered there, a glum expression on her face. She looked up at the birds and back down at herself. “Why a fairy?” she whispered.
+
+“Don’t worry, Aika. We’ll find a way to remake the nanites. It’ll just take a while.”
+
+“Forever, you mean. They don’t even have guns.” Aika sighed.
+
+“Come here, you,” Kindra said, picking up the crossbow. Aika flew closer, and Kindra smiled. “Remember the first reactor? When you saved both of us?”
+
+Aika blushed. “You remember that?”
+
+“Of course.” Kindra reached out and pulled Aika to her chest. “We promised to start a new colony. Together. And we will do it even if we have to walk through every age to do it.” She smiled and looked down at her small friend. “And someday, we will see Earth again. Then you can have a whole suit of nanites.”
+
+Aika smiled and looked down. “You mean it?”
+
+“Of course. Now, think about some weapons for you while I harvest more rats. We need the levels.” Kindra released her, smiled widely, and grabbed the crossbow. She reloaded and fired into the group of rats, impaling one.
+
+Grabbing another bolt, she repeated it, slowly killing things from the safety of the rooftop. The surrounding sounds grew. The smell of blood surrounded her, and she watched a soft flow of mana head toward her. At least I’m getting some. She grabbed another bolt.
+
+“Up,” Aika said, hitting her cheek.
+
+Jacking in the bolt, Kindra turned and looked at the diving bird. Exhaling, she fired, and the bird collided with the bolt, veering and crashing into the village.
+
+Loading another bolt, she heard a loud growl carry through the city, almost causing a pause in the fighting. What are the cats doing? She turned and saw the reason. One of the cats had turned on the others. Its claws were sunk into another’s back, and it thrashed, throwing itself against the wall to get free. The other cats bounced, joining the fray. This village needs to be burned to the ground. She looked back into the sky and saw the birds circle lower. Time to go.
+
+Firing the bolt at a rat, she grabbed her gear. “Let’s go, Aika. I could use some sleep. Then I can level tomorrow morning after I use the mana.”
+
+Turning, she jogged inside and shut the door, barring it. Walking down the stairs, she headed to the kitchen, placed the meat back on the fire, and studied the weapons and bodies near the front door. Do I make a gun and pray that I get a skill to make gunpowder? I guess I could use the charcoal, but that’s only half the equation.
+
+“Aika, what should I make?” Kindra asked. “I’d make a gun, but I can’t make bullets yet.”
+
+Aika flew out of the pantry with fruit in hand. “Can you make nanites?”
+
+“Nope.” Kindra frowned. “I could start making a bike. The kind you pedal.”
+
+“Make a gun. We’ll find some way to make a bullet,” Aika said, frowning. “If we don’t, we’re in trouble. There has to be worse than those cats in the forest.”
+
+Kindra grimaced. “You’re right.” Pulling swords together, Kindra used Transmutation to create an M4 carbine rifle. The metal streamed and flowed, slowly becoming a replica of the rifle. She studied it, and text popped up.
+
+[Basic M4 Carbine Rifle - This rifle seems out of place in this world. ]
+
+Basic?
+
+[Basic weapons are made from non-magical components without enchantments. They lack any special properties.]
+
+“Cool,” Aika said, flying over, and pulling Kindra’s focus away from the text.
+
+How do I enchant things?
+
+[Not how this works, Kindra.]
+
+Did Death improve the AI? It seems better.
+
+[Yes, and I will do it again. ~Death]
+
+What is he up to? Kindra waited.
+
+“Kindra?” Aika asked before biting into her fruit.
+
+“Sorry. I was trying to figure magic out. It’s strange.” Kindra set the gun on a table. “Should be able to kill cats. I’ll make pistols tomorrow.” Grabbing the leg from the fire, she cut off strips of meat and ate them, savoring the metallic taste inside. Swallowing, she turned. “Aika, why do you think that magic changed us?”
+
+Aika shrugged and sighed. “I don’t know, but I need a stronger one.” She landed on the table.
+
+“Me too, but I can level in the morning. That should help.” Kindra patted her and reached for the fire. I’ve already eaten it raw, and it tastes better. She resumed eating and watched Aika do the same. Wonder how many calories a fairy needs.
+
+Finishing off the meat, she looked at the leg. It’s just going to go bad. Sighing, she carried it up the stairs and dumped it on the roof, leaving it for the inevitable birds and lizards.
+
+I’ll kill them in the morning. Barring the door, she walked down the stairs and into a dorm room. The beds lined the place, chests sitting at the foot of the beds.
+
+Shame there’s no shower. Without a good way to brush her teeth or clean up, she walked up to one of the hard beds.
+
+Unwrapping the makeshift bandage around her chest, she winced at the pain and stripped off the belt and bloody dress. “Aika. If there’s fabric—”
+
+“I’ll get it,” Aika said, fluttering over. “This will hurt.”
+
+Biting down, a lance of pain shot through Kindra’s back. Her eyes watered, and she felt blood trickle down her back. The smell filled the air, and Aika shot out of the room.
+
+Pulling out the knife, Kindra walked to a chest and pulled out a skirt, cutting off a long strip.
+
+Tiny hands blotted her back with a wet rag. “Kindra, it might be infected.”
+
+“I know. This planet is not clean.” Kindra swallowed. “Do what you can.” She hung the makeshift bandage over her shoulder. We’ll need to find civilization before that kills me. Tomorrow, I’ll cleanse, loot, and make more gear for the trek. She let out a long breath.
+
+Aika flitted around her, looping the bandage around Kindra.
+
+Kindra tied it off. “Thanks.” Walking to a chest, she grabbed a shirt that was too big and draped it over her head. Good enough. Moving to a chamber pot, she forced herself to do the thing she was dreading. She used it and sighed. “We can’t get plumbing fast enough, Aika.”
+
+“I agree. And you should use a little mana for clothes.”
+
+Kindra nodded and finished her business. Walking over to a bed, she laid on it and curled up into a ball. Just the two of us… On some alien world with a crew that’s probably all dead.
+
+Aika fluttered over and landed next to her. She swallowed. “Can I sleep here?”
+
+“Go ahead, Aika.”
+
+Aika curled into a ball next to her, and Kindra let the emotion of the day slam into her. Exhaustion, pain, grief, and isolation slammed into her. Water filled her eyes, and she lay there, slowly letting the exhaustion win.
+
+~~~
+
+The sound of growling woke Kindra. It echoed through the door, and she propped herself up with a growing frown. Did the cat run out of things to hunt? Is it after us? She forced herself out of bed.
+
+Walking through the dark room, she grabbed the crossbow, loaded a bolt, and listened. Something bumped into the door, and she fastened the belt of weapons around her waist. Turning, she headed to the roof, opened the window, and raised the crossbow up to the slit.
+
+Peering down the crossbow, she saw carcasses everywhere. A vulture that had tripled in size was ripping into them, gobbling down the rotten flesh. Great. It’s bigger. She frowned and studied the dazzling runes that were surging around the carcasses. The vulture hopped forward, sunk its talons into a body, and turned to look at the door.
+
+Looking into the bloodshot eyes, Kindra gasped. Oh, shit! She pulled the trigger, and the bolt sunk into its chest. The vulture’s wings flared, and she ducked down to reload. Ratcheting a bolt into place, she looked up, and the bird slammed into the door, furiously pecking through the slits.
+
+Kindra stepped away from the door, stood, aimed, and fired. The vulture’s eye exploded, spraying blood all over her. The bird didn’t stop. It continued slamming into the door, its massive beak shooting in and out.
+
+Just die! Kindra loaded another shot, put it up to the bird’s neck, and fired. The bolt blew through the neck, and the bird dropped.
+
+Reloading, Kindra peered out. Sole survivor? It appeared to be. She unbarred the door and walked out, kicking and cleansing the carcasses on her way to the ramparts.
+
+Looking out at the streets, she was greeted with a grim sight. Mangled bodies littered the place. The smell of blood was thick in the early morning air, and the remaining animals had become something more, making the prior killers look far weaker.
+
+Peering down, she saw the sole, remaining cat. It had grown. Its form flickered like smoke, and it bit into some rat that shouldn’t have been standing.
+
+Turning back to the immediate problem, she looked at the corpses on the roof. Did the runes get stronger? A body twitched, and she hit it with the counter-sequence.
+
+Jumping to the next body, she repeated it while watching the magic grow. It surged, lighting the entire village and distant forest with an eerie icy blue. Oh, fork no. Dashing around the twitching bodies, Kindra triggered the sequence, and a lizard lurched up. It was still bleeding, and it was missing a massive chunk of its torso. That did not deter it. It somehow got up and turned toward her, its eyes glowing the same vibrant blue light.
+
+Oh shit! Kicking it, she engaged the sequence, and it dropped to the ground like a cut puppet. In reckless disregard for anything else, she bolted through the group of rising undead, dispelling the magic that was bringing them back.
+
+As the last undead on the roof dropped, Kindra turned and saw undead everywhere. A mound of rats came alive, forming a wriggling ball. Come on. Attack each other. They did not. Instead, they focused on anything still alive, swarming them in earnest.
+
+A shiver of dread ran through Kindra. I should have run for the forest. She looked down. A small horde of undead swarmed the cat below. Swallowing, she aimed at an undead cow’s head and fired. The bolt soared and broke bone with a loud crack. The undead cow didn’t care a bit. It charged toward the cat and hit it with a loud thud. The cat flew and slammed into a building.
+
+Loading another bolt, Kindra aimed and fired. The bolt missed its skull and staked a rat. The rat wriggled, tearing itself open until the bolt came loose. Waddling forward, the rat continued moving, leaving half of its body behind.
+
+Oh god. Kindra blanched, her mouth dropping open. Watching the poor cat, it mauled and ripped into the nearby undead. The undead got up or disregarded it. A headless dwarf slammed its axe into the cat, sending a spray of blood into the air.
+
+This is disgusting, and the crossbow won’t do anything. Giving up, Kindra walked inside, downstairs, and dragged chests out of the bedroom, shoving them against the front door.
+
+Aika fluttered out of the bedroom with a look of worry. “Kindra?”
+
+“No loud talking. That plague is bringing things back from the dead. Now we’re surrounded.” Kindra let out a long breath and rubbed her brow, looking over at Aika with a pained smile. “Get breakfast. We’ll figure something out.” She walked back into the room and grabbed another trunk, hauling a steady stream of them to the door.
+
+Entering the forge, she put the barrels against the door before walking back inside the barracks. Now, what do I do?
+
+Listening to the howling cat, she meandered through the place and stopped at the fire. The last of the coals were on the brink. Using the axe to split kindling, she gently brought the flames back to life, tossing on a bit of wood before turning toward the ruckus outside.
+
+Now what? We’re surrounded by undead, and this crossbow won’t do shit… System, did you say that I could cast spells?
+
+[You may use mana in combination with rune sequences to invoke spells. Such methods are less efficient and less effective than skills, but it is doable.]
+
+Want to tell me how to kill the undead?
+
+[Not how this works, and you already know the answer.]
+
+It has gotten smarter.
+
+With little else to go on, she pictured the runes in her mind while pulling on her mana. It coalesced like some other limb, and she drained all of it, letting it coalesce into a glowing ball in front of her. Well, now what do I do? She reached for it, and it exploded; a wave of magic washed over her. The sounds outside stopped abruptly. She grabbed her crossbow and walked up the steps while mana streamed into her.
+
+Aika darted through the rooftop window, and Kindra followed her back onto the roof. Peering through the early morning gloom, she looked at the streets. The living creatures were going quiet, cut down by the undead that left the bodies behind. And they are building an army. That’s just great.
+
+Aika turned. “I don’t think we can fight our way out.”
+
+“We’ll find a way to break the siege.” Kindra turned and headed to the door. “Let’s get breakfast and level.” She walked into the barracks.
+
+Aika flew inside. Kindra barred the window and walked down the stairs. She headed into the kitchen and to the meat barrel. Fishing a piece out with a fork, she ate it while Aika cut off more fruit.
+
+“What do you think, Aika?” Kindra whispered.
+
+“Kill them all?” Aika said, sitting on the shelf and eating.
+
+“Fair, but I think I have to use magic for that unless I can make explosives.”
+
+Aika nodded. “We could use the bodies and charcoal for that, but they’ll be primitive.”
+
+Kindra nodded and leaned against the wall. Not what I imagined when I signed up to settle another planet… Then again, I am on another planet. She let out a long breath, blowing an errant strand of hair from her face. Maybe I shouldn’t have used all my mana on that spell. She paused and willed her mana up.
+
+[Your mana has increased: 81.1 → 127.5.]
+
+Her frown faded, and she debated. “System, what do I get for level four?”
+
+[Skill Upgrades and Attribute Increases.]
+
+Which skill upgrades?
+
+[Not how this works, Kindra. You have to spend the mana to find out. I can tell you that your desires and actions will impact them.]
+
+Kindra risked it, willing her mana into another level.
+
+[Your mana has been reduced: 127.5 → 67.5.]
+
+[Your level has increased: 3 → 4.]
+
+[Your intelligence has increased: 4 → 6.] ‎ [Please select four attributes to increase.]
+
+“What attributes should I pick, Aika?” Kindra asked.
+
+Aika grinned. “I’m picking strength and speed—Oh!” Her eyes widened, and she started dancing, spinning, and twirling on the shelf. “Yes, yes, yes!”
+
+“What?”
+
+“I got to pick a specialization and got four options. The first one was to become incorporeal. I’d always be safe and able to give you information.” Aika stuck out her tongue. “The second said I’d get much stronger and resistant to heat, so that I could help you in a forge or something.” She made a gagging face. “The third one was that I could sacrifice my body to take damage you would take, turning me into a protector. It also said I could boost your mana a little. I almost picked that one.”
+
+Kindra winced. She shouldn’t do that.
+
+“But I got another one instead. I’m so excited.” Aika grinned. “I’m now a mecha-fairy!” She beamed, her grin spreading wide.
+
+“What does that mean?” Kindra asked.
+
+“I can make a mechanical suit for myself.” Aika rubbed her hands together.
+
+“How?”
+
+“Give me your magic and some materials.” Aika looked up with pleading eyes.
+
+“Sure.” Fishing out another piece of meat, Kindra followed her into the dining room. Aika landed on a sword, and something tugged on Kindra’s mana. She let it, and ten mana drained away.
+
+The metal flowed over Aika, becoming a metallic dress. She gestured and a tiny knife formed in her hand.
+
+“You can make a mech for yourself?” Kindra asked, her mouth dropping open.
+
+“The best mech ever. So, we need to level because I need a way better suit.” Aika laughed softly, eagerness glinting in her golden eyes.
+
+Kindra chuckled. “I don’t like that look in your eyes.”
+
+Aika giggled.
+
+Turning back to her own notification, Kindra looked back at her notifications, and picked strength and speed.
+
+[Your speed has increased: 2 → 4.] ‎ [Your strength has increased: 2 → 4.]
+
+[Please select an upgrade for Enhance Item: ‎ - The duration of your enhancements is increased by 25%. ‎ - The strength of your enhancements is increased by 25%. ‎ - Your blood boosts enhancements by 100% (Up from 50%). ‎ - You may refresh your enhancements for 50% of the original cost. ‎ ]
+
+Looking at the options, she debated them. The first two were nearly interchangeable. The third one required her to bleed herself but would give her the strongest boost, and the last one was useful for keeping them. I want all of them. She sighed and reviewed the list again, finally picking the one that would help her survive: the blood boost.
+
+[Please select an upgrade for Transmutation: ‎ - Magic will compensate for your knowledge gaps, improving the results by 10%. ‎ - You specialize in part making, reducing the cost by 20% when dealing with metals. ‎ - Reduce the cost of all transmutation by 10%. ‎ - You may alter molecular structure if your knowledge is sufficient.]
+
+She read and didn’t wait, instantly picking the last one and letting out a breath of relief. Finally.
+
+“What?” Aika asked, a grin on her face.
+
+“I can alter molecular structure now,” Kindra whispered. She smiled, mischief spreading across her face. “And it’s time to give the natives an explosive welcome.”

@@ -1,0 +1,219 @@
+---
+id: 979c1793-0ad4-5dcf-a5ec-6d900a33778f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37 — Leviathan's Blessing"
+slug: 0037-chapter-37-leviathan-s-blessing
+partOf: just-add-mana
+position: 37
+ownLength: 3684
+unit: words
+ownProgress: 3684
+publishedAt: 2025-09-20
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2615351/chapter-37-leviathans-blessing"
+royalRoadId: "2615351"
+markedReadAt: "2026-06-29T18:48:49.990Z"
+---
+
+Flia was going to kill Cale when she woke up.
+
+Not literally. She was far too grateful to the man to try to do something like that. But to just throw her into a conversation with the Leviathan? She wasn't ready! She hadn't even studied the Leviathan! Which wasn't for lack of trying, either. The Leviathan was the source of her curse, after all. She'd spent years trying to find out more about it.
+
+There just... wasn't much out there. Not even here in the Brightscale Academy, whose headmaster belonged to one of the few species capable of traversing the Great Realms. It was one of the reasons she'd attended this academy in the first place, instead of any of the others. Her family had figured that this was where she had the best chance of learning more about the Leviathan.
+
+And yet there had been almost nothing.
+
+She'd learned more about the Great Realms, certainly. Her classes had included lectures on the dangers of cross-realm magic, the properties of the Outer Planes, and a brief explanation of the Abyss
+
+Even with all that, she felt woefully unprepared. None of those classes had included any information about the Leviathan other than rumors, and most of those rumors were terrifying. They spoke of a creature large enough to encompass entire worlds and durable enough to withstand the pressures of the Abyss. What would possess something like that to give her of all people a—what had Cale called it? A blessing?
+
+It sure didn't feel like a blessing.
+
+Flia had been so nervous about this upcoming dream that she thought she might not be able to sleep at all. Fortunately, it turned out that she hadn't needed to worry: it took her seconds to drift off the moment she let herself drift off in the small pool that served as her bed, and then...
+
+Well, and then she found herself in the Abyss thinking about how she'd get back at Cale once she woke up.
+
+Mostly because that was a lot easier than acknowledging the enormity of what surrounded her.
+
+The Abyss was nothing like she imagined. She'd peeked in once or twice before, in her younger days, back when she hadn't even known that there was something wrong with her magic. Her problems hadn't manifested immediately. She'd just... fallen into her own puddle one day, and then nothing had been the same.
+
+Her memories of that moment were scattered still. She'd been too young to really remember the details. Flia thought she remembered the sensation of pressure—the feeling of the Abyss pressing down around her, an immense, impossible domain of endless water. The enormity of it all had scared her to tears. She'd floundered in nothing for what felt like forever.
+
+The next thing she knew, she was back in her mother's arms, sobbing while her mother stroked her back and whispered to her in comforting murmurs.
+
+She'd refused to use her magic for weeks after that.
+
+Flia's magic hadn't fully matured back then, either, so the actual process of figuring out what was wrong had taken even longer. Not all her spells at the time created water that led to the Abyss, so it took months for her family to figure out what it was that scared her so deeply, and even longer for them to identify the problem.
+
+She'd hated her own magic for the longest time, after that, and for an elemental that was very close to simply hating herself. She couldn't do any of the things she'd grown up dreaming of. Couldn't follow in the footsteps of her family.
+
+Even now, her fondest memory was that of her mother singing a [Song of Rain] in her gentle, lilting voice. Second to that was the memory of her aunt dancing in her medicinal pool, lulling away the aches and pains of a dozen of the sick and injured. She'd dreamed of joining her sisters in the traditional Tidecalling ceremony when she came of age...
+
+All of that was closed off from her. Stolen from her, even. And that was the other reason she was worried about this meeting.
+
+A part of her was angry.
+
+Flia didn't know if she'd be calm enough for a conversation, let alone the mentorship Cale had implied. The rational part of her knew that offending a creature with this magnitude of power was a terrible, terrible idea, but the emotional part of her? That part wanted to scream.
+
+Which meant there was a good chance she'd pull a Cale and stick her foot in her mouth. She snorted at the thought, then tried to force herself to calm. There was nothing to it, now. She'd have to face whatever came.
+
+As if in response to her thoughts, far in the distance, a glimmer of light lit up the dark of the Abyss. It flickered into being slowly, first as a single point of light, then ten, then a hundred and a thousand; the pinpricks stretched out an impossible distance, like a spiral of stars disappearing into the deep. It took a few moments for Flia to even comprehend what she was looking at.
+
+Eyes.
+
+Those were the Leviathan's eyes, opening up all along the length of a dizzyingly colossal serpentine body. With every blink, the first set of eyes shut, then the next and the next, creating an almost hypnotic effect, and when the first set of blinks was over—
+
+—Flia found herself floating in front of the Leviathan, just a few feet away from one of those massive, glowing eyes. The slit of a pupil regarded her like she was less than an ant, and she felt a presence of magic so strong it made her own solidity of form waver.
+
+That alone stopped her in her tracks. She hadn't lost control of her form this badly since she was a toddler. Even the containment cube Imrys had exposed them to hadn't affected her this much, and this was—this was a vision. Not even the real thing! Even across realms, even inside a dream, the sheer magic pouring off this being was enough to destabilize her.
+
+Cale had spoken to this? He'd talked about it like they were friends! He almost sounded like he'd scolded the Leviathan! Living thousands of lives couldn't possibly account for that. Maybe the Leviathan was just... humoring him, for some reason? She couldn't imagine—
+
+A long sigh echoed through the water, and the Leviathan spoke.
+
+"Flia," she said. "I must apologize. I did not understand the ways in which offering my blessing might affect a resident of the realms. It was wrong of me to impose such a duty upon you, especially so long before you could understand it."
+
+Nevermind. Cale had apparently not only spoken to the Leviathan but had also convinced it—her?—that she needed to apologize.
+
+Flia didn't even know where to start.
+
+"...How's the little one doing?" she found herself asking. She felt almost immediately foolish, but she wanted to know. "The Abyssal One, I mean."
+
+"It is good of you to ask." The Leviathan dipped her head in acknowledgement, and then abruptly shrank. Flia blinked, startled, as the colossal shape before her suddenly became something closer to the size of a griffin. Small enough that she could probably ride on the Leviathan's back, if she wanted.
+
+She definitely did not want that. Even if her mind was very suddenly and insistently categorizing the Leviathan as one of the magical creatures she was so very fond of.
+
+Dammit, Flia.
+
+Thankfully, before she said something stupid, the Leviathan carefully nudged a small, glowing butterfly toward her. "See for yourself."
+
+Flia's eyes widened. She held out both her hands, cupping them and waiting patiently while the Abyssal fluttered into her waiting palms. Her breath caught—the wings shimmered with a prismatic sheen that accompanied every slight movement, and more importantly, it seemed like it was... at peace, for lack of a better word. Not joyful, exactly, but curious and cautiously trusting.
+
+"Time and memory does not work the same for the Abyssal Ones," the Leviathan explained softly. She was watching the Abyssal with the same soft tenderness Flia herself felt. "Especially not within the Abyss. The moment it was free and understood how, it sealed its own memories, to be released when it has grown more mature and can choose for itself. When that time comes, it will remember all that was done by the Loomweavers..."
+
+The Leviathan paused, then swam forward, nudging her snout against Flia's hands. A gentle current prompted the little creature to flutter up and perch on her snout, making a small, chittering noise.
+
+"But it will also remember you, Flia," the Leviathan said. "You and all those young realmbound that fought to free it. I hope you understand the good you did today."
+
+"I..." Flia swallowed, then nodded fiercely, squeezing her eyes shut as though it would stop the tears. And the tears weren't only because of the Abyssal's innocent curiosity, or the purity with which it fluttered around the Abyss.
+
+It was because that gentle current had prompted a memory.
+
+That first time she'd fallen into her own magic and had been lost in the Abyss, she'd started crying. It was dark and scary, and she was too young to know where she was, only that everything around her was immense and awful and she had no idea how to leave.
+
+And then an ocean current had grabbed her, warm and gentle, nudging her back toward the opening that had brought her there to begin with. A voice had followed: You are here too early, little one. Come back when you're older, and I will teach you.
+
+"You didn't mean any of it, did you?" Flia whispered quietly. She reached up, hesitant, and the Leviathan lowered her head and bumped her snout against her palm. "You didn't know."
+
+"I did not. But I regret it, nevertheless."
+
+Flia didn't know how she'd ever been scared of the Leviathan. "Would I have been able to save the Abyssal?" she asked. "Without your blessing?"
+
+"No." The Leviathan's answer was soft but certain.
+
+Flia took a deep breath and nodded. She remembered that first sight of the Abyssal, lost and alone and afraid. She remembered the moment it understood—the moment it knew she was there to help, that she was there to give it freedom. She'd caught only a brief glimpse of its emotions, then, but even in that briefest of glimpses she had seen the utter relief it felt. The joy when it knew it was at least heading home.
+
+"Then it's fine," she said, resolute. "If that was the only way, then I'd do it all again if I had to."
+
+The Leviathan smiled at her. "I chose well, then," she said. "I am glad. I had intended to offer more guidance when you visited, but..."
+
+Flia laughed, as absurd as it felt to do so. It was more a release of tension than anything else. "I spent most of my life avoiding you by accident, I guess," she said. "Then Cale comes along and he sticks his head right in and figures it out."
+
+The Leviathan seemed to smirk, suddenly amused. "He is rather exasperating, is he not?" she said, her tone almost... fond. "He sometimes thinks too little of the magnitude of his actions, though I would not blame him for that. It is difficult for any of us Monoliths to understand life within the Great Realms. We are too detached, as it were."
+
+"Is that what Cale is?" Flia asked, straightening suddenly. She still had so many questions, and she'd heard those words before, hadn't she? Back when that assassin from the Red Hunters had attacked. "A Monolith... what even is a Monolith?"
+
+The Leviathan tilted her head, regarding Flia for a long moment. "That," she said, "is a question that is only supposed to be answered when your core reaches at least the level of an archmage."
+
+The amusement hadn't left her tone, though. Instead, the Leviathan coiled slyly, like she was preparing to tell her a secret. "What I can say is that no one quite knows what Cale Cadwell Cobbs is. We do not know if he is one of us. We simply treat him as though he is."
+
+Flia was much less amused. She stared blankly at the Leviathan, opened her mouth, closed it again, then sighed. "You... you know what you just said is terrifying, right?" she asked. "I don't even need to know what Monoliths are to know that's terrifying."
+
+"More than most," the Leviathan told her, laughing softly. Flia tried to ignore the fact that the sea serpent's laughter seemed to shake the very realms around her. Was that even possible? Did the people in the realms notice?
+
+The laughter settled, though, and Flia didn't quite know what to make of the look the Leviathan gave her after. "It has been a long time since he has allowed himself to grow close to others," she said. "Not in any real sense, at least. He prefers to... disappear. To let others wonder. Do not let him, yes?"
+
+Flia winced slightly at that request. "Easier said than done," she muttered. "But yes, we'll... try."
+
+It wasn't like she hadn't noticed it herself. All of them had. They caught glimpses of it every time the human got angry and something dark and terrifying flashed in his eyes, like he was holding himself back by the flimsiest of chains.
+
+It might have been harder to spot, perhaps, if they hadn't already seen Akkau do the same. Pain behind a smile. Flia wondered if that was just a part of immortality, or if there was something about those two in particular. The Leviathan seemed like she'd been through her fair share of pain, but she didn't seem to hide it.
+
+Then again, maybe she didn't need to.
+
+"Good," the Leviathan said, smiling at her. "But I suppose we are not here to talk about him."
+
+"Right," Flia agreed hastily, if only because she wasn't sure it was a good idea to let her thoughts keep wandering. "Cale said you'd tell me more about the blessing you gave me."
+
+The Leviathan hummed. "Yes," she said, looking down briefly; Flia had the brief, absurd impression of a sad puppy. "It was meant to be a gift. I may be a Monolith, but I cannot interact directly with the realms, for they lie outside my domain. I govern all that lies between, but it is within that absolute expression of my strength that my greatest weakness lies: I am watcher and spectator, the observer from without. I am not, and can never be, participant."
+
+She swam in a slow, lazy circle, as if to gesture to all the realms around her. "And so, if I wish to act within any of the realms, I must appoint a harbinger—"
+
+The Leviathan must have caught Flia's look of alarm, because she laughed softly once more. "Not that sort of harbinger, my dear. I do not bring an apocalypse. Perhaps herald might be a better term?"
+
+Even as she said this, she was pushing her snout insistently against Flia's hand. Flia glanced down helplessly, feeling a bit absurd. "Are you... asking for scritches?" she asked hesitantly.
+
+On the one hand, giving scritches to something at this level of power felt like she was committing some kind of blasphemy. Possibly multiple kinds of blasphemy. It was nearly as bad as those paintings Damien kept. On the other, not giving the Leviathan scritches if she was asking for them felt equally dangerous.
+
+And the Leviathan was cute, damn it. She wanted to.
+
+"Obviously," the Leviathan said, looking at her like the question she'd asked was ridiculous. Flia just sighed and began scratching the Leviathan's scales gently, feeling absurd. Were all incredibly powerful mages like this? Did Akkau ask for scritches sometimes?
+
+Flia abruptly envisioned Cale giving the Headmaster scritches, then banished the thought as quickly as she could. Not the time.
+
+"As I was saying," the Leviathan continued. "In order to take action, I must appoint someone to act in my stead. When I do this, I lend them a small portion of my domain. You carry within you a fragment of the First Monolith, the Law of What Lies Between."
+
+A small pause, and then the Leviathan swished her tail awkwardly. "...I suppose I did just say I was not supposed to tell you that just yet," she said thoughtfully. "But I see no way of avoiding it. A minor infraction; do not worry about it."
+
+Flia blinked. "I mean, if I'm going to be your herald, I'd have to know, right?" she offered.
+
+"Indeed." The Leviathan nodded to herself, seemingly satisfied by that line of reasoning. Or communicating with someone across a great distance, perhaps? "I cannot explain what we are further, but that is enough to give you some understanding of your role, I hope."
+
+"The Law of What Lies Between," Flia muttered. There was a lot she could infer from that name alone. "But why me? What do you need from me?"
+
+The Leviathan was silent for a long moment. She swung her tail again, this time in agitation more than anything else, and then eventually spoke. "The Abyssal you saved," she said. "It is not the only Abyssal One that is missing from my domain."
+
+Flia stiffened. "It isn't?"
+
+"No." The Leviathan's tone was restless, severe. "There are others. I do not know where they are, only that they were last seen near your realm. And so I searched for a herald that would understand. That would hold sympathy, even for something so crucially and fundamentally different.
+
+"You must understand, most mages do not react to Abyssals the way you do. Abyssals do not belong within the Great Realms. There is an instinctive... disgust. A revulsion that exists through no fault of the mage. And among those that can work through that revulsion, there are many that would simply avoid the Abyssal, or find a way to use it.
+
+"You, however... You see only the heart beneath, even before I lent you my power." The Leviathan's tone gentled slightly. "Though they are creatures born of tragedy, the abilities of Abyssal Ones are vast. Yet much like myself, in their strength lies a weakness—they are as weak to the Realms as the Realms are to them.
+
+"And so given enough time and power, an Abyssal One can be turned into a servant. They can be crafted into artifacts that corrupt the very foundation of a realm. Some mages have succeeded even in merging themselves with Abyssals, creating abominations of power that tear at the boundaries of the realm that hosts them.
+
+The Leviathan looked up at her. "You understand the problem, I imagine."
+
+"I do." That sounded very bad, in fact, but Flia found to her own surprise that she was more incensed than she was scared. "You're saying someone's been abducting these Abyssals, and I'm the only one that can send them back. And whoever's doing this is hiding somewhere in Utelia?"
+
+"That is the most likely scenario."
+
+"Why didn't you tell me sooner?" Flia burst out without thinking. "I could have tried to find them! I could have—"
+
+"You would have died."
+
+The simple, matter-of-fact way the Leviathan had said those words stopped Flia dead in her tracks. She froze, feeling almost like she'd been doused in ice magic.
+
+"I am limited in the guidance I can provide," the Leviathan said, not without a tinge of guilt in her voice. "But I could and should have done more. Understand this, Flia—you possess a fragment of my Law. That is, in and of itself, a power you can cultivate that is distinct from mana. It is authority. It is the power of a Rule, and it governs all that lies between.
+
+"I truly did not know you would have difficulty controlling it, or that it would affect your magic to such a degree." There was regret in the Leviathan's voice now. "But now that we have met, I can see why. Your affinity with my Law is far greater than I had anticipated. You have been using it subconsciously—to connect with magical creatures, to deepen the bonds you forge, and even to weave probability itself around you. Without conscious control, that power leaks into your every action.
+
+"Reach into your core." The Leviathan spoke the words authoritatively, like it was imparting some deep secret unto her. "You will recognize my power now that you have met me. It resides within you, waiting for your touch. And when you do..."
+
+The Leviathan swam forward, booping her gently with her snout.
+
+"Grasp it with all that you are," she said. "Use that heart of yours, Flia, and bind it to your magic. The Gift, for all its faults, will do the rest. It is truly a marvellous creation."
+
+Flia woke up gasping, the currents of water in the pool she slept in swirling and splashing rapidly as if in turmoil. She swallowed, struggling to understand everything she'd seen. What the Leviathan had implied.
+
+A part of her had almost worried that Damien and Leo would leave her behind, with everything they'd gained, but this?
+
+She could do something with this. If she understood this correctly, then everything was connected. The Great Realms by the Abyss, yes, but also people to one another. One event to the next.
+
+The Red Hunters to their school, and their school to her friends.
+
+Besides, if anyone else on Utelia was capturing and using Abyssal Ones, it would be them. What else could explain the powers they exhibited? That archmage had managed to sneak past Syphus's sight, of all things.
+
+Flia sat in her pool, staring at the glowing water as it swirled with a gentle current. Her expression hardened, and she took a deep breath, then closed her eyes and dove into her core.
+
+No classes today. Not until she understood exactly what this was and how she could use it.

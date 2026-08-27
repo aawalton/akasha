@@ -1,0 +1,15 @@
+---
+id: bb0a545c-4daa-5b86-a9c8-d2da4c8d01d8
+page-type-slug: story-chapter-royal-road
+title: "Audiobook 5 lauuuuuunch!"
+slug: 0014-audiobook-5-lauuuuuunch
+partOf: mark-of-the-fool
+position: 14
+ownLength: 78
+unit: words
+publishedAt: 2024-03-27
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1570156/audiobook-5-lauuuuuunch"
+royalRoadId: "1570156"
+---
+
+Hello everybody! Just as promised, I'm here to give ya the link to Mark of the Fool 5, narrated by the always amazing Travis Baldree. I know many of have been waiting for this, so here it is:https://www.audible.com/pd/Mark-of-the-Fool-5-Audiobook/B0CXFHQGRLIf you wanna give me some help, then upvoting these reddit posts would be awesome (if you have reddit). Of course, you don't have to. It is your choice:https://www.reddit.com/r/ProgressionFantasy/comments/1bp4yio/mark_of_the_fool_5_audio_launches_today/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_buttonSupport the author by searching for the original publication of this novel.https://www.reddit.com/r/litrpg/comments/1bp4xhj/mark_of_the_fool_5_audio_launches_today/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_buttonChapter incoming!

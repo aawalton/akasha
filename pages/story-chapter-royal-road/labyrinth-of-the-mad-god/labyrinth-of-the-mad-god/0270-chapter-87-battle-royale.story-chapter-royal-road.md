@@ -1,0 +1,111 @@
+---
+id: 680e7dfc-42d3-580a-abcd-09ed5fa0974a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87: Battle Royale"
+slug: 0270-chapter-87-battle-royale
+partOf: labyrinth-of-the-mad-god
+position: 270
+ownLength: 1818
+unit: words
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2906089/chapter-87-battle-royale"
+royalRoadId: "2906089"
+---
+
+It didn’t take Nick long to reach the entrance to the monsters’ nest, since he’d already spotted it from a distance.
+
+Up close, it looked like an anthill the size of a two-story building. Given the width of the tunnels and the scale of the monsters, he was certain that he was looking at the exit to a network of underground passageways.
+
+Engaging an enemy on its home turf wasn’t his idea of a good time, but those people were in trouble, and he needed to sever the source of the swarm’s strength before it was too late.
+
+By this point, there were less than nine minutes left on the System’s countdown. Laura’s lightning would buy them some time, but he needed to work fast if he was going to save Dragon’s Tooth and complete the quest.
+
+Fritz was awake and ready to help Nick however he could. With Blightbane watching his back and Size Up evaluating the terrain ahead, he pulled out a Potion of Echolocation and quaffed the bitter brew.
+
+His senses expanded when the alchemical concoction entered his bloodstream, letting him feel the terrain ahead, even in pitch-blackness. He had a couple of items he could use as a light source, but they would give his position away, so he saved them for when the potion ran out of juice.
+
+With Blend into the Background concealing his presence combined with his Charm of Muffling, he made his way belowground. He pressed himself against the wall whenever a monstrous insect passed by instead of stopping to battle them one by one. Getting swarmed by aura-buffed bugs would make it far more difficult to take the elite monster down.
+
+When the passage opened into a sizable enclosure, Nick knew he had found the queen’s lair.
+
+Sure enough, the biggest monster he’d ever seen was sitting in the middle of the chamber, surrounded by two guards half its size and a towering pile of eggs. Human, animal, and bestial remains were piled in one corner, revealing that this hive had been active for some time before it detected the city and attacked its core.
+
+My best bet is to catch them off-guard and end the fight in a flash. While he examined his opponents, Nick called upon Arctic Clarity, planning his next move as the surge of frigid focus honed his awareness to a razor’s edge. Fortunately, the queen was distracted by the potent aura it was channeling and showed no indication that it had noticed his arrival.
+
+He took a deep breath, placed one hand on the sword’s hilt, and got ready to unleash Sonic Slice.
+
+He pumped more energy into Force Acceleration and then activated Heavy Blow. A dense layer of force mana encased his body as a swell of stamina enhanced the muscles in his arms to magnify the momentum of his blow. His Half-Length Scabbard added extra energy to his draw as the curved blade flew free from its cover in a streaking flash.
+
+Nick waited until just the right moment to switch off the ability, causing a ghostly double of Blightbane to erupt from the blade.
+
+A crack like a gunshot rang out as the supersonic wedge of force mana tore for the insect queen, heading for the place where head met thorax. The monsters must have sensed the mana, because they sprang into motion a fraction of a second before the combo was complete.
+
+Both guardians threw themselves in front of their queen as the big insect lurched to one side. Sonic Slice cut one of them in half, killing the creature instantly. It carved half the limbs off the second monster before clipping the queen’s abdomen, scoring a deep wound along one side. Shit. That was good, but it wasn’t good enough.
+
+This was a four-star opponent, and he knew from experience that it wouldn’t go down without a fight. He had acquired a significant advantage with his ambush, but the battle was far from over.
+
+Sure enough, before Nick had time to sheathe Blightbane and try again, the injured monster and the hulking queen came rushing for him in a blur of bladed limbs.
+
+That would have been trouble all by itself, but along the way, the queen adjusted the aura it was casting. Instead of transmitting to buff the entire swarm, all the magic was redirected into the pair of monsters—multiplying their power in the blink of an eye.
+
+It was a powerful trump card. A move that would have overwhelmed ordinary enemies before they knew what hit them.
+
+However, Nick had left the realm of the ordinary behind him long ago. He had suspected something like this might happen and was ready to counter with an ace of his own.
+
+He ducked beneath the guard’s stinger while gathering his will. While the queen was fine-tuning its magic, he used Blightbane’s new power in battle for the first time, summoning Fritz as he dodged one attack after the next.
+
+There was a flash of light as the blade left his hand and floated into the air. A bare second later, the Kastillan king wavered into existence, holding Blightbane in a two-handed grip.
+
+Nick hadn’t wielded his short sword often, but he had it sheathed at his hip in preparation for this moment. He drew the lighter weapon and infused its blade with pure mana, as a two-on-one battle became two on two.
+
+At the same time, he used his newest technique and manifested Predatory Domain. His killing intent washed over the gigantic ants, causing them to hesitate as primal fear assailed their minds. They were powerful enough to shake off a portion of the effect, but he could tell that his domain was impeding their movements and dulling their reflexes, giving him an edge in the impending conflict.
+
+Although it was clear that the monsters could sense him, he kept Blend running. The trait seemed to be having some effect, and he needed every advantage he could get.
+
+As the aura-buffed monsters arrived at his position, a frenetic melee ensued. The Kastillan king only possessed a fraction of his former strength after his long imprisonment, but he still had every scrap of his skill. Fritz held the weapon that housed his soul and engaged the stricken insect, leaving Nick’s path clear to take on the queen.
+
+Thanks to Force Acceleration, he was faster than hulking monstrosity. However, the big bug was significantly stronger, and he had no desire to test its mana-bolstered mandibles against his Toughness and armor.
+
+He couldn’t block blows head-on with his short sword, so he focused on evasion instead, deflecting strikes with Arcane Shield before darting in to pierce a vital point.
+
+Nick only had four minutes until Fritz disappeared. He needed to win before that happened or the monsters would surround him, and his odds would grow significantly worse.
+
+At least the queen’s aura isn’t buffing the rest of the swarm. That should buy Laura some time and make it easier to defeat the ants that are invading the settlement.
+
+As he fought, Nick cast Piercing Ray and Mana Dart in a constant barrage, burning through his reserves to take down the boss before it could land a critical blow. He divided his focus as he fought, casting on the move without taking his mind off his bladework or losing awareness of his surroundings.
+
+Both spells were effective in their own way. The rapidly rotating rays drilled holes in the queen’s armor, chipping away at the structural integrity of the chitin and making it easier for his blade to break through.
+
+His darts disrupted the ant’s vital energy, causing it to momentarily lose control over its body, which made it easier to dodge attacks and land blows. Every time a silvery wedge sank into its carapace, the queen’s aura flickered, depriving both bugs of the supportive magic for a few seconds.
+
+A stray corner of Nick’s mind was watching the king in action—his first time witnessing the warrior in battle. Fritz had a lifetime of combat experience, and in his hands, Blightbane became an instrument of mayhem.
+
+The king leapt and dodged and ducked like mad. His stance was perfectly balanced, and he judged the distance between his blade and his foe with a mastery that Nick could only dream of. Every strike hit an eye, joint, or other vital area as the warrior slowly gained the upper hand.
+
+The battle raged on for the next breathless minute—both sides struggling to prevail.
+
+Despite his best efforts, he took some glancing blows to his arms, crying out as the monster’s mandibles bit through his armor and sliced into the flesh below. A fight on this level was incredibly exhausting, and he was burning through his mana at a rapid rate.
+
+He needed to finish this before Fritz’s time was up, but his vital energy was running low. Fortunately, Nick had another trick up his sleeve.
+
+After pulling his wand free from its holster, he blasted the queen three times in a row while sheathing his sword and reaching for the Flask of Restoration attached to his belt. The intense cone of force drove the creature back, buying him the time he needed to turn the tide.
+
+He broke the seal and quaffed the elixir in a single motion, sighing in relief as its magic restored a fair portion of his stamina, magic, and health at the same time.
+
+Nick fired the last two charges of his wand—one at both bugs to open some space—then got ready to try Sonic Slice with a shorter blade for the first time, completing the move as the giant insect came charging back into the fray.
+
+Since the weapon was lighter than Blightbane, there wasn’t as much power behind the projection. On the other hand, it was quicker and didn’t drain as much mana, adding some pros to balance out the cons.
+
+He had enough time to fire three mini-slices in half as many heartbeats before the battle was joined once more. The force blades slammed into the queen’s thorax. They cracked her armor but didn’t bite through, although a few more should do the trick.
+
+Unfortunately, the monster didn’t give him a chance to try again.
+
+They traded blows as the battle dragged on—neither side gaining the upper hand. Shit. Five minutes is nearly up.
+
+Just before Fritz wavered out of existence, the Kastillan king stepped forward, taking pair of mandibles through his chest in exchange for carving the ant’s head free from its body.
+
+As the warrior shattered into fading fragments of light, Fritz flung Blightbane Nick’s way, speaking inside his mind before the king’s presence vanished.
+
+“Destroying my manifestation doesn’t hurt me, but I’ll need to sleep for a while.”
+
+Relieved that his friend was going to be okay, Nick caught the heavy blade by the hilt, sheathed his short sword, and got ready finish the fight.

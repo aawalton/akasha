@@ -1,0 +1,173 @@
+---
+id: 4051f730-0293-5c4a-8d64-57e3bb1c71fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26 – The Gardens – Pt 2"
+slug: 0026-chapter-26-the-gardens-pt-2
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 26
+ownLength: 1918
+unit: words
+publishedAt: 2024-12-10
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1950263/chapter-26-the-gardens-pt-2"
+royalRoadId: "1950263"
+---
+
+Breathe.  Kindra forced the panic away. Grabbing her mana, she let her instincts take over. The runes of the shield blazed through her mind like a fire, and she ignited them.
+
+Transparent magic met caustic green. The poison sprayed across her shield, coating it in caustic greens and yellows.
+
+Stavn shouted and stepped backward.
+
+Grabbing Kindra’s hand, Sigrid dragged her back down the tunnel. “We can fight it from a distance.” She ran.
+
+Kindra joined her, racing up the tunnels and leaving the creature behind.  I need to get silencers and earplugs.  She felt her shield break and heard the skittering of feet on stone.
+
+“Kindra, run ahead. There’s nothing you can do,” Stavn said, hefting his axe.
+
+Kindra turned. “He’s going to melee it?”
+
+“Let me seal it off,” Sigrid said, scowling at him.
+
+“I can take it. If I avoid the webs and poison.” He nodded at Sigrid. She groaned.
+
+Ah, fuck it.  Kindra pulled out the M4 rifle and burned mana. Runes danced around her, and she smelled her blood momentarily.
+
+[Basic M4 carbine rifle has been enhanced with armor-piercing rounds for 1 hour. Each shot will negate up to 50 stamina when fired. This effect lasts ten seconds after being fired.]
+
+Pulling out a magazine, she jacked it into the gun and turned, lining up the shot. The cylindrical, multi-legged insect skittered, dozens of legs blurring as it shot down the tunnel with its cylindrical mouth open wide. A glowing ball of mana formed inside the massive centipede-like creature.
+
+“Kindra? What—”
+
+“Cover your ears!” Kindra barked and pulled the trigger, holding it down. The gun roared, the sound ringing around her like a bell. The smell of burning gunpowder filled the air, and the strange centipede’s head exploded, fluid spraying down the hallway.
+
+Staggering, Kindra blinked.  Well. That’s one way to do it.  She detached the mag and refilled it before turning to the two dwarves. Both stared at her.
+
+“What in the tarnation was that?” Stavn bellowed, rubbing his ear.
+
+Kindra stepped forward and felt a connection form with the dead insect. She ripped the mana into herself, letting the torrent crash into her. Rubbing her ears, she frowned at the ringing that remained.  I have got to get earplugs.
+
+“Kindra, where did you get that?” Sigrid asked, moving forward and rubbing her back. “Did you find ruins?”
+
+Vanishing it away, Kindra grinned at the dwarf. “I made it.”
+
+“She made it?” Stavn shouted, rubbing his ears.
+
+“Sorry,” Kindra said sympathetically.  And get extra ear protection for others.
+
+“What?” he shouted.
+
+Kindra chuckled and turned her attention.  “Aika, I’m going to level.”
+
+“Yes!”
+
+[Your mana increased: 1498  →  1739.][Your mana has decreased: 1739  →  1619.]  ‎ [Your level has increased: 6  →  7.]  ‎ [Your intelligence has increased: 10  →  12.]
+
+[Please select four attributes to increase.]
+
+Kindra looked at them.  Do I go glass cannon? Eh. I’d rather not die to some virus or something. And this will help me not get deafened.
+
+[Your speed has increased: 8  →  10.]  ‎ [Your stamina has increased: 2  →  4.]
+
+[Please select an ability or upgrade:  ‎ - Hearty Strike: You may use mana to augment your next strike or shot, boosting the power of the strike. The boost varies based on mana spent.  ‎ - Resilient Frame: You may use your mana to absorb damage from heat or shrapnel. The shield varies based on mana spent.  ‎ - Transmutation: Reduce the cost of the skill by 20%.  ‎ - Accurate Strike: Use mana to boost the precision of your next swing or shot.]
+
+She paused.  I’ll just make something with dexterity.  She picked the third one. “ Aika, what did you get?”
+
+“I upgraded my suit to give double attributes! Thanks!”
+
+Stavn turned. “That thing’s loud.” He walked down the passage.
+
+Sigrid raised a brow. “Level up?”
+
+“Yes, sorry.” Kindra followed her down the tunnel.
+
+“That’s fine, dear. You could use them.” Sigrid patted her on the back and stepped forward, walking up to the crumpled corpse.
+
+Kindra followed and glanced down at it.  Wonder what I could use that for?  The long insect was over a foot in diameter and over twenty feet in length. Armored plates lined its body, and both the dwarves avoided it.
+
+Doing the same, Kindra avoided the yellow fluid that leaked from it, following the two dwarves down the tunnel and toward a soft glow. It lit the stone, revealing a moisture that clung to the rock. Thick mana hung in the air, and mushrooms came into view.
+
+Looking like living lamps, the mushrooms littered the area. Moss blanketed the stone, and a small pond glistened. Surrounding it were some large amphibians. They looked up and dove into the pool, swimming off to somewhere. Turning her focus, Kindra looked at the plants, locking onto the ones that were aglow with magic. She bumped into Sigrid and pointed.
+
+Sigrid nodded and studied the room, searching for something. Kindra did the same.  What’s she looking for?  After a moment, the dwarves stepped forward and pulled out their weapons.
+
+Kindra walked alongside, moving into the cavern.  Why are they producing light?  She studied the surrounding mana. A glowing ball of it moved, bobbing forward and leaving the cavern.
+
+Reaching out, she willed her nine millimeter into her hand, slamming a magazine into place and burning mana.
+
+[Basic nine millimeter has been enhanced with armor-piercing rounds for 1 hour. Each shot will negate up to 30 stamina when fired. This effect lasts ten seconds after being fired.]
+
+The glowing ball of mana prowled forward.  Is that a cat or something?  Kindra aimed at it, and Stavn spun, his axe blurring and sinking into whatever was there.
+
+Blood sprayed, and the invisible creature hissed, shooting backward and leaving a trail of blood. It bound into the corner and licked the wound. Kindra aimed and pulled the trigger. The sound bounced around her. The bullet streaked forward, and another spray of blood hit the wall.
+
+Taking aim, Kindra exhaled. The creature hissed and ran, bolting into a nearby tunnel.  Darn.  She checked the mag, and the ground trembled. Stones danced, and her adrenaline spiked.
+
+Maybe I shouldn’t have used the gun.  Kindra bit her lip and searched. The ground quivered, and a grub burst through the wall. It emerged in a shower of stone fragments, engulfing one of the giant mushrooms. The other mushrooms lashed out, stabbing it with roots. Bursts of light flashed, creating a disorienting and nauseating effect. Runes blazed through the air, and Kindra slammed her eyelids shut, willing the counter sequence into her mind.
+
+The grub continued thrashing. The ground quaked, and she opened her eyes. With the mushroom inside turning into pulp, the grub engulfed another mushroom and slammed its body into the ground, breaking it and the stabbing roots into pieces.
+
+Ripping themselves from the ground, the glowing mushrooms began to flee. Stavn shot across the floor and hacked into the grub, spraying that disgusting fluid everywhere. The grub rolled toward him and threw itself into the air, its massive bulk flying at the dwarf. He dashed backward, a burst of runes surrounding him. Spinning, he swung furiously, and a glowing blob of mana crept into the room.
+
+No, I don’t think so.  Aiming at it, Kindra watched the creature leap onto the worm. Sinking in claws, it ripped into the grub.  Is it trying to steal the kill? Or is it friendly?
+
+The grub thrashed, fluid leaking everywhere. The invisible creature ripped into it, and mana streamed into it.  No. That’s mine.  Kindra pulled the trigger. The gun barked, and the bullet blew through the creature. Blood sprayed out on the wall, and a black feline appeared. It slumped onto the ground.
+
+Kindra reached out and grabbed its mana, ripping it into herself before turning to the grub. The grub slammed into the ground and rolled into its tunnel, trying to flee.
+
+To her surprise, Stavn let it, backing away instantly.
+
+Turning to Sigrid, Kindra gestured.
+
+Sigrid leaned close. “Follow,” she whispered.
+
+The three walked into the grub’s passage, following the trail of fluid that had been left behind. Weaving through the stone, they traveled for ten minutes. Kindra peered into a room and covered her mouth to mute her gasp. Glittering in the soft glow of the grub’s mana, metal and gems decorated the large den.
+
+Do those things refine stuff while they go through here?  Kindra turned, and Stavn shot by. He attacked the grub in a fury, cutting and hacking it open. Fluid gushed through the room, and he leapt back, moving quickly behind the two.
+
+“Go on, Kindra,” Stavn said, nudging her forward. “Try to get the mana again.”
+
+Kindra didn’t wait any longer; she walked inside and ripped it into herself.  Well, this is a lot easier.  She looked around the room while the small torrent filled her.  Where’d the metal and gems come from?  She reached down and picked up a sparkling gem of some sort.  And what gem is this?
+
+The sound of picks hitting stone jerked her focus away from the gem. She turned and saw both dwarves attacking the place, ripping out metal and gems.
+
+Pulling out a hammer, Kindra burned mana, shifting it into a pick before doing the same, harvesting copper, steel, gold, silver, and any strongly glowing gems. Each harvested bit went into her cache.  I’m going to run out so fast. Maybe I can make a cart.
+
+Her cache filled minutes later. Focusing on her design, she walked to a bit of metal and willed it into a cart. Then, she resumed her harvest, filling the cart with the metal and ignoring the glass and gems.  Someone else can have them. I need to make things.
+
+Piling up the cart, she shoved the heavy thing and blushed as it refused to move.  Fine. I need some strength.  Sigrid chuckled and walked over with a chain.
+
+Chain. Where’d she get that?  Kindra spun and saw carts that the two must have made.
+
+Sigrid linked them together and joined Stavn at the front. They pulled.
+
+Shoving on the back one, Kindra followed them down the tunnel toward the pond.  Well, that’ll be a great mining spot, though it’s far away.  Rumbling down the tunnel, the three emerged in the grove.
+
+Stavn grabbed the cat and tossed it onto the pile. He gestured at the plants and pulled the carts back towards the city. Kindra darted into the room and collected mushrooms, pulling the mana into herself while she worked.
+
+Grabbing the last one, she handed it to Sigrid and jogged down the tunnel to catch up with Stavn.
+
+[Your mana has increased: 1619  →  2357.]
+
+Kindra’s mouth dropped.  Well, that’s utterly absurd.  She scurried after the two, catching up and pushing on the heavy cart.  “Hey, Aika, how’s it going over there?”  She shoved and waited.
+
+“He’s mining and being boring, but he says to tell them that we found it.”
+
+“Found it?”
+
+“Yes. He found it, and he’s way too happy about it.”
+
+“Found what?”
+
+“The lost city of the dwarves. I guess it’s their Atlantis or something.”
+
+Kindra shrugged. “Sigrid, Aika says that they found it.”
+
+Sigrid staggered. She turned with a wide smile. “They found it?”
+
+“That’s what Gleon said.”
+
+A massive smile spread across Sigrid’s face. “That’s wonderful.”
+
+“Uh oh. Can’t talk now. He woke something up.”
+
+“Woke what up?”  Kindra waited, worry spreading through her body.  “Aika? Woke up what?”

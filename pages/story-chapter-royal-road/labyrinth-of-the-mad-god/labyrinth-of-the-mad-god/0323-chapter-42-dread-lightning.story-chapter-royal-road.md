@@ -1,0 +1,105 @@
+---
+id: bdaf94ab-dad6-5c1e-98da-df4c9a9d573b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: Dread Lightning"
+slug: 0323-chapter-42-dread-lightning
+partOf: labyrinth-of-the-mad-god
+position: 323
+ownLength: 1878
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3608747/chapter-42-dread-lightning"
+royalRoadId: "3608747"
+---
+
+Nick and his friends picked up the pace as morning transitioned into afternoon, navigating the maze of trees with a little help from his Skywalking technique and Pathfinding skill.
+
+While charting a course was tricky given the density of the trunks, determining their destination was easy thanks to mage sight. “My mana senses aren’t as sharp as yours,” Kenji said when they stopped for lunch, “but I think the drain is growing stronger the closer we get to the Storm Lord’s lair. I wonder why our vital energies and essence aren’t being stolen too.”
+
+“Our arcane barriers are blocking the effect,” Nick replied. “If we ever get weak enough that our energetic cores can’t produce a protective layer of mana, the magic that is killing this biome will start sapping us too. It’s the reason the plants and animals have been hit so hard, but the monsters and beasts haven’t succumbed.”
+
+“This is the least of what dreadbeasts can do,” Bandit added. “Each abomination is different, but they all use magic to suck the vital and transformative energies from everything within range. We need to come up with countermeasures before we engage them, or we will suffer the same fate.”
+
+“It sounds like assassinating the creatures is our best bet.” Kenji rubbed his chin. “We will run if that doesn’t work and save battling them head-on as a measure of last resort. Either way, Bandit is right. We need to devise a strategy to counteract their vampiric powers. Maybe Nick can whip something up with pure mana.”
+
+“That’s a good idea,” he replied. “I’ll start working on the problem.”
+
+Before they resumed their journey, the team spent a few minutes testing out Force Armor. Nick activated his aura, causing a flexible shell of force mana to encase his friend’s bodies. They subjected the spell to various forms of abuse, including scratching it with their teeth and claws, or in Kenji’s case, the blade of his dagger.
+
+“This magic is fantastic.” Bandit let out an enthusiastic chitter. “I greatly prefer not getting hit to begin with, but now I won’t be splattered across the ground if something lands a heavy blow.”
+
+“I’m a defense and support specialist.” Kenji nodded. “Anything that makes me better at that role is a godsend.”
+
+Lurk let out a grunt of approval while staring at the spot where she’d been stung by the monster. It was clear that the beast had internalized that while Regeneration was an amazing ability, she couldn’t rely on it to deal with every form of attack.
+
+“All right,” Nick switched off his aura. “That’s enough experimenting for now. We still have a long way to go and those dreadbeasts won’t kill themselves.”
+
+***
+
+Late the next day, the party was approaching a valley running between two barren hillocks when the hair on Nick’s arms stood on end.
+
+He called out a warning as an electric tingle ran down his spine, trying to figure out what in the world was going on. The sensation felt vaguely familiar, although he had never experienced it before. When he realized the feeling was coming from the same direction no matter which way he turned and was growing stronger with every breath he drew, he put the pieces together.
+
+“My Storm Chaser trait just kicked in. Some dangerous weather is headed our way, and we need to find cover fast.”
+
+Trusting his judgement, the team sprang into motion. They spread out, searching for cover that was substantial enough to shield them from whatever was coming. He skywalked high enough to expand his field of view while Kenji used Tactical Command to coordinate the party’s movements.
+
+When Nick switched on Enhance Senses and ran his gaze across the hills, he caught sight of a cave mouth. He wasn’t sure how deep the enclosure was or if it was unoccupied, but it was the best shelter they were likely to find in the little time they had left. He yelled to get Keji’s attention and pointed out the cave as everyone ran for their lives.
+
+When he looked over his shoulder, he caught sight of a stormfront devouring more of the heavens with every second that passed. The roiling clouds were a muddy brown hue, and sickly green lightning danced within their depths. Somehow, he was certain that this was no natural storm, magical or otherwise.
+
+Thanks to his high Mind, he could analyze the approaching environmental hazard while racing for cover. What he sensed sent adrenaline cascading through his bloodstream and set his pulse pounding in his ears. Instead of collecting mana from the upper atmosphere and driving it to the ground like the bladewind and the searstorms from his tutorial, the lightning was pulling energy up and into the cloudbank. It reminded him of was happening to the forest on a far grander scale.
+
+“I think that storm was created by a dreadbeast,” he explained when the party darted into the cavern, which was about thirty feet deep and thankfully unoccupied. “It’s targeting anything with an energetic core and draining whatever it strikes.”
+
+“Now we know where the title Storm Lord came from,” Kenji replied as everyone pressed themselves against the far wall, watching as the stormfront broke over the hilltop.
+
+There was only a little rain, but the wind was intense, whipping Nick’s hair around his face as the gusts shrieked through the valley below. When the first bolt of dread lightning struck a beast standing on the next hill over, the world disappeared in a fell green flash. As a wave of fatigue broke over him, he realized that even from that distance, it had stolen trace amounts of vital energy from his body. We need to devise a defense before any lightning lands closer to our position.
+
+He was about to share his observation when the situation took a sharp turn for the worse.
+
+As it happened, dread lightning wasn’t bound by the same natural laws as physical lightning. It was a magical manifestation of the dreadbeast’s Concept, designed to strip all life from the biome. In short, merely having a roof overhead wasn’t sufficient to escape its wrath.
+
+The next bolt that landed near the cave didn’t strike the ground. The ominous green energy curved and flew into the enclosure, heading straight for where Nick and Kenji were standing. It wasn’t as fast as natural electricity, giving him just enough time to shove his friend out of the way before he was struck by the dreadbeast’s bolt.
+
+In the midst of that terrible moment, time slowed down—each millisecond sailing by at a glacial procession. The spell pierced his arcane barrier like a blade through an eggshell, reaching into his body to grab hold of his essence, along with every scrap of stamina, mana, and health.
+
+Nick felt his heart stop.
+
+He knew with complete and utter certainty that before he had time to utter a word, he would be dead, reduced to a smoking husk beyond any hope of recovery.
+
+He tried to free cast pure mana to form a buffer but there simply wasn't enough time. The dread lightning had already begun to pull, drawing his vital force toward the storm raging above. Just before the last of life force escaped his energetic network, something inside him stirred.
+
+Ever since arriving on this world, Nick had felt a resonance every time he encountered the dreadbeasts’ magic. Something about the way the monarchs turned their enemy’s power against them called to him. He felt the same way about the School of the Ever-Surging Blade Rita had taught him, but this was deeper and far more profound.
+
+In that frozen moment, he realized there were parallels between the dreadbeasts’ Concepts and the way that his Mana Darts weaponized his opponents’ vital energy. How Force Riposte stole momentum from their strikes and sent it back the other way. It was there when Force Acceleration’s blinding speed let him outmaneuver his foes, and when Predatory Domain broke their wills.
+
+Nick had no desire to steal essence indiscriminately or drain the planet’s vitality. He didn’t want to bend the natural world to his will or harm innocent bystanders in any way. He only sought to dominate the health, stamina, and mana of his enemies, along with their kinetic energy, fighting spirit, swordplay, and magical defenses. No. Not dominate. Devour.
+
+And that wasn’t all.
+
+Something else was responding to the energy-devouring storm. Something that had been slumbering inside him was waking up upon sensing a fellow predator or potential prey, he wasn’t really sure. It had been part of him for months, branded into his DNA by the Crimson Blight that had nearly subsumed his body, mind, and soul.
+
+The dreadbeasts were masters of vampirism and subsummation, but the blight was even more dangerous—an entity capable of devouring galaxies and remaking them in its own image. While Nick’s mind and soul were his own, his body had been forged into something more than human. A weapon that could beat the creatures at their own game.
+
+The cells that had been mutated by the Crimson Blight bit into the dread lightning coursing through his veins and pulled. His Blightborn trait dragged the stolen energy back into his body, restarting his heart and flooding him with power.
+
+He took a staggering step followed by a shuddering breath, stunned to still be alive. “What the fuck just happened,” Bandit asked with wide eyes. “How are you still standing?”
+
+“No time for that now,” Kenji said. “We need to improve our shelter!”
+
+The warrior used his gloves to create a wall for the team to hide behind. Nick added an Arcane Shield, since the pure mana woven into the barrier should deflect the dread lightning if it managed to pierce the rock.
+
+Before Kenji sealed the last spot, Nick said, “I know this sounds crazy, but I’m on the verge of a breakthrough. I need to go back out there.”
+
+“That does sound rather insane, but you have a unique insight into our new reality, and I’m inclined to trust your instincts.”
+
+He walked back into the storm, spreading his arms as he climbed the hill while daring the lightning to strike him. And strike him it did.
+
+His world turned green as he battled bolt after bolt, seeking that resonating note resounding within his essence as Blightborn tempered itself within the crackling barrage. With every strike, every struggle, his Concept came closer to crystalizing, and the part of himself that had been empowered by the blight grew stronger.
+
+Before either process was complete, the dread storm passed overhead. Without more lightning to use a catalyst, he couldn’t push his insight any further, and the strange harmony he’d felt within every fiber of his being faded away.
+
+As the lethal weather retreated into the distance, Nick realized the reason the trait’s warning had felt so different from the bladewind was because it worked like Sixth Sense, providing feedback related to the specific nature of the incoming threat. That will make Storm Chaser considerably more useful when exploring alien environments.
+
+Now that they knew about the life-draining lightning, his trait would protect the party as they searched for Xuthu’s lair and got ready to take the dreadbeast off the board.

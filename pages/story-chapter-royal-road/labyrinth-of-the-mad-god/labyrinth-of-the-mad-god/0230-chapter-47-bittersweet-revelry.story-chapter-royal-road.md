@@ -1,0 +1,115 @@
+---
+id: 6cfd7e17-0b94-5519-aebd-85c49d272820
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47: Bittersweet Revelry"
+slug: 0230-chapter-47-bittersweet-revelry
+partOf: labyrinth-of-the-mad-god
+position: 230
+ownLength: 2122
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2643970/chapter-47-bittersweet-revelry"
+royalRoadId: "2643970"
+---
+
+Nick delved deeper into his city menus and began browsing the lists, speed-reading his way through thousands of choices for how he could spend his Building Points and vouchers.
+
+He wasn’t a civil engineer and wanted to discuss his options with his team before he built anything substantial. However, there were a few items he wanted to purchase right away.
+
+It took him a while to find the first, although he’d had a hunch it would be in here somewhere. It wasn’t available for a voucher since it wasn’t a structure and cost 1,500 BP, which was a considerable portion of Aurora’s total. But given the nature of the Bladewind Badlands, it was a vital acquisition for his people’s prosperity.
+
+On the bright side, it will grow along with the city’s domain. Since it affected his entire territory, there wasn’t anything to place, and when he confirmed the prompt, a message from the System appeared.
+
+The leader of Aurora has purchased:
+
+1 Magic-Weather Barrier (Rare)
+
+This specialized barrier will shield everything within Aurora’s domain from mana-infused weather systems—both naturally and artificially generated. It will not affect the biome’s climate or interfere with non-magical weather.
+
+When more cheering arose—louder this time—he realized everyone had received another update. Nick considered switching these building notices off so his people didn’t get spammed, but he eventually decided against it. They could always do it themselves and he wanted Team Earth to feel included in the process of rebuilding civilization from the ground up. Watching Aurora come to life brick by brick is exciting and will create a sense of community.
+
+He realized community and inclusion weren’t variables he would have considered before his psychic encounter with Liz. But after receiving a crash course in Charisma and boosting the attribute from five to eleven, he was more sensitive to the social implications of his decisions. It was an interesting development, which he added to his growing list of “things to think about later” before moving on.
+
+He would discuss the best way to spend these resources with Kenji and Elizabeth soon, along with anyone else who wanted to participate. Regardless of the details, Nick was planning to save most of his CP and vouchers for items Aurora couldn’t build on its own. That being said, everyone was in the mood to celebrate, and the rest of what he wanted to buy was cheap—only one Common voucher and 100 BP for the lot.
+
+The leader of Aurora has purchased:
+
+50 Tables with Benches (Basic)
+
+10 Barbeque Grills (Basic)
+
+1 Large Bonfire Pit (Common)
+
+10 Exterior Lights (Common)
+
+He picked out a nice spot along the lakeshore and used the holographic overlay to place each item one by one in an arrangement he found pleasing. Except for the firepit, everything could be moved later, so he didn’t have to overthink it now. More cheering preceded a mass migration in his direction as everyone found a spot to set down their gear, pitch their tents, and unwind while recovering from the battle.
+
+An hour later, the place was packed, and the party was well underway.
+
+There was a bonfire blazing in the pit, and the scent of grilled meat filled the air. Nick’s mouth watered as he got ready to enjoy a banquet made from food that people actually knew how to cook, instead of making do with random piles of alien ingredients. There was a heaping mound of otherworldly snacks too, and a remarkably large supply of alcohol, fruit, and pastries. His people had foraged a range of foodstuffs while crossing the biome and had been crafting up a storm over the last few days.
+
+Now that the most pressing issues had been dealt with, Nick was ready to find his friends. Shaun and Veronica were using one of the grills and Kenji was chatting with Liz, but he didn’t see Devin or Sophia.
+
+I’m sure Sophia needed to wash up and get changed. That transformation takes a lot out of her and I’m pretty sure she was buck naked after our fight with the flesh-render matriarch. She probably doesn’t want everyone to know the bonefiend is a transformation instead of a summon either.
+
+When he asked V if she’d seen them, the expression on her face told him something wasn’t right. “You should talk to Devin about Sophia. He has a letter she asked him to give you. I don’t want to say anything until you read it—it isn’t my place.” Shaun was looking at Nick with sympathy, and seemed to be fighting back tears, which made him worry even more.
+
+He found Devin helping himself to a platter of grilled meat—surrounded by a throng of admirers who were competing for his attention. When the athletic warrior saw Nick coming, the smile slid off his face.
+
+“Fuck. I forgot to give you the letter.” Devin rose from the table and had Nick follow him away from the gathering, until they were far enough out that no one could overhear their conversation.
+
+“She’s fine,” Devin began while rifling through his bag. “No. That’s not true. She’s dealing with some serious shit and doesn’t want you to see her until she figures out how to fix it. She’s convinced this is something she needs handle on her own but promised to return as soon as she finds a cure.”
+
+The blond man fished a crumpled letter out from the bottom of his pack, handed it to Nick, then gave him a hug that creaked his ribs. “I’m worried about her too, but Sophia’s one of the strongest people I know—one of the strongest people on the planet for that matter—and I believe in her. She’ll be back once she gets a handle on her situation and knows that if she needs our help, all she has to do is ask. Let me know if you want to talk about it, but for now, I’ll give you some privacy.”
+
+With that, Devin handed Nick the letter, pulled him in for another hug, and walked over to the bonfire where the violinist was playing. Pushing through the dread writhing in his gut, he opened the note and began to read.
+
+“Nick,
+
+By the time you read this, I’ll be gone.
+
+I’m glad I was able to hold you in my arms one last time and watching our people take their first steps toward building a new home has made everything we’ve been through worthwhile.
+
+I’m writing to you because I have a hard truth to share, and I no longer have a voice. I hope you’ll forgive me for not delivering this letter in person, but I can’t bear the thought of you seeing me like this, knowing the woman I was before is gone and a monster stands in her place.
+
+I’ll start with the bottom line and then explain how I got into this mess and what I intended to do about it.
+
+I don’t know how long I’ll be away, and there’s a chance I’m never coming back. If our paths are not fated to cross again, I want you to know how much your company has meant to me during these uncertain and painful days… how much you mean to me. I care about you, Nick, and I always will, but I’m afraid we can’t be together. Not the way you deserve. I can’t even talk for fuck’s sake. Can’t smile or laugh or cry.
+
+So, when I tell you that it’s not you, it’s me, I mean it. Or more specifically, the demon inside me. The creature I am… becoming.
+
+During my tutorial, I came across something that didn’t seem to be part of it—a place where two dimensions bled into each other. I took a foolish risk, got in way over my head, and almost died, which is when the demon revealed itself to me. I made a deal I shouldn’t have in exchange for a Rare class right from the start. While refusing it would have cost me my life, accepting it might wind up costing me everything.
+
+The creature growing inside me is a symbiote, something that can’t manifest in this world without a willing host. We agreed that once we made it back to Earth, we would share my body after I evolved and was strong enough to bear the strain.
+
+It’s not keeping its end of the bargain, so I’m not either.
+
+I have turned into the bonefiend, and I can’t change back. I know you already figured out it was a transformation rather than a summon—you’re way too smart not to have noticed by now. But that’s only half the problem. Instead of sharing my body, the demon is trying to take control. My mind is still my own, but I don’t know how much longer I can hold on.
+
+That’s the bad news. The good news is that I’m not going down without a fight. I got some advice during a consultation I received as one of my floor rewards, along with a quest from the System. I’m fighting to flip the table on the demon—keep control of my body but transform whenever I want. Even if I win, it’s going to be a long, hard journey. One that won’t be measured in days or weeks, but months or years.
+
+I wish that I could hold you tight. Kiss those lips and more. But it’s not what fate has in store. A part of my heart will always belong to you, and I can’t bear to be a cage for yours. You deserve to find someone who can be by your side. Who can laugh at your jokes and keep you warm at night. Someone… human.
+
+So, don’t wait for me. When I get back… if I get back, we can play it by ear, but who knows what will happen between now and then. I have a lead that I’m investigating. When I know more, I’ll try to send word and let you know how I’m doing. Give the others my love and know that you have it as well.
+
+Wish me luck. I’m going to need it.
+
+-Sophia.”
+
+Far too often, you never realize how precious something is until it’s taken from you, and this was one of those times.
+
+Nick felt Sophia’s absence like a punch to the gut, revealing just how much he’d relied on her for emotional support in addition to his other feelings. He had been looking forward to celebrating this moment with her… looking forward to so much more. But staring down at stark truths laid out in the crumpled letter in his hands, he had no choice other than to accept it wasn’t going to happen. Not anytime soon at any rate.
+
+Part of him was hurt that she hadn’t stuck around, but he understood where she was coming from. Right now, Sophia was the bonefiend, and she couldn’t turn back. She might lose control at any moment, and didn’t want to hurt her friends if she did. It reminded Nick of his epic struggle with the Crimson Blight, although some of the dynamics were different.
+
+It was frustrating and sad and fucked up as hell, but it wasn’t anyone’s fault but the System’s.
+
+After what Pax had told him about seeding champions by placing opportunities for extreme growth inside insanely dangerous situations, he was sure that what had happened to both of them was far from accidental.
+
+It was hard to let her deal with the situation alone, but like Devin said, Sophia could take care of herself, and Nick trusted her to get the job done. Even if he wanted to follow her, Sophia could fly. He had no way of tracking her across the face of a greatly expanded Earth, while she could return whenever she wanted. However, if he ever found a way to help her, he’d come running no matter what obstacles stood in his way.
+
+She’ll be back one day, safe and sound and stronger than ever. All I can do now is make sure that she has a home waiting when she gets here. Besides, we’re going to live to be two hundred—maybe a lot longer if we evolve again. A year or two isn’t so much in the grand scheme of things no matter how much this hurts.
+
+Good luck Soph, I’m really going to miss you. Go kick that demon’s ass. I’ll be cheering you on every step of the way. He put the letter in his pack, wiped the tears from his eyes, and walked back to the party.
+
+Nick listened to the music as he went to find his friends—determined to savor this joyous night of revelry, no matter how bittersweet.

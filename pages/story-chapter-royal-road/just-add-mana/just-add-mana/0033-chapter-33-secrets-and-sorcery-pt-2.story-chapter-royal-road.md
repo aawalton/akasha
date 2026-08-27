@@ -1,0 +1,289 @@
+---
+id: bb6e93a0-4dfc-534c-8dab-97c293f98990
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33 — Secrets and Sorcery, Pt 2"
+slug: 0033-chapter-33-secrets-and-sorcery-pt-2
+partOf: just-add-mana
+position: 33
+ownLength: 4457
+unit: words
+ownProgress: 4457
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2592508/chapter-33-secrets-and-sorcery-pt-2"
+royalRoadId: "2592508"
+markedReadAt: "2026-06-29T18:48:41.265Z"
+---
+
+Leo wasn't really sure what he was expecting, but it wasn't this. Everything Cale had said about attuning made sense. It explained why he was having so much difficulty trying to shift the base aspect of his mana core, and even before Cale said anything, it told him in no uncertain terms that his approach had been flawed. In rejecting his core aspect, he was making it even more difficult to attune it to anything else, and while there were records of that sort of permanent reattunement working...
+
+Well, there was a reason all of those records had taken each mage decades. Leo had thought, perhaps rather foolishly, that he was willing to give up those decades if it meant he could be among his family and village once more.
+
+He was a little less certain now, and not only because of everything he'd been through today. As much as Cale had tried to wave off the effects of his very, very long life, even Leo could see the way it wore on him. And minotaurs didn't live nearly as long—he couldn't simply waste decades of his life and... what, come back to live in a changed village, with no one left that he knew?
+
+A second core, though? That was Cale's solution? Leo didn't know if he wanted to laugh incredulously or punch him.
+
+Probably the former. Punching Cale seemed... ill-advised.
+
+Cale was still beaming at him with that ever-present smile, so Leo forced himself to speak again. "What do you mean, building a second mana core?" he asked. It came out a little more desperate than he'd intended. "Can't I just—I don't know—get my hands on something like Damien's cloak? You could awaken a different artifact!"
+
+At those words, Damien flinched slightly. Leo grimaced. He hadn't intended to bring that up, but the words had slipped out. It seemed like such a convenient solution.
+
+"Nope," Cale said dismissively. "That cloak works well for Damien because his base aspect can't be fully attuned to a different aspect. It's a bit like water and oil—you can separate the oil pretty easily. Trying to do that with your mana would be like trying to separate water and... I don't know, milk? It's a lot harder, is my point. That cloak wouldn't be able to do it."
+
+There went that idea. "There has to be something else," Leo argued. "Maybe in Orstrahl's vault. There's an artifact for practically everything. We have the credits, we could—"
+
+"—Leo." Cale interrupted him, his expression turning into something a little more severe, and Leo felt his stomach drop in response. "Why don't you want to make a second core?"
+
+"It's not a matter of whether I want to do it or not," Leo said, flustered. "Second cores are what archmages do. I can't just make one. I'm barely a novice! A second mana core is—it's the step between archmage and minor divinity!"
+
+"Well, yeah." Cale's brows drew together, as if puzzled. "I'm teaching you. It's not like any of you are going to stop at archmage."
+
+The room fell dead silent. Cale glanced around at the four of them, raising an eyebrow slightly.
+
+"...Unless any of you don't want to be an apprentice?" he asked suddenly. "I don't think I ever asked any of you properly."
+
+"I'm pretty sure if any of us said no to that we'd regret it for the rest of our lives." Flia was the first to speak, her tone dry.
+
+"Do you... normally go around picking up apprentices like this?" Damien asked quietly.
+
+Something indiscernible crossed Cale's expression. "I used to," he said.
+
+He didn't elaborate, even in the silence that followed.
+
+Leo broke the silence this time, somewhat awkwardly. "You really think I can build a second core?" he asked. "How long... how long would it take?"
+
+Cale eyed him up and down, then nodded to himself. "Two months," he said. Leo tried not to flinch again. Two months?! Becoming an archmage was itself a task that took decades, it wasn't something that could just be done in a month or two—
+
+"Two months to get the second core started and working well enough you won't need to worry about leaking labyrinth mana," Cale clarified. "It'll take you longer to become a full archmage, probably. Hard to say. Maybe a year or two before you're ready to step into minor divinity?"
+
+"Let's just stick to the archmage thing." Leo exhaled, pulling off his glasses to rub at his eyes. He was starting to wonder if he was dreaming. "I have enough trouble with that."
+
+"Sounds good to me," Cale said cheerfully. "Like I said, you need a second core. You can get started on that without getting all the way to archmage, but you do need to be fully synchronized with your labyrinth core first, and we have a rather convenient labyrinth available whenever you wish to do so."
+
+His tone gentled a bit. "Though I know that might be hard for you," he said. "That's why I said we'll do the labyrinth when you're ready. It's your choice, alright?"
+
+Leo felt his shoulders relax slightly at that reassurance. He couldn't remember when he'd tensed up, but apparently he had. "Right," he said, exhaling. "I'll do my best. It... it might take me a day or two. I'm sorry."
+
+Cale shrugged, giving him a sympathetic pat on the shoulder. "I'm the one throwing you into the deep end," he said. "But your original plan is a lot riskier, especially since there's no guarantee you won't experience an aspect rebound. You'd never really be safe if you went with that."
+
+"I... I know," Leo mumbled. It had been a nice thought, though. The idea that he could have a normal core had appealed to him.
+
+"Mind you, I have no idea why Asterion would do something like this," Cale muttered, mostly to himself. "Doesn't seem like him."
+
+Leo felt his skin prickle at that. Had Cale actually met and spoken to Asterion before? It seemed possible, now that he knew his background, and that meant...
+
+No. It meant nothing. What was Leo going to do, find and kill a named mythology? He didn't even know if it would free his people from the Impetus.
+
+"Once you get a second core, the goal will be to use it as your primary core," Cale explained, though there was something in his eyes that made Leo wonder if he knew what he was thinking. "You'll feed your labyrinth mana into it so that any mana you leak will be from the new core. Essentially, you'll be automating the attunement process. Any questions?"
+
+Leo had so many questions, but his mouth was dry, and nothing was coming out. He shook his head.
+
+"Good," Cale said. He gave Leo a friendly grin. "I suggest you start thinking about what you want as a second mana aspect, because it's going to shape who you are as a mage."
+
+Right. He would have to think about that. Leo couldn't remember the last time he'd given serious thought as to what he wanted his base aspect to be. Fire, maybe? Fire was one of the more common, notoriously easy to attune aspects. Fire would be nice.
+
+Fire also felt like it wouldn't be enough against anything they'd faced today. He didn't want anything too esoteric—the tradeoff with attunement just meant he'd be locked into a different set of spells—but maybe if he could find something that was just on the edge of that, something with both offensive and defensive potential without sacrificing too much in the way of utility...
+
+Before he realized it, he'd pulled out a set of notebooks and begun muttering to himself, cross-referencing them and muttering to himself.
+
+Cale grinned. "Looks like Leo's taking it seriously," he said cheerfully. "Your turn, Flia."
+
+Flia felt, in spite of herself, kind of nervous when Cale turned his attention to her. She still didn't know what to think about what happened in the Inverted Spires—the idea that she'd just been wrong about her mana aspect this entire time was...
+
+Not just her, but her family. Her people. Water elementals were known for their kindness and their ability to heal. Their presence alone could end droughts and famines, and as such they were a symbol of luck and good fortune in cultures all across Utelia. All across the Great Realms, really, if the records found within dungeons were any indication.
+
+Flia had been different from the moment of her birth.
+
+Variant elementals had been born before. Most of the time, it wasn't anything remarkable. A tempest elemental could control the winds and storms, ocean elementals handled more large-scale magic like the tides. Flia even had a cousin that was an acid elemental who had acquired a job with an alchemist. All of those mana aspects were well-known, and none of them were too difficult to attune when needed.
+
+Flia's mana core, on the other hand, had been nearly impossible to reattune, and no one had any idea why. It felt like a normal water aspect core to anyone with a mana sense. It was only after long nights and deep dives into the archives that her family had eventually concluded that what she had was a deep-sea attunement, known also as the Leviathan's Curse, and that she was stuck with it for the rest of her life.
+
+Except even that was wrong, according to Cale. Her mana aspect was, what, abyssal? She was connected to the literal ocean between the Great Realms. What did that mean for her? What was Cale, who had apparently lived through thousands of lives all across the Great Realms, going to tell her?
+
+She stared at him in some anticipation. Mostly trepidation. Cale opened his mouth.
+
+"Do you know what your mana aspect is?"
+
+Flia's mind went blank. "Wha—didn't you say it was abyssal?"
+
+"No, you said it was abyssal," Cale said. "I just told you your water connects directly to the Abyss. Those are different things."
+
+"How?" Flia asked. She would have thought Cale was messing with her if not for the fact that he seemed perfectly serious; he wasn't even wearing his trademark grin.
+
+"Abyssal mana isn't a thing," Cale said. "There are safeguards against reaching into other Realms, and that's one of them. I mean, obviously summoning spells and the like can reach across the Realms, but they're expensive and restricted to ritual magic—you get the idea. It's not really something you do by accident."
+
+"So then what type of mana do I have?" Flia asked, frustrated. It felt almost like she was a youngling again, trying desperately to figure out what was wrong with her mana.
+
+It didn't help that Cale looked sympathetic. She almost would have preferred him grinning his stupid grin to him looking sympathetic.
+
+"Water," Cale said, deadpan.
+
+Flia stared at him. "Have you seen my spells?"
+
+"I have," he said. "But elementals reflect the mana core they have. Your spells create portals into the Abyss, yes, but you don't. You're made of regular water."
+
+"I..." Flia trailed off. Cale had a point. It was the one thing they'd never been able to reconcile about her magic. "What does that mean for me, then?"
+
+Cale sighed. "Well, I had a nice, long talk with the Leviathan about blessing people without explaining anything about what they're supposed to do or how they're supposed to control it," he said. "She'll pay you a visit in your dreams tonight. With an explanation, and probably with a better way of controlling the curse."
+
+He paused. "Don't call it a curse in front of her, though. She might get offended."
+
+Flia's first response felt ridiculous, but it was easier than addressing everything else that just came out of Cale's mouth. "So you did jump into my [Orb of Water]," she said, exasperated. "You said you disappeared because Sternkessel teleported you!"
+
+"Technically true," Cale said cheerfully, and infernal realms help her, his cheer actually made her feel better.
+
+"I just—" Flia cut herself off mid-sentence and let out a sound that was half-sigh, half exasperated groan. "Okay. So. You talked to the Leviathan—who is a woman?—and then you told her to help me fix my problems with magic. By coming to me in my dreams."
+
+"She's very sorry for messing up your magic." Cale nodded a few times.
+
+Flia took a deep breath. He'd missed the point entirely. "Remember how I said I'm going to drown anyone that interrupts my sleep tonight?" she asked, her voice deadly calm.
+
+"Yeees?" Cale still hadn't made the connection, judging by the smug expression on his face.
+
+Flia knew, logically, that putting Cale's head in a much smaller [Orb of Water] wasn't actually going to do anything to him, let alone drown him. The man's barriers could probably repel entire armies of archmages, if he'd told them the truth about his mana reserves, and she'd seen nothing to contradict that so far.
+
+But it would make her feel better.
+
+"Last but not least!" Cale turned his attention to Syphus and grinned, ignoring the fact that he was dripping wet. He'd needed a bit of a shower anyway. The golem had been watching everything silently, and Cale was pretty sure that was because its creator was paying close attention to everything they were doing. "I actually don't know what your problems with magic are. I guess we never actually got around to it. Do you even have any problems with magic?"
+
+Syphus managed to give him a dry stare through its runic eye, then indicated the etherite crystals floating above its head. "You could say that."
+
+Cale blinked. Right. "Does that affect your spellcasting?" he asked, walking over to examine the crystal more closely. "It's linked to your scrying nexus, so I figured it might have an impact on any scrying spell you try to cast, but etherite is normally pretty good about minimizing interference otherwise."
+
+"My creator was, unfortunately, rather ambitious," Syphus said, its voice just as dry as its stare. Cale had the distinct feeling that it knew its creator was listening and was just taking the opportunity to sass him. "The etherite crown is meant to absorb or amplify any spell cast in my vicinity. For reasons unknown to either of us, that functionality only works for scrying spells."
+
+"What happens with other spells, then?" Cale asked. Ambitious was one word for that. He'd only met a few artificers capable of pulling off something that advanced, even among the Named.
+
+The golem shrugged. "It doesn't really affect most spells targeting me," it said. "It messes up most outgoing spells, though. I'm not sure how to describe it. Mind if I show you?"
+
+Cale beamed at that, immediately interested. "Please."
+
+The others leaned forward in interest, too. Syphus reached out, pouring mana into some sort of earth-based spell construct, and slowly, a sphere of dirt began to form in front of it. Cale paid careful attention.
+
+You have learned [Orb of Earth]!
+
+"My core's base aspect is earth," it explained mildly. "My earth spells are slower than another mage's might be, but are largely unaffected." It flicked its wrist, dismissing the spell, and Damien winced slightly as the gathered dirt fell to the ground.
+
+Syphus noticed, but seemed puzzled by Damien's dismay. "Is something wrong?"
+
+"Most people don't like dirt being scattered around their living space," Cale said, amused.
+
+"Ah." Syphus took a moment to process this. "Sorry."
+
+"I-it's fine!" Damien swept out a tendril of decay mana, turning the pile of dirt into a smaller pile of dust; Cale noticed that Syphus seemed rather dismayed at the sight, and made a mental note of it.
+
+"...In any case." Syphus cleared its nonexistent throat. "Here's what happens when I try to cast a spell of a different attunement."
+
+This time, Cale felt the golem attune and channel mana into a water-based construct. He raised an eyebrow slightly—for all its apparent issues with magic, it was very good at attunement. The shift to water mana had been practically instantaneous.
+
+The problem became clear the moment that mana was fed into a spell construct, however. Cale watched, fascinated, as the etherite crystals on its head reacted by abruptly flaring to life. He could feel the enchantment woven into it using the etherite's properties to pluck with deliberate precision at a critical part of the construct, causing the entire thing to suddenly collapse.
+
+Incredible. That was essentially the kind of high-level dispel performed by experienced combat mages. Cale's own methods relied on sheer brute force, which worked well for him but was an order of magnitude less complex than induced spell failure.
+
+Not only that, but this particular dispel had been tuned to unravel the construct after the Gift's involvement, as if the person who had woven the enchantment had known the Gift might try to adapt to it if given the chance. The only thing that was wrong with it was its targeting mechanism.
+
+Which was a pretty severe flaw, to be fair, as impressive as the enchantment otherwise was.
+
+"It's dispelling your spells instead of amplifying them," Cale said, brow furrowing. "You said this was supposed to absorb other spells?"
+
+"It's dispelling my spells?" Syphus looked briefly confused, then annoyed; its eye narrowed and it spoke again, this time clearly to someone else. "Did you add a dispel function to the ears? I thought we agreed on an absorbing function!"
+
+A pause. "Well, right now, neither of them are working," it said, clearly frustrated. "This is what happens when you keep adding new features without talking to me."
+
+Another pause. "Yes, I know you were trying to help," it said with a sigh, a little bit less aggravated now. Cale sat back and wondered if he even had a solution for this—enchanting wasn't exactly his expertise. He'd had the basics taught to him a few times across the centuries, but that level of precision work was beyond his mana control, and he'd lost interest relatively quickly.
+
+"I don't know if he can fix it," Syphus eventually grumbled. It turned to Cale, who blinked and sat up. "Do you know if you can fix it?"
+
+"I have no idea," Cale said cheerfully. "I've got a couple ideas. We could wait for the cooldown for [Awaken Artifact] to wear off, if those crystals count as an artifact. No guarantee it'll work, though, it doesn't necessarily let me change existing functions so much as add to them."
+
+He paused, mostly for dramatic effect. He'd paid attention to that fight between Syphus and Nala, after all. "There are other spells you can cast, though, right?"
+
+"Physical enhancement spells, yes," Syphus agreed. "More generally, any spell that targets me usually works fine."
+
+Cale nodded to himself. That made sense. Presumably, the enchantment had accidentally been flipped at some point so that it worked to dispel any spell that Syphus cast targeting another mage, rather than dispelling any spell cast by other mages that targeted Syphus.
+
+Still a bit of a headache, though. Cale knew from personal experience that these sorts of mistakes were typically buried deep within an enchantment, which usually meant they were painfully difficult to find. Easy enough to fix once they were found, but it was the finding that was the hard part.
+
+Maybe he'd be able to make a spell for that on Utelia, actually. That seemed like something that would be valuable.
+
+"Just to be sure, you can't just go back to your creator to get it fixed?" Cale asked.
+
+Syphus shook its head. "Not for another thousand years."
+
+Cale paused. "Literally, or..."
+
+"Literally, yes."
+
+"Right." That seemed like a bit of an arbitrary restriction. Cale wondered if it had something to do with how Sisyphus had been able to send the golem out in the first place.
+
+That cut down on some of Cale's options, but not all of them. He opened his mouth to make a suggestion, but before he could—
+
+"Um..." Damien raised a hand again. Cale suppressed the urge to tell him to stop doing that. "Can't you just... take the crown off?"
+
+Syphus blinked, narrowing its eye slightly at Damien. "It's a body part," it said, sounding slightly offended. "The crown functions as my eyes and ears. Would you remove your skin if it would help you cast healing magic?"
+
+Damien shrank back a bit at that. "N-no, I guess not. Sorry."
+
+"That said..." Syphus seemed to frown, thinking through the idea. "I could temporarily disconnect from the crystals if necessary. It would almost certainly allow me to throw an opponent off-balance. I'll have to consider it. Thank you, Damien."
+
+Poor Damien looked like he didn't quite know how to react. He was relieved and confused all at once. "You're welcome?" he said, phrasing it like a question. "I'm still sorry though."
+
+Syphus tilted its head. "Why?" it asked. It thought for a moment, then nodded. "Oh. Don't worry about it. I always ask organics if they would remove their skin eventually. I find it provokes interesting reactions. Wasn't sure if it would work on you, though, since you're not technically organic. It definitely worked on Nala."
+
+Flia let out an undignified snort at that. Leo choked and started coughing. Damien... still looked confused.
+
+Cale was mostly glad he wasn't the only one that couldn't always remember how to connect with people. "Anyway!" he said. "I think I have something that won't require you to take off the crown. It'll take some work, though. Probably a few days in the library."
+
+Syphus's etherite ears folded back with interest. "Oh?"
+
+"You can't cast external spells, but other people can," he said. "More importantly, other things can, otherwise other artifacts and enchantments would fail around you. And you can still cast spells on yourself."
+
+"All correct," Syphus said, watching him intently.
+
+"Well." Cale grinned. "I happen to know about a rather obscure spell tradition used by the Spellfist Monks of the Certain Death Valley."
+
+"The what monks of the what?" Leo asked in the background, his tone a mixture of interested and concerned. Cale smirked and stood, mostly so he could gesture with the appropriate level of drama.
+
+"The Certain Death Valley," he said. "Not a very creative name, I know, but they had to rename it because travelers kept trying to pass through it. Imagine a valley with temples and ritual sites built on one side, then massive craters filled with spell remnants on the other."
+
+"You look way too happy about this," Flia remarked.
+
+Cale beamed. "I'm glad you noticed! I had a great time there."
+
+"Before or after they named it the Certain Death Valley?"
+
+"I went there as soon as they renamed it."
+
+Flia sighed. "My point," she said, gesturing tiredly in Cale's general direction.
+
+Cale, of course, simply took it in stride. "Anyway, the reason one side of the valley was so destroyed—really, it started looking more like a cliff after a while—was because the Spellfist Monks are always practicing their particular brand of spellcasting, so there was a good chance of at least a fifth-tier spell flying across the valley at any given moment. Excellent mana sense training, let me tell you."
+
+"And what was their brand of spellcasting?" Syphus asked, still focused on him.
+
+Cale grinned. "I'm so glad you asked," he said. "They practiced self-enhancement spells that would temporarily turn different body parts into spellcasting artifacts. Or to put it another way: they used transformation magic to turn themselves into living spell cannons."
+
+He paused dramatically, mostly for effect, and then continued. "Now, just to warn you, we're going to have to rediscover a lot of it. I mostly only remember the basics. Enough to get us started, not enough for any of the really high-level stuff..."
+
+Cale trailed off. Everyone was far too silent about the reveal for his liking. None of them even made the appropriate expressions of shock and awe! Flia, Damien, and Leo were all wearing expressions that were varying levels of horrified.
+
+Syphus, on the other hand, just stared straight ahead. Cale worried for a moment that it, too, was horrified, until it finally spoke.
+
+"Sweet," Syphus said.
+
+Cale was pretty sure that was the most glee he'd ever heard in the golem's voice, which meant that look in its eye was, in fact, a gleam of unprecedented excitement. "When can we get started?"
+
+Finally, someone else that appreciated how cool the Spellfist Monks were. "Like I said, tomorrow!" Cale said brightly, ignoring everyone else's horrified stares turning onto him instead. "We're going to have to hit the library."
+
+Which was also exciting, albeit for different reasons. In all the realms he'd been to, Cale had yet to find a library that wasn't, in some way, interesting.
+
+It didn't take long after that for everyone to decide they were due for some well-deserved rest. Cale took a moment to admire Utelia's moons, in particular the one that had very deliberately started to rotate to face away from the planet, then made his way to Akkau's office. Mostly because—as much as he might have wanted to get some sleep—the old dragon was waiting for him, and there was at least one thing they needed to sort out before the end of the day.
+
+Some sort of plan for the Red Hunters, mostly. The Thread of Fate more or less ensured that any of their plans would intersect with Cale, so long as he wasn't forcing a confrontation, but that didn't mean he was willing to let them continue their manipulations on the Brightscale Academy's students. Sneaks-In-Darkness hadn't been the only 'mentor' amongst them.
+
+Though there was a second thing that bothered him. Every now and then, he'd noticed glimpses of strange magic leaking from Akkau, and the old dragon had more or less admitted he was hiding something. And the way he'd been summoned to Utelia didn't quite make sense, either. How had those elves captured Akkau, for instance? Where had that little girl come from? Why summon someone from across the Realms just for a blood sacrifice?
+
+Cale sighed. It wasn't like a lot of time had passed since he'd first been summoned to Utelia; he didn't know if Akkau was ready to talk about any of those things just yet. In some ways, the Headmaster reminded him of himself—haunted and pained in ways he struggled to express.
+
+He could at least ask, he supposed. Cale hesitated, then reached out and knocked on the office door. "Akkau?" he called. "You still awake?"
+
+Akkau's voice emerged, dry as the desert. "I am not that old, Cale Cadwell Cobbs," he said. "Come in. There is much we have yet to discuss."

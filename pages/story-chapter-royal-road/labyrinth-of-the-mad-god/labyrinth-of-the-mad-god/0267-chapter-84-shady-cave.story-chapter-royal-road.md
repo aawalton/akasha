@@ -1,0 +1,83 @@
+---
+id: 7dad6fbb-397d-5c6b-af9f-aa3d28ead2c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84: Shady Cave"
+slug: 0267-chapter-84-shady-cave
+partOf: labyrinth-of-the-mad-god
+position: 267
+ownLength: 1603
+unit: words
+publishedAt: 2025-12-26
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2882888/chapter-84-shady-cave"
+royalRoadId: "2882888"
+---
+
+It took Nightsong the better part of a week to complete his assessment.
+
+When the coyote met with Nick to deliver his verdict, the beast declared that while it would take time to build enough trust to formalize an alliance, Aurora’s values were compatible with the pack’s, and he was ready to deepen the ties between their people.
+
+Going forward, up to seven individuals from each settlement could visit the other at once. They would reconsider the matter in a month, and Nightsong would relax that restriction if everything went well.
+
+The coyotes were eager to trade valuable resources for some of the building crew’s time. While the canines could construct dwellings and the like using magic and rewards from the System, the concept of drafting plans prior to implementation was new to them. Several members of the pack wanted Ming to tutor them and learn about architectural design.
+
+Seeing beasts inside the city soon became the new normal, and it seemed like everyone would be able to coexist without any major problems. When Nick and Liz stopped by the coyotes’ settlement—whose name translated roughly to Shady Cave on a Hot Day, or Shady Cave for short—he was surprised by the organic elegance and beauty on display.
+
+In addition to residential caves and storage facilities, the city was home to spacious parks, communal eating and training facilities, and a circle of stones where the pack debated important matters and laid plans for the future. There were houses for visitors to sleep in, and a firepit where they could cook meals.
+
+Nick found the tour fascinating. Visiting Shady Cave was just as awe-inspiring as exploring an alien town. After all, he was witnessing the dawn of a new global order. A world where humans were only one intelligent species among many instead of the undisputed masters of the globe.
+
+He met Nightsong’s child—the young coyote he had encountered while crossing the badlands. Nick had brought several barrels of beef jerky as a gift, which had been produced by Aurora’s Cloning Center. The beasts said the meat tasted strongly of mana but seemed to like it anyway.
+
+Shady Cave wasn’t the only city that was changing by the day; Aurora was growing at a rapid rate.
+
+The residential district now featured dozens of houses in the same style as Nick’s and the foundations had been dug for nearly a hundred more. The scouts had established contact with numerous settlements in the surrounding biomes. Several weren’t doing well, and their residents had relocated to Aurora the moment Liz invited them.
+
+As a result, their population had doubled within days. The planning committee traded quite a few vouchers to create a block of apartment-style buildings, giving everyone a roof over their heads until the construction crew had a chance to catch up. Stan had suggested the idea, since the structures featured sizable lobbies and could be converted into hotels once there were enough houses for everyone.
+
+Aurora’s domain was expanding rapidly, bringing more resources and sub-biomes into its sphere of control. Earlier in the day, the city had cleared the population requirement for its next tier. Nick just needed form an alliance with one more settlement to complete the quest and claim the rewards.
+
+While these major events were underway, his people were changing in a hundred little ways. A new way of life was starting to take shape as humanity adapted to dwelling on a magical planet.
+
+In addition to what they were calling “full contact hide and seek,” Aurora’s residents had invented new sports based on Old Earth favorites. There was a basketball court inside the hollow mesa with hoops that were thirty feet high. Quite a few people could dunk on them by this point, and watching the athletes go head-to-head with their superhuman attributes was a hell of a lot of fun.
+
+They were working on a version of football where the goals were smaller and further apart, and several more recreational activities were in the early stages of development. They were still figuring out rules for how abilities fit into the competitions, but humanity’s newest sports were entertaining and a good way to practice using their powers outside of battle.
+
+Meanwhile, the scouts had finished surveying the badlands, along with a portion of the bordering biomes. While it would take time to explore the regions in depth, they had uncovered a variety of quests, events, and challenges—even a repeatable training dungeon that was a perfect place for the settlement’s weaker members to level up and gain some combat experience.
+
+A wide range of crafting materials had been sourced in the badland’s sub-biomes, new crops for the growing team to experiment with once the current harvest was in. Some of the plants were magical, and the researchers were hopeful they could provide insights that would get their alchemical ambitions off the ground.
+
+The first crop of the flowers Nick had harvested in Blackmist Bog had come in, and as far as the farming team could tell, they were perennials that would blossom every month or so. They tasted great, sated hunger and thirst, and provided a pleasant stimulant effect.
+
+They had decided to name them pick-me-ups, although Kerry insisted on calling them “Nick me ups,” much to his annoyance. People were snacking on them throughout the day, and the cooks were incorporating the petals into food and drinks to enhance their natural value.
+
+His people hadn’t found any more regional resources yet. However, the mages were learning to locate them by following the flows of mana winding their way across the biome and should reach the sources soon.
+
+Over a dozen species of beasts had been encountered by this point, including six that were at or approaching human intelligence. The most dangerous were the alien predators that could swim in the soil, but they tended to stick to their territories and were easy to avoid unless they caught you unaware.
+
+The beast-diplomacy teams were hard at work, making sure they understood the creatures’ perspectives and needs before making contact. With Nightsong’s help, they were optimistic that mutually-beneficial relationships could be established with several species in the near future.
+
+While these thoughts passed through his head, Nick pondered his plans for the day. He wanted to stop by the foundry and forge to see how the crafters were using the metal the mining team had unearthed.
+
+He didn’t have time to learn a trade, which was why he had chosen an exploration-themed Profession. But he found Aurora’s budding industries to be fascinating, especially how the crafters were incorporating their magic and skills into their work.
+
+Well before he made it to the foundry, he sensed fire mana filling the air. He took it as a promising sign that his mage sight was growing sharper. When he walked inside, he said hello to the crafters then sat down on a stool to watch.
+
+One corner of the facility was filled with a sand-lined pit, above which a steel caldron was suspended from a series of metal bars. The crafters explained that one of the parties had found the container inside Darkstone Tower and had carried it in their dimensional storage for this very purpose.
+
+While Nick watched on, a fire mage cast a spell that produced a narrow, white-hot jet of flame, heating the metal inside the cauldron until it melted. “We’re still tinkering with some designs for the casts,” the head crafter explained after pouring the liquid iron into molds that would shape the finished product.
+
+“Right now, we’re focused on expanding our range of tools, making sure that Aurora’s crafters have what they need to produce at full capacity. We are also producing pipes and the like, so we can move water around without wasting CP.”
+
+By now, the castings were filled. When they cooled and the handles were fitted, Aurora would have a new batch of hammers. Nick chatted for a while before walking to the forge, which didn’t take long, since it was the next building over.
+
+The city didn’t have much ore yet. The crafters would have to wait until more of the deposit was exposed before taking on larger projects. That being said, the miners had unearthed enough metal to let the smiths practice their craft.
+
+When he stepped through the door, they were hammering out a series of utility knives that would serve as general-purpose tools, since not everyone had bladed weapons that were suitable for everyday tasks.
+
+Some of the smiths were resizing armor people had found during their adventures that wasn’t made for human bodies. Others were sorting through a pile of broken weapons, deciding if they were worth repairing or should be melted down and used as scrap. It was fun watching the crafters at work, and Nick spent the next twenty minutes asking questions and enjoying their company.
+
+They even let him hammer away at a knife for a while. Under their guidance, he made something that was borderline usable, and the smiths decided to hang it on the wall for decoration.
+
+Before he left, he asked about the pure-mana-infused metal the mine’s description had mentioned. The crew had only gathered a small sample, and the researchers were studying it now. The smiths were hopeful that the material could be used to create weapons and armor with natural antimagic properties that would synergize with the modifications created by the Item Station.
+
+Nick bid the crafters farewell and walked over to the mess hall to get lunch. He was deeply impressed by his people’s ingenuity and eager to see what they came up with next.

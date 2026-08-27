@@ -1,0 +1,87 @@
+---
+id: 1262558e-270a-57d1-baa5-721704e2ade5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: Armada Wurm"
+slug: 0219-chapter-37-armada-wurm
+partOf: labyrinth-of-the-mad-god
+position: 219
+ownLength: 1853
+unit: words
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2585158/chapter-37-armada-wurm"
+royalRoadId: "2585158"
+---
+
+Nick turned and left the battlefield while Team Earth made their final preparations.
+
+Kenji had asked him to keep an eye on the group that was luring the wurm into position, in case they ran into trouble and needed someone to pull their bacon out of the fire. The pull-team had already drawn the boss’s attention, keeping it in a holding pattern a few miles out until everything was ready.
+
+They were faster than the wurm, so that part had been relatively safe. However, they needed to let the colossal construct come closer if they wanted to lure it into the canyon, and Nick was one of the only elites who was fast enough to react if something went wrong during the final approach.
+
+Heart thumping and adrenaline singing in his veins, he followed one of the scouts away from the ravine and into the northern badlands. It was a beautiful morning. The sun was shining from a cloudless sky and there was no sign of bladewind brewing along the horizon. A perfect day for battling one of the biggest beasts I’ve ever seen.
+
+A few minutes later, the party came into view. All three of them were dressed in light leather armor, and he could tell at a glance they had invested heavily into their physical attributes with an emphasis on Dexterity.
+
+The scout waved a flag to get their attention, signaling that Kenji was ready for them to pull the beast into position. “We need to switch Blend on,” she said. “Don’t worry if you lose track of me—just focus on keeping them safe.” Nick nodded and they both activated the trait.
+
+He adjusted his course to stay about a hundred feet to one side of the pull team, tracking their progress as they ran toward the canyon while reducing their speed. He could feel the ground rumbling beneath his boots as the enormous construct drew closer. He was ready to switch on Force Acceleration and race to their rescue, but Kenji had chosen a competent crew who clearly knew what they were doing.
+
+By the time the ravine came into view, the Armada Wurm was less than twenty feet behind the pull team and so close to the surface that the ground buckled beneath its passage. He was deeply impressed by their courage and poise. Those people have nerves of steel. I’ll have to buy them a drink once we build a bar.
+
+Nick kept pace along the rim of the gorge as the fearless trio sprinted inside. When he glanced over his shoulder, he saw the bait team had completed their preparations. Hanging from the beams spanning the gap was the bound Town Boss. The giant hedgehog could sense the wurm coming and looked terrified, which made him glad it wasn’t really alive.
+
+He observed from above as the pull team shot past him with the wurm only fifteen feet behind. They ran for their lives as the ground shook hard enough to send dirt cascading down the rocky walls.
+
+He called upon Arctic Clarity to hone his thoughts to a razor’s edge as his heartrate kicked up another gear—every cell alive with anticipation of the battle to come while he watched those brave souls complete the most dangerous part of their mission.
+
+When the pull team crossed a third of the way into the canyon, they abruptly sped up, heading straight for the trapped Town Boss in the lowest part of the ravine. Although he was certain the Armada Wurm had spotted it, Team Earth couldn’t risk the creature changing targets at this critical juncture. To guarantee it would move where they wanted, the sweat-soaked crew leapt onto a wooden platform that was attached to the ropes holding the hedgehog in place, with the wurm only a few seconds behind.
+
+The instant the trio landed, the ropes began to rise, carrying them into the air with the Town Boss dangling below their boots. Nick’s stomach dropped when one of them almost lost their grip, hanging by one hand as the other two reached out to keep their comrade from falling.
+
+Before anything else could happen, the wurm arrived at their position. A fraction of a second later, an armored tongue the size of a shipping crane burst free from the soil.
+
+It was one of the quickest attacks Nick had ever seen, and it missed the screaming hedgehog by inches as the boss continued rising into the air. The tongue came back for a second pass, stretching up to grab the dangling beast as it ascended again to remain just out of range.
+
+As the pull team climbed the rope and crossed the platform while activating Blend, the wurm broke the surface to gain more reach, revealing an endless expanse of leathery gray skin and an armored head with six wedge-shaped plates.
+
+Now that he could take a good look, Nick was blown away by the sheer size of the deadly construct. In that moment, he couldn’t help but wonder if Team Earth had bitten off more than they could chew. The Tier-2 behemoth was powerful enough to level a city block within a matter of minutes, and Size Up was screaming like a banshee that it was the deadliest opponent he had ever faced—even stronger than the Guardian in raw attributes and sheer destructive potential.
+
+If the wurm had ambushed them, they wouldn’t have had a chance. But luring the beast into a trap after extensive planning and preparation was a different story.
+
+Now it all came down to whether humanity’s diligence, ingenuity, and teamwork could even the odds. Thus far, everything had proceeded according to plan. The wurm was in position, the pull team was safe, and Nick was ready to do his part. They just needed the beast to fully emerge, and it would be time to move on to the next stage of the operation.
+
+Come on. Nick gripped Blightbane’s hilt so hard his knuckles turned white. Just a little higher. It’s a juicy meal and worth putting in a bit more effort.
+
+The wurm’s tongue reached out again—almost but not quite catching the hedgehog—which was freaking the fuck out but unable to escape. It almost grabbed hold it when its head emerged another ten feet, but the bait team pulled the Town Boss higher, causing the wurm to growl in frustration loud enough to rattle his teeth.
+
+He let out a sigh of relief when it pulled its bulky body onto the surface, stretching to secure the dangling boss. By now, the hedgehog was almost touching the platform, and the moment the wurm caught it, the battle would begin.
+
+He held his breath as the beast braced itself against the rock wall to get just a little more height. Nick could sense the mana from a dozen spells coalescing… just as the wurm’s tongue wrapped itself around the hedgehog and tore it free from the ropes with enough force to send the wooden platform crashing to the canyon floor.
+
+As the wailing boss disappeared into the wurm’s maw, the earth shapers completed their casting and all hell broke loose.
+
+Culminating what had proven to be an unexpectedly difficult hunt had distracted the creature at this critical juncture, and it didn’t notice the magic filling the air until the last possible moment. A heartbeat after its mouth snapped shut and the hedgehog’s screaming cut off in a fountain of blood, an incredible surge of earth mana went flowing through the soil.
+
+The floor of the canyon abruptly lowered as the dirt was compacted—all except the raised mounds that had been excluded from the spell. The earth shapers continued channeling their magic, holding the soil together as the wurm tried to dive, straining as its spell fought against the combined might of Earth’s elites.
+
+When he switched to mage sight, Nick could see the warring energies in crisp detail. One weave of earth magic was pressing the clumps of dirt tight, and the other was trying to loosen the bonds between them. The wurm’s magic was stronger, but Team Earth had already saturated the canyon floor, giving them a momentary advantage. Their spell would only hold for a few more seconds, but that was all the time they needed.
+
+By this point, the water mages had finished opening the reservoir they had created near the canyon’s entrance. The ground rumbled as the wurm beat at it with its body. Meanwhile, a surging tide of water rushed into the ravine, flooding everywhere but the elevated positions.
+
+Just as the earth casters lost their fight with the wurm, the diverted river broke over it. The big bad did not enjoy being soaked and it roared in fury while struggling to regain its bearings. With his energetic senses, Nick could see the beast’s elemental magic being disrupted by the watery mana contained in the raging flow, but the earth mages had been prepared for it and their spell wasn’t disturbed.
+
+Caught by surprise and unable to dig, the boss began climbing out of the canyon, undulating like a slug while forcing its titanic body up the incline. It’s not very mobile on land. Nick nodded in satisfaction. Just like Kenji predicted. Under normal circumstances, it could have emerged from the ravine within a few minutes.
+
+Well before that could happen, the ice mages completed their spell. He felt an intense flareup of mana as a half dozen abilities activated back-to-back—a frigid white frequency he’d never sensed before.
+
+Their magic saturated the floor of the canyon, freezing the water before it had time to drain into the soil. A great cloud of frost billowed into the air as the effect spread, creating a layer of ice that was ten feet deep at the lowest point and continued halfway up the slope the construct was climbing.
+
+The Armada Wurm did not appreciate being chilled. The behemoth screamed and tried to dive into the dirt, but as Kenji had planned, it couldn’t use its magic to burrow with the ice in the way.
+
+At that point, it must have located the casters standing along the canyon’s rim with its energetic senses. It reared up to grab them with its tongue, but they scrambled out of range before it could close the distance.
+
+The distraction bought the earth shapers and ice mages a few more seconds to finalize their joint-terraforming efforts. They blocked off the water flowing into the ravine and used their magic to touch up the ice, making sure it was smooth along the incline.
+
+Even a creature as powerful as the wurm was subject to the law of gravity. It began sliding down toward the deepest part of the canyon where the ice was thickest. It roared loud enough to vibrate Nick’s eyeballs, then opened its mouth. Like a bolt of chitin-plated lightning, its tongue lashed out, smashing into the rime to reach the dirt below.
+
+The colossal construct would dig down to the soil within a handful of heartbeats if left to its own devices, but there was no way Team Earth was going to let that happen.

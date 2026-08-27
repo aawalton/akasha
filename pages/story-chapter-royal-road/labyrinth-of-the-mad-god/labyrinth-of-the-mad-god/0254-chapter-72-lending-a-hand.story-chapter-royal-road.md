@@ -1,0 +1,79 @@
+---
+id: fcf10572-2c67-5811-98df-560a25b9a3d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72: Lending a Hand"
+slug: 0254-chapter-72-lending-a-hand
+partOf: labyrinth-of-the-mad-god
+position: 254
+ownLength: 1739
+unit: words
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2801421/chapter-72-lending-a-hand"
+royalRoadId: "2801421"
+---
+
+Nick set five rocks in a circle, which the students were using as chairs until the woodworkers had time to craft more furniture.
+
+For a while, no one said anything, giving the leaders of the refugees time to decompress from their ordeal and get some food and water into their systems. The battered pair looked weary, sad, and relieved all at the same time—trauma and hope writ clear on their faces.
+
+The losses they had suffered tugged on his heartstrings, reminding him that while humanity had returned to the world of their birth, their lives had changed forever and similar struggles for survival were taking place across the globe.
+
+When Nick looked into Elizabeth’s eyes, he could tell her train of thought mirrored his own. While their priority was developing Aurora and preparing themselves for the rigors of the Labyrinth, they would do whatever they could to help other communities endure and thrive.
+
+Once the grief-stricken pair had time to initialize the crisis was over—that their people were safe, being cared for, and no longer had to endure a forced march over dangerous terrain—the group began discussing the details of their situation over the short-term.
+
+The man—a mage named Walter—let out a shuddering sigh and said, “I didn’t think we were going to make it. Thank you. If you hadn’t been willing to help us, Abby and I would be burying most of our people right now and wouldn’t have lasted much longer ourselves. I want to crawl into bed and sleep for a week, but I can’t rest until I know my friends are going to be all right. I don’t want to seem ungrateful after everything you’ve done, but I need to know what happens next—if we’ve weathered the storm or merely reached the calm in its eye.”
+
+“In other words, we’re desperate, destitute, and homeless.” Abby blinked back tears. “We will return to the jungle if there’s no other choice, but please don’t turn us away. We’ll do anything you say if you let us live here. Give us a chance, and I swear we won’t let you down.”
+
+Nick and Kenji glanced at each other and nodded, agreeing to sit back and let Elizabeth and her insane Charisma take the lead during this delicate moment. The leaders of Aurora had already discussed what they would do in a situation like this, although they hadn’t expected it to happen so soon.
+
+“I’ll be frank,” Liz began. “I didn’t think the city would have to deal with a massive influx of new arrivals for quite a while yet. Everyone here is part of a close-knit group who has fought by each other’s sides and gone through hell and back to keep Earth safe.
+
+“We’re still in the early stages of building homes for our citizens, although food shouldn’t be an issue for the time being and fresh water is plentiful. In short, I can’t promise you there is a permanent place for your people in Aurora.”
+
+Abby’s face fell at those words, but Liz was just getting started.
+
+“What I can promise you is that we won’t abandon you, leave you to die, or exploit you in any way. The next few weeks will be a trial run. What happens after that is up to you. Once your people have time to recover, I expect them to contribute to our community in some way.
+
+“If someone winds up being a poor fit, we will help them find a settlement that suits them better or establish a place of their own in a safer biome once those options become viable. In the meantime, I’m willing to offer your people citizenship on a provisional basis, and we can revisit the issue in a month or so.”
+
+By this point, Abby and Walter had tears running down their cheeks, holding onto each other for support as Elizabeth outlined her proposal.
+
+“We can discuss the details in a few days, but for now, Aurora can provide food, water, and limited shelter, including our barrier that blocks the bladewind. If you want to earn gear, training, and permanent residency, you’re going to have to pull your weight. We have a Contribution Token system already in place, and I’m willing to let you use it right away.
+
+“Help us out with various tasks, get to know us better, and don’t cause problems. No matter where we find ourselves in a month’s time, your people will be in a better position to survive than they are right now. For starters, if you can share information about the biome you came from—terrain, beasts, and other people living in the area—I’ll issue you a small stash of tokens to get your fighters some starting gear.
+
+“You are welcome to take any of the classes being offered if seats are available, but let’s get you settled first. I’m granting you access to the mess hall and the bathhouse. I’ll let some of you stay in the barracks for the time being and lend tents and bedding to the rest.”
+
+Walter and Abby were nodding along—guarded optimism shining in their eyes. Nick knew they would agree to anything right now, but it was important to establish guidelines right from the start. He realized that Liz had stopped talking and was staring at him, which meant he needed to say a few words too.
+
+“Our resources are limited,” he began, “but we want to help everyone who is fighting to rise from the ashes and rebuild civilization. Right now, our priorities are focused on expanding the city, improving ourselves, and surviving whatever happens when the year of protection ends and the entrances to the Labyrinth open for good.
+
+“If you are willing to help us achieve those goals, I’ll welcome you with open arms. If anyone gets in the way, they will have to move on. We can’t afford to deal with distractions with the future of our planet hanging in the balance. I’ll confer with my team to make some of this more concrete, including a list of ways your people can earn tokens once they are back on their feet. But for now, no fighting, stealing, or assaults of any kind. No disturbing the peace or interfering with our operations.
+
+“Minor infractions get a warning—let’s call it two strikes since I don’t have the patience for three—but anything serious will lead to instant banishment. While this may sound harsh, if your people endanger any of ours, I’ll cut them loose or cut them down without hesitation. Does that sound fair to you?”
+
+“Yes!” Walter smiled. “That offer is more generous than we dared to hope for. Just the food, shelter, and medical attention are a godsend. I promise we will work hard and do everything in our power to contribute. There are a few hotheads among us, but I’ll keep them in line and do our best to earn a permanent place in your beautiful city.”
+
+After Abby and Walter left to share the good news with their people and get some much-needed rest, Kenji, Nick, and Liz conferred about what had happened.
+
+“They’re way too weak to survive in the Frontier,” Kenji said. “But a lot of people who returned to Earth after their tutorials are in the same boat. We need to figure out the best way to help low-level individuals advance before the year of protection runs out, and this is a good chance to refine our methods.
+
+“Hopefully, there won’t be any problems. We need to deputize someone who is willing to handle any disputes that arise, since Liz can’t micromanage every minor altercation. Maybe Ella will be willing to play sheriff. I doubt anyone will cross her, and her reputation will help keep the peace all by itself. These are issues that we needed to figure out anyhow—given the rate of expansion we hope to achieve over the next few months—which makes this a valuable opportunity for us as well as them.”
+
+“I didn’t want to sound too eager given the circumstances.” Liz nodded her agreement. “But we need to expand to 1,500 people as quickly as possible to reach the next city tier. Figuring out how to deal with an influx of strangers was already one of my top priorities.
+
+“There will likely be some wrinkles that need to be ironed out, but this is a good chance to learn how to integrate newcomers in numbers that should be relatively manageable. We need to expand the building team if we want to have homes for everyone on our current timetable, but Ming was planning to train another crew or two anyway.”
+
+“It sounds like we have things in hand for tonight.” Kenji rose from his seat. “I’m going to send out a team to scout the direction Abby’s people came from and make sure nothing nasty is following their trail. I would appreciate it if you joined us, Nick. Neither of us needs a full night’s sleep and I want to make sure we can handle a four-star monster if we encounter it.”
+
+“All right,” he said. “Go ahead and get the team organized and I’ll join you in a few minutes.” Kenji nodded and then left the classroom, leaving Nick and Liz alone. He wanted to make sure he had handled the situation properly before he said anything else in public.
+
+She reached out and placed a hand on his knee. “That was the right approach. You quelled their fears and gave them hope but let them know what your priorities and expectations were right from the start. Aurora’s residents are intrinsically motivated and don’t need much direction, but people who didn’t participate in the Fate of Earth quest don’t understand what we’re up against.
+
+“Not everyone is cut out for fighting on the frontlines, and ordinary people need to understand the rules and boundaries of our community are if they are going to fit in with our core members. Go ahead and scout the badlands and then get some rest. I’ll handle things here and we can confer in the morning.”
+
+“Thanks, Liz.” He clasped her hand and rose to leave. “I don’t mind being the face of the settlement, but you are its beating heart. I couldn’t do this without you and I’m glad you’re with me.”
+
+With that, Nick opened the door and stepped into the night—unaware the flushed cheeks and beaming smile his words had evoked.

@@ -1,0 +1,235 @@
+---
+id: a071c239-3dd3-5bb8-befa-f32d7908007d
+page-type-slug: story-chapter-royal-road
+title: "93 — Book 2, Chapter 41 — Academic Revelations"
+slug: 0093-93-book-2-chapter-41-academic-revelations
+partOf: just-add-mana
+position: 93
+ownLength: 3912
+unit: words
+ownProgress: 3912
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2991204/93-book-2-chapter-41-academic-revelations"
+royalRoadId: "2991204"
+markedReadAt: "2026-06-29T18:50:50.595Z"
+---
+
+"...and that's why they're all here," Damien finished explaining, hoping against hope he didn't sound too ridiculous. He still didn't know why he'd been chosen as the one to explain everything to the Headmaster. Surely it would've been better for literally anyone else to do it? He was just a student here! Meanwhile the group that had flown over included the entire Golden Sands clan, including their matriarch and someone that was technically an avatar of a Monolith.
+
+But no, they all decided that Damien had to be the one to explain everything, and none of his friends had backed him up. Damien grumbled a bit, looking up at Akkau and trying to figure out what the Headmaster was thinking. It wasn't every day their academy was blessed by a diplomatic visit from an entire clan of people, after all.
+
+Damien still didn't understand why they'd all decided to uproot themselves and come visit the academy, and he especially didn't understand why they wanted to stay in the nearby Crystal Desert. After all the effort they'd gone to clear the Aspect Cascade, they were just going to move? Sure, it was temporary, and Angus had said something about food supply and the Illwyld...
+
+Damien sighed. It was all too much for him to understand. Which really just made it even more baffling that he'd been their chosen candidate to explain that decision to Akkau. Damien didn't blame the Headmaster for rubbing his temples like he was getting an increasingly worse headache; he had a headache from all this, and before today he'd thought it was impossible for dreadshades to get headaches. They were supposed to be immune to most physical ailments, just like most elementals were.
+
+At least Flia looked vaguely sympathetic. Although he felt almost like she was also just trying not to laugh at him. Leo wasn't even looking in his direction, and Syphus was staring longingly over at the summoned sand fortress like it just wanted to go back in and play.
+
+"You understand, of course, that I may need some time to make the appropriate arrangements," Akkau said finally, glancing toward the elders of the lizardfolk clan. Damien followed his gaze and cringed slightly as the matriarch gave them a magnanimous nod in turn.
+
+Was she smirking slightly? It looked like she was smirking. Was this some sort of power play he didn't understand?
+
+If it was, the Headmaster didn't look too upset by it, at least. Flia clasped Damien by firmly by the shoulder, which reassured him slightly, then stepped forward to speak with the dragon. "May we be excused for now, then?" she asked. "I'm sure you have a lot to do, and the rest of us need a bit of a break. By which I mean we won't be attending any classes for the rest of the day. Possibly the week, depending."
+
+Akkau turned to her, his eyes narrowing slightly. A puff of flame left his nostrils. "I do not recall giving you permission to miss additional classes."
+
+"You didn't," Flia said, folding her arms and giving him a challenging stare. Damien was both transfixed and mildly horrified. "But we just ended a continent-spanning magical disaster and I'm pretty sure the Icon of Battle wants to know more about Brightscale Academy, so we have a lot on our plate already. We're taking a break."
+
+Akkau stared at her, and Damien felt a brief, absurd fear that Flia was going to get them expelled. It would have been ridiculous—their Headmaster wasn't one to punish his students like that—but no one had so openly spoken back to their Headmaster before, either.
+
+You know, because he was a dragon.
+
+The silence stretched for a moment, and then Headmaster Akkau's eyes crinkled with amusement, and he gave them a small nod. "You have learned perhaps a bit too much from your master," he said, not bothering to hide the laugh in his voice. "But very well. I may need to call on you later to speak further on this matter, so do keep yourselves available."
+
+"We will," Flia promised, already pushing Damien along and gesturing for the others to follow her. Angus was the only one to hesitate—he gave his clan matriarch a longing stare, then reluctantly followed along when she gave him a stern look in return.
+
+Damien had no idea what to make of that. Come to think of it, the two of them had been behaving a bit strangely during the flight back...
+
+He decided very quickly it was probably better not to think about it.
+
+"We did solve a continent-spanning disaster, didn't we?" Leo remarked thoughtfully, like the idea of it was only just settling in.
+
+"Not technically continent-spanning, but it sounded more impressive that way," Flia said, shrugging.
+
+Leo puffed out his chest. "Continent-spanning," he repeated. "I wonder if Professor Tarbloom will give us any wing credits for that. It's gotta be worth a lot of those."
+
+"I don't know if all that counts as part of their class... Besides, Tarbloom wasn't even there to see most of it," Damien said awkwardly, making Leo deflate. "But, um, maybe Cale will give us some points?" he added hurriedly.
+
+"Right!" Leo snapped his fingers, then frowned. "Man, I can't believe he didn't give us any points already. I feel cheated."
+
+"Speak for yourself," Syphus said. "I got lots of points."
+
+"What?!" Leo spun around. "When?!"
+
+Syphus shrugged. "Just now, in my head," it said. "I just thought it'd be funny to mess with you."
+
+Leo's expression of horror turned into a dejected scowl. "Rude," he muttered.
+
+"I think Cale had other things on his mind," Flia interjected dryly. She hadn't broken her stride, and was leading them very purposefully to... somewhere. Damien realized abruptly that he had no idea where she was going. Had they planned for something? His memories of their time traveling back were mostly a blur; the lizardfolk of the Golden Sands had not been shy about celebrating, and the raucous cheer had quickly overwhelmed him.
+
+"Um," Damien said. He twitched for a moment, then caught himself before he could raise a hand. "Where are we going, anyway?"
+
+Flia shrugged. "I figured we'd probably want to talk about all this somewhere," she said. "All this, and then also what we're going to do next. I know Syphus just slurps up any scrying spell in its vicinity, but Brightscale Academy isn't safe yet, no matter how much Akkau amps up the wards. I want us to have another layer of protection, and I figure the labyrinth attached to your dorm is enough to keep us away from any prying eyes. Besides, I want to check in on it."
+
+Damien blinked. That made a surprising amount of sense. "Got it," he said.
+
+Syphus, meanwhile, tilted its head thoughtfully. "Hm," it said.
+
+Damien glanced over at it. "Hm?"
+
+"Slurped," Syphus said as though it clarified everything, and when Damien just kept staring at it in confusion, it sighed and elaborated. "It's good terminology. I've decided I like it. I am now the slurper of scrying spells."
+
+Damien paused, then stared at Flia, who had likewise frozen mid-step. "Um," he said. "I don't suppose you can take that back?"
+
+Flia twitched slightly. "Would it work?" she asked.
+
+Syphus rolled forward, somehow radiating smugness. "It will not. I have already decided."
+
+"I suddenly regret everything," Flia muttered to herself, shaking her head, but she dragged them purposefully onward anyway. Damien suppressed a giggle at his friends' antics and followed along, though he quickly found his mind wandering.
+
+Flia was right—there was a lot left for them to process, and a private space for them to talk things through might have been just what they needed. Damien wasn't sure if it was something he needed, though. Right now, he mostly felt the overwhelming desire to curl up in bed and process everything alone and in silence. The day had taken a lot out of him.
+
+But they were in this together, as Cale's apprentices. Once he was back, even if the threat was ended and they resumed classes as normal, Damien doubted there was really going to be a "normal" anymore. Cale wasn't the type of person that was satisfied with just the act of learning; he'd want to change things, investigate ideas, solve problems...
+
+...and Damien realized, slightly startled, that he was looking forward to that. He wasn't quite prepared to go back to the old days of classes where he struggled to achieve the barest amount of success with his magic. He wanted to learn, and now, thanks to Cale, he was going to have the chance to do so.
+
+Besides, how could they call themselves their apprentices if they didn't prepare for the specific brand of chaos he was going to inflict on every class?
+
+Damien was surprised when it turned out that Flia did not, in fact, want to talk about the events surrounding Yggdrasil's End. She seemed to consider that revelation largely over and done with, and while she made no attempt to hide the fact that she had questions, that was no different from the rest of them.
+
+They realized this after a few false starts, since they'd all assumed the others would want to talk about it, only for the conversation to stall quickly each time. They wanted to know what the prior iteration of the Great Reams had been like—wanted to know more about the worldships, what it was like being able to travel between realms, if dungeons had existed at the time and what life was like when healing magic had been real...
+
+Except all of those were questions that they needed Cale around to answer, and he was off confronting the Red Commander. In light of that, the conversation quickly took a different turn, led mostly by Flia.
+
+"I want to do something about what the Red Hunters did to Brightscale Academy," she said bluntly. "From what we've discovered, they're a big part of the reason the Astral Wing is treated so differently, right? We should work to reverse that."
+
+Damien blinked, not entirely sure how to react to that. "That... feels like a big goal," he said awkwardly. "We don't even know what they did, right? I don't know if we can just reverse it like that."
+
+Was he being the cynical one? It felt like he was being the cynical one.
+
+"I don't see why we should be the ones to fix it," Leo said, scowling slightly.
+
+Flia shrugged. "You might have a point there, and normally I wouldn't bother," she said. "But we can find out some of what they did if we ask that moth guy Professor Sternkessel rescued. He's around here somewhere, right? Serof or something. I don't think figuring out what they did is that important, though. I just want to lay the groundwork for things to change."
+
+"You sound like you have a plan," Syphus noted.
+
+Flia grinned. "I do. I just want to make sure you're all on the same page first. You're right, this isn't really our job and the professors are kind of on it at this point, but it'll go faster if we help, and it'll improve things for the other Astrals, too."
+
+"I mean, um..." Damien hesitated for a moment. "I don't see any reason not to?"
+
+Leo snorted. "I do," he muttered, then scowled at the rest of them before sighing. "But yeah, I'm in. I'd rather get it over with, to be honest, and it's not like we're the only ones being hurt."
+
+"Like Izzik," Damien said quietly, and they all winced at the reminder.
+
+Angus had followed along but largely stayed silent until now, presumably realizing they needed the time to talk things out. The moment he heard the name, though, he perked up. "Little Izzik is here?" he asked, and then frowned when he saw their expressions. "...did something happen to him?"
+
+So that, of course, led to them being sidetracked as they explained everything that had happened with the attempted shimmerdust poisoning and the way Izzik had very nearly died. Angus was furious by the end of it, and with the amount of power the Icon of Battle held, it was a really good thing they'd decided to do this in the labyrinth—the waves of power emerging from him would have alerted every mage in the vicinity for miles around.
+
+Eventually, though, he calmed, and Flia gave him directions to go visit the infirmary. Leo followed up with a navigational spell that would guide him just in case he got lost, which seemed to Damien to be a bit overkill. Angus seemed grateful, though.
+
+After that, it was just the four of them again.
+
+"You said you had a plan to lay the groundwork for things to get better for the Astral Wing?" Leo prompted.
+
+Flia nodded, taking a moment to gather her thoughts. "In a manner of speaking," she said. "Headmaster Akkau's changes to our schedules helps us a bit, and I think it'll help even more if we stand out in our classes. Brightscale students value control. I'm pretty sure that's a big part of how the Red Hunters were able to undermine the Astral Wing and make us look weak."
+
+"That's not the plan, is it?" Leo asked. "Because if it is, I have a few problems with it. For one thing, I don't have that much control yet. For another, I was going to do that anyway."
+
+Flia laughed. "It's not," she said. "I was just saying it'd help. Besides, you're way more comfortable with magic than you were before. You realize you just cast a labyrinth spell to help Angus find Izzik?"
+
+Leo blinked. "...I did, didn't I?"
+
+"Yup."
+
+"Huh." The minotaur looked thoughtful for a moment. "How exactly are you expecting us to stand out?"
+
+"Just channel your inner Cale," Flia said. Leo opened his mouth as if to protest, then abruptly snapped it shut again, looking even more thoughtful.
+
+...Damien found it vaguely worrying, if he was being honest. He wasn't sure channeling his inner Cale was good advice. What would his inner Cale even do, flirt with a professor and then upend decades of magical research? He tried to picture himself doing that, then shuddered.
+
+Probably not. That sounded awful. Which sort of begged the question of what Leo was picturing, because their minotaur friend was grinning like an idiot.
+
+"I'm going to get so many points in Magical History," Leo said.
+
+Oh. That made sense. Damien vaguely remembered Leo saying something about having a vendetta against their Magical History professor, actually.
+
+"Anyway," Flia continued, giving Leo a severe look. "Like I said, that's not really the plan. It'll help, but the real goal is impressing the wyldfires."
+
+"The what?" Damien asked, feeling suddenly lost. He glanced at Leo and Syphus, but they looked equally confused. "Is that another academy?"
+
+Flia paused to stare at the three of them. "...do none of you pay attention to any of the other cohorts in this academy?"
+
+Slowly, the rest of them shook their heads.
+
+"You can't be serious," Flia said, looking at each one of them in turn. "I'd expect this from Cale, since he just got here, but you've all been studying here for—I don't even know how long."
+
+"The Headmaster kind of adopted me and put me in the tower," Damien volunteered awkwardly. "I just stay in there most of the time. And attend classes, I guess."
+
+"It's not like anyone likes talking to us," Leo said defensively. "I spend most of my time reading, I'll have you know."
+
+"And none of it was on the history of this academy?" Flia asked, exasperated. "Did you not look into what it would take for you to advance to the next stage of the academy at all?"
+
+"I was having fun in this one," Syphus said with a shrug. "Are the other stages better at fighting?"
+
+"They are categorically better at everything," Flia said.
+
+Syphus's single runic eye went wide. "...I've been missing out."
+
+"You've all been missing out." Flia groaned. "Did you think you just move forward into the next stage once you pass or something?"
+
+"...Yes?" Damien volunteered.
+
+Flia buried her face in her hands.
+
+It turned out, after a long explanation that doubled as a frustrated rant, that Damien's idea of how things worked at the Brightscale Academy had been completely wrong for all the years he'd been there. Which was a little awkward. The same was true for Syphus, who had been there twice as long. Leo had the best excuse, being relatively new to the place.
+
+Magic academies did not adopt the year-by-year organization of each cohort that more mundane schools did. It took the average mage years of training to be considered worthy of assignments as a professional, especially on Utelia, where magic was easily accessible for just about anyone. As a result, rather than the cohorts being divided by years, they were divided by stages of knowledge and mana core development. Once the thresholds were crossed, a student graduated automatically to the next stage.
+
+The four stages were, in order, plainroot, palewater, darkwood, and wyldfire. Leo had predictably immediately questioned the names, which was the one place where Flia faltered; she had no idea why they were named that way, except that it had something to do with mana core development.
+
+"I can't believe you guys didn't know any of this," she muttered. "Were you just planning to stay at plainroot forever?"
+
+"...Yes?" Damien ventured. It didn't help. Flia just let out a long-suffering groan.
+
+"Okay, whatever," she said. "You know now. The important thing is that you can graduate as a mage at the darkwood stage; the wyldfires are the mages who want to learn everything Brightscale Academy has to offer. Some of them help out as professors, and a lot of them are either pretty much archmages or outright archmages in their own right. Every Wing has at least three of them—"
+
+"Even the Astral Wing?" Leo interjected eagerly.
+
+"Except the Astral Wing," Flia said sternly, making the poor minotaur hunch over with disappointment. "We have one, and I have no idea where she is. That's unimportant. The wyldfires are usually off delving dungeons and working on developing their magic. They're barely even in the academy most of the time, but they get to freely consult with our professors and use our resources in exchange for occasionally helping out with classes, or helping Headmaster Akkau intimidate someone."
+
+"That feels illegal," Leo said.
+
+"That's why it's unofficial." Flia seemed entirely unperturbed. "Here's the thing, though. They come back every year for the Fettered Divinity tournament—the one the Thyrahl Kingdom hosts to push back the dark lord. They're allowed to bring a small team of students with them to this tournament, and the position is extremely prestigious."
+
+"...and you want us to be the team they bring along?" Damien asked, confused. There was no way they'd earn that position, was there? And even if they did, he didn't see why that would help. "Isn't it equally likely we'd make things worse if everyone gets jealous?"
+
+"Brightscale students value control. Even the petty ones can't help themselves. Remember how Nala came to us the moment she realized there was something she didn't understand?" Flia asked. "Every academy has an identity, and control is ours. But I'm not exactly suggesting we somehow become the most stand-out student team in time for selection."
+
+"What are you suggesting, then?" Damien asked, his brows furrowing.
+
+Flia grinned. "I'm suggesting we train everyone to pick up on Cale's methods until we're all good enough to be nominated," she said. "It might be a little dangerous, but we can get the professors to help. And Cale himself, if he gets back by then. Professor Graystalk's remedial class last night went really well, from what I hear. It doesn't matter if we win—I just want the Astral Wing to stand out the most from all the previous years, where not even a single one of our teams was nominated."
+
+"They'll think we cheated," Leo said, slightly hesitant, but now he looked like he wanted to be convinced. Damien was halfway there already, and Syphus had stopped listening and started nodding viciously as soon as Flia said the word "tournament."
+
+"Maybe, but I doubt it," Flia said, shaking her head. "Because their own wyldfires will be nominating the teams, and everyone respects them more than anything. Trust me. We pull this off? The Red Hunters lose all the ground they made and more."
+
+As the conversation wound down, Damien began to grow quiet, finding himself suddenly caught up in his thoughts about Cale and what he'd told them. He couldn't tell if the others felt the same way, though it was clear none of them had quite stopped thinking about it. Damien hadn't brought it up himself—he agreed with Flia that making plans for later was far more important—but now that that was done...
+
+Well. Damien, for his part, didn't really know what to think about all that, and frankly he wasn't sure if he wanted to. All that stuff about Yggdrasil's End felt like it was several stages beyond him.
+
+The general thrust of his thoughts went largely like this: Damien had spent most of his life worrying about the future. What he might do in it, what might become of it, all the eventualities in which his natural attunement fell out of control. Outside of his own problems, it felt strange now to worry about Cale's past. It helped him understand why Cale was the way he was.
+
+As callous as it might have sounded, he was pretty sure he just didn't care about who Cale had been. He cared about who Cale was now, and about what he might do with all the power he wielded. On Utelia especially, with the power the Gift granted him, there was a potential for yet another event like that which once led to the end of Yggdrasil.
+
+And despite himself, he was, in fact, a little bit worried about that.
+
+He wasn't sure if any of the others shared that worry. Damien had mostly been watching Cale as he told his story. He'd seen the darkness within Cale's eyes slowly fade, replaced by the hope that Utelia represented, by the understanding that his apprentices would not abandon him for something that clearly scarred him, even now.
+
+But that darkness hadn't faded entirely. That trauma wasn't the sort of scar that could be healed in the course of a single conversation, and certainly not in such a small amount of time. Now he was off to face the Red Commander, who had not only been the cause of Utelia's problems but represented a stark reminder of the Planar War.
+
+What had Icon said, again? The Red Commander was an avatar of the corrupted fragments of the Source of Magic. If that was the case, then he represented everything Cale had struggled against for what had sounded like centuries, and no matter how much time had passed since, he clearly hadn't healed from that time.
+
+It was one of the reasons he'd made the promise he had. To give Cale a reason to come back, even if the Red Commander somehow dragged his mentor back to the time of that war.
+
+Damien sighed to himself.
+
+Hopefully, that would be enough.

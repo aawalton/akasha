@@ -1,0 +1,337 @@
+---
+id: f1b63de4-6534-5af1-9138-92cfec5946aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16 — Alina the Lunchlady, Archdemon of Shelves"
+slug: 0016-chapter-16-alina-the-lunchlady-archdemon-of-shelves
+partOf: just-add-mana
+position: 16
+ownLength: 5046
+unit: words
+ownProgress: 5046
+publishedAt: 2025-08-02
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2486545/chapter-16-alina-the-lunchlady-archdemon-of-shelves"
+royalRoadId: "2486545"
+markedReadAt: "2026-06-29T18:48:04.097Z"
+---
+
+It wasn't all that often that Cale encountered things that interested him, even when he found himself in a new world. Utelia, on the other hand? He could comfortably rank it among the top three of the most interesting realms he'd been to, based solely on how often it managed to surprise him.
+
+In this case, the surprise came in the form of a towering, eight foot tall archdemon wielding a ladle threateningly. She was flaming hot, both literally and figuratively; not only was there fire licking up and down each of her four arms, but she wore basically nothing more than cargo pants and a set of bandages to cover her chest. Cale had no idea how they weren't burning up, really, but that didn't stop him from watching with interest as she used her ladle to fling a fireball straight across the cafeteria and set several students on fire.
+
+"This feels like it should be some sort of safety hazard," he remarked to no one in particular.
+
+No one was panicking, though, and it didn't take him long to figure out why: the entirety of the cafeteria was covered in a thick, archmage-level fireproofing ward that prevented any type of fire from actually harming a person. It was an advanced ward, too, as far as he could tell—tuned to allow food to still be cooked and to allow surfaces to burn, which was why so much of the cafeteria looked like it was on fire.
+
+With the ward in place, it was pretty much just a visual effect. Maybe it helped the archdemon feel more comfortable? It was probably a common enough sight, given that most of the other students weren't panicking. They were eating or going about their business, casting only one or two glances at the raging archdemon.
+
+The only students that were panicking were the ones being subjected to all the fireballs, and as far as Cale was concerned, that was a valid reason to panic. He wouldn't have wanted to be on the wrong end of those fireballs, either. Fireproof wards or not, high-tier magic like that often carried a force component, which meant those fireballs still had impact.
+
+For Cale, that meant they could knock him back, even with his barriers. For those students? Well, they might not be getting burned, but they were definitely getting bruised.
+
+Cale briefly considered intervening, but he had no idea who was in the right here. On the one hand, the students were largely defenseless and getting tossed around like ragdolls.
+
+On the other, the archdemon was hot.
+
+She was also carefully controlling the force component of her spells to avoid damaging her cafeteria or killing the students, which was a display of spellcraft that he enjoyed in an entirely different... no, he enjoyed it in pretty much the same way, now that he thought about it. It was the same reason he'd liked Professor Graystalk.
+
+Cale wandered farther into the cafeteria as he thought about this, still carrying the blood obsidian box under his arm. He'd considered asking Syphus to store it along with the spell tomes Graystalk had given them, but he had no idea what a voidcyte would do to a storage spell, even contained inside a mana-insulating material like this.
+
+Come to think of it, that was probably worth experimenting with. There had to be a reason voidcytes hadn't just been shunted into extraplanar pockets using dimensional spells...
+
+What was he doing again?
+
+Oh, right. There were students getting fireballed.
+
+"Excuse me," Cale said politely. The archdemon stopped mid-fireball—Cale briefly admired the fact that the spell had actually been stopped, not aborted or canceled; she'd managed to freeze the spellstate mid-cast—and turned to look at him.
+
+"Ah! You must be the new student!" The archdemon gave him a broad smile and slapped him on the back hard enough that he stumbled forward. "Akkau told me about you. Let me take a look at you!"
+
+And then she proceeded to pick him up with a single hand.
+
+Cale didn't protest. He didn't do anything to stop it, really. He could have, if he wedged his barriers in the right places, but he saw no reason to stop an eight foot tall muscular demon lady from picking him up if she wanted to. It wasn't like she was holding him by the neck or anything. He was, if anything, sitting quite comfortably in her hand.
+
+"Hmm," she said, examining him critically. "Strong mana core! Akkau was right. You're a very dangerous bug, aren't you?"
+
+"Bug?" Cale asked, tilting his head.
+
+"She calls everyone bugs," a nearby student called without looking up from his book. "You get used to it."
+
+"Huh." Cale took in this information, then shrugged. "Well, she can call me whatever she wants. I'm not picky."
+
+"Hah!" The archdemon bellowed a laugh. "I like you, bug. You've got moxie! Think we could fight sometime?"
+
+"Probably, but not here," Cale agreed cheerfully. Several of the students around him startled at that, looking up at him with something that looked vaguely like horror and sympathy. "What? I could take her."
+
+"In a fight?" A student snorted. "No way. She's an archdemon."
+
+Cale remained silent. The silence stretched.
+
+"...In a fight, right?" the student ventured eventually. Cale stared at him, and he shuffled uncomfortably.
+
+"Anyway!" Cale said, turning his attention back to the archdemon. "What should I call you?"
+
+She grinned at him. "The name's Alina. Ina to my friends, but you're gonna have to earn the right to call me that, bug."
+
+"I don't have any cool nicknames, unfortunately," Cale said. Then he frowned. "Well, I have a couple, but they're not really nicknames so much as things some people scream when they know I'm around. You know the deal."
+
+"Do I! You've made a name for yourself, have you?" Alina grinned at him. "Maybe I'll give you the right to tell me about 'em. Only after you've beaten me, though. If you do that, I'll give you something special."
+
+"And what's that?"
+
+"A lunch credit." Alina winked. Whispers erupted all around him as students began glancing at one another; Cale caught a few remarks about how Alina never gave out credits, and also something about how he was probably going to die.
+
+"Just so we're clear," Cale said. "Is that for a special type of lunch, or does that fall into the Wing credit system?"
+
+Alina laughed loudly. "The second one, bug," she said. "It's a special type of credit outside the five Wings. Don't waste it if you get it, you hear? If you let anyone steal it from you, I will find you."
+
+"And if I want you to find me?"
+
+"There are better ways to get me to do that, bug." She smirked at him. Cale grinned right back and almost responded before abruptly remembering why he was here to begin with.
+
+"So, why're you fireballing those students?" he asked, looking over at them. They were all piled against the wall in a groaning heap—Cale counted one elf, one blue lizardfolk, and what he was pretty sure was some sort of catgirl. "I'm assuming they did something."
+
+"They did something alright." Alina scowled, her mood suddenly darkening. "They tried to mess with my food. Ain't that right, you little shits?"
+
+There was a groan from the pile. Cale caught a tiny bit of movement as the catgirl tried to shift and palm something. He frowned, then hopped off of Alina's hand, much to her disappointment. She didn't stop him from approaching them, though, and in the state they were in...
+
+Well, they couldn't do much to stop him when he reached down to pluck what the catgirl was holding out of her hands. He examined the strange little vial for a moment, shaking it and watching glittering specks float around within.
+
+"Shimmerdust," he said, frowning again. If they were planning to feed that to students, especially Astral Wing students... "They tried to spike your food with this?"
+
+Alina stared blankly at him, then shrugged. "Oh, I have no idea," she said, tapping one of her horns. "I didn't see them do shit, but they did set off my tampering wards, so I fireballed them. The hell's a shimmerdust?"
+
+"Wait, were they actually trying to tamper with the food?" someone nearby asked, startled. "I thought it was a false alarm again."
+
+Alina scowled. "My wards don't have false alarms! They're just sensitive."
+
+"I had them go off on me when I sneezed!"
+
+"Don't sneeze near food, bug!" Alina snapped right back. "That is tampering!"
+
+Cale poked the vial again, watching the powder within sparkle and float slowly to the top. That was definitely shimmerdust, and as amusing as this exchange was, if those students had been trying to spike the food with this of all things, then this was a serious matter.
+
+He coughed politely to get Alina's attention. "Shimmerdust is a type of poison that interferes with mana control," he said. "It's slow-acting, but even a small amount is enough to mess up a mage's ability to cast spells, among a host of other effects. It worsens core leakage, reduces the effectiveness of barriers, that type of thing."
+
+A few of the students around them began to mutter, casting nervous glances at the vial or dirty looks at the ones that had attempted to spike the food. The catgirl mustered up the energy to lift her head and glare at him, though her cheeks were flushed with shame.
+
+"Shut up," she said. "You don't understand. You wouldn't understand. We had to. We—"
+
+"You're right, I wouldn't understand," Cale interrupted calmly. He watched her for a moment. Her fist was clenched, and she was trembling slightly, tears gathering in the corners of her eyes. The other two just propped themselves back against the cafeteria wall—none of them could look anyone else in the eyes.
+
+Cale turned back to Alina. "I'd like to get this to Akkau and see what he thinks of all this. I—"
+
+"Aren't you going to ask why we did this?" the catgirl interrupted, a bit of desperation leaking into her voice. Cale glanced at her.
+
+"No," he said. "Why would I care why you're doing it? What matters is that you tried. Akkau can figure out the why. I don't like listening to excuses. Also, I'm hungry."
+
+"But—" the catgirl tried. She turned a pleading gaze onto the rest of the cafeteria, but none of the other students wanted to look her in the eyes.
+
+"You're just going to make things worse for yourselves if you try to explain it," Cale interrupted flatly, and since he could see she was going to try to argue, he snapped a soundproof barrier around all three of them. "Alina, do you have a way to contact Akkau?"
+
+What he wouldn't give for one of those long-distance communication spells right now. Maybe he could get Akkau to enchant a scroll for him. Thankfully, Alina nodded.
+
+"Already called for him," she said. She raised an eyebrow. "You're pretty good with those barrier things, huh, bug? Too bad. I wanted to fireball them a few more times."
+
+Cale chuckled a bit, some of the tension in his shoulders dissipating. "You could say I've had a lot of practice."
+
+"Well, if you're hungry, you'll love our specials today." Alina held out a hand for him to climb onto, having apparently decided this was their dynamic. Cale wasn't about to complain. "I'm trying something new! Shelfweed sautéed in mimic oil with a little bit of mangrove powder."
+
+"Shelfweed like... a weed that grows on shelves?" Cale asked, seating himself on her hand. "And how do you get mimic oil?"
+
+Alina nodded, lifting him up to put him on her shoulder. "Yes, and you don't want to know the answer," she said cheerfully.
+
+"It's pretty good," one of the nearby students offered shyly. "Auntie Alina's dishes don't always work, but when they do, they come out really tasty."
+
+"That's right they do," Alina said, puffing out her chest. Then she frowned. "Hey! What do you mean, they don't always work?"
+
+Syphus had taken a bit longer to get to the cafeteria than it had expected. For the most part, this was because it had a few questions to ask Graystalk, and those questions had evolved more quickly than it had expected. It had wanted to know more about Graystalk's curse—about who had cursed him and why they had done it, among other things.
+
+Professor Graystalk was understandably rather hesitant to discuss his condition, but he'd eventually divulged a few small details. Syphus was still considering those details when it reached the cafeteria and nudged it open.
+
+The fire was a normal enough state of things that it wasn't particularly worried.
+
+An angry-looking headmaster storming his way out of the cafeteria with three students tossed over his shoulder and covered in barriers? That was unusual enough to get its attention, but still none of its business.
+
+Auntie Alina, the terrifying archdemon in charge of their cafeteria, lying down on some kind of mat and doing bench presses?
+
+That was enough for Syphus to run a few diagnostic passes on its scrying spells, just to make sure it was actually seeing what it thought it was seeing. Then it sighed.
+
+"Cale," it said. "Must you be doing something strange every time I enter a room?"
+
+Cale looked up from where Alina was bench pressing him and beamed. "Oh, you're here!" he said. "You won't believe what happened."
+
+To say that the three of them formed an unusual lunch table was an understatement. Alina was large and heavy enough that the bench groaned under her weight. Cale was sitting alone on the opposite side of the table, and Syphus was...
+
+Well, Syphus was standing at the side. It didn't have any legs, after all.
+
+Cale handed the vial of shimmerdust over to Syphus as he dug enthusiastically into his food. The shelfweed was good—he had no idea what it was and why it was growing on shelves, but somehow the way Alina had fried it made it taste remarkably like bacon. He combined a healthy serving of it with rice and started gulping it down while Syphus studied the vial.
+
+"You're right, this is shimmerdust," Syphus said after a moment. "I'm impressed you could identify it on sight alone."
+
+Cale swallowed his food before responding. "I've had to deal with shimmerdust once or twice," he said. "And once you've experienced a shimmerdust overdose, you don't forget it. Trust me."
+
+Honestly, feeding him shimmerdust had been a terrible idea. Just because it usually weakened mages didn't mean it always did. Loss of control for the average mage meant their spells came out weaker, but Cale didn't use any spells, and...
+
+Cale's expression darkened slightly. No, feeding him shimmerdust had been a terrible idea. He'd considered the person that did it a friend, too, and it wasn't like his abilities were unknown to them. They should have known what would happen.
+
+Maybe they did.
+
+Alina was studying him carefully. Before he could fall too far into his memories, she interrupted them with a slam of her mug onto the table. "Bug," she said. "There's something you haven't told us."
+
+"Is there?" Cale hummed noncommittally, then took another bite of his food. It really was very good.
+
+"Why'd you stop that girl from explaining herself?" Alina folded her arms across her chest. "You looked pretty damned pissed, but I don't think that's the reason. I saw the way you were looking at them."
+
+Cale said nothing for a moment, then sighed. "Look, I've got a problem when it comes to tears, okay?" he said. "I know ages in magic academies are all over the place, but those three were basically kids. The elf was the oldest, and even then he was like, forty. He's basically a child to me. He's a child by elven standards!"
+
+"I have a question about how old you are," Syphus said. Cale ignored it.
+
+"If I let them explain, they were going to cry, and that was going to suck," he said. "I'm too nice to kids when they start crying."
+
+Alina raised an eyebrow at him. "I dunno if I believe that's the full story, bug."
+
+"I can't tell you all my secrets," Cale said. "You never know who's watching."
+
+Alina narrowed her eyes slightly, then reached up and snapped her fingers; after a moment, Cale felt the resonant echo of infernal magic wrapping around them. He resisted the urge to pull it apart to examine it—he hadn't had much opportunity to examine wards of this level.
+
+Infernal wards were several steps above regular obfuscation wards, as he understood it, and being inside one was more than enough for him to understand why. Unlike regular obfuscation wards, these seemed to shunt the people inside them partially into the infernal realms and use the planar boundary itself to deter anyone that might be watching them.
+
+"That what you wanted?" Alina asked.
+
+Cale grinned. "Close enough," he said. It was nice working with people like Alina, the ones that had enough experience to really get him. "But just in case..."
+
+He turned to Syphus. "Are we being watched?" he asked. "I mean, other than—"
+
+"We're not," Syphus interrupted quickly, its eye growing a little wide. Cale just nodded. This was one of the reasons he'd waited for Syphus to join them. It served as an additional layer of security. Any scrying nexus powerful enough, like the one Syphus used to see the world, naturally drew in other observational spells in the vicinity. The etherite shards that floated around its so-called eye amplified the effect like antennae, then subsumed the spells to make it part of its enchantment.
+
+That meant the golem served as a sort of natural anti-scrying ward and grew greater analytical capabilities the more people tried to scry it. It really was very good spellwork. Cale wondered if he'd ever get an opportunity to speak to Syphus's maker, but that was beside the point for now.
+
+"I feel like I should be offended," Alina remarked, although there was a smile tugging at her lips. "Reminds me of the old days of running around. You bugs get so paranoid."
+
+"Keeps us alive." Cale shrugged. "I normally wouldn't worry much about it, but..."
+
+He reached into his pocket and withdrew the second item he'd snagged from the catgirl—a heavy metallic emblem that clattered onto the table with a thunk. It bore a red, bloodstained spear embossed into a golden shield.
+
+He'd expected a reaction, but not as strong as the ones he got. Alina drew a sharp breath, her fists clenching and her fire burning just a little brighter. Syphus's reaction was more controlled, but it still narrowed its eye, staring intently at the emblem.
+
+"That thing is trapped," it said.
+
+"I know." Cale flicked the emblem across the table toward the golem, and it took it carefully, turning it over a few times as its scrying eye began to expand. "I don't know the exact details, but I could sense some kind of conditional spell on it, masked by a communication spell. I'm assuming those three used this to communicate with whoever gave them the shimmerdust. It probably isn't the only one, and unless I miss my guess..."
+
+He turned to raise an eyebrow at Syphus, who nodded.
+
+"There's a conditional spell within this emblem that triggers the detonation of a linked bloodrot bomb," it said. "It looks like it's set to go off if the linked mage reveals anything about some kind of contract."
+
+Cale stilled. So did Alina.
+
+"I don't know what bloodrot is." Syphus's eye contracted slightly, puzzled. "My spells report the name, but not the function."
+
+"It's..." Alina took a deep breath and clenched her fists; Cale remained silent. "It's an old war weapon," she said. "Invented a very, very long time ago, when I was still a youngling, and banned ever since. Bloodrot is a variant of the decay aspect that spreads through generational ties. If you hit a mage with it, it spreads to their immediate family, then one generation out, and it keeps going until it exhausts all its mana."
+
+Syphus's eye went wide. "What?" it asked. "But that's..."
+
+"It's monstrous," Alina growled. "We banned that shit for a reason. How the fuck did the Reds bring it back?"
+
+"We don't know that it's them," Syphus said, staring at the emblem. It hesitated. "It's too obvious. Why would they use their own emblem?"
+
+"Because they're narcissistic bastards, that's why!" Alina slammed her fists on the table hard enough to crack the wood, startling Syphus. "They shouldn't be able to use bloodrot. That thing should be erased. Gone. Archmages all over the Great Realms worked together to seal it. How the fuck is it back?"
+
+Cale reached out to take the emblem back. "I let Akkau know about the emblem when he came to grab them," he said, his voice coming out strangely distant. "He's waiting for us to come talk to him once we're done with lunch."
+
+The emblem belonging to the so-called Red Hunters wasn't that much of a surprise—there were only so many things a blood-tipped spear might represent. But bloodrot? That wasn't an aspect he'd expected to hear about again. Alina had the gist of it, but Cale... he'd been there, during the Planar Collapse.
+
+It was a time he tried not to think about.
+
+The Planar Collapse had been a prophesized event. It was the beginning of a sort of multiversal collapse that should have led to all the realms living together in harmony. Instead, it brought about a war that spanned a thousand realms and stole a trillion lives.
+
+He'd lived it again and again. It hadn't mattered how many lives he spent—every reincarnation brought him right back into its depths. It spanned too many worlds to avoid, and the atrocities he'd seen committed were too terrible for him to ignore. He would never forget every time he woke, hoping it was over, only to find some new abomination waiting. Bloodrot was only the start of the weapons invented in that time.
+
+Cale had fought, initially, to protect. To stem the flow of death. He protected towns and cities and kingdoms, sealing them in impenetrable barriers. But still, his opponents found a way through. They found ways to bring across death and sickness, to infect the people he wanted to save.
+
+Eventually, he'd grown tired of protecting. Of holding back.
+
+That was how he'd earned the first of his names, now whispered only in the oldest of archives.
+
+Yggdrasil's End.
+
+Of all the atrocities committed to further the cause of that war, Cale wondered sometimes if his hadn't been the worst of all, even if it had to be done to end it.
+
+"...Bug? Are you alright?" Alina was staring at him. Cale blinked once and realized that his mana had begun to swirl and crackle around him; he shook his head and offered her a weak smile.
+
+"I've heard about the Red Hunters," he said. He'd heard about them from Leo, specifically. The minotaur had claimed his parents had joined them and would be visiting the school, although they supposedly wanted nothing to do with him. Cale didn't believe that for a second. "Who are they, exactly? What do they want?"
+
+Alina and Syphus exchanged glances.
+
+"They're the elites of the Orstrahl Army," Alina said reluctantly, as if giving them any kind of praise physically hurt her. "Damn good fighters, the lot of them, but they're all twisted up inside. I think they started up as a mercenary band and then strongarmed their way into Orstrahl's forces."
+
+"They call themselves the protectors of Utelia," Syphus volunteered. It sounded pretty unhappy about them, too, although its anger was more muted than Alina's. "Their official job is to cull monsters—"
+
+"—except they think that everything that doesn't fit their idea of a mage is a monster," Alina burst out angrily. "They call us wild mages, can you believe that? They say we're dangerous because one wrong spell could wipe out hundreds. As if regular mages don't do that!"
+
+"They conduct inspections on magic academies every so often to make sure none of their 'wild magic' students are getting out of control," Syphus said. It tried to keep its voice neutral, but there was a tinge of disgust there. "I think they used to have a lot less political power, but they got a lot more popular after a number of noteworthy disasters they claimed were caused by wild magic."
+
+Alina scoffed. "Liars, the lot of them," she said. "They probably did it themselves. I'd kick them out of the school myself if I could."
+
+"But even putting aside that they're some of the strongest mages on the continent, to the public, any opposition of the Red Hunters looks like an admission of guilt." Syphus's eye contracted slightly, and its etherite crystals folded back. "They claim that magic academies like ours harbor monsters and teach them to wield their power, so we're endangering the public. Their inspections are supposedly to keep everyone safe and make sure our wild mages are making progress in getting themselves under control. They set a lot of rules, too—that wild mages have to be kept separate from everyone else, for example."
+
+"Hence the Astral Wing," Cale muttered, his mind racing. There weren't many mages in all the multiverse that could bring back even the weakest of weapons from the Collapse, and he highly doubted some Utelian mage had independently invented bloodrot, even with the Gift.
+
+"More or less." Syphus rolled back from the table, its eye downcast. "We lose a few of our friends every time they come for an inspection. The next one's in less than a week."
+
+"And it takes a few days for the symptoms of shimmerdust poisoning to fully manifest." Cale stood from the table, folding the blood obsidian box under his arm. "I think I'm done eating. I need to get a few things in order. Syphus, are you coming?"
+
+The golem looked up, startled. "Sure," it said after a moment. "Are you... sure you're alright?"
+
+"Me? I'm fine," Cale said. "But I want to see just how much Akkau knew about all this."
+
+Damien stared nervously at the new door that had appeared in his room.
+
+He had no idea what to make of it. Neither did Flia, nor Leo, nor even Nala Whiteleaf; in fact, Nala was the only one that didn't quite understand its significance. She kept insisting they show her how good they were at magic, instead. None of them were quite in the mood to play her games, however.
+
+"He told me something like this might happen," Damien said nervously. "Something about a secret passage?"
+
+"Except that isn't a secret passage," Leo said. He sounded angry, and with good reason. The door that sat at the back of Damien's room was made of a very familiar wood, with Sylnarian symbols carved onto its front. "Is this Professor Imrys's idea of a joke?"
+
+"I think it's her idea of a reward." Flia shot Leo a sympathetic look, one hand clutching her satchel close. She still hadn't had a chance to properly get that shadeling bound to her, now that Damien thought about it. "I don't know why she thinks we'd want to go back into the labyrinth, but..."
+
+"I think we should report this to Headmaster Akkau." It made him nervous to say it—conflict between any of the professors never ended well—but something like an entire dungeon manifesting in their room warranted a report, and besides, there was a chance Imrys had nothing to do with it. He couldn't imagine the type of power it would take to bind that labyrinth to one of the academy's manifestations, besides. "It might be important, right?"
+
+Flia sighed. "Yeah, I think that might be for the best."
+
+"I'm not coming with you," Nala said, sitting on a chair and glaring at them. "I've done enough walking today."
+
+"Then go back to your room," Flia said, exasperated. Nala looked, if anything, even more put out.
+
+"No. I paid you, remember?" she said imperially. "I'm going to stay right here until you get back."
+
+"You can't just stay in Damien's room uninvited."
+
+"I was invited. You invited me."
+
+"You invited yourself!" Flia rubbed at her face with a hand, evidently already exhausted with this conversation. She glanced at Damien. "We don't have time for this. Damien, are you okay with this?"
+
+Damien fidgeted. It was still his room. He wasn't sure he was comfortable letting the elf hang out here while a mysterious door sat there—he'd barely been comfortable with Flia and Leo coming here. Plus, he had personal belongings he didn't want her to see.
+
+On the other hand, those Forest credits really would do a lot for them. And the fact of the matter was...
+
+"The Headmaster warded my stuff personally," Damien said after a moment. He was a dreadshade, after all, and any student stupid enough to try to steal his belongings would likely absorb some of his decay mana by accident in the process. "She shouldn't be able to touch anything."
+
+"The door is warded, too," Leo spoke up begrudgingly. "Imrys took some precautions, at least."
+
+"See?" Nala sniffed. "I can wait here just fine. Go. Shoo."
+
+Flia rolled her eyes. "You are the worst."
+
+"I can take back my credits, if you don't want them."
+
+The water elemental twitched. "Whatever," she said. "Damien, Leo, let's go and get this over with. Nala, stay here. Don't touch anything."
+
+"Why would I want to touch any of your filthy Astral belongings?" Nala turned up her nose. "I'm just going to sit here and wait, thank you very much."
+
+Flia rolled her eyes again, grabbed Damien and Leo by their wrists, and dragged them out of the room. Damien didn't resist. The sooner they got this over with, the better.
+
+Once they were gone, a tendril slowly slithered its way out from underneath Damien's bed and spoke to Nala.
+
+"So. You come. Here often?"
+
+Nala stared at it for a moment, then shrieked.

@@ -1,0 +1,21 @@
+---
+id: b01129de-1081-5a5a-b39e-0cf306dd3752
+page-type-slug: story-chapter-royal-road
+title: "Mark of the Fool 8 Audiobook + LIGHT NOVEL ANNOUNCEMENT"
+slug: 0020-mark-of-the-fool-8-audiobook-light-novel-announcement
+partOf: mark-of-the-fool
+position: 20
+ownLength: 355
+unit: words
+publishedAt: 2025-03-19
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2137425/mark-of-the-fool-8-audiobook-light-novel-announcement"
+royalRoadId: "2137425"
+---
+
+Hey everyone,
+
+Today I am back for an eighth time to show you a brand new track...well, it's not brand new, it's the eighth instalment in a very old very long track! That's right everyone, it's time for Mark of the Fool 8 to release on Audible!
+
+I would hold for applause, but Travis Baldree deserves the applause for his performance! I know some of y'all have been waiting so enjoy! Find it through this link: https://www.audible.com/pd/Mark-of-the-Fool-8-Audiobook/B0DY8ML8MW
+
+Check it out!And now for something I've been sitting on for awhile...Fool is being released in bookstores in Light Novel form!So what's that mean? For those who don't know: Light Novels are a type of Japanese or Japanese inspired-novel, usually shorter than other novels with 4-5 illustrations placed in the books. My publisher is creating western light novels for a number of their series, including Mark of the Fool. What's this mean for Mark? It means that the novel series will be broken up into shorter, smaller volumes with Light Novel art included. My art is being done by talented a Japanese artist, by the name of Natsujirushi with editing done by Der-Shing Helmer.Reading on this site? This novel is published elsewhere. Support the author by seeking out the original.Essentially, it's the same story but split into less giant books with illustrations inside...like this one:This is more anime inspired art that takes different aesthetics than what the webtoon will be styled as and what my covers are like.It's different but I think it's gorgeous, lol. Remind me a lot of the JRPGs I played when I was younger along with the anime I've watched.It's an exciting thing for Fool. If you are interested in the interior illustrations, you can purchase a copy of from Amazon, Barnes & Noble or tons of other book stores:https://www.royalroad.com/amazon/1638492352?maas=&ref=https://www.barnesandnoble.com/w/mark-of-the-fool-jm-clarke/1145682037This is for folks who read light novels and haven't read Fool before, or folks who have read Fool and want to revisit it with new art.It will be Available on April 1st, 2025!P.S. You'll see me again tomorrow for a VERY special announcement that many of you have been waiting for since Fool's end...

@@ -1,0 +1,157 @@
+---
+id: b622194f-75a9-54b0-81cb-1c2fe53c5bef
+page-type-slug: story-chapter-royal-road
+title: "561. The Archduke's Game"
+slug: 0027-561-the-archduke-s-game
+partOf: leveling-up-the-world
+position: 27
+ownLength: 2155
+unit: words
+ownProgress: 2155
+publishedAt: 2022-08-04
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/963719/561-the-archdukes-game"
+royalRoadId: "963719"
+markedReadAt: "2026-06-29T22:41:05.568Z"
+---
+
+A cool breeze greeted Dallion as he entered his realm. The echoes had changed things a bit, transforming the landmass into a crescent island connected through miles long suspended bridge to an archipelago of islands. Each of the main guardians had their own domains: the haprsisword had retained her tower close to the shore, Vihrogon had his “lodge” inland, surrounded by trees. The bowl dryad guardian had a simple wooden dome nearby, next to a small pond. She was the only inhabitant of Dallion’s domain that preferred to live in the simplest conditions possible. Maybe it was to make her spend as much time as possible in the realm itself.
+
+On that note, Dallion was seriously worried about Vihrogon. The armadil shield guardian was spending more and more time in his lodge, rarely talking to anyone, and even more rarely leaving his domain.
+
+A fair distance away, on the peak of the realm’s mountain, Lux’s new observatory tower rose up. A few months it had been a simple lighthouse. Since then, Dallion had spent a considerable amount of effort and resources to construct a crescent dartblade from sky silver, as well as integrate his kaleirdevisto in it. Nil still wasn’t convinced that was a good idea, but Dallion preferred to have the option to use lux for long ranged attacks in the real world as well.
+
+“Hey, Dal,” Ariel greeted him. Being the highest-level echo in the domain, he had effectively become the unofficial realm guardian in case of invasion attempts. “Here to have a go again?”
+
+“You know I’m here,” Dallion frowned. “You can read my mind. Nil!” Dallion looked around. “Did you send him to dissuade me from taking the trial?”
+
+“We felt that you might be rushing things a bit. You just came back from your hunter’s trial and—”
+
+“Lux,” Dallion said.
+
+A blue firebird appeared, then immediately perched on his shoulder.
+
+“Yes, boss?” it chirped.
+
+“Take me to a trial location,” Dallion ordered, ignoring Ariel altogether.
+
+Blue flames surrounded Dallion. Two wings emerged from his back, then took him into the air. On the way, Dallion summoned the rest of his gear to him: harpsisword, thread cutter, dartblade, nox dagger, and whip blade. It had become standard practice to take all of them into his trials. Often they weren’t enough.
+
+The firebird propelled Dallion across the mountains to the other side of the island, where a total of thirteen doors were scattered about. Each door represented a trial for one of Dallion’s remaining levels until eighty. At that point, he’d have to go through another gate and have a conversation with a Moon.
+
+“New or old?” Lux asked.
+
+“Let’s go with something new.” He had failed the last three trials several times already, and although Dallion believed to have caught the pattern of his last attempt, he preferred to try something new. Nil had let it slip that, at this point, the order in which the trials were passed didn’t matter. Ultimately, he wouldn’t proceed to the gate trial without completing all of them, so he might as well check out all of them and decide which ones to tackle first.
+
+The door Lux flew to was in the trunk of an enormous tree in the second forest of the island. It was the only one made of wood, far more plain looking than all the rest. Standing in front of it Dallion felt a feeling of calm surrounding him, but he knew better to expect the same would be inside. Once he went through the door, everything would change.
+
+“Ready?” he asked his gear.
+
+No one said a word, indicating agreement. Taking a deep breath, Dallion opened the door and stepped inside.
+
+You’re in the halls of destiny!
+
+Defeat your hidden fears and shape your future.
+
+A blue rectangle appeared. Dallion waved his hand through, barely giving it a glance. He had seen it so many times that he knew the message by heart. Wooden steps winded down further into the ground. There were no touches of light gems anywhere. Lux’s flames, though, were enough to illuminate everything several steps away.
+
+“Keep me a foot above the steps,” Dallion said, just to be safe. It wasn’t rare that the floor would collapse at the start of the trial, putting Dallion in a difficult position. The danger had largely diminished since Lux had become his familiar.
+
+After several minutes walking down, the stairwell split into two, both sections continuing to wind down into the darkness. The way they split, though, was not something Dallion had seen. It wasn’t a standard fork going in two directions, but one of them seemed to spiral around the other.
+
+“Seen anything like this, Nil?” Dallion asked.
+
+Afraid not, dear boy, the old echo replied. If it’s another paradox, it’s not one I’d seen.
+
+There was a brief moment of hesitation, after which Dallion continued along the inner stairwell. In his view, it was better to keep close to the “heart of the matter” rather than get distracted. Another two hundred steps or so, the stairwell split again. This time, the hesitation was less. Dallion barely slowed down before taking the innermost option. He was almost expecting for there to be another split, when the stairwell suddenly came to an end in a small corridor.
+
+“Gleam, keep an eye for illusions,” Dallion said. The whip blade disappeared as the familiar transformed into her shardfly self. Fluttering half a step in front of him, she lead the way.
+
+The tunnel continued to an arch, which then led to a much later room. The moment Dallion entered, light crystals lit up everywhere.
+
+“Crap,” Dallion said beneath his breath.
+
+The room was square, hundreds of feet in length, with tilted walls forming a pyramidal space. The worst of it was that he had seen a version of that room before when he had ventured in the fallen south—the abandoned temple of the Star.
+
+I must admit, I didn’t expect that, Nil said. To be honest, though, you don’t have anything to be alarmed about. There are records of trials that have taken place in pyramidal chambers. And rest assured, this isn’t the Star’s chamber.
+
+As much as he wanted to believe that, Dallion couldn’t be sure. For close to a minute he looked around, searching for any sign or indication that this might belong to the Sta. When he failed to do so, he quietly continued forward to the center of the room.
+
+Single-story buildings were everywhere, placed like simple abodes along wide streets. In the very middle, a relatively large square arena was visible, rising three-stories high. From what could be seen through the large archway, there was nothing except an empty town square inside.
+
+“Gleam?”
+
+“Everything is as it should be,” the shardfly replied. “For a trial.”
+
+Bursting into instances, Dallion continued forward. As he made his way, tiles lit up beneath him, forming a light of light. Upon reaching the arena, the entire structure lit up, as if made of light crystals.
+
+“Come in,” the familiar voice of Archduke Linatol invited him.
+
+An archduke echo? Dallion wondered. This won’t go well.
+
+Passing through the archway, he saw that he wasn’t mistaken. The archduke was dressed in a rather simple set of elegant white clothes, contrasting with his dark skin.
+
+“Hello, Dallion,” the man said, standing calmly in the middle of the arena floor. “Glad you made it. I’m still a bit upset that you didn’t come to see me after finishing your task. I would have rewarded you.”
+
+“No, you’re not,” Dallion said, as he went up to him. “And no, you wouldn’t have.”
+
+“Maybe you’re right. The truth is that you’ll never know. March and Eury came, while you were too scared to admit that you broke my toy.”
+
+“You aren’t the real Archduke.” Dallion was used to those tricks. Trial echoes always acted as if they were someone they weren’t. “What’s the trial?”
+
+“So rushed. Don’t you want to have a chat? It’s almost certain that you’ll never get a chance to talk to an archduke. Why not take advantage of what you’re offered?”
+
+There was a theory that every trial echo had fragments of the person they were copying. Neither Dallion nor anyone else was in a condition to confirm that. One thing was for certain: they were extremely convincing. Some even believed that the Moons placed copied the originals, making the trial echoes indistinguishable.
+
+“There’s nothing I want to know,” Dallion lied. “Except the nature of my trial.”
+
+“If that’s what you want.” The Archduke shrugged. “You’re probably seen this room?”
+
+Dallion nodded. He had done more than that. Thanks to his high mind trait, he had memories it, creating an image of it in his head.
+
+“Consider this a city,” the Archduke continued. “And by that I don’t mean only the structures. Think of it as a city in every sense of the world: a place with its organizations, guilds, and politics.”
+
+“So, this is a mental trial?”
+
+“In a way, but it’s physical as well. As the saying goes, you need to master both in order to win in politics: the mind to make the right decision and the strength to achieve it.”
+
+Through the archway behind the echo, Dallion saw a few buildings change shape.
+
+“Every building houses a person,” the Archduke explained. “That person could be an ally, an enemy, or both. However, until you go to speak with them, they’re neither. Our goal is simply to gather the most support in the city, claiming it for ourselves.”
+
+“I bet there’s nothing simple about it.”
+
+“And you’d be right. The support a person provides depends entirely on their position. A guild master is useful for doing errands, but they won’t be a tenth as influential as the head of a large merchant union. You’ll be able to tell the nature of a person by looking at the house they inhabit. Naturally, the houses aren’t to scale. A palace is no different from a shop, except in terms of appearance.”
+
+That sounded pretty straightforward.
+
+“Why is it called a game of politics?” Dallion asked.
+
+“Because it’s all based on choices. You noticed how floor tiles lit up as you passed along them? The same will happen as we move throughout the city. Naturally, neither of us can walk over a line made by the other. Consider it a promise made—only the first one who makes it is believed.”
+
+“I assume it’s the same about houses.”
+
+“Not quite. Once you reach a house, you have to convince the person inside of your views. You can do it through brute strength, bribery, or manipulation. In short, any method you prefer. However, some of the people will fight back. Since you’re a hunter, merchants and other hunters are more inclined to be convinced with little effort. However, guards and nobles, not so much. Sometimes, if you try to convince someone too important without any support, they might refuse to talk to you outright. If, for whatever reason, they fail to convince the person, you must get out of the house along the path you came in. The house, and the person, remain as they were.”
+
+“How do I bribe?”
+
+“You bribe them with promises, of course. Every person has a price. Offer that price and they will be yours.”
+
+“And if I can’t pay?”
+
+“The person will change sides, becoming one of my supporters.”
+
+This was a rather intricate game. The really scary part was that Dallion was starting to picture how the game would work in real life. It was simplified, as everything in this world, but it was also quite valid when it came to playing politics, at least on a basic level.
+
+“Can I cross my own path?”
+
+“No.” The Archduke shook his head. “That would be like breaking your word. You are not to step over the path you’ve made so far. However, some of the people you have convinced to join you might help you with that problem. That’s something you’ll have to find out.”
+
+“Alright. Anything else?”
+
+“Just two more things. During the trial, speed won’t be a factor while walking. If one of us is going too fast, they will be stopped until the other catches up. The same cannot be said for negotiations. If you’re slow at convincing people, you’ll find that your opponent has made every promise there is and you have no place to set foot.”
+
+Sneaky. “What’s the second thing?”
+
+“While you cannot break your word, you can take back what you said by walking back. You’ll be reducing the path you’ve made, but sometimes it might be useful to do so.”
+
+“Got it.” Dallion went through all the rules in his head. There weren’t many of them, but that’s what made the game so complicated. Everything depended on his ability to plan strategically as well as be convincing. “Let’s start.”

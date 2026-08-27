@@ -1,0 +1,83 @@
+---
+id: bb1e0588-b002-5251-af93-c389c51e02af
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eight: Turf War"
+slug: 0008-chapter-eight-turf-war
+partOf: labyrinth-of-the-mad-god
+position: 8
+ownLength: 1798
+unit: words
+publishedAt: 2023-09-05
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1334042/chapter-eight-turf-war"
+royalRoadId: "1334042"
+---
+
+Nick shut out the agony encasing his feet. His desperate attack had reopened his wounds, but the pain was muted thanks to the adrenaline surging through his veins. He was so focused on running for his life that he didn’t notice when his bandages fell apart and were left behind.
+
+His legs were shaky. He was afraid that they would give out with every step he took, but he kept on struggling with everything he had. Thirty breathless seconds later, the squish of mud transitioned to the shifting grit of sand beneath his toes. He’d made it back to the beach at last.
+
+This was as far as his planning had taken him. He was hoping that the lizards’ territory ended at the edge of the dunes; that they would abandon their pursuit or at least give him a chance to catch his breath once he left their turf. His unfounded optimism turned to ash only a handful of heartbeats later, when the reptiles darted onto the beach.
+
+If Nick had been forced to sprint any further, he would have lost his life over the hours-long pursuit that followed. Fortunately, the lizards moved slower across the uneven terrain than he had feared. Perhaps they considered him to be a greater threat than he really was, since he had taken out one of their own and intended to wait until he collapsed from exhaustion.
+
+Either way, they were gaining on him by the footfall. By this point, he no longer believed that he could escape so easily. He had been sweating profusely for miles, the merciless sun squeezing out his body’s moisture like a hand wringing out a sponge. He had tried taking off his bathrobe, but the direct sunlight was even worse, so he put it back on. It blocked the light and provided good ventilation if he left the front open.
+
+He was weak enough that he would succumb within minutes if he dove into the ocean, and he hadn’t come across anything that could serve as shelter. At least his run had given him time to think, allowing a plan to spring to life within the adrenaline-soaked depths of his mind.
+
+Nick only had one chance of living through the day. He had to make it back to the lemur tribe and hope that they were willing to defend their territory.
+
+Around this time, he realized that sweat was no longer pouring down his body and that his heart was pounding like a taiko drum. This was a sure sign of dehydration. Running for miles in the intense heat was drying him out far faster than normal, and he would soon reach the end of his reserves. He was well into the red on calories and blood sugar too, sapping the power from his limbs and blunting the edge of his thoughts.
+
+Two breathless miles later, Nick had grown so thirsty that he almost ran to the shore to drink straight from the ocean, knowing that it would be the final nail in his coffin. His hands felt like parchment, and his throat was so dry it might crumble like clay. His legs were rubber—so wobbly that he could barely keep himself from collapsing on the spot.
+
+The sunlight reflecting off the white sands felt like an oven, baking away the last drops of moisture in his body. He was soon so dizzy that he didn’t notice he was falling until he crashed into the side of a dune with a great spray of sand. He had just enough strength left to turn his head. In his final moments, Nick found the resolve to look death square in the eyes.
+
+As he watched the quartet of not-quite Komodo dragons devour the distance between them, an absent corner of his brain noticed that they had changed color. No longer the deep brown of the muddy banks, they were now the same ivory as the surrounding sands. They can change their hue like chameleons. No wonder I didn’t notice them until it was too late.
+
+Even now, engulfed within this black moment, Nick refused to surrender. Rendered helpless, sprawled out along the shore, he intended to spend the last seconds of his life fighting.
+
+With a tortured groan, he rolled onto his back. He scooped up a rock in one hand and a fistful of sand in the other, determined to make the beasts bleed before they tore him to shreds.
+
+Just as the brawny reptiles crossed the final stretch of sand, a scream of pure primate rage resounded across the dunescape. Then another cry, followed by a third. Nick spared a glance over one shoulder. His eyes widened with shock when he saw dozens of lemurs charging for his position.
+
+For the first time in what felt like years, the light of hope was kindled in his heart. But it was a guarded hope until he learned how the lemurs would react, assuming that they made it in time. He prayed that the tribe would continue to tolerate his presence. Otherwise, it was game over, and his life was forfeit.
+
+In the end, his planning saved him, if only by the narrowest of margins. Instead of finishing Nick off, the lizards changed course to charge straight for the lemurs, showing no sign of fear whatsoever.
+
+The events that he witnessed over the next seven minutes shocked him to his core. This time, he didn’t need a documentary to know that the lemurs’ behavior wasn’t natural. Their actions and abilities were different from those of any earthly creature he knew. For one thing, they were heading into a direct confrontation with predators several times their size.
+
+But more importantly and stranger still, each of the furry warriors heading Nick’s way was armed for battle. The tribe ran on three legs, the big beasts carrying an assortment of heavy clubs and long sticks with jagged tips. Their smaller members carried rocks and started picking up more as they fell into line.
+
+The tribe tossed their rocks into a rough pile as they drew near, warriors shifting to wield their weapons in both hands. The slender lemurs stopped beside the stones and began chucking them at the lizards, while the rest assumed what could only be described as a military formation.
+
+The lemur spearmen spread out to surround the reptiles, except for a pair that grounded their weapons beside the contingent of club-wielders, shielding them from being flanked. Their formation kept the cold-blooded beasts from darting around to the sides, and from charging full tilt at the primates in front of them.
+
+Whenever a lizard advanced, a spear was planted right in its face, forcing the creature to abandon the attack. Each time the bulky beasts were driven back, a club-wielder darted in to take a body shot. All the while, the agile flingers pelted the lizards with rocks, switching to sand when they reached the bottom of the pile.
+
+Nick cheered as a stone the size of his fist struck a reptile between the eyes, glad that the lemurs were competent warriors and strong for their size. The not-quite Komodo dragons hissed in red rage and charged the primates’ line, scoring a few wounds with their claws.
+
+During this exchange, the lemur spearmen completed their encirclement of the giant reptiles, cutting off their retreat. It appeared that the tribe took incursions into their territory even more seriously than he had hoped, because they didn’t intend to let the predators escape.
+
+Battered and incensed, the reptiles threw themselves into the fray, allowing several spears to pierce their sides as they dove into the line of club-wielders with open jaws. Two lemurs fell during the frenetic melee that followed, as the primates stabbed and bludgeoned with a ferocity that defied their stature.
+
+Five minutes later, it was over. The last lizard collapsed into the blood-encrusted sand before drawing its final breath.
+
+Nick had just enough time to realize that he wasn’t going to be eaten alive after all, before he noticed that every last lemur was staring straight at him. Oh shit. I hope they aren’t pissed that I drew enemies into their territory. They haven’t attacked you yet, just play it cool.
+
+Forcing his mind to delay the nervous breakdown that was oh-so-inevitably coming, he smiled, bowed his head, and said, “Thanks guys, you really saved my ass. I owe you big time. If it’s cool with you, I’m just going to lie here and lose my shit for a while.”
+
+Still in a daze, he began examining his feet, careful not to reveal the storm of emotion raging inside his chest. That was the moment when the last of his strength failed him, and Nick collapsed into a heap, too weak to even move.
+
+I think I won the battle but lost the war. Maybe a sip of seawater won’t hurt. It’s not like I have any other options. Before he could find the strength to poison himself, he heard a familiar chittering coming from beside him.
+
+He turned his head, smiling at what he saw. He’d thought that the lemurs had already left, but one little guy was staring at him from the top of a nearby dune. It was Bandit, the same raccoon-faced fellow Nick had shared his cookie with earlier in the day.
+
+His furry friend chattered a greeting, then tossed something into the sand beside him. A pair of plump berries the size of kiwis. Without hesitation, he reached out and shoved them into his mouth, sand and all.
+
+When he bit down, an explosion of juice broke over his tongue. It was shockingly sour, so the fruit must not have been ripe. But in that moment, it was the most delicious thing he’d ever tasted. He carefully chewed and then swallowed the tart mush, energy spreading throughout his body with every bite. It wasn’t sufficient to restore his depleted reserves, but the sugary juice was enough to pull him back from the edge of collapse.
+
+Nick’s mind began to clear. He was overcome with relief when he realized that he was going to live. At least for the next few hours. He was still in dire straits, but the lemurs’ kindness had saved him from being devoured and granted him a narrow window to continue his search for water.
+
+He waved his thanks and tossed Bandit the last bite of cookie in his pocket. To his surprise, the friendly little beast returned the gesture before snatching up the morsel and scampering off to join the tribe.
+
+He rose to his feet with a groan, planning out his next move. Today had been the most dangerous day of Nick’s life. He’d come close to dying on several occasions, and his ordeal was far from over.

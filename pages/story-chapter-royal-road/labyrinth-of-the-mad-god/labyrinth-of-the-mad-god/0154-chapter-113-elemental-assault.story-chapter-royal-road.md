@@ -1,0 +1,73 @@
+---
+id: 17fd15b2-2fa0-52db-9361-75af23b771e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 113: Elemental Assault"
+slug: 0154-chapter-113-elemental-assault
+partOf: labyrinth-of-the-mad-god
+position: 154
+ownLength: 1793
+unit: words
+publishedAt: 2025-04-07
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2182589/chapter-113-elemental-assault"
+royalRoadId: "2182589"
+---
+
+Devin and Nick stood back-to-back on the windswept hilltop, gazing across the tundra below. Each man held their shield in one hand and their weapon in the other while waiting for the battle to begin.
+
+After enduring the lengthy blizzard, Nick was glad for the change of pace. He was ready to put this challenge behind them and proceed to the next stage of the evaluation course. He took in a breath of crisp dawn air, relishing the chill riding the breeze. It helped him concentrate. Arctic Clarity had led him to associate cold with intense focus, even when he wasn’t using the strange power that didn’t appear on his profile.
+
+“Let’s keep things simple to start,” Devin said. "Basic attacks, blocks, and dodges. Then start working in our abilities once we know what we’re dealing with. After we have a better feel for our enemies, we can adjust our strategy and start burning more mana and stamina. But this course is a marathon, not a sprint. We can’t afford to run out of steam until the final stretch.”
+
+“Sounds good.” Nick scanned the snowy expanse, seeking any sign that danger had arrived. “We should prioritize defense for now. We can’t afford to waste vital energy, but taking a debilitating wound this early in the trial will make the other stages a lot harder.”
+
+While they spoke, he looked one way and Devin watched the other. So far, Size Up was silent, but Nick knew that within a handful of heartbeats, this peaceful scene would erupt into a whirling maelstrom of violence. It’s been a lot longer than a minute, but I don’t see any of the elementals.
+
+During the blizzard, the duo had reviewed the details of their profiles, including the upgrades to their powers and the gear they had earned since entering the tower. Devin had placed all his recent free points into Magic, so that his abilities would pack a bigger punch and he could recover mana faster between battles.
+
+For completing the first stage of the Fate of Earth quest chain, the System had given him an awesome new helmet. It could form a seal across his face and provide oxygen for up to an hour each day. It had an air filter for when the effect ran out and tinting to protect his vision from the radiance of his own powers. The helm could even turn invisible, so it didn’t restrict his field of view. He also had his new armor and the flame-enhancing belt he’d taken from the pirates.
+
+Nick shared everything he had learned about his new and improved wand and infusing his sword with pure mana. Their session had refreshed these variables in his mind. He was just waiting to see what they were up against before putting them together to form a viable strategy.
+
+As it happened, he didn’t have to wait for long. The next time that he scanned the ground below his boots, Size Up let out a resounding ping of danger. Half a heartbeat later, a jagged icicle came flying out from the snow, rocketing straight for Nick’s head. “Ranged attacks incoming,” he yelled, just as two more shots came streaking for Devin.
+
+Nick had to resist the reflex to leap out of the way, or the ice would hit his friend in the back. Instead, he judged the angle of the attack, set his buckler to deflect it to one side, then braced for impact. With a grating screech, his shield caught the projectile and diverted it around his body.
+
+Devin’s shield was big and flat, so he took a different approach. He just deepened his stance and blocked both shots head-on. With resounding clangs, both icicles exploded in a great spray of frost. Nick was afraid that they would be forced to endure a ceaseless barrage, or wade into the deep powder to engage whatever was attacking them. Thankfully, that turned out not to be the case.
+
+Because that was the moment when something stepped out of the snow and started climbing the hill. The creature looked like a hedgehog the size of a golden retriever. Its body was translucent—formed from solid ice with sharpened spines protruding from its back. The same objects that had hit them a few seconds prior.
+
+“Small enemies,” Nick reported while Devin blocked another barrage coming from the snowline. “They look like beasts, but given their appearance, they might be magical constructs instead. I don’t think those spines regrow right away, so each elemental is packing a limited number of ranged attacks. Their claws and teeth look sharp but don’t have much reach. I can’t judge their Strength or Dexterity until I watch them fight up close.”
+
+Nick cut an icicle out of the air with his sword, then concluded his assessment. “I would say to wait until they’re out of ammo before closing to melee. But who knows how many of them are out there? We should probably take the initiative and eliminate the ones climbing the hill while watching out for projectiles firing from within the powder.”
+
+“Got it. Two more just appeared from my side. You take the eastern ascent, and I’ll get the west. Fall back to the hilltop and call out if you need a hand.” Armed with a plan, Devin and Nick broke apart, working in tandem but no longer guarding each other’s backs.
+
+As Nick closed the distance to his frosty opponent, which the Trial Administrator had called an ice elemental, two more emerged from the deep snow running along the bottom of the hill and opened fire. He blocked and dodged the volley of icicles headed his way, while getting close enough to attack with his sword.
+
+He was ready to use his spells and wand if needed, but he wanted to save them until he had a better idea of what he was dealing with. As he advanced, he took a closer look at his opponents, cataloging their features and form. The elementals weren’t like any of the other constructs he’d encountered, which led him to wonder if the creatures were naturally occurring rather than manufactured.
+
+The hedgehogs looked more like stylized versions of animals than flesh and blood beings. Like an impressionist had carved them from a block of ice and then brought them to life. They lacked the fine details of the clockwork swarm or KiKi the combat doll, although the threat their weapons posed was the real deal.
+
+Their heads were wedge-shaped with rows of needlelike teeth lining their rough-cut mouths. Each of their legs ended in a set of icy claws, and their backs were coated with a dozen or so spikes that were thicker than his thumb. He wasn’t sure how they were able to move, since they didn’t have proper joints, although the answer obviously involved magic in one flavor or another.
+
+By now, Nick was sure that the elementals weren’t regenerating their supply of spikes. The first one only had two left, and the others were down to around half that number. That being said, he was dead certain that there were more of the ice-beasts out there. He had to remain on guard against attacks coming from every direction except the hillside at his back.
+
+He still didn’t have a good sense of their behavior, although they didn’t seem to be acting in concert like the gear-rats. I should learn more as soon as… The elemental in front of him fired its last two spikes in time with his thought.
+
+Nick deflected one attack and ducked beneath the second, then spun out of the way of another set of icicles coming from the other creatures. The instant he came back around, he saw that the first elemental was charging straight for him and had already closed half the distance to his position.
+
+If he had been caught by surprise, he might not have been able to get his guard up in time. However, he had expected the creatures to close to melee once they were out of ammo and was ready to meet its charge.
+
+As the ice-hedgehog reared up to rend him with its claws, he took a small step back and lashed out with his sword. Nick’s swing caught the elemental in the side of the neck with a crystalline chime. The blade carved a wedge out of its throat and knocked it to one side, but didn’t seem to have done any serious damage.
+
+A living creature would have just had its jugular opened, but beasts made of animated ice didn’t seem to have the same vital areas, or any vitals for that matter. After all, it didn’t have any blood to shed or nerves to sever. It didn’t even have organs or bones.
+
+Moreover, the ice had been surprisingly hard to cut. His blade had only sunk in about two inches—like the elemental was made of stone. Nick had to scramble back when it came darting in low, barely dodging a final round of spikes from the other elementals. Alright, my sword isn’t going to work by itself. It’s time to try out some other moves.
+
+By now, all three hedgehogs were rushing for him, with two circling around to hit him from the flanks. It seems that they are working as a team after all. Rather than being caught in a pincer attack, he fell back, pulling the trio of elementals in front of him. Along the way, he conjured a Mana Dart and sent it streaking for the closest ice-beast. It saw the silvery missile coming and tried to dodge, but thanks to the upgrades to the ability, it couldn’t get out of the way in time.
+
+It hit the creature in the foot. But rather than spreading throughout its body, the pure mana only made it as far as its hip before the limb broke off, leaving the rest of the elemental intact and protecting its vital energy. I think it detached its own limb to limit the damage. Kind of like a lizard losing its tail.
+
+Nick swore as he fought to evade the frost-rimed claws and teeth that were seeking the gaps in his armor. They aren’t nearly as vulnerable to my Mana Darts as the other constructs I’ve faced. This is a bad matchup for my magic. I bet that even if I land a Piercing Ray, it will just drill a hole straight through without doing any serious damage.
+
+With his spells out of the running, it only left him with one option; old-fashioned physical violence. Even though his sword hadn’t cut deep, it had been able to dish out some damage. Which meant that it was time for his brand-new ability, Heavy Blow, to shine.

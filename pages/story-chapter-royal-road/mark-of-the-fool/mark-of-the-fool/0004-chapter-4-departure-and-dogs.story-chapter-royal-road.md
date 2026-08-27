@@ -1,0 +1,189 @@
+---
+id: 9a307944-129b-5604-93d8-47ef3d5e9b18
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Departure and Dogs"
+slug: 0004-chapter-4-departure-and-dogs
+partOf: mark-of-the-fool
+position: 4
+ownLength: 2046
+unit: words
+ownProgress: 2046
+publishedAt: 2021-04-03
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/657750/chapter-4-departure-and-dogs"
+royalRoadId: "657750"
+markedReadAt: "2026-06-29T20:10:55.347Z"
+---
+
+Theresa Lu was a force to be reckoned with.
+
+One of six siblings, she had learned to take initiative if she wanted to stand out. When the Lu family needed meat for the kitchen, it somehow ended up being her who had grabbed a bow and learned how to hunt with her father.
+
+She’d taken to it like a fish to water.
+
+Theresa had become one of the best hunters in Alric and—through hunting—she’d learned patience, silence and determination. All traits needed to stalk prey. As she’d once told Alex, many people thought that hunting was about taking a perfect shot: piercing one’s target through the eye or heart and dragging the carcass back to the dinner table. At times it was like that, but for most hunts, it was about puncturing a blood vessel and watching the prey as it took off into the woods.
+
+Then the hunter would follow: they’d track by prints, by drops of blood or by scent if they had a dog. If they kept the trail, they’d eventually run their prey down. Humans were endurance killers, and Theresa embodied this.
+
+Now her sharp eyes watched him with the same predatory look she got when she was on a hunt. She’d asked him to let her come with him: that was her arrow striking him. Any excuses he’d make? That was the trail of blood. All she had to do now was follow him: him talking with that quiet patience until he finally grew too tired to argue and she at last caught him.
+
+“I want to come with you.” She said again, locking the door and advancing on him. Her steps made no sound across the floorboards. “I know what you’re going to say-”
+
+“Yes,” he said quickly. “Please come with me. I sure as hell could use the help.”
+
+He decided to skip all the build up and just jump into the trap himself.
+
+He was rewarded by her pausing mid-step and blinking in surprise. He always found her cute when she didn’t have her ‘deathstalker face’ on.
+
+And when she did, as a matter of fact.
+
+He did not have issues, he assured himself.
+
+Her face quickly went ‘deathstalker’ again when she regained composure. “Good. I was already mad at you for not telling me about that.” She pointed to the bright forceball floating above his finger. “So I’m glad you didn’t make me chase you.”
+
+He shrugged. “We both know how it would’ve ended; when I’m not worrying that a bunch of priests are going to burst down the door at any second, I’ll ask you why-”
+
+Boom! Boom! Boom!
+
+A heavy knock slammed against his bedroom door.
+
+Alex and Theresa froze, slowly looking at the doorway like it was some portal to hell. His stomach sank. They couldn’t have found him already, could they?
+
+“Theresa!” A familiar voice boomed through the door. “Are you in there?”
+
+Alex sighed in relief. He was safe. It was just Theresa’s father.
+
+The door rattled in the frame.
+
+“Why is the door locked?” his voice cracked like a whip. “What’re you two doing in there?”
+
+Nevermind, this was much worse.
+
+Theresa went as white as a sheet. “Father!? Were you listening at the door?”
+
+“I followed you!” he laughed in triumph: a harsh, barking laugh that promised death. “I was young once too! I know how it is: the young man you’ve grown up with is going to be leaving on a loooong journey! You might not see him again!”
+
+“Father!”
+
+“And who knows who he might meet in that big city, yes!? So you go and speak to each other, talk about your feelings, one thing leads to the other and then I’m a grandfather before any of my children are married!”
+
+Theresa turned bright red and buried her face in her hands.
+
+“Wait, Mr. Lu!” Alex cried. “It’s not what it sounds like-”
+
+Click.
+
+A key turned in the lock.
+
+Theresa and Alex gasped in unison.
+
+“If there’s nothing wrong, then I guess there’s no reason why I can’t just come in, is there?” Mr. Lu announced darkly from the hall.
+
+“No father!” Theresa cried, starting for the door. “Don’t come in-”
+
+“Ahaaaaa!” the middle aged man burst into the room. “I’ve got you-you….you….”
+
+Mr. Lu stared at the glowing mark on Alex’s shoulder, his mouth hanging open.
+
+Alex’s tongue went renegade again. “This isn’t what it looks...you know what? Nevermind. It is what it looks like.”
+
+The older man’s face went grim. “Downstairs. Both of you, now.”
+
+“So, it might not be all bad,” Alex finished explaining, tapping the jester’s face.
+
+Theresa, Master and Mrs. Lu huddled in the kitchen, listening as he went through what he’d learned about the mark. “It helps you learn, and it doesn’t seem too specific on what it lets you pick up. And I can still work magic; that means there’s holes in the way it interferes with you. If I can figure them out, it might even help me...but I need time to do that, and I’m not going to have it by going around and being the servant to four ‘Heroes’.”
+
+He looked up at them seriously. “And that’s that. I’m going to the Generasi and I’m taking Selina.”
+
+“Good.” Mrs. Lu clutched his hand. “We’ll help you.” She turned to her husband. “Right, darling?”
+
+Master Lu was gripping the counter so hard that his knuckles were white. “Life stole your parents’ lives, and it wants your future, too? Well, it can’t have it.” He placed a hand on Alex’s shoulder. “But it’s dangerous to go alone: you’ll take the Lu family’s most deadly weapons.”
+
+Theresa looked at her father sharply. “Great-grandfather’s swords?”
+
+“No, you and Brutus. Ouch!”
+
+She’d slapped her father lightly on the shoulder. “Father! I’m not a weapon!”
+
+But Alex was already nodding. “Yes. Thank you, Mr. Lu, with this human annihilator at my side-Ouch!”
+
+“Alex!” She pouted. “I’m leaving my family behind to try and save you; why’re you making fun of me?!”
+
+“One, because it’s fun-”
+
+Her parents nodded in agreement.
+
+“-and two, because if I don’t keep making jokes right now, I might have to admit how absolutely terrified I am.” He laughed nervously. “So, what now?”
+
+Mrs. Lu gave her daughter a meaningful look. “Go and pack whatever you need, Alex, then get some sleep.”
+
+“Sleep?” He blinked. “I’m not going to be able to sleep, Mrs. Lu.”
+
+“You’ll need your strength,” the middle aged woman insisted. “I’ll brew you a tonic if I have to.”
+
+He bit back a reply, realizing she was right; leaving half-cocked would only make it more likely that he’d be caught. Even if he somehow woke Selina and got her moving, he’d have to try and slip out of the kingdom with a sleepy ten-year old. It wouldn’t work.
+
+“I’ll wake you all just before first light,” Mrs. Lu promised. “Now, go.”
+
+“Alright,” he agreed, looking at Theresa. “We’ll leave at first light.”
+
+Alex Roth encountered a monster just outside the inn after he woke the next morning.
+
+The enormous head of a beast emerged from the dark, snarling and baring gleaming fangs. Its eyes blazed with violence, and its canine snout was long and brimmed with sharp teeth. An identical head emerged on the left, and a third on the right; the faces of three savage hounds growled at the young man, as though warning they were readying to tear him apart.
+
+Apprehensive and still shaking off the last of his night’s sleep, he gingerly offered the three monsters a leftover piece of roasted pork from last evening’s supper.
+
+“Peace, Brutus,” he said. “Come on, I’ve got some food here. That’s a good boy.”
+
+Sniffing the air, the canine heads calmed, their eyes fixed on the meat. All three licked their chops and came out of a massive doghouse; the trio of heads were attached to one body that was the size of a small horse.
+
+A cerberus.
+
+Not every monster in the kingdom of Thameland was spawned by The Ravener; many were creatures naturally occurring in the wilderness. Cerberi were some of the most dangerous among them, but also the most trainable if one got them young and knew how to handle them.
+
+When Theresa had first brought home the orphaned pup after finding it in the woods three years ago, her parents had lost their minds. But the young huntress was patient and stubborn, and slowly won them over, explaining how helpful having such a ferocious guard dog might be. What helped too was that Brutus—she had already named him before bringing him home—was as gentle as a lamb in her hands.
+
+Truthfully, he was gentle with almost everyone…except for Alex.
+
+Snap!
+
+“Oh shit!” Alex jerked back as Brutus lunged, his teeth nearly snatching the young man’s hand off along with the pork. As he stumbled away, the cerberus dived into breakfast with two of his heads. The third stared at him with a self-satisfied look. Alex shook his head. Failed again. Maybe most people would have hated the mutt, but…it was a freaking cerberus: how could he hate something so cool?
+
+“I’ll win you over one day, just you wait,” he plotted quietly. He glanced to his shoulder, where a heavy, dark tunic and thick woolen cloak covered the mark. Maybe he’d use it to learn about dog training…
+
+“We’re ready,” someone called.
+
+He shook off fantasies of training Brutus to fetch, beg and rollover.
+
+He did not have issues, he assured himself.
+
+Theresa was coming from the house hand in hand with Selina. The little girl was wiping her eyes and yawning, but she was all smiles. “How far away is the wizard city, big brother? Will we get there soon?”
+
+Alex returned her smile. He hadn’t told her anything about what had happened last night. When it was safe, then he could tell her. “It’s reeeeeeaaally far.” He spread his hands wide. “So it’ll take us a long time to get there.”
+
+She yawned again. “Okay.”
+
+Theresa smiled down at her before looking to the horizon over the surrounding rooftops.
+
+“We’ve got a bit before light.” She tapped the composite bow she’d slung over her shoulder. Black feathered arrows rose from her quiver, and a massive hunting knife shone from a belt-loop on her hip. Her calf-high boots made no sound as she walked. “We should get moving before the rest of the town starts to wake up.”
+
+Her parents emerged from the inn as Alex took his sister’s hand and Theresa untied Brutus from his shelter. Master and Mrs. Lu looked over the group and the latter made a disappointed noise.
+
+“You both really are all grown up, aren’t you? Too fast. Too fast,” she sighed, gripping her husband’s arm. “You be careful out there, both of you.” She looked pointedly at her daughter and then to the small, yawning Selina. “Stay on the roads.”
+
+“And write to us as soon as you get the chance; when you’re out of the kingdom,” Master Lu added, his brow furrowed in worry. “Now, come here.”
+
+Theresa’s parents caught their daughter, Alex and Selina in a tight embrace, dropping low so that the small girl could be included. As their warmth spread through Alex, he felt a tightness in his throat. Tears formed in his eyes. It might’ve been the last time he ever felt that warmth. He tightened his hug.
+
+When they broke apart, Mrs. Lu and Master Lu’s eyes were shining as well.
+
+“Go,” Mrs. Lu’s voice trembled. “Before your brothers wake up, Theresa, or you’ll never leave.”
+
+Selina sniffled loudly and Theresa kept her eyes low. “Goodbye mother and father,” she said quietly. “Come on, Brutus.”
+
+Crack.
+
+The cerberus snapped the bone in two with one set of jaws while another picked up the pieces. His third head licked out the marrow as he bounded after his master.
+
+“Goodbye, Master Lu, goodbye Mrs. Lu. Thank you for everything. You be safe on your journey too,” Alex said quietly. His hand tightened around Selina’s. “I promise…I’ll get there. We’ll all get there.”
+
+With that, he turned and followed after Theresa, hoisting his heavy rucksack over his shoulder. He hoped what he’d said to her parents would end up being true.

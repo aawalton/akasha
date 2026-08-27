@@ -1,0 +1,359 @@
+---
+id: 59e58a0f-0506-5ca9-a764-ded944301f08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25"
+slug: 0026-chapter-25
+partOf: light-cleric
+position: 26
+ownLength: 4965
+unit: words
+publishedAt: 2021-08-01
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/726639/chapter-25"
+royalRoadId: "726639"
+---
+
+Animated chatter bubbled through Sanctuary. Piety bade Lillyfield to stand and spoke quietly, letting the chatter cover her words.
+
+“Lillyfield, Willow was feeding orphans to the vhamps. If they come tonight expecting a victim and don’t get one, they may decide to attack.”
+
+The newly named Mother Superior of Sacred Heart swallowed hard and nodded. “They’re going to attack?”
+
+“I don’t know. But we should prepare. Are there any of Magistrate Wardenburg’s soldiers left in town?”
+
+Lillyfield shrugged. “I wouldn’t know.” She turned to the sisters seated in the front pews and pointed to one of them. “Sister Walken used to talk to the mayor for the Mother I think.”
+
+The indicated sister rose uncertainly, awkwardly, and the murmur quieted. She bowed as through uncertain if it was appropriate. “Mother?”
+
+Lillyfield turned to Piety uncertainly.
+
+Piety gestured for Sister Walken to approach, and the woman edged to the aisle and approached slowly, fearfully. Becoming impatient, Piety hurried off the dais and approached the Sister whose wide-eyed fear paralyzed her at Piety’s approach.
+
+Piety smiled and tried not to look threatening. “What’s your name?”
+
+It took three tires before her voice worked. “Alice Walken.”
+
+“Alice, your Mother Superior says you spoke to the mayor for Willow. Is this true?”
+
+Alice’s gaze flicked behind Piety and back. “Mother, please, I’m sorry.”
+
+“I’m not going to hurt you.”
+
+Piety moved to put her hands on Alice’s arms. She meant it to be a comforting gesture, but Alice squeaked and took a step back. Surprised, Piety stopped mid-motion. Alice stared at her, hands folded at her waist, but cringing, as though expecting a blow. Piety reached for the woman with her telepathy and found a mind accustomed to abuse, terrorized by the recent disappearances, and convinced that Piety was here to wreak revenge on them all.
+
+“Alice, I promise you, I don’t want to hurt anyone. I want to protect us from the vhamps, but I can’t do it by myself. I need to know if there are any of Magistrate Wardenburg’s soldiers in town.”
+
+The frightened sister nodded frantically.
+
+“Tobias. I need you to accompany Alice.”
+
+“Mother, Isabel specifically ordered me to…”
+
+“I know what she ordered. We need those soldiers and Alice cannot go on her own.”
+
+“And what will you be doing, Mother?”
+
+“I’m going to try to get everyone to the church. It’ll be easier to protect them all if they’re in one place.”
+
+Tobias wanted to ask more questions, but Piety turned away from him to address Temperance. “Can you and Lillyfield get the church ready to receive a bunch of visitors?”
+
+Temperance nodded, and Piety left her to it. She took Alice by the elbow and lead her to the doors of the sanctuary, opening them with a bit of telekinesis and an easy wave of her hand.
+
+“Tobias, take Alice and get the soldiers, bring them back here and set them to guard the place.”
+
+“But Mother,” Alice protested. “It’s dark out there. It’s not safe to be out in the dark.”
+
+“Leave that to me.”
+
+With a firm but gentle thrust of telekinesis, Piety leapt into the night sky, rose high above the rooftops, and landed on the steeply peaked roof of Sacred Heart Church. It was a precarious perch, but she steadied herself with her power. From here, Appledel spread out below her in all directions. She cast her mind into town and found most people concentrated near the church, their orange-yellow auras a nervous beacon against the night. More than half the town was abandoned. Though it would be cramped, Piety felt certain those left would be able to take shelter on the grounds of Sacred Heart.
+
+She found Tobias and Alice walking quickly along the cobbled streets and could tell they would soon be to the abandoned house Magistrate Wardenburg’s soldiers had taken over as barracks.
+
+Beyond the room in her mind, Piety could feel the cosmos, like she’d left the window open. She stared into it. The power would give her a greater chance of protecting the people of Appledel, but she might lose herself in it.
+
+She closed her eyes, turned away from the cosmos, and cast her mind out further.
+
+Soon, she felt the bloodthirsty minds of the vhamps approaching. They were a searing burn, an itching hunger, a spike of fear skittering for Appledel. There was one mind among them who was like the two who had attacked at Rauf Kaver’s farm, like Frederick Vahramp: aware. The other twenty-three were still the ravenous, emaciated beasts Peity was accustomed to facing.
+
+Time was short. There were too many of them.
+
+The power of the cosmos beckoned her, a zephyr on her cheek, a wind in the door. She did not want to lose her self to it, but maybe if she just reached through without jumping in, she could channel the power of the infinite without being swallowed.
+
+Piety took a moment to consider. She blinked to the room in her mind. The far wall was gone and the purple-tinged cosmos twinkled at her, infinite, immense, and powerful. Even if every person in town sprinted for the church immediately, not all of them would make it before the vhamps arrived.
+
+Piety bit her tongue. Getting the people of Appledel to Sacred Heart was more important than her fears. She reached a metaphorical hand through the metaphorical window and felt power ease into her. A whisper barely stirred the air before her lips, but she broadcast her thoughts the breadth and width of the town and knew they all heard her.
+
+“Twenty-four vhamps are headed this way. They intend to lay waste to this town. I want you to shelter in Sacred Heart. You must move quickly but calmly.”
+
+She could feel their fear, their panic, and knew her words hadn’t been particularly comforting. The people of Appledel had grown used to the terror that each night might see them taken from their bed, but they weren’t prepared to have someone speaking directly into their minds, and to have that person claim a full on vhamp attack was imminent made it even worse.
+
+“You must stay calm. Get everyone to the church. I am Piety Churchstep, the Light Cleric, and I will protect you.”
+
+Piety focused and soft light emanated from her. Even with her eyes closed, she could see the light. Standing, and with balance augmented by telekineseis, she walked to the end of the roof over the front doors of the sanctuary. Just below her was one of the great stained-glass windows. She knew the light, though gentle, shone onto the streets of Appledel even from this height, like she was a second, more intense moon.
+
+Soon, she could feel the people of Appledel making their way to the church. Their panic had not abated, but the craved the safety she promised and surely the light above the church was a sign of holy favor. Temperance met the people at the door while Lillyfield and some of the senior sisters directed the movement of furniture to the walls, though the pews required several people at once to move them.
+
+Piety shifted her attention and found the shielded mind of the vhamp who had awareness. At this distance, she was pretty sure she couldn’t shatter his shield. His aura shone a dull red, and Piety knew he hadn’t fed recently.
+
+“What’s your name?” Piety asked, knowing that though his shield was up, he might hear the question if he was paying attention.
+
+There was no response.
+
+Moments passed with the infinite slowness of anticipation, the people of Appledel crowded into the church.
+
+The vhamps who’d killed Sister Sheliah had been aware of more than their hunger. Unlike their ravenous counterparts, they’d been able to reason. Piety disliked the idea of waiting for someone to arrive so she could kill them. It felt wrong. Perhaps she could reason with this one.
+
+“You don’t have to do this. These people have done you no harm. We can find another way.”
+
+Still, there was no response. Perhaps he couldn’t hear her, his shield too tight. Perhaps he was overcome with hunger. Or perhaps his nature as an undead wasn’t prone to being reasoned with.
+
+The vhamps were within sight of Appledel now. In a few minutes they would swarm through the darkened streets. Piety tested the vhamp’s mental shield again and found it strong, but close. She grasped his shield like a fist in cloth and tore it aside. The power of the cosmos flooded her. It was too easy. It threatened to topple her, to welcome her, to envelop her.
+
+“This is your last warning. Turn back. Call off the others. If you do not, I will kill you.”
+
+The words tasted harsh and unsavory on her mind, but she said them again to stiffen her resolve and emphasize her seriousness. She whispered it aloud. “I will kill you.”
+
+She felt the vhamp’s surprise, his fear, but hunger overrode them both. The vhamps surged forward.
+
+She shifted her attention again. The auras she could see were clustered in the church. Magistrate Wardenburg’s soldiers were stationed at the entrance to the sanctuary, lead by Tobias. A small contingent guarded the side-entrance to the building housing dormitories and classrooms. Piety broadcast her mind-voice to them all.
+
+“They’re nearly here. I will meet them at the door, but some of them will get past me. They are strong; they will break through the door. Tobias, the soldiers are armed with torches?”
+
+Tobias wasn’t gifted with telepathy, Piety knew, but she sensed his affirmative.
+
+The vhamps were nearly upon them, and there was no time to say anything else. Piety spread her awareness around the grounds of Sacred Heart. The sickly red auras of the hungry vhamps were focused on the front doors.
+
+With a nimble leap, Piety dove head first off the sanctuary rooftop. For a moment, she watched the building flash by. Her vision was filled with blinding light: crimson, gold, white. It was the stained-glass window, lit from within. It bathed her in the multi-hued symbol of God, and she was as a three-year-old again, safe and warm in the embrace of the embodiment of love.
+
+And then she was past it and the cold stone steps she had swept for years rushed toward her. From either end of the street, hideous, blood-starved vhamps scampered for the sanctuary. They could smell the fresh blood within, hear it pumping through veins, taste it in anticipation. Twenty-three in all. The twenty-fourth had held back, but Piety could sense his mind nearby.
+
+Like a hammer, she brought her mind down on the twenty-fourth vhamp and felt him drop. His aura flared and dimmed but did not go out. He was stunned, not dead, but she didn’t have time to finish him. The vhamps were upon her.
+
+Piety swept her hand in front of her, throwing her telekinesis like a wave, sending vhamps sprawling. At the same time, she thrust with her telepathy, striking at barely-shielded minds. With undead sprawled and writhing, she gestured again and a ball of light leapt from her palm to strike the chest of a vhamp. The vhamp exploded in a gout of flame, catching two others on either side of it. And more came on.
+
+There were more than twenty-three.
+
+They had hidden from her. Piety felt cold fear take hold her chest, and she faltered. They emerged of the night-enshrouded street like burned stew boiling over the pot, far too many for her to kill by herself, far too many even with the aid of soldiers. People were going to die.
+
+She intensified her light until it was bright as day within a ten-foot radius. The vhamps fell back, reluctant to enter the light. Then she took hold of her power to strike mentally and her power to strike physically and, not knowing just how or why, she twined them together, like a pair of disparate strands of rope, and made them one. With her next mental thrust, a vhamp stumbled back, thick, dark blood oozing from his eyes, nose and ears. She twined her photokinesis with the other two and a fanning blade of light struck horizontally across the horde of undead. Mental shrieks accompanied the stench of oily flame.
+
+But one creature leapt over the magical assault, thrust its claw into the wood of the great doors, and raked at the wood, rending the depiction of God’s saints and supplicants.
+
+“Tobias!”
+
+Piety had no time to spare any further energy as the creatures surged on. She hoped Tobias and the soldiers were prepared.
+
+Time stretched into forever. Piety lost count of the number of vhamps she slew before they tore down the sanctuary doors and were met with Tobias and torch-wielding soldiers. The doors buckled in, tearing with a splitting shatter that sent bits of wood flying. Peripherally, she knew the vhamps were repelled initially; a few were even set ablaze by the fire and retreated into the street. Tobias, with swift, precise movements, dispatched vhamps efficiently. But within moments of the doors coming down, one of the magistrate’s guards was torn in two by a vhamp. Blood-scent filled the night. The people she’d promised to protect screamed.
+
+Piety closed her eyes and sought the purple cosmos. It came easily to her call, promising her the power of forever and threatening the bliss of nothing. She didn’t just reach through the window, but leapt. She wrapped herself in it and spread herself across the steps of the church, the street beyond, and the sanctuary behind her.
+
+Four guards were down already. Tobias calmly ran the point of his blade through the chest and heart of a vhamp, his powers of speed and strength allowed him to pierce the skin of a vhamp where others couldn’t. One vhamp, panicking upon being set ablaze, ran into one of the scarlet curtains covering the walls of the sanctuary setting the curtain ablaze. Temperance shouted for people to move to the back of the sanctuary, to take up torches made of ripped curtains and broken pews; she’d taken up a torch herself.
+
+In the street, there were dozens of vhamps scrambling over the dozens she’d killed. She could see how they’d been hidden from her now, a shield inverted, like a mirrored sphere reflecting only inward; it was a neat trick. All of this she knew in a moment.
+
+She pulled at the cosmos and channeled her power. The rope she’d braided of telepathy, telekinesis, and photokinesis curled in on itself like a ball of yarn. She packed it tight, putting more and more pressure on it until it was no larger than the point of a pin, and wove her power to heal into the ball, layering it just under the others so it would come last. Then she opened her power to absorb pain all the way.
+
+And she let it go.
+
+Like lightning so close it blinded, thunder so close it deafened, the power released from her in a sphere that burned the vhamps where they stood. People screamed in pain and confusion as their bodies were seared by light and buffeted by force, their minds pierced by thought. And Piety made of herself nothing so she absorbed the pain. Then came the wave of healing energy and the pain was gone. Those of weak constitution slumped to the floor in relief.
+
+She opened her eyes in the still cosmos. Surrounded by nothing, feeling nothing, she…
+
+Screaming and crying filled the air. Piety blinked a long blink and felt unsteady on her feet.
+
+The screaming meant nothing. The dead meant nothing. There was only here and…
+
+“Mother.”
+
+Tobias’ strong hands steadied her and lifted her. He carried her in his arms and she rested her head on his chest. Carefully, Piety unwrapped herself from the cosmos. It was a feat of concentration, pulling from the embrace of all and naught. Only a small insistence between grit teeth allowed her the ability.
+
+“The vhamps?”
+
+“Dead.”
+
+“Temperance?”
+
+“She has things well in control.”
+
+“Temperance?” Piety tried to struggle out of Tobias’ arms but he held her tight.
+
+“She’s fine, Piety. You’re the one whose health is in question. Again.”
+
+Piety blinked and squinted through watery vision. She focused on his eyes, hazel with a dark, almost black ring at the outside. “You have pretty eyes,” she said. And she blinked again, this time for longer.
+
+Piety sat with Temperance and Lillyfield in the Mother Superior’s chambers. They sat in comfortable chairs around a low table in the outer chamber, which was set up as both an office and a place to receive guests. Temperance had made a fire and then brewed tea on the small stove next to the fireplace. Tobias, after checking the windows and the adjoining rooms, stood silently beside the door, hands loose at his sides.
+
+Lillyfield absently touched her hair where the magic had brushed her. It was the umpteenth time she’d done it since Piety had woken up, and every time she did so, a look of gentle wonderment took her eyes. Even so, she was still trying to protest her recent promotion.
+
+“Sweep, I don’t know how to be a mother.”
+
+Piety shrugged. “You’ve read the Scriptures, haven’t you?”
+
+“Sure, but...” she gestured around herself at the office. “I have to… I don’t know… manage things.”
+
+“Really? Did Willow actually run the day-to-day activities of the church?”
+
+Lillyfield paused and looked thoughtful.
+
+Temperance handed around cups of tea and Piety took hers with a smile. She took the time to inhale the herby scent of the tea and let it fill her. The fight against the vhamps was almost two days old now. The remains of the undead creatures had been removed from the church and burned in the street. All while Piety had slept. But Piety didn’t feel like she could afford to relax. Vharamp was out there still and she didn’t know what to tell Isabel about the changing nature of vhamps.
+
+Temperance sat and said, “It seems to me Mother Willow really only gave sermons. Sister Clarice is the one who did all the running of the church in addition to being the healer.”
+
+Piety sipped at her tea and watched Lillyfield nod. She shot a quick smile at Temperance before she said, “You’ll leave the running of the church to those who know how to do it. Your job will be setting the tone of the church. You’re a nice person. Focus on that.”
+
+Lillyfield swallowed hard. “Sweep, I can’t do this by myself.”
+
+“We’re not asking you to. Do you have a friend here, someone you’d do anything for and who’d do the same for you?”
+
+Lillyfield pursed her lips. “Um… yes.” She nodded. “Renee. She’s young but we’ve been friends for years.”
+
+Piety nodded. “Keep her with you. Ask her opinion. Listen when she disagrees. She’ll help keep you from getting too full of yourself.” She glanced at Temperance who blushed, pleased.
+
+“But—”
+
+Piety cut off the next objection. “Would you rather I woke everyone up and named Lana Weaver Mother Superior instead?”
+
+Lillyfield blanched and swallowed hard. Piety could sense her nervousness. “God, no. She’d be even more awful than she is now.”
+
+“If all else fails, think about what Lana would do and then don’t do that.”
+
+Lillyfield laughed and it seemed to put her at ease. She took a drink of her tea, and for several minutes they sat in companionable silence, enjoying Temperance’s tea-making skill.
+
+It was just barely dawn and the people of Appledel, all of whom still took refuge in the sanctuary, would wake soon. Though she’d slept, Piety felt tired, a deep tired that made her eyelids sticky and her joints watery.
+
+Someone knocked on the door. Tobias drew his sword and put a hand on the doorknob.
+
+“If it were a vhamp attack, do you really think they would knock?” Piety asked and almost giggled, her exhaustion making her giddy.
+
+Tobias ignored her and opened the door slowly. At a shouted curse, the door slammed open and in the next moment, Tobias had a well-dressed man with a smooth, pale face, pinned against the opposing wall with his sword. It hadn’t been a heart thrust and, though stunned, the vhamp smiled and held his hands up in surrender.
+
+“I mean you no harm,” he said. “I’m here to see Mother Churchstep.”
+
+Piety stood and approached quickly; Temperance followed, but Lillyfield stayed by her seat. Piety put her hand on Tobias’ shoulder. Though she had twice seen mercy to a vhamp repaid in violence, she couldn’t ignore a plea of good faith.
+
+“Just a moment, Tobias.” She looked at the man, careful to guard against mental tricks and waited for him to plead his case.
+
+“Do you not recognize me, little mother?”
+
+And she did, though his face was smooth of wrinkles, and his hair was dark, nut brown. It was Father Hirrom Berek, the man who had taught her powers at the High Temple in Kinswell.
+
+“You’re a minion of Vahramp.”
+
+Hirrom spread his hands. “So I am. Vharamp couldn’t control me as well as he liked, so he starved me, then pointed me in this direction. Your telepathic blow brought me back to myself. It is good to see you again, Piety. You can release me from this hell.”
+
+Piety sighed.
+
+“Hirrom, I…”
+
+“I could do it,” said Tobias grimly, and Piety felt his shoulder tense under her hand.
+
+The vhamp turned his attention to Tobias. “That you could. I came here this morning in hopes that Piety’s power would be enough to obliterate me. But death at your hand would be acceptable.” He returned his gaze to Piety. “What you did, protecting these people, was beyond anything I’ve seen before. You’re a vision out of Scriptures, Piety.”
+
+“Speaking of which,” said Tobias, “It’s morning. Since when can vhamps wander about while the sun is up?”
+
+Hirrom nodded. “A fair question. I believe that those of us who have recovered our personalities are beginning to develop different powers, different weaknesses. I cannot walk in direct sunlight; I must stick to the shadows, but I don’t sleep while the sun is up. I don’t sleep at all.”
+
+“But you hunger,” Piety said. “I can feel it.” She tapped her temple. “I don’t want to kill you, Hirrom, and I don’t want Tobias to kill you. But you hunger.”
+
+“There are few other options.”
+
+“What are they?” she asked.
+
+Hirrom looked at her. “I’m sorry?”
+
+“What are the other options?” Piety pressed. “You said there were a few, what are they?”
+
+Hirrom chuckled. “I’m afraid I spent the last of my self-control coming here. Your young man with the sword is the only thing holding me at bay. Should he release me, my bloodlust will come to the fore. Better to just kill me now.”
+
+But Piety grabbed on to the bit of hope her former teacher implied, and a peculiar idea took root at the back of her mind. “If you were fed, would you be able to restrain yourself?”
+
+“Mother, no!” said Tobais, his shoulders tensed, prepared to strike. “We cannot show these creatures any mercy. Remember what happened at the farm.”
+
+“Swear to me that you’ll restrain yourself.”
+
+“Piety, your guardsman is right…”
+
+“But you said there are options.” Piety knew she sounded desperate, she didn’t sound like the powerful, confident mother people told stories about. But she didn’t want to kill him.
+
+Hirrom shrugged. “There are.”
+
+“Give me your oath that you can and will restrain the bloodlust.”
+
+Tobias shifted his stance, keeping his sword in the vhamp’s chest and his body at the ready. “You’re taking an unnecessary risk, Mother. Whoever he was, he is no longer.”
+
+“Quiet,” snapped Piety. She reached behind her with her power, tugging at the large tome she knew to be on the former Mother Superior’s desk. The large book dropped gently into her outstretched arm. It was an old copy of the Scriptures with illuminated pages, some coated in gold gilt. The cover was supple, white leather with gold inlay depicting the sunburst of God.
+
+“Hand to God,” she said. “Promise me, Hirrom. Please.”
+
+Slowly, with wary attention on Tobias, Hirrom raised his right hand and placed it on the book, his palm covering the gold sunburst.
+
+“I promise to control the bloodlust. But Mother, if I don’t feed…”
+
+“Again.”
+
+Hirrom swallowed hard, all his attention on Piety now. “I swear to you, I can control it. But even if I do, this other option…”
+
+“Again.”
+
+Hirrom straightened as much as he could with a sword pinning him to the wall behind. “By my hope of salvation, you have my oath that I can and will control the bloodlust.”
+
+Piety sighed while Hirrom took his hand away from the book with a wince and the smell of burned flesh. Piety shook her head and snorted the smell from her nose.
+
+“What was that?”
+
+Hirrom held up his hand, palm out. “Vharamp’s undead are allergic to gold. Didn’t you know that?” the image of a sunburst stood out in angry red upon his palm.
+
+Piety shook her head. “Let him go, Tobias.”
+
+“Mother, I don’t think…”
+
+“Let him go, please.”
+
+Tobias jerked his sword free, and Hirrom fell to his knees. Piety knelt before him.
+
+“Piety, Mother, though I can control myself, if I don’t feed soon, I’ll lose myself. I’ll become like those creatures you slew. I tried to tell you.”
+
+“I know. Hirrom, look at me.”
+
+The vhamp met her gaze, his brown eyes sunken in his face, which, only moments ago, was smooth and ageless. “I’m going to feed you now. You’re going to get some rest, and then I’ve got some questions for you, including these options you mentioned.”
+
+He blinked slowly. “You’re going to feed me?”
+
+Piety took a breath and opened herself to her power. First, she took his pain, his hunger, and saw him slump in relief. The hunger knotted her stomach. The area below her eyes to her teeth ached, and she had to fight the urge to bite someone.
+
+With a breath to steady her thoughts, she pointed to her left forearm and, with a sharp application of telekinesis, slashed the skin so that blood welled quickly. She realized then that she had no vessel in which to collect the blood.
+
+“Temperance?” she said, though her voice was faint. “Temperance, I need a cup.”
+
+Piety blinked a long blink, and when she opened her eyes, Temperance knelt beside her, a yellow-glazed bowl in her hands, held beneath Piety’s arm. Piety looked down at the bowl and the splatters of her crimson blood against the yellow. It reminded her of the sunburst. She had to resist the urge to bow her head and lick at her own spilled blood, the hunger she had taken ached for a taste of it.
+
+Temperance’s hand on her back was a steadying presence, though for a moment the touch made her aware of Temperance’s closeness, her warmth, her living essence, and she wanted to bite at her neck to release all that living warmth.
+
+Returning to her task, Piety focused on her self-inflicted wound, grasped at her healing power, and encouraged her blood to flow more freely. She turned her arm over the bowl so that the blood dripped steadily until it filled half the vessel.
+
+“Piety, that’s enough,”
+
+Piety nodded, but it was still several seconds before she could summon the will to stop the blood and heal the wound. She took the bowl from Temperance and offered it to Hirrom before she could raise it to her own lips. She slowly closed herself off from his pain, his hunger, and he reached for the bowl eagerly, though steadily, so that he pulled at the offered blood as though it were strong drink and he wanted to escape the world.
+
+With Hirrom safely ensconced in a cellar and Lillyfield seeking her friend, Renee, Piety decided it was finally time to check in on Willow. They were standing near the entrance to the refectory where Lillyfield had left them when Piety asked Temperence where the former Mother Superior had been placed.
+
+“I’m not sure where she is,” Temperance said. “Who do you suppose we could ask?”
+
+Fortuitously, Alice Walker was nearby.
+
+“Alice.”
+
+The sister jumped at her name. When she saw it was Piety she quickly bowed her head, folded her hands at her waist, and took several steps back.
+
+Piety sighed. “You don’t have to bow to me, Alice. And you don’t have to be afraid. I’m not going to hurt you.”
+
+“Yes, Mother.” But Alice didn’t look at her.
+
+Piety sighed again. But there was nothing for it. It would take time before Alice knew Piety wasn’t cruel as Willow was. Piety thought it unlikely she had that time.
+
+“Alice, I’d like to look in on Willow, the former Mother Superior. Do you know where she is or where we might find her?”
+
+Alice admitted she didn’t know and recommended they ask Sister Mullan who was in charge of the supplies who sent them to Sister Casey in charge of matching acolytes to dormitories and who’d been given the job of finding a place for those citizens of Appledel who were too afraid to go home, which had been everyone.
+
+But when asked where Willow was, Sister Casey was at a loss. “I don’t see her on my roster. She must have been taken to… She’s not still lying on the Sanctuary dais. Surely someone put her in a bed…” But Sister Casey seemed uncertain.
+
+A thorough search of the church later revealed that Willow was no longer at Sacred Heart.

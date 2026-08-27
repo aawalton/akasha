@@ -1,0 +1,149 @@
+---
+id: 50f97ce4-9871-52eb-9d6a-223b2babf376
+page-type-slug: story-chapter-royal-road
+title: "4. Consequence"
+slug: 0004-4-consequence
+partOf: mana-devourer-litrpgmana-cultivation
+position: 4
+ownLength: 2089
+unit: words
+publishedAt: 2024-06-29
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697780/4-consequence"
+royalRoadId: "1697780"
+---
+
+Gods were now fighting over Markus. On the matter of whether he should feel flattered or terrified, ‘terrified’ was looking to be the stronger adjective.
+
+As many as six different voices had piped up in the last few moments expressing some level of interest over hiring Markus following his defeat of the monster. All of these voices emanated from high-class looking box seats, and all of them carried that same affectation of power and status that one might expect of a deity.
+
+Naturally, the crowd had fallen to silence. Who wanted to interrupt an argument between gods?
+
+It wasn’t long before the already nonplussed Markus was flanked by Drathok, who’d spawned into existence beside him in a flash of purple lightning. The creature took one look at his dead monster, another, much longer look at Markus, then waved his hand up at the gods.
+
+“Sacred ones! Sacred ones… I trust you all enjoyed the performance?”
+
+“I do not wish to converse with an imp baron,” the first god spoke, a touch of ire in his voice. He was the one who’d first propositioned Markus following his fight, and the tallest of all standing to address him now. Despite their distance, Markus could make out his features well, as if he were so defined that the limits of perception need not apply to his visage. “But I will indulge you if only to speed this up. Where did you acquire this one from? Where?”
+
+“An exotic planet in the far reaches, my lord, one heralded to produce only the mightiest warriors with the highest inherent potentials…” Drathok smiled, that same wide smile from before. “Tell me, has your holiness ever heard of the planet Earth?”
+
+“Earth…” the god grumbled, rubbing his fingers against his chin. “No. Can’t say that I have. Sounds rather exotic…”
+
+Markus watched the whole exchange with incredulity, still reeling with exhaustion from the fight, barely staying aloft. He worried that if he fainted now, he’d end up having an important decision be made for him, and somehow, something was keeping him going even in spite of how hard and desperately he’d fought. He had no clue what.
+
+Still, Drathok was lying through his teeth! He’d never even heard of Earth until Markus had told him about it, and he’d pulled Markus here by total accident!
+
+To think that he’d still try and find a way to profiteer from this situation… or maybe he was just trying to cover his own hide. Markus found it difficult to tell. Was there a chance that Markus’ unexpected victory might provoke a god’s anger?
+
+“Question,” another voice piped up, this one female. “You say this human hails from a warrior planet, one so exotic none of us would know of it. Then why is it that your announcer insisted he was a simple, weak primitive impossibly staked to lose his life?”
+
+“A ploy to drive both tension and excitement, your emanence! An outcome so unexpected was only meant to surprise all of you most esteemed patrons with a bout beyond your expectations!”
+
+“Beyond my expectations…” the goddess growled ferociously, the stands trembling around her. “I’ve lost good money betting on this fight! The otherworlder was meant to be eviscerated!”
+
+“And you will be reimbursed in full! An unfortunate cost to provide you with this most glorious turn of events, I do hope you were entertained regardless!”
+
+“I ought to gut you where you stand, but I do suppose lying is in the nature of hellspawn.” The goddess tutted. “I will pardon this deception, but only because the fight was extraordinary. A level one human besting a D grade monster? Almost unheard of.”
+
+“Which is why I should be the one to claim him!” another god roared. “I was the first to take note of this human’s prowess, you all should’ve caught on sooner!”
+
+“Esteemed patrons, sacred ones…” Drathok smiled at each of them in turn, giving a small bow. “I must make you aware, this one is contracted to fight for me for the foreseeable future. To terminate said contract—”
+
+“To buy out his service?” The tallest god sneered. “Please. I care little about your petty soul contract. Name your price. It’s a pittance to me.”
+
+“Do I get a choice in any of this?”
+
+Markus had said it quietly and between coughs, but that was only because his throat was so coarse. He was so frustrated with the way that he was being bargained over that he wanted to scream at them all.
+
+“We will settle this matter later. I’m tired of gawking onlookers,” the tallest god said. “See my new champion is properly cleaned up before I visit him.”
+
+“He’s not your champion, he’s mine!” another god blurted.
+
+“Of course, sacred ones. Any and all of you may visit the dungeons at my leisure, you need only ask. Thank you once more for your most esteemed patronage, and please enjoy the rest of today’s performances!”
+
+With that, Drathok and Markus both were whisked away in a flash of lightning.
+
+Before he blinked out of the arena, he noticed that the body of the bulleater he’d slain had seemed to almost be melting away around the chest area, as if its heart had been absorbed from its body.
+
+When they arrived back in the summoning room, Drathok’s face was split by a massive grin.
+
+“Wonderful, boy. Simply wonderful.” He levitated a far chair over to himself and proceeded to sit, as Markus stood before him, still wracked by pain. “You passed every test I put before you with ease. Truly, you are an impressive specimen.”
+
+“Impressive?” Markus gulped, his throat dry. “You… you mean you expected me to kill that fuck ugly thing?”
+
+“I estimated the chance to be around five percent,” Drathok admitted, eyes glinting red. “To say I expected it might be an overstatement.”
+
+He folded one leg over the other, looking truly at ease. “When I saw your inborn trait, I became curious about your potential, so I started zapping you with just enough magic that you might make use of it, assuming your ability had any potency to it. Seems you drank quite greedily from my mana pool, and look what it ended up leading to!” He laughed. “You’ve done well. Well enough that you won’t be stuck rotting away down here for very long. Isn’t that just splendid?”
+
+“You bastard…” If Markus understood the situation well enough, then it was simple. Drathok had known he might be able to absorb mana from attacks from the start, and that was the precise reason he’d cast his magic on him. Not for intimidation, not for torture, but to give Markus a weapon he could use, should he have the instinct for it.
+
+Only, it was hardly something he should be grateful for, as he’d only done it so Markus could showcase his abilities in front of a bunch of gods, who’d now want to buy him instead.
+
+Presumably, whatever Markus could do with Mana Manipulation was worth more than the cost of replacing that monster he’d slain would be. Good for him. Great for Drathok.
+
+Markus wasn’t gonna take this sitting down. He hadn’t fought for his life just to be sold again. He raised his hand, ready to expel the last of his excess mana despite the screaming warnings of his body, but before he could do more than bring a small pulse of power to his palm, Drathok raised a finger and held Markus completely still in doing so, locking his joints and disrupting the flow of his mana.
+
+“Come, now. Do you really think you have a hope of winning?”
+
+The power difference between the two was so vast that it was indescribable, even after Markus’ victory. Drathok had proven so with that single display of power. Markus struggled and thrashed in place against Drathok’s invisible hold. Any head-on confrontation was likely to be impossible.
+
+Markus began sweating, his body aching immensely. “Fuck you. When I get out of here, I’m gonna find you and make you wish you’d never summoned me. Mark my words.”
+
+“You can talk about your daydreams all you like. It won’t change your fate.” Drathok grinned wider, probably mentally spending the fat purse of coins he’d receive for this even as they spoke. “You want my advice? Sign yourself over to Ciphelos. He’s more lenient than the others.” Drathok began to cackle as he spoke. “After a few decades of service, he might even let you go free!”
+
+With that, Drathok snapped his fingers, and a small, red creature appeared in a puff of smoke. “What’s up, boss?”
+
+“Show this one to his cell. He’s performed exceptionally, so give him a rag to wash himself with. Perhaps some cheese?“
+
+“Got it, boss,” the imp answered, before swishing its tail twice. Immediately, an ethereal chain appeared from nowhere, wrapping itself around Markus’ ankle and clamping shut, as all the while the chain affixed itself to the imp’s right hip.
+
+Markus couldn’t even begin to tug against it. It kept his foot completely in place. When the imp moved, he moved.
+
+As he was pulled away, he turned back only to find Drathok waving, shit-eating grin everpresent on his stupid fucking face.
+
+“Rest well, champion! Your new life awaits!”
+
+Markus hadn’t taken more than two unassisted steps within his cell before he collapsed to the floor. The moment that the shackles had been taken off of him and his forced march through the torchlit corridors beneath the arena had ended, his body had taken its toll on him in full force.
+
+[Mana Poisoning II in effect. Overcharging your body’s mana past 250% of its capacity causes extreme fatigue and a consistent drain in both vitality and strength. Reducing your body’s mana below 100% of its capacity will counteract this.]
+
+[Dealing with Mana Poisoning for long periods leads to Mana Toxicosis, a condition that will render you incapable of casting magic without inflicting heavy damage upon yourself, and in advanced stages can simply kill you.]
+
+[Overcharge (F Grade) in effect: all physical stats have been temporarily raised by 30. Magical affinity and resilience increased. Growth heightened by 50%.]
+
+That didn’t sound good. No wonder he was laying here in such a miserable heap of exhaustion. His whole body felt utterly incapable of moving, to the point that once the promised wet rag and food were passed into his cell, Markus couldn’t even find the energy to get up and use them, no matter how he might want to.
+
+He supposed the temporary boost in stats had probably been necessary to carry out the fight, but if feeling like this after was the cost…
+
+Markus decided to look around at his system more. He’d been simply thinking things and getting answers from it up until now, which seemed fairly intuitive, but he wanted a way to view everything pertinent.
+
+He imagined himself looking at a menu, and something akin to that appeared before him. There was a list of notifications spread out, as well as means to look at various advancement trees that he had yet to realise even existed.
+
+One thing was for sure, between draining that creature and killing it, he’d been showered with levels. There were so many notifications here…
+
+He counted, and there were seven level ups. He’d shot up from level 1 to 8 in a single fight.
+
+44 unspent stat points. That sounded like a lot, but he had no basis for what was high or low right now. Markus opened his stat sheet, trying to determine what he might spend them on. Part of him wanted to wait until he could amass more information, but he was on a time crunch here. He wanted to be rid of this affliction plaguing him, and he was hardly about to ask whatever god came to buy him for pointers on the most meta build for escaping them.
+
+No, he needed to figure it out himself. Head hazy, Markus summoned his status screen, staring at it for the very first time:
+
+[Name: Markus Brown]
+
+[Class: Otherworlder (Earth) (Tier: Novice 8)]
+
+[Health: 253/340]
+
+[Mana: 832/430]
+
+[Strength: 48 (+30)]
+
+[Agility: 42 (+30)]
+
+[Arcana: 6]
+
+[Constitution: 49 (+30)]
+
+[Spirit: 17]
+
+[???: 0]
+
+Didn’t take a very long look for him to realise where most of his unspent points would be going. He’d deal with the other notifications and passives demanding his attention later. For now, too much mana was the problem, and Markus needed to spend his way to a solution.

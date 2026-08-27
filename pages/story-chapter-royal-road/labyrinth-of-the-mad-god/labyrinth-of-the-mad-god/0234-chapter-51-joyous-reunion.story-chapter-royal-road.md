@@ -1,0 +1,109 @@
+---
+id: 9dfaf313-3930-551d-97e6-09962e1fbb4a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51: Joyous Reunion"
+slug: 0234-chapter-51-joyous-reunion
+partOf: labyrinth-of-the-mad-god
+position: 234
+ownLength: 2274
+unit: words
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2666561/chapter-51-joyous-reunion"
+royalRoadId: "2666561"
+---
+
+Nick activated Arctic Clarity, enhancing his concentration and sharpening his newly-evolved senses to a razor’s edge.
+
+He kicked his tactical brain into high gear, forming and discarding a dozen plans in half as many heartbeats. At the same time, he dialed up his recently-boosted Charisma along with every point of Creativity and Mind he had, bringing every aspect of his upgraded self into perfect alignment to perform their most important task since returning to Earth—figuring out who was drinking coffee and how he could get his hands on a cup.
+
+Where is it? He offered a prayer to whomever was listening. Please let there be some left. He followed the wondrous scent wafting through the air past a pair of benches someone had dragged over from the lakeside. There! He set his sights on where a small group was sitting around a cookfire, brewing a pot of coffee over a crude grill.
+
+There were some big things Nick missed about his old life—his family and friends especially. But there were lots of little things too, and starting his morning with a steaming mug of coffee was at the top of his list.
+
+His only chance to drink some since the System arrived had been back in the luxury safe room where he’d spent a few days after his battle in the arena. His caffeine addiction had long-since faded away, and with his superhuman Mind, he enjoyed a clarity of thought greater than any drug could provide.
+
+But that wasn’t the point.
+
+It was about the smell and the flavor. About taking a treasured piece from his old life and bringing it with him into the new—nostalgia in a cup.
+
+By the time he drew near, the group had noticed his approach. He had been too fixated on the pot of coffee to pay attention to who was brewing it until now—a critical detail in his mission to acquire a taste. Nick let out a sigh of relief when he realized the fire belonged to Ethan and Kira, the warriors he had saved from a rock weasel near the base of Darkstone Tower.
+
+With them was Kerry the merchant, and two other people he didn’t recognize. “Nick.” Ethan raised a hand in greeting. “It’s good to see you. We were just discussing our plans for the next few weeks. It was fun watching Aurora’s first buildings come up.”
+
+“It’s nice to see you guys too. I was sorry to hear about Elaine. We lost a lot of good people climbing the tower and during the battle with the Guardian.” Nick was happy to see some familiar faces, but he had a hard time focusing on anything besides the pot of coffee, which had just reached the peak of perfection.
+
+Kerry had noticed his fascination and was trying not to laugh. She poured herself a steaming mug, raised it to her lips… and then handed it to him instead of taking a sip. “Here. Devin mentioned how much you missed it, so I was planning to save you a cup anyway. I’ll do my best to secure a regular supply once my store is up and running.”
+
+“Thank you.” He wiped away a tear while savoring the aroma wafting up from the porcelain in his hands. “If there’s anything you require to make that happen—mountains that need moving or monsters that need killing—just let me know and I’ll get it done.” Everyone got a good laugh at his antics, making space for him to take a seat as they continued chatting.
+
+Nick missed the next part of their exchange. By this point, he had already brought the mug to his lips, ready to take his first sip. The coffee was just shy of boiling, but that couldn’t hurt him anymore. The brew was thick and black—perfect in every way.
+
+The anticipation was killing him, and he couldn’t take it anymore. So, without further ado, he tipped the cup and poured some coffee into his mouth.
+
+For the next magical minute, the world faded away—everything except the flavor breaking over his palate and the memories it evoked. Eating breakfast with his parents before leaving for school. Chatting with his brother about their latest gaming obsession. Precious moments from a world that only existed in recollections and dreams. Snippets from a way of life that would never come again.
+
+He came back to himself as he nursed the mug in his hands, joining in the speculation and banter.
+
+It was clear that everyone had undergone some incredible growth since he’d spoken to them last, taking their place among Earth’s elite. Kerry wanted to build a store and help get Aurora’s economy off the ground, so he invited her to join the city-planning committee that would meet tomorrow morning.
+
+She asked him if she could borrow his journal to update the copy she had made at the tower. Since other people had found it helpful, he was happy to agree and slid the journal over. When she noticed it was running out of pages, Kerry gave him a blank notebook from her pack, calling it an even trade.
+
+Ethan and Kira had joined a larger party—people they had fought beside during the battle for Earth. They were getting ready to leave on a scouting run to survey the surrounding regions while completing any quests, challenges, or events they found along the way. He asked them to keep any eye out for other settlements, along with anyone from Team Earth who hadn’t made it to the lake and might like to join them here.
+
+They let Nick know other teams were already forming, including people who would start harvesting natural resources and observing their beast neighbors, learning everything they could in the hopes of establishing good relationships right from the start. There were several crews who were eager to begin building by hand, and a research team was coming together to advance Aurora’s understanding of magic, Psi, and dozens of other subjects.
+
+Elizabeth walked over and sat down beside him, touching base while getting a sense of how people were planning to spend their time over the next few weeks. Before long, she planned to make more of this official and put the city’s resources behind these various enterprises.
+
+“I want to make sure everyone is supported without micromanaging their operations,” she explained. “Our residents are innovative souls who are perfectly capable of overseeing themselves, and everyone is eager to contribute to Aurora’s growth.”
+
+Nick nodded, adding a few ideas he’d been considering. Over the coming days, his people would have more information to work with. Their efforts would become more efficient as everyone continued to self-select the roles they preferred and developed specializations that were bolstered by their Professions.
+
+After squeezing his shoulder and bidding everyone farewell, Liz moved onto the next group. Kerry poured Nick the last sip of coffee from the bottom of the pot, laughing at his expression. When he finished it, he rinsed out his cup, thanked her again, and then walked over to the obelisk, admiring the view while considering his own short-term plans.
+
+After being railroaded into leading the settlement, he couldn’t afford to leave Aurora for longer than a half day at a time. That would change when they raised the city’s tier, and he could delegate some of his duties. But for now, he planned to focus on streamlining his development by conditioning his body, advancing his abilities, and training his skills.
+
+After that, he wanted to spend a few weeks scouring the badlands for claimable resources like the cave behind the waterfall. It was one of the best uses for his City Points, and such sites offered benefits that weren’t available any other way.
+
+Maybe when the dust settles, I’ll hit up a dungeon. I need to keep leveling up, and the rewards should help the city grow.
+
+In addition to his training, he intended to use the coming days to complete Aurora’s city quests and eliminate threats like roaming monsters. He would meet with the planning committee every morning, place any buildings that needed to be redeemed for vouchers, then have the rest of the day to use as he pleased.
+
+Savoring the caffeine singing in his veins, Nick decided to spend the afternoon advancing his abilities. But before he got to that, there was one thing he needed to take care of first—finding out more about the trials of mastery and picking up some pointers in preparation for taking his Sword-skill test.
+
+When he spotted Kenji taking a hike along the lakeshore, he walked over and asked the strategist for advice.
+
+“I haven’t attempted any trials either, although I’ll probably take the Spear test sometime within the next few days. If you want to learn more about them and receive some expert instruction with your blade, I suggest you speak to Ella. She has already completed her Staff trial and she’s the most competent warrior I’ve ever met. I’m happy to spar with you and offer whatever help I can, but she’s better with a blade than I am. Better with every weapon besides the spear for that matter.”
+
+“Thanks, I’ll see if I can find her now and I’ll take you up on that offer sometime soon. I need more experience fighting people who are experts with their weapon of choice.”
+
+Nick bid Kenji farewell and went looking for Ella. After asking around, he learned that she was in the barracks, visiting a friend who had been injured during the fight with the wurm. When he stepped inside, he spent a few minutes surveying the operation—immensely relieved they had defeated the boss without losing anyone in the process.
+
+Almost everyone who had taken part in the battle sported a collection of cuts and bruises. But some of their wounds were severe enough that it would take a few days to recover, even at the remarkable rate at which the human body could now knit itself back together.
+
+Since they lacked anything like modern medical equipment, everyone who had taken serious damage had been treated with healing potions and the like. Fortunately, people had donated quite a few potions they had picked up from challenges and events, and Aurora was saving the rest for life-threatening emergencies.
+
+While consumables were common, healing magic was rare. His people were working hard to obtain more and had begun researching the underlying principles in the hopes of developing treatments that didn’t rely on System-granted abilities.
+
+They were still figuring out how to use Veronica’s unusual powers inside the city, since she needed to inflict damage over time to an enemy to activate them and the range was limited to a few hundred feet. Her magic didn’t work on animals, and she refused to torture a beast to activate her abilities unless it was a life-and-death situation.
+
+Nick wasn’t inclined to change her mind. He felt the same way and the System had repeatedly warned them that humans and beasts needed to work together to defend the Earth going forward.
+
+While he was here, he gave the daily dose generated by his Flask of Restoration to the most severely-wounded warrior. The elixir only healed another person half as much as when he used it himself, but it took the edge off the woman’s discomfort and shaved a few days off her recovery.
+
+After that, he chatted with his people until Ella had finished her visit, then asked the woman if he could have a few minutes of her time. “Of course, Nick. I’m happy to help however I can. What can I do for you today?”
+
+“I’m getting ready to take my Sword trial of mastery, but I don’t want to jump the gun and fuck it up. I was hoping you could tell me about your experience with the Staff test and help me refine my technique before I try my luck. I’m happy to return the favor if there’s ever anything you need.”
+
+“That sounds fair. Let’s start with the test itself. My trial was straightforward and intense. You can’t count on your magic, your gear, or anything granted by the System—you can only rely on your training, instincts, and resolve. Treat the test like live combat and bet your life on every move you make.”
+
+Nick nodded along as Ella continued. “Oddly enough, while I can remember my impression of the experience quite clearly, the details have faded away like the memory of yesterday’s dream, which happened to everyone I’ve spoken to about the matter.
+
+“The only other advice I have to offer is don’t rush and wait until you feel ready. Several people have failed their tests and have to wait six months to take them again. It isn’t a critical setback during the year of protection, but we can’t afford to have it happen too often going forward, especially for the skills that are tied to advancing our Professions.
+
+“As far as whipping you into shape goes, how about we squeeze in a half hour of sparring whenever we’re both in town and have some time on our hands? I’m booked solid for the rest of the day, but I’m free tomorrow afternoon if that works for you.”
+
+“Sounds good, Ella. I appreciate the help, and I look forward to working with you.”
+
+“Right back at you, Nick. For the first time in a long while, I feel like I’m exactly where I need to be, and I’m excited to find out what we can accomplish together.”
+
+They shook hands and bid each other farewell, leaving him with the rest of the day to train on his own.

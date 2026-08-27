@@ -1,0 +1,95 @@
+---
+id: 9a97f25b-1e77-5c41-9ce5-929758401de5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 105: Visions from the Void I"
+slug: 0146-chapter-105-visions-from-the-void-i
+partOf: labyrinth-of-the-mad-god
+position: 146
+ownLength: 2228
+unit: words
+publishedAt: 2025-03-19
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2137325/chapter-105-visions-from-the-void-i"
+royalRoadId: "2137325"
+---
+
+When he regained consciousness, Nick found himself floating in the space between worlds.
+
+An infinite starscape stretched out before his gaze, engulfing him in the celestial splendor that he had experienced several times before. He tried to remember how he had gotten here, but his memory was muddled. He knew that he had suffered a traumatic injury to his brain, but the details were fuzzy. He felt a strange sense of detachment when he focused on his body—like he was only halfway connected to his flesh and blood.
+
+I’m on the verge of death, he realized. For some reason, I’m having a vision while I’m unconscious. After talking with other people about his experiences, Nick had realized that the visions he’d begun having the day the System arrived were unusual. While some people reported flashes of images and sensations during their interstellar journeys, his were far longer and more detailed. It was strange and mysterious, but he intended to take advantage of this unique ability, since he was certain that there was a deeper meaning behind it.
+
+He sensed that his mind would return to his body on its own when his brain finished healing. Until it did, his consciousness was untethered by the normal constraints of time and space. He took a long moment just to bask in the staggering beauty and awe-inspiring majesty of this place, then got down to work.
+
+He intended to use this altered state of being to learn whatever he could, which meant that his first goal was figuring out how to navigate this disembodied state. Trying to move by conventional means was futile considering his surroundings and the vast distances involved in reaching even the closest star. But if his mind had made it out here, he should be able to journey to other places too. He tried willing himself back into the Tower of Rizzen, visualizing the last thing he’d seen before the world went dark, but nothing happened.
+
+With no other leads to follow, he closed his eyes and concentrated, casting his senses into the void. At first, he couldn’t feel anything. But eventually, Nick realized that there were tiny points out in the distance. Motes of vital energy that felt achingly familiar.
+
+They aren’t places. They’re people. Somehow, he was certain that he was sensing important individuals in his life—people with whom he shared a connection. He thought that if he tried, he might be able to move toward them and see what they were up to.
+
+He tried looking for his parents, his brother, and his friends from Earth, but he couldn’t find them. At first, he was worried that it meant they were dead. But then he realized that he could only perceive people who he had interacted with since humanity had been awakened to magic by the System.
+
+Instead, he reached toward the minds he could sense clearly. Five were still climbing Darkstone Tower, but one was much further away. When he focused on that distant point, he realized that it was coming from Earth. That it belonged to a friend he hadn’t seen in far too long.
+
+Nick smiled and willed his consciousness to head toward it. It was time to find out what Bandit was up to and learn what had happened to his home while he was away.
+
+***
+
+Bandit awoke with a start, leaping out of bed and reaching for the blade resting in the corner of the room. He scanned the shadows with his fang raised before him, searching for enemies but finding none. It was pitch black inside the windowless hut, but darkness was no longer a barrier to his sight.
+
+He let out a sigh when he realized that it was just a dream. That he was standing in his own bedroom—safe in the middle of the tribe’s village. In his dream, he’d been back in that moment, as he had so many nights before. Talking to the tiger king before battling the dreadbeast monarch to the death, absorbing a portion of his power in the process. Reliving the fateful moment that had catalyzed Bandit’s evolution into something new. A creature of shadow and flame.
+
+It was only the first change among many. A milestone in the rapid evolution that his tribe had undergone, along with the other denizens of the jungle. Life had been so much simpler before the Voice had arrived and thrown the world into chaos, unraveling the old order in the blink of an eye.
+
+While he felt a twinge of nostalgia for those bygone days, he wouldn’t return to them if given the chance. Not when everything was so interesting and new—every day burgeoning with possibility.
+
+Bandit shook his head to clear his mind. He didn’t have time to get lost in contemplation now. Not when there was still so much that needed to be done. He opened the door to his home and stepped outside, casting his gaze over the jungle and toward the horizon.
+
+The sky was cobalt with the coming of dawn and only the brightest stars were visible. Whisps of mist were rising from the canopy like ethereal serpents as the air began to warm, carrying the scent of blossom and leaf. The cries of birds and beasts resounded across the jungle, heralding the start of a new day.
+
+While Bandit would love to go back to sleep, he couldn’t afford to indulge in such luxuries. It was time to be up and about. His friends were already walking over to the communal kitchen to grab a bowl of something warm before getting started with one task or another. His stomach growled at the thought, reminding him that he could use something to eat too.
+
+Before he gave into his belly’s reasonable request, he examined his village from above, marveling at how much his life had changed in such a short span of time. How much everything had changed.
+
+The concept of founding a settlement would have been foreign to his existence just a few short months ago. Already, a way of life that had lasted for millennia was no more. A new age was dawning alongside the rising sun, and his efforts would help determine whether the lemur tribe thrived or perished.
+
+Bandit’s generation held a special place in the story of his people. After all, they had been born twice. First into the old world, then again in the new. A world where magic was an everyday part of life—a tool more powerful than anything they could have imagined. Magic had enabled them to build a home for themselves instead of spending their days roaming the jungle, foraging for food while contending with predators.
+
+After ascending to beasts, most of the lemurs could use magic to some extent, and the group who had devoted themselves to mastering it was growing by the day. There were earth-casters and flame-wielders. Life-coaxers and wind-callers. And, most recently, a cadre of shadow-masters had arisen amongst their ranks.
+
+Several promising young lemurs had chosen to follow Bandit’s path, absorbing the darkness mana and shadow essence that was released when the dreadbeast tigers were slain. Now that the last corrupted tiger had been driven from the jungle, the tribe would have to seek out new means of nurturing its shadow-masters, but that was a problem for another day.
+
+He was doing his best to oversee their training, as well as mentoring the flame-wielders, but these powers were new to him too. Over time, they would expand the tribe’s options for defending themselves and eliminating their enemies—the only good thing to come from the shadow tigers’ existence.
+
+While the tribe was gifted with a cadre of promising young mages, the most prevalent elements among them were earth and stone. As a result, unlike the metal weapons the Voice had given them, the tribe’s self-made tools were fashioned from stone—shaped by the versatile magic of the earth-casters.
+
+Thanks to the powers they had been granted after surviving their trial on the Island of Burning Rain, along with the knowledge imparted by Neek and others of his kind, the tribe now cooked their meals over firepits topped with great stone spits, which were perfect for grilling meat to perfection.
+
+They had raised various defenses to guard the village and created stone structures to live in. Houses with strong walls and sealed entrances that keep out predators and vermin alike.
+
+For the first time in the history of their species, the lemurs had created a village and were sleeping in the same place every night. Over time, the earth-casters had enclosed the town in a ring of rock, while the other magic-wielders fashioned various safeguards within the canopy. Sentries and wards prevented their enemies from slipping in and attacking the tribe in their sleep, dramatically increasing the life-expectancy of the new generation.
+
+As they continued to develop and change, the lemurs had grown more adept at understanding complex concepts, sparking a hunger for knowledge within them. When they sent scouts beyond the boundary of the jungle, they had discovered a perennial source of new ideas and insights by studying the hairless tribe.
+
+After Bandit’s adventures with Neek, he’d begun watching the others of Neek’s kind who were living near the jungle, learning their language while listening from the branches. The tribe had gained much from observing the hairless tribe, as the inventive creatures figured out how to survive on this ever-changing planet. How to build houses and high walls. How to use fire to cook and craft. How to plant seeds and tend to the soil, reducing their reliance on foraging.
+
+The last wouldn’t have been possible without the life-coaxers’ magic encouraging the plants to grow and the earth-casters’ spells improving the quality of the soil. The lemurs still had a lot to learn about tending crops, although Bandit was optimistic that they would master the art in time. Perhaps they could negotiate and convince some of the hairless tribe to instruct them, although they would have to develop a relationship built on mutual trust and understanding first.
+
+It was only the first wave of changes, and he could sense that more were coming in the days ahead. Some lemurs were learning how to make their own weapons and armor and instruments that produced a variety of pleasing sounds. Music, the hairless tribe called it.
+
+With his thoughts on the future, Bandit made his way over to the kitchen, where he observed another change that his people had adopted, specialized labor. As he drew near, a delectable odor crossed his palate. He hastened his pace, eager to discover what new wonder the cooks had dreamt up today. He broke into a grin as he stepped inside, where a dozen hungry lemurs were already waiting in line.
+
+Over the firepit, the cooks had set flat pieces of metal, upon which thinly-sliced portions of meat were sizzling, frying alongside eggs flavored with a medley of herbs. When it was his turn, Bandit held up his plate to receive his share of the feast. The eggs were fluffy, and the meat was perfectly browned, but still rich with juice. The spices the cooks were learning to use made everything smell even better.
+
+When he popped the first bite into his mouth, Bandit let out a grunt of approval. This food was amazing. He hoped that there would be more of it later tonight, when their festival began.
+
+When the sun set, the entire tribe would gather, beginning a day-long party. There was ample reason for celebration. After weeks of war, dark days filled with bloodshed and loss, the tribe had defeated the last of the tiger king’s minions. Ending the threat the dreadbeasts posed… at least for now.
+
+Bandit doubted that he had seen the last of the dreadbeasts. The words the dying king had spoken, “they promised,” had him deeply worried. It led him to believe that the tigers hadn’t been tainted by accident or by their natural inclinations alone, but by design. He had a hunch the lemurs would be facing other corrupted beasts in the days ahead. But this time, the tribe would be ready.
+
+He decided to confer with the Elder before joining in the day’s labors, learning what he could from the tribe’s matriarch while she was still around to dispense her wisdom. He topped off a fresh plate so she wouldn’t have to get it herself, then began walking toward her home.
+
+Bandit spent a lot of time with the Elder these days since she was grooming him to be the tribe’s next leader. It wasn’t something that he was looking forward to, although he had long-since resigned himself to that fate.
+
+At least for now, it was natural that the strongest among them took charge. Bandit knew that his presence would soothe fears and stifle countless disputes before they even began. He had no desire to assume the mantle of leadership. He knew the price it demanded after surviving the Island of Burning Rain.
+
+But for the sake of his family and his friends, Bandit would do what he must to ensure that lemurs flourished in this strange new world. A world ruled by beasts living alongside men. Perhaps, if they worked together, they could find a way to thrive. For the sake of that dream, he would fight until his dying breath.

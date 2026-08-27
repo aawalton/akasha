@@ -1,0 +1,131 @@
+---
+id: 86a2bcdd-4f77-56a1-aa55-662dad808b01
+page-type-slug: story-chapter-royal-road
+title: "3. Loop 0, Part 3"
+slug: 0003-3-loop-0-part-3
+partOf: lazy-loops-an-idle-litrpg-op-to-archmage
+position: 3
+ownLength: 2060
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3453032/3-loop-0-part-3"
+royalRoadId: "3453032"
+---
+
+Deputy Headmaster Aldrick Bain was followed by two of the faculty from the combat department. Both already had their wands drawn.
+
+Bain’s receding hairline had long ago been hidden behind a wizarding hat, and moon-shaped spectacles were perched on a nose built for looking down at people. His eyes looked over the room, taking in everything he could, though it took him twice as long as it would have taken me with [Wideview]. The smashed furniture, the scorch marks, all the bleeding students, and Tuffet sitting in the center. He had, of course, drawn his conclusions before he’d even crossed the threshold.
+
+“Tuffet.” His voice carried the full weight of his authority. “Combat magic in the commons. Destruction of school property. Assault on fellow students. You are finished at this institution.”
+
+Kalin said nothing. He just stood there, shaking. He knew what was coming. He knew what his anger had brought him: expulsion, his scholarship revoked, sent back to wherever he came from. He’d be leaving with nothing but a disciplinary record and a scorch mark on his chest nobody would ever care about.
+
+I stood up. My body was going to file a formal complaint about how much standing I’d done today.
+
+“Deputy Headmaster, Creed started this. He cast a fire-enhanced strike fist, same as combat magic, just like you’re charging Kali—”
+
+“[Silence].” The spell found me specifically, a targeted cast. My mouth kept moving, but nothing came out.
+
+What a beautiful spell. I could cast it on myself and then pretend I couldn’t talk. That would be a great way to get in some morning laziness. I filed it away for future use. My tangent was cut off as Bain continued.
+
+“Davos will, of course, receive a formal conduct notice.” The words were formal, like a conduct notice for the grandson of the prime minister would do anything. It was a piece of paper that would die in a filing cabinet. “Tuffet, you will—”
+
+But Bain was interrupted.
+
+“Aldrick.” The hall went quiet. Headmaster Corwen Yarrow, my uncle, stood in the entrance of the hall.
+
+My uncle spoke quietly. He didn’t need to raise his voice to reach every person in the room. He never had to raise his voice, everyone just listened.
+
+He was tall and thin, with a jawline sharp enough that every expression looked like it could sentence you to hard labor. He carried himself with the presence of a man who had survived a war and found peacetime more exhausting. His robes were wrinkled, not unusual for him; the shadows under his eyes, though, were deeper than the ones I had noticed last night at dinner.
+
+He looked around at the damage, at the broken tables and burns on the stone and blood on students’ faces. He reached a hand to Bain’s shoulder and said, “I’ll handle this. You’re dismissed.”
+
+Bain’s jaw tightened, but he stepped back. For now.
+
+Corwen crouched next to Finn, knees on the cold stone and one hand resting gently on Finn’s shoulder. He extended the other, examining the gash with care. He frowned, but said nothing about it.
+
+He stood and addressed the hall. “Breakfast is over. Everyone out now.”
+
+It was a wild sight. Nearly two thousand students moving as one, orderly for the exits, because when Corwen Yarrow told you to do something, you did it. I knew that better than anyone. As much as I might not have wanted to, I always listened to my uncle.
+
+The [Silence] charm faded. I opened my mouth to explain to my uncle what happened, but Corwen caught my eye and raised a single finger. Shh.
+
+He said a quiet word to Bain, who still hadn’t left, something I couldn’t catch even with [Wideview] active. I was really kicking myself about the [Subtitle] charm now. When I had a moment, I needed to cast it.
+
+Bain didn’t leave. He didn’t argue openly, either. Instead, he waited. watching the last of the students file out. Biding his time until the hall emptied down to just the faculty and us.Then, once the audience was gone and the political cost of defiance was lower, he made his move.
+
+He stood facing us with a sending stone in his hand and a carefully controlled look on his face. He addressed us, the remaining students: Kalin, me, the dungeon track kid with the lightning fist, and that blonde girl with the useless ward. All of us still standing in the wreckage like a bunch of idiots.
+
+Creed was not among us. Apparently, fire-enhanced strike fists didn’t count as combat magic when your grandfather was a prime minister.
+
+“Combat magic in the commons. Destruction of school property.” His eyes found mine. “Worst of all, talking back to the deputy headmaster.” He tucked the sending stone away. “I’ve already filed through the sending stone, Headmaster. The disciplinary office has the charges on record. I can’t take them back. You know it doesn’t work that way.”
+
+“Yes, that’s correct. You can charge whomever you’d like, Aldrick.” My uncle’s voice was low, the kind of calm that made me nervous. “But I can decide what happens to them. You know that.”
+
+Something ugly passed through Bain’s eyes. He wanted to argue. But the remaining faculty were watching carefully, and losing twice in the same moment would follow him for months. He left without another word.
+
+As soon as he was gone, Corwen faced us. “You’re all in trouble.” He scratched his head. “Can’t do anything about that, but I can point the trouble somewhere useful. I’ve decided all of you are going to participate in this week’s tournament, starting today.”
+
+He looked at each of us. Then, with what I was fairly certain was the ghost of a smile: “Good luck.”
+
+He left the room.
+
+My jaw dropped. He’d taken Bain’s disciplinary charges, the ones that should have ended with expulsions and conduct notices and weeks of hearings, and turned them into a tournament entry. That fucker. He knew how much I wanted to avoid the damn thing. And now I couldn’t skip it. Not without making my uncle look weak in front of the same students who’d just watched him overrule Bain. God damn it.
+
+———
+
+I had an hour and a half to kill before I would be forced to put forth my next school-approved effort, which was great. Most students used their free periods to study, or practice, or hang out. I used them to exist horizontally on the nearest available surface. It was a calling, really.
+
+The Green was MIRKS’ heart, and in the early morning, it did a good job of living up to that ideal. Dozens of students were playing a pickup game of Magiball in the sprawling shade of ancient Therumian oaks that reached for the sky.
+
+These giant testaments of time provided shade in the summer and a beautiful ambient light after dark. Long, long ago, their branches had been threaded with spells. They were so old people, argued over who had actually cast the enchantments.
+
+I found a bench. The bench had found a patch of sun, with the perfect spot of shade for my head. Together, we were about to achieve greatness. I closed my eyes and settled in. My favorite thing in the world: a warm, sunlit bench that radiated warmth like a hug. I put my robe under my head for a pillow, and basked in the sweet knowledge that nobody would be bothering me for the next fifty minutes or so.
+
+My brain wanted a tangent. It always did when I told it to shut up. So it focused on all the things wrong with the world. All the things wrong with my uncle up in the blindingly blue spire. All the things wrong with life in general. But the constant muttering slowed to a murmur. The world softened at the edges. Despite it all, I somehow found sleep.
+
+It was, of course, then that something hit me in the ribs hard enough to knock me sideways off the bench.
+
+I fell to the grass with a sound no one should ever think of making in public. I cried a little as my brief dream of a mid-morning nap shattered like cheap glass. Whatever had struck me was resting on the ground next to me. A glowing green orb of compressed force focused around a cheap little marble. A level 4 enchantment spell called [Magiball].
+
+“Ay, no, no, no,” a voice said, trying to suppress a laugh at my disheveled state. “My fault, my fault entirely!”
+
+A group of fourth-years were playing Magiball just down from my bench. One of them, a lanky Manifestation student named Malus Isher, was jogging toward me with a sheepish grin. His sun-darkened skin and close-cropped curls matched his easy physical confidence. As he approached, he raised his hands in the universal gesture that said please don’t set me on fire.
+
+“Lazlo! Is that you? I didn’t see you there. The spin I put on the ball, she curved where she wanted, not where I told her.”
+
+The words came out warm and fast and layered, the way Malus said everything. I caught maybe seventy percent of it. Rather than ask him to slow down, which would’ve required admitting a limitation and worse effort, I pulled out my wand. “[Subtitle].”
+
+[Subtitle - Soul]
+
+Cost: 47 mana.
+
+Creates physical subtitles based on speech around you. Passive. Duration: 4 hours.
+
+The text appeared in front of me, and suddenly I fully understood him.
+
+“Malus. I was sleeping. On a bench. In direct sunlight. How could you even miss me? Aren’t you supposed to be good?”
+
+“The light! It was in my eyes. And Torri, he threw the redirect too wide. So I compensated, but too much, you know?” He mimed an exaggerated throwing motion. “She has a mind of her own, this ball. You understand, you are an enchanter, yes? You know how objects behave when they decide things.”
+
+“Your enchanted ball has terrible judgment,” I said. “You should have a conversation with it about boundaries.”
+
+Malus laughed before finally offering me a hand up. I declined to take it.
+
+“I will feel very bad if you stay on the ground, brother.”
+
+“I live here now. This is my home,” I deadpanned.
+
+He laughed again before pulling me up in one smooth motion. He grabbed the fallen Magiball and twirled it around on one finger. He patted the dirt off my back and said, “Next time I aim better! Or you move the bench. Either way, we solve the problem, yes?”
+
+“I’m not moving the bench.”
+
+“Then I aim better!” He threw the ball into the air and clapped his hands twice before catching it, which was when [Soul Sense] pinged.
+
+It was odd and unexpected. The ping didn't give me the usual background noise, the passive hum of detecting the souls of living people. Something it did every day with about as much use as confirming the sky was blue. No, this was different.
+
+The Magiball in his hand had a soul. A small, flickering, faint soul, but unmistakably there. Elemental cores were everywhere; half the stones on campus had them, and all the trees besides. Any mage with basic training could feel an elemental core around something of its base element, but a soul was something else entirely. Souls were rare, hard to detect, useful, yet here one was, nestled inside a cheap game ball, humming contentedly in Malus's grip.
+
+Before I could say anything, Malus had sped away, leaving me blinking at the orb. But as I stared into the sky with the golden-red sun just out of my vision, a different thought settled in: The universe had a personal vendetta against me. I had just wanted a nap.
+
+Nap. I could do this. My brain had already been beaten into submission once. It could happen again. I squeezed my eyes shut, but my restful friend eluded me. Instead, I stared blankly at everything. At nothing. [Wideview] didn’t care about my feelings. Unless I ended the spell, I saw everything whether I wanted to or not. Not that I was looking, really, or trying to spy on people. But I saw something I knew I shouldn’t have, and curiosity proved to be too much for a simple nap to overcome.

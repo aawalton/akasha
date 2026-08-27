@@ -1,0 +1,75 @@
+---
+id: b4968b65-38ae-5249-a4d9-36bf38b2cb7c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44: Teamwork"
+slug: 0082-chapter-44-teamwork
+partOf: labyrinth-of-the-mad-god
+position: 82
+ownLength: 1538
+unit: words
+publishedAt: 2024-10-28
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1872703/chapter-44-teamwork"
+royalRoadId: "1872703"
+---
+
+When Nick took aim and fired the wand, the intensity of the blast caught him by surprise.
+
+The cone of force picked up three of the smaller roaches and sent them flying across the battlefield. They landed in a heap of tangled limbs a good thirty feet out, removing them from the fight for another few seconds. He turned to point the device at the warrior roach headed his way. The beast must have recognized the danger, because it skittered to one side instead of charging back in, granting him a chance to see how his companions were doing.
+
+Three more of the basic roaches were heading for the fighters in the back, circling around from the other side of the formation. Additionally, one of the bugs that Nick had knocked back had recovered faster than the rest and was already rushing back in. The women turned to deal with the trio of bugs, while Shaun took on the lone insect coming the other way.
+
+Sophia started throwing her new knives, while Veronica let loose with her wrist-mounted crossbows. Thanks to the recent growth in their skills and attributes, most of their attacks landed on target, although half deflected against the beasts’ natural armor instead of breaking through.
+
+The barrage was enough to take one of the roaches out of the fight and wound a second. As the bugs closed the distance, a black-barbed tongue hit one hard in the thorax, as Sophia’s spear-tongue unleashed its might. Since he was sure that the women had the situation under control, Nick spared a glance at Shaun before turning to face the warrior headed his way.
+
+Shaun fired his bow as quickly as he could, shaking with fear but not completely losing his shit. Most of his shots went wide, but a couple landed on target, although they deflected off the beasts’ chitin without breaking through. We need to get him a better weapon. Right now, everything but his abilities are borderline useless. It’s only going to get worse the higher we climb.
+
+But then it happened. Shaun drew back his bowstring, lined up his shot just right, and let loose. His arrow flew true, soaring over the warriors to hit the last regular roach that was trying to assault the party from the flank. The arrow planted itself between two of the bug’s legs, causing it to falter before reorienting on the source of its torment, the red-haired man holding a bow.
+
+The roach hissed and came charging in straight for Shaun. Nick was too far away to lend a hand, and everyone else was engaged with their own opponent. Shaun seemed to realize that this enemy was his problem to deal with. He looked pale but didn’t break down. He set down his bow and drew his short sword, just as the angry bug finished closing the distance and attacked.
+
+It tried to take his leg off at the knee, but Shaun sent his blade forward in a clumsy thrust. The tip went sliding along the side of the creature’s head while scraping at its exoskeleton, but it wasn’t enough force to break through. He screamed, leapt back, and chopped, narrowly dodging a pair of slashing mandibles along the way.
+
+Nick didn’t have time to watch the rest of Shaun’s battle. His opponent had overcome its fear of the wand and charged, bladed mandibles poised to strike. For the next thirty seconds, he couldn’t focus on anything other than the enemy in front of him.
+
+This marked the beginning of a vicious exchange of blows. Block and thrust. Stab and slice. Back and forth they went, neither combatant able to inflict more than scratches on the other. But then the beast overextended itself by a fraction of an inch. It tried to lunge and get inside Nick’s guard but misjudged the position of his blade.
+
+He felt the feedback from his skills kick in and followed their guidance as he moved to counter. He took a quick step to one side and then leapt over the warrior’s mandibles. He hopped onto its back and looked down, aiming for the narrow seam where its extendible chitin plates came together.
+
+The roach tried to buck him off. Before it could dislodge him, Nick reversed his grip and brought the tip of his blade down hard, sliding between the beast’s armor and plunging deep into the tissue below.
+
+He pulled his sword out and leapt off, ready to continue the fight. But he must have hit something vital, because the warrior roach tried to take a step, faltered, and then came crashing to the ground. It twitched a final time and then went still.
+
+Nick took in deep, panting breaths, trying to recover some stamina while checking in on his team.
+
+Devin was still locked in battle with the other warrior, and the flamethrower had maneuvered into range, ready to use its ability. Nick had the sense that Devin’s opponents were coordinating their attacks, trying to lure the athletic man into position and then turn him away from the red bug, so that he didn’t see its attack coming. Sure enough, it let loose a torrent of fire a few seconds later, which bathed Devin’s back like an incandescent cloak.
+
+They must have thought he was done for, because both insects turned to face Nick. A move that left them completely unprepared for when Devin kept right on coming, as if the searing jet had been no more troublesome than a light spring shower.
+
+He lashed out with his one-handed axe, scoring three hits along the warrior’s flank in rapid succession. Each strike released a small explosion on contact, the force transmitting through the bug’s exoskeleton and into the soft tissue inside. The series of blasts knocked it to one side, where it went skidding in the dirt.
+
+That was when Nick realized that each point of contact was glowing, like someone had poured lava into the wounds. Apparently, Devin had taken blast striking to rank two while they were apart, and this was the upgrade he had chosen. In addition to his weapon detonating with every hit, it now left behind superheated pools of mana, which continued to burn after the explosion was finished.
+
+Damn, that’s one scary ability. Nick nodded in satisfaction as oily smoke rose from the afflicted patches.
+
+The stricken bug began to scream as its chitin cracked and its flesh sizzled. Before it could recover, Devin switched his axe into its two-handed form and brought the head around low in a sweeping strike, catching his opponent below its chitin plates and sinking deep into the soft tissue beneath. Blast strike erupted from inside the beast’s body, leaving it spasming in the throes of death.
+
+He worked his axe free and then turned to face the flamethrower, which launched another jet of fire that was just as futile as the first. Devin roared and went charging in, eager to end the fight. The bug turned and tried to run, terrified of the enemy who was immune to its attacks. But it had begun to turn too slowly, and Devin finished it off a few seconds later.
+
+By now, Nick had recovered enough to launch another assault. He turned to deal with the pair of acid-spewers, only to discover that they were already done for. Sophia’s wasps had managed to land several stings while he was busy, and the solvent-spitting bugs were already frozen solid.
+
+With everyone free to lend a hand, they surrounded a final warrior roach, which had come charging in a few seconds prior. The party made short work of the tough beast with their combined might.
+
+When the last bug lay dead in the dirt, Nick turned to face his team. They were dirty and disheveled. Scraped and bruised. But they had managed to win their fight using little mana in the exchange, saving their reserves and consumable items for the true threats in the room, the Janitor and the hulking roach queen.
+
+After noticing that people were injured, Veronica took aim and fired her crossbow, the tip glowing green as she activated acid bolt. The missile soared over the battlefield and sank into the rear of a flamethrower in the middle of the room. The magic transferred into the bug’s tissue a few seconds later, eating away at its insides.
+
+As the beast began screaming and flailing, Nick felt a tinging all along his skin. The scratches he had picked up during the melee began sealing themselves shut, revealing healthy skin below.
+
+“What in the world,” Devin asked as he watched a bloody gash regenerate within a matter of seconds.
+
+“New ability,” V explained. “My acid bolts heal me and whoever is nearby while they are dealing damage to a living opponent. It’s not a huge effect, but it adds up over time.”
+
+“That’s a little darker than I expected, but no complaints here. In fact, that’s fucking amazing. You rock Veronica, although you already know it.”
+
+“I do. But it’s still nice to hear. Now, what are we going to do about that?” She pointed to the far end of the enclosure, where a war was raging between the two massive creatures.

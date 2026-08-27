@@ -1,0 +1,235 @@
+---
+id: 5fdaab7f-3c9f-545d-924c-466c248aedf2
+page-type-slug: story-chapter-royal-road
+title: "61 — Book 2, Chapter 9 — Alchemy 101, Pt 4"
+slug: 0061-61-book-2-chapter-9-alchemy-101-pt-4
+partOf: just-add-mana
+position: 61
+ownLength: 3825
+unit: words
+ownProgress: 3825
+publishedAt: 2025-11-15
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2763376/61-book-2-chapter-9-alchemy-101-pt-4"
+royalRoadId: "2763376"
+markedReadAt: "2026-06-29T18:49:41.667Z"
+---
+
+Cale, Flia, and Orguk sat on the rim of Professor Rinkle's cauldron, watching the so-called Grand Warden Sidyrnus as he glared imperiously at them.
+
+Well, at the cauldron. Cale was pretty sure they were too small for Sidyrnus to see them, which was impressive; he hadn't realized that Rinkle's spell had shrunk them that much. That was some high-tier magic indeed.
+
+"He has no idea that we're here, does he?" Flia asked, a little disbelievingly. "Also, I didn't think people actually... monologued like this."
+
+"Really?" Cale asked curiously. "You have met me, right?"
+
+Flia paused. "Touché," she admitted grudgingly. "It's different when you do it, though."
+
+"Damn right it is," Cale said, pleased. "But yeah, you'd be surprised how common it is. Mages aren't the most well-adjusted bunch. The more power you accumulate, the more it sets you apart from your peers, and it's pretty easy to let that change you if you aren't careful. Also doesn't help that the further you get in a field of magic, the less peers you have."
+
+"I guess that makes sense, but still." Flia grunted and gestured to Sidyrnus, who was still monologuing.
+
+"He's worse than most," Cale admitted.
+
+On the other hand, they knew a lot about Grand Warden Sidyrnus now that they wouldn't have otherwise. They knew he was someone the Red Hunters had contracted to capture Professor Rinkle for some reason or another, and that he would be paid handsomely for any additional "samples" he happened to capture in the process.
+
+Cale, Flia, and Orguk had placed the two unconscious students on the nearby desk for the time being, mostly because they didn't know what confronting Sidyrnus would involve. Best to avoid them getting caught up in some sort of magical battle with no means to defend themselves. They'd braced themselves to face the might of a mage who was capable of infiltrating and capturing one of Brightscale Academy's professors.
+
+And Sidyrnus's wards were impressive. There had been a moment of horror as the three of them stared at their classmates, caught in what looked like a divine-class ward that held them in perfect stasis. Professor Rinkle was the only one that wasn't completely subdued, and even she was tightly bound in layers of restraining wards.
+
+That horror was swiftly undermined by Sidyrnus, who would not stop talking. He went on and on about how his wards were unbreakable and how he was simply too good for such a menial task. He insisted that he was destined for great things, that this was merely a stepping stone to what would surely be a divine future.
+
+"Do you think he realizes that he agreed to kidnap someone?" Cale asked conversationally. "I'm not sure if 'too good for this' or 'destined for great things' is the right takeaway there. You'd think he'd have a little more self awareness."
+
+"Orguk not self aware, and Orguk still thinks Sidyrnus full of himself," Orguk agreed. "Orguk wants to punch him. Can Orguk punch him?"
+
+"I'm pretty sure we need Rinkle to reverse the size charm on us before you can punch him, but I'll try to put in a good word," Cale said assuringly. "At least he's telling us all his plans. How long do you think we should let him talk?"
+
+"As long as he keeps telling us new information, I guess," Flia said, still a little disbelieving. "I just can't believe people like this exist. I feel like I should be a lot more worried about what he did and that ward of his, but every time I look at him I'm just thinking about how clueless he is."
+
+"Orguk will punch him. That will fix his brain," Orguk said, nodding.
+
+"Not sure that's how that works, but honestly, you should go for it," Cale said, patting Orguk on the arm. "Is he still going? I'm good at tuning people out."
+
+"He's talking about the sheer amount of mana that would be needed to break his wards, now," Flia said, snorting and glancing at Cale, who perked up and listened in.
+
+"You could convert the sun itself into pure mana and it would not be enough to scratch this ward," Grand Warden Sidyrnus bragged. "You will not escape, do you understand? Resistance is pointless."
+
+"So you have said sixteen different times, now," Professor Rinkle said. She had been worried for her students before, clearly, anxiously gazing over at her class every few seconds.
+
+That worry had quickly faded into exhaustion as Sidyrnus just... continued. He never ran out of new ways to brag about how incredible his wards were. Rinkle was clearly now distracted, working on a spell to try to free her students, and Cale watched as she bit her lip in frustration as another attempt failed. As insufferable as the Grand Warden himself might have been, his wards seemed to live up to his words.
+
+Well, mostly. Cale was already preparing to get himself involved.
+
+Sidyrnus noticed Rinkle's attempt to break through his wards, because of course he did. "And still you try," he said, his tone mocking. "Do you not yet realize the impenetrable nature of my wards? Nothing you do could break them. I am Grand Warden Sidyrnus."
+
+"And that particular fact you have repeated seven different times," Rinkle muttered. Then Cale caught a gleam in her eyes, and when she spoke again, she sounded more energetic. "Yet can you truly say that you understand your wards from within? Have you lived and breathed as your wards do? Are your wards truly happy?"
+
+"I... what?" Sidyrnus blinked, looking for the first time like he was genuinely thrown off. "What does that mean? They're wards. They don't have feelings."
+
+"I ask only if you understand your wards the way I understand my potions," Rinkle said, leaning forward as far as her restraints would allow. "Do you know your wards from within? Have you felt every crevice of them?"
+
+"Are we speaking the same language?" Sidyrnus demanded. He looked around at the other students. "Is she always—no, wait, none of you can answer. Bah! It doesn't matter. As soon as this potion goes critical, we will leave. What in the world is taking so long?"
+
+"I have lived as my potions do," Rinkle said, undeterred and lying through her teeth. "My potions love me. They will not be corrupted."
+
+"Love cannot stop alchemical reactions, nor can alchemical reactions have feelings!" Sidyrnus said, now exasperated.
+
+Still sitting on the rim of the cauldron, Flia shook her head. "I don't know how to feel about the fact that I'm starting to admire Professor Rinkle's... whatever that is," she said with a sigh. "Cale, when are we going to step in? I don't think Sidyrnus is going to say anything else useful."
+
+"As soon as I'm done communing with the potion," Cale said cheerfully.
+
+Flia twitched. "Does that actually mean something, or are you just pulling a Professor Rinkle now?"
+
+Cale grinned. "As a matter of fact, in this one case, it absolutely does."
+
+The Exiled Gods were a mysterious bunch, Cale reflected. Named as such because their power had grown too wild to exist within the Great Realms, their influence could still be felt in what was usually only the most minor of ways—small impossibilities in what were otherwise concrete rules of a realm. Occasionally, however, one of them would attempt to reach out actively, and the results...
+
+Well, the results were mixed, but they were rarely good. Nor were they always bad! It was difficult to pin any real rhyme or reason to those gods or their motivations, because they thought in ways that were so fundamentally different to every other entity, realmborn or otherwise. Cale recognized the influence of X'cak'thirak the moment it had manifested, but he had to be careful not to think about what it meant.
+
+Because the problem with X'cakthirak was that the god was an impressionable little shit.
+
+The second there was any defined thought about what his corruption was or what it meant, X'cakthirak latched on to it like it was some sort of lifeline. In an unbelievable way, it was almost lucky that the residents of Utelia were already used to the presence of their Dread Moon and apparently didn't think twice about the ominous tendrils reaching out of their corrupted potions.
+
+No doubt there had been theories, of course, but as long as none of those theories were within X'cakthirak's range—or as long as the potions influenced by those theories were wiped out before they came into contact with the general population—it didn't matter as much. Alchemists tended to isolate themselves, too, so it was surprisingly rare for the god to get a real foothold.
+
+Here, though, he had a real chance, so Cale needed to be careful and commune with the potion properly. He had to give X'cakthirak's influence a defined purpose that would shape an entirely new rule for the realm of Utelia. Cale stared at the bubbling cauldron of corrupted potion before him and focused intently on a single thought:
+
+Baking tentacles.
+
+In the aftermath and in later conversations, one or two mages would always ask Cale why he hadn't thought to turn X'cakthirak's influence into something useful. To have them herald the sort of magic that would grant him even greater power. Cale's response to those mages would always be the same.
+
+"...You want to turn an Exiled God into a weapon?" he would ask, incredulously. "Do you know what happened the last time someone tried that? No, of course you don't. Terrible idea. Never, ever try to use a Exiled God like that, or I will come down and smite you myself, thank you very much."
+
+Grand Warden Sidyrnus did not bother to consider the possibility that something might go wrong, in large part because the mere idea that it might was absurd to him. His wards were unbreakable, after all. He had once threatened a god with them, and they had capitulated to his demands; as far as he was concerned, that was proof that he was the greatest Warden in all of Utelia. Perhaps even across all the Great Realms.
+
+It was for this reason that he didn't bother to keep that close an eye on the cauldron. What would be the point? Potion corruption was a known quantity; the moment he'd sabotaged the professor's alchemy, the outcome was fixed. Inevitable, as it were.
+
+This was also the reason he failed to notice when the color of the corrupted potion began to change.
+
+What he did not fail to notice was a change in Professor Rinkle's expression. She went from mildly irritated (and really, what an insult it was to be confronted with mild irritation when a mage was caught in one of his traps—he would have to speak to the Red Hunters about additional compensation for this slight later) to expressing something closer to intrigued joy.
+
+"What are you smiling about?" Grand Warden Sidyrnus snapped, already tired of how much of his time was being wasted on this. He could have spent all of this time working on new wards, and yet here he was, babysitting while waiting for a potion to boil over. Was she stalling him somehow? "I hope you aren't expecting rescue. I'll have you know that I've enacted wards through the entire hallway to keep the attention of even your Headmaster away from this class. No one will be coming to save you."
+
+He clicked his tongue in exasperation when Rinkle's expression didn't change. She didn't even bother responding to him! He was going to need to start charging a fee for these uncooperative hostages; the next time he accepted a contract like this, he would need to know these details upfront. Sidyrnus turned again to check on the cauldron—
+
+—his brain stalled for a moment.
+
+He'd placed an amplification ward around the cauldron just to ensure that the potion would consume all evidence of what he'd been doing here. It wouldn't do for the Headmaster to be able to track him, after all. Wardens thrived on preparation, and he was not prepared to fight a dragon.
+
+He could be, given enough time. There was nothing his wards could not hold back. But that simply wasn't the job, and draconic magic was versatile enough that it would be ludicrously expensive to prepare a trap for Headmaster Akkau. As well-paid as this particular job was, he'd be making almost nothing if he spent his time on that. So he hadn't.
+
+Regardless, Headmaster Akkau wasn't the problem here. The problem was that his amplification ward was gone.
+
+Not broken. Gone. He would have sensed if one of his wards had been broken, as ridiculous as the idea was, because all his wards were keyed to his soul; it was a mark of his pride as a Grand Warden. The amplification ward had explicitly not been broken. It had been erased like it was never there to begin with.
+
+Sidyrnus kept staring for longer than he probably should have.
+
+...Maybe he'd just forgotten to cast the ward?
+
+He checked his pockets, just in case. That particular ward required silverleaf seeds to anchor its effect, and if he'd just forgotten, the seeds would still be in his pockets.
+
+They were not.
+
+Sidyrnus frowned. Wards didn't just disappear like this. What was going on? Perhaps the corrupted potion had consumed it, but he'd specifically keyed the ward to amplify potion corruption! It should have fueled the process, not simply gotten consumed with no apparent effect.
+
+Unless—the thought struck him out of the blue—Professor Rinkle had done something to the potion. She had been smiling earlier, and she'd claimed that her potions wouldn't be corrupted because they loved her. The very idea was asinine, but perhaps she was more skilled than he'd anticipated.
+
+"Impressive," Sidyrnus allowed. "But you will find, professor, that I am very rarely unprepared for any eventuality. If you insist on playing games with your potions, I will simply use one of my own. And I just so happen to have prepared a sample."
+
+He smirked. He hadn't wanted to use this, because there was a chance the Headmaster would recognize the corrupted potion hadn't been brewed by Professor Rinkle and because he'd wanted to save it to boast about how his wards could contain corruption. But if the situation called for it, he had no qualms with using what he had.
+
+"Now, as you can see, your attempts to subvert me are futile, although I look forward to studying how you were able to... bypass..."
+
+Sidyrnus trailed off as he pulled out his prepared potion. The wards around it were still gleaming and intact, a shining example of his capabilities.
+
+The potion within it was not the pitch-black of corruption. It was brown.
+
+"What have you done?" Sidyrnus said furiously, throwing the vial on the floor and stumbling backward as he was overwhelmed with the smell of—freshly baked bread? "How have you done this? My wards are impenetrable! Your magic should not have been able to—"
+
+The prison ward—his ultimate achievement, the spell that should have been able to contain even a god, let alone a single alchemist and her pathetic students—cracked, causing him to stop mid-sentence. Sidyrnus stared in horror as an impossible seam tore open in what should have been an impenetrable shield.
+
+And then the backlash hit.
+
+The most basic lesson in wardworking was to never anchor a ward to something precious. All wards had failure points, and those failure points would backlash into whatever the caster used as an anchor. Sidyrnus had long since abandoned that precept for the simple reason that he considered himself better.
+
+His soul was impossible to target. He'd covered it in layers of wards so that even if the impossible happened, he would be protected. The protections he bore meant that it would take a truly apocalyptic amount of mana for any backlash to actually strike at his soul.
+
+It also meant, he now realized, that if he was ever struck with that amount of mana, he would be forced to watch as it tore through each layer one by one.
+
+Then, as if to add insult to injury, a tiny green figure appeared in front of him, just barely visible... and punched him in the eye.
+
+Sidyrnus thought, as he flew backwards, that he must have accidentally inhaled some of the potion's fumes and was hallucinating violently. He would recover in a moment, and then deliver his prisoners to the Red Hunters as promised.
+
+That was obviously the only possible explanation for this.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Wardbreaker Punch] has evolved into [Grand Cascade]!
+
+[Grand Cascade, Level 1] [Twelfth Tier (Unique), Active] [1.0e32 Mana]
+
+Focuses wardbreaker mana directly into your fists, primed to cause a ward cascade. Causes the complete erasure of any ward equivalent to eleventh tier or lower. Attempts to shatter greater wards by surging additional mana into the construct's focal points. Repeated casts may be necessary for the spell to take full effect in these cases.
+
+In retrospect, Cale thought that perhaps a single punch might have been sufficient. Sidyrnus's ranting had caused him to start drumming his fingers impatiently on the ward instead.
+
+To be fair, he hadn't expected someone called a Grand Warden to anchor his ward with his own soul. Not doing that was basic stuff! He had no idea what Sidyrnus was thinking. Even most liches weren't stupid enough to do that, and they seemed to love anchoring all sorts of things on their souls. Or other people's souls. Or just souls in general, really.
+
+So he hadn't expected the backlash to wind back into Sidyrnus with quite that much force, which meant that he hadn't been prepared to call Orguk off.
+
+Also he hadn't entirely wanted to.
+
+Besides, the soul damage was worse than the physical damage. Orguk's [Mana Detonator] distributed the force of his punch enough that it sent Sidyrnus flying back instead of just exploding his eye, for which Cale was thankful. That would have been too much of a mess, even for him.
+
+"Well now," Professor Rinkle said. Sidyrnus was lying on the ground and mumbling incoherently, glazed eyes staring up at the ceiling. Something about his wards being unbreakable. "I admit, I'm rather glad that we had you three in our class today! Goodness, what a disaster. Could you be a dear and break the rest of these restraints? I'm afraid my specialty is alchemy, not ward-breaking, and it will take quite some time to brew a potion to counteract these restraints..."
+
+She trailed off and then laughed to herself. "Oh, dear, I'm being rude again," she said, mostly to herself. Then she leaned down to draw a circle into the ground. "Simply step into these and you will be restored to full size."
+
+Cale was glad she'd remembered that, because even if he'd tried to respond, he was pretty sure she wouldn't have been able to hear him. Flia sighed dramatically.
+
+"Finally," she said. "I can't believe you had me jet us around with water."
+
+"It was the only way to get around efficiently!"
+
+"My water is a portal into the Abyss, Cale. If we weren't tiny I would have ended up pouring half the room into the Abyss."
+
+"Good thing we were tiny, then, isn't it?" Cale grinned unrepentantly, and Flia rolled her eyes. "Come on, it was fun, admit it."
+
+"...it was kind of fun," Flia said after a moment, allowing herself a small smirk. "Nice to actually get to use my magic the way other water elementals do. I hope I can figure out the Leviathan's advice today. It'd be nice to do all this properly."
+
+"If you need help figuring it out, just say the word," Cale promised.
+
+Flia nodded. "I appreciate it. I'll work on it myself a while longer, but if I can't figure it out, I'll ask."
+
+With that, the two of them stepped into the ring. Orguk followed a short while later, carrying both unconscious students on his shoulders and looking surprisingly thoughtful.
+
+"Orguk thinks punching Sidyrnus was not satisfying enough," Orguk said. "Sidyrnus does not know it was Orguk that punched him. Orguk will do it again at full size."
+
+"Perhaps after we clean up all these wards and report this to the Headmaster?" Professor Rinkle suggested, although the twinkle in her eyes told them she wasn't exactly opposed to the idea. Orguk thought about this for a moment, then nodded.
+
+"Orguk will agree with that," he said. Then he turned to Cale. "Mana man! Teach me that ward-punch. Orguk wants to break Sidyrnus's wards in front of him with punching. Orguk thinks his face will be funny."
+
+"I'm not sure you have the mana for it..." Cale began, and when Orguk shot him a look that was simultaneously deeply betrayed and offended, he snorted and acquiesced. "Okay, look, I haven't managed to teach any of my spells before. But you might be able to evolve a lesser version of the spell, and if you do it the right way, I bet you can break a few of his wards even without overwhelming mana. And I happen to know a few things about ward breaking, so I'll tell you exactly what to target."
+
+He gestured for Orguk to follow him as he did his rounds. For all that Sidyrnus's wards were incredibly advanced and reinforced, [Grand Cascade] had the benefit of pointing out exactly where their weakspots were. They were cleverly hidden and would have been impossible to find without sheer brute force, but, well...
+
+Sheer brute force was his speciality.
+
+"Just out of curiosity," Flia asked. "Is this apparent ward breaking expertise because you happen to like wards, or did you just do a lot of magical crime?"
+
+"You know me better than that, Flia," Cale said, giving her an exaggerated look of feigned offense. "It was obviously the magical crime. I broke people out of prisons a lot. Also a wizard tower and three varieties of plant-based traps. Now let me focus! I still want to experiment with my potions after this, and we don't have that much time left in the day."
+
+Flia sighed. "If only I could have just one normal class," she muttered.
+
+Orguk gave her a strange look. "Orguk thinks classes more fun this way."
+
+"I refuse to agree with you on principle," Flia said, pretending to be affronted. She was grinning, though.
+
+Excellent. Cale's mind drifted, now that the most pressing concern was over and done with. He needed those new potions figured out, but after that, well... he was looking forward to tonight.
+
+The Red Hunters were going to deal with a whole new version of the Mad Mage.
+
+Though come to think of it, he probably needed to deal with the nascent law of baking he'd unwittingly introduced first...
+
+Eh. It could wait.

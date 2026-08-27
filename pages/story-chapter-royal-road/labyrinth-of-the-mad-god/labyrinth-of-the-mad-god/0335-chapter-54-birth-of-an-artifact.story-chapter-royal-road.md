@@ -1,0 +1,75 @@
+---
+id: 34b811f8-9557-552e-9cf3-cf054787fb87
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54: Birth of an Artifact"
+slug: 0335-chapter-54-birth-of-an-artifact
+partOf: labyrinth-of-the-mad-god
+position: 335
+ownLength: 1474
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3796584/chapter-54-birth-of-an-artifact"
+royalRoadId: "3796584"
+---
+
+Devin brought his blazing axe down with every scrap of power he could summon from his superhuman body.
+
+His clockwork-clad blade carved a canyon into the hive mother’s thorax, penetrating the dense chitin armor to eviscerate the vital organs below. The monstrous insect’s flesh fried as the searing energy suffusing his weapon flowed into the wound, pumping the dungeon’s boss full of Earthblood—the lavalike magic comprising Devin’s Concept.
+
+It was a grievous injury, but he wasn’t finished yet. Channeling every ounce of his strength, his final drops of stamina, and the dregs of mana dwelling within his core, he activated Blast Striking and Flashfire Pulse at the same time. A cataclysmic explosion erupted from his weapon’s edge, accompanied by a torrent of flame that was threaded with Earthblood to make it burn hotter still.
+
+The hive mother was reduced to a fountain of sizzling gore, putting an end to the creature that had plagued his party for months. The monster’s brood had come close to killing them on countless occasions after entering the temple on the far side of the dungeon. Devin had naively believed that reaching the ruins was the end of the road, but it had proven to only be the beginning of his team’s true trial—clearing out the nest of relentless predators that extended deep below the ground.
+
+When he looked over his shoulder, his allies were wrapping up their own fights. He didn’t have anything left to give, but his friends were more than capable of winning their battles without him. Sarah and Bret were engaging one of the hive mother’s elite guards, while Shaun, Veronica, and Laura dealt with its twin.
+
+Devin grinned as the siblings of light and shadow blinded their foe and then closed in for the kill. They had grown immensely over the last two months, learning to overcome their weaknesses and capitalize on their strengths. Bret no longer felt the compulsion to guard his sister at the expense of all other goals, and Sarah had become just as dangerous in melee as she was from further out.
+
+Emphasizing that truth, a pair of light blades erupted from her fists while Bret’s greatsword coruscated with living shadows. They converged from opposite sides, effortlessly evading blind swipes as their magic tore the big bug to shreds one appendage at a time. Devin let out an appreciative white. She didn’t even bother to conjure any illusions this time.
+
+Meanwhile, the other melee had reached its thrilling climax. The elite monster was covered in weeping wounds where V’s solvent-saturated missiles had found a new home. Its rear was aflame from her napalm, and she was peppering it with rounds from both wrist-mounted crossbows. Sean was alternating between Smoke Arrows and Electric Arrows, keeping the bug trapped in a dense cloud that was translucent to his teammates’ eyes.
+
+It bought time for Laura to cast her second-strongest spell, since she couldn’t Call Lightning underground. Even still, her High-Voltage Bolt dealt some insane damage, and with her Living Lightning Concept, her electric attacks only conducted at her command, making it impossible to catch her allies in the crossfire. A bolt of lightning thicker than Devin’s wrist shot from Laura’s fingertips, turning the insect into a smoldering lump of charcoal as his hair rose to stand on end.
+
+After making sure nothing was lingering in the area, he called his team over to celebrate their hard-won victory. Their injuries were extensive, which would have been a serious concern for most parties, but wasn’t a problem for his team. Shaun’s leg was broken. Veronica was supporting his weight and Sarah, Bret, and Laura had acquired an impressive collection of cuts and bruises.
+
+They had run out of potions long ago. However, the party had prepared for this battle extensively and had an alternate means of recovery waiting in the wings. V turned to the trio of monsters they had trapped in floating cages and parked outside of the boss’s lair. The leather-clad warrior struck one insect with an Acidic Bolt, ignited a second with a Napalm Grenade, and used her Bone Claws to rend the third’s carapace and inject it with her anticoagulant venom.
+
+Shaun groaned as his twisted leg began straightening itself, and everyone groaned in relief when their wounds sealed shut and their contusions faded away. Veronica’s magic was stronger than ever after solidifying her Affliction Healer Concept and ascending to Tier 2. Vital energy flowed into her allies as her enemies, burned, dissolved, and bled. By the time the life vanished from the final monster’s eyes, everyone was restored to pristine condition.
+
+“Thanks.” Laura let out a shuddering sigh. “I needed that.”
+
+“I fucking love your abilities,” Shaun added while Sarah and Bret nodded their agreement. “I had a breakthrough during the battle, and I’m close to crystalizing my Concept. A few more fights should do it.”
+
+“Nice job!” Sarah gave him a high five, while Devin offered a grinning thumbs up.
+
+Everyone but Shaun had ascended while clearing the dungeon. The young archer had begun this quest considerably weaker than Aurora’s elites, although he’d bridged a fair amount of the gap along the way. Better still, Devin, Veronica, Sarah, Bret, and Laura had all hit Level 50, unlocking Epic classes that took their combined strength to lethal new heights. While he mulled the matter over, everyone broke out provisions from their packs and began wiping the grime from their bodies.
+
+A message from the System was waiting in the periphery of Devin’s vision, revealing their rewards for completing the dungeon. Nice. More essence and species experience are always welcome. I have no idea what planetary experience is, but it seems like only the most dangerous quests award it. When he read the last word, a pile of parts materialized his boots—the components required to repair the Simulation Dome that he had entered the dungeon to find.
+
+He had a long list of gains to peruse too, but before had a chance to open his menus, something remarkable occurred. His axe, which was bracketed by a clockwork framework Ella had gifted him—originally part of the weapon wielded by the Guardian of Darkstone Tower—began to stir.
+
+The gears and pistons sprang to life of their own accord, clicking and whirring as they detached from the axe he’d been using for months, causing the weapon to fall to the floor with a clatter. His eyes went wide as the mechanical apparatus continued to change, forming a brass blade on one side while growing in scale and complexity.
+
+Devin felt a strange sensation at the boundary of his energetic network, like someone was knocking at the door and politely requesting to be let in. Intrigued, he acquiesced to the request, at which point, Earthblood and fire mana began flowing out from his core, through the clockwork weapon’s handle, and into the opposite side of the brass blade. It ignited with a whoosh, forming an axe head that was a mirror to the first but forged from roiling lava instead of bright metal.
+
+He already knew something important was going down, but his suspicions were confirmed when a floating screen materialized before his eyes.
+
+This artifact fragment has accumulated enough essence to evolve into a Unique artifact, Fang of the Lava Lord.
+
+Its current power is: Epic.
+
+Its maximum power is: Legendary.
+
+The properties of the artifact must be discovered through use.
+
+“Holy fucking shit.” Devin’s jaw dropped when he realized how significant this development was.
+
+His recent gains were impressive, but this would let him keep pace with Team Earth’s strongest members as they explored the Labyrinth and defended their planet from the Mad God’s wrath. Devin had sensed incredible untapped potential within Veronica, Nick, and Sophia, and people like Ella were straight-up stronger than him from the start.
+
+He didn’t have an ancient alien being dwelling inside his soul—hadn’t found a long-lost relic during his tutorial or while climbing Darkstone Tower. Ella’s staff must be an artifact too. When we get back to Aurora, I’m buying her free drinks for life.
+
+He laughed while letting his friends know what had happened. They examined his axe at length, marveling over the energy it emitted while pondering what powers it might hold. When they were done, everyone pulled up their menus to peruse their gains, savoring the moment while examining their extensive lists of rewards.
+
+After the team had recovered their vital energy and come down from their post-battle high, he placed the magitech components into his pack, strapped his old axe to his back, and hefted his artifact weapon over his shoulder, which he’d decided to call Fang for short.
+
+Side by side, the five of them stepped through the portal that had appeared a few minutes ago, left the dungeon, and returned to Earth—far stronger than when they’d passed the other way.

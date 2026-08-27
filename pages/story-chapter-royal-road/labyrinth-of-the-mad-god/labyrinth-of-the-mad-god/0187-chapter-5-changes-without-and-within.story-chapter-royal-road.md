@@ -1,0 +1,105 @@
+---
+id: 7a587c46-b6b9-5d91-9855-663a5932db42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Changes Without and Within"
+slug: 0187-chapter-5-changes-without-and-within
+partOf: labyrinth-of-the-mad-god
+position: 187
+ownLength: 2037
+unit: words
+publishedAt: 2025-06-25
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2384975/chapter-5-changes-without-and-within"
+royalRoadId: "2384975"
+---
+
+Once Nick reached the bottom of the hill, he picked out a path and started jogging.
+
+The level terrain offered adequate traction and was open enough that he could see trouble coming well before it arrived. In short, it was a perfect place to take his newly-evolved body for a test drive.
+
+Nick had gotten a taste of what he could do during his battle with the Guardian, but he had been too busy fighting for his life to truly appreciate just how much he had grown after absorbing the Crimson Blight and acquiring the milestone bonus for evolving to Grade-D.
+
+Soon, he was moving at what would have been his top speed back in his old life without breaking a sweat. Even compared to the day before, he was running faster at a fraction of the effort. His body felt lithe and agile—stronger and more responsive than before. The weight of his gear was barely noticeable, and he darted around debris and skipped over stones with total confidence.
+
+His senses were sharper than ever, and his reaction time was dramatically improved. Even if something appeared and attacked him out of nowhere, Nick was certain that he could respond in the blink of an eye.
+
+The sun was bright, and the day was hot, but he still wasn’t sweating after running five miles in under twenty minutes. After taking a long look around to make sure that nothing dangerous was lurking nearby, he decided to pick up the pace and test the limits of his remarkable new physique.
+
+He whooped in delight as he poured on the speed—legs pumping like mad as the world was reduced to a streaking blur. He was shocked to discover that he could run faster than a bicycle, even without Force Acceleration.
+
+He laughed as he ran even faster, devouring the ground beneath his boots while touring his new home. Nick was barely even winded after running a half marathon at a pace that would leave an Olympic sprinter in the dust. Not to mention, carrying around 200 pounds worth of gear.
+
+Suddenly, the expanded Earth didn’t feel quite so big after all. By the time that the end of the one-year protection period rolled around, most people would be able to run almost as fast as a car could travel, without the need for roads or rails, although those would certainly come in handy.
+
+When he spotted a series of crevices ahead, he didn’t hesitate. Instead of slowing down or looking for a way around, he gathered his strength and leapt, gaining fifteen feet of air and crossing a dizzying stretch of soil in the blink of an eye. He hopped across the broken earth, gliding over the wide breaks like they were no more significant than cracks in the sidewalk.
+
+When the fissures came to an end, he decided to try sprinting at maximum speed. A plume of dust erupted behind him as Nick pushed his new body to the limit. Wind resistance pulled at his cheeks, whipping his hair around his face and setting his cloak flapping like a flag in a storm.
+
+His heart was racing, and sweat was running down his body, but he wasn’t too tired. In fact, he was convinced that he could keep this pace up for hours or jog at his previous rate all day long.
+
+He was tempted to try using Force Acceleration on top of everything else, although he was afraid of what might happen if he missed a step and took a bad fall. Then he remembered that he had gained just as much Toughness as everything else and realized that he could probably run right into a wall and come away with nothing worse than some scrapes and bruises.
+
+In that case… He gathered his concentration and switched the skill on. A great cloud of dust arose as Nick poured on the speed—feet hitting the ground multiple times per second. The wind was so intense that it distorted his features. Grit was getting in his eyes, so he closed the faceplate of his new helmet, then willed it to turn transparent. There. That’s better.
+
+He was running so fast that the world passed him by in a liquid blur of color and motion. Even with his upgraded attributes, he couldn’t keep up this pace for long. Force Acceleration sped up his movements, but it didn’t replace the stamina he used.
+
+On the other hand, he wasn’t burning through his energetic reserves nearly as quickly as before. His mana pool had doubled, and he was generating far more than before—dramatically expanding the limit of how long he could keep Force Acceleration running.
+
+For the first time, Force Acceleration actually felt like a passive ability—something that Nick could use for long stretches without running out of steam. It still drained his mana while he was sprinting at full speed, but it was nothing compared to before. If he kept increasing his Magic and put some more levels under his belt, he would eventually reach a point where he could use Force Acceleration freely, although it would still impede his mana regeneration.
+
+After about ten minutes of sprinting at a mind-numbing speed, the mana in his core had dipped below the halfway point and his stamina was nearly spent. It wasn’t a good idea to exhaust himself while surrounded by unknown dangers, so he decided pull back the throttle and continue his journey at a more reasonable rate.
+
+It meant that there was one last thing he needed to figure out—how to slow down without crashing spectacularly in the process.
+
+It was tricky dealing with so much momentum, but after a bit of trial and error and few uncomfortably close tests of balance, he learned how to moderate his pace without biting the dust. Instead of turning off Force Acceleration, he began by shortening his stride. When he thought he could handle it, he switched the ability off, pumping his legs like mad to make up the difference until he had his impetus under control.
+
+When he finally came to a skidding stop, Nick found himself standing at the border of a vast field of flowers. Their vivid hues came in every color of the rainbow and the blossoms smelled absolutely divine. This must be one of the sub-biomes the System mentioned. I wonder…
+
+His thought trailed off when he noticed that flowers weren’t just bright, they were glowing—electric shades of crimson and azure pulsing in time with the breeze.
+
+It was a stunning sight that filled him with the most profound sense of awe. He broke into a broad grin, reveling in the beauty of the resplendent display while internalizing the fact that his planet’s transformation had been as profound as his own—that while Nick was tackling the Mad God’s challenge, the Earth had become just as magical as the rest of the multiverse.
+
+When he switched his perception over to his energetic senses, a sight awaited him that blew him away. He turned in a slow circle, casting his gaze across the badlands from horizon to horizon. It’s not just the flowers. Magic is everywhere.
+
+He laughed—eyes wide with wonder as he realized that his homeworld was completely saturated in mana. Colorful weaves of elemental energy danced beside force, pure, and all the rest, thrumming across the surface of the globe. More of the shimmering bands stretched high into the sky and down into the dirt below his feet.
+
+It was a magnificent, dazzling array, highlighting just how much his home had changed in his absence. How much everything had changed since the System had arrived only a few short months ago. He stood there for a long while, taking it all in.
+
+Eventually, Nick realized that he could perceive a new type of mana—one that he hadn’t seen before. Although his energetic senses were sharper after evolving, he suspected that it was mostly due to the extra sensitivity he’d gained from his new Mana Manipulation trait.
+
+This flavor of mana, or perhaps frequency was the better word, was subtle yet incredibly powerful—alive and bursting with endless possibilities. The System mentioned that the Earth can generate its own mana now. I think what I’m sensing is life mana.
+
+Nick was pleased to learn that life mana didn’t seem to be elemental in nature, which meant that he could probably use it—once he learned to manipulate energy beyond the boundary of own body at any rate.
+
+On that note, he decided that it was a good time to check out the relevant sections of the Earth 2.0 Codex. Let’s see if there are any more surprises in store.
+
+Wait, my Planet can Level Up? (Planetary Levels)
+
+Your world has accumulated sufficient cosmic energy to reach level 1. In addition to triggering a cascade of changes for every creature on Earth, the planet itself has undergone a remarkable transformation.
+
+First and foremost, your world now has its own energetic core, generally referred to as a world core. This core is the fountainhead of the planet’s magic. As the Earth refines ambient cosmic energy, it will continue to produce a form of planetary energy known as life mana.
+
+This energy may take on additional aspects after resonating with various natural forces, many of which you should already be familiar with. For example, glacial expanses will produce ice mana, while volcanic regions will generate fire mana. While this is a dramatic oversimplification of a complex interaction, it should help you to understand what you are perceiving with your energetic senses.
+
+And that is only the beginning. A portion of the essence and experience you receive will automatically be transferred to the Earth’s core. Additional planetary experience may be earned by completing certain quests and other rare events. As a result, your planet’s world core can evolve over time, becoming more efficient at producing mana, and offering a range of other benefits to its inhabitants.
+
+More information will become available once the Earth is eligible to reach level 2. But in general, increasing your planet’s level will offer considerable advantages for surviving in the multiverse.
+
+Nick raised one eyebrow at the tone of the information provided in the codex. It was less formal than anything else the System had displayed, like it had been written by another entity altogether. Regardless of the details, he realized that forming a world core was a game-changing event—a pivotal moment in the story of life on Earth.
+
+It was also the realization of his childhood dream.
+
+Although the price had been far greater than he could have imagined, the Earth was now a place where magic would become a part of everyday life. As he pondered the matter, he opened the codex to the entry on biomes, since the information might help him decide where he wanted to go next.
+
+Understanding Biomes and Sub-Biomes
+
+One consequence of your planet forming a world core is that its plants and animals have been suffused with a continual supply of mana. This naturally leads to the formation of distinct strategies for incorporating magical energy, creating advanced ecosystems that are typically known as biomes.
+
+The organisms living within a given biome can work in concert to create various, spell-like effects. This can result in a range of manifestations—from protection against natural disasters to the formation of unique microclimates.
+
+The biggest difference between magical biomes and old-fashioned kinds are that rapid changes in temperature, weather, and biomass can occur over significantly shorter distances than would otherwise be possible.
+
+Although extreme differences are relatively uncommon, it is now feasible for a sweltering desert to exist in proximity to an arctic tundra. You will understand more of the details once you become adept at sensing the mana in your environment.
+
+Large biomes may feature multiple sub-biomes, each with distinct features. The reason for this classification is that the main biome tends to be relatively uniform, while the contents of its sub-biomes can vary wildly, like islands rising from the sea.
+
+Since your planet is new to magic, its biomes and the creatures living within them will continue to evolve at a rapid rate, before reaching a point of relative stability sometime over the next few centuries.

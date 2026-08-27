@@ -1,0 +1,205 @@
+---
+id: ae80326b-26b2-5188-a297-30e175cce4fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8 — Ancient Artifacts, Pt 3"
+slug: 0008-chapter-8-ancient-artifacts-pt-3
+partOf: just-add-mana
+position: 8
+ownLength: 2659
+unit: words
+ownProgress: 2659
+publishedAt: 2025-07-21
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2454114/chapter-8-ancient-artifacts-pt-3"
+royalRoadId: "2454114"
+markedReadAt: "2026-06-29T18:47:47.655Z"
+---
+
+"Do we have to go through this door?" Damien asked quietly, raising a hand. "Maybe we missed a pathway or something."
+
+"We didn't," Leo said, to Cale's surprise. "This is a unicursal labyrinth. It doesn't have any branching paths."
+
+Cale blinked. "Is that a thing? I thought all labyrinths were just mazes," he said. "Wait, how do you know that?"
+
+Leo hesitated, then mumbled something under his breath. Cale blinked, unsure if he'd heard that correctly. "Did you just say you have labyrinth instincts?"
+
+"It's not..." Leo sighed. "I'll tell you about it some other time, if you really want to know, but in short, yes. Sort of. This is all actually pretty uncomfortable for me. Feels like an itch in my brain." He shook his head. "I'd like to get through this as quickly as possible, if that's okay with you all."
+
+"Fine with me," Cale said, eyeing Leo curiously. He was hiding something, but then all of them were, really. "Seriously, though, light spells? Anyone?"
+
+Silence. All three of the other students stared at him dubiously. Eventually, Flia spoke.
+
+"This is the Astral Wing," she said. "You know what that means, don't you?"
+
+"I've been in this world for like two hours, so no, absolutely not."
+
+"What do you mean in this wo—" Flia cut herself off, letting out an aggrieved sigh. "Right, I forgot I need to just ignore you every time something crazy comes out of your mouth."
+
+"That's probably wise," Cale agreed helpfully. Flia gave him a look that said he was probably being a lot less helpful than he thought, though.
+
+Eh. Agree to disagree.
+
+After a moment, she sighed. "Students of the Astral Wing are all magically stunted in some way," Flia said, looking a little uncomfortable with her own phrasing. "Most of us have difficulty casting anything from the Standard Array, even with the Gift."
+
+"The Standard Array?" Cale asked.
+
+"A list of basic spells that every mage is expected to know," Flia said, giving him an odd look. "It helps standardize our capabilities for potential employers. Every mage has a specialty of some sort, but we're all expected to know the Standard Array."
+
+"Huh." That was a little strange, as far as Cale was concerned, but then magic tended to be less easily available in most of the worlds he visited. The Gift probably made it a lot easier to standardize magic, though he felt that made things a little boring.
+
+Good thing he was here to shake things up a bit.
+
+"Isn't the whole point of the Gift that it can adapt to the mana you feed it?" Cale asked. He'd more or less figured out the deal with the Astral Wing, but his assumption had been that the students in it were dangerous, not that they couldn't cast basic spells at all. They were kind of like him, in a way.
+
+Flia nodded. "Yes, and it does," she said. "None of us are incapable of magic the way we might be if we didn't have the Gift. But we get a very specific, limited set of spells, and we can't graduate without being able to complete the Standard Array."
+
+"Feels a bit shortsighted."
+
+"It is what it is," Flia grunted. She looked resigned. "[Bestow Light] is part of the Standard Array, so no, none of us can cast it. We don't have any spells that create light as a side effect, either, unless one of you has something I don't know about?"
+
+She glanced at the others, but Damien and Leo only shook their heads. Cale raised a hand. "I have an eighth tier spell that lets me turn things into plasma, which technically creates light," he said brightly.
+
+Flia opened her mouth, then closed it again and just nodded tiredly. "You know what? Sure."
+
+"So what kind of magic can you two do?" Cale asked. Both Flia and Leo began studiously avoiding his gaze, so he continued, undeterred. "Damien's stuck with decay spells, I know that much. What about you two?"
+
+"It's a little rude to ask that, just so you know," Flia muttered under her breath, but it was more perfunctory than anything else; evidently, she'd given up on expecting him to follow anything approaching societal convention. Cale waited for a beat, almost expecting the Gift to give him another level in [Blabbermouth], but nothing happened. Instead, Flia drew back slightly and pointed a finger at the floor.
+
+"[Spray]," she intoned. Water sprayed out of her finger.
+
+Cale watched the puddle on the floor for a moment, then tilted his head. "Is something supposed to happen?"
+
+Flia rummaged about in her satchel. "Watch," she said. She pulled out a stick, then slowly pushed it into the puddle. Cale watched with interest as the stick slowly disappeared, inch by inch, until it was completely submerged.
+
+"Do you keep a stick with you just to demonstrate this?" Cale asked curiously.
+
+Flia glared at him as if he'd said something terribly offensive. "This is my wand."
+
+[Blabbermouth] has reached level 5!
+
+Ah, there it was. Cale coughed awkwardly. "Sorry," he said. "It really just kind of looked like a stick."
+
+[Blabbermouth] has reached level 6!
+
+"I should probably stop talking," he said. Flia glared at him for a moment longer, then just sighed.
+
+"Whatever," she said. She glanced back at her wand, her lips twitching slightly. "...It does kind of just look like a stick, doesn't it?"
+
+"Technically, all wands are just sticks," Cale agreed, relieved. Flia's lips twitched again before she let out what sounded like a very un-Flia-like giggle. Cale raised an eyebrow. "Was that—"
+
+"I have a deep-sea attunement," Flia said quickly. "Any water I generate leads into an endless abyss of water. It's a rare attunement, so we don't know much about it, but among my people it's known as the Leviathan's Curse."
+
+"Okay," Cale said after a moment, slightly thrown by the change in subject. "And this is a problem because..."
+
+"Because it's a sticky attunement," Flia said with a sigh. "Most of us Astrals have those. We can't attune our cores to anything else, so we're stuck with the Gift giving us spells in one specific area. My family—they're healers, Cale. I can't heal with a deep-sea attunement. I can barely cast normal water spells without endangering the people around me."
+
+Cale frowned in thought. He'd met people with deep-sea attuned cores before, and the spells they cast had never quite manifested like this. They tended to be mages that wielded enormous volumes of water at any given time, not mages whose spells created portals into the deep sea.
+
+That thing about it being called the Leviathan's Curse, though? That was interesting. It wasn't often Cale heard anything about the Leviathan. It preferred to keep to itself, nesting between universes in an endless abyss of water.
+
+Which, now that he thought about it, sounded a lot like what Flia's magic was doing. Cale knelt by the puddle, poking at it experimentally. It felt like regular water. He cupped his hands around some of it.
+
+"What are you doing?" Flia asked.
+
+At the same time, Damien made a strangled sort of noise. "Cale, didn't we say you weren't going to—"
+
+Cale licked the water, then took a tentative sip. He made a face. "Salty," he remarked.
+
+"Cale, you need to stop eating magic," Damien groaned.
+
+Flia stared. "Are you saying he's done it before?"
+
+"He ate my decay mana," Damien mumbled.
+
+"He what."
+
+"Is that possible?" Leo asked. "What happened to him?"
+
+"Nothing," Damien said. "He claims he's immune—Cale!"
+
+While they were talking, Cale had shoved his entire face into the puddle, shaping careful barriers around his eyes so the salt water wouldn't blind him. It wasn't as dark as an endless water dimension might have been, but only because there was something there, emitting light.
+
+Then both Flia and Damien wrenched him out of the puddle. Flia dispelled the remnants of her magic before he could try to dive into it again. "Hey!" Cale complained. "I was about to try talking to the Leviathan!"
+
+"You were what," Flia said. "No. Absolutely not. You know what? I'm not casting spells around you anymore."
+
+"But—"
+
+"You, of all people, are not going to talk to the Leviathan," Flia said. "You're going to get us all killed."
+
+"I would not," Cale huffed. He didn't argue, though. It wasn't like he was going to be able to convince them of anything—his plan probably did sound borderline insane, from their perspective.
+
+He'd get an opportunity eventually. Or he might have to do more research. He felt like there might be something he was forgetting about this whole Leviathan's Curse thing.
+
+"I could tell you about my core," Leo offered, looking a bit uncomfortable. Cale brightened instantly.
+
+"For the record, I know you're distracting me, and it's absolutely working," he said. "Continue."
+
+"The Gift only allows me to learn labyrinth-related spells," Leo explained. "I have a sticky attunement, like Flia, but mine is labyrinth-attuned. It's why I was so unhappy with Imrys sending us here. I'm supposed to be trying to attune outside my base attunement."
+
+"Is that why you looked so depressed when we were thrown in here?" Cale asked.
+
+Leo sighed. "Yes," he said. "I didn't want to get too into it, but we minotaurs have a complicated relationship with labyrinths. Labyrinth-attuned cores are... they're very rare, and they're also very dangerous, at least for our kind."
+
+Cale frowned. "Why?"
+
+"We call it the Impetus of Asterion." Leo gripped his book bag a little more tightly, avoiding his gaze. "Every minotaur experiences it. They're the labyrinth instincts I was talking about—we feel a pull toward labyrinths and labyrinth-like structures, and we have an instinctive grasp of how they work."
+
+"That doesn't sound like that much of a problem," Cale said, but Leo shook his head.
+
+"I'm an exception," he said. "My core mitigates the worst of the Impetus. For most other minotaurs, it's much worse. They start to lose their minds if left in a labyrinth for too long. The Impetus consumes them and leaves them with nothing more than the instinct to wander the labyrinth they're in."
+
+"Ah." Cale was silent for a moment. "And you can't just avoid casting spells, can you?"
+
+"No." Leo glanced down, and though he tried to hide it, Cale could see he was starting to shake slightly. His grip on his book bag was hard enough now that his knuckles were slowly turning white. "Labyrinth magic does trigger the Impetus, but because it's my base attunement, just being around any other minotaur carries a risk of inflicting them with labyrinth madness. It wasn't as bad when I was a child, but once my core developed, it... it started affecting the people around me."
+
+Flia reached up and put a hand on Leo's arm as if to reassure him. Slowly, the trembling eased, although the pain in Leo's voice didn't.
+
+"I can't be around any of my own kind," he said. "I can't even visit the nearest cities or towns for fear of running into another minotaur. My parents—"
+
+He cut himself off, unable to finish the sentence. Flia watched him for a moment, then spoke.
+
+"Do you want me to tell him?" she asked, her voice surprisingly gentle. When Leo nodded slowly, she turned to Cale, and he saw that despite her tone, there was something hard and steely in her eyes. "His parents tried to kill him."
+
+Cale froze. "What."
+
+"Like I said, just being around me comes with the risk of inflicting labyrinth madness on any minotaur around me," Leo said quietly, slumping back against one of the walls of the labyrinth. "Not only that, but the Gift tends to give anyone with a labyrinth core a lot of aurics. They knew it was only a matter of time before I became a danger to the whole village. I don't think they were actually planning to do it, but my core must have been leaking particularly badly that day, and one thing led to another..."
+
+He took a deep breath. "If my neighbors hadn't decided to visit that day, I might be dead," he said, trying his best to seem impassive. Flia was giving him a hard stare, although Leo didn't seem to notice; neither of them caught the way Cale's hands balled into fists. "They managed to snap mom and dad out of it. After that, they decided to send me to the Academy to see if I could control or change my core. We're trying to do a full core realignment—my attunement isn't so sticky that it's impossible, just really hard."
+
+Leo's expression turned frustrated, then. "Which is why Imrys shouldn't have put us here," he said. "I need to talk to Akkau about this once we get out. Just... don't ask me to use any of my magic in the meantime, please. If I cast even a single spell in here, I'm going to lose weeks of progress. Maybe months."
+
+"I see," Cale said. "Can you tell me what your parents did that day, exactly?"
+
+"There was a knife." Leo grimaced, clearly uncomfortable. "I don't want to get into it. Can we move on?"
+
+"In a moment. Will they be coming to the Academy?"
+
+"Why are you so stuck on this?" Leo asked, raising his voice slightly. "They joined the Red Hunters, so yes, probably! But I don't... I'm not going to see them, okay? They don't want to see me, either. We both know what could happen. Don't worry about it."
+
+"Sure," Cale said. He turned and pulled the door open. "All right. Let's move, then."
+
+He lifted a hand and summoned a ball of mana, and as the other three students watched, he began to pack more and more magic into it. He might not have had a dedicated light spell, but all mana had a sort of innate glow—he could accomplish the same thing a light spell did just by throwing enough mana at the problem.
+
+You have learned [Bestow Light]!
+
+Cale glanced at the message from the Gift, then kept walking. They needed to get to the Labyrinth Seed to get this test over with, and he wasn't about to let some shadows get in his way.
+
+After that, he was going to find out everything he could about these so-called Red Hunters.
+
+—
+
+Damien stared after Cale as he walked. Flia and Leo were equally speechless, but they seemed more focused on the mana-ball than anything—conjuring enough mana to make light without using a spell for it was... well, it was an enormous waste of mana for any mage.
+
+But that wasn't what bothered him. He hadn't known Cale for all that long, but there was something in him that changed the moment Leo mentioned his parents and what they'd intended for him. Like a light had gone out in his eyes.
+
+Or like a mask had slipped.
+
+Damien hoped against hope that Cale wasn't planning anything stupid. If he acted out while the Red Hunters were here, there was a good chance it wouldn't just be him that took the fall. They were looking for reasons to abolish the Astral Wing as it was—Akkau was the only one standing in their way, and the Headmaster had seemed more and more... frail wasn't the right word for it, but Damien didn't know how else to put it. It was like there was something weighing on him.
+
+Though strangely enough, that weight had seemed much lighter earlier, when Akkau was talking to Cale. Damien furrowed his brows slightly at that realization, then hurried after the others.
+
+He'd have to talk to Cale later. Make sure the human didn't do anything too dangerous when the Red Hunters were around.
+
+Come to think of it, Cale hadn't explained what his anomaly was, had he?
+
+Damien wasn't quite sure what to make of that.

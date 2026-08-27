@@ -1,0 +1,161 @@
+---
+id: 572bd7e9-c0a3-598f-9df4-50f0dd6f5ffe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 — Roommate Etiquette, Pt 2"
+slug: 0005-chapter-5-roommate-etiquette-pt-2
+partOf: just-add-mana
+position: 5
+ownLength: 2390
+unit: words
+ownProgress: 2390
+publishedAt: 2025-07-17
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442678/chapter-5-roommate-etiquette-pt-2"
+royalRoadId: "2442678"
+markedReadAt: "2026-06-29T18:47:41.537Z"
+---
+
+A few minutes later, Cale sat up expectantly, glancing at the door. Damien was sitting on his bed, alternating between experimenting with his mana and trying to pretend he wasn't sneaking half-curious, half-terrified glances at Cale.
+
+Then a knock sounded, and Damien immediately shrank back, giving the door a nervous look. Poor thing probably wasn't used to a single guest in any given day, let alone multiple visits. Cale gave him a sympathetic look, then walked over to open it—he'd sensed Akkau's mana even before the dragon had started knocking. He'd been waiting for this.
+
+"Akkau!" he said happily. "Come on in!"
+
+Damien gave him a terrified look. "You can't just call him by his first name!"
+
+"Why not?" Cale asked blankly. Damien just sank his face into his pillow. A moment later, Akkau entered the room, expression bemused.
+
+"You are settling in, I see," the dragon said impassively. "Good to see you, Damien. Cale, come with me."
+
+"Did you finish setting things up?" Cale asked. "That seems fast."
+
+"No. That will likely take at least a week," Akkau said plainly. "We have over a hundred different resonance courses. I am prioritizing the ones that will help you develop a [Baker's Domain], but there has been rather significant pushback from my faculty members, as it were."
+
+Cale frowned. "Really?" he asked. "They're not just gonna take your word for it?"
+
+"Many of our professors are archmages in their own right," Akkau said, arching a scaled brow. "And while they respect me and my position, they have their own... eccentricities, you could say. Many of them simply require proof of your talents before they will agree to your enrollment, and I did not think it would be an issue. Am I wrong?"
+
+"If they need me to prove myself, I guess I can do that," Cale said with a shrug. "Unless they want me to cast basic spells."
+
+"They are aware of the situation, though many of them need to see it for themselves to believe it," Akkau said dryly. "They have decided that you must prove to them you are as capable and experienced as I say. I suspect the process will be educational for all of us."
+
+Cale narrowed his eyes. "You want to figure out what I can do, too, don't you?"
+
+"I will admit to some curiosity." Akkau didn't seem to feel particularly guilty about it. If anything, the old dragon was wearing a subtle smirk. Cale grumbled under his breath.
+
+"Fine," he said. "What do I have to do?"
+
+"Each professor will come up with a test of their own and incorporate it into their classes so as to ensure minimal disruption," Akkau said. "You will attend classes according to your schedule, in other words, but you may be tested during them. Be aware that many of the rest of us will likely be observing, especially in the beginning."
+
+Cale scowled. "I told you I hated tests," he said, sighing dramatically. He didn't mind that much, though—an opportunity to flex his talents was always appreciated, as long as it was actually interesting. "They better be good. Don't just make me blast a target and call it a day."
+
+"I suspect you will not be disappointed," Akkau said, his lips twitching into a slight smile. He held out an old, tattered-looking scroll, and Cale took it, frowning. There was an enchantment on it, that much was clear. "This will be your preliminary schedule. I have taken the liberty of giving you our standard set of mandatory classes and a single resonance class to shadow, so that you know what to expect. More will be added to your timetable by the end of the week, once I have cleared your inclusion with the necessary teachers."
+
+Cale opened the scroll, eyeing it with some distaste. "How am I supposed to know when it's time for the next class?" he asked. "I don't see any clocks..."
+
+He trailed off. The scroll was vibrating.
+
+"Huh," he said.
+
+"I have taken the liberty of enchanting your scroll to alert you a short while before the start of a class, depending on distance," Akkau said. "There is also an enchanted timer in the upper right corner of the scroll, if you need to track the time."
+
+Cale eyed the scroll like it was going to bite him. "I feel like I should be offended."
+
+"You should be grateful. I left out the electrocution part of the enchantment."
+
+"Do you always go around electrocuting your students?" Cale asked, raising an eyebrow. He doubted Akkau had left it out to be kind. In fact, he was almost certain the only reason it had been left out was because the dragon knew he was immune to most mana types.
+
+"Bah. It is a minor zap at best." Akkau seemed far too smug about it, despite his words. Cale examined the scroll a little more carefully. There was the timer, the list of classes, a moving arrow that was presumably meant to guide him to the location of the next class, and...
+
+Cale paused. "There's a sound enchantment on this thing," he accused.
+
+"Is there now?" Akkau grinned. "Perhaps you should hurry."
+
+"You act like I'd be late if you didn't do this," Cale grumbled, ignoring the fact that he absolutely would have skipped a number of these classes without the "incentive" Akkau had built into the scroll. "I could just dispel this, you know. I can do a basic dispel."
+
+"You could," Akkau said agreeably. "But I suspect you will find these classes far more interesting than you expect. And allow me to remind you that a part of our agreement involves you helping my professors teach their classes—surely you have not forgotten?"
+
+Cale sighed. "I remember."
+
+"Besides," Akkau said. "Your first class is Ancient Artifacts. I presume this is the sort of thing you may be interested in?"
+
+"Depends," Cale said carefully. "Are we just studying some fake relics, or is this something that's actually interesting?"
+
+Akkau laughed. "I see you have much the same opinion on fake relics as our Ancient Artifacts professor," he said. "Imrys makes it a point to destroy any fake relics we come across. In fact, I believe the class you will be attending involves the identification of an unidentified relic. That is the sort of thing you have an interest in, I presume?"
+
+Cale blinked, then tried to swallow back the drool his traitorous body started producing. True unidentified relics in any academy were rare; most of them prioritized the safety of their students. He doubted this one was any different, but if there was even a chance that this was something he hadn't encountered before...
+
+"No?" he tried, though even as he said it he knew how unconvincing he sounded. Akkau simply stared at him with one eyebrow slightly raised, and Cale sighed. "You've only known me for like three hours," he complained. "You shouldn't know me this well."
+
+"You may be an anomaly, Cale Cadwell Cobbs," Akkau said, wearing the faintest hint of a smirk. "But you will find I am quite familiar with anomalies."
+
+"...Please just call me Cale."
+
+Damien watched as Cale left. Part of him still wondered if he was having some sort of prolonged, bizarre dream. Maybe some sort of seizure. He was pretty sure dreadshades weren't biologically capable of getting seizures, but then he'd been pretty sure of a lot of things less than an hour ago.
+
+Now it felt like he needed to reevaluate everything he thought he knew. As if being casually given something that should have been an archmage-level secret wasn't bad enough, Cale talked to the Headmaster like they were equals. And the Headmaster had been bantering back! He hadn't even seemed offended!
+
+Akkau was one of the most ruthless educators this side of the continent, beaten only by the last remaining Brightscale that headed the other major academy on the continent. The idea of just talking to him like they were friends was... it had to be against some kind of rule, right?
+
+Try as he might, Damien couldn't think of any rules Cale had broken.
+
+"I must have imagined that," he muttered, trying and failing to convince himself it was true. "Maybe I fell asleep and this is all a dream. That would make more sense."
+
+"You are quite awake, I am afraid," Akkau said, making Damien jump and pale. He'd forgotten the Headmaster was still in the room. "My apprentice simply has not yet learned of my rather exacting standards, though I will say it is rather refreshing to have a student that does not fear me."
+
+Damien blanched at the minor reprimand in the Headmaster's tone. He knew what it was like to be feared, but he couldn't help it. Akkau's magical presence made his every instinct scream at him to run, to grovel, to submit. He swallowed, then gathered himself to reply.
+
+"S-sorry, Headmaster," he said, hating the stutter in his voice. "I'm trying, but..."
+
+"Yes, yes," Akkau said, waving a hand dismissively. He didn't seem interested in continuing that line of conversation. "Do you not have the same class as Cale, Damien?"
+
+"O-oh! Right." Ancient Artifacts was one of the few classes held in the Astral Wing, and consequently one of the few classes he could actually attend, even if he still needed the Manamorphic Cloak to do it. He rapidly began gathering his things, drawing the cloak around his shoulders and shuddering at the sudden sensation of cold. "Thank you, Headmaster. I'll be there right away."
+
+"Remember," Akkau said. "The Red Hunters arrive in less than a week."
+
+Damien swallowed. He was well aware of that particular deadline. He knew what it meant for Akkau to accept him into this school, the risks the old dragon had been taking to give him a chance to learn. He needed to show that he had the potential to be more than a weapon, and he needed to do it by the end of his first year.
+
+Not only that, but he needed to pass inspection every time the Red Hunters came by. All the students assigned to the Astral Wing did, really. Once again, Damien wondered what it was about Cale that had gotten him assigned to this Wing—it was regularly thought of as the cursed Wing, even if it was clearly the Headmaster's favorite.
+
+"I know," he said finally, quietly. "I'm doing my best, sir."
+
+"See that you do." Akkau nodded gravely, then turned on his heel and began to leave. Damien stared after him for a moment, then spoke up before he could stop himself.
+
+"Sir?"
+
+Akkau stopped and turned. "What is it, Damien?"
+
+"Why is Cale in the Astral Wing?" he asked. "He's so..."
+
+Damien shrugged helplessly. Normal? That wasn't exactly the right word—everything about the man was as far from ordinary as he could get. But eccentricities and mana immunity aside, he hadn't seemed dangerous, and that was what the Astral Wing was for. Students that were a danger either to themselves or to others.
+
+Damien didn't know if Cale really deserved to be stuck in this Wing, of all places. "I just don't know if he should be here," he finished lamely. "Wouldn't he do better in one of the other Wings? I mean, he picked up a new spell so easily... and if he's here, the Hunters are going to ask questions..."
+
+To his surprise, Akkau smiled at him. "Cale is right where he should be, do not worry," he said. "As for the Hunters... I will deal with them. They will not interfere with Cale."
+
+With that, he turned and left. Damien stared helplessly after him. It wasn't that easy to just deal with the Red Hunters—they were the elites of the Orstrahl Army for a reason, and messing with them meant messing with the kingdom of Orstrahl.
+
+Who was Cale? Why was Akkau so invested in him?
+
+Damien shook his head, lost in thought, then yelped as the scroll he kept in his pocket delivered a tiny electrical zap. He was late. He snagged the last of his scrolls, hurried to the door, and stopped right at the threshold.
+
+He stared down at his hands, remembering what Cale had said. Part of him still thought it was just a fanciful sort of lie, but Cale seemed so... confident.
+
+She did a partial attunement to the space aspect, then decayed the space between her target and its destination.
+
+Was that actually possible?
+
+Damien was hesitant to use his magic at the best of times, but if Cale was right about this, then it had the potential to change everything for him. He might even be able to master the Manamorphic Cloak in time. He'd been limited by his magic for so long, and even after he'd managed to gain control of it, he hadn't been able to attune his mana to anything other than decay.
+
+The Manamorphic Cloak was supposed to help with that, but every time he thought he was on the verge of succeeding, his magic always rebounded. It was like it resisted being completely attuned to a different aspect. But if Cale was right, and a partial attunement was enough—if his decay could be more than just the decay of life—then that changed everything he knew about himself. About his own species.
+
+What were the odds that this relative stranger was right about something he'd had to live his entire life with? What were the odds that Cale knew more about him than he knew about himself?
+
+But maybe... maybe it was worth a try anyway. In the worst case, Jaxovar's suppression script would kick in before he did any real damage. That was the whole point of the Astral Wing—it allowed people like him to experiment with his magic without doing harm to others. He'd just...
+
+Damien hated to admit it, but some time in the last couple of weeks, he'd given up hope.
+
+And now, despite his best attempts to convince himself otherwise, he had it again.
+
+He took a breath he didn't really need, then carefully began to thread out his mana, feeling the Cloak beginning to flutter as its own magic activated. I just need to partially attune it to space, he told himself.
+
+Please. Please let this work.

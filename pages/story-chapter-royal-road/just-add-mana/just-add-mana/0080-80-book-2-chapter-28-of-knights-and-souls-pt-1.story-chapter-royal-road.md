@@ -1,0 +1,229 @@
+---
+id: 05de17b1-2225-5f19-97a6-16f2e2510340
+page-type-slug: story-chapter-royal-road
+title: "80 — Book 2, Chapter 28 — Of Knights and Souls, Pt 1"
+slug: 0080-80-book-2-chapter-28-of-knights-and-souls-pt-1
+partOf: just-add-mana
+position: 80
+ownLength: 3742
+unit: words
+ownProgress: 3742
+publishedAt: 2025-12-30
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2892755/80-book-2-chapter-28-of-knights-and-souls-pt-1"
+royalRoadId: "2892755"
+markedReadAt: "2026-06-29T18:50:23.167Z"
+---
+
+Angus had no real idea how much time passed between then and now. He only knew that at one moment, he was in the temple, having accomplished his life's work; he stood at the precipice of having answers for every question he had ever had, and he had so many questions. He hadn't been certain before, but once he was in the temple, he was sure that the temple was the source of all those legends about the Wanderer.
+
+What else could it be? Who else might have had knowledge of all those other realms? There were hints of it in the carvings around the temple, too, with a strange figure stepping his way through circles that presumably represented other realms; the only oddity was that the figure certainly wasn't a lizardfolk, but then even gods got things wrong sometimes, and he was more and more certain that whatever lay at the center of this temple, it was certainly some kind of god.
+
+The point was, it had answers. It could tell him everything he'd ever wondered about, everything he wanted to know about what had happened to the Golden Sands, or that flying fortress, and it could probably answer any of the questions he had about the Wanderer, too. He was done—he had spent his life searching, and he had found not only an answer but the motherlode of all answers. He'd been given a way to make things better for his clan, even, and all he had to do was get back to them.
+
+Except he'd never gotten back to them. He'd been ripped away before he could get any of his answers except one, and now he was here, standing in front of someone who looked for all the world like an ordinary elf.
+
+And whoever this was, he really did look ordinary. He wasn't breathtakingly handsome or beautiful, like so many elves were, at least within their definitions of beauty. Instead, he had a perfectly average face, black hair, and brown eyes. The only oddity was the scarring around his ears that made him look like a human instead of an elf, and if not for the faint glow of his skin, Angus might have assumed he really was a human.
+
+Though Angus was absolutely certain this creature in front of him was neither. Average looks or not, just being there made Angus feel like he was standing in front of a deep, yawning abyss that would swallow him whole and leave nothing behind. The worst part was his complete inability to turn away, or run, or do anything that wasn't just stare directly into what felt like the pure embodiment of evil.
+
+"Hm," the not-elf said, his ears twitching. "Not enough mana, but you'll have to do. I can stitch in enough to act as a catalyst."
+
+Shouldn't he be able to forcibly attune the mana that was holding him in place? It wasn't like he didn't have magic. Every atom of Angus felt like that was hopeless, but he forced himself to try anyway; he had, after all, spent his entire life being told what he was doing was hopeless. Easy enough to ignore it now.
+
+He might as well have been trying to dig through the desert with a spoon, for all the good it did. He gritted his teeth and tried again anyway, pushing and pushing until he found himself suddenly able to move his mouth.
+
+"Who are you?" he demanded. "What do you want?"
+
+The monster-in-disguise looked at him, mildly surprised. Unfortunately, it was the sort of mild surprise Angus himself might have felt if he was eating a meal and found one of his scales lodged in the meat. Distasteful and annoying, but nothing close to a threat.
+
+"Those are complicated questions," the monster said. "I don't think I feel like answering the first one. But I'll answer part of the second."
+
+The monster smiled at him, then, which was the moment Angus knew he would die—not even die, but something worse than death, something that would be used to torment everyone he knew. And the monster delighted in it, too. It liked the thought.
+
+"I want to turn you into a weapon," it said. "An endless storm to stoke the flames of war. A grander purpose than what you envisioned, don't you think?"
+
+Angus stared at it, saw with absolute certainty what would happen to him, and refused.
+
+This monster could freeze him in place with a thought. It could defend against even the best efforts of whatever god lay at the bottom of that temple, and rip him straight out of its grasp. But it couldn't control his thoughts or his mana, or at least it hadn't thought to do so, and that gave him an opening.
+
+He turned his mana in on himself, pouring all his accumulated power over the years into a single working strong enough to rip apart his own core and end his life before this monster could do anything with it. There was no choice left to him, no other winning play.
+
+But it was a winning play, at least as far as he was concerned. Angus refused to let this monster use him to hurt the clan he loved, and in its eyes he saw that as a promise, like it took a sickening sort of delight in what it would make him do.
+
+It took him a moment to realize his mana had frozen in place before he could complete his working. Angus felt a slow, sick horror rising in his gut.
+
+The monster had the gall to laugh.
+
+"I was wondering if you'd try," it said, amused. "You mages. Always so clever, looking for every little way out you can get. But I have use for you, which means you aren't allowed to die, understand?"
+
+Angus snarled in anger and despair, and he forced himself to try. Again and again, his mana inched forward toward his core. He threw his soul against the constraints forced on him, even when it began to rip him apart.
+
+Then the monster smiled at him, and he had the horrifying feeling that somehow, he had done exactly what it wanted. "Thank you," it said. "You've given me quite a good start. But I'll take it from here."
+
+It reached into him, its fingers sliding into his chest like it wasn't even there, and tore.
+
+Time passed once again, but worse. Angus couldn't pull his mind together enough to even wonder how much had gone by. He had at first, perhaps, but now?
+
+Now all he knew was pain, and all he could do was scream. All he wanted was to be whole again, to help his clan, to give them the tools they needed to survive, but no matter how he struggled, no matter how hard he tried to put himself back together, the pain continued to grow.
+
+But he needed to put himself back together. He had seen what that monster planned for him. Had glimpsed those plans in its eyes. If he didn't fix himself, he wouldn't be able to warn his clan. He wouldn't be able to stop what was coming. He wouldn't be able to go back to the temple, to ask it to help find the Wanderer, who was the only person that might be able to fix this.
+
+By the time a year had passed, Angus no longer remembered his thoughts about the Wanderer. His love for those legends and the hope it gave him had bled away, wrung dry by the constant, unending pain and struggle.
+
+His love for his clan remained, though. He needed to be whole, if only so he could warn them.
+
+After two years, he could no longer retain even that. He was left with little more than the desperate need to be whole.
+
+Then his opportunity came. He felt the pieces of his soul being brought together, and he surged desperately for it, except—
+
+—except what did it mean to be whole, now? This struggle was all he knew. He couldn't remember why he wanted it, only that he wanted it, and that wasn't enough for a soul to put itself back together.
+
+He struggled even harder, then, because it was the only thing he knew how to do, and if he struggled enough, then maybe he would accomplish it just enough to remember.
+
+He didn't. But water descended on him, cool and calm, pressing into his dreams and took hold of a hand he no longer remembered having.
+
+"I really, really want to be absolutely fucking furious right now," the water told him, which seemed like a strange thing for water to say. But it took away the pain, so he didn't mind. He'd listen to it forever if he could. "But I don't think that's what you need. You need to be whole again, and you need to remember why."
+
+He knew that. He could have told the water that himself, really. The problem was that he didn't remember why, and he didn't remember how to remember, either.
+
+The water seemed to sense that. It sighed gently, and cool relief swept once more through his soul.
+
+Then it took his hand and pointed. "Look, Angus," it said. "One of your tribesmen is here."
+
+Angus. That was his name. Angus looked, long enough to see the dull shape of another lizardfolk—right, he was a lizardfolk, he lived in the Golden Sands—and feel for their presence.
+
+Clarity shot through him, sharp and sudden. Kazza, he thought. The boy looked so much older than he last remembered, but he remembered him; he was along the young lizardfolk that occasionally escorted him out into the desert so he could search for the legends of his dreams. Him and that friend of his, Izzik...
+
+The clan. The Golden Sands. The temple and the legends—
+
+Being whole was his tribe. He had given his life for them, even if they didn't know it, and now he could see them again, even if it was just little Kazza, now strong and grown.
+
+For the first time in two years, Angus of the Golden Sands felt his soul begin to settle. It wasn't enough yet, though. He knew that instinctively. The years had left their scars on his soul, and those scars meant he would never be whole again.
+
+But this way, maybe he could die in peace? Even if he never got to see the results of his dreams, he knew Kazza was alright. That was...
+
+Well, it was almost enough.
+
+"No," the water said, gentle but determined. "We're going to put you back together. Just hold on."
+
+Damien could feel everyone's eyes on him, now. Kazza was still holding on to his hand, and his grip had gone almost painfully tight—for a moment, as Flia had brought the rogue mage's soul together again, the soul had formed a silhouette that Kazza clearly recognized. He made a stricken, horrified sound deep in his throat.
+
+"Old Angus," he said. "It was him? We thought he died in the Cascade. He was a breath mage like the rest of us. I do not understand how this happened."
+
+Cale frowned, something unrecognizable in his eyes. "That's... concerning," he said carefully, but Damien knew him well enough to know he was containing a much stronger reaction.
+
+"It is more than that." Kazza trembled, and Damien felt the grip on his hand tighten enough that he almost winced. He hid it, though. Kazza needed it to ground himself. "The Aspect Cascade killed more than half our clan. We have hated and cursed its very existence. If we had known that one of our own was taken and tortured to create it..."
+
+"Blame the one who did this, not yourselves," Cale said. Damien thought that was probably the only thing he could say, all things considered. "I certainly am."
+
+Well, the second part was a little more worrying.
+
+But now it was his turn. The soul couldn't become whole just from the reminder; the essence-stuff in it was scarred from all the time it had spent being torn apart. Damien's job was to soften it up with the Verdant Flame, and it was the only thing he couldn't actually prepare for.
+
+That was alright, Damien thought. He could do this. He had seen what Flia had seen, and a part of him was furious, but a much greater part of him wanted—needed to help this mage.
+
+He conjured an ember of the Verdant Flame and stepped forward, feeling Flia's Spark flow into his magic.
+
+"Just hold on," he said, repeating Flia's words. It came out stronger than he expected. "We'll bring you back."
+
+Damien didn't look up, even when Cale's eyes suddenly narrowed and his gaze snapped to the entrance.
+
+If there was a problem, Cale would deal with it. Damien had a job to do.
+
+The first thing Damien tried was simply pressing the conjured ember of the Verdant Flame against the remnants of Angus's soul, but he knew almost instantly that it wouldn't be that simple. Cale had said as much, but he'd wanted to try anyway. Even with Flia's Spark added to his magic, the flame just flickered uselessly against those calcified lumps of soul; the Verdant Flame was a representation of the cycle of life and death, and Damien didn't understand how souls fit into that.
+
+No surprise, then, that the raw mana would do nothing to help. The problem was that there was so little information out there about souls and what happened to them after death, and even if that information had been out there, Damien had spent most of his time learning to control his decay mana.
+
+Which he was regretting a little bit, now, even if he couldn't have known he would meet someone like Cale.
+
+He wasn't going to give up, though. "Leo?" he asked. "Have you read anything about what happens to souls after, um, death?"
+
+Leo blinked at him. "There are a lot of papers on it, but it's usually just speculation," he answered after a moment, then stepped over, concerned. "You're having trouble with the magic?"
+
+Damien nodded tightly. He was aware, distantly, that something was happening outside the tree; the barrier that protected them flickered occasionally, like Cale was having trouble keeping it up along with whatever else he was doing. The Aspect Cascade had likely calmed by now, even if it hadn't completely faded, so they weren't in danger...
+
+...well, they weren't in that much danger. Flia had a means of getting them out, and his job wasn't to worry. "The Verdant Flame is about cycles," he said, his voice trembling slightly. "About the decay that needs to happen before life can grow. I think. But I don't know how a soul fits into that."
+
+Leo frowned in thought. "Don't think I've read anything about soul decay," he muttered. He pulled off his pack and started picking out a variety of notebooks—carefully sorted, Damien noticed—before letting out a grunt of frustration. "Nothing about decay or cycles, but I read a paper once about aspects that require the mage to understand them. They're called tiered aspects, sometimes."
+
+The Gift had said something about [Legacy of the Verdant Flame] being able to evolve, hadn't it? Damien nodded for Leo to continue.
+
+"Most tiered aspects require something like resonance before a mage can unlock new effects with them." Leo's brows furrowed, as though he was just making a realization. "I think it might actually just be resonance, just by a different name. The paper talks about visiting places steeped in the aspect to better understand them."
+
+"Which isn't really an option right now," Damien said, and Leo nodded, flipping a page.
+
+"You can sometimes learn what you need from the aspect itself," he said. "It won't unlock itself for you, but it'll try to teach you what you need. You'll have to focus all your mana sense into the aspect as you conjure it."
+
+Damien nodded. That was enough for him to work with, and it made sense; even if he couldn't control the full power of the Verdant Flame, it wasn't like the aspect changed entirely just because his understanding did. At a very small scale, perhaps it was still affecting the soul.
+
+He just needed to understand how it worked.
+
+The light of the Verdant Flame was brilliant emerald-green, though the color was quickly swallowed by the off-white fragments of Angus's soul. Damien swallowed, suddenly hesitant. He'd done something like this only once before, in a fit of frustration and hatred with his decay aspect.
+
+It was a mistake. Decay was death and rot and disease, and by reaching into his mana he had—if only for a moment—connected himself with everything that was dead and dying. He felt the rot as it consumed them, that sense of their lives draining away and their bodies turning to dust.
+
+He'd been catatonic for almost a week, and he'd sworn he would never do that again. It reminded him too much of what he'd done.
+
+And yet if he didn't do this now, then he wouldn't be able to help Angus. He'd promised he would try, hadn't he?
+
+Damien took a deep breath, then pushed his senses into the Verdant Flame.
+
+The difference was staggering.
+
+Decay was there, ever-present. It had to be. He wouldn't have been able to attune for it at all if not for its close relationship with decay, and even now, he struggled to compose himself as death and rot once more invaded his mind.
+
+The only difference was that this time, he could sense what that decay was for. He felt the other side of the equation, the way the rot fed into nutrition, the way life bloomed from death.
+
+Nothing ends. It only changes form.
+
+That understanding fled from his mind almost as soon as he registered it, the breadth of its magnitude too large for him to handle in that moment. He couldn't spare the time to focus on it, anyway. Cale was doing something, and from the look on his face this was the one time Damien wasn't sure whether he'd easily come out on top. He hadn't looked scared, exactly, but his expression had done something complicated, like there was more to this than just evaporating a threat.
+
+Damien, on the other hand, needed to understand what the Verdant Flame was doing to Angus's soul. He focused his senses on that, pushing past the enormity of the cycle that threatened to overwhelm him and down into the minutiae; he didn't need to know how every single thing in the Great Realms decayed and contributed to life.
+
+He needed to know what happened to souls, and only souls.
+
+The boundary was there, at the edges of the Verdant Flame. He could feel the flame of mana licking up against fragments of shattered soul, and this time, he thought he could sense what was happening.
+
+The Verdant Flame, thanks to the help it received from Flia's Spark, was slowly causing the soul's essence to break apart.
+
+Damien's first instinct was to yank his flame away, but he controlled himself. If that was what the Flame was doing, then it was part of a cycle, and that meant this process fed into something else. More importantly, he needed it to break down Angus's essence, at least partially—the lizardfolk's soul had calcified into rigidity, preventing it from healing.
+
+He just couldn't do it at scale without understanding the other side of the equation. What happened to a soul after its essence broke down?
+
+Damien took a deep breath, pushing his focus even deeper. He needed to follow those broken-off particles of essence to understand what was happening, to understand what it was used for—
+
+—his vision split. Damien jerked back, his heart hammering. "What the fuck," he hissed, stumbling back until Leo caught him. He barely even registered that he'd cursed.
+
+"Damien?" Leo carefully set him upright again, worried. "Are you okay?"
+
+"F-fine," Damien said, even though he really wasn't.
+
+He'd gotten what he needed, sort of. For a fraction of a second, Damien's left eye witnessed a grand, impossible river that churned with the essence of innumerable souls, where every loose spray coalesced into a new, complete soul. It was breathtaking and beautiful, a forge in which every life was rebuilt for a new journey in the Great Realms.
+
+That wasn't what made him jerk back. It was what he had seen through his right eye.
+
+An inescapable, all-devouring maw that ate every scrap of essence that fell toward it, swimming toward the river. A violation of the cycle and everything he knew, determined to intercept and swallow everything that river had to offer.
+
+Damien's heart was still pounding.
+
+"What happened?" Leo asked him, concerned. Damien sighed and straightened, trying to find the words to explain.
+
+Then he frowned. "I don't... know," he said slowly. Leo gave him a strange look, and Damien just shrugged helplessly.
+
+"I think I saw something scary?" he said. "But I don't remember what it was anymore. Kinda like a bad dream."
+
+"Don't tell me you fell asleep trying to examine your mana," Syphus said, teasing.
+
+Damien made a face. "I don't know what happened, okay?" he complained. "But I think I have what I need. Sort of. I just need to figure out..."
+
+He trailed off, his brows drawing together in thought. He understood the cycle, maybe? When a person died, their soul would decay until it rejoined some great river that would churn up their essence until it was ready to be placed into a new soul, made up of little bits of everyone else's experiences.
+
+That was sort of terrifying to think about, actually. The beauty of his first impressions was rapidly fading. He really hoped that wasn't the only thing waiting for a soul after its body died.
+
+Anyway.
+
+That part he understood, and the Verdant Flame grew a little brighter in his palm, but it wasn't quite enough. There was something he was missing.
+
+If that was the intended route for a soul after death, then what exactly was happening to Cale Cadwell Cobbs every time he died? Where did he fit into the cycle?
+
+The Verdant Flame continued to burn merrily in his palm, but to Damien's eyes, it almost seemed like it was waiting for his answer.

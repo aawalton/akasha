@@ -1,0 +1,99 @@
+---
+id: 7c3c38ef-8905-520c-a793-3cd12f30d2f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: Intermission: Sophia and Devin 4"
+slug: 0077-chapter-40-intermission-sophia-and-devin-4
+partOf: labyrinth-of-the-mad-god
+position: 77
+ownLength: 2201
+unit: words
+publishedAt: 2024-10-18
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1857046/chapter-40-intermission-sophia-and-devin-4"
+royalRoadId: "1857046"
+---
+
+Sophia ducked beneath a wad of caustic green goop, ordering her summons to watch out for more before returning her attention to the battle ahead. The glob of acid went sailing over her shoulder and landed somewhere behind her back, hissing as it ate through the dirt covering the floor, all the way down to the raw stone beneath.
+
+She felt a stinging pain blossom on her cheek and realized that a few drops had hit her. She wiped them away with a rag, cast it to the ground, and got ready to attack again.
+
+Beside her, Devin was trading blows with one of the bright orange bugs, the type that could shoot fire from its mouth like a flamethrower. He pressed the button on the haft of his weapon, transforming the shape-changing tool into its hand axe and shield configuration, guarding his gear as the blazing cone washed over his head.
+
+The killer bug clearly expected the attack to be fatal, but Devin’s class was specialized in the use of burning attacks. The man had a passive ability that made him highly resistant to intense heat, including the flames released by his own powers. He also had his new helmet, which became transparent whenever he wanted, making it look like his head was exposed.
+
+The roach realized that something was wrong when Devin kept right on coming, plunging straight through the jet of fire to arrive in front of its position. The beast cut its attack short and tried to scramble back toward the horde, but it was already too late.
+
+Before it could finish turning around, Devin was there. His axe was already back in its two-handed configuration, held above his head and poised to strike. He brought it down with the full power of his athletic body behind it, chopping into the chitin exoskeleton shielding the creature’s head and carving deep into the brain below.
+
+By now, the roach that had fired acid at her was getting ready to take a second shot, but Sophia wasn’t about to let that happen. Before the acid-spewing bug could let loose, a pink tongue tipped with a thick black spike hit it hard, causing it to abort its attack as the rubbery appendage wrapped tight around three of its legs.
+
+The crimson frog retracted its tongue, pulling the acid-roach across the battlefield and into her reach. Then the summon moved to engage a pair of the basic variants that were circling around to attack her from behind.
+
+Sophia lashed out with her arena dagger, avoiding a pair of razored mandibles to plunge the tip of her weapon into the killer insect’s head, penetrating its armor and stabbing into the tissue below. She jerked her dagger free and then leapt back, narrowly avoiding the mandible of a second roach in the process, which had broken away from her frog while it was locked in melee with the first.
+
+Before she could find an opening, it charged and prepared to lunge. As it came streaking for her in a bladed blur, a massive axe came soaring down. It caught the beast in the middle of its thorax before erupting out the other side in a spray of clear ichor, nearly cutting the creature in half.
+
+“Thanks Devin.” She reached to her belt, secured her dagger, and slid a pair of throwing knives out of their sheaths. She took aim for the nearest bug and let loose. One knife flew wide and went skittering along the floor. But the other planted itself into a compound eye, severely wounding the creature. She held out her arms while sending her intentions into the weapons, and they came flying back into her outstretched hands.
+
+“Those new daggers you got are great,” Devin said as he moved to engage another opponent. “But I think we’re in trouble. If the roaches decide to send more than token forces our way, or that monster manages to break through, we’re not going to last more than a few minutes past that point. We’ve done a good job conserving our mana and stamina so far, but there is no end in sight.”
+
+“I still have two of the mana potions I picked from the list of consumables,” Sophia replied. “Plus the stamina potion I got from V. I can summon quite a few more beasts before I’m down to my melee weapons. Maybe it’s time to use them. We’re going to have to risk it all and try to break through before long.” She sighed, fighting to catch her breath during a momentary lull in the battle.
+
+“But I’m worried that those invisible attacks will take us out the moment that we step into range. For some reason, that monster seems way more interested in us than engaging the superior force.”
+
+“Hold off a little longer,” Devin suggested. “We should wait for an opening first. If we get pressed hard, I’ll keep them busy while you summon up some reinforcements. Then we can make a push and pray we can get around that thing without getting squished to paste in the process.”
+
+Since there weren’t any roaches headed their way at the moment, she cast her gaze across the massive enclosure, where a brutal war raged on. In the opposite corner, the roach queen sat directing her troops, coordinating their movements while casting some manner of magic that enhanced her forces’ speed, strength, and durability.
+
+Although the beasts had taken considerable losses since the battle had begun a little over ten minutes ago, they still were hundreds of members strong, including at least fifty of the elite variants guarding the queen.
+
+They occasionally sent units at the machine that Sophia and Devin were standing in front of. But most of their attention was focused on the monster in the middle of the room. The thing that had been chasing them for hours before they had run into the roaches’ den and gotten themselves trapped with no easy way out.
+
+The giant creature seemed intent on having the two of them for lunch. Its advances in their direction had an air of desperation, which somehow gave Sophia the impression of a man dying from thirst reaching for a glass of water.
+
+While it stopped to devour an occasional beast, they didn’t seem to ease the creature’s hunger. She suspected that it wouldn’t be willing to fight the roach army at all if it wasn’t so eager to get them. She thought it was afraid that if it pulled back, the roaches would eat them instead. Which, to be fair, seemed rather likely from her perspective as well.
+
+In its white form, the monster looked like a six-legged shark the size of a school bus. Its white body was oblong, with sleek, almost stylized curves that made it seem as much of a military vehicle as it did a living creature.
+
+Its front feet ended in wicked claws the size of scimitars, and its eyeless maw contained row after row of jagged teeth. But it wasn’t the creature’s powerful body that made the prospect of facing it in melee seem like a recipe for disaster. It was the lethal magic it employed.
+
+While it was more than capable of rending flesh with its colossal claws and jaws, its true threat came from the invisible attacks it continuously launched against the roaches assailing it. Most of them died before they could reach it in melee.
+
+By this point, Sophia had watched on as dozens of the oversized bugs were crushed, smashed, and occasionally picked up and thrown across the room. Although some were able to slice the monster with their mandibles before that happened.
+
+The acid and flame-wielding variants had better luck landing hits. But even when they did, it didn’t seem to do much good. While the roaches’ attacks appeared to damage the creature, burning, dissolving, or carving away at its white plating, the wounds healed within minutes. Just like the damage her wasps had inflicted earlier.
+
+Sophia was sure that there had to be a limit to how much the monster could heal. But she had no idea if it would reach that threshold before it broke through and came for them. She doubted they would survive five minutes past that point.
+
+They wouldn’t have lived this long to begin with if the roaches weren’t more concerned with taking out the monster than the pair of humans huddling in the corner. In the effort to protect their queen, the big bugs were inadvertently shielding Sophia and Devin too, even if they occasionally launched an attack their way.
+
+While they had managed to endure the assault for longer than she’d dared to hope, the stalemate couldn’t last. The lesser roaches were in the middle of securing the queen’s eggs to their backs. They were going to make a break for it themselves when they finished.
+
+When they did, nothing would be left to hold the monster back. However, it seemed that matters were fated to take a dramatic turn for the worse even sooner than that.
+
+“Shit,” Devin said. “The big bastard took out the last squad faster than usual. I think that it’s going to reach us sometime within the next two minutes. Brace yourself Soph. We need to survive its initial attack, then circle around and leave the way we came in. It’s the only chance we have, miserable as it may be. Drop back and start summoning us a distraction. It’s time to go all in and get out of here while we still can. If this doesn’t work… well, it was an honor fighting by your side.”
+
+No sooner had those words left his lips than their worst fears were realized. The white creature finished mowing down an entire squadron of bugs, reducing them to goo within a handful of heartbeats. The roach queen sent another set while preparing to head out. But the beasts weren’t going to reach their corner of the room before the creature advanced.
+
+The white shark surged forth a deep breath later, closing the distance with disheartening speed. In another few seconds, they would be in range of its mysterious attack, and Sophia and Devin couldn’t hope to dodge what they couldn’t see. She ordered her frog to defend Devin, then began gathering her concentration to start summoning more frostfury wasps.
+
+Shit, maybe I should have called out the demon after all. Though it would have left me helpless and surrounded by bugs, even if I was able to win. It’s too late for what if’s now. We need to find a way to break free and escape.
+
+Watching the monster streak toward them, she knew that their odds of survival fell somewhere between slim and none. That she was experiencing what would likely be the last moment of her life.
+
+By now, the first pair of frostfury wasps had finished forming. She sent them ahead to distract the creature before it arrived. She ordered them to strafe their target instead of trying to land a sting, so that they didn’t get taken out right away. It bought them another few seconds to prepare but didn’t do much to change the dynamics of their dilemma.
+
+Sophia and Devin braced themselves to go all out, ready to blow through their consumable items and the rest of their energetic reserves. She took a deep breath and steeled her resolve, intending to fight her way free or go out in a blaze of glory trying.
+
+But just before the creature could close the last stretch of stinking soil in between its location and the corner they were in, a barrage of ranged attacks hit the monster from behind. It stopped, spinning to face its assailants, giving the next squadron of bugs time to reach its position and engage.
+
+When Sophia saw what had delayed the monster’s advance, she began to laugh, relief mingling with terror in that moment. “It’s them. They’re finally here. Nick and Veronica have arrived on scene!”
+
+For a second, she thought that Kenji was with them too, but then she saw that it was someone else. She didn’t have time to worry about what it meant as she called her wasps back to hover above her head.
+
+The other party followed the wall and arrived at their position a few seconds later. Nick came to a skidding stop beside her, standing shoulder to shoulder, while Veronica darted over to stand with Devin. “Did you miss me?” Nick grinned while pulling his sword out of his pack.
+
+“You have no idea.” She laughed despite herself.
+
+While it was still a bad situation, it felt like a ray of light had penetrated the black moment, offering a tantalizing glimmer of hope. At long last, after fighting their way across the basement of the tower, the team was back together again. Now they just needed to find some way out of this mess and get the hell off this floor.
+
+That was when Sophia realized who the third fighter to join them was. A young man with a bow strapped across his back, and the last person she had expected to see. “Wait. Is that fucking Shaun?”

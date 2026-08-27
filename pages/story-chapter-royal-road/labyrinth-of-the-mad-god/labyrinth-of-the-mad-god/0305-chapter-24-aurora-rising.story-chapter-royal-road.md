@@ -1,0 +1,95 @@
+---
+id: 5ec1704e-a971-5c13-9703-69063598646a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Aurora Rising"
+slug: 0305-chapter-24-aurora-rising
+partOf: labyrinth-of-the-mad-god
+position: 305
+ownLength: 1904
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3297723/chapter-24-aurora-rising"
+royalRoadId: "3297723"
+---
+
+“Good work, everyone.” Elizabeth ran her gaze across the group seated around the table, making eye contact with each person in turn.
+
+“That concludes today’s meeting of the city-planning committee. Before we leave, can I get a round of applause for Ming and her team? You guys have gone above and beyond over the last few weeks, working around the clock to build homes for our expanding population far faster than we planned. I’m awarding you some extra Contribution Tokens and will get them to you a little later in the day.
+
+“I’ll see most of you this afternoon for our weekly meeting with the leaders of Shady Cave, Desert Rose, and Dragon’s Tooth. Try not to be late, we have representatives arriving from two other settlements who are applying to join our faction, and I want to put our best foot forward.”
+
+With that, the committee rose from their seats and left the conference room, dispersing to deal with a wide range of issues that came with running a city of this size. Elizabeth had quite a few items she wanted to take care of over the next few hours, so she started walking while devouring a sandwich one of the cooks had been kind enough to deliver from the mess hall.
+
+These new vegetables and spices are amazing. I can’t wait to show Nick when he gets back from his quest.
+
+She missed having him around more than ever after confessing their love for one another. But she had known from the start that Aurora’s champion would be gone for long stretches at a time, dealing with matters that were vital to humanity’s survival. His mission was dangerous, she had faith that Kenji and Nick would prevail and return home safe, sound, and stronger than ever.
+
+Liz enjoyed a pleasant fantasy of what she would do to celebrate his arrival then got her head back in the game, contemplating how far the settlement had come in such a short span of time and prioritizing her lengthy list of goals.
+
+Thanks to Ming’s brilliance and all the new people that had joined the construction crew, the city was growing faster than ever. The modular design the planning committee had come up with would eventually form sixteen wedge-shaped boroughs around the lake, with each slice containing its own residential, industrial, and commercial district.
+
+When Nick left for the Labyrinth, only a fraction of the first borough had been completed. Now, the commercial and industrial blocks were almost filled in. The second borough’s residential district was already half full, and plans to break ground on the third were well under way.
+
+Fortunately, we don’t need to build any new infrastructure just yet, other than roads and running water for all the houses. While these thoughts crossed her mind, Liz left the residential district, passing through the commercial sector on her way to the inner city. It would be a while before Aurora’s economy was fully formed, but new goods and services were appearing by the day, and the scouting teams were locating promising resources every time they surveyed a new sub-biome.
+
+A few minutes later, she crossed the inner ring road and arrived at Aurora’s heart. The blocks bordering the lake featured districts that were unique instead of modular. They included the entertainment district, where people could drink, dance, and listen to live music, enjoying each other’s company over lunch or unwinding at the end of a long day.
+
+Next was the research sector, where people were studying the laws of their new reality, including System mechanics, vital energy, mana wells, and the puzzle door beneath the lake. Beside it was the education district, where individuals were conducting classes on a wide range of subjects, teaching each other the skills needed to survive in the wild, how to make the most of their Professions, and countless other topics besides.
+
+The martial and medical blocks were side by side. Right now, they only featured a few buildings each, including the training hall, firing range, and clinic. But plans were in motion to complete an area where people could practice fighting in formation, and a hospital, once they had doctors to staff it and the alchemists had made more progress on producing medicines and the like.
+
+Last came the diplomacy district, where the city’s various committees met with each other and representatives from other settlements. Elizabeth toured each district in turn, keeping tabs on their growth while eavesdropping on the conversations of the people walking by—many of whom were strangers to her.
+
+At first, only the core members of Team Earth had strolled down Aurora’s streets, but now unfamiliar faces were a common sight. Visitors from other settlements in their alliance passed through the portal every day, including ascended beasts who were just as intelligent as humans.
+
+Ella had her hands full as the city’s unofficial sheriff. Liz made a mental note to pin a badge on the woman soon and hire more peacekeepers help Ella handle the day-to-day disputes that were inevitable whenever so many people lived side by side.
+
+All in all, Elizabeth was thrilled by what they’d accomplished, and this was only the beginning.
+
+Their old way of life had been deeply flawed—a patchwork global society filled with obsolete laws and bloated economies that were structured to reward the few at the cost of the many and the health of the Earth itself.
+
+While she would never forgive the System for slaughtering her people and erasing their culture, history, and art, starting over with a blank slate—with no entrenched financial or national interests—offered humanity a second chance, and Liz was determined to pour her heart and soul into getting it right this time.
+
+The rise of magic, Psi, superhuman bodies, and a planet populated by countless intelligent species changed all the rules, and most people were willing, ever eager, to try something new. Surviving the Mad God’s challenge had united humankind like never before. With the clock ticking until the doors to the Labyrinth swung open, the emerging global community was prioritizing long-term survival over individual gain, especially now that they had lives that would span centuries or more.
+
+Weathering crisis after crisis had highlighted the failings of the old world. The ticking clock encouraged their best and brightest to build something better while presenting a united front. By this point, one truth was abundantly clear—if they didn’t work together and keep growing stronger, none of them would endure what was coming.
+
+That truth lay at the heart of what Liz was planning. It was the reason she put everything she had into building the settlement.
+
+Aurora wasn’t just a city where people could live well; it was an example of what humanity could achieve by pooling their amazing gifts. If she played her cards right over the next few months, the settlement would become a nexus of innovation, performing a pivotal role in the new age blossoming before her eyes.
+
+Team Earth had saved the world. Now it was time to chart the course they would follow into an uncertain future. Liz had never slept so little and never felt more alive.
+
+Right now, her biggest concerns were making the most of the Rebuilding Civilization period and maximizing her citizens’ advancement so they could endure the next crisis brewing along the horizon. At the top of the list was taking Aurora to Tier 6, and making sure they reached Tier 7 before the bonus quest ended, along with the Shroud of Protection sealing the rifts to the Labyrinth.
+
+She went ahead and pulled up her city menu, browsing the lists while she walked.
+
+Current Quests
+
+Form a faction that includes 20 other settlements.
+
+Rewards: City specialization (see codex for more information). Domain expansion. Upgraded portal network. Additional faction bonus (this bonus may only be obtained the first time a member reaches City Tier 6).
+
+The quest to take Aurora to Tier 6 was well on its way to completion. After scouting the bordering biomes and conferring with the leaders of Desert Rose and Dragon’s Tooth, they had identified over a dozen settlements that might be a good fit for their faction, and more were popping up every day.
+
+Additionally, seven beast tribes were interested in joining their alliance, in addition to the coyotes and the lemurs led by Nick’s friend Bandit. They could become full faction members when Nick finished his quest or if the city reached Tier 7 before he returned.
+
+While Liz was eager to expand Team Earth—linking more cities to the portal network and boosting Nick’s title in the process—it was important to choose settlements whose goals were truly compatible, at least in the short-term. Eventually, she hoped to form a global alliance comprised of multiple factions, giving the planet’s most powerful people a venue for mutual cooperation, but that was a matter for another day.
+
+She came to a stop at the border of the research and education districts, where Stan was working with the planning committee in preparation for placing Auroa’s next Rare building.
+
+Right now, they only had two Rare vouchers, including the one Sophia had earned while soloing a dungeon. But now that she knew it was possible to acquire more, Liz was hoping that Nick would pick up another as a quest-performance bonus, and Team Earth’s elites would follow suit before the Rebuilding Civilization quest ended and the System stopped generating quests within the Frontier.
+
+Aurora had also accrued a massive mound of City Points, which they were saving for some of the most expensive options on the list—magical assets that couldn’t be acquired any other way, such as the Monster Wards and Weather Barrier that now protected most of the Bladewind Badlands.
+
+The Rare building they were adding next was called the University, a building that promoted alertness and facilitated both learning and teaching. It would enhance their elites’ skill and ability growth, turbocharge the research team’s collective efforts, and further humanity’s development in countless ways besides.
+
+They just needed to add a few more mana wells to redeem the voucher, which the scouts had already located, and the settlement’s domain would encompass soon.
+
+And that wasn’t all. When Aurora hit City Tier 6, it would be eligible to choose a specialization—combat, commerce, or research and crafting. All skills related to that specialization would grow 25% faster if used within the city limits. Better still, the mana-well cost of all buildings related to their specialization would be cut in half, letting their energy support additional structures or be used in other ways.
+
+Since the skill-growth bonus only applied within the city limits, Liz planned to push hard for the research and crafting specialization. It would synergize with the University, the Magitech Research and Development Center, and the Item Modification Station, along with countless other endeavors taking place within the settlement.
+
+It would make the classes that were already being taught even more effective and help draw more talent to Aurora, cementing its status as a global center of industry and innovation.
+
+She came to a stop beside Stan, listening with one ear as he debated the merits of various locations. The rest of Elizabeth’s attention was focused on the future. She couldn’t wait to discover what tomorrow would bring as humanity rose from the ashes of the old world and carved out a place for themselves within the magical multiverse they now called home.

@@ -1,0 +1,73 @@
+---
+id: 04e5a41a-508e-5a73-a919-df1518cc5a62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 129: The War for Nick Henry"
+slug: 0170-chapter-129-the-war-for-nick-henry
+partOf: labyrinth-of-the-mad-god
+position: 170
+ownLength: 1441
+unit: words
+publishedAt: 2025-05-12
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2274509/chapter-129-the-war-for-nick-henry"
+royalRoadId: "2274509"
+---
+
+There was a disorienting, intensely weird moment of viewing his body from the inside, then Nick snapped back into his own skin.
+
+While he still had some measure of control, he reached into his pack and withdrew Blightbane, holding the hilt in a white-knuckled death grip. The instant that his fingers touched the sword, his mind erected a wall of dissociation around the center of his being, preventing the prolonged vision from changing him on a fundamental level.
+
+The alien memories separated from his own like oil over water, making it feel like he had heard about core’s epic saga secondhand instead of experiencing it himself. He could still recall what had happened in a general manner, but there was no longer the sense that it had happened to him.
+
+Witnessing the story of the Crimson Blight, over the span of millennia no less, was the strangest experience of Nick’s life, even by the standards of his new reality. He wondered if the blight’s core had watched every moment of his own, far briefer existence before deciding that it didn’t matter.
+
+Understanding his invader on such a fundamental level left no doubt that reconciliation was impossible. That coexistence beyond assimilation was anathema to the Crimson Blight’s path to power. He would either overcome it in a direct contest of wills or it would erase his consciousness, hijack his body, and bring ruin to all of humanity.
+
+After being linked so intimately, he could feel the core inside him—a second mind that was lurking within his brain, closer than his own shadow. In between the drawing of one breath and the next, the blight came out of hiding, and their battle began.
+
+The core went on the assault, hoping to overwhelm him in a flash. The blight wasn’t trying to control Nick anymore, it was attempting to devour him. To become him. To claim his mind, body, and soul for its own, and destroy him in the process. Before experiencing his latest vision, he wouldn’t have understood what was happening. Wouldn’t have grasped that resistance was possible or known how to fight back, even if he had.
+
+But now he knew his enemy well. Comprehended his invader’s capabilities on an instinctual level. Their link was a double-edged sword—a weapon that could cut both ways.
+
+Due to Nick’s rapid advancement and Blightbane’s protection, he stood on even footing with the creature enmeshed with the very fiber of his being. Here in this moment, the future of both entities was balanced on the edge of a knife.
+
+Within the next fleeting handful of heartbeats, their fate would be decided once and for all. It was time to see who lived and who died, Nicolas Henry, Champion of Earth, or the Calamity-Class Parasite known as the Crimson Blight.
+
+While the blight rallied to consume him, he launched his counterattack, trying to absorb the intruder dwelling inside him and claim its might for his own. This wasn’t just a matter of repelling a foreign invader from his body. It was far too late for that. Matters had progressed to the point where their essence, energetic cores, and genetic structures had merged.
+
+In that moment, their very souls went to war, each seeking to devour the other.
+
+This was a contest for Nick’s right to live in his own body. A battle for his agency and sense of self. His hopes and dreams—his very future. As important as those were, far more was at stake than his own survival. If he lost this fight, he would become a weapon of mass destruction. A threat even more perilous than the whims of Taltos the Mad God and the terrors of his Labyrinth.
+
+If Nick wanted to win, he had to struggle with everything he had. Wager it all and never look back. A single mistake—a split second of hesitation—would seal his doom. He called upon his Arctic Clarity, leaning on its frigid focus to ice over the dread that arose from realizing that the Crimson Blight had been inside him all along. That only Blightbane’s magic had prevented the core from taking control before he even knew it was there.
+
+He pushed past his fear and shut out his suffering. Everything except his desire to defeat the foul thing lurking inside him. It didn’t matter that he was fighting an entity that could control entire armies. A power that had nearly destroyed all life on Trell’s world. That he was just one man, flawed and frail, squaring off against an ancient creature capable of conquering the cosmos.
+
+He didn’t know what would happen when the dust settled, but there was one thing that he was absolutely certain of. A truth that resounded across his soul with a clarion cry. Nick wasn’t going down without a fight.
+
+There were many reasons why he struggled with everything he had over the next desperate minutes. The fate of his homeworld and the people he loved. His duty to his species and the next generation. But in the end, the heart of it came down to one simple truth. He wanted to live. In that one respect and that alone, Nick and the Crimson Blight felt exactly the same way.
+
+This was a war of wills, but also something more. It was a duel of memories and emotions. Of pleasure and pain. Ambitions, hopes, and dreams. A contest where the weapons were concepts and thoughts. Where images and suggestions could bite as deep as any blade. With that understanding, he conjured the Theater of his Mind’s Eye. A place where his imagination came to life in vivid detail.
+
+He visualized a wall around the foundation of his being. A shield to guard his mind and shelter his energetic core. A barrier harder than diamond and without flaw—able to withstand an endless assault.
+
+The blight attacked with the need to remake the multiverse in its own image. The joy of assimilation, and the satisfaction of bending nature to its will.
+
+Nick countered with memories of happy days with his family. Times of sorrow and loss. Of falling in love and learning to hate. Frustration at his own weakness and pride in humanity, as they rallied to rise from the ashes.
+
+He fought with every drop of his willpower and scrap of desire, wrestling with the mind that was bound to his own. He fought to claim each sliver of sensation, every daydream and ambition. Losing part of himself with every breath he took, before stealing the pieces back.
+
+This frantic back and forth further blurred the line between them. One second, Nick was himself, spasming beside a rather nervous-looking Devin. The next, he was a world-spanning calamity, reduced to the last vestige of its former glory.
+
+He could sense that their struggle had reached a critical juncture. That that this freakish moment of duality wouldn’t last for long. The entity in control when it came to an end would take possession of both genelines—the loser becoming fuel for the winner’s ascension.
+
+His fervent longing to live. His anger and his fear. Nick poured every ounce of himself into the weapon he was forging upon the anvil of his soul. All that he was and everything that he wanted to be.
+
+He drew upon his mana. His stamina. His very life. Every point of Toughness, Creativity, and Mind. He turned it all into a blade of self, then bet his future on a single attack. A make-or-break moment that would determine whether his legacy was greatness or the last nail in humanity’s coffin.
+
+Nick’s consciousness charged the core dwelling inside him—the monstrous creature that was trying to become him—and swung his sword as hard as he could. The blight met his advance with an attack of its own, and for the last time, their wills clashed, echoing throughout every atom of his being.
+
+Their power was nearly equal, but in the end, Nick won. By the narrowest of margins, his mental projection met the core’s and severed the center of its being. A psychic scream resounded across his psyche. Then the controlling core of the Crimson Blight dissolved, transforming into essence and other forms of energy that he had no words to describe.
+
+In the final moment before it faded away, the blight spoke to him for the first time. You were a worthy adversary. Well played. He sensed a grudging respect for his will to endure, and then it was gone. With the controlling core slain, the transformative energy swirling inside him was free to take a single course.
+
+At last, liberated from the invader within, Nick’s war ended, and his evolution began.

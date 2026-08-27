@@ -1,0 +1,89 @@
+---
+id: 0a4262a7-820c-5e54-b031-c62bb181786e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: The Janitor"
+slug: 0067-chapter-32-the-janitor
+partOf: labyrinth-of-the-mad-god
+position: 67
+ownLength: 1627
+unit: words
+publishedAt: 2024-09-30
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1828457/chapter-32-the-janitor"
+royalRoadId: "1828457"
+---
+
+The gigantic creature went streaking straight for the middle of the battlefield, moving too fast for either army to disengage in time.
+
+It came to a stop a heartbeat later, giving Nick a chance to get a good look at the bizarre creature. It was covered in a shifting mantle of translucent energy that made it hard to focus on, even when it wasn’t moving. But he was certain that it had to be the Janitor.
+
+At last, he was gazing upon the menace that had destroyed most of the floor, slaughtering its residents and throwing the basement level into chaos and ruin. That field around it must be made of force mana. It’s so thick that I’m able to see it clearly for the first time since gaining my affinity.
+
+When Nick tried sizing the creature up, he received a sensation of overwhelming danger, which wasn’t a surprise by this point. But that was all the information he got. The skill couldn’t provide any details as to the nature of the threat.
+
+Once again, he was running into the limits of only being able to take size up to ten. While the skill was still incredibly useful, he couldn’t wait until he was able to raise it further. But that was a problem for another day. Meanwhile, today’s problem was making its move.
+
+When the Janitor came to a skidding stop near the heart of the battlefield, the bugs and clockwork beasts began to panic. They turned away and ran for their lives, leaving the last scraps and bodies behind. But they had noticed the giant’s arrival too late to avoid catastrophe.
+
+Before either side could hope to escape, the force-shrouded creature began laying waste to roach and construct alike.
+
+One second, they were rushing toward the tunnels as fast as their feet would carry them. The next, a series of explosions ensued. Bugs and rats, ichor and gears, went flying into the air. Dozens of creatures were reduced to various-colored goo in the blink of an eye, accompanied by the pops of dozens of gear-rats disappearing back-to-back.
+
+Once again, Nick was able to see the force mana in the air, although he could sense that the attack was infused with essence too. It was blurry, but his vision grew sharper the longer he watched. A second blast followed the first, then another pair in rapid succession, laying waste to everything within a hundred feet of the lethal entity.
+
+The damage was worst near the Janitor’s position. Scores of constructs and roaches were slain in the blink of an eye. Some went flying back at incredible speed, slamming into the walls hard enough to pulverize their insides. Others were driven into the floor, flattened and squished like they’d been run over by a steamroller. Some simply exploded, like they’d been standing at ground zero when a bomb went off.
+
+But the destruction wasn’t limited to the Janitor’s proximity. Even distant targets were hit hard by its powers. Nick noticed that in these cases, the path of devastation shot forth in a line before spreading out at the point of impact. He could see swirling beams screaming through the air, reminding him of his own piercing ray.
+
+He wasn’t sure what any of this meant just yet. But it had to be clues to the true nature of the creature’s powers. He would ponder the implications later, and devise what tactics he could. Although it was abundantly clear that if Team Earth ran into the Janitor, it was going to end their day in the worst possible way.
+
+The retreating forces spread out, mitigating the damage they took as a dozen more eruptions ensued, each landing a couple of seconds apart. Nick and his team ducked out of sight, watching the battle play out on their bellies, instinctively trying not to draw notice to themselves.
+
+It was terrifying to witness the sheer level of power on display. The Janitor carved lines of devastation into both armies, killing hundreds within a matter of minutes.
+
+Once again, Nick had the sense that in addition to mana, some form of incredibly concentrated essence was lancing forth from the Janitor. Something that resonated with his own path. But he couldn’t make out the details.
+
+“Nick, we should get out of here before it sees us.” Veronica pulled on his sleeve. He nodded and they stepped away from the glass.
+
+Shaun shuddered. “Let’s not run into whatever the fuck that was. It took out those roaches and rats like they were nothing.”
+
+Nick couldn’t find any fault in Shaun’s observation. After all, he felt exactly the same way. They headed back down the passageway, took the first turn they saw, and kept moving until the sounds of battle faded into the distance.
+
+Once they were far enough away from the site of the slaughter that nothing in the inner chamber should be able to hear them, the party came to a stop to confer with one another. They each took turns reporting everything they’d witnessed, then started to brainstorm so they could start refining their various strategies and plans.
+
+They came up with a few additional tactics, in case they were forced to fight the new variants of roaches or constructs. But now that they knew what was down there, they decided to avoid conflict whenever possible until they could climb the stairs and start fresh on the next floor.
+
+Nick would have liked to start training Shaun now. But they couldn’t afford to delay their escape. Not on a floor with an escalating threat. It would be a bad idea and to attract the attention of either army regardless, especially when the sound of their battle might draw that walking calamity called the Janitor. Instead, they would focus their efforts on completing the floor as quickly as possible.
+
+With that goal in mind, they returned to the problem at hand, navigating the last stretch of passageways that would take them down the lowest level. While it proved to be a complicated route, charting a course was easier now that they were only trying to progress in one direction, with a clear landmark on one side that made it impossible to get lost.
+
+Four hours later, Nick’s team had made significant progress toward that goal. The next time they came across a crystal window overlooking the center of the floor, they were noticeably lower to the ground.
+
+With any luck, by the end of the day, they would make it all the way down to the bottom. Then they just needed to find the rest of their teammates and make it to the stairs without being caught between the three warring forces.
+
+Everything that they had experienced thus far made Nick nervous about what they’d find when they climbed the stairs and encountered the next challenge posed by the Tower of Rizzen. After all, the next floor was supposed to be equally dangerous to this one, and the last two would be even worse.
+
+Nick shelved his worries for now. They were a distraction that he couldn’t afford to indulge. He would deal with the crisis on the horizon after he found a way to survive the one right in front of him.
+
+By now, they were starting to get a clearer picture of what had happened down here. After witnessing the creature with his own eyes, it was obvious that the Janitor had inflicted all the structural damage to the floor, although the rats and bugs had helped to destroy the objects that had once filled the various chambers.
+
+They must have gone out of control when the staff was slain. They weren’t designed to eat anything other than the corpses and garbage that came down the portals in the middle of the level.
+
+Late in the day, after passing by a cluster of rooms that were mostly intact while looking for a place to camp, Shaun spoke up for the first time in hours. The red-haired man gathered their attention and pointed to a door. “This one seems different from the rest. Maybe we should take a closer look.”
+
+While he found Shaun’s presence to be annoying to say the least, Nick had to admit that he was right. This door was intact and sealed as well, like the storeroom that had contained the last event he and Veronica had come across. Not to mention, it had a sign written in System runes over the top that read, “Kellen, Vice Director of Research.”
+
+It seemed that they’d found the office belonging to the researcher whose crystal device Nick had uncovered in the first chamber he’d explored. When he reached out to touch the door, a message from the System appeared in front of his face, confirming that Shaun had found something special after all.
+
+You have discovered a conditional bonus event.
+
+Event: ‘The downfall of waste disposal,’ can only be accessed by those who possess the proper key.
+
+The rewards for this event are the contents of the room.
+
+“Yea, this seems important alright.” Nick nodded as he read the message. “Good job, Shaun.” The young man brightened visibly at the praise. They spent the next five minutes trying to find a way inside.
+
+That was when Veronica turned to him and said, “That crystal you have belonged to Kellen right? Maybe the door will open if you touch it with the device.”
+
+It was a sensible suggestion. Nick took the crystal out of his belt pouch and held it in front of him. Sure enough, when he tapped it to the door, the portal slid open, revealing a sizable office within.
+
+It was time to find some answers at last, and with any luck, some treasure along the way.

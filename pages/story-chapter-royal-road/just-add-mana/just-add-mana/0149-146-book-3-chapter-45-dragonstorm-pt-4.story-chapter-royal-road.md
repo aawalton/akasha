@@ -1,0 +1,201 @@
+---
+id: dc88cd6a-a6a2-52bd-bee7-5b0ba31c8ed7
+page-type-slug: story-chapter-royal-road
+title: "146 — Book 3, Chapter 45 — Dragonstorm, Pt 4"
+slug: 0149-146-book-3-chapter-45-dragonstorm-pt-4
+partOf: just-add-mana
+position: 149
+ownLength: 3138
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3514534/146-book-3-chapter-45-dragonstorm-pt-4"
+royalRoadId: "3514534"
+---
+
+Calibrating...
+
+Excess draconic interference could mean a lot of things, really. The most obvious conclusion was that the Dragonstorm was somehow directly interfering with the function of the Gift, but Cale thought this was rather unlikely. Plenty of other powers had tried and failed to interfere with it before.
+
+More likely was that whatever mechanism the Gift used to evolve a spell made use of this archaic form of magic—of the power of symbols and significance. If that was the case, then the havoc the Dragonstorm wrought on the world would be more than enough to undermine its functions. Cale and the spell he'd been trying to evolve were simply far too different from the environment the Dragonstorm created.
+
+And with that in mind, Cale recognized that he'd seen spells like these before. The circumstances and scale of them were different, of course, but it was far from the first time he'd witnessed or subverted a spell designed to fundamentally transform reality into something that supported a different kind of life.
+
+That was what the Dragonstorm was. A desire to live, expressed and twisted in a realm of pure symbolic meaning. It sought to transform the realms themselves into something that could support that broken form of life, but such a reality was inherently incompatible with the beings of flesh and magic that already lived within it.
+
+Humans, it seemed, were the greatest anchor of that reality—so it was no surprise that it was also the Dragonstorm's greatest target.
+
+But if the problem was that Cale was incompatible with the world it was trying to create, then he had a means of making himself more compatible sitting right there in his pocket.
+
+Calibration complete.
+
+Mana overload detected. Draconic essence detected. Overwhelming intent detected.
+
+Compensating.
+
+Resonance, Cale suspected, was the Gift's term for symbolic meaning. To increase your resonance rank with a particular mana aspect was to invest within yourself the symbolic meaning of that aspect; it was why Cale's baking-oriented adventure with Vesuvius had been just as effective as the resonance vision that every other mage received.
+
+The hydra he faced now was created to thrive in the world created by the Dragonstorm. It had the advantage in symbolic manipulation, which it seemed to be able to use to absorb both his attacks and his mana. Cale wasn't all that surprised, he supposed—for better or worse, there were whole realms that saw his wyldfire as an omen of things to come.
+
+It did mean that if he wanted to end the Dragonstorm in any reasonable amount of time, he was going to have to bring this embodiment of it to a more level playing field.
+
+The last time Cale had taken this potion, he went to sleep immediately afterward, allowing it to pull him into a vision. This time, he had no intention of falling asleep, but the vision tried to manifest exactly as he expected; he felt it hurtling toward him across that universal gap.
+
+And so did the Gift.
+
+[Create Impact] has evolved into [Resonant Comet]!
+
+[Resonant Comet, Level 1] [Fifteenth Tier, Active (Unique)] [1.0e46 Mana]
+
+Converts a resonant source into a symbolic meteor. The greater the distance traveled by this meteor, the greater the impact.
+
+On impact, create a domain based on the contents of the resonant source. All individuals caught within the radius of the effect will be contained within the resonant domain until its purpose has been achieved. The danger of this domain scales to the entities captured within.
+
+The caster may exclude individuals from this domain at will.
+
+The hydra froze, its faces darting up to the sky as what should have been a vision for Cale alone hurtled through the air, screaming toward them. For a split second it parted the clouds and tore through the rain, a perfect sphere that deflected the Dragonstorm where Cale's magic alone could not.
+
+Then it struck.
+
+Cale didn't blink, even as it changed the world around them. He did, however, take note of the effective range this meteor was going to have, pause, then carefully ensure that only he and the hydra were included within its effect.
+
+As far as Syphus was concerned, it had made one of the greatest discoveries in the history of magic. This was aided in part by the fact that it was quite literally in the past and therefore anything it did essentially defined the history of magic, but it wasn't worried about technicalities like that.
+
+Rather, it was preoccupied by the fact that the slug arm produced by the casting of [Basic Spellfist Arts] was useful.
+
+It had already known this, of course. The slime byproduct it produced was essentially a liquified spell and therefore granted its other spells properties they wouldn't ordinarily have: a [Fireball] channeled through that arm created flaming slime, for instance.
+
+Syphus had discovered through experimentation that this slime was both incredibly sticky and resistant to dispelling magics and other forms of magical interference, which was to say that unlike a regular [Fireball], it could freely fire a [Pebbleblast] through it and produce what was essentially a scattered fireball (though it preferred the term "flamethrower.")
+
+Alas, the Gift did not see fit to give this composite spell its own name, so it wasn't an official designation. It did make sure that any of the other students it had been teaching its [Basic Spellfist Arts] called it a flamethrower, though, so it was pretty satisfied with that development overall.
+
+None of that was related to the discovery that it had made while experimenting during yesterday's dueling classes. On top of the fact that eating a symbol of violence appeared to help cycle its mana for the production of palewater—a discovery that delighted it to no end, it would have to admit—some of its slug-slime had fallen into a fellow student's chalk circle during a demonstration, and the resulting spell...
+
+Well, it turned out that whatever other properties this slime byproduct had, it was also an excellent vessel of symbolic meaning. The instructors had gathered around the shining spell circle, chatting excitedly amongst one another at the reaction it had produced.
+
+Alchemical reagents of this era, it turned out, consisted of two major varieties. The first was natural symbolism, which was a reagent that had gathered symbolic meaning all on its own. Things like marbles and blood fell into this category.
+
+Then there were the symbolic cultivars produced by the plants of this era, which had learned to absorb and accumulate symbolic meaning. This produced reagents such as the corpsevine, which had begun as a type of vine that grew frequently over gravestones. They fed on the symbolism of the corpses beneath, allowing alchemists and spellcasters to use them instead of a corpse whenever such symbolism was needed.
+
+Needless to say, such plants often became naturally symbolic in their own right, and the more they were cultivated for their respective purposes, the more that symbolic meaning sharpened. There was a means of determining something called "symbolic purity", which referred to how much a given reagent had sharpened and refined its symbolic strength over time—
+
+Syphus paused. It was thinking too much about this. It wasn't a nerd. That was Leo's job.
+
+Long story short, spell slime made for an excellent reagent and apparently had incredibly high symbolic purity. The instructors had muttered something about slimes and gelatinous blobs often acting as familiars to alchemists, or something like that? Honestly it had stopped paying attention once they'd stopped praising it, not that it needed that praise or anything. It had only started paying attention again when it was told that its spell slime could be used to create very, very big fires.
+
+That was what it was doing now. Helping! With the fire.
+
+Instructor Tajia had drawn a spell circle in the ground, and filled out several circles with reagents, a look of desperate concentration etched onto her face. She was also sweating and shaking a lot, for some reason, and a few times she cursed and had to redo her lines. Then she directed Syphus to fill out two of the circles with [Fireball]-based slime, and it had very happily accommodated.
+
+The result, to its delight, was a bright ball hovering above the spell circle that spun and shimmered with radiant light. Every time a dragonshade walked into range, the ball would contract briefly, then fire a massive beam of pure heat in the direction of the shade, instantly cutting through it.
+
+Now, Syphus would ordinarily have preferred to be the one in charge of firing this orb, but this was an acceptable alternative. It made a rather pleasant resonant thrum as it cut through the air with power enough to briefly silence the Dragonstorm...
+
+Although Instructor Tajia was looking increasingly pale. Syphus frowned. Was she supposed to look so... gray? She was one of the darker-skinned humans, it knew, but it was pretty sure she hadn't been that color when it last looked.
+
+"Are you okay?" it asked.
+
+"Fine," Tajia said, except she was definitely not fine, and Syphus was very sure of it now that it could hear the shaking in her voice. Also she was leaning against the wall and her head was lolling slightly to the side. "We have... to keep going."
+
+Cale had told them something about how the Dragonstorm affected these ancient-era humans differently, hadn't he? Not only that, but Syphus realized somewhat belatedly that Tajia was sitting inside one of the circles of her own spell system. The spell was draining her on top of the whole Dragonstorm thing!
+
+...On the one hand, it could really admire that sort of creative thinking.
+
+On the other, Syphus was absolutely not letting her do this under its watch. It rolled deliberately over the chalk lines of the outer circle of her spell system, scraping over it and cutting it off. The moment it did, Tajia jolted and became alert, hazy eyes suddenly growing wide. "What are you—"
+
+"Nope," Syphus said. "My human now. No hurting yourself."
+
+Tajia briefly seemed to forget her own exhaustion, a bit of outrage and indignation entering her tone. "Excuse me?"
+
+"We've all got humans we're supposed to protect," Syphus said. "That's what Cale told us to do. You're the one I'm supposed to protect, so you don't get to sacrifice yourself or whatever this is supposed to be."
+
+"Do you have a better idea?" Tajia glared at it, though Syphus thought she had relaxed a little. "We don't have the mana to take all these shades down. They're stronger than they usually are, and the worst of them aren't even here yet."
+
+"The worst of them?" Syphus asked curiously, unable to help itself.
+
+"The dragonlords," Tajia said, shuddering. She didn't elaborate.
+
+So there was another class of power to these shades, then. Privately, Syphus was rather glad; it would have been disappointing if the dragonshades were all this storm had to offer. Fighting them was nothing like fighting a true dragon. It was sure of this, even though thus far Akkau had refused all of its attempts to challenge him to a duel.
+
+"Speak for yourself," Syphus said.
+
+Tajia blinked. "What?"
+
+"You said we don't have the mana to take them down. Speak for yourself," Syphus repeated. "I ate sixteen spellsticks yesterday."
+
+Tajia sputtered for a moment. "You don't have a mouth."
+
+Syphus tilted its head, then nodded. "Oh yeah. I forgot."
+
+"What do you mean you—"
+
+A dragonshade was on its way, so Syphus stopped paying attention. It didn't need the slug-arms anymore now that it wasn't refilling this spell circle with fresh reagent, which meant it could use the new spell that had evolved from [Basic Spellfist Arts].
+
+[Intermediate Spellfist Arts, Level 2] [Fourth Tier (Unique), Active] [5,000 Mana]
+
+Unlocks access to a lost spell-based martial art.
+
+Transforms a part of your body into a manaforged mechanism capable of firing any known spell up to a full tier above its base power. Note that you may only fire spells equivalent to the current tier of this spell.
+
+Deepen your understanding of manaforging to unlock new manaeforged mechanisms. Deepen your understanding of the Spellfist Arts to evolve this spell to its next form.
+
+At your current level of understanding, you have unlocked the following:
+
+[Slug] — A loose and ill-formed expression of the transmutation magics imbued into the art. The Slug mechanism, if it can be called such a thing, oozes the input spell out of its pores as slime.
+
+[First Form] — A cylindrical mechanism that fires the input spell straight ahead. Provides a minor boost to speed and power, at the cost of mana.
+
+[Second Form] — A spherical mechanism that radiates the input spell in all directions around the caster. Greatly empowers defensive spells. Use with caution for offensive spells.
+
+[Third Form] — A very large cylindrical mechanism that accelerates the input spell using opposing mana aspects. Provides a major boost to speed and power, at the cost of mana and maneuverability.
+
+[Cauldron] — An accretion chamber that can store a maximum of three spells, each of which will slowly accrue power and may be removed and fired at will.
+
+[Forge] — A fusion chamber that may be used to attempt the fusion of two existing spells. Note that both spells have to be cast into the forge for fusion to occur, so powerful spells may cause additional strain on the caster.
+
+[Corkscrew] [Modifier] — Adds a corkscrew construct to the inner lining of any mechanism, improving piercing power at no additional cost.
+
+Warning: any damage incurred to the transformed part will transfer to your body when the spell expires.
+
+Warning: input spells have a chance of backfiring if the construct is not well-controlled. Use with caution.
+
+Syphus was very pleased with the state of this spell. Evolving it to Intermediate had unlocked both the Cauldron and the Forge mechanisms, though the Forge was incredibly complex to maintain. It hadn't managed a successful fusion yet, admittedly—Leo's suspicion, after some discussion, was that palewater was required for a spell fusion. Purity of intent would avoid confusing the spellwork, so to speak.
+
+More important, though, was the Cauldron. It manifested as a hollow chamber within the body, and for most other practitioners was difficult to maintain.
+
+Syphus, however, was a rock. It had kept the Cauldron active as a hollow chamber within itself this entire time as it rolled around. Three spells wasn't a lot to work with, admittedly, but...
+
+It waited as dragonshades began to fill the corridor.
+
+"Syphus," Tajia warned. She had, apparently, taken Syphus's warning to heart and was now holding the arcane focus Graystalk had given her. Syphus was glad for that. It was also glad she hadn't been able to hold the spell-slime, or it would have been unable to interrupt the first spell. "I'm not going to be able to hold them back much longer."
+
+Oh! She'd turned the floor into mud. That was clever. The dragonshades were forcing their way through, but these ones weren't clever enough to counteract the spell, so it had formed something of a roadblock.
+
+It didn't even need the Cauldron if that was the case, did it? Better to keep that in reserve. It did still have its earth spells, after all, and Tajia had so helpfully offered it a corridor full of mud.
+
+It cast a single [Pebbleblast]. Tajia watched in something akin to horror as it threw out what appeared to be an awfully ineffective spell; the pebbles couldn't even get through the scales of these dragonshades. Before she could say anything, though, Syphus followed up with a spell it had learned from studying with Flia, [Pebbles to Piranhas].
+
+Tajia's expression changed into a very different kind of horror as the newly animated pebbles started racing through the mud, eating their way through the dragonshades. They slapped at the mud ineffectually, roaring. A few attempted to burn their way through, casting the ground beneath them in a bout of dragonflame. Fortunately the mud acted as an insulator, so now they were covered with boiling mud and being attacked by heated, piranha-shaped rocks.
+
+Syphus was pleased. It hadn't even had to use all that much mana for this. Now all it had to do was...
+
+Its vision flickered briefly. It froze. Everything seemed suddenly clearer, which could only mean that something had attempted a scrying spell and its etherite crown had absorbed and incorporated that into its eye—except none of the regular dragonshades were casters, which meant—
+
+It cast [Stoneshape], grabbed Tajia, and rolled straight into the wall, wrapping it around them. A fraction of a second later it watched with [Truesight] through the stone as a distended jaw swept through the entire crowd of dragonshades and the space Syphus and Tajia had occupied only an instant ago.
+
+That moment was all it took. All the dragonshades were gone in that one instant. But in the far end of the corridor, a massive dragonlord chuckled, his voice rolling down the hall.
+
+"I'm impressed," he said. "Most people can't tell when I scry on them. What's your name, little one? I am the dragonlord Okorin, and I have been looking for a capable servant."
+
+In ordinary circumstances, Syphus might have bristled and rolled out to argue, but it was still holding on to Tajia. It didn't have as much of that so-called intuition its friends occasionally talked about, and so it had less of a way to measure things like how powerful an opponent was, but it did notice how shallow Tajia's breathing had gotten the moment the dragonlord appeared. Her mana turned from a flame down to a flicker, like it was being heavily suppressed.
+
+That was enough for Syphus to decide this was no time to waste on banter.
+
+Still hidden within the wall, Syphus engaged the Third Form. Its left arm elongated into a thick, heavy construct, so much so that it had to brace its arm on the floor to even aim the thing properly. Then it shoved one of the spells that had been circulating within its Cauldron for the past two weeks.
+
+The Third Form blazed with magic, lighting up the little chamber they were in with a display of brilliant blue.
+
+Fire poured out, an order of magnitude stronger than the beams they'd been using to take out the dragonshades. Syphus threw up a barrier to protect itself and Tajia from the worst of the heat, but the strength of this spell was such that the entirety of the hallway began to melt.
+
+And when the glow faded, it had pierced the center of Okorin's chest. Syphus began to relax, letting the Third Form fade away—
+
+"Not yet," Tajia said suddenly, tension in her voice. She gripped its arm. "It's not over yet. Get ready."

@@ -1,0 +1,81 @@
+---
+id: fa8146be-fcc8-5802-927a-0cf3f4813fcd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56: Frost-Rimed Climax"
+slug: 0095-chapter-56-frost-rimed-climax
+partOf: labyrinth-of-the-mad-god
+position: 95
+ownLength: 1733
+unit: words
+publishedAt: 2024-11-25
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1923901/chapter-56-frost-rimed-climax"
+royalRoadId: "1923901"
+---
+
+Team Earth fell into formation in front of the Janitor with their weapons at the ready.
+
+Each member wore a look of fierce concentration, eager to play their part as the conflict with the tier 2 mutant reached its lethal climax. Only one side would be walking away from the final exchange of blows, and Nick was determined to make sure that his party emerged victorious.
+
+It was time to enact their gambit—to use everything they’d been saving to bring the big bad down. Now that I can counter the force beams, we should be able to get in close. I don’t think it has enough left in the tank to fire off another one of those big shots.
+
+Nick’s newborn optimism was fated to falter and die only a heartbeat later. Because that was when the Janitor’s cannon began to glow. He could sense that it was burning essence and life to power the spell—damaging its core to get off one last attack and take the party out.
+
+Within another few seconds, it would be ready to fire again, and the blast would be even bigger than before. The mutant was taking its time lining up the shot, angling the blast to hit the floor instead of firing it in a straight line. This is bad. There’s no way that I can deflect a spell that strong. Its radius will be wider too. If the bomb lands anywhere near us, it will be almost impossible to get out of the way.
+
+In short, Nick judged its odds of missing as falling somewhere between slim and none. He could try to shield its target with his instant barrier, but there was no guarantee that the consumable item would be tough enough to endure the spell.
+
+He had to do something before the force-cannon fired and claimed the life of his friends. The end of the barrel was shining like the sun, about to hit critical mass. He hadn’t come up with anything, and he was almost out of time.
+
+Then, in the heart of that dark moment, inspiration struck. I don’t need to shield its target to counter its attack. There’s a better way. Three seconds before the turbocharged spell was complete, Nick reached into his belt pouch and withdrew a small glass sphere—the marble that contained the force barrier he’d received after arriving in the tower.
+
+He flicked his wrist and let the glass orb fly, aiming for the ground in front of the Janitor’s barrel-like growth. He was gambling that since the energy was so unstable, the bomb would go off when it hit something solid, instead of punching through. He thanked the gods that his class had a Throwing skill as he let loose, just as the mutant’s bomb finished forming and got ready to fire.
+
+Knowing that the paths to victory and annihilation branched from this moment, Nick watched the glass bead sail through the air. It landed beside the blob and shattered, a fraction of a second before its force-artillery erupted from the end of its barrel.
+
+In the blink of an eye, a hemisphere of mana sprang to life in front of the starving creature. It realized that something was wrong and tried to adjust its aim, but it was already too late. The incredible concentration of whirling energy struck the barrier hanging in the air, just a few feet in front of the Janitor.
+
+By the narrowest of margins, Nick had pulled it off in time. Now, all that was left was to see if his last-ditch efforts had been enough to save them. He was afraid that he had misjudged the situation—that the powerful spell would punch right through. Or that a force barrier wouldn’t affect a magical projectile, even if it was force-based.
+
+His fears were allayed a fragment of a second later, when the bomb hit the dome and erupted like a barrel of dynamite—catching the mutant creature with the detonation of its own power from point-blank range.
+
+An incredible eruption rang out—knocking the party off their feet and dispersing the last of the smoke hanging in the air. When Nick got his legs back under him and turned his head toward his opponent, the magic barrier was gone, along with a fair chunk of the floor beneath the point of impact.
+
+When he witnessed the carnage that his hasty maneuver had wrought, he let out a long sigh of relief. Although the battle wasn’t over, he had struck a critical blow and prevented his team from taking the killer attack head-on.
+
+The Janitor was in bad shape. It was durable enough to survive the explosion, but not enough to emerge unscathed. A fair portion of its gelatinous body was splattered against the wall, and the rest was moving slowly. It seemed that there was an inner layer of tissue that was tougher than the rest, shielding the creature’s core. But the blast had removed gel on top, leaving it much closer to the surface.
+
+For the first time in the fight, the Janitor was on the defensive. Its back was to the wall, and its enemies had advanced to surround it. It held a half dozen pseudopods in front of its quivering form, trying to minimize the damage it took while it tried to pull itself back together. Its tissue was scorched and scratched. Diced, dissolved, and decimated.
+
+At this point, the outcome had yet to be determined. The scales were even, and victory and death were balanced on the blade of a knife. Team Earth had finally dished out some serious damage, but they were down to the dregs of their energetic reserves. If their next move didn’t work—if the mutant dodged, deflected, or dispersed their attack—then they were going to lose, despite how far they’d come.
+
+When Nick looked at the faces of his friends, he saw the same realization mirrored in their eyes. The decisive moment had arrived, and it was time to go all out. To end the fight or die trying.
+
+“Now,” he yelled. “Veronica, use the stinger and follow up with the cryo grenades! Sophia, send in your wasps. Once the gel is frozen, we’ll switch to heat. This is our chance. We need to make it count!”
+
+“Let the wasps go first,” Sophia called out. “I’m not sure that their stingers will penetrate once the outer layer is frozen.” With that, the buzzing blue swarm dove, streaking toward the disoriented mutant like a meteor shower. The Janitor was already starting to recover—displaced gel sliding back into place.
+
+Veronica rushed forward too, with Sophia’s frost venom dagger poised to strike. She came to a skidding stop and lashed out three times in as many seconds, until the venom in the weapon ran dry. Then she darted back to open some room and got ready to throw the cryo grenades that Devin had given her. That class trait is amazing in a long fight. I don’t think we could have made it this far without her.
+
+Half a heartbeat later, the swarm unleashed its might. One, two, then all thirteen wasps landed on top of the quivering mass of jelly, on the opposite side as the core. Then they began stinging the Janitor while it was helpless to resist.
+
+It tried to use its pseudopods to fight them off, but the appendages froze solid a few seconds later—leaving the mutant at the mercy of the surging tide of venom coursing through its tissue. Frost began billowing up from the monster’s exterior as its movements started to slow. The gel composing its blob form continued congealing—large portions freezing completely.
+
+Not all of its body had solidified. This was a tier 2 life form after all. But it was far more than Nick had been expecting. A few seconds later, Sophia cried out, “The wasps are out of juice. It’s time for the freezing grenades!”
+
+With that, Veronica took aim and then tossed the first consumable. Nick hadn’t seen the cryo grenades before. They looked like azure eggs the size of his fist, with some manner of runes engraved across the surface. The instant it landed beside the Janitor, the device detonated—releasing a dense cloud of icy mana. The next landed a heartbeat later, spreading more wintery wrath across the mutant’s body.
+
+Over the next few seconds, the ice-aspected mana finished what the frost venom had begun. The Janitor was frozen solid, unable to move an inch. Nick and Devin took advantage of the opportunity to land a few hits with their weapons. But as he had feared, they were unable to penetrate its resilient inner layer.
+
+Thanks to his awakening energetic senses, Nick could tell that the mutant wasn’t dead. That it was burning force essence to vibrate its tissue and would begin thawing out before much longer. They had created a narrow window to turn the battle around. One that was already closing fast.
+
+“It’s time for the flame!” Sophia ordered. “Aim for the left side, where the core is close to the surface. V, use the Molotovs first, then Devin can land Blast Strike and Flashfire Pulse back-to-back. Hopefully, it will be good enough to burn away the gel and expose the core.”
+
+While Veronica reached into Nick’s bag and got ready to throw the first Molotov, Nick sent his awareness into the Janitor. He needed to track the core with unerring precision, so that he could destroy it the instant that it was free from the protective gel.
+
+Where did it go? There! He saw the ball of condensed energy, trapped along one side of the frozen mass. It was leaking essence like a sieve after the Janitor’s last attack.
+
+That core is already falling apart. One good hit should do it. He conjured three darts and got ready to fire—saving the last of his reserves to infuse his sword and land the finishing blow. He’d suffer from mana sickness after, but it didn’t matter. If this didn’t work, they were dead.
+
+The instant the core was exposed, Nick needed to destroy it with pure mana. His instincts were telling him that it would be impervious to other forms of damage, at least at the level that the party could dish out.
+
+But first, he had to find out if he would even get the chance. It was time to switch from ice to fire.

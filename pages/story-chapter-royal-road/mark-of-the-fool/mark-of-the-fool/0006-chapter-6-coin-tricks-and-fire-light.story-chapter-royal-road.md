@@ -1,0 +1,243 @@
+---
+id: d7ad8075-ac98-56ca-90ef-01bdb2d37af5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Coin Tricks and Fire Light"
+slug: 0006-chapter-6-coin-tricks-and-fire-light
+partOf: mark-of-the-fool
+position: 6
+ownLength: 2999
+unit: words
+ownProgress: 2999
+publishedAt: 2021-04-05
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/658603/chapter-6-coin-tricks-and-fire-light"
+royalRoadId: "658603"
+markedReadAt: "2026-06-29T20:10:59.188Z"
+---
+
+The coin shot over the heads of the people in front of Alex, drawing a graceful arc through the air.
+
+He winced as it missed his target: the back of the mayor’s assistant’s neck, but it did collide with his skinny back. The lean man flinched at the impact as the coin fell to the stones with a clink. The couple behind him did not miss it fall, and the wife was darting for it just as he turned around.
+
+“What the-?!” He grabbed his purse protectively, his face turning purple. “Thief! Robber! Cutpurse!”
+
+“Hey, you dropped this!” she snapped. “I was going to give it back to you!”
+
+Alex didn’t know if she was telling the truth, but it didn’t matter: the rich man didn’t believe it.
+
+“Guards! Guards!” he cried, drawing a sap from his belt.
+
+“Hey!” the bruiser stepped forward. “You touch my wife with that and you’ll have my fist where your teeth used to be!”
+
+All eyes turned to the commotion, including the guards’.
+
+Alex discretely started flipping more coins toward the front of the line; The Mark improved his aim with each toss, using each previous one as a reference. The gold coins came rolling to a halt at peoples’ feet. Eyes dipped, briefly glancing up to see if it was raining coins, and—desperate as they were to secure a ship's passage—many darted for them without questioning where they were coming from. Some quickly muttered about Uldar’s blessings.
+
+“Hey! Get your hands off that one! That’s mine!” a man cried.
+
+“I saw it first!” a woman shouted back.
+
+“Thieves! Those are mine! You’re all thieves!” the mayor’s assistant shouted and swept out with his sap, striking at someone who darted for a coin near his horse.
+
+That turned out to be a mistake, for the person who was stuck by the sap had cried out in pain.
+
+And that person was the bruiser’s wife.
+
+“That does it!” the huge man roared, cocking back a giant fist.
+
+Bang!
+
+The mayor’s assistant flew off his horse in a limp heap.
+
+The brawl was on quickly after that. Curses and punches filled the air as the front of the line disintegrated.
+
+“Alex!” Selina cried out and as he scooped her up in his arms.
+
+“It’ll be okay,” he said quickly, resisting the urge to look back. “Theresa, where’re the priests?”
+
+“They’re looking this way,” she hissed.
+
+“Crap. Come on, stay behind me and act like everything’s okay.” He stepped out of line trying to look as casual as he could.
+
+The Mark helpfully flooded him with images of himself walking naturally and calmly. He allowed it to guide his steps, letting guards pass as they sought to break up the brawl, and then stepped up to those who were left at the gate. Peter and Paul stood on either side of the town entrance, shaking their heads at the scrum.
+
+“It’s too bad about people.” Alex sighed as he reached them. “Neighbours all their lives, and at the first sign of trouble, they eat each other.”
+
+“Eat each other? Bah, this is no worse than a festival night at the Bear’s Bowl: they’ll have a few bumps, lose a few teeth and be fine afterward.” Peter nodded as though he were dolling out ancient wisdom.
+
+“If any of us are fine,” Paul muttered. “Evil times ahead.”
+
+There was a pause.
+
+“So, do you mind if we cut in line?” Alex asked, trusting in the mark as it reminded him what his face looked like when it was calm. His fear that the priests would notice him was mounting.
+
+“There is no more line now.” Peter brought up his list. “Or at least, whatever line is left, you’re at the front of it: you had the good sense not to start any of this. Come on then, we’ll get you on your way.”
+
+If Alex didn’t have his arms full of little sister, he might have hugged Peter right then and there.
+
+“Right, you three…” Peter continued. “Names?”
+
+By the time the brawl had been cleared, Alex and his companions were long past the gate and onto the road. A nervous energy filled him, and he hurried along, passing the folk streaming from the town of Alric.
+
+“Are they following us?” he asked Theresa for the thirtieth time.
+
+“No.” She threw a quick look over her shoulder. “Stop asking.”
+
+“What are you looking at?” Selina tried to follow Theresa’s gaze.
+
+“Just making sure that fight’s behind us,” Alex said quickly, throwing silent gratitude toward his parents and the two guards. When he made full wizard, he really was going to give those two beautiful guardsmen the biggest reward they’d ever seen. He didn’t care if they saw it as a bribe; he’d happily force it into their hands if he had to.
+
+“Well, that’s step one,” he said to Theresa when they were out of earshot of the gate. With a grunt, he set Selina back on her feet.
+
+“Are those people going to be okay, Alex?” Selina looked back worriedly.
+
+“Didn’t you hear those kind, honourable, brave guardsmen?” he chuckled. “They’ll be fine.”
+
+Theresa looked at him with suspicion. “How did you do that? Some kind of magic?”
+
+He couldn’t resist shrugging his marked shoulder meaningfully.
+
+“Yeah, let’s call it a kind of magic.”
+
+He had a feeling he was going to like this mark.
+
+“Yeeeessss!” Alex cheered.
+
+He had struck the flint, sparking the tinder to crackle with a small flame. Carefully, he leaned down, blowing on the little fire as the mark guided him, providing memories of others starting campfires, showing him how to feed it with air to give it more life. Just like pouring mana into a spell array, the flame grew and caught the dried branches he and Theresa had gathered earlier.
+
+At last, the wood popped and crackled as he tossed another branch onto the pile. Pleased with his accomplishment, he sighed happily, sat back and slowly began massaging his aching feet. It had been a long day of walking, but they’d made good time. The gloom from surrounding trees receded as their fire grew, matching the host of campfires stoked by other travellers dotting the fields beyond the southern reaches of Coille Forest.
+
+“Are you okay, little goblin?” he turned to Selina, who was sitting on her sleeping roll a good distance from the flame.
+
+“M-mhm,” she murmured. “Good job, Alex.”
+
+Selina would not look toward him, as that would mean looking at the fire; she did not like fire for good reason. Alex had needed two years of self-talk before he was able to work with it without hyperventilating; she was young, she could take as long as she needed.
+
+Forcing himself to stand, he walked over—his feet complaining with every step—and flopped down beside her at an angle where she wouldn’t have to look at the flame.
+
+Her gaze rose slowly. “You…you didn’t have to do that. If you want to, you could stay by the fire.” Taking a deep breath, she glanced toward the flame and—to his surprise—managed to look at it for a few heartbeats before quickly turning away. “I want to be like you one day…and be able to look at it.” A steely note entered her voice. “I don’t want to be afraid of fire anymore.”
+
+With a smile, he reached out and patted her head. “Were you practicing?”
+
+She closed her eyes, taking another deep breath, and silently nodded.
+
+“Well, I’m proud of you, but you don’t need to rush yourself. Take as much time as you want, and it’s okay if it gets too scary.”
+
+He leaned back and undid his cloak, taking in the air of the warm summer night. During the day, it had grown very hot, but fear of The Mark glowing like when it first appeared made him want as many layers over his shoulder as possible. He had drawn some odd looks, but since he was naturally taller than most folk—and his group did include a cerberus—he’d draw some attention no matter what. He figured he could live with the looks.
+
+Shaking off his contemplation, he looked to the ‘project’ Selina was working on.
+
+In her small hands was a strange figure of dried twigs in the shape of a person, held together by carefully tied lengths of long grass. Even as she watched her brother, her clever little fingers busied themselves attaching another twig to a wooden ‘arm’ to represent a tiny sword.
+
+Alex smiled warmly. “What’s your new friend’s name?”
+
+“Forrest,” she said as though it were the most logical thing in the world. “He’ll be finished soon, then I’ll put him with his friends.”
+
+Alex glanced over his shoulder; a line of three dolls stood beside Selina’s sleeping roll with their feet stuck into the earth, posed in a rough diorama. She had more materials set aside to make another one.
+
+Throughout the day, she'd been making them surprisingly quickly during the walk. He supposed he shouldn't have been all that surprised at the speed: her room at the inn was filled with constructed little fortresses, houses, and castles of wooden bricks carved for her by Mr. Lu. Tiny people made of clay filled the constructions with a reflection of daily life as seen through her eyes.
+
+“And who are his friends?” he grinned at her.
+
+She grinned back at him. “They’re the Heroes!”
+
+Alex laughed ruefully. Of course she would make the Heroes. “And which ones have you made so far?’
+
+She pointed excitedly to the large one that had twigs extending from his ‘head’ like horns on a helmet. “That’s the Champion,” she said proudly. “That’s the Sage- '' She pointed to one with a long twig like a staff. “That’s the Saint-'' She pointed to another holding a construction of grass twisted together in the shape of a raised hand: the symbol of Uldar.
+
+“And this,” she held up the figure in her hands. “Is the Chosen!”
+
+“Well, that explains the sword and The Mark.” He eyed her handiwork. She had used a stick to scrape a rough, tiny Mark of the Chosen into the doll’s chest: a set of scales representing the balance of combat, divinity and spellcraft, as well as the balance in Thameland that they were meant to restore.
+
+He idly wondered what would have happened had a glowing golden set of scales appeared on his shoulder instead of the grinning face of a jester. He’d likely be running nowhere, and instead would be on his way to the capital to lead the march against The Ravener. He probably wouldn’t be happy about being The Chosen, but wouldn’t have a choice but to do his duty if he wanted a home to return to. After all, the Heroes could lose a Fool. A Chosen? Not so much.
+
+“Are you going to carve The Fool next?”
+
+“Mhm.” She nodded as she finished tying the sword to her little Chosen’s hand. “I’m going to make him funny and have him stand on one leg or something. Maybe I’ll give him a frying pan or something for a weapon.”
+
+“Well, he’d definitely bring pandaemonium to his enemies that way.”
+
+“Uuuuuggh,” she glanced up at him and made a face. “Your jokes are gross.”
+
+“Not as gross as your face, little goblin.”
+
+Frowning, she stuck her tongue out at him. He responded by pulling up the tip of his nose and snorting like a pig. “This is youuuu.” He pointed to his own face.
+
+“That is not a good look for you,” Theresa’s voice said from behind him.
+
+“Holy sh-” He jumped, catching himself at the last moment.
+
+The young huntress was silently stepping into the firelight with her bow tucked over her shoulder and the massive Brutus padding loyally at her side. She had an amused smile as she hoisted up two pairs of rabbits.
+
+“Supper’s here,” she said proudly. “And you have Brutus to thank. You really should be nicer to him, Alex.”
+
+“What!?” he protested. “He wants to eat my face, and I’m trying to be nice to him.”
+
+“No, you’re trying to win him over, and he knows that. He can smell the bad intentions coming off of you.” She crouched by the fire and drew her knife.
+
+“I have no bad intentions! I’ve never had a bad intention in my life!”
+
+“Aren’t you going to try and domesticate him? Make him play fetch and beg?”
+
+He froze. “N-no, I’d never.”
+
+“Riiiight. Come help me skin these.”
+
+“Coming, grandmother.”
+
+She paused, looking over her shoulder. “What was that, Mr. I-Don’t-Want-To-Have-Meat-Tonight?”
+
+“I said I’m coming, oh beautiful and mighty huntress.”
+
+She stared at him for a moment before turning away. “Damn right.”
+
+Between Theresa, himself and The Mark of the Fool guiding him, the skinning and cleaning of the rabbits went quickly. When it was time to cook them, he shooed Theresa away from the fire. After four years helping McHarris and Mrs. Lu in their respective kitchens, food had become his domain.
+
+Calling upon The Mark of the Fool to guide him through his greatest successes over stove and oven, he spitted the rabbits and glazed them with an apple-honey sauce he’d recreated from one of McHarris’ recipes. Next he crushed a light sprinkling of salt, rosemary, and thyme, and rubbed them into the meat. Normally, he would have let it sit and marinate for a time, but he could already hear Selina’s belly rumbling. And his wasn’t exactly silent either.
+
+Hsssss.
+
+Fat dripped into the fire, popping and steaming as he carefully turned the rabbits, filling the air with the inviting aroma of roasting meat. He smiled as The Mark methodically brought up memories of his best meals, highlighting all the times he had roasted meats to perfection. And judging by the way Theresa and Selina tore into the finished product, and how a drooling Brutus stared with envy, it seemed that he had outdone himself.
+
+“Alex, this is so good!” Selina said, as juices dripped down her chin.
+
+“It’s even better than usual,” Theresa agreed while wiping Selina’s face.
+
+Brutus licked his chops.
+
+Alex grinned as he bit into his own. It was delicious.
+
+By now, Brutus was whining pitifully, and before Theresa could move to feed him, Alex snatched up the fourth rabbit and tossed it in front of the cerberus’ faces. “Good eating,” he said to him cheerfully.
+
+Three pairs of eyes looked at him suspiciously, but the heads they belonged to soon dipped and tucked into his meal.
+
+Alex smiled behind his food. ‘Just as planned,’ he thought.
+
+A red forceball winked into life above his hand after his third try at the spell. Shuddering from the effort, the bombardment of his previous failures finally receded into the back of his mind, and he set the glowing orb to float a few feet above his head.
+
+He sat at the edge of their clearing, facing the southern fields, watching the other fires slowly wink out as the night deepened. Behind him, he could hear Selina’s quiet snoring and Brutus’ grumble as he rolled over in his sleep.
+
+“Here,” Theresa whispered, handing him a cup of steaming pine needle tea. The woodsy scent filled Alex’s nose as he took the small tin cup and drew a long sip.
+
+“Thanks,” he said looking at her as she slipped down to sit close to him. “You can get some sleep now if you want; I’ve got first watch.”
+
+Sipping from her own cup, she leaned against the trunk of an oak. “I won’t be able to sleep yet.” She sighed in contentment.
+
+For a time, the two friends sat together at the edge of the forest, watching the lights in the field below and the stars in the night sky above. The wind was low and warm, and the trees rustled peacefully. From somewhere in the field, someone had produced a set of pipes and was playing them by their campfire. Crickets chirped through the night.
+
+Alex took a deep breath, drinking in the peace of the moment. He idly wondered if such sights existed within the land of Generasi. But, knowing that in two months or slightly more he would be finding out for himself, the thrill of anticipation bloomed within him.
+
+If it weren't for the nagging reminder lurking in the back of his mind that ancient evil was descending on the land, he could have easily thought that the folks in the field peaceably bedding down were simply camping in wait for a festival, instead of fleeing the near end of all things.
+
+It was strange how people could find the calmest comfort in the most trying times.
+
+“Did it ever cross your mind to stay? All jokes aside?” Theresa’s voice asked quietly in the dark. The red light of Alex’s spell strangely brought out the sculpted beauty of her face in new ways. He had to catch himself, otherwise he’d be staring at her for half the night.
+
+He wasn’t so stupid to not realize that he’d developed a strong crush on his oldest friend, but he had never had time to examine it. Maybe he would on this journey.
+
+“Honestly, I thought about it earlier: if I’d gotten a different mark,” he admitted, settling further back against the tree. He felt the gentle course of mana through the forceball’s magic circuit. “I’d have no choice then, but I don’t know if that would have been good or bad. But I meant what I said back at the gate, I’m going to miss Alric and I’m going to miss Thameland.” He sighed. “A lot.”
+
+He glanced over to Theresa and his breath caught to find her sharp brown eyes staring right at him.
+
+“What about you?” he managed to ask. “You asked me if you could come with me, but you didn’t have to. What made you decide to come?”
+
+A part of him dearly hoped she would say ‘for you’.

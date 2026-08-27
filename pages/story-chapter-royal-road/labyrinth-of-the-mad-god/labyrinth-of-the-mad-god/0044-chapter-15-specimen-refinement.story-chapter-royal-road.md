@@ -1,0 +1,81 @@
+---
+id: a9f797d3-0cfe-59e5-ba54-2a4b4ad69f56
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Specimen Refinement"
+slug: 0044-chapter-15-specimen-refinement
+partOf: labyrinth-of-the-mad-god
+position: 44
+ownLength: 1776
+unit: words
+publishedAt: 2024-08-21
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1768582/chapter-15-specimen-refinement"
+royalRoadId: "1768582"
+---
+
+Since he hadn’t been able to learn much except that the constructs needed mana to perform a variety of functions, Nick put the body back into his bag. He intended to collect more if the opportunity presented itself, as he had a hunch that they’d eventually prove to be valuable in one way or another.
+
+While he waited to make sure that the rats were really gone, he spent the next few minutes wondering how the rest of his team was doing. He wasn’t too afraid for Veronica, Sophia, or Devin, based on what he’d seen so far. While it was by no means safe on this floor, he knew that they could handle themselves. Nick was, however, quite worried about Kenji.
+
+He wasn’t completely sure that the strategist had made it into the tower, or that the System would heal a missing arm even if he had. Maybe it just sealed the wound but didn’t regrow it. Even someone as capable as Kenji could run into trouble down here if he was short a limb.
+
+While it was cause for concern, there wasn’t anything that Nick could do about it now. His only option was to make it to the middle of the floor as fast as possible and hope the others were waiting for him.
+
+Since this was the safest place that he’d come across so far, and he wasn’t certain that the coast was clear, Nick decided to take a quick powernap. He had learned by now that you needed to rest whenever you could, since you never knew when you would get another chance.
+
+He strung his alarm lines along the perimeter of the platform, those shell-studded vines he’d crafted back in the tutorial. They were a crude tool by any reckoning, but they should work well enough here.
+
+He woke up feeling remarkably refreshed. He had no way of telling time down here. But at his best guess, about an hour had passed, judging by how long he’d been awake. Since this had proven to be a safe hiding spot, he’d keep an eye out for anything similar going forward and sleep whenever he found a suitable shelter; concealed places where the gear-rats couldn’t reach him.
+
+After wiping the crust from the corners of his eyes, Nick crawled over to the edge of the rock, put away his alarms, and took a long look around. After finding no sign that the rats were still in the area, he slid out of the crevasse and leapt lightly to the ground. When he landed, he realized what he’d done, shaking his head in wonder that an eighteen-foot drop no longer felt threatening to him in the least.
+
+He poked his head into the closest rooms, to make sure that nothing was hiding within, waiting for him to reveal his presence. To his relief, he didn’t see any more of the clockwork critters nearby, or anything else for that matter. Nick continued on his way, glad to have been granted a chance to recover from his fight and subsequent escape.
+
+After checking a final time to make sure that the passage was free of killer machines, he turned and entered the branching tunnel. At last, he was heading toward the center of the floor where, with any luck, he would find his friends healthy and whole.
+
+He kept his sword drawn as he proceeded and was ready to reach for his wand at a moment’s notice. He was certain that whatever awaited him ahead would be considerably more dangerous than the rats he’d left behind. Nick knew by now that neither Taltos nor the System would let him leave this place without a fight.
+
+He began putting the miles beneath his boots, keeping an eye out for more gear-rats as he went. Not to mention traps, whatever had destroyed the walls, and anything else that wanted to kill him. He kept up a brisk pace while moving as silently as he could. All that stealth training back on the Searing Isle and Blackmist Bog is really paying off now.
+
+This tunnel was a bit smaller than the one circling the level, and its surfaces were in considerably better shape. Whatever disaster had occurred within these halls hadn’t been as bad in this area, although he could still sense lingering traces of a force-related essence residing within the scarred stonework.
+
+Since there wasn’t as much rubble to navigate or places for enemies to be lying in ambush, he made remarkably good time over the next few hours. Nick widened his stride and walked for a good ten miles without coming across the next landmark on his route, a circular path that ran closer to the tower’s core.
+
+Apparently, the floor was even bigger than he’d thought. The inner ring was separated from the outer loop by what had to be twenty miles of bedrock or more. It made the word ‘floor’ feel inadequate, since this underground facility was easily the size of a major metropolitan city. At least there was solid stone rather than open air running between the blocks, or exploring the tower’s basement would have been completely overwhelming.
+
+Although he kept most of his attention on his surroundings, there was plenty of time to think, giving Nick a chance to reflect on what he had experienced so far, and how he wanted to proceed.
+
+With any luck, he was following the same path that part of his team had taken, whoever had been eating cheese back in the cafeteria. Given the sheer scale of the place and the long stretches of passageway running between the room clusters, it felt like Nick was delving into an underground realm than exploring the basement of Darkstone Tower. Although he knew from his vision that the true tower encompassed far more space than the physical tower he’d seen back on planet Drezen.
+
+Eventually, he came across another block of chambers, which were smaller than the rooms running along the outer rim. More of their interiors were intact, and before long he started passing by places that were far more interesting than the empty rooms and collapsed enclosures he’d seen so far.
+
+There was a long series of what had once been dormitories, housing the skeletal remains of bunkbeds and storage trunks. Set along the opposite side of the tunnel was a row of private suites.
+
+If Nick had to guess, he’d wager that this section was the living quarters for the people who had staffed the facility, including nicer rooms for the individuals in charge. Some of the doors were still functional, and the items in those chambers were still intact, which made this a perfect spot to rest for the night. Maybe I’ll come across my team sometime soon.
+
+When he poked his head into the next furnished suite, Nick broke into a broad grin. He could see the charcoaled remains of a fire in the hearth, and the faint scent of smoke still lingered in the air.
+
+One of his friends had been here sometime within the last few hours. With any luck, he would catch up with them before much longer. Since he had reason to hurry and there wasn’t anything in here that seemed valuable, he didn’t linger for long. They probably picked up the best stuff already.
+
+After a quick survey of the adjoining area, which had once been filled with showers, sinks, and the decaying remnants of exercise equipment, he continued on his way with a spring in his step, optimistic that his solo arc was coming to an end.
+
+Not long after, Nick came across a large room set apart from the rest, with decorative carvings adorning its exterior. He almost walked past it, since the entrance was covered in debris, but then he saw that System writing was engraved across the top of the doorway. When he wiped it clean, he could make out the runes, which read, “Director of Specimen Refinement.”
+
+It was the most promising place that he’d seen so far. Figuring that this was a good chance to learn more about this floor and possibly pick up something valuable along the way, he decided to take a quick look inside before moving past. He squeezed between the rubble piled outside, slid through the doorway, and entered the enclosure beyond.
+
+Nick found himself looking at what had once been a swank office. The walls were covered in hand painted tiles, although most of them were smashed. The floor had once featured a rich blue carpet. However, the rats had eaten it away, leaving only a few scattered patches behind. Some of the furniture was still standing, likely because it was made of stone, one of the few materials that the constructs wouldn’t touch.
+
+There were the remains of a smaller desk for what looked like a personal assistant, a waiting area, and the skeleton of a larger desk in the back. Behind them were several objects mounted to the wall on racks, set too high for the swarm to reach.
+
+Nick was curious and wanted to check everything out. But he forced himself to remain perfectly still and size up the room first. Which wound up being a lucky break, since he got a ping of danger in response.
+
+It was a good thing that he had chosen to exercise caution and use the skill, because he caught sight of a pair of gear-rats a few seconds later, who were busy harvesting the last bits of carpet. The disaster might be more recent than I thought. They haven’t eaten everything yet.
+
+So far, the mechanical critters had proven to be extremely sensitive to sound, but they hadn’t reacted to mana in the air, unlike many of the beasts he had fought. Nick nodded to himself at the sight, not discouraged in the least.
+
+After all, it was a perfect chance to experiment and learn more about the magical constructs while there were only a few around. He’d already identified a good hiding place a mile or so back. If he drew too much attention, he would just sprint away at top speed and use it to lose the swarm.
+
+Now it was time to pick up some experience, construct remains, and gain a bit of knowledge in the process.
+
+Mana dart. Nick concentrated and conjured a pair of metallic missiles. They shimmered into existence and went whirling around his head, waiting for him to pick his target and give the order to fire.
+
+He took a moment to appreciate how much bigger and more menacing the spells looked after their latest upgrade, then settled down to wait.

@@ -1,0 +1,59 @@
+---
+id: 972312b0-09c1-51c4-b278-ba71d40c3e28
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99: Good News and Bad News"
+slug: 0140-chapter-99-good-news-and-bad-news
+partOf: labyrinth-of-the-mad-god
+position: 140
+ownLength: 1760
+unit: words
+publishedAt: 2025-03-05
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2106255/chapter-99-good-news-and-bad-news"
+royalRoadId: "2106255"
+---
+
+Regardless of the details, this island was big. By the time that midday rolled around, the oasis was nothing but a distant memory. They wouldn’t have made it without the water in Nick’s bag and Sophia’s venom to freeze it, and even then, they had to stop every few hours to recover from the grueling ordeal. Fortunately, some of the cacti were huge—large enough to let the entire party rest within their shadows.
+
+Team Earth crossed the dunes in line formation. Whoever was last at any given moment used a palm frond to sweep away their tracks, reducing their presence as much as possible. The pirates flew overhead several times throughout the second half of the day. On each occasion, the team dove into the sand and covered themselves as best they could, freezing in place until the airship passed by.
+
+It was clear from the frequency and flight paths of these passes that the sky pirates didn’t know which island Nick’s team was on. Otherwise, there would have been a lot more of them and they would have spotted the party sooner or later.
+
+When the sun began to set, Team Earth kept right on going, making better time now that they were free from the oppressive heat. The temperature plummeted at night, but thanks to the heat trapped in the sand, it wasn’t nearly as bad as crossing the island during the day.
+
+Despite their best efforts, they eventually ran into some aggressive beasts—yellow lizards the size of ponies. The team couldn’t afford to get into a fight right now. They needed to conserve their vital energy to make good on their escape. Nick used his Mana Darts to give the lizards a painful shock, and Sophia sent out a wasp to harry them until they gave up and retreated into the distance.
+
+The next day passed much the same as the first, although there were more pirates to contend with this time around. By now, Nick was certain that the buccaneers knew the party had survived the crash, and they were gradually narrowing down their location. Even though they were far from their landing point, it was growing more dangerous by the hour. Not that they had any choice other than to press on and hope that an opportunity to take to the sky presented itself.
+
+They made camp when they came across a cluster of red stone boulders that were tall enough to conceal their presence, then everyone slept during the hottest part of the day. They couldn’t afford to stop for the full eight hours that Shaun needed, although everyone else was refreshed, since they only needed half as much. To his credit, the man didn’t voice a complaint. He just kept on marching with black circles under his eyes, following the person in front of him and trusting the others to watch for enemies.
+
+Near the end of their second full day on the desert island, Team Earth finally spotted something besides sand, lizards, and rocks. A cluster of palm trees was jutting up against the horizon, revealing that they were approaching another sizable source of water. When Nick looked through his spyglass, he broke into a relived grin.
+
+“There’s a base up ahead,” he told the others. “I can see ships coming and going. We might have a fight on our hands when we try to steal one, but we’ve finally found a way off this isle.” While everyone else took refuge behind a giant cactus, Veronica borrowed Nick’s Charm of Muffling and spyglass, then went to take a closer look. She returned an hour later wearing a scowl.
+
+“I have good news and bad news. The good news is that the base is a massive supply depot. Security is lax, likely because there aren’t many beasts on this island, so it looks relatively easy to sneak into. The bad news is that the only vessels docked right now are some two-person vehicles and that giant ship we saw earlier. I overheard some of the pirates talking and was able to pick up some intel. It’s called the Bloody Surprise. Since it’s so big, it occasionally doubles as a transport as well as a warship. They are in the middle of loading and unloading various supplies and plan on leaving first thing in the morning. Best of all, they’re heading for the staircase at the top of the floor.
+
+“Their boss Alma is inside, which means that we’ll be risking a fight with the strongest pirate on the island backed by a full crew, including her elite forces. But we might be able to sneak aboard inside one of the big crates and reach the exit to the level by a means that no one will suspect. It’s going to be dangerous as hell. I don’t think we have a choice, unless you want to wait and hope that another ship arrives or start searching for a hidden staircase. But we didn’t see anything on this island that looked promising and we’re running out of time.”
+
+This marked the beginning of an animated discussion. No one wanted to fight a veteran, tier-two warrior, let alone one with scores of allies nearby. On the other hand, they needed to get off this island and leave the level before they were spotted and every ship in the area came swarming for their position. Since there wasn’t another guaranteed way off the island, Team Earth eventually decided that stowing away was their best bet, despite the danger of being so close to such a powerful adversary.
+
+Veronica drew a map of the base in Nick’s journal, then the party sat in a circle around it while hammering out their plan. V pointed out a loading area, where various resources that the pirates had collected were awaiting transport to the processing plant on the top island, which was some manner of prairie based on what she’d overheard. The crates were heavy and big enough to fit several people each. If the party was able to sneak inside, the extra weight wouldn’t arouse too much suspicion.
+
+The tricky part would be getting to the loading dock without being spotted, prying open the top of a crate, and then sealing it shut behind them. Fortunately, the crew was planning to take the night off. Apparently, a storm was coming. Nick hadn’t realized that the inside of the tower had its own weather, although it made sense when you considered the scale and the fact that one side was open to the outside air.
+
+On that note, he could see dark clouds brooding along the horizon through the gap in the wall. He distributed some tools from his pack, so that everyone could help open the crates when the time came, then the team ducked behind some boulders and settled down to wait. Hopefully, the storm won’t be too bad, but either way, we don’t have a choice other than to endure it until the sun goes down. With any luck, it won’t start raining until we’re ready to make our move.
+
+Unfortunately, Team Earth had used up all their luck making it this far without being spotted. An hour before sunset, clouds began wafting through the side of the tower. Their bellies were dark and swollen with the promise of rain. The wind began to pick up—a moist gale riding the approaching stormfront. Nick passed out some of the jackets and ponchos he had taken from the storage room, just as the skies opened and the rain began to fall.
+
+It began as a gentle patter—light enough that the rain soaked into the thirsty sands without pooling, creating clouds of steam along the yellow dunescape. Over the next half hour, that patter transitioned into a downfall, which had become a full-on deluge by the time the sun began to set. It was miserable being out in the rain and wind. Even with his waterproof gear, Nick was soaked to his skin and chilled to the bone.
+
+On the other hand, the heavy rain, cloud cover, and steam-spawned mist severely limited their visibility. Nick could only see about ten feet in front of him. It would have made it difficult to reach the pirates’ base if they hadn’t already scouted the area, but as it was, it was a perfect opportunity to sneak inside and board the airship.
+
+The party began walking single file. Veronica took the lead, and Devin brought up the rear. They advanced with their weapons at the ready, just in case a hungry beast decided to take advantage of the murk to launch a surprise attack. Something big did take a low pass at them on the way, sending the team scrambling to defend themselves. But the beast must have decided that there were too many of them to fight, because after issuing a piercing cry, they didn’t see it again.
+
+Half an hour later, V held up a fist and the party came to a stop. She pointed, and when he followed her finger, Nick could see lights in the distance. They were bright enough to make out from a ways out, despite the gloom and rain. Several of them looked like spotlights that were shining over a wide area. A few were torched-size and belonged to the sentries manning the walls.
+
+The arrangement made it easy to track their positions. Like Veronica had reported, there weren’t many guards for a base of that size. There was one pirate posted at each corner and a pair that walked the perimeter of the wall in a slow circle. After watching them take a few laps, he judged that there was a ten-minute gap between their circuits, which would give the party enough time to climb the barrier and get inside. Given the thickness of the fog, he was hoping that the sentries in the corners couldn’t see the middle of the wall, which is where the team decided to make their entry.
+
+After Veronica pointed out the side where the loading dock was, Team Earth circled the base, bracing their bodies against the howling wind as the rain pelted them in a relentless barrage. They waited until the patrolling pirate walked past their position, then V used a grappling hook to scale the wall, which was about fifteen feet high and made of white stone.
+
+Nick’s heart began to pound, accompanied by peals of thunder resounding in the distance. It was time for Team Earth to place their bets, then see how the cards came up.

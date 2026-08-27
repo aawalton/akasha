@@ -1,0 +1,209 @@
+---
+id: fd00cb8f-1115-5664-bc5e-a79587ca64ea
+page-type-slug: story-chapter-royal-road
+title: "131 — Book 3, Chapter 30 — Bitter Focus, Pt 10"
+slug: 0134-131-book-3-chapter-30-bitter-focus-pt-10
+partOf: just-add-mana
+position: 134
+ownLength: 3093
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3357948/131-book-3-chapter-30-bitter-focus-pt-10"
+royalRoadId: "3357948"
+---
+
+Part of the problem with talking about this was that it was one of the few things that Cale had next to no experience with, given how rarely he was able to talk to anyone about it in the first place.
+
+That and the fact that despite all his searching, he had no idea what had happened to humanity. Cale had spent longer than he could remember believing he would never know what had happened to his kind. That he would chance upon something that seemed like it would answer that question now, in the middle of a dungeon he had expected to be nothing more than a standard pilgrimage...
+
+Well, even now, the whole situation didn't quite feel real. It was a good thing he could talk to others about it for once, or he might have assumed he was under some sort of illusion again.
+
+(Cale had, in fact, checked for that a few times and had thus far found no indication that he was subject to any kind of illusory magic. It didn't stop him from checking again every so often. It was common sense to check for it every time it felt like a universal law was being broken, and while he was probably doing it a bit more than was necessary, Cale felt like he'd earned a little paranoia in this regard.)
+
+"I cannot imagine the scale of magic that would be required to make the entirety of the Great Realms ignore the extinction of your species," Professor Graystalk said quietly. He sounded like he was still trying to process the sheer tragedy of it. "You say that this affects every mage you have met, no matter their strength?"
+
+"Pretty much," Cale said. "I hadn't encountered anyone naturally immune to it until Professor Sternkessel, and I'm still not sure why he isn't affected by it. Something to do with him being a Greater Indictment, I suspect."
+
+Graystalk nodded, though he still seemed troubled. "It is disturbing to think that such magic has been influencing us all this time. I am sorry that you have had to face it alone."
+
+That made Cale smile a wry smile. "I'm used to it."
+
+"That doesn't make it right," Leo muttered. He and Syphus seemed more frustrated by the revelations than anything else—the idea that something so important to their mentor had been hidden from them really seemed to bother them.
+
+Thorn, on the other hand, had more practical questions, and Cale appreciated the distraction.
+
+"Do you believe the Headmaster faces the same threat?" Thorn glanced around the room they were in, as if trying to spot the ice shamblers. "What happened to your kind appears similar to what is happening to his. If the threat is the same—"
+
+Cale shook his head. "If it is, then they're at different stages," he said. "I've thought about it, and there are some similarities, but not enough to say anything for certain. Akkau hasn't mentioned anything about ice shambler equivalents, for example, and even if he isn't able to see them we should have at least seen the effect of having them around."
+
+"Could be manifesting in a different manner," Thorn said. "Said it yourself. Great Realms are fundamentally different now. Significance theory as that human described it does not exist."
+
+Cale nodded. "You aren't wrong," he said. "We'll keep an eye out for any other similarities and see if anything we find here could help us figure out what's going on with the Headmaster."
+
+Graystalk made a small, distinctly unhappy sort of noise. "I wish he told us of his plight," he grumbled. "I cannot believe we only learned of it through his students."
+
+"He did not want you to worry," Thorn rumbled, though he didn't look Graystalk in the eye. "We were told not to reveal that matter to any of Brightscale's professors. Was the only way he would allow us to research a cure for him."
+
+"And you only discovered the problem because Sekera was able to identify a problem with his soul and you confronted him, I know." The elven professor sighed wearily. "Stubborn fool. I can see why Sternkessel stopped talking to him."
+
+"Mm." Thorn grunted, withdrawing slightly into himself again. "Human. If we are unable to remember what happens in this dungeon..."
+
+"It falls to me to make sure the same doesn't happen to Akkau," Cale said, nodding. This was more familiar territory. "Don't worry. I don't intend to let what happened to humanity happen to anyone else. No one should have to face what I did."
+
+Thorn stared at him. "...No. Was about to tell you to help us remember," he said, in a tone that implied Cale was being an idiot. "Am worried about Headmaster, but have not forgotten about you."
+
+Cale paused. "Uh," he said.
+
+"I will not accept simply forgetting about your predicament once we leave, either," Graystalk told him gravely. "Neither will your apprentices, I suspect."
+
+Both Syphus and Leo nodded in fierce agreement. "Screw that," Leo said.
+
+"Fuck," Syphus supplied helpfully.
+
+Thorn contributed by muttering something under his breath so quietly that Cale had no idea what he said. "What was that?" Cale asked, still off-balance.
+
+"Not repeating myself," Thorn muttered, immediately looking away. Cale just blinked, then turned to Professor Graystalk, who was wearing a faintly amused grin that indicated that he had heard what Thorn had said but wouldn't be sharing.
+
+Right then. He was just going to move on from that, he supposed?
+
+It meant a lot to him that none of them were willing to just forget about his predicament, but finding a solution to that when he'd been searching for eons didn't seem like a good use of their limited time. Cale managed to muster up a small grin. "I appreciate it, guys, but it's probably best if we focus our efforts on finding out what actually happened," he said. "If I really need to talk to you guys once we leave, I can always conjure up a barrier. It works if I try really, really hard."
+
+"You won't, though," Syphus pointed out. Which was true, but they weren't supposed to know that! Cale stared at his apprentice, aghast, while everyone else nodded in agreement and then just started discussing the problem at hand like he wasn't even there.
+
+"I cannot see how a magic like this could even exist," Graystalk said with a slight frown. "It would be best to start there, if anyone has any ideas. A spell that impacts the entirety of the Great Realms should be subject to the hierarchy of magic. That it appears to affect every mage regardless of core or specialization defies everything we know."
+
+"Except Cale," Leo supplied.
+
+Graystalk nodded. "If Cale alone were unaffected, it could be explained by the absurdity of his core," the professor said. "But Sternkessel sharing his immunity defies that logic."
+
+"We really should focus on the dungeon and why humans disappeared," Cale interjected, trying to get everyone back on track.
+
+Graystalk glanced up at him, then slowly shook his head. "That will not be enough."
+
+"Why not?" Cale was aware he might have been whining a bit. It was possible that having multiple people supportively trying to remember what he was going through was a tiny bit overwhelming for him.
+
+"Even if this dungeon tells us why humanity has vanished, there is no guarantee it will tell us why we cannot remember that fact," Professor Graystalk pointed out, and Cale hated that he couldn't deny that. It was a frustratingly good point. "It is quite possible that those are two entirely separate events, and even if they are not, the specific way in which this obfuscation functions will likely answer some crucial questions."
+
+"Yeah," Leo said. "I've been thinking about that. I mean, if they have to make everyone forget, why not just make us forget that humans even exist? Making us remember them but not notice that they're gone seems like a way more complicated spell."
+
+"Suggests purpose," Thorn grunted. "Means there has to be a reason humanity cannot be entirely forgotten."
+
+"Indeed." Graystalk had a hand to his chin and was now clearly deep in thought. "Perhaps the memory of humanity, if not its existence, still plays a key role... But we are getting ahead of ourselves. I would first like to determine how we can best preserve our memories once we leave this dungeon. Cale, you believe it is the dungeon itself allowing us to perceive and remember that you are the last of your kind, correct?"
+
+Cale sighed, resigning himself to this conversation. Clearly he wasn't going to convince any of them not to try, and if he was being honest with himself, he desperately wanted his friends to be able to remember. "Yeah," he said. "It's the only thing that makes sense, anyway. As far as I can tell, this dungeon is somehow replicating a pre-Yggdrasil era. Yggdrasil was what existed before the Great Realms, for anyone who doesn't already know."
+
+Neither Syphus nor Leo were surprised, but both Graystalk and Thorn stared at him like he'd grown a second head. Between the two of them, Graystalk managed to speak first. "You are—older than the Great...?"
+
+"I'm not the only one," Cale said quickly. "Alina is too, remember? A lot of infernals are really old!"
+
+Graystalk rubbed his temples. "I believe I will table that to process later," he muttered. "It seems likely, based on what you have told us, that the state of this dungeon is what is interfering with the effect. Part of this is likely because we must be able to understand the scenario it is presenting to even participate, but if you are able to minimize the effect with a barrier, then I cannot help but wonder..."
+
+"That is kind of weird, now that you mention it," Leo said thoughtfully. "That implies it's a constant, external effect, isn't it? But if it could be warded off with mana alone, a standard barrier should be enough to circumvent the effect. Or at least a concentrated mind barrier or something. I'm assuming you've asked a mind mage to try that before."
+
+"I have," Cale agreed. "Didn't do anything. Only the one I make works, for some reason, and I have to put a lot of mana into it."
+
+"Understatement," Thorn grunted. Cale glanced at him, surprised, and the vinewalker sighed before elaborating. "Felt it earlier when you put the barrier around us. Researched the idea of it before while looking for methods to hide from erasure effects. Hoped to use it to stave off the progression of the Headmaster's... infection. Dismissed it as impractical."
+
+"The idea of what, exactly?" Cale asked, confused.
+
+"You said you 'put a lot of mana into it'," Thorn said. "That is an understatement. You flood the boundary with realm-equivalent mana and violently agitate it."
+
+Okay, that was an accurate description of what he was actually doing, Cale supposed. He wasn't sure he would have gone with the violent agitation part. "And?"
+
+"You're performing a form of reality isolation," Thorn said flatly.
+
+Graystalk blinked. "You are suggesting that a sufficiently strong and, ah, agitated barrier can isolate individuals from reality itself?"
+
+Thorn nodded. "Purely theoretical," he said, before shooting Cale a vaguely exasperated look that said he knew he was going to be re-evaluating a lot more of those purely theoretical ideas very soon. "Supposed to be, anyway. Reality isolation temporarily severs a section of space from the Abyss itself. As I said, I dismissed it as impractical, partly due to the mana quantity required but also because I was warned it might upset the Leviathan."
+
+"That won't be a problem for Cale," Syphus offered. "If it did she would probably let him kiss it better or something."
+
+Cale sputtered. "What?!" he started, indignant. "Where are you even getting these ideas? Who have you been talking to?!"
+
+"I believe I have some questions," Thorn said.
+
+"If your description of reality isolation is accurate, then I suspect we are currently bypassing the effect through the same mechanism," Graystalk said, undeterred by the aside. "Though I do not necessarily understand why it appears to be independent of the hierarchy of magic."
+
+"Maybe it's not magic at all," Leo suggested, and everyone—even Cale, who wasn't quite done sputtering yet—turned to stare at him. "Uh, I mean, it could be something like those rules the Abyssal Ones can impose, right? Maybe it's not a magical effect so much as a rule being imposed on the Great Realms, uh, somehow."
+
+Professor Graystalk narrowed his eyes slightly. "Greater Indictments are creations of the realms," he said, the words thoughtful. "They would be one of the few entities unaffected by those rules, given they are a product of them."
+
+"And it'd basically confirm we'll forget again once we leave this dungeon," Leo said. "I have no idea how we'd circumvent a rule of the Realms. How'd anyone even get it in there?"
+
+Everyone turned to look at Cale, who blinked. "What?" he asked. "Don't look at me, I have no idea. I don't make the rules."
+
+"You are very good at breaking them, though," Professor Graystalk pointed out mildly, and that gave Cale pause.
+
+He was, wasn't he?
+
+Maybe he'd been approaching this the wrong way.
+
+***
+
+Cale was still looking contemplative when they made their way out of the room and was greeted by the goblin Adam had left for them. He'd told the others he'd need some time to figure out a plan, and though they had needled him a bit to make sure he was actually coming up with one and not just trying to get them to move on, they'd eventually believed him.
+
+Emphasis on eventually. Syphus and Leo had been especially determined to make absolutely sure that he would keep his word, and it had taken several promises, oaths, and secrets that Cale had been keeping in his back pocket before they believed him.
+
+And even now they kept casting him suspicious looks! Honestly. He had no idea what he'd done to deserve this other than all the things he'd done to deserve this.
+
+"You have muchly time remaining before dragon rain," their goblin guide rambled happily. Said guide had insisted several times that his name was Clock. He was, apparently, not some unheard-of species of clock goblin. Rather, he wore a clock on his head for anonymity so that the other goblins didn't recognize and get jealous of his prestigious position as Adam's personal assistant.
+
+Cale had no idea what to make of that.
+
+"Clock suggests you put things in rooms then explore!" Clock said. "We have many bigly classes today by many famous human mages! Is rare big opportunity. Must learn!"
+
+Wait. Cale glanced at the others, who seemed equally surprised, then around at the hallway they were actually moving down. He'd assumed they were in some sort of palace, given Adam's apparent position as royal advisor, but the layout of different rooms felt remarkably familiar...
+
+"Are we in another academy?" Cale asked, suddenly delighted. He wanted to know what had happened to humanity, but this was nearly as good, and they didn't have anything else to do in the meantime anyway! This was a chance to see what human lessons were like. And what magic in general had been like in the pre-Yggdrasil era.
+
+Evidently the others were also intrigued, because Professor Graystalk was looking around with a renewed sense of fascination, Leo was already taking notes, and even Thorn looked,.. well, he looked slightly more impressed, anyway. The vinewalker's expressions didn't really change much.
+
+"Yes yes!" Clock cheered. "Human magic exchange academy! Thoth University! Many famous humans. Come! Clock has authority to register you."
+
+"I would like to be registered as a professor, please," Graystalk said.
+
+Clock paused. "You sure? Humans competitive! Will make you prove yourself."
+
+"I am quite certain." Professor Graystalk was wearing a grin Cale wasn't familiar with. "Perhaps you could register Cale as my assistant?"
+
+"Yes yes! Clock can do that. You want... attend and teach? Yes?" Clock bounced a little on his feet. Cale opened his mouth to protest—he really just wanted to attend a bunch of classes—and then shut it again.
+
+Graystalk was supposed to teach them to craft magical foci. That was probably what he was thinking about. Classrooms would be a useful resource, and they might even get to see if humans did things differently here. It could be fun.
+
+"Yes," Graystalk said, glancing at Cale.
+
+Cale gave him a thumbs up. "Sure, I'll be his assistant," he said. "Where do we sign up?"
+
+"Rooms first! Put things in room," Clock said. "Pick up uniforms! Then we find administrator branch. Come, come!"
+
+Cale glanced at the others, then followed along, bemused.
+
+If only Flia and Damien were here. He hoped they'd find a way to meet up soon—he really didn't want them to miss out on this. They would've hated to be left out of cool new magic lessons.
+
+***
+
+Flia and Damien sat at the only two desks in what was indisputably a classroom that Ashvali had shoved them into. Why there was a classroom in the motel, Flia had no idea. Nor was she certain they were going to learn anything useful here, given their professor was...
+
+"Bob," the indescribable eldritch horror supplied helpfully in a thousand different voices. "My name is Bob."
+
+"How many of you are named Bob?" Flia asked, exasperated.
+
+Bob undulated for a moment. "Thirt... eventeen."
+
+"That's not a number."
+
+Damien nudged her. "I'm not sure we should argue with Bob," he whispered.
+
+"I'm just saying," Flia grumbled. It didn't seem to matter to Bob anyway—it just undulated again, splattered itself across the chalkboard, then re-formed into the vague impression of a professor holding a stick.
+
+"First," Bob said, "I will teach human etiquette!"
+
+"We know human etiquette," Flia said. Why had Ashvali called this important again? "Humans aren't forgotten. That's sort of the whole thing."
+
+"If you are looking for a human and hear footsteps behind you, never turn around," Bob said. "The human is following you! But if you turn around, both you and the human will be trapped forever."
+
+Flia frowned, straightening slightly in her seat; beside her, Damien did the same.
+
+This wasn't human etiquette at all.
+
+It could have been nonsense, but Flia had the strangest sense that Bob was trying to communicate something to them, and she was pretty sure the look on Damien's face said he thought the same.

@@ -1,0 +1,163 @@
+---
+id: f0e004ca-7bfc-5b27-a8e8-1667a428a388
+page-type-slug: story-chapter-royal-road
+title: "472. New Awakening Trial"
+slug: 0023-472-new-awakening-trial
+partOf: leveling-up-the-world
+position: 23
+ownLength: 2112
+unit: words
+ownProgress: 2112
+publishedAt: 2022-04-25
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/893955/472-new-awakening-trial"
+royalRoadId: "893955"
+markedReadAt: "2026-06-29T22:40:56.493Z"
+---
+
+Every item in the awakened forge was patiently waiting for Dallion to start work. It had been over two hours since he entered with enough sky silver ingots to make anything his mind could desire short of a carriage. Yet, not only hadn’t he struck any piece of metal once, but he hadn’t even set up the furnace. Instead, he just sat there, thinking.
+
+An invitation to go to Linatol. As a provincial capital, the city was second only to the imperial capital itself. Granted, the Wetie province was the least prosperous of the seven provinces, but it still was a level exceeding any other city Dallion had visited. However, it wasn’t the city that had made Dallion awestruck, but the people in it. March hadn’t openly said who their patron was, but Dallion knew it was the archduke himself.
+
+You’ve overthinking it as usual, dear boy, Nil said. More than likely you won’t even see the archduke. Some minor noble from his family would give you the instructions. And that’s only if you’re lucky. There’s every chance that an awakened servant acts as a go-between.
+
+Easy for you to say, Dallion said.
+
+The empire had a total of eight provinces, eight of which were controlled by an archduke. While in their domain, their authority was equal to that of the emperor himself, not to mention that the rumors were that their awakened powers weren’t that far off. In Nerosal, everyone trembled at the strength of Countess Priscord, but compared to the archduke, she was like a kitten that had barely learned how to make use of its claws. And then there was the matter of the swords themselves.
+
+When he had reached the final temple of the one at the Icepicker guild, he had found a crown containing two skill stones. One was the zoology gem that Dallion had used, but the other was missing. That one was supposed to give the person who claimed it mastery over plants—herbology skills—which coincidentally was related to strange behavior of crops that was taking place throughout the continent right now.
+
+Vihrogon, Dallion said. What do you think?
+
+What do you want me to say? The dryad guardian replied.
+
+Ages ago, the dryad had been a sword marshal—one who had led armies, and also condemned millions of his own kind to life within the sword. Originally, they were meant to remain there only for a while, until the war was over, but the Star had betrayed all. As a result, the entire dryad race had been banished to the awakened realms, and all those within the swords were all but forgotten. Since then, Vihrogon had spent his existence as a companion guardian in an armadil shield.
+
+Do you think someone might have obtained another of the twi-crowns? Dallion pressed on.
+
+It’s possible, though unlikely. It takes someone with empathy to sense the crown, even if they know about it. Besides, there’s no guarantee that the gems are intact.
+
+There’s no reason to think they aren’t…
+
+Dallion stood up and looked at the furnace. He had come here to get his mind off things and make a new dartbow. So far, he hadn’t achieved either of those things. In the past, he would have kept on drowning in his doubt. Now, though, he knew exactly what to do. Unfortunately, he wasn’t going to like it.
+
+PERSONAL AWAKENING
+
+The entire forge and everything around it disappeared out of existence as Dallion entered his awakening realm. This was the world that represented everything he represented, from traits and skills to hidden fears locked up in some hidden corner of it. The only way to move on and increase his hidden power was to complete the awakened trials by defeating those fears. However, in the last few months, that had become a lot more difficult.
+
+YOU ARE LEVEL 56
+
+A blue rectangle glowed in the middle of a stonehenge on top of a cliff overseeing an azure sea. Three towers were visible there, along with a silver bridge connecting one of them to an island a short distance away.
+
+Back on Earth, Dallion would have dreamed of going to such a tropical paradise. Here, he could do so any time he chose, which was becoming less and less frequent. Being a hunter, he had spent more time in the real world and the items of weapons he made and repaired. All in all, he had visited the realm less than three dozen times in the last three months, each time to attempt to level up.
+
+Taking a moment for his eyes to adjust to the bright sun, Dallion then tapped the rectangle. It spun around, revealing his current traits.
+
+AWAKENING: 56
+
+BODY: 35
+
+MIND: 40
+
+PERCEPTION: 30
+
+REACTION: 30
+
+EMPATHY: 23
+
+The numbers were quite good, although he would have appreciated the perception being slightly higher. When it came to hunting, that seemed to be the most valuable trait of all.
+
+“They haven’t changed since last time,” a voice identical to Dallion’s said.
+
+Standing a few steps away was a copy of Dallion, only with slightly paler skin and perfectly white hair and eyebrows—one of his echoes. Dallion had created it using his awakened powers, back when his level was in the forties. The entity shared most of his skills and abilities, though not his health. Also, it was able to read Dallion’s thoughts as they occurred.
+
+“Always nice to see you, Ariel,” Dallion said, moving to one of the stone pillars. Several of them were rather wide, containing framed objects within them. Each object corresponded to a skill within one of the nine skill-groups he knew. “How have things been here?” Dallion took a harpsisword from its frame.
+
+The echo crossed its arms.
+
+“No small talk?”
+
+“You’ve been doing this each time you come here,” Ariel said. “When you bother at all, that is.”
+
+“I’m getting enough training in the real world. You, of all people, should appreciate that.”
+
+“I appreciate the fact that you’re slacking. The others might give you some slack, but not me. You should have been level sixty by now at least.”
+
+“You’ve been spending too much time with Nil. It’s not always healthy.”
+
+“As if you’d know.”
+
+Suddenly a ball of blue flame appeared inches from Dallion’s head.
+
+“You’re here!” the flame transformed into a firebird. “You’re here! You’re here! You’re here!”
+
+“Hi, Lux.” Dallion smiled and patted the familiar on the head. “At least someone is glad to see me.”
+
+“I’m always glad when you come here! Are we going to a trial? Are we? Are we?”
+
+“Yes.” Dallion laughed. “Yes, we are. Just give me a moment, okay?”
+
+Instead of an answer, the firebird flew right into Dallion, surrounding him with a layer of blue flames. Moments later, a pair of blue wings emerged from his back, lifting him several feet in the air.
+
+“See?” Dallion told Ariel. “I’m already making my way to my awakening trial.”
+
+The echo didn’t look at all convinced.
+
+“Just make sure to pass it this time,” Ariel yelled back. “And no quitting halfway! Keep on fighting until you’ve no more strength left!”
+
+“Do you know what’s the difference between a fighter and a soldier? Dallion asked as he flew higher and higher into the sky. “A soldier knows when it’s pointless to go on.”
+
+With a sudden burst of fire, Dallion disappeared as the firebird that acted as his wings propelled him to the other side of the mountain, right in front of a door made of solid marble. There were no steps leading to it, not even a ledge. This was the entrance to Dallion’s trial, and the only reason it was there was because he had chosen so. After getting tired of going below ground to have his trials, he had decided to have them be in the mountains for once. That didn’t make them any easier or more difficult, but at least it made them slightly different.
+
+Floating in the air, Dallion summoned his whip blade, armadil shield, Nox dagger, and forging hammer. Each item had a familiar of guardian he knew well inside of it, and each of them was ready to assist him in any way possible during a fight, be it here, the real world, or any other awakened realm.
+
+“Ready, band?” Dallion asked.
+
+A chorus of positive responses came at once.
+
+“Well, then, let’s do this,” he opened the door.
+
+You’re in the halls of destiny.
+
+Defeat your hidden fears and shape your future!
+
+A blue rectangle appeared in front of him. With one wave of the harpsisword, Dallion sliced the rectangle in two, transforming it into a cloud of particles that faded away.
+
+Remaining five inches above the floor, he continued forward along a pitch-black tunnel.
+
+Each trial was different. Some were physical, others mental, but in more cases than not, one always had to go along a long tunnel to reach them. This appeared to be a dark trial—that’s what Dallion called trials that were deliberately wrapped in darkness. Neither his improved perception, nor the bright blue flames of the firebird made any difference. As far as Dallion was concerned, he was in the middle of an eternity of darkness. It was only after a minute or so that dimly lit torches appeared on the side of the walls. The tunnel itself had transformed into a wide corridor made entirely of wood.
+
+This is new, Dallion thought. Up to now, he didn’t remember having a wooden corridor for a trial. It definitely was different from the last time he had been here. A week ago, there was nothing but crude stone tiles that had led to the trial chamber. Something had clearly changed, though why?
+
+Eventually an opening emerged, leading Dallion to what appeared to be the inside of an inn. The size was vastly exaggerated, but it didn’t take Dallion long to recognize this place.
+
+“So, this is how you want to play it?” he asked, gripping the hilt of the harpsisword.
+
+The room belonged to the first inn Dallion had gone to upon arriving at Nerosal, the place he had worked as a waiter, inn-awakened, and later bard: the Gremlin’s Timepiece.
+
+“Hannah!” he called out the name of the innkeeper. “Are you the one I’ll be facing this time?”
+
+Dallion looked around. There didn’t seem to be anyone at the bar or the hundreds of tables that filled the space. Even using all his senses, he wasn’t able to detect anyone else.
+
+Nil, do you think this is a logical trial? Dallion asked, keeping as far away from the floor and walls as possible.
+
+Everything is possible, dear boy, the old echo replied. Only time will tell.
+
+Dallion hated that sort of answer, but it was the most common he’d get. Still, he had nothing to worry about. As long as he remained focused and kept his cool and concentration, he had every chance of getting through this. After all, each trial never was anything that couldn’t be overcome.
+
+“It’s not Hannah,” a voice said from one of the tables. Looking down, Dallion saw March sitting there.
+
+“You?” he asked, confused.
+
+“Seems you can’t get enough of me lately,” the woman replied, a cold expression on her face.
+
+Dallion knew that this wasn’t the Icepicker captain he’d seen today. In this trial, she was nothing more than an echo concocted by his subconscious that represented some flaw or challenge that held him back from achieving his full potential. Even so, he couldn’t help but feel intimidated.
+
+“You’re not my trial. Trials aren’t supposed to change.”
+
+“Normally they don’t,” the woman replied. ”However, that’s not always the case. Your previous fear was replaced by a new one and so you’ll have to go through me before things could resume.”
+
+“Of course, I will…” Dallion said beneath his breath. And just when he had figured out what he needed to do in order to complete the previous trial. This one presented a whole different puzzle that had to be uncovered and then solved. “Any chance it’s a logical trial?”
+
+Instead of an answer, March drew her sword, slashing the air as she did so. Immediately Dallion thrust to the side. A thin line had emerged going all the way along the floor, wall, and ceiling, as if someone had drawn it with a pencil. Dallion, however, knew that to be a destructive effect of a line-attack. Not only had the attack been flawless, but it had sliced everything in its back. If he had remained in its way, he could have been sliced in two as well.
+
+“Physical trial it is,” he said, tightening his grip.

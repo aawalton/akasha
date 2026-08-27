@@ -1,0 +1,125 @@
+---
+id: 1e0f092d-6570-5db0-a21f-1c3e071060ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Looking Ahead"
+slug: 0299-chapter-19-looking-ahead
+partOf: labyrinth-of-the-mad-god
+position: 299
+ownLength: 2276
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3228050/chapter-19-looking-ahead"
+royalRoadId: "3228050"
+---
+
+The melee had gone well up to this point, but it wasn’t over yet.
+
+The voidspawn Nick was battling abruptly changed tactics, using its acid webs to drive him toward the edge of the platform. Size Up told him the creature was preparing to grab him and retreat to its lair, leaving its kin to their fate.
+
+The bastard has projectile webbing, a decent leap, and way too many legs. How is it planning to overwhelm me? He had a fraction of a second to come up with a counter before the fiend was upon him once more.
+
+It pressed him hard, burning through its vital energy to separate him from the party. He dodged a wad of silk, followed by a second—almost losing his life when the monster revealed a new trick. It had secured each web to a multijointed leg and yanked them back in a single motion. The silken nets behind Nick’s back came flying at him again, just as the spider fired a third from the front.
+
+A pair of burning patches sprang to life across his shoulders—phantom pain from Sixth Sense kicking in. With attacks coming from three sides, he leapt straight up instead of darting back, clearing the webbing with inches to spare as the voidspawn issued a furious hiss.
+
+It let loose with a slashing swipe as his feet hit the ground, but Nick had anticipated the move. He raised his shield to intercept the strike while activating Force Riposte. The mesh of force mana caught the blow, absorbing the kinetic energy and transferring it into his sword arm.
+
+As a surge of stamina infused his muscles, he unleashed a lightning-fast thrust that scored a deep cut, ducked under an acid web, then activated Heavy Blow bolstered by Force Acceleration.
+
+The spider saw the attack coming and jumped out of the way… which was exactly what he was counting on.
+
+Nick switched off his mobility skill, causing a ghostly copy of his blade to shoot out as the impetus from slash kept right on going. It wasn’t as powerful as Sonic Slice, but it was still a decent blow. The spider raised three blade limbs to catch the projection, sliding across the stonework before regaining control over its momentum.
+
+It came charging back in while launching the biggest web he’d seen yet, but he already had a Piercing Ray in the air. It hadn’t reached full speed, so instead of punching through, the drill bit caught the webbing and began to twist, pulling the adhesive silk around the ray and clearing the air in the process.
+
+The extra weight slowed the spell down enough for the spider to dodge. The second it skittered out of the way, it leapt for his throat and collided with the Arcane Barrier he’d raised while it was distracted.
+
+At that point, the voidspawn noticed the blade flying over its head. Not a force projection this time around but Blightbane itself. The monster realized he had disarmed himself and turned to face him—eager to take out the weaponless fool who had make a deadly mistake.
+
+Nick wasn’t worried. He smiled wide while activating the Legendary sword’s ability.
+
+In the blink of an eye, the Kastillan king manifested in midair, fingers wrapped around the hilt of the weapon that housed his soul. Fritz kicked off the wall of the building behind him, flying for the spider that had just cleared the edge of Arcane Shield.
+
+Before the monster knew what hit it, Fritz landed on its back with the point of his blade leading the way. He drove Blightbane deep into the voidspawn’s thorax, twisting the sword to increase the internal damage. The spider bucked and writhed—dislodging the clinging warrior—but by that point, Nick had rejoined the fray.
+
+He launched a half dozen spells along the way, tearing into the critically wounded creature. Using the short sword he carried for this very situation, he worked with Fritz to finish the monster off, following the sword master’s lead. When the killing blow was struck, he turned face to his friends, watching them come together to slay the final monster in a seamlessly coordinated attack.
+
+Now that the battle was over, everyone scanned their surroundings to make sure their fight hadn’t drawn any unwanted attention. After sounding the all-clear, the team sat down to recover from the grueling ordeal.
+
+Well, Bandit, Nick, and Kenji sat down, draining their canteens before Nick refilled them with the water from his pack. Lurk proceeded to chow down, eating all three monsters withing a matter of minutes. She seemed to enjoy the grisly meal, especially the flesh Bandit had cooked with his flames.
+
+The dino hadn’t devoured the spider’s legs, since they didn’t have much meat and the barbs were tough to chew. He carved off the spikes and scales and stored them in his bag. Given how tough these things were, their parts are bound to be decent crafting materials for Aurora’s smiths—maybe our alchemists too.
+
+While his hands were busy, they debriefed from the fight, sharing their observations of what had gone well and where their teamwork had room for improvement. Nick was happy to see both beasts participating in the process. It seemed that going head-to-head with such dangerous enemies had reinforced the value of cooperation and coordination, which he hoped would make them more amenable to following Kenji’s orders going forward.
+
+“What do you think their Concepts were?” Nick asked at one point, hoping to learn more about the key component of advancing to Tier 2.
+
+“Something about pack hunting and using swarm tactics to take down dangerous prey,” Bandit replied. “Although it wasn’t as coherent as some of the Tier-2 creatures I’ve seen. Not all Concepts are equally potent.
+
+“Even among the same species, some individuals align the elements of their combat styles to form a whole that surpasses the sum of its parts, while others simply shove the pieces together, no matter how poor the fit. I have a hunch those voidspawn would have reached a bottleneck well before advancing to Tier 3, though that doesn’t make them any less dangerous now.”
+
+While he listened to the lemur’s explanation, Nick chugged his Elixir of Restoration. He sighed in relief as the potent concoction restored a significant portion of his mana, stamina, and health at the same time, erasing his wounds and filling his muscles with energy.
+
+Kenji and Bandit split a low-grade healing potion, since their wounds would take several days to mend naturally. Lurk’s Regeneration had already healed her impressive collection of cuts and acid burns, although her mana would be dangerously low for the next few hours.
+
+Nick wasn’t sure if his potions would work on the towering predator, but if they were attacked again soon, he would try giving her a mana potion. The dino’s brutal combat style resulted in her taking quite a few hits, which would be risky if she didn’t have enough energy to use her restoration magic.
+
+Now that the party had recovered from the fight and discussed their tactics, there was last thing they needed to do before they continued crossing the ruined city—pull up their menus and peruse their gains.
+
+Congratulations. You have accumulated enough experience to reach level [38].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+You have 2 free attribute points awaiting allocation at your discretion.
+
+By pushing yourself to the limit in the midst of a deadly battle, you have improved the following baseline attributes:
+
+Dexterity has increased from [23] to [24].
+
+Strength has increased from [23] to [24].
+
+Through use, you have improved the following skills:
+
+Light Shield has increased from [23] to [25].
+
+Pathfinding has increased from [1] to [3].
+
+Stealth has increased from [9] to [11].
+
+Sword has increased from [31] to [32].
+
+Tracking has increased from [13] to [15].
+
+Note: You may not increase your Light Shield and Wand skills beyond 25 until you complete the trials of mastery.
+
+You have accumulated sufficient essence to advance Force Riposte to Rank 1. However, you lack the understanding required to advance the ability at this time.
+
+Fantastic. Another level and enough essence to rank up an ability from a single fight. The Tier-2 monsters in the Labyrinth are dangerous, but this is an incredible opportunity to streamline my advancement. We need to get the rest of our elites in here as soon as possible. Maybe send in a team to establish exploration protocols first, since the margin for error is razor thin.
+
+Moving on, I’ll take my Shield trial while crossing the next conduit. At this rate, I should be able to advance several more abilities before we reach the quarantine zone. Better still, I’ll pick up a new class skill at Level 40, since that will be fifteen levels after I became a Force Weaver. At Level 50, I can choose a new class and I’m pretty sure the System mentioned something about secondary attributes being unlocked then too.
+
+It won’t be long until my baseline attributes start hitting the cap for my Species Grade either. I should gain several points in each from the milestone bonuses, which will really come in handy when we take on the dreadbeasts.
+
+Now that he had considered his gains, Nick needed to decide how he wanted to spend those points. Since he was fighting opponents that could slay him in a single blow if they landed a direct hit, he decided to keep working on his Toughness until he was confident that he could live long enough to quaff a healing potion in an emergency, which would also help him walk away from each battle with less scrapes and bruises.
+
+He sent his intentions into the System, enjoying the sensation of his tissue reforming into a more efficient and resilient configuration. The rest of his team had made decent progress from the fight too. While the battle had been hard-fought and the fallen city was an insanely dangerous environment, in the end, they had prevailed and grown stronger along the way.
+
+I would love to stay here and farm experience, but it isn’t a good idea. We might have lost if we had run into a bigger pack of voidspawn, and the monsters prowling the lower levels are even more powerful. This place will be a fantastic hunting grounds when we grow stronger, but right now, every encounter is a roll of the dice and the odds of going bust are far too high.
+
+While these thoughts passed through his head, the party resumed their trek across the ruined city. Now that he knew what to look for, Nick spotted two additional places where the ground had been altered to form the same type of trap. He noted their locations on the map he was drawing in his journal, and they carefully made their way around. They stayed far away from the monsters’ nests, whose locations were easy to deduce if he followed the detection webs back to their source.
+
+Fortunately, being out in the open was dangerous, which meant the spiders relied on their constructions to find prey most of the time. However, the other species sent hunting parties out from the platforms they controlled, leaving his team scrambling for cover whenever a new source             of danger reared its ugly head.
+
+Thanks to their heavy investment in stealth, Nick’s party evaded the predators’ patrols, although a few of them passed far too close for comfort. It gave him a chance to study the various monsters inhabiting the node, each of which specialized in different types of attacks.
+
+He recorded everything with his PDA and added notes to his journal, anticipating the day when he would return with his people to clear the infestation and claim the Hall of Heritages for humanity, along with anything else of value that could be recovered from the lost city of Eroquis.
+
+“I wonder if it would be possible to build an outpost here,” Kenji speculated when Nick broached the subject. “I’m sure more monsters will arrive over time, given how many are living here. That means this node will be a fantastic place for our elites to level, rank up their abilities, and train their skills. Establishing a forward base will help us defend the Earth too, although I’m sure there are other routes leading to our node, including some that aren’t obvious given the nature of the Labyrinth.”
+
+“Gaining access to the hall is critical,” Nick replied. “Even without knowing the details, it’s a poweful advantage we can’t obtain any other way. I think the outpost is a good idea. We need to explore the Labyrinth to keep the Earth’s guardians advancing along their chosen paths to power.
+
+“Once the year of protection ends, the System won’t be seeding the Frontier with quests and events anymore, and we will need a fresh source of enemies. I’m sure there are countless resources and opportunities in here, and having a base of operations while we explore and exploit them will be vital going forward.”
+
+“Of course,” Bandit added. “None of that is going to happen until we’re strong enough to defeat the monsters living in the bottom level, let alone whatever spun that outerweb. I’ve been watching the spiders, and while they occasionally crawl along it to reach a platform, they don’t nest there and seem afraid to linger for long.”
+
+Nick had been focused on navigating the city and hadn’t noticed that detail yet. “That is an ominous sign. We might discover what spun it before leaving the node, although something tells me we will be happier if we don’t.”

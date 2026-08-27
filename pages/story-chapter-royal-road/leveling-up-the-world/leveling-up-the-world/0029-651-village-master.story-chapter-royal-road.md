@@ -1,0 +1,161 @@
+---
+id: 32b9255d-6d14-55fd-87bc-6e1b9707ced4
+page-type-slug: story-chapter-royal-road
+title: "651. Village Master"
+slug: 0029-651-village-master
+partOf: leveling-up-the-world
+position: 29
+ownLength: 1999
+unit: words
+ownProgress: 1999
+publishedAt: 2022-12-07
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1058190/651-village-master"
+royalRoadId: "1058190"
+markedReadAt: "2026-06-29T22:41:09.784Z"
+---
+
+AREA AWAKENING
+
+The village and the surrounding forest disappeared, replaced by a series of flat hills and abrupt mountains. If everything was a bit redder, one thing he was near the Grand Canyon back on Earth.
+
+You are in the land of CANOPA
+
+Defeat the guardian to change the land’s destiny
+
+A sense of nostalgia went through Dallion. It had been a while since he’d improved anything major. Even item improvements were done merely as an afterthought in order to develop his skills.
+
+Almost immediately, blue flames enveloped Dallion. His firebird familiar was all too eager to go out on an adventure, especially since he could stretch his wings in the awakened realms. For once, it was Dallion who was less enthusiastic.
+
+Summoning his harpsisword and armadil shield, Dallion looked around. Normally it would take weeks for one to find the location of the area guardian. It was a slow process that involved a lot of scouting and fighting local creatures.
+
+“Feel any cracklings, Nox?” Dallion asked
+
+A large black puma emerged a step away from him. The creature yawned, stretched, then took a few sleep steps forward.
+
+“A few,” it replied. “Do we have to chase them?”
+
+That was a good question. Improving the realm to a hundred percent normally didn’t provide any benefit. There was a slight chance that Dallion might receive some minor achievement, boosting a trait by two points, but the effort would be incomparably high. Area cracklings rarely grouped together. The village, while not in terrible condition, was stitched up with magic, meaning that there were plenty of crackling settlements about.
+
+“Why don’t I see any magic?” Dallion asked.
+
+Your level is too low, Nil replied. In time, you will.
+
+“Weren’t mages supposed to see things differently?”
+
+Usually, yes. The echo didn’t give any further explanations. Most likely, once again, it was in the I—have—no—idea category.
+
+“Lux, let’s do some hunting. Nox, you can pass if you like.”
+
+That was more than enough for the puma to disappear back into Dallion’s realm and curl up to nap. It was a mystery where all the energy it had as a kitten had vanished. The firebird, on the other hand, let out a loud chirp of joy. Wings of flames emerged from Dallion’s back, lifting him up in the sky. From there, he was thrust forward in a random direction.
+
+It didn’t take long for the first crackling settlement to be spotted. Knowing what to do, Lux slowed down, then came to a stop about a mile from it, still keeping Dallion in the air. It was at this point that Dallion finally saw the first signs of magic in the realm. A thin layer of blowing magenta surrounded the crackling’s hamlet like a bubble. It very much reminded of the barrier that had been cast around the city of Lanitol during the poison plague. One could assume that in a similar fashion, the barrier didn’t allow cracklings to pass through.
+
+“So, that’s the trick?” he mused out loud. “Looked a lot more impressive in the real world.
+
+That’s because you know how it works. After a few years at the Academy, you’ll start hating magic like the rest of us.
+
+Dallion took no notice. Instead, he summoned his harpsisword, then infused spark in a point attack aimed at the settlement.
+
+Raw force, glowing with the intensity of a falling star, ripped the sky. It passed through the magic barrier as if it were paper, then continued onwards, dealing destruction to anything it touched. The black flame composing the settlement was snuffed out, along with many of the nearby structures and the black gremlins living there. A few moments later, all that was left was the rickety outer wall.
+
+That’s one way of doing things, I guess. Nil didn’t sound particularly impressed.
+
+The enemies had no chance whatsoever. Due to the magic barrier, they weren’t even in a position to escape the lethal attack, rendering the entire experience no different from popping a pimple.
+
+Realm section mended!
+
+Overall completion 83%
+
+The level of realm decay was rather high, a lot more than Dallion would have thought. Back in Neorsal, the city frequently hired guilds to keep buildings and entire neighborhood areas to good condition. The term for such work was sanitation, and despite paying well, it was avoided by anyone who could get away with it.
+
+Do you plan on cleaning the entire village, dear boy?
+
+“Why not?” At least it was going to give Dallion something to do. Also, the completionism within him was already craving for the hundred percent. “Let’s find the next one, Lux.”
+
+Finding all crackling settlements, even with the firebird’s speed, proved to be a considerable chore. Sizes varied. Some settlements were as large as small towns, while others were little more than a camp with a dozen cracklings nearby. Each one had to be destroyed in order for the completion to reach the coveted maximal level.
+
+By the time Dallion got to ninety-nine, evening had fallen within the realm. Unable to spot cracklings even with his perception trait, he decided to pause for a bit of rest. All the point attacks he had been doing had caused his arms to ache.
+
+You seem to be enjoying yourself, the armadil shield said. Maybe you’ve missed your vocation.
+
+“Very funny.” Dallion lay down on his back, looking at the three Moons shining above. For some reason, the majority of them were absent. The Purple Moon took a central position, while the Blue and White Moons stayed on the edge of the sky. “Cocoon me, if anything approaches.”
+
+All the chracklings are caged in magic barriers. What do you expect will approach?
+
+“The guardians.” Dallion closed his eyes.
+
+While each realm had a guardian that represented it, large area realms were different. In addition to the main guardian that represented the area itself, there also were a number of smaller “key” guardians. Defeating enough of them was often enough to claim dominants of the area. However, the only certain level to increase the level of a city was to defeat the settlement guardian.
+
+The rest was long and pleasant. The death of the Star had taken with him most of Dallion’s concerns, allowing him to actually enjoy sleep. There were no more nightmares, no sensation that he was late or not doing enough, just a pleasant snooze. Food was the only thing missing. Being in a realm, Dallion had to put up with the persistent sensations of thirst and hunger, though hopefully not for long.
+
+The second day was spent crackling hunting again. Achieving the final percent was a lot more annoying than one might expect. In twelve hours, Dallion had destroyed fifteen cracklings camps, and the number had remained unchanged. Seeing the problem, he had resorted to help from Nox in finding the last pockets of creatures. By evening, over two dozen more camps were destroyed and still the overall completion remained at ninety-nine.
+
+“Any advice, Nil?” Dallion asked.
+
+Finding cracklings isn’t something I’m particularly good at, dear boy.
+
+“What about finding magic? All of them are patched up, so if I find the source of magic, I’ll also find the cracklings.”
+
+That’s a simplistic way of thinking. There are many things that can have magic. But, yes, there’s a way for you to find magic. It’s just not very intuitive.
+
+“I’m all ears.”
+
+Combine layer vision with magic vision.
+
+“Come on, Nil. That’s one of the first things I tried.”
+
+Yes, but you tried it wrong. You keep thinking in terms of the real world. Magic is self-contained. There aren’t lines connecting each dome to the rest. Rather, imagine it as density. Everything in this realm contains magic, just in so insignificant amounts that it’s difficult to see. If you focus and go high enough, you should be able to see the presence of magic throughout the terrain.
+
+“Like the elevation indication on a map,” Dallion said.
+
+I’ll take your word for it. Whenever you destroy a barrier, the magic emanating from it fades, which will make other areas brighter. Be warned, though, since you’re new at this, it’s likely to cause headaches pretty soon.
+
+“Let’s go, Lux.”
+
+The sun had long set in the realm, but judging by the explanation, Dallion didn’t need light for this to work. Magic was the only light source he needed.
+
+After reaching a height of several miles, Dallion concentrated.
+
+At first, nothing happened. There was nothing but blackness beneath him. Gradually, though, shades began to emerge. It was barely noticeable, as if someone had added a drop of color to a bucket of ink, but thanks to his magic vision, it was visible. Then, the pain came; not the usual tension in the temples or the headaches. This felt as if the inside of his head was burning.
+
+Started already? Nil asked. I expected you to last at least a few seconds more. I guess since you’ve never had any training, you’re well behind.
+
+Dallion tried to maintain the image longer, but his body trait proved useless. The hues suddenly vanished as if someone had turned out the electricity.
+
+“It’s gone,” he said, closing his eyes. Unfortunately, the pain continued.
+
+Don’t worry. You’ll be able to try again in about ten minutes. Half an hour at most. After your headache’s gone, try again. Just be sure it’s completely gone.
+
+By the sound of things, it really did sound like the effects of electricity. When flimsy wires got overheated, it took a while for them to cool down enough before using them again. In this case, Dallion was the equivalent of a thin wire. Until his magic trait increased, or he got used to the sensation, he was going to have to use this ability in short bursts.
+
+Using the downtime to change location, Dallion then tried to use his magic vision again. This time he’d managed to see enough of color in the blackness to indicate the direction of a magic source. Not waiting for the pain to increase, he stopped focusing and flew in the respective direction.
+
+Soon enough, the orc camp came into view, like a flowing pearl in the darkness. One swift attack later, the pearl was gone.
+
+Realm fully mended!
+
+The village of CANOPA is now flawless.
+
+Thank the Moons it was just one, Dallion thought.
+
+He wouldn’t have managed if there were many more. This was the point at which he was supposed to go back down and get some rest. Curiosity pushed him to try and use magic layer vision once again.
+
+There were no expectations. Dallion only wanted to confirm that everything was as the blue rectangle had said it was. To his surprise, the magic in the land hadn’t completely subsided. The spot of the camp was completely black, but there was a faint purplish tint mixed to the darkness in the direction of the east.
+
+What the heck?
+
+“Lux, go there!” Dallion ordered.
+
+The further east Dallion went, the brighter the purple became. Even when the “magic headache” returned, Dallion pushed himself more, determined to find the unexpected source. Before he could, a red rectangle emerged in front of him.
+
+COMBAT INITIATED
+
+Green cones emerged from the ground, surrounding Dallion from two sides. These were guard markers, indicating the area of potential attacks to come. It had been a while since Dallion had to rely on these to warn him of an attack.
+
+“Shield, expand!” he ordered, splitting into two dozen instances.
+
+All the instances attempted to fly out of the green cones. More than half of them failed to, burned to cinders midair by a wave of purple flames.
+
+Magic? Dallion asked. Splitting into a new set of instances. Excluding the Purple Moon’s familiar, this was the first case in which he’d encountered a guardian using spells.
+
+What do you expect, dear boy? Nil’s tone hardened. This has been a mage village for some time. Even guardians pick up new skills under certain conditions.

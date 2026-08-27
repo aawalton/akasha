@@ -1,0 +1,183 @@
+---
+id: 4a7fa076-99e1-569d-964c-16cd216cff34
+page-type-slug: story-chapter-royal-road
+title: "10. Cornered"
+slug: 0010-10-cornered
+partOf: mana-devourer-litrpgmana-cultivation
+position: 10
+ownLength: 3483
+unit: words
+publishedAt: 2024-07-01
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1700174/10-cornered"
+royalRoadId: "1700174"
+---
+
+Seven of the bastards. God, his luck was fucking blessed. Barely crawled out of bed and he’d been dragged here with nothing but his fists.
+
+They didn’t charge him immediately, though. They gave him that at least. Whether intentional or not, the goblins waited for the fanfare to mount even higher, sizing him up as the announcer continued to hype Markus’ appearance, recounting the battle he’d had with the bulleater, embellishing it a little, even, all for the good of the onlookers.
+
+He couldn’t see far into the stands so many feet above with the sun glaring down on him so fiercely, but from the sheer sound of the place, the stadium was even more packed than last time. They must’ve been making a killing on him, the primitive alien that’d slain one of their monsters. Perhaps there were even more gods this time. Maybe more demons too.
+
+It gave him a little time to formulate a plan. What was his plan, anyways? Bleed to death?
+
+That wasn’t a plan. He could do better than that.
+
+The tone of the announcer’s speech changed the moment he’d pulled up a digital image of Markus, projecting it on a massive screen for every spectator to see up close.
+
+“AND WHAT IS THIS?! THE ALIEN HASN’T EVEN BROUGHT A WEAPON TO THIS BOUT! THE SHEER DISRESPECT, HE MUST THINK HE’S TOO GOOD TO NEED ONE!”
+
+There was outrage from the stadium. Cries of anger. Boos. Markus didn’t understand it. It had sounded like they were rooting for him until now, what with how he was being talked up. Why the sudden shift?
+
+It didn’t matter. More important things to focus on. These little monsters weren’t charging him right away. Were they intelligent? They appeared able to resist hitting him until the announcer shut up. Capable of using weapons, too.
+
+Thankfully, they at least didn’t look too hardy. The creatures were around three-quarters Markus’ height, standing at maybe four and a half feet, and while one held a shield, their bodies were covered more in rags than they were in pelts, leathers, or plate. They had little scrappings of armour, looking like bits that they might’ve scavenged and put together themselves, a shoddy, patchwork attempt at defenses.
+
+One in the back didn’t even seem to have a weapon. Had they just grabbed these seven from a cave somewhere and shoved them in here with whatever they were holding at the time?
+
+I can see why this was meant to be an easy fight. They look soft enough, and I’m taller. If I had my glaive, I could probably carve a space around me and pick them off at a distance with it, and that’s even without my powers.
+
+He didn’t get to finish the thought. Planning was over as the announcer’s speech ended, the word ‘BEGIN’ ringing off in Markus’ ears even as the two lead goblins charged him.
+
+Both of them swung with a sudden, ferocious intensity, one wielding a short sword and the other a hand axe. Markus had nothing to block the strikes with, and immediately found himself backing up to avoid them, making space as best he could, a swordtip singing past his chin as he rapidly backpedalled through the sand to evade their strikes, struggling to maintain his balance.
+
+They moved just as sloppily in the unfamiliar terrain, and that was the only reason his throat hadn’t been sliced just now. He needed an edge, and he needed it fast, or he was gonna get fucked. Even as he thought as much, the club-weilding goblin came charging from the side, spittle flying from his frothing mouth as he sprinted up to Markus and drove his wooden instrument directly into Markus’ tricep.
+
+Markus howled in pain, wheeling around to punch the goblin in response, putting as much force as he could into the attack, but while he landed a punch square in the goblin’s bony jaw, he wasn’t sure who came away worse from the exchange, his hand immediately going numb.
+
+He succeeded in staggering the creature, making him move back a step or two in a daze, but it wasn’t long before he shook it off and looked to reengage, swinging wildly and connecting with Markus’ left arm yet again. A fourth goblin was working his way around the other two, this one holding a short spear. Fifth and sixth were heading up the rear. There was a murderous gurgle coming from the mouth of the short sword holder, and he was content to poke and prod with his sword as Markus attempted to dance around the blows.
+
+If he lost balance, he was dead. He knew that much. They’d pounce him and stab him thirty times before he could react. The only reason he wasn’t dead already is because most of the goblins were cautious enough to keep a bit of distance from him. They could see he was unarmed. They wanted to use their advantage as best they could, wear him down, close in on him and tear him apart.
+
+And Markus was counting on just that. He had no clue how to use his new abilities, not really, and for whatever chance there was that this didn’t work, it felt like the only way to do this properly was to get them all gathered around him. To wait until every one of these creatures was solidly within his range, close enough that they felt comfortable, that they felt safe…
+
+“Frozen Tomb.”
+
+He spoke the words aloud, unsure if he’d be able to activate or command the new and unfamiliar skill by feeling alone, though that didn’t stop him from focussing almost entirely upon channelling his new ability, so much so that he caught a deep gash along his leg and another on his forearm from poking, prodding speartips until his mana finally began to respond…
+
+It was like springing a venus fly trap. Ice shot out from his body with such fierce alacrity that it almost scared him, emanating from him in every direction and blanketing each creature within his range, making each of them recoil, snarl, and hiss in discomfort as the ice hit the sand below and began to turn the area around his feet and perhaps twelve feet around him in every direction directly into a solid sheet of magical ice.
+
+Each of them had leapt back a little as soon as he’d activated the ability, immediately wary, staring at one another in fear and confusion, but when Markus didn’t advance on them, their confidence slowly regrew.
+
+They inched in gradually, and as Markus moved in turn, he found that while each of his steps felt as smooth and easy as ever, like he was walking on a marble floor, rather than either sand or ice, the goblins seemed to be having as difficult a time as ever, each of them almost dragging their bodies forwards, looking scared they’d either slip or slide if they moved too quickly any which way.
+
+“Yeah… you like that? Didn’t think I had tricks, did ya?”
+
+Markus wasn’t usually one to gloat. This day had taken that from him, though. Panting, heaving where he stood, Markus searched out for the pool of mana deep within his body, feeling his energy radiating not just through his own torso but ever-so-vaguely through the long sheet of ice. It was an extension of his energy, of his spirit. He could feel as much. Meaning, if he wanted to use this terrain to his advantage…
+
+He picked a spot, one directly beneath the sword and axe goblins stood in front of him, the first ones to have wounded his body. He felt his desires take shape and begin to materialise in full as four crude icicles formed from the space beneath them and immediately drove themselves upwards in a spectral, flowing arc that defied gravity’s pull.
+
+This was Frozen Tomb's second passive: its ability to summon icicles, and Markus intended to abuse it.
+
+The moment the first icicle struck the axe goblin directly in the shoulder, two more smashed into the one on the right, sending him careening back.
+
+One of the icicles flew off in another direction, seemingly seeking another target. Apparently, he couldn’t control their destination, only where they spawned, and while Markus felt the mana draining from his body as he maintained his spell, he quickly seized the opportunity presented by the attack, rushing straight at the axe goblin and smashing his shoulder directly into the little cunt’s face.
+
+He flew back, floored by Markus’ attack, and just as Markus made to stamp on his neck, something pelted him in the back of the head, and he fell straight on top of the fallen goblin, unintentionally pinning the creature.
+
+Markus felt stunned, mind reeling, his thoughts fragmenting into splinters that sat firmly beyond a woolen haze.
+
+Did one of them have a projectile of some sort?
+
+Were any of them close enough to kill me yet?
+
+You don’t have time to sit here and think, you need to fucking move!
+
+Markus shook his head with a bestial growl, whipping it around him and checking to ensure he wasn’t about to be skewered. No one else close enough yet, just him and the creature struggling below him, trying to regain a handle on its fallen axe.
+
+Markus still felt dizzy. When he attempted to shift his body, to make to stand, his brain rejected the notion and sent him crashing straight to the floor, met with a guttural cacophony from the spectators, only adding to the ringing of his ears, the blurring of his sight and mind alike…
+
+He needed more energy. He needed more power. He wasn’t going to get through this otherwise.
+
+Markus fished for the wound the icicle had made, knowing it was somewhere around the goblin’s chest. He fumbled blindly as the creature hissed beneath him, searching and searching until finally his fingers made contact with warm, slick blood.
+
+He drove his fingers into the wound, causing the creature to howl and claw at his chest and collar with dirty, serrated claws, attempting to reach Markus’ neck.
+
+He only needed a couple of seconds to start draining the little beast, and that was all the agony the goblin needed to push further, to bite against Markus’ side, to claw him so fiercely that it sprained and fractured its own hands in doing so, so incredibly desperate to release the pressure building within the wound as Markus continued to commandeer from the creature that which until very recently was eternally his.
+
+He felt the effects beginning to rush into him instantly as he consumed its core. Blood, Life, and Spirit Mana, but he couldn’t tell what grades without looking. His vision was beginning to clear as his victim became increasingly still, its fragile resistance crumpling beneath him alongside its now withering body, and while Markus was pelted by yet another rock, he barely felt the impact.
+
+The rejuvenating effects of his devouring were too potent, and while he was sure he hadn’t crested the influx of power that came with Overcharge just yet, the creature before him was starting to give out, its very essence beginning to ebb as he took from it in moments what it’d held safely within its being for its entire life.
+
+He realised how exposed he was draining the goblin like this, and shot out four more icicles in an attempt to keep his other assailants at bay. It worked for a time.
+
+Then, a spear pierced his right arm as the creature beneath Markus gave out entirely, drawing fresh rivulets of blood and causing his muscles to spasm, but the pain was tolerable with all the new power and vitality now flowing through him.
+
+If anything, it was helpful. A signal to react.
+
+He rolled off of the goblin’s shrunken corpse, scrambling to his feet and attempting to go for the hand axe that laid beside its fresh corpse, but the sudden stab of a speartip made him think twice, his hand nearly skewered if only for a moment’s difference in reaction time.
+
+One goblin down, still no weapon, and he was near to being surrounded again. The Frost Mana within his body was beginning to wane, and while he’d hoped that draining one of those little demons would be enough to get him to Overcharge, to get him to the bevy of stats it brought along with it, he’d not managed to quite cross that threshold. Now, his gambit having failed, he was pretty much back to square one, three of these things on his tail, and one had a shield.
+
+Another rock flew past him. First time the little fucker had missed. Not only that, but where until only moments ago he’d felt the shadow of these three closing in around him, now they were noticeably more still.
+
+A confused cry sounded from one, and soon enough was echoed between all of the others in turn. Markus realised immediately what had happened, watching as the ice solidified around the ankles of the creatures and drove directly up their bodies, partially sealing them in place.
+
+The spell had been up a full minute. They’d all been afflicted with Freeze II for staying in the ice for an extended period.
+
+Markus allowed himself a flicker of hope. He was going to run out of Frost Mana soon, maybe within moments, but this might’ve been the opportunity he’d so badly needed.
+
+He seized it, grabbing the axe from the fallen goblin and easily dodging the laboured strike of the partially frozen goblin so miserably attempting to keep him from attaining the weapon.
+
+He gripped the axe within his right hand, almost considered swapping it to his left with how much it hurt to raise his pierced arm. No. He needed power behind his strikes, and he didn’t have time to hesitate. This might cause him even more damage, but if he didn’t dispatch at least a couple more of these things before Frozen Tomb’s effect ended, he was most likely deader than dead.
+
+Markus howled as he swung with the hand axe, putting every ounce of power into his swing as he could as he aimed for the nasty fucker who’d kept him from grabbing the weapon earlier. He drove the axe directly into the goblin’s chest, but was more than alarmed to find the creature’s body too hard to properly butcher.
+
+The Frozen effect might’ve been making its chest more difficult to pierce, or perhaps the creature was just tougher than it looked, but either way, what should’ve been a lethal blow was merely a gnarly wound, and a second strike didn’t do the trick either.
+
+Markus needed to do something…
+
+He didn’t have time for an imbuement. Those took a few seconds. That being said, he had a new ability that seemed to fit just this occasion, one for when his strikes needed a bit of extra punch.
+
+Harnessing Flame Mana was still difficult for him. He tried to push both Flame and Spirit Mana into his strike, but in the split second he’d gotten to concentrate, he only managed the latter.
+
+Still, the difference in effects was huge. The goblin crashed backwards five feet, sliding across the ice, blood spouting from its partially caved-in chest, as all the while the five remaining onlookers stared at him with a mixture of hatred and fear in their dark, monstrous eyes…
+
+Markus wasted no time, immediately walking over to the second goblin and repeating the process. His next swing was for the short sword goblin’s neck, and try as it might to dodge the motion, straining with all of its might, it was too slow, and Markus too powerful. He cut flesh and sinew from the disgusting creature and watched it slump to the floor like a sack of meat, the life draining from its body as it stared up in anger at the human that had bested it.
+
+He may have found these creatures horrible and ghastly, but he understood that anger. He felt it just as strongly.
+
+He’d been about to move on to the third goblin when suddenly the endless pull against his spirit relinquished, and what initially came as a sigh of relief to him, a feeling of weight being removed from his shoulders where previously he hadn’t realised it was even there, soon turned to a gasp of horror as he realised with a start that his Frozen Tomb had ended, and the four remaining goblins were still as fresh and healthy as ever, the ice melting away from them as they moved back into battle formations, ready to face him again.
+
+“Oh, you can’t be serious…”
+
+Okay, make that five goblins. The one with a fucking HOLE in its chest was scrambling and shuffling back to its feet as he spoke. It garbled something that sounded distinctly like a warcry, walking with a single-minded focus straight in his direction, intent on separating his neck from his spine.
+
+Holy fuck… if he was getting through this shit, he was rubbing it in the face of every horrible creature he met from then on, especially Drathok. As for that imp that had put him here, he’d throw him in the arena with a gang of fucking goblins and see how he liked it, the fucking bas—
+
+Another rock. This one hit him square in the jaw.
+
+Markus stumbled before crashing back onto his ass. He could see the other three melee fighters getting ready to gut him, but the injured goblin was waving them away, snarling and growling at them and forcing them to acquiesce. He clearly had a score to settle, and he wanted to collect Markus’ head himself.
+
+It’d only be seconds before he reached him. Markus was stunned; his body felt weak. He sat dazed upon the sand, his entire nervous system a collection of stinging pains, dull aches, and parts of him that he could no longer feel properly at all.
+
+He averted his eyes from the view above, turned his ears away from the chanting of the sadistic crowd.
+
+Was this how he died? Had he fought this hard just to accept his fate now?
+
+No. He’d win. He’d do something. He had to do something. He still had mana in his body, if he could think of an attack to fire out quickly, if he could—
+
+Markus’ eyes scanned his surroundings wildly as he tried and failed to get a hold of his body’s mana. He was stunlocked, too dizzy to concentrate, too anemic to spring back to his feet, and yet…
+
+Markus noted a glint in the sand. It was subtle, but it drew his attention, as near as it was, a singular dark impression against the yellow-white surface, refracting the light of the sun directly into his eyes.
+
+The stones… the fucking Essence Stones! They'd fallen from his pocket! If he could just grab one, he could Overcharge his body!
+
+But was it too late?
+
+He plucked the darkest one from the ground beside him, knowing that one was the most potent for he’d filled it more than any other. He was sure there was enough in there to bring him to Overcharge, probably enough to heal some of his injuries, too, only…
+
+He clutched the stone, attempting to drain the mana from it, to syphon it into his body, but with how dizzy he still was, with how much the world beat against his skull through each breath he took, he could scarcely transfer more than a few drops at a time, the connection between his consciousness and his mana pool frayed, threatening to slip away entirely at any moment…
+
+Fuck that shit. Markus wasn’t done digging deep. He’d make every last ditch effort he could to get through this shit, and when that didn’t work, he’d go even further, find an even more ridiculous depth to dig to in order to drag his way out of the muck, for that was what it meant to fight destiny, and that was what he signed up for when he resolved to stay breathing.
+
+Markus ate the stone without a second thought, swallowing the golf ball sized amethyst whole.
+
+He felt a pit beneath his stomach threatening to ignite.
+
+The goblin stared into his eyes as it brought forth its blade and swung at Markus’ shoulder…
+
+Markus felt the air slicing right past him, but the blade never made contact. With an explosion of pain and power, he forced the goblins away with intangible, spiritual force, a white-blue energy emanating from him as he clutched his axe hard, fresh blood leaking onto the handle.
+
+[Mana Poisoning II is in effect.]
+
+[Mana Capacity at 366%. Overcharge, E Grade is in effect. Growth increased. All physical stats temporarily increased by 75. Physical damage resistance increased.]

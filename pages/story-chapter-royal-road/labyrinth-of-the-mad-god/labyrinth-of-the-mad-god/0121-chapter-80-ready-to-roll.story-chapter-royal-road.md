@@ -1,0 +1,71 @@
+---
+id: 6d768e37-70ed-5574-9aa2-b8ae59ab25b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80: Ready to Roll"
+slug: 0121-chapter-80-ready-to-roll
+partOf: labyrinth-of-the-mad-god
+position: 121
+ownLength: 1723
+unit: words
+publishedAt: 2025-01-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2020740/chapter-80-ready-to-roll"
+royalRoadId: "2020740"
+---
+
+Now that they were done going over their abilities, the team discussed the state of their consumable items.
+
+Nick still had one physical barrier and one energetic barrier, which he was saving for a pinch. Veronica had one web bomb left, and enough of her concentrated stamina potion to make four more doses before she ran out. On top of that, everyone still had one potion on them, bringing the team’s total to nine.
+
+Shaun wound up taking ten instant meals, since he hadn’t had any food when he entered the tower. He still had eight in his pack. They weighed almost nothing and would last for years. While they didn’t offer a tactical advantage like the rest of the party’s selections, they would come in handy if food was hard to come by on any of the remaining floors. Especially since the rest of the team had an enhanced Survivor trait, and only needed to eat half as much as a normal person.
+
+Sophia and Devin were out of consumables, although they had been crucial to winning the last fight. Sophia had used all her mana potions and Devin had blown through both cryo grenades while setting up the kill on the Janitor. Since the team wouldn’t be standing here if they hadn’t used the items to counter the monster’s rapid regeneration, Nick considered them to be well-spent. If I find some more oil, I can make some Molotovs and hand them out to supplement V’s napalm grenades.
+
+Shaun spoke up when the conversation wound down, looking Nick and Sophia in the eyes. “I just wanted to tell you how sorry I am for trying to rob you. We were stupid and wrong, and we paid a heavy price for it. Aya and Greg… well, they didn’t make it to the tower. The bow I’m using was hers. If we had been willing to work together with you instead of trying to take advantage, they would probably still be alive.”
+
+“We all make mistakes,” Sophia said after a long moment of silence. “Yours was a bad one, but it seems that you’ve learned the error of your ways and grown from the experience. Try not to make any more. With our planet on the Mad God’s chopping block, the consequences could be disastrous for us all.”
+
+Nick nodded his agreement, and then let the matter drop. He would keep a watchful eye on Shaun going forward, but he was willing to give the red-haired man a second chance. To treat him as a member of the team, at least on a provisional basis.
+
+As nice as it was to enjoy each other’s company in a place where nothing was trying to eat or otherwise annihilate them, the party couldn’t afford to squander this opportunity to train and improve their teamwork.
+
+Now armed with a solid understanding of what each member could do, they set up a rotation. Each person took turns sparring with one another, alone and in pairs. Whoever wasn’t participating in a given round took the opportunity to shower, meditate, or nap, preparing their bodies and minds for the ordeal to come.
+
+Although it wasn’t safe to use their abilities against one another, especially within the narrow confines of the saferoom, the improvements to the party’s skills were obvious the moment that they started sparring. Nick couldn’t watch every matchup, since he had to keep his attention on his opponent, but it was enough to get a solid grasp of where everyone was at.
+
+Nick and Devin fought on an even footing, exchanging a fierce barrage of blows without either fighter scoring many points on the other. He had a slight advantage versus Devin’s two-handed axe, due to his sword’s longer reach, while the athletic warrior had the edge while using his shield and hand axe combo.
+
+Nick had trouble breaking through Devin’s guard without his wand and spells, and he couldn’t use his caster’s buckler while fighting with his sword two-handed. He tried out some one-handed maneuvers that were possible due to the recent gains to his strength, but they were still clumsy and unrefined since he hadn’t had the opportunity to practice them to the same extent.
+
+Veronica and Shaun hadn’t improved nearly as much in melee combat, as it hadn’t been the focus of their training. Even still, they were both noticeably better at reacting to various strikes headed their way. These gains were likely due to some practice they had gotten in on the side, like Nick had done when he was sparring with Kiki while Rita was asleep.
+
+When using their ranged weapons, however, both warriors demonstrated a remarkable improvement since the battle with the Janitor. While V was still the better shot by far, even when firing both crossbows at once, Shaun had advanced past the point of basic competency and was well on the way to becoming a decent archer.
+
+He was still their weakest member, especially until he had more combat experience and levels under his belt, but Shaun no longer felt like the chronic liability that he’d been before. Nick only wished that the man’s attributes had undergone a similar growth spurt, although he did seem more mature and focused than before.
+
+Nick and Sophia had been relatively evenly matched before entering the tower, but now he could score points on her while sparring nine times out of ten. She was still faster and stronger than he was, but the difference wasn’t nearly as big as it had been while crossing the bog. His advantage was mostly due to his massive improvement in his understanding of the blade.
+
+That all changed when she added a single wasp to the mix. She could only spare enough stamina and mana to use a summon during a few fights, since she needed to regenerate her vital energy before the clock hit zero and they entered the next floor. But it was enough to get a taste for what she could do.
+
+He noticed that she still called the blue-striped beast Buzz when there was only one of the bugs manifested. Nick had no idea if there was a reason for it. If it was just her sense of whimsy, or if the creature had something that remained consistent between summonings that warranted giving it a name.
+
+When Sophia fought beside her wasp, her power increased threefold. Every time that one of them attacked from the front, the other came for Nick’s blindside. Each time that he went in for the kill, his other opponent was nipping at his heels, foiling his advance before he could land a critical blow.
+
+He found Buzz’s stinger at his throat more times than he could count as they began pushing themselves harder, and Sophia’s dagger almost as often. When the woman was fighting beside her summon, Nick was lucky to win one round out of three. He knew that she would be even deadlier with more beasts in the mix, although he would be using his wand and spells if they were battling for real. Regardless, the results were impressive. Their teamwork is impeccable. She would be a nightmare to face with a full contingent at her side.
+
+When everyone was done sparring, they spent the last few hours relaxing, enjoying each other’s company while recovering from the vigorous exercise. Team Earth passed the time napping, taking a second shower if they wanted, and getting their heads in the game for whatever they found on the next level. All they knew from the floor’s rule was that it would be big, relatively open, and filled with several roaming bosses. Hopefully we can suss out more details after stepping through the portal.
+
+Nick decided to take a quick nap too. When he woke up, it was almost time to go. The party made a final inspection of their equipment, strapping on their gear while waiting for the clock to hit zero. During this process, Sophia turned to Veronica and said, “Would you like to trade your arena dagger for my frost venom stinger? I have more than enough cold from my wasps, and your class trait should make the venom stronger.”
+
+V thought about it for a moment, then nodded. “Sure, that makes sense. It will give me another type of damage over time that I don’t have access to right now, which is certain to come in handy sooner or later.” The women swapped weapons, then Sophia walked over to where Nick and Devin were sitting.
+
+“The two of you should take some of my self-returning throwing knives. One is all I really need. Devin can use them with blast striking, giving him a way to use the ability at range, and Nick has a throwing skill but no ranged weapons.”
+
+With that, she handed Devin two of the blades and Nick one, leaving the final knife in the set for herself. Both men thanked Sophia for the upgrade to their gear and promised to find a way to repay her. Then everyone gathered around the table while waiting for the portal to appear.
+
+Nick ran his gaze across the faces of his companions. The determination and resolve clear in their expressions. He was filled with pride to be counted amongst such brave defenders of the human race. “I just want everyone to know how proud I am to be fighting alongside you. You represent the best that humanity has to offer. We’ll win back our world, then carve out a place for our people within the Labyrinth, Taltos and the System be dammed.”
+
+“Fuck yes.” Devin let out a booming laugh. “I feel the same way. Now let’s climb this bastard and show the guardian on the roof what happens when you mess with Team Earth!” Everyone let out a cheer, each member of the party adding words of encouragement. Strengthening their bonds as they got ready to tackle the next ordeal.
+
+Not long after, a pool of silver light appeared along one wall. Nick drew his sword and prepared himself for the trial to come. He was ready to fight for his future and pry his planet free from the Mad God’s grasp.
+
+As one, the party stepped through the glowing ring, whisked away to another part of the tower in the blink of an eye.

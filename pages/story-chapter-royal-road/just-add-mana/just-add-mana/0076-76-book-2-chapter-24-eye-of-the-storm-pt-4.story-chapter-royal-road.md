@@ -1,0 +1,249 @@
+---
+id: b59ae034-a186-5554-9dc3-b5d6b392ac9d
+page-type-slug: story-chapter-royal-road
+title: "76 — Book 2, Chapter 24 — Eye of the Storm, Pt 4"
+slug: 0076-76-book-2-chapter-24-eye-of-the-storm-pt-4
+partOf: just-add-mana
+position: 76
+ownLength: 4011
+unit: words
+ownProgress: 4011
+publishedAt: 2025-12-20
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2864819/76-book-2-chapter-24-eye-of-the-storm-pt-4"
+royalRoadId: "2864819"
+markedReadAt: "2026-06-29T18:50:14.686Z"
+---
+
+Cale stood before the storm, drawing out his power.
+
+It took time, for something like this. The strike had to be precise and efficient, controlled enough he wouldn't take a chunk of the realm with it. His mana had to reach a certain density, and it needed to churn within itself in a complicated pattern that would rip apart anything it made contact with.
+
+Even if that something was a soul.
+
+Soul destruction was more complicated than it seemed on the surface. The bare essence of a soul was, in most cases, an expression of raw energy that was impossible to destroy. That was the reason they were so often used as fuel by would-be liches and dark lords—even a single soul could release untold amounts of energy, if subjected to the right pressures, and even in those cases the souls were only transformed, not destroyed.
+
+Not a single lich, dark lord, or evil god had ever truly erased a soul. They could tear them apart until recovering the original became all but impossible. They could cast magics that would twist and malform the soul, transforming it into little more than a crazed abomination bound to infinite suffering. They could break it down until it was little more than raw essence, a fate that would almost certainly await the soul at the center of the Aspect Cascade.
+
+Frankly, Cale had seen many atrocities in his time, and few were worse than the new tortures those dark mages kept inventing to inflict on their victims' very souls. Yet for all their research and power, they had no true way to erase a soul permanently. No one in the Great Realms did. No one outside the Great Realms did, either.
+
+The power to erase a soul belonged solely to one Cale Cadwell Cobbs, and he hated that responsibility with every fibre of his being.
+
+He hated that he knew the process by heart, and he hated how natural it now felt to fold his mana into the right strength and shape. He hated wielding it, no matter how necessary it was.
+
+But no one else was capable, and so it always fell to him, in the end. There were infinite ways to force a soul to suffer for eternity, and only one that guaranteed that suffering end.
+
+Cale knew the logic well. It just didn't make it any easier. He sighed, staring out at the Aspect Cascade, and whispered an apology that was whisked away by the storm.
+
+"I wish this wasn't necessary," he said. "I'm sorry."
+
+He raised a hand, took a step forward, and shaped a scythe that burned with prismatic power. Its blade hummed, blazing with a chaotic storm of magic that hurt to look at.
+
+And then someone caught him by the sleeve, trembling but certain.
+
+Cale froze.
+
+He turned back to find Damien, of all people, clutching at him. The dreadshade was staring up at him with a look that seemed almost out of place on his normally timid face. There was a hint of nervous fear in it, sure, but for the most part it was determination. "Damien?"
+
+"Don't do it," the dreadshade said, tightening his grip.
+
+Cale flinched slightly at those words. "Damien—" he started. Then he interrupted himself, seeing the look in Damien's eyes, and sighed. The scythe dissipated as he drew his magic back into himself, and he allowed his apprentice to pull him once more back into the fortress.
+
+The door slipped shut, and the winds died down around them. The howling in Cale's ears stopped, for the moment, and he found himself staring at all four of his apprentices and one Kazza.
+
+Were they judging him? He couldn't quite tell. He thought he was probably imagining the accusatory glint in their eyes; it looked quite a lot like the way he looked at himself, sometimes.
+
+"We don't have to do this," Damien said, still trembling, but the look in his eyes was painfully earnest.
+
+"I don't have a choice, Damien," Cale said, trying not to let that look affect him too deeply. This was always the hardest part. He looked around at the rest of his apprentices, at Kazza. "I don't want to do this either. But that mage at the center of the Cascade is screaming, and whoever they are, they've been screaming for two years. That storm is fueled by their pain. The best thing we can do for them—the only thing we can do for them—is to end that suffering."
+
+"The Cascade poses a danger to my clan," Kazza said, speaking up. He looked surprisingly conflicted about it, considering the subject, but he gave Cale a small nod. "I understand the reluctance, but I would see it ended, despite the cost. There is more pain behind it than I knew, and I pity the poor soul forced to fuel it, but we cannot ignore the risks of allowing this to continue."
+
+"I'm not saying we should ignore the risks or that we should leave them," Damien insisted. "I'm just saying we don't have to do this. You're going to kill them, aren't you?"
+
+"I'm going to erase their soul," Cale said, trying to ignore the way everyone stiffened and stared at him at how easily he said those words. "It'll be quick. Painless. It's the only way to end that suffering, and again, I don't have any other choice."
+
+There was a short silence at that. Flia was the first to speak, and when she did, her voice was quiet. "How many times?"
+
+"How many times what?" Cale didn't meet her eyes.
+
+"How many times have you not had any other choice?" she asked. There was something soft instead of accusatory in her tone, for some reason, and somehow that was worse than if she had simply shouted at him.
+
+"...I don't want to answer that."
+
+"But you know the number."
+
+"I do." It was one of the things Cale would never let himself forget.
+
+"It doesn't matter," Damien insisted, making Cale blink in surprise, and before he could say anything else the dreadshade had caught his hand and was staring up at him with fierce indignation. "I understand what you're saying, Cale. I do. And—and if there's really no other option, I'm gonna stand with you when you do it, so you don't have to do it alone."
+
+Cale... hadn't actually been expecting an offer like that. He stared at Damien, then at the rest of his apprentices, and found himself stunned that not one of them disagreed.
+
+Come to think of it, Damien had said we, hadn't he? We don't have to do this. Not you.
+
+He swallowed.
+
+"I just want us to talk about it first," Damien said, oblivious to the turmoil and sudden doubt Cale was feeling. "I want to be sure there's nothing else we can do before we resort to that. Please, Cale."
+
+"I..." Cale tried to focus on the subject at hand, though he was still very much off-balance. He had no idea how long it had been since someone had stopped him like this and still understood. "Did you have any other ideas?"
+
+"What about protecting the flickerant nests?" Damien asked, looking around at the others, who were staring back with uncertainty. "We could let the Cascade complete that ritual you were talking about. Or you could fuel the ritual directly. You have the mana, don't you?"
+
+"I could fuel it, but I can't gather the remnants of this mage's soul," Cale said, shaking his head. "That's what the flickerants are doing, unintentionally. Bringing all those pieces together for the ritual. That leaves us with protecting the nests, and even if we could—and I don't have any magic that would let me defend them all at once—this is the sort of ritual that takes months to complete. Kazza's clan would be exposed the entire time while it builds momentum."
+
+"What if they moved?" Leo interrupted. He glanced at Kazza. "I've read some papers about the movement of the Golden Sands tribe. There's, like, an annual pilgrimage you go on that reaches outside the Golden Sands, right? Couldn't you do that while the ritual is cast?"
+
+Kazza was silent for a moment. "There would be precedent for this," he answered eventually. "I do not know how I feel about this, but you are correct that it is an option."
+
+"It still wouldn't work," Cale said heavily. "You don't understand. I said the ritual would have worked. If it were the first six months or so after the Cascade started, it would have brought back the mage. If it was the first year, it would give them a body just coherent enough to die in peace. But it's been two years now, and the mind doesn't stay intact enough to survive that long, even with that ritual. That soul is essence held together by spiritual duct tape. If we let it complete, it's going to create an aberrant, and the soul would still be in pain. Probably worse pain, in fact."
+
+He'd thought about it. Of course he'd thought about it. He'd run through all the possibilities, because he didn't want to do this. If there was any other choice...
+
+None of the others said a word for a long while. Damien sagged slightly but refused to let go, and Cale watched him, conflicted.
+
+"Why is this so important to you?" he heard himself asking.
+
+Damien bit his lip.
+
+"It's because of what you told me to do," he admitted eventually. "I was supposed to find out if I really wanted to heal, remember? So I went to talk to Izzik about it, and he told me his reasons. It stuck with me. He said that even when you become a healer, you can't save everyone, and the point isn't to save everyone. The point is to try.
+
+"And... and I think he's right. And you were right, too. I only wanted to learn to heal because I wanted to make up for something that happened a long time ago, and I'm never going to make up for that. Not ever. But I can remember everyone I lost, and I can honor their memory, and I think that means doing what they would want me to do."
+
+He looked up at Cale. "That's why this is important to me," he said. "I think... I think it's right for me. If there's really no other choice, that's okay, because we can't save everyone. But I want to try to save them. Just... just try."
+
+Then, almost too quiet to hear: "It's more than I did before."
+
+Cale stared at him.
+
+Then he looked up at Flia and Leo, who nodded in agreement. Even Syphus had stopped playing around with the sand long enough to watch Damien and listen, and it leaned forward to lean a reassuring hand on the dreadshade's shoulder.
+
+Kazza's expression had softened then done something complicated at the mention of Izzik, and he relented with a grunt. "I believe my kin would agree."
+
+Cale dragged a hand down his face. Fuck.
+
+He had thought like this, once. He remembered always trying, desperate for any solution that didn't involve yet another pointless death, any solution that would let someone live.
+
+Somewhere along the way, he'd stopped. Because he had tried and tried, and the result would always, always be the same, and eventually it had begun to hurt too much to try again.
+
+But none of his apprentices had been through that, had they? They were still students. Young, in the grand scheme of things, even with the oddity of ages that tended to exist in realms where mortals and immortals mixed.
+
+And Cale realized, staring at them, that he missed that youth. He missed who he had been.
+
+Heh. Who would have thought his apprentices would have something to teach him? Maybe a long enough life meant some lessons would be forgotten, and Cale found that this particular one he was glad to remember.
+
+He found a small smile slowly creeping its way onto his face, and he did nothing to stop it. "Alright," he said, exhaling. "Let's try, then. Ritual's not going to be enough. Anyone have any other ideas? What can we do to heal a dying soul?"
+
+Flia hesitated. "What about that new auric the Gift granted me?" she ventured. "We still haven't talked about it, and I don't really know what it does. It's called the [Spark of Those Left Behind]. The Gift says it's the beginnings of a Law, but I don't know what that means. Is there something we can do with that?"
+
+Cale blinked once.
+
+Maybe he hadn't thought of everything. A manic gleam entered his eyes. "Maybe. Give me the full description of that auric."
+
+Cale stood and stared at what Flia had written in the sand.
+
+[Spark of Those Left Behind, Level MAX] [Personal (Unique), Auric Passive]
+
+A fragment of a Monolith's Law can become many things. Yours has evolved into a Spark—the beginnings of a Law of your own, one that represents the lost souls who cannot fight for themselves.
+
+This auric grants its wielder dominion over the essence of the lost.
+
+He had nearly missed this. He would have missed this, if not for Damien pulling him back and insisting on trying. Now his mind was rapidly putting pieces together, stringing out an impossible plan, except—
+
+—except it wasn't so impossible now, was it? This could actually work. Cale felt an energy he thought he'd long lost thrum through him. "You guys," he said, grinning widely, "are geniuses. I could kiss you all."
+
+Flia exchanged a look with her friends. "We haven't actually said anything," she said. "And please don't."
+
+"She doesn't speak for all of us," Syphus said. "I, for one, want to know what kissing is like. I don't know why everyone likes doing it so much."
+
+Cale just shook his head. "You were right about trying, is what I was trying to get at," he said, still smiling. He couldn't help it. When was the last time he'd had hope for something like this? "First things first. Flia, do you know what dominion over the essence of the lost means?"
+
+"No," Flia said. "That was what I wanted to ask you about, remember?"
+
+"Right, right," Cale said. He started to pace, thinking quickly. "Okay. Important facts. First, everything you do with the Spark is important. It's going to play into the Law you develop later, although there's a lot of stages in between. Don't worry about that part yet."
+
+"I'm suddenly very worried about that part."
+
+"It's fine! It usually takes centuries for a full Law to develop. You'll have plenty of time to figure things out. The important bit is those two words—dominion and essence."
+
+"Dominion sounds kind of evil," Leo remarked. Flia turned to glare at him.
+
+"It's a broad concept," Cale said. "It usually applies to something intangible. Just having a mana core, for example, gives you dominion over mana. That's what allows you to manipulate and attune mana. Essence is the same thing, except most people can't interact with essence at all."
+
+"What exactly is it?" Flia asked, frowning.
+
+"Soulstuff," Cale said, waving a hand. "Not important!"
+
+"Wh—I feel like that's very important!"
+
+"Not for this it's not," Cale said cheerfully, ignoring Flia's protests. "The important part is that you can interact with it at all. Normally it would be impossible to heal a soul like this. Essence held together with duct tape, remember? Tear a soul apart again and again and you start doing damage to that raw soulstuff, and that's not something soul magic can fix. Soul magic alters the vessel that holds the essence, it can't fix the essence itself. Advanced soul magic might be able to manipulate the soul as a whole, but still can't affect essence on its own. And essence magic doesn't exist, or, well, it's not supposed to.
+
+"But you have dominion over essence, and you can share that dominion. I'll teach you how in a bit. The important thing is that we now have a way to interact with essence, but not necessarily a way to heal it. Just being able to manipulate it isn't enough. Lucky for us, I happen to know a bit about essence and the kind of damage that gets done to it from this sort of thing."
+
+He beamed. "I knew stealing all those notes was worth it. A lot of aspiring dark lords end up making notes on this stuff. Also, there was this pair of very friendly liches that were really eager to share their notes... huh. Now that I think about it, they were a little too friendly. I wonder if they were trying to steal my soul."
+
+Cale's brow furrowed for a moment, and Damien opened his mouth to ask a question. Cale barreled right on before he could.
+
+"Nevermind," he said. "I think they were swingers. Not important!"
+
+Kazza's jaw worked helplessly for a moment as he tried to figure out what to say before he eventually just turned to Flia. "Is he always like this?"
+
+"When he's not depressed," Flia said dryly. "You're seeing the real reason we became his apprentices."
+
+"...Because he is apparently desired by the blasphemous undead?" Kazza asked, not understanding.
+
+"No, obviously not," Flia said, pressing a hand to her forehead. "The other part! The part where he knows—"
+
+"—the part where he tries," Damien said quietly. "I bet he thinks he doesn't try anymore, but he does. If he didn't, he would've left a bunch of things alone. He would've left us alone. But he can't let things go once he's seen it. He wants to try."
+
+"I guess he just needs a reason, sometimes," Leo said. "Sometimes I wonder how old he really is."
+
+Cale didn't hear any of this. He'd dropped into muttering to himself for a bit, and then he brightened again. "Okay," he said. "So, the thing about essence is that if you tear apart the vessel too many times, it starts to... harden? It becomes stiff and inflexible. A soul should normally be able to just melt together, but something like this won't be able to, because of all the literal torture. We're gonna have to melt it."
+
+"We're going to have to what?" Damien asked, blinking. "Isn't that going to make it worse?"
+
+"No, no, it's the good kind of melting," Cale said dismissively. "We're just softening it up again. Like wax, basically. You'll have to use the Verdant Flame. We're also going to need to change the ritual it's carving into the sand, because I don't want to leave Kazza's people stuck for months while it charges up."
+
+He muttered something, then began drawing in the sand that made up the fortress wall, his expression intent.
+
+"This should work," he said. "It's a basic soul collection array. Pretty much just circles. We'll need to detonate the flickerant queens to release all the collected soul fragments—although, no, that wouldn't work, the tunnels are too dangerous for me to send you all into... maybe we reverse the array? Make it a two-stage spell so the first one siphons all the mana and soul fragments from the queens and surrounding desert, then the second stage gathers it to a central point..."
+
+Cale frowned and began muttering to himself again. "Still have to fix the vessel, though. Without any life magic or soul reformation spells, we're going to need to manually put the pieces together and somehow keep them together long enough for it to heal naturally. That might be difficult. We'll need some kind of soul glue. Flia, can you make glue?"
+
+"I..." Flia took a moment to parse what Cale was saying. "No, Cale, I don't have any glue spells. Water is not glue."
+
+"Not even [Liquid Adhesive]?" Cale frowned. "Damn. That's a complication. It needs to be something that can be imbued with your Spark. Any kind of sticky liquid will work."
+
+"I don't have any—" Flia yelped as Syphus nearly bowled over her in its attempt to get to Cale.
+
+"Spell slime," it said intently. Cale blinked, thought for a moment, then beamed and dragged Syphus into a hug.
+
+"Spell slime!" he repeated joyfully. "That's perfect! It'll work. Okay, is everyone ready?"
+
+"I don't think any of us actually know what the plan is?" Damien said, looking awkwardly at all the others. Syphus was practically vibrating in excitement, but just about everyone else seemed mostly confused.
+
+Cale laughed, finding himself feeling surprisingly bright. "That's fine. One more time, but slowly. I'm going to need everyone's help with this. Here's how we're going to set it up."
+
+It was unusual for every Observer to report the same thing at once, and when Lifsauhn first received the messages, he thought for a moment the moths of the Watchful Hive had somehow gathered themselves enough for some sort of rebellion again.
+
+That had happened frequently enough, in the early years, then far less over time as the parasitic Red Relic spread its infestation deep into their minds. He wouldn't dismiss it as a possibility, though, or he wouldn't be doing his job. This was, after all, the first month in a long time they had been unable to send their team into the Watchful Hive to check on things.
+
+Despite himself, Lifsauhn felt antsy. Who knew what those beastfolk were up to? Some of the Red Hunters around that area were missing, too, and it made him feel like something had been compromised. He had no idea what, and he wasn't about to report to the Red Commander without concrete information, but he itched.
+
+And itching always meant something was wrong.
+
+Lifsauhn grumbled under his breath, unsure whether he should trust this newest report from the Observers. Of all the things they could have reported, why would there be a giant castle floating above the Golden Sands? And why would it have launched itself from Ercryst, of all places? That was an entire continent over! That would require that a mage not only create a fortress but also fly it all the way across a continent, and there was not a single mage that wouldn't just teleport themselves and then create the castle.
+
+It was ludicrous, and with the reports he'd just received about the Haelforge Academy, he didn't have time for more of this nonsense. That was almost enough for him to dismiss this outright.
+
+Almost. He would have, if it had been any place other than the Golden Sands. That damnable desert housed one of their most important projects. They needed those cascade bombs. If he ignored it and they lost their supply—
+
+Lifsauhn grit his teeth. Who the hell would he even send to investigate that wouldn't cut his head off if he was wrong? There was no one in their retinue that had the power to take on a flying castle and wouldn't slaughter him for incompetence if there was nothing there.
+
+No one except the Red Knight.
+
+Lifsauhn frowned. The problem with the Red Knight was that no one really knew what it was thinking or why it was working for them. The Commander seemed to trust it and held it up as one of their four Sentinels, but everyone else thought its empty silence was creepy. It never spoke, and it never even moved from its post unless it was given a direct order. No one had ever seen it eat.
+
+But it was powerful, obedient, and most importantly, it wouldn't care if he sent it on a pointless mission. It wouldn't report him, and as long as it wasn't needed for anything else, it was likely no one would even notice it was gone.
+
+Perfect for his purposes, then. With his mind made up, Lifsauhn cast a quick [Message].
+
+Red Knight, report to the Golden Sands. If you see a fortress in the sky, investigate. Or, hell, destroy it. Your choice. Remember, nothing must interfere with our plans.

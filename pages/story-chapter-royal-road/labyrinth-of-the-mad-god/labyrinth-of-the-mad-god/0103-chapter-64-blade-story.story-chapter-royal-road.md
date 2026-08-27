@@ -1,0 +1,73 @@
+---
+id: b986626a-ec63-50ce-8c02-3b65764965d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64: Blade-Story"
+slug: 0103-chapter-64-blade-story
+partOf: labyrinth-of-the-mad-god
+position: 103
+ownLength: 1610
+unit: words
+publishedAt: 2024-12-13
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1955062/chapter-64-blade-story"
+royalRoadId: "1955062"
+---
+
+Rita looked down at the weapon cradled between her hands, balancing the heavy blade on one palm with no appreciable difficulty.
+
+Her expression seemed sad as she ran her fingertips along its length. Rita began with the tip, then examined the damage to the body, muttering to herself while palpating every inch of the sword. Her hand came to a stop when she reached the spot where the pommel stone had been sheared off long before the weapon entered Nick’s possession.
+
+As she examined the blight-ravaged blade, powerful emotions crossed her face. Surprise morphed into anger, before shifting back into sorrow once more. He was deeply curious as to what Rita was sensing, but he had the feeling that he would damage her good impression of him if he interrupted her now. Besides, Nick didn’t want to get in the way of whatever was happening. Instead, he waited patiently to find out what she had learned.
+
+When she spoke, she was still looking at the blade. “Your name is Blightbane, and your song is filled with such bravery and pain. You have suffered for so long yet endured without losing hope. Reduced to a shadow of your former glory, your soul is unbroken. Your rarity is... that can’t be right… it can’t possibly be any rarer than epic. Let me cast a true delving and I’ll listen to your story in full.”
+
+A look of intense concentration flashed across Rita’s face, as she closed her eyes drew upon the magic within. “Don’t worry. I’m a friend, even if I can’t help restore you right now.”
+
+With that, a pulse of amber light rose from her palms and spread out over the surface of the sword. It grew brighter by the heartbeat. Nick could tell that powerful magic was at work, causing his nascent energetic senses to tingle. Just when it seemed that her spell was reaching full power, the glow vanished with a flash that left a searing bar across his vision.
+
+Rita cursed, opened her eyes, and then handed the sword back to him with an inscrutable expression. “Only twice since I earned the title of blademaster have I met a sword whose history was clouded to my sight. There are forces at work here that are beyond my understanding. Whatever the secret behind this blade,” her tone became deadly serious. “Never let this sword leave your side. You will never see her like again. But such matters are beyond the scope of your tutelage. Now that I’ve measured the proportions of the weapon, we are ready to take the next step.”
+
+Nick was intrigued by what Rita had revealed, deepening the mystery that had begun when the ratman Trell had gifted him the sword back in the tutorial dungeon. A puzzle that had only deepened as the sword began regenerating, growing sharper and heavier over time, able to damage things that ordinary weapons could not. At least I know its name, Blightbane, and it seems to be just as rare as I had hoped.
+
+He was pulled out of his reverie by her next words. “Fascinating as that blade may be, I’m afraid that you won’t be able to use it while you train.” Nick was about to speak up to defend his weapon, but Rita raised a hand to cut his protest short.
+
+“I get it. I’m not suggesting that you abandon this blade by any means. But you can’t use it while you learn the fundamentals of swordsmanship. The balance is shot. If you practice with it now, it will bottleneck your growth later on. Give me an hour to whip up something identical to how this battered beauty will feel in your hands once her restoration is complete, then we can begin.”
+
+Although part of him wanted to refuse, Nick let Rita take the sword from his hands once more; the last time he would ever willingly let it leave his side. While all of this was strange and new, his instincts told him that he could trust his mentor. I doubt that the System would let my instructor rob me blind, and if she wanted to take it by force, I would be helpless to resist.
+
+“In the meantime, get some rest and fill your belly with your own provisions. Going forward, three meals a day are on me while you train. Consider it my apology for almost getting you killed. When I get back, be ready to drill until you drop.”
+
+Rita turned and started walking into her forge, then stopped to look at him once more. “I almost forgot. Before I get started, I need to calibrate your regimen with your mid-term growth in mind. Go ahead and read me your profile in full. You can pull it up freely while you’re under my care. Divulging these details is something that you should never do outside of System sanctioned training, unless you trust someone with your life.”
+
+Although it had been less than a day since he had viewed it last, Nick found that his menu popped into existence at a thought; a remarkably convenient access compared to the limits that had been placed on the process thus far. He had a pile of notifications awaiting his perusal, but he would get to them in a minute. He opened his profile and read it off word for word, leaving nothing out.
+
+When he was done, Rita nodded and said, “I see. Alright, that’s everything I needed. Let me get to work. Go ahead and drain that healing flask you mentioned. You’re going to be sliced and bruised by the end of the day anyway, but it’s best to start things off with a clean slate.” She asked him a few questions before continuing.
+
+“I’m excited that you have that item. We’re going to take advantage of it throughout the next month. Get a bit more oomph out of your training and maximize your gains. You say you got it in a treasure vault? I’ll have to hear the whole story later, but daylight’s burning. Fantastic pick by the way.”
+
+With that, Rita stepped into her workshop, taking Nick’s blade with her. He was curious about what she was up to and walked over to take a look through the doorway. Before he had a chance to peek inside, Rita closed the door behind her. Ah well. He shrugged. Maybe I’ll get a chance later.
+
+With nothing better to do, he decided to follow Rita’s suggestion and prepare himself for a day of intense training when she got back. He turned in a slow circle, taking in the layout of the ranch, looking for somewhere to rest that was out of the sunlight. He eventually settled on one of wooden rocking chairs set beneath an awning that ran along one side of her house.
+
+Nick slipped off his pack and took the weight off his feet, sinking into the chair’s embrace with a groan. His bruises aside, it was surprisingly comfortable, especially considering that it lacked any cushioning. The chair appeared to have been carved from a single piece of black wood, from which arose a rich, spicy odor that reminded him of cedar.
+
+He wanted nothing more than to close his eyes and fall asleep beneath the violet sky, sheltered from the merciless green sun. But he didn’t have time to waste taking a nap. Rest could wait until his first day of instruction had come to an end.
+
+Instead, Nick reached into his pack and took out his flask of restoration, popping the seal and then downing the pleasantly flavored concoction, enjoying the aftertaste of mangos and basil on his tongue.
+
+The restorative brew perked him up right away. It bolstered his depleted mana and stamina, took the edge off his bruises, and reduced the pain in his ear to a dull throb. When he lifted his shirt, the black and blue blotches along his ribs had faded to yellow and green. He grinned, marveling that he had undergone at least three days’ worth of natural healing within the span of a minute. Man, I really love that item.
+
+Nick sighed in contentment and melted into his chair, rocking gently as the breeze flowing over the plateau set his hair aflutter. He let himself enjoy the fact that nothing was trying to eat him, that there wasn’t another threat looming over his head, for a solid ten minutes. Then he opened his backpack and went to work.
+
+Following Rita’s suggestion, he drained his canteen and started snacking on his provisions, eating only those that would perish before his month of training was over. He was feeling much better by the time he was done, ready to face the rest of the day with a full belly and a body free from pain.
+
+Next on his list was to check out his notifications. It seemed that his cliffside scare had helped him to improve some of his skills. A little compensation for his near-death experience.
+
+Nick read through the list, enjoying the satisfaction that always came with watching the numbers go up.
+
+Through use, you have improved the following skills:
+
+Evasion has increased from [13] to [14].
+
+Light shield has increased from [2] to [4].
+
+When he was finished, Nick groaned, pulled himself free from the chair’s loving embrace, and rose to his feet. He took advantage of the opportunity to perform his full exercise regimen for the first time since leaving the tutorial island. He began savoring the sensation of putting his new and improved body through its paces, while relishing how far he’d come in just a few short weeks.

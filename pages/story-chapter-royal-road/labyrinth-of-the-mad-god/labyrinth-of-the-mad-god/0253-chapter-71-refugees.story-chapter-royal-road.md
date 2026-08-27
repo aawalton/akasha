@@ -1,0 +1,79 @@
+---
+id: 67b8163d-b23c-5836-92b6-5e2a86d35188
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71: Refugees"
+slug: 0253-chapter-71-refugees
+partOf: labyrinth-of-the-mad-god
+position: 253
+ownLength: 1729
+unit: words
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2795707/chapter-71-refugees"
+royalRoadId: "2795707"
+---
+
+Nick was watching the sunset while jogging around the lake when the watchtower’s alarm bell rang.
+
+He had heard it before on several occasions, thanks to the drills Kenji had been conducting to prepare Aurora for a range of emergencies. At first, he thought the city was under attack. Accompanied by a surge of adrenaline, he activated Force Acceleration and began sprinting back to town, moving so fast that he sent a tremendous plume of dust billowing into the air.
+
+But when he counted the chimes and focused on the pattern, he realized it wasn’t an assault after all. That’s the signal for an unknown group approaching from the north, but he’s calling for medical attention in addition to an armed response. Whoever is coming must be in trouble, and Kenji is making sure that we don’t lower our guard while we respond.
+
+To get a better sense of what was going on, Nick turned toward a tall spire of red stone and leapt, deactivating his ability to slow himself down and balance on the top of the rock instead of flying past. He pulled out his spyglass and scanned the horizon until he spotted the source of the disturbance.
+
+His eyes widened as he took in nearly two hundred people walking toward the settlement. Well, most of them were limping or staggering, and the ones who could walk were supporting the people beside them or dragging crude palates carrying individuals bearing horrific wounds.
+
+When he looked toward the city, his people were forming parties and rushing out to meet the newcomers, Kenji and Ella among them. Since Aurora’s defense was being coordinated by people Nick trusted, he jumped down and approached the battered men and women, searching for any sign of what had caused so much bloodshed but finding nothing of the sort.
+
+He drew Blightbane and conjured a pair of Mana Darts just to be safe before moving to where a man and woman were leading the group. They were clearly awaiting some manner of response from the settlement while keeping an eye on the injured following in their wake.
+
+When they saw Nick coming, the woman—a middle-aged warrior in heavy leather armor—raised her open palms toward him and said, “We surrender. Or we’re not a threat at any rate. Please help us. We are in desperate need of assistance. A lot of us are going to die if we don’t receive medical treatment. Far too many already have.”
+
+Her shoulders sagged in relief when Nick sheathed his sword—unaware that he was no less dangerous for it since he could unleash Sonic Slice at a moment’s notice. Before he drew any closer, he evaluated everyone in sight with Size Up while taking a closer look at their condition. The pair in front of him was decently leveled though their gear was shit, but most of the others were far weaker than any human he’d seen since entering Darkstone Tower.
+
+They were dressed in motley assortment of crude armor and tattered clothing, all of which were soaked in blood and covered in grime. They looked miserable, hunted, and on the verge of panic. But though they were afraid of him, the most common expressions he saw on their faces were relief and guarded hope.
+
+Whatever they went through, we are their only chance of seeing another sunrise. Except for their leaders, none of them are strong enough to endure the rigors of the badlands. A single voidbear would kill most of them by itself.
+
+On that note, many of their wounds appeared to have been inflicted by the bladewind, although it looked like they had been involved in a brutal battle too. Nick was about to reply when one of the people lying on a cot began to convulse. “It’s Nessa!” someone yelled. “She isn’t breathing and has begun to seize.”
+
+Before anyone else had time to react, he was at the woman’s side, hand darting down to retrieve his Flask of Restoration. He popped the cap, used a finger to force her jaws open, and poured the restorative concoction between a pair of blue lips.
+
+A few seconds late, the woman took a ragged gasp and stopped shaking. She was still close to death, but his elixir had bought her another few minutes. He still had his health potions, but no one else seemed to be in danger of perishing on the spot, so Nick saved the valuable consumables for now.
+
+By now, the man and woman leading the group had made it to his side. “Thank you,” the man said as tears rolled down his cheeks. Thank you so, so much. Please, help the rest of us, or half of my people will be dead by morning.”
+
+“Before we get to anything else,” Nick replied, “is whatever did this to you still in the area?”
+
+“No.” The woman took a deep breath, forcing herself to focus on the conversation even though she was on the verge of collapsing from exhaustion.
+
+“The monster that attacked us took off when that lethal windstorm rolled in. We didn’t understand why until it was too late… and a quarter of us didn’t survive what followed. Even still, the storm is the only reason any of my people are still standing. When it rolled past, the creature was gone, and its tracks were headed back toward the biome we came from. We never would have entered a region this dangerous if we had another choice, but a probable death was a better bet than a certain demise.”
+
+Kenji and Liz had arrived during this explanation, and several groups were following a few seconds behind. Some started administering emergency first aid, while the scouts formed a perimeter in case something stealthy was lingering nearby and decided to attack.
+
+Kenji took over at that point, going through a rapid-fire series of questions about who these people were, what had happened to them, and how they had come to arrive on Aurora’s doorstep.
+
+“We founded a town in the next biome over,” the woman, who was named Abby, explained. “We were so proud of ourselves when we beat that boss, but we should have known that we were too weak to establish a settlement within the Frontier.
+
+“Everything was fine until a four-star roaming monster found us and attacked in the night. It destroyed our city core in a flash and then started killing, slaughtering hundreds in a matter of minutes. The rest of us fled, although a few sacrificed themselves to slow the creature down. It hunted us across the jungle until we reached the badlands, and the bastard would have got us all if the weather hadn’t driven it away. We are good people and we don’t mean any harm. We’re in bad shape and have nowhere else to go. Please help us—maybe let us stay with you?”
+
+“We can talk about that once get some food in your bellies and you’ve had a chance to rest,” Liz said. “But first, we need to treat your wounded. We only have one healer who can handle injuries that are this severe, but her technique is unusual.
+
+“I know this will sound crazy at first, but we need to bring a monster into the middle of your group. When Veronica hurts it, her magic will heal you. It’s not nearly as strong as the one you fought and we have it in a cage, but I need to let your people know what’s happening and keep them from panicking until Veronica has time to heal them. She should be here soon.”
+
+All of this was news to Nick. They found a solution to using her powers on demand after all. I’m glad we don’t have to torture a beast to do it.
+
+When he peered into the distance, he spotted a pair of warriors pulling a cage on wheels with something furious bound inside. When Liz asked who was most likely to panic at the sight of it, Abby pointed out a smaller group and had them stand beside each other. Shaun fired his Smoke Arrows while designating them as an enemy, blinding the group without impairing anyone else’s vision.
+
+One of the mages cast a spell that prevented the monster from making a sound as the warriors positioned the cage in the middle of the refugees. Not long after, Devin and V arrived. The scouts must have briefed them on the way, because the moment she was in range, Veronica extended one of her wrist-mounted crossbows and infused the bolt with magic from her core, causing the missile to glow with a sickly green light.
+
+She took aim and shot the bound monster in its hindquarter, where her Acid Bolt would take a while to reach anything vital. The effect was immediate. Sundered tissue began pulling itself shut and bruises faded away. There were too many injured people to heal them completely before the thrashing monster went still, but the refugees were in remarkably better shape than they’d been just a few minutes ago.
+
+Kenji, Nick, and Liz walked beside the leaders of the group while Aurora’s response team carried the wounded toward the barracks. Voulentters were handing out food and water, but he noticed that several armed parties were watching them closely in case there was more to this situation than met the eye.
+
+He approved of their caution, although he doubted it was necessary. Still, we need to be careful going forward and this is the best way to handle the situation.
+
+Twenty minutes later, the refugees were spread out on the ground around the barracks that doubled as an infirmary, and the people most in need of medical attention or a quiet place to recover were moved inside.
+
+A support team was setting up tents and blankets to keep the new arrivals from freezing at night or suffering heatstroke during the day, since their average Toughness was only a fraction of Aurora’s elite members.
+
+After conferring with Kenji and Elizabeth, the five of them moved into one of the classrooms to hear the full story and discuss the matter at length. Nick let out a sigh of relief as he followed them inside and closed the door behind him. While it was a tense situation, no one had died, and Abby’s people were safe for the first time in days.

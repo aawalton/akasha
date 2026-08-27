@@ -1,0 +1,177 @@
+---
+id: 0c51e6cf-0d7e-5f8e-8b68-44d4b79ce4bd
+page-type-slug: story-chapter-royal-road
+title: "270. March's Mission"
+slug: 0013-270-march-s-mission
+partOf: leveling-up-the-world
+position: 13
+ownLength: 2109
+unit: words
+ownProgress: 2109
+publishedAt: 2021-09-28
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/758068/270-marchs-mission"
+royalRoadId: "758068"
+markedReadAt: "2026-06-29T22:40:34.876Z"
+---
+
+“What’s your world like?” Eury asked as they lay in the bed at the first rays of dawn.
+
+This was the first time Dallion had been asked. It wasn’t a question he expected ever hearing, making him think back to so many things he took for granted. Back then, he had spent a large part of his life imagining fantasy worlds that didn’t exist, playing games online to create the illusion of being there. Now he was here—a world in which people could do the impossible.
+
+“It’s different,” he said at last. “There’s no magic. Not like this anyway.” Dallion moved closer to Eury. “Technology is a lot more advanced, and we…” He stopped. How could one describe the internet? Was it like a fake awakened realm in which nothing happened? “It’s difficult to explain.”
+
+“I understand. My world is also more advanced, but in a way it’s not.”
+
+That wasn’t much of a description, but Dallion had an idea what she meant.
+
+“There was a lot more space. All the big cities were in mountains, and…” she stopped, her words trailing off as if she’d remembered something.
+
+“And?” Dallion turned his head sideways.
+
+“I’ll tell you some other time.” The gorgon smiled, then got out of bed.
+
+“Hey, you can’t just stop there,” Dallion said in mock anger.
+
+“Too bad.” Eury went to the bathroom to get washed. “I’ll tell you one thing I miss. Proper waterworks. Washing in lakes, wells, and buckets is interesting in a rustic sort of way, but something I could do without.”
+
+Tell me about it, Dallion thought. He remained for several minutes more in the bed, staring blankly at the ceiling, after which he got up and went to get dressed. Once done, he removed his blocking ring and checked if there was any news from the guild or the tournament committee. Apparently, Vend wanted to see him at the guild, although the echo refused to say what it was about. The committee was almost as useless, saying they were still in the process of crafting the schedule. For some reason, there had been a few mishaps—overenthusiastic partying—that had caused several participants to be temporarily unavailable. As a result, Dallion was assured he’d get a more definite answer in a few days… just as he had been assured a few days before. There was one positive, though—now that the bureaucrats had witnessed his skill, they were much more polite to him.
+
+“What are your plans for today?” Dallion asked. One of the good things about having a gorgon for a girlfriend was that he didn’t have to raise his voice for her to hear.
+
+“I need to catch up with work. Why?”
+
+“Just curious. I’ll be heading to the guild. There might be something regarding my new job. Okay if I pass by later tonight?”
+
+“Better not. Lots of work. Do your stuff and I’ll pick you up from the inn when I’m done.”
+
+Harsh, the armadil shield said now that Dallion was reachable again. What mess did you get yourself into this time?
+
+“Hush,” Dallion whispered.
+
+“What’s that?” Euryale asked from the bathroom.
+
+“The shield’s trying to be funny again,” Dallion replied.
+
+“He’s a dryad, what do you expect?”
+
+“Right. Well, I’ll be going now. I’ll have a bite at the guild,” he said, more out of habit than anything else. For her many positives, Eury despised cooking to the point that she had transformed the cooking area into a furnace.
+
+“Sure,” Eury replied.
+
+There’s no denying, she’s definitely unique, the armadil shield continued. Not everyone can handle gorgons, but you’re doing pretty well.
+
+“You’re in form today,” Dallion said as he left the workshop. “Any reason?”
+
+Does getting fully healed count?
+
+That was a low blow, considering that the wounds the shield’s guardian had earned were for saving Dallion.
+
+I’m just messing with you. It’s just that festivals bring good memories. As long as there was a festival, it meant there would be no fighting until it was over. Competitions maybe, but no actual fighting.
+
+“I think I know what you mean,” Dallion smiled.
+
+Some of the streets were already crowded, even if it was rather early. Even the guildhall, which was a fair distance from any city gates, was more difficult to reach than normal. Dallion made sure to have his guild’s emblem visible—a deterrent against pickpockets. On a few occasions he was tempted to get some freshly baked snacks from a street stall, but the lack of money quickly convinced him to wait until he reached the guild.
+
+Any advice, Nil? Dallion thought.
+
+The old echo didn’t particularly like Dallion wearing his blocking ring, especially when going to establishments of questionable reputation. Lately, though, he seemed particularly grumpy.
+
+Nothing that I haven’t said already, Nil replied.
+
+You think I’ll finally go on the mission?
+
+It’s possible, although I’d say it’s highly unlikely. You’re in no condition to go on an expedition, not the way you are.
+
+I’ll level up when I get there.
+
+I know you’ll try, dear boy. But your persistence to rely on brute strength is delaying your progress.
+
+We’ve been through this. I haven’t seen any indication it’s a puzzle, so it must be a test of skill.
+
+You’ve forgotten everything I’ve taught you, the old echo sighed. Trials are not just tests of strength or puzzles created for your amusement. They are tools aimed at helping you resolve your flaws. Without knowing the flaw addressed you don’t stand a chance of finding a solution.
+
+I know, Nil, I know.
+
+The walk to the Icepicker guild took longer than Dallion was used to, and involved a bit of shoving at times. Finally, he reached the building. Signs and banners covered the guildhall, created especially for the occasion, trying to stand out from the hundreds of other buildings that did the same. From what Nil had said, the theme and color were chosen each year by the guild master himself in accordance with the taste of the guild’s sponsors. Personally, Dallion had his doubts—especially since there wasn’t any product placement or ad to be seen. Still, it was nice seeing the building freshened up.
+
+Unlike the streets, the inside of the guild was far emptier than it usually was. Jobs were few so close to the festival. The only exceptions were emergency sanitation jobs that required a large group of elites to go and repair streets, buildings, or, on occasion, entire neighborhoods.
+
+“Hello, Dal!” a short bearded man waved. “Sorry for calling you here during the festival.”
+
+“Morning, Estezol.” Dallion smiled. “Alone today?”
+
+“Just helping out a bit. Most people want to have a bit of fun and I can’t blame them. It’s not like I have anything else to do. There’ll be plenty of time to enjoy the show once it starts.”
+
+“I guess. Vend around?”
+
+“Yep, he’s waiting for you in the sword room with March and the rest. You better hurry up. Almost everyone’s there already.”
+
+Great, Dallion thought. Well, it served him right for not checking his guild ring sooner. Maybe that was another reason Nil was so grumpy? He could have told Dallion about the meeting sooner, if Dallion didn’t have the blocking ring on.
+
+“I’ll be right up.” Dallion went directly for the stairs. His leveling up would have to wait a bit longer.
+
+The Sword room was on the fourth floor. Dallion had been there only once before, when March had told him about the expedition. Only a few weeks had passed since then, though in true time years had gone by.
+
+Remember to act according to your level, Nil reminded. You’re not a rookie anymore.
+
+Technically, Dallion still was, but he understood the point. Walking up several flights of stairs, he made his way to the room in question. Just as he was about to knock, the door opened on its own.
+
+“Hey, Dal,” Vend said at the door. “Come in.”
+
+Definitely a show off, the armadil shield said with a note of disapproval.
+
+There were a dozen people in the room, all standing along the walls a few steps from the entrance. On the opposite side of the room stood March—one of the guild’s captains—dressed in her trademark full armor suit. An old sword hung from the ceiling—the item that held within it an entire ancient world.
+
+“We’re waiting for two more,” Vend whispered as he pulled Dallion to a spot in the corner.
+
+Dallion nodded. Looking at the people present, he could recognize a few, though he wasn’t particularly close to any of them. Most of them were elites or veterans, or both, with a smattering of new faces such as Dallion. To Dallion’s surprise, there was no sign of Spike or any of the other elites he had worked with in the past.
+
+Exploration specialists, Nil explained. They don’t take other jobs unless they have to.
+
+It was obvious by the state of their gear, that these were the equivalent of the company A-team. If there was an equivalent to special guild forces, these people were it. Virtually everyone had weapons and items of sky silver, not to mention that some of the weapons were completely unfamiliar to Dallion. However, that wasn’t the most interesting thing in the room. Now that the Moons had granted Dallion special sight, he could see one thing that he hadn’t before—the sword in the room was glistening with otherworldly light.
+
+The sword is from another world? he asked in his thoughts.
+
+Possibly, Nil said. Academics argue that the only way to create another world is to bring it from somewhere else. Personally, I think that the sword merely contains some hidden areas with a potential goodie or two. Of course, it’s just as likely that all treasures have been ransacked ages ago.
+
+“Everyone’s finally arrived,” March said.
+
+On cue, Vend went to the door again and opened it. As expected, two guild members entered.
+
+“As you probably know, starting tomorrow, we’ll continue with the next expedition. Normally, I’d have delayed this till after the festival. However, I’ve recently come across some information that requires that we move faster. I’ve already discussed this with the guild master and he’s agreed with my logic.”
+
+Dallion looked around. Other than him, no one appeared surprised, keeping their eyes on the captain.
+
+“Due to the sensitive nature of this information, the details will only be discussed once we’re inside the sword. The only thing I can say at this point is that there’s a slight chance that the world is not fully abandoned.”
+
+Stillness filled the room. Everyone was fully aware of the significance of that statement. Given Dallion’s recent experience, his first thought was whether they wouldn’t come across another copyette, or maybe more, locked up within the world as punishment.
+
+“The expedition will be every morning at nine,” March continued. “We’ll gather here, do our job, then head to the festival as if nothing has happened. Since this is a full world item, we’ll have to hunt and cook while we’re inside.”
+
+What does she mean? Dallion asked.
+
+That life in there is like life out here. Your wounds will bleed, you can satisfy your hunger if you hunt and eat whatever the world offers. The only difference is that it remains a realm, so the markers will still be visible.
+
+“Each day we’ll go on one expedition. On the way, we’ll try to mend as much as we can. The goal of repairing the sword up to the hilt remains. Questions.”
+
+“How long will the expeditions be?” a large woman with a crossbow asked.
+
+“Months,” March replied. “Weeks if we’re lucky.”
+
+“Will there be simultaneous awakenings?” someone else asked.
+
+“No. it’ll be just us. We go in, finish our business and get out.”
+
+“Will we level up the sword?” Dallion asked. Everyone turned his direction.
+
+That felt awkward, even if Dallion wasn’t sure why he had created such a reaction. Were rookies forbidden from asking questions? Or was the question so stupid that the answer was obvious.
+
+“We might,” the captain said. “Our main priority is to explore and mend, but if we get the opportunity, who knows.”
+
+Dallion nodded. He didn’t feel particularly better, but at least she had responded to his question.
+
+“Bottom line, there will be a lot of tough weeks ahead, so get some rest, have some fun, do what you have to do, so that tomorrow you’re ready to give it your all. Remember, once inside, nothing in the real world counts! The tournament, the guild challenges, the festival itself is irrelevant. Is that clear?”
+
+Everyone nodded.
+
+“May the Moons bless us in our journey.”

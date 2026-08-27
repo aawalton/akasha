@@ -1,0 +1,89 @@
+---
+id: e52ceabe-a700-5d7a-950a-458d86c580c6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54: The Big Guns"
+slug: 0093-chapter-54-the-big-guns
+partOf: labyrinth-of-the-mad-god
+position: 93
+ownLength: 1717
+unit: words
+publishedAt: 2024-11-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1915002/chapter-54-the-big-guns"
+royalRoadId: "1915002"
+---
+
+The party broke apart and started running for the far wall, spreading out to limit how many of them could be targeted by the powerful spell.
+
+As they raced to open some distance, the Janitor’s turret sucked in more mana from its core, until the barrel was glowing brightly enough to see the magical energy with the naked eye. Who is it going to target? Nick followed the flows of force, trying to get a sense of their direction and angle.
+
+When he saw the mutant correct its aim, he knew. “V, watch out, it’s coming for you!”
+
+That was all the warning that Team Earth was given. Half a heartbeat later, a massive discharge of condensed mana and essence erupted out of the Janitor’s cannon with a retort like a thunderpeal. Since it wasn’t heading his way, Nick came to a stop and got ready to help however he could.
+
+Instead of a beam, this spell was a condensed sphere of furiously rotating magic—like a tornado had been compressed to the size of a bowling ball. Size Up was screaming that when it touched down, the blast would be far more dangerous than the mutant’s other spells, and it would expand to cover a wider area.
+
+The dense vortex of kinetic energy crossed the battlefield with a sense of inevitability, crackling and buzzing as it tore through the air. It’s the same ability that took out most of the roach horde, he realized. Given the raw power of the attack, his spells wouldn’t stop it. In that moment, he was deeply worried for his friend, terrified that he was about to watch the force-bomb grind Veronica to paste.
+
+Sophia started summoning another frog while Nick reached for his barrier charm, but there wasn’t enough time, and V was too far away regardless. There was nothing he could do but pray that his friend made it out alive. Or maybe there is.
+
+There was no way that V could escape if the attack landed anywhere near her. But in that moment, he saw something that just might give her a chance. “Dodge low. There’s a gap between the spell and the floor!”
+
+The force-artillery went streaking for Veronica like a grenade of the gods, poised to end her life like a giant stepping on an ant. She only had a split second to react and couldn’t hope to run away in time. If it was anyone else in the party, it would have killed them without question. But Veronica was the most agile person Nick had ever known, and her reflexes were well into the range of the superhuman.
+
+Instead of running away from the attack, she spun on her toes and sprinted toward it instead. A heartbeat and a half after Nick called out, V judged the distance and dove onto her stomach—letting the sphere pass over her head with inches to spare. The hasty maneuver kept her from taking a direct hit when the spell detonated two seconds later.
+
+The magic bomb hit the wall behind Veronica with inconceivable force, ripping a colossal chunk of raw rock free from the surface. It was clear in that moment that this was the same weapon that had destroyed most of the floor. The power that had killed every researcher living down here and collapsed half of the rooms in the process.
+
+Although she had escaped the deadly detonation, V was still caught in the periphery of the blast. Shards of rock and churning force washed over her—slicing into her body and throwing her into the air. Before she hit the ground, Devin was there. He caught her in a flying tackle that absorbed the impact of her fall and shielded her from the shrapnel raining to the ground.
+
+In that moment, Nick was terrified that she had taken a critical wound despite her incredible dodge.
+
+Veronica was battered and bleeding in a half dozen places. Slivers of stone were embedded in her armor and flesh. If she were a regular person, she would have been down for the count. But Nick’s team boasted some of the most powerful members of the human race, thanks to the trials they had overcome since the System arrived.
+
+He let out a sigh of relief when she flashed a thumbs up and rose to her feet. V was rattled by her close brush with death, but she wasn’t about to let that stop her. She took an unsteady step, shook her head to clear her mind, then rejoined the fight without hesitation. She raised her crossbow and fired an Acid Bolt, intending to heal the damage she’d taken.
+
+“Holy shit,” Shaun said, mirroring Nick’s train of thought. “That was way too fucking close.”
+
+“We need to hit it hard before it can squeeze off another one of those,” Sophia yelled while directing her freshly summoned frog to charge. The party closed the distance and fired another round of projectiles, while Nick and Devin raced to engage the mutant with their weapons.
+
+With any luck, it won’t be able to cast another artillery spell right away. We need to do some damage while we have the chance. While he ran, another force beam began to coalesce in the air above the Janitor—the same spell it had been using throughout the fight. Shaun dropped a fresh Smoke Arrow, then warned the party that he could only use the ability one more time before his mana ran dry.
+
+This time, instead of relying on a risky, last-second dodge, Nick decided to try something else. Before the mutant’s ability finished forming, he cast a spell of his own. Piercing Ray. He took aim and fired, just as the Janitor’s power shot forth.
+
+As he’d been hoping, his ray was fast enough to intersect the Janitor’s beam. But the power behind the mutant’s spell was greater than his own. The midair collision only deflected the shot by a few degrees before Piercing Ray was thrown to one side. It still would have taken out Sophia if her frog hadn’t turned and grabbed her with its tongue—pulling the summoner to safety at the last possible second.
+
+Watching the Janitor’s force beam go lancing across the room, Nick paid close attention to the way that the mana was swirling, compressing the spell to increase it rotation. The entire beam is constantly turning, instead of just the end like my ray. I wonder if I can do the same thing to increase the rotational power.
+
+It turned out that although his spell had been countered, it wasn’t a wasted effort. Witnessing the two powers colliding head-to-head had given him the last insight he needed to deepen his understanding of Piercing Ray.
+
+Confirming that truth, a message from the System appeared before Nick’s eyes.
+
+Your understanding of [Piercing Ray] is now sufficient to advance the ability to rank 1.
+
+Would you like to advance [Piercing Ray] to rank 1 now?
+
+At that same moment, the construct swarm reappeared from the mouth of the tunnel. Under guard from the brass turtles, a line of gear-scorpions unleashed a heavy barrage—eager to inflict some damage now that the mutant’s force-shell was gone.
+
+The Janitor let out a furious roar as bits of its body were torn free. It turned away from the party to face the swarm, as mana began gathering above its head once more. It’s going to target them for at least a few seconds. Now’s my chance.
+
+Nick had been granted a window to improve his ability, and he intended to take it. “I unlocked rank-one with my ray,” he yelled. “If I upgrade it now, it might be able to counter the Janitor’s beams. Can you hang on for a little while without me? The swarm should keep it busy while I’m gone.”
+
+“Fucking go,” Devin yelled. “We need it bad. We’ll manage somehow until you get back.”
+
+“Shaun, save that last Smoke Arrow for when it turns to face us again.” With that, Nick started running, sprinting toward the corner of the room as the clamor of combat raged behind him. He needed to get behind cover before entering a trance.
+
+He burned some stamina to get there faster, then darted behind a giant piece of stone that had been torn free from the wall. He would still be helpless if the Janitor came for him, but he was safe from a random beam obliterating him while he was out.
+
+He came to a skidding stop, took a swig from his canteen, then sent his confirmation to the System.
+
+A few seconds later, the world faded away and the visions began—replaying every time that Nick had cast Piercing Ray. The System showcased what had worked well, and what had failed. What he’d intended versus what had actually happened.
+
+Then it moved on to every insight he’d gleaned regarding how the magic functioned. How the ball of kinetic mana in his hand began spinning before the ray was formed. How the drill bit was made of condensed force mana, but given shape by a bit of pure. How the power of the spell increased over time as the ball fed the ray, and the extent to which he was able to guide it after taking flight.
+
+When it was over, Nick was granted another closeup of his magical circuitry. He watched as the energetic conduits leading from his core to the pathways the System carved into his brain grew denser and more complex. The circuitry for Piercing Ray expanded and became more efficient, now able to handle a larger volume of mana.
+
+The entire process was fascinating, and he would meditate on what he’d witnessed when he had a moment to spare. But not while a battle for his life was underway.
+
+He began running back toward his friends the instant the final image faded from his gaze. He’d ponder his insights later. Right now, he had to get back to the fight and hope that his team hadn’t taken a serious injury while he was away.
+
+Nick raced across the battlefield, taking in the changes that occurred while he was away. Now that he had upgraded his force-based spell, he hoped that it would be able to counter the Janitor’s beams. There’s only one way to find out.

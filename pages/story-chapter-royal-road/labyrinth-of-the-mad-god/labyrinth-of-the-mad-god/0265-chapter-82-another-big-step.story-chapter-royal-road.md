@@ -1,0 +1,91 @@
+---
+id: fb4f0b20-ae80-59fa-a6e9-a5e8bf9b21c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82: Another Big Step"
+slug: 0265-chapter-82-another-big-step
+partOf: labyrinth-of-the-mad-god
+position: 265
+ownLength: 1429
+unit: words
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2870978/chapter-82-another-big-step"
+royalRoadId: "2870978"
+---
+
+Nick came back to himself with a smile on his face.
+
+He was still processing everything he’d learned but today had been amazing by any accounting. He needed to decide how he wanted to spend those points and share what had happened with Liz and the rest of his inner circle.
+
+Before he did anything else, he pulled up his profile and read the sword’s description in full—grin growing wider with every line he absorbed.
+
+Blightbane (Legendary)
+
+This artifact was forged by the Kastillan people during their struggle with the Calamity-Class entity known as the Crimson Blight. The blade was made from the strongest metals on their planet and lined with conduits to conduct magical energy.
+
+The soul of their king is bound within the weapon’s core, further enhancing its power.
+
+Modifications
+
+Living Artifact: This item passively absorbs compatible essence and mana. When certain thresholds are reached, the artifact may evolve and gain additional properties.
+
+Soul Forged: An intelligent entity dwells within this blade. It may communicate with its bearer and manifest in the physical world for up to five minutes each day.
+
+Blade World: The weapon’s core contains an inner world that its bearer may visit for a subjective half hour per day. Due to the intense time dilation, only a few seconds will pass during this period.
+
+Nick had known Blightbane was special, but the Legendary artifact exceeded his expectations in every imaginable way.
+
+Everything the sword could do was badass, and he couldn’t wait to find out how its power would grow when it evolved again. The blade’s insane sharpness, durability, and ability to channel mana were amazing, and that wasn’t even the best part.
+
+Fritz’s insights, advice, and warnings had saved his life on several occasions and was certain to do so again. He wasn’t sure what would happen when he manifested the king in the physical world, but he had no doubt that Fritz would be a force of nature on the battlefield—an ace up his sleeve for when shit hit the fan.
+
+Best of all, being able to train with a sword master for half an hour a day was an incalculable boon. A priceless opportunity that would let him improve far faster than would otherwise be possible. He rose to his feet, sheathed his sword, and took one last look around before leaving the mine.
+
+He decided to return later to study the leyline. Then he climbed the shaft, put everything back into his bag to restore it to a comfortable weight, and came to a stop at the exit. He took a quick look around to make sure nothing dangerous had wandered into the region then sat down and activated Blend into the Background.
+
+On his way to the surface, Nick had decided how he wanted to spend his points and was ready to do so now. While every attribute was useful, he was in the middle of conditioning his body, and still had aways to go before he hit his new limits after evolving to grade-D.
+
+He would invest in his physical attributes eventually, but for now, he was content with improving them naturally. That might change as he came closer to developing the Concept that was required to advance to tier two, which he hoped to achieve before the year of protection came to an end.
+
+When Aurora reached the next City Tier and he could delegate building placement, citizen applications, and transferring Contribution Tokens, he would prioritize growing stronger as quickly as possible—delving dungeons, completing quests, and facing the toughest challenges and events the System had to offer.
+
+If he wanted to defeat opponents of that caliber, it was time to focus on developing his Magic. His mobility and the power of Sonic Slice would scale with the attribute thanks to Force Acceleration, and his defense would improve as Arcane Shield grew more powerful. Boosting Mana Dart and Piercing Ray will come in handy too.
+
+After some consideration, he decided to take advantage of this rare opportunity to spend so many points at once, even though he suspected it wouldn’t be pleasant.
+
+Over the course of his adventures, Nick had learned that spending free points offered hidden bonuses beyond the raw advantages the attributes provided, letting him experience enhanced perception and altered states that could lead to important discoveries.
+
+With that in mind, he braced himself and then voiced his decision to the System. “I want to spend nineteen free points on Magic.”
+
+The moment the words left his tongue, fire blossomed behind his ribs. His energetic core—a mysterious organ that sat two inches below his heart—began to vibrate, thrumming and pulsing as the font of his mana expanded and compressed in alternating cycles.
+
+The intensity was overwhelming, but he remained lucid with a surge of will as magic surged out from his core like a solar flare. He forced the incandescent energy through the channels in one arm, into his other hand, and then back to its source in an increasingly rapid sequence. More magic was flowing through the ability pathways in his brain, enhancing their efficiency and complexity.
+
+He had no idea how long this continued as searing power shot out from his core, which was burning so bright it felt like he’d swallowed the sun. Being able to sense his energetic conduits on such a granular level deepened his understanding of how mana circulated throughout his body, but that wasn’t the only benefit.
+
+Nick could feel his channels widening and thickening, improving their ability to handle such concentrated magic. He wasn’t sure if it was a natural consequence of raising the attribute or a bonus from boosting it so much at once, but he would share his finding with the researchers and see if this technique could benefit his people.
+
+Eventually, the magic erupting from his font began to calm down. His was a bigger than before, and the energy inside was considerably denser. Going forward, he would have more mana to draw on, and his spells would be significantly more powerful.
+
+That was fucking intense, but the results were worth it. It felt amazing to improve so much at such a rapid rate, but he wasn’t done yet. He took a few deep breaths to regain his composure and then spent the rest of his points.
+
+“Please place five free points into Psi.” When he voiced his decision to the System, pressure built between Nick temples as the source of his psychic energy was infused with transformative power.
+
+It wasn’t as many points as he’d spent after his encounter with Liz in the cave. But just as he’d hoped, it was enough to let his consciousness leave his flesh, bones, and blood. After a moment of disorientation, Nick found himself standing beside his body, traveling as a thoughtform double connected by a silver cord.
+
+The ethereal cable was thicker than before, which he hoped meant his projection would be more resilient, although he still wasn’t sure what could hurt him in this form. He had the sense that he wouldn’t remain in this state for long, so he went to work, going through a series of tests he’d come up based on his prior experience.
+
+He flew to the next mountain over, scouting it from the air while getting a better sense for what his projection could do. Just like last time, he could sense the minds of the creatures below in crisp detail—pick up hints of their emotions and intentions along with their locations. Several beasts looked up as he passed overhead, confirming his suspicions that they had psychic powers of their own.
+
+By the time he felt his body pulling him back, Nick had a better sense for what his thoughtform could do, although he needed to learn more about psychic defenses before he tried using it in a hostile environment.
+
+When the show was over, he rose to his feet—glad to have gained additional protection against mind-affecting powers, along with a boost to potency of Predatory Domain and his capacity to sense killing intent.
+
+He pulled up his profile on a hunch, smiling when he learned his experiments had borne fruit in more than one way.
+
+Through intensive study of magical and psychic forces, you have improved the following baseline attributes:
+
+Magic has increased from [19] to [20].
+
+Psi has increased from [8] to [9].
+
+This had been one of his most rewarding days ever, and Nick made his way back to Aurora with a spring in his step—thrilled to have taken another big step down the long road to power.

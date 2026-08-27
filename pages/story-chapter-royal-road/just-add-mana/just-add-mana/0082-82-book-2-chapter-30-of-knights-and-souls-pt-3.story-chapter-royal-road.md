@@ -1,0 +1,221 @@
+---
+id: ff70da76-dfa2-5509-8905-112ec358a4f4
+page-type-slug: story-chapter-royal-road
+title: "82 — Book 2, Chapter 30 — Of Knights and Souls, Pt 3"
+slug: 0082-82-book-2-chapter-30-of-knights-and-souls-pt-3
+partOf: just-add-mana
+position: 82
+ownLength: 3943
+unit: words
+ownProgress: 3943
+publishedAt: 2026-01-03
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2908266/82-book-2-chapter-30-of-knights-and-souls-pt-3"
+royalRoadId: "2908266"
+markedReadAt: "2026-06-29T18:50:27.104Z"
+---
+
+The name [Ten Tongues of Vesuvius], Cale quickly learned, was a bit of an understatement. Which made sense for a tenth-tier spell, although he would still have been more than satisfied if it had simply created ten particularly mana-dense fire whips that wrapped around the Red Knight to restrain it.
+
+Instead, what happened was that an aperture to the elemental realm of fire opened up in front of him. Thick coils of blistering flame whipped viciously forward, moving in a way that reminded Cale of the one time he'd fought an elemental hydra. Those things were much tougher than their flesh counterparts, in large part because they didn't have nearly the same constraints—their heads could coil and twist through one another, and they used this to their full advantage, moving unpredictably amid a volley of magic to ensnare and consume their victims.
+
+His new spell was no different. Each coil of flame reared up, twisting through one another, then launched themselves at the Red Knight at a dizzying pace. To its credit, the Red Knight didn't flinch, even in the face of a tenth-tier combat spell. It waited for the last possible second, then snapped its sword forward with a flash of mana that cut through the first and second tongues that tried to grab hold of it.
+
+The third forced it to hop backward, and the tongue crashed into and burned the grass before dissipating at a quick, backwards thrust from the Red Knight's sword. Cale watched closely, admiring how clean its movements were. Its fighting style was efficient, and its blade was imbued with a Law fragment he didn't recognize. It used the overwhelming nature of its Law to overwhelm and suppress the spell without wasting mana.
+
+When the fourth tongue came, it leapt to climb on top of it and meet the fifth and sixth tongues head on, cutting through them in a whirl of bladed fury. It was only then that the remaining tongues managed to ensnare it—Cale had carefully hidden them beneath the one the Red Knight was standing on, then took advantage of the fact that they were technically incorporeal to have them burst through it, catching the Red Knight off guard. Each tongue snagged on then yanked on each of the Red Knight's limbs, suspending it in the air.
+
+It wasn't going to last, of course, but it was enough for Cale to get a feel for the spell. His mind raced. He hadn't been sure about the Gift's phrasing of "inflames the target's passions," at first, but that portion of the spell was essentially an emotional amplifier.
+
+That made it potentially dangerous for most targets, but emotional amplification was also an effective means of breaking someone out of a compulsion. Considering Vesuvius's name was in the spell, there was only one conclusion: Vesuvius was both watching and trying to help.
+
+That was significant. If this fight was important enough that even elemental gods like him were keeping an eye on it, then there was something bigger about the Red Knight that he was missing. The spell he was given was either a key or a clue, though he wasn't sure which.
+
+Cale needed to figure out what it was he was missing, though doing it in the middle of high-level spell combat was going to be challenging. He was used to using his barriers, not casting spells.
+
+Still, no time like the present. He gritted his teeth and started on a second spell before the Red Knight broke out of his first one. The tongues wouldn't last long enough to have an effect this early in the fight; the Gift took time to evolve each spell, so he would need to overlap his casts to receive each effect in time.
+
+The next spell he evolved was a simple enough choice. He needed a physical leg up for this fight. The Red Knight was enormous, which wouldn't have normally been much of a concern if not for the amount of magic he could feel physically imbued within its body. It was going to be strong and fast, likely faster than he could react to. Most of the time he relied on his barriers to deal with mages that were faster than him, but, well, those weren't exactly reliable at the moment.
+
+A self-enhancement spell of some kind, cast at sixth tier. At seventh tier and above, enhancement spells began to include transformative effects, which were often qualitatively better but also required time to complete and adapt to. No matter how much the Red Knight wanted a good fight, Cale doubted it was going to wait there while he underwent a dramatic transformation sequence.
+
+There was only one option there, either way. He cast [Basic Physical Enhancement].
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Basic Physical Enhancement] has evolved into [Blistering Physique]!
+
+[Blistering Physique, Level 1] [Sixth Tier (Unique), Active] [1.0e24 Mana]
+
+Enhance your physical speed and reaction time to match that of a voltsnipper.
+
+By the time his new spell finished casting, the Red Knight had also completed what looked like a ritual conjuration spell. Fragments of a ritual circle formed out of pure mana broke apart, then reformed into a blade of what looked like pure, crystalline ice. The Red Knight tilted its head, and the sword flew out to saw imperiously through the remainder of the [Ten Tongues of Vesuvius], working remarkably quickly through the tenth-tier spell.
+
+It took a bit of work, but those spells should have been opposing elements. Cale narrowed his eyes and took a step back, using his senses to examine the sword carefully. Vesuvius was trying to tell him something important. What was it? You could learn a lot about a mage by the spells they used and the power they could employ; the Red Knight was using something that not only felt familiar, but was reinforcing it with the power of a Law he didn't recognize.
+
+Cale knew every one of the Monoliths, even if he didn't get along with all of them. The only way he wouldn't recognize a Law was if it was new or if the Law itself was under the effect of some sort of memory spell, and what he was feeling didn't seem new at all. In fact, it felt very, very old.
+
+A memory spell it was, then. And if that was the case, he would need to use this fight to break it.
+
+Memory magic was unreliable at best, and Cale was harder to affect with it than most others. After his first few experiences with it in particular, he began adjusting his barrier to account for most low-tier attempts to mess with his magic and to have it alert him to higher-tier attempts. He'd also gone through a whole training regimen with a monastery of mind mages to notice when his perception or attention was being involuntarily shifted away, so he was very practiced when it came to that sort of thing.
+
+Even that didn't make him completely immune to it, though. Magic was a vast and ever-expanding field, and there was one type of magic that Cale knew there was no defense against—likely a lesser version of whatever had been used on humanity. Some variations of memory magic couldn't be directly defended against because they operated on the realm rather than on the individual, effectively convincing the realm itself to forget about someone or something.
+
+If that had been cast on a Law, which were constants throughout the Great Realms, then it would have to be either nineteenth- or twentieth-tier magic, depending on whether it also affected the Outer Planes. Frankly, if someone had cast twentieth-tier magic without him knowing, then he would need to deal with them regardless of the karmic backlash involved. In fact, a threat capable of casting twentieth-tier magic likely inverted the karmic calculations.
+
+But that wasn't what was important at the moment. What was important was that a spell of that level would have been a massive undertaking—an enormous, grand ritual that convinced reality itself to forget about a Monolith.
+
+And grand magic like that, Cale had learned, had cracks.
+
+It was possible to coax the Great Realms into forgetting about someone, certainly. It acted almost like a mid-tier obfuscation spell applied to every layer of reality, all at once. This was almost never necessary—most beings only existed within a single realm—but for those that weren't, it was an option. The thing was, that spell traded range for effectiveness, and even if the Realms forgot about the person, it didn't necessarily forget every single related detail.
+
+The spells they used, for instance. Once a spell was made, it was added to the Source, and the Source could not forget itself. And if Cale could coax enough different spells out of the Red Knight, scrutinize them enough to build that feeling of almost-familiarity up and up and up, he would shatter the part of the spell that hung over him. Possibly the entire working, in fact. It could go many ways.
+
+Alternatively, he could attempt to break the compulsion on the Red Knight, forcing it to remember itself and accomplishing the same thing. Likely he would need to do some combination of both, weakening the twentieth-tier magic before shattering it.
+
+All this to say he recognized the spell the Red Knight was using to free itself, and that recognition triggered a subtle resonance in the magic surrounding them. The spell was [Zero Blade], an otherwise simple name for what Cale had to admit was an incredibly dangerous combat spell, in the right hands. It was a conjuration spell that manifested what might have seemed like a simple blade, but was capable of cutting through all four major components of its target at once: their life force, their mana, their soul, and their flesh.
+
+No doubt that was the reason it cut so easily through the [Ten Tongues of Vesuvius]. Cale would have whistled if he were capable, which he wasn't, because he was almost immediately forced to dodge away from it as the Red Knight cut free from the last of the tongues and launched itself at him, [Zero Blade] in hand.
+
+Thankfully, [Blistering Physique] kept him out of its range. There was no chance that his barriers would be able to block it while they were in this realm overlap. Even if they weren't, he would need to fold a twelfth-tier equivalent barrier just to block it.
+
+Cale couldn't help it. He grinned, and the Red Knight grinned back.
+
+It gestured. The [Zero Blade] fractured—its essence used to fuel a different spell, Cale noted absently, which itself was incredibly advanced combat magic—into a hundred daggers of blazing heat. [Sundagger Comets].
+
+In his memories, he saw a laughing figure practically dancing through the air as their sundaggers flew with them, a fight and a performance all at once. They used the daggers as platforms, leaping from one to the next to make their way through the sky. The Red Knight wanted to do the same, Cale noticed, but didn't quite have the same freedom.
+
+Instead, it launched those daggers toward him in a volley of fiery streaks.
+
+"I'm trying to analyze your magic, you know," Cale complained, barely dodging each one. "You remind me of an old friend."
+
+"I am afraid I cannot afford you that time," the Red Knight said, sounding genuinely regretful. "You are a fascinating opponent. Perhaps you could strike back instead?"
+
+"I need to expand my options, first," Cale countered, but there were a lot of those sundaggers, and while he was busy dodging these, the Red Knight was in the process of casting another big spell. Cale frowned, flitted through his list of options, then cast one that would hopefully deal with the rest of the daggers.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Create Impulse] has evolved into [Bia's Hammer]!
+
+[Bia's Hammer, Level 1] [Eighth Tier (Unique), Active] [1.0e27 Mana]
+
+Wield the power of the goddess Bia, striking all targets with mystic force.
+
+Cale could feel the massive, invisible hammer that descended out of the sky as the spell completed, swinging straight through his own body and slamming into the swarm of daggers chasing him. Several were smashed apart instantly on impact, but the majority of them simply shot in the opposite direction, right back toward the Red Knight.
+
+It laughed in what appeared to be genuine joy, then gestured, cutting off its own spell; that wasn't enough, considering how much mana it had already invested into it, but it simply snatched the closest sunless dagger out of the air and began parrying each one that came close to it.
+
+Parrying wasn't quite the right word, though. It was absorbing each dagger, using the rhythmic strike of each parry to construct a mid-combat ritual meant to suck the life right out of him. Cale cursed. That was a line-of-sight ritual, though, which meant the counter would have to be—
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Lesser Shadowstep] has evolved into [Shadowblend]!
+
+[Shadowblend, Level 1] [Sixth Tier (Unique), Active] [1.0e24 Mana]
+
+Merge with the shadows themselves, reappearing in any other connected shadow within a radius of forty kilometers.
+
+Well, not quite what he was going for, but that was the consequence of not having high enough shadow resonance, he supposed. Plus, he wasn't really going to complain about getting what was essentially a form of teleportation. He'd wanted a form of teleportation for ages.
+
+Thankfully, grasslands meant that pretty much all the shadows around him were connected. [Shadowblend] let him drop instantly into the grass. The Red Knight whirled around instantly, and he could feel its mana sense bleeding into the shadows, trying to track him down. Cale responded by flickering between ten different spots, buying time as he pushed his mana into a different spell.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Pebbleblast] has evolved into [Pillars of Psamathe]!
+
+[Pillars of Psamathe, Level 1] [Ninth Tier (Unique), Active] [1.0e28 Mana]
+
+Create massive pillars of sand to strike at an opponent.
+
+The spell description was an understatement. Cale watched from the shadows as an entire tower of scouring sand burst through the grass, almost like a portion of Utelia had been spontaneously brought over into the pocket realm. The Red Knight gestured, forcing its remaining Sundaggers into a blazing barrier beneath it; the sand melted into a platform, but the spell continued with pillar after pillar, launching it farther and farther into the sky.
+
+Cale knew better than to celebrate. There were spells that benefited from that amount of height, and one of them was coming. He cast another spell.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Orb of Earth] has evolved into [Gravitational Crux]!
+
+Oh, dammit. This was what he got for not having enough Earth resonance to fix the outcome of the evolution. He didn't even need to read the spell description to know what it did; a tiny orb of earth had formed, but it was pulling him toward it, reorienting him to its surface. Far above, the Red Knight was speeding down like a comet.
+
+[Meteoric Impact]. That was only a sixth-tier spell, but its effect was amplified with distance. Cale snarled—if that hit his [Gravitational Crux], the resulting explosion would likely obliterate everything around them.
+
+"Stop!" he bellowed.
+
+The Red Knight seemed to notice the same thing. It canceled its spell at the same time Cale cancelled his, and they stared at each other, Cale breathing heavily.
+
+"I wasn't expecting you to actually stop," he admitted after a moment.
+
+"I would not want this fight to end early," the Red Knight responded. "Shall we continue this dance?"
+
+Fuck. Cale remembered that line, too. He was so damn close to remembering. He could practically feel the working over him trembling in its attempts to stay whole, and he had no intention of letting it recover. In fact, he needed more—he needed the Red Knight to sling everything it had at him, and the more they fought, the more he knew it was holding back. It was enjoying the fight and wanted it to last, which meant it wouldn't go all-out against him.
+
+Cale couldn't afford to allow that if he wanted to break the working. He especially couldn't allow it if he wanted to break it free from its compulsion. But he didn't have a spell that could evolve compulsion-breaking magic, and the conditions on a compulsion usually meant breaking it naturally was—
+
+Cale paused.
+
+[Ten Tongues of Vesuvius] had been a rather odd spell, come to think of it. It was a restraining spell with a minor emotional component, and he would have to hold the Red Knight down for far too long for that secondary component to break the compulsion.
+
+But maybe Vesuvius hadn't meant to give him a spell to break the Red Knight free. Maybe it was just a hint about something else in his repertoire.
+
+Cale glanced at his spell list again.
+
+"You'll avoid my apprentices, right?" Cale asked. "No matter how angry you are?"
+
+The Red Knight paused and eyed him warily. "It is a matter of honor," it said. "I do not strive to hurt those I despise through the ones they care about. What would that make me?"
+
+"Good," Cale said. "I'm sorry about this, but in my defense, I think you could really use a little self-reflection right now."
+
+Then he took a deep breath and—hoping against hope he wouldn't regret this— cast [Taunt].
+
+Damien understood on some level that Cale had experienced a great deal of pain throughout his lives. He had noticed the way the man kept looking up at the tree as if it was about to fall and crush him. There was a weight to his gaze, like just the appearance of the tree brought out more memories than Cale knew what to do with. There were regrets there, Damien knew; regrets that his friend hadn't quite come to terms with.
+
+He was no stranger to that kind of regret, even if he suspected the scale of his own regrets paled in comparison.
+
+The Verdant Flame burned steadily in his palm. His understanding of it had advanced, but not enough for it to reach the next tier and not enough to loosen Angus's soul enough for healing; for that, he needed just a glimpse of understanding as to what Cale was, and the cosmic role the human played in the cycle of souls. Without him, the cycle was incomplete.
+
+What in the world did that mean?
+
+He didn't even know if the cycle he'd glimpsed was true for all souls in all realms. For all he knew, he'd only glimpsed a fraction of the cosmic truth. It was likely that the true picture involved gods, angels, demons, and Monoliths.
+
+None of that mattered to Damien, for the moment. He needed to understand how the Verdant Flame related to souls, so he needed a single pillar of cosmic truth.
+
+"Cale's still fighting outside?" he asked quietly. Flia shot a worried look at the doorway and nodded, and Damien let out a breath; he wouldn't be getting any help from Cale, then.
+
+That was fine. From what he'd seen, when a person died, their soul returned to a rushing, torrential river that seemed to encapsulate infinity. That river cleansed those souls, in a way, causing the vessel to dissolve and releasing the soul's essence into its waters before redistributing it through the Great Realms. Damien had no real sense of what that involved, the sheer scale of it too large for him to grasp, but he was certain there were distributaries further along the river. The power would split and split again, until it touched on each and every one of the realms.
+
+Except there was a problem with that, wasn't there? Damien turned the problem around in his mind, frowning suddenly. There was a similarity here with what Cale had said about leylines and dungeons. Dungeons were the way magic balanced itself throughout the Great Realms, he claimed, which meant the flow of magic was distinctly one-way, moving from the most magically powerful realm to the least.
+
+Unlike every other soul, Cale—and the enormous power he carried with him—wasn't broken down by this great river of souls. He remained a constant, skipping down the river until he ended up in one of the realms. He was immune to decay magic, and likely soul magic as well, meaning his very existence was likely of critical importance to the river and its distribution.
+
+And if his theory was right and there was a relationship between the way this river flowed and the way magic trickled down through the realms, he could find his answer through a different question: What happened to the balance of magic when Cale Cadwell Cobbs entered a new realm?
+
+The answer was immediately obvious. That realm would now stand at the peak of its magical potential, which meant the entire pyramid of magical distribution would be turned on its head. That random factor would allow magic to move throughout the Great Realms constantly instead of eventually equalizing, and would—very, very slowly—allow all the realms to eventually learn about one another.
+
+If the river of souls followed similar rules, then Cale's very existence served to do the same. As he reincarnated in new realms, they would cause the river to shift, changing the distribution of souls and allowing new people to experience new things, rather than every soul eventually gathering at the end of the river.
+
+The Verdant Flame brightened in his palm. Angus's soul fragments, which hadn't previously reacted to his magic on anything except the smallest scale, finally began to shiver; the hardened, scarred pieces of essence softened, ready once more to be put together.
+
+That was it. Damien let out a breath, staring at the softly-glowing ember that represented a cycle he hadn't even known existed. Cale was somehow responsible for the way the Great Realms balanced themselves, not only in the distribution of magic but in the way souls moved through them. Doubtless it wasn't the entire picture, but for the first time, Damien thought he grasped a fragment of Cale's truth.
+
+He wondered if he knew. Cale seemed to deliberately avoid information about who he was, in some way; he took everything in stride, but there were things about his past he refused to even think about. Damien wouldn't have been surprised if there were puzzle pieces Cale had never put together simply because he didn't want to.
+
+Those were questions for later, though. He had what he needed. The Verdant Flame had changed in some fundamental way, and Damien could see multiple messages about the Legacy's level growing in the corner of his vision. He ignored them for the moment, his thoughts still lingering on Cale and that river of souls.
+
+After this was done, he was going to need to get Cale into a serious conversation about exactly what he'd done so long ago that haunted him so deeply. Damien was starting to suspect the man was hurting himself with his secrets.
+
+For now...
+
+The Verdant Flame poured out of his hands and into Angus's soul without burning it. Scarred-looking fragments softened slowly but surely under its warmth, and after a moment, Damien straightened and took a step back.
+
+You have learned [Warmth of the Verdant Soul]!
+
+"Your turn, Syphus," he said softly. He didn't take his eyes away from Angus's soul, now glowing a faint green. Syphus rolled up beside him with a nod.

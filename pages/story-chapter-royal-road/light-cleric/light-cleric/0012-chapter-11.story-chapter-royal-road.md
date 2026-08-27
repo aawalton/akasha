@@ -1,0 +1,389 @@
+---
+id: d0c948bc-54a8-5f2e-b6f8-667612ab6941
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11"
+slug: 0012-chapter-11
+partOf: light-cleric
+position: 12
+ownLength: 5515
+unit: words
+publishedAt: 2021-05-09
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/679180/chapter-11"
+royalRoadId: "679180"
+---
+
+Year 2
+
+High Cleric Marcus Radden’s personal study was lit with several oil lamps burning clean and bright. A fire in the large fireplace provided additional light and much appreciated warmth. Piety had visited the High Cleric’s study often since Father Vytal had introduced them. She was no longer awed by the wealth of books on the shelves, or the view from the large round window, or the familiarity with which the High Cleric treated her.
+
+“Good morning, Piety. Thank you for coming.”
+
+Piety bowed. “Of course, sir. What do you want to talk about?”
+
+The High Cleric looked up from his desk, reading glasses perched on his nose, and looked at her without smiling.
+
+“I wanted to talk to you about this report I received. Brother Thyme is… worried about your behavior in his Morals and Ethics class.” His tone was stern, flat.
+
+Piety felt like she’d been punched in the stomach. She and Brother Thyme often disagreed and by the way the High Cleric looked at her, it seemed he agreed with him rather than her.
+
+“Did Brother Thyme say what he’s worried about?” Piety swallowed, her mouth dry.
+
+“Saint Esther and the Dread Necromancer.” He tapped the paper. “In this concerned letter, Brother Thyme says you spent an hour yesterday defending the Dread Necromancer. He says you argued against Saint Esther’s actions.”
+
+“Oh.” Her shoulders hunched and her breath caught.
+
+Discussing scripture, philosophy, and the metaphysical with the High Cleric was an aspect of living at the High Temple Piety hadn’t become accustomed to. She was certain she never would. She reminded herself that though the High Cleric often talked with her familiarly, he was the leader of the Church of Khulanty while she was an orphan girl raised to acolyte by virtue of another’s kindness.
+
+He looked at her over his reading glasses, no hint of the gentle smile he usually wore, and raised an eyebrow at her.
+
+Piety lowered her eyes, folded her hands, and bowed. She heard the High Cleric’s small sigh, then the faint rustle of cloth and muted footsteps as he walked around his desk to the sitting area.
+
+“Piety, please join me.”
+
+Piety sat on one of the well-cushioned couches and the High Cleric sat on the other, facing her. She kept her gaze on her hands, folded on her lap.
+
+“How did you defend her?”
+
+Piety bit her tongue, not because she didn’t want to respond, but because she didn’t want to burst into tears. She took a deep breath, in through her nose, and tried to remind herself that the High Cleric had only ever been kind and encouraging.
+
+“I… I just said that necromancy isn’t inherently evil. In the story, Saint Esther attacks the necromancer for no reason.”
+
+“Ah, but Saint Esther did have a reason. The necromancer was raising the dead. Why do you believe raising the dead isn’t evil?”
+
+Piety shrugged. “I don’t know.”
+
+“Of course you do. Piety, look at me.”
+
+Piety looked up, taking slow, shaky breaths. The High Cleric removed his glasses and looked at her sternly.
+
+“She could have been raising the dead to do something benign like build a house, or even heroic, like defend the village. The story doesn’t say she was hurting anyone or scaring anyone or even that anyone in that little village nearby objected. The only one who seemed to think it was evil was Saint Esther. Why didn’t she at least try to talk to the Dread Necromancer first?”
+
+“Do you remember how the story begins?” the High Cleric asked.
+
+Piety nodded. “It’s a description of zombies.”
+
+“It’s a description of rot, pain, and evil.”
+
+Piety shrugged uncomfortably.
+
+“You have doubts?”
+
+“Well, what if it’s just that whoever wrote the story is afraid of necromancers? What if they got it wrong?”
+
+The High Cleric studied her for several quiet moments. The large fire crackled and popped.
+
+“Did you become friends with Devorah Kempenny?” When he named the black-haired girl, his voice became breathy.
+
+Piety shivered. “No,” she whispered. “We barely spoke.”
+
+Several more silent moments passed while the High Cleric considered. Piety did not dare to know his thoughts. She made certain her glass shield was tight as a blanket around her mind.
+
+“You’re not the first acolyte to challenge Church teachings. But you must never forget that the Saints wrote their stories at the behest of God. They didn’t get it wrong. We know necromancy is evil because God says so.”
+
+Piety’s skin tingled, the hair on her arms rose. She took a breath to steady her chest and clasped her hands to stop the shaking. She knew she should leave it there, should nod contritely, should let the High Cleric think she agreed with him.
+
+It’s what she would have done at Sacred Heart.
+
+“Sir, power runs through everything. I feel it. I’m sure you feel it too. And it’s like the weather. When a storm comes in off the ocean so hard that ships capsize, we don’t say the storm is evil, it just exists.”
+
+“The sailors on those ships might disagree.”
+
+“Or they might blame God. Sir, I’m a healer, but that doesn’t mean I’m inherently good. I could use my power to do all sorts of horrible things.”
+
+“Like what?”
+
+“Like revive a torture victim so he could be tortured again, or heal a wound so it closed over an object still in the body, or set a bone wrong and purposely cripple a leg. People can be immoral, sir. People can be evil. But a force of nature cannot.”
+
+The High Cleric shook his head. “I once met a man, Paul, whose power was to incite madness in anyone who met his gaze. That is evil, Piety. Sometimes the evil can be removed and what remains can be salvaged, but it’s a rare case.”
+
+Piety disagreed. The man was afflicted with an unfortunate and dangerous power, but that made neither the man nor the power evil. She didn’t say so aloud.
+
+After several moments more, the High Cleric smiled warmly. Piety felt some nervousness drain away. The tingle dancing along her skin dissipated.
+
+“You’ll be a powerful cleric one day. I hope you work out your understanding of good and evil.” He stood and went back to his desk, a silent dismissal. Piety stood and walked quietly to the door, but paused.
+
+“Sir, what did you do with him?”
+
+“Hmm?”
+
+“The man who caused madness. Paul. What did you do with him?”
+
+“I took his eyes.”
+
+Piety shivered.
+
+“It was God’s mercy. What remained was salvaged.”
+
+• • •
+
+Piety took a deep breath as she stepped into the courtyard, taking in the scents of wood smoke, falling leaves, and rain coming in off the ocean. The great oaks in the courtyard had shed most of their leaves in falls of scarlet, gold, and umber. The grass had gone to pale brown and the squirrels inhabiting the courtyard begged, borrowed, and stole everything they could, in preparation for winter. Their back-and-forth chittering floated in the courtyard.
+
+The stone-paved path was covered in dried leaves whispering aside as she walked through them. Briefly, she felt a tinge of responsibility, like she should fetch a broom and sweep the pathway clean, but those days were behind her. Almost a year now. The High Temple paid a head gardener a hefty sum to keep the gardens, lawns, and courtyards neat and clean, and the head gardener oversaw several other gardeners to do such things as sweep pathways. Sweeping was no longer Piety’s responsibility and it was no longer her name.
+
+Piety didn’t know when she’d stopped thinking of herself as Sweep, but in the months since she’d come to live, study, and train at the High Temple in Kinswell, her mindset had shifted. Everyone here called her Piety, and she had no reason to think of herself any other way.
+
+There were a few other acolytes in the courtyard, enjoying the cool afternoon. They waved as she passed and she smiled and waved back, careful not to drop the package tucked under her arm.
+
+It had been strange, at first, how different the acolytes at the High Temple were from the acolytes at Sacred Heart. Though they were still mostly from noble families and many had a low opinion of manual labor, they were generally friendlier and regarded their duty as one of service to God and His people. None thought her white hair or left hand was a sign of evil.
+
+Piety shook her head and watched the pure white hair dance in front of her face, felt it tickle across the back of her neck. Her hair was longer now than it had ever been, no longer cut short by the Mother Superior.
+
+It had been months since Piety had thought about the Mother Superior, and she realized thinking about her no longer brought the clench of fear or the sting of tears it once had. Instead, she felt relieved; she felt she could breathe and move and think without fear of being hit.
+
+At the other end of the courtyard she entered the distillery, where were made and stored a variety of brews, including wine, beer, and medicine. Initially, it had been peculiar to Piety that the High Temple would make and store spirits, the Mother Superior had often preached against the evils of alcohol, but it had been another case of the Mother Superior being wrong.
+
+Piety laughed and shook her head.
+
+Twice in as many minutes her thoughts had taken her back to Sacred Heart and that awful woman, and twice she had blithely dismissed her. It was a nice feeling, to not be afraid.
+
+Piety looked down at the small package wrapped in brown paper and held with twine she’d brought with her. Written in a neat hand she’d come to know well as Father Vytal’s, was the name Temperance Sunday. Their mentor had sent letters nearly once a week, telling them about his adventures. He never let on what the council had sent him to do or where he was, mentioning no town or province by name, but the stories he sent were akin to the adventures they had shared trekking along the Grand River: a broken leg, a lost treasure, a disputed tract of land.
+
+Piety descended the worn stone stairs to a hallway lit by thin, horizontal windows near the ceiling. Lately, Temperance spent most of her time here, mixing all manner of things she’d excitedly explain to Piety over dinner, but which Piety barely understood.
+
+A sudden explosion, as though lightning had struck somewhere in the building, loosed dust from the ceiling and shook the windows in their casings. A door down the hall slammed against the wall, letting loose billowing smoke and soot. Temperance soon followed, coughing and choking and covered in black soot from head to toe, the thick leather apron she wore was pockmarked, and those marks were smoking. An acrid stench filled the hall. Temperance pushed her soot blackened goggles up off her face and collapsed to her hands and knees, still coughing.
+
+“Temperance!”
+
+Piety ran toward her friend, dropping to her knees beside Temperance and setting the package on the floor. With ease of practice, she pictured her mindspace and opened herself to her power, allowing it to fill her. With a hand on Temperance’s shoulder, she let her senses delve into the other girl, telling her what was wrong. Smoke and soot filled Temperance’s lungs and Piety focused her power there, helping Temperance’s body to expel the intruding substance with three mighty coughs, and then helping her throat to smooth over the irritation caused by the smoke and heavy coughing.
+
+Temperance sat back on her heels with a deep breath. The goggles with the round glass lenses held to her head with a leather strap, were pushed onto her head, holding her grimy hair back. Tears tracked down her soot-covered face, making clear tracks in the black. She smelled of sulfur, like a struck match.
+
+“Piety,” she said. “Good to see you.”
+
+“And just in time it would seem.”
+
+Temperance laughed happily. “You’ll never guess what I’ve done.”
+
+“It sounds like you were trying to destroy the distillery. Are you playing with alcohol fumes again?”
+
+Temperance eased from kneeling to sitting. “No, no,” she waved her hand in the air between them dismissively, “Nothing like that. I’ve created…” but she paused and looked at Piety through lidded eyes.
+
+“Created what?”
+
+“I’m not sure I should tell you. It’ll ruin the surprise.”
+
+“What surprise?”
+
+But Temperance changed the subject. “What’s that?” she pointed to the package Piety had set down nearby.
+
+“You’re really not going to tell me?” Piety demanded.
+
+Temperance laughed and shook her head. “No. Not yet anyway. I want to make certain I’ve got it right first.”
+
+“You know, I could have let you choke on the floor for a while.”
+
+Temperance picked up the package and flipped it over to show her name in Father Vytal’s handwriting. “You wouldn’t have done that,” Temperance said. “Not even for a secret.” She held up the package to Piety. “What do you suppose this is?”
+
+“A birthday gift,” Piety replied.
+
+Temperance’s eyes went wide. “You think so?”
+
+Piety nodded. “Father Vytal wouldn’t forget your birthday.” She smiled. “Of course, your birthday isn’t for three more days. Perhaps I should take it back,” she reached for the package but Temperance thrust it behind her back.
+
+“Don’t you dare, Piety Churchstep.” Temperance stuck out her tongue.
+
+Piety laughed. “Well, at least come back to the dormitories with me and get cleaned up first. You’ll mark it up with soot as you are.”
+
+They stood and turned to the stairs in time to see Mother Josephine Simmons coming down them, her skirts held up so she could descend quickly. She stopped at the bottom of the stairs and looked down the hallway at them. She was a tall woman with broad shoulders and a big nose. She was clad in simple brown and grey work clothes. Her golden sunburst amulet was tucked away under her dress.
+
+“Temperance,” she said with a hint a humor. “I should have guessed.”
+
+Piety and Temperance folded their hands at their waists and bowed quickly.
+
+Mother Simmons waved a hand at them. “Quit that,” she admonished. “So, Temperance, have you destroyed another laboratory?”
+
+“Another?” Piety asked, looking at her friend.
+
+“Not entirely,” Temperance answered, ignoring Piety’s incredulous look. “And, I think I’ve finally got it.”
+
+Mother Simmons nodded. “Of course you do, dear. But from now on, I think I’m going to have to insist on a healer present while you conduct your experiments.”
+
+Piety nodded. “I’ll do it, Mother.”
+
+“Of course you will,” she smiled. “I’ll talk to the Dean of Students to see if we can adjust your studies with Temperance’s experiments.”
+
+Her smile turned to a critical examination. “Now, run along and clean up. I’ll take care of this mess.”
+
+“Seriously?” Temperance said. “Since when do you clean up after me?”
+
+Mother Simmons fixed her with a stern look.
+
+“It’s well within my purview to help an acolyte once in a while. Now go on before I change my mind.”
+
+The two hurried back to the dormitories where Temperance took her time cleaning up before inviting Piety over to her room. Piety was re-reading Saint Esther and the Dread Necromancer, looking for some hint of understanding from the Saint.
+
+Piety sat on Temperance’s bed while her friend tried to shift sheaves of paper from her chair to her desk, which was cluttered with jars of herbs and packets of powders and the instruments with which to work with them: scales, drying racks, and the mortar and pestle Father Vytal had given her months ago.
+
+Piety looked around at the clutter and shook her head.
+
+“You’re usually more organized than this.”
+
+Temperance sighed and gave up trying to find a suitable place for the papers. She set them back on her chair instead and sat on the bed next to Piety. “I’m working on something special,” she said.
+
+“The same special thing you won’t tell me about?” Piety reached down the bedside and plucked a hairbrush from the clutter. She scootched behind Temperance and began brushing her hair.
+
+“That’s nice,” Temperance said. She sighed and her shoulders relaxed. “But no, I won’t tell you. Not yet. It’s a secret.”
+
+“And what about your package from Father Vytal? Aren’t you going to open it?”
+
+“Oh!” said Temperance, and she straightened quickly, pulling her hair against the brush. Leaning off the bed, she snatched the package off the desk and tore it open. A thick, black book fell onto the bed. Temperance picked it up and leafed through it.
+
+Piety let her friend examine the book in silence for several minutes before she asked, “What is it?”
+
+“It’s an index of herbalism,” said Temperance quietly. “It’s got notes and observations from all kinds of people I’ve heard about in Mother Simmons’s classes. It’s got sketches and formulae and recipes…” Temperance trailed off, becoming engrossed in the book.
+
+“Happy birthday,” Piety kissed the back of her friend’s head.
+
+The explosion and package had chased the memory of her conversation with the High Cleric from her mind, but now it returned and Piety wanted to ask Temperance what she thought of it all, but her friend was absorbed in her birthday gift. There would be another time.
+
+• • •
+
+The months slid along in a cascade of brightly colored leaves and cups of spiced cider, cold gusts of wind and late nights reading by candlelight. The first snow came in the second week of eleven-month and buried Kinswell in thick powdery white. Two weeks later, at the end of eleven-month, the clerics and acolytes of the High Temple gathered in the massive sanctuary to observe the official coming of Winter, the holyday associated with Saint Lucius the Just. It no longer seemed odd to Piety that she should be counted amongst the acolytes.
+
+The sanctuary at the High Temple was at least three times as big as the one at Sacred Heart and the acolytes, clerics, workmen, and servants only took up a third, the rest was filled with people from Kinswell, come to celebrate the holyday. Those who hadn’t arrived early enough to secure a spot, or weren’t important enough to reserve one in the sanctuary itself, crowded Kinswell Square, the plaza between the High Temple and the Royal Palace where they danced, sang, ate, and drank in celebration.
+
+One month later was the new year. New year wasn’t a holyday marked by solstice, equinox, or season’s beginning, and there was no saint associated with it. Instead, the celebration marked the day First Royal Dalton Loreamer had founded the Nation of Khulanty over one hundred years ago. Some in the church disparaged celebrating the new year, claiming it was a secular holyday and that Royal Dalton Loreamer was revered like a saint.
+
+New year day was also Heir Isabel Loreamer’s birthday, marking her nineteenth year. Every day of the week before, there was a party held in her honor and on the eve of the new year, the eve of her birthday, a grand ball was to be held at the Royal Palace and many notable dignitaries were invited. The celebration lasted the whole day and Kinswell Square was crowded with those celebrating both the new year and the heir’s birthday, each commencing at midnight.
+
+Piety was glad no one but Temperance knew that new year was her birthday too. Or at least her founday. Some would have made a big deal of it and Piety didn’t want that. Temperance had promised not to tell anyone.
+
+The morning of the eve of new year was spent in lectures; powers theory, ethics, history. Mother Simmons had assigned Piety on duty while Temperance conducted her experiments, but she was one in a rotation of five, and today was not her day, so she spent some time in the temple library, looking up stories on Saint Claes, Saint of Midwinter.
+
+After lunch, was powers class.
+
+“Let the tip of your tongue rest on the roof of your mouth, just behind your teeth. Breathe through your nose, fill your lungs and let them exhale. Focus on each part of your body in turn, starting with your toes all the way to your head, letting each relax in turn. Still your mind.”
+
+Piety didn’t need the meditation exercises, she knew how to enter the room in her mind, but she liked powers class and class always started with meditation. So, Piety stilled her thoughts as coached, and relaxed in meditation.
+
+“Picture a room. It’s your room. It’s a comfortable room where you can relax and concentrate for as long as you need to.”
+
+Piety hadn’t told anyone at the High Temple about how she used the room in her mind. For everyone else in the class, it was nothing but a mental picture, a metaphor that helped them access their power. They could picture a blossoming flower or a burning candle and achieve the same effect. Most would abandon the practice when accessing power became as natural as breathing. But for Piety it was something more. She already had three powers for certain; telepathy, martyr, and healing, to acknowledge she could do something with the room in her mind no one else could might be considered a fourth power and she already got enough attention for having three powers as it was. The attention made her uncomfortable.
+
+Now in the room in her mind, the teacher’s voice was distant, as though coming from across a large space. Piety sat at her desk in the room in her mind and waited for the teacher to continue.
+
+“Now, picture a table in the center of the room and on the center of the table is a bowl and in the bowl is still, pure water. This water is your power.”
+
+“Gently dip your hand into the water and feel it caress your skin. This is your power. Let it feel you, let it become one with you, feel your power, hold it, shape it.”
+
+Piety let her power fill her and it felt like that first time, when she had been so young and she’d stared at the shining stained-glass window and had felt God’s presence, listening to the faint chimes at the edge of sound. And just beyond the edge of everything, she felt the gaping cosmic void where all power originated and she was tempted to pull aside the veil between here and there and look into the beyond. But caution stayed her hand.
+
+Piety opened her eyes. Her fellow pupils glowed to her vision, varying shades of orange. At the head of the class sat Hirrom Berek, the man responsible for guiding acolytes through basic power use in their first year at the High Temple. He was a round man with only a few white wisps of hair. He was always gentle and kind.
+
+Most acolytes would learn to harness their power in a year’s time and be ready for individual tutoring. In Piety’s case, she had already mastered this particular lesson, but even acolytes who came to the High Temple able to access their power were made to take the class so as to insure each had the same training and make sure nothing had been overlooked.
+
+Father Berek approached each student in turn, spoke with him or her quietly, and moved on. He came to Piety last. “Piety, your aura is looking well today.”
+
+“Thank you, sir.”
+
+Father Berek was an aura reader, and he always complimented her on her aura. She’d gotten used to it though it still seemed an odd greeting to her.
+
+“Are you looking forward to this evening’s festivities?”
+
+Piety shrugged. “It’s not a holyday. But Temperance seems excited. She’s been working with Mother Simmons on something. She won’t tell me what.”
+
+“Is that so?” But he said it with a conspiratorial tone that made Piety think he knew what was going on. Father Berek often engaged in small talk to put his students at ease. This was the first time he’d teased her.
+
+“Sir, do you know what she’s planning?”
+
+Father Berek put up his hands. “Ask me no questions, acolyte. Mother Simmons will have my hide if I tell.”
+
+Piety sighed and nodded. “Shall we continue then?”
+
+Father Berek smiled. “Indeed. Perhaps you should be running this class instead of a distractible old man.”
+
+Piety blushed and looked away. “I would not presume, sir…”
+
+“I’m only teasing you, Piety. Come now. Concentrate on your powers.”
+
+Piety pictured the room in her mind and eased into her power, like sitting next to a hearthfire. She shivered at the tingle across her skin, and the faint chimes at her ears, then she touched first her healing power; let it fill her with the invigorating buzz of life.
+
+“Very good, Piety. Now the martyr.” Father Berek smiled.
+
+Piety let go of the healing power with some reluctance and reached for the power to absorb another’s pain. This was a power Piety had only been asked to demonstrate once, but was required to touch every time she had powers class. It was a soft power, like reaching into a pile of cushiony bed sheets.
+
+“Good. Now the telepathy.”
+
+And Piety touched the smooth, supple glass of her mental shield before she made Father Berek aware of her, tapping politely at his mental door. Father Berek had an impressive mental shield, but he let her through.
+
+“Well done, Piety, as always.” His mental voice was strong, as strong as Father Vytal’s.
+
+“Thank you, sir.”
+
+“Piety, I’ve been meaning to mention… I’ve read many auras, but yours still mystifies me.”
+
+“Sir?”
+
+“We say you have three powers, which is more than any other alive today. But when I look at your aura, I see so many swirling colors, and yet there is a solid core. I believe there is more to you than we know.”
+
+Sweep shrugged uncomfortably. “Like more powers?”
+
+Father Berek nodded and spoke out loud in tandem with his mental voice. “You’re uncomfortable with standing out in a crowd. But Piety, it’s okay to be different. There will be some who hate you for it, but there’s nothing you can do about that. If you don’t want to tell me now, that’s fine. But if there’s more you can do, we should start you practicing it.”
+
+For years, Piety had stood out because of her white hair and been abused for it. Now, despite reassurance, she was still afraid to stand out.
+
+Piety left class early, claiming a headache, and Father Berek let her go with a knowing look.
+
+When Piety entered the bathing room it was empty, a rare treat for such a shared facility. Each floor of the dormitories was designated either for boys or for girls and each floor had its own bathing tubs fed by a boiler and distributed by a clever array of pipes and taps. The bathing rooms were at least a century old, but the pipes were a new contrivance, recently installed, imported from Kempenny Province.
+
+Turning a few knobs, Piety sent hot water rushing into a large, copper tub. Minutes later, she lowered herself slowly into the tub of steaming water and let the heat and steam relax her. She stared at the far wall where several stacks of folded towels rested on shelves.
+
+Father Berek had said her aura was so many swirling colors, and he was the expert in such matters, rivaling even Father Vytal’s reputation. So, she closed her eyes and focused on that still, cool well of power, comforting as a warm fire on midwinter and prodded at it.
+
+With half open eyes, she slid to the room in her mind. She could see the desk in her mind even as she stared at the towel shelf in the bathing room. She dipped her finger in the bowl of water on her desk. In turn, she touched and recognized her powers: healing, martyr, telepathy. And, indeed, there was something else. Perhaps it had always been there and she’d just never noticed.
+
+Perhaps.
+
+She reached for the power and felt it slide through her fingers like water. Her skin tingled with it. She reached again and again it eluded her.
+
+Piety shifted restlessly in the tub, sending the steaming water rippling.
+
+In her mindspace, she stood and took time to examine the chessboard and scan the bookshelf for any changes. She moved a pawn.
+
+She reached again for her power but, rather than seeking that flavor of power she did not know, she let it all suffuse her; she enjoyed the tingle along her skin and the chiming ghost of a sound at the edge of hearing. Rather than seeking it, she let it roll about within. Rather than grasping for it, she examined her chess board and stared at the towels, sat in her arm chair and reclined in the tub. Slowly, like approaching a frightened animal, she set aside her healing, her martyr, her telepathy and let the rest of it come to her…
+
+The stacked towels burst from their shelf toward her like they’d been hit by a gust of wind. They unfurled and scattered thumping and fluttering and settling around her. Several ended up in the tub with her.
+
+Piety gasped and sat up, sliding from the mindspace. Her shoulders ached like after a full day of chores without rest. Her breathing came hard and sudden. Her teeth were clenched.
+
+Father Berek had been right.
+
+• • •
+
+Because new year day was not an official holyday, there was no vigil in the sanctuary. Instead, those who wanted to participate in the celebration gathered in the courtyard of the High Temple, or in the Kinswell Square between the Royal Palace and the temple. Piety had planned to spend the evening studying in her room, but several days ago, Temperance had insisted she join her in the square.
+
+Piety was in her room, looking out her window to the great square. The square was packed with people. Impromptu stages displayed musicians, actors, and sleight of hand artists. Merchants had set up booths wherever was convenient and sold food and drink and knickknacks. People danced and ate and sang and drank, preparing to celebrate the Newyear and Heir Isabel’s nineteenth birthday. For the dual celebration, the people of Kinswell seemed prepared to celebrate twice as exuberantly. According to firsthand accounts, the real partying started after the church’s bells struck midnight.
+
+A knocking at her door drew her attention away from the crowd below. “Come in, Temperance,” she said.
+
+“Piety, it’s Marcus.” High Cleric Marcus Radden’s baritone voice rumbled through the door.
+
+“Oh.” Piety hurried to the door and opened it, bowing quickly. The High Cleric had not invited her to his study since their discussion of Saint Esther and the Dread Necromancer. He’d never come to her room before. The visitation was so unexpected she only remembered how uncomfortable their last meeting had made her after she’d opened the door and bowed. She wondered if he’d found out about her flinging towels off the bathhouse shelf.
+
+The High Cleric returned the bow, a gesture that still shocked Piety.
+
+“Piety, I’m sorry to bother you when I’m sure you’d rather be celebrating, but there’s someone I’d like to introduce you to. Do you have the time?”
+
+Piety was taken aback. “Uh… yes, yes sir. Will I need my coat?”
+
+The High Cleric shook his head. “No, she’s in my office.”
+
+They walked next to each other, trailed by a pair of church guards, as they made their way into the upper floors of the dormitories where the higher-ranking members of the church living in the High Temple, had their rooms. Piety thought it disconcerting the High Cleric was considered so vulnerable as to need guards even in the High Temple.
+
+As they walked, the High Cleric said, “Have you given any thought to our last conversation?”
+
+Piety nodded slowly. “I have, sir.”
+
+“Good.”
+
+And that was it. He didn’t ask her if she’d changed her mind, if she agreed with him, just whether or not she’d thought on it.
+
+Another pair of guards stood at the door to the High Cleric’s office, but these guardsmen were dressed in the purple and silver of the Khulanty guard instead of the scarlet and gold of the Church. The purple-clad guards saluted as the High Cleric approached and he nodded to them. The High Cleric’s guards stayed outside the office while he and Piety entered.
+
+A woman stood from one of the couches adorning the sitting area. She was tall and lithe with long silvery hair and a confident demeanor. The woman approached and held her hand out to Piety.
+
+“Piety Churchstep, Cleric Radden has told me much about you.”
+
+Piety took the woman’s hand tentatively. “Hello,” she said shyly.
+
+“Piety, this is Isabel Loreamer, the Heir to Khulanty’s throne.”

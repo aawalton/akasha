@@ -1,0 +1,125 @@
+---
+id: f444cd7b-4749-5fa2-8245-df338223c257
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: City of Monsters"
+slug: 0297-chapter-17-city-of-monsters
+partOf: labyrinth-of-the-mad-god
+position: 297
+ownLength: 2617
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3200858/chapter-17-city-of-monsters"
+royalRoadId: "3200858"
+---
+
+There weren’t any monsters on the second platform either and Nick’s party crossed to the far side without incident. However, charting a course grew more troublesome past that point.
+
+The next block was fifty feet below his boots. Most of the staircases leading to it were missing, which only left them with one way to go. I suppose I could jump down using Force Acceleration. Kenji and Bandit could climb a rope, but there isn’t a way for Lurk to descend other than taking the stairs.
+
+They came to a stop at the top of the staircase, which was made from rose-colored crystal supported by a network of golden wires. Everything was covered in dust and debris, but it must have been astonishingly beautiful before the city was pulled into the Labyrinth. Even now, the stairs retained a ghost of their former grandeur—a glimmer of the glamor set against the blood-stained backdrop of the monsters warring below.
+
+On that note, Nick returned his focus to the task before him, finding a safe route across the fallen city and reaching the conduit on the far side of the web.
+
+Since this was the only way to cross the upper platforms, it was a perfect place to launch an ambush. Before they set foot onto the stairs, his team scanned their surroundings, using their various powers and natural senses to sweep the area for danger.
+
+“I don’t see anything out of the ordinary,” Bandit said. “Although I suppose ordinary is a poor choice of words considering the nature of this venue.”
+
+“I don’t either,” Kenji added. “Although this place gives me the creeps.”
+
+Nick hadn’t noticed anything suspicious himself, even with Enhance Senses running. However, Size Up came back with a question mark rather than giving him the “all clear,” which tended to happen when the threats embedded within his environment were too obscure for the skill to analyze.
+
+Lurk shared his unease. She kept sniffing at the air while grumbling to herself. The big dino had the sharpest physical senses in the party, so they decided to proceed with an abundance of caution.
+
+Everyone fell into formation at the top of the staircase while Nick switched on Blend into the Background and Enhance Physical Senses. He activated his mage sight and mana stealth and took the first step while his party watched his back.
+
+The crystal flooring was textured, so his boots didn’t slip, although the wooden guardrails had been shattered long ago. His team was watching the platform behind him and the level below, so he focused on the stairs themselves, along with anything approaching from the air.
+
+He moved slowly, carefully examining each step with Size Up and his energetic senses before letting his weight come down. As he proceeded, Nick listened for the sound of anything crossing the web-woven cityscape. He breathed through his nose, using his enhanced sense of smell to seek out the foul scent of approaching monsters and his upgraded touch to scan for vibrations conducting through the crystal below his boots.
+
+At first, he didn’t sense anything out of place. But when he reached the halfway point, the hair on his neck stood on end. There wasn’t anything overtly threatening, but his instincts were screaming that something wasn’t right. Mirroring his train of thought, the uncertain chiming from Size Up deepened into an ominous buzz.
+
+Following the guidance of his informational skill, he lowered his gaze and couched. From up close, he could see that the dust was only half as thick on the next stair. He never would have noticed the minute difference before evolving and acquiring Enhance Senses, but now, the differential was clearly visible.
+
+Since there wasn’t a breeze to disturb it, his Tracking skill was confident that something had disturbed the layer of grime, then sprinkled some dust on top to conceal their tracks.
+
+Now that he knew where to look, he tried Sizing Up that exact spot while turning up his mage sight as far as it would go. Eventually, his eyes focused on single thread of webbing. Unlike the mesh covering the platforms, the tendril was transparent and thinner than his hair. It had a faint trace of mana lingering on its surface and his skill issued a resound a peal of danger the moment he noticed the magic running through it.
+
+He couldn’t see the thread from more than a few feet away, but he was able to follow the tendril of mana. It led to a dense ball of webbing that ran underneath the platform below, and the reek of monster was stronger in that direction.
+
+Nick walked back up and explained what he’d found, then continued charting a path down the flight of stairs. He located two more threads in the process, strung across the bottom step and the landing below.
+
+I bet these tendrils are everywhere, he mused. The web-slinging monsters that live beneath the platforms use them to detect creatures that emerge from the conduit and try to cross the city. I doubt I’ll find any on the levels controlled by other species, but they are bound to have their own tricks in store for the unwary.
+
+Regardless of the details of the lost city’s ecosystem, he had no desire to meet any of its monstrous inhabitants. Even if his team ran into something they could handle, the clamor of combat ran the risk of drawing stronger enemies to their location. While only the spiders could climb the webbing, every creature living in the lower stratas was pure nightmare fuel, let alone whatever horror had spun the node-spanning mesh encapsulating Eroquis.
+
+After reporting his discovery, the party made their way down the crystal staircase, avoiding the trapped steps he’d located.
+
+Nick was worried that Lurk was so massive she would accidentally trigger the tripwires, but he had underestimated the stealthy beast. Despite her prodigious girth, the dino was so agile that he barely felt her feet come down, and they reached the next platform without springing the trap.
+
+Of course, that didn’t mean they were safe. The silk-spinning monsters deployed webs to locate prey, but they were perfectly capable of using their eyes and ears, and there were other species stalking these ruins too.
+
+After scanning the landing for threats and making sure nothing was emerging from the underside of the level, the party resumed their journey. This platform was massive—large enough to hold Aurora several times over. Many of the buildings were still intact, which let him get a better sense of what this place had looked like when it was inhabited by people instead of the terrifying creatures that called the Labyrinth home.
+
+“Judging by the architecture,” Kenji commented via Tactical Command. “This was an industrial block. These buildings seem like factories, workshops, and warehouses, and the streets are wide enough to hold wagons carrying heavy loads. I doubt we’ll find anything valuable, but keep your eyes open all the same.”
+
+Nick nodded his agreement. He kept his mage sight running, since his best chance of finding anything of note was detecting its mana signature. It was eerie crossing through the remains of a fallen civilization—doubly so with legions of voracious predators prowling nearby. The intact buildings could have anything lurking inside them, and there were countless places where it would be easy to launch an ambush.
+
+Now that they knew about the trap webs, everyone watched them going forward. There weren’t nearly as many this far away from the rim of the platform, but they came across several strands strung across intersections and doorways.
+
+The sight sent a shiver running down Nick’s spine. The thoughtful layout of the sense-webs indicated a level of intelligence superior to the voidbears and the monstrous crayfish his team had battled thus far. Their traps are positioned in the most likely places for prey to pass through while heading to the other conduit or seeking shelter along the way.
+
+By this point, the party had been traversing the node for hours. The hypervigilance imposed by the threatening environment was draining, so they decided to take a short break in a sprawling structure after sweeping it for tripwires or anything hiding in the wreckage. The lessons I learned while taking my Size Up trial are coming in handy already.
+
+Everyone besides Lurk dug into his provisions. He had enough to last the three of them several weeks, but the dino would deplete his stores in short order. She didn’t mind eating monster meat, so the arrangement hadn’t caused any problems thus far. He had plenty of water in his dimensional storage, so he poured some into a basin that had once been a planter for decorative topiary for the big beast to drink.
+
+Before they moved on, he poked his head into the facility’s back rooms. As far as he could tell, this was a foundry where magitech devices had melted ore to refine metal. However, the components had decayed beyond the point of repair and the chunks of minerals he came across didn’t seem to be particularly valuable.
+
+Once everyone had a chance to relax, they rose to their feet and continued crossing the city of monsters. Things had gone well so far, but Nick knew it wasn’t fated to last. Despite their best efforts, there were so many webs strung across the platforms that they were bound to trigger one sooner or later.
+
+Sure enough, while they were crossing through a courtyard lined with statues of fantastic beasts, their run of good luck finally ran out.
+
+As it happened, the voidspawn infesting the city dealt with a wide range of creatures attempting to cross from one conduit to another. While most of the webs were designed to detect massive monsters walking along the shattered streets and stairwells, some were intended to catch prey that was smaller and more perceptive than the lumbering horrors filling the Labyrinth.
+
+One wide swath of the sidewalk appeared intact, when in fact it was supported by silk underneath. The pieces of debris were assembled so tightly that the seams weren’t visible, but the arrangement sent vibrations conducing through the webbing when weight was placed upon them.
+
+Thus, when Nick stepped over an obvious tripwire, his boot came down onto a piece of stone that sank a few inches before stopping, at which point, Size Up let out a resounding wail of danger.
+
+“Ambush incoming,” he cried as the party darted to a defensible area—an intersection where the visibility was good and some fallen statues could be used as cover. They assumed their primary formation while waiting for danger to appear, preparing their abilities while getting ready for a brawl.
+
+They didn’t have to wait long.
+
+A few seconds later, Lurk turned toward one edge of the platform and issued a menacing growl. The first monstrous spider crested the platform’s rim a heartbeat later, with three more following in its wake. Thanks to his high Mind, Nick could analyze the creature as it made its approach while conjuring some Mana Darts and lining up his first slash.
+
+Now that he could see them clearly, he realized calling these monsters spiders was a disservice to earthly arachnids.
+
+For one thing, the creatures had ten legs instead of eight. Their spindly limbs were uneven and strangely disjointed, making them lurch and bob as they skittered across the stonework. Each appendage ended in a wicked black spike that scraped against the platform below.
+
+Moving on, the voidspawn were covered in scales instead of chitin and hair—dark purple plates that looked thick enough to deflect all but the strongest of strikes. They had six beady black eyes arranged in two groups of three, featuring electric amber irises with split pupils.
+
+Now that Size Up had been upgraded with Discerning Eye, Nick received more information from the skill than ever before. He could feel it interfacing with his memories and the sensory data provided by Enhance—even tap into his Creativity and Mind.
+
+He suspected the skill had been using these sources all along, turbocharging his instincts to provide its insights rather than generating the knowledge via magical means. Now that he had a better understanding of how it operated, the process was more efficient.
+
+Size up was certain these creatures were Tier 2—on par with the elite crayfish his team had defeated earlier. It’s four on four, but this is going to be a difficult battle. If anything else shows up, we’ll have to retreat.
+
+Judging by the copious volume of dried blood crusted along their leg spikes, each weaponized limb could operate independently. The monsters could attack with their forelegs while skittering along the ground or rear up to attack with up to eight spikes at once. Their rear limbs were more muscular than the rest, which meant they could leap considerable distances. If they manage to jump on top of us, we will be torn to shreds within a matter of seconds.
+
+The pseudo-spiders’ mandibles were dripping with a gelatinous orange goo, which was clearly some manner of deadly poison. While all that was trouble enough, Size Up was convinced that the monsters had another type of attack, something that let them engage opponents from range. He already knew they could spin webbing, and his skill was certain their silk was acidic, which explained the patterning he’d seen etched into the stone in several places.
+
+Their natural armor was tough and the creatures were agile, specializing in overwhelming their prey in a swarming charge rather than attacking from ambush. Finally, while he hadn’t sensed anything until the spiders revealed themselves, Nick could perceive their killing intent clear as day. They must have been repressing it before, using a psychic version of mana stealth he needed to study when he had time to spare.
+
+Absorbing this wealth of tactical data had only taken a handful of heartbeats, but he had accomplished a great deal in that short span of time. He swapped Enhance Senses out of his Free Slot and activated Force Acceleration, coating his limbs in a shell of mobility-enhancing magic. He’d conjured a trio of Mana Darts and sent them circling around his head and was in the middle of casting two Piercing Rays to add to the mix.
+
+After sharing everything he had learned, he turned his head to see what his team had accomplished over the last frantic seconds.
+
+Kenji had highlighted the monsters with Tactical Command and was ready to issue orders at a moment's notice. His Rejuvenation aura was up and running, which would keep their stamina topped off and take the edge off any scrapes and bruises.
+
+The strategist had activated Bulwark and turned its dome opaque from the outside, protecting the team from ranged attacks while obfuscating their position. Both men were using Blend, and Bandit had covered himself with his Shadow Mantle, which would make him hard to track, even when Bulwark was down.
+
+For the start of the fight, Kenji and Lurk were standing in front with Nick positioned between them. Bandit was perched upon the dino’s back. The lemur had channeled shadow magic into his sword while getting ready to let loose with his inky flames.
+
+Nick couldn’t use Sonic Slice since the boom would reverberate across the node, so he infused Blightbane with pure mana, turning the blade into a bar of shining silver.
+
+Lurk opened her mouth and got ready to Roar, but Bandit smacked her head and reminded the beast that her psychic assault was too loud to use in this environment.
+
+He would have laughed at their antics despite the danger, but that was all the time his team had before the spiders were upon them.

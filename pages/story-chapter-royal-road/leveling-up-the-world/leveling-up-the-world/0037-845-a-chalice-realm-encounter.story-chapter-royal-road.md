@@ -1,0 +1,169 @@
+---
+id: 10ba8525-21ad-5dda-871c-3fba04690b99
+page-type-slug: story-chapter-royal-road
+title: "845. A Chalice Realm Encounter"
+slug: 0037-845-a-chalice-realm-encounter
+partOf: leveling-up-the-world
+position: 37
+ownLength: 2057
+unit: words
+ownProgress: 2057
+publishedAt: 2023-12-15
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1444248/845-a-chalice-realm-encounter"
+royalRoadId: "1444248"
+markedReadAt: "2026-06-29T22:41:26.507Z"
+---
+
+Griffin remains filled the chamber. In a past era, this had been the treasure vault of a throne room, now fallen to neglect. Traps and protective spells had kept it from being looted for centuries, though after millennia those had faded and rusted away, allowing for creatures from the wilderness to make it their home. Later still, the creatures had been killed off by hunters, though not all valuables had been taken away.
+
+Twenty magic circles glowed on the far wall of the chamber, shooting aether daggers with the speed of hail in a hurricane. Individually, Dallion could avoid each and every one of them, but in such large numbers, he was forced to rely on his armadil shield and combat splitting.
+
+Extend! he ordered, spreading his magic threads through the shield. The item stretched out, doubling in size.
+
+“Hello again, Count Elazni,” Viscount Salista yelled.
+
+The noble had it for Dallion ever since he’d entered the imperial capital. Lately, though, he had become particularly annoying. Of the seven times that Dallion had secretly ventured into the wilderness in search of artifacts, in almost half they’d crossed paths. Up till now, they’d only traded insults and provocations, but this time was different. The item that Dallion had come to claim was too important to let it go, and by the looks of it, the viscount thought the same.
+
+“Will your family withstand another scandal?” Salista performed a point attack hitting Dallion’s shield.
+
+Idiot! Dallion thought. It took a particular kind of stupid to cast such destructive spells in an underground dungeon, and yet nobles seemed to do it all the time. The last was back when Dallion had gone to help his fiancé escape from a wyvern infested ruin.
+
+An entire section of wall crumbled behind Dallion. Thanks to a quick spell, he was able to stabilize it, but that wasn’t going to hold for long.
+
+I’ve no time for this, Dallion thought, then entered the realm of the room.
+
+AREA AWAKENING
+
+Reality changed. The smell of rot and mold vanished, replaced by a chilly breeze. Dallion found himself in a world of giant grey and green structures composed almost entirely of columns and arches. The style was quite unique, but Dallion could see the nymph influence.
+
+It had taken him several months of following clues and quite a large sum of money to find this current ruin. Technically, he wasn’t supposed to be here—it was in former Azure territory, even if far from a significant settlement.
+
+You are in the realm of LANON CASTLE.
+
+The destiny of the realm has been fulfilled.
+
+Fulfilled? That explained the lack of guardians. Even so, getting to the spot he wanted wasn’t going to be quick. Dallion hadn’t explored the ruin well enough to know which part of the realm corresponded to which. To make things worse, the builders had added magic protections that rendered orientation spells useless.
+
+VISCOUNT SALISTA HAS ENTERED THE REALM.
+
+“Seriously?” Dallion cast a flight spell on himself.
+
+That pesky noble didn’t know when to give up. It didn’t help that House Mizovy tended to give him more than enough artifacts to partially make up for his lack of levels.
+
+The figure of Salista emerged in the grey sky. This time he was accompanied by a dozen sun gold bladerers. Like animated suits of armor with wings made entirely of blades, the constructs formed two circles around their master, staring at Dallion with empty eye sockets.
+
+“Nice trick,” Dallion said. “What did you give the Mizovy this time? Or are you fighting on credit now?”
+
+“Very funny.”
+
+A web of line attacks propelled from the bladerers in Dallion’s direction. They had done a rather good job of filling up the space so that Dallion couldn’t escape. No doubt their goal was to force him to take a defensive stance and gradually overwhelm him. Of course, that was a total waste of time. Being level ninety-one, Dallion had a lot of ways to deal with the attack. After a bit of thought, he decided to go on the offensive.
+
+ATTACK NEGATED
+
+You have sliced the BLADERER’s attack in two.
+
+Attack has no effect.
+
+Red rectangles appeared in the air as Dallion split through sections of the mesh of attacks, flying through them. Once the first wave was over, he made several of his own. Normally, this was the point at which several of the constructs would get destroyed. These, though, were a lot more agile, evading every strike.
+
+You have to give it to the Mizovy. They spare no expense, Adzorg said from Dallion’s awakened realm.
+
+“I think they messed up with the viscount,” Dallion grumbled in reply. That said, one had to admit that the noble had done a pretty good job tracking him both in and out of the capital.
+
+A pillar of blue light suddenly descended from the sky, melting one of the bladerers mid-air. Almost immediately, it was followed by hundreds of others, putting an abrupt end to Dallion’s standoff.
+
+“You idiot!” he shouted. “What did you bring here?”
+
+“What?” the viscount asked, just as one of the bladerers flew him to the side fast enough to avoid another destructive pillar.
+
+“You triggered some defense spell!”
+
+Just my luck! How did we end up in the only ruin with active spells remaining?
+
+If there weren’t any left, dear boy, there wouldn’t have been any treasures, either.
+
+Not helping, Adzorg!
+
+Dallion summoned his aura sword and slashed the air. Tens of spell circles formed in its trail, each creating an aether barrier to try and slow down the trap.
+
+“Split up!” Viscount Salista ordered the remaining balderers.
+
+As they scattered, more sections of the realm became affected, shooting destructive beams of light onto the structures.
+
+Getting a notion which areas were safe, the viscount had the bladerer carrying him go in that direction. Dallion did the opposite. He had played enough video games back on Earth to know that the path to the treasure was covered in traps. If he wanted to reach his goal quickly, that was the safest bet. Besides, things could hardly get much worse at this point, so he might as well fly into the eye of the hurricane.
+
+Dallion took a small clay cylinder from his belt and broke it. The spell inside came into effect, causing an aether echo to emerge.
+
+“Deal with him,” Dallion whispered, as he split into instances along the path of traps.
+
+Pillars of light kept on crashing down in almost predictable fashion. The mages of the time probably didn’t imagine someone would use their safeguards to reach the heart of the vault. Everything considered, they had been right—only a reckless fool would deliberately put himself in danger. Then again, the only difference between a reckless fool and an intrepid maverick was ninety levels.
+
+It’s unlike you to leave echoes to deal with your fights, Adzorg remarked.
+
+To this Dallion just smiled. One of the bonuses of being a domain ruler was his ability to move familiars between the real world and his realm. Right now, Dallion had let the creatures roam his mansion in the imperial capital while he took a more hands-on approach. The notion had annoyed his great-grandmother—the Duchess of House Elazni—but it kept him from getting complacent. More importantly, it focused everyone’s attention away from the important things he was doing.
+
+The rays made a sharp turn, intensifying in the direction of the higher points of the realm. It was notable that regardless of the fury with which they crashed onto the structures, there didn’t seem to be any damage.
+
+A reinforced area, Dallion thought.
+
+That had to be it. Casting a spell to boost his speed, he darted in that direction and, upon reaching the desired spot, left the realm.
+
+Reality flashed back to the real world, moving Dallion to the inside of the vault. The space was small and dark, or it would have been if Dallion’s presence hadn’t activated the defensive spells. Clearly, they were just as active as they had been within the realm itself.
+
+Magic circles formed on all surfaces of the room, illuminating it with their purple glow. Ironically, the first thing that came into view was Viscount Salista.
+
+The tip of the rapier thrust right at Dallion’s face amid the many aether shards that were starting to fill the room.
+
+Without panic or concern, Dallion summoned his harpsisword and deflected the blow.
+
+“So persistent.” Dallion summoned the aura sword with his free hand. One quick wave later, and the entire room was isolated, with thick barriers of purple that covered the floor, walls, and ceiling. “I’d hoped you’d quit back in the realm.”
+
+“Just because you know some magic?” The viscount pulled back, not in the least bit impressed. “I’ve been fighting on the front long before the start of the war. You think that a few magic tricks would make you better than me?”
+
+“That’s how it usually works.” Dallion waved his aura sword again to create a new layer of barriers over the cracked ones.
+
+In the light, the prize had become visible—a single chalice of Moon platinum placed on a pedestal in the center of the small room. A series of religious scenes were engraved all over its surface, visible only to people with a perception trait of forty or more. The gorgon embodiment of the White Moon Emion was depicted in several of those scenes, granting her followers with good fortune and prosperity. By any standard, the item could be defined as priceless. The Moon platinum alone was enough to make everyone outside of the imperial family envious, yet that wasn’t why Dallion wanted it.
+
+Plunging forward in another attack, the viscount reached to grab the chalice.
+
+Noticing his intentions, Dallion extended the magic threads from within his body in the direction of the item.
+
+ITEM AWAKENING
+
+The green rectangle popped up the instant the magic threads came into contact. The realm had shifted again, transporting Dallion to a serene lake surrounded by platinum white sand.
+
+You are in the land of CHALICE.
+
+Defeat the guardian to fulfill CHALICE’s destiny.
+
+That was sort of good. It meant that the item still had a guardian—hopefully one that could be reasoned with. Unfortunately, there also was a fly in the ointment—the same fly that had been pestering him all day now.
+
+Without a word, Dallion played a chord on his harpsisword. Music, attack, and magic skills combined, causing a series of purple threads to shoot out from the weapon. Mercilessly, they attached to the viscount’s armor and throat, freezing him in place. A split second later, the man’s entire armor shattered.
+
+“I warned you last time,” Dallion said, still playing chords on his harpsisword as he approached. “I was very clear about it.”
+
+“You still can’t kill me.”
+
+Here lay the problem. Despite his hounding, the noble was loyal to the empire and still took part in skirmishes on the front. After the return of the nymph empress, the Azure Federation had crawled out from their holes and launched attacks on the frontier. In most of the cases, their attacks ended in defeat, although there were chunks of territory they continued to gain here and there.
+
+If Dallion were to kill an ally during peacetime, he’d have a lot of explaining to do, not to mention give House Mizovy an excuse to cause problems in the capital. Salista knew it, so that’s why he kept on hounding Dallion every chance he got.
+
+“Can’t kill me, can’t cripple me, can’t hurt me,” the noble smirked.
+
+“Wrong. I can definitely hurt you.” Dallion infused the harpsisword with magic and thrust it into the other’s stomach.
+
+TERMINAL STRIKE
+
+Dealt damage is increased by 1000%
+
+PERMANENT EFFECT – DIARRHEA
+
+VISCOUNT SALISTA’s stomach has been affected. He will receive urges every hour until the status is removed.
+
+The status continues to be in effect in the real world.
+
+The man flashed out of existence, leaving the realm.
+
+Ouch! Vihrogon—the dryad guardian of Dallion’s shield—said. Might have been better if you’d have killed him.
+
+“I didn’t harm him physically.” Dallion let go of his harpsisword, causing the weapon to disappear in midair. “He can complain to the emperor if he wants to.” Part of him hoped that the viscount would. “Now to do what I came for.”

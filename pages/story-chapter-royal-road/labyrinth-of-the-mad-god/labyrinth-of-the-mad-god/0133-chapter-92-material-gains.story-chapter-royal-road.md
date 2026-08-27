@@ -1,0 +1,85 @@
+---
+id: 9f97d6f1-0404-5692-b63d-4be3969c60b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92: Material Gains"
+slug: 0133-chapter-92-material-gains
+partOf: labyrinth-of-the-mad-god
+position: 133
+ownLength: 1707
+unit: words
+publishedAt: 2025-02-17
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2073024/chapter-92-material-gains"
+royalRoadId: "2073024"
+---
+
+With their new and improved abilities out of the way, the party moved on to dividing the loot they had taken from the pirates’ bodies. Nick had already opened his bag and spread the gear across the deck so that everyone could decide what they wanted. While they hadn’t been able to strip the pirates of their armor, they had done well on the weapons front and had claimed a selection of other items along the way.
+
+They had the sword from the first pirate Nick had ambushed in the watchtower, along with the dagger and pack from the man Veronica had killed. They had recovered the sword and dagger from the dual wielder, the whip from the backline warrior, the bow and quiver from the archer, and the broken wand from the mage.
+
+On top of the weapons, they had come out with a pile of gems and golden coins—the first hard currency that Nick had seen since the System arrived. They decided on an even split for the valuables, then everyone turned to the weapons to see if anything caught their eye. Nick was mostly interested in the wand. Even though it was broken, he might be able to repair it. Even if he couldn’t, it should prove useful in learning more about the nature of defensive magic once he had some time to study it at his leisure.
+
+The device looked rather different from his Wand of Force, to the extent that he wouldn’t have known it was a wand at all if he hadn’t seen the mage using it in battle. It was five inches long and made from a coppery metal about as thick as his thumb. Bands of a silver were embedded along its length, in a pattern that vaguely reminded Nick of System runes.
+
+Devin didn’t want any of the weapons. Instead, he chose the belt that the furred swordsman had been wearing—the only accessory that had been easy to remove. It was made of a deep red leather, with a pattern suggesting an ocean of flames. He strapped it around his waist, then shrugged. “It doesn’t do anything obvious, but it looks badass and probably has a useful modification. I’m sure that I’ll figure it out before long.”
+
+Sophia decided to try out the whip. “I’m not doing as much infighting now that I’m directing multiple summons. Once I learn how to use it, this weapon will let me attack from behind the front line.” The whip’s handle was formed from black wood, with leather wrapped around it to improve the grip. The body was a greenish cord about fifteen feet long.
+
+There wasn’t room on the deck to test it out, since she wasn’t going to swing a weapon with unknown properties so close to the rest of the team. It had come with a case that fastened to her belt. Sophia also took an extra dagger and the bone whistle consumable that the man had used to control the scorpions. Its magic had already been expended, but like the broken wand, she figured that it might prove useful to study later on.
+
+Veronica came away with a new dagger, the backpack from the first pirate she had killed, and a new pair of gloves. There were a few other odds and ends in the pirate’s pack, which might be valuable when she made it back to civilization.
+
+That left two swords, a bow, and a quiver for Shaun to choose from. All of them appeared to be self-maintenance modified, given how clean they were in the aftermath of the battle. Those will be decent upgrades for him. With any luck, they will let him hit hard enough to contribute beyond his using his abilities.
+
+When Shaun picked up the bow to take a closer look, Nick learned that it was even better than he’d hoped. It was a compound bow made of golden wood, with etchings along the exterior. When the red-haired man nocked an arrow and drew, mana coalesced along the length. When Shaun loosed the arrow, it shot forth at a tremendous velocity.
+
+“Holy shit,” he said. “That added a ton of power to my shot. My arrows will fly farther and penetrate deeper using this beauty. I should be able to dish out some real damage now.”
+
+Nick put the old bow into his pack, figuring that it might come in handy at some point. If nothing else, he could use it for practice. He needed to expand his options for non-magical ranged attacks sooner or later, and a bow was a good place to start.
+
+Shaun’s new quiver only held three arrows, although he was hoping that it had the same self-refilling modification. He wasn’t sure what firing them would do, and couldn’t afford to risk making too much noise, so he took one out to inspect rather than shooting it right now. The arrow was jet black with red fletching. Instead of an arrowhead, the end was tipped with a round sack, which was certain to produce some manner of effect once it landed on target.
+
+That left two swords for Shaun to choose from. One was a slender blade forged from a metal that had a reddish tint when the light struck it. The other was a foot longer, and the metal was pure white. After testing them both out, Shaun decided to keep the longer blade, leaving Nick with the shorter weapon.
+
+After some consideration, he decided to strap its sheath to his waist. A short sword would prove useful in close quarters where there wasn’t enough room to swing his longer weapon, and it would be faster on the draw than reaching into his bag.
+
+Shaun slid his new sword and scabbard onto his belt. After a moment’s reflection, Nick decided to leave the man’s old sword behind. No one needed a basic, non-magic blade at this point, and he doubted that it would sell for much. His bag was almost full, and he needed to save room for more valuable items.
+
+Now that the sun had risen, there was nothing to do other than settle down and wait until nightfall to resume their journey. Before they decided how to pass the time, everyone listened as the women explained what they had learned about the vessel’s controls. Every member of the party needed to be able to fly it, so that they could take to the air at a moment’s notice no matter who was standing watch.
+
+Since the pirates would be hunting them in earnest from this point on, Nick prayed that no one had seen their ship approach the island or had a magical means of locating the vessel. The downside of this hiding spot was that Team Earth had a limited angle to view the outside world. If their enemies found them here, the party was only going to have a brief warning before they arrived.
+
+Now that the team had discussed their new powers and upgraded their gear, the only thing left was to spend the free points they had gained from their levels, although not every class offered them regularly like Nick’s. He went ahead and pulled up his menu, reviewing his gains from the battle in full.
+
+Congratulations. You have accumulated enough experience to reach level [22].
+
+You have gained one point of Magic from your class.
+
+Congratulations. You have accumulated enough experience to reach level [23].
+
+You have gained one point of Magic and one point of Dexterity from your class.
+
+You have two free attribute points awaiting allocation at your discretion.
+
+Through use, you have improved the following skills:
+
+Evasion has increased from [15] to [16].
+
+Light Shield has increased from [6] to [8].
+
+Sword has increased from [23] to [24].
+
+Throwing has increased from [8] to [9].
+
+Wand has increased from [15] to [16].
+
+Since he had some time on his hands, Nick pondered how to spend his free points long and hard before arriving at a decision. His Magic was rising like a rocket, thanks to the point he gained every time that he leveled, and his Dexterity was almost as high. His body felt fast and agile, and he had reached a level of control where he could pull off most combat maneuvers reliably.
+
+He was powerful enough to wield his sword in one hand and could carry his heavy pack without slowing him down, so he crossed Strength off the list too. He was durable enough to shrug off blows that would have killed him in his old life and could run and fight for long periods without growing tired. While he still didn’t have enough Toughness to use Force Acceleration at full power without damaging his body, he thought he could go all out without tearing his muscles or breaking his bones.
+
+On the other hand, his mental stats were starting to fall behind, since they were harder to condition and didn’t come packaged with his class. So, Nick decided to put both free points into Mind this time around. Extra focus and processing power was always useful, and he was hoping that the boost to his senses would help him spot the stairwells from further out.
+
+As the enhanced clarity that came with spending points on Mind came over him, he opened his journal and started to write, recording everything he had learned since entering the tower. The swordplay he’d learned from Rita, and everything the fight with the Janitor had revealed about mana and essence. When the effects wore off, he kept right on going, entering the full story of his recent adventures, and everything he thought might help others who hadn’t gone through something similar.
+
+Ever since Kerry had copied his journal to distribute to other members of Team Earth, Nick had expanded his plans. He hoped to write a guide that would help others walk the myriad paths to power, which could be expanded and revised once other people got their hands on it.
+
+While it’s nice to think about the future, we must finish climbing the tower and win back the Earth before we worry about what comes next. Starting with escaping from the sky pirates that call this level home.

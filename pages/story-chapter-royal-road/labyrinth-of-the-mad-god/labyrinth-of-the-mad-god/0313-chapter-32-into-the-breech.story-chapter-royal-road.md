@@ -1,0 +1,129 @@
+---
+id: 21c665aa-a630-5975-a604-3662a90f05d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: Into the Breech"
+slug: 0313-chapter-32-into-the-breech
+partOf: labyrinth-of-the-mad-god
+position: 313
+ownLength: 2468
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3415052/chapter-32-into-the-breech"
+royalRoadId: "3415052"
+---
+
+Wind whipped Nick’s hair across his brow as he tracked the monsters far below his boots.
+
+He was getting better at this new form of locomotion. He wouldn’t call it skysprinting just yet, but he had progressed from skywalking to skyjogging and was confident that he could pick up the pace after he got in a bit more practice. It wasn’t as fast as using Arcane Shield to straight-up fly, but that would require swapping out the contents of his backpack, and he needed to be ready to join the fight at a moment’s notice.
+
+So far, so good. He nodded in satisfaction. Seven Tier-1 voidbears were charging for Kenji and Bandit’s fleeing forms as the duo lured the creatures toward the ground of their choosing. Nick couldn’t spot any sign of Lurk, even from the air, but that wasn’t surprising when the beast was so stealthy and he was too far away to receive updates via Tactical Command.
+
+The voidbears had entered a blood frenzy after watching their strongest members battle to the death. With their predation instincts aroused, they hadn’t realized he was following from above. Since everything was proceeding according to plan, he moved into position, judging that it would be time to enter the fray in another ninety seconds.
+
+Nick had originally intended to stay in the air and hammer the monsters from range. However, using his Skywalker technique for a prolonged period was draining mana faster than he’d anticipated, and he wanted to defeat the voidbears without burning through any of his lifesaving potions.
+
+His heart hammered with the thrill of impending battle as Bandit and Kenji arrived at the base of a low hill. The duo let the monsters come a little closer then abruptly split up, heading around opposite sides of the hillock so the rise would obstruct the perusers’ fields of view. Four of the beefy bastards were following hot on Bandit’s heels while three charged for the scarred strategist, who was cackling so loud that Nick could hear it from here.
+
+After making sure the Tier-2 monster was still engrossed with its meal, he stopped to watch both chases play out. He would back Kenji up in another few seconds, but Bandit would reach his assigned position first, and Nick wanted to make sure everything was working out the way they’d hoped.
+
+As those thoughts crossed his mind, the lemur passed by a scrap of cloth trapped by a big rock they had placed as a landmark. He shifted into shadow form to reduce his mass as he scampered over an area covered in loose dirt and leaves.
+
+Nick was worried the monsters would notice the altered ground and circle round, but his fears proved to be unfounded. The aggressive omnivores were so fixated on the thrill of the hunt that they didn’t think twice, rushing onto the leaf-covered lattice without slowing down. They roared in surprise when the soil didn’t support their weight, toppling headfirst into the pitfall the party dug before making their move.
+
+A ten-foot fall wasn’t sufficient to damage the durable creatures, but it stunned them for a few seconds and made the monsters following behind come to a skidding stop. That was all the time Bandit needed to raise his furry hands and let loose with a shadow-flamethrower, filling the pit with searing energy that sliced at the voidbears’ vitals while obstructing their vision. The lemur drew the short sword strapped to his back and infused it with inky mana, stabbing at the creatures’ forelimbs whenever they tried to climb out.
+
+While the brave beast dealt with the monsters below, the other two circled the pit—eager to slaughter the spell-flinging primate. It would have been too much for Bandit to handle… but the lemur wasn’t alone. As the voidbears passed by a towering boulder, a multi-ton dinosaur pounced from their blind spot. Lurk had chosen the perfect moment to spring her ambush, leaping for the first monster with her talons leading the way.
+
+Her natural weapons carved parallel canyons into the creature’s flesh, tearing through skin, fat, and muscle in turn before cutting the monster all the way down to the bone. With a contemptuous kick, Lurk knocked the stricken voidbear into the flaming pit and turned to deal with the final monster, baring fangs wreathed in lightning as she went in for the kill.
+
+Nick wasn’t able to witness the rest of their fight, because the trio of voidbears chasing Kenji was almost in position, and it was time to make his move.
+
+He crossed from platform to platform until he was directly above the scrap of cloth the strategist was sprinting toward, which marked the boundary of the second trap they’d set. Even with their superhuman bodies, digging out a ten-foot cube of dirt was hard labor. Since they didn’t want to burn through too much stamina and weren’t certain this would work, they had only prepared two pitfalls—spread out far enough that these monsters had no idea what had happened to the group chasing Bandit.
+
+This pit trap had an extra surprise in store for the hulking creatures. Kenji had used his new gloves to manifest wrist-thick stone spikes and lined the bottom with them. On that note, the warrior gathered his strength and leapt over the lattice concealing the trap, stumbling as he landed to distract the voidbears at this critical juncture.
+
+The creatures surged forward in a burst of speed, only to have ground collapse beneath their ponderous paws. Gravity and momentum turned the monsters’ mass against them, and all three were impaled as they fell into the hole and hit the dirt hard. Nick doubted it was enough to kill them, but it was a promising start.
+
+While Kenji removed his spear from the strap that made it shrink and started stabbing at the monsters in the pit, Nick sprang into action. He needed to use the rest of his reserves efficiently, so he decided to return to the ground and try out an idea that had come to him a few seconds ago along the way.
+
+It was time to unleash a Sonic Slice—death-from-above edition.
+
+He took aim for the center of the hole, where the wounded monsters were snapping at each other in their desperation to escape the painful spikes. Then he wrapped his fingers around Blightbane’s hilt and dispelled his platform, plummeting at breakneck speed while Fritz roared his approval. Nick’ world was reduced a streaking blur as he called on Arctic Clarity to enhance his focus.
+
+As the ground came rushing up to meet him, he drew the Legendary weapon from his Half-Length Scabbard and activated Heavy Blow. A crack like a thunderpeal rang out as the blade broke the sound barrier… only to come to a gentle stop a minute fraction a second later when he switched off Force Acceleration.
+
+With Nick’s mass and terminal velocity added to the mix, Sonic Slice was stronger than ever. The energetic blade struck the monsters with an incredible impact, decapitating one and shearing a leg off its neighbor in the blink of an eye. A force clone of his falling body added insult to injury, forcing one of the monsters back into the pit as it tried to leap free. The combo had halted Nick’s meteoric decent, and he landed lightly by Kenji’s side with his weapon at the ready.
+
+The warrior jabbed with his long spear to pierce the monsters’ hides, and every time they tried to leap out, he used Shield Bash to shove them back in. Blightbane had a shorter reach, so Nick waited until the creature tried to climb up before thrusting at their eyes. With one voidbear dead, and a second missing a leg, the men were able to make short work of the monsters, finishing them off within a matter of seconds. I didn’t even get a chance to try out my new Piercing Ray.
+
+“That part worked.” Nick wiped the sweat from his brow. “Let’s see if Lurk and Bandit need any help then take out the rest.”
+
+“With any luck,” Keni replied as they circled the hillock, “the group that was gorging themselves didn’t notice the commotion and we can ambush them unaware.”
+
+The men arrived just in time to watch Lurk tear the throat out of the final voidbear. Everyone was weary but unwounded, so after taking a few minutes to catch their breath, they got ready to finish the fight before they lost the element of surprise.
+
+Nick was low on mana after being in the air for so long. He quaffed his Elixir of Restoration, refilling a decent chunk of his stamina and mana while erasing some minor bruises he’d accrued during the brawl. Then he conjured a pair of Arcane Shields and started jogging through the sky while the rest of the party followed below.
+
+His plan was to strike from the air with a brief barrage of spells, distracting the voidbears while his team hit them from behind before following up with Sonic Slice. With any luck, they could kill the trio of Tier-1s before the creatures recovered, then surround their big brother and whittle it down without taking any direct hits.
+
+A few seconds later, the monsters came into view. They were still feasting on the grisly remains—oblivious to the man high above who was about to bring the pain.
+
+***
+
+The Tier-2 monster collapsed, bleeding its life into the dirt as Lurk ambled over to enjoy a post-battle snack. The dino had taken several wounds during the fierce melee, but they were already sealing themselves shut thanks to Regeneration.
+
+Bandit and Kenji had picked up some cuts that were painful but not too severe, so rather than wasting one of their potions, Nick pulled out his Wand of Healing and began drawing life mana from his core.
+
+The energy flowed out from his energetic center, through the conduits in his arms, and into the wand in his hands. He paid close attention as his magic infused the device, which took his simple flows of life and wove them into a complex pattern before passing into whatever the wand was touching.
+
+Bandit sighed in relief as his wounds vanished without a trace, and his battered tissue became healthy once more. “That feels amazing,” the lemur clasped Nick’s hand to show his thanks, watching with interest as he tended to Kenji’s injuries.
+
+“That wand was a fanatic find.” The strategist palpated his limbs, savoring a body that was free from pain.
+
+“I can’t store enough life mana to heal a critical wound,” Nick replied. “But my core refills fairly quickly after my recent progress. We’ll have to use my flask or our potions in an emergency, but this Wand of Healing should dramatically reduce our recovery time and minimize our use of consumables. Once I reach Tier 2 and improve my Wand skill, it will be even more useful.”
+
+He harvested the voidbears’ claws and teeth while his friends recovered from the grueling ordeal. When the monster parts were sitting inside his pack, he sat down beside them, staring at the rift marking the end of the conduit while wondering what they would find on the far side.
+
+Now that the way was clear, there was one final matter he needed to attend to—pull up his profile and peruse his gains.
+
+Congratulations. You have accumulated enough experience to reach level [39].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+You have 2 free attribute points awaiting allocation at your discretion.
+
+By pushing yourself to the limit in the midst of a deadly battle, you have improved the following baseline attributes:
+
+Strength has increased from [24] to [25].
+
+For reaching the Grade-D attribute cap in Strength, you have been awarded with 5 additional points of Strength.
+
+Through use, you have improved the following skills:
+
+Acrobatics has increased from [13] to [15].
+
+Evasion has increased from [25] to [26].
+
+Light Armor has increased from [10] to [12].
+
+Sword has increased from [32] to [33].
+
+Size Up has increased from [25] to [27].
+
+Vital Energy Manipulation has increased from [18] to [20].
+
+You have accumulated sufficient essence to advance Enhance Physical Senses to Rank 1. However, you lack the understanding required to advance the ability at this time.
+
+Hell yes. Nick was only one level away from learning a new class ability, and he couldn’t wait to find out what power he would obtain. He had also taken his first attribute to the Grade-D cap, and the bonus for doing so was even better than he’d imagined. The rest of his attributes weren’t far behind, which meant he had a ton of bonus points headed his way soon—just in time to tackle the dreadbeasts in the quarantine zone.
+
+He hadn’t been able to cap every attribute before he evolved, but it looked like it wouldn’t be a problem this time. By now, he was familiar enough with the System to be certain that doing so would come with an additional reward. I might even earn a second milestone bonus if I’m one of the first people from Earth to accomplish the feat.
+
+All in all, Nick was thrilled by his recent progress. His skills were climbing faster than ever thanks to his First Among Equals title, which would continue to improve as Team Earth added more members to the faction.
+
+After a prolonged stint of city building—where battles had been few and far between—he was earning essence and experience at a steady pace. Better still, now that he had his Energy Manipulation skill and Mana Manipulation trait, he was knocking out the understanding requirements for advancing his abilities far faster than before.
+
+Although he knew it would be a deadly challenge, he was ready to tackle the elite five-star quest and enter the quarantine zone, where, with any luck, the rapid progress he’d made while crossing the conduits would only be an appetizer for the advancement-banquet to come.
+
+While he savored the satisfaction of his accomplishments, he pondered how he wanted to spend his free points. He decided to focus on Toughness until he was sure that he could survive a direct hit from a Tier-2 opponent. He voiced his decision, and the System enhanced the resiliency of his tissue, leaving him a bit more durable than before. Then he stretched out while enjoying his friends’ company, speculating about what they would find when they entered the node.
+
+An hour later, they were ready to go. Side by side, Nick, Kenji, Bandit, and Lurk approached the yawning gash in spacetime. They reviewed their plans for how they would handle any enemies waiting on the other side before passing through the rift and beginning a trial unlike any that had come before.

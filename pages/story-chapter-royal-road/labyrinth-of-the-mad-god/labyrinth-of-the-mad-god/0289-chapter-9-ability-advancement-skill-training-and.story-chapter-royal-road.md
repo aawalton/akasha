@@ -1,0 +1,103 @@
+---
+id: f00fc2bf-e95e-5da1-b8b1-6a74bef0d086
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Ability Advancement, Skill Training, and Trial Preparation"
+slug: 0289-chapter-9-ability-advancement-skill-training-and
+partOf: labyrinth-of-the-mad-god
+position: 289
+ownLength: 2174
+unit: words
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3109294/chapter-9-ability-advancement-skill-training-and"
+royalRoadId: "3109294"
+---
+
+Now that everyone was caught up on sleep, the party was ready to head out.
+
+While they walked, Nick pondered the dynamics of their situation. The quest’s description said it would take several weeks to reach the quarantine zone, and given the elite, five-star rating, the dreadbeasts trapped inside were certain to be some of the toughest enemies he had battled yet. He wasn’t confident that his team could prevail at their present strength, which meant they needed to grow along the way.
+
+Fortunately, the conduit was filled with ferocious predators—valuable sources of experience, essence, and skill training. He had no desire to risk his life recklessly plunging into danger, but they needed to take advantage of this opportunity and streamline their advancement if they wanted to survive the ordeal ahead.
+
+After discussing the matter, they agreed to eliminate the monsters they encountered whenever the odds seemed favorable, but that wasn’t the only way his party could improve. While they needed to keep their eyes open as they travelled, there were training exercises they could employ on the march, and more they could engage in whenever they stopped to rest.
+
+As they proceeded down the concrete walkway, Nick outlined his strategy so the others could add their own insights.
+
+“I’ve broken down my list of objectives into several broad categories. The first is to get better at working as a team, both on and off the battlefield. We need to develop an instinctive understanding of what each party member can do and learn to rely on one another. Kenji and I have some experience fighting side by side, and it’s clear that Lurk and Bandit do too, but we need to work on our four-member tactics if we want to defeat elite enemies.
+
+“In addition to improving our teamwork while battling weaker monsters, I think we should develop some drills that will promote cooperation—help us take advantage of our strengths and compensate for our weaknesses. Over time, we can integrate tactics that will let us respond to a range of threats at a moment’s notice without getting in each other’s way.”
+
+He was interrupted when Lurk grunted in disdain, suggesting that she was strong enough to tackle anything without relying on Kenji and Nick, but Bandit wasn’t having any of it.
+
+“Don’t give me that,” the lemur admonished the dinosaur. “You’re fierce and strong and no one disputes that, but there’s always a bigger fish. If you want to survive this quest and protect your clan over the long term, you need to develop tactics that are suitable for large-scale conflicts, and this is a valuable opportunity to learn from people who have far more experience than either of us.”
+
+Lurk grumbled but conceded the point. It was a promising sign, but Nick knew it would take considerable time and effort before the dinosaur could be relied on to stick to a strategy and follow orders.
+
+Kenji poured on the praise to win her over. He said that since she was the most valuable member of the team, any strategy he concocted needed her to succeed, leveraging the beast’s vanity to make her more willing to participate in the drills they were devising.
+
+“The rest of my objectives involving advancing my abilities,” Nick continued, “conditioning my attributes, and training my skills in preparation for completing my trials of mastery. While there might be some subtle differences between humans and beasts, most of this should apply to Bandit and Lurk too.
+
+“At the top of my list is improving my vital energy control. By this point, I’m certain that learning how to manipulate stamina and mana is the key to unlocking the understanding condition for ranking up our abilities, which is crucial if we want to grow fast enough to survive what’s coming. I’m still a novice at sensing and guiding my stamina, and anything you can do to help me improve would be greatly appreciated.
+
+“On the other side of the equation, I’ve made significant progress on mana manipulation over the last few months, and I’ve divided my efforts into four broad categories. Mage sight is the ability to perceive external mana—both in the environment and in another creature’s body. So far, I’ve improved the quickest when meditating in the presence of powerful emissions, and the more types of mana I’ve exposed myself to, the sharper my mage sight has grown.
+
+“Next is absorbing ambient mana from the environment. I’m still working on refining my technique, but active absorption lets me refill my core faster. Better still, if I absorb the right types, my core doesn’t have to convert anything while casting, which is more efficient and lets me fire more spells before my reserves run dry. Mana stealth involves restricting the flow of magic emitting from my energetic network, so I stand out less to other creature’s senses.
+
+“The last category involves drawing mana from my core, extending it beyond the boundary of my body, and weaving it into the shapes I want. Right now, I can push a little with force mana and create a weak version of my Mana Darts with pure. I’ve also learned how to increase my weight with gravity mana and hope to speed up my natural rate of healing once I can do the same with life. These applications are useful by themselves, but I think the key to ranking up spells is learning how to recreate them via free casting, which should eventually let us modify their properties too.”
+
+Bandit jumped in at this point. The lemur explained that after developing his shadow flame Concept and advancing to tier two, free casting spells came as naturally as breathing. He could show them how to make the process more efficient, and promised to teach them some tricks when they camped for the night.
+
+The primate hadn’t put much thought into mana stealth, and his mage sight wasn’t nearly as acute as Nick’s, so Bandit would work on both aspects as they traveled. When the lemur was done, Nick continued outlining his plan.
+
+“Moving on, training my skills is critical. I need to pass the tests of mastery I’ve already unlocked, and Light Shield is coming up too. Size Up can wait a little longer, since I can’t increase it past twenty-five until I take my Profession to Rare, although the reward for completing the trial is sure to come in handy.
+
+“I was hoping the three of you could help me prepare for my Evasion and Shield tests and I’m happy to return the favor. If I fail a trial, I can’t take it again for six months, and I can’t afford to bottleneck my advancement at this critical juncture. The bonuses for reaching the Journeyman level are incredibly useful, if the one I received from Sword is anything to go by.
+
+“Next is conditioning my attributes. Life-and-death combat is the fastest way to raise them, but I want to condition as many points as possible while travelling and resting too, and pick up the milestone bonuses from hitting the cap for my species grade.
+
+“I’m also working on using Psi to sense killing intent, read the mental state of other creatures, and the like. I want to learn how to manipulate objects with psychokinesis and eventually scout using a thoughtform double, but those goals aren’t critical right now.
+
+“Finally, after speaking to Bandit and Fritz, I want to merge the various components of my fighting style into something more unified. I hope the practice will facilitate forming a Concept, but I think it will teach me to become a more effective warrior in general.”
+
+Once Nick was done, Bandit and Kenji added their thoughts. Their priorities and techniques were different, but they were working on similar goals and hoped to learn from each other as time went by. Even Lurk seemed interested in growing stronger as fast as possible, although it was hard to tell exactly how much of what he was saying the towering carnivore understood.
+
+The last step was deciding what was practical to train on the move, and what would be better to wait until they stopped for the day. For starters, Nick could condition his Strength by carrying heavy stones, and he could work on his Stealth, Tracking, and a few other skills without taking his mind off his environment.
+
+Everyone would develop their mage sight and mana stealth as they travelled, and the men would use Blend in the Background to help the other party members train their sensory skills. Armed with a plan, they tabled the discussion and returned their attention to the conduit ahead.
+
+The party pushed themselves hard all that day, following the System’s arrow deeper into the endless maze. Nick wasn’t sure if it would be there to guide their trip back to Earth, so he mapped their route in his journal and recorded everything with his PDA. Combined with his superhuman memory, he was confident he could discern the route, although he was worried that parts might change over time.
+
+One detail he hadn’t been expecting was for the Labyrinth to have its own day and night cycles.
+
+Some of the areas they passed through had something approximating sunlight, though the mechanics of how that was possible were beyond him. Even in the regions lit by magelights, glowing gems, or bioluminescent fungi, there was a bright cycle, a dark cycle, and periods of transition between them. He wasn’t sure what to make of it, although it made him feel like he was travelling across an uncharted wilderness rather than deep below the ground.
+
+While Nick and Lurk were far from the best of friends, Kenji got along well with both beasts from the get-go. The warrior had picked up on their desire to be treated as equals right away. The occasional compliment combined with showing interest in their ideas and respect for their points of view had won them over in short order. Kenji has always had a way with people. I bet his Charisma is well into the double digits.
+
+All four party members had enough stamina to hike all day without growing tired, even across rough terrain, and they made good time as he delivered the miles beneath his boots.
+
+The first section of the conduit Nick had passed through was a gigantic sewer, and the second was an underground river, but those were only two environments among many. He walked through immense caverns with crystal walls, mushroom forests, and dozens more, giving him the impression that the terrain had been woven together from countless biomes recycled from fallen worlds.
+
+At one point, they passed through a few miles of what appeared to be a ruined metropolis. He ran his gaze across the remnants of what had once been a prosperous settlement, reduced to spare parts to bridge the Labyrinth’s nodes. He wondered if any of its residents had found a way to survive the calamity that had befallen their homeworld—orphans of a lost civilization.
+
+Monsters were everywhere, which wasn’t a surprise. What caught him off-guard were the small animals and insects, along with an occasional shrub, vine, or tree. These patches of life were few and far between, but it seemed that the Labyrinth was by no means barren, even in the space between worlds.
+
+We could find anything out here. Valuable resources, forgotten lore, who knows? And the nodes should be even more bountiful than the conduits.
+
+They camped for the night in an alcove along the endless passageway, which featured a single entrance and lacked cover for hostile creatures to approach them unaware. Nick and Kenji didn’t need much sleep, so they set up a two-man watch rotation, letting Bandit and Lurk rest to minimize their downtime.
+
+Nick spent an hour conditioning his attributes, then worked on his mana manipulation, trying to apply some of the insights Bandit had revealed about free casting to his own practice. He didn’t make much progress during the session, but when he switched to absorbing ambient mana, he was able to draw in both life and gravity in addition to pure and force, which was an accomplishment in its own right.
+
+When his watch was up, he switched places with Kenji and woke up four hours later. Everyone ate breakfast together—except Lurk, who only consumed fresh meat and would dine on monsters as they progressed. They packed their bedrolls, including a sleeping bag Nick had gifted Bandit, and after his daily training with Fritz in the Blade World, the party resumed their journey.
+
+The next time he pulled up his menu, he saw that he had made some recent gains.
+
+By engaging in rigorous exercise over a prolonged period, you have conditioned your body and improved the following baseline attributes:
+
+Strength has increased from [22] to [23].
+
+By deepening your understanding of magical energy, you have improved the following baseline attribute:
+
+Magic has increased from [20] to [21].
+
+Through use, you have improved the following skills:
+
+Vital Energy Manipulation has increased from [7] to [8].

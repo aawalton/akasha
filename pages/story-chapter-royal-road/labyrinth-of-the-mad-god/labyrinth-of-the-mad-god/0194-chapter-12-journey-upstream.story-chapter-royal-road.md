@@ -1,0 +1,101 @@
+---
+id: 45e4aa5e-d708-52b9-b209-f9c43113a757
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Journey Upstream"
+slug: 0194-chapter-12-journey-upstream
+partOf: labyrinth-of-the-mad-god
+position: 194
+ownLength: 2102
+unit: words
+publishedAt: 2025-07-11
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2427504/chapter-12-journey-upstream"
+royalRoadId: "2427504"
+---
+
+Relieved that his encounter with the coyote had ended peacefully, Nick picked a path and resumed his journey toward the center of the Bladewind Badlands.
+
+He spotted the young canine twice throughout the day, watching him with hungry eyes. He didn’t run into the rest of the pack, although he heard them yipping in the distance. The beasts didn’t seem to be stalking him, so he assumed they were just keeping an eye on his progress as he passed through their territory.
+
+Hoping to make a good first impression, Nick left several offerings of jerky as he traversed the dusty flatlands, setting them on rocks where they would be easy to grab. He came to a stop after spotting a wooded sub-biome and spent the night in the branches of a sprawling tree. He didn’t hear the coyote pack past that point and was pleased to have crossed their domain in peace.
+
+The encounter reminded him that it was a good time to check out some of the information the System had included in the Earth 2.0 Codex. He opened his menus and pulled up the first entry—pleased to discover that he could read while jogging at full speed, thanks to his high Mind.
+
+The Rise of Beasts
+
+Humanity has received various enhancements after being integrated into the System, but they aren’t the only ones. Many of your planet’s animals have completed their own tutorials and evolved into beasts (a process they call ascension).
+
+Like contestant species, beasts have formed energetic cores and gained the capacity to generate mana. They have System access and can level up, train skills, and use abilities. They have been granted their own quests, challenges, and events, although the nature of these opportunities can vary considerably from your own.
+
+Some beasts remain at animal intelligence, but many have grown considerably smarter after their ascension, gaining numerous cognitive capabilities they lacked prior to integration (e.g. procedural memory, abstract thought, symbolic logic, and complex linguistical syntax).
+
+While conflict is inevitable as everyone comes to grips with these changes to their bodies, minds, and world, you should do your best to make friends with your new neighbors. You’re all on the same side as far Taltos is concerned, and the various creatures living on your planet need to work together if you want to survive what is coming when the period of protection ends and the entrances to the Labyrinth unseal.
+
+While this was fascinating, none of the information was surprising. After meeting Bandit and the lemur tribe back on the Searing Isle, Nick knew how smart beasts could be and had already concluded that they could interface with the System in some way.
+
+He also found a brief entry on monsters, supplementing the details that had been provided in the Rebuilding Civilization quest description.
+
+Monsters
+
+While the Earth doesn’t have any active portals leading to the Labyrinth during its year of protection, some of its denizens have been added to the Frontier to give you a taste of what is coming.
+
+In addition to its contestant species, life in the Labyrinth comes in many forms, including but not limited to: beasts from other worlds, elementals, sentient constructs, others from alternate planes of existence, dreadbeasts, and Fallen creatures that have embraced the dark gifts of Taltos’s pantheon.
+
+The Labyrinth is also home to a variety of aggressive critters that are generally referred to as monsters. Unlike the creatures listed above, monsters are artificial lifeforms. Some were deliberately designed, while others are the products of failed experiments or the result of powerful magics mingling in unpredictable ways.
+
+Monsters do not have System access, although many can use magic in some form. They have powerful bodies that allow them to survive in extreme and hostile environments. They are all voracious eaters and require external infusions of essence to survive.
+
+While monsters live in the spacial passageways that connect the Labyrinth’s sectors (and in infested zones), they occasionally find their way onto a planet’s surface. Expect to see more of them once the period of protection ends.
+
+Interesting. That description reminds me of the Janitor. While the knowledge that alien predators were roaming the Earth was undeniably frightening, part of him wanted to encounter a monster and learn more about them.
+
+Nick wished the codex had included more details, but the information about the various types of lifeforms that called the Labyrinth home was fascinating, giving him a heads up regarding the myriad creatures he would encounter after leaving the planet. I bet there is more information about them in the other codex that we need to unlock.
+
+While he mulled the matter over, matching up some of those descriptions with the entities he’d encountered during the Fate of Earth quest, Nick kept heading toward the center of the biome. He soon left the dusty plains and entered a sub-biome filled with knee-high grass.
+
+He enjoyed the change of scenery while looking for signs that people had passed through the area, and eventually found the remnants of a firepit that was a few days old. I’m sure I’ll run into someone before long.
+
+Shortly after lunch, Nick had a close encounter with a beast that was distinctly less peaceful than the coyotes. He could tell at a glance that it wasn’t native to Earth, although it was definitely a beast and not one of the other creatures the System had mentioned. After observing it from a distance, he concluded that the beast must have come from the dimension the System had merged with the Earth.
+
+The creature in question was the size of a hippopotamus, with a chitinous exoskeleton that reminded him of a beetle. It had six powerful legs ending in broad feet, a protruding horn, and a fin like a shark. Most striking of all was a gigantic mouth filled with row after row of razor-sharp teeth.
+
+Although it was bulky, the beast was fast. Nick watched it chase down a herd of antelope, catching one of the speedy animals before devouring it in a frenzy. He eventually decided that its behavior reminded him more of a shark than anything else.
+
+While he was circling around to give the creature a wide berth, it turned and looked straight at him—malice clear in every crook of its posture. Oh shit. Its senses are incredibly sharp.
+
+Matters took a distinct turn for the worse when the beast jumped up, pivoted like a diver, then disappeared below the soil like it was slipping into a bath. All he could see was the creature’s black fin, streaking straight toward him at an incredible rate. “Nope,” Nick activated Force Acceleration and took off in a flash. “Fuck that.”
+
+This began a rather involuntary game of “catch me if you can.” He ran for his life, pouring on the speed as the massive beast followed hot on his heels.
+
+Size Up thought he could take it, although the skill wasn’t sure at its current level. Regardless, Nick had no desire fight an alien predator with unknown powers. He was also wary of killing beasts until he learned more about them, lest he precipitate a war that neither species could afford.
+
+He soon learned that in addition to being fast as fuck, the damned landshark had enough endurance to chase him all day. It seemed to enjoy doing so and had showed no sign of losing interest an adrenaline-saturated hour later. He could run for hours by this point, but he needed to lose his eager new friend before their race attracted the attention of something he couldn’t outpace.
+
+Nick kicked Force Acceleration into high gear, transforming the world into a streaking smear of color. Even still, it took him the better part of the afternoon and far too much mana to leave the landshark in the dust. Since he didn’t know how aggressively it would track him, he deactivated the ability and kept on running until he was sure it wasn’t following him anymore.
+
+Even still, he wanted to find a way to erase his trail, which made him doubly happy when he came across a river fifteen minutes later.
+
+By now, he was back in the main badlands biome and the ground was formed from bands of red, yellow, and orange soil, with an occasional tree or shrub protruding from the dirt. But alongside the river, the vegetation was abundant. He wasn’t sure if the riverbank counted as its own sub-biome, pondering the issue for a few minutes before deciding it didn’t really matter.
+
+The water was about thirty feet wide in most places—bordered by a hodgepodge of mud and rocky soil. Perfect. Nick picked out a strip of shoreline where the ground was relatively dry, then sprinted toward the water, boosting himself with Force Acceleration along the way. He gathered his strength as he drew near the river and then leapt as high as he could.
+
+Although it was what he’d been planning, he was still surprised when he cleared the waterway with room to spare, coming to a skidding stop on the far bank. Shaking his head at the wonder of it all, he followed the flow upstream for a quarter mile or so, then leapt back to the other side. After repeating the move a few more times, he continued hiking along the far side of the river—confident that the landshark wouldn’t find his trail.
+
+Covered in sweat and exhilarated by his latest encounter, Nick scanned his surroundings to make sure he was alone, plopped down on top of a boulder, then opened his pack and made himself lunch.
+
+After debating the matter while chewing on some rather flavorless travel rations, he decided to keep following the river upstream. He hoped to determine its origin, since there was a decent chance that it would lead him to the lake he’d spotted from orbit. He ate some dried fruit for dessert, then spent a few minutes putting rocks into his backpack.
+
+For the first time since he had shoved the floatstone core into his magic bag, Nick wanted to make the backpack as heavy as he could. Evolving to Grade-D had raised the cap on conditioning his attributes, and it was time to get in some Strength and Toughness training as he traveled—although he eventually needed to find something heavier.
+
+Maybe I can figure out how to attach a large stone to the outside of my bag. I’ll play with it whenever I stop for the night. He laughed when he realized just how surreal it was that running for hours while carrying a 150-pound backpack and the weight of his gear now felt like a light workout. Then he picked up his bag and took off in a flash.
+
+As he followed the river, Nick reveled in the beauty of the badlands—at how alive and free it felt to be back on the planet of his birth. The Earth had undergone some considerable changes while he was away, but none of that mattered. It still felt like home. The rest was just the cherry on top. After all, traversing a magic-saturated Earth was the culmination of his childhood dream. Something to smile about amidst all the horror and loss that had come with the package.
+
+An hour or so later, Nick noticed something strange jutting above the horizon. As he drew closer, he realized that he was looking at a vertical rock face that was hundreds of feet tall and hundreds of miles wide. He hadn’t spotted it from the air, but it seemed that the Bladewind Badlands had two distinct elevations, and he was approaching the dividing line between the lowlands and the highlands.
+
+By now, he could hear a roaring in the distance. When he looked through his spyglass, he caught sight of a tremendous waterfall that was pouring over the precipice, forming the river that was running in his direction. Even from miles away, the falls were a gorgeous, jaw-dropping sight, spawning a thousand shimmering rainbows that danced within the mist billowing around their base.
+
+He cracked a grin at the sight. Payday.
+
+Though he had long-since left a life of gaming behind him, the System had always displayed some distinctly game-like tendencies, some of which lined up with the contents of his online adventures. Nick’s old treasure-finding senses were telling him two things: the waterfall had a cave behind it, and there was something good inside.
+
+Since the waterfall was in the direction he was headed anyway, there wasn’t any reason to debate the matter. All that was left was to hike over there and take a closer look.

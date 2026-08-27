@@ -1,0 +1,195 @@
+---
+id: c7e61606-e244-51ad-a26d-238894f847e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14"
+slug: 0015-chapter-14
+partOf: light-cleric
+position: 15
+ownLength: 3520
+unit: words
+publishedAt: 2021-06-07
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/695364/chapter-14"
+royalRoadId: "695364"
+---
+
+Each ragged cut, each shattered bone, each pus-filled wound fell under her gaze without the emotional impact it would have had only a month ago. That first night, when the wounded had returned from the battlefield, Piety had been so shocked by the sight of mangled bodies that her stomach had emptied itself before she could stop it. Now, months after that first time, the sight was disturbingly familiar, and she judiciously applied her healing powers to the wounds under her before moving to the next.
+
+On that first night she had completely healed a man at the edge of death and had found herself drained of power, unable to help anyone else for the rest of the night. Now she used only as much power as needed to heal the worst of the wound, to make sure it wouldn’t become infected, and to get the body on its way to doing most of the work.
+
+Piety stepped up to the next bed and looked down at the young man’s broken body. She avoided looking at faces; it was difficult to keep the tears from her cheeks when she looked at their faces.
+
+She touched him with her healing senses but kept her hands at her sides. The body under her gaze was a mess of wounds and fractures. His left arm was severed at the elbow, several ribs were broken, a slash across his belly exposed glistening intestine, and one foot was crushed. His pale yellow aura faded slowly. This man had been brought here not to be saved, but to die. She could heal him, bring him back from the brink of death, but there were so many others who were nearer to life, who would not consume all her power. Piety would have moved on to the next if not for the faint groan of pain.
+
+She paused. Though she could not save him, there was something she could do that wouldn’t take much energy, that would allow her to continue to tend the wounded. She touched his hand lightly.
+
+The man gasped and Piety looked at his face despite herself. He was young, only a year or two older than herself. He’d probably lied about his age so he could join the army. His brown skin had gone sallow with pain, his brown eyes bright and shining, his close cropped hair slick with sweat.
+
+“Mother,” he said with a voice ruined by screams. “Mother.”
+
+He looked through her, through the space where she stood, through the years he had lived, to a time when a mother might be able to make all things better.
+
+“It’s all right,” Piety lied quietly. “It’s all right,” she said again, more for herself than for him. Then she slid into her mindspace and accessed her power. Not the healing power that might save his life and drain her of usefulness, but the power to take pain, a power called martyr, a power she’d had the opportunity to perfect over the last month.
+
+“It’s all right,” she said as she eased his pain, taking it on slowly. First her left arm went numb but for a biting pain at the elbow, then it felt like a soldier in full armor sat on her chest, her stomach cramped like she’d eaten bad food, and her foot tensed and cramped and wouldn’t support her weight. She didn’t take it all; it would have been too much. Even so, the young man sighed, the his aura swelled and faded.
+
+She went on to the next bedside.
+
+Piety was far from the only healer at Pinefort. There was a whole platoon of healers, both with the healing power and with training in the physical arts of doctoring. They were all under the guidance of the formidable Father Christoph. But even though there were others with the healing power, she was the most powerful of them, and her energy and powers were in high demand. Every day Piety visited the healing ward and did what she could. Some days she was summoned to heal an officer, someone particularly important to the war effort, but she refused to use any more power on an officer than she did on a regular soldier.
+
+“That’s it?” The woman who’d shouted at Piety only a few nights before still stood fresh in her memory. She’d worn freshly pressed clothes and immaculately coifed hair. She’d smelled of perfume, over the smell of a war camp, and Piety sneezed.
+
+Piety had been summoned in the middle of the night to heal a cavalry colonel who had fallen from his horse. She’d set the bone, burned away the infection, and set the body to heal itself.
+
+“You’re supposedly the best healer in all of Khulanty and that’s the best you can do?”
+
+Piety had blinked at her. “He’ll heal.”
+
+“If you’re as good as they say, he should be standing under his own power now. Heal him!”
+
+“Madam, I could do that, but then I’d have nothing left for the soldiers who’ll come in injured tomorrow.”
+
+The woman had been offended. “The common rabble? What do they matter next to my husband?”
+
+There were officers and healers there, men and women Piety had met but whose names she couldn’t remember. One of them had restrained the distraught woman while Piety had gone back to bed.
+
+Piety paused between patients, trying to shake the memory away. She’d wanted to repair the calvary colonel’s body, she hated rationing her power, and she had nothing but sympathy for his wife, despite her superior attitude. Why shouldn’t she hold her husband more dear than any other soldier?
+
+Piety blinked, and when she opened her eyes, she saw Temperance hurrying through the healing ward toward her. Temperance was clad in a simple dress and a linen apron and smelled of pungent herbs. Father Christoph had Temperance mixing medicines and poultices and ointments.
+
+“Piety,” she said, breathless. “Commander Byron has sent for you. He needs a message sent.”
+
+Piety blinked at her friend; her mind was scattered across the wounded. How long since she’d been shouted at by the colonel’s wife? How long since she’d helped the young soldier die? How many still needed her? How could Commander Byron demand she leave them?
+
+But Piety knew she was the only telepath at Pinefort whose telepathy could span the distance a horse could travel in a week.
+
+“Piety?” Temperance frowned, concerned.
+
+“Commander Byron,” Piety said, “Right.”
+
+Piety wiped her hands on a fairly clean towel then went to the door, waving at the healer in charge, a man whose name she couldn’t recall at the moment. Temperance joined her, putting an arm around her shoulder and holding her close. They walked in step out of the healing ward and toward the war room.
+
+“Piety, are you getting enough sleep?”
+
+Piety nodded. “Yes. I think so.”
+
+“You think so?”
+
+“I’ve been having the dreams every night for the past week,” Piety admitted. “But I’m sure I’m sleeping the whole time.”
+
+Temperance squeezed Piety’s shoulder in a half a hug as they walked. “Maybe I should talk to Father Christoph about taking you off duty for a couple days. When was your last rest day?”
+
+Piety tried to laugh but it came out as a breathy sort of cough. “Rest? For an entire day?”
+
+Temperance frowned and nodded. “That does it. I’m going to Father Christoph as soon as I leave you at the war room.”
+
+Piety shrugged.
+
+• • •
+
+Commander Byron was a tall, grizzled man. Scars on his face and hands indicated many battles and likely many sessions under the hands of a skilled healer. He had an iron-grey beard covering his chin and cheeks and much of his throat. Piety had never seen him wearing anything but full battle gear: chain mail under the purple and grey tabard of the Khulanty army, a short sword, a pair of daggers, and a round shield on his back. He spoke with a raspy growl, evidence of a throat injury and rough healing.
+
+Piety entered the war room, a large room in the keep of Pinefort that the former mayor had used to store old furniture, crates of clothes, and assorted nick-nacks. The storage crates had been moved out and a large table moved in. The table was covered with maps and the maps were covered with markers indicating the position or speculated position of troops.
+
+Commander Byron was accompanied by several officers of the Khulanty army, Swords of the Church, guardsmen, clerks, and pages. The commander of the Swords of the Church was a woman by the name of Mother Allison Talitha. Mother Talitha wasn’t as scarred or worn as Commander Byron, but she held the same level of respect amongst the troops as the Commander, despite his superior rank. Though she bore fewer scars, she did have one spectacular scar down the left side of her face, over her eye. Her left eye was a pale blue, contrasting sharply with her otherwise dark features, just as Father Shane’s eye had been after Piety regrew it.
+
+Everyone who had been studying the map looked up when she entered. Piety held still as the guards searched her for weapons and a telepath examined her mentally to verify her identity. There had been rumor of dopplegangers. Piety had grown used to the mind touch of Sergeant Hamilton. He was a kind man hardened by his career in the army. When Sergeant Hamilton nodded once at Commander Byron and Mother Talitha, Commander Byron waved her over impatiently.
+
+“Acolyte. How much power do you have in you?”
+
+“I feel good, Commander. What’s the task?”
+
+Commander Byron grunted. He pointed at a group of small, black-painted wooden cubes meant to represent Governor Kempenny’s troops, then at a decidedly smaller group of purple cubes representing Khulanty soldiers.
+
+“The man in charge of this platoon is Lieutenant Jeffery Taft. His last known position puts him too far outside our current lines given recent reports on enemy troop movement. I need you to tell him to pull back to this line.” Commander Byron tapped the map again.
+
+Piety studied the map but didn’t recognize the area. She wasn’t often invited to strategy sessions and wasn’t familiar with the lay of the land. She looked at Commander Byron.
+
+“Where is this?”
+
+Commander Byron growled and glared and gestured her to another map. Mother Talitha joined them and gave Piety a small nod while Commander Byron wasn’t looking. This map was a large sheet of velum, held down by large rounded stones. He pointed at a drawing of a small castle that represented Pinefort and traced his finger southeast along the paper to a spot dotted with trees. He looked up at her, an expectant question in his eyes.
+
+Piety nodded, judging Lieutenant Jeffery Taft and his soldiers to be about two days’ ride from Pinefort. That meant Governor Kempenny’s troops were much closer than Commander Byron and Mother Talitha wanted. But it was also well within Piety’s telepathic range.
+
+“Yes sir. I can do it. Where do you want him to move?”
+
+Commander Byron, without a word, moved his finger back along the line he’d just traced to another point.
+
+Piety nodded again, closed her eyes, accessed her telepathy, and sent her consciousness flying.
+
+It was like the world had gone dark but for the colored light: the auras of the people around her. Most of those auras were a color somewhere between yellow and orange, indistinguishable by normal means, but Piety knew who each was simply by knowing they were there. She was unable to discern anything about them that she didn’t already know, but she recognized Thom Barre, a guardsman she’d once shared a cup of tea with while he was on watch and she had just finished a particularly bad day in the healing ward; and Samuel Harte, Commander Byron’s personal clerk who appreciated an acolyte who had thoroughly studied the Scriptures; and Adam Wilson, a highly skilled healer without the healing power who she often worked in concert with but rarely actually spoke with. Each of their auras was a shade between orange and yellow and yet she could distinguish them. Some of those auras though, were distinct.
+
+Commander Byron’s aura was deep blue, like the eastern sky just before night, and shot through with veins of gold. Mother Talitha had an aura of rich, dark brown, like really good planting earth, that twinkled with hints of orange and purple.
+
+Piety had no idea what it meant that some people had a generic aura and some had a unique aura. For that matter, she had no idea if anybody else saw auras the same way she did. When next she saw Father Berek, she’d be sure to ask.
+
+And then she was whisking past them all, leaving them behind as streaks of light, throwing her consciousness south and east, along the line Commander Byron had traced for her. She passed by travelers on the road, farmers in the field, and trappers in the hills, until she came to the group she knew, without knowing how, that she was looking for. They were just about two days ride from Pinefort, just as Commander Byron had said they would be.
+
+Concentrating on the name of the lieutenant, she found herself focusing on one of those yellow-orange auras and she did the mental equivalent of a polite knock.
+
+“Lieutenant Taft?”
+
+But the mind she entered was consumed by fear, desperation, and chaos. Lieutenant Taft and his men had been flanked by Governor Kempenny’s soldiers. They were fighting for their lives.
+
+“They’re under attack,” she felt herself say, but she did not hear the words.
+
+With a faintly uncomfortable sort of pop, she could see what Lieutenant Jeffery Taft was seeing. She saw the black clad soldiers of Kempenny, saw that they outnumbered her, and she shouted for retreat though she knew there was little hope of any of them making it back to Pinefort alive.
+
+“Get out of my head, witch!” Lieutenant Taft screamed as he hacked at the enemy with his broad sword.
+
+“Commander Byron sent me,” Piety tried to explain, but Lieutenant Taft wasn’t listening. Instead, he flailed about with his sword, trying to take as many of the enemy as he could. He had given up, Piety realized. He had given up long before she had gotten there; he and his men had been expertly ambushed. He continued to scream at her, convinced she was an agent of the enemy trying to confuse him, to attack his mind in addition to his body.
+
+Somebody touched Piety’s shoulder and she was disjointed, confused between the pitched skirmish she experienced via Lieutenant Taft’s senses, but could not feel, and the war room where her body was, but which she could neither see nor hear. Then her gut twisted, her vision warped, and her head erupted in agony.
+
+She gasped and felt her consciousness snap back to her body.
+
+“What happened?” Commander Byron demanded. People in the room shouted orders, but it was all babbling chaos to Piety. “What happened to her?”
+
+“I don’t know. My telepathy is mediocre at best,” said Mother Talitha.
+
+Piety blinked against the pain and the noise. Her vision was blurred and edged by a halo of darkness. She swallowed back bile, determined not to throw up in Commander Byron’s war room.
+
+“Piety?” Mother Talitha’s hand on her shoulder made her gasp. Pain blossomed at her temple and slid just under her skin to her eyes, teeth, and neck. Her stomach heaved and she focused on breathing steadily.
+
+“Get a healer in here.” Commander Byron shouted from somewhere far, far away.
+
+“Piety, can you hear me?” Mother Talitha asked.
+
+Piety didn’t try to nod. Holding her head still seemed the only way to avoid the pain. Instead, she focused on the room in her mind. Once there, the pain drained and she took a relieved breath. From her mindspace, she could feel her power, like a warm blanket, but the warmth had dimmed—she’d nearly exhausted herself. She let her power ease to her head and heal the cut she’d acquired falling to the floor. She didn’t drain herself completely, but she was done using her powers for a while.
+
+With Mother Talitha’s assistance, Piety got to her feet.
+
+Commander Byron looked at her, frowning, though from worry or irritation, she couldn’t tell.
+
+“They were ambushed,” Piety said. “Lieutenant Taft is dead.”
+
+Commander Byron nodded. He walked back to his big table with the big map and plucked a lone purple cube from its surface.
+
+• • •
+
+Father Christoph took one look at Piety and ordered her to bed with a strong dose of some foul-tasting medicine that not even strong tea and two spoons of sugar could mitigate. Temperance mixed the medicine herself and insisted on the spoons of sugar, even though sugar was a precious and rationed commodity. Father Christoph further ordered her to take two days leave to recuperate.
+
+Piety had wanted to argue. There was a part of her that said she was still needed in the healing ward or the war room or somewhere, but Temperance forced her into bed with fierce glare, and Piety went. The medicine dragged her into unconsciousness and when she awoke, the room was lightless and she could hear Temperance breathing gently in the bunk above hers.
+
+She felt a moment of panic as her sense of needing to do something took hold before she remembered Father Christoph had ordered her rest. With the knowledge that she was freed of responsibility for a while, she took a breath and her back popped in three places.
+
+Piety sat up on her bed. The room she shared with Temperance at Pinefort was small, smaller even then the room they’d shared at Sacred Heart, with just enough room for a bunk bed and a small trunk for their possessions. The room had a stone floor and a single stone wall and was otherwise separated from the rest of the larger room by curtains.
+
+It was warm in the room, despite its size. Piety could hear the quiet voices of others who had small sectioned off rooms in what had once been the great hall of Pinefort’s keep. She wondered what time it was but decided it didn’t matter. She was too warm and too awake to go back to bed. She took a clean dress from the trunk and slipped it on over her nightdress, sat to tie on a pair of worn slippers, and quietly left the curtained off room.
+
+Navigating the haphazard hallways of curtains would have been disorienting had Piety not done it dozens of times before. Soon she was in the courtyard between the great hall and the front door, relishing the cool summer night’s air and staring at a waning gibbous moon. The courtyard was empty but for her, and Piety appreciated the moment of solitude. Her thoughts flitted from Lieutenant Taft to faceless wounded to the nature of auras. Still restless, she walked without destination, wandering the halls, nodding to night guards, her slipper-shod feet barely whispering on the smooth stone floors.
+
+In a darkened side hall that wasn’t deemed important enough to warrant one of the carefully rationed oil lamps, a broom rested in a corner. Piety almost didn’t see it. But when it caught her eye, she took it up automatically. It felt familiar.
+
+The halls of Pinefort were well maintained but there was always a bit of debris that had gone unnoticed during the day, scraps of paper and bandages, mud tracked in from the field, and the dust that couldn’t help but accumulate in corners. Piety found solace in carefully gathering the bits of debris into small piles and dispensing with the piles at convenient doors and windows.
+
+Hours later, Piety swept the smooth stones at the entrance to Pinefort. She paused to lean on her broom and watch the sunrise. Around her, the township sloped away from her, roofs of red tile appearing only as shadow in the early morning, the streets vacant of villagers, the windows dark while the people behind them slept fitfully.
+
+The black sky became grey became deep blue. A few wisps of cloud drifted about the horizon to catch the light of the sun decorating the sky with orange and pink. The morning summer air was cool with the hint of fair weather, stark contrast to the work Piety knew awaited her.
+
+But not today, she reminded herself.
+
+The scrape of a footstep pulled her attention away from the rising sun to a man in the rough and stained clothes of a traveler. His hair was pure white now, like hers, and longer, also like hers. His face seemed more haggard, more lined than she remembered. But his eyes were bright and sharp as ever, his smile just as she remembered.
+
+“It seems to me we’ve done this before,” he said.
+
+The broom clattered on the stone. Piety embraced him and did not let go until her cheeks were dry.

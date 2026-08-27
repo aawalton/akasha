@@ -1,0 +1,121 @@
+---
+id: 42614b6d-7609-520e-9d8c-29d7849c4467
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93: Revenge"
+slug: 0276-chapter-93-revenge
+partOf: labyrinth-of-the-mad-god
+position: 276
+ownLength: 1854
+unit: words
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2949726/chapter-93-revenge"
+royalRoadId: "2949726"
+---
+
+Nick crouched behind a towering fern with Kenji on one side and Ella on the other.
+
+The mournful cry of a bird of prey echoed across the forest, punctuated by the croaking of frogs and the chatter of primates bounding across the treetops. The music of the jungle washed over him as he peered into the distance, gazing at the mist-shrouded village ahead.
+
+It was his first time visiting the jungle bordering the northeastern corner of the badlands. While he appreciated the change of scenery, he wasn’t here to admire the view.
+
+This was a day of vengeance and blood, but not for Nick. This hunt belonged to Abby, Walter, and the rest of survivors that had shown up on Aurora’s doorstep a few weeks back—devastated by their losses and grievously wounded.
+
+The scouts had come across the monster responsible for the tragedy while exploring the biome. After a lengthy discussion, Walter had insisted that the people who had watched the creature slaughter their friends and destroy their home should be the ones to kill it.
+
+It would be a difficult fight, but Aurora’s elites were here too—ready to back them up if needed. They didn’t have Veronica’s healing magic, but with Liz’s scarecrow, his elixir, and a few dozen healing potions between them, they should be able to recover if things didn’t go as planned.
+
+The survivors were a few miles back, waiting for Nick’s party to scout the area before committing to their attack. The settlement’s strongest warriors were standing by, but the support squad would lend direct assistance, covering Water’s team with a dozen different auras to boost their defense and bolster their fighting prowess.
+
+He shook his head to clear his mind and returned his attention to the task at hand. “I see it,” Ella whispered. She was invisible thanks to Blend into the Background, but with Kenji’s Tactical Command, he could see the outlines of the people crouching beside him.
+
+Nick followed Ella’s finger to a barn that was missing one wall. By a cruel twist of fate, the reptilian monster that butchered Abby’s people was using the ruined settlements as its lair. It was a stealthy creature. Even with his spyglass and evolved eyes, it took him a minute to make out its profile.
+
+He ran his gaze across a mutant snake the size of a redwood tree. It was covered in dark-green scales and jet-black spines, which it could fire as projectile attacks. Right now, the monster was fast asleep, but that would change in a few short minutes.
+
+Nick didn’t mind letting Aurora’s weaker members kill the creature and complete the event. They desperately needed more essence and levels if they wanted to bridge the chasm lying between them and Team Earth’s elites.
+
+The combat experience and boosted morale they would receive from killing the fiend that had taken so much from were even more important. I won’t say no to those City Points though.
+
+Walter people hadn’t been able to provide much information about the monster. It had attacked the village at night, slaughtering the lookouts and killing people in their beds before chasing the survivors across the jungle. Everyone who tried to fight back had died, and the rest were too panicked to analyze what it could do.
+
+As it happened, there was one person who knew exactly what it was.
+
+“Basilisk,” Fritz spoke within Nick’s mind. He already knew the monster’s name from the event message, and Size Up had given him a general sense of its capabilities, but Fritz knew more details than the skill could provide.
+
+“Nasty creatures. On top of those barbed spines, it has an acidic bite that will dissolve your insides. The biggest danger, however, is its ocular magic. Anything that gazes into a basilisk’s eyes will be paralyzed until it looks away, which is usually a death sentence.”
+
+“Thanks, partner,” Nick whispered. When they were done scouting the ruins, the trio returned to where Walter and Abby were waiting with the rest of their team.
+
+He shared everything they had learned about the basilisk and spent the better part of an hour revising their strategy. With that, all that was left was to pick a fight and let the survivors take their revenge.
+
+The scouts advanced first. They spread out and established a perimeter around the village, making sure nothing nasty was lurking nearby. Another stealth specialist was watching the reptile in case it moved or noticed their approach.
+
+Thankfully, the next part of the plan went smoothly.
+
+One of the mages had a spell that dampened the sound the group made and erased their scent. Combined with Blend, their magic let the team get into position without being spotted, and the hunting party came to a stop a hundred yards in front of their ruined home.
+
+Everyone with an aura switched it on, buffing the team across the board while shielding them in several layers of defensive magic. Walter spent a few minutes conferring with Abby then gave the signal to begin their final preparations. People activated abilities and readied their gear. When everyone was set, they advanced in formation until they were in range.
+
+By this point, Nick’s heart was racing, and adrenaline was flowing through his veins. Watching his people take on a powerful enemy made him more nervous than fighting it himself, although he had faith they would prevail.
+
+Even still, he wasn’t taking any chances. He was ready to let loose with Sonic Slice at a moment’s notice or summon Fritz to distract the monster. Liz conjured a totem that would absorb any damage her allies received, and Kenji signaled that his team was in position.
+
+With that, the waiting was over. Now it was time to get his people the closure they needed to move on with their lives.
+
+Walter raised a fist above his head. The archers pulled back their bowstrings, and the mages cast their spells. The basilisk felt the magic in the air and awoke, hissing at it turned to face foes it could sense but couldn’t see.
+
+Before it had time to move, Walter gave the order. “Fire! This is for Liana, you bastard.”
+
+Dozens of projectiles sailed through the air, slamming into the monster’s scales. The dammed thing was tough. While it took some serious wounds, they didn’t land a killing blow.
+
+The creature came rushing in, shooting spines that shattered against shields and barrier spells. The ranged specialists fired a final volley as the warriors braced themselves to receive its charge.
+
+This marked the beginning of a savage battle.
+
+The basilisk fought like hell and got in some strikes that were too close for comfort. But it specialized in one-on-one combat and couldn’t deal with an organized force that had extensively prepared for this moment. In the end, Water’s team prevailed, defeating the monster without assistance from Aurora’s elites.
+
+They let out a cheer when the creature hit the dirt, attacking until the corpse was reduced to ragged chunks of flesh. When the battle was over, they entered the village to bury the remains of their friends, retrieve items from the wreckage, and say their farewells.
+
+Nick held Liz’s hand as tears poured down their faces. When Walter’s people were ready, they began the trip home—their past behind them and their eyes on the future.
+
+***
+
+When they got back, Nick and Elizabeth had the house all to themselves.
+
+Sophia was dealing with her demon, and Devin was questing for the Simulation Dome along with Shaun and Veronica. The planning committee was focusing on expanding the city to accommodate its growing population and didn’t have any decisions to make until they were further along in the process or Aurora picked up more mana wells.
+
+With Liz handling citizen applications and Kerry running the Token Exchange, Nick had a few weeks to use however he pleased.
+
+He’d done enough exploring for now and had taken yesterday off to train at the falls. Now it was time to decide which objectives he wanted to pursue next.
+
+He was planning to take his Evasion, Wand, and Size Up tests of mastery soon, but his instincts were telling him to wait a little longer. That if he wanted to succeed, he needed to reflect on what he’d learned. That puts my advancing my abilities at the top of the list.
+
+He decided to kill three birds with one stone—earn some essence while leveling up and picking up more CP to fuel Aurora’s growth. With that goal in mind, he made his way over to the mess hall to eat lunch. When he was finished, Nick took a look at the bulletin board they had put up last week, which filled a fair portion of the western wall.
+
+On it was a list of every quest, dungeon, event, and challenge that had been discovered thus far. It included the names of everyone who was attempting to complete them or was looking for a party to make that happen.
+
+He was in the middle of evaluating which options were worth his time when Kenji walked over and came to a stop beside him. “If you’re looking to tackle something tough enough to fuel your growth, I have just the thing.”
+
+The warrior held up a handwritten copy of a System quest notification one of the scouting parties had unlocked yesterday morning.
+
+Nick’s eyes widened when he realized what he was looking at.
+
+Elite Quest: Dreadbeast Quarantine Zone
+
+A planet in your sector has issued an emergency request. The dreadbeasts contained within their quarantine zone are too powerful for the barrier they erected and will escape in approximately two months. The natives are looking for volunteers to enter the quarantine zone and destroy the dreadbeasts before their corruption spreads across the globe.
+
+This quest is only available to faction leaders and a party member of their choosing.
+
+Upon accepting this quest, you may bypass the Shroud of Protection and enter the Labyrinth. You will be paired with two intelligent beasts whose personalities are compatible with your own and attempt to complete the quest together.
+
+First, you must cross the conduits leading to the node that contains the world where the quarantine zone is located—an area that had been temporarily classified as a dungeon. Upon arrival, you must defeat the five dreadbeasts monarchs trapped inside, putting an end to the threat they pose to all life on the planet.
+
+This quest serves two purposes. In addition to promoting cooperation with other species, you are being offered a chance to explore the Labyrinth ahead of schedule and obtain a better understanding of the dangers you will face when the shroud dissipates at the end of the Rebuilding Civilization period.
+
+Rewards: Ability to form factions with nonhuman settlements prior to City Tier 7. 3000 CP. Selection of a high-quality bloodline trait from a bloodline library.
+
+Additional rewards may be issued for exceptional performances.
+
+Difficulty: 5 Stars (Elite).
+
+Warning: Elite dungeons are the most difficult trials available within the Rebuilding Civilization period and should not be undertaken lightly. This quest involves several weeks of travel time.

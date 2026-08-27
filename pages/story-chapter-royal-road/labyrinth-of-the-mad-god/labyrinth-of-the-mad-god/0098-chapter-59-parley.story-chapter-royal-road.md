@@ -1,0 +1,111 @@
+---
+id: 00862c08-b582-556c-8ee6-8525ab88d78e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59: Parley"
+slug: 0098-chapter-59-parley
+partOf: labyrinth-of-the-mad-god
+position: 98
+ownLength: 1827
+unit: words
+publishedAt: 2024-12-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1936268/chapter-59-parley"
+royalRoadId: "1936268"
+---
+
+The lone construct came to a stop fifteen feet in front of the party, still displaying no signs of aggression. While Nick was deciding how to respond, a floating screen appeared above the solitary machine. It looked like the displays that the System used, but with a different layout and color scheme.
+
+He didn’t move closer, since had no trouble reading the words with his attributes. What he saw on the hovering message board surprised him.
+
+I am a representative of the entity controlling the constructs on this floor. We have achieved our primary objective now that both competing forces have been eliminated. Despite our victory, our collective has taken heavy losses during the fight.
+
+We will rebuild in time, stronger than before, and the necessary resources will be provided by the tower’s waste. Thus, we have no interest in consuming you. At this point, further conflict would lead to unnecessary costs for both sides. Besides, you were instrumental in furthering our long-term goals, and we would be remiss to repay your efforts with slaughter.
+
+If you are amenable, we will allow you to exit this floor if you proceed to the stairs without delay. As a gesture of good faith, you may keep the resources you have collected from the basement, including the inert members of the swarm inside your dimensional storage device.
+
+If these terms are agreeable, we will give you one hour to leave via the stairs in the waste-transmission chamber. To facilitate your departure, a map has been included at the end of this message. If you remain on this level beyond the allotted time, or if you attack our members enroute, we will eliminate you.
+
+Do you agree to our terms?
+
+Nick relayed the message to Shaun, since the rest of the team could read it from here, then they put their heads together to confer. “What do you think? The offer seems legitimate, and I vote that we accept it. We don’t have a way to defeat the swarm anyway, since the entity controlling them resides in a pocket dimension according to Kellen’s log.”
+
+“I don’t trust them after they tried to kill us and tricked us into acting as their pawns,” Devin said. “But we don’t have the mana, stamina, or health for another big fight. I say we go for it.” The others were of the same mind, so Nick took a few steps forward and addressed the lone rat.
+
+“We accept your terms. If you leave us be, we will be gone within the allotted hour.” With that, the rat turned and left the way it had come. Nick placed his attention into his ears and listened closely. Sure enough, he could hear the swarm disappearing down the tunnel—the sound of brass claws scrabbling over stone growing fainter until it faded away.
+
+“Do you think that this is some kind of trap?” Shaun asked.
+
+“I have no idea,” Sophia replied. “But the constructs could have hit us at any time during the battle, or let the Janitor finish us off without lending their assistance.”
+
+“Or attacked immediately after.” Nick nodded. “When we were critically low on mana and stamina. They could also keep us pinned in here until we starve to death without too much trouble. I don’t see why they would pass up such a prime opportunity just to attack us later, but we should remain on guard on our way out.”
+
+“Let’s take a few more minutes to recover,” Veronica added. “Then head toward the stairwell. Without anything to slow us down, it should take less than half an hour to get there from here.”
+
+Everyone sat in a circle and broke into their provisions—eating and drinking to speed up their stamina regeneration. Unfortunately, they didn’t have a comparable way to recover to their mana. But by now, they should be able to squeeze off another spell or two if they were ambushed along the way.
+
+Ten minutes later, the party rose to their feet and readied their gear. They started walking out of the devastated chamber that had been the site of a battle of four armies. They were ready to leave the basement of Darkstone Tower behind them for good, collect their reward from the System, and find out what awaited them on the next floor.
+
+Side-by-side with his team, Nick left the roaches’ lair and stepped into the passageway leading toward the middle of the floor. He was battered and beaten, exhausted and dazed, but none of that could bring him down.
+
+Against the odds, they had defeated not one, but two boss-class creatures. One of which was a tier higher than themselves. In addition to surviving another grueling ordeal, they had received a vast amount of experience and essence, which would dramatically increase the party’s power. Not to mention the unexpected upgrade to his wand. They had won their toughest battle yet, and while it had been close, they hadn’t lost anyone along the way.
+
+The rest of the party was in high spirits too, although they didn’t lower their guard. While the offer from the entity controlling the gear-swarm was a welcome reprieve, none of them were going to take its word at face value. They advanced in formation with their weapons at the ready—prepared to repel an ambush at a moment’s notice.
+
+To Nick’s relief, they didn’t see a single rat as they made their way down the tunnel and arrived at the first intersection. “I’m glad we didn’t have to fight the swarm.” Veronica sighed. “They adapt so quickly, and there are so many of them. If they had focused exclusively on countering our abilities, instead of taking out the roaches and the Janitor, they would have been so much worse.”
+
+“Besides,” Devin said. “Only Nick’s darts seemed to do any lasting damage. Even then, we have no way to get at the brains behind the operation. I doubt that we could kill it even if we wanted to.” They continued to talk it over, keeping one eye out for trouble along the way. By the time that they reached the halfway point, Nick was convinced that the swarm would adhere to their deal, although he was eager to get off this floor as quickly as they could.
+
+Before long, they found themselves standing in the basement’s central chamber, where the stairwell leading to the next floor stretched up toward the ceiling high above. Since they had a few minutes left on the swarm’s ultimatum, Nick took the opportunity to examine the stairs. They would be a critical element for the duration of the tower-climbing quest, and he wanted to learn more about them while he had the chance.
+
+When he approached the base of the staircase, he discovered a display set into a raised dais—one of the screens that the System seemed to favor. On it was a simple message.
+
+This staircase leads to another floor of the tower.
+
+The rules for the adjoining floor are:
+
+Will you choose this staircase as your exit point to the level?
+
+Nick rubbed his chin, then turned to address his team before responding to the prompt. “That isn’t a lot of information to go on, but at least we won’t be stuck underground anymore. Not that we have much of a choice, since we didn’t find another staircase. Let’s take a few minutes to get organized, and then get out of here while we still can.”
+
+The party put their heads together, discussing what they would do if they found themselves in a range of situations once they stepped onto the next floor. When they were as ready as they could be, he walked over to the screen and confirmed that they were taking this set of stairs. The moment he did, a message from the System appeared before his eyes.
+
+You have completed the first floor of the Tower of Rizzen.
+
+Your party’s performance for this floor has been rated as: exceptional.
+
+Additional experience and essence have been awarded.
+
+The total prize pool for Team Earth has been enhanced, and species experience has been awarded.
+
+For clearing a key stage of the Fate of Earth quest chain, you will receive part of your reward now. The rest will count toward increasing the rarity of the quest reward package that your species will receive after completing the final stage.
+
+The current value of Team Earth’s reward package is: Silver.
+
+The maximum value for this quest chain is: Platinum.
+
+Bonus objectives completed:
+
+Defeat a boss-class beast (late Tier 1).
+
+Defeat a boss-class artificial lifeform (early Tier 2).
+
+Because this was a bonus floor, your individual rewards have been upgraded from [silver] to [gold].
+
+Instead of a chest, you will be granted a one-month training session in the skill of your choice. A mentor will be assigned, and your tutelage will take place on a planet with compressed time (only a day will pass on the outside).
+
+You have five minutes to select which skill you want to train, or one will be picked at random.
+
+“Shit,” Devin muttered. “Another time limit. We can worry about everything else later, but we need to decide fast. I recommend that most of us take our primary weapon skill. It will be great to finally get some training in their use.”
+
+They started climbing the stairs—discussing the matter while the timer ticked down. Nick wasn’t sure that physically scaling them was necessary at this point, but he wanted to be at the top before the clock hit zero, just in case. At least everything in that message was good news. The rewards for our party should make a big difference. Not to mention Team Earth as a whole.
+
+After considering each of his options, Nick voiced his decision. “I would like to train my Sword skill.”
+
+Wand would have been an interesting choice, considering its unexpected upgrade. But it was still a tool with limited charges, and he was happy with how he had been using it so far. Having a better sense of its effective range and optimal strike points would be nice, but wasn’t necessary, and its power was tied to his Magic attribute rather than his Wand skill.
+
+Evasion had been a solid contender too. It was a skill that Nick would love to receive some coaching in at some point, but it wasn’t as critical as being able to wield his weapon effectively against another skilled warrior. Especially since improving his Sword skill would help shore up his defense, along with bolstering his proficiency in hand-to-hand combat.
+
+Sophia and Veronica had just voiced their decisions when the timer hit zero and a portal opened at the top of the stairs.
+
+“Can you give us another minute?” Nick addressed the System. “Just enough time to coordinate…”
+
+His request was cut off mid-sentence as the party was sucked into the glowing ring of light. The basement melted away—shifting into the shimmering space between worlds.

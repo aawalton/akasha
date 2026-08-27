@@ -1,0 +1,149 @@
+---
+id: fda8fdf7-00cd-509b-97d5-b5f0bfd8197f
+page-type-slug: story-chapter-royal-road
+title: "58 — Book 2, Chapter 6 — Alchemy 101, Pt 1"
+slug: 0058-58-book-2-chapter-6-alchemy-101-pt-1
+partOf: just-add-mana
+position: 58
+ownLength: 2465
+unit: words
+ownProgress: 2465
+publishedAt: 2025-11-08
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2743346/58-book-2-chapter-6-alchemy-101-pt-1"
+royalRoadId: "2743346"
+markedReadAt: "2026-06-29T18:49:35.536Z"
+---
+
+"You know," Cale said. "I can't help but feel like having the alchemy class inside a cauldron is a little over the top."
+
+"Nonsense," Professor Rinkle said. "How else can we come to truly understand our potions? We must live as our potions do! Breathe as our potions do!"
+
+"I think breathing in potion fumes is usually bad, actually," Cale said, although that did explain a lot about their professor. She appeared to be a hobgoblin of some sort, but by Cale's best estimates he was pretty sure she was actually some sort of pixie that had transfigured herself into a hobgoblin? Who knew.
+
+He liked her earrings, though. They were unnecessarily extravagant, sure, but he was also pretty sure they were somehow functional. How she'd managed to enchant something that small to actively brew potions was beyond him, but then this sort of size alteration magic seemed to be something of a specialty of hers.
+
+"We will engage only in safe potion-breathing," Professor Rinkle assured him, which didn't actually do much to assure him.
+
+Beside him, Flia sighed. She'd supposedly only agreed to come to this class because she shared it with Cale—according to her, she was on the verge of figuring out what the Leviathan had told her and needed only a few more hours—but the menagerie's attendants were very insistent on kicking her out, so Cale was pretty sure she was just attending because she didn't have any other choice.
+
+"Welcome to Alchemy 101 with Professor Rinkle," she muttered. "She once tried to use water from my magic as a potion base. Now that I know where my water actually leads, I feel like I know why the potion exploded."
+
+Cale snorted. "You're telling me she tried to brew a potion using the actual Abyss as a base ingredient?"
+
+"I'm telling you she partially succeeded in brewing a potion using the Abyss as a base ingredient," Flia said. "Honestly, I have no idea how, now that I think about it. Most of the potion exploded, but she managed to save some of it and turned it into some sort of summoning enhancement potion."
+
+"That's... not an easy potion to make," Cale remarked, impressed despite himself. Using the Leviathan's domain to brew a potion was bold. It made sense that it would enhance summoning magics, but it could just as easily have drawn the attention of an Abyssal. The fact that it hadn't meant Rinkle was either absurdly lucky or knew what she was doing far more than she appeared to.
+
+Though Cale hadn't quite decided one way or another, as far as that second point went. On the one hand, the fact that she was teaching here meant he was inclined to believe she knew what she was doing. On the other, she was currently lecturing the class on how a true alchemist needed to "eat as their potions do."
+
+"She did actually manage to brew a potion that eats things once," Flia whispered. "Not even as an ingredient, the potion bottle just occasionally manifested a mouth and ate whatever was closest to it. She kept it as a pet for weeks. I'm pretty sure half her potions she just invents so she can make up a saying about it."
+
+Cale blinked at this, then considered it for a moment. "Honestly, if I had her potion-making chops, I'd probably do the same thing," he admitted. He didn't have quite as much of an interest in alchemy—it lacked the same elegance as baking, and for some reason tended to include a lot more screaming ingredients—but now that he thought about it, he could probably do something similar if he ever held classes for baking magic...
+
+The Brightscale Academy didn't currently have classes that were explicitly about baking magic. He'd asked. Akkau claimed that the rest of the professors had vetoed him on the subject, but had also told Cale that once he'd proven himself properly, he'd be able to put it up to a vote again.
+
+What "proving himself properly" meant Cale had no idea, considering he'd done plenty to prove himself already, but it probably had something to do with not changing things up too much until the Red Hunters were gone for good. Which was fair, all things considered.
+
+"Now," Professor Rinkle said. "Many of you are new to this class, so I will go over the rules! The first thing to remember about alchemy is that you must treat your ingredients and your process with respect. Do not change the recipe unless you know what you're doing! Anyone caught doing this will be expelled from this class until the next academic term."
+
+Cale raised an eyebrow. She was being unusually serious about that compared to everything else, and to her credit, it did make every student in class sit a little straighter and pay more attention. Maybe that was part of her strategy? To act a little off-kilter so that her students would pay attention when she got serious?
+
+"Alchemy is an art, but it is a dangerous art," Professor Rinkle added. "Until you truly understand your potions, you must not deviate, or they will visit their divine wrath upon your souls."
+
+...Or maybe this was just what she was like. It might take a few more classes before he could properly figure her out.
+
+Cale couldn't deny that he was a little distracted. It didn't matter how good he was at compartmentalization—he couldn't completely ignore everything that had happened. Sternkessel was the only person he'd ever met that was capable of understanding a fraction of who he was.
+
+And now he'd been twisted beyond recognition. The professor might not truly be gone, but it would take time to bring him back, and even that was no guarantee. As far as Cale was concerned, the fact that he hadn't responded by immediately nuking the Red Hunter camp out of existence was by itself an act of incredible restraint.
+
+Granted, there were good reasons for not doing that. He just had a little trouble remembering what those were at the moment.
+
+Still... as long as there was something he could do, it was easy enough for Cale to keep a handle on his mask. Damien had asked him the same question Akkau had shortly before they parted for their next class, in fact.
+
+"How do you do it?" the dreadshade asked suddenly. "This isn't the first time this stuff has happened around you, is it? Even here. But you always act like everything's... normal. I know we're supposed to so the Red Hunters don't figure us out, but I don't understand how you can do that."
+
+Cale glanced down to see Damien's fists clenched and trembling, then sighed.
+
+"I can do it because it's happened so many times," he said. "Some of it is just experience. Some of it is because, despite how incredibly normal I might seem—" Damien let out a disbelieving, involuntary snort at that, and Cale smiled at him. "—I have some incredibly unhealthy coping mechanisms and I am an expert at using them to pretend to be okay."
+
+"...so what you're saying is I should take up drinking."
+
+"Absolutely not." Cale shot his apprentice a horrified look. "What gave you that idea? Are you even old enough to drink?"
+
+"I—Cale, I'm an immortal being of decay. How old do you think I am?"
+
+"Doesn't matter. You're basically a child." Cale reached out to pat Damien on the head, to the dreadshade's absolute mortification.
+
+"I don't know if I hate that you did that or if I hate that it worked."
+
+"Are you pouting?"
+
+"No," Damien lied. Cale squinted at him, and when he didn't budge, sighed.
+
+"You want to know the real trick?" he said. He strode over to one of their windows to look out over the Inverted Spires—Akkau had done them the kindness of enchanting it to maintain a scrying spell over that area, just so they could keep an eye on Sternkessel. "I've wasted too many lives on regret and anger. If a problem can't be fixed with an expression of immediate and incredible violence, then you know what I do next?"
+
+"I have questions about the anger and the incredible violence part," Damien said.
+
+"I focus on what's next." Cale flashed his apprentice a smile, ignoring the questions. "This isn't over. Not by a long shot. But no amount of anger is going to help Professor Sternkessel. If anything, it'll do the opposite. So as far as I'm concerned, I'm going to attend classes as normal while I put all the pieces we need together.
+
+"That said..." He paused for a moment in contemplation. "If you want to get a little revenge, you should meet with me tonight."
+
+Damien stared at him blankly. "Cale, we sleep in the same dorm room."
+
+"Even better!" Cale said brightly.
+
+"How much incredible violence does this plan involve?" Damien asked suspiciously.
+
+"Believe it or not? Absolutely none."
+
+Cale was pleased enough with his plans that he wasn't even just pretending to be fine. He was mostly fine. Which was, as far as he was concerned, a great step up from being an incandescent ball of rage.
+
+"Now!" Professor Rinkle said, wrenching him out of his thoughts. That was a very official-sounding "now", which meant it was probably time to brew some potions. Excellent! "The other benefit of our classroom is, obviously, that we will save greatly on potion ingredients. Some of what we need for this class is quite rare, you know! Of course, at such a small scale your potions will have little effect beyond what we need to determine if you've brewed it correctly, but not to worry: I will brew a full-size potion right in this very cauldron and distribute the results."
+
+Cale paused, unsure if he'd heard that correctly. "She's going to what."
+
+"She does this too," Flia said with a sigh.
+
+"Teams of three per cauldron, please," Professor Rinkle said, oblivious to the startled murmurs among her students. "Remember to never exit the boundaries of your protective wards! Professor Rinkle is not responsible for death or injury caused by intentionally attempting to interact with the potion while it's being brewed. But watch closely! Observe the potion! Live as the potion!"
+
+"Is she going to—" Cale started, and then stopped as their professor proceeded to backflip out of the cauldron with surprising alacrity, cancelling the size charm on herself as she did so. A projection spell popped up in the middle of their "classroom," showcasing a table full of potion ingredients. "...Okay, you know, somehow, this is a first for me."
+
+"This is a first for you?" Flia asked dryly.
+
+"Most alchemists aren't this good at size charms." Cale glanced around the cauldron with interest. Now that he knew this was a cauldron used for actual brewing, he could sense the faint traces of mana clinging to the walls and floor. It had been scrubbed thoroughly, though, to prevent contamination of whatever potion they were trying to brew.
+
+That teams-of-three thing might make it hard for him to test the distortion storm's liquid as a potion base, but eh. Alchemical principles varied even more than spells did from realm to realm. It wouldn't hurt to listen to Professor Rinkle's instructions for a bit before attempting any... experimentation.
+
+They'd have to find a third, though. Cale looked around the classroom thoughtfully. He was pretty sure he didn't recognize any of the other students here—
+
+"You! You have the most mana. Orguk Fangtruth wants to work with you," a certain massive orc announced, plonking himself down in front of him and Flia.
+
+Cale blinked. He'd somehow missed the orc's imposing presence. Where had he even managed to hide?
+
+"...You know what? Sure," he decided. Intuition did sometimes translate to potion-making. What could go wrong?
+
+Serof had expected many things upon being brought to the Brightscale Academy. He had been bracing himself to be immediately interrogated, or perhaps placed in some sort of prison that was poorly disguised as a regular room. This was, as far as he knew, standard procedure when dealing with enemy agents, even ones that had supposedly defected.
+
+Instead, Akkau had taken one look at him and immediately sent him off for a shower and to get some food in him.
+
+It made Serof feel a little self-conscious. He'd forgotten how dirty he was. He'd gotten used to it, over time—the Watchful Hive was not a place that was lavish with showers and other such facilities, for the Red Hunters didn't need anything from their Observers other than the simple ability to observe. The less time spent observing things like food and personal hygiene, the more time they could spend scrying.
+
+...his fluff was in an absolutely disgusting state, now that he had the time to look at it. And he was more emaciated than he thought.
+
+Serof had forgotten how much he missed something as simple as a warm shower.
+
+He took his time with it, too. He was hungry, of course, but he wasn't that hungry, and a moth's fluff was their pride and joy. It made him irrationally upset that he hadn't maintained it, even knowing he'd been under the thrall of the Hive and its Broodmother. He scrubbed thoroughly, used pretty much every soap and oil he could find on the shelves, stepped out of the shower—
+
+—and immediately shrieked to find both Akkau and some sort of archdemon waiting for him. "Gah!" he yelled. "H-how long have you been waiting?"
+
+"An hour and a half," Akkau said dryly. "I see you have managed to use up most of my limited edition colleciton of soaps."
+
+"Wh-did you lend me your personal shower?" Serof's eyes went wide. Had he been unconscionably rude? He still didn't know what to think about Brightscale being so... nice to him. Wait, why did the Headmaster have a collection of limited edition soaps? "I'm sorry, I didn't—"
+
+"If I were worried about it, I would have said so." Akkau was clearly amused. "A majority of those were gifts, and I did not know what to do with them. Truth be told, I am rather glad they are off my shelves; they were taking up quite a bit of space. Now—Alina?"
+
+"He definitely needs to get some actual food in him," the archdemon said with a nod. "I'll cook up a nutrition plan so he doesn't get overwhelmed. I'm sure there's a few books on mothfolk nutrition in the library."
+
+Serof stared at her, then at Akkau, and he kept staring for what was probably an inappropriate amount of time before abruptly realizing that he was not, in fact, wearing any clothes.
+
+He shrieked again and fled back into the shower, to Alina's boisterous laughter.

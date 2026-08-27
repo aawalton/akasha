@@ -1,0 +1,83 @@
+---
+id: ad7f8f23-8571-5929-8264-ea4fb90ddf7c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Strategy Session"
+slug: 0051-chapter-20-strategy-session
+partOf: labyrinth-of-the-mad-god
+position: 51
+ownLength: 1643
+unit: words
+publishedAt: 2024-09-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1785455/chapter-20-strategy-session"
+royalRoadId: "1785455"
+---
+
+Half an hour later, they came across a room whose entrance was partially blocked by fallen rubble, with a narrow gap running along one side where they could squeeze through.
+
+The runes above the door were obstructed, but judging from the interior, it seemed like they’d found another one of the executive offices for the floor’s senior staff, like the room where Nick had found Kellen’s latest log.
+
+They scouted a bit further ahead, then returned to the entrance to wait. Ten minutes later, nothing had come looking for them from either direction. It seemed that they’d lost the swarm for now.
+
+Nick and Veronica had been working out a series of hand signals, so that they could communicate without making noise. She raised a fist, indicating that she was ready to head into the room, and he nodded in reply.
+
+They slipped inside, made sure that nothing was waiting in ambush, then plugged the gaps around the door with random bits of debris. Nick stepped back to inspect their work, satisfied with what he saw. Nothing could get past without digging its way through, and if they were quiet, they should be safe enough from the clockwork constructs. At least for now.
+
+Once they were situated, Veronica began tending to her wounds. After cleaning and binding the cuts on her arms, she looked over at him, cheeks flushed with embarrassment. Then she leaned in close to whisper into his ear. “Would you mind facing the other way for a few minutes? I need to undress to treat to the rest.”
+
+“Sure V. No problem, just let me know when you’re decent.” Nick walked over to the far side of the room and started examining the wall. It seemed that it had once held artifacts similar to the ones he’d collected in the last office.
+
+Unfortunately, the displays had been mounted lower to the floor, and the rats had been able to reach them. He thought that nothing was left, but then he found a fragment of what appeared to be shell lodged behind a bracket.
+
+He shrugged and put it into his bag, figuring that there was a chance that it was valuable. He had been hoping to discover another log, but it seemed that there wasn’t one tied to this location.
+
+While Nick was inspecting the wall, Veronica removed her leather armor, pants, and shirt. Then she washed her wounds and bound them with some sterilized cloth she had acquired at the base of the tower.
+
+Thanks to his upgraded attributes, he discovered was able to track her progress by the sounds. He was trying not to think about the fact that a beautiful woman was naked in the same room with him, so as not to make things awkward. Part of him was tempted to use his visualization ability, but he forced himself to behave. When we make it back to Earth, I really need to find a girlfriend.
+
+“Ok, I’m dressed.” Nick turned around in time to catch a flash of bare skin as V pulled her leather jerkin down over her stomach. He was amazed by how radiantly healthy the human body looked after being transformed by the System. He knew that his appearance had been changing too, but it was more apparent when looking at another person.
+
+After that, they settled down to rest. They were still amped up from their latest fight and subsequent escape. So, rather than trying to sleep just yet, they put their heads together, speaking softly so they didn’t attract the rats’ notice.
+
+To kick things off, they brought each other up to speed on everything that had happened since they were last together. First, they went over what they’d gained for completing the first stage of the Fate of Earth quest.
+
+When they were done, Nick revealed the existence of the ability mastery system, which Veronica would unlock in another level, since she’d hit fourteen during the fight. Nick still had a few hours until he could open his profile again, so he would check out his own gains when he woke up.
+
+Once that was out of the way, they moved on to developing tactics specialized for the two of them working as a team, going into the details of what they were capable of, along with their strengths and weaknesses.
+
+This time, Veronica was forthcoming about her gear, class, and abilities, revealing a great deal more than she had while they were camped in front of the tower.
+
+“My class is called an Afflicter. As the name suggests, it’s geared toward bringing enemies down by inflicting damage over time. Right now, that means bleeding, burning, or injecting them with acid. I suspect that other forms of poison would count too, so I might acquire some of those later on. It has an emphasis on stealth and agility, so I’ve been working hard to train up the skills that will let me scout and hide. Both the ones from my class and my general capabilities.
+
+“When I’m fighting by myself, I try to sneak up on my opponents, hit them with the abilities that will be most effective, then back off while the DoTs go to work. My regular crossbow bolts and these claws are good at forcing enemies back and restricting their movement, but they aren’t particularly effective at landing a killing blow. I’m good at evading and dishing out damage, but not at taking hits or exchanging strikes on the front line. It’s better if you keep their focus off me in a fight.”
+
+Nick nodded to show that he was following along, glad that V trusted him enough to reveal her secrets.
+
+“My class trait lowers my target’s innate resistance to abilities that deal damage over time. The effect grows stronger every time I land a hit on them, bolstering their output by a fair margin once I can rack up some blows. Doesn’t do any good if they are totally immune though. My bleeding poison is useless against those rats for example. The full list of skills that came with my class are claws, crossbow, evasion, stealth, and acrobatics.
+
+“You’ve seen most of my gear, although this little beauty is new.” She raised her right wrist so that Nick could look at the compact canister delivery system mounted beside her crossbow.
+
+“The grenade launcher is a bit like your wand, in that it can be used once per day and the charges refill automatically. The launcher responds to my thoughts, like how these crossbows collapse and expand when I need them. Right now, I only have access to napalm shots, but I hope to upgrade it later. Oh, and I have a charm of listening that improves my hearing, which comes in handy when I’m scouting things out.”
+
+Nick followed along with every word, adding Veronica’s abilities to his tactical considerations, pleased by what he’d heard. V’s powers were unique, useful, and a solid complement to his own.
+
+“Ok, I think I’ve got it. Wait, how many of those webs do you have? They were a perfect way to take out a large group of rats at once.”
+
+“Two more, and about twenty uses left of my concentrated stamina potion. What consumable did you pick by the way?”
+
+“I have a single use energetic barrier and two physical barriers that works the same way.” Nick went on to explain the details of his class and gear, as well as his skills and attributes, focusing on the changes that had occurred since they had last been together.
+
+She nodded along, paying close attention while asking an occasional question. When he was done, they spent an hour going over tactics to use across a wide range of situations, then he summarized their plans for the next fight.
+
+“Our strong point is that, between the two of us, we have the midrange locked down. We both can control the battlefield and fight in melee to some extent. The bad news is that we’re both light on armor, have extremely limited healing, and nothing that is effective at long range. If we run out of mana and our limited use abilities, our combat prowess will plummet. We need to try to win each fight before things drag out long enough for that to happen.”
+
+She nodded, then added her own thoughts. “We should try to cross the floor quickly and quietly. Only stopping to loot extremely promising opportunities and avoiding fighting whenever we can. Although, if we get another chance to kill that many rats at once, we should consider taking it. That battle netted us a ton of experience at once.
+
+“Fighting too often will cost us more than it’s worth. The rats keep getting stronger the more we destroy. I wouldn’t be surprised if we see more of the scorpions with them going forward, and more of those magic barriers. I’m not sure that we’re even killing them, except the ones you sniped with your darts, although we’re getting experience for it either way. Love the bag, by the way, super jealous.”
+
+By now, their strategy session was winding down. “Let me give you another stamina potion now, then another every time that you run out. Try to use them sparingly. They’re limited, and I’d like to save some if possible. Thanks again for letting me use your elixir, it helped to mitigate the blood loss and cleared my head.”
+
+“No problem, your potion saved my ass back in the arena, and that was a one-use item. Thanks, by the way. I would be dead if you hadn’t used it on me. That rhino would have ground me into paste.”
+
+“Sure thing, Nick. We’re in this together, right?”
+
+They shared a grin, then separated, reaching into their bags to pull out their camping supplies and get some rest.

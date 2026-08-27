@@ -1,0 +1,239 @@
+---
+id: 7802f007-9986-5560-8db7-1e6c91973ac7
+page-type-slug: story-chapter-royal-road
+title: "68 — Book 2, Chapter 16 — Apprenticeships"
+slug: 0068-68-book-2-chapter-16-apprenticeships
+partOf: just-add-mana
+position: 68
+ownLength: 3787
+unit: words
+ownProgress: 3787
+publishedAt: 2025-12-02
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2812159/68-book-2-chapter-16-apprenticeships"
+royalRoadId: "2812159"
+markedReadAt: "2026-06-29T18:49:57.769Z"
+---
+
+The so-called exchange program with Haelforge Academy ended with little fanfare. Sort of, anyway. Cale wisely decided not to ask what the Haelforge students had done with Dekora and the rest of the Red Hunters, mostly because he'd been exactly like them once and had a pretty good idea already. Plus, he'd seen the kind of threats they wrote on their desks for fun. If they actually answered him he'd probably be morally obligated to intervene or something.
+
+Besides, it couldn't be too bad. It wasn't like they had access to near-infinite amounts of mana anymore.
+
+Instead, Cale made sure that the Haelforge professors were aware of the potential realmseed problem and what the Red Hunters most likely actually wanted. No real point in keeping that a secret, especially from them—Haelforge was already the academy most likely to accidentally further their plans. As long as they knew, however...
+
+Well, Haelforge was full of nightmarishly creative battlemages. Cale had no doubt they'd find some way to stick to their desire for wanton destruction and interfere spectacularly with the Red Hunters' plans. Maybe they'd find a way to weaponize even more household magic. Whatever their leader wanted, Cale doubted it was a mage with a laundry core.
+
+After that, there were only a few administrative details they needed to settle before heading back to Brightscale. First among them was their grade, although Cale had no idea why exactly this was important. For that matter, he didn't know why Akkau had insisted on this being an exchange program to begin with. The old dragon said they needed the paperwork as a bureaucratic cover-up, but Cale felt like it would have been better not to leave a paper trail at all.
+
+He went with it, though. He didn't really have much reason to argue, and Akkau knew the threats of the realm better than he did. For all he knew, there was some sort of dark magic based in bureaucracy that would target them without the paperwork.
+
+...Actually, now that he thought about it, that was almost definitely the problem. Cale made a mental note to ask about bureaucratic dark magic.
+
+"Well, I doubt it needs to be said, but all three of you are exceptional mages," Professor Delia remarked, tapping her fingers on her arm. "It pains me to admit it, but you will be graded accordingly."
+
+Cale raised an eyebrow. "Is this some kind of school rivalry thing?"
+
+"You could say that." The gargoyle professor muttered something under her breath—Cale was pretty sure he caught Professor Graystalk's name, though he had no idea what else she said—then sighed and handed them their reports. "Return the remaining mana channelers to us before you leave, please."
+
+Cale looked away deliberately as Leo stepped forward and handed Delia the now mostly-empty sack, which he regretted almost immediately. He caught only a glimpse of the professor's aghast expression as she weighed it with trembling hands.
+
+"What—how did you break this many of them?" she demanded. "We gave you an excess!"
+
+"I used one for the realmseed thing," Cale reminded her.
+
+"That was one," Delia said, her tone despairing. "There are two left. Two! Do you have any idea how much effort and magic it took us to collect that many in the first place? These things are the Haelforge legacy. They're sacred artifacts. They were supposed to last the school for centuries!"
+
+"Uh..." Cale made himself look sheepish. "Whoops? I feel like I warned you this could happen, though. Especially with how much mana your students wanted to use."
+
+Delia grimaced at that reminder, then took a deep, trembling breath. "You're right," she said, although she looked like she was forcing the words through gritted teeth. "You warned me. I... apologize for my outburst."
+
+"Are you alright?" Cale asked, eyeing her. "I mean, no offense, but I didn't know gargoyles could change colors."
+
+[Blabbermouth] has reached level 12!
+
+Oh, right. That was still a thing. At least it wasn't happening quite as frequently anymore.
+
+Delia took another deep breath, held it until the color of her skin had mostly settled down, and then spoke as evenly as she could. "It only happens when we're sufficiently stressed," she said. "Pay it no mind."
+
+Cale nodded. "Where do you get them, anyway?" he asked innocently. "We could always help you get more, if you let us have some."
+
+Mana channelers like those would make teaching his apprentices so much easier. Brightscale was unlikely to benefit quite as much as Haelforge, since the wards at Brightscale were far more restrictive, but Cale could see many use cases for such an artifact.
+
+Though the look on Delia's face suggested that she didn't even want to consider it. "That is an academy secret," she said. "They're sacred artifacts, remember? We would hardly share our deepest secrets with an outsider like yourself, no matter the benefits you've brought us."
+
+"But you do get them from somewhere," Cale said, making Delia wince as she realized her mistake. "And if you did share a secret like that with me, I'd be a lot more likely to come back to Haelforge..."
+
+He trailed off meaningfully, and Delia froze in her tracks, making a strangled sort of noise. Cale could practically see the greed flaring up in her mana core before she deliberately suppressed it and narrowed her eyes.
+
+"You're bribing us," she accused. "And not even with a promise of coming back, just on the possibility. You know that if there's even the slightest chance of you transferring here permanently we'd do almost anything to get you."
+
+"Guilty." Cale shrugged without even a hint of shame. "It's worked before with all sorts of organizations! At least three adventurer guilds—probably a lot more, that's just what I remember—along with a dark brotherhood, some kind of triangle cult, a lizard cartel, a brothel..."
+
+Delia stared blankly at him. "I'm starting to suspect Headmaster Akkau agreed to send you to us at least in part so he could take a break," she muttered, mostly to herself. "Are you seriously not even going to promise a transfer? You want me to give you an academy secret based on nothing but the idea that you might maybe decide to return temporarily?"
+
+"Which is an opportunity for you to try to recruit me!" Cale supplied. "I mean, I'm not going to switch academies, but you could try. I like your students. They have a lot of spirit."
+
+That, and Cale was pretty sure Syphus would have a great time here testing its spell cannons. He wasn't saying it directly, but he would almost definitely be back here at some point.
+
+"I cannot—" Delia rubbed the bridge of her nose with a groan. "I cannot give you an academy secret just for a temporary visit," she said. "Even if you promised it."
+
+Before Cale could respond, Damien raised a hand. Professor Delia stared at him for a moment like she was confused by what he was doing before she eventually remembered that he was a student and nodded for him to continue.
+
+"Um, I'm not sure if I fully understand this, but wouldn't even a temporary visit help Haelforge a lot?" the dreadshade asked timidly. "The mana he expends lingers in the area, right? So all your students progress much faster as mages. And if he uses a channeler again, your students and professors get to cast freely and do all kinds of research, I think?"
+
+Cale tried his best to keep his face straight. He hadn't expected Damien to step in, and he certainly hadn't expected Damien to weaponize his apparent timidity. The dreadshade knew exactly what he was doing, though how he managed it while also being an entity that was an anthropomorphic manifestation of decay and rot was impressive.
+
+Evidently, Professor Delia had nothing prepared for Damien's intervention. She just stared at the dreadshade for a solid thirty seconds, then buried her face in her hands. "Menaces, the lot of you," she muttered, picking out a tome from her desk and flipping through it like she was trying to figure out if any of this was against the rules. "Absolute menaces. This should qualify as academic blackmail."
+
+"You get thirty points for that one, apprentice," Cale whispered to Damien.
+
+Leo jolted as soon as he heard this. "What about me?" he hissed. "I helped carry the sack around half the campus!"
+
+"Relax," Cale told him, patting the minotaur's shoulder. "I'm not even keeping track of the points."
+
+"You're not—" Leo made a sound that was very nearly a whimper, then deflated. "But if you're not keeping track of them, how am I supposed to collect them?"
+
+"You can keep track of them yourself, if you want," Cale told him cheerfully. Leo brightened at that, already rummaging in his satchel for yet another notebook.
+
+Professor Delia finally snapped her tome shut, sighing. "Frankly, my students are already begging for us to collaborate again, so I find I have little choice," she grumbled. "And it appears we have some contingencies in place for the occasion that we might choose to... collaborate... with outsiders."
+
+"Excellent!" Cale beamed. "For what it's worth, the whole thing about outsiders is probably exactly what the Red Hunters relied on to infiltrate your school, so."
+
+"I am well aware." Professor Delia sighed. "Forgive me I cannot simply shrug off decades of distaste in favor of what appears to be some sort of god of mana masquerading as a human."
+
+"Oh, psh," Cale said. "I'm not a god or masquerading as anything. I'm just a human."
+
+Professor Delia gave him a flat stare. "You overloaded an Elemental Shrine, triggered a coalescence of sprites that allowed me to break through my resonance bottleneck, and then recovered enough by the next day to supply my students with enough mana to subdue several archmage-level mages."
+
+"And?" Cale shrugged. "Any mage could do that."
+
+"Not even you could be that out of touch," Delia said with a snort, which was true. Cale mostly just wanted to see how far he could push it. "In any case, I will reveal this to you on one condition. Do not tell Akkau of this. This information must not spread to any other academy, do you understand? I'll be put in the sun for a week if it leaks."
+
+"You'll be what?" Cale blinked.
+
+"Metaphorically," Delia grumbled. "It doesn't matter. Do I have your oath?"
+
+"I mean... I won't say anything if it doesn't come up," Cale said after considering this for a moment. She wasn't pushing very hard on this point, so it was likely more a formality than anything. "But if people's lives depend on it or something, I'm just going to share."
+
+"Acceptable." Delia muttered something to herself, then opened the tome again to scribble something in magical ink—Cale caught a flash of mana before she snapped it shut. Some sort of record?
+
+Then she snapped her fingers, enclosing all four of them in an obfuscation ward. Cale noted with some approval that she made no attempt to exclude either of his apprentices.
+
+"We obtain our mana channelers from a dungeon that exists within the lower levels of the Haelforge Academy," she said bluntly. "We call it the Bitter Path. It's a class-five dungeon, pilgrimage-type, and when completed it rewards us with a single copy of the mana channeling artifact [Merlin's Regret]. It's one of the few dungeons that generate a consistent reward."
+
+That was more information than Cale had been expecting to get. He opened his mouth to ask about the dungeon's name, but Delia answered it before he could even get the first word out.
+
+"I didn't name it, for the record," she muttered. "The dungeon seems to be based on the life of some archmage. If I'm to be honest, the whole thing is kind of depressing, but given the power of that artifact, we've made it a tradition to attempt the dungeon at least once a year."
+
+"Ah." Cale almost made a comment on the artifact's name and what that might imply, then decided not to. That whole thing was a bit of a rabbit hole. "Attempt?"
+
+"It's a class-five dungeon," Delia repeated. "Even with a team of professors, we don't always make it to the end, especially since the dungeon adjusts to how well we perform. We are fortunate in that the Bitter Path simply ejects a mage once they receive a fatal threshold of damage, but the number of artifacts you used still represents decades of work."
+
+She shot Cale a slightly accusatory look, which Cale promptly ignored. Instead, he made an interested sort of noise. "And you'd be willing to let me and my apprentices explore this dungeon?"
+
+Delia sputtered. "You and your apprentices?" she asked. "I assumed you would join us on our attempt, not go in with a bunch of novice mages!"
+
+"What, you don't send your students in?" Cale asked, blinking. "A dungeon that doesn't kill you sounds like an amazing way to get battle experience."
+
+"That dungeon is called the Bitter Path," Delia said. "You don't understand. It's designed to—we are proud of our students, and they can handle a lot. But we wouldn't put them through that."
+
+"So..." Cale paused. He was pretty sure he knew what this dungeon was going to be like, and he was pretty sure his apprentices could handle it. If they couldn't, he would simply send them back out and finish it himself. Simple. "Will you let us do it or not?"
+
+Delia grumbled to herself for a moment, then let out an aggravated sigh. "...We expect you to complete the Path at least three times," she said. "Two copies of [Merlin's Regret] will be our payment for allowing you to do this."
+
+"Done," Cale said.
+
+"You're far too confident," Delia muttered. "Fine, but we'll have to arrange for an appropriate time. We can't just open it up tonight."
+
+"So you can get me to come back to your academy," Cale said, nodding. "Wise."
+
+"Wh—that is not the reason!" Professor Delia scowled. "The Bitter Path is kept under several layers of seals so our students don't try to sneak in. We need time to prepare the rituals to break those seals safely!"
+
+"But it does also mean I have to come back to your academy," Cale said.
+
+Delia groaned. "Yes. Technically," she grumbled. "But Haelforge does not resort to such underhanded tricks. You'll see the worth of our academy from your time here, simple as that. Now—"
+
+She gestured to the teleportation array she'd drawn painstakingly on the floor. "Please return to Brightscale. I will send word to your Headmaster when the Bitter Path is ready."
+
+"And our grades," Cale reminded.
+
+"I haven't forgotten," Delia said dryly. "I'm sure Akkau will be pleased. It has been some time since you Brightscales have returned from Haelforge unscathed."
+
+Cale raised an eyebrow at that remark. What was that supposed to mean? Maybe that was the real reason Akkau had insisted on some sort of paper trail...
+
+Eh. It didn't matter. Cale nudged both of his apprentices to step through, then followed them shortly after.
+
+Damien sat in his room, staring contemplatively at the mess that was Cale's side of their dorm. He had no idea how Cale had managed to make so much of a mess in so little time, but the man seemed to make a habit of pocketing pretty much anything that interested him. There was a pile of sand on his desk, for crying out loud. Why in the world had Cale pocketed a pile of sand?
+
+Maybe that one was Syphus's, actually. The golem did seem to like sand a lot. The point remained, though, because shortly before Cale left to debrief with Akkau he'd stared at the pile of sand and nodded to himself like he wanted it there.
+
+That left Damien alone in his room and with his thoughts—well, mostly alone, anyway. He hadn't forgotten that there was apparently a monster living under his bed. A monster that liked him, for some reason?
+
+...Wait, did he need to feed it? Was he being a bad host?
+
+Damien had been about to ruminate on how much his life had changed in so little a time. He'd wanted a moment to process how okay he was with how much things had changed. Change was something that he normally hated, but for the first time, he felt like he could handle what was coming.
+
+This pending train of thought was entirely disrupted by his abrupt anxiety that he had in some way failed the creature living under his bed. Damien hesitated for a moment, feeling foolish, then sighed and tapped his bedframe.
+
+"Um..." he started. "Do you have a name? And also, do I need to feed you anything? I feel like I haven't actually had the chance to think about the fact that you, um, exist. And I'm kind of wondering if I've been a bad... friend?"
+
+He could have sworn he heard a snort emerge from under his bed, but there was otherwise no response. Damien waited, then realized there probably wasn't an answer coming. "Okay, just... let me know if you need anything," he offered awkwardly.
+
+He was so bad at this. If only he was a little more like Cale. He seemed to do pretty much whatever he wanted and get away with it, and Damien sometimes thought he could do with a little more of that same audacity.
+
+Come to think of it, why had Cale been so interested in the Haelforge dungeon, anyway? If he really wanted those mana channelers, he could have just negotiated with Haelforge for them, surely? Was there something else about it that was important?
+
+And why had he wanted to bring them along? Did he know something about the dungeon? Cale was generally surprisingly careful about their boundaries, and considering the Bitter Path seemed to be something even its veterans didn't like going through again—not to mention apparently something they didn't want to subject Haelforge students to, when those students seemed more likely the type to inflict trauma than receive it—it seemed strange that Cale wanted them to come along.
+
+"Maybe it's supposed to help us somehow?" Damien muttered to himself. "I mean, Cale doesn't usually do things without reason—"
+
+The space under his bed thumped, as if in protest. Damien yelped, startled, and then thought about what he just said and snorted.
+
+"Okay," he amended. "He does a lot of things without reason. But usually not when we're involved. He kinda seems like he really wants to help us."
+
+Sometimes, it seemed like Cale wanted to help them more than Damien had ever really wanted to help himself. The dreadshade sighed and channeled a fraction of the Verdant Flame to his palm, watching the pale green flame flickering into existence.
+
+"He's probably got a bunch of overlapping reasons to go there," Damien muttered. "I just..."
+
+For the longest time, Damien hadn't really known what he wanted to do with his life aside from bringing his mana under control. Now he was actually going outside, exploring the world. Experiencing it. It was more than he'd known for ages, and he wasn't sure he knew how to process it all.
+
+But he was starting to feel like he was ready to want more. He'd liked that whole experience more than he realized—not just going to a different academy or subverting the Red Hunters' plans, but also helping Cale negotiate with Delia...
+
+Damien remembered her expression when he'd spoken up and abruptly giggled. "Oh," he said. "I think I was having fun."
+
+A sibilant whisper emerged from beneath his bed, though it sounded almost like a sigh. "Sometimes. You are. Depressing."
+
+"Wha—hey!" Damien almost kicked at his bed frame, then stopped himself sheepishly. "...I guess it kind of is, huh?"
+
+"Can I. Have some. Of that?"
+
+"What?" Damien blinked, then watched as a tendril slithered up from the bed and licked at the Verdant Flame still burning above his palm. "Um... sure, I guess?"
+
+"Good," the monster said approvingly. "You should. Have fun. More often."
+
+"Yeah," Damien muttered, looking over at Cale's side of the room once more. "I think... I dunno. I think maybe I'm ready to try, at least."
+
+"Cale," Akkau said, his tone somehow simultaneously exhausted and pleading. "It has been two days."
+
+The poor dragon looked exhausted. Cale reached out to pat Akkau on the head, ignoring the way the dragon swatted at him. Yes, it was technically undignified for an apprentice to pet their dragon, but it was also undignified for a dragon to slump over their desk like Akkau was doing. He was pretty sure those things cancelled out.
+
+"I think today was a good day, if you ask me," Cale said cheerfully. "We stopped a few Red Hunter plans, learned some crucial information, and rescued both Sternkessel and Serof. Yesterday was much more intense."
+
+"It is alarming that I cannot disagree with you," Akkau muttered under his breath. "Do you expect tomorrow to be similar? I will have to greet a delegation from Orstrahl in the morning; if anything happens..."
+
+"Oh, I'm sure it'll be fine," Cale said dismissively. He checked his schedule scroll briefly, narrowing his eyes at it. "My next class is Magical Critters? I can't imagine anything going wrong with that."
+
+"I will hold you to that, and I will pretend you did not phrase it that way on purpose," Akkau muttered. He hesitated, then sighed. "But Cale... thank you. Without your intervention..."
+
+"You would've been fine," Cale said with a little smile. "Your students are brighter than you think, you know? You gotta have a little more faith in them. Maybe look in on a class sometime! It might do you some good."
+
+With that, he slipped back out of Akkau's office.
+
+Akkau fully blamed Cale for the situation he was in.
+
+He had no idea how the human's words had gotten twisted up in his head, but during his meeting with the Orstrahl delegation he had blurted that he was proud of his apprentice and that they would have to watch him in one of his classes.
+
+Which meant, of course, that he was now seated between all the very important members of Orstrahl nobility. And that there was a scrying spell projecting and recording all the events of Magical Critters in excruciating detail.
+
+Briefly, and for the first time in his very long life, he considered praying to one of the divines to make sure this class went well.
+
+Then he remembered Cale likely had more mana than all those divines put together and sank even further into his seat.

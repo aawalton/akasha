@@ -1,0 +1,197 @@
+---
+id: 0d0b6920-b0a9-59cd-be19-ecf09566039a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23"
+slug: 0024-chapter-23
+partOf: light-cleric
+position: 24
+ownLength: 2428
+unit: words
+publishedAt: 2021-07-24
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/722073/chapter-23"
+royalRoadId: "722073"
+---
+
+She floated in the everything and the nothing. She wasn’t happy, but neither was she sad; she wasn’t calm, but neither was she anxious; she didn’t laugh, she didn’t cry, she didn’t gasp. It was the peace of nothing. And everything. Here she was separated from her self and felt whole. She had become filled with the great mysteries because there was nothing left of herself. She could see everything, how it fit, how it had been and would be, and all the possibilities inbetween. She stared at it while ignoring it for an immeasurable length of…
+
+When, finally, she was distracted, it was by the cry of a far off bird. She tried to look up at the bird and was reminded that here she had no body, that there was no up. The bird’s cry reminded her of something else, but she couldn’t remember what. It seemed important, though she couldn’t understand why that might be, and she tried to focus on the problem. The bird cried again.
+
+And she realized that the more she focused on the importance of the bird, the more she came to her self and the less she was filled with the all and the nothing. She wasn’t certain she wanted that. On the brink between, she had a moment of decision.
+
+And the bird cried again.
+
+She looked into a sky washed of color to see a pale speck so high above but within her reach. The power was open to her and she threw herself into the sky. The pale speck became a white bird, circling lazily. Before she collided with it, she could make out each white feather on its underbelly, each crease in the grey-blue skin of its feet, each miniscule furrow in its black claws on its webbed feet.
+
+Without force, without violence, she was within the bird’s mind, seeing with its eyes, feeling with its skin, gliding with its wings. Gently, she asserted control of the beast’s mind and looked down on a sight she had witnessed only once before.
+
+Below her spread Rauf Kaver’s Farm, canals from the Middle River making the fields and orchards green. Not far to the west lay the village of Appledel snug to the Khulanty Mountains of the Valley of the Three Rivers. From here, she could see a large building in the center of the village, Sacred Heart Church.
+
+She called three times, to let them know she was coming home, then tucked in and glided down to Rauf and Maggie Kaver’s house. She sought a particular window sill and when she landed, she knew why; inside lay a girl.
+
+She was tall for a girl, and thin. Her arms were smooth and well-muscled except the left shoulder which was lined with asymmetrical scars running down to her chest and under the blanket. Though delicate, her face held a determined set, even asleep. Her skin was the same brown as most everyone in Khulanty, lighter than the folk of the Taranaki Empire in the north, and darker than the pale skinned people of the Mountain Kingdom in the south. But her hair was white, white as the clouds, white as snow, white as the froth on a well-tossed wave.
+
+The window was open, so she hopped in and fluttered to the girl’s chest. She paused, feeling the reassuring rise and fall as the girl breathed. She looked down on the girl’s face, and prepared to put herself back where she belonged.
+
+“Hey!”
+
+She jumped and screamed, then screamed again in frustration. There was a man, Tobias, waving his arms at her, shooing her away, back to the window. She landed on the sill and Tobias closed the window firmly behind her. She looked at the girl through the window and tapped sharply on the glass with her beak. Tobias replied with a firm rap of his own that startled her and required several wing beats before she was settled on the sill again.
+
+She reminded herself she didn’t need to be face to face with her to return. The glass would be no barrier. For good measure, she tapped the glass again, hard, and when her beak impacted the glass, she moved through it. She was a streak of thought and aether as she stretched from the bird to herself and touched all the space in-between.
+
+With a gasp, Piety sat up, coughing from a throat far too dry and aching from muscles far too stiff. Warm arms supported her, a hand held hers, and she relaxed into the embrace.
+
+“How do you feel?” Tobias asked.
+
+Piety started and jerked away from him. She tried to object. “You’re not Temperance,” but her voice was raspy. He went to a side table and poured a cup of water. She accepted it gratefully and drank greedily, spilling over her lips. On the last swallow, she coughed, bringing on a fit of choking. Tobias thumped her back gently until she recovered.
+
+“God’s Wounds, Mother,” he said softly.
+
+“Sorry,” she replied, though uncertain for what she was apologizing: the unconscious sleep, the spilling of water, the choking…
+
+“What happened to your back?” he asked, gently tracing his fingers along her bare skin.
+
+Piety scooted so that she leaned back against the headboard and pulled the blanket up to cover her chest. The realization she was naked sent a flush to her cheeks, but Tobias looked at her only with concern. She noticed his eyes weren’t the brown that was the norm, but were a lighter shade, hazel perhaps, with a dark, almost black ring at the outermost.
+
+“It was a long time ago,” she said.
+
+“Then vhamps didn’t do it?”
+
+Piety changed the subject. “Where’s Temperance?”
+
+Tobias picked up the cup from where she’d dropped it on the bed. “She’s downstairs, helping Maggie Kaver brew broth for you.”
+
+“How long was I asleep?”
+
+“A week.”
+
+“A week. A lot can happen in a week.”
+
+Tobias nodded. He walked to a faded, cushioned chair against the wall and sat.
+
+Tired of holding the blanket, Piety tucked it under her arms. She waited for Tobias to tell her about what had happened in the time she’d been unconscious, but he only sat quietly, looking straight ahead. The way he sat implied he might be on his feet at any moment—a reclined version of guard duty.
+
+Impatiently, she said, “So what happened?”
+
+“Hmm?” Tobias looked at her.
+
+“I said, what happened. I’ve been unconscious for ten days. What happened?”
+
+“After I beheaded the vhamp, you collapsed. You mumbled for a while. Mr. Kaver and a couple of burly men came to investigate the disturbance. We burned the vhamps, scattered the ashes, and buried Sister Sheliah. Maggie Kaver began cleaning the room that night and I believe is still dissatisfied. I made my report to Is… to the Royal.”
+
+“You reported to Isabel directly?”
+
+“Yes.”
+
+“How?”
+
+Tobias shrugged. “I’m sorry, Mother, but Isabel’s secrets are not mine to tell.”
+
+“Well,” she said, “Next time you report, you can tell her we’ll be leaving in the morning.”
+
+“Are you sure that’s wise?”
+
+“The vhamps are taking people from their homes in the night. I won’t delay any longer.” He looked about to object again, so Piety spoke quickly. “Tobias, I’m getting dressed now.”
+
+He cleared his throat uncomfortably. “I’ll be in the hall. If anything happens, yell.”
+
+It took longer for Piety to get dressed than she had anticipated. She was tired, her muscles were stiff, she was weak. By the time she was dressed, she was dizzy and breathing hard. She was sitting on the bed trying to quiet the thump of her pulse when Temperance knocked gently and came in, carrying a tray of food.
+
+“Tobias told me you were awake but not that you were dressed,” Temperance said. She set the tray on the small table by the bed. All the while, she avoided looking at Piety.
+
+“Temperance?”
+
+“Hmm?” Temperance busied herself pouring a cup of tea and adding two spoonfuls of sugar, making sure each spoonful was level before carefully pouring it into the steaming drink.
+
+Though Piety hadn’t stretched her mental senses, she could feel Temperance’s anxiety, her fear, and her relief.
+
+“I’m sorry. I didn’t mean to frighten you,” Piety said.
+
+Temperance looked up, surprised, and Piety could see what she’d suspected, Temperance’s eyes were red from crying. “Reading my mind?” Temperance asked bitterly.
+
+Piety shrugged. “It’s hard not to, you’re so upset your thoughts are coming off you like the heat off an oven.”
+
+She stood and went to Temperance’s side. She was taller than Temperance now, but Temperance had filled out. At sixteen she looked more a woman than a child.
+
+“Piety, do you ever doubt God?”
+
+Piety was surprised. “No.” After a long pause, she asked, “Do you?”
+
+“What kind of all-loving God kills Father Shane or Father Vytal or all those soldiers we spent so much time burying at Pinefort? Or Sister Sheliah? What kind of all-loving God creates creatures that are perfect killers and perpetually hungry? What kind of all-loving God lets his authority be used by callous, abusive bullies?”
+
+“Oh.” Piety sat back on the bed, feeling dizzy again.
+
+Temperance sat next to her. “It’s just hard. I don’t see how anyone can look at what’s going on and believe.”
+
+Piety shrugged. They sat, silently, for several minutes. Piety stared at the whitewashed, plaster wall, examining the bumps and lines where the plaster had been slathered and smoothed but not flattened. She still didn’t know what to say and so continued to say nothing. By the time Temperance spoke again, Piety had almost forgotten what they’d been talking about.
+
+“Are you mad at me?”
+
+Piety took a breath to bring her thoughts back to the conversation. “Because you don’t believe in God?”
+
+Temperance nodded and again wouldn’t look at Piety. Piety shook her head, put her arm around Temperance’s shoulder, and pulled her close to kiss her temple. “No, I’m not mad.”
+
+“But you still believe, even after everything that’s happened?”
+
+Piety nodded. “I’ve felt the power of God since I was three years old. I don’t think it’s much like what the clerics talk about, He’s not a man living in the sun, but there’s a greater power out there, and it’s helping us.”
+
+“It didn’t help Father Vytal.” Temperance wiped at her cheeks.
+
+“I suppose not. But who’s to say that the soldier who killed him isn’t a better man for it? Perhaps that experience, though tragic for us, was a revelation for him.”
+
+“The grand, unknowable plan?” Temperance’s voice was bitter.
+
+“I don’t know. I doubt there really is a plan in the way the clerics talk about it. But I don’t doubt His existence or His love. And I know that I’m going to do everything I can to help those I can help. I know that this greater power, whatever it is, loves me for trying.”
+
+Temperance sighed and leaned into Piety. “I just don’t understand. It doesn’t make sense.”
+
+“I think I have an advantage. I’ve seen into the infinite cosmos. But, right here, right now, I don’t think it matters whether or not God exists at all. What matters is what we do with whatever opportunity is given to us. God will love us for trying, whether or not we believe in Him.”
+
+Temperance laughed and sobbed at the same time and for several minutes the girls hugged each other tightly. Eventually they were interrupted by a knock at the door. Temperance turned away from the door and wiped at her face while Piety used her telepathy to discover who had knocked. It was Tobias.
+
+“Come in.”
+
+Tobias entered. “My apologies, Mothers. I have told Mister Kaver that we will be departing tomorrow. He seemed distressed and questioned the wisdom of such a decision.”
+
+Piety sighed. “Well then, you can tell him that though it may not be wise, it is necessary. People are being slaughtered by ravenous undead. I have to do something.”
+
+“As you wish, Mother.” Then he looked beyond her, to the window. “Hmm…”
+
+Piety and Temperance turned to look as well and found a white bird with grey beak and grey wings perched on the windowsill outside. It was an albatross, the kind of bird common in Kinswell and along the shore.
+
+“It was making a nuisance of itself earlier,” said Tobias. “I’ll get rid of it.”
+
+“Hang on,” said Piety. “He’s a friend.”
+
+“A friend?”
+
+Piety went to the window and opened it slowly. The bird only shifted from foot to foot so as to keep its balance and stared at her. Gently, Piety opened her mind to the bird. She realized instantly that in using the bird to return from the cosmos, she’d fixated the creature on her. Essentially, she’d ensnared it mentally. With a few moments of searching, she found the creature’s normal pattern of habits and released it from the unintentional charm. With an indignant trill, the bird leapt from the windowsill and flew away.
+
+“Peculiar,” said Tobias. “Albatross aren’t often seen so far from the coast.” He turned then to face the girls. “I’ll continue the preparations. By your leave, Mothers?”
+
+Piety still felt awkward with such a display of deference, but she nodded graciously and only blushed a little. He closed the door behind him.
+
+Piety sighed. His leaving left a strange ache in her chest she didn’t understand.
+
+“Rauf, I wanted to ask you something.”
+
+Piety stood among a small storm of people packing saddlebags, saddling horses, and wishing well the two young clerics and their bodyguard. Rauf Kaver stood with her and bent his head to better hear over the noise.
+
+“When I first came here, Father Vytal was looking for a woman with purple eyes. I don’t suppose you’ve seen her again since?”
+
+The farmer shook his head. “I’m afraid not, Mother. Sorry.”
+
+Piety blushed. Rauf was a large, weathered man who was just beginning to show grey at his temples. To have him call her mother seemed ridiculous.
+
+“It’s fine. I hadn’t really expected that you had.”
+
+“She’s important to you?”
+
+Piety nodded. Vividly she remembered the tender purple eyes protecting her from the icy storm, the frightened young woman who had mourned with them over Father Vytal’s grave.
+
+“She is,” said Piety.
+
+Soon the horses were ready, their supplies restocked, and it was time to leave. Tobais was mounted and waiting.
+
+“Goodbye, Master Kaver, it was good to see you again.”
+
+Rauf bowed. “Goodbye, Piety, Cleric of Light. May God go with you.”

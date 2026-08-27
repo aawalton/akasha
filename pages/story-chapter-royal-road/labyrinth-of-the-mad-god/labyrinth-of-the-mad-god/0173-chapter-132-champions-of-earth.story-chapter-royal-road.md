@@ -1,0 +1,163 @@
+---
+id: ab83b19a-eac1-5a22-878d-8f138b35d272
+page-type-slug: story-chapter-royal-road
+title: "Chapter 132: Champions of Earth"
+slug: 0173-chapter-132-champions-of-earth
+partOf: labyrinth-of-the-mad-god
+position: 173
+ownLength: 3705
+unit: words
+publishedAt: 2025-05-21
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2295861/chapter-132-champions-of-earth"
+royalRoadId: "2295861"
+---
+
+40 Minutes Earlier
+
+Kenji cast his gaze across the defenders of humanity.
+
+His senses were honed to a razor’s edge—nerves alight with an intoxicating blend of fear, hope, and adrenaline.
+
+He took a deep breath, doing his best to keep those tumultuous emotions from creeping into his expression as Earth’s elite fighting force lined up in front of the portal that would take them from the communal safe room to the roof of Darkstone Tower.
+
+He knew this would be the last time that he saw many of them alive. That even in a best-case scenario, this engagement would mark the end of far too many promising young lives. At worst… Kenji forcibly suppressed that train of thought and returned his attention to the task at hand, preparing his army as best he could before the decisive battle began.
+
+His heart pounded like a taiko drum as anticipation electrified every cell of his body, drawing him into an intense state of focus. When they stepped through the final portal, Team Earth would face the Guardian of the Tower of Rizzen with the future of their people hanging in the balance.
+
+He given his all to prepare them for this moment. Built up their confidence and shaped them into the most lethal fighting force he could in the handful of days he’d been allotted. But in the secret confines of Kenji’s heart, uncertainty roiled like rain clouds upon a storm-wracked sky.
+
+He mouthed a silent prayer, then gathered his will and steeled his resolve. He didn’t have time to indulge in uncertainty—entertain venomous “what ifs?” or host deadly little doubts. All that was left was to put on the best performance of his life, fight until his final breath, and hope that it was enough. He raised a fist above his head and then stepped into the glowing ring, as humanity’s best and brightest marched to war.
+
+When the pyrotechnics behind his eyelids faded away and the world resolidified, Kenji opened his eyes and took a long look around, analyzing the ground that was destined to become a battlefield. The place where the fate of the Earth and every creature who called her home would soon be decided.
+
+For a fleeting moment, he was all alone, standing upon a vast circle of stone that seemed to be about a half mile from one side to the other. Above, the star-studded heavens bore witness to this historic event—so crisp and clear without the atmosphere in the way. At least there’s plenty of light to see. There must be some manner of magic enclosing the rooftop, or I wouldn’t be able to breathe. The temperature is bearable, and the gravity seems the same as elsewhere in the tower.
+
+He had suspected this would be the case. Otherwise, the final stage of the System’s quest would be impossible to complete, but he still let out a shuddering sigh of relief. It was chilly enough to fog his breath and make the hair on his arms stand on end, but not cold enough to stop the people who had been leveling like mad over the past few weeks.
+
+Everyone who had survived the terrors of Blackmist Bog and climbed the Tower of Rizzen was a hearty soul. He just prayed that they were strong enough to overcome this final obstacle and pry their planet free from the clutches of Taltos the Mad God.
+
+Since he was standing near the periphery, Kenji crossed the final few feet and looked down, peering past the edge of the rooftop. His eyes widened with surprise. He had expected to see the planet Drezen stretching out below him, but that wasn’t what was down there. Instead, he ran his gaze across a silver dunescape—the topography of a barren surface that bore a remarkable resemblance to Earth’s moon.
+
+He had heard about Nick’s vision from talking with Sophia and knew that the tower extended across countless worlds and threaded other planes of existence. It was a stunning, mind-boggling sight, but he didn’t have time to admire the view or ponder the significance of this unexpected venue.
+
+Kenji turned his attention back to the rooftop, adjusting his strategies and tactics given the dynamics of the terrain. It was good ground for a prolonged battle. The stonework was level and lightly textured. It would provide adequate traction, even when covered in blood. Better still, the roof was large enough for his army to utilize the full range of their abilities, but small enough that coordinating his forces wouldn’t be a problem.
+
+Not long after, the flash of a portal lit up the night. It was followed by thousands more in rapid succession, as the defenders of Earth arrived on the tower’s final floor with determination shining in their eyes and resolve clear in every crook of their features.
+
+He felt a fierce surge of pride as all four squadrons fell into the formation they had agreed on. Each team played its role like a fine-tuned machine—a remarkable accomplishment considering how little time they had been granted to prepare.
+
+While he waited for everyone to appear, Kenji stared up at the limitless heavens, savoring this final moment of calm, where life and death were balanced on the edge of a blade. If they won this fight, their planet would become a part of the Labyrinth, heralding the next chapter in the story of humanity. If they failed, the Earth would be lost—broken down into spare parts to fuel the Labyrinth’s endless expansion, and his people would be reduced to footnote in history.
+
+I will win this fight, Kenji vowed. He took a deep breath, steadied his nerves, and got ready to address the crowd. Never in his wildest dreams had he expected to be in this position. But after defeating the Fallen rhino in the Grand Arena of Papillon and the River King at the base of the tower, his reputation had led others to look to him for guidance. He had been alive for over a hundred years, but the next few minutes would define his legacy.
+
+The pressure of leading the Earth’s elite forces in an all-or-nothing battle was immense, but he refused to buckle an inch. We will overcome this challenge and secure a future for the next generation. No matter what price I must pay, who I must sacrifice along the way, we will win, and the saga of humanity will go on.
+
+When the last party materialized and fell into formation, Kenji raised a hand. The leaders of each squadron came running up to meet him—ready to use every second at their disposal to improve their odds before the decisive showdown began.
+
+As they made a few adjustments based on the dynamics of this battlefield, he noticed that some of the people who were here hadn’t been in the communal safe room. He sent a team to round them up and get them organized. It gave him hope that some of the others who were missing, Devin and Nick among them, were still alive and would show up soon.
+
+Either way, he didn’t have time to worry about it now.
+
+At any moment, the Guardian would appear, and the last battle would begin. Team Earth’s cards were down, and their dice were cast. All he could do now was make one last effort to bolster their morale. One last speech to bring out the best in all of them.
+
+Kenji nodded to the woman beside him, who had an ability that could amplify his voice, then turned to address the assembled masses. He cast his gaze across a sea of nervous faces who were looking to him for reassurance. He did his best to keep his doubts off his face and let the passion he felt at the sight of them shine through.
+
+“I didn’t expect to speak to you again. To have one last chance to look you in the eye and voice the words that are welling up from the bottom of my heart.” The chatter died down as thousands of women and men stopped what they were doing to listen to his speech.
+
+“We have survived the hell of integration and the brutal lessons of our tutorials. We have faced the nightmares that dwelt in Blackmist Bog and overcome countless challenges while climbing the Tower of Rizzen. Despite every obstacle placed in our path, we have arrived at the battleground that will determine the fate of the Earth. The most crucial event in the history of humanity will commence at any moment, and we stand at the crossroads of ascension and annihilation.
+
+“Make no mistake, this is without a doubt the most important moment of your lives. The final battle is about to begin, but I know that you are ready. I have borne witness to your bravery and your might. Felt the warmth of your love and your remarkable will to endure. Your courage humbles me, and your determination has lit a flame within the guarded hearth of my heart. Now it is time to let that fire burn bright. To form a blazing beacon that will pierce the shadows that have risen to engulf us.”
+
+There wasn’t so much as a whisper as Kenji gave himself to the moment. Every person in the crowd was spellbound, hanging on his words that left his lips unbidden.
+
+“Brave defenders… no, champions of Earth. This is where we make our stand. The place where we show the System, the Mad God, and all others who seek to destroy us, the strength of our resolve and the power of the human spirit. I haven’t known many of you for long, but I have come to believe in each and every one of you. Your courage, your resilience, and your love are lanterns in the darkness. Lighthouses along a desolate midnight shore.
+
+“This trial will define us, but it shall not break us. We have sharpened our souls on the whetstone of suffering. Tempered our hearts in the fires of war. Here and now, in this very moment, myths will be born. If ever there was a time for heroes—women and men with the power to bend fortune and forge destiny—it is now.
+
+“You might feel unworthy to bear such a burden—unequal to the task at hand. But I assure you that you are all that and more. You are the best of us, and your valor and sacrifice humble me to the marrow of my bones.
+
+“Turn and look at the brave warriors standing beside you. Carve their faces into your heart and carry their memory into the future. If this day if fated to be their last, swear that you will never forget them, and know that they will do the same for you.”
+
+Tears rolled down Kenji’s cheeks as the crowd turned to look at each other. People were smiling and embracing. Offering handshakes, fist bumps, and more than a few passionate kisses.
+
+“I ask that you lend me your strength and your will to endure. Offer me your blades. Your spells. Your very lives. You are heroes in the truest sense of the word. And after the Guardian of the towers lies dead by our feet, you will become legends. When we walk our homeworld once more, stories will be sung of your deeds for millennia and more. Countless generations, as of yet unborn, will praise your names.
+
+“We will fight, and we will win. Drive back every threat that stands before us, be they monster, man, or the gods themselves. When your grandchildren and their grandchildren study the history of our species, this battle will be written of as the fight that saved the Earth. There is no one who I trust more to watch my back. No one I would be more honored to die beside, if this hour is destined to be our last.”
+
+Cheers arose as Kenji gave everything that he had to offer—words pouring out from the wellspring of his soul.
+
+“We have lost so much to arrive at this moment. Billions of lives, our global civilization, and the legacy of our forefathers. But no more! This is where we draw the line. This battle is our pivot—our origin story. The turning point where we start taking it all back. Here and now, humanity will rise from the ashes. Reclaim the Earth for our people, and every creature who call her home!”
+
+“This is not our ending—it is our beginning. We will win our planet back from the Mad God and enter the Labyrinth. We won’t just survive in the new age that is dawning before our eyes. We. Will. Thrive. We will learn to make our way in a magical multiverse filled with wonders and horrors alike. Walk boldly down the myriad paths to power and ascend those lofty peaks.
+
+“We didn’t ask for this fight, but we are sure as hell going to win it. We will show Taltos and his minions what it means to fuck with humanity. Make them regret each life that was taken, and then pay them back a thousandfold.
+
+“Brave champions of Earth and guardians of humanity’s future. This is our darkest moment, and our greatest test. But that darkness will retreat before your light. I know deep in my heart, my bones, my very soul, that we will emerge from this gauntlet triumphant. You are the best of us, and I believe in you with every fiber of my being. Before the last battle begins, let us hear the passion of your resolve and the mettle of your souls. Let the System, the gods, and Taltos himself hear you!”
+
+With that, Kenji opened his mouth and roared. Within a handful of heartbeats, every man and woman among them was yelling and screaming. Calling out their defiance and their hope. Their trust and their resolve.
+
+It was the most beautiful sound that he had ever heard. A memory that would become the cornerstone of his being until he drew his final breath, however long that happened to be.
+
+As the music of their voices echoed across the rooftop, something miraculous occurred.
+
+A thin band of blue crested the far side of the tower and kept right on rising. Kenji knew in that instant what he was looking at, impossible though it may be. He would recognize the curves of those continents, the azure of that ocean, anywhere.
+
+As the defenders of humanity prepared to lay down their lives, the Earth rose over the Tower of Rizzen. There were dark patches here and there, like a shroud lay over the land, and some of the topography looked different than before. But there was no doubt in his mind that he was gazing upon the cradle of humankind.
+
+The crowd let out a collective gasp of astonishment, looking up with wide eyes as tears ran down their faces. This really is our moon. We’re so close. Just one last trial to overcome, and we can go home again. Kenji had no idea how it was possible, but he couldn’t have asked for a better omen. All the speeches in the world couldn’t hold a candle to this tangible reminder of exactly what they were fighting for.
+
+They stood there, voicing their defiance to the darkness, until a rumbling began building beneath their boots. A series of resounding clangs grew louder by the heartbeat, heralding the battle to come. “Get ready,” he yelled. “The Guardian is coming!”
+
+Sure enough, a display wavered into existence in front of Kenji’s face. He ordered everyone back into formation, then began to read.
+
+System Message: Quest Update
+
+You have arrived at the final stage of the Fate of Earth quest chain.
+
+The rules for this challenge were created jointly by Taltos and the System, including hidden modifiers that the other party is not aware of (all quest dynamics were negotiated with the assistance of a neutral arbiter). To complete the quest, you must either hold off the Guardian’s forces for 1 hour or secure an alternate means of survival.
+
+This challenge has been divided into distinct phases.
+
+The 1st phase will begin in 30 seconds.
+
+The opponent for this phase is: Mechanical Beasts.
+
+Good luck.
+
+Some fascinating dynamics had been alluded to in that message, including that final line. None of which Kenji had time to contemplate now. Fortunately, an endurance trial was one of the scenarios they had prepared for, and Team Earth already had a plan in place.
+
+First step, prioritize defense until we know what we’re dealing with. Then tweak our strategy based on what we learn and adapt as we go. No matter what dynamics the first phase involves, it will only get harder from here on out.
+
+Kenji had divided the forces of Earth into four squadrons, each led by an elite warrior with military experience. Each squadron was comprised of ten units, which were subdivided into individual parties. Most of the parties had climbed the tower together, which had bonded them into a cohesive fighting force, and the others were cobbled together to be as balanced as possible.
+
+It looks like the Guardian will make an appearance before unleashing the first wave. Good. That will give us time to refine our formation. They were prepared to face enemies arriving by a variety of mechanisms. Given the size and the circular nature of this battlefield, he expected opponents to come at them from multiple directions at once, although he wasn’t taking it for granted.
+
+He gave the order, and the squads assumed a circular formation, each assigned to a quadrant of the tower. The parties began casting defensive magic and activating auras. Conferring with the leaders of their unit while performing one final check on their gear. Everyone was nervous, but Kenji knew they were ready. When the enemy appeared, Team Earth would fight and die for the future of their people.
+
+Boom. Boom. While the squadrons established their perimeter—the frontline curving to form a circle—the pounding grew more intense, as something incomprehensibly vast climbed the final few feet of the tower. It must be one of the giants we saw scaling the shaft while crossing Blackmist Bog.
+
+He was afraid that they would have to fight the titanic construct head-on before he remembered that the quest’s description had mentioned distinct phases, and the first was composed of mechanical beasts. Thank god. Now let’s find out what all the fuss is about.
+
+He didn’t have to wait for long. Less than five minutes after the booming began, the Guardian of Darkstone Tower crested the rooftop.
+
+“What the hell is that?” someone cried out. When Kenji turned toward the voice, the source of the vibrations became clear as day. Because rising from the side of the tower was a colossal face.
+
+The Guardian was a machine of staggering proportion, with features molded into incredible detail. It had two eyes the size of football fields, carved from gigantic rubies. The giant wore a stern expression—lips pressed tightly together, like it was disappointed to find the defenders of Earth spread out across the roof.
+
+Don’t let the theatrics distract you. Wait for the enemy to appear and don’t hesitate for a heartbeat. While Kenji kicked his tactical brain into overdrive, two immense hands came into view, stopping with their open palms facing the defenders. At the same time, dozens of smaller protrusions rose from the rim of the tower that were made from the same type of metal. There look to be roughly one hundred of… whatever the fuck those are.
+
+The cylinders locked into place at even intervals, forming a circle around the rooftop. He gave the signal, and the squads advanced, crossing half of the distance between them. By now, he was certain that regardless of the specific mechanism, the devices would release the mechanical beasts the System had mentioned.
+
+Now that the defenders were in position, it was up to the unit leaders adjust their tactics to tackle the emerging threat. Kenji would still offer whatever guidance he could, but once the battle was joined, it would be difficult for his army to disengage or reposition. Instead, he would focus his efforts on directing the elite unit that were presently in reserve—ready to help defend or press the attack as needed.
+
+When the last canister snapped into place, utter silence descended upon the rooftop for the next ten seconds. At which point, the containers opened as one. The interior plates retracted to reveal a gleaming sliver portal housed inside each cylinder. Thanks to his incredible new body, he could make out the details from here.
+
+Unlike the others he had seen, these portals were contained within a ring of metal, the surface of which was engraved with the images of clockwork beasts. If the portals have a physical component, that means we can break them. He was certain in that moment that he needed to destroy the devices. That the longer they were in operation, the more enemies his forces would have to contend with.
+
+He gave his final order to the army as a whole, directing them to attack the rings. As a battle cry rang out from thousands of throats at once, the defenders of Earth launched their assault. Before they made it halfway to the periphery, clockwork critters emerged from all hundred glowing gaps in the fabric of space. Kenji catalogued the details while preparing to make his move. Twenty enemies per portal in the first wave.
+
+The beasts came in a range of forms—from hounds the size of their earthly counterparts to towering mechanical bulls. Half the constructs fanned out to guard the shimmering apertures, while the rest stampeded straight for Team Earth.
+
+After that first wave, the beasts stopped coming through, but Kenji was certain that more were on the way. The dynamics of this challenge were becoming clear to him. We don’t just need to hold out for an hour. We need to disable the portals before we’re swarmed and buried in a tsunami of mechanical creatures.
+
+A bare second later, the charging constructs collided with the vanguard of each squadron. Screams and explosions filled the air as the fight of his life began.

@@ -1,0 +1,89 @@
+---
+id: 36790635-85e2-51c5-aa62-16ba1796bf6d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49: Burning Bright"
+slug: 0088-chapter-49-burning-bright
+partOf: labyrinth-of-the-mad-god
+position: 88
+ownLength: 1993
+unit: words
+publishedAt: 2024-11-08
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1892820/chapter-49-burning-bright"
+royalRoadId: "1892820"
+---
+
+Nick conjured a pair of mana darts before coming to a stop beside the burning queen.
+
+The moment that he was in position, he started scanning the air above the party. During this phase of the operation, it was his job to deal with the force-arms extending from the creature’s torso. He was the only one who could see them clearly, besides Devin, who was now wearing Kellen’s glasses, and no one else had abilities that might be able to disrupt them.
+
+Let’s hope this works. Nick offered a prayer to whomever might be listening, calling upon his arctic clarity to enhance his focus. He knew that he would have to react in the blink of an eye. Precision maneuvers with no room for error. Against such a powerful opponent, one small mistake could easily lead to a fatality, and he was determined to make sure that didn’t happen.
+
+The Janitor came charging out from the dissipating cloud of smoke a heartbeat later, heading straight for the half-charred corpse of the queen. The body of the insect monarch was still burning bright, thanks to Veronica’s napalm grenade.
+
+The instant that the mutant revealed itself, a pair of bolts and one of Shaun’s arrows struck it in the face. The attacks didn’t do any damage, but they caused the creature to rear back in surprise, giving Devin time to block its path.
+
+This was the closest that Nick had been to the artificial lifeform that had devastated the roach horde and laid waste to this floor of the tower. The mutant amalgamation that Kellen had named the Janitor. It was, in a word, terrifying.
+
+The tier-two creature towered over them, far more massive than the entire party combined. But its size wasn’t the reason why this enemy made Nick break out into a cold sweat and sent adrenaline surge through his veins.
+
+Team Earth had faced plenty of big beasts by this point, including the fire-breathing river king. But they had never gone toe to toe against something that was so resilient or able to use such powerful magic time and time again. One direct hit from any of its forced-based powers could inflict a lethal blow, to say nothing of its wicked claws and the living blender it had for a mouth.
+
+It exuded a menacing aura of bloodthirst. Of an aching hunger it was desperate to sate. While the mutant creature was intimidating, there was still reason for hope. Its sharklike body was pitted and scarred. The damage from the fight with the roach queen was only halfway healed, leaving the shell of white force coating its exterior covered in jagged cracks.
+
+But the Janitor didn’t seem to be impaired by its impressive collection of wounds. It still moved with the same shocking speed and strength that it had exhibited throughout the fight. While Nick could sense that it had consumed a significant portion of its energetic reserves while battling the horde, it still had plenty left in the tank.
+
+The mutant looked shocked when it noticed the party falling into formation in front of it. It skidded to a halt, examining the small creatures that had chosen to run toward it instead of away. It seemed torn in that moment, unsure whether it wanted to go for the corpses to fuel its healing, or for Team Earth, which offered the essence that its unstable form needed to survive. A deterioration that had accelerated after unleashing its force bomb a few minutes prior.
+
+Its confusion didn’t last long. While it could heal its body faster after ingesting living matter, its unstable geneline was falling apart. It would starve to death without a fresh infusion of a novel type of essence. Not to mention, eating some of Nick’s team would let it heal too, solving both problems at once.
+
+He could tell from the mutant’s posture that it had decided that as much as it wanted to eat the blazing bugs, it wanted to consume the party’s essence even more. It fixed its gaze upon the closest target and roared. Devin, who had begun circling around while scanning the floor by his feet. The Janitor’s body was still half hidden by smoke, which made it harder to see its magical projections coming.
+
+Both force-arms came streaking down for Devin. The athletic warrior was barely able to dodge them in time, even though he had anticipated the move. He leapt over one grasping limb and then ducked beneath the second, rolling out of the way of two sets of claws as the Janitor followed up with attacks from its forelimbs.
+
+Before the mana-forged limbs could come around for a second pass, Nick let loose his spells. He sent one dart streaking toward the base of both ghostly arms. Let’s hope this works, or things are about to get ugly. He was poised to rush in if needed, ready to move on to his backup plan if the spells proved ineffective.
+
+He let out a sigh of relief half a heartbeat later. As he’d hoped, when the silvery missiles contacted the mutant’s force-arms, they punched two big holes in them before dissipating. The pure mana comprising Nick’s darts was powerful enough to disrupt the force mana holding the projections together. They lost cohesion and fell apart a few seconds later.
+
+The Janitor grumbled in irritation. Then it reared back and prepared to charge. Taking advantage of the opening, Devin dove and went sliding along the ground, scooping up his axe along the way. The mutant lunged for him with its jaws, but he was already back on his feet and running away to open some room.
+
+Meanwhile, a cluster of bolts and arrows peppered the monster’s length. Most went sliding off its magical armor. But the barrage distracted it long enough for the party to reposition, keeping it from reaching the last corpses on the battlefield. A few of Veronica’s bolts landed between the cracks in the mutant’s armor. Each hit increased the damage that her other abilities would inflict, thanks to her class trait. Racking them up now would play a vital role later in the fight.
+
+For now, Team Earth focused on defense, keeping the Janitor’s attention on them but staying out of melee range. It was a risky situation standing so close to the lethal lifeform, but they couldn’t risk it consuming the roaches and triggering a massive heal. The bodies should finish burning to ash within a few more minutes, then we can proceed to phase two.
+
+Nick cast another pair of darts while he moved to block one side, judging that he was down to about half mana after his latest expenditure. I doubt that those arms will be gone for long, given how much mana that thing has been burning throughout the course of the fight.
+
+Sophia came running back toward the party a few seconds later, calling up a fresh round of summons as she ran. Nick felt a surge of power entering his body, as her upgraded aura boosted the team’s physical attributes.
+
+A pair of Sophia’s wasps landed on the mutant’s body and began to sting, working their stingers in through the cracks in its armor to inject their freezing venom. Frost-spawned fog began billowing up from the afflicted tissue, causing the Janitor to roar in fury, pulling back long enough to deal with the problem.
+
+Its force limbs regenerated a few seconds later, costing the Janitor more mana in the process. They smashed one of the wasps to goo before it could get away, while the other took off to trail it from the air.
+
+The translucent arms spread out and then reached for the party, eager to grab hold and toss them into the mutant’s mouth. Although his mana darts hadn’t taken the force-limbs out of the picture for long, at least he knew that they would work in a pinch. Since he had already had two mana darts circling around his head, ready to fire at a moment’s notice, it was time to try out the other counter he had prepared.
+
+While Devin and one of Sophia’s frogs played hit and run with the Janitor’s body, Nick pulled his wand out of its holster and took aim, waiting for the arms to come back around. If this works, I might be able to save the rest of my mana for now.
+
+The mutant’s force-hands came streaking toward the team, dragging themselves along the ground this time instead of traveling through the air. They curved around the sides of its body and then came back together, trying to ring Devin in so that he couldn’t escape.
+
+Before the magical manifestations could complete their encirclement, Nick was there. He took aim and then fired his wand twice back-to-back, sending one blast apiece at each of the ethereal limbs. Yes! As he had been hoping, since his wand and the arms used force essence, their energy could affect each other.
+
+Although the wand didn’t disrupt the limbs like his mana darts, the blasts were enough to knock them back, buying Devin enough time to get out of the way.
+
+The wand’s not as effective as my spell. But since it’s refilling so fast, I can use it freely and don’t have to worry about it running out of charges. In fact, the force-flinging device had regained one use already, thanks to the Janitor’s unstable essence spilling out from it like a bucket with a hole in the bottom.
+
+It seemed to be leaking more and more essence as the fight dragged on, the repeated use of its powers hastening the instability of its manufactured geneline. As essence radiated out from the unstable creature, the wand quivered in Nick’s hand like a living thing. Like a hungry beast who had just sighted its next meal. It was weird and rather unsettling, but he didn’t have time to worry about it now.
+
+“Now that we know we can counter the hands, we need to find a way to deal some damage before we start taking serious injuries.” Nick called out his observation, just as Veronica reported the news that he’d been waiting to hear.
+
+“The corpses are done burning. They are almost totally charred, although there’s still a bit of tissue intact at the bottom.”
+
+“It will have to be good enough,” he replied. “Spread out and proceed to phase two!” Before the party could fall back and reposition, the Janitor came charging at them, moving so fast that its form became a white blur before his eyes. Shit. Who is it going for?
+
+“Veronica. Watch out!” Sophia fell into formation in the back of the party. In response to her warning, V abruptly changed directions, leaping out of the way just in time to keep the mutant’s jaws from closing around her leather-clad form. She began darting around one side, as agile as a cat. But she was still in danger, since she couldn’t see the arms coming her way.
+
+Nick moved closer as the others began attacking the creature from behind, ready to use his wand and darts to keep the force-arms off Veronica. She wouldn’t be out of range for another few seconds, and both ethereal limbs were already headed her way, reaching out to grab hold and bind her movement.
+
+That was when a sensation of overwhelming danger broke over Nick, which only grew more intense when he reflexively Sized Up the Janitor. Something is wrong. The mana flowing across its back is behaving differently than before. I don’t know what’s going on, but I can’t let the arms reach her.
+
+He visualized his trajectory, firing his Mana Darts just as the force-limbs came flashing down to claim V’s life. The magical missiles landed on target without any problems, disrupting both arms like he’d planned.
+
+But they didn’t stop the other four that lashed out at the party a fraction of a second later.

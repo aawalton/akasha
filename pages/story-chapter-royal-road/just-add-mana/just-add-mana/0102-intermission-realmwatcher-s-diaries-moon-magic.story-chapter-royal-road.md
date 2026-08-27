@@ -1,0 +1,101 @@
+---
+id: 54fc167c-af60-58b2-a6cd-ff959d1a38af
+page-type-slug: story-chapter-royal-road
+title: "INTERMISSION:  Realmwatcher's Diaries — Moon Magic"
+slug: 0102-intermission-realmwatcher-s-diaries-moon-magic
+partOf: just-add-mana
+position: 102
+ownLength: 1153
+unit: words
+ownProgress: 1153
+publishedAt: 2026-02-19
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3071255/intermission-realmwatchers-diaries-moon-magic"
+royalRoadId: "3071255"
+markedReadAt: "2026-06-29T18:51:09.245Z"
+---
+
+Intermission
+
+Realmwatcher peered suspiciously at the orb in front of her. "You are certain you have managed to lock on to Brightscale Academy correctly?"
+
+"Yes, madam," her "apprentice" said. Realmwatcher glanced up at the other starling, who fidgeted nervously. "...Mostly sure, madam."
+
+Realmwatcher sighed. "How sure?"
+
+"68.2%, madam."
+
+"Please stop saying madam."
+
+"Yes, ma'am."
+
+"That is not..." Realmwatcher pinched the bridge of her nose. Were starlings supposed to get headaches? She felt like she was getting a headache, but that was probably because the last scrying orb her "apprentice" created had locked on to an imaginary timeline, and that had been...
+
+She shuddered. It had been a lot. For some reason, the imaginary timelines around Brightscale Academy were able to deviate a lot more from the norm than usual.
+
+That was a thing with cross-realm scrying. Alternate timelines were not, as far as she knew, actual realities; even in the vast expanse of magic created across the Great Realms, the idea that every possible choice and outcome existed simultaneously was largely frowned upon. It meant there was little to no free will, for one thing. For another, every chronomancer agreed they mostly didn't exist.
+
+The key word, of course, was mostly.
+
+There were a number of spells that created what was essentially a virtual alternate timeline; not a true reality in any sense of the word, but some facsimile that could be used to determine potential or derive information. Indeed, this was most common among the most powerful information-gathering spells.
+
+Unless the caster was careful, it was entirely possible they would accidentally end up inventing a false reality of their own from which the spell would draw its information. That false reality would be loosely based on what was possible given certain changes to the timeline—hence the term "imaginary timeline"—but it made the spells notoriously unreliable for all except the most disciplined of casters.
+
+Which her apprentice, Heartwatcher, was not. She was a powerful mage and perfectly capable of scrying into other realms, but she was also prone to flights of fancy and inventing her own preferred reality, so to speak. That woman had her head in the clouds more often than not. Realmwatcher wouldn't even be relying on her if not for the fact that she'd exhausted her mana on this project—she wouldn't have it back for another week, at least.
+
+"Fine," she said, sighing. Hopefully, Heartwatcher hadn't gotten as distracted as she had last time she tried to cast this spell. "We will take a break after this. Perhaps have dinner together? It has been a while."
+
+Heartwatcher brightened immediately. "That would be delightful, ma'am."
+
+"...I should never have agreed to take my own spouse into an apprenticeship. This is getting to your head."
+
+"I have no idea what you mean, ma'am."
+
+Realmwatcher rolled her eyes, but set her gaze on the orb and Watched.
+
+"Cale," Damien hissed. "We can't just sneak into classes without permission!"
+
+Cale blinked. "Why not?"
+
+"Because—" Damien sputtered, like he couldn't believe he had to explain this. "Because it could be dangerous! There are requirements for each class for a reason!"
+
+Cale tilted his head slightly, and Damien slowly deflated as he realized what he'd said. Right. Telling Cale not to attend a class because it was dangerous was equivalent to waving an invitation into his face. Probably worse, because by this point Cale had received a number of invitations to meet from various prominent mages and scholars, and he'd ignored almost all of them except the ones he found the most interesting.
+
+"Most interesting" by his definition, that was, which meant he mostly only accepted invitations from mages that specialized in baking magic. Although there was that one time he said something about visiting the moon?
+
+...Was that why Cale was so insistent on sneaking into this class?
+
+"I'm technically Akkau's apprentice, remember?" Cale said, giving Damien a reassuring pat on the back. "I'm sure it'll be fine. I just want to see if I'm right about this."
+
+"Right about what?" Damien pleaded. "You haven't told me anything other than that you want to sneak into this class. And why are you dragging me into it?"
+
+"Because you'll want to see this!" Cale beamed.
+
+"What could I possibly want to see in a class for Moon Magic?" Damien asked, exasperated.
+
+"I saw those books you keep under your bed," Cale said. "Well, more like your monster friend told me about them. Anyway! You've never wondered why this class is kept so secret? I mean, it's in the middle of the night, and the door is chained shut with thirty silver locks and a bunch of wards. You have to wonder what could possibly be so special about moon magic."
+
+Damien grimaced. "I might have wondered about it before," he conceded reluctantly.
+
+"Exactly!" Cale grinned. "Also, I need you to break through the locks."
+
+"There it is." Was there even a point in arguing? Cale had his mind set on this, so he obviously wasn't just going to let it go, and if Damien refused there was a good chance he'd cut through the locks with his mana. At least his new spell could get them through without compromising...
+
+Damien blinked, his thoughts trailing off, as the two of them stepped into the chamber. The ceiling of the room was what appeared to be a massive lens that transported the outside moonlight directly into the room, presumably so the students could better practice their moon magic.
+
+Except that wasn't what got his attention. What got his attention was that the entire class was filled with werewolves, all of them staring at their two intruders.
+
+"I knew it!" Cale declared triumphantly. "Now, who wants pets?"
+
+Damien opened his mouth to object, but didn't manage more than a squeak before the two of them were buried in a variety of what he now realized were extraordinarily fluffy werewolves.
+
+It was only later, after Damien had quite possibly the best two hours of his life petting what were essentially enormous and overly affectionate dogs, that he thought to ask Cale how he'd known that would happen.
+
+"Oh," Cale said. "Apparently making the Dread Moon back off changed it so werewolves get affectionate instead of aggressive when they turn. The professor said their class actually petitioned me for help. Something about how humans are great at pets? I figured I'd bring you along as a treat."
+
+Realmwatcher's brows furrowed. "I cannot tell if that actually happened or not," she said. "I suspect this will be a recurring trend for this week."
+
+"Yes, ma'am," Heartwatcher said, giving her a cheeky grin. Realmwatcher shook her head and reached out to boop her wife on the nose.
+
+"You," she said affectionately, "are lucky I cannot be angry with you. Let us have that dinner, and then I will go over the spells with you tonight. Again."
+
+Heartwatcher seemed entirely too happy about that.

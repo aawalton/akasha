@@ -1,0 +1,251 @@
+---
+id: 820012ac-c93a-547e-8ecf-bf0f21243926
+page-type-slug: story-chapter-royal-road
+title: "39. Alternative"
+slug: 0039-39-alternative
+partOf: mana-devourer-litrpgmana-cultivation
+position: 39
+ownLength: 2830
+unit: words
+publishedAt: 2024-07-29
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1736766/39-alternative"
+royalRoadId: "1736766"
+---
+
+Wasn’t long until the pair of them were whisked out of the arena, Drathok grabbing Markus and teleporting him away before he could so much as blink, not even bothering to bow to the crowd as he usually did. When they manifested into reality once more, they were in what looked to be an office room.
+
+It looked… dishevelled. Markus would’ve took Drathok for the fastidious, clean type. This looked somewhere between organised and a recent hurricane having blown through.
+
+“You fucking bastard,”
+
+The cleanliness of Drathok’s office wasn’t the thing on Markus’ mind right now.
+
+He marched forwards with an ounce of strength he didn’t have. He jabbed a finger into Drathok’s chest.
+
+“You tried to get me fucking killed.”
+
+Drathok didn’t respond with his characteristic grin. If anything, his face looked rather flat, emotionless. Eerily so.
+
+“The purpose of the arena bouts is to provide entertainment. You’re meant to fight. I never said the fights would continue to be easy.”
+
+“You told me we’d be friends from now on!” Markus growled, pressing his finger against Drathok’s chest until it began to sizzle. “I mean, fuck, I didn’t believe you for a damn second, but to go and just try to fucking off me like that so quickly? What the fuck?!”
+
+“Where is your familiar?” Drathok asked, seeming disinterested in his bout of rage. “I assumed she would follow along with you.”
+
+Markus narrowed his eyes, blood pumping hot. “I’m not letting you touch Ember, you sick freak. I’d rather you kill me right here than—”
+
+“I planned to check her for wounds. The creature could be useful to you for what comes next.”
+
+“And I’d rip your stupid fucking head off before I—” Markus stopped short, the words beginning to process in his mind. “What? What are you talking about?”
+
+“Sit, please.” Drathok said, motioning towards a chair and pulling it out.
+
+“I think I’d rather stand,” Markus said, folding his arms, staring straight into the demon’s black eyes, searching constantly for any remote sign of an opening in case things turned ugly.
+
+Yeah… the hatred in his gut was so visceral right now that he felt he might jump Drathok randomly if he got even a slight inkling he could come out on top. He couldn’t let himself be treated like this anymore, he couldn’t—
+
+“Is something interfering with you?” Drathok said, head tilting. “You seem… more, well, more you than usual.”
+
+“What the fuck are you talking about, I’m not any more—”
+
+Fuck.
+
+Shit.
+
+Markus immediately deactivated [Pride]. It was like a mist had ascended from him. Like a drug had just worn off.
+
+He still felt incredibly fucking angry. He was still ready to fight if needs be, even if his body felt it might collapse at the prospect of a gentle wind passing through.
+
+“As I said, you should take a seat.”
+
+“And as I said, you don’t fucking command me!”
+
+“You never said that,” Drathok said, shaking his head.
+
+Well, shit. Guess Pride wasn’t necessary for Markus to be Markus.
+
+“You may remain standing if you wish. I’m worried you might faint.”
+
+“I’m fine,” Markus lied, knowing he was likely wobbling where he stood, knowing that Drathok wasn’t meant to look like he was in 240p but unable to blink his way through his current haze.
+
+Drathok sighed, taking the seat for himself. “Fine. Remain standing.”
+
+“So?” Markus waved his hand in a circle, trying to compel speech out of his captor. “What fucking gives? Why now? I thought you wanted to squeeze every last fucking penny out of me, why kill me off when I’m still making your arena money?”
+
+“Some things matter more than money.”
+
+There was a bitter resignation to Drathok’s tone, one Markus couldn’t quite parse the meaning of.
+
+Markus leaned against the air, arms swaying, attempting to stay on balance.
+
+“Circumstances have changed,” Drathok said, eyes hard, tone level. “In an ideal world, I’d allow you to fight out the rest of your contract. As it was, there was a reason you were booked for two fights today, and that was to take you out of the picture before you progressed onto the next one.”
+
+“Wh-what’s so special about…”
+
+Markus slumped.
+
+Drathok caught him before he fell to the floor completely.
+
+“Get up. You look ridiculous.” He hoisted Markus to his feet and all but shoved him in the chair. “Drink something.”
+
+He passed a bottle of what Markus assumed was a health potion to him. Markus wasn’t too proud to admit he needed it, but he was definitely confused.
+
+The moment Markus let the cherry red flavour hit his lips, he felt a beat of resilience from his chest.
+
+He looked up at Drathok.
+
+“Why. You didn’t seem to give a shit when I was first brought here. Why look after me at all? You literally just tried to kill me. I don’t get you.”
+
+“It’s better you don’t try to understand me,” Drathok said. He cleared a space and sat in a nearby chair that had previously been stacked with papers. “As for the ‘why’ of wanting you killed?.. Randall.”
+
+“Randall? What, he just wanted me to get torn to death by fucking acid raptors?” Markus attempted to roll his eyes, but he was pretty sure he just wound up doing something between a wink and a facial spasm, potion still not having fully kicked in.
+
+“No. Randall will be making an appearance at your next fight.”
+
+“...oh.”
+
+Drathok cleared his throat, taking a sip of water right after. “Naturally, I believe that Randall will cause a disturbance in my arena. I have no earthly idea what it is he may or may not plan to do to you, but I figured it would be in the best interest of both me and this establishment if you were to simply die in your fourth fight unexpectedly. It’d save the both of us some deal of pain.”
+
+“So, what, this was just a fucking mercy killing?” Markus narrowed his eyes at Drathok, grilling each facet and contour of his countenance for some sign of further thought. “What kind of mercy killing is being torn apart by fucking raptors, anyways?”
+
+He barely moved, stoic as ever. He said nothing.
+
+“I don’t buy it,” Markus sneered. “First, I don’t think you’re capable of mercy. Second, even if you were, I de…” Markus shook his head, throat dry, sinuses aching as the potion began to take effect. “I definitely don’t think you’d extend that mercy to me for no reason. Were you fixing a bet, or something? Even that couldn’t be worth so much more than six fights to you, surely. And keeping me alive has to be worth more than what, some godly spectacle? Wouldn’t every bloodthirsty freak that comes here fucking love that? What’s the problem?”
+
+Drathok shook his head. “It’s like I said. Randall plans to make an appearance at your next fight, and I wished to spare myself the prospect of undue suffering. Take that as you will.”
+
+“Hold on… why the hell would you sell my right to be bought to Randall if you didn’t plan to actually keep me alive for him? How does that make any sense? Wouldn’t he know if you got me killed on purpose?”
+
+Drathok averted his eyes as Markus spoke. He’d never done that before, besides when Markus had questioned him about his bruise. Something was under his skin. Was he… lying to him about something? Again?
+
+”I don’t need to explain myself to you.” Drathok sighed. “None of it matters anymore. You survived, and so you’ll make your appearance. That’s how things turned out.”
+
+Markus was missing something here. There was a bigger picture. He could sense it, but he couldn’t quite reach out and grab it. He knew that there was something wrong with Drathok’s rationale, though. There was…
+
+“Randall didn’t buy you out,” Markus said, eyes half-lidded as he fought the urge to droop further.
+
+“.What makes you say that?”
+
+“You’d be offering me to him on a silver platter, and for that kind of money you’d be stupid not to. It doesn’t fit anything I know about you.”
+
+“And I told you not to try to understand me,” Drathok said, leaning forwards as he spoke. “What I would like to know, however, is how exactly you’ve managed to get so much stronger in such a short space of time. You shouldn’t have had access to the necessary resources to do so.”
+
+“You really have no idea?” Markus asked, staring, wondering if this was a test.
+
+“I have a hunch. Confirm it if you wish.”
+
+Markus didn’t really wanna think about it. He didn’t. “I trained in the underground.”
+
+“I see.”
+
+Drathok was quiet for perhaps five seconds. In that time, his face didn’t move at all. It was as if his regular lack of motion had been layered with a coat of frost.
+
+Finally, the statue spoke.
+
+“Did you hit level 50 from that fight?”
+
+“I…yeah. Why?”
+
+“Affix a class. Most classes are selected at 5 and evolve at fifty. Otherworlders are different. They trade specialisation for flexibility. It allows them to grow faster and branch out their skills. If you wish to survive your next fight, however, you will need a class you can use, something more than simply being an Otherworlder.”
+
+“Now you want me to survive?” Markus asked, almost wishing he still had some potion left to spit-take at him, as the alternative was his throat feeling dry from the heaving motion of disbelief that currently wracked him. “Make your fucking mind up!”
+
+“Like I said,” Drathok repeated, staring at him. “Circumstances have changed. The constraints to what I can tell you are… I cannot explain much. Regardless, I want you to win, yes, or at the very least, you could kill yourself.”
+
+“I… what?”
+
+“The alternative I’m attempting to prevent is far worse. If you were to do so, I would be absolved of this problem. If I were to kill you, then he would surely know.”
+
+“How would Randall know if you killed me? I don’t get it. You could just put a sword in me and blame it on anyone.”
+
+“It’s not…” Drathok shook his head. “Don’t worry about it. Are you going to end your own life or not?”
+
+“Of course fucking not! Why is that even up for discussion?!”
+
+“Then you need to win,” Drathok repeated, his face grave. “I can help you with your class selection. Perhaps teach you a spell or two, but nothing too powerful. They’ll know it came from me, otherwise.”
+
+“Who the fuck is ‘they’?” Markus asked. “First it’s ‘he’, now it’s ‘they’. Just how many assholes am I meant to worry about right now, counting you? And why the fuck do you care if I win?”
+
+“We don’t have time to squabble about this, do you want to survive or not?”
+
+“Of course I do,” Markus shouted, “But why the fuck should I trust you?”
+
+“Because you have no other options,” Drathok stated plainly. “You saw to that already.”
+
+“I fucking—” Markus’ breath caught. He had rejected all of his other choices, hadn’t he?
+
+“Trust me or don’t. Either way, you need to prepare for your next fight. Your enemy will breathe fire. Is there anything you can do to prepare for that?”
+
+“I…” Markus could. He had an adaptive mana resistance ability that he hadn’t had a chance to use yet, mainly because it needed preparation to be useful. This was said chance.
+
+“You will need to take whatever precautions you can if you wish to win. The monster is one thing, but I cannot account for what Randall himself might do. If you have any way of preparing for that, then do so.”
+
+“What exactly am I meant to be fighting?”
+
+“A flightless, fire-breathing lizard. One that burrows underground. One that could swallow you in a single bite, and that prefers to digest its prey charred but still breathing.”
+
+“Wow, sounds like a fucking blast. Can’t wait.”
+
+“Quite.” Drathok stood, brushing his jacket off, and walked to a stack of papers on the far side of the room. He pulled out one. “This contains information on your opponent. The third down the list. Study it. Learn what you can. You only have four hours between now and your next battle, so use the time well.”
+
+Four hours… he wasn’t even sure he’d be back in shape in that amount of time. Markus could feel his mana slowly generating in the background, and knew that with his enhanced generation he should wind up with enough Frost and Spirit Mana that he could at least do something, but…
+
+“You really wanna help me?” Markus asked.
+
+“I told you that I do.”
+
+“Zap me with lightning.”
+
+“I can’t. If I harm you…” He shook his head. “I could have Lexi help you with that. She’s an advanced mage. Prodigial. She could charge you with attacks almost as potent as mine.”
+
+Really? Lexi? Bringer of eggs and other food items?
+
+Drathok blinked. “What is it?”
+
+“No, nothing, I just… Lexi?”
+
+“She’s a lot more than she might appear. You’d do well to not make assumptions in an unfamiliar world.”
+
+“Yeah, I’m starting to learn that. Everything feels like it’s fucking upside down today, and considering where I was a week ago, that’s fucking hilarious to say.”
+
+“Tell me about it.” With that, Drathok pulled out a cigar, lighting it against his right horn and taking a long, slow puff. He sighed. “My life used to be simpler. I don’t know how things got to this.”
+
+Markus stared at the wall behind him as heavy smoke drifted. “Well, forgive me if I’m not a wellspring of sympathy.”
+
+“No, even I don’t feel particularly sorry for myself. I’ve allowed all of this to happen.”
+
+Markus could feel the pronounced shift in Drathok’s tone. His usual, imposing manner seemed to have almost drifted away, carried upon grey plumes and rings.
+
+“I stand by what I said,” Drathok stated, smoke drifting away from him as the room filled with a soft, translucent sheen. “I would’ve once killed for the position you’d had.”
+
+“What, you gonna tell me I’ve squandered my chances? That I’m only in this super, ultra shitty spot now because I didn’t make a shitty ass decision during the regular god awful shit spot that I’d been in previously?”
+
+“No,” Drathok said, taking the cigar from his mouth and ashing it in a tray. “No, you’re here because of me. I took you from your life, for better or worse, for whatever it might’ve brought you. Expected you to fight. Expected you to die. I put that burden upon you. Trust me when I say that I sympathise with your situation.”
+
+Markus stuck his middle finger up. “If you’re so sorry and regretful, why don’t you go jump in a pit of multiplying fucking raptors, huh? Or better yet, why don’t you send me home? How about that?”
+
+“I never said I was regretful over summoning you,” Drathok said, putting out the cigar and straightening his suit. “I would do it again. Like I said, some things matter more. My only regret is ever implying you should be grateful.”
+
+“Oh, gee, I feel so much fucking better now!”
+
+“For what it’s worth, I’d like to see you survive and leave this place.”
+
+“For what it’s worth, I’d like to kick you in the fucking balls.”
+
+Drathok’s hand sparked with magic. He tutted, and the crackling lightning extinguished.
+
+“You know, I can’t fucking deal with this,” Markus complained, rubbing his temples as he spoke, leaning back into the hard wooden chair. “Your whole hot and cold thing, it’s…” he could think of words to describe it. He didn’t like any of them. “It just fucking sucks, okay? Be consistent. Either act like a fucking asshole all the time and do shit to snake me or actually be nice if you’re gonna act it. I don’t know what the fuck goes on in your head, but stop projecting your internal bullshit onto me. It’s gross. I put up with enough from you as it is.”
+
+Markus watched as the demon drank in his words, wondering what vestige of his mind that shit had come from.
+
+He didn’t like the way he’d just spoken. It felt too raw. Like prodding a wound.
+
+“I see,” Drathok finally said, wafting away smoke with his hand. “Fine. Let’s discuss something more productive. Open your class menu.”
+
+“My what?” Markus asked, searching his system right as he said so.
+
+True to Drathok’s word, there was a class menu there now, previously a greyed out option, and the list of options within it was… staggering in length. Even Mastries didn’t give him this many choices.
+
+Markus stared. He squinted. He watched and he scrolled for so long that his eyes began to gloss over.
+
+“Okay… gonna explain to me how this shit works?”

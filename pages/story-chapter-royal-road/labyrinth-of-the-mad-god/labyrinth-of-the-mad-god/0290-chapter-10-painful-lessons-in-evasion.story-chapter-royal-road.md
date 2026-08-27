@@ -1,0 +1,99 @@
+---
+id: 32f6b34a-4ed6-51a8-a17d-32e56ecbf4a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Painful Lessons in Evasion"
+slug: 0290-chapter-10-painful-lessons-in-evasion
+partOf: labyrinth-of-the-mad-god
+position: 290
+ownLength: 1986
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3124024/chapter-10-painful-lessons-in-evasion"
+royalRoadId: "3124024"
+---
+
+As they walked, Kenji revealed that he had come with a way to prepare Nick for his Evasion trial of mastery. By the time he was done explaining, the warrior had a wicked grin plastered on his face and Bandit was cackling with delight.
+
+To integrate the lessons he’d learned from his defensive skill, the pair started flinging stones at Nick, trying to catch him off-guard when he wasn’t paying attention.
+
+It was annoying, since they were both incredibly perceptive and their rocks hit him an embarrassing percentage of the time. However, anticipating strikes coming from any direction with minimal warning began paying dividends as their journey continued. Part of his awareness was primed to receive an attack from any angle, calculating the best way to dodge without exposing himself in the process.
+
+Lurk was eager to join in and began lashing Nick with her tail whenever he wouldn’t see the appendage coming. Taking the dino’s hits hurt like hell, but it was excellent motivation not to lower his guard. The “game” seemed to be lowering the tension simmering between them, so he let Lurk have her fun despite the bruises covering his backside.
+
+While the conduit was easy to navigate with the System’s arrow leading the way, they occasionally came across branching routes—forks in the tunnel, doorways floating in midair, or ladders leading through hatches in the roof.
+
+Some of these quasi-passages were unstable and collapsed before his eyes, while others seemed to have been standing for years. Nick had no idea what would happen if he took a wrong turn or decided to explore. He might discover a hidden node, untold riches lost to the ages, or far more likely, some manner of horrible demise.
+
+Many of the unstable routes looked like they led somewhere promising, which gave him the impression that none of this was an accident. The Labyrinth wants people to explore it, even knowing the danger. The treasures hidden within the conduits are bait. I wonder what it gets in exchange.
+
+He recorded everything they passed with his PDA. In part for his people to study, but also to memorialize the countless cultures this bizarre realm had devoured. The Earth had come close to suffering a similar fate, and he felt a kinship with the planets that hadn’t survived the Mad God’s trials.
+
+While the conduit was ominous and rife with danger, there was plenty of beauty to be found. The party walked past fragments of alien sculptures and the fossils of fantastical creatures. Near the end of their second full day, they hiked alongside a towering wall featuring a stained-glass window that stretched two hundred feet into the air and continued for miles.
+
+It depicted a single, continuous story, detailing the life of a man who was born into poverty, became a battle slave to provide for his family, then defeated one enemy after the next until he was crowned king of his world.
+
+Nick didn’t know if this was a historical record, great work of art, moral parable, or an extravagant form of entertainment, but he was deeply impressed by the diligent attention to detail and immense effort that had gone into creating the piece. Even Lurk seemed impressed. She reached out to touch the warrior’s image with one claw—careful not to scratch the glass.
+
+“That is an interesting tale,” Bandit said. “It might be a depiction of the System’s promise—the Concept that forms its prime directive. Through conflict, anyone can walk the myriad paths to power and ascend those lofty peaks.” Kenji had another theory, and the two engaged in a friendly debate.
+
+A few miles after the wall came to an end, they passed through a forested area where monsters were plentiful. After persuading Lurk that drawing every predator in the area wasn’t the best idea, they followed some tracks to a glade where a gigantic grub monster was sleeping next to the carcass of a bull-like beast.
+
+Bandit had to leap onto the dino’s head and cover her eyes to keep her from charging in right away. “I know you’re hungry, but we need to keep this quiet. Let us create on opening, and you can enjoy your meal.”
+
+Nick doubted the carnivore would agree, but for once, Lurk was willing to listen. She sat down, drooling while the party came up with a strategy. When they were ready, Nick conjured three Mana Darts and Bandit produced a pair of fist-sized fireballs that circled around his head instead of firing right away—a trick he’d learned from watching Nick’s darts.
+
+When everyone was in position, Nick fired all three missiles at once, with the lemur’s magic following a heartbeat behind. The trio of silvery wedges slammed into the sleeping monster, turning a decent chunk of its vital energy against it.
+
+His attack was sufficient to stun the creature, and Bandit’s fireballs hit it in the eyes, blinding it for good measure. Kenji gave the signal, and Lurk surged forth in a flash, pouncing on the spindly grub and ripping it to pieces within a matter of seconds. Once the dino had devoured both bodies, they moved out of the area before they drew the attention of something they couldn’t defeat so easily.
+
+Nick hadn’t picked up a level from the fight, but he had absorbed some compatible essence and sneaking across a dangerous environment was a good way to train his skills.
+
+Through use, you have improved the following skills:
+
+Stealth has increased from [6] to [7].
+
+Tracking has increased from [11] to [12].
+
+They decided to camp for the night when they came across the ruins of a small museum embedded into the conduit. There was only one way in, and the layout was highly defensible, so after recording everything with his PDA, Nick set the device to sentry mode and tried to salvage what he could.
+
+Most of the art was etched into the floor, but there were several smaller works on the walls that came free from their mountings with a bit of effort. He was quite fond of the unusual pieces, which seemed to be paintings made from molten metal instead of pigment. He put them into his backpack as souvenirs of his journey, gifts for his friends, and a way to bring a brand new-style of art to the people of Earth once mass communication was possible again.
+
+He would normally have reservations about looting culturally significant relics. But in this case, he was saving the artwork instead of stealing it. He was sure their creators would rather have people enjoying their work than let it crumble to dust in a monster-ridden corner of the Labyrinth.
+
+The party set out after everyone had rested, resuming their trek across the uncharted strip of the fringe Earth had been plugged into. As they walked, most of his attention was devoted to scanning his environment for danger while dodging rocks and tails, but by now, his Creativity and Mind were high enough that he could perform numerous tasks at the same time.
+
+Part of his awareness was devoted to deepening his understanding vital energy, essence, and his various abilities, trying to discover the underlying principles that made magic possible and let warriors’ bodies perform superhuman feats using stamina.
+
+From time to time, Nick tried to free cast spells using force, pure, and gravity mana, and he was getting a little better every day. He still hadn’t had much luck with weaving life mana, but he was absorbing it more easily and hoped to learn how to accelerate his healing by watching Lurk’s Regeneration in action.
+
+His Magic had experienced explosive growth after returning to Earth, especially after putting nineteen free points into the attribute from the milestone bonus he’d earned for restoring Blightbane. As such, his spells were far more potent than before, and his Wand of Force hit harder than ever. Even his free casting had considerably more oomph to it, although he had a long way to go before it was anywhere close to his System-granted abilities.
+
+Another part of his awareness was focused on his skills—improving the ones with room to grow and integrating the lessons from the skills that had reached their cap in preparation for taking his trials.
+
+Thanks to his First Among Equals title and Enhanced Versatility trait, he was improving at a rapid rate, and his extraordinary mental stats letting him visualize, perceive, and analyze the mana around him, no matter what else he was doing. Nick had always been quick on the uptake, but he realized that while intelligence was a complex construct, he was smarter than any human from Old Earth by this point, no matter what standard you used.
+
+Even while dividing his focus between his advancement and his surroundings, he had enough processing power to entertain stray thoughts or carry on a conversation. At the moment, he was contemplating Fritz, considering the benefits of having an experienced warrior who counted as a weapon instead of a person.
+
+In a lot of ways, it’s like having a fifth person with us despite the four-member limit. That dynamic will come in handy anytime we tackle a quest or dungeon with party-size restrictions.
+
+On that note, Fritz was awake for several hours each day now that Blightbane’s weapon core had been restored, although the warrior’s soul was still recovering from its centuries-long war with the Crimson Blight while sealed inside a diamond prison. Even still, a few minutes of conversation here and there combined with his daily training in the Blade World let Nick get to know the Kastillan king. By now, he considered the man to be his ally, mentor, and friend.
+
+Whenever he had something to say, Nick relayed Fritz’s words to Bandit, Lurk, and Kenji, so the man could converse with more than one person. I hope I can find a way to let him talk to people directly. I’ll ask the research team to look into it when I get back.
+
+Having a sword master for a companion was an incredible asset. His bladework had improved considerably over the last few weeks—to the point where Kenji had to get serious when they sparred, even though Nick only scored an occasional point against the veteran warrior.
+
+Bandit had requested instruction on his swordplay too, and the four of them spent long hours discussing the art of the blade and battlefield tactics as their journey to the dreadbeast quarantine zone continued.
+
+They engaged in handful of minor skirmishes every day. While they won without much difficulty, Nick was concerned about their teamwork.
+
+Neither Bandit nor Lurk responded reliably to verbal instructions or Tactical Command. The dinosaur didn’t see the value in coordinating their attacks most of the time, and while the lemur tried to follow Kenji’s orders, he tended to get overstimulated in the heat of battle and let his animal instincts take over.
+
+If that wasn’t enough to deal with, Lurk was intent on proving that she was the best fighter in the party, and Bandit had a bad habit of trying to impress everyone with his magic. The men were doing their best to compensate by working with the beasts’ natural tendencies, but if they encountered an enemy that required precise coordination or unconventional tactics to defeat, Nick was worried their slapdash teamwork wouldn’t be sufficient to overcome the challenge.
+
+On a more promising note, their incessant surprise attacks were helping him integrate the lessons from his Evasion skill. After going a full twelve hours without taking a single hit from tail or stone, he decided he was as ready as he could be.
+
+The next time the party stopped to rest, Nick let the others know what he was up, opened his profile, and touched the button beside the skill.
+
+You are qualified to attempt the following trial at this time: Evasion (Journeyman).
+
+Would you like to attempt the Evasion trial now?

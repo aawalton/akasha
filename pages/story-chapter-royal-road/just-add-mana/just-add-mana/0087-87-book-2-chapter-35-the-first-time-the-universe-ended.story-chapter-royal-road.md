@@ -1,0 +1,185 @@
+---
+id: 16267bd5-67e4-5c37-959d-ce09d220cd1a
+page-type-slug: story-chapter-royal-road
+title: "87 — Book 2, Chapter 35 — The First Time the Universe Ended"
+slug: 0087-87-book-2-chapter-35-the-first-time-the-universe-ended
+partOf: just-add-mana
+position: 87
+ownLength: 4023
+unit: words
+ownProgress: 4023
+publishedAt: 2026-01-15
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2945560/87-book-2-chapter-35-the-first-time-the-universe"
+royalRoadId: "2945560"
+markedReadAt: "2026-06-29T18:50:36.892Z"
+---
+
+Cale had known this was coming. It had been coming for a long time, really—long before he'd met these particular apprentices. It wasn't even the first time he'd come close to telling the truth about everything. How many other people had he met that seemed deserving, that he wanted to confess to? Allies, friends, lovers... the moment had never seemed quite right to explain, but Cale was beginning to realize that it never would be.
+
+There wasn't a perfect time. Not for something like this. He could have waited for the rest of his eternal existence and he would never find the perfect moment to confess. Not if he never forgave himself for what he'd had to do, and he never would.
+
+He was just going to have to trust that his apprentices meant what they said. And that no one else present would try to kill him when they knew, he supposed. He would have preferred to do this with just the four of them, but again, there would never really be a perfect time. Temporarily stranded in a pocket realm, with no one except the Named able to spy on them... that would have to do.
+
+"I'm assuming you remember what I told you before, but there's a lot of context I left out," he said eventually. "And some of the people here never heard any of it, so I'll start from the beginning. Or as close to it as I can manage, I guess."
+
+He hesitated briefly. Where did he even begin?
+
+"The cosmology of the Great Realms used to be different," he started hesitantly. "There was no Abyss separating them all, for one thing. Instead, the realms coexisted on what we called the Prime Monolith. Or Yggdrasil. Or the World Tree. It had a lot of names, but you can think of it as something like a mix of a named mythology, a Monolith, and a fundamental pillar of existence. It was a cosmic tree whose roots fed on the Source of Magic itself, with each of its infinite branches hosting one of the Great Realms.
+
+"As you might imagine, traveling between the realms was easier back then. Not easy, necessarily, but doable by any half-decent group of archmages. We called it branch-hopping, and it was a cornerstone of reality, so to speak. Branch-hopping was used to allow entire realms to exchange information, even to trade with one another, and eventually we learned to build worldships—massive vessels capable of branch-hopping without needing archmages to power it.
+
+"There was something of a hierarchy back then. The lower branches were the oldest and most stable of the Great Realms, and they mostly used their knowledge to help. They would send people in worldships branch-hop to the upper branches to teach them the art and help them advance their magical knowledge, and in exchange, they were the first to receive any new advantages that came about from the new magics that grow from each new realm.
+
+"It was... good. Stable. Not perfect by any means, don't get me wrong—branch-hopping was used to commit atrocities, even back then—but the Great Realms were at peace, for the most part. People could explore and learn from other realms, or even escape their own entirely if they didn't fit in."
+
+Cale closed his eyes briefly, remembering. In those days, he had once managed to secure a worldship of his very own. He'd even secured a crew of friends and allies, of people he trusted and that trusted him in turn. For that small, blissful period, he didn't need to lose everything when he died and reincarnated in another world.
+
+His friends would always find him using the signature of his soul, and he would be back on his worldship and amongst his friends, traveling through the branches of Yggdrasil.
+
+It was a time he ached for, even now.
+
+"But a World Tree is not a static thing," he continued eventually, grateful that no one had pushed him during his silence. "By its very nature, it is something that grows. For a long time, we didn't really know what that meant for something like Yggdrasil, but then came Kismet's prophecy."
+
+Cale laughed softly, bitterly. "We thought it was a thing to be celebrated," he said. "He told all the realms that Yggdrasil was entering a time of change and evolution. That the World Tree would soon blossom and bear its first fruit. You should have seen the picture he painted with his words, and I mean that quite literally. When Kismet shares a prophecy, he quite literally paints it into the skies of every realm. Such was the power of the Law of What Must Be.
+
+"He showed us a future in which all realms would be consolidated into... well, the word for it no longer exists, but let's call it a cosmic apple. That was the cycle of growth for Yggdrasil, he said. When enough realms have matured, they merge into a single, complete universe. No more worldships would be needed; simple travel spells would allow us to meet one another, and all the beauty and wonder of the Great Realms would no longer be gated to the elite.
+
+"There was a celebration at first. A great, sweeping festival across every realm advanced enough to understand his words. Everyone knew the benefits that branch-hoppers brought back to their realm, but traveling to a different branch was out of reach for most. Now almost anyone would be able to do it."
+
+His apprentices were all watching him with rapt attention. Flia was the first to realize what was wrong, though, and she frowned after a moment. "It didn't work out that way, did it? The lower branches..."
+
+Cale nodded, looking down. "You saw more than we did at the time," he said quietly. "What we didn't realize was that the lower branches had grown fond of their power. The way they saw it, it was their generosity that had allowed all the other branches to advance as much as they had, so it was their generosity that allowed for all this in the first place.
+
+"To be honest, we aren't sure exactly what happened. Even now, it feels... out of character." Cale hesitated. "Essentially, they decided that they didn't want to lose their position as the foundation of the realms. They saw a future where they might become just another amongst many, and they refused to give up the prestige they earned. So they started preparing. Or maybe they were preparing for a long time; I don't know.
+
+"It turned out they were hoarding the magics they learned from thousands of realms, developing what would later be known as war spells and refining them by testing them on new branches no one discovered yet. They had churches established on nearly every major branch, full of people loyal to them in these tiny little gated communities that minimized their interaction with the locals.
+
+"The moment the consolidation started, they attacked, and it was devastating." Cale closed his eyes again, shuddering at the memory. "The lower branches launched tens of thousands of worldships at once, and you need to understand, building a single one takes an entire realm decades of dedication and resource production. We thought even the lower branches only had a small handful. No one was prepared for an entire fleet of them launching to establish a foothold on every major branch, and even if we had, we couldn't predict their churches hitting every major military with the first known examples of war magic in the Great Realms."
+
+There had been so much death. He and his crew had been on his worldship and between realms, at the time, and they'd glimpsed a fraction of the fleet suddenly pouring through the branches. They hadn't understood the scale of what was happening at the time, but the first realm they visited had been devastated—thousands dead or dying, with the flag of one of the lower branches planted atop their corpses.
+
+It was so pointless. The lower branches had already earned the respect of the rest of Yggdrasil. Why had they felt the need to forcibly declare their dominion? To cause so much devastation? They had sent a rambling explanation at the time, demanding the realms submit to the delegations sent to each branch, but none of it had really made any sense.
+
+Cale and his crew took to helping everyone they could.
+
+Estel healed the injured until he had wrung every last drop of his mana out in exhaustion, developing entirely new spells of life and healing in the process. He summoned vine-golems throughout every city and kingdom they landed in, each capable of triaging and healing the injured.
+
+The vine-golems were powerful, among the strongest of healing spells Cale had ever witnessed; they lasted even once their summoner left. But they also transferred their memories to their caster once a day, and Estel grieved for the death of every single person in his care. His once-bright demeanor grew quiet and sullen.
+
+Sheriya used her magic to keep people in stasis, preventing decay from setting in. When needed, she transported entire cities away from the ships launching spells at them, though it visibly drained her to do it. Her magic had grown by leaps and bounds at the time, all through necessity—she found ways to decay even the war spells, making them break down before they could take effect.
+
+Or some of them, anyway. Many of them were resistant, and she took it personally whenever they resisted her. Cale found her sobbing in her cabin whenever that happened, refusing to speak or eat other than insisting they find the next city they needed to save.
+
+"Cale?" Damien prompted gently, and Cale blinked a few times, ignoring the shakiness of his breath.
+
+"Right," he said. "The... the lower branches attacked, and that became the start of the war. They ignored any attempts at peace talks and razed even the branches that capitulated to their demands; they were determined that every realm have an example of what would happen if they were defied.
+
+"Kismet was horrified. None of this was supposed to happen, apparently. He tried to stop them himself, but somehow the people of the lower branches were just immune to his power over fate, which must have been how they were able to evade him realizing what they would do and warning everyone. Make no mistake, this is the type of thing Monoliths normally step in to prevent, and they relied on Kismet to be able to do so.
+
+"Somehow the lower branches were sealed from Monolith intervention around the time they launched their attack." Cale's tone was grim. "There's a lot we still don't understand about how or why they were able to pull this off. But the result is the same—Kismet, as you all know, tried to take back his prophecy. His power was pushing along the consolidation because of it, and he decided he needed to reverse the events he set in motion.
+
+"When he did that, he broke his own Law. Cannibalized it, in a way. No one knew what that would do, or we would have tried to stop him. Defying his Law destroyed the part of his mind with independent thought, and he went berserk. All his power ended up blindly fueling the consolidation, and he even began helping the lower branches.
+
+"We only realized afterward the lower realms must have somehow engineered that, but again, we don't know how that happened." Cale shook his head, frustrated. "Not even the Monoliths knew that was going to happen, so how could the lower branches? But with Kismet's plan failed and his corpse helping the lower branches, the war was pretty much over. It could have ended there, with their victory and domination of all the other branches, but..."
+
+Cale trailed off, clenching his fists. It could have ended there. It would have been bad, certainly, but the lower branches had obtained everything they wanted and had effectively won; there wasn't a reason for the war to keep going, for even more innocents to die.
+
+Flia was, once again, the first to catch on. "They turned on each other."
+
+"And the war became so much worse," Cale said, his voice and gaze both distant, lost in memory. "There were three factions among the lower branches, and they each controlled about a third of the Great Realms. They started attacking one another, but with all the power they each had, they needed to escalate to bigger and badder spells. Greater atrocities, in the hopes of demoralizing the enemy.
+
+"They created monsters that fed on the torture of souls. Like what happened to Angus, I suppose, but worse. Fueled by everything those monsters killed or ate. Each of their subsidiary kingdoms began funding liches, dark lords, evil gods—anything they thought could give them new ways to destroy each other. Plagues that turned family and friend against one another. Spells that turned bonds of trust and hope into monsters and weapons."
+
+Cale couldn't bring himself to be specific, but the memories played out in his mind, even if he refused to say the words. Thelrik had been one of his closest friends on his worldship, and when the war had escalated, he returned to his home realm to help his people fight for their freedom. He had been their king, once, until Cale had inadvertently abducted him.
+
+His wife, Kelri, ruled in his absence. She was a fair and just queen, and she kept their realm intact in the early stages of the war through compromise and sacrifice both. But she had died when the lower branches turned on one another, forcing their daughter to take the throne, and Thelrik had been unable to stay away.
+
+Cale dropped him off back with his daughter and left, trusting in his strength. He and his daughter were great thinkers and warriors, and there were other realms in need of help from Cale and his crew. A year later, he received a triumphant message from Thelrik, asking him to return to watch their victory and lend his support; they had driven off all but the last of the Cult of the First Branch.
+
+So he returned. He watched as Thelrik and his daughter, Balria—both alive, triumphant, true archmages with their people roaring out their trust for them—began the assault on the final fortress of their enemy.
+
+He watched as the enemy lich chanted a spell and used a magic he had never seen before.
+
+Cale acted on instinct. He threw out a barrier to protect his friends, and a second one to behead the lich and shatter the soul anchor that kept him alive. Sheriya was with him, and chanted a spell of decay to break the lich's chant. Vyron, their Shield-Mage, conjured the best defensive spell he could manage.
+
+But in that era of war, magic had already begun to twist into something cruel and unrecognizable. The lich's spell was something new, something none of them had ever dealt with before. It had all the markings of a holy spell, even. Cale felt it moving through his barrier, drawing on the hope of Balria's people, on the trust they had in her and her father. It surged like a symphony that honored their struggle, weaving into a beautiful image of the Kelri.
+
+For a moment, it was like their hopes and dreams had summoned her as an angel to watch over them. Kelri, the Ruby Queen, Thelrik's wife and Balria's mother, had returned, and would see their enemy ended once and for all.
+
+The war magic that had summoned her was the first instance of a spell using a twisted aspect spawned by the corrupted Source. The spell was one that used the aspect of infernal hope, and it drew on the greatest hopes of its targets to summon an avatar of slaughter.
+
+Kelri had smiled gently, then waved a hand casually. The bonds of hope that had summoned her turned into searing fire. Neither Vyron's shield nor Cale's barrier could do a thing, because that hope came from within.
+
+Thelrik, Balria, and their people all fell into thousands of cauterized bloody pieces in a single instant, and he hadn't been able to do a damn thing.
+
+Cale's resulting roar of pain and anger had left a smoking crater in place of the cult, but that was a small comfort in the wake of what had happened. Especially since Kelri's spectre survived, stolen away into the Cult's armies by a transportation spell embedded in her avatar. The deaths she had wrought until he finally put her down...
+
+"I couldn't protect my friends," Cale said. "I lost them, one by one."
+
+Estel had taken his own life, unable to cope with the constant deaths that plagued his mind. Sheriya simply left without a word. Vyron created his ultimate spell, but it was one that burned his own life force to create a permanent, immutable shield around his home; he effectively transformed himself into an eternal guardian, and his fate had perhaps been the kindest.
+
+"I tried to keep going," he said, though the truth was that he hadn't had much of a choice. With his crew gone, there was no one to bring his worldship to him, and no way for him to hop between worlds without archmages willing to help. The branch-hopping spell was too delicate for him to cast. "I needed more power, so I got it, and I tried to protect the people I could."
+
+Damien stiffened, staring at him closely. "You... got more power," he repeated.
+
+Cale winced. He'd been trying to dance his way around it. "I did."
+
+"You said you gain more mana whenever you reincarnate."
+
+"I also said that, yes."
+
+"Did you—"
+
+"Yes," Cale said, cutting him off. He didn't want to get further into this. He had needed that power to protect each new realm he found himself in, and even then, it hadn't really been enough. He had no idea how many lives he'd spent trying to grow, but he knew he had spent over a thousand lives afterward trying to protect whatever realm he found himself in.
+
+It worked, for a time, but there was always a new spell. Some new corruption of magic he'd never witnessed before that he couldn't yet adjust his barriers to.
+
+"The point is... I tried. I want you to know that. I tried for a long time to be a protector. And when that didn't work, I tried to end it at the root. I killed tyrants and despots. When that didn't work, I tried diplomacy. I trained archmages to help me branch-hop and searched for the best and brightest minds across the realms to find ways to use my power well. To create systems that could resist the Lower Branch Cults, or help establish worlds that could last against them.
+
+"None of it worked. But I tried. I tried everything I could before I went for the last resort. Most of the Monoliths did, too, although some began to work with the Cults, thinking that it would be over if one of them won. The war just grew and grew no matter what we did, and eventually, a small group of us decided it needed to be stopped at the source.
+
+"So we got together. Icon there was a part of it. Vital was, too. The Leviathan. We couldn't let things continue, and the only reason all this was possible and continuing was due to branch-hopping, which was becoming easier and easier as the realms consolidated. The only way to stop this, as far as we knew, would be to destroy Yggdrasil itself."
+
+Cale's breath grew haggard as he remembered against his will; he clenched his fists, trying to stop himself from shaking. It was anger and despair both that welled up from him now. He remembered hating that he had to make the choice, hating that it was the only option he could see. Hating that he knew he would do it anyway.
+
+His apprentices stared at him, shocked. Cale wasn't certain if he even needed to continue; surely by now they would understand the monstrous decision he'd had to make? What he'd done?
+
+Damien reached out and took hold of his hand, squeezing it. Cale froze.
+
+Then he let out a trembling breath and forced himself to continue.
+
+"If you remember, I said that Yggdrasil fed on the Source of Magic," he said quietly. "When we finally went to look at it again, we realized that the corruption of the Source also led to the corruption of the World Tree. It was like it was diseased, and the disease was spreading into the realms, infecting the people within. Making them angrier and crueler.
+
+"It wasn't much of a choice after that. We decided it had to be done. But some of the Monoliths opposed us. They knew what we were proposing would kill an untold number of people. There was no way to cut down Yggdrasil that wouldn't devastate the realms. The best we could do was minimize the impact, have the Leviathan catch the remains of all the realms, and even then..."
+
+Cale sighed.
+
+"We fought our way down through the branches until we could get to the trunk," he said dully. "We fought friends on the way. Friends and enemies both, really, but the friends were the worst. Vital died during that journey. I thought Icon did, too. But I made it, eventually, to the base of Yggdrasil."
+
+"And you cut it down," Damien said quietly.
+
+Cale nodded wearily. "And I cut it down," he said. "It took me seven days."
+
+"We do not have time," the Arrow of Time told him, her voice tight with anxiety. "The others will find us soon. You must do this quickly, Cale."
+
+"I'm doing this as fast as I can," Cale said.
+
+"You are doing it as fast and as carefully as you can," the Arrow of Time said. "But we do not have time for careful. The Source grows more corrupt with each day, and Yggdrasil's will protect it as long as it stands."
+
+"We need to make the time," Cale said. "You don't understand what it's like, Ari. I know this has to be done, but if I'm careless—if I slip even once—that's a whole other realm lost. And I can hear and see them all, Ari. Every time."
+
+The Arrow of Time stared at him. "...I will hold out as long as I can."
+
+"Thank you," Cale said. He lined up the full force of his magic, then slammed it into Yggdrasil again, careful to strike it in the same exact place.
+
+The tree shook. He shut his eyes against the vision that rushed into him—the vision of the sky of a realm being rent open, the people within screaming as they were sucked out into the void. There was no Abyss, then, to hold them. They were gone. Untold lives, untold families, untold innocents.
+
+"How many?" Flia asked, her tone gentle.
+
+Cale had the number memorized, and he repeated it dully. "Seventeen realms were completely destroyed and couldn't be salvaged," he said. "Two hundred and fifteen were severely damaged, with more than half their population dying. Eight thousand, one hundred and twelve took at least minor damage. Ten percent or more deaths."
+
+Damien launched himself at him, and Cale almost flinched before he realized his apprentice was hugging him—and then everyone crowded around him, warm and understanding and impossible, and for the first time in too long, Cale let himself break down.
+
+They would have questions for him, he knew. They might still change their minds when they realized the extent of what he'd done. But for now, they saw only that he needed them as friends, and it was all they needed.
+
+Cale didn't know what he'd done to deserve them, but if they still wanted him after all this, then he was going to have to come back to the academy even if it killed him.

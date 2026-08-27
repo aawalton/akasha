@@ -1,0 +1,107 @@
+---
+id: 313aa87f-8924-5730-a5b5-9da731e5e4ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 135: Guardian of the Tower"
+slug: 0176-chapter-135-guardian-of-the-tower
+partOf: labyrinth-of-the-mad-god
+position: 176
+ownLength: 1734
+unit: words
+publishedAt: 2025-05-28
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2312390/chapter-135-guardian-of-the-tower"
+royalRoadId: "2312390"
+---
+
+After sharing a last, lingering look with Sophia, Nick activated Force Acceleration while readying himself for the fight of his life.
+
+Bands of force-aspected mana wrapped around his muscles, coating his body in a pulsating mantle. Beside him, Devin kicked Flame Dash into high gear—twin plumes erupting behind his boots like an afterburner.
+
+The men burst into motion and went streaking toward the titanic face rising from the rim of rooftop like rockets taking flight—poised to hit the machine with everything they had.
+
+Above them, countless points of light studded the limitless heavens—shimmering jewels along a midnight swath of velvet stained by the milky clouds of distant galaxies.
+
+For just a moment, Nick gazed up at the Earth contrasted against the abyssal blackness of space. He had no idea why a branch of Darkstone Tower had appeared on the moon, but the sight of his homeworld shining in the sky filled him with boundless determination.
+
+At long last, despite the myriad obstacles placed in his path, he had arrived on the roof of the Tower of Rizzen, where the battle that would determine the fate of his people was well underway.
+
+Everywhere he looked, the defenders of humanity were at war with the army of machines emerging from the portals ringing the rooftop.
+
+His people were hard-pressed, but they refused to yield an inch. Team Earth was holding the constructs back while destroying their portals, no matter the cost. Hundreds of people were lying on the ground—dead or injured he didn’t know.
+
+Nick was worried about his friends, but he couldn’t afford to let it distract him. All he could do was focus on his own role and trust them to do the same.
+
+In the handful of heartbeats it took for those thoughts to pass through his head, the immense metal face had grown to fill the entirety of his view. He called upon his Arctic Clarity, overclocking every synapse in his brain to hone his thoughts to a feral lucidity. With Devin soaring beside him, Nick infused Blightbane with pure mana, then got ready to let loose with every scrap of his strength.
+
+I hope Pax knew what she was talking about. Although the titanic machine took the shape of a person, it was just a vehicle for the portals that spawned the clockwork army and the entity that controlled them. The true threat—the Guardian of the Tower of Rizzen and the final trial standing between the Earth’s salvation and annihilation—was inside the colossal contraption.
+
+Taltos had added a hidden modifier to this quest that he thought would seal their doom.
+
+The Guardian was scheduled to appear during the battle’s fourth phase—a foe that would slaughter them all within a matter of minutes. It was a fight Team Earth had no chance of winning while playing by the rules.
+
+If they failed to break the portals fast enough, they would be drowned in a tsunami of killer machines. However, every time a ring was destroyed, the Guardian’s power grew when the energy powering the portal was transferred to it instead. If that wasn’t enough to deal with, if all the portals of the same type were taken offline, the effect would be exponentially stronger.
+
+Even if Team Earth prevailed against the clockwork army and destroyed all the portals, the buffed-up Guardian would appear and annihilate the survivors, precipitating their homeworld’s destruction. It was unfair, underhanded, and cruel—the signature traits of Taltos the Mad God.
+
+Running out the clock wasn’t an option either. The supposed “victory condition” was merely another trap. If they somehow survived long enough to complete the quest that way, they would only secure a platinum species reward, which would leave humanity woefully underpowered to face the dangers of the Labyrinth.
+
+In short, no matter how well humanity’s champions performed during the first three phases, the fourth would seal their doom.
+
+But that was only half the story.
+
+The Fate of Earth quest chain had been created jointly by Taltos and the System—an unbreakable contract forged from magic far beyond Nick’s comprehension. It meant that the danger his people faced must be balanced by an equivalent reward. That a path to victory must exist, no matter how narrow and paved in thorns.
+
+He didn’t pretend to understand the details, but Pax had promised that the System had found a way to balance the scales. If Nick and Devin damaged the gigantic construct that distributed power to the portals, they could trigger the fourth phase early. And if enough portals were still standing when that happened, the Guardian wouldn’t be at full strength.
+
+Once they drew the boss’s ire, it all came down to one last fight. To whether Nick and Devin had what it took to defeat a tier-2 elite.
+
+While the odds might be long, by this point in his adventures, Nick believed in himself and believed in his friends. He had overcome countless challenges and defeated fearsome foes to arrive at this pivotal moment. He was no stranger risking it all and putting his life on the line. If there was even the slightest chance of coming out on top, he would bet on himself and never think twice.
+
+Frigid focus infused every fiber of his being as he closed the final few feet and arrived in front of the machine’s steel-plated face. He added the impetus from his charge to Heavy Blow, praying that it was enough to cause some serious damage.
+
+Wham! Blightbane bit deep into the metal below as his momentum carried him along, carving a gouge across the construct’s cheek like a scar.
+
+Crystal shattered and fell like rain as Devin drove the blade of his axe into an eye the size of a two-story house, then moved to wreck its twin. Nick didn’t know how much machinery they needed to destroy to make this work, so he kept on swinging, slicing away at wires and gears and he dug his way deeper inside the device.
+
+The duo unleashed a flurry of blows as the brave defenders of Earth fought and died all around them. We need to hurry. They can’t hold on much longer without breaking more portals.
+
+The next time his sword came down, the message he’d been waiting for appeared.
+
+System Message: Quest update.
+
+Your actions have triggered the fourth phase of the battle before the 45-minute mark.
+
+The Guardian of Darkstone Tower is coming.
+
+Good luck.
+
+Nick laughed at the bitter irony of those words. The entity that had slaughtered three quarters of humankind and scoured their works from the surface of the Earth was cheering them on like they were on the same team.
+
+Fuck you. It made him furious, but he didn’t have time to indulge in his anger now. Instead, he drew even deeper upon Arctic Clarity—the wintery whetstone honing his soul to a razor’s edge as he got ready to face a tier-2 elite in battle for the first time.
+
+Devin landed on the rooftop beside him, then the men backed up to open some space.
+
+They had enough time to bump fists and deepen their stances before a thunderous crack reverberated across the battlefield—the sound of the massive plate forming the titan’s face unsealing. Nick had thought its jaws would spread to reveal the Guardian within. Instead, the machine’s head swung open like a mask on hinges.
+
+Inside was a massive bank of monitors, displaying images of the battle alongside a legion of graphs. Positioned in the center of it all was a clockwork construct with a maze of wires attached to its body.
+
+It wasn’t any bigger than the mechanical soldiers, but Nick knew with complete and utter certainty that he was gazing upon the Guardian of Darkstone Tower. Its energetic core was blazing bright in his magical senses, shining like the heart of a nuclear reactor.
+
+He could perceive a complex blend of energy flowing around its body, including what he thought was a combat-related essence that gave shape to boss’s concept. They merged to form a coruscating aura of pure, incandescent power.
+
+On top of everything else, the Guardian was radiating killing intent like heat from a bonfire. The men took a reflexive step back when it turned to look at them with the promise of murder gleaming in its eyes. With a series of hisses and clicks, all the attachments fell away, and the clockwork killing machine rose from its seat.
+
+The elite entity reached for a gear-studded staff as it stepped onto the battlefield—a mana-infused weapon he was certain was a powerful artifact. Nick assumed the construct would come charging at him in the blink of an eye. Thus, he was surprised when the Guardian approached at a leisurely pace, and downright astonished when it spoke.
+
+“You figured out how to start the fourth phase early, while leaving a nearly-optimal number of portals intact. How unexpected. This entire climb has been unprecedented. Even on the tier-1 course, it is unheard of for so many participants to reach the rooftop, let alone evolve along the way.”
+
+Nick hadn’t expected the machine to talk, but he didn’t let it distract him. Every molecule in his body was primed and ready to go. The only reason why he hadn’t attacked yet was that Kenji’s units were fighting nearby, and he didn’t want them to get caught in the crossfire.
+
+The Guardian deflected a barrage of missiles with its staff—so graceful that the motion seemed effortless—then came to a stop in front of him.
+
+“While your odds surviving this phase are minimal, I find myself to be pleasantly surprised. Perhaps I’ll be able to enjoy a battle for the first time in centuries. I can see that the proximity of your comrades is holding you back. Let’s take this to somewhere with a bit more elbow room before we begin.”
+
+With that, the Guardian disappeared in a flash. For a second, Nick thought it had launched an attack on his allies, regardless of its words. But then he saw that the machine had come to a stop on an empty section of the rooftop.
+
+The men looked at each other, shrugged, and then followed—relieved that they could fight at full strength without worrying about friendly fire.
+
+Nick raised Blightbane and got ready for the toughest fight of his life as the saga that would determine the fate of his homeworld began its final act.

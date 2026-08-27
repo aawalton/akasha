@@ -1,0 +1,149 @@
+---
+id: 30a7ec5a-fc51-5cdb-86d2-6ba72ac3c1c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54: City-Planning Committee"
+slug: 0237-chapter-54-city-planning-committee
+partOf: labyrinth-of-the-mad-god
+position: 237
+ownLength: 2645
+unit: words
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2684315/chapter-54-city-planning-committee"
+royalRoadId: "2684315"
+---
+
+Nick’s dreams were accompanied by the rhythm of rain tapping against the canopy of his tent. Sophia and Liz had both been in them, but by the time he rubbed the sleep from the corners of his eyes, the details had faded away.
+
+He opened the flap and stepped outside, enjoying the refreshing sensation of cold water dripping down his skin. The drizzle cut off when he walked into the hollow mesa, thanks to a barrier one of the water mages had raised to keep everything inside from getting soaked. He studied the construction with his energetic senses for a few minutes then walked over to the communal kitchen to grab some breakfast.
+
+By the time he finished his plate of griddle cakes and fried eggs, the rain had stopped falling and the sky had begun to lighten with the coming of dawn.
+
+Nick took a lap around the interior of the mesa—chatting with his friends and getting a sense for what his people were up to—then he used Arcane Shield to scale the stone wall and sat down with his legs dangling over the edge.
+
+The elevated position offered an excellent view of the area around the lake, and quite a few people were perched along the rocky perimeter. Together, they watched the sunrise over the City of the Rising Sun. The light shimmered across the wet dirt, highlighting the scalelike pattern the bladewind had left behind, making the amazing display that much more beautiful.
+
+When the show was over, Nick climbed down and walked toward the obelisk jutting up from the center of Aurora’s domain—ready to begin the first official meeting of the city-planning committee. Someone had dragged one of the benches over, which gave them a place to sit while talking the matter through.
+
+The other members arrived a few minutes later, and they began by introducing themselves. The group included five women and four men—Kenji, Elizabeth, Nick, Kerry, two people with civic-engineering experience, an architect, and a structural engineer. Sarah was available to assist with her illusions if needed, but she wasn’t interested in hammering out the details and was over by the lakeshore training her abilities.
+
+Before they dove into the weeds, Nick brought everyone up to speed on the information he had obtained thus far. He let the committee know about the cavern he’d found behind the waterfall and requested the city’s residents pool their knowledge to compile a list of every claimable resource they had discovered while crossing the Bladewind Badlands.
+
+The mana these sites provided was required to power most of the Rare buildings that could obtained with vouchers and was certain to have other uses as well. Regardless of the details, he was confident they would be an invaluable resource over the coming year.
+
+“That’s a good idea.” Kenji nodded. “But we shouldn’t stop there. I’ll assemble a team to talk to everyone in town and create a map that incorporates everything we’ve learned about the biome thus far. It will help this committee make informed decisions and will be useful for advancing our other goals too.”
+
+The group wanted to learn everything they could about regional resources, so Nick wrote down the description the System had provided and passed it around, refreshing himself on the details in the process.
+
+You have discovered a hidden regional resource.
+
+Mana-Infused Waterfall
+
+This waterfall emits a high concentration of water and force mana. The cavern behind the falls is an ideal place to train the body and mind and may have other uses as well.
+
+Cost to claim: 500 CP.
+
+City bonuses once claimed: +1 Water mana generation. +1 Force mana generation.
+
+Status: Unclaimed.
+
+Only a city lord may claim this resource (if it is within their domain and they spend the requisite CP). You may use this facility freely while it remains unclaimed.
+
+While the committee looked over the details, Nick pulled up his City Management menu.
+
+He was pleased to see that his people had earned another 150 BP since he had placed the Weather Barrier. Aurora’s residents were hard at work, completing challenges and quests as they continued to explore the biome. No one had found a dungeon just yet, but he knew it was only a matter of time.
+
+There were also another fifteen applications for residency. When Liz told him they were all elite members of Team Earth who had participated in the battle with the Guardian, he accepted their requests.
+
+By now, everyone had reviewed the information about the hidden resource Nick had discovered. Kenji penciled in some details about several more sites, but none of them were within the city’s domain just yet.
+
+Sarah came by and created an illusory map, annotating the image with all the natural resources, beasts, and System-generated events Team Earth had located so far, including information about the neighboring sub-biomes. Nick added everything from the map he’d been drawing in his journal and shared the recordings he’d made with his magitech PDA. He also pointed out the distant domain he could see while using his Building Placement Menu, approximating the location of the closest settlement.
+
+Kerry made several copies of the compiled map before Sarah dispelled her illusion and left to resume her training. Now that they had completed their analysis of the badlands, the committee was ready to move on.
+
+Last night, Nick had made a list of everything that was available in his building menu, which had taken quite a while even though he could pump out several pages per minute with perfect handwriting. He waited while the committee read through them, practicing his mage sight until everyone finished gathering their thoughts.
+
+This part of the badlands was heavy on earth, wind, and force mana. There was a decent amount of water mana rising from the lake, and the climate was extreme enough to generate fire mana during the hottest part of the day and ice at night.
+
+As always, the life mana permeating the planet was threaded throughout the rest—more prevalent than all the other frequencies combined. Since life mana wasn’t elementally-aspected, he hoped to learn how to use it eventually, but so far, he hadn’t had any luck drawing it into his core. He kept on trying until his colleges were ready to proceed.
+
+“Nick,” Liz said. “As the leader of Aurora, I was hoping that you would share your thoughts on the big picture before we dig into the details.”
+
+“Sure.” He resisted the urge to sigh, acutely aware that she was reinforcing his position with her choice of words and by having him speak first.
+
+“I’ll start with the broad strokes. From my perspective, we have two overarching objectives over the coming year. The first is to do everything in our power to help our residents advance as quickly as possible—prepare ourselves for the ordeal that will begin when the period of protection ends and we are forced to contend with the myriad dangers of the Labyrinth.
+
+“Given how furious Taltos was when he learned about the System’s invasion, we should expect something nasty right off the bat, and it will only get harder from there. We need to develop our defenses sooner rather than later—especially since the System warned us that we need to protect our city core, which implies that it will be attacked at some point.”
+
+By now, everyone was nodding along with his words.
+
+“Our second goal is to create a thriving center of civilization. A place where humanity can pool its knowledge and study the laws of our new reality. We need to preserve our innovations from the old world while researching mana, Psi, and the best methods for leveling up, training skills, and advancing our abilities. It’s also important that we learn how to produce our own magitech and modified items. We need to build facilities that will help bridge the gap between the average person and our elite members, which should also help us prepare to raise the next generation.”
+
+Nick continued outlining everything he’d been thinking about for the last few weeks. His top priories in the short-term were completing the city quests that would let Aurora reach the next tier and using City Points to claim as many regional resources as possible.
+
+“Other than a few more roads, I think it’s best to save our Building Points for claiming magic-generating resources and purchasing big-ticket items like the Weather Barrier that we can’t obtain any other way. Having some points in reserve will grant us flexibility in dealing with emergencies and capitalizing on valuable opportunities.
+
+“None of the buildings redeemable for vouchers that are Uncommon or below are magic in any way, so I don’t see any point in saving them. We should use them to construct facilities that are hard to create with the tools we have, buildings that will jumpstart our manufacturing capabilities, and defensive installations that will enhance the security of the settlement.
+
+“The Rare and Unique options offer powerful advantages that we won’t be able to replicate on our own for quite some time to come. We should think long and hard about the best way to use them, since they will have a significant impact on Aurora’s capabilities going forward. Most of them require mana-generating resources, so we can’t redeem them right away regardless.
+
+“I’ll leave the details up to you, but I was thinking that using vouchers on a smithy, lumbermill, and communal kitchen would be a good place to start. Once we begin building by hand, we should construct a few more barracks for people who don’t want to rough it until we have time to build individual residences.”
+
+Nick sat down after reaching the end of his list—surprised that everyone had listened closely to his every word and waited until he was finished before chiming in. Elizabeth was looking at him with self-satisfaction clear in every crook of her posture. He pretended not to notice, although that only made her smile wider.
+
+“It’s important that we take advantage of the Contribution Token system right out of the gate,” Kerry said. “It will help us distribute resources to accelerate our residents’ individual advancement and the development of Aurora as a whole. I’ll come up with a concrete proposal over the next few days, but I was hoping that we could use one of the vouchers to create a storefront.”
+
+“We should establish a common area near the kitchen and drag some of those benches over to it,” Liz chimed in. “A place where people can meet up, hang out, and gather if we want to make any public announcements.”
+
+“People need to relax after a hard day’s work.” Kenji rubbed his chin. “We should build a stage near the commons—maybe a brewery and a pub once we find the plants we need.”
+
+One of the civic engineers addressed the group next—a gray-haired man named Stan. “If we want to start building in earnest, we need to locate a quarry for stone and build a kiln to make bricks.”
+
+“I recommend a foundry and refinery so we can smelt ore and start producing metal goods,” Stan’s collegue chimed in, followed by the architect and the structural engineer.
+
+“We’ll want a pharmacy for making medicine, which can double as an alchemy lab once we learn more about how that Profession works.”
+
+“Early on, a general workshop will be critical. We’ll need it to build wagons and carts if we want to get the most out of our other facilities.”
+
+This marked the beginning of a lively discussion that continued throughout the morning. In the end, everyone’s suggestions were divided into three categories—priority buildings to obtain using vouchers right away, ones that would be nice to have but could be built by hand relatively soon, and ideas to revisit in the future but weren’t feasible or valuable enough to tackle just yet.
+
+Everyone agreed to ponder the matter and come up with another list of proposals over the next few days. Before they moved on, Stan brought up one final point.
+
+“Right now, we have no idea how fast Aurora is going to grow. It would be wise come up with a framework that can accommodate anywhere between several thousand and several hundred thousand permanent residents.
+
+“To maximize the flexibility and efficiency of the city’s growth, I suggest we adapt a modular approach to its design. We can come up with a template that can handle up to 20,000 people then repeat it every time we need to expand. Each slice of the city can be built around the lake, with the goal of eventually forming a complete circle, after which we should start building new settlements rather than expanding Aurora.
+
+“I recommend we subdivide each slice into three districts. The tightly-connected inner district is ideal for administration, commerce, and entertainment. Behind that, we can add a residential district, followed by the industrial part of town—set far enough back the noise won’t bother anyone, and resources being transported won’t create congestion along the interior streets. Behind each slice we can build defensive installations like watchtowers, guard stations, and eventually a wall.”
+
+Everyone liked the idea, and when the committee reconvened after a quick lunch break, Stan shared a sketch of his proposal for Aurora’s first districts and the roads running between them. The committee dove into the details, and before long, everyone had agreed on the next batch of buildings they wanted to place and decided on their locations.
+
+Nick began by laying down the thoroughfares, starting with a ring-road that circled part of the lake, then adding two wide streets that stemmed from it like the spokes on a wheel. He placed two more ring roads further out, which marked the boundaries of the districts, and finished with some smaller streets to create individual blocks.
+
+There was a lot of open space between them, but the districts would come up fast once the construction teams were up and running. Next, he used his vouchers to purchase the structures they had picked out, working with his team to ensure they were in ideal locations.
+
+Most of the town’s residents had walked over to watch, cheering as new structure materialized. Nick had paused the building notifications until he’d placed the last one, then sent the updates out all at once.
+
+The leader of Aurora has purchased:
+
+1 Communal Kitchen and Mess Hall (Common)
+
+2 Wells (Common)
+
+1 Workshop (Common)
+
+1 Industrial Kiln (Uncommon)
+
+1 Lumbermill (Uncommon)
+
+1 Public Bathhouse (Uncommon)
+
+1 Smithy (Uncommon)
+
+Now that the committee was done for the day, Nick climbed to the top of the hollow mesa to take in everything they’d accomplished. It blew him away to see the foundation of their new home rising from the badlands, grinning as he imagined what the city would look like by the time they were done.
+
+He turned when he heard footsteps approaching, waving as Veronica and Devin sat down beside him. They were holding hands, and it was clear their relationship had deepened over the past few weeks. His friends’ joy in one another made him happy but also reminded him of his own, increasingly complex love life.
+
+“This is quite a sight,” V said. “We’ve come a long way since the System arrived.”
+
+“And this is only the beginning,” Devin added. "I’ll never forgive the System or the Mad God but watching humanity rebuild fills me with hope for the future.” They chatted for the better part of an hour, taking a break to enjoy each other’s company before moving onto weightier matters.
+
+When they bid each other farewell, Nick decided it was a perfect time to check out one of Aurora’s brand-new buildings. He reached into his backpack and pulled out a towel, looking forward to taking his first hot bath on New Earth before Ella whipped him into shape for his Sword-skill trial.

@@ -1,0 +1,155 @@
+---
+id: 4e0995db-b9c1-5a57-863c-1c90f6fa079b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 137: Starlit Showdown"
+slug: 0178-chapter-137-starlit-showdown
+partOf: labyrinth-of-the-mad-god
+position: 178
+ownLength: 2916
+unit: words
+publishedAt: 2025-06-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2325289/chapter-137-starlit-showdown"
+royalRoadId: "2325289"
+---
+
+The living machine took its stance and bowed—clearly enjoying the moment.
+
+While Devin cracked his neck and whirled his axe around his shoulders, Nick flourished Blightbane and gestured for the elite to come at them.
+
+Artic Clarity flowed like ice in his veins, honing his thoughts to a feral lucidity as the most important moment of his life began. Everything that he had experienced until now—the struggles and growth and pain—all came down to the next handful of blood-soaked seconds.
+
+While the last battle for Earth thundered all around them, its champions got ready to rumble. Nick and Devin raised their weapons and braced for impact as their starlit showdown ensued.
+
+The Guardian accepted Nick’s invitation and came surging toward him with blinding speed. Inexorable flows of force armored its gleaming frame, and conflagration rose from its axe like a living avatar of flame.
+
+Its first attack nearly took them both out—a sweeping strike that spewed a torrent of white-hot blaze. But Nick had conjured an Arcane Shield when he felt the temperature spike.
+
+The wave of liquid flame parted when it encountered the magical blockade, blistering his skin but not causing any serious damage. The surrounding stones were glowing red, but the men were mostly unscathed.
+
+The machine frowned as it contemplated the multilayered barrier, then shrugged and pressed its assault. Its next strike shattered the Arcane Shield, then it raised its glowing gear-axe high, preparing to vent another wedge of searing mana.
+
+Before the construct’s weapon came down, a blast from Nick’s wand stopped its arm cold, causing the next spew of flame to erupt straight up instead.
+
+More fire lit up the night as Devin Flame Dashed to close the distance, then let loose with mighty blow. The Guardian brought its weapon to bear just in time to block, but Blast Striking combined with an assist from Nick’s wand sent the killer construct flying back in a low arc.
+
+The brass warrior landed lightly on its feet. It spun to regain control over its momentum before charging them again.
+
+Nick realized that the boss wasn’t smiling anymore. It seemed irritated after being thwarted twice and then forced to defend, although their attacks hadn’t done any appreciable damage. The fiery mana wreathing its axe had dimmed over the last few seconds, letting the weapon cool while it engaged them blade to blade.
+
+This marked the beginning of a fierce exchange of blows, as both men and machine did their best to overpower the other and end the fight in a flash. In that moment, they seemed evenly matched, and the fate of humanity sat balanced on the edge of a knife.
+
+The Guardian was stronger, and its abilities were lethal, but it couldn’t endure their heaviest hits without taking some damage in the process. Nick and Devin attacked in a seamless combination, drawing upon everything they had learned during their month of training, and the teamwork they’d developed while climbing the tower together. Whenever the machine focused on one man, the other attacked from behind, dividing its attention long enough to land an occasional blow.
+
+Devin’s Rare class had come with several new abilities, and this was Nick’s first time watching them in action. One coated his body in a layer of lavalike mana, providing extra defense with some damage on the side. Even the Guardian felt the sting when it touched Devin’s Blazing Armor. While it snapped a few kicks at Nick, it didn’t send any his way, although its axe was able to withstand the heat.
+
+Every time that Devin absorbed enough blows, he retaliated with Flashfire Pulse. His body glowed for a fraction of a second before an incandescent wedge of flame shot out. The Guardian was able to split the flow by using its artifact weapon, but the move kept it in place for a crucial second, creating openings for Nick to exploit.
+
+He eventually landed a few slashes that scratched the machine’s body, although it dodged every time that he tried hit it with pure mana or land a Heavy Blow. While this was a promising development, it wasn’t all good news.
+
+The duo tried their best to evade the construct’s attacks, but they couldn’t avoid them all. Every time it scored more than a glancing blow, they were flung across the battlefield. Some of its swings unleashed a cascade of flame, driving them back while reducing their field of view.
+
+By now, both men were covered in bruises and burns. Blood ran down their bodies from dozens of minor cuts and their skin was blistered and scorched.
+
+It hurt like hell, but they were still standing strong and determined to give it their all. No matter what price they had to pay, they refused to fall without taking their enemy down.
+
+Before the machine could land another blow, Nick reached toward his belt and unsheathed his wand. He darted in close and ducked down low. Then he pointed the business end of the force-flinging device at his opponent and fired twice back-to-back. The twin shockwaves caught the Guardian by surprise and launched it high into the air.
+
+The warriors looked at each other, then went charging for the construct with their weapons poised to strike. Thanks to Force Acceleration and Flame Dash, they were able to close the distance before their opponent landed, unleashing their strongest attacks in streaking series of strikes.
+
+As skilled as the Guardian was, it couldn’t block them all. It took some hits on its brass plates that left scrapes and dents behind.
+
+By this point, Nick had noticed that the machine was prioritizing evading Blightbane whenever the blade was infused with pure mana. Despite all its power, the Guardian is still a construct and it’s vulnerable to having its internal energy disrupted. One good hit should bring it down. I’ll put everything I have into the next attack and try to break through its guard.
+
+He waited until the clockwork elite was distracted, then went in for the kill. Time seemed to slow as he pushed pure mana into his sword until it was shining like the moon. Then he cranked up Force Acceleration to the max and activated Heavy Blow.
+
+Since Heavy Blow was a combat art, its output scaled with Nick’s physical attributes instead of his Magic like his other powers. As a result, the ability’s damage had been multiplied from the gains he’d acquired after subsuming the Crimson Blight and his milestone bonus for evolving.
+
+When he willed Heavy Blow to activate, stamina surged into his body from the well that held the vital energy, coursing through his arms to enable an incredible burst of power.
+
+The speed of his swing abruptly increased, transforming Blightbane into a metallic smear as it went screaming for the Guardian like destruction incarnate. He saw a flash of fear in the machine’s eyes as time resumed its full course, burning through its energetic reserves to bring its gear-axe up in time.
+
+Blightbane collided with the clockwork artifact with the force of an artillery strike. A chiming clang reverberated across the open air as the construct flew back like it had been dropkicked by a titan. Fire and force shot out from its frame as it struggled to keep itself from being blown off the battlefield.
+
+It landed over a hundred feet away, and before it could recover its stance, Devin and Nick were there.
+
+Nick let loose time and time again, driving the machine back across the rooftop. Whenever it tried to launch a counterattack, Devin stood in its way, chopping away with his battleaxe in an endless procession of explosive devastation.
+
+We can do this. The light of hope filled Nick like the rising sun. This is the toughest opponent I’ve ever faced, but with Devin at my side, I know we can come out on top.
+
+Sensing victory slipping through its grasp, the Guardian tried a new tactic. It swung its axe and then let go, transforming the weapon into a spinning circle of blaze. The flame-spewing axe flew toward the men like a heat-seeking missile, sending them scrambling to get out of the way.
+
+Meanwhile, the machine gestured, and force mana flew out from its core to form a wall, shielding its body from attacks from the front. The men were forced to split apart so that the burning blade could only target one of them at a time.
+
+While Nick performed one desperate dodge after the next, Devin turned and used an ability that Nick hadn’t seen before.
+
+Heavy flows of fire mana congealed along the blade of his axe as the warrior raised the weapon above his head and then sent it crashing down, transferring all the magic into the ground. The tower rumbled beneath Nick’s boots as the stones spit open beneath the ability-bolstered impact, revealing an ominous red glow rising from below.
+
+The fissure spread in the blink of an eye, crossing the distance between the Magma Warrior and the Guardian, who had been late to notice the attack coming while focusing on controlling its flying blade.
+
+The crack traveled under the wall of force, then arrived at the machine’s feet. In that moment, the rift widened, and all the flaming mana came surging to the surface, bathing the killer construct in an electric torrent of lava.
+
+“Volcanic Fissure.” Devin grinned as he wiped the sweat from his brow. “I think I’m really going to enjoy using this one.”
+
+The Guardian stepped out of the neon spray, glowing cherry red as its weapon flew back into its hand. A thin series of fins had protruded from its shoulder blades, forming a magical radiator that carried the heat away.
+
+“Hit it with that power again,” Nick said as he fought to regain his breath. “We might be able to slow it down if we can make it overheat.”
+
+Although black spots of exhaustion were dancing before his eyes, Nick didn’t have a moment to lose and took advantage of the opening to cast his first spells of the fight. By this point, he had already conjured three Mana Darts, and Piercing Ray had just finished charging.
+
+The tactical portion of his brain was constantly scanning the ever-changing battlefield. It informed him that the construct’s wall of force was down, and its axe had ceased to glow. It’s starting to conserve mana. Its core is deep, but not endless, and it can only take so much heat. It can’t keep this up forever.
+
+While that thought passed through his head, Nick visualized his trajectory and fired, sending each spell soaring along a different trajectory.
+
+The Guardian was able to dodge two of the Mana Darts headed its way, but Piercing Ray was lightning-quick and came streaking for its head. The machine deflected the final dart with its clockwork weapon, but it couldn’t evade Nick’s drill.
+
+It raised one hand and took the spell on the back of its forearm instead, which was coated in a dense layer of force mana that served as magical armor. The ball of kinetic energy in Nick’s hands rapidly shrank, transferring its power into the rotating ray. Come on. This has to work.
+
+The powers might have canceled each other out if the contest was only force versus force. But the head of his drill contained pure mana and punched through the Guardian’s Force Armor. As the whirling bit reached its maximum speed, flakes of brass began raining to the ground.
+
+In the end, Nick’s spell was sufficient to punch through the protective plate, but it couldn’t finish the job. While Piercing Ray had caused some internal damage, it couldn’t claim the construct’s arm. At least I know that my spells can hurt it. I’ll try to hit it again.
+
+Before anyone could make their next move, they were interrupted by a group of constructs that came charging across the rooftop, momentarily forcing the combatants apart.
+
+Nick used Heavy Blow to cut straight through a clockwork gorilla. Meanwhile, Devin buried his axe up to the hilt in the back of a giant brass bear. The weapon shone like the sun before Blast Striking kicked in and reduced the machine to scrap.
+
+The Guardian scowled in irritation at the involuntary intermission—force mana gathering along the end of its weapon before it let loose with a powerful slam that vibrated Nick’s teeth within his jaw. The shockwave rippled forth, tossing the remaining machines out of their way as the boss rushed to rejoin the fight.
+
+Nick could never have endured the blitzkrieg that followed before evolving and becoming a Force Weaver. The machine’s attacks were insanely fast. Even while using Force Acceleration to the fullest, there was barely enough time react as the elite construct let loose a flurry of deadly blows within a fleeting handful of heartbeats.
+
+He would have been caught by its area of effect abilities if it wasn’t for his upgraded mana senses. A fraction of a second before the Guardian caught him with an overpowered spell, Nick could sense the energy flowing out from its core as the magic began to take shape. It offered him an extra fraction of an instant to start moving out of the way, letting him dodge one lethal power after the next with milliseconds to spare.
+
+Devin could sense the machine’s fire mana thanks to his elemental affinity, but not the force attacks the construct was sending his way. As a result, he was taking more damage than Nick and had to pull back to give himself time to react.
+
+The Magma Warrior switched to using Volcanic Fissure exclusively, shattering the rooftop as spews of lava fell like rain. The last one was a direct hit, bathing the Guadian in a fountain of incandescent mana.
+
+It gave Nick a moment to recover. By now, he was battered and weary, and his mana was running on fumes—a perfect time for a little pick-me-up. While sliding his wand into its beltloop, he noticed that his flask had already refilled, recharged by the incredible volume of magic saturating the rooftop.
+
+He reached down to his belt and removed his Elixir of Restoration, popping the cap and downing the flask in a single motion before slipping the vial back into its holster.
+
+Warmth suffused his body when the potent concoction reached his stomach. His wounds pulled themselves closed, and his fatigue began to fade. Mana came welling out of his energetic core as the magical brew restored a portion of all three vital energies and put the wind back in his sails.
+
+He had only stepped away for a couple of seconds, but during that time, the flow of battle had shifted once more. The machine had weathered its lava bath and came charging forth, heading straight for Devin while fire and flame engulfed its frame. It’s going to hit him as hard as it can. I won’t be able to get there in time.
+
+Sure enough, the construct’s opening strike broke through Devin’s guard and sent him staggering to one side. Then the clockwork axe came up and around, lining up a fatal blow. Adrenaline surged into Nick’s veins like a damn bursting, and he feared for the life of his friend.
+
+The Guardian’s axe descended for Devin’s neck with incredible force—so fast that the man couldn’t hope to get out of the way. His eyes widened with terror as he internalized the fact that if the blade landed, it was going to cleave its head from his shoulders.
+
+The warrior tried to bring his weapon to bear, but there simply wasn’t enough time. The Guardian smiled as it went in for the kill, eager to bring the pain.
+
+The grin slid off its clockwork features half a heartbeat later and it let out a howl of rage.
+
+Mere inches before its weapon struck true, a barrier had shimmered into existence—formed from a complex weave of force and pure mana. Left with no other option, Nick had gambled that his newest spell could save his friend, and he’d begun casting Arcane Shield the instant the Guardian began its swing.
+
+The artifact weapon crashed into Nick’s barrier with meteoric force. The impact cracked the mana-forged shield. It absorbed the force of the blow before crumbling into fading fragments of light a fraction of a second later.
+
+While it had been far too close, the spell had done its job, giving Devin a chance to dart out of the way. “Thanks, Nick,” he called out. “When we get back to Earth, drinks are on me.”
+
+That was when the Guardian of Darkstone Tower—the final opponent standing between humanity and their lost homeworld—came to a stop. Nick felt a deep foreboding when he realized that it didn’t look discouraged at all. Despite a few moments of frustration, the boss seemed pleased by this turn of events.
+
+Then it said something that made Nick’s blood run cold.
+
+“That will do for a warmup. I suppose that your achievements were no mere fluke after all. Rejoice in your final moments, for I have judged you worthy of facing my true strength. Now that my examination is complete, it’s time to end this.”
+
+Then the Guardian addressed something floating nearby that Nick couldn’t perceive. “In accordance with our contract of engagement, I am removing my Tier-1 Limiter. Increasing core output and ability performance to Tier-2. Authorization code: Taltos-3874.”
+
+“Oh shit,” Devin said, mirroring Nick’s train of thought verbatim. “The boss has a second form.”

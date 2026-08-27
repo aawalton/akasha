@@ -1,0 +1,149 @@
+---
+id: a73e491f-2880-5c88-a3ec-f8271b6a53cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Into the Labyrinth"
+slug: 0183-chapter-1-into-the-labyrinth
+partOf: labyrinth-of-the-mad-god
+position: 183
+ownLength: 2769
+unit: words
+publishedAt: 2025-06-18
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2366975/chapter-1-into-the-labyrinth"
+royalRoadId: "2366975"
+---
+
+One second, Nick had his arms wrapped around Sophia, savoring the sensation of her lips pressed against his own and the boundless warmth of her presence.
+
+The next, the world vanished in a flash of light.
+
+When Nick opened his eyes, he was staring down at the Earth.
+
+From the rooftop of the Tower of Rizzen, the planet had looked like a great, glowing ball—resplendent cerulean curves contrasted against the blackness of outer space. Now his homeworld filled the entirety of his vision.
+
+It was a scene reminiscent of the dream he’d had just before the System arrived and erased the world that was, awakened his species to magic, and changed the fundamental nature of what it meant to be human.
+
+There were, however, two important differences.
+
+The first was that instead of being alone, Nick could see thousands of people floating beside him—everyone who had participated in the Fate of Earth quest chain, culminating in their decisive battle with the Guardian of Darkstone Tower.
+
+The second was the bubble of magic encasing the Earth, the moon, and everyone floating in orbit within a sparkling shell of neon light.
+
+Before he had time to wonder what it was or process what was happening, a message from the System wavered into existence.
+
+Standby for integration into the Labyrinth of the Mad God.
+
+Negotiating with the Gatekeeper to authorize passage through the Dead Zone and ensuring that contract encryption remains uncorrupted…
+
+Authorization complete.
+
+The Earth’s agreement with Taltos is inviolate.
+
+Shrouds of anonymity and protection have been established, and its inhabitants have been guaranteed full citizenship within the Labyrinth.
+
+Be advised: Your planet has been disconnected from the portal network forming System-integrated space.
+
+Initiating wide-scale teleportation sequence in 10 seconds.
+
+Shortly after Nick read the last word, everything inside the shimmering cosmic bubble began gliding across the void between worlds, heading into the unknown at breakneck speed.
+
+He watched as the other planets in the solar system went whizzing past, catching a brief glimpse of Jupiter and Saturn streaking across the sky. Then he was out past Pluto, and the sun shrank from a fiery sphere to a dwindling speck in the distance—the last time anyone from Earth would see its light.
+
+It was around this time that Nick figured out what was happening. We only won back the Earth, not the rest of the solar system.
+
+It was something that he hadn’t really thought about until that moment—what it truly meant for his homeworld to be stolen by the Mad God. Bidding farewell to the planets that had journeyed across the night sky since the dawn of life on Earth filled him with an indescribable sense of loss. But at least everyone down on the surface was safe, and the moon had come along for the ride.
+
+The stars began to move as the process picked up speed. The bubble began gliding across the heavens faster and then faster still, until those distant suns were streaking past so fast that they formed solid lines of light.
+
+The next thing he knew, there was a tremendous sense of pressure and Nick’s mind expanded beyond the boundary of his body—a state of being that he’d become intimately familiar with during his various interstellar journeys. He could still see the magic bubble encapsulating his planet, but his senses now extended far beyond it and he was able to witness this epic moment from a superior vantage point.
+
+By now, he knew that his Portal Visionary technique was responsible for the visions he’d had at key moments in his adventures, although he still didn’t understand how it worked. The effect altered his perception of time and space, letting him observe events that were normally too big to grasp within the Theater of his Mind’s Eye, which was another one of his techniques.
+
+Maybe it’s the result of both powers working together, he mused while watching the show. He realized that while parts of his tutorial and the Fate of Earth quest chain had taken place within the Labyrinth, the planet itself hadn’t been moved until its future had been decided.
+
+As his senses unfurled like a blossom greeting the sun, Nick focused on the great bands of magic that bound the multiverse together—radiant rivers formed from mana, cosmic energy, and primeval forces he lacked the vocabulary to describe.
+
+All around him flowed the tapestry of power that formed integrated space. If he understood the matter properly, each thread was a link in the portal network that let the inhabitants of every world that had been touched by the System travel across incomprehensibly vast distances within a matter of minutes, making roaming across the galaxy no more arduous than walking across the street.
+
+Nick realized that the great glowing web reminded him of the mural he’d seen on a gate near the end of his tutorial, right before the Searing Isle started sinking into the sea.
+
+When he focused on the totality of the radiant display, he grasped that it wasn’t just the System’s magic he was sensing. He could perceive the nature of the System’s influence too, following its primary directive of cultivating strength through conflict, no matter the price.
+
+Integrated space was built upon a foundation of endless competition—comprised of entire galaxies at war. It was a place where a million souls were lost along the wayside for every contender that ascended to the lofty peaks of power.
+
+As brutally indifferent as the System was—willing to watch worlds burn on the chance that a champion would rise from the smoldering rubble—there was a sense of fairness to it all. Within the multiverse-spanning AI’s domain, success was always rewarded and strength flowed from adversity.
+
+That knowledge did nothing to quell his hatred. Nick was intimately familiar with how little comfort that truth offered to those whose lives and loved ones were sacrificed in the process.
+
+Although he was perceiving a fundamental truth, that was only the beginning. As greatly as his mind was expanded in this moment, he could tell that this understanding was only the tip of the iceberg—one small facet on a jewel that spanned the cosmos.
+
+Beyond the machinations of men and beast lay the realm of the gods—incomprehensibly powerful beings fighting for resources, magical energy, and fresh recruits in an endless cycle. Clashes and ambitions that spanned millennia and more.
+
+How long Nick contemplated the System and the countless lives that danced upon its palm, he would never know. But as he skated along the perimeter of integrated space, he grasped that as powerful as the System was, its reach was limited. There was an even deeper level to the conflicts permeating the cosmos, and it was just one player in the game.
+
+From this far out, he could see the borders of the System’s domain, and soon the grand tapestry of the portal network came to an end.
+
+Ahead was a jagged, ragged break in the energy flowing between the stars—like the threads of the System’s magic had been severed by galactic shears. Nick turned his attention to this gulf between two vast interstellar territories. There were only a handful of lines connecting one side to the other, each side blocked by a gateway reinforced by unfathomable arcane might. This must be what Pax called the Dead Zone.
+
+While these thoughts passed through his head, the planet approached one of the channels that threaded the rift in the fabric of space and time. As the Earth drew near, Nick received his biggest shock so far on one of the most mind-blowing days of his life. There was a guardian stationed at the gate—a titanic entity that felt almost as powerful as the gods themselves.
+
+The demigod was covered in ruby red armor that obscured its features, and it carried a burning sword the size of a continent. When it saw the Earth approaching, it unlocked the seal barring the conduit and threw the door wide, allowing the bubble and its contents to pass through.
+
+The trip through the cosmic tunnel took quite a while, even in this altered state of being. The Dead Zone is immense, even on a galactic scale. He wasn’t sure if the matter within the rift had been removed or if he were gazing at a wound carved into reality itself. Now I know why invading Taltos’s realm is so difficult. I wonder how he sneaks across.
+
+When Nick turned his head toward his destination, all such contemplations were driven from his mind. Because that was when he got his first look at what could only be the Labyrinth of the Mad God.
+
+While it was rich in magical energy, the Labyrinth’s structure was profoundly different from the orderly weave of System-integrated space. Instead of a latticework formed from interconnected worlds, this place was a tangled skein of portal conduits—a twisted maze of planets, dimensions, and other planes of existence.
+
+Each pocket of stable space had several connections leading to its nearest neighbors, and they were lumped into larger structures that he thought might be sectors. The conduits running between the sectors were winding and branching, woven around each other without touching in most places.
+
+The sheer scale and overwhelming complexity of what Nick was seeing boggled his brain. Even if he had the power to travel from one planet to another, navigating the Labyrinth was an incomprehensible feat, requiring skills and tools far beyond his understanding.
+
+And yet, at the same time, he was able to get a sense of Taltos’s domain as a whole.
+
+System-integrated space had a shape, and the Labyrinth did too. This knotted expanse was endlessly growing, transforming, and mutating according to its nature—a chaotic jumble in a constant state of flux.
+
+While all of that was fascinating to behold. Nick sensed that there was a secret hidden within its strange state of being. When he focused on the feeling, he realized that this caged chunk of the cosmos seemed almost… alive. It was cruel and hungry—eager to swallow fresh worlds, then bend its inhabitants to its will. He grasped that this place was home to its own eternal conflict. It felt dark and sinister—a warped reflection of the brutal war for supremacy spawned by the System.
+
+Knowing that this might be his only chance to view the Labyrinth as a whole, Nick willed himself to peer deeper—to impose order and meaning upon this chaotic and ravenous realm.
+
+In the Theater of his Mind’s Eye, he visualized the Labyrinth as a spider’s web. Sitting in the center was the throne of the Mad God—sectors that were fully under Taltos’s sway. He was surprised to learn that this region was only a slim fraction of the whole. Nick tried to look inside and learn more about the true nature of humanity’s enemy. However, his vision was obfuscated, and the heart of the Labyrinth remained as inscrutable as Taltos himself.
+
+Meanwhile, the Earth continued streaking across the cosmos, emerging from the channel spanning the Dead Zone and then soaring into the maze. That was the moment that humanity entered the Labyrinth—a visceral shift that Nick could feel in his gut, even in this disembodied state.
+
+He sensed the System loosen its grasp upon entering the Mad God’s realm, before gripping tight once more. Somehow, the contract it had made with Taltos regarding the fate of the Earth allowed it to maintain its authority over the planet and the pocket of stable space that surrounded it.
+
+Then the System’s presence abruptly vanished. Nick intuited that it was still there, employing a god-class version of a stealth spell to conceal its influence. He was certain that this event held monumental significance, but it was ultimately a mystery for another day. Right now, he needed to learn everything that he could before his vision came to an end.
+
+Ringing the center of the Mad God’s web were four quadrants formed from thousands of sectors. Each territory was controlled by an incomprehensibly-powerful entity—second only to Taltos himself.
+
+Based on what he had learned so far, Nick was certain that they belonged to the Mad God’s pantheon—four lesser gods engaged in an endless war. He could only get a vague sense of their nature from this far out. An impression that each deity was driven by a different desire.
+
+The first sought entertainment to the exclusion of all else, playing with lives like the pieces on a board. The next coveted all worldly possessions, but what it truly loved was to lure people to their doom, laughing as they fell prey to their own greed.
+
+The third realm was the stuff of nightmares, and its ruler frightened Nick to the marrow of his bones. Its god delighted in anguish in every shade and shape, torturing its victims until their minds shattered.
+
+Nick realized that the last deity’s presence felt familiar, evoking the memory of the Herald of Slaughter he had encountered in the Grand Arena of Papillion—the girl with wings the color of blood who had threatened to extinguish his soul by simply standing in her presence.
+
+That realm was the most savage of the lot. A dominion where people fought not for conquest, riches, or glory, but for the sheer delight of death and dismemberment. Not reveling in the suffering of their foes, but in the pure ecstasy of carnage.
+
+For a long and terrifying moment, Nick thought that the Earth would land in one of those territories—a fate certain to be even worse than the destruction of his homeworld. But to his overwhelming relief, the bubble kept on going, zipping along the Labyrinth’s tangled skein as it sailed toward the periphery.
+
+Past the regions claimed by Taltos and his pantheon was the final layer of the Labyrinth—the fringe of a tapestry that was constantly expanding. Nick could see dozens of other planets being woven into the web at this very moment, forming new sectors along the edge. This must be what Pax called the outskirts. The place where the Earth will be plugged into that vast, bewildering maze.
+
+The energy emanating from the outskirts was different from the rest of the Labyrinth. It felt dark and sinister, but not yet wholly corrupt. He could still perceive the touch of the System here, although it was tepid and wan—a place where the System could only access a fraction of its power.
+
+The Earth kept zooming along at a mind-numbing speed, passing through a network of nodes and gates—branches, switchbacks, and hidden egresses. The sectors and the connections running between them were fewer here, and the path they followed felt fey and feral.
+
+Around this time, Nick realized that his ride was slowing. That the Earth had almost arrived at its new cosmic address. When he looked around, he saw that this sector was only half-formed. There were only a few other planets nearby, with what he thought might be other dimensions woven between them. There were still portals and conduits linking them together, but these connections were far sparser than anywhere else in the Labyrinth.
+
+Then, just as abruptly as it had begun, this strange interstellar journey came to an end. The Earth locked into orbit around a yellow star, which was destined to become humanity’s new sun.
+
+The bubble of magic remained in position, shielding the Earth and blocking access to the adjoining planets. If Nick understood what he’d read on the roof of Darkstone Tower, the Shroud would also keep the Earth’s identity a secret, even from Taltos himself—a claim that wound up being put to the test just a few seconds later.
+
+Nick sensed an ominous aura rising from the center of the Labyrinth. The furious presence washed over the great weave, slithering across the outskirts like a viper poised to strike. After standing in Taltos’s presence on several occasions, he knew that it was a manifestation of the Mad God. That the deity was searching for the worlds that the System had seeded with champions and then tricked him into stealing. If he finds us, he’s going to rip the planet apart.
+
+But the Labyrinth was an immense place, even for such a powerful being. And for reasons that Nick didn’t fully understand, the System’s influence over the Earth was barely diminished, unlike the rest of Taltos’s realm.
+
+He recoiled from that piercing stare, certain in that moment that the end was nigh, before the Mad God’s manifestation moved past as quickly as it had arrived.
+
+Before he could even begin to process everything he’d witnessed, a wave of light broke over Nick and his consciousness was extinguished like a spent matchstick.

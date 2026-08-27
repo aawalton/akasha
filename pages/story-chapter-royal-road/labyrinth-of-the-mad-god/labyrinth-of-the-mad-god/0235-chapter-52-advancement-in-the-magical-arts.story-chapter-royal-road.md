@@ -1,0 +1,93 @@
+---
+id: ba235fab-9f33-57e9-8feb-a6b990e15d3c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52: Advancement in the Magical Arts"
+slug: 0235-chapter-52-advancement-in-the-magical-arts
+partOf: labyrinth-of-the-mad-god
+position: 235
+ownLength: 1887
+unit: words
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2673906/chapter-52-advancement-in-the-magical-arts"
+royalRoadId: "2673906"
+---
+
+After speaking with Ella, Nick left the budding city of Aurora and walked into the badlands.
+
+Once he was a few miles out, he found a flat rock that stood in the shadow of a larger stone, took off his pack, then sat down and made himself comfortable. He planned to work out a little later in the day, but he wanted to spend the rest of the afternoon on mana-manipulation exercises in the hope of advancing another ability.
+
+Before he lost himself in magical experimentation, there was one other matter he wanted to attend to first. Blightbane had spoken inside Nick’s mind during the battle with the Armada Wurm, offering a critical insight that had saved his life. While he had received vague sensations from the sword in the past, this was something else entirely and warranted further investigation.
+
+Rita and Gretta had told him the artifact was gradually restoring itself—that the damage to the weapon’s core was even more extensive than the erosion to the blade. He had been hoping the sword would grow more powerful over time, maybe gain a few new modifications along the way. But never in his wildest dreams had he imagined the mind of the Kastillan King—the champion who had sacrificed himself to save his planet from the Crimson Blight—was dwelling within the sword.
+
+He was still coming to grips with the implications of what it would mean to wield an intelligent weapon—an entity possessing decades of combat experience and mastery in the myriad arts of war. But that was a matter for another day. Right now, Nick just wanted to see if he could sense the sword’s soul and take the first step toward figuring out a way to communicate with the enigmatic entity.
+
+With that goal in mind, he unsheathed Blightbane, marveling at how beautiful it was now that all the missing metal had been replaced. As the memory of finding the sword inside the dungeon rose to the surface of his mind, along with all the adventures they’d had together since, he crossed his legs and set the weapon across his knees with his fingertips touching the blade.
+
+For a long while, Nick simply sat there, letting the soundscape of the badlands wash over him as he tried to extend his awareness into the artifact.
+
+At first, he didn’t notice anything out of the ordinary, but eventually, an image popped into his mind. It was the shadowy outline of a Kastillan warrior, although the details were impossible to discern. When he focused on the feeling, he had an impression that the sword’s soul was sleeping—a regenerative torpor intended to preserve energy while the damage to the weapon’s core gradually healed.
+
+He realized he was grinning from ear to ear. This was far more than he’d been expecting to find and a promising development for what the future might hold. When the artifact was whole once more, Nick hoped the entity inside would wake up and they could get to know each other better. For now, he just concentrated intently while transmitting his gratitude.
+
+He shared his heartfelt appreciation for Blightbane’s assistance in resisting the Crimson Blight, preventing the Calamity-Class parasite from devouring him before he was strong enough to fight back, then again when he’d evolved and battled the blight directly. He thanked the artifact for helping him survive countless conflicts, and its assistance during the battle with the wurm.
+
+Nick hadn’t expected to feel anything in return. But to his surprise, for just a moment, the shadowy figure cracked one eye open and spoke within his mind.
+
+“You’re welcome.”
+
+Nick laughed in delight, thanked the sword again, and then moved on to his original objective—figuring out how to advance another ability.
+
+He had been expanding his understanding of all his powers over the last few weeks, although some were coming along slower than others, especially Heavy Blow. After his recent breakthrough with Mana Dart, the ability that felt closest to reaching a new rank was Force Acceleration.
+
+Nick decided to devote today’s session to his mobility-enhancing magic, expanding on the insight he’d obtained shortly after arriving on Earth. To begin, he activated Force Acceleration now—which only had a minimal drain while he was sitting still—watching closely as force mana flowed out from his energetic core to encase his body in a pulsating field.
+
+Now that his mage sight was strong enough to perceive the field of translucent energy coating his body, adjusting the ability’s output was easier than before. He slowly rose to his feet, finetuning his control over his mana to make tiny movements feasible without losing his balance.
+
+He watched as his magic pulsed every time a muscle contracted, then began the first kata Rita had taught him—one of the foundational exercises in the School of the Ever-Surging Blade. As he performed a flowing series of stance-changes and swings, Nick smiled at the memories the kata evoked from his month of training with the blademaster and Kiki the combat doll.
+
+All the while, he devoted a portion of his concentration to understanding the complex interaction between the output of his energetic core, the field of force mana coating his body, and the articulation of his joints, focusing on how they came together to speed up every move he made.
+
+After working on his mana manipulation for weeks, he had reached the point where he could reduce the field’s effect on some motions while magnifying others. For example, he could increase the speed of arms to bolster his strike without the twisting of his hips throwing him off balance. It was a night and day difference compared to his fledgling attempts to control the ability. Now, he could use Force Acceleration while running at full speed without breaking his own neck if he sneezed.
+
+Although Nick’s superhuman Toughness had been serving as a shock absorber, only drawing energy from the field to enhance the movements he wanted was considerably more mana-efficient and dramatically increased his fine-motor control.
+
+Fully immersed in the interplay between kinetic and magical energy, he switched to the second kata. He performed the dance of blades Rita had taught him while gradually increasing his speed, striving for perfect balance and complete control while maintaining total awareness of his body and blade. Before long, he was going through the motions so quickly that Blightbane blurred before his eyes.
+
+Nick lost himself in the moment, incorporating the various energies he was perceiving until they blended into a single sensation. He spun and slashed—turned and thrust—until the kata became an interwoven tapestry of magic and muscle.
+
+He came to a stop when his core ran out of mana, surprised at how far the sun had traveled while he merged his material and magical pursuits into unified whole within his mind’s eye. It was his best session with Force Acceleration to date, and when he opened his menus to check out his updates, he let out a whoop of delight.
+
+Congratulations. You have deepened your understanding of Force Acceleration and cleared the requirements to advance this ability to rank 2.
+
+Would you like to look at the upgrade options for rank 2 now?
+
+“Yes, please.” Filled with the ecstatic rush that always came with acquiring a major upgrade, Nick read through his choices with a grin plastered on his face.
+
+You can alter the ability in one of the following ways:
+
+He plopped back down on his boulder while mulling the matter over.
+
+He carefully considered what each upgrade would him offer him now and how it would influence Force Acceleration’s growth over time. By this point in his adventures, Nick had come to appreciate just how important these decisions were. The upgrade he’d chosen for Mana Dart had taken the spell in a promising direction, and he wouldn’t be nearly as satisfied if he had picked one of the other options.
+
+Force Acceleration was powerful enough that reducing his wind resistance was important. The ability added more speed every time his Magic grew, and he was already experiencing significant turbulence. However, he eventually crossed it off the list because he was confident that with some practice and experimentation, he could solve the problem using Arcane Shield instead.
+
+The second option would have been fantastic before he evolved. Early on, he’d had a hard time controlling the ability, running the risk of seriously injuring himself every time he switched it on. But now that he had enough Toughness to withstand the pressure created by a hasty maneuver, a precision upgrade was too situational. Besides, he was learning how to tweak the ability’s output manually and hoped to master the process eventually.
+
+Nick believed the benefits from options one and two could be achieved through other means, leaving him free to pick the third, which sounded like a ranged attack with an airbrake thrown in as a bonus—or at least a way to throw his opponents off balance.
+
+Since the kinetic transference only happens when I manually deactivate Force Acceleration, it should give me complete control over the effect and won’t get in the way of how I normally use it.
+
+He nodded to himself then committed to his course. “I’ll take upgrade number three.”
+
+When Nick voiced his decision to the System, he experienced a vision, which happened every time he received a new upgrade through the ability mastery system. Since this was an even-numbered advancement, instead of watching a replay of every memory and insight he’d had about the power thus far, he was shown a detailed rendering of his own brain—an image that highlighted the energetic pathway the System had carved into his synapses after obtaining Force Acceleration.
+
+Early on, Nick had no idea how these ability pathways worked, but that had slowly begun to change. While the intricacies were beyond him, he had experienced enough of these visions to understand that an ability’s matrix contained two key structures. The first was a neural network that provided an instinctual understanding of how each power worked, letting him cast spells as naturally as if he’d been using them all his life.
+
+The second was the conduit that let Force Acceleration’s magic manifest. One end was attached to his energetic core by a thin tendril, which automatically regulated the ability’s expenditure. When an infusion of mana entered the circuitry in his brain, it resonated at a specific frequency before leaving his body, serving as a catalyst that created the spell’s effect.
+
+Both components were remarkably complex—composed of hundreds of circuits that were bound together to form a single network. Nick watched in fascination as the vision progressed, committing every detail to memory as the System’s ghostly fingertips reached into his brain to tweak and supplement the matrix, making it more efficient while adding the new functionality of the upgrade he’d chosen.
+
+The details were beyond him right now, but he hoped the System’s constructions would one day serve as a model for creating his own spells and abilities, revealing the fundamental principles that made magic possible. Before long, the upgrade was complete, and he found himself back in his body.
+
+Nick sighed in satisfaction, although the best part was yet to come. With the System’s impromptu lecture on magical engineering out of the way, it was time to take rank-2 Force Acceleration for a test drive.

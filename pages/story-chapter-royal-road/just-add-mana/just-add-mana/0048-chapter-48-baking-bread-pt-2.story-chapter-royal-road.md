@@ -1,0 +1,183 @@
+---
+id: 7e210798-c7df-53da-8cc7-9f00dfae80f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48 — Baking Bread, Pt 2"
+slug: 0048-chapter-48-baking-bread-pt-2
+partOf: just-add-mana
+position: 48
+ownLength: 2900
+unit: words
+ownProgress: 2900
+publishedAt: 2025-10-16
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2680945/chapter-48-baking-bread-pt-2"
+royalRoadId: "2680945"
+markedReadAt: "2026-06-29T18:49:13.177Z"
+---
+
+Cale listened as Damien explained everything he knew, keeping his expression carefully neutral in the process. Inside, though, his mind was whirling.
+
+The Verdant Flame. No matter how many years passed, the name remained achingly familiar. Even now, Cale remembered a time when entire temples had been dedicated to it, when pilgrims had crossed entire worlds just to feel its warmth.
+
+But the Verdant Flame had been lost in the same war that had cost the Great Realms so much. Like so many other things he'd encountered on Utelia, it should have been dead.
+
+"Cale?" Damien asked. He'd finished his explanation and was now looking at Cale expectantly, though the longer Cale was silent, the more nervous he became. He fidgeted with the edge of his cloak. "Um. You're not saying anything."
+
+"I'm just trying to decide where to even start." Cale sighed, drumming his fingers on the table and staring at the now-dormant dough in the bowl. He wondered briefly if he could get away with changing the subject back to baking. Probably not. "How much did you know about this, Sisyphus?"
+
+"What makes you think I knew anything?" Sisyphus objected.
+
+Cale rolled his eyes. "The Named don't show up for no reason," he said. "You're interested in Utelia, or you wouldn't have sent Syphus here. You've already intervened twice, which is twice more than you can usually intervene, and you showed up right when Damien mentioned getting a new aspect. I'm betting you at least knew it was possible, even if you didn't know what the aspect would be."
+
+Sisyphus raised a finger to object, paused, then put it down again with a frown. "Are you sure we can't go back to talking about this Pumpernickel of yours?" he asked. "I will admit, you've made me quite interested in this whole 'baking magic' thing."
+
+"I suppose we could go back to baking, if you'd rather I not explain anything I know about the Verdant Flame." Cale raised a challenging eyebrow, and Sisyphus froze before letting out an awkward laugh.
+
+"Right," he said. "Nothing gets past you, I suppose! You're quite unlike the legends, you know."
+
+"Legends?" Damien asked curiously.
+
+"Of course!" Sisyphus grinned, even as Cale winced. "Cale Cadwell Cobbs himself! The man known throughout the Great Realms, though almost always by a different name. He's the Mad Mage of the Lower Fossils, the Nightmare of the Land of Dreams, the Wishbreaker that ended the Starborne Plague—"
+
+"Okay, that's quite enough of that!" Cale interrupted hastily, glaring at Sisyphus before he said anything too damning. Of course a Named would be aware of all the epithets he'd earned over his lifetimes. He was starting to regret not being more selective about them; clearly, he should have been much more firm about not being referred to as "the Nightmare."
+
+Thankfully, Sisyphus stopped talking and gave him an expectant look instead, clearly waiting for an explanation. Damien, on the other hand, was staring at him with wide eyes.
+
+Cale grumbled an ancient curse under his breath and was only mildly gratified to see Sisyphus flinching slightly.
+
+"Alright, fine," he said with a sigh. "So, the Verdant Flame."
+
+Both Sisyphus and Damien leaned forward in anticipation. Cale pulled the bowl of dough back before any of Syphus's sand could get in it, shooting Sisyphus a reproving look; the golem was still covered in the stuff. "It is—or it should be a dead mana aspect, although keep in mind that mana aspect isn't really the right word for it. It's more like..."
+
+He hesitated, searching his mind for a comparable example. "Think of resonance and the elemental gods," he said at last. "An elemental god is a sort of embodiment of its associated mana aspect, right? Different from true gods and divinities. They exist only when interacted with."
+
+"I... guess?" Damien looked puzzled. Evidently, he hadn't thought much about it before.
+
+Thankfully, while the whole resonance thing might have been new for Cale, the idea of elemental gods wasn't. Every so often across his lives he would find a temple or a shrine that was dedicated to the worship of a mana aspect rather than one of the realm's divinities. Given enough time and followers, an elemental god would begin to manifest.
+
+"They don't command the aspect the same way a divinity does," Cale said. "They represent the aspect. They're an embodiment of the link between a mana aspect and its elemental plane. The difference is minor but important, and it applies to the Verdant Flame as well..."
+
+Cale trailed off, hesitating. "In a manner of speaking, anyway," he said carefully, He looked at both Damien and Sisyphus for a moment—neither of whom had looked away or blinked throughout that explanation, though he supposed neither of them needed to—and sighed, deciding to just go for it.
+
+"The Verdant Flame is to a Monolith the same thing an elemental god is to its aspect," he said. "It is... the term is pillar aspect, although you're not going to find that term in any magical texts. We had to purge all mention of them."
+
+"Why?" Sisyphus asked. Cale stared at him for a moment, his expression thoughtful.
+
+"That's why you're here, isn't it?" he asked. "You're trying to figure out why there's a gap. Why the Planar War feels like a distant memory. A dream that never happened."
+
+"That is one of the reasons," Sisyphus said, his tone slightly guarded. Cale just nodded tiredly.
+
+"It had to be done," he said. "Believe me when I say that none of us wanted to do it. But when the war ended, magic was broken. You're familiar with the idea that mana aspects are just different expressions of a single whole, yes? That magic itself—or the fundamental idea of it—is one entity, and that all aspects are simply the means by which it understands itself?"
+
+"The Source," Sisyphus said, looking troubled. "I was under the impression that it was just a theory."
+
+"It's certainly never been proven," Cale said with a shrug. "But it's close enough to the truth to explain what happened. Consider this: the Source is a representation of possibility. It is the embodiment of not only the heart but the soul of magic, and within it lies everything that magic is and could be."
+
+"Now imagine a millennia of war." Cale's voice turned grim. Damien sank a little into his seat, eyes slightly wide at the intensity of Cale's tone; Sisyphus, on the other hand, seemed frozen. Cale could practically see the thread of realization worming its way into his thoughts. "Imagine not just one realm, but every realm embroiled in a neverending war. Imagine magic being used not to heal or create, not for wonder or joy or any of the million things it could have been. Imagine a millennia of magic being bent for one purpose and one purpose only: destruction, raw and absolute.
+
+"The spells got stronger. New mana aspects appeared. Bloodrot was one of them, but you have to understand, bloodrot was just the beginning. The more the realms learned to wield magic to destroy, the more magic bent itself toward those capabilities. It became sharper and deadlier, capable of increasingly monstrous things for increasingly less mana."
+
+Cale was tense, he realized. He took a deep breath and forced himself to relax, fixing his gaze on the dough on the table instead of at either of the other two. "You can guess what happened then, I'm sure."
+
+"The Source was corrupted," Sisyphus said, staring at Cale, who nodded once more. He didn't seem any less tired. Recounting this particular story always took it out of him. "And because all mana aspects are expressions of the Source, all of magic was corrupted. Is that what you're saying?"
+
+"Pretty much." Cale was silent for a moment. "Spells meant to create became... destructive, instead. Conjured toys would come to life and stalk their owners. Illusions began to directly alter memories, often in ways that destroyed the mind. Once we lost Vital, even healing spells began twisting their victims into creatures built to kill."
+
+"Vital?" Damien asked timidly.
+
+"An old friend." Cale glanced away. "One of my oldest friends, in fact, although I think he'd complain if he heard me calling him that. Big fan of labels, that one. He's... he was the Monolith of Life."
+
+"Oh," Damien said, his voice small. He stared at Cale for a moment. "Oh. I'm... I'm sorry."
+
+Cale shrugged, flashing his apprentice a ghost of a smile, even if he wasn't really feeling it yet. The dreadshade was too empathetic for his own good. "It's been a long time," he said. "I'm not going to say I'm over it, but it's not like the wounds are fresh. Though it's going to be weird seeing you use the Verdant Flame." He forced out a chuckle. "No wonder it felt so familiar."
+
+"The Verdant Flame was his pillar aspect?" Damien asked, his voice nearly a squeak, like he thought he'd accidentally done something blasphemous. He sort of had, but Cale wasn't going to tell him that.
+
+"He'd be happy with you using it, I'm sure," Cale said instead, and his smile was a little more genuine that time. "Vital was an absolute bleeding heart. Same as you, pretty much."
+
+Damien swallowed nervously, but gave him a determined nod after a moment. "I-I'll do my best to live up to him."
+
+Sisyphus, meanwhile, was regarding Cale with... Cale wasn't sure how to interpret that expression, actually. It didn't help that he was using Syphus's face to do it, and Syphus's face was basically just a glowing runic eye and some crystalline ears. "What happened next?" he asked. "Once you realized the Source was corrupted?"
+
+"And here I was hoping you'd forget." Cale gave the Named a half-smile, making Sisyphus snort. "Like I said, magic was broken. Nearly every spell you could think of just made things worse. At some point it had reached a point of no return. The Source is supposed to be balanced, to represent all possibilities, but it was so contaminated that the only future left was war.
+
+"We had to cut out almost everything. Like excising an infection, except we had to remove as much as we could without just destroying the Source. It was probably one of the greatest feats of ritual magic ever attempted, and frankly, it's still a miracle that it worked instead of just killing us all." Cale shook his head. "Point is, if you want to blame anyone for your memories being weird, blame the Monoliths. I was only part of the ritual."
+
+Sisyphus gave him an odd look. "You realize you just casually confessed to killing a Monolith, being on conversational terms with Monoliths, and also participating in a grand twentieth-tier ritual? I'm not sure 'only being part of the ritual' covers that in the slightest."
+
+"He understates things a bit sometimes," Damien mumbled.
+
+"A bit?" Sisyphus snorted, but when he turned back to Cale, there was a healthy respect in his gaze. Although... Cale frowned slightly. There was also something else there he couldn't interpret. "Regardless," the Named muttered. "If so much of the Source was excised, tell me this: why has the Verdant Flame returned?"
+
+"That's the question, isn't it?" Cale muttered. "It shouldn't be possible, but plenty of things I've seen on Utelia shouldn't be possible. We knew it was possible that some magics would develop again, but..."
+
+[Awaken Artifact] and the Verdant Flame were one thing. Neither seemed corrupted the way spells had been after the war, and they had known it was possible that the Source would eventually re-develop the capacity to hold certain acts of magic. They were counting on it, even.
+
+But bloodrot and [Myzonir's Ritual of Rebirth] returning as well, on top of someone somehow infecting Kessi with an inverted summoning aspect? Inverted aspects themselves hadn't been excised because they couldn't be, but knowledge of how to create them and the magics that made it possible certainly had been.
+
+These were all things that had only been possible when the Source was corrupted. On top of that, this was far too many things from one era of multiversal history to be coincidence—though he'd figured that much as soon as he'd realized Vital's corpse was here. What was it with Utelia?
+
+Cale narrowed his eyes suddenly. "You know more than what you've said," he said, turning to look straight at Sisyphus through the scrying eye. "You said learning about the Verdant Flame was one of the reasons you were here. What are the other ones?"
+
+Sisyphus blinked once, as though slightly perturbed, then forced out a faint chuckle. "I have only one other purpose here, and it is to ask a simple question," he said, folding Syphus's arms behind its back. "If all that has passed may yet return... then what else might have survived Yggdrasil's End?"
+
+Cale stared.
+
+"Alas, I do believe it's time I take my leave," Sisyphus said cheerfully. "I have made use of poor Syphus's body for a little too long, and it is getting, ah, annoyed at me. Besides, you might get angry if I were to keep hold of it. A gift before I go, though!" He waved a hand airily toward the still-rising dough on the table.
+
+"Just accelerating the process," he said with a bow. "No need to thank me. I look forward to seeing what spell you receive."
+
+With that, Syphus suddenly staggered. Damien hurried to its side to help it stay upright, all while Cale wrinkled his nose and stared grumpily where Sisyphus had been possessing his friend.
+
+"Bastard," Cale grumbled. "Leaving suddenly is my trick."
+
+"What did he mean?" Damien asked, straining to hold up Syphus. "I mean, um, what was the point of that question if he didn't stick around for the answer? Also, what's Yggdrasil's—"
+
+"Do not repeat that name," Cale said, a little more sharply than he intended. He winced almost as soon as the words left his mouth. "Sorry. Sensitive subject. I'd rather not talk about that. I told you all the important stuff, anyway. As for what he meant..."
+
+Cale sighed. "That, I'm pretty sure, was supposed to be a warning. Except it's cryptic bullshit because the Named literally cannot be straightforward."
+
+His brows furrowed slightly. "The only question is what he was trying to warn us of. I can only really think of forty-five... eh, maybe forty-seven possible things that would get one of the Named to try to interfere.
+
+"Which, frankly, is far too many possible things," he added. "I'm going back to baking. It's a great way to cleanse the mind, did you know that? Might even help me figure this all out."
+
+Damien looked perplexed as Cale went back to his dough, but didn't protest. "Um, there is one more thing, though," he said. "The Gift said something about how the Legacy of the Verdant Flame can evolve and return to its true form?"
+
+That made Cale freeze. When he spoke, his voice was slightly strangled. "It what."
+
+"Is that, um, important?" Damien asked nervously.
+
+"The true form of the Verdant Flame is the Monolith it's connected to," Cale said. "It's... Damien, are you sure that's what the Gift said?"
+
+"Y-yes?" Damien glanced into the air as if to confirm, and then nodded rapidly. "Um, yes."
+
+Cale exhaled. "You better not be giving me false hope," he said, and then when Damien gave him a wide-eyed look, waved a dismissive hand. "I meant the Gift, not you, Damien. I wouldn't threaten you."
+
+"O-oh."
+
+"You worry me sometimes," Cale said with a half-smile. "Practice attuning with the Verdant Flame. I need to think. And also finish baking."
+
+Cale was ready.
+
+To cast [Baker's Oven], anyway. He still didn't quite know what to think of Sisyphus's warning, or the implication that Vital could be brought back to life. The thought made something deep inside him clench—the promise of an old friend brought back and all the old pains that came with him. Cale didn't know if he was ready for that.
+
+Though it didn't really matter if he was ready or not. If Vital could be brought back, then Cale owed it to him to try.
+
+Besides, it was fitting, in a way. If any of the Monoliths could be brought back, then it would certainly be the Monolith of Life.
+
+He stared at the dough—carefully prepared and laid out on the table—and cast [Baker's Oven]. He noticed almost immediately that the fire portion of the spell was remarkably easy to control compared to normal; evidently, five ranks of fire resonance did a lot...
+
+Mana overload detected! Attempting to compensate...
+
+Although not enough, apparently.
+
+Adjusting spell construct...
+
+[Baker's Oven] has evolved into [Touch of Vesuvius (Baker's Edition)]!
+
+Well, good thing the spell clarified. He would have been disappointed if it had been a regular fire-touching spell.
+
+...He checked the Gift's message anyway, just in case.
+
+[Touch of Vesuvius (Baker's Edition), Level 1] [Fifth Tier (Unique), Active] [1.0e12 Mana]
+
+Imbue any physical object that makes contact with this spell with the ability to bake any dough or batter touching it at the perfect temperature until done. Includes decorative fire sigils to mark all affected surfaces, which will be all of them, because all physical objects imbued with this spell are considered part of the spell. Good luck!

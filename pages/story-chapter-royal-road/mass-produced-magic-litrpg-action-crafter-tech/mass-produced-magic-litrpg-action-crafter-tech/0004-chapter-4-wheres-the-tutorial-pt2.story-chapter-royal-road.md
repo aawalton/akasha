@@ -1,0 +1,153 @@
+---
+id: b1870156-c12b-550a-92a3-6eceb7a2c35d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 – Where’s the tutorial? - Pt2"
+slug: 0004-chapter-4-wheres-the-tutorial-pt2
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 4
+ownLength: 2469
+unit: words
+publishedAt: 2024-11-16
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908014/chapter-4-wheres-the-tutorial-pt2"
+royalRoadId: "1908014"
+---
+
+Kindra’s heart thundered. Her adrenaline soared, and she ran. Vaulting over corpses and splashing through a few blood puddles, she dashed down the dark street, her hatred for the planet growing with every step. A killer vulture hissed at her and flapped. She ignored it, sprinting past and praying the rat swarm would attack it instead of her.
+
+The vulture let out a loud squawk. Flapping its wings, it lunged, and she heard the swarm hit it. Yes! She risked a look over her shoulder, racing down the lane. The swarm had engulfed the vulture, tearing it to pieces. She let out a breath and slammed into a wall of squishy flesh.
+
+The squishy flesh squealed, and she bounced off it, tumbling across the ground. Dizzy and disoriented, she flipped over and looked up, staring at a massive blob of flesh. It turned toward her, revealing small beady eyes and a snout. The overgrown hog opened its mouth and revealed rows of jagged teeth, far too many rows of teeth.
+
+Fuck! With her heart thundering, Kindra grabbed the spear and stabbed it straight down the creature’s throat. The creature’s mouth snapped shut, snapping the spear in two. With rage in its beady eyes, it swallowed the spear and opened its mouth, unleashing a furious squeal.
+
+Kindra scrambled to her feet and ran past it, her vision blurring as her heart thundered. Sprinting across the ground with reckless abandon, she tripped on a corpse and went rolling, coming to a stop in a puddle of blood. The hog charged, and she prepared to die, looking up in horror. It lowered its head, and the group of rats hit it. Like some strange battle between piranhas and a shark, a fight broke out between the two.
+
+Rolling over and fighting the nausea, Kindra stood and carefully retreated, her adrenaline fading to the growing panic. What planet is this?
+
+She swallowed and retreated, moving quietly away from the warring rats and hog. It opened its mouth and ripped one in half. The rats clawed and bit into its flesh, chewing and eating.
+
+What is wrong with these things? Kindra continued backing away, distancing herself from the two groups. Death, where am I?
+
+He didn’t answer, and she gave up, turning away from the grisly scene. A new one met her sight. The road led to the edge of the city. The remnants of a broken wall sat there, and a massive field full of broken plants, blood, and bodies stretched out for nearly a mile. In the far distance, there was a forest. She looked at it and back at the fields. Scavengers littered the place. Packs of rats, hogs, birds, and several other strange things were chomping down, feasting in the aftermath of something.
+
+What the fuck did all this? Kindra swallowed, shoving down the emotion once more. Where’s some place safe? Turning back, she saw the hog and rats fighting. The hog swallowed one whole, ignoring the small cuts the rats were inflicting.
+
+Blowing a strand of bloody hair from her face, she searched for any supplies, her focus shifting to a nearby body. She crept to it, her eyes focusing on the weapons. Grabbing an axe and another knife, she stashed the axe. Forgive me for this. Reaching down, she used the knife to cut through the leather armor on his body, revealing a bloody shirt. Cutting it off him, she ripped it free and cut off a strip.
+
+Turning the strip of cloth into a makeshift sling, she picked up a rock and placed it inside. Whirring it above her head, she turned back to the chaos. The hog was tearing into a rat, and they were tearing it into it.
+
+She fired with a flick of her wrist, releasing the entire sling rather than half of it. The cloth and stone blurred across the air and hit something in the giant mess. Not bothering to make a second, she grabbed a rock and threw it with every bit of force she could muster.
+
+The rock slammed into the hog and rats, and she failed to see any mana flowing toward her. She turned and saw some strange six-limbed, armored creature walking toward her and the corpse. It waddled forward, its shell restricting its movement.
+
+Darting to another corpse, she grabbed another hammer and axe.
+
+The strange creature waddled up to a corpse and began chomping, slowly chewing through things. Is it a six-legged turtle? She threw the axe, sending it blurring through the air.
+
+The axe whirred and missed, bouncing off the stone street. The creature jerked up. It barked like a dog and launched itself at her, curling into a ball while it flew.
+
+She dove into an open doorway, and the turtle hit a wall, creating an explosion of dust and stone chips before dropping to the ground.
+
+She watched in strange fascination as it bounced and rolled across the cobblestone street, coming to rest next to a corpse. Poking its head out, it began eating the body, ripping off small pieces.
+
+Kindra blew hair from her face and glanced at her hammer. Screw that thing. The shark-pig can have it. She darted out the door and swung the hammer like a golf club. It arced down and connected with the strange armadillo turtle creature. It barked and flew down the street, bouncing off the hog and rolling down the street before popping out of its shell.
+
+Looking at her hammer, she chucked it at the armadillo turtle. The hammer looped through the air and hit it with a resounding crack. A killer vulture jerked up and ran toward the turtle, an eager glint of hunger and madness in its eyes.
+
+What is with the animals here? Reaching down, Kindra grabbed a rock. Please let this work. Placing it in a strip of cloth, she whirled it around her head and rifled it down the street.
+
+The rock soared right past the vulture, smashing into a rat and sending a spray of blood through the air. The shark hog happily ate it and bit into another.
+
+Picking up another rock, she tried again, whirring the sling and launching a rock at the furious bird. The rock shot by its head, bouncing off the wall and hitting the hog. It didn’t react to the stone; instead, it chomped down on a rat, spilling blood out onto the street.
+
+This planet makes no fucking sense. Kindra reached down and grabbed another rock. She tried again. And again. And again. Rocks flew down the lane, hitting stones, corpses, and occasionally one of the creatures.
+
+As another rat tumbled, the rats chittered furiously and ran away from the hog. It happily pursued them, chomping down on the fleeing rats. Wanting nothing to do with it, she turned and looted the nearby corpses, tossing weapons onto the tile roof.
+
+Using a knife to get more fabric, she tossed it along with several rocks, piling more supplies onto the structure. The sound of a squealing hog jerked her from her work. Not waiting around, she leapt and grabbed the lip of a stone building.
+
+Scrambling up the rocks, she hauled herself onto the rooftop and saw something both amazing and terrifying. A vibrant red appeared on the horizon. The smudge of color grew with increasing speed, and a realization hit. It’s nighttime, and I can see in the dark? She looked up and saw stars.
+
+Glad no one saw that. Blushing, she turned toward the hog and quickly saw the reason for the squeal. A killer vulture was on its back, its talons digging into its skin. Blood ran down the hog’s thick hide, and the vulture ripped a chunk of flesh from its back.
+
+The deafening noise crashed over the place, and scavengers everywhere turned to look. Unlike normal animals, these came running for a chance at a fresh meal, racing and fighting each other as they charged toward the weakened creature.
+
+What is wrong with them? Kindra reached down and grabbed her untrustworthy sling.
+
+Standing on the rooftop, she placed a stone in the cloth, spun it around her head, and fired, smashing it into the side of a building and missing the chaotic fight down the lane. God, I suck at this. Reaching down, she grabbed another stone and reloaded.
+
+The hog squealed and slammed into a building, scraping the bird and a chunk of flesh from its back.
+
+Launching another stone, Kindra missed the hog and hit the bird in the chest. Feathers burst into the air. It dropped, its wings flailing. The hog spun and charged, its mouth chomping down on the bird.
+
+Stop stealing my kills! she mentally shouted. Scowling, she aimed and tried again, bouncing a stone off the ground and hitting some cow-like creature that had wandered up. It bellowed, lowered its head, and charged, sinking a set of glowing horns into the hog.
+
+The hog squealed bloody murder, and she fired at it. The rock zipped past both. I need a gun! Grabbing another stone, she chucked it at the cow, hitting it in the side with a thump. The cow opened its mouth, revealing yellow, jagged teeth. It sank them into the hog.
+
+Loading another sling, she tried again, launching a stone at the pack of rats heading toward the squealing hog. The rock connected with something, and she waited. Shouldn’t I get some mana for that?
+
+[Your mana has increased: 3.2 → 3.3.] ‎ [Your mana has increased: 3.3 → 3.5.] ‎ [Your mana has increased: 3.5 → 3.8.] ‎ [Your mana has increased: 3.8 → 3.9.] ‎ …
+
+Blinking, she willed them to all flow together. ‎ [Your mana has increased: 3.2 → 14.3.]
+
+System, add notification information to the starter guide! And notify me when I can level!
+
+Turning focus to her dress, she used ten mana along with more of her blood.
+
+[Basic dress has been enhanced for 24 hours. Wearing it will grant +1 dexterity and +1 speed.]
+
+She wobbled and felt faint. The smell of fresh blood hit, and her mouth watered. She looked at the bloody hog and felt a growing hunger surge through her. Why is blood making me hungry? Am I infected with rabies or something?
+
+A shiver ran up her spine. Her eyes dilated, and a cold sweat broke across her skin. We’re all infected. Her eyes flicked to the deranged animals. Squinting, she studied the magic that glowed inside. Tiny runes were visible, little letters that all but confirmed her suspicion.
+
+Ignoring the hunger, she shivered and turned her focus inward, feeling the churning mana inside. How do I level?
+
+[Will it to spread through your body.]
+
+She turned her focus back to her mana, willing it to let her level.
+
+[Your mana has been reduced: 14.3 → 4.3.]
+
+[Your level has increased: 1 → 2.]
+
+[Your intelligence has increased: 0 → 2.] ‎ [Please select four attributes to increase: Intelligence, Dexterity, Strength, Speed, Stamina.]
+
+What do they do?
+
+[Each grants a 10% boost to your innate ability.]
+
+So one strength makes me ten percent stronger? What does stamina do?
+
+[Correct. Stamina increases your innate durability.] ‎ [You can select the same attribute.]
+
+Well, if I get hit, I’m dead. I may as well boost the ones that will help me kill things. She picked speed and strength.
+
+[Your speed has increased: 0 → 2.] ‎ [Your strength has increased: 0 → 2.]
+
+[Please select an ability: ‎ - Hearty Swing: You may use mana to augment your next strike, boosting your strength during the swing. ‎ - Resilient Frame: You may use your mana to absorb damage from heat or shrapnel. ‎ - Eyes of the Smith: Use your mana to better see flaws in the metal and how to best fix them. ‎ - Transmutation: Use your knowledge and mana to create or alter unliving matter.]
+
+She looked through the list and debated. The first three had one big problem: survival. Those won’t work. She shook her head and picked the last one. At least I can make a gun.
+
+[You have unlocked the skill Transmutation.]
+
+Looking at the text, she grabbed a few swords and willed them to shift into a small crossbow.
+
+[Insufficient mana: 20 required.]
+
+She let out a long breath of annoyance. Nothing’s ever easy. She frowned and looked across the village. I assume it’ll cost less if I can get the pieces for it.
+
+Dropping silently from the roof, she slipped into the house. The interior was crude, primitive even. A hearth was set into the stone wall, and a rough bench ran alongside it. An open trunk sat in the corner, but when she peered inside, it was empty.
+
+She moved to the dining area. A simple table and chairs stood in the center, untouched. The shelves and cupboards nearby had been stripped bare—whoever had lived here must have left in a hurry.
+
+Continuing to the bedrooms, she found straw-stuffed mattresses and chamber pots, signs of a life quickly abandoned. Without hesitating, she kneeled by one of the beds and sliced the mattress cloth into strips, creating makeshift slings. ‎ Exhaling softly, she made her way back to the door. Poking her head outside, she turned toward the chaos that the boar had created. ‎ Loading another stone, she turned and whirled it overhead before launching it down the street. The rock struck one of the birds, sending a burst of feathers into the air. The others turned on their wounded kin, and it was buried in the chaos of feathers.
+
+Kindra sighed, loading another stone into her sling and taking aim at the chaotic mob of birds. Come on. Your ancestors did this. She launched the stone, striking another bird and sending it tumbling across the cobblestones. The flock hardly noticed, too caught up in their frenzied squabbling, tearing at each other in mindless aggression.
+
+Works for me. She gathered a few more stones and tossed them onto the roof before climbing up. Once atop, she paused to survey the town.
+
+Cobblestone streets snaked between scattered homes and a few deserted shops. Bodies littered the streets. In the distance, a two-story building with ramparts loomed above the rest, standing as a fortress of sorts. Looks promising. Next to it, she spotted a building with massive chimneys. A forge? Maybe there’s a crossbow in there.
+
+She studied the streets and planned the routes. I just need to get there. A glimmer of hope sprang inside. Get there. Get a crossbow and take a minute to figure out this disaster world.
+
+Exhaling, she stepped forward, and the ground shuddered beneath her feet, nearly knocking her over. With her arms swinging to restore balance, she swallowed, her heart racing. What the hell was that?

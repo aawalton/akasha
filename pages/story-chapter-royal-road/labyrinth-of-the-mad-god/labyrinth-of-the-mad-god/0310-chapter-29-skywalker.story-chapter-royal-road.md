@@ -1,0 +1,111 @@
+---
+id: daf21259-6372-586c-8a40-3668ad5a31c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Skywalker"
+slug: 0310-chapter-29-skywalker
+partOf: labyrinth-of-the-mad-god
+position: 310
+ownLength: 2054
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3371901/chapter-29-skywalker"
+royalRoadId: "3371901"
+---
+
+Aglow with the ecstatic rush of anticipation that always came with acquiring a major upgrade, Nick read through his choices with a beaming grin plastered on his face.
+
+You may alter the ability in one of the following ways:
+
+Interesting. He was surprised that none of the upgrades made the barriers stronger, although he supposed that was already happening every time he increased his Magic attribute. Instead, each option enhanced Arcane Shield’s utility, albeit in completely different ways.
+
+He could already think of several uses for each offering, which made this one of his tougher decisions yet. Nick pondered the possibilities provided by each before making his choice, considering how the upgrade would help him here and now, and how it would affect the direction of the spell’s development over time.
+
+The first option would enable something he’d been trying to make work ever since obtaining the ability—platform-enhanced mobility. Being able to use his Shields to climb or cross rough terrain would be incredibly useful. On the other hand, he could already jump insanely high with Force Acceleration, the bonus from his boots, and reducing his effective weight with the floatstone in his backpack.
+
+The System hadn’t mentioned how much weight the platforms could bear. He doubted they could hold Lurk, but he had a hunch that his Magic was high enough that they could bear his own weight. Since most of the spell’s cost was paid up front, running across a bridge formed from dozens of forcefields would be expensive, but the prospect of skywalking was deeply appealing.
+
+Moving on, being able to create complex shapes with his barriers was bound to have all kinds of applications, both on and off the battlefield. Optimizing his Shields to deflect ranged attacks or improve their coverage would come in handy, and increasing their malleability would let him form everything from improved windbreaks while sprinting to umbrellas to keep rain off his head.
+
+However, finding the best uses for each shape and becoming proficient at creating them was going to take time and considerable experimentation. Since he was in the middle of a dangerous mission, he was leaning toward passing it up in favor of something that would help his party survive in the short-term.
+
+Finally, the third upgrade would boost his stationary stealth and improve the team’s defense indirectly. Standing behind walls his enemies couldn’t see through would make it hard to tell what the party was up to, depriving their foes of critical information and reducing their effectiveness at range. On the other hand, Bulwark could already provide one-way visual cover, and the team wasn’t weak in the stealth department.
+
+Nick shared his train of thought, getting feedback from Fritz, Bandit, and Kenji. While bouncing ideas back and forth, an insight came to him that helped him make his decision. Confident that he had determined the best choice, he addressed the System. “I’ll go with upgrade number one, please.”
+
+When those words left his lips, the world faded away and he found himself standing in front of his own brain. Some parts had been rendered transparent so he could focus on where the action was taking place.
+
+He watched as the System enhanced the ability pathway strung across his synapses, along with the energetic connections leading to his core. Every time he experienced one of these visions, he understood more of what he was seeing. By now, he was confident that it was possible to create his own abilities, although he was a long way from being knowledgeable enough to perform surgery on his own brain, in addition to lacking the tools he needed to do so.
+
+I wonder if that’s the reason why the System is showing us these visions to begin with. If skills are intended to impart key lessons, then the Ability Mastery System might be designed to teach us the fundamental mechanics of how stamina and mana interact with the human body, along with how ability pathways can be modified over time to improve their functionality.
+
+He memorized everything so he could ponder it later, and stepped back into his body when the process was complete.
+
+Nick reported his successful advancement, at which point, all that was left was to give his upgraded spell a try. So excited that his hands were shaking, he visualized the shape he wanted the barrier to take and conjured a horizontal Arcane Shield near the height of his head.
+
+When he leapt on top of the floating platform, it bore his full weight for several seconds before drifting to the ground. When he stepped off, reset the platform, and Bandit hopped on, it descended even slower, giving him a better sense for the Shield’s maximum load. Good enough. He couldn’t build a bridge with it after all, but the spell should work just fine for what he was planning.
+
+He stepped outside the control room where he had more room to work with, then took Arcane Shield for a true test drive. Since he didn’t have to worry about falling to his death thanks to Force Acceleration, Nick turned to his friends, bowed, and leapt high into the air.
+
+Near the apex of his jump, he conjured a barrier below his boots, landed lightly, and launched himself higher. He manifested a second Shield and was about to dispel the first then create a third, when he realized the original barrier was ready to support his weight again. He could cycle two platforms to skywalk instead of creating a procession, which would make this move significantly less mana-intensive than he’d imagined.
+
+It would have been too much to process before the System arrived, given the tight timing involved. But with his current attributes, he could keep track of both barriers effortlessly, even while fighting or paying attention to other matters.
+
+With a whoop of delight, Nick alternated platforms to create an invisible highway in the sky. His top speed was limited by how quickly he could reposition the barriers, but he had just dramatically increased his maneuverability.
+
+It was an amazing upgrade, and he was just getting started. The next time he jumped, he positioned the other field vertically and leapt off it sideways, trying out a range of angles until he was leaping from platform to platform like the characters from the games he used to play before his second life began.
+
+Laughing like a maniac, he deactivated Force Acceleration to halt his momentum while upside down and launched himself toward the ground by kicking off the Shield above his head. He used his mobility skill a second time once he’d built up enough speed, sending a force clone streaking toward the summit with a collision that kicked up a massive plume of snow.
+
+He skywalked back to the scaffolding a few minutes later—filled with adrenaline and the thrill of obtaining an incredible upgrade. His friends offered an enthusiastic round of applause, but this was just the prelude to the performance to come.
+
+While these uses for his floating platforms would certainly come in handy, the idea that had convinced him to choose this upgrade was something out entirely.
+
+When he explained what he was planning, Kenji began to laugh. “That’s brilliant. Your knack for combining spells and gear into novel configurations never ceases to amaze me. Don’t just stand there. After building up that much hype, you can’t leave us hanging. Go on, lad. Spread your wings.”
+
+Nick wasn’t about to argue, since that was exactly what he’d been planning to do anyway. He was so amped up that he couldn’t stop fidgeting, visualizing everything he needed to do twice over before giving this a shot.
+
+The next step was making sure his free casting with gravity mana was sufficient to increase his weight by twenty pounds, which would give him some wiggle room if he fucked the next part up. When he was confident that he could make it work while distracted or under duress, he removed objects from his backpack until he was effectively weightless, hovering in place like a balloon on a string.
+
+While his friends cheered him on, Nick conjured a fresh platform in front of him, tilted it slowly until both he and the Shield were horizontal, then wrapped his fingers over the edge. When he was sure it wasn’t going to sink, a flashflood of adrenaline flowed through his arteries.
+
+“Houston, we are go for launch.” With an effort of will, he guided the platform forward… pulling his weightless body along for the ride.
+
+“Yes!” With a whoop of delight, he raised the Shield and went sailing into the air.
+
+I’m flying. Awe and delighted danced in his chest as the full implications of his accomplishment coursed through him in an electric wave. I’m fucking flying!
+
+It was one of the most thrilling moments of his life—the realization of a dream shared by his species since long before his ancestors came down from the trees, staring up at birds soaring across the heavens and wishing they could be that free.
+
+Higher and higher he rose as he circled and turned, getting a sense for his newfound maneuverability. Shield surfing wasn’t super fast, but it wasn’t slow either, and he was confident that with practice, he could improve every aspect of this new form of transportation. It drained a decent amount of mana, and he would have to watch out for flying creatures that were far more agile than himself, but it worked.
+
+Apparently, even the System was impressed by his accomplishment.
+
+You have learned how to use a defensive skill to increase your mobility and have developed a new technique.
+
+Skywalker
+
+You can use Arcane Shield and Force Acceleration to freely travel in three dimensions.
+
+Note: Techniques are not granted by the System. As a result, they can be enhanced through use but not directly upgraded like abilities and attributes.
+
+There was just one last thing he needed to test. With a grin, Nick dispelled the platform, bobbing in the air while staring at the ground far below. The breeze blowing over the mountain was carrying him away, which is where the next part came into play.
+
+He concentrated and free cast the weight-increasing spell Ella had taught him, using gravity magic to drag him down to the snow-capped summit. He conjured another platform to adjust his course and landed beside Lurk a few seconds later, cackling when the dino let out an astonished grunt.
+
+Bandit and Kenji wanted to try skywalking too, so Nick gave it a shot. It took a lot of concentration to maneuver the platforms properly. His friends couldn’t see them clearly and he had to move them to the right places at the right time. The dino was too massive to make it work, although he could create a platform stable enough for her to double jump by stacking two together.
+
+“This isn’t combat viable, but we should be able to use it to cross rough terrain.” They were eager to try flying via shield surfing too, but Nick vetoed that plan.
+
+“I’ll take you guys up soon, but I need to work on my gravity magic first. If we get separated while my pack is hundreds of pounds lighter than air, you’ll plummet toward the ground, and I’ll go flying into the stratosphere unless I abandon my backpack. Lurk… I’m willing to give it a try, but we have some problems to iron out first. If we can build a lightweight framework to serve as a makeshift airship, then attach my pack to it, we might be able to figure something out, but we’ll need to find more floatstone do and some serious prototyping before that happens.”
+
+Now that the excitement was over, they decided to catch up on sleep before leaving the summit. It wound up being a good thing, because part of the way through Nick’s watch, another message appeared before his eyes.
+
+You have entered an area where the System’s ability to communicate across the dead zone separating the Labyrinth from integrated space is particularly strong.
+
+A Gold-Grade Advancement Booster that was paid for by the Goddess Astra through her intermediary Pax can be delivered after being delayed by Taltos’s intervention for the last 37 days.
+
+The contents of the package include:
+
+2 Ability-Upgrade Tokens.
+
+1 Trait-Enhancement Token.

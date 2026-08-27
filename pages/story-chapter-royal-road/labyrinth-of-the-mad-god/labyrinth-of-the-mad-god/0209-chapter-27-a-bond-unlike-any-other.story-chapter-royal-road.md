@@ -1,0 +1,119 @@
+---
+id: 4bac7e34-d14b-51a2-80aa-3d0f1d4f2fd4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: A Bond Unlike Any Other"
+slug: 0209-chapter-27-a-bond-unlike-any-other
+partOf: labyrinth-of-the-mad-god
+position: 209
+ownLength: 2057
+unit: words
+publishedAt: 2025-08-15
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2520994/chapter-27-a-bond-unlike-any-other"
+royalRoadId: "2520994"
+---
+
+The duo decided to finish their third round of hide and seek before discussing the matter further.
+
+It wound up taking longer than the other two rounds combined. Nick and Liz were smart people and after incorporating everything they’d learned so far, they were ready to take their use of Blend into the Background to the next level.
+
+Of course, on top of their trait-boosted stealth showdown, they were playing another game entirely—trying to outmaneuver the other person by predicting their behavior.
+
+By this point, Nick had realized Liz’s insight into him ran just as deep as his own revelation. He hadn’t had time to process the full implications of their situation, but in the context of this competition, it was similar to battling a skilled opponent he’d faced many times before—something that had been a regular part of his old life as a professional gamer.
+
+They each had a firm grasp of what the other person could do and could predict how they would react to a range of situations. On an even playing field, that would offer her a considerable advantage, since he tended to act based on his analysis of a situation whereas Liz read her opponent directly, sensing how they would respond based on their present state of mind and attentional patterns.
+
+Fortunately, Nick had an ace up his sleeve. She hadn’t grasped how profound their mutual insight was and if she was trying to outplay him by unconsciously relying on that information, he could counter by acting in a matter that ran contrary to his usual approach.
+
+Instead of firing up his strategic brain and coming up with a plan or trying to outguess Liz, he let his mind go blank and moved entirely by instinct. He picked a giant boulder at random and leapt on top so he wouldn’t disturb any dirt. He waited for a while and then moved several more times whenever the mood struck him—not attempting to secure any advantage at all.
+
+Now that he was certain she had no idea where he was, he was ready to win their game. This time around, Nick decided to try something that didn’t rely on his predictive powers or visual acuity, using his mage sight to detect the magic residing in Liz’s core.
+
+He took a deep breath and focused on his energetic senses while casting his gaze across the badlands. When his mage sight kicked in, he could see the dazzling tapestry of mana suffusing the Earth in a shimmering blanket of magic.
+
+He took in the texture of wind and force mana winding their way across the dusty orange soil—the vibrant hues of earth and life mana flowing below his boots. He listened to the hum produced by trace elements of water-aspected energy—tasted the spice of fire mana rising from the sun-warmed stones.
+
+Not long after, he noticed something that felt out of place—a spot where several elements were more concentrated than the ambient environment. More telling, the energy swirled in place and didn’t keep flowing across the badlands. The effect looked like water circulating in a lake or… mana filling someone’s energetic core.
+
+Before he could focus on Elizbeth’s location, she moved behind a boulder, preventing him from breaking through Blend into the Background. When Nick moved to view the spot from a better angle, she was already gone.
+
+He waited patiently until he sensed her core again, coming from the top of a towering stone spire this time. He had no idea how she’d managed to get up there, but he was deeply impressed by her stealthy movement and athletic display. He gathered his strength and leapt, intending to pull the same trick he’d played in the first round.
+
+Quiet as a whisper, he landed behind her… just as she spun and turned to face him. “I win,” they spoke in unison.
+
+Whatever he might have said next was cut off when a powerful gust struck them, heralding the arrival of a windstorm. His new trait warned him a heartbeat before it hit, but she was caught off-guard.
+
+Liz was blown back and started to fall from the rock. Nick reacted without thinking. He switched on Force Acceleration then reached out and caught her wrist. Before the next gust could blow them away, he swept her off her feet and leapt to the ground, using the lee of the outcrop to block the fierce and rising wind.
+
+When he looked down at the woman in his arms, her face only was inches away from his own. She looked scared but also exhilarated—cheeks flushed as she bit her lip. In that moment, he was overcome by how beautiful she was. How good it felt to have her body clinging to his own. They stayed that way for another electric second, then he let go and they stepped apart.
+
+“Sorry I was slow to react,” he said. “Apparently, Storm Chaser isn’t as useful when the system is developing right on top of you instead of blowing your way.”
+
+“I should have been more careful. I had a hunch you would figure out some way to find me, and when I saw your body distort the sun behind you, I thought I had you.” The windstorm whirled around them for another few minutes before moving past, making the badlands seem silent by comparison.
+
+Nick’s heart was still pounding from the close contact, but he forced himself to change gears and finished reviewing what they’d learned.
+
+In addition to what Elizabeth had noticed about bright lights and Blend, their game of hide and seek had revealed an important component of stealth he hadn’t considered before. Something that would be important if he wanted to conceal his presence, regardless of whether he was using humanity’s newest trait.
+
+The mana contained within his energetic core had a distinct signature that grew stronger if he was casting a spell. While the creatures of Earth were still standing at the starting line of using and sensing magic, anything that had evolved on another planet would be far more accustomed to this method of detection. Humanity needed to find a way to mute or mask their cores, so mana-sensitive enemies couldn’t find them.
+
+It wasn’t something they could resolve right away, and after deciding to work on the problem while practicing his other forms of mana manipulation, the duo got ready to head out. Before they resumed their trek across the biome, it was time to pull up his updates.
+
+Part of the way through their game, he’d felt a tingle after realizing he could be using the terrain to break up his profile more effectively. Nick already knew what it meant but had been too focused on their competition to open his menus.
+
+Sure enough, when the floating screen wavered into existence, there it was.
+
+Through use, you have improved the following skills:
+
+Stealth has increased from [0] to [1].
+
+Tracking has increased from [5] to [6].
+
+Not only had his Stealth skill finally kicked in, their contest had helped him train Tracking too. Awesome. They agreed to a rematch in a few days then started walking while discussing what they’d learned—occasionally stopping to test out one idea or another.
+
+Blend worked remarkably well against the creatures who called the badlands home. Although the beasts had incredibly sharp senses, the duo was able to draw quite close before the denizens of the dusty plains noticed their presence—mostly by sound and scent as far as he could tell.
+
+When they sat still for a few minutes while using the trait, the animals came out of hiding and didn’t seem to sense them at all. As they hiked, Elizabeth and Nick took turns ranging ahead and then Blending, trying to get the drop on the other person when they walked by. It was excellent Stealth training in general and an effective way to familiarize themselves with the new power all of humanity shared.
+
+By the end of the day, he had raised his skill on two separate occasions.
+
+Through use, you have improved the following skills:
+
+Stealth has increased from [1] to [3].
+
+As they devoured the miles beneath their boots, the travelling companions discussed the dynamics of Psi, including everything Nick had learned during his jaunt outside his body.
+
+“You know.” Liz rubbed her chin. “Just like finding people by detecting the magic in their cores, there’s probably something comparable involving Psi and sensing minds. We should have our people look into it once we establish a settlement.”
+
+“You’re right. That’s a great idea. Based on what I experienced, animals and beasts are already using some kind of countermeasure to Psi, although it didn’t seem to be particularly powerful.”
+
+That was when Elizabeth asked Nick a question that caught him by surprise. “That reminds me. Did you gain anything random when you evolved?”
+
+“I got a nice milestone bonus to my physical attributes, but that was for being the second person from our species to reach Grade-D. On that subject, I still don’t know who was number one. Anyway, what kind of gains were you talking about?”
+
+“I wound up picking up some points of baseline Mind, Creativity, and Magic. It wasn’t a milestone bonus—the System said it was from receiving expert instruction from a knowledgeable source.”
+
+“No, I didn’t get anything like that. But sometimes altered states can catalyze epiphanies. Maybe that’s what happened.”
+
+A few minutes later, Nick remembered that while he hadn’t had anything of the sort happen while evolving, he had gained some points of Charisma after their psychic awakening. When he looked over, he could see the gears in Liz’s head turning.
+
+In that moment, he knew she was putting the pieces together—where her recent insights had come from and why he’d grown remarkably better at reading her tells. He wasn’t sure what was going to happen when she figured out the rest, but he decided that he wasn’t afraid of it anymore.
+
+***
+
+Over the next few days of travelling together, Nick realized she had remembered that moment too. It had taken her a while to separate the experience from the powerful sensations evoked by her evolution, but in the end, she’d unraveled the mystery and grasped the full implications of their psychic connection.
+
+He had thought it was going to be awkward as hell, but it wound up being the opposite.
+
+Neither of them said anything about it, but it was obvious that they were much closer than before. Their appreciation of each other had deepened dramatically, and they’d developed an instinctive understanding of where the other person was coming from that let him empathize with Liz in a way that he never had before.
+
+Being so intimately aware of the true self of a stranger was a bizarre and novel situation. While being so vulnerable made him feel naked at times, part of him was glad it had happened.
+
+Not only did Nick know beyond the shadow of a doubt that the brilliant woman walking beside him was a decent human being, he had gained a profound insight into her character and values too. He knew that if he played it straight and didn’t threaten her goals, he could trust Elizabeth completely—that she would be a true and loyal friend until the end of his days.
+
+Considering how perceptive she was and how much Charisma she was packing, Nick never would have been able to lower his guard around her otherwise. The fact that she had peered just as deeply into him and accepted him for who he really was, was a warm and welcome feeling in the midst of these uncertain, changing times.
+
+Their intense and intimate bond was kind of like falling in love. Even though he knew romance wasn’t the source of these feelings, their chemistry was real, and he couldn’t deny how good it felt to make a genuine connection after so much loss and pain.
+
+He wondered if something similar had happened all across the planet—if those brief moments when people’s minds touched had created friendships that would last a lifetime. Perhaps it was a taste of what was coming, once humanity began to master their new psychic powers.
+
+The experience was liberating and more than a little frightening, but by this point, Nick wouldn’t take it back even if he could.

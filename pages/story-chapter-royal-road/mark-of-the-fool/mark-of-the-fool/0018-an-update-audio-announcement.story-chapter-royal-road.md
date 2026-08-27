@@ -1,0 +1,23 @@
+---
+id: 33889224-0670-56a4-a07b-de4c06d4bf06
+page-type-slug: story-chapter-royal-road
+title: "An Update + Audio Announcement!"
+slug: 0018-an-update-audio-announcement
+partOf: mark-of-the-fool
+position: 18
+ownLength: 322
+unit: words
+publishedAt: 2024-12-11
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1951195/an-update-audio-announcement"
+royalRoadId: "1951195"
+---
+
+So hi everybody!Let me start off by saying that I have been avoiding posting this, but I’ve put it off as long as I can.In short, I’ve been having health issues.Before you panic, they’re not life threatening or anything like that. Long story short, around September, I began to notice balance issues. They didn’t go away, instead progressing to dizziness, tingling and other symptoms like muscle spasms and twitches.
+
+Went to my doctor.It seems that I have fluid swelling in my inner ear that is pressing on some nerves in my skull, causing all kinds of issues.So yeah. I’ve been struggling with that since. It’s intermittent and seems to be VERY slowly getting better, however I’m going back to the doctor TODAY.
+
+Anyway, it’s been slowing me way down. Surprisingly, writing while being super dizzy is hard, lmao!I’ve been making progress with I Am Become Death, but I’d have launched like a month and a half ago if it weren’t for my condition.Currently, I’m aiming to launch in January. I nearly have enough material, but I want more to make sure I don’t fall behind in case this sickness takes longer to heal than I anticipate.Help support creative writers by finding and reading their stories on the original site.So yeah that’s what’s happening.I don’t like to post updates without something to give you (my brain just goes, “You’re making excuses and bothering them for no reason!”) but I had to, at this point.Now, I also wanted to announce that Book 7 launches on audio today! It’s narrated by the always fantabulous! The great! The wonderful! The grand! Travis Baldree!I know many folks were waiting for this, and here it is. You can find it through the following link!https://www.audible.com/pd/Mark-of-the-Fool-7-Audiobook/B0DM9LMPRH
+
+Enjoy, folks! And I’ll be back with some more announcements, and the first chapters of I Am Become Death!Cya!
+
+PS.Could I get some upvotes for these reddit posts? You don't have to, of course.https://www.reddit.com/r/litrpg/comments/1hbu0zg/mark_of_the_fool_book_7_launches_on_audio/https://www.reddit.com/r/ProgressionFantasy/comments/1hbu2t4/mark_of_the_fool_book_7_launches_on_audio/

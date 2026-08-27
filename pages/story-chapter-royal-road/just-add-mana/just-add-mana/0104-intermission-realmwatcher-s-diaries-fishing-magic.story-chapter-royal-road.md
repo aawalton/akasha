@@ -1,0 +1,79 @@
+---
+id: 93a86fa5-a7aa-5078-abae-12c70c4b5cf2
+page-type-slug: story-chapter-royal-road
+title: "INTERMISSION: Realmwatcher's Diaries — Fishing Magic"
+slug: 0104-intermission-realmwatcher-s-diaries-fishing-magic
+partOf: just-add-mana
+position: 104
+ownLength: 1122
+unit: words
+ownProgress: 1122
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3087780/intermission-realmwatchers-diaries-fishing-magic"
+royalRoadId: "3087780"
+markedReadAt: "2026-06-29T18:51:13.299Z"
+---
+
+Author's Note: Normally I keep these out of the chapter body, but I've learned that sometimes author notes are entirely disabled (that and it's a decent spot to put one of those interjections about how you should only find this on RoyalRoad currently. Also Reddit, but just book 1).
+
+Anyway, these three chapters are intermissions that take place nebulously between Book 2 and Book 3. They're just a way for me to take a break while not completely cutting off the content! Book 3 will resume with the next chapter on Thursday, so look forward to it.
+
+As always, thanks for reading!
+
+If there was anything Cale hadn't quite been able to get over, it was the sheer expanse of the grounds that technically constituted Kazix Brightscale's Academy of the Attuned Arts. Not that he was any stranger to how large magic academies like this one could be, and he did understand the purpose of it; the academy's placement at the confluence of all these different elemental biomes allowed it to be a ripe ground for all sorts of magical development.
+
+Whoever Kazix Brightscale had been, he'd evidently chosen this place with a great deal of care, and Cale wouldn't have been surprised if there had been a lot of competition for it. In fact, he was surprised that Orstrahl hadn't tried to reclaim the academy grounds already—although given the actions of the Red Hunters, perhaps they had.
+
+Among the many facilities that Brightscale Academy could boast of, there was a vast, pristine lake. It was large enough that Cale could feel the accumulation of specialized water mana like a refreshing mist in the air. In the daytime, it served as a wonderful place to relax, and many students used it as exactly that.
+
+It was, however, prohibited to visit the Vivid Lake at night. A pair of professors would always sweep the lake before nightfall to make sure that no students violated this rule. Like all lakes over a certain level of magical saturation, the properties of the Vivid Lake changed at night, though how it changed could vary depending on the weather.
+
+A clear sky was safe enough—potentially even healing, if there was at least one full moon, though the effect was far too muted now with the loss of the Source of Vitality. A clouded sky almost certainly meant the lake would be dangerous to visit. A clouded sky with fog was the sort of night you stayed far, far away from the lake if you were an average mage.
+
+Which was why the moment Cale noticed it was both dark and foggy, he dragged his apprentices out to go fishing.
+
+They were all seated in a tiny boat that frankly should not have been able to support their weight, especially given how aggressively Syphus was rolling around in it; apparently, it didn't take well to being in the water. If not for the inherent properties of the midnight lake and a little bit of Flia's magic, they probably would already have sunk. As it was, it teetered dangerously every time Syphus rolled to the opposite side of the boat.
+
+"I should never have agreed to this," Syphus said, looking about as ill as a boulder could look. Cale had no idea how it managed to convey that expression so well. "Why did I agree to this, again? I'm not meant to float, you know."
+
+"You agreed because I said it was dangerous," Cale said. "Which is true, although we're not actually here for the danger."
+
+"Why are we here, then?" Flia asked. She glanced around, clearly wary of what she could sense in the water.
+
+"You'll see," Cale said.
+
+They were all fishing, technically. Cale hadn't bothered with baiting any of the hooks, and he didn't actually want any of his apprentices to catch something. Any catch at this time of the night would undoubtedly be cursed. Already, he could sense the things in the water nibbling at the hooks, eager to pounce on unsuspecting prey, but he shooed them away with a burst of mana.
+
+Then he finally felt it. A presence larger than the others, seeking upward with tendrils that oozed with malice. It reached for each one of hooks simultaneously, and all four apprentices yelped as their rods were viciously tugged into the lake. The mana beneath them swelled—
+
+—then paused as it noticed who was on the boat.
+
+"Oh, shit, Cale?" it said. Or, well, the words it spoke were all in a sort of rasping telepathic growl that grated at the senses; his apprentices winced a bit as the not-quite-a-sound struck them.
+
+"Bob!" Cale called out cheerfully. "I haven't been able to get a good lake to summon you for ages. Check it out, I have apprentices now."
+
+"Whoa," Bob said eloquently. The grotesque mass that had emerged from the lake leaned forward to peer at them. As was typical by this point, Flia was the only one that seemed entirely at ease and even fascinated. "I didn't know you took on apprentices. I would've applied."
+
+"Bob, we both know you only exist briefly but simultaneously anywhere there's a foggy lake at midnight," Cale said, shaking his head. "How would an apprenticeship even work?"
+
+"Slowly," Bob said, which was technically correct. Cale grumbled under his breath.
+
+"I'll teach you some stuff," he said. "I just wanted to introduce you to my apprentices. Help them out if they ever need it, yeah?"
+
+Bob glanced over each of them, and Cale could feel the eldritch monstrosity slowly memorizing their mana signatures. Then it gave a single, ponderous nod. "Okay," it said.
+
+"Great!" Cale said. "Alright, that's the entire reason I brought you guys out tonight. No need to thank me..."
+
+He trailed off. Flia gave him an exasperated look. "Everyone else fainted," she said. "How did Bob manage to get a rock to faint?"
+
+"Honestly, I have no idea," Cale said. "It just does that."
+
+Realmwatcher shook her head. "I still have no idea if any of these are real or if we learned anything of value," she groused.
+
+"Oh, don't be so grumpy," Heartwatcher said with a laugh. She'd given up on the whole apprenticeship thing quickly, thankfully—Realmwatcher wasn't sure how much longer she could've handled her doing... whatever it was she insisted on doing in that role. "We learned plenty! This 'Bob' is certainly real, for instance, whether or not this happened. A false scry does not invent false creatures. We could summon it, if we so wanted, and figure it out from there."
+
+"We are not summoning Bob," Realmwatcher said, deadpan.
+
+"Please?"
+
+"No, my heart. I love you, but absolutely not. No summoning Bob. Or any other eldritch monstrosity, for that matter."

@@ -1,0 +1,159 @@
+---
+id: 831128e7-fb70-5fcc-8f28-ee4d385aaa81
+page-type-slug: story-chapter-royal-road
+title: "135 — Book 3, Chapter 34 — Reconfiguration"
+slug: 0138-135-book-3-chapter-34-reconfiguration
+partOf: just-add-mana
+position: 138
+ownLength: 2906
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3394770/135-book-3-chapter-34-reconfiguration"
+royalRoadId: "3394770"
+---
+
+Instructor Hikari considered herself to be a very composed woman.
+
+It was simply who she'd been, even when she died.
+
+And that was a strange thought, wasn't it? She could remember her own death now, if only in terrible flashes of pain and desperate action. She remembered a downpour of dragonblood, the searing acidity of its protomagical substrate, the way she and others had tried again and again to stop the flood and protect the University's students. She remembered the moment they failed and that flood rushed in anyway, eager to consume.
+
+Hikari had stepped in front of it, of course. What else could she do? Her apprentices were behind her, and she didn't need to swear an oath or sign a contract to know it was her duty to protect them. And she kept her composure even as she died. Little Gerome scared easily, and if she let him see how scared she was, there was every chance he would freeze up.
+
+So she kept her expression serene when she told them to smile. She didn't smile—Instructor Hikari didn't smile, as a general rule. Her apprentices would know something was wrong if she smiled, even putting aside... well, Nia would probably tell her how creepy it would look for her to be smiling as she died.
+
+She hoped they survived. Her memories ended there, suffocating and burning in dragonblood; she had no idea if the time she'd bought for her apprentices had meant anything. The Headmaster had been in the middle of a vast evacuation ritual, she knew. Perhaps the time she bought had been enough for him to succeed and for her apprentices to escape.
+
+Or perhaps it meant nothing at all. She was alive and well, wasn't she? She was entertaining these visitors and teaching her classes the day before the dragon rain arrived.
+
+So why could she remember the future in such excruciating detail? Why was she so certain it was a memory, and not simply a vivid hallucination? Why did she feel as though something within her was awakening, as if from a deep slumber?
+
+More of her memories returned. She remembered working together with the other instructors, putting together the most intricate and complex spell system any of them had ever developed. It was the first of its kind, a Seventh Circle spell that had been pure theory until then because of the scale of the work involved. It comprised two-hundred-and-fifty-seven distinct nodes in a vast, complex network of protective magic.
+
+If not for their deaths, that spell would likely have revolutionized magic in the years to come. She lost count of how many breakthroughs they had uncovered in their single-minded determination to find a way to save their school. Among other things, they had innovated a means of creating an open node, which could not only be modified during the operation of the spell but could use the very magic it was defending against to fuel itself.
+
+It was a cruel tragedy that they had lost the circle on top of everything else. That spell had succeeded in protecting them, but it had also been the first thing to be washed away by the dragonblood. Hikari doubted that any survivors—if they even existed—would remember how to recreate it. Their best and brightest had been at the forefront of the flood, working to hold it off even after their working had failed.
+
+She'd been one of them.
+
+Like all instructors at the University, Hikari had a great love for magic. At the moment of her death, her greatest worry was for her apprentices, but her greatest regret was the thought of how much knowledge might have been lost.
+
+In that moment she let herself imagine, just for a moment, what might have been. She thought about  what might have happened if someone had survived to tell the tale. If they'd remembered every innovation and every nuance, how much might magic itself have changed?
+
+Spellcasting as a whole would have been altered forever, there was no doubt about that. Perhaps alchemy would have been revolutionized, too. Certainly the field of artifice would not stay the same—the artifacts they built all relied on spell system equivalents, and a revolution in how those were designed would change artificing just as much...
+
+Hikari took a deep breath, then forced herself to let that go and focus instead on what was happening.
+
+It was difficult. It felt like time itself was sticking to her, blending what was with what could be with no concern for the fact that she was caught in the middle. She knew why this was happening, to a certain degree—she was a follower of the Fifth Intersection, and it was not unheard of for Ashvali's followers to occasionally catch glimpses of the future.
+
+This was different, though. Her new memories were not a gift from the Holy Ashvali so much as they were a result of her alignment with the Fifth.
+
+Which was to say, Hikari was particularly sensitive to shifts in Time, and whatever Cale was doing had inflamed that particular sensitivity and given her a direct connection to the spell.
+
+She had no idea what that spell was, unfortunately. it was certainly no longer a Basic Illusion. But the working must have had a powerful association with Time for it to have affected her in this way.
+
+She just needed to figure out what she was going to do with this.
+
+The Fifth Church had catalogued a massive list of warnings when it came to any kind of arcane temporal disturbance. First among them was that a prophetic vision (or a temporal crosslink, as some of their scholars insisted) was temporary: it was well-known that oracles would not remember what had driven them to speak their prophecy once it was over. Her time with these memories would be limited, ironic as it was.
+
+Second was more of a basic rule than anything else. Time was malleable around a temporal crosslink. There was a fixed future that could not be changed, but that fixed future was outside the crosslink entirely. Any premonitions, visions, or memories of the future were possibilities born entirely from the malleable nature of the crosslink, but were not certainties.
+
+...or in simpler terms, this was part of some greater future here she wasn't aware of and would likely never learn, but she could still save her apprentices without worrying about creating some sort of paradox. She just needed to figure out what she could say or do in this limited window when she was aware that there was any danger to be averted at all.
+
+It all centered around Cale. That much, she was certain of. She had suspected that there was something strange about him at first. For one thing, his mentor spoke to him with the sort of respect one gave an equal, not a former student. For another, she could sense the terrifying power radiating off the vine-man that accompanied them, and even he looked at Cale with respect.
+
+But even if she hadn't noticed those things, there was that spell he was casting. The working that had caused this temporal crosslink in the first place. The working that wasn't even complete, as far as she could tell, despite the maelstrom of magic roaring around Cale.
+
+Hikari could feel more power being pulled into the spell with every moment. It was more mana than she'd ever felt in one place before, to the point where it was starting to become difficult to breathe. It felt almost like every scrap of mana in the realm was being drawn toward this singular working.
+
+And incredibly, even then, it felt like most of that mana came from Cale Cadwell Cobbs himself.
+
+His eyes glowed with prismatic flame. The wind had picked up around them for no reason whatsoever, which was a classic sign of a great working like this one. Hikari had no doubt that if they'd had any candles in this room, they would have burst into flame as well.
+
+If she wanted to do something about the future she'd seen, she needed to find a way to warn him or his allies about what was coming. The problem was context. If they were visitors to the realm, then they might not even know what dragon rain was; even if they did, there was a reason the University had struggled against it, even knowing it was coming. Typical dragon rain was nowhere near as dangerous as the storm brewing in this distance.
+
+She needed to be selective. Every word she spoke would drain her connection with the crosslink, and once it broke, she would no longer remember what was going to happen. She needed to condense everything she needed to say, and to do that—
+
+—to do that, she needed to know where they were from, and more importantly, she needed to know who they were.
+
+She hadn't received much information about them. All she knew was that they were endorsed by the Headmaster. But the state she was in and the connection she had with Time could allow her to divine more, if she was willing to take the risk.
+
+And she was. Of course she was.
+
+Hikari gathered all her focus into the connection she shared with the Fifth Intersection and looked, and felt her world split into two.
+
+On the left—a metaphorical left, given direction was really more of a suggestion in the state she was in—Hikari Matsubara was a dungeon construct of the far future. Cale and his friends were here to gather an artifact, and along the way their mission had shifted into finding out what had happened to humanity.
+
+(They were gone in that future, and this was fixed: it was the greater future she thought she wouldn't learn. There was no averting this, for to do so would create a paradox. A part of Hikari rebelled against this the moment she understood it, but she forced herself to let it go. She had little time to panic.)
+
+She was unusual for a dungeon construct, and so was everyone else in the University. Pilgrimage-type dungeons did not usually recreate places wholesale. At best, unless it was part of the dungeon's challenges, inanimate objects within would bear the appearance of whatever history they replicated but have the same underlying dungeon-stuff beneath. Bricks, wood, and glass would all melt into the same sludge if removed from the dungeon, for instance.
+
+The same applied to the living constructs, to a degree. A typical pilgrimage-type dungeon would create living individuals using essence-mimics, which would both take the form and play the role of the "people" in that dungeon. Only the monsters were created in full, transported or excised from whatever realm they originated from in the first place.
+
+Except, apparently, in the Bitter Path. Something had changed when Cale stepped within its bounds, and the recreation of history it made was as real as could be. For the first time in eons, a whole group of true humans existed. A representation of humanity, in effect.
+
+Which, of course, clashed violently with a rule: humanity could not exist within the Great Realms.
+
+The result was the dungeon itself warping to compensate. If it could not exist within the Great Realms, then perhaps it could exist before the Great Realms, in the time of Yggdrasil. If that too was impossible, then it would go before even that, back to a time when that rule had not yet been established.
+
+But a dungeon could not establish such a feat by itself, of course, and so it had been stuck halfway in the river of time with an incomplete truebridge. That was the version of events Hikari saw on the metaphorical left of her connection: within it, she was both construct and human, complete with memory that stretched back perhaps about a month.
+
+No more than that. No less, either. Incomplete, as it were.
+
+Then Cale Cadwell Cobbs had cast his spell, and—
+
+On the right, Hikari Matsubara had been born thirty-two years ago and raised by a single mother. She had proven to be a magical prodigy of sorts from an early age, with a remarkable ability to intuit significance and meaning and how different node configurations could modify them.
+
+Her mother had struggled to afford her early education, but Hikari remembered the tearful smile and hug they'd shared when she was finally accepted into Thoth University. On a scholarship, no less.
+
+She graduated as one of the first mages in her cohort that had achieved Fifth Circle magic, then joined right back as an instructor, partly to pay back what she had been given, and partly because she wanted to push the field of magic even further. The University was the best place in the world for that.
+
+Except she had never gotten to do that, because on the right—at least, within the malleable fixture of time created by what should have been an utterly impossible truebridge—Hikari Matsubara had died at the age of thirty-two, in a desperate attempt to save her apprentices and all the students of the University.
+
+Thankfully, that part was the malleable part, and with that understanding, if she wanted Cale and his friends to help them when the dragon rain came...
+
+This would be tricky. The words she chose would drain her connection with the crosslink; if she was too specific with her warning, she wouldn't even be able to get it out. Hikari turned to Cale's allies and spoke.
+
+"The strictures of time are yet unwritten," she said. "The blood of dragons will spill in greater volumes than ever before, and when it does, the University itself will wither. Take pity on we who preceded you, and know that we are ourselves in truth."
+
+She hesitated, and then, because she couldn't help herself, added: "Keep my apprentices safe. Please."
+
+That, unfortunately, was too much. She felt the sharp sting of magical backlash as her connection with the Fifth Intersection collapsed.
+
+Thorn had turned toward her in shock when she first mentioned the blood of dragons. That shock quickly sharpened into alarm when he saw what was happening.
+
+The last thing she saw was him reaching out to catch her.
+
+"Aww." Ashvali pouted. "She pushed herself a little hard at the end there. I hope she recovers. We're still going to need her for the next part, I think. I wonder if I can use this thing to send gift baskets? I've never tried."
+
+"Use... what?" Flia asked. "Why are you in class with us, again?"
+
+"I got bored," Ashvali said. "And I'm talking about divine connections, of course. Do gods in your time ever send gift baskets when their followers get sick?"
+
+"In my time?" Flia grimaced, looking at Damien, who seemed equally worried at the remark.
+
+"Whoops, spoilers." Ashvali put her hand up to her lips. "Ignore that. Sometimes it's hard for me to figure out when we're at. You'll figure it out when you find your friends again! Which should happen in... oh, three more classes. I think. Or possibly three classes ago?"
+
+Damien shook his head. "Let's go to the next class, Flia," he said quietly. "I think I'm close to figuring out what she wants. What they all want, maybe."
+
+"Oh, good," Flia said. "Because I have no idea what's going on, and I'm starting to want to hit something. I'm having a bad day when I empathize with Syphus this much, let me tell you."
+
+"Owwwwww." Steve groaned.
+
+The dark lord Kelegas looked worriedly down at his subject, who was nursing a terrible fever. At least, he thought it was a terrible fever. He had no idea what constituted a fever for Steve, but Emline assured him this was, in fact, a fever. And was not to be confused with the increase in temperature among firestone aberrations, which mostly indicated they were pregnant, or the increase in temperature among saltserpent aberrations, which was a potentially-fatal affliction brought about by proximity to any kind of structured debate.
+
+Keeping track of the physiological needs of all the aberrations was incredibly confusing sometimes. Thankfully, Emline had a much better memory for these things than he did, and she often knew what to do, too. Case in point: the cold towel she was pressing to Steve's head.
+
+"Why is he like this?" Kelegas asked. "Do we know yet?"
+
+Emline sighed. "We don't know any more than when you asked me five minutes ago, dear," she told him. "You should really focus on your work, you know. I can take care of Steve."
+
+"But I've never seen him sick," Kelegas said, still worried, and Emline's gaze softened; she kissed him on the cheek.
+
+"I know you're worried," she said. "But he'll be fine. I'll take care of him, and he's a time mage, remember? He just needs to feel well enough for a few seconds, then he can reverse time on himself until it goes away. You need to look into what that new guy's saying. The one Blood-That-Crawls brought back."
+
+Kelegas sighed. "Just... let me know when he gets better?"
+
+"Of course." She leaned up to give him a kiss, and Kelegas gave her a quick squeeze before he pulled away. She was right: he really did need to look into what that new guy had said.
+
+What had he called himself again? Bale? What an odd name.

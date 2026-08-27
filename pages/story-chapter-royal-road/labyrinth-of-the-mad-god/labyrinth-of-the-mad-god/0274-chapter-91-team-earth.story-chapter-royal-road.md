@@ -1,0 +1,151 @@
+---
+id: e8903b31-b7ce-50f8-aa0d-4da98c7be124
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91: Team Earth"
+slug: 0274-chapter-91-team-earth
+partOf: labyrinth-of-the-mad-god
+position: 274
+ownLength: 2264
+unit: words
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2936654/chapter-91-team-earth"
+royalRoadId: "2936654"
+---
+
+When Nick entered the city, a messenger let him know the planning committee had convened and was awaiting his return.
+
+He found them in the mess hall, in the middle of an animated discussion about the best uses for Rare vouchers once they found the mana wells they needed. He listened with one ear while enjoying a hot meal. It was an important topic, but they had already chosen which magical structure they wanted to build next.
+
+Now that Aurora had secured a pure mana font, it was time to add the Magitech Research and Development Center to the city’s facilities. While some of the other options were tempting, studying magic-based technology was a critical step in replicating the devices they had come across while surviving their tutorials, crossing Blackmist Bog, and climbing the Tower of Rizzen.
+
+Everyone in town turned out for the momentous occasion. However, since the Center was being placed inside a fortified area, they didn’t have a good view. To accommodate their curiosity, Sarah was standing on top of the wall, using her magic to produce an exact replica that his people could examine at their leisure.
+
+When everything was ready, Nick opened his City Menu, selected the structure, and set it in the spot Stan had marked.
+
+The leader of Aurora has purchased:
+
+1 Magitech Research and Development Center (Rare).
+
+A cheer arose from over a thousand voices, echoing across the badlands as Aurora’s citizens celebrated their latest accomplishment. Sarah finished her illusion so everyone outside could check out the building while Brad put on an impromptu concert.
+
+With his people taken care of, Nick joined the committee as they took a tour of the R&D Center.
+
+The exterior was formed from brilliant blue gemstones that glowed when struck by the sunlight. The effect was gorgeous and otherworldly—unlike anything that could have existed on Old Earth. The building was considerably larger than the Item-Modification Station, and when he followed Elizabeth inside, he learned the reason why.
+
+The Center wasn’t a building with a single function—it was a magical laboratory with enough room to work on a dozen projects at once.
+
+There were lockers, workbenches, and the other infrastructure you would find in any research facility, but the real gamechanger was the tools. Dozens of devices whose purposes Nick couldn’t even begin to guess lined the walls and rose from the floor, along with displays mounted nearby.
+
+The layout reminded him of the rooms he’d seen in the basement of Darkstone Tower, which made sense, as the floor where Kellen had created the Janitor served a similar purpose.
+
+The researchers were floored by what they found—certain the Center would accelerate their efforts to reverse engineer the magitech they were studying by a dozen times over. The crude instruments they had developed thus far were nothing compared to tools that were designed to measure, manipulate, and manufacture magitech devices.
+
+Studying the equipment would lead to important breakthroughs all by itself. Using them to analyze, model, design, and replicate any of the magitech Nick had discovered thus far would turbocharge humanity’s rise from the ashes—letting them utilize the new natural force known as mana in ways that had been impossible until this moment.
+
+On that subject, the magitech his people had collected during the Fate of Earth quest were irreplaceable artifacts. Losing any of them would be an incalculable loss until the research team had time to study the devices at length.
+
+While he trusted everyone in Aurora’s core group of founders, some of its residents were strangers to him, and he had a hunch that thousands of new people would show up before long.
+
+He needed to protect the city’s most valuable resources—now and in the future. After talking it over with the committee, Nick used a combination City Points and vouchers to construct a heavy-duty vault in the back of the building.
+
+When he was finished, he reached into his backpack and deposited all the constructs and devices he had collected during his adventures for the researchers to examine at their leisure. He smiled at the memories they evoked, recalling the ordeals he had overcome to acquire each piece.
+
+The scientists were delighted—grins growing wider with each new addition.
+
+He placed the magelights he’d found in the sewers of Kastilla, all the gear-rats, gear-turtles, and gear-scorpions he’d picked up in the tower, and the broken wand he had found while fighting the sky pirates. The final item was Kellen’s PDA, which he planned to leave in the Center while he was in town and take with him while he was away.
+
+The only artifact he kept was the Guardian’s hand he had claimed during the battle on the roof of Darkstone Tower. It was too advanced to learn anything from yet, and his gut was telling him that the piece of a tier-two construct was more valuable than everything else combined. If the other artifacts were stolen or lost, the most precious item would be safe in his dimensional storage until the researchers were ready to study it.
+
+Nick wasn’t the only one who had picked up some interesting technology during his adventures. Kerry left and came back carrying a crate full of magitech to store inside the vault, which she had collected from Aurora’s residents over the past few weeks.
+
+He was excited to find out if anything could be restored to working condition. How his people would incorporate magitech into their everyday lives, once they understood how it worked well enough to start building and designing their own devices.
+
+He added the notes he’d taken and sketches he had made of the other magitech devices he’d come across, including the cannons from the airships, the vessels themselves, and the machinery he had taken apart after defeating the Trial Administrator.
+
+That last bit reminded Nick that he had one more item in his bag. An artifact he had been given for safekeeping and wasn’t part of his collection.
+
+When he pulled out the device Devin had claimed, something unexpected happened.
+
+System Message: Hidden Quest
+
+You have cleared the requirements to unlock a secret quest.
+
+The key component you removed from the Simulation Dome in the Tower of Rizzen is intact, but additional materials are required to restore it to operational condition.
+
+The location of a secret dungeon containing compatible resources has been revealed. It may be attempted any time before the Rebuilding Civilization period comes to an end.
+
+Difficulty: 4.5 stars.
+
+Rewards: Simulation Dome (Unique). 1000 City Points. Individual rewards based on performance.
+
+Note: This Unique building may be placed without taking your city to tier 7 first. This dungeon has a party limit of six members.
+
+“Hell the fuck yes!” Devin was so thrilled that he started to dance.
+
+He picked V up and spun her around. The woman let loose a jumbled stream of curses and squeals until she slipped free from his grasp, punched him in the stomach, and then pulled him in for a passionate kiss.
+
+Everyone got a good laugh at their antics. By the time Devin had finished explaining what the device did, they were just as excited. The Dome could replicate intricate, fully-interactive environments—everything from arctic tundras to misty mountaintops to volcanic calderas.
+
+Getting a Simulation Dome of his own had been Devin’s dream from the moment he’d stolen the component, and he wanted to start the quest right away. The Unique building would be a fantastic asset for Aurora, and a good chance for an elite group to grow stronger. Conquering a four-and-half-star dungeon was a prime opportunity to gain levels, essence, and items while advancing their abilities and developing the Concepts they needed to reach tier two.
+
+Veronica and Shaun decided to go with him, along with Sarah, Bret, and Laura.
+
+The party of six left early the next morning. Nick was excited for his friends. Even though he was a little worried given the dungeon’s difficulty, they had formed a balanced party with solid defense, offense, range, support, and healing. If they couldn’t handle it, he doubted he could either.
+
+While part of him was disappointed that he wasn’t going with them, something told him that another challenge would reveal itself soon. Besides, the faction meeting is about to begin.
+
+Representatives from Desert Rose and Dragon’s Tooth arrived through the portal and stayed for several days. In between vigorous rounds of discussion, they spent some time touring Aurora—enjoying the entertainment district, chatting with the researchers about their various pursuits, checking out the puzzle door beneath the Shrine of the Faceless gods, and asking Nightsong for advice on establishing mutually-beneficial relationships with their beast neighbors.
+
+Their biggest decision was picking which skill they wanted to grant every citizen of their settlements, along with anyone else who joined their faction later.
+
+There were several key factors to consider. They needed something that would be useful even while capped at twenty-five, and a skill people couldn’t acquire from their classes or Professions. Most important of all, they wanted something that would be just as useful for the warriors fighting to defend their home and the noncombat specialists who building, crafting, and inventing behind the cities’ walls.
+
+Nick participated just as enthusiastically as everyone else.
+
+This was a crucial decision that would affect not only himself and the elite members of Team Earth, but thousands of other people—maybe millions as time went on. Everyone contributing to the debate was intelligent and well-organized. In the end, they were able to come up with something that satisfied every item on that list.
+
+The skill they chose was Vital Energy Manipulation, or Manipulation for short. It made it easier to control both internal and external mana, and stamina within the body. Presumably health too, although no one understood the benefits of that just yet.
+
+Manipulation would help people advance and customize their abilities, whether they were spells, combat arts, or powers that spit the difference like Enhance Senses. It would be equally useful for fighters, crafters, and researchers, and should yield considerable gains in both the short and long-term.
+
+People like Nick—who had been diligently practicing one form of energy manipulation or another for month—had an easy time taking the skill off the ground.
+
+Through use, you have improved the following skills:
+
+Vital Energy Manipulation has increased from [0] to [7].
+
+He could already feel the difference. When he tried to weave his mana into specific shapes, he had an easier time getting it to do what he wanted, and controlling his stamina should see similar gains. He was confident that with Manipulate’ help, he could advance Heavy Blow to rank one within a matter of days.
+
+Oddly enough, choosing a skill wasn’t the fiercest debate of the conference. Deciding on a name for their faction took twice as long, especially since they could designate both a full name and a shorter title to use as a quick reference.
+
+Nick honestly didn’t care what they called it, so he excused himself from that portion of the discussion and let Liz represent Aurora’s interests.
+
+He wasn’t surprised that with her considerable charm and insane Charisma, they wound up picking the names she wanted, making the term Nick’s core group had been using for months official while adding some poetic symbolism he thought was a nice touch.
+
+Congratulations, you are a founding member of the faction: The Promethean Coalition (Team Earth).
+
+The citizens of your settlement have automatically been invited to join.
+
+After the massive party that began with that announcement, there was one last matter to address—an issue that arose from Aurora’s sphere of influence being so large that it would cover most of the badlands before long.
+
+In the end, Nick adjusted his Faction settings so that his city’s domain didn’t include the territory claimed by the other settlements, although the Weather Barrier and Monster Wards would still function.
+
+During their next meeting, the faction would decide what to do with the space between their settlements, but it could wait until the other cities had increased their tiers and there was more overlapping territory. He trusted Liz to resolve the issue and planned to focus his efforts in other areas.
+
+In addition to his amazing new skill, forming a faction had come with a benefit that caught Nick by surprise. The moment they made it official, a message from the System appeared in front of his eyes.
+
+System Message: Title Acquisition
+
+Congratulations. As the highest-ranking member of a faction, you have cleared the conditions required to earn your first title. The benefits will scale as more members are added.
+
+First Among Equals
+
+Effect: Receive a 10% bonus to experience, essence, and skill gains acquired from any activity that benefits the members of Team Earth.
+
+Well now. Nick let out a low whistle. That isn’t bad at all. He’d had no idea that titles existed until this moment, which meant they had to be extremely rare.
+
+Or maybe they don’t come into play until a civilization is advanced enough. Either way, this title kicks ass. Going forward, he planned to engage in activities that would benefit himself, Aurora, and all of humanity as much as possible, which meant he should receive the bonus a fair amount of the time.
+
+When he let Liz know about the title, she asked him not to mention it just yet. He trusted her judgement and turned his attention to other matters when the conference was over and the visiting dignitaries went home.
+
+After a lengthy stint of city building, Nick was ready to focus on growing stronger as fast as possible.

@@ -1,0 +1,115 @@
+---
+id: f973f732-a619-5ba3-a7d4-c0ddaeea67c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: Meet the Team"
+slug: 0217-chapter-35-meet-the-team
+partOf: labyrinth-of-the-mad-god
+position: 217
+ownLength: 2657
+unit: words
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2571712/chapter-35-meet-the-team"
+royalRoadId: "2571712"
+---
+
+Nick made his way over to Devin’s campsite, where everyone on the wurm-killing team had agreed to meet up.
+
+Devin and V were already there, laughing and flirting as they maintained their gear. Those two seem closer than ever. I wonder if they had a psychic experience like what happened with me and Liz. He decided to ask Devin about it when they had some privacy, then walked over to say hello.
+
+His friends waved when they saw him coming.
+
+“I know we spoke last night.” Veronica pulled Nick in for a quick hug. “But it’s great to see that you’re doing so well. Devin told me about what happened when you evolved. That situation with the Crimson Blight sounds like pure nightmare fuel and I’m glad you made it out the other side. I don’t think we could have beat the Guardian without you, and I doubt a world-devouring fungus would be such good company.”
+
+“Thanks, V.” Nick laughed. “It’s good to see you too. I’m glad Devin has someone who understands the value of subtlety. He tends to take the direct approach, both on and off the battlefield.”
+
+“Right.” Devin flashed a cheeky grin. “Because subtlety is your middle name.” They bantered while enjoying each other’s company until the rest of their team arrived a few minutes later.
+
+While everyone would do their best to bring the wurm down and other teams would join the assault once its army had been dealt with, this was the group who would face off against the colossal construct right from the start, preventing it from getting away while doing their best to crack its defense.
+
+Their party for the boss fight included most of Nick’s core team. It was only missing Shaun, who wasn’t strong enough for this job, and Kenji, who would be coordinating the battle while standing with the support squad. Sophia still wasn’t back from acquiring her newest summon, but one of the scouts had come across her this morning. She knew when the operation was scheduled to start and the role she’d been assigned to play.
+
+Nick was planning to look for her if she didn’t make it to the battle, but Devin and V were convinced she would be there. Besides, he honestly couldn’t imagine Sophia running into something she couldn’t kill or get away from—especially after evolving to Grade-D and picking a new Rare class.
+
+He was excited to learn what upgrades Sophia had received and even more eager to have some time alone to talk things through. But given how important taking out the Armada Wurm was, he could wait one more day.
+
+He put the matter aside as everyone stood in a circle and began introducing themselves. He was glad to see some familiar faces in addition to a few people he hadn’t met before. Sarah and Bret were both on the wurm team—the brother and sister who had fought beside Nick in the Grand Arena of Papillion.
+
+Sarah was a light mage who specialized in illusions, although she had picked up a collection of combat spells, including one that sounded like the magical equivalent of a laser beam. The cheerful blond woman’s soft features were gone—replaced by athletic curves—though it was clear she’d spent most of her time developing her magical abilities. Sarah carried a staff that enhanced her concentration and was wearing a white silk robe that had been modified to the point where it was almost as sturdy as armor.
+
+“I’ll do my best to distract the big bad using my illusions,” she explained, “keeping it from bringing its full might to bear. I doubt my blinding spell work against something that strong, assuming it has eyes to begin with, but most beasts have a hard time dealing with my illusory clones.”
+
+Bret nodded along and took his turn when his sister was done speaking. In addition to his oversized greatsword, which had obtained some serious upgrades during their tower climb, Bret was decked out in a combination of black leather armor and silvery plates. Just like Nick, the man’s fighting style blended melee and magic, although his powers were quite different.
+
+“I specialize in shadow magic,” Bret said. “I can use dark mana to enhance the strength of my blows, obscure my position, and confuse my enemies. I can attack with shadows directly, especially in dark environments, although my strongest moves involve combining dark mana and combat arts into a single strike.”
+
+Paul, the quiet, curly-haired archer, had also fought with them in the arena. All the man’s gear had been replaced since the last time Nick saw him. Today, Paul was wearing golden leather armor with multiple magic quivers strapped to it, and he carried a modified great bow that was almost as tall as the archer himself.
+
+“I pack a decent punch with my ranged attacks, but my true strength lies in my disabling magic. It might not work against an enemy with such a powerful arcane barrier, but it should protect you against any of the other beasts on the field. Don’t worry about getting caught in the crossfire—my magic can differentiate between friend and foe now.”
+
+Two women Nick hadn’t met were about to introduce themselves when another person arrived—a woman with bright red hair and light leather armor. Nick had only seen the warrior once before, but he recognized her right away when he saw the weapon strapped to her back.
+
+Everyone was thrilled that Ella had arrived in time to join the fight. The woman was the first human to evolve to Grade-D and the person who had leapt off the roof of Darkstone Tower to retrieve the Guardian’s Staff before it was lost forever. After engaging it blade to blade, Nick knew the clockwork staff was a powerful artifact that could change itself into a range of other weapons, including the axe the Guardian had used during the battle.
+
+Before addressing the group, she walked up to Nick and stuck out her hand. “Ella Dimkey, pleased to meet you.” He reached out and shook hands. Ella’s grip was a steel vice—one of the few times Nick was certain that someone’s Strength far exceeded his own. While he had the sense he was being tested, there wasn’t any malice to it and her smile was warm and friendly.
+
+“That battle with the Guardian was something else. I was planning to help after I took out the last clockwork giant, but you didn’t wind up needing me and I didn’t want to disrupt your teamwork.” She gestured toward Devin as she completed her sentence.
+
+“Nick Henry,” he replied. “I heard you kicked some serious ass in that fight. Team Earth would have taken far more casualties without your contribution.”
+
+They looked each other in the eyes and shared a nod of respect between equals. Size Up let him know that Ella could demolish him in hand-to-hand combat—at least if magic wasn’t involved. Her physical attributes were the highest he’d ever seen and every move she made conveyed a mastery of martial arts beyond what skills could provide.
+
+She might be the best fighter we have. I wonder if she’d be willing to spar and give me some pointers later. That being said, the woman’s energetic core wasn’t nearly as developed as his own, leading Nick to believe that she was a pure melee build or close to it. “I hope you don’t mind that I claimed this weapon.” She brandished the clockwork staff.
+
+“Not at all. It was going to be lost forever if you didn’t leap off the tower to retrieve it. I’m just glad someone as badass as you has a suitable weapon. Besides, I already have the only blade I need.” Nick patted Blightbane’s hilt.
+
+“Indeed. That artifact is fascinating. It’s almost like something is sleeping inside it—on the precipice of opening its eyes.” Ella’s insight fascinated him, and he resolved to speak to her at length sometime soon.
+
+“On that note, I have a little gift for that blond beauty standing beside you.” She gestured for Devin to grab his axe. The athletic man blushed at the compliment, which made V laugh so hard that tears ran down her face as he walked over to Ella’s side.
+
+As everyone watched on with interest, Ella unlimbered her gear-staff and then pressed the artifact against Devin’s axe. To Nick’s astonishment, the artifact’s gears started turning as a section of its clockwork components reached out and then snapped onto the end of Devin’s weapon, creating a brass frame for the blade that radiated magical energy.
+
+When the process was complete, Ella handed the Axe back to Devin. The warrior smiled wide as he gave his upgraded weapon an experimental swing. “Thanks, I really appreciate that.”
+
+“Of course. You and Nick were the ones who defeated the Guardian. It’s only fair that you get a cut of the loot. Besides.” Ella patted the shaft of her gear-staff. “She doesn’t like being a bladed weapon anyway and is happy to shed some extra weight. That framework only contains a sliver of her weapon core, but it can conduct fire mana and change shape to a limited extent. It will work with both configurations of your axe and can be fitted to a new weapon if you pick up something better.”
+
+After Ella finished greeting the rest of the team, Devin and Veronica explained their powers. When they were done, the team’s party’s members introduced themselves. Both women were mages who had been part of Kenji’s elite unit during the final battle for Earth, and from the rumors Nick had heard, they were two of the most powerful casters on the planet.
+
+Mirium was a dark-skinned woman wearing a sky-blue robe. She had short, curly hair and dozens of piercings—several of which were clearly magical, judging by the mana they were emanating.
+
+Of course, her most notable feature wasn’t anywhere on her body; it was the giant ball of water that followed her everywhere she went. She explained that the hovering sphere was a bound elemental—a semi-intelligent entity with its own abilities and energetic core, which explained why it sometimes formed a face and hands. For some reason, the elemental did not like Nick, so he always gave it plenty of room and never lowered his guard around it.
+
+In addition to her offensive capabilities, Mirium was a gifted tactician and had been acting as Kenji’s second in command since shortly after they met. As such, she had been asked to brief them on their role during the battle.
+
+“This isn’t the only party who will be fighting near the wurm, but Kenji thinks we have the best shot of scoring a killing blow, and I second his opinion. Unfortunately, we don’t have time to practice fighting as a party—although I’m glad that some of us already have experience working together. As such, we don’t need a designated leader, especially since Kenji will be using his magic to help coordinate our efforts.” Mirium went on to explain how her spells worked, then turned to the woman standing beside her.
+
+With that, Laura took her turn. She was the most heavily-armored caster Nick had ever seen. The blond lightning mage was wearing a full suit of chainmail, although she didn’t seem to notice the weight at all. I wonder if there’s some synergy between the metal’s conductivity and her electric magic.
+
+Laura explained that she would be focusing her efforts on using her lightning to override the signals the wurm’s brain sent to its body, hampering its mobility and leaving it open to melee attacks.
+
+While she spoke, he realized that in addition to being two of Earth’s most powerful mages, Mirium and Laura both had elementally-attuned energetic cores, just like Devin and Nick. It dramatically changed the appearance of their eyes, making them mysterious and intensely beautiful.
+
+Laura’s eyes had originally been green, but now they were an electric shade of yellow. That wasn’t just a metaphor. Her irises emitted a faint glow, even in the daylight. The whites of her eyes occasionally flashed as miniature bolts of lightning crackled across their surfaces.
+
+Mirium’s sea-blue eyes were filled with swirling energy, giving them the appearance of waves rolling across a storm-racked sea. Watching them flow was captivating and indescribably trippy—to the point where Nick had to force himself to look away.
+
+Now that everyone had introduced themselves, they took a seat while going into greater detail about their combat styles and how they intended to deal enough damage to kill the titanic wurm. It was a daunting task. In addition to its army of beasts, the creature had thick skin, durable tissue, and a potent arcane barrier. Both spells and swords would have a hard time penetrating deeply enough to strike any vital points, let alone land a lethal blow.
+
+Although they would be acting in accordance with their instincts once the battle began, the impromptu party spent some time coming up with a general strategy, so they wouldn’t get in each other’s way.
+
+The biggest threat was the wurm’s tongue, which had proven powerful enough to kill a City Boss in a single strike. They would also have to watch out for the elite bashers and being crushed by its bulk, but hopefully the construct would have enough difficulty moving on the ice that its body would be relatively easy to avoid.
+
+After some discussion, they decided that Nick, Ella, Devin, and Bret would focus on the tongue, then try to land some heavy hits once the lethal appendage was out of the way. The rest of the team would lay down suppressive fire, keeping the boss off-balance while they chipped away at its enormous pool of life. It took them a few hours to work out the details, and they agreed to meet up before the battle to go over anything they thought of in the meantime.
+
+After their strategy session was over, everyone left to take care of one task or another. While he pondered some ideas for dealing with the wurm’s tongue and the best way to use his powers against such an unusual foe, Nick went to find Elizabeth. They hadn’t spoken since the night before and he wanted to touch base before training for the rest of the day.
+
+When he entered the hollow mesa, Liz was standing in the middle of a large group, organizing logistics and personnel. Nick’s heart sped up when he saw her face. She was more beautiful than ever, now that she had cut her hair and was wearing clothes that fit her.
+
+It was his first time watching the woman in her element—answering questions, making suggestions, and solving tricky problems before they had time to snowball into something bigger. Her insane Charisma and political experience made her a natural leader, reaffirming his belief that she should oversee the settlement once it had been founded.
+
+When she saw him, Elizabeth met his gaze and smiled. He walked over to say hello when she caught a break. “Hey, Nick. It’s good to see you. How did the meeting with your team go?”
+
+“They’re a solid group, and I’m glad to have them fighting at my side. I also toured the battlefield. It’s amazing what Kenji has accomplished in such a short span of time.”
+
+“I know. That man is a genius and watching him work fills me with the most exquisite sense of optimism for what we can accomplish together. I can’t wait to find out what happens once the wurm is dust and it’s time to start building.”
+
+Her excitement was infectious, and Nick spent a pleasant half hour chatting with Liz while they ate lunch. They both had a lot to do before tomorrow’s battle, so he bid her farewell and began his final preparations, pondering the best way to take the colossal construct down without losing anyone in the process.

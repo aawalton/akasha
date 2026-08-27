@@ -1,0 +1,113 @@
+---
+id: 80916510-c7cf-509c-9764-b31909f854d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Magic Armor and Arcane Shield"
+slug: 0190-chapter-8-magic-armor-and-arcane-shield
+partOf: labyrinth-of-the-mad-god
+position: 190
+ownLength: 2683
+unit: words
+publishedAt: 2025-07-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2403881/chapter-8-magic-armor-and-arcane-shield"
+royalRoadId: "2403881"
+---
+
+Pleased with his Profession and eager to start training his new skills a little later in the day, Nick turned his attention to his equipment, making sure that each item was properly maintained and ready to use in an emergency.
+
+He ran his fingertips across his Flask of Restoration, smiling at the memory of sprinting through the item vault to claim it, then spent a few minutes repacking the pouches attached to his toolbelt. While it was always nice to say hello to old friends, he was mostly interested in checking out his new and improved items—the ones he’d ordered from Gretta. He hadn’t had time to inspect them before his showdown with the Guardian of Darkstone Tower, and he needed to have a firm grasp of their properties before relying on them in battle.
+
+He chewed on some jerky while looking over each piece in turn. He began with Blightbane, brimming with satisfaction that he had finally replaced the shorn pommel stone and restored the balance of the blade.
+
+He drew the curved sword in a flash, getting a feel for the burst of speed his Half-Length Scabbard provided. By now, Nick was used to pulling a four-foot blade out of a two-foot scabbard and was pleased that the motion felt silky smooth.
+
+As the sky began to lighten with the arrival of dawn, he considered the sword that had saved his soul from the Crimson Blight. When Trell had given him the battered blade, the artifact had been missing bits and pieces—like acid had eaten holes straight through the metal. But over the course of his adventures, Blightbane had begun regenerating its missing mass and scars no longer marred its surface.
+
+While the blade had always been sharp, now it was honed to such an extent that he couldn’t make out the spot where the edge ended and the air began, even with his upgraded eyes. The hamon running down its length had been fully restored, transforming the weapon into a lethal work of art.
+
+Blightbane felt light as a daydream thanks to his massively upgraded Strength, although Gretta had told Nick that some metal was missing from the interior, and the weapon would be heavier when it finished healing itself. While all of that was amazing, the biggest change was that instead of being severely lopsided, the blade was now perfectly balanced. He marveled at how clean it felt to slash and thrust—each strike flowing into the next like the sword was dancing with the breeze.
+
+He would start practicing his katas again when he camped for the night while preparing to take his Sword-skill test, but for now, he thanked the weapon for its service, then sheathed it with a flourish.
+
+Next on the list was his magic backpack. Although he hadn’t officially upgraded the dimensional-storage device since boosting its rarity in the mine below Blackmist Bog, adding the chunk of floatstone core from the airship his party had stolen had dramatically increased the bag’s capacity.
+
+Nick would have to do some measuring once he had the right tools, but he estimated that the antigravity core provided about 800 pounds of lift, which meant that he could fill the bag to almost 1000 pounds and it would only weigh 150. He had some ideas for tricks he could pull off using the item’s unique properties, but that was a matter for another day.
+
+With a thought, he activated the Caster’s Buckler attached to his left forearm. The series of silvery sheets forming the vambrace fanned out in the blink of an eye, forming a round shield with a curved surface that was designed to deflect attacks rather than block them.
+
+The buckler had already offered some innate resistance against magical attacks, but after Gretta had worked the bone Nick had found in the tower’s basement into the item’s core, its antimagic properties had been greatly enhanced. He would have to get a feel for it in battle to learn the details, but the upgraded shield should offer substantial protection against projectile spells and fill what had been a gaping hole in his defenses.
+
+Next, Nick took off his Adventurer’s Coat to get a better look at his first piece of magical armor, which he’d been awarded after surviving his tutorial dungeon. The leather was a red so dark it was nearly black and textured with a pattern reminiscent of scales. He had always found the jacket to be a beautiful piece of work, and by now he was so used to wearing it that he felt naked without it.
+
+It had come with a Self-Maintenance Modification, and Gretta had infused the jacket with the green mineral he had found in the mine, bolstering its resistance to acid, flame, and a variety of other elements. The extra elemental defense was nice, but what really excited him was the modification that made the leather become rigid on impact, distributing the force across its surface to reduce the damage he took.
+
+It seemed that these upgrades had been enough to take the coat from Uncommon to Rare, which reminded him that he still had a lot to learn about the System’s rating scale and the creation of magical equipment in general.
+
+As the clouds began glowing pink, Nick moved on to inspecting his brand-new gear, which had cost him the considerable pile of resources he’d collected during his adventures.
+
+The centerpiece was a suit of light leather armor that the System had named Battlemage Armor. It consisted of a cuirass, pauldrons, and greaves. The leather was a pale white hue—stitched together from the carapace of the swarmling he’d battled on the bog and reinforced with a construct-disrupting chunk of ivory he had found in Darkstone Tower.
+
+The armor was a major acquisition that would serve him well on the long road ahead. While it was always nice to have more layers between his flesh and a world filled with rending claws and snapping jaws, the suit’s biggest draw was the other forms of protection it provided.
+
+The armor would supplement his arcane barrier when defending against magic that directly manipulated his body. The material was also resistant to attacks from creatures hailing from other planes of existence. Considering that a mere touch from the swarmling had been fatal, the Battlemage Armor helped Nick breathe a bit easier, although he hoped he wouldn’t encounter more of their kind anytime soon.
+
+He put his jacket back on then turned his attention to his new boots, which had replaced the pair that had melted in a volcanic crater during his trial on the tower’s third floor. They were made from a crimson leather and came up to his knees, although the material was so flexible that he didn’t feel restricted at all. Gretta had assured him that ruddy material was incredibly durable, well-insulated, and non-conductive.
+
+In addition to being extremely comfortable and rather stylish, the Explorer’s Boots dampened the sound of his footsteps. Combined with his Charm of Muffling and new Stealth skill, Nick was confident that he would eventually be almost as silent as Veronica.
+
+The boots had also been modified to increase the height of his leaps. To get a feel for how they worked, he took off his boots and then jumped as high as he could, sailing eight feet into the air. With his boots on, he could leap closer to twelve, which was a considerable boost.
+
+Finally, Nick removed his new helmet. When it came off his head, the Transparency Modification automatically deactivated, revealing the rippling pattern of violet scales, which came from the gemstone-fish leather the item was made from.
+
+The Battlemage Helm was even more durable than his boots and didn’t impede his hearing. It had a hinged plate to protect his face and turned invisible on command. On top of everything else, wearing it would help shield him from various forms of mind-influencing magic—an invaluable form of defense against a terrifying type of attack.
+
+All his new gear came with Self-Maintenance Modifications, which meant they would clean and repair themselves. It was convenient as hell, but the real draw was that these items would last forever unless their cores were destroyed. He’d also asked Gretta to add a Self-Maintenance mod to his Pugilist’s Gloves, although they were just a stopgap until he found something better.
+
+While he still had some pieces that he wanted to swap out, and was totally out of consumable items, Nick had made some fantastic acquisitions to his kit and was looking forward to taking his new equipment for a battlefield test drive.
+
+By now, the stars had faded, and the sky had become a resplendent canvas—sunrise painting the heavens bronze and streaking the horizon with clouds the color of flame. He stopped to greet the Earth’s new sun, then got back to business. Before he journeyed deeper into the Bladewind Badlands, there was something else that he wanted to do first—familiarize himself with his newest spell, Arcane Shield.
+
+Although his System-granted abilities came with a fundamental understanding of how to use them, it always took time to get a feel for a new power’s ins and outs—to learn the best way to use them in concert with his existing abilities and incorporate them into his fighting style.
+
+Arcane Shield was Nick’s first protective power. It was his second spell that used both pure and force mana, although the ratio was far more even than the bit of pure that formed the drill bit of Piercing Ray.
+
+He hadn’t thought about it until now, but he supposed that was the reason why his ray was effective against magical defenses, although the spell worked best against physical armor. I wonder if I can learn how to tweak the mana ratio at will to target my opponent’s weaknesses.
+
+Shelving the issue of customizing his powers until he learned more about manipulating mana, Nick focused his will and cast Arcane Shield. The first thing he discovered was the spell wouldn’t work unless he visulaized the shape he wanted it to take.
+
+Deciding that starting simple was his best bet, he imagined a rectangle a few feet taller than himself and twice as wide—an ideal default configuration to protect him from ranged attacks coming from the front.
+
+A surge of mana flowed out from his core, then a barrier wavered into existence exactly where he’d envisioned. When Nick focused on his energetic senses, he could see threads of force mana braided with pure, forming a tightly-knitted weave. The magic shield was transparent and about an inch thick. To the naked eye, the forcefield looked like a sheet of glass that slightly distorted what was on the far side, although it didn’t reflect light at all.
+
+Arcane Shield’s mana cost was moderate at those dimensions, although it ramped up quickly when he expanded the spell to its maximum size, forming a wall across the woodlands ahead. Once it was manifested, the shield’s mana drain was trivial to maintain, although it would sap more energy with every blow it blocked.
+
+Next, he began playing with the spell’s shape while repositioning it. The solid patch of mana could move fairly quickly, although it had to be guided by his will. It wouldn’t travel with him unless he focused, but dividing his attention was easy thanks to his superhuman Creativity and Mind.
+
+He could bend the barrier to an extent, although it was easier to keep it flat. Nick tried to curve the forefield to form a cylinder around his position, but the best he could do was a 180-degree arc. Hopefully, the shape will grow more versatile with practice or when I advance the ability to rank 2.
+
+He was able to place the Arcane Shield above him in a horizontal plane, but when he tried to bend it into a dome, he had an even harder time than trying to form a cylinder. It did have enough of a curve to form a peak in the middle—kind of like an umbrella.
+
+When he reduced the size to about a square foot, Nick discovered that he could make the shield thicker and move it faster than before. But even at its full size, repositioning the barrier was quicker and more efficient than dispelling it and casting the spell a second time.
+
+When he tried to make the field smaller than his head, the spell destabilized and quickly fell apart. The same thing happened when he tried to point one edge forward and turn it into a blade. It was a little disappointing, as he’d been hoping that he could narrow the shield to just a fraction of an inch, then let his enemies run into it.
+
+It might still have some offensive applications, but this weave simply isn’t designed to pierce or cut. Nick’s musings did, however, give him some ideas he wanted to try once he learned to manipulate force mana on his own.
+
+Now that he had a feel for how to use it, it was time to find out just how much punishment Arcane Shield could take. To begin, he unsheathed his short sword and then slashed the barrier as hard as he could. The clanging chime of steel rang out across the forest floor as the shield stopped his blade cold. He was pleased to note that the spell didn’t so much as wiggle, and that blocking the strike had only drained a few drops of mana.
+
+Next, he returned Arcane Shield to its default size, then backed up and charged it while sprinting at full speed. As he’d expected, it felt like running straight into a wall. Absorbing all the kinetic energy drained a fair amount of mana, which meant he could use the barrier to hold objects back, but there was a limit to how much mass he could restrain.
+
+So far, he’d learned some interesting details, and while Arcane Shield had the potential for other uses, the spell functioned best as a versatile spot defense.
+
+He had two more tests that he wanted to run before he called it a day. First, Nick needed to find out how well the barrier held up against magic. Unfortunately, he didn’t have any elemental spells to try, but he could see how it fared against his wand, Mana Darts, and Piercing Ray.
+
+The shield was effective against all three powers.
+
+His darts did the most damage, since they absorbed the spell’s mana. He had to reinforce the barrier to keep his ray from drilling through, and blocking the blasts from his wand worked best when the surface was curved to let some of the force pass by, rather than trying to absorb the strike head-on. He still had some questions as to how effective the field would be against other types of magic, but that would have to wait until he reunited with his friends.
+
+Finally, Nick conjured a small horizontal shield then jumped onto it.
+
+He was thrilled that the spell supported his weight at all, and sad that he couldn’t move it while he was standing on top. It also sank to the ground relatively quickly. Although, when he braced it between two boulders, the barrier functioned as a bridge, and he was able to leap on top when one edge was braced against the ground. Ah well, my impromptu magic carpet idea is a bust. But maybe magic stairs will work.
+
+That thought made him realize that he hadn’t tried to conjure two Arcane Shields at once. He was disappointed to learn that when he tried to create a second barrier, the first disappeared. He wasn’t too discouraged, as he strongly suspected that aspect was something he could upgrade if he wanted as the spell advanced to higher ranks.
+
+He wasn’t done trying to find creative uses for his new spell, including various means of increasing his mobility, but he’d spent enough time on the matter for one morning. All in all, Nick was immensely satisfied with what Arcane Shield could do and knew it would become an invaluable tool in his kit.

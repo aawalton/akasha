@@ -1,0 +1,71 @@
+---
+id: cae527ef-eab7-580b-8f94-32e5851ac419
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81: The Second Floor"
+slug: 0122-chapter-81-the-second-floor
+partOf: labyrinth-of-the-mad-god
+position: 122
+ownLength: 1425
+unit: words
+publishedAt: 2025-01-22
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2024386/chapter-81-the-second-floor"
+royalRoadId: "2024386"
+---
+
+When his senses unscrambled, Nick found himself standing in warm sunlight. He took a moment just to savor its proper yellow hue after his long stint underground, followed by a month of training on a planet with a lime green sun.
+
+He stood there while his brain adjusted to the radically different color scheme, then turned his thoughts to the ordeal to come. He was ready to find out what challenge the Tower of Rizzen would throw at him next. To deal with enemies that were far more human than anything he’d faced before.
+
+Before he got to any of that, there was something that he needed to do first. Make sure that he wasn’t alone.
+
+Nick didn’t see anyone in front of him, but when he turned around, he let out a long sigh of relief. Unlike his arrival on planet Drezen and the basement of Darkstone Tower, he found himself standing beside all four of his companions.
+
+He broke into a broad grin at the sight of his friends dealing with a bout of portal sickness, giving them time to get their bearings before they began planning out their next move. He knew that danger lurked just around the corner, but it couldn’t dampen his excitement that this time, they would be able to tackle the floor as a team from the get-go.
+
+Better still, they weren’t the same people who had climbed the stairs leading out of the tower’s basement. Individuals who had no formal training in the use of weapons, and no experience in wielding them against other people. So much had changed in just one short month. A month that was only a day for everyone else in the tower.
+
+Although Nick had gotten a taste of what his party could do while sparring in the safe room, the changes were far more apparent in this environment—where danger could arrive at any moment and from any direction. He could tell that they had experienced explosive growth in both skill and mindset, cementing their transition from civilians to warriors.
+
+He was about to say something to that effect when Sophia pointed at something behind him, her jaw dropping in astonishment at whatever it was she saw. When Nick followed her finger to take in his surroundings, all thoughts were driven from his head for long minutes. Because where he was standing blew his expectations out of the water.
+
+His eyes widened in surprise as he took in landscape rich in alien splendor and overwhelming beauty. A scene far removed from anything he could have experienced on the planet of his birth. It seemed that this entire portion of the tower was hollowed out, forming an open space stretching on and up for what looked like miles and miles.
+
+Instead of a wall, roughly one quarter of the level’s exterior was open to the outside world, which explained how the sunlight was getting in. The closest slice of the precipice was only a few dozen feet away, bordered by a tall handrail to keep people from falling over the edge. Side-by-side with his team, he walked over to the boundary of the floor and looked down.
+
+Nick found himself gazing upon a planet’s surface far below, so high that his view was obstructed by several strata of clouds. It reminded him of his stay in the luxury saferoom, and he wasn’t sure if Drezen was beneath him, or one of the other worlds that the tower was connected to.
+
+The sun was shining bright in the azure sky, and the wind blowing in was cold enough to make him shiver. The breathtaking view was one of the most spectacular things that he had ever seen. A sight that would stay with him forever.
+
+As impressive as it was, that wasn’t the most amazing part. What really blew Nick away was what he saw when he turned around to inspect the tower’s interior.
+
+The black walls were thick and sheer, but every few hundred feet they held troughs containing massive rings of earth, creating a vertical garden of mind-boggling proportion. Trees and ferns were abundant, reaching out from the walls to catch as much of the sunlight as they could. Some portions were covered in mirrors instead, spreading the light evenly across the floor. They created dazzling patches of radiance, like the facets of immense jewels.
+
+Bugs and birds abounded, filling the air with color and song. Nick could smell the scents of countless flowers and herbs, forming a sweet medley that was both exotic and refreshing. While all of this was strange and gorgeous, the most shocking sight of all was flying high above his head.
+
+Following that train of thought, Nick raised his gaze to examine something that could never have existed on Earth. Something that made him wonder if he had fallen asleep and was merely dreaming. Because floating throughout the open space comprising this level of Darkstone Tower were islands.
+
+Vast swaths of land were meandering their way across the interior of the tower like something out of a fairy tale. Floating tracts covered in a remarkable range of terrain. He was able to get a glimpse of their surfaces by gazing into the mirrors ringing the walls above.
+
+Some of them were coated in emerald foliage, like tropical rain forests, while others were dominated by giant crystals in a thousand different shades. They sparkled when the sunlight hit them, casting rainbows across the floor.
+
+Some islands were filled with sand, some with pools of water, and a few were formed of terrain that he couldn’t even begin to identify. Nick had the sense that they represented hundreds of different biomes, each with their own ecosystems and microclimates.
+
+While the smaller isles were undeniably fascinating, what really captured his attention were the giants. He could see three massive islands from this vantage, which had to be dozens of miles across. They flowed alongside hundreds of lesser masses that flew faster than their colossal companions. Like schools of fish swimming beside three great whales.
+
+There seemed to be some more major landmasses further up. They were far enough away that Nick couldn’t make out any details, even after pulling out his spyglass to take a closer look. He only had a vague sense of what lay on the big islands, since they were too high to see much of their surface from this angle, just the plants bordering their perimeters.
+
+While the flying isles were an awe-inspiring sight, they weren’t the only thing that demanded his attention. It wasn’t just the islands moving through the air above his head, but countless smaller objects, including a variety of beasts and other fantastic creatures.
+
+Nick took in the spectacle of giant birds making their way across the sky, gliding alongside winged lizards and countless species of insects. Both colossal specimens and bugs the size that he was used to from Earth.
+
+It appeared that many of the creatures who called this place home were able to take to the air, which wasn’t too surprising. It made sense that in a landscape filled with floating expanses of soil, the residents would be able to travel between them. But that wasn’t the end of the wonders that this floor had in store. Not by a longshot.
+
+The most remarkable sight of all, the one that really captured his imagination, was the airships. Nick could see dozens of airborne vehicles from where he stood. From tiny two-man craft barely bigger than a canoe, to what looked like galleons given wings. They rode the breeze on colorful sails, darting between the islands with ease.
+
+The airships were too far away to make out the details until he looked through his spyglass. When he did, he could see some of the passengers of the closer vessels, the ones who were standing near the rails. They seemed to be human, or at least humanoid, although he couldn’t make out the details while peering up from the ground.
+
+“It’s other people,” he said. “This floor is home to a true alien civilization. With any luck, they can help us find the way out. Maybe even provide us with provisions or knowledge about the connecting levels.”
+
+That was when an update from the System popped into existence in front of his eyes.
+
+Before Nick had time to read it, Veronica said, “Fuck. They’re not friendly. They’re pirates and they’re hunting us already. We must get out of the open. Get moving people, we need to hide before it’s too late.”

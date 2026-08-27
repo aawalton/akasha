@@ -1,0 +1,83 @@
+---
+id: 1859973b-e558-5866-8b5e-3b56675bb509
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Construct"
+slug: 0040-chapter-12-construct
+partOf: labyrinth-of-the-mad-god
+position: 40
+ownLength: 1639
+unit: words
+publishedAt: 2024-08-14
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1758404/chapter-12-construct"
+royalRoadId: "1758404"
+---
+
+After a good five minutes of long-distance surveillance, Nick was ready to leave. Picking up some random cookware wasn’t worth the risk of alerting the construct to his presence. Just before he lowered his spyglass, the gear-rat turned to face him.
+
+When he saw what it was holding between its paws, he stopped dead in his tracks and his adrenaline began to flow. Because the little brass beast was in the middle of devouring a wedge of cheddar cheese. The same cheese that Kerry had given him before entering the tower.
+
+This observation changed the situation entirely. One of my teammates was here recently. They might still be in the kitchen.
+
+It seemed that Nick had a compelling reason to finish exploring the cafeteria after all. He put away his spyglass and drew his sword, debating how he wanted to proceed. He could either take out the gear-rat from a distance, try to sneak past, or get close and see how it reacted.
+
+Given size up’s evaluation and the fact that the construct was alone, Nick decided to approach it and see how it responded. He wanted to find out if the machine was hostile and if so, how it fought, before he ran into more of them.
+
+With any luck, it would ignore him or run away, like a real rat would. Although Nick doubted that matters would end so simply, considering where he was and the rules of this floor.
+
+Regardless, he needed to get past, poke his head into the kitchen to see if his friends were inside, then keep on moving before the escalating threat mentioned in the quest’s description reared its ugly head.
+
+With a plan in place, Nick rose to his feet and started walking once more. He decided to pass the construct from a distance of about twenty feet, where he wouldn’t appear overtly threatening. A nice, neutral distance to judge its reaction and learn what its presence foretold.
+
+He kept his eyes straight ahead like he wasn’t that interested, although he was ready to defend himself at a moment’s notice. Then he started making his way toward the back of the immense cafeteria. One hundred feet. Fifty. So far, the gear-rat hadn’t responded to his intrusion. It kept on gnawing away at the final bite of yellow cheese in its hands.
+
+At twenty-five feet it finally saw him, looking up while freezing in place, perched upon the corner of the table. Nick stopped for a moment so as not to appear threatening. “Hey there, little fellow. No need to stop eating on my account. I’m just going to head on by and check out the room behind you. You have no reason to worry about me.”
+
+He looked away and kept walking, keeping his movements slow and steady, not getting any closer in the process. For a moment, Nick thought that the gear-rat would let him pass unchallenged. Perhaps it’s not hostile after all. But before he could take another step, matters took a sharp turn for the worse.
+
+The clockwork construct shoved the last bit of cheese into its mouth, then turned to look straight at him. It let out a vicious, rattling hiss that reminded him of a gas leak, then sprang from the tabletop, clearing the distance between them in a single bound.
+
+The gear-rat was fast. Far swifter than Nick had expected given its size. It streaked straight for his throat with jaws spread wide. Jaws lined with teeth that looked strange in a way he didn’t have time to contemplate right now.
+
+Fortunately, this move was something that he’d planned for, and with a body bolstered by fifteen points of dexterity, Nick moved faster still.
+
+It looks like we’re not going to be friends after all. He took aim and then swung his sword, bringing the blade whipping through the air fast enough to coax a dull roar. Having been prepared for this eventuality, his aim was true. He caught the clockwork creature in the torso with the end of his weapon.
+
+There was a considerable impact, as the brass beast was quite heavy for its size. The gear-rat went flying back, skidding along the tiles before slamming into the leg of a table with a metallic thud.
+
+Surprisingly, while the construct had taken some damage from the attack, his sword hadn’t been able to cut all the way through. The blade had, however, penetrated the rat’s clear skin and carved into a row of the gears bound inside, stripping the mobility from two of its legs. The machine turned to face Nick and started dragging itself forward, fury smoldering in its beady brass eyes.
+
+It’s tougher than I expected, but that wasn’t too bad. He walked over and raised one foot high into the air, then feinted with his sword. When the rat turned to snap at the blade, he brought his boot down hard, with the full weight of his body behind it.
+
+There was an incredible crunch as the gearwork was forced out of alignment, and several big cogs warped beneath the force of the blow. He must have destroyed something important, because the gear-rat let out a final screech and then went still.
+
+Nick was about to bend down and examine the body, hoping to learn more about this strange new type of opponent. But before he got the chance, the construct’s remains started glowing, and then vanished with a pop of displaced air.
+
+“That’s new,” he shrugged and kept moving. He was eager to explore the room and then get out as fast as he could, in case the rat’s friends had heard the noise and were coming to investigate.
+
+He made his way past another twenty rows of tables before reaching the opposite side of the cafeteria. Running along its length was a half-wall, which had once held tray racks and serving bins, judging by the intact portions. Rather than looking for a way around the counter, he leapt over the barrier, then stepped into the food prep area beyond.
+
+The kitchen was huge and stocked with enough equipment to feed an army, or at least it had been before disaster had descended upon this floor. Here too, not a trace of organic material remained. Nick strongly suspected that the gear-rats were responsible for this occurrence, solving the first item in his long list of questions.
+
+However, the damage wasn’t limited to the wooden implements. Most of the metal tools had been eaten too. The knives and pots he found were reduced to scrap metal, with tiny tooth marks running along the intact edges. These guys take the word omnivorous to a whole new level. I hope they didn’t already eat everything valuable down here.
+
+He picked up his pace and surveyed the area, finding no sign of his party or any indication that they had been in this part of the room. When he stuck his head into two adjoining chambers, which appeared to have been a freezer and dry goods storage area, nothing but rubble-studded ruin met his gaze. His friends weren’t inside and there wasn’t anything useful in there either.
+
+But he didn’t strike out completely. When he turned to leave, Nick spotted a butcher’s knife resting on top of an intact piece of ductwork, out of sight from the gear-rats crossing the floor below. He stopped to put the blade in his pack, along with what appeared to be a vegetable peeler, before making a hasty exit.
+
+When Nick was about to step into the hallway, he heard a high-pitched squeal coming from near his boots. Afraid of what he would find, he leapt back and looked down at the floor… just as two more gear-rats scampered through the door.
+
+After stopping to look straight at him, they attacked without hesitation. One went streaking for his legs in a surging rush, while the other leapt straight for his face.
+
+Before the airborne rat could sink its teeth into him, Nick felt a sudden impulse to raise his left arm. A sensation that he recognized as coming from his skills, one that he’d never used before. A certainty that using his shield now was the best thing to do.
+
+Giving into the urge, Nick sent his intentions into his vambrace and began moving his arm, the magic shield fanning out to its full size in the blink of an eye. He let go of his sword with his left hand and let loose a powerful backhand, catching the rat with the center of his shield and sending it soaring back.
+
+Before he could finish it off, the second gear-rat arrived at his feet. It made a short hop, landed on his jacket, and started to climb, heading for his exposed throat, nose, and eyes.
+
+Nick had already experienced something similar once before. Back in the arena, a wasp had landed on his chest and clamped on tight, nearly claiming his life in the process. Since then, he had come up with several contingencies for dealing with clinging enemies, one of which would work now.
+
+He opened the front of his jacket with his left hand, pulling the leather away from his body. He judged the timing and then struck the inside with the hilt of his sword. His blow caught the climbing critter square in the belly. The impact broke its grip and sent it flying, screaming its outrage all the while.
+
+That was the moment when Nick felt pain erupt along the heel of his right foot. Along a swath of skin that should have been protected by his steel-plate-lined boots.
+
+He looked down and leapt back, taking in the sight of a clockwork rodent swallowing a mouthful of leather, steel, and flesh, chewing through the metal as if it were no thicker than ice cream.

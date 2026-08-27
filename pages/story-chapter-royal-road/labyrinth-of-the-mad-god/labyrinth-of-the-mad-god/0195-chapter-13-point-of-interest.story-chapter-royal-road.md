@@ -1,0 +1,99 @@
+---
+id: 80bbcbeb-29b4-52ec-b672-fe905e543ffe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Point of Interest"
+slug: 0195-chapter-13-point-of-interest
+partOf: labyrinth-of-the-mad-god
+position: 195
+ownLength: 2014
+unit: words
+publishedAt: 2025-07-14
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2435156/chapter-13-point-of-interest"
+royalRoadId: "2435156"
+---
+
+Half an hour later, Nick was drawing near the falls. Soon, the roaring was so loud that it vibrated his teeth inside his jaw.
+
+After scanning the area for anything unfriendly, he made his way over to a wide pool at the bottom of the waterfall that fed the river stretching out behind him. His smile grew wider when he spotted a narrow shelf of stone that would let him cling to the face of the cliff and peer behind the curtain of falling water.
+
+With his high Dexterity, navigating the slippery, inch-wide ring of rock was almost effortless. By the time he was halfway across, he knew there was something back there after all, and five minutes later, Nick found himself standing in the mouth of a spacious cavern that was perhaps 200 feet deep.
+
+There was no sign that beasts were living within the enclosure, and the only animals he saw were a few frogs and a pair of bats hanging from the ceiling. Just to be safe, Nick Sized Up the cave before heading inside to take a closer look, but his skill didn’t detect anything dangerous either. He passed by a shallow basin where you could wade into a portion of the falls, with a rocky barrier to prevent you from being swept into the big pool another fifteen feet below.
+
+Although the cavern was empty, Nick had a good feeling. He could sense something moving in the air—causing the hair on his arms to rise on end and setting his skin atingle.
+
+When he reached the back of the hollow he discovered a small obsidian obelisk that was identical to the one he’d found on the Searing Isle other than the scale. There was no doubt in his mind that it had been placed here by the System to mark something significant.
+
+There wasn’t a display mounted beside the obelisk this time around. But then again, Nick didn’t need a screen to access his menus anymore. If there isn’t a display, then maybe… Sure enough, when he reached out and touched the chill black stone, a message from the System appeared.
+
+System Message: Regional Point of Interest.
+
+You have discovered a hidden regional resource.
+
+Mana-Infused Waterfall
+
+This waterfall emits a high concentration of water and force mana. The cavern behind the falls is an ideal place to train the body and mind and may have other uses as well.
+
+Cost to claim: 500 CP.
+
+City bonus once claimed: +1 Water mana generation. +1 Force mana generation.
+
+Status: Unclaimed.
+
+Only a city lord may claim this resource (if it is within their domain and they spend the requisite CP). You may use this facility freely while it remains unclaimed.
+
+Fucking awesome. Nick couldn’t access the city portion of his codex until the Rebuilding Civilization quest officially began. But the idea that a settlement could utilize the ambient mana in the environment sent the gears in his mind whirling with possibilities, contemplating new ways to accelerate humanity’s development before they had to face the dangers lurking in the Labyrinth of the Mad God.
+
+I need to find my friends, then take out one of those city bosses as soon as possible. I wonder what other resources and facilities I can discover while exploring the badlands. While he pondered the matter, Nick came to a stop while staring up at the falls.
+
+After mulling over the System’s description, he decided that this was a perfect place for meditation. The roar of the water breaking over the rocks was deeply soothing, and he soon entered a light trance without even trying. He could also see the benefits of conditioning his body beneath the falls, like in those ninja anime Angie had been so fond of.
+
+While training his body and mind was inherently valuable, it was that last line that had him rubbing his chin while pondering the possibilities—the part about this place having additional uses that might not be immediately obvious.
+
+That thought triggered a memory of something Rita had told Nick when he’d asked about learning to use magic beyond the abilities granted by the System. His mentor had revealed that one way to train his energetic senses was to find places that naturally emitted concentrated magical energy.
+
+Based on the bonus for claiming this waterfall, Nick was standing in just such a place. He had also seen the System allude to the possibility of utilizing magical energy that was outside his energetic core. It was something that he wanted to experiment with as soon as possible, since he had a hunch that doing so was a necessary step in taking his understanding of magic to the next level.
+
+He didn’t have time to condition his physical attributes beyond what he could accomplish on the march, although he would love to come back later and devote a few days to it. Meditating to train his Creativity and Mind would be great too, but it wasn’t a priority right now.
+
+Learning how to sense and manipulate mana, however, was another story entirely. I need to take a break anyway. I’ll give it a shot for an hour or two, then find a way up to the highlands. When Nick looked for a good place to sit, he discovered a ring of boulders positioned about a third of the way into the cave. They were a perfect place to clear his mind while gazing up at the falls.
+
+That was when he remembered something Gretta had mentioned back on the craft world—that he could hasten Blightbane’s restoration if he bathed it in compatible energy. He wasn’t sure if this was the right kind, but he figured it couldn’t hurt to try. He walked over to the water and unsheathed the blade with a flourish. After taking a few seconds to admire its balance now that the pommel stone was attached, he lay the sword near the misty base of the falls.
+
+With that out of the way, Nick picked a rock, took a seat, and crossed his legs. He didn’t close his eyes given what he was attempting, but he let his mind go blank. He took a deep breath while focusing on the growl of the water pouring across the stones and flowing into the basin, feeling the mist bathing his skin and the bass conducting through his bones.
+
+He unfocused his eyes and centered his gaze on the water breaking against the rocky basin, letting his body resonate with the endless vibrations. He kept his breathing slow and steady while relaxing his muscles one by one. Soon, his trance deepened, as his sense of self expanded to fill the cave.
+
+Nick eventually realized that he could see something floating in the air—although that description wasn’t quite right. There were threads of something permeating the water and stone, moving through the air and ground.
+
+He let a portion of his mind analyze what he was perceiving, but didn’t try to separate himself from the experience. As the sensation came into focus, he sensed a buzzing in the background—a blend of various energies overshadowed by two types that were flowing through this place in abundance.
+
+One was cool and soothing. It was always moving, taking any form yet possessing none. The flowing bands were a deep blue hue, like the heart of a pristine glacier. Its movement was so fluid that Nick soon realized this energy was water mana—the first time he had been able to sense it clearly. My trait doesn’t help with elemental energy. I’m glad that I can still perceive it if I try.
+
+Interwoven with those mercurial flows was another frequency of magic. Something ponderous and powerful that tied the bones of the Earth together. It was a force that existed everywhere, but whose full potential was realized when gravity came into play. Since he had seen it several times before, he knew what it was right away. It’s force mana. The falls are emitting almost as much as the Janitor’s core.
+
+His ability to sense the mana suffusing the falls faltered when his concentration wavered. But with a bit of practice, Nick was able to hold onto the perception while pondering it at the same time. He let his focus deepen and was eventually able to pick up other energies as well, undulating and shifting around the rest.
+
+He grinned when he realized that he was witnessing the full tapestry of mana without the System’s assistance for the first time. He needed to practice making the process fast and reliable, but this was a major breakthrough—something that he would diligently develop over the days ahead. He wondered if his success was due to his species evolution, his new class trait, or his growing familiarity with magical energy. Probably a little of each.
+
+By this point, Nick was definitely coming back here to train once founding a city was taken care of. He needed to head out soon, but there was something he wanted to try before he resumed his journey. Now that he could perceive the ambient mana in his environment, the next step was directly influencing it.
+
+He willed his mind to reach out and touch the magic dancing all around him… but nothing happened. He tried several different methods but couldn’t make them work.
+
+Next, he focused on his energetic core, trying to draw some mana without casting a spell. He eventually pulled out a thin thread of pure mana and sent it coursing across his skin. However, it fell apart the instant he tried moving it beyond the boundary of his body. Instead, he guided the mana into his fingertips and then approached the falls.
+
+Nick reached out and touched the falling water, feeling the water and force mana flowing through the falls. Then he tried use the mana coating his hand to influence the magic moving beyond his body.
+
+He kept at it for the better part of an hour before an idea came to him. His awareness of his energetic pathways was enhanced for a short period when he spent his free points on Magic, which he hoped would help him now.
+
+So, Nick went ahead and spent one, focusing on the sensation of his core expanding then compacting. At the same time, he cast a Mana Dart and let it orbit his head, concentrating on the path the energy followed as it left his core, entered his magical circuitry, and then manifested beyond the boundary of his body.
+
+He spent another point to deepen the experience, then reached out and tried again. This time, when he tried to influence the nearby flows of force mana, he felt them shift a tiny bit in response to his efforts. He couldn’t guide them but getting them to move at all was a major accomplishment—proof that he was on the right track and what he was attempting was possible.
+
+Before the feeling from spending his points faded away, he tried the same thing with water mana. However, the slippery cerulean energy didn’t react at all. It just slid around the mana coating his fingers like they were coated in oil. It’s the penalty from my force attunement. He decided. Thankfully, it doesn’t stop me from perceiving elemental mana; just using it.
+
+That brought him to his final experiment of the day. Nick reached out again and touched the force mana radiating from the falls. When he felt the energy shift in response, he tried to reverse the flow and pull some into his body. He wasn’t sure, but he thought he sensed a tiny thread move into his circuity. He nodded in satisfaction, then walked over to retrieve his blade while savoring his accomplishment.
+
+It was only the first small step on the long road to come, but he finally felt that he was at the starting line of learning to use magic, and he intended to master the process as quickly as he could. But not today.
+
+Nick spent twenty minutes practicing with his blade, then got ready to head deeper into the badlands.

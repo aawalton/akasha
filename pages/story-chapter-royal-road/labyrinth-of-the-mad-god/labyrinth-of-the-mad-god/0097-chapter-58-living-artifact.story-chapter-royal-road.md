@@ -1,0 +1,89 @@
+---
+id: c8ef78c5-f640-5af5-a60f-c66ef97287e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58: Living Artifact"
+slug: 0097-chapter-58-living-artifact
+partOf: labyrinth-of-the-mad-god
+position: 97
+ownLength: 1624
+unit: words
+publishedAt: 2024-11-29
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1930992/chapter-58-living-artifact"
+royalRoadId: "1930992"
+---
+
+After Nick let everyone know that he was going to be ok, Team Earth stood there in stunned silence—taking in the massive windfall they had received for defeating the roach queen, a few dozen of her minions, and the colossal monster known as the Janitor.
+
+He wasn’t sure how long the gear-swarm would wait before making its move, but every second they had to rest and consolidate their gains was a precious resource.
+
+Nick thought that he had reached the end of his most substantial reward to date. But it turned out that the show wasn’t quite over. A few seconds after he read the final word, something incredible occurred.
+
+“I don’t suppose there’s anything valuable in that pile of goop.” Devin pointed to the colossal mound of gel spread across the floor. He started poking at the mess with the tip of his axe. “I don’t want to go rooting around in that stuff either way.”
+
+Nick was about to tell Devin to leave it alone, when his belt began lurching. For a moment, he thought that he was under attack, but then he realized that the motion was coming from his wand. It was moving of its own accord—pulling and tugging at the loop holding it in place, like a living creature trying to break free.
+
+“What the fuck?” Veronica mirrored his train of thought verbatim. Trying to understand what was happening amid this unprecedented situation, Nick pulled the wand free from its loop and held it in front of his face. The force-flinging device kept on strumming and pulsing, like it was trying to escape.
+
+A few seconds later, the wand calmed down, so he relaxed his grasp with a shrug.
+
+The instant he did, the device flew free from his fingers—shooting across the room like an arrow taking flight. To Nick’s bewilderment, the wand sailed straight into the corpse of the Janitor and disappeared into the quivering pile of goo.
+
+“Ok. That was the definitely the weirdest thing that’s happened all day.” Devin tracked the motion with a weary sigh.
+
+“Do you think the Janitor is still alive?” Shaun asked. “Maybe its eating your wand to recover.” The archer’s words gifted Nick with a spike of adrenaline. Although they had already received confirmation of the mutant’s death, maybe the tier 2 creature could resurrect itself on top of everything else.
+
+He was already staggering toward the smoking remains. His wand had become a vital part of his fighting style. By now, it felt more like an old friend than a simple tool and losing it would be an incalculable loss. He forced his body to run—preparing to dive into the Janitor’s corpse to retrieve it if that’s what it took.
+
+Before Nick got there, Sophia stopped him with a hand on his arm. “I don’t think the Janitor is eating your wand. I’m pretty sure that it’s the other way around. The corpse is getting smaller by the second. I have no idea what’s happening, but it looks like the wand is absorbing the gel. You said that the Janitor’s force essence was incredibly compatible, right? That it was the reason why the wand was recharging so fast during the battle. It must have something to do with what’s happening now.”
+
+When he calmed down and took a closer look, Nick realized that Sophia was right. He had no idea how it was possible, but it was clear that the wand was absorbing the Janitor’s tissue. It sat immersed within a shrinking pile of goop—soaking up the kinetic essence that comprised the jellylike substance.
+
+Everyone took a seat facing the constructs in the tunnel while they recovered their vital energy and waited for the strange show to play out. Fortunately, the machines were in no hurry to finish them off and he didn’t see so much as a single rat.
+
+Nick took the opportunity to scan the battlefield. It seemed that some of the constructs had been destroyed so thoroughly that they hadn’t been able to teleport away. He put several of the broken machines into his bag, including a pair of the gear-turtles that had generated the barriers.
+
+Ten minutes later, the last speck of gel disappeared into the wand’s shaft and its length began to glow—so intense that it was hard to look at. When it was done, he walked over and picked the magic tool up, marveling at the changes that had taken place over the last few minutes.
+
+The wand was longer and thicker than before, but that was only the beginning. There were now five gems mounted along the base instead of three. On top of everything else, there was an extra knob on one side, which turned in place like a wheel.
+
+Nick was thrilled that his wand had improved, but he had no idea what had happened or why. He found out the answer a few seconds later, when a message from the System appeared.
+
+One of your items, the Wand of Force, has revealed a hidden modifier.
+
+Modifier: Living Artifact.
+
+This item passively absorbs essence to regain charges instead of mana. In addition, once certain thresholds are reached, the device may evolve and gain additional properties.
+
+Wand of Force (uncommon) has become Wand of Force (rare).
+
+The wand has gained two maximum charges, more power, and the ability to control the spread of the blast by adjusting the knob on the side.
+
+The maximum Wand skill granted to its bearer has increased from: 25 to 50.
+
+The device may evolve again, but doing so will require a compatible concept in addition to absorbing significantly more essence than before.
+
+Nick had always suspected that there was something special about his wand. It was the only item he’d ever heard of that granted a skill. It had also started off with a soulbound modifier, which only his Flask of Restoration shared.
+
+He’d felt something resonate with him when he’d first claimed it, back when Taltos had invaded his orientation and stolen the Earth. On several occasions, the device’s behavior had revealed that it might have hidden properties. Now, the wand’s secrets were coming to light. So far, it seemed like purely good news.
+
+Since the series of spectacles was finally over, everyone rose to their feet. They were ready to figure out what to do about the gear-swarm blocking the exit. To come up with a strategy for reaching the stairs without being drawn into another desperate battle.
+
+That was when Nick spotted a shard of what looked like clear crystal lying beside his boot. It’s a fragment of the creature’s core. The wand must have gotten full before it could finish the last bite. When he tried sizing it up, the core shard appeared inert, although he could sense residual energy emanating from it. Figuring that it might be useful later, he put the shard into his bag and returned his wand to its belt loop.
+
+Meanwhile, Sophia pulled something free from a roach warrior’s corpse. He realized that she had been digging through them ever since the battle ended. He had been too distracted by everything else to wonder what she was up to.
+
+“It’s an intact beast core,” she explained. “I was hoping to find at least one. My class can use a ritual that will guarantee this beast is the next summon that I’m offered.” She bent down to retrieve its mandibles and part of the exoskeleton, and then strapped them onto her pack. “Soon, I’ll have a frontline fighter to add to my collection.”
+
+“You’re not making much progress on that ‘no bug lady’ thing.” Nick tried his best not to laugh at the glare Sophia shot him in response. “Sorry. I probably should have kept that to myself.” They all started laughing at that point—letting out some of the pent-up stress from their prolonged ordeal.
+
+A few minutes later, Shaun turned to face the team and said, “I’m thrilled to have won that fight. But I think we should go, before something else happens that will keep us from reaching the stairs. On that note, does anyone have any ideas on how to handle the swarm? We’re down to the dregs of our reserves. I don’t think we can break through in our condition, let alone destroy them all.”
+
+The team began to brainstorm, trying to find a solution to the problem before the opportunity was taken out of their hands by the entity controlling the clockwork army. Nick wasn’t satisfied with the result. The best they could come up with was to lure the swarm into the chamber, then break free and make a dash for the stairs.
+
+But there were several problems with that plan that didn’t sit well in his stomach. Even if it worked, there were bound to be even more machines blocking the path to the stairwell. The most likely outcome would be getting trapped between them, leaving Team Earth even worse off than they were right now.
+
+That was when a solitary gear-rat appeared. It began to approach the party after leaving the passageway that the swarm had blocked during the fight. Shaun raised his bow and took aim. “I’ll get this one. I need all the experience I can get.”
+
+Before he could fire, Nick stopped his shot with a hand on his shoulder. “Wait. Something strange is going on. The rat is moving slowly, isn’t trying to dodge, and it’s alone, even though the swarm is nearby. Let’s see if we can figure out what is happening before we make our move. If it tries to attack, feel free to take it down.”
+
+Everyone rose to their feet with weapons at the ready, waiting to see what would happen next.

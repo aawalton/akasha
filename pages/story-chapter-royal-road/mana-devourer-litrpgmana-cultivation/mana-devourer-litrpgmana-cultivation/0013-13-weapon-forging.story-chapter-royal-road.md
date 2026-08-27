@@ -1,0 +1,259 @@
+---
+id: c39238ec-a0f8-597b-bb49-998e23fc69e1
+page-type-slug: story-chapter-royal-road
+title: "13. Weapon Forging"
+slug: 0013-13-weapon-forging
+partOf: mana-devourer-litrpgmana-cultivation
+position: 13
+ownLength: 3703
+unit: words
+publishedAt: 2024-07-03
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1703116/13-weapon-forging"
+royalRoadId: "1703116"
+---
+
+“You Drathok’s new punching bag?” the blacksmith sneered, large tusks jutting from his maw as he looked Markus over, who despite the potent effects of the healing potion, still looked like he’d recently gone twelve rounds with Rocky.
+
+“...something like that,” Markus shrugged, wandering into the large, open-plan forge and leaning against a support beam. He simply waited for the creature to finish his task for a moment, eventually growing interested enough in the hammering and shaping to cast [Identify] and see if he could get any information on what the blacksmith was doing.
+
+[Alloy refinement in progress. Activity requires a minimum of 30 Arcana.]
+
+Wow, a lot more than he had. Who knew forging had such advanced attribute requirements, even to do the basics?
+
+Interesting that there was no specific Strength requirement. He supposed the attribute might’ve been a bit less hard and fast in its application to real world activities than something like Arcana.
+
+It wasn’t long until the great beast creature stood, pushing aside his task and walking over to greet him. “Sorry for the wait. Drathok sent you, then?”
+
+“Yeah.” Markus fished in his pocket, drawing out the coin he’d been given earlier. As he grabbed it, it lit up with a red glow once more, perhaps a bit dimmer than earlier. “He told me you could refine a weapon with this.”
+
+“Oh?..” the boar man put his hand out, patiently waiting for Markus to drop it inside.
+
+Markus hesitated. There was no guarantee he wouldn’t just try and take it from him. This creature rippled with muscle to the point that his arms were about as thick as Markus’ torso, and he easily had two feet on him. “What is it, anyways?”
+
+“This metal is known as malichor. It’s not from Firrelia.” The boar man smiled, or perhaps grimaced. It was hard to tell with the shape of his jaw and the size of his teeth. “Drathok must like you. Materials like this are usually reserved for demons.”
+
+That meant he’d probably know if it went missing. It also meant this guy would be less likely to try and rob or attack him. If the overlord of this place seemed to be a fan of you, that probably meant most saw you as off-limits.
+
+…assuming they weren’t a batshit crazy imp with nothing to lose.
+
+“Is it really enough to make a weapon out of? It looks tiny.” Markus handed the coin to the boar man. The glow of the metal changed entirely, shifting from a bright, burning red to a muted and dull ruby.
+
+“No, you won’t be able to forge a full weapon from this. Not even a dagger,” the blacksmith answered, staring at the coin and looking it over as if for imperfections. “Like I said, this is usually reserved for demons. That said, even a part-malichor weapon will still possess properties beyond those of a standard blade.”
+
+“I see…” Markus didn’t see. “What does it do?”
+
+“Malichor is a living metal. It bonds to its user, reacting to the emotions within their heart.” He moved over to a workbench as he spoke, placing the coin down there and beginning to measure it. “It’s one of a few similar metals that hail from Seconna, the planet most demons hail from.”
+
+“The demons aren’t from here?” Markus frowned; that was off-topic. “What does that mean, anyways? Reacting to the heart.”
+
+“In the case of malichor, your rage and passion each fuel its properties. The metal burns brighter in battle, drinking from those it strikes and gaining strength through bloodshed, becoming sharper, heavier, a more effective conduit for spells.” He gestured to a line of weapons as he spoke, waving Markus to come over.
+
+“Then, beyond that, there’s the living nature of the weapon. It can grow as you do, unlock Paths as any creature might. The experience resides in the metal, so while it grows, it can be reforged again and again without too much loss in its progress.”
+
+When Markus heard as much, he found his mouth hanging open as he searched for words. What he’d almost blurted was how surprised he was Drathok had given him something like this. He supposed it was meant to be a pretty effective motivator to do as he was told from now on. If this was the carrot, after all, then just how terrible was the stick?
+
+And Markus seriously doubted that Drathok would give him something he thought would lead to trouble for him later. He’d said himself that it would take years for Markus to reach his level.
+
+“Hey. You still with me?”
+
+“Yeah,” Markus nodded, snapping back to attention.
+
+“These are some examples of weapons you could have this forged into,” the boar man said, fishing daggers, shortswords, a small axe, and a couple other bladed instruments off of a rack and placing them on a table side by side. “You could have it forged into anything, in theory, but the more surface area you work with, the more the malichor is gonna be diluted. If you forge this little coin into a greatsword, it’s gonna grow extremely slowly.”
+
+“How about a glaive?” Markus asked.
+
+“A glaive…” Boar man grumbled, his eyes becoming stern. “It’s a cutting weapon, which is good for the malichor, but… you’re talking about affixing a priceless metal to a weapon with a wooden handle. Why a glaive?”
+
+“Well, could you make a more durable handle?”
+
+Markus didn’t want to have to learn a new weapon. He’d already gotten multiple points in Glaive Mastery from his first fight, and while it’d been an impulse grab when he’d been completely new to this situation, he did like the versatility of it. He could stab, swing, and throw it if needs be, all while being able to fight at a slight distance.
+
+“Hmm…” boar man tapped a pristine, four inch claw against his chin, thinking over the request. He eventually nodded. “You’ll have to choose between weight and durability. I can make a metal handle, but if you want something that won’t bend under pressure, I’ll have to make it dense.”
+
+“Hmm…” Markus pointed to the rack behind them. “Can you pass me that claymore?”
+
+“I thought I told you about long blades already.”
+
+“That’s not why. Can you just pass it?”
+
+Wordlessly, the smith walked over to the claymore, picking it up in one hand and handing it over to Markus.
+
+Markus almost dropped it the moment he tried to hold it in just his right. Even with two hands, this thing was kinda rough to try and hold upright.
+
+He was pretty sure it wasn’t just a lack of strength giving him trouble, though.
+
+Boar man looked at him like he was crazy, concern etched on his face. “Do you know how to use that thing? I figured you were a strong fighter. You look like you’re about to fall over.”
+
+[Steel Claymore equipped. Weapon grade: unknown.]
+
+“Try not to break my sword.”
+
+[Attune this weapon to an essence? Flame, Divine, and Spirit essence are available.]
+
+Markus selected Spirit and began the process of attunement. It wasn’t long before a white-blue glow had enveloped the weapon, etchings appearing within the blade as the ability ran its course.
+
+“What did you...”
+
+[Steel Claymore. Properties: Spirit Imbuement, F, 100% charge. Attunement, I.]
+
+“I imbued it with mana,” Markus answered plainly, walking out to the open space in the middle of the forge and giving the weapon a test swing.
+
+Still kinda sloppy, but better. This was harder to use than the glaive, partially because the weight was so unbalanced, and it wasn’t the fairest comparison considering he was covered in injuries right now, but even so, he knew he didn’t like the feel of this.
+
+Still, even the most basic level of attunement made a dramatic difference. He didn’t even understand how to hold this when he’d first started, but now it was only finding the proper method of attacking with it that was giving him difficulty.
+
+“You can do that?” boar man asked, eyes alight in curiosity. “How does that work? Is it akin to an enchantment?”
+
+“I don’t know anything about enchantments,” Markus admitted. “I’m still really new to all of this. All I know is that when I imbue a weapon with mana, I take some of my energy and put it inside of it. Then I become attuned to that weapon.”
+
+“Does it still work if you put it down?” boar man asked, appearing fascinated by this line of conversation, staring straight at Markus where his attention had been scattered over his workshop only moments before.
+
+“Yeah. I threw my glaive during my first fight, and the imbuement didn’t end.”
+
+“Hmm… May I?” the blacksmith asked, putting out his hand to reach for the sword.
+
+“Sure. Go for it.”
+
+Boar man took the claymore in a single hand as he had before. The weapon continued to glow a faint blue-white, still filled with mana, but the moment the blacksmith took the weapon from his hands, Markus got a notification that his attunement had ended.
+
+“I’m not attuned to it anymore, but it looks like the mana inside of it didn’t go anywhere.”
+
+“I see that…” Boar man marvelled at the weapon for a moment, staring at the etchings, before finally giving it a test swing. He frowned. “Not any heavier than usual…”
+
+He walked over to an oak board that had been chipped and cut and scraped seemingly a thousand times. He gently ran the blade along it, then, with a powerful motion that made Markus flinch for its suddenness, the boar sliced directly into the board.
+
+“It’s a bit sharper.” He pulled the weapon up after, inspecting the blade. His eye flashed with purple intensity, perhaps casting a spell. “It didn’t dull from that strike, either.”
+
+He ran a few more tests on the weapon in the next few minutes, from hitting it with hammers to striking it against different surfaces until the enchantment ran out, and eventually taking the blade between two meaty hands and seeing how hard he had to push to fully bend it.
+
+Once he’d bent it mostly back into shape, he smiled. “This is extraordinary. Even once the mana inside the weapon ran out, the etchings remain, and the durability keeps. What do these markings mean, anyway?”
+
+“Beats me,” Markus said, rubbing his temple as he spoke. The heat inside this place took some getting used to. “I just react to the system prompt and it does the rest itself.”
+
+“Interesting… I wonder if I can…” Boar man held the weapon tightly in his grip for a while, focussing intently on it. Markus wasn’t entirely sure what he was doing, and tried getting his attention at least once, but was totally ignored.
+
+After about thirty seconds, the sword glowed blue once more, and the blacksmith cried out in discomfort.
+
+After holding the sword for about five seconds, the weapon glowing around its magical lines brighter and brighter as the blacksmith maintained the connection, he eventually dropped it, gasping and clutching at his chest, falling back into the billows behind him and eventually stumbling down to sit against the wall.
+
+He panted fiercely as Markus watched on in horror. The sword on the ground still glowed a bright, powerful blue, though there was no white to be seen in its sheen.
+
+“Wh-what happened?! Are you okay?”
+
+“I… I had a theory about what the markings…” He panted some more. He retched a little, then returned to trying to get his breath back.
+
+“It’s okay,” Markus said. “Take your time.”
+
+“Th-there’s water over on the table. Can you—”
+
+“On it.” Markus walked briskly to the opposite table and found a skin of water amongst various oils and balms, walking it over to the smith and helping him take a sip.
+
+He coughed a little as the water hit his throat, heaving, but eventually, he began to calm, his body stilling as he managed to take the skin of water himself and drink greedily from it, downing the entire contents in a few seconds.
+
+“Hah… I think whatever you do to these weapons establishes a conduit.” He attempted to rise to his feet, wobbly and unbalanced. Markus tried to help him up, but the massive creature pushed him away. Probably a good thing, he’d likely have crushed him if he fell on top of Markus.
+
+“I’m fine. Thank you.” He leant back against the forge as he panted some more, eventually beginning to walk back outside of the smithy. “I need air.”
+
+Markus followed, and when the boar man had finally breathed some less smoky subterranean air, he spoke once more.
+
+“A conduit. It allows the person wielding it to put more energy inside. Likely of the same type that you used to enchant it.”
+
+Markus nodded. “Is that such a rare thing?”
+
+“I’ve never encountered an enchantment like this. The ability to draw energy directly from the user and transfer it into power is… it’s incredible.” Right after having said so, he frowned. “That said, I fear it’s also dangerous. I felt so little control over what was happening to me once I’d finally figured out how to use the enchantment. I worry that if I hadn’t dropped the weapon, it might’ve dealt some real damage to me.”
+
+Markus was shocked to hear as much. He had absolutely no trouble imbuing a weapon with mana. It’d never caused him discomfort. He relayed as much to the smith, and his eyes widened with recognition.
+
+“You’re a Mana Manipulator…” he nodded to himself, an affirmation of his own words. “Yes. It makes sense now. Navigating this is likely child’s play to you, but to even seasoned artisans like myself, a rudimentary understanding of mana is difficult, let alone a complex, detailed one.” He laughed. “To think that Drathok chanced across one of your kind…”
+
+“I don’t understand,” Markus said. “I see people using magic around me all the time. What’s so different about this?”
+
+“Magic is understood,” the blacksmith responded. “It’s written. Passed down and taught. It has a fixed cost. You can either cast a spell, or you cannot, and understanding how much energy you have at your disposal is simple. Breaking down mana into its core components and using it in the manner you do is different. It’s unregulated. Near-impossible to control.” He sighed. “I couldn’t sell these.”
+
+Markus nodded. Before the smith had hurt himself, he’d been considering the prospect, but he couldn’t exactly go out giving away swords that might kill the user if they got any bright ideas about renewing the enchantment. Even if you warned people about it, there’d still be plenty that would try, especially if the enchantment they were using was powerful enough to want more of.
+
+“Well, that’s a bummer,” Markus said, still mulling over the prospect. This could’ve been an earner. He didn’t want to give up on it so easily.
+
+Suddenly, a brainwave. “Do you think one of these could power it?”
+
+Markus pulled an Essence Stone from his pocket, the filled one, holding it up for the blacksmith to inspect.
+
+“These stones are incredibly valuable. Where did you—it doesn’t matter.” He grumbled to himself for a moment, speaking unintelligably. “If the stone had enough energy within it, and was affixed somewhere around the hilt, then yes, maybe. It’d likely last for a long time, and a buyer would associate the stone as being the conduit. They wouldn’t try to pour their own energy into it. I doubt it’d even occur to them to try.”
+
+“So if I enchanted another sword for you like this, and brought you another stone filled with Spirit Mana…”
+
+Boar man nodded; Boar man stood. “Yes…” he grinned at the notion. “I think I’d pay you quite handsomely for such a prize. Those stones are worth fifteen gold alone, and that’s without the mana they contain. A high-quality steel weapon with an enchantment like this might fetch a hundred gold or more. At the very least, I’d charge eighty.”
+
+Markus smiled. Money making scheme acquired.
+
+Now he needed to find more Essence Stones. He only had the two right now, and while he almost wanted to ask to have one affixed to his glaive, being able to eat a stone as he did earlier had saved his skin. He didn’t really want to be down to just one stone, and that meant not trying to sell the ones he had either.
+
+That made this the second piece of the puzzle. If he could find a way to acquire Essence Stones, even ones of lower quality, he could use them to make good money.
+
+“How long will it take to craft my new glaive?” Markus asked once they’d walked back into the smithy.
+
+“You’ll have it before your next fight. An evening at most.”
+
+“You work fast,” Markus said, not knowing if it were entirely true. He knew very little about forging, but creating a high-quality weapon in less than a day sounded insane.
+
+“There’s a reason I outfit every master in this arena,” he laughed, an iota of pride creeping through.
+
+“Master?” Markus repeated.
+
+“The highest rank of gladiator in Sun City. Master gladiators rarely fight each other, as their names are so valuable, but when they do, half the kingdom comes to watch.”
+
+Huh. Interesting that it wasn’t all just slaves and kidnappees here. So there were career fighters too? Perhaps with sponsors?
+
+“If these ‘master gladiators’ or whatever are so legendary, then why bother with making weaklings fight monsters? Is that not boring by comparison?”
+
+Boar man shrugged. “It keeps the stadiums full. Is it ideal? No. But someone has to provide what the people want.”
+
+Markus frowned. “So you just think it’s okay then? Drathok wants to make a few bucks, so fuck it, let’s enslave people?”
+
+“Drathok keeps us safe,” the blacksmith grunted. He pointed a finger outside. “Some of them like to act like he’s terrible, but as far as demons go, he could definitely be worse.”
+
+Sure. Tell that to the guy he kidnapped from across worlds.
+
+Markus finished up the conversation and left as quickly as he could. He didn’t need to hear someone sticking up for that piece of shit—it made his blood boil. He understood that this world was different, that the way things worked here was completely at odds with everything he knew, but it didn’t matter. People that enslave people and make them fight to the death for profit are not good people. At all. Ever.
+
+Ah, fuck this. Markus needed to go punch something.
+
+…no, he didn’t. He needed to chill. Cool his fucking head. Half the issues he ran into down here were because he couldn’t keep himself well-enough in check. He needed to be calm and collected if he was gonna make it through this, not letting his emotions get the better of him.
+
+And he needed to think more. If he was really planning to go against Drathok and escape this place, he needed to be using his brain. That fight versus the goblins was stupid. He’d almost forgotten his Essence Stones until the last moment. If they hadn’t have spilled out of his pocket when he fell, there was a good chance he just died there.
+
+Sure, the situation had sucked, and he wasn’t gonna blame himself too hard for what happened with the imp, but prepared for it or not, it’d happened, and he could’ve done more to get out of that situation unscathed, rather than brushing so close to death.
+
+He still hadn’t gotten over how close he’d come to dying. The thought filled his brain as he walked back to his cell, the scenes he passed so distant in the face of his recent morbidity.
+
+He found his way back without too much issue. To his credit, Markus only had to travel a path once or twice to map it out pretty reliably in his head, a skill he’d picked up from work back home. Hopefully, such a skill would prove valuable in figuring this place out, but he might have to start drawing a map to be safe. He had no clue just how far this dungeon spanned.
+
+And when he’d walked back past the smithy, he’d seen that beyond everything, there was a lower level, something he’d peeked briefly when he’d been sat in the dining room with Drathok. He had no idea where the stone path down led, all he knew was that it glowed a bright red and looked foreboding as all hell.
+
+He wasn’t sure if he wanted to find out. He was almost sure he’d have to eventually.
+
+Markus had no clue when he’d get called up for his next fight, but he assumed he had at least a day to kill from what the blacksmith had said. Maybe fights only ran until a certain time per day. Maybe the arena closed on weekends. Were weekends a thing here?
+
+Either way, it was enough time to allocate his unspent points, maybe do some skill training, do a little scouting…
+
+Well, that was assuming he didn’t have someone waiting for him the second he got back to his cell.
+
+Well, not someone, in this case, but someones.
+
+Not only was there a girl sat on his bed, her hair a flowy silver, waiting for his return, but there was also a fiery hellhound on her lap, whom she seemed perfectly content to stroke as if the flames weren’t there at all.
+
+“Hey,” she said to him, plain and simple as day.
+
+Markus had been about to turn around and leave, not a lick of energy or patience in his system to deal with another god right now, but the way she said it gave him pause.
+
+So casual. So nonchalant.
+
+The word hung in the air for a few moments, both of them staring at one another, neither of them speaking.
+
+“...hey,” Markus replied.
+
+“Hurry up, okay?” she insisted, beckoning for him to enter. “I’m not supposed to be here.”
+
+Well, that did it. Curiosity was fully piqued.
+
+Without another moment’s hesitation, Markus walked into his cell.

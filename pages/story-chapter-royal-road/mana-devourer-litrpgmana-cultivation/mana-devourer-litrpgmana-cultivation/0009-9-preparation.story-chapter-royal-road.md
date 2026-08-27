@@ -1,0 +1,257 @@
+---
+id: 43de3d3b-13cb-51aa-969f-7f9cf6650eee
+page-type-slug: story-chapter-royal-road
+title: "9.  Preparation"
+slug: 0009-9-preparation
+partOf: mana-devourer-litrpgmana-cultivation
+position: 9
+ownLength: 3760
+unit: words
+publishedAt: 2024-06-30
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1698987/9-preparation"
+royalRoadId: "1698987"
+---
+
+Markus growled. Picking a path between the three he’d been offered wasn’t as simple as it seemed.
+
+The first option was straightforward, offering easily applicable crowd control in return for a small quantity of mana. It sounded easily applicable and fairly useful, especially if combined with higher grades of Frost Mana.
+
+Then there was the Frost Barrier. That one was more easily discounted. Markus was sure that most things in this world could kill him in a couple of hits as it was, so while this might scale into a useful passive much later if he were to start gaining access to higher levels of Frost Mana, you don’t play to scale in a scenario where you might die any damn minute, and the paltry 5% physical damage reduction he’d have received from his G Grade Frost Mana just was not worth it. He was sure of that.
+
+That left the only other applicable option being Frozen Tomb.
+
+Frozen Tomb seemed like a no-brainer. It gave almost everything. Damage, crowd control, an attack accessible through the field he created, and a benefit for maintaining the spell for a long time. It was almost like a domain expansion.
+
+Only… it sounded like it could get expensive fast. Like, really fast. 2 Frost and Spirit a second was 120 of each a minute, and with his capacity being 1390 right now, he had only really planned to store a few hundred points of Frost and Spirit Mana in total at a time, considering he was still saving space for other mana types.
+
+Maybe he needed to be more frugal and store more of his excess. He was still at 68% of his capacity right now with everything he’d put away and his recent mana increases. Was he being greedy right now? Trying to hold onto too much?
+
+He needed to be realistic with himself. It would be stupid to take an ability that he was unable to make proper use of, no matter how powerful it might sound. If he could only use it for moments at a time, what was the point?
+
+Only… he really wanted to have some form of advantage. Everything else sounded so weak by comparison!
+
+Markus scowled, dumping his remaining 10 points into Spirit and bringing it to 60. He watched as his mana total increased once more, from 1390 to 1590, and as his current capacity subsequently went down from 68% to about 60%.
+
+He supposed it wasn’t the worst option, even if it forced him to commit to no more points in Agility or Constitution right now. If he wanted to see the fruits of this Path, he needed as large of a mana pool as he could get.
+
+Besides, absorbing Mana Cores only made his pool larger. Passively absorbing them in combat might pay dividends later. The increased mana generation they might bring was worrying, but that was only if he affixed them. Considering that was a choice, he should be fine absorbing any Mana Cores he could get his hands on.
+
+Markus attempted to dump more Blood Mana into the essence stone, which so far was holding a fair portion of his mana without seeming to be having any issue. He had to stop feeding Blood Mana to the stone when he had around 5% left though, as he felt himself starting to get woozy.
+
+It was like literally giving blood. That was the only feeling he could equate it with, and knowing as much, he worried even more what might happen if he were to try and drain all of the Life Mana from his body into the stone.
+
+Would he just keel over and die? Surely it didn’t work like that… right?
+
+Could a being exist without any mana in their body? Did all creatures have it? Was it a form of life energy?
+
+Good thing Mystic Mana wasn’t an essential thing to staying alive, or he might’ve keeled over earlier from dumping it all in an Essence Stone first chance he got.
+
+So many questions plagued his mind, but Markus found that while it was slightly more difficult to parse and took a bit more focus to pull off, he could draw a specific type of mana back out of the stone he’d placed it in.
+
+He got his Blood Mana back up to 7% before beginning to feel okay again. That seemed to be the minimum, and he pulled it up to 10% just to be safe. Wasn’t like things didn’t make him bleed down here.
+
+Once he’d cleared up ample space, confident that he could at least spare half of his current mana pool as space for the Frost and Spirit Mana he’d passively generate, he finally selected Frozen Tomb.
+
+He’d had to optimise a fair deal to make it work, so he was really hoping it’d come in handy. So long as it did more than the other two skills would, and didn’t make him keel over dead from lack of mana, he’d probably be fine. Damn. Who knew that after all this time spent trying to reduce the mana in his body, he’d suddenly be worried about using it too fast?
+
+Strange how extremes worked, though this was clearly a place chock full of them. Once Markus had finally made his choice, he went to lock it in, only for the system to flash in warning.
+
+[50 points of G Grade Mystic Mana required for Path Awakening.]
+
+Well, shit. There was a use for it.
+
+Took Markus a minute to find the Mystic Mana in the other stone and begin to pull it out. Once he’d gotten an ample amount prepared, he tried selecting the path again.
+
+Barely any of his Mystic Mana got used. It asked for 50 points of G Grade Mystic Mana, and used like 6 points of the D Grade Mystic Mana instead.
+
+…did that mean that despite the higher grades of mana being way stronger, they took the exact same space as far as his core was concerned? Were higher grades just compact, concentrated energy with the exact same measure of internal weight?
+
+He supposed that made sense. Hell, considering that, he should have enough of this Mystic shit to last him ages for Path Awakenings, assuming they didn’t get way more expensive.
+
+Which was a good thing, considering he had no earthly clue on how to find more of the stuff. He hadn’t encountered it once since he arrived.
+
+Once he’d gotten finished with that, he moved straight on to [Regeneration]. That sounded like something he definitely wanted a Path in, and fast.
+
+Ember barked as he pulled up yet another screen, finding the necessary text and beginning to read through it as he scratched the rowdy creature’s chin.
+
+[You may now awaken a Basic Path for Regeneration. You have three slots for new Paths remaining. You may forget, combine, or evolve previous Paths in order to learn more. Paths unlock new skills, as well as new features and passives, allowing skills to grow much more powerful or gain unique effects.]
+
+[Basic Regeneration Paths are as follows:]
+
+[Respite I: The natural healing rate of your body is increased by 225%, increasing to up to 450% during periods of sleep and relaxation. Natural healing is modified by Constitution and may be increased with more points invested. Meditation can be induced in a quiet and safe environment to heal one targeted area of the body at 950% of its usual rate and regain mana of one type at 160% of usual rate for up to two hours per day. Healing during Meditation is modified by Constitution and Spirit. Mana Regeneration is modified by Spirit.]
+
+[Lifesteal, G Grade: Heal for 2% of the physical damage that you deal and 1% of the elemental damage you deal. This healing will directly affect your injuries from most to least critical and will consume 10 points of G Grade Blood Mana for each injury you sustain from in combat.]
+
+Huh. Just the two options this time.
+
+Markus picked Respite without hesitation. He was getting injured far too much already, and Lifesteal sounded more like it should’ve been named Bloodlust, because from the sounds of things he was the one who the Blood Mana was getting consumed from every time he hit something. That wasn’t stealing. It was robbing himself.
+
+He supposed you were meant to combine it with something that stole Blood Mana from others, or some kind of passive drain. Maybe if he got one of those down the line, the option would be more appealing to him later.
+
+For his current skills and limits, however? Respite sounded way more useful. In fact, he was planning to use it right away.
+
+He still had a couple of skills to left to check out, but he felt fucking dead. Pushing the mana in and out of the stones like that had absolutely drained him. He sat against the bars of the cell, crossing his legs like he figured you had to in order to meditate and then swiftly allowing them to unfurl as he fell straight to sleep against the iron bars, a huge, fluffy ball of fire soon curling near his feet.
+
+***
+
+Markus awoke to tepid water being splashed on him, then immediately splashed on him again.
+
+“Wake up, prisoner!” came the sneer of an imp much uglier and more hunched than the one who’d originally brought him to his cell. This one was male, and looked as if he’d spent all of his life wishing he could be a jailer, just so he could direct that ugly fucking face at someone and bully them the same way he'd likely been his whole damn life.
+
+“Ah, shame… was having an awesome dream about being kicked in the balls over and over. Beat the hell out of this place.”
+
+“This is hell, you dumb stinking animal,” the imp guffawed, splashing him once more as he did so, seeming to revel in his feeling of control. “Least for you it is.”
+
+More like revelling in the existence of bars between them. Markus had been having a nice dream, and he wasn’t above using this little freak as a football if he kept this up.
+
+As he made to stand, brushing himself of freezing droplets that stubbornly clung to his hands, he realised with a start that something was missing.
+
+Not the stones… those were in his pocket. No. It was Ember!
+
+He looked all around the cell, wandering blankly as if he’d misplaced his keys or phone, the jailer watching him quizzically as he aimlessly span around the small, empty space.
+
+She hadn’t chewed her way back through the bars… those were still sealed. Randall had seen to that, the prick. And there were no windows down here to speak of…
+
+Where the hell did she go?
+
+“Hear you’re fighting goblins today,” the jailer grinned, shaking his keys and preparing to unlock the cell door. He paused for a moment, staring into the cell, sniffing the air. A moment later, he got back to unlocking it. “Much easier fight. Drathok don’t want ya dead, now that they’re all bidding over you.”
+
+“Bidding over me?”
+
+“The order you’re being visited in. Whoever pays that greedy fuck the most gets first priority. Of course he wants you alive, or he won’t get shit out of you!” The jailer gave him a side-eye as he opened the door. Immediately, Markus’ leg was bound to the imp’s by an ethereal chain, just like the means by which he’d been taken here. “If anything, this fight’s just a chance for you to show off your prowess, drive the price up some more.”
+
+Markus could almost taste the bitterness in the air. This guy wasn’t subtle.
+
+Markus frowned, attempting to shake his leg to no avail. “From the sounds of things, I’d be really sticking it to that fuck if I died right about now.”
+
+“...yeah. You would.”
+
+The imp started walking, and Markus’ body was compelled to follow. The chain around him was strange—grabbing it didn't give him an option to drain or interact with it like everything else he'd encountered so far. They'd used a similar chain when they'd first taken him to his cell.
+
+The two of them walked side by side through the block, this time with Markus being cognisant enough to realise his surroundings.
+
+All manner of beasts were present within these cages, everything from a massive ogre-looking creature with three eyes, polishing his boots as they passed his cell, to a three-headed cat happily feasting on an oversized rat it had caught. There were creatures of shapes Markus recognised from books and media, and horrors more transcendent of common folklore that he could scarcely begin to describe, made up of oblong angles and unsettling visages.
+
+“You sound like you’re not too fond of Drathok either, then.”
+
+Markus spoke to break the silence more than anything. While it was true that he was fishing for something to use, realising this creature was pretty loose-lipped, he also wanted to distract himself from the horrific creatures staring at him from the other sides of thin bars, and conversation helped with that.
+
+The imp barked out a dry laugh. “What imp is fond of an imp baron?” He paused, causing Markus to skid to a halt, staring up at him. “You not have imps where you’re from?”
+
+“No. Just stories about imps, I guess.”
+
+“We are a noble and storied creature, yes,” the imp nodded, before stopping to hawk and spit an unhealthy portion of phlegm onto the floor. “Well, go on. What stories have you heard? Tell me!”
+
+“Uhh…” Markus rubbed the back of his neck as he tried to come up with a convincing lie. “Just... how imps really aren’t to be trifled with, and—”
+
+“Get your tongue out of my arse.” The imp spat again. “You tell me how the fuck such a powerful creature gets to slave his life away ferrying little prats like you around.” He ground to a halt again, faced Markus directly. Got up in his face. “Well? Go on!"
+
+This was difficult. Markus completely regretted ever opening his mouth. This guy clearly had a chip on his shoulder, and any line of conversation was gonna lead to this one way or another.
+
+Maybe he was all hot air. Markus was an arena fighter now. He’d taken down a D Grade monster. That had to have some intimidation value.
+
+“Get out of my face.”
+
+“Or what, you smooth-skinned freak?!”
+
+“Or I’ll use you as a warm-up for the goblins, that’s what.”
+
+The imp laughed maniacally, looking as if he’d just heard the funniest joke known to man.
+
+His laughter soon turned to a snarl.
+
+“Hey... Why’d you say that?”
+
+Markus felt like he’d been hit with a flashbang. What the fuck kind of question was that?
+
+“That thing about the goblins. Why’d you say it?!”
+
+The jailer looked genuinely perturbed. Upset, even. Markus wasn’t sure how to deal with him at this point. He was utterly insane.
+
+“Because I—”
+
+“Are you comparing me to a goblin, you fucking bigot?” The imp’s snarl graduated into a growl as he marched forwards in a frenzy, dragging Markus along with him. The pace at which he walked was almost impossible to keep up with without tripping over, and even focussing his mana was completely impossible. “How dare you compare me to a stupid, stinking fucking GOBLIN!”
+
+“Compare you? I just threatened to—” It was all Markus could do to even stay on his feet as the imp dragged him out of the prisons and into a wider, torch-lit hallway. An amalgam of creatures stared as Markus was dragged along by this creature a third his height, the binding around his ankle unwavering, the tendons in his foot aching as he was forced to lurch forwards again and again.
+
+“No, that’s all right, you think I’m not worth being compared to a goblin. That’s fine! That’s just fucking FINE!” He progressively grew louder as he walked, taking a sharp left, pulling Markus down another hallway. “No, that’s alright! It’s fine that you can’t tell us smaller creatures apart, and it’s FINE that imp barons keep us just smart enough that we can understand how much we we're being tortured spending our whole lives wiping their FUCKING ASSES! It’s fine! It’s fine. It’s fiiiine!”
+
+Markus could see the armory ahead. He recognised it from before. He could see the same tentacled guard from before, sat at his desk through the open door.
+
+Some familiarity was a welcome change. A witness in case this fucking lunatic tried to kill him was an even better change.
+
+“Hey. Hey, you. You know what? You know what? You know fucking what?!”
+
+The jailer planted his feet. Markus ground to a halt. He almost felt afraid to ask what ‘what’ was. Somehow, this little creature was more terrifying than any god or devil he’d encountered thus far.
+
+Thankfully, he didn’t have to ask. Thankfully, this jailer spoke his mind without being even remotely invited to.
+
+“You know what? You’re right! I’m not very fond of Drathok. I can’t directly disobey him, either. No no no, CAN’T DO THAT! But you know what my orders were this morning, passed down from my esteemed master? Fetch the human! Check him for injuries. Make sure he’s ready, then bring him to his fight! Well aren’t you a prize fucking princess!”
+
+“Well, you’re doing a great job at it, and I think it’s real shitty that you get treated that way, and—”
+
+“You know whattt?” The imp made a sharp heel turn right before the armory, causing Markus to be yanked in the other direction before he could even skid to a halt, vertigo wracking his brain. “I think you’re ready! I think we can take you straight to your fight, right now! Doesn’t that sound fun?!”
+
+“But I don’t have a weapon yet, I—”
+
+“You don’t need a weapon! You told me that yourself! That’s what I’ll tell Drathok after you get sliced to fucking pieces, and good luck arguing that from beyond the grave!”
+
+Fuck. This was turning south fast. “Hey, slow down. If I die out there, your boss is gonna get really, really pissed, and—”
+
+“And what? Put me out of my misery? No. Flay me and string me up? Throw me in a boiling pot? Put me on twenty years of toilet duty? HE’S DONE IT ALL BEFORE!” The imp giggled ferociously, like something from a mental patient’s nightmares. “I’m willing to roll the dice. I’m bored! Wanna see what happens when his new cash cow winds up DEAD. Can’t WAIT to see the look on his face…
+
+Markus tried as he might to struggle and strain as the imp began to march him away, but it was to no avail. Whatever this spell was, it was clearly potent, and nothing in his current repertoire was going to have any chance of breaking it. “H-hey. You don’t have to do this. You can easily not do this. Just let me grab a weapon and—”
+
+“You’d really be sticking it to Drathok if you died, right? HAHAHAHAHA!”
+
+Fuck. Guess that had come back to bite him. It was an idle comment, not a fucking suggestion! How was he meant to know the guy was fucking mutinous!
+
+“Hey! Hey!” Markus shouted back to the armory guard as best he could as he was being dragged away, desperate to gain his attention.
+
+“What?” the tentacled creature asked, rising from his seat.
+
+“Help me! Stop him! Grab me a weapon! Anything!”
+
+“...you got money?”
+
+“Yes!” Markus lied.
+
+“...I still don’t want to.”
+
+“Holy fuckkk—ARGHH!”
+
+Markus couldn’t help but scream. This place was making him lose his fucking mind. Yay! An easy fight! Let’s go to it with our fucking fists! That’s surely not gonna get me killed!
+
+Markus hurriedly pulled up his system as he was dragged to the arena gates, ignoring the insane ramblings of the jailer along the way.
+
+The system didn’t seem to want to respond straight away, almost as if it was being interfered with by the spell. That might’ve explained why he was struggling so much to focus his mana right now. Either way, he needed to brush up on what his new Mana Manipulation skills did now. If he was gonna get through this next fight, he needed every ability he had at his disposal.
+
+Thankfully, he’d generated a fair bit of mana as he’d slept. Frozen Tomb should be available for him. As for these two new skills…
+
+[Empower I: Enhance your next strike or ability with up to two extra mana types. Different mana types yield different results when used in conjunction with abilities, and strikes using differing mana types may cause either additional strike damage, or compound effects when used in combination.]
+
+That… sounded useful. Thank god, that sounded useful.
+
+With a laugh of sheer demented glee, the jailer shoved him through the arena gates, immediately severing the tie between them.
+
+As soon as he did so, Markus felt the mana swirl inside of him. It hadn’t been so obvious he’d been suppressed until he’d been unshackled. Now, he wasn’t sure how he’d ever not noticed it.
+
+Markus began to shuffle forwards, approaching the arena as slowly as he could, trying as he might to read his second ability in the tiny amount of time he had left.
+
+God, this was fucked up… how had he ended up in yet another fight with no real preparation again?
+
+[Manifest I. Using mental command of the Spirit Mana within your body, draw upon your desires to create them unto this world, using the mana of your body to construct physical extensions of your will that may remain tangible until your focus wanes. Larger objects require concentration to maintain, and any and all objects are dissipated upon taking damage. Cost is dynamic depending on object’s size, weight, and complexity.]
+
+Right. Okay. So he had a weapon. Maybe. Potentially. If he could figure out how the fuck to use this thing right, he maybe had a weapon. One that’d disappear from him if he got hurt.
+
+“LADIES AND GENTLEMEN OF SUN CITY, THE ESTEEMED KILLER FROM EARTH RETURNSSS!”
+
+Markus looked out. There were seven goblins waiting for him.
+
+Seven. All of them brandishing swords, shields, polearms, axes, and one of them a large club.
+
+He stared. He sighed. He counted again.
+
+Yup. Still seven of the bastards.
+
+Time to start subtracting.

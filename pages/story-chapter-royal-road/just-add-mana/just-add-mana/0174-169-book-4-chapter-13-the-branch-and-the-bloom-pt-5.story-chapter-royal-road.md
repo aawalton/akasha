@@ -1,0 +1,165 @@
+---
+id: f9d1eb6c-c021-5ccd-868d-c815c04b497d
+page-type-slug: story-chapter-royal-road
+title: "169 — Book 4, Chapter 13 — The Branch and the Bloom, Pt 5"
+slug: 0174-169-book-4-chapter-13-the-branch-and-the-bloom-pt-5
+partOf: just-add-mana
+position: 174
+ownLength: 2860
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3777759/169-book-4-chapter-13-the-branch-and-the-bloom"
+royalRoadId: "3777759"
+---
+
+It was a testament to the nature of the vinewalker colony, perhaps, that not a single one of them seemed to blame F'lora for what had transpired. In fact, they showed nothing except concern for the girl and fussed over her as they guided her into the village elder's home. Likewise, F'lora seemed to consider them all a part of her family, like an assorted group of aunts and uncles that had helped her father raise her.
+
+As a result of this close bond, neither group could stop apologizing to the other.
+
+"We are sorry we could not protect you more," one vinewalker told her, bowing his head.
+
+"I'm sorry I hurt you," F'lora said, tears welling up in her eyes.
+
+"You did not intend to," another vinewalker said. "We have long forgiven you. We are only sorry we could not get to you sooner."
+
+"But it hurt, didn't it?" F'lora asked, trembling. "I could feel it when I woke up. My magic was so angry... I didn't know magic could feel like that. I'm really, really sorry."
+
+"No," a third vinewalker said. "We are sorry. You should never have had to feel such sorrow."
+
+"But—" F'lora protested.
+
+As much as he understood where they were all coming from, Cale decided it was probably for the best if he tuned them all out for the time being. He was sitting on a log with Thorn, who had urged the child to join the other vinewalkers once he recognized how worried they were about her—he was a stranger in comparison, even if he had been the one to wake her from her trance.
+
+It was impressive, in truth, how easily the vinewalkers masked how badly they had been affected by the roots holding them in place. He knew that vinewalkers experienced time differently, and that as a sapient species of plant, they were used to waiting entire seasons just for a single small change. The truly patient ones were happy to spend years devoted to a single task, so in some sense, perhaps this hadn’t been all that grave an incident for them.
+
+But he doubted it. That corruption had pinned them in place by winding roots through their bodies, and though it had also protected them from the transformative effect of the new dark lady’s domain, the experience would undoubtedly have caused them indescribable pain. More than that, they had been stuck that way for months, unable to move or call for help. Cale wouldn’t have blamed them in the slightest if they had needed a moment to themselves, and yet they all seemed insistent on making sure F’lora saw them and knew they were well, that they held no resentment against her.
+
+There were a few that retreated back into their homes immediately after reassuring her, though. Cale noticed the barely-hidden shaking in their vines, similar to what he’d seen from Thorn when he was truly distressed. They put up a strong front until the girl could no longer see or hear them, but both he and Thorn could hear the quiet sobbing that emerged from their homes afterward.
+
+Even in their pain, they were protecting F’lora from the worst of their distress. Cale admired that about them—he had seen so much worse from others, over the years.
+
+Thorn’s gaze tracked them back to their homes, seeming discomforted. “I do not know if I have had that strength,” he remarked quietly. “To remember to be kind.”
+
+Cale took in the words, but remained silent for the moment. It was difficult for Thorn to admit to even that, he knew. Perhaps the only reason that he’d said the words at all was because they were alone. The others of their group had agreed to help the vinewalkers put together a meal for F’lora, and so had left to forage for food; most of the atverian-safe foods the vinewalkers kept stored away had long since rotted, save for a small supply of nectar.
+
+Cale and Thorn had remained behind, in case anything new happened with F’lora that required their expertise. Though Thorn said nothing about it, he relaxed marginally once the others were out of range. He could work in groups, but Cale could tell he wasn’t especially comfortable with them/
+
+“I think you would have,” Cale offered finally. Thorn glanced over at him in askance. “Had the strength to be kind, I mean,” he elaborated.
+
+Thorn snorted. “I remember what I said,” he said, the words dry. “But you seem remarkably certain.”
+
+Cale shrugged. "You're a prickly guy, but it's not like you're cruel. You tried to help Adam even when you thought we humans were useless creatures, remember?"
+
+The reminder seemed to amuse Thorn, despite their circumstances. “Mm. A notion you have done much to disabuse me of,” he rumbled.
+
+“That’s probably the closest thing I’ve heard you say to a compliment, and you still managed to make it sound like a complaint.”
+
+A faint, half-hearted smirk. “One of my talents.”
+
+Cale shook his head, smiling faintly. “Point is, I think you care a lot more than you pretend to. You’ve been working on finding a way to save Akkau for... what, years now? Traveling all over Utelia to find a way to do it? I know for a fact you don’t enjoy that. And there’s the time you attacked me when you thought I was a threat—”
+
+"Stupid," Thorn muttered, and Cale laughed.
+
+"Maybe," he said. "But you accounted for the confounding factors and used something you thought would work. Pretty cool thing to do, if you ask me."
+
+Thorn raised a brow. “You believe that it is cool that I attempted to take you hostage?”
+
+“Do you know how many people have tried?” Cale scoffed. “I’m basically an expert in rating hostage-taking attempts. I’d give you a solid nine out of ten.”
+
+“And the final point?”
+
+“You should’ve worn your hat.”
+
+Thorn let out a huff of air that, again, might have been amusement. It was hard to really banter in the face of what they had discovered, but there was also a kind of comfort in it—Cale was familiar enough with it to recognize when someone needed a distraction.
+
+They sat like this for a while, listening to the sounds of F’lora and her caretakers. The mana around them felt a bit less oppressive now that the nascent dark lady was no longer spewing out corruption into her domain, and off in the distance, Cale could hear the faint sounds of birds and insects beginning to return. It always surprised him how quickly that worked. One of these days, he would have to work out how exactly they knew where and when things were safe for them. Instinct was a powerful thing.
+
+Eventually, though, Thorn’s mind settled back on the problem of F’lora as the realm’s new dark lady, and this time he seemed ready to discuss it in earnest. “You implied earlier that there may be a solution to this,” he said. “One that will not force a child to bear the burden of rallying against her realm.”
+
+“It’s not a good solution,” Cale admitted, looking at the bark beneath them, at the tiny fungal growths that sprouted in the cracks. “It might be a little less cruel. Or maybe just cruel in a different way, depending on how you look at it. This realm has selected a dark one, now, and there’s no getting around that, but it might be possible to give the role to someone else.”
+
+Thorn’s eyes narrowed slightly. “Someone would still have to bear the burden,” he said.
+
+“Yeah,” Cale said quietly. “It’s the divine cycle. Until someone finds a way to break it, it’s just going to keep happening.”
+
+“What if I take on the role?” Thorn asked, but Cale was already shaking his head.
+
+“I’m operating off theory here,” he said. “Karmic theory, to be specific. All this stuff about roles, chosen ones and dark ones—it’s all a subset of karmic magic. Same reason you end up with backlash if you try to kill a dark lord too early.”
+
+“I do not have karmic ties to this realm,” Thorn said, following his train of thought.
+
+Cale nodded. “You have one to vinewalkers and to atverians, maybe, but it’s not enough. The recipient of the transfer needs a karmic connection to the realm itself, and if it were that easy, the role would be tossed around like constantly. I’ve only heard of this happening once or twice, so I’m pretty sure it needs to be someone who is karmically bound to the current dark one. Strongly bound.”
+
+“Few would fit that description.” Thorn remained expressionless, but Cale could tell he was thinking, and in short order he arrived at the same conclusion Cale had had when he first thought of this. “I do not believe anyone would, in fact, except..."
+
+He trailed off.
+
+“Except for her mother,” Cale finished. “Like I said, it’s just a different form of cruelty.”
+
+“But you have said that not all dark ones are evil,” Thorn said. “A child would have difficulty, but someone whose mind has matured might be able to act without succumbing to the influences of the role.”
+
+“It’s possible,” Cale agreed. “It’s certainly more likely. But I’ve seen a lot of people try. It takes incredible strength of character to do it, and T’vela would have reason to hate the atverians that did this.”
+
+He glanced meaningfully to Wall, whose body was still frozen in the position he had taken when shielding his child. Agaût-mortis blooms still grew on his body, beautiful in its final moments, although Cale’s brows furrowed slightly as it occurred to him that their presence was strange. Thorn had said those blooms were used to warn other vinewalkers away, hadn’t he? Perhaps it was meant to tell the others of their colony to leave before they were caught in the corruption, but Wall couldn’t have known his death would trigger the creation of a dark lady.
+
+What had been the nature of that attack, anyway? They knew that an atverian commander by the name of K’teri had been the one to kill him, but he was positioned in the middle of the village in broad daylight. He had clearly known the attack was coming, but had not had the time to do more than shield F’lora with his body.
+
+Something about that seemed strange to him. But it wasn’t like those details would change what they now had to do, he supposed. F’lora was a dark lady now, and that was the problem they had to address; they couldn’t stay in this realm forever, and they certainly didn’t have the time to untangle whatever political web had led to this.
+
+“Either way,” Cale said, “we need to get in contact with T’vela somehow. At least let her know her child is here. She’s probably been worried sick about her daughter. We can’t move F’lora out of her domain or the divines are going to start suppressing her, but we can get T’vela to come here and see what she thinks of all this. Hopefully that'll give us a way forward so that F’lora doesn’t have to bear this burden.”
+
+“You have tried this before,” Thorn said, and the statement was so flat and observational that it took Cale a second to process it as the realization that it was—Thorn was staring at him, not judging but thinking, and he’d correctly deduced that just from how Cale was reacting.
+
+Cale winced, wondering if he was getting rusty. “Yeah,” he admitted.
+
+“Has it ever worked?”
+
+“I’ve never witnessed a transfer happening, so no.” Cale was quiet for a moment. “But this time might be different. It’s worth a try, isn’t it?”
+
+“It is,” Thorn said. “But do you believe that, or is that simply what you tell yourself?”
+
+“When did you become so insightful? Did you eat Damien when I wasn’t looking?” Cale joked, and when Thorn only stared at him impassively, he sighed. “I don’t know if there’s a difference,” he said. “Does it matter, if what I do is the same?”
+
+“It matters to you, which is all that needs to matter,” Thorn said, clasping him by the shoulder and startling him. “I may know a way to speak to T’vela remotely. It would be good for you, too, I believe, to see that this can work.”
+
+Cale frowned, and then his mind caught on to the magic part of what Thorn was saying, and he brightened. “A long-distance communication spell?” he asked, immediately interested.
+
+Thorn shook his head. “No,” he said. “I have worked with Featherstrike for a long time, however. I know enough to alter the function of those charms. Hold out your feather.”
+
+Cale blinked, then held it out as instructed, flat on the surface of his palm. Thorn sprouted a blade from a vine, then began gently inscribing on it.
+
+“...do you have to do it like this?” Cale asked after a moment. “It tickles.”
+
+“If you lose contact with the feather, you will snap back to the atverian tent,” Thorn said flatly. “Hold still and stop flinching before I have to restrain you.”
+
+Alas, Cale had never been especially good at staying still.
+
+A dark one was born from a wish, and the only way to transfer the role was for someone karmically bound to them to make a bigger, stronger wish. There were a multitude of problems with that, of course. The karmic bond had to be incredibly strong, which was difficult, even among relatives; the wish had to be one that would interfere with the current state of the realm even more than the original; the dark one had to be new to the role, so that the threads of that role hadn’t tightened too strongly around them yet.
+
+That was one of the reasons all of Cale’s previous attempts at this had failed. He remembered the way the parents of the new dark one would blame him for it afterward—he had promised it was possible, after all, and so it was his fault that it failed. Never mind that he had never promised, that he had always stated plainly that he was not certain. All he could do was change a few factors and try again, but even with all his experience, the true mechanism of these cosmic roles eluded him.
+
+Despite the fact that he had been a dark lord once. There was some irony in that.
+
+Thorn’s alteration to Featherstrike’s spatial charms was a surprisingly simple one. He had inscribed a reversal sigil in Fadeaway script, so named because it would, as its name suggested, fade away shortly after being inscribed; the purpose was to give him a period of about ten minutes in which his charm would have the opposite effect, anchoring his body and senses in the atverian tent while his “true” presence was within the vinewalker forest.
+
+What Thorn had neglected to mention, however, was that Cale would appear where the anchoring charm was held—which was to say directly over A’ruk’s bed. Cale had just enough time to see several thorns coming directly for his eyes, which made him flinch backward and sent him sprawling over the floor of his tent.
+
+His eyes were undamaged, of course. He hadn’t disabled his barriers, so the thorns would have done nothing to him regardless. That said, for all his experience he had never quite managed to turn off his reflex to blink when something was headed directly for his eyes. He had a trick for it that involved temporarily disabling his eyesight, though. Mostly because it was fun to mess with people.
+
+Anyway.
+
+A’ruk seemed much worse for wear without Thorn’s magic to dull the pain, but he retained enough of his mind to stir when Cale fell nearly on top of him. “You are... one of the vinewalker’s companions,” he said, recognizing him. “Have you discovered...?”
+
+“Kind of,” Cale said. “It’s complicated. Do you know where T’vela is, and on a related note, do you know a woman named K’teri?”
+
+From the way disgust flashed across A’ruk’s features even in his pain, it was clear to see that he did. “She is... involved in this?”
+
+“Tried to kill T’vela’s daughter,” Cale said carefully, and something seemed to strike A’ruk, because his eyes went up and he almost pushed himself outright; Cale had to very quickly get up and pin the atverian back down on the bed before he injured himself further, because the normally gentle man suddenly looked furious.
+
+“T’vela had a—” He cursed. “And K’teri... I knew, but I did not think..."
+
+“There’s a story there, huh?” Cale said, watching him carefully. He’d opened several of his wounds, and from the steps outside, that had alerted some of the others to come help. A’ruk recognized this too, because he glanced up with a grimace.
+
+“Let me speak,” he said, though it was clear he struggled to do that. “I will... Explain your presence to them. And call for T’vela.”
+
+“Right,” Cale said. “Don’t worry, I’m very good at keeping quiet and not interfering.”

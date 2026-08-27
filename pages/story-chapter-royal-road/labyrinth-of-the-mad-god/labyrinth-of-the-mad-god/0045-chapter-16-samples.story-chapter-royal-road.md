@@ -1,0 +1,83 @@
+---
+id: 9d13d4ae-c914-54a6-99a6-31e8b0c49a0d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: Samples"
+slug: 0045-chapter-16-samples
+partOf: labyrinth-of-the-mad-god
+position: 45
+ownLength: 1770
+unit: words
+publishedAt: 2024-08-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1771453/chapter-16-samples"
+royalRoadId: "1771453"
+---
+
+The first test that Nick wanted to run was simple. He merely stood in place for the next five minutes, hidden behind the half-closed doorway, waiting to see if the constructs reacted to his spells. To his relief, they showed no sign of noticing the mana he’d spent and just kept gnawing away at the floor.
+
+The second was a live test of his spell’s speed and precision. In addition to their newfound potency, he had gradually been gaining more control over his darts as he practiced using them and increased his magic attribute. By now, he was capable of guiding two at once with a high degree of accuracy.
+
+He waited until the rats were facing away from him and were focused on their meal. Then he visualized his trajectory and fired both darts at once. Each magical missile went streaking toward its target, hitting them at almost the same moment.
+
+As Nick had been hoping, neither of the rats could sense the spell coming. When the silvery blades sank into their little brass bodies, the constructs spasmed and fell lifeless to the ground, dropping dead only a few seconds after the dart hit them.
+
+He waited in the hall until he was sure that they hadn’t sent out some manner of alert, then walked into the room. He put both bodies into his pack, made a quick survey of the waiting area, then stepped inside the executive office.
+
+He was confident that if there was anything good left in this place, then this was where he would find it. The moment that Nick crossed the threshold, he heard a faint beep. It was somewhere close to his body, and it made him jump, afraid that he had missed a rat, or that something else was lurking nearby.
+
+His heart began to race, and his adrenaline started to flow. He raised his blade and dropped into a combat stance before realizing that the noise had originated from his belt pouch. The same pouch holding the crystal device that he’d found earlier. Chuckling at the jump scare and curious as to what was going on, he took out the rune-covered crystal and held it in front of his face. When he did, a soft voice spoke into his ear.
+
+An area-specific log has been detected. Would you like to play it now?
+
+“Yes,” Nick replied, unsure if the crystal could understand his words or was responding to his intentions, the same way that the System’s displays did.
+
+A few seconds later, the figure of Kellen the researcher wavered into existence beside him. The man appeared even more frustrated in this recording than in the last, letting out a long sigh before speaking.
+
+“I met with Grebble today, hoping to drum up support for my visionary new project, an artificial lifeform that I have designated ‘the Janitor.’ Since the man oversees specimen refinement and is intimately familiar with the need to process dangerous waste more effectively, I was hoping to obtain a sample of the mobile dissemblers’ geneline to use as a template for my prototype.
+
+“But the short-sighted desk-jockey shot me down within seconds, then locked me out of the database and threatened to have my position terminated. Apparently, Vera has been spreading rumors that I’m breaking protocol and proceeding to experimentation on my own initiative.
+
+“Which I am, but there’s no way that she knows it yet at this stage, jealous fools the lot of them. Fortunately, I was able to break into the network last night and copy the relevant files. Even without a material sample of the swarm’s geneline, studying the fruits of Grebble’s labor may lead to breakthroughs in my own endeavor.”
+
+At this point, the image wavered. When it snapped back into focus, Kellen was wearing a different undershirt and seemed more composed. Nick had the sense that this portion had been recorded at an earlier date, judging from the lack of tension in the researcher’s posture.
+
+“Observational notes on the mobile disassembly network used by the Specimen Refinement Division. These clockwork constructs work in tandem with the insect colony bred by waste disposal. While the bugs deal with eliminating various substances in massive quantities, the constructs are specialized in refining more resilient or problematic materials, especially those contaminated by the countless experiments taking place throughout the tower.
+
+“The dissemblers come in three core varieties, the most numerous by far being the rodent-shaped model, known colloquially as corpse-eaters. Their teeth are coated in a layer of spatial magic that disrupts the bonds between almost any organic substance, as well as a variety of metals and minerals, making them ideal for refining unusually durable specimens.
+
+“Since most of these materials still have value, once they are broken down, they are sent to the main refinery on floor seven-thousand nineteen. Inside each corpse-eater’s torso is a micro portal leading to a pocket dimension where the entity that controls the swarm resides. In addition to collecting the materials they gather, it can teleport the entire construct after receiving critical damage, retrieving both the body and the data related to its destruction, as well as anything else it observed while active.
+
+“The central controller allocates a portion of these materials to restore the swarm to its ideal number whenever a construct is lost. Based on the data it retrieves, the controller can introduce changes in their design as needed, granting the swarm the flexibility to deal with specific problems or unusual varieties of waste. The corpse-eaters aren’t too strong individually, but they don’t need to be to get the job done, since ninety-four percent of their food is already dead.
+
+“In over three hundred years of operation, only two tier-one species have proven unable to be dissembled, samples of which are stored in Grebble’s office. I plan to acquire a piece of each through subterfuge, since reason has yet to yield results and they might prove useful to my research. One is a predator with crystalline bones that somehow repel the dissemblers’ spatial magic, and the other is a type of ivory that produces a field of energy that disrupts their internal mechanisms.
+
+“In addition to the basic model, the construct swarm features pacifications units. They are designed to deal with specimens that aren’t as dead as they were supposed to be on entering this floor. The third model is the protectors, which shield the swarm from threats capable of eliminating large numbers of corpse-eaters at once. While I can appreciate the time and resourcefulness that went into their creation, my project will render the entire disassembly line obsolete, freeing up considerable resources and energy for other projects.”
+
+When the image of the researcher vanished, Nick turned and took another long look at the items mounted on the wall. They must be the samples that Kellen was talking about. One looked like a femur big enough that it could have belonged to a horse or cow, and the other appeared to be a horn. The bone was made of a green crystalline substance and the horn was a deep crimson hue.
+
+After sizing them up to make sure they weren’t dangerous to touch, Nick put both objects into his pack, figuring that if they were unusual enough for the researchers to keep, they might be valuable or have some other use.
+
+He took a quick lap around the rest of the room. After spotting nothing else of interest, Nick slipped back out through the gap in the door and continued walking down the tunnel. It seems like those gear-rats, the ones he called corpse-eaters, are designed to devour the remains of various creatures.
+
+The tower must be conducting experiments with living beings on some of the other floors. The rats are part of the disposal system that takes care of the waste. The swarm must have gone haywire when the basement was attacked, since they’re eating anything they can find now, including the facility itself.
+
+If they normally dispose of corpses, it explains why the rats are relatively weak. Although that bite sounds worse and worse the more that I learn about it. The pacification models seem like bad news. If I run into any, I should probably avoid them rather than fighting.
+
+Most worrisome of all, it sounds like the swarm can adapt to various threats after losing too many members. They will become progressively more dangerous the longer I’m down here and the more that I’m forced to kill. It’s consistent with the escalating threat rule.
+
+While he pondered the matter, Nick made his way down more miles of tunnel. He moved slower and searched more thoroughly now that he knew he was in the vicinity of at least one member of his team.
+
+Just as he was considering camping for the night, he came across a second four-way intersection. A place where a passage that must be part of an inner ring connected with the tunnel leading toward the center of the floor.
+
+When he stopped to take a closer look, adrenaline started seeping into his bloodstream and his heart began to pound. Because splattered here and there across the floor was blood, and it looked like it was only a few hours old.
+
+One of his friends had been attacked in this spot and it seemed that they were hurt. While there wasn’t enough blood to indicate a critical wound, it was still far too much for comfort. Nick forced himself to take a deep breath and tried to calm down.
+
+None of his friends were weak or strangers to combat, and he knew that they could hold their own in a fight. It was still unpleasant to imagine that they were in danger when he wasn’t there to help, but it was the reality of his new life as part of the System.
+
+Nick had done his fair share of bleeding over the last few months, and he was sure to be wounded again sooner rather than later. Thus, rather than worrying about matters he couldn’t control, he turned his attention to what he could do right now.
+
+After studying the splatter pattern, he realized that trail was leading further down the passage he’d been following. Heading toward the middle of the floor, rather than turning down this ring. Nick broke into a sprint, hoping that his allies were alright, but afraid that they were still in trouble.
+
+Fifteen minutes later, his fears were realized, because he could hear the clamor of battle echoing up from ahead.
+
+He pressed his body into a burst of speed, praying that he would make it in time.

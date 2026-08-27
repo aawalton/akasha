@@ -1,0 +1,93 @@
+---
+id: 7f9f0e3c-ff38-546e-bc1b-a1f1dfd3ab0a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Intermission: Sophia and Devin"
+slug: 0053-chapter-22-intermission-sophia-and-devin
+partOf: labyrinth-of-the-mad-god
+position: 53
+ownLength: 1581
+unit: words
+publishedAt: 2024-09-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1791303/chapter-22-intermission-sophia-and-devin"
+royalRoadId: "1791303"
+---
+
+Sophia lashed out with her frost venom stinger, stabbing the giant cockroach in the middle of its hideous head.
+
+She leapt out of the way as its mandibles snapped shut with the clack of chitin against chitin. She darted back to open some distance, letting the toxin finish the beast off. Its movements were already losing coordination, as the fluid around its brain began to congeal and then freeze.
+
+Beside her, Devin was facing off against three of the oversized bugs at once, taking hit after hit upon his unusual shield. It was a fierce barrage of blows, and he wasn’t able to land a strike with his axe in exchange. It was good that he had been given his new helmet after entering the tower, or he would have taken some cuts to his face in the process.
+
+The lack of resistance seemed to encourage the roaches, and they darted in to finish him off. Someone watching from a distance might have thought that he was in trouble, but she knew that this was exactly what the athletic man was counting on.
+
+“It’s ready. Cover your eyes,” he called out. Sophia did as he suggested, opening her eyes after waiting for the bright flash of light. Flashfire pulse was growing stronger as he leveled, the heat from his ability warming her face even from this distance.
+
+When she looked over at Devin, all three bugs were on fire, and he was in the middle putting them down with his axe. She directed her wasps to help him out. Then she reached down to her belt to draw a pair of the throwing daggers the System had awarded her for completing the first stage of their quest to save the Earth.
+
+While Devin dealt with one of the oversized insects, both wasps converged upon the second. One flew ahead to cut off its escape while the other dove to sting, coming in from outside the beast’s field of view. Sophia took aim and then threw both daggers at the final cockroach, catching it square in the thorax.
+
+It let out a shrill cry as ichor splattered onto the stone floor below, then came charging straight for her. Before it could take two steps, Devin planted his two-handed axe right behind its head, nearly severing it in the process, having changed his weapon’s shape while she was busy.
+
+The last roach fell to the ground a heartbeat later. Ice spread across the surface of its exoskeleton as wasps’ venom froze the beast from the inside out. She let her summons vanish in a flash of emerald light, gritted her teeth as she rode out a wave of exhaustion, then walked over to Devin’s side.
+
+“Are you alright?” she asked. “That was the biggest group that we’ve dealt with so far.”
+
+“I’ve got a few bruises and scratches, but nothing that won’t heal by itself by morning if we can get some rest before running into more.”
+
+“Let’s find a room where we can hole up for the night. Or whatever passes for night in this place.” Side by side, Devin and Sophia started walking down the stone tunnel, heading deeper into the part of the floor that was labeled “waste management” on the map that she’d found.
+
+Not that the map had been all that helpful in the end. Not with so many of the passageways collapsed by whatever had devastated the facility, and even more that had been converted into the roaches’ lair.
+
+This was her third fight since stepping out of the safe room, separated from the rest of her team. At least there weren’t any of the acid-spitting variants this time. The first spitter had caught her by surprise, nearly ruining her gear, not to mention her own tender flesh. The other variants weren’t quite as bad, but they were still extremely unpleasant to deal with.
+
+There seemed to be a whole nest of giant cockroaches down here. Sophia would love to leave this section behind without running into more. Not that she expected the matter to be resolved so simply. Her luck just wasn’t that good.
+
+At least she’d joined up with Devin early on, after following the marks he’d left on the walls in passing. It was reassuring to have the reliable warrior standing at her side, and it would be doubly so when she closed her eyes and tried to sleep.
+
+She hoped that Nick, Veronica, and Kenji were alright. That they would all be reunited soon. She didn’t like this floor already, and she had no desire to find out just how far the ‘escalating threat’ aspect would go. Not after what she’d gone through on Blackmist Bog.
+
+As they walked, Devin seemed lost in thoughts of his own, so they continued down the labyrinthine tunnels in a companiable silence, occasionally stopping to investigate a potential shelter or to sneak past more of the oversized cockroaches that were laired somewhere nearby.
+
+The big bugs had incredibly sharp eyesight, and could sense movement in the air currents. But their hearing was bad, and they didn’t seem to track prey by scent, unlike many of the insects from Earth. It meant that if they could find somewhere out of sight, it should be safe enough to camp, especially if they came across another room with a working door.
+
+While they walked through the stinking, earth-encrusted halls, Sophia wondered what had happened to this place before the System had decided to use it for the quest. What the story of the Tower of Rizzen was, and what had happened to the people who had lived here before the beasts took over.
+
+When they made it back to Earth, she intended to start studying the System and the Labyrinth, starting by compiling the experiences of everyone who had participated in this quest. Team Earth needed to have a better idea of what they were dealing with if they wanted to survive the days ahead.
+
+An hour of wandering the lonely and rather spooky passageways later, they came across a large enclosure with a row of intact doors running along the back wall.
+
+When they cracked one open, they found what appeared to be some manner of utility closet inside, filled with junk and various cleaning tools. “This should work well enough, and I’m too exhausted to look for something better,” she said, and Devin nodded his agreement.
+
+After emptying it out and setting Sophia’s ward stones across the entrance to the adjoining room, they took out some provisions and ate dinner, sharing stories or jokes to help keep up their spirits.
+
+“Do you think the others are alright?” Devin asked, then took another big bite of dried meat.
+
+“I’m sure they are,” she replied. “Kenji is the smartest person I know. Veronica is tough as nails, and Nick is remarkably resourceful. As long as Kenji’s arm was healed when he stepped through the door and entered the tower, I’m sure that they can hold their own, at least until the floor starts turning up the heat.”
+
+“Speaking of Nick. There’s something that I’ve been meaning to ask you, now that we’re alone.” Devin offered a winning smile, with a mischievous glint in his eyes that was part of his natural charm. “You two seem awfully close.” He raised two fingers and then slowly brought them together. “What exactly are you to one another?”
+
+“We’re friends.” She hoped that the heat coloring her cheeks wasn’t visible, although from Devin’s grin, she had a hunch that it was. “I think that I can trust him. I mean really trust him. But we haven’t known each other for long, and every waking moment was spent fending off one disaster or another while rushing for the tower. There wasn’t time for anything else.”
+
+“But you’ve thought about it?”
+
+“I’ve… you know, you’re awfully nosy Devin? That’s a pretty personal question.” She threw a jab at his shoulder that he easily avoided, and wouldn’t have hurt him even if it landed.
+
+“Ah, come on. Who knows if either one of us will live to see tomorrow. Indulge my curiosity. I haven’t been able to swap any juicy gossip since my new life began.”
+
+“Fine.” She found that she wanted to talk about it, and Devin was a good listener. “You win. I honestly don’t know how I feel about Nick. I think maybe there’s a spark, but who knows if anything will come of it? Like you said, we might all be dead by this time tomorrow. Or on another planet, or an entirely different dimension for all I know.”
+
+She decided to change the subject. “What about you and V? The two of you seem pretty… friendly.”
+
+“I think that you can definitely call us friends.” She laughed as his own cheeks colored. After all, turnabout was fair play.
+
+“Just friends?” she pressed.
+
+“Friendly friends. But that’s all that I’m sure of just yet. I think…”
+
+“Shh.” She cut him off. “I hear something coming. Hopefully they will pass us by, but if my wards trigger, get ready for a fight.”
+
+No sooner had those words passed her lips than her alarm wards rang out, accompanied by the chitinous scratching of insects skittering across the stone. “Shit, some must have been following us.”
+
+With a sigh, they grabbed their weapons, opened the door, and prepared for battle.
+
+It seemed that they were going to have to work for their night off after all.

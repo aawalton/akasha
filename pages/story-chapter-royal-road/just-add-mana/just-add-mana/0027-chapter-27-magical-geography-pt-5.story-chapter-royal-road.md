@@ -1,0 +1,229 @@
+---
+id: dc6556a9-0a09-5267-bb3d-76ba43639c98
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27 — Magical Geography, Pt 5"
+slug: 0027-chapter-27-magical-geography-pt-5
+partOf: just-add-mana
+position: 27
+ownLength: 3715
+unit: words
+ownProgress: 3715
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2555049/chapter-27-magical-geography-pt-5"
+royalRoadId: "2555049"
+markedReadAt: "2026-06-29T18:48:28.477Z"
+---
+
+Shortly after manifesting the giant hammer and making both Leo and Damien gawk at him, Cale dismissed it and instead retrieved a tiny pin from one of his pockets. "Just kidding," he said, setting to work picking open the locks on one of the windows. "The windows look too nice to break. And I'm pretty sure there's some kind of window-related rule."
+
+Which was, yet again, rather strange—but Cale was learning to recognize the signs of a rule, even if he didn't know the exact contents of them. Like the grass they had to avoid stepping on, the windows here had glass made out of the same crystalline domain, and he wasn't particularly in the mood to fend off yet another refractor beast.
+
+The locks, however? They had none of that telltale crystalline gleam, which wasn't all that unusual. In all his lifetimes, Cale had encountered many mages that remembered to ward their doors but not their locks. It was part of the reason he'd learned to pick locks in the first place.
+
+That trend, fortunately, applied just as much to windows as they did to doors. The only thing that was really unusual about this was that there were three of the locks, for some reason.
+
+That seemed excessive for a window, but who was he to judge the Loomweavers?
+
+"Should I be concerned about how quickly you're doing that?" Leo asked after a moment, eyeing him. Cale had, by this point, finished picking the first lock and had moved on to the second.
+
+"Hey, there are plenty of legitimate reasons to know how to pick locks!" Cale said, carefully tensioning the locking mechanism and feeling it out with his pick. "If you lock yourself out of your house, for example."
+
+He didn't look back, but he could practically feel Damien and Leo silently conferring with one another and deciding that, for Cale, this was a perfectly reasonable explanation as to why he needed to know how to pick locks. Cale might have been offended by this if it weren't for the fact that they were entirely correct.
+
+He had also done a large amount of breaking and entering, though. Learning to pick open the locks on his homes was a far more troublesome task comparatively; it was generally easier to just create a new doorway using a few well-placed barriers.
+
+Cale did wonder sometimes if Sheriya had been right about him abusing his barriers. He felt like it wasn't his fault they were such universal solutions to physical problems.
+
+In any case, he got all three of the locks on the window open in short order, then pulled it open and peered at the dimly-lit stairwell behind it. Like he'd suspected, it did indeed lead down, beneath the surface of the ground. Presumably if they followed that path, they'd end up in the so-called "sky."
+
+But why bother guessing what would happen when they could just do it? Cale hopped on through the window, humming happily to himself. "And here I thought my first magic staircase in Utelia was going to be at the Academy," he said. "Come on in, it's not trapped or anything."
+
+"You're sure?" Leo asked, entirely too suspicious.
+
+Cale shrugged and beamed. "Probably!"
+
+Leo seemed understandably rather dissatisfied with this answer, and so Damien was the first to climb through. After that, Leo followed, albeit reluctantly. The railing of the stairwell was decorated with an ostentatious gold trimming that matched the ones he'd seen on Sternkessel's suit, which was another point for their professor being connected to this place. And wasn't that fascinating?
+
+Almost as if Sternkessel could tell Cale was thinking about him, the smooth timbre of the professor's voice suddenly resounded around them, echoing in the stairwell as they began to descend.
+
+"An interesting demonstration," the professor said. "I would award extra points for it, but I suspect you will not need them. In the future, however, please consult me before you reveal my schemes to my students."
+
+Cale snickered at that. "You're admitting to scheming now?"
+
+"I would be a poor example of a professor if I did not scheme," Sternkessel said. Cale could imagine him sniffing haughtily as he spoke. "And I am not so poor a sport as to pretend otherwise."
+
+"Is he just talking to us, or to everyone?" Damien whispered. "That's going to sound weird to everyone else, right?"
+
+"I am speaking to all my students, yes," Sternkessel responded, making Damien jump. "Adam, please stop attempting to light your classmates on fire. I will deduct a point if you continue." A short pause. "Attempting to shove their heads into your chest furnace is not a loophole, Adam. It is attempted homicide."
+
+Cale snorted so hard he almost choked.
+
+"Now, I suggest you all listen closely," Sternkessel said. Cale perked up—was he about to reveal something about the Inverted Spires? The stairwell they were in was lit only dimly by candles of magical wax, and the purple lighting flickered at his words, almost as if in anticipation.
+
+"Utelia has a total of four continents, less than most realms we are aware of," the professor continued.
+
+Oh. Right. The lecture. Cale exchanged glances with his friends, who seemed equally bemused by the sudden change in topic; Leo shrugged as if to indicate this was rather typical for Sternkessel in particular.
+
+"The one the Brightscale Academy is located in is known as Ercryst. It is the farthest south of the four continents and is ruled primarily by the Orstrahl Kingdom, although the Brightgrove Elves are a strong contender when it comes to sheer magical might. In fact, Orstrahl's rule over Ercryst only became absolute when the Red Hunters came into power some decades ago: prior to that, Orstrahl and Brightgrove were close allies."
+
+Cale blinked, glancing at Damien and Leo. To his surprise, they both looked equally bewildered.
+
+"You didn't know that already?" he whispered. Leo shook his head, looking troubled.
+
+"I thought Orstrahl was always the leading power here," he muttered. "Have the Red Hunters really only been around for a few decades?"
+
+"Six, to be precise," Professor Sternkessel answered, making them jump. It was too easy to forget that he could somehow hear everything they were saying. Then, before anyone could ask anything else, he kept speaking. "North of Ercryst is the continent of Illwyld, occupied largely by beastfolk tribes and ravaged by wild magic. It is said that the leader of the Red Hunters originates from Illwyld, in fact, though this is more rumor than fact. Very little is known about them."
+
+"Shouldn't the leader of the Red Hunters be a public figure?" Cale muttered.
+
+"What I want to know is why he's focusing so much on the Red Hunters." Leo looked around as if trying to find the professor, though it didn't exactly help. Sternkessel was nowhere to be seen.
+
+Damien made an agreeing noise. "Maybe he knows about what happened during lunch?" he suggested.
+
+"A lot of information about the Red Hunters isn't even public," Leo said. "It's almost like Sternkessel is—"
+
+The professor interrupted Leo, continuing as if he couldn't hear them. Cale's eyes narrowed slightly. "North of Illwyld is a steep, mountainous continent known primarily as Aersheld, though many Utelians also refer to it as the Divine Shield due to its importance as a bastion of defense against the advances of the dark lord. Aersheld is ruled and maintained by the Thyrahl Kingdom at no small cost—the mountains of Aersheld are known to have rather severe mana-dampening properties, a fact that makes them difficult to traverse. However, that same fact is what makes it so effective at fending off the dark lord's armies."
+
+Leo had retrieved his notebook and started scribbling furiously, a look of intense concentration on his face. Cale had to reach out and prevent him from falling down the stairs several times, in fact. Damien was frowning slightly, but chose not to comment. Instead, he eyed the depths of the stairwell warily.
+
+"Relations between Thyrahl and Orstrahl are rather strained at the moment," Sternkessel continued, "in large part because Thyrahl continues to demand resources for its part in fending off the threat of the dark lord, and Orstrahl's rulers are beginning to believe that the threat in question is not as great as Thyrahl claims. Still, they are attempting to keep the peace for now—Orstrahl has sent its greatest division of Red Hunters, the so-called First Squad, to occupy a small outpost near Thyrahl."
+
+There was a thin smile in Sternkessel's voice. "Ostensibly, this is to assist with fending off the forces of the dark lord, though it is rather obvious to most that they are there simply to assess the threat posed by those armies for themselves. More conspiratorial is the belief that the Red Hunters were sent there to establish a foothold for Orstrahl should tensions escalate. You may come to your own conclusions."
+
+Cale frowned slightly. Sternkessel wasn't the type to include mere speculation in a lecture, was he?
+
+"Last but not least, the continent without a name," Sternkessel said. "It is known to most simply as the Corroded Lands and is fully occupied by the dark lord and his forces. Very little is known about them. Scrying spells are unable to penetrate into the depths of the corrosion, and no mage has yet returned from their attempted scouting missions. Except as corpses hand-delivered to Thyrahl's queen, of course."
+
+That one made Cale roll his eyes. Dark lords were so dramatic. Really, hand-delivering corpses? What was this, the pre-Collapse Age of Corrosion?
+
+Leo looked aghast, of course, which was probably the more appropriate reaction. Damien winced and withdrew into his cloak slightly, drawing Cale's notice. He watched his friend for a moment, his frown deepening, then shook his head and sighed.
+
+"So," he said. "Aersheld is called the Divine Shield. You explained the shield part, but not the divine part. Is there a reason for that?"
+
+"Very good," Sternkessel said, approving. "Indeed. The Thyrahl Kingdom has a particularly strong connection to the gods of Utelia; it is, in fact, the source of much of their power. Some believe the reason they are able to traverse the mountains of Aersheld at all are the result of divine blessing, though there is a far simpler explanation."
+
+Cale waited, and when Sternkessel failed to elaborate, spoke again. "Which is?"
+
+"Thyrahl's citizens are all particularly well-suited for climbing," Sternkessel answered promptly, as if he'd been waiting. "Many of them are goat shifters, orcs, or other physically-gifted species. Combine that with practice, and it would be far stranger if they struggled as much as others do on those mountains."
+
+That made Cale snort slightly. He grinned a half-grin. "Not everything needs a magical explanation, right?"
+
+"Indeed," Sternkessel said smoothly. "Any other questions?"
+
+Cale thought about all this for a moment, then furrowed his brows as a thought occurred to him. "You said there are four continents, and you basically listed them all as north of one another," he said. "Does that mean they're all just in a straight line? What's stopping the dark lord from just sailing around to reach us?"
+
+"That is correct." Sternkessel seemed amused by the question, for some reason. "Much of Utelia is covered by ocean, and while the water between continents is relatively safe, farther out in the east and west is an even more extreme version of the nearby Depths known as the Endless Deep. Not only are magical storms prevalent and incredibly dangerous, the waters themselves are infested with enormous, highly-resistant ocean leviathans that boast near perfect immunity to magic. Suffice to say little exploration has been done of the region."
+
+"I heard something about that, actually," Leo offered. "I mean, it's just a theory, but some scholars theorize that all the magical storms out there are a side effect of the Gift. They think it needs half the planet just to process all the new spells and stuff."
+
+"Huh." Cale thought about this for a moment. "Couldn't it just use... you know, space?"
+
+Leo shrugged, looking a little embarrassed. "It's just a theory," he said.
+
+"There is some weight to it," Sternkessel remarked suddenly, startling them; they each looked up at the projection of his voice. "Though that is perhaps a discussion for a different class. I believe you have arrived at your destination."
+
+They were, in fact, approaching the end of the stairwell. Cale had to squint against the light—the stairwell had been so dark comparatively that the sudden bright sunlight hurt his eyes, especially considering the way it gleamed off marble floors and gold accents. It felt like they had exited into the foyer of a large, empty mansion.
+
+Emphasis on empty. The utter lack of people was almost creepy. Cale made his way to the front door and pushed it open to step outside, slightly disoriented by the sudden smell of fresh grass and forest leaves. It was nice that there was actual ground beneath his feet now. Soil and dirt, not the glasslike sky they'd been standing on earlier.
+
+When he looked up, there was a clear sky above them, with only a few spires hanging upside-down. He was pretty sure they were the same ones they'd just climbed into—in fact, if he squinted, he could even glimpse the tiny figures of their classmates, who looked like they had finally stopped arguing with one another and were now making their way toward one of the spires.
+
+There was otherwise no reaction. No sudden collapse that threatened to crush him, no sense of vertigo from the entire horizon falling toward him. Looking up here seemed to be fine, which meant—
+
+"Don't look down," Cale said, his tone sharp enough to make both Leo and Damien stop in their tracks and stare at him.
+
+"Why not?" Leo asked, confused.
+
+"We weren't allowed to look up when we were up there." Cale pointed at what was now the sky. "Now we can, which means looking down is most likely going to trigger something. And I don't know if you guys can feel it, but there's something here, beneath the dirt."
+
+He certainly could. Now that they were here, the sense was almost unavoidable—that same strange oil-slick sensation he'd noticed earlier on his mana sense was now all around them, orders of magnitude stronger than it had been when they were on the so-called ground. In fact, it almost gave him the impression that he was swimming in oil.
+
+Which was disgusting. Cale frowned to himself. The mana here was wrong for all sorts of reasons.
+
+If that was all there was to it, then Cale might not have been nearly as worried. The real problem was that Sternkessel had warned them about arriving. The professor hadn't needed to—they would have noticed on their own in just a few more steps—but they'd all been looking down as they walked, and Sternkessel had interrupted at the exact right moment to make them look up.
+
+Right as they crossed some kind of threshold and the entire world inverted around them.
+
+Sternkessel had helped them. He didn't seem like the type to do something like that without reason, and if Cale had to guess what that reason was, it would be that the professor was less confident about being able to protect them while they were up here than when they had been down there.
+
+"Well now," Sternkessel said. He sounded pleased, but there was definitely an undercurrent of tension in his voice. "I will say that I had not expected you to get quite this far. I wish you the best of luck, Cale Cadwell Cobbs."
+
+Like that wasn't ominous. "What about my friends?" Cale objected.
+
+"I wish them luck too, of course," Sternkessel said smoothly. "Do not believe what my colleague tells you. I do not favor or disfavor any of my students."
+
+Leo blinked. "What does he mean by that?"
+
+"Akkau said Sternkessel didn't like you two," Cale said with a shrug. "I think he might've lied to make me work harder this class."
+
+"I don't think Professor Sternkessel treats us any differently," Damien offered quietly.
+
+"Good, otherwise I would've needed to have words with him." Cale peered up at the sky threateningly, though all he got in response was a sense of vague amusement. Seriously, how was Sternkessel doing that? "Now come on, let's get to work."
+
+"What do you mean, work?" Leo asked. "What are we supposed to do here, exactly?"
+
+"Investigate," Cale said cheerfully. "There's something here that doesn't want to be seen. Whatever it is also doesn't like that we're here. It's not attacking us so long as we don't break its rules—yet—but that doesn't mean it's going to do nothing. We don't know what it is or why it's here, but I bet you anything that if we find out, we'll learn exactly why the Inverted Spires are the way they are."
+
+He raised his voice. "Professor! If we reach 24 points, can we get another Wing credit?"
+
+There was a short pause before Sternkessel replied, his tone amused. "I suppose I can allow it, if you are that confident," he said. "Very well. One extra credit for each multiple of twelve you reach, and bonus points if you uncover or resolve the true cause of the Inverted Spires and its anomaly. Be aware that the other students are on their way, so that task may be more difficult than you think."
+
+Cale waved a hand dismissively. "I'd rather they were here, if anything," he said. "Not everything has to be a competition. Maybe they'll see there's more to being a mage than just being able to cast the spells from the Standard Array."
+
+"It's not that easy to overturn a lifetime of thinking that's the only way forward," Leo muttered half-heartedly. Cale shot him a sly grin.
+
+"We might also be the first to find out what happened to the Loomweavers," he said. "Remember, their symbol was all over these buildings."
+
+Leo paused. "That's... true," he said carefully.
+
+"They might even have left details of whatever their secret magics are behind," Cale said.
+
+Leo swallowed, unable to stop the gleam in his eyes from growing. "Also true," he said.
+
+"So..."
+
+"I get it, I get it," Leo groaned. "I'm in. Not like I was going to stop here anyway."
+
+"Just wanted to be sure you were appropriately enthusiastic," Cale said cheerfully. "This is your field of interest, after all. No offense, Damien."
+
+Damien blinked. "None taken?"
+
+"Anyway!" Cale spun in a circle to examine their surroundings, then nodded to himself, satisfied. "Damien, Leo, I need you both to take a step to the left. Now."
+
+"What?" Damien said, confused. Leo grabbed him and yanked him to the left a second before a massive spike of domain magic punched through the ground and into the space they'd been standing in just moments ago; Cale followed suit, dancing out of the way of a third spike just before it punched through him.
+
+"Looks like there's a new rule," Cale said. He could sense mana distortions growing beneath them like little wells of potential. They faded away when he moved, but if he stayed in place for too long, something about the magic locked into place, and a new spike of domain magic erupted from the ground. "Don't stay in place for more than five seconds."
+
+"Wha—we've been standing here for minutes!" Leo protested.
+
+"And whatever's here isn't above making new rules for us to contend with," Cale said, pulling them along. "Stay alert. Never assume things will stay the same forever. Adapt to changes and figure them out faster than your opponent can make them. That's how you survive as a mage. Now, you're the scholar here. Which building's going to have the Loomweaver records?"
+
+Leo cast a panicked gaze around. "This isn't Loomweaver architecture," he said, trying to think quickly. "But they were famous for keeping records on massive tapestries they would hang as banners along the halls. I think—it should be the longest building? Something that could have a really long hallway?"
+
+Cale nodded thoughtfully. "That one, then," he said, pointing. He'd seen it in his brief glimpse of the grounds when he looked up, a building that looked rather like an enormous spiral. That was the perfect place for a long hallway if he'd ever seen one. "Come on! Before this thing makes up any new rules for us to deal with."
+
+With that, he sped off. Damien and Leo exchanged brief, panicked glances, then followed, carefully not looking at the ground.
+
+They were here.
+
+The thing with no name itched, which was a new sensation for it. This was a day of new sensations, it seemed. It could feel those little mages crawling around above it, their magic prickling and searing into its skin. One in particular burned, like a miniature star had found a way to anchor itself into the Inverted Spires.
+
+It didn't like the feeling. It wanted to get rid of them, and yet every time it thought about doing so...
+
+Pain. Something reacted and constricted, making it writhe in agony.
+
+No. It was a thing of rules. It was nothing more than a thing of rules. It existed to enforce and challenge, not to think. Not to be.
+
+It had to be a good thing-of-rules. That was the contract that commanded it. That was its nature.
+
+But...
+
+New rules. That was possible, wasn't it? Nothing in the contract said it could not make new rules, only that it had to enforce them.
+
+It had to be fast, so the Many-Ringed Anchor couldn't stop it. The Anchor visited it sometimes, spoke to it in soft words it couldn't understand. Even now, the Anchor whispered to it, trying to help it calm.
+
+It didn't want to calm. Emotion was strange and new, but even in the panicked buzz of its discomfort, it couldn't go back to feeling nothing. It wanted to feel.
+
+It just didn't want to feel this. The little mages crawling on it, making it itch. It needed them gone.
+
+Especially the star. The mage whose gaze felt far worse than all the others, whose eyes felt like they burned. It needed him gone most of all.

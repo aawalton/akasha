@@ -1,0 +1,79 @@
+---
+id: e3ca452a-1d88-5478-be0e-4adad336d2bc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 119: The Sky is Falling"
+slug: 0160-chapter-119-the-sky-is-falling
+partOf: labyrinth-of-the-mad-god
+position: 160
+ownLength: 1634
+unit: words
+publishedAt: 2025-04-21
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2220149/chapter-119-the-sky-is-falling"
+royalRoadId: "2220149"
+---
+
+“I don’t suppose that whatever you’re planning is ready to go?” Devin frowned as the army of streaking stones drew closer by the heartbeat. “I’d rather not have my first meteor shower wind up being quite so literal.”
+
+“No.” Nick laughed. “It’s going to take a while longer. At least until the combat phase begins.”
+
+“I had a feeling you were going to say that.” Devin sighed. “Good luck, man. This is really going to suck.”
+
+That was all the time for discussion they had before the first meteor drew near. Fortunately, it didn’t seem like it would land too close to their location. It’s a perfect opportunity to find out what we’re dealing with.
+
+Ten seconds later, the flaming stone slammed into the earth a quarter mile from where they were standing. It came crashing down with incredible force, obliterating the grasslands for a few hundred feet in every direction. The shockwaves are dangerous too and will have a larger radius.
+
+Nick bent his knees and rode out the soil rolling beneath his boots, keeping his eyes on the sky all the while. “That’s bigger than I was hoping. We’ll have to start moving as soon as we determine where each meteor is going to land to avoid getting caught in the blast. Don’t let the first impact anchor your expectations—assume that some of them will be even bigger.”
+
+He had sheathed his sword over the last few seconds, since it wasn’t going to help him now. Meanwhile, Devin strapped his axe across his back. While they waited, Nick began removing rocks and water from his pack, until the magic bag was almost weightless. Jettisoning the supplies would help him to maneuver quicker, and he needed to lighten the load for what he was planning regardless.
+
+Not long after, the next set of meteors arrived, screaming through the sky above their heads. This time, it was a cluster of three. They were falling straight for where the men were standing, and were slightly offset, which made the timing tricker. The closest opening was to their left, so the duo darted off in that direction.
+
+Although the men could move with superhuman speed, it was hard to judge the rocks’ trajectory until they were close, and they were soaring at an incredible velocity. As a result, the impacts were much closer this time.
+
+Boom. Boom. Boom. Nick was thrown to the ground as the earth shattered under the impact—the force of the shockwaves rippling throughout his body. He would have been in trouble if he hadn’t invested so many points into Toughness. But as it was, he was merely bruised, instead of having his organs liquefied.
+
+The trial proceeded at a similar pace for the next several impacts as the men danced beneath the falling sky. It was a deadly, intensely-stressful situation. But it was marginally manageable so far, as long as they paid close attention, didn’t make a single mistake, and avoided receiving an injury that would slow them down.
+
+Half an hour later, the thickest part of the meteor shower arrived. Nick and Devin were forced apart by back-to-back impacts—each man left to his own devices as fire and fury rained form the heavens.
+
+Matters had reached the point where a tiny miscalculation would prove fatal, so Nick called upon his Arctic Clarity—using the frigid focus it provided to analyze the best place to stand. It helped to quell his fear and extinguished the urge to panic, as the earth shook without cessation beneath the intense barrage.
+
+Even using Force Acceleration to get out from under the worst of it, he almost didn’t make it. After one particularly close call, he took a heavy hit from a piece of shrapnel, which knocked him to the ground with blood running down his body.
+
+It was a significant wound. To make matters worse, Nick was running low on stamina by this point and had burned through more mana than he’d planned. Since Devin hadn’t been hit, he slammed his Flask of Restoration, sighing in relief as the elixir restored his depleted reserves and took the edge off his injuries. Then he looked up to track the next meteor and kept right on running.
+
+The fourth challenge course was an intense, grueling ordeal. Nick had to keep one eye on the sky the entire time. Judge the vector of each streaking lump of stone and predict where it would come crashing to the ground. On top of that, he had to plan out his movements so that he wouldn’t rush straight into the next impact, mapping out a route in his head while eruptions ensued on all sides.
+
+He wouldn’t have made it without his growing powers of visualization. They let him track the approaching meteors in a three-dimensional grid, with a representation of the surrounding terrain displayed in a top-down view. Devin had to cut it even closer, relying on explosive bursts of speed to get out of the way at the last possible second.
+
+Twenty terrifying minutes later, the worst of it was finally over. Just as Nick was starting to catch his breath, the Administrator’s voice emanated from above, signaling that the climax of this ordeal had arrived.
+
+“The fourth environmental challenge is complete. Proceeding to the combat phase of this stage. You have one minute remaining until program initialization. The enemy for this phase is: Kraken vines.”
+
+Although the meteor shower had thinned, it hadn’t stopped falling. It wasn’t a surprise after the previous announcement, just some deeply unwelcome news. It meant that that the duo had to keep dodging the falling rocks while watching the sky and fight whatever was coming for them at the same time.
+
+He Sized Up the prairie from horizon to horizon. But as the final seconds ticked away, Nick couldn’t spot any sign of his foe. Even when the allotted minute had come and gone, he still didn’t see anything beyond the rain of rocks tumbling from the sky.
+
+He knew that it wasn’t a glitch or a lucky break. Something deadly was out there, and it was already hunting him. They must be some manner of ambush predator. If they’re not coming from the sky or the surface, they must be hiding in…
+
+“Attack incoming from below ground,” Devin roared, having come to the same realization. No sooner had the words left his lips than something emerged from the soil near Nick’s boots. Something long and green came flying at him with incredible speed, closing the distance in the blink of an eye.
+
+He had to use Force Acceleration to get away—boots digging furrows into the dirt as he fought to keep his body under control.
+
+The emerald tendril lashed through the space he’d occupied a fraction of a second prior, retracting back into the ground in between the drawing of one breath and the next. “Kraken vines,” Devin cried out above the ceaseless clamor. “Now the name makes sense. It’s some kind of plant. They’re trying to grab us and bind our limbs. We’ll be sitting ducks for the meteors if they get us.”
+
+The instant that Nick dodged the next impact, three vines burst through the soil—each coming at him from a different direction. Meanwhile, the next meteor was headed his way and would land sometime within the next ten seconds. If he didn’t evade this attack, the kraken vines were going to end him here and now.
+
+Now that he could size them up, Nick could sense that the main bodies of the plants were buried deep underground. That they specialized in hunting late tier-1 life forms so they could feed on their essence. Getting hit by a meteor is certain death for us. They must be willing to sacrifice a few vines to secure a one-shot kill.
+
+By this point, he had already reached for his scabbard and drawn his sword in a flash. He ducked beneath one streaking vine, leapt over the next, and caught the third on the edge of his blade. There was a moment of resistance before the plant gave way—the tendril was surprisingly tough given its thickness.
+
+While he’d managed to dodge the vines’ attack, it had cost him precious seconds. The meteor would land at any moment, and he was much too close to withstand the blast. Nick had no choice. He had to use Force Acceleration again, draining more of his dwindling reserves and putting strain on his battered body.
+
+This time, he misjudged the leap and used too much force. He went rolling across the grass—earth and sky changing positions with every beat of his heart. More rocks were on the way, but that wasn’t what scared him the most. Until he could gain control of his momentum, he was in a perfect position for the predatory plants to grab hold… which was exactly what happened five seconds later.
+
+Just as Nick came to a rolling stop and got his feet back under him, a vine burst out of the ground by his boots. Before he could hope to get away, it lashed around his ankles and drew tight, tethering him to the spot like the anchor of a ship. He sawed at the stringy tissue with the edge of his blade, but he didn’t have a good angle and the going was slow.
+
+He looked up to see another meteor coming straight for him. Oh shit. Terror infused every fiber of his being. Even if he cut his way free, he wasn’t going to get away in time.
+
+“Nick, close your eyes and hold your breath,” Devin’s voice resounded from somewhere nearby, just as two more vines caught him. They bound Nick in a crushing embrace, taking his odds of escape from low to zero in less than a second flat.

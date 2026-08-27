@@ -1,0 +1,179 @@
+---
+id: 5eb6fea7-96c3-5fdc-ae3b-07498ed58e01
+page-type-slug: story-chapter-royal-road
+title: "96 — Book 2, Chapter 44 — Aftermath, Pt 1"
+slug: 0096-96-book-2-chapter-44-aftermath-pt-1
+partOf: just-add-mana
+position: 96
+ownLength: 3192
+unit: words
+ownProgress: 3192
+publishedAt: 2026-02-05
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3015172/96-book-2-chapter-44-aftermath-pt-1"
+royalRoadId: "3015172"
+markedReadAt: "2026-06-29T18:50:56.596Z"
+---
+
+Cale eyed the corpse of the Red Commander in distaste for a long moment without speaking. He could sense the two spiderling children behind him, trembling and staring in shock. He was going to have to deal with that before he gave himself the time to process everything that had just happened.
+
+Torment's Shadow was a side he had thought thoroughly locked away. He didn't like how easily the mask had slipped on and how much he had wanted to keep it on, even when he'd known it was no longer what he needed. Even the Gift had seemed concerned, if the spell description for the Twilight Gate was any indication, and Cale didn't know how to feel about that.
+
+He did know, however, that now wasn't the time for it. Especially given what he was sensing from the Red Commander's corpse. First things first—he wanted to make up for what those two spiderlings had witnessed. If he'd managed to come to his senses earlier, they might not have gotten involved at all, and just because neither of them had gotten hurt this time...
+
+Torment's Shadow was not so disconnected from him that it would allow children to be hurt, but it cared more about doing the hurting than any other side of him. It was the part of him that wanted those responsible for cruelty and injustice to suffer. The part of him that wanted to make an example of tyrants and dictators and the petty and cruel.
+
+But Cale had been down that road before, and he knew better than most how difficult it was to walk away from it. More than most, it was something he couldn't allow himself.
+
+Cale spared another glance to the corpse of the Red Commander and frowned, sensing something unusual. He turned to the spiderling children. "Hey," he said, his voice gentle. The larger one—an older brother, perhaps?—stepped backward, his arms wrapping around his little sister protectively, and Cale winced. He couldn't blame him for that. "I'm sorry you had to see any of that. I'd like to make it up to you, if that's okay."
+
+The younger spiderling was still crying, but her brother frowned slightly. He seemed a bit awed, but also cautious, which Cale approved of. Never trust an inexplicably powerful mage that appeared out of nowhere to assist; often, even if their intentions were genuine, it was easy for them to accidentally cause harm.
+
+...Admittedly he'd been the one to spread that particular piece of advice around. Mostly for the people who would meet him in the future.
+
+"How exactly are you going to do that?" the spiderling asked, his tone guarded, and that was also a good question.
+
+"I'll figure that out later," Cale decided, glancing at the corpse again. There was definitely something going on there, and he was going to need to settle that before he got any further with this. "There's something I need to do with this guy first. Then I'll come back and help you find your goats, how about that?"
+
+"We can find the goats ourselves." The spiderling hesitated, looking around. "There are mages looking out for us. They should be around here. Somewhere."
+
+Cale winced. "They probably ran away."
+
+Probably was the wrong word for it. They'd started running as soon as the Red Commander had landed nearby, and they hadn't even brought the children with them. For good reason, technically—the aura the Red Commander was exuding interfered with the spells they could have used to help, and if not for Cale the smart choice would certainly have been to get backup—but Cale couldn't say he was pleased.
+
+Fortunately, the spiderling had evidently come to the same conclusion. He scowled, looking annoyed. "They probably send Garu and Gara to look after us," he muttered. "Cowards."
+
+"I guess you have history, then." Cale gave the surrounding area a quick scan with his mana sense. "You should be safe here, and your goats aren't too far out. I... it's possible not all of them survived. I'm sorry about that. If you don't mind me asking, why did you have mages watching over you?"
+
+"This is supposed to be our pilgrimage," the older spiderling said. His sister was beginning to calm down, now, though she still trembled in his arms. "Well, mine, anyway. My name's Adyr. This is my little sister, Hesa."
+
+Cale nodded. "I'm Cale. How about this: I'll escort the two of you personally, since your mages ran off."
+
+"We're not supposed to get any help unless we're in trouble." Adyr looked him over warily.
+
+"Then I'll stay out of it unless, like you said, you're in trouble," Cale said with a shrug. "But it can't hurt to have a powerful mage making sure nothing goes wrong, right?"
+
+"...Right." Adyr still seemed suspicious, but he seemed hesitant to decline help from a powerful mage, too. If the gleam in his eyes was any indication, he was wondering if there was anything he could learn from Cale, which was also one of the little pieces of advice Cale had made sure to seed throughout the Realms. It was good to know it had spread. "I accept, I suppose. You have a lot to make up for, though."
+
+Cale laughed. "Bold," he said lightly, though he didn't mind. Adyr was right. He'd inadvertently put the two of them in danger, and even if Adyr was putting on a brave face...
+
+Well, they were probably going to have some serious nightmares from all this.
+
+"You said there was something you needed to do before you can help us," Adyr said, and Cale nodded.
+
+"Need to get rid of this," he said, jerking a thumb toward the Red Commander's body. "Always burn the body of a flesh mage. A lot. You can never be too sure."
+
+"I don't know what that means, and I'm pretty sure I don't want to. And I'm very sure I don't want my little sister to." Adyr hugged her close and glared at him, and Cale blinked.
+
+Right. Fun facts were probably less fun when it came to people who weren't as used to violence or to the eccentricities of magic academy professors. He had the distinct feeling that if Flia were here, she would be scolding him.
+
+"My bad," Cale said awkwardly. "I'll, uh, be right back."
+
+With that, he turned to scoop up the Red Commander's remains with a prismatic barrier, eyeing the corpse contemplatively as he did so. He was going to burn this, but the reason he'd kept glancing in its direction had less to do with flesh magic and more to do with what else he was seeing. There was a faint, glimmering trail that led away from it.
+
+Cale was pretty sure that in most cases, he wouldn't have been able to see that trail at all. It reminded him pretty distinctly of the lines exposed by [Karmic Upheaval] earlier, and that meant that this was a karmic line. Clearly, something had happened at the moment of the Red Commander's death, and it was something that was meant to escape his notice.
+
+But the effects of opening the Twilight Gate were still lingering in minor ways, enhancing his senses in ways he wouldn't normally have access to. One of those ways was a certain amount of sensitivity to the karmic web. Enough, at least, for him to see the trail and realize what had happened.
+
+It was designed to mimic—or perhaps simply to hide behind—the karmic backlash created whenever any creature was ended before its time, and it was nearly unnoticeable as a result, even with Cale's improved senses. It was ultimately only his recent experiences with Angus that allowed him to recognize the traces of soul movement and to put together what had happened.
+
+Somehow, the Red Commander's soul had used the shockwave created by his death as a means to travel within the karmic lines to a specific destination.
+
+That couldn't mean anything good. Most souls that weren't already claimed by some divinity were meant to simply dissolve to be recycled and reconstituted in another one of the Great Realms. Cale had never seen one stay intact or move with such deliberation before.
+
+But it wasn't completely unknown to him, either. He was aware that it was possible. There was a time when his ability to reincarnate had been thoroughly studied, and some of the mages that did that research had proposed that a similar mechanism might be recreated for others.
+
+None of those studies had gone anywhere good, though. Cale was pretty sure of that. Perhaps someone had picked up that research where they'd left off?
+
+Well, if that was what had happened—and if the Red Commander thought that would be enough to get away—then he was about to get a very nasty surprise.
+
+Cale took one final glance at the spiderlings, made himself a quick reminder to check in on the Greater Indictment he'd trapped, then activated [Shadowblend] and began rapidly teleporting, following the karmic trail attached to the body he carried with him.
+
+Deep within a bunker hidden in Aersheld's mountains, Lifsauhn let out a happy sigh as he stretched.
+
+What an intimidating encounter. And such a waste, too; if he'd been only a little more prepared, he could have captured Yggdrasil's End properly. Now he would have to build this new vessel up, and that would be an aggravating amount of work.
+
+For one thing, Lifsauhn was short. He didn't like being short. It made it harder to look down at others, and that was one of his favorite activities. For another, dwarven bodies were inherently resilient against any kind of modification or magical scarring, and that meant it was going to take twice as much effort to make himself comfortable.
+
+Lifsauhn began to tap his foot impatiently against the floor, and the moment he realized this, he let out an irritated grimace and fired a blade of mana to slice off the offending limb. It took only a few moments for the flesh to begin knitting back together, but it was a few moments longer than he was used to doing this.
+
+You have learned [Mana Blade]!
+
+"Stop that," he said.
+
+That was probably one of the most annoying things about all this. Not the Gift, of course. That was always going to reset. But this foot-tapping had apparently been something of a habit, and it was one he'd never noticed. If he had...
+
+Well, he probably wouldn't have changed anything. It was hard enough to get one individual obsessive enough to become this karmically tied with him, and the downsides of Lifsauhn and his body weren't nearly enough to justify the risk of reappearing somewhere else in the Great Realms.
+
+Besides, every new body he happened into always had some absurd habit or the other. He was more or less used to it.
+
+Lifsauhn sat down on the bed and grunted, trying to get used to the new, prickly nature of his thoughts. There was a bit of conflict there, like there always was in the beginning. He knew, for instance, that he was the Red Commander, but the brain in the body he was occupying insisted that he was Lifsauhn.
+
+Identities tended to be particularly sticky for the first few weeks especially, which was why he preferred inhabiting vessels that had already abandoned their names for titles. His previous vessel had abandoned his chosen name to be called Lord of something or the other, which was apparently some great, prestigious position amongst the elves.
+
+That, at least, was easy enough to supplant with his own chosen title. It had taken a few days instead of weeks. Come to think of it, perhaps he should have given Lifsauhn a title of his own, but... eh. Calling himself the "Red Assistant" for a few days was arguably worse than having to go by Lifsauhn for a week or two.
+
+At least he would have a breather for now. Yggdrasil's End had no idea that the Lower Branch cults had been able to duplicate some lesser function of his reincarnation, and even before fighting the Greater Indictment he'd been absolutely sure to hide Lifsauhn inside one of the prepared bunkers deep in the mountains of Aersheld. The place was full of powerful wards against detection and scrying, which meant he was free to lay low and plan his next steps.
+
+Lifsauhn leaned back in his bed and stared up at the sun contemplatively. What would his next steps look like? Anything too obvious would only draw the attention of Yggdrasil's End again.
+
+Then he paused and frowned. Something felt off. The sun was shining on his face, the birds were singing...
+
+...why was the sun shining down on his face? He was inside a mountain.
+
+Where was the fucking mountain?
+
+"I feel like I'm going to have to apologize for that one, but I really didn't want to waste any time," Yggdrasil's End said, frowning thoughtfully. "Oh well. I can probably get some mountain-recreating spell if I ask nicely."
+
+Lifsauhn froze. "No," he said, his voice strangled. It was a lot more emotional than he was used to, which seemed like something of a trend around Yggdrasil's End. Part of it was because he hadn't reshaped Lifsauhn's brain yet. "Nonono. How—"
+
+"You're a lot less intimidating without those relics, I have to say," Yggdrasil's End said, glancing around. "Also, I'm keeping those. Got a friend that might be able to free those Abyssals you stuck inside them."
+
+They were, indeed, tucked carefully under his arm. Lifsauhn stared at him before bolting from the bed and running straight into a barrier that hadn't been there before; he groaned, pulled himself to his feet, and glared at Yggdrasil's End.
+
+"How did you know?!" he demanded, his heart pounding. Time. He needed to buy time to find a way to retreat. The mana core in this body was too fresh, which meant he couldn't cast any of his better spells, and without the relic supplying him with Blood Orbs—
+
+"I guessed," Yggdrasil's End admitted with a shrug. "Not sure I was expecting this, exactly. You've got some kind of evil version of my reincarnation, huh? How does it work, exactly? Transmigration, guided by karmic ties... Damn. Should've seen it sooner. I blame myself for getting all edgy for a bit."
+
+Lifsauhn scrambled for the right words, then settled for desperate arrogance, which he probably wouldn't have if his body hadn't been so fresh. "It doesn't matter if you know," he said. "You can't kill me in any way that matters. I'll come back, and I'll keep coming back. In fact—" he searched desperately for a threat that would work. "—in fact, karma has nothing to do with it. It's just convenient. But if you kill me, I'll take over the soul of someone you love, and that will destroy their soul."
+
+Yggdrasil's End stared blankly at him, and for a moment, Lifsauhn thought perhaps the ploy had worked.
+
+"So what you're saying is that I should lock you in a preservation ward and drop you deep in the ocean to suffer for all eternity," Yggdrasil's End said thoughtfully, and Lifsauhn froze. He hadn't considered that possibility. "Not sure I'm that cruel, to be honest. Don't get me wrong, you probably deserve eternal torment, especially for making a threat like that. But, well..."
+
+He smiled ruefully. "Old friend told me I shouldn't be damning myself just to make sure people get their dues, and I'm really not the right person for that kind of thing. Not because it's hard, but because it's just too easy, you know? Too easy to tell myself it's necessary. I've been down that path before, and you've seen where it leads."
+
+Lifsauhn stared at Yggdrasil's End. He had no idea what he meant, but he had the distinct feeling that he needed to get out of here now.
+
+No choice, then. He'd be giving up everything he'd achieved in Utelia, but at least he'd get word back to the Lower Branches. Lifsauhn braced himself and forcibly inverted the flow of his mana. He'd shatter his core and let the karmic stream take him wherever his soul ended up.
+
+But his mana froze in place, unmoving.
+
+"Interesting," Yggdrasil's End said. "But no. Normally this is where I'd try to interrogate you, but I don't have anything to check if you're telling the truth and I'd rather not prolong this. I kind of hate how this spell feels."
+
+And just like that, the man that stood in front of him held what looked and felt like the End of All Things. A scythe of impossible, soul-ending power gleaming with layers of prismatic mana, folded in so many times it looked almost like a hole into another universe. It was impossible to look away from it, no matter how desperately he wanted to.
+
+"For what it's worth," Yggdrasil's End said. "I'm sorry it had to end this way."
+
+Strangely, he did sound regretful. It did not, however, stop him in the slightest.
+
+For a blink between the severing of his soul and his true death, the Red Commander saw what seemed to be a black, endless maw, consuming countless other souls just like him.
+
+Then it closed around him, and he was no more.
+
+Adyr had no idea what to expect when that strange, incredibly powerful mage promised to help them, but whatever it was, it wasn't to see that same mage running around angrily after a bleating goat.
+
+Weren't there spells a mage like that could use? Why wasn't he using them? He was just chasing it around in circles! There was that form he'd used earlier that allowed him to move at ludicrous speeds—why wasn't he doing any of that? He was just running! And at human speeds, at that—
+
+The mage tripped and faceplanted into the ground, and one of the goats bleated at him before hopping over his flailing body. Hesa was watching and let out a startled giggle, and that was all Adyr needed to understand what was happening.
+
+Cale Cadwell Cobbs recognized they needed normalcy, and he was doing his best to provide it.
+
+What an odd mage. Adyr had no idea how to feel about him. The look in his eyes when he faced that horrible monster was like nothing Adyr had ever seen. It was cold, angry, and desperate for justice in a way that felt old and ancient. But now...
+
+Well, Adyr didn't know if he could say the look was gone. But it looked a bit like he'd managed to center himself on some new sort of peace, and it looked like he'd needed it for a very long time.
+
+Maybe this mage was okay after all.
+
+...Honestly, Adyr really hoped he was right, because he'd agreed to introduce the mage to his master, and while there was no doubt someone this powerful would have something to teach, he was really starting to worry about them meeting.
+
+Especially since his master was a little eccentric and had a weird obsession with baking.

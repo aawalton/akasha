@@ -1,0 +1,127 @@
+---
+id: d0a01f73-e00a-550e-8d4a-beabc8457cca
+page-type-slug: story-chapter-royal-road
+title: "Epilogue: Wrath of the Mad God"
+slug: 0279-epilogue-wrath-of-the-mad-god
+partOf: labyrinth-of-the-mad-god
+position: 279
+ownLength: 1849
+unit: words
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2972286/epilogue-wrath-of-the-mad-god"
+royalRoadId: "2972286"
+---
+
+Preservation braced himself and stepped through the portal.
+
+Unlike the conduits weaving the nodes and sectors into a tangled tapestry, this was a true wormhole—one of only six gateways that touched the center of Taltos’s maze.
+
+The demigod left his orderly realm hidden in the Labyrinth’s shadow, wondering if this was the day it all fell apart. If the Mad God had finally realized Preservation was plotting against him from the start.
+
+Taltos couldn’t kill him—not without finding a replacement who could serve as the counterweight to all the chaos—but that was immaterial. The cruel deity could deliver a fate far worse than death and more importantly, ruin centuries of planning that were finally coming to fruition.
+
+As he crossed the byzantine warren of worlds and places far stranger, the demigod cast his gaze across the sectors controlled by Taltos’s pantheon. The inner recesses of the Labyrinth were ruled by four lesser deities—home to millions of planets and more lives than grains of sand on the shore.
+
+Poor bastards. He shuddered as he contemplated the unique form of torment the denizens of each domain were subjected to on a daily basis, although it was nothing compared to the lamentable fate that awaited anyone unfortunate enough to dwell deeper still.
+
+Preservation crossed the space between worlds until the portal carried him over Taltos’s seat. It wasn’t nearly as large as the bordering regions—let along the vast tract of half-integrated space that formed the Labyrinth’s fringe—but what the central sectors lacked in size, they made up for in power.
+
+His journey took him past some of the most dangerous planets in the multiverse, home to warring entities only a grade lower than himself. He traversed the insane deity’s domain until his personal wormhole reached the center and banked sharply, spiraling down and down and down toward the beating heart of the celestial maze.
+
+The decent took far longer than it should have—like he was approaching the event horizon of a black hole. However, this phenomenon was far more frightening than an all-consuming gravitational anomaly. A cosmic horror whose insatiable hunger chilled him to the marrow of his bones.
+
+As deeply as the five gods Preservation was meeting disturbed him, the Labyrinth was worse. It was something eldritch and predatory. Ancient and terrible. He only understood a slim fraction of its true nature, but that was enough to haunt his dreams and twist his bowels with a leaden dread.
+
+It had been more than four hundred years since the Mad God had issued a call for his council to meet in person.
+
+Although Preservation was an administrator rather than a member of Taltos’s pantheon, the demigod had been summoned too. While he was worried on any number of levels, he was eager to find out what would happen next. If the entities who could destroy him without breaking a sweat would take the bait he had dangled in front of their noses.
+
+At last, his portal arrived at its terminus—a blood-red cavern only one node away from the maze’s center and the closest anyone besides Taltos had come to gazing upon the Labyrinth’s true face.
+
+He could feel its malevolence suffusing every inch of stone. Every molecule of the air he breathed.
+
+Using every scrap of willpower he’d honed while walking the endless paths to power, Preservation shut out the energy threatening to corrupt his core and approached the middle of the enclosure. The crimson cavern featured nothing but a table with five chairs, where the Mad God and his pantheon were already in session.
+
+They haven’t figured it out, or Spectacle would be staring at me. They can’t hide their bloodlust when they’re expecting a good show.
+
+He wasn’t the only one taking a risk today. Rizzen had transformed himself into a flea and was hiding in the demigod’s collar. Any of these deities would annihilate Preservation’s ally if they saw him and could pierce his disguise with a thought.
+
+They didn’t even glance his way.
+
+While these gods contrasted in ideology and temperament, they all shared one trait in common. None of them could conceive of appearing as anything less than they truly were.
+
+Taltos didn’t acknowledge Preservation’s presence as he came to a stop a respectful distance away, waiting to be called on while their war counsel continued. He already knew the purpose of this meeting, since he had helped orchestrate the events that necessitated it. Judging by the outbursts erupting around the table, the four lesser gods had just discovered it for themselves.
+
+He waited in silence. Always watching. Always seeing far more than he revealed.
+
+“The System may have granted them a year of protection.” Taltos pounded the table, shattering the stone before restoring it with a gesture.
+
+“But we’re not obligated to play by its rules. This is my realm, and here, my will is absolute. We won’t give the worlds the System seeded with champions and tricked me into granting Diamond rewards time to become true beachheads. We’ll crush the soulless machine’s little rebellion and expand our territory in one fell swoop. It’s time to remind the petty gods who dare to oppose us why the multiverse trembles at my name.”
+
+Taltos’s mood was as fickle as his cruelty. He went on in this vein for some time, scorning his enemies and venerating his superiority.
+
+It gave Preservation a chance to consider the other deities seated around the table—each worse than the other. They went by many names, but were most widely known as Slaughter, Spectacle, Splendor, and Suffering.
+
+At first glance, Slaughter—commonly called the Red Lady—appeared to be nothing more than a beautiful young woman in a striking red dress.
+
+But when you looked closer, you saw the sumptuous fabric was made of liquid, churning like waves upon a storm-wracked sea. The hue was the purest scarlet, like the goddess was garbed in an ocean of blood.
+
+Preservation knew for a fact that description was literal rather than metaphorical.
+
+Slaughter never adorned herself in any way. Her mantle, which often took the form of crimson wings, was formed from enough concentrated blood essence to drown worlds and dye entire sectors red.
+
+Beside her sat Spectacle, god of arenas, bloodsport, and excess.
+
+Spectacle was androgenous—garbed head to toe in eye-catching flamboyance. Sparkles. Spangles. Anything that glittered could be found on their body.
+
+Their every mannerism and gesture—every word and the inflection of each syllable—was calculated to grab your attention and provoke a response.
+
+Spectacle could play your heartstrings like they were stumming a guitar. Their machinations were instrumental in keeping the patrons of the Labyrinth entertained and riches flowing into Taltos’s coffers.
+
+Next came Splendor, the youngest and weakest member of the pantheon.
+
+Her garb was far more subtle than Spectacle’s, but anyone who knew its true value would be willing to do anything to obtain a single piece.
+
+The elegant goddess’s ring was formed from SS-Grade diamond and could buy solar systems. Her hat was a Legendary item, her earrings and shoes were Mythic, and her white robe was a genuine piece of Supreme-rarity armor.
+
+She would give any of them to you… if you survived a trial equal to their worth—an event that had happened twice in two thousand years by Preservation’s count. Splendor loved nothing more than luring people to their doom with a tempting prize, which had earned her the nickname Greed.
+
+While Slaughter was terrifying and the other gods were distressing in their own way, none of them scared Preservation in the primal manner that Suffering did.
+
+Only Taltos could surpass her cruelty. Though the other members of his pantheon reveled in death and destruction, obliteration by their hand was a blessing compared to what Suffering did to her victims.
+
+The blind crone was a master of pain—fluent in more forms of torture than stars in the sky. She could destroy your body, mind, heart, and soul in a single afternoon, then bring you back to do it all over again.
+
+By now, the Mad God had regained his composure, reiterating why he had issued his summons.
+
+“I order you to send your forces into the fringe, led by the strongest entities the sectors can withstand without falling apart. Unleash your hordes. Capture the nodes one by one and drive every monster in your path toward furthest recesses of the rim.
+
+“We don’t know which planets the System seeded, and which are the countless decoys it deployed, so we will subjugate them all. Goaded by your A-grade elites, the monsters will form a stampede of epic proportion.
+
+“After we corner them, the creatures will have no choice other than to force themselves through the System’s shrouds, draining their power while wreaking carnage upon the surface of those worlds. When the barriers fall, send in your armies. Conquer every planet and either convert or eradicate the beasts and contestant species you find until the entire fringe is under our control.”
+
+“The losses we will suffer will be horrendous,” Splendor spoke when Taltos reached the end of his proclamation. “Those conduits are wild, and the Labyrinth will claim its due.”
+
+“Yes, but the show will be… spectacular.” Spectacle shuddered in anticipation of the carnage to come.
+
+“Their deaths are immaterial,” the Red Lady intoned. “I can always find more souls that resonate with the purity of Slaughter.”
+
+Suffering didn’t say a word. She just grinned while unleashing the vilest killing intent Preservation had ever sensed, bowing him back like a flame in a gale.
+
+While his pantheon loved to bicker, the outcome had already been decided. The Mad God’s will was inviolate, and each of these deities were happy to go to war to further their own fell purposes.
+
+At last, Taltos turned to address the demigod. “How long will the preparations take?”
+
+“Each of your generals has their own situation,” Preservation replied. “On average, they can have their forces assembled in a month. Then another month to drive the monsters to the boundary of the fringe, plus however long it takes to bring down the System’s barriers.
+
+“That will depend on a number of factors, but I’d estimate another two months. If that timetable bears out, every planet in the fringe will be under siege in half the time the System allotted—well before they grow strong enough to repel an invasion.”
+
+“Then make it so,” Taltos ordered as he rose from the table, dismissing the others with a gesture.
+
+Everyone opened a portal and stepped through, leaving the heart of the Labyrinth behind. When Preservation made it back to his realm, Rizzen resumed his true form—a solemn expression firming his mercurial features.
+
+The demigod turned to the scientist and said, “Return to the fringe and warn the System. If we play our cards right, this conflict will be the perfect soil for our seeds to sprout.”
+
+Rizzen bowed and conjured a wormhole of his own. Before he crossed the threshold, the researcher replied, “If they can overcome this challenge, matters will escalate at an exponential rate. They might even grow strong enough to survive what comes next.”
+
+End of Volume Four

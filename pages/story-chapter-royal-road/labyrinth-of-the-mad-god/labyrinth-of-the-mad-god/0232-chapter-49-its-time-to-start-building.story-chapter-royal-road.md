@@ -1,0 +1,163 @@
+---
+id: d1a123f2-f824-51d5-aefa-a915a8385c07
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49: It’s Time to Start Building"
+slug: 0232-chapter-49-its-time-to-start-building
+partOf: labyrinth-of-the-mad-god
+position: 232
+ownLength: 2568
+unit: words
+publishedAt: 2025-10-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2656255/chapter-49-its-time-to-start-building"
+royalRoadId: "2656255"
+---
+
+When Nick opened his eyes, morning sunlight was shining down from a cloudless azure sky.
+
+As he rose to his feet and stretched out his neck, he saw that he wasn’t the only one who had passed out mid-celebration. The benches were lined with sleeping figures, and more were sprawled out under the tables and around the smoldering remnants of the bonfire. Only half of Team Earth had made it back to their tents, and even fewer were up and about.
+
+Nick helped himself to some of the food that had been consolidated onto one of the tables, after learning that someone had cast a spell to keep everything fresh and drive insects and scavengers away. He finished his plate while casting his gaze across the nearly 400 people who had worked together to take down the Armada Wurm—his fellow residents of the newly-founded city of Aurora.
+
+He realized his adventure had reached a turning point. For the first time since the System had arrived and thrown his life into chaos, he was surrounded by other people, some of Earth’s best and brightest no less. New faces would appear during the days ahead, but this core group of elites was the foundation of the civilization they were building together. Trusted friends and allies who would play a pivotal role in the history of his species.
+
+Combining their various skills, powers, and ideas for the future would let Aurora accomplish feats far greater than anything Nick could have achieved alone. Armed with magic, Psi, and the knowledge they’d brought from the old world, their lives would continue to change at a remarkable rate.
+
+It was time to roll up their sleeves and build something new. Unlock secrets and master fey forces that would expand their understanding of the multiverse and redefine what it meant to be human.
+
+The world from before the System was gone and humanity was writing the first chapter of what came next. Despite all the anguish and loss of the last few months, being here filled him with the most profound sense of awe and curiosity for what the future would hold.
+
+This was the dawn of a new era. A paradigm shift as significant as his earliest ancestors coming down from the trees or grasping at that first burning stick.
+
+Language. The wheel. The printing press. The industrial revolution and the birth of the digital age. Being thrust into the beating heart of the magical multiverse was just as big as any of those, and Nick was witnessing it play out from the start.
+
+He hoped the way of life his people built would be better than the one that had been reduced to memories and dreams. Going forward, humanity couldn’t afford to squander the planet’s resources, wage war upon each other, or mistreat their four-legged neighbors. They no longer had the luxury of indulging in short-sightedness and petty grievances or preying upon each other.
+
+With the Mad God and the horrors of his Labyrinth looming large on the horizon, his people would either leave those failings behind, or they would die. It was as simple as that.
+
+While the future was uncertain and there would surely be dark days ahead, Nick realized that he was overflowing with hope. That after working together to save their planet, he believed in his people in a way that he never had before. Their ordeal had tempered them, and they had come out the other side stronger and more resilient than ever.
+
+Tears ran down his cheeks as he ran his eyes over what would one day be a thriving metropolis. We can do this. Together, we will survive, and our story will continue. He stood that way for a long while—filled with pride and determination. Then he rolled up his sleeves and got to work.
+
+First things first. It’s time to check out my updates. When Nick opened his menus, there was a new City Quest section in his interface. Curious, he selected it and began to read.
+
+City Quests
+
+During the Rebuilding Civilization period, your settlement is eligible to receive city quests, which will help it grow at an accelerated rate.
+
+For defeating a Capital Boss, Aurora will begin at tier 3 and receive all the benefits thereof (expanded domain, expanded building options).
+
+More quests will become available with each new tier.
+
+Current Quests
+
+Rewards: Domain expansion (10-mile radius). Role delegation (building placement, CP/CT management).
+
+Rewards: Faction creation.
+
+When both quests have been completed, your city will advance to tier 4 of 7.
+
+When Nick found a primer that explained some of the details, he learned more about the city tier system.
+
+Apparently, founding a capital had let Aurora start with a bigger domain and access additional options in the building menu, including that Weather Shield he’d purchased the day before. Smaller settlements in the badlands will need to come up with another solution to the bladewind until they can advance their tier. I don’t envy their leaders the task.
+
+He didn’t see any additional information about factions, but he assumed it would become available after Aurora completed the second quest and was eligible to join one. Both quests seemed like they would be relatively easy to complete during the coming weeks. By his rough estimate, there were still several hundred million humans on Earth. Even with the planet’s expanded size, Nick was sure that more people would arrive when they learned Aurora had been founded.
+
+I’ll talk to Kenji about keeping an eye out for potential recruits while we’re scouting the badlands and nearby biomes. We need to know what’s out there anyway. On that note, it shouldn’t be too hard to find other settlements. I can already see the domain of one whenever I pull up the place-building overlay.
+
+That train of thought led him to something he hadn’t considered yet. Shit. We’re going to have to come up with some kind of screening or application system. That sounds like a perfect job for Liz. With any luck, I won’t have to deal with it.
+
+We’ll need to start thinking about commerce and trade once we get our industries off the ground and set up a Contribution Token exchange to incentivize certain activities. That means we’ll eventually need someone to oversee the economic side of things too. I’m sure Kenji will want to be in charge of the settlement’s defense and military matters.
+
+That was when Nick remembered that in all the excitement of founding a city and celebrating the accomplishment, he’d forgotten to check his personal updates after the battle. He took a quick break from pondering city planning and pulled up his profile.
+
+Congratulations. You have accumulated enough experience to reach level [31].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+Congratulations. You have accumulated enough experience to reach level [32].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+Congratulations. You have accumulated enough experience to reach level [33].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+You have 6 free attribute points awaiting allocation at your discretion.
+
+By pushing yourself to the limit in the midst of a deadly battle, you have conditioned your body and improved the following baseline attribute:
+
+Dexterity has increased from [16] to [18].
+
+Strength has increased from [16] to [18].
+
+Toughness has increased from [17] to [20].
+
+Through use, you have improved the following skills:
+
+Acrobatics has increased from [8] to [10].
+
+Evasion has increased from [23] to [24].
+
+Light Armor has increased from [4] to [6].
+
+Light Shield has increased from [17] to [18].
+
+Size up has increased from [17] to [20].
+
+Stealth has increased [3] to [4].
+
+Wand has increased from [22] to [23].
+
+Note: You may not increase your Sword skill beyond 25 until you complete the trial of mastery.
+
+For being part of the first team to defeat a Capital Boss, you have been granted a milestone bonus of +2 to each of your primary attributes.
+
+Fantastic. That almost makes running into the mouth of a colossal creature worth it. But let’s try not to do it again.
+
+Nick wanted to receive some expert instruction with his sword before taking the test and decided to talk to Kenji about it soon. Maybe Ella would be willing to give me some pointers. Kenji mentioned she’s a martial-arts master with a lifetime of teaching experience. Ken is better than me and could help too, if I’m willing to swallow my pride and ask him.
+
+Now that he was caught up on his updates, Nick was ready to talk to Liz and Kenji about placing Aurora’s first buildings. But before he did anything else, he wanted to spend some of his free points. After mulling the matter over, he decided to put a few more into Psi to strengthen his psychic defenses and enhance Size Up’s potency. Two points should be enough for now.
+
+He sent his intentions into the System and spent both points at once, focusing on the sensations the experience provided as he started walking. It wasn’t enough to cast his mind outside his body, but for the next few minutes, his ability to sense the presence of other creatures was heightened. He caught flashes of their emotions and intentions too… which reminded him that his social skills and emotional intelligence were going to be a lot more important going forward.
+
+Since he would be interacting with people on a regular basis for the foreseeable future, and his experience with Liz’s insane Charisma had been eye-opening to say the least, Nick decided to try investing in the attribute for the first time. I’ll put two points into it now. That way, the sensations should be strong enough to get a good sense of their effects.
+
+That left him with two free points to spend later. I’ll either put them into Magic when I’m working on mana manipulation, or Creativity and Mind when I’m trying to conceptualize a solution to a complex problem.
+
+He doubted he would have the luxury of saving his points once the year of protection came to an end, but for now, he intended to use the side effects of spending them to further his advancement beyond the raw benefits boosting each attribute provided.
+
+His decision made, he pulled up his profile and picked up two points of Charisma, paying close attention to what happened next.
+
+At first, he didn’t notice anything out of the ordinary. But then Nick realized the lakeshore would be a fantastic place to set up Aurora’s commercial district. Customers can shop while taking in this amazing view. We can use the benches to create some parks where people can stop to eat and chat while going about their day—maybe set up some boats to take out on the lake once we know it’s safe.
+
+The effect of boosting his Charisma was subtle, but Nick realized that he was looking at the world a bit more like Liz did all the time. Elevating the social implications of his decisions to be just as important as all the rest.
+
+He went on to consider the layout of the city. Not just pondering efficiency and defense but imagining how it would feel to live here. Ways to make his new home as welcoming and pleasant as possible—a place where people could set aside their worries, bask in the beauty of New Earth, and enjoy each other’s company.
+
+We’ll need to create an entertainment district filled with establishments where people can congregate and unwind. Maybe an outdoor stage for performances and to make public announcements.
+
+When the side effects of spending his attribute points wore off, Nick was still mulling the matter over, using Theater of the Mind’s Eye to visualize various layouts for the city and its districts. He took some notes in his journal as he walked while lost in the details.
+
+When he returned to the hollow mesa, he found Kenji and Elizabeth sitting at a table with Sarah—who had created an illusion depicting Aurora’s domain and the terrain it contained. They were pondering some of the same issues, using her illusion to visualize various configurations while discussing the pros and cons of each.
+
+Nick said hello and took a close look at the floating image. It seemed they were thinking along similar lines, which made him even more eager to discuss the ideas he’d been considering. He let them know about the city quests and what little he’d learned about city tiers, then explained that he couldn’t delegate anything until they reached the next milestone.
+
+“Right now, I need to select and place each building myself. I’m not an engineer or a city planner. Some of this stuff seems pretty straightforward, but I’m sure that some of our people are better suited to hammering out the details.”
+
+“Agreed,” Kenji nodded. “But you’re one of the smartest people I know and the leader of the settlement, so it’s important that you participate in the process too.”
+
+“On that note, we should find someone who is more qualified to be our leader. I was wondering if you would be interested...”
+
+“Not happening,” Elizabeth cut him off, and Kenji nodded emphatically.
+
+“The reason we chose you is because you’re a symbol. Not just a figurehead, but one of Earth’s champions—someone who went above and beyond to save our planet. After what you accomplished in the Arena of Papillion, the roof of Darkstone Tower, and yesterday’s battle, everyone will sleep better at night knowing you’re in charge. Your name will draw talent to our city, dissuade people from acting against us, and help in a hundred other ways besides. We can figure out something long-term once the year is over, but for now, it’s you.”
+
+“Besides,” Kenji added. “I want to focus on the military side of things. Training, questing logistics, obtaining quality gear, and improving our ability to operate in large-scale conflicts. We need to develop new tactics for defending Aurora and times when working in independent parties will be a liability rather than an asset.”
+
+Nick sighed, then surrendered to the inevitable as he took a seat between them. “I think we should form a city-planning committee sometime over the next few days—once you have time to interview candidates.” He gestured to Elizabeth, who smiled and nodded her agreement.
+
+“In the meantime, I suggest that we lay down a road and several supply depots. We need a place to store various resources while we gear up to start building the old-fashioned way. Other than that, I think we should redeem a voucher or two on a barracks. We need a place where the wounded can rest, and some of our people will sleep better with a roof over their heads after months of rough living. We can save the rest until the committee has a chance to look over our options and make some suggestions.”
+
+Kenji and Elizabeth agreed with his assessment and had ideas of their own to share. She looked immensely pleased with herself—glad that Nick wasn’t resisting his position as city leader. They worked with Sarah on the layout and then rose from the bench and started walking.
+
+It was time to place Aurora’s first buildings, and while he had some reservations about his new role, Nick had to admit that he was excited by the prospect.

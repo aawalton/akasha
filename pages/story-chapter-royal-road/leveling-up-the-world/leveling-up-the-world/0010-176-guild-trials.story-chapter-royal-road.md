@@ -1,0 +1,187 @@
+---
+id: 24b4793e-489d-52d5-9e70-e2593ab504d9
+page-type-slug: story-chapter-royal-road
+title: "176. Guild Trials"
+slug: 0010-176-guild-trials
+partOf: leveling-up-the-world
+position: 10
+ownLength: 2236
+unit: words
+ownProgress: 2236
+publishedAt: 2021-06-26
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/705989/176-guild-trials"
+royalRoadId: "705989"
+markedReadAt: "2026-06-29T22:40:28.544Z"
+---
+
+“This place is really gigantic,” Veil said as they walked through the streets to the point that Dallion felt like a tourist just by being with him. “You must have gone crazy with such crowds all the time.”
+
+“You get used to it,” Dallion said. Due to pressure from Hannah, he had agreed to give them a tour of the city. On his part, Dallion was hoping to get their help on his current guild task. “I still can’t believe you decided to come all the way here. What changed your mind?”
+
+“The countess invited us five days ago,” Veil replied, still looking through the produce of a nearby stall. That seemed to be another point of fascination, very much to the vendor’s joy. So far, they had gone through two dozen silvers for a variety of goods, the greater part of them useless in Dallion’s opinion. “So, we got going. Dherma was getting a bit boring anyway, and it’s not like we could have reached double digits there.”
+
+The timing was terribly convenient. Five days ago was precisely the time Dallion’s encounter with the Star had occurred. Not only that, but Dallion had received an area related task the very same day they had entered the city. Maybe it was nothing but a series of coincidences, but after everything that had happened, Dallion could no longer be sure.
+
+“And you’re sure you’ll be alright at the inn? It’ll get quite busy soon.”
+
+“It’s perfectly acceptable,” Gloria replied. “And given I get to hear you sing, I think it’s a good deal.”
+
+“Right…”
+
+That was another promise Dallion had made. With three of them working at the Timepiece simultaneously, there was no way Hannah could pocket the expenses. It was therefore agreed that they would have to bring in enough customers by providing additional services, and since Dallion had the misfortune to mention he was learning barding to practice his music skills, he had been volunteered as the main attraction. He had offered to pay for his stay—now that he was officially a junior Icepicker—but Hannah didn’t want to hear. In her words, it was high time he took responsibility and illustrated his abilities… but bringing in more customers. The comment was so transparently self-serving that Dallion had accepted on that alone.
+
+“Anyway, the guild is a bit of a strange place, so don’t freak out. It’s very different from things at the village.”
+
+“It’ll be fine,” Veil said, munching on something Dallion never had the courage to buy. “Especially with this baby.” He tapped on his newly rented sword.
+
+“About that. Be careful when you walk about with that after dark. There’s some thievery going on.” Plus a mugging or two.
+
+“Let them try.” The blond grinned. “I’ve been itching for a proper workout for ages. Boars, cracks, and guardians don’t cut it.”
+
+It didn’t take long for the group to reach the guildhall. Being mid-afternoon, most of the regular guild members had gone home, leaving only a few to hang out. That didn’t keep all the ones there from staring at the siblings as they walked past. Apparently being a “pure blond” was considered a big deal in the city.
+
+“The person who’ll be taking care of you is Estezol,” Dallion explained. “He’s a great guy and really good at this, just don’t…” he paused. Making a note on the man’s height was a certain way to attract more attention to the matter. “Just be polite when you talk to him.”
+
+The comment earned Dallion a displeased glance from Gloria.
+
+“Estezol.” Dallion waved quickly as they went into the main area to diffuse the situation.
+
+“Afternoon, Dal.” The short man replied, scribbling something on a scroll. The moment he glanced up, his attitude quickly changed. “And who have you brought here?” he asked, a giant smile forming on his face.
+
+“These are my friends from back home. Veil and Gloria Luor.”
+
+“Absolutely charmed. I always knew that Dal had good taste in friends, and I can see why.”
+
+“They are here to join the guild…”
+
+Why’s everyone acting star struck? Dallion asked. It can’t be that rare, can it?
+
+Exotic is the word, Nil replied. Every city has its peculiarities. Outside of the Imperial Capital it’s rare to get that particular shade.
+
+There’s nothing rare about it from where I come from. Even Eury didn’t gather so much attention.
+
+The entire city knows of the gorgon by now. Your friends aren’t and they’ve arrived before the festival crowds. It will be like that for a few days. Don’t worry too much.
+
+Right…
+
+Never before did Dallion believe there would be something on which Nil and the armadil shield would agree on, but apparently the exotic nature of blondness was it.
+
+“That’s okay, right?” Dallion said, slightly louder. He had half the mind to snap his fingers in front of Estezol’s face, but that would have been a bit rude. After all, Dallion had had a similar reaction the first time he saw a fury.
+
+“Oh, naturally. I’d like nothing more that to have some friends of Dal’s join.” The bearded man cleared his throat. “Dal had probably explained that there is a twenty silver application fee?”
+
+“I have.” Dallion placed four gold coins in front of Estezol. “And I’m covering it.”
+
+“I never doubted it for a moment.” The coins were quickly retired, after which Estezol took out the few sheets of paper and started writing. “I see you’re already familiar with the basics.” He pointed at the official emblems they were wearing. “That’s a wonderful start. We don’t get many celebrities here.” He started scribbling something down. “Your name and level, if you please?”
+
+“Gloria and Veil Luor,” Gloria said with a touch of snobbish dignity Dallion remembered from the time in Dherma. One had to admit that the approach was efficient, giving weight to the “celebrity” notion. “We’re both level ten.”
+
+“Level ten?” Estezol nodded, impressed. “What’s your focus, if I might ask?”
+
+“Pure attack,” Veil said.
+
+“Perception and reaction,” Gloria added.
+
+“Ah, specialized.” Estezol wrote down. “Perfect if you have a profession in mind. I assume you’re not late bloomers like Dal?”
+
+“No,” Veil laughed.
+
+“We’ve awakened for quite a while,” his sister said. “Although until recently we were kept at low levels.”
+
+“I understand perfectly. A common occurrence with people of small villages, no offense. Still, to have reached double digits, is a remarkable feat.”
+
+“We haven’t had our second awakening trial yet, although I’m hoping we’ll get a chance to do so soon.”
+
+“We’ll do everything in our power to help you go through that.”
+
+Seriously? Dallion narrowed his eyes. Where was all the support when he was trying to get to double digits? Although, admittedly, Arthurows had done everything in his power to hinder Dallion’s development. At least that was one thing that his friends wouldn’t have to go through.
+
+“And your skills are?”
+
+“Attack, Acrobatics, and Athletics,” Veil said with pride. “And seven weapons.”
+
+“All the combat skills.” Gloria didn’t miss a chance to one up him.
+
+“My, my. Rather impressive. One final question, more out of personal curiosity. What did you do to earn your emblems? As I said it’s generally rare to have applicants with those.”
+
+“We leveled up our village to a level three,” Veil said casually.
+
+At that moment, it was as if time had stopped. Everyone within earshot paused whatever they were doing and turned in the direction of the Luors. The semi-discrete glances had now become outright stares.
+
+Right. Some consider settlement leveling a rather big thing, Nil said dismissively. I find the notion silly, but there you go.
+
+Maybe that was the reason Hannah was so friendly towards them? Thinking about it, it was a rather big deal. Leveling up an inhabited area was what transformed a none-name village into a town or possibly a central city such as Nerosal. And while a level three wasn’t barely significant enough to be put on the map, it still got Dherma on the map.
+
+“Isn’t that marvelous?” Estezol quickly snapped out of it with the professionalism only a PR person could. “I’d have hoped that Dallion would mention such things.”
+
+“It’s no big deal.” Veil shrugged. “Dallion’s grandfather did that as well back in—.”
+
+“Can they take the entry test now?” Dallion interrupted. Talking about his grandfather was the last thing he wanted to do. Before setting off to the guild, he had gotten both Gloria and Veil to promise not to use his real name or mention his family to anyone. Clearly, it was too much to hope that Veil wouldn’t mess up in the first five minutes after talking with someone. “They’re in a bit of a hurry, so I’d like to move this alone.” And just for good measure, Dallion added a bit of urgency through his music skills.
+
+“Oh, of course. Let me just fill out a few things and we’ll be on our way.”
+
+I’ll kill him, Dallion thought as he glared at Veil. I don’t care about the consequences! He had one job and he managed to mess that up!
+
+The seconds dragged on. Oblivious, Veil kept looking around, asking about guild trivia of which Dallion knew nothing. Meanwhile, Gloria—who knew she had become the center of attention—got into her ice queen persona, making it a point to remain silent and ignore everyone but her Dallion and her brother.
+
+“Back so soon?” A familiar voice broke the awkwardness in the air.
+
+Looking in the direction of its source, Dallion saw Vend at the entrance. Thankfully, he didn’t seem dazzled by the appearance of Veil and Gloria’s hair.
+
+“I thought that you might ask for a job change, but this must be a record.”
+
+“Vend,” Estezol quickly said with a smile reserved for a parent who had their teenage son storm in during a visit from important guests. “Dallion has invited some of his old friends to apply here.” A warning note echoed. “I’m sure you support the initiative given that he’s your apprentice.”
+
+Dallion knew from experience that getting Vend to acknowledge or support anything was a tall order. To this day, the man had only complimented Dallion once. What was more, it was well known throughout the guild that Vend didn’t have great respect for “scroll scribblers.”
+
+“Right.” Vend smirked.
+
+“In fact—” Estezol narrowed his eyes “—you’ve arrived at just the right time. I was just about to send Gloria and Veil here to have their entrance trial. I’m sure you wouldn’t mind assisting with that, considering your schedule is free.”
+
+This was the first time Dallion saw Estezol in such a light. The short man could be vicious when he wanted to, and considering he was pretty much part of the guild’s administration, he probably knew enough tricks to make even elites cry. Vend must have realized it as well, for he marched up to him and reached out for the papers.
+
+“Let me see,” he said with disdain.
+
+“Please.”
+
+“Double digits?” Vend asked in a matter-of-fact fashion.
+
+“Just level ten,” Gloria replied.
+
+“Not the worst time to join a guild. Adequate skills…”
+
+“They have leveled up a settlement,” Estezol chimed in.
+
+The comment garnered a nod in recognition. “Okay, let’s head downstairs.”
+
+Just to let you know, my original isn’t down there, Nil politely mentioned. And to be honest, I’d suggest delaying introducing them to him for as long as possible.
+
+Oh? Why’s that? Dallion asked.
+
+Let’s just say that even the best of us have their biases. People with pure blond hair happen to be his and unlike me, he doesn’t have the benefit of your thoughts on the matter.
+
+Adzorg was biased against pure blonds? That was interesting and surprising, to say the least. The only person Dallion had known the captain to actively rage against was March; well, her and a few book authors his echo seemed to despise.
+
+Got you. I’ll keep them away from him until they’re in.
+
+The evaluation room was exactly as it always was. At this time, a single person was there, keeping an eye on the training items.
+
+“Testing these two,” Vend said as he went to one of the shelves.
+
+The other guild member started what appeared to be a very lazy wave when he noticed the hair color of the applicants. At that point, he quickly straightened up in his seat.
+
+“Normally there are few basic tests before this,” Vend went on, taking a grey cube. “But since you’re at ten, you’ll go straight to the combat part. Remember, the goal is not to defeat me, it’s to show what you’re capable of.”
+
+The comment made Veil let out an overconfident snort, as if shouting “dude, please; I’ve been fighting guardians since I’ve been six.”
+
+“Understandable,” Gloria said, adding a bit of ice to her tone. Dallion wasn’t sure whether she was still putting on appearances or simply didn’t like his mentor. “Do we do this one at a time, or both at once?”
+
+“Both. Saves time.”
+
+“Can I watch in?” Dallion asked. He too was curious how much they had progressed since the time they’d been together. “I promise I won’t make any comments.”
+
+“As long as you stick to that.” Vend turned around and held the cube in front of him. ”You know the drill.”
+
+Dallion and the Luors put a hand on different sides of the object.
+
+ITEM AWAKENING

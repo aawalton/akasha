@@ -1,0 +1,121 @@
+---
+id: 57dba1b2-3b3a-5f9a-9096-79f99ca3d1fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 - First Encounter"
+slug: 0001-chapter-1-first-encounter
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 1
+ownLength: 1237
+unit: words
+publishedAt: 2024-11-16
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908006/chapter-1-first-encounter"
+royalRoadId: "1908006"
+---
+
+Our ancestors built a ladder so that we could reach the stars… The words echoed through Kindra’s mind, and she leaned back in her chair, looking out the window. A black void stretched before her. Distant stars twinkled, and an asteroid floated by, its ice shining from the light of a nearby star. Pretty out today.
+
+Kindra pushed off the chair, floating away from the terminal and up to the window. A smile crept on her face, and she watched starlight dance across the asteroid, lighting small pockets of black stone.
+
+Leaning her face against the plastic, she looked out at the other ships in the fleet. Looking more like round skyscrapers, they spun, each carrying the first colonists from Earth. The starlight lit strips of the metal, almost creating a disco-ball-like effect. “Aika, did you see this?” she whispered.
+
+“Yes,” her AI chirped through the headset. “Should you be up there?”
+
+“It’s—”
+
+“Kindra, get down from there,” the admiral barked.
+
+Kindra turned and looked around the bridge, the ship’s command center. A grizzled man in a large chair focused his brown eyes on her. He jerked his head, gesturing toward her chair.
+
+She grinned at him. “It’s pretty out today, admiral. It’s usually just black.”
+
+A few crewmen chuckled, glancing up from their computers and shaking their heads.
+
+“Kindra, back in your chair,” the admiral replied, pointing at it. His eyes focused on the metallic bands on her wrists. Surprise flickered across his face. “Why are those on your wrists?”
+
+“Be prepared.” Kindra pushed off the plastic, floating down and back into her seat. She looked at the surrounding crew, each preparing for their tasks. A distant alarm blared through the ship.
+
+Guess it’s time to focus. Kindra opened her terminal, and readouts popped up. The reactor systems and wormhole generator glowed green, and she toggled through each screen, double-checking the measurements and readouts.
+
+“Colonists, prepare for the jump,” the admiral’s voice barked throughout the ships. Another alarm blared, warning people to strap in and prepare.
+
+Kindra swiped through the last of the images, paused, and pulled up a saved picture: her father was fixing a leak in his wormhole generator prototype while she sat beside him, programming a toy robot with a custom AI that she’d dubbed Aika.
+
+Wish us luck, Dad. She smiled at the picture. Wish you could see what your tech is letting us do. She leaned back and enjoyed the view.
+
+An image popped up on the screen. “Kindra, verify this,” Aika said.
+
+Kindra leaned forward, her focus returning to the jump. She studied the power readouts and sighed. “I’m killing the entertainment power, Admiral. Warn them.”
+
+The Admiral grunted, and then his voice boomed through the intercoms. “Due to power constraints, the entertainment system will be brought down.”
+
+Kindra felt the unheard groans. They’ll hate us for this. She buckled herself in.
+
+Looking at her terminal, she flicked through readouts, double-checking everything once more. “Aika, final validation.”
+
+The systems shifted from gray to green. A circular graph flickered as the bar filled.
+
+“Scan complete. All systems normal,” Aika said loudly.
+
+The admiral turned. “Any concerns?”
+
+Kindra pulled up the target coordinates and studied the gravity signatures and radiation levels. Looks normal.
+
+“Good to go,” Aika chirped in her ears.
+
+“You’re clear, admiral,” Kindra said, turning her focus to the wormhole generator. The reactor surged. Power burned through the ship. Alarms began wailing, and the admiral spun in his chair.
+
+“Fleet. Final warning. Ensure all belongings are strapped down. Brace for potential gravitational waves. If you make a mess, you clean it up.” He hit a button that did nothing, but the screens turned green.
+
+Kindra spun away from the screen and looked out the bridge window. The stars distorted, and a tiny black ball wiped the light away. It spread, revealing the light of distant stars and some strange, glowing debris. It would have been a gorgeous sight, except there shouldn’t have been debris. A shiver rippled down her spine.
+
+Oh, shit. Kindra frowned. “Gravity signature on that dust, Aika.”
+
+“Working on it.”
+
+Kindra looked out the window. Space rippled like water as the wormhole widened.
+
+The admiral cleared his throat. “All ahead!”
+
+The engines came online, and the ship began accelerating.
+
+Turning back to her terminal, Kindra flicked a screen. Where’s that scan? Then she slammed into her seat. The ark shook like a boat in a storm. The lights flickered, and consoles rattled.
+
+Oh, god, no. Kindra looked at the dust and felt gravity washing over her like waves on the shore of a beach. She reached forward. We need to avoid that. It’ll wreck everything.
+
+“Aika! Avoid that dust!” The entire room rattled, bouncing up and down like a plane in turbulence. Her fingers hit the display, and the language shifted. Strange symbols appeared everywhere.
+
+Looking like some old norse script, the strange symbols were completely out of place. Kindra tried wiping them away. They didn’t go, and the entire ship lurched. Kindra’s stomach soared into her throat.
+
+The sound of vomiting filled the room, and things went from bad to worse; space churned like the raging sea, and the runes vanished.
+
+Kindra flicked to a new screen, and a message appeared on every terminal.
+
+Warning: Wormhole stability compromised. Collapse in 11 minutes and 32 seconds.
+
+“Aika, stabilize it!” Kindra shouted, and gravity knocked her into the seat. Her vision blurred. Metal screeched, plastic snapped, and the alarms blared.
+
+Warning: Wormhole stability compromised. Collapse in 6 minutes and 57 seconds.
+
+The wave passed, and Kindra reached for the terminal. Gravity ripped across the ship. Her brown hair flew everywhere, and the ship bounced like a rubber ball tossed down a flight of stairs.
+
+Warning: Wormhole stability decreasing. Collapse in 29 seconds.
+
+“Aika, Runaway contingency!” Kindra shouted and watched three-quarters of the fleet pass through the wormhole before it snapped like a worn rubber band.
+
+A massive wave of gravity hit, launching them forward. Sinking deep into her chair, Kindra fought to stay conscious. New alarms joined the chorus, and people everywhere went limp.
+
+Fighting back the immense pressure, she looked out the window. Spacetime rippled and tore, creating new wormholes. Waves of gravity pounded the ship, and her vision blurred.
+
+Blinking her vision back, she looked at her computer. The characters on it rippled and distorted, shifting back into the runic language. Her eyes went wide, and the next gravity wave slammed into the remnants of the fleet.
+
+The entire ship spun, whipping around like an out-of-control, crashing car. Metal screeched, and wormholes exploded into existence like bubbles on the sea. “Aika!” she shouted, and systems everywhere went red. The computers screamed and then went silent, runes appearing across all of them.
+
+“Who are you?” an ancient, masculine voice whispered in her brain, spreading goosebumps across her body.
+
+What the hell? She reached for the rune-covered computer screen. Fiery pain ripped into her, burning through her as if she were flying next to the sun.
+
+Screams echoed throughout the room. Some crew dropped, and Kindra slammed her fist against the console. Work, damn it!
+
+“Got you,” the ancient voice whispered, his voice eerily smug.
+
+A chill ran down Kindra’s spine. She jerked her head up and saw a glowing wormhole. Light poured off it, the pain surged, and the ship jerked. Like a yo-yo on a string, the ship flew through the wormhole, and everything went dark.

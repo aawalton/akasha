@@ -1,0 +1,63 @@
+---
+id: 8be7445f-5af7-5aad-81a7-17de2745429d
+page-type-slug: story-chapter-royal-road
+title: "Book 3 Blooper"
+slug: 0161-book-3-blooper
+partOf: just-add-mana
+position: 161
+ownLength: 711
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3644296/book-3-blooper"
+royalRoadId: "3644296"
+---
+
+THIS CHAPTER IS A BLOOPER (and the last one was a deleted scene from earlier in the book!) I wouldn't normally put this in the chapter body, but I've recently learned that some people block author notes from showing up, and I don't want anyone to be too confused by this.
+
+Book 4 begins on Thursday with Chapter 1, Overpowered Magic Duel.
+
+"When you said you would be back soon," Professor Delia said, looking disgruntled, "I did not think you meant within the hour."
+
+"I like being early for things," Cale said brightly. "I have some new magic! Want to see?"
+
+"No," Professor Delia said, but it was too late; Cale had already cast his new spell. He'd acquired it on the way while testing his failing control—many of his lowest-tier spells were now out of reach for him and would evolve into a new spell when he tried to cast them.
+
+This one just happened to be particularly relevant.
+
+[Starlight Font] was a spell he had first acquired in order to defeat the shadeling queen in the labyrinth Professor Imrys had made him explore with his apprentices. It was, technically, still within the realm of possibility for him. The first time he'd tried to cast the spell, however, he'd inadvertently injected too much mana into it. He still wasn't used to how much control he'd lost, and while the calibration had helped, there was nothing quite like actually casting the spells to figure out how much mana needed to flow into them.
+
+The amount for [Starlight Font] took a great deal of focus. A single lapse was enough to push the spell to its next evolution, which in this case had turned out like so:
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Starlight Font] has evolved into [Bottle the Sun]!
+
+[Bottle the Sun, Level 1] [Thirteenth Tier (Unique), Active] [1.0e31 Mana]
+
+Bottle the actual sun. Please consider the potential effects on the realm when casting this spell. Attempting to move the bottle may have far-reaching effects.
+
+...His concentration had lapsed rather a lot, in fact, not that he would admit to it. He just immediately dismissed the spell and whistled innocently, even as his companions stared suspiciously at him. The bottle was transparent. It was fine! It was barely noticeable unless you were staring directly at the sun, and the most that happened to the realm was slightly less sunlight reached them. It was like it was suddenly a slightly cloudy day, despite the sun shining down in full view.
+
+None of this, of course, excused Cale casting the spell again, but he needed to confirm that he knew what a thirteenth-tier spell felt like in terms of mana expenditure. Casting spells from the Gift consistently was important if he wanted to use its spells as a tool. If the spells he cast kept evolving whenever he tried to cast them, then he wasn't going to be able to use the Gift reliably.
+
+And Professor Delia would probably appreciate there being a little less sunlight, being a gargoyle and all.
+
+Or that was his thought process, anyway.
+
+"What just..." Professor Delia looked around, frowning. "I feel as though something is very, very wrong."
+
+"A rather strong sense of foreboding," Professor Graystalk agreed. "I do hope you're operating with an appropriate amount of restraint, Mr. Cobbs."
+
+"Um," Cale said.
+
+"Is it just me, or does it feel a lot cooler all of a sudden?" Damien asked. "Temperature wise, I mean."
+
+"Cale," Flia said. "Please tell me you didn't cast a spell that did something to the sun."
+
+"Okay, I won't," Cale said innocently. His apprentices stared at him—Flia and Leo with an exasperated expression, Syphus with a look of utter delight, and Damien in concern—while Graystalk stared up at the sun and then let out a groan.
+
+"Cale, are you insane?!" he asked, exasperated. "You cannot bottle the literal sun! That kind of spell would have far-reaching effects on the realm if you were to mess it up even slightly! The glass alone would absorb the heat—"
+
+"Well," Cale said. "The Gift shouldn't have given me a spell called [Bottle the Sun], then. Besides, it's probably fine! It says it won't have far-reaching effects unless I move the bottle."

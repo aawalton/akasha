@@ -1,0 +1,193 @@
+---
+id: a6632617-2a81-55c2-b90e-a8c64ccb4771
+page-type-slug: story-chapter-royal-road
+title: "175. Catching up"
+slug: 0009-175-catching-up
+partOf: leveling-up-the-world
+position: 9
+ownLength: 2535
+unit: words
+ownProgress: 2535
+publishedAt: 2021-06-25
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/705494/175-catching-up"
+royalRoadId: "705494"
+markedReadAt: "2026-06-29T22:40:26.306Z"
+---
+
+Food was always an event for the awakened. Economies were centered around it, guilds celebrated it, events were based around it. Everything an awakened did in the realms led to a vast need for food—something that non-awakened and merchants alike could focus on without fear of awakened competition.
+
+Dallion always looked forward to the occasion, even when he had to use his pay to get Aspan to make him an extra dish or two. Now that Hannah had offered to cover an entire feast for him and his friends from Dherma, he felt as if his appetite had gone.
+
+“So, you two are the rulers of your village?” the innkeeper asked with a smile Dallion seldom received from her. It was almost as if important guests, or even her own children, had come back after a long vacation abroad.
+
+“Third generation,” Veil said. He had changed quite a lot in the last few months. No longer the arrogant pain in the ass Dallion remembered, he had the look and demeanor of a self-made entrepreneur. At several times Dallion honestly thought he would start handing out business card and talk about investing in his new company of unlimited growth. “But it’s not like there aren’t other awakened that can’t handle things.”
+
+“Yes, we’re tiny in comparison to this place. Even after the leveling up.”
+
+“And it was all thanks to Dal?” Hannah gave him a suspicious look.
+
+I don’t know how to tell you this, but you can learn a thing or two from them, the armadil shield said.
+
+Not you too, Dallion sighed.
+
+This was exactly one of the things he was fearing. And as much as he wanted to deny it, both the shield and Hannah were right. Dallion had undoubtedly achieved a lot of things, but he remained a reckless tourist that got things done his way, regardless of how wrong and ineffectual that way sometimes turned out to be. In contrast, the Lior siblings were brought up with the idea that they would inherit the village one day. The practices of their grandfather had made them spoilt, arrogant, and sometimes cruel, but they had always known what was expected of them, and by the look of things a knack for it as well. If Aspion hadn’t been obsessed with keeping them in the village, there was no telling how much they would have achieved.
+
+Official county travel emblems glistened round both Gloria and Veil’s necks, the same that Dallion’s grandfather had earned all those years ago.
+
+And they’re almost double digits as well, Dallion said to himself.
+
+The duo had taken a very different approach to leveling up. Instead of focusing on item awakenings and shrines, one by one they had repaired, then improved every structure of the village. The effort must have been monumental. Dallion too had put in a lot of effort, though he had focused solely on items. Veil and Gloria had gone as far as improving the entire village area to the point it had been recognized by the county nobles as a level three settlement. It wouldn’t be a surprise if Countess Priscord herself sent the county emblems, along with the respective titles.
+
+“Dal helped a bit,” Veil said in mock snobbish fashion. “Nah, Dal did most of the work, didn’t you?” Veil poked Dallion with his elbow. “He set the ball in motion. We only followed up with the things he couldn’t be bothered with.”
+
+“Although it wouldn’t have killed him to stay for a few weeks longer,” Gloria added.
+
+“I’m sure.” The innkeeper narrowed her eyes. Suddenly Dallion felt he was in trouble without knowing why. “But that’s Dal, I guess. Head in the clouds, rarely ever on time, limited social skills—”
+
+“Limited social skills?” Gloria laughed. “Wow, the city must have changed him a lot. He didn’t have a problem with that back home. In fact, he was rather cocky.”
+
+Upon hearing that, Dallion almost choked.
+
+“Limited good social skills, then,” Hannah grumbled. “Do you know what he did when he first got here? He went straight through that door, walked up to the counter, and just said ‘I’m an awakened. Do you have work?’ Can you imagine?”
+
+“Yep, definitely something Dal would do.” Veil nodded.
+
+Seventy-five percent of the people at the table laughed, and while Dallion wasn’t among them, that didn’t mean he wasn’t happy. Thanks to his music skills, he could see the genuine joy coming from his Dherma friends. Despite their doubts of a few months ago they had chosen to venture all the way to Nerosal to see him, and now that they had they felt that Dallion was the one doing a favor by being here.
+
+Don’t worry so much, Nil said. Having friends like that is a remarkable feat indeed.
+
+I know. Dallion stopped using his music skills. I’m happy they are here. Just… it’s a bit sudden, and I have some explaining to do.
+
+Go ahead. Now’s a good enough time as any.
+
+That might be a bad idea.
+
+After all, Hannah was here as well, and there were a few things he wanted to keep from her. But even if she wasn’t, Dallion wasn’t prepared for such a conversation just yet.
+
+Now’s not the best time. Maybe later.
+
+The more you delay, the more difficult it will become, the echo reminded. Then again, it’s your life and you’re free to make a fool of yourself however you see fit.
+
+“You’ve been quiet,” Gloria said all of a sudden, making Dallion snap back to the conversation at the table. “Tell us how life’s been treating you here.”
+
+“Well, it’s pretty much the same as before.” Dallion gave the standard evasive answer. “There’s work here and at the guild. I’ve spent a fortune on clothes and gear…”
+
+“Clothes,” Veil sighed with empathy. “I feel you there. Half of my item improvements back home were to make something wearable. I never thought that boosting perception would turn out to be such a nightmare.”
+
+“Someone tried to warn him, but my brother can be more stubborn than Dallion,” Gloria added. She, in contrast, seemed to have no issue with her clothes. At a single glance Dallion could tell that everything she was wearing was about level twenty—more likely bought than made, although she did have a good eye for fashion.
+
+“I doubt there’s a being alive that’s as stubborn as Dallion,” the innkeeper snorted. “In the last week he kept on bragging how he’d become a double digit and passed his guild selection trial and now look at him.”
+
+That was an obvious lie, though in a certain way it was also the truth.
+
+“I didn’t brag about it.” For the first time in a long while, Dallion felt on the spot. “And yes, I’m level thirteen now.”
+
+“Three levels ahead, eh?” Veil crossed his arms. “We’ll see about that. I saw a few awakening shrines in the city.”
+
+“Yeah, there are. Let me know when you decide to go there. Using them is a bit pricey.”
+
+“Even with these?” Veil tapped on his county emblem with a finger.
+
+“Even with those,” Dallion replied with a sad smile.
+
+“One of the shortcomings of the big city.” Hannah nodded. “Everything costs more here. Dallion could barely afford a glass of water when he first arrived. I still remember how—”
+
+“You already mentioned that,” Dallion interrupted, despite his fear. As expected, he got a quick slap on the back of the head.
+
+“How do you know what I was about to say?” the innkeeper grumbled. “See, what did I tell you? It’s a wonder I still keep him! He’s mending tricks are old and don’t attract new customers anymore. You, on the other hand.” Hannah looked at Gloria. “You’ll be a big draw.”
+
+She can say that again, the armadil shield commented. Both of them will. Did I tell you that pure blonds are a rarity? Only humans have them, for one thing, and even then—
+
+“Veil, need a shield?” Dallion said out loud, more for the shield’s sake than anyone else. “The one I got is quite good in battle, but lately it’s been getting uncomfortable so I’m thinking of getting another.”
+
+“Shield?” Veil laughed. “I don’t need a shield. That sword, though. Fancy parting with it?”
+
+“It’s a harpsisword, idiot,” Gloria grumbled the way only a sister could. “You need to know music to use it.”
+
+“I don’t need to know music to swing it around,” her brother countered.
+
+“So—” Gloria crossed her arms with a clearly annoyed expression on her face “—you’ll go in battle with an exotic weapon you can’t use just because it looks cool?”
+
+“Yeah. Your point?” Veil crossed his arms as well.
+
+Internally, Dallion laughed. In some aspects nothing had changed—beneath the surface they remained the same two goofs as before.
+
+“Weapons are quite expensive here,” Hannah said. “Good ones especially. Dallion was extremely lucky getting his. Given you come from the edge of the empire, I doubt you have enough to buy something adequate. You’ll have to rent one.”
+
+“I have that one.” Dallion pointed to one of the corners where his sword was leaning. It was the same one he had gotten from the chainling hunt.
+
+Looking at it with his new skills, Dallion could tell that it was an adequate weapon. He wouldn’t go as far as to call it good, but better than most things that were on sale, at least in that price range.
+
+“Not the best I’ve seen,” Hannah said. “Give me just a moment.” She stood up from the table and disappeared into the kitchen.
+
+The first several seconds of her absence were marked with silence. Dallion felt unsure about starting a conversation, and by the looks of it Veil and Gloria didn’t want to be the one constantly talking. In the end, Dallion decided to end the impasse.
+
+“How’s my family?” he asked. “I’ve been meaning to write, but…”
+
+“I know,” Gloria nodded. “And they’re fine. Your brother has turned into quite the menace. I mean he always was, but because of the…” there was a short pause. This time Gloria felt uncomfortable with the topic. “Because of the limitations, one couldn’t always tell. Since you left, he’s been doing all sorts of things to follow in your footsteps. Already he’s saying that he’ll become an awakened by the end of the year.”
+
+“If anyone could.”
+
+“He doesn’t want to use the shrine,” Veil added. “I offered. He says he wants to awaken the proper way like you.”
+
+“That’s good, I think. Are there a lot of newly awakened?”
+
+“No. Even the shrine can’t change something if it wasn’t meant to be.”
+
+Dallion nodded absentmindedly. “And my mother?”
+
+“Your mother… She’s fine, but sort of sad. It’s not you, though. I mean, it’s not only you. She seems sad about everything.”
+
+“She sings a lot,” Gloria added. “That’s one of the things that makes her happy. I think she just needs time to readjust to being awakened again.” There was another pause. “A few people left the village. Mostly from our family. They didn’t like seeing others rise to their level, even if everyone was better off. My father was the first to go.”
+
+“Sorry to hear that.” Dallion didn’t need to know music skills to sense the sadness in her voice. Apparently, despite all the intrigue and familiar backstabbing, family ties remained strong.
+
+“It’s alright. We knew it would happen. I’m sure he knew what he’s going. Maybe he’ll even return at some point.”
+
+Across the table, Veil let out an annoyed sigh. He clearly disagreed.
+
+“Oh, a friend of yours asked us to say hello.” Like the flick of a switch, Dallion’s happy facade was back on. “Was very insistent about it.”
+
+“A friend?” Dallion thought back. As far as he could remember, he didn’t have any real friends, even before the time of his awakening. There were a few acquaintances, but they had quickly started keeping their distance, mostly due to the animosity between the former village chief and Dallion’s grandfather.
+
+“The well,” Veil said with a semi-smile. “She’s talking about the well.” Moments later, he received a smack on the head.
+
+“The well?” Dallion blinked. “You mean the guardian?”
+
+“You get to know your main guardians after improving a village a few times.” Veil moved his chair slightly back to be out of reach of further attacks. “The fountain is just as stubborn as you. Insisted he was your guardian. Refused to get improved.”
+
+“He told you that?”
+
+“Not in so many words. If he could actually talk, I’m sure he would have.”
+
+So, they too weren’t able to hear guardians. That was interesting. Up to now, Dallion thought that the conversations depended on the guardian in question. Apparently, he was wrong. Which meant there had to be some other explanation.
+
+The kitchen door opened, and Hannah emerged carrying an impressive-looking broadsword in its sheath. Arriving at the table, she drew it out, revealing a flawless blade of blue metal.
+
+“Rain iron,” the innkeeper explained. “Not the model of the day, but quite sturdy and better than you’ll get from most shops. As long as you do a good job at the inn, you can have it. At least until you’re able to buy your own.”
+
+“You’re giving me this?” Veil said in astonishment, eyes sparkling at the sight of the weapon.
+
+“Yes, Hannah,” Dallion said with a note of envy. “You’re giving him that?”
+
+It wasn’t that the innkeeper hadn’t made the same offer to him when he was looking for gear. From what Dallion could remember, at the time she had made a rather big fuss that he was spending his money on items rather than clothes.
+
+“Watch your mouth,” the woman grumbled at him. “I’m not awakened. What good will it do me? Besides, it’s an attack sword. You wouldn’t be able to handle it, anyway.”
+
+Attack sword? Dallion thought.
+
+Nasty pieces of work or tools of perfection depending on who you ask, Nil explained. They are among the pickier types of weapons. Don’t have anything against them, personally, but it’s not a weapon I would have chosen.
+
+You mean they’re battle gear, like Harp?
+
+No, dear boy. What I mean is that they’re specifically for people who have a strong inclination towards attack skills, which is to say that they forgo their guard skills altogether. It takes a lot to wield them, which is why they were usually reserved for elite soldiers.
+
+If Dallion had to guess, that probably meant city guard captains at the least. Given that Veil was obsessed with attack, it could turn out to be a good fit for him, though that wasn’t Dallion’s main concern.
+
+Can they be used by ordinary people? Dallion asked.
+
+Not unless one wants to get their hands chopped off. As I said, they are very picky and temperamental.
+
+Then what is Hannah doing with such a sword? And why is she keeping it in the kitchen?
+
+Both excellent questions, the echo agreed. I suggest you ask her. And unlike my previous piece of advice on sharing things, taking a while before you do might be the better solution.

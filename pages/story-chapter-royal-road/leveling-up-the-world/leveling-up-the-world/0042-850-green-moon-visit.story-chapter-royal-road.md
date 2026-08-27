@@ -1,0 +1,203 @@
+---
+id: bd8d38b1-5857-52f0-a930-50635a75cfc3
+page-type-slug: story-chapter-royal-road
+title: "850. Green Moon Visit"
+slug: 0042-850-green-moon-visit
+partOf: leveling-up-the-world
+position: 42
+ownLength: 2044
+unit: words
+ownProgress: 2044
+publishedAt: 2023-12-23
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1452138/850-green-moon-visit"
+royalRoadId: "1452138"
+markedReadAt: "2026-06-29T22:41:36.952Z"
+---
+
+Five Moons glowed in the sky. The Blue Moon and Cyan Moons were missing, pushing the light towards the warmer part of the color spectrum. There was no telling whether the missing Moons were upset, or they didn’t wish to look upon the world at this time.
+
+To this day, Dallion knew quite little about the Moons. His interactions had made him know some of their personalities a bit. The copyettes and clerics he was in communication with occasionally would let slip a crumb of information, but a lot of the practical bits remained pure speculation.
+
+“Does everyone see you in the same way?” Dallion asked while laying on the ground. “Or do you depend on each person?”
+
+Only wind replied.
+
+“Sure, be mysterious.” Dallion yawned. “If one of them reaches you first, you won’t stay amused. Will there be a new Moon in the sky?” He rubbed his eyes. “If I reach the gate, will I join you up there?”
+
+As he looked, the Moons seemed to move faster. Dallion considered the possibility. They weren’t rolling along the sky, so he couldn’t tell for certain. More likely it was wishful thinking, brought on because of his current thoughts. Then, the Green Moon fell out of the sky.
+
+“Ever the optimist.” The Moon transformed into an Earth military pilot in a glowing green uniform.
+
+Dallion jumped up. For several seconds, his mind tried to come to terms with what had happened. Never before had a Moon come down in avatar form to talk to him.
+
+“I’m dreaming, aren’t I?” he shook his head.
+
+“Been a while since our last talk.” The Moon took a step forward, then sat down in a plastic green chair that had just appeared. “I remember there was a time when you’d pray every night for people to appear in your dreams. Jiroh’s fine, by the way. She’s talking to Di right now.”
+
+“Did Galatea make her his favored?”
+
+“You don’t have to be a favored to have us visit. Though, it helps.”
+
+Dallion had long stopped trying to figure out what the Moons were really thinking. Sometimes, they seemed to be helping, sometimes they seemed to be watching, on a few occasions he was fairly certain they had hindered him.
+
+“What did I mess up this time?” Dallion asked.
+
+“The glass half full.” The pilot shook his head, then took out a candy bar from his pocket. “Nothing as far as we’re concerned. I’m here to give you a hint.”
+
+“Why?”
+
+“Because you need it.”
+
+“Why are you giving me anything? I thought you said that you wouldn’t influence me from here on.”
+
+“True.” Chewing the candy bar, the Moon crumbled the wrapper and threw it on the ground. “But this time we thought you deserved a bit of thanks for what you did to the void.”
+
+You’re thanking me for killing the general? Dallion thought. He despised the man, and for good reason as it turned out, but he had already received an achievement. Plus, the void couldn’t be killed.
+
+“Yes.” The Moon nodded. “The void can’t be killed, but it’s the effort that counts. Now to the hint. A while back we helped you create an emblem.”
+
+Dallion thought back. That was around the time he had learned to properly forge. The item had taken him an enormous amount of effort, although now he could make one just like it without breaking a sweat.
+
+Dallion summoned the item. It was small, more like a piece of jewelry made of sky silver. Dallion had made it using one of the blueprints he had obtained within his trials. Thinking about it, it couldn’t have been an accident.
+
+“We didn’t let you have that just for fun,” the pilot continued.
+
+An emblem shell… it was far from complete. Even with the basic form made to perfection, there were still seven empty holes within it forming the emblem of the Order.
+
+It wasn’t meant to be metal, Dallion thought, finally realizing it.
+
+“Now you get it,” the Green Moon smiled.
+
+“I didn’t even know about Moonstones when I got the blueprint.”
+
+“I know. But we did.”
+
+“I got them by accident. If I hadn’t caught the phoenix or agreed to the deal, I wouldn’t have set foot in the Academy.”
+
+“That’s what makes observing otherworlders so fascinating. Your journey is a chain of impossibilities. You’re all given an equal chance, but it’s up to you to make something out of it. Some start with the privilege of magic. Others are part of a noble family. Others still start at the very bottom, forcing them to make use of their otherworldly knowledge in different ways. It’s never guaranteed to work out. Sometimes, it does.”
+
+That couldn’t be said for Arthurows. The last Star had relied more on his knowledge of Earth and that had gotten him nowhere. If he hadn’t been born in Nerosal, if he hadn’t started in a city, he might well have been the one having this conversation with the Green Moon.
+
+Dallion looked at the emblem. Instinctively, he knew which Moonstone should go where. At present, he had four of them, which left three remaining.
+
+“I almost used them against the void,” he looked at the Green Moon.
+
+“I know.” The other nodded. “That would have just made your task more difficult, not impossible.”
+
+So, there really is an achievement for gathering all seven, Dallion thought vindicated.
+
+“What happens when I get them?”
+
+The Moon stood up, then tossed a coin into the air. Dallion instinctively looked up, only to see the coin land on the night sky, transforming into a Moon again. Immediately, Dallion looked back down, but the embodiment of the Moon had gone.
+
+“I said I’ll just give you a hint,” the Green Moon said. “Figure out the rest on your own.”
+
+Dallion burst into instances, jumping off the ground. Night was almost over. Of the seven Moons, only the green one was visible half hidden beneath the north horizon.
+
+Nightmares, dear boy? Adzorg asked. Not like you to be so jumpy.
+
+“Yeah,” Dallion lied, leaving all but one of his instances to fade away. “I think I’ll go hunting a bit. Gleam,” he brought the shardflies into the real world from his realm. “Keep an eye on things here for me.”
+
+“While you have all the fun.”
+
+“I’m going to get some food.” Dallion continued towards the wall. The section he was heading to sank down, creating an opening. “Not turn them to mush.”
+
+“Everyone’s a critic.”
+
+As he walked, Dallion summoned the unfinished emblem. It had been so long since he’d needed an emblem that he’d completely forgotten about it. Good thing too, or he might have done something stupid, like fill up the holes.
+
+Entering the forest, Dallion then went into a sprint. When he was far enough from Sandstorm, he ventured into his realm.
+
+PERSONAL AWAKENING
+
+The smell of seawater filled his nostrils, brough to him by a gentle breeze. The sun was high in the sky, its light adding to the glow of the moonstones. Gen, Dallion’s first echo, had arranged them one next to the other, creating one giant shard of four materials. Having them for so long, Dallion had stopped noticing the magnificence the giant crystals presented. Knowing that they’d be gone soon, made him see it once more.
+
+“He’ll be upset,” July said walking towards Dallion.
+
+“Who will?” Dallion turned towards the echo. “Ariel?”
+
+“No.”
+
+July pointed at the Moonstones. A large aether jellyfish lay on top, like a transparent cap, as if it were an integral part of them. Being an entity created entirely of magic, it was normal for it to rest and feed there.
+
+“Gem,” Dallion sighed. “I’ll need the Moonstones.”
+
+The aether fish rippled, then rippled some more.
+
+“Err, okay, boss.” The creature detached from the shards, floating around them, before stopping a few feet away from Dallion. “Will you be fighting?”
+
+“Soon enough.”
+
+Bronze markers appeared around each of the Moonstones. Like cutout lines, they showed Dallion where to cut to create the shape he desired. Normally, that wouldn’t be enough, but when combining his carving and scholarly skills, the correct shape took form—a shape that would fit within the emblem he had crafted long ago.
+
+Time to start.
+
+The thread splitter emerged in Dallion’s hand. The dagger was sharp enough to cut through cloud matter, and thanks to a few enchantment spells, durable enough to withstand the hardness of diamond.
+
+Two slashes were enough to separate the four Moonstones from each other. Feeling the absence, they changed form, becoming rounder. Now, the intricate bit began.
+
+Thousands of bronze and copper markings appeared throughout the massive shape. Careful not to slice through the magic threads that composed the crystal, Dallion started slicing away. Each strike took a small chunk off, as if he were a surgeon removing burned flesh.
+
+When a piece was cut off of the main Moonstone, it burned up releasing its magic charge into the awakened realm.
+
+You have assimilated part of the MOONSTONE’s magic.
+
+Purple rectangles popped up one after the other, although none of them seemed to increase Dallion’s magic trait.
+
+Ignoring it, Dallion kept on slicing. Gradually, the chunk shrank from the size of a large rock to that of an apple. The form had gained perfection, composed of so many individual cuts that it seemed oval.
+
+All markers vanished, leaving the gem floating in the air. Dallion reached out and touched it. The moment his fingers came into contact with the hard surface, the Moonstone shrank to the size of a grain.
+
+There was a small click as the grain entered its spot on the emblem, filling in the hole entirely.
+
+MOON EMBLEM
+
+1/7 COMPLETE
+
+A yellow rectangle emerged.
+
+“Yellow?” Dallion said. So far, he’d never seen a rectangle that color. For that matter, there wasn’t a yellow Moon, either.
+
+The other three Moonstones were shaped in similar fashion. When one became part of the emblem, a yellow rectangle would appear. Once the item was four-out-of-seven complete, there were no more shards to work on.
+
+I wouldn’t say I understand it, Adzorg confessed. It’s definitely something, although you won’t be able to get a boost in battle should you need one.
+
+“As you said, sometimes there are more important things than a boost.”
+
+Quite right. Just keep in mind that Grym’s still out there.
+
+“Right now, he’s the least of my worries.”
+
+Taking the emblem with him, Dallion returned to the real world.
+
+With a little help from the trees, he quickly managed to find a suitable creature for food. Even this far east most of the species were familiar. In this case, branchhare were the diet of the day. Large and nimble, they spent most of their life in the trees, eating nuts, acorns, and the occasional bird that flew too close.
+
+Brushing up on his hunter skills, Dallion caught, drained, and skinned them with the thread splitter, then returned to his domain.
+
+A camp fire was waiting for him upon arrival.
+
+“Very funny,” he told the flames. “Did Gleam teach you that?”
+
+Yes, Ruby replied.
+
+It was undeniable that his illusions were getting better. Still, Dallion felt it wrong to have the food cooked on illusionary flames.
+
+“You can stop, I’ll take care of it.” He cast a quick spell, causing a second fire to appear nearby. “Where are Di and Gleam off to?”
+
+To check out the mountains. Di thought it might be interesting.
+
+“And why didn’t you go with them?”
+
+Someone had to take care of you.
+
+It was difficult to say whether Dallion should feel flattered or insulted. Of everyone present, the only one capable of defeating him was Harp.
+
+Just appreciate the gesture, Vihrogon said. You’ll live longer that way.
+
+The fake flame vanished, turning into a shardfly with ruby wings. After fluttering about, the creature landed on Dallion’s shoulder, as it used to back when he was a hunter.
+
+Summoning a few pieces of wood, Dallion prepped the branchhare meat and put it on a spit to get cooked. Being tough, the meat was going to need an hour to be fully cooked.
+
+“Ruby, keep an eye on things. I need to start building my kingdom.”
+
+AREA AWAKENING

@@ -1,0 +1,87 @@
+---
+id: 0cbd21d9-517b-51a1-8a0a-b72dbbe7f601
+page-type-slug: story-chapter-royal-road
+title: "Chapter 125: Gearing Up"
+slug: 0166-chapter-125-gearing-up
+partOf: labyrinth-of-the-mad-god
+position: 166
+ownLength: 2316
+unit: words
+publishedAt: 2025-05-05
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2257632/chapter-125-gearing-up"
+royalRoadId: "2257632"
+---
+
+Two hours later, Nick was ready to exchange his hard-won pile of resources for some awesome new gear and a few choice upgrades to his favorite items.
+
+First and foremost was repairing Blightbane’s pommel. As it happened, the lump of luminescent metal he’d found in the mine below Blackmist Bog was a solid choice. Gretta could modify the material so that it grew heavier as the blade repaired itself, ensuring that the sword would maintain a proper balance going forward.
+
+Since Nick refused to let the weapon out of his sight, Gretta offered to forge the pommel while she was crafting the rest of his order, then join it to the hilt when he was present to observe the process.
+
+After some serious consideration, he had chosen to upgrade his leather jacket, which the System called an Adventurer’s Coat, and his Caster’s Buckler, since they could be enhanced for a fraction of the price of buying new armor. He had also added a self-maintenance modification to his Pugilist’s Gloves, so he could continue using them until he found something better.
+
+The shield would be modified to improve its magic resistance, by working a piece of the bone Nick had found in the tower’s basement into the item’s core. His jacket would be reinforced by the green mineral he had found in the mine, increasing its resistance to fire, acid, and a range of other elements. The leather would also become rigid on impact, distributing the force of attacks over a wider area to reduce the damage he took.
+
+For his new items, he’d settled on three pieces, opting for quality over quantity. Since he intended to keep his jacket after all, he decided to purchase something that he could wear beneath it—a suit of light leather armor made from the carapace of the swarmling he’d killed during the blood moon and the construct-disrupting ivory he’d found in the tower. It would supplement his arcane barrier, protecting against magic that directly manipulated his body, and provide resistance to attacks from creatures hailing from other planes of existence.
+
+Next was a pair of boots that could repel most forms of attack, both magical and mundane. On top of their outstanding protection, they would dampen the sound of Nick’s footsteps and enhance the height of his jumps. Last was a helmet made from the scales of the gemstone fish he’d caught with Sophia and a few scraps of swarmling leather. It offered a similar level of protection to the boots, which was a major upgrade to the simple leather cap he was wearing now. The helm was modified to turn transparent on command, just like the one Devin was wearing, and offered limited protection from mind-influencing magic.
+
+All three items came with self-maintenance modifications, which meant they would clean and repair themselves going forward. It would keep them from falling apart with use, save time on maintenance, and help him appear more presentable, even while working in the field.
+
+It was hard to let go of his pile of treasure, even though Nick had collected it for this exact purpose. He took pictures of everything with his PDA, then handed it off to Gretta. He still had plenty of souvenirs that weren’t valuable enough to sell, and some items that he was keeping no matter what, including all the constructs and magitech devices. He was also holding onto his extra gear, to redistribute once he made it back to Earth.
+
+Gretta informed him that everything would be ready in a little less than three days, although he was welcome to return whenever he wanted. After exchanging bows followed by a handshake of her mechanical arms, he stepped through the doorway that portaled him to the safe room where Devin was waiting. He filled his friend in on everything that had happened, including what he’d witnessed from the balcony.
+
+“That sounds amazing, Nick. I wish that I could see it.”
+
+“The next time I’m there, I’ll try recording the view with the device I got from Kellen.”
+
+They spent an hour chatting, with a few rounds of light sparring in between, then Nick decided to call it a day. He slipped between the covers and was fast asleep not long after.
+
+***
+
+When Nick woke up, his belt was buzzing.
+
+By now, he knew that it meant his data device had an update awaiting his perusal. He was curious to find out the details, since he had no idea what it could be this time around. When he took the crystal out of its pouch and opened its menu, he turned to face Devin. “Come here. You’re going to want to see this.”
+
+When Devin walked over to his side, Nick opened the message. A holographic image of Pax wavered into existence, just like what had happened with Kellen back in the tower. At first, he thought it was a live broadcast, but when the blond woman started to speak, he realized that it was a recording instead.
+
+“Hi, Nick. Hi, Devin. Sorry guys. I thought that I would be able to talk with you at length, but if you’re watching this, my connection to the craft world’s communication relay isn’t stable after all. I left this message on your device as a backup while we were on the last floor, just in case. Hopefully, once you’re back on Earth, we can establish a permanent connection, and I can fill you in on the rest of the details. I’m still going to provide the explanation I promised, I just won’t be able to answer any questions for a while.”
+
+“The short of it is that nothing that happened to you—Taltos stealing your world from Astra, plugging it into the Labyrinth, and everything that followed—was a coincidence.”
+
+By this point, every fiber of Nick’s being was riveted on the words leaving Pax’s mouth. He was finally going to learn the truth, and he could already tell that he wasn’t going to like it. He called on Arctic Clarity to ice over the roiling emotions that the moment evoked. He would process his feelings later. Right now, he needed to focus and learn as much as he possibly could.
+
+“Taltos and the System have been at war for millennia. Every time the Mad God claims a new world, he adds it to the Labyrinth. Within the Labyrinth, the System’s influence is greatly diminished, and access to the rest of integrated space is cut off by an immensely powerful barrier we call the dead zone. The System wins most of their conflicts, but every loss tips the scales further in Taltos’s favor. At this rate, he will eventually take over all of integrated space, deposing the System within a few thousand years.
+
+“I know that you’re probably not the biggest fan of the System either, which is totally reasonable considering what it did to your planet. But you need to understand, while the System can be cruel with its ‘strength through conflict’ philosophy, it is ultimately trying to help newly-awakened worlds become powerful enough to survive the myriad dangers found throughout the multiverse.
+
+“Taltos is different. He only seeks power and his own amusement. He doesn’t care if entire species are obliterated or planets fall into ruin, as long as they put on a good show along the way. If he gains control over integrated space, the lives of more people than you can possibly imagine will be extinguished. Many more will become twisted by his rule, to the point where they will envy the dead.
+
+“Astra, along with a coalition of greater deities, is working with the System to stop him, which is where you and I come into the story. We’re trying to free everyone trapped in the Labyrinth, and the only way to sneak agents inside is to use newly-integrated planets located near the fringe of integrated space. We kept the Earth off his radar until the last minute, then used its ascension as bait, tricking Taltos into claiming it for his own. It’s kind of like your legend of the Trojan horse on a galactic scale. There’s more to the story, and the Earth isn’t the only planet this is happening too, but that’s beyond the scope of this briefing.”
+
+“You knew that this was going to happen, and you just stood back and watched?” Devin yelled. “My friends and family were slaughtered. What the fuck is wrong with you people?” Nick put a hand on his shoulder, although he could feel his own fury smoldering below the layer of frost-rimed reason provided by Arctic Clarity. For her part, Pax looked genuinely remorseful as she continued her paradigm-shattering explanation.
+
+“I am truly, deeply sorry to involve your planet in all of this. Although there is a chance that it would have happened anyway, in the end, we set you up. Don’t think that we made this decision lightly. Every life lost weighs heavily on my heart, and Astra feels the same way.
+
+“I know it won’t make you feel any better, but this goes far beyond the fate of one world. We’re trying to save millions of times the lives of your entire planet combined. Not to mention countless more who are forced to eke out a hellish existence for the entertainment of the Mad God, his pantheon, and the scum of the multiverse he calls his patrons.
+
+“That’s the bad news, but there is a silver lining. We’re not sending the Earth into the Labyrinth as fodder. We added some hidden modifiers of our own to your integration, while Taltos was distracted with his hostile takeover. We’ve positioned your planet to become full citizens of the Labyrinth with far more resources than he thinks you will receive from the Fate of Earth quests. If this goes the way we’re planning, the Earth will become a powerhouse during the conflict to come. A beacon of hope and change in the midnight hell of the Mad God’s realm.
+
+“You can scream at me when we speak again, Nick. Even run a sword through my heart if we meet in person. I won’t try to stop you or blame you one whit. But right now, I need you to listen carefully and follow through with our plan. It’s your only hope of surviving what’s coming. If you finish the Fate of Earth quest chain in a manner that unlocks a diamond reward, your lives will change for the better in countless ways.
+
+“In addition to setting your planet up for rapid advancement within the Labyrinth, we did our best to empower its first generation of champions. We identified promising people right from the start and gave them access to resources well beyond what the Mad God intended. It’s the reason why I implanted you with a transmitter, so that we could work together when the time came. We also seeded your starting gear with a living artifact and sent you to a tutorial filled with unusually good, extremely dangerous opportunities.
+
+“You’ve already done better than we dared to hope. Not just you, Nick, but Team Earth as a whole. Now it’s time to make sure all that hard work pays off and give that bastard Taltos one hell of a black eye in the process. Let me fill you in on the details.”
+
+With that, Pax outlined her plan for the final stage of the Fate of Earth quest chain. She told him how to complete the battle with the guardian in a way that would unlock a hidden reward for his entire species. By the end of it, Nick and Devin were nodding along. It would be insanely dangerous but just might give his people a fighting chance of surviving what came next. When the recording was over, Pax winked out of existence, leaving the men to discuss what they had learned.
+
+“I’m still furious,” Devin said. “I want to tell them to go fuck themselves and wash my hands of the matter. But we don’t have the luxury of acting out of anger right now. The Earth is sinking into a bottomless pit of shit, and this is our only chance to pull her out. We can’t afford to fuck this up. Although, if we ever get the chance for some payback, I’d like to punch Taltos and the System right in the face.”
+
+“Me too, Devin.” Nick let out a heavy sigh. “Me too. Fuck the lot of them. But you’re right. We need to do everything we can to secure that diamond reward. Right now, that means evolving, picking a strong class, then smashing the guardian on the tower’s roof. We can worry about escaping the tyranny of Mad God and the System once our planet is off the chopping block. We can’t do anything for the billions who died, but we can fight to save everyone who is left. Rebuild civilization and give the next generation a chance of thriving in the multiverse.”
+
+With that, both men were silent, each lost in thoughts of their own. Nick eventually decided to head back to the craft world, since watching the flourishing civilization made him feel a bit better about humanity’s future.
+
+While he was out on the balcony, he took out his crystal and tried to record the view for Devin. However, the device displayed a message saying that the function was blocked by the System. Instead, he opened his journal and began to draw, sketching the buildings and the people walking below, then drawing a portrait of Gretta.
+
+When the craftswoman stopped by to check on him, she let Nick know that his order would be completed on schedule—just in time for the big fight. He took one last look at the bustling craft world, then went back to the safe room to train. The climatic battle was fast approaching, and he intended to be ready.

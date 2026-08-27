@@ -1,0 +1,203 @@
+---
+id: 740ad9cf-949a-5889-9c8d-3861d219888a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 — A Dragon's Plight, Pt 1"
+slug: 0034-chapter-34-a-dragon-s-plight-pt-1
+partOf: just-add-mana
+position: 34
+ownLength: 3811
+unit: words
+ownProgress: 3811
+publishedAt: 2025-09-13
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2597378/chapter-34-a-dragons-plight-pt-1"
+royalRoadId: "2597378"
+markedReadAt: "2026-06-29T18:48:43.369Z"
+---
+
+The first thing Cale noticed was that Cyte was rather comfortably nestled within its blood obsidian box, sitting on Akkau's desk. There was no enchantment or ward to keep it trapped, either; instead, it nibbled happily on a pile of attunement papers Akkau had apparently left out for it, a sight that made Cale smirk slightly with amusement. Of all the things he'd been expecting out of this conversation, finding out that Akkau had a soft spot for magical creatures hadn't been one of them.
+
+"Something happen while I was gone?" he teased.
+
+Akkau sighed. "Cyte was hungry," the old dragon explained evenly.
+
+"Which is why you're calling it by name, of course." Cale grinned. "No need to explain, I don't judge. Although for the record, it is going to attract attention from the Outer Planes if you leave it out of its box like that."
+
+"I am aware." Akkau glanced away briefly. "I... may have contracted Imrys to construct an artifact that can better contain it."
+
+"Oh, you got attached attached," Cale said, impressed. It hadn't even been more than a few hours. What had the two of them been doing?
+
+On the desk, as if hearing his thoughts, Cyte let out an affirmatory squeak. "We have met another star!" it said happily. "Well. We suppose this one is more of a very big furnace. But it will do. It provides very tasty snacks."
+
+It paused, wiggling in its box. "But you will always be our first, first-star," it added hopefully.
+
+"I'm not going to touch that one with a ten-foot pole," Cale said cheerfully.
+
+Akkau just buried his face in his hands with a groan. "A very big furnace," he muttered, sounding chagrined. "Do you not have any better metaphors?"
+
+Cyte opened a mouth to reply, but Akkau held up his hand. "Don't answer that. Actually, don't make any size-based metaphors around Cale, preferably."
+
+"You have so little faith in me, you big old furnace," Cale said, leaning back in his chair. Akkau made a noise that resembled a remarkably high-pitched groan of consternation—dragons did tend to place a lot of value in the size of their mana cores, Cale remembered, somewhat belatedly.
+
+"Never call me that again," Akkau grumbled. The sound of a dozen books falling to the ground behind him betrayed that his tail was swinging heavily behind him, though. Before Cale could comment on it, he changed the subject. "In any case, we must discuss the Red Hunters and their presence in this school."
+
+"We should," Cale agreed easily enough. It probably was best he avoided pushing this, for now. "I was able to read some of Sneaks-In-Darkness's memories, but they're a little scattered. Did you manage to get more information from the badges Cyte ate?"
+
+"I did indeed." Akkau's shoulders tensed, and he looked, if anything, a little ashamed of himself. "It seems those three are far from our only compromised mages. There is much more afoot within my academy than I had assumed. In particular..."
+
+Akkau hesitated, then continued with a low growl in his voice that betrayed a deep inner anger. "I believe one of my professors may be lending them aid."
+
+—
+
+The conversation that followed went by surprisingly quickly. Cale had expected an extended debate on any number of details, in large part because all his prior experiences with dragons had taught him that almost all of them were painfully stubborn in whatever preconceptions they held.
+
+Not so with Akkau. The old dragon seemed at times to have experience matching his own, even if he hadn't spent nearly as much time traveling the Great Realms. He knew of the rules that governed karmic balance in each realm, the way fate tended to be woven around the realm's denizens, and almost half as many tricks to manipulate those rules as Cale did.
+
+Both of them wanted to confront the Red Hunters immediately, but agreed it would be infeasible. Even if Akkau had the mana and skill with magic to teleport Cale around as a sort of mobile mana-cannon, there was too little they knew about the kind of magics they had access to. Sneaks-In-Darkness's memories had made it quite clear that at least one of their commanders had access to a whole host of esoteric artifacts and magical creatures, many of which could likely kickstart apocalyptic scenarios all on their own.
+
+And that was to say nothing of the main faction of the Red Hunters currently residing in Aersheld, though Akkau had seemed surprised when Cale mentioned it.
+
+"They are?" the old dragon blinked, then pulled back to begin rummaging through a folder he kept in his desk. "How do you know that?"
+
+"Professor Sternkessel mentioned it," Cale said.
+
+"Ah." Akkau blinked again. "I... yes, I suppose that makes sense." He frowned a little. "This may be a strange request, but if you can, please make sure that Sternkessel does not overly tax himself engaging with mortal affairs. There is a cost for him."
+
+"Of course there is." Cale sighed. Why couldn't things ever be easy? It made a certain kind of sense—Indictments were created to serve a function, so presumably any action they took that didn't serve that function incurred some kind of cost. That would limit some of their options when the Red Hunters came...
+
+Not entirely, though. It all depended on what kind of cost was incurred. He'd have to ask Sternkessel himself about it; Akkau didn't seem too willing to speak further on the subject, and so they went back to discussing the best way to deal with the Red Hunters and the threat they posed to the Astral Wing's students.
+
+The basics of it was this: the Thread of Fate was, at present, their best defensive tool. It would ensure that as long as Cale remained at the academy, any of the strategies and plans that the Red Hunters tried to employ here would have a hole that Cale would be rather conveniently led to. That meant that if there was a sympathizer among the academy's staff members, Cale would likely encounter them, too.
+
+They would still have to take some measures to minimize the harm done to their students in the meantime. Akkau admitted that he'd intentionally returned a moment before Cale had cast his first spell, so he was caught in a secondary tangle of fate; that meant, however, that he was perfectly placed to maneuver everything at the academy into position.
+
+He would reorganize the students and their schedules to ensure more inter-Wing classes and events. The Astral Wing was normally kept separate from the other Wings due to the risk involved, but Cale and Akkau both decided now that the risk was greater if they were kept separate. Forcing the classes to interact and the Wings to engage with one another would quickly expose anyone that was being manipulated or recruited by the Red Hunters, and Cale's presence in any of those classes would only accelerate that process.
+
+At the same time, Alina would be set to the task of keeping a careful eye on the students when they were having lunch. Her flames were apparently great conduits of magic when she wanted them to be—she could both see and hear through them. Any hint of another one of those Red Hunter badges would immediately be reported to Akkau so he could feed it to Cyte and disarm it.
+
+They did briefly discuss the possibility of searching the students for them individually, but that sort of wide search-and-seizure effort risked alerting the Red Hunters to what they were doing and gave the students plenty of time to hide their badges besides. Best to do so quietly and search for the recruiters in the meantime.
+
+Thankfully, they had a lead on that. A quick cross-check of the information gleaned from the badges and Sneaks-in-Darkness's memories made it clear that their recruiters met rather frequently in the nearby Petrified Sea, and while a direct investigation was a bit of a no go...
+
+"I will arrange for some of our classes to be held there," Akkau said decisively. "That should cause the Thread to kick in."
+
+If only all the other people that had gotten caught up in the Thread were nearly as intelligent about using it. As the direct target, Cale couldn't take advantage of it like this—but Akkau, being caught in a secondary tangle, could. As long as Cale didn't tell him to do it, anyway.
+
+There was little more that could be done with Sneaks-In-Darkness other than hold her in suspended animation until her lifelink could be defused, which would take some time. The option of using her as some sort of hostage was brought up, but the Red Hunters didn't much care for the lives of their own, and she would take her own life if given the chance, knowing it would hurt them. Even a cursory scan of her memories revealed that.
+
+Last but not least, of course, was the issue of Akkau's suspected Red Hunter sympathizer among the professors. The Academy's defenses were both complex and powered by an enormous reserve of mana anchored deep beneath the school. The idea that recruiters were simply sneaking around the school was so preposterous as to be unbelievable, even if they were archmages with high-level obfuscation spells and wards.
+
+After all, no matter how good those spells were, the Brightscale Academy had both Sternkessel and Syphus. The former had near unlimited non-mana scrying capabilities thanks to his status as an Indictment, and the latter could interfere with any mana-based scrying spell, even before considering that it had something very close to [Truesight].
+
+The only way a recruiter could avoid them both and all of the Academy's defenses was if a professor was providing them with ward-keys. Akkau had no idea which one of his professors that might be, though. Not all of them were fond of the Astral Wing, since the fear of wild mages ran deep, but they were all deeply loyal to Akkau for one reason or another. He couldn't see any of them breaking their oath to him just to help the Red Hunters, especially since he'd made his opinion of them clear more than once.
+
+Their best bet on that front was just to make sure that Cale attended as many different classes as he could, preferably as soon as possible. Luckily, most of the professors were now quite reluctant to test Cale Cadwell Cobbs, and so the list of classes he could attend had expanded exponentially.
+
+And all that was about the best they could do. The goal was essentially to force the hand of fate—to make sure that Cale was in the right place at the right time as many times as he could possibly be.
+
+All in all, Cale was pretty satisfied with the plan, and that was a rare thing for him. It was nice to work with someone else who understood the trappings of fate for once—someone else who, in their own way, understood the gears on which the multiverse turned.
+
+"And now, one final thing," Akkau said. His lips twitched slightly. "Well... perhaps not the final thing, but nevertheless. There is something I would like to give you."
+
+Cale was immediately interested. "I love presents," he said. "I didn't get you anything, though."
+
+"I would be impressed if you had managed to find the time." Akkau seemed amused at the thought. "No, I do not expect anything in return, but if you are to be my apprentice..."
+
+He paused, interlacing his fingers. "Do you recall what I told you about resonance?"
+
+"You said it's needed to learn spells above the second tier," Cale said. "And that higher levels of resonance will let me guide the Gift to evolve a spell into the kind of spell I want?"
+
+"Correct." Akkau's tone was pleased. "I suppose it should be no surprise that you absorb information well. You will begin taking your first real resonance classes tomorrow—none of my professors are willing to continue testing you, considering what you have shown us—but I thought perhaps I could... give you an introduction, so to speak."
+
+Cale sat up, his eyes practically gleaming, and Akkau snorted at his enthusiasm. "You're going to teach me resonance now?"
+
+"Teach is the wrong word for it." Akkau hummed in thought. "Most forms of elemental resonance require guidance, yes, but there are specialized aspects that do not. Instead, they simply demand that you accomplish a set of prerequisites."
+
+"Huh." Not something that Cale had been expecting, but he could work with that. "What resonance are you giving me, then?"
+
+"What do you suppose?" Akkau grinned at him, as if anticipating his reaction. "I could hardly call myself a good master if my own apprentice could not specialize in draconic magic, could I?"
+
+Cale froze, his mouth almost falling open. Akkau wanted to give him access to the draconic aspect? Draconic magic was famous for being jealously guarded and near-impossible to master. In fact, through all his lives, Cale couldn't think of a single mage that had mastered draconic magic that wasn't a half-dragon in some way. Even liches, ancient masters of magic that they were, had to graft dragon parts onto themselves if they wanted to cast any kind of draconic magic.
+
+The draconic aspect was the metaphorical opposite of primordial aspects like decay—it stood very, very high up the ladder of abstraction, encompassing more than a dozen smaller concepts within them. Part of that was a result of how thoroughly dragonkind had enmeshed itself into the history of the Great Realms. More often than not, when the course of history turned, it was because a dragon had involved itself in the affairs of the realm.
+
+Well, either that or a certain human named Cale Cadwell Cobbs, but that was besides the point. The draconic aspect embodied all of dragonkind's physical and magical masteries—their flight, their raw strength, the defensive capabilities of their scales, all the way down to the ease with which they manipulated mana and traversed the Abyss.
+
+The draconic aspect alone could give him all he'd ever wanted as far as magic went. Akkau must have seen the look on his face, because the old dragon smirked at him.
+
+"Do not get ahead of yourself," he warned. "Even with resonance and the help of the Gift, draconic spells are not easy to master. The lowest of our spells rank at eighth tier and above. You will not be casting them anytime soon."
+
+That was enough to break Cale out of his reverie, at least a little bit. "I'm going to have to increase my resonance until I can learn an eighth tier spell outright, huh?" he asked, a little disappointed.
+
+"Indeed," Akkau said. "It will take time for you to digest each level of draconic resonance besides. Fret not, however—draconic resonance is not without its benefits, even before you use it to craft spells. It will improve your ability to control mana, acquire spells, and gain new resonances."
+
+Cale blinked. "That's a lot of things," he said, suddenly excited again. He'd encountered very few things capable of improving his ability to control his mana. Even if the improvement was small, there was a good chance he'd be able to move his casting down to fifth-tier or even fourth-tier spells... and that opened up a whole world of magic for him.
+
+"It will take time to digest," Akkau warned him again, although he was smiling. He knew how significant this was for Cale. He reached under his desk to produce a vial containing a potion that was bursting with magic so potent it made everything else in the room dim.
+
+Cyte immediately reached out for it, and Akkau sighed, grabbing the tendril. "No," he said firmly.
+
+Cale snorted. Judging by the way Cyte was pouting, that wasn't the first time that had happened. "Thank you," he said sincerely, taking the potion and eyeing it with wonder. The liquid within was a cerulean blue that seared itself so deep into his eyes that it left an afterimage every time it moved. "If this is so valuable, is there a reason you don't just..."
+
+He trailed off. Dragons didn't share the draconic aspect with others, as a general rule, but Akkau seemed different from most of the others. As if he could read his thoughts, Akkau chuckled softly.
+
+"We guard our magic quite jealously, as you may know," Akkau said. He tapped his claws on the desk. "Yet there are few left that can practice it. You are not wrong—it would be wise to share it with more if I were able. But it is not quite so easy.
+
+"As I said, a number of prerequisites must be fulfilled before you can acquire a resonance with the draconic aspect." Akkau paused, eyeing Cale carefully. "One of those prerequisites is that you must display the qualities of a dragon. Pride bordering on arrogance, with the power to match; a force of will capable of bending even unknowable forces to your whim; a tendency to hoard..."
+
+Cale blinked. "I haven't hoarded anything."
+
+"You have acquired four apprentices in a single day," Akkau said dryly.
+
+"That shouldn't count!" Cale scowled. "I'm not going to keep picking up apprentices."
+
+"Are you not?" Akkau raised a single scaled brow. "I suppose we will see. It does not matter—for the purposes of this first level of resonance, it counts."
+
+Cale grumbled something to himself. "Fine. I guess I can see how requirements like that might make this resonance hard to gift."
+
+"If those were the only requirements, it would still be possible," Akkau said. "But there are more. You must defeat a dragon in single combat. You must impress a dragon. And finally, the dragon that you impress must volunteer a single drop of their essence to create an Elixir of Draconic Resonance."
+
+"I can definitely see how that makes it hard to spread," Cale said, eyeing the potion with a new respect. Akkau had downplayed it, but essence extraction was a difficult process for even the best of mages. It involved distilling out a part of the mage's very soul along with a combination of their life force and mana core, then compressing it down into something that resembled a liquid. "...Thank you."
+
+"I suggest drinking it tonight," Akkau said, giving him a knowing smile. "The potion may not work for any other mage, but that will not stop them from attempting to steal it nonetheless. I promise it will not disrupt your sleep, aside from perhaps your resonance vision."
+
+"Resonance vision?" Cale asked.
+
+"You will see." Akkau smirked at him, folding his arms across his chest. "I suspect you would rather I not spoil it for you."
+
+Cale snorted and laughed. "You know what, fair enough," he said, slipping the vial into one of his pockets. "Any other side effects I need to worry about?"
+
+Akkau hesitated. "I do not believe so," he said after a moment. "There should be none. Cyte had examined it for any untoward magical anomalies."
+
+"We want a taste!" Cyte agreed, this time reaching a tendril out toward Cale's pockets. Akkau grabbed it before it could get anywhere close, sighing, and Cale could almost swear he could physically hear the voidcyte pout.
+
+"There is some contamination in my magic," Akkau confessed, more quietly this time. He didn't quite meet Cale's eyes as he did so. "I admit this only because I believe you suspect it already. But it does not affect the potion—I have ensured that. That said, if you believe it too risky, I will not force you to take it."
+
+"Oh, trust me, I've taken much worse," Cale said cheerfully. It didn't bother him that much. What did bother him was this allusion to magical contamination. He hadn't planned on pressing Akkau too hard about it, but since the old dragon seemed willing to talk... "What happened to your magic, anyway?"
+
+Akkau sighed. "I was afraid you would ask," he said. He rubbed at his wrist, an almost absent-minded gesture that spoke of a lot more nervousness than he was willing to show. "But I suppose it would be foolish to keep this hidden from you if there is any chance at all that you might understand."
+
+Cale frowned. "Is there a chance that I won't?"
+
+"There is, albeit through no fault of your own." Akkau seemed rather serious about that, too, judging by the look on his face. "I have mentioned once already that less than ten of my kind remain. You assumed, I believe, that I was referring to Utelia's population."
+
+"Of course I did." Cale tilted his head. "Why wouldn't I..."
+
+He paused, trailing off, and the barrier around him began to thicken substantially. Akkau watched, eyes growing subtly wider as more and more mana began to pour into those barriers—and then that mana began to twist into complicated whorls and patterns. Nothing quite reminiscent of high-level magic, of course. Cale didn't have the kind of control needed for that.
+
+But he'd learned long ago that some types of magic could slip through his barriers, and he'd learned ways to counter that, too. It was invariably more taxing and took more of his concentration, but if any situation warranted it, this was one of them. The interference and density of these barriers made it far more difficult for anything to pierce them without being twisted and torn apart.
+
+Cale's expression cleared a bit, and his mouth settled into a grim line. "You meant throughout all the Great Realms," he said. "But that information is being magically hidden. A mass censorship spell?"
+
+"...Correct." Akkau seemed shocked, but mostly relieved. Cale, on the other hand, stood from the desk and began to pace.
+
+"Have you talked to Sternkessel about this?" he asked.
+
+Akkau shook his head. "We have not spoken of personal matters in some time," he admitted with a slight wince.
+
+"Well, you should. Sternkessel seems immune to this sort of magic," Cale said. His hands balled into fists at his side, and he took a deep breath, trying to suppress a rising surge of emotion.
+
+If Akkau was telling the truth... then what he was saying was all too familiar. Cale had no memory of how humanity's demise had come about, admittedly; there was no time he could remember where their population had diminished into the hundreds or the tens. But the presence of this sort of censorship and the erasure of an entire species?
+
+Cale forced himself to calm down and take a seat. "Akkau," he said. "This is important. Tell me everything you know about what's happening."
+
+Akkau gave him an exhausted, weary smile. "There are many who would balk at giving orders to a dragon, you know," he murmured. "...But yes. Very well."

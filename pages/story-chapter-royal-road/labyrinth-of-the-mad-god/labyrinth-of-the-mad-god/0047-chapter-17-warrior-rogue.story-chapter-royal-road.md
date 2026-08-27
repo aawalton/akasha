@@ -1,0 +1,87 @@
+---
+id: ffda4419-9962-558d-a0e5-07cdf4ab7ee4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: Warrior Rogue"
+slug: 0047-chapter-17-warrior-rogue
+partOf: labyrinth-of-the-mad-god
+position: 47
+ownLength: 1638
+unit: words
+publishedAt: 2024-08-26
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1775451/chapter-17-warrior-rogue"
+royalRoadId: "1775451"
+---
+
+Nick sprinted down the tunnel, his pounding pulse accompanying the slap of his boots striking the rocky floor below. He fought down the urge to burn stamina along the way, so that he would be ready to leap into the fight at full power the moment that he arrived.
+
+He wasn’t sure what he would find when he caught up to the action, but he suspected that he was in for a challenging fight. His companions were all capable warriors. Anything that gave them trouble would represent a serious threat.
+
+At least the blood splatters he followed were few and far between. Hopefully, it meant that their injuries weren’t too severe.
+
+As he ran, Nick prepared himself for multiple contingencies. From a massive swarm of gear-rats to whatever had destroyed most of the floor, and everything in between. While he was worried about his friends, it wasn’t all bad news.
+
+He had full charges in his wand, his elixir was ready to use, and he still had plenty of stamina and mana in the tank. Running at full speed didn’t deplete his reserves nearly as much as it used to, a gift of increasing his physical attributes to superhuman levels. At least by the standards of his prior existence.
+
+He passed by several clusters of rooms along the way. But after poking his head in to make sure that his team wasn’t inside, he kept on running. Not long after, he could hear echoes bouncing back from the tunnel ahead. The sound of collisions and then a woman’s voice crying out in pain.
+
+It must be Sophia or Veronica, and it sounds like she’s in trouble. Nick burned a bit of stamina to increase his speed. He needed to get there while he was still able to help, and there wasn’t much further to go.
+
+The walls of the passage became a smear of color and motion as he ran at a rate that would have been a decent clip for a bicycle back in his old life. Three minutes later, he knew that he was getting close, because the clamor of combat was growing crisp, and he could feel the vibrations transmitting through the stone.
+
+He reined in his pace as he drew near the commotion. He didn’t want to give himself away so that he could use the element of surprise to launch an alpha strike from concealment.
+
+He’d been afraid that he would run into more gear-rats that were racing to reinforce the others, but so far, he hadn’t seen any. Hopefully, it meant that there weren’t any more in the area, although he couldn’t count on it.
+
+Nick knew from experience that luck was a fickle mistress at the best of times.
+
+Less than a minute later, he came to a stop behind a chunk of stone that had been ripped free from the ceiling. When he peeked out from behind the edge of the rock, he was finally able to see what was going on. It’s Veronica. She’s trapped.
+
+Sure enough, fighting with her back against a massive pile of debris was V. It seemed that the tunnel was completely blocked past that point, creating a dead end. She must have tried to get away, and made it that far before being cut off by the rats. Holy shit, there are even more of them than I was expecting.
+
+At the moment, at least twenty of the corpse-eating constructs were converging on her position. The scrape of little brass feet sliding against the stonework filled the air, alongside a procession of metallic squeaks. Unfortunately, while this was already a considerable threat, it was far from the extent of the danger.
+
+A second wave of gear-rats was waiting behind the first, lined up along the tunnel to keep Veronica from breaking through and making good on her retreat. Although Nick wanted to rush to her aid right away, he took a few seconds to scope out the battlefield and plan his attack. Doing so would help her more in the end than mounting a reckless charge.
+
+The first thing that drew his attention was how capable V was. Alone and outnumbered, wounded and besieged, she was holding her own while dishing out considerable damage in exchange. She leapt and ducked and dodged like mad, evading dozens of gear-rats that were coming her way, both skittering along the ground and leaping through the air.
+
+Every time that her unpredictable movements created an opening, she attacked. Nick watched her eviscerate two airborne rats with her claws, opening the belly of a construct with each swipe of the bone blades protruding from the back of her wrists. Scores of little brass gears came flying free and went rolling across the ground, before the constructs’ bodies disappeared with a pair of pops.
+
+When ten rats came at her at once, Veronica turned on a dime and started running for the wall. She gathered her strength, leapt into the air, and then sprang off the rock in a backflip.
+
+Halfway through the maneuver, while upside down no less, she fired a pair of bolts from her wrist-mounted crossbows, both missiles glowing with a sickly green light. Each bolt caught a rat in the back, the acid melting them from the inside out before they vanished as well.
+
+She landed lightly on her feet a heartbeat later, sent a rat flying with a kick, then crushed another beneath her heel before surging into motion once more. Badass. Nick would have loved to watch her fight all day had the situation not been so serious.
+
+Although they had worked together before, V was even more capable than he’d realized. She could probably teach him a thing or two about combat when they had time to spare.
+
+Despite her impressive display of skill, it was clear that the agile warrior was in trouble. Now that he had time to take a closer look, Nick could see that she was bleeding in at least half a dozen places. Bites where the rats had torn pieces free from her armor, slicing into the flesh below.
+
+It wasn’t enough to stop her, but he was sure that V was running low on stamina, and likely mana as well. He needed to get in there and turn the tide before she made a mistake and took a serious wound.
+
+But he couldn’t just rush right in, not with the second group of rats blocking his path. He needed to deal with them first, then help her break free from the swarm. Trying to decide what move would make the biggest difference, he took a closer look at the stationary group, trusting Veronica to hold her own for at least a few more seconds.
+
+When he ran his gaze across the line of brass bodies, Nick realized that the problem was trickier than he’d thought. Specifically, three of the constructs were different from the rest.
+
+They were bigger than the rat-shaped models, closer to the size of large dogs, and their bodies were wider and flatter. They walked on six legs with a pair of razored claws hanging in front and a tail raised over their backs to face their prey.
+
+He realized that they looked like mechanical scorpions, with the same clear skin and brass components that the gear-rats featured. Along with their additional armaments, they glowed with a faint green light, the same color as Veronica’s acidic bolts. Nick wasn’t sure what the emerald radiance foretold, but it couldn’t be anything good.
+
+Those ones look like bad news. They must be the pacification models that Kellen mentioned. I should deal with them first. By now, Nick had conjured three mana darts, the prior limit of what he could control at once. But in that moment, he sensed that he could handle one more, so he added a fourth spell to the trio of missiles that were orbiting his head like chrome satellites.
+
+When Veronica next looked his way, he rose to his full height and waved, letting her know that he had arrived on scene and was ready to help her out.
+
+“Nick,” she yelled, ducking beneath one leaping rat then jumping over a second, as sweat poured down her leather-clad body. “Watch out for the big ones. They can…” Her words were cut off by the same event that rendered them unnecessary.
+
+Because at that very moment, all three gear-scorpions turned to face her, tails pointing straight at her athletic form. Before Nick could react, all three constructs fired something from the end of their appendages, which went streaking for Veronica at incredible speed.
+
+While they were invisible to the naked eye, Nick could sense their presence. They felt just like the force mana he had observed when the System attuned his energetic core. The same energy that powered his piercing ray.
+
+Although she couldn’t see them, V must have known that the shots were coming, and she flung her body to one side at the last possible moment.
+
+Two of the forcebolts went wide, tearing chunks of rock free from the wall along with a spray of gravel. The third blast grazed her stomach, slicing through skin and leather alike as the magic bit into her side.
+
+Fortunately, it was only a minor wound, but it was far too close for comfort. If it had been an inch deeper, it would have resulted in a critical injury. While it must have hurt like hell, V didn’t even flinch. She just kept right on leaping and dodging, taking out another rat along the way.
+
+While she had survived the volley, the danger was far from over. More rats were converging on her position and the gear-scorpions were already lining themselves up to fire off another round.
+
+But Nick wasn’t about to let that happen.

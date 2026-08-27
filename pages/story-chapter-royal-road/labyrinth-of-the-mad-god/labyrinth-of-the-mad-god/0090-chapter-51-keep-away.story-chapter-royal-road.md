@@ -1,0 +1,61 @@
+---
+id: ca59ebf8-3d24-564a-9a02-1e1dea88be3d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51: Keep Away"
+slug: 0090-chapter-51-keep-away
+partOf: labyrinth-of-the-mad-god
+position: 90
+ownLength: 1527
+unit: words
+publishedAt: 2024-11-13
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1901764/chapter-51-keep-away"
+royalRoadId: "1901764"
+---
+
+Nick broke into a broad grin, then assumed a battle stance with his sword raised in a two-handed grip.
+
+Now that he could feel the connection, he sensed that he could feed his weapon pure mana at will. Just to make sure, he sent energy out from his core, through his arms, and into the blade. It began glowing once more—wreathed in silver flames that didn’t give off any heat. This weapon might be enough to win the battle, if I can manage to land a heavy hit.
+
+So far, the arms he had disrupted hadn’t grown back, leaving only the one that had been coming for Devin. It was an encouraging sight. While this was still a frantic fight against his most dangerous enemy yet, now Nick had a real chance of holding his own. If he could drive the mana-infused blade deep into the mutant’s body, he might be able to dish out some damage that its regeneration couldn’t heal and disrupt the magic powering its abilities.
+
+The problem was, the Janitor had come to the same realization, and it wasn’t about to let him try. Even with the sword’s power, the mutant was bigger, faster, and stronger than he was—more than capable of killing him in a single blow. The creature turned to face him with the promise of murder clear in every crook of its features.
+
+In that moment, Nick was dead certain that it was preparing to put everything that it had into taking him down, now that he had revealed himself to be a true threat instead of a walking meal. The mutant let out a furious roar and came charging at him with blinding speed. It was ready to rend him asunder with its remaining force-arm, both bladed forelimbs, and its industrial-blender bite.
+
+He held no illusion that he could defeat the monster in a straight exchange of blows, awesome magic sword or no. He turned and started running for his life, just as three force-arms grew back and started reaching for him. I need to lead it away from the others but stay in range of their attacks.
+
+The party prepared for round two, as the showdown with the Janitor entered a deadly new phase.
+
+“The force-limbs are going to be a problem if we keep fighting up close.” Nick yelled as he ran for his life with the furious mutant hot on his heels.
+
+Sophia nodded her agreement, ready to direct the team with her superior tactical awareness. “It’s time to change strategies. Nick, keep kiting that monster while we whittle down its health. Devin, give the glasses back to Veronica for now. She can get in some hit and runs with her claws to build up more power for her trait.”
+
+He listened with one ear as he sprinted toward the back of the room, burning stamina to pick up his pace. As he drew near the wall, he turned to follow it while waving his sword in the air—keeping the Janitor’s attention on him while the others adjusted their tactics. Right now, it’s laser-focused on me. We need to take advantage of that to chip away at its reserves.
+
+While it was terrifying to be chased by such a lethal lifeform, this outcome was a best-case scenario. Since the Janitor recognized the danger that his silver sword posed and wanted to take Nick out of the picture, he could use that desire to control its behavior. To keep his friends safe while setting up a clear line of fire for the rest of the team.
+
+The six-legged mutant was faster than he was, unless he burned stamina or used Force Acceleration. But he thought that he could stay ahead of his furious assailant, at least for a few more minutes. He had noticed that the white shark form was fast but not particularly agile. It was better at straight charges than rapid turns, like the Fallen rhino they had fought in the Grand Arena of Papillion.
+
+Even still, it was a tense, touch and go situation. If Nick made a single mistake past this point or misjudged his opponent to the slightest degree, it was going to be the end of him. I can’t let it get too close. There’s too much about this creature that we don’t understand. While he thought that he had a good sense for the reach of its projections, he wasn’t taking that for granted. He was ready to get out of the way if they were able to extend further than they had up to this point.
+
+As these thoughts passed through his head, he led the white shark in a race around the room while gradually circling his team. Arrows, bolts, and throwing knives rained down upon the Janitor, along with an occasional rock from Devin. Nick kept on running for all he was worth. He was relying on his team to update him on any changes to the situation while he put everything that he had into staying out of reach. I can’t pull too far ahead either, or it might change targets.
+
+While he sprinted around the massive enclosure, he realized that he could feel the improvements to Sophia’s aura. His body felt Stronger and Tougher than before—able to perform at a higher level compared to just a few minutes ago. It wasn’t a night and day difference, but every little bit helped, especially since the passive ability would buff her summons too.
+
+Meanwhile, the party focused on dealing damage in an efficient manner. They were conserving most of their mana as they experimented, trying out various powers to see which attacks were effective.
+
+Nick sprinted and dodged, ducking and leaping and rolling like mad. He occasionally fired his wand to blast any arms that came close to grabbing him. By now, he had noticed that a fresh charge was coming back every minute or so, letting him use the force-flinging device freely for the first time.
+
+While he was busy running for his life, Veronica peppered the mutant with crossbow bolts, aiming for the cracks in its armor. Thanks to her class trait, every direct hit made her damage over time abilities more effective, increasing her offensive output as the battle dragged on. Her accuracy was higher with the glasses on, since she was able to avoid the mutant’s arms. V must have launched another acid bolt at some point, because he felt his scrapes and bruises tingling—cuts drawing closed before vanishing completely.
+
+When he looked over his shoulder, Nick saw that a pit had formed along the Janitor’s left flank, where the acid had worked its way inside to eat away at the tissue below its shell. It was slowly healing the afflicted area, but right now, the party was doing damage faster than the mutant was regenerating. Good. If we can keep it up for just a little longer, we might actually pull this off.
+
+They lost a few minutes’ worth of progress when the Janitor reached out to scoop up the charred remains of the roach queen. It shoveled the ashy bits of chitin into its abomination of a mouth, then let out a dissatisfied grunt. As they’d been hoping, it was only able to heal a little from eating the charcoaled mess. That was the only corpse left on the field. One less thing to worry about.
+
+Around this time, Nick was nearing the bottom of his reserves. He reached into his belt pouch and pulled out one of Veronica’s stamina potions—the only one he could use during the fight given their once-a-day limit. He popped the cap and chugged the bitter brew, groaning in relief as energy went surging throughout his body and he pulled ahead of his monstrous pursuer once more. I still have my flask of restoration, but I’ll save it until I’m ready to go all out.
+
+Since Devin didn’t have a proper ranged attack, he kept hurling his axe whenever Nick led the Janitor into a broadside position. His aim was shit since the weapon wasn’t weighted to be thrown, but his opponent was long and massive. He was able to land a direct hit every now and again—each strike resulting in an explosion and another burning wound. But most of the athletic man’s attacks only did superficial damage, thanks to the armor of force mana protecting the mutant.
+
+The gear-swarm must have realized what the party was up to. During Nick’s third lap around the chamber, the constructs decided to join the fray once more. Every time that he guided the creature past the entrance, the brass scorpions emerged to hit the Janitor from behind. Whenever their fire started drawing its attention, they darted back inside the tunnel before reappearing during the next pass—doing their best to whittle the big bastard down without taking any losses in exchange.
+
+It was a strange alliance, and he knew that they might have to face the machines in battle at any moment. But right now, he was glad for their assistance. If Team Earth was going to survive the climatic showdown, they needed all the help they could get.

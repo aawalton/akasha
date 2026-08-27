@@ -1,0 +1,205 @@
+---
+id: 8d11477c-ebb4-5237-834e-7c60f91e8ac7
+page-type-slug: story-chapter-royal-road
+title: "23. Giant Problem"
+slug: 0023-23-giant-problem
+partOf: mana-devourer-litrpgmana-cultivation
+position: 23
+ownLength: 3104
+unit: words
+publishedAt: 2024-07-13
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1716338/23-giant-problem"
+royalRoadId: "1716338"
+---
+
+Monsters, unsurprisingly, were pretty easy to encounter in this place. The moment he stepped out of the light, enemies started to immediately flock into his periphery.
+
+They were snarling, wild-eyed things, and while Markus’ heart pumped in fear and anticipation, he felt an iota of excitement. He had a lot he wanted to test. A goal he wanted to achieve.
+
+And a lot of mixed up shitty emotions to work through.
+
+Markus imbued his glaive with Flame Mana, but this time, it didn’t come from his body, but the core of the weapon. It lit up in an even hotter red glow than before, the lines in the weapon becoming filled with scorching colour as all the way to the handle the weapon erupted in fresh energy.
+
+It gave him enough light to see just a few feet ahead of him. He could still vaguely see the torchlight off in the distance, in case he needed to make a run for it, but safety wasn’t his first concern right now. The bat-like winged monsters in front of him were, and as more and more of them flittered into view, Markus began to wish he’d brought a bow with him, or at the very least a large rock.
+
+“Fuck…”
+
+Yeah, there were at least eight of these things, wingspans like those of a large prey bird, black and leathery and flapping in a slow, yet powerful rhythm that almost perfectly synced between every one of them, one that Markus could feel as each of these dark creatures generated stifling winds that all too quickly threatened to knock him off balance.
+
+[G Grade Wind Mana Absorbed.]
+
+At least he was getting something from it, even if it wasn’t especially potent.
+
+Right as Markus was formulating a plan to try and deal with these massive bat things, a roar sounded from the near distance, and a massive creature easily three times his height bounded onto the scene wielding a massive club that looked to have been fashioned from a large wooden bench or pew.
+
+The monster immediately grabbed one of the bats out of the air, crushed it into a ball with the three fingers of its hand with a sickening, echoing crunch, then hurled the monster right at Markus with the speed of an olympic pitcher.
+
+Markus couldn’t dodge in time, not with the wind already assaulting him, and so he tried to bring his glaive up to slice through the enemy being hurtled at him.
+
+He was surprised to find that it worked. It knocked him even further off balance than he’d have liked, but even with the effort it took for Markus to raise his glaive and make that first swing, the weapon was sharp enough to slice through the heavy bat creature, durable enough to stay its course, and in no time, he’d sliced the creature into two equal halves. It unfurled on the ground, dead as he span his glaive back to a readied stance, eyeing the massive bipedal creature that stared down at him.
+
+“Graff…” It took a bounding step in his direction. All the while, Markus was dive-bombed by three of these bat things at once while four more switched their position and tried to attack the giant instead.
+
+It was a full-on free for all, but while Markus attempted to weather the attacks of the three birds targeting him, he found that they were less painful than they were distracting, their claws leaving shallow cuts, their beaks causing superficial damage at best.
+
+What they were really good at doing was keeping him off-balance and disrupting his vision. So it was that when the giant took its massive wooden club and smashed it into Markus’ right side, he didn’t react until the last moment, bracing his body and pushing all of his mana over to the right.
+
+It cushioned the blow some, but Markus still went flying, rolling twice as the wood of the club splintered and the creature roared in satisfaction.
+
+“Grash!”
+
+He smashed his club against the floor once and began to advance, the earth below shifting and crumbling beneath his prodigious weight as Markus kipped himself back to his feet, his entire right side throbbing and numb, barely able to lift his right arm properly.
+
+Not good. He’d only been down here a couple of minutes and he was already feeling out of his depths. Just what the fuck was this place, anyways? And what was this thing saying?!
+
+Markus focussed his Greater Meditation on his arm, trying to force some motion out of it, reduce the numbness a little, as all the while the angry giant continued to stalk him, blotting out the rest of his surroundings for its sheer size alone, looking both hungry and crazed.
+
+“H-hey! Wanna team up and kill these things together?”
+
+It was a longshot, but his Feral Soul passive had said something about him having higher chances of diplomancy with feral monsters. Maybe that was something he could save his skin with here. Maybe he could get this massive creature on his side somehow.
+
+“Grann?” The giant’s head twisted as it heard his words, its bushy eyebrows knit in concentration. For a moment, its grip on the makeshift club loosened.
+
+“Yeah!” Markus panted, rubbing his right arm. “Yeah! Gran!”
+
+As soon as he repeated the word back, the giant’s eyes widened and it immediately tried to smash one of the other bats out of the air.
+
+It missed, and immediately turned on Markus, who’d been desperately using the time to attempt to get some motion back into his battered arm.
+
+It began to sprint at him.
+
+“GRANNN—”
+
+Oh shit, oh fuck!
+
+Markus raised his glaive just in time to block the strike, his arm finally responding to his commands, and despite parrying the giant’s swing, he still nearly hit the floor again, staggered by the almighty blow, his heart pounding against his ribs, vision still blurred from the impact of the giant’s first attack.
+
+Well, fuck. Diplomacy didn’t fucking work. ‘Gran’ indeed, asshole.
+
+It was fucking weird. Everything else he’d spoken to since coming here, he could understand, but this thing…
+
+Thoughts for later. Right now, Markus needed to put everything into putting this creature down before it smacked him into another dimension.
+
+The giant swung hard and fast, but there was a short interval between blows where it repositioned to load itself up for the next one. He needed to strike in that moment, and if he wanted to do that…
+
+He needed to dodge one of its attacks, rather than block it.
+
+Risky venture, but it was the only way he was getting close. If he took the time needed to block, he’d just get staggered or knocked down again, and he’d never get a chance to counterattack. And if he kept taking blows like this, eventually, he wouldn’t be able to raise his arms anymore.
+
+Unless…
+
+Markus Empowered his glaive, spreading the fire yet further throughout it as he did so, fanning the magnitude of the enchantment until it was burning as hot as lava, then planted his feet and prepared for the next strike.
+
+If he wasn’t still in Overcharge right now, he’d never risk doing this, but with his enhanced Strength, there was just a chance this might work. He was willing to risk it.
+
+The giant struck again, but this time, Markus parried with full force, thrusting against the weapon as it came down in his direction and allowing the tip of his glaive to spread along the club even as it smashed against it, locking himself in place and pushing every ounce of Flame Mana he could towards the edge of his weapon.
+
+The club caught fire just as Markus’ grip broke, catching himself with a hand to prevent himself falling to the ground. The club smashed down just a foot away from him, barely missing, a short breadth from crushing him entirely.
+
+It worked. He’d managed to set the enemy’s weapon ablaze. It was only a matter of time until he was forced to drop it.
+
+That being said, the fire seemed to be spreading rather slowly… and now he’d given the giant a flaming club to bludgeon him with.
+
+Fuck, that was a bit of a problem.
+
+What the fuck did he do now? Say ‘Gran’ again and hope for the fucking best? Yeah, probably not. Back to plan A.
+
+That said, plan A would be a lot fucking simpler if these bat things weren’t trying to claw his eyes out every five seconds!
+
+Markus slashed the air with his spear, attempting to make some space around him before immediately jumping back to avoid yet another swing of the club.
+
+He landed with a light fumble, his legs tensing, eyes watering as he attempted to eye his target.
+
+The more the flames spread the more he could see of the giant. It almost looked human in some respects, if not for the fact it had three heterochromatic eyes, and a twin-tail that dragged behind it that seemed as if it had no fur upon it whatsoever, at least at a glance.
+
+That and it was impossibly rippling with muscle, body so roided that it brushed the edge of euclidean constraints, arms more solid than ancient oaks, teeth the size and sharpness of razors glinting from its drooling mouth…
+
+Markus targeted the weapon, attempting to spread the flames further, leaping forwards and striking at it with his glaive.
+
+He barely chipped the wood, but managed to ignite a further point. The monster kicked at him, forcing him back as he dodged the incoming strike and immediately swang in Markus’ direction once more, flames licking the air as he drove the club home, crushing one of Markus’ legs.
+
+Markus cried out. It was definitely broken, what with the snap he’d heard, and while the monster needed a second to recover after using so much of its strength, it’d only be a couple more strikes until he was dead.
+
+Out of other options, Markus hurled the glaive as hard as he could, watching as it sailed past the monster’s weapon and embedded itself partway into the giant’s chest.
+
+He closed his eyes, clutching his leg in pain, focussing hard on the feeling of the glaive as it sat inside the creature’s body, waiting to be pulled out.
+
+He flared the mana inside of the weapon, spreading the flames further, and caused the monster to catch fire. As soon as he did so, he allowed enough mana to pass into its body that he could use his skill, and then activated [Detonate] for the first time.
+
+He’d been wary about using it, but he didn’t have any other options at this point. He didn’t know if doing so would cause the mana he’d stored in the imp to explode, too, or if he could implicitly control the destruction well enough that it’d only occur where his attention was focussed.
+
+Thankfully, he didn’t hear anything behind him, so his ticket out of here didn’t seem to be blown up, but what he witnessed in front of him was purely diabolical.
+
+With an explosion of pure energy, he’d blown a sizeable hole in the giant’s chest, one that was crested with ice and seemed to drip acid from the wound down the creature’s body. Even still the flames running across the giant doubled in intensity and the club in his hand finally glowed hot enough that he was forced to drop it, falling to his knees in the process.
+
+“Grassss…” The giant attempted to dislodge the glaive from his body, but the moment it touched the metal, it hissed and seemed to pain him even more, his body convulsing from the shock of another pulse of mana shooting through him. The acid was seeping into the creature’s bloodstream, now, and the more it attempted to rid itself of the cause, the more damage it inadvertently seemed to cause to itself.
+
+Meanwhile, Markus was incrementally dragging himself closer, both hands on his broken leg as he shuffled in the direction of the kneeling giant, desperate for contact.
+
+More bats descended on him as he forced himself in the creature’s direction. At first, they assaulted the giant in equal measure, but the more they did so, the more they hurt themselves, seared as they cut into the creature’s flesh. His body was teeming so heavily with fluctuating, pupating mana that he served as a makeshift bug zapper, and the bats, unlike insects, quickly became wise to that fact, choosing to focus their attention on Markus instead.
+
+Which only made his journey to the giant all the more gruelling. They didn’t do enough damage to stop him completely, but they were heavily fucking with his progress, and the more he was cut and the more he bled and the more he was blasted with wind from their wings, the more difficult the prospect of crossing the gap and finishing this monster truly became.
+
+Still, with all this Wind Mana he’d absorbed…
+
+Markus took his hands off of his leg. It hurt so much to place it back on the ground fully, and he absolutely knew his body would hate him for this if it worked, but he had to try. He wasn’t getting anywhere like this.
+
+He’d never used Wind Mana before. He had to focus his Meditation away from his broken leg in order to properly locate it faster, which only made the pain within him more shockingly visceral. He cried out, roaring with pain as he attempted to place his hands behind himself, to angle his body, to bring the Wind Mana within him all the way to his hands and push it out, still being assaulted by vicious bats all the while.
+
+His first push was unsuccessful. A light gust from his hands. His second was about the same, though it lasted a while longer.
+
+His third moved him a few inches off the ground, and he had to be careful not to bite his tongue from the pain as he landed.
+
+That was better. More like it. He didn’t need duration… just potency. Like a large, powerful wingflap. That’s all he needed to bridge the gap, he just needed…
+
+Markus cast Empower on his hands. He strengthened them with both Spirit and Wind Mana at the same time.
+
+He pressed them into the ground. He visualised his destination as best he could. Felt all of the mana flowing through his body and centred everything on just the feeling he’d been relentlessly searching for, the push, the pulse, the rush, the release…
+
+Markus barreled forwards as he lifted off the ground and smashed into the floor five feet ahead, right next to the leg of the fallen giant.
+
+Tears streamed down his face from the impact as his shattered leg hit the floor at full force. He screamed, the pain unbearable, but even in spite of his anguish, he knew he only had one chance to drain this thing before things got any worse, before he got to the point where he succumbed to his injuries fully.
+
+And so he placed a hand on the monster and attempted to drain it.
+
+It was taking too long to establish contact. Its exterior was thick. Markus was still openly crying out as he attempted to claw his way through the skin with his nails, fervent desperation gripping him as he waited and wondered when the drain prompt would finally show…
+
+At last, finally, the prompt appeared. Markus began to drain the creature without hesitation.
+
+He felt the burning intensity of the mana he pulled attempting to tear him apart as he first began to drain it, but before long, the mana seemed to recognise the signature of his body and calm itself on contact.
+
+The giant looked down on him with a wail as he continued to take from it, its lifeforce slowly ebbing away, and attempted to crush Markus, taking a single hand and pressing down on him hard, looking to squash him against the ground beneath.
+
+It wasn’t half as strong as it had been. What started as an intense pressure against his back that threatened to burst Markus like a ripened fruit soon mellowed out into smooth inertia as the giant lost such strength that it couldn’t even keep up its attempts, its arm falling to its side as it gently flailed in an effort to dislodge him, to no avail whatsoever.
+
+One good cast of [Detonate] had done a lot to him, that and the sheer force behind the spear in his chest and Markus’ persistent drain were enough to make the creature wholly ineffective.
+
+And as he continued to drain from the monster, his leg began to heal. The bones were slowly repaired, skin itching so much that he felt he’d had a cast on it for six weeks, the entirety of his calf shifting as bones were forced back into place and broken skin and ligaments were repaired and rejoined.
+
+It still felt numb, and still slightly damaged, but it was at worst bruised after a minute of taking this creature’s Life Mana, perhaps a bit swollen. He’d paid Markus back for everything he’d done to him.
+
+“Gra… Granttt…”
+
+Markus released his drain on the creature, forcing himself to his feet. He reached up as high as he could, retrieving his glaive from the creature’s chest and stabbed it in the belly.
+
+“Grant…”
+
+The creature fell to the floor, dying, and Markus devoured its core, glad to be done with this once and for all.
+
+Still he had these annoying things buzzing around him… Maybe if he could find a way to trap them, he could—
+
+“Marr… Marr…”
+
+Wait, what the fuck was that? That voice, it was different. It wasn’t the giant. He’d killed the giant. It was definitely dead. So what was…
+
+Oh.
+
+Oh, shit.
+
+Two more giants emerged from the shadows, one armed with a stone pillar, the other a long metal pole. They took one look at their fallen kinsman and immediately began to march in Markus’ direction, no care or respect whatsoever for the fact he could use a fucking breather right now.
+
+Whatever. Just don’t get hit this time! How hard could it be?
+
+He’d levelled again at least once from that kill, and if he wanted to survive this shit, he was immediately dumping points in the ten seconds he had before that gruesome pair managed to bridge the gap between them.
+
+But with so little time to choose, what the hell did he invest in?

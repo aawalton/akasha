@@ -1,0 +1,193 @@
+---
+id: 920cfd68-0c8b-5231-a3f3-50fa8894edaf
+page-type-slug: story-chapter-royal-road
+title: "118 — Book 3, Chapter 17 — Labyrinth"
+slug: 0121-118-book-3-chapter-17-labyrinth
+partOf: just-add-mana
+position: 121
+ownLength: 3306
+unit: words
+publishedAt: 2026-04-04
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3231202/118-book-3-chapter-17-labyrinth"
+royalRoadId: "3231202"
+---
+
+Leo didn't really know what to expect when he called on that Favor.
+
+Or, well, he thought he knew what to expect. His encounters with the Named had thus far been largely incongruent with what many of the texts he read had described. The books in the Brightscale Library claimed that the Named were capricious beings, not to be called on lightly; they could pretend at civility, certainly, but they were ultimately entities that represented a host of contradictory beliefs and tales, and one could never know which version of the Named they were invoking.
+
+In typical Cale fashion, his mentor had very quickly demonstrated that those books were either flagrantly incorrect or simply out of date. None of the Named that Leo had encountered as a result of Cale's actions seemed anything like those texts described, and Leo was beginning to believe that he would simply have to reconsider everything he thought he knew about the Named. Perhaps just start his research over from scratch.
+
+Calling upon Asterion's favor disabused him of that notion rather quickly. Leo came to realize, as the world itself began to distort, that the factor that he had failed to account for was that this was Cale he was talking about, and Cale seemed to have a way of grounding other entities that at times seemed to defy the workings of reality itself. Even gods and eldritch beings seemed to behave more naturally around him, often counter to what every other source and text claimed.
+
+Unfortunately for Leo, Cale was otherwise preoccupied at the moment, and apparently his mere proximity wasn't enough for that effect to work on Asterion. Either that, or there was something else going on with this particular Named.
+
+Or both. Knowing his luck, it could very well have been both. Leo thought—with a surreal, detached sense of terror—that if he survived this encounter, he was going to have to write a paper about that effect Cale seemed to have on paramagical entities, because if this was the difference between meeting one of the Named with and without the benefit of his influence...
+
+That was a whole other paper right there. Possibly the sort of paper that could rewrite what the Great Realms thought they knew about magic.
+
+For the moment, however, Leo was mostly preoccupied by the sensation of being trapped within an impossible, endless labyrinth. Academic study was his preferred coping mechanism for being confronted with most forms of existential terror, but it was hard to deflect to that when it felt like the realm itself was being redefined around him.
+
+This was the true, unleashed nature of [Asterion's Gaze]. Of this, Leo had no doubt.
+
+This was what it meant to have the full attention of one of the Named.
+
+Nothing around him had changed in a physical sense. He was still surrounded by the ruined shelves of the Haelforge Library, with a strange worm-serpent-thing trapped in a spell of its own making and Cale still holding tightly on to Echo. The ground beneath him was a mix of stone and ash and remnant wood, and yet—
+
+—and yet Leo couldn't shake the feeling that he had been transported elsewhere entirely.
+
+Asterion's attention alone felt like a physical weight pressing down on the skin of the realm, reshaping it to fit the context of his myth. Here is the Labyrinth, the world seemed to whisper; here is the darkness whose walls have become home and horror; here is the prison that holds the Minotaur and his hunger.
+
+It was an oppressive, suffocating sensation, and Leo struggled with the weight of it. Somehow the Labyrinth carried with it the weight of millennia of imprisonment, the blood of countless lives sent to sate the hunger within.
+
+And for all that he had learned to embrace and use his labyrinth instincts to his advantage, Leo found that within this place, those instincts only made things worse. They screamed to life in a way that suppressed every other sense—sight and sound, smell and touch, even his ability to detect mana. It all paled in comparison, to the point where reality seemed defined only by the winding twists of the Labyrinth.
+
+Worse, perhaps, was the fact that those same instincts were absolutely certain that there was no escape. They captured the Labyrinth and its sprawling paths, but for the first time, they seemed confused, unable to determine a means of navigating it. Instead the information filled his mind, impossible complexity paired with perfect familiarity topped off with an impression of something endless and inescapable—
+
+Leo realized dimly that he had fallen to his knees. Cale's voice echoed dimly in his ears, the only reason he'd been able to come to his senses at all; he gasped for a breath, then steadied himself, pumping his mana through his system in a way he'd learned could help ground him when his senses were overwhelmed.
+
+It helped. Only barely, but enough for him to grit his teeth and speak. "Enough," he said sharply, hating how difficult it was to spit out even that single word. "If—if you're doing this because you owe me a favor, then stop dragging it out."
+
+There was a moment where everything seemed to still. Leo worried for a second if he'd gone too far, if he'd picked up too much of Cale's callous disregard for the powers of the Great Realms, but then he felt a flash of something that felt distinctly like approval.
+
+Then the force of the Labyrinth turned away from him. He felt it shift, felt the weight of it suddenly press down instead on the serpent-worm and on the spell construct still brewing within its core. There was a pulse of intent, a command to change...
+
+...and Leo felt it, then. Something within the Labyrinth seemed to change, and he felt that change like a distant shockwave somewhere deep within his understanding of his aspect. The Labyrinth incorporated every twist and turn of the serpent's sacrifical spell, absorbing it into yet another part of its endless prison.
+
+At the same time, the spell twisted in on itself, distorting into something unrecognizable.
+
+That was all it took. With the construct destabilized, the spell could no longer sustain itself; it tried to burn in defiance, but only sputtered weakly and then abruptly shattered. At the same time, the serpent itself collapsed onto the ground in a writhing pile of worms.
+
+The sight would probably have disturbed Leo if not for the fact that it was also somehow letting out an audible, heavy sigh of relief. Magical physiology continued to elude him. That thing didn't even have lungs.
+
+Cale finally let go of Echo. He took a few steps toward the serpent, though not before giving Leo an odd, speculative look. Leo was pretty sure he knew what that was about, but...
+
+Bah. He'd let Cale deal with the serpent and his clone before they got into it. His own breathing was ragged and exhausted—something about calling on Asterion had drained him utterly, and now even the remnants of [Asterion's Gaze] had faded from him, leaving him feeling strangely hollow. He wanted nothing more than a warm meal and eight consecutive hours of sleep.
+
+Though he was pretty sure the latter wouldn't happen. He had difficulty turning his brain off, and even now there was a small part of his mind that raced, trying to make sense of what had happened. That was nothing like any of the times Cale had summoned one of the Named, yet Cale hadn't seemed surprised; had he known that might happen? Or had he simply seen it before, in one of his many lives?
+
+He couldn't quite shake the impression the Labyrinth had left on him, either. Something about it felt strangely off, and it took him another minute or two of staring at the ceiling to realize why.
+
+He'd assumed all this time that the Labyrinth mentioned by the Gift was something metaphorical. That it occupied the same space as Asterion did, as one of the Named, and would only exist when Asterion himself did.
+
+At the heart of the Labyrinth, Asterion waits. What else was he supposed to make of that? Asterion was the Minotaur, and he was trapped inside his labyrinth. Yet what he'd felt when Asterion's attention had descended on them...
+
+His instincts had been absolutely, utterly certain that the Labyrinth was real. Not merely a place linked to one of the Named but a true, physical location in its own right, somehow present adjacent to the Great Realms.
+
+Could that be true? In all his desperate research on Asterion and the nature of mythology, Leo had only ever learned about the living and the Named. Not once had he read about the places in mythology existing in any true, physical sense. They existed only when the mythologies linked to them did, as a sort of ephemeral location only tenuously tied to reality.
+
+What he'd felt a moment ago seemed nothing like that. Had something changed about the nature of mythology, or was there something special about Asterion and the Labyrinth? What did it mean, if either of those things were true?
+
+It gnawed at him even as he tried to gather his breath. He could hear Cale and Echo and Blood-That-Crawls speaking quietly to one another, and a part of him tried to pay attention, but his mind was too consumed by the potential implications of all this. Nor did it help that he had yet to truly confront his feelings about Asterion and the Impetus and what it had done to his family.
+
+He didn't know what had caused Asterion to inflict the Impetus along the so-called lesser minotaurs that populated the Great Realms. Was the existence of the Labyrinth related in some way to that decision? Had it been part of the cause, or simply one of the effects?
+
+Because as much as he hated to admit it—as much as he wouldn't admit it, even now, except in the privacy of his own thoughts—Leo had felt the despair that choked the Labyrinth.
+
+For as long as he'd understood the Impetus and what he meant, Leo had hated Asterion for it. That he was willing to use Asterion's help and claim his Favor did nothing to change that fact. Yet now a small part of him wondered if there was more to this than he knew, even as another, more bitter part of his soul recoiled at the thought.
+
+There was no excuse for what Asterion had done, surely, any more than there was an excuse for what his parents had done to him. But it had taken him a long time to accept that the latter, hadn't it? It was only when he accepted that his family was not that couple that abandoned him that he even began to acknowledge the possibility that they might be at fault for their choices, and in that context—
+
+—ah, dammit.
+
+In that context, he could perhaps, maybe, if he was backed into a corner and bribed with sufficient points, admit that some part of him blamed Asterion for what his parents had chosen to do.
+
+And that in contrast, he did not, in fact, know if Asterion had chosen for any of this to happen.
+
+He was still angry, of course. That anger was hardly the type of anger he could simply choose to dismiss, nor was he entirely convinced that Asterion was not, in fact, at fault. But he was pretty sure that the look Cale had given him meant that his mentor wanted to talk about this, and now Leo was a little bit more willing to do so.
+
+He recognized that look, after all.
+
+That was the sort of look Cale wore when he had one of his realizations.
+
+"I wasn't expecting you to summon Asterion," Cale remarked. "Guy's a lot different from what I remember. Used to be he just stalked around after me and roared a lot whenever he showed up. Now he's all eldritch presence and stuff. Not sure how I feel about it. Maybe he's going through a phase?"
+
+Leo gave Cale an incredulous look. "That's all you have to say about that?"
+
+"Well, no," Cale admitted. "I'm just still thinking about all the other stuff."
+
+He was going to have to talk to Leo about what he'd felt—what he suspected they'd both felt, really—when Asterion showed up, but he wasn't sure he was ready for that conversation just yet. There were a number of things they needed to get in order before they could discuss it anyway, chief amongst them being what to do with Echo and Blood-That-Crawls.
+
+Cale very much wanted to introduce Flia to Blood-That-Crawls, mostly because he was certain that the two would get along beautifully, even if Blood was a great deal more sapient than most of the magical beasts she dealt with. She had a way of connecting with people who felt abandoned or left behind by society, and he suspected she would have been of great help in teaching the echo feeder how to deal with its grief.
+
+That was probably out of the question, though. Perhaps a visit was possible, but Blood-That-Crawls and Echo were both technically aberrations, the latter having inherited that status from being created by an aberration. Prolonged exposure to aberrations would cause the various divine gifts enjoyed by Brightscale Academy to decay, and while many of them they could probably have dealt without...
+
+Well, there was the whole question of the Gift. Turning off the Gift would be a problem, considering how many people relied on it. Including himself, technically.
+
+Cale could deal with it. He'd been dealing with it all his lives, and frankly, he had learned to be exceptionally effective with nothing more than shaped barriers and magical blasts. A return to that was—fine. Not ideal, but fine, and he would be limited to that for a while anyway as a result of what he'd done to save Blood-That-Crawls. The other students, though? Losing the Gift could very well cripple them.
+
+Speaking of which... Cale channeled some of his mana into a small barrier experimentally and winced when it formed as an erratic, flickering thing, its edges blurring indistinctly with how rapidly it fluctuated.
+
+"Feels like I lost a few centuries' worth of progress," Cale muttered, shaking his head, and Blood-That-Crawls—who understood a little more now exactly what Cale had sacrificed—winced regretfully.
+
+"I am sorry," it said, for what was probably the fifth time.
+
+"I already told you," Cale said. "Don't be. I don't regret it. Let me know if you get a flight spell, though. My cooldowns were going to be done tomorrow and I was going to try for a flying spell."
+
+"I... will?" Blood-That-Crawls sounded confused, now.
+
+"Or a baking spell," Cale added thoughtfully. "Actually, just share any baking spells you get in general. Baking magic is my favorite thing."
+
+"What is baking magic?" the echo feeder asked. Beside him, Leo let out a low groan, burying his face into his hands, even as Cale brightened and launched into a long diatribe on the exact benefits of baking magic and all the ways in which it surpassed other forms of magic—
+
+—it was a good fifteen minutes before anyone managed to get him back on track, and in that time Cale had managed to conjure a truly astonishing variety of breads, courtesy of his still-overloaded mana core and the [Conjure Loaf] spell he'd recently acquired, which was the closest any mage had ever gotten to the mythical [Conjure Bread]. [Conjure Loaf] was capable of conjuring a loaf of bread most of the time.
+
+The variant that evolved from the sheer amount of mana he'd poured into it was astonishingly expensive but had similar problems, though it did seem to have a better rate of success. It had created exactly fifty-six loaves of bread.
+
+"Why are there cats?" Leo asked, horrified.
+
+Fifty-six loaves of bread and three cats, Cale amended mentally. The cats were probably where most of that mana went; conjuring or summoning life was tricky. Hopefully it was the latter.
+
+"I wouldn't say any of this is really baking magic, mind you," Cale said, tearing up a loaf and offering half of it to the serpent. "Conjuration is much easier than the intricacies of real baking magic. But it's a good introduction to why baking magic is great!"
+
+"You're procrastinating," Leo told him flatly.
+
+"True," Cale agreed without a hint of shame. "It's a coping mechanism."
+
+"We need to report this to the Haelforge professors."
+
+"Not before we figure out where Blood and Echo are going," Cale said. "Which is... home, I assume?"
+
+Blood-That-Crawls stared at him blankly. "You are letting us go?"
+
+"I'm not going to save your life and then turn you over to the battle-maniac academy that will most definitely use you as training," Cale said, snorting. "Unless you want that, I mean."
+
+"I do not."
+
+"I'm also not going to let you wander into the Bitter Path, either, considering your friend died in there." Cale was a little more somber when he said those words. "He wasn't weak, was he?"
+
+"Ravalos was a wyldfire aberration," Blood-That-Crawls said quietly. "Orange. He should have been strong enough."
+
+"I agree," Cale said, glancing in the direction of the Bitter Path. The dungeon felt strange to him, even as far away as they were; it was open now, which meant there was nothing stopping him or any of his apprentices from delving it, but... he was admittedly starting to reconsider the latter.
+
+The Bitter Path wasn't deadly, though. It was difficult, and experiencing it was apparently some sort of nightmare so terrible even the Haelforge professors would not subject their students to it—but it wasn't deadly. Ravalos's death was only another example of how differently the realms treated aberrations.
+
+"Why were you here?" Cale asked. "What did you need?"
+
+Blood-That-Crawls hesitated, clearly conflicted about giving him information, but eventually answered reluctantly. "We were told... we needed a mana channeler of a quality only achievable in this dungeon. That it would help us free our lord."
+
+"Free, huh?" Cale's brows furrowed slightly. "Is he trapped by something?"
+
+"Fate."
+
+Cale snorted. "Yeah, I know a thing or two about that," he said. "Alright. Look. Tell your lord I'll meet with him... somewhere in the Corrupted Lands, a week from now. I'll have mana channelers by then and if he's as good as you say he is, I'll let him have one, no questions asked."
+
+He paused. "Well, some questions asked. Kind of need that for the 'as good as you say he is' part. You know what I mean."
+
+"Cale," Leo hissed, alarmed.
+
+"I do not know if he will agree," the serpent said, flicking its tail and looking uncertain. "But... I will try this. And your Echo will deliver the message, if he accepts."
+
+"Sure! Always wanted to be a messenger," Echo said cheerfully.
+
+"I meant if my lord accepts." Blood-That-Crawls looked uncomfortable. "But I suppose you are included. I am unused to having a subordinate with free will."
+
+"This is the guy we're helping?" Leo muttered.
+
+"Oh, relax," Cale whispered back. "It's doing great as a new dad! Or mom. Or simultaneously gendered parental swarm."
+
+"Is that what I am?" Blood-That-Crawls turned to Echo with an odd sense of pensive, bewildered embarrassment. "Am I a parent?"
+
+"And on that note, I think I'm going to let you two hash that out while Leo and I have a quick but existential conversation on the nature of the Named and the impact of war," Cale said, grabbing Leo by the wrist and dragging him off. "Have fun!"
+
+"I'm really going to need to write that paper," Leo grumbled, letting Cale lead the way.

@@ -1,0 +1,73 @@
+---
+id: aae6936d-f601-53fe-857f-8278249598a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 98: Hidden Upgrade Unlocked"
+slug: 0139-chapter-98-hidden-upgrade-unlocked
+partOf: labyrinth-of-the-mad-god
+position: 139
+ownLength: 1777
+unit: words
+publishedAt: 2025-03-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2101616/chapter-98-hidden-upgrade-unlocked"
+royalRoadId: "2101616"
+---
+
+For the next five seconds, Nick continued to sink.
+
+At that point, someone must have cut through the ropes, because he began rocketing back up toward the surface. He realized that he had been so focused on surviving the crash that he hadn’t considered the full implications of making his pack lighter than air. If he didn’t do something fast, he was about to go flying into the sky.
+
+He could pull the quick-release straps and slide his arms free from his pack. But if he did, he would never see the magic bag or the items it contained again—an incalculable loss of everything he had earned from his adventures to date.
+
+There was no way that Nick was giving up his magic bag. However, he was almost as reluctant to abandon the floatstone core. It was a fantastic find that was certain to be helpful during the days ahead.
+
+It’s better than dying. Just let it go, and hopefully you can find another one soon. He reached for the flap of his bag, ready to jettison the floatstone, when inspiration struck. A solution to his dilemma was already at hand, or more accurately, surrounding him on all sides.
+
+Instead of taking the stone out of the bag, Nick started pulling water in, adding more liquid to his dimensional storage until his ascent began to slow. He came to a stop as the weight of the water inside his backpack canceled out the buoyancy of the stone. Then he added just a bit more, so that his pack wouldn’t float away whenever he took it off.
+
+He swam the last few feet and broke the surface a few seconds later. He dove right back under when he saw a pirate ship passing overhead—the colossal warship that belonged to the level’s boss. He prayed that the crew hadn’t seen his party. If they had, the pirates were about to open fire and blow Team Earth to hell from the air. He hadn’t spotted the others in the murky water, but he could only trust that they had noticed the ship too and were laying low until it passed.
+
+He stayed below the surface until his lungs burned, watching as the massive vessel drew near the oasis. He couldn’t hold his breath any longer, even with his enhanced Survivor trait. Nick came up for air, heart pounding and adrenaline coursing through his veins. He watched as the warship passed directly overhead… and then kept right on going, following the burning airship that was plummeting through the sky beyond the periphery of the isle.
+
+Relief coursed through every cell of his body, but his ordeal wasn’t over yet. He needed to know that his friends were safe before he could truly relax. He looked around until the rest of his team emerged from the lagoon and stepped onto dry land. Nick was afraid that someone had been injured during their landing, but it seemed that everyone was alright. After the party finished cutting themselves free from the ropes, they began looking for cover in case any of the pirates circled back around.
+
+Team Earth ducked beneath the canopy of the biggest tree they could find. Then they put their heads together, taking a long look around while considering their options. They had lost their airship but had shaken their pursuit and climbed a considerable portion of the level in exchange.
+
+However, that was the extent of the good news. They hadn’t found a stairwell and were still being hunted by the pirates, who were certain to start searching the nearby islands once they realized that the party was still alive. Nick hoped that it would take at least a few hours for the buccaneers to reach the crash site, comb through the wreckage, then communicate their findings with the rest of the fleet. Before that happened, the party needed to be long gone—far away from the flight path their ship had taken and somewhere with more substantial cover.
+
+Once they were safe from aerial observation, the team could start looking for a staircase or another way to ascend the last few islands and reach the top of the floor. First things first. We need to get out of here and find a better hiding spot.
+
+“Holy shit,” Devin said as the party huddled beneath the shade of a palm. “That was fucking intense.”
+
+“We’re lucky that the ship’s floatstone core was light enough to carry us down,” Sophia added as her wasps winked out of existence.
+
+“And that our ship didn’t crash on this isle, leaving the air thick with pirates.” Veronica wiped the sweat from her brow. Shaun was silent. The young man was visibly shaken but was trying to put on a brave face. I need to remember that he hasn’t dealt with nearly as many life and death situations as the rest of the team. He’s trying his best, but he’s been through a lot of scary shit in a short amount of time and still needs to process everything that happened.
+
+“So.” Devin gestured toward the surrounding sand. “Which way should we go?”
+
+Before they charted their course, Nick took out his spyglass to survey their surroundings. The desert island was covered in dark yellow sand, striped here and there with bands of orange and red. The dunes were relatively low, and the grains were densely packed. It took more effort to cross than walking on dirt, but it wasn’t too bad, all things considered.
+
+Other than the oasis, the only green he could see came from clusters of cacti dotting the dunescape. He was sure that there were beasts living out here, but they were either skilled at stealth or were hiding in their lairs to escape the heat.
+
+On that note, the air was sweltering. Even with his high Toughness and Cloak of Thermal Regulation, Nick was sweating. It reminded him of his early days on the Searing Isle, back when he was still coming to grips with the reality of the Earth being integrated into the System. Everyone else was even worse off, except for Devin, who was doing just fine thanks to his Heat Resistance ability. It was good that he had something to help keep him cool, since the man would have baked inside his heavy armor without it.
+
+Shaun was completely miserable, even after soaking his clothes in water, so Nick lent the man his cloak. It only made a small difference to him by this point, but the redheaded archer shuddered in relief when the temperature-regulating garment settled around his shoulders.
+
+The fact that it was so much hotter on the ground than it had been in the air revealed that each island biome was magically sealed. He wasn’t sure if they were like gardens, petri dishes, or terrariums to Rizzen. Regardless of the details, it was clear that keeping so many different terrain types in such close proximity served some greater purpose beyond Nick’s understanding.
+
+At this point, the team had a decision to make—start walking now or wait until night. The heat was oppressive, but with vast store of water Nick was carrying in his pack, they didn’t have to worry about dehydration, although heatstroke was a real danger.
+
+That was when Sophia came up with an idea that helped them reach a decision. “Nick, do you have a bucket-sized container somewhere in your bag?” He nodded and pulled one out, then filled it with water from the lagoon. A look of concentration crossed Sophia’s face, then a frostfury wasp grew into existence beside her. She had the insect hang its stinger over the bucket, and then gently squeezed near the base, causing a few drops of venom to fall into the water.
+
+When it did, the surface started to freeze, and soon the whole bucket was frozen solid. She repeated the process several more times, giving the team chunks of ice to tuck into their clothing. They wouldn’t last long, but now that they had a way to cool off if anyone began to overheat, there wasn’t a reason to linger in the oasis any longer.
+
+Since he hadn’t spotted any nearby landmarks, Nick decided that one direction was as good as another. “Let’s start walking and hope that there is another base somewhere on the island. If we can’t steal a ship, we’ll have to either find a hidden staircase or try something else. Maybe we can hitch a ride on a flying beast as a last resort.”
+
+With that, the party began crossing the desert. Veronica scouted the sands ahead for hostile beasts while everyone else kept their eyes on the sky in case more pirates arrived. Fortunately, they didn’t run into threats of either sort during the first leg of their journey. Although the heat wasn’t fun to deal with, the trek was easier than Nick had been expecting. Not because of any particular feature of the terrain, but because he now weighed over a hundred and thirty pounds less than before.
+
+An unintended consequence of stowing the floatstone core in his backpack was that in addition to increasing the maximum capacity of his dimensional storage space, it dramatically lightened the load at its current capacity. He estimated that the chunk of floatstone could support nearly five hundred pounds, given its performance after they had jumped out of the airship.
+
+As a result, his body felt light as a feather—almost as free as when he wasn’t wearing his bag at all. Since he had already maxed out his baseline Strength, the change was pure upside, gaining an incredible increase to his storage capacity without changing the magic bag itself. It felt like a loophole, but it was one that he was happy to exploit.
+
+Hidden upgrade unlocked. He cracked a grin at his own whimsy, then returned his attention to the sky above. It turned out that the floating isle was even bigger than Nick had realized. It made him wonder if the tower’s walls widened as they stretched toward the ceiling, forming a shape more like a cone than a perfect cylinder. He wasn’t sure why anyone would build it that way, but then again, understanding most aspects of the Tower of Rizzen was way above his paygrade.
+
+His mind continued to wander as the miles passed beneath his boots, wondering what would happen when their journey across the level reached its climax. One way or another, he was certain that they wouldn’t climb the stairs without a fight. The final showdown between Team Earth and the sky pirate armada was fast approaching, and Nick intended to win, no matter the odds.

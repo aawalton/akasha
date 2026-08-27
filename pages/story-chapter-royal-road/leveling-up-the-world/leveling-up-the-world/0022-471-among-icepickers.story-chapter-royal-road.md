@@ -1,0 +1,139 @@
+---
+id: daa9beb1-81d4-53c9-9b8e-e26d5bd50463
+page-type-slug: story-chapter-royal-road
+title: "471. Among Icepickers"
+slug: 0022-471-among-icepickers
+partOf: leveling-up-the-world
+position: 22
+ownLength: 2010
+unit: words
+ownProgress: 2010
+publishedAt: 2022-04-24
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/893164/471-among-icepickers"
+royalRoadId: "893164"
+markedReadAt: "2026-06-29T22:40:54.565Z"
+---
+
+The lobby hadn’t changed one bit since the last time Dallion was here. Even after spending close to two years in the awakened world, Dallion still felt as if he were entering a bank. Four wooden desks were placed at strategic spots, with doors behind, each occupied by an administrator whose job it was to go through the jobs the guild got and assign them to members. Back when Dallion was part of it, he constantly wore a guild ring with an echo of an admin inside. Several times per day he’d enter the ring realm, to check if he had to drop by the guild.
+
+There was one major difference, though: the reaction of the people. From the moment Dallion walked in, several of the guild members stopped what they were doing and looked in his direction. Some knew him from his time at the guild, the larger part had only heard the rumors.
+
+Newbies, Dallion thought. He recognized the looks of eagerness on their faces.
+
+“Dal!” a loud yell boomed through the room. “You’re back!”
+
+“Heya, Estezol.”
+
+Estezol was the person who had helped Dallion fill in the application forms all that time ago. He was a small, funny man, with an increasingly large beard, who took care of a large part of the practical administration of the place. Officially, he had next to no power. At the time, Dallion had considered him an over-glorified secretary. However, it had soon become obvious that he had far more access than people gave him credit for. In all his time there, Dallion had only seen the guild master, probably twice from a distance; Estezol had weekly talks with him and everyone else of importance within the guild.
+
+“It’s so good to see you!” The bearded man rushed from behind his desk. “So, you’re a hunter now? I’ve been hearing all sorts of rumors. Is it true that you actually fought a dragon on your own?”
+
+“That’s slightly exaggerated.” Dallion smiled. While it was technically true, the creature was a shadow of its former self and weakened to the point that Dallion managed to defeat it. “What’s been going on here? Any new promising newbies?”
+
+“Compared to you?” Estezol laughed. “Not a chance! Hey, how are the Lurs? Any chance they’ll be joining us anytime soon?”
+
+“No idea. I’m… not as close to them as I used to be.”
+
+“Oh…” The man’s smile faded.
+
+“It’s nothing serious. We just have different interests now. They’re working on putting Dherma on the map, and I… Well, you’ve heard the rumors.”
+
+Estezol nodded.
+
+“I heard what happened to Jiroh. Sorry about that. I miss her a lot.”
+
+“I know. She’s fine, though. It’s what she wanted. Anyway, I heard that there might be a job for me.”
+
+“Looking for work here?” Estezol arched a brow. “Don’t you have enough on your plate? Hunters are very in demand lately.”
+
+“Estezol…” Dallion whispered. “I know there’s a job for me. Do you prefer I went home and wait for someone to call me?”
+
+“That’s not necessary,” a female voice said a short distance away. Looking up, Dallion saw a woman wearing full plate armor.
+
+March, Dallion thought.
+
+When he had learned that she had asked for him, there had been a moment during which he hoped that his current level would put him on an equal footing. He couldn’t have been further from the truth. All the experience he’d received, all the achievements, the level increases, even the familiars, and weapons, didn’t seem to have narrowed the gap by an inch. March was considered the golden girl of the guild: a current captain and former imperial soldier, she was the main drive that brought recruits to the guild, and unofficially the third most important Icepicker. She was also probably the only person who walked about in full armor more often than not, even when there was no reason for her to do so.
+
+“You look well, Dallion,” the woman said. “Join me upstairs.”
+
+There was an awkward moment of silence. People stopped pretending to do whatever they were doing and openly followed the exchange.
+
+Good to see that you still have an impact on this place, Nil laughed.
+
+Yeah, Dallion thought. Almost as great an impact as when I quit.
+
+“Yes, ma’am,” he replied, and followed her upstairs.
+
+The two made their way to the fourth floor.
+
+“There’ve been a few changes I see,” Dallion said as he saw the single metal door. In the past, all of them had been wooden. This one not only was made of a solid alloy, but Dallion could feel that the walls beyond it were as well, making it more vault than room.
+
+“A few changes were needed after your last adventures,” March said calmly. There was no anger in her or her voice, although Dallion could sense lingering traces of disappointment. “Go in.” She pulled the large door open, revealing nothing but darkness inside.
+
+There was a slight moment of hesitation, but ultimately, Dallion did as he was asked. The woman was at least ten levels above him, possibly twenty. That was quite impressive, considering Dallion had reached the mid-fifties; it also meant that she wouldn’t have a problem forcing him inside, if that was her intention.
+
+Slightly on edge, Dallion stepped in. March followed and closed the door. The moment she did, the entire ceiling lit up. No less than a dozen light crystals were visible, all glowing in a bright white light. Given the cost of each so far east, someone in the guild had spent quite a lot of money on this. Though that wasn’t the most astounding thing Dallion witnessed. He had expected to find the world sword in the room. However, he had never seen two side by side.
+
+“Another request from our patron,” March said.
+
+“I didn’t think he’d have two,” Dallion whispered. He had heard of their existence, but he never imagined he’d actually see them.
+
+At first glance, the weapons seemed quite normal, even if skillfully made. What few knew was that each contained a whole world in which millions of dryads had been sent, long before the race had been banished out of existence. It was said that there were a handful of world items in the empire. Two of them were in this very room. It was one of these items that had made Dallion quit the guild a year back. He had been recruited by March to become part of her expedition to explore and restore the world sword. As a result, he had gone solo, all with the goal to gain the skill gem that the realm hid, and through it gain the zoology skills that allowed him to discern the behavior of creatures, and even talk to them when combined with his writing skills.
+
+“We’ve reached the hilt of the first sword,” March said. “All cracklings and other nasties have been defeated, though not the last two guardians.”
+
+“I bet.” Dallion hadn’t come close to defeating any of them on his own. “So you’re going to start a new expedition in this one?” he pointed at one of the swords. Unlike its neighbor, its entire blade was covered in rust and cracks.
+
+“Eventually, yes. That’s not the reason I requested you.”
+
+So, it sounded that she was the driving force behind that. That was to be expected. The guild master was more a behind the scenes type of guy.
+
+“Captain Adzorg is thrilled, I’m sure.”
+
+Within Dallion’s realm, Nil coughed diplomatically. Captain Adzorg was the original who had created him and given him to Dallion, along with an entire library in the realm of a ring.
+
+“The guild master agreed with me on this, so I don’t care what he thinks,” March’s tone became icy. She and the old man had never gotten along well. “I need you to find something for me in the wilderness.”
+
+“The wilderness?” Dallion blinked. That was unexpected. Ever since he’d known her, March had rarely left the city, if at all. For her to make such a request, there had to be something serious at play. “And you want me? I doubt I can offer any skills that you don’t have. Don’t you usually use Vend for that?”
+
+“Your former mentor is unparalleled when it comes to combat splitting, but he’s not adequate for this request. Besides, he’ll never be allowed a hundred miles from where we’ll be headed. And I’m not entirely welcome there either.”
+
+Dallion remained silent. There were consistent rumors that March had messed up big time, resulting in her being kicked out of the imperial guard and outcast to Nerosal. That was the role of the city, after all: a place where all awakened that messed up could live and, potentially, get a new start.
+
+“My name was erased,” she said calmly. “Also, I’m forbidden from using my awakened powers to their full extent in the real world without the archduke’s permission.”
+
+You never told me that, Nil, Dallion grumbled.
+
+It was not for me to say, the echo replied. Besides, I thought you’d have figured it out at some point. All the awakened who have names based on months, flowers, or objects have had their names removed.
+
+I’m not talking about the name.
+
+“You don’t need to decide right away,” March continued. “There’s a lot that needs to be prepared, on many fronts. Not to mention that the festival this year will be rather unusual. The countess doesn’t want a repeat of last year’s chaos.”
+
+I bet. “I take it there won’t be any imperial visitors this time?”
+
+The woman glared at him for three full seconds, then shook her head.
+
+“The imperial family had respectfully declined the invitation, as they have consistently done for years. Archduke Lanitol did the same, though for different reasons. Bottom line, you have until the end of the festival to decide.”
+
+That was almost three months.
+
+“I was thinking of giving the festival a pass this year,” Dallion said.
+
+“Wise choice. That’s why the expedition won’t start immediately after. I’ll remain here for a few more weeks. If you’re not in Nerosal, I’ll assume that you’ve either decided to decline the offer, or the Moons have done it for you.”
+
+That was a good way of putting it. Being the deities of the world, the Moons had the power to do pretty much anything, even if they followed a long set of complicated rules. In this case, though, what March was saying was that there would be no hard feelings should Dallion choose to have nothing to do with the expedition.
+
+“Do I get any details or only once I accept the request?” Dallion moved closer to the swords on the far wall.
+
+“Some believe there’s another world sword out there. Supposedly, it was found in the ruins beneath Nerosal and smuggled out centuries ago. There’ve been hundreds of rumors of such nature throughout the decades, but in this case, our patron believes there’s enough to it for us to go on a search. Once we reach the capital, we’ll be told what to do.”
+
+Red flags popped up in Dallion’s mind. There was no way something this important would be entrusted to mercenaries. The only reason that the Icepicker guild was involved had to be that the Archduke couldn’t trust anyone else in his immediate vicinity. That opened all sorts of cans of worms.
+
+“One more thing,” March added. “There are signs that the sword might be involved in the poisoned crops.”
+
+Just when Dallion thought he had pieced everything together, this caught him completely by surprise.
+
+“How?” he asked before he could stop himself. “The poisonings didn’t start in the empire. They began all the way west.”
+
+“That might be so, but there haven’t been any in more cases since then. Most of the new cases are in the middle of the continent, and according to some of the information from our patron, the sword has also been on the move for a very long time.”

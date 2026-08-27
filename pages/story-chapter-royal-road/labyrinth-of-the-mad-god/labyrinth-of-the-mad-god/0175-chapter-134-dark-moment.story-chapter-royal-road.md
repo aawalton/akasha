@@ -1,0 +1,227 @@
+---
+id: f757afeb-a466-5e69-8d41-3717e0ae81fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 134: Dark Moment"
+slug: 0175-chapter-134-dark-moment
+partOf: labyrinth-of-the-mad-god
+position: 175
+ownLength: 3993
+unit: words
+publishedAt: 2025-05-26
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2307617/chapter-134-dark-moment"
+royalRoadId: "2307617"
+---
+
+Kenji cursed as a fresh wave of clockwork soldiers poured through the portals ringing the battlefield.
+
+Two of the quadrants were still holding strong, but one was wavering, and the other was only heartbeats away from being overrun. He was using every trick that he knew to keep their formation from collapsing, but Team Earth was hanging by a thread, and he was running out of time. If they couldn’t turn the tide within the next few minutes, there was a significant chance that they were going to lose this fight.
+
+“Mirium and Laura,” Kenji ordered as his team came to a stop beside the threatened units. “Soak and shock. Hit them the moment they come into range!”
+
+Mirium stepped forward and started chanting. Pale blue energy flowed out from her core as she channeled her mana into her familiar. The water elemental floating above her formed a pair of lips and then sprayed a heavy stream, soaking the squadron of brass soldiers that had emerged from the portal to his right.
+
+Laura had anticipated his order and begun casting her spell on the run. It was ready to go the instant that Mirium’s elemental unleashed its blast. A wrist-thick bolt of crackling lighting erupted from her fingertips. Her magic crossed the distance in the blink of an eye, short-circuiting most of the constructs and damaging the rest.
+
+Kenji stopped to bisect a clockwork hound that was nipping at his heels. Then he gave the signal, and his warriors charged. They dismembered the mechanical men in a flurry of blades, then shattered the solider portal before splitting up to take out the beast rings on either side.
+
+Across the rooftop of the Tower of Rizzen, a fierce battle raged. Everywhere he looked, his champions fought and bled. Struggled and died. They willingly gave everything they had to offer to win the battle and reclaim their homeworld, even if it meant that their last memory of the Earth was it hanging in the sky above.
+
+Despite a few unfortunate incidents, the first phase of the fight had gone relatively well. However, the situation had taken a dramatic turn for the worse when the second ring of portals arose, teleporting powerful clockwork soldiers onto the battlefield.
+
+Far too many courageous women and men had fallen, but his army was holding the line—gradually pushing the legion of machines back toward the tower’s edge. If this was all that they had to deal with, Kenji was certain they would prevail. But he knew deep in his bones that it wasn’t going to be that easy.
+
+Although these constructs were dangerous, the real problem was time.
+
+The battle was nearing the half-hour mark, and while 55 beast portals and 7 soldier rings had been destroyed, Team Earth wasn’t breaking them fast enough. Not if what Kenji thought was about to happen proved to be the case.
+
+Though fewer in number, the threat posed by the second set of portals had been greater than the first, and he would wager his life against a half-eaten apple that whatever was coming was worse. He had severe reservations regarding the quest’s third phase, and the possibility of a fourth beyond that filled him with a profound and unshakable dread.
+
+But Kenji refused to let it distract him and fought on with everything that he had. All he could do was stick with the plan—keep the army’s frontline from collapsing and break portals like crazy until the next set arrived.
+
+At least he had a hunch as to where they would appear.
+
+On that note, he watched as his team destroyed another medium portal. Then he ordered them to reposition and waved Sophia’s unit over. Ten seconds later, three parties comprised of the best and brightest Earth that had to offer came to a stop in front of the towering hands bookending the Guardian’s colossal face.
+
+The moment that they fell into formation, the battle hit the 30-minute mark and the message that Kenji had been waiting for appeared.
+
+Team Earth has survived for 30 minutes.
+
+This marks the end of phase 2.
+
+Phase 3 will begin in 60 seconds.
+
+The opponents for this phase are: Mechanical Giants.
+
+While this was unwelcome news, it wasn’t a surprise.
+
+As he had predicted, no new cylinders arose from the rim of the tower. The reason why was simple—the mechanisms housing the rings were already in place. A rectangular panel in the center of each fifty-foot hand swung open, revealing a pair of immense azure portals.
+
+Kenji gave the order the instant that the machinery was exposed, directing every unit in range to let loose with everything they had. A battle cry rising from a thousand throats reverberated across the rooftop. Missiles fell like rain as spells formed a shimmering tapestry of destruction. He clenched his jaw to keep his anxiety off his face, although it did nothing to still the wild beating of his heart.
+
+Team Earth had less than a minute to pull this off. If they couldn’t destroy one of the phase-three rings before the double wave emerged, a lot of good people were going to die—let alone the catastrophe that would ensue if the giants’ numbers snowballed past that point. More power than the second phase concentrated in such a small space will make the third far more deadly.
+
+Dense clouds of roiling smoke obscured the portals as the barrage came to an end. Grim foreboding writhed like a serpent in Kenji’s gut when the air cleared a few seconds later. Neither device was disabled, although the rings had taken some damage from the bombardment. Precision projectiles kept on firing as the melee forces charged, but he knew that it was already too late.
+
+Sure enough, through the haze of ash and blaze stepped a pair of thirty-foot tall constructs. He shoved his emotions into a box and rapidly assessed his foe. In battle, the past was dead and unworthy of contemplation, and he’d already moved on to the now.
+
+The giants’ gleaming brass bodies were armored in heavy plate mail. Those plates are at least six inches thick. It will take too long to break through them with conventional attacks. We need to find another way to bring these constructs down.
+
+Both immense machines wielded bladed polearms that were long enough to sweep the ground in front of them. They have complex joints but a limited turn radius. Devastating melee attacks with a wide area. They’re too powerful to block. We’ll need to dodge them instead.
+
+If that wasn’t enough to deal with, the constructs’ vital points were shielded, unless someone could reach their heads. Mother of god. Kenji considered everything he’d observed. Those aren’t giant soldiers. They’re fucking steampunk mechs.
+
+“Pull back,” Kenji ordered as he revised his plans. “We need to reposition the units. We can’t afford to fight the portal guards and these polearm-wielders at once.”
+
+He turned to his unit’s skirmishers—the fastest warriors he had. “Wait until they move away from the portals, then kite them around the rooftop and away from our units. Everyone else, engage the portal guards, but prioritize breaking the rings before the second wave arrives.”
+
+A few of the fighters ignored his command, staying behind to inflict more damage to the machine-spawning devices, planning to retreat at the last possible second.
+
+They didn’t make it in time.
+
+He forced himself to watch as the giants’ weapons lashed out, mowing the warriors down like wheat before the scythe. Two men were cut in half at the waist, and another was flung across the battlefield—dead or wounded Kenji didn’t know. It was a tragic loss, but he couldn’t afford to mourn them now.
+
+Ten steps behind the first pair of giants strode the portal defenders. He analyzed their capabilities as they emerged from the looming circles of light. These brass behemoths carried massive tower shields in one hand and spears in the other. They can’t attack over a wide area, but it’s going to be a nightmare to get past them and break the machinery beyond.
+
+While Team Earth adjusted its formation, the newly-arrived giants positioned their shields to protect the portals. Meanwhile, the polearm-wielding goliaths advanced. His skirmishers ran out to meet the machines, dodging their blades with inches to spare. Then the warriors stepped back, staying just out of reach as they led the constructs away from the units assaulting the portals.
+
+This was a dark moment—a situation that Kenji had been desperately trying to avoid. However, this development was still in line with his predictions. His army was going take more casualties than he’d hoped, but the battle wasn’t over.
+
+The fate of the Earth now hinged on two variables: How long they had until the next giants appeared, and how fast they could break those rings.
+
+He prayed that the time between waves would be longer for the giants than the soldiers. The beasts come every three minutes, and the soldiers appear every five. If more giants show up every seven or more, we can still turn this around.
+
+While Kenji revised his strategy—the gears in his head whirling like never before—the units waited until the skirmishers led the polearm-wielders toward the middle of the rooftop, then got ready to swarm the portals.
+
+While there was still enough space, Mirium and Laura downed a pair of mana potions. The elite mages turned to face one of the shield-bearing giants, then hit it with the same combo that had devastated the metal soldiers.
+
+Mirium’s elemental let loose a high-pressure blast, soaking the killer machine and the ring behind it, then Laura’s lightning lit up the night. Smoke rose from the giant as electricity ran rampant throughout its body, but the big bastard didn’t go down.
+
+Kenji gave the order, and the champions of Earth charged the rings, as the battle arrived at a make-or-break moment. A few brave souls engaged the portal guards, while everyone else attacked the devices behind them.
+
+The giants’ spears darted out with blinding speed. One skewered a woman who was wielding a massive battle axe, then flung her over the edge of the tower. The second target—a woman with bright red hair and simple leather armor—managed to dodge blow after blow, keeping the construct busy while the warriors went to work. She moved so fast that her body blurred with the motion, and he could tell at a glance that she was a martial-arts master.
+
+Meanwhile, Sophia’s party engaged the other spear-wielding machine. A fresh group of summons drew its attention while the others attacked its joints. Sarah cast an illusion to blind the giant, but it seemed impervious to magical impairment.
+
+Behind Kenji’s back, the other units were dealing with the smaller portals while staying out of the skirmishers’ way, but he didn’t have time to watch. All he could do was direct his elite forces and the parties fighting nearby and hope they lived through the day. He issued a final set of orders, then joined the fray himself. If this was going to work, none of them could afford to hold back.
+
+For the moment, the situation seemed manageable, if only by a hair. The giant portal rings were two feet thick, and only a few people could attack each side at once. While they chopped and bashed like mad, everyone else focused on bringing the shield-bearers down.
+
+Although the next series of events only took a few minutes, they seemed to drag on for hours in the time-warped heat of battle. The brave defenders of Earth spread out to surround the metal menaces, pouring the dregs of their vital energy into taking them down before the next wave arrived.
+
+While part of Kenji’s mind counted the seconds, he ducked below a sweeping spearpoint that beheaded the woman beside him, then began hacking away at the giant’s knee.
+
+After enduring another round of their strongest attacks, the towering construct came crashing to the ground, thrashing before it dissolved and sank into the stones below his boots. Its twin was still standing, but one of its arms was missing, forcing the machine to fight by slamming its shield instead.
+
+The warriors attacking the rings were making rapid progress. They only needed to cut through a few more inches to finish the job. He moved to engage the other portal guardian—filled to the brim with a fierce and rising hope.
+
+Hope that sank into a bottomless pit of despair only ten seconds later.
+
+“Shit,” Bret cried out. “The core of these rings is made from a different type of metal. It’s way tougher than the rest.” While this was a worrisome development, it wasn’t nearly as bad as what happened next. Well before Kenji’s count hit the three-minute mark, the blue portals flickered to life.
+
+Horror filled his throat like smoldering ash. Because striding through the shimmering rings came another set of thirty-foot killing machines, wielding a pair of staves topped with gems that shone like the rising sun.
+
+It’s only been two and a half minutes. This is bullshit. The time between waves should be getting longer, not shorter. This isn’t even remotely fair.
+
+Kenji wasn’t sure if there was a limit to the number of constructs that could pass through the portals, but in the end, it didn’t really matter.
+
+Dealing with the clockwork giants that were already on the field had pushed Team Earth to the limit. Facing five at once with more on the way was a flat-out impossible task. Even if he sacrificed every member of his elite units, he doubted that they could break more than one ring before the machines slaughtered them all.
+
+While Kenji was willing to lay down his life, it wouldn’t win the fight, and the casualties would start to skyrocket within a fleeting handful of heartbeats.
+
+Even still, he refused to die without fighting until his final breath, running every second he could off the clock. He shook his head to clear his mind. Before he worried about what happened next, he needed to survive the crisis at hand. The first giants are melee models, and the second set are tanks. What powers will this wave have?
+
+“Pull back twenty feet and turtle up fast!” He gave the order, and the units sprang into motion. “I need magical barriers now. Use every consumable you have, then prepare for an artillery strike and keep your heads down.”
+
+As myriad barriers sprang into being, Kenji reached behind his back and unstrapped his tower shield from the strap that allowed it to shrink. He slammed the massive amalgamation of wood and steel down, then activated Bulwark and added its dome of protection to the mix.
+
+The newly-arrived giants unleashed their wrath a bare second later. Burning beams the width of his waist erupted from the shining gems, sweeping across his forces like lasers. The searing rays collided with the units’ overlapping defenses in a contest of magical might.
+
+Kenji couldn’t do anything other than pour mana into his shield, watching with wide eyes as a blinding beam shattered one barrier like a Fabergé egg.
+
+It killed every person inside, then panned across the rooftop before winking out of existence. Two more warriors were reduced to cinders in the blink of an eye. Another was aflame, running and screaming until someone tacked him, smothered the fire, and poured a healing potion into his mouth.
+
+The ray boring into Kenji’s shield flickered and died a few seconds later, but it was only a matter of time before the mechanical mages let loose another barrage. Worse, another set of giants would emerge from the portals in less than two minutes, and the last attack had driven Team Earth away from the rings.
+
+He knew deep in his bones that his army was about to be wiped out, despite their brilliant performance up to this point. He changed his objective in that moment, trying to find a way to beat the quest, even if everyone on the rooftop died to make it happen.
+
+But even that seemed like an impossible goal.
+
+He considered pulling back—having his people scatter to the wind, run like mad, and try to run out the clock—before deciding that it was a trap.
+
+At the rate that the constructs were receiving reinforcements, his troops would be dead in less than fifteen minutes. And that didn’t even take into account the possibility of a fourth phase. Our only chance is to gamble that we can break both blue rings before our elites fall, then pray that at least one of us lives long enough to complete the quest.
+
+“Hit the big portals with everything you have!” he cried. “This might be the end, but I’m not dying before they fall.”
+
+His team let out a wordless roar, burning through the last of their reserves. The sky disappeared behind a resplendent tapestry of deviation, as spells engulfed the azure rings and arrows fell like rain.
+
+When the smoke cleared a few seconds later, Team Earth let out a collective groan of dismay. While they had destroyed the remaining shield giant, the mages’ staves were already shining bright again. The moment that their beams appeared, every person within 100 yards would be reduced to ash on the breeze.
+
+Fuck. We’re totally fucked. Both portals still stood, his army was running on fumes, and the clockwork colossi were ready and eager to settle the score.
+
+In that moment, Kenji knew. Checkmate had arrived, and he was experiencing humanity’s final hour.
+
+Well before the clock hit zero, they were all going to die, and every creature that called the Earth home would die with them.
+
+Even standing on the precipice of annihilation, Kenji refused to surrender. He raised his spear and prepared to charge, intending to go down fighting no matter how hopeless the odds. All he could do now was drag the battle out as long as possible and pray that a miracle appeared.
+
+He turned to face the closest giant and advanced—every scrap of concentration focused on making his final effort count. Ten seconds until impact.
+
+The immense metal machines raised their burning rods, poised to strike as one.
+
+With death staring Kenji in the face, his perception of time slowed to a crawl. It gave him a moment to appreciate his impending demise in stark detail as Team Earth bellowed their final battle cry. Eight seconds.
+
+At that same instant, a message from the System appeared.
+
+Late arrivals from Team Earth have climbed the Tower of Rizzen and arrived on the rooftop.
+
+As the update faded away, a radiant pillar appeared beside him, like a spotlight was shining on the battlefield from above.
+
+In the heart of that frozen moment, each millisecond sailed by at a glacial procession, giving Kenji a chance to process what he was looking. Six seconds.
+
+Two men were descending toward the tower’s roof on a floating platform—profiles outlined by the brilliant blue Earth above.
+
+One warrior was wreathed in a fiery aura—so bright that Kenji had to squint to look at him. His armor was covered in a layer of lava, and his two-handed axe was glowing like the heart of a star.
+
+The other man was shrouded in a translucent nimbus of concentrated magical energy. Mana warped the space around him like air rising from sun-warmed stone. He held a curved sword that was bathed in silvery magic—pure like the light of the moon.
+
+Kenji had no idea what was happening, but their appearance filled him with a frenetic hope—like his body had touched a live wire. Even with events proceeding in slow motion, the warriors were coming in fast. By now, their platform had closed half the distance to the battlefield. Five.
+
+That was when he realized that he recognized both men, if not the incredible powers at their command. Holy shit. That’s Devin and Nick! In between one heartbeat and the next, time resumed its full course.
+
+Three seconds. Hope and despair warred within Kenji’s breast. Despite their dramatic arrival, the men weren’t going to make it before the staff-wielding giants reduced his unit to char. However, the duo didn’t wait for the platform to reach the ground.
+
+They braced their boots against the edge, pointed their bodies at the mechanical mages, and sprang into motion. Nick kicked off the platform’s rim with the full power of Force Acceleration, transforming his body into a streaking blur. Devin used an ability that made fire erupt from his feet, sailing toward the constructs while trailing flames like a comet.
+
+What happened next was so fast that Kenji only caught part of it. A bare second before the giants unleashed their wrath, the heroes collided with the towering colossi. Devin’s burning battleaxe roared like a dragon, and Nick’s silver sword looked sharp enough to sever space itself.
+
+In a twin flash of silver and crimson, their weapons came down, carving into the clockwork magi with meteoric force before their boots hit the ground a heartbeat later. One staff-wielding titan had a silver line drawn diagonally across its torso. Its beam flared to life for a fraction of a second, before its body slid apart, staff and all.
+
+Devin’s symphony of destruction was in another key. His axe hit the machine’s shoulder, cleaving the arm carrying its staff before lodging itself deep within the giant’s torso. His weapon was burning so hot that a waterfall of molten metal was pouring to the ground.
+
+Both towering titans came crashing down with a thud of finality—bodies dissolving before soaking into the stone.
+
+Kenji pushed past his shock and forced himself back into action. This was a miraculous development, but the battle wasn’t over yet.
+
+Devin and Nick were down on one knee with one set of knuckles braced against the cratered rooftop, having suffered no damage from the incredible impact. Then the men rose to their feet, looked his way, and smiled.
+
+“Kenji,” Nick said. “Sorry we’re late. I had some pressing business to attend to.”
+
+“You’re here now,” he replied—still processing that this was really happening. “That’s all that matters.”
+
+In that moment, Kenji thought the worst was behind him. But Nick’s next words revealed that there was one last challenge to overcome before the day was won.
+
+“The fourth phase is a trap, but I know how to disarm it. I need you to deal with the clockwork army while we engage the Guardian of Darkstone Tower. Break one of those big rings now but leave the other standing until the Guardian arrives on rooftop.
+
+“Each portal that goes dark during the first three phases reroutes power to enhance the boss’s capabilities. If you break all the rings of one size, it will multiply the effect, and we won’t be able to kill it. Once its unplugged and on the battlefield, you can destroy the remaining portals without consequence and finish wiping out the construct army.”
+
+Kenji didn’t know how the man had obtained this information and there wasn’t time to ask. There were hundreds of constructs surging across the rooftop, including the pair of polearm-wielding giants, and more were arriving every few minutes.
+
+Sophia’s party had come running while Nick finished his explanation. They stopped long enough to share a few words, then everyone burst into motion.
+
+While the duo dealt with the Guardian, Kenji ordered his unit to attack the blue portal that had taken the most damage, reducing it to a lump of twisted metal over the next thirty seconds.
+
+He ordered half his forces to help clear the rooftop, while the rest waited for the next giant to appear.
+
+Kenji’s army was wounded and weary. Ragged and running on fumes. But with Nick and Devin heading out to defeat the boss of Darkstone Tower, humanity could hold on a little longer.
+
+The climax of the last battle was fast approaching, and it was time for Team Earth to strike back.

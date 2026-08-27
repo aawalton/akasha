@@ -1,0 +1,79 @@
+---
+id: 88b8a56a-548e-5d4b-9a03-59c65df45552
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48: Tactics and Teamwork"
+slug: 0329-chapter-48-tactics-and-teamwork
+partOf: labyrinth-of-the-mad-god
+position: 329
+ownLength: 1601
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3703141/chapter-48-tactics-and-teamwork"
+royalRoadId: "3703141"
+---
+
+Nick hit the wall hard.
+
+The impact would have broken every bone in his body if it wasn’t for Force Armor. He should have deactivated Force Acceleration before he struck the stone, but the blow had rattled his brain enough to stun him for that critical fraction of a second.
+
+The shell of force mana shattered, but the aura and his Battlemage Armor absorbed enough of the impact to keep him upright. The pain radiating from his chest told him he had cracked several ribs and suffered significant internal damage.
+
+The dreadbeast monarch was eager to finish the job. The creature was looming before him, prehensile tail poised to perforate his body. Nick forced himself to take a staggering step as he reached for the magic within, knowing there wasn’t anything he could do that would be ready in time.
+
+Before Xuthu could claim his life, his friends were there.
+
+While the Storm Lord was distracted, the beasts made their move. Lurk and Bandit leapt off balconies from opposite sides of the room. The lemur was using his Shadow Mantle to buffer himself against the lightning and the dinosaur was free casting a layer of force mana that served the same purpose.
+
+They landed as one. Lurk’s talons dug into the scorpion’s chitin along one flank, carving through the golden carapace and into the tissue below. Meanhile, Bandit infused his sword with shadow magic, letting the blade pass through the shell and pierce the flesh beneath.
+
+Their mana had already been consumed so they pulled back, dodging bolts of dread lightning along the way. The creature screamed in fury as Kenji advanced from behind, unleashing a Penetrating Thrust with his spear before darting back into position in front of the doorway.
+
+It gave Nick a chance to slam his Elixir of Restoration, recover his stance, and get his head back in the game. He sighed in relief as the wonderous brew infused him with health, mana, and stamina at the same time. Xuthu was starting to turn. He couldn’t afford to let the Storm Lord change targets, so he hit it with Sonic Slice.
+
+Blightbane wasn’t in its sheath, but his recent upgrades to Dexterity and Strength were sufficient to make up the difference. It meant he could diversify his force blade attacks by adding new angles, but pondering the possibilities would have to wait. Accompanied by a sonic boom, the projection slammed into the scorpion’s body, sending it skittering to regain its balance as it spun to face him once more.
+
+This marked the beginning of a frenetic exchange.
+
+The dreadbeast let loose with a blisteringly fast barrage from its claws and tail, occasionally firing a bolt of dread lightning or tossing a leg thrust into the mix.
+
+Meanwhile, Bandit changed tactics. He knew attacking Xuthu’s exoskeleton wouldn’t do much damage before the lightning absorbed his Shadow Flame. Instead, the lemur launched a barrage of inky darts and sent them streaking for the scorpion’s eyes. It was forced to block the precision strikes, lest the spells slice and sear its sensory organs before they were dispersed.
+
+From time to time, the lemur fired a flamethrower into Xuthu’s path to obstruct its view, using shadows to teleport to attack from unexpected angles. In a particularly brilliant move, Bandit summoned his Shadow Clone, packing more magic into the manifestation than Nick had seen before by an order of magnitude.
+
+When the clone leapt down and fired a fireball into the dreadbeast’s face, its tail came whipping around in what it assumed was a lethal strike. When the shadowy figure was impaled on the venomous barb, it exploded, covering the monarch’s head with a thick layer of Concept-infused magic that did considerable damage before it was drained.
+
+Meanwhile, Lurk kept the boulders coming, occasionally running back to the hallway to roll in another set. Although she used force mana to launch them, they were purely physical attacks. While they couldn’t deal critical damage to the Tier-2 creature, the dreadbeast couldn’t stop the stones with its magic or absorb any energy from them.
+
+The strikes were sufficient to scuff its shell and bruise the tissue below, serving as a painful distraction. Better still, the boulders had enough mass to knock the dreadbeast off-balance, helping Nick survive as the intense melee wore on.
+
+During the exchange, Lurk was hit by the fell green bolts Xuthu was firing in all directions. However, she could recover her health with Regeneration and was devouring potions to restore her stamina and mana, which Nick had lined up against the wall before the battle began.
+
+While eating glass bottles sounded like a bad idea, to a beast with her level of Toughness, the shards didn’t do any damage at all, letting her consume the concoctions without having to deal with trivial concerns like popping the caps or tilting them to take a drink. In just a few seconds, the beast was back in the fight, flinging boulders for everything she was worth.
+
+It was a remarkable display of discipline and restraint. Lurk’s instincts told her to jump down and battle with talon and tooth. The beast knew that was a losing proposition against an enemy shielded by life-draining lightning, and she was learning to rely on tactics and teamwork instead of brute strength.
+
+All the while, Nick traded blows with the Tier-2 monarch. While a single mistake could cost him his life, he was starting to adapt to Xuthu’s combat style. Size Up and Sixth Sense were working overtime to provide more details, and Arctic Clarity honed his awareness to a razored edge. He had the advantage in perception and processing power, but Xuthu was considerably stronger. They felt evenly matched as far as Dexterity was concerned, and they were both insanely fast thanks to their abilities.
+
+He was immune to the dread lightning, but it could erase the mana powering his spells, making them significantly less useful. Fortunately, Blightbane had been designed to withstand the Crimson Blight and could withstand the drain too, even if it wasn’t safe for the Kastillan king to manifest outside the sword.
+
+Taken together, Nick was able to go head-to-head with the Storm Lord in a direct exchange of blows. He had to focus on parrying rather than blocking, leaning hard on his powers while waiting for an opening. It took everything he had to deal with both claws and the dreadbeast’s tail at the same time, with an occasional body check or limb thrust added to the mix.
+
+He was flung back on numerous occasions, but after taking the heavy hit earlier, he managed to switch off Force Acceleration before slamming into the wall, causing a projection to rocket out and strike the stone as his body came to a gentle stop.
+
+Although Nick was putting on the best performance of his life, engaging the Storm Lord wouldn’t have been possible without the rest of the party providing constant distractions to divide its attention, along with the guidance provided by Fritz and Tactical Command.
+
+Even when the dreadbeast was focused on him, it sent life-draining magic arcing their way every now and again. He blocked some of the strikes with Arcane Shield, and the beasts were doing their best to dodge, but they couldn’t evade them all.
+
+Fortunately, Force Armor wound up offering partial protection. The monarch’s energy-sapping magic didn’t differentiate between various forms of vital energy. The bolts absorbed the mana from his aura before draining his friends, mitigating the damage they suffered.
+
+The balconies and the hallways ringing the second story were too narrow for the scorpion, which meant the beasts didn’t have to worry about physical attacks for the time being. Xuthu could overwhelm Kenji if they weren’t careful, but the warrior had turtled in a defensible position and was using Bulwark and his tower shield to keep the dread lighting from stealing his stamina and health.
+
+The situation might have seemed like a stalemate if viewed from a distance, but Nick knew that wasn’t the case. One way or another, the battle was heading toward its inevitable end, although the victor had yet to be decided.
+
+The monarch’s magic could drain vital energy, but it still cost mana to cast, which made the spell’s efficiency vary wildly depending on what it hit and how long it remained in contact. Additionally, Xuthu’s dread lightning could steal stamina, mana, and health, but it couldn’t convert one form of vital energy into another. While it had been draining plenty of mana from absorbing all spells, the party had prevented it from claiming much stamina and health.
+
+At the moment, the dreadbeast’s energetic core was about two-thirds full, but fatigue was starting to take a toll, and Nick’s team was gradually racking up the damage. On the other side of the equation, the party was burning through their vital energy faster, but they had potions to refuel their resources, making the battle extremely even thus far.
+
+His team had a decent chance of winning, but a single miscalculation could shift the scales the other way. Given how deadly Xuthu was, taking a direct hit would result in a crippling injury or outright fatality. Unfortunately, nothing they could dish out was powerful enough to score a killing blow, which meant their path to victory involved wearing the dreadbeast down faster than it could heal, and finishing it off once the creature was critically vulnerable.
+
+The monarch was adapting to their tactics too, but Nick and his friends had several surprises in store they’d been saving for a rainy day, and it was raining now.

@@ -1,0 +1,105 @@
+---
+id: d7c68d4d-74fb-5081-8867-aa5611b29a60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50: Brick by Brick"
+slug: 0233-chapter-50-brick-by-brick
+partOf: labyrinth-of-the-mad-god
+position: 233
+ownLength: 1958
+unit: words
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2661524/chapter-50-brick-by-brick"
+royalRoadId: "2661524"
+---
+
+Nick walked beside Kenji and Liz, continuing their discussion while heading toward the area they had chosen—followed by a crowd of curious people who wanted to watch Aurora’s first buildings appear.
+
+Along the way, Kenji turned to him and said, “We need to earn as many City Points as possible, now that the quest is in full swing. I’ll put my head together with some of the party leaders a little later in the day and see what we can come up with.”
+
+“I’ll start hammering out a proposal for Aurora’s Contribution Token system,” Liz added. “We need to set up a token exchange where people can redeem them and post a list of activities and rewards that will encourage our residents to help us reach various goals for the settlement.”
+
+“We should issue tokens to anyone helping with construction, scouting, or guard duty.” Nick rubbed his chin. “Along with anything else you can think of that will help us get started off on the right foot. I have some gear and resources I can donate to get the exchange started. We should start buying people’s extra equipment with tokens too. Since we’re selling to ourselves, I don’t see a point in trying to turn a profit, but running the exchange needs to pay for itself.”
+
+Having the right person in charge of the operation will be critical.” Kenji nodded his agreement. “Coming up with the broad strokes is easy, but I don’t know how to build an economy from the ground up, prevent inflation, or set an exchange rate that will pair well with the barter and trade most people will be using until we establish relationships with other settlements and have some kind of hard currency.”
+
+“Let people spend tokens on various perks too,” Liz suggested. “Early access to new facilities, priority housing—that kind of thing. It will take some work to implement a token system everyone will be happy with but managing expectations and making sure people’s needs are met are areas I excel in. I’ll need some help ironing out the details, and you’re right about needing an expert to oversee the operation. In the short-term, the exchange will help us jumpstart our economy, with the tokens serving in place of printed or minted money.”
+
+Their conversation wound down as they arrived at the sunny stretch of orange soil where they had decided to start building, and everyone was excited to find out how the process worked. The crowd had doubled in size over the last few minutes, and more people were on the way—Devin and V among them.
+
+When everyone came to a stop, Sarah conjured another illusion, displaying the ideas they had been discussing so everyone could follow along. Meanwhile, Nick pulled up the placement menu—ready to relay the dimensions and details of the buildings in question.
+
+There was a brief discussion about whether he should use City Points to build a road now or let the earth shapers handle it later. When he reported that the highest-quality road would include a drainage system, anti-slip texturing, and the appropriate support to let it bear wagons carrying heavy loads, they decided to go for it.
+
+Adding all those features was far more complicated than simply positioning and smoothing sheets of rock like the mages had done to create the dance floor, and they needed to test out some ideas and refine their technique before they were ready to build something like that by hand.
+
+With that out of the way, Nick browsed through his list and selected the largest supply depot he could purchase for a Common voucher. While he provided the details, Sarah updated her illusion, and Kenji drew lines in the dirt to mark the exact placement they wanted.
+
+He was relieved to see that the System automatically deactivated the confirmation button while someone was occupying the same space as the overlay. I don’t have to worry about accidently crushing someone who is Blending or arrived when I wasn’t paying attention.
+
+After mulling over a few final details, all that was left was to confirm his selection and place the city’s first building. Nick moved the holographic overlay inside the lines Kenji had drawn, then signaled his intentions to the System.
+
+The leader of Aurora has purchased:
+
+1 Large Supply Depot (Common).
+
+Everyone let out a cheer as the System’s magic congealed around the area he had chosen.
+
+First, it dug into the soil and packed the ground tight. Then a concrete foundation grew into being, building itself up layer by layer like an invisible 3-D printer. Next came four brick walls, followed by an all-weather roof formed from wooden beams and ceramic tiles.
+
+When it was finished, everyone crowded in to take a closer look. Because Nick had chosen a Common building instead of a Basic, the concrete and brick were high-grade—much stronger than their Old Earth counterparts and able to withstand considerable punishment. The walls were insulated and the portals featured weather seals that would protect the goods inside from the elements.
+
+There weren’t any lights, but those would be easy to add by hand. The ceiling was forty feet high, and in addition to a massive sliding panel that functioned as a loading dock, there was a door on the opposite side of the building.
+
+“This quest is awesome.” Devin whistled while admiring the structure. “It will let us get the core of our city up and running in weeks instead of months.”
+
+“I can’t wait to see what some of the more expensive buildings look like,” Veronica added.
+
+While everyone chatted about what the future might hold, Nick placed two more supply depots down about twenty feet apart, leaving room to park wagons or stack loads between them. The city-building overlay made it easy to align everything perfectly, with the loading docks facing the same direction where they would attach to the road he was planning to build next.
+
+The leader of Aurora has purchased:
+
+2 Large Supply Depots (Common).
+
+By the time Nick opened the road menu, people were already discussing the best way to use the depots. One of them would be designated as open access—where residents could store their gear and access it whenever they wanted—and the rest of the space would be used to hold timber, stone, and the other natural resources Aurora required to start building by hand. We’ll need something different to store food. I’ll look at those options a little later.
+
+Roads had to be purchased with CP, and to build the highest-quality version at thirty-feet across would cost 200 points to extend across the entirety of Aurora’s domain.
+
+While he familiarized himself with the interface, everyone walked to the southern end of the city’s territory and waited for the show to start. There were a few cosmetic choices too, and since no one had brought up the matter, Nick took the liberty of making the decision himself, based on his own sense of style.
+
+After double checking the image Sarah had conjured, he selected a tool that would keep the road straight, made sure one edge would connect to the depots, then placed the first strip. The System dug a shallow foundation as it went to work. A few minutes later, the street was finished, and everyone stepped onto it to try it out for themselves.
+
+The road was made of white paving stones that were elegant and incredibly durable. They were closefitting, with gaps for drainage at regular intervals, and perfectly level. The surface was textured to prevent slipping, and it would be easy for a wagon to roll down the street without undue shaking.
+
+The crowd followed in Nick’s wake as he continued laying down Aurora’s Main Street. He was pleased that the construction interface was intuitive and fun to use. Instead of placing it all at once like the buildings, he assembled the road in short segments that he could freely position. There were a ton of options for attaching it to other thoroughfares later, which he didn’t have to worry about now.
+
+Main Street ran straight across the middle of the city’s domain. It connected to the front of the supply depots, which would make it easy to unload various resources going forward.
+
+As Nick finished up the last bit, he listened as the people behind him discussed plans for constructing more buildings the old-fashioned way, which should be relatively easy with their superhuman bodies, new Professions, and magical abilities.
+
+Aurora’s population included several experts who were ready to survey the surrounding terrain and sub-biomes, then decide how much they could harvest without damaging the ecosystem or causing conflict with their new beast neighbors. Liz was confident that before long, all their food and lumber could be grown in cultivated areas with minimal environmental impact, but for now, they needed to take advantage of what the badlands had to offer.
+
+Materials like stone and metals weren’t renewable, but with the Earth being so much bigger than before, collecting enough to build the city and jumpstart a wide range of industries shouldn’t be a problem.
+
+When the road was finished, all that was left was to place the barracks. They decided to set it close to where they planned to build the town square. Kenji wanted the structure to be central and easily accessible, since it was going to double as their hospital for the time being and would eventually serve as a hospice for visitors.
+
+After looking through his options, Nick decided to spend his first Uncommon voucher. It let him pick a design with reinforced walls, big crystal windows that wouldn’t break, and enough beds for fifty people. It was insulated and weather sealed, and had a hookup for indoor plumbing, so they could add some sinks, showers, and toilets later.
+
+When he confirmed the prompt, the System manifested the building, leading to another round of cheering.
+
+The leader of Aurora has purchased:
+
+1 Large Luxury Barracks (Uncommon).
+
+In the end, he wound up using one Uncommon voucher, three Commons, and 200 CP, which he considered to be wisely-spent given the circumstances. Watching the buildings come up had done wonders for morale, and everywhere he looked, Aurora’s citizens were buzzing with excitement.
+
+People were already loading up the depots and moving the wounded into the barracks, along with anyone else who was tired of sleeping outside. Nick decided that he’d done enough building for one day. He wanted to grab lunch, start looking into the tests of mastery, and get in some training before deciding how he wanted to spend the next few days.
+
+Kenji and Elizabeth were brainstorming on where they wanted to place the city’s districts when Nick left them, with a promise that they would meet up in the morning to talk over the next set of purchases.
+
+As he walked back to the hollow mesa, he turned around to inspect his handiwork. Seeing the road and buildings rising from the middle of the badlands—just a short distance from the picturesque lake—filled him with pride and optimism for the future.
+
+He knew their lives would never be easy, but staring at this tangible testament to everything his people had accomplished left him grinning while wondering what tomorrow would hold. Soon, Aurora would be a bustling city—a symbol of humanity’s triumphant return to the world of their birth.
+
+Right now, people were still congregating at their old base camp, so he decided to stop by and see if the communal kitchen was still there. When he stepped inside the mesa, a familiar aroma crossed Nick’s palate, making his eyes go wide with the prospect of reuniting with a long-lost friend.
+
+“Holy shit.” He broke into a broad grin. “Someone is making coffee.”

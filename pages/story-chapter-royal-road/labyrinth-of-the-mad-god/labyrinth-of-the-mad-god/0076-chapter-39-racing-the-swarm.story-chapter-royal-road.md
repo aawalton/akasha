@@ -1,0 +1,89 @@
+---
+id: 608d6bd1-124c-5456-8f0e-790810644d95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39: Racing the Swarm"
+slug: 0076-chapter-39-racing-the-swarm
+partOf: labyrinth-of-the-mad-god
+position: 76
+ownLength: 1590
+unit: words
+publishedAt: 2024-10-16
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1853519/chapter-39-racing-the-swarm"
+royalRoadId: "1853519"
+---
+
+Nick, Veronica, and Shaun ran for their lives, sprinting down the corridor for everything they were worth.
+
+Behind them, a ravenous horde of clockwork rats flowed down the passage like a tidal wave, followed by a squadron of gear-scorpions and turtles. The clatter of brass claws clacking against stone grew louder by the footfall as more and more rats joined the swarming mass.
+
+Nick and V were gradually drawing ahead, boot leather pounding the pavement as they burned stamina to enable a prolonged burst of speed. But Shaun was in serious danger of falling behind and being overtaken by the deadly constructs inhabiting the tower’s basement.
+
+Despite his best efforts, the man was too weak to be anything other than a liability at this stage. Shaun had insufficient attributes to perform at their level and was unable to consciously use stamina until his pool was bigger.
+
+The clockwork swarm had noticed their presence a few hours back, largely thanks to Shaun not being able to move as quietly as the rest of the party. Although Nick had to admit that it would have been tricky even without him. While trying to evade the rats’ patrols, Shaun had kicked a piece of loose rubble, alerting the machines to their presence and precipitating the current crisis.
+
+Once the rats knew they were in the area, they had begun hunting the party in earnest. The trio had avoided the first set of scouts that came rushing their way and the second group too. But then the mechanical menaces had spread out, sending hundreds of constructs down every passageway and through every door, until there wasn’t anywhere left to hide.
+
+Eventually, the rats had drawn close enough to hear the party’s breathing, all the swarm needed to home in on their position.
+
+After Nick’s team had been discovered, their only option was to run for their lives. They couldn’t afford to get caught with that many constructs coming for them at once. It wasn’t a fight they could win, so they had decided to make a break for the stairwell instead.
+
+Over the last half hour, his party had managed to stay one step ahead of the swarm. Over time, additional machines had come pouring through the adjacent passageways, until there was only one clear path to follow.
+
+They might have been able to get away if it wasn’t for Shaun. Nick didn’t care for his company, but that didn’t mean he was willing to leave him to be eaten alive. But if the rats caught up, they might not have a choice.
+
+Nick couldn’t do more than delay the swarm for a few seconds with his wand. Even another web/napalm grenade combo wouldn’t take out more than a fraction of the killer machines, since many of the constructs had red shields by this point.
+
+Just as Nick was deciding that he had no choice but to let loose a blast to drive the rats back, Veronica noticed something that changed the dynamics of their situation entirely.
+
+“Something is strange,” she said. “They aren’t trying to close the last bit of distance, even though we’re not moving as fast as we were at the start. Slow down a little, I want to see how they react.”
+
+“You want me to keep running for my life.” Shaun spoke between gasps. “But put just a little less effort into it?”
+
+“Shut up and tap the brakes for ten seconds,” she replied. “I don’t think that they will try to get any closer.” Shaun gave her an incredulous look, but the three of them slowed down just a bit.
+
+When Nick looked over his shoulder, he saw that Veronica was right. The swarm had reduced its pace to match. It hadn’t abandoned its pursuit, but it wasn’t trying to close the distance either. Stranger still, the gear-scorpions weren’t firing any shots, although the closest bunch was now within range.
+
+“Huh,” Shaun said. “I think you’re right. What do you think it means?”
+
+“Either they’re driving us into a trap, or they are trying to control our behavior for another purpose,” Nick said. “I don’t think stopping is a good idea, but we should moderate our pace so that we can recover our stamina for a while.”
+
+“Whatever is going on, they are leading us in the direction we want to go.” Veronica pointed to the wall, where an arrow was drawn in charcoal. “That must be a message for us left by Sophia and Devin. We’re heading in the same direction they are.”
+
+“Does that erase my fuckup?” Shaun asked.
+
+“Not really.” Nick sighed, and then relented. “But just this once, we’ll call it even.” Not long after, he could hear echoes coming from ahead. They started off faint and indistinct. But as the party progressed down the passageway, it became clear that it was the clamor of combat.
+
+“Someone’s fighting down there,” Veronica said. “We should hurry, it might be the rest of our team. No matter what is going on, we’ll be in better shape to deal with it once we’re finally back together.”
+
+Not long after, the far end of the passage became visible. The clockwork swarm came to a stop, not following the trio past that point, although they were still blocking the only route leading in the other direction.
+
+The reason why became clear when they reached the end of the hall and Nick saw what was going on ahead of them. In the middle of the room, the Janitor was in the middle of fighting hundreds of roaches at once, with a massive bug looming behind them that had to be their queen.
+
+The movements of the giant insects were faster than before, and their attacks were in perfect coordination with each other. The queen must be buffing them somehow and directing their assault. This looks like something other than a simple trap or ambush.
+
+While it was a better situation than he had hoped, Nick couldn’t see any sign of Sophia or Devin. He was afraid that they had already been killed by the warring forces. He scanned the room with increasing desperation. Where are they? There!
+
+He caught sight of the team’s missing members at last. They were over on the far side of the room, fighting a dozen roaches in front of a gigantic machine. It gave him déjà vu of the time he and Sophia had battled the giant centipedes back on Blackmist Bog, although this melee was far more chaotic.
+
+He felt a surge of relief in seeing them alive, followed by a tsunami of adrenaline as he took in the scale of the conflict.
+
+Everywhere that Nick looked, insects were swarming for the massive creature. Most were crushed and pulverized by invisible forces before they drew near, although plenty of bugs had closed to melee range and were fighting the Janitor mandible to claw.
+
+At least the Janitor hadn’t reached his friends yet. It seemed to be trying to break through and attack them, rather than pushing toward the exit or the roach queen. It must be starved for essence, just like Rizzen’s log said. That explains why it chased them in the first place, and why it was willing to follow them into the roaches’ den.
+
+It seemed that the arrival of Team Earth had ended the long stalemate between the Janitor and the roach horde, kicking off an all-out war. The rats drove us in here deliberately, Nick realized. They must be planning to end the conflict once and for all. They’re waiting in the tunnel for an ideal moment to strike, mitigating their losses in the meantime.
+
+The constructs were even more intelligent than Nick had thought, or whatever was controlling them was. Instead of trying to take out the party, the swarm had used them to make a major play. Now they were ready to take out the competition and claim the floor’s resources for themselves.
+
+But he didn’t have time to ponder the matter now. All that mattered now was getting the party back together, then surviving the conflict playing out before his eyes. Fortunately, the Janitor and the horde hadn’t noticed their arrival yet.
+
+Nick’s group started running along the wall, circling the room to stay out of the thick of it. He took in the carnage as he fought to close the distance. Jets of flame flew alongside spews of acid. Beams and bombs of force detonated with every beat of his heart, throwing corpses and debris into the air.
+
+The roaches seemed to be doing some real damage, but the Janitor was healing almost as fast. Its attacks hadn’t been able to reach Team Earth or the roach queen yet, but it was still advancing, and at least a quarter of the horde had already perished.
+
+He looked over at Sophia and Devin, hoping that they could break free in the chaos. But the worst of the fighting was directly between them and the corner they were trapped in. If they tried to get away, they would be surrounded within seconds, and one stray blast from the Janitor would cripple or kill them.
+
+It seemed that the only way to survive was to join the fight. The party needed to thin the enemy’s forces or somehow tip the scales in favor of the roaches, then figure out how to break past the construct swarm and make good on their escape.
+
+A four-way battle in the tower’s basement had begun and Team Earth was back at full strength.

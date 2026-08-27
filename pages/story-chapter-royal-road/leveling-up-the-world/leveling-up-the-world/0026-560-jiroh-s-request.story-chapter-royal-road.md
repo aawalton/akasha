@@ -1,0 +1,187 @@
+---
+id: 0df7c0b5-1201-5cac-9aa6-121d326d57d8
+page-type-slug: story-chapter-royal-road
+title: "560. Jiroh's Request"
+slug: 0026-560-jiroh-s-request
+partOf: leveling-up-the-world
+position: 26
+ownLength: 2030
+unit: words
+ownProgress: 2030
+publishedAt: 2022-08-02
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/961909/560-jirohs-request"
+royalRoadId: "961909"
+markedReadAt: "2026-06-29T22:41:03.473Z"
+---
+
+“Jiroh?” Dallion took a step back in the air. “I thought you left.”
+
+“Nice to see you haven’t lost your rough edges even after all that leveling up. I’m still in my world, but my Moon agreed to let me talk to you.”
+
+“This is a dream?” Dallion looked at his hand, trying to remember how he had gotten here. No matter how hard he tried, he always came to the same conclusion: he had always been there.
+
+The clouds broke up, revealing a better view of the sky. As Dallion looked, it shifted from blue to black. Then, an orange moon appeared.
+
+“It’s a dream, but our conversation is real. More importantly, you’ll remember it.”
+
+Logical thinking returned; it was as if a veil had fallen off Dallion’s mind, making him think outside of the dream once more. He was suddenly aware of him being asleep in his room. Most likely Jiroh was asleep as well in her world. A year ago, he had frequently visited temples, praying to the Moons to have a talk with her, but it had never been a good time.
+
+“How are things there?” Dallion asked.
+
+“Things are getting better. The world is changing and I’m part of the change. My Moon seems to find it amusing, so she’s supporting me. Sometimes, she even shows me images from the awakened world.”
+
+Dallion didn’t know whether to be hurt or grateful. He wasn’t the only person who missed her. It would have been nice if the Moon had let her talk to Eury, Hannah, or her sister even. Then again, there was no way for him to know that it hadn’t been happening.
+
+“You’ve taken on my role, I see,” Jiroh said.
+
+“Hardly. I became a hunter a week ago.”
+
+“I’m not talking about that. I’m talking about the missions Hannah’s been giving you. How many pieces have you found so far?”
+
+“Pieces?” Dallion wasn’t sure what she meant. He’d found four items, but he wasn’t aware they were pieces of something.
+
+“I found twenty-seven and missed four. A word of advice: don’t get too stressed about messing up. The pieces have no end, so take it easy.”
+
+“A marathon, not a sprint?” Dallion asked.
+
+“I’m glad you picked that up.” The fury smiled. “That’s not what I came to talk to you about. I’m here for a favor.”
+
+“What happened?” Dallion instantly thought of his experiences in the world of furies. He had entered it purely by accident, and it had taken a lot for him to return back. It was an interesting place full of curies and cloud creatures living in vast cloud cities. However, as interesting as it was, it was also poisonous to him. Worlds did not tolerate beings that didn’t belong, so they gradually coated intruders in thousands of layers of an orange substance, keeping them isolated from reality.
+
+“My sister is in trouble.”
+
+“Was it the library organization?”
+
+“No.” Jiroh shook her head. “My sister in the awakened world.”
+
+“Di?” The young fury was Jiroh’s local sister. Technically, her father had been a kind of furies, but that was long before his defeat. At present, the small fury had nothing but a hunter’s inn in a small town close to the province’s border. Last thing Dallion remembered was sneaking there to give her the cloud fox that belonged to Jiroh’s family. “She’s fine, as far as I know. With the poison plague over, things are picking up and—”
+
+“Her town has been under siege for several weeks. The only reason the empire hasn’t conquered it outright is because the Order has an army of battle clerics resupplying there. Attacking with them around would cause tensions everyone would like to avoid right now. However, my Moon won’t be able to keep the clerics there for much longer.”
+
+“What’s the Order doing there?” the question slipped out. “I mean, what do I have to do?”
+
+“Just do what you do best. Find her and bring her to Nerosal. That’s all I ask.”
+
+The request was straightforward, but that didn’t make it easy. Battle clerics with at the very least level forty. It wouldn’t be out of the question for some of them to be close to Dallion’s level. Not to mention there was no telling what level the imperial troops were. If there was a noble wanting to make a name for themselves, things could become even more messy. Still, Dallion didn’t need to confront any of them, just go in and out and smuggle a fury along.
+
+“Is there anything I need to know?” he asked.
+
+“I’ve told you all I know. Everything else you’ll have to figure out on your own.”
+
+“This wasn’t the talk I’d expected us to have.”
+
+“I know, Dal. It’s only emergencies that keep us close.”
+
+It wasn’t right, not in the least. But, if nothing else, he had gotten to see the fury again.
+
+“How much time has passed there?” he asked.
+
+“I can’t tell you that.” Apparently, even in dreams, the Moons made sure that some things were to remain unknown. “Try to save my sister. I wasn’t much help when I was in that world, but she doesn’t deserve what she got. You don’t either, but you’ve grown enough to take care of yourself., She hasn’t.”
+
+“I will,” he said. “I promise.”
+
+“Thanks, Dal. I’ll owe you one.”
+
+Before Dallion could say another world, the dream had shattered. He was back in his room, lying on the bed, holding the hilt of the harpsisword in one hand. Glancing at the window, Dallion saw that the sun was setting. What had seemed to be a few moments in the dream had turned out to be a few hours. The most annoying thing about that was that Dallion had no idea whether he had spent most of the time before the dream dozing off, or time really massed differently relative to the real world.
+
+“I really should have studied more physics.” He sat up.
+
+Not to alarm you, dear boy, but I do believe you’re a bit late, Nil said. Hannah won’t be particularly pleased.
+
+Dallion entered the realms of his clothes to quickly remove the wrinkles, then returned to the real world and rushed down, holding his harpsisword. Normally, he’d use his mandolin or even his ringchord. Not this time, though.
+
+“There you are,” the innkeeper raised her voice upon seeing him. “What’s the excuse this time?”
+
+Normally, Dallion would come up with a witty response, then get to what he was supposed to be doing—in this case, serving tables and mending cracked and damaged items. This time, he directly went to Hannah.
+
+“I need to talk to you,” he whispered.
+
+“It’ll wait,” she said in a stern voice. “Half the place is full.”
+
+“Jiroh came to me in a dream,” Dallion continued. “It was Moon driven.”
+
+The innkeeper frowned. It was well known that no one would dare use the Moons as an excuse. All that had quickly found that the deities didn’t appreciate the practice and were quick to devise an appropriate punishment.
+
+“Kitchen,” Hannah said.
+
+Not wasting any time, Dallion went straight there. Hannah followed moments later.
+
+“Aspan,” she said. “You’ll have to take care of tonight.”
+
+“Both of you?” The cook looked at her with a slightly annoyed expression.
+
+“Both.” The innkeeper nodded.
+
+The cook put the pan away. A large blob emerged from his form, quickly changing shape into a direct copy of Hannah that stormed out of the kitchen. Moments later, the process repeated, only this time it was a Dallion that appeared. Instead of the harpsisword, he was holding a mandolin, however.
+
+“I prefer the classics,” the second Dallion said, glancing at Dallion’s weapon, then too left.
+
+“So, what's going on?” the cook asked. Unknown to most of the world, he was, in fact, a living, breathing copyette. Once an emperor that attempted to conquer the world, he had managed to escape from the banishment, seeking refuge in the Gremlin’s Timepiece. To this day Dallion didn’t know the real reason Hannah had agreed to keep him hidden, but she had. Since then he had been the resident cook, and occasionally a source of information about the past for Dallion.
+
+“Jiroh spoke to him in a dream,” the innkeeper said.
+
+“She asked me to save her sister,” Dallion quickly added.
+
+“Are you sure about this?” the copyette asked. “There are a lot of ways to make you believe it was her.”
+
+“I saw the Orange Moon,” Dallion said. “Unless it was the Star, I don’t think anyone else would dare use that in a trick.”
+
+There was a short silence.
+
+“The Star won’t either.” Aspan clarified. “What exactly did she say?”
+
+“Just that? Her sister is in trouble and I must get her.”
+
+“You’re keeping a few things out.” Hannah frowned. “It doesn’t take an awakened to see that.”
+
+“I’m telling you all that you should know. Anything more and you might get in trouble.”
+
+“Ha. Look at the pup, thinking he’s the big thing. Just because you got a rose emblem doesn’t make you a bit shot. I’ll decide what’s safe for me to know and what not. So out with it! How is she in trouble?”
+
+“She’s in Halburn. Jiroh said that the town is about to be conquered by imperials. I’m to get her out of there before it happens.”
+
+“Imperials this far south?” Aspan glanced at Hannah, who seemed deep in thought. “Wouldn’t they let the Archduke handle something like that?”
+
+“There’ve been troubles up north,” the innkeeper muttered. “The reason people talk about skirmishes is because the empire’s armies haven’t managed to score a win. If they had, we’d all know about it. It wouldn’t be out of the question for a legion to have been sent here to get an easy win.”
+
+Nil, is March at the guild? Dallion asked. When it came to imperial matters, she was one to ask.
+
+Vend and she have been invited to attend Lady Marigold’s ceremony, the echo replied. It’ll be considered in poor taste to go ask her now. Maybe in a few days?
+
+Unfortunately, Dallion didn’t have a few days.
+
+“I expect you’ll want another week off?” Hannah turned to Dallion.
+
+“More or less.”
+
+“When are you thinking of going?”
+
+“Right now. I’ll catch some food on the way.”
+
+“Even the hunters haven’t knocked any sense into you,” the innkeeper sighed. “Grab some food from here. You won’t be making your way three, starving. And send me a note when you get close to Nerosal. I’ll see to it that no one sees you getting in.”
+
+You’re mirror pool? Dallion thought for a moment. It wasn’t out of the question. Inns were places that mirror pool enjoyed doing business at. Given that Dallion had seen several of them hanging nearby throughout the years suggested that it was possible. Not that he wanted to think of Hanna as part of the awakened underground.
+
+“I’ll do my best,” he said instead.
+
+“Do you have money?”
+
+“Yeah, I have a good amount.”
+
+“Take all of it. You might need to bribe a few people. Never bribe an imperial, though.”
+
+“Seriously, Hannah, I have some idea of what I’m doing,” Dallion said, maintaining a smile. “I’ve been a hunter for a full year now.”
+
+“Apprentice hunter,” the innkeeper corrected. “And You’re still just in your sixties. When was the last time you leveled up?”
+
+“A few weeks ago,” Dallion replied vaguely. “Do you want me to level up now?”
+
+“No. You’ll end up starving and exhausted.”
+
+“He can have a go now,” Aspan interfered. “There’s enough food, and I have a few tricks to get him moving. Think you’re up for a level up, Dal?”
+
+As reluctant as Dallion was, he was aware that every level was a huge benefit. On paper, it was just one more point on a trait. In reality, though, it was experience in a new situation. With luck, it might even get to be something that would prepare him for what was to come.
+
+Taking a deep breath, he fastened his grip round the harpsisword and entered his awakening realm.
+
+PERSONAL AWAKENING

@@ -1,0 +1,467 @@
+---
+id: 1bfb407f-a6c2-58bb-8494-fd10013e8eeb
+page-type-slug: story-chapter-royal-road
+title: "50. Sequence"
+slug: 0050-50-sequence
+partOf: mana-devourer-litrpgmana-cultivation
+position: 50
+ownLength: 3184
+unit: words
+publishedAt: 2024-08-21
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1768534/50-sequence"
+royalRoadId: "1768534"
+---
+
+“Hi! I’m Markus. I’m twenty-two years old. Aries. You probably know me from my latest and greatest hits, such as ‘Decapitated Twenty Times’, or ‘Skull Crushed into the Floor Repeatedly’! I’m here now to debut my latest and greatest single, ‘Brain Contusion, Big Confusion, Balls Cru—”
+
+“Your father left.”
+
+…mom?
+
+A staccato pindrop. His mind quivered.
+
+Reality fragmented.
+
+“Your father left us.”
+
+Mom…
+
+“He left us behind. Said he’d stay, but he lied.”
+
+Smash. Crash. Living room. Sofa. Couch cushions, fortress, a snap, the toaster.
+
+Warm bread, butter, and dinner was served.
+
+Behind the walls, a crowd chanted—his two worlds had merged.
+
+“How did I get left taking care of you all alone?”
+
+She bemoaned him; ire bled into her tone.
+
+“It’s unfair, on both of us!” she grumbled and kicked. “I’m barely able to keep up, and you’re only six!”
+
+Six… yeah, I was six when he left. Looking down, my hands weren’t proportionate to the size of my head.
+
+What a weird fucking trip. Had I regressed sixteen years?
+
+Still the relentless chanting rang out to my—
+
+“Can you fetch mommy a drink darling?”
+
+I grabbed mom a beer.
+
+It was open on the side. No coaster. My dinner sat cooling inside the toaster. I was too small to grab it, I’d have to get her up…
+
+But asking her to feed me always wound up rough.
+
+How’d I ended up here? Had it backfired, had I died?
+
+“Because he didn’t wanna deal with you anymore, that’s why!”
+
+Mother’s scorn took form and Markus began to cry.
+
+“Yes! cry. It’s all you do every day and night. Whine, whine, whine. The neighbours think you’re getting murdered. I don’t blame him for leaving, this place is like a circus! If you were more like your sister, your father might’ve stayed longer, but if I abandon you too, then I become the monster.”
+
+“Because that’s fair, isn’t it?! One gets to leave. Beat the other to the punch, and they get to go free! Fuck the other parent, the child dies without a mother present, but I guess it’s my responsibility to cover for his goddamn stupidity!”
+
+“Why, Richard…”
+
+Cause he’s a dick, and you’re a bitch, thought that was clear.
+
+Markus’ thoughts bled into his tears. Whispers beyond this scene began to rear, a confluence of motion, thoughts colliding. He took a seat beside his parent who was sipping on her second and hadn’t quite noticed him, ibuprofen and codeine mixed—watching a rerun of Desperate Housewives, an hour passed by, the pair they laughed why Markus didn’t know, but his mother seemed real happy so he didn’t mind the show, he was getting into gossip and he liked their fancy clothes, he’d sit there and he’d chatter and he’d—
+
+“Cut that girly shit out, right now.”
+
+Richard on the scene.
+
+“I mean it, Markus. I didn’t raise a little girl.”
+
+You didn’t raise me.
+
+“Save that shit for your mother.”
+
+They were in the car. Markus rode shotgun because he insisted. The pair of them drove through a scenic lapse of nothing into a gentle black hole upon the edge of reason.
+
+“She tells me you’ve been acting up at school again.”
+
+Yeah, right. She didn’t tell you shit. You only know because you email the teachers asking about me. Think it gives you the impression of looking like a parent. Think it fools me into thinking the two of you still exchange more than a few words.
+
+“Who did that to you, anyways? That bruise is nasty.”
+
+“Fuck knows,” Markus answered, and it was in his own voice.
+
+“Stop swearing all the time, you little shit. You get that from your mother.”
+
+Richard scowled. His hands gripped the wheel tighter. “Why’s my son coming to me from school looking like someone’s run a train over his face, huh? Who’s hurting my boy?”
+
+A memory came rushing. “Tommy Grayson.”
+
+“Grayson?” his father took a hand off the wheel. Stared at him long and hard. “You’re getting beaten up by that little nobody? Why?”
+
+Fuck. Why’d I tell him?
+
+Fuck…
+
+“He said my shirt looked like it came from goodwill. I told him to go fuck his mother.”
+
+Richard didn’t tell me off for swearing that time. Instead, he looked at my shirt.
+
+“Why’s she got you wearing that shit, anyways?”
+
+I looked down at the yellow and red striped monstrosity in question. Gee, I dunno, Dad. Maybe because you don’t pay child support.
+
+“I dunno. Our neighbour’s kid had some old clothes that didn’t fit him anymore. Mom asked for some before they took them to the charity shop.”
+
+“See, your mother just wants to live on handouts her whole life… Don’t you ever be like that, you hear me?”
+
+“Yes, dad.”
+
+“Fucking ridiculous,” his father shook his head, beeped his horn and stuck his middle finger out the window as a giant black horse tried to cut him off, the mount from Markus’ favourite childhood game. “What kind of example am I setting to you if Tommy Grayson of all kids is bullying you?” He sighed. Pressed down the accelerator. “Ridiculous. We’re getting you boxing lessons. You’re gonna learn how to throw a damn punch.”
+
+A beat. He murmured as he drove.
+
+“No son of mine…”
+
+Clarity.
+
+“Fuck you, dad.”
+
+“Huh?”
+
+“Fuck you. I’ve fought monsters since we last spoke. What’s your claim to fame, a bar fight? Punching some other dad at the fucking little leagues?”
+
+“LANGUAGE!”
+
+“FUCK, FUCK, FUCK, SHIT, FUCK, AND FUCK YOU!”
+
+Markus roared. He turned. He yanked the car door open by instinct. He pushed his body to the side…
+
+“Your head fell off.”
+
+Mom?
+
+“You need to keep your head on straight, dear. You’re making a real mess of the place, dear.”
+
+I looked around. Back at my old house. Dirt and grime and soot and shit all in a mixture, but it was my rolling head that was fucking up this picture, if the social worker saw THAT then she’d take me and my sister, and—
+
+Hold on…
+
+“YOU need to keep your head on straight! You’ve got two kids and haven’t showered in days! You’ve got some nerve telling me to clean up the place, treating me like your personal servant when I’ve just turned…”
+
+Fuck, was I eight already? Was this what being eight was like?
+
+“Mommy’s trying really hard, dear. Mommy’s looking for a job, dear.” She sighed. Put the beer to one side. “Mommy’s gonna make it all better, so come here, let’s cuddle tight. Let me truly show you, reassure you that everything’s alright.”
+
+Markus…
+
+Walked to her.
+
+He cuddled up.
+
+It was familiar.
+
+It was love.
+
+She was warm.
+
+She was cold.
+
+She was comfort.
+
+She was…
+
+Crying.
+
+She was crying.
+
+“Marky…”
+
+Marky. Long time since he’d heard that.
+
+“Marky…”
+
+She cuddled him tighter. Squeezed him like a sidewinder.
+
+“Tell mommy that it’s going to be okay.”
+
+Right. This was how this worked.
+
+This reassurance.
+
+It was for her.
+
+“Everything will be okay.”
+
+“No it won’t.”
+
+Another shift.
+
+“You know what’s really gonna happen?”
+
+He was in the dungeons. Sat with Abrah. A locked chest sat between them.
+
+“You’re not gonna prove shit. You’re gonna die, or get forced into a nightmare you can’t escape from, because anything’s better than—”
+
+“Yeah, yeah, yeah, I get it, I’m an asshole.”
+
+“Stop interrupting me, shitbag!”
+
+Abrah pointed a finger. “Anyways, your brain’s leaking.”
+
+Markus put a hand to his head. He brushed against red, slippery tissue.
+
+“Shit.”
+
+“Good thing I warned ya, huh, Marky?”
+
+“Don’t call me that.”
+
+“Why not? It trigger you? Sorry. I’m just a dumb goblin, after all. I don’t know any better.”
+
+“You’re not dumb,” Markus argued as the chest began to open its mouth and eat Abrah’s arm. “You’re my—”
+
+“Friend?!” Abrah laughed as he was chewed up, completely uncaring. “If you think that then you’re more gullible than I fucking thought, bozo! I don’t like you! No one likes you! They all just wanna fucking use you. Think about it!”
+
+The chest had swallowed half his arm now. It was chewing its way up to his shoulder.
+
+Markus ran forwards to try and intervene. He could barely move his body without worrying about his brain falling out. He crawled, infantile, helpless.
+
+“That’s not true,” he said, as if it’d make the thing stop, as if it’d make any difference. “Not everyone wants to. Rika has been good to me, Cyrus too, and you, and Serena too.”
+
+“Serena?!” Abrah laughed, his voice distorting a little. “You mean the god that wants you to go on a crazy crusade deathmarch in her name? Or the orc that was so sick of his life of service and shame that he tried to get himself killed for you. You mean nothing to him. And me?! Don’t make me laugh. You held a fucking bomb to my neck and forced me to help you. That’s all this fucking is. If you don’t see that then you’re a fucking fuck fuck fuck fuck fuck fuck fuck fuck—”
+
+“Stop swearing,” Richard said.
+
+Markus ignored it.
+
+“What about Rika?”
+
+“What about her? She’s bored. First she wanted to jump your bones, now you’re teaching her to read and write! Imagine how valuable that is around here! I wouldn’t bite that hand, I’d keep it real happy.”
+
+“You can’t just tell me not to trust anyone.”
+
+“Why not?” Richard answered, taking a seat on the chest that had just finished devouring Abrah. “What’s trusting anyone ever gotten you? Wanna go to Disneyland, Markus? We’ll go this time, I promise. Who’s that, me or your mother?”
+
+“Both of you.”
+
+“Exactly! And there’s a good lesson to take home. Don’t trust anyone who you can’t control. Why should you? Why would you. How could you—no!”
+
+He growled at him. Launched up with a flex of his arms, fists clenched. “Don’t make me do your fucking song and dance routine, I’m not like you. You’re not my son. If you were, you’d man up and deal with this shit. Not sit here crying and wallowing about the state you’ve gotten yourself in.”
+
+“You wouldn’t have managed to do half the shit I had to,” Markus shouted, the scenery fracturing like glass. “All I’ve done for weeks is fight for my fucking life, all I’ve done my whole life is—”
+
+“Because you had it so hard?” Richard laughed. “You make life hard for yourself. I wouldn’t have put myself through the shit you did.”
+
+“Yeah, because you’d have taken a fucking deal. Big fucking hypocrite, for someone so uncompromising.”
+
+Richard laughed. His eyes began to glow golden. “You’re right, I would’ve, and if that makes you think less of me, then you’re stupid. Why fight this place? So you can prove what a bleeding heart you are? Bullshit. You’ve ran away before. You’re just running away again. You’re everything you project onto me, and you can’t even act like I would. You’re a fucking disappointment.”
+
+“What, so you leave mom, leave all of us behind, don’t pay alimony, and—”
+
+“And what?! You could’ve come and lived with me! Had a parent with stability, a real fucking job! Not doing card readings or selling knitted bullshit or whatever the fuck your mother thinks passes for a purpose these days!”
+
+“At least I didn’t run away! I stayed with her! You just left!”
+
+“And look how it worked out for you! When are you going back for your sister, by the way?”
+
+Richard grinned. His mouth split. The scene began to unravel.
+
+“You’re meant to help her move out, right? Got so much for you that you couldn’t take it, that you had to leave, but that was a year ago, Markus. Becca still has to put up with her. When you going back for Becca, Markus? Huh? Huh?”
+
+Shut the fuck up…
+
+“What? Why don’t you give that cane another swing? You wanna forget about me, don’t you? I’m so fucking horrible, so hard to bear that you had a loving father willing to take you and your sister away from that shit. So hard on you, well what about me? Being rejected by my own fucking son! Go on, then, fucking swing it! Show me how tough you are!”
+
+SHUT THE FUCK UP!
+
+…
+
+…
+
+Markus gasped. He was back in the arena.
+
+Somewhere, vaguely, he was getting his organs ripped out.
+
+But this wasn’t here. At least not in his headspace. It was more as if he were watching it than having it happen to him.
+
+“Hey,” said a familiar voice.
+
+Silver hair. Purple eyes.
+
+“Hey,” Markus said back, completing their little greeting.
+
+“Wanna get away from all…” the fake-Serena waved her hand, pointing towards the litter of dead Markuses laying all around them. “Well, from all this?”
+
+“Fuck yes,” Markus nodded.
+
+And then they went.
+
+They materialised in a diner. There was no one else here.
+
+Markus had a vanilla and chocolate ice cream shake.
+
+He took a sip. Best shake he ever had.
+
+“Mmh,” Serena said, licking a bit of blue off of her lips. “What is this?”
+
+“Blueberry and mint,” Markus knew without having to look. “I imagined it was your kinda thing.”
+
+“You might be right,” Serena laughed, taking another long sip. “You want a taste?”
+
+“Nah,” Markus shook his head.
+
+“But you’ve never tried it.”
+
+Markus tilted his head. “That’s… the point, how would I know how it tastes?”
+
+“This could be real, you know,” Serena commented, stirring her milkshake with her straw as she spoke.
+
+“No way. If it were real, that straw would be made out of cardboard and you’d barely be able to suck anything through it, much less move it around like that. We are deep in my head right now.”
+
+“Well… how you finding it?”
+
+Markus shrugged. “Kinda horrifying? Like a nightmare I can’t wake up from?”
+
+Serena nodded. Then she pointed between them. “This part is nice though, isn’t it?”
+
+“...yeah.” Markus sighed. “This part is nice.”
+
+Markus took another sip of his drink. Somewhere, vaguely, he could feel his ribs being crushed.
+
+He spat it back up.
+
+“But it’s…”
+
+“Still not real?”
+
+“I can’t pretend anymore,” Markus said. “It doesn’t matter how hard it is being out there. Being in here is harder.”
+
+“It makes you wanna run away, doesn’t it?”
+
+Markus didn’t answer.
+
+“It makes you want to say fuck everything and just do the first thing that comes to mind, right?”
+
+Markus took another sip of bullshit.
+
+“It makes you wanna… you don’t know. So you don’t agree to anything. And then you don’t owe anyone, and you’re not beholden to anything. No one can fuck you over, nothing can hurt you. Only…”
+
+“Everything hurts me anyways.”
+
+“Bingo!” she clasped her hands together, pointing two fingers of each at him like a gun. “Got it on the first try.”
+
+“Then why am I here? What am I meant to take from this?”
+
+“I dunno. I’m a figment of your imagination meant to represent a guide or a mother figure. Something you implicitly trust. You have the realisations. It’s not my job.”
+
+“But I don’t trust you,” Markus said. “Hell, I trust Rika a lot more than I do you. Why isn’t she here?”
+
+“Because if you’re wrong about her, it’ll hurt too much,” Serena said. “At least you kinda expect me to fuck you over. Makes it easier to trust me, less of a mental toll.”
+
+“...holy shit I am messed up.”
+
+“Right again!” Serena smiled. She took a long slurp. “Sooo, whatchagon do about it?”
+
+“About what? The psychotropic headtrip or the guy piledriving my body into a stalagmite over and over?”
+
+“This… that… all of it.”
+
+“I… I wanna fight,” Markus said. “At least, I think I do.”
+
+The reality seemed to shrink in on him. The walls came closer. Markus ignored it.
+
+So did Serena.
+
+“What for? For yourself? For the friend you owe all that money to? For the big sister you left at home? For the friends you’ve made here? For your morals? For your own self-righteousness? To prove everything you did was right? To correct your mistakes?”
+
+She narrowed her eyes. Pointed at the cane. “Or do you just want the pain to go away?”
+
+Markus looked down at the cane. He was still holding it. The entire world stemmed from it. The scenes in his mind’s eye raced from its tip and cascaded over the walls around him.
+
+It seemed glued to him.
+
+And yet…
+
+When he shook it, the hold frayed.
+
+“You gonna say bye to your mom?” Serena asked.
+
+“...nah. I think she’d just want me to stay.”
+
+“Yeah, she would.”
+
+The walls grew closer. Lost detail. The world around him began to blur.
+
+“I hope you can save yourself, Markus,” Serena said, her last words to him.
+
+“If you do change your mind, I’ll be here.”
+
+Serena splashed him with water. Woke him up.
+
+“See ya.”
+
+That was her final echo as Markus dropped the cane.
+
+Randall stared at him. His mouth was agape.
+
+“H-how did you… You must accept a gift from me!”
+
+He marched forwards. He grabbed the instrument and thrust it back into Markus’ hand.
+
+“You should be trapped in an endless cycle of your own torments! Losing your mind for as long as I deem fit! How did you relinquish the weapon?! How?!”
+
+“I remembered what I cared about.”
+
+A mace smashed into Markus’ face. It was agony.
+
+He didn’t feel it. Not like before.
+
+“What you cared about?! What more is there to care about than the relentless suffering and turmoil I’ve inflicted upon you! Your body should yearn for freedom, for reprieve, for DEATH!”
+
+“What… this?”
+
+Markus dropped his weapon. Threw his hands up. Allowed the monster to kill him once more.
+
+“I don’t feel a thing.”
+
+“You’re lying… you’re LYING!”
+
+Markus waved the cane at Randall, then threw it back to him.
+
+“You let this thing control your mind? Take your memories?”
+
+Markus laughed as his brain was splattered once more.
+
+When he revived, he was still laughing.
+
+“Maybe you just don’t have the same convictions as me.”
+
+“Fine…”
+
+Randall smiled. He grinned. He laughed.
+
+“You want to show me your conviction, mortal? Then do it! Fight! Live! Show me! No more chances. Fight to survive, or die like the dog that you are!”
+
+Markus stared at Randall, at the monster, at the broken blade in his hands and the 300 unspent points now sitting in his menu. Dying so many times seemed to have done him some favours.
+
+He dumped fifty into Strength, a hundred into Agility, a hundred into Con, and fifty more into Spirit…
+
+And watched as his Mana Manipulation ability finally ticked over to level 5.
+
+[Mana Manipulation 4 >> 5. Evolution available.]
+
+[Empower 4 >> 7. Path Available.]
+
+[Manifest 5 >> 8. Path available.]
+
+[Devour 1 >> 2.]
+
+[Mana Control I has evolved to Mana Control II.]
+
+[Adaptive Resistance I has evolved to Adaptive Resistance II.]
+
+[Mana Refinement I unlocked.]
+
+He squared his shoulders. Planted his feet. Empowered his blade…
+
+“Deal.”

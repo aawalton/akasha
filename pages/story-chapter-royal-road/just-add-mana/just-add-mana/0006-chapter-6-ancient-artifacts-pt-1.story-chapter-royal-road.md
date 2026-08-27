@@ -1,0 +1,181 @@
+---
+id: f4496e0e-6732-5ad5-b69f-f07a8ed33297
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 — Ancient Artifacts, Pt 1"
+slug: 0006-chapter-6-ancient-artifacts-pt-1
+partOf: just-add-mana
+position: 6
+ownLength: 3029
+unit: words
+ownProgress: 3029
+publishedAt: 2025-07-17
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442686/chapter-6-ancient-artifacts-pt-1"
+royalRoadId: "2442686"
+markedReadAt: "2026-06-29T18:47:43.537Z"
+---
+
+Cale studied his scroll critically as he strolled along the hallways of the Astral Wing, watching as the little arrow turned to point down each new corridor he needed to go down. The class itself was apparently located in "Reinforced Lab 2A," which was in the middle of the Astral Wing; Cale knew this because the location was listed in tiny, perfect handwriting right beneath the arrow and because there was a tiny map of the Astral Wing right next to it.
+
+It was quite the impressive little enchantment, honestly. Cale wondered if this was standard for all the schedule scrolls Akkau gave out to his students. It probably was, but creating a live map like this with ink magic alone was hardly trivial. There was probably an element of organizational magic to it—library magic again, maybe, though he couldn't be sure. Oddly enough, that was one of the rare mana types he hadn't extensively had to deal with.
+
+Fortunately, Cale didn't need to go very far at all to find his new class. The scroll hadn't been kidding about the reinforced part of the Reinforced Lab, though. The classroom was apparently a magically suspended cube of pure tungsten, with only a tiny stone pathway leading up to the door; surrounding it was a shockingly steep drop into an abyss layered with what looked like dozens of destructive spells of almost every major mana aspect.
+
+Right above them was a hastily-erected levitation spell that appeared to be keyed specifically to students of the Academy. Cale raised an eyebrow at it. "Safety oversight, much?" he muttered.
+
+Then his schedule scroll began wailing. Cale flinched and glared at it. "Seriously?" he demanded. "There's still a whole minute before class starts!"
+
+The scroll's only response was to wail even louder. Evidently, Akkau took being punctual seriously. He'd also apparently deduced—correctly—that annoying Cale into submission was the easiest way to get him to do what he wanted.
+
+Grumbling to himself, Cale knocked on the door and let himself in.
+
+Behind it, a tiny, mousy old lady stopped mid-sentence to peer at him over enormous glasses that magnified her eyes into comically large dinnerplates. Cale blinked for a moment, nonplussed by the sight. This was the Imrys Akkau had mentioned? He'd expected... he wasn't sure what he'd expected. Probably another dragon, given her apparent penchant for destroying fake relics.
+
+Instead, Imrys was quite literally a mouse. She was also wearing a pink, frilly apron, for some reason? It wasn't exactly prime artifact identification gear.
+
+Then he blinked again and noticed that the apron was dense with magical script. The little cane she was carrying was practically brimming with magical power, too.
+
+"Ah, you must be the new student!" the professor squeaked. She climbed over an enormous cube on her desk—well, enormous compared to her, anyway—to get closer to him, teetering precariously right on the edge. Cale resisted the urge to put his hands out in case she fell. "Akkau mentioned you. You may call me Professor Imrys. And you are Cale Cadwell Cobbs, yes?"
+
+"Just Cale is fine," Cale said, glancing at the rest of the class with interest. Mandatory course or not, this was a very small class; he wondered if that was because it was being held in the Astral Wing. He couldn't imagine classes this small would be very efficient otherwise.
+
+There were, in total, only two other students in the room. There was a third desk with a mess of materials laid out on them, which Cale assumed meant there was a third student that hadn't arrived just yet, but that still meant there were only four students in total, counting himself. Maybe there were more politics with the Astral Wing than he'd imagined?
+
+Or maybe the class was just that dangerous. Cale shrugged; it didn't matter that much to him. He turned his attention to the cube on the desk and swept his mana sense over it curiously. The thing was dense with magic, and not only that, it was pulsing erratically, unleashing waves of power that glanced harmlessly off Professor Imrys.
+
+Cale himself was fine too, of course, though he briefly pondered dropping his barrier to see what would happen. Professor Imrys was watching him with keen eyes, though, so he didn't—this was no doubt part of her test for him.
+
+The rest of the students weren't quite so lucky.
+
+One was a minotaur that took up an entire corner of the room, his horns scraping against the ceiling. He was staring intently at the artifact, but jumped a little every time the artifact pulsed, digging his horns deeper into the ceiling.
+
+He was also wearing glasses, for some reason? Cale was pretty sure they were enchanted glasses, but they weren't enchanted to handle the sort of mana waves erupting from the artifact. Every time it pulsed, his glasses fell further down his snout, and he had to try to push them up again while protecting the pile of books he had on his desk.
+
+The other was a water elemental. Cale watched her closely, struck for a moment by the delicate perfection of her form; it was rare for elementals to be able to shape themselves so precisely, and yet this one had managed to give herself sharp features and... well, curves.
+
+The effect was a little ruined by the fact that her entire body wavered every time the artifact on the desk pulsed, though she was doing her best to ward against it. He considered helping them both, then decided he was better off figuring out what the professor wanted first.
+
+"Professor—" he started, only to be interrupted by the door slamming open. Cale turned, startled, only to find Damien hunched over and panting.
+
+"Damien?" he asked. Damien looked up, and although he was clearly exhausted, his eyes were bright.
+
+"Cale!" the dreadshade said. He reached out and grabbed Cale by the hands, squeezing them excitedly. "You were right! It worked!"
+
+"What worked?" Cale asked, lost. Had he said something to Damien?
+
+"Partial attunement!" Damien said. "I attuned partially to space, like you said, and..."
+
+He trailed off, realizing the class was staring at him, and immediately began to shrink into himself again. "Um," he said. "Maybe later?"
+
+"I mean, hey, I'm glad it worked!" Cale gave him a friendly grin as the dreadshade slinked off to his desk, embarrassed. Imrys cleared her throat politely, and Cale immediately turned his attention back to her. "Sorry, I got a little distracted," he said. "Thank you for letting me attend your class, Professor Imrys."
+
+"My, what a polite boy you are," the old mouse said, smiling at him and tottering over to press a crumbly biscuit into his hand. "Here, have a cookie. And don't worry about it, dearie. I would be more surprised if you weren't overwhelmed by your first day at this school. Have you had a good time so far?"
+
+"I've only been here for two hours," Cale said, wondering if he should mention he was probably older than she was. Maybe not. "But it seems like a nice place?"
+
+Professor Imrys nodded. "It is, it is," she said. "It was so kind of Akkau to let me teach at his school. I've gotten fired from so many other places." She shook her head, eyes going distant.
+
+Cale blinked. "Why's that?" he asked. "You seem really nice."
+
+"Oh, you never know, dearie," Professor Imrys said with a sad smile. "The magical world can be incredibly political."
+
+"It's because she's evil," the water elemental called out loudly. Cale looked over at her with surprise. "Don't let her trick you!"
+
+"Goodness, Flia," Professor Imrys said. "Surely you aren't still upset about our last class?"
+
+"Still upset?" Flia scowled. "What do you think, Professor? That artifact boiled off my—"
+
+Professor Imrys waved a hand and a dome of silence descended around Flia, to her sputtering outrage. Cale just blinked, impressed. He'd barely seen the spell construct before it activated.
+
+"You must forgive her, dearie," Professor Imrys said. "She had a rather unfortunate accident in our last class."
+
+"What sort of—" Cale started, but the old mouse continued on as if she hadn't heard him.
+
+"I must say, it's unusual for Akkau to allow a new student into my class," Professor Imrys said. She peered at Cale for a moment. "He's told you we will be testing you, I'm sure. Perhaps you could demonstrate your experience with artifacts for me, dearie? Just so I know what your skill level is, of course. Go ahead, inspect it. Cast any spell you'd like."
+
+Professor Imrys gave him an encouraging smile. Flia yelled and pounded soundlessly on the silencing barrier around her, her body splashing erratically as she tried to shout a warning. Damien, very hesitantly, tried to speak, only for another barrier to descend around him. The minotaur in the corner gave him a wide-eyed, terrified look that seemed to say "don't fall for it."
+
+Cale raised an eyebrow at all this, then turned back to Professor Imrys.
+
+"Sure!" he said cheerfully. This was an easy enough test, though he didn't exactly have any spells he could cast to help with the identification. [Plasma Transmutation] was hardly going to come in useful here. Maybe the Gift would grant him a new one if he did well enough, though. He grinned at the thought, then turned his attention fully onto the relic.
+
+"First of all, this thing's obviously damaged or it wouldn't be blasting mana like this," Cale said. "I'm surprised you can cast so freely around it, Professor. Wild mana tends to be very disruptive to spells."
+
+"Goodness," Professor Imrys said, her eyes glinting with... something. Cale tried not to read too much into it. Maybe he was letting the other students influence his thoughts too much. "How kind of you to say! You're a charming young man, Cale."
+
+"Judging from the scripture on the sides..." Cale eyed it for a moment. "Looks like a variant on Old Karmian, so this is probably some kind of spatial artifact. Means it can't be an accident that it's a cube. Spell geometry's pretty important when it comes to spatial artifacts, and especially so when constructing spatial traps, which is what cube geometries are usually used for."
+
+Cale looked back over at the other students, most of whom were staring at him in bewilderment. Even Flia had stopped hammering on the barrier around her and started staring at him instead. Professor Imrys, on the other hand, seemed delighted, albeit in a way that was starting to concern Cale.
+
+"And you know all this without a single identification spell?" she asked. "Impressive work, dearie. You might be my new favorite student."
+
+Behind her barrier, Flia shook her head slowly, as if to tell him that wasn't a good thing.
+
+"Thanks. I'm hoping this will trigger the Gift to get me one," Cale said, cheerfully ignoring the looks the others were giving him. "Let's see... The script doesn't look quite right for a standard spatial trap." He tapped on his chin in thought. "Maybe an inverted script? It's been a while since I've seen one of those, but I'm pretty sure those are symbols for Inverted Karmian."
+
+"Um..." A voice emerged from the back of the class. The minotaur was hesitantly raising a hand. "We haven't learned about inverted scripts. What are those?"
+
+"Oh, you know." Cale gestured vaguely to the corners of the cube, where the flowing sigils marked on its surface seemed to change just slightly. "It's usually just a very small change to a runic language that inverts the magical effect of the script. Problem is, it's usually more efficient to just use a different language altogether, so it's kind of a rare technique. You usually only see it in emergency modifications or when only part of an enchantment needs to be inverted, like this one."
+
+"Good question, Leo," Professor Imrys called approvingly. "And thank you for that answer, Cale! Very precise."
+
+Cale sighed in disappointment. "You've already analyzed this thing, haven't you?" he accused, though not with any real heat. "You know what this is."
+
+Professor Imrys chuckled. "Ancient Artifacts is a very important class, Cale," she said. "For two reasons. One of them is to teach my students how to deal with analyzing very unusual, esoteric artifacts. I do a cursory analysis beforehand to ensure that we won't be unleashing any particularly dangerous beasties in class. I wouldn't want to put my precious students in any real danger, after all."
+
+"But?" Cale raised an eyebrow.
+
+"But I assure you that what you're studying is still a very real, unopened, and unactivated magical artifact," Imrys said brightly. "This is a test for you, after all. And I've been wrong before, so it could still kill us all!"
+
+There was a long silence, during which most of the students stared speechlessly at Imrys. Cale just nodded absently. "And the second reason?" he asked.
+
+Professor Imrys beamed. "Why don't you tell me what this is, first? You seem like you know what you're doing."
+
+"Normally, like I said, it would be a spatial trap," Cale said. "Something meant to capture people or monsters inside a magical extradimensional space. If the corners are inverted Old Karmian, though, then this thing is made to capture places. Probably living magical ones, like druid groves, or magical academies, or..."
+
+Cale frowned. Now that he thought about it, he vaguely remembered living in Karmia once or twice across his lives. "The Labyrinth Plague," he said, snapping his fingers. "I remember now. This is probably one of the containment cubes made to end the Labyrinth Plague when it was tearing through Karmia back during the Age of Distortion. The labyrinths it created had all kinds of weird monsters and artifacts, but it was basically eating up their entire kingdom. Whole thing was kind of a pity, honestly. I thought they were on to something."
+
+Professor Imrys eyed him for a moment. "The precise era during which the Labyrinth Plague occurred is rather strongly debated amongst our historians," she said, an edge of doubt in her tone. "But that is largely correct! Well done, my dear."
+
+Cale tilted his head. "Is it?" he asked. "Weird. I thought Hugh left behind a huge archive. He was always a stickler for keeping records of everything." He made a face. "Kinda made him awkward to flirt with. Ever tried flirting with someone with a court stenographer recording everything you say? No thanks."
+
+Once again, there was a long silence. This time, everyone was staring at Cale, including Imrys.
+
+"Hugh?" the professor eventually asked.
+
+Cale nodded. "You know. The Distortion King."
+
+"His name was—" Professor Imrys shook her head, discarding that line of thought for something more important. "You say that like you were there."
+
+Cale nodded. "I liked it, personally. Though I did tell Hugh not to call it the Age of Distortion. Makes him sound like a villain." He sighed. "He never listens. Also, why are you looking at me like that?"
+
+Flia, in her barrier of silence, banged her head against it in exasperation. Cale glanced at her, slightly surprised; most of the water elementals he'd met before had always been... calm. Serene. Their culture preferred going with the flow over raging against it, and displays of strong emotion were so rare they bordered on taboo.
+
+Then he turned back to Professor Imrys and jumped. In the time he'd looked away, her grin had turned into something outright demented. "I'm going to have so many questions when you get back!" Imrys said happily. "I see why Akkau sent you here now. What a delight to have you in my class!"
+
+"I don't actually remember that much—" Cale started, and then he stopped. "Wait, what do you mean, when I get back?"
+
+Even before he'd finished asking the question, though, he figured out the answer. Cale groaned as the professor reached out with her cane to tap one corner of the containment cube, unleashing a torrent of magical power straight into one of the weak points of the enchantment.
+
+It shattered. Space flooded out of the broken artifact, twisting around itself until it formed into a veritable maze. Towering walls of ancient stone sprang into existence all around them.
+
+Professor Imrys was already gone. He'd sensed her activating a teleportation spell the exact moment she shattered the cube. The simultaneous cast was pretty impressive, Cale had to admit—especially given she'd managed to fold in a voice recording into the mana echo'd she left behind.
+
+"The second reason Artifact Analysis is so important is because any mage worth their salt must know what to do when things go wrong." Her voice echoed around them, far too bright and cheerful for the moody labyrinth the four students suddenly found themselves in. "Good luck with the labyrinth! And Cale? This is still part of your test."
+
+Damien and Flia both looked terrified by the monstrous structure that had so quickly formed around them. It was probably a good thing they were cautious, though, because the labyrinth was definitely occupied—like he'd said, the Labyrinth Plague had produced a lot of unique monsters.
+
+On the other hand, any containment cube from the Age of Distortion was going to have vast quantities of valuable loot, so there was that.
+
+Cale was mostly concerned with the Gift, though, because it had pinged him with a new spell as soon as the artifact shattered.
+
+You have learned [Identify Artifact]!
+
+[Identify Artifact, Level 1] [First Tier, Active] [500 Mana]
+
+Gain basic information about a target artifact. Does not work on artifacts more than 500 years old. Does not work on artifacts with enchantments more complex than first tier.
+
+"Well," Cale said happily. "At least I got a new spell out of all this!"
+
+Though he wouldn't be able to use it in its basic form—he'd have to find an artifact to analyze so he could see what the Gift would turn it into. This one wasn't likely to evolve into anything that would explode, at least, so there was that.
+
+Behind Cale, the minotaur slumped. "Aw, man," Leo said. "I hate labyrinths."

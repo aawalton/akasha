@@ -1,0 +1,75 @@
+---
+id: bfd4ecbf-6e39-5464-b8d0-04defc03e583
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67: Outmatched"
+slug: 0107-chapter-67-outmatched
+partOf: labyrinth-of-the-mad-god
+position: 107
+ownLength: 1588
+unit: words
+publishedAt: 2024-12-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1966641/chapter-67-outmatched"
+royalRoadId: "1966641"
+---
+
+Nick shrugged to himself then returned the bow, trying his best to clear his mind and concentrate. He was growing increasingly nervous about what was coming, but he decided against using arctic clarity to enhance his focus. He wanted Rita to evaluate his technique at a genuine baseline, without anything getting in the way.
+
+He did, however, try to size up his opponent. To his surprise, the skill was completely silent. One of the few times that it had failed to elicit any manner of response.
+
+“You can’t count on that skill providing anything useful against an experienced opponent,” Rita commented. “There are too many ways to counter it, especially at that level, and you should be relying on your instincts more than anything else. It’s kind of like having a third eye in the back of your head. Useful in a lot of situations, but it can’t help you see what would normally be invisible to begin with. Now assume your stances and wait for my mark.”
+
+Nick and Kiki raised their blades and faced each other, ready to begin their duel. He ran his eyes across his opponent, and the big sword clasped between her hands.
+
+He realized that he was sweating, and not because of the heat. Although he had fought with his life on the line many times over the last two months, it was still incredibly intimidating to know that that length of razor-sharp steel would be coming for his body any second. That if he failed to block, parry, or get out of the way, he would feel it bite into his flesh.
+
+Don’t think. Concentrate. He shut out his fear, took a deep breath, and got ready to fight.
+
+Nick had fully intended to let Rita’s curiosity regarding the color of his bodily fluids remain unfulfilled. A commitment that was fated to fail less than five minutes later, despite giving the battle his best. It turned out that Nick’s blood was still red, even on a planet with a green sun.
+
+He had anticipated the initial exchange of blows to go badly for him, given the silken agility of every move Kiki made. He did not, however, expect to be completely overwhelmed within a matter of seconds. To be wounded without being able to score a single hit in exchange.
+
+Everything went wrong, right from the start. Nick had just taken his stance after coming up from his bow. His plan was to keep some distance between himself and the combat doll. At least long enough to get a sense for how she would move. Then stay on the defensive long enough to form a counter strategy before bringing the fight to her.
+
+Summoning every scrap of his concentration, Nick set his eyes upon his opponent, ready to retreat the moment that he saw which way Kiki was coming. Half a heartbeat later, Rita grinned and said the word, “Mark.”
+
+Nick blinked… and when his eyes opened once more, the living doll was right in front of him. A sword that was a mirror to his own went high. Then it came streaking down for his shoulder in a cross-body slash, hard enough to remove his arm if he failed to counter the blow.
+
+He hadn’t dreamed that the construct could move so fast. Caught completely flatfooted, Nick didn’t have time to think. To dodge or activate force acceleration. Alarm bells screamed inside his mind. Knowing that he would get cut if he froze up or panicked, Nick only had time to turn his blade forward and whip the tip up to intercept Kiki’s strike head on.
+
+He never would have tried this move with a sword of iron or steel. The blades of his forefathers had not been designed to be used in such a manner. A basic sword, or even a common weapon, would have been damaged if not destroyed by meeting another blade edge-first with that much power behind the collision.
+
+But Nick had witnessed with his own eyes just how monstrously tough the metal of his blade was, even though its resilience had been hard to square with the sword’s decrepit condition.
+
+And while she kind of scared him, and might accidently get him killed, Nick found that he trusted Rita. Both the content of her character and her skill as a smith. If she said that this blade would perform as well as his own, then he was willing to risk some pain to put it to the test.
+
+He braced himself a bare second before the twin swords collided a foot in front of his face. To his relief and delight, neither sword chipped or shattered when their bodies collided edge-to-edge. Instead, the blades reverberated with the impact, sending red sparks sheeting into the air while releasing a haunting tone that was as clear as a bell.
+
+This moment proved to be Nick’s first lesson in his combat crash course in weapon physics. It turned out that despite Kiki’s diminutive frame, the doll’s Strength was at least several points higher than his own. Additionally, she had been the one to initiate the attack, adding the force of her momentum and the weight of the sword to the strength of her arms.
+
+In this situation, rather than stopping the blow cold, Nick only absorbed a fraction of the force before his sword gave way. As the point of contact had been near the end of his blade but in the middle of the doll’s, the tip of his sword was forced back, freeing Kiki’s weapon to come sliding forward.
+
+Another bright spray of sparks flew into the air as the doll’s sword followed the contour of Nick’s blade. His internal danger sense wailed out a warning, since the angle of Kiki’s strike would now extend straight into the side of his face.
+
+If he were fighting such a dangerous opponent in the wild, he would have dropped the sword and pulled out his wand at this point, using the device to buy him enough time to start casting spells.
+
+While both tools were valid aspects of his overall combat style, he had already resigned himself to not using them, at least not while he was under Rita’s supervision. After all, she wasn’t allowed to train him in anything other than the sword and more importantly, he felt that that it would violate the spirit of the duel.
+
+It turned out that the exchange had already taught Nick something vital. His weapon of choice wasn’t just a means to an end, it was a core part of the warrior he wanted to become. This trial represented a key moment for a growing aspect of his new identity, his role as an aspiring swordsman. It was a path that resonated with something deep inside. One that he intended to walk until he reached the end. Win or lose, he wanted to complete this duel by that measure alone.
+
+All of that passed through his mind in the blink of an eye, as crimson sparks fell like rain. Internalizing that he was a fraction of a second away from taking a sword to his face edge first, his body reacted without waiting for his conscious command. In a single motion, Nick bent his knees and deepened his stance, lowering his profile by several critical inches in the process.
+
+At the same time, he bent his torso back, spine swaying like a willow in the wind. He pressed forward with his blade and braced his arms, so that Kiki’s sword wouldn’t shove him down further. The move caused her attack to cleave through the air an inch in front of his nose as the length of razored metal soared over his head.
+
+Now inside of Kiki’s guard, Nick stepped forward and brought his sword down across his body in a diagonal slash, targeting the back of the doll’s legs as she followed through.
+
+A bare heartbeat before his blade landed, Kiki took a short step and pivoted sharply, bringing her weapon down low with the flat set along the outside of her legs. She stopped his blade cold with an impact that numbed his bones and then stepped on it, trapping its body against the floor of the workshop.
+
+Before Nick could hope to free his weapon, or fully process what was happening, the doll hit him. Not with her sword, but with her wooden fist. He saw a bright flash of light as the ground came up to meet him, vision swimming like he was looking through a warped pane of glass.
+
+He tasted metal and salt and realized that blood was running down his face. It was hard to focus, but he tried his best to recover, afraid that the pitiless doll would keep on pummeling him until he submitted.
+
+“I surrender…” His words were cut off when he felt her weapon press against his jugular, hard enough that if he sneezed, he would cut his own throat. Wondering how his day had turned out like this, Nick followed the sword with his eyes, to where Kiki was standing over him with a contemptuous cast to her posture. Not daring to speak, he held his breath and waited for the construct to back off.
+
+“It’s your point, Kiki.” Rita laughed. “Now let him up. It’s poor form to rub it in like that, and we don’t want to teach Nick any of your bad habits.”
+
+With Rita’s comment, the doll relented, lifting the blade away from his neck.

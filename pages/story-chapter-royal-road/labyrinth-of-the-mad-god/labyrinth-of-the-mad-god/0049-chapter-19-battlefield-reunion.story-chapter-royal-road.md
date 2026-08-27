@@ -1,0 +1,95 @@
+---
+id: 649a2cad-2b07-5159-968e-a3f0361df396
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Battlefield Reunion"
+slug: 0049-chapter-19-battlefield-reunion
+partOf: labyrinth-of-the-mad-god
+position: 49
+ownLength: 1687
+unit: words
+publishedAt: 2024-08-30
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1781252/chapter-19-battlefield-reunion"
+royalRoadId: "1781252"
+---
+
+They waited until the constructs passed them by, then they moved to a room with a door they could close and a window they could peer through.
+
+“Don’t use your darts on those silver-coated ones if we wind up fighting any,” V whispered. “The swarm adapts and creates specialized defenses to counter our abilities. The green shields are resistant to my acid, which was why I couldn’t take out those scorpions at range.”
+
+“That sounds like a real pain in the ass.” Nick sighed and then raised his fist to bump it with V’s.
+
+“Hey Nick. It’s good to see you and thanks for the save, but we really need to stop meeting like this.”
+
+He laughed under his breath. “You too V. I’m glad that I ran into you before I found out the hard way. It would have been bad if I had to face those shields unaware. I can’t handle that many rats at once regardless. Your new launcher is badass by the way. Well, everything you just did was fucking amazing, but that was quite a cherry on top.”
+
+“That was a pretty amazing job yourself. I fucking love that wand, and your spells are really starting to shine. We make a good team.”
+
+She laughed and then winced, as if the motion had hurt her. Nick took a closer look and saw that she was bleeding in a half dozen places, where the rats’ bites and the scorpions’ blasts had torn chunks free from her leather armor and savaged the flesh beneath.
+
+She followed his gaze. “Downside of investing in dexterity over toughness is that while you don’t get hit as often, when you do, it really hurts. Don’t worry, I’ll put some more points into toughening up the next time I level.”
+
+“Here, take this.” He slid his elixir of restoration free from its belt loop and handed it to her. “It’s not that effective when other people use it, but it should help to stop the bleeding and put a bit more fuel into your tank.” She held up the flask, broke the seal, sniffed at the contents, and then slammed the elixir before handing it back to him.
+
+“Ah… that’s better. Tastes good too. I still feel like shit but that took the edge off. Thanks again Nick.” She looked him in the eye, her expression shifting from jovial to serious as she let the banter die down.
+
+“I mean it. I think I would have walked away from that fight, but who knows how much it would have cost me or if I would have been able to avoid the next batch. Kenji was right, you really do have good timing.”
+
+She sighed. “I need to treat some of these cuts and regenerate my stamina, but let’s find another place to hole up first. The rats can follow my blood here and we’re close enough to the site of the battle that they will check every nearby room anyway.
+
+“I don’t want to be trapped again if more of those things show up, and something tells me that it won’t be long before they do. Once they realize that we’re on the move, they will spread out and start hunting us down. We need to be long gone before they make it this far.”
+
+“Sounds good.” He fell in beside her and they started walking, heading away from the intersection as quickly as they could without running.
+
+As they traveled down the endless tube of stone, Nick took a good long look at his companion, making sure that her wounds weren’t worse than she’d let on. He was strong enough to carry V now without too much trouble, although he wasn’t sure that she’d let him.
+
+Nick ran his eyes across her figure, taking in her features and form. Veronica was about a foot shorter than himself, with long brown hair that had just a hint of curl to it. She had medium skin that was well tanned from their stay on planet Drezen, much of which was covered in intricate tattoos.
+
+He couldn’t make out the designs with her leather armor in the way, but he thought that the piece on her right shoulder was of a crow taking flight with the full moon above.
+
+Her body was lithe and muscular, even more so than most people in the post-System world. It was clear that she had invested heavily into dexterity, and had put a fair number of points into strength as well.
+
+She didn’t just look like a warrior, she moved like one too. Even while injured, Veronica walked with consummate grace, so quietly that he could barely hear her footfalls.
+
+She wore a full set of light leather armor that was so deep a brown it was nearly black. It shone with faint hints of red when the light hit it directly. The armor accentuated her curves, and Nick suspected that she was used to drawing eyes as she walked through a crowd.
+
+She had a backpack that was smaller than his own, and a new toolbelt similar to the one he wore. Set along its length were a series of sheaths holding a set of knives that he hadn’t seen before, likely part of the reward for completing the first stage of the fate of Earth quest.
+
+Both arms had collapsible crossbows mounted to her forearms, where they were out of the way until she activated them with a mental command, like Nick’s new shield.
+
+Unlike most of his team, she didn’t have a large weapon strapped to her back. Instead, she could extend and retract a set of bone claws from each wrist, which she could coat with a poison that made her enemies bleed profusely.
+
+Since she seemed to be holding up alright, and there wasn’t any blood dripping to the ground, he turned his attention to her face before looking the other way. Veronica had freckles sprinkling her cheeks and a short, sharp nose. Round cheekbones and baby blue eyes.
+
+Her ears held several studded earrings, and there were marks indicating that she’d had other facial piercings that she’d removed so they wouldn’t get torn out while hiking or fighting. She was younger than himself, closer to Devin in age, perhaps twenty-five years old.
+
+While Nick wasn’t the type to stare, he had to admit that V was strikingly beautiful, and likely had been even before the System began enhancing their bodies.
+
+If he was playing a game from his old life, Nick would have pegged her as some manner of thief or rogue, although her powers seemed more geared toward dealing damage over time than assassination.
+
+He didn’t know all the details of how her class worked, since Veronica had been less forthcoming than the other members of his team. He decided that he would ask about them straight-out whenever they found a place to rest.
+
+Right now, Nick needed to devote his attention to watching out for the corpse-eaters he had named gear-rats, so he returned his attention to the path ahead.
+
+So far, they hadn’t run into any more constructs headed their way, and the ones they’d left behind were still out of sight. With any luck, they would find somewhere to hide without being forced to run or fight, since it would be at least half a day before they were back in top form.
+
+Twenty minutes later, they came across another intersection. This one was a bit different than the others Nick had seen. Instead of being a simple four-way crossing connecting two intersecting passages, this one branched out in eight different directions, none of which led directly toward the center of the floor.
+
+It seemed that they had a decision to make, and this time it wasn’t so easy to figure out which way to go. The good news was that this part of the facility was still on Nick’s map, although everything past this point had been destroyed on the plaque that he’d seen.
+
+Unfortunately, he hadn’t found another mounted map, although he’d checked every time that they came to a fork in the road. They came to a stop while mulling the matter over. Nick pulled out the copy in his journal to refresh his memory, as V moved beside him to read over his shoulder.
+
+He gave her a quick run down on everything that he’d seen before meeting up, then listened as she added her own observations.
+
+“The area we came from was where the staff for this floor lived and took care of basic needs,” she said. “The section ahead seems more like some kind of factory floor. See these markings?” She pointed to his drawing, where a series of thin lines ran across a series of adjoined rooms.
+
+“They look different from the tunnels we’ve been exploring, likely conduits for moving various substances from wherever they enter the floor to the places where they’re processed. That part of your map is incomplete, but it looks like there are a bunch of large enclosures set beside one another instead of the room clusters we passed along the way.”
+
+“I think you’re right.” He nodded. “Since the gear rats were originally designed to help process part of the waste, they are likely more numerous closer to the materials intake to our left. We should head right if we want to avoid them.”
+
+“That makes sense to me. Now let’s find some place to rest. I want to bind my wounds, eat, and then sleep for a few hours. Then I’ll be ready to keep exploring. I’m worried about the others though. I hope they’re down here, but the only person I saw enter the tower was Devin before the blackmist broke over us.”
+
+“I’m concerned too, especially about Kenji’s arm. But I know for sure that Sophia is here somewhere, since she’s the one who led me to the tower door.”
+
+“That’s one less thing to worry about.” V sighed and they turned down the passage they’d discussed.
+
+After that, they walked in silence, each lost in thoughts of their own.

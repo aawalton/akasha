@@ -1,0 +1,147 @@
+---
+id: 33c56d9b-616c-56ea-bb0b-10a7f1e22986
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: Discerning Eye"
+slug: 0294-chapter-14-discerning-eye
+partOf: labyrinth-of-the-mad-god
+position: 294
+ownLength: 2858
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3174340/chapter-14-discerning-eye"
+royalRoadId: "3174340"
+---
+
+As the miles passed beneath their feet, Nick spent some time bonding with every member of his party.
+
+He had always enjoyed Bandit’s company and was thrilled they could communicate as equals and learn from each other. Lurk’s presence, on the other hand, was still intimidating as hell. While she enjoyed fucking with him, at least the multi-ton dinosaur hadn’t tried to eat him, and their old grudge was gradually transitioning into a friendly rivalry. Friendlyish, at any rate.
+
+Fritz’s insights and good-natured commentary were always welcome, and the others were getting to know the sword-bound king as the hours ticked past.
+
+Nick had been hoping to spend some quality time with Kenji ever since they met in the arena, absorbing bits and pieces of the warrior’s brilliance, battlefield experience, and measured outlook on life. They had always thought well of each other, but now that they could interact without the fate of the world hanging in the balance or dealing with Aurora’s daily challenges, Nick discovered that he deeply enjoyed the older man’s company.
+
+While Kenji had over a century’s worth of wisdom to impart, Nick was particularly excited to learn about something he knew next to nothing about—commanding large groups and managing multiple phases of a war.
+
+He had always been a strategy and tactics buff, but in his old life as a professional gamer, he never had to deal with anything on that scale where most of the dynamics weren’t automated, streamlined, or simplified.
+
+Nick had no idea what to say to someone who was facing death, or what it felt like to lose soldiers under his command. While he had worked with a variety of party members by this point, he didn’t truly grasp the dynamics of battlefield leadership, which was certain to be an unfortunate necessity as humanity fought to carve a place out for itself within the Mad God’s domain.
+
+He also learned more about Kenji’s gear as time went by.
+
+While climbing the tower, the warrior had upgraded the spear he’d crafted from the fallen rhino’s horn into a Rare item that specialized in penetrating armor. The weapon kept itself sharp and could carve through flesh and metal with ease.
+
+His tower shield was made from an amalgamation of jet-black iron and blood-red wood. Both materials were incredibly durable and specialized in repelling different forms of attacks, complementing each other to form a powerful piece of armor that could take a beating and repair itself when the fight was over.
+
+The strategist wore a suit of chainmail that was quiet as a whisper with a steel half plate that went over the top. In addition to the standard Durability and Self-Maintenance Modifications most of their gear featured, the armor was modded to be “slippery” to magic. Spells that struck it would slide across the surface, offering substantial protection from both physical and mana-based attacks. Nick loved it and planned to keep an eye out for something comparable later.
+
+While deepening his relationships with his party members was vitally important, it wasn’t his only goal. He had a long list of objectives for his personal development, but his top priorities were advancing his abilities and clearing more trials.
+
+Nick had two trials unlocked right now—Size Up and Wand. Light Shield was close to hitting twenty-five, so he continued preparing himself for that test too. Kenji was intimately familiar with dozens of martial arts and knew how to use a wide range of weapons and armor. The warrior was training Nick to block physical attacks with his Caster’s Buckler, and Bandit was helping him practice deflecting spells.
+
+He was confident that he would be ready to take his Shield test within another few days, but he wanted to get in a few more fights before giving trial a shot.
+
+Nick hadn’t met anyone else who had a Wand skill, which meant he was on his own for that one. He had a few ideas about how he could improve his use of magical devices and wanted to try them out in battle before pulling the trigger on his test of mastery.
+
+That brought him to his impending trial with his information-gathering skill.
+
+Keji was able to offer some pointers on Size Up, since the man had a battlefield danger-sensing skill that was similar enough that many of the principles should carry over. Nick meditated on those conversations and strove to understand the skill on a deeper level as they continued to explore the Labyrinth.
+
+After mulling the matter over, he decided that he was ready to take the test and try to obtain the bonus for advancing Size Up.
+
+He had a hunch this was going to be a tough one, but even if he failed and had to wait six months, he wouldn’t lose that much time all things considered. He had to max out every skill Trailblazer offered and pass the trials before he could increase his Profession’s rarity and take its skill cap past twenty-five, which was going to take at least a few months.
+
+The next time they took a break, Nick opened his menus and pressed the icon beside his list of skills. The instant he touched the floating screen, his surroundings vanished and he found himself standing somewhere that wasn’t all too different from the terrain he’d left behind.
+
+Even still, he knew his test had begun. In addition to his friends being nowhere to be found, he was dressed in a pair of blue jeans and a t-shirt—the same attire he’d been wearing when he woke up on the Searing Isle with his memory in tatters.
+
+He was unarmed and unarmored. Stripped of his skills, traits, and abilities. The only tools he could rely on were his wits, evolved senses, and the boost to his concentration provided by Arctic Clarity, which he had grown so accustomed to that using it was an automatic reflex.
+
+This was Nick’s first time taking a non-combat trial of mastery and he had no idea what to expect. Although, since the skill worked on objects, creatures, and terrain, he had a hunch it would test his proficiency in each of those areas in some way.
+
+Size Up’s original name was Evaluate Threat. Its job is to identify sources of danger in my environment, then help me understand their nature in time to respond. This trial should be assessing my ability to go through that process without relying on the skill’s feedback. For now, I should keep moving while paying close attention to my surroundings.
+
+Armed with a plan, he began making his way forward, using his upgraded eyes to scan every visible surface as he proceeded. This environment was similar to the conduit he’d left behind—minus the waterway running down the middle—a branching network of narrow passageways formed from concrete and brick.
+
+So far, he hadn’t come across any living creatures or any tools he could use to manipulate his environment. That meant his biggest concern was stepping into some manner of trap, which would probably cause him to fail the trial. Since a single mistake could cost him everything and there didn’t seem to be a time limit, he proceeded slow and steady, inspecting every brick and seam for discrepancies that might reveal the existence of concealed mechanisms.
+
+Oddly enough, the lack of obvious threats made him more nervous than the trials where enemies appeared right away. The tension grew by the footfall as he proceeded down the corridor without running into anything more menacing than the sound of boot leather echoing across the hard surfaces.
+
+When Nick spotted a branching pathway ahead, he realized he was navigating some manner of maze. Not a labyrinth with a single route leading to the exit, but a warren filled with hidden dangers he needed to avoid. If I find something too treacherous to cross, I might be able to head back and circle around, but that only helps me if I can detect the traps before I stumble into them.
+
+Twenty nervous minutes later, he hadn’t spotted anything of the sort, so he decided to take a break and decompress before continuing. He forced himself to breathe deeply, letting his muscles relax as he came down from the chronic hypervigilance the trial had imposed. While he regained his composure, he reviewed his strategy.
+
+He had spent long hours on the march contemplating what Size Up had taught him over the months he’d been using it. While the informational skill occasionally provided insights he had no other way of obtaining, it usually highlighted aspects he could have figured out himself by piecing together the subtle clues embedded within the situation.
+
+He focused on the times the skill had saved his life, pointing out dangerous terrain, concealed devices, and enemies about to unleash deadly attacks—trying to determine what had triggered Size Up in those situations, what it had revealed, and how he had used that information to counter various threats.
+
+When he was ready to proceed, Nick rose to his feet and continued navigating the twisting confines. Three switchbacks later, he came to a stop. Something about the floor ahead sent a tingle of danger running down his spine, although it was only a ghost of the clear warning he felt when Size Up was active.
+
+After making sure there wasn’t anything hostile headed his way, he meticulously inspected each section of masonry before putting his weight down, looking for devices hidden within the walls, ceiling, and floor.
+
+He eventually spotted a brick that was a few millimeters higher than the rest.
+
+It wasn’t a mistake in its construction; the floor had gradually been worn down by people walking across it—except that single brick. Minus the dust, it could have been fired yesterday, showing none of the subtle wear and tear he’d noticed elsewhere.
+
+Sure enough, when he scanned the walls, he spotted a tiny gap between the mortar. When he peered inside, he could see a pair of darts set into some manner of spring-loaded firing mechanism. He made sure there weren’t any more, then carefully stepped across the trigger plate. He found three more traps over the next half hour—two pressure plates and one tripwire connected to a deadfall concealed in the ceiling.
+
+The plates were easy to avoid, but the tripwire almost got him. Not the first line, which clearly visible, but a second, almost invisible thread set behind it—exactly where he would have stepped if he had only noticed the first and tried to cross over. It was the wire’s salience that put up his guard. It was so easy to see that it made him suspicious.
+
+Fortunately, there wasn’t a third line hidden behind the second. After a leap that took him over both, he left the deadfall behind with his heart hammering in his chest.
+
+The next trap was implanted within the patterned tiles covering the floor. Instead of a simple pressure plate, the entire surface was the trigger, save for a single path that carried him through to the other side.
+
+Once you understood the design, finding the way was simple, but if you misjudged the arrangement or took a single misstep, the entire corridor would be flooded with gas, based on the dispensers he spotted after reaching the far side of the hazard.
+
+It took Nick four adrenaline-drenched hours to exit the trap-filled maze, evading dozens of deadly devices along the way. Eventually, the passageway opened into a narrow footpath with a cliff on one side, and a mist-shrouded peak on the other. The mountain was too steep to climb, and he didn’t have any way to get down, which meant the only way out was straight ahead. I suppose it’s time to test my proficiency in evaluating natural terrain.
+
+He made his way along the trail, avoiding everything from sinkholes to slide zones to places where the ground had eroded and couldn’t bear his weight. There was always a way to bypass the dangerous areas, but they were hard to spot unless you recognized the nature of the hazard and were actively seeking a way around it.
+
+Not long after, he came across a different manner of challenge. The path formed a three-way split. The trails on either side wrapped around the next two peaks in the mountain range and looked similar the path he’d been following. The third continued through a narrow valley running between them.
+
+That was straightforward enough. The tricky part was the monster blocking each route.
+
+At first glance, the creatures were identical—child-sized imps with wicked teeth and razored claws. The vicious bastards looked more than capable of tearing an unarmed, magicless Nick apart as a pre-lunch workout. There must be something different about one of them. Details that aren’t obvious right away.
+
+Since he wasn’t pressed for time, he sat down on a boulder and inspected each monster in turn, trying to decide which path was safest and if there were more steps involved than simply walking past.
+
+Eventually, he noticed a small but critical fact. The imp in the middle path didn’t have any scars on its face or notches on its ears. Its claws were immaculate and its talons lacked the subtle chipping the other monsters displayed. It looks like it’s never been in a fight, while the others hunt prey on a regular basis.
+
+Lacking any better leads, he decided to take the middle path and approached the monster with caution. The imp growled and postured when he drew near, but it didn’t attack—even when he got a little closer.
+
+From here, he could make out additional details. The texture of the creature’s fur was sleeker than the imps on either side. In addition to its prominent fangs, it had flat teeth in the back of its jaws that were well-worn and studded with plant matter.
+
+This one isn’t a carnivore. I think it’s a beast that mimics the appearance of these monsters to deter predators. As his adrenaline began to flow, Nick decided to test his theory and kept on walking, knowing that if he had made a mistake, his odds of escape were slim.
+
+In the end, his assessment was right on the money. When the pseudo-imp realized he hadn’t been deterred by its ruse, it leapt into the branches of a nearby tree, hiding between the leaves as he walked past.
+
+He ran into two more threats during this phase of the test—ambush predators waiting to attack prey following the trail through the mountains. One was a spider with a complex trap-web, and the other was a patch of carnivorous vines poised to grab anything that drew near. Both creatures were hard to spot, and the narrow paths that led around their kill-zones were concealed by debris.
+
+It was nerve-wracking to pass so close to the deadly creatures, but he managed to avoid their traps and soon arrived at the entrance to another tunnel leading into the mountain ahead.
+
+For the final stage of the trial, things got a lot trickier.
+
+Instead of searching for devices, evaluating his options, and choosing a path that avoided danger, the hallway behind him began to collapse. The tiles forming the floor fell away into an infinite realm of blackness, erasing the way back and forcing him to advance faster as the seconds ticked past.
+
+Now there was a time limit. The pressure added a new element to the trial, forcing him to put the pieces together fast enough to stay ahead of the toppling tiles while scanning for traps ahead, knowing that a single error would result in failure.
+
+What followed was one of the most harrowing experiences of his life. Nick raced the failing floor—locating tripwires, pressure plates, and magitech sensors under extreme duress. It was a near thing, and he almost bit the dust on four separate occasions, but in the end, he arrived on a broad platform with no obvious exits.
+
+He prayed this was the end of the trial, since he couldn’t find a way out and the abyss would claim him soon.
+
+Sure enough, the next time he blinked, he found himself back in the Labyrinth with a System message hovering in his peripheral vision, waiting for his acknowledgement. He let out a shuddering sigh of relief, then willed it to move in front of his eyes.
+
+Congratulations. You have completed the Journeyman trial of Size Up (Evaluate Threat) mastery. Your skill can now advance to 50, at which point you may take the Adept-level trial. For reaching the Journeyman stage, you have gained the following bonus:
+
+Discerning Eye
+
+Provides additional details when Sizing Up threats that do not exceed the skill’s capacity.
+
+Nick was eager to find out what Discerning Eye could do, but anything that made the danger-sensing skill more useful than it already was certain to come in handy.
+
+“So?” Kenji asked.
+
+“Don’t leave us hanging,” Bandit added.
+
+“I passed.” Nick explained what had happened during his trial and described the bonus completing it had granted.
+
+“Well done.” The scarred warrior clasped him on the shoulder. “That skill will be worth its weight in gold over the days ahead.”

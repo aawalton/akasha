@@ -1,0 +1,233 @@
+---
+id: d654066e-6f3a-590a-9bfe-50cea070abff
+page-type-slug: story-chapter-royal-road
+title: "105 — Book 3, Chapter 4 — Divine Studies, Pt 1"
+slug: 0108-105-book-3-chapter-4-divine-studies-pt-1
+partOf: just-add-mana
+position: 108
+ownLength: 3459
+unit: words
+publishedAt: 2026-03-05
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3119209/105-book-3-chapter-4-divine-studies-pt-1"
+royalRoadId: "3119209"
+---
+
+The classroom for Divine Studies was really more of a massive lecture hall, with rows of seats available for nearly every available student to attend. At the center of it was essentially a magically neutral stage, perfect for demonstrating spellwork or performing complex rituals.
+
+Today, there was an enormous and fiendishly complex summoning circle drawn in chalk on the stage. Akkau hadn't arrived yet, but he'd clearly prepared in advance, and every student that arrived was eyeing it with interest.
+
+"What is that?" Leo whispered.
+
+"It's a summoning circle," Cale said. "Most non-heretical summoning circles have the same three basic elements, so you can identify them if you know how they're constructed. The most obvious one is they have a secondary circle in the middle, which represents a hole in the boundary of the realm; it's basically mandatory if your spell is going to interact with the realm boundary in any way."
+
+Leo blinked. "You know a lot about this."
+
+"I've been summoned a lot." Cale grinned. "Being teleported into a different realm in nothing but your underwear gets boring after a while, believe it or not, so I started asking questions. Turns out a lot of summoners are kind of lonely and more than willing to explain in excessive detail how they managed to summon and bind me."
+
+"I... feel like I somehow have more questions now?" Leo said. "But, uh, you said three basic elements?"
+
+Cale nodded. "See the flowing lines moving from the outer circle to the inner one? It's basically an abstract representation of Utelia's leylines. That one can vary a bit, but if your summoning spell is going to reach outside the realms, you need to specify a target. Leylines are unique enough that you can use them to identify your desired realm mostly correctly."
+
+"Mostly," Leo repeated.
+
+"There's a good reason there are so many stories about summoning mishaps," Cale said, shrugging. "A lot of them are exaggerated for effect, but it is pretty easy to target the wrong realm by accident if you don't have an anchor from the realm you're targeting."
+
+"But you said this one targets Utelia," Leo said, glancing back at the circle with a furrowed brow. "Why would the Headmaster want to summon something from Utelia? Why not just teleport whoever he's summoning here?"
+
+"He's summoning something related to Utelia, but not exactly in the realm," Cale explained. "You can usually identify the type of entity being summoned from whatever's written in the middle of the circle; when a summoner refers to a Calling, they're usually talking about that part of the ritual specifically. They have to write a message that calls to whatever they're trying to summon in that entity's native magical script."
+
+"And whatever he's trying to summon is related to us, but isn't in the realm?" Leo frowned, looking over the circle again. "I don't recognize the script. And what about all the other stuff?"
+
+The "other stuff," as Leo was calling it, was the absolutely dizzying number of lines and glyphs intertwined along the outer edges of the circle. "Details," he said. "Literally. It's basically a magical contract turned abstract and incorporated into the ritual. Determines stuff like the nature and length of the summoning, the amount of mana the ritual is allowed to consume, failsafe conditions, that kind of thing."
+
+"Failsafe conditions?" Leo looked suddenly worried.
+
+"Any good summoner has them," Cale said, waving a hand dismissively. "In fact, you can kind of tell how experienced a summoner is by how complex their clauses are. Akkau isn't specialized in summoning but has lived for a very long time, so this is about what you'd expect from someone like him. I've met at least one summoner who inscribed an entire continent with failsafes... although considering what he was summoning, that was probably a good idea."
+
+"What was he summoning?" Leo was wide-eyed, leaning into the tale like he usually did when Cale began talking about his past. Cale grinned, savoring the moment—
+
+Flia chose this moment to speak up. "It was you, wasn't it."
+
+"Ruin the fun, why don't you," Cale complained. "I miss the days when you guys didn't know my secrets. What happened to giving me the benefit of the doubt?"
+
+"It went out of the window the same moment you summoned a literal star, which happened within the first hour of meeting us," Flia deadpanned.
+
+"...You know what? Fair point."
+
+It was nice that his apprentices still felt comfortable enough with him to rib him like this, though Flia was better about it than the others. Syphus didn't care enough to be uncomfortable, but also wasn't all that interested in banter; Damien was anxious about everything in general, and Leo...
+
+Well, Leo probably looked up to him a little too much, but he was trying.
+
+"Did it work?" Leo asked.
+
+"Did what work?"
+
+"The continent-level binding," Leo said, gesturing vaguely at the summoning circle. "When you were summoned."
+
+"Oh!" Cale frowned, trying to remember. "I don't know, it was a while ago, and I never really tried to break free of it or anything. They were nice enough, just incredibly paranoid. I think they just wanted someone to read bedtime stories to them."
+
+Leo gawked at him, and Cale patted him on the shoulder. "Not everything I do results in incredible adventure, you know," he said. "I mean, most of the time it does, don't get me wrong. But that realm was a nice break! I didn't even have to use any magic."
+
+Until later in the same life, anyway, when an incursion into the realm began to cause certain spells and objects to begin acting erratically. He wasn't going to tell Leo that, though. Not when the minotaur still needed to get over the slight hero worship thing he had going on.
+
+"But..." Leo trailed off, looking remarkably perplexed. Cale stifled a laugh, and Damien seemed to take pity on him, speaking up to bring the topic back to something Leo would be able to process.
+
+"You haven't told us what the circle is supposed to summon," he prompted. "Should we, um... you know, prepare ourselves?"
+
+"Oh! Huh. I guess I kind of thought you'd have figured it out already." Cale chuckled. "We're in Divine Studies, remember? That script is sacred script. Akkau is going to summon a god."
+
+There was dead silence for half about half a beat.
+
+Then all four of his apprentices turned to him, flabbergasted. "WHAT?!"
+
+"I helped with the script," Cale added. "You know, since sacred script is hard to work with for most of the realmborn. Akkau wrote a really beautiful poem for the Call, and he asked me to translate it."
+
+"Please tell me you actually translated it properly," Flia said, her voice slightly strangled.
+
+"Well," Cale said. "It doesn't really rhyme the same way in the script, you know?"
+
+"Cale."
+
+"I couldn't just translate it wrong. It wouldn't do the poem any justice."
+
+"Cale."
+
+"Relax," Cale said. "It's not like I wrote anything blasphemous in it. I just, you know, explained that a dragon wrote a very nice poem for the gods and that they should come down to check it out."
+
+Flia groaned. "Alright," she said. "Protocol Four, guys. You know the drill."
+
+"This feels unnecessary," Cale said as his apprentices began to unload a set of custom-crafted artifacts from their satchels. No wonder they'd been consulting with Professor Imrys so frequently; they must've finished up with this project in the week he'd been gone. "It's not like you brought the cactus along."
+
+"We've been your apprentices for a month, Cale. Cactus or not, it's just prudent," Flia said with a sigh.
+
+"I can't decide if I'm offended or proud," Cale said, shaking his head. He thought about it for a moment, then grinned. "Nevermind, I've decided. I'm proud."
+
+"Great," Flia said dryly. "Because Akkau is here. This'll be a good first test for Protocol Four."
+
+Cale would later be forced to admit, however begrudgingly, that Flia had been right to prepare. And also that she had spotted the problem with his improvised Calling immediately, which was that he hadn't been particularly specific about which of the gods ought to come down to look at Akkau's poem.
+
+The result, predictably, was something that probably wouldn't have been possible if not for Cale volunteering some of his mana for the ritual, which he could admit he should probably have been a little more cautious about.
+
+Multiple gods in the presence of one another without the appropriate preparation was something of a known problem, though not a very common one. Most of the time, if the gods knew they would be in the presence of one another, they would retract their domains enough to avoid a clash.
+
+It was only when they were called via a summons that they would have little time to prepare, but the risk of other gods being present was low—what sort of summoner could call on multiple gods at once? It was a greater risk to retract their domains, which would render them vulnerable to the surprisingly common arrogant mortal seeking to usurp their thrones.
+
+Unfortunately, this also meant that all eleven of Utelia's major deities had their domains extended when Cale's "minor contribution" inadvertently summoned them all simultaneously. Cale and his apprentices were the only ones left relatively unscathed by the resulting clash between eleven divine domains; just about every other student keeled over.
+
+"Well," Cale said awkwardly. "At least we know that barrier technique I taught you all works."
+
+"Indeed," Flia said, raising an eyebrow at him. "And this artifact that Professor Imrys helped us build, which extends a protective pseudo-domain around us."
+
+Cale perked up, immediately interested. "How'd she manage that? Did she actually manage to learn something from the Abyssals?"
+
+"She won't say." Flia sighed. "You know how she is."
+
+"She's going to want another Awakening, isn't she?" Cale grumbled under his breath. "I should never have shown her the first one."
+
+"Like you were ever going to get away with that," Flia said, shaking her head. "Will everyone else be alright? I'm not exactly sure what happened."
+
+Before Cale could answer, something washed over them—a sense of ancient, protective magic, sweeping across the hall. Several students stirred at the sensation, pulling themselves back into their seats and staring warily down at the gods arrayed before them; others took a little longer, but were slowly recovering.
+
+On the stage and wreathed in that very same magic was Akkau, wearing perhaps the most severe expression Cale had seen on him.
+
+"That," he said, his voice loud and clear, "was your first lesson in Divine Studies. A divine domain is not to be underestimated. The gods are the foundation of our realm. Their very existence supports and amplifies the basic workings of the world we live in.
+
+"When their domains clash, as you experienced just now, those workings struggle against and fall out of balance with one another. If the world felt heavier then, it is because for a moment, you had to bear the weight of your own existence. This is the one of the true functions of the soul—in the absence of divinity, it holds you together.
+
+"If you were weakened, then understand it is because your soul has never had to bear the weight of your mind, body, and magic all at once. Our divines do it for us. They do the same for every rock and tree, every river and ocean. To understand divinity, you must understand this most basic truth."
+
+His eyes swept across the lecture hall, surveying his students quietly. "Dwell on this for now," he said. "Allow me a moment to speak with the gods. I will resume class shortly."
+
+The hall erupted into quiet murmurs, though no one dared to speak too loudly. Cale watched as Akkau turned to offer each of the summoned gods a deep bow, presumably quietly thanking each one.
+
+"I can't tell if the Headmaster did that on purpose or if he's really good at improvisation," Damien said.
+
+"He probably knows Cale well enough by now that he figured something like this would happen and prepared for it," Flia said. "Although now I kind of regret not knowing what he's talking about."
+
+"I want to train for it," Syphus said. The others turned to it, surprised, and it shrugged. "The dark lord is supposed to negate all divine influence, right? And I don't really like the idea of relying on the gods to carry anything. I can carry myself."
+
+There was a short pause, and then it grumbled. "That doesn't count. I wasn't even sapient back then."
+
+Another pause. "The whole point of your punishment is that you have to roll me up the hill. Why would I roll myself up?"
+
+Then it started arguing in earnest, making several rude gestures in the process. Cale watched this curiously for a short while before Flia spoke up again.
+
+"I don't know about you guys, but I think Syphus has a point," she said. "Or, well, it had a point before it started arguing with its invisible dad."
+
+Syphus turned to glare at her.
+
+"We probably should be prepared," she said. "Is there some way we can practice without... divine support, or whatever it's called? Soul training? Without just going to the Corrupted Lands, obviously."
+
+"I think one of the practice rooms in the library has a function like that," Leo said. "It has a sign on it that says 'no gods allowed'."
+
+Flia blinked. "Are you sure that's not just a sign someone put up?"
+
+Leo shrugged. "All the librarians avoid it," he said. "I've been meaning to investigate."
+
+"Can we actually train that way?" Damien asked, looking at Cale. "I mean, is it possible to get used to it?"
+
+"Oh, yeah," Cale said. "I was going to get around to it eventually. It's a great way to start manipulating intent. Normally all mana has a little bit of divine intent in it; it helps your spells function the way they should and prevents mana from going absolutely haywire the way it does if you don't have any gods around. Training without that assist is one of the things that differentiates a decent archmage from a good one."
+
+"We'd also be casting without the Gift," Leo said. "I've always been curious about that."
+
+"Don't get too excited about that part. You're probably going to blow something up." Cale thought about that for a moment. "Actually, on second thought, definitely be excited about it. You aren't a real mage if you don't blow things up every once in a while."
+
+"I continue to question your constantly changing definition of a real mage."
+
+"Good! Keep doing that." Cale grinned brightly, but provided no further elaboration.
+
+Leo stared at him, then let out a long-suffering sigh. "I'll book us the room for tonight."
+
+"Excellent."
+
+Cale was, in all honesty, more proud than he was letting on. His apprentices were showing initiative! And they were noticing problems before he had to say anything about it. Training outside the influence of the divines was almost a necessity if one wanted to reach beyond archmage, but it was a step that a lot of people balked at. It sounded a lot like blasphemy, after all.
+
+Which was silly. It was temporary, and it wasn't like he was opposed to being close to the gods. He'd tried to explain exactly how close he'd been to gods before, but the apprentice he had at the time had assumed it was more blasphemy and then tried to set him on fire.
+
+Granted, his standards for apprentices at the time hadn't been very high. He'd mostly been looking for people to ramble at. Now he had mages he could raise into some real monsters.
+
+"Cale's doing that creepy smile again," Damien noted. Flia and Leo both nodded, as if that was to be expected, and Cale groaned.
+
+"I'm starting to think I should've stayed with the nobles," he grumbled. "You know half my fun is being unpredictable, right?"
+
+His apprentices grinned at him. "It's pretty much your fault Akkau summoned eleven gods at once, so I think you still have that covered," Flia pointed out. "But you did say a true mage should be prepared."
+
+"I did say that." Cale brightened. "I think Akkau's almost done. There's only one god left. Any idea who that is? She looks like she's sticking around, so I'm assuming he's got something planned."
+
+Leo squinted down at the stage. "I think that's Astiviya, the Goddess of War?" he said. "I don't really know what Akkau would want with her—"
+
+As if to answer his question, Astiviya chose that moment to step forward and speak.
+
+"Your headmaster tells me you are untested in the ways of war." Her voice rang out across the hall with enough force to make several students flinch and sink back into their seats; others responded instinctively, launching battlespells toward her and looking horrified the moment they realized what they'd done.
+
+Not that she seemed all that worried about it. She batted the spells away imperiously without pausing in her speech. "He tells me that you know little of the ways of the gods. That I must speak gently, with kindness, to explain what will soon come and of how you will be tested."
+
+There was a coldness in her voice—a coldness Cale recognized, mostly because he harbored it himself. He had his locked away and surrounded with warmth, though, and for the first time in a long time it felt like it was slowly thawing.
+
+Astiviya had not. Instead, she wore that ice like it was armor.
+
+"I will do no such thing," she said. "Utelia will need battlemages in the days to come. The dark lord will invade. That little tournament of yours will not stop. him."
+
+She surveyed them all, her eyes narrowing; she didn't pause for even a second on Cale, much to his amusement. "Worthless," she declared. "Produce a worthy mage by the end of the week, or I shall end your little academy. If this pitiful state is all you can offer, you will only hinder our defenses."
+
+With that, she spun and vanished. Akkau stepped up to take the center of the stage, looking surprisingly unruffled, all things considered.
+
+"To understand the true purpose of the Fettered Divinity tournament, this is where we must begin," he said, sweeping his gaze slowly across his students. "At the most difficult truth: that the gods are neither friend nor foe. They are forces. Some may be friendly, but not all will be.
+
+"They are not all-knowing. They can be wrong. They can lie, if they believe it worth their time. Do not expect them to subscribe to our beliefs of right and wrong. They are both ruler and subject, master and servant to their domains. For Divine Studies, this is your second but most important lesson."
+
+The silence in the lecture hall was a horrified one, broken only by the sound of Cale clapping. Every single other student in the class turned to stare at him, including his apprentices.
+
+Cale blinked. "What?" he asked. "It was a good speech, and he's right. Most gods need to actually hang out for a while before they learn how to be people. Either that or it's the prismatic mana. I never figured it out."
+
+"Incidentally," Akkau said. "I will, of course, require you to show our worth in a week's time."
+
+Cale beamed. "I was hoping you'd say that."
+
+Akkau shot him a stern gaze, but Cale saw the way amusement flickered in his eyes. "Regardless," he said. "We come now to the importance of the Fettered Divinity tournament. It is a competition between those who have proven themselves to hold great potential, and its reward is custody of the greatest artifact ever crafted."
+
+He paused there. Cale raised an eyebrow slightly when Akkau proceeded not to add a single qualification; he didn't even say the artifact was the greatest one in the realm, and like him, Akkau knew more of other realms than most. What exactly was this, and why hadn't he heard of it before?
+
+"The specifics of this artifact is Utelia's greatest kept secret," Akkau said. "You may have heard that it is simply a token that represents Utelia's strongest magic academy. This is, of course, a lie. It is simply a lie enforced by ancient magic—a lie that must be told until the time of the tournament is almost upon us. For that small window, the truth is allowed to propagate."
+
+Akkau smiled wryly. "Suffice to say that Professor Imrys will be quite disappointed if we do not manage to win."

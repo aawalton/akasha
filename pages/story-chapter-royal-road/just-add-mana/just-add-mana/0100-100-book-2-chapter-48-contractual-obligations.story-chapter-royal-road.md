@@ -1,0 +1,187 @@
+---
+id: 51538d68-707c-5240-84d2-094266b60c72
+page-type-slug: story-chapter-royal-road
+title: "100 — Book 2, Chapter 48 — Contractual Obligations"
+slug: 0100-100-book-2-chapter-48-contractual-obligations
+partOf: just-add-mana
+position: 100
+ownLength: 3562
+unit: words
+ownProgress: 3562
+publishedAt: 2026-02-14
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3053722/100-book-2-chapter-48-contractual-obligations"
+royalRoadId: "3053722"
+markedReadAt: "2026-06-29T18:51:05.188Z"
+---
+
+Kelegas Thornblight did not particularly appreciate being disturbed.
+
+Of course, disturbances were part and parcel of being a dark lord. Perhaps other, lesser beings would be content to delegate the greater duties of the role to their minions, but Kelegas Thornblight was not among them.
+
+It was not that he did not trust the aberrations that served him. They were loyal to a fault, and Kelegas had little doubt that they would be all too eager to please him, if he only asked. Nor was his restraint due to a lack of capability on their part, for there were many among his people that had a great talent for matters of diplomacy and administration.
+
+But if Kelegas did not handle these matters himself, he knew, it would be all too easy to relax. To forget the true importance and necessity of his role, especially for his people. What kind of ruler would he be if he allowed himself to see his people as mere servants to shoulder his burdens for him? How would he stay grounded in the realities of what they needed, if he didn't see them for himself?
+
+That philosophy did mean he had to handle matters he never thought he would have to. There was a great deal of work needed to maintain aberrations, given that none of them benefited from the divine law that otherwise permeated Utelia.
+
+The lack of the Gift was bad enough. That was technically an insurmountable problem in the continent of Lisiya regardless, given his presence alone negated it all throughout the land. But aberrations—his people—were those born in some strange quirk of divinity, by the very same process that created a dark lord.
+
+Except aberrations did not contain sufficient power to negate divinity. Their spark of the so-called dark and anti-divine only meant they could not benefit from the same divine touch the rest of the realm did. His people did not have the divine fire that kept them warm within, so an aberration always felt cold, even sat next to a fire. They held no hint of divine breath, so even those that did not need to breathe faced the discomfort of suffocation. And they lacked the spark of divine light that allowed them to battle their fates.
+
+Kelegas did not blame the gods for this oversight. It was not their fault: he knew this well, for a dark lord benefited not only from their intrinsic power, but from the cumulative knowledge and magic of the dark lords, ladies, and gender-unspecified entities that came before them. His predecessors had done no small amount of research to understand their own nature, and Kelegas knew their conclusions well.
+
+A dark lord had to exist where divinity existed. They were the opposite, required for the balance of the realm.
+
+Where a dark lord existed, divinity was negated, and aberrations were born. Aberrations lacked specific divine qualities that made it hard if not impossible to live amongst others, and through some cruel fact of reality, their mere presence made those touched or blessed by the divine feel a deep, intolerable discomfort, as though their mere presence were wrong.
+
+The role of a dark lord was written deep into karmic law, though what that meant was still poorly understood. A dark lord would gather power for as long as they lived, serving as ruler of both aberrations and the anti-divine. That power would eventually reach a point where it was almost equal to the collective force of divinity in the realm, and that, in turn, would incite a wave of karmic triggers that would near-inevitably lead to war.
+
+Kelegas understood how this worked in the abstract. The entire process was a balancing force that acted as a test for the realm. If the divine did not do their duties—if they did not support and act in the best interests of the realm and its people—then whatever dark one was chosen would ultimately win out and wipe the divine slate clean. They would be allowed to live in relative peace until the first divine emerged once more and the cycle began again.
+
+His understanding of this process, however, did not erase his utter distaste and contempt for it. He knew not what forces had created such a cruel farce to pretend at this idea of maintaining balance. What of his people, then? Aberrations, as they were so thoughtlessly termed? Were they meant to be little more than tools in the impartial eyes of the realm?
+
+He would play his role. He had little choice in the matter. But he refused to be a mere participant in the same cycle most of his predecessors had allowed themselves to be drawn into. All except one that still perplexed him—there was a dark lady whose memories were obscured, even though they should have passed on to him. Kelegas had investigated, but whatever she had done, she had covered up her actions well.
+
+Aside from her, though, the pattern was the same. And Kelegas understood. He felt it, too, a burning disgust toward everyone and everything touched by the divine. It was easy enough to hate those that had everything, easy enough to let himself despise those that did not have to suffer, did not have to fight for every moment of their existence.
+
+But he knew that this feeling was an artificial one, buried deep into his soul as part of the same process that turned him into a dark lord. There was a truth to that feeling, certainly; he would have felt the same even if it was not an intrinsic part of his existence. Only now it was, and it became impossible to disregard, no matter that he could not allow himself to do what it dictated. To scour the world of the divine-touched and damn the future.
+
+Not only that, at least. It was far more important that he find a way to break this so-called balance for good, to ensure a real future for his people.
+
+...Granted, Kelegas had yet to succeed in finding a means of fully working around the intensity of his hatred. Even the best of his invasion plans involved widespread enslavement of the divine-touched, and he was uncertain if he could truly consider those better than the initial, more commonly-used plans of widespread slaughter.
+
+It was irritating. It was especially irritating to know that he would go ahead with those plans, if the opportunity arose. Rational thought and his carefully constructed pillars of belief were all too easily washed away by the wave of hatred that arose whenever he even considered altering his plans.
+
+Even now, in reflection, his fists clenched. To know that so many were able to live in relative peace while his people suffered for every moment—how could he not feel that unspeakable rage? He would have called this a compulsion, for in many ways it was, and yet that rage had been in him even before his transformation.
+
+The difference was only in how little control he now had over it.
+
+Kelegas made himself take a deep, calming breath, a habit he had forced himself to learn, and the torrent of anger lessened to a trickle. No matter his plans, it was in his best interests to wait. The longer he waited, the more his power grew, and the more likely his chances of success; in the same vein, the longer he waited, the more time he had to find a plan he considered acceptable.
+
+He did not yet know how to break the cycle, but at the very least, he could expand on what his predecessor had worked on: a great dark artifact known as the Eventide Seed. Once complete, it could be implanted into Utelia to prevent the reappearance of any divine force permanently, drawing on their potential to strengthen itself instead.
+
+Unfortunately, that plan meant several concessions he would have preferred not to make.
+
+It necessitated the destruction of the Gift, for one, and Kelegas would have far preferred his people gain control over and use of it. The improvements it would grant their quality of life alone...
+
+Not only that, but he would be forced to go ahead with the war at minimum, given the conditions needed for the Eventide Seed to sprout. That meant he would have to slaughter the gods wholesale. What would happen to everyone else was still up in the air, but the murder of the gods was not optional in any world where his people got to live.
+
+And it was murder. Kelegas held no illusions about that. Their own natures prevented them from even seeing the plight of his people, so how could they be expected to help? But Kelegas had little in the way of alternatives, and as far as he was concerned, it was a small price to pay for the safety and comfort of his people.
+
+Yet for this plan to have its chance, he would have to entertain his guests, and Kelegas was not at all looking forward to it.
+
+He would have let out an exasperated sigh if not for the fact that his guards were with him. He had an image to maintain. Much of that image had eroded over the decades, admittedly, given the many duties he had taken up in order to improve the quality of life in Lisiya.
+
+Personally educating an entire generation of dentist-gynecologists, for instance, and developing many of the tools necessary for the profession. And that was just the start. Aberration anatomy tended to be unique.
+
+Still, Kelegas was a professional, and his guards didn't need to see how utterly weary he was of dealing with the Red Hunters. He had granted them that truce simply because it cost him nothing—in fact, their actions seemed to create a strange sort of karmic impediment that pushed off the necessity of invasion. Frankly, he would have ignored them for that alone.
+
+But their leader had insisted on a contract and on an incredibly tedious pretense at diplomacy. In return, he offered what Kelegas suspected was the final component he needed to build the Eventide Seed, and for something he would have done regardless, it was an easy trade to make.
+
+Only the Red Commander seemed to believe his acceptance of their truce was some sort of overture of friendship, and had sent no small number of delegations to discuss the nuances of a potential alliance.
+
+Even the thought made Kelegas grimace. He did not need to spend more time in that creature's company to understand how abominable he was. How he had been allowed a position of power was beyond him, and it seemed so absurd to Kelegas that he almost suspected it to be some sort of ploy by fate itself to make him let go of the final vestiges of his affection for the realm.
+
+He had refused every time, obviously, but the delegations kept coming. This one was even earlier than usual, which meant either the Red Commander had run into trouble or he was finally delivering on that artifact component...
+
+Kelegas hoped it was the latter. The sooner he could wipe out that squad of buffoons, the better.
+
+He swept into the throne room with all the imperious grace he wore whenever he had to deal with outsiders. He gave the delegation an unimpressed glance stare, and waited for one uncomfortable moment before he spoke, his voice ringing clearly through the hall.
+
+"I have indicated that I am uninterested in any further partnership with the Red Hunters," Kelegas said flatly. "Unless there are other matters at hand, I would ask that you leave as soon as you are able."
+
+"We are here to ask why you have failed to honor your word," the leader of the delegation spat, and Kelegas frowned as she stepped forward.
+
+"A bold accusation," he said coldly. "What proof have you that I have done any such thing?"
+
+"This." She thrust what looked like a contract at him.
+
+Kelegas cocked his head and made no move to take it. Instead, spiritual pressure erupted from him. "You will refrain from pushing magical artifacts toward me, or I will consider it an act of aggression."
+
+The Red Hunter paled. "I, ah... my apologies," she said, suddenly stumbling over her words and trembling.
+
+"Indeed." Kelegas frowned slightly at the intensity of her reaction; he had done nothing so crass as to warrant that. It should have been enough to convey his displeasure, nothing more.
+
+Then he narrowed his eyes at the contract she was holding, shaping his mana into a lens so he could examine it more carefully. He wasn't stupid enough to make direct contact with something like that, but now that he was looking more closely...
+
+Oh.
+
+Oh, that was interesting. That was, as much as he hated to admit it, a valid reason to suspect his involvement in the Red Hunters' affairs. Matters of the spirit were a domain that belonged almost exclusively to dark lords, and that contract was one that only a dark lord could have created. It held traces of spiritual pressure, the sort that could reinforce a magical contract and make it binding.
+
+It explained the intensity of the Red Hunter's reaction, at least. She had undoubtedly been carrying that contract with her throughout the trip, and that constant pressure would have weakened her natural defenses.
+
+And yet.
+
+"That contract is a forgery," Kelegas said with a snort. "It does nothing. It is simple trickery to appear as though a dark lord created it."
+
+The spiritual pressure might have been there, but it wasn't connected to anything. It was a collar without a leash, just enough to give the impression of a complete contract to anyone who wasn't a dark lord.
+
+"W-what?" the Red Hunter stammered. "No—we were overwhelmed! It wouldn't have been possible without your intervention!"
+
+"You are a fool if you believe only a dark lord could overcome your forces," Kelegas said, rolling his eyes. "Leave. Your accusations are an insult, and I will not tolerate them. I have kept my word, and I expect you to keep yours."
+
+The Red Hunter gathered herself. "I... the Commander is dead. We—my secondary task was to ask for your assistance as recompense, so that we can complete the deal as promised. If we take over Orstrahl completely, we can retrieve what you need from the artifact vaults—"
+
+Kelegas scowled. "You do not have it?" he asked, his tone dangerous. "And you expect me to lend you my forces—my people—so that you can fulfil your own promise?"
+
+"Without the Red Commander—"
+
+"I do not care," Kelegas hissed, pushing himself to his feet and stepping forward. The entire delegation stepped back, and Kelegas ignored the shiver of satisfaction that shot down his spine at the sight. "If he is dead, then he is even more of a fool than I believed, and trust me when I say I did not believe that was possible. You will hold up your end of the bargain, or I will be forced to take action. Do you understand?"
+
+"B-but—" the Red Hunter stammered, but another look from Kelegas cowed her; she flinched and took a step back, then turned to the others. "Fine. We're... we're leaving. But if we don't get your help, we aren't going to be able to get your artifact component, so you should—you should think about that!"
+
+"You have already informed me where I can find it," Kelegas said coldly. "I do not need the assistance of your little group of pretenders any more. You are, frankly, lucky I do not kill you where you stand. Now leave."
+
+The Red Hunter opened her mouth to protest, then grimaced, understanding the danger they were in. She spun and marched out, gesturing for the rest of the delegation to follow her.
+
+"Leave the contract," Kelegas spoke, and she hesitated, then let the contract flutter to the ground and continued leading the way out without another word. Kelegas frowned as the door swung shut, and didn't move until he felt through his senses that they had left the vicinity of his palace. Even then, he stayed mostly still and silent, his gaze fixed on the contract lying on the ground.
+
+One of his guards eventually shifted and cleared his throat nervously. "Um, sir?" his asked. "Are you alright?"
+
+"I am... fine, Steve, thank you for asking." Kelegas straightened and walked over to the contract, examining it one final time for traps before he picked it up.
+
+In most cases, he would have found this fascinating. This was evidence of a potential second dark lord or lady, which shouldn't have been possible. His mind raced to understand how that might have happened and why they would be acting now—perhaps through some strange quirk of the realm, or the Red Commander's actions had somehow altered the conditions in which a dark one might appear...
+
+But there was a greater problem than that. A trap that Kelegas cursed himself for not recognizing sooner.
+
+The magical contract was a truce between the Red Hunters and Kelegas Thornblight, predicated on their ability to give to him an item that would allow him to complete the creation of the Eventide Seed. Now that the Red Hunters were no longer able to do so, he would be obligated to abide by the terms of that contract's breaking.
+
+Which was to say, he now had to interfere with the Red Hunters. And while that would normally have been cause for celebration...
+
+Kelegas was well aware that any such action on his part would almost certainly lead to war.
+
+If the terms had allowed it, he almost certainly would have lent his forces to them simply to avoid taking action now. At the time, he had considered himself clever for avoiding putting his forces into the Red Commander's hands; now he cursed himself for his oversight.
+
+But there would be time to recover. He would not need to act on his obligations immediately. If he could simply justify his actions as interference, he could delay escalations. He just needed the right justification for something that would still be considered interference, but not enough to spark a war.
+
+His eyes drifted to the contract he held in his hand.
+
+At face value, there was another dark one already interfering with the Red Hunters and their activities. Proposing an alliance with them would be sufficient to count as interference. And if they weren't a dark one, then he could destroy them, befitting the fate of anyone who made light of what his people had to endure.
+
+Kelegas hoped for the first, but the second was far more likely. He tried to restrain it, but that ember of rage within him was already beginning to burn—
+
+"Sir?" Steve spoke up, and Kelegas was so startled by the guard's sudden appearance that he was snarling before he knew it. That was enough for Steve to yelp and jump backward, sending the tea set he was holding flying into the air, then clattering and spilling all over the ground. "O-oh, no! Sorry, sir! Just, um, give me a moment—"
+
+Steve blurred into action, and Kelegas watched as the strongest and clumsiest knight in his forces, the sole chronomancer in his employ, frantically reversed his local time until he was once more carrying a pristine tray of tea.
+
+"I, um, thought you could use some tea?" Steve tried.
+
+Kelegas snorted, amused. "Are you serving me floor tea, Steve?"
+
+Steve's eyes went wide, visible even through his helmet. "N-no, sir! I used a time reversal spell, that tea never touched the floor, I swear! I-I mean, it did, but then it didn't, and this is the tea that didn't!"
+
+"Hmm." Kelegas delicately picked up the cup with his claws—the thing was ridiculously small for him—and took a tiny sip. "And yet it tastes like the floor..."
+
+"B-but that's impossible, sir! It didn't—it never—" Poor Steve was starting to hyperventilate, and Kelegas laughed, placing a friendly hand on his knight's shoulder.
+
+"I am only teasing, my knight. Thank you. You are, as ever, a thoughtful companion and friend." Kelegas smiled at him. "Could you send for Emline? I believe I would like to spend some time with her. I am in need of some grounding, I believe, in addition to the tea."
+
+"O-oh..." Steve seemed oddly disappointed, strangely. Some of the knight's quirks were opaque, even to one such as Kelegas. Still, he recovered and nodded rapidly enough for his visor to flap awkwardly around on his helmet. "Right away, sir! Um, enjoy the tea!"
+
+He made to give the tray to Kelegas, seemed to realize he would have been asking his king to hold his own tea, twitched toward a nearby end table, realized that might take too much time, then awkwardly placed the tray on the floor and shuffled backward until he disappeared from the room.
+
+Kelegas stared after him and laughed again, shaking his head. What a strange knight. He was a good friend, though, and Kelegas was certain that once he spoke to Emline, that knot in his heart would loosen enough that he could act mostly rationally.
+
+Probably. Maybe not that rationally, where Emline was concerned. After all, even he had his vices.
+
+And he was quite lucky indeed that he, too, was hers.

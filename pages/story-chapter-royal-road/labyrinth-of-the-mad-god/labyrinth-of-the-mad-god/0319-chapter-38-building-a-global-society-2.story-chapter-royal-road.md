@@ -1,0 +1,91 @@
+---
+id: 8c0e5bbe-eb8d-5097-86ae-882dea9e3f8c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: Building a Global Society 2"
+slug: 0319-chapter-38-building-a-global-society-2
+partOf: labyrinth-of-the-mad-god
+position: 319
+ownLength: 1952
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3510718/chapter-38-building-a-global-society-2"
+royalRoadId: "3510718"
+---
+
+Elizabeth led the newest members of Team Earth out of the assembly hall and onto the broad boulevard that spanned Aurora’s central district. She came to a stop in a flower-filled park that offered a gorgeous view of the lake in the middle of the Bladewind Badlands, along with the island leading to the dungeon below.
+
+“Before we break for lunch, I will provide an overview of our efforts to date, focusing on areas that will benefit your growing settlements in one way or another. If you would like an in-depth tour of anything you see today, let me know and I will make the arrangements.”
+
+Liz began by explaining the modular design the city-building committee had devised, which would let them expand efficiently over time. Each wedge featured its own residential, industrial, and commercial districts, with major roads running between them like the spokes of a wheel. Thus far, Aurora had completed two wedges and part of a third, although the commercial and industrial districts wouldn’t be fully fleshed out until they had access to additional resources and more crafters had advanced their Professions.
+
+“The inner district is home to our entertainment, research, education, and diplomacy divisions, along with facilities that service Aurora as a whole. Eventually, the city will encircle the lake. The rivers and roads will make it easy to ship resources from our mining outposts and trade with settlements that aren’t part of our alliance portal network.
+
+“To celebrate our new city specialization, I’ll show you the research and education sectors first, where we will cut the ribbon on a brand-new Rare building that will serve as a global center of learning and innovation.”
+
+She led the delegation down the inner ring road, past the fortified area protecting the mana wells and city vault, and toward a vacant lot surrounded by clusters of workshops and classrooms filled with people in the middle of one academic pursuit or another. By the time Elizabeth stopped beside one corner of the marked-off area, a massive crowd had gathered.
+
+Everyone enjoyed watching Rare buildings come up, and a fair fraction of the city had turned out to watch the big moment. The rest of the planning committee was waiting nearby, and they came walking over. She opened her city menus and chose the building she intended to place, which cost quite a few City Points on top of the voucher due to its sheer size.
+
+When she made her selection, a ghostly outline of the structure wavered into existence, setting her heart racing with excitement. After making sure it was perfectly aligned with the committee’s markings, she confirmed the System’s prompt and waited for the show to start.
+
+It began with a buzzing in the air—a tingle across her skin like lightning was about to strike. Dense weaves of magic rose from the ground, far more complex than anything humanity could replicate yet, growing more intense as the chatter died down. First, the ground lowered, digging the foundation for the multi-story structure, along with a basement level.
+
+Once the earth was perfectly flat, the System’s mana assumed physical form. Layer by layer, a lustrous material grew into being, spreading as it covered the dirt and began building the walls. Over the next twenty minutes, a seven-story structure emerged, filled with hundreds of classrooms, workshops, laboratories, conference rooms, and storage areas.
+
+The design was gorgeous. The walls were formed from a dark blue crystal that complemented the pearl floors. The exterior was covered with decorative columns and etchings that were utterly alien but blended well with the city’s aesthetic.
+
+The leader of Aurora has purchased:
+
+1 University (Rare).
+
+A cheer arose when the System’s update went out, which meant the structure was complete. Her citizens entered the University and began to explore while Elizabeth shared the details with the visiting dignitaries.
+
+“In addition to providing a centralized area for our scholars, researchers, students, and instructors to meet, the building’s magic promotes alertness and facilitates learning. It should synergize nicely with the skill-improvement bonus from our specialization, hastening our advancement during this vital period.”
+
+Liz explained that people were teaching classes on everything from making the most of their skills to vital energy manipulation to everything you needed to know to survive in the wild.
+
+“Over time, we will offer a full range of courses designed to help the next generation adapt to our new lives as part of the multiverse, and train experts in a vast range of specializations. We plan to offer seats to non-residents too, and when their education is complete, they will return home and to spread the knowledge humanity needs to thrive across the globe. A team of scholars is hard at work recording everything people remember from their old lives, ensuring the expertise, culture, experiences, and knowledge stored inside their brains isn’t lost to the ages.”
+
+She stopped to answer questions while the group took a quick tour of the structure. The dignitaries were excited by the ideas Elizabeth had presented and were already discussing who they should send to attend classes and how they could build something similar.
+
+“While we have a wealth of knowledge from the old world to preserve and build upon,” she continued when the diplomats had regathered, “there are also exciting discoveries about the new forces governing our existence. We intend to use the scientific method to study these matters in depth, including mana, Psi, stamina, and health, along with countless subjects pertaining to the System and life in the Labyrinth.
+
+“Over time, we hope to uncover the rules governing ability advancement, class unlocks, free casting, climbing the Tiers, conditioning attributes, and myriad other topics besides. Working together, we intended to determine the best ways to complete the trials of mastery, earn milestone bonuses, accrue essence, and grow strong enough to protect our planet as efficiently as possible. To those ends, we have a brilliant team of dedicated researchers that is growing by the day.”
+
+Liz went on to reveal the existence of the puzzle door below the lake, although she wasn’t going to mention the mysterious creature living in the water until she knew more about it.
+
+“While we are eager to find out what’s inside the dungeon covering the lake floor, the door itself is even more important. It isn’t merely a test; manipulating the runes is teaching us about the fundamental laws of magic, which we hope to incorporate into our classes once we finish devising a theoretical framework.
+
+“And that is just one source of our scholars’ insights. The condensed mana the wells is a valuable source of data too, letting us study each frequency of energy in concentration and isolation. We have teams analyzing the ambient mana in the Bladewind Badlands and surrounding biomes, and another group is measuring the magic emanating from the cores of people, monsters, and beasts, as well as the energetic pathways it follows when activating System-granted spells and during the direct mana manipulation known as free casting.
+
+“As our population grows, we will research other forms of vital energy, as well as the transformative energies, essence and experience. Right now, we have mostly been observing and measuring, but we are eager to enter an experimentation phase as we develop the requisite infrastructure and tools.”
+
+Liz planned to take the diplomats on a tour of Aurora’s industrial and crafting efforts before they returned to their settlements, including the Item-Modification Station, but for today, she had two final stops in store.
+
+“Next is our budding technological-development division. Their mission is twofold. First, they hope to adapt as many technologies from the old world as possible, preserving humanity’s achievements while determining which tools are viable in our new reality and which no longer apply.
+
+“Their second goal is to uncover the principles governing the mana-infused devices known colloquially as magitech, which we encountered while climbing the Tower of Rizzen and exploring alien worlds. We hope to reverse engineer the various tools, constructs, and automated facilities we observed, and learn to build our own, merging the electronics and digital devices from Old Earth with machines that were invented where mana was a part of everyday life from the start.”
+
+The next building Elizabeth led the group into was guarded by several elite warriors around the clock, as the items it contained were irreplaceable artifacts.
+
+While humanity’s works had been scoured from the Earth during its integration into the System, not everything from the old world had been lost. People had brought whatever they were carrying into the portals they escaped through, including books, smart phones, personal computers, and the like.
+
+“Welcome to the Old Earth tech center. Our engineers are devising a reliable way to produce the electricity required to power everything we’ve collected. We hope to achieve three goals in the days ahead. First, we intend to draft schematics of every component, which should eventually let us build new devices from scratch. Second is transcribing the code for the software involved, so humanity has a permanent record of the building blocks of the digital world. Finally, we plan to archive the data itself, including pictures, movies, and other recordings, even pieces of the internet that were achieved in memory.
+
+“Some of the devices had battery backups, and we have already preserved a wealth of images, documents, and videos to form the backbone of a historical record. Soon, the stories, songs, and experiences of the civilization the System unmade will be accessible to its scions once more.”
+
+That revelation set off a fierce discussion. While the dignitaries were interested in research and education, the fact that not everything had been lost after all evoked powerful emotions for anyone who had watched the shroud of annihilation erase humankind’s works from the globe. When one of the technicians played songs from a recovered device, several people burst into tears, and everyone was visibly moved.
+
+Their final destination was the Magitech Research and Development Center, where a team was studying the various devices Aurora’s citizens had donated, along with a plie Kerry had acquired through trade.
+
+The group was fascinated by the gear-rats Nick had brought from Darkstone Tower, although Liz wasn’t ready to reveal the existence of the other models just yet.
+
+“As many of you know, magitech is a technology unlike anything we’ve seen before. Our researchers have discovered that it’s powered by crystalized mana, which we are only at the earliest stages of understanding. In addition to these constructs, we have encountered devices that generate barriers, wands, turrets, traps, and vehicles—even personal data devices that mimic many of the functions of smart phones. During the days ahead, we hope to replicate these feats and improve upon them.”
+
+When the group was done exploring the rows of alien artifacts on display, Elizabeth led them out of the building, and everyone went their separate ways. When they were out of earshot, she turned to Kerry and Stan and grinned. “How did that go from your perspective?”
+
+“They’re hooked.” Stan smiled back. “Going forward, we should have all the help we need to further our objectives. Specialists will start flocking to Aurora before the day is done.”
+
+“It’s just the first step,” Kerry added, “but your plan to make our settlement a planetary hub of innovation is well on its way to fruition. Although I have a hunch that you have something even more ambitious in store.”
+
+Liz cackled on hearing those words. “That is an astute observation, my brilliant friend. Let me treat the two of you to lunch at our newest restaurant, and I’ll fill you in on the juicy details. We’ve managed to build a solid foundation, but what comes next is where the real fun begins.”

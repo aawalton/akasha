@@ -1,0 +1,139 @@
+---
+id: 75a51a43-2f4b-5154-9e2c-5723bcee6e2b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51 — Epilogue 3 — Sternkessel"
+slug: 0051-chapter-51-epilogue-3-sternkessel
+partOf: just-add-mana
+position: 51
+ownLength: 2543
+unit: words
+ownProgress: 2543
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2698801/chapter-51-epilogue-3-sternkessel"
+royalRoadId: "2698801"
+markedReadAt: "2026-06-29T18:49:19.481Z"
+---
+
+It was, as a general rule, rather unusual for Sternkessel to feel much of anything.
+
+That said, he wasn't incapable of feeling. Far from it. Indictments were an embodiment of a realm raging against itself, and Greater or not, Sternkessel had been no exception. He had manifested from the very tool the Loomweavers used to commit their blasphemy—their so-called Abyssal Sphere, made to peer into other realms and calculate the positions of their stars.
+
+Had it been built simply to observe and learn, there would have been no retribution. There was no punishment for learning, after all. Nor was the mistake of contaminating their magic severe enough to warrant the appearance of an Indictment. Even bringing an Abyssal One into the realm, as severe as it was, could not warrant such a terrible measure.
+
+It was the enslavement of the Abyssal that had provoked the wrath of the realm. It was their continued treatment of it—the bindings, the petty little rules imposed on their perfect community—that caused him to emerge as among the strongest of Utelia's Greater Indictments.
+
+And his emergence had been just like all of theirs. Wreathed in bitter hatred and terrible rage, ready to invoke pain and misfortune on all who would dare defy the realm. He had been created for a single purpose, after all, and he knew with intimate clarity every suffering the Loomweavers had inflicted. He had no doubt about what he had to do.
+
+Except by the time of his manifestation, the Loomweavers were gone.
+
+That should have been impossible. Indictments emerged when they were needed; this was a known fact, an inviolable rule that Sternkessel understood to the very core of his being. He knew little else at the time, but he knew that with certainty. Except when he had emerged, the mages he had been meant to punish had long since vanished.
+
+It was a humbling thing, to be proven wrong within the very first seconds of his existence.
+
+Not that Sternkessel had thought that way at the time. He remembered a deep sense of loss, a feeling that his very purpose had been ripped away from him. What was he to do now, with nothing left to guide him? What could he do except wander the empty halls of the Inverted City with a rage that could never be satisfied?
+
+And that was all he did, for a time. He skulked about as Indictments tended to do when their purpose was fulfilled, acting as the sole guardian of the Inverted Spires.
+
+Unlike his kin, however, his purpose had never been fulfilled, and so a sense of dissatisfaction began to grow within him. He didn't quite know what to do with it. All he knew was that he felt increasingly frustrated wandering the same empty halls. At the same time, he noticed that every so often, a mage would wander into the Inverted Spires to challenge its dangers.
+
+It was something he watched with little more than idle curiosity, at first. At the very least, it was something different. Until one day, one of those same mages managed to catch a glimpse of him, even through layers of enchantments and his own unique magic.
+
+That had been his first meeting with Akkau, known at the time as the Thousand-Cored Beast. And the damnable mage had smirked at him and called him "the rarest of treasures," even knowing what he was!
+
+Absurd. He left immediately, not wanting to speak with this strange creature. But the meeting lingered in his mind for one simple reason: it was the first time he could recall feeling anything other than raw frustration.
+
+The one meeting led to him watching the other mages more closely. He noticed, finally, that there was something pulling at him every time the mages acted against the dead city's rules. A vague sense of action and reaction, so to speak, not from him but from something else.
+
+Only then did he remember that there was something else here. The Abyssal was the reason for his emergence in the first place. Until that point in time, he had barely even stopped to consider that fact; he had never encountered this Abyssal in his wanderings, after all, and it had never been part of his purpose. He pitied it, but there was nothing that could be done, and that was that.
+
+And then for the first time, he had the spark of a thought he could call his own: perhaps things did not need to stay that way.
+
+All these mortal mages scurried about in his domain with no apparent rhyme or reason, often arguing and aimless. Was that how others went about their lives? Without that sense of what it was they needed to do? If they could do it, then perhaps he could, too. Perhaps he could find a purpose of his own rather than rely on the one that was given to him.
+
+And perhaps, while it would never be quite as certain as the first few seconds of his existence, it would be enough.
+
+That one thought was the beginning of Sternkessel's attempts to understand what it meant to be mortal, though the term "mortal" didn't quite fit. That rather frustrating dragon that kept visiting, for instance, was technically immortal just as all dragons were; that immortality, however, was based in mere magical longevity rather than a result of being a fixed existence as Sternkessel was.
+
+Realmborn. He encountered the term in an ancient journal somewhere, eventually. A term to describe those born within a realm, encompassing dragons, elementals, and all other similar creatures; though some were mortal and some were not, all had to learn slowly about the world they were in.
+
+Sternkessel had been created by the realm, but he wasn't a realmborn. Not by that definition. Like the Monoliths themselves, his was an existence that was true both within and without.
+
+...Which was rather irritating, because it meant there was very little he could draw on to understand what he really was. He was a different form of life, certainly, but what type of being was he? What made him different from the realmborn?
+
+That gap only seemed to grow the more he learned about the world around him and realized how little he knew about his own species. He understood all he needed to, but had been given no more than that: every scrap of understanding thereafter he'd had to fight to attain on his own, and the things he learned both startled and discomforted him.
+
+He learned, for instance, that other Greater Indictments existed on Utelia, but he learned just as quickly that they were nothing like him. They had borne their duty and dealt out their justice, and now stood guardian over the ruins their actions had wrought. Each was a monument to what must never be done again, and despite his best efforts, none seemed interested in talking.
+
+In fact, while they never tried to strike at him, none seemed interested in anything other than their duty. His attempts to speak to them and learn what things were like for them were cast aside all too easily.
+
+And just as uncomfortable was the fact that Sternkessel quickly began to realize in his travels that there seemed to be no rhyme nor reason to what the realm would merit as worthy of an Indictment. They were always created in the wake of an atrocity, certainly, and yet many atrocities were committed with no response from the realm. Why?
+
+Sternkessel had no answer. He felt he should have, but he knew nothing. All he really knew was that even among his own kind, he was unique. With his duty unfulfilled, he had been given the opportunity to be more than he was. Strangely enough, he was starting to see that as a blessing.
+
+Along with that still-frustrating dragon's persistent visits, though at least that was a different kind of frustration than what he usually felt.
+
+Time didn't quite work the same way inside and outside the Inverted Spires. Sometimes years passed in the rest of Utelia where the Inverted Spires themselves saw only a few days, and sometimes it was the opposite. He would wait a century for that one dragon to return only to find that less than a week passed outside. This, he suspected, was the effect of the Abyssal's power corrupting that portion of the realm.
+
+It was also one of the few things he had little control over. So it was that Sternkessel came to begin spending more of his time outside the Spires instead, where time was consistent and he could learn more about the world. He still visited the Spires often, of course, if only to care for the Abyssal and to search for a means to free it. Progress was slow, but he had chosen that as his purpose, and he was determined to see it through.
+
+Akkau insisted on accompanying him, to his feigned annoyance and reluctant pleasure: he refused to admit at the time that he had grown fond of the dragon. He certainly refused to tell him that it was him that had taught him to feel and participate in the world the way a realmborn did.
+
+Funny how their positions were reversed now. There was a lot that Akkau hadn't told him, he knew; in his older years the dragon had begun to withdraw into himself, until not even Sternkessel could get him to speak what was on his mind. It pained him to see, and yet no matter what he tried...
+
+He sighed, a realmborn mannerism he had picked up over the years. If nothing else, his job in the Brightscale Academy was a highlight for him. He hadn't been expecting it when Akkau had convinced him to join, but the old dragon had been right about that, just as he had been about so many other things. His care for the Abyssal translated rather well to teaching, and he had grown to love both the job and his students.
+
+More than that, he had slowly grown to love being alive. Being himself. It was something he never could have imagined in his early days, and yet here he was now. The mothfolk he was rescuing reminded him of some of his students, really, and while Serof had technically been responsible for his students being in danger...
+
+Well, he would have been a fool not to see the parallels with the Abyssal One he had cared after for centuries.
+
+Of course, it was only expected that there would be complications. Sternkessel was no fool, and he would not underestimate the Red Hunters, not after what they had done. He was on the alert, which meant he noticed them, even when they tried to hide from him.
+
+It was a clever trick, too, designed to use the labyrinth's passages to further warp his prodigious sense of space and miscalculate the position of his would-be ambushers.
+
+"Really, now," Sternkessel said with a small sigh. "An ambush like this is in rather poor taste, don't you think? Surely you had better options than an army of the dead."
+
+Serof clung to him, terrified, as a Red Hunter flickered into existence. Just behind him was what amounted to a small army of shambling zombies, each one wearing shimmering, flowing robes and dresses. Sternkessel frowned, something uneasy flickering within him.
+
+"Pah!" The Red Hunter seemed thrown off at being spotted, but he recovered quickly, puffing out his chest in an attempt to intimidate. "We did our research! We might not know how to deal with your magic, but we know how to deal with you. Our Observers did some searching, and you know what we found?"
+
+Sternkessel did not like where this was going.
+
+"We found that you used to have a family," the Red Hunter bragged. "So we brought them back. All the Loomweavers. How does it feel, having to face off against them?"
+
+"Ah." The uneasy feeling within him had grown, and Sternkessel was now certain he knew exactly what it was. "I'm afraid you have rather gravely miscalculated. A pity, truly; if you had chosen any other measure, I might have left you alive."
+
+"What?" the Red Hunter sputtered. "N-no—the files! You don't let people die! We checked! These guys aren't fully undead, do you realize that? We used resurrection magic! They're still in there!"
+
+"Yes," Sternkessel said quietly. "That is precisely the problem."
+
+He turned to Serof and crouched to speak in a low, gentle tone. "I am truly sorry for this," he said. "But you must run. Do not look back and do not linger, and if you encounter Cale or Akkau, tell them every word of what that Hunter said. Do you understand?"
+
+"I... yes?" Serof swallowed. "But—"
+
+"Good enough. Run now, little one." The feeling within him had sprouted and turned into something ugly, and the normally gleaming gold of his head began to twist and blacken. "I cannot hold myself back for much longer."
+
+Serof stared at him. "Thank you for helping me," he said. "You didn't have to, and I—"
+
+Sternkessel shoved him. "Go!" he commanded, and Serof stumbled, turning to run. A small part of him clung to that tiny piece of gratitude, though. It surprised him, how much a small thing like that could ground him against what was coming. But not for long.
+
+He straightened to dust off his suit, looking at the now-clearly-wary Red Hunter. The mage wasn't even looking at Serof. He was staring at Sternkessel instead, looking more and more afraid.
+
+As well he should.
+
+"Your miscalculation," Sternkessel said quietly, "was believing that bringing the Loomweavers here would make me hesitate. It is both our misfortunes that you are deeply, terribly wrong."
+
+The crystal heart within his rings flashed to a terrible blood-red and began to ooze. His body warped, metal tearing through his chest and shredding through his suit; legs of twisted, blackened gold slammed into the ground, cracking through the stone.
+
+That feeling within him was his original purpose, long thought dead and yet now roaring back to life. The same bitter hatred he had emerged with now raged within his core like no time had ever passed, like he had never learned to be more.
+
+Only a small piece of Sternkessel remained, clinging stubbornly to existence.
+
+Because it was, ultimately, unusual for Sternkessel to feel much of anything. He had been created with one purpose, and for that purpose he needed only that bitter rage that defined his earliest moments of existence.
+
+It was for that same reason that he clung to every other feeling like the precious things they were.
+
+Greater Indictments were never made to laugh, or love, or live. Sternkessel had done all three, most of it in the company of a certain dragon. And even as his body was warped to fulfil his purpose, he realized one truth: he didn't want to stop now.
+
+Stop me if you must, Cale, the small part of him that remained thought. For I fear that in this state, I may not know to stop myself.
+
+Then a roar echoed through a labyrinth, and a Red Hunter and his army began to scream.

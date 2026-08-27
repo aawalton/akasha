@@ -1,0 +1,213 @@
+---
+id: 8a9a60a2-8c11-56d2-b3c5-8fc7aaaf05f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26 — Magical Geography, Pt 4"
+slug: 0026-chapter-26-magical-geography-pt-4
+partOf: just-add-mana
+position: 26
+ownLength: 3369
+unit: words
+ownProgress: 3369
+publishedAt: 2025-08-26
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2549439/chapter-26-magical-geography-pt-4"
+royalRoadId: "2549439"
+markedReadAt: "2026-06-29T18:48:26.406Z"
+---
+
+Cale watched with interest as Leo finally cast a spell in front of him. Now that he thought about it, this was his first time seeing Leo actually use magic. And it was labyrinth aspect magic, at that! Labyrinth was rare enough as a natural attunement that the furthest reaches of the aspect's potential hadn't really been explored yet; rarer aspects tended to be harder to attune to, as a general rule, and building complex high-tier spells out of them were harder still.
+
+The one that Leo was casting wasn't a high-tier spell at all, but it was still pretty effective on the... magic elephant creature. Cale really needed a better name for that thing. Either way, the spell was beautifully elegant: it created thin, almost unnoticeable walls of labyrinth mana that exuded a sense of impassability, forcing its target to react to walls that weren't there.
+
+He wondered if—
+
+You have learned [Labyrinthine Affliction]!
+
+Oh, good! Cale beamed. He had no idea what tier the spell was, but he'd been hoping he could pick it up. It would make teaching Leo later far easier. He glanced over the Gift's information on the spell, just to see if it did what he thought.
+
+[Labyrinthine Affliction, Level 1] [Second Tier, Active] [300 Mana]
+
+Trap a foe in an imagined labyrinth of your creation. The more intelligent a creature, the more likely it can resist this spell. Note that contact with the walls of this false labyrinth will break this effect.
+
+Cale whistled. It was a surprisingly low-cost spell, given the strength of the effect. Imprisonment spells like these were typically far more expensive, especially when they had a direct impact on the mind. Cale could certainly admire the efficiency of the thing; from what he was seeing, the spell didn't bother creating walls for the entirety of the imagined labyrinth. Instead, the labyrinth aspect mana moved with the spell's target, essentially keeping the spell footprint relatively low.
+
+The other advantage of this spell, of course, was that it could be used for more than just imprisonment. Other spells that moved their targets tended to rely either on overwhelming that target's innate resistance—a feat that could be enormously costly for magical creatures in particular—or simply shoving them with physical force. This one simply used its target's natural desire for freedom against it.
+
+Not that all this would have made it easy for Leo to deal with the beast on his own. As good as [Labyrinthine Affliction] was for redirecting opponents, it was still a fragile spell.
+
+And that was where Damien came in. The dreadshade sat atop the elephant, gritting his teeth and trying to keep it corralled with those whips of decay mana. It was a good bit of teamwork—without him, Cale was pretty sure the monster would have collided with the walls of the labyrinth and broken the spell several times over by now.
+
+Instead, Damien used his mana sense and sharp jerks of his whips to direct the elephant and slow it down just enough for it to skid to a halt right before it would have slammed through one of the walls. Then it turned and did the same thing again, and again, and again...
+
+Each time, it got closer and closer to the dome that surrounded them. By the time it realized what its opponents were doing, though, it was too late; it tried to stop, but without Damien's guidance, didn't manage to reach a complete halt before it touched the edge of the barrier.
+
+Cale leaned forward with interest. This, he was sure, would be illuminating.
+
+The moment they made contact, they went utterly still. Ambient mana around them shuddered in anticipation, and as if realizing what was about to happen, Damien scrambled to leap off the monster.
+
+Almost the same moment he did, beast and dome shattered. There was a singular instant where it seemed almost as though space was contracting around the two before exploding outward, creating fragments of prismatic glass that floated in the air for a moment before fading into nothing.
+
+Cale's brow furrowed slightly as he studied the spot where the explosion had happened. Fascinating. It was subtle, but he'd sensed thousands of tiny microfractures racing through both the elephant and the dome a moment before the explosion, and the pattern he'd seen in those fractures...
+
+"Domain collapse," he said out loud, still staring intently at the now-empty space. He could feel lingering traces of power left behind.
+
+It was something that wasn't mana, but was capable of manipulating it. Yet when it failed, it failed in a pattern that matched what normal spell failure would look like. What did he know of that fulfilled those conditions? It felt too familiar to be entirely new to him, yet at the same time too unusual to match any of the phenomena he already knew of.
+
+The closest match was domain magic. The way the elephant and barrier had reacted when they came in contact was exactly the way two identical domains reacted when they made contact with one another. That explained some of the behaviors of the elephant as well—the way it moved had been strange, loping around like gravity mattered to it yet not quite making contact with the ground.
+
+Whatever it was, Cale was pretty sure it hadn't actually been alive. Both the barrier and the elephant were expressions of the same domain, except one had been shaped into a dome and the other into an elephant.
+
+Cale had no idea why anyone would do such a thing. Why create a domain and shape it like a magical beast, much less animate it? That wasn't what domain magic was used for. Animating a domain was even worse. Cale was relatively certain that shouldn't even have been possible.
+
+On top of that, the elephant had reacted to Leo's [Labyrinthine Affliction]. A normal mage-animated construct wouldn't have had enough of a mind to react to a spell that fundamentally relied on its target's mind. The strategy shouldn't have worked.
+
+Except it had.
+
+Domain magic answered a lot of his questions, though. It explained why the two domains making contact had failed explosively. It explained how the barrier and elephant had both been able to manipulate mana directly without seeming to use mana themselves. Domains were one of few types of magic capable of doing such things.
+
+They were also one of very few kinds of magic that didn't need to be fueled with mana. They certainly could be—[Baker's Domain] was a common example of one such magic—but they also had a large number of... alternate casting methods, so to speak. Few of them were palatable or practical, but they were certainly possible.
+
+If that were true, then something was the cause of all this, and probably that same thing was behind the whole of the Inverted Spires. It was possible, albeit unlikely, that the entire anomaly was some sort of massive nested domain.
+
+But there were one too many holes in that theory for Cale to be certain. There had to be something he was still missing.
+
+It had been so long since he'd been stumped like this. Not counting the whole situation with the voidcytes, of course; as far as he knew, there just wasn't really a solution to that whole mess. But this? This was exciting! There was something new here—something he didn't already know about, capable of casting or mimicking domain magic at a distance and making it seem almost alive.
+
+He'd forgotten how much he loved not knowing things. He only mostly didn't like it when there were other people around he had to think about, but as long as Sternkessel was offering them his protection—
+
+"Cale?" Damien limped up to him, which caught Cale's attention immediately. Sternkessel wasn't completely protecting them, he supposed. "Did I... was that right?"
+
+"You did great," Cale said immediately. He reached out to steady Damien, glancing around the clearing to make sure nothing new was on their way to attack them. "Are you alright?"
+
+"Fine." Damien's shoulders relaxed slightly as he straightened at the response, almost as if he'd been afraid of disappointing Cale, though he also winced a little when he tried to put weight on his left leg. "It should heal in a few minutes. Just got thrown back from the refractor beast when it, um, exploded."
+
+"Refractor beast," Cale said, snapping his fingers. "That's so much better than what I had in mind!"
+
+Damien eyed him for a moment. "What... did you have in mind?" he asked cautiously, like he was afraid of the answer.
+
+"Magic elephant thing," Cale said. "But in my defense, I was going to rename it once I thought of something better."
+
+Damien looked at him and then just nodded slowly. Behind him, Leo came up, scratching the back of his head. "Do we have any idea what that was?" he asked. "Because I haven't seen anything like it in any of my books, and I've read a lot of books."
+
+"Damien called it a refractor beast," Cale said helpfully. "I think it's a good name for it. As for what it is... I'm not sure! Isn't that brilliant?"
+
+He beamed at both of his teammates, who stared back at him, speechless.
+
+"Don't you have a guess, at least?" Leo asked.
+
+"Technically!" Cale dusted off his robes and glanced around. "But I think I'm still missing something. I'm pretty sure both the refractor beast and the barrier were variants of domain magic, but domains shouldn't be able to move, and it doesn't explain why the refractor beast was reacting to your spell like it was live. It also means there has to be a caster of some kind that's behind all this, and we haven't even seen a hint of them so far."
+
+He paused as the golden watch Sternkessel had given them chimed in his pocket. "I guess I should check our points, actually," he said, pulling it out. They had been at four points before—between the two rescues and the points Cale had just earned, though, they were now sitting at eleven.
+
+"Guess that counts as a major discovery," Cale said, pocketing it again. He looked up and paused. "Why are you guys staring at me?"
+
+"Because no one in the Astral Wing has ever managed more than ten points in one of Professor Sternkessel's classes," Leo said. "We're at eleven? You're sure?"
+
+"One point from passing," Damien said quietly. "We could get another credit. I've never gotten more than one credit in a semester, let alone in a day... although, um, I guess this one should go to Cale."
+
+"I don't want it," Cale said carelessly.
+
+"Wha—" Damien shook his head and exchanged glances with Leo, who seemed to agree with him. "You don't even know what they do, not really. We can't just let you give them up."
+
+Cale's nose wrinkled. "I mean, all I know is that Orstrahl's the kingdom that sent those Red Hunter dicks after you," he said. "You said they can be redeemed for political favors, but I don't really want to deal with them. Unless I can use them to make Orstrahl abolish the Hunters, I guess, but do you really think it's a good idea to let me talk to their king or whatever?"
+
+That gave Damien pause. He blinked once, then turned to Leo, who shook his head slowly.
+
+"Probably... not?" Damien said hesitantly. "At least let us tell you what they can be used for. If you still want to give the credit to us, you can do it then."
+
+"Whatever," Cale said, waving a hand. He looked around and gestured impatiently for the other students to join them—they were gathered nearby and not-so-subtly staring, evidently doing their best to listen in. "You lot! Stop trying to eavesdrop and just get over here."
+
+A few of them seemed embarrassed, to their credit. They made their way over to Cale and the others and stood there awkwardly for a moment.
+
+"I'm Cale," Cale said, introducing himself. "I'd ask you to introduce yourselves, but frankly I'm going to forget all your names immediately if we do it that way, so just call each other by name and I'll pick it up eventually." He paused. "Probably," he added.
+
+"Cale," Damien hissed at him, embarrassed.
+
+"Second, you're probably wondering how Damien and Leo knew how to defeat that magic ele—the refractor beast," he corrected himself. He patted Damien probably a little too hard on the back, pushing him forward but supporting his weight before he put any pressure on the bad one. "Damien's a badass and Leo has cool maze powers. More importantly, they're both real mages who know how to use what they've got."
+
+His gaze sharpened. "I don't know which of you tried to trip someone into the grass, and frankly I don't care. No mage worth their salt pulls that kind of shit. You might survive today's class, but what are you going to do when you've graduated as a full mage? If you make that kind of thing a habit, I guarantee you'll die long before you reach the top."
+
+There was a long silence as the students stared at him. The first to speak was the forge golem. The furnace in his stomach blazed fiercely as he spoke. "Are you saying someone tripped me?" he demanded.
+
+"Who in the eight infernal realms are you to say all that?" Another student dressed in an obscuring cloak scowled.
+
+"Seven," Cale said, exasperated. "Does no one ever check on the infernal realms? How do none of you know this?"
+
+Everyone stared at him.
+
+"It was Damien and Leo that beat the refractor beast," a third student volunteered timidly. She was one of the students he'd noticed earlier—close up, she looked a bit like a living, sentient gown. He wasn't sure if that was her and she was some sort of silk elemental or if she was incredibly overdressed, though.
+
+On the other hand, she didn't seem hostile, just curious. As she spoke, she draped large swathes of fabric over Damien's hands. "Thank you for that, by the way," she said. Damien flinched away and drew his cloak around himself, but she didn't seem to notice. Instead, she turned to Cale. "So who are you, exactly, to command us like this?"
+
+Leo sighed. "You need to get better at introducing yourself, Cale," he muttered. "If Syphus hadn't told us your position we wouldn't even have known."
+
+Cale blinked innocently. "What do you mean?"
+
+"Cale is Headmaster Akkau's apprentice and the official teacher's assistant for the classes he attends," Leo explained, ignoring him. There was an immediate silence as several jaws dropped and gazes snapped to Cale.
+
+"Headmaster Akkau has an apprentice?" someone whispered. "When did he—"
+
+"Why is this guy his apprentice?" another mage muttered. "What's so special about him? He didn't even do anything."
+
+Cale ignored all this in favor of examining the grass more closely. Now that he'd seen both the dome and the refractor beast up close, he was pretty sure even the grass was an expression of the same domain. All of it had retracted as soon as the refractor beast appeared, and now it was restored, perfectly intact.
+
+Why would looking up matter, then?
+
+"I want to know who tripped me," the forge golem insisted, cutting through the conversation. A series of yips of agreement came from the student that was definitely three kobolds in a trenchcoat. "This is the Inverted Spires, we can't just risk each other like this. What if Professor Sternkessel doesn't save us in time?"
+
+The yips distracted Cale from the grass. He stared at the trenchcoat kobolds instead.
+
+He was tempted to ask. He was so tempted.
+
+"Cale," Damien said, following his gaze and immediately tugging on his sleeve. Cale sighed. He never got to have any fun. Why did he accept positions of responsibility again?
+
+Oh, right. He just couldn't help himself.
+
+"You guys can figure that out if you want," he announced. "But our team still needs one more point, and we're going to go get it. Before I leave, though, here's some food for thought: you lose one point if your team gets in danger, and you gain two points if you rescue another team. Do you think that's a coincidence?"
+
+Cale grinned just slightly. "I might not have known Professor Sternkessel for long," he said. "But he doesn't seem like the type to leave in a loophole like that by accident. Maybe spend less time fighting and more time thinking like a mage."
+
+With that, he strode off, ignoring the argument that immediately erupted behind him. Damien and Leo hurried to catch up with him the moment they realized he'd started to wander off, but neither seemed to know what to say, so for a while, they simply walked in companionable silence.
+
+Then Leo spoke. "Not all of us think like that, you know."
+
+Cale blinked and glanced at him. "What do you mean?"
+
+"That thing about how we'll die before we reach the top if we make that kind of sabotage a habit," Leo said, gesturing vaguely. He glanced back at the other students of the Astral Wing, and Cale caught the sympathy in his eyes. "Most of us aren't thinking about reaching the peak of magehood. We're here to get our magic under control, and a lot of us would do anything to get there. Credits are one way to do it, and Professor Sternkessel is one of the only professors that offers them so easily."
+
+Cale's brow furrowed. "What's the point of being a mage if you aren't trying to reach the top?" he asked, confused.
+
+Leo snorted. "If you asked me an hour ago, I would probably have been one of them," he said. "Not to the extent of sabotage, but there's a lot I would've done to get rid of my attunement."
+
+"Huh. And now?"
+
+Leo looked down, clenching his hand into a fist. "I don't know," he admitted after a moment. "I think I might want to do more with my magic. See what it can really do. Actually casting a spell and not worrying about my attunement... it felt good. And it feels like I could do a lot more if I tried."
+
+Cale nodded and turned to Damien, whose leg seemed to have finally recovered. "What about you?"
+
+Damien jumped, making a noise that was nearly a squeak. "M-me?" he asked. "Um... I don't know. It's complicated. I don't..."
+
+"You were really cool back there, you know," Cale said, smiling at him.
+
+"Seriously," Leo added.
+
+Damien looked away, but after a moment, the tension in his shoulders faded just slightly. "Thank you," he said. "Um... I really don't know, though. You already know I want to heal. And I think... I think I don't want to hide from my magic forever."
+
+"Same goes for me," Leo said.
+
+"Good!" Cale beamed. "We'll turn you both into archmage-level terrors yet."
+
+"Archmage—" Leo began.
+
+"Terrors?!" Damien yelped.
+
+Cale ignored them both. The spires were nearby, after all! Now that they were close, he could see that they looked like the upper half of some of the spires he'd seen hanging down above them—he would bet anything this was the way to get up there.
+
+More than that... whatever had created those domain-looking magics was likely up there, too. There had to be a reason that looking up caused the sky to fall, and while he'd thought the cause was most likely a spell failing, there was still that second possibility.
+
+Certain creatures simply didn't like being looked at.
+
+The only problem with getting into the spires was that there weren't any doors, given that this was just the upper half of a building. Instead, there were a series of ornate windows spiraling up along the main spire's walls. Cale examined them for a moment, then nodded to himself. "Are you two ready?" he asked.
+
+"For what?" Leo squinted at him suspiciously.
+
+"I'm glad you asked!" Cale shaped his mana into a barrier with the form of a massive hammer, then grinned. "Breaking and entering, of course."

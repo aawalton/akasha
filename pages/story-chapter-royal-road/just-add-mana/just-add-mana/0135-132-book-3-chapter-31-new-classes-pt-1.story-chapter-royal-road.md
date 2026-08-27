@@ -1,0 +1,183 @@
+---
+id: efc4a7c6-ccbd-5486-ae7f-9aabc760edb6
+page-type-slug: story-chapter-royal-road
+title: "132 — Book 3, Chapter 31 — New Classes, Pt 1"
+slug: 0135-132-book-3-chapter-31-new-classes-pt-1
+partOf: just-add-mana
+position: 135
+ownLength: 3121
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3366599/132-book-3-chapter-31-new-classes-pt-1"
+royalRoadId: "3366599"
+---
+
+Apparently, when Clock had said administrator branch, he hadn't meant a branch that dealt with administration so much as he'd meant an administrator that went by the name of Branch.
+
+Who, to Cale's absolute delight, also appeared to be a literal branch.
+
+Even with the weight of what they were here to uncover hanging above him, Cale couldn't help but devour every bit of information he could get on this place and how it functioned. It was a whole different era of magic, after all! And while humans weren't the only species that walked the halls of this university, they very much seemed to be the majority.
+
+Cale had no idea how other humans might have impacted the development of various magical traditions, which in itself was terribly exciting. Sure, this was an earlier era of magic and there was no guarantee that magic itself hadn't shifted in all the time since, but that only meant there was a lot to learn about how things used to be.
+
+Besides, even if the rules of magic had shifted, Cale wanted to know how humans had dealt with them! What kind of spells had they been developing? Had baking magic been any easier, or was there still that odd gap in magic around perfect bread conjuration?
+
+Administrator Branch itself was an example of how different things seemed to be here. Thoth University seemed to rely on a sort of symbiotic relationship with some deeply magical plant that threaded itself throughout the building. Cale had noticed roots, tendrils, and general plantlife creeping through the hallways and out of the walls. They'd been present in the meeting room, too, but at the time Cale had thought of them as decoration.
+
+Now it was clear that they were more than that. Brightly-glowing flowers sprouted out of the walls at regular intervals to act as lighting and thick branches protruded out above each doorway to act as signage; at one point, Cale even noticed a wooden tendril emerging from the ground for the express purpose of snagging a runaway student and tossing them down into what he assumed was some sort of detention pit.
+
+There was a similarity, at least! Detention pits. Those things were surprisingly common in magic academies. Just as all species would eventually evolve into crabs, every magic academy eventually developed some sort of pit that ended up being used for detention.
+
+Even with that, it was incredible how different it was from the magic academies he was used to. The ones in the Great Realms did tend to gain some semblance of life and intelligence, but always as a result of the mana that saturated them. This was the first instance he'd seen of intelligence being intentionally seeded throughout the building to help with administrative matters.
+
+Cale wondered briefly if Akkau would be open to suggestions. He was pretty sure they could intentionally summon some sort of spirit into the walls of Brightscale Academy to help with maintenance, and the Red Hunters would never have been able to spy on them if the academy itself had a watchful spirit capable of throwing them into the detention pit.
+
+Administrator Branch was the perfect example of how effective it was. It was a branch that stretched into the office through a brightly-lit window and hung in front of them with a brilliant display of silver leaves. A closer inspection revealed that the leaves were an ever-shifting record of every individual within the academy and what they were doing. It was a beautiful example of administrative efficiency, which Cale ordinarily couldn't have cared less about—
+
+Thank you, Administrator Branch told him, sounding vaguely embarrassed. I would request you think less... loudly. It is distracting.
+
+"Cale, stop flirting with the branch," Syphus said, crossing its arms. "I don't approve of relationships with plantlife."
+
+"First of all, I wasn't flirting, I was thinking about paperwork. Which is the opposite of flirting." Cale raised a finger. "Second, Thorn is right there. You have to get over your fear of plants."
+
+"I don't fear plants," Syphus said. "I just think they're inferior to rocks."
+
+"Again, Thorn is right there."
+
+"Thorn doesn't count."
+
+Cale rolled his eyes while Leo looked vaguely embarrassed on Syphus's behalf; Administrator Branch, thankfully, didn't seem to take much offense to the whole exchange. Apparently—and it communicated this in a telepathic burst that was more feeling than words—it was used to this sort of behavior from artificial constructs, and they all learned to get over themselves eventually.
+
+Hopefully Syphus would do the same. Cale shot Syphus a slightly narrow-eyed look, sighed when it pretended it hadn't seen him, and turned his attention back to Administrator Branch.
+
+"I'll keep my telepathic voice down," he said. "I'd love to learn more about you sometime, though. You manage everything in this university?"
+
+My greater-soul does, Administrator Branch answered, projecting the idea of a great tree to which it was connected. It was nothing more than a fragment of that tree, apparently.
+
+Cale paused slightly at that, wondering if it was related to Yggdrasil in some way. The World Tree didn't yet exist, presumably, but this seemed oddly analogous. "Does the name Yggdrasil mean anything to you?"
+
+It does not, but it is common for nexus trees like my greater-soul to be seeded as the centerpoint for many universities, Administrator Branch answered.
+
+Well, that didn't answer his most pressing question, but it did tell him that magic academies as a whole had been very different in this era, rather than it being specific to Thoth University. Cale had so many questions.
+
+...That he would reserve for later. He really wanted to get into one of the classes here to see what magic had been like.
+
+To that end, he let Professor Graystalk step forward and handle getting them registered to "study" at the university for a day or so. Administrator Branch helped them to curate a small selection of introductory courses that would show them both the basics of Fog-era magic as well as the full extent of its capabilities, or at least as close to that as they dared to get in an academic setting. Cale would have attended every single available class if he could, but alas, that was apparently infeasible.
+
+So was sneaking into classes. The moment he had the thought, Administrator Branch politely informed him that if he did that, it would be forced to throw him into the detention pit.
+
+Cale, of course, very carefully did not think about how he was curious about the detention pit.
+
+With their classes selected, all they had to do was inscribe their names onto a smaller sub-branch that Administrator Branch extended out toward them; the moment they did so, it began glowing, then sprouted golden leaves that detailed their new classes along with a convenient timer and directions that would tell them how to get to each class. They were just like Akkau's schedule scrolls! Cale wondered if they would also scream if they were about to be late.
+
+No, Administrator Branch said when he asked, seeming amused. My greater-soul will simply move you to the class if you are likely to be late, unless you are otherwise preoccupied.
+
+Oh, right, the tendrils. Cale supposed it would be quite difficult to be late for a class if there were roots throughout the building that could drag students around.
+
+...Akkau was definitely going to want to hear about this. Maybe they could get Thorn to do something similar? He glanced at the vinewalker, who met his eyes with a deadpan glare.
+
+Okay, maybe not, actually.
+
+There is one last thing, Administrator Branch said. Thoth University has a strong focus on apprenticeship-based learning, and our classes are largely structured around them. Each class typically consists of three mentors, their assistants, and the apprentices assigned to them. Visiting students are often assigned a temporary mentor for any classes they want to audit, but I sense that one of you is a registered professor in a different academy.
+
+Our university greatly values the perspective a foreign mage may bring to the table. Part of the reason each class consists of multiple mentors is so that our students are exposed to forms of magic that their direct mentors may not be familiar with. If you are willing, I would register your professor as the mentor for your group.
+
+"I would be delighted to share what I know," Professor Graystalk said.
+
+Excellent. Administrator Branch seemed rather giddy about the response. Either that or it was the wind blowing into the office. Cale wasn't really practiced at reading the body language of trees, given he'd mostly avoided the sapient ones after the Yggdrasil incident. And you would like Cale Cadwell Cobbs registered as your assistant, correct?
+
+"Correct," Professor Graystalk said. Thorn grumbled something under his breath.
+
+Very well, then. Ah, and a word of warning, Administrator Branch added. Our mages can be rather competitive at times. Also, it is possible they will ask to exchange apprentices if they feel one of yours is a better fit for them and vice versa. Feel free to decline, but know that if you accept, it will only be for the day. Unless, of course, you were to join us in an official capacity.
+
+"Understood," Professor Graystalk said politely.
+
+Then I hope you enjoy your time here. The branch rustled goodbye at them as they filed out of the office, waving in return.
+
+"Trading apprentices feels wrong, for some reason," Cale remarked once the door shut.
+
+"A result of how common apprenticeships are here, I suspect," Professor Graystalk said. "It would be quite a scandal if any mage were to trade apprentices in Brightscale, but very few students have apprenticeships to begin with. If every professor had one, I imagine it would only be natural to try to ensure you have the students best suited to your methods."
+
+"Makes sense, I guess," Cale said. He didn't quite get it, since there was nothing that would convince him to give up any of his apprentices, but he did understand the logic behind it. "Anyway, let's get going. I want to see what magic here was like!"
+
+Graystalk chuckled. "As do the rest of us, I suspect. Very well; let us see what this era of magic has in store for us."
+
+Their first class was Foundational Spell Systems, and the first thing Cale and the others noticed was that the mages in charge of it were very excited to greet them. In the sense that they had, as far as Cale could tell, been waiting by the door so they could pounce on them the second they walked in.
+
+"You must be the new guys!" Instructor Erik—Cale knew all three of them by the giant name tags they had evidently hastily scribbled out and then taped to their coats with duct tape, of all things—said. "I hear you're from a different part of the Fog entirely. What's magic like there? Are your spells any different?"
+
+"Don't be foolish, Erik," Instructor Elizabeth scolded, although the gleam in her eyes told Cale she was just as interested in the answer. "The idea that magic is different in different parts of the Fog is only a theory. We have no evidence that it's the case here."
+
+"It could be, though," Erik said, sticking his tongue out at her while everyone else looked on, bemused. "This might be our chance to prove the theory of Fog-based magical deviation!"
+
+"Or our chance to scare them away before they have any chance to prove anything," Elizabeth countered. "Besides, I would much rather learn about the monsters where they're from. They could have new ingredients for our magic!"
+
+"New ingredients don't matter if their spells are different enough," Erik argued. They were getting into each other's faces at this point, and from the vaguely exhausted looks their apprentices were wearing, Cale suspected this was a common occurrence.
+
+The third mage stepped forward then, waving the other two back. "I apologize on their behalf," Instructor Hikari said, offering them a polite bow. "They are merely excited. We have not received new visitors to our university in quite some time, especially since the Fog began to dissipate. We are interested in whatever you may be willing to share, of course, but it will come as a natural part of the class and not because we are assaulting our guests with questions."
+
+She directed that last part at the other two mages, who, to their credit, looked immediately guilty. "Right," Erik said sheepishly. "Sorry about that."
+
+"My apologies," Elizabeth agreed.
+
+"We should do a demonstration of our magic instead," Erik said, immediately pivoting. "It'll be a good way to get things started, and we'll be able to see how much our traditions differ. Foundational Spell Systems is the perfect class for that sort of thing! We're partway into the semester already so we'd normally be doing systems refinement, but we can just work that into the demonstration."
+
+"You and your apprentices could start with an unrefined spell system," Elizabeth suggested. "Then Hikari and I can demonstrate what a refined version would look like and why the foundations are important. It'll be good revision for the apprentices."
+
+"I agree," Hikari said. "My apprentices and I will go third, then. Professor Graystalk, would you agree to go last?"
+
+"Of course," Graystalk said, bemused.
+
+"Great!" Erik said. "Apprentices, to me! Bring all the ingredients you can carry. We gotta impress our guests. And preferably make a spell that's hard for Elizabeth and Hikari to refine."
+
+Elizabeth snorted. "Good luck with that."
+
+Hikari smiled. "I look forward to the challenge."
+
+It took a grand total of five minutes for Erik and his apprentices to come up with the spell they wanted to demonstrate, even after they'd decided on what that spell would be. That was both curiously long and strangely short to Cale. He wasn't the only one that noticed it, either—Leo leaned over to tap him on the shoulder.
+
+"It kinda looks like they're constructing the spell from scratch," he whispered. Indeed, Erik was sketching a series of linked chalk circles on the ground. "Do they have to do that every time?"
+
+"I'm assuming they have faster ways of casting spells, too. Adam picked up that spell from Syphus easy enough before," Cale answered. "But we'll have to see. I'd expect it to take longer if they were constructing something new, but it shouldn't have taken so much time if they already had it memorized."
+
+"They were modifying an existing spell, I suspect," Professor Graystalk said. "The process appears to be much more manual than it would be for a modern spell construct."
+
+Cale nodded. "Plus they talked about ingredients, and they've got a bunch of alchemical reagents with them," he added. He watched with interest as Erik and his apprentices began filling each chalk circle with a different alchemical catalyst; thankfully, Erik explained what he was doing as he went.
+
+"Spell systems are all about making sure your mana has a way to flow naturally," Erik said, a little too loudly; Cale snorted slightly as one of his apprentices cringed away from him. "A typical First Circle spell consists of five nodes. The node configuration you're using has a direct impact on the efficiency of your spell, so each time we construct a First Circle spell, we need to adjust the node configuration based on the ingredients we're using and the effect we want."
+
+He straightened, then began gesturing to each of the chalk circles—nodes? It sounded like they used the word circles to refer to spell tier, so nodes was probably better. "In this case," Erik continued, "we'll be demonstrating a low-efficiency Basic Illusion using glowbeetle nectar, a glass marble, a gryphon feather, gelatinous residue..."
+
+He paused at the final, still-empty node, then grinned, though his apprentices looked chagrined. "And also a bunch of dirt I found," he said, dropping what indeed looked like a clump of dirt into the final spot.
+
+Elizabeth made an outraged noise. "You can't just add dirt as a reagent! You connected the dirt node to all the other nodes! That's going to make it nearly impossible to refine!"
+
+"That's the whole point of this class, isn't it?" Erik said smugly. "You have to show them how good we are at spell systems! Besides, Basic Illusion loves spontaneity, you know that."
+
+"I'll show you spontaneity," Elizabeth muttered sourly, though she seemed resigned, like she knew there was no point trying to convince Erik to change his mind. Again, it seemed it was routine for them.
+
+Cale had to hold back a laugh, honestly. He liked these mages.
+
+"Anyway!" Erik said. "Devon, show 'em your stuff!"
+
+One of Erik's apprentices—Devon, presumably—nodded and stepped up to the chalk, then bent down to slap his palms against the circle. Mana flowed from his core, through his hands, and into the glowbeetle nectar, then the marble, then the feather and the residue, and finally it reached the dirt and doubled back in on itself.
+
+Then a blaze of light burst out of the chalk, resolving into a detailed, three-dimensional image of Cale's group.
+
+"Ta-da!" Erik said proudly. "What do you think? Devon's got pretty good art skills, right? My illusions all look like they have melting faces, so Elizabeth banned me from making them."
+
+"For good reason," Elizabeth called out. Erik just beamed.
+
+"It is impressive," Graystalk said, leaning forward curiously. Cale was doing the same thing, reaching out with his mana sense to examine how exactly the illusion was being generated. It was rare for him to see what was essentially an alchemy-based method of spellcasting, and even amongst those, this particular method was unique. Something about it teased at his senses, almost like...
+
+Oh. Oh.
+
+Cale closed his eyes so he could better focus on his mana sense. This was a form of magic he'd never encountered before, and he could barely grasp what was happening on the very edge of his mana sense, but if he focused—if he stopped trying to feel for the mana and let it speak to him instead—he could hear the spell.
+
+The reagents that Erik selected were speaking to one another. It wasn't in any language Cale could name, but there was a distinct note that rang out from each of them as Devon's mana poured through them. Each one flowed into the next, forming a beautiful melody that Cale began subconsciously humming to; before he knew it, he was smiling, his eyes bright.
+
+He lived for moments like this, when magic showed him something new.
+
+You have acquired Basic Illusion.
+
+Cale couldn't wait to see what else there was to learn here.

@@ -1,0 +1,65 @@
+---
+id: 06672715-df4d-54b2-bb01-720cce9b731d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87: Preliminary Assassination"
+slug: 0128-chapter-87-preliminary-assassination
+partOf: labyrinth-of-the-mad-god
+position: 128
+ownLength: 1455
+unit: words
+publishedAt: 2025-02-05
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2049852/chapter-87-preliminary-assassination"
+royalRoadId: "2049852"
+---
+
+Nick braced his weight against the line, slowly, so that he wouldn’t dislodge the grapple. When the rope was taut, he placed his feet against the wall and started to climb, pulling himself up one hand at a time. Without his pack, his body felt so light that it was effortless to make the ascent, and soon he was crouching next to V.
+
+They hand-signaled to the people waiting below, letting the team know that they were about to make their move. Then the duo split up, heading for opposite towers with lethal intent.
+
+Nick began crawling along a narrow walkway that skirted the perimeter of the wall, heading for a simple wooden watchtower fifty feet ahead. He kept his eyes on his target the entire time, ready to rush the man if he noticed Nick’s approach. So far, so good. Keep moving. It won’t be long now.
+
+The pirate Nick was planning to kill was still smoking his pipe. At the moment, the man was looking in the opposite direction—gaze fixed on the horizon that was visible through the open side of the tower. I need to get there while he’s distracted. If he spots me and sounds the alarm, this is going to get ugly.
+
+Nick continued creeping forward, using barrels and boxes to break up his profile. He timed his advances with the man’s exhalations and smoke was filling the air between them. Although his heart was racing like a wild stallion, he forced himself to move slowly and deliberately. He used every trick he’d come up with since the System had arrived, every last point of Dexterity, to keep himself from giving his position away.
+
+He called upon his Arctic Clarity, crystalizing his focus and freezing his fear, drawing closer and closer, until there were only ten feet left to go. He hadn’t been able to bring his sword, not without a sheath or his pack. He drew his arena dagger instead, steeling his soul toward what he was about to do. It’s him or us. Don’t you dare fucking hesitate.
+
+From here, he could hear the pirate muttering to himself, complaining about his shift and his station in general. Apparently, being down on the ground in this outpost was the least desirable position on the floor. The man had been sent here as punishment for one infraction or another.
+
+Despite his intentions, Nick found himself grappling with the fact that he was about to kill another person. Not in self-defense, but a straight up assassination. Although he supposed that the attack was a form of preemptive self-defense, since the pirates were planning to kill him.
+
+Every drop of his doubt evaporated like water falling into a hot pan when he heard what the man said next. “We just need to find the intruders and secure the reward from the System. Then the boss will let us take to the skies and put us back on the raiding squad. Maybe they’ll give me one to play with—a woman would help to pass the time. Once I tire of her, I’ll skin her and throw the remains to the beasts to fight over. That should help to liven things up around here.”
+
+Ok, that settles it. You’re all fucking dead. Nick just needed to cross one last stretch of walkway before he could make good on that promise. The problem was that it was completely open. He wasn’t sure how he could close the distance without attracting the man’s notice, even if he wasn’t facing Nick’s way.
+
+Every second that he delayed, the chances of his team being spotted grew. But if he rushed in there, the pirate was sure to sound the alarm before Nick could bring him down. He would have conjured a Mana Dart, then used it to paralyze the sentry long enough to land a killing blow. But at night, there was a good chance that the light would give away his position.
+
+Keep focused. Don’t blow it. His pipe is nearly empty. Let’s hope that he decides to refill it once it’s out. When Nick glanced over his shoulder, he could see the other sentry sitting in his chair. V was nowhere in sight. But then she emerged from the shadows behind the man’s back, her expression harder than granite. She put a dagger up to his throat and slit it in a single motion. Veronica stopped the man from falling, propped him against the railing, and then vanished once more.
+
+When he looked back, Nick’s target was in the middle of reaching into his pouch to refill his pipe, staring down at his hands instead of out into the distance. He won’t see you coming now, not even in his peripheral vision. Nick knew that his moment had arrived. Using Arctic Clarity to suppress his emotions, he began to advance—not allowing himself to hesitate or think about what he was doing.
+
+He closed the last few feet and raised his dagger, copying the same move V had made. He slipped behind the pirate, just as the man finished loading his bowl and took a long drag. Then Nick rose to his feet and drew the blade across the pirate’s throat.
+
+For a second, he thought that he had scored a clean kill. But matters were not fated to be resolved so simply.
+
+Instead of the sensation of steel slicing into flesh, there was a bright blue spark at the point of contact, and a ring on the man’s finger crumbed to dust. It had to be some manner of defensive consumable that Nick hadn’t seen before.
+
+The sentry tried to cry out. But his lungs were filled with smoke, and he wound up coughing instead. He drove an elbow into Nick’s stomach and pushed him back, reaching for the sword on his belt. Nick grabbed his arm, fighting to keep him from drawing the weapon, as the pirate opened his mouth to sound the alarm.
+
+A bare second before he could call for help, a frostfury wasp landed on each of his shoulders. The cerulean insects stung the man’s neck from both sides at once, freezing the words in his throat before he could get them past his lips.
+
+Horror was clear in the pirate’s eyes as the spreading ice encased his neck before engulfing his head. He toppled to the ground as the blood in his veins turned to slush and then froze, heartbeats before his brain followed suit.
+
+Nick let out a long, shuddering sigh. He signaled “all clear” and Veronica appeared at his side. While they watched the buildings to make sure that no one had noticed the scuffle, the rest of the team crept over to the grappling hook and started to climb. Meanwhile, he removed the dead man’s sword and cut the pouch free from his belt.
+
+Once Sophia, Devin, and Shaun were on top of the wall, the party made their way down a staircase set along the interior. Phase one complete. We made it inside without raising the alarm. Now for the hard part. Nick retrieved his pack and drew his sword, comforted by its weight in his hand. Then he tossed in what he’d looted and added a bundle that V had taken from the other man.
+
+As they had planned, they stopped at the base of the wall long enough to make their final preparations. Nick conjured four Mana Darts. They began orbiting his head, lighting up the interior of the base. Fortunately, there weren’t any windows in the crude barracks, so the light wasn’t a problem as far as their ambush was concerned.
+
+Sophia summoned three more wasps and two spear-tongue frogs, which spread out to guard the party’s flanks. Then she took up a position behind the front line, ready to direct the team and offer support with her throwing knives. Meanwhile, Devin turned his axe into the shield and hand axe version and took front row center, with Nick on one side and a frog on the other.
+
+Veronica raised both arms—her wrist-mounted crossbows extending in response to her mental command. Shaun took his stance beside Sophia, nocked an arrow, and nodded that he was ready. His face was pale but there was no hesitation in the archer’s movements.
+
+Nick shifted his sword to one hand and clasped his wand in the other. With that, they were as ready as they were going to be. Any further delay would only increase their odds of failure. At last, the moment had arrived. It was time for Team Earth to eliminate the sleeping pirates, then take to the skies before they were discovered.
+
+After signaling which person would cover which door, the team sprang into action.

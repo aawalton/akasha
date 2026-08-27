@@ -1,0 +1,125 @@
+---
+id: f0c1a3cb-42ce-5024-952b-ccfbb22ff6b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69: Welcome Home"
+slug: 0251-chapter-69-welcome-home
+partOf: labyrinth-of-the-mad-god
+position: 251
+ownLength: 2867
+unit: words
+publishedAt: 2025-11-22
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2783752/chapter-69-welcome-home"
+royalRoadId: "2783752"
+---
+
+Nick crossed Aurora with a spring in his step, excited to find out what the builders had in store for him today.
+
+Liz caught up to him along the way, and they made the rest of the trip together. As they made their way over to where the construction crew was hard at work, he ran his gaze across the fruits of their labor.
+
+Dozens of foundations had already been dug, and people were busy carting the dirt away. Lumber, ceramic pipes, and roofing tiles were piled nearby, and the first batch of blocks from the masonry had been delivered the day before.
+
+One of Ming’s people saw them coming and came running over to meet them. The craftsman explained that his team had finalized the design for the shared residences they would be using until everyone had a roof over their heads. Ming wanted the pair to give the floorplan their official stamp of approval before her team began building in earnest.
+
+The prototype domicile was easy to spot, since it was the only complete structure in the area. The construction crew was eating lunch outside, going over blueprints between bites.
+
+While listening in on their conversation, Nick learned that builders planned to raise enough units to house every citizen of Aurora in under a month—a marvel of engineering that wouldn’t have been possible without superhuman bodies and magical assistance, even with Old Earth technology. They had come up with a way to replace staples, nails, and screws with stone that was stronger than steel, which the earth shapers could insert with a controlled jolt of mana.
+
+Ming waved when she saw the duo standing on the street, “Just the pair I was hoping to see. Come on over. Let me show you what we’ve come up with, and I’ll give the order to begin construction on the rest of this block.”
+
+Her team was already coordinating with the planning committee and didn’t need his permission. But by this point, Nick understood that part of his role as Aurora’s leader was to bolster morale by making people feel good about their accomplishments. Besides, he was eager to see what they had come up with and didn’t mind the tour at all.
+
+Before Ming took them inside, she led the pair around the building, pointing out various features while they examined the exterior. The foundation of the structure was made from a hodgepodge of different minerals, since this work had been completed before the quarry was up and running. The pattern was stylish and eye-catching, with organic stripes and swirls created by brighter bits of stone laid beside darker colors.
+
+“The walls are made from the first batch of bricks produced by the kiln,” Ming explained. “Same with the piping. It took the crafters a while to come up with a formula that was as durable as the wood and stone we’ve been collecting from across the badlands, but these beauties are as strong as Old Earth titanium.
+
+“The frame of the house is weather sealed and insulated, but the windows have been designed to maximize airflow to cool things down during the day. We’re coordinating with the ice, fire, and water mages to come up with a magical means of temperature control, but that’s going to have to wait until everyone has a home and we have some time to spare.”
+
+Nick was deeply impressed, and made sure to let the crew know it as he circled the building. It featured two entrances, including a covered patio in the back—complete with a rocking chair someone had cobbled together. He was surprised to see there was glass in the windows, which meant the team operating the glass studio was making progress too.
+
+In addition to the stone and brick, there was some decorative wood paneling on the exterior, and the overall effect was quite striking. “All the residences we’re building during phase one are for multiple people,” Ming said, “and this design can hold six comfortably. More, if they don’t mind sharing a bed.”
+
+When they made it back around, she opened the front door and led the duo inside. There was a small landing with a coat closet, which transitioned into a spacious living room. The layout of the ground floor was open, and Nick ran his gaze across a dining room, kitchen, and a doorway leading to a toilet and sink. The floors, doors, and shelves were wood, and the countertops were stone—all of which were aesthetically pleasing.
+
+He was surprised to learn that Aurora’s woodworkers had filled the unit with furniture. There was a gorgeous redwood table, six chairs, and the frame of a couch in front of a coffee table. There was even ceramic dishware in the kitchen, which featured low countertops, cabinets, and drawers, although the cooking implements themselves were still in development.
+
+“We haven’t been able to produce anything like cushions, rugs, and mattresses just yet, but the growing team hopes to plant cotton or another textile once the first harvest comes in. When we finish developing magelight technology, we will have the interior lighting perfected too. Right now, we’re using illusions that need to be replaced once a week, but the researchers think they will have something more permanent ready before long.”
+
+“This is amazing,” Nick poured on the praise while Liz nodded emphatically. “I can’t believe you guys put this together so quickly. I’m proud of you and Aurora is lucky to have you.” Ming blushed at the compliment then continued with her tour.
+
+There was a spacious basement downstairs, where people could store gear, place training equipment, or use however they pleased. Upstairs featured a large bathroom with a tub and shower and six individual bedrooms—each with a balcony featuring a gorgeous view of the city. “We’re still waiting on running water,” the forewoman explained, “but the people working on the problem have a design in mind they plan to run by you soon.”
+
+Everything was made from incredibly durable materials that hadn’t existed until the planet was saturated with mana, which meant the building wouldn’t collapse during a disaster or if someone made a mistake with their abilities.
+
+“So, what do you think?” Ming came to a stop in front of a bedroom as she reached the end of her presentation. “Is this design up to your standards?”
+
+“No,” Nick said as Liz frowned... before smiling as he finished his sentence. “It fucking blows my standards away. I would have been satisfied with four walls and a roof, but this is amazing. The layout is fantastic, and the craftsmanship is gorgeous. Our people will be thrilled to be living in these, and words can’t express how impressed I am by what you’ve accomplished.”
+
+“I’m glad you like the design…” Ming paused for dramatic effect. “Because this one is yours, furnishings included.” She smiled wide at the astonishment on his face, then cut off his protest before it escaped his lips.
+
+“Everyone appreciates what you’ve done, and this is our way of saying thanks. From this moment forward, please think of this humble abode as your home. I asked Kenji for advice on who else to invite, and he assured me that you would want to share this space with the people who are important to you. So, unless you have any objections, you’re going to be living in this unit with Veronica, Devin, and Shaun, with an extra bedroom for whenever Sophia returns.”
+
+Nick had been so busy lately that he hadn’t really thought about what his life would be like after more of the town was up and running, but he found the idea of being roommates with the people who had fought by his side to be deeply appealing. This is great. Now I’ll get to see everyone more often. Wait, that’s only five bedrooms. I wonder who the…
+
+Ming derailed his train of thought and answered his question at the same time. “Oh, and Elizabeth, of course.” She bowed to them and smiled wide. “We’re going to wipe the ground level down later this afternoon, but the top floor is already tidied up and you can move in whenever you like.”
+
+That first bit caught them both off-guard. Liz gave him a speculative look, blushed the tiniest bit, and then waited to find out how he felt about the matter. He could tell she liked the idea of living together but wouldn’t insist if that wasn’t what he wanted.
+
+Is that what I want? When Nick searched his feelings, he realized it was.
+
+Over the last few weeks, the charismatic woman had become one of his closest friends. He enjoyed her company immensely and he found the prospect of getting to spend some quiet hours with Liz and the rest of the gang deeply appealing, enjoying those rare moments of downtime amid these endless days of hard work.
+
+“Thank you, Ming. That sounds perfect. Your team kicks ass, and I can’t tell you how much I appreciate this.”
+
+“Of course, Nick. If I let Aurora’s leader and the mayor sleep in the dirt a day longer than I had to, I’d die of shame. I’ll let you explore on your own but flag me down or ask one of my crew if there’s anything else you need. I’ll stop by soon to get some feedback on the design, but we’re ready to start framing the next dozen or so domiciles.”
+
+With that, the forewoman departed to start working on the next house, leaving Nick and Liz to move into their new home. Mayor, eh? I like the sound of that. I can’t wait to reach the next city tier and make it official.
+
+He was going to tease Liz about her impending promotion, but when he saw the powerful emotions crossing her face, he kept the comment to himself. He knew she could hide what she was feeling if she wanted to, but was choosing to be herself, be vulnerable, instead.
+
+Apparently, his approval was a bigger deal than he’d realized, so he simply met her gaze, smiled, and said, “Welcome home.” She flashed a grin and then went to grab her gear from the supply depot, although he suspected that what she really wanted was some time to herself, given the tears running down her cheeks.
+
+He had all his worldly possessions resting inside his dimensional storage device, so Nick took the liberty of deciding which bedroom he wanted and began moving in. He picked a unit on the east side where he could watch the sunrise from his balcony, then took a closer look at where he would be sleeping for the foreseeable future whenever he was in town.
+
+The building was spacious, and his bedroom was no exception. Even with the massive bed frame filling one corner, there was plenty of room for other furniture. A door led to a shared balcony that ran all the way around the exterior, and there was a walk-in closet with enough room to store every article of clothing he had a dozen times over.
+
+The bed frame and nightstand beside it were formed from a luxurious dark wood, as was the collection of hooks and shelves mounted to two of the walls that could be used to display various objects.
+
+Nick had a ton of bedding materials from the storeroom he and V had raided in Darkstone Tower, so he began by pulling pillows and blankets out of his backpack, then piled some in each of the bedrooms for his friends to use.
+
+After mulling the matter over, he decided to start decorating and make some room in his pack at the same time. A swell of emotion caught him by surprise as he reached into his magic bag to retrieve the mementoes he had collected over the course of his adventures.
+
+He began with his trusty bathrobe, which had been reduced to bloodstained rags during his tutorial on the Searing Isle. It was the only object left from his old life and a testament to everything he’d endured to make it this far.
+
+He ran his fingertips across the fabric, remembering how it felt to pull his robe on each morning before cracking open a can of coffee and firing up his computer. He hung the robe from a hook, recalling how he had acquired every rip and stain during the desperate dawn of his adventures.
+
+Awash in memories, he continued pulling out various objects and arranging them around the room. He had some sand from the beach where he’d woken up with his memory in tatters. He put it in an empty vial and set it on the shelf. He added some claws from a komo that had ambushed him and a tuft of fur from the towering dinosaur he had named the lurk.
+
+On the next shelf down, he laid out the crude alarm traps he had fashioned to guard his sleep while living in the crunchers’ den, then moved on to other souvenirs from his survival tutorial. Nick added a few small objects he’d retrieved from the sewers beneath the fallen city of Kastilla, where he had been infected with the Crimson Blight and acquired the artifact-blade Blightbane. He added fragments from the container he’d used to create the pollen bomb and one of the spears he had carved to arm the lemur tribe.
+
+Next, he pulled out the trinkets he had collected while crossing Blackmist Bog. He set a black bone from a spear-tongue frog beside a scrap of skin from the otherworldly horror that had been roused by the blood moon. He arranged the mandibles from the flesh-render matriarch beside a fragment of the River King’s shell.
+
+For the final section, he placed the items he’d found in the Tower of Rizzen, minus the constructs and magitech devices he was planning to donate for research purposes. He mounted a brass cog from a gear-rat to the wall, next to the pirate’s pipe he’d obtained in the first battle where he had chosen to kill another person. He set an inert fragment of the janitor’s core beside the boots that had melted during the Trial Administrator’s lethal evaluation.
+
+On the next shelf over, he displayed a piece of the airship that had fallen from the sky, where he had picked up the floatstone core that made his bag so much lighter. He ended his decorating session with one of his most valued possessions, the carving of himself that Rita had given him to commemorate his month of training on that strangely colored world. I hope I’ll see you again someday, and that you and Kiki are doing well.
+
+When he was done, Nick had created a miniature museum memorializing his adventures to date—mementos of everything he had endured and overcome to win the Earth back from the Mad God, becoming an entirely new person along the way.
+
+He sat there for a long while, simply taking it all in while absorbing how much he had experienced to reach this moment. At long last and despite countless close calls, he was back on the planet of his birth, surrounded by good friends, and filled with hope for the future to balance out his sorrow for the past. While his life had changed in countless ways, he was home, and he would die before he let anyone take it from him again.
+
+He came back to himself when he heard Devin’s booming laughter, followed by a sarcastic quip from V. When Nick walked downstairs, the couple was looking around the building in wonder, and Shaun and Liz showed up a few minutes later.
+
+“This is incredible,” Devin said. “I can’t believe the builders got this ready so quickly.”
+
+“It sure beats living in a tent with you,” Veronica teased. “Although you’re welcome to share my bed whenever you like… if you take a shower first.”
+
+“You guys are cool with me being here, right.” Shaun asked.
+
+“I don’t mind if Nick doesn’t,” Devin said. “You’ve come a long way from the man you were when we first met, and if you twist my arm, I’ll admit that your company has grown on me. I’m looking forward to spending more time with you as well.” The blond warrior turned to face Liz. “We haven’t had a chance to get to know each other yet, but Nick is clearly fond of you, and that’s good enough for me.”
+
+“Thanks.” She smiled. “You guys are like family to him, and I have a feeling we will be good friends.”
+
+The banter continued as everyone toured the building and began moving into their rooms. While Nick helped Devin carry a few larger items from the storage depot to the basement, Veronica and Elizabeth left together, returning with a hearty meal from the communal kitchen and several bottles of alcohol.
+
+Shortly after, they enjoyed their first meal together.
+
+It was filled with smiles and laughter. Good cheer and good friends. Nick went to bed with a smile on his face, stretching out with a full belly and a full heart—happy to face the challenges the new day would bring with these wonderful people at his side.

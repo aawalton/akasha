@@ -1,0 +1,15 @@
+---
+id: 5149dd22-655f-56f4-9867-38ec964de572
+page-type-slug: story-chapter-royal-road
+title: "(Cross posted from Patreon) I uh, need some help"
+slug: 0028-cross-posted-from-patreon-i-uh-need-some-help
+partOf: mark-of-the-fool
+position: 28
+ownLength: 303
+unit: words
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2628041/cross-posted-from-patreon-i-uh-need-some-help"
+royalRoadId: "2628041"
+---
+
+Sorry for posting this, like, I am truly am sorry for posting this. I usually don't like to make these posts, because y'all support me so much already, and this feels like too much but I'm kinda at my wit's end here.But, alrighty, so remember the Oaths launch from a couple of days back? Yeah, so...Amazon broke that day. And I mean REALLY broke. Page reads on kindle unlimited weren't being registered, freezing around 6 pm est.Sales ranks were frozen too, which damages how the algorithm picks up a book. Hell, the kdp program actually went down. Completely. Which is something my publisher and a lot of my author friends have never seen before.It's hurt the launch, like a lot...so, I'd like to ask for a favour.If you have kindle unlimited would you mind downloading the book? Reading it would be awesome too, but if that's too much, I'd get it. Also if you are reading and liking it, would you mind leaving a rating? It helps a lot.If you discover this narrative on Amazon, be aware that it has been stolen. Please report the violation.I am not asking you to buy the book with your hard-earned money or use an audible credit if you don't want to. That does help, but I don't want to demand that. If you were thinking about trying the book or audiobook anyway, then I would welcome it.Again, I'm sorry for making like...a begging announcement like this. I try to keep these at minimum. Thank you so much for supporting me through Fool, Rune Seeker, I Am Become Death and my health problems. I hope you will enjoy Oaths if you do choose to try it.You're all wonderful.Find Oaths in the links below:Amazon: https://www.royalroad.com/amazon/B0DZ818C6Q?maas=&ref=Audible: https://www.audible.com/pd/Oaths-Audiobook/B0FPXS5C74Thank you so much and I hope you're having a great week.- J.M.

@@ -1,0 +1,115 @@
+---
+id: 1cb57bc9-9b1a-5c29-919b-81a82c7a4b55
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Closer Than My Own Skin"
+slug: 0206-chapter-24-closer-than-my-own-skin
+partOf: labyrinth-of-the-mad-god
+position: 206
+ownLength: 2384
+unit: words
+publishedAt: 2025-08-08
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2502785/chapter-24-closer-than-my-own-skin"
+royalRoadId: "2502785"
+---
+
+By the time the update faded away, Nick was overcome with an exquisite sense of anticipation. He forced himself to breathe deeply, although he was so excited that he couldn’t stop fidgeting.
+
+At first, he didn’t sense anything other than energy congealing around his body—just like what had happened during integration when his DNA was rewritten. Then the System’s ghostly fingers reached inside him, and his transformation began.
+
+Soon, he was able to discern more details. When the System had jumpstarted his mana pool, the changes had been centered around the energetic core a few inches below his heart. This time around, all the action was taking place within his frontal lobes.
+
+It began as a feeling of pressure. Of something outside forcing its way in, filling him like a balloon. But as the sensation grew more intense, he realized that trace elements of this power were already inside him. They were formed from his thoughts and memories, desires and dreams. Forged from his sense of self and his sense of purpose. The fundamental essence of what it meant to be Nicholas Henry.
+
+Unlike mana, which came in specific frequencies that were the same for everyone who used it, this energy was entirely his own. The mindscape of every creature was unlike any other, and this specific vibration was unique to Nick. Psi wasn’t just another power for him to use—it had been an integral part of himself all along.
+
+The System wasn’t carving channels and creating a core, like when it had empowered him to use Magic for the first time. Instead, it was modifying the part of his brain that naturally produced Psi, imbuing it with the potential to grow far more powerful.
+
+It felt like lightning was surging inside his skull. Like an army of bees was buzzing behind his eyeballs. It was bizarre, fascinating, and utterly exhilarating. By this point, Nick thought the experience had reached maximum intensity, but he couldn’t have been more wrong.
+
+The moment the changes to his brain were complete, his Versatile trait kicked in, opening the floodgates. Although every living being created trace amounts of Psi, going from zero to one was several orders of magnitude more—a drop of water compared to a cup. Riding a burgeoning wave of psychic energy, his consciousness was carried beyond the boundary of his skin.
+
+The next thing Nick knew, he was floating.
+
+He could see the whole cave at once like he was looking down from above, including his body resting against the stone wall. It reminded him of the visions he had experienced while traveling through the cosmos, although this time his mind and body were connected by a thin silver cord.
+
+While this was a most unexpected turn of events, it was the least incredible thing that was happening right now.
+
+He could sense hundreds of presences all around him—each as distinctive as individual snowflakes. Some were hungry and others were asleep. Most were content and a few were afraid. I’m sensing the minds of all the creatures living in the crevice, he realized. I can hear them… feel them. I wonder if I could reach out and touch them.
+
+The strongest sensation was coming from behind the rock wall, which in Nick’s disembodied state wasn’t a barrier at all. He was awestricken and disoriented by this novel state of being, so it took him a while to realize whose mind was hovering just a few feet away, blazing like a bonfire in the night. Oh, wow. I think that’s Liz.
+
+Over time, he began to adapt to the newness of it all and could understand more of what he was feeling.
+
+He was sensing waves of thoughts and emotions coming from Elizabeth, radiating from her brain like warmth from the sun. She was exhilarated and delighted. Blissed out from her recent evolution and intrigued by her psychic experience. He could feel her awareness turning toward him as he focused on her—naturally drawing them toward one another.
+
+The closer they came, the more Nick saw, letting him peer into her mind through the windows of her soul. He didn’t understand what was happening or why. He was only half lucid in this strange state of being, so he simply let go and took it all in.
+
+Right now, she was thinking about him. Liz felt bad about how things stood between them. She felt guilty for manipulating his emotions, although she had only done what she thought she had to in order to survive. She was eager to earn his trust, and ambitious about what they could build together. She genuinely liked Nick, but she was also afraid of him.
+
+That last bit caught him by surprise. It made sense under the circumstances, but he had never thought of himself as someone others might see as a threat. Elizabeth was unguarded in that moment and wasn’t aware of what was happening—still lost in the intense sensations that came with having every cell in her body upgraded one at a time.
+
+The closer they came, the stronger the pull—like two magnets coming together. Soon, he could sense more than surface thoughts. Peer deeper into the heart of it all. She was brilliant and brave. Capable and compassionate. Liz genuinely cared about humanity’s future, and was willing to lay down her life to help her people survive.
+
+He realized that he could go deeper still. Dive beneath personality and purpose, and unlock her memories, hopes, and dreams. Touch upon her sense of self—the core of what it meant to be Elizabeth Duval. He was intensely curious, and the temptation was there. But even in his altered state, he understood that doing so without her consent would be a grave violation.
+
+Nick tried to pull back and shut down the psychic link that was growing stronger by the heartbeat, only to realize that he didn’t know how. By now, they were almost touching—the connection between them strengthening as their minds began to overlap.
+
+Liz was just as attracted to Nick as he was to her, and she didn’t know what to do about it. She had made mistakes in the past, and didn’t want to get hurt or fuck up this chance for them to work as a team. She knew he had feelings for someone else and was reluctant to intrude, although another part of her wanted to be selfish—go for it and let the chips fall as they may.
+
+Stop. This is too much! I don’t want to go this deep.
+
+But no matter how hard he fought, he was drawn closer still, until their psyches began to merge. Her memories began blending with his own, blurring the line between self and other until the woman was closer than his own skin.
+
+Even though Elizabeth wasn’t aware of what was happening, Nick could feel the link flowing both ways—pieces of soul being read as clearly as words on a page.
+
+His love for his family and fear for their fate. All the sorrow and rage he had carried inside since the System arrived in apocalyptic glory. His determination and resolve. Hope and self-doubt. His burning desire to protect his people and pay Taltos back for every life the Mad God had taken.
+
+All those years he’d sat behind a screen, simulating a life not unlike the one he was living now. Lonely nights on the Searing Isle, and his adventures with Bandit and the lurk while grappling with the truth of his new existence. Being invaded by the Crimson Blight, and his various interstellar visions.
+
+He was still Nick, but at the same time, he was Elizabeth, reliving some of her formative experiences.
+
+Her tutorial had been far worse than she’d implied—a brutal tale of betrayal and suffering. Jim had been a saint compared to those people, although he’d buried far too many bodies himself. Liz had been planning a revolution of her own, before the shadow hunt forced everyone into the tower. She hadn’t known that Ken was planning to kill Nick and was grateful to Sophia for finding so many secret doors.
+
+Back through time, deeper and deeper this shared moment became, until they felt like two extensions of the same soul. Layer by layer their minds were bared, until Nick arrived at the heart of it all.
+
+Elizabeth had been married to the love of her life, but it had ended with the death of…
+
+No. Enough! If she doesn’t want to tell me, then I don’t want to know!
+
+Nick couldn’t close the floodgates or stop what was happening, but he could control what he paid attention to. He shut out the details of her deepest secrets by focusing on a subject that he had been interested in ever since they first met—how Liz had earned her insane Charisma and what it allowed her to do.
+
+What happened next was revolutionary, changing his understanding of social behavior on a fundamental level. How Elizabeth thought about other people showed him a way of looking at the world he had never imagined.
+
+One level was profoundly intuitive. Long before the System entered her life, she had been deeply attuned to the people around her, intrigued by their choices and beliefs.
+
+What makes someone happy? What makes them change their minds? What tugs at their heartstrings and what keeps them up at night? What are they willing to die for and what are they willing to live for?
+
+Liz found these questions to be a captivating puzzle—more complex than any game Nick had played. While she had begun this pursuit out of pure fascination, she soon learned that understanding what makes people tick could benefit her in countless ways. The same skills that had helped her succeed in the political arena had saved her from the cruelty of some terrible individuals, both before and after integration.
+
+This application of her natural talent had led her to develop the other half of her approach to Charisma—a tactical tool to achieve her life goals. Over the last few months, she had honed her Charisma into a weapon to save the planet and protect the people she loved. On a social battlefield, empathy was a blade and image was a shield.
+
+Nick immersed himself in the details, learning as much as he could from a master of the art. He had no idea how much time was passing in the outside world. Submersed within the depths of memory, seconds and years felt the same. But at some point, he could sense the connection fading—much to his relief.
+
+Eventually, their minds separated, and he found himself back in his own body, reeling from the incredible event.
+
+While some of the details faded away, he remembered most of what he’d experienced. He now knew Elizabeth better than any other person in his life—better than his friends or his own mother. He grasped how she thought on a fundamental level. What she believed in, what drove her, and what she was willing to do to accomplish her goals.
+
+Now that he had seen what lay beneath her overwhelming Charisma, Nick knew with complete and utter certainty that Liz was a good person. While she would be a dangerous enemy, she would be a stalwart ally—someone he could trust with his life. She intended to keep her promise not to manipulate him and was hoping to fight by his side to build a new world where humanity could thrive in the new era dawning before their eyes.
+
+He realized that he admired her… needed her. That he wanted to build something together too. It wasn’t a compulsion or anything of that nature—just the natural consequence of understanding that their values and goals were aligned in a fundamental way.
+
+It was bizarre and overwhelming to have gone from being almost total strangers to understanding another person on such a primal, intimate level within a matter of minutes. Nick hadn’t even begun to process the full implications of what had happened. He wasn’t sure how much she would remember, or how their relationship would develop going forward. All he knew was that his life would never be the same.
+
+When Elizabeth walked over to join him, she was radiating vitality, reveling in the changes to her body. She was lithe as a cat and each movement conveyed a sensuous joy of life. Liz had already been ridiculously fucking hot, but she was even more beautiful after changing her appearance to be more in line with her ideal self.
+
+The smoldering look she gave him could have set the world ablaze, and he felt himself responding in kind. “That was… transcendent. I have literally never felt this good before.” She ran her eyes across his body with clear intent. “But I know how I could feel even better. Nick, how would you like to help me celebrate this monumental achievement?”
+
+In that moment, he wanted nothing more than to wrap his arms around Elizabeth and let nature take its course, but he resisted the urge. He knew her interest was genuine, but he didn’t want to ruin what he had with Sophia or take advantage of everything that had happened—especially since Liz didn’t seem to be aware of what they’d shared.
+
+She has way more Charisma than me and knows how to use it. If I’m not careful, she’ll have me in bed before I know what happened. He called upon Arctic Clarity to regain control over his raging hormones, then looked away from her sensuous gaze before he lost the will to resist.
+
+“Sure.” He pretended to misunderstand her question. “When we make it back to civilization, drinks are on me. I think I’m going to go take a walk under the moonlight and make sure nothing dangerous has wandered into the region. I’ll cook us a celebratory meal when I get back.”
+
+He was worried that she would be hurt by the rejection, but Elizabeth just laughed as he beat a hasty retreat. They shared a last, lingering look that was hot enough to melt the edge off his frigid focus before he got ahold of himself again.
+
+He wasn’t proud of what happened next, but Nick turned around, activated Force Acceleration, and ran out of the cave—accompanied by the melody of Liz’s laughter.

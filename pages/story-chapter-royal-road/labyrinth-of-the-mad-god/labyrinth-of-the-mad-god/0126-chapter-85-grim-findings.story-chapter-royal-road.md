@@ -1,0 +1,71 @@
+---
+id: 438eac90-5c81-5488-ba57-160e1ba11ebf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85: Grim Findings"
+slug: 0126-chapter-85-grim-findings
+partOf: labyrinth-of-the-mad-god
+position: 126
+ownLength: 1489
+unit: words
+publishedAt: 2025-01-31
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2040662/chapter-85-grim-findings"
+royalRoadId: "2040662"
+---
+
+Everyone woke up a few hours later, but Veronica still hadn’t returned.
+
+They sat in front of the entrance of the cave, wrapping blankets around themselves for warmth, snacking on cold rations while discussing their situation. Although Nick’s device offered enough light to see, they couldn’t risk building a cookfire to eat a hot meal. The flickering flame and rising smoke would reveal their presence to the beasts outside, not to mention the pirates prowling the skies.
+
+While Sophia and Nick maintained their gear, Devin and Shaun moved to stand guard. No one trusted the red-haired man to do the job alone, given his level and past performance. That being said, Nick had to admit that the young archer had undergone some remarkable growth since entering the tower, especially after his month of training.
+
+He still hadn’t forgiven Shaun for trying to rob him back on the bog, but Nick was starting to warm up to the man, at least by a few degrees.
+
+This is an insane situation. One we didn’t ask for or deserve. There are some things that can never be forgiven, but what Shaun did doesn’t rise to that level, and two of his friends died due to their poor judgement. Luckily, I was the first person he ambushed, and it didn’t go the way that he planned. As long as he keeps trying to change, I’m willing to give him a second chance. But I’m keeping a close eye on him until he finishes earning our trust.
+
+Nick was worried about V, more with every minute that passed. But he couldn’t do anything other than trust her judgment, believe in her skill, and hope for the best. If she wasn’t back by morning, they would start looking for her the moment that it was light enough to see. While Team Earth waited for the sun to rise, they passed the time by discussing recent events.
+
+Everyone spoke in low voices, sharing the full story of what had happened while they were apart, including everything they had experienced over their month of compressed time. Nick had gotten the gist back in the saferoom, but not all the details.
+
+It turned out that Sophia had been on her own for most of the first day before running into Devin. They were attacked by roaches only minutes after finding each other, and several times thereafter, driving them deeper into the nest until they realized that the beasts were tracking them by scent.
+
+Taking a page from Nick’s book, Sophia had burned some timber and then rubbed the ashes into their skin, hair, and gear, confusing the roaches’ senses enough that they hadn’t been able to locate the duo so easily.
+
+Shaun had woken up alone, with no idea who else was on his team except for Sophia. He had spent the first day exploring the basement until he ran into the construct swarm. After spotting the young man, the gear-rats had chased him for miles, until he realized that they couldn’t climb well and had found a massive slab of stone.
+
+He scrambled up there and was promptly surrounded, beginning a long, sleepless ordeal until Nick and Veronica arrived to save him. He was lucky none of the scorpions found him first, or he would have been a sitting duck.
+
+When Nick was done sharing his own story, he took another turn standing guard while the others stretched out and got ready for a second day of fighting on the run. About an hour into his watch, a shadow detached from the closest trees and started gliding his way.
+
+He was about to cry out an alarm before he realized that it was Veronica, returning from wherever she’d been scouting. She scrambled up the vine-covered wall, handed him his charm of muffling, and then stepped inside the cave.
+
+“I found something interesting, but there’s just as much bad news as good.” She let out a weary sigh, then began helping herself to some of the provisions that he’d set out for her. Everyone gathered round and V reported on what she’d seen, speaking in between bites.
+
+“There is some manner of walled base about two miles from here. It’s fortified to keep out the local beasts, but the defenses weren’t designed with people in mind. The pirates have a pair of guards posted, but it was easy to climb the wall and get inside. The perimeter doesn’t seem to be trapped or warded, or they would have found me already.
+
+“As far as I could tell, it’s some manner of hunting lodge. A place where they cook up the various critters that live on the ground and then send the meat up to the islands above. There were six buildings that I could see. A kitchen, a storeroom, three small barracks, and what appeared to be some manner of stable.” She drained her canteen and then handed it to Nick. He put it in his pack, filled it with the water he was carrying inside, and then gave it back.
+
+“There was a pair of airships docked inside the walls. One of them is big enough to hold our entire team. On a less promising note, the next shipment is being loaded in the morning, and it’s leaving as soon as its secure. We need to hit them now, hit them hard, and make sure that none of the pirates makes it aboard either vessel. If they take off after spotting us, we’re going to be stuck down here and they’ll catch us for sure.
+
+“We need to break in, steal that big ship, and disable the little one. Before sunrise, while most of the pirates are fast asleep and we still have a chance of surprising them. And one other thing.” Veronica’s posture drew tight with tension, and there was a hard look in her eyes that Nick had never seen before.
+
+“I heard their sentries talking. They aren’t just planning to kill us. The pirates intend to torture us for sport first. They were laughing while they bragged about what they were going to do to us. Some of their suggestions were so vile that I’d rather not repeat them. Given the details, I’m sure that they were things they’ve done many times before.”
+
+At that point, V’s tone turned cold as ice. “These aren’t good people. They are followers of the Mad God. Outlaws who prey upon the people living outside. Ruthless killers who were banished from planets connected to the tower.
+
+“They aren’t like us, victims of circumstance who are just trying to survive. They have been twisted by Taltos and the Labyrinth, or maybe they were just born bad. Either way, we won’t be able to talk our way out of a fight, and if they catch us, we will wish they’d killed us instead.”
+
+While V answered questions from the team, she began drawing a diagram in Nick’s journal, outlining the layout of the base, the surrounding terrain, and where she’d seen the sentries posted.
+
+“Veronica is right,” Devin said. “It has to be tonight.” He let out a long sigh before continuing. “Before we head out, there’s something else that we need to discuss. Something that I hoped would never happen, but we all knew was coming sooner or later.”
+
+“We’re going to have to fight the pirates.” Nick nodded his agreement. “Maybe even kill them.”
+
+“Exactly.” Devin frowned, the unhappy expression rare on his face. “Although I’d replace maybe with almost certainly. I don’t want to hurt other people, but we’ve all known for some time now that sooner or later, it was going to come down to us or them.”
+
+Sophia sighed and then added her thoughts. “On top of being vicious killers, the pirates have a quest to take us out, which makes them our enemies in more ways than one. If we aren’t willing to fight back with everything we have, we’re all going to die.” She looked each member of the team in the eyes before continuing.
+
+“If you can’t take a life tonight, you’re going to lose your own, and risk our entire planet in the bargain. It’s probably the true challenge of this floor. The System is forcing us to accept this ugly part of our new reality. And while I fucking hate it for doing it, it’s going to happen again and again. If we can’t adapt now, here in this moment, we’re going to be reduced to a footnote in history.”
+
+They took turns voicing their feelings, each member of the party speaking their mind. While no one was looking forward to what lay ahead, in the end, everyone agreed with Devin and Sophia. It was time for the team to engage in their first fight against other people, and they had to be willing to put the pirates down for good.
+
+Hesitation was only going to get them all killed.

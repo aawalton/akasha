@@ -1,0 +1,159 @@
+---
+id: d028e15e-feb6-5c71-8070-571e63040c51
+page-type-slug: story-chapter-royal-road
+title: "61. Negotiation"
+slug: 0061-61-negotiation
+partOf: mana-devourer-litrpgmana-cultivation
+position: 61
+ownLength: 2434
+unit: words
+publishedAt: 2025-11-02
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/2726326/61-negotiation"
+royalRoadId: "2726326"
+---
+
+“Let’s say I agree to this,” Markus started, eyeing Randall intensely.
+
+He watched as Randall’s eyes shifted so suddenly, as his body lurched so violently against his seat that he seemed to have been struck by lightning.
+
+Yeah, that got your attention… you want this so badly. I could ask for anything and you’d give it to me, wouldn’t you?
+
+“I obviously need assurances I won’t die. I’ve got a contract with the demon in charge of this place and I’m still being forced to fight. I want that gone. There’s also other gods that want me for my powers, plus Elasar. I need you to keep them off my back.”
+
+“Seems fair…” Randall bit his lip. “Unfortunately, you might run into an issue here. Elasar doesn’t own your contract, technically. Drathok does.” He waved his hand in a short circle as he spoke. “Of course, Elasar also owns Drathok, meaning that while I could bargain with the demon for you, he’s going to follow his boss’s orders and decline. That’s easily solved, however.”
+
+“Solved how?” Markus asked.
+
+“Simple. I kill Drathok and the contract is inherited by his master. Then I can deal with him directly.” Randall tapped his chin with a finger. “Am I willing to go that route? Hmm. It’d upset the power balance of my city quite significantly. The arena would likely close. I might incur the wrath of some powerful demons that exist beyond Firrelia…”
+
+Eventually, Randall nodded. “Yes, I think that’d work. I was planning to keep the status quo here, as I figured my new and improved self might enjoy having a city to govern and a legion of followers, but if allowing it to fall to war and chaos means you get out of your contract faster, then by all means. I can always start anew elsewhere.”
+
+Markus only stared as the implications were piled on piece by piece. “You really think it’d lead to war if you freed me from my contract?”
+
+“Elasar is backed by demons from Thiron, though I’m not sure on all the specifics. What I do know is, if I were to murder him, his family would respond. If I were to bully him out of holding your contract, he’d go cry to them…” Randall spoke with a vague disinterest, as if he were discussing bad weather. “Now, they’re not gods, but they’re not exactly mortals either, and the higher worlds are purportedly much stronger than this one. Drathok’s status as an imp baron makes him a lowly, pitiful creature amongst Seconnian demons, and yet here, you could almost consider him something beyond fodder.”
+
+“Is he really that weak compared to other demons?” Markus asked, thinking on how they’d fought together, on how even then, suffused with all that borrowed divine energy, he hadn’t felt he truly measured up to Drathok, and that it was only the demon’s aversion to divine power that kept him so far out of that fight.
+
+“Most would erase an imp baron with a thought,” Randall nodded. “Now, he might be a touch stronger than your average imp baron… but I doubt it changes much. True demons are much more powerful.”
+
+“Could you kill Elasar though? Could you handle these other demons if they came?” Markus asked, hoping a straight answer awaited him. Even if the prospect of chaos and warfare didn’t sound at all up his alley, maybe it could be averted, and regardless, knowing if Randall had the firepower at his disposal seemed important. If anything, it was a yardstick.
+
+“Truthfully, I have no clue just how wide his network runs, and I can’t definitively even gauge Elasar’s power…” Randall shook his head. “Even if I did struggle in a direct confrontation, I have more resources and more allies standing near. I could force his hand if needs be.”
+
+“I’m surprised you don’t know,” Markus admitted. “Or that you’re willing to admit to me that you don’t know, for that matter.”
+
+“Pride doesn’t serve me right now. I’ve found the few emotions I’ve been left with can be flicked on and off without much effort… Well, besides the yearning to be free of this malaise.”
+
+“I don’t want you to force me out of my contract if it’ll lead to some big ugly war,” Markus said after a long moment. “Can you not just make a deal with Elasar, or something? I dunno how all of this works.”
+
+“I already have a deal with Elasar,” Randall stated. “Well, I had one. I’ve since broken it. He’s not going to treaty with me after I resolved to murder you. He’d have felt that impulse the instant it crossed my mind, whether you still live or not. That’s the nature of the contract. Why would he deign to trust me now?”
+
+Markus drummed his fingers against the table as he mulled over what he heard. He felt like he should be more nervous than he was. Like there was a distinct lack of bile or hatred foaming in his chest.
+
+He’d been through a lot. A big part of that ‘a lot’ was sat before him now. And he wasn’t shitting himself, OR trying to throw things at him—was this what maturity felt like?
+
+“So what exactly can you do for me?”
+
+“I’m still not sure why killing him is off the table.”
+
+“Uhh… the big ugly war part?”
+
+“Between a group of demons and a bunch of my followers? Neither are your kin. But fine, alternatives…”
+
+“You can bring me back from death, right?” Markus interjected, pointing at him. “Like you did all those times in the arena. You did legitimately resurrect me then, didn’t you?”
+
+“Not exactly. More like ‘wound back your clock’, though that sounds far less impressive…” Randall shrugged. “Whatever you want to call it, it requires proximity. I can’t sit by your side all day and night, I have duties to tend to.”
+
+Markus raised an eyebrow at that. “Seriously? You seem to care so little about your role as a god, why are you worried about keeping up with it?”
+
+“It’s not as simple as ‘wanting to’ or ‘not wanting to’,” Randall stated plainly. “I have places I must go and duties I must fulfill as Benevolence. I cannot simply ignore them.”
+
+“You’re telling me you have to go and help people, regardless of whether you want to?”
+
+“Trust me, Markus, I don’t have to help anyone. Learned that a few centuries ago.” Randall smiled. “All I have to do is attend.”
+
+With that, he tapped his cane. It almost felt like a hint beyond the obvious malevolence. Was he saying that his Divine Arm told him where he had to go day to day? That he couldn’t refuse it?
+
+“So you can’t make me immortal either…”
+
+“I can show you how to wind back your clock,” Randall said. “Should be good for a few seconds, once or twice a week maybe.”
+
+“I can bring myself back from death with that?”
+
+Randall rolled his eyes. “You think you can activate such an ability while your head’s missing? Give it a try. No, you’ll need to use it much earlier than that if you want it to work. Avoid getting your head knocked off in future, or your skull crushed, or your face melted...”
+
+Randall went on listing ways he’d watched Markus die previously. Markus struggled to keep colour in his face through the recounting.
+
+“Gee, I appreciate you reminding me of all of that. You know a ‘no’ would’ve been fine, right?”
+
+“I thought reliving a fond memory with you might kindle something for me.”
+
+“I… kinda hate you even more somehow.”
+
+“I see.”
+
+“I thought I was bottomed out on hate. This might be even deeper than hatred.”
+
+“Well I’m glad that one of us is discovering new emotions.” Randall tutted. “Anyways, let’s simplify things.” He tapped his cane, and on the table appeared heaps of gold and gems, enough to fill ten bathtubs. “I can give you all of this, a thousand times over. I can give you access to the finest blacksmiths, runemages, armorers, magicians, and alchemists in this city. I can make you a celebrity in Sun City, even bigger than you are now.”
+
+“Bigger than I am now?” Markus repeated.
+
+“You’re discussed somewhat often. The otherworldly human who survives every fight he’s thrown into. You could be propelled even further to fame if you wished. Or… I could feed you mana. I have plenty of acolytes who I’m sure would be more than willing to let you drain them if I commanded it.”
+
+Markus couldn’t believe how upfront he was being with all of this. Maybe it really was just that trifling to him. It made him wonder if his initial offer all the way back when they’d first met would’ve been anything like this. A part of Markus imagined that it would. That Randall was so rich and had such an abundance of wealth and power that he could happily and easily offer so much more than almost anyone else in Firrelia and do so with complete nonchalance.
+
+It was kind of staggering, but it still left a poor taste in his mouth, if only for who the offer was coming from, that and…
+
+Did Randall realise he had Mana Toxicosis?
+
+“I can imagine what you’re thinking,” Randall began.
+
+“What’s that?” Markus responded, unblinking, hoping to fuck he couldn’t imagine it whatsoever.
+
+“Why am I willing to offer you so much on a whim when you haven’t even shown that you’re capable of providing any of the results that I hope for, beyond an inkling of resilience to my Divine Arm?” Randall brandished it as if it were a toy. “As ponderous as that event might’ve seemed in isolation, it could be a fluke. I do wish to test if you can withstand its powers again, before I’m willing to grant you anything.”
+
+A tremor ran up Markus’ leg at the idea of that, the chill passing through his entire body at once. “I-I thought you said that—”
+
+“That I don’t intend to cause you harm, that’s correct. If you succumb to my Divine Arm in this instance, I can prevent it from harming you. I may be unable to prevent how it influences me, but I can always take it away from you if it seems you’re beginning to struggle. That much is easy for me.”
+
+“Right…” Markus wished he could think of more of a reason not to trust Randall. He desperately didn’t want to interact with that thing again, not after what the last experience had been like, but he couldn’t think of any solid reason to refuse besides simple, irrational fear.
+
+Okay, maybe it was rational fear. But he still knew what Randall had promised Serena, and he heavily doubted he’d randomly retract that now. It was all too convoluted if the plan all along was simply to torture him, after all.
+
+Markus chose to believe Randall. He took the cane in hand and studied its strange markings, twirling it around in his fingers. Nothing happened.
+
+“So, uh… what do I do? Hit you with it again?”
+
+Markus realised how stupid that idea sounded as soon as he said it.
+
+“I’d prefer you didn’t…” Randall shrugged. “Try casting a spell! Use it as a conduit. That should be enough to activate the Divine Arm’s effect.”
+
+Shit. What happened when he couldn’t cast a spell? Or when he screamed so loud the entire city woke up attempting to do so? He’d be revealing himself to be utterly useless in the process… maybe Randall could heal him. Could he?
+
+Serena couldn’t… If Markus revealed he had this issue and that Serena hadn’t dealt with it already, would he just be revealing how weak she currently was? Could Randall see that the two of them were bound by a contract? Serena hadn’t mentioned before, but perhaps he’d spied on them before he appeared. It had been rather sudden. Serena had been surprised when he’d popped up out of nowhere. He could already be aware of everything going on with Markus…
+
+“No,” Markus finally said, handing back the cane to a nonplussed Randall, who didn’t reach out to take it. “You had no clue I could resist your weapon, so how do you know I can use it without hurting myself? I don’t trust it, and I’m not doing it.”
+
+He tried to put as much conviction in his words as he could, maintaining eye contact as he spoke. It was a desperate gambit. If Randall determined he was somehow useless, he might just kill him, or begin to torture him again for all he knew. If he realised Serena was effectively powerless right now, he could rescind his offer and do whatever the hell he wanted. Markus couldn’t play along.
+
+“You can’t cast a spell anymore, can you?” Randall asked, eyes narrowed.
+
+“What makes you say that?” Markus countered. He felt he’d barely reacted, but who knew. Maybe he flinched a little. Maybe his heart rate quickened. It definitely did. Would it come across as anxiety or anger? Randall wasn’t a lie detector…
+
+Markus had an idea. He could only hope that Serena felt the thought flowing through him as soon as he did. He lifted his hand to his cup, and with a painful pulse of energy, he began to push a tiny, tiny amount of Frost Mana towards his fingertips…
+
+Serena invisibly bolstered his cast, offering her own energy and supplanting his. Within moments, the liquid within the glass was frozen, and Markus’ face was barely strained. He looked up and smiled, showing off the iced beverage.
+
+“I can cast plenty of spells. I just don’t wanna be your guinea pig.”
+
+“That looked painful,” Randall noted, a note of faux concern in his voice. “Have you damaged your mana centres somehow?”
+
+Markus attempted to look more confused than scared. As if Randall was miles off.
+
+“If that’s the case, you’re better off just telling me. I could whip up a cure for you in a moment if you needed one.”
+
+Maybe that was true. Maybe Randall already knew what was wrong with him and was having some fun at Markus’ expense. Or, just as likely, he simply had his suspicions, and was waiting for confirmation that Markus was diseased and useless before he decided to cancel his deal and off him.
+
+Markus kept up the act. “I’m fine. Always have been. Always will be. Did you forget who you’re dealing with, or something?”
+
+“Hmm…” Randall eventually shrugged. “Fine. Let’s talk terms.”

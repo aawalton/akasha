@@ -1,0 +1,241 @@
+---
+id: e2d7c563-6857-59a6-bdfe-a28627e753f7
+page-type-slug: story-chapter-royal-road
+title: "106 — Book 3, Chapter 5 — Divine Studies, Pt 2"
+slug: 0109-106-book-3-chapter-5-divine-studies-pt-2
+partOf: just-add-mana
+position: 109
+ownLength: 4454
+unit: words
+publishedAt: 2026-03-07
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3126658/106-book-3-chapter-5-divine-studies-pt-2"
+royalRoadId: "3126658"
+---
+
+Cale would have snorted if it wouldn't have undermined Akkau's lesson; the old dragon was using the exact same excuse he always did when he didn't want to explain something. Ancient magic indeed.
+
+More likely it was some sort of self-censorship enchantment woven into the artifact itself, a protective mechanism that prevented too many people from knowing about it at any one time. Perhaps after the tournament, memories of what it was and what it could do was erased again, preventing wars from being started over this supposed great artifact.
+
+He wasn't the biggest fan of such magic. Cale was very protective when it came to his mind. If he was going to forget things, he would much prefer doing it on his own terms.
+
+Which was to say, by accident, often at inconvenient times or after a great enough time had passed. Honestly, he was forgetting things all the time. There was absolutely no need for magic to get involved.
+
+Still, he could admit—however begrudgingly—that such magic could be useful. Artifacts that didn't have protections like these resulted in wars and power struggles more often than not. If something existed that was strong enough to change the world, people would seek to claim it.
+
+Cale didn't consider this to be the best solution to that problem, but he didn't really have a better one to offer, either. Secrecy only tended to go so far. The alternative was using a magical contract, but those could be broken, even with the consequences that came with it.
+
+He turned his attention back to Akkau, who surveyed the hall quietly, his gaze intent. Cale was pretty sure he was watching for something, although he wasn't sure what.
+
+"For those not already aware," Akkau said, "this artifact is known as the Anchor. Most believe it to be a minor artifact with the ability to glow. It is not.
+
+"The Anchor, as the name suggests, acts as an anchor between the abstract and the physical. It is the conduit for the divine energies that flow into and stabilize this realm, and possession of it alone is enough to grant you the favor of the gods. For context, were Brightscale Academy to come into possession of the Anchor at this very moment, it is likely that Astiviya would call herself down and personally apologize for the offense she caused us."
+
+An anchor between the abstract and the physical...
+
+Cale was suddenly very aware of why Akkau had so openly and easily called it the greatest artifact ever created. As far as he knew, a planar anchor like that should have been impossible to create. It was the dream of many an artificer, the so-called ultimate magical item, but it was unachievable.
+
+Or so he'd thought. Cale frowned slightly. Artificers all over the Great Realms had attempted to create exactly this and failed, so much so that it was named as one of their famously unsolvable conundrums; the Planar Bridge problem, if he remembered correctly. Had someone actually managed to solve it?
+
+But that didn't make any sense. Even incomplete versions of this anchor were some of the all-time greatest feats of artificing.
+
+The Bridge, for example, consumed enormous amounts of mana but was able to briefly connect the Great Realms to the Outer Planes. That artifact was in the keeping of the Expeditioners, a group of mages who dedicated themselves to exploring the Outer Planes. Yet it was ultimately a flawed working—it could only be activated for moments at a time, and would always require repair afterward.
+
+The Key was worse. It was created by a single mastermind artificer who claimed to have solved the problem, but exhibited no signs of being connected to any other plane; in fact, while it was clear that a connection existed, no mage could identify what it was connected to. Despite this, the artificer had insisted on it being theoretically sound and had activated it, promising to return shortly.
+
+He never returned, of course, and the Key had ironically been locked away as a poorly-understood artifact. Cale would admit to being mildly interested in that one, if only because he wanted to know what it supposedly led to.
+
+Then there was the greatest project of all—the Gate, an artifact created by a group of dedicated artificers working for the better part of their entire lifespans to create such an anchor, and the disaster that followed was known throughout the Great Realms for the absolute tragedy they had inadvertently caused. When activated, the artifact had inadvertently transported their entire realm halfway toward the abstract plane.
+
+But only halfway. That realm was known as the Wandering Realm, now, and it was said that every so often the Gate would cause it to intersect with one realm or another. When it did, ghosts and fragments of that lost realm would manifest, abstract ideas temporarily given substance.
+
+The single common factor about all of these was that the event of their creation had been so singular and significant that the entirety of the Great Realms shifted in recognition of them.
+
+Temporarily. But still. The Great Realms were structured such that power would leak from the strongest to the weakest, manifesting in the so-called "lower" realms as dungeons. The creation of even a false planar anchor was sufficient to re-orient this entirely, at least long enough that information about the new artifact trickled through all the realms.
+
+In other words, every time such an artifact was created, a dungeon would appear in every other realm, dedicated entirely to documenting the folly of its creation.
+
+So why in all the Great Realms had Cale never heard of it? Was its self-censorship enchantment somehow strong enough to propagate through all the realms? That in itself was a ludicrous idea. There were mages specialized in seeing through those effects.
+
+To successfully hide its existence, the Anchor would have had to fool the entirety of the Great Realms simultaneously.
+
+Cale wasn't sure he liked what Akkau had implied about what it could do, either. Simple ownership of the Anchor was enough to make a god like Astiviya bow down and apologize? That sounded like more than mere divine favor.
+
+"You're glaring very intensely right now," Damien whispered, nudging him.
+
+Cale blinked and forced himself to relax, offering his apprentice a wry grin. "Sorry. Just lost in thought."
+
+He was pretty sure Akkau was downplaying the true abilities of the Anchor on purpose, and that was probably for the best, if it did what he suspected it did. Any sort of planar anchor should have been impossible to create, but one between the abstract and the physical...
+
+"I'm going to have to think about it," he muttered with a sigh. "I can't believe I'm going to have to think."
+
+Flia shot him a strange look. "You're in an academy?" she said, phrasing it like a question.
+
+Cale grinned at her. "Yes, but creative problem solving doesn't feel like thinking."
+
+"That... is literally thinking. Cale, you're describing the process of thinking."
+
+"There's fun thinking and then there's less fun thinking," Cale said dismissively. "Anyway, shh, Akkau's still talking."
+
+Flia rolled her eyes. "You were the one that started this, you know," she muttered, then subsided, turning her attention back to Akkau.
+
+"Some of you are uncomfortable with the idea of a god apologizing to you," Akkau said. Cale noticed that his gaze lingered specifically on a few students—not the ones that seemed uncomfortable, but the ones that were excited by the idea.
+
+...Was Akkau putting them on a list? He had the distinct feeling that Akkau was putting them on some kind of list.
+
+"Good," Akkau continued. "It should make you uncomfortable. The kind of power that the Anchor possesses is not something that should be taken lightly. There is a reason this tournament is named Fettered Divinity. It is a reminder not of the power that the Anchor grants, but of the responsibility that comes with it. A responsibility much like the ones our divines carry for us."
+
+One of the other students—a smaller, mouselike creature, though a distinct species from Professor Imrys; Cale didn't recognize what she was—raised a hand, and when Akkau looked at her, she spoke in a small but clear voice. "If this artifact is so dangerous, why don't we just destroy it?" she asked. "Surely we don't need it for the realm to function?"
+
+Akkau nodded slowly. "An excellent question," he said. "You are correct. We do not need it, and many before us have considered destroying it. Artifacts over a certain level of power are difficult to destroy, however, and the Anchor certainly qualifies. Even if it were possible, the artificer who created it has done their utmost to render that option moot.
+
+"The Anchor resists any form of intervention. It must be owned by a sufficiently great power capable of making either active or passive use of it. If an attempt is made to destroy it, it will teleport itself into the hands of one willing to use it. If an attempt is made to lock it away, it will teleport itself into the hands of one willing to use it. If an attempt is made to give it to one who would not use it... I imagine you get the idea."
+
+Cale winced. He hated artifacts like that. They were basically cursed, except it seemed whoever made the Anchor had intentionally created it this way. Why, he had no idea.
+
+"Why the tournament?" another student asked. "Why not just give it to someone who's going to use it for good?"
+
+"Because it would start a war," Akkau answered dryly. "Though the truth is a little more complex than that. First, it must be understood what the Anchor does, and why it is the responsibility of Utelia's academies rather than its kingdoms to make use of it. The answer for both of these questions is one and the same: the divine favor granted by the Anchor virtually guarantees that the mages in possession of it unlock their full potential."
+
+Murmurs erupted across the hall as the students glanced at each other, wide-eyed.
+
+Cale wasn't as impressed. It wasn't like it was doing anything he couldn't do. He could understand the appeal of it, but he was also certain Akkau was hiding its greater functions, most likely because he didn't fully trust all the students that were there.
+
+Or perhaps he just didn't know of them himself. That was an equal possibility.
+
+"That, and the Anchor will also teleport itself if it is in the possession of any singular entity for too long," Akkau added with a touch of wry humor. "It was agreed upon even before my time that it would be best if the Anchor were distributed among the academies of Utelia, to better ensure each generation of mages will propel our realm forward."
+
+Cale could read between the lines. Any kingdom could theoretically recruit from any academy; it was the most ostensibly neutral option, relying on the supposed neutrality of the various academies. Whether the academies in question were actually neutral...
+
+He glanced over at Leo, who looked vaguely constipated, and gathered that they probably weren't.
+
+"For obvious reasons, the current holders of the Anchor preside over the tournament, but do not participate. The rest are given a fair shot at winning it for themselves. And before you ask" —Akkau raised an eyebrow at one student whose hand had shot up— "we have previously attempted to simply cycle the Anchor between academies without the tournament. It did not go well. The Anchor must lie with those with sufficient potential, and the tournament is the best means we have of identifying this."
+
+Something about that didn't entirely line up to Cale. He considered it for a moment, but eventually shook his head; it was one of those things that was probably going to nag at him for a while.
+
+"We do not want the Anchor to teleport itself," Akkau added. "Almost every time this happens, it lands in the hands of the worst possible organization it could be given to. We suspect the artificer that created it wanted to encourage active distribution. I would have words with them about their methods, were they still alive and their identity known, but alas."
+
+He shook his head wearily, and Cale snorted quietly to himself. He could relate to the feeling. The number of times he'd wanted to lecture some ancient mage that had invented some clearly ill-advised magic... Why did none of them have the decency to stay alive so they could be lectured, anyway? Honestly.
+
+"Regardless," Akkau continued, "the Fettered Divinity tournament will be held one month from now, on the sacred grounds of the First Divide on the continent of Aersheld. Wyldfire students will be nominated to be our representative team, but they will be allowed to recruit a support team to help them. I suggest you prove yourselves to your seniors. Those that win the Anchor directly always gain the greatest benefit from it. Now, are there any questions?"
+
+Akkau paused, surveying the crowd of raised hands, and sighed. "Very well. One at a time, please."
+
+It was going to take a while for Akkau to get through all the questions about the tournament, though he was clearly itching to move on. None of the questions were about anything Cale was very interested in—the rest of the students were mostly interested in how they'd get to join a support team and what that team would be doing. There were some that were trying to pry more details about the Anchor out of Akkau, and a final few that had concerns about Astiviya's threats.
+
+Cale figured he'd leave Akkau to it for now. It was as good an opportunity as any to speak to his apprentices, especially since they'd apparently had the foresight to start working on this already. He knew a little about what they were doing, but for the most part had left it alone; inter-Wing classroom politics was not something he was interested in getting involved with.
+
+"You guys have been working on joining the wyldfire team already, right?" he asked. "How's that been going?"
+
+Flia nodded. "They're interested," she said. "I think we have pretty good odds, especially if we keep it up. A few other teams have already started competing for the position, but we have resources they don't. Mostly the labyrinth. One or two of the wyldfires are interested in tagging along on our next dungeon run to see how we fare in a fight."
+
+Cale frowned. "Our next dungeon run is probably going to be the Bitter Path," he pointed out.
+
+Flia grimaced. "I know. I'm not sure if they'll want to come along with us for that one, but we should probably let them if they insist."
+
+"If you think that's the right choice," Cale said, shrugging. He wasn't that worried about it—he was confident he and his apprentices could handle whatever the dungeon threw at them. "Just let me know so I can pass the message on to Haelforge. I'm probably going to have to convince them to allow it."
+
+It was good to know his apprentices had that part of things well in hand, though. He turned the matter of the tournament over in his mind, ruminating. Something about it was bothering him.
+
+"You look like you're thinking about something," Damien prompted.
+
+Cale nodded slowly. "Has the dark lord ever gotten involved with the Fettered Divinity tournament before?"
+
+"I don't... think so," Leo said, his brows furrowing. He rummaged through his notes for a moment, then shook his  head. "No. Is he going to get involved in this one, do you think?"
+
+"It's hard to say, but..." Cale leaned back in his seat, considering. "We know he's been getting more active, right? It's not public information yet, but we've heard about groups of aberrations taking tentative strikes at the different kingdoms, like they're testing the defenses."
+
+"Right," Leo said.
+
+"Which is something a hostile dark lord does," Cale continued. "But it makes it weird that he hasn't attacked before. Dark lords do have to play by certain rules, mind you; it's the whole reason they don't usually attack until the time is right. But the key word in that is usually.
+
+"Those rules have exceptions. One of those exceptions is that if an artifact like the Anchor exists, they have to pursue it. The fact that he hasn't already... I mean, the teleportation failsafe would render it moot, but it's still strange he hasn't tried to work around it. He should have at least made a play for it by now, if only to do some testing."
+
+"Maybe he just doesn't know about it?" Leo suggested. "There's all that memory magic around it."
+
+Flia and Syphus nodded at that, but Cale wasn't all that convinced. "It'd be strange if he didn't," he said. "Again, rules. If anything, I'm worried he knows more about it than we do."
+
+"It could be that he's not evil," Damien offered quietly. "You said not all dark lords are evil, right?"
+
+"Then it'd be strange that he's attacking the kingdoms to begin with," Cale said, then hesitated. "But you're right, they're not. They're a product of the realm, usually. I can't remember the specifics—it's been a long time, and I think I sealed some of my own memories about dark lords away. Not sure why I'd do that, but I'd only do it if it was important. I hate memory manipulation."
+
+"What do you mean, a product of the realm?" Damien asked, confused. "How are dark lords chosen, anyway? You've implied that they're chosen, I think?"
+
+"It's... complicated." Cale sighed. "A dark lord is an ontological role that must be filled by someone; if they don't choose the role on their own, then it might be forced on them. And most of the time, the realm will pick someone already opposed to divinity. Someone trodded on by society, who feels the need to get back at the gods for abandoning them. That kind of thing.
+
+"It's usually not much better if someone chooses the role. Almost invariably, it's someone that wants power, and it's the person that wants the role the most that ends up getting it. Sort of. Again, it's complicated. But the end result is that a lot of dark lords are evil, or end up being evil, one way or another. Sometimes they change their ways, but..."
+
+"It's set up against them," Damien said, his voice soft with sympathy, and Cale nodded.
+
+"They're opposed to the realm," he said. "Their presence alone makes things worse for everyone else. Even if they wanted support, it'd be really hard for them to get it. Everyone else in the realm is going to instinctively want to reject them. They're going to feel like the dark lord's presence is wrong.
+
+"How often do people manage to get over that feeling? When you're uncomfortable with another person, how often do you check if that discomfort is irrational? The instinct, for most people, is to find a rationalization for it. They find some excuse to avoid confronting that instinct and tell themselves they were right all along."
+
+His apprentices all shifted among themselves, looking vaguely disturbed, and Cale gave them a reassuring grin. "I'm not saying you guys do that," he said. "But it's something to be careful of. It's how the Red Hunters were able to sow so much discontent against wild mages, you know? They take that feeling of discomfort, and they find ways to validate it.
+
+"Sometimes, that's all you need, at the end of the day—a reason to avoid having to reconsider. And being the literal dark lord is basically the perfect reason served up on a giant, morally palatable platter."
+
+Flia frowned. "When you put it like that, it sounds like we should beat up whoever set this up in the first place."
+
+Cale chuckled. "If only it were that easy to fight the cosmic forces that make up the multiverse," he said dryly. "And yes, I'm aware of the irony that I, specifically, am saying that. My point stands."
+
+"It also sounds like you don't want to fight this dark lord," Syphus noted.
+
+Cale shrugged. "I don't know anything about him," he said. "If this pattern holds, he'll attack, and we'll have to fight him off. None of this means we shouldn't defend ourselves. But it's worth keeping in mind that it's probably more complicated than we know... and for the record, I never really want to fight."
+
+Syphus gave him a skeptical look. So did the rest of his apprentices, for that matter.
+
+"Have you forgotten that my one true passion is baking magic?" Cale complained. "Speaking of which, Damien, we need to do more of that later. I want to see the progress you've made."
+
+"We're getting off topic," Damien grumbled, although he didn't exactly refuse. Cale grinned. "You were saying it's possible that this one's nice, right? Maybe that's the reason he hasn't attacked the tournaments. And maybe he just attacked the kingdoms for, um, other reasons."
+
+"Now you're looking too hard for reasons to defend him." Cale shook his head, but smiled slightly. "But good. Always test your assumptions when you're a mage. Personally..."
+
+He thought for a moment. "I don't know if that feels right," he said eventually. "When a dark lord works with the realm, it's usually significant. It's very, very rare, but it does happen. They'll establish a kingdom of their own and get trade agreements going. This one hasn't done any of that."
+
+"So maybe the tournament just doesn't have anything he needs, for some reason," Leo suggested. "The dark lord wouldn't benefit from anything related to the divines, right? The Anchor wouldn't help him or his armies, 'cause of the whole canceling out divine magic thing. The most he could do was stop it from benefiting us."
+
+"Which should be more than enough," Cale said, then sighed. "But it might be the best we've got for now. I want you all to keep thinking about it, though, and come to me if you can think of anything plausible. I can't help but feel like we're missing something. And it shouldn't need to be said, but we should still be prepared in case he decides to interfere this time."
+
+"Are we ever not?" Flia joked. "Being prepared is basically the first thing you taught us."
+
+"And you have a long way to go," Cale said, though he couldn't help the small smile that slipped onto his face. They had taken to his lessons remarkably well, now that he thought about it.
+
+Right on cue, Akkau called the questions to a close, interrupting their discussion. Cale and his apprentices straightened and turned toward the old dragon as he spoke, his voice reverberating throughout the hall.
+
+"Any further questions can be handled in my office at the end of the day," Akkau said. "I have a supplementary exercise for you all. You may notice this is a particularly large class, but that not all of your peers have been invited to join. This is because the secondary aspect of Divine Studies is one that cannot be discussed with any mage that is insufficiently prepared.
+
+"Consider this a warning. Do not speak of what you are about to learn to anyone who does not share this class with you unless they are a higher level of mage. I will know if you make the attempt, and you will not succeed. Is that clear?"
+
+Cale raised an eyebrow, even as the students around him all murmured a confused assent. "Ah," he said. "We're doing this now, I see."
+
+"Doing what now?" Leo looked confused.
+
+"This supplementary exercise involves identifying your divine alignment," Akkau continued. "Many of you will not have heard of this before; this is by design, for reasons you will all learn shortly. Much like your mana aspect, knowledge of your alignment is an essential component to developing the true potential of your mana core.
+
+"To that end, I will be distributing a tool—an alignment orb—specifically crafted to identify the alignment of your mana. You will all use these orbs in this class only, and you will return them immediately afterward. Do not worry about your peers learning your secrets. It will not grant them any advantage over you.
+
+"When you receive your orb, inject a small quantity of your mana into the center of it. We will begin the second part of our lecture in full once you know your alignment." Akkau paused, reviewing the class to make sure everyone was paying attention.
+
+Then he snapped his fingers, and suddenly Cale and his apprentices were enveloped in darkness. There was nothing around them aside from a black, empty void, and the sudden appearance of it made Leo jump and squeak.
+
+"Did you just squeak?" Syphus asked, fascinated.
+
+"Absolutely not," Leo denied immediately.
+
+Cale's apprentices were all tense, though two of them didn't say anything. They just looked about warily, spells at the ready. Cale, for his part, stayed relaxed in his seat (but made a quick, pleased note that his apprentices had excellent reaction times.)
+
+"I apologize for the abrupt nature of this," Akkau said, his tone dry and echoing around them. "It occurs to me that it is traditional for the master to tell this to their apprentices personally, and I would not take this away from you. I have isolated you and your apprentices from the rest of the class so you can give them the explanation yourself. I trust you are aware of the details?"
+
+"I've done it all before," Cale acknowledged, waving a hand. "I got this. Thanks. Also, I don't need your orb thing." He indicated the four alignment orbs that were sitting between them.
+
+At this, Akkau smirked. Cale could absolutely tell Akkau was smirking, even though he couldn't see it. "I am afraid I said that you would all use the orbs, my dear apprentice."
+
+"But I don't need it," Cale complained. "I'm already archmage-level. It's not going to show anything."
+
+"It would not in most cases," Akkau said, amused. "And yet you are surprisingly reluctant. What would your apprentices say to see their master avoiding a device he wishes for them to use?"
+
+"Yeah, Cale," Flia said. "What are you avoiding?"
+
+Cale glared. "Not helping," he muttered, then finally relented. "Fine, fine, whatever. Just... keep the privacy screen up. And let me finish explaining what all this is about first."
+
+He took a deep breath, then turned to his apprentices. "Okay," he said. "It's time to talk about how mana cores really work."

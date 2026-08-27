@@ -1,0 +1,163 @@
+---
+id: 8e2d28bb-ac7d-57cc-a698-7d49f237fb83
+page-type-slug: story-chapter-royal-road
+title: "744. The Battle Apprentice"
+slug: 0033-744-the-battle-apprentice
+partOf: leveling-up-the-world
+position: 33
+ownLength: 2202
+unit: words
+ownProgress: 2202
+publishedAt: 2023-05-15
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1214297/744-the-battle-apprentice"
+royalRoadId: "1214297"
+markedReadAt: "2026-06-29T22:41:18.279Z"
+---
+
+Five mages split the air, darting at the small hamlet like hawks in prey. Spells shot down, tearing structures out of the ground, surrounding them in massive spheres of purple, like enormous bubbles in the air. The only building left was a solid two-story mansion right in the middle.
+
+Seven new mages emerged, swooping in-between the floating houses. Half of them cast illusion spells, causing them to vanish once more. The rest focused on the main building.
+
+Streaks of light hit the upper floor, slicing off segments of the roof and upper walls as if they were puzzle pieces of a child’s toy. The inside was completely revealed: old broken furniture, the remains of a bed, filled with animal poop, and rags that at some point must have been a carpet.
+
+Every object was drawn up and encircled in a new sphere of magic, as the house continued to be deconstructed. Segments of the floor moved aside, followed by the lower walls. Soon enough, a stone stairwell became visible, winding down to the basement.
+
+“Finally,” Dallion said, hovering above. His dark green robe distinguishing him from the lighter variety the other mages were wearing. His hands moved together in front of him, his fingers drawing dozens of symbols every second. An intricate spell sphere took form, shooting aether chains at everything below.
+
+One good tug and the stairwell was ripped from the ground. Parts of two new rooms had become visible in the spot where it had been.
+
+Instantly, four mages flew in, spells at the ready. There were several flashes of light, then… silence.
+
+“Gem, do you sense anything?” Dallion asked.
+
+Hmm, err… No, boss. A jellyfish made entirely of aether emerged above Dallion's right shoulder. There are some traces of magic, but…
+
+“There’s nothing here, apprentice.” One of the mages emerged from the basement area. “It’s all empty.”
+
+Giving a sign to the other mages to remain diligent, Dallion floated down into the lowest room. As the other mage had said, there was nothing there, not even any furniture remains. Cautiously, he stopped an inch from the ground. Several aether orbs provided light to the space, all of them cast moments ago.
+
+“He was here,” Dallion said.
+
+“How can you be so sure?” A woman floated beside him. “The place looks like it’s been deserted for decades, at least.”
+
+“This is the only building without a guardian. Also, it’s far too clean.”
+
+As he said that, all the other mages looked around. Although crude, the stone floor was spotless, lacking any dirt or animal droppings.
+
+“Apprentice!” a yell came from the room above. “We found something.”
+
+Quickly Dallion floated up. The new room was virtually identical to the one below. The only difference was the presence of a single quill located in the far corner. The quill was in perfect condition, and rather new. Also, it had an item guardian.
+
+Are you Dallion? the quill asked, as Dallion approached it.
+
+I am, Dallion replied.
+
+He told me to tell you “no hard feelings”.
+
+“No hard feelings,” Dallion let out a dry laugh.
+
+“Apprentice?” one of the nearby mages looked at him.
+
+“This whole thing was one big wild goose chase. Adzorg wanted us to get here. That’s why he left a small present for us.”
+
+Dallion moved the fingers of his left hand. A green sphere surrounded the quill, lifting it from the ground.
+
+“Someone, inform the Academy. I’ll have a chat with the area guardians, but we’re done here.”
+
+“If he’s left, that means he’s been here.” The female mage insisted. “I’ll tell the cloud sentries to keep an eye out. Maybe they’ll spot him.”
+
+The chances were remote, but Dallion didn’t argue. Waving his hand, he flew out of the building’s basement.
+
+Another lead gone cold. This was the third time that Adzorg had managed to elude him, and just when Dallion was so certain, he’d managed to corner the old man, only to find the former archmage two steps ahead.
+
+Things had changed a lot in the last six months. After suffering significant initial losses, the Tamin Empire had gone through internal reorganizations and was slowly turning things around. It still hadn’t regained all that it had lost, but it was slowly getting there. The Dreud province was no more. After the open betrayal, the archduke had fled along with his entire household and most of his forces. The few nobles that had been left behind had gone through severe interrogation, then depending on the degree of their involvement, had their name erased, spent decades in a prison item, then banished to Nerosal or some other city on the fringes of the empire. As for the Wetie province, the civil war ended in a diplomatic stalemate. The emperor declared Archduke Lanitol the rightful ruler of the area. At the same time, Countess Priscord was made an Archduke herself and given what was left of the former lands of the Dreud province. Naturally, the territory was renamed to bear her name.
+
+Dallion wasn’t particularly pleased, given what she’d done to him. At the same time, at least Nerosal was free of her presence. From what he’d learned, the last of her entourage were making their way out of her former territories in the coming week. Things remained tense, though. Grudges between settlements remained, and it was going to take a while before the overseers could smooth things out. And then there was all the awakened caught in the middle: guilds, mercenaries, organizations. It was said that the Order of the Seven Moons were overseeing things to put an end to hostilities. That seemed like the optimal compromise, although there was no telling where things would go from there.
+
+Dallion spent the next few hours questioning the building and item guardians of the deserted village. They knew nothing, of course. Most hadn’t even noticed anyone enter their area prior to the mage attack. The key settlement guardian was aware of a disturbance, but in his state, he could tell little more than sensing a change taking place. It had been half a century since the village had been populated. Like many unsuccessful settlements, the place was used as a stopping point for caravans, travelers, and the occasional hunter. Those who were awakened improved it just enough so as to keep it standing for a few more years. The rest merely did their best not to add to the ruin. It was a sad sight. The least Dallion could do was mend and improve most of them. Being level seventy-seven allowed him to do a lot, but not everything.
+
+Once finished, he flew back to a nearby cloud sentry. Eight furies were there. Thankfully, none of them were crimson.
+
+“Another bust?” The cloud leader asked.
+
+That was one thing Dallion admired about fury mercenaries, they always spoke their mind.
+
+“Yep.” Dallion sat down on one of the sea iron seats, prepared for people like him. Technically, mages had spells that could allow them to interact with cloud matter, but that was still slightly beyond Dallion’s capabilities. “He left us a souvenir.”
+
+“Nice guy. Guess he wasn’t archmage for nothing.”
+
+“You can say that again.”
+
+“How many foils does that make this month?”
+
+“Just him, or in general?” Dallion joined in the sarcasm party.
+
+“In general.”
+
+“Seven.”
+
+A few of the furies whistled. The rest just laughed.
+
+“Seven,” the fury repeated. “Must have been a slow month. Usually, you’re in the double digits.”
+
+“What can I say? I’ve been practicing.”
+
+The banter continued throughout the day as the cloud sped up on its way to the Academy. After the recent restructuring, the battle mage headquarters had been erected there, holding a force of five hundred and eleven people. The number sounded impressive, but out of them, only a few dozen were adequate in combat. Everyone else, even the capable ones, was in training. Many felt ready they could take on more responsibility, though they hadn’t experienced real combat. As Dallion had said many times, casting spells at a defenseless enemy from a distance didn’t constitute combat. In a way, it felt like a repeat of the time he was training to become an apprentice hunter, only now the roles were reversed.
+
+I think you had it easy back then, Eury, Dallion thought. There was just one of me.
+
+“Battle apprentice!” someone shouted the moment Dallion set foot on the ground. Internally, he felt like facepalming. However, appearances had to be kept. As far as everyone was concerned, he was the battle apprentice—the one with the most combat experience after the actual battle mages, and a member of the Shimmering Circle.
+
+Dallion waited patiently as mages rushed into something they considered a military formation. It was more than clear that mages and military didn’t mix. No wonder the former battle mages were a group of solo elites. Egos tended to clash too much in small spaces.
+
+Emotions of anger, envy, and spite emanated from everywhere. All the mages wanted to present themselves as “first among equals.” Sadly, no one was particularly fond of the “equal” part.
+
+“Doing well, I see,” Dallion said, struggling to keep a straight face. “Is battle mage Katka here?”
+
+“Yes, battle apprentice!” half a dozen mages shouted simultaneously.
+
+Quickly, Daillion raised his hand. He really didn’t want to go through all this. Most of the mages were competent on missions—thanks to his leadership skills—but painfully chaotic when left to their own devices.
+
+“I’ll go see her. Keep on doing what you’re doing.”
+
+You need to be a bit stricter with them, the armadil shield guardian said from Dallion’s realm. Each of them thinks of you as a buddy they want to impress.
+
+“Tell me about it,” Dallion whispered. It was worse than running a guild of newbies in an MMO. Thankfully, his image provided him with a few perks, including not being bothered when he appeared annoyed or busy.
+
+Rushing into the building, Dallion followed the staircases to the top floor, where Katka’s “office” was located. Officially, she was supposed to spend most of her time there, but being one to get easily annoyed with crowds, she preferred to stay at the circle’s building cluster instead.
+
+The door opened before Dallion got a chance to knock on it. Normally, it was Katka who did that by casting a spell from the other side of the room. This time, a crimson fury stood there, standing there with an unnerving smile.
+
+“Back so fast?” Katka asked from her usual spot on the couch across the room. “The old man tricked you again, eh?”
+
+“Looks like.” Dallion stepped in. An air current closed the door behind him.
+
+“Oh, don’t worry. You can talk in front of the lieutenant. He’s just here to share a few details from the western front.
+
+“Such as?” Dallion asked. “I heard we’ve been losing a lot of clouds there.”
+
+“Some setbacks are inevitable,” the fury said. “Very much like your attempt to capture archmage… Adzorg, was it?”
+
+You know his name perfectly, Dallion thought.
+
+“His echo was my mentor for millennia.” Dallion made his way towards Katka. He didn’t sit on the couch, of course; he wouldn’t even if he were invited to. “He’s bound to have more tricks than me. We’ll still get him. It’s a matter of time.” Besides, I know what he’s really after.
+
+“As is complete victory.” The fury nodded.
+
+Dallion couldn’t tell whether the lieutenant was mocking him, or really believed the official propaganda. The nobles seemed to and, so far, they were proven right.
+
+“One small clarification. I’m not here to talk about troop actions. I just thought you’d like to know that one of our patrols spotted a vortex glimmer as they were patrolling an unclaimed area.”
+
+Both Dallion and Katka reacted. The woman even sat up from her couch upon hearing the news. Vortex glimmers were sort of premonitions associated with the appearance of a high-level vortex. When it came to time and magic, it could be said that they didn’t always go hand in hand. From a scholarly point of view, glimmers were the effects of a vortex appearing before it had actually done so. A lot of unknowns remained, but it was confirmed that only high-level manifestations had them, and also the greater the level, the greater the time between the glimmer and the permanent entry in the world.
+
+“What level?” Katka asked.
+
+“It was difficult to say, but at the very least, a seven.” The fury smiled.
+
+A seven, Dallion thought. That would be enough to boost his level to twenty-eight, if not more. With the war, magic had become an invaluable commodity. And while the Academy had low-level magic in abundance, any vortex that could boost one’s magic level was a rarity sought by all. At present, Dallion had only managed to find a three-level vortex thanks to his aetherizer.
+
+“I’ve already informed the emperor, but I thought the battle mages should know as well.” It was more than clear that the lieutenant wanted something in return. Even in times of war, favors and politics took central stage.
+
+“You’ll have the battle mages’ vast gratitude,” Katka said.
+
+“Of course. I’ll gladly share its location.”

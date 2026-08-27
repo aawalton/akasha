@@ -1,0 +1,229 @@
+---
+id: 2ab4a6e6-197f-57b1-8b50-894426ec0967
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17 — The Best Laid Plans"
+slug: 0017-chapter-17-the-best-laid-plans
+partOf: just-add-mana
+position: 17
+ownLength: 3297
+unit: words
+ownProgress: 3297
+publishedAt: 2025-08-05
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2494014/chapter-17-the-best-laid-plans"
+royalRoadId: "2494014"
+markedReadAt: "2026-06-29T18:48:06.267Z"
+---
+
+Cale Cadwell Cobbs had been looking forward to a relatively normal first week of magical education.
+
+Of course, his idea of normal tended to be a little skewed. Before the whole thing with the bloodrot, everything he'd seen so far in the academy was well within his range of normal. In fact, he had room for about another five degrees of absurdity before he began to enter "things are a little weird, maybe" territory.
+
+Bloodrot changed things, albeit not as much as it might have if it had happened right after the Planar Collapse.
+
+Cale couldn't remember much about that time, but he remembered being angry. He remembered a fury that burned through his core, igniting his magic so that no matter what he tried to do with his power, he caused pure and utter destruction. He remembered the lives he'd spent isolated and alone until a certain friend had come to find him and pull him out of his misery.
+
+That anger was still there, but it was... under control, for the most part. He wasn't, for instance, particularly tempted to go off and rain destruction on the Red Hunters and the Kingdom of Orstrahl, and there was a time where he would have been.
+
+Now he knew his limits. There were many things that Cale wasn't suited for, and one of them was combat against a heavily armed and trained military force. Without any real teleporting spells, it was too easy for them to outmaneuver him. It didn't matter if he couldn't be taken down if he could simply be avoided.
+
+And there was only one of him, in the end. He'd learned that lesson the hard way far too many times.
+
+"You look like you're thinking about a lot," Syphus commented, rolling alongside him. "In fact, I'd almost call it brooding. Didn't take you for a brooder."
+
+"Know a lot about brooding, do you?" Cale asked dryly.
+
+"I spent my formative years around a man who couldn't stop brooding. What do you think?" Syphus somehow managed to give him the impression it was rolling its eye. "Speaking of which, how long have you known?"
+
+"Your name is literally Syphus."
+
+"You'd be surprised how many people don't make that connection." Syphus's eye twisted up in something like a smirk. "Named mythologies aren't that common, you know."
+
+Cale laughed. "They're more common than you'd think," he said. He was pretty sure he knew what the golem was trying to do, but to its credit, it was working. He glanced up at it contemplatively. "So... are you the boulder? Because I feel like I should ask for an autograph."
+
+Syphus snorted. "Don't start."
+
+"I'm just saying." Cale grinned. "How many people get to meet a figure of legend?"
+
+"I'm not even a figure in the legend," Syphus pointed out, but it couldn't quite keep the amusement out of its voice.
+
+"Semantics." Cale dismissed that argument with a wave of a hand, then narrowed his eyes and studied the golem more closely. "Clever workaround, though. I think? I'm not actually sure what the rules are."
+
+"I'd rather not discuss it, if you don't mind." Syphus's scrying eye flickered briefly, and its expression changed into one of annoyance. "He gets clingy when you talk about him."
+
+"Can't say I wouldn't do the same if I were in his position." Cale chuckled, then sped up, adjusting the blood obsidian box beneath his arm. "But sure, I'll wait. I've got a dragon to interrogate."
+
+Akkau had expected things to escalate when bringing Cale into his academy. He hadn't expected things to escalate quite this quickly, nor in this spectacular a fashion.
+
+He couldn't blame Cale for it entirely, of course. The Thread of Fate didn't magically cause disaster, no matter what some superstitions claimed—the Thread didn't simply fabricate these circumstances out of nothing. No, far more accurate to say that it nudged probability so that its holder and anyone touched by it was more likely to become involved in any sequence of events that transcended median probability.
+
+Which meant that these three had been involved with the Red Hunters long before Cale had ever come into the picture.
+
+"What were you thinking?!" Akkau snapped. The words came out harsher than he intended—he saw the way his students flinched away from him, and a part of him recoiled at the sight. The rest of him was too angry to stop. "You endangered your classmates. You know what will happen if any of the Astrals show anything less than perfection in front of the Red Hunters."
+
+"We... we had to," Aila, the partial cat shifter, spoke. Her eyes were red. Sometime during the trip from the cafeteria to his office, she'd begun to cry, and that was the start of the waterworks for all three of them. Akkau let out an aggravated sigh as she began to explain, and cast a quick [Silence] on all three of them.
+
+"Do not speak," he said. "You three have been communicating with the Red Hunters via emblems, yes? Give them to me."
+
+Aila shot him a confused look, opened her mouth, and then looked panicked when nothing happened. She took a moment to force herself to calm down, then reached for her pockets, only to find nothing there.
+
+"Not you," Akkau said, rolling his eyes slightly. "Izzik of the Golden Sands. Geraal Strongthorn. You each have an emblem in your possession. Hand them over."
+
+Looking ashamed, Izzik reached into his pocket to hand over his emblem. Geraal did the same, though he seemed far more reticent about it.
+
+"Were you threatened with these?" Akkau said, inspecting them. He glanced up. "Do not try to respond verbally. Nod yes or no."
+
+Aila and Izzik both nodded, trembling. Geraal frowned slightly, then shook his head slowly.
+
+Now that was interesting. What did that mean? Akkau hadn't had the opportunity to test the emblems himself, but he could tell at a glance that both of the ones he held were similarly trapped to the one Cale had shown him; their linked spells would go off as soon as their holders spoke certain key phrases to anyone that didn't also hold an emblem. If Geraal hadn't been told about it, then he either hadn't needed additional convincing, or it had been some kind of test for him.
+
+Neither option was encouraging. Akkau examined the students critically, tapping his claws on the table, then sighed.
+
+"We will wait," he declared, turning his back on them. "My apprentice will be here shortly, and we will have our discussion then."
+
+"How much did you know about all this?" Cale asked the question as soon as he stepped into Akkau's office. The dragon glanced up at him, but didn't seem particularly surprised; instead, he brought a tired claw up to rub the bridge of his snout.
+
+"Less than I would have liked," he answered with a heavy sigh. "I knew that there were students involved with the Red Hunters; I did not know whom, nor how severe the situation was."
+
+Cale frowned. "So you didn't know about the bloodrot?"
+
+Akkau stared at him for a long moment. Then Cale felt the abrupt release of a spell, and the wood beneath Akkau's claws splintered with a loud crack, making the three other students jump and stare at the headmaster nervously.
+
+"Bloodrot?" he thundered, turning to the three students; they stepped back, eyes wide with fear. "You were threatened with bloodrot and did not think to report it to your professors? To anyone you trusted? Are you all fools?!"
+
+Cale thought he'd seen the dragon angry before. Clearly, he'd been wrong. This was Akkau when he was angry—fearsome, drawn to his full height, and his magic crackling around him. There was something about that magic that felt a little strange, though... Cale frowned slightly and tried to filter it through his senses.
+
+"Well? Answer me!" Akkau roared. The three students gestured frantically at themselves, but said nothing.
+
+Syphus chose this moment to speak. "Sir," it said evenly. "I believe there is a silencing spell on them."
+
+Akkau blinked a few times, then visibly forced himself to calm. He took several deep breaths, then sighed, his anger draining out of him. "So there is," he said. "Perhaps it is best you did not answer that question, then, given we have yet to undo these enchantments. Cale, did you bring the third one?"
+
+Cale held it up, wondering briefly why the catgirl looked outraged. "I have an idea for these, actually."
+
+"Is that so?" Akkau raised a ridged brow. "Speak."
+
+Cale stepped forward and placed the blood obsidian box on Akkau's desk, then opened it. The voidcyte swirled within, evidently more than happy to mind its own business now that it was in the possession of its so-called "star"—it perked up as soon as it realized Cale was looking at it, however.
+
+"Our star!" it said. "Have you come to feed us?"
+
+"In a manner of speaking," Cale said. He held up the emblem he'd stolen from the catgirl. "Do you think you can eat this spell and tell us what you learn from it?"
+
+The voidcyte stared at the emblem for a moment. "We think we can," it said, although it sounded a little more uncertain than Cale would have expected. "It will make our star happy?"
+
+"Very."
+
+"Then we will try," it declared. "Give us the folded heart!"
+
+Folded heart? That was an unusual choice of words for an artifact. Cale's brows furrowed as he examined the emblem one more time before glancing at Syphus. "Was there anything strange about the magic on this thing?"
+
+"Not that I noticed," Syphus said. Then it hesitated. "The means by which it maintains its link to its wielder is soul magic. Is that relevant?"
+
+"It shouldn't be," Cale said with a frown. He'd spent a lot of time in his previous world, and it was rare to see a voidcyte hesitate to eat anything magical, let alone call it a folded heart. Granted, he hadn't spent much time talking to them. "...Alright, Cyte. Eat it slowly."
+
+"Cyte?" The mass of shadow within the box swirled about in wonder. "Has our star named us?"
+
+"Don't let it get to your head," Cale said dryly.
+
+"Oh, joyous day!" the voidcyte said, completely ignoring him. Cale sighed. He could practically feel Syphus's amusement as it stared at him. Akkau was mostly just confused, although he seemed to have some idea of what had happened during Professor Graystalk's class, and the other three students...
+
+Well, they seemed distressed. A little terrified of the swirling, speaking mass of shadow in the blood obsidian box, maybe. It was a fair reaction, really.
+
+"Voidcytes have the ability to extract memories from mana," Cale explained briefly, mostly for Akkau and Syphus's benefit. "I'm assuming it's how this one followed me here. I'm hoping it'll be able to find out more about the emblem, but eat it slowly, Cyte. I don't want any nasty surprises."
+
+As much this felt like an opportunity to test out [Identify Artifact], trapped relics like the emblems would almost certainly trigger if subjected to any kind of identification spell, and Syphus's analysis had agreed when he asked. A voidcyte, on the other hand, consumed magic utterly. Not only did it cause complete spell failure in whatever spell it tried to eat, any mana it ate was permanently removed from the mana cycle.
+
+Normally, that made them pests, but it did also make them particularly useful when it came to disarming traps. It was too bad they couldn't do the same for curse magic—that was one of the few types of magic that seemed to give them indigestion, to say nothing of the damage it would do to a mage's core while trying to consume the curse.
+
+Cale paused.
+
+Did that mean the emblem was somehow related to curse magic? Curse magic was notoriously subtle; it could evade most basic magical senses and observational spells. Syphus's scrying eye should have been able to spot a curse, but no matter how powerful it was, it wasn't perfect.
+
+Plus, the few times he had seen a voidcyte hesitate, it was almost always because of curse-based magic in some way.
+
+"Cale," Akkau said. "Are you certain this is safe?"
+
+Cale considered the question, then lifted a hand and wiggled it. "Eh. It's not going to trigger the bloodrot, if that's what you're worried about. The only way in which it could be unsafe is if the voidcyte gets indigestion, and you need to feed them a lot more before—"
+
+There was a knock on the office door. Cale paused mid-sentence to stare at it, then look back at the voidcyte, which was still chewing at the emblem with a look of concentration furrowed onto its tiny face. (Cale actually wasn't sure if voidcytes had faces, but the little starry spots around where it was chewing did look like eyes.)
+
+"Were we waiting for anyone?" he asked.
+
+"Headmaster Akkau?" Damien called out through the door. His voice was so soft Cale almost couldn't hear him. "We need to report something."
+
+"You're way too quiet," Flia complained, her voice much louder and more assertive. Unfortunately, she followed this up by simply kicking the door open. "Headmaster! We—"
+
+She froze.
+
+Akkau stared at her, looking mildly annoyed. The catgirl, lizardfolk, and elf all looked increasingly like they wanted to be literally anywhere else. Syphus was ignoring the door; it seemed far more interested in what the voidcyte was doing.
+
+Cale, on the other hand, was delighted. "Hey guys!" he said happily. "Glad you could join us for this. I should have come to get you, now that I think about it. Did you know Professor Graystalk is actually a pretty nice guy?"
+
+Flia stared at him for a long moment, then turned around and began to march right back out of the room, only for Leo to grab her by the shoulders and haul her back in.
+
+"This was your idea," Leo said. "We can't just leave now. Besides, I want to talk to Akkau about what Imrys did."
+
+"They're clearly in the middle of something," Flia said. Her gaze drifted to the voidcyte, and her eyes went wide. "What is that?"
+
+"Um..." Damien looked kind of lost.
+
+Cale was, fortunately, saved from having to answer any of those questions, because the voidcyte chose that moment to start vomiting.
+
+"That... would be the indigestion," Cale said, briefly puzzled. That shouldn't have been possible, unless...
+
+He performed a quick mental calculation, then sighed. "So hey. Remember what I told you guys?"
+
+"About what?" Flia asked, staring at him blankly.
+
+"You know! The thing all mages need to know how to do." Cale slowly began to grin. Damien was the first to catch on; he looked startled, then alarmed.
+
+"What are you—" she started, but Damien grabbed her by the arm.
+
+"Run!" he hissed.
+
+"Exactly!" Cale beamed. "That applies to all of us, by the way. Even you, Headmaster. You'll know when, but the moment you see it... run."
+
+And right as he spoke those words, the voidcyte oozed out of the box, as if drunk—
+
+—and exploded.
+
+Sneaks-In-Darkness had been honored and flattered beyond belief when she had first been chosen to join the ranks of the Red Hunters.
+
+It was only as a scout, yes, but scouts were important. Scouts were the first line of defense against the threat of the wild, the call of the swamp. Besides, she could always move up the ranks after—Commander Isyanek had promised. All she had to do was complete this one assignment and make sure those three initiates helped infect the academy's so-called Astral students with the shimmerdust.
+
+If they failed or backed out, she was to kill the initiates and do it herself, then reacquire the emblems before the academy could figure out what it was and the role of the Red Hunters in all this. She'd been so excited, too! To see the shimmerdust poison spread, of course, not to kill the initiates. She would never want to do something so vulgar. It just had to be done.
+
+Except first there had been the fire. There was so much fire. She'd had to stay out at the edges of the cafeteria—for some reason the stupid fire wards hadn't included her, so they scorched her whenever she got too close.
+
+Then there had been that—that human. He'd introduced himself as... Cale? What a ridiculous name. Wasn't that a type of weed or something? Only his barriers had been impenetrable, even to her best [Dark Bypass]. She should have been able to discreetly kill whoever she wanted and steal whatever she wanted out of his barriers, but instead, her spells did nothing. He didn't even seem to notice her! Which was both insulting and admittedly probably the one blessing in all this; at least her obfuscation charms were still working. They were enhanced by the Grand Mage himself, so they better be.
+
+Problem was, Headmaster Akkau had been the one to carry off the three initiates after that, and Sneaks-In-Darkness knew better than to tangle with a dragon. She stayed behind instead, trying to peer at what Cale was talking about. The way he acted, he had to know something.
+
+Except the moment that odd-looking golem had shown up, her scrying spell had vanished. It vanished again every time she tried to recast it, too, and she couldn't waste her mana with repeated recasts.
+
+Sneaks-In-Darkness gritted her teeth.
+
+Fine. She could wait. She could simply hide herself just outside Akkau's office and wait until they were finished. It was...
+
+It wasn't fine. It was still a partial failure, and she would hear words from the Commander later. But it would be worse if she couldn't complete her job, so she forced herself to wait for the right moment. When Cale finally showed up, she thought her moment was almost there; all she had to do was wait until he was done. Until the Headmaster left those three alone.
+
+Then Cale described what something called a voidcyte was going to do, and her anxiety spiked. What did he mean, it was going to extract memories from mana? She needed to stop this! She needed to find a way through his barriers or something! She was so distracted by her fear of what might happen that she didn't even notice the three new students making their way in.
+
+Instead, she latched on to a thought.
+
+The voidcyte was unshielded, wasn't it? She could attack that! End it before it could extract anything of use for these wild mages.
+
+She targeted it with a [Shadowslice]. That would do it. The spell was another one that was enhanced by the Grand Mage himself, and nothing short of a living myth could repel it...
+
+...Except instead of dying, the voidcyte started vomiting. Sneaks-In-Darkness had no idea what happened, but the human sounded strangely worried about something. He was giving the others some kind of warning? Was it about her? She crept to the doorway, trying to sneak a peek.
+
+Just in time to be hit in the face with the voidcyte explosion.
+
+When Sneaks-In-Darkness opened her eyes again, she found herself in an endless stone hallway.
+
+"What in the eight infernal realms...?" she muttered. Her voice echoed strangely, and her obfuscation charms didn't seem to be working anymore. The stone was real, as far as she could tell. Where was she? What was this?
+
+It didn't matter, she told herself. All that mattered was her mission.
+
+She needed to find those initiates and those emblems, and they were here. Whatever happened, the Headmaster was almost certainly separated from them.
+
+And that meant this was her chance to strike.

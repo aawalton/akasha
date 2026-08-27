@@ -1,0 +1,83 @@
+---
+id: 71add01d-f3c2-5d17-b8b2-1072cd323d77
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62: Cliffhanger"
+slug: 0101-chapter-62-cliffhanger
+partOf: labyrinth-of-the-mad-god
+position: 101
+ownLength: 1668
+unit: words
+publishedAt: 2024-12-09
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1948298/chapter-62-cliffhanger"
+royalRoadId: "1948298"
+---
+
+Although Nick only had a fraction of a second to process this novel experience, he knew that his life was in danger. He reacted on instinct, understanding on a base, cellular level that he was under attack. If he had taken the time to process what was happening, the blast would have splattered his brains across the plateau, but he didn’t let the moment go to waste.
+
+Lacking time to leap out of the way, he sent his intentions into his buckler. The vambrace snapped into its shield configuration faster than the blink of an eye. He had just enough time to raise the shield and shift the angle of his body before the air-bullet hit him, shrieking as it streaked for his position at a lethal velocity.
+
+Even still, the impact nearly dislocated his shoulder. It took every point of toughness he had to keep his tissue intact. But his bones and tendons held together, if barely, when the spell hit his shield. It deflected the magical projectile enough that it went roaring past his shoulder instead of boring a hole through his head.
+
+Nick was still alive. He was shaken and bruised but not severely injured. This, however, was the extent of the good news.
+
+The bad news was that the force of the collision sent him staggering back toward the precipice. The much worse news was that he stepped on two more of the trap-stones while fighting to regain his footing before he was thrown over the edge.
+
+He felt the air pressure drop again as the spells contained in the pebbles finished forming. He knew in that moment, that his life was on the line. In less than a second, Nick was going to have to contend with not one, but two of the lethal manifestations. And he’d run out of room to dodge.
+
+Sometimes, in the instant before someone is about to die, time comes to a standstill. It’s a phenomenon that doesn’t happen often, and it never endures for long. In Nick’s case, the frozen moment lasted for fifteen subjective seconds, giving him one last chance to figure out what to do.
+
+His mind whirled and churned, seeking out any means that would let him duck beneath the reaper’s scythe before it claimed his head. He shut out his fear and his adrenaline, anything that could distract him. He distilled his focus down to a single point, the faint sensation of motion in the air in front of him.
+
+Every scrap of his attention was riveted on that vague sense of energy, like a ripple in the fabric of reality itself. They’re spells, made from something other than pure or force mana. With that realization, the image crystallized. Nick could see a pair of glowing grey orbs overlaid across his vision like an AR display.
+
+He drew upon every scrap of his concentration, every fiber of his being, trying to process what he was perceiving before it was too late. To make meaning from the representation he’d crafted from raw sensation. To go beyond their presence and achieve a deeper level of understanding.
+
+At first, the depiction resisted his efforts. But then, for just a moment, the vision snapped into focus, and Nick could see the exact trajectory that the spells would follow. One of the air-bullets would come straight at his nose, and the other would hit him square in the navel.
+
+The frozen moment wavered, on the verge of collapse. Before that happened, he expanded the scope of this peculiar perception. He took in faint vibrations from all around him, which resolved themselves into hundreds of tiny points the same color as the spells forming beside him.
+
+More traps. They’re everywhere. I’m surrounded. Even if I manage to dodge the next two, I’ll keep setting off more. In that instant, he knew what he had to do.
+
+As time resumed its full course, Nick activated force acceleration and leapt back toward the ledge, the only direction where he hadn’t felt any magical resonance. He bent back, sprang off his hands, and then twisted in midair, just as the magic bullets caught up to him.
+
+One orb went screaming past his ear, biting a piece off the tip as the other clipped the steel toe of his boot. The metal plate saved Nick’s bones from being pulverized, but the impact altered the trajectory of his flight. The added force transformed the most badass move of his life into a cartwheeling spin, out and over the side of the cliff.
+
+Thanks to his training, he’d turned off his ability the moment that he sprang. But it was already too late.
+
+The ground and sky whirled across his vision like laundry in a dryer. For a brief, heart-rendingly horrific moment, he was in freefall, descending toward the world of giants below.
+
+Nick was certain that he was a dead man, but that was no reason to give up until the end. That was when he saw a long yellow root protruding from the cliffside. It was close enough that he might be able to reach out and grab it before his momentum carried him past.
+
+With the fierce concentration that comes when you know that a single mistake will be the end of you, he activated force acceleration and arctic clarity for a fraction of an instant; just long enough for his hands to reach out and wrap tight around the root.
+
+He braced himself and prayed as the shock rippled through his shoulders and the plant in his hands. Heart racing like a wild stallion, he was terrified that the fibers would snap, sealing his fate. However, the root proved to be remarkably elastic. It stretched and drew thin beneath the weight of his body… and then held firm.
+
+Not letting himself think about the dire magnitude of his situation, about anything other than the precise way that he needed to move his body, Nick twisted around until his belly was touching solid rock instead of open air. Scraping the stone with his toes, he found a pair of footholds and pushed, taking some pressure off the plant.
+
+Not panicking or wasting a heartbeat, he scanned the sheer face of the plateau, looking for a better handhold before the root gave way, ignoring the feeling of fibers separating beneath his fingertips. Just before the plant snapped like a rubber band, Nick spotted a series of protrusions.
+
+He reached out with both hands at once, shutting out the adrenaline pouring into his veins as his fingers wrapped around a pair of jutting knobs.
+
+Nick wasn’t much of a mountain climber, but the rock was porous and easy to scale, thanks to his upgraded attributes. Although he was terrified and aching from the impact of the spells that had precipitated his predicament, he was able to chart a course and climb. Fortunately, he had only fallen about ten feet before halting his descent with a literal cliffhanger.
+
+Fifteen nervous minutes later, he pulled himself back onto the surface of the highlands. He lay there panting, until his eyes processed what was in front of him, and he remembered what he had seen just before leaping away.
+
+Nick’s jaw dropped in horror. There were thousands of pebbles lying all around him, the same color as the rocky ground and so small that they were hard to spot. Many were embedded within the porous surface, making them effectively invisible. Whatever had let him sense the magic within the stones had long since faded away. He couldn’t tell which were the vehicles for lethal traps, and which were simply stones.
+
+In short, he was stranded on the perimeter of the plateau. Trapped by deadly magic upon what was effectively the edge of the world. Instead of freaking out, although the temptation was there, Nick raised his voice and said,” I know you’re out there. Would you mind lending me a hand if you’re done watching the show?”
+
+To his surprise, after a long, tense moment, someone answered his request.
+
+“Alright. I suppose that I’ve seen enough to form a preliminary evaluation. I’ll admit that I’m impressed. While your ability to sense mana is simply atrocious, your instincts are remarkably sharp. I’ve never met someone your level who was able to sense my presence when I was concealing it. Let’s get you out of this mess.”
+
+To be clear, Nick had not, in fact, been able to sense anyone watching him. His call for help had been twenty-five percent educated guess and seventy-five percent desperate hope.
+
+After all, this was supposed to be a reward. A valuable training opportunity provided by the System and not another ordeal. It didn’t make sense for him to be plonked down in the middle of nowhere… again. Thus, he’d been hoping that he had already been teleported within sight of his trainer. That they had deliberately masked their presence while watching to see what Nick would do.
+
+He followed the sound of the voice, to where a rocky red knob was protruding from the surface of the highlands, like a boulder that was attached at the bottom. From behind the stone stepped a woman, who had clearly not been born on Earth.
+
+She was barely three feet tall and was dressed in what looked like a crimson kimono, although Nick had no idea what color the fabric would be under the light of a yellow sun. But none of that was what cemented his certainty that he was talking to a bona fide alien from another world.
+
+The real giveaway was the scales. Instead of hair, running along the woman’s face and arms were delicate copper scales the size of his thumbnail, forming a complex, spiraling pattern. Sunlight danced across their surface, shifting into dazzling configurations every time that the woman moved.
+
+The overall effect was mesmerizingly beautiful. Nick would have stared long and hard if he wasn’t coming down from another near-death experience. That, and he didn’t want to be rude.

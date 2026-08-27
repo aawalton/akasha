@@ -1,0 +1,225 @@
+---
+id: 588adb6b-a784-5085-b73f-a6c587df2a84
+page-type-slug: story-chapter-royal-road
+title: "75 — Book 2, Chapter 23 — Eye of the Storm, Pt 3"
+slug: 0075-75-book-2-chapter-23-eye-of-the-storm-pt-3
+partOf: just-add-mana
+position: 75
+ownLength: 3739
+unit: words
+ownProgress: 3739
+publishedAt: 2025-12-18
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2858900/75-book-2-chapter-23-eye-of-the-storm-pt-3"
+royalRoadId: "2858900"
+markedReadAt: "2026-06-29T18:50:12.657Z"
+---
+
+There was a bit of a downside to this method of transportation, and that downside was the fact that it was pretty much impossible to miss the giant sandstorm and castle soaring through the air. Nothing about this would be stealthy. The upside was that there was so much magic imbued into it that almost nothing could scry in, and even if someone managed it, Syphus's presence would automatically subsume that spell. So they did have some privacy with which to talk.
+
+Not that they were doing anything that really required that much privacy, but Cale thought it was nice to have that peace of mind. That was the thing with scrying spells. It was hard to rely on actually having privacy within the Great Realms.
+
+They were well on their way to the Golden Sands by this point. [Fortress of the Gilded Storm] was exactly as powerful as it claimed to be and kept them steady even as it accelerated, which was great. With how ridiculously quickly it ended up moving, they would have all been slammed into one of the walls if it hadn't.
+
+Cale was impressed by the sheer versatility of the spell. He did wonder how the lizardfolk of the Golden Sands had ever been able to cast it, considering the sheer cost, but at least part of the cost was likely the Gift modifying it to accommodate his reserves. Their version of the spell would likely cost less, though he suspected it would still have to be a ritually cast spell.
+
+It wasn't important for the moment, though. Cale prompted Kazza to explain exactly what it was about the Golden Sands that made it so dangerous instead, and the lizardfolk reluctantly sat himself down in one of the chairs and began to explain.
+
+"The Aspect Cascade has made things worse," the lizardfolk said. "But even before its appearance, we were struggling to survive. What little prey remains within our sands has begun to grow exceedingly dangerous to hunt, and it is forbidden for us to hunt outside our borders. We have begun to negotiate with our neighboring clans, but it is a difficult process."
+
+"Dangerous to hunt?" Cale asked, frowning. Kazza looked briefly irritated, then appeared to remember that Cale was new to the realm and what he'd promised to do, and looked immediately guilty.
+
+"The Golden Sands tribe is naturally attuned to breath magic," Kazza explained. "The sands of our home have mana-scouring properties. It is able to be wielded both offensively and defensively, and so we keep a pouch of sand at our belts at all times. Our magic allows us to wield this sand against our foes and prey. A strong enough mage can use it to blast apart flesh and magic alike."
+
+He indicated the pouch at his waist, pulling the drawstring slightly to allow a trickle of that same golden sand to flow out. Kazza poured some of it onto his claws, then blew on it, and Cale watched as a sharp stream of sand embedded itself into the opposite wall.
+
+"I want one of those sand pouches," Syphus declared almost immediately. Kazza glanced toward it and blinked.
+
+"You are a strange creature," he said bluntly. "I suspect you would fascinate my elders. That is a matter for them. But if you are truly able to end the Aspect Cascade, I have little doubt they would answer any request you have."
+
+"Excellent," Syphus said, rubbing its hands together. Cale stared at it for a moment, then decided not to comment lest it decide to pour sand into his bed or something. Though now that he thought about it, he was sure the sand could be incorporated into the spell cannon Syphus was developing somehow...
+
+He shook his head and forced himself to focus. "I take it your methods don't work as well anymore?"
+
+"It does not," Kazza agreed, sighing. "The sand beasts have grown stronger, and their hide has grown tougher. Our basic spells can no longer pierce them, and while we have fashioned spears and arrows out of our sand, it remains prohibitively difficult to hunt even a single one. If it were merely their flesh, we could likely adapt, but their magic has grown far more dangerous as well. Even our greatest warriors now struggle against them.
+
+"We use the [Gilded Hurricane] to relocate ourselves away from the worst of them, but it cannot protect us completely. Ictharian sharks and pit webbers have become aware of its weaknesses and attack us even through the storm. We have lost friends and family to them, and I fear it will only get worse."
+
+Kazza glanced down, as if ashamed by this confession. His claws brushed reverently over the sand. "If only you could teach this spell to my people," he said. "This would be more than enough to keep them safe from the sharks and the webbers."
+
+"Can you?" Damien asked Cale curiously, and Cale blinked.
+
+"I have no idea," he said. "I've never tried to teach someone a spell using the Gift before. It might be possible? If we did something like what Akkau did with the navigational spell and make it a joint cast—"
+
+Cale cut himself off, startled and alarmed, as Kazza suddenly threw himself onto his knees in front of him.
+
+"Then teach us," he said. "I beg of y—"
+
+Cale didn't let him finish. He tackled him before he could say anything else, pinning him straight to the ground.
+
+"Absolutely not," he said, and then realizing what that sounded like, immediately backpedaled. "In the sense that I absolutely refuse to have you kneel to me. No kneeling! Do you know what happened the last time someone knelt to me? They started a cult. I'm not having that again. I will try to teach your people the spell, but if any of you kneel I swear I will find a way to light sand on fire and haunt you with it."
+
+Kazza stared up at him. "...your displeasure is noted," he said after a brief pause. "May I stand?"
+
+"Oh, right." Cale got up and pulled the lizardfolk back to his feet.
+
+"That was not a true threat," Kazza said dryly as he dusted himself off. "You cannot bring yourself to threaten someone even when truly displeased, can you?"
+
+"I threaten people all the time," Cale said indignantly. Then he thought about that sentence for a moment. "Okay, I know how that sounds, and I don't mean it like that."
+
+"Indeed," Kazza said, now stifling a laugh. "I only mean that I am surprised. It is rare for one of such great power to be so humble."
+
+"It's less that he's humble and more that he has no idea how to scale magic," Flia called out from the corner. That remark did make Kazza laugh, the lizardfolk seeming to relax for the first time in what must have been years.
+
+"Regardless, your candor is appreciated," he said, offering Cale a smile. "To think this spell was possible, after all... to think that it might be true... I do not understand why we did not find it ourselves, and I worry that it means that the Gift thinks us unworthy."
+
+"No, this is your spell," Cale said. "I have a few questions about that, actually. The Gift lists it as a forgotten spell created by your people, emerging from your relationship with what it calls 'the heart of a dead Monolith'. Do you know anything about that?"
+
+He knew the answer from the blank expression that Kazza gave him. "I do not," the lizardfolk said. "But I thank you for that knowledge. To think such magic once belonged to us, that it might belong to us again..."
+
+Cale blinked in horror as Kazza's eyes filled with tears, and he scrambled to comfort the suddenly emotionally unstable lizardfolk while Flia and Damien exchanged glances.
+
+"I cried today too," Damien said after a moment. "It's kinda nice to cry every once in a while. What do you think?"
+
+"This isn't how you start conversations, Damien," Flia said, deadpan. "And I'm made of water. I'm always crying."
+
+"That's not what I meant."
+
+"I know, but I'm not going to tell you about the last time I cried. You have to set the mood for it." Flia scoffed, though her tone was lighthearted. She glanced at Kazza and at Cale, who was gently patting the enormous lizardfolk's back. "...I hope he calms down before we get to the Golden Sands. I'm not sure what it is, but Cale seemed pretty angry about what he thinks is happening with the Aspect Cascade."
+
+Damien looked immediately worried. "Do you know what it is?"
+
+"He hasn't said." Flia sighed. "Pretty sure it's one of those things we're just going to have to be ready for."
+
+"I can hear you both, you know!" Cale said. "I'm fine. Everything's fine. We're going to end the Aspect Cascade and then we'll be done. Simple."
+
+"Well," Damien said. "Now I definitely don't think it's going to be simple."
+
+Flia snorted. "Tell me about it."
+
+The Golden Sands was beautiful, though Cale found himself in no mood to appreciate it. He reflected on it all the same, more out of habit than anything else: he had expected just another desert, with endless dunes of sand and perhaps some sparsely-growing cacti.
+
+Instead, it shone in the sunlight, gleaming like its namesake. The dunes overlapped with one another like the scales of a dragon and shifted with the wind, giving the faint impression of a living, breathing thing. It was almost as though the pulse of the realm itself was threaded through this desert. If he looked long enough, he could almost pretend that Vital was still alive.
+
+But Cale refused to do that to himself. Vital was long dead.
+
+It was a darker and more contemplative mood that settled across him as their fortress flew deeper into the Golden Sands. A little like how he'd felt when he first learned what the Aspect Cascade might be. He was calmer now than he was then, but it was a delicate sort of thing, more like a fuse that had been temporarily suppressed than a bomb that had been disarmed.
+
+Especially since he could feel it from here. The Aspect Cascade was still too far to be visible to the naked eye, but its magic shone so brightly that it burned against his mana sense. That alone all but confirmed the worst of his fears.
+
+He would know for certain once they were there, but the signs weren't encouraging.
+
+"Cale?" Flia asked, uncertain. "Are you okay?"
+
+Cale sighed. "No. But I'm going to have to be."
+
+He tried not to think too hard about what this desert might represent, and thankfully, he was quickly provided with a distraction.
+
+"Those are the ictharian sharks," Kazza said, pointing them out without prompting. Cale glanced down to see a trio of monsters swimming through the sand like it was water. He wasn't sure if sharks was the right term for them, considering they didn't look that much like a shark.
+
+Or, well, they did, but only if sharks had heads made entirely out of teeth.
+
+"And that one's a pit webber," Kazza said, nodding at a deep pit that was quickly forming near the sharks. As they watched, a net of sand launched out of the center of the pit and wrapped around a thrashing, struggling shark, dragging it in.
+
+"I see why you named them that way," Cale said after a moment, blinking.
+
+"And why we need the protection of this spell," Kazza said. "Those webs would not be able to penetrate these walls, and the sand you harness is strong enough to deflect them even if they could. I suspect..."
+
+He trailed off as something in the distance began to glow. Cale didn't even have the time to react before a powerful blast of light magic blazed into existence.
+
+Nor did he need to. It collapsed before it had breached the second layer of the sandstorm.
+
+Kazza stared in awe, his claws gripping the windowsill tight. "That was a prism crawler," he said tightly. "They store sunlight for as long as they remain within it, then unleash that stored light as a blast of magic. It is normally docile, but its beams can kill when it feels threatened; some of them have been storing their power for years. We have found no defense against it. But your storm... it blocked it like it was nothing."
+
+"Maybe that wasn't one of the ones that stored light for years," Cale suggested. Kazza just gave him an incredulous look.
+
+Right. That probably wasn't very convincing.
+
+They fell into silence again. Only a few minutes left, now.
+
+Cale's expression had darkened entirely by the time they were in range of the Aspect Cascade. Everything he felt indeed confirmed the worst of his fears, and he was holding himself together by the smallest of tethers. He couldn't let himself break here—he would be needed, and this was necessary—but his fists kept clenching, and his blood was roaring in his ears.
+
+He was angry. He couldn't help it.
+
+"Your clan isn't anywhere nearby, is it, Kazza?" he asked, calmer than he felt. Cale couldn't feel any other presences with his mana sense, but if he was doing this, he needed to be sure. Kazza glanced at him with a frown, then leaned out to blow a quick breath into the storm around them.
+
+"They are not," he confirmed after tilting his head for some invisible response. "They are far to the east, though they have seen your fortress. Many of them are asking about it. I ask that we visit them after."
+
+"That's fine, but tell them not to come close," Cale said distantly. He took a deep breath and strode out of the fortress, feeling the wind buffet against him. He was in range now, and all he needed to do was—
+
+"Cale?" Damien asked. "What are you doing?"
+
+"I'm doing what I have to do," Cale answered shortly.
+
+"Right, but... you haven't explained any of it," Damien said awkwardly. "You normally like explaining things. And we're your apprentices."
+
+Cale said nothing. Damien wasn't wrong, but he'd been hoping to at least avoid this until it was over. The dreadshade looked worried about him, though, and eventually Cale sighed and stepped back into the fortress, where he found everyone staring at him.
+
+Nevermind. They were all worried about him, apparently. Even Kazza, whose hope was mixed with concern for the anger that was clearly bubbling within him.
+
+Apparently, Cale needed to get better at hiding his emotions. He generally was, but when he was this volatile... well, he'd always preferred wearing his heart on his sleeve.
+
+"Creating a magical phenomenon like the Aspect Cascade isn't trivial," Cale said eventually, looking between his friends and allies. "It would be one thing if it lasted for a day or two, but you can't make it last perpetually like this. Not unless you do some very careful planning to make sure it happens."
+
+In all honesty, Cale thought he probably should have guessed at something like this when Izzik had first explained the phenomenon. At the time, he'd been distracted by the realization that his old friend was here. That he had finally, finally found Vital's resting place. His grave.
+
+A grave that was currently being desecrated by a horrific cruelty. Cale made himself take a deep breath and unclench his fists while the others all continued watching him with clear worry.
+
+"You're saying someone planned this?" Damien ventured eventually.
+
+"I'm saying they did worse," Cale said quietly. "The official explanation is that a wild mage misfired on a weather ward, correct?"
+
+"Yes," Kazza said. "The story has always struck me as strange, though many of our younger members believed it."
+
+"You have good instincts," Cale said. "It takes a lot of mana to alter the weather, and even more if you want to create a magical storm. Those are almost never self-sustaining; if you want to keep one going, you need a mana battery of some kind."
+
+"Some of our elders said the same," Kazza said. "It is why we searched so desperately within the flickerant nests. We thought perhaps the battery was hidden there. But we could never pierce deep enough, and they did not think it likely that the storm was fueled by multiple batteries."
+
+"Normally, that would be pretty unlikely," Cale agreed. "And you can't engineer the circumstances for a storm like this to be naturally fueled by the environment. Not usually, not easily, and certainly not without sacrifice."
+
+By the time he finished saying those words, a bitter edge had slipped into his tone, and the others noticed. Kazza narrowed his eyes. "You suggest not only that it was created intentionally, but that someone was sacrificed to do so?"
+
+"Think about what you felt within the storm," Cale said. "Pain, anger, fear, and a desperate need to be whole. Correct?"
+
+"Yes. I had assumed those were echoes. That the spell was attempting to complete itself, even now."
+
+"Close." Cale smiled humorlessly. "There's a type of sacrificial blood magic that can be used to force a self-perpetuating magic such as this. It's horrifically cruel to the point that I've seen even dark lords decry its use. But it does create an endless, self-perpetuating magical disaster, tuned to do exactly what you want."
+
+Cale began to pace, and the sandstorm around them grew as if in response to his agitation. "Imagine, if you will, your soul being torn apart. Scattered across the land, but forced to stay alive and conscious through an application of dark magic. You're in pain because of course you are—you can feel every broken piece of your core. What would you do, in this situation?"
+
+The others all stared at him, but they were beginning to see the picture now. Leo and Damien both looked horrified, while Flia's fists followed his own and clenched in anger. Kazza said nothing, but Cale could see his breathing quicken.
+
+"You'd try to put yourself together," Cale said. "You can't really think properly when you're a few scattered pieces of your own soul. You'd have maybe a few fragmented memories of the last few seconds of your life, and overwhelming, endless pain. The only thing you know is that the pain will stop if you put yourself together, so you try to pull all those pieces of yourself back, and while you do that, the mana from your disintegrating soul is leaking all over the place."
+
+"Creating the Aspect Cascade," Kazza muttered. His claws dug into the sand, and Cale only nodded.
+
+"The Aspect Cascade is a single, unfortunate soul, screaming for help in the only way it can," he said. "And that scream has settled into everything around it. The flickerants picked up most of it because they were intentionally positioned to, but in their own way, they're actually trying to help. They're hearing this mage screaming to be put together, and so they're trying to help put him together.
+
+"Thing is, you can't just shove pieces of a soul together and hope for the best. You need to be able to heal the cracks, and you need a body for that soul to reside in. Whoever this mage is, they know just enough to know how to do that—"
+
+"Which is why the storm was moving like that," Flia said in realization. "You said it looked like a summoning ritual mixed with life magic. The life magic is to heal the soul, and the summoning magic is so there's a body there to hold it. Or to summon the pieces of the old body and then heal it."
+
+"That's horrible," Damien said, looking sick.
+
+"It is," Cale said. "And it's not even the worst part, because you know what? That ritual would have worked. It's a very, very high tier magic, but if the flickerants collected enough mana, it would have put this mage back together, saved their life—or at least bring them together enough to die in peace—and the Aspect Cascade would end. But it hasn't succeeded, even after all this time. Any guesses why?"
+
+"Because the flickerant queens are a weapon," Kazza snarled. He was practically shaking with the tension that thrummed through his body, and he shot to his feet, unable to stay seated. "They are harvested, and the wards in their tunnels are to protect against others stealing their bombs before they are ready."
+
+"And by harvesting the queens, the ritual never has enough power to be completed," Cale finished. "Instead, it gathers just enough pieces and heals this mage just enough that their soul doesn't entirely disintegrate into essence, at which point the core would be useless. It is tuned to allow just enough leeway to keep the cycle going.
+
+"An endless disaster," Cale said, and this time he couldn't quite keep the building rage out of his voice. "Kept going by a needless atrocity, all to build a weapon designed to cause more pain and death and push others to the same extremes. I've seen this before. I've seen this too many times. This is the type of shit—"
+
+He cut himself off before his fury overwhelmed him, and his apprentices stared at him, worried. Even Kazza had forced himself to relax, his concern overriding his anger for the moment.
+
+This was the type of thing Cale had been unable to escape during the Planar Wars. Over and over again, mages would justify to themselves great horrors and greater atrocities, all for the sake of victory against their enemies.
+
+And each and every time, it fell to him to rectify it.
+
+"What are you going to do?" Flia asked quietly, studying him.
+
+Just like that, all the anger drained from Cale, and he felt very, very tired. He had hoped that era was over. How many more times would he have to do this?
+
+It changed nothing, he supposed. He stepped back outside and turned toward the Aspect Cascade, then drew his power to him.
+
+Most of the time, he enjoyed wielding his power. This was the one time he didn't. Gathered and shaped in the right way, he could build a weapon capable of erasing every last trace of a soul.
+
+"What I have to," he said finally.

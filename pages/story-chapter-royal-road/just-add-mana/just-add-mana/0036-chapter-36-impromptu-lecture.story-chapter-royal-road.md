@@ -1,0 +1,285 @@
+---
+id: 9b1c6428-80fb-5931-a62d-cb1b06827a8c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36 — Impromptu Lecture"
+slug: 0036-chapter-36-impromptu-lecture
+partOf: just-add-mana
+position: 36
+ownLength: 4992
+unit: words
+ownProgress: 4992
+publishedAt: 2025-09-18
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2610044/chapter-36-impromptu-lecture"
+royalRoadId: "2610044"
+markedReadAt: "2026-06-29T18:48:47.909Z"
+---
+
+It took Cale a few moments to remember where he was when he woke up. Part of it was the resonance vision, which... it was too early to think about that. The other part of him was expecting to see the same gloomy ruins he'd been sheltering in for nearly thirty years, so when he opened his eyes to gentle morning light filtering in through stained glass windows...
+
+Well, he came pretty close to reflexively blasting them.
+
+Mostly because he still hadn't gotten over his last encounter with glasslight motes. Nasty little creatures. They were oddly prevalent in his last realm, presumably brought through by some long-shattered dungeon. Beautiful if you knew what they were and how to avoid them, but also absolute pests.
+
+They were a counterpart to shadelings, in a way. They existed only in the scattered beams of light that were filtered through a pane of glass, and they danced in those beams like colorful fireflies. The moment anything entered that beam of light, though?
+
+Stripped down to the bones. The act often shattered the pane of glass that hosted them, too. Honestly, of the two, shadelings were probably the more merciful variant.
+
+Another knock came at the door, and Cale promptly remembered what had woken him up. He glanced at the other side of the room where Damien was still sleeping and quietly put up a barrier around him so he wouldn't be disturbed, then pulled open the door.
+
+Leo stood there awkwardly. "Good morning," he greeted, lifting a hand in a limp wave.
+
+Cale raised an eyebrow. "It's still pretty early," he noted, glancing back at the window and then stepping aside to let Leo in. "Couldn't sleep?"
+
+"Was it that obvious?" Leo bumped his horns against the doorframe and grumbled, ducking lower to get all the way in. "I slept, I just... couldn't fall asleep again once I woke up. Figured you were most likely to be awake."
+
+"And you didn't want Flia to try to drown you."
+
+"And that," Leo admitted sheepishly. "You made some pretty big promises yesterday. I guess I wanted to be sure if they were real."
+
+"They're real," Cale said. "But it all depends on when you're ready to head in there."
+
+He tilted his head toward the labyrinth door. It was still there at the back of the room, just as ominous as ever—more ominous, in fact, though Cale couldn't quite place what made him feel that way. He'd learned to trust his instincts over the centuries, though.
+
+Ominous was fine. Ominous usually meant there would be something interesting, albeit potentially difficult to deal with. It was when his instincts said something was dangerous that he really became wary.
+
+Leo glanced at the door and flinched slightly, then took a deep breath, as if to steady himself. "Can you tell me more about it?" he asked. "You said you were there, right? In Karmia, when all this... happened. You must have some idea what this labyrinth was made from."
+
+"I do," Cale said steadily. "You sure you want that story?"
+
+"Well, I'm less sure now that you asked me that." Leo made an exasperated sort of huff, and Cale snickered in response.
+
+"You do want to know more about Karmia, though," he prompted, his eyes gleaming.
+
+"I still can't believe you were there." It was almost funny how the minotaur tried to hide his immediate interest. "I mean, there's so much information we're still missing. Why was it called the Age of Distortion? I read some analytical papers on the Karmian artifacts we've discovered, but—"
+
+"Hold on," Cale said with a laugh. "I only just woke up, you know. Let me at least get through my morning routine."
+
+"Right," Leo said, embarrassed. He stepped back and took the farthest seat from the labyrinth door that he could.
+
+Cale couldn't blame him for that. He went about his business while Leo busied himself with one of the books he'd brought along with him—some sort of dissertation on living mythologies, it looked like. Specifically, a breakdown of the known Named, which Cale was pretty sure was the sort of book that would normally be found in the forbidden section of a magical library.
+
+The Named were not the sort of beings whose names could be casually invoked, after all. A few of them didn't care, but a book? That was basically begging them to intervene. But then Leo looked like he'd had this one for a while, so it was probably one of the favored copies.
+
+Cale wasn't too worried about it either way. If one of the Named came knocking, he'd just deal with it the same way he always did. He was curious about the book, though; he'd have to ask to borrow it at some point.
+
+"Cale?" Leo ventured after a moment. "What are you doing?"
+
+Cale blinked, startled. He'd almost forgotten that Leo was there, and he hesitated for a moment before he answered.
+
+"It's just... something I try to remember to do," he explained vaguely. He was standing by one of the windows and staring quietly out at Utelia's landscape, which he supposed might have looked rather odd. He gestured for Leo to join him, then tilted his head toward the rising sun. "I like to take a bit of time to appreciate the worlds I'm in. Especially if it's a place that's new to me."
+
+"Really?" Leo glanced out of the window, brows furrowed in confusion. "Is Utelia that interesting? I guess I wouldn't know, since I've lived here all my life, but you must've seen things that're... I don't know, cooler?"
+
+The minotaur winced almost as soon as the last word emerged from his mouth, but Cale only laughed.
+
+"You'd be surprised. Utelia's pretty special, I'd say," Cale said with a grin. "But yeah, this isn't the coolest landscape I've seen or anything. I've been to worlds covered in rivers of light, at least one realm made out of diamond, and I remember being summoned into the middle of some sort of apocalyptic holy storm one time."
+
+Leo stared at him blankly. Cale snickered.
+
+"I've seen a lot of things over the centuries," he said. "But what I've learned is that once you've lived long enough, it's easy for wonder to bleed out of every little thing. Easy to forget how much the mundane matters, even in something as simple as the sunrise, or the rustling of the leaves, or the first shoots of spring pushing through the dirt."
+
+He hummed in thought. "I've been to realms that have lost all those things," he said. "I've seen so many worlds fall to ruin, Leo. It's all too easy for those of us with power to forget how difficult it was for life to reach this stage to begin with. We think life can recover, that it can find a way, but sometimes..."
+
+Cale shrugged, falling silent, and Leo looked at him with the sort of slow-dawning understanding that felt a little too much like pity.
+
+"Oh," the minotaur said quietly. He hesitated, like he was looking for more to say, but before he could, Cale interrupted him with a change of subject.
+
+"Which is why I want to learn Standard Array spells!" Cale said brightly. "Trust me, when you live long enough, it's the little stuff that matters. You know what I'd give to throw a normal fireball? Or just change the color of an object? It'd be so convenient! Not to mention I'd love some kind of laundry spell—"
+
+A flash from the landscape distracted him, and Cale turned back to the window. His eyes went wide. "Whoa," he said, impressed. "Right, I forgot the other reasons. Sometimes, when you take the time to look, you see some really cool stuff."
+
+Leo blinked and leaned closer to see what Cale was staring at. His breath caught, and he stared out silently, fingers digging into the windowsill.
+
+Off in the distance, at the border between the Starfall Desert and the Petrified Sea, twin storms had begun to gather.
+
+On the left, glittering comets fell from clouds that resembled miniature nebulae, crashing into the jagged shapes of a dozen stone trees; where they exploded, magic coalesced, turning them abruptly into piles of shining, crystalline sand.
+
+On the right, thick clouds boiled, dense with some sort of stone-based mana. They acted almost like liquid, roiling into bubbles that popped and sent bright flashes of lightning down onto the ground. As soon as that lightning struck, it turned the sand around it to glass and froze in place, calcifying into a brand new stone tree.
+
+"It's like they're fighting for territory," Cale said, impressed.
+
+"I don't... I don't think I've seen both of those places storm at the same time," Leo said, a little in awe at the sight. "I guess you're right. That is pretty cool."
+
+"Isn't it?" Cale let himself be smug about it for a moment, then turned away from the window so he could lounge back in one of his chairs. "Let me know when you're ready," he said. "You said you wanted to know more about where the labyrinth came from?"
+
+"If I'm going to explore it, I should know," Leo agreed, though he sounded a little distracted and hadn't looked away from the storms. "It feels a little weird to my labyrinth senses. I might be able to figure out why if I know more about Karmia."
+
+"Either that, or you just want an excuse to learn more about Karmia before Imrys can," Cale said with a smirk, and by the way Leo's cheeks seemed to color at that, he wasn't entirely wrong. "It just so happens that I think this labyrinth was created through an infection of the Karmian Well, so you're going to learn how the whole Age of Distortion came about, too. Whenever you're ready, anyway."
+
+"Just a minute more," Leo said, still staring through the window. He was clearly torn, judging by the way he kept glancing guiltily at his notebook.
+
+"There's no rush," Cale said with a little grin. "Still a few hours before classes start, anyway. Honestly, I'm impressed we got so much time to sleep."
+
+Though Cale was pretty sure that the elixir the Headmaster had given him had something to do with that. Akkau knew he'd be taking it, after all, and he'd adjusted the class schedule for today... Maybe that was meant to make sure they could all get a little more sleep.
+
+Cale wasn't exactly sure how it happened, but he found himself standing in front of an impromptu class, with a whole gaggle of interested students staring at him and eating up every word. There were a few professors in the class, too. No one he'd already met, unfortunately—something he was sure Imrys would confront him over later—but professors, nonetheless.
+
+To think this had started because Damien had woken up and wanted to listen in. And then, once Cale restarted his explanation, Syphus had rolled up to their room and knocked on the door, along with Threek. And when he'd restarted his explanation for the second time, a new set of students had shown up, because one of Threek's clones had been in the library and started animatedly talking to other students about it...
+
+One thing led to another, and eventually they had to find an empty classroom just so Cale could talk about this.
+
+"Okay," Cale said. "No one else, okay? This place is full enough already and it is way too early in the morning for me to lecture you all about Karmia fifteen times."
+
+Everyone nodded and gave him eager, intense stares. Cale groaned. This was why he never officially took up a position as a professor. Hopefully he'd just have to do this the one time and that would be it.
+
+"Also, only Leo is allowed to ask questions," he added hastily, mostly because he could see that a few of the professors had brought entire lists of questions with them. Was this just because of his performance yesterday? Sheesh. "Anyway! If we want to talk about the Age of Distortion, we need to talk about the Karmian Well, and if we're going to talk about the Karmian Well, then we need to talk about Hugh, the King of Distortion.
+
+"Don't worry too much about the names. Hugh just loves drama. He's just like any other magical scholar, really—he spent most of his life researching dungeons and trying to revolutionize magic. The only real difference is that he actually did. He created a one-of-a-kind spell, a twelfth-tier conjuration-transmutation spellbridge."
+
+It was still one of his favorite memories, really. That spell had been beautiful. The tier didn't quite do it justice, but that was the nature of the tier-based system for categorizing spells. Some of the students and professors recognized this, too, because they were already muttering to themselves and scribbling notes with wide eyes.
+
+"For context, before Hugh, the highest tier conjuration-transmutation spellbridge I know of is eighth tier," Cale added, mostly to highlight the achievement for everyone that didn't get it. Once he was satisfied that everyone was appropriately impressed, he continued.
+
+"The spell essentially merged all the dungeons beneath Karmia into a bottomless hole right in the center of the kingdom. That one spell was what kickstarted the entire Age of Distortion," Cale said. This time, the reactions were much more appropriately impressed.
+
+"Why was it called the Karmian Well if it was just a pit?" Leo asked awkwardly. Cale grinned.
+
+"Excellent question!" he said. "It really was more of a giant pit. I even said it should be named the Karmian Pit, but it got voted down. Something about 'not inspiring much public faith' and 'makes our kingdom sound like some kind of dump' and 'Cale, stop trying to give things in our kingdom ominous names.'"
+
+The class fell silent at that, and Leo hesitated before he asked the obvious followup. "Were you trying to give things in the kingdom ominous names?"
+
+"I had a phase too," Cale said defensively. "It's not like I tried to call it the Pit of Despair. Anyway! To answer your question: the name does still work, because it does kind of work like a well. When Hugh created that spell, he created a new, unique type of dungeon—which is the sort of thing that would qualify a spell as twelfth-tier all on its own, normally—and more importantly, he also created an entirely new source of mana. Channelburn-free mana, in fact."
+
+There were wide-eyed murmurs at that, and Cale grinned with satisfaction. A new source of mana was nearly unheard of. Things like mana potions could restore a mage's mana, but not by that much, and not without incurring the buildup of toxicity that resulted in channelburn.
+
+The Karmian Well, on the other hand, had no such limitations.
+
+"Which is to say you could draw mana out of it the same way you could draw water from a well, in case anyone's still unclear about it," Cale added cheerfully. "And there was a lot of mana down there. Like, more mana than the people of Karmia could ever need. So! Can you guess what happened?"
+
+About half a dozen people opened their mouths to speak, and Cale held up a hand. "That was a question for Leo," he emphasized, exasperated. "This was a lesson for him! He's the one that wanted to let you all listen in."
+
+Leo looked a little embarrassed at that. "I don't mind if they answer."
+
+"You're answering," Cale said, deadpan. Leo coughed and nodded.
+
+"I would... assume it brought the kingdom a lot of interest?" he offered. "A lot of researchers would kill to have mana refills on tap."
+
+"Exactly!" Cale beamed. "And not just researchers. Archmages, magical scholars, even some minor divinities started showing up so they could use the Karmian Well. It was a game changer for magical research and essentially a turning point for the magical development of the entire realm. It's also one of the proofs we have that dungeons carry magic from stronger realms to weaker ones—once the Age of Distortion really got going, the appearance of new dungeons in the realm dropped drastically."
+
+"So that's what started the Age of Distortion?" Leo asked. "The boom in magical research?"
+
+"Sort of," Cale said with a shrug. "People argue over when the Age started. The Well brought Karmia a lot of wealth and prosperity, but the reason it's called the Age of Distortion hadn't happened yet. That took a few months."
+
+Leo looked a little nervous. "Were there side effects?"
+
+"Yep! But probably not in the way you're thinking." Cale leaned back against the wall and folded his arms, grinning. "A few months after the Karmian Well was created, it started burping out what people eventually came to call distortion storms. Basically, there was so much magic in the Well that every so often, it would just... boil over. Spill out these massive pockets of raw mana. And then, through some inscrutable quirk of Hugh's original spell, those pockets of mana got transformed into these massive torrential downpours. Rain, basically! But—" he paused for dramatic effect "—magic rain."
+
+Leo turned in his seat as if to check if everyone else was just as confused as he was. When he saw they were—and that they were waiting for him to ask—he sighed. "What exactly do you mean, magic rain?"
+
+"Excellent question!" Cale said for the second time, beaming. "Normally rainwater can't carry much magic, but these storms did. A lot of it, in fact. Some people think it was actually just raining mana that looked like a liquid. Basically, distortion storms had a lot of magic and a lot of transmutative power; that second part is one of the reasons it's thought they were a result of some interaction with Hugh's spell."
+
+"Transmutation?" Leo frowned. "It could transform things?"
+
+"Oh yes," Cale said. "Started a bit of an outcry, actually, when they first started. No one likes their things getting randomly transmuted. But then people realized the transmutations were predictable and pretty profitable, so that outcry died out as soon as it started. Probably should have done a little more research before they decided it was a good thing, if you ask me, but no harm done. It actually started a whole new religion."
+
+"It... started a religion?" Leo blinked helplessly.
+
+"Yep!" Cale thought for a moment. "I think they were called the Leyline Stormchasers? They believed the Karmian Well tapped into the source energies that drove the whole realm, and they also believed that distortion storms were 'blessings from the realm itself.' No idea if they were right, but I mean, the storms were pretty useful. Once the scholars figured out what they actually did, anyway."
+
+Leo flipped through his notebook a few times. "I think I saw something about this," he muttered. "It wasn't a record of Karmia, I think it was a different realm's records of Karmia? They thought that Karmians were master alchemists."
+
+"Nope! That was the storms. They would hate being called alchemists." Cale snickered a little at the thought. "Thought alchemy was too unreliable to be useful to a real mage. They've clearly never met a master alchemist, but I mean, I wasn't going to tell them.
+
+"It took scholars a few weeks, but they eventually managed to verify that distortion storms just shift anything the rains make contact with one conceptual degree to the right. Turns sand into glass, stone into brick, silver into gold. That kind of thing. Incredibly profitable transmutation at a moment's notice, especially if you bottle up the rain. Merchants were basically rabid for the stuff.
+
+"That meant the Stormchaser movement just grew and grew," Cale said. "But the storms were getting stronger, too. The rains were changing more things at a time, the downpours were heavier, and things that used to be immune to the distortions started changing. Eventually, the storms got strong enough to start affecting people."
+
+He paused there, looking out over the class. They were silent now, staring at him like they were enraptured by the story he was telling. Cale felt a little awkward about the whole thing. He was just explaining what he'd seen! It wasn't like he was giving them the secrets to the universe or anything.
+
+"You'd think that would slow them down," Cale continued. "But it didn't. Not even a little bit. It just spawned a new faction of Stormchasers that called themselves the Acolytes. Basically they would chase after distortion storms in the hopes that they would be 'blessed by the realm' and granted new bodies, usually because they weren't happy with the ones they got. Or just because they wanted to try out something new. The storms were a lot less consistent about people than they were about materials, so it was never really a guarantee, but honestly all the Acolytes I met were pretty happy with their changes."
+
+"What kind of changes were they?" Leo asked, leaning forward at his desk. Cale blinked.
+
+"I don't know? All kinds of things, really. Extra eyes, extra mouths, wings, tentacles, sometimes they'd change sex or just turn into a different species altogether. Honestly, they were pretty cool to hang around with. The new bodies they got were always really interesting."
+
+He paused again. "Which isn't related to why I liked hanging out with them. Obviously."
+
+Leo raised a hand.
+
+"Anyway," Cale said hastily, ignoring him. "That's a big part of why that time period is known as the Age of Distortion. Distortion storms and the rain that fell from them basically became both a driving force of the economy and very nearly a form of currency. All of which is important, but not as important as how all this relates to what was actually inside the Karmian Well."
+
+At that, many of the people in the class sat up, and Leo stiffened slightly. This was the part that was actually important for him. The labyrinth sitting in the room Cale shared with Damien had been birthed by the Labyrinth Plague infecting the Well, which meant that the contents of the labyrinth would likely reflect the contents of the Well in some way.
+
+From everything Cale knew about the Karmian Well, that meant the things they found in it would be very interesting indeed. Potentially, they would accelerate Leo's magical development even further, though Cale didn't want to make any promises too early.
+
+"Like I said, the Karmian Well was conjured by merging together all the dungeons underneath Karmia," Cale said. "Which means even before the distortion storms began, the Well had elements from every single dungeon that was merged into it. All the same artifacts, traps, monsters, that kind of thing.
+
+"Thing is, the distortion storms didn't just affect the kingdom of Karmia. They raged inside of the Well, too, a lot more frequently and far more powerful than they did outside it. The monsters in the tunnels grew stronger and more intelligent, sometimes forming entire societies." Cale winced a little bit. "Fractured societies, usually. It was a whole branch of research to figure out how to get them out—if you're familiar with the spatial lock and the temporal cycling common to dungeons, you probably understand why."
+
+A few people looked uncomfortable as they understood the implications; Leo was one of them, judging by the way he frowned and stared intently at his notebook.
+
+"In any case." Cale sighed, then made himself continue. "An even smaller fraction of those managed to negotiate treaties and alliances with organizations from the kingdom above, usually assisted by one of the Acolytes. Or by me. I did a few negotiation runs."
+
+"Were you good at it?" Leo asked, blinking at him.
+
+Cale stared right back. "I feel like I should be offended by whatever you're implying."
+
+"I'm just saying," Leo protested.
+
+"I was pretty good at it!" Cale said. "Mostly. Look, my methods weren't traditional, but they worked, okay?"
+
+"What were your—"
+
+"Anyway," Cale said, moving on. "The monsters were one thing, but inside the Well, distortion storms were strong enough to affect even the artifacts that bled through from other realms. That was the part that was really dangerous—artifact transmutations were pretty much never stable. Something about their grounding concept, maybe? But the Well got more and more deadly because of it."
+
+Leo looked, perhaps understandably, rather nervous. Probably because they'd have to go into the Well. "What happened to the artifacts?"
+
+"Oh, you know." Cale shrugged. "I remember there was a grail on the third floor down that was supposed to pour out pure water, but one day it started pouring out, uh, blood. Sourced from everyone in the vicinity."
+
+Several people physically recoiled.
+
+"There was this pack of tarot cards that was supposed to summon guardians from the major arcana to help a mage through the dungeon trials, except after one storm the deck started allowing inverted cards to be pulled. Pull an inverted card and it would summon the guardian to hunt you down and turn you into a new major arcana in the deck."
+
+"How does that work?" someone muttered to themselves. Most of the others looked appropriately horrified, though. Leo just had his face buried in his hands.
+
+"There was a Ring of Fireball that somehow got twisted so it would burn your organs as fuel instead of mana," Cale added thoughtfully. "Now that I think about it, a lot of the distortions were related to organs. Weird."
+
+"Was there anything good?" Leo asked tiredly, almost pleading.
+
+"I mean, even those artifacts weren't bad," Cale said, and then when half the class turned their horrified gazes to him, quickly amended his words. "Artifacts are dependent on their users! The first one got auctioned off to a vampire. And the second one was handed off to the local adventurers' guild so anyone with a death curse or something similar could immortalize themselves as a guardian."
+
+"What about the third one?" Leo looked only slightly mollified. Cale had to think for a moment to remember what happened to that ring.
+
+"Gifted to a troll," he said eventually, nodding. "She was delighted by it. No natural mana reserves, but great regeneration, so the flesh-as-fuel thing didn't matter to her."
+
+"I can't decide if any of this is better or not," Leo grumbled. "Were there never any good artifact distortions?"
+
+"They were rare, but they did exist," Cale said thoughtfully. "...I don't think they were interesting enough for me to remember, though. Sorry."
+
+"I am very concerned that you remembered all the horrifying ones and not any of the helpful ones," Leo said, face buried entirely in his desk. Cale was kind of impressed. Mostly because the desk was flat and Leo had a snout.
+
+"Anyway, that's all I've got," Cale said cheerfully. "Everyone except Leo, Syphus, and Damien, get out. Shoo."
+
+There were a few grumbles, but surprisingly no one fought him on the matter. Maybe his reputation had started spreading through the school? That would be convenient.
+
+"What do you think?" Cale asked Leo encouragingly.
+
+"I think I'm screwed," Leo mumbled, depressed.
+
+"Come on," Cale said. "Any of that explain what was off with your labyrinth senses? If we're going in, we need to know everything we can."
+
+Leo groaned, but to his credit, he did actually stop to think. He hesitated for a long moment before eventually speaking. "I... I think so," he said. "It felt a bit like there were multiple labyrinths in there. And you said something about the Karmian Well having different floors?"
+
+"They were sort of different layers as you got deeper into the Well, but yes," Cale agreed. "You think the labyrinth might have replicated that?"
+
+"More than that, maybe," Leo said. He sat up a little in his desk, and once again, Cale glimpsed the mage he could be—the sort of mage that could push aside their exhaustion and hone their instincts until they knew. Until they cut through the mysteries of the realms and learned to grasp them for themselves. "Different floors, but also something moving through them and changing things. One of those distortion storms, maybe."
+
+"Interesting," Cale said passively, but his eyes gleamed.
+
+Now that sounded like something new. A moving storm that upgraded all the dangers and artifacts in its path, but potentially something that could be corralled, maybe even controlled. A storm naturally attuned to a labyrinth, bursting with mana...
+
+A perfect seed for a second core.
+
+Before Cale could say anything more about it, the scroll in his pocket vibrated in warning. "Whoops," Cale said. He pulled out his schedule scroll to open it, but apparently, it wasn't warning him because it was late—it was just letting him know his schedule had changed.
+
+Akkau had come through, it seemed. Damien, Leo, and Syphus were all checking their scrolls, too.
+
+Cale's next class was now Elemental Resonance: Playing with Fire, apparently? That was Graystalk's class, if he remembered correctly... which meant it was sure to be fun. Cale grinned. "Guess Akkau changed the schedule," he said. "I've got fire resonance next. Does anyone else have it?"
+
+"Um..." Damien raised a hand again. "I do, but... why did Akkau change the schedule?"
+
+"Reasons!" Cale said cheerfully. Come to think of it, fire resonance was one of the ones he'd need if he wanted to get something close to a baking spell, wasn't it? That gave him the perfect excuse to check on the Gift and see if he could re-evolve spells like [Burn]... and probably to see if there was anything waiting for him about the whole draconic resonance thing. He'd been ignoring it for a while.
+
+Accidentally, and not at all because he was worried the Gift had peeked at his resonance vision and was judging him.
+
+Then he paused. "I wonder how Flia is doing," he said thoughtfully.

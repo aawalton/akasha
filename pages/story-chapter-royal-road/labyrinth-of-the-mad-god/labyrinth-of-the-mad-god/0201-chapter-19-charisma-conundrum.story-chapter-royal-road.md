@@ -1,0 +1,137 @@
+---
+id: 31945930-9085-5a7c-a469-6eeda218592b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Charisma Conundrum"
+slug: 0201-chapter-19-charisma-conundrum
+partOf: labyrinth-of-the-mad-god
+position: 201
+ownLength: 2336
+unit: words
+publishedAt: 2025-07-28
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2473615/chapter-19-charisma-conundrum"
+royalRoadId: "2473615"
+---
+
+Nick expected to experience the agony of the monster’s attack slicing into his shoulder.
+
+Instead, he felt a layer of mana solidify across the surface of his skin, shielding his flesh until the voidbear’s claws slid past. Out of the corner of his eye, he saw the scarecrow’s body fall into pieces, taking the damage that was intended for him.
+
+“Thanks, Liz!” he yelled. “Your aura is fucking awesome.”
+
+While the totem had saved him from suffering a serious wound, he wasn’t out of the woods yet. The monster was still coming for him, moving so fast its bristly body blurred. He switched to pure evasion as Force Acceleration went head-to-head against its stamina-boosted blows.
+
+Nick fired off a few Mana Darts while trying to open some room, but as he’d expected, the voidbear took them without slowing down. The big bastard didn’t even flinch.
+
+The next time he led it past Liz, she hit its knee again, targeting the same limb as before. The monster screamed when her blade bit into its joint, revealing that she was doing some damage despite its bizarre anatomy and insane Toughness.
+
+After being wounded by her twice, the creature had identified Elizabeth as a threat. It decided to try its luck in taking her out of the fight, since Nick was proving difficult to pin down. It spun in a spray of orange dirt and came barreling toward the leather-clad woman, planning to shred her to ribbons in a single attack. Liz turned to run, but she wasn’t fast enough.
+
+Before the voidbear reached her position, Nick was there.
+
+He burst into motion the instant he realized what was happening, burning stamina and flaring Force Acceleration to transform his body into a streaking smear. There wasn’t time to do anything other than jump straight onto the creature’s back, so that was exactly what he did.
+
+Along the way, he reversed his grip on Blightbane and then drove it into the monster’s torso, adding the momentum of his leap and the weight of his body to the blow. The silver-shrouded sword sank deep, forcing the creature to pull its attack short. It still caught Liz with a glancing blow that cut into her shoulder, but it didn’t look too deep.
+
+Before Nick had time to follow up, the monster rolled onto one side, trying to crush him to paste beneath its bulk.
+
+He scrambled out of the way then darted back in, thrusting at its head before the brute regained its feet. Blightbane pierced its right eye, causing the voidbear to unleash a thunderous roar. He had finally managed to score a critical wound, but an injury that would send most beasts fleeing to lick their wounds only seemed to enrage the monster. It acted like losing an eye was just a temporary inconvenience, which for all he knew, it was.
+
+The creature followed hot on his heels, trying to pin him against the wall of the mesa and tear him in half with its jaws. A heartbeat before it caught him, Liz let loose with her Flashbang spell, hitting the monster right between the eyes.
+
+The ability was similar to the flashbang consumables Nick had used to great effect back on the Searing Isle, with one key difference. Instead of a dumb device that affected everything within its radius, her spell could differentiate between friend and foe.
+
+He still heard a loud bang and saw a bright flash of light, but both effects were muffled like he was wearing earplugs and tinted glasses. The voidbear was offered no such protection. While the monster wasn’t harmed by the blast, the detonation surprised it and made it lose track of his position during this critical moment.
+
+While the creature was disoriented, he did a backflip that caried him fifteen feet up the rock wall. Before his weight came down, he placed an Arcane Shield to use as a handgrip. He hung from his makeshift perch for a few seconds while planning out his next move.
+
+Down one eye and bleeding profusely, the monster’s speed and coordination were significantly impaired. After making sure his partner was ready, Nick went in for the kill. He sheathed his sword, visualized his move, and called upon Arctic Clarity to enhance his focus. Then he leapt for his enemy while Elizabeth hit it with back-to-back Flashbangs to keep it off balance.
+
+He sailed toward the monster with total focus, executing his finishing move mid-flight. He gripped the blade’s hilt and infused it with pure mana, then simultaneously activated Heavy Blow, Force Acceleration, and the Quickdraw mod of his Half-Length Scabbard, causing Blightbane to erupt from its sheath with a crack like a thunderpeal.
+
+The combined momentum transformed his sword into a bladed rocket. The edge caught the monster in an overhead slash that landed right between the voidbear’s eyes… then kept right on going.
+
+Blightbane carved through flesh, bone, and organs in turn before erupting out the other side in a fountain of blue blood. Even a creature as resilient as the voidbear couldn’t survive having half its body bisected. It came crashing to the ground a heartbeat later, twitching as the life faded from its sunken eyes.
+
+He felt a momentary surge of disorientation that let him know he’d leveled, which meant the fight was officially over.
+
+After the monster breathed its last, Nick and Liz turned to face one another. He was about to raise his hand to give her a high five, but she moved first and pulled him into a bearhug instead. “That was incredible! I’ve never seen anyone move like that before.”
+
+He laughed, spun them in a circle, then came to a stop and looked her in the eyes. “Thanks. You were pretty amazing yourself. I honestly didn’t expect you to be so powerful, since you seem to hate fighting.”
+
+“I do, but I’ll do whatever it takes to survive and protect my people.”
+
+That was when Nick processed the fact that he was holding a beautiful woman in his arms—so close her could feel her heartbeat and the warmth of her breath. He let himself enjoy the moment for just an instant longer, then released her and stepped back.
+
+He realized two things in that instant. That his pulse was racing in a way that had nothing to do with the battle and part of him didn’t want to let go at all.
+
+His thoughts must have shone through on his face. He could see the gears in Elizabeth’s mind turning, but she didn’t say a word. Instead, she walked over to the monster’s corpse, taking a closer look as her wounds began pulling shut on their own.
+
+That ability is great. I should try to pick up something like it later. Nick quaffed his Flask of Restoration to tend to his own scrapes and bruises, then walked over to join her. He was surprised when his Foraging skill kicked in, letting him know that the voidbear was safe to eat… probably.
+
+“I’m not eating monster meat from another dimension,” Liz replied when he shared what he’d learned. “Not unless I don’t have a choice, and your skill can do better than ‘probably’.”
+
+“Don’t worry.” He laughed. “I have plenty of provisions in my pack and we’re bound to come across something more appetizing soon.” They pulled out their knives to harvest the voidbear’s teeth and claws, then washed up and opened their menus to check out their gains.
+
+Congratulations. You have accumulated enough experience to reach level [30].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+As a milestone reward for reaching level [30], you have been awarded a bonus free attribute point.
+
+You have 9 free attribute points awaiting allocation at your discretion.
+
+By pushing yourself to the limit in the midst of a deadly battle, you have conditioned your body and improved the following baseline attribute:
+
+Dexterity has increased from [14] to [15].
+
+Through use, you have improved the following skills:
+
+Acrobatics has increased from [6] to [7].
+
+Light Armor has increased from [3] to [4].
+
+Foraging has increased from [11] to [12].
+
+Size up has increased from [13] to [14].
+
+Wand has increased from [21] to [22].
+
+Note: You may not increase your Sword skill beyond 25 until you complete the trial of mastery. The trial will not be available until the Rebuilding Civilization quest begins.
+
+After thinking about it for a few minutes, Nick decided to hold onto his free points for now.
+
+Thanks to the massive infusion of species experience humanity had earned from their Diamond reward, they should hit their species-wide evolution sometime over the next few months—maybe sooner if enough people started clearing challenges, events, and quests over the coming weeks.
+
+When that happened, humankind would have their geneline traits enhanced and get the chance to vote on a brand-new attribute. Whichever attribute they picked, it would probably offer considerable advantages. Nick wanted to keep his options open if he wanted to invest in it, and the only way he could do that with his current class was to spend his free points.
+
+He could always change his mind if he wound up needing them, but saving his points made sense for now. He laughed at how weird it felt to see so many free points listed on his profile, since he’d never had the luxury of hoarding them until now.
+
+With the voidbear out of the picture, the duo ate lunch while recovering their stamina. When they were done, they stepped into the pass running between the mesas and made rapid progress past that point.
+
+As they journeyed deeper into the heart of the badlands, Nick passed the time by thinking about the people who had come into his life since the System arrived—the group he had fought beside in the Grand Arena of Papillion, Sophia and the rest of his party who had climbed Darkstone Tower, and the woman walking by his side.
+
+Elizabeth was an excellent travelling companion. She was capable, pragmatic, and level-headed. Astonishingly intelligent and accommodating to his needs. He eventually decided that she was a little too accommodating. She laughed at his jokes, respected his boundaries, and always knew just what to say to brighten his day. During their interactions, Liz’s reactions felt completely genuine, and she seemed to have no ulterior motive whatsoever.
+
+Ironically, that last part was what ultimately led Nick to believe the woman had an ulterior motive. To realize she had been manipulating him the whole time—so skillfully he’d never noticed anything out of the ordinary. Only his high Mind combined with deliberately contemplating her behavior had clued him in to what was happening.
+
+He turned to her after their next exchange, looked her straight in the eyes, and asked, “So, just how high is your Charisma anyway?”
+
+For the first time, Liz was caught completely off-guard by his comment. Fear flickered across her features, then her shoulders sagged in defeat. She sighed, met his gaze, and whispered, “32.”
+
+Holy shit. He let out a low whistle. She must be one of the most Charismatic people on the planet. In all of human history for that matter. Nick hadn’t thought about the attribute much, since it hadn’t played a role in his survival until now. He had, however, contemplated what it might be like to encounter someone whose Charisma far exceeded his own.
+
+The reality was far more subtle than he’d imagined—to the extent that nothing Liz had done seemed out of place or tipped him off. In essence, she had mastered the art of making a good impression. She knew how to make herself useful, was insanely likable, and was probably a decent person on top of everything else.
+
+That being said, Nick didn’t want to travel with someone who was deliberately influencing his emotions, although part of her behavior was probably taking place below the threshold of consciousness. Impression management was a natural human tendency—something everyone did to some extent—but this was on a whole other level.
+
+Elizabeth looked completely vulnerable in that moment, bracing herself like she was waiting for him to reject her. She seemed terrified, resigned, and remarkably brave—not to mention smoking hot. And while she hadn’t done anything to lead him on, Nick was sure she was aware of his attraction and was using it to manipulate him too.
+
+Since he couldn’t trust anything he was feeling, he removed himself from the equation and thought about the matter from a neutral standpoint, imagining what he would do if he were in her shoes. Eventually, he met her gaze and said, “I firmly believe that friendships are built on a foundation of trust. Please don’t do anything that would undermine that foundation.”
+
+He left it at that. If Nick decided he couldn’t trust Liz, he would simply go his own way. But until that happened, he was willing to give her the benefit of the doubt.
+
+“Oh, and I would appreciate if you would just be yourself. You don’t have to tiptoe around me or pretend to be someone you’re not. I won’t abandon you and I won’t hurt you. If we’re going to work as a team, you have to trust me too.”
+
+She let out a slow, shuddering sigh, then nodded. The woman looked deeply relieved—like she’d been searching for something in his eyes and hadn’t found it after all. The she smiled, and said, “All right. It’s a deal. Anyone can say that, but I can tell you really mean it. I’m sorry. I’m just trying to survive, and I’ve had to deal with a lot of powerful people with hair triggers in my life.”
+
+They didn’t speak again for hours. When she finally broke the silence, Elizabeth seemed more relaxed and less eager to please. Satisfied with how he had dealt with the matter, Nick turned his attention to the long road ahead, internalizing that going forward, his social skills would be far more important than before.

@@ -1,0 +1,257 @@
+---
+id: 2315e723-da52-5f17-a388-2f5237ec29d7
+page-type-slug: story-chapter-royal-road
+title: "16. Death Cart"
+slug: 0016-16-death-cart
+partOf: mana-devourer-litrpgmana-cultivation
+position: 16
+ownLength: 3528
+unit: words
+publishedAt: 2024-07-06
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1707264/16-death-cart"
+royalRoadId: "1707264"
+---
+
+“Fucking hated that bitch,” Cyrus grumbled.
+
+Markus immediately spat out his drink as he tried not to choke laughing, his [Meditation] aura completely fading. He’d been attempting to use the Meditation feature of Respite to focus on speeding the recovery of some of his more severe injuries, but now his concentration was completely shattered.
+
+“Wh-whoa,” he managed between coughs. “Where the fuck did that come from? What happened to shining golden goddess?”
+
+“Ugh,” Cyrus sighed, spitting on the floor of his cell as if trying to wash out a bitter taste. “Picked up that manner of speak from her other disciples. Maesha liked us all to dote on her and speak as if she were a holy, zealous queen sent from the Heavens or some such horseshit.”
+
+“She isn’t, then?” Markus asked, the hint of a laugh still in his voice. He was still utterly confused on how gods worked here.
+
+“Nay. Just a jumped up fae powerful enough to wield a Divine Arm.” Cyrus laughed, taking the water as Markus passed it back to him. “Some gods are chosen by higher powers to serve, some achieve the position by strength, and some get there with the help of an artifact, like her.”
+
+Markus blanched at the realisation. “So are all of the gods just… chosen by others somehow? Are there not any natural-born gods?”
+
+Cyrus shrugged. “Apparently, some are natural-born, but those are from higher worlds. There’s rumours that some gods living in Firrelia actually come from Seconna, or even worlds beyond that, assuming those worlds even exist.”
+
+That being said…” he lowered his voice, leaning in closer. “Maesha doesn’t need that holy sword to be deadly. I’ve seen her behead a thirty foot cyclops with a single dagger strike from a hundred feet away. Her power is beyond terrifying and certainly beyond that of a mortal.”
+
+That was too crazy of a statement to ponder for too long. Nope. And he’d called her a bitch. To her face. Here’s hoping they never met again.
+
+…they’d totally meet again.
+
+“Hey…” Markus began, trying hard to get his mind off of it. “you’re not so weak yourself, just so you know. You slapped me once and I swear it still feels fresh,” Markus said, aware that his cheek was red and swollen, more aware each time he spoke.
+
+“Yes, apologies for that. I know she said she didn’t wanna kill you, but I’ve seen her behead ‘untouchable’ people over the slightest annoyance before. You can never tell she’s feeling murderous until she just does it, either. And it’s not like anyone can stop her. Better safe, you know?”
+
+Markus felt a chill touch the back of his neck. This wasn’t taking his mind off of anything. “Hey, apology accepted. If anything, thanks.”
+
+“As for me being strong, put next to Maesha, you’re comparing a tornado to a light breeze,” Cyrus explained. “And Maesha doesn’t take just anyone as her disciple. She only bought me because I’d reached Apprentice with three weapons in only two years of practice.”
+
+There, that was better. Talk about this.
+
+“How long does it usually take to become Apprentice level with a weapon?”
+
+“Depends on your environment. If you were constantly fighting all out, much less time, but practicing the way I was, making up my own drills and having no formal training? Longer for most. She was impressed enough that she decided I was worth paying for, at the very least.”
+
+Markus nodded as he listened, imagining his words. “And then what?”
+
+“Well, as you saw, it didn’t work out, but she trained me for a time. Brought me close to Adept with the sword in only a matter of weeks. Decent teacher. Incredible knowledge base. Shame she was a Grade A Cunt.”
+
+“Is that a new type of mana?”
+
+“What?”
+
+“...sorry. Bad joke.”
+
+The two sat in silence a few moments, Markus rubbing the back of Ember’s neck, until finally, Cyrus spoke up again.
+
+“So you were serious about getting out of this place together? You’re not just gonna sign a deal and take your free ticket out of here?”
+
+Markus nodded. “Deadly serious.”
+
+“Do you have a plan of how to do it?” Cyrus asked. “From what I understand, barriers and enchantments are used in places like this. It’s very secure by design, they don’t want people coming in and out.”
+
+“Buddy, I can promise you one thing,” Markus grinned. “I have absolutely zero plan or earthly fucking clue how the hell we’re getting out of this place, but what I CAN promise you is that if there’s a way, I’m finding it.” He pointed at Cyrus. “No offense, but seeing how you got pushed around and dicked around by that Maesha basically settled it for me. Ain’t no way I’m ever signing myself over to one of these gods. Fuck that shit.”
+
+“Not every god is Maesha. There’s a lot of darkness and corruption in this world, but there’s at least a few gods that truly uphold their virtues and even care for their followers. You shouldn’t discount the possibility.”
+
+“Well maybe if those gods come along I’ll reconsider my thoughts on the bastards, but I highly doubt the type you’re describing sniff around arenas. Besides, I’m not leaving you behind. We’ll just team up and destroy the whole place if we have to. Simple.”
+
+“What?” Now it was Cyrus’ turn to laugh, loud and unabated. “The talk of escape was one level of lunacy, but just how do you destroy an ancient institution with both gods and devils serving as its patrons and proprieters? Are you secretly a god yourself?”
+
+“Who knows?” Markus shrugged. “Might be. Someone called me an Ascendant, once, whatever that means. But it was a voice in the crowd, and it was once. I don’t know if I’d put much stock in it.”
+
+“An Ascendant is supposedly a person who is powerful enough to ascend to Seconna of their own will, a mortal being recognised by the Seconnian rulers as being worthy to walk amongst them. It’s a rumour. Such a being surely doesn’t exist.” He snickered. “And it most certainly isn’t you.”
+
+“It could be!” Markus said, laughing between words. “I didn’t get to use my magic when I fought, and I couldn’t use my weapon properly! I’d have had a way better chance otherwise!”
+
+“Doesn’t matter,” Cyrus said. “You’re incredibly sloppy. There’s speed, but no coordination. Your reflexes work against you.”
+
+“Yeah, whatever. Let’s have a rematch with no restrictions on magic, and then you can talk shit. In the meantime, I’m calling it a really unfair fight.” Markus chuckled. “Anyways, I’m planning to scout this place out today. Gonna try and figure out if there’s anything I can learn about how to get out of here. Who knows? Maybe I’ll find a contract lawyer.”
+
+“HEY!” came the shout of a guard as a nightstick was whapped against the cell bars. “What are you two inbreds yapping about?”
+
+Markus flinched at the sound crashing against the bars, and almost leaped out of his skin when he realised that as soon as the sound had reached his ears, Ember had dissipated entirely, his hand slipping through empty air where she’d once been stood.
+
+How the fuck did she do that?
+
+“Sorry to have bothered you, sir!” Cyrus yelled, immediately bowing low.
+
+“I said, what the fuck were you talking about?” the guard shouted. “All I’ve been able to hear is you two for the past twenty minutes! Tell me!”
+
+“Formulating an escape plan, sir!”
+
+Markus’ heart skipped a beat. Had he really just said that?
+
+The guard, a creature that resembled a huge, bipedal fish creature, immediately burst out laughing.
+
+“Hah! Escape plan! That’s a good one!” He leaned against the bars, wheezing a little as he squeezed the last of his merriment out. Then, immediately, he straightened, whapping his stick against the bars once more. “Keep the fucking noise down!”
+
+The moment the guard had disappeared down the hall, a sonorous clang echoing from his last strike against the bars, Markus turned on Cyrus, whispering aggressively in his direction. “Hey! What the fuck was that?”
+
+“Fuck… I apologise. I panicked.”
+
+“You panicked?!” Markus bleated, eyes bugged. “I’m fucking panicked! What if he’d taken you seriously, huh? What the fuck would we do then?!”
+
+“I don’t know,” Cyrus admitted, eyes downcast, finally moving out of his bow once the guard had left. “I find it difficult to…”
+
+Markus stared at him blankly, expectantly. “To what?”
+
+Cyrus’ voice was low. Markus had to strain to even hear him. “Commands like that are hard for me to ignore. My body tenses and I act without thinking.”
+
+Jesus. Had Maesha done that much of a number on him in six months? Or was there something else to it?
+
+Cyrus probably could’ve worn that guard like a scarf if there were no bars between them. Yet all he had to do was scream at him to make him docile and compliant. Spooky prospect…
+
+Markus sighed. He smiled, trying to be as gentle as he possibly could. “Okay. I’m gonna go out and not look for a way to escape. We’re gonna only talk about things you can’t get us in trouble with for now. Maybe we can spar again later. Sound good?”
+
+“...sounds good,” Cyrus said, back over in the dark corner, resting his chin on his knees. “Sorry again.”
+
+“You’re fine, Cyrus. He didn’t take you seriously. Don’t worry about it. When’s the last time you slept anyways?”
+
+“We marched for two days. Maesha isn’t keen on breaks.”
+
+“What the fuck?.. Sleep!” Markus made to get up, then looked back behind him, face twisting. “Sorry you don’t have a bed like me. Maybe I can get you one after my next fight. Drathok gives me beds sometimes.”
+
+“I’m fine without one,” Cyrus said, leaning back further into his dark corner. “I haven’t slept on a bed since I was four. I doubt I’d enjoy it at this point.”
+
+“You need a fucking bed,” Markus said, shaking his head. “You’re crazy.”
+
+“I appreciate your concern, but I’m fine.”
+
+“You’re getting a bed. And you’re gonna enjoy having one.”
+
+***
+
+Markus waited around for a few minutes to see if Ember might reappear, but once it became fairly clear that she wasn’t reemerging any time soon, he got back on with his reconnaissance mission.
+
+Well, his ‘find something’ mission.
+
+He wasn’t entirely sure what he was looking for yet. Part of him just wanted to feel as if he were making a concerted effort to do something. He’d been given somewhat free reign of the place, and while that likely meant Drathok didn’t think he had much to be concerned about, there was always the chance he’d overlooked some things, maybe many.
+
+He was clever enough to realise Markus might be able to absorb his magic, as well as to take advantage of the situation when Markus won his first fight, but he still had blind spots. He didn’t seem aware that at least one imp in his employ hated him, and perhaps a thousand others too. He also put Markus and Cyrus in neighbouring cells, though that was looking to be more of a hazard right now than a benefit.
+
+Great that raised voices and laughter was what managed to finally get a guard’s attention, though. Not when Ember was ripping him to shreds, or anything, nor when Markus was made to go almost a full day without food or water.
+
+Nope. Just fun police, apparently.
+
+The prospect of what might’ve happened to Cyrus to make him like this wasn’t exactly a fun one to dwell on. Markus tried to put it out of mind. He focussed on mapping the place as best he could as he walked.
+
+It made sense that the guards didn’t pass by his cell very often. The cell blocks went on for multiple minutes of walking, and likely stretched just as far in the other direction. He’d need to go the other way at some point to see if anything else laid beyond, but ‘free reign’ surely had its limits and he imagined he’d be violently corrected if he was found to be going somewhere he wasn’t supposed to be.
+
+That being said, the places he ‘wasn’t supposed to be’ were likely the ones he wanted to be in most. They were surely the ones that held the answers to everything.
+
+Speaking of which, as Markus passed the exit to his cell block and came out across the path leading to the main hall of the dungeon, he noticed something rather peculiar occurring off in the distance.
+
+Near the foreboding stairs leading down into the dark glowing abyss below, a cart of creatures were sat neatly trussed up and hooded, bags over their heads as the near-dozen of them on the back of the cart awaited transportation to their final destination.
+
+Markus carried on walking, watching as he did so, attempting to determine what the fuck was going on.
+
+There were two imps and a creature resembling a troll attempting to operate the mechanism for the ramp and lower it, and no one was attending to or watching the cart, where Markus counted nine bipedal creatures all sat there in captivity, quietly murmuring to each other as they awaited whatever came next, alongside one quadruped who had been tied at both sets of legs, resembling a donkey from the legs alone.
+
+Were these… meant to be food? Was this a feeding trough consisting of intelligent creatures?
+
+They were talking, after all, despite being muffled by the bags. Markus could hear them. He slid to a stop. This looked like a travesty…
+
+It also looked like an opportunity.
+
+He’d heard the rumble of whatever laid below. This was bad news. Whatever these creatures were being taken down there for, it was certainly nothing pleasant or kind, and while Markus didn’t want to stand idly by as a near-dozen creatures were paraded to their death, he also knew that attempting to stop them here was going to more likely do harm than good.
+
+He needed to take advantage of the situation while it still existed. Something interesting almost certainly laid in wait down there. If he wanted to figure out his next move, he needed to sneak down into the off-limits lower levels while he could, and these guys might just be giving him the perfect chance to do so.
+
+But if Markus got caught here, then he was as good as fucked. He couldn’t start a fight right next to the main hall, where there were constantly hundreds present if not more; he’d get swarmed and overpowered almost instantly if he acted like that. He needed to be smart about this, to be careful he didn’t start a commotion right in the centre of the dungeon. He knew better than to do that.
+
+But time was running out. He needed to make a plan and decide what to do soon or he was gonna miss his opportunity. Those three would finish operating that mechanism shortly, then he’d get asked why he was loitering. What would he say? It would end the same way regardless, he’d be told to move along or worse if they took a dislike to his behaviour.
+
+Then there was the prospect of following from here. Was it dangerous? Fuck yeah. Was it worth it? If it meant he might be able to gather some real information, or maybe even save these guys? Then definitely.
+
+If it meant he could say ‘fuck you’ to this disgusting world and ruin something that mattered to them, then a million, trillion percent it was worth.
+
+In a snap decision that Markus might soon live to regret, he clambered onto the cart, quickly shoving his glaive into the corner, ignoring the commotion of the other passengers, trying to bury himself deep in the middle of the mess of limbs and find the most inconspicuous nook of it possible.
+
+“Hey! What’s going on back there?”
+
+“Probably the centaur bucked someone again. Let’s just get this over with.”
+
+Shit. Someone had heard him. Luckily they didn’t seem all too bothered about checking out the commotion.
+
+“Hey,” Markus whispered as quietly as he could, leaning in the direction of one or two bag-wearing prisoners. “Hey. Where are they taking you?”
+
+“Who are you?” asked a voice, female, feeling out with her hands. She was clearly scared, unable to see a thing.
+
+“I’m with you guys. Don’t worry. Just tell me where we’re going.”
+
+“We’re being freed today,” the woman responded, a shred of hope in her raspy, anemic voice. “A wealthy man will buy us for our labours.”
+
+“Yes, and it can’t come soon enough,” another voice added, this one male. “I’ve been wasting away in this place for weeks. I only hope we’re out of here quickly.”
+
+Freed today? Why would they take you into what looks like the second layer of Hell to free you? Well, on the off-chance it was true, maybe I’d learn a way out of here.
+
+Somehow, Markus still had pretty immense doubts.
+
+“Quieten down!” came a scream from the front of the cart. With a lurch and a shuffle of motion, the great wooden vehicle began to move, shifting and lurching as it was repositioned and prepared to be taken down the ramp, most likely by the troll.
+
+“If we’re simply being sold, then why do we have bags over our heads?” one man asked, his voice lighter than the others, as well as a touch faster. “We already know what this place looks like. We saw it when we came in. Why take the extra step now?”
+
+“Oh, here we go, Daven and his bleedin’ conspiracy theories once again. Oh, it’s all a cult! There’s a weird feeling in my tail… it’s a sign! We’re all going to be sacrificed in a blood ritual!”
+
+“I never said any of that!” Daven roared, as all the while the cart began to roll its way down the ramp, the feeling of the terrain below noticeably shifting. “I simply said that if this venture were as innocuous as these imps claimed, then why would we need—”
+
+“Shut up!” screeched one of the imps, kicking the cart. “You’ll all have your burning questions answered shortly, so just keep a lid on until then!”
+
+Silence from the cart, then, from ahead, a bumbling, brutish laugh, followed by an intensely deep voice. “Ohohoho… burning. Imp make joke! Ohoho…”
+
+That was unmistakably the voice of the troll. And if his reaction was anything beyond a subtle indication, what was waiting for them below was very unlikely to be a timely liberation, and a lot more likely to be on fire.
+
+That was okay. Fire, he could deal with. He had Frost and Flame Mana at his disposal, plus Frozen Tomb, and he’d had plenty of time since yesterday to store more energy. What could go wrong?
+
+Markus attempted to manifest a material resembling one of the bags over the left part of his face, then peeked out once he figured he was significantly covered.
+
+It was dark. He couldn’t really make out much. What he could see was that for as far as the dim torchlight from the imps ahead carried, this was a vast and cavernous space, looking unlike the much more carved and sculpted area above, appearing more naturally formed and untrodden, the only sounds in the tenebrous distance those that one might expect to find in an addled nightmare.
+
+Faint, eerie clicking sounds complimented scratchy roars and ringing howls; as far as the eye could see, nothing, but it felt as if the group of them could be attacked at any moment.
+
+“Place gives me the shits,” one imp grumbled. “Fucking hate this job.”
+
+“Yeah, well, unless you wanna defy our boss’s boss, keep your thoughts to yourself, Merril.”
+
+“Why don’t Drathok know about this, anyway? What if he compels us to tell us?”
+
+Markus heard the sound of a slap, likely on the back of Merril’s head. “How can Drathok compel us to tell him something that he doesn’t know he doesn’t know?”
+
+Merril the imp simply grumbled, no response coming to mind.
+
+Huh. That was interesting. First there was crazy imp that hates Drathok’s guts, and then there was this. He really didn’t have his house in order, did he?
+
+“Why don’t you carry the torch, at least? I don’t wanna be responsible for what happens if I drop it.”
+
+“Because, Merril, I have killer arthritis. We’ve been over this.”
+
+“And I get anxious in a cave filled with monsters! The fuck’s the difference?!”
+
+“Imps argue…” announced a slow, dismal drawl.
+
+“Look, you’ve gone and upset Ugro now. Now you’ve really done it.”
+
+“Alright, alright, I’ll relax. I fucking hate this place though.”
+
+If anyone wasn’t relaxed, it was Markus. Where the fuck were they going?
+
+Markus pulled up his system menu and started applying stat points fast, attempting to prepare his body for whatever horrific, insane threat he might face next.
+
+In the distance, a rumbling, sulphuric growl grew progressively louder.

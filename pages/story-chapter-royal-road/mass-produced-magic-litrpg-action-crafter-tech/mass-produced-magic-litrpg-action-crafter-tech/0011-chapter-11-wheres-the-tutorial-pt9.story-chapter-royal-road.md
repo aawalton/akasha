@@ -1,0 +1,183 @@
+---
+id: 3dfa1f7a-8fdf-5d35-8951-3785c2e2432e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11 – Where’s the tutorial? – Pt9"
+slug: 0011-chapter-11-wheres-the-tutorial-pt9
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 11
+ownLength: 2093
+unit: words
+publishedAt: 2024-11-17
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1909605/chapter-11-wheres-the-tutorial-pt9"
+royalRoadId: "1909605"
+---
+
+Kindra spun. Locking onto the grubs, she grimaced. There were three of them bulldozing toward her, the ground shaking and cracking as they cruised toward her. How’s my mana?
+
+[Your mana has increased: 147 → 184.] ‎ [Active mana: 80.]
+
+Conjuring the runes in her mind, she burned ten mana and shot a beam of radiant magic at one of the massive grubs. The light flashed across the area, and a grub stopped moving. Aiming, she fired again, blasting a submerging grub with the magic.
+
+The grub thrashed, slamming and shaking the area. With panic building, she aimed and fired again. The grub went still, and the final one burst from the ground, slamming into the barracks.
+
+A massive crack rang through the air. The barracks trembled, and cracks spider-webbed across the stone. We need to go. Kindra burned mana, sending a blast of magic through the grub.
+
+It went still, and she looked down. Small cracks ran across the rooftop. Nothing about this is stable. Kindra swallowed and searched the streets for a new shelter. Cottages are out. I’d get trapped. She searched and ruled out a half-collapsed, two-story building. “Aika, this barracks is about to collapse. See another spot?”
+
+“No, but I’ll keep looking.”
+
+That’s not good news. Kindra gingerly edged around the building, slashing into the undead that had run toward the disturbance. And I’m surrounded again. Great.
+
+Slashing into a group of rats, she walked to the door and looked inside. Dust hung in the air, and ominous cracks ran down the wall. So much for my mana farming. She turned and looked at the group of undead. May as well kill them before I leave.
+
+Swinging the spear, she sliced into the group below. Light flashed through the group, and the ground trembled. Shit. She wrenched the spear up.
+
+Darting inside the building, she carefully made her way down the stairs and into the dorm. Grabbing a blanket, she set it down and tossed clothes on it. Slinging the crossbow and rifle over her shoulder, she added another blanket to the pile and pulled the makeshift knapsack together.
+
+Strapping on a belt, she holstered two axes and a knife before heading to her supply pile.
+
+Aika’s voice carried through her mind. “There are cottages, but that’s it. This village is small. And there are a lot of undead in the fields. I’m trying to clear some out.”
+
+“Thanks.” Reaching down, Kindra grabbed an axe and multiple swords. Triggering Transmutation, she willed them into a pair of nine-millimeter pistols and four magazines. Grabbing the rest of the weapons, she walked into the forge, focusing on the barrels and carcasses.
+
+Alright, magic, don’t you dare burn up the end product. Pulling the lid off two empty barrels, she dumped a body into each. “I’m making bullets. Be safe out there.”
+
+“I am,” Aika thought, her voice a little strained.
+
+“You are?” Kindra thought back, doubt lingering through her.
+
+“It’ll be fine. Rotten lizard. They’re the worst.”
+
+Kindra shook her head. “Be careful.” She reached down and touched the corpse, a memory floating into her mind.
+
+~~~
+
+“Dad. I know this already.” An eight-year-old Kindra said, tugging on her father’s arm. He smirked and studied the exhibit. A holographic man was firing a musket.
+
+Kindra tugged again. “You use charcoal. You crush it into powder, add a little sulfur, and some saltpeter for an oxidizer.” She smirked and pulled. “Come on. Let’s go to the section on robots.”
+
+Charles reached out, his hand batting her ponytail. “Okay, Miss Smarty Pants. What was the replacement?”
+
+“Nitrocellulose.” Kindra grinned and tugged again. “Now you owe me something from the gift shop.”
+
+“Only if you remember the chemical formula.”
+
+Kindra turned and raced to the nearby terminal. “Come on. I’ll prove it.” She dashed over to it and drew the formula with her finger, waving him over. The complex molecule stood there in her mind, and she left the memory behind.
+
+~~~
+
+Focusing on the image, Kindra reached for her mana. Carbon, hydrogen, nitrogen, and oxygen. She triggered Transmutation. Smoke and steam billowed everywhere. Holding her breath, she took several steps back and waited.
+
+The undead outside shuffled, and the smoke filled the room. Darting away, Kindra entered the barracks and shut the door. Okay. Magic doesn’t just change it; it uses parts. She leaned against the door and studied the walls. And this place is one angry grub away from collapse.
+
+Waiting another few seconds, she opened the door and peered into the smoke-filled room. Is it still going? Dashing to the other barrel, she triggered it, willing it to create Potassium Fulminate.
+
+Running back into the barracks, she closed the door and waited for it to clear. Not the ideal composition, but it’ll work, and there is a chimney in there.
+
+Leaving the smithy entrance behind, she walked to the pantry. Grabbing some silverware, a plate, and a mug, she filled it with fruit and added it to her bag. Where’d the water skins go? Walking back to the chests, she looted some from the bodies, taking them back and refilling them in the water barrel.
+
+Pausing to take a drink, she swallowed. “Aika? You’re quiet.”
+
+“Killing things. You’ll need to leave the barracks. There are other grubs. I’m trying to make a path.”
+
+“Thanks. Let me know if I should try to get to the rooftops.”
+
+“You should. If that collapses, you’ll die.”
+
+“Roger that.” Kindra blew hair out of her face and hefted the bag over her shoulder. Let’s see how long it lasts.
+
+Walking back into the forge, she held her breath and grabbed the metal bars. Taking them to the fulminate, she set them inside and triggered Transmutation, focusing on constructing casings for her pistols.
+
+The metal and fulminate rushed together, forming nearly two hundred casings. Scooping them up, she placed them in the other barrel. With that, she focused on the finished product, burning Transmutation to make her bullets.
+
+Her mana dropped, and bullets coalesced in the barrel below. Grabbing the magazines, she filled them, loaded the guns, and raced back into the barracks as the ground trembled.
+
+Grabbing some leather armor, she burned Transmutation, shifting it into a backpack. Shoving her knapsack inside, she ran back into the forge. Holstering the guns, she tossed the bullets in the bag and grabbed the spear. The entire building shook, and she froze. “Aika?”
+
+“Get out. Fast. Back door.”
+
+The barracks groaned, and Kindra bolted to the door. Shoving the crossbar aside, she pushed the door open and poked her head out. The ground shook, and she shot out of it, running out the door and into the small alley.
+
+Vaulting over corpses, she darted to a nearby cottage, her shoes sticky with blood and gunk. The street was covered in it. The ground shook, and she leapt.
+
+Grabbing the roof of the nearby cottage, she scrambled up it and laid against the tile. Please don’t let them see me. Peering out, she saw a group of undead swarming. A large grub was burrowing towards the barracks, and Aika flew above, swinging her spear down whenever anything jumped.
+
+“I’m outside, on a roof.” Searching the village, Kindra frowned. There are no good hiding places… Maybe the wall? She looked at the portion that remained. Squinting, she peered off into the distance and saw the fallen undead. Several streets filled them, and a soft stream of mana flowed toward her. Aika’s been busy.
+
+“Can you level?” Aika asked.
+
+“Yes. Worth it?”
+
+“Yes. I need to be faster.”
+
+Kindra nodded and willed mana through her body.
+
+[Your mana has increased: 184 → 209.]
+
+[Your mana has been reduced: 209 → 119.]
+
+[Your level has increased: 4 → 5.]
+
+[Your intelligence has increased: 6 → 8.] ‎ [Please select four attributes to increase.]
+
+Kindra frowned and looked at the undead. I need to get out of here. She looked back at the options. “ Hey, system! Give me the rundown on dexterity and speed! How does that correspond to strength?”
+
+[Speed increases the speed at which your nervous system functions and the speed of muscle recovery. Yes, this includes brain function, perception, and reactions. Dexterity increases flexibility and motor skills. Strength improves general strength and endurance. The three often work in tandem. A balanced approach will yield the best result if engaged in strenuous physical activity, but there is room for some specialization.]
+
+She paused and then picked speed and dexterity. Please let that help me here.
+
+[Your speed has increased: 4 → 6.] ‎ [Your dexterity has increased: 2 → 4.]
+
+Kindra smiled and nodded. That helps. That helps a lot. She willed the text away. “Aika, you may want some dexterity.”
+
+“Already picked it. I don’t want to get hit again.” Aika zipped across the air and landed on Kindra’s stomach. She laid down. “What’s the plan?”
+
+“Kill things and try to find a place to sleep. Maybe I can make something if I save mana.” Kindra frowned. System, where’s my ability?
+
+[This level granted an ability to your familiar. You won’t always get them.]
+
+Kindra looked at Aika. “What’d you get?”
+
+Aika looked at her and smiled. “I now get attributes when you do. So, if you buy them or level, I get to pick them too.”
+
+“Oh. Nice. Hmm. Should I do it? Five mana doesn’t seem like as much now, but I sort of need it for spells.”
+
+“I say we use it to get one or two. We need to kill undead.”
+
+“Fair enough.” Kindra focused on her mana. System, how much is the next one?
+
+[You may purchase two attribute increases at this price. It will then increase to ten and then fifteen and then twenty… You get it.]
+
+Oh. Kindra bought two.
+
+[Your mana has reduced: 119 → 109.]
+
+She paused and debated. Do I try to get more durable? It’s not exactly the way we came out on top. We did that by fighting unfairly, and one of these will help me aim and dodge. She dumped both into dexterity.
+
+[Your dexterity has increased: 4 → 6.]
+
+Aika stood. “I’m going to get back to it. Try to make your way to the wall.” She zipped down the road, her little spear blurring around her.
+
+Kindra stood and checked to make sure that her things were secure. Creeping to the edge of the cottage, she leapt to the next one, landing lightly. Dexterity is handy. She crept across the roof and ducked low, the backside of a large cow coming into view.
+
+Pulling back her spear, she stabbed, slicing a line across its back. A burst of light exploded, and the cow kicked, knocking the spear upward. Pulling it back, she slammed it down, slamming it onto the cow and dropping it to the ground.
+
+Nearby undead turned, and a blurring fairy shot through them, her spear flickering like lightning. Light cascaded like golden showers, and a mob chased her down the street, stumbling and smashing into buildings.
+
+Gods. She’s a little terrifying. Kindra grinned, slamming her spear into a dead dwarf and running. Hitting the end of the roof, she jumped and landed lightly. Those stats do give a nice little boost.
+
+Pausing, she swung her spear, slicing through the undead in the road. They dropped, and she turned her focus to the wall. Up that lane, down that one, climb the rubble there.
+
+Standing straight, she ran down the rooftop, slicing into undead on her way by. The ground trembled, and her hair stood on end. Shit. Forgot about him… What do I do about a massive grub?
+
+Hitting the intersection, she shoved her spear down and used it to vault over the gap, soaring over the heads of the undead below. Pausing only to slash through them a couple of times, she turned and ran down the street, jumping the gaps between cottages and quickly racing up to the wall.
+
+We did it. I can make a longer spear, and —
+
+Her thought died. Dread coursed through her body. A presence turned its focus toward her, an ancient presence, just like the one on the ship. Every hair on her body stood on end, and her breath billowed, creating a fog.
+
+“Kindra, come back to me,” an ancient voice whispered through her mind.
+
+Shivering, Kindra jerked back. No. No. No. Turning, she looked into the distance and saw something that looked like the sun. Magic radiated from it. No. Not again.
+
+Her jaw trembled. “Aika. We have to go. Now!”

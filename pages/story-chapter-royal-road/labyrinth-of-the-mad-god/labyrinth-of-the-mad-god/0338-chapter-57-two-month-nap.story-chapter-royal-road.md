@@ -1,0 +1,135 @@
+---
+id: 3e510033-d0dc-53f0-9697-0170c9120e1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57: Two-Month Nap"
+slug: 0338-chapter-57-two-month-nap
+partOf: labyrinth-of-the-mad-god
+position: 338
+ownLength: 2789
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3844644/chapter-57-two-month-nap"
+royalRoadId: "3844644"
+---
+
+Nick groaned and opened his eyes, wincing as they adjusted to the sunny blue skies that met his gaze.
+
+He was a little stiff from being immobile for a prolonged period, but his evolved muscles showed no signs of atrophy as he sat up and took a long look around. He wasn’t on Xuthu’s mountaintop or in the Emerald Expanse. Instead of skeletal trees or rocky heights, barren fields stretched on for as far as his eyes could see—studded with the scattered silos, barns, and abandoned farmhouses in the distance.
+
+He remembered Fritz’s words and sprang to his feet, scanning his surroundings for danger while searching for his friends. He didn’t see any familiar faces, but he wasn’t alone either. He drew Blightbane in a single motion and started casting spells when his gaze landed on a stranger seated beside a firepit, a slender man with bright yellow skin and spiraling horns.
+
+The man yelled when he saw Nick move, showing his empty hands while opening some room—nearly tripping over the log he’d been sitting on in his haste to get away. “Where are they?” Nick growled as a pair of Mana Darts winked into existence and began orbiting his head. “What have you done with my friends?”
+
+The stranger’s expression radiated a paradoxical blend of relief and alarm that would have been amusing under other circumstances. “Don’t hurt me! I’m on your side. Thank the gods you’re awake.”
+
+Nick was about to demand answers at the point of his sword when a familiar figure darted into view. Lurk came to a skidding stop beside them, staring at him with her slit-pupil eyes. The dino, who was considerably bigger than before, looked worried but didn’t seem to view the man as a threat. She grunted and gestured dismissively before walking over to lick Nick’s face.
+
+“I’m glad to see you too, girl.” He turned to the stranger, sheathing his sword as his darts kept circling. “Start talking. Who are you, and where are Bandit and Kenji?”
+
+“My name is Yarren,” the man replied. “We were separated three days ago. Your friends rescued me from the castle Xuthu captured. I’d been hiding in the basement since the quarantine zone came online, trapping me inside. You’ve been unconscious for over two months, and I’ve been travelling with your party the entire time.
+
+“We were hunting Ban-Li while waiting for you to recover, but Zora beat us to the punch. The Death of Dreams has defeated the Swarm King and the Walking Conflagration. It absorbed both dreadbeasts, growing far more powerful in the process. It knows you subsumed the other monarchs and has been hunting you ever since, eager to reclaim the energy they possessed.”
+
+By now, Nick had calmed down enough to listen closely, gesturing for Yarren to take his seat as he continued his tale. It turned out that the final dreadbeast hadn’t only been hunting Nick—it was also completing its preparations to escape the dungeon, whether it found him or not. Zora had devised a ritual that could dispel the wards protecting the library, which was a receptacle for thousands of bloodline gems gathered from around the globe.
+
+The dreadbeast intended to absorb them all, ascending and evolving before bringing down the barrier surrounding the quarantine zone. The ritual was nearly complete—a matter of hours if Yarren’s estimate was correct. The emerging situation had forced the party to intervene, and they’d seen no sign that Nick would wake up anytime soon.
+
+They had established a base of operations in one of the farms ringing the metropolis in the middle of the zone, which was the royal capital of the empire controlling this continent. While they were approaching the library to assassinate the monarch, Zora’s minions caught wind of their presence and converged in a shadowy swarm.
+
+The party was overwhelmed and was forced to retreat. Along the way, Kenji and Bandit were cut off and trapped in the sewers—besieged by the Death of Dream’s forces while the dreadbeast finished the ritual and claimed the library’s riches. Lurk was too big to follow and had no choice other than pull back and help Yarren guard Nick’s body.
+
+“They’re in trouble,” Yarren concluded, “but we’re all going to die if Zora absorbs the bloodline gems in the library. The monarch is nearing the thresholds of Tier 3 and Grade C after consuming its kin. If it devours those gems, we won’t have any chance of stopping it.”
+
+“I need to rescue Bandit and Kenji first.”
+
+“There isn’t time! I’m linked to those wards. They are crumbling and could fail any minute. Besides, the monarch’s troops are summoned constructs. If you defeat Zora, you will save your friends too. When you launch your attack, I’ll head down there and back them up. I already learned the hard way that I’m too weak to take on the Death of Dreams.”
+
+“You had better not be lying.”
+
+“I’m not. I swear. I’ll die too if the monarch prevails, along with my people and the whole fucking world. Ask the dinosaur. She’ll tell you I’m playing you straight.”
+
+When Lurk nodded, Nick knew Yarren was telling the truth.
+
+“Shit.” He patted Blightbane’s hilt. “It seems we have one more dreadbeast to kill before the day is done. Yarren, I appreciate the information and look forward to speaking at length. What kind of magic does the monarch use, and where it the bloodline library?”
+
+“Head straight down the main highway, through the southern districts, and toward the palace in the center of the city. Once you pass through the second gate, turn left. The library is a gigantic building made of green crystal. You can’t miss it.
+
+“Zora manipulates emotions and summon Nightmare minions. Its Concept is centered around feasting on fear, but it absorbed Fenrir’s and Ban-Li’s magic too, granting its army a shadow aspect, and acquiring a range of fire attacks. Guard your mind and don’t fall for its tricks. All dreadbeasts are fearsome fighters, but this one isn’t a melee specialist, which should help you bridge the gap between your levels if the stories I’ve heard are true. Good luck, and may the gods guide your blade.”
+
+Nick forced himself to take a few deep breaths despite his desire to rush in and save his friends. He called on Arctic Clarity to ice over his roiling anxiety, facing the crises with a level head. Then he turned to the dinosaur looming beside him.
+
+“How about it girl, ready to kick some ass?”
+
+Lurk spread her jaws by way of reply, letting loose a furious roar the sent leaves raining from the treetops. He was getting ready to boost his speed with Force Acceleration and run alongside her, but she surprised him by leaning down and gesturing for Nick to approach. He realized she was wearing a saddle and asking him to mount. He wasn’t sure what to make of the development, but he was too worried about his friends to hesitate.
+
+He leapt into the saddle, and she took off in a flash, reach to a speed that was almost a match for his own. Her magic felt similar to his movement-enhancing ability, but he sensed both force and lightning mana thrumming through the mix—electricity arcing across her body that set his skin atingle.
+
+While they weren’t as dramatic as his recent changes, Size Up informed Nick that Lurk had grown considerably more powerful since he’d last fought by her side. On top of a ton of levels and ability ranks, she had learned several spells and ascended to Tier 2. She couldn’t tell him what her Concept was, but it clearly involved lightning, force, and brutal melee attacks. She looked like the wrath of thunder incarnate and he was glad she was on his side.
+
+Judging by their speed, it would take about an hour to reach the city walls, then another twenty minutes to arrive at the castle jutting from the center of the capital. He needed to come up with a plan before they arrived, so he split his attention, using one corner of his mind to work on the problem while the rest dealt with other matters.
+
+Nick had a ton of free points after gaining so many levels. He hadn’t been able to advance his abilities in the Blade World, but he had learned a great deal regarding their mechanics and could rank up most of them within a matter of days. His companions were in danger, and every second was precious, but he should be able to improve one power before they reached the walls.
+
+First things first. Let’s spend those points. Before he made his decision, he pulled up his profile to examine his attribute distribution.
+
+Attributes
+
+Strength: 25 (78)           Dexterity: 25 (89)          Toughness: 25 (97)
+
+Mind: 25 (100)                Creativity: 25 (85)         Charisma: 18 (46)
+
+Magic: 25 (140)              Psi: 18 (63)                      ???
+
+“Fuck me!” Nick hadn’t fully processed how much he’d grown until he saw those numbers on the screen. Most of his attributes had doubled, and some were closer to triple their prior value. He had mixed feelings that most of those gains had been made possible by the Crimson Blight, but he’d acquired Blightborn at the risk of his soul, so he’d earned them one way or another.
+
+What mattered was he finally felt like had what it took to defeat powerful Tier-2 opponents. I might even be able to give that Tier-3 spider at the Hall of Heritages a run for its money.
+
+He wasn’t sure what was best over the long-term, but his gut was telling him this fight would ultimately be decided by whose Concept prevailed. While his mental attributes improved Devour to a degree, Magic was a larger component, so he put all nineteen points into it without hesitation.
+
+Power coursed through his veins as his channels widened, his core expanded, and his mana grew denser, making his Devour more potent than ever. He laughed when he realized that while it was intense, spending that many free points wasn’t overwhelming, revealing just how monstrous his recent growth was. That would have incapacitated me before.
+
+Next, Nick considered taking some tests of mastery, but he was too distracted by the impending battle. He wasn’t in the right frame of mind to give the trials the consideration they deserved, and he couldn’t afford to fail. Instead, he took stock of his supplies. When he looked inside his backpack, he saw he was down to a single low-grade mana potion, which meant his friends had been dealing with ordeals of their own while his mind was in the Blade World.
+
+That left him with one final matter to attend to before he devoted every neuron to the impending showdown with Zora the Death of Dreams. I have time to advance one ability, but which is my best bet? After mulling the matter over, he decided to go with Force Armor, since it was the power he planned to use his final token on as long as all three upgrades were good.
+
+He took a deep breath and concentrated, reviewing everything he’d learned about the aura during the three-way war as the capital grew large in his view. He considered the complex weaves of mana—how they flowed from his core, through his channels, and out from his fingertips to take their final form. He pondered the best ways to use it, everything from preventing all damage to surviving mortal blows and everything in between.
+
+Before long, his understanding crystalized and assumed a new depth, and a message from the System appeared.
+
+Congratulations. You have deepened your understanding of Force Armor and cleared the requirements to advance this ability to Rank 2.
+
+Would you like to look at the upgrade options for Rank 2 now?
+
+Nick confirmed the prompt and eagerly began to read.
+
+You may alter the ability in one of the following ways:
+
+That’s perfect. “I’d like to use my token and obtain up all three upgrades,” he addressed the System while pulling the item out of his backpack.
+
+The token ignited in a shower of sparks, drawing on the System’s power to enable all three upgrades on the list. He experienced the accompanying vision, memorizing everything he witnessed to analyze when he had time to spare, although he could already tell that studying the construction would deepen his understanding of the fundamental laws of magic.
+
+When the galaxy-spanning AI finished carving an astonishingly intricate series of alterations into his ability pathway, Nick gathered his will and cast the upgraded spell for the first time. An sophisticated matrix of mana flowed out from his core—all three types he could freely control plus light and darkness, which he hadn’t learned how to free cast yet.
+
+The sheets of force were far thicker, and as advertised, a fair portion of the energy was drawn from the world around him, making the cost lower than before even though it was formed from significantly more mana. Force Armor spread across his body and gear while encasing Lurk from head to toe.
+
+The magic was weightless and so flexible he couldn’t feel it at all. Before, it had been translucent, like a slight heat distortion in the air. Now, Force Armor shimmered—filled with living whirls of shadow and light.
+
+Lurk grunted her approval, happy to have heavy armor to protect her massive frame, with some energy resistance as a cherry on top. Shortly after his magic took hold, they arrived at the outer wall surrounding the city’s outskirts. The barrier had been breached in multiple places. Half the towers were toppled, and the main gate was missing completely, evidence that a brutal battle had been fought at this site before the city fell.
+
+Due to the nature of Zora’s magic, there wasn’t any way to hide their approach. The duo opted for speed instead, racing down the main boulevard toward the castle looming large against the horizon. Nick was certain they would be ambushed before long, but the closer they came before the dreadbeast’s army converged, the better their odds of breaking through before they were overwhelmed.
+
+Thanks to his high Mind, he could watch for danger and consider his environment at the same time, having finalized his plans several minutes prior. It was amazing to examine the capital of a thriving alien civilization, even while its residents were away. He set his PDA to record everything for his people to contemplate later, pleased to discover Force Armor protected the device when it was hovering nearby.
+
+Entire blocks had been reduced to rubble and signs of struggle were everywhere, but most of the city was more-or-less intact—a testament to the materials that went into its construction and the ingenuity of engineers that had incorporated magic into their profession millennia ago.
+
+Before long, he spotted his first minions. A pair of shadowy rodents were watching from a nearby rooftop. When a wave of killing intent washed over him, he knew the monarch was watching their eyes. He didn’t react, revealing as little as possible while he analyzed the dreadbeast’s Concept.
+
+The energy comprising the constructs felt different from Bandit’s Shadow Flame and Bret’s darkness magic—hungry, malevolent, and cruel. It wanted him to be scared, and the moment he gave into its fear, it would devour him whole. The rats’ forms were grotesque and twisted, like something straight out of a delirium dream.
+
+“That must be how Zora feeds,” Nick spoke to Lurk and Fritz. “Those Nightmares consume energy and bring it to their master, but their prey needs to be terrified first. Size Up is warning me that they can still dish out some devastating physical attacks, so we should save fighting for a last resort.”
+
+By now, there were hundreds of vermin following in their wake like a carnivorous cloak. Constructs resembling, cats, wolves, and birds were approaching from all sides, and he spotted several Nightmares in the distance that were closer to elephant size. “We need to go faster. We’re still too far from the library to fight our way through.
+
+The dino pushed her body into a blurring burst of speed, burning stamina while drawing on her Concept as she sprinted for the structure sitting in the palace’s shadow. She left the closest constructs behind, but even still, he knew they had brutal battle in store before they reached the dreadbeast pulling the horde’s strings.
+
+Sure enough, a pair of Lurk-sized Nightmares stepped out from behind a building at the end of the next block, followed by a ravenous tide of lesser horrors. Nick drew his sword and called upon the magic within as the seconds remaining until Zora’s ritual was complete dwindled to triple digits.

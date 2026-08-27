@@ -1,0 +1,83 @@
+---
+id: c8ac04da-3a25-5f43-bc41-a70fa4faff66
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83: Raptor"
+slug: 0124-chapter-83-raptor
+partOf: labyrinth-of-the-mad-god
+position: 124
+ownLength: 1598
+unit: words
+publishedAt: 2025-01-27
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2033180/chapter-83-raptor"
+royalRoadId: "2033180"
+---
+
+The beasts’ ambush took place in the blink of an eye, offering no warning of their presence until the moment their attack began.
+
+A pair of tooth-lined jaws were poised to close around Devin’s head. Another set of claws was lashing out, ready to gut Veronica from navel to sternum. Not to mention the set that were inches away from tearing out Nick’s throat.
+
+If this attack had occurred before their lengthy training session, the party would have taken serious injuries in that moment, or even lost their lives. But thanks to their newfound proficiency with their weapons, they were able to survive those first few seconds.
+
+The bad news was that they were surrounded by a pack of bipedal lizards the size of donkeys. They came surging straight for Nick’s team before he could get a better look, although he caught a flash of scales and angular faces.
+
+He threw himself out of the way at the last possible moment. The beast’s claws sliced strips free from the leather of his coat instead of ripping out his jugular.
+
+Meanwhile, Veronica leapt back to open some distance. Her wrist-mounted crossbows unfolded with her mental command, and she took aim before her feet hit the ground. She fired both shots at her assailant, one of the missiles glowing green as she activated acid bolt.
+
+Both missiles plunged into the creature’s scaly torso. It hissed and reared back in pain, creating an opening while V darted back in. She lashed out with a set of bone claws, magic weapons tearing into flesh with ease. They carved a series of gouges that started spraying out blood as she injected her anticoagulant poison.
+
+For his part, Devin reached for his weapon but made no move to get out of the way. The beast’s jaws closed around his face… teeth shattering as they encountered his transparent helmet. The creature pulled away in confusion while screaming in pain as the man’s axe came up, taking his opponent’s head clean off.
+
+The beast in front of Nick circled round and darted in low, ready to press the attack. But he had already unholstered his wand and taken aim, using the new setting to narrow the cone of force into the tightest spread he could make. Despite the seriousness of the situation, he was curious to see what was about to happen.
+
+He pressed the trigger, and a wave of force erupted out the other end, so intense that it distorted the air in passing. On top of the wand’s upgraded power, the effect was stronger since it was concentrated in a smaller area. The magic caught the creature in the chest and sent it flying, slamming into the trunk of a tree with the crackle of shattered bone.
+
+Nick was about to cry out an alarm, but he saw that it wasn’t needed. The rest of his party was already falling into formation with weapons at the ready, dodging several more attacks along the way.
+
+No one had been wounded by the beasts’ ambush, but that was the extent of the good news. “I think they’re dinosaurs.” Devin raised his shield to block another blow. “They kind of look like velociraptors.”
+
+When Nick caught a break long enough to take a closer look, he decided that Devin was right. The beasts in question did look a lot like raptors.
+
+They were lean for their size and powerfully built, running on two legs that were designed for long leaps and short sprints. Each of their hands ended in razored claws. The reptiles had amber, split-pupil eyes, and wedge-shaped skulls. Hulking jaws filled with wicked teeth. There was an alertness to their gaze that gave him the impression that the dinos were significantly more intelligent than the average beast.
+
+When he tried sizing them up, he learned that while each creature was a powerful combatant, the raptors’ true strength came from hunting as a pack. It seemed that they were in for a team versus team battle, and a hard one at that.
+
+“No fire, explosions, or smoke.” Nick issued orders while driving a beast back with the tip of his blade, using a move from one of Rita’s katas. “Nothing that will make a loud noise or can be seen from the air.”
+
+There was a fierce exchange of blows as both groups began feeling each other out, probing the other for weakness while trying to catch them off guard.
+
+The party wouldn’t have been able to hold their own if it wasn’t for the intensive training they’d undergone before setting foot onto the floor. But with their radically improved weapon skills, they were able to meet the beasts blade to claw and come out on top.
+
+The dinos were agile, perceptive, and worked well as a team, but his party had better reach, stronger abilities, and superior defense. On the other side of the scales, the creatures had them outnumbered, had superior physical attributes, and were fighting on terrain they knew well.
+
+Even still, Nick thought that his party could win if they were able to go all out.
+
+They were able to kill four of the raptors in a matter of minutes. The problem was that the pirates were prowling the skies above. Team Earth couldn’t take the time they needed to fight the dinos at their best, relying on their strategies and strengths. They couldn’t afford to blow through their mana or stamina either.
+
+They needed to find a way to end this fast, then get to better cover before the airships spotted them and converged on their position. An occurrence that became likelier every second they spent battling below the treetops instead of lying low.
+
+Half their abilities were out of the running, since they would alert the pirates to their presence. Even still, they were making far too much noise, and the motion of the battle would be visible if any ships came sailing overhead. We need to disengage and get out of here while we still can.
+
+They caught a break when one of the dinos overextended itself after trying to push its way past Devin’s shield to rake his throat with its claws. When it tried, Sophia hit it with throwing knives, sinking the blades into its chest before they returned to her outstretched hands.
+
+While the beast was distracted from the painful wounds, Devin leaned in and chopped out its throat with his axe, dropping the dino as blood began pumping out of its ruined neck. Shaun drove another back with a pair of arrows, although the simple weapons couldn’t do more than scratch the beast’s thick hide.
+
+For his part, Nick landed a mana dart on the closest creature, stunning it long enough to lash out with his sword. The dazed dino tried to dodge, but it couldn’t get away in its condition. His blade caught its arm, severing it at the shoulder.
+
+The other raptors stopped attacking long enough to tear their wounded members to shreds, gnawing them down to the bone within a handful of heartbeats. It gave his team enough time to reposition, moving the fight to an area where the cover was thicker.
+
+Even still, they couldn’t afford to stop and kill them all. There were far too many raptors, and every second they battled increased the odds of the pirates realizing that something was going down.
+
+Sophia took advantage of the opportunity to summon four of her frost venom wasps, sending them flying just below the canopy. Able to track the pack from the air, the blue bugs revealed the location of the dinos ahead, making it easier to avoid them. When the beasts tried to charge, the wasps drove them back with dive-bomb ambushes, taking pressure off the party as they fought to open some distance.
+
+This marked the start of a running battle. Nick and his team pressed deeper into the forest covering this corner of the ground level, under constant threat from the ships patrolling above. On three separate occasions, they were attacked by a fresh pack of dinosaur-like beasts—two more groups of raptors and a swarm of little carnivores about a third their size.
+
+The creatures were tough, but the party was holding their own for now. The problem was, they couldn’t just stop and fight whenever they were attacked. Most places lacked adequate cover to conceal their presence, and the sound and motion of combat would draw eyes from above if it continued for long.
+
+Instead, they battled just long enough to break away, conserving as much energy as possible. Nick’s team took some injuries in return, but Veronica was able to heal them with her upgraded acid bolt, which Devin had started calling vampiric bolt. She only had a few doses of her stamina potion left, which they were saving for an emergency.
+
+On top of everything else, they had to be careful not to destroy the trees, start any fires, or mark up the ground, which would allow the pirates to home in on their location. The corpses of the beasts were a problem too. At least the bodies wouldn’t last long—the rest of the dinos would see to that.
+
+The need for stealth made an already stressful situation that much more frantic, ratcheting up the tension until they were jumping at every shifting shadow and creaking branch.
+
+“We need to find somewhere to lay low,” Veronica said after eviscerating a raptor that was leaping down from the branches. “This is going to end in disaster if we stay out in the open much longer.”

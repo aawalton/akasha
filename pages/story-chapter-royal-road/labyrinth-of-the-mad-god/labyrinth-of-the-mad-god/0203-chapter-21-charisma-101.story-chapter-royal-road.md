@@ -1,0 +1,145 @@
+---
+id: 8ae38283-a21f-5750-9976-6fe9ccaa0982
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Charisma 101"
+slug: 0203-chapter-21-charisma-101
+partOf: labyrinth-of-the-mad-god
+position: 203
+ownLength: 2139
+unit: words
+publishedAt: 2025-08-01
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2484694/chapter-21-charisma-101"
+royalRoadId: "2484694"
+---
+
+By this point, Nick was only four or five days away from the lake in the middle of the Bladewind Badlands.
+
+After comparing the map he was drawing in his journal to the recordings from his PDA and the landmarks he’d spotted from orbit, he was confident that he had finally wrapped his head around Earth’s expanded scale.
+
+While his journey had been pleasant and his training sessions were bearing fruit, he was eager to meet up with his friends and the other members of Team Earth.
+
+He figured that the reason they hadn’t run into anyone yet, even though they had come across plenty of signs of that people were passing through the biome, was everyone was headed for the heart of the badlands, following the same instinct as Liz and himself.
+
+Since their reunion was only a few days away and he wasn’t too worried about his friends’ safety, he just tried to use his time wisely and enjoy himself along the way. Although his homeworld was far more dangerous than before the System’s apocalyptic arrival, after his survival tutorial and the quest to climb Darkstone Tower, crossing the Bladewind Badlands felt like a much-needed vacation.
+
+Best of all, he didn’t have to make the journey alone.
+
+After Nick broached the issue, Elizabeth didn’t seem to be trying to manipulate him anymore. She only laughed at his jokes when they were funny, and didn’t hesitate to speak up if she disagreed with one of his ideas.
+
+He knew that since her Charisma was so much higher than his own, she could probably control the impression she made so well that he would never know it if she wasn’t being sincere. While he genuinely enjoyed her company, it made him hesitant to trust her completely, although he knew the situation wasn’t her fault.
+
+Everything he had seen led him to believe that Liz was a decent human being, but he had no way of knowing if she was playing it straight or playing him. Nick supposed that his high Mind would be equally intimidating to most people, since he could now divide his attention several ways at once and rarely forgot what he saw.
+
+Regardless of whether he could trust her or not, Elizabeth was a valuable resource—someone he hoped he could rely on once Rebuilding Civilization began. They had agreed to do whatever they could to help each other grow stronger in the short term, including training their skills, advancing their abilities, and conditioning their attributes.
+
+Nick had shared what he had learned about boosting his baseline attributes, with a focus on Mind, Creativity, and Magic. In exchange, she told him everything she had figured out about increasing her Charisma, using it effectively, and guarding her emotions from its influence.
+
+First, Liz had him reread the entry he had recorded in his journal.
+
+Charisma
+
+Charisma is the attribute governing social aptitude. Baseline charisma can be increased through complex social interactions, taking the perspective of other people, and engaging in risky encounters with social components.
+
+Charisma Includes
+
+Empathy: The ability to read the emotions and intentions of others—to sense when someone is hiding something or lying.
+
+Influence: The ability to exert and resist psychological pressure.
+
+Allure: The ability to make one’s words and actions appealing to others.
+
+Put simply, Charisma determines how easily you can understand the perspective of other people, how to speak and act in an appealing manner, and how effectively you can pressure people into doing what you wish.
+
+To clarify, Charisma is not a form of mind control, but an enhancement of the natural social skills shared by all members of your species.
+
+“So,” Liz began. “I’m sure you’ve heard of metacognition—the idea that you can become aware of, learn about, and restructure your own mental processes. You’re so analytically inclined that I’m sure you’ve been using it your whole life.” Nick nodded his agreement.
+
+“Now you need to transfer components of the cognitive skillset you’ve developed to your emotional and social skills too. Let’s go through each component one at a time, then I’ll answer any questions you might have. Empathy is your emotional intelligence. It helps you understand where someone is coming from—most notably, how they are feeling and why.
+
+“Each person’s lived experience is different, so there isn’t a one-size-fits-all approach, although most of us have a lot in common, like facial expression, tonal shifts, and nervous ticks. To develop empathy, you need to learn how to read these signs to suss out someone’s emotions and not assume they will respond to a given situation the same way you would.”
+
+She has really thought a lot about this. Liz’s approach is more analytical than I would have guessed, although it sounds like intuition is important too. Nick paid close attention as she continued her impromptu lecture.
+
+“Expressions, mood, and attentional patterns. Presentation, environment, and emotional projection. Where someone looks, and in which direction they guide a conversation. Any of these can help clue you in to what a person is feeling behind the mask they present to the outside world. Moving beyond empathy, everything I mentioned is useful for developing the other aspects of Charisma too.
+
+“Influence is your ability to get people to do what you want—to feel what you want them to feel and think what you want them to think. Empathy is the cornerstone that makes influence possible. Once you understand what someone is feeling and why, you know what buttons to press and when to step back and get out of the way.
+
+“Human beings are social creatures, and simple peer pressure works in a lot of cases. But there are countless other ways to get people to do what you want, and the best will leave them thinking it was their own idea the entire time. It’s the difference from external and internal motivation, but we can talk more about that after you master the basics.
+
+“Allure can mean a lot of things, from simple sexual attraction or friendliness to exhibiting leadership qualities. It generally involves acting in line with someone’s preexisting expectations, although knowing when to violate them is important too. If you can separate what someone thinks they want from you from what they really want, you’re halfway there already.”
+
+By now, Nick was completely absorbed by Liz’s explanation. The information wasn’t just about the Charisma attribute on his profile—it was teaching him about fundamental human behavior and his own psychological processes.
+
+“It might sound counter intuitive, but most of what I’ve outlined can be accomplished without lying or even being particularly deceptive and subtly will open far more doors than a heavy-handed approach. Being a charismatic leader is taking the same skills we use to make friends and climb the social ladder and applying them to shape individual and group behavior.
+
+“Let’s see. What else is there? Most of what I’ve described happens on an unconscious level, so most of these techniques are effective to some extent even when someone knows you’re using them. To resist them, you need to flip the script—become aware of what someone is trying to get you to do, along with how and why. Just because they push your thoughts and feelings in a certain direction, doesn’t mean you have to let it determine your behavior.
+
+“Training Charisma is a bit more involved than simply having effective social skills, in that conditioning it works best when you are in a risky situation. Unlike the other attributes, it doesn’t have to be risk of pain or death, but if you want to raise your Charisma, you need to have something to lose. I think that’s enough for now, but I’ll try to come up with some more examples and exercises to illustrate each topic and help increase your social awareness.”
+
+With that, she concluded her lecture, and he took his turn, sharing some details of Creativity and Mind. Liz’s explanation gave Nick a lot to think about as the miles rolled by. Under her tutelage, he was able to condition his Charisma for the first time.
+
+While he mulled the matter over, he pulled up his profile to check out his recent gains.
+
+You have deepened your emotional and social awareness and improved the following baseline attribute:
+
+Charisma has increased from [7] to [9].
+
+Through use, you have improved the following skills:
+
+Foraging has increased from [12] to [13].
+
+Light Shield has increased from [16] to [17].
+
+Size Up has increased from [14] to [15].
+
+Tracking has increased from [3] to [5].
+
+After witnessing Nick’s success in conditioning his physical and mental attributes, Liz tweaked her daily routine, making rapid progress past that point.
+
+They had intensified their sparring sessions too, although he had to be careful—even when using a wooden practice blade he’d carved while travelling. They were fairly evenly matched in technique, since she had spent more than a month sparring with Ken plus a two-week training reward while climbing the tower, but right now, his physical attributes were multiple times higher than her own.
+
+She should start closing part of the gap after she evolves to Grade-D. It was an event that wound up happening sooner than either of them expected. Liz was fishing in the river, and Nick was scouring the banks for edible plants when a message from the System appeared.
+
+They both stopped what they were doing and began to read.
+
+System Message: Species Evolution.
+
+Congratulations. Your people have accumulated sufficient species experience to trigger a species-wide evolution to the next grade.
+
+This transformation will occur in 24 hours. It is recommended that you find somewhere safe and remain there until you become accustomed to the changes that are about to ensue.
+
+Upon reaching Grade-D, humanity will gain the following upgrades:
+
+After reaching Grade-D, you will become eligible to develop unique techniques based on your latent potential and natural talents.
+
+Upon reaching Grade-D, all of humanity will granted a milestone bonus of +1 to 2 physical attributes of their choice (This is not cumulative with your personal milestone bonus).
+
+“Hell yes!” Nick let out a cheer while Liz danced with delight. This was something he had known would happen eventually, but he was thrilled that the rest of Team Earth would be gaining some serious upgrades before Rebuilding Civilization began. The diamond reward took us most of the way there, and all these challenges and events must have pushed us over the top.
+
+Nick had already undergone his own evolution moments before the final battle for the Fate of Earth, but this was still a major moment that was worth celebrating. He kept on reading with a smile on his face—thrilled to see that the next part applied to him too.
+
+As part of your diamond reward package from the Fate of Earth quest chain, the following geneline traits will be automatically enhanced, changing their behavior in the following ways:
+
+Fucking awesome. Versatile and Awakened to Magic had been huge for Nick at the start of his adventure, boosting his attributes across the board when he was still level zero. But those points were only a slim fraction of his current values, and those geneline traits had been starting to feel obsolete. With the new bonuses that came from being enhanced, the traits would be useful no matter how powerful he became.
+
+Gaining skills faster is going to come in handy, and more mana is always nice. Gift of Tongues was always flat-out amazing, but that upgrade will be a massive asset to humanity a little further down the road.
+
+As nice as these upgrades were, the best was yet to come.
+
+Additionally, your species will acquire a new geneline trait (which will also be enhanced).
+
+Please read through the list included at the end of this message and then vote for the trait of your choice.
+
+The end of the first round of voting will occur in: 12 hours. People who miss this deadline may still participate in the final round.
+
+The top three picks from round 1 will be included in the final round of voting, which will end when the evolutionary event begins—at which point the winner will become a permanent part of your geneline.
+
+Finally, at Grade-D, your species is eligible to unlock an additional attribute. This is one of the most important decisions for a newly evolved species, so make your selection carefully.
+
+For this selection, the attribute that receives the most votes will win. There will be no second round.
+
+The vote will end when the evolutionary event begins, at which point your existing traits will be enhanced and the new attribute and trait will be activated for all members of your species.
+
+Again, it is recommended that you find somewhere safe before that happens.
+
+A countdown clock has been added to your profile for your convenience.

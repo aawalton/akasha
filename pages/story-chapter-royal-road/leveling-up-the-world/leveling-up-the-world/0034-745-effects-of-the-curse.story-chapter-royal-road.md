@@ -1,0 +1,169 @@
+---
+id: 0187f09d-3c6b-582b-bd34-adb22265312f
+page-type-slug: story-chapter-royal-road
+title: "745. Effects of the Curse"
+slug: 0034-745-effects-of-the-curse
+partOf: leveling-up-the-world
+position: 34
+ownLength: 2015
+unit: words
+ownProgress: 2015
+publishedAt: 2023-05-16
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1215290/745-effects-of-the-curse"
+royalRoadId: "1215290"
+markedReadAt: "2026-06-29T22:41:20.411Z"
+---
+
+Sunsets were always pleasant in Dallion’s realm. Lately, this was the only place he had to himself. Here he could rest, train, and spend time with his echoes, guardians, and companions. Sadly, this was also a place in which he could see reminders of those he’d lost.
+
+“First Gleam, now Nil,” Dallion said, looking at the bridge remains that once had connected the main part of his realm to the Vermillion’s islands. “Sometimes I wonder who will be next.”
+
+“It better not be me,” Vihrogon said, joining him at the edge of the cliff. The being was the dryad guardian of the armadil shield. Once a sword marshal and high ranked member of the dryad army, he now was nothing but a companion armor banished, never to set foot in the real world again. “You’ll find them, eventually. Both of them.”
+
+“I won’t find Nil.”
+
+“True, but in a way, the original can’t be too different from the echo.”
+
+Dallion shook his head.
+
+“Hey, I’m still a companion gear, remember? I know I’ve been slacking for a while, but hey, I have a lot of free time now that you’re mostly using magic.”
+
+“I’m not in the mood…”
+
+“I see that. Losing your mentor and father figure is always a blow, no matter how you try to cushion it. Using music on yourself was a nice touch, but that’s temporary.”
+
+“Don’t go there.”
+
+“I know, I know. It’s no secret that talking to you right now is pointless.”
+
+That was an understatement. The loss of Nil had caused Dallion to relapse into his distrust of the world. It didn’t help that he was serving people he strongly disliked. On the surface, there was little change. On the contrary, many would say that Dallion had grown, taking on important roles, succeeding in missions that battle mages failed. In truth, there was a lot lurking in his mind, which was apparent to everyone within his realm.
+
+“Two words,” Vihrogon said. “Awakening trial.”
+
+“Sure. I couldn’t complete it before. What makes you think I’ll manage now?”
+
+“Who knows? Despite everything, you’ve a bit smarter now. Besides, passing it is not a requirement. Just having it might be enough to shove you in the right direction.”
+
+Reality shifted, bringing Dallion back to his room. Some would consider it rude to exit a realm during a conversation, but then again, it was his realm, so he could do pretty much anything he wanted in it.
+
+Dallion made a step towards the table, when a sudden chill passed through his body.
+
+Damn it! He thought as all warmth was drained from his hands and fingers. Not again…
+
+All color faded away, plunging his surroundings into grayness. Whatever strength he had was gone. Even the Moonstone hidden in his realm could no longer provide him with magic. All time stopped, locking Dallion in a single frame of life—cold, alone, and powerless. However, it was now that the bad part began.
+
+It always continued with someone from his past. There was no logic to determine who or when the curse took place. The only thing certain was that the intensity kept increasing. At first it had been the nightmares, then the cold that accompanied them. Now Dallion was torn out of time, left to experience living hallucinations.
+
+“Missed me?” a female voice said.
+
+Dallion feared that his nightmare would be related to Eury again. Instead, when the figure gained solid form, he saw that it was a fury.
+
+Jiroh, he thought.
+
+That was exactly something the Moons would come up with. The real Jiroh no longer existed in the world. After years of searching, she had finally managed to find a way to her own. Dallion had been with her when it happened, getting himself pulled in by accident. Since then, he’d seen her a few times more, always in dreams. As tempting as it was to think that the Moons had granted him a chat with his friend, he knew that this was merely the face of his torture.
+
+“You’ve lost weight,” the fury said. Each sound she made split the air, slashing Dallion’s skin like a razor blade. “Guess you haven’t been eating well with all those attack missions you’ve been on.”
+
+Blades of air slashed through his arms and chest, leaving the clothes covering them intact.
+
+Just get it over with, he thought, incapable of moving a muscle.
+
+“You’re like that? A slap on the wrist before you can run off to do what your heart desires. That’s not how curses work.”
+
+Cuts covered Dallion’s legs. If time wasn’t frozen, he would have fallen over by now, lurching on the floor in agony.
+
+I tried to find the reason! He wanted to scream. There are so many reasons. It takes time to go through them all.
+
+The fury shook her head. Walking a full circle around him, she then stopped next to him, passing her hand over his cheek.
+
+“I know you have. And I sympathize. But the price must be paid. The more you delay, the greater the pain interest.” Dozens of new wounds formed beneath Dallion’s clothes. “That’s an interesting phrase, don’t you think? Pain interest? You could have stopped it at the very beginning. Then again, maybe you wouldn’t have. Even after all this is over, you won’t do a thing. You’ll just cast a few spells, have Lux hide your wounds, then continue as nothing had happened, telling yourself that the next few weeks would be pain free.”
+
+The fury stepped away. Sparks passed through the white cloud matter that composed her clothes.
+
+“This time it won’t be so easy.” She looked Dallion in the eye. “I know the real reason you want to go to Nerosal. There was a time when I would have approved of it. Now, though…” Bolts of lightning shot out from her hands, striking Dallion in the face.
+
+Everything went black, leaving only the pain.
+
+“Since it’s you, I know you won’t try deliberately to hurt her,” Jiroh continued. The cutting pain throughout Dallion’s body intensified. “Maybe you’ll manage to pull it off. Maybe you’ll manage to pull everything off. Just don’t become like my hunter mentor. Is that clear?”
+
+“Yes!” Dallion said, collapsing to the floor. I’ll—”
+
+Time had returned to normal. The colors were back, along with the ability to control his own body. As all the times before, the effects of the curse had come to their end. Only the pain remained.
+
+Breathing heavily, Dallion cast a quick pain relief spell. It was alarming how well he’d gotten at doing it.
+
+Layer by layer, the agony was peeled off until only numbness remained.
+
+“Lux, Gem,” he whispered.
+
+Without needing to be told twice, the firebird moved the bladebow out from its spot at the weapons rack and onto Dallion. Blue flames surrounded it, healing any wound it came in contact with. Moments later, the aetherfish also appeared, casting its own set of healing spells.
+
+It’s over, Dallion thought.
+
+Life is painful in the fast lane, Vihrogon said from Dallion’s domain. Maybe we should have finished that talk.
+
+It took less than a minute for Dallion to get healed. The mental pain lingered for a bit longer. A large part of him agreed with everything that had been said, and yet he couldn’t do anything about it. Showing weakness would compromise his position within the Academy, and if he was weak, there’d be fewer things he could achieve. Katka had all but told him to prepare for the vortex expedition. The stakes were high enough that both sides preferred to banish high-level vortexes without getting anything for it, than letting anyone else have it. There was a very good chance that a mage fight would break out.
+
+The numbness faded away after another ten minutes. The only traces left behind were the blood that had soaked Dallion’s clothes. Unlike normal nightmares, the curse had progressed to the type that left a mark. In the past, that would have been awkward, but thanks to spellcraft and a quick gesture of the hand the bloodstains were gone.
+
+Gearing up, Dallion packed his backpack, then took the thread splitter and his crafting hammer. Looking at the larger weapons, he hesitated, but ultimately decided to take them as well. His plan was to remain incognito in Nerosal, after all.
+
+Just as he was about done, there was a knock on the door. The problem was that the knock came from inside.
+
+“So, you really plan to go there?” Katka asked. She didn’t look particularly pleased.
+
+“It’s the city where I met Adzorg,” Dallion lied. “With the countess gone, it’ll be safe to look around a bit. Maybe I’ll find a few clues. How did it go with the lieutenant?”
+
+“A lot of promises were made. He even took a squad of mages.”
+
+Dallion arched a brow.
+
+“Don’t worry, I didn’t give him the best. Didn’t give him the worst, either. Don’t want to have them dropping like flies.”
+
+Now that they were under her command, Katka was untypically concerned with the wellbeing of the mages. The real reason was the unofficial ongoing competition between battle mages. Since Katka only gained her title thanks to the archmage, she had a lot to prove. Thanks to Dallion, she was doing a pretty good job so far.
+
+“He told me a lot of interesting things, most of them lies. Just like you’re doing now.”
+
+“Was I lying?” Dallion Ticked the armadil shield between his back and the backpack.
+
+“I’ve no idea why you’re going to Nerosal, but it isn’t to hunt down Adzorg, and it isn’t to reminisce about old times, either.”
+
+Dallion remained silent.
+
+“I don’t know what you’re really after and I don’t care as long as you don’t mess up the bottom line. So, will you?
+
+“No plans for that.”
+
+“Good.”
+
+“There’s a favor to ask, though.”
+
+Katka crossed her arms.
+
+“It’s nothing major. I can’t tell you yet. Not until I get back.”
+
+“So, that’s how it is? Better not press your luck. If I don’t like it you won’t have it.”
+
+“Fair enough.”
+
+All set up, Dallion opened the door.
+
+“Talking about favors, Cheska was made top apprentice.”
+
+Dallion felt a slight shiver. He’d had a talk with the girl, making her promise she wouldn’t stand out. Apparently, the promise was as worthless as marsh air. It was always a long shot that a prodigy like her stopped showing off. Attracting, though, was a sure way to get her recruited to the battle mages, and that was more than Dallion could bear. It was bad enough that so many of them were practically teens.
+
+“No surprises there,” he tried to appear calm. “Did you snatch her for the cause?”
+
+“Tried to, but someone beat me to it. She’ll be helping with actual magic research. Boring, but it’ll keep her off the front. Thought you might want to know.”
+
+Dallion nodded. Was Katka trying to be nice to him?
+
+“Just one last piece of advice. I’d suggest you stop by Lanitol first, preferably a few more cities on your way to Nerosal. The province belongs to the Archduke Lanitol now. That’s what the emperor has decreed.”
+
+“That’s what the people must see,” Dallion added. “Do you want me to spend a few days partying with him as well?”
+
+“That’s your business. Don’t make cracks, don’t make waves. Although, if you do, we’ll have your back.”
+
+The Academy always takes care of its own, Dallion thought. If he wanted, he could destroy a whole neighborhood and still not get punished. It had happened before and more frequently than people thought. Such power terrified him; being able to wield it—ten times as much.
+
+No cloud waited for Dallion as he left the building. The vast majority had set out on patrol or conducting new missions. Only a red cloud was there, like a smattering of blood in the sky. Thankfully, that was no longer his problem. Right now, all he had to do was arrive in Nerosal safely and see a few old friends.

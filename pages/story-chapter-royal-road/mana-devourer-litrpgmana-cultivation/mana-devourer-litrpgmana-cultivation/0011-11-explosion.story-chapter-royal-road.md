@@ -1,0 +1,189 @@
+---
+id: 869096c5-e291-52bc-86de-378639835a27
+page-type-slug: story-chapter-royal-road
+title: "11. Explosion"
+slug: 0011-11-explosion
+partOf: mana-devourer-litrpgmana-cultivation
+position: 11
+ownLength: 3638
+unit: words
+publishedAt: 2024-07-02
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1701881/11-explosion"
+royalRoadId: "1701881"
+---
+
+Markus felt the air slicing right past his shoulder, but the blade never made contact. With an explosion of pain and power, he forced the goblins away with intangible, spiritual force, a white-blue energy emanating from him as he clutched his axe hard, fresh blood leaking onto the handle.
+
+[Mana Capacity at 366%. Overcharge, E Grade is in effect. Growth increased. All physical stats temporarily increased by 75. Physical damage resistance increased.]
+
+[Mana Poisoning II is in effect.]
+
+He stared out at the five targets before him, all of them frozen, inert, watching to see what he’d do next. The injured sword user still stared dead at him, but it wasn’t just hatred in his eyes, no. Not anymore.
+
+There was another feeling in there, one that grew with each passing moment as Markus began to close the distance between them. Now it was his turn to advance, theirs to shy away, to back up, to brandish their weapons wildly in an attempt to deter his hellmarch.
+
+Markus had started off limping, but he soon managed to stand tall. His injuries barely affected him in this state. They still hurt, they still throbbed, they still itched and burned beneath his skin, but the pleasant, stimulating, thrumming warmth of mana flowed through him at full tilt, guiding his motions and giving him clarity of vision, confidence in his gait.
+
+His heavy, deliberate steps crushed the sand below. He was no larger than life, yet a monster of gargantuan proportions in the face of these pitiable beasts.
+
+They swung and stabbed forth with such forlorn intensity, such maddening whines. They sensed the danger, backing up continually even as they continued to try and keep Markus at bay, huddling in a tenuous attempt at a battle formation.
+
+None of this deterred Markus. He could see their attacks for what they were now. Untrained. They’d used their weapons far more than he ever had, yes, but they were still clumsy. Slower than he’d been with the glaive. Moving aside to dodge a sword swing or the poke of a spear was rudimentary at this point. Almost effortless.
+
+Still, dealing at four weapons thrusting in his direction at once was still difficult. When another rock sailed past his head, this one just barely missing due to a split-second reaction, he instinctively responded, chucking the hand axe straight at the far off goblin with the slingshot.
+
+His weapon travelled about ten feet before embedding itself directly in the creature’s chest.
+
+He fell in an instant. There would be no survival, no miraculous return to his feet. One strike was all it took.
+
+He’d given up his weapon. It didn’t matter. Markus had a thousand other ways to make the remainders’ defenses crack.
+
+Shield user was heading up the middle of their formation, which made the most sense, the two polearm users standing at either side a small distance behind and continually thrusting with their spears. The four of them were stood in something almost akin to a V formation, the leader pressing his right arm into the chest of the goblin beside him and encouraging them to keep backing up.
+
+Markus attempted to draw out the Flame Mana within his body. He was still clumsy, still having difficulty with selecting specific mana types to use, and when he attempted to focus his Flame Mana on a point and ignite one of the specific goblins, he found that having a point in Pyromancy didn’t just give him the power to spontaneously combust things.
+
+Well, at least not yet.
+
+So Markus settled for a different method. He attempted to use Manifest for the first time, drawing the Spirit Mana out of his body and attempting to form it into a shape, something long and sharp, resembling a blade or a stick or a poker, an instrument he could use to break up their formation, to make himself an opening. He continued to visualise as he walked, imagining his desired extension of Spirit as best he possibly could and attempting to bring it into the waiting world.
+
+When the object first began to form within his hand, he found it to lack a handle, a shape, a curve, any delineating feature that might mark it as a distinct object, that might give it purpose. As it stood, the object looked something akin to a plain blue quarterstaff, its shape uniform as it lengthened, its colour a consistent, shimmering blue all the way along, complete with white rings that circled its length over and over as it continued to grow in length.
+
+Markus shifted his focus over to Empower. He gave the makeshift weapon a test swing as he began to coat the surface of the ethereal staff in an orange glow, markings both spreading and radiating in each direction of the conjured weapon and warming Markus’ hands. It felt light in his hands, lighter than a baseball bat. Lighter than his glaive. Attunement didn’t apply here. This weapon was an extension of him. He understood how it moved.
+
+There was a collective ‘what the fuck’ on the face of the goblins. They stood their ground, weapons stilled, ready to deflect his strikes as in the background, the announcer went through his latest bout of losing his damn mind at the spectacle unfolding before him.
+
+The crowd seemed to have changed their tune. The cheers and cries of excitement from above were overwhelming—Markus put them out of mind. Stored them for later. Removed them from his focus.
+
+All that mattered now was advancing. Surviving. Winning while he still had mana to spend.
+
+Markus swung forwards with all of his might. Sparks and licks of flame alike danced through the stifling air, roaring upwards as his weapon collided with the middle goblin’s shield, staggering him and shaking all four of them in turn.
+
+He could feel the reverberation coursing through him, but he stayed the course, retracting the weapon and reengaging with a lunging thrust, one leg extended, power and momentum coalescing even as he focussed the tip of his conjured staff into a red-hot tip.
+
+The sparks that flew as the staff collided served as ample kindling, the wooden shield on the goblin’s arm catching flame. He waved his arm madly as he struggled to detach the large slab of wood from his arm, disrupting his comrades as Markus swung forth again, smacking the same goblin again in his sword arm and causing him to drop his weapon, staggering backwards and howling as the flames along the shield continued to spread, threatening to melt his flesh any moment as still he fought to detach it with no arms to do so.
+
+Markus stared at the spreading flame, feeling intention rising within his body as he focussed the same energy he could feel dissipating from the staff after his second strike, retaining the feeling while he still recognised it and aiming it directly at his last point of impact.
+
+The rate of the spreading flames doubled, a roar erupting from the shield as the wood split and frayed, the goblin screaming and throwing himself to the sand below, desperately attempting to douse his shield.
+
+Markus ran forwards the moment their formation was broken. He focussed the leftmost goblin first, this one with a poleaxe, smashing the long staff into its side and then uppercuting the goblin’s chin with the staff’s backend, closing the gap between them in moments and sending the monster flying.
+
+Markus felt a spear strike him in the right arm once more, and immediately felt the weapon he held in his hands dissipate.
+
+Earlier, he might’ve panicked. Now, he grabbed the wooden pole sticking out of his arm before it could be retracted and snapped it in half.
+
+A speartip embedded in his right arm, at least three other stab wounds littering his body, various cuts and scrapes and bruises forming even as he continued to defiantly march forwards, the glowing aura still pulsating and bleeding through his pores even as he bled into the sand, Markus must’ve looked like a fucking nightmare.
+
+He felt like one. He didn’t take pleasure in the suffering of the goblins, but he almost wanted the fuckers to get back up. He wanted to show what came of taking him so lightly.
+
+What he did to every goblin here today, the lengths he’d go to in order to win this, he wanted that to echo through the minds of every sick, terrible creature that thought to torture or torment him, a reminder that while so many might dwarf his power, while so many might make him look weak and helpless now, he would only grow stronger, and he would only get better.
+
+And while Markus survived each horrific encounter he was thrust into, while he learned from his mistakes and devoured his enemies and consolidated his strength, he’d remember the ones who put him here…
+
+And they’d be lucky if they weren’t [Devoured] next.
+
+Markus punched the goblin to his right, swinging a left in a narrow arc. He heard a crunch, watching the goblin hit the floor as Markus adopted a boxing stance, left foot behind him.
+
+He felt weird, strange, unorthodox, but even with the regeneration and pain reduction flowing through him from Overcharge, he’d still been stabbed in his right arm twice. He couldn’t rely on it for power now, so he was a southpaw until further notice.
+
+That was fine. There was such power even behind his lefts right now that he floored these creatures with almost every strike. Overcharge was no fucking joke.
+
+Not only that, but as Markus swung for shield goblin, who’d finally sprang to his feet and charged him, left arm looking slightly mangled, he realised that his fluidity of movement was only increasing the more time he spent on throwing these punches. He was improving as he went, adjusting to the change in his agility, tanking yet another grazing slash against his torso before kneeing the offending goblin in the face, sending the creature flying back to the dirt.
+
+Pain exploded from his right leg as soon as he did so, and he had to fight to remain balance. He took a couple more slashes as once again he focussed power into his punches and concentrated on trying to take the creatures down, but the more he attempted to repeat the process, the more they kept getting back up, and the more Markus began to wonder what would wear down first at this rate, the four enemies he was fighting or his mana reserves?
+
+He could take more punishment, but he needed to be able to give some back out. A good thrust from one of these goblins could still be lethal, and even if they were a lot slower than him, it was difficult to dodge multiple attacks at once when stood around sand.
+
+Markus decided to change his approach, attempting to coat his knuckles in mana. Manifest created small protrusions at the end of his knuckles as he poured focus into the prospect. They weren’t spikes, he apparently couldn’t be so exact yet, but they at the very least seemed solid.
+
+When he punched with them, he’d expected it to hurt pretty badly, but if anything, it cushioned the blow against what were surely broken knuckles by now. More than that, however, was the effect, a concussive blow that seemed to knock the first goblin he struck silly, allowing for an easy follow-up, and then allowed Markus to take the second one out with a single punch to the chin.
+
+Two down, looking they wouldn’t get up for a minute, Markus singled out a third, the goblin with the burnt, broken shield, charing him and piledriving him to the ground.
+
+He ignored the uncomfortable crunch below him as he drove his fingers into the goblin’s neck, choking and stabbing his fingers into his flesh simultaneously as the creature latched on and attempted to throttle him in turn, claws scratching in final, fitful jolts as the life was forced from his eyes.
+
+Markus managed to drain a little from him and select [Devour] before he returned to his feet, having only spent moments executing the creature.
+
+As the new power flowed into him, Markus felt a stick smash against the back of his neck. He gasped, sucking air through his teeth as he turned to find the sorry culprit.
+
+It was the goblin whose spear he broke earlier, the one whose metal tip was still embedded in his arm. Markus stared at him. Raised a finger at him, as if he were about to reprimand a child.
+
+Then Markus punched him. The creature once again went flying backwards as Markus continued to rub his pained neck.
+
+It was almost laughable, but this one minor injury hurt more than any of the others. Maybe it was because he hadn’t expected it. Maybe because he’d discounted that goblin from the fight already, disarmed and seemingly out cold.
+
+The other two were still rising to their feet. One the leader, still injured, the other the poleaxe user, using his weapon to help raise himself to his unsteady feet.
+
+He thought Overcharge would make this fight easy. He thought this fight was meant to be easy in general. A showcase of power. More like a showcase of struggle. Overcharge might’ve turned the fight in his favour, but each second of this battle was grueling, even with many of the enemies dead or out of commission.
+
+And these things were pretty relentless. He almost respected the drive these things had to keep going, to stand up over and over no matter how many times he put them down. They must’ve been hoping they could wear him out eventually. He wasn’t gonna let that happen, though. Not while he still had a say in things. All he needed to do was single another one of them out and—
+
+Poleaxe swung past his face, almost giving him a triple-close shave. This weapon looked sharper and shinier than the other gear the goblins boasted, and he didn’t wanna get nicked by the blade, so Markus attempted to once again yank the weapon away from the offending goblin, placing both hands on the pole, but the creature pulled back with such force that it threw itself back to the floor, causing the weapon to slip from Markus’ grip and cut both of his palms on the way out.
+
+The goblin barreled back with his momentum, rolling, but before he could find his feet again, Markus was behind him. A kick to its head pushed it back into the sand, and two more kicks followed by a single stamp solidified the goblin’s defeat.
+
+As Markus turned to face the leader, the goblin kicked sand in his face.
+
+He was immediately blinded, unable to defend himself as the goblin stabbed him directly in the thigh with his short sword and immediately barreled into him, driving him to the ground and pounding his head against the floor beneath repeatedly, biting a chunk of flesh from his cheek as it dug its fingers into his neck, intent on crushing the life out of him once and for all.
+
+This was fucked. He was going to die. He’d made one fucking slip-up and he was going to die! Markus kicked and thrashed with all of his might, but it was all too soon ebbing, and with the size of the creature and its pressure on his chest his legs couldn’t find any purchase. He attempted to move his arms up, to find a spot to drain the goblin from, but he wasn’t going to be able to drain the thing faster than it choked him out.
+
+Markus attempted to wrap his arms around its back, to simply crush it with his enhanced strength, but even when he squeezed with all of the death-defying strength he could conjure, he could barely do more than force a strangled crunch! from the goblin’s ribs.
+
+He needed to break its grip. His thoughts were slowly fading. He needed to break its…
+
+He bit the creature right back, right on its chin, causing it to flinch back just long enough that he could snake his right arm from where it was pinned and grab its left with both his slippery, bleeding hands. He attempted to prize its hands apart, but its focus was too great, its determination too single-minded to give up its endeavour even as he pulled it from his neck with all of its might…
+
+He barely got seconds of breath, only able to break its hold for moments at a time, his neck raw, his gasps pained, laboured, and above all infrequent.
+
+If he couldn’t stop it from grabbing him again every time he pushed its arm away…
+
+Then he’d have to take its arm.
+
+Markus focussed as much of his mana as he still could into his bleeding hands, seeking a means to pierce the goblin’s arm. His world slowed as he desperately attempted to coat his hands in energy, to bolster his grip, to pinpoint an area around the elbow that would allow him to pull at full force without slipping, without allowing the strength to fade from him entirely…
+
+Markus closed his eyes. He was playing tug of war for his life, heart, and soul. Everything he’d ever known and cared about were on the line. Dreams, thoughts, wishes, emotions, all of them drifted by in the miasma of intangible nothingness that gently beckoned him past the epoch, that told him to let go, that told him he didn’t need to worry and fight anymore, that he’d bled enough, that this next breath could be his last…
+
+Markus pulled. He pulled with the scream spilling out from his soul, for his lungs couldn’t carry it, with a bellow that shook the foundations of peace, for even in strangled silence, his spirit was unfathomably loud.
+
+And the world trembled. Heaven’s gates closed. He tugged with all of his might, and above him, Markus heard a sickening snap.
+
+His body flung back into the sand the moment the goblin’s arm dislodged. It stared at him in abject horror, attempting to move its dangling appendage, but seeing an opportunity, Markus moved faster, took advantage of its distraction, forcing the goblin off of his chest and smashing it into the floor.
+
+It attempted to swing for him, but he beat it with more intensity than it could muster, his heart a war drum, lungs igniting with sulfuric heat as he gasped and panted for breath, his very existence a testament to the will of man.
+
+He beat and smashed the goblin with his fists, even through the pain of his broken knuckles, but when the fucker still wouldn’t die despite his many concurrent blows, when it still attempted to claw and bite at him with every spasmic motion of its beaten body, Markus ripped the flailing arm from its side and drove the appendage into his face, able to use his full strength now that his body wasn’t the conduit, smashing the goblin with its own arm over and over in a fervent expression of vitriolic irony, for they’d sent him here unarmed, and now he was very much armed indeed.
+
+The death gasps of the goblin leader were punctuated by bludgeoning strikes from its own broken, mangled, severed arm. Markus leant over him, body littered in wounds, looking as if he might die or ascend to Valhalla at any moment, as the crowd clapped and cheered and roared in satisfaction.
+
+“Yeah?” Markus coughed the word out. He could barely speak. His voice was only scarcely being held together by the tendrils of overwhelming mana. “You like that, you sick fucks?!”
+
+He raised himself to a sitting position, bathed in crimson, looking over the battlefield, staring out at what he’d done.
+
+There was a chance he’d die to these injuries. Even Regeneration surely had its limits. He stuck his fingers to the throat of the dead goblin beneath him, attempting to drain some residual mana from his body, poisoning be damned. He hoped he could at least get something to stem the tide of his many wounds. He [Devoured] the creature’s core, too, just to be thorough.
+
+His focus was broken by the sound of the final goblin scurrying up beside him. It was the one whose spear he’d broken. The one he simply punched away earlier.
+
+It stood holding a short sword, one he must’ve picked up from one of his dead comrades.
+
+He looked at Markus. He poised his body, as if he were ready to strike.
+
+Markus simply stared at him, raising the dead goblin’s arm as he did so.
+
+The little goblin held that position for roughly three seconds, not moving even a single inch, Markus doing the exact same.
+
+It dropped the sword, then ran as far as it could in the opposite direction, crouching and covering its head with its hands as the crowd laughed and jeered.
+
+Markus sighed a laboured breath as the announcer took over, his complete victory having been finally declared for all the rabid, screaming onlookers above.
+
+Good thing he looked so terrifying right now. He was pretty sure one good hit would’ve been all he needed to do him in for good.
+
+Hell, even a bad hit probably would’ve done the trick at this point.
+
+He saw a digital image of himself projected up high, though he could barely make it out through the blurring of his eyes.
+
+He looked as if someone had painted half his body red. He felt as if he’d been ran through a woodchipper.
+
+If I survive my injuries, I’d better get a fucking good reward for this.
+
+Markus would survive his injuries. And he would get a fucking good reward.

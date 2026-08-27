@@ -1,0 +1,153 @@
+---
+id: 85b916fc-9ac9-5147-b5d6-4744eeece651
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51: Enter the Black Wind"
+slug: 0332-chapter-51-enter-the-black-wind
+partOf: labyrinth-of-the-mad-god
+position: 332
+ownLength: 2088
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3752166/chapter-51-enter-the-black-wind"
+royalRoadId: "3752166"
+---
+
+One second, Nick was watching the dread storm with a deep and rising foreboding.
+
+The next, his world was enveloped by black wind, a howling darkness that went far beyond the mere absence of light.
+
+A heartbeat later, the impenetrable gloom was pierced by a blinding torrent of sickly green lightning, as Xuthu’s Concept cut through another on its way to the ground. In his fugue, Nick was slow to process the unexpected development, and the scorpion was fixated on the spear of stolen energy that would restore it to full strength in the blink of an eye.
+
+That left both man and dreadbeast blindsided by what happened next.
+
+Shrouded in a mantle of midnight gale, a streaking shape came sailing in at breakneck speed, positioning itself between the scorpion and the life force it had drained from the biome.
+
+“No!” The Storm Lord cried, but it was already too late.
+
+A gigantic brown bat took the strike instead. When the lightning infused the creature with power instead of stealing it away, Nick put the pieces together. He was gazing upon Vashir, the dreadbeast monarch known as the Black Wind.
+
+“You pathetic fool,” Vashir taunted Xuthu. “You never realized I could use your storm against you, but you’re dim and that’s only to be expected. But to have been critically weakened by your prey? You must be mortified, how delightful. As much as I love to play with my food, the clock is ticking. It’s time to put an end to your meddling, consume the other monarchs, and escape this prison once and for all.”
+
+The scorpion screamed in impotent fury, firing lightning from its body that the bat evaded with ease. Xuthu tensed its legs, preparing to fling itself into the air, but Vashir was overflowing with vital energy and made its move first.
+
+A thousand blades of onyx wind lanced from its position—air and darkness mana so thick Nick could taste it in the air. Even standing in the periphery, the party was struck by several spells. Bandit and Lurk were wounded, although nothing that cut too deep.
+
+Xuthu took the barrage head-on.
+
+Golden chitin shattered and ichor fell like rain as the dreadbeast weathered a furious bombardment by the Black Wind. By the time the bat discharged the excess magic flowing through its channels, the scorpion was in bad shape. The dreadbeast was down two legs and one claw, and its exoskeleton was riddled with branching fissures.
+
+The airborne monarch savored its moment of triumph, circling while cackling in glee. Nick’s mind sense told him Vashir was planning to dive down and consume Xuthu, and doing so would require prolonged physical contact.
+
+Knowing the end was near, the Storm Lord played its final ploy. As it happened, every dreadbeast could drain its prey directly, and the scorpion had been saving the move to score a finishing blow. It burned its remaining stamina to power an explosive burst of speed, flinging its body toward the person who had the most energy to steal.
+
+Xuthu landed beside Nick and struck in a flash.
+
+He tried to get out of the way while bringing his buckler to bear and activating Force Riposte, but the dreadbeast was simply too fast. The monarch bent down and bit his leg, penetrating aura, armor, and flesh in turn.
+
+Before Nick had time to scream, the scorpion started drawing vital energy and essence from his body, along with the very fabric of his soul. Whatever had shielded him from the lightning wasn’t sufficient to stop the effect. He screamed as his life force was ripped from his channels and drawn into Xuthu’s maw.
+
+He tried to fight back, commanding his essence to Devour in turn, but his newly born Concept wasn’t strong enough to defeat the Storm Lord’s direct touch. He felt himself slipping away, mere seconds from taking his final breath.
+
+“Stab it with Blightbane,” Frit’s voice echoed inside his head. “Hurry!”
+
+Nick didn’t see how that would help, but he trusted his friend. Summoning the last scrap of his strength, he slid the Legendary blade into a crack in the monarch’s carapace and pushed as hard as he could.
+
+A bare instant before his heart beat its last, something incredible occurred.
+
+He had been wielding Blightbane for months, to the point where the sword felt like an extension of his arm. He knew it had been forged to contain the Crimson Blight, an all-consuming entity capable of remaking solar systems in its image. He had not, however, understood the mechanism by which Blightbane went about that task until this very moment.
+
+The sword wasn’t merely the lure the Kastillans used to trap the blight’s core in a cage. Blightbane was the cage. The blade was a prison designed to contain energetic beings in the most literal possible sense, a cage match of souls where the king who dwelled within the Blade World could gradually wear a detainee down.
+
+The blade was severely damaged when Nick found it, unable to fulfil its original purpose. Over the course of his adventures, he had restored Blightbane to its former glory. Thus, when the Legendary sword pierced Xuthu’s energetic core, Fritz was able to activate the artifact’s unique ability.
+
+To the astonishment of everyone assembled, the giant scorpion was dragged kicking and screaming into Blightbane’s inner world, frantically flailing before vanishing without a trace.
+
+Dead silence reigned as the dread storm dispersed like the memory of a bad dream. Nick, Bandit, Keji, Lurk, and the Black simply stared at the patch of stonework where Xuthu had stood.
+
+The silence was broken when the bat shrieked in primal rage. “How dare you steal my prey! Claiming Xuthu’s essence was my path to devouring the monarchs and consuming this world. Give it back!”
+
+In the fastest move Nick had ever seen, the monarch dove for his position. Some primal instinct—the culmination of all the training, experience, and skills he’d obtained—guided his hand as he pointed Blightbane at the dreadbeast in the instant it struck. A half-inch before the bat’s jaws closed around his throat, his weapon pieced its core, and the Black Wind was sucked into the sword.
+
+“I can’t handle two of them. I’m going to need some help.”
+
+Nick had just enough time to hear Bandit say, “Holy fucking shit. I don’t think anyone saw that one coming,” before his consciousness was drawn into the Blade World, where the Last King of Kastilla and two enraged dreadbeasts were waiting.
+
+***
+
+When his boots hit the ground, Nick found himself standing in a part of the Blade World he’d never seen before—a battlefield where the Legendary sword and the soul that called it home it had pit their might against the Crimson Blight for centuries or more.
+
+This was the true nature of Blightbane’s inner world.
+
+His eyes widened with wonder and adrenaline flowed through his veins as he beheld a grassy plain stretching out beneath a violet sky. In the distance, Xuthu and Vashir were recovering from their abrupt change in location. The Storm Lord had stolen a slice of Nick’s vital energy before being drawn into the Blade World, restoring a portion of the damage it suffered from the Black Wind’s barrage.
+
+The scorpion had arrived before the bat. It recovered first, unleashing a torrent of dread lightning that ripped health, stamina, and mana from Vashir’s body, along with a chunk of its essence. The big bat was in better shape, but the balance between them was far more even than before, which meant neither monarch was in a position to finish the other in a flash.
+
+Nick needed to join the fray, but he was hoping to have Fritz by his side before he made his first move. Where are you, my friend? He learned the answer when he turned around, where a stone fortress was perched atop a rocky hill. He sensed it was the bastion housing the warrior’s soul, a place where Fritz could rest between battles with the Blade World’s prisoners.
+
+The portcullis lifted and his ally appeared. The Last King of Kastilla was garbed for war, and that wasn’t the only surprise. Fritz had lost most of his powers in the material world, but here—a realm where strength of will and sense of self were made manifest—he was just as strong as he’d been in his prime.
+
+“Badass.” Nick broke into a broad grin. While he wasn’t sure what to make of this situation, he was certain of two things. The dreadbeasts were about to learn why Fritz was the undisputed ruler of his people, and he would face this ordeal with a champion by his side.
+
+“This place wasn’t designed to confine two powerful souls at once.” Fritz came to a stop. “I couldn’t defeat them alone. Fortunately, there’s plenty of room, and they seem just as intent on destroying each other as battling us.”
+
+“We can’t let them devour each other,” Nick replied. “We need to be the ones who strike the killing blow.”
+
+Before he set off to begin a brawl like nothing that had come before, he glanced at the screen that was waiting patiently in the periphery of his vision.
+
+By pushing yourself to the limit in the midst of battle, you have improved the following baseline attributes:
+
+Psi has increased from [15] to [18].
+
+Toughness has increased from [24] to [25].
+
+For reaching the Grade-D attribute cap in Toughness, you have been awarded with 5 additional points of Toughness.
+
+Magic has increased from [24] to [25].
+
+For reaching the Grade-D attribute cap in Magic, you have been awarded with 5 additional points of Magic.
+
+Creativity has increased from [24] to [25].
+
+For reaching the Grade-D attribute cap in Creativity, you have been awarded with 5 additional points of Creativity.
+
+Mind has increased from [24] to [25].
+
+For reaching the Grade-D attribute cap in Mind, you have been awarded with 5 additional points of Mind.
+
+Congratulations. You have consolidated your Concept and ascended to Tier 2.
+
+Concept: The Devouring Blade.
+
+Only you can discover your Concept’s nature and unlock its potential.
+
+For being one of the first 100 members of your species to ascend, you have been granted a milestone bonus of 10 free attribute points.
+
+Your active ability slots have increased from [2] to [4].
+
+Your passive ability slots have increased [1] to [2].
+
+Additional classes have been unlocked at your next class selection.
+
+You have cleared the requirements to unlock Epic classes at your next class selection.
+
+You have learned to project force blades and developed a new technique.
+
+Sonic Slice
+
+You can combine Heavy Blow and Force Acceleration to fire force blades at supersonic speed.
+
+You have learned to project Devouring blades and developed a new technique.
+
+Severing Slice
+
+You can combine pure mana and Devour to fire a blade capable of rending spells and stealing vital energy.
+
+Note: Techniques are not granted by the System. As a result, they can be enhanced through use but not directly upgraded like abilities and attributes.
+
+Nick realized the massive infusion of attributes had played a role in his ascension to Tier-2, helping him withstand Xuthu’s attacks long enough for his Concept to crystallize. He wasn’t surprised that other people had already ascended. He had been so focused on saving the Earth, rebuilding civilization, and developing himself in other areas that it had taken him quite a while to consolidate the Devouring Blade.
+
+Individuals who had discovered their life’s calling or knew advanced meditation techniques prior to the System’s arrival had a major advantage in this regard. He doubted there were many people who could match him in levels and baseline attributes, and now that he had unlocked two bonuses to energetic manipulation, his abilities were advancing at an incredible rate.
+
+Regardless, those milestone bonuses would provide a critical advantage during the battle to come, as would the Devouring Blade. If I manage to survive this ordeal, there’s a good chance I can hit Level 50 before taking on the other dreadbeasts. I can finally get my hands on an Epic class like the one Taltos stole from me at the beginning of my adventure.
+
+Those thoughts crossed his mind in the blink of an eye. Meanwhile, Nick and Fritz started switching on abilities, casting spells, and moving into position. They were both armed with a copy of Blightbane and could unleash their full potential. The duo reached out and bumped fists before launching their first attack—bound and determined to bring the dreadbeasts down.

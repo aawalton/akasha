@@ -1,0 +1,77 @@
+---
+id: ae3bf540-8d17-5112-afc2-0c2bcf0c8588
+page-type-slug: story-chapter-royal-road
+title: "Chapter 102: Bloody Surprise"
+slug: 0143-chapter-102-bloody-surprise
+partOf: labyrinth-of-the-mad-god
+position: 143
+ownLength: 1862
+unit: words
+publishedAt: 2025-03-12
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2122391/chapter-102-bloody-surprise"
+royalRoadId: "2122391"
+---
+
+At the top of the stairs was an expansive middle deck.
+
+Judging by the voices in the distance, one corridor led to the barracks and galley. The other featured rows of individual chambers. Since they didn’t know which way to go and this part of the ship was filled with enemies, the duo ducked into an empty room and closed the door behind them, listening for clues while determining their next move.
+
+Although it was hard to stay still under the circumstances, eventually, their patience was rewarded. Nick overheard a group of buccaneers talking to each other as they walked past the door. “Now that the wasps are dead, the boss is going to start torturing the prisoners soon. I was hoping to watch the show, but they’re not letting anyone into the brig. Alma nearly flogged Nel to death for trying to sneak down the stairs near the mast to have a bit of unsanctioned sport.”
+
+“That was a lucky break,” Devin whispered once the sound of footsteps had retreated into the distance. “We won’t have to search the whole fucking ship.” Nick nodded as the men started planning out their next move. Now that they knew where their friends were being held, the duo needed to reach them without alerting the crew.
+
+The good news was that magic was everywhere. Pirates were casting spells all throughout the ship, assisting them with one task or another. If Devin and Nick were forced to use some of their abilities, there was a good chance that no one would notice anything out of the ordinary. Better still, the Bloody Surprise was a loud, bustling vessel, which would make it easier to sneak around without getting caught… if no one spotted them on the move. Their primary concern was running into members of the crew while crossing the decks. Their rescue attempt was doomed the moment that a pirate saw them and went running to spread the news.
+
+The next twenty minutes were incredibly tense. The men moved from room to room, observing the crew and sneaking between the gaps in their lines of sight. They were forced to kill another pair of pirates in the process, who were working inside one of the chambers they entered. Nick and Devin cut them down without hesitation and shoved the remains into a storage closet. Then they kept on going, praying all the while that the bodies wouldn’t be discovered and blow their cover.
+
+Through trial and error, the men gradually made their way through the middle of the vessel and found a set of stairs leading to the main deck. Now they just needed to head up there, locate the brig, and rescue their friends.
+
+The problem was that the deck was crawling with pirates. When Nick peeked one eye past the threshold, he spotted dozens of buccaneers surrounding him on all sides. They were going about a range of tasks that kept the airship flying, and if even one of them noticed the members of Team Earth, all their efforts would be in vain.
+
+There was no way that the men could take on over a hundred pirates, let alone Alma, their tier-2 boss. They crept back down the stairs and ducked inside a closet to consider their options. In the end, they didn’t have a choice. It would have been ideal to wait until dark, but even if their friends weren’t being tortured, there was no guarantee that this voyage would last that long. Once the ship landed, the party’s last chance to escape would slip through their fingers.
+
+They decided to disguise themselves, keep a low profile, and hope for the best. Nick had spotted a pile of crates lashed to a section of the deck that had some space between them. It was the only thing remotely resembling cover he had seen, so they planned to head there first, survey their surroundings, then figure out their next move.
+
+Before they were ready to risk it all, they went back and stripped the clothing from the pirates they had killed. It wouldn’t hold up against a close inspection, but it might keep the crew from catching on right away.
+
+Once their disguises were ready, the men waited until a group of pirates started climbing the stairs, then followed right behind them, gambling that they wouldn’t turn around. The duo stepped onto the main deck, ignoring the sunlight shining in their eyes and the brisk wind flowing across their skin.
+
+They walked with purpose, like they were in the middle of a task, wagering their lives that the pirates wouldn’t notice anything out of the ordinary. Heart hammering in his chest, Nick crossed the deck and waited until no one was looking their way. Then the duo ducked between the crates and took a long look around.
+
+There was a vertical band of blue sky to the north, where the outside world was visible through the gap in the tower. Lush gardens climbed the walls to the east and west—emerald framing azure like the border of a painting. In the distance, he could barely make out the far wall. It must have been at least fifty miles away, reminding him just how immense this floor was, let alone the rest of Darkstone Tower.
+
+Nick couldn’t see the ground from here, but there was another big island in the distance and the ceiling ran just a few hundred feet above it. At long last, Team Earth had reached the top of the level, albeit by a means that none of them had imagined, and in a situation that was several steps short of ideal.
+
+Everything else aside, it was good news. If there aren’t any other isles around, the stairs must be on the island above our heads. If the party could make good on their escape, they should be able to exit the level without having to conduct a prolonged search. They needed to break the others out of the brig, steal one of the little ships mounted to the Bloody Suprise, reach the next island, and run like hell.
+
+Eventually, he spotted the stairwell that the pirates had mentioned—the set near the main mast that led to the brig. It was separated from the rest of the ship, likely to make escape more difficult if prisoners managed to break out of their cells.
+
+There were three pirates guarding the entrance. Nick had watched them change shifts, and the men were complaining about being stuck on a cramped landing below, unable to watch what was happening in the brig. Due to some delay that he hadn’t caught the details of, Alma hadn’t arrived yet, so Nick didn’t have to worry about his friends being tortured while he waited to make his move.
+
+“We need to sneak down to the landing, take out the guards, then free the others before anyone realizes something is wrong,” Devin whispered into Nick’s ear.
+
+“When I give the signal, distract them. I’ll handle the rest this time.” The warrior nodded, trusting Nick’s judgement implicitly. All that was left was to wait until no one was looking and then make their move. Adrenaline surged into their bloodstreams as the duo watched in opposite directions. When both men reported that the coast was clear, they darted toward the stairs with Devin leading the way.
+
+Nick gathered his concentration and cast Piercing Ray—glad that he had learned to form the spell while moving. A churning ball of force mana congealed in his hands, turning faster and faster as more magic was added to the mass. A few more seconds, and it would be ready to fire. They started heading down the stairs, just as a nub of pure mana emerged to form the drill bit that would cap the end of the ray.
+
+Three pirates were standing in front of a reinforced door, chatting with each other instead of watching the only entrance to the landing area. They must have heard the duo coming down the stairs, but thought they were members of the crew. By the time they realized their mistake, it was already too late.
+
+By this point, Devin had flung one of the knives that Sophia had given him. His throw missed, since he was still learning to use the weapon, sticking into the wood beside one of the pirates’ heads. “What the hell?” They all turned to look just as Devin activated Blast Striking, producing a miniature explosion that seared their skin.
+
+Before they had time to react, Nick’s Piercing Ray came streaking in from the other side. The rotating band of kinetic energy struck the first pirate in the temple, drilling into his skull and pureeing his brain.
+
+The spell still had plenty of energy and kept right on going. Nick directed it toward the next buccaneer, boring a hole through her heart. He tried to kill the third pirate too, but the man had already leapt out of the way.
+
+He was about to cry out an alarm, but Devin had already thrown his other knife. This time, it landed on target and stuck into the pirate’s neck. The man had just enough time to wrap his fingers around the hilt before Blast Striking kicked in, decapitating him in a bright spray of blood. Devin held out his hands and both magic knives flew into them, rearming him in an instant.
+
+It was a solid start. The first part of their plan had gone off without a hitch. All that was left was to break their friends out of the brig and get the hell off the ship. They stepped onto the landing and got ready to force their way inside.
+
+That was when matters took a decisive turn for the worse.
+
+Before the duo could break down the door, it opened on its own, and a woman stepped through. Nick ran his gaze across his opponent as he prepared to make his move. The pirate had flowing red hair, light green eyes, and a predatory grin. She was wearing light leather armor and stood a full head and shoulders taller than Devin. Other than that, she looked completely human. I wonder if she is from the same planet that Pax is from. The stray thought flitted across his mind.
+
+The woman broke into a broad grin at the sight of them. “It always feels good when a plan comes together. Despite their denials, I had a sneaking suspicion that there were more rats scurrying down here somewhere. Like I always say, it’s easy to catch vermin if you simply lay out some bait. I knew that threatening your friends to draw you out would be easier than opening every crate in the hold and searching the entire ship.”
+
+She looked down at the dead pirates piled beside her boots. “Idiots. I told them to be ready for anything. That’s what happens when you’re overconfident just because you’re riding a warship.”
+
+Then she turned her gaze to the men standing in front of her and cracked her knuckles—self-satisfaction clear in her voice. “The wait is finally over. Now it’s time to have a little fun.”

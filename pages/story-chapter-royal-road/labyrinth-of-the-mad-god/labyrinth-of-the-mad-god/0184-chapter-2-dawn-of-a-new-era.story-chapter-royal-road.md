@@ -1,0 +1,175 @@
+---
+id: 37252750-5048-592f-b7b8-18522071e490
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Dawn of a New Era"
+slug: 0184-chapter-2-dawn-of-a-new-era
+partOf: labyrinth-of-the-mad-god
+position: 184
+ownLength: 2328
+unit: words
+publishedAt: 2025-06-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2372885/chapter-2-dawn-of-a-new-era"
+royalRoadId: "2372885"
+---
+
+When his brain finished booting up, Nick was back in his own body.
+
+He was surprised to discover that he was still floating in space and shielded by a magic bubble. But not too surprised, considering everything that had happened.
+
+Being weightless was incredibly relaxing, and casting his gaze across the limitless heavens was soothing to his soul. The temperature was comfortable, and other than the soft sounds emanating from his own body, utter silence reigned. He wasn’t sure what was going on, but after everything he’d been through, he was happy to have some time to decompress and unwind.
+
+Nick kept the rhythm of his breathing slow and steady, letting his stress melt away and his mind go still while basking in the beauty of the cosmos.
+
+He awoke sometime later—thoroughly refreshed by his zero-gravity nap. Now that his racing heart had calmed and adrenaline no longer coursed through his veins, he reached into his pack and opened his journal, recording the details of his vision while they were still fresh.
+
+By the time he was finished, Nick was ready to begin the next chapter of his adventures.
+
+He was still riding the high of winning the battle for the fate of his homeworld—fiercely proud of the heroes who had fought by his side. No matter what challenges awaited humanity in the new era dawning before his eyes, they had accomplished something extraordinary, and he had taken part in a pivotal moment in his planet’s history.
+
+In order of intensity, he was experiencing the following blend of emotions: He was thrilled to have pried the Earth free from Taltos’s grasp, frustrated to have been teleported mid-kiss, curious to find out what would happen next, and worried about the dangers his people would face now that they were citizens of the Labyrinth.
+
+All of that faded away when Nick turned around and beheld the Earth.
+
+After everything that had happened—all the loss and pain from navigating one life and death situation after the next—this moment made all his suffering worthwhile. He was blown away by the exquisite beauty of the azure planet turning beneath his boots, shining bright against the abyssal blackness of space.
+
+He was able to appreciate the shimmering oceans and majestic continents like never before, thanks to his newly-upgraded eyes. Simply stunning. Nick had witnessed some amazing sights since his journey had begun—wonders that had blown his mind and filled him with the most profound sense of awe. None of them held a candle to the sight of his homeworld.
+
+It was, without a doubt, the most profound moment of his life. And though he would inevitably be swept up in one ordeal or another, for now, for just a few marvelous minutes, he just floated there with tears running down his face. We did it. We really fucking did it. We overcame Taltos’s challenge, and I can finally go home.
+
+Despite the apocalyptic horror of the System’s arrival and everything that had followed, knowing that his people had stepped back from the brink of extinction—that the Earth and every creature who dwelled upon it had a fighting chance of surviving what came next—let all the pressure he’d been under fall from his shoulders, letting Nick breathe easy for the first time since all this insanity began.
+
+While far too many lives had been lost along the way, in the end, the champions of Earth had prevailed. Now they had one year to prepare themselves for the tribulations of the Labyrinth—to rise from the ashes and rebuild civilization—master their new powers and harness the new natural force known as magic.
+
+The story of his planet had opened to a new page, and Nick was ready to do everything in his power to fill it with a bright future for his people.
+
+How long he stood there, floating in orbit while admiring the beauty of the Earth, he would never know. He could see a mountain of updates floating in the periphery of his vision while awaiting his perusal, but for once, the System let him take as long as he needed.
+
+Once the powerful emotions swirling inside him had run their course, he was able to appreciate the changes that had occurred since the last time he had viewed the Earth from on high.
+
+Geography had never been Nick’s strong suit, but he was pretty sure that the continents had undergone some considerable changes while he was away. There wasn’t anything missing, but there were nine of them now, and the rest featured several new additions. In fact, although he wasn’t sure how he could tell, he was certain that the entire planet was quite a bit bigger than before.
+
+In addition to the Earth’s topographical remodeling, there were patches of darkness draped across its surface like strips of velvet, ranging from the size of cities to small countries. When he took a closer look, he decided that the distortions had depth to them on top of their considerable size. They remind me of drops of ink suspended in oil.
+
+Since an opportunity like this might not come again, Nick took out his journal and started sketching, rendering every detail as accurately as he could. When he had finished mapping both sides of the planet, he was ready to look at his menus, which he was pleased to learn still popped up in accordance with his will.
+
+I won’t need to find another obelisk or deal with once-a-day limits again. It was a small detail in the grand scheme of things, but it was still a nice quality of life upgrade.
+
+However, reading through his updates would have to wait just a little longer, because that was when Nick saw the moon. Or more accurately, the moons.
+
+One of them was Luna—the silver satellite he had known all his life—but the other was a stranger. It was only about a third of Luna’s size, and its orbit was further out, but Earth’s new moon was emerald green and glinted in the sunlight like a gemstone. What the fuck? His eyes widened with astonishment. It seems I’m not the only one whose been going through some considerable changes.
+
+Once he was done drawing both moons, Nick pulled up his menus and started to read. His profile and recent gains could wait until he standing on the ground and had gotten himself situated, but he needed to know what was going on. First and foremost, how to get down to the surface.
+
+Before he did anything else, he decided to pull up the completion notice for the Fate of Earth quest chain—now that he was in a state of mind to properly ponder its significance.
+
+System Message: Quest Update
+
+Congratulations.
+
+You have defeated the Guardian of the Tower of Rizzen and completed the final phase the battle.
+
+The species-wide quest chain, the Fate of Earth, has been successfully completed.
+
+The performance of your species during this stage has been rated as: Phenomenal.
+
+As per the conditions of this quest, ownership of planet [Earth, 1] has been transferred from Taltos the Mad God to humanity and Earth’s resident beasts in perpetuity.
+
+Instead of being recycled and used as raw materials, the planet will be installed within the outskirts of the Labyrinth.
+
+A one-year period of protection will be implemented. During this time, the conduits to the Labyrinth will be sealed and the planet may not be visited by other residents of its sector.
+
+Finally, Team Earth has completed the hidden objective: Defeat the Guardian of Darkstone Tower instead of enduring its siege.
+
+As a result, your species reward package has been upgraded from [Platinum] to [Diamond].
+
+Your Diamond quest package contains the following rewards:
+
+Your planetary protection period has been upgraded to include a Deity-Grade Shroud of Anonymity. No one on the outside can identify your planet or divine its location.
+
+The System’s control over your world has been enhanced and Taltos’s influence has been dramatically reduced.
+
+The Earth has received an infusion of planetary experience equivalent to 50% of its next level.
+
+Humanity has been granted a significant infusion of species experience.
+
+Your species has been granted access to the Profession system.
+
+All caps limiting class rarity have been permanently removed. Going forward, the rarity of classes offered will be based on individual accomplishment.
+
+Your geneline traits will be enhanced during the next species-wide evolution.
+
+You may access your menus at will and without restriction.
+
+The Earth 2.0 Codex has been unlocked and may be freely accessed.
+
+The Codex of Taltos and the Labyrinth can now be unlocked with Labyrinth Knowledge Points (LKP).
+
+Finally, the Rebuilding Civilization bonus quest will be available during your 1-year protection period. More details will be provided soon.
+
+All of that was flat-out amazing, although Nick had severe reservations about his people being used as pawns in the war brewing between Taltos and the System. At least humanity had been compensated this time instead of getting shafted—like what had happened during his orientation and tutorial.
+
+But that doesn’t explain what I’m looking at. Maybe the Earth 2.0 Codex will help fill in the blanks. He opened the new codex to the beginning, hoping to get a better sense of what had happened to his home while he was away.
+
+Earth 2.0: A New Beginning
+
+Congratulations. Your planet has recently reached level 1, was integrated into System space, and survived its stewardship trial. To help acclimate you to the long list of changes resulting from these events, this codex has been made available to every creature on your world that is capable of understanding it.
+
+In addition to forming a world core, the Earth can now generate its own magical energy and enhanced resources. The planet’s surface area has increased, and new biomes and sub-biomes have been generated to balance its global ecosystem. Numerous plants and animals have already adapted and begun utilizing magical energy in some way. They will continue to evolve at a rapid rate.
+
+See the sections, “Wait, my Planet can Level Up?” and “Understanding Biomes and Sub-Biomes,” for more information.
+
+Some of these new areas feature what is known as the Frontier—places where the System actively generates Quests, Dungeons, Events, and Challenges.
+
+See the section, “The Frontier,” for more information.
+
+Many species from your planet have returned from their tutorials, catalyzing their ascension into beasts. Some have become far smarter than before, and they are all considerably stronger. While not everyone is destined to get along, working together is vital if you want to survive what is coming.
+
+See the section, “The Rise of Beasts,” for more information.
+
+Additionally, pieces of another dimension have been merged with your own. You might have noticed a new moon in the sky, and lingering darkness draped across various regions around the globe.
+
+See the section, “The Veil,” for more information.
+
+Interesting. That’s a more personal tone than most of the System’s messages. Maybe it will be more helpful going forward.
+
+Every word Nick had read was fascinating. There were several more sections included in the codex, and he would dig into the details of each of them soon. But before he got to any of that, he needed to figure out how to get down there.
+
+Fortunately, the System had flagged that portion of his updates, so he pulled it up next.
+
+Starting Point Selection
+
+As one of the participants in the Fate of Earth quest chain, you may choose to begin your adventures in one of the following, as of yet unsettled, biomes:
+
+The Verdant Basin
+
+Terrain type: Fertile valley.
+
+A lush landscape with a gentle climate and rich soil—perfect for the agriculturally inclined and anyone who wants a safe place to rest their heads. There is a high concentration of various resources in the area, and your new neighbors will be easy to get along with. The closest access to the Frontier is 50 miles away.
+
+Advantages: Safety, ease of expansion, friendly beasts.
+
+Bright-Sail Bay
+
+Terrain type: Tropical island.
+
+A perfect start for people craving excitement from the get-go. Bright-Sail Bay features a central location with two continents only a short voyage away. While the island itself has limited resources, it will offer easy access to a wide range of biomes once you learn to sail the seas. Seasonal storms and powerful beasts make the ocean dangerous for the unprepared, although the island itself is relatively safe. Several nearby isles and oceanic regions are part of the Frontier.
+
+Advantages: A balance between safety and opportunities for growth, ideal location for commerce.
+
+The Bladewind Badlands
+
+Terrain type: Arid badlands.
+
+Why start in the frying pan when you can start in the fire?
+
+This biome isn’t for the faint of heart. The Bladewind Badlands features dangerous beasts and extreme challenges, but also incredible opportunities for advancement. Most of the region is located in the Frontier, although there are some areas it doesn’t cover. Starting here will help you get a head start on your growth… if you can survive long enough to achieve it.
+
+Advantages: Full access to the Frontier, valuable natural resources, numerous opportunities for advancement.
+
+If none of these options are appealing, you may opt to join a random, preexisting community instead (none of which are located within the Frontier).
+
+Note: These communities must still defeat a town, city, or capital boss to be eligible for the City Point system once the Rebuilding Civilization bonus quest begins.
+
+Nick was happy to learn that the System was offering people a choice. Everyone who had risked their lives climbing the Tower of Rizzen could pick the place that appealed to them most, then build something together from the ground up. Better still, if anyone was tired of fighting and needed a break, they could join a random community that was further from the action.
+
+That was when the meaning of that last line caught up to him. Hold up. What the fuck is a City Boss and how do I kill it?

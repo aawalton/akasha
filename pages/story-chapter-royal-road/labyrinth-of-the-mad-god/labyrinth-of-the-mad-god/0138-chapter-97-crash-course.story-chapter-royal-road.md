@@ -1,0 +1,79 @@
+---
+id: 2f93c4e3-faff-5bff-bc44-1b1c8303e573
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97: Crash Course"
+slug: 0138-chapter-97-crash-course
+partOf: labyrinth-of-the-mad-god
+position: 138
+ownLength: 1687
+unit: words
+publishedAt: 2025-02-28
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2095482/chapter-97-crash-course"
+royalRoadId: "2095482"
+---
+
+Nick called upon his Arctic Clarity, burying the urge to panic beneath a wave of frozen focus. He shut out his awareness that the ship was going to crash. That it was going to be completely ablaze well before that happened. That if he didn’t come up with a solution to this desperate dilemma sometime within the next thirty seconds, they were all going to die.
+
+Instead, he reviewed the situation at maximum speed, drawing on every point of Mind and Creativity to formulate a plan. He considered the party’s capabilities—every item and ability at their disposal, then moved on to everything he’d observed regarding the surrounding terrain.
+
+Nick created a 3-D model in his head, rendering the big island below, the one above, and all the little isles in between. Finally, he added the pirate swarm. The location and heading of each ship, as well as what their pilots could see from that position. As the burning ship continued to lose altitude, he pondered his options for everything that he was worth.
+
+When his mind’s eye landed upon the cluster of small islands covered in mist, the pieces of a plan snapped into place. An all or nothing gamble that just might save their lives, if everything worked out the way that he hoped. He had no idea if it was going to work, but he was certain that Team Earth was dead if it didn’t.
+
+He ran over to where the women were operating the controls. “Head for the patch of mist surrounding the small islands. I have a plan, but it won’t succeed if the pirates can see us when we pull the trigger.”
+
+“Incoming!” Devin cried over the roaring flames. Another volley from the warship erupted against the deck, shredding one of the sails. Cannonballs tore chunks out of the woodwork, sending splinters flying. Nick cast a round of Mana Darts to block some of the fireballs, although at this point, he wanted the ship to crash. Just not quite yet.
+
+He visualized their trajectory and sent the silvery missiles sailing out to intercept the next barrage. They blocked four of the incoming spells, preventing the magical attacks from hitting his friends as their airship changed course and began a steep descent.
+
+“We can’t take much more of this,” V yelled. “Any more damage and the ship is going to break apart.”
+
+“That’s not the only problem,” Shaun reported after ducking below deck. “The stone that is keeping this vessel aloft is losing power. Another few seconds and it’s going to…” His words were cut off as the ship lurched. It plunged a hundred feet before pulling out of the dive, almost knocking Nick off the side in the process.
+
+While the party was still in mortal peril, their efforts had bought them a precious handful of heartbeats—enough time to position one of the smaller islands between themselves and the pursuing vessels, preventing them from shooting for another few seconds. “I managed to adjust our course how you wanted,” Sophia said. “But the rudder just snapped off, and we can’t control it anymore.”
+
+“We have maybe a minute before they round that island and blast us to pieces.” Devin pointed. “It’s time for that plan of yours, Nick. What are we going to do?”
+
+Nick looked down to where the vast island of sand and oases was growing larger at an alarming rate. The edge was coming up fast, past which miles of open air separated them from the next major landmass. The burning ship would pass through the mist-shrouded islets, then either crash into the sand, or continue past and fall to the level below.
+
+He prayed for the second outcome, or his plan wasn’t going to work. But that wasn’t something that he could control. Right now, he had no choice other than to proceed with his gambit and hope that luck was on their side.
+
+“We have to time this just right. Head into the engine room, fast.” The party followed Nick below deck, over to the massive hole that had been torn into the side of the ship.
+
+The floatstone core was humming and shaking. The apparatus controlling it was disintegrating before his eyes, thanks to the pirates’ acid attack. We’re lucky that it didn’t hit the core, or we’d be dead already. Everyone looked to Nick for guidance as he reached into his pack and pulled out a pair of long ropes.
+
+“Everyone, tie yourselves together, then go stand by the hole. When I give the signal, jump. We need to time this so that we’re obscured by mist when we make our move. It’s the only way to evade pursuit.”
+
+Everyone had a question on their face, wondering how they could survive this dire predicament. But the party didn’t hesitate. By now, they trusted one another with their lives. They were already tying themselves together while Nick got ready to roll the dice.
+
+“As soon as we enter the mist, I’m going to pull the stone out of its moorings and put it in my bag. Hopefully, it will reduce our weight enough to survive the landing, even in an unpowered state. The instant that I do, the ship is going to start falling even faster.”
+
+There wasn’t time to answer questions or go into detail. By now, Team Earth had finished binding themselves together with a pair of thick ropes. Nick secured the ends to the straps of his pack, which had proven to be more or less indestructible, as the party lined up in front of the hole. He opened the flap and moved beside the machine—ready to shove the floatstone inside his dimension storage the second that they entered the mist.
+
+My now, the air was thick with roiling black smoke, and the groan of the ship tearing itself apart filled his ears. He watched a fireball streak past the side and felt the impact when a cannonball slammed into the mast, shearing it off with a clatter. Get ready,” Sophia yelled. “We’ll be inside the mist in five seconds. Four. Three. Two. Jump!”
+
+As everyone leapt through the opening, Nick reached out and shoved the lump of floatstone into his bag, praying that this was going to work. The ship began to plummet—only a bit of glide from its damaged wings kept it from dropping like a stone. He activated Force Acceleration the instant that the core was inside his bag, diving through the hole with enough force to clear the vessel.
+
+He rose for a fraction of a second, as the stone in his backpack made him lighter than air. A sensation like he was being pulled up by a hot air ballon. Then the ropes went taut. The weight of everyone tied to the other ends hit him and he began to fall. Fortunately, the straps of his bag held firm.
+
+He passed the falling ship, avoiding being taken out by the shorn mast poking out from the side with inches to spare. Then the burning vessel flew past this position, heading for the edge of the desert island while trailing a thick column of smoke.
+
+Nick prayed to any gods that were listening that the airship would keep gliding long enough to miss the big island below. With the mist surrounding him, he could only see about twenty feet in any direction.
+
+He was being dragged down, but with the floatstone-lightened bag pulling them in the opposite direction, the party was descending at only a fraction of terminal velocity. He hoped that they would stay in the mist for a while longer—enough time for the armada to sail past while pursuing the damaged airship. If the party emerged too early, they were going to be sitting ducks, completely vulnerable to attack from the air.
+
+He looked down at the terrified faces below him, but there wasn’t anything that Nick could do at this point besides wait and see how the next few minutes played out. We need to land on the big island, and the ship needs to go over the side. Then hope that the pirates don’t circle back before we find somewhere to hide. Five minutes later, the light of the world returned, as Team Earth descended through the bank of mist.
+
+He looked around, desperately seeking out any sign that their enemy had caught on to his ruse. He could still see the pirates chasing the burning ship, which had almost reached the end of the isle. There was still a chance that they would spot the party, but their bodies were much smaller than an airship and the action was taking place in the other direction. Another few minutes should see us to the ground.
+
+Team Earth continued their descent, secured by the pair of ropes tied to Nick’s pack. They were falling far faster than he was comfortable with, but he was fairly sure that they would survive the landing. That was when his gaze locked onto the oasis below, specifically the spring in the middle. This will go a lot better if we can touch down in the water instead of the sand.
+
+“Sophia,” he yelled. “Can you summon some wasps and have them tow us to that oasis? I want to land in the water, and the trees will provide cover.” She couldn’t hear him over the wind, but Devin did and relayed the message.
+
+A few seconds later, a trio of frostfury wasps formed beside her with a flash of emerald light. They came flying over to Nick, clamped their legs onto his pack, and then began pulling the party toward the water.
+
+He wasn’t sure if they were going to make it, but Sophia was already low on vital energy from her earlier effort and couldn’t summon any more.
+
+The ground was rushing up like a titan’s fist—far too fast for comfort. He had just enough time to watch the airship go screaming past the rim of the island before someone yelled, “Brace for impact. Hold your breath!”
+
+Then the party hit the water, and Nick went plunging below the surface.

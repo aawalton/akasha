@@ -1,0 +1,181 @@
+---
+id: 13ad3eef-1053-5ac6-8866-f7baad4ef688
+page-type-slug: story-chapter-royal-road
+title: "103 — Book 3, Chapter 2 — Dungeon Delving"
+slug: 0106-103-book-3-chapter-2-dungeon-delving
+partOf: just-add-mana
+position: 106
+ownLength: 3333
+unit: words
+ownProgress: 3333
+publishedAt: 2026-02-28
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3101875/103-book-3-chapter-2-dungeon-delving"
+royalRoadId: "3101875"
+markedReadAt: "2026-06-29T18:51:17.638Z"
+---
+
+Leo hated delving.
+
+Mostly because he'd been designated as the group Taunter. He was the largest and lumberingest among them, and apparently the best at drawing undue attention. He also had the greatest defense that wasn't outright offense. Damien could disintegrate anything that attacked him with a decay barrier, but that was too violent for him. Flia could conjure a barrier that would just send whatever attacked them into the Abyss, but she claimed it was littering.
+
+Among the four of them, Syphus was the next best choice to take on the role of Taunter, except it was much more interested in experimenting with its new Spellfist Arts than blocking attacks. It would make a concerted effort, but then it would get distracted, and the last time they had tried that strategy it had been a disaster...
+
+To say nothing of the fact that Sisyphus still casually took over their friend whenever he found it amusing to do so. He did it a lot less now, sensing their clear disapproval, but both Syphus and Sisyphus claimed that it was comfortable with the arrangement and allowed it when it happened.
+
+Leo didn't know how much he trusted that. He wondered sometimes, about those two. Sisyphus was Syphus's creator and mentor—its father, in a sense—but the dynamic between the two felt... off. Given the legends, Leo had no doubt that Sisyphus had his own agenda. He wasn't evil, nor was he working against them, but it made Leo uncomfortable.
+
+There was something more to it, he thought. He didn't know what that something was, but it fit the myth, and the Named were famously difficult to comprehend. Leo didn't care that much about what Sisyphus's goals were as long as they didn't involve hurting his friend, but if they did?
+
+Well, that was part of the reason he was taking his role seriously.
+
+And he hated to admit it, but the role of Taunter worked well with everything he had learned about the labyrinth aspect. Cale had implied it was a mana aspect with many secrets hidden within, which made a lot of sense, given it might as well have been a mana aspect of secrets. The abstract concept it represented was absurdly flexible, and that flexibility had resulted in his mainstay spell he now used for every delve.
+
+That spell was [Labyrinthine Defense].
+
+It turned combat itself into a series of twists and turns. Leo was hard-pressed to explain the effect it had on his psyche or what he saw when he used it, but it felt a lot like it was deconstructing a battle into corridors of time and possibility.
+
+A left turn here meant he would duck underneath the next blow, kick his attacker's scythe down, stepping on it to plant it into the ground; then the corridor split into three options, and Leo's senses told him to take the middle one. He fell backward and allowed the creature he fought to stumble and trip over his body, then threaded mana to leap on top of it—
+
+—holding it steady for just long enough for Syphus to latch on to it with its [Chainfists].
+
+Leo exhaled, feeling the spell drain out of him. He felt strange every time he used it. More than any other spell he used, [Labyrinthine Defense] forced him to embrace everything there was about the labyrinth aspect.
+
+Cale had said something about this before. He needed to embrace his mana core properly if he wanted his body prepared to accept a second one. He'd tried and done his best, but he wasn't quite ready for it; every time he'd asked, Cale glanced at his chest where his mana core swirled and then shook his head regretfully.
+
+"Not yet," he always said. "Keep at it, Leo. You'll get there soon."
+
+When was soon going to happen? He'd been at this for a month, now! Leo was agonizingly aware of how far the others were getting ahead of him—he was pulling his weight, he knew he was, and the others assured him of that whenever he was down. But it still weighed on him. More than anyone else in their group, he was a normal mage with an unusual mana core. He didn't have Flia's literal fragment of a Monolith, or Damien's Legacy, or Syphus's connection with one of the Named.
+
+He had himself, his friends, and Cale. He'd given up on his parents ever seeing the truth. If they hadn't already left the Red Hunters after seeing what they did, then they never would.
+
+Was that enough? Was he enough? Could he keep up with the mages around him, who all seemed destined for great things? He had his own connection with one of the Named, but his was still a curse. He was just more immune to its effects than most other minotaurs. He couldn't draw any extra strength from it.
+
+Flia shot him a concerned, knowing gaze. "Leo," she said. "You're getting lost in your thoughts again."
+
+"I know." Leo grimaced. Damien walked up to him and gave him a hug, and Leo sighed, hugging the dreadshade right back. Cale's other apprentices made him feel like such a child sometimes.
+
+...He was, technically, the youngest out of all of them. He tried not to think too hard about that.
+
+"We're almost done with the delve," Damien said. "Do you need a break?"
+
+"I—" Leo interrupted himself before he could reflexively deny it and made a grumbling noise. "Yeah. Maybe. Just for a minute or two. Thanks, guys."
+
+The others all nodded, and they sat on the floor of the chamber while Syphus tinkered with the creature they'd captured. Dungeon monsters generally dissipated once they were defeated, leaving behind a selection of magical rewards, but Syphus's [Chainfists] somehow bound them in place without destroying them. They were investigating one of his nascent theories about how dungeons worked, particularly the monsters that appeared in them.
+
+It was their own way of preparing to delve the Bitter Path, the dungeon Haelforge Academy owned that gave them those conveniently powerful mana channelers. Leo couldn't bring himself to think about that right now, though he knew that this theory of his was one of many ways he was contributing to the group.
+
+It all came back down to that question of whether or not it was enough.
+
+The others were used to his moods and knew not to disturb him, but they sat nearby, letting him know silently that they were there for him. That they believed in him. Leo didn't know what he'd done to deserve such good friends—it felt like not all that long ago, they'd barely known one another. Then they ended up sucked into the whirlwind known as Cale Cadwell Cobbs, and, well.
+
+There was nothing that brought people together quite like being apprenticed to someone like him. No one else could really know what it was like.
+
+Not for the first time, he closed his eyes and dwelled on the nature of his mana core. He'd made progress, at least. He no longer hated his own mana the way he had at the beginning, and he wasn't desperate to get rid of it, to change it. He'd learned so many ways it could be useful, and he was well aware that without it, he wouldn't be nearly as successful as he was.
+
+So why did he still have trouble fully embracing it?
+
+It had something to do with the others, perhaps. The knowledge that so long as he embraced and used labyrinth magic, he would never be able to fully return to his people. There were containment artifacts and alternatives, and once he was a full archmage he would gain the kind of auric control he needed to prevent his mana from affecting the others; there was what Cale had suggested, changing a different mana type into his primary core and keeping his labyrinth mana as the secondary one, so that he wouldn't leak labyrinth mana even by accident.
+
+Even with those in mind, it felt impossible to forget that his power could drive his own people—his own family—insane. Perhaps it had already.
+
+Not for the first time, he wondered why Asterion had done this. Had things always been this way? Cale had been surprised when he heard of it, but he hadn't elaborated, and Leo's attempts at getting him to elaborate further hadn't exactly borne fruit. All he'd been willing to say was that he needed to look into it more.
+
+And Leo trusted that, but it was frustrating. Infuriating, even! He needed to know why one of the Named had felt the need to do this. Why bring so much pain to so many people? Why curse them in a way that made everything that could be construed as a labyrinth a potential danger? There were minotaurs that had gone mad in libraries. Libraries!
+
+He was breathing more heavily now. Flia noticed and shot him another concerned look, so Leo clenched his fists and did his best to calm himself. It could be worse, he told himself, though the words were glum. And he had other things he needed to focus his efforts on that wouldn't be nearly as impossible as confronting one of the Named, like fully integrating his mana core.
+
+It just felt so intrinsic to the problem. Leo wasn't sure if he could really untangle the two; the problems he had with his mana core were the same problems he had with Asterion, with the curse that had been placed on his kind.
+
+He had something of a lead, at least. [Labyrinthine Defense] helped with core integration more than any other spell he had—he could feel the difference in the way his mana molded to him while the spell was active. It was one of the reasons he made himself use it every time they practiced on one of these delves.
+
+And afterward... well, he knew there was progress, because his magic felt tangibly better. His mana pumped more cleanly, without hesitating in the way it usually did; any new labyrinth-aspect spells the Gift granted him were clearer in their intent and power; his core had grown enough that he now possessed mana equivalent to other students at the same level, which was a far cry from the degraded and neglected thing he had possessed when he first met Cale.
+
+He wasn't at full integration yet, though. He'd hit a roadblock, and now all the progress he made was incremental at best. What was he missing? Cale had explained some of it before, and Leo did his best to remember what he'd said.
+
+"Integration is when your core is a part of you. It's the most crucial step to being a true mage. Yes, I'm aware Orstrahl doesn't require it. The Standard Array is a decent idea, but it doesn't make up for poor core integration." Cale shook his head in mock ruefulness. "I've talked about intent and mana before, correct?"
+
+"Yes?" Leo was a little hesitant. He hadn't fully understood the lesson. Cale gave him a knowing grin.
+
+"Intent," he said, "is the real way a mage can modify their spells. The Gift is a shortcut for a lot of things here on Utelia, but it can't replace intent. How does a mage make sure their [Fireball] doesn't hurt their allies?"
+
+"By aiming the spell better," Leo muttered, and Cale snorted out a laugh.
+
+"Yes. Technically. Or by pleading with the Gift until you get a spell construct that can discern between the two, like [Friendly Fireball]... although that might be the one that only hits allies. Hmm.
+
+"The point is, spells like that are more expensive and take a lot more concentration. A good mage can just use a base [Fireball], imbued with intent, and the fire will avoid their allies and only hurt their enemies. All mages can work with intent, in small ways, but only mages that have fully integrated their cores can fully imbue their magic with their intent."
+
+The idea had been fascinating to Leo. More importantly, it explained why [Labyrinthine Defense] helped so much when it came to core integration. The effect of the spell was similar, albeit reversed. It read intent from both him and his opponent, then constructed a labyrinth, allowing him to navigate it however he chose...
+
+Hm. Was there something there, in that thought? It felt like there was. He focused suddenly, his gaze intent, and in the corner of his eye he thought he saw Flia and Damien stiffen in recognition; they knew what it looked like when a mage had a sudden insight. They'd keep him from being disturbed, which was good, because they were in a dungeon, and normally letting your guard down like this was a terrible idea.
+
+He turned the thought over in his head. What was so special about that spell? It read intent, and then fed it back to him. There was a back and forth in that, the sort of cycle that was often found in magic. Those cycles often held insights, and in this case, it meant—what, that his magic could already read his intent?
+
+No. It wanted to read his intent. When he earned the spell, he had still been a long way from truly accepting his magic, but he had needed it to help defend his friends. So he'd allowed it in, but it had been conditional. Only when I need you, he had essentially said, because he hadn't been willing to give himself over fully to his magic.
+
+Did he actually need the spell? It was first-tier magic. It was powerful for being first-tier magic. He'd always found that strange, but knew better than to question it; tiers were difficult to understand at the best of times, even when they were supposedly impartially assigned by the Gift. But if the spell was nothing more than him granting permission to his magic and giving it just enough structure to read his opponents, that might explain the relatively low tier.
+
+He cast the spell again, slightly hesitant, but this time determined to understand. He felt the magic as it took effect, pouring through his heart and mind. Nothing seemed different. The world around him was painted now in the shades of his own decisions, but without being in an actual fight, there was no real labyrinth to decipher.
+
+Leo sighed and ended the spell, disappointed—
+
+Only to catch just the barest glimpse of what felt like a door in his heart closing as the spell ended.
+
+He hadn't been able to feel it opening. That moment contained too much noise, and everything was buried in the effort of magic, in the rush of mana through him. As the effect ended and the noise faded, however, he could feel the way his mana moved almost reluctantly to close a door it should never have had to close, because this was his magic, and it wanted what was best for him.
+
+It always had.
+
+The realization crackled through him, and when he let out a breath, it was charged with his mana. He didn't realize it, too lost in the revelation to pay attention to his surroundings.
+
+It might not have been fault that his people couldn't abide by his magic, but that didn't make the magic itself to blame. The true responsibility for the curse lay with Asterion, and there was nothing Leo could do about that, at the moment. Perhaps when Cale made good on his promise and built him up to be an archmage with power enough to confront the Named, he might be in a position to understand why.
+
+But it didn't really matter. Not for this. That was what he'd been missing all along.
+
+His magic had never wanted anything more than to protect him. How had he missed that? This was true of all mages. A mana core was magic that was yours. It was mana that came to you because it was uniquely suited for you, no matter that it could hold different aspects. It had a temperament and a will, and it had chosen him.
+
+He had never chosen it in turn. He'd locked it out, instead, first with anger and then with reluctance, and even now there was the burning ember he'd never been able to let go—that sense that his mana was at fault, somehow. That his core was to blame for his misery.
+
+Leo let the thought pass through him, and then he let it go. The realization had occurred in the span of a heartbeat, and his magic was still attempting to close that door in his heart. A door he'd built himself because he couldn't accept his own magic.
+
+He reached out and held that door open.
+
+I'm sorry, Leo thought. And thank you. For protecting me.
+
+He was probably anthropomorphizing his mana a little too much. None of the books he'd read on the subject said anything about apologizing to one's own mana. It seemed to work, though.
+
+Leo felt the difference reverberating in his soul, and when he opened his eyes, they flickered with the green-gold of the Labyrinth.
+
+Then he realized his friends were fighting. He blinked.
+
+"About time!" Flia called. "Did you finally figure it out?"
+
+"I... think so?" Leo felt somewhat light-headed. "I need Cale to check my core when he's back."
+
+"You need to help us with these things!" Flia leapt back to avoid a crashing limb, and the little shadeling that was her familiar spun out of her shadow with a snarl, chomping furiously. The monster she was fighting screeched in pain and fell back.
+
+But it wasn't the only one. Somehow, while Leo had been figuring out his magic, a small swarm of goblin-adjacent creatures had descended upon them; Syphus and Damien were fighting, too, trying to keep them off Leo while he figured out his magic. Syphus fired a sticky-looking spell to glue one of them to a wall, and Damien gestured, doing something to the area that made them all slow down.
+
+"Right," Leo said, grimacing slightly as he tried to shake off his reverie. He hated swarms. [Labyrinthine Defense] worked best with a single opponent; the moment he had a swarm to go up against, he had to rely much more on barriers and improvised spatial manipulation...
+
+Except the spell he was reaching for had vanished. Only then did Leo notice the message the Gift had waiting for him.
+
+Core integration detected!
+
+[Labyrinthine Defense] is no longer suited for your magic. It has evolved into [Minotaur's Domain].
+
+[Minotaur's Domain] [Fifth Tier, Active (Unique)] [5000 Mana]
+
+Conjure a domain based on your understanding of the Labyrinth. Up to ten individuals caught within the Minotaur's Domain will be subjected to its effects.
+
+The Minotaur's Domain weaves intent and action into a multicursal labyrinth of choice and possibility. The difficulty of navigating this labyrinth is dependent on the number of allies and enemies caught within the effect.
+
+This spell is capable of further evolution. The effects, tier, and mana cost of this spell may change with your understanding of the Labyrinth.
+
+This spell is but a fraction of the Labyrinth.
+
+At the heart of the Labyrinth, Asterion awaits.
+
+Leo's gaze snapped almost involuntarily to the final line of the spell description; he felt a chill run up his spine, but banished it just as quickly. He had notes about this, but he'd have to worry about it later. He cast the spell, allowing himself, for once, to put his trust in his magic. Ten wasn't nearly enough to deal with the swarm, but with his friends as part of his domain...
+
+Possibility bloomed in his mind, and he saw the path they needed to take.
+
+Cale nodded slowly, taking all this in. "Right," he said slowly. "I'm still not sure how this explains why you have twenty crablins tied up and stacked on my bed. You couldn't just give them to Akkau?"

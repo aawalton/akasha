@@ -1,0 +1,129 @@
+---
+id: cfb19238-c26c-5e00-a756-e49a148d3208
+page-type-slug: story-chapter-royal-road
+title: "9. Loop 0, Part 9"
+slug: 0009-9-loop-0-part-9
+partOf: lazy-loops-an-idle-litrpg-op-to-archmage
+position: 9
+ownLength: 2627
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3453312/9-loop-0-part-9"
+royalRoadId: "3453312"
+---
+
+It was just past eight thirty when I walked in. The main reading room was mostly empty. The other students who had nowhere better to be on a Monday night were perusing shelves or busy studying. Blah. Libraries. A wretched hive of hard work and studying. But that wasn't why I was here. No, I wasn't wasting my time studying for a class. I was here to save lives through research. A much more noble pursuit.
+
+I was heading for my usual nook in the east wing when Master Grimm materialized. I say “materialized” because the man didn't so much walk as [Teleport]. A man after my own heart, really. One moment, he'd be shelving a book near the entrance. The next, he'd be at the front desk writing in a ledger. The next, he'd be adjusting a lamp two aisles over. He really made the most of a beautiful but expensive spell. It was like [Wideview] or [Subtitle] in that it lasted hours, but the upfront cost of 300 mana was more than I would’ve been willing to spend any time soon.
+
+"Master Yarrow." His voice was deep and grumbly and bored. He always seemed bored. "Researching tonight?"
+
+"Yeah, that's the plan. Like always."
+
+"East nook is available, as usual."
+
+He was already somewhere else by the time I opened my mouth to respond, reorganizing a display I hadn't noticed. Someone had left books on the floor by the shelves. Then he was by the windows. Then behind his desk again. Every time I turned my head to track him, he was somewhere new, and I was getting a crick in my neck for the trouble. After the fourth time I physically turned to find him, my neck lodged a formal protest. This was unacceptable.
+
+I cast [Wideview]. The 51 mana left a mark. I felt the drain like a long exhale, my pool dropping from about 160 to just under 110, but the relief was instant. My vision expanded into that familiar panoramic field, and suddenly I didn't have to turn my head to track Grimm's bizarre teleportation act. Much better.
+
+I settled into my nook. It was a small alcove near the east wall, tucked between two shelves of pre-war and post-war magical theory. Forty years and a war divided the shelves. The newer texts had better spines, sure, but the ideas were worse, which was odd.
+
+I would have thought forty years of scientific advancement would’ve made for better magical science, but well, fuck me I guess. I pulled my notes from the hidden crawl space under the nook and spread them across the reading desk.
+
+My professors were always harping on about what I could accomplish if I actually set my mind to something. Well, if they knew what I was doing, maybe they'd stop saying that. I was working on a mana collapse prevention spell, the only piece of magic I'd ever cared enough to truly work on outside of class. The one I would never admit to anyone that I cared about. Imagine if Finn, or Therumia forbid, Sara found out about this. I shuddered.
+
+My parents had burned through their mana channels in the Kratosian factory system. Everybody already knew that part. What nobody seemed to care about was making sure it couldn't happen to anyone else.
+
+The existing literature was thin. It didn't happen often, but healers documented the symptoms, progression timelines, and case studies when they could. Scarring first, then fraying, then rupture. Always the same order. Always fatal. And the sum total of the magical community's prevention strategy was: get stronger so it doesn't matter. Level up your spells, expand your pool, and the problem solves itself.
+
+Unless you were poor. Or Kratosian. Or working a factory line where the shifts didn't stop because your channels were fraying.
+
+Nobody was working on a cure. Nobody cared except me.
+
+I was forty minutes into a particularly dense text on mana flow dynamics when I was struck from my reverie by a particularly noisy group of fourth-years. A whole pack of them settled into the nook adjacent to mine. Immediately, the library exploded with the approximate volume of a herd of Frollarts discovering a cheese wheel in the middle of the road. They slammed their books on tables. They pushed their chairs, scraping against stone. Someone laughed at something.
+
+But among them was a friend of mine: Popo. Her real name was Polina Volkova, technically, but nobody called her that. One of the few fourth-year students I actually liked, she was a Manifestation student who had an enthusiasm for everything but didn't bother me with it. Unlike most people, she kept that enthusiasm to herself. Finn could stand to learn some lessons from her.
+
+She had a book clutched to her chest like it contained the secrets of the universe, and she was literally vibrating. I caught the title Into the Deep Wood off the cover before she cracked it open. I caught flashes of names—Marat, Valeria, and something about a witch. She was flipping pages much faster than she could have been reading them. It was like she was trying to find whatever passage she'd left off on.
+
+She started narrating the book loudly to her friends, and there went the rest of whatever concentration I had. She stopped mid-sentence and squealed. Actually squealed, a sound that could have shattered a window at close range. I liked Popo, really. She was a very kind person who never bothered me unnecessarily. There was one time she found me asleep in the stacks, and believe it or not, she left me the fuck alone. It was the highest form of respect anybody had ever shown me, but right now she was screaming my ears off and I couldn't focus.
+
+“Popo,” I said.
+
+She looked up from her book, eyes wide, as if she’d forgotten other people existed.
+
+“Lazlo! I didn’t see you there! How long have you been...”
+
+“Long enough.” I gestured at her book. “Is Marat going to keep making you do that?”
+
+“Do what?”
+
+“The squealing. The loud noises. The repeated interruptions of my work. The sound you just made caused three books on the shelf behind you to rearrange themselves in fear.”
+
+She looked guilty for about half a second, but then looked at her book and then back at me. “You don't understand. This is, like, the best book ever. You have to read it,” she said.If you stumble upon this narrative on Amazon, it's taken without the author's consent. Report it.“I believe you, but I still need to concentrate,” I said.
+
+“I'll be quieter, I promise,” she said, and she meant it, but we both knew it wouldn't last long.
+
+I gave it five minutes. Three bouts of squealing, two dramatic gasps, and one shout-whisper of "oh, no, no, no, no, no, no, no," later, I packed up my notes and went deeper into the stack.
+
+The further you went from the lobby, the older the Archives got. The enchanted lighting shifted from warm and inviting to indifferent and dim. As if the spells maintaining the light had stopped around the same time the books on these shelves had stopped being read.
+
+I found an alcove where pre-Vortex gave way to pre-Therumia volumes. It was crazy how big this library was, but when you realized it had been the national library of the entire country, well, it made sense. I spread my notes again and picked up where I’d left off. I was working on mana flow dynamics, the relationship between sustained mana output and the structural integrity of mana channels.
+
+The library was the one place in my life where hard work didn't feel like work. In fact, I felt refreshed after time spent in the library. Quite often I'd find myself in a meditative state, only to come back to the present hours later, new spell in hand.
+
+I'd been going through a chain of references that jumped between three different texts when I found a footnote that woke me up from my trance. Buried in a journal article on mana channel toxicity, I found two lines that were almost an afterthought that changed everything:
+
+For an alternative approach to mana redistribution under sustained load, cf. Theron, M., "On the Refraction of Mana Through Parallel Channels," Therumian Journal of Applied Magical Theory, Vol. 14, pp. 203-241. (WITHDRAWN)
+
+Theron. The name pulled at something in the back of my mind. I knew the name. Theron, Theron, Theron. Everyone knew the name Theron the way everyone knew the names of natural disasters or boogey monsters.
+
+I went looking for the journal. It took me almost ten minutes navigating shelves that hadn't been organized by anyone living, but I found it. Volume 14 was slim, its spine cracked, and when I opened it to page 203, a faded magical stamp marked the article: WITHDRAWN — SEE RESTRICTED ARCHIVE NOTATION.
+
+The article itself was still there, because apparently "withdrawn" at the Archives meant "we'd rather you didn't, but we're not going to actually stop you." I guess it was a library, after all. Typical MIRKS. All the authority of a wet napkin.
+
+I read the article. Then I read it again. Then I read it a third time, just to be sure it was suggesting what I thought it was.
+
+Growing up, I'd been taught Theron was a terrorist. That twenty-five years ago, a fanatic had destroyed the Hessalonian Grand Temple during the Festival of Divine Light. Thousands died, and the nation fractured into three as the civil war came to a close. It was what we were all taught. The man was a monster who ended a war.
+
+But the article told a different story. Theron hadn't been a fanatic at all. He'd been a researcher, a mana theorist working on exactly the problem I was looking at right now: how to keep mana channels from collapsing when pushed too hard for too long. His approach was simpler than I'd expected. Offload the excess into portable batteries, then feed it back to the caster before the channels hit critical stress. On paper, it was a brilliant idea. Elegant, even. The kind of solution that made you wonder why nobody had thought of it before.
+
+The article described the theory in great detail: how it worked and how he successfully withdrew mana using a spell he'd invented. He used high mana-concentration items that absorbed mana and then created a second spell that fed it back into the body. The math was sound. The design was clever. But then the article stopped. It was just the theory, the design, and a giant WITHDRAWN stamp where the conclusion should have been. Just when I needed the archivists to be as lazy as I was, they actually did their job. The results of his research, all of it, had been redacted or removed, and the restricted archive notation wasn't going to help me at this hour.
+
+What went wrong? The question ate at me. The theory really was sound. The design accounted for channel stress, mana flow rates, and even mana regen. Everything I could see in the math checked out, but something had failed in the implementation. Something catastrophic enough to get the paper pulled and the name Theron turned into a curse word, but there was nothing here.
+
+Stupid fucking article.
+
+I sat back in my chair and ran my hands through my hair. I was close to something. As bad as the end result had been, this had to be it. This had to be my solution. I could almost feel the shape of it, right there, the logic tight but all the details just out of reach. If I could figure out where things went wrong, I could avoid the same mistake. Fix this. Solve it. It would never have to happen again.
+
+I kept working. The Kratosian study led me to another paper, which led me to another. Before I knew it, another couple of hours had passed. I spent twenty minutes tracking down a paper titled "Soul Tether and the Limits of Channel Reinforcement," expecting another dead end. The first thirty pages were exactly that: a long argument that mana channels couldn't be reinforced beyond prestiging. It claimed anyone attempting it was wasting their time. Wonderful. Exactly the kind of thinking that made me develop my lazy philosophy in the first place.
+
+But buried in the appendix, almost as an afterthought, was a historical note on Theron's research. One that hadn't been withdrawn.
+
+The batteries had worked. In controlled conditions, Theron's portable mana batteries had successfully reduced channel stress and prevented death in test subjects. It was right there. The problem was the batteries themselves. Liquid mana stored externally without a soul to stabilize it was volatile. Explosive, even. The idiot must have tried to figure out a way to sustain it without souls, and it detonated. I wouldn't have that problem. Right?
+
+The appendix mentioned a collaborator, the source of Theron's funding, who had pushed for faster results and larger-scale tests. A man named Cassian. Of course, no last name was given.
+
+The final test had used a battery three times the capacity of the successful trials. It was charged with enough liquid mana to power a small army, specifically designed to prop up a Kratosian factory. It was supposed to demonstrate that the technology could scale. Instead, the unstable mana detonated. The chain reaction was instantaneous and total. The explosion leveled Theron's lab, the Grand Temple next to it, and half of Freehaven. It released enough raw mana into the surrounding landscape to transform an entire forest into the swampland that persisted to this day. You could see it from the Spire's enchanted windows at dinner tonight. That beautiful amber light falling across the swamps surrounding the capital. That was Theron's legacy.
+
+But it was also the answer to my problem, or at least the start of one. Mana batteries worked. The failure point was something I might’ve actually had a solution for. Souls. I just happened to have a family trait that could fix things. Which meant I could do this. Which meant I was either smarter than the person who had destroyed half a city, or just as stupid.
+
+I didn't let myself think too hard about that yet. It was the kind of thought that led to ambition, and ambition always led to effort, and effort would lead to me becoming my parents. Or worse, my uncle. I filed it away somewhere deep, where the ideas I actually cared about lived.
+
+A throat cleared behind me. I turned. Grimm stood at the end of the aisle, hands clasped behind his back, expression unchanged from the one he'd worn three hours ago. He might as well have been a painting someone had moved between rooms.
+
+"It's past midnight, Mr. Yarrow."
+
+"I noticed."
+
+He studied me for a moment. His expression didn't change, but it was clear he was thinking deeply about what he was going to say.
+
+"I'm locking the lower floors. Level one will remain accessible." He paused. "Try not to rearrange anything."
+
+"I never rearrange anything."
+
+"The books say otherwise."
+
+His footsteps made no sound on the stone floor, which was probably a silencing spell. The air settled into the deep quiet that only happened when you were the last person in a very old building after dark.
+
+I was just about to head for bed when [Wideview] caught movement. The spell was still running with hours left on it. The spell was showing me something I hadn't expected: The main reading room was empty, the entrance was dark, but the faculty stairwell door had just opened.

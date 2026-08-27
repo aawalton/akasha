@@ -1,0 +1,123 @@
+---
+id: 2ad6ed04-f045-558b-91a3-6dc7b4cb9679
+page-type-slug: story-chapter-royal-road
+title: "Chapter 130: Enhanced Evolution"
+slug: 0171-chapter-130-enhanced-evolution
+partOf: labyrinth-of-the-mad-god
+position: 171
+ownLength: 2130
+unit: words
+publishedAt: 2025-05-16
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2284280/chapter-130-enhanced-evolution"
+royalRoadId: "2284280"
+---
+
+The next thing Nick knew, he was back in his body. And this time, it was his body. His mind and will, and his alone.
+
+He opened his eyes and let out a triumphant scream, giving voice to all the terror he had repressed while fighting for his life on the strangest battlefield he’d experienced to date—the Theater of his Mind’s Eye.
+
+Then he took a deep, shuddering sigh and began to laugh.
+
+He realized that he was back in the safe room, lying in a bed that was stained with sweat, blood, and tears. Devin was standing at his side, holding an empty flask in one hand. The man was shocked by Nick’s appalling state. He must have delayed his evolution until he knew that I was safe.
+
+Devin had dosed Nick with his Elixir of Restoration at some point during the struggle. It probably hadn’t helped, but it would have been the right thing to do under almost any other circumstances. Devin wore a baffled expression—unable to understand what the fuck had just happened. But instead of voicing the question on his lips, he wiped Nick’s face clean with a towel and waited for him to explain.
+
+It was a deeply touching gesture, but he didn’t have time to thank Devin yet. Because at that very moment, a message from the System appeared before his eyes.
+
+Congratulations. You have defeated the Controlling Core of the Crimson Blight.
+
+Its essence and energetic network have merged with your own.
+
+These alterations have coalesced into a bloodline trait that will manifest itself in various ways as you continue to advance.
+
+Bloodline Trait: Blightborn
+
+Effects: Your bloodline trait capacity has doubled. +2 to all attributes.
+
+Nick’s jaw dropped in astonishment when he read the words on the floating screen. Blightborn was an incredible, if somewhat unsettling power. In addition to being a tangible reminder of just how close he’d come to becoming a monster, this trait would turbocharge his advancement as he began filling his expanded bloodline.
+
+He realized that he was still gripping Blightbane like a talisman. Fortunately, his sword didn’t seem to have a problem with his altered DNA, now that the core controlling of the Crimson Blight was slain. Thank you. He sent his intentions into the blade. I owe you everything.
+
+He had just survived an incredible experience, but the electricity coursing through his veins reminded him that he didn’t have time to ponder it now. His blood-splattered body was standing at the threshold of the next stage of existence. It was time for Nick to evolve.
+
+Since he wasn’t laughing or screaming anymore, Devin handed him a glass of water and said, “That looks a lot less pleasant that what I’m going through. Are you ok?”
+
+He flashed Devin a thumbs up to let his friend know that he was going to be all right. Then Devin sat down on the foot of the bed and both men turned their gazes inward, focusing on the fountainhead of transformative energy welling up from within.
+
+The Species-Evolution Pills had accelerated the process they had begun during their adventures in Blackmist Bog and the Tower of Rizzen, catalyzing a change on a fundamental level. The evolutionary pressure had been rising for days, and in that instant, all that energy was released in a surging rush. It spread through him in an incandescent flash, filling every cell in Nick’s body with crackling might while encouraging it to change. To grow. To become something greater than before.
+
+The experience was intense, but it wasn’t anything compared to the epic struggle he had just undergone. It was also a hell of a lot more enjoyable. As a result, he was able to observe the transformation with a level head, watching as manic energy raced along every corridor of his being. It wasn’t mana, essence, or anything he’d felt before, although he intuited that this power had been building inside him since the moment the System arrived, lurking below the threshold of awareness.
+
+Nick wasn’t sure what was about to happen, but he had no reason to fight the process. No matter what changes his evolution would bring, it was a perfect time to grow stronger. He needed to acquire every advantage he could before facing the tower’s guardian—the last phase of the Fate of Earth quest that would determine humanity’s fate.
+
+By this point, he had experienced a vast range of strange sensations and shocking revelations. From the unique side effects of raising each attribute, to the System rewiring the synapses of his brain. Not to mention, visions of soaring through the cosmos and watching his friends from across the gulf between worlds.
+
+What happened next wasn’t like anything that had come before. The closest match was way back on that first day, when the System had awakened humanity to magic, and the Versatile trait enhanced every aspect of his being. Only this time, the changes went deeper still, rewriting who he was on a primal level while leaving his agency and sense of self intact.
+
+When every speck of matter that made up Nick Henry was saturated with species experience, he felt something inside his energetic core shift, precipitating a series of changes that transformed him from the inside out. It rewrote his DNA and then kept right on going, upgrading his body one cell at a time. It was an overwhelming event, especially coming out of his battle with the blight. At least it doesn’t hurt this time around.
+
+While most of him was lost in the noise, the small corner of his brain that was capable of rational thought studied the process with interest. He could sense the evolutionary experience remaking his organs, enhancing their performance and resiliency. When it was done, it began rewiring his nervous system, leaving it faster and more responsive than before. Next on the list was expanding his pools of vital energy, deepening his reservoirs of stamina, mana, and health.
+
+The evolutionary changes went on and on, enhancing bone, blood, and bile. Strengthening nerve and artery, tendon and vein, then moving on to upgrade the tissue of his brain. He didn’t know how long it lasted—mere seconds and eternity felt the same in this strange state of being. But at last, the transformative journey came to an end, and Nick was reborn for the second time.
+
+He opened his eyes and looked around, taking in a world that was impossibly rich in detail. Everything was so crisp and clear, the colors so distinct and vibrant, that it was taking his brain a while to adjust. When he heard a rhythmic pounding beside him, he realized that he could hear Devin’s heartbeat forming a backbeat to his own.
+
+This increase to the breadth and depth of his senses went way beyond the changes that accompanied improving his attributes. It was like he had been blind his whole life, and now he could see. But instead of gaining one brand-new sense, Nick had just obtained five. It was disorienting and completely overwhelming during those first few minutes. If were out in the wild instead of safe in bed, he would have died to the first hostile critter that crossed his path. And that was only the beginning.
+
+He tried to stand up and wound up falling over instead. It was hard to control his muscles when they were so much more powerful and responsive than before. It would have been worse if he hadn’t been developing body awareness while training to use Force Acceleration.
+
+His legs were so strong that when Nick rose to his feet, he launched himself forward, stumbling before faceplanting into the stone floor below. Although he smacked his head hard enough to produce a hollow thud, it didn’t hurt at all. The new and improved Nick was too Tough for such a minor collision to bruise his flesh or rattle his brain.
+
+Thankfully, he was making the adjustment far faster than he had feared. His new body already knew what to do—he just had to tell it what he wanted and then get the hell out of the way.
+
+Acting on instinct, he removed a pile of fruit from his bag and flung it into the air. He had never juggled before in his life. But instead of dropping everything, he effortlessly reached out and plucked the objects as they fell, sending them back up in a range of patterns that he switched up on the fly.
+
+Devin laughed in delight when he saw what Nick was up to, throwing random items at him until he was juggling five objects, then seven, then ten. When Devin tried to add the eleventh, Nick misjudged the pattern, and everything came crashing to the ground. With a bit of practice, I think I could pull off quite a few more. Incredible.
+
+While Devin gave juggling a go, Nick sat down and turned his attention inward, surveying the changes within. His heartbeat was stronger than ever, pumping blood faster and more efficiently than before. Similar upgrades had taken place to his stomach and lungs, along with every other organ in his body. His thoughts felt crystal clear—honed to a razor’s edge, even without calling upon Arctic Clarity.
+
+Around this time, he realized that another message from the System was floating in the periphery of his vision. His eyes widened in astonishment as he took in the full extent of his gains.
+
+Congratulations. You have evolved from species Grade E to Grade D.
+
+Your new species is: Human of Earth (D).
+
+For reaching Grade D, you have gained the following upgrades:
+
+Every item on that list was amazing and would give Nick a great deal to contemplate when he had time to spare. But that was only the beginning of his gains. He continued reading with a shit-eating grin plastered on his face.
+
+New classes have become available at class selection.
+
+As a milestone bonus for being one of the first 100 members of your species to evolve to Grade D, the class rarity cap has been removed for your next selection.
+
+For being the second person of your species to evolve to Grade D, you have been granted a milestone bonus of +4 to each of your physical attributes.
+
+Awesome. That’s an insane milestone bonus. No wonder Pax wanted me to wait until I finished evolving before picking a new class. And that wasn’t all.
+
+After reaching Grade D, you are eligible to develop unique techniques based on your latent potential and natural talents. Three such techniques have been detected at this time. Each has been given a unique designator.
+
+Note: Techniques are not granted by the System. As a result, they can be enhanced through use, but not directly upgraded like abilities and attributes.
+
+Techniques:
+
+Arctic Clarity
+
+You may enter a state of extreme focus at will, shutting out external distractions, intense sensations, and undesirable emotions. This power will not function at full strength if it has been used recently.
+
+Theater of the Mind’s Eye
+
+You can visualize memories, objects, and mental models with a remarkable level of clarity and precision.
+
+Portal Visionary
+
+Your consciousness has a natural propensity to resonate with the energy of the cosmos, which manifests as visions. Other situations beyond experiencing the portal network may trigger this technique.
+
+As he read the last word, the totality of his gains washed over him, leaving Nick in a state of pure, blissful euphoria. Holy. Fucking. Shit. I just gained six points to all my physical attributes and two to the rest, thanks to Blightborn and my milestone bonus for evolving. Not to mention improved organs and enhances senses.
+
+No wonder these changes were so fucking intense. I can finally go all out with Force Acceleration without breaking my own bones, even with the upgrade to Force Adept. I’ll have to test it out once I get used to everything else that’s going on under the hood.
+
+The other staggering reveal was that his natural lifespan had doubled, granting him another hundred years. Not to mention the mind-blowing possibility of living even longer if he managed to evolve again. The part about techniques was interesting too, but he didn’t have time to worry about it now.
+
+Nick was ecstatic, but his excitement was tempered by the knowledge that none of it mattered unless humanity could complete the Fate of Earth quest. Defeat the guardian on the roof of the Tower of Rizzen and become full citizens of the Labyrinth of the Mad God.
+
+His musings came to an end when Devin groaned and opened his eyes, having completed his own evolution while Nick was busy reading. I need to pick up my gear and select a new class, then I’m ready to join the fight.

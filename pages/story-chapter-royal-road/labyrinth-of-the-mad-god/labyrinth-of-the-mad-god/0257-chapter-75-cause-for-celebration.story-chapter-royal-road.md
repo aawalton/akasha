@@ -1,0 +1,83 @@
+---
+id: c10e4e06-47f8-5f7e-817a-f155cabb5eae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75: Cause for Celebration"
+slug: 0257-chapter-75-cause-for-celebration
+partOf: labyrinth-of-the-mad-god
+position: 257
+ownLength: 1746
+unit: words
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2822178/chapter-75-cause-for-celebration"
+royalRoadId: "2822178"
+---
+
+Everyone let out a cheer as the crowd pressed closer—excited to check out Aurora’s first Rare structure and find out how it worked.
+
+The Item-Modification Station wasn’t the biggest building the System had generated, but it was the most impressive. The walls were formed from a rich red stone. They were inlaid with mosaic tiles depicting crafters laboring over weapons, armor, and other types of equipment, embedding glowing cores within them to grant the items magical properties.
+
+The peaked roof was just as opulent—covered in marble tiles with intricate swirling patterns that remined Nick of the great weaves of life mana flowing across the planet. The station only had one entrance, but it was wide enough to fit a cart through and bookended by elegant pillars made from the same material as the roof.
+
+In addition to its grandeur, he had the impression that the building was incredible durable. That if a cataclysmic event leveled the rest of the settlement, this structure would still be standing when the dust settled.
+
+Nick was eager to poke his head inside, but he left the citizens with crafting Professions go first, followed by the rest of the crowd. The committee discussed their plans until the last person finished their tour, then stepped inside the station to meet with Iris—the woman who had been nominated to represent Aurora’s crafters during the early stages of getting the city’s industries up and running.
+
+“Come on in.” She waved them into the building. Iris was the settlement’s best blacksmith, and she was so pumped up that she couldn’t stop smiling. “It will take us a while to figure everything out and get the station up and running, but we reviewed the information the System provided while everyone was looking around. Let me fill you in on what we found.”
+
+It turned out that while the crafters had no idea how anything worked just yet, the facility had come with a manual that explained the basics of operating it. It was enough to get them started, but the rest would have to be learned through trial, error, and experimentation. Some of the crafters were planning to take a modification-based Profession when they were able to pick a new one, but they didn’t need them to get started.
+
+“The first thing we learned is that while the mana wells required to build the station will let us create Common item cores and imprint them with some simple modifications, the facility is modular. If we plug additional types of mana into its matrix and figure out the recipes, we should be able to build rarer cores and more powerful mods as time goes by.”
+
+While she summarized what she had learned, Iris led them on an impromptu tour. The station had three separate components—immensely complex magitech devices that were irreplaceable for the time being.
+
+The biggest and most complex machine was something called a Core Forge, which spun raw mana into weapon and item cores. The device was covered in brass plates and glowing crystals. It had a series of conduits leading into the ground, which hooked up to Aurora’s mana fonts based on what Nick was sensing.
+
+The forge featured several mechanical arms that ended in mysterious tools. Right now, they were winding threads of mana around a spindle-like object. He found the process fascinating and had a hunch that if he came back and studied it later, it would provide some useful insights into mana manipulation.
+
+“We already put in the order for our first Common core,” Iris said. “It should be done by tomorrow morning. It looks like two per day is the limit for now, but I expect that number will grow as we become more proficient in the art and have more resources at our disposal.” Two cores a day wasn’t enough to start modifying gear like clothing and tools, but it would give them a leg up on producing magic weapons and armor for their new residents.
+
+The second machine was the instillation device, which could bind a core to an item of sufficient quality. Nick knew a little bit about item cores from various messages he had read, contemplating the logic of his System rewards, and talking to Gretta on the craft world Velen.
+
+He spent a few minutes sharing these insights with Iris, who added it to the information the building’s manual had provided before summarizing the details for the group.
+
+The short of it was more powerful modifications required rarer cores, which could also hold more mods in total. The quality of the materials an item was made from determined the type of core that could be installed, which was a permanent process. Just like the Core Forge, the installation device was automated. You just needed to insert a core, place the item below, and press a gem to activate the machine.
+
+The final area was the modification station where a core could be imprinted with a mod. It was significancy more complex than the instillation device and featured a massive workstation covered in peculiar tools.
+
+“This is the tricky part.” Iris explained that making a modification required a manual crafting process. It involved engraving a rune onto an item core, and the recipes for both Durability and Self-Maintenance mods had been included in the System’s primer.
+
+“So,” Nick summarized. “The forge produces a blank core, then an engraver adds the modifications, and the installation device implants it into the item.”
+
+“Exactly.” Iris nodded. “I hope to master the engraving process soon, but even if I mess up and waste a core, at least the item won’t be ruined too.”
+
+She thought Basic cores could hold up two simple mods but needed to run some tests to be sure. It was the first area they would investigate once Liz formed a team that was dedicated to item research.
+
+“Thank you for the explanation,” Elizabeth said when Iris was finished. “Keep digging into the details and let me know if there’s anything you need. Getting this station running at full capacity is one of our top priorities.”
+
+With that, the planning committee left the building and a group of crafters entered—already in the middle of an animated discussion.
+
+After hearing what had happened to Abby’s settlement, the committee’s primary objective was defending the city’s core, mana fonts, and Rare buildings. They agreed to spend the rest of the day developing their ideas individually and consulting with other residents before meeting up in the morning to finalize the design.
+
+In the meantime, Nick purchased some Monster-Detection Wards for 400 City Points. Just like the Weather Barrier, the wards were bound to the city’s domain. They would send a message to everyone in the settlement if a monster passed into its sphere of influence, preventing stealthy enemies from ambushing them unaware. They could also detect burrowing monsters and would give Team Earth at least some warning if an airborne threat arrived.
+
+Nick only had a vague sense of the details based on the vision he’d experienced when the Earth was transported and a few lines from the codex the System had provided. But it seemed likely that since the voidbears roamed the passageways between the nodes and sectors of the Labyrinth, other monsters did too. He expected they would be an ongoing threat once the entrances to the Mad God’s realm opened at the end of the year.
+
+Thus, not only were the wards insurance against their core being destroyed in the short-term, they were an investment that would protect Aurora in the future, spanning hundreds of miles as the city’s sphere of influence grew.
+
+While he thought the matter through, he spent the rest of the day going through the various options in his building menus, stopping to answer any questions his fellow committee members came up with while they worked on their own ideas.
+
+Liz and Kerry excused themselves part of the way through to prepare for the party. He stopped to watch the sunset with Kenji and Ella, and when Elizabeth called everyone over a few hours later, Nick followed her into what would eventually become the entertainment district.
+
+Right now, it was just a performance stage and dance floor, but Abby’s people had moved enough benches over to seat most of the city’s population, and set up the barbeque pits nearby. They had helped the chefs cook up a storm, digging deep into people’s stashes to find alcohol and additional ingredients to add to the shipment of vegetables they had purchased from Desert Rose and some others they had harvested in the wild.
+
+Several citizens had meat in their dimensional storage devices, which had less capacity than Nick’s bag but could preserve their contents for long periods of time. There were even some bottles and cans containing food from Old Earth—irreplaceable artifacts that marked the event as a special occasion.
+
+Feasting on meat and alcohol was a rare treat at this stage in the city’s development, and that was only the beginning of what Liz had arranged. Several bands were scheduled to perform over the course of the party. Right now, the stage held the man who played his violin during the battle with the wurm—who Nick had seen on several occasions but hadn’t met yet.
+
+It turned out that his name was Brad the Bard, which had already become a running joke. Name aside, Brad was one hell of a musician. Every song he played packed the dance floor and ended in wild applause.
+
+Everyone had a fantastic time, including Nick. He wound up dancing with several women, including Ella, Veronica, and Kerry. Mirium asked him to dance too, although she just wanted to see his reaction since they both knew her elemental would murder him if he tried.
+
+After what had happened earlier that morning, Nick and Liz kept their distance. He didn’t know what she was thinking, but he wasn’t sure that he could stop himself from kissing her if they wound up getting too close. Wasn’t sure that he wanted to for that matter.
+
+All in all, it was a wonderful way to welcome Abby’s people to Aurora, and a much-needed change of pace for people who had been working hard every day since returning to Earth. Everyone had a wonderful time, and they kept the party going until the early hours of the morning—ready to get some sleep, roll up their sleeves, and get right back at it the next day.

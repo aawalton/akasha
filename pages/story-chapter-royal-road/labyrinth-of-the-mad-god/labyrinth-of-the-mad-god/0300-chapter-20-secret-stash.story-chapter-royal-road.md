@@ -1,0 +1,117 @@
+---
+id: ca5fa31e-d6b2-5953-b413-62d7ca0835b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Secret Stash"
+slug: 0300-chapter-20-secret-stash
+partOf: labyrinth-of-the-mad-god
+position: 300
+ownLength: 2337
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3240066/chapter-20-secret-stash"
+royalRoadId: "3240066"
+---
+
+For the next two hours, they continued crossing the floating city.
+
+The route grew more complex as the party progressed, forcing them to circle around and walk under sections they had passed through above while following the bridges and stairways that were still intact.
+
+Nick had been hoping these platforms were powered by floatstone, since that would let him upgrade his backpack or construct a flying vehicle. But when he was able to get a good look at the bottom of a block, he was certain the city was powered by gravity magic instead.
+
+He recorded everything he could see and sense. His observations might provide Aurora’s researchers with some valuable insights, although he suspected they wouldn’t be able to reverse engineer the design until they entered the node and could study it in depth.
+
+By now, he was getting a better feel for Eroquis’s layout. The highest blocks were devoted to shipping and transportation. In addition to the airship terminals, there were tracks following dedicated lanes along the upper platforms. Based on what he’d seen thus far, they were designed to let magitech wagons deliver loads to the commercial and industrial sectors below, without the need for beasts to pull them or people to guide their course.
+
+That technology would come in handy back home, cutting down on the manual labor involved in moving resources from one facility to another.
+
+While his team had avoided getting into another fight, it was clear that they weren’t going to make it across the node in one day. The party still had quite a way to go, and the final leg of their journey would take them through the city’s middle strata, which wasn’t the kind of place that was wise to traverse while you were tired and overstressed.
+
+Since they needed to find a place to rest sometime within the next few hours, heading into the residential district made the most sense. The commercial sector was accessible from here, but it didn’t feature nearly as many intact buildings and was home to roving bands of monsters.
+
+As Nick charted a course, the team walked down a flight of stairs and crossed onto a block running between the territory of scaled spinners and a species of monster that looked like bright-green tardigrades the size of stallions. After making sure there weren’t any predators prowling nearby, the they started searching for an unoccupied structure with a defensible entrance.
+
+They passed by houses and mansions in various states of disrepair, sporting missing walls and collapsed ceilings. Eventually, Kenji spotted a large manor built entirely from stone, and the four of them approached to take a closer look.
+
+The property was considerably more militant than anything else on this block. It featured a tall wall encircling the perimeter, barred windows on every floor, and reinforced doors with heavy locks. As far as Nick could tell, the entrances were intact and nothing was living in the yard.
+
+Bandit shifted into Shadow Form and climbed onto Lurk’s head before leaping atop the wall. They followed below as the lemur made a full circuit, looking for any signs of monsters prowling inside the manor. After returning to their starting point, it was time to cross to the far side.
+
+“It would be best if we enter without forcing the gate open.” He turned to face Lurk. “Do you think you can make it over?”
+
+The dino looked down at him, issued a contemptuous grunt, then burned stamina while gathering the strength contained within her powerful legs. His jaw dropped as the multi-ton dino leapt over thirty feet in a single bound, clearing the barrier effortlessly before landing on the far side with a thump that was far lighter than he would have expected given her mass.
+
+Kenji could jump high enough to reach the rim, but doing so would rattle his metal armor. Nick switched on Force Acceleration and landed on top of the wall, pulling a rope out of his pack and lowering it for the warrior to climb. He grinned when he realized he was holding on instead of tying it off, revealing just how accustomed he’d grown to a body capable of superhuman feats.
+
+After Kenji rappelled down, Nick stowed the rope and hopped to the ground, where Bandit and Lurk were waiting after making sure the area was secure. He didn’t want to break any windows and there was only one entrance big enough for Lurk to slip through, which only left them with one option for making their way inside.
+
+When they reached the manor’s front door, they discovered it was locked. The device included magical and mechanical components, but the mana powering the former had faded long ago. Nick was trying to decide if he could break the mechanism without drawing too much attention, when Kenji took the matter into his own hands.
+
+The centenarian reached into his belt pouch and pulled out a pair of lockpicks, putting his ear up to the door after inserting the implements. He chuckled softly when he saw Nick’s expression.
+
+“I was a bit of a hellion in my youth. A locked door isn’t an impediment to a determined thief.” Sure enough, a few minutes later, something clicked and Kenji turned the handle. The man bowed as Bandit slipped in first, ensuring the way was clear before Lurk forced her body through the doorframe. While he waited, Nick slipped the lock into his bag, and the lemur returned just a few minutes later.
+
+Once everyone was inside, they closed the door behind them. Nick used his PDA to conjure a ball of light to illuminate their path, though it wasn’t too dark in the exterior chambers. They weren’t ready to call it a day, so the party decided to do some exploring while looking for a good place to camp for the night.
+
+It was clear from the dust that nothing had been through here in decades or more. Judging by the condition of the woodwork and furniture, no monsters had ever entered the building. The items scattered across the floor and general disarray were clear signs of people leaving in a hurry—desperate to escape the calamity that had engulfed their world.
+
+They swept the building for monsters, traps, and valuable items, clearing the first floor before moving onto the second. After finding nothing of the sort, they entered a wide room that connected to a series of spacious bedrooms.
+
+Nick and Kenji only needed four hours of sleep, so they agreed to stand watch while the beasts got a full night’s rest. He wasn’t tired, so he let the warrior get some shuteye before taking his turn. He set his PDA to sentry mode and left it with his friends. The device would sound the alarm if something entered the area, although that didn’t seem too likely by this point.
+
+He swapped Force Acceleration with Enhance Senses, keeping the perception-boosting power running while exploring the adjacent rooms. It was exciting to witness the architecture and artifacts of an alien species, and sad to know that even if some of them had survived, an entire world had fallen to Taltos’s machinations along with countless lives.
+
+He paid his respects as he inspected the grounds, vowing to do everything in his power to ensure Earth never suffered a similar fate. When he reached the last room, Nick came to a stop, focusing on the little voice that had been whispering in his ear over the last half hour.
+
+Eventually, he realized what was bothering him. The layout doesn’t add up. There’s a gap between the walls you can’t access from any of the rooms. It was too wide for a crawlspace, and the masterful construction that had gone into every aspect the manor indicated it wasn’t shoddy craftsmanship or an architectural oversight.
+
+Since he had plenty of time on his hands, he decided to dig deeper, hoping to solve the mystery before it was Kenji’s turn to stand watch. For the next fruitless hour, Nick studied the floorboards and walls, confirming that the concealed space extended to the first floor, and there wasn’t a way inside from down there either.
+
+Following his intuition, he moved into the master bedroom, where the owner of the mansion had resided. It was an interior chamber with only one entrance, which made it easy to ensure the privacy of whoever dwelled inside.
+
+Three walls were bare, but the fourth was covered by a massive mural engraved upon a sheet of marble that stretched from floor to ceiling. It depicted the city in its heyday, giving him a glimpse of what life here had been like before a cataclysm turned the planet into raw materials for the Mad God’s maze.
+
+After drawing a copy and memorizing the layout to help him chart a course, Nick took a closer look. He palpated the fresco, running his fingertips across the stonework while pushing, prodding, pulling, and twisting until he found a section that depressed with a faint, yet distinct click.
+
+A panel of the adjoining wall swung open on hidden hinges, revealing a wide staircase that led past the ground floor and into an area embedded within the platform itself. A grin split his face when he realized what he’d found. “It’s a secret passage.” He laughed. “I wonder what’s inside.”
+
+By now, it was almost time to wake Kenji up. Nick repressed his curiosity long enough to return to the room where everyone was sleeping. It turned out that his laughter had roused his party from slumber. When he explained what he’d found, everyone rose to their feet and insisted they check it out right away.
+
+“We can go back to sleep after.” Bandit let loose a sleepy yawn. “But a hidden chamber in a long-lost city is too exciting to leave unexplored a single minute longer than we must.”
+
+Even Lurk seemed intrigued by what they might find. Fortunately, the mansion was made from materials sturdy enough to bear her weight. The people who lived here were considerably bigger than humans and favored double doors, so the dino was able to squeeze through.
+
+Once they were in the master bedroom, everyone assumed a combat formation while Nick checked the stairs, in case there were monsters down there or threats of another nature. He switched on mage sight and Enhance Senses and proceeded down the flight one at a time, inspecting each step before placing his weight on it.
+
+However, he discovered nothing more menacing than mildew and dust and reached the bottom safe and sound ten minutes later.
+
+Nick thought the secret staircase might lead to a hidden dungeon or trigger some kind of event before remembering the System’s influence was weak outside of Earth’s node. Sure enough, the only thing down here was a large room—the private study of the owner of this property.
+
+He gave the all clear, and the rest of the party joined him in the concealed chamber. They gave the space a thorough examination before touching anything.
+
+Most of the room was filled with debris—furniture that had collapsed when the city was transported. On one wall hung a portrait of an armored knight holding a pair of reins. It didn’t show the mount or the rider’s face, although the proportions of their body were longer and thinner than a human’s.
+
+The remnants of a saddle and barding sat in one corner, revealing this warrior had gone into battle riding a beast of considerable girth. While all of this was interesting, Nick couldn’t help feeling a little disappointed… until he spotted a chest sitting in the far corner. “Payday.”
+
+While Bandit and Lurk played in the detritus and Kenji guarded the entrance, he inspected the tantalizing container. He scanned the area for danger using Size Up and every trick he knew, placing Arcane Shields as he drew closer inch by inch.
+
+Soon, all that was left was to open the box and find out what was inside. He switched out Enhance Senses for Force Acceleration and was ready dodge at a moment’s notice—Blightbane in one hand, his wand in the other, and three Mana Darts circling overhead.
+
+In the end, his sensible precautions were completely unnecessary.
+
+Nick had been worried the chest was trapped, but that wasn’t the case. Instead of a challenge from the System or one of Taltos’s tricks, this hidden room was exactly what it appeared to be. It was a timely reminder that the rules that had governed his trips to other worlds thus far didn’t apply to this place. He would have to rely on his eyes and his brain if he wanted to make the most of exploring the cosmic maze.
+
+When he opened the container, he discovered most of its contents had long since decayed, which made him wonder how many centuries had passed since the lid had last been lifted. However, five objects had withstood the relentless march of time.
+
+The first was a pair of gauntlets made from what appeared to be obsidian, although he was sure the material was far more exotic. They were textured with a pattern that reminded him of waves on a storm-wracked sea, and when Nick looked at them with mage sight, he spotted a thin layer of earth mana coating the armor.
+
+The next item was a simple length of yellow wood with a gem embedded in one end. Just looking at it was soothing, and it emitted a faint patina of life mana. He wasn’t sure what to make of it at first, but when he picked it up, he was overcome with an unshakable certainty that the object was a wand.
+
+When a message from the System wavered into existence before his eyes, he discovered the origin of his unexpected insight.
+
+You have acquired a magic item and possess a relevant skill that is high enough to identify it.
+
+Wand of Healing (Rare)
+
+This wand channels life mana from its user’s core to manifest regenerative magic.
+
+Modifications: Durability.

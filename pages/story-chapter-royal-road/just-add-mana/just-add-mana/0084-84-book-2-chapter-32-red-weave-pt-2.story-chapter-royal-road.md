@@ -1,0 +1,201 @@
+---
+id: 72487935-631f-586a-9b07-30701b078b1f
+page-type-slug: story-chapter-royal-road
+title: "84 — Book 2, Chapter 32 — Red Weave, Pt 2"
+slug: 0084-84-book-2-chapter-32-red-weave-pt-2
+partOf: just-add-mana
+position: 84
+ownLength: 3718
+unit: words
+ownProgress: 3718
+publishedAt: 2026-01-08
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2923493/84-book-2-chapter-32-red-weave-pt-2"
+royalRoadId: "2923493"
+markedReadAt: "2026-06-29T18:50:31.106Z"
+---
+
+The Red Knight felt a foreign magic seize hold of its very existence like the hand of a god attempting to shake something loose. The spell Cale was using was like no spell it could remember seeing—there was nothing of substance for it to block or cut or dodge. It couldn't remember the last time it had encountered a spell like that. Even most instantaneous spells operated through invisible causal lines that it could see. It was one of the reasons the Red Knight was so hard to fight.
+
+But there was no defending against the spell Cale had cast. Instead, something it didn't even know was there began to respond. Magic buried deep within its body began to burn with no conscious will behind it, an automatic reaction, and it began to grow.
+
+The Red Knight couldn't know this, of course, but a part of this was due to the control magic embedded in its body desperately attempting to stave off the effect of Cale's [Karmic Upheaval]. This happened sometimes, with sufficiently advanced control spells. If the target was hit by a spell that might break its subject free, then the control magic would force a series of uncontrollable mutations onto its subject, both as a sort of dead man's switch and as an attempt to forcibly alter its subject so much that whatever magic attempting to break it free no longer recognized it as a valid target.
+
+Unfortunately for the control spell, [Karmic Upheaval] identified its target by karmic signature rather than physical form, so even that last resort didn't work.
+
+Not that the spell could know that. Karmic magic snapped tight around the Red Knight, and the control magic within responded, pouring into its body as pulses of red-black power. It roared in response, staggering forward, slamming a suddenly-enlarged fist into the grasslands with enough force to make the ground beneath crack.
+
+Cale jumped nimbly out of the way, his expression slightly worried as the knight stumbled farther toward him, mutated changes rippling through its torso. Its armor expanded first, gaining enough weight to slam it down, and then the shadowy flesh within grew to fill the gaps.
+
+What appeared to be broken glass shot out like bullets as a ripple of magic passed through, triggering another shift in size. It slammed its other hand into the ground and snarled as that hand caught up with the rest of its body, then fell forward on too-small legs. It tried to get up, then almost tripped again when the legs followed suit. Cale's expression turned suddenly awkward, and the Red Knight found itself with the strangest impression that the human wanted to help it get up.
+
+He couldn't have, even if he'd actually wanted to. The Red Knight was three times the size of a regular human by now and still growing. It had no ability to see what was happening to it, but in an odd way, the control magic was mixing with the karmic spell in a way that was almost healing. The massive shift in size straightened out what were dented plates of armor and realigned limbs that had been shifted out of place by those shards of glass.
+
+It was a symptom of the control magic failing beneath the strength of the karmic resonance now pouring through it. A memory was trying to manifest, and part of that memory was an idea of what the Red Knight was supposed to look like. What it was supposed to be.
+
+And as the last vestiges of that control magic broke, the karmic spell that was now surging it pulsed, yanking the Red Knight up into the air like a puppet. For a moment, its karmic lines became visible just from the sheer density of magic surging into them. They showed up as a network of countless pink, tangled lines extruding out from its chest and spiraling up into the sky like something between a web and a motionless hurricane. Most disappeared out through the membrane between realms, connected with other realms and other beings.
+
+Most, but not all. A significant fraction of those threads twisted out of the spiral and connected instead to a certain Cale Cadwell Cobbs. The next flare of magic—the upheaval—made that particular set of threads blaze bright with energy, and in the light produced, a twentieth-tier spell grew visible. It appeared as something like a network of dark green threads hidden as a layer underpinning reality itself, and something about it felt deeply, painfully wrong.
+
+That magic, after all, had been trying to suppress the truth of the Red Knight's entire existence ever since it had been cast.
+
+When the karmic spell surged a third time, it tore a hole straight through those dark green lines for Cale and the Red Knight both. Through that hole, the memory that had been trying to manifest could finally coalesce.
+
+A friendly dance between titans, with the stars themselves held in wager. The Icon of Battle stands across from a human that wields impossible power. Both of them wear savage grins, despite the severity of the situation. The ongoing war weighs heavily on them both, but if they must train, then they will take what joy they can. No one begrudges this of them.
+
+The decision has been made, and the Monoliths agree it must be done. Those that gather now are those most reluctant to take on this duty, for only they can be trusted with its task.
+
+Yggdrasil must not be allowed to bear fruit. The prophesized Collapse cannot be allowed to see its end, for what should have been a moment of joy has instead turned into endless war.
+
+The Leviathan awaits, for now the mere size of a planet. Soon, she will be critical to maintaining the Great Realms. The Arrow of Time rests nearby with a number of others, having expended much of her power to buy them this precious bubble of time through which they can train and prepare themselves for the final push. For Yggdrasil is defended by a host of corrupted Monoliths, and the fight to get there will not be easy.
+
+The Source of Vitality watches nearby, an ostensibly impartial judge and there to offer his power should anything go wrong. His motives are plain, but the Icon of Battle does not begrudge him this.
+
+"You are ready?" the Icon of Battle asks. There's a rumble of anticipation in its voice, and it doesn't bother to hide it.
+
+"As I'll ever be," Cale says. "You know, Icon, it's weird we still like these practice battles. Considering we're doing all this to stop a war."
+
+"A duel is battle at its purest," Icon says. "What the realms face is a war that has long since left such battles behind. We are remembering what it was like to fight when the purpose was not to cause untold devastation. And it will be necessary when we take the battle to Yggdrasil. We cannot afford to wait for another one of your reincarnations to grow."
+
+Cale smiles. "You have a way with words, for someone who literally represents battle."
+
+Icon makes a grumbling noise at this accusation, though it's heard those words too many times now to be offended. "I do not represent battle. I am the Law of Arbitration."
+
+"You go by Icon of Battle and you told me you literally made two of the universe's fundamental forces duel to see which one gets to be called the strong force."
+
+"Yes, well. As I said. A duel is battle at its purest. I like them."
+
+"I know." Cale laughs. "So do I. Go on, come at me."
+
+The Red Knight launched itself toward Cale, locked within the memory now playing out in its mind; its armor was wrapped in thin lines of karmic light. Lost in the grasp of a memory, it could do nothing except play out what had happened, beat for beat. Even the spells it cast were more manifestations than anything cast with intent. It had, after all, long forgotten how to cast any of these spells.
+
+Yet caught within this memory, the spell it first cast activated anyway. [Worldcutter Discs] blazed into existence, each one strong enough to cut through a realm and more. The Red Knight saw Cale's eyes narrowing in recognition as he stared at the incoming spell. Each disc wove complicated, fractal patterns as they cut their way toward him, leaving echoes of Utelia bleeding through into the pocket realm.
+
+Even throughout all this, the Red Knight did its best to maneuver its blades carefully away from the false image of the world tree, where Cale's apprentices were working. It was a subconscious act more than anything else, but its promise still held strong for it.
+
+Of course, the true threat of the [Worldcutter Discs] had less to do with where they were aimed and more to do with the danger they posed to the realm itself. Without the karmic memory resonating within it, the Red Knight would never have considered casting it—the spell was designed to cut through the membrane of the realm itself. In a pocket realm, where that membrane was thin, there was a risk that the spell would sever that realm from Utelia entirely.
+
+And if that happened, there was no guarantee the realm or any of those trapped within it would stay intact. They would be adrift in the Abyss, and more likely than not, slowly dissolve into it.
+
+In that moment lost to time, Cale grins at the reality-cutting blades slicing through the air toward him. The blazing circles of mana cut so deep into their training realm that they leave a trail of day, tearing open through the middle of the night; over in the corner, the Arrow of Time makes a disgruntled noise as she traces their path with her eyes.
+
+Cale, of course, is traditionally unaffected. He offers his trademark grin instead. "Really? This spell again?" he asks. He conjures a slow, ponderous wedge of a barrier packed with enough mana to make the space and time fuzz at the edges, and though the discs cut slightly into its bulk, they eventually slide off to the side, embedding themselves into the Law-reinforced ground.
+
+"Come on, Icon," he says. "Show me something new."
+
+The problem was that Cale of the present couldn't rely on his barriers. He made an attempt, but trapped in the realm overlap as they were, his thick barriers only slowed down the discs.
+
+It was enough to buy him time, though. He poured mana into yet another spell through the Gift, and after a moment, powerful pillars of what appeared to be pure entropy spiked through the ground and slammed into each of its discs. The discs turned black on contact, then shattered and flaked into ash.
+
+The Red Knight was impressed, but it could make no comment on what Cale had done. It remained caught in the momentum of this memory of battle, and in that memory, it was preparing its next spell.
+
+The Icon of Battle moves into the next step of the dance. The now-useless discs dissolve, and battle calls for something new, so it sings out a songspell even as it draws a blade and charges. Mist floods into the arena.
+
+"I was never expecting to beat you with a single spell, of course," Icon responds, smiling. "But you are well aware of that."
+
+"This is new," Cale says, eyeing the mist warily as it obscures his vision. He attempts to wave it away with a barrier, but the mist reacts neither to wind nor mana; it is pure potential, magic converted to possibility. Within that mist, Icon is everywhere and nowhere.
+
+The Red Knight's [Fog of War] bubbled through the dirt, flooding the grasslands around Cale in a tight circle even as those celestial forges dissipated. The Red Knight didn't mind that the discs had been forcibly dispelled—it was, after all, just a part of the dance still playing out. It focused instead on the new spell and the control it brought.
+
+[Fog of War] created a domain within its control, and within it, the Red Knight could conjure spectral warriors. Manifestations of its own possibility, technically speaking. The spectral nature of the spell rendered it immaterial, capable of bypassing most barriers and the majority of mortal defenses. This spell had once been created to end entire wars in an instant, to disable whole armies, if it so chose.
+
+Yet it could feel the human fighting back, even as a half-dozen masters of the blade pressed their advance. When the fog faded, it found Cale still standing, though he was disheveled and out of breath. He held a sword in trembling hands, but hadn't escaped unscathed—his clothes were bloodied with cuts, some of them deep enough they might have been dangerous if not for the way he stuffed his own wounds with his magic. It didn't heal him, but it stemmed the flow of blood.
+
+"Now that just isn't fair," Cale complained, but he was grinning. "Do you know how long it's been since I've fought with a sword?"
+
+The memory of a response rose in the Red Knight, unbidden, and it spoke the same words it had so many eons ago.
+
+"You cannot neglect your skills in battle," the Icon of Battle admonishes, its tone showing only a glimpse of playful teasing. "Your mana may make you impervious to most threats, but it does not make you truly invulnerable."
+
+"Yeah, but I hate swords," Cale says.
+
+"You have conquered worlds with a blade."
+
+"That's exactly the problem!"
+
+The Icon of Battle laughs, in spite of itself. "If you refuse to wield a blade again," it says, "then you must be able to hold your own against one, even when your barriers fail you. Be creative, if you must. I have seen the tricks your mind conjures, and I doubt you have shown a fraction of what you have planned. We both will need this, in the time to come."
+
+The Red Knight conjured its [Zero Blade] once more, and this time, it let more of its mana pour into the construct. It was a function of the spell that even the few divines that learned it could not unlock—even if they knew it was possible, they simply didn't have the mana to accomplish it.
+
+Spell evolution was difficult to pull off at the best of times, especially with a spell that had already been conjured. [Zero Blade] was remarkable in that it could only be evolved after it had been conjured, with each torrent of mana pushing it into its next stage. Its first form alone was not unlike a seed had to be nurtured into greater and greater forms, and at its zenith...
+
+Well, at its zenith was the form that Cale would soon need, but they weren't here to think about that today. None of them could manage to push it there yet, anyway, even with all the strength they had gained as the Planar War raged.
+
+The [Zero Blade] became [The First Edge], and the Red Knight struck.
+
+Cale grins as the sword went straight through him. The Icon nearly drops its new weapon in shock, but the human appears entirely unarmed. "I might have a few tricks," he admits, as a sword meant to cut reality itself simply slides through him untouched. "Did you know if you push enough mana into it, you can convince the world you don't exist? Just for a couple of seconds, but it's a really useful trick."
+
+From the edge of the arena, the Source of Vitality buries his face in his hands. "Don't scare me like that," he says. "I thought I was going to have to resurrect you again. You know how much that sucks, right?"
+
+"I do seem to remember a lot of sucking."
+
+"That was—" The Source of Vitality colors and coughs. "That was after, and irrelevant!"
+
+"I dunno. Super relevant, if you ask me."
+
+"Are you two done?" the Icon asks, although it finds itself amused. "I hope you know simply dodging the blade is insufficient to defeat me."
+
+"Of course it is," Cale says. "But you're the Icon of Battle, so participating in the fight is just going to make you stronger, isn't it? My greatest weapon is awkward banter."
+
+"That is not how that works," the Icon protests, although the human is technically correct. Technically. For the purposes of a spar, it is a patently absurd point to make.
+
+"Sure it is," Cale says. He pulls a hand out of his pocket, flicking a small golden octahedron brimming with power into the air. "Just watch."
+
+The Red Knight found itself flinching backward, more from the memory of what Cale had done than what he actually did in that moment. Memory-Cale possessed artifacts beyond comprehension, forged within the pressures found only at the base of the river of souls. That version of him had chosen to end the Planar War desperately fighting to defend what was being slowly destroyed, no matter the cost, and his friends—of which the Icon of Battle was one—stood by that decision. They knew it had to end.
+
+But the current Cale had only just stepped foot on Utelia, and his last universe had been barren and dying. He had no such power with him now, only the strength of the Gift and eons of knowledge.
+
+The Icon of Battle knew better than to underestimate that knowledge. It remembered, now, but there were threads of that compulsion still hanging down over it, tangled in its soul. They would have to complete this memory to shatter it completely.
+
+Yet Cale's hands were still in his pockets, and he repeated his casting of that fire-element spell, conjuring massive tongues of flame that sought to capture and restrain it. Even with the emotional component of that spell, they both knew it wouldn't be enough to free it, let alone stop the power of [The First Edge].
+
+What was Cale up to?
+
+Cale was remembering the same things the Red Knight was remembering, at roughly the same time, so it was easy enough to step into his own role in the memories. The problem was that he really didn't have the same tools he had back then—at that point in time, he had accumulated quite a number of magical tools, all for the explicit purpose of the task ahead of them.
+
+That octahedron had been built by one of his favorite artificers. It was known as the Reforging Die, and had the remarkable ability to latch on to any weapon and change it into any other weapon, depending on the face it landed on. Cale had used it to reforge [The First Edge] into a garden rake, and while it had been an exceptionally deadly garden rake, it was still enough to throw the Icon of Battle off enough for him to win.
+
+The fact that he'd forgotten it all infuriated him. It was one of the few good memories he had of the time. They had been training, yes—preparing for the battle soon to come, knowing not all of them would survive—but it had still been the final moment of real peace he had with all his friends at the time. They knew they wouldn't come out of the battle for Yggdrasil the same, even if everything went according to plan.
+
+And they knew exactly how likely it was that everything would go according to plan.
+
+Cale sighed. Without the Reforging Die or the use of his barriers, he needed to find a different way to end this fight.
+
+Perhaps the Gift would have something for him. Even if there were cooldown restrictions on evolving a spell he had already evolved, there were no restrictions on the new spell he obtained.
+
+So he cast a spell twice. Once as a distraction, and the second one with even more mana, pouring into it.
+
+A double evolution.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Ten Tongues of Vesuvius] has evolved into [Tempered Forge of Hephaestus]!
+
+[Tempered Forge of Hephaestus, Level 1] [Fifteenth Tier (Unique), Active] [1.0e37 Mana]
+
+Call into existence the forge of Hephaestus and its master to modify any blade. Note that this spell will call forth a named mythology with the commensurate consequences; it does not provide control over the mythology in question.
+
+Another fiery aperture opened, but this time, a celestial forge poured out in a burst of lava. The Red Knight tried to arrest its movement, to no avail; Hephaestus caught [The First Edge] with ease, gave it a contemptuous look, and struck it a single time with his hammer. That strike reforged the spell instantaneously into a massive, overwrought javelin so heavy on one end that it stabbed into the ground, and the Red Knight struggled for a moment to pull it free.
+
+Then it stopped, bowing its head. "I yield," it said warily, staring between Cale and Hephaestus. Cale was mostly eyeing Hephaestus, not quite sure what to make of his magic summoning a named mythology, of all things. That was yet another thing that should have been impossible.
+
+"I do believe I asked to never see you again," Hephaestus said idly. He didn't sound too upset about it. He hadn't even gotten up from the wheelchair he sat in, and he was twirling his hammer around, looking between Cale and the Red Knight.
+
+"In my defense," Cale said. "It was an accident."
+
+Hephaestus rolled his eyes. "I should have let the sword hit you."
+
+Cale made a grumbling noise. "What happened last time was not my fault, and you know it. Besides, haven't you been looking for me? I'm pretty sure you've been looking for me."
+
+Hephaestus gave him a flat look. "Which means you were avoiding me on purpose?"
+
+"...I plead the Fifth."
+
+"You don't even know what that means."
+
+The Red Knight cleared its throat, finally free of the compulsion tangled on its soul. It took a step forward before its expression twisted with something urgent, like it had remembered something and was now suddenly alarmed. "Cale," it said, reaching out.
+
+Then it collapsed flat on its face into the grass.
+
+"That doesn't seem good," Hephaestus observed.

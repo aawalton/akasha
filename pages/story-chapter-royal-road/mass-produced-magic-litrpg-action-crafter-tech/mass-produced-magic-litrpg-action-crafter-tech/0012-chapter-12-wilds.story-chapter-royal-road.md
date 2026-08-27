@@ -1,0 +1,187 @@
+---
+id: 24ca2cf9-4c00-5e1b-8a94-3b2737127226
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12 – Wilds"
+slug: 0012-chapter-12-wilds
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 12
+ownLength: 2325
+unit: words
+publishedAt: 2024-11-18
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1909788/chapter-12-wilds"
+royalRoadId: "1909788"
+---
+
+With her heart thundering and a cold sweat breaking out, Kindra swallowed. Where can I hide? She turned to the forest. “Aika, can you clear a path? We have to go.” Spinning her spear around the middle, she scythed through the undead below her rooftop. A spray of light flew through the creatures. They dropped, and the ground trembled. Shit.
+
+Aika shot down the lane, sending waves of light cascading around her. The field full of undead turned, and she blurred through them like a tiny blender of light.
+
+Sweeping the legs of a dwarf, Kindra jumped from the roof and followed, racing down the road and bursting out of the city. Undead littered the fields. An undead dwarf turned. She slammed her spear into it and kept running, her feet sinking into the bloody ground.
+
+Her eyes flickered to the distant trees. Several seemed to be dying, their leaves turning a deep brown, the runes of the undead disease lingering around their large trunks. Sap dripped from scratches in the trunk. A distant undead clawed at it.
+
+Strange. She scanned the field and slowed, looking at the masses of undead. Aika shot out of a mulling group. Then she dove, soaring back through the group and gathering others. “Kindra! Spell!”
+
+Kindra burned magic, focusing it into a ball of radiant energy. The ball shot forward, and she sprinted toward it. Make a path. Get to the trees. A shiver ran down her spine.
+
+“Kindra?” the ancient voice whispered through her mind.
+
+With mud spraying behind her, she sprinted, and her ball exploded. Waves of light radiated out, and the undead dropped, their magical strings cut away.
+
+The nearby undead all turned, drawn to the light. They charged across the fields.
+
+Shit. Shit. Shit. Kindra sprinted, using her spear to vault over a small group of undead that Aika was fighting.
+
+Landing with a thump, she saw the remaining undead. They charged, surrounding her. Her panic grew with every heartbeat. The undead swarmed forward, creating a massive wall. She stopped, and the panic spiked. There’s no way out.
+
+With no other option, she burned all of her remaining mana, focusing it into an explosive ball. Bracing herself, she held out her spear and waited.
+
+The undead charged. The ball of magic pulsed, and Kindra felt the presence push further into her mind.
+
+“I have missed you, my daughter,” the voice whispered.
+
+The hell? Kindra slashed her spear in a circle. Light flashed around her. Claws raked her leg, and the ball exploded. A wave of light crashed over the group, and she sprinted, charging through the collapsing horde.
+
+Pain burned through her. Blood trickled down her leg, and she ran in reckless abandon, charging into the forest. Large-leafed trees surrounded her. Bushes and grasses grew in errant patches of light. The smell of dirt and water filled the air, and she ran, bounding off roots and rocks.
+
+“Stop!” the voice barked, and she felt a strange urge to obey it. A wave of magic washed over her in a soft, yellow light. Runes danced around her like stars, and she slowed.
+
+A sequence of runes flashed before her, and the realization hit her like a torrent of icy water, causing a cold sweat to break across her skin. Hell no. Smashing the runes into pieces, she ran, rushing deeper into the forest.
+
+The trees grew taller. Moss and vines appeared, verdant blankets that decorated the towering trees above. The forest was engulfed in shadow; the light blocked by the distant canopy of green.
+
+Kindra ignored all of it, charging through the trees. Deeper. Deeper. She locked onto the ambient mana and chased after it.
+
+Aika shot forward. “Kindra?”
+
+“It’s coming.” Racing around a cottage-sized tree trunk, she tore through the growing jungle. Bugs and birds chirped. The smell of humid earth filled the air, and the creature spoke again.
+
+“Kindra! Come back. It’s dangerous!”
+
+Kindra felt the growing compulsion and shattered it, smashing through the runes and sending the magic bursting around her.
+
+She leapt from a root, landed, and sprinted, her feet sinking into the soft dirt of the forest. The space grew quiet. The presence seemed to dim, and she ran towards the fog of mana in the distance. Maybe it can hide me.
+
+“Kindra, my darling. Please. Come back. I’ll explain.”
+
+She didn’t slow. She couldn’t slow. It was behind her, and it could see her. She ran, desperately praying that the forest could hide her.
+
+Trees blurred around her. Something roared. She did not stop, bounding off roots, rocks, logs, and whatever else that was in the way.
+
+Running. That was her new constant. Her legs burned. Her lungs burned, and she sprinted recklessly, fleeing the ancient presence.
+
+“Kindra!” Aika shouted.
+
+Bursting out of the trees, Kindra sprinted across a meadow of tall grass. A distant, massive bison-like creature lifted its head, and she slowed, stopping on some hilltop. Is it friendly? She reached for her gun, just in case.
+
+Aika fluttered up and landed on her. “Kindra, where are we?”
+
+Kindra spun. The mana was thick, hanging in the air like a deep fog. Searching for the glowing entity, she failed to see it. Thank God. Pulling out her gun, she checked it and looked at the bison. We might be able to eat it... Wait. She studied the creature. The mana in its fur was nearly as thick as the mana around her. It turned toward her, its brown eyes glowing with it.
+
+Looking at her gun, she swallowed. I don’t know if this will cut it.
+
+The bison snorted at her and pawed the ground. That’s not good. Kindra took a step back, and the bison snorted, stepping forward.
+
+Kindra took another step backward. Her foot sunk nearly four inches. The ground trembled, and the bison stepped forward, its hooves sinking into the dirt. A small tremble carried across the soil, and the ground buckled, collapsing inward.
+
+She fell with it, her arms flailing as she plummeted with the dirt and grass.
+
+Spinning, she looked down and saw the ground rushing to meet her. Oh, shit.
+
+She hit with a heavy thud, dirt and grass raining around her. Well. I doubt that it’s—shit!
+
+The mammoth-sized bison came crashing down, slamming into the ground with a massive bellow. Aika zipped up and began attacking it using her spear and sword. Neither did a thing to the bison, failing to pierce its thick hide.
+
+Where the fuck is the tutorial level? Kindra groaned and forced herself up, wobbling and shaking. Jagged pain knifed up her leg. She looked down and saw the gashes from the claws, now filled with dirt. Great. Just great. I’m going to get sick and die on this stupid planet.
+
+Reaching down, she picked up the spear and looked at the bison. It snorted at her and tried to stand, its legs buckling under it with a snap.
+
+Guess there are limits when it comes to gravity and weight. Looking around her crater full of lumpy sod, dirt, stone, and bison, she frowned. I’m going to need Aika to get me out. Sighing, she spun and saw a pond of mana floating in the corner. I’ll figure that out in a minute.
+
+Moving closer to the bison, she tried to use her spear to finish it off, shoving the spear into its neck. The spear didn’t seem to do anything, and the bison glared at her. Snorting and failing to stand once more.
+
+“How do we kill it?” Aika asked, fluttering up.
+
+Kindra shrugged. “No idea.” She looked at her spear and considered it. How sharp can I make this thing? And will it matter? Burning a tiny amount of mana on Transmutation, she focused on making the tip the sharpest thing ever. She wanted every molecule lined up for razor precision.
+
+The tip shifted, and she tried again, backing up and running before slamming the spear into it. The spear stopped instantly. Kindra’s momentum worked against her; she slipped, slamming onto her bottom.
+
+Sighing at her wounded leg and the immortal bison, she grabbed a knife and opened her bag. Cutting off a strip, she reached down and tied it around her leg. It’s going to get infected.
+
+Letting out a long breath, she looked up at the blue sky and jerked the bandage tight, letting out a small whimper. I need a healing skill. Sighing, she looked at Aika. “Anything?”
+
+“You pricked it and broke off the spear tip. It almost bled.” Aika sighed. “Stupid thing. How do you kill the unkillable?”
+
+“You approach it scientifically. Analyze the problem. Find the solution,” she echoed her father’s words without thinking. Turning, she looked at the beast, and a realization hit her: “I know how to do it.”
+
+“Good. How?”
+
+“It has to breathe, right?” Kindra said, gesturing to its moving ribs.
+
+“That’s a little dark, but I agree.” Aika fluttered over and picked up a lump of sod. Flying it over, she dumped it on the bison’s head. It looked up at her and snorted.
+
+Reaching down, Kindra did the same, grabbing sod and tossing it on the bison.
+
+The two quickly got to work, tossing sod onto the bison’s head. Rocks hit its skull. Dirt and grass landed, and it snorted contemptuously.
+
+Should I make a shovel? Kindra debated it while throwing sod and dirt. The minutes slowly ticked by, and they slowly built a mound around its head.
+
+Pausing for a breath, Kindra dusted off her hands and looked at the pile of earth that now encompassed the bison’s head. It bellowed as if to prove it could still breathe.
+
+Aika crossed her arms and huffed, stomping on the dirt. “Rotten thing.”
+
+“I think we’ll have to shovel way more.” Kindra sighed, and the bison shook its head, knocking the dirt away. It looked at them both with an expression of disdain and bellowed, the sound ringing throughout the pit.
+
+Kindra shook her head. “Can you get a vine? I could climb out.”
+
+“Okay, but we’re killing it.”
+
+“That’ll be easy once we get out of the pit. We can start a fire on top of it.”
+
+Aika zipped away, and Kindra grabbed more sod, piling it near the head. Aika flew back with a vine. She dropped it in the pit. Walking over, Kindra tossed her spear out and climbed up the vine, grabbing it hand over hand and pulling herself out of the pit.
+
+Hauling herself out, she walked to the forest’s edge and looked at a tree. That’ll work. Pulling an axe from her belt, she swung. The axe hit the wood and bounced off, not even scratching it.
+
+You have got to be kidding me! Kindra felt like screaming. She glared at the horrible tree, studying the mana flowing through it. So, it’s what? A level one hundred tree that’s strengthened itself so much that I can’t even chop the darn thing?
+
+Huffing, she blew the hair from her face and glowered at the tree. System, this game sucks.
+
+[Not a game, as I’ve told you repeatedly.]
+
+Kindra turned and walked away, looking for fallen branches. She prowled around the edge of the meadow, peering into the trees and listening. Birds and insects chirped. That’s promising.
+
+She walked around the edge and halted. A tree was lying there in shattered, jagged pieces. Did that explode? Or did gravity eventually win? Looking at the massive trunk that remained, she saw the bugs. They were swarming the wood, attacking the tree in earnest.
+
+Walking over to a large piece of wood, she pulled out an axe and chopped. The bugs and birds went quiet. She hacked away at it, cutting off a piece and tossing it into the pit.
+
+Aika fluttered overhead, peering into the forest. Time slowly passed while Kindra cut and dragged pieces of wood to the pit.
+
+After a few hours and a lot of sweat, she gestured to Aika and returned to the pit. I need to get stronger. A lot stronger. Climbing into the pit, she walked over to the bison and piled wood around its head. Now. I need your help, Death or System. What’s the rune for fire?
+
+[The system is not designed to give you this information.]
+
+Huffing, Kindra scowled and looked at Aika. “Any ideas on how to start this thing?”
+
+“You could make a bow. Or you could rub two together. We are stronger now.”
+
+Kindra groaned and grabbed a piece of wood. Cutting a notch in another, she began sawing it, pushing it back and forth with increasing speed.
+
+Aika flew down and grabbed the other side. Each pushed it back and forth with increasing speed. It began to smolder, smoke wafting around them.
+
+Kindra pushed herself, sawing faster and faster. Her arm began to throb as the smoke drifted around them. Come on. Light already. She blew on the wood, trying to get some embers. Nothing glowed. It just smoldered.
+
+Groaning, she resumed sawing, shoving the board back and forth while smoke drifted around them. The bison bellowed and knocked the wood aside.
+
+Kindra ignored it and sawed. Come on. Come on.
+
+Minutes turned to an hour before Kindra was too exhausted to continue. She threw the wood, coughed on the smoke, and groaned. “Let’s get out of the smoke hole.”
+
+Aika shot out. “Gladly.”
+
+It was so easy on the TV show. Kindra ran to the pit’s edge, grabbed the vine, and pulled herself up, plopping onto the grass.
+
+“That’s hard.” Aika landed next to her and looked out into the forest. “What are we going to do? Use your gun?”
+
+“I’ll turn it into something flammable.” Kindra sighed and listened to the stupid, bellowing bison. “Just shut up down there. We get it. You can’t breathe.”
+
+Jerking up, she looked down at the smoky pit and grinned. Was that enough? An eager smile spread across her face.

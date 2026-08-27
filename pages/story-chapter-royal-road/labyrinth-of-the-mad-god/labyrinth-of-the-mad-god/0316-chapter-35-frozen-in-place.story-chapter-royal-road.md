@@ -1,0 +1,129 @@
+---
+id: cec076bb-5dc8-5699-a040-7e35fb791145
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: Frozen In Place"
+slug: 0316-chapter-35-frozen-in-place
+partOf: labyrinth-of-the-mad-god
+position: 316
+ownLength: 2062
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3466165/chapter-35-frozen-in-place"
+royalRoadId: "3466165"
+---
+
+The party remained frozen in place for hours, not daring to move a muscle until they were certain that no dreadbeasts were lurking nearby and the danger had truly passed.
+
+While he waited, Nick pulled up his menus and read through his updates.
+
+Through use, you have improved the following skills:
+
+Pathfinding has increased from [3] to [6].
+
+Size Up has increased from [27] to [28].
+
+Stealth has increased from [11] to [13].
+
+Those were considerable gains for such a brief stay on this world. It was proof that the dreadbeasts were just as dangerous as they appeared, since his skills only grew that quickly when the stakes were life and death.
+
+With a mental command, he swiped the floating screen to display the next page.
+
+System Update: Species Milestones
+
+You are the first member of your species to cross the Labyrinth and arrive at a major node. As a result, you have unlocked the following entry in the Codex of Taltos and the Labyrinth: The Fringe.
+
+You are the first member of your species to encounter a dreadbeast. As a result, you have unlocked the following entry in the Codex of Taltos and the Labyrinth: Dreadbeasts.
+
+Species and planetary experience have been awarded for your accomplishments.
+
+The codex unlocks weren’t a surprise, but Nick hadn’t expected the System to hand out species and planetary experience for the milestones. It seemed that exploring the Labyrinth would provide benefits beyond his own advancement.
+
+He doubted his people would evolve again anytime soon and had no idea how close his homeworld was to reaching Level 2, but it felt good to contribute to his species’ survival over the long-term, along with every creature that called Earth home.
+
+For your personal contribution in reaching these milestones, compatible essence has been awarded.
+
+You have accumulated sufficient essence to advance Arcane Shield to Rank 3. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Enhance Physical Senses to Rank 2. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Force Acceleration to Rank 3. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Force Riposte to Rank 2. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Heavy Blow to Rank 3. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Mana Dart to Rank 5. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance Piercing Ray to Rank 4. However, you lack the understanding required to advance the ability at this time.
+
+Holy fucking shit. Nick’s eyes went wide when he realized that instead of receiving experience, ability stones, bonus attributes, or items this time around, he’d been granted enough essence to rank up every ability in his collection.
+
+Under the circumstances, it was exactly what he needed.
+
+His understanding of mana and stamina was growing far faster after obtaining his Vital Energy Manipulation skill and enhanced Mana Manipulation trait. Now, he had all the essence he needed to progress at breakneck speed.
+
+By the time he left the quarantine zone, his spells and combat arts would be night-and-day stronger than when he’d arrived—let alone whatever gains he acquired for eliminating the dreadbeasts and gaining access to the geneline library mentioned in the quest’s reward.
+
+Judging by the expressions on his companions’ faces, they had received something similar. Nick could see excitement dancing in their eyes alongside the apprehension their close call had evoked.
+
+After taking a few minutes to silently savor his accomplishment, he moved on to examining the codex entries he’d unlocked. Under the circumstances, he decided to start with the entry on dreadbeasts.
+
+Dreadbeasts
+
+All living creatures absorb compatible essence from the world around them, process it as they advance, and generate novel frequencies in return, increasing the variety and quality of essence within their environment.
+
+The accumulation, transformation, and release of essence serve countless roles—everything from helping lesser creatures rank up their abilities to fueling faction bonuses to contributing to the development of world cores.
+
+Conversely, dreadbeasts consume all forms of essence, along with stamina, mana, and health. They release nothing in exchange, draining the planet’s vitality and leaving ruin in their wake.
+
+As dreadbeasts evolve from thralls to lords to monarchs and beyond, they develop powers that not let them siphon energy from the biomes they inhabit, eventually growing strong enough to feast upon the world core itself, erasing all life from the planet before spreading their plague across the stars.
+
+As such, dreadbeasts are considered to be unliving, or anti-living. They are sometimes referred to as undead, although that term is misleading, as they share biological processes in common with living organisms such as nervous and circulatory systems. Their existence is in direct threat to the System’s objectives and destroying them will be richly rewarded.
+
+That’s even worse than I expected. No wonder Bandit is so dedicated to wiping them out and making sure they never return to Earth. While pondering what he’d learned, Nick moved on to the next codex entry his team had unlocked.
+
+The Fringe
+
+While the taxonomy of the Labyrinth is so complex that only Taltos comprehends its entirety, the ever-expanding maze can be divided into four broad strata.
+
+The heart of the Labyrinth is surrounded by Taltos’s domain. Both regions are shrouded in mystery, and no one has traversed them and emerged to tell the tale. Beyond those central strata lies the established Labyrinth, which is ruled four lesser gods comprising the Mad God’s pantheon: Slaughter, Spectacle, Suffering, and Splendor. The maze’s magic suffuses these established regions, and the System’s influence is minimal where it can be felt at all.
+
+The largest and newest section is known as the fringe, which is formed from stolen planets and celestial phenomena that have fallen into Taltos’s grasp. The System’s influence is stronger in the fringe and the Mad God’s influence is weaker, as is the Labyrinth’s magic. In a process that has been compared to a root structure spreading through soil, the interior of the fringe becomes fully established over time, and new sectors are added to the periphery.
+
+The mana and essence suffusing the fringe isn’t strong enough to sustain entities that have transcended beyond Tier 3 or Species-Grade B for prolonged periods. There are countless riches hidden within uncharted nodes, which makes the fringe prime hunting grounds for the pantheon’s elites, patrons who prefer to take a hands-on approach, and other unaffiliated entities.
+
+This is fascinating, although not particularly relevant to completing my quest. Unless we get a chance to speak with people like Pax, unlocking more codex entries is humanity’s best bet for deepening our understanding of the Labyrinth, the System, and the multiverse in general.
+
+Deeply relieved that the dreadbeasts hadn’t reappeared, Nick closed his codex and studied the information packet the people who had issued his quest included. He could tell right away that there was way more information than the System generally provided, which would help team plan out their strategy from the get-go instead of having to figure out everything for themselves.
+
+In addition to a detailed map of the dungeon, the packet included the names, appearances, and territories of the five dreadbeasts they had come here to kill. There was Black-Wind Vashir, which resembled a gargantuan bat—the creature that had flown over the ravine. Next came Xuthu the Storm Lord, which looked like a giant golden scorpion wreathed in electricity.
+
+The third dreadbeast was called Zora the Death of Dreams, which reminded Nick of a butterfly with crystal wings. Ban-Li the Walking Conflagration was a towering ursine formed from living flame. The fifth and final dreadbeast was Fennier the Swarm King, whose body was formed from a cloud of venomous insects.
+
+The packet didn’t have much regarding the creatures’ powers, but it was better than starting from scratch and would save the party precious hours as they hunted the lethal beings. It did mention that Zora and Fennier were the strongest of the five, which was better than nothing.
+
+By now, it was clear that they had evaded the dreadbeasts’ notice. The party came out of stealth mode and put their heads together while taking a look at the map and the descriptions of each biome.
+
+“Given how powerful these creatures are,” Kenji said, “we should save the strongest for last. We can wipe out the other three and defeat any monsters we encounter enroute, levelling up and ranking up our abilities as we go. With any luck, everyone in the party will hit Tier 2 sooner rather than later, and we can deal with the strongest dreadbeasts on something closer to equal footing.”
+
+Nick nodded his agreement as he memorized the notes on the biomes where each monarch was laired. Although, judging by his brief out-of-body scouting run, this land had changed considerably since the quarantine zone was created.
+
+The first region was known as the Emerald Expanse. It had been filled with lush prairies and verdant forests prior to the dreadbeasts’ arrival. It included the cleaning where they had passed through the rift and the spot where they were standing right now, though you would never know it from the gorgeous images included in the packet. Xuthu’s lair was in the Expanse about fifty miles south of the party’s position, but there weren’t any details other than a rough estimate of its location.
+
+The second biome began twenty miles to the north. The Hungering Mire was a fetid swamp that was home to shallow waterways and marshy bogs. It was rife with sinkholes, quicksand, and other environmental hazards. Unsurprisingly, it was where the Swarm King had established its stronghold. Of all the territories, the Mire seemed like it would be the hardest to explore, although Nick’s skywalking technique and Pathfinding skill would make a big difference.
+
+“If the biome was this bad before the dreadbeasts arrived,” Kenji said as they discussed the region, “I’m not looking forward to finding out how much worse it is now.”
+
+The third area was called the Cratered Lands, which began a few miles to the east. Meteors had bombarded the biome in millennia past, leaving colossal impact craters scattered across the region. In some places, several meteors had struck the same area, forming a series of crevices that continued deep below the ground.
+
+According to the packet, Vashir had claimed the Cratered Lands for its own. “Those cervices are far more expansive than the ravine where we’re standing.” Nick brushed a stray lock of hair out of his eyes. “I wouldn’t be surprised if the dreadbeast is laired belowground.”
+
+The fourth region was the Misty Expanse, which had been claimed by the dreadbeast Zora. The biome was a lush tropical jungle, although there was no telling how greatly it had changed since the dreadbeasts’ invasion. It was an environment that Bandit and Lurk would be at home in. However, the dense canopy would limit the utility of aerial observation.
+
+The final biome was Ban-Li’s domain. The Burning Wastes were far to the south the party’s position—home to dozens of active volcanoes and expansive lava flows. In addition to the heat, smoke, and toxic fumes, the ever-present threat of eruption made lingering anywhere nearby a frightening prospect.
+
+“On the other hand,” Kenji said, “I’m not sure that anywhere in in the dungeon will be spared if one of those volcanoes blows its top.”
+
+The map’s final feature was a sprawling city in the center of the five biomes, which had been the capital of the country prior to the dreadbeasts’ invasion. It was evacuated before the quarantine zone was erected, and while Nick was curious to see a city built by alien hands, there wasn’t a reason to head there now. Maybe we can take a quick peak once the quest is complete.
+
+“Now that we’ve read up on the dreadbeasts and their territories,” Bandit said, “it’s time to teach these foul creatures a lesson they will never forget, purge them from this world, and find a way to ensure that they never return to ours.”

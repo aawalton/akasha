@@ -1,0 +1,143 @@
+---
+id: 5953c904-1524-59b3-b95c-0ee348011460
+page-type-slug: story-chapter-royal-road
+title: "Chapter 394: Epilogue"
+slug: 0013-chapter-394-epilogue
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 13
+ownLength: 1442
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/3307921/chapter-394-epilogue"
+royalRoadId: "3307921"
+---
+
+Aftermath
+
+12 months later
+
+Quinn never understood why some people just didn’t take proper care of their Library books.
+
+Pieces of rock showered down as the horns of the minotaur scraped against the cavernous ceiling. The adventure party cowered behind one of the few remaining stalagmites in the room. Jiro marked his original place and flipped frantically through the pages of the magical tome they’d borrowed, determined to find the solution he was sure he’d read.
+
+“Hurry up! I thought you said you read the damn thing!” Patty yelled at him, her voice quivering with fear despite the anger it contained.
+
+The minotaur roared, leaning forward with a massive swipe of its arm to cleave another stalagmite out of the way. There were only three of them remaining, including their hiding place.
+
+The massive creature looked up, pausing for a moment as it sniffed the air, before moving one massive hoofed foot in their direction. Beneath them, the ground rumbled. So much so that the party of adventurers lost their footing briefly.
+
+More debris floated down, covering all five of them as the creature’s horns scraped even more of the ceiling cover to rain upon them.
+
+“Hurry up, Jiro!” Hastius spoke softly, his fear clear in his eyes.
+
+It really looked like Jiro was trying to hurry. Everyone had been eager to find the potential treasure in this cave. But not all of them seemed to take responsibility for surviving it.
+
+A stone fell from above, landing briefly on the edge of the pages of the book, snagging on it, and tearing a tiny piece free before the rock plummeted to the ground. Jiro tsked under his breath. Damaging a Library book was never a smart idea.
+
+It really didn’t seem to be his day.
+
+A sudden wind picked up, swirling around the minotaur and the adventurers, pulling and tugging at everything in the room. It barely let them keep their place behind the giant stalagmite. To be honest, they only maintained footing because they were squished up against it.
+
+Jiro looked around frantically and seemed to notice, almost absentmindedly, that the book’s pages were perfectly still. Not a ruffle.
+
+A tornado formed in the middle of the cavern. It approached the minotaur with precision before engulfing it entirely. With a loud pop, they both disappeared, and minotaur bones dropped to the floor with a clatter, dried of any muscle or sinew.
+
+“There we are!” Quinn said, appearing and dusting her hands together as if the remains of the creature offended her.
+
+Suddenly, the book was no longer in Jiro’s hand. He blinked down at it, looking all around himself in confusion.
+
+Quinn waited for him to catch up with the rest of them as he slowly raised his gaze. She sat, cross-legged, hovering about five feet off the floor in front of the little group.
+
+“Librarian Quinn!” Jiro stuttered out.
+
+She frowned and held up a hand while turning the book over gently with the other. Her lips pursed in disapproval at the tattered state of her book. Several dog-ears to mark spells, and the rip from the rock just now. “This is unacceptable.”
+
+“We’ll pay the fine. Anything!” Jiro rushed to say. He knew he wasn’t the only one who’d damaged it, but it wasn’t a good idea to get on the Librarian’s bad side by trying to blame others in his group.
+
+Quinn grinned with no mirth at all. “I’ll make sure you’re put on Eric’s docket, then, shall I? That would be best, I think.” Her question was entirely rhetorical.
+
+“You came for the book and not to help?” Patty asked, flummoxed.
+
+“Of course I did!” Quinn snapped the book shut after her inspection and glared at the group. “You’re lucky I arrived in time. That minotaur was the wrong subspecies. You’d all have died, and then who would pay my fines?”
+
+Their expressions were priceless, and Quinn had to bite the inside of her cheek to stop from laughing. Eric was going to have a field day with this.
+
+“You’ll be summoned to plead your case for the extensive fines from today. Await Eric’s message.”
+
+With a pop, she was gone, leaving only a slight scent of lavender in her wake.
+
+* * *
+
+Quinn landed back in her office, placed the book on her desk, and fell to the plush rug to roll around laughing.
+
+“That wasn’t very nice,” Malakai said, but there was laughter underlying his tone.
+
+“What are you talking about? I saved them. They’d have died three heartbeats later if I hadn’t come along.”
+
+Malakai studied her. “I’ll give you that. It was a good deed.”
+
+Quinn stood up and leaned in to give him a soft, lingering kiss. “Next time, drop your invisibility. It’s more fun that way.”
+
+Aradie hooted from the corner in what was definitely an owl laugh.
+
+Grabbing the book, Quinn headed out to the front desk.
+
+The Library shone in all its glory. The pillars were stronger than ever, and power hummed under their feet like a purring cat. Quinn nodded at two of the security golems and a couple of satyrs sent by Uncle Hal for training. She placed the book on the desk and tapped it.
+
+Dottie popped her head over the counter. “Librarian!” She smiled so widely Quinn thought it had to hurt.
+
+“Got that book back.”
+
+The superellux futora frowned and trotted down the stairs and around, the rhythm of her feet still slightly off since the break. She swore it didn’t hurt, and Quinn hoped she was telling the truth. “Did you go and interfere again?”
+
+“They were going to get hurt by being reckless and foolish,” Quinn grumbled. “Trying to juggle magic they hadn’t even practiced!”
+
+“You should know all about that, shouldn’t you?” Dottie admonished.
+
+“Fine. I’ll try not to it again.”
+
+Dottie’s laughter peeled through the Library. “You have to learn to lie less. Or better. One of the two.”
+
+Quinn laughed. “Just wanted to get this to you. I’m starving.”
+
+“Oh!” Dottie continued. “I forgot. You’ve got your family waiting in there, and I think Hal and Milaro are with them.”
+
+Quinn groaned and made her way through to the culinary branch. She’d wanted to talk to Cook alone, but it didn’t look like that was on the menu. Malakai trailed behind her, his head in another book as he somehow navigated the way without looking up once.
+
+“Cook!” she said as she walked in, delighted to see them.
+
+They paused for a second and nodded. “Librarian. I believe goulash would do your mood today.”
+
+She grinned. He’d got it right. Again. “So, to what unfortunate set of circumstances do I owe all of your visits today?” she asked, sitting down with Drukala, Drivok, and Dronar, not to mention Hal and Milaro.
+
+“Funny you should mention that, little dragon,” Hal said. “It seems we’re having difficulty with the penal planets.”
+
+“Both of them?” Quinn sat up straight. After lengthy interrogation and cooperation from their governments, a slew of Mamoria and Unisceros had been confined to penal planets. The federations across several galaxies determined them to be a threat to all the universe, and contingents of guards were sworn in and allocated to the prisons.
+
+It was amazing how fast bureaucracy moved when the destruction of the universe was imminent.
+
+“Both of them,” Milaro confirmed.
+
+Quinn sighed. “Is this something that needs System intervention?”
+
+They shook their heads, and Cook delivered her bowl of goulash.
+
+“How about Librarian intervention?” she asked as her mouth salivated.
+
+“Not yet,” Hal said hesitantly.
+
+She nodded and slurped down a spoonful. “I’ll keep an eye on it. But it really helps if we all do. Let’s not get caught unaware again.”
+
+Cook brought out bowls for everyone, and Aradie chirped from Quinn’s shoulder. “You don’t like this.”
+
+Another hoot. “Then go and get some food from Farrow. I do love you. Stop it. I can’t help it if you’re bored now the Library’s put back together.”
+
+Everyone laughed, and Quinn looked around at her family. She missed Drevicia so much it hurt, and even if being the Library had its perks, she still wished she’d gotten to spend time with her parental cosmicisodracus. This would have been so much fun to share with Jasper too, but to be honest, this was still more of a family than she’d ever dreamed of having. Malakai squeezed her hand, and Quinn leaned into his shoulder.
+
+A sudden cackle of glee echoed from the main chamber.
+
+Quinn grinned. Eric had found the fine ledger addition.
+
+She just hoped fines remained the Library’s only troubles.
+
+At least for now.

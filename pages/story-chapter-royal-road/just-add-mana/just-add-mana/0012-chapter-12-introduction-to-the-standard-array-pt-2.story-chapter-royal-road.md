@@ -1,0 +1,199 @@
+---
+id: af7e7708-1169-5ff5-ac9d-41eede461e84
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12 — Introduction to the Standard Array, Pt 2"
+slug: 0012-chapter-12-introduction-to-the-standard-array-pt-2
+partOf: just-add-mana
+position: 12
+ownLength: 3054
+unit: words
+ownProgress: 3054
+publishedAt: 2025-07-26
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2467981/chapter-12-introduction-to-the-standard-array"
+royalRoadId: "2467981"
+markedReadAt: "2026-06-29T18:47:55.760Z"
+---
+
+Cale would be hard-pressed to explain the sequence of events that followed. This was in large part due to the fact that Professor Graystalk didn't seem quite inclined to detach from him just yet, which meant he had to deal with the chaos that followed while an enormous elf clung to him like he was some sort of miracle.
+
+The golem had been standing in the doorway for a while, apparently, and it seemed... confused? Cale was surprised he could read its expressions at all, but whoever created it had evidently put a great deal of work into allowing it to express itself, even if most of that expressiveness emerged from the spellwork above what passed for its head.
+
+It had an "eye", for one thing. Cale recognized it easily enough—when enough scrying spells overlapped, they tended to create a nexus of mana that resembled a sort of runic representation of an eye. What surprised him was the fact that the golem seemed entirely in control of that floating rune. It could move around, blink, and even reshape it to a limited degree.
+
+Maybe that had something to do with the control crystals floating next to the eye? They were etherite crystals, he was pretty sure. Two miniature etherite towers adorned each side of the eye, above the golem's head, moving and reacting in time with the golem's thoughts. Every time it focused its attention on something, the crystals and eye both swung in that direction.
+
+Right now, its attention was focused on Cale, and its eye was scrunched up in confusion.
+
+"Am I in the right class?" it asked, looking around the classroom and then pulling out its schedule scroll to check. After a moment of staring at the scroll, it switched to staring at the elf still clinging to Cale's shoulder. "That isn't the professor, is it?"
+
+"No, it is," Cale said, patting Graystalk awkwardly on the back. "He's just... having a moment. Don't worry about it."
+
+"Oh." The golem didn't seem any less confused, but the etherite crystals were folding back, almost in resignation. Cale wondered if they functioned like ears. They seemed to. "Should I come back later?"
+
+"No, no," Cale said. "I think that would make things worse. Graystalk doesn't like it when we're late, you know? It makes him feel like we don't respect his class."
+
+At his words, Graystalk burst into a fresh set of tears, causing the golem's etherite crystals to spring up briefly in surprise. That settled it, then. They pretty much did function like ears.
+
+"Ah." The golem processed his words, then nodded. "I'm sorry I'm late, professor. There were an unusual number of overgrown plants in my path. Except for the last set, which were trimmed into the shape of a rude gesture?"
+
+Cale beamed. He'd been hoping those were universal. You never knew, sometimes. The extra fifteen seconds he'd taken trimming those shrubs had been worth it, then. "Thanks to yours truly," he said proudly, doing his best to ignore the professor as he slowly maneuvered himself into a position to reach out a hand. "I'm Cale. I hope you didn't think those were directed at you."
+
+"Not at all," the golem said dryly, rolling forward to shake his hand briskly. And it did roll, to Cale's delight—its lower body was a massive, spherical boulder that had been polished to a shine. "Nala and her cronies aren't quite that artistic. I'm Syphus, by the way."
+
+"Pleasure to meet you!" Cale said cheerfully. He paused. "Who's Nala?"
+
+The golem tilted its head toward Whiteleaf, who had been slowly turning redder and redder throughout their conversation. "Guess."
+
+Right. Whiteleaf was her last name, not her first name. Cale thought about this for a moment, then decided he'd keep calling her Whiteleaf. He was used to it by now, and besides, switching to Nala after he won this duel thing seemed like it would annoy her far more.
+
+Speaking of which, Whiteleaf seemed doubly enraged now that she'd learned what happened to the shrubbery outside. She shot up from her desk and brandished her wand, her grip so tight her knuckles began to turn white. "You will not ignore me," she practically snarled. Cale wondered if there was any point trying to tell her he was out of her league.
+
+Probably not. And the duel did sound like it might be fun.
+
+"Professor?" he said, nudging the older elf gently. "I think Whiteleaf might have some kind of stroke if we keep ignoring her."
+
+Graystalk seemed to slowly gather himself. It took almost a minute, but he pulled away from Cale and straightened, clearing his throat a few times. A quick spell covered up any remaining redness in his eyes, and after another moment, he looked as though nothing had happened.
+
+Whiteleaf glared at him expectantly. "Well?"
+
+"Ms. Whiteleaf," Professor Graystalk said, his tone even. "Are you certain you wish to duel Cale? I cannot guarantee your protection should you choose to do this."
+
+Whiteleaf scowled. "Why would I be scared of some Astral freak? They can't even cast Standard spells right."
+
+"Astral students interact differently with most forms of magic," Graystalk corrected. "It does not make them incapable, only unpredictable. Were it not for the Orstrahl Kingdom's strict adherence to the Standard Array, many of them would be considered some of the most powerful mages on this continent."
+
+"So what?" Whiteleaf demanded. "You think I can't handle a little bit of unpredictability? Have you forgotten that I am Brightgrove royalty? Have you forgotten what that means?"
+
+Graystalk's eye twitched. "Ms. Whiteleaf—"
+
+"I am one of very few mages with a prismatic core," she said. "He said it himself, didn't he? The faster mage wins. Prismatic cores are the fastest cores out there. It won't matter how dangerous his spells are if he doesn't get to cast, does it?"
+
+Graystalk sighed. "You do not—"
+
+Whiteleaf narrowed her eyes. "You remain an honorary part of Brightgrove only through my father's favor," she said. "And as the Mage Killer and a member of the Brightgrove Elves, it is your duty not to interfere with challenges. Try to prevent this one more time and I will ensure your exile."
+
+Professor Graystalk stiffened slightly at the threat. Cale just sighed. Of course she was a princess of some kind.
+
+"Very well," Graystalk said coldly. "By your command. I suppose if that is the case, you will not object if I set out the terms of the duel? Cale is rather new to our traditions, as you might imagine."
+
+Whiteleaf sniffed. "I will allow it," she said, sitting back down at her desk and folding her arms daintily in front of her.
+
+Cale eyed her curiously. She had no idea what she was in for, did she?
+
+"Cale," Graystalk said. The professor's tone was grave. "I assume you are unfamiliar with the rules of a restricted duel, such as the one Ms. Whiteleaf has challenged you to. I will walk you through those rules to the best of my ability."
+
+He lowered his voice, and cast a spell almost too quick to see—a basic obfuscation ward descended around them, the same kind Whiteleaf apparently made regular use of. "Do your best not to kill her. We cannot have a diplomatic incident with the Brightgrove King."
+
+Cale shot Graystalk a wounded look. "I would never," he lied. The professor stared at him, expression flat, and after a moment, Cale acquiesced. "In most circumstances."
+
+"And I take it we are not yet in one of those circumstances?" Graystalk said dryly.
+
+"Not unless she secretly orchestrated your whole curse and scar situation," Cale said cheerfully. He expected Graystalk to snort and roll his eyes, maybe to explain what had really happened—Cale was very curious—but instead, there was a long silence.
+
+Slowly, Cale raised an eyebrow. Graystalk frowned at him. "Do not make that face," he said. "I am... thinking. I do not think she did; it would... unless..."
+
+"Did you really not consider this before?" Cale asked, blinking at him. Graystalk flushed and stood to his full height, stepping back a few paces to put some distance between them.
+
+"It does not matter for this duel," he said. He dropped the obfuscation ward before Cale could respond, then cleared his throat.
+
+"The rules of a restricted duel are as follows," he said, avoiding Cale's stare. "First: the restriction must be adhered to by all participants of the duel. In this case, all spellwork must be derived from spells of the Standard Array as defined by the Gift—"
+
+Whiteleaf cleared her throat. "And you can't cheat, in case you're thinking about it," she said, her tone insufferably smug. "The Gift itself will moderate a mage's duel. You can only put mana into Standard Array spells. Of course, if the Gift happens to modify those spells for you, that's allowed. It means you're divinely ordained by the God of Magic himself."
+
+She was smirking. Cale cocked his head curiously, watching as the elves around her began whispering to one another. Something about a royal decree and Brightgrove secrets? Clearly, Whiteleaf believed this was some sort of secret advantage she had.
+
+"Second," the professor said, doing his best to ignore Whiteleaf. "Basic mana manipulation, such as barriers, are allowed. Bear in mind they are for defensive purposes only."
+
+Cale was starting to feel bad for Whiteleaf.
+
+"Third, a mage's duel consists of a set of three challenges," Graystalk said. "Only two of the three need to be won for the victor to be determined, and the challenged may pick two of the three challenges to be done first. For a Standard Array restriction, the potential challenges are set in stone—you may choose between them, but may not come up with one of your own."
+
+As he spoke, the professor strode back to his desk, rummaging around for a moment before withdrawing a scroll that looked old and withered. Cale carefully rolled it open, glancing over the challenges.
+
+Well... this would make it easier not to accidentally kill Whiteleaf, as long as she didn't choose the combat challenge.
+
+"Fourth, the winner will acquire the loser's Wing credits, up to a maximum of three."
+
+Well, he only had one of those.
+
+"And finally," Graystalk said, drawing Cale's attention. "A mage may choose a second to take their place at any point during any of the challenges. The second must agree to this, and it must be an individual that was present when the duel was issued."
+
+Huh. What a strange restriction. It was definitely in Whiteleaf's favor—the majority of the class was composed of elves, and he was pretty sure they were all Brightgrove loyalists—but it wasn't like he was going to need a second.
+
+"I'll help, if you want," Syphus whispered to him. Cale jumped. He'd forgotten the golem was there. "Always wanted the chance to kick her smug face in. Just let me take one of the credits when we win."
+
+Cale opened his mouth to point out that Syphus didn't have any legs, remembered [Blabbermouth], and paused. "You think she's going to pick the combat challenge?" he asked instead. "Will you be able to handle her? You're Astral too, right?"
+
+Presumably, that was the reason Whiteleaf seemed to have it out for Syphus. The golem snorted, and Cale almost flinched as one of its etherite crystals darted out to point at a line in the scroll. "I am, but the combat challenge only specifies that the duel lasts until one participant is exhausted of their mana," it said smugly. "I've challenged her to a duel before, believe it or not, but she has never accepted. In this case, however..."
+
+Syphus didn't have a mouth, but somehow Cale got the impression it was giving him an evil grin. He paused for a moment.
+
+"Well," he said. "I don't plan on picking the combat challenge, so hopefully it won't come to that—"
+
+"I choose the combat challenge," Whiteleaf announced loudly, smirking at the two of them.
+
+"—by which I mean welcome to the team," Cale finished, sticking a hand out to Syphus. He could almost swear it was smirking at him when it reached out to shake his hand once more.
+
+Cale wondered what its story was. Maybe he'd get the chance to find out later. Golems weren't typically this lively or self-assured, and the etherite crown it was sporting... that was a strange choice for a golem.
+
+For now, though, he turned his attention back to the scroll and went about picking out his two challenges. Graystalk hadn't indicated any kind of time limit, after all, and Whiteleaf was turning more and more purple with every second that passed.
+
+Cale didn't want to waste that much time on all this, but it was a perfect opportunity to make a game out of seeing how purple she could get.
+
+"The first challenge will be in spell acquisition," Professor Graystalk announced.
+
+It hadn't taken that long for Cale to decide on the challenges he'd compete in. Mostly, he picked them based on what he thought would be funniest, and as far as he was concerned, the selections he'd made were all a delight. He was pretty sure Graystalk knew what he was doing, too, or the professor wouldn't have given him that look of exasperated amusement.
+
+In spite of any professional reluctance he might have held, though, he didn't take much convincing—especially when Whiteleaf began shooting them her trademark disgusted looks. Nor was he blind to the impact that this duel might have on his class and their perception of the Standard Array.
+
+As a result, they'd all been moved outside, much to the confusion of the elven majority of the class. Syphus thought it strange, but was mostly just pleased by the added maneuverability granted by the academy's training grounds. Cale was the only one that understood why Graystalk moved them all outside, and he wasn't about to start explaining.
+
+It'd be much more fun to show them, after all.
+
+The particular training ground Graystalk brought them to didn't have much in the way of warding. It was, as best Cale could tell, a location selected explicitly to handle the more destructive of the Academy's students.
+
+Which is to say it was pretty much just a patch of sand from the same desert Cale had needed to trek through to get here to begin with. Many of the elves, including Whiteleaf, looked uncomfortable and out of place in the middle of all that sand; in fact, of the elves, Graystalk was the only one that seemed entirely comfortable.
+
+Syphus was outright delighted by the sand, but that didn't surprise Cale. The golem was rolling around in it joyfully, almost as if it had forgotten about the upcoming duel. Its attention was quickly grabbed when Graystalk began speaking again, though.
+
+"I will demonstrate one spell from the Standard Array that neither of you have learned," the professor said, his arms folded neatly behind his back. "As a reminder, the average mage requires thirty minutes to an hour to learn a spell from the Standard Array. The acquisition challenge stipulates that the spell must be acquired within fifteen minutes, or else the challenge selector—in this case, Cale—forfeits the challenge. Otherwise, the mage that first acquires the spell is considered the victor."
+
+Whiteleaf rolled her eyes. "Seriously," she said. "You chose acquisition? Against a Brightgrove royal? The Gift favors us, you know."
+
+Cale ignored her, much to her irritation. "How will you know who got the spell first?" he asked. "Do we have to demonstrate the spell?"
+
+"No," Graystalk said. "Official challenges such as these are mediated in part by the Gift. It will mark whoever acquires the spell first with golden mana."
+
+"Perfect." Cale nodded, satisfied. The elves were muttering among one another, alternating between staring at Cale and Whiteleaf; one or two of them, he noticed, were starting to look hesitant, like they understood something here was off.
+
+Those were the clever ones. He winked at them, and they immediately pretended they hadn't been staring.
+
+"If there are no further questions, we will begin," Graystalk said. He closed his eyes and reached out, palm up. "O Gift of Karath, we call on your attention, for a challenge has been set and must be answered; grant us the gift of knowledge, that we may know fool from victor, and mage from charlatan..."
+
+Cale blinked. He hadn't expected that. It was similar to a divine chant of sorts, but sure enough, he could feel the Gift's attention slowly grow on both he and Whiteleaf, not that Whiteleaf seemed like she noticed anything.
+
+"Now," Graystalk said. "Watch closely."
+
+He lifted his wand and began to channel a spell. Cale took a moment to admire how perfectly efficient Graystalk's spellcasting was—it was a thing of beauty, really. Even with his casting slightly slowed for the purposes of the challenge, it was over remarkably quickly. The energy around Graystalk flashed into a network of charged, mirror-attuned mana, buzzing with potential.
+
+"Wha—you did that too fast!" Whiteleaf blustered, outrage. Cale gave her a quizzical look.
+
+"Even if he did, you can tell what spell he cast based on its effect and learn it that way, can't you?" he asked. She turned to stare at him.
+
+"What are you talking about?" she said. "That's not how it works. If you think it is, then I'd like to see you try—"
+
+Golden mana exploded out of Cale. It roared out of him as a shockwave, almost, carrying with it a degree of physical force that simply being marked as a victor probably shouldn't have held.
+
+You have learned [Lesser Reflection]!
+
+[Lesser Reflection, Level 1] [Second Tier, Active] [100 Mana]
+
+Reflect a percentage of any incoming magical effect that is second tier or less.
+
+"Ooh, neat," Cale said, pleased. "Was that supposed to be so dramatic?"
+
+Graystalk grinned. Whiteleaf's jaw dropped. Syphus, who had no particular inclination to hold itself to any politically correct standard, burst into raucous laughter.
+
+"Now," Graystalk said, making no effort to hide his own amusement. "Shall we move on to the next challenge? I believe you chose the one based on casting speed."
+
+"Faster mage wins, am I right?" Cale gave Whiteleaf a pleasant smile. "I thought I'd give you a freebie."

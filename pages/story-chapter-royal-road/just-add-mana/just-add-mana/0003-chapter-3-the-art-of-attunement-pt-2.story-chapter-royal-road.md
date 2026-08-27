@@ -1,0 +1,213 @@
+---
+id: 4a310fea-59a5-5d0d-b279-247378138a0e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 — The Art of Attunement, Pt 2"
+slug: 0003-chapter-3-the-art-of-attunement-pt-2
+partOf: just-add-mana
+position: 3
+ownLength: 3611
+unit: words
+ownProgress: 3611
+publishedAt: 2025-07-17
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442672/chapter-3-the-art-of-attunement-pt-2"
+royalRoadId: "2442672"
+markedReadAt: "2026-06-29T18:47:37.291Z"
+---
+
+It took a lot longer than Cale expected for Akkau to finish with his testing—enough that the awkward silence lapsed into something a little more comfortable. Cale, for his part, tried to be a little more attentive to what the old dragon was doing, aware that if nothing else he was trying to help him; just because he'd approached a hundred other magic instructors before didn't mean this time wouldn't be different.
+
+Really, it was already different, in a way. It was the first time he'd seen attunement papers! Cale couldn't for the life of him remember what his natural attunement was; he'd had it measured once, he was pretty sure, but...
+
+That was so many lifetimes ago. There was a point where it simply hadn't mattered anymore, and he'd long since passed that point. Honestly, he was pretty sure he'd forgotten more things about himself than most people would ever learn.
+
+"The other part of this test is stability," Akkau began to explain, startling Cale into paying attention once more. He wondered how much of this teaching stuff was just pure habit for Akkau. "It helps that you are able to make barriers—it would be far more difficult to perform this test if you were not able to use magic non-destructively."
+
+"How do barriers help with that?" Cale asked, interested despite himself. He hadn't ever really thought of his barriers as anything remarkable.
+
+"The more mana you have, the harder it should be to control manifestations of your magic, barriers included," Akkau said. "It may not be as precise as direct measurement or spell detonation, but you would be surprised how much one can determine from the simple act of examining a mage's barrier."
+
+He indicated the edge of Cale's own barrier with a claw. "The amount of fluctuation at the boundary is indicative of mana quantity. The more mana you have, the more turbulent it tends to be. The radius of fluctuation relative to the total size of the barrier tells me how much control you have over that mana."
+
+"Huh. Never would have guessed," Cale said, impressed. "So, give it to me straight, doc. How's my mana looking?"
+
+Akkau turned away from his notes to give him a quizzical look. "What am I giving to you, exactly? I should inform you now that it would be quite inappropriate for the Headmaster to involve himself with a whelp like yourself."
+
+"That's not what that—" Cale groaned when the dragon's lips twitched in amusement. "Okay, fine, I deserved that. But for the record, I'm not a whelp."
+
+"No, you are not." Akkau eyed him contemplatively, and Cale shifted under the weight of his gaze, suddenly uncomfortable. "You are far older than you pretend. Why do you put on such a front, I wonder?"
+
+Cale said nothing. Akkau shook his head after a moment and went back to his notes. "Regardless, it seems you were telling me the truth," he said. "You have an extraordinary amount of mana, to the point where your barriers... well, you may have observed this effect before."
+
+Akkau grabbed an apple off his desk and dropped it onto the edge of Cale's barrier, and Cale watched impassively as the apple fell through it like there was nothing there. It split open on the desk, cut perfectly into two even slices.
+
+"Yep," Cale said. "It's why I need to be careful where I put my barriers. I usually just go for domes, but that takes more concentration."
+
+"You are at least aware of the damage you can do," Akkau said with an approving nod. "The fluctuation is barely visible, but moves so quickly that the edges of your barriers exceed the sharpest of claws. It is far outside the scale of anything I have seen before—but it is not the reason you are unable to attune your mana."
+
+"Yes, my mana control is the bane of my life," Cale said, sighing dramatically. And then he paused and went through what Akkau had said again. "Wait, what? It's not a mana control problem?"
+
+"Your inability to cast spells is a mana control problem, although I should inform you now that your control far exceeds the norm—a mage with your amount of mana should not be able to form a barrier at all." Akkau frowned, and Cale beamed. Praise! He hadn't expected to be praised for his mana control, of all things. The dragon looked at him oddly, though, and Cale quickly smoothed out his expression.
+
+"If the problem isn't my mana control, then what is it?" he asked.
+
+"Your base attunement appears to be true prismatic," Akkau explained. "Which, I should impress upon you, is so rare as to be theoretically impossible. Such a mana type cannot be further attuned, for it already contains all possible types of mana.
+
+"It also dramatically increases the mana requirement for casting any given spell, though I suspect that will not be an issue for you." Akkau raised an eyebrow at him, and Cale put on his best innocent smile. "In exchange, however, you do not need to attune your mana prior to each cast. In theory, this should mean your potential casting speed will far exceed that of almost any other mage."
+
+"Now if only I could cast some actual spells," Cale said, sighing again. "Perhaps if a certain handsome dragon were willing to teach me those spells? We could start with flight! I've always wanted to fly."
+
+Akkau rolled his eyes. "As you have noticed, Utelia's God of Magic and his divine spellform—which we call the Gift—is capable of adapting even to extreme quantities of mana that should be otherwise impossible to control," he continued, ignoring Cale's flippant remark. "The problem for many students is learning those spells to begin with. [Spell Intuitionist] may make that process easier for you, but make no mistake: you still need guidance."
+
+"Do I?" Cale asked, leaning back in his chair. "Don't get me wrong, I'm not doubting you, but even if I can't just casually pick up spells above the second tier, there's nothing stopping me from just evolving high-tier spells with low-tier ones."
+
+"And how can you be certain those spells will not run rampant across the world?" Akkau asked. "Or that any given spell evolution will not simply erase you along with it? You would not be the first Utelian mage to wreak such havoc with experimental, aimless evolutions."
+
+Cale blinked. He hadn't considered that, mostly because he hadn't thought the system would generate spells like that to begin with.
+
+"More to the point, the Gift does not eliminate the need to learn," Akkau said, a little more severely. "All magic requires work, Cale. The Gift only ensures that you have access to spellwork. The nature of those spells and your skill with casting them rely heavily upon you. Hence the need for academies like this one, and hence the need for lesson plans.
+
+"Had your core been anything other than true prismatic, for instance, I would have insisted you attend our aspect magnification classes." Akkau tapped his claws on his desk. "It is sufficient for most of your counterparts—those with false prismatic cores. With true prismatics, however, aspect magnification is impossible, and in your case, it is unnecessary. We will instead have you begin with elemental resonance."
+
+Cale blinked. He'd never heard that term before, and there were very few things he'd never heard before. "Elemental what?"
+
+"Elemental resonance. It is an aspect of magic unique to Utelia, and is required for learning spells above the second tier," Akkau said. "Think of it as your degree of compatibility with the various elemental magics of this world. All mages must be acknowledged by the element they wish to work with in order to be Gifted higher-tier spells within that element."
+
+Cale frowned. "Sounds like a test," he said. He hated tests.
+
+"Of a sort," Akkau acknowledged. "Though I suspect it is different from what you imagine. To increase your resonance with a given element is to know what that element is. It is not a test so much as it is an act of understanding. A give-and-take with the magic of this world."
+
+"I'll give it a try, I suppose," Cale said doubtfully. "I don't see how it's going to help me control my spell evolutions, though."
+
+"The better your resonance with a given element, the better the Gift will understand your desires when you attempt to evolve a spell," Akkau said. "High-resonance mages can not only trigger spell evolutions but spell combinations, creating new magics entirely."
+
+Cale immediately sat up straight in his chair. "Why didn't you just say so?" he demanded, ignoring the way Akkau smirked knowingly at him. "I'm in. When do we start?"
+
+The old dragon snorted, leaning back in his chair. "I appreciate your enthusiasm, but I have some conditions I would like to make clear before we officially enroll you."
+
+"This better not be a trick," Cale said, narrowing his eyes. "You just got my hopes up. Besides, I rescued you! That should count for something."
+
+"I will remind you that you had me free myself." Akkau raised a challenging brow at him. "Though the circumstances were extenuating ones, I will agree. Perhaps my phrasing was poor. Consider this a request, of sorts: I would like you to be my apprentice during your time in this academy, and I would like you to contribute your expertise to the classes you attend."
+
+"Shouldn't I be in the classes, not teaching them?" Cale asked, relaxing slightly.
+
+Akkau snorted. "You hold the Thread of Fate," he said. "And you know the vows of old. You are far, far older than you pretend, as we have already established. It would be quite a waste if I did not ask you to share some of what you have learned." The old dragon gave him a sharp grin. "You will find that I am the type of dragon to make full use of all resources available to me. As long as you are a student here, that includes you."
+
+Cale eyed Akkau for a moment. "You're disturbingly perceptive."
+
+"And you are disturbingly powerful," Akkau said dryly. "Forgive me for wanting what is likely to become a continental power under my direct supervision."
+
+Cale supposed he had a point. "Fine," he said. "I expect to be paid, though. And you can't make me sign any weird soul contracts."
+
+"I assure you, you will be compensated generously, and the only contracts you will have to sign are non-magical in nature," Akkau said. Cale sighed with relief, but froze when Akkau continued. "Of course, there will be quite a lot of it, and as my apprentice you will also handle my share of paperwork..."
+
+"Are you sure you're not a dark lord?" Cale asked, narrowing his eyes.
+
+Akkau chuckled. "Oh, the dark lord is two continents away. Even with your Thread of Fate, I imagine it will be a year or two before we have to deal with him. Plenty of time."
+
+Cale sighed. "And we can't just kill him ahead of time because of the karmic backlash," he muttered. "Yeah, alright."
+
+Akkau eyed him thoughtfully. "Good. I had worried for a moment that you might be the brash sort. I will be glad to have you as an apprentice, I suspect. I will assign you a room and get you signed up for your courses—yes, Cale, I will take into account your desire to learn baking spells."
+
+Cale shut his mouth, interrupting the question he was about to ask, and grinned instead. "Sweet. Pun intended."
+
+"It will take some time for me to get you fully enrolled," Akkau said, ignoring Cale's comment. "There are a number of mandatory courses in addition to the resonance courses; I will speak to the faculty members and prepare a preliminary schedule for you soon. In the meantime, it is best we get you settled into the academy proper. I assume you will need a room?"
+
+"Unless you don't mind me sleeping in the halls," Cale said. Akkau scowled at the thought.
+
+"I will find you a room, although you may have to share," Akkau said. He flicked a claw, eyes glowing for a moment as he cast some sort of spell. Cale observed the process with interest. Judging by the way it was interacting with the school's mana, it was some variant of organizational magic. Library magic, maybe? "You mentioned you were immune to most mana aspects?"
+
+"And even for the ones I'm not immune to, I keep a basic barrier up at all times," Cale agreed. The only time it had dropped recently was during the initial summoning that had brought him here, and that was because he'd intentionally dropped the barrier when he felt the attempt. That last world had been in something of a state. "Why?"
+
+"It allows you more options for rooming," Akkau said vaguely. Cale wondered if that was a hint of mischief he saw in the dragon's eyes. Surely not? He was far too serious for that.
+
+Before he could ask about it, Akkau changed the subject. "There is one last thing. Consider it a formality—it is a question we ask all prospective students."
+
+Cale tilted his head. "What's up?"
+
+"Why do you want to learn magic? What do you intend to do with that power?"
+
+"...This isn't some kind of test of responsibility, is it?" he asked. "Because I can blow things up even if you don't teach me. Also, I'm not convinced that asking that question works very well, considering that whole blood sacrifice thing with the elves."
+
+"Please do not mention that in this school," Akkau said with a sigh, rubbing the bridge of his snout. "Humor me for a moment, Cale, and answer the question. You mentioned baking spells. Why? What else do you intend to do with magic, once you have it?"
+
+"Because baking spells are the pinnacle of magic," Cale answered promptly. He wasn't even kidding. "Every time I see one, it blows me away with how utterly absurd and complex the spellwork for it is. They are four of the top ten most complex spells I've seen in my lives. Four. And I have lived many, many lives, Akkau. I've seen spells designed to create and end magical plagues in an instant. I've seen spells built to last lifetimes, to conquer and terraform entire worlds. I've seen magic built to rewrite the stars themselves."
+
+He paused and frowned. "That last one was probably the most complex spell I've seen, actually. But it came pretty close, and that says a lot. More importantly, I love baking, and I want to know why it's so hard for magic to replicate the experience."
+
+Akkau stared at him. Cale couldn't quite figure out what that expression was. Confusion? Admiration? He'd revealed a little more about himself than he intended, that was for sure, but it was nothing that wouldn't have come out eventually anyway.
+
+...It was probably because he'd started ranting a little. Cale coughed, embarrassed, and continued more quietly. "Besides," he said. "Even with all this power at my fingertips, I can't do all the things a normal archmage might be able to do. I can't repair things, I can't heal, I can't teleport... do you know how many people have died just because I can't be in multiple places at once?"
+
+Cale's expression darkened slightly. The question might have sounded rhetorical, but he knew the number. He never stopped counting. It just wasn't a number he wanted to share.
+
+"Too many," he said instead.
+
+The silence lingered after that. Cale almost seemed lost in thought for a few seconds before he shook his head, sighed, and made himself continue. "I don't even remember the last time I was able to cast a real spell. Maybe I could, once upon a time, but it's been so long I have no idea what it was like." He stared down at his fingers, watching his mana circulate beneath his skin. "And I want to remember. I want to remember what it was like to do magic. To be a mage in more than just name."
+
+In theory, he would have been able to do that sort of spellcraft in his earlier lives, but try as he might, Cale couldn't remember anything from that time. Akkau studied him in silence, the old dragon's expression unreadable, and Cale shifted uncomfortably under his gaze for a moment or two.
+
+"Though I suppose true magehood involves far more than just spellcraft," he added lightly. "Which I am well aware of, just to be clear."
+
+At that remark, Akkau startled Cale by smiling. It was a small smile, but it was real, and it was understanding in ways Cale had long since learned to stop expecting. Cale hadn't thought the old dragon capable of such a thing, with how cold he'd seemed.
+
+"Indeed," Akkau said. "But your desire to cast is understandable, for what true mage could give up that power? At the very least, I believe you are sincere."
+
+Then his tone became teasing. "And I believe we share an interest. Few others understand the true nature and complexity of baking spells."
+
+Cale's mouth fell open even more, if possible, and his eyes gleamed with excitement. "You understand!"
+
+"As any true archmage would," Akkau said, and he was definitely smirking now. "Perhaps you can help me convince some of my faculty of this fact. I have been unable to so far."
+
+"Clearly, they haven't seen a properly cast [Baker's Domain]."
+
+"Or a well-calibrated [Sourdough Starter]."
+
+The two ancient beings exchanged a look of understanding. Then Akkau cleared his throat. "In any case, I have summoned an assistant to help you to your room. Please follow him. I will follow up with you when I can."
+
+"Just like that?" Cale asked, surprised.
+
+"Just like that," Akkau said. "Welcome to Kazix Brightscale's Academy of the Attuned Arts, Cale Cadwell Cobbs."
+
+The moment Cale left the room, Akkau slumped into his chair, reviewing everything he'd just witnessed in his head. He still couldn't quite believe it—if it wasn't for the apple sitting neatly sliced in half on his desk, he might have assumed he imagined it all. An eccentric archmage was one thing, but the amount of mana he seemed to have... "What in the eight infernal realms was that?"
+
+"Seven." Cale's voice came ringing back cheerfully through the doorway, almost making Akkau jump out of his chair. He had anti-eavesdropping spells on his door!
+
+"First of all, don't eavesdrop," Akkau called back irritably. "And what do you mean, seven? There are eight."
+
+"I blew up the eighth."
+
+Akkau paused, then sighed. "Do I want to know?"
+
+"It was an accident?"
+
+"Just... just go to your room, Cale." Akkau shook his head as he heard the human's footsteps finally retreating from the door, then leaned back once more into his chair. He was silent for a long moment, studying a dormant crystal sitting on his desk. Tentatively, he reached out, channeling a small fragment of his mana into it.
+
+Nothing. No word from any other dragon in any other world. The Great Realms were silent, and the few dragons that remained in this last bastion world of Utelia had all gone into seclusion, hiding themselves away from the thing that hunted them.
+
+Cale was a gamble. With the amount of mana he apparently had, he was as likely to end Utelia as he was to save it, Thread of Fate or not. A more responsible dragon might have tried to send him away, perhaps, or bind him to prevent the destruction that would undoubtedly follow in his path.
+
+Akkau had given up on doing such things long ago, and he bore no illusions about what would likely happen if he tried. Besides, in spite of everything, he found he rather liked the odd little human. He understood the true nature of baking magic, for one.
+
+For another, his presence gave him purpose again.
+
+Akkau glanced down at the pitch-black scale hiding at the base of his wrist, just below his palm amongst the brilliant red he normally sported.
+
+Last of all, well... he supposed he couldn't help but hope that someone like Cale might have a solution for what was coming.
+
+Far away, hidden in the shadows of a cave containing a still-glowing pit that once held two elves, something in the shadows squirmed with delight.
+
+New world! it hissed to itself, cackling a soundless, gleeful cackle. The old one was so empty! But we followed the star, and what have we found? A feast! A feast of pretty magic!
+
+But we must wait. A slightly different voice overlapped the first. We are still weak. We cannot allow the star to find us.
+
+Yes, yes, we know! the first voice said, impatient. But... there is so much! A snack would not hurt, yes?
+
+...Perhaps, the second voice acknowledged. Perhaps a snack may not hurt.
+
+With that, it slipped out of the cave and out into the desert, eyeing the towers gleaming in the distance. It drank in a sip of the mana surrounding it, feeding and growing and learning. The history of any world was stored in its mana, and though it had to be careful, it could start simple: where was their star, and what was it doing?
+
+It tasted the words, the history, and the dignity of the golden dragon named Kazix Brightscale. It found a name.
+
+Kazix Brightscale's Academy of the Attuned Arts.
+
+What an absurd name, the second voice muttered to itself as they slithered toward it. It is far too long.

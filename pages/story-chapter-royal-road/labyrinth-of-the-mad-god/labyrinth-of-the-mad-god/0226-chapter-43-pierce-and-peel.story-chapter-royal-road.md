@@ -1,0 +1,101 @@
+---
+id: 5a099986-eedd-5686-87c3-8a478df69247
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: Pierce and Peel"
+slug: 0226-chapter-43-pierce-and-peel
+partOf: labyrinth-of-the-mad-god
+position: 226
+ownLength: 2012
+unit: words
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2620695/chapter-43-pierce-and-peel"
+royalRoadId: "2620695"
+---
+
+While Ella traded blows with the beast’s tongue, Nick focused on carving his way through the wurm’s hide.
+
+His team had made some progress while he was away. He ran his gaze across a section of skin that Devin had shredded with chain explosions, a strip that Mirium and Laura had scoured with spells, and a series of shadow-riven rents that were the hallmarks of Bret’s greatsword. Based on the damage they had inflicted so far, someone would break through before long, at which point, the battle should become a great deal easier.
+
+After using Force Acceleration to survive the last exchange, Nick was running low on mana.
+
+His core could hold a lot of energy by this point, but it was by no means a bottomless reservoir, even with V’s ability bolstering its regeneration. Fortunately, he had two mana potions he’d been awarded for defeating the demon.
+
+He went ahead and quaffed one now, which tasted foul compared to his elixir but got the job done. His core was sitting around the 75% mark, which would let him unleash some heavy hits without running dry. He should be okay for the rest of the fight if Team Earth didn’t encounter further complications.
+
+His plan was to land another Sonic Slash perpendicular to the first, then peel the wurm’s skin back, exposing a section of softer tissue that his party could dig into to reach the creature’s organs. Of course, the wurm wasn’t going to sit still and let him do it, but he thought he could pull it off with Ella battling the tongue and the rest of Earth’s elites keeping the boss’s army busy.
+
+Nick was lining up his next attack when an arrow from Kenji appeared, drawing his attention to the ravine’s rim where a group of ranged specialists was positioned. The strategist wouldn’t have pulled Nick away from the boss unless he was the only one who could reach them in time, so called upon Arctic Clarity while analyzing the situation.
+
+A squadron of slicers had circled around the long way and was charging a contingent of archers. Kenji had ordered them to run, and some skirmishers were on their way, but they weren’t going to make it in time.
+
+For a second, he didn’t see how he could help, but the arrows showed him what Kenji had in mind. Nick sheathed Blightbane, activated Force Acceleration, and leapt toward the endangered archers. He cast Arcane Barrier to create a handhold along the rocky wall, grabbed on, and then launched himself straight up. The weight of his body was trivial compared to his aura-buffed Strength, and after repeating the move a second time, he crested the rim of the ravine just in time to intercept the slicers.
+
+Fortunately, he didn’t need to use Sonic Slice to finish them off—Force Acceleration and his Half-Length Scabbard were sufficient to get the job done. He took aim and executed a drawing slash that caught three bugs at once, passing through the creatures mere heartbeats before they tore into the ranged unit.
+
+One second, they were charging in a skittering rush—poised to rend flesh asunder. The next, their bodies separated into two pieces as Nick’s attack bisected them with no appreciable effort. The archers let out a cheer as the skirmishers arrived to deal with the remaining bugs.
+
+The situation was resolved without casualties and had only taken him away from the boss for about ten seconds. Now then, how should I get back down?
+
+Taking a page from Ella’s book, he oriented on the section of skin he wanted to cut then leapt off the cliff, sheathing his sword and waiting for the right moment to unleash a Sonic Slice. Now!
+
+Blightbane burst from his scabbard in a flash of silver, penetrating the wurm’s hide just where he wanted, inflicting another deep cut at a right angle to his first. He motioned for Devin to join him, and together, the men began tugging on the triangle of sundered skin, separating it from the muscle and fat below. Bret saw what they were up to and joined in, using his shadows to grab the ragged edge and pull even harder.
+
+Then, to Nick’s immense satisfaction, a big strip of skin peeled away, revealing unarmored tissue below. At last, they had created a weak point to exploit, and now it was time to finish the fight.
+
+Or so he thought…
+
+While his strategy had been successful, he had failed to anticipate how the boss would react to the carnage his team had wrought. Most creatures couldn’t flip over and keep fighting at full strength, but the Armada Wurm was well… wormlike. It was round and spent most of its time underground, digging in any direction it pleased.
+
+As a result, if it was forced to fight on the ground and received a significant injury, it had a means of protecting its sundered skin. In short, the behemoth beast could roll over whenever it wanted, which was exactly what it did.
+
+“Fuck!” Nick yelled, as Kenji’s arrows ordered them back.
+
+They hastily backpedaled so they weren’t crushed beneath the boss’s bulk as it rotated, shielding its wounds beneath its body. He growled in frustration at the sight. Unless Team Earth found a way to flip the wurm over, which was pretty much impossible given its mass, they needed to start all over again.
+
+At least that trick will only work once. We’ll have to do twice as much damage to win the fight, but with Veronica’s help, we should have enough vital energy to get the job done.
+
+When he glanced over his shoulder, he could see the support team standing atop the highest hillock. For the briefest of moments, Nick’s gaze met Elizabeth’s before he turned to cut down a slicer that was lunging for his throat. He used his wand to crush a half dozen stingers against the side of the canyon, then got ready to make two more cuts and tear another flap open.
+
+The Armada Wurm had no intention of letting that happen, but Team Earth wasn’t done bringing out the big guns.
+
+Up to this point, Kenji had been focused on directing the battle, using Tactical Command to issue orders while buffing Team Earth with his supportive auras. Now that the fight had entered its final stage, the elite warrior left the support squad and came racing over to battle the wurm.
+
+He leapt from atop the mound then broke through the army of slicers milling around the base, pushing past the press of chitinous bodies in a blurring burst of speed.
+
+Kenji had always been an amazing warrior, but his journey through the Tower of Rizzen and weeks of completing challenges while crossing the badlands had dialed his lethality all the way up to eleven.
+
+As he ran, the battle-scarred strategist reached behind his back and removed the tiny spear attached to his magic strap. When the weapon came free from the storage device, it grew to full size within a handful of heartbeats. It was the killing-tool Kenji had crafted from the horn of the fallen rhino, although the spear had received some significant upgrades between then and now.
+
+In Kenji’s hands, the weapon became a whirling instrument of mayhem. He took out a pair of slicers while running at full speed, removing one bug’s head with a horizontal slash before driving the tip through the other’s eye with remarkable precision.
+
+His direct involvement wasn’t part of the plan. Nick wasn’t sure what role Kenji intended to play, although he was happy to have another elite join the melee. He put down a stray slicer as the warrior ran over to where Ella was dueling with the wurm’s tongue, wearing a maniac grin all the while.
+
+Kenji waited until she absorbed a ground-shaking blow with her gravity magic. Then he took aim and unleashed an ability-bolstered lunge with the full strength of his body behind it.
+
+To Nick’s surprise, his spear bit deep, causing amber blood to fountain into the air. It wasn’t a serious wound to something so big, but it must have hurt like hell, because the wurm screamed while pulling its appendage out of reach. He cut through the chitin like the skin of an apple. That’s one powerful weapon.
+
+While the wurm lined up a counterattack, Kenji and Ella turned to face the beast as one. Even though they had never fought beside each other before, the centennials moved with impeccable solidarity, combining their amazing talent to form a whole that was greater than the sum of its parts.
+
+The duo ducked, dodged, struck in an adrenaline-charged frenzy, forcing the Capital Boss on the defensive. Nick was in awe of their technique and skill—the result of living over three times his lifespan while pursuing mastery of the martial arts.
+
+I’ve never seen Kenji so happy. Nick grinned. They make an incredible team. He would have simply sat back and watched the duo kick ass under other circumstances, learning everything he could from their instincts, teamwork, and technique.
+
+But now wasn’t the time. Nick had lined up another Sonic Slice during Kenji’s arrival, and he let loose with a full-power attack that bit deep into the beast’s hide. One more, and it’s time to peel its armor away.
+
+However, the wurm had learned from his earlier efforts. While it couldn’t roll over without revealing its damaged portion, it began to undulate and writhe, using its bulk to threaten anyone who drew near. The motion made it harder to land a precision strike. Team Earth’s heavy hitters kept whaling away, but it was going to be trickier to penetrate the beast’s hide the second time around.
+
+That was when, to Nick’s astonishment, a man stepped onto the rim of the canyon holding a violin of all things. Nick had never seen him before and had no idea how the instrument had survived integration, humanity’s tutorial, and the various ordeals that followed.
+
+The musician had salt-and-pepper hair, dark brown skin, bright blue eyes, and a mischievous grin. He wasn’t Blending and was clearly visible, even without Tactical Command. While the chaos of combat roiled all around him, the bard put a bow to the violin’s strings and began to play.
+
+A resonant, almost painfully beautiful note reverberated off the canyon’s walls, like the crevice was a theater designed to amplify his instrument. The music cut through the clamor like a blade, as if the song was more important, more real, than the other vibrations riding the arid breeze. It was a lively tune that captured the gore-splattered thrill of combat—of placing your life on the line with every swing of your weapon as enemies converged to strike you down.
+
+Without missing a beat, the man executed a flawless spinning-back kick on a stinger that thought he was easy prey, crushing it with his boot while playing his heart out.
+
+As Nick helped Devin and Bret take out a basher that had returned to guard the wurm, he realized the musician’s performance was conveying a powerful buff. Based on what he was sensing, the effect was part magic, part psychic, and part pure musical mastery.
+
+The song didn’t seem to be affecting his attributes. Instead, it was enhancing his organs and sharpening his thoughts, bringing out the best of his body and brain. It filled him with courage without encouraging him to take risks, letting him focus on his bladework with total concentration. The effect reminded him of Arctic Clarity—although the flavor was completely different—and unlike Nick’s technique, the music could affect hundreds of elite warriors at once.
+
+He wanted to learn more about the bard and his unusual power, but right now, he had more pressing issues to attend to. Accompanied by the thrumming strings, he set up his next Sonic Slice and unleashed a perfect strike, creating another set of perpendicular cuts.
+
+Everyone came running over to peel back the boss’s skin… just as a tremendous torrent of energy flared to life inside the behemoth’s body.

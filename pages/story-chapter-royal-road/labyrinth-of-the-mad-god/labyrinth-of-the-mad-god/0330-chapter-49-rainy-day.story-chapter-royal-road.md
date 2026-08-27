@@ -1,0 +1,81 @@
+---
+id: f5bfe169-d0e3-5920-b843-e95729a15d3a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49: Rainy Day"
+slug: 0330-chapter-49-rainy-day
+partOf: labyrinth-of-the-mad-god
+position: 330
+ownLength: 1747
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3721071/chapter-49-rainy-day"
+royalRoadId: "3721071"
+---
+
+Cued by Kenji’s Command, the party played a card they’d been saving for the right moment.
+
+The dinosaur spread her jaws wide and issued a Paralyzing Roar that vibrated his bones. Meanwhile, Nick gathered his will and unleashed a concentrated wave of menace known as Predatory Domain.
+
+Both powers were packed full of killing intent. They struck Xuthu as one, overwhelming the dreadbeast’s psychic defenses to instill it with primal terror. In that moment, the monarch hesitated, taking a single step back before regaining control.
+
+Being forced to cower before its prey, even for a second, enraged the Storm Lord. The scorpion sent a barrage of green lightning lancing for Lurk as it charged Nick in a flash, eager to settle the score. Every scrap of its focus was devoted to ending his life, leaving it unprepared for when Kenji came charging out of Bulwark’s dome—concealed by Blend and Bandit’s necklace.
+
+The veteran warrior hit the dreadbeast from behind, putting everything he had into a Penetrating Thrust that pierced its golden armor, followed by a Shield Bash that sent the monarch lurching to one side. A mixed volley of Mana Darts, Piercing Rays, shadow fireballs, and tail-flung boulders rocked the Storm Lord’s body as the party pressed their advantage.
+
+All the while, Kenji’s spear lashed out fast as thought. Every thrust targeted a joint, perforating the base of the scorpion’s tail and three of its legs. Ichor wept from the wounds, dripping to the ground as Xuthu roared and spun to face its tormentor. It sent both claws whipping around as its tail probed for the strategist’s throat, unable to determine his exact position thanks to the magic obfuscating his form.
+
+The Storm Lord weathered a second barrage while listening for Kenji’s footsteps—carapace alight in raging electricity as it unleashed the biggest bolt of lightning Nick had seen yet. The monarch’s magic crossed the chamber in a flash, but Kenji had retreated behind Bulwark’s barrier with his tower shield braced against a seam in the stonework.
+
+The resplendent display erased the magic dome, deflecting against his shield and revealing his location. The warrior tried to bring his barrier back online, but Xuthu was too quick. Kenji leapt back, leaving two orbs sitting on the ground where he’d stood. He blocked a tail strike that sent him crashing into a pillar. Before the creature could follow up, both consumables detonated, binding the dreadbeast’s limbs in sticky strands of goo.
+
+“I knew you were dumb enough to fall for that,” Kenji taunted the enraged monarch. The Storm Lord screamed as it strained against the adhesive bonds, which would only impede it for a few more seconds. It was sufficient for the party to complete their preparations, enacting a gambit that might tilt the scales in their favor.
+
+Nick pulled a Potion of Heroism and a Potion of Steelskin free from his belt loops and chugged them back-to-back. It was his first time using brews that boosted his attributes. The effects were immediate and impressive. Power coursed through his limbs first concoction enhanced his body across the board. Meanwhile, the second tonic took his Toughness to unimagined heights.
+
+Lurk crunched the same pair of potions as Bandit leapt onto her back. Drawing deeply upon the magic within, the lemur placed his hands on the dinosaur’s body, coating her in dense layer of inky energy suffused with his Concept. It was the first time Bandit had used Shadow Mantle on Lurk. He didn’t have enough mana to sustain it for long, but it would shield her from Xuthu’s lightning while the potions protected her from physical attacks.
+
+They were ready in less than five seconds, but that was an eternity in the time-warped heat of battle. The monarch had already freed itself from the glue and begun to charge with its claws leading the way. The scorpion shattered the Bulwark Kenji had raised while the dreadbeast was distracted, unleashing a series of strikes that would hit him, invisible or no.
+
+However, the man was no longer there; only the doorway he’d sealed beneath a layer of solid stone. The Storm Lord shrieked in red rage, realizing it had been tricked. It turned to face its assailants, just in time to take a Sonic Slice to its face, followed by three Mana Darts.
+
+Xuthu reared back as Nick arrived in an explosive burst of speed. He swung Blightbane faster than ever before, raining Heavy Blows upon the dreadbeast that carved curls of chitin from its limbs. It thrust with its tail, but he had already fallen back, using his Caster’s Buckler to deflect a bolt of dread lightning as the creature charged once more.
+
+Before it caught him, Lurk leapt off a balcony with her razored talons leading the way, having repositioned while the Storm Lord was distracted. She landed with a ground-shaking thud—natural weapons biting deep into the scorpion’s side. It counterattacked in a flash, expecting the dinosaur to move out of the way. But this time, the beast stood her ground.
+
+The monarch hissed in surprise as its tail deflected off her potion-boosted shoulder instead of punching through. It caught her torso in a scissor claw, squeezing hard but unable to cut. Before it had time to adapt, Lurk bent down and chomped the offending appendage, electricity coursing between her fangs as she took a bite out of the dreadbeast’s limb.
+
+The close contact allowed a wave of Shadow Flame to flow from her body and into the wound, searing and stabbing as Bandit’s Concept invaded Xuthu’s flesh. Injured and in agony, the dreadbeast skittered back as the party let loose with everything they had.
+
+Sonic Slice, Lurk’s talons, and a Rapid Barrage from Kenji’s spear struck the scorpion simultaneously. The shadow magic momentarily blinded the dreadbeast while the strategist’s weapon tangled its legs, leaving it slow to respond to the supersonic blade of force mana coming to claim its head.
+
+Xuthu managed to get a claw up at the last possible second, but without proper reinforcement, Nick’s attack bit deep, shearing several inches off the tip of one claw. Ichor fell like rain as the monarch screamed, incensed to have taken a significant wound.
+
+In that moment, victory and defeat were balanced on the edge of a blade. The party didn’t have the resources to try this again if the Storm Lord recovered. They pressed the attack while going all out, desperate to finish the fight before their potions cut out.
+
+While they had gained the upper hand, the dreadbeast had tricks of its own. It drew deeply from its energetic core, intensifying the electricity infusing its shell to purge it of foreign mana. At the same time, lightning suffused Xuthu’s limbs, burning through its reserves to bolster its speed and strength.
+
+Kenji was forced to back off. He couldn’t withstand the life-draining magic, and a single hit could cut him down like wheat before the scythe. Nick and Lurk unleashed a flurry of blows as the seconds until they lost their advantage trickled away like a fist clenching the sea.
+
+He was running out of energy to sustain his spells. He needed to drink a mana potion and fire his wand, but it took everything he had to contend with Xuthu’s attacks. Thanks to his superhuman Creativity and Mind, he could picture exactly where the items were and how he wanted to use them, but he couldn’t afford to take his hands off Blightbane’s hilt for even a fraction of a second.
+
+That was when something strange happened.
+
+He felt his will reach out and grab the requested objects, like he had just grown two extra arms. Confused but curious, he trusted his instincts and tried to draw his Wand of Force. To his utter astonishment, the device rose from its beltloop to hover in the air beside his head, followed by a high-grade mana potion.
+
+And as he parried and dodged like a man possessed, he put the pieces together. Nick had been training his psychic powers diligently, but he had focused his efforts on developing his mind sense and projecting his killing intent. However, he hadn’t forgotten about the thoughtform double he’d created when using Psi for the first time, or the hands-free duels Aurora’s residents had conducted with their psychokinetic powers.
+
+Holy shit. I’m moving them with my mind. Now that he understood what was happening, his precision grew. He grinned as he pulled the potion to his lips, popped the cap, and tipped it back while taking aim with his wand and pressing the gem serving as its trigger.
+
+Xuthu was massive, but Nick’s Wand of Force had grown quite powerful during his journey through the Labyrinth. It wasn’t enough to do any damage, but the kinetic energy was sufficient to shove the dreadbeast back. Better still, the magic moved too fast to be absorbed.
+
+As mana flooded his energetic pathways, he fired time and again, eager to end the fight before someone lost their life. Bandit’s magic faltered a heartbeat later. Both beasts were forced back beneath the monarch’s lightning.
+
+Sensing an opening, the Storm Lord focused its electric wrath on Nick, expecting him to block with magic or get out of the way… which left Xuthu completely off-guard when he charged straight through the energy-sapping magic with Blightbane’s point leading the way.
+
+Savage satisfaction coursed through him when the Legendary blade claimed the dreadbeast’s eye, stealing half the light of the world in decisive moment. However, he was in for a surprise of his own. Most creatures would pull back after suffering a debilitating wound, but the scorpion pressed its attack instead. Before he knew what was happening, Xuthu’s tail struck him like a sledgehammer, venomous barb piecing his lung.
+
+A bounder hit him a fraction of a second later, sending him flying before the dreadbeast had time to flood his veins with lethal toxin. Nick struck the ground like a sack of bricks, coughing as his lung filled with blood. He needed to chug some health potions and recover, but there simply wasn’t enough time.
+
+Xuthu was rearing up to end his existence, heedless of the ichor streaming from its body and the black flame wreathing its limbs. “I don’t know how you nullified my Concept. But this ends now!”
+
+True to its name, the Storm Lord infused both claws with a staggering amount of dread lightning, added a potent surge of stamina to the mix, and struck with incredible force.

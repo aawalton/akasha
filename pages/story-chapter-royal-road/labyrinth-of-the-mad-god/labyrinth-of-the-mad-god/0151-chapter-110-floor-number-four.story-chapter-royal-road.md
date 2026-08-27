@@ -1,0 +1,93 @@
+---
+id: c69b0dcb-588f-5391-87c4-b633bd394b9c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 110: Floor Number Four"
+slug: 0151-chapter-110-floor-number-four
+partOf: labyrinth-of-the-mad-god
+position: 151
+ownLength: 1710
+unit: words
+publishedAt: 2025-03-31
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2164028/chapter-110-floor-number-four"
+royalRoadId: "2164028"
+---
+
+There was a bright flash of light and an abrupt sense of motion, like he was sliding along a vast sheet of ice. When the world congealed and his vision stopped swimming, Nick found himself standing inside a gigantic white room—the largest enclosure he had ever seen, not counting the second floor of the tower.
+
+He was relieved to discover that Devin was standing at his side, and disappointed to learn that Veronica, Shaun, and Sophia were nowhere to be found. He just hoped that everyone was alright, and that the party would be reunited before reaching the roof.
+
+Knowing that every second was precious, Nick took out his spyglass and started scanning his surroundings. He wanted to prepare for the challenge ahead, while he had a few minutes to collect his thoughts and confer with his companion.
+
+He ran his gaze across the cavernous space, frowning as he turned in a circle and then came to a stop. Unlike every floor they’d explored thus far, there wasn’t anything to process. No terrain to consider or hazards to contemplate. Given the floor’s rule of “evaluation,” he had expected to find some manner of obstacle course or arena, or at least the person who would be administering the exam. Instead, it felt like he was touring a gigantic blank canvas, waiting for the artist to start filling in the details.
+
+The mile-wide dome had a flat, featureless floor and hexagonal panels lining the walls, all of which were pure white. When he bent down to examine the surface, he decided that it looked kind of like plastic. The material was firm, smooth without being slippery, and had just a hint of give when he placed his weight upon it. It proved impervious to damage, even when he hit it with his sword.
+
+The overall effect reminded Nick of a planetarium—like the one in the museum he used to love when he was a kid. Although somehow, I doubt that we’re here for a show. The description of the floor had mentioned some manner of challenge course, but there was no sign of anything of the sort.
+
+There wasn’t any hazardous terrain in sight, or any terrain at all for that matter. No enemies, puzzles, or other lethal threats. The only object of note was the device high above his head. Hanging from the center of the ceiling was a complex bank of machinery the size of a house. It wasn’t moving or emanating magical energy, and it didn’t appear to be threatening when he tried using Size Up.
+
+“This whole fucking floor is one big, empty room.” Devin turned to look at Nick. “What happened to the evaluation that we’re supposed to undergo? You think we lucked out and this level is broken?” He could tell from Devin’s tone that the question was rhetorical.
+
+Nick shrugged and sat down to rest. He was certain that whatever was going on, their next ordeal would begin soon. He reached into his bag and pulled out some provisions, then handed Devin his share. They started to eat while they waited to find out what would happen next—glad for another moment of respite, no matter how brief. “Your guess is as good as mine, although something tells me that it won’t be empty for long.”
+
+Sure enough, five minutes later, a low hum rose to fill the air, emanating from the bank of machinery above his head. Nick got back on his feet and drew his sword, but nothing dangerous appeared just yet. Instead, a display flickered to life in front of his face. It featured runes in System writing, although he could tell from the color and formatting that the message wasn’t coming from the System this time.
+
+New challenge-course participants have entered the floor.
+
+Performing perfunctory scan to identify participant species.
+
+“Looks like the show is about to start.” Devin sighed, cracked his neck, and then rose to his feet. He decided to leave his weapon in its axe and shield configuration until they knew what they were dealing with. As the last word left his lips, a beam shot out from the machine and swept over them both. It made the men jump, but didn’t seem to be any manner of attack.
+
+While the device conducted its scan, the humming intensified, accompanied by a whir like a thousand industrial-grade fans going full blast. A few seconds later, everything was over. The beam cut off and the noise diminished to a dull roar.
+
+Devin was about to ask Nick a question, but his words were cut off when the message on the display shifted.
+
+Rerouting power from the auxiliary battery and activating evaluation protocols.
+
+Time until full activation: 7 minutes.
+
+Since the Gift of Tongues trait has been detected, learning the participants’ language has been deemed unnecessary.
+
+Skipping steps 13-17 and proceeding with the course introduction.
+
+At this point, the magical equivalent of a high-tech hologram wavered into existence a few feet in front of Devin and Nick. The image was a species that he didn’t recognize—bigger than any humanoid life he’d seen yet. Although the term humanoid felt like a stretch on this occasion.
+
+The creature in question was kind of like a centaur version of an alpaca, with a muscular torso protruding from the front end and thick fur covering the rest. The human portion looked like a broad-chested man with bright orange eyes and split pupils. Unlike the liaison Nick had spoken to in the Grand Arena of Papilion, when this hologram finished forming, it appeared completely solid. To the extent that it felt like the man was standing beside them.
+
+A few seconds later, the alpacataur turned to examine the duo from Earth. Then he nodded and began to speak. “Welcome, esteemed guests, to floor seventeen. Home of the sector-famous species-evaluation challenge course. You are here today because a senior officer in the Tower of Rizzen has awarded a commendation for your exemplary performance. Standing on this double-digit floor is both an acknowledgement of your strength and an opportunity to grow stronger still.
+
+“We are here today to find out what you’re truly capable of and have some fun along the way. You will receive a prize in accordance with your ability, including species-experience pills for the top performers. Although they are only given out an average of once per decade, there is always a chance that you will claim them for yourselves, and I can’t think of a better reason to give this trial your all.”
+
+Nick and Devin shared a look. This was the first time they had heard that species experience could be obtained by any means other than completing species-wide System quests, like the Fate of Earth quest chain. While he didn’t understand the full details of species evolution just yet, it appeared that this floor really was an incredible opportunity.
+
+But something didn’t sit right with him. Everything felt far too friendly and cordial, considering the potential reward. The System always paired the best prizes with incredible danger, and Taltos wasn’t the type to do them any favors either. The welcome didn’t square with the specifics of their situation. Still, Nick couldn’t deny that he was growing more excited by the word as he listened to the alien’s explanation.
+
+“Once we have completed your orientation, you will participate in a series of challenges. Each will measure a different aspect of your individual ability and the potential of your species as a whole. Each challenge in the same series will be harder than the last, and each completion will increase the prize pool you will receive at the end of your stay.
+
+“A failure will end your participation in the associated category, and the trial will conclude when both categories are complete. You will be assigned a ranking at the end of this process—a badge of honor that will open numerous employment opportunities within the tower of Rizzen.”
+
+At this point, the alpacataur let out a booming laugh that made Nick take a reflexive step back before he realized that he wasn’t under attack.
+
+“Don’t worry, we’re not here to kill you. While it is true that these challenges have a modest fatality rate, the program will terminate if it detects your vitals fading. But don’t let that safeguard make you complacent. It’s still dangerous, and as everyone living in the tower knows, there are many fates far worse than death, most of which begin with failure.” At this point, the man turned and gestured toward the enclosure, which had begun to shine as mana congealed along its interior.
+
+“The first challenge will begin in just a few moments. Each trial will be broken down into twenty stages belonging to one of two categories, environmental or combat. At the end of each stage, a rest period will be provided. You may decide if you want to continue in the same category or switch to the other at that point. Good luck. May your species prosper and serve the glory of Rizzen.” With that, the alpacataur wavered out of existence, leaving the men alone in the spacious enclosure once more.
+
+“That was a solid setup this time.” Devin took a warmup swing with his axe. “But wait for it.”
+
+“Wait for what?” Nick sighed.
+
+“The twist.” Devin raised his shield and assumed a combat stance. Nick wished that Devin had kept his mouth shut, although he honestly felt the exact same way. One thing that he had learned by now was that if something was part of a System’s quest, it wasn’t going to be easy.
+
+Sure enough, a few seconds later, an alarm sounded from the machine overhead and another message materialized in front of their eyes.
+
+Warning: After querying the database, it has been determined that the trial participants are not registered employees of the Tower of Rizzen. As such, their participation in the species’ challenge course does not constitute an authorized attempt.
+
+Their status has been adjusted from [Esteemed Guest] to [Intruder].
+
+In accordance with my prime directive, the trial will proceed despite this unexpected occurrence.
+
+Trial parameters have been changed from [Measured Evaluation] to [Survival Challenge].
+
+Terminating cordial greeting program and deactivating standard programming.
+
+I am assuming personal control over this test.

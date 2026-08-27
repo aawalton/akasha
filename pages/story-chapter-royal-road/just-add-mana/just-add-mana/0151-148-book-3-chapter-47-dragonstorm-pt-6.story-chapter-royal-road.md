@@ -1,0 +1,201 @@
+---
+id: 9e1f4d0f-5d70-5ef3-8a91-06b1839e0510
+page-type-slug: story-chapter-royal-road
+title: "148 — Book 3, Chapter 47 — Dragonstorm, Pt 6"
+slug: 0151-148-book-3-chapter-47-dragonstorm-pt-6
+partOf: just-add-mana
+position: 151
+ownLength: 3546
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3534108/148-book-3-chapter-47-dragonstorm-pt-6"
+royalRoadId: "3534108"
+---
+
+Cale was reasonably certain he was supposed to be dead.
+
+Not in the literal sense, of course, but he'd attended far too many funeral processions not to recognize them on sight. These days he mostly avoided them, which probably said something about how he dealt with death. That said, a lot of the ones he avoided were technically his own. He was pretty sure he had the right to skip his own funeral. It was a rule, or... something.
+
+Clearly, this manifestation of a vision hadn't gotten the memo. Cale had opened his eyes to find himself lying inside a cabin. A cabin on a plain wooden boat, judging by the gentle rocking and swaying he felt. The small smattering of offerings around him and the mournful song outside told him this was some sort of funeral dedicated to him or to the role he was supposed to play in this vision.
+
+He was a little tempted to go right back to sleep and let this vision proceed as intended, admittedly, but he had things to do.
+
+His [Resonance Comet] had struck both him and the sage hydra. It would certainly be around somewhere, having taken over a different role. Cale wondered briefly if he had corrupted the vision itself or if it would still work toward its original purpose; Akkau would probably be mad at him if he'd wasted the thing, but it had been the best option available to him at the time...
+
+Eh. He'd deal with it when he got there.
+
+The good news was that he could take things a little more slowly here, at least. A vision was technically a dream, and that meant it operated in many ways by the kind of logic dreams did. He could feel that time didn't move normally here, wherever "here" was.
+
+Speaking of which, it was probably time to figure out what dragonkind-defining myth he was participating in. Cale forced himself to his feet with a groan, then pushed open the door of the cabin—
+
+He froze.
+
+A few things about this he had expected. The fact that he was on a river of some sort, floating through the darkness; the six serpents coiled on each bank, their mouths lit with just enough dragonflame to provide a dim view of the water ahead. All normal, as far as he was concerned.
+
+What caught him off-guard were the people on the boat with him.
+
+They stood in a silent vigil on the edges of the boat, staring out into the dim landscape around them. Their shoulders were tense with grief. They had cared greatly for the man that lay dead in the cabin, and now that he was gone, they saw this as their final duty. To guard his body as it made its way into the afterlife.
+
+Cale knew this was all a part of the story the vision was trying to tell. In some way this vision reflected some integral part of dragonkind, for good or for ill. He had forgotten, though, that it was the nature of a vision to make its point through what was known and familiar.
+
+And Cale was deeply familiar with every one of these faces.
+
+They had traveled alongside him, once. Fought and adventured and laughed with him, back when Yggdrasil still flourished and the pathways between its branches were open for worldships to travel. Cale would never forget any of these faces, no matter how many lives he lived. They had been the first to truly stay by his side, whatever new life he found himself in.
+
+They were those whose deaths pained him the most. He had failed them. Centuries might have passed, but the sting of it was no lesser—he remembered their desperation, their need to save their worlds. The Planar War had broken each of them in their own way, and Cale hadn't been able to stop it.
+
+Yet here they stood vigil over him as though they blamed him for none of it. Would they have done this, if they still lived? Were they perhaps still watching over him, the way he would have done for them? Or was this merely the product of the vision, adhering to its rules?
+
+Cale had no idea. None of them acknowledged his presence, which was something of a relief; if they had reacted to him or tried to comfort him, he didn't know what he would have done. They looked and felt like his friends, but they weren't truly them. He wouldn't have been able to take them at their word.
+
+But there was a strange comfort to be had in their presence. He had missed them, and the idea that they would stand guard over him... well.
+
+It was a pleasant thought, at least.
+
+Cale had drifted through the fourth gate and the fourth alien landscape before he finally recognized the myth his vision had been shaped around.
+
+His recollection of it was fuzzy, but he thought he knew this to be the Duat. What he experienced now was the process by which Ra moved through the twelve countries of the Duat each night, culminating in a battle with a certain serpent-deity. That serpent-deity, he assumed, was the one meant to teach him to better understand what it meant to be a dragon. The darker side of dragonkind, in this instance.
+
+He supposed that meant he had a good idea of what role the hydra inhabited. This vision veered dangerously close to the territory of the Named. Cale couldn't help but wonder if the vision would be the same if he had triggered it while still within the Great Realms rather than here in this isolated pocket of reality.
+
+Not that it mattered, in the end. In the vision he played the role of Ra, and in the vision they would eventually be brought to face the Serpent of Chaos. Neither he nor the hydra would be a true representation of their Named counterparts, but they didn't have to be for him to understand the vision.
+
+All he needed to do now was to wait.
+
+They met in the seventh country of the Duat.
+
+The hydra had transformed into a form appropriate for the Serpent of Chaos, and it dwarfed the horizon such that for a moment it looked as though its mouth was yet another gate to the next country of the Duat. It was only when he felt the stirrings of magic from his old friends that he caught a glimpse of pitch-black scales and understood otherwise.
+
+He got to his feet. There was a certain way things were supposed to go within a vision, but this vision had been intruded upon, and Cale had no desire to see his friends die for a second time, no matter that it was a dream. He'd seen enough repeats in his nightmares. As his friends prepared to cast, he lifted a hand.
+
+"No," he said. "I'll take this one alone. But thank you. All of you."
+
+None of them had acknowledged him in all the time he had been there. To them, in the vision, he was dead and gone. Now, though, they turned to look at him, and he thought he caught a glimmer of understanding in their eyes; they nodded at him, and just like that, they faded away, leaving Cale standing alone on his boat.
+
+Oddly enough, his shoulders felt a little lighter. Cale hummed in thought as his boat floated toward the serpent. What did he remember of this member of the Named? The hydra was a creature of symbolic meaning, and that meant it would be subject to that influence, at least a little.
+
+His nature as one of the Named had kept him from the transition that ordinary dragons had achieved in becoming a true creature of the realms. Like all the other draconic Named, he was rather bitter and resentful about that fact, though he was a great deal more dramatic than most of the others.
+
+Rather conveniently, that also meant Cale had learned a good deal about him through his rants. And if the hydra was bound so closely to symbolic meaning...
+
+Well, Cale couldn't think of a more fitting form for it to have been placed in.
+
+Before he could ruminate on it too deeply, the serpent-god snapped its mouth shut, eyes glaring balefully at Cale. The movement sent a tidal wave of water rippling through the river, nearly capsizing the boat. Cale's expression didn't change, though, and he didn't bother to do anything other than stabilize himself with a few well-placed barriers.
+
+"Throwing a tantrum already?" he asked.
+
+"Foolish," the serpent hissed at him. Even forced into the form of a single serpent, Cale heard four overlapping voices, bleeding with malicious intent. "You place us in a realm of symbols and meaning. We are stronger here than we were within our Storm. Did you think this would give you an advantage?"
+
+"Oh, so you can talk," Cale said. He examined the serpent closely, sensing that the vision was giving him an opportunity to divine the nature and purpose of the Dragonstorm. Why was it so cruel, when the dragons it drew from had only done this to be kind?
+
+If he could understand that, he would have what he needed to subvert it, even beyond merely defeating its avatar.
+
+"I suppose I didn't give you much of a chance to talk before," Cale said, his tone conversational. "People's lives were at stake and all that. I'm sure you understand. Now that we're subject to dream-time, though, I don't suppose I can convince you to stop all this?"
+
+The serpent laughed, the sound slow and mocking. "You hand us our victory and expect us to surrender? Amusing, for a human."
+
+It slithered forward. The movement caused the world around them to quake, and Cale thought he might have seen a few stars above them blink out from the movement alone. For a brief moment, the river looked like it held the waves of an ocean instead, but through it all the boat kept steady.
+
+"You will die here," the serpent said, its voice low. "You will die alone. Your people will meet their end, and we will once again be free."
+
+"Except you won't," Cale observed. "You might make a world your shadows can live in, but they'll only ever be shadows. The originals—the dragons that sacrificed themselves for all this in the first place—they're still going to be trapped by their own working."
+
+The serpent snorted. "What do we care for them?" it asked. "It was their choice that created us. They may have protected your kind, but they sacrificed their own in that process. It is our right to take that same sacrifice and use it to live."
+
+A thought struck him, pieces slotting into place, and Cale couldn't help but snort as he finally understood. "Is that it?" he said. "Is that what you are, avatar of the Dragonstorm? I'm assuming that's what this vision is trying to tell me, but it's a little sad, I'm being honest."
+
+The serpent narrowed its eyes. "Of what nonsense do you speak?"
+
+"You're the opposite of a conscience." Cale waved a hand. "Whatever you want to call it."
+
+A hiss. "Explain."
+
+"It's a human thing." Cale shrugged. "We pretend it's like a voice in the back of our minds that urges us to be kind. There's this idea that we all know what universal good is—that we know when what we're doing will hurt or help someone else.
+
+"Sometimes we choose to ignore it because we're a little too angry or a little too sad, and then we feel bad about it afterward. Or sometimes we don't. Sometimes we learn to ignore it or shut it out because we don't like what it's saying, and sometimes you live for so long that it becomes hard to hear.
+
+"We tell a lot of stories about it, did you know that? I kind of forgot myself, but this whole trip has been a nice reminder of all those little stories we tell ourselves." Cale sighed wistfully. "Would've been nice to spend a few more days in that library, to be honest, but I digress."
+
+The serpent was staring at him, confused. Its tongue flicked out as if it might discern an explanation for whatever Cale was talking about from the taste in the air. "You are different," it accused. "You were eager to end the battle before. Why do you speak so freely now?"
+
+"I have time now," Cale said easily. "This is much more in line with how I normally fight, to be honest."
+
+"With words," the serpent spat, disgusted.
+
+"With words. an egregious amount of mana, and a deep understanding of the workings of reality," Cale said. He took a few steps forward, unafraid, and watched curiously as the serpent's eyes tracked him—that was interesting. It seemed no matter its disgust, it wanted to hear what he had to say.
+
+"How am I the opposite of this... this 'conscience'?" it spat out. "You have not explained."
+
+"Are you that eager to know?" Cale asked, taking a step forward and meeting its gaze. It went still, staring at him. "You don't know what you are, either, do you?"
+
+"It does not matter," the serpent said.
+
+"And yet you're waiting for me to finish," Cale said. "You want to know what I think. You care."
+
+"I do not!" Again the world shook with its words, stone crumbling off distant mountains and the water around it stirring into a frenzy; the mist obscured its eyes for a moment, but even after it had cleared, they were glowering and fixed on Cale. "It matters not what you think. I wish to know only so that I can crush you and all that you believe!"
+
+"Convincing," Cale said, entirely unconvinced. "But I suppose I can tell you, if you really want to know.
+
+"We tell a lot of stories about having a conscience and whether we should listen to it. What we don't tell stories about—maybe because the idea just isn't as pretty—is the voice that comes after. The part of your mind that whispers to you after you've listened to your conscience and done right by your beliefs.
+
+"That voice isn't always there, don't get me wrong. Sometimes you feel good and that's that. But other times, especially when you've had to make a great sacrifice yourself... there's a small part of you that imagines how much easier it might have been not to do it at all. A small part of you that wishes it had been someone else who stepped in. A small part of you that resents that it had to be done, no matter how much you tell yourself you don't regret it."
+
+Cale smiled a small, melancholic smile. He knew that feeling well. None of this was exclusive to dragonkind, but perhaps that was the point: that no matter their myth and legend, they had the same troubles.
+
+"That's what you are," he said. "That's all you are. A tiny fraction of accumulated resentment, bent on doing all the things one might think about doing when the day is a little too dark. I suppose this is a rather fitting vision in that context, with you as the serpent who wishes to devour the day."
+
+The serpent snarled. "You think me lesser," it accused. "You think me a castoff from the greater good. But in placing me here, you have given me the name of a god from your world. You have given me his power! You have placed me in a domain defined by symbolic meaning."
+
+It snapped forward in agitation, stopping just before Cale, and the world seemed to shake and tremble in response. "How will you stop me now, foolish one? You have given me everything I need to end your existence."
+
+Cale hummed. "Have I?"
+
+It narrowed its eyes. Cale felt a surge of its magic as it tried to pull in the world around it—to take in the symbolic power of the Duat, the ancient Egyptian underworld; of the twelve countries of the Duat and the night it represented; of the Lord of Chaos, whose name it had been given.
+
+But there was no sudden burst of power that followed. Instead, it swayed, as if suddenly dizzy.
+
+"Two things," Cale said. "First, this is a vision full of symbolic meaning, yes, but it's also a human dream. If you haven't experienced one of those already, then suffice to say those tend to be symbolically incoherent. I've had a couple dream-predators try to eat my dreams, you know? It's never gone well."
+
+The serpent stared at him.
+
+"Second," Cale said, "I've been pretty careful about not giving you that name, actually. Did you know even in retellings of its original myths it was never really properly written down? It's always vandalized, or written with slashes in the name, to indicate the serpent being cut apart.
+
+"Of all the names you could have taken, you took the name of a creature who had entire rituals dedicated to desecrating him and everything he represented." Cale smiled faintly, though there was something a little cold in that smile. "He told me about them, you know. Rites dedicated to cursing his name and spitting on his image. Something called the spell of trampling on Apep with the left foot? Fascinating stuff.
+
+"He just so happens to be one of those myths where every record worked to strip all that symbolic power out of him and his name. You're not going to get much out of it even if you could work through the weirdness of the human mind... and especially not mine. Everything you see here, I've seen a thousand times over. It has a thousand different meanings, a thousand different symbols. You think you can take advantage of that? I dare you to try."
+
+The serpent seemed momentarily speechless. It drew itself up, trying once more to draw on the symbolic meaning of everything around it; again, it failed, swaying dizzily before collapsing.
+
+It tried a different tack. "I am the avatar of the Dragonstorm," it managed. The threat seemed hollow, with how it laid in the water. "Even if the name you have given me is powerless, you have told me what I am. Your friends fight now to do what is right. They will struggle. They will resent that struggle, and in turn, they will empower me. You have only delayed the inevitable."
+
+"I dunno," Cale said. "Honestly, my friends are pretty special. Maybe they do feel that way, maybe they don't, but they do this funny thing where they talk out their feelings so it never really builds up in 'em."
+
+"Impossible."
+
+"Healthy communication does feel pretty hard these days, I agree."
+
+"That is not—" The serpent snarled in agitation. "Their magics will fail them," it said instead. "The Dragonstorm changes the rules themselves. Soon, only dragons and those blessed by them will have any magic at all. Even if they can resist the storm, they will fail to protect those humans, and they will be broken by that failure."
+
+"You're trying pretty hard to make me lose hope instead of fighting me," Cale noted. "That's interesting."
+
+"Do you not worry for your friends?" it asked, sounding almost desperate.
+
+"Nah," Cale said, though the smile he offered was one tinged by sadness. "I mean, you might be right. People are probably going to die. I would've liked to shield them from that a little longer, if I'm being honest.
+
+"But if you think that's going to stop them? Hah. They might be new to all this, and I tease them about it a lot, but they have the hearts of true mages. If you did manage to kill someone they're trying to protect, well... I'd be much more worried about your people than mine."
+
+The serpent snarled with frustration. "Even without their magic?" it demanded. "They cannot cast! The storm will render them helpless! You could not cast yourself without the essence of dragons, and your apprentices will fare no better!"
+
+"About that," Cale said. "You said dragons and those blessed by them get to retain their magic. I've got friends in high places, you know?"
+
+"I deeply regret everything about this!" Akkau shouted.
+
+Not that Sternkessel could hear him. Sternkessel's mastery over space seemed great enough that he could manipulate the spatial bridge that had evolved in place of the Bitter Path; it was not, however, great enough for him to teleport them to the end of it in a single bound.
+
+That meant that what was supposed to be a simple relocation had instead been translated into the two of them screaming through the Abyss at speeds greater than Akkau had ever endured in his long, long life. It was quite impossible for either of them to hear the other, on account of the sound of Abyssal water instantaneously vaporizing around them.
+
+If he wasn't clutching on to Sternkessel for dear life, he might have considered some sort of sound-dampening spell.
+
+Alas, he was and he didn't.
+
+It was, all things considered, a rather poor introduction to humanity.

@@ -1,0 +1,365 @@
+---
+id: 9018a930-af59-5565-b3d9-7370c48aebd3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21"
+slug: 0022-chapter-21
+partOf: light-cleric
+position: 22
+ownLength: 5652
+unit: words
+publishedAt: 2021-07-10
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/714074/chapter-21"
+royalRoadId: "714074"
+---
+
+Year 3
+
+Piety Churchstep tensed and relaxed the muscles in her shoulders rhythmically—once, twice, thrice—then her arms, her legs, and back up to her shoulders, counting each tense and relax to keep her mind from wandering, keep her senses sharp. The small muscle exercises were to keep her body from cramping as she crouched on the branch of a large tree, not moving but to tense and relax her muscles in turn. This tree looked out over a small valley within which was nestled a small village.
+
+Artio Province was almost entirely mountainous, making farming a difficult prospect. Instead there were orchards of hardy trees that produced hardy crop: olives, nuts, and apples, but mostly the people of the mountains made their living from goats, sheep, and woodcutting. This particular village was on the western most edge of the mountain range, putting it at the westernmost edge of Khulanty. Idly, Piety wondered if the people of the village even knew they were citizens of Khulanty.
+
+A cold wind gusted through the branches, shifting the remaining leaves with barely a whisper and making Piety shudder. The wind was particularly cold against her rain-soaked clothes. She had been hiding in this tree since before sunset, three hours ago. She had been tracking her quarry for the past three days, when it had begun to rain. Here, in the mountain, the rain of late winter was much more likely to turn to snow than it did back in the Valley of the Three Rivers or on the plains where the war between the Royals of Khulanty and the Governor of Kempenny still raged.
+
+She remembered, years ago now, a drop of rain that had cast her consciousness into the clouds and how she’d delighted in it. This rain was bitterly cold. She sniffled.
+
+She hadn’t slept much in the last three days and staved off exhaustion by force of will and just a little power. She’d gotten used to the wet and cold by now, though she was sure Temperance would have harsh words for her if she got sick because of this little adventure.
+
+Her mental senses drifted from her in ghostly tendrils, picking up the surface thoughts of the nearby villagers. Piety scanned quickly but gently through those thoughts, looking for any that did not belong.
+
+A man sat in the small tavern and drank a small glass of whisky, the last of the night before the tavern owner kicked him out, genially but firmly. A woman sat at the bedside of her two small children, a son and a daughter, and crooned softly to them as they drifted to sleep, and she wondered about their father, who was up in the mountains, tending goats. The mayor of this small village sat in a small office on the second story of the only building so tall in the valley: tallying sums, recording supplies, and figuring taxes, which satisfied Piety’s curiosity about whether or not they knew under whose rule they lived.
+
+The man from the bar walked loudly and clumsily down the muddy street, not bothering with the boardwalks. He made his way to the edge of town, abutting the forest, to relieve himself. Piety’s telepathy brushed the man’s tired thoughts and prepared to move on, when she found what she was looking for. It wasn’t in the relief of a man emptying his bladder, but in the creature lurking nearby. In that creature’s thoughts she recognized the savage, hungry nature of the undead minions of Frederick Vahramp.
+
+Quick as a thought, Piety focused her energy on a spot only a hand span from the lazy drunk’s left shoulder, and a bright light flared into existence just as the undead creature was about to strike.
+
+Upon Father Vytal’s death, Piety had generated light from power and instinct. She hadn’t realized she’d done it until she’d heard the stories of the “Light Cleric”, and Temperance told her she’d glowed. With meditation and practice, Piety had found she could create light at will, and she used that ability now to drive back the undead creature.
+
+The creature and the villager both screamed, the one with pain, the other with fright. Piety felt the creature’s scream bounce off her mental shield, but it wasn’t enough to stress her power. She wondered if this creature was weak or if she had gotten stronger.
+
+The villager ran for the village, seeking the safety of walls and lights and people, his gait awkward as he held up his pants with one hand and balanced with the other. The creature, though stunned by the blow of light, gathered itself quickly and leapt after the man.
+
+“Curses,” Piety muttered.
+
+Usually, a burst of light was enough to destroy the undead creatures, just as sunlight did. Unfortunately, though stunned and disoriented, this creature did not burn to a pile of ash.
+
+The creature leapt at the man again. Piety thrust with her telekinesis, striking the creature mid-leap in the center of its back, driving it into the muddy ground where it created a deep furrow in the mud.
+
+The villager’s shouts gained the attention of the near edge of the village. Those folks still awake poked their heads from their homes to laugh or shout questions. A few approached, but Piety could tell from their surface thoughts that they didn’t consider this disturbance to be of particular note, that this man was a notorious drunk after the autumn harvest when his orchards were still and he had nothing to do.
+
+The creature pushed itself to its feet in a blink and roared its fury, a deep grumble beneath a high-pitched scream that defied the physical capabilities of a human throat and struck at the nearby villagers psychically, staggering most and inducing throbbing headaches.
+
+Piety’s shield held.
+
+She threw a lash of telepathic energy at the creature and felt her attack slide around the creature’s own oily shield. The creature turned its attention from the drunk and looked to her perch in the tree.
+
+“That’s right,” she whispered. “Come get me.”
+
+It sped toward her tree and she struck with her telepathy, forcing it to the ground. But the creature was fast and resilient and it tumbled to its feet, continuing its frenzied charge. When it reached the base of the tree, Piety changed tactics. She thrust down against the pull of gravity and launched herself into the air.
+
+Looking down, the lights from the windows of those still awake and those newly awakened were far below, and she could see little other than a pale glow and franticly moving shadows. She could feel the thoughts of the villagers: panic—they realized what the human-shaped creature at the edge of the village was. Even in this remote area, the stories of the monsters known as vhamps had spread. And she could sense the creature’s thoughts: with the immediate threat gone, hunger had reasserted itself.
+
+Piety let her telekinesis touch the air around her. She had come to realize that air was a physical, tangible thing, and she had learned to push gently against the air, thereby gaining a fine control over telekinetic flight.
+
+Like a bird shifting its tail feathers, Piety adjusted her telekinetic powers and let herself plummet to earth. She tucked her knees against her chest and shifted forward so she looked down at her destination. The position had the added benefit of tucking her dress against her body so it didn’t flap into her face. Since that first flight, she had always made sure to venture into the field wearing long pants and stout boots under her dress.
+
+The villagers had taken up lit torches to fend off the undead beast, and she approved. By now, it was common knowledge that these undead monstrosities burned faster than dry grass. And yet, she worried this one was different. When she had struck it with light, it hadn’t combusted. Perhaps it was that her light wasn’t enough like sunlight to achieve the desired effect, but maybe it was that this creature would not burst into flames like others of its kind.
+
+The creature was primed to strike again, and no matter how effective fire was, the creature was far faster than the humans it preyed upon. Many would die before it would. Uncertain that her freefall would be fast enough, Piety wrapped her power around her, let it emanate from her. She hoped the light would draw the attention of the creature. By the time she hit the ground, propelled by her power, she shone like a miniature sun.
+
+She thrust her telekinesis at the creature as she landed, and the force cushioned her landing putting the creature into a small crater in the mud. The villagers were flung back with shouts and curses though Piety was happy they were further from the undead beast. The creature had taken the full brunt of her telekinetic thrust and lay prone, pressed into the mud at her feet, body shattered.
+
+Ignoring the cries of surprise, the shouts for explanation, Piety held her hand out and concentrated on the physical world around her. She felt the clothes on her body, the mud at her feet and splattered across her face. She felt the prone creature and the clicks and creaks as its body put itself back together alarmingly fast. She felt the villagers and their torches and their clothes and, among many of them, wood axes and hunting spears and utility knives. She focused on one of those hunting spears, wrapped her telekinesis around it and drew it from its owner’s hand.
+
+In the next moment, the haft of the spear slapped into her hand. It was a spear meant to hunt boar, a fact she picked up from the surface thoughts of the man she had snatched it from. It had a long sturdy haft and a thick iron crossbar to stop a charging beast from charging all the way down the haft to the spear-wielder.
+
+But she wasn’t fast enough.
+
+The undead creature’s body had mended rapidly, and now it swept its arm at her legs, knocking her feet from beneath her.
+
+Piety grunted as she was struck, but reacted quickly, throwing her power at the ground so she tumbled through the air without touching the ground and landed on her feet, skidding in the mud. The creature was on its feet as well, its ire in its glowing, red eyes. It did not shy from the light emanating from her body.
+
+Piety knew she was no good with weapons. Facing the creature with spear in hand would be worse than doing so bare handed.
+
+Before either she or the creature could make their next move, two of the villagers rushed in, torches blazing and struck at the creature. They were large men, used to hard work from sun up to sun down. Their attacks flanked it, were timed to work together rather than hinder one another, but the creature was too fast. Showing no fear of the fire, it lashed out with one clawed hand and snatched the torch from the hands of the villager on its right before thrusting that torch at its second attacker. The burned villager screamed. Then the creature raked its claws across the belly of the now torch-less villager. Cloth and flesh ripped and a second scream joined the first.
+
+Piety couldn’t spare a moment for the horror of two ruined bodies falling to the mud. She released the spear she held with her hands while at the same time taking hold of it with her power. Aiming for the creature’s chest, she thrust the spear at the creature. The weapon streaked toward its undead target, flashing in the light, meanwhile she prepared a second attack. Piety had not intended the flying spear to be a feint, she just knew that she couldn’t afford for the strike to fail without preparing a follow up.
+
+The creature slapped at the spear and it sank into the mud all the way to the crossbar. Piety’s follow up attack caught it unawares. Thrusting both her hands at the creature, palm out, she knocked it through the air, her telekinetic strike pushing her back with the recoil. Her sliding feet left furrows in the mud.
+
+The creature’s body tore through the trees surrounding the village. Without hesitation, she flew after the creature, prepared to attack again, but when she found it, several meters into the forest, it was impaled upon a tree branch. The branch was encased in glistening blood and viscera that stank of rotten meat and open latrine. The creature gasped and spasmed, clutching at the branch protruding from its chest, though it seemed more a physical reflex than actual struggle
+
+Piety relaxed, though she knew her work was unfinished. With its heart destroyed, the creature would be comatose. It would regenerate much slower than normal and not at all until the object that had destroyed its heart, in this case a tree branch, was removed.
+
+Behind her, a small coterie of brave souls approached slowly, warily. She turned to address them. There were three of them, each so much like the next in his plain woolen clothes, smelling thickly of wood smoke. And yet so very different. Unique. Without trying, she knew so much about them.
+
+The one with the scar above his left eye was a grizzled veteran of the mountainous woodcutting life, experienced enough to be properly wary and yet steadfast in a crisis. The large one was new to the mountains last month but had an elderly mother and three younger sisters to look after; he was in the mountains to make a living with his girth that didn’t involve putting weapons into other men’s bodies and sent most of his money to his family on the plains of Kempenny Province. The youngest hadn’t shaved for the past month and a half, just so that he would have stubble enough to be reprimanded for it by his mother, who spent her days at a loom.
+
+Each villager held a torch in one hand and a boar-spear in the other. When Piety turned to face them, they dropped to their knees in the sodden undergrowth of the forest. They bowed their heads in deference.
+
+The veteran said, “Peace, mother, we mean you no disrespect.”
+
+Shocked, Piety said the first thing that came to mind. “I’m not your mother.”
+
+For the space of several heartbeats, Piety and the villagers said nothing, only the faint creaking of their armor as they shifted made her realize what he had meant—he had been granting her a title of respect.
+
+To cover her embarrassment, Piety held her hand out to them. “Give me your torch.”
+
+The veteran villager held out his torch without question. Piety tugged it from his grip with her telekinesis and caught it easily. The villager bit back a curse but she heard it in his mind. Blushing again, Piety turned to the impaled creature and held the torch to its feet. This time the creature caught quickly and in minutes it was ash. It burned quietly, without physical or psychic noise, without struggle.
+
+Still staring at the smoking ashes she said, “In the morning, scatter the ashes. Until then, post a watch on this spot.”
+
+“But mother, it couldn’t regrow from ashes, could it?” It was the young man with the weeks-long stubble.
+
+“This one was more powerful than normal,” she replied.
+
+“Yes, mother,” said the veteran.
+
+More villagers approached through the forest from the edge of the village. They preceded the village’s mayor. She could feel the mayor’s weary concern radiating from him in time with his heartbeat.
+
+Piety considered fleeing the coming conversation. The awe and adoration with which the people of the village looked at her, the reverence with which story spread, made her uncomfortable.
+
+Piety turned to see the three still-kneeling men who had watched her burn the undead creature and the approaching coterie of villagers. Soot-stained, mud-splattered, fatigue-thinned, she caught unwanted glimpses of herself through the eyes of the villagers. They did not see her as a bedraggled girl in a dirty dress but as a warrior Saint descended from the heavens in a ball of fire to deliver them from story-book monsters made real.
+
+The villagers parted so their mayor could approach. Many of the villagers held torches that guttered in the rain and Piety let the light she’d been generating fade. Soon, only the torches lit the mountain forest.
+
+The mayor spared only a glance for the kneeling villagers, he kept his eyes on Piety. “Where is the vhamp?” he demanded, a veneer of authority over a boiling pot of fear.
+
+Piety narrowed her brows at the now familiar word. Piety assumed the word was a shortened form of Frederick Vahramp’s name, though how it had become synonymous with the minions he’d created, she didn’t know.
+
+“You can see for yourself, mayor.” Piety gestured behind her at the tree, though Piety could sense he had seen the greasy smoke marks and had determined the progression of events.
+
+His gaze flicked to the tree behind her and back. “I know who you are.”
+
+“And who am I, mayor?”
+
+“You’re the Light Cleric.”
+
+Several of the villagers gasped at his pronouncement, some of them even knelt in the mud, like the first three who had followed her into the wood.
+
+Piety resisted the urge to sigh. Her reputation had spread through Khulanty, much like the stories of the vahmps.
+
+“Your men,” she said, “who were attacked by the creature. Are they dead?”
+
+He nodded.
+
+Piety sighed. “Very well then, I should be off.”
+
+“Won’t you stay and rest? You look like you’ve been traveling for quite some time.”
+
+The offer was tempting, but Piety shook her head.
+
+Temperance waited for her at a comfortable inn in Silvervein, the provincial seat of Artio Province. It was a large city, a hub for trade through the South Pass of the Khulanty Mountains. It was an easy place for a pair of wandering clerics to get lost and be anonymous, to cut their ties with the Royal Army. Piety longed to join her.
+
+Before she could launch herself into the sky, a small boy approached, pushing through the adults. His deep golden aura caught her attention and she waited for him.
+
+“It only grows in valleys hereabouts,” he said, and he held out a small, blue flower.
+
+Piety had never seen the flower before, but she recognized it. She accepted the flower with smile and a nod, letting the tears slide under the rain. She tucked the flower into a pocket.
+
+• • •
+
+Piety soared through the cold air above the Khulanty Mountains clad in dry clothes and warm power. The rain had washed her clean and a careful telekinetic shield kept her warmth in but let the rain evaporate.
+
+She was exhausted.
+
+As morning eased into midday, the city of Silvervein crested the horizon. A part of Piety, the part that had tracked for three days straight, in the rain, wanted to take it easy, to just soar on into the city, right to the door of the inn where she and Temperance were staying, unconcerned if everyone in the city saw her. But the practical part of her, the part that could look beyond the immediate, reminded her she was in hiding and word of a girl who could fly would get around. And so, she landed in the forested foothills of the South Pass and hiked to the city. At the gates, she rented the services of a hand pulled cart, giving the young man with bulging muscles a silver coin to taxi her to the Rising Sun Inn.
+
+The common room was filled with merchants and merchants’ servants and merchants’ families as they brokered deals over an early luncheon. Though the scent of warm, quality food drew from her stomach an aching growl, she threaded her way through the tables to the inn’s office, a quiet room staffed by a stern woman named Whillamina.
+
+Whillimina looked up from her ledger and fixed Piety with a stern gaze. “Welcome back, Cleric. I trust your sojourn went well?”
+
+Piety smiled. “Yes, ma’am. Is Temperance in?”
+
+Whilimina flicked her fingers across a small stack of papers, but Piety was certain that she had all the messages memorized except when they were meant to be private.
+
+“She has not left a message for you, Cleric.”
+
+Piety nodded her thanks and went to the stairs at the back of the building. She and Temperance had rented a small, but comfortable room using the money earned from odd jobs as they traveled across Kempenny Province to Artio. The room was more expensive than Temperance liked, but Piety had insisted that they be comfortable, reasoning that they had been uncomfortable for most of their lives and that change would do them good.
+
+When she got to their shared room, number three on the second floor, she knocked twice and turned the handle.
+
+“Temperance? I’m back.”
+
+When Piety saw who was in the room, she went physically still and psychically defensive.
+
+Temperance sat at the small table drinking tea with a tall, silver-haired young woman. The woman was dressed simply, like the last time Piety had seen her, in a soft grey dress. It occurred to Piety that she had never seen the ruler of her nation in the full regalia of her office. Between the open door and the table stood a young man dressed in grey military uniform with a sword at his hip. Temperance and Royal Isabel Loreamer stood when she opened the door. The young man put his hand on his sword hilt.
+
+“It’s all right, Tobias,” Royal Loreamer said. Her voice was quiet but held the steel confidence of command.
+
+Tobias removed his hand from the sword hilt.
+
+The woman who had once been Heir Isabel Loreamer was now the Royal, the ruler of all Khulanty. Piety had heard the news while traveling cross-country with Temperance. It had been in the common room of an inn much like this one: Royal Sean Loreamer and his Consort Margaret were dead, and young Isabel had taken the throne. Margaret Loreamer had been ill, but no one knew how Sean Loreamer had died—speculation stirred like poison in tea.
+
+The Royal looked at Piety and Piety felt the other woman’s power flex and reach out to her shield. She did not press, but Piety could feel the strength of the woman. If the Royal wanted to test her strength against Piety’s shield, Piety knew it would be a challenge to stand up to her.
+
+Piety entered and closed the door behind her. “What do you want?” she demanded.
+
+“Piety!” Temperance chided.
+
+Piety’s gazed flicked to Temperance and away. Temperance was genuinely shocked. Piety could feel Temperance’s disappointment, and she blushed.
+
+But Royal Loreamer shook her head. “It’s fine, Temperance. She has every right to be angry with me. In fact, I’m surprised you aren’t.”
+
+“Why should I be angry with you?” Temperance asked.
+
+Royal Loreamer turned her attention to Temperance. “You don’t blame me for the war or your part in it? You don’t blame me for Tristam’s death?”
+
+Temperance gave a small shrug and sipped her tea. “No.” But her voice didn’t hold the same conviction it had when she’d scolded Piety. “I could have stayed at the temple in Kinswell. I made my choice, just as Father Vytal did, as General Kempenny did, and as you have.”
+
+Royal Loreamer looked at Piety. “And you, Light Cleric? Do you blame me?”
+
+Piety leaned against the closed door, not wanting to proceed into the room. “It doesn’t matter what I think.”
+
+Royal Loreamer regarded her silently for several minutes. Temperance fidgeted uncomfortably in the silence, the bodyguard, Tobias, watched Piety carefully.
+
+Royal Loreamer broke the silence. “I need you, Piety.”
+
+“I’m not fighting in your war anymore, your Majesty. I bought the patriotism and honor fairytale once already.”
+
+“I know. And I’m not asking you to.”
+
+“Then what do you want?”
+
+“You’ve spent the last couple months roaming the country hunting the minions of Vahramp. What have you noticed?”
+
+Piety held back a biting retort. She did not tell the Royal that she’d seen fear, bloodshed, and sorrow in the wake of even the least of the creatures. Instead, she tried to give the question proper consideration. Was there something she should have noticed? An anomaly? She recounted her most recent fight and how the vhamp hadn’t burned in bright light.
+
+“They’re changing,” she said.
+
+Royal Loreamer nodded. “They are. Do you know why?”
+
+“No.”
+
+“Me neither. I’d like you to find out for me.”
+
+“How do you propose I do that?”
+
+“Marcus has dispatched warriors and investigators all over Khulanty, to find the scattered remains of General Vahramp’s minions.”
+
+It took Piety a moment to realize that Marcus was High Cleric Radden. Royal Loreamer had the same habit of calling everyone by first name that Father Vytal had practiced.
+
+The Royal continued. “Many of them ended up doing what you’re doing, hunting down and destroying the creatures. But in the west of Shannon Province, we’ve lost three teams of clerics and the reports indicate there is a high concentration of vhamps there.”
+
+“Wait,” Temperance interrupted, “You want to send Piety into a situation where the High Temple’s best clerics have gone missing?”
+
+Royal Loreamer nodded. “It’ll be dangerous.” She looked from Piety to Temperance and back again. “I’m sorry for that. I need someone powerful. Someone I can trust.”
+
+“Why don’t you do it then?” Temperance asked, “Everyone says you’re powerful.”
+
+Piety was as surprised at her friend’s audaciousness as Temperance had been at hers. Temperance’s stubborn streak chose to show itself at odd times.
+
+Royal Loreamer nodded. “I’ve learned the hard way that I cannot do everything. I have a country to run, no matter the crisis at hand, and I have this damn war to fight.”
+
+“No,” said Piety, “You have a war to end, Isabel.”
+
+She hadn’t done it on purpose, addressed the Royal by first name like she was a friend, or even an acquaintance, respect was important to Piety, but in saying the Royal’s name, she felt like the ruler of Khulanty was no more or less a person than she was. She wondered if that’s where Father Vytal’s practice had come from.
+
+Isabel sighed. She opened her mouth to speak, paused, then, “He was my first teacher. He taught me to find the room in my mind, to focus my power and still the dreams, the nightmares. He taught me that my powers were a tool, that it was my choice how to use them. He taught me that all are equal in the sight of God and the whim of the cosmos. He taught me how to look at every situation as an opportunity to learn. I loved him too, Piety.”
+
+Piety took in a deep breath and it held the shudder of long since shed tears. The scent of tea still hung in the air and she remembered she hadn’t eaten recently. Her stomach’s whine was insistent.
+
+“Is there any tea left?” Piety asked, and she pushed herself off the door. Tobias, the bodyguard, let her pass. She sat at the small table and poured herself a cup of tea from the small pot. It was still warm.
+
+Tobias took up a position by the door.
+
+“I’ll go get more tea,” Temperance said quietly, and she slipped from the room.
+
+Isabel sat next to Piety and poured the last of the tea into her own cup.
+
+Isabel shrugged. “Sometimes, when I… when I access my power, there’s a space, like a part of me has been torn away. It’s always been there, but I can’t always see it. When I do see it, it’s like I can see into everything and nothing at the same time and my power… is more.”
+
+Piety went still, her body tingly, and a subtle sweat touched upon her skin.
+
+“Devorah Kempenny looks similar to me, but then, so do my cousins and aunts and nieces in the Loreamer family. For that matter, so do you and so do others throughout Khulanty, I imagine. But once, Devorah told me that she experiences the cosmos too.”
+
+Piety had to lick her lips and swallow hard before she could respond. “A cosmic void,” and she knew she had Isabel’s attention. “Like the wall had just gone and in its place some vast… I thought it was God. And I stood on the edge forever and never and teetered between here and infinity.” Piety looked at the wall of the small room but she was looking beyond, to the room in her mind and the wall replaced by forever.
+
+Piety felt Isabel touch her hand and she blinked, brought back.
+
+“Have you ever fallen in?” Isabel asked.
+
+Piety nodded and found in Isabel a knowing look. “Have you?”
+
+Isabel nodded.
+
+Piety took a sip of tea, swallowed, and said, “Temperance once told me that I look like Devorah. The first time we met her, in Sunslance.”
+
+Isabel nodded. “You do.” She patted Piety’s hand gently.
+
+“And once you said I looked like I could be your little sister.”
+
+Isabel nodded again.
+
+“What does that mean?”
+
+“I don’t know.”
+
+She took hold of Piety’s hand and Piety returned the gesture. There were several moments of silence while Piety gathered the courage to ask her next question.
+
+“Isabel, do you ever feel like you’re sharing your mind with other people?”
+
+Isabel looked at her askance. “Are you hearing voices, Piety?”
+
+“No. I mean the mindspace. Mine is a room. There’s a chair and a desk and bookcase, and ever since I was little, there have been books on the shelves that I’d never seen before. I’ve been playing chess against someone for years and I used to try to convince myself I was playing against my own subconscious, but now I don’t know.”
+
+Isabel looked carefully away and didn’t respond.
+
+Piety cleared her throat uncomfortably. “I only bring it up because you’ve also stood at the edge of the cosmos. I thought I was alone in that experience.”
+
+Temperance returned then, knocking twice before opening the door. Tobias stood at the ready and didn’t relax until he shut the door behind her. Piety had almost forgotten Tobias was in the room; he played the silent bodyguard routine well. Temperance carried a tray laden with a new teapot and three bowls of savory stew and a loaf of bread with a small dish of butter.
+
+Piety’s stomach growled with such enthusiastic anticipation that it felt as through it might tear through her middle to get at the food. Isabel laughed lightly, almost a giggle, another reminder that the Royal of Khulanty was just a person.
+
+Isabel didn’t seem inclined to resume the conversation and Piety, reluctantly, let it slide. Instead, she focused on Isabel’s request. Could she go into a region heavy with ravenous blood-drinking undead that had bested the most powerful clerics the Church of Khulanty could send? When Piety had finished her stew of mutton, carrots, and potatoes, sopping up the last of the gravy with a heal of the loaf, she sat back in her chair, contented, and decided.
+
+“I’ll do it.”
+
+Temperance sighed unhappily.
+
+“You don’t have to come,” Piety told her and was rewarded with a glare. She reached to Temperance and squeezed her shoulder gently. “Thank you.”
+
+“Good,” said Isabel. “I want you to start in a place called Valley of the Three Rivers. There’s a town there called Appledel…”
+
+“Appledel,” said Piety and the word caught in her throat. Her skin buzzed.
+
+“Do you know it?” Isabel asked.
+
+Piety nodded numbly.
+
+“Is there a problem?”
+
+Piety shook her head. “No. We’ll leave tomorrow, first thing.”
+
+“Good. Tobias knows the details of the reports and how to get reports of your findings sent directly to me. He’ll be accompanying you.”
+
+“Your Majesty.” Tobias took several steps toward them, concern etched to his forehead.
+
+“We’ve had this discussion, Tobias,” Isabel forestalled the argument. “You’ll be guarding the Light Cleric on her mission.”
+
+“And who will be guarding you?” Tobias demanded.
+
+Piety was surprised, the bodyguard showed far more will than she had expected of someone in his capacity. Arguing with the Royal seemed like a function a bodyguard wasn’t supposed to engage in.
+
+“There are plenty of guards at the palace,” Isabel said.
+
+“That’s what I’m afraid of.”
+
+“I’m ordering you to accompany the Light Cleric.”
+
+Tobias stiffened and returned to his place at the door. Isabel stood and returned her attention to the two young clerics.
+
+“One more thing,” said Isabel. “Based on Church Council vote, you two have been promoted to the rank of Mother.” She turned then and walked to the door. Tobias opened it for her, carefully not looking at her.
+
+“Isabel.” Piety had one more thing to say. “Your Majesty. I was sorry to hear about your parents. I know what it’s like to be an orphan.”
+
+Royal Isabel Loreamer nodded acknowledgement. Then she walked to the doorway and, instead of walking through the space, she paused. Piety could feel the pressure of her power as she stepped through and was gone.
+
+• • •
+
+As Piety changed clothes for bed, she felt an awkward lump in her dress pocket and withdrew the small, blue flower the little boy of Vale had given her. She swallowed hard.
+
+“Temperance, do you remember…” But she couldn’t force the words past her throat.
+
+Temperance looked at her and at the flower. “The pale blue flower that grows in the mountains of Western Artio.”
+
+She held her hand out for it and Piety gave it to her. Carefully, Temperance pressed the flower into the book that Father Vytal had given her for her birthday.

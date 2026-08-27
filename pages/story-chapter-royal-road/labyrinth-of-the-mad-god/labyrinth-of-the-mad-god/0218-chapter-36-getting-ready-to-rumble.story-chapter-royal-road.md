@@ -1,0 +1,91 @@
+---
+id: 13e71579-9d32-5c6d-95d7-c1b36a26315c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: Getting Ready to Rumble"
+slug: 0218-chapter-36-getting-ready-to-rumble
+partOf: labyrinth-of-the-mad-god
+position: 218
+ownLength: 1799
+unit: words
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2577266/chapter-36-getting-ready-to-rumble"
+royalRoadId: "2577266"
+---
+
+Nick spent the rest of the day vigorously conditioning his attributes while refining his plans.
+
+Every time he came up with a new idea, he used Theater of the Mind’s Eye to shadowbox against the Armada Wurm and its horde of beasts, although his visualization involved a lot of guesswork since he hadn’t seen them fight before.
+
+Its army looks tough, but I’m confident we can handle them. That leaves my party with two key problems—dealing with the wurm’s weaponized tongue and coming up with a way to dish out enough damage to bring the big bad down.
+
+Nick wasn’t too worried about bypassing defensive spells, since he could infuse Blightbane with a ton of pure mana after his weeks of training, but the creature’s natural Toughness and arcane barrier were going to be a problem. On that note, he reviewed everything he’d learned about the latter thus far.
+
+The arcane barrier was a natural form of antimagic shared by all mana-using creatures. It shielded them from magic that affected their energetic systems and the inner workings of their bodies, activating automatically while there was mana in their core. In addition to their Magic attribute, an entity’s level, species grade, and tier played a role in the strength of the arcane barrier, along with one additional factor that was particularly relevant for this fight—their size.
+
+The beast’s immense bulk meant most spells would have little to no effect. Even offensive magic like Piercing Ray would disperse before it penetrated all the way to the creature’s organs. I suspect most poisons won’t work on something that big either, now that I think about it—at least in the quantities we can produce. While Nick thought his upgraded Mana Dart would be effective, he doubted it would do more than distract something with such massive pools of vital energy.
+
+One way or another, we’ll have to carve our way inside its body before we can damage any vital points. In the end, that left the kill team with three objectives: Neutralize the wurm’s tongue, find a way to pierce its hide, and then dig past its muscles and fat until its organs were exposed.
+
+Of course, the construct wasn’t just going to sit there and let his party focus on a single spot. Nick was certain that anything that had lived long enough to reach Tier 2 would have strategies for dealing with exactly what Team Earth was planning. He decided that his only option was to try out his core attacks against the tongue and hide, then focus on whichever target seemed more susceptible and let his team handle the rest.
+
+After reviewing a few final ideas to discuss with his party in the morning, he got ready to go to bed. On his way to his tent, he pulled up his profile to check out his updates.
+
+Through intensive training, you have improved the following baseline attributes:
+
+Dexterity has increased from [15] to [16].
+
+Strength has increased from [15] to [16].
+
+Toughness has increased from [16] to [17].
+
+Creativity has increased from [14] to [15].
+
+Mind has increased from [13] to [14].
+
+Through use, you have improved the following skills:
+
+Acrobatics has increased from [7] to [8].
+
+Size up has increased from [15] to [17].
+
+It’s nice to see that shadowboxing is training my mental attributes again after evolving and raising the conditioning cap. I’ll focus more on my skills and magical training as soon as the boss is dead.
+
+Nick slept well and awoke before dawn. When he left his tent and stepped into the hollow mesa, most of Team Earth was already hard at work, preparing their bodies, minds, and gear for the battle to come. He stopped to speak with Kenji, Liz, and Shaun, since he wouldn’t get another chance until after the fight, then joined his party around a makeshift table.
+
+Sarah, Laura, and Mirium were in the middle of an animated discussion—debating the merits of various spells. He could tell from their conversation that their understanding of magic was considerably more advanced than his own, which made sense, as they were pure casters and he was a magic/melee hybrid. I should ask them for pointers on my energetic training once we found the city.
+
+That left Nick, Paul, Bret, Ella, Devin, and Veronica to confer on the martial aspects of their situation. “That thing must have sensory organs,” Devin began. “They should be more vulnerable than anything else and damaging them will make the rest of the fight easier.”
+
+“While that’s true,” Ella countered, “this thing lives deep belowground, so its organs will be adapted to intense pressure. It’s not going to have anything soft and squishy like an eyeball, and its critical points are likely to be shielded by some manner of protective tissue—possibly magical barriers too.”
+
+“I agree,” Paul spoke between bites of his breakfast. “But it’s still a fair point. We should keep an eye out for sensory organs while we fight and destroy them if it seems feasible. I’m more worried about that thing’s arcane barrier. My wide-area disabling abilities won’t work, although I’ve been refining one of them to target specific body parts. I’m hoping that if I focus everything I have on the tip of its tongue, I can manage to slow it down.”
+
+Nick jumped in a little later, sharing everything he’d come up with the night before. They went back and forth until the sun rose, then the elite party grabbed their gear, left the mesa, and began walking toward the canyon that would be the stage for their showdown with the Armada Wurm.
+
+The other teams were heading out too, including the engineers, who had whipped up a final siege weapon by working through the night. Nick’s party offered to help pull the bulky devices—or the warriors did at any rate—and he crossed the badlands accompanied by the creak of wood and rope.
+
+As they drew near the battlefield, the big group who had been walking with him separated. The engineers and long-range specialists were heading toward the top of the canyon. The earth and water mages moved closer to the river, getting ready to flood the area then freeze it. The skirmishers were already split up. Some were arranged along the ravines’ rim, while the rest were positioned near the support squad until they were needed elsewhere.
+
+Everyone who would be fighting on the canyon floor was arranged along the far side, where they would be safe from the raging water and siege engines’ barrage until the ice was frozen. At that point, they would reposition to where a dozen raised hills had been fortified with stone barricades and wooden spikes—ready to face off against stingers, slicers, and bashers once the boss turned them loose.
+
+Nick’s party didn’t have a defensive position, since they were bringing the fight to the wurm instead of the other way around. They were going to stand on the rocky ledge, then jump down when the mages completed their terraforming efforts.
+
+Their assigned area was where the bait beast was positioned, which was the deepest point of the canyon. As long as the boss couldn’t break through the ice or the stone walls of the gorge, its own mass would restrict its movement, making it hard for the enormous creature to climb to higher ground.
+
+After the scouts confirmed the wurm was busy chasing the pull team and wasn’t headed their way, everyone moved to their assigned position. Nick watched with interest as the Town Boss that would be used as bait was wheeled in on a massive cart. It resembled a hedgehog the size of an elephant, with bright green fur and yellow quills. It looked absolutely miserable while restrained by various nets and magical spells, and he would have felt sorry for it if it were a living creature and not a replica of a beast that had been created by the System.
+
+Once the creature was below the pullies, the bait team attached a series of hooks to the netting. After making sure that they could lift the Town Boss as planned, they reported they were ready to go. At that point, Kenji walked across the planks until he was standing in the middle of the canyon, where the entire army could see him.
+
+“I’ll keep this brief, since the wurm could notice our presence and decide to attack at any moment,” the scarred strategist addressed Team Earth. “But I just wanted you to know how proud I am of each and every one of you. You have made an incredible effort over the past few days—along with everything you’ve accomplished during the fight to save our planet.
+
+“Now it’s time for all that hard work to pay off and build a home for ourselves on New Earth. I’m confident that together, we can create something incredible. A place to train and grow stronger in preparation for entering the Labyrinth, but also a center of learning and culture. A place to raise the next generation, and to build a better world than the one we were born into.
+
+“I’ll be using a new type of magic to help coordinate everyone once the battle begins, so don’t be surprised when you see some information appear in front of your eyes. Other than that, I just wanted to tell you how excited I am to watch this fight play out. For once, we get to dictate the terms of the battle, and I can’t wait to see what we can do now that the ball is in our court. Go ahead and begin your final preparations, but please don’t do anything that will leave lingering traces of mana in the air until the beast takes the bait and the fighting starts. Good luck, everyone. If this goes the way I think it will, tonight we’ll be partying in our brand-new city!”
+
+With that, a cheer arose, and Nick raised his voice to join them. The mood was dramatically different than the last time he’d seen so many of Earth’s elites assembled in the same place—the pitched battle on the roof of Darkstone Tower.
+
+Electric tension filled the air, but he saw excitement on their faces instead of terror. Everyone was eager to find out what their new bodies and classes could do as they brought the full might of Team Earth to bear.
+
+Once the teams were in position and the various supplies were laid out according to Kenji’s plan, all that was left was to wait for the battle to begin. Nick realized that he was grinning from ear to ear, casting his gaze across his people while running his fingertips along Blightbane’s hilt.
+
+This was a pivotal moment in humanity’s comeback, and he was ready to rumble.

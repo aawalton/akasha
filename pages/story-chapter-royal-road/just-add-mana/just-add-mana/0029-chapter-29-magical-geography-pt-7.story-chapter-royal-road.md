@@ -1,0 +1,269 @@
+---
+id: 3229a91e-09f0-533d-8256-f066c1ae4697
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 — Magical Geography, Pt 7"
+slug: 0029-chapter-29-magical-geography-pt-7
+partOf: just-add-mana
+position: 29
+ownLength: 4557
+unit: words
+ownProgress: 4557
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2568212/chapter-29-magical-geography-pt-7"
+royalRoadId: "2568212"
+markedReadAt: "2026-06-29T18:48:32.537Z"
+---
+
+It took a bit of time, but Cale and the rest of his impromptu team were as ready as they would ever be.
+
+Fighting something from the Abyss wasn't something he did very often. Really, fighting non-lethally wasn't something he did very often. The effect of the Thread of Fate meant many of his days were rather intense and eventful, but even then, Cale thought his first day in Utelia somehow managed to rank among the worst and best of them simultaneously.
+
+And wasn't that something? It almost made him laugh.
+
+It wasn't actually the worst he'd experienced, of course. Cale had experienced far worse. But it ranked among them, probably, in terms of the absolute rollercoaster of emotions he'd experienced in the span of a single day. It was supposed to be rare for him to get angry, but both the Loomweavers and Sneaks-In-Darkness had managed to strike at a part of him that he normally did his best to avoid.
+
+That hug from his new friends had helped him calm down quite a bit, much to his own surprise. Cale didn't ordinarily let other people get too close to him. He moved between lives too frequently, even when he managed to extend his time in a single realm. And travel through the Great Realms was difficult, when one was as magically handicapped as he was. Nor where there many mages capable of targeted travel especially.
+
+The point was that he was rather surprised by how quickly he had grown attached to so many of the people in Utelia. It was getting harder and harder to pretend this place was just a passing fancy, and that meant...
+
+Well, it meant that this would probably be one of those lives.
+
+Cale supposed he was long overdue for one of them. A life spent living, not a life spent existing. As long as he survived this, anyway. Abyssals were a dangerous opponent even for him, and if anyone else had sent him up against one, Cale would probably have suspected them of trying to get rid of him.
+
+Sternkessel was different. Mostly because Cale was pretty sure he knew what the professor was now, and he didn't disagree with the proposed plan of action or how he'd gone about it.
+
+Which led to where they were now. This particular Abyssal sat at the bottom of an enormous hole carved out of the center of the Inverted Spires, and even now, it was probably trying to think up new ways to remove them. Even with the Abyssal being undeveloped and limited by powerful domain magic, that was dangerous, and the moment that binding was removed the danger would grow tenfold.
+
+They had some things working in their favor, though. The incompatibility between an Abyssal One and the Great Realms worked both ways. As much as Abyssals broke down the fabric of the realms around them, they were limited in capability as long as they were within those realms.
+
+On the other hand, mages essentially carried the power of the Great Realms within their mana cores. That there were so many mages now in the territory of the Inverted Spires was probably aggravating to the Abyssal that was bound here, even if it didn't understand why, and Cale's presence here was even worse.
+
+While he hadn't exactly met very many Abyssal Ones in his travels, he'd once been fortunate enough to encounter one willing to speak with him. They'd explained that just being near him felt like the mortal equivalent of standing next to the sun. Every moment spent in his company was like being scorched down to the bone.
+
+That same Abyssal had also spent rather a lot of time around him, now that he thought about it. Cale wondered briefly if he should have asked about that.
+
+...Probably not. Abyssals were a little like immortals, in a way; the things they cared about were strange and rarely compatible with mortal understanding.
+
+In any case, this Abyssal was likely being partially protected by the same domain that bound it, or the reaction from it would have been far fiercer when they first broke a rule. That meant they'd have to act fast once he freed it from its bindings and make sure it couldn't hurt any of them in the process.
+
+Which was why Cale had requested for the help of a certain trio of kobolds. Clone aspect magic was perfect for this situation.
+
+"Abyssals don't like being observed," Cale explained once the others were all gathered around him. Flia and all the rest of the students were here, though only five of them would be going down into the hole. He paced back and forth, occasionally glancing at the hole as if expecting it to start growing at any moment. "There's a reason for that. They draw their power from the Outer Planes, but the Outer Planes aren't meant to be observed, which means any kind of observation disrupts that connection."
+
+Leo raised a hand. "Why?"
+
+"You don't have to raise your hand," Cale grumbled. "And I don't know. It has something to do with how the Outer Planes work. It's not like I've been there."
+
+Flia, Leo, and Damien all shot him disbelieving looks. Cale was pretty sure he caught one of them mouthing "lie" under their breath, which was patently absurd. Why was this what they suspected him of lying about? He'd said plenty of things that were far more absurd.
+
+"So, um, the observation thing is why you wanna get my help?" the kobold trio asked nervously. Well, all three of them began to speak, and then the two in the trenchcoat immediately stopped talking when they realized where they were.
+
+"You'll have a pretty important job," Cale said, offering them a small smile. They were named Threek, apparently? Cale had to do his best not to comment on the name lest he earn another level of [Blabbermouth]. "You're sure you can do this?"
+
+Threek paused for a moment, withdrew into their trenchcoat, and conferred for several seconds. "I don't have a lot of control over my magic," they offered nervously after a moment. "But I can try. I wanna try."
+
+"That's all I ask," Cale said. "Now, are we all ready?"
+
+Damien and Leo nodded.
+
+"I still have no idea why I'm here," Flia said. She looked... Cale couldn't quite tell if she looked pleased or irritated that she'd been called on. He was pretty sure she was trying to hide how nervous she was, though. "You can't seriously think my magic is tied to the Abyss. It's a deep-sea aspect, not an abyssal aspect. I don't think that's even a thing."
+
+"I saw the Leviathan," Cale said patiently. "The Leviathan does not swim around in the deep sea. It governs the Abyss."
+
+"But..." Flia looked conflicted, and Cale could understand that much, at least. He'd thrown this at her rather suddenly. "What's an abyssal aspect? And what does that even mean for me?"
+
+"I'll explain it all, I promise," Cale said with a small smile. "I owe you three a lot, so you'll get your answers. As soon as we're done sending this thing home. Please? Besides, I saw how you handled that shadeling. If anyone can deal with a foreign, eldritch creature capable of ripping apart the fabric of reality by accident, it's probably you."
+
+Flia's face turned pink. "I don't even know what it looks like," she mumbled. She'd pulled the strap of her satchel closer to herself, though, and Cale saw the way she straightened.
+
+"Knowing you, you're going to think it's cute even if it's got fifteen mouths and thirty sets of teeth," Leo said, nudging her. Flia glared at him, then relented with a sigh, and Cale gave his friends a small smile.
+
+"Let's go," he said. "The poor thing's been trapped long enough."
+
+It was Sternkessel himself that floated the five—or seven, depending on how you counted Threek—down to the bottom of the shaft. They floated down in silence for a long moment, each of them absorbed in their thoughts. It probably didn't help that the only source of light was the mana ball Cale produced, and even then, all it did was light up their faces. Everything else vanished into the dark like there was nothing there.
+
+Probably because there was, in fact, nothing there.
+
+Threek was the most nervous of them, which wasn't much of a surprise. They kept fidgeting in their coat, and Cale saw multiple tails briefly peek out from the bottom before they slipped back in.
+
+"You don't have to do this if you don't want to, you know," Cale said, trying to be reassuring.
+
+"I-I know," Threek said. "You told me that already. But after Sternkessel explained everything, I can't just... I mean... I dunno why he didn't tell us before. Couldn't he have gotten someone to help with all this?"
+
+Cale hummed in thought, then shook his head. "I doubt it," he said. There was a dim glow in the distance now, just beneath them. He avoided looking directly at it, but none of the others did—and the moment they looked, a surge of not-quite-domain magic battered at the defenses Sternkessel had wrapped around them.
+
+The professor grunted slightly, but otherwise said nothing, and their descent continued as steadily as ever. Cale couldn't help but be impressed by that display of control, but then it was hardly the most incredible of their professor's feats of the day. He really needed to ask Akkau where he got his professors.
+
+After a moment, Cale spoke again. "It's... complicated," he said carefully. If Sternkessel hadn't already told his students what he was, there was probably a reason for it. "But think about it. Among the mages powerful enough to break a domain like this, how many of them would help, and how many would want the Abyssal for themselves?"
+
+Threek fell silent at that, their expression slightly stricken before settling into something more contemplative. Cale took the opportunity to study the void around them and the area around the distant glow, careful to avoid a direct stare. Sternkessel could defend against a reaction from any of the others, but if he looked...
+
+Well, the suppression of planar power was a question of quantity, not quality. The severity of the Abyssal's reaction was not. Cale sighed; if he had a more experienced set of mages to work with, it would have been easier to guarantee everyone's safety. He'd planned as carefully as he could, but he couldn't be sure he hadn't missed anything.
+
+They couldn't try to suppress it too early. Abyssals could adjust and find a way to draw on their planar connection in other ways, even through observation. The plan would work only because this one hadn't even had the chance to learn how, and even then, it would be a near thing.
+
+This would be far more comfortable if only he could use his mana to its fullest extent, but... the Loomweavers had built a domain capable of unraveling his mana. He couldn't risk that happening here. If a significant portion of his mana was separated into its constituent aspects, there was no telling what sort of wider consequences Utelia would have to endure.
+
+Literally. Cale had outright never faced anything capable of doing that before, which meant this was the one time he had no idea what would happen. All he knew was that if he was a true prismatic, then his mana contained a stable meld of every mana aspect that had ever existed, and several of those would instantly become unstable if separated.
+
+On the other hand, Utelia had the Gift, which meant there was one way he could safely channel his power. Judging by the strength of the domain he felt, he was going to need to use quite a bit of it.
+
+Their descent stopped, allowing all five students to slowly approach the Abyssal. It was hard to see properly, given that it was trapped within a sphere of golden light—that sphere was made out of what looked like thousands of the little circular diagrams the Loomweavers used for their domains, inscribed in intricate detail in a massive tapestry on the ground and then projected up as a sphere.
+
+Cale stepped forward. He could feel the Abyssal's attention fixate suddenly on him, but it did nothing; after all, he hadn't broken any rules yet. But he could feel it trying to make up new ones with every second that passed. It wanted him out.
+
+"Damien!" Cale called. "Are you watching?"
+
+"Y-yes?" Damien squeaked, jumping like he hadn't expected to be called out. Cale laughed softly to himself, then strode confidently forward.
+
+Up in the Inverted Spires, they had to identify the rules this Abyssal was enforcing. No doubt many mages had been lost to an accidental breaking of a rule; "don't step on the grass" was probably the smallest of them. Here, though, almost directly next to the creature that was enforcing them, he could feel them as they formed.
+
+Do not speak.
+
+Cale steadied his breathing and said nothing, even when the others called out to see if he was alright. Sternkessel deflected the Abyssal's cursory attempts to punish them for breaking the new rule, but its attention was largely focused on him. Good.
+
+Do not breathe.
+
+Cale held his breath and continued forward. The tapestry that held the domain binding was heavily protected by the very same domain he didn't dare touch with his magic, but he had a spell for that.
+
+Do not mo—
+
+The Abyssal cut itself off mid-rule, and Cale smiled slightly. It had trapped itself with that one: it had already created a rule about not staying still, and it couldn't oppose itself. Desperate, it tried something else.
+
+Do not see!
+
+Cale shut his eyes. He was close enough now that he could feel for the tapestry with his hands, and he crouched down to feel for its corner. The magic imbued into it was powerful, almost like it had been woven together by multiple minor divinities... He couldn't hold back as much as he might have liked.
+
+Do not stand—
+
+It was too late. He leaned down and bit, flooding his mana into [Decay Bite]. He didn't particularly try to hold back, either. He felt the spell buck and strain against the flood of pure power, felt the Gift respond by frantically wrapping around the construct and adjusting, evolving.
+
+Not the most elegant way to solve the problem, but decay magic had proven to be particularly impermeable to the properties of this domain, so if anything would be able to shatter the tapestry...
+
+Words written in mana appeared behind his eyelids, silently communicating to him what he'd done.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Decay Bite] has evolved into [Fangs of the Festering Fields]!
+
+[Fangs of the Festering Fields, Level 1] [Fifteenth Tier (Unique), Active] [1.0e54 Mana]
+
+At the farthest reaches of the Outer Planes lie the Festering Fields, where all planar creatures go to rot and the wheel of life stops turning. The roots of the former World Tree Yggdrasil form the foundation of this dead plane, and now the power of that death flows through your jaws, invoking the end of all things.
+
+Do not cast this again.
+
+As he bit down on the corner of the tapestry, something in the fabric of the world shattered. Even with his eyes shut, Cale's mana sense felt the emptiness that raced through his target like living venom—pure rot and festering decay raced into the age-old magic that kept the Abyssal bound, then tore through like it was nothing.
+
+And it would have kept going, too. The spell felt almost like it was eager to continue, to consume, to bring about the end as it was meant to. Cale pulled back sharply before it could, and in the same moment the Gift bore down around them like a divine cage.
+
+The spell halted at the edges of its power, snapping and biting, but with them both working in concert, it failed to break through.
+
+The words of the Gift lingered in his mind. It had left messages for him before, certainly, but that was perhaps the most direct warning it had ever given him. Cale wondered, as he sat there with his eyes shut, exactly how sapient this divine construct was. Who was the God of Magic, anyway? Cale had met many gods in his various lives, and he'd never seen a working this complex. To create something capable of inventing spells and gifting magic to the people, and yet to not involve himself when the likes of the Red Hunters came along...
+
+One of these days, Cale thought, he'd need to have a word with this god. At least so he could understand how all of this had happened.
+
+For now, he sat at the corner of the now-disintegrating domain. The last rule the Abyssal had enforced was not to stand, and while the binding was fading, it was still confused and would most likely continue to follow self-imposed rules for a while. This was the chance for everyone else to strike.
+
+He'd done his part. The Abyssal needed to be sent back to the Abyss, but Cale involving himself risked unwinding pieces of his magic, and that would put everyone here in danger. He'd decided it was best that he focus his will instead on keeping his mana well within his control so that couldn't happen.
+
+And as long as he was focused on that, he didn't need to think about what the Gift had said.
+
+The roots of the former World Tree Yggdrasil form the foundation of this dead plane, and now the power of that death flows through your jaws, invoking the end of all things.
+
+Cale had grown very, very good at lying through his lives. He hadn't lied about that. He just hadn't specified who he was good at lying to.
+
+Centuries of life, and of all the lies he told, he was best at lying to himself most of all.
+
+He forced himself to smile a tired smile.
+
+Ah well. It wasn't yet safe to use his eyes, but it would be nice to use his mana sense to see how his friends-and-possibly-apprentices did with something like this. He could step in if needed once the binding wore off, but...
+
+This was the type of thing that shaped a mage for the rest of their life.
+
+The less he interfered, the better.
+
+Given all the tales Flia had once heard about the Abyss, she had expected the Abyssal One trapped here to be a horrifying amalgamation of flesh and bone. She was deeply conflicted about the fact that Cale apparently wanted to save this thing. On one hand, she wanted to help it, because she really did love magical creatures of all kinds. The way they interacted with mana and their purpose in the Great Realms fascinated her.
+
+On the other hand, who knew what it had done to the Loomweavers? They had to be missing for a reason, and even if they'd messed up, they didn't deserve extinction. But then the Abyssal didn't deserve to be trapped here, either, and from what Leo and Damien had told her, the binding that had been placed on it was something truly horrific.
+
+Flia supposed she had difficulty believing it, despite the words and explanations of her friends. She couldn't fathom a single mage—let alone a group of mages—performing a binding so inherently cruel on something that was capable of thinking. A part of her thought that perhaps Cale had gotten something wrong, or at least that he was missing some piece of the picture.
+
+But she chose to come along anyway, in large part because she couldn't shake what she'd seen in Cale's expression when he was bearing down on that assassin mage. Sneaks-In-Darkness. Some things he didn't leave to chance, and that was one of them. He'd decided almost instantly that Sneaks-In-Darkness could not be forgiven.
+
+He'd made that same decision here with the Loomweavers, and though the rational part of her mind protested, another part of her—the one that had seen the face he wore and the bitterness with which he'd made that decision—thought that if he had spoken with such passion about what the Loomweavers had done, then he was just as sure about them as he had been about Sneaks-In-Darkness.
+
+And as soon as the binding domain dissolved and she saw the Abyssal unfurl from within, she knew beyond a doubt that he had been right.
+
+This Abyssal was no flesh abomination. It was a gentle, delicate thing, with gossamer wings not unlike that of a butterfly. It didn't quite have a complete form, given that it was partially between realms in the way that Abyssals had to be, but it was...
+
+Flia didn't have the words for it.
+
+It was light, dancing in the shape of a butterfly and creating the faint impression of fluttering wings. It was the shadow beneath, an echo of a shape that didn't quite exist within the realm. It was a keening song of loss that made her stagger forward before she realized what she was doing.
+
+It was a story, somehow given substance, and it was beautiful.
+
+The books she'd read a long time ago had described Abyssal Ones as orphans of broken realms that were then transformed by the Abyss. When a realm was lost or destroyed, for one reason or the other, there would always be a single survivor that the Abyss would cradle and cultivate. Those same books said that most mages found them terrifying and unknowable, but others—very few—said that the worst thing about them was that they were sad.
+
+Flia fell into the second category. She was the only one here, perhaps. All the others flinched away from the Abyssal, but she stepped forward, her heart seized by that mournful song. She could almost hear the tragedy within it if she focused. The final moments of an entire realm and its desperate attempt to stay together, the lost stories and hopes and dreams of everyone within—
+
+Sabri, the little shadeling she'd adopted and bound as a familiar just before all this, crawled out of her satchel and bit her. Gently.
+
+Flia snapped back. There was no time to be lost in this, however beautiful or tragic it was. But now that she'd seen it for herself, she agreed with Cale on one thing: they needed to send it back to the Abyss. And he'd told them exactly what they needed to do.
+
+"Threek!" she shouted. The kobold gave her a wide-eyed, terrified look. "You need to suppress it!"
+
+She was trying to weave a spell. She didn't need to do much here; her attunement would do most of the work, so a basic, albeit massive [Orb of Water] would be sufficient. The problem was that she couldn't focus enough to do it—the Abyssal, now freed, was lashing out with waves of false domain magic that disrupted her attempts to mold the spell. It wasn't even doing it on purpose.
+
+They'd known this would be difficult. Cale had warned them that if they tried it beforehand, the Abyssal would likely create some rule about spellcasting that would make it immensely more difficult for them to suppress it long enough to send it back. Doing it after was only marginally better, as long as they did it quickly.
+
+"I-I can't!" Threek called out desperately. "You gotta—"
+
+"You're three kobolds in a trenchcoat!" Flia screamed back, feeling a bit ridiculous as she did so.
+
+It worked, though. Threek shuddered briefly as soon as she said it. Their magic was unstable, in large part because they struggled to acknowledge themselves, and the moment anyone else did so it went haywire. They dissolved immediately into a half-dozen, then a dozen, then two-dozen tiny, yipping kobolds.
+
+"Threek! Focus!" Flia yelled.
+
+To their credit, they did. They gathered themselves enough to all focus a glare at the Abyssal, which shuddered in response; the light dimmed briefly, and the domain magic lessened. Flia gathered herself just enough to force most of her mana into [Orb of Water], and a massive jet of not-water blasted out of her hand, filling quickly into an enormous sphere...
+
+...that was just to the left of the Abyssal One, because it darted out of the way. Flia groaned in frustration.
+
+"I've got this," Leo said grimly. Flia's eyes widened when she felt him casting a labyrinth spell. Really? The minotaur had refused to do that for as long as she had known him.
+
+It worked, though. The Abyssal fluttered around in confusion, as if suddenly unsure where to go, and slowly began to edge itself toward the orb of water. It was almost there, but stopped just short, as if confused.
+
+"A little more," Leo said, sweating. "I can't push the spell anymore. Damien—"
+
+"Please," Damien muttered, so quietly Flia almost didn't hear him. And then he did something that astonished her.
+
+He cast a decay spell on the space between the Abyssal and her [Orb of Water].
+
+It pushed the Abyssal that much closer. It was half-submerged in it now, but it was struggling. Flia recognized the emotion radiating from it like it was her own. This was its first grasp of freedom, and it was confused and afraid.
+
+She stepped forward and spoke in low, gentle tones. "It's going to be okay," she said, like it could understand her. "You're just going back to where you belong. You'll be free, and it might be scary at first, but it'll be worth it. Be brave, little one. There's so much more to see."
+
+It didn't understand her, of course. It couldn't. But its struggles slowed, and it stared at her, almost as if it understood something.
+
+Then, just like that, it turned and fluttered the rest of the way into the Abyss.
+
+Just like that, it was gone. A pressure Flia hadn't even realized had been pressing down all around them vanished in the same moment. She let out a small sigh of relief and dismissed her magic, staring at the place where it had disappeared, then sniffed.
+
+"It was beautiful," she said sadly.
+
+Damien, Leo, and all two dozen versions of Threek looked at her as if she'd lost her mind, but she ignored them. It was beautiful, and she was going to do her best to remember it. Absently, she petted Sabri, thankful it had known to bite her when it had. If it hadn't...
+
+Well, it didn't bear thinking about.
+
+"Maybe abyssal mana isn't so bad," Flia said to Sabri. "What do you think?"
+
+The shadeling vibrated slightly in her arms, then bit her again. She ignored it and continued petting its head gently.
+
+Leo, watching this, sighed. "You get used to this," he told Threek conversationally. "Not to Cale, though. Speaking of which..."
+
+Leo frowned, glancing around at first in confusion, and then with a look of dawning concern. "Where exactly did he go?"
+
+Flia glanced up and blinked, then scowled. "I knew I should've stopped casting spells around him," she muttered.
+
+Sabri vibrated in agreement, then bit her for a third time.

@@ -1,0 +1,85 @@
+---
+id: bbcdfffb-cbf8-57ea-87e7-3703b786c5c6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: Shapeshifter"
+slug: 0081-chapter-43-shapeshifter
+partOf: labyrinth-of-the-mad-god
+position: 81
+ownLength: 1708
+unit: words
+publishedAt: 2024-10-25
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1868230/chapter-43-shapeshifter"
+royalRoadId: "1868230"
+---
+
+The Janitor must have decided that it wasn’t going to be able to reach the humans or deal with the gear swarm until the roach horde was out of the picture. It took off in a streaking blur, pulling back to the far corner of the room. Once it was beyond the range of both armies, the mutant stopped to eat a half dozen corpses that it had picked up along the way.
+
+To Nick’s dismay, all the visible damage, mostly burns from the fire and acid, began healing at a far faster rate, disappearing completely within a handful of heartbeats.
+
+“Shit.” Devin switched his weapon into its hand axe and shield configuration. “If that thing keeps turbocharging its regeneration by consuming its enemies, this is going to be even harder than I thought. We need to find some way to shut it down.”
+
+“Worry about it later.” Veronica raised her crossbows. She took aim at the squad of roaches headed their way as the crossbars extended, obeying her mental command. “We need to deal with these beasts first.”
+
+“Hey look.” Shaun pointed to the far corner. “I think something big is happening.”
+
+Nick had thought that the Janitor would come charging in, now that it was back in prime fighting shape. But its next action revealed that although it was starving for essence, it was far from mindless.
+
+It must have concluded that fighting a melee against so many magic-enhanced opponents at once was a bad idea. Instead, the mutant was going to use the walls to protect its flanks and hit the bugs from range, disrupting their formation and forcing the horde to come to it.
+
+The roaches must have realized that something was wrong when their most dangerous opponent drew back instead of pressing the attack. The queen let loose a furious roar, ordering her army to advance. The horde began heading toward the Janitor in a skittering rush, surging across the dirt covered floor.
+
+Well before they could reach the far wall, the mutant changed forms.
+
+The Janitor’s sharklike body began to soften, legs and mouth retracting to form a gelatinous ball. An amorphous mass that faded from frosty white to nearly transparent, making it hard to track from a distance.
+
+Nick’s ability to sense force mana was growing sharper as the battle progressed. He could see thick bands emerging from its core, weaving themselves into dense flows in the air above its position. Then they began to rotate, spinning faster by the heartbeat.
+
+Now that I can see them clearly, they remind me of piercing ray. Nick wanted to take a longer look, perhaps gain some insight into the nature of the ability. But before he could learn anything, the spell reached completion. The moment that the ability was fully formed, the Janitor began firing off a barrage of long-range attacks.
+
+The first shot went screaming across the enclosure, landing in the middle of the closest group of warrior roaches. The beam tore the magic-enhanced bugs to bits, like they had been dropped into an industrial strength blender. Then it kept right on going, erasing a dozen more beasts before angling down into the floor in a spray of shattered rock and dislodged earth.
+
+The churning lances of force kept on firing every few seconds, taking out several squadrons of roaches before they could finish closing the distance. But the bugs merely widened the space between them and kept right on coming. The melee units hit the Janitor in staggered waves while the ranged variants spread out in a half circle around it.
+
+Once they were in position, the specialized roaches let loose their might, acid and flame bathing the translucent creature in an unending stream of elemental wrath. Their aim is perfectly coordinated. Nick noticed. Almost none of their attacks are hitting the melee specialized units. The queen must be controlling them.
+
+The blob lacked the massive jaws of the Janitor’s shark form, but it was still more than capable of defending itself. It formed pseudopods as needed, crushing and stabbing the beasts in a frenzy, taking damage in exchange.
+
+This began an all-out war between the roaches and the Janitor. The immense power of its force lances shook the enclosure. Fortunately, that part of the battle was too far away from his team to have to worry about being caught in the crossfire for now.
+
+Nick didn’t have time to watch what happened next. Because the bugs headed his way were almost upon him. “Try to conserve your abilities and limited use consumables.” He shifted his sword into one hand and reached into his pockets with the other as the beasts came charging for them.
+
+Now that the insects were close, it was easy to make out their individual members. It was a pair of warriors, one flamethrower, two acid-spewers, and six of the regular variants. Ten enemies in total, two with ranged attacks, versus the five members of Team Earth and five of Sophia’s summons.
+
+Veronica and Shaun opened fire the moment the bugs came into range. His arrows went wide, but a pair of her bolts landed on target, taking one of the regular roaches out of the fight before it could close the distance.
+
+To Nick’s surprise, Sophia contributed to the barrage. She began throwing a set of knives that were sheathed at her belt, which returned to her outstretched hands after they landed. That’s new. Seems useful.
+
+He still had a few seconds before the battle would be joined and was conserving his mana for now. Instead of slinging spells, Nick began throwing rocks, trying to distract the acid-spewers so that they would have a hard time aiming at the party. Thanks to his training and the skill offering corrective feedback, several of his stones connected. They smacked the bugs’ heads with a series of thunks, causing them to advance with caution but not dealing any real damage.
+
+For their part, the roaches seemed to be adopting a similar strategy to the one they were using against the Janitor. The warrior variants came rushing straight in to engage the party’s frontline, while the ranged insects spread out to fire over their heads. Meanwhile, the group of regular roaches split into two packs of three, circling around to opposite sides to hit the party’s lightly armored members.
+
+“I’ll deal with one of the warriors and try to keep the flamethrower on me,” Devin said, then gestured to Shaun, Sophia, and V. “If the three of you could keep the acid-roaches from firing, I would really appreciate it. I don’t have any resistance against that element.”
+
+“I’ll take out the other warrior and as many of the little ones as I can,” Nick added. “Sophia, if you could keep an eye on the battle as a whole and lend your assistance as needed, that would be amazing. Veronica, well, you know what you’re doing. And Shaun… just try not to die. I’ll let you know when to use your abilities.”
+
+That was all the time for discussion they had. A bare heartbeat later, the bugs finished closing the last few feet and fell upon them in a tide of bladed mandibles. I need to keep the little ones from swarming us while we thin out their numbers.
+
+By now, a warrior roach was right in front of him, coming in hot. It was twice the size of the smaller models, its glossy brown body covered in dense sheets of chitin armor. Its mandibles were longer and thicker too. They looked even sharper, the ends tapering down to form wicked points.
+
+We’re lucky that none of the spell-boosted ones are part of this attack. The queen must not think that we are worth wasting mana on with the Janitor still on the field.
+
+While those thoughts passed through Nick’s head, the warrior roach came charging straight for him, intending to knock him over and then finish him off while he was helpless. It was a strategy that he had encountered several times before, and he had a counter ready to go.
+
+At the last possible second, he leapt out of the way, bringing his sword down in a sweeping slash when his feet hit the ground. The tip of his weapon connected with one of the warrior’s leading legs. The blade bit into its chitin but didn’t cut too deep. I can get through their armor, but it’s going to take a direct hit. These things are tough.
+
+The roach turned and tried to bite his foot. But Nick darted to one side and brought his sword back around, launching a thrust at its face that it parried with a mandible. The attack didn’t do any damage, but it forced the beast back.
+
+By this time, the regular roaches were rushing past the frontline, trying to get at the ranged fighters behind. Sophia’s wasps were keeping the acid-spewers busy for now, too worried about getting stung to line up a shot. Which left the women, Shaun, and one spear-tongue frog to deal with the little roaches headed their way. They will be a lot better off if they don’t have to fight all six at once.
+
+Nick executed another sweeping strike when the warrior came back, forcing it to pull away again. Then he hopped back to open some distance. It only bought him a couple of seconds, but that was all the time he needed for what he was planning to do.
+
+He shifted his sword into one hand and then reached for his belt with the other, sliding his wand free from its loop. A motion that had become as natural as breathing by this point. When Nick took aim at three of the regular roaches who had entered his range, he noticed something strange.
+
+The force-flinging device was quivering, vibrating in his hand like a living thing. He had the sense the wand was filled to bursting with power, aching to be released. It must be reacting to all that force essence the Janitor is putting off. I wonder if its essence is compatible with my abilities too. No time to worry about it now.
+
+Nick raised the wand level with his opponents and pressed the trigger.

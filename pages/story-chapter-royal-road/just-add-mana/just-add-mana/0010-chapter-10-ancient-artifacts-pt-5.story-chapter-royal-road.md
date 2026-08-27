@@ -1,0 +1,263 @@
+---
+id: 8f6c6d16-ea4f-55b7-a007-e2a1e971a9e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10 — Ancient Artifacts, Pt 5"
+slug: 0010-chapter-10-ancient-artifacts-pt-5
+partOf: just-add-mana
+position: 10
+ownLength: 3515
+unit: words
+ownProgress: 3515
+publishedAt: 2025-07-24
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2462423/chapter-10-ancient-artifacts-pt-5"
+royalRoadId: "2462423"
+markedReadAt: "2026-06-29T18:47:51.464Z"
+---
+
+Just outside the exit to the chamber was a marble pedestal, with what looked like some sort of bronze grail sitting on top of it. Cale gave it a cursory inspection. Just because dungeons typically rewarded artifacts after challenge rooms didn't mean those rewards were never trapped.
+
+This one, as far as he could tell, was only minimally magical and unlikely to be cursed. It probably had some sort of minor water-purifying effect or the like—artifacts with base utility like that weren't uncommon. He grabbed it, made sure it didn't set him on fire, then handed it to Flia.
+
+"Hold on to that," he said absently. Cale extended his senses further down the corridor just in case any more shadelings were present, wishing he'd been able to bring any of his usual kit with him when he was summoned. It would be nice to have a satchel of his own. Who knew when he'd be able to buy one with a holding effect like Flia's?
+
+Then again, it was probably for the best that Flia hold on to it. Cale really wanted to test [Identify Artifact], and after what had just happened, he was a little worried he'd make his classmates pass out if the spell evolved into something overly dramatic again. They were still staring and whispering behind him.
+
+There was also the fact that Imrys might actually try to kill him if he cast it without her watching. He hadn't known her for long enough to say for sure, but considering that look she'd given him...
+
+He shuddered.
+
+Imrys was almost certainly watching everything they were doing. Hopefully, what he'd displayed so far was enough to pass her "test."
+
+Only one way to find out, though. They still needed to get out of this thing.
+
+"Uh, sir?"
+
+Cale glanced back at the others. They'd stopped whispering, but Damien was raising a hand again and waiting for permission to speak, as if he was a professor. Cale wrinkled his nose. This always happened.
+
+"Seriously, you don't need to raise your hand to talk to me," he said. "And definitely don't call me sir. What is it?"
+
+Damien seemed distracted. "Wait, why are you wearing that... thing?" he asked, pointing at his face.
+
+Cale blinked, genuinely surprised. He'd been expecting a question about his mana, or about the spell he'd cast. "Which thing?" he asked. "You mean my sunglasses? I don't know, it felt appropriate."
+
+"Sunglasses?" Flia asked in disbelief. "Those are barriers."
+
+Cale nodded. "Tinted barriers in the shape of sunglasses," he said patiently. "To help me see. It was kind of bright back there. They aren't polarized, though; you can't polarize a barrier."
+
+Probably? Cale frowned. He'd never tried, now that he thought about it. His last attempt to experiment with his barriers had ended in dismal failure, and he'd been disheartened ever since. (Barriers, it turned out, couldn't be used to telekinetically fly—they were anchored to their casters, so while they could be used to make other objects or people float, he couldn't do the same for himself.)
+
+"Polarized?" Flia frowned at him, then sighed and shook her head. "You know what? Nevermind. We just wanted to say thanks. For getting us through that."
+
+"One of us might have died otherwise," Leo muttered. Damien nodded rapidly beside him.
+
+"Oh," Cale said, entirely unsure what to do with this. "I'm sure Imrys would have pulled you out if that was going to happen.
+
+"She absolutely wouldn't," Flia deadpanned. Damien nodded even more furiously, and Leo just gestured pointedly at the labyrinth that surrounded them.
+
+"Huh. In that case, you're welcome," Cale said. He did a quick check for time. "Let's have a quick break before we move on, shall we? I'm thirsty."
+
+The next set of corridors was marked by frequent water breaks, enough that the others were starting to give him strange looks. Cale ignored them, keeping a careful eye on the few mana signatures he could track through the labyrinth instead—the next two were coming up soon, as far as he could tell. One more challenge room, and then they'd be at the Labyrinth Seed.
+
+Sure enough, another door showed up in their path. Cale examined it briefly. It seemed like it was made of... maple? Which was notable, though it didn't signify anything that he knew of. It came with another set of symbols, too. Thankfully, these ones were in Karmian, and he could interpret the warning just fine.
+
+He turned to Flia. "You don't happen to have some yarn in that bag, do you?"
+
+Flia stared at him for a moment, then sighed and began rummaging around in her satchel. "Like this?" she asked uncertainly, producing a non-magical ball of yarn that looked like it had seen some use.
+
+Cale beamed and took it. "Perfect," he said, pushing open the door. "This should only take a second."
+
+Flia watched Cale as he began to walk ahead, then turned to the other two students. "I'm not getting that back, am I?" she asked, resigned.
+
+"Nope," Leo said.
+
+"I don't... think so," Damien said more hesitantly.
+
+Flia sighed. "I figured."
+
+Cale grinned to himself. They were learning!
+
+Excellent.
+
+Leo found himself frozen in place a few twisting corridors later, staring at a monster that stood on the opposite end of the next chamber.
+
+"That's... that's a sphinx," Leo said nervously. It was sitting right in front of the exit, and it radiated with sheer, awe-inspiring magical power—greater than even the [Starlight Font] Cale had summoned some ten or so minutes ago. Leo was convinced the sheer pressure it exerted was greater than even Akkau's strength. What was something like that doing here, of all places?
+
+A sphinx was a living mythology. They belonged to the same category of being as Asterion, the mythology that was the source of the very same curse that plagued his people. He'd done more research on mythologies than most for that reason, hoping against hope that there was some way to destroy or unmake them, but everything he'd found told him it was impossible.
+
+Mythologies were beings that traded away part of their free will in exchange for enormous, unspeakable power. How they came about was hotly debated among scholars, but how they worked was simple: a mythology had to obey a set of strict rules. They had free will otherwise, but the entirety of their existences were bound by those rules. A djinn had to fulfil wishes, a sphinx had to ask riddles, and so on.
+
+If nothing else, this sphinx wasn't a named mythology the way Asterion was... but that was a small comfort.
+
+No defensive magic would work against them. No offensive magic could penetrate their shells, either. Not even Cale's ridiculous powers would work against it—it didn't matter if the human could summon a star into being, not against a living mythology.
+
+There was a part of Leo's that was bucking wildly inside him, and for the first time, he was thankful for his attunement. If not for the defense it provided, he was certain the Impetus would have taken him over entirely then. It did not like the presence of an opposing mythology.
+
+"We need a plan," Leo said, his voice hoarser than he expected. "I think—I think I read a few books on common sphinx riddles. She probably won't repeat any riddles we already know, but if we can figure out how she thinks—"
+
+"Um," Damien said, interrupting him. "Cale already left."
+
+"He what—Cale!" Leo hissed, alarmed. The human was walking into the chamber like there wasn't a giant death-cat waiting on the other end. He didn't even look concerned! Instead, he was holding out that ball of yarn like it would protect him...
+
+As Leo watched, Cale waved the ball of yarn, then threw it off to the side. Leo gaped. What was that going to—
+
+The sphinx pounced, causing the entirety of the labyrinth to shake, and Leo stared in complete disbelief as—against all odds—the sphinx began to purr and play with that ball of yarn.
+
+Flia sighed. She didn't even sound surprised anymore. "I knew I wasn't getting the yarn back," she muttered.
+
+"What... but..." Leo sputtered.
+
+Cale glanced back and raised an eyebrow. "What?" he said, taking in Leo's befuddled expression. "They're still cats."
+
+"But how could you possibly know that would work?" Leo begged.
+
+"Oh, I had a sphinx as a roommate, once," Cale said. "Wouldn't recommend it, but I learned a lot about the rules they operate under. They're allowed to take breaks for playtime, for example."
+
+He paused. "Don't try to pet her, though," he said. "It's disrespectful. And you might have to deal with unreadable riddles scribbled on sticky notes for weeks after."
+
+"Speaking from experience?" Flia asked dryly.
+
+Cale sniffed. "Not saying. Now let's go before she gets bored."
+
+Leo wondered if he should make a note of this in his notebook.
+
+He wanted to, but he was pretty sure no one would ever believe him.
+
+Cale hummed to himself as they stepped through the exit and found yet another pedestal. This one held what looked like a strange clay sculpture molded into the shape of a wing. He eyed it for a moment, shuddered, then promptly wrapped it in a tight, spherical barrier. "I'll hold on to this one," he said, guiding it to float above a shoulder.
+
+"Is it dangerous?" Damien asked curiously. Cale shrugged.
+
+"I've got a bad feeling about it," he answered, starting to walk down the corridor again. The signature he felt ahead of them had a rather telltale twist in its mana, which meant they were finally coming up on the Labyrinth Seed. "We'll know more once Imrys has had a chance to examine it, but for now, we shouldn't touch it."
+
+"That's not worrying at all," Flia remarked. After a moment of walking in silence, she spoke again, her tone contemplative. "This is why you weren't worried about the labyrinth, isn't it?"
+
+"What do you mean?"
+
+"You're basically untouchable," she said. "Either you know how to get around something or you can blast through it. You knew you'd be able to get us through the labyrinth unscathed."
+
+Cale snorted and turned back to look at her. "Is that what you think?"
+
+"What else am I supposed to think?" Flia asked, exasperated.
+
+"That I'm dangerous, probably," Cale answered, his voice a little sharper than he intended. "The universe is a big place, Flia, and the multiverse is even bigger. No one person could possibly know every danger it contains. If you think you can rely on me to keep you alive..."
+
+He stopped in his tracks, looking each and every one of the other students in the eye. "I'll tell you this right now," he said. "Not every monster can be beaten back with magic. Not every danger is something you can see coming. If you live long enough, losing is only a matter of time. And if you think I'm always going to be able to step in and save you, you're going to die even sooner than the rest.
+
+"I'm not saying I won't try. I'm not even saying you shouldn't listen to or hang around me. But do not expect me to hold all the answers. Sometimes, those answers don't exist. Sometimes, your knowledge will betray you. And sometimes, when you name a monster, you give it power.
+
+"There is only one rule you need to follow if you want to live long enough to become an archmage. One rule you need to carve into your heart. Nothing else—not knowledge, not perfect barriers, not even unbeatable magic—is enough."
+
+"And what rule is that?" Flia asked, her words uncharacteristically nervous. Cale became vaguely aware that the others had all taken a step away from him during his speech, and that he'd taken a step toward them. He did a quick calculation in his head, measured it against his mana sense and their distance from the Seed.
+
+"Simple," Cale said. He grinned and winked, relaxing just enough to dispel the tension. "Above all else? You need to know when to run."
+
+Then he turned and broke into a sprint. There was a series of startled yelps as the other students followed after him, nearly tripping over themselves in the process. Cale beamed. They were quick learners.
+
+"Damien!" Cale called. "Prepare a decay spell!"
+
+"W-what?" The poor guy didn't sound like he was used to running. "But—"
+
+"Unless you want me to try out [Decay Bite]," Cale called again cheerfully. Damien stared at him, processed the statement, and remembered what happened with [Bestow Light] only eighteen minutes ago.
+
+Decay mana began to gather in his fist. Cale smirked. "Thought so!"
+
+"Just don't try to eat the Seed," Damien pleaded.
+
+"No promises!"
+
+Two minutes before the Seed germinated, by his calculations.
+
+Cale figured they would probably make it.
+
+They did make it, though only barely. The Seed was beginning to sprout by the time Damien flooded it with his decay magic, but thankfully, that was one of the strengths of the decay aspect—just like the Labyrinth Plague, it had the propensity to spread. The few tendrils of corrupt magic that had managed to emerge fell apart easily, and the labyrinth dissolved around them a moment later.
+
+Professor Imrys beamed at them as if the rest of the classroom wasn't in complete disarray. "Wonderful!" she said. "What a beautiful display of the essence of magehood! You've made me proud today, dearies. Here you go."
+
+The little mouse tottered up to them, holding four gleaming purple gems. Flia, Leo, and Damien all looked stunned, picking one each and holding on to them as if they were priceless artifacts.
+
+Cale squinted at his and wondered if he should try eating it. "I have no idea what this is," he said. There was a dim magical signature from it, but it wasn't anything powerful; it just felt like some sort of anti-counterfeit measure, if anything.
+
+"They're Astral credits," Damien explained quietly. "They're recognized by the kingdom of Orstrahl. They want powerful mages, so if you collect enough credits, you can ask for a sort of... political favor? Like asking to use one of the royal artifacts, or, um... There's a list somewhere. I can find it for you later."
+
+"Wow," Cale said, impressed. Mostly by how bad that system seemed at first glance. Students winning political favors felt like a recipe for disaster. Maybe they had mitigations in place?
+
+Then again, magic academies having outsized levels of political influence was surprisingly common.
+
+"What happened to the labyrinth?" Leo asked, his voice guarded. Professor Imrys chuckled.
+
+"Well, since you all did so well, I decided to reward you," she said happily. "But I think I'll keep that as a surprise, dearie. You are going to report me to the Headmaster, after all. Unless you wish to reconsider?"
+
+"I will not," Leo said steadily.
+
+"Well, not to worry, dears. It isn't a bad surprise," Imrys said, entirely unphased by Leo. "Cale, you pass. You showed exactly the type of adaptive thinking we want from our artifact delvers, and that [Starlight Font] was quite impressive. That was a unique spell, wasn't it?"
+
+"Thank you. And yes," Cale said politely. He didn't miss the fact that Imrys was looking at him like he was one of her artifacts.
+
+"I'm ever so glad all of you are safe, dearies," Imrys said, smiling at each of them. "These classes can be very dangerous, you know."
+
+"Because you make them dangerous!" Flia pointed out, scowling. Imrys slapped another silencing barrier over her.
+
+"Now, now," she said. "You musn't speak out. It's quite rude, really. As for you, Cale, I believe we agreed we would speak after cla—"
+
+A tiny screaming noise began to emerge from Cale's pocket. Cale kept his expression as impassive as possible. "Sorry, ma'am," he said politely. "I think I need to go find my next class."
+
+Imrys stared at him, her eyes narrowing slightly, and Cale responded by floating the artifact he was carrying with him over to her and dispelling the barrier. Imrys's expression lit up immediately as the clay sculpture clattered onto her desk.
+
+"Bribing a professor may be considered bad form, you know," Imrys said, already stroking the artifact like it was some sort of cat. Cale very quickly made sure her apron was keeping her safe from it—it was—then decided to ignore it. "But I suppose I can make an exception. Shall I keep this safe for you to test your new spell on, dearie?"
+
+Now that he thought about it, he had mentioned getting a new spell right after they'd been tossed into the labyrinth. "Yes, please," he said. "I got [Identify Artifact], and I get the impression you'd try to kill me if I tried to cast it without you being there to see the result."
+
+"Goodness, dearie," Imrys said. "You musn't listen to all this slander, you know. I am a very upstanding professor."
+
+"I know exactly zero upstanding individuals who describe themselves that way," Cale said.
+
+Imrys chuckled, but said nothing further on the subject. "Very well, dearie. I will call for you after your classes are over. Run along now! I must find a safe place to store this..."
+
+With that, she began to totter off, the clay sculpture carefully balanced in her arms. It looked ridiculous. Mostly because it was almost as large as she was. Flia, Leo, and Damien all seemed incredulous at the sight; Cale was the only one trying to hold back his snickering.
+
+Once she was gone, Leo turned to him. "You timed this on purpose, didn't you?"
+
+"I was very thirsty," Cale said cheerfully. "Don't worry, I'll let you question me on the Age of Distortion whenever you want. You have question privileges."
+
+"Thank you... I think." Leo seemed unsure of how to take that.
+
+Cale was busy pulling out his schedule scroll for his next class. "Oh, hey," he said. "Introduction to the Standard Array. I'm guessing none of you have that one?"
+
+Flia grimaced. "We all failed out of it," she said. "The professor for Intro to Standard sucks. Imrys is insane, but that guy's an ass. I have a feeling he has it out for us Astrals."
+
+"I guess I'll have to win him over with my charms," Cale said, sighing dramatically.
+
+Flia stared at him. "I have no idea what to make of you, you know that?"
+
+"Thank you."
+
+"That wasn't a compliment." Flia rubbed a hand over her face. "Look, do you need help getting to class? Otherwise I'm going to look for an animal mage to get this shadeling bonded to me."
+
+"Nah, I'll be fine," Cale said, lifting a hand in a half-wave and turning to leave. "I'll catch you guys later."
+
+Awkwardly enough, since they all had to walk in the same direction anyway, he didn't actually leave until a minute or so later. And despite his claims, Leo had to catch him to stop him from tripping and falling off the bridge that led back out of their Artifacts class.
+
+Twice.
+
+Damien watched Cale leave, his mind still half-lingering on the speech the human had given to them back in the labyrinth. What was that? The way he'd sounded, the look in his eyes... For a moment, he looked like he carried with him the weight of worlds.
+
+But the moment vanished as quickly as it arrived.
+
+For most of his life, Damien was scared of only one thing: himself. That moment back there?
+
+It was the first time in a long time he'd ever been scared of someone else.
+
+Then a thought struck him, and he turned to the others. "Um," he said. Flia and Leo looked at him, and he tried to gather his thoughts. "Doesn't Professor Graystalk force his students to cast the Standard Array spells, even when it's supposed to be dangerous? Like with us Astrals?"
+
+Flia blinked, then snorted. "Now I really wish I could be a fly on the wall," she said. "Wasn't there something about tests? What kind of test is Graystalk going to come up with for Cale?"
+
+"I think we should make sure to be very far away from Intro to Standard." Leo glanced in the direction Cale had gone in. "Very, very far. Very far, if I wasn't being clear."
+
+"Want to come to my room?" Damien suggested, then almost immediately kicked himself. It was the farthest possible place from the Forest Wing, where Intro to Standard was usually held, but he wasn't used to visitors. He hadn't even cleaned! Maybe he could take it back? Or maybe they had classes!
+
+"Are you actually inviting us to your room?" Flia raised an eyebrow at him. "You're opening up. That means I can't say no."
+
+"I won't have class for another two hours," Leo said.
+
+Damien deflated. "Um," he said. "Alright. Let's... let's at least get lunch first, though."
+
+"Fine," Flia said, grinning at him. "We'll get a big lunch to celebrate you opening up. I'll even pay for it."

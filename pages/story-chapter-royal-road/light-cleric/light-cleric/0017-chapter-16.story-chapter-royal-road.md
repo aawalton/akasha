@@ -1,0 +1,197 @@
+---
+id: 08dc459c-39c1-58e5-98cb-28a3d09570cc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16"
+slug: 0017-chapter-16
+partOf: light-cleric
+position: 17
+ownLength: 3717
+unit: words
+publishedAt: 2021-06-26
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/705924/chapter-16"
+royalRoadId: "705924"
+---
+
+Summer was finally getting hot. Piety understood going further south could make the seasons colder, but she’d never been three weeks into summer without experiencing a hot day. This far into summer at Sacred Heart would have made working in the laundry yard unbearably miserable, and only today was it getting hot at Pinefort.
+
+Piety fiddled with her starburst medallion, running her fingers along the disc, touching each rounded point in turn, nine in all. Next to her, Temperance sketched on a bit of parchment with small length of charcoal. They sat in the war room, at the table, while Commander Byron and Mother Talitha spoke in quiet voices on the other side of the table. Purple-clad soldiers of the Khulanty army and scarlet clad soldiers of the Church, lined the walls of the war room, alternating.
+
+There were others at the table, officials and dignitaries and army officers. Piety couldn’t remember all their names, but she recognized Quartermaster Yarwood and Father Christoph.
+
+Father Vytal was last to enter. He took the final seat at the table and all fell quiet, only a few murmured conversations finishing up. He took in the gathering with a nod, and spoke.
+
+“I have been commanded by the council to make you all aware of recent events. About a year ago, High Cleric Radden asked me to go north, to Ceres Province, and investigate rumors of invasion from the Taranaki Empire. I found that Governor Kempenny has, indeed, made overtures to the princesses of the Empire, but I was able to forestall the negotiations and negotiate an agreement with Taranaki.”
+
+“That’s good news,” said Commander Byron.
+
+Father Vytal made a noncommittal sound. “The princesses are notoriously fickle.”
+
+Mother Talitha snorted deridingly.
+
+“We already know about the Governor’s alliance with the Mountain King and, for the moment, the Governor seems content with just the one alliance. However, there are two wrinkles in all of this that makes things more… complicated.”
+
+Father Vytal put the tips of his fingers together and pushed so that the fingers stretched and the knuckles popped quietly.
+
+“Erin Kempenny is no longer in charge of her army. Instead a young woman named Devorah Kempenny is. I met Devorah last spring in Sunslance and again in Taranaki Empire. Devorah claims to be the niece of Erin Kempenny.”
+
+There were exclamations of surprise around the table. Father Vytal raised his hands for silence and was granted it.
+
+“I cannot confirm the veracity of her claim, but she looks a great deal like Heir Isabel did a few years ago, but for black hair rather than silver.”
+
+There was more agitated murmuring.
+
+“The other complication to our situation is a man by the name of Frederick Vahramp.”
+
+“I remember him,” said Father Christoph. He shared a knowing look with Father Vytal. “I was his mentor at the High Temple for a few months. He had a great interest in surgery and anatomy. When he was excommunicated, I found out that he’d used my teachings to… experiment on people.”
+
+“One of his many transgressions,” Father Vytal said. “General Vahramp was put in charge of Devorah Kempenny’s weapons practice and the young woman eventually killed him. But Devorah is gifted with necromancy, and she changed him into a ravenous and powerful undead capable of creating slaves that share his hunger. Cleric Radden sent Father Jonathan Parsons to hunt General Vahramp. Jon hasn’t been heard from for months, but his last communication came from a village not far from here.”
+
+There were several moments of silence before Commander Byron said, “So, if I understand correctly. The Taranaki Empire in the north is our ally while Kempenny Province and the Mountain Kingdom in the south is our enemy. But Taranaki might become our enemy without warning. Erin Kempenny is no longer in charge of the Kempenny forces, a girl named Devorah is. Devorah may or may not be Erin’s niece. And a psychotic former Sword of the Church, who could be lurking in the area, has been transformed into a powerful undead who can create powerful undead slaves.”
+
+Father Vytal nodded. “That covers it.”
+
+“And what are we to do about it?” asked Mother Talitha. She looked at Father Vytal but Father Vytal looked at Commander Byron. Everyone followed his lead.
+
+Commander Byron sat up straight. “We cannot abandon this position. If we do, all other problems are moot as Kempenny’s army, whichever Kempenny is in charge, will march on Kinswell. Our concern is here. We will continue to focus on winning this war and arresting Kempenny. We need to make sure the Taranaki Empire remains non-hostile. Are there diplomats in the Hall of the Princesses?”
+
+“I talked with the councils on my way here,” Father Vytal said. “There are diplomats on their way to Taranaki.”
+
+Commander Byron nodded. “If there really is a new person in charge of the Kempenny forces, we should pursue diplomatic channels, in case her goals are different than her aunt’s.” He looked at Mother Talitha. “Who do we have who we could send to make overtures to Kempenny?”
+
+“I’ll get some clerics together and get back to you with some names.”
+
+“So that leaves the problem of General Vahramp.” He looked at Father Vytal.
+
+Father Vytal shook his head in a defeated sort of way. “I have no idea where Vahramp is. There are a variety of ways I could go about finding him, but no guarantees.”
+
+“We need you here anyway,” said Mother Talitha. “You’re powerful and we could use your talents. I know you object to war, but with your help, we could end this sooner.”
+
+Piety looked at Father Vytal. She wanted him to stay, but knew he would rather roam the countryside, helping folks. No local healer could heal wounds and illness with thought and will the way he could. No local leader was as experienced at mediating disputes as he was.
+
+Father Vytal shrugged. “Now you know as much as I know, and I see no easy answer. Cleric Radden has asked that I remain here as an advisor.” He glanced at Piety and Temperance. “With your permission, Commander.” He looked at Commander Byron.
+
+Commander Byron nodded. “Of course.” Though he didn’t look particularly pleased.
+
+• • •
+
+Night fell and the hot of summer mellowed to a pleasing warmth. A wagon train had returned early in the afternoon bearing its tired, hungry, and wounded soldiers. The headquarters had been a rash of energy as new reports were taken and difficult decisions were made. Piety had been needed in the healing ward, using her powers judiciously. The images of ragged wounds and blood encrusted clothes and crushed bones all ran together in her mind.
+
+Piety took a breath and sipped at a glass of wine to banish the images. The delicate glass was from the former mayor’s private cabinet, as was the wine. Quartermaster Yarwood was generous in his rationing when new wounded arrived from the front lines.
+
+She walked out into the keep courtyard, lit with oil lamps. Several people, by themselves and in small groups, had gathered in the courtyard. By unspoken agreement, the courtyard had become a place of quiet reflection. Temperance sat on a bench near a small table on which rested an oil lamp and a small brazier.
+
+“What are you working on?” Piety looked over Temperance’s shoulder.
+
+Sitting near one of the lamps for light, Temperance was bent over a scrap of parchment, the same scrap she’d been working on before the meeting that morning. She was sketching a cylinder with a handle and some moving parts notated in a shorthand Piety didn’t know. Temperance looked around at Piety, blinking in the dim light. She smiled.
+
+“It’s a… well, I’m not sure what it is. Not yet.”
+
+She reached into the small, leather bag that sat on the bench beside her and withdrew a small packet of paper.
+
+“Do you remember the fire blossoms on your birthday?”
+
+Piety laughed. “How could I forget?”
+
+Temperance blushed. “Right. Well, I was thinking, what if… well, what if we could use that.” She tossed the packet of paper on the brazier and there was a loud bang and a puff of black smoke. The others in the courtyard gasped and looked their direction, but Temperance didn’t seem to notice. Next she pulled out a small earthenware sphere. She looked up at Piety.
+
+“So, if I toss this in the fire, when it gets hot enough, it will explode, like the bit of paper did, but instead of just a loud noise and a puff of smoke, it’ll be bits of clay flying about. It can stun the enemy before a charge or something.”
+
+Piety was surprised. “A weapon.”
+
+“Oh. Well, yeah, I suppose. Mother Simmons has encouraged me to find ways to help the war effort.”
+
+“She asked you to make weapons?”
+
+Temperance’s expression slowly shifted to concern. “Not really. Just…”
+
+But their conversation was interrupted when someone screamed, high long, and gurgling, shattering the quiet of the night. For several tense moments of ear-pounding silence, the occupants of the courtyard looked around at each other, all wondering what had happened, but none willing to investigate what new horror the war had brought them.
+
+Screams, shouts, and the sounds of combat erupted from within the keep on all sides of the courtyard.
+
+“We’re under attack!” someone shouted.
+
+The people in the courtyard were mostly soldiers and many of them reached for weapons that they’d left inside. The most paranoid of them, or those most comfortable with their weapons, were soon armed just as the slavering, emaciated figures came into the courtyard.
+
+Piety felt a shiver of recognition.
+
+Those few who were armed engaged the undead minions of General Frederick Vahramp. Those who were unarmed, looked around for objects that might serve as weapons. But Piety recognized the creatures on sight, and their ravenous mental state confirmed their nature. She knew mundane weapons would do little more than delay the undead horrors, assuming any of the humans was fast enough to connect with a blade.
+
+Piety blinked and allowed herself to slip into her mindspace. She forced herself to ignore the chessboard and bookshelf, instead reaching for her power, her telepathy, and called out, flinging her mind voice as far and wide as she could.
+
+“Use fire,” she shouted, “they burn like an oil-soaked rag. Use fire.”
+
+Piety and Temperance weren’t close to any of the courtyard entrances, so Piety was able to survey the battle for a few moments.
+
+A Sword of the Church, still clad in his scarlet armor, waved his sword point first at a growing group of undead. The creatures seemed, for the moment, reluctant to press the holy warrior despite their advantage in speed and strength and numbers. The warrior seemed confident, perhaps unaware of the undead creatures’ physical advantage.
+
+A young couple, perhaps having heard Piety’s mind voice, had fashioned a torch from the handle of a rake and the young man’s shirt. The man waved the improvised torch at any creature that came near, while the woman tore at her dress and applied the scraps to another wooden handle.
+
+A boy, younger than Piety, stood in the center of the courtyard, staring about in awful wonder at the scene of violence about to unfold. The boy was the son of a merchant who had come to Pinefort from the north, hoping to cater to soldiers and support staff. Quartermaster Yarwood had gone so far as to allow the merchant to take quarter in the keep itself, he’d said there were so few merchants that it would help with troop morale. Three of the undead creatures focused on the boy, seeing him as easy prey.
+
+Everyone in the courtyard was in danger, but the boy’s plight was most dire. Piety sent her telepathic power at one of the creatures, striking like a lash, and watched it collapse, heard it scream in her mind, as it was destroyed.
+
+The fall of the creature spurred the courtyard into sudden, bloody violence. Piety acted without hesitation, invoking her powers on instinct. Utilizing telepathy and telekinesis at once, she reached out with one hand and closed her fist, as though grabbing the boy at the shoulder and flung her other as though casting a weapon. The creature on the left crumpled like a mud castle in the rain while the boy was jerked into the air, flying toward Piety and Temperance.
+
+All around her were screams and howls, the sound of flesh ripping and blood splattering. Temperance grabbed the boy, hauling him to his feet and pulling him to the wall of the courtyard behind Piety. For her part, Piety lashed out with her mind, destroying the minds of the undead, and threw the force of her mind, slamming the creatures into the stone floor of the courtyard.
+
+The Sword of the Church who had, only moments earlier, held his sword so confidently, lay in a small pool of blood, several of the creatures prone about him, their long tongues licking the crimson liquid from the stones. The young couple ran toward Piety, pursued by a pair of the creatures. Others in the courtyard had disappeared inside the keep or lay, dead, on the stones.
+
+Piety, with a flick of her mind, dispatched the undead pursuing the couple, who reached Piety’s position moments later. They offered their profuse and panicked thanks, but Piety was only barely paying attention; instead she refocused her power before aiming it at the creatures licking the blood of the Sword of the Church, destroying them in quick succession.
+
+Piety felt like she stood just out of her body. She knew the limits of her power, she knew she could only use so much before her mind and body shut down to protect itself. It had been a long day of healing, and though she’d used her power judiciously, she knew she would reach her limit soon. But her skin tingled and her muscles slid and her mind worked effortlessly.
+
+She blinked and entered her mindspace with all the familiar trappings, but where the wall opposite the desk should have been, there was instead a purple-tinged, star-spangled cosmos.
+
+Curious, Piety cocked her head. It was like lying on her back and staring at the stars, except there as a thick, quiet, peaceful power there. Enough power to fend off the undead creatures.
+
+Piety went to the edge of the room, letting the toes of her slippers hang over the edge of the stone floor, and she stared into the infinite abyss. The power was there, all she had to do was reach for it and she could protect everyone at Pinefort.
+
+For a moment, she was afraid.
+
+The cosmic void threatened to swallow her whole, take her from herself, but then she remembered what it was like to pray, to give oneself over, and she relaxed. She closed her eyes, tipped forward, and fell. No wind rushed past her face, or tugged at her hair; all was still and quiet.
+
+“Piety, Piety wake up. He’s here, it’s Vahramp.”
+
+Someone shook her shoulder urgently, but here, in the cosmos, where she was everything and nothing, the concerns of the outside seemed trivial. She could remain here forever, and no matter what happened to her physical body, her mind, would endure. Here, there were no limits to her mental and magical capabilities. Here her body would not tire because the physical meant nothing.
+
+“Piety, he’s coming for us, please wake up.”
+
+Her serenity was disrupted by a niggling of concern. She knew this voice, she recognized it as someone she cared about, and it was pulling her back, out of the cosmos, into her body. Piety was torn. Here, in this place, she felt a serenity she’d never felt before and she didn’t want to let it go, but back where she had come from, there were people, and she didn’t want to let them go either.
+
+“Piety!”
+
+She opened her eyes but she didn’t feel quite herself, she felt as though she’d left a bit of herself back in the cosmos, or perhaps that she’d brought a bit of the cosmos back with her.
+
+General Vahramp, his perfect torso bare, his dark hair pulled away from his face, his eyes glowing crimson, stalked toward Piety and the small group huddled behind her. His grin was smug, his swagger confident, and he had at his back a pack of his minions. Piety could feel the hunger of the minions, emaciated and starving, it was all they thought about. She also knew the thoughts of Frederick Vahramp, she knew he kept his minions under tight mental control, purposely starved them for fear that if they drank enough blood they might become aware of themselves, they might disobey him, they might become as powerful as he was. And she knew he had come to Pinefort tonight specifically to find her. He had recognized her power a year ago and thought if he were to have her under his thrall, he might be able to control her power as well.
+
+Behind her, the merchant’s son, Samuel, was consumed by his fear and curled on the ground, blocking out the world, trying to escape into his mind. The young couple, a man named Kenneth who was a part of Quartermaster Yarwood’s staff, and a woman named Wanda who worked in the healing ward, clung to each other. She knew they had met only yesterday evening and each thought they might be interested in the other, but neither was bold enough to say so just yet. Their thoughts were only for each other, each praying the other would survive. Temperance, too, was frightened, but Piety sensed in her a confidence; a confidence in Piety and her abilities. More than that, Piety felt Temperance’s love for her.
+
+All of that, Piety knew in an instant.
+
+She was one with all, the paving stones beneath her feet, the well-nurtured trees in the courtyard, the oil lamps placed throughout. She felt the stones and mortar of the keep and all the people within it, each fighting for their lives against the undead minions of General Vahramp.
+
+But she focused on the man who had come for her.
+
+Piety flexed her power and brought her hands together. From the bench where Temperance had worked, sat three clay spheres filled with exploding powder. At Piety’s thought, they streaked toward the undead. From a hook in the wall behind and to the left of the creatures, an oil lamp streaked to meet them. The resulting explosion was bigger and brighter and louder than Piety had expected.
+
+She felt the death of four of Vahramp’s minions, felt their screams battering at her mental shield. Several were doused in the suddenly flaming liquid and burned to death in a flash. General Vahramp escaped much of the fiery explosion, but she could sense from his thoughts that he been frightened by the unexpected attack.
+
+Piety smiled.
+
+Armed and armored men burst into the courtyard and fell upon the burning undead, bearing torches instead of swords.
+
+General Vahramp leapt from the melee to the wall of the far side of the courtyard, his hands digging into the stone and mortar like it was soft earth. He paused to sneer over his shoulder at Piety and Piety took the opportunity to thrust her hands forward, palm out, striking from afar. She felt the strength of her telekinesis surging through the air. General Vahramp’s sneer twisted into wide-eyed fear. He scrambled up the wall like a spider and onto the roof, just as the masonry crushed and buckled.
+
+Piety took a moment to stretch her awareness throughout the keep. The fight, it seemed, was won. They had lost people and more had been poisoned by the undead’s venom, but the creatures fled where they weren’t burning to ash. The soldiers had done their work and the healers were doing theirs now. They didn’t need her here, and General Vahramp was getting away.
+
+Without having to touch her, Piety sent her mind voice to Temperance. “I’m going after Vahramp. Stay here, stay safe.”
+
+Piety didn’t give herself time to consider the danger of her decision, or allow herself to hear Temperance’s objection. She sprinted across the courtyard, skirting the knot of burning undead and leapt after the general. As she jumped, she pushed behind her with her telekinesis and her body shot up higher than she’d intended, giving her, for several exhilarating moments, a bird’s eye view of the rooftops of the keep below her. She expanded her telepathic senses and spotted General Vahramp, sprinting through the town of Pinefort, headed for the nearest gate.
+
+Gravity took hold and, for a moment, Piety panicked, the calm of emptiness left her. She saw the flagstones of the town square just outside the front entrance of the keep rushing toward her and knew her fall would be fatal. Blindly, she again thrust her telekinesis at the ground. She heard the stone crack and tasted dry earth as she hit the ground and stumbled to her hands and knees, bruising her body as she fell. The calm awareness of the cosmos was gone, but she felt good, refreshed, refilled.
+
+People shouted around her, but Piety ignored them, pulled herself upright, and sprinted after Vahramp. As she ran, she pulled healing energy into herself, easing the pain of her fall.
+
+She could feel him at the gate now, slashing through the unfortunate guards who tried to stop him with stony glares and harsh words. There would be nothing for her to save so she put them out of her mind, focusing on the fleeing Vahramp.
+
+With another, more carefully aimed thrust of telekinesis, she leapt into the air, soaring high over the houses of Pinefort, her hair whipping around her face, her once white dress flapping about her legs. Her telepathic sense stretching, she could feel Vahramp fleeing into the hills, his superior speed and strength carrying him away from her. With another thrust of telekinesis, she pushed herself through the air, even higher, flying like a spear from the hand of a trained warrior, and she aimed herself at General Frederick Vahramp, the undead menace who fled from her.

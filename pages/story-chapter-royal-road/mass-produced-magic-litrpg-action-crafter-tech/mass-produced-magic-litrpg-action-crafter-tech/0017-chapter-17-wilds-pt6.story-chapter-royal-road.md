@@ -1,0 +1,199 @@
+---
+id: 0835ca9c-7ba3-5742-ab7a-405780d22e5a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17 – Wilds – Pt6"
+slug: 0017-chapter-17-wilds-pt6
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 17
+ownLength: 2062
+unit: words
+publishedAt: 2024-11-24
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1922326/chapter-17-wilds-pt6"
+royalRoadId: "1922326"
+---
+
+Kindra slowly climbed down the rope. Good thing I have strength, and shame I know nothing about rock climbing. Blowing a strand of hair from her face, she slowly climbed to the bottom of the rope. Reaching out, she hit the cliff and formed a new ledge.
+
+Landing on it, she watched Aika zip upwards to retrieve the rope.
+
+Not the greatest system, but it works. Kindra peered into the trees. The leaves fluttered gently. Mana coursed through trunks, and the water crashed down next to her. It is pretty... How strong are those trees? She studied the glowing trunks. I need an identification spell.
+
+Aika soared upward. Taking the rope, Kindra tied it off and descended, repeating the process and slowly scaling down the cliff and entering the forest.
+
+The leaves surrounded her. Branches and leaves cluttered her vision. The nearby falls created misty rainbows, and the dwarves started shouting.
+
+Making a new ledge, Kindra peered down. Built like small boulders, the three dwarves stood there with long beards of red, brown, and black. Each was wearing metal and leather armor. Their noses were large, and their eyes glittered with rage.
+
+A little over the top for stealing a rope. Kindra frowned and studied the livid dwarves. Expressions of rage sat on their face. Aika fluttered down, and the dwarves started shouting, bellowing about something. The strange words seemed familiar. Where’s my translation service, system?
+
+[Not a thing.]
+
+She sighed. So much for universal translation. Looking down, she watched the dwarves bicker, and Aika flew forward.
+
+“See what I mean?” Aika handed Kindra the rope.
+
+“Yes. They seem grumpy.” Kindra tied it off and resumed her descent, using the rocks and stone to slowly scale down the cliff.
+
+Kindra landed on a ledge and looked at the three. What are they fighting about? She looked up. “What do we do about them, Aika?”
+
+“No idea. I can’t understand a word.” Aika shrugged, flew down, and handed her the rope.
+
+Tying the rope off, Kindra scaled down the last chunk of the cliff, landing lightly on the ground. Landing, she looked up. Climbing level complete! System, where’s my achievement?
+
+[Still not a game.]
+
+Lame. She spun and looked at the dwarves. They continued fighting, shouting at each other until they realized she’d reached the bottom. All three went quiet.
+
+Kindra smiled and pointed at herself. “Kindra.” Raising her hand, she pointed at Aika. “Aika.”
+
+The dwarf turned to talk to the others, and Kindra failed to understand a word. What good is intelligence anyway?
+
+[Intelligence boosts your cognitive function. It doesn’t make you instantly learn a language.]
+
+The dwarf with a red beard turned back and pointed at himself. “Gleon.” He looked at Aika and said something.
+
+Aika shrugged and turned. “We have to learn Dwarven, don’t we?”
+
+“Yes.” Kindra shrugged at him.
+
+He sighed, walked forward, and said something again.
+
+“I don’t speak dwarvish,” Aika replied, shrugging and shaking her head.
+
+Gleon reached forward and took the rope. “Rope.” He gestured and pantomimed. “Follow.”
+
+She paused a moment, studying the three and looking down at her leg. I am wounded. I am probably going to get sick. She grimaced. Guess I don't have a choice. Kindra nodded and followed him. The other dwarves snickered and said something.
+
+Gleon marched into the trees. Pointing at various plants, he began a vocabulary lesson.
+
+Kindra repeated the words, pointing at trees, vines, shrubs, and some bugs that came into view. She walked around the plants and followed the base of a massive tree to a game trail, repeating the words.
+
+Stopping, Gleon spun and gestured to Aika, pointing at a tree and saying a word.
+
+“I think you have to do it, too,” Kindra whispered.
+
+Aika groaned. “This would be so much easier with a computer.” She repeated the word.
+
+Kindra did the same, marching through the forest and repeating random words, trying to connect the words’ specific meanings to the objects.
+
+Wandering around a large tree, things went quiet. The dwarves went silent, and Kindra turned, searching for the reason.
+
+A dwarf said something.
+
+Kindra spun and saw a blur. She grabbed her gun, and the cat charged, barreling toward Gleon.
+
+Ripping the gun free, Kindra popped off the safety and aimed. Gleon stepped forward and punched it. Its neck cracked, and the cat dropped onto the ground.
+
+How strong are they? Kindra studied their mana. System, how do I see their level and mana?
+
+[You’d need a skill for that. Would you like to show them yours?]
+
+Yes. Kindra nodded, and the dwarves spun. They all stared at her and then exploded into a conversation she couldn’t understand.
+
+That’s gonna get old. She failed to understand a single word.
+
+Gleon grabbed the carcass and hoisted it over his shoulder, pausing to look at Kindra again. He said something and gestured at the cat.
+
+“What?” Kindra shrugged.
+
+Reaching back, he grabbed her hand and pulled her closer to the dead cat.
+
+Is he trying to help me get mana? Kindra smiled, reached out, and pulled on the mana, letting it flood into her. The dwarves didn’t seem to notice, but she walked next to him.
+
+Gleon resumed his lecture, miming while teaching her new words.
+
+Minutes ticked by, and the group walked to the forest’s edge. Peering between the trees, Kindra saw a distant city, its walls blocking out the contents. Please tell me it isn’t filled with the undead—aw, shit! She squinted and frowned at the undead that were patrolling the field. They lumbered around the grounds, silent horrors that lined the area and ignored the workers. Turning toward Gleon, she gestured, trying to ask what that was about.
+
+That confused him. He said several things and shook his head. One of the other dwarves laughed, grabbed the cat, and walked toward the distant village.
+
+Kindra watched him and the distant wall. A large undead wyvern landed on the wall, sitting there like a horrific, decaying gargoyle. A massive undead cat prowled the fields, and undead dwarves were everywhere.
+
+Kindra wrinkled her nose in disgust. The cat turned in their direction, and everyone went silent.
+
+“Aika, have they gone full necromancer or has someone else?”
+
+“I’m not sure. Can we kill the undead for mana?”
+
+“That’s really tempting.” Kindra looked across the field and watched the undead cat. It sniffed and turned, loping through the fields towards some group of dwarves who appeared to be tending the small bushes that littered the place.
+
+Turning, she looked at the dwarves. They did not look happy about the undead. Gleon’s hand was on his axe, and his eyes darted everywhere. Well, he clearly doesn’t like them.
+
+The other dwarf gestured to Aika and began pantomiming while whispering.
+
+Kindra watched and slowly pieced together the message: the undead would attack Aika on sight.
+
+Aika landed on Kindra’s shoulder. “Why’d they bring us here then?”
+
+“I don’t know.” Kindra frowned and gestured: what are we doing?
+
+Gleon turned and gestured while whispering: you’re weak and need to grow. He pointed to the city and gestured, playing a complicated game of charades that took her several minutes to understand: go learn smithing—she stays with us.
+
+Kindra scowled at him and gestured: no.
+
+Best way. Get stronger. She’ll hunt with us. You learn the language.
+
+Kindra continued scowling. Even if it made sense, she didn’t like it. Aika bumped her shoulder and pointed.
+
+Turning, Kindra saw two dwarves heading their way. One was the dwarf who’d carried off the cat. The other was wearing a tan dress and had a long red braid. Lacking the signature beard, the woman was built like the others, her arms muscled and thick.
+
+Who’s this? Is she taking me to the town? Kindra turned: won’t they attack me?
+
+Gleon went quiet and then nodded. He gestured toward the dwarven woman. “Sigrid.”
+
+Kindra nodded and raised a brow.
+
+Go. Learn, Gleon gestured back.
+
+Kindra sighed and gestured at the undead.
+
+Gleon tried and failed to communicate whatever he was thinking. Kindra turned, and the two dwarves walked up.
+
+Sigrid looked at Kindra, turned, and launched into what had to be a lecture, letting Gleon have it.
+
+Gleon stood there, a stone in the storm of words. Exasperation slowly crept across his face, and he turned. “Kindra.” He gestured and walked away, slinking back into the trees. Gesturing, he beckoned to Aika.
+
+“I don’t want to.” Aika frowned and crossed her arms.
+
+“Me either.” Kindra looked at them and debated. Her knowledge was limited. Turning toward the city, she searched for anything with that much mana, failing to see anyone with that much. A gentle hand bumped her, and Sigrid handed her an enchanted necklace.
+
+Looking down, Kindra studied it. Doesn’t seem harmful, but who knows what this thing does?
+
+Sigrid patted her shoulder and looked sympathetic. She took the necklace and pulled it over her head.
+
+Sigrid’s form shifted. She shrunk a foot and became skinny, her appearance shifting to that of a young dwarf with skinny arms and legs instead of the larger ones. Her hair remained vibrant red. Reaching up, she took the necklace off and handed it to Kindra.
+
+“Be a dwarf?” Kindra asked, her eyes growing wide. That’s what they want? To hide me with this thing? She shrugged and pulled it over her head. Her form shifted. She lost a foot of height, and her body altered slightly, becoming a little more sturdy. She looked at the dwarves, who were now about her height. I look like a short human. She pulled her hair forward. It remained the same white color. Oh well.
+
+Sigrid grabbed her hand, turning to Aika. “Stay. Danger.”
+
+Kindra pulled. “Necklace. Aika?”
+
+Sigrid shook her head and gestured to Kindra’s hair and height. “Limits.”
+
+Kindra slumped as the realization hit. Reaching up, she pulled Aika into a hug. “I’ll be fast.”
+
+Aika looked up and smiled. “If you need me, call. They can’t even stop me.”
+
+“I’ll get some more metal for your suit.” Kindra let her go and turned.
+
+Sigrid grabbed her hand and tugged her forward. Kindra followed, her eyes flickering through the fields. Crops littered the area, not unlike the undead. Clusters of dwarves worked the fields, and smoke billowed from some smoldering mounds.
+
+Pulling, Sigrid resumed vocabulary lessons, adding other words and walking toward a distant gate.
+
+Kindra followed, repeating the words and watching. The farmers used a mix of magic and medieval technology to remove weeds and water the plants. She pointed to one pulling water from a nearby ditch and using it to water. That earned her a new vocabulary lesson.
+
+She memorized and repeated words, turning back toward the city and following toward a gate. Sigrid went quiet, and Kindra studied the raised metal portcullis. Four dwarves stood beside it, their metal armor gleaming in the sunlight. Next to them stood two undead canines, their flesh actively decaying and spreading a nasty smell through the air.
+
+Kindra sniffed it. Am I getting used to it? She frowned, and Sigrid tugged her forward, moving her down the dirt road, which shifted into stone. I want to siphon them... Would the necromancer notice?
+
+The two walked to the gate, and a guard held out his hand. He frowned and said something.
+
+Kindra tried and failed to pick out words. Sigrid pulled her closer, and the two had a rapid conversation, exchanging rapid words.
+
+Well, they are talking about me, but I don’t know what about. The large, undead wolf-like creature sniffed her before looking away.
+
+Ignoring the desire to nullify it, Kindra looked down the street. Stone huts lined it. Distant smithies billowed smoke into the air. The faint sound of metal rang through the air, and dwarves scurried through the streets with looks of depression on their faces.
+
+Kindra’s heart lurched. She watched some young boy trod next to his mother with a blank look, all hope and joy vacant. The others looked just as bad, empty shells of people barely clinging on. She felt her emotions surge. Sorrow washed through her, and she watched a group of lumbering undead dwarves that seemed to be wardens, not guards.
+
+A young girl looked at them, her smile falling into fear as she clutched at her father’s legs. Kindra’s sorrow turned into rage as quickly as her nitroglycerin had ignited.

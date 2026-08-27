@@ -1,0 +1,95 @@
+---
+id: 026d4218-7bf1-56e6-9c56-7ab333b83397
+page-type-slug: story-chapter-royal-road
+title: "Chapter Five: Close Encounter of the Primate Kind"
+slug: 0005-chapter-five-close-encounter-of-the-primate-kind
+partOf: labyrinth-of-the-mad-god
+position: 5
+ownLength: 1599
+unit: words
+publishedAt: 2023-09-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331137/chapter-five-close-encounter-of-the-primate-kind"
+royalRoadId: "1331137"
+---
+
+After making sure that he hadn’t been noticed, Nick took a few deep breaths to help him calm down.
+
+Despite the distance, he was able to take a good, long look at the primates making their way along the beach. His vision seemed unusually sharp, perhaps because the air here was so clean. Although he was still incredibly wary, what he saw helped him relax, if only by a hair.
+
+What he had originally thought were monkeys, were closer in appearance to lemurs the size of golden retrievers. He realized that the creatures might not actually be lemurs, since they were over twice the size of the largest variety he knew of. But since Nick didn’t know what else to call them, he decided that lemurs would be good enough.
+
+Maybe they’re some kind of crossbreed or genetic experiment. The beasts in question were covered in short brown fur with white accents around their hands and faces. They had large eyes and long tails, bounding across the dunes on all fours. He spent a good ten minutes watching them play in the surf while hunting for crabs.
+
+They were surprisingly cute and didn’t appear to be threatening. But that didn’t mean they weren’t dangerous. Nick was completely certain that, like all members of the primate family, the beasts were strong for their size and had a powerful bite.
+
+There was no question that the lemur tribe could fuck him up if they were so inclined. If he was locked in a cage with a single beast, he could probably use his mass to crush it. But even then, he wouldn’t emerge unscathed. Their jaws could easily snip his fingers free from his hands.
+
+That was when Nick spotted a lemur sitting in a tree, just a few paces away from where he crouched. It was half the size of the others and was looking straight at him. His heart rate kicked into high gear, and adrenaline surged into his bloodstream.
+
+He tensed up and got ready to run, planning to dive into the ocean if the creature proved faster than himself. But then he realized that the little primate didn’t seem to be alarmed by his presence.
+
+It showed no sign of hostility as it peered at him, just curiosity. This lemur was male and had black rings around its eyes, giving it a racoon-like mask with the banding of its fur. Hoping that the creatures would be willing to tolerate his presence in their territory if he appeared friendly, Nick slowly reached into his pocket and broke off a piece of cookie.
+
+He made eye contact with the lemur, waved, and then tossed the morsel into the sand near the base of the tree. “Hey there, little bandit. I’m cool. You’re cool. Everyone here is friends.”
+
+The lemur that Nick had decided to name Bandit cocked its head, gaze following the path of the cookie, seemingly captivated by his antics. It leapt from the branches and landed with a spray of sand.
+
+The lemur carefully approached the pastry, bending down to sniff at the chips like they were foreign to its experience, which they probably were. The beast clearly liked what it smelled, because it snatched up the morsel, brushed off a layer of grit, then shoved the cookie into its mouth.
+
+Letting out a few excited chitters, the lemur took another long look at Nick and then bounded off to join its tribe, gesturing back to where he stood. He got the impression that Bandit was telling them that Nick was a friend, not a threat that needed to be dealt with.
+
+Now that he had managed to pass a preliminary inspection, he hoped that the tribe wouldn’t attack him on sight, though he planned to keep his distance whenever possible. Although his palms were still sweating, he rose to his feet and revealed his presence. You weren’t hiding anyway. They knew you were here the whole time.
+
+After a few nervous minutes spent watching Bandit and the tribe, who occasionally stopped to look back at him, Nick decided that it was safe to continue down the shore, immensely relieved that the oversized lemurs didn’t consider him to be either predator or prey.
+
+He thought about trying to follow them, but they moved far faster than he could and were soon out of sight. I’m lucky that they didn’t chase me down and demand the rest of my cookies either. He decided to finish the smaller pastry now, just in case.
+
+After another hour or so spent walking along the beach, he caught sight of something dark rising from the white sands along the horizon, where the shoreline rose to form an elevated point. Fifteen minutes later, he was close enough to make out additional details. The object was formed from what appeared to be solid obsidian, a jet-black obelisk at least fifteen feet tall.
+
+It must be some kind of art installation, he decided. It was the first man-made structure that Nick had spotted since waking up on the island. He hoped that it would lead him to a parking lot, or at least a walking trail. If it was some sort of monument or tourist attraction, perhaps people would be nearby as well.
+
+As he drew near, he was able to make out more of the obelisk’s features. He didn’t recognize the architecture or artistic style. But that wasn’t too surprising, as he had never been much of a patron of the arts. A platform carved from the same type of stone ringed the base of the structure, and a third of the way up on the side facing him, he saw a rectangular block that looked like a touch screen. The same kind you would find on an ATM or ticket kiosk.
+
+Nick ascended the rise and slowly circled the edifice, looking for writing that would offer him some clue as to what country he was in. By the time he had completed a full circuit around the base, he had discovered nothing of the sort, nor any of the footprints or tire tracks he’d been expecting to find.
+
+With no other promising leads, he shrugged, climbed the last sunny stretch of sand, then walked up to the screen. The blank display was shielded by a thin layer of glass set seamlessly into the face of the stone. Hoping that the computer within had entered sleep mode to conserve power rather than being completely out of juice, Nick put down his frond and tapped the center of the screen, swiping a bit for good measure.
+
+Ten seconds later, nothing had happened. It’s busted or out of batteries after all. He stifled his disappointment and was about to turn away when the screen started to glow.
+
+Rows of weird symbols scrolled past for just a moment, tickling his subconscious and filling him with a vague premonition of dread. He blinked, and by the time his eyes reopened, the feeling had passed and the words in front of him had morphed into English.
+
+He expected the display to contain information regarding the artwork, or perhaps details about the local geography. Thus, the words on the screen came as a complete surprise. Instead of an information blurb, Nick discovered a menu with three options that were straight out of a classic RPG.
+
+Active quests (1)
+
+Contestant profile
+
+System encyclopedia (Tutorial knowledge points: 0)
+
+Quests, tutorials, and contestants? What is all of this? It looks like the menu of a game. It doesn’t matter. This is the first sign of civilization I’ve discovered so far. Checking it out might tell me where I am and what is happening. Maybe even point me in the direction of other people.
+
+Nick started off by pressing the field marked System encyclopedia. He was hoping that even without knowledge points, it would still provide some sort of overview or introduction to… whatever the screen was all about. However, selecting the prompt led only to a blank page with a back arrow in one corner.
+
+Shrugging, he returned to the main menu and selected the first option on the list. This time, a page of words scrolled down to fill the screen.
+
+Quest: System Tutorial.
+
+Location: The Searing Isle.
+
+Objective: Survive for 31 days or escape the Searing Isle.
+
+Welcome, contestant, to your tutorial. Here, you will learn the basics of survival within the Labyrinth. The format for this quest has been changed by your sponsor from [Training Grounds] to [Survival Challenge]. The island is home to a wide variety of beasts, biomes, and natural resources, some of which are harmless. Most, however, are not.
+
+Your goal is to learn how to fend for yourself. How to survive the elements, forage for food and water, fight off hostile beasts, and endure various environmental hazards. This tutorial is divided into three distinct phases. The details of each phase are up to you to discover.
+
+Hidden throughout the island are a variety of reward chests. They range in quality from wood on the low end to gold on the high end. These colors correspond to the rarity of the reward contained within.
+
+Each chest will grant items and other prizes that will help you survive, as well as tutorial knowledge points (KP), which can be redeemed at this kiosk.
+
+Note: Chests holding items that are above average for their quality will provide a smaller pool of KP.
+
+Rewards: To be determined based on performance.
+
+Remaining time: 30 days, 20 hours, 7 minutes.
+
+Time until the tutorial’s second phase begins: 6 days, 20 hours, 7 minutes.

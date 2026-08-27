@@ -1,0 +1,283 @@
+---
+id: e1980b2d-bf80-588b-a53a-cf640b70ae41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 — Roommate Etiquette, Pt 1"
+slug: 0004-chapter-4-roommate-etiquette-pt-1
+partOf: just-add-mana
+position: 4
+ownLength: 3681
+unit: words
+ownProgress: 3681
+publishedAt: 2025-07-17
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442676/chapter-4-roommate-etiquette-pt-1"
+royalRoadId: "2442676"
+markedReadAt: "2026-06-29T18:47:39.471Z"
+---
+
+Perhaps somewhat awkwardly, Akkau's "assistant" was, in fact, a demon waiting to lead Cale to his new room. This was mostly only awkward because Cale had failed to notice the demon in question until after he'd taken credit for blowing up an entire infernal realm, at which point he'd turned around to see a demon staring at him.
+
+At least the demon in question was pretty to look at. His skin was a deep, burgundy red, and the suit he wore accentuated his wiry frame quite nicely. Cale attempted a bright smile.
+
+"So!" Cale said. "What's your name?"
+
+"Jaxovar," the demon said flatly.
+
+"I'm gonna call you Jax," Cale said, making him twitch. "Which realm are you from?"
+
+"The sixth."
+
+Great! Not the one he'd blown up. That was a good thing, probably. "What's got you working here in a magic academy, of all places? I would've thought you'd be out, I don't know, making deals for souls or something."
+
+[Blabbermouth] has reached level 4!
+
+What, was that spell only leveling when he put his foot in his mouth or something? Cale glared at the notification, then wondered if it would turn into an active spell if he leveled it enough. He might be able to evolve it...
+
+On the other hand, he wasn't sure he wanted to test what would happen if he evolved a spell based around putting his foot in his mouth.
+
+"Not all of us are soul traders," Jax said. Cale couldn't tell if the demon was trying to suppress a smile of amusement or a scowl of irritation. "I am third in a line of administrative demons, which is rather common in the sixth realm. You could be forgiven for being unfamiliar."
+
+"Well," Cale said. Now that he thought about it, the sixth realm was the realm of bureaucracy. The whole jab at Akkau being a paperwork-based dark lord hadn't been entirely fanciful. "I haven't spent a lot of time in the sixth infernal realm."
+
+"That you have spent any time at all in it is highly unusual," Jax said, giving Cale what he decided he would call the look. "Now if you'll excuse me, I have to contend with the thought that I am apparently contracted to guide the soul that led to the extinction of the eighth realm to his new sleeping quarters."
+
+Cale supposed that was probably fair. In a stroke of unprecedented wisdom, he decided to spend the rest of the walk examining the mana signatures all around the university, instead of repeatedly trying to question Jax.
+
+For now.
+
+Besides, he'd learn more about the demon eventually.
+
+There were a number of metaphysical rules that acted as multiversal constants, of a sort. Cale's Thread of Fate was one of them. Another was the reality of magical academies: where they existed, a certain number of anomalies always manifested. Students getting into trouble was one of them, but there were many others. Enchanted, hidden rooms; ancient artifacts; very old, very cursed books held in dark, protected archives.
+
+Also, staircases. Every magical academy had at least one staircase in which remnant mana tended to gather, leading to a variety of unpredictable effects. Sometimes they became endless, looping climbs. Other times, they lead to any number of impossible locations, most often the closest forbidden forest or secret archive. This was one of the reasons security and mana management tended to be crucial for any given magic academy.
+
+Cale encountered none of these on his way to his assigned dorm, but he did notice something strange: the farther they got into what Jax had called the Astral Wing, the stranger the mana signatures he felt.
+
+They weren't strange in the sense that Cale hadn't encountered them before—there were very few things he would consider truly unusual—but it was outright anomalous for so many rare mana types to be gathered all in one place. Stranger still was the fact that the rest of the university had a relatively mundane mana distribution, which meant that it was only this Astral Wing that was compromised.
+
+Weird.
+
+Cale came to a conclusion in short order, then turned to Jax. "I know I said I wasn't going to talk, but I have a question."
+
+"You made no such promise, unfortunately," Jax said. "But ask away. It is my duty to respond to any queries."
+
+"Duty like slavery?" Cale asked, wondering if he needed to blow up Akkau. Jax gave him a deadpan look.
+
+"It is my job," he clarified.
+
+Ah. Cale nodded in understanding. "This Astral Wing feels off," he said. "Is it where you keep all the weirdos?"
+
+"Please do not call them that," Jaxovar said with a sigh, which Cale thought more or less confirmed his theory. "It is inappropriate."
+
+"You know what I mean," Cale said. "This is where you keep the magically unusual. People with abilities too dangerous to be kept with everyone else. Artifacts too, if I had to guess. Is this place enchanted?" He squinted at the walls. He could make out faint traces of an inscription of some kind, though the detailing was too faded to make out what kind of inscription it was.
+
+A suppression script, most likely. Cale flexed his mana briefly, then watched with interest as the walls bent away from him. Yep, that was a suppression script.
+
+"Please do not do that, either," Jaxovar said with a wince. Cale glanced at him with interest—the demon was rubbing one of his horns.
+
+"Are you bound to that script?" he asked. "That's not ethical."
+
+"I wasn't aware you were one of the people that cared about ethics when it comes to demons."
+
+"I could be convinced." Cale shrugged. Demons weren't all bad. He didn't particularly regret blowing up the eighth realm—that realm was, in fact, pretty much filled exclusively with evil demons. It was one of the reasons he'd blown it up and all. (There was a discussion to be had there about the possibility of true ontological evil, but Cale didn't like to think about it.)
+
+"If you must know," Jaxovar said with a sigh, "I designed and implemented the suppression script myself. It's only anchored to me because I chose it."
+
+"Ah," Cale said. "That's alright then. I was a little worried I was going to have to blow Akkau up."
+
+"Is that something you would actually do?" The demon raised a brow at him. Cale shrugged.
+
+"If I had to," he said.
+
+He didn't look Jax in the eye, but he thought the demon seemed... surprised, and maybe a little appreciative.
+
+The room he was eventually led to was, in fact, in the farthest corner of the Astral Wing imaginable. Cale had to climb up far too many steps to get to it. He considered complaining, but... well, it wasn't like he was alone.
+
+He had a roommate. How bizarre. With the way he was being treated, he'd been half expecting his room to serve as something like a prison. Instead, this was probably the corner of the Astral Wing where the suppression script was weakest.
+
+"Before I give you your key, I must confirm that you are immune to decay-attuned mana," Jaxovar said, giving him a severe look. Cale blinked at that.
+
+"There's a dreadshade in there?" he asked, glancing over the door with interest. Dreadshades were one of the only species he knew of that could naturally use that type of mana, at least. He supposed it was possible that it was something undead, but those tended to come with traces of other types of magic, most often from a corrupted divinity.
+
+"That is correct." Jaxovar seemed surprised that he knew. Cale just shrugged.
+
+"Yeah, I'll be fine. Gimme." He grabbed the keys from the demon before Jax could say anything more, gave the door a few hard raps. "Coming in!" he announced.
+
+There was a startled yelp from somewhere past the door, but since whoever it was didn't start yelling at him to wait, he happily pushed the door open and entered.
+
+Then he stopped in his tracks, eyeing what he was seeing with a slight raise of his brow. Exactly half of it was thoroughly decorated with an assortment of old relics and artifacts, along with three and a half paintings that depicted what Cale was relatively sure would qualify as blasphemy. He eyed them with interest. Especially the half-painting that was torn down the middle.
+
+There was also a remarkable amount of floating dust and a wide-eyed dreadshade staring at him. Cale blinked.
+
+"Did you just decay half the room to make space for me?" he asked. "Because I appreciate the thought, but uh... you didn't really have to."
+
+"I'm sorry," his new roommate said quietly.
+
+Yeah, Cale was going to have his work cut out for him. He sighed and examined the other man critically. He was very much humanoid, to Cale's surprise—many dreadshades struggled to maintain anything close to a coherent form, in large part because it took most of their focus to keep their own power contained. Immature ones tended to kill any non-magical beings they tried to interact with, and even magical ones had to be wary around them.
+
+As if their abilities weren't bad enough, their appearance alone was enough to disconcert even—or perhaps it was more accurate to say especially—hardened veterans. The "shade" part of their name was no accident; even when under control, their bodies were shadowy, incoherent things that moved strangely in the light.
+
+And the "dread" part of their names? When not under control, their bodies had gaps. And that was where the real trouble was. Dreadshades were fundamentally elemental beings, and they embodied the entire aspect of decay. Without careful control of their forms, those around them could catch glimpses of lost souls in the gaps of their magic.
+
+Most often the decaying bodies of loved ones.
+
+This one was, thankfully, more put together than most of the dreadshade he'd met. Not only were there no gaps, but he was more or less solid, and he'd managed to figure out how to form two eyes and a mouth out of lighter-colored mana. It was only near the top of his head that his mana turned into something that resembled shadowy flame, and even then, there weren't any of the gaps Cale might have otherwise been worried about.
+
+Not only that, but he was radiating an absolute minimum of decay mana. Excellent! Cale had had far worse roommates. There was that one sphinx, for instance.
+
+"Um," the dreadshade said. Cale realized he'd been staring for a while and decided to wave at his new friend. He'd been right! It was always a good day when he was right.
+
+Then he paused and tilted his head.
+
+"Did you know you've got a monster living under your bed?" he asked casually. The dreadshade flinched.
+
+"W-what?"
+
+"You know," Cale said. The dreadshade looked at him blankly. "Monsters under the bed? Common magical infestation? Do they not teach you anything here?"
+
+"I'm... too dangerous to go to the normal classes," the dreadshade said, drawing into himself a little. "I just thought it was... a voice? It's nice and all..."
+
+"You have a nice monster under your bed?" Cale asked. He peered down, where a many-tentacled presence immediately hissed violently and retreated further into the dark. Then he shrugged. "Alright, sure, if you say so. Sorry for calling you an infestation, buddy."
+
+The voice that emerged from under the bed was hesitant. "You. Apologize?"
+
+"I mean, if he says you're not a problem, then I trust him," Cale said cheerfully, moving over to his side of the room and examining his own bed carefully. No magical infestations here, at least, and a lot of the dust generated from whatever decay spell had been cast had more or less disappeared by now. "If you'd been feeding on him, I'm sure he'd be a lot more violent. Dreadshades aren't known for being kind to people they don't like."
+
+The bed-monster hissed. "Do not. Say that. About Damien."
+
+"Your name's Damien?" Cale asked, and when the dreadshade nodded, he grinned. "Cool. I'm Cale. Hope you don't mind if I crash here."
+
+Jax, who had been standing impassively at the door the entire time, finally spoke up, rubbing his temples. "I believe things are settled here," he said. "I believe I will leave the area before you reveal anything else that will require me to complete additional paperwork."
+
+He left, muttering something about Akkau's strays. Cale watched him leave and snickered.
+
+"You don't mind what I am?" Damien asked nervously. The dreadshade was looking at him with something that looked almost like wonder.
+
+"Nah." Cale shrugged. "Besides, you couldn't hurt me if you tried."
+
+"I could..."
+
+"What was that?" Cale raised an eyebrow, turning to look at his roommate, who was now refusing to meet his gaze.
+
+"I could. Hurt you, I mean. You should be careful. If you get too near—"
+
+"Try it," Cale said. Damien stared at him, and he waved a hand encouragingly. "No, really, I don't mind. If we're going to live together, I might as well make sure you aren't worried about melting me the entire time."
+
+"I..." Damien hesitated. "Are you sure?"
+
+"Trust me," Cale said.
+
+Damien lifted his hands, and a slow stream of decay magic began to make its way across the room. Even with his permission, Cale noticed Damien was being exceptionally careful—the mana was tightly bound into a single tendril, ready to snap back or be dispelled at a moment's notice.
+
+That amount of control over decay mana, of all things, was impressive. Cale wondered for a moment what Damien had been through to develop that level of control.
+
+Then he noticed Damien's magic had halted right in the middle of the room. He sighed, then walked over to it, grasping it before Damien could wrench it back. And he was about to, he could tell.
+
+"See?" Cale said. "Nothing."
+
+He peeled off a piece of decay mana, rolling it around in his hands and considering it for a moment. Then he put it into his mouth and swallowed it.
+
+Damien was staring at him again, horrified. "D-did you just... Why?"
+
+"I'm proving a point," Cale said. "I'm not just externally immune or anything. Decay mana doesn't affect me."
+
+Damien looked absolutely bewildered for a moment, and then—startling even himself, apparently—he began to laugh. It was high-pitched and a little hysterical, but it was definitely a laugh. "You... you didn't have to prove it like that," he said, still snickering.
+
+"I guess it was a little unhinged," Cale agreed, smirking. "But it got you to loosen up a little, didn't it?"
+
+"I suppose." Damien seemed surprised at first, and then he managed a small smile. "You probably shouldn't go around eating magic in the rest of the campus, though."
+
+"Fair point," Cale said. "Although—"
+
+You have learned [Decay Bite]!
+
+The Gift certainly didn't seem opposed to the whole thing. Maybe it was worth biting magic?
+
+[Decay Bite, Level 1] [First Tier, Active] [200 Mana]
+
+Spread decay by biting a target.
+
+Hm. Maybe not. That didn't seem like a particularly useful spell. He supposed it would be interesting to see what the Gift would turn it into if he tried to cast it, but considering what happened the last time he'd done that, he would wait until he was in a location appropriately devoid of people.
+
+Or at least until he found someone worth biting.
+
+"Although what?" Damien asked.
+
+"Oh, the Gift gave me a new spell," Cale said. "Something called [Decay Bite]. You know anything about it?"
+
+Damien grimaced. Cale saw the way he drew back into himself the moment he asked the question. "I... yes, but you probably shouldn't cast it. It won't do anything good."
+
+There were definitely some issues there. Cale decided to make his second-wisest decision of the day and swept the room with his mana sense for a change of subject.
+
+He paused.
+
+"Did you know this room has a secret passage?" he asked.
+
+Damien blinked, clearly a little thrown by the lack of questioning, then slowly shook his head. Cale grinned.
+
+"Well then," he said. "Wanna help me find a way to open it?"
+
+Neither of them managed to find a way to open the secret passage over the next hour of tinkering, despite their best attempts—or despite Cale's best attempts, anyway. Damien mostly sat back and watched, fidgeting with one of the relics he kept with a mixture of curiosity and anxiety. Even with proof that Cale wasn't about to just collapse from overexposure to his mana, he flinched away any time his power drifted too close.
+
+It was getting tempting to ask him about it, but Cale was pretty sure that would level [Blabbermouth], and he'd mostly resolved to only do that with people he didn't like.
+
+"We're probably not going to be able to open this," Cale said eventually, leaning back to examine the enchanted section of the wall critically. "I'm pretty sure this is an academy manifestation and not something Brightscale built intentionally."
+
+"A manifestation?" Damien asked blankly. Cale glanced at him, then remembered that the dreadshade apparently couldn't attend most of the academy's normal classes. He wondered if Akkau was doing something about that. There was a rather interesting-looking cloak hung up on a hook near Damien's bed.
+
+"Magic academies have a lot of those," Cale explained after a moment. "They happen whenever you gather too much magic in one place. Basically, parts of it start to come to life. Manifested secret passages are pretty common and usually have weird opening conditions, like the presence of some kind of Chosen One."
+
+"Oh," Damien said. He seemed to absorb this for a moment. "I can't sense this one."
+
+"Yeah, it's pretty well hidden." Cale shrugged. "We could force it open, but there's no point, and it'd ruin the magic of the whole thing anyway. This one's probably going to open when we need it most! Something to look forward to."
+
+He beamed, making his way to his side of the room and flopping back onto his bed. Damien sat in front of the secret passage still, staring contemplatively at the enchanted section of the wall; after a minute or two of this, Cale decided he needed to make sure he hadn't broken the poor guy.
+
+"So why are you here, anyway?" he asked. "I'm assuming you need to get control over your mana, but your control's pretty good already."
+
+Damien looked over at him, hesitating. "You won't laugh?"
+
+"Why would I laugh?" Cale scowled. "Are you getting bullied?"
+
+"N-no!" Damien denied immediately, and then he sagged. "I mean, um... maybe? But it's nothing serious, it's just..."
+
+"What, people think you can't do magic because you're a dreadshade?" Cale snorted. "One of the best mages I've ever known was a dreadshade. She did some crazy things with her mana, let me tell you."
+
+Damien looked, for a moment, like he wanted to believe him. Then he glanced away and shook his head. "I've never heard of anyone like me becoming a real mage," he mumbled. "You don't need to lie to make me feel better."
+
+"You're here, so clearly some part of you thinks it's possible," Cale pointed out, making Damien flinch slightly. "And I'm not a liar, thank you very much. Not about stuff like this, anyway."
+
+"Does that... mean you lie about other things?"
+
+"Oh, all the time," Cale said cheerfully. "That's not the point! The point is, you can do magic."
+
+"Magic beyond decay," Damien said. "I don't want to just turn things into dust. I want to do what other mages can. I want to use my magic for life."
+
+"You want to heal?" Cale asked curiously, and Damien nodded. "Well, I don't know if Sheriya had any healing spells, but she could definitely do things other than just decay."
+
+"Like what?"
+
+"Teleportation," Cale said easily. "Sort of, anyway. She came up with probably the most mana-efficient set of teleportation spells I've ever seen. I've seen it used to teleport entire city populations. And she did it with decay mana."
+
+"With decay mana?" Damien frowned, clearly surprised. "She didn't have to attune?"
+
+"She was a very clever mage," Cale grinned. "In more ways than one. I can tell you how she did it, if you like. She did want me to pass on her legacy on the off chance I ran into a dreadshade that wanted it."
+
+"Pass on..." Damien shook his head. "She couldn't do it herself?"
+
+Cale's expression darkened slightly. "No," he said. Damien waited, but he didn't say anything else.
+
+"Um," Damien said. "How did she do it?"
+
+"Glad you asked!" Cale said, mood instantly lifting. "Partial attunements. That was her trick. You don't need to shift your mana all the way into something else to make it do what you want—that's incredibly hard for decay mana. But if you get it even halfway there, you can get a usable spell out of it. With the Gift, it might be easier for you than it was for her."
+
+"Wait, are you saying she didn't have the Gift?" Damien asked, looking increasingly confused. Cale ignored him.
+
+"Teleportation, for example," he said. "She did a partial attunement to the space aspect, then decayed the space between her target and its destination."
+
+Damien's eyes went wide. "You can do that?" he asked.
+
+"Yup." Cale grinned. He could see Damien's mind working its way through the implications. "She said it was one of the easier applications of decay magic, if you can believe it."
+
+Damien seemed like he was about to say something, then stopped, looking more carefully at Cale. "Who are you?" he asked after a moment. "You're immune to decay mana, you were assigned to the Astral Wing, and you know about a dreadshade I've never even heard of. One that apparently doesn't have the Gift but is still an incredible mage."
+
+"That's the question, isn't it?" Cale chuckled. "Right now, I'm just like you. Someone that wants to learn magic."

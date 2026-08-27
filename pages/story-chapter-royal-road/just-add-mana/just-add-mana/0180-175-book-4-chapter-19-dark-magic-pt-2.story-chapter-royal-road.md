@@ -1,0 +1,161 @@
+---
+id: f0d016e4-dee0-5c52-b5a7-dbebaee60b4c
+page-type-slug: story-chapter-royal-road
+title: "175 — Book 4, Chapter 19 — Dark Magic, Pt 2"
+slug: 0180-175-book-4-chapter-19-dark-magic-pt-2
+partOf: just-add-mana
+position: 180
+ownLength: 2863
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3838901/175-book-4-chapter-19-dark-magic-pt-2"
+royalRoadId: "3838901"
+---
+
+To Cale, this was a perfectly sensible choice to make. They were in the Starfire Desert, surrounded by nothing but dunes of sand and the occasional crystal spire. There weren't any mountains around for Eviscerator to demonstrate her magic on.
+
+Obviously, this meant she had to demonstrate the spell on the next best target, which was him.
+
+"It would be much faster than looking for a mountain," he added, as if that would help. "And it would show the class how much you can do with a melee spell, wouldn't it?"
+
+The Dark Warrior Eviscerator stared at him. Cale had a feeling she would have dismissed him immediately if not for the fact that he was the one that summoned Korav to help anchor her to the realm; she recognized on some level, at least, that he was far stronger than he seemed.
+
+The fact that she'd been present when he defeated Astiviya probably helped, too, unless her contract with Korav had suppressed her memory of the incident for some reason. Cale knew Korav employed a magic that helped those he worked with focus on the contract to the exclusion of everything else. That could occasionally manifest as gaps in their memories, though Cale was hopeful that wouldn't pose a problem.
+
+Though Eviscerator would also have to contend with the part of her mind suggesting that he was "just a human." Maybe he did have some cause for concern.
+
+"You want me to what?" Eviscerator managed.
+
+Well, she was definitely hesitant, but at least she hadn't dismissed him immediately! Or eviscerated him. He was pretty sure she had that name for a reason.
+
+"You should cast [Punch] on me so we can all see how it works when an expert casts the spell," Cale repeated. He gestured at his chest hopefully.
+
+"I understood that part of your request, yes," Eviscerator said, scowling at him and appearing to recover some of her composure. "You understand that when I cast this spell, it can collapse mountains? It is not like other forms of first-tier magic."
+
+"That's why I want to see it firsthand," Cale said reasonably. "How else are we going to learn how to do it?"
+
+"You will not learn how to perform a spell at this level after a single demonstration," Eviscerator said flatly.
+
+"I dunno," Cale said. "You might be surprised. Even if I don't, Syphus over here might. It likes the violent spells."
+
+"I might?" Syphus asked, its infernal eye blinking at him before acquiring a thoughtful sort of slant. "I do like violent spells... Okay then. I also vote for you to punch Cale."
+
+Eviscerator pressed a gauntlet to her face in exasperation. "It is not whether or not you will understand how to cast an empowered melee spell that concerns me," she said. "It is the destructive ability of the spell. You will recall that when I employ this spell, it is capable of collapsing mountains. You may be strong, but do you truly believe your barriers can hold up to my magic?"
+
+Ah, but that wasn't what she was really asking, was it? It took Cale a moment to figure out what she was actually worried about. Eviscerator was reluctant to reveal that her empowerment of [Punch] was a form of dark magic, which certainly would penetrate the barriers that most conventional mages could conjure. Its nature as an anti-divine power would strip away a lot of the protections they enjoyed.
+
+Cale had, in fact, weathered plenty of spells empowered by the Dark and was an old hand at shrugging off its influence (and at wielding it, to a limited degree, though again his memories of the Dark were largely sealed away.) Neither he nor Korav had seen fit to explain his backstory to Astiviya's shades, though, so even if Eviscerator knew he was strong, she was technically right to be concerned.
+
+"Yeah, I'll be fine," Cale said in his best attempt at being reassuring. "Don't worry, just lay it on me."
+
+The Dark Warrior Eviscerator sighed, staring at him for a long moment, then seemed to come to a decision. Cale could practically see her mentally calculating the estimated strength of his barriers and trying to tone her magic down enough that she wouldn't break them. The density of his magic would throw those estimates off, but that was fine; he just needed to see how she called on the Dark.
+
+She drew her first back, ready to cast...
+
+...and then she hesitated. She coughed, seemingly embarrassed. "Ah, well," she said. "I just remembered. It is in my contract that I cannot endanger my students. Unless I know for a fact that this will not kill you or anyone else in this vicinity, I cannot do this."
+
+Oh, come on. That was a pretty good provision to add into the contract—it was a good thing Korav had thought of it, because it had entirely slipped his mind that they were recruiting what were technically possibly war criminals, and he would have to thank Korav later—but he wanted to see the magic! How was he supposed to convince her this wouldn't kill him? She didn't know he could deal with the Dark, and if she was reluctant to admit her magic involved it, calling that out would only make her even less willing to show off the spell.
+
+He opened his mouth to protest anyway, though he wasn't sure what he was going to say. That was fine, though; his best and most convincing arguments were purely improvised. He'd say something about the Pastel Queen—
+
+Thankfully, before he could put his foot all the way inside his mouth, Kryva came to the rescue. "There is no need to worry," she said, her voice calm and serene. "I doubt his barrier will fail, but in the event that it does, I will ensure he remains safe."
+
+Eviscerator startled, as if she had almost forgotten that Kryva was even there. "My lady!" she exclaimed, and then flinched as she remembered herself. "Ah, I mean, Kryva of Snowspire? Your magic does seem—that is to say, I believe your magic will protect him, but—"
+
+Cale wondered if he ought to be offended, but decided that he wasn't. He didn't know what form of magic she specialized in, but it was easy to tell from her demeanor that whatever it was, she was an absolute master of it. Enough that even Eviscerator was cautious of her, though that was somewhat obscured by how flustered she was every time Kryva even looked in her direction.
+
+"You are concerned about the rest of the class?" Kryva asked, and when Eviscerator nodded sheepishly, she let out a tinkling laugh. "Do not worry. No student will come to harm as a result of your magic, and if it comes to it, I will minimize the damage to the Starfire Desert as well. You have my word. I have a request in exchange for this, however."
+
+Eviscerator nodded so eagerly that Cale wondered if she remembered that Kryva wasn't actually doing her a favor. "What is it, Kryva of Snowspire?"
+
+"Kryva alone is sufficient," the wyldfire mage said with a gentle smile. "This might be impolite, but 'Dark Warrior Eviscerator' is a bit of a mouthful. Is there perhaps a different name we could refer to you by? I believe it will make the other students more comfortable, as well."
+
+Eviscerator's mouth had fallen open, and she took a moment to gather herself. "Ah—that is—yes, of course," she managed. "The Pastel Queen would sometimes call me Evi. You're welcome to call me that too. And, ah, the rest of the class. I suppose."
+
+"Thank you, Evi," Kryva said politely. Cale watched with interest as Eviscerator—Evi now, technically which was admittedly much easier to work with—made a noise that very much sounded like some sort of whimper before gathering herself.
+
+"Yes, well," she said. "I suppose I should, ah, demonstrate the spell now. Yes."
+
+She locked eyes with Cale, and he felt her magic gathering in her fist. Then, with absolutely no warning or preamble—perhaps as a result of how flustered she was—she cast [Punch].
+
+Cale, unfortunately, had been expecting some sort of warning, and so had not yet extended his barrier to protect the rest of the students.
+
+Syphus would be fine, since its core was functionally an indestructible boulder backed by the power of a Named, but as quickly as he could shape his magic, it wouldn't quite managed to cover everyone else.
+
+Hopefully Kryva had that handled. Cale suspected she'd been prepared for this. She had already cast her cup of tea in the air, for some reason.
+
+...was she a tea mage?
+
+Cale had little time to ponder that, because at that moment, Evi's [Punch] made contact.
+
+One of the drawbacks of having nigh-invulnerable barriers, Cale reflected, was that they did nothing to prevent the transfer of kinetic energy. Unless he spread physical tendrils of mana deep into the ground to anchor himself, he was very much vulnerable to physical magic like this in a way that he wasn't to most other spells. Elemental spells like [Fireball] did not transfer much in the way of kinetic energy, nor did cutting spells like [Sever] or [Phantom Strike].
+
+It did mean he had plenty of time to analyze Evi's magic while he flew through the air, though! This had happened often enough to him that he found it rather relaxing, and it wasn't like he had no way to deal with being shot into the atmosphere like this. It wasn't quite the same as the [Flight] spell he wanted, but if he shaped his barrier into the right aerodynamic shape and made all the right adjustments...
+
+There. The wind stopped buffeting his face quite so relentlessly and his uncontrolled tumble through the sky became a far more graceful soar as his makeshift wings caught on the air. Cale blinked in surprise when he found a cup of tea somehow sitting in the air in front of him the moment he stabilized—it had managed to manifest perfectly on the one part of his new barrier that could hold it.
+
+Tea mages. They were terrifying when they truly mastered the magic. Kryva, it seemed, had done exactly that.
+
+Taking the hint, he reached out to take a sip of his tea, pondering the nature of Evi's [Punch] as he did. A pleasing warmth spread through him, invigorating his mind and lending it clarity: he could remember the moment the spell was cast in perfect detail.
+
+First came the sense that he was about to die.
+
+Cale had, after eons of cycling through the Great Realms, developed something of an instinct for things that would kill him. After another set of eons, he had developed an instinct for when the first instinct was being fooled. That turned out to be somewhat important—while he had become somewhat inured to the idea of death, his fight-or-flight instincts were still very much active, and the first time he'd blown himself up as a result of thinking he was about to die had been rather embarrassing.
+
+Thankfully, no one had been around to witness it, but still.
+
+He had recognized, therefore, that while this [Punch] very much felt like it would kill him, it was fooling his senses the same way that many forms of dark magic did. That confirmed that the spell was being directly empowered by the Dark, which was exciting!
+
+The only question was how. [Punch] itself was a simple spell. There was no hole in it the Dark could take advantage of and no special mechanism by which it cast. Cale might not have had access to the Gift at the moment, but it was a simple enough spell that he'd picked it up at some point, and he remembered the spell description just fine.
+
+[Punch, Level 1] [First Tier, Active] [10 Mana]Punches your target.
+
+Nothing there that explained its power, as far as he could see.
+
+It was a melee spell rather than an enhancement spell, which made it fall into a rather odd category of magic sometimes referred to as self-puppetry. The spell did not, despite its description, manifest a mana construct of a muscular arm to punch its target. Cale had seen a spell or two with that effect before and found them amusing. [Punch] was less so; it simply took control of its caster to force a punch.
+
+The advantage of the spell was that it cared very little for training, durability, or the relative agility of the spell's target. Unless some counter-magic was in play, the caster would strike their target, and they would do much more damage than if they'd simply swung their first without magic. The disadvantage, of course, was everything else: it took control away from the caster, could leave them in rather precarious positions, and did very little to protect its caster in the event that its target was harder than their fist.
+
+That had happened before. It was rather ugly. Cale wondered idly if that was the reason Evi wore her armor all the time. If this was the magic she specialized in, it certainly explained a lot.
+
+All that was just how an ordinary [Punch] worked, though. While Evi's spell had been ordinary for a split second after she cast it, something about the spell had changed as it took control of her arm. Cale puzzled over those changes as he flew through the air, sipping on his tea.
+
+Evi had aimed for his chest rather than his face, which he appreciated, though her fist was large enough that it didn't make much of a difference. That had nothing to do with how the character of the spell had changed, though. The spell had seized hold of her, and then...
+
+And then something else had seized hold of the spell.
+
+Oh. Oh, that was fascinating. Something clicked in his mind, another memory being unsealed. He had assumed that those allied with the Dark followed a similar sort of mana core progression, but that was wrong, wasn't it? Most mages had to purge divine intent from their mana to seize greater control of it, empowering themselves in the process. But anything Dark didn't have to contend with the divine.
+
+What if they did things in reverse, then? Where a mage of the Light—terrible terminology, and Cale resolved to come up with his own terms as soon as possible—purged divine intent from their mana to make space for their own intent, perhaps a mage of the Dark made space in their mana to invite something else into their magic. Perhaps they made just enough of a gap that for something to seep into the cracks and take hold of it, empower it.
+
+The only question was what that something was.
+
+He'd have to ask Evi about that. It was a little embarrassing, but Cale was pretty sure he'd known this at some point and had somehow just forgotten about it, because even with the memory unsealed it refused to come to him.
+
+It didn't take Cale long to return to class. Perhaps a couple minutes at most. Not enough time for the other students to recover from being very clearly shell-shocked, at any rate. They were seated and sipping on their cups of tea, looking very much like they had no idea how they had gotten into that position.
+
+Again, tea mages. Terrifying.
+
+"Oh! You've returned." Kryva smiled at him. "You have a question for Evi here, I suspect?"
+
+Evi was also seated, looked rather stunned, and was somehow sipping absently at her tea through her helmet. At Cale's appearance, her eyes widened even further. "Your barrier did not break," she said, incredulous. "But... how did..."
+
+"Yeah, it's a tough barrier," Cale said brightly, then turned to Kryva. "Thank you for the tea, by the way. It was delicious. Did you use [Tea Party] to protect the class?"
+
+"You are quite welcome," Kryva said, as serene as ever. "And yes, I did. It is a remarkably effective spell, wouldn't you agree?"
+
+"Sure is," Cale said. It was, in fact, a terrifying spell, but he wasn't going to say that to her face. [Tea Party] and several other forms of tea magic was technically closely related to baking magic, and Cale refused to anger a mage that could very well finally set him on a path toward the mastery of leavened and unleavened magic.
+
+...Right, he had a question for Evi. He thought for a moment, then opted for the blunt approach.
+
+"That was cool, and also definitely dark magic," Cale said to Evi, who seemed startled by the fact that he'd figured it out. He barreled on before she could protest. "Do you think you could teach us dark magic?"
+
+Evi stared at him, her teacup still in her gauntlet. It looked rather ridiculous. "That is... not what I thought you were going to ask."
+
+"I would also like to learn," Kryva added.
+
+"Oh. Uh, okay then," Evi said.
+
+Not even a hint of hesitation. Cale wondered if he'd get the same response if he put on a dress.
+
+Probably not.

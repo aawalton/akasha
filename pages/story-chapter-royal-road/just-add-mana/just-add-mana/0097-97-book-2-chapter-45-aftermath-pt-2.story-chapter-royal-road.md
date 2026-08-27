@@ -1,0 +1,259 @@
+---
+id: 7c3e01aa-8774-5fd6-aa0b-428e9fa84c0c
+page-type-slug: story-chapter-royal-road
+title: "97 — Book 2, Chapter 45 — Aftermath, Pt 2"
+slug: 0097-97-book-2-chapter-45-aftermath-pt-2
+partOf: just-add-mana
+position: 97
+ownLength: 4435
+unit: words
+ownProgress: 4435
+publishedAt: 2026-02-07
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3022074/97-book-2-chapter-45-aftermath-pt-2"
+royalRoadId: "3022074"
+markedReadAt: "2026-06-29T18:50:58.401Z"
+---
+
+Even before Cale met with the spiderlings again, he decided he was relatively pleased with how everything was going.
+
+Admittedly, he wasn't back with his apprentices yet, and there was a possibility that he was being a little avoidant about it. They were probably worried about him by now, and it wouldn't take him that much effort to conjure up a [Fortress of the Gilded Storm] to make his way back. There was a small chance he would get lost along the way, but the positioning of Utelia's continents made that rather conveniently difficult.
+
+Basically, he would know he was going the wrong way if he ended up veering into the magical storms that dominated the realm's oceans.
+
+Cale had a good reason for staying, though. He felt responsible for what those two spiderling children had been forced to witness. He was also, by happenstance, a bit reluctant to tell his apprentices about the whole Torment's Shadow thing. But making sure the children were safe was by and large his priority.
+
+His apprentices would understand.
+
+There would be a lot to do when he headed back, he knew. He'd have to explain everything that happened so far to Akkau, at least anything his apprentices hadn't already explained. And the cooldown on [Awaken Artifact] had ended, which meant he owed it to Imrys to cast it with her supervision. And he needed to check in on Sternkessel. All very important things that he would definitely get to once he'd taken a break for a few days.
+
+Besides, staying away would give them some time without the Thread of Fate hanging over them.
+
+There was one thing he needed to do before he returned to the spiderlings: he needed to make sure that the Greater Indictment he'd trapped in his [Gravity Prison] was doing alright. That was the first place he headed after taking care of the Red Commander, and to his relief, the Indictment seemed fine and in perfect control of himself; whatever remnants of identity he'd stolen from the Red Commander had died, presumably along with the destruction of the Red Commander's soul.
+
+What was left was a surprisingly cheerful Greater Indictment that seemed quite pleased with how things had gone down, and was even happier to learn that the Red Commander was now dead. He accepted Cale's offer to escort him back to his village of origin with delight, although he warned Cale that the sight would be unpleasant.
+
+Which was an understatement. The massacre there affirmed to Cale that the Red Commander was not an entity he could have allowed to run loose. He'd known that already, but it was nice to have the reminder.
+
+"Good luck with the cleanup," Cale said eventually, trying not to wince. He'd seen worse, but not by much. "I'm afraid I can't help much."
+
+"It is fine. I will restore this village." The Greater Indictment spoke with surprising serenity. That was normal for newborn Indictments once the source of their rage was quelled; presumably, this Indictment would now reside in the village that had once been Idefel, serving as a living memorial of the atrocity that had once been committed here.
+
+Cale's work here was done. But he was tired—tired of leaving things as they were, of moving on and leaving nothing behind to grow in its place. This was the duty that Torment's Shadow had taken on. It was the mask that cared little for consequence, for it had lived during a time when no consequence could trump the suffering already extant.
+
+If he was to put that mask behind him, then he would have to spare more thought to what he was leaving behind.
+
+Part of Cale balked at this. He didn't like leaving a mark. It felt too much like taking responsibility for what would happen going forward, and he knew he wouldn't be around forever. It was his nature to move through the realms. Whatever came of anything he did, it was unlikely he would stay long enough to see the results.
+
+But he'd already invested a great deal into Utelia, hadn't he? His apprentices were only one part of it. One way or another, he had left his mark, and if he meant to leave Torment's Shadow behind...
+
+Then there was one more thing he could do here.
+
+He'd made a promise, and he hadn't forgotten it. Cale still didn't know exactly how Sternkessel had acquired his freedom, but this Greater Indictment in particular seemed more personable and willing to talk than any of the others he'd met. That meant that if he was going to make good on his promise—if he was going to help Sternkessel learn how to birth more of his kind—
+
+Cale paused mid-thought as he internally debated how he'd phrased that line in his head. The Greater Indictment gave him a quizzical look, like he could sense Cale's hesitation.
+
+Bah. Even a temporary meeting with Vital had clearly influenced him far too much. Cale did his best to ignore the thought; the point was that this was an opportunity, and he had an idea on how to proceed.
+
+"Before I leave," Cale said. The Greater Indictment looked up at him inquisitively, and he hesitated for a moment before continuing. "Is there any chance you'd want a name? You could come up with your own, of course, but I figured..."
+
+The Greater Indictment blinked, apparently startled. Cale had the distinct impression he was being given a wide-eyed stare. Eventually, though, the Indictment managed to force himself to answer. "I would be honored and delighted."
+
+Cale considered for a moment, then smiled. "How about Erstesholz?"
+
+"That is acceptable." Despite the immediate response, Erstesholz seemed to ruminate briefly on the name. Then he shivered and smiled, small leaves sprouting along his shoulders with his pleasure. "More than acceptable. I have decided I enjoy this name."
+
+"I think I know a professor that would really love to meet you," Cale said with a chuckle. Technically, he suspected that Professor Tarbloom would have a field day with pretty much any new Greater Indictment. Every one of them were practically an entire magical species unto themselves.
+
+But the way Erstesholz was sprouting was distinctly reminiscent of the moss that Tarbloom cultivated across their back. The two of them would probably find a lot in common.
+
+For his part, Erstesholz seemed pleased by the thought that anyone would want to meet him. "I would be delighted!" he said happily. "You must visit, once I have performed the appropriate rites. It may be lonely otherwise."
+
+Cale nodded. "You are, uh... particularly personable for a new Indictment, I've noticed."
+
+"Yes. I suspect it is because of what I had to endure." Erstesholz looked conflicted for a moment. "Am I alone in this?"
+
+"Not at all. I know at least one other Greater Indictment that's just like you," Cale said, offering a small smile. "I'll bring him to visit sometime. Along with my apprentices, and the professor I mentioned."
+
+Erstesholz brightened, and the leaves along his shoulders bloomed again into an assortment of vibrant flowers. "That would please me greatly."
+
+"Then I'll be sure to do it sometime soon," Cale said. "I really have to get going for now, though. I made a promise."
+
+"Promises are important." Erstesholz nodded. "It was delightful to meet you, Cale Cadwell Cobbs. You are much more enjoyable than your other self."
+
+The bluntness of that statement made Cale wince slightly, but he nodded without disagreement. "Yeah," he said. "That face was... for a different time, let's say. I'll see you later, Erstesholz."
+
+Cale wondered, as he left, if the growth of a Greater Indictment into true life was as simple as a name. He doubted it—if it were, then Sternkessel would have discovered that already. But he thought perhaps it was part of the picture. A necessary seed, so to speak.
+
+There was power in a name, whether given by another or forged on one's own, and it was a worthy enough legacy to leave behind. Hope, at the very least, for some kind of new beginning, so that Sternkessel would no longer be the only one of his kind. Cale would have to remember to bring this up when they next spoke.
+
+For now, it was time for him to return to the spiderlings and make good on his promise.
+
+It took them a while to chase down all the goats. Mostly because Cale refused to make use of any of his magic for the process. He didn't see the need for it, and there was a small part of him that was afraid he'd be building more war spells if he tried. It was clear enough now that the Gift had been trying to steer him away from them, but he found himself nervous, nonetheless.
+
+Besides, as much as he loved magic, sometimes a bit of the mundane helped him appreciate everything that made it so special.
+
+Granted, Cale had been a little worried at first that one of the goats wouldn't survive. He would've been willing to pull out magic for that. Apparently, though, he needn't have worried.
+
+Or, well, it was more accurate to say that it was demonstrated to him in no uncertain terms that he didn't need to worry.
+
+Jornathena, which was apparently the name of little Hesa's favorite goat, had been closest to the Red Commander when he smashed into the ground near the back of their herd. Of all the goats, Jornathena had also been converted the most by the corrupting flesh magic the Red Commander was using.
+
+Cale's cleansing flame had managed to burn most of that out of its body, but Adyr had assumed it was dead. It was lying still and silent in a cluster of bushes, and apparently Adyr had spent most of Cale's absence trying to steer his little sister away from it.
+
+Except it had evidently just been waiting for the right moment, because the second Cale returned, it bleated loudly to get his attention. That startled Adyr badly enough to make him jump. Then it stalked over to Cale, glared fiercely at him, and began to do something he would've said was impossible if it wasn't being done right in front of him.
+
+Which was to say it glared at him, then began eating the remnants of the magic in its system. Both the Red Commander's and Cale's, in fact.
+
+And it was doing it with, as best as Cale could determine, goat aspect mana?
+
+Cale hadn't even known that was a thing. He did quickly resolve not to underestimate goats, preferably ever, and then debated whether or not it would be offensive to ask Leo to develop a goat-based secondary core. Minotaurs were half-bull, which was... close enough?
+
+...On second thought, it was probably best he abandon that train of thought and not question anything about what had just happened. Some mana aspects were better left unexamined and left to magical creatures.
+
+Like goats. Apparently.
+
+Jornathena seemed perfectly fine afterward, which meant it had been specifically waiting for him for that demonstration, and Cale had no idea how to feel about that. Mostly, he decided to take it as a sign to step away from the goats for a bit, so he walked over to Adyr to hash out exactly how he could help.
+
+It didn't take them long to figure out what Cale would be doing for them. He'd already promised earlier to escort the two of them to Thyrahl, and he intended to make good on that promise. That journey alone would take the better part of a day, maybe a day and a half, after which he would use his magic to ensure Hesa got home safely and allow Adyr to say a final goodbye to his family.
+
+The older spiderling explained that he would soon be starting an apprenticeship in Thyrahl. Normally, he would have had to waste nearly a week escorting his sister back to the village and then making the trip all over again, but with Cale's help, he could do that part more or less instantly and he'd have more time in his apprenticeship.
+
+Cale agreed easily. As far as favors went, that was a simple one. Really, it didn't feel like he was doing enough for them. In fact, if he was going to commit to leaving things behind better than when he left...
+
+"What kind of apprenticeship is this, exactly?" Cale asked curiously.
+
+Adyr blinked. "Does it matter?"
+
+"I don't know if just escorting you to Thyrahl really makes up for... you know, that," Cale said, gesturing vaguely in the direction of the crater the Red Commander left in the ground. "If you have an apprenticeship, there might be something I can teach you. Or your master."
+
+Adyr blanched at the thought. "Teach my master?" he repeated incredulously. "That's—he's a divine messenger. You can't teach a divine messenger. That's blasphemy. He might try to smite you or something!"
+
+Cale blinked. "Well, I don't know about that," he said, though he had in fact been through that process before. Most divinities knew better than to try to smite him by now. "Why exactly are you getting apprenticed to a divine messenger, though? I didn't know they specialized in any kind of craft."
+
+Well, they technically did, but he'd never heard of them taking on apprentices. That said, Cale was getting used to Utelia's surprises by now.
+
+"T-they're specialists in sacred script, and I need to apprentice to one to learn how to work with it," Adyr said, floundering slightly. "Sacred script literacy is a prerequisite for attending the Thalicite Academy. We use wards composed with sacred script to prevent the dark lord's influence from spreading through Aersheld."
+
+"Oh!" Cale brightened. That made a lot of sense, actually. "Well, in that case, I can definitely help. I have a lot of experience with sacred script. Probably. It varies a bit depending on the divinity, but the broad strokes are usually the same."
+
+Adyr paused. "What?"
+
+"I'm still a bit surprised a divine messenger is willing to teach the script, but even divine messengers don't know everything," Cale continued. "Sacred script is meant to be inscrutable to mortals without decades of study, and divine messengers might be able to use it naturally, but typically only for a fixed purpose. There are these blind spots they have with sacred script. It's actually kind of concerning, now that I think about it, but the end result is that they can make great wards but they're restricted from the runes that would let them make even basic divine artifacts."
+
+"What?" Adyr repeated blankly.
+
+"Mind you, I'm not exactly an expert in divine artifice either," Cale said. "But I know a few tricks. Might be able to leave you something that'll help with the whole dark lord situation. Unless I'm completely wrong and Utelia is way more advanced than I'm thinking. No harm trying, though, right? Might end up impressing your master."
+
+He shrugged and allowed himself a casual grin. "We'll worry about the specifics later. First I'm gonna help you gather the rest of your goats."
+
+"...What?" Adyr repeated one final time.
+
+By that point, though, Cale had already wandered off.
+
+Escorting the spiderlings to Thyrahl ended up being a surprisingly uneventful and relaxing trip.
+
+It was just the sort of break Cale needed. His presence was very much a boon: his ability to move around quickly with [Shadowblend] meant they could hurry back to the spiderling village to let them know what had happened and show that they were fine. That was good thinking on Adyr's part, mostly. Cale hadn't even thought about it, but he'd pointed out the two mages that were supposed to escort them would almost certainly start a panic otherwise.
+
+After that, the trip was simple enough. With the village's blessings and approval, the three of them plus one herd of goats resumed their journey to the divine kingdom of Thyrahl.
+
+For most of this trip, Cale walked along with the spiderlings, chatting animatedly and passing along age-appropriate tales of his adventures. Both spiderlings were fascinated by them, though Adyr caught on and started shooting him suspicious looks at the fifth mention of people being hit with "sleeping spells."
+
+Cale just shrugged in response. What was he supposed to do, detail exactly what happened to some of his allies? Sleeping spells were suitable. Hesa didn't need to think about what other kinds of magic existed when she'd already witnessed the whole thing with the Red Commander.
+
+Besides, there was enough truth to the stories that they were still exciting. It was only when it was too late that Cale realized he might be spreading another round of legends about him.
+
+...Hopefully he wouldn't acquire some new title because of it. He wasn't sure how he felt about being named the "Sleeping Archmage" or whatever it was Hesa seemed intent on coming up with.
+
+This companionship was cut short when they reached the foot of a mountain and Cale realized exactly how much climbing would be involved. Adyr and Hesa both scaled the sheer cliffs like they were nothing, and the goats weren't far behind, but Cale had absolutely no intention of physically climbing a mountain when he had a perfectly serviceable teleport.
+
+For that part of the journey, he acted the way an escort mage was supposed to act, largely just observing from a distance in case anything went wrong. To his surprise, though, everything was... fine. The worst that happened was Jornathena attempting to leap particularly high, missing, then scaring half the other goats into scattering across the mountain.
+
+That incident resulted in about another half-hour of frantic searching, only for them to find half the goats somehow perched in a tree.
+
+"I have a lot of questions," Cale said.
+
+"This is normal for goats," Adyr explained. Cale stared at the spiderling, then at Jornathena's smug stare, then sighed.
+
+"I no longer have any questions," he amended grudgingly.
+
+The kingdom of Thyrahl awaited them in the form of a path built into the side of the mountain, and it took no more than another hour to get there, which came and went without incident. The goats were donated to one of the city-kingdom's temples, much to Hesa's dismay; she bid Jornathena a long, incredibly protracted farewell while Cale and Adyr waited awkwardly at the side.
+
+After that, they took a shortcut to bring Hesa back to her home village and so their parents could hug their son goodbye, and finally entered the kingdom of Thyrahl proper.
+
+It occurred to Cale as he looked around that this was his first visit to an actual kingdom on Utelia. He'd more or less ignored Orstrahl entirely, despite its outsized influence on the affairs of the Brightscale Academy. He wondered how it compared to Thyrahl—the so-called divine kingdom was rife with holy and divine mana aspects, to the degree that Cale almost expected everything to be made of gold and marble.
+
+Yet it wasn't. The place was built out of humble wood and stone. The materials were blessed and reinforced to absurd degrees, certainly, but the architecture overall was surprisingly mild; it was only the temples that received any kind of fanfare, and even then it came in the form of small individual dedications rather than enormous, elaborate carvings.
+
+Cale was sort of impressed. Most divine kingdoms were, put crudely, far more up their own asses. The people here seemed surprisingly no-nonsense and practical.
+
+Adyr was getting increasingly nervous as they approached the temple where he would begin his apprenticeship, though. Presumably this had something to do with how Cale kept expressing blasphemous degrees of familiarity with the gods. Adyr seemed increasingly certain they would both be struck with lightning at any moment.
+
+Cale had no such concerns. He just followed Adyr, then beamed brightly at the divine messenger that was apparently the spiderling's master, even as Adyr stammered his way through an introduction.
+
+In all fairness, the divine messenger in question was very much an intimidating specimen. Like all divine messengers, he was inhuman to the extreme, resembling something like a winged, upside-down pyramid made of basalt columns with dozens of piercing golden eyes hidden amongst the cracks.
+
+He also sported a glorious pair of metallic wings attached to his back and a scattering of halos tilted at various angles across his columns. Cale briefly considered complimenting those traits, but decided not to stress Adyr out any more than the poor thing was already.
+
+When Adyr finished his introductions, the divine messenger turned to face Cale, his expression and tone inscrutable. "A mortal that believes himself worthy of touching the divine," he mused. "And one who claims to have insight for my kind, at that. It is a bold approach you take."
+
+Cale paused, his brows wrinkling. "I mean, I'm not sure if I would phrase it like that," he said. "Sure, I guess? Honestly, if touching is going to be involved, I feel like it's a two-way street. Consent and all that."
+
+Adyr made a sound that sounded very much like a mortified squeak. Cale had no idea spiderlings could even make sounds like that.
+
+"I probably can offer some insight, though," he added. "If I could have your name? Adyr forgot that part. That or he already introduced you and I was too busy staring at your majestic columns to notice."
+
+The divine messenger stared down at him for a long moment. "I am Columns Reaching For The Sky," he intoned, evidently choosing to ignore the rest of Cale's commentary.
+
+Or perhaps he was just confused; it was hard to tell with divine messengers. He floated past Cale to Adyr, tilted forward like he was inclining his head, and then a silver token emerged from behind his back and flew over to the spiderling.
+
+"Young apprentice," he said. "I believe it is best if I converse with your friend in private. This token will lead you to your assigned room. Familiarize yourself with the tools available to you, and find me later if you have any questions or concerns. If this mortal truly holds divine insight, you will be rewarded, but rest assured you will not be punished if he does not. I would not hold you accountable for such a thing."
+
+"Y-yes, master," Adyr said, bowing deeply. Then he rapidly scurried up the steps like he was afraid of what Cale was going to say next.
+
+Which was probably fair, because what Cale said next was this: "Any chance I can just call you Column? You know, like Colin. Columns Reaching For The Sky is kind of a mouthful."
+
+The divine messenger rotated to stare at him. "...If you truly do have insight, then you may call me whatever you wish. I have a particular personal project in mind. The script needed for it escapes even the best of our scribes. Would you like to see it?"
+
+Cale grinned. "Lead the way."
+
+The personal project that Column was working on turned out to be an attempt at making a divine oven. Cale took one look at the half-finished artifact, turned to Column, and bowed deeply.
+
+"I've misjudged you," he said. "Also I might love you."
+
+There was a distinct pause. "I am sorry? I believe I may have misheard you."
+
+"This is an oven," Cale said, like that explained everything.
+
+Column nodded gravely. "I am attempting to divine the truths of baking magic," he explained. "It is the pinnacle of the divine, but the elements of sacred script needed to anchor the artifact escape me."
+
+"Yeah, it's a blind spot," Cale explained, walking over to the oven and tracing the engraved script reverently. "Divine messengers get an intuitive understanding of sacred script in exchange for the inability to work with certain aspects of it, like the anchoring runes you'd use to make an artifact. This is brilliant, though. You're working around the anchoring problem using a mana loop, right? Which has the bonus effect of making it much harder to break."
+
+"There is interference beyond two loops," Column admitted, but watched with rapt attention as Cale began to draw a series of loops and twirls on a still-blank section of the incomplete artifact.
+
+"There would be," Cale agreed. "Can't get rid of anchors entirely. The loop is a genius bypass, but you need at least one anchor for every two loops. Here, the anchoring rune looks like this: the strokes in the corners define direction, so you'll probably have to incorporate it properly into the design. This works well enough as a demonstration, though."
+
+"I do not..." Column trailed off, floating closer to inspect the makeshift engraving, and when he spoke again, he sounded stunned. "Wait. You are correct. This rune is capable of anchoring the script. I was unaware such a thing existed."
+
+"I know, right? I'm going to have to lodge a complaint with the gods again." Cale shook his head. "This is incredible stuff, though."
+
+"But surely there are simpler anchoring runes," Column said, his many eyes staring intently at Cale's impromptu carving; when he spoke again, it was with an odd breathlessness. "You have accounted for every variable in yours. It is as if you, too, understand the truth of baking magic."
+
+"Are you kidding? I love baking magic. It's the pinnacle of magic." Cale said. "Except no one believes me when I say that. You'd think more mages would understand."
+
+"I have often felt the same," Column said, now gazing intently into Cale's eyes. "I, too, have misjudged you. To think I have found one who admires baking magic as I do..."
+
+"I've got a baking spell I acquired from Vesuvius, actually, if you'd like to see it." Cale grinned. "I'll just need you to levitate whatever I cast it on, otherwise it'll keep spreading. Man, I can't believe Adyr didn't tell me about this. I would've worn a suit or something. Maybe an apron."
+
+Column made a strange, grinding noise. "I would prefer neither."
+
+"What?"
+
+"Perhaps just the apron."
+
+"...What?"
+
+Column visibly hesitated, several columns rotating, before he spoke again. "It is nothing. I apologize. I have never felt this way before."
+
+Cale shook his head and patted Column on one of his... columns, this time sympathetically, and ignored the way the columns shuddered in response. "Don't worry," he said. "I get this a lot. Not even the first time it's happened."
+
+"I would like to observe the spell now," Column said. "And perhaps more. Afterward. If you are... amenable."

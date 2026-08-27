@@ -1,0 +1,67 @@
+---
+id: a76f916b-5907-5076-b546-747b4b3b9340
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94: Killing Time"
+slug: 0135-chapter-94-killing-time
+partOf: labyrinth-of-the-mad-god
+position: 135
+ownLength: 1780
+unit: words
+publishedAt: 2025-02-21
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2081463/chapter-94-killing-time"
+royalRoadId: "2081463"
+---
+
+After the party finished updating their map, everyone settled down to wait until night fell.
+
+Team Earth passed the time in various ways: training, talking, and napping on and off. It was strange to have so much downtime after their experiences crossing Blackmist Bog and the basement of Darkstone Tower, where the clock was an enemy and they had to keep moving to stay ahead of a series of escalating threats.
+
+Eventually, the light began to dim, and the shadows grew long with the end of day. The party got ready to take to the air once more, but there was one last thing they needed to do first. Make sure that no other ships were in the area who would notice them leave their crystal refuge.
+
+Since she had the best eyesight, Veronica volunteered for the most unusual scouting job that Nick had seen yet. They took a coil of rope out of his pack, tied one end to the mast, then lowered her over the side. Veronica signaled every few feet to give her more rope, until she was dangling thirty feet below the bottom of their ship. She took a long look around, flashed a thumbs up, then they pulled her back aboard.
+
+“I didn’t see anything nearby,” V reported. “Although we’ll have to be careful when we head topside, in case there are ships flying above the island.” By now, early dusk had transitioned to deep twilight. It was still light enough to make Nick nervous, but they had to leave now, since navigating the crystal-studded region in the dark was a recipe for disaster. Everyone stowed their gear and grabbed hold of the railing while the women manned the controls.
+
+With a lurch, their airship rose a few feet, cleared the gemstones on both sides, and then slipped free from their hiding spot. They maneuvered around some protruding minerals and a few seconds later they were sailing through open air, following the contour of the island above to shield them from prying eyes.
+
+By the time that they reached the rim of the landmass, night had fallen on the world outside the tower. Even still, they proceeded with caution. Veronica poked the prow beyond the periphery and then stopped, waiting to survey the area before revealing the rest of the ship.
+
+Although there were lights in the distance, evidence that the pirates were still sweeping the region, there weren’t any airships near their location. V nudged the ship forward, pulled back on the wheel, and the vessel began to rise, heading toward the next big island several miles above. When they crested the rim of the one they had hidden beneath, Nick saw that it was covered in tall grass and verdant brush. That biome looks like a prairie. I wonder what the others will be like.
+
+Everyone looked in a different direction as they began climbing toward the roof of the level. The airship was slow compared to modern Earth vehicles, and it couldn’t ascend nearly as fast as it could fly in a straight line. Even still, they covered a considerable distance over the next few hours, sailing past the second giant island while heading for the third—where they planned to hide during the next daylight cycle. With any luck, they would reach it with at least an hour to spare, then use the predawn lighting to find a suitable refuge.
+
+Flying between the glowing crystal islands was a beautiful, thrilling experience. A voyage that would have been far more pleasant if they hadn’t been fleeing from a swarm of pirates who intended to slaughter them all. Even still, Nick found himself enjoying the trip—moved by the beauty and otherness of his environment. While they were surrounded by terrible danger, sailing into the unknown gave their journey the ambiance of a true adventure, instead of a desperate race to survive one cataclysmic disaster after the next. He was glad that they hadn’t been split up this time, and was ready for whatever trial the Tower of Rizzen threw at him next.
+
+He sat beside Sophia while Veronica took another turn at the wheel, watching the luminescent gemstones soaring across the sky like a miniature galaxy. Their fingertips were touching, but they didn’t pull away. It was nice to have some human contact, and who knew if any of them would live to see tomorrow? Sophia put her head on Nick’s shoulder, he draped his arm around her back, and they stayed like that until the sky began to lighten.
+
+Twenty minutes later, they were drawing near the next big sky island—a massive landmass that stretched on for miles. Unfortunately, there weren’t nearly as many crystals sticking out from the bottom, which meant the party was going to have to hide somewhere on top this time. They had to move fast, using the narrow window where they could see the surface, but it was still hard to spot them from the air.
+
+After scanning for pirates, they crested the rim of the isle, staying near the surface to reduce their profile. Like the floor of this level, the island was covered in trees and dense vegetation. Hopefully, it isn’t inhabited by sky pirates, although there are likely more beasts to contend with.
+
+“Over there,” Devin said a few minutes later. “There is a break in the trees that looks wide enough to steer the ship below the canopy, which is thick enough that we should be able to hide if we throw some plants on top to serve as camouflage.” Since there wasn’t time to look for other options, V steered the ship where Devin had pointed, then sailed between the trunks until they couldn’t see the sky.
+
+Nick jumped out and helped Shaun tie some ropes to the trees, while Devin lodged the anchor between a pile of rocks. Then everyone began gathering loose branches and vines to cover the airship. He decided that this biome resembled a tropical rainforest, even if most of the vegetation was purple and blue instead of green.
+
+He soon learned that there were tiny dinosaurs roaming all over the place. Little ones that were barely bigger than Earth rats, along with reptilian flyers the size of crows. Size Up told him they weren’t aggressive, so he took his time to enjoy an alien landscape that was so different from the world of his birth.
+
+Ten minutes later, their impromptu camouflage was as good as it was going to get. It wouldn’t fool anyone walking along the ground, but the ship should be hard to spot from the air with the branches blocking the view from above.
+
+The party reconvened once they moved below deck, deciding how best to use the daylight hours. Shaun was still short on sleep, so he moved into the adjacent room to rest. But everyone else had the enhanced Survivor trait and had gotten plenty of shuteye back in the cave and during their nocturnal voyage.
+
+Since Devin and Sophia weren’t as stealthy as the others, they volunteered to stand guard while Nick and V scouted the area. They wanted to know if there were any aggressive beasts nearby, along with any pirates stationed on the island. They also planned to use the opportunity to chart out their course, see if they could deduce anything useful from the pirates’ behavior, and keep an eye out for any valuable resources or a chance to top off their supplies.
+
+Veronica decided to survey the island, which left Nick to handle the rest. He started off by walking over to the edge, careful to remain within the cover of the canopy. When he got there, he made his way over to the rim of the precipice, took out his spyglass, and looked down.
+
+He saw dozens of airships riding the breeze, more of them than he’d been expecting. He also spotted a small base on the next island down. There were several ships on the ground, including a large vessel that Nick assumed was captained by one of the floor’s bosses, although it wasn’t nearly as big as the warship he had seen the day before. It probably belongs to one of the pirates’ tier-one elites.
+
+Over the next few hours, the sky grew thick with ships, as the pirates began searching the nearby isles. So far, none of them had landed to scout from the ground, but it was only a matter of time. The party needed to move on as soon as the sun set, or they would likely be discovered. They were still too close to the destroyed base to remain hidden for long.
+
+Nick spent the rest of the day observing the pirates, trying to get a sense for the pattern of their search and their ships’ capabilities. He thought that there were perhaps thirty of the two-man vessels, a dozen or so the same size as the ship they’d stolen, and three large warships belonging to the pirates’ bosses. Only the warships were armed with cannons, which meant that the smaller ones couldn’t attack them directly, although the buccaneers on board likely had some manner of ranged attacks or spells that were well-suited to an aerial assault.
+
+The two-man models were faster than the party’s ship. If their crews spotted Nick’s team, escaping would be difficult if not impossible. It reinforced his belief that stealth was their only viable option, since the pirates outnumbered Team Earth at least a hundred to one. Based on their flight paths, he thought that most of the pirates were stationed on the upper islands. There were likely to be more bases the higher the party climbed, making it progressively harder to remain hidden.
+
+Nick hoped that they would find a staircase before reaching the top of the level, but it seemed likely that they wouldn’t. When they got to the top, they would probably have to fight their way through the buccaneers that were guarding the main stairwell. But that was a worry for another day.
+
+When Veronica returned, she reported that while there was a dock, this island didn’t have a base, or any dinos bigger than the ones they had seen. There was, however, a small spring and a variety of plants she thought might be edible, which Nick confirmed with his Foraging skill before picking a selection of them.
+
+Now that they had restocked their provisions and gathered intel, the duo returned to the ship to confer with the rest of the team—ready to move to another big island as soon as the sun set. Nick took the opportunity to get some sleep, and Devin woke him up a few hours later.

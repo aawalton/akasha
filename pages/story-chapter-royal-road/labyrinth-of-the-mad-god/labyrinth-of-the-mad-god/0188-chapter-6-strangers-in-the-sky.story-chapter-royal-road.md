@@ -1,0 +1,281 @@
+---
+id: d046f691-3504-5457-bca7-a564709ed444
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Strangers in the Sky"
+slug: 0188-chapter-6-strangers-in-the-sky
+partOf: labyrinth-of-the-mad-god
+position: 188
+ownLength: 2559
+unit: words
+publishedAt: 2025-06-27
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2390321/chapter-6-strangers-in-the-sky"
+royalRoadId: "2390321"
+---
+
+Good to know. Nick closed his display and returned his attention to the Bladewind Badlands.
+
+By now, the sun was dipping toward the ocean, and the moon was rising along the horizon. No. Not moon, he corrected himself. Moons.
+
+The first orb was Luna—the silver moon that he had known all his life. It looked the same as always, and he could catalogue its features in crisp detail, thanks to his upgraded eyes. There isn’t any light pollution anymore. The stars should be incredible tonight.
+
+While it was deeply comforting to realize that no matter how much Nick’s life had changed, some aspects were the same as always, the other orb rising in the sky was a stranger to him. It was only about a quarter of Luna’s size when viewed from the surface, but it was brighter, shining with an electric emerald light.
+
+He knew the green moon was part of the dimension the System had merged with the Earth, but when he tried to pull up the relevant section of his codex, he received a message stating that it wasn’t accessible until he encountered the Veil in person.
+
+That was when Nick remembered that the little moon wasn’t the only newcomer in the sky. He raised one hand in front of his face, squinting through the cracks in his fingers at the Earth’s new sun. While it was so similar that he he’d forgotten about it until he thought to take a closer look, this star was just a bit larger and a shade redder than Sol.
+
+He realized that all the recent changes should have caused a catastrophic reregulation of the physics governing the planet, but that didn’t seem to be the case. Gravity felt about the same as always, despite the Earth’s new size, although it was hard to be sure with his dramatically increased Strength. The new moon must be affecting the tides too. He wasn’t sure how everything worked behind the scenes, but it seemed that the System had made sure that life would still be able to prosper, although the magic the Earth was generating might be playing a role too.
+
+He still had an hour or so before sunset, but he decided that it was a good time to find somewhere to hole up for the night. He was still learning about the considerable changes to his homeworld, and it wasn’t a good idea to explore them in the dark.
+
+Glad that he had a several-week supply of provisions in his pack and plenty of fresh water, Nick started looking for shelter while snacking on some dried jerky. He eventually decided that it would be unwise to build a fire until he knew more about the badlands and the creatures that called it home.
+
+There weren’t any hills or mountains nearby, which meant that finding a cave wasn’t an option. There was, however, an expansive grove of trees just a few miles ahead. Figuring that it was the best spot he was likely to find before he started losing the light, Nick began jogging toward the wooded area.
+
+The temperature was falling with the arrival of dusk, and soon it was barely above freezing. But with his current Toughness and Cloak of Thermal Regulation, the evening air felt brisk against his skin instead of sucking the warmth from his bones. He picked up the pace and arrived at the thicket a few minutes later.
+
+It was already dark beneath the canopy, and he was pleased to discover that his evolved eyes granted him enhanced low-light vision. After taking a careful look around while searching for hostile critters, Nick picked out a tall tree with broad branches, set his alarm traps across the bottom, and started to climb.
+
+Grinning at the flashback from his adventures on the Searing Isle, he made his way up to the top of the tree, put his PDA into sentry mode, and then stretched out on a broad branch.
+
+Unlike when he had tried this back in his tutorial, Nick didn’t bother to strap himself in. With his present Dexterity, he was in no danger of falling off, even in his sleep, and if he did, he had the reflexes to reach out and catch himself in time. Hell, I’m not sure that falling from this height would even hurt me—not that I’m eager to find out.
+
+Since he only needed to sleep for four hours each night, thanks to his Enhanced Survivor trait, he spent some time staring up at the night sky, which was filled with thousands of twinkling stars he had never seen before. He ran his gaze across foreign constellations while absorbing everything that he’d experienced since leaving Darkstone Tower.
+
+The hoots and howls of prowling predators resounded in the distance, along with some piercing cries whose origin he couldn’t divine. Fortunately, nothing was moving within the forest below his boots, so his perch seemed safe enough for now.
+
+When he was done reflecting on his day, Nick decided that it was time to check out the rest of his notifications and review his recent gains.
+
+Before he tackled that mountain of updates, he wanted to take another look at his new class first. He needed to internalize the differences between Kineticist and Force Weaver and start contemplating which direction he wanted to guide his development over the coming year.
+
+Class: Force Weaver (Rare).
+
+Primary attributes: Magic, Creativity, Mind.
+
+Attributes per level: +1 Magic, +1 Creativity, +1 Mind, + 2 Free Points.
+
+Force Weavers specialize in the manipulation of force mana, with a lesser emphasis on other forms of non-elemental mana. They do not receive any offensive skills or abilities. However, with diligent training, they can learn to shape their own spells by directly controlling the mana inside their cores. Their skills focus on evasion and defense.
+
+Ability: Arcane Shield (Active Spell).
+
+This spell creates a barrier formed from interwoven layers of force and pure mana. As a result, it can defend against most forms of attack. This barrier can be placed anywhere within 50 feet of the caster’s position but must be manually repositioned with an effort of will.
+
+Uses per day are determined by the user’s mana pool and all parameters scale with energetic attributes.
+
+Skills: Evasion. Light Shield. Acrobatics. Light Armor.
+
+Trait: Mana Manipulation (Non-Elemental) [permanent].
+
+Mana Manipulation increases sensitivity to non-elemental mana, making it easier to perceive and manipulate. This includes both the mana originating in an individual’s core and the ambient mana present in the environment. Mana Manipulation is helpful when creating original spells that are not granted by the System.
+
+When he was done reviewing the details of his first Rare class, Nick opened his updates and started reading, perusing his gains from the battle with the Guardian.
+
+Congratulations. You have accumulated enough experience to reach level [26].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+Congratulations. You have accumulated enough experience to reach level [27].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+Congratulations. You have accumulated enough experience to reach level [28].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+You have 6 free attribute points awaiting allocation at your discretion.
+
+And that was only the beginning.
+
+By pushing yourself to the limit in the midst of a deadly battle, you have conditioned your body and improved the following baseline attributes:
+
+Dexterity has increased from [12] to [13].
+
+Toughness has increased from [12] to [14].
+
+Through use, you have improved the following skills:
+
+Acrobatics has increased from [0] to [3].
+
+Evasion has increased from [22] to [23].
+
+Light Armor has increased from [0] to [2].
+
+Light Shield has increased from [13] to [16].
+
+Wand has increased from [18] to [20].
+
+Note: You may not increase your Sword skill beyond 25 until you complete the trial of mastery. The trial will not be available until your current quest is complete.
+
+While all of that was amazing, he’d also gained an incredible amount of essence from defeating the elite Tier-2 warrior and securing the Diamond reward.
+
+You have accumulated sufficient essence to advance [Piercing Ray] to Rank 3. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance [Mana Dart] to Rank 4. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance [Force Acceleration] to Rank 2. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance [Heavy Blow] to Rank 1. However, you lack the understanding required to advance the ability at this time.
+
+You have accumulated sufficient essence to advance [Arcane Shield] to Rank 1. However, you lack the understanding required to advance the ability at this time.
+
+Your species has unlocked the Profession system. You are free to pick a Profession at your convenience.
+
+Holy fucking shit. Nick’s jaw dropped in astonishment as he absorbed the totality of his gains.
+
+While the levels and skill-ups were in line with hie expectations, he hadn’t realized that the fight had awarded so much essence. He needed to learn more about how his abilities worked sooner rather than later, so that he could benefit from the upgrades that would come with their advancement.
+
+Advancing them all was going to take considerable effort, but it would be time well-spent—especially since it overlapped with one of his other goals, deepening his understanding of magic.
+
+Nick needed to learn how to control his own mana and manipulate the ambient mana in his environment. In addition to helping him advance his abilities, mastering magic would allow him to start working on creating the novel spells and modifying the ones the System had granted him. Heavy Blow was a bit different, since combat arts used stamina instead. But learning more about stamina was important too, even if it wasn’t at the top of his list.
+
+For the first time, Nick decided to hold onto his free points for a while. He wasn’t in any immediate danger and wanted to meditate on his path to power before deciding how to spend them. There were also some useful side effects from raising certain attributes with his free points—most notably Creativity and Mind—which he might want to take advantage of later.
+
+Alive with an intoxicating sense of accomplishment, he opened his profile to examine the totality of his gains.
+
+Contestant Profile: Nicholas ‘Nick’ Henry.
+
+Level: 28.
+
+Tier: 1.
+
+Species: Human of Earth (D).
+
+Class: Force Weaver (Rare).
+
+Base attribute points per level: +1 Magic, +1 Creativity, +1 Mind.
+
+Free points per level: 2. You have 6 unspent free points at this time.
+
+Attributes
+
+Strength: 12 (20) Dexterity: 13 (27) Toughness: 14 (29)
+
+Mind: 12 (20) Creativity: 12 (18) Charisma: 7
+
+Magic: 7 (25) ??? ???
+
+Abilities
+
+Ability Slots: 2 active, 1 passive, 1 free.
+
+Used: 2 active, 1 passive.
+
+Note: Only abilities granted by ability stones and unranked abilities retained from previous classes require slots.
+
+Active Abilities
+
+Arcane Shield (Spell). Rank: 0. (You have enough essence to advance the ability to Rank 1 but lack the understanding required to do so).
+
+This spell creates a barrier formed from interwoven layers of force and pure mana. As a result, it can defend against most forms of attack. This barrier can be placed anywhere within 50 feet of the caster’s position but must be manually repositioned with an effort of will.
+
+Mana Dart (Spell). Rank: 3. Path: Vital Energy Damage. (You have enough essence to advance the ability to Rank 4 but lack the understanding required to do so).
+
+Creates a magical projectile formed from pure mana that damages all forms of vital energy (health, mana, and stamina).
+
+Piercing Ray (Spell). Rank: 1. (You have enough essence to advance the ability to Rank 3 but lack the understanding required to do so).
+
+Creates a rotating drill of force mana. The spell moves fast but takes time to reach full power.
+
+Heavy Blow (Combat Art). Rank 0. (You have enough essence to advance the ability to Rank 1 but lack the understanding required to do so).
+
+Heavy blow consumes stamina to imbue a weapon strike with extra inertia, increasing its destructive potential.
+
+Passive abilities
+
+Force Acceleration. Rank 1. (You have enough essence to advance the ability to Rank 2 but lack the understanding required to do so).
+
+Drastically increases the speed of movement in exchange for draining mana at a rapid rate. (This ability may be turned on and off at will.)
+
+Class Traits
+
+None. (The trait for this class has been incorporated into your bloodline).
+
+Geneline Traits
+
+Awakened to Magic: +1 to magic.
+
+Gift of Tongues: you can understand and speak the languages of all intelligent creatures.
+
+Versatile: +1 to all attributes. +1 free ability slot.
+
+Bloodline Traits
+
+Filled bloodline slots: 4. Open bloodline slots: 6.
+
+Blightbane: Your bloodline trait capacity has doubled. +2 to all attributes.
+
+Force Adept (Enhanced): You receive a significant bonus to mana efficiency and scaling from energetic attributes when casting spells that use force mana, and a modest bonus to those using pure mana. Force Adepts are unable to cast elemental spells and receive a substantial penalty when manipulating elemental-aspected mana in any way.
+
+Survivor (Enhanced): You require 50% less food, water, oxygen, and sleep.
+
+Mana Manipulation [Non-Elemental]: Increases your sensitivity to non-elemental mana, making it easier to perceive and manipulate. This includes both the mana originating within your core and the ambient mana present in the environment. Mana Manipulation is helpful when creating original spells that are not granted by the System.
+
+Faction
+
+School of the Ever-Surging Blade (Initiate)
+
+Faction Bonus: Sword skill is unlocked with no cap, regardless of class.
+
+Skills
+
+Active
+
+Acrobatics: 3
+
+Evasion: 24
+
+Light Armor: 2
+
+Light Shield: 16
+
+Sword: 25
+
+Wand: 20
+
+Inactive (inactive skills may be used but not improved.)
+
+Foraging: 10
+
+Throwing: 9
+
+Size Up: 10
+
+Inventory (Uncommon and above)
+
+Bag of Molding (Rare).
+
+Battlemage Armor (Rare). Modifications: Self-Maintenance. Durability. Flesh Guard. Otherling Resistance.
+
+Battlemage Helm (Rare). Modifications: Self-Maintenance. Durability. Transparency. Mind Guard.
+
+Elixir of Restoration (Rare). Modifications: Soulbound.
+
+Explorer’s Boots (Rare). Modifications: Self-Maintenance. Durability. Elemental Resistance. Sound Dampening. Enhanced Leap.
+
+Wand of Force (Rare). Modifications: Soulbound. Skill Activation (Wand). Living Artifact.
+
+Arena Dagger (Uncommon). Modifications: Eversharp.
+
+Adventurer’s Toolbelt (Uncommon). Modifications: Self-Maintenance.
+
+Pugilist’s Gloves (Uncommon). Modifications: Durable. Self-Maintenance.
+
+Adventurer’s Coat (Rare). Modifications: Durable. Self-Maintenance. Elemental Resistance. Force Distribution.
+
+Cloak of Thermal Regulation (Uncommon). Modifications: Self-Maintenance.
+
+Caster’s Buckler (Uncommon). Modifications: Durable. Self-Maintenance. Magic Resistance.
+
+Half-Length Scabbard (Uncommon). Modifications: Durable. Self-Maintenance. Quickdraw.
+
+Blightbane (unidentified).
+
+??? Short Sword (unidentified).
+
+??? Wand (broken, unidentified).
+
+When he contemplated just how far he’d come since waking up alone on the Searing Isle with his memory in tatters, it blew him away.
+
+He had changed so much that the Nick from his old life would barely recognize the man perched in the branches, staring up at alien stars. The fight to keep his planet safe had only just begun, but he had grown powerful enough to make a real difference, and this was only the beginning of what he hoped to achieve.
+
+Filled with pride in his accomplishments and hope for the future, he closed his profile and let the susurrus of the wind stirring the treetops carry him away to the land of dreams.

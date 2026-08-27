@@ -1,0 +1,383 @@
+---
+id: 4ad165a5-456f-56a0-8280-63f64c34e723
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22"
+slug: 0023-chapter-22
+partOf: light-cleric
+position: 23
+ownLength: 4915
+unit: words
+publishedAt: 2021-07-17
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/717919/chapter-22"
+royalRoadId: "717919"
+---
+
+Piety rode the mild mannered dun gelding easily, but not smoothly. She knew she was riding a horse, she knew she’d been strapped to the saddle after the third time she’d fallen off, but she only barely felt the gait of the horse, tasted the dirt kicked up by their passage. Piety was turned inward, passing the time in the room in her mind. She sat at the desk in her mindspace, reading a book she hadn’t put there. The book was bound in leather dyed black, and it detailed, in word and gruesome diagram, the nature of the undead. The book credited no author and claimed no title.
+
+In Sunslance, Devorah Kempenny had claimed that she’d created a new undead, but there hadn’t been time for details. Father Shane had talked about zombies and liches, but again, there hadn’t been time for details. Since deciding to hunt the vhamps, Piety had become an expert in Devorah’s homebrewed undead. She understood their physical capabilities and weaknesses. She understood their bloodlust was a drive for survival. She understood they had no capacity for complex thought. And, most recently, she had learned they were changing. Why, how, or into what, she had no idea.
+
+So she read the black-bound tome detailing the undead in hopes of gaining some insight. The tome had no entry on vhamps, but covered a wide variety of other creatures classified as undead.
+
+Zombies were more mindless than vhamps with no motivation for self-preservation beyond acquisition of food—living flesh.
+
+Ghosts were the psychic echoes of the dead and existed based upon the attention and memories of others. Ghosts tended to fade away if ignored or forgotten except in circumstances where they gained full awareness and autonomy. Ghosts tended to not be the same person in undeath that they had been in life but rather a version that amplified their most dominate and dramatic traits.
+
+Liches were those with powers who had extended their lives past death with magic. Their bodies became desiccated and withered, but their minds stayed sharp, the dichotomous counterpoint to zombies. The lich’s advantage lay in an increase in powers after death.
+
+The book went on at length about ghouls and banshees, ghasts and revenants, wraiths and specters; it detailed their habits, powers, and weaknesses, and they all had one thing in common; the undead had a taste for the living. Whether it was flesh, memories, or magical power, the undead wanted it, and eventually it became their primary motivation.
+
+Not that the information helped much. Piety had hoped that in reading about other forms of undead, she might be able to figure out what was happening with the vhamps and how better to eliminate them. So far, nothing had seemed relevant.
+
+Piety leaned back in her chair and took a deep breath that popped her back. She rubbed at her aching eyes. She placed the black ribbon set into the book’s binding at the page where she’d left off and returned the book to the shelf.
+
+Automatically, she looked at the chessboard. The board remained as it had for months. Since the battle at Upton Port she hadn’t felt in the mood for games.
+
+This time, however, there was a slip of paper on the board, held down by the white royal. Lifting the piece, she retrieved the note.
+
+White,
+
+Still there?
+
+-Black
+
+Piety looked around; the room was empty but for her.
+
+She went back to the desk and retrieved the ink and quill. She scrawled a quick note on the back of the same piece of paper.
+
+Black,
+
+Still here.
+
+What is your name?
+
+-White
+
+She placed the note under the black royal.
+
+When Piety pulled herself back into her body, night was falling. Temperance rode to her left and Tobias rode ahead of her. She took a deep breath and straightened her back. It was a bit unfair, she thought, to suffer the aches of poor posture both in her corporeal body and in her mindspace. She began unbuckling the straps holding her onto the saddle, which alerted Temperance to her presence.
+
+“You’re back,” Temperance said. “Learn anything useful?”
+
+Piety rubbed at her tingling thighs. “There’s a creature called an organ thief. It’s a kind of zombie that sneaks up on someone in the night, slices open their back and slips into their body. Then it eats the person from the inside out. Most interesting, it eats the person’s brain first and sort of takes over the body, pretending to be the person it’s eating. It takes the creature several days to completely feed and, sometimes, it can go completely undetected.”
+
+Temperance slapped Piety’s shoulder. “That’s disgusting.”
+
+Piety put a hand to her shoulder, shocked. “Ow,” she protested.
+
+“That… that’s just horrible. I’m not going to be able to sleep tonight. Why did you tell me that?”
+
+“You asked.” Piety rubbed at her shoulder. “That hurt, Temperance.”
+
+Temperance’s expression softened. “Sorry. I’m just… That really is horrifying, Piety. Sorry.”
+
+Piety shrugged. “Sorry.”
+
+Further discussion was forestalled by Tobias who glanced over his shoulder and said, “We’re here.” He pointed to lights on the darkening horizon.
+
+“Where’s here?” Piety asked.
+
+“A farm. The only cleric we’ve confirmed to have survived sent her last report from this farm.”
+
+“There was a survivor?” Piety asked. “I thought they all died.”
+
+“All but one.”
+
+Piety didn’t press the issue. Tobias, she didn’t know his last name, was a man of few words. He spoke to them only when he had to or if directly addressed, and he always referred to them as “mother”, which was awkward.
+
+They approached a large farmhouse, hidden in the shadows of approaching night. Children came forward to take their horses. Clearly, they were expected. Tobias spoke with a man at the front door while Piety and Temperance unloaded their bags from their horses. When she approached, Piety recognized him.
+
+“Rauf Kaver.”
+
+The large Rauf bowed. “Mother.”
+
+“Rauf, we’ve met, a little over two years ago. Temperance and I and… and Father Vytal, we helped Catherine Smith with the birth of her baby.”
+
+“By the Holy Saints,” Rauf said as she took a step toward him and into the light from the farmhouse, He smiled and bowed formally. “You’ve grown, Mother.”
+
+They were shown to the dining hall where people gathered, visiting before dinner. The hall was as she remembered it: large enough for two long tables and filled with people, a tall ceiling swallowed the sound of all those people talking, turning it to a muted babble. Rauf Kaver led them to the head of one of those tables where he insisted Piety and Temperance take the place of honor. Rauf took the place to their left and Tobias sat to their right.
+
+Dinner, too, was as she remembered it: a wealth in quantity and variety of food. The smell of roast turkey and boiled potatoes, of mulled cider and well-aged cheese filled her with a sense of comfort. In the years since leaving Sacred Heart, Piety had been well-fed. Even on the battlefront at Pinefort she had not gone hungry, though the food had been basic. But dinner at Rauf Kaver’s had been the first time she’d been presented with a wealth of good foods and been allowed as much of it as she wanted, and the memory reminded her how thankful she’d been for Father Vytal’s intervention; it reminded her that it was Rauf Kaver’s brand of hospitality she wanted to protect in this world.
+
+Once dinner was served, Rauf stood and silence soon followed.
+
+“My dear friends,” he addressed them, “tonight we have amongst us an honored guest. Stories travel fast, and I’m sure you’ve heard of her by the name for which she has become known: the Light Cleric. She is a war hero and a hunter of demons, and even if only half the stories are true, she has saved hundreds of lives. But she first came to this hall a little girl called Piety and helped birth Hannah Smith during a snow storm.”
+
+Piety’s eyes went wide and a flush crept to her neck and cheeks. She had not expected this. Everyone looked at her. She grabbed for Temperance on her left and felt her friend’s hand there and ready. Temperance gave her a reassuring squeeze.
+
+“Mother?” Rauf Kaver turned to address her. “Would you lead us in prayer this evening?”
+
+Piety nodded automatically, but it took a nudge from Temperance to make her stand as Rauf sat. She looked at Temperance who grinned at her.
+
+“I don’t know what to say,” Piety spoke silently and desperately into Temperance’s mind.
+
+“Me neither, but keep it short. I’m hungry.”
+
+Temperance let go of Piety’s hand, and Piety looked out at the people of Rauf Kaver’s farm as they bowed their heads and closed their eyes, and she still had no idea what to say. The Mother’s dinnertime prayers had always been long rants disguised as sermons and the prayers before dinner at the High Temple had been formal and ritualized. But then she remembered when Father Vytal had been asked by the same man to perform the same service. Temperance was right, these people would appreciate a simple and honest prayer.
+
+“Love be unto God, as His love be unto us and the memory of those lost in these difficult times. We thank Him for His love and His guidance. We remember the lessons of His Saints: tolerance, hospitality, and kindness. We remember His gift, the opportunity to bring joy to this world. So be it truth.”
+
+Piety sat amid a chorus of murmured “So be it truth.”
+
+“Very pretty,” Temperance said quietly, and Piety smiled at her.
+
+When dinner was done, Piety touched Rauf’s shoulder gently. “Sir, there is a sister here?”
+
+Rauf nodded. “Yes, Mother. She is… ill and doesn’t come to dinner. I’ll show you to her if you like?”
+
+Rauf Kaver had taken in the sister as he took in all wanderers who asked for a place to stay. Her illness had prompted him to house her in his own home where his wife and children could help tend her. On the second story of the farmhouse, Piety, Temperance, and Tobias waited patiently outside a small bedroom while Rauf knocked lightly at the door. The door opened and a short, stout woman slipped into the hall. Rauf smiled and the woman graced him with a small kiss.
+
+“Maggie, these folks need to talk with the sister.”
+
+Maggie frowned. “She’s unhappy tonight. Could it wait until morning?”
+
+“I’m sorry, ma’am,” said Piety. “I need to speak with her now.”
+
+“Maggie, this is Piety.”
+
+Maggie Rauf regarded Piety, then Temperance. “I remember you two. You’ve filled out well.” Piety smiled and waited, and eventually Maggie spoke again. “Just be gentle with her. Whatever she saw, it wasn’t pleasant.” She opened the door.
+
+Tobias stepped into the room and took position by the door, one hand resting lightly on his sword hilt. Piety and Temperance followed. It was a small bedroom, big enough for a narrow bed, chest of drawers, and a small chair. A woman sat in the chair, staring out the window at the gibbous moon. She wore a shawl about her shoulders and her hair shone silvery in the moonlight. Piety looked at Temperance who shrugged.
+
+Piety swallowed and spoke. “Sister?”
+
+The woman did not respond.
+
+Piety approached the woman carefully and Temperance came with her. Mrs. Kaver had said that the sister was unhappy and Piety didn’t want to upset her further.
+
+Temperance tried next. “Sister? We’re sorry to bother you, but we’ve been sent by Royal Isabel Loreamer to investigate the report of undead activity in this area. You were a part of the previous investigation, weren’t you?”
+
+Still, no response.
+
+Piety approached slowly to stand at the woman’s left shoulder, Temperance at her side. The two exchanged glances again. Piety took a breath.
+
+“Sister, my name is Piety Churchstep. The Royal sent me because I’ve begun to… achieve a bit of a reputation. Some people call me the Light Cleric. If I’m going to hunt the vhamps in this region, I need to know what you know. Won’t you help me do that?”
+
+“What did you say?” The woman’s voice was thin, almost a whisper. She shifted slowly and looked at them. Her face was lined with age and dark circles cupped her eyes, but held a familiarity Piety could not place. Thin-fingered hands clutched the shawl. She looked sunken, as though if the shawl were lifted away, they would find nothing underneath but chair.
+
+“I said, Royal Loreamer sent us—“
+
+“I know who sent you. What is your name?
+
+Piety knelt so that she could look into the woman’s eyes. “My name is Piety Churchstep.”
+
+“Piety.” The woman smiled. “She told me you had died. Serendipity that we should meet again so close to Sacred Heart.”
+
+And Piety remembered from where she recognized the face.
+
+“Sister Sheliah.” Piety bowed.
+
+Sister Sheliah’s eyes widened with surprise. “You remember me? We met for five minutes, ten years ago and you remember me?”
+
+Piety nodded. “You wished me a happy birthday, introduced me to Temperance, and kept the Mother from killing me. And you smiled at me. That was the first time anyone smiled at me. Of course I remember you.”
+
+Sister Sheliah smiled, but it wasn’t the same; it was sad. “I’d never seen her so angry as when you started to glow. She was always bitter that she wasn’t gifted with powers. To see them in an orphan with such an obvious difference… She was never kind, but that night sent her over the edge. She tried to tell us all that it hadn’t happened, that you hadn’t really glowed. It was my job, as Mistress of Orphans to report to the High Temple about your abilities, but she forbade it.”
+
+She looked behind Piety at Temperance.
+
+Temperance folded her hands at her waist and bowed. “Sister,” she said.
+
+“You’re still taking care of her,” said Sister Sheliah.
+
+Temperance nodded. “Yes, Sister.”
+
+“Good. Thank you.” She looked at Piety again. “I’m sorry I didn’t stay. She made me leave.”
+
+“I know.”
+
+Tears made quick, silent rivulets down the lines of Sister Sheliah’s face. She showed no other sign of her grief, no shaking shoulder or quivering lip, just the silent tears.
+
+“It was my job to protect you,” she said.
+
+“You did,” Piety said. “You didn’t let her kill me that night.” She looked over her shoulder at Temperance.
+
+Temperance knelt beside Piety. “She’s right. I saw it. We all saw it. The Mother had gone mad and she just kept kicking Piety. You stood up and made her stop. You got between them even though she screamed at you and hit you.”
+
+Sister Sheliah did not respond, she only gazed at the two of them and cried her quiet tears.
+
+When Piety’s knees began to ache, she said, “Sister, I’m sorry, but we need to talk about what you found in Appledel, about the vhamps.”
+
+The look of terror was brief, but visible. Then Sister Sheliah swallowed hard, took a breath and said, “Yes, of course. Mrs. Kaver told me there was a pair of Mothers here I was to speak with. Go ahead and show them in.”
+
+Piety blushed. “Ah, Sister? We are they.”
+
+Sister Shelia stood and Piety and Temperance stood as well, shoulder to shoulder.
+
+Facing away from the window, the sister’s face was in shadow, her expression invisible. “You?” She sounded incensed.
+
+Temperance nodded and Piety said, “Yes.”
+
+“But you’re too young. They sent children to face such a threat?” Sister Sheliah crossed her arms angrily. “What are the fools thinking?”
+
+“What threat, exactly?” Piety tried.
+
+But Sister Shelia shook her head. “No. I won’t tell you. It was my job to protect you and I will not fail this time.” She turned back to the window and sat.
+
+Piety was taken aback. She had expected the sister they encountered to perhaps be unwilling to discuss events out of fear, but not this. She had not expected Sister Sheliah, and she had not expected her to try to protect them. She looked at Temperance who looked equally nonplussed and then over her shoulder at Tobias. Tobias’ face remained impassive but he gave a small shrug.
+
+Piety sighed. “I’m sorry we bothered you, Sister. We’ll be leaving in the morning. If you change your mind before then, let us know.”
+
+She turned to leave and Temperance followed her. Tobias opened the door and stepped into the hall, looking up and down its length.
+
+“Leaving for where?” Sister Shelia demanded. Cloth rustled in the dark room as she shifted.
+
+Without pause in her stride, Piety said, “Appledel.”
+
+Tobias stood in the hall now, back to the far wall, hands at his side, stance loose but not relaxed. He reminded Piety of a green tree branch drawn from its resting point, tensed, ready to snap to action, but momentarily still.
+
+“You can’t go there,” said Sister Sheliah. “It’s become dangerous.”
+
+Temperance hesitated, but Piety took her hand. “Keep walking,” she said mentally.
+
+“She’s worried, Piety.”
+
+“She should be.”
+
+Temperance expressed understanding without words and they continued to the door.
+
+“They killed two Swords of the Church. You’re only girls. How can you stop them?”
+
+“Stop who?” Piety asked. She stopped walking but did not turn around and did not release Temperance’s hand. She remembered Sister Sheliah as a kind smile and a warm hand, but she’d still been a sister of Sacred Heart and defying a sister of Sacred Heart rekindled a fear she’d thought buried over a year ago. Holding Temperance’s hand helped keep her resolve.
+
+Sister Sheliah did not respond.
+
+Piety blinked and focused and drew upon her power. It was easy to do so. She sent her senses to the sister, and whispered in her mind. “I am a telekinetic, I can hold without touching; I am a photokinetic, I can create light that blinds; I am a telepath, I could take the information forcefully from your mind.” As she spoke, she showed the sister images of her most recent fight with a vhamp.
+
+Sister Sheliah gasped. Piety turned to see the sister leaning heavily on the wall, a hand to her chest, her breathing labored. She looked frightened.
+
+“I’m sorry Sister Sheliah,” Piety said aloud, “but you cannot protect me anymore. Help us or don’t, we’re going to Appledel tomorrow.”
+
+They were in the hall before Sister Sheliah spoke again. “Wait.”
+
+Piety turned to look at her again.
+
+“If you can just take the information, why not do so?”
+
+“What?”
+
+“If you’re powerful enough to take it, why not?”
+
+Piety frowned. “Because I have no taste for abuse.”
+
+Sheliah took a step away from the wall and held out a hand, entreating. “Please? It would be easier for me.”
+
+Piety hesitated. Temperance squeezed her hand.
+
+“You could do it,” Temperance thought at her. “You did it for me.”
+
+Piety nodded. “I could do that, if you would prefer it so.”
+
+Sheliah nodded and the relief was plain on her face, even in the shadows.
+
+Piety sensed the vhamps only moments before they crashed through the window. There were two of them, one right after the other. The first slammed into the chair Sheliah had sat in only minutes before, dashing it to splinters, shredding its upholstery, and knocking the stuffing from it. She could feel their hunger, their bloodlust, but on top of that, Piety sensed excitement, anticipation for the coming conflict, something she’d never sensed in a vhamp before.
+
+The vhamps tumbled to their feet with unnatural grace and speed. In the shadows of the room lighted only from dim lamps in the adjacent hallway and a fat gibbous moon, amid the rubble of broken window and chair, they were a vision of beauty. Smooth, pale skin; flowing, white hair; well-sculpted faces; they were dressed as richly as nobles in voluminous silk shirts under soft leather vests, linen breeches, and leather boots, though their clothes ran to black and white, as though attending a funeral. Their eyes glowed crimson. They were different from the emaciated, rag-clad horrors she knew.
+
+They reminded her of Frederick Vahramp.
+
+Piety was readying her defense before she felt them prepare to strike, like feeling the rumble of thunder before hearing it, tasting the fall of rain before seeing it. Her mind was quicker than their bodies, despite their unnatural speed. When they sprang, she had a firm wall of force between her and them. But they did not leap at her, they leapt at Sister Sheliah, who still stood beside the shattered window, trying to make sense of the sudden sound and chaos, who was just now beginning to scream.
+
+Fingers became elongated claws, gleaming black in the little light, they tore at Sheliah: throat, belly, thighs. Piety sensed her death, felt her consciousness shocked from her body by violence, and she was gone.
+
+Piety pulled at her power and cast it about the room, like snapping dust from a bed sheet laid dormant too long. Blinding light filled the room bringing a cacophony of screams, physical and mental. But the creatures did not burst into flame. She could feel their panic, she knew they were in pain and would soon burn if they did not flee.
+
+One of them lunged for the door but was met by Tobias whose naked sword drove through its chest. The vhamp clutched at the sword, then raked at Tobias with its claws, but Tobias had scored a heart-thrust and the undead creature’s strength drained rapidly, like the blood from its chest. Tobias steadied himself, withdrew his saber and brought it around in a horizontal strike that took off its head.
+
+The other stumbled around the room. Falling to its knees it gazed up at Piety, tears of crimson streaking its beautiful face. In a high, feminine voice of cultured diction, it said, “Mercy, Holy One, mercy, please, please…”
+
+Piety looked into the woman’s dim, red eyes and saw true penitence, fear, and pleading. She saw sincerity. She saw that this vhamp, this woman, had meant no harm and had been tricked into coming to this place and attacking Sheliah. This woman was not at fault. Piety knew she must show mercy.
+
+Slowly, carefully, Piety relaxed, and the light in the room dimmed. The vhamp woman’s eyes regained their healthy glow and she smiled at Piety, showing off elongated canines that ended in sharp points.
+
+“Piety?” Temperance put a hand on Piety’s shoulder.
+
+With a shudder and a gasp, Piety broke eye contact with the creature and the charm shattered. The creature screamed and leapt, claws outstretched. Temperance pulled at Piety’s shoulder and the claws caught only a glancing blow along her shoulder sending blood down her arm and across the floor.
+
+Tobias slammed into the vhamp bodily, matching its speed and sending it sliding across the floor. It slid to its feet with a grace that defied reality, but Tobias was already following up the attack, moving faster with his sword than Piety had ever seen, faster even then Jack Shane, Sword of the Church. His saber slid through its chest like it was water and pinned it to the wall. The creature coughed, a wet raggedy sound that spilled blood over its chin and stained its silk shirt.
+
+“It’s a telepath,” Piety said. “It had persuaded me to spare it.”
+
+“How?” Temperance asked.
+
+And Piety wondered the same. She wondered how it had gotten around her mental shield and the vhamp’s thought came to her: the eyes. This undead creature enhanced its telepathic persuasion by meeting the eyes of its victims, allowing it to slide through mental shields.
+
+Tobias waited until it stopped clawing at the sword blade, stopped writhing, stopped gasping. Piety felt its mind still, not dead, but not functioning either. Temperance looked away as Tobias withdrew the sword. The creature slumped forward, and Tobias took its head off with a swipe too fast to follow.
+
+“You’re very fast, Tobias.”
+
+The bodyguard cleaned his sword and sheathed it. “You’re not the only one with powers, Mother.”
+
+Piety turned her attention to the torn body of Sheliah. She knew Sheliah was dead, she’d felt it happen, but she couldn’t help but stretch her healing senses to the woman who had once saved her life.
+
+“Piety, you’re bleeding,” said Temperance with a gentle hand on her shoulder. “I’m sorry, but she’s dead, and you must tend yourself.”
+
+Piety nodded and absentmindedly summoned her healing power. She felt her shoulder itch as it mended the damage the vhamp’s claws had done. But as she did so, she felt something tugging at her mind, desperately vying for her attention.
+
+“Temperance, I’m going to… I’m going to lie down now.” And she lay upon the floor, over Temperance’s objections, and closed her eyes.
+
+She opened her eyes on the familiar setting of her mindspace. To her left, the wall opposite the desk was gone, replaced by the now familiar starry cosmos. Standing at the lip of the cosmos was Sister Sheliah, staring into the infinite abyss.
+
+“Sheliah?”
+
+The woman turned, confused. “What is this?” she demanded. “Who are you?”
+
+Piety swallowed, throat dry. Sister Sheliah was dead, she knew that, yet here the woman stood, in the space in her mind. Some of her lingered in the world of the living and, according to Piety’s recent readings, this was the bailiwick of necromancers and had the potential for undeath.
+
+Piety spoke carefully, uncertain what to do. “You need to go now.”
+
+Sister Sheliah turned back to the cosmos and sighed, a look of contentment to her features, the set of her shoulders. “Out there?” she asked.
+
+“Yes, out there.” Piety had no idea what was out there for the manifestation of a dead person. She didn’t know how Sheliah had appeared here, if she was a ghost as described in the black-bound book or, perhaps, a soul as described in the Scriptures.
+
+“What’s out there?”
+
+“I don’t know.”
+
+“Why not?”
+
+“It’s not my time to know. You need to go now, Sheliah.”
+
+Sister Sheliah nodded but hesitated. “There was something I was supposed to do before I left. Something important.”
+
+“It doesn’t matter now.”
+
+Sister Sheliah faced Piety. It wasn’t that she turned away from the cosmos, but that one moment she was facing the cosmos and the next facing Piety. She fixed Piety with a stern glare. “It does. You wanted to know what I saw in Appledel, and it’s important that I tell you. I am Sister Ruth Sheliah and it’s important I tell you.”
+
+Piety nodded slowly. “All right.”
+
+“Stanley and Garret were brothers. They were tall men, thin and getting on in years, but strong and clever. They were Swords of the Church experienced in hunting undead. I was their support, I maintained supplies and cooked and rented rooms at inns so that they could focus on the hunt. But at Appledel…” She shook her head and fell silent.
+
+Piety waited. Sister Sheliah was dead, but also, somehow, here in Piety’s mindspace, and Piety was afraid that if she pressed her, or upset her, that something horrible might happen.
+
+“People were disappearing off the streets at night, some were taken from their homes. No one ever saw what took them, they just disappeared. People started fleeing. Packing up what they could and leaving. Half the people are gone. Everyone lives near the church now. Mother Superior has set herself up as a bastion against the evil creatures. She’s gone a bit mad… I think she’s involved somehow.”
+
+Sister Sheliah took a long, slow breath and turned back to the cosmos, this time actually turning her body.
+
+“The brothers said there was a concentration of vhamps in the mountains, west of Appledel, that they weren’t the starving wretches created by General Vahramp. They went to investigate and didn’t come back. I stayed at Sacred Heart. There was an attack and… and I fled.” She cried, hiding her face in her hands.
+
+Piety approached slowly, but Sheliah took no notice until she put her hand gently on the woman’s shoulder. It felt solid.
+
+“You need to go on now,” Piety said softly.
+
+“No,” Sheliah said through broken tears, “I have to tell her something. It’s important that she knows… and I… my name is… and I can’t remember.”
+
+“You already have,” Piety assured her. “She knows and she’s grateful you told her.”
+
+Sheliah took her hands away from her face and looked into the cosmos again. “What’s out there?”
+
+Piety began to reassert she didn’t know, but hesitated and considered. “Peace.”
+
+Sister Sheliah sighed. “I’m afraid.”
+
+“I know.”
+
+“Will you come with me?”
+
+Again, Piety hesitated. She had stepped into the abyss before and it had taken Temperance to bring her back. Piety wasn’t certain she could come back on her own.
+
+“I can’t go by myself,” Sheliah said desperately, clutching at Piety’s hand.
+
+“All right, it’s all right. I’ll go with you.”
+
+Piety took Sister Sheliah’s hand, and together, they stepped from the stone floor of the mindspace into the great nothingness beyond.
+
+“Oh God, it’s so bright.” Sheliah’s whisper shivered through the nothingness and a gust of air ruffled Piety’s hair. Piety felt Sheliah’s consciousness untighten as it receded, like a knot coming undone, and then it was gone, as though it had never been, and Piety was alone in the cosmos.

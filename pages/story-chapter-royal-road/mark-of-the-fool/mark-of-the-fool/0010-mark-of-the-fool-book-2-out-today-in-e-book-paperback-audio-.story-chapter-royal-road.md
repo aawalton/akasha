@@ -1,0 +1,17 @@
+---
+id: 2b3a5300-0936-53b3-aa99-e938ed551718
+page-type-slug: story-chapter-royal-road
+title: "Mark of the Fool Book 2 out today in e-book, paperback, audio! (today's chapter coming soon)"
+slug: 0010-mark-of-the-fool-book-2-out-today-in-e-book-paperback-audio-
+partOf: mark-of-the-fool
+position: 10
+ownLength: 150
+unit: words
+publishedAt: 2023-01-10
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1084047/mark-of-the-fool-book-2-out-today-in-e-book-paperback"
+royalRoadId: "1084047"
+---
+
+Helloooooo everybody!Welp, it's that time! Today's chapter is coming later today, I'm a bit swamped at the moment, but I'm here to announce...BOOK 2 IS OUT!!!!Book 2 Amazon: https://www.royalroad.com/amazon/B0BFCD4LM5?maas=&ref=
+
+Book 2 Audible: https://www.audible.com/pd/Mark-of-the-Fool-2-Audiobook/B0BK9Y83LVI'm super pumped guys, and I'm once again asking for a wee favour, since amazon/audible is having a glitch.Basically, there's some delays in updates in their ranking system plus audio preorders are going out slowly today. As such, I need some help!If anyone, can leaving a rating on amazon, downloading the book if you have KU and leaving a rating on audible will help me immensely.Also, I would love some upvotes on these posts, if you have reddit:1. https://www.reddit.com/r/ProgressionFantasy/comments/108b7t7/mark_of_the_fool_2_is_out_today/Find this and other great novels on the author's preferred platform. Support original creators!2. https://www.reddit.com/r/litrpg/comments/108b7to/mark_of_the_fool_2_is_out_today/3. https://www.reddit.com/r/Pathfinder_RPG/comments/108bg74/the_sequel_to_pathfinderinspired_novel_mark_of/    4. https://www.reddit.com/r/audible/comments/108b7yt/mark_of_the_fool_2_is_out_narrated_by_travis/5. https://www.reddit.com/r/audiobooks/comments/108b7za/mark_of_the_fool_2_is_out_narrated_by_travis/Thank you all for walking with me on this journey so far. You're all wonderful!Alright, I'm back to editing today's chapter! Cya!

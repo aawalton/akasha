@@ -1,0 +1,173 @@
+---
+id: e7c83ff9-7af8-561f-b382-4abff7828e59
+page-type-slug: story-chapter-royal-road
+title: "88. Entry Test"
+slug: 0007-88-entry-test
+partOf: leveling-up-the-world
+position: 7
+ownLength: 2036
+unit: words
+ownProgress: 2036
+publishedAt: 2021-03-30
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/655135/88-entry-test"
+royalRoadId: "655135"
+markedReadAt: "2026-06-29T22:40:22.082Z"
+---
+
+The “evaluation room” was in the basement of the building. When Estezol initially took Dallion there, the boy expected it to be an enormous underground area full of traps and dungeons. Instead, the room he was brought to was only marginally bigger than his room at the inn. Shelves of cubes, spheres, and pyramids covered the walls. In between there was the occasional wooden cabinet with tomes of books, and the occasional scroll. Three people sat in one corner, playing a game that Dallion could only assume to be a mix between dice and poker. Judging by the stack of coins on the table, the old man with somewhat aristocratic clothes was winning.
+
+“Hey, sir.” Estezol went to the table, holding Dallion’s “application” with both hands. “Have a new candidate for you.”
+
+“Can’t someone else take care of this?” the old man grumbled. “I’m on a winning streak here.”
+
+Even so, he grabbed the piece of paper from the bearded man’s hands and started reading. A few seconds in he looked up at Dallion, then back at the piece of paper.
+
+“A sixer? After a month?” he said in disbelief.
+
+Looking at him, he was one of those people that children imagined a university professor should be, but rarely was—old, wrinkly, cleanly shaven, with white hair and elegant old-fashioned attire. Back on Earth, he could have earned a living as a movie extra.
+
+“Have you tested him at all?”
+
+“Only the basics, sir. I was hoping for you to conduct the test.”
+
+“Hmm.” The man glanced at the sheet of paper again. “Boy, why did you decide to join our guild?”
+
+“Actually, Jiroh brought me here,” Dallion hesitated for a moment, “Sir.”
+
+“Hardly proper. Still, I guess she had a good take on such things. Estezol, schedule a session for this afternoon. I’ll—”
+
+“I’ll do the test,” a female voice said from behind.
+
+As he turned around, Dallion saw that the entire entrance was filled with a woman clad in full-plate armor. The first thing that came to mind was to compare her with a noble—Dame Vesuvia, to be precise. For one thing, every piece of armor looked incredibly expensive. A mere gauntlet was probably worth more than the whole of Dherma village. But that was not all—an air of confidence and power surrounded her, creating the unmistakable impression that she was in control of any situation.
+
+“March,” the old man said, his voice full of contempt. “Haven’t seen you in the basement for quite some time. I thought you had forgotten the way, or are you too busy with your make-belief quests?”
+
+“Not busier than you and your gambling.” The woman snorted. “Wasn’t that the reason why you were sent down here in the first place?”
+
+“That was a one time lapse of judgement.” The man jumped to his feet, pointing a finger in the woman’s direction. “Chesteon has always been envious of my skills! Unlike you, I worked my way up the ladder. Just because you’ve been in a few wars doesn’t make you special!”
+
+“The guild master didn’t seem to think so.” March made her way to the table, her armor clanking at every step, and took Dallion’s application sheet. “A level six,” she read. “Spread focus, three skills. Faced any area guardians?”
+
+“A few,” Dallion replied. One of the things he hated the most was becoming an excuse for an argument. It was obvious that the old man, and the woman had issues, and now he had become part of them. No matter who got to perform his test, the other would regard it as a betrayal on Dallion’s part.
+
+“Got any achievements?”
+
+“Some.”
+
+“Good enough. Estezol, I’ll handle this.” She went to one shelf and took a pyramid of dark metal.
+
+“A pyramid, milady?” The bearded man asked, surprised. “But he’s only—”
+
+A stern look quickly made him shut up.
+
+“Give me your hand,” March said as she held the triangle.
+
+Dallion obeyed.
+
+Item Awakening
+
+The reality that the two were transported into was larger than Dallion expected—definitely greater than any item realm he had seen. Greco-Roman ruins were all around, covering the hill Dallion was on, spreading into the plains and over a nearby river. Beyond them there was nothing but forests for as far as the eye could see.
+
+The PYRAMID is Level 25
+
+A rectangle hung in the air above March and Dallion’s heads. This was the highest level Dallion had thought possible. Even the dartbow was nowhere close.
+
+You are in an enormous obsidian domain.
+
+Defeat the guardian to change the PYRAMID’s destiny.
+
+“You won’t be able to improve that anytime soon, so don’t even try,” March said, seeing what Dallion was looking at.
+
+“Sure…” In truth, Dallion was more concerned by the fact that an item could be a domain. Apparently after enough levels, even that was possible. One had to wonder who exactly had been the person to level up the pyramid to that state.
+
+“Name?”
+
+“Dallion,” he quickly replied. “Dallion Darude.” Not the best name imaginable, but it was a snap decision. When Estezol had initially asked him back in the entrance room, that was the first family name that had sprung to mind. Given what Dallion had seen in Aspion’s memories, he thought that using his grandfather’s name might be risky.
+
+“Dallion. I’m March, one of the guild’s captains. The grumpy geezer you saw in the training room is Nitiello. Don’t let his appearance deceive you. He’s got real skills, even if his life is a wreck. Be careful when you’re around him.”
+
+“Yes, ma’am.” Oh boy…
+
+“Now, tell me what you know. You’re aware of the seven focuses, at least?”
+
+“Sort of. I know they were given by the Seven Moons and improve an aspect of a person’s performance.”
+
+The explanation was terrible. If anyone had blabbered that to Dallion, he would have laughed. Instead, the woman just looked at him with her normal stern expression, then smiled.
+
+“Each of the Seven Moons represents a focus.” An elegant man in what could be described as a black medieval suit emerged. He shared an uncanny resemblance with the old man in the training room from a moment ago. “The first Moon is Asteze, the blue moon and moon of awakening. It is through it that chosen can enter the realm of—”
+
+“This isn’t a class lecture, Nitiello,” March interrupted. “The basics will do.”
+
+“Fine.” The man waved a hand with a grumble. “To be expected with barbarians such as you.” He glared at Dallion. “There are seven moons, each moon represents a focus, each focus improves your performance in some way. The end.”
+
+Dallion didn’t say a word. The explanation was almost as bad as his. He would have preferred to hear a bit more about the history, but there was no chance of that happening. If the old man had been inclined to do so before, he definitely wasn’t anymore.
+
+“There are also twelve sets of skills,” Nitiello continued. “Each grants you the ability to perform feats in certain areas. In the awakened realms, each skill exists as a physical representation of itself. A buckler for guard skills, a sword for attack, and so on.” He turned to March. “Was that brief enough for you?” He crossed his arms.
+
+COMBAT INITIATED
+
+Green markers appeared all over Dallion’s body. He could see green lines connecting March’s fists to his chest. Before he could react, the woman had already punched him in the stomach, sending him flying several steps off.
+
+“Ooof!” Dallion managed to say as the air was knocked out of his lungs.
+
+MODERATE WOUND
+
+Health has been decreased by 10%
+
+The speed of the attack was incredible. Even so, Dallion quickly came back to his senses. As sudden as this was, it was only one hit. The important thing was not to allow any more. Instinct took over, giving way to caution. Without hesitation, he drew his dartbow and aimed at the woman. To his astonishment, she wasn’t there anymore.
+
+“Not bad,” he heard a voice from his left. Somehow March had managed to get there in less than a fraction of a second. “You’ve definitely faced something larger than a pebble.”
+
+In his mind’s eye, Dallion saw her rush toward him. Two options came to mind—defend or attack. Knowing he couldn’t match her speed, the boy chose the latter, shooting a bolt in her direction. No sooner had he done so, than March dashed to the side, completely avoiding his attack.
+
+“Good, you’ve got a dartbow.”
+
+“Dartbows are extremely versatile ranged weapons,” Nitiello said, observing everything from a safe distance. “Not only do they provide a vast range advantage, but they could be used in close combat as well in more ways than one.”
+
+Dallion didn’t listen, shooting bolt after bolt. According to his attack markers each was supposed to hit the woman dead center, and yet each time she evaded it with such ease as if it were nothing.
+
+“Wasteful.” March stopped in place. “In an actual battle, you’d never have this many chances.”
+
+Easy for you to say. The only option was to attack and defend at the same time. The moment he thought about it, red and green footprints appeared on the ground. As fast as the woman was, there was no way she could negate the guard bonus. It had worked against the Aspion, so it would work against her as long as Dallion had the element of surprise. The important thing was not to let March interrupt him.
+
+Dallion shot another bolt, then rushed after it, following the marker footprints. Halfway through the first sequence he braced, expecting a counterattack. To his surprise, none followed. Maybe the woman was testing him.
+
+You underestimated me, Dallion grinned.
+
+Time slowed down. Pressing on, he completed a second sequence, then a third. His attack took him less than a few feet from March. Right now, she was wide open—a perfect target for attack. Experience had taught Dallion, though, not to rush things. Only after completing the fourth sequence, he leapt to her other side and shot as many bolts as the time slow would let him. Three bolts split the air, hitting their target.
+
+“Got you!” Dallion shouted triumphantly. However, no rectangle emerged depicting the result of his attack. It was as if nothing had happened.
+
+“Not used to echoes, are you?” A voice asked behind him. Green markers enveloped him. Moments later, a powerful punch sent him flying once more.
+
+CRITICAL WOUND
+
+Health has been decreased by 20%
+
+You cannot use awakened abilities for 1 minute.
+
+All markers disappeared. Dallion tried to twist around, but found that his action was way slower than it was supposed to.
+
+MODERATE WOUND
+
+Health has been decreased by 10%
+
+A punch tore the dartbow out of his hand, leaving it flying in several dozen feet away. As it did, the holster disappeared from Dallion’s hip, replaced by a scabbard. It was back to having a short sword.
+
+MODERATE WOUND
+
+Health has been decreased by 10%
+
+A second punch drove him to the ground. Things had gotten really bad, really fast. Without the markers, Dallion had to guess as to the defense sequence. In the past he had performed it several times in the real world, but now doubt reared its ugly head.
+
+“Too insecure!” March shouted, leaping at him with the goal of performing an air attack.
+
+I’ve no choice. Dallion rolled to the side. The action was sloppy and painful, but granted him just enough distance to avoid the painful stomp. Part of his mind sighed in relief. The rest urged him to draw his sword and attempt a counterattack—a desperate action, though the only one.
+
+The blade split the air… only to be caught midway by March’s hand.
+
+“You’re dead,” she said, looking Dallion straight in the eyes. “Also, you’ve passed.” She let go of his weapon and helped him up.
+
+“Are you sure?” Nitiello approached. “His technique is sloppy, and he has way too many holes in his training. He’ll have to learn everything from scratch. He can’t even face echoes properly.”
+
+“Maybe, but he’s got this far in only a month. Also, he has the ability to learn.”

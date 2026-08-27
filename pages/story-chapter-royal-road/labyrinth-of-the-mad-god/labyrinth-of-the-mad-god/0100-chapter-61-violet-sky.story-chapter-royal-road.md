@@ -1,0 +1,67 @@
+---
+id: a3fb3c72-ac63-500b-9e26-448fa5c4ff89
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61: Violet Sky"
+slug: 0100-chapter-61-violet-sky
+partOf: labyrinth-of-the-mad-god
+position: 100
+ownLength: 1671
+unit: words
+publishedAt: 2024-12-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1943808/chapter-61-violet-sky"
+royalRoadId: "1943808"
+---
+
+There was an abrupt sense of motion as he took off at a staggering speed. He could feel his consciousness expanding and diffusing as it was pulled away from the tower and across an infinite horizon. A sensation that he now recognized as teleportation initiated by the System.
+
+Planets and stars went streaking past his head, as Nick sailed across the cosmos at an inconceivable rate. Although his altered state distorted his sense of time and space, he could tell that was moving faster than ever before.
+
+This portal experience felt different from the others he had undergone. The ride was quicker and smoother, with multiple branches along the way. It seemed that the conduits running between inhabited worlds were more extensive in this part of the sector than in the region around Earth. Which made sense, since Pax had mentioned that his home world was located on the periphery of integrated space.
+
+He completed one long segment of the transit, then two more that only took a pair of heartbeats to pass through. I must have been shunted through some kind of relay, Nick mused. He had a brief vision of floating above a red and green planet before sliding back into his own body, followed by a wave of disorientation that he had come to think of as teleportation sickness. Or maybe portal syndrome is a better term.
+
+He squinted as the pyrotechnics behind his eyelids faded away. Before long, his vision solidified into a cloudless violet sky, strikingly different from any he had seen before. It must have been around noon on this planet. The fat green sun was high overhead, twice as large as the one he had left behind on planet Drezen.
+
+It was hot enough that Nick started sweating, even with the help of his cloak’s built in air conditioning. It must really be sweltering for me to feel it despite my toughness. He loosened his clothing and set down his pack, so that the breeze could blow across his body. He wanted to take off his leather jacket too. But there was no way that he was going to remove his primary piece of armor until he knew where he was and what he was dealing with.
+
+While he doubted that the System would drop him into a dangerous situation when this was supposed to be part of a reward, he was never taking his safety for granted again. Not after everything that he’d been through.
+
+Nick walked over a few feet to stand within a patch of shade, glad to be out in the open after such a long stint of being underground. He took a deep breath in through his nose and then out over his palate, savoring the moment. Drinking in his first sensations of standing upon the surface of another world. An aspect of his new reality that was so deeply moving and profoundly beautiful, that he would have been willing to give up his old life in a heartbeat to experience it, if not the people he’d lost along the way.
+
+He took in the scents of wildflowers in bloom all around him. Sweet perfumes with hints of spices that he had no words to describe. The humming of what sounded like crickets reverberated across the hot, humid air. The sound seemed to come from everywhere, although Nick couldn’t spot any insects nearby.
+
+On that note, he turned in a circle while taking in his surroundings. He found himself standing upon a broad shelf of solid red rock, stone stretching out in every direction for as far as his eyes could see. The material was porous and surprisingly elastic. It put a spring in his step that was unlike any mineral he had encountered before. He soon realized that instead of being continuous, the horizon rose and fell, flowing in meandering curves instead of forming a straight line.
+
+It's a plateau, Nick put the elements of his environment together to form a complete picture. That explains why there aren’t plants growing everywhere and why there are less animals than you would see down on the ground.
+
+But he soon discovered that even up on the rocky flats, there was plenty of life to be found. Ferns and moss were sprouting up through countless holes in the stone, which must connect to an internal reservoir of rainwater below. Their foliage was bright pink and lavender, painting dazzling splashes of color all along the rock.
+
+He eventually spotted a variety of bugs crawling along the stone, along with a few golden-furred creatures that reminded him of mice. Instead of birds, the dominant flyer in this biome was a beast that looked like a red fox crossed with a sugar glider. The flaps of loose skin running between their limbs made them look like they were wearing miniature wing suits.
+
+The expressive creatures were ridiculously cute. He grinned at their antics as they soared above his head. They played with one another while performing complex feats of arial acrobatics, gaining elevation and changing direction so freely that Nick was certain magic must be involved in one way or another.
+
+Taken together, it was the most alien planet that he’d seen yet. He took out his journal and began to sketch, waiting to finish adjusting to his new locale before heading out. It was taking him a while to adapt to the radically different color palate, mostly due to the lime green sunlight.
+
+Nick supposed that there was no reason for most life-bearing planets to be so much like Earth. That they likely came in an incredible variety of terrain and inhabitants. The System probably picked out ones that would feel familiar enough that we wouldn’t freak out, at least during the early stages of integration. Now the training wheels are coming off.
+
+By the time that half an hour had rolled around, he decided that he was accustomed enough that he could start exploring in earnest. Size up didn’t uncover any threats within sight, even after looking through his spyglass. Ready to head out, he put on his pack and drew his wand instead of his sword, which was awkward to lug around while hiking. I should really try to pick up a sheath as soon as possible.
+
+Since he didn’t see any prominent landmarks, dangers, or signs of other people living nearby, he was left with two options as far as potential destinations were concerned. He could either survey the top of the highlands, or he could try to find the edge and see what else was in the neighborhood.
+
+While he was intensely curious to learn more about this planet, Nick couldn’t afford to squander the opportunity to become more proficient with his weapon of choice. He only had a month to improve, and the clock was ticking. He needed to find his trainer as soon as possible. Hopefully, they were living in a nearby town or something similar, and he would be able to spot their residence from up here. Thus, he decided to pursue option two and set off to find the edge of the elevated ground.
+
+As the entire plateau was only a few square miles, and he made it to the rim about twenty minutes later. After surveying the area as thoroughly as he could, he walked over to the border of the highlands and took a long look around. His jaw dropped in astonishment as he peered out over the horizon, then down toward the ground twenty thousand feet below his boots.
+
+He ran his gaze across what looked to be an endless prairie on a colossal scale, so big that it blew his mind. Swaying in the wind were countless blades of baby blue grass, each of which would have towered over the tallest skyscrapers on Earth. Pre-apocalypse Earth at any rate. Nick didn’t let that grim reminder spoil the moment, because the titanic grass was the least of the wonders that met his eyes.
+
+Because walking across the carpet of megaflora were giants. His jaw dropped in awe as he took in the sight of cattle the size of small cities, which appeared to be some manner of domesticated kaiju from his perspective. The four-legged leviathans wove their way between hundreds of tall plateaus like the one he was standing on, chowing down on the cerulean grass lining the prairie.
+
+It was a stunning, otherworldly sight. An incredible vista that shattered his prior conceptions of the possible like an egg struck with a mallet. The colossal creatures made dinosaurs look like child’s toys, driving home the realization that Nick was somewhere else, somewhere other, in a way that none of his other experiences had.
+
+It was a moment that he would remember for the rest of his life, however long that happened to be. “Well. I’m definitely not going down there,” he muttered to himself after drinking his fill of the magnificent view. “Those things could take me out with a single step and never even feel it. Exploring the highlands it is.”
+
+When Nick took one last look and turned to leave, his boot kicked a tiny pebble in his path. A stone so small that it would have been blown over the precipice by the perennial breeze if it hadn’t been glued to the rock by a tiny tendril of air-aspected mana.
+
+Half a heartbeat after his boot disturbed the stone, he felt the pressure in his inner ear drop. A pocket of atmosphere condensed a few feet in front of his face, leaving a vacuum in its wake. Although he hadn’t used size up, he felt a premonition of danger the moment that the changes began. A feeling of something that he couldn’t quite grasp cracking in the air, surging like a miniature storm.
+
+A fragment of a moment later, the ball of condensed mana shot forward like a bullet. It released a shockwave like a thunderclap as it came streaking for Nick, screaming as it tore through the air.

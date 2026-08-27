@@ -1,0 +1,93 @@
+---
+id: 2168a5e8-8a5b-58ed-b0ad-f6e8bab4d215
+page-type-slug: story-chapter-royal-road
+title: "Chapter 108: A Familiar Voice"
+slug: 0149-chapter-108-a-familiar-voice
+partOf: labyrinth-of-the-mad-god
+position: 149
+ownLength: 1921
+unit: words
+publishedAt: 2025-03-26
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2152774/chapter-108-a-familiar-voice"
+royalRoadId: "2152774"
+---
+
+Left with no other option, the men discussed tactics while inspecting their gear.
+
+They needed to be ready to go when the other parties made their move, which would happen sometime within the next fifteen minutes by the look of things. Nick was planning to blow through his mana to create an opening, then use Force Acceleration to reach the stairs while Devin unleashed his flames to drive the wraiths back.
+
+They began to advance, getting as close as they could to the swamp surrounding the stairwell without stepping into the marsh. As they walked, Nick took a closer look at his environment, seeking out any details that might help tip the scales in their favor. He couldn’t see the partitions at all. The magic barriers were completely transparent from this distance, although Devin was able to give him a rough idea of their location.
+
+The men came to a stop where the dirt ended and the water began, preparing themselves for the fight ahead. But just before they left the elevated ground and entered the muck, something strange occurred. A woman’s voice spoke, coming from right beside Nick’s ear. He looked over his shoulder, but there wasn’t anyone there.
+
+Her words were faint and garbled, like a radio broadcast with heavy static, but he was able to make out a few fragmented sentences. “Thank the gods… he’s awake! Nick. Can… hear…? Shit, the interference is… in here. Boost the signal’s power… cost be damned.”
+
+A few seconds later, the woman’s words became clear. “Nick, are you there? Say something so that I know you’re listening.” He realized that the voice sounded familiar, but he was having a hard time placing it.
+
+“Hello?” He was worried that this was some kind of lingering aftereffect from the trauma to his brain, but the urgency in her voice demanded his attention.
+
+“Praise Astra, we’ve got him on the line. Listen carefully, Nick. I can’t keep this channel open for long. It takes a crazy amount of cosmic energy to break through the Labyrinth’s barrier. Whatever you do, don’t take the staircase ahead. The floor it connects to is a veritable deathtrap.” The mention of the goddess Astra let him place the voice.
+
+“Pax, is that you?” Pax had been Nick’s momentary mentor. The blond warrior he had met during his orientation, right before the Mad God hacked the System and stole the Earth from Astra. “How are you speaking with me?”
+
+“You remember me, I’m touched. I planted a transmitter inside your thumb that lets us track your progress via a loophole in the inventory system. I don’t have time to explain why. A hundred feet from your position, on your right if you’re facing the marble stairs, there’s a hole in the shield wall. It’s hidden behind a pair of big red boulders.
+
+“You need to roll them back and squeeze your way inside. Then follow the lane running between the partitions and look for a rope ladder. It will lead to a floor where I can get a better signal. It will still be insanely dangerous, but I promise the reward will be worth it. I’m sorry that I couldn’t help you more until now. But please, trust me. It's vital not only to your own survival, but for your entire planet… Shit… were losing the…”
+
+Pax’s voice disappeared in a burst of static that soon faded out of existence. “Nick, are you ok?” Devin asked. You were talking to yourself, and we really need to keep our heads in the game right now.”
+
+“Something unexpected just happened.” Nick provided a rapid rundown of what had occurred during his orientation, then relayed what Pax had told him.
+
+Devin nodded along with his words. “What is your read on Pax? Do you think that we can trust her? I honestly like her plan a lot better than ours. If we can avoid fighting the big stealthy bastard and its minions, I say that we go for it.”
+
+Nick considered the question for a long moment before replying. “I think that we can trust her. Everything she did helped me out and she risked her life in the process. I’ve always suspected that she was hiding something, based on how my orientation went down. Maybe now I can finally learn the whole story. Let’s follow her advice and see what happens.”
+
+Devin grunted his agreement, and they began walking, heading away from the stairs and toward the boulders in the distance. It took them several minutes to find the place Pax had mentioned—a spot where two rust red rocks were nestled against the partition. Standing this close, Nick could make out the barrier with his eyes. It was completely transparent but had just a hint of a reflection, like high-quality museum glass.
+
+It was invisible to his energetic senses too until he reached out and touched it. When he did, he could sense that the partition was made of force mana and some type of essence he hadn’t encountered before. The magic was woven together so tightly that it didn’t release any energy into the environment. It was interesting, and he wondered if he might one day learn to create something similar, so he memorized everything he was sensing and then filed it away for later.
+
+The duo started looking for the secret passage Pax had described. It took both of them working together to roll the boulders back a few feet, then they ran their fingertips over the barrier behind the heavy stones until they encountered empty air.
+
+Sure enough, there was a small space where the force field wasn’t complete. After a bit of shimmying, both men were able to slide through, entering into a narrow lane running between their section of swamp and the next one over. Devin and Nick followed it, heading down a path that led past the stairs Pax had warned them not to climb. They would have let the other teams know what they had found, but they didn’t see anyone nearby or spot any more entrances opening into the passage.
+
+Eventually, they found the rope ladder that Pax had mentioned. It looked threadbare and sketchy as hell, especially compared to the marble banister on the other side of the wall. But Nick had long-since learned that appearances could be deceptive, especially within the Labyrinth. The other staircases were indestructible, so this one probably is too. Although the word stairs is a bit of a stretch in this case.
+
+Since there weren’t any beasts living within the secret passage, Nick stopped to read the display mounted beside the bottom of the rope before climbing to the next floor.
+
+This staircase leads to another floor of the tower.
+
+The rules for the adjoining floor are:
+
+Will you choose this staircase as your exit point to the level?
+
+The men were about to confirm the prompt when the last two parties began their assault on the stairs, timing their advance to arrive in unison. Since Nick and Devin weren’t in any danger, they turned to watch the fight, cheering the other members of Team Earth on as they fought to complete this level of Darkstone Tower.
+
+The moment that they left the last stretch of solid ground, dozens of mud-coated creatures emerged from the swamp, sending hundreds of grasping tendrils reaching for their positions like an army of angry serpents. They brave women and men knew the attack was coming and were able to hold their own. But they were hard-pressed, and Nick was worried that they wouldn’t reach the stairs without suffering casualties.
+
+The situation took a dramatic turn for the worse when the boss of the floor made its appearance. Before the party on his left could finish off the lesser wraiths, the patriarch arrived, rising from the muck behind the unlucky team like a grime-coated titan.
+
+It attacked in a flash. This time, there weren’t hundreds of vines stretching toward the party, there were thousands. The team turned to run, but the smaller beasts had converged in front of the staircase, blocking their escape. Nick knew deep in his gut that he was about to watch the team get obliterated, as the other party finished their fight and started racing up the stairs.
+
+“We have to help them!” Nick wracked his brain, pushing past his rising horror to kick his strategic mind into overdrive.
+
+“I’m down, but how? We can’t get through the barrier. I wailed on it as hard as I could while you were out. It’s too tough for me to penetrate.”
+
+As the wraith patriarch caught the terrified party within its net of vines and began gliding toward them, Nick conjured a trio of mana darts and fired them at the partition, centering them on the exact same spot. For just a second, he could sense the weave of force mana weakening, as the pure mana of his darts disrupted the matrix granting the magic a stable form. But then whatever was generating the partitions put out more power, erasing the damage he’d done.
+
+By now, the swamp giant had almost arrived before the bound party. A few more seconds and the patriarch was going to kill them all.
+
+Acting on instinct, Nick drew his sword and infused it with pure mana from his core, wreathing the blade in silvery flames. He thrust as hard as he could, putting everything that he had into the attack. To his relief, the sword was able to cut through the force field, although it was only a gap the width of his blade.
+
+He knew that he would never be able to make a hole big enough to pass through, so he repeated the process two more times, creating a triangular hole the size of his fist. Then he cast Piercing Ray, racing to complete the spell before the barrier restored itself.
+
+He had just enough time to cast the spell twice, sending both force drills streaking for the oversized wraith a couple of seconds apart. The first ray caught the towering beast in the back of the head and began drilling into its flesh. Nick guided the second ray toward the vine-like growths, targeting the ones holding the team’s frontline fighters in place. The rapidly-rotating spell began parting the dense tendrils, while the first assailed the patriarch’s skull.
+
+Unfortunately, the boss was too tough to kill with a single spell, but Piercing Ray provided one hell of a distraction. The warriors freed themselves from the vines and started cutting the rest of their team loose.
+
+The party let out a cheer and charged the patriarch, pouring everything they had into the killing the beast before it recovered from Nick’s attack. His Piercing Rays ran out of juice just as the forcefield resolidified. At which point, the men learned they weren’t safe after all.
+
+Because that was when Devin cried out. “Nick, the wraiths followed us through the secret entrance. There are dozens of them headed our way. We need to go, now!”
+
+They didn’t get to see how the battle with the patriarch ended. All Nick could do was run and hope that his efforts had been enough to turn the tide. They reached the rope ladder and began to climb, bodies dissolving into light just as the wraiths reached their position.
+
+Accompanied by a chorus of frustrated wails, Devin and Nick left the third floor of Darkstone Tower behind them, ready to tackle their final challenge before facing the guardian on the roof.

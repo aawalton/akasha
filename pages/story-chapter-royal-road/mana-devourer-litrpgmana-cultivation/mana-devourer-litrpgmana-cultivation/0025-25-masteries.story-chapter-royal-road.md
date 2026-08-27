@@ -1,0 +1,235 @@
+---
+id: 4329ebba-a2a3-5e4a-83f3-62565159a818
+page-type-slug: story-chapter-royal-road
+title: "25. Masteries"
+slug: 0025-25-masteries
+partOf: mana-devourer-litrpgmana-cultivation
+position: 25
+ownLength: 3433
+unit: words
+publishedAt: 2024-07-15
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1718668/25-masteries"
+royalRoadId: "1718668"
+---
+
+Okay… Masteries. Time to figure that out.
+
+Glaive Mastery had just hit level 10, as had Evasion. Opening the menu and selecting Glaive Mastery brought up a huge list of ‘Specialisations’ that Markus could undertake for the skill specifically, and he started to read through all of them.
+
+Certain Specialisations were apparently enhanced by his Spirit score and its effect on skill Growth. Those were appropriately marked.
+
+[Weapon Hurler II: This specialisation further modifies your accuracy and range when throwing your glaive, allowing you to pinpoint specific locations you’d like to strike and use martial skills while your weapon is midair. Can be compounded with both retrieval spells/skills and remote weapon skills. Modified by Agility and Strength.]
+
+That already sounded pretty useful. He’d had to throw his glaive at least twice so far and it’d won him his first fight. But then again, Markus had only had to do so due to a lack of ranged abilities or other means to engage on a larger opponent. There might be better options. He withheld his judgment as he read on.
+
+[Critical Strike I: This specialisation increases your chances of inflicting Bleed I/II upon an opponent when striking soft/weak areas. Chances are dynamic and modified by weapon Sharpness/Affinity and user Strength/Arcana. Chances are further modified by skill/spell use and weapon imbuement. I.E. Frost Mana skills/imbuements may decrease bleed chance, while Caustic Mana imbuements may increase chances.]
+
+Hmm… he needed more info on that one. Was there a way to view status effects?
+
+[Bleed I may be inflicted upon creatures when they are cut, pierced, or otherwise lacerated. Stages beyond I classify increasingly potent levels of bleed, with II signifying continuous bleeding, III signifying profuse bleeding, and IV and beyond signifying critical bleeding with levels of immediate lethality based upon a creature’s Constitution and size.]
+
+Right, so in other words, bleed meant you made them bleed. That’s enlightening.
+
+What was next?
+
+[Cut Down II (Spirit+): This specialisation allows you to more effectively damage larger enemies with your glaive, the bonus damage scaling linearly for each foot of height or 20lbs of weight the opposing creature has over you, at a rate of 1% per, capping at 15%. This ability is enhanced by your Spirit score and the user’s relevant experience/titles. Its requirements can be reduced and its maximum cap extended by further increasing your Spirit.]
+
+That one… actually sounded really fucking good. Sure, it wouldn’t do anything against goblins or nasty cave bats, but in fights with things like the trimander, the giants he’d just faced, or even the bulleater from day one, he’d have benefitted from this immensely, likely enough to get the full 15% increase in each of those cases.
+
+He read through a few more options, things like ‘Balanced Fighter’ and ‘Practiced Parry’ causing him to raise an eyebrow but neither of them seeming good enough upon inspection to compare to what he’d already seen. Markus wasn’t entirely biased in what he was looking for here, but he understood that he needed to balance power and defenses as much as he could, and that with so many options to choose from in the Glaive Mastery list, most seemed to either hyperindex on fully offensive or defensive techniques. The ones like Balanced Fighter that sat more in the middle weren’t nearly as impressive.
+
+Markus also began to realise upon scrolling that about half of the options in the Masteries section were locked or set up to start at a reduced potency. Some he could unlock instantly by raising relevant stats such as Arcana or Strength, while others wanted for Markus to have more experience in the relevant method of fighting or the governing attribute in order to get good usage out of the Mastery in question.
+
+Which made sense, when he thought about it. It meant Masteries were based upon things he had actually worked towards being able to do already, rather than new and questionably applicable-to-him skills just being picked out of a hat and dumped into a list for him to select.
+
+That being said, one or two of these Spirit-enhanced options were definitely things he didn’t know how to do already. Specialisations like ‘Martial Mage’ were the total exception.
+
+[Martial Mage II (Spirit+): This specialisation allows the wielder to cast spells using the glaive as a conduit with both increased potency and reduced focus, as well as allowing the user to fire certain elemental spells at range using properly placed and timed slash coordinations as a ritual means. Affinity and Arcana modify attack potency, Spirit modifies spell range and focus increase, Versatility modifies the amount of spell rituals that may be known at one time.]
+
+That one sounded pretty incredible… but Markus had no magic besides Frozen Tomb and possibly Rend, but one was an aura effect and the other wasn’t elemental.
+
+He wasn’t gonna get much use out of this until he began learning magic, and he wasn’t entirely sure how to do that. Practicing with different mana types might unlock him a couple more spells, and there was a chance that using Mana Cores might net him something neat too, but he imagined that wasn’t how most mages in this world learned to do the things like he’d seen, teleporting or creating lightning with their hands or even healing.
+
+Markus stretched, his shoulders starting to become stiff. He looked to the left of him, where the gnarled imp had been incessantly tapping his claws against a large stone.
+
+“How’d you learn to teleport?” he asked the imp.
+
+The imp tilted his head. He looked tired. “If I don’t answer, will you explode me?”
+
+“No. I’ll only do that if you try to betray me.”
+
+For a few seconds, silence reigned.
+
+Markus went back to his status screen, about to read the next option, when his thoughts were interrupted by sudden, murmured speech.
+
+“My mother taught me. Back when I was freshly spawned.” He lingered on the words for a few moments, like he was swilling them in a glass. “I could teleport before I could talk, or even walk more than a few steps.”
+
+“That early, huh?” Markus stayed his tongue on his other thoughts. It felt too personal to pry.
+
+“About the only useful thing she did for me. Imps find that spell hard to learn as adults, so I’d have been pretty fucked otherwise.”
+
+“Right. That’s interesting.”
+
+“Why do you care, anyways?” the imp asked pointedly, his tone regressing to its usual biting, scathing feel. “And why the fuck are we still sat here? Your legs stop working?”
+
+“I’m figuring out Masteries,” Markus replied. “If you’re bored, feel free to go pick a fight with something.”
+
+The imp growled. He fidgeted some more. Eventually, sighing so dramatically that one might think he’d been chosen to be the next Sisyphus, he scooted closer to Markus, staring at him with bloodshot eyes.
+
+“Grr… how do you need help with Masteries.”
+
+Markus once again took his eyes off the screen. “Huh?”
+
+“What do you need to know?!” He waved his hand through the air, as if he were trying to rush Time itself. “Come onnn, before we both turn eighty.”
+
+Markus couldn’t believe his ears. This guy must’ve hated sitting around waiting around like this a ton if he was actually willing to be of any genuine assistance to him. Who’d have thought?
+
+“Okay, fine. If I pick a speciality, am I stuck with it forever, or can I change it?”
+
+“The one you pick at level 10 is more or less permanent. You get another choice at 25, which is influenced by your previous choice, and blah blah blah I’m fucking bored. Does that answer your question?”
+
+Markus thought it over; Markus hesitated.
+
+“Why is it more or less permanent? Why not just permanent?”
+
+“ARGHHH! Can you not just be satisfied with a simple answer?!”
+
+The imp was bouncing left and right on the spot like he really needed to go pee. The fact he got so antsy about a ten minute break was crazy.
+
+“Not really. If this is gonna impact me and affect my choices forever, then I need to know about it.”
+
+“Grr… FINE!” He sighed, tapped the stone a couple more times, then looked up at Markus. “They’re permanent unless you get them removed. Some skill instructors are able to remove specialisations and teach you new things, and in theory if you were a really high rank in a skill you’d be able to do the same thing. Other than that, class changes can reset your specialisations too, but no one usually ever class changes after adulthood. Too much hassle, not enough reason to go to the trouble.”
+
+“Class change…” Markus took each facet of what the imp said in, considering it in turn. He had no clue if Cyrus had any degree of glaive mastery. He said he was proficient in three weapons. Could he help him reset a Mastery if he changed his mind? Maybe.
+
+Then there was the class change thing. That was interesting.
+
+“My class is Otherworlder. Is that a class that’s worth ever changing? I can’t really see anything about it.”
+
+“Wait, you never got a…”
+
+Suddenly, the imp clamped a hand over his mouth, as if he’d realised what he was doing.
+
+“Never got a what?” Markus blinked. When the imp remained silent, Markus put a hand on his shoulder, giving him a little shake. “Never got a what? Tell me.”
+
+“No!” the imp shouted, backing up immediately, snarling as he went. “You told me I didn’t have to answer your questions, you hypocrite! Now hurry and choose!”
+
+Motherfucker. Talk about leading a horse to water, and then the water’s a fucking hologram.
+
+Whatever. He’d gotten some useful info at the least. There was something about his class that was different and something he didn’t yet have, and whatever it was, he could bet that tiger girl would tell him in a heartbeat. Fuck this dude, he’d just ask her instead.
+
+He decided to look through his options for Evasion, which had also hit level 10. Maybe he’d be able to find something that combined nicely with one of the glaive specialisations, or at the very least a good enough defensive option that he didn’t mind going full offense with the glaive.
+
+[Jumpmaster II: This specialisation allows the user to jump backwards whilst retaining balance with more ease, as well as increasing the length and height of the user’s jumps at a level scaling linearly with user’s Agility and set against user’s current weight, including equipment weight. At current Agility, standing jump height would increase to 4.9 feet, and standing jump length would increase to 10 feet.]
+
+Those were really high. Not inhuman, but high enough that a vast majority of athletes would struggle to hit those numbers and that no one at his school had remotely come close to either. A nearly five foot standing jump was nothing to sneeze at, and with momentum behind him, Markus imagined this could be quite the effective strategy to reposition and avoid attacks, not to mention the benefits it might have in exploration.
+
+He was already pretty interested in Jumpmaster, but decided to check out the rest of the list to be sure.
+
+There were specialisations for rolling, for ducking, for diving, for bopping and weaving and twisting and moving in all various kinds of ways, but none of them really stuck out like the first one had. Not only that, but they all either started at I or required a point investment.
+
+Jumpmaster it was. Markus felt pretty confident about locking that one in.
+
+As soon as he did so, he clambered to his feet, and decided to test his new passive straight away by bending his knees and leaping straight up into the air as high as he could.
+
+His still recovering leg didn’t appreciate that impact all the much, but he couldn’t deny the results. He could definitely jump higher, and it wasn’t by a small margin, either. His jump height had probably almost doubled from that selection alone already. He wasn’t quite an olympic jumper, but he definitely could’ve shown some people up at state.
+
+“You trying to attract visitors?” the imp asked, flicking the back of his hand at Markus as he clanked! back down onto the stone floor below.
+
+“I thought they didn’t come near the torchlight?” Markus said.
+
+“That changes if you’re loud enough to get ‘em interested.”
+
+“Right…” Markus decided not to test his long jump next. He didn’t exactly want to be set upon again right now. “What even is this place, anyways? I don’t really get why there’s a dungeon down here.”
+
+“Used to be a training ground for gladiators, filled with rewards for those who made it far enough,” the imp said. “Now it’s just a dumping ground for Drathok’s failures.”
+
+“His failures?” Markus repeated, eyes wide.
+
+“That’s right. This whole area used to have a purpose. Now it just sits here. Guess you’re crazy enough to train here anyways.”
+
+Markus didn’t say more. He knew this place had at least one other purpose besides being a ‘dumping ground’, whatever that meant, because he’d seen it already. That being said, the part about this being an intended training ground was interesting.
+
+There was something more here and he was missing it, he just knew it. Ah well. Better to focus on the tangible for now.
+
+“You mentioned rewards. What kind?”
+
+“Fuck if I know,” the imp snapped. “Do I look like a gladiator to you? It’s just what I heard. Stop asking questions.”
+
+Fine. He needed to pick a glaive specialisation anyways. Something to go along with his weapon’s passives would be nice, something specifically focussed on multiple attacks. His defensive ability felt pretty useful already, so Markus didn’t really mind speccing into something aggressive for his glaive specialisation.
+
+He searched and searched for something he liked the look of, and after at least a minute of skimming and scrolling, he found an option that he only further enjoyed the more he read of it.
+
+[Thrust King II (Spirit+): This specialisation increases the strength and potency of the user’s thrusting attacks and piercing blows, allowing the user to push their glaive into a stabbing motion with increased speed, accuracy, and power. Thrust King also allows the user to use the glaive’s handle with increased effectiveness for the purpose of disorienting or bludgeoning opponents. Piercing an opponent five times in a short window allows the user to channel up to two abilities through the blade at once, mimicking the effect of a Combination Skill. Spirit decreases the time and focus needed to push skills through the blade following stabs, and Strength and Agility modify the increased effectiveness of thrusting strikes. Arcana and Affinity affect potency of skill/spell use, and Versatility modifies how many skills may be fired at once.]
+
+That was a fucking read.
+
+Markus read it twice just to be sure, then took that shit immediately. Sounded dope as fuck. Who wouldn’t wanna be a Thrust King?
+
+What’s that? Can’t hear you. Too busy being a Thrust King over here.
+
+Markus smiled, satisfied with his decision.
+
+Now there was the Path Evolution to consider. Let’s see:
+
+[Greater Respite I (Rare): The natural healing rate of your body is increased by 800%. Natural healing is modified by Constitution. Greater Meditation can be induced in a quiet and safe environment to heal one targeted area of the body at 1240% of its usual rate and regain and cycle mana of one type at 240% of usual rate for up to six hours per day. Greater Meditation can be induced at all times, but has a 50% reduced effect, requires focus, and cannot cycle mana. Healing during Meditation is modified by Constitution and Spirit. Mana Regeneration is modified by Spirit.]
+
+Okay, so just 8x natural recovery at all times. That was more than he was getting while sleeping before, and the increase during sleep/relaxation had been removed entirely. From the looks of things, he got the greater benefit always no matter what.
+
+Easy choice? Fuck no. Not when the second option was:
+
+[(Unique: Mana Manipulation) Reforge, G Grade: Channel your Spirit Mana into a healing and fortification energy that can be used to effectively bolster different areas of your body or another’s and greatly speed their recovery if injured at a rate of 3000% of usual healing for a length of time determined by mana invested. Only one limb can be targeted by this ability at a time, and excess healing on a limb can be transferred into increased fortification for that part of the body that lasts until damaged or until focus wanes. Spirit modifies the rate of healing and fortification. Constitution modifies the effectiveness of excess healing.]
+
+Okay, this was a healing spell. It had limitations, sure, and it wasn’t an instant recovery like [Devour] was, but it was a fucking healing spell, and that was enough that Markus was a hundred percent willing to take it. Being able to use something like this on the go or while fighting easily trumped the permanent 8x on respite. He already got 3.5x passively, plus 7x when relaxing or sleeping, and he didn’t think the increase, while nice, was worth giving up a full blown healing spell for, especially a versatile one that’d likely continue to grow.
+
+And so Markus made his decision.
+
+And then he realised that in all that time looking over his options and asking questions and reading and reading and reading, he’d managed to level [Identify].
+
+To level 10.
+
+Where he could unlock a Mastery.
+
+Markus wasn’t sure whether to be excited or roll his eyes. He thought he was done.
+
+He almost decided to put off putting a Specialisation into [Identify], but then he read the first option, and he was 100% down.
+
+[Treasure Seeker I: This specialisation fits those sufficiently keen-minded to look where others will not and brave enough to search where none dare tread. Objects of value or special interest will be easier for you to both single out and spot from a distance, and the rough worth of simple items below 50g value will be determinable at a glance, provided a basic economic understanding of Firrelia. Strength of identification and ability to deduce item values and uses for magical and specialised items will depend upon user knowledge and Arcana score.]
+
+Okay, it wasn’t just gonna give him all the information on items without him finding some stuff out for himself, sure.
+
+But it was a fucking item radar.
+
+A treasure radar.
+
+Who wouldn’t take this shit?
+
+Someone who wasn’t a fucking Thrust King, that’s who.
+
+Markus was a Thrust King. Markus took that shit.
+
+“Alright. I’m ready. Let’s get moving.”
+
+Thus spake the Thrust King, the Jumpmaster, the Finder of Stuff.
+
+He spoke even as he began to cast [Identify], immediately curious and on the prowl for something new to pocket. The imp had mentioned something about treasure down here, and he was eager to see if that had been literal.
+
+There had to be something down here, right? Who made a whole ass dungeon and didn’t stick a chest or two in it?
+
+Assholes, that’s who. Then again, Firrelia’s stock in assholes seemed to be sky-fuckin’-high.
+
+Markus, in fact, felt it was far more likely that he would instead search for a full hour only to find a sheet of paper with a chest drawn on it, annotated with the words ‘here’s where we would have put a chest if u weren’t a little bitch’, accompanied by a picture of Drathok smiling.
+
+He chuckled at the thought as he walked. Somewhere in all of this bullshit was a small inkling of wanderlust mixed with the anxiety and anger and hope. Maybe the absurdity of this situation had finally driven him mad, or perhaps he’d always been so.
+
+Either way, it felt nice to walk around and do his own thing. To truly do things on his own terms. He hadn’t done that since he’d gotten here, no matter how hard he tried.
+
+He hadn’t done that before he’d gotten here, either, always—
+
+Eh, fuck that noise. Guess what Markus just spotted?
+
+A chest. Sat at the end of a long, dark corridor, pitch black besides the faint, golden glow afforded by his [Identify], revealing it as a resplendent ray of hope against the shadowy backdrop of despair that permeated this twisted world.
+
+Markus eyed the corridor. It was long as hell, and besides the chest, he couldn’t see or hear shit.
+
+…fuck it.

@@ -1,0 +1,199 @@
+---
+id: e7a684f7-4688-525f-974e-0566e421ae0d
+page-type-slug: story-chapter-royal-road
+title: "111 — Book 3, Chapter 10 — Library Woes, Pt 2"
+slug: 0114-111-book-3-chapter-10-library-woes-pt-2
+partOf: just-add-mana
+position: 114
+ownLength: 3189
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3169256/111-book-3-chapter-10-library-woes-pt-2"
+royalRoadId: "3169256"
+---
+
+The Haelforge Library was an impressive place, though it felt a bit like a tomb compared to the one in Brightscale. The few times Cale had visited the Brightscale Library, he'd found the place to be warm and inviting. It was built to mimic a forest glade, one of the natural environments that magical tomes were often grown in.
+
+As such, the shelves were grown with magic out of living wood, with flocks of tomes nestled into them like baby birds.
+
+The comparison was very literal, to be clear. The tomes of the Brightscale Library had a tendency to go flying off if they were startled, flapping their covers and taking off into the air. This could, unfortunately, cause quite a bit of damage to the spine of the book, and was one of the many reasons the Brightscale librarians demanded silence from their patrons.
+
+Granted, the demand for silence was common across all magical libraries, even if the reasons tended to differ. Even beyond making sure there was a quiet reading environment for everyone, libraries were meant to be quiet, peaceful places, and they did not like to be disturbed; there was no telling how a library would react if too much of a disturbance was caused within them.
+
+For that reason, the duty of a librarian went beyond simply taking care of and categorizing its collection of tomes. A good librarian had to worry not only about those things, but about making sure the library itself remained clean and well-fed. It was commonly known, after all, that a poorly-kept library was one likely to go rogue.
+
+And no one wanted a rogue library. In all the lives he'd lived, Cale would still rank rogue libraries as among one of the most dangerous things he'd encountered. They were both wildly unpredictable and capable of drawing magic from their entire selection of magical books, including ones that didn't yet exist!
+
+Cale had no idea how that worked. He just knew that it did. It was one of those things that scholars had been looking into for as long as he could remember. Libraries in general were a source of mystic intrigue—many things could become places of power, but libraries were among the most likely ones to do so.
+
+In any case, the Haelforge Library was quite distinct from its Brightscale counterpart. Like Brightscale, it was built to mimic one of the natural environments in which magical tomes were grown. Unlike Brightscale, its architects hadn't gone for the forest glade aesthetic. Instead, as far as Cale could tell, they'd decided to go for making the place look as much like an ancient lich's tomb as possible.
+
+"It's actually kind of impressive how far they went," Cale remarked, though he kept his voice low. "I think these are real bones."
+
+Leo did a double-take at the shelves. "What do you mean, real bones?"
+
+"Shhh," Cale said absently. "You don't want to upset the library."
+
+Leo made a face, but did his best to soften his voice. "What do you mean, real bones?" he asked again. "Do they really need actual bones for the library?"
+
+"The closer you get to mimicking the real thing, the better it is for the books," Cale answered, still walking along the shelves and examining them curiously. "You've been hanging around with the Brightscale Librarians, right? I assume you know a bit about this already?"
+
+Leo nodded reluctantly. Despite his mood, Cale could tell he couldn't help his fascination with the subject. "They didn't explain everything, but I could figure most of it out," he said. "Not the details, though. I've never seen them feeding the library, for example. What do libraries eat? Books?"
+
+"Pretty much," Cale said. "Librarians have the responsibility of making sure the library catalog is always growing. Preferably with a lot of variety. You can't feed a library with a diet of tomes on fire magic, for example; you'll give it indigestion."
+
+"What happens if you give a library indigestion?" Leo asked, blinking.
+
+"You don't want to know."
+
+"I'm pretty sure I do." Leo paused, then nodded to himself. "I definitely do."
+
+"I mean, if you're sure..." Cale trailed off, then sighed when Leo gave him an especially pleading look. "Alright, alright. Basically, the library starts flooding with excerpts from the worst of its tomes. Incorrect magical theory, terrible metaphors, that sort of thing. Just think of the worst metaphor for magical theory you've read and imagine it manifesting in front of you."
+
+Leo blanched. "Now that I think about it, tome authors like to make a lot of weird metaphors."
+
+"Now imagine having to deal with their literal manifestations," Cale said dryly.
+
+"I'd rather not, I think." Leo shuddered dramatically, and Cale chuckled.
+
+Leo did seem to be feeling slightly better. Cale still saw a bit of a shadow crossing his expression sometimes—mostly when he circulated his mana, like Cale had asked him to do—but it was no longer quite as dominant as it was before. It helped, it seemed, to have a different problem to focus on.
+
+And the one Delia had given them was a fascinating one.
+
+She'd left a while ago, hurrying back to her post so she could continue watching out for any trace of the dark lord or his forces. Before she did, though, she gave them a quick explanation about where the gate to the Bitter Path was hidden, how they were supposed to be able to access it, and why the manifestation in the Haelforge Library had thrown things off.
+
+Apparently, the gate to the Bitter Path was sealed away by a set of five special tomes that could be found in the Haelforge Library. The tomes were part of an actively sustained ritual spell that isolated the gate into a sealed pocket dimension; in order to open the gate, the Haelforge professors needed to locate each tome in the right order, then perform an unsealing ritual over them.
+
+Unfortunately, they were unable to find any of the tomes. Or the gate, which they'd searched for after suspecting that the ritual had somehow been inadvertently broken. Somehow, the ritual was still active, but the tomes were missing.
+
+Delia had a scroll detailing how that ritual was supposed to work, and though she appeared somewhat hesitant about it, something seemed to startle her while she was contemplating what to do with the scroll. She let out a muttered curse, stared off into the distance, then pushed the scroll into Leo's hands and just... left.
+
+Which was why they were just wandering around for the time being. Cale wanted to better understand what was going on with the Haelforge Library, and Leo was still trying to understand the contents of the scroll.
+
+"Are you sure we shouldn't go help them?" Leo asked again.
+
+Cale shrugged. "If they really need our help, I assume they'll ask for it," he said. "I find it's generally better not to try to rescue a battlemage while they're fighting unless they really need it. Even then, only do it if you're prepared to take lightning directly to the face."
+
+"Ah. Right." Leo winced at the thought. "Uh, I guess we should look at this thing then. Though I'm not really sure how it's supposed to work? I feel like there are obvious problems with this system. Like, what happens if a student checks out one of the special tomes?"
+
+Cale laughed. "One thing you're going to learn is that a lot of mages are more concerned with being clever than they are with being effective," he said. "And I'm including myself in that group. It's easy to get caught up in making something elegant and end up forgetting to focus on its function."
+
+"Is that what happened here?" Leo frowned at the scroll.
+
+Cale shrugged. "You tell me," he said, a slight grin playing on his lips. "I brought you here for a reason. You're the library expert."
+
+"I'm not an expert," Leo grumbled. "I don't get how they were even able to make this a ritual. Don't you need a ritual circle to cast ritual magic?"
+
+"Do you?" Cale asked.
+
+Leo thought about it for a moment. "I guess not," he said hesitantly. "I remember Icon casting layered spells using ritual magic during that duel it had with you. I'm just not really sure how it was able to do that, and I couldn't find much about it when I tried to look it up."
+
+"It's a pretty advanced form of ritual magic," Cale said.
+
+"But every tome I've read about ritual magic says that ritual magic has to start with a circle," Leo continued, frowning.
+
+"Also true."
+
+"I guess..." Leo's brows furrowed. Cale had no idea when his apprentice had managed to retrieve both a pencil and a notebook, but he was now tapping his pencil against his snout, thinking.
+
+Then he began scribbling. "Circles..." he muttered. "Maybe there is still a circle? The placement of the books? But that wouldn't make any sense; the ritual would be disrupted as soon as the books were moved, and libraries shift around all the time. How would that work with Icon's rhythm-casting? Unless—oh. Oh! The circle doesn't have to be literal?"
+
+He turned to Cale, his eyes wide. "Do the circles in ritual magic have to be literal?"
+
+"Nope," Cale said, grinning.
+
+"Oh," Leo said. "Oh. That's—that changes everything about ritual magic, then. That means you can cast a ritual spell with any kind of repeating pattern?"
+
+"Ritual magic is functionally an inscribed pattern," Cale agreed, leaning back and watching Leo work with a smile. "At advanced levels of magical combat, you can invoke a secondary pattern with the rhythm of your spellcasting and cast a layered spell on top of it all."
+
+"But not just with rhythm," Leo said, pacing. "You'd be able to do that with anything. The type of the spell, the tier of the spell, as long as you can get a circle—"
+
+He jolted, then pulled out the scroll Delia had given him, staring at the tomes again. "The tomes are indexed according to the Inthonian Categorical Script," he said. "The Inthonian runes for magic are all implicitly circular. They have a single rune that represents the null attribute, and then every school of magic, elemental aspect, and spell tier is represented by degrees of variance from the null rune.
+
+"So that means the ritual was built into the Inthonian Categorical Script itself." Leo flipped frantically through another one of his notebooks. "That's—right, I see it. The tomes they chose are equidistant in the Inthonian script across all three primary levels of categorization. The tomes are just chosen to be the physical anchors of the ritual, but once they're marked, the actual tomes don't matter, because you've created a ritual circle from the categorization system of the library itself.
+
+"This isn't even just one ritual circle, it's three compounded ritual circles!" Leo was practically vibrating in excitement. "But then it shouldn't matter what tome they use as long as they can find any tome from the right school, aspect, and tier, right?"
+
+He turned to Cale expectantly, and Cale laughed.
+
+"Sounds about right," Cale said. "Gonna be honest, I never studied how tome indexing works, so that's all you. But it does explain why the ritual's still going even if they can't find the tomes."
+
+He flashed Leo a wide grin. "Just so you know, I'm incredibly proud of you. Twenty points for that."
+
+"I—what?" Leo asked, though in spite of his confusion he was already reaching for a book to record the points. Although Cale couldn't see it, he was pretty sure the minotaur was blushing. "I didn't do anything."
+
+Cale snorted. "Do you know how hard it is for most mages to even grasp that a ritual circle can be abstract?" he asked. "There's a very baked-in idea of how ritual magic is supposed to be conducted. Even when it's explained, it usually takes months for them to understand it enough to construct their first abstract ritual spell. You just reconstructed abstract rituals from first principles, basically with barely any help, and you identified why the ritual's still going."
+
+"I, uh..." Leo ducked his head. "I guess I did do that, didn't I?"
+
+"You sure did." Cale patted him on the shoulder. "I don't know the indexing system, so it would've taken me forever to figure that out on my own."
+
+"And you're not just saying that?"
+
+"Leo, you know me by now. You know that I only just say things for dramatic effect. You also know that I absolutely will not do math if I can help it." Cale snickered. "No, I'm not just saying that."
+
+"...Thank you."
+
+"You're welcome." Cale tilted his head. "So. Shall we go see if we can find any books from the right categories? That way, they should still be able to unseal the Bitter Path, even if they can't find the tomes. Even if we haven't figured out what the cause of all this is yet, investigating that will probably be a good start."
+
+Leo nodded. "I think I know how the library is organized by now," he said, taking the lead. "The first tome they listed was a fourth-tier fire conjuration spell, which should be this way..."
+
+The good news was that Leo was right about where fourth-tier fire conjuration spells could be found.
+
+The bad news was that they knew he was right specifically because the library around them got progressively stranger as they approached the section the tomes should have been located in.
+
+They were, at present, in the conjuration section of the library dedicated to fire aspect spells. What they were not was at the section dedicated to fourth-tier spells of that type. In fact, by the Inthonian Classification System, the runes on the shelves indicated that they were looking at tomes dedicated to spells and spell theory at tier three-point-nine-six-eight-seven-five.
+
+Which was not a thing.
+
+"The Inthonian script doesn't even have runes for decimals," Leo complained. "They don't use a numerical system for spell tiers at all! How am I reading this?"
+
+"Magic," Cale said.
+
+"That's not an answer for how I can understand a rune that doesn't exist," Leo grumbled. "Or it technically is, I guess, but it's not a satisfying one."
+
+Cale chuckled. "It's because this space isn't entirely real," he explained. "It's all made of interpolation magic. Half real, half intent. You're picking up on the intent half and reading it."
+
+That much, at least, he was relatively sure of. How it was happening he wasn't sure yet, though. There were none of the classical signs of an ongoing spell or ritual designed to keep them away from the shelves of conjuration-fire-four, nor could he sense the degree of spatial distortion he would have expected from this kind of interpolation magic.
+
+It was there, if he stretched his senses enough to find it—faint and distorted, a sort of buzzing underneath the ambient mana that surrounded them. That alone was fascinating. Interpolation magic by itself was rare enough, but the idea that someone could cast it and then somehow keep it hidden that even an experienced mage wouldn't pick up on it immediately...
+
+That kind of power had implications. It wasn't worrying yet, but it was close. On the one hand, a library was the exact sort of place a manifestation like this would appear. Of all the different kinds of places of power, libraries were by far some of the most unusual, and had the strangest manifestations.
+
+On the other hand, Cale had been to other libraries in the process of going rogue. He'd seen what library manifestations were like. This didn't strike him as an ordinary one, and given his experiences, anything out of the ordinary could very well mean the rest of the rules of magic were about to be thrown out of the window.
+
+He glanced again at the shelves. The thing that both reassured and worried him was that there seemed to be a mind behind all of this. Whatever this was, it was intentionally keeping them and the professors away from the tomes that should have anchored the sealing ritual for the Bitter Path.
+
+The effect hadn't started until they passed the shelves of conjuration-fire-three and began to reach conjuration-fire-four. Manifestations weren't usually this specific, which meant there was most likely a mind guiding the effect.
+
+Yet that mind didn't seem to be a hostile one. With the power implied by the degree of spatial manipulation, whatever this was could have done far worse, if it had wanted to. Was it just trying to defend or protect something? Was there a reason it didn't want the Bitter Path to be unsealed?
+
+Cale frowned to himself, trying to figure it out. In the meantime, Leo was looking through the tomes on the shelves, picking out each one to stare at their warped covers and then squint at the contents within.
+
+"Interpolation magic doesn't seem to make very good books," he said. "I think this one is just wrong?"
+
+Cale snorted. "Well, it wouldn't," he said dryly. "It's just guessing at what's supposed to exist between the two shelves, it's not actually creating anything. There are mages that swear by it, but they're usually not very good ones."
+
+Curious, he glanced over Leo's arm to peer at the contents of the tome he was holding. It purported to allow for the conjuration of fireflies, which were, according to the tome, fire-breathing swarms capable of incinerating any foe.
+
+Cale snickered, and Leo shook his head, putting the tome despondently back on the shelf. "I was hoping it'd have something interesting," he grumbled.
+
+"Oh, it might," Cale said, shrugging. "You'd have to spend a lifetime searching these shelves, though, hoping to find the right one. Something something, broken clock."
+
+"What?" Leo gave him a strange look.
+
+"Is that not a saying?" Cale frowned. "I could've sworn that was a saying."
+
+Leo just blinked. "...anyway," he said, changing the subject. "I can't help but feel like there's something weird about this. What do you think?"
+
+"Aside from the shelves full of books that shouldn't exist?" Cale quipped. Leo rolled his eyes.
+
+"Yes, obviously aside from that," he said. He hesitated, looking for the right words. "We know the professors couldn't find the right tomes, and obviously we can't, either. We could keep trying, but the same thing would probably happen to us.
+
+"The thing is, this effect is in the Haelforge Library as a whole, right? But Professor Delia didn't say anything about other students running into something like this. And I'm willing to bet if the students did know about it, half of them would probably go missing trying to explore—you know. Infinite interpolated space. I know I probably would."
+
+Cale's eyes gleamed. "That is a really good point."
+
+"I might have an idea," Leo said, meeting his gaze.
+
+"Funny." Cale began making his way back through the shelves, with Leo following close behind. There was a grin in his voice. "I think we might've had the same one."

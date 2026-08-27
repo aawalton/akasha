@@ -1,0 +1,69 @@
+---
+id: e7904e80-2734-55f7-852c-e568d30cbca4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Sophia’s Struggle"
+slug: 0314-chapter-33-sophias-struggle
+partOf: labyrinth-of-the-mad-god
+position: 314
+ownLength: 1484
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3433014/chapter-33-sophias-struggle"
+royalRoadId: "3433014"
+---
+
+Sophia soared above a monster-infested wilderness, searching for any sign of the boss lurking in the jungle below.
+
+Another day, another dungeon. She reached down and rubbed Roc’s neck—her trusty steed and the newest member of her summon squad. The vermillion beast leaned into her chitin-covered hand, chirping in contentment as they circled around to take a closer pass over the densely wooded region she intended to explore on foot after wrapping up their scouting run.
+
+In addition to her demonic dilemma, something strange had happened after Sophia evolved to Grade-D and upgraded her class. Her summons had started off as simple, mana-forged constructs that were crude copies of the beasts she had collected cores from—bundles of instincts and muscle memory with no thoughts or emotions of their own.
+
+But after returning to the planet of her birth, her wasps, frogs, roaches, and eagle had gradually developed distinct personalities and the ability to remember their prior incarnations, making them trusted teammates instead of mere tools.
+
+That unexpected development was a bright spot amidst the dark days that descended upon her after defeating the Guardian and saving her homeworld from destruction at the hands of the Mad God. Having companions that Zenith couldn’t harm was the only reason she was still sane after being trapped inside an alien body that was so starkly different from the one she’d known all her life.
+
+This was the third dungeon Sophia had entered since merging with the demon dwelling inside her core—a relationship that was supposed to be symbiotic but now threatened to consume her utterly, erasing her mind and subsuming her soul.
+
+While she had fought with everything she had to endure this long, the situation was grim and growing more dire by the day. She was struggling to hold onto her sense of self, losing her memories one by one as Zenith consumed more of her spirit with every breath she drew.
+
+She hadn’t given up, but enduring the demon’s advances was a monumental struggle, and if she was being honest with herself, she knew the end was coming in weeks if not days. The only silver lining was Sophia had managed to avoid slaughtering any people or awakened beasts when the symbiote took over by diving into one dungeon after the next. She was happy that she could earn rewards for Aurora in her compromised state, helping the people who had become her new family.
+
+Fortunately, Zenith hadn’t picked a fight over her choice of venue. All it cared about was growing strong enough to return to the dimension it had been banished from long ago. The demon was eager to kill anything that provided sufficient experience and essence, and powerful monsters were perfectly suitable prey.
+
+However, that was the extent of the good news, and she was terrified about what would happen if the eldritch entity was unleashed upon the Earth. She had contemplated taking her own life on several occasions, but she refused surrender to oblivion without fighting until her last breath. Besides, there’s a good chance that Zenith will wake up and stop me if I try to rip out my throat.
+
+She took a deep breath to calm the raging tempest of emotions swirling within her armor-plated chest. Right now, she was alone inside her head—one of the rare moments when the demon was asleep that she couldn’t afford to squander.
+
+It was hard to come up with a plan to destroy a creature that could read her surface thoughts, but over time, Sophia had grown intimately aware of her symbiote’s nature. Just like the times when she blacked out and it assumed full control, there were periods when it was deeply asleep. She had come to treasure these precious seconds of solitude, even if she couldn’t change back from the half-demonic form Nick had named the bonefiend.
+
+In addition to fortifying her resolve, she used these occasions to refine her strategy for defeating the demon and destroying them both if its victory seemed inevitable. Even if it was the final act of her all-too-short life, she refused to let the symbiote slaughter innocent people.
+
+While she hadn’t given up hope, as matters stood, she estimated her odds of winning this fight as somewhere in the single digits. For the time being, subterfuge was her strongest weapon. She could still allocate her free attribute points, and Sophia had been boosting her Mind to help her control her thoughts. When the demon was awake, she prepared to enact the worst plans she’d come up with—the ones she didn’t believe had any chance of succeeding.
+
+Thus far, her deception seemed to be working. Zenith was growing more confident as her resistance appeared increasingly futile. She hoped the creature wouldn’t work as hard to prepare for their looming showdown if it believed its victory was inevitable, giving her an edge during the final battle for her soul.
+
+When she felt Zenith stir, Sophia turned her thoughts to conquering the dungeon, showing no sign of defiance as the foul being returned to full alertness.
+
+Neither this dungeon nor the one before it had been as difficult as the first, which had awarded a Rare building voucher for Aurora. However, this System-enclosed space was bigger and prey was plentiful, fulfilling their mutual desire to hunt and grow stronger.
+
+“You still haven’t located the boss’s lair, little mouse?” The demon was in a good mood. Its thoughts took on a playful tone as it mocked Sophia’s plight. “I can’t imagine how you survived before I arrived. I suppose it’s my fault for expecting anything of you to begin with. What is that expression your people use? Ah, yes. If you want something done right, you have to do it yourself.”
+
+She felt the demon reach out, extending its senses beyond the boundary of their body. Zenith was skilled in the use of psychic powers and could create a thoughtform double, even though she had only put a dozen points into Psi thus far. She watched as a ghostly copy of her mutated body leapt from Roc’s back and soared into the jungle below—connected to her brain by a slender silver cord.
+
+Sophia had tried severing it on more than one occasion, which had resulted in the demon torturing her for days while laughing at the futility of the gesture. She wasn’t sure if the symbiote was even vulnerable as a mental projection, but it was the only lead she’d obtained thus far, and she would try again if she thought she had even a slim chance of success.
+
+The pain and humiliation were immaterial, but she couldn’t afford to lose herself in mental anguish for days; not when she had so few hours remaining before she lost this war of wills. Zenith’s thoughtform returned ten minutes later—smugness and self-satisfaction flowing through their bond.
+
+“There is a network of caverns running below the jungle. The boss only surfaces when it’s hungry, which is why you haven’t come across its trail from the air. Land near that glade, and the closest egress should be easy to find, even for someone as hopeless as you.”
+
+Rather than argue or engage in a pointless struggle, she did as she was bidden, dismissing Roc after drawing the beast in for a quick hug. She summoned Buzz—the most intelligent frostfury wasp in her squad—along with Croak and Red, the pair of speartongue frogs who had developed the most vibrant personalities thus far.
+
+Sophia summoned another half-dozen frostfury soldiers to form a perimeter around her position, added a warrior roach to guard the rear of the formation, then approached a crevice running alongside the clearing. When she spotted the entrance to a subterranean passage, she sent two wasps ahead and stepped inside, peering through alien eyes that could pierce pitch blackness as easily as the brightest noon.
+
+Hour by hour and tunnel by tunnel, two beings sharing a single body delved the dungeon’s depths. They cut down countless monsters, feasting upon their foul flesh as her levels and skills grew. With Zenith’s knowledge at her disposal, clearing the understanding requirements to advance her abilities was a trivial task, as was overcoming the System’s trials of mastery.
+
+Although the demon laughed and called her delusional, it she took comfort in the fact that if she somehow made it through this nightmare, she would emerge strong enough to protect her planet and the people she loved—ready to face the worst the Labrinth had in store and carve out a place for humanity to thrive in this strange new chapter of the history of her species.
+
+As her desperate struggle continued, she drew strength from the memories she’d made with her friends. From Kenji’s brilliance and Devin’s courage. Veronica’s cunning and the warmth of Nick’s love.
+
+While each new day might well be her last, Sophia wasn’t dead yet, and where there is life, hope springs eternal.

@@ -1,0 +1,57 @@
+---
+id: 1b4ee0d3-72f8-5dde-ae26-3fceadaf41ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52: Close Call"
+slug: 0091-chapter-52-close-call
+partOf: labyrinth-of-the-mad-god
+position: 91
+ownLength: 1249
+unit: words
+publishedAt: 2024-11-15
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1905868/chapter-52-close-call"
+royalRoadId: "1905868"
+---
+
+Five breathless minutes later, Nick was coming to the conclusion that this strategy wasn’t going to be sufficient.
+
+His party was inflicting some significant damage to the force-wielding monstrosity, but it wasn’t fast enough. He was going to run out of stamina again sooner rather than later, and the mutant showed no sign of going down. Not to mention, if he fucked up even once and wound up getting caught, it was going to be game over.
+
+Sophia must have come to the same realization. “This isn’t working. The Janitor’s shell is too tough, even if it can’t regenerate quickly anymore. We’ll have to go with plan B. Burn through enough vital energy to get it to change shape, then hit it with our big guns once its armor is out of the picture. Start stepping up your offense everyone. Make sure that each ability will land before you use it—we can’t afford to waste any mana. Remember the plan for what comes next, and don’t use anything that we will need for the finale.”
+
+The team ramped up their output while Nick brought the Janitor around for another close pass. Veronica tagged it with a pair of Acidic Bolts, which were starting to do some serious damage given all the incidental hits she’d scored by this point.
+
+She even darted in and sliced at the creature’s flanks—working her bone claws in through the gaps in its shell before sprinting back to the team. Nick wasn’t sure if her bleeding poison had any effect on its alien physiology, but it was worth a try.
+
+Shaun didn’t have a lot of mana to spare, but he did land a pair of Electric Arrows—intense concentration scrunching his face as he lined up the shots. Each crackling missile entered the holes V had eroded, discharging a miniature bolt of lightning that conducted through the mutant’s gelatinous tissue. The voltage made it freeze for a fraction of a second, giving Nick a chance to widen his lead.
+
+Devin had noticed that the Janitor wasn’t good at reaching for things that it couldn’t see. That the force arms couldn’t grab him if he rushed in from behind its field of view. He took advantage of the fact to launch some hit and run strikes of his own—able to target the cracks in the mutant’s armor now that he was using the axe properly. Each blast knocked pieces of the white shell free and injected fiery mana into the wound. They didn’t do as much damage as V’s Acidic Bolts, but the searing energy was gradually taking its toll.
+
+Sophia must have judged that she could spare enough stamina to summon more wasps, because two more joined the battle a few seconds later. The big bugs flew in a circle, in the opposite direction that Nick was running. Every time they passed overhead, the blue-striped insects performed a streaking dive. They stung the Janitor before taking to the air once more, injecting it with their freezing venom. She eventually lost one to the mutant’s force-arms, but the tactic was effective overall.
+
+Her frog’s tongue couldn’t penetrate the mutant’s armor. Instead, the vermillion amphibian stood in reserve near the front of the party’s formation, waiting to pull the team to safety at a moment’s notice. “I think it’s working,” Sophia called out a few minutes later. “We’re draining our reserves faster than I would like, but we’re eating away at its tissue. The Janitor is starting to slow down. It shouldn’t be much longer until it’s ready to change tactics.”
+
+It turned out that the mutant had one last move to make before that happened. It had been gradually reducing its speed, which they had thought was a consequence of its injuries. But it was just a ruse. The Janitor waited until Nick was nearing the corner of the chamber before abruptly speeding up—moving even faster than before. He had the sense that it couldn’t keep up the pace for long, but the rapid acceleration caught him by surprise.
+
+He burned some stamina and tried to move out of the way. But the mutant sprinted even faster—legs pumping in a frenzy of motion. It closed the distance in a bladed flash, almost taking him out with a swipe of its claws, followed by four of its force-arms at once. He dove to one side while firing all three blasts of his wand to keep the hands off him.
+
+It was a good move, but it wasn’t good enough. One of the translucent limbs pushed through the blasts—stretching for Nick’s position in the blink of an eye.
+
+He rolled, dodging the translucent fingers with inches to spare. He called upon his Artic Clarity, using the frigid state of focus the help track the arms and move his body out of the way. As soon as he sprang back to his feet, the closest force-limb came around for another pass.
+
+Nick didn’t have enough room to leap or roll. His wand was out of juice for a few more seconds, and he didn’t have time to cast Mana Dart. He would have used Force Acceleration, but his angle of retreat was cut off by the charging creature.
+
+Oh shit. That’s not good. He tried to run anyway, knowing that it wasn’t going to work. Just before the force-fingers clamped onto him, he felt something wrap around his waist.
+
+In that moment, he thought that he was done for. But then he realized that it was a rubbery pink appendage instead of a magical projection. The frog must have repositioned when I wasn’t looking. Half a heartbeat before the Janitor reached him, the summon’s tongue retracted—pulling Nick back and out of the way. The move was quick, and it saved his life, but it wasn’t a clean getaway.
+
+One of the arms was already circling around from behind the mutant’s back. It latched onto the tongue a heartbeat after Nick cleared the creature’s body. Sophia must have seen the attack coming. The pressure around his waist loosened just before the mutant gripped tight, letting him slide out of the loop and start running back to the party.
+
+With a furious roar, the Janitor pulled hard. The frog left the ground like a rocket taking flight and went flying straight for the enraged creature. The white shark opened its mouth and caught the amphibian between its hulking jaws—the same fate that the summon had spared Nick from at the last possible moment.
+
+The Janitor ate the frog in a second flat before turning to face the party. It was planning to heal after consuming the red and black beast. But that wasn’t how events played out.
+
+Instead of bursting like a meat piñata, the summon disappeared in a flash of ruby light when the force-maelstrom tore into it. The white shark let out a roar in frustration when its meal vanished without a trace, losing its chance to eat Nick in the process.
+
+That was the final straw. The enraged monstrosity must have decided that it couldn’t catch the party in its shark form, and it was tired of taking damage from the ranged attacks that Team Earth and the gear-swarm were sending its way. It was ready to hit back and hit hard, even if it increased the damage it took in exchange.
+
+“It’s happening,” Sophia called out. “Adjust our formation and get ready for the next phase of the plan. Our showdown is about to reach its climax.”

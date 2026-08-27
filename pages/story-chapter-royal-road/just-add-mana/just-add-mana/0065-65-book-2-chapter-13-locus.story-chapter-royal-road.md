@@ -1,0 +1,241 @@
+---
+id: 30efa644-33af-5740-940e-3436195e0e9f
+page-type-slug: story-chapter-royal-road
+title: "65 — Book 2, Chapter 13 — Locus"
+slug: 0065-65-book-2-chapter-13-locus
+partOf: just-add-mana
+position: 65
+ownLength: 3476
+unit: words
+ownProgress: 3476
+publishedAt: 2025-11-25
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2791976/65-book-2-chapter-13-locus"
+royalRoadId: "2791976"
+markedReadAt: "2026-06-29T18:49:50.287Z"
+---
+
+Cale went straight for what he knew to be the classroom where Professor Aurs held his Household Magic class. Interestingly enough, there was a rather strong intersection of mana right in the center of the classroom, which was unusual.
+
+Then again, mana flow intersections like these were unusual to begin with. Cale hadn't said anything about it so as to not alarm either of his apprentices, but ambient mana didn't typically behave like this. It was why he was interested in investigating to begin with. Mana tended to move in a way that minimized the amount of energy it had to expend; it flowed around itself as much as it could, creating something akin to a tapestry woven through time.
+
+They almost never crossed into themselves in artificial patterns like what he was seeing here. It wasn't obvious, since none of the mana flows were ever active at the same time, but there was a subtle change in their curvature, like something was drawing the mana here rather than allowing it to flow naturally.
+
+Cale was pretty sure this meant something. The intersections of mana all coincided with places they knew the Red Hunters tended to frequent, which meant it likely had something to do with a kind of magic they used. Perhaps an artifact? Serof had mentioned something about spellslates, now that he thought about it, though he didn't know where they were buried. If he could uncover any of them for study—
+
+"Uh, Cale?" Leo gestured at the empty classroom around them. "What are we supposed to do now? All I see is an empty classroom."
+
+Cale blinked. "Oh, right," he said. He reached out and pulsed a burst of mana directly into the center of the focal point he'd sensed, and he watched as the world around them seemed to crack in response. Damien and Leo both took a step back as a jagged line began to spread through the air.
+
+"Is that... supposed to happen?" Damien asked nervously.
+
+"Hm? Oh, yeah, it's fine," Cale said absently, looking around. It felt almost like he'd sensed something responding to him in that brief moment he'd cracked open the locus... but whatever it was, it disappeared just as quickly.
+
+Strange. That didn't feel anything like a spellslate.
+
+It felt like something alive.
+
+He frowned to himself as the crack slowly spread through the air. Mana poured through the rift—his own mana, really, embedded into the locus as a kind of fuel—and settled into the classroom, shaping itself in a facsimilie of what appeared to be one of Professor Aurs's first classes.
+
+"We should probably find a seat," Cale remarked while Damien and Leo stared on in awe. "Pretty sure this one's going to be a while."
+
+Cale, Leo, and Damien soon found themselves seated at the back of the classroom, watching the echo of Professor Aurs's first class with interest.
+
+Well, Cale was watching it with interest, anyway. Damien and Leo seemed to be more preoccupied by the ghostly apparitions surrounding them, which was probably fair.
+
+"How did you even do this?" Leo breathed. "Would it work in Brightscale?"
+
+"Technically," Cale said with a shrug. "If the mana flows cross in the right way. But like I said, this sort of thing doesn't happen all that often. You basically need to feed a pulse of mana into the core of the intersection, wherever it's strongest."
+
+He was sort of understating it, really. It needed to be a rapid pulse, or it would simply emerge as a standard mana pulse; something about the speed allowed it to pierce what Cale thought of as the so-called veil that hung over most realms, thus feeding into the intersection like it was a spell construct.
+
+"This is actually a phenomenon I discovered myself, if you can believe it," Cale added with a whisper. "It was, I dunno, a hundred or so lives back? I noticed that there mana flow intersections in this warehouse looked a lot like the spell construct for a memory spell. I figured it couldn't hurt to just inject mana into it, so I did!"
+
+"And... it worked?" Leo asked disbelievingly.
+
+"Well, not at first," Cale admitted. "It took a while to figure out the technique. Needs to be a really fast burst of mana, or it just kind of explodes like a regular mana blast. I know this because I accidentally blew up the warehouse it was in."
+
+"Of course you did," Leo muttered.
+
+"Also, I think I might have glassed most of the desert behind it," Cale said. "I think they turned it into a tourist attraction, though, so that ended pretty well! Plus I figured out the murderer with the mana echo."
+
+"The what?" Damien asked.
+
+"The murderer," Cale said. "It was an investigation thing. We were trying to figure out who killed the warehouse manager."
+
+"And you decided to solve it by blowing up the warehouse?" Leo sounded utterly scandalized.
+
+"It was an accident!" Cale protested. "Besides, it worked. And also that was a hundred lives ago. I wouldn't make that mistake again. Case in point: this classroom is perfectly intact."
+
+"He has a point," Damien said.
+
+Leo groaned. "Don't side with him," the minotaur grumbled. "If we let ourselves get used to his nonsense we're going to end up accidentally destroying half of Orstrahl the next time we visit—Cale."
+
+"What?" Cale asked innocently.
+
+"You look like you're thinking about it." Leo narrowed his eyes. "Cale, do not destroy half of Orstrahl."
+
+"I would never!" Cale protested. He paused for a moment, then continued: "We'd end up catching too many innocents in the crossfire, so if we were going to, which I'm not saying we will, we'd have to trigger some sort of mass teleportation spell first to get everyone to safety. Then we need to make sure it's mostly the infrastructure that supports the Red Hunters that gets destroyed instead of people's homes, and—"
+
+"You have thought far too much about this for me to not be concerned," Leo grumbled.
+
+"I'm just being responsible," Cale said. "Thinking about this is what responsible people do. What if I get the chance to blow up half of Orstrahl and I'm not prepared?"
+
+"You just don't," Leo said.
+
+Cale stared at him. "I don't get it."
+
+Leo buried his face in his desk with a groan. Cale grinned to himself, noticing Damien's expression of quiet amusement, and turned his attention back to the class Professor Aurs was in the process of teaching.
+
+Or trying to teach, anyway. Aurs was in the process of describing basic laundry magic, and given the way he held himself, this was likely still his first week at Haelforge Academy. There was a kind of pride with which he spoke, like he expected his students to hang on to his every word.
+
+His students, quite predictably, did not. They were bored and checked entirely out of his class. Aurs had clearly been expecting them to be floored by his theoretical knowledge on the applications of laundry magic, so he had no idea what to do with them when they seemed more interested in talking to one another instead.
+
+One student eventually raised a hand, and Aurs latched on to the lifeline instantly. "Yes?" he asked, puffing his chest out.
+
+"Can any of this magic be used in combat? Like, is there anything actually interesting we could use these spells for besides just cleaning our clothes? We already have cleaning wards embedded in our dorms, so we don't really need this stuff."
+
+Aurs deflated almost instantly. "I..." he started, and then trailed off, clearly confused. "Did you just ask if this magic can be used for combat? It is laundry magic, not—not battle magic! I understand Haelforge is an academy for battlemages, but surely you see the applications this will have on a field mission?"
+
+Most of the class just stared at him blankly. Another student raised a hand, and Aurs tried not to wince when he called on them. "Yes, Hardok?"
+
+"Hardok wants to know if [Clean Clothes] can be used to clean enemy organs," the orc said. "Hardok also wants to know if spell hurts when used on organs."
+
+"To clean..." Aurs blinked, noticing that about half the class appeared to be murmuring in agreement. "This—my dear students, this spell is for clothing."
+
+"Hardok not understand," the orc grunted. "Organs can be clothing after removal, no?"
+
+Professor Aurs looked utterly bewildered, to Cale's amusement. Poor Damien seemed just as confused as the professor, and Leo appeared to be doing as Cale had asked and taking notes.
+
+"Can they?" Aurs asked, looking lost. "Who even... you know what, it doesn't matter. Even if that was a thing, which I doubt, most spells cannot simply be cast inside another creature. Such a thing would allow the most basic of conjuration spells to kill any mage! Surely you see the absurdity in this? It is a basic principle of spellwork—for a spell to pierce the innate lifeforce of a creature, the spell must be designed to bypass it. Such a thing raises the cost and tier of the spell exponentially. One cannot simply manifest an effect inside an opponent!"
+
+Hardok raised a hand again, and Professor Aurs stared at him for a long moment. Eventually, he pinched the bridge of his nose and sighed. "...Yes, Hardok, what is it?"
+
+"Hardok wants to know how to bypass innate lifeforce," the orc said bluntly. The entire class leaned forward in interest, finally willing to hear whatever Professor Aurs had to say about this.
+
+"That is... outside the purview of this class," Aurs said after a moment, to an eruption of groans across the board. "I—no, do not act like this is a failure of knowledge on my part! These are ridiculous questions! This is a basic class on spells that will aid you in many basic ways; they may not have any combat applications, but a true mage prides themselves on mastery of all elements of magic! Stop pestering me with these ridiculous questions!"
+
+"Can you cast [Clean Clothes] if the clothes are already being worn?" a student called out, and Aurs blinked, as if confused at the fact that he'd suddenly received what appeared to be a normal question.
+
+"Yes?" he said. "That is one of the intended purposes of the spell, in fact, thank you for asking—"
+
+"Would it hurt?" the same student asked.
+
+"Why would it hurt?" Aurs demanded, exasperated. "It would clean their clothes, precisely as the spell is meant to do! Now would you please allow me to move on—"
+
+The class wasn't listening to him. Cale watched in amusement as the students descended instead into a long debate on how a mage might weaponize laundry magic with extraordinary creativity. Most of their ideas weren't likely to work, of course, but it was still fascinating where their minds went.
+
+"I'm kind of glad I didn't go to Haelforge," Damien muttered, his eyes a little wide.
+
+"I think we'd benefit from an exchange program every once in a while," Cale said, grinning. "You learn a lot from mages like these! Not always about what's possible, mind you. Sometimes you learn what you shouldn't do. But that's just as important when it comes to magic."
+
+"Would any of these even work?" Leo muttered, even as he scribbled everything he was hearing down with a ragged sort of determination.
+
+"Most of them, no," Cale said. "And some of them are just kind of pointless. The ones suggesting combining it with a transmutation spell are correct in that it could technically work, but if you're transmuting your opponents into clothing, then the transmutation is the offensive spell, not the laundry magic. Also you've kind of already won if you succeed with the transmutation."
+
+"Right," Leo said. "But you're saying some of them would work?"
+
+"There are a few good ideas, sure," Cale said, nodding at Caea. She was smirking to herself, for some reason, and had scribbled in her notebook a breakdown of the spell's effects. "You're not going to kill anyone with laundry magic, but you can disarm them. Laundry magic gets rids of contaminants, which means that if a mage relies on small quantities of powder as a physical ingredient, for example, you could get rid of it. Looks like Caea's figured that out."
+
+And more besides, considering the diagrams she'd sketched out in her notebook. She raised her hand and spoke. "Professor," she said. "How does the spell determine what is and isn't a contaminant?"
+
+Professor Aurs frowned. "It's based on what the caster believes is a contaminant," he said, a hint of a challenge in his voice. "And before you ask, you cannot simply designate your opponent as a contaminant. Once again, it would involve overcoming their innate lifeforce. Moreover, the spell cannot remove anything with too much mass."
+
+He shook his head. "Frankly, you Haelforge students and your obsession with violence is a disgrace. You cannot alter the laws of magic on a whim, and you should not try. Every spell has a dedicated use."
+
+Caea regarded her professor thoughtfully. "Then I suppose you wouldn't mind if I cast the spell on you?"
+
+"I—" Professor Aurs narrowed his eyes at her, sensing a trap. "The spell will do nothing but clean my robes. I would stake my pride on it."
+
+"Then there's no harm, is there?" Caea said brightly. "Take down your barrier."
+
+"Fine," Professor Aurs snapped, his barrier dissipating. "But I do not see what point you believe you will make—"
+
+Caea cast her spell before he finished speaking, and the professor made an odd, strangled sort of noise. He stared at her, then at the rest of the class, and then when he spoke, it was with an odd squeak.
+
+"The rest of class is cancelled," he said faintly. "I must... re-evaluate."
+
+He proceeded to waddle gingerly out of class. Cale snorted as the echo faded.
+
+"Um," Damien said. "What just happened?"
+
+"No idea," Leo said. "Did she actually find a way to weaponize the spell?"
+
+"I wouldn't exactly say weaponize," Cale said. "But you can definitely make your opponents really, really uncomfortable, and sometimes that makes all the difference."
+
+"What did she do?" Leo asked, now slightly nervous.
+
+"Basically? She gave him a really bad sunburn." Cale tapped his fingers on his desk, slightly distracted. There it was again, that oddity he felt linked to the Haelforge Academy. What was that?
+
+"You probably don't want to get into a duel with her," he added absently. Leo shuddered in agreement, though Cale was too lost in thought to notice.
+
+There were only a few creatures he could think of that could hide from a mage's senses like this, and of those, the ones that could alter the flow of mana were fewer still. None of those options were good, and if the Red Hunters were using one of them, then he needed to know as soon as possible.
+
+Perhaps there was some way he could lure it out? It had reacted last time to the burst of mana he'd used to activate the memory, but only barely. Anything more would damage the academy, though, unless one of the spells he'd picked up could draw it out...
+
+Hmm. Cale glanced over his spell list once more. He'd picked up a spell from Flia recently, and if he evolved it the right way, there was a chance it could work. He would need to use [Create Current] to disrupt the mana flow in a way that would draw out whatever was lurking here.
+
+He didn't exactly want to just hope the spell would evolve the way he wanted, though. Cale frowned, thinking. Akkau had talked about this once, he was pretty sure, the first time they'd spoken in his office.
+
+"Damien, Leo," Cale said after a moment, getting their attention. "What do either of you know about the Gift's ability to combine spells?"
+
+Flia's spell would help, but he needed one more addition. Cale grimaced a little. He hadn't liked [Auric Dominion] at all, the last time he'd cast that spell, and evolving a tenth-tier spell wasn't something he'd tried before.
+
+Hopefully the Gift would be able to handle it.
+
+Flia was once more lounging at the Brightscale Academy's menagerie.
+
+Sort of. Lounging wasn't really the right word. She was hiding, because students weren't supposed to be here without any of the keepers around, and a first year student especially was not supposed to be here without supervision. Some part of her had considered asking for permission, but then she thought about the possibility that someone would say no, and she was tired of waiting.
+
+She'd been waiting to understand her magic for too long already. Now that understanding stood just outside her grasp, right at the edges of her mind. Just a few more minutes here, among the magical creatures of Utelia, and she was certain she'd make the connection she needed—
+
+—Flia yanked Sabri back a second before her shadeling could butt its head and try to eat one of the creatures in here again. Apparently something about nighttime and being in the cover of darkness made it significantly hungrier. She fed it yet another strip of raw, salted meat before it could make another attempt at one of the birds; Flia did not want to see what would happen if a shadeling tried to eat a firebird.
+
+"No," she scolded quietly. "Nothing in here is for eating, understand?"
+
+Sabri tilted its head adorably, and Flia groaned.
+
+"Don't eat the birds," she said.
+
+Sabri purred and butted its head against her hand.
+
+"No. Not even if you're being cute. They're being kept here for a reason!" Flia whispered. "These are—they're all almost the last of their kind, you understand? Headmaster Akkau keeps them here because the mana needed to keep them alive isn't available anywhere else. It's the last preserve for a lot of them. If you eat them, there won't be any left, and that's..."
+
+Flia trailed off. How could she even describe what that meant? Sabri looked at her, innocent and confused, and all Flia could think of to articulate her thoughts was that it was sad.
+
+It didn't seem nearly enough.
+
+It also didn't seem fair.
+
+If Cale was any indication, the Great Realms were full of wonders and infinite possibility, so why did that infinite possibility include so many creatures that were the last of their kinds? How much had been lost already, in a world that should have been filled with wonder?
+
+She stared up at the cages, thinking about where all these creatures must have once thrived.
+
+Firebirds, she knew, once belonged within a magically active caldera, filled with blazing vines and strange, crystalline trees formed from volcanic rock. The beasts within spewed molten liquid that the firebirds consumed, giving them their glittering pelt.
+
+There was a tiny ashquire sleeping in another cage. It was a tiny, ordinary-looking bat that apparently originated from the now-ruined moon that still hung above Utelia. When it was startled, it let out a little squeak, and turned into a streak of solid moonlight that strung itself across the sky.
+
+Once, a whole flock of them would migrate between Utelia's moons each season, weaving patterns of silver light between them. Flia had read about it once, and mourned that she would never see it.
+
+Every one of these cages held a similar story. None of them deserved this fate. Even with Akkau doing his best, they were trapped here—nowhere else on Utelia could support them.
+
+Flia sighed, feeling suddenly powerless.
+
+"...Let's go, Sabri," she murmured quietly. "Maybe this isn't happening tonight."
+
+Sabri chirped and leapt up into her arms. Flia watched her familiar for a moment, a small smile making its way onto her face. She could make a difference sometimes, at least. Perhaps not for all of them, but she would act where it counted. That was what mattered.
+
+Something within her stirred, and with almost too little fanfare for how long she'd been trying to make this work, the Gift's words flitted across her eyes.
+
+You have awakened a fragment of the Law of What Lies Between and granted it a piece of your being.
+
+You have learned [Spark of Those Left Behind]!
+
+[Spark of Those Left Behind, Level MAX] [Personal (Unique), Auric Passive]
+
+A fragment of a Monolith's Law can become many things. Yours has evolved into a Spark—the beginnings of a Law of your own—
+
+Before she could finish reading it, the Gift's messages guttered out. Flia frowned and tried to call it up again, only for nothing to happen.
+
+Outside, a storm began to howl. Flia stared at the lightning crackling over Utelia's seas.
+
+Then she sighed. "Dammit, Cale," she muttered. "Now? There better be a good reason for this."

@@ -1,0 +1,105 @@
+---
+id: d5326dd3-96aa-5377-89ec-5abb64029507
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Traversing the Labyrinth"
+slug: 0282-chapter-2-traversing-the-labyrinth
+partOf: labyrinth-of-the-mad-god
+position: 282
+ownLength: 2198
+unit: words
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3019745/chapter-2-traversing-the-labyrinth"
+royalRoadId: "3019745"
+---
+
+Nick rubbed his temples while considering everything he’d learned—glad that Bandit and Lurk had been there to keep his homeworld safe while Team Earth was tackling the Mad God’s challenge.
+
+“What a formidable pair of beasts,” Fritz’s voice spoke inside his mind. “It’s hard to believe the four of you were integrated by the System only a few months ago. It must have encouraged Taltos to increase the difficulty of your tutorials and subsequent quests to prepare you for its invasion of the Labyrinth. I’m amazed you survived.
+
+“I’m glad I’ve endured long enough to participate in this historic event, despite the tragic circumstances that led to my present state. Perhaps we will get to witness the downfall of the Mad God—who has precipitated atrocities that make what my people suffered pale in comparison.”
+
+Nick conveyed Friz’s compliments to Bandit and Lurk. Both beasts thrived on praise and wanted to know more about the warrior whose soul resided within the Legendary blade. He shared the full story of the Kastillan king’s epic struggle with the Crimson Blight, passing along the man’s words when he wanted to add one detail or another.
+
+“A fascinating tale.” Bandit held Blightbane with reverence after Nick gave his permission, which was comically oversized for the lemur’s body. “I would love to meet the gentlemen dwelling within.”
+
+“That should happen before long.” Nick explained that he could summon Fritz for five minutes each day. “He can speak to me whenever he’s awake, but I’m hoping to come up with a way to let his voice be heard by other people, so he can participate in our conversations without requiring an intermediary. That reminds me, the lemur tribe is from Earth, but why is Lurk here to begin with?”
+
+It turned out that the dinosaur hailed from the dimension the System had merged with their homeworld, which made him wonder if the intelligent spiders, the thing in the sea, and the other unearthly beasts he’d encountered on the Searing Island had all come from the same place and were living on Earth now too. The ones that survived their tutorials at any rate.
+
+Now that everyone had introduced themselves and brought the party up to speed on their situations, there was one final matter they needed to attend to before they were ready to begin their journey to the dreadbeast quarantine zone.
+
+“If we’re going to be working together and fighting as a team,” Nick began, “we need to share our powers and combat styles and come up with some simple strategies we can refine over time.”
+
+He went first. He dove into the details of how his skills, traits, and abilities worked, then moved on to the ins and outs of his class, Profession, and the equipment at his disposal. Kenji took the next turn. Nick had already heard most of this information, but it was good to get a refresher before they fought side by side with their lives on the line.
+
+Kenji’s Rare class was called Commander. It specialized in defense and support, protecting his allies with his shield and spear while guiding them with Tactical Command.
+
+Command was an aura that could simulate the functions of a sophisticated AR overlay. He could use to make anything he wanted to appear within his allies’ field of view—issuing orders, highlighting enemies or objectives, and providing a range of other benefits. He had a second aura called Rejuvenation, which increased his teams’ stamina and health regeneration.
+
+Kenji had learned the combat art Penetrating Thrust, which helped him pierce heavy armor, and Rapid Barrage, which let him attack several times per second to drive an opponent back or engage multiple enemies at once. He knew the spell Enhance Armor, which covered him in a layer of protective earth mana, and the hybrid ability Shield Bash, which combined stamina and force mana to transmit a powerful shockwave to stun his opponents.
+
+Finally, Bulwark generated a potent barrier centered on his position, which could block both physical and magical attacks, although it was better against the former. He could turn the dome opaque to anything viewing it from the outside, making it hard to target his team with precision attacks, especially when combined with Blend. Best of all, his allies could see and fire through the barrier without restriction.
+
+His Profession was Warlord, which offered a range of powers that helped him train troops, bolster morale, position siege engines, and coordinate multiple mages and ranged specialists working in concert.
+
+Kenji wore magic chainmail with a half breastplate, which was modified to be magic resistant and nullified a portion of the kinetic energy from his enemy’s attacks. He had modified gloves, boots, and a helmet, along with a collection of minor magical items and a stash filled with consumables.
+
+The warrior’s pride and joy were his shield and spear. The weapon was made from the horn of the fallen rhino they had battled in the Grand Arena of Papillion, which Kenji had upgraded several times via rewards while climbing the tower. His tower shield was forged from jet-black metal and was even more resilient than the rest of his armor.
+
+He also had one of Nick’s favorite magic items—a strap that made any equipment it touched shrink while holding it in place, letting the man carry his shield and spear without their girth getting in the way, and lightening his load while he travelled.
+
+On the skill side of the equation, Kenji had Spear, Heavy Shield, Heavy Armor, Battlefield Medicine, Stealth, Evasion, and something called Evaluate Formation, which was an information skill that provided insights into the strengths and weaknesses of large numbers of troops. It couldn’t evaluate items and terrain like Size Up, but it could provide feedback regarding the formation of entire armies, which was beyond the scope of Nick’s skill. He had several more skills that helped him survive in the wild, which weren’t relevant to their strategy session.
+
+Bandit went next, confirming that he both evolved and tiered up since Nick had seen him last.
+
+“Beasts have skills and traits, but we don’t have the same kind of abilities you do,” the lemur explained. “While our powers are similar in function, the mechanics are less rigid and far more instinctual. We don’t have classes or Professions either, although we are able to select the course of our development at key milestones and walk the path to power of our choosing.”
+
+Most of his powers revolved around his shadow flame Concept, although he could use other forms of fire and shadow magic too.
+
+His shadow flame would burn enemies like normal fire, but like Bret, Bandit could control the shape of the shadows, creating blades that both stabbed and seared his foes at the same time. He could produce a wide variety of manifestations—everything from fireballs to cones of flame to imbuing his weapon with a coating of mana that transferred to his opponents when he landed a solid blow.
+
+The lemur warrior had a short-range teleport he called Shadow Blink that let him travel from one shadow to another. Blink would work on other people too, although using it that way burned through an incredible amount of mana.
+
+Last but not least, Shadow Form turned his body into living darkness, which made the beast incredibly difficult to sense, especially in low-light environments.
+
+Bandit had picked up some interesting gear since the last time Nick had seen him. He had a spatial storage backpack that he could access with a thought—materializing items straight into his hands—and some clothing that helped him survive in extreme environments.
+
+His favorite piece was the short sword strapped to his back, which synergized with several of his skills. The weapon was made from metal so dark that it absorbed the light that touched it. It was wickedly sharp and conducted shadow mana in much the same way that Blightbane conducted pure. While it was ineffective against magical defenses, it could pass through metal and leather like it wasn’t even there, making the lemur a nightmare against armored opponents.
+
+That just left Lurk. She had evolved to grade-D, although she was still tier one and was working on developing her Concept, just like Kenji and Nick. While the dinosaur’s powers were straightforward, they were elegant in their simplicity and terrifyingly powerful.
+
+The towering carnivore was a combat-art specialist. She was armed with a range of attacks that multiplied the power of her potent natural weapons—supplemented by surges of stamina that generated bursts of speed and strength.
+
+The dino’s physical attributes were higher than the rest of the party’s combined, and Lurk was strong, fast, and incredibly resilient. While the multi-ton predator was more than capable of fighting on the frontline while dealing insane damage, she wasn’t a one-trick pony.
+
+Since her species was primarily an ambush predator, she was exceptionally stealthy for something so large, and agile enough to launch precision strikes. She specialized in attacking from concealment, killing or maiming opponents before they realized she was there, which let the dino take out beasts that were even bigger and stronger than she was.
+
+Like Ella, Lurk only knew a single spell. Her magic used life mana to enable high-speed Regeneration until her core ran dry. Combined with her durable body, she could take a beating and recover within a matter of minutes, although she still had to watch out for attacks that could kill her instantly or damaged vital organs like her brain and heart.
+
+That magic is amazing. Nick listened in fascination as Bandit translated. I should try to pick up something similar or learn how to free cast it on my own.
+
+Finally, the dinosaur had developed a unique technique that focused her killing intent into a Paralyzing Roar. It had longer range than Predatory Domain, and rather than instilling her enemies with primal terror, it interfered with the signals coming from their brains, making it hard to control their bodies or incapacitating weaker opponents outright.
+
+Now that everyone was up to speed on what the others could do, they were ready to come up with a primary formation and a few contingencies for various types of emergencies. Nick wasn’t sure Lurk would follow anyone’s orders, so for now, they would center their tactics on her natural proclivities and tweak things after their first battle.
+
+Kenji, Nick, Bandit, and Fritz hammered out their strategy with an occasional grunt from Lurk—who was bored with the conversation and ready to head out. They decided to limit themselves to two key strategies for now—ambushes and direct engagements.
+
+Their party was naturally stealthy, since everyone had powers that concealed their presence in one way or another. Nick and Kenji had their Stealth skill, mana stealth, and Blend into the Background. Bandit had Shadow Form and Shadow Blink, and Lurk was a fearsome ambush predator.
+
+For now, they would follow her lead during surprise attacks, coordinating their efforts to unleash a powerful alpha strike.
+
+During head-to-head confrontations, the dino would take frontline center, absorbing attacks while dishing our damage with her talons, teeth, and tail. Depending on the situation, Kenji would either fight beside or behind her, bolstering her defense while making sure that nothing attacked the beast from the flanks or rear.
+
+Bandit would serve as a mobile skirmisher, using his magic to reposition freely and attack from blind sides and weak points. His shadow flame was deadly, had decent range, and could create area of effect attacks—perfect for taking out enemy archers, casters, and swarms of weaker beasts.
+
+His spells would also provide one hell of a distraction, keeping powerful opponents off-balance during large-scale engagement. He would focus on keeping elite enemies busy while the rest of the team wiped out their minions and were ready to work together to bring the big bad down.
+
+On top of everything else, the lemur’s sword was perfect for slaying armored enemies. Anything that relied on leather, plate, or chainmail to protect itself was in for a nasty surprise.
+
+For his part, Nick was a jack of all trades. He could disrupt enemy spells and bypass magical defenses with Mana Dart, as well as impede opponents by disrupting their vital energy. Piercing Ray was good for penetrating the armor of durable foes or hitting creatures that were agile enough to dodge his darts.
+
+He was highly mobile thanks to Force Acceleration, could defend the team with Arcane Shield, and let loose with Sonic Slice when it was time to end the fight. With Size Up and mage sight, he was also serving as their sensory specialist for magical threats, although both beasts had sharper physical senses.
+
+“Okay,” Kenji said when they reached the end of their impromptu strategy session. “I think that’s good enough for now. We have a solid team and I’m looking forward to working with you.”
+
+They had a lengthy trek ahead of them before they reached the dreadbeast quarantine zone, and they were eager to move on. Guided by the arrow the System had provided, the party left the saferoom and entered the conduit, walking side by side as they began their journey through the Labyrinth of the Mad God.

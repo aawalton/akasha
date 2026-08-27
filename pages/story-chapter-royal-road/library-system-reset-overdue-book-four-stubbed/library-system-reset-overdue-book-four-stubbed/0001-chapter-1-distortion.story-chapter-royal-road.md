@@ -1,0 +1,185 @@
+---
+id: c3c8fa87-a455-5aec-8ef1-129af2d61af9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Distortion"
+slug: 0001-chapter-1-distortion
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 1
+ownLength: 2637
+unit: words
+publishedAt: 2023-10-20
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1380407/chapter-1-distortion"
+royalRoadId: "1380407"
+---
+
+The world shook with all the vigor of a wet dog.
+
+There was no better way to describe it.
+
+Quinn looked up from the desk, startled by the movement, only to notice that no one else had even budged. Odd enough, but it wouldn't be the first time she'd suffered vertigo and thought the world might be surreptitiously ending.
+
+She waited a few more moments before shrugging and flipping to the next page in the course catalogue. Declaring majors was never fun. She’d heard enough grumbling about it over the years. Now it was her turn, and she had to agree.
+
+How did they expect nineteen and twenty-year-olds to decide what they wanted to do for the rest of their lives? And how was she supposed to tell if what she was choosing even had a hope in hell of getting her the sort of money she'd need to survive?
+
+Taking a deep breath, she centered herself.
+
+Mom always told her it was better to do something you loved as long as you could put food on the table.
+
+Which was all well and good, but if Quinn had any say in it, she also wanted to travel overseas, have some nice vacations. The bare minimum wasn't an option.
+
+Even taking all her future wishes into account, Quinn couldn’t shake the constant feeling that Library Sciences was the way for her to go. She’d loved books since she could remember, in this deeply attached sort of way. And no matter what she tried, she couldn’t escape the desire to work with them, despite the current economy.
+
+She still remembered falling into magical worlds through the pages of books she secretly read by flashlight under the covers. Those worlds always gave her a sense of peace.
+
+Maybe if she did something along the lines of information science and systems? That might work. She stared at the page, raising her pen to her lips and nibbling on it absent-mindedly. Of course there was an online catalogue, but this way it felt like a tangible choice. She liked the feel of the paper in her hands. It grounded her.
+
+More weighted.
+
+"Although..." she muttered out loud. "What sort of job would I even get with those qualifications?"
+
+"You talking to yourself again?"
+
+The voice startled Quinn, and she glanced up, squinting against the light pouring in the window. A smile crossed her face. "Hallie. Good to see you too."
+
+Her quasi-friend shrugged. They'd shared a couple of the same classes the first year of college, but Quinn wouldn't exactly call them friends. Frankly, she wouldn't really call anyone a true friend. She'd left those at home when she crossed the country to get as far away from her foster parents as possible. Not that they hadn't kicked her out the moment she turned eighteen. After all, she didn't bring them income anymore and they needed the room for someone who wasn’t a legal adult.
+
+Distance was preferable. Just in case.
+
+Still, Hallie was nice enough even if she never took her classes seriously. The other girl flopped into the seat across from her and opened her course catalog too. "Any ideas?"
+
+"You know picking a career path isn’t like using my lecture notes, right?" Quinn quipped, raising an eyebrow. Hallie hadn't precisely cheated off her, but she had on rather frequent occasions borrowed her notes, rarely taking her own. In a way, the girl had sort of cheated herself.
+
+Hallie stuck out her tongue in that super mature way. "I know. Don't remind me. I was thinking maybe a business major. Or something."
+
+Quinn tried to make her smile encouraging. "A business major leaves room for a lot of possibilities."
+
+“Yeah. I should probably leave my options open.” Hallie sighed, and then leaned over the table and asked, "So, what are you going to do then?"
+
+Quinn glanced at her. "Well, I'm leaning toward something to do with libraries, probably Library sciences or computer systems. All about books really." It was probably time she gave into this strange urge she constantly felt around books.
+
+“Oh.” Hallie let a few seconds of silence lapse. "But wouldn't libraries disappear… eventually? Even our textbooks can be digital these days."
+
+This time Quinn paused. That was a super accurate observation, and she knew, deep down that it was realistic too. So why in the seven hells was Quinn considering something with limited longevity? No matter what she flipped to, her brain pulled her back to this.
+
+Probably misinterpreting Quinn's silence, Hallie continued on. "Well, I mean, I guess if it’s something you feel passionate about. Right?"
+
+Quinn sat back and gave Hallie a long look. There was something different about the girl today. She seemed mostly serious about choosing a career and to actually have it sorted out for herself.
+
+At that moment, Quinn envied her. So, she just shrugged and gave Hallie the best possible response she could think of. "It’s probably a good idea to pick something we’re not going to be miserable doing. Make sure it's something that we can at least love a little bit if we have to be doing it for the rest of our lives. You know, and make money. Find that happy balance."
+
+Her own advise was based on the wisdom she vaguely remembered her mother telling her before her mom died. But those weren't nice thoughts, and she didn't really want to think about them at all.
+
+Luckily, Hallie smiled and nodded. "You know, you're right. Screw the business major. I'm not going to be a business major. I'm going into theatre."
+
+Quinn laughed softly, mindful of their location in the Library and not wanting to make too much noise. The Librarian here could go on the warpath sometimes. "That suits you much more than some stuffy office. I think you're going to do fine."
+
+That was when the world shook again.
+
+And it didn't stop.
+
+Everything around Quinn shook - the tables, the bookshelves, even the people. Vibrations spread across the entire area, climbing up her spine until her teeth tingled.
+
+The people around her trembled in a way that made them appear flimsy, intangible, like stop-motion cut outs. Their movements were stilted and stiff, yet none of their expressions changed. It was like they didn’t even notice.
+
+They wavered around like warped images on an old-fashioned television with bad reception. They flickered in and out, black and white, static interference, there one moment and gone the next. It was as if no one near her actually existed. Like everything was being broadcast solely for her.
+
+Quinn jumped up from the table, her course catalog falling to the floor, suddenly winking in and out of existence along with everything else in the room. She held her hands up in front of her face, checking to see if she too had become weirdly intangible. But her hands were just their same pale shade of boring.
+
+Alarmingly solid.
+
+The library walls rippled like waves on an ocean as if the walls were made of rubber. The glass-paned windows crackled like someone had flicked them and shattered all the glass, replacing it with cellophane. Yet any movement on the floor beneath her sounded as if she was breaking even more glass. Like a car driving over windows.
+
+Overhead, the chandelier that hung down in the main lobby of the Library entrance to the left of her table warped and fizzled. Electric sparks shot out, disappearing in the rising hum all around her. White noise made her eardrums ache right through to her jaw. From the pain, she thought for just a moment that blood was trickling out of her ears. But her fingers came away dry.
+
+If this was vertigo, it was one hell of an episode.
+
+She tried to take a step forward but stumbled to her knees, pain shot through her forehead as if she’d hit the table, which she should have because it was there – but she didn’t remember making contact. Now the table was gone, yet there, ethereal, as if it wasn't actually tangible.
+
+"Hallie?" she called out, but the only answer was a strange buzzing through the air, like a swarm of hornets about to attack her.
+
+Darkness spread throughout the Library, reaching for her like the fingers of shadows. They extended toward her, through the bookcases, past the books, through the walls and the windows, through the people who should have been there, who were there moments before, but now were just static images in her mind. Ever lengthening in their desperate attempt to reach her.
+
+The roar of hornets buzzed around her head while smokey tendrils yearned toward her.
+
+Shadows, closer now, reached for her, bending, twisting, churning almost, like something under the water trying to emerge and grab her. The floor began to warp, cut through by static lines of black and white.
+
+Her entire surroundings went dark, and the ground beneath her heaved violently once more.
+
+And then, just as suddenly as the violent tremors started, they stopped.
+
+Silence hung heavy in their wake.
+
+Slowly, Quinn calmed herself. Even if calmed might be a tad overselling it. She did, however, stop outright hyperventilating. She chalked that up as a win and looked around, taking stock of her predicament.
+
+The library was empty. No books were scattered anywhere. There weren't even books on the shelves. The shelves themselves had morphed into the wall in twisted ways that should have broken the wood or at least made it crack. But it was smooth, very wall-like, resembling something out of a seriously warped dream.
+
+Quinn couldn't quite get her mind around it, not like the way the table in front of her had somehow become a floor. Smooth and sort of spongey. She could almost feeling it bracing to bounce her again…
+
+Looking around, she took in everything.
+
+From the darkness and severe lack of windows, to the cavernous ceiling she could tell reached far above her despite the lack of illumination. She gulped and closed her eyes for a count of twenty before opening them again. But nothing had changed.
+
+She definitely wasn’t in her university Library anymore.
+
+The windows were gone, replaced by a strange wooden material on circular walls all the way around the massive area. As far as she could see. It wasn't like that horrible '70s paneling that was in vogue so many years ago. No, the walls here reminded her of the beautiful trees in the forests of Europe, of those huge Redwoods in California.
+
+Majestic and mighty.
+
+Ancient.
+
+The air around her felt stagnant as if no breeze had graced this glorious wood for more time than she could perceive. The cavern stretched out in front of her. Even if she couldn't see it properly, she knew that much.
+
+A pure sense of vastness.
+
+The absolute silence was weighted and heavy. There was no whisper of even a breeze from the ceiling fans that should be going full blast in the tail end of the hot summer months like it was now. There was no noise coming from anywhere and there were no people in her vicinity.
+
+Hallie disappeared along with everyone else. Quinn's course catalog was gone too along with the choices she was making for the rest of her life. For just a moment, Quinn wanted to collapse. She'd spent days, months, her whole life on this fruitless future quest. And now she was going to miss the deadline. Now it was all gone.
+
+Gone.
+
+Because this place wasn’t her college campus. It wasn’t anywhere she could even remotely identify. Maybe she had been knocked unconscious by the edge of the desk, but there was no pain in her head, so she didn’t think that likely. Given that…Why the hell would a course catalgoue and major choice even be remotely important right here, right now?
+
+Anymore.
+
+She wanted to sit there on the floor that she couldn't identify in this strange, weird area that she'd ended up in and pause and stop and just breathe. Maybe she'd fallen asleep. Maybe this was a dream.
+
+She pinched herself and it hurt.
+
+Like, that was going to bruise tomorrow sort of hurt.
+
+Okay, so probably not unconscious, and maybe not a dream. She obviously wasn't lying there with her head on her hands on the desk. Maybe she'd been knocked out. As far as she’d been able to see there had been debris all around… and flying books. Perhaps one of those hit her in the head and she passed out. Except that pinch should have woken her even in that event. Yet another unlikely conclusion.
+
+So if this wasn't a dream, what was this?
+
+Gathering up courage, she looked around trying to get a better sense of where she was. It was extremely dark with nothing but a dull greenish-blue glow to the whole area. The soft light suffused the area, lending it a more relaxing atmosphere despite the circumstances she'd yet to figure out.
+
+As much as she tried to look around, she couldn't discern anything. She could make out shapes in the distance, but they were shrouded in shadows. At least the latter weren't moving anymore.
+
+It was like the whole area was an optical illusion trying to trick her into believing something was there when it wasn't. She took a few steps forward and it was like the floor moved with her, similar to an escalator that she couldn't see, except it stopped when she stopped, mirroring her actions.
+
+"Hello," she called out and the sound echoed back to her in the way it does if you're standing in a mountain range. Where the sound just bounced off every single mountain in the area. But she wasn't in some hilly region, she was in what seemed like... a wooden cavern.
+
+Now she was getting a little pissed off. Whisking her off to who knew where, and who knew how… and no one was answering?
+
+"Hello!" she called out again, more insistent this time, and received no response. She stomped her foot on the ground, getting really irritated, but the action fell flat with nothing but a dull thud to show for it. "That's enough, you've had your fun, what is this?"
+
+Because it was either a really, really bad dream she was not waking up from, the world had in fact come to an end, or somebody had kidnapped her. Maybe it was a prank. Why would somebody kidnap her? She'd never offended anybody on college campus. Hell, she'd barely spoken to anybody on college campus.
+
+It wasn’t like they could ransom her for her inheritance.
+
+She took another breath, calming her nerves, and this time tried to keep the irritation out of her voice when she spoke. "Okay, if this is a joke, that's fine. Just tell me so I can get out of here and get home. I've only got till midnight to declare my major."
+
+Another several seconds passed without a sound. Taking another few steps forward, she realized her footfalls didn't make a sound. Almost as if the ground swallowed every single movement. And only when she spoke would it echo back at her.
+
+Just when Quinn was about to speak again, a light flashed in front of her eyes, like a holographic screen. It appeared in front of her moving as she turned her head, and a voice resonated throughout the chamber, even though it sounded like it was in her head. The words it spoke scrolled across her vision.
+
+Projected energy expenditure exceeded.
+
+Stand by for emergency protocol.
+
+Emergency Power Mode Override Activated
+
+The sound echoed through the wood-lined cavern she found herself in and the subtle glow changed from bluey-green to red. The holographic words disappeared.
+
+And once again, the world shook.

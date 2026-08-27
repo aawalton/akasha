@@ -1,0 +1,77 @@
+---
+id: 6f4e8524-d34e-5194-9976-18829d72991b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 96: Living on Borrowed Time"
+slug: 0137-chapter-96-living-on-borrowed-time
+partOf: labyrinth-of-the-mad-god
+position: 137
+ownLength: 1773
+unit: words
+publishedAt: 2025-02-26
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2091430/chapter-96-living-on-borrowed-time"
+royalRoadId: "2091430"
+---
+
+The instant that Nick saw the flares, he knew that the party was living on borrowed time. They had a few minutes at most before airships began converging on Team Earth’s position like a swarm of hornets descending upon a chunk of bloody meat.
+
+“Shit.” Shaun said what everyone was thinking. “This is bad. What are we going to do?”
+
+“Start climbing as fast as you can,” Sophia told Veronica, who was manning the controls. “We need to get as close to the roof as possible while we still have room to maneuver. Nick and Shaun, keep an eye on the ship that’s following us while we try to come up with a plan before it’s too late.”
+
+Nick nodded at the sensible suggestion as adrenaline flooded his veins. He handed his spyglass to Devin so that he could look for warships approaching from the other direction. Then Nick stood beside Shaun in the rear of the airship, watching the two-man vessel approach.
+
+The smaller craft was faster than their ride, but not by much. It would be several minutes before it overtook them. Devin hadn’t sighted any other vessels yet, but it was only a matter of time before the pirates’ fleet appeared and their chase entered a deadly new phase.
+
+He considered their options while V charted a course, heading for the next big island as everyone raced to figure out their next move. Ten minutes later, they crested the rim of the isle, granting Team Earth a view of the surface. This island was a vast desert—the largest floating landmass they had encountered yet. Nick ran his gaze across dunes of creamy yellow sand, clusters of cacti and tumbleweeds, and a variety of beasts that were adapted to the arid climate.
+
+There was an oasis only a few hundred yards from the island’s edge—a sapphire lake that was ringed by a dense grove of palms. It was a breathtaking sight, but Nick didn’t have time to appreciate the view. Half a heartbeat later, Devin reported that he could see more ships in the distance. A flock of smaller vessels was closing fast, along with a squadron of transports and warships further out.
+
+It was a deeply worrying development. The only silver lining was that he hadn’t spotted any of the bosses’ vessels yet. Of more immediate concern, the scout ship that had sounded the alarm had finished closing the distance. By now, Nick could see the crew clearly, even without his spyglass. One of the pirates was busy steering the vessel. But the other one, a woman dressed in red leather armor, was up to something.
+
+After firing another flare to mark their heading, she set her gaze upon Team Earth, wearing a look of concentration that Nick had come to associate with casting a spell. Confirming his suspicions, he could sense mana gathering along her fingertips. Fire, if his fledgling ability to sense elemental energy was correct. Sure enough, over the next ten seconds, the searing mana congealed into a roaring sphere of flame.
+
+With a flick of her wrist, she sent a fireball sailing toward Nick’s ship, angling it high so that it would catch the sail. Shit. There’s no way that we can evade it. The women were still novices at steering the airship. They needed to put everything they had into charting a course and maximizing their speed. They couldn’t afford to try anything fancy like engaging in evasive maneuvers. Fortunately, Nick had begun casting a spell of his own the second he realized what was happening, hastily conjuring a trio of Mana Darts and setting them circling around his head.
+
+The rank-three spells were bright enough to leave silver trails in their wake, even in the full light of day. He visualized his trajectory and sent the first dart on an intercept course, catching the fireball about twenty feet out from their ship. He let out a shuddering sigh of relief when the pure mana comprising his dart disrupted the elemental magic, causing the fierce flames to flicker and die.
+
+He gave his other darts their marching orders and watched as the silver wedges shot forth, streaking for the two-man vessel. One of them countered the woman’s second fireball, which was already on the way, and the third caught her square in the chest. The pirate screamed as the painful magic ripped away a chunk of her vital essence, convulsing as the pure mana ran rampant throughout her energetic network.
+
+She would have fallen over the side if she hadn’t been strapped in. Nick was about to cast another dart to target the pilot, but the man had recognized the threat and pulled back on the throttle until he dropped out of range. Good. I can’t afford to waste more mana anyway. Having them back there isn’t a problem if they can’t get close enough to attack. Not with so many other vessels closing in.
+
+By this point, the desert island was a thousand feet below them. Their ship was flying beside a series of small isles that were shrouded in a dense bank of mist. Team Earth couldn’t stop and hide since the pirates already knew where they were, so they passed them by and kept on climbing.
+
+When he looked up, Nick realized that the sky above had begun to change. Off in the distance, he could see something long, flat, and featureless. It’s the ceiling of the level. It was still several miles away. But at least he knew that this floor didn’t go on forever.
+
+Everyone began throwing objects off the side of the ship, doing whatever they could to lighten the load. Anything that could give them just a bit more speed. Devin ducked below deck and returned with the sink. He tossed over the rail, then went back for the toilet. Nick and Shaun did what they could to help, breaking off pieces of the deck and jettisoning miscellaneous items stored in the hold.
+
+Despite Team’s Earth’s best efforts, he doubted that they could reach the next island in time, although he prayed that they would. Sure enough, fifteen minutes later, the party’s fortune took a dramatic turn for the worse.
+
+As their ship continued to climb, ringed by a score of ships closing in from three sides, he saw another group lying in wait dead ahead, including a warship that had to belong to one of the buccaneers’ sub-bosses. It wasn’t as heavily armed as the mammoth vessel commanded by the sky pirate’s leader, but there were still a dozen magitech cannons pointed his way.
+
+The last big island was only a couple of miles above them. He thought they might be able to reach it in time, but it was going to be close. However, his newborn optimism died just a few seconds later.
+
+As it happened, this warship was even faster than he had feared. Before they could crest the next island, it closed the distance and pulled up beside them. Nick frowned at the weapons poking through the side of the ship that was waiting to get just a little closer before unleashing a barrage.
+
+“We’re not going to make it,” he cried out. “We need to dive and find somewhere to hide.”
+
+That was when the pirate ship fired its first volley. It turned out that most of the crystal devices launched fireballs, but there was a glob of acid and a couple of old-fashioned cannonballs thrown into the mix.
+
+Nick conjured more darts while Sophia summoned her wasps, leaving V to steer the ship on her own. Thanks to a few well-positioned darts, they were able to withstand the pirate’s opening barrage, picking up speed as Veronica began a steep dive that left him gripping the railing for dear life.
+
+The next wave of attacks erupted over their heads, having failed to account for their rapid descent. The warship had to turn to follow them, leaving it unable to press the assault for a few precious seconds. Sophia sent out her wasps to harass the nearby airships, targeting their pilots to keep them distracted.
+
+Their efforts bought the party a few more minutes, but it was clear by now that nothing they could do would hold back the armada for long. The pirates were faster and far too numerous to defeat, especially since their own vessel was unarmed. They were running out of options and out of time. But we’re not quite finished yet.
+
+When the next fusillade erupted from the side of the warship, Nick reached into his belt pouch and withdrew a small glass orb—one of the consumables he had received after entering the tower. Praying that it would function the way that he hoped, he dashed the device to the deck.
+
+When the lump of glass shattered, a dome of blue energy sprang to life. It wasn’t big enough to protect the entire ship, but it was sufficient to shield a significant portion. More importantly, it stayed centered on the vessel instead of remaining stationary after activation.
+
+The defensive dome absorbed three more volleys before shattering into fading fragments that vanished a few seconds later. The well-timed consumable had saved their lives, but the prow and one wing were on fire, and the flames were spreading fast. The next time that warship comes back around, they’re going to knock us out of the sky.
+
+The desert island was growing large once more by the time that the ship finished turning about. With a series of bright flashes, it adjusted its angle and fired, unleashing another round of projectiles. Nick blocked three fireballs with his Mana Darts and Devin caught a fourth on his shield, but they still took a blast to the sail and another to each wing.
+
+A cannonball punched a hole in the side of the ship a heartbeat later. An acid glob landed beside it, widening the breech. Nick knew that if they took another hit, Team Earth was finished. If he wanted to live to see the sunset, he couldn’t afford to waste a second.
+
+When he ducked below deck to inspect the damage, he realized that the situation was even worse than he’d thought. The acid is destroying the apparatus holding the floatstone core. Within another minute at most, the sticky solvent was going to eat through the pipes, disabling the device that was augmenting the floatstone’s natural properties.
+
+In short, even if they didn’t take another volley, their airship was about to crash. The party had a fleeting handful of heartbeats to come up with a plan, or they were all going to die.

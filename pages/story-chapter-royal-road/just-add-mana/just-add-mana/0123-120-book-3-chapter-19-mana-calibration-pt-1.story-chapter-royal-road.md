@@ -1,0 +1,203 @@
+---
+id: 79e1c9c5-e405-590d-93fb-be1a11c1cb39
+page-type-slug: story-chapter-royal-road
+title: "120 — Book 3, Chapter 19 — Mana Calibration, Pt 1"
+slug: 0123-120-book-3-chapter-19-mana-calibration-pt-1
+partOf: just-add-mana
+position: 123
+ownLength: 3316
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3251833/120-book-3-chapter-19-mana-calibration-pt-1"
+royalRoadId: "3251833"
+---
+
+Professor Delia was taking this in with an admirable degree of calm, Cale decided. Which was impressive, considering she had bags under her eyes, and that wasn't even a thing he'd thought gargoyles were capable of. It was always fascinating to see how much more he still had to learn about the Great Realms.
+
+"You let them leave," Professor Delia repeated, her voice flat. That seemed to be the only thing she'd gotten from Leo's otherwise lengthy report.
+
+"Technically," Cale said, "they escaped."
+
+"Because you allowed them to," Professor Delia said, turning a withering look on to Cale. Leo visibly relaxed when her piercing gaze finally left him, letting out an audible sigh of relief, only to squeak when that gaze snapped back to him. "And you let him do that."
+
+"Have you ever tried telling this guy what to do?" Leo protested. "He just does whatever he thinks is right!"
+
+"It's true," Cale said. "I tried the whole listening to other people thing. I mean, I still do it sometimes, but only when my gut tells me to do it."
+
+"When your... gut... tells you to do it," Delia repeated, rubbing the bridge of her nose in exasperation. "You are aware that Haelforge Academy has been under siege from the dark lord's forces?"
+
+"You said they were scouts," Cale pointed out.
+
+"Powerful scouts," Delia said, sighing heavily. "Scouts that require our professors to be on alert at all times. We are not in times of peace, Cale Cadwell Cobbs, and we cannot afford to be merciful."
+
+"You can't, you mean," Cale said, and the gargoyle professor frowned at that, straightening to give him something close to a glare. "What? You're right. You can't afford mercy. But I can."
+
+"Your actions—"
+
+"—have an effect on the realm as a whole. I'm well aware of that, Professor." Cale tucked his hands behind his back and strode up to her, meeting her gaze. She was taller than he was, which admittedly made it more awkward than he would've liked... but from the look in her eyes, she was taking him seriously.
+
+Good. When he spoke again, his tone was somber. "It's one of the reasons I have to be careful with when and how I choose to use my power. Do you have any idea what it would mean if I didn't default to mercy? If I just believed whichever side of a war came to me first, telling me mercy is going to get thousands, maybe millions of people killed?"
+
+Professor Delia's gaze flickered, her breath catching slightly, and after a moment, she looked away. "You are... older than you seem," she said eventually, the words hesitant. "Older than any human should be."
+
+"Good catch." Cale smiled, though there wasn't much humor in it. "And if the scouts were still harassing your academy borders, I don't imagine you would have come to find us, would you?"
+
+Delia grimaced at that. "We received a message a few minutes ago, stating that the dark lord's forces would be retreating," she admitted. "We weren't sure if it was a trick, but a few of us thought it might have had something to do with you, so we came to check."
+
+"I thought the timing was a little too perfect," Cale noted, satisfied. "Which means you have a break because I let the aberration go free. What do you think would have happened if I had killed it?"
+
+"The aberration would be dead," Delia answered darkly, but sighed again when Cale shot her a look. "And it's likely that the dark lord would have sent more forces here, yes. I understand the point you're getting at."
+
+"Aberrations rub you the wrong way when you're a realmborn," Cale said. "I get it. They feel like they don't belong, and every part of you screams to make them go away. But don't let that mislead you into making the wrong choices."
+
+"You sound like my mother," Delia muttered, rubbing her temples. "Which isn't an insult, before you get on my back. It's just... been a very long time since I've been lectured like I'm the student." Her tone was dry. "I believe I find it rather unpleasant."
+
+Cale snorted. "Yeah, I get that sometimes," he said. "Look, the dungeon's open now, and we'll be back soon to clear it so we can make good on our agreement. You're welcome to use the mana channelers I hand off to you however you like. Just keep what I said in mind."
+
+"I make no promises," Delia said. "We will defend ourselves as necessary, and frankly, we don't have whatever you have that gives you leave to be merciful. But I will try."
+
+"All I ask," Cale said, nodding.
+
+"Are you ready to head back to Brightscale, then?" Professor Delia asked. She began to trace a teleportation glyph into the air—different from her previous iteration of the spell, Cale noticed. He wondered if she'd received an upgrade.
+
+"I am," Cale said. "Leo?"
+
+"Will the library be alright?" Leo asked, casting a worried look over at the ruined shelves of the Haelforge Library. "It feels like it's still in pain."
+
+Professor Delia's expression softened. "Our Librarians will take care of it, now that they understand the problem," she said. "Don't worry. A magical library can recover from a great deal of damage. So long as a single spark remains, knowledge can be birthed from the ashes."
+
+Leo nodded, relieved. "Alright," he said. "Then I'm ready too."
+
+Delia nodded and snapped her fingers—
+
+—and Cale and Leo found themselves in Brightscale Academy once more.
+
+Cale had not been kidding when he said they would be back soon to clear the dungeon. No doubt Professor Delia thought he meant they would take a day or two to prepare, but what Cale had actually meant was that he planned to kidnap the professor for their next class and make him come along with them so his schedule scroll wouldn't scream at him the entire time they were delving.
+
+This plan, it turned out, had a rather significant flaw. That flaw being that their next class was Magical Foci, which was taught by Professor Graystalk, and he was not particularly inclined to allow himself to be kidnapped, no matter how Cale tried to wheedle at him.
+
+"Please?" Cale asked.
+
+"No."
+
+"Please?" Cale put on his best pleading expression, and Graystalk gave him a flat look.
+
+"No, Mr. Cobbs."
+
+"When did we stop being on a first name basis?" Cale complained, ignoring the fact that he hadn't actually ever referred to Graystalk by his first name (and had in fact forgotten it, if he'd ever been told.)
+
+"When you tried to convince me to abandon my class to join you on a dungeon delve that even Haelforge professors described as traumatic," Graystalk said, sighing. "If you simply desire my assistance, you may apply for it, as any other student—"
+
+"That would take too long," Cale objected. "The whole point of this is saving time. If you come with us, we'll be able to do the delve and our class at the same time."
+
+"Which would make both the delve and the class significantly less efficient," Graystalk pointed out with some impatience, although Cale was also relatively certain he was amused. There was a lot of restraint in his tone, either way. "The depths of an unknown dungeon are hardly an optimal environment for learning, especially for a class as involved as Magical Foci. Which, I will note, is a crafting-oriented class. The lecture will require you to use the tools provided in the classroom. Tools that are unlikely to be available in the middle of a dungeon."
+
+"But that's the best part," Cale said.
+
+Graystalk stared at him for a long moment, then let out a long-suffering sigh. "Elaborate," he said, in a tone that suggested he already knew he would despise the answer.
+
+"The dungeon rewards its delvers with a guaranteed copy of [Merlin's Regret], which is the mana channeler I used to distribute my mana to the Haelforge students," Cale said. "And a dungeon with a guaranteed artifact drop like that—"
+
+"—is almost certainly a dungeon seeded by a legendary artificer," Graystalk muttered, his brows shooting up as he stared at Cale. There was a very faint, restrained glow in them, which was probably about as expressive as Graystalk allowed himself to be. Cale was pretty sure this was his version of jumping up and down with excitement. "And you would bring me with you? Not, for instance, Professor Imrys?"
+
+Cale shuddered. "Listen," he said. "I'll work with her when I have to, but other than that..."
+
+"Say no more," Professor Graystalk said gravely. "I am in full agreement. Very well. I admit to a more than passing interest in artificing on this level, and if this dungeon provides, as you say, a guaranteed reward of that tier... it may be worth the investment of time."
+
+"And abandoning the rest of the class," Cale said brightly.
+
+"Ah," Professor Graystalk said. "No. I would not allow such a thing."
+
+"I don't think I can convince the Haelforge professors to allow an entire class into the dungeon," Cale said, frowning. The professors had been rather adamant about how disturbing the dungeon was.
+
+Cale had plenty of faith in the ability of his apprentices to handle it, given how they'd handled everything else so far, and he was equally certain he could guide them if needed. He wasn't nearly as confident in his ability to get an entire class worth of novice mages through a class-five pilgrimage dungeon.
+
+"You misunderstand," Graystalk said, his lips twitching into a faint smirk. "Magical Foci is a rather unique class to begin with, and its only attendants are you and your apprentices. No one will be excluded."
+
+Cale blinked, caught off-guard. "It's what?"
+
+"Headmaster Akkau thought it likely that something like this would happen," Graystalk said, and there was a hint of smug amusement in his tone that faded so quickly Cale couldn't be sure if he'd imagined it. "I admit, I was initially quite reluctant to follow along, even knowing it was likely... but you have managed to arouse my curiosity, and thanks to his foresight, no other classes will be disrupted."
+
+Cale furrowed his brows. "You know, I know I'm getting everything I want and all, but I still feel like I've been outmaneuvered."
+
+"A feeling you are surely accustomed to, I imagine, given you must have dealt with dragons before?"
+
+"Hey," Cale protested. Then he stopped to think about it for a moment and shrugged. "Actually, yeah, kinda."
+
+Graystalk chuckled in response. "Before your arrival here, I would not have imagined agreeing to something like this," the elven professor mused as they strode through the hallway. There was something genuine and surprisingly fond in his tone.
+
+Cale glanced at him curiously. Graystalk was walking straighter now, like his shoulders no longer carried quite so heavy of a burden. There was a new grace to the way he moved, a lightness to him that Cale hadn't noticed before. His cane tapped lightly against the hallway tiles, and he smiled faintly to himself, without turning to look at Cale.
+
+"I had thought myself stuck," Graystalk admitted. "My curse bound me, as I have seen it bound many others. Without a way to remove it, magic would be a world forever limited to me. Perhaps I lost something of myself, when I let myself believe this."
+
+For once, Cale said nothing, allowing him to talk. It seemed like the sort of thing he'd been wanting to say for a while.
+
+"Yet there is so much more to magic than I had ever realized," the professor said. "Even within my limits—even if I were forever restricted to first- and second-tier spells, or even if I were to lose my magic entirely—I wonder if I would ever truly explore all it has to offer. You have shown me that there are depths to the Great Realms that I could not have even begun to imagine, whether you intended to or not. I owe you a great debt."
+
+"You don't," Cale said automatically, then cursed to himself when he remembered that denying a debt was in fact deeply offensive in elven culture. Graystalk, luckily, didn't seem to mind; instead, he chuckled again, something strangely wistful about him.
+
+"It is very human of you, to reject such a debt," Professor Graystalk said mildly. "But I am afraid you will not sway me on this matter. Do you know what makes this particular class on Magical Foci unique, Cale?"
+
+Cale perked up. "Elves have a lot of special techniques when it comes to crafting foci," he said. "Something to do with that, I take it?"
+
+"Indeed," Graystalk said. "In fact, the techniques I wish to share with you and your apprentices are techniques unique to the Graystalk family. I am the last that knows them. They may not be new for one such as you, perhaps, but I hope regardless that they will serve you well."
+
+"Oh, I mean..." Cale was so bad at this. He needed to attend classes on accepting gifts or something. "I don't actually know many elven crafting techniques? It'll probably be new to me. I tried sneaking into a grove before, but it didn't go well."
+
+"Oh?" Professor Graystalk turned to eye him, quirking a single brow, and Cale briefly considered setting himself on fire. "That must have been interesting."
+
+Thank the Realms he hadn't asked him to elaborate. Cale had sworn off trying to infiltrate elven groves after that particular incident. No wonder elves were so isolated. Granted, he didn't actually know how much they differed realm-to-realm, so that might have been an isolated case... but still.
+
+"You don't have to, you know," Cale said. "Share your family secrets with us, I mean. I know how precious they are to your people."
+
+Elven crafting techniques were renowned, though from what he understood, they were also intensely personal to the elves that developed them. The artifacts that resulted were one of the few ways for a non-elf to access elven magics, however, and so were often heavily restricted across the realms. It was possible—even likely—that in sharing these, Graystalk would become even more of an outcast among his people.
+
+Graystalk inclined his head in a nod. "I am aware," he said. "I am choosing to do this in part to repay my debt, yes, but also as a form of motivation."
+
+"Motivation?" Cale blinked.
+
+The elven professor smiled. "If I share these techniques with you," he said, "then if I desire a legacy, I will have to create still greater ones myself."
+
+There was a slight pause before Cale snorted. "I don't know how else to say this, but that's very human of you, Professor," he said dryly, though he smiled as he said it. He could practically feel the quiet determination burning inside Graystalk. It was remarkable how much that alone had changed the elf—he was brighter, somehow, with a gleam in his eyes that had been absent before.
+
+"I will take that as a compliment," Graystalk said easily. "It is likely that I will share these techniques with others. I simply want you and your apprentices to be the first."
+
+"I get it," Cale said. "And there's a chance one of the wyldfire students will be coming with us. My apprentices are trying to get us into the Fettered Divinity tournament as a support team."
+
+"Oh?" Graystalk hummed. He didn't seem bothered that the extra student might witness his lesson; if anything, he seemed slightly pleased. "I pity the other academies, in that case."
+
+"We're not going to be allowed to actually compete as a support team," Cale clarified.
+
+"I am aware. I pity them all the more for it," Graystalk said, smirking slightly. "I have witnessed many of those tournaments, and it is remarkable how often the support teams make all the difference."
+
+"That much confidence in us, huh?" Cale laughed. "You know I lost some of my mana control in my last trip. I might not get to show off as much as you think."
+
+"My condolences, but... I doubt that."
+
+Cale glanced up at him in surprise. He'd been expecting more of a reaction, but Graystalk had barely twitched beyond a slight tilt of his head. "You do, do you?"
+
+"I was once known as the Mage Killer, if you recall Ms. Whiteleaf's outburst in our first class," Graystalk said mildly. "I have, I am proud to say, a rather apt intuition when it comes to understanding the capabilities of my fellow mages.
+
+"In your time on Utelia, you have earned a great deal of control over your magic—more than any you have had previously," Graystalk continued. "And you are an exceptionally effective spellcaster utilizing the magics you have been denied for so long. But that is hardly where your true expertise lies, is it?"
+
+"Been paying attention, have you?" Cale grinned. "I'm flattered."
+
+"Very much so," Graystalk agreed without missing a beat. "And so it is obvious to me—and so it should be to any mage that has been paying attention—that you are at your most dangerous when you are cornered. When the only option that remains to you is for you to use that overwhelming power at your disposal to achieve the outcome you desire.
+
+"You have, no doubt, a great deal of secrets you have kept from us simply because you have never had any need to use them. The Gift has given you a flexibility you lack anywhere else. Yet this is not a power you have had before. You use it now because it is novel, to train and understand a new form of magic.
+
+"But to my understanding, in every other life, you have fought without this. To take this tool from you takes joy from you, I am certain, but with the Gift you are fighting with a blade having trained with your fists against blades for a thousand lifetimes. Taking that blade away from you again, however temporarily... I suspect it would only make you more of a danger. And perhaps annoy you."
+
+Cale didn't answer for a long moment, then finally laughed, shaking his head. "We have not hung out enough for you to read me that well," he said, smirking. "I mean, I love magic, so I'm upset about it, but you're right overall. I'd still have to do some testing to adjust. Which I've been putting off, I admit, until you so helpfully reminded me that I'm incredibly dangerous either way."
+
+He paused again, this time thoughtfully, then raised a brow at Graystalk. "We have some time before the class. Or the delve, as it were. I was planning to use it to do that testing. Want to join me?"
+
+"As long as you do not destroy the academy, I would be delighted," Graystalk said. "I admit, I have been rather curious as to exactly how much mana you have and the degree of magic you have access to. Akkau has not shared the details of your adventures."
+
+"He knows I like to show off," Cale said cheerfully, though he was pretty sure the real reason was that thinking about it gave Akkau a headache. He began to stride off, leading the way, and felt Graystalk fall into step beside him
+
+Cale took the opportunity to feel quietly for the professor's mana core. He was hesitant to make any promises, given the nature of curses... but part of the nature of a curse was that they could be broken.
+
+Graystalk was right. Cale was very, very good at coming up with options, even when he shouldn't have had any. And it was that, more than even his mana, that made him truly dangerous.
+
+Especially to something as simple as a curse.

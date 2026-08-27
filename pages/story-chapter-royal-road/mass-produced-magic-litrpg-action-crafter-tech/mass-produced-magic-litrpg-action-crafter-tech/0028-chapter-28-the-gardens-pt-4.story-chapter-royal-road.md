@@ -1,0 +1,253 @@
+---
+id: 208bf8eb-1011-5b73-b73b-a266ae051438
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 – The Gardens – Pt 4"
+slug: 0028-chapter-28-the-gardens-pt-4
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 28
+ownLength: 2397
+unit: words
+publishedAt: 2024-12-14
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1956945/chapter-28-the-gardens-pt-4"
+royalRoadId: "1956945"
+---
+
+Kindra shoved on the heavy cart, rolling it forward an inch and hitting the stone doorway of the forge. She stared at the small lip of stone that had blocked the wheel. The small jump in elevation stood there, apathetic to her plight. May as well be a mountain. Looking up, she saw Dain standing in the doorway with a smile. The glow from the forge lit the back of his head, making his red hair glow.
+
+He’s built like an oak tree, and that light makes his hair look like it’s on fire. She shoved again and gave him a begging look, smiling nervously.
+
+Dain reached forward and grabbed it. “I see you went with the pragmatic approach.” He chuckled and pulled it inside. “Interesting choice.”
+
+Kindra walked inside and looked around the glowing forge. “Why get the gems?”
+
+“Magical materials will come with innate properties. Sometimes those include the ability to imbue it with an enchantment.” Dain gestured at the pile. “The steel is useful. The rest, not so much.”
+
+Blushing, Kindra looked at her pile. I got a lot of copper. “Why?”
+
+“Copper is a weaker metal.” Dain smiled. “But we all have to learn that sometime.”
+
+“I didn’t know.” Kindra bit her lip. “I don’t know anything about magical crafting.”
+
+Dain patted her back. “It’s fine, Kindra. They’re still useful, and you learned some things.” He walked to the back door, and she spun, spotting a familiar face in the doorway.
+
+Sigrid leaned close and kissed Dain before turning to Kindra. “Help your father for now, sweetie.”
+
+“Are you getting more?” Kindra asked. “Why can’t I come?” She stepped toward the door. I need more metal. A lot more metal.
+
+“It’s safer this way.” Sigrid turned and walked away.
+
+Kindra sighed. “I can help.”
+
+Dain chuckled, jogged over to the bloomery, and pumped the bellows.
+
+Shutting the door, Kindra followed him. “Why couldn’t I go back?” she asked, walking over and studying the glowing metal inside.
+
+“It’s one thing to help you level and another to force you to fight things like that at your level—you aren’t even level ten.” Dain prodded the entrance, letting air flow and the smoke billow. He shook his head. “Now, what are those contraptions of yours?”
+
+“Guns.” Kindra smiled and gestured at the charcoal, taking a few minutes to learn the words. “You make explosives to launch metal.”
+
+Dain raised an eyebrow. “Interesting. Can you make more?”
+
+“Yes.” Kindra nodded and looked at the bloomery. “If we wanted to improve this village, could we?”
+
+“No, but we’ll be doing that elsewhere.” Dain smiled and gestured to the bellows.
+
+Kindra pumped, and he cleared more of the opening.
+
+“Hey!” Aika exclaimed in her mind. “I recognize this. We’re heading toward the village.”
+
+“Should I tell them?”
+
+“Yes… He’s charging some undead now. Talk later.”
+
+Kindra turned. “Gleon’s outside. Can I see Aika?”
+
+“Yes. Let’s finish this first.” Dain smiled at her.
+
+“So, just pump the bellows?”
+
+“Yes.” Dain smiled.
+
+Boring. Kindra sighed. “Can you tell me about the gems? And magical gear?”
+
+Dain nodded. “Your class may get a skill related to them if you push. But I can explain some of the simple concepts.” He stretched, popping a few of his joints. “All enchantments are temporary, like the ones you create using your Enhance Item skill. However, certain materials can hold the enchantments longer, depending on the item. Some materials can power the enchantment with the magic inside of the object. Gems are particularly useful in this regard.”
+
+Kindra looked down at her necklace, and Dain nodded.
+
+“Yes, that’s an example. Now, certain enchantments cost more or less depending on what they do. Stat increases, increased durability, and things that provide a boost come at a real price. They drain faster.”
+
+“How long?” Kindra pointed at her neck.
+
+“That should last you a year.” Dain sighed. “It’s low quality to be honest.”
+
+Kindra pumped the bellows and raised a brow. “The gem?”
+
+“And the method used.” Dain ran his hand through his hair with a grimace.
+
+“Ah. Your mana would grow, and you don’t want that.”
+
+“Correct,” Dain admitted. “We’ll handle it.” He patted her on the back.
+
+“Can you make one with just the gem and nothing else?”
+
+“Yes. How long it lasts varies based on the strength of the gem, the amount of mana used, and the spell you trap inside of it. Adding another material can boost it if it’s the correct one.” Dain prodded the bloomery. “Enhance Item provides the spell used to seal it and some basic spells to augment items. Specific enchantments require you to know the spell unless you advance Enhance Item in very specific ways.”
+
+“So, use Enhance Item to practice?”
+
+Dain nodded. “And study runes with your mother. If you can make an advanced one, it’ll open other options.”
+
+Well. That gives me something to work toward. Kindra pumped the bellows and looked toward the descending sun. Shadows stretched through the town. The stone buildings were quiet, and the people were subdued, their postures revealing the despair and depression.
+
+I’ve got to fix that… Was my dream right? Do they use some magic shield? She looked over at Dain. “Dain, do the necromancers use shield magic?”
+
+“Yes. It’s an old spell and would stop your gun.” Dain sighed. “That’s the problem. They can stop a mountain.”
+
+Not if you break the shield first. Kindra pumped bellows and carefully brought the runes to mind, slowly working through the counter sequence.
+
+Nodding to herself, she pumped the bellows and heard the sound of scuffling feet. Not again. Looking up, she saw Dain move forward.
+
+He nudged her. “Take a little break, Kindra.” He pointed to the back of the forge.
+
+Kindra jumped up and darted to the stone building. She listened and heard the sound of boots, along with some shuffling undead.
+
+Dain sighed. “What now?”
+
+“Where is she?” someone asked.
+
+“In the forge, why?”
+
+“Some undead went missing out in the field.”
+
+“And? They die out there all the time. You know that.” Dain sighed loudly.
+
+“Get her.”
+
+“Kindra?” Dain called.
+
+Kindra poked her head out. “Dad?” She turned and saw the guards, along with two decaying dwarves. The flesh was falling off their bones, showing glowing bones, living reminders of the impending fate that would meet the dwarves. The hair on her back rose. That’s messed up on so many levels. She waved at the guards.
+
+“See. She’s here.” Dain pumped bellows. “Must be a predator. We all know that many die while defending us.”
+
+The guard studied Kindra and ignored him. Kindra ignored him in turn, checking the barrels of charcoal. “We’re low, Dad.”
+
+“We’ll start another batch tomorrow.”
+
+Kindra nodded and put the lid back on the barrel. She walked over and began cleaning, gathering clumps of scrap. I hope there’s some iron in here.
+
+The guards turned and shuffled down the road. Kindra dumped the remnants into a pile and studied them. There’s a lot of silicon in there. There’s always so much silicon. I guess that’ll come in handy later. She pulled out the magnet and tried to filter out anything magnetic, separating them from the rest. I need an identification spell—wait, is that a thing?
+
+She jerked up and smiled at Dain.
+
+“What’s with that look?” Dain asked.
+
+“How can I learn runes?” Kindra asked with a growing smile. “And spells and things?” She pointed to the pile. “I need to identify that.”
+
+Dain shook his head sorrowfully and looked around the area, gesturing her closer. “Only the approved books are allowed,” he whispered.
+
+Of course, they are. Kindra nodded. I really need to figure out the word for electricity if they even know it. She resumed cleaning, gathering clumps.
+
+“Have any spare mana?” Aika asked.
+
+Kindra let it flow through the connection. “What’s going on?”
+
+“Some of those vulture bird things. He’s making me fight them.”
+
+“Be safe.” Kindra turned and looked at the wall. It has to be to protect them from wildlife. She turned and tapped Dain. “Where do you grow other plants?”
+
+Dain gestured to the field around the city. “The undead guard it.”
+
+Nodding, Kindra walked over and peered into the bloomery. The metal glowed. Smoke drifted into the air, and she felt the ground tremble. The vibrations grew, bouncing small pebbles and forcing her to be still. Seriously?
+
+Dain sighed. “Rotten grubs.”
+
+Wait. Is grub the right word? Kindra paused and failed to figure that out. “Will they kill it?”
+
+“Depends how far away it is.” Dain pulled out a glowing chunk of metal, set it on a rock, and gestured Kindra forward.
+
+Grabbing the hammer, Kindra knocked away impurities. Dain added a few more lumps and joined her. Each pounded away at the stone. Kindra slowly formed a lumpy block, burning a little mana to remove the last impurities.
+
+The ash scattered, and the glowing lump of metal sat there like soft, hot clay. Kindra leaned closer and smiled. That is really cool. To think, that’s what started everything. She looked at the bloomery and over at Dain.
+
+Using tongs, he plucked the metal from the rock and walked them into the forge. Shutting and locking the door with an old key, he walked back. “Let’s get home.”
+
+Kindra nodded and followed him through the city streets. The last of the sunlight lit the air in orange and red. Undead birds circled. Dwarves scurried down the streets, giving sullen greetings and avoiding the guards.
+
+Kindra did the same, veering through a few alleys to get to the house. Walking inside, she looked around the small stone structure. Like a city apartment. She scanned the small room. Can’t wait to remodel this city.
+
+Dain grabbed a bucket and handed it to her. Grabbing another, he walked out the door. She followed, walking down the stone streets and waving to a few dwarves who turned.
+
+They did not wave back. Instead, they whispered and moved quickly down the street. Rotten hair. Kindra plastered a fake smile on her face and walked down the roads, looking at the other dwarves. The fake smile fit. Most looked depressed. Some had similar fake smiles, and a rare real one was found through the groups.
+
+A large barracks towered over the other building, creating an easy-to-see marker in the center of the town. Beside it sat a nice home that seemed more ornate. I guess the mayor lives there.
+
+Joining a line of dwarves, Kindra waited for the line to the well. We should have used the tunnels. It’d be faster.
+
+A dwarf with a large, black beard and bald head walked up. “Oi, Dain. Who’s this?” He held out a massive hand.
+
+“This is our adopted daughter, Kindra,” Dain replied, patting her on the back.
+
+Kindra held out her hand, and his large hand engulfed hers, pulling her into a half-hug.
+
+The dwarf chuckled. “Such a dainty lass.”
+
+Kindra blushed. “Nice to meet you.”
+
+“You too.” The dwarf let her go and joined the line. “And she’s a smith?”
+
+“Aye.” Dain nodded.
+
+The dwarf leaned forward. “Did you hear?” he whispered.
+
+“Hear what?”
+
+The dwarf looked around the line and stepped closer. “Hear about the supply shortage? We lost four smiths.”
+
+Kindra watched his hand drum out some inconsistent beat. That’s a code, or I’m a dwarf. She smiled at her inner joke and looked down at her body. Still closer to human than a dwarf. Stepping forward, she looked at the well. Dwarves lowered a bucket and filled their own before walking off, moving past the barracks and a group of guards standing there solemnly.
+
+Inching forward, she turned back to Dain. He stretched and handed her the bucket, wiping dust and ash off his clothing. I need a cleaning spell, too. System, where’s my spellbook?
+
+[Request logged.]
+
+[You have one new request from admin: Kindra. Would you like to view it?]
+
+Death, you’re way too clever. Kindra smiled and stepped forward. She took the rope and lowered the bucket. Pulling it back up, she filled her bucket and lowered it down, repeating the process to fill the other bucket. I need to make a pump.
+
+She handed a bucket to Dain, took the other, and walked down the stone streets. The sunlight began fading, and everyone began moving rapidly, returning home. Doing the same, Kindra followed Dain up to the door and quickly entered the building.
+
+“Dain?” Kindra asked. “Is there a… a reason people are going so fast?”
+
+“The undead guards aren’t the brightest. They have been known to attack people.” Dain turned. “What word were you looking for?”
+
+Kindra set the water down near the fire. She began gesturing and got another vocabulary lesson about curfew, undead, the guards, and whatever else Dain thought to squeeze in.
+
+Scrubbing off the dirt from the day, Kindra listened and walked to the kitchen, where she helped Dain make supper, chopping various fruits and vegetables. I should have brought meat back, even if it was a rat. Slumping, she helped chop up some strange roots.
+
+“No meat?” Dain asked.
+
+Kindra nodded.
+
+“I’m going to try an experiment.” Dain reached into a bag and pulled out a piece of fruit glowing with mana. “Normally, no one wants these, so I have to be careful about getting them, but we’ll play it off on your low level.” He handed it to her.
+
+Kindra looked at the glowing fruit. “This gives mana?”
+
+“Some, yes.”
+
+She bit into it, and an explosion of sweetness rippled through her mouth. Swallowing it, she ate rapidly. So, it’s not that I’m a carnivore. I just want mana? She continued eating. Well, that explains the rest of it.
+
+Dain chuckled. “And that answers that. It’s good to know.”
+
+Kindra swallowed the last of it and licked her lips. “Why stay? Why not get stronger and leave?”
+
+“We will within a year, but we need people here.” He looked at the door.
+
+Oh! Kindra nodded. “To help?”
+
+“Yes.” Dain chopped another vegetable.
+
+“But doesn’t that make things challenging when you go to leave?”
+
+“It does, but it’s worth it. The forest is dangerous, and it’s better to grow up in safety.”
+
+“Can you hide—”
+
+The door swung open with a loud thud. Kindra jerked backward, and a little fairy shot across the room with a grin on her face.

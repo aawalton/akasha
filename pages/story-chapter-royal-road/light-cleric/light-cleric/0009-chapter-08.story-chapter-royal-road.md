@@ -1,0 +1,339 @@
+---
+id: 6f7f25b7-51e4-554f-9221-9e2595874f3f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 08"
+slug: 0009-chapter-08
+partOf: light-cleric
+position: 9
+ownLength: 5158
+unit: words
+publishedAt: 2021-03-13
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/646123/chapter-08"
+royalRoadId: "646123"
+---
+
+Night’s stillness shrouded Riverton as they rode out of town. Sweep sat nervously on the saddle, the reins in her hands, for all the good they did. Temperance sat behind her, arms firmly around Sweep’s waist. Before them, Father Shane and Father Vytal rode with practiced ease. Steady the Donkey’s lead was attached to Father Shane’s saddle and his packsaddles were laden with supplies. He kept up his even pace without complaint.
+
+Sweep and Temperance had looked at each other with uncertainty when presented with the riding animal, but Father Shane had simply lifted each girl onto the saddle. As Sweep had ended up in front, he’d handed her the reins, and off they went. Sitting astride the beast pushed her dress up to her knees, making her glad for the stockings Temperance insisted she wear.
+
+They were mounted on horses of high quality, or so Father Shane had told them. He’d wanted Father Vytal to sell Steady and the cart, but Temperance had objected and Father Vytal had sided with her.
+
+“We could use a pack donkey. Besides, I’ve grown fond of him.”
+
+Father Shane gave a disgusted snort but didn’t push the issue.
+
+Father Vytal sold the cart.
+
+Father Shane wore a set of leather armor sewn with metal plates lacquered red. He also carried a variety of weapons including a large, two-handed sword, a heavy mace, two short swords and several daggers. As a Sword of the Church, an investigator, adjudicator, and warrior at the behest of the Church Council, he was well prepared for mayhem.
+
+By the time Riverton lay well behind them, Sweep’s reservations about riding a horse were born out. The awkward, bouncy gait of the horse smacked the saddle into her backside over and over again, and her thighs were soon sore from gripping the horse’s body. They didn’t stop for lunch, but ate dried meat and crusty bread in the saddle. By the end of the first day, she was bruised and aching and Temperance complained of the same. That night, before bed, Sweep eased the pain of their saddle-sore muscles with a bit of healing power. It seemed like cheating, so they didn’t tell the Fathers.
+
+• • •
+
+The road south was well maintained and heavily traveled at first. The four of them stayed at inns some nights and slept under the stars others. Father Vytal stayed true to his promise, teaching his apprentices to recognize constellations and take their bearing from the stars, which lead to stories of the Twenty-seven Realms.
+
+“Didn’t I promise to tell you about the Realms?”
+
+Sweep and Temperance nodded. They sat on a fallen tree Father Shane had dragged into camp. Father Shane sat cross-legged in front of his tent, maintaining his weapons and armor, lending a strong scent of oil to the camp. He sharpened a short sword with a smooth, steady grace.
+
+“The Twenty-seven Realms,” said Father Vytal, his voice taking on the resonant tone it often did when he spoke on such matters, “Were created when the trine-voice of God shattered the void. The Prime Realm, what we call Treyaria, is the Universe as we know it. It is the anchor of reality. The other twenty-six Realms orbit the Prime Realm as though it were the hub of an invisible wheel, and they, in turn, influence the Prime Realm. There are three categories of the other realms: foundational, civilized, and aetheric.
+
+“The Foundational Realms – Body, Mind, and Soul – are in constant intersect with each other and the Prime Realm. They are the spark of life within the universe. Every living being of the Prime Realm is a unique balance of Body, Mind, and Soul. The Foundational Realms cannot be visited because they’re always intersecting with the Prime Realm. Said another way, visiting the Prime Realm is the same as visiting the Foundational Realms.
+
+“The twenty-one Civilized Realms are home to all manner of denizens, each with its own set of rules for reality. They are as strange and varied as one might imagine. One of them Intersects with the Prime Realm every few years.
+
+“The Aetheric Realms – Light and Dark – are dichotomous and complementary, each dependent upon the other. The Realm of Light is a place of energy and warmth and movement. The Realm of Dark is a place of quiet and coolness and peace. The balance of the Aetheric Realms creates the Twilight Intersect. They are outer orbiting, occasionally Intersecting with the Civilized Realms and rarely Intersecting with the Prime Realm.”
+
+Father Vytal fell silent. The crackle of fire filled the void, punctuated by Father Shane’s careful sword-sharpening.
+
+Eventually, Temperance cleared her throat and Father Vytal nodded at her. “What happens when one of these Realms… um… Intersects with us? With Treyaria?”
+
+Father Vytal smiled. “The Foundational Realms constantly intersect and the Aetheric Realms Intersect so rarely there is no reliable record. But when the Civilized Realms Intersect, it has significant influence and sometimes gateways between the Realms open.”
+
+“And the intersections are predicted by the stars?
+
+“They are. In fact, a rare Intersect is predicted for couple years from now. The Intersect of the Aetheric Realms – Light and Dark – is expected to Intersect the Prime Realm. That the Twilight Intersect, and not the actual Realms of Light or Dark, is expected to Intersect… It will be something to behold.” He paused, blinked, and refocused his attention on Piety and Temprance. “Would you like to see it?”
+
+“Bah!” Father Shane interrupted. “You’re filling their heads with superstition, Tristam.”
+
+Father Vytal’s expression firmed and he looked at Father Shane. “You, who talks of demons as a cover for investigating treason, accuses me of superstition?”
+
+Father Shane snorted. “Have you ever seen a so-called Intersection?”
+
+Father Vytal nodded. “I have.”
+
+Father Shane stopped sharpening his sword mid-stroke. “You have?”
+
+Father Vytal allowed himself a small smiled. “Would you like to hear about it?”
+
+Father Shane hesitated for several moments. The sounds of night creatures—insects chirping, birds fluttering—filled the silence.
+
+“Bah!” Father Shane said again, and returned his attention to his sword.
+
+“I’d like to hear about it,” said Temperance.
+
+Father Vytal smiled and returned his gaze to his apprentices. “Truly, there is little to tell. It was about ten years ago in the lands to the west, at the edge of the great desert. There were five of us, all interested in the Realms, and we had calculated the time and place of Intersection of the Dream Realm based upon the stars and on old testimonies. We were right.
+
+“I’d been having strange dreams for weeks, vivid dreams that woke me laughing and crying. We all had. And when it appeared, just before night fell on the desert, a great hole opened in the sky and it stretched like a bowl on its side until it just touched the ground. I don’t know what I saw, not precisely, it was a jumble of images. And on the other side stood a man with white skin and black eyes and he held a book in his hands. And he winked at me.”
+
+“He winked?” demanded Father Shane. “You’re teasing us.”
+
+“I’m not. The man winked at me. At all of us I suppose. And then Keith, the eldest, he walked toward the hole, and he stepped through. Next thing we know, we’re all waking up the next morning like none of it had happened.”
+
+“Like it was a dream,” said Temperance.
+
+“Precisely.”
+
+• • •
+
+Everyone helped with the chores of setting up and breaking camp. But on the third night, Father Shane noticed Sweep would have nothing to do with preparing meals.
+
+“How come you don’t have to help cook, brat?” Father Shane growled.
+
+“Because any time I do, the meal goes horribly wrong. Even if all I do is mix flour or peel potatoes.”
+
+Father Shane gave her a steady look as he ground herbs in one of Father Vytal’s mortar and pestle sets. “Like a curse? That’s a cute way to get out of doing some chores. But it won’t work with me.”
+
+Sweep shrugged. “I don’t care to get out of chores. I’ll clean all the dishes after dinner if you like. But I can’t help with the preparation.”
+
+“Leave her be, Jack.” Father Vytal came to her rescue. “I don’t know what it is, but she’s right.”
+
+“You’re too soft, Tristam. Make her stir the soup or something.”
+
+“Jack—“
+
+But Sweep interrupted. “It’s all right, Father Vytal. He won’t believe us until he sees it for himself. I’ll stir the soup.”
+
+The soup was inedible. Sweep and Father Vytal spat it out after one taste of burnt ashes and far too much pepper. Temperance didn’t even bother to try it. “I know better,” she explained. But Father Shane claimed it wasn’t all that bad and he’d be damned if he let that much food go to waste. He ate the soup while the others stuck to hard bread and cheese.
+
+“A bit… peppery, but not bad. You see?” He gave Sweep the full force of his certainty and patted his stomach. “No disaster.”
+
+Sweep was woken from her sleep a few hours later by a horrible groaning. Concerned she exited the tent she shared with Temperance, wrapping a blanket around her shoulders to ward off night’s chill. She found Father Vytal standing several strides away from camp, and beyond was a hulking shadow bent double. The groaning came from the shadow.
+
+“We tried to warn you, old friend.”
+
+Father Shane waved one hand weakly, his arm a shadow in the night. “Don’t.”
+
+“I could heal…” Father Vytal’s offer was interrupted by a horrible retching.
+
+When he was done, Father Shane spat twice then took a deep breath. “Your brat poisoned me, Tristam.”
+
+“I’m beginning to think she really is cursed. You’ll remember none of us ate the soup. You insisted.”
+
+“Enough Tristam. I’m being punished enough, I don’t need you…”
+
+Father Shane stopped and took several deep breaths, but it didn’t help. Sweep slipped back into the tent before the retching continued.
+
+Temperance was awake and sitting up when Sweep entered.
+
+“What happened?”
+
+“I think Father Shane believes us now.”
+
+• • •
+
+After several days’ travel, they saw fewer merchants and farmers and travelers, and after a full week, they had the road to themselves.
+
+Still a day’s travel from Sunslance, by Father Shane’s reckoning, they made camp well off the road in a small glen that already had a fire pit. They set camp and attended chores. As evening settled, Sweep altered one of Temperance’s dresses. Temperance examined a flower Father Vytal had asked her to evaluate. Father Shane used the firelight to maintain his weapons and armor, which seemed to be his default state.
+
+“We’re in Kempenny Province now,” Father Shane said, looking up from his short sword. “Have you girls heard the stories about Governor Kempenny?”
+
+Sweep shook her head absently, concentrating on her work.
+
+Temperance said, “No, sir, except for what you’ve said. The Governor is a witch?”
+
+Father Shane chuckled. “It’s cute how they keep calling us ‘sir.’ I didn’t think you were one for formality, Tristam.”
+
+“I’m not,” Father Vytal replied. “They were brought up strictly and consider it proper address.”
+
+Father Shane laughed again. “Anyway, the Governor Kempenny. Like you said, she’s a witch. She commands black magic. Or so I’ve heard it said.”
+
+“Magic is a tool, Jack,” Father Vytal replied. “Just as the Realm of Light is not good and the Realm of Dark is not evil, neither is magic.”
+
+“Well,” conceded Father Shane, “You are the resident expert in powers and magic and whatnot. But even so, there are strange stories coming out of Kempenny Province lately. More than just this demon nonsense.”
+
+“So,” said Sweep absently, “You admit demons don’t exist.” She knotted her thread and cut off the excess with a small pair of scissors.
+
+“What?” Father Shane looked at her, frowning, brows drawn.
+
+“Back in Riverton, you argued with Father Vytal about the existence of demons, and now you’re admitting it’s nonsense.”
+
+“Brat, you’re having a conversation that ended weeks ago.”
+
+Sweep shrugged but smiled. She was beginning to understand Father Shane; he liked to argue about anything and everything and from any point of view. He’d argue about the color of the sky if he thought he’d get some fun out of it.
+
+“Humph. As I was saying, rumors have it that Governor Kempenny is a witch. They say she sneaks into nurseries and steals babies, that she makes cow’s milk go sour and chickens refuse to lay eggs.”
+
+Sweep watched Father Vytal take the bait. “Are we to blame her now for too much rain or too little? These are the same complaints laid at the feet of outsiders by every group of xenophobic, superstitious folk I’ve met all over Khulanty and beyond. Erin’s feud with the Royals is well known. She’s the outsider, so the superstitious make up stories about her. They’re old stories with a new skin. You’re making Kempenny Province sound like something out of a campfire story,” Father Vytal admonished.
+
+Father Shane grinned at Father Vytal like he was about to do something mischievous. “You’re such a skeptic,” he admonished. “I suppose you’ve told your apprentices about how you don’t believe in God? Have you converted them into atheists yet?”
+
+Sweep looked up from her sewing, accidently sticking herself with the needle. Instinctively, she reached for her power and the small wound closed.
+
+“What?” Temperance demanded.
+
+Father Vytal sighed and glared at Father Shane. “You are a rabble rouser, you know that, Jack?”
+
+Father Shane smiled behind his scraggly beard. “I do.”
+
+Father Vytal shook his head then addressed his apprentices, who looked at him, eyes wide and jaws slack. “If you will recall our discussions of the Scriptures, I have constantly questioned the easy interpretations. I have insisted that the message of the Scriptures is complex and requires much thought to fully understand, have I not?”
+
+Both girls nodded and Sweep felt her initial panic at Father Shane’s accusation wane. Again, the broad cleric was playing a game, trying to stir up a bit of fun.
+
+“When I was much younger and bolder,” Father Vytal continued, “I posited that God, as we talk about Him, does not exist. I wrote a paper wherein I argued that God was not some grey-bearded old man living in the sun as though the sun were some kind of manor house.”
+
+“You’ve got a grey beard, Tristam,” Father Shane interrupted.
+
+Father Vytal shot his compatriot a scathing glance. “Quiet, you.”
+
+Father Shane chuckled merrily, as though he’d won some contest.
+
+“Instead, I suggested God could not be defined in terms of humans and mortals.”
+
+Sweep looked at Father Shane who winked at her. She looked back at Father Vytal. “Then what is God?”
+
+Father Vytal shrugged. “I don’t know. That’s part of the problem. If He’s not a very powerful man living in the sun, I don’t know what He is and I don’t know how to describe Him.”
+
+“But then, how do you know He’s real?” asked Temperance.
+
+Father Vytal smiled. “I know because I have felt His presence when I pray. I look at the wonder around me, the beauty of creation, and I know it is His design.”
+
+Sweep nodded absently, trying to process everything Father Vytal had said.
+
+“Anyway,” said Father Vytal, “this is a conversation better suited to several days. We can’t have a proper discussion all in one night. Besides, Jack is just trying to frighten you with tales of skeptics because his scary stories about Governor Erin Kempenny weren’t working.”
+
+Father Shane chuckled again. “Bah. Your godlessness and Kempenny’s witchery are nothing. The scary part is the potential of rebellion, or even secession.”
+
+Father Vytal nodded sadly. “After a hundred years, do you really think Kempenny might try to secede?”
+
+“I don’t know what she’s planning, but you know how bitter Erin was when Sean picked Maggie instead of her.”
+
+A sudden piercing wail echoed through the trees, silencing the discussion. It was unlike any animal noise Sweep had heard. In fact, it sounded almost human, pitiful even, but with a growling undertone of malice.
+
+“Speak of demons,” Father Shane whispered, his grip on the sword he’d been sharpening tightened.
+
+“Father Shane, perhaps you want to put your armor on.”
+
+Father Vytal phrased it as a suggestion, but it sounded like an order and Father Shane was quick to nod his agreement. He stood and began to shrug into the leather and metal clothes.
+
+“Piety,” said Father Shane, “Come help me.”
+
+Sweep hurried to the large cleric. The armor was designed so a person could put it on without help, but having help made it faster. Father Shane had insisted on teaching the girls how the straps and clasps went together, though Father Vytal had said apprentices didn’t need to know the trappings of war. Now Sweep was glad Father Shane had insisted.
+
+As she buckled one of the straps on the breast plate, she considered Father Shane’s use of her name. Usually he called her “child” or more often “brat”. But Father Vytal had introduced her to Father Shane as Piety Churchstep, not Sweep. Father Shane didn’t know she had ever gone by any other name. In fact, nobody called her Sweep anymore, she hadn’t heard the name for months. Even so, she had trouble thinking of herself as anything.
+
+“Piety, pay attention,” Father Shane barked in a whisper.
+
+Sweep took hold of the strap he was pointing too, ducking her head in apology but not speaking. His whisper had cautioned her to be quiet. When she finished helping Father Shane into his armor, he drew a short sword and held it down at his side. The fire glinted off his red-lacquered armor, making him seem to shine with a holy light, which, Sweep supposed, was the point.
+
+Father Vytal waved to her and Sweep approached. She felt his presence at her mind and responded, reaching out telepathically.
+
+“There’s something out there,” he said quietly, “Do you feel it?”
+
+Sweep stretched her mind and touched her mental shield, the gossamer glass casing that kept her safe. She let it drop and stretched her telepathic sense into the woods around her. She felt Temperance, scared but determined, she felt Father Vytal, wary but curious, and she felt Father Shane, ready and excited. She pushed her sense further, further than she and Father Vytal had ever attempted in practice, and it was like stretching a muscle long out of use, it hurt a bit, but it also felt good, it felt right.
+
+“Careful,” Father Vytal cautioned, “It has a strong will. It might be telepathic.”
+
+And then she felt it. It wasn’t an animal; she was able to identify animal minds—and, now she thought on it, those animal minds were still and frightened—but neither was it human. There was something base and ruthless about it that made it different. It was strong-willed, but not a telepath, at least, it didn’t have the same sense to it Father Vytal’s mind did. It was also keenly focused. Sweep concentrated on its focus, trying to determine what it wanted and suddenly she gave a sort of mental blink, and could sense what it could, knew its thoughts as though they were her own.
+
+Her vision edged with red and she could change between seeing light, and seeing heat, like focusing and refocusing her eyes. She could smell the fear of the animals around her and could hear their heartbeats. She could hear the whispered conversation of her quarry. They searched for her. Hunger gnawed at her from within and sparked her hatred of the living. Some might become like her by the end. She hated that, hated creating competing predators. Of the four humans huddled next to the fire, the big one with the sword was the most dangerous. He’d have to die first, a quick lunge at the throat where that large vein pulsed…
+
+Sweep gasped as she pulled herself out of the creature’s mind. “It’s hungry,” she said. “It’s hunting us. It’s going to kill Father Shane first.”
+
+With a frustrated snarl, the creature burst from the trees around their small clearing, and hit Father Shane in the chest. Father Shane brought his sword to bear, but not fast enough. The large cleric staggered under the blow and landed on his back in a crash of armor and shouted oaths. The creature was human shaped, but impossibly thin. Its ribs showed clearly on its torso, its skin stretched taut across the bones. Father Shane wrestled with it, but it was fast and much stronger than its thin frame implied. Father Shane bled from wounds along his arms, face, and neck and the creature used its unnaturally long tongue to lap the blood.
+
+Next to her, Sweep felt Father Vytal tense, both physically and mentally. In the next moment, he flexed and directed his mental energy at the creature as though it were a sword. The creature screamed and tumbled off Father Shane who lay still. The creature writhed, beating its fists against the grass. But its incapacitation didn’t last. It leapt to its feet with flexible grace and sprinted at Father Vytal.
+
+Temperance screamed.
+
+Father Vytal tensed again, but the creature was fast and Sweep wasn’t sure her mentor would be in time. Rapid as thought, she pictured her mindspace, seized her power, and lashed out with her telepathic energy just as Father Vytal did so as well. The creature jerked sideways, and tumbled to the ground where it fell and rolled about, keening high and loud. The stench of rotten flesh filled the air. Its body curled in on itself, its arms covering its face, its knees pulled up to its elbows as it lay on its side. It twitched once more, than the high-pitched keening faded and the night was still.
+
+Father Shane shattered the silence with a heavy yell, as he plunged his two-handed great sword into the creature’s side, pinning it to the earth.
+
+Sweep gasped and jumped away. She hadn’t realized Father Shane had gotten up.
+
+“Just in case,” Father Shane said breathily.
+
+The large cleric’s face was a bloody mess. One eye had been ripped out. Blood oozed from a large wound in his neck. The wounds were awful tears through skin and flesh. What had been the hard muscles of a well-trained warrior now looked like butchered meat. Blood from his various wounds dripped to spatter the grass. Sweep’s stomach clenched and she swallowed hard.
+
+Father Shane breathed hard, but he was still breathing, and he needed help. Sweep opened herself to him, examining him with her healing power. His aura, a deep scarlet spiked with gold, pulsed faintly. He staggered a few steps and sat hard on the ground.
+
+Father Vytal hurried to him and Sweep was at his side. She felt the senior cleric begin healing the wounds, and she reached to him mentally. “Wait. I was in the creature’s mind. I saw what it is. Its bite is venomous and if it doesn’t kill its victim, it transforms them into one of them.”
+
+Father Vytal hesitated a blink, but then she felt his trust in her. “We’ll have to draw out the poison. We haven’t talked much about poisons yet, so follow my lead.”
+
+Sweep nodded and smiled. Of course Father Vytal would turn even this dire situation into a lesson. Sweep watched as Father Vytal searched Father Shane’s body for the poison. It was easy to see the shadows over the warrior cleric’s aura. Then, carefully so as not to disrupt the blood flow, he drew the poison back to the wounds where it oozed from his body in thick, pitch-like rivulets. Nearly half an hour later, after careful work, Father Shane lay in his tent, sleeping soundly, his body free of poison, his wounds closed to angry red scars, and his belly full of a sleep-aiding tea Temperance had brewed.
+
+Working together, Father Vytal and Sweep had managed to heal the worst of Father Shane’s wounds, but attacking the creature had taken much of Sweep’s strength, and drawing out the poison had been painstaking work that had drawn on most of Father Vytal’s strength, and they hadn’t healed Father Shane’s eye yet.
+
+“It takes great precision and a lot of energy to regrow a lost organ or limb,” Father Vytal explained, as they rested next to the campfire. “And it has to be almost right away, or there’s no chance at all.”
+
+“What happens if we try anyway?” Sweep persisted. “Losing an eye is pretty bad for a warrior, isn’t it? Couldn’t we at least try?”
+
+Father Vytal sighed. “I understand you want to help him. But do you remember how you felt after you expended yourself on Catherine’s behalf?”
+
+Sweep nodded. “I was fine after I rested for a few days.”
+
+“You instinctively stopped before you might have seriously hurt yourself. When people with powers overexert themselves, the result can be painful, debilitating, even deadly.”
+
+Temperance reached over and took hold of Sweep’s hand. Startled, Sweep looked at her friend. She hadn’t realized Temperance sat beside her. It was peculiar, Sweep thought, that no matter how much had changed over the past months, some things remained constant. Temperance had grown taller and more confident, had dedicated her time to studying the properties of medicine, but still sought to protect Sweep.
+
+“What do you think, Temperance?”
+
+“If you can help him, help him. But if you permanently damage yourself, how much is gained?”
+
+“We’ve been practicing for months now,” Father Vytal added. “You should have a good idea of how much you’re capable of. Do you think you can regrow Jack’s eye without hurting yourself?”
+
+Among the Sisters of Sacred Heart, such a question would have been designed to force a girl to admit ignorance, to admit she was wrong, but Father Vytal was truly asking for an answer and Sweep did not want to give one blithely. She slipped into her mindspace, the better to sense her power, and reached out with her healing sense to Father Shane.
+
+“Show me how it would work,” she said to Father Vytal, “and I’ll see if I can do it.” Holding Temperance’s hand as she was, she made sure Temperance could hear the mental voice as well.
+
+Sweep could feel Father Vytal’s resignation, understanding the only way he could stop her from trying would be to do so forcefully and Sweep knew he would not. So he guided her healing sense, as though taking her hand, and showed her how some specialized parts of a person’s body, things so small they couldn’t be seen, could be encouraged to take on the shape and function of any part of that person’s body. All they needed were guidance and energy.
+
+“I think I can do it,” Sweep said. She stretched her power, a sort of mental muscle, and though it felt achey, like after a long day of extra chores, she had more yet to give. “Please, Father Vytal, let me try.”
+
+Father Vytal sighed audibly, but mentally he said, “Take it slowly, be careful. If you feel yourself being stretched too far, stop. Using up all your strength will kill you. Do you understand?” He sounded exhausted.
+
+“Yes, sir.”
+
+“Piety, I’ll not be able to assist. I’m tapped out.”
+
+“I understand, sir.”
+
+Sweep immersed herself in Father Shane’s scarlet and gold aura, targeting an area deep within, searching for the substance that could regrow his eye. It responded to her touch, eager to be guided and she swam along the cleric’s aura to his eye. All around her, his other wounds, great crimson scars only half healed, called out like a bonfire at midnight, but she ignored them and instead focused on the now empty socket where his left eye had been.
+
+“Grow,” she commanded. And though the substance of Father Shane’s body could not understand the word, her healing power echoed her will and encouraged the regrowth of the eye. It started slowly, a pale liquid flooding the orbit a drop at a time before a thin skin encompassed the liquid and began to fold and ripple in peculiar ways Sweep did not understand. But Sweep did not need to understand, she had instructed Father Shane’s body and now all she needed to do was provide it with healing energy to finish the job. And so she did. The folded sack of liquid filled skin took shape quickly after that, forming light receptors and a flexible lens and tiny muscles.
+
+• • •
+
+Sweep took a deep breath and blinked. The faint achiness had grown to an encompassing pain. She groaned and realized she lay upon her back, in a tent.
+
+“Piety?” It was Temperance, but she spoke far too loudly. “Piety, are you all right?”
+
+Sweep took deep, even breaths, but the pain did not abate. She tried to tell Temperance to be quieter, but she could not speak. She tried to put a hand on Temperance’s arm to tell her friend she was all right, but she could not move.
+
+“Piety?”
+
+Temperance’s voice stabbed pain through her head, starting at her left eye and streaking across to the right side of her jaw. Instinctively, she shied away, and stepped into her mindspace.
+
+Here, the pain was muted, she could think clearly and the first thing she wanted to do was reassure Temperance. Carefully, she sat at the desk in her mindspace and summoned the bowl of water, but when she placed a fingertip upon the water’s surface, the stabbing pain shot through her head and she jerked her hand back. Her power was what ached. It was the pain of overuse, just as Father Vytal had warned. There was little she could do from the mindspace, she decided.
+
+Before leaving, however, she examined the chessboard and moved a knight. The current game was the best she’d ever played and, though she wasn’t winning, it was close.
+
+When she was back in her body, she opened her eyes to see that dawn had come. Temperance knelt over her and Father Vytal sat nearby. It was awfully cramped in such a small space.
+
+“Piety?” Temperance whispered.
+
+Sweep blinked, then nodded a little. Moving seemed to help, so she struggled to sit up with Temperance’s help.
+
+“How do you feel?” asked Father Vytal.
+
+Sweep swallowed and spoke. She’d expected her voice to come out scratchy as though she’d had a bad cough, but her throat felt fine. “I feel drained, and I don’t want to use any powers for a while, but I’m all right.”
+
+Father Vytal smiled. “You did well, Piety.”
+
+“It worked then?”
+
+Father Vytal nodded. “It did.”
+
+Their conversation was interrupted by a shout from outside. “Tristam! Come look at this. The demon is still twitching.”

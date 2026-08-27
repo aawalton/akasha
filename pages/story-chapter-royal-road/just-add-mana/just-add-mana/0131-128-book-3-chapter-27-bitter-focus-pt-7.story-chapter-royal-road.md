@@ -1,0 +1,215 @@
+---
+id: 1b9f14d0-8698-5c06-bde2-376efa6021be
+page-type-slug: story-chapter-royal-road
+title: "128 — Book 3, Chapter 27 — Bitter Focus, Pt 7"
+slug: 0131-128-book-3-chapter-27-bitter-focus-pt-7
+partOf: just-add-mana
+position: 131
+ownLength: 3530
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3329002/128-book-3-chapter-27-bitter-focus-pt-7"
+royalRoadId: "3329002"
+---
+
+After a few moments to take stock, Flia was certain they were in this Fog that Adam had spoken of.
+
+Everything fit. They were surrounded by a dense fog that made it impossible to see where they were going. Something about it interfered with their mana sense as much as it did their sight, which meant navigating by mana sense was out of the question, too. They would have been entirely lost if not for the fact that not far from where they'd arrived they found a road just like Adam had described.
+
+Not that it did them much good. It did narrow down their options—Adam had been quite clear about not leaving the road—but Flia wasn't all that enthusiastic about wandering into a dense fog with no real idea where they were headed. It would be one thing if they knew one direction would take them back to the others, but they didn't.
+
+Worse still was the fact that they were technically still in a dungeon, which meant they had to be on high alert. This was presumably one of the challenges of the Bitter Path, and dungeons rarely built challenges focused around a single problem. There was a good chance monsters would jump out at them at any moment.
+
+That made the fog even more of a problem. Flia sighed, annoyed; normally, fog wouldn't have been a problem for her, given that she specialized in water magic. In this case, however...
+
+Well, this fog didn't seem to be made out of water, exactly.
+
+"What do you mean, it's not made out of water?" Damien asked when she said as much, looking around them nervously.
+
+"I mean exactly what I said." Flia tried another water spell, then shook her head. "I can't grab hold of it with water magic. It behaves a lot like the Abyss normally does, actually.
+
+"The Abyss, huh?" Damien's brows furrowed. "I guess that kinda makes sense. Adam's explanation sounded really familiar. Do you think the Fog is the dungeon's version of the Abyss or something?"
+
+"Something like that," Flia agreed, though the comparison nagged at her. "I can still feel my connection to the Abyss, but there's something wrong with it. It's hard to describe."
+
+She frowned, trying to work through the feeling. It felt muddled, for lack of a better word, like one end of the connection had been twisted ninety degrees and then somehow muffled. Try as she might, she couldn't make out much of anything through that connection. Whatever she saw, it wasn't enough to help them navigate.
+
+Light magic didn't help much either. The fog seemed even more eerie in the light they managed to produce, if anything, though it did make the small radius they could already see slightly better-lit.
+
+With it, they could examine the ground more closely. It was... definitely a road, but it was unlike anything Flia had seen before. In all fairness, she wasn't sure what she'd been expecting—most of the roads around Brightscale were conjured or transmuted out of soil, the result of which was a smooth, shiny surface that was still textured for grip.
+
+This road was instead made out of packed, irregular black stones, punctuated with what looked like white rectangles painted in the middle. Flia couldn't for the life of her imagine what they were for. Maybe they were a sort of directional guide?
+
+They weren't very useful directional guides, if that was the case. They weren't even pointing anywhere. All they really did was divide the road in half, and she could've done that in her head.
+
+"Do you think you can get us back?" Damien asked, oblivious to her thoughts. "If this place is connected to the Abyss, you might be able to find us a way through, right?"
+
+Flia hesitated. "I don't know yet," she said carefully. "I'll need to experiment a bit. The connection feels so different, and I don't want to break something by accident."
+
+Or open a hole back to that nothingness she'd felt for a second, right before she twisted her magic to bring them here. She still didn't know what she'd done, but for all that the Haelforge professors claimed they couldn't die in the dungeon, something about that nothingness felt dangerous.
+
+"Oh. Right." Damien frowned contemplatively. "And the others will be looking for us, too. Maybe we should stay here and wait for them?"
+
+Flia shook her head. "I don't think that's a good idea," she said. The snow around them was tame for now, but the winds were freezing, and there was a limit to how much her barriers could do in this place. "We should at least try to find some shelter away from the snow."
+
+"We can follow the road?" Damien suggested. "It seems to keep the snow off a little bit."
+
+"Adam did tell us we have to follow the road," Flia agreed. "I'd rather not find out what happens if we don't. If this place is anything like the Abyss, we'd get lost and eventually turn into whatever this place's version of Abyssal Ones are."
+
+Damien blinked, then shuddered at the thought. "Good point."
+
+With that, the two of them began making their way down the road in relative silence, each of them occupied with their own thoughts. Flia was missing the Leviathan already. She would have reached out to the Monolith for advice, if she could, but with her connection as twisted as it was there was every chance she'd accidentally summon some entity of the Fog instead. That wasn't necessarily a bad thing, but she wasn't quite ready to risk that just yet.
+
+Damien, on the other hand, kept looking around the fog like he was worried something would jump out at them. Which was... probably her fault for bringing up the possibility that the Fog would have its own version of Abyssal Ones. Staying alert was a good thing, but her friend looked like he was going to jump out of his metaphorical skin at any moment.
+
+"There's probably nothing here, you know," Flia said. "Adam would have said something. He just said we have to make the right turns and avoid leaving the road."
+
+"Yeah, well, maybe his mom didn't want to tell him about the scary monsters lurking in the fog," Damien grumbled, but he relaxed slightly nonetheless, and Flia chuckled lightly.
+
+They walked for a few more minutes, the strange road crunching oddly beneath their feet, before Flia glanced at Damien and spoke again.
+
+"Thank you, by the way," she said. Damien blinked up at her. "For trying to pull me out of this, I mean. This place would be a lot worse if I were here by myself."
+
+"Oh." Damien glanced away, embarrassed. "I mean, any of us would have done that."
+
+"Doesn't change that you did it," Flia said with a shrug. "So, what's bothering you?"
+
+"...What do you mean?" Damien still wasn't looking her in the eyes. She snorted; the dreadshade was a terrible liar.
+
+"There's clearly something bothering you," she said. "You'd normally be all over this place. It's a mysterious road in a dungeon, and you've picked up more of Cale's mannerisms than the rest of us. We both know he'd be ecstatic and that he'd start telling us weird facts about roads or something."
+
+"Nothing's bothering me," Damien protested weakly. It lasted for all of five seconds before he folded. "Okay, there might be something bothering me."
+
+Flia raised a single brow and waited, and after another second, Damien sighed and crumpled in on himself slightly.
+
+"That whole thing with Adam and his dad," he said quietly. "I keep thinking about it. Part of it is because I'm angry and I don't think that man deserves to be a dad, but the other part..."
+
+Damien trailed off and seemed to struggle with himself for a long moment. Flia gave him the space he needed; she could tell this was a difficult thing for him to talk about.
+
+That and she did have some idea of what was going through his mind. She'd noticed, after all. Damien had never once spoken with them about his father, even when the rest of them were sharing their struggles with their respective families. None of them had pushed him, but they'd all noticed.
+
+"The other part is thinking about Dad," Damien said. He whispered the words, like he was afraid of being overheard. "Wondering what he was like. I don't... I don't think he was anything like that. I think he was good. But I can't remember."
+
+"It was too long ago?" Flia asked, her voice soft.
+
+Damien shook his head, trembling slightly as he clenched his fists, and when he spoke again his voice cracked just slightly. "No. I mean I can't remember," he repeated. "As in I'm not allowed to remember. I haven't even been able to think about Dad for years."
+
+That Flia hadn't been expecting. She almost stumbled, but caught herself and managed to keep pace; this was difficult enough for Damien to talk about without her tripping over herself. "What do you mean?" she asked, her mind racing. "Were you cursed?"
+
+"No," Damien said, although there was a slight hesitation in the way he said it. "Not... not exactly, anyway. Um. I think it's something I agreed to, but I can't remember why."
+
+"But something's changed," Flia said. "Since you're thinking about him now, I mean."
+
+Damien nodded. "I still can't remember why he left or why I agreed to any of this, but I can think about him, at least." He shrank into himself again. "I can miss him. I don't think I was even allowed to miss him until now."
+
+Flia stared at her friend for a long moment, then abruptly pulled him into a hug, ignoring the way he squeaked in protest. "You would sacrifice your ability to miss your own father," she muttered, sighing.
+
+Damien hugged her back gratefully.
+
+They held each other like that for a while, Flia letting Damien anchor himself in the moment as he needed. A minute passed before the dreadshade composed himsef enough to pull away, and Flia made sure to give him an extra squeeze before she let him go.
+
+Eventually, Damien spoke again. "I'm not sure it was that simple," he said, looking down. "But, um... thank you."
+
+"You're welcome," Flia said. She watched her friend for a moment, the conflict in his expression, before gently prodding him to keep going. "What do you think changed? Why can you think about him now, if you couldn't before?"
+
+"It's something to do with the dungeon, I think." Damien bit his lip. "It changed your connection with the Abyss, and Leo said some stuff about how his labyrinth magic felt weird, too, right? I bet something about this place messed with whatever happened with Dad, too."
+
+That made sense. Flia thought through that briefly. "Do you think you'll remember more the longer we stay here?"
+
+"I don't know," Damien said, sighing. "And I don't know if... I don't know if I want to, you know? What if they aren't good memories? It feels selfish to think about it, but what if... what if he's like..."
+
+Damien couldn't even bring himself to finish the sentence. Flia could understand that; she placed a hand on her friend's shoulder and gave him a small squeeze.
+
+"Do you think he was?" she asked gently.
+
+Damien shook his head so fiercely he surprised the both of them. "No!" he said, then blinked at his own vehemence. "Um, I mean... no. I don't... I get feelings, I guess. I can't remember anything specifically, but I feel like he was a good person. And that we only did this because it was the last resort, and he made sure I was okay with it before he left."
+
+"Then remembering him might not be so bad," Flia said, the words soft. "It might give you a chance to come to terms with it."
+
+"But what if I forget him again after this?" Damien asked miserably. "What if we leave the dungeon and I just... can't remember anything?"
+
+"Well," Flia said. "Then it's a good thing I'm with you, isn't it? You can tell me anything you remember, since I didn't agree to forget anything. And if you do forget, I can just tell you again, and if that compulsion rears its head then we'll have an awesome mentor who knows how to deal with it."
+
+Damien let out a slightly shaky laugh. "Who probably knows how to deal with it," he corrected. "Cale always tells us not to expect him to have a solution for everything. Especially if it doesn't involve blowing something up."
+
+"He's found a lot of ways to solve problems by blowing things up," Flia pointed out, grinning faintly. This was more familiar territory for the both of them, and Damien seemed to draw a certain comfort from it.
+
+"The only thing that could be blown up here is my head, and I want it to stay intact, thank you very much." Damien stuck his tongue out, then immediately made a face when snow landed on his tongue. "Egh. This snow tastes weird."
+
+"I'm not surprised. I don't think it's made of water either." Flia examined a few of the falling flakes. Like almost everything else about the Fog, she was reminded of the nature of the Abyss itself—the Abyss appeared to be an endless ocean, but it was really just an expression of the Leviathan's mana, wasn't it?
+
+Maybe the Fog was the same. Perhaps it was an expression of something analogous to the Leviathan. Adam had mentioned something about obeying the Intersections and their directions, which implied there was something they would need to interact with in order to figure out where they were going. They might be able to find their way back if they could find one of those Intersections, or at the very least get directions to some shelter—
+
+"There's something up ahead," Damien said, squinting slightly in the fog.
+
+Flia frowned. "I don't see anything."
+
+"No, it's there." Damien slowed down slightly, and Flia kept pace with him; if he was being cautious, then there was good reason for it. "It's a sort of shape in the fog. You can't see it?"
+
+"Not yet, but the fog's messing with my senses," Flia said truthfully. Damien could see in the dark better than she could, which shouldn't have affected his ability to see through fog, but they'd encountered stranger magical interactions before.
+
+Was there a way she could enhance her own senses, somehow, so she could see whatever he was seeing? She considered the problem.
+
+Then on impulse, Flia felt for her connection with the Abyss again, this time drawing more intently on the fragment of power the Leviathan had left with her. She might have transformed it into a Spark of her own, but that power still came from the Leviathan. It was through that Spark that the two of them remained connected.
+
+If she brought that connection to her eyes and shaped the magic like a lens—
+
+You have learned [Planar Sight]!
+
+Something snapped into place, and the Fog around them transformed abruptly into abstract, crystalline panels. Flia was too distracted to appreciate it properly, however—she'd frozen in place instead as a shape materialized out of crystal, looming above them.
+
+Or looking down at them. The pressure of its attention alone felt to Flia like a physical force, and she had to grit her teeth to stand against it; beside her, Damien let out a breath and did the same, clenching his fists as if to anchor himself.
+
+There was a distinct sound of shattering glass, and suddenly the crystalline fog vanished, along with any semblance of sky. Instead, they were surrounded by complete and total darkness. Only two things remained visible in the void that now surrounded them: the shape in the sky, now hovering miles in the air as an outline of prismatic flame, and the road beneath them.
+
+The effect was strange. The road was perfectly lit despite the lack of any real source of light, as if the sun still shone down upon it. Without the fog obfuscating their sight, it became clear that just ahead of them it split off into hundreds of smaller, sprawling paths. Then thousands, then tens of thousands, so far off into the distance that it made Flia's eyes hurt to try to take them in.
+
+She snapped her gaze away, looking up at the... whatever it was instead. The outline alone was enough to set her heart pounding—she had only ever seen a prismatic flame like that from one other mage—but the actual shape wasn't human in the slightest.
+
+In fact, it reminded Flia vaguely of one of the more elegant species of magical insects Professor Tarbloom had shown her. What had it been called again? A shimmerwasp queen? They resembled a tiny, armored fairy with mechanically complicated but majestic folding wings. Whatever this was, it bore a similar set of wings, though the details were obscured by the darkness.
+
+If she looked closely, though, Flia thought she could glimpse something in those wings. What was it? More paths, perhaps, but different from the ones that stretched out in front of them; they were made from stones or vines or shadow—
+
+The shape in the darkness spoke, shattering her grasp on those visions, and Flia abruptly realized how close she had come to losing herself in them. Another moment, and she might have stepped onto one of those impossible paths.
+
+"Why do you travel the Roads?"
+
+Flia took a moment to center herself, then she and Damien glanced at each other nervously. Neither of them needed to speak to realize that whatever this was, it outclassed them in every way imaginable. The power radiating from it didn't feel like mana, but it was power all the same, and it was threaded into every bit of the world around them.
+
+And now that they could sense it, they could tell that the road beneath them was glowing with that very same power. Millions of those threads wound into a solid path beneath them. The truth was clear: it was only by this being's grace that they were able to stand in this in-between, and if they displeased it, they might very well be lost in the Fog forever.
+
+Flia considered what the best approach was to appease such a being, then nodded to herself. "We honestly have no idea," she said. "We got here by accident, and we're trying to get back to our friends. Or to some kind of shelter, if that's possible."
+
+"We aren't even going to try groveling?" Damien muttered.
+
+"When has groveling ever worked?" Flia pointed out reasonably. "It's like Cale says, anything that requires you to grovel probably isn't going to let you live anyway. Better you find out sooner so you can work out a plan to run."
+
+Damien thought about that for a moment, then grumbled to himself as he acknowledged the point. "I guess it didn't really work the last time we tried it."
+
+There was a long, awkward silence. The shape in the sky stared down at them as if wondering how they were having a casual conversation while beholding its majesty.
+
+Then it let out a bright, trilling laugh, and suddenly it flashed into place in front of them, color flooding in to fill the void of its outline. Flia caught a glimpse of pale chitin and prismatic membranes folding impossibly inward until the creature resembled something more passably humanoid, albeit with an extra pair of arms and—
+
+—oh.
+
+It didn't have any eyes. Where those eyes should have been were instead pitch-black holes that dripped with ichor, and Flia had a sudden, terrible feeling that she knew exactly what had happened to those eyes.
+
+Okay. She knew she jumped to conclusions on these things sometimes, but she felt like this one was pretty clear.
+
+"Dammit, Cale," she groused.
+
+Ashvali trilled again with laughter. "Oh, don't worry, I'm not about to punish you two for that particular act of audacity," they said. "It's been so terribly long since I've had any visitors! And since I've been able to think for myself at all, I suppose, but I did bring that on myself, in a way. Goodness, these dungeons are strange things."
+
+"Um," Damien said.
+
+"I should change into something more comfortable," Ashvali muttered, distracted. They did a little twirl, and midway through their form blurred and shifted; Flia felt it somehow as something about Ashvali's identity changed.
+
+Damien immediately looked away, blushing. Flia just stared, more out of confusion than anything else.
+
+"Did I make too many?" Ashvali asked, peering down at herself. "I can never remember how many breasts human women are supposed to have."
+
+"Yes," Flia said, rubbing her temples. "You made too many."
+
+Great. This was like having another Cale around, except this one had apparently been isolated from society for centuries and had even less of a sense of shame.
+
+Ah well. Hopefully they could get some answers from her.

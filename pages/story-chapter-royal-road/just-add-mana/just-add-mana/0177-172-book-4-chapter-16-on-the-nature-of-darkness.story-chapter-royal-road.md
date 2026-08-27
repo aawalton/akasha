@@ -1,0 +1,165 @@
+---
+id: f659a86d-1060-5c65-a6e5-ae731fa6a938
+page-type-slug: story-chapter-royal-road
+title: "172 — Book 4, Chapter 16 — On the Nature of Darkness"
+slug: 0177-172-book-4-chapter-16-on-the-nature-of-darkness
+partOf: just-add-mana
+position: 177
+ownLength: 3173
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3808748/172-book-4-chapter-16-on-the-nature-of-darkness"
+royalRoadId: "3808748"
+---
+
+Cale and the others were all quite silent when Professor Imrys’s tethering spell finally triggered, snapping them back to the entrance of the Brightscale labyrinth. They filed back out of the labyrinth and into Cale’s dorm room, all without a word.
+
+Imrys was the first to speak. “Well!” she said. “I do believe we learned quite a lot, dearies. Cale, thank you for taking over. There was quite a lot of data I needed to process. Many changes to be made to the Streaming ritual! For one thing, it clearly restricts our magic far too much. Goodness, that would have been far easier to resolve if we had our spells.”
+
+“I’m not sure it would have been,” Damien offered hesitantly.
+
+“Oh, nonsense,” Professor Imrys said, waving her cane around dismissively. “I have an artifact or two that would’ve made those silly atverians change their minds. And I'm sure I could design something to help those dark lords and ladies you were so worried about. Perhaps a Circlet of Stabilization to hold all that pesky despair.”
+
+Cale gave Imrys an odd look, though he refrained from commenting directly on the idea. Instead, he shook his head. “There wasn’t much more we could have done, anyway. That was probably close to the best possible outcome.”
+
+“But K'teri is still at large,” Leo said, worried, and Cale nodded wearily.
+
+“I know,” he said. “But they know what she was trying to do, now. It’s up to them to figure out how to fix things so they don’t create another one of her. We wouldn’t have been able to help them achieve political change without staying there for weeks.” Cale made a face. “Besides, it’s best to avoid getting involved with the local politics if you can. You have to do a lot of research if you want to interfere, otherwise you risk getting infected with politicks.”
+
+Damien blinked. He’d been about to protest, but something about what Cale said threw him. “Did you... spell the word differently the second time? You pronounced it the same. How’d you do that?”
+
+“A little trick I picked up.” Cale grinned. “But yes, politicks with a K. Nasty little things. They latch on to you if you try to get involved in politics without fully understanding it, and then they feed on your ignorance. Also an absolute nightmare to get rid of. There’s a shampoo that works, but it can only be made with necromancy, and that introduces a whole host of other problems.”
+
+Leo rubbed at his snout, exasperated. “I have so many questions,” he muttered. “Again. Besides, don't think I didn't notice what you did that got us sent back. What did you do?"
+
+“No idea what you're talking about,” Cale said cheerfully. “I don't have access to the Gift right now, remember? Although purely hypothetically speaking, there are a few ways I can send  a warning to a deity... Anyway, that's unrelated. The Streaming ritual just wasn’t designed to let us stay in any given realm that long. Was it, Professor?”
+
+“Goodness, no,” Professor Imrys said absently. She had somehow produced a stack of scrolls larger than even she was, and was using a set of magical quills to scribe each of them simultaneously. “If you were to stay too long, the tethering spell might get confused. I would be simply beside myself if my students were lost in another realm because of one of my rituals! It lasts twenty-four hours at most as a built-in failsafe... there we go! I have it all documented here.”
+
+With that, she began distributing the scrolls to each of them, each one detailing exactly how the Streaming ritual worked. Cale blinked down at the one he'd been handed, surprised—it was rare for any mage to just hand out proprietary magic like this. Most of them were very secretive about how they did things, and Professor Imrys, from what he'd seen, was no exception.
+
+“This is your assignment for the week,” she announced, and Cale made a face. Yeah, that made a lot more sense. “Find a way to stabilize the Stream to allow for greater magic. Extra points if you manage to include other features! I’ll be working on it myself, of course, but I do want to see what my lovely students can do.”
+
+“Um,” Damien said. He looked over the scroll he'd been handed, and his eyes grew comically wider and wider. “Isn’t this... really advanced magic?”
+
+“Cale and Thorn and Featherstrike might be able to do it, but I don’t think I understand half of what’s on here,” Leo added, frowning at the scroll. Cale noted he was holding it upside-down and quietly reached out to fix it, though Leo just squinted at it even more. “...Yeah, that didn’t make it any better.”
+
+Part of it was probably just the handwriting. Professor Imrys's handwriting was nearly indecipherable, and the only reason Cale could read it was because he both had centuries of experience and knew enough about ritual magic to fill in the blanks. Even then, his apprentices were right—this magic was certainly much too advanced for them.
+
+The other two wyldfires in the class seemed fine with it, of course. Thorn did pretty much exactly what he expected and just gave it a dismissive once-over before tucking it away somewhere within his vines; Featherstrike, on the other hand, seemed awed by what he'd been handed and had immediately retreated to Damien's bed to take notes.
+
+Cale wondered briefly if he needed to give their avian mage a warning. He was a wyldfire mage and should have noticed something off about the bed, but he was also a spatial mage, and the Streaming ritual might have distracted him too much to notice...
+
+Eh. He could figure it out on his own. It wasn't like the monster under the bed was going to hurt him.
+
+"Cale?" Damien asked. Cale blinked and gave his dreadshade apprentice a big smile and a pat on the head.
+
+"Don't worry, I'll help you both out," he said generously. "You are my apprentices, after all."
+
+"I'm not sure we're going to figure out advanced ritual composition in a week even with your help," Leo muttered, though he did seem marginally reassured.
+
+"You will be fine," Professor Imrys said happily. "I was about to add that you may all simply work on this together. Consider it something of a group project! You might even come up with something that can compete with my updated design that way. I expect great things from a class with the fabled wyldfires, you know. Especially our famous little Bearer of Worlds!"
+
+"Bearer of Worlds?" Cale asked curiously. Featherstrike had visibly cringed as soon as Imrys spoke the words, so he assumed it had something to do with him.
+
+"Ah... yes," Featherstrike said, very studiously avoiding eye contact with everything. "A title I was given. It bears no consequence."
+
+"Nonsense," Professor Imrys said. "Did he not introduce himself? Oh, dear. He's quite famous outside the Academy. A mysterious feathered mage that can evacuate thousands from any disaster by creating entire worlds within his feathers. Why, you might even call him a hero!"
+
+"Professor," Featherstrike said, now even more embarrassed.
+
+"Oh, very well," Professor Imrys said. "I have another class to teach now anyway, and our delightful trip has given me a few ideas on what assignment I shall give them. Perhaps an artifact that binds with magical fungus, or something that can adapt to the properties of other realms..."
+
+Imrys hopped down off of Cale's dresser and tottered out of the room, still muttering to herself. She had, it seemed, dismissed them entirely. Cale stared at her for a moment, then got up to shut the door, shaking his head.
+
+"Well," he said. "I suppose we better get to discussing our... assignment. Don't worry, Featherstrike, we'll keep your secret."
+
+"Thank you," Featherstrike said, still clearly embarrassed.
+
+Cale wondered if this was why Featherstrike had been so insistent on not respecting displays of strength alone. He didn't seem to like the fame that had come with his power. There was probably some kind of story behind that.
+
+For now, though, there was a ritual for them to figure out.
+
+They did not, in fact, get to discussing the project. Cale supposed he should have expected that. There were a lot of unresolved questions and concerns about the whole dark lord thing, and he supposed on reflection that he’d never actually explained everything he knew about them.
+
+Which was, in all fairness, because it was depressing. And forbidden knowledge, but Cale was fine with sharing forbidden knowledge when it mattered! He just drew the line when it came to depressing forbidden knowledge; it was much more interesting to divert the topic to baking magic whenever it came up.
+
+None of his companions seemed willing to let him do that this time. Alas. Even Featherstrike put aside the scroll for the moment and got involved, his gaze intent and... scholarly? Cale wasn’t really sure how to describe it.
+
+“Okay,” he said at last, sighing. “What do you want to know?”
+
+“Danger levels,” Thorn said immediately. He exchanged a glance with Featherstrike, who had managed to gather himself, and now nodded in agreement.
+
+“How dangerous are dark lords, truly?” Featherstrike asked. “I confess that many of us think of the current dark lord as a threat we will be able to handle when he rises. Our magic is stronger now than it has ever been in history, thanks to the Gift. It is easy to believe that we have grown past the need to worry about our magical strength compared to the dark lord. History would suggest we should be careful, but... it feels rather distant."
+
+Cale's expression darkened slightly. At least Featherstrike had recognized the trap there—it was easy to underestimate what a dark one could do. It always was. But by their very nature they grew as the realm itself did, and so the threat they posed never really decreased, no matter how much the realm grew.
+
+"It's not a good idea to underestimate them," he said. “Remember, dark lords and their counterparts grow stronger over time and strike only when they’re ready, but that’s not their only danger. Don’t forget, their presence disrupts the power of all divine magic around them. Plainroot magic becomes weak and unpredictable, and even if you’re far beyond plainroot” —he gave the two wyldfire mages a significant glance— “you’d be surprised how hard it is to fight without the divine protections we normally enjoy.”
+
+“You are referring to the divine void.” Featherstrike frowned. “I have faced it once or twice in the depths of a dungeon. It is unpleasant. Akin to being stripped of one’s feathers. We will have to fight in those conditions?”
+
+“You'll have to fight armies in those conditions,” Cale said. “And aberrations are much more dangerous than dungeon monsters. Every aberration has to be dealt with in a unique way. There’s a reason I can’t just blast them with mana and call it a day. They're on par with Abyssals. I've met aberrations that gain strength from being perceived as a lesser part of an army, where destroying them acts instead as the catalyst for their evolution. And there are some that impose conditions on their existence in relation to yours, like existing only in the corner of your vision—”
+
+“—or behind you, if you happen to turn around,” Damien said quietly. Cale blinked.
+
+“Well... yeah, I suppose that’s possible,” he said after considering it for a moment. He looked his apprentice over carefully. “I've never run into one like that, but it sounds like the type of rule they’d have. What makes you bring it up?”
+
+“It reminds me of some of the lessons Ashvali made us take in the Fog." Damien bit his lip, worried. "I'm wondering if it's related somehow. It feels like it might be?"
+
+Cale frowned. It did sound like it might be related, and he wasn’t about to dismiss something Ashvali had done. It was very clear she knew far more about the state of the realms than she was letting on. “Did you and Flia take notes?”
+
+“We did.”
+
+“We should review those notes at some point, then,” Cale decided. “I don’t know how it could possibly be about Utelia’s aberrations, but since she very clearly has some sort of future knowledge, it’d be a bad idea for us to ignore it.”
+
+“I don’t think she gave us that information for us to have an advantage over the dark lord, though,” Damien said, still worried. "And I'm not sure we should be using it that way if she didn't? I mean, if she has future knowledge, then we should try to figure out what she was trying to tell us, right?"
+
+“I don’t think so, either,” Cale agreed, running a hand through his hair before sighing. “It is probably a cryptic hint at something, but I have no idea what. Either way, we have to check if you're right about this before we do anything else.”
+
+Damien hesitated, but eventually conceded with a strangely reluctant nod. “That... makes sense, yeah."
+
+Cale glanced at his apprentice, concerned. He'd have to make sure to talk to him later—there was clearly something weighing on him, though whatever it was, he seemed reluctant to share it with so many others around.
+
+“In any case,” Cale said, opting to change the subject, “it’s not just the divine void that you have to worry about. There's the fact that once his forces are attacking in earnest, you won’t have access to the Gift. How many mages do you know that can confidently cast without it, even with the spell already imprinted in their souls?”
+
+Featherstrike and Thorn exchanged a glance. "Not many," Thorn grunted. He seemed irritated by even the idea of it. "Will have to consider a training regimen. You have trained in a divine void?"
+
+"There's a room that can artificially recreate it now," Cale said. "My apprentices started doing a bit of practice in there ever since they got hit with an artificial divine void. Happened the first time Astiviya manifested—there were too many clashing domains and it nearly wiped out the whole Divine Studies class."
+
+"Led by Akkau?" Thorn asked, then snorted when Cale confirmed it. "And you were in the class. Sounds like something you would both do."
+
+“This is all secondary to the real problem, though,” Cale said. “The real problem is that when the time comes, dark lords and their ilk develop their magic in opposition to the realm. Whatever magic defines the realm, it’s a fair bet they’ll have something to oppose it. Utelia has the greatest work of divine artifice I have ever seen in the Gift, but you know what that means.”
+
+“It means that the Dark will have something to oppose it.” Thorn frowned. “What could possibly oppose the Gift?”
+
+"Who knows," Cale said. He had an idea of how he could find out. Records of what each dark one actually did were usually wiped out after their respective reigns, but given the loophole that had allowed Brightscale to resurrect and recruit a whole set of historical figures as professors...
+
+Well, there had to be a dark one of some kind among them. Even if there wasn't, there had to be at least one person who had lived through the reign of a former dark one. The magic didn't necessarily stay the same between each dark lord, but it would most likely be close enough that they could get an idea of what to expect. It was a means of research that would be more consistent than Streaming into another realm and hoping for the best, too.
+
+Also, it was an opportunity to learn some ancient magic. Cale grinned. He'd been around when a lot of ancient magics had been created, but even back then he hadn't been able to cast those spells. Who knew how different things would be now that he could finally cast them?
+
+Well, when the Gift got back to him, anyway. He couldn't wait.
+
+Kelegas was rather surprised by how much he didn't despise his time in the Rittefel Academy. The anger he had been battling for years had been worse than ever, at first, but all the time spent suppressing his innate corruptive influence seemed to help keep it under control to a degree.
+
+Now he found himself almost enjoying the time he shared with the Rittefel students. He was teaching them, even, and some of the professors here had begun to respect and rely on him.
+
+It couldn't last, though. The more he suppressed that corruption, the worse the blowback would be when he was eventually forced to let it loose. Worse, even when the anger wasn't direct, it lurked in his mind as the voices of those dark ones of the past: voices that reminded him how much was at stake.
+
+His people were relying on him, after all.
+
+He had, unfortunately, reached a bit of a stumbling block in getting approval to enter the tournament. A competitor for the position had appeared out of nowhere, and this particular "student" Kelegas did find both extraordinarily annoying and, frankly, rather suspicious. What were the odds a wyldfire would turn up looking to join the tournament at the very same academy as the dark lord? He'd picked Rittefel because it was relatively unknown.
+
+The man was a pest, and he had a single spell that was his pride and joy. [Reign of Thunder] was, in Kelegas's opinion, an absurd spell. It could manifest a burst of thunderous sound at any point of the caster's choosing, and it somehow managed to bypass most standard magical protections, making him the favored candidate to fill the open spot on Rittefel's wyldfire team. Kelegas had spells that could beat it, of course, but he was loathe to play more of his cards before he had to show them,
+
+But now Kelegas strode along the corridors, humming to himself. Anyone who truly knew him—which, in these parts, was pretty much just Steve—would know that this meant he was unusually cheery. The reason for that was known only to him, though. He trusted Steve implicitly, but this particular secret was one he quite literally could not speak of, even if he had wanted to.
+
+The unique magic granted to every dark one was hidden with powerful obfuscation magic. Kelegas didn't know who had cast the spell, but he did understand the point of it. If he failed, the next dark one would receive a new and improved version of that same magic, and it would continue until the Dark succeeded.
+
+And now it had emerged for him at quite the opportune time.
+
+In front of him, hovering in the air and comprised of dark magic, were words..
+
+Analyzing [Reign of Thunder]...
+
+[Reign of Thunder] will be decomposed and no longer available to the Source after: 3 days, 14 hours.

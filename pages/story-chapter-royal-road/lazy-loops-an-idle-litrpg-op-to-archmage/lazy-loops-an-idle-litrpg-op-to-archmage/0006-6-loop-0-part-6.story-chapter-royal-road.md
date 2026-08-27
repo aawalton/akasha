@@ -1,0 +1,141 @@
+---
+id: 356b41c1-61bc-5524-96ec-da82df92c739
+page-type-slug: story-chapter-royal-road
+title: "6. Loop 0, Part 6"
+slug: 0006-6-loop-0-part-6
+partOf: lazy-loops-an-idle-litrpg-op-to-archmage
+position: 6
+ownLength: 2374
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3453195/6-loop-0-part-6"
+royalRoadId: "3453195"
+---
+
+Oh, hello, Lazlo, I’m Flag. I was having such a nice nap. Thane hadn’t stepped on me in an hour. But yes, oh, yes, I would like very much if the people stopped stepping on my back. There are other tiles. Why is it always me? Nobody steps on the girl stones. Girl stones? What? But I didn’t send that thought. That’s wonderful. I’m sending you mana. Just accept it into yourself and the spell will do the rest.
+
+The flagstone accepted the enchantment with an enthusiasm I hadn’t asked for. It pulled the full 33 mana into its elemental core like a silo collecting grain. Instead of the shimmer that accompanied Sara’s enchantment, a thin, see-through layer of rock clicked into place above the stone. But it must have been visible only to me, because nobody reacted to my spell. In fact, Professor Thane reacted as if I hadn’t done anything at all.
+
+“Mr. Yarrow. Being the nephew of my boss does not afford you the privilege to ignore the requests of a professor. If you insist on ignoring one, there will be consequences.”
+
+After addressing me, Thane turned to continue his trot across the classroom, except he walked straight into the path of my new ward. His boot stopped dead. There was no telltale sign or give that most wards had. Instead it was as if the professor were approaching a solid wall. And when people walk into walls, they fall on their ass.
+
+The professor clattered to the floor with an indignant shriek. The whole classroom devolved into laughter. Even the grey man reacted, but not out of humor. He flicked his eyes between the professor and then back to me, something I only caught because of [Wideview].
+
+I almost felt a little bad, as I had not intended to embarrass him. I really only trolled Finn, the occasional bully, and people who inconvenienced me more than was necessary. Thane was none of those things. Maybe a little too exuberant, but everyone has character flaws.
+
+“I’m sorry, professor, I didn’t expect Flag to do that. I only asked him to accept the mana, but he must have an elemental core or something.”
+
+The laughter died unevenly around the room, and a few of my classmates exchanged looks. Flag?
+
+“You cast this ward?” The professor sounded dumbfounded as he picked himself up off the floor. He poked and prodded the invisible (to him) pillar. He took out his own wand and muttered a spell. Blue tendrils of alteration magic fluttered around the pillar. The mana pulsed three times, and then the pillar collapsed.
+
+He put a palm flat against Flag, and then stood up and faced me.
+
+“Can you come here and demonstrate the spell for me again?”
+
+Ughhh, I was not in the mood for this.
+
+“I cast the spell from my seat. I really don’t see why I need to get up to do it again.”
+
+“Humor me.” It hurt to look at the man’s pleading eyes. Man, did I really have to cast the spell again?
+
+I got up and, as slowly as possible, walked to the front of the classroom as if I were part of a funeral procession. And in a sense, I was. The funeral of any hope I had of being lazy in this class again.
+
+When I approached Flag the Flagstone, I repeated my spell.
+
+Hey, Flag. Sorry to wake you from your nap. Thane is begging for us to knock him on his ass again.
+
+Oh, that was funny. I don’t mind, but I really do want a good nap.
+
+You and me both, buddy.
+
+I felt the spell connect, and an identical, translucent but stony pillar snapped into place. Thane tested it with the same boot, but didn’t fall over this time. Damn.
+
+He pressed his full weight against the pillar, wrapped his knuckles against it, even gave a roundhouse kick, but the ward didn’t budge. He examined the base and ran another diagnostic spell, a green one, which spiraled around the ward multiple times. Unlike the last one, this didn’t collapse the ward.“You skipped the anchor points,” he said. It wasn’t an accusation. His voice was full of curiosity. “Did you use the flow paths from the diagram?”“No.”“Did you follow the suggested negotiations?”
+
+“No.”“The gestures?”“Do I look like I used gestures?”“No.” He cackled madly. “No, you do not. You absolutely do not.” He was hopping from side to side in absolute giddiness. “So you just… asked the stone?”“You said enchantment was persuasion, and then I stopped bothering to listen.”
+
+His face went blank for a second, but when he spoke, the enthusiasm was still evident. “I did say that. I absolutely did.” He paced three quick steps to where Sara’s ward was still active. He cast the same green diagnostic spell, then paced back to Flag.
+
+“And the stone just agreed? On the first try? With no resistance?”“He seemed happy about it, honestly.”
+
+“He.” Thane stopped pacing as he realized what I said. “You gendered the flagstone.”
+
+“He gendered himself.”
+
+Thane’s eyes went wide. He crouched back down, disabled the ward, and pressed his palm flat to Flag again. He stood up. Looked at me. Looked at the floor. Looked at me again.
+
+“That stone has a personality resonance,” he said, and his voice had gone up half an octave. “It has a soul. This just doesn’t happen. The likelihood of a random stone in my classroom having an elemental core, let alone a soul. That’s just unheard of. However did you find it? A family trait, perhaps?”This content has been misappropriated from Royal Road; report any instances of this story if found elsewhere.I paused, stunned.
+
+“A family trait? What’s that?” I repeated. The question felt a little invasive, too invasive, and for good reason. Family traits were long-guarded secrets that often held the key to an entire family’s success. And here my professor was, trying to air a secret that wasn’t mine to share for an entire classroom to hear. “I just cast the spell, professor, and the stone reacted. I don’t know what else to tell you.” It was a lie, I knew why, and probably now everyone else did, too. Explaining [Soul Sense] to an entire room of classmates and one grey stranger felt about as appealing as volunteering for extra homework. Some things were private, some things were nobody’s business, and others… well, if the wrong person found them out, they became problems.Thane studied me for a long moment. For a man known for his loud, boisterous voice, and his wild, erratic movements, he could be terrifyingly still when he wanted to be. But he didn’t push; I liked him a lot more for that.
+
+“Well,” he said, “Mr. Yarrow. You are the most infuriating student I have ever had the pleasure of teaching, and I mean that as the highest possible compliment.” He leaned in, and the giddiness crept back in. “What a fortuitous moment! This creates so many opportunities for future exploration, and for so, so many new and wonderful enchantments.”
+
+He paused, looked at the greyman, and then back at me. “You know, with your raw talent and luck, you could be extraordinary, if you ever decided to try. I hope you do know that.”I didn’t know what to do with that, so I did nothing. Flag, however, interjected.
+
+You know, despite all the times he’s stepped on me, he seems nice. A bit loud. But nice.
+
+“Moving on!”In moments, the excitement of my demonstration disappeared, and I was happily back at my seat. I sighed in relief as I stopped paying attention. I was very good at that part.
+
+———
+
+The Crucible already smelled like sweat as we walked in. There was a buzz in the air. Two thousand students who had been told their afternoon classes were cancelled laughed and talked and jeered excitedly. Classes were cancelled so they could watch their peers beat the hell out of each other. I could think of a few worse reasons to cancel class. I could also think of better ones, like naptime.
+
+The tiered stone seating was already packed by the time Finn had managed to drag me through the entrance after Enchantment class. There were three dueling platforms erected on the main floor, each one a raised disc of white marble. Containment wards shimmered faintly around each ring in the afternoon light.
+
+Finn was practically panting like a dog. "Three platforms! Three at once! Can you believe they're running three at once? Man, this is gonna be so much fun to watch!"
+
+"I can believe it. I can also nap in my room until my match."
+
+"And walk all the way back here? That's more effort, not less!"
+
+He had a point. I hated that he had a point.
+
+We climbed up to the middle tier, where the view was acceptable and the stone had been warmed all morning by the sun. That was nice, at least. I settled into my seat and immediately began calculating how long I had before my bracket was called up. Section four had eight entrants, four matches in round one.
+
+I didn’t quite know why they did it this way, but the matches weren't called in chronological order or sequential order. There was a section ten match coming up first, but based on everything I could tell, I had roughly ninety minutes before anyone expected anything of me. Ninety minutes was almost a proper nap.
+
+I pulled out my wand and cast [Scarecrow]. [Scarecrow] wasn't a standard spell, not really. It was something I made up during first-year lectures and spent the better part of last year quietly refining. It was a minor soul enchantment that held my eyelids open and kept my pupils aimed forward while still letting me not see anything so I could sleep. It was the magical equivalent of toothpicks in the eyes, minus the damage or the sight.
+
+[Scarecrow — Enchantment]
+
+Cost: 6 mana.
+
+Maintains the appearance of wakefulness in the caster. Eyes remain open. Pupils track ambient motion. Duration: 2 hours or until dispelled.
+
+The world softened at the edges as sleep took me. I missed Sara's match. Through [Scarecrow]'s half-conscious tracking, I caught a flash of movement, a crack against the ward barrier, and a roar from the crowd that lasted about forty seconds. When the noise died, Sara was walking back to her seat, and her opponent wasn't walking at all.
+
+Creed's match almost woke me up—not the fight itself, but the aftermath. Scorch marks on white marble, his opponent on the ground clutching a singed arm. The crowd had loved it even more than Sara's. I slept through the rest. Finn woke me too soon after.
+
+"I won," he said.
+
+I pulled [Scarecrow] off and looked at him. He didn't have any visible injuries and was barely even winded. "How'd you win?"
+
+"It was easy. I outlasted her, threw up a couple defensive wards, put on my healing rotation, and waited for her mana to run out." He was trying not to smile and failing. "She overcommitted to a force lance, and I used a ward to redirect it into the floor."
+
+"You bored her into losing?"
+
+"I endured her into losing. There's a difference."
+
+"The difference being?" I said.
+
+"One of them sounds heroic," Finn remarked.
+
+It did, actually. That was the thing I liked about him. His whole approach to magic was like that. He didn't have the raw power to overwhelm anyone, so he just refused to go down until they ran out of ways to hit him. It wasn't anything flashy or even hard work, but it was something deeply Finn about winning a fight by being the person standing still when the dust cleared.
+
+I recast [Scarecrow] and let my eyes drift shut again. Around us, the Crucible churned through the brackets. Sections climbed and fell, and the crowd rose and broke like waves, punctuated by the occasional crack of a containment ward. I floated in that warm dark between sleep and awareness. I slept, just letting the afternoon happen around me. Before I knew it, the board above the arena pulsed and my name appeared in glowing gold, rousing me from my sleep.
+
+SECTION 4, MATCH 3: YARROW, L. vs. MARSH, T.
+
+Finn elbowed me again, harder this time. "You're up."
+
+"I know. I've been awake for, like, six seconds, man. Chill. Give me a moment to grieve."
+
+I stood, my legs protesting. The climb down to the arena floor felt almost like a pilgrimage, every step a small betrayal of my principles. Around me, the crowd stirred with a low murmur of expectation, people who recognized the name Yarrow or had seen me in the dining hall this morning. Most of the school had heard about it by now. I could feel their eyes on me, which was ironic given that I could see all of theirs simultaneously.
+
+My opponent was already on the platform. Marsh was a third-year, Manifestation track, built like someone who took training seriously. He had that stance people carried when they thought they knew what they were doing, and his wand, made of dark polished wood, pulsed. He had absolutely no idea what was about to happen to him, which made two of us. I didn't have a plan. Plans required forethought, and forethought required caring, and caring required effort. That wasn't to say I was planning on losing. As much as I rambled on about how little I cared to put in effort, I liked to win. Everybody did.
+
+I stepped onto the white marble. The containment wards hummed to life around me with a faint golden light that would absorb stray spells and, in theory, prevent people from dying. In theory. The judge was a faculty member from the combat department. I had never bothered to learn her name because I would never bother to take her class. She raised her wand between us.
+
+"Standard rules: Match ends on a yield, incapacitation, ring out, or judge's call. Lethal force is prohibited. Permanent harm is prohibited. Property damage is..." She glanced at the scorch marks clearly left behind by Davos. "Discouraged. Begin on my signal."

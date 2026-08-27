@@ -1,0 +1,105 @@
+---
+id: 607abb47-f1ca-546f-8418-66c87aa4b631
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80: Metal and Mana"
+slug: 0263-chapter-80-metal-and-mana
+partOf: labyrinth-of-the-mad-god
+position: 263
+ownLength: 1715
+unit: words
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2856880/chapter-80-metal-and-mana"
+royalRoadId: "2856880"
+---
+
+Nick dodged a wad of caustic goop and sent a Mana Dart streaking toward the monster that was trying to kill him.
+
+His body blurred as he sidestepped the attack—careful not to let a single drop touch him. The vile secretion the putrescence imp spat smelled like deep-fried shit blended with rotten fish. If it soaked into a piece of gear that didn’t have a Self-Maintenance modification, he doubted the stink would ever come out. Fortunately, the little bastard hadn’t managed to hit him yet, and by this point, he was confident that it wouldn’t.
+
+The child-sized creature seized when the wedge of silvery mana sank into its skin, wailing like a banshee before regaining control over its body and resuming its assault.
+
+The one-star monster wasn’t a threat to someone his level, and Nick could have ended the fight with a single Sonic Slice. However, he’d been hoping to run some tests on his darts’ ability to disrupt vital energy for some time now and refused to torture an animal or beast to do it.
+
+He still found the process distasteful, but he needed to understand the effects of weaponizing his opponents’ stamina, health, and mana before he upgraded the spell again. Since the imp would attack his people on sight and would be more than happy to flay the flesh from his bones before devouring him alive, he didn’t feel too guilty about the matter.
+
+It’s not spitting anymore. It uses mana to power the ability, and it doesn’t have any left. That explains why the stun lasted longer this time. It’s suffering from mana sickness.
+
+Sure enough, when he switched to mage sight, the magic radiating from the monster’s core had cut off completely. The only energy flowing through its pathways was moving the wrong way, darting to and fro in a chaotic frenzy instead of cycling through its channels. This was his first time studying mana disruption up close, and Nick found the process fascinating.
+
+It’s almost like the energy is attacking its creator—kind of like a malfunctioning autoimmune response for magic. Based on how the battle had proceeded thus far, the imp would run out of stamina next, at which point, he would finally find out what happened when his darts drained a significant portion of his enemy’s health.
+
+The creature charged him in a desperate attempt to finish the fight, but he kept his distance using Force Acceleration while firing another blade of pure mana that invaded the imp’s system and brought it crashing to the ground.
+
+This time, it took the monster several minutes to rise to its feet. It was dazed and had a hard time walking. The creature could barely focus on him, thanks to the combined effects of mana sickness and stamina depletion.
+
+Unfortunately, Nick didn’t have a way to observe the stamina or health inside another creature’s body. Instead, he meticulously recorded everything he’d witnessed.
+
+When he fired his next pair of Mana Darts, something new occurred. The imp began bleeding from its eyes while clutching its chest. It let out a piteous whine, looking toward the horizon at something only it could see before falling into the dirt—dead before it hit the ground.
+
+After running low on life, disrupting the monster’s vital energy triggered multiple organ failure. This spell is far more lethal than before.
+
+He jotted his observations into his journal, harvested the imp’s fangs and claws, and then returned to the objective he had been pursuing before the monster crossed his path.
+
+After letting the committee know he wanted to get out of the city for a few days, Nick had decided to explore the trio of mountains he’d had his eye on for some time.
+
+By this point, he had realized that the opportunities seeded by the System came in two broad categories. The first was hidden trials—portals left in forgotten corners of the world, puzzles that required diligent attention to detail to solve, and events that were only accessible during rare and fleeting conditions.
+
+The other type was points of interest, which tended to draw the eye from a considerable distance, even if the reward itself wasn’t obvious. The cave behind the waterfall fell into this category, as had the Armada Wurm Team Earth had defeated to claim their capital.
+
+Given the scale of these mountains and their placement within the badlands, Nick was certain they were home to some manner of elite challenge, crafting materials, or regional resource. He was confident that if he took the time to explore them, he would uncover something that made the trip worthwhile.
+
+It was also a good chance to survey the bordering biomes, since the view from the summit was bound to be spectacular. Even if the mountains didn’t offer anything besides timber and stone, it was nice to get away from it all—spend some pleasant hours in the wilderness with only Blightbane for company.
+
+He couldn’t afford to take a lengthy vacation, but he needed a few days off to reflect on his journey, decompress from the stress, and decide what he wanted to do after increasing Aurora’s tier and delegating some of his responsibilities.
+
+With that goal in mind, he had let Liz know what he was up to, reviewed the list of the resources the settlement needed in case he passed them on the way, and then left the city. The mountains were near the eastern border of the biome, but given how fast he could run, he should reach them an hour or so before sunset.
+
+Nick basked in the beauty of the badlands, devouring the miles beneath his boots while he let his mind wander—curious to find out what his day had in store.
+
+***
+
+He camped near the base of the western peak and woke up bright and early the next morning.
+
+Since he didn’t know what was up there and had no desire to antagonize the resident beasts or advertise his presence to any monsters that were lurking in the area, Nick scaled the slope at a leisurely pace, focusing on stealth as he surveyed the terrain with Size Up and mage sight in turn.
+
+The mountains were gorgeous in the misty morning light. It was chilly enough to make his breath fog, and he could see patches of snow dusting the heights. The trees were a blend of evergreens that were in the process of adapting to the abundant magical energy thrumming throughout the planet.
+
+He spotted foxes and deer, squirrels and wolves. Several species had ascended from animals to beasts, but none had developed an advanced intelligence yet as far as he could tell. Some of them were dangerous—especially a pair of grizzly bears the size of elephants—but thanks to Blend into the Background, nothing caught wind of his presence as he hiked.
+
+There was mana flowing through the ground below his feet. Not as intense as the regional resources he’d discovered, but more concentrated than most of the badlands. He couldn’t tell what kind it was with so much dirt in the way, but he took it as a promising sign that something notable was in the area.
+
+As he continued to climb, he let his senses sink into the soil beneath his boots and the slope ahead, searching for any sign that predators were prowling nearby. The terrain grew rougher the higher he went, but by this point in his adventures, that wasn’t a problem.
+
+Nick hopped from boulder to boulder, skipping across the stones in twenty-foot leaps. On several occasions, he freeclimbed sheer cliff faces. He no longer had to worry about falling from high places, and with his current Strength and Dexterity, gripping even the narrowest of holds was effortless and his body felt light as a feather.
+
+Early in the afternoon, he arrived on the summit of the shortest peak, which was perhaps two thirds the size of its neighbors. He stopped to enjoy the marvelous view, recording everything into his journal.
+
+When he pulled out his spyglass to inspect the next mountain over, he broke into a beaming smile. I knew it. It seemed that there was a point of interest here after all, because jutting out from the side of a cliff was a tunnel braced by a lattice of beams.
+
+After falling into the flesh-renders’ lair back on Blackmist Bog, Nick knew what he was looking at. It's a mine. With any luck, it will be filled with valuable resources. We desperately need a source of metal, and gems or other precious goods would be welcome too.
+
+It took him the rest of the day to scale the next mountain, which was far steeper than either of the other peaks. He spotted some hawks that had ascended into beasts and gave their nests a wide berth as he climbed, eventually arriving at the site he’d discovered.
+
+Since he wasn’t sure what kind of opportunity this was, he approached the tunnel with caution, sweeping the area with Size Up for hostile creatures, hazardous terrain, and traps. Then he switched on mage sight and repeated the process with his energetic senses.
+
+After half an hour of intense scrutiny, he hadn’t spotted anything out of the ordinary, although the mana inside the passageway was thicker than elsewhere on the mountainside.
+
+Nick wasn’t tired, so he decided to explore the mine before calling it a day. He unsheathed his sword, held his wand in his other hand, and stepped inside the entrance while using his PDA for light.
+
+The instant he crossed the threshold, a message from the System appeared.
+
+System Message: Regional Point of Interest.
+
+You have discovered a hidden regional resource.
+
+Mana-Saturated Mine
+
+The chamber at the bottom of this shaft is connected to a minor leyline—the primary source of pure mana on your planet. A portion of the high-grade metal within the mine has absorbed this energy and become pure-mana aspected. The main shaft has already been dug, but any expansions must be completed by hand.
+
+Cost to claim: 750 CP.
+
+City bonuses once claimed: +2 Pure mana generation. +1 Metal mana generation.
+
+Status: Unclaimed.
+
+Only a city lord may claim this resource (if it is within their domain and they spend the requisite CP). You may use this facility freely while it remains unclaimed.

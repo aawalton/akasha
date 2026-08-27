@@ -1,0 +1,277 @@
+---
+id: de8b87be-806f-537a-91ec-29a04c526695
+page-type-slug: story-chapter-royal-road
+title: "1. Loop 0, Part 1"
+slug: 0001-1-loop-0-part-1
+partOf: lazy-loops-an-idle-litrpg-op-to-archmage
+position: 1
+ownLength: 3201
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3452956/1-loop-0-part-1"
+royalRoadId: "3452956"
+---
+
+I woke up. Damnit. I could hear my roommate, Finn, placing something in front of me.
+
+Finn Merick had many fine qualities one looked for in a roommate. He was kind, hardworking, dependable. Acted like a golden retriever whenever anything halfway positive occurred. But his worst quality, the one I always hated the most, was his incessant inability to let me sleep.
+
+"Laz. Laz. Hey, Lazlo."
+
+I kept my eyes shut, but his voice drilled in with a staccato beat.
+
+"Lazzzzz. Wake up... Lazlo!"
+
+The MIRKS dining hall was basically a grand cathedral that had been repurposed for eating. Vaulted stone pillars held aloft a ceiling so high it disappeared into shadow, and the pale stone walls carried every sound upward until the whole room hummed with the low roar of a thousand conversations. It smelled like toasting bread and too much cheese.
+
+Not that I could appreciate any of it with my face pressed into a worn copy of 101 Basic Schoolyard Spells.
+
+The ancient stone walls held the autumn cold in with fervor, but the residual warmth of my arms folded beneath my head had achieved that oh-so-perfect morning feeling. I knew I needed to get up, but I just couldn't drag myself away. I knew as soon as I moved, that sweet sheen of sleep would be gone, and the exhausting work of the day would begin.
+
+"I know you're awake, dumbass. Your breathing’s changed."
+
+Why did my roommate have to be a healer? His [Mana Sense] spell caught everything, and if I cared to learn it, I could be just as annoying with it.
+
+"My breathing changed because I'm having a nightmare," I said into my arms. "About a roommate that doesn't understand boundaries."
+
+"You fell asleep at the breakfast table. There are no boundaries here." He paused, and then I could practically feel him staring at me through my closed eyes. "And you've barely touched your plate. Do you want a repeat of last May? You almost missed the final exam for Alteration."
+
+I considered the question with the weight it was due (none) and waved my hand in the air dismissively. "I ate recently enough."
+
+"That's not an answer."
+
+"It's the one you're getting."
+
+With a sigh, he went back to his own breakfast. Took him long enough. Not even my uncle kept as close a watch on my dietary needs.
+
+I finally opened my eyes and lifted my head off of my book.
+
+The dining hall was already full. My stomach growled, reminding me I had missed a meal or two... or three, but the effort of actually eating the food in front of me felt monumental.
+
+This was why I missed meals. I wasn't really too lazy to eat. Most of the time, I was too lazy to make my way here, wait ten minutes in line, sit down, and then eat. But that wasn't to say I hated food. Not at all. While I hadn't cracked the spell yet, I was still waiting for the day when I could just wave my wand and have a full meal ready in seconds. Infinite variety. Instantly. That wasn't lazy, that was miraculous. Back in Kratos, everyone worked so hard, but even they used basic food creation magic. It baffled and then saddened me when I first got here and saw an actual chef preparing actual food. What a waste of time.
+
+What was the point of magic when you didn't use it to fulfill your every desire? And people called me lazy. Hah.
+
+As I settled into consciousness, I pulled out my wand and took a glance at my HUD. The blue crystal flashed with a jolt of mana as I picked it up, and the display appeared in a blinding kaleidoscope of lights. I pushed it to the corner and let it settle.
+
+[STATUS: LAZLO YARROW] Second Year, MIRKS
+
+Status: [Rested] Mana regen bonus, doubled for 4 hours
+
+Mana: 306/320
+
+Mana Regen: 20% per hour (while sleeping/meditating)
+
+Enchantment --- Level 49
+
+Alteration --- Level 49
+
+Soul Magic --- Level 24
+
+Manifestation --- Level 24
+
+Prestiges: 2
+
+[Efficiency I] -5% mana cost on spells and enchantments.
+
+[Mana Pool I] +20 mana
+
+Family trait: [Soul Sense] Subconscious Soul awareness; allows user to interact with and detect Souls.
+
+I was doing okay for a second year at the Magical Institute of Restralian Knowledge and Skills, otherwise known as MIRKS. My uncle was headmaster, and as such had made it his general goal in life to make things as miserable as possible for me.
+
+Last year, my uncle had forced me to undergo two bouts of tier 1 meditation in order to receive my first two prestige passives, [Efficiency I] and [Mana Pool I]. It had been the worst day of my life. Four hours of mind-numbing, absolute-waste-of-time boredom. I couldn't read or sleep. I couldn't move. Four hours of sitting cross-legged on a stone floor while Professor Thane hummed at me like a lunatic.
+
+The results were... okay? The [Efficiency I] passive was fine, I suppose, but given the cost of the spells I liked to use, it almost always meant 1 mana saved, if anything. Truly the stuff of legends worth the effort. No doubt, no doubt.
+
+The second passive, [Mana Pool I], gave me an extra 20 mana. 20. Out of 320. That was a six percent increase for four hours of meditation. I could have spent those four hours sleeping and gotten more value out of the rested bonus.
+
+And then there was [Soul Sense], the Yarrow family trait. It let me detect souls, which was about as useless as the sky lights in the enchanted ceilings all over the school. Magic was easy to detect if the mage was stupid. If the mage wasn't stupid, they usually had better things to do than worry about what kind of spell they were using. Sure, there were certain builds where it was useful to know, but that would never be my style. Too much work, too little reward. That was true of most things, honestly.
+
+My parents had worked themselves into early graves. I had learned from that, just not the lessons everyone expected me to.
+
+I dismissed the screen with a wave. "Exceptional" required effort. Adequate, however, meant acceptable, and that was more than enough for me.
+
+"Hey." Finn said, nudging my elbow. "I heard from Voss on my run that her mother and Headmaster Yarrow had some clandestine meeting or something last night. Probably explains why he looked so worried at dinner."
+
+"Uncle always looks worried. It's just the Yarrow jawline at work."
+
+"This seemed different."
+
+"It always seems different. Pass the salt."
+
+With nothing better to do than be awake, I begrudgingly picked up my fork and stabbed at a piece of bacon. Finn watched this development with visible relief, which annoyed me.
+
+"Why do we always sit here?" Finn asked, eyeing a spot down the hall farther away from the drafty entrance door.
+
+"Because it's closest to the door," I said, giving him a questioning look. "Food goes in. I go out. Elegant, efficient, and the best way to get me back to my room for a nap."
+
+The doors behind us opened again, letting in a stripe of cold air that slid across the stone floor. Honestly, we were lucky the line had only been fifteen minutes this morning. Or unlucky, since I could have napped longer.
+
+Finn wouldn't take his gaze off of a pretty post graduate student way out of his league. I closed my eyes, briefly. I thought he was smarter than that.
+
+"You ever notice how nobody mixes?"
+
+"That's not true," I said. "We mix with people all the time. Sara, Kalin, Everett, Thane, Malus, Polina. In fact, I resemble that remark."Did you know this text is from a different site? Read the official version to support the creator."I think you mean resent that remark." "I said what I said."
+
+He waved me off. "No, I meant other people. Look—" He gestured at the post-grad, and then again around the hall. "Overachievers by the faculty table, scholarship kids near the kitchen. dungeon track by the yard exit. Researchers by the library hall."
+
+"Mmm." I said, trying hard to feign interest, but not understanding the point. "People sitting near the places they use the most, or near those they want to talk to. Shocking development."
+
+Near the raised faculty table, students were hard at work studying while eating. Everything I aimed never to be. Kill me now if I got like that one day. But as my vision drifted to the muscle-bound mages near the yard, I felt a crick in my neck and stopped. Why was I doing this to myself?
+
+With practiced ease, I pulled out my wand and muttered, "[Wideview]."
+
+[Wideview - Soul]
+
+Cost: 54 mana.
+
+Change a caster's visual perception to a 360-degree field of view.
+
+Duration: 8 hours or until dispelled.
+
+It was one of the most costly spells in my repertoire, but it was always worth the cast. For the foreseeable future, I could see everything without turning my head. Plus, it freaked people out, which was always a bonus.
+
+"I don't know..." Finn finally responded. "It feels deliberate here."
+
+"Everything feels deliberate if you stare at it long enough," I said. "That's how conspiracy theories form."
+
+He ignored me. "Look at them."
+
+"I am."
+
+[Wideview] settled into place almost instantly. It had taken a while to get used to at first, but man oh man did I love the spell.
+
+My forward vision stayed fixed in place, but everything just sort of expanded into a single, continuous field.
+
+I could see the entrance doors behind me without turning. I could see chefs hard at work through the windows in the kitchen doors to my left. The library corridor and the faculty table at once. And above it all, vaulted stone pillars rose too high into the sky, holding aloft pristine reflective glass that shone down light into the room. Scenes depicting history: grand battles, like the hill of Everstone, or the pillars of Hesslonia; important political events like the Rupturing and the Mana Storm of Ballast; even the founding of MIRKS on the bones of Queen Therumia's Lost Library. This morning, the glass was portraying an event I had never seen before. A man in grey robes had entered the Restralian parliament and was shouting unheard words at the top of his lungs.
+
+It had taken me a couple of months to get used to the spell, but now that I was, I never intended to go a day without it.
+
+"Why are you staring at everyone like that?" Finn watched me closely, clearly having missed my casual spell use.
+
+"I'm not staring."
+
+"You haven't turned your head once this whole conversation."
+
+"Why would I? That's too much effort and you know it. Besides, with [Wideview] active, I don't have to turn my head at all."
+
+"You're using the battle spell, [Wideview], so that you don't have to turn your head?"
+
+I almost nodded, which would have contradicted my laziness, so I just said a simple yes instead.
+
+"That's horrifying."
+
+"It's convenient," I said. "Necks are a scam Big Gym wants to exploit. Speaking of Big Gym..."
+
+I was three bites into my bacon, egg, and cheese plate when the tray landed across from me with a precise and steady click.
+
+Sara Voss. My erstwhile nemesis. Everything everyone wanted me to be, and everything I was happy not to be.
+
+She exuded hard work and planning with everything she did. Tailored robes, firm muscles, a jawline that put even my uncle's to shame. And then her plate filled to the brim with egg whites, berries, beans, and some sort of light brown flatbread I didn't even know they served.
+
+"Yarrow. Merrick." Her eyes swept to my half-eaten plate and still-steaming tea. I could practically see the judgement radiating in waves from her body. That, or she was casting soul magic.
+
+"The tournament brackets go up today. I assume you're letting your uncle down again?"
+
+"Solid assumption. I plan to catch an extra nap today, thanks to the canceled class."
+
+Her jaw tightened, if that was even possible, before she said, "You could win, you know. If you actually tried for once. We all saw what you did last year when the Manafount erupted. You saved a lot of lives."
+
+"Could. Won't. Important distinction."
+
+Clearly my comment had triggered something in her because she stood, suddenly, her expression caught between contempt and likely frustration. I was always frustrating people.
+
+"One day you'll run out of excuses," she said.
+
+"Probably, but not today."
+
+She left. Finn turned his head to watch her go. I didn't need to.
+
+"You know what my gran used to say? Even a lazy river reaches the sea." I had never met my grandma.
+
+"Your gran never met a river as committed to staying in one place as you, Laz."
+
+"That's because my gran never met me. She died before I was born."
+
+"Oh. Well, it's just a saying."
+
+"It's a bad saying. Rivers don't choose to move, gravity does all of the work. If anything, rivers are the laziest thing in nature. They literally take the path of least resistance. I'm basically a river."
+
+"You're the one who brought up the saying!"
+
+"I know. I wanted to call myself a river."
+
+"You're impossible!"
+
+Finn went back to his sausages, I went back to my food. For about thirty seconds, everything was calm. People were eating. No one was bothering me. I didn't have to think, or move, or do anything other than pretend I wanted to eat my eggs.
+
+Near the faculty table, a grey man in a grey suit stood as still as a statue. I didn't recognize him. He wasn't faculty, wasn't a parent, and wasn't trying to be noticed. Something about the way he held himself made my skin itch, but before I could decide whether that was worth caring about, Davos Creed crossed the hall and all thoughts of peace ceased.
+
+Despite having finished his breakfast, Davos wasn't leaving the hall. He had been hard to miss. Broad-shouldered with a jaw built like stone and a golden signet ring that he flaunted every chance he could. Dungeon Track through and through, Davos was a man on a mission: He was heading toward the loner section where Kalin Tuffet sat eating his curds and whey. He was followed by a pack of friends that looked more like a litter of puppies than backup.
+
+"Finn. Quick. Pick up your plate."
+
+"Why?"
+
+"Just trust me."
+
+He didn't pick up his plate.
+
+I couldn't hear what Davos said to Kalin. I should have cast my [Subtitle] charm, but had been too lazy, what with the expenditure of [Wideview]. Now I was forced to do the arduous work of lipreading. Thankfully, their body language was enough that I didn't need to do much of the latter. Davos loomed over the hunched form of the blonde-haired eighteen-year-old, one hand holding onto the chair and the other with a finger pointed into Kalin's face. I could just make out the jeering laughter of Davos's friends egging him on.
+
+Kalin stiffened like a deer in manalights. Davos said something that drained the remaining color from Kalin's face, but I could also see the telltale sign of magic about to be cast.
+
+Don't do it, Kalin. His father will get you expelled. It's not worth it, I thought as I stared at the scene.
+
+Then, Davos said something loud enough for the whole hall to hear as he grabbed the smaller boy by his robes.
+
+"—maybe if your country wasn't such a disaster, we wouldn't have scum like you trying to steal good old-fashioned Restralian secrets. Fuckin’ foreigner taking what could have gone to a real mage."
+
+A new figure entered the morning melodrama, because why wouldn't things get worse when a student attempts the job of faculty? Mira Delacroix, a Hessalonian exchange student, got in Davos's face. As if shocked by her sheer audacity, Davos let go of Kalin.
+
+"Creed, it's breakfast, must you bring this inside? There's a perfectly good tournament this week if you're in need of a pissing match."
+
+"Stay out of it. Fucken Hesser." A gasp went through the now-quiet hall. Everyone loved a good fight.
+
+"A fight in the commons concerns everyone in the commons."
+
+"It's not a fight, just a polite conversation amongst friends, right, Kalin?" He bared his teeth like a shark, ready to strike out.
+
+Kalin shoved Mira's arm aside. "I don't need a Hessalonian missionary to fight my battles. Especially not against blockheads like Davos."
+
+Mira flinched back, and that was all Davos needed to charge ahead. He moved back, grabbed Kalin's shirt, and threw a fire-enchanted punch dead center into Kalin's chest.
+
+I picked up my tray and tea, but Finn did not.
+
+And just as I predicted, the magical blow sent Kalin flying into our table, and he came sliding across in a graceless sprawl that obliterated Finn's breakfast. I hid my laughter behind a sip of tea: Finn sat in front of me, porridge dripping from his ears, face covered, and bits of sausage stuck to his collar. A moment later I replaced my food.
+
+"You could have warned me."
+
+"I said to pick up your plate."
+
+"You didn't say why!"
+
+But Davos wasn't done. He stepped forward, hand out, signet ring sparking as he wound up for a second spell. This one wouldn't be a punch. The mana gathered in his fist; the flame was heavier, hotter, and aimed at someone already burned.
+
+I didn't think. I flicked my wand under the table and said a quiet, "[Trip]."
+
+[Trip - Enchantment]
+
+Cost: 4 mana.
+
+Ties, tangles, or fuses nearby lacing, cordage, or binding material on a target.
+
+Davos's boots locked together mid-stride. He went down like a felled oak, his spell discharging harmlessly into the stone floor, where it left a black scorch mark. The hall erupted in chaos. Half the students were on their feet, wands, talismans, or other catalysts out, food forgotten.
+
+I discreetly repocketed my wand before catching up to Kalin, who hadn't even flinched at Davos's fall. If anything, he seemed enthralled at the prospect of an easy target, the other man still struggling to get to his feet.
+
+"Kalin." I said it sharp enough to cut through the yelling and screaming. He turned back half a glance, and his eyes found me. But what simmered there was almost enough to haunt even my apathetic heart. A year of being shoved, insulted, and ignored by everyone and everything that was supposed to protect him, and the summoning circles dancing around his hands were the only things that could give him a voice. Things were going to get worse. Fuck, fuck. Why does everything always get harder to deal with?
+
+"Don't. The faculty are already on their way. You summon anything, and you'll be the one expelled, not Creed. You know that."
+
+The circles just pulsed brighter as he turned to face the still-fallen man.
+
+"Kalin. Please."
+
+He didn't listen. Nobody ever fucking listens.

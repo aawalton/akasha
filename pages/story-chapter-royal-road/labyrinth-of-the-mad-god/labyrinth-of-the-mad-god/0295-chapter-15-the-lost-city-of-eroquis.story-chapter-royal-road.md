@@ -1,0 +1,117 @@
+---
+id: d294e0fb-8293-5de0-859c-bbbdd65b0b8f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: The Lost City of Eroquis"
+slug: 0295-chapter-15-the-lost-city-of-eroquis
+partOf: labyrinth-of-the-mad-god
+position: 295
+ownLength: 1796
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3185131/chapter-15-the-lost-city-of-eroquis"
+royalRoadId: "3185131"
+---
+
+When Nick rounded the corner in the passage he was following, he encountered something new.
+
+While he had no doubts that the Labyrinth was riddled with dead-ends, the arrow the System had provided made taking a wrong turn impossible. Thus, when it pointed straight at a wall featuring a double door big enough for two Lurks to pass through, he knew they had come across something significant.
+
+“What do you think is on the other side?” Bandit asked.
+
+“I have no idea,” Kenji replied. “This area doesn’t feel like the rest of the conduit.”
+
+Before they opened the door, they attempted to figure out what lay beyond. Kenji put his ear against the surface and listened while Nick inspected the wall with his mage sight. Bandit tried peering beneath the doorframe, while Lurk put her nose up to the hinges and sniffed.
+
+Their efforts proved futile. As far as they could tell, there wasn’t anything other side, which made him suspect the doorway was some kind of portal. Or maybe something like the rift we used to enter the Labyrinth.
+
+Sure enough, when he reached out and pulled the door open, a swirling mass of magic met his gaze. Now that he could examine it with his energetic sense, Nick was sure it was another rift and not a System wormhole.
+
+“It must be the next node,” Kenji said. “Do you think we’ve reached the quarantine zone already?”
+
+“It doesn't seem like we’ve been travelling long enough, based on the quest’s description,” Nick replied. “There must be a node in between Earth and the planet we’re heading to.”
+
+“Fascinating. Standing here isn’t going to accomplish anything. Let’s find out what we’re dealing with.” With that, the four of them stepped through the double doors, eager to learn what awaited them on the other side.
+
+Nick entered the rift, completing his journey through the first conduit of the sprawling cosmic maze.
+
+For a second, his perception of time and space fell away, leaving him floating in the void. Then everything snapped back into place, and he found himself standing on a platform with the rift at his back. Kenji joined him a few seconds later, looking green around the gills.
+
+Passing through those is super disorienting. He had just enough time to realize what the consequences of making a multi-ton dinosaur dizzy were and pull his friend to one side before Lurk emerged from the yawning gash in spacetime, almost trampling both men flat before they got the hell out of her way.
+
+Bandit let out a prolific stream of curses, leaping off the dino’s back as she regurgitated part of her lunch. Once everyone had recovered from their bout of nausea, the four of them took a long look around, trying to figure out where they were and if there was anything nearby that wanted to kill them, not necessarily in that order.
+
+As it happened, the conduit’s exit was located inside a sprawling industrial facility. It reminded Nick of a subway station, although judging by the rusted carcasses sitting on the decaying tracks, these vehicles were airships that could also run on rails.
+
+Everything was so deteriorated that he couldn’t make out the details, and there didn’t seem to be anything of value down here. On a more promising note, there didn’t appear to be any hostile creatures either, or any other form of danger for that matter.
+
+Before they moved on, Nick pulled up the window that had been floating in the corner of his vision since stepping through the rift, which bore several notifications from the System.
+
+Congratulations. You are the first members of your species to discover an unexplored minor node and have earned a milestone bonus of +1 to every attribute.
+
+Awesome. Since Kenji and Nick had arrived together, they both received the reward. And while some parts of the System worked differently for beasts and contestant species, these types of exploration and accomplishment incentives applied to them too. That meant the whole party had just received a boost to their power from entering the node.
+
+On top of the milestone bonus, their exploits were sufficient to unlock the first entry in the Codex of Taltos and the Labyrinth, which would automatically be made available to every creature on Earth.
+
+Congratulations. For successfully crossing your first conduit, you have unlocked a portion of the Codex of Taltos and the Labyrinth.
+
+Nick had been wondering how this new Codex worked, and this confirmed that unlocking entries was tied to exploring the Mad God’s domain. Curious as to what information it would reveal, he pulled up the right menu and began to read.
+
+Overview of the Labyrinth: Conduits, Nodes, and Sectors
+
+The Labyrinth is divided into six key regions—five domains overseen by Taltos and his pantheon, and the wide tract of unclaimed space forming the fringe. Each region is composed of distinct sectors holding dozens to thousands of nodes, which are connected by passageways known as conduits.
+
+Sectors: Are comprised of clusters of nodes in close proximity to one another. Travelling between sectors often requires a lengthy journey along intra-sector conduits or alternative means of transportation.
+
+Nodes: Are pockets of stable space containing significant celestial and terrestrial bodies. They are divided into minor, major, and grand nodes. Grand nodes are home to powerful entities and may contain entire solar systems. Major nodes encompass smaller territories—most often single planets and their moons—while minor nodes are considerably smaller in scale. Minor nodes typically develop when the Labyrinth absorbs objects of considerable power (artifacts, city cores, the remains of fallen deities, heritages, etc.), creating a pocket of stable space.
+
+Conduits: Connect sectors and nodes. They can also form lesser junctions linking conduits to each other. Temporary passages may form under certain conditions, but they are unstable and entering them is extremely dangerous.
+
+Note: The Labyrinth features other types of infrastructure, most of which is not accessible or survivable under normal circumstances.
+
+“That was illuminating,” Kenji said. “Earth and the planet we’re travelling to must be major nodes within the same sector. I wonder how many nodes we can reach within a few weeks’ travel and what we will discover when we do.”
+
+“Since this is a minor node,” Bandit added, “I hope it won’t take too long to cross.”
+
+Nick knew the lemur was eager to uncover the truth about the dreadbeasts and eliminate the threat they posed. He wasn’t in quite as much of a hurry. While he wanted to complete the quest and return to his people, had a hunch that learning more about this place was important too.
+
+After reading the entry, he knew the contents of this node would be more significant than what they’d found in the conduit—something that would represent a deadly threat or valuable opportunity. Probably both.
+
+Sure enough, the final update the System provided was about the node itself.
+
+You have discovered a minor node containing the Lost City of Eroquis.
+
+Eroquis was once the prosperous capital of the planet Nimmer, which was destroyed after failing the Mad God’s challenge.
+
+The city’s core was powerful enough to generate a minor node within the Labyrinth. Its formation drew the attention of a voracious species of monster known colloquially as voidspawn, which make their homes in the space between worlds rather than living in the conduits of the maze.
+
+Before its destruction, Eroquis was known far and wide for its Hall of Heritages, which is still intact and may be utilized if you can clear a path.
+
+“Eureka.” Kenji dismissed the message with a wave of his hand.
+
+“My Spear trainer in Darkstone Tower mentioned heritages during one of our conversations. It was framed as an offhand comment, but something about her tone implied that finding a Heritage would be vitally important to humanity’s long-term survival. Although she couldn’t provide any details while working under the System’s restrictions.”
+
+“This is my first time hearing about them,” Nick replied, “but it sounds like we need to investigate the hall sooner rather than later. We should keep our eyes open while we’re crossing the node, then come back later, clear a path, and claim the Heritages inside.
+
+“Right now, we need to complete the quest, secure the rewards for Aurora, and make it back in time to help our people prepare for the Shroud of Protection coming down. Based on what the System told us when we found the rift, the Earth is going to have one hell of a fight on her hands, and we must ensure humanity and the planet’s beasts are ready.”
+
+With that, the party made their way up a central stairwell leading toward the structure’s exit.
+
+As they walked, Lurk began sniffing at the air. When Nick switched on Enhance Senses, he picked up something strange contrasting against the rust, dust, and decay filling the station.
+
+The faint odor was foul. It reminded him of the giant insects he’d fought on several occasions, especially the ants that had attacked Dragon’s Tooth, although the alien notes hit his nostrils a bit differently. Given what he’d read, he suspected the smell meant monsters were prowling nearby.
+
+When the party reached the top of the stairs and stepped outside the moldering structure, his jaw dropped in astonishment as his hand gripped Blightbane’s hilt.
+
+“Holy shit,” Bandit mirrored his train of thought. “I’m not sure what I was expecting, but this isn’t it.”
+
+Thanks to the System’s message, Nick knew they were crossing a fallen metropolis. He had imagined it would be comparable to the great cities from Old Earth or what he’d seen from the balcony of Gretta’s shop on the craft world Velen.
+
+This was something else entirely.
+
+In a scene reminiscent of the second floor of Darkstone Tower, thousands of floating platforms met his gaze. Some were big enough to hold Aurora several times over, while others only featured a single structure. The unusual layout formed a cityscape that was just as expansive vertically as it was horizontally, which must have been magnificent to behold before Nimmer was destroyed to fuel the Labyrinth’s growth.
+
+A series of elegant walkways, bridges, ladders, and stairways had connected the platforms at one point. However, many of them had decayed long ago and others appeared to have been deliberately destroyed. The arrangement made crossing the node a maze in its own right, though nothing was obstructing their view.
+
+Finding a way across was certain to be challenging, but the complex layout wasn’t what sent adrenaline coursing through Nick’s veins—eyes darting in all directions to detect danger approaching.
+
+While its builders had perished centuries ago, the Lost City of Eroquis was far from uninhabited. It turned out that his nose had been right on the money, because the node was infested with monsters.

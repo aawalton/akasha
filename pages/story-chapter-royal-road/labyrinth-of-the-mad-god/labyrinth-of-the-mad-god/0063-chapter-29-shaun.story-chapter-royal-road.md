@@ -1,0 +1,87 @@
+---
+id: d3a60f42-c49b-53cf-a4df-cdf0c647febd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Shaun"
+slug: 0063-chapter-29-shaun
+partOf: labyrinth-of-the-mad-god
+position: 63
+ownLength: 1751
+unit: words
+publishedAt: 2024-09-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1816693/chapter-29-shaun"
+royalRoadId: "1816693"
+---
+
+Nick’s first shot picked up a cluster of rats and shoved them against the wall. His second sent the rest of the swarm flying over to join them. He used the final charge of his wand to bunch them tighter and then Veronica took her turn. She raised her wrist and then fired her grenade, covering the squealing machines in a layer of sticky flame. They tried to run, but there was no escape.
+
+Thirty seconds later, all the gear-rats were dead, except for a single brass beast that was still trying to scale the stone and get to Shaun. When the burning rats disappeared with a chorus of pops, Nick realized that his arm was stinging.
+
+It turned out that he had taken two bites that sheared straight through his jacket, but nothing that went too deep. V had a nasty scratch on her face that could have gotten her eye if it had been two inches higher. While none of the wounds were serious enough to worry about and would heal on their own, it was a perfect situation to try out Veronica’s newly upgraded ability.
+
+He was going to suggest that she give acid bolt a test run, but V already had the same idea. Responding to her thoughts, her claws retracted, and one wrist-mounted crossbow extended, the bolt glowing green as she activated her ability. She took aim and fired, catching the gear-rat square in the chest. It started melting before vanishing ten seconds later. For a moment, Nick couldn’t feel anything. But then his wounds started tingling, sundered tissue drawing itself back together until only healthy pink skin remained.
+
+He wasn’t sure how well it would work against something more serious, but it was a promising sign. “Fucking awesome.” Veronica ran her fingertips across her face, wiping away the blood from a cut that no longer existed.
+
+“I couldn’t agree more.” He gave her a fist bump, then they turned their attention to the rock in the middle of the room. To where an exhausted Shaun was shaking in the aftermath of his prolonged battle.
+
+“Get down from there.” V pointed to the young man, her smile vanishing in an instant. He flinched and then lowered himself from the stone, nearly losing his grip and falling flat on his face in the process. Then he started walking over toward Nick and Veronica, relief and trepidation both clear in his eyes.
+
+Despite his extreme dissatisfaction with the situation, Nick couldn’t blame the man for his condition. He remembered his early days on the Searing Isle. The terror of narrowly surviving countless battles for his life, which he had been woefully unprepared for. It wasn’t enough to make Nick forgive Shaun for trying to rob him, but he couldn’t deny that he felt some sympathy for what the man had been through.
+
+“Thank you so, so much for not leaving me up there. I swear that you won’t regret it.”
+
+“Not now,” Nick replied. “We need to get out of here before more machines show up. There might not have been any close enough to hear the fight, but we just sent a bunch back to their maker. They always send reinforcements if you kill enough of them, and we aren’t in shape for another battle unless we want to blow all our remaining reserves.
+
+“One last thing before we go. If you see any clockwork constructs that look like scorpions, watch out. They can fire blasts of force mana from the end of their tails that are invisible to the eye. Now be quiet and follow us. We can get this all sorted out once we find shelter.”
+
+To his credit, Shaun merely nodded and fell in behind them, pushing past the exhaustion to get his body moving. It’s not fun, but the ordeal should help him to condition his attributes. Nick broke into a light jog and started heading down the passageway, hoping that Shaun could keep up with this modest pace. At least by the standards of his new life.
+
+The man was soon sweating and drawing short of breath, but he kept on running without voicing a complaint. Fifteen minutes later, they entered one of the large factory like rooms that were scattered across the specimen-refinement division.
+
+After making sure that the coast was clear, they climbed on top of a large storage tank and sat down, trying to keep quiet while they figured out what to do. On the bright side, the tank was filled with what turned out to be pure water and had an access hatch on the top. Everyone drank their fill and refilled their canteens. When everyone had cooled down, he turned to look at Shaun.
+
+“Keep it to a whisper,” Nick warned. “Now I asked you before, but this time tell me everything. What the hell are you doing here and what happened to Kenji? He wouldn’t have been hard to recognize. He was missing an arm the last time I saw him.”
+
+Shaun looked pale, either from fear of Nick or lingering stress from being besieged on the rock. Perhaps a bit of both. But he took a deep breath and then answered in a low voice, looking Nick straight in the eyes.
+
+“Like I said, I’ve never met Kenji. I was stuck outside the tower when the mist started rolling in. I couldn’t find a door no matter how hard I tried. One of those big dogs was chasing me when I saw your friend, the wasp lady with the blue robes, jump into a hole near the base of the tower.
+
+“I figured that following her was my only chance at that point and had no idea that she was part of a full party. When I woke up, I was all alone. You don’t blame me, right? It was that or get torn to pieces. I’m really am sorry about before. Please let me travel with you. I’ll be dead within hours if you don’t.”
+
+“He’s going to slow us down and we can’t trust him,” Veronica said.
+
+“I know,” Nick replied. “I don’t like it either, but we can’t just leave him. He might even become an asset if we can level him up and let him practice his skills along the way.” Shaun sagged in relief on hearing those words. “But if you want to come with us there are rules.”
+
+Nick held up his fingers one at a time. “You do what we say. No complaining. And if you do anything that puts my friends at risk, I’ll leave you behind. No more second chances. Deal?”
+
+“Yes.” Shaun nodded enthusiastically. “I won’t let you down and will follow your lead. I know that earning your trust will take time considering what I did. But I swear I’ll do my part.  Now, would you mind sharing your names… and maybe something to eat. My pack was empty when I entered the tower. I could use my consumable meals, but they weigh next to nothing. I think we should save them for last.”
+
+It’s kind of annoying, but he’s right. Nick sighed in frustration and then handed Shaun a loaf of travel bread. While they ate, Nick and V made their introductions, and then everyone shared their stories of exploring Darkstone Tower thus far.
+
+Shaun had run into trouble early on, escaping from one pack of constructs before being trapped by another. His class was called an Elemental Archer, and he had two abilities. One was an arrow that let out a smokescreen, and the other released an electrical discharge in a small radius.
+
+Nick nodded along with his words, adding his specs to the tactics they’d concocted. Although Shaun’s class had potential, especially for being common, he was still level seven, and his bow skill was barely off the floor. He wasn’t going to be much help until he had more experience.
+
+“That smoke power might come in handy in some situations.” V rubbed her chin as Shaun finished his story. Then she made some suggestions regarding what role he should play in various scenarios. When she was done, Nick chimed in.
+
+“Let’s get some rest and then keep on pushing for the middle of the floor. We can plan out how to level this guy up along the way. The first thing you can do is help carry some supplies.”
+
+Nick dug into his pack and took out about twenty pounds worth of gear. The most he thought Shaun could handle without slowing the team down. It was the least valuable stuff they had, but it would help Shaun condition his strength and toughness as they traveled.
+
+Nick put some water into his pack to extend their supply, taking it back up to its maximum capacity. With that, they made camp for the night. Since Shaun was exhausted, didn’t have the enhanced Survivor trait, and Nick didn’t trust him, they let the man sleep through both shifts without taking a watch. Nick took the first watch and gave Veronica the second.
+
+When he opened his menus, he found a small pile of gains waiting for him. He grinned. Improvements to my skills are always welcome.
+
+Through use, you have improved the following skills:
+
+Sword has increased from [10] to [11].
+
+Evasion has increased from [9] to [10].
+
+When Nick woke up after his turn to sleep, Shaun and V were speaking softly. He listened for a few minutes with his eyes closed, as Veronica explained the basics of moving silently and using a ranged weapon against a moving target.
+
+He was pleased to see that Shaun was paying close attention, occasionally asking a question in a soft voice. The man seemed to be taking this seriously, which was a good thing. While Nick didn’t want to leave Shaun behind, he would if the man became a liability to the team.
+
+They couldn’t afford to let one person drag the party down. Not with the fate of their planet hanging in the balance. Nick opened his eyes and stretched out, adding a few pointers of his own so that Shaun could learn the fundamentals of his short sword, then drilled him in his role during the battles to come.
+
+After a light breakfast they climbed down and continued on their way. They put more miles beneath their boots, heading for the final passageways leading to the heart of the floor and the danger that was certain to be waiting for them there.

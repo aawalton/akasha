@@ -1,0 +1,147 @@
+---
+id: 733bfd89-d480-5e22-bcbf-3f1808eee0e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Jackpot"
+slug: 0301-chapter-21-jackpot
+partOf: labyrinth-of-the-mad-god
+position: 301
+ownLength: 2449
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3257232/chapter-21-jackpot"
+royalRoadId: "3257232"
+---
+
+“Jackpot.” Nick grinned as he ran his fingertips across the Wand of Healing.
+
+This was an amazing development on multiple fronts. He’d had no idea skills could be used to identify magical items—a perk that was certain to come in handy when humanity began exploring the Labyrinth in earnest and acquired gear that wasn’t part of a System reward.
+
+Moving on to item itself, he had been hoping to find another wand and acquire a method of healing beyond potions for some time now, and this checked both boxes with a flourish. While his eyes drank in the sight of the life-saving device, he pondered the implications of its description.
+
+It seemed that the Wand of Healing operated on a different principle than his Wand of Force, which naturally recharged over time as it absorbed compatible essence. This device drew life mana directly from his core, which Nick had recently learned to absorb from his environment. There wasn’t nearly as much life mana flowing through the Labyrinth’s fringe as there was on Earth, but it should be sufficient to power the wand, which meant he wouldn’t have to worry about counting charges and waiting for them to refill.
+
+“I’ll take this, if you don’t mind.” He explained what he’d learned while getting a feel for the rod in his hand. No one had any objections, since he was the only one who could use the device and it synergized nicely with his Build.
+
+After mulling the matter over, Nick decided to store the Wand of Healing in his backpack instead of a beltloop, since it wasn’t Soulbound and wouldn’t teleport back to him if it fell out during a fight. It doesn’t have a Self-Maintenance Modification either, so if I manage to break it, it won’t fix itself.
+
+Before he moved on, he decided to test an idea that had come to him while contemplating his find. When he unsheathed the short sword he had picked up from the sky pirates and focused on the sensation he’d felt when identifying the wand, he learned that his Sword skill was high enough to reveal the weapon’s properties.
+
+Duelist’s Short Sword (Uncommon)
+
+A short blade favored by warriors who dual-wield weapons or fight in close-quarters.
+
+Modifications: Eversharp. Self-Maintenance.
+
+Nick had seen the Eversharp mod back in the treasure vault where he’d picked up his Elixir of Restoration. It was an upgraded version of a Durability modification that kept the weapon unnaturally sharp. This blade isn’t bad, but it’s nothing special either. I’ll keep it until I find something better, then donate it to Aurora’s Contribution Token Exchange.
+
+After explaining the details of his discovery, he returned his attention to the chest. The final two items were a necklace holding a gem that was threaded by a silver chain and what looked like a hollow horn made of brass.
+
+He wasn’t sure what to make of either item. The gem was the size of his thumb. The crystal was clear and had what looked like a cloud of ink floating inside it, even though the gem was solid as far as he could tell. When Nick viewed them through his mage sight, it emitted a faint aura of shadow and light mana, and the horn had traces of lightning magic dancing across its exterior.
+
+“I’ll take that neckless.” Bandit reached down and put the chain around his furry neck. “I can feel it resonating with my Concept. Now, how does it… aha!”
+
+With that, the lemur blurred out of existence. Nick had extensive practice locating invisible creatures after playing so much hide-and-go-seek against Blended opponents. The effect the necklace produced wasn’t as powerful as humanity’s enhanced geneline trait, but it was superior to Shadow Form in bright environments and would help Bandit scout and conduct ambushes.
+
+That just left one object to consider. In the end, Lurk was the one who figured out what the brass item was. It turned out not to be a horn after all, but something far more interesting.
+
+The knight’s mount must have fought using its teeth, because when the dinosaur pressed a fang against the metal device, the item grew and locked into place. It was type of weapon Nick had never seen before—specialized for non-human warriors. When the beast tapped her teeth together, electricity surged inside her mouth, although it didn’t seem to affect her in any appreciable way.
+
+“Lightning bite.” Kenji chuckled. “I didn’t think it was possible for you to look any more imposing, but that did the trick. Badass.”
+
+Lurk basked in the strategist’s praise, and it was clear that the pair was destined to for a bond far friendlier than Nick’s relationship with the temperamental beast. He’s right. Adding an element to her attack is a fantastic upgrade and the lightning surging across her fangs is intimidating as hell.
+
+Kenji’s class had the Heavy Armor skill, so he took the gauntlets and focused on them, trying to discern the armor’s properties. Fortunately, his skill was sufficient to identify the Rare items, which were called Gauntlets of Fortification.
+
+“These things have a Self-Maintenance mod, Elemental Resistance, and something called a Mineral-Manifestation Modification. I think if I visualize the shape I want, it will…”
+
+With a gesture, an uneven ridge of stone rose from the chamber’s floor, creating an impromptu barrier. “Shit. That was supposed to be straight. It’s going to take some practice to use these beauties properly, but they are a perfect fit for my fighting style.”
+
+Kenji gave it a few more tries, filling the room with rocky ridges in all shapes and sizes.
+
+“As far as I can tell, these work like your Wand of Force. I can use the gauntlets to create stone walls until their essence runs out and they passively absorb more. They’re an upgrade for my current set and being able to create physical barriers to supplement my magic-based defenses is really going to come in handy. I’m more than happy to claim them as my share of this find.”
+
+Glad that everyone had found something they could use, the party finished inspecting the hidden chamber before returning to the bedrooms above. They started sifting through the refuse, in case something valuable was buried in the debris.
+
+At first, there didn’t seem to be anything else of note, but then Nick came across a pile of broken machinery in one corner of the room—destroyed when a wardrobe collapsed and crushed the item in question.
+
+He wasn’t sure what to make of it, but since he spotted crystal components in addition to gears and springs, he knew it was some manner of magitech device. He was getting ready to store the pieces in his pack so his people could study them when his belt began to vibrate.
+
+It had been a while since he’d felt that particular sensation. Sudden motion so close to one of his favorite organs made him jump, laughing when he remembered what it meant. My PDA found something it can use to repair itself.
+
+His suspicions were confirmed when a floating screen formed in front of his face, which featured a different format and font than his System messages.
+
+Compatible components have been detected.
+
+Absorbing them will allow this device to restore a portion of its functionality.
+
+Your permission is required to proceed.
+
+He gave the data device his blessing, as this development was considerably more promising than merely salvaging the scrap. Each time he touched the PDA’s crystal to a piece of scrap, it began to glow before disappearing with a pop of displaced air.
+
+When the last component had been absorbed, a new message appeared.
+
+This device has regained the following functions:
+
+Hover: The device can levitate under its own power within a range of 100 feet.
+
+Sense Link: The device can connect its sensors with its user’s senses.
+
+Vocal Projection: The device can transmit its user’s voice.
+
+Nice. I can use the PDA to scout areas that are difficult to traverse. I’ll have to be careful not to draw unwanted attention though. Damaging it after putting so much work into restoring it would really suck.
+
+While they were useful upgrades, those functions could be utilized in a more interesting manner—a fact he became aware of when another screen wavered into existence.
+
+Blightbane’s weapon core has requested permission to link with this device.
+
+If accepted, Blightbane may access the following functions: Hover, Sense Link, Vocal Projection, Image Recording, Image Playback, Illumination, Automapping, Sentry Mode.
+
+Nick wasn’t sure what was happening, but he was excited to find out. He confirmed the prompt, at which point, the crystal PDA rose from his hands to hover beside his shoulder.
+
+“Testing. These controls seem simple enough. Can you hear me?”
+
+The king’s voice resounded inside Nick’s head in addition to emanating from the device, but he was used to it by now, and it didn’t bother him at all.
+
+“Yes. I read you loud and clear.”
+
+“Excellent. This is a wonderous development. I can see the world more clearly than before. My hearing is sharper, and it’s been so long since I could smell anything beyond the Blade World that I’d forgotten what it’s like.”
+
+“Is that the warrior who dwells within Blightbane?” Kenji asked with astonishment in his voice.
+
+“Yes, he found a way to link with my PDA.” Nick let out a delighted chuckle. “Everyone, allow me to introduce Fritz. The last king of Kastilla, and a man I’m honored to call mentor and friend.”
+
+Technically, this wasn’t their first meeting. However, their prior interactions had been limited to the handful of heartbeats Fritz could assume physical form in the heat of battle. Nick had relayed his words on occasion, but it wasn’t the same as a true conversation.
+
+Now that the warrior who was effectively the fifth member of their party had a voice, everyone could chat and get to know one another, letting the king socialize with people other than Nick for the first time in centuries.
+
+Bandit and Kenji were thrilled, and the king was ecstatic—eager to make new friends and experience the physical world. Even Lurk was excited. She kept nudging the PDA with her nose while listening to Fritz talk.
+
+While Blightbane’s core had been fully restored, the warrior’s soul was still healing from his struggle with the Crimson Blight. He needed to rest after so much excitement, so after bidding everyone farewell, he returned the device to Nick’s beltloop and severed the link.
+
+Nick tested using the PDA’s Sense Link himself, which let him control the drone with his mind. Its optical sensors created a second image over whatever he was looking at, and he assumed the others would work the same way. It would have been disorienting if it wasn’t for his high Mind, but he was perfectly capable of processing both fields of view without confusing which was which.
+
+He planned to test the device’s new functions extensively, but that could wait until they were someplace a bit safer than the fallen city. They still had half a room’s worth of debris to inspect, so his team resumed picking through the rubble, tossing everything they had already examined into the far corner.
+
+Bandit and Lurk were bored and left to get some more sleep, but his instincts were telling him to keep looking. Kenji trusted his judgement and the duo continued searching while discussing small matters. Before long, the strategist noticed something Nick had missed.
+
+There was a magelight above the staircase whose bracket contained a concealed switch. When Kenji pressed it, a section of the wall swung open to reveal a hidden bookcase. On it were a dozen tomes written in an unknown language. Gift of Tongues couldn’t help them, since the trait didn’t translate words on a page.
+
+Fritz was sleepy, but when Nick sent him a mental request, the warrior woke up long enough to take a peek. While the Kastillan king wasn’t familiar with the writing, he knew what the books were after Kenji flipped through the volumes so he could examine the charts inside.
+
+“These are Build Manuals. It looks like most of them are incomplete and end at Tier 2, but several continue into Tier 3. These are perfect for a newly integrated species. You need to give them to your people so they can decipher the contents.”
+
+Nick had heard of premade Builds several times by this point, and he understood what a gamechanger this was.
+
+Whenever someone obtained enough levels to select a new class, the System presented a list of offerings. They were derived from a range of factors, including your skills and abilities, but also your attributes, accomplishments, Professions, and fighting style. Until now, humanity had been flying blind—doing their best to survive and picking the best classes from the lists they were given.
+
+However, that wasn’t the way members of established species planned their paths to power. Instead of winging it, most people followed a Build Manual. They were guaranteed to unlock specific classes, along with everything you needed to form a Concept and advance to Tier 2. If any of these tomes revealed the details of reaching Tier 3, it could dramatically accelerate humanity’s advancement—a process Nick knew nothing about, other than it involved forming an Inner World. Even a basic understanding of the steps involved would be invaluable.
+
+Judging by the pictures, it seemed there were several warrior manuals—both melee combat and ranged specialists—and several mage manuals too. Some of his citizens were bound to want to follow the Builds in these books, unlocking classes they might never have obtained otherwise and streamlining their advancement during this critical juncture.
+
+Better still, humanity could reverse engineer the logic and learn how to create Build Manuals of their own, taking the guesswork out of advancing through the early tiers. Although he was certain that plenty of people would choose to chart their own course, this was a major upgrade for his species as a whole.
+
+Nick thanked Fritz and stored the books in his bag with an air of reverence. He ecstatic to have obtained a tool that would help his people grow strong enough to survive what was coming when the year of protection ended and the rifts to Earth opened for good.
+
+The men were electrified by the magnitude of their find. They couldn’t wait to explore Eroquis alongside Aurora’s elites when they were strong enough to tackle the monsters who called it home, then keep right on going and delve the other nodes in this sector.
+
+That just left one matter to attend to. Now that Nick had plundered the knight’s secret chamber, it was time to get some sleep.

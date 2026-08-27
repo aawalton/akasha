@@ -1,0 +1,81 @@
+---
+id: a2bcb93e-1d7d-5660-9504-1ea353049492
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48: Flipping the Board"
+slug: 0087-chapter-48-flipping-the-board
+partOf: labyrinth-of-the-mad-god
+position: 87
+ownLength: 1442
+unit: words
+publishedAt: 2024-11-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1889001/chapter-48-flipping-the-board"
+royalRoadId: "1889001"
+---
+
+Before the Janitor could land a killing blow, an arrow came streaking across the battlefield to land inside its mouth.
+
+The instant that the missile touched down, thick smoke began billowing out from its hulking jaws as Shaun’s ability activated. The smoke was harmless, but it was distracting. The dense cloud momentarily blinded the mutant, causing it to hesitate.
+
+Before the smoke cleared or the monster could recover, Nick’s team unleashed their might. A piercing ray and a pair of mana darts hit the queen in the underbelly, where her armor was thin. While the force drill went to work carving into her guts, a series of acid bolts, arrows, and throwing knives planted themselves into big bug’s body.
+
+All four of Sophia’s wasps dove from above. They started stinging the queen’s head while the mutant held her in place, the frog’s black-barbed tongue tearing off a rear leg along the way. The summons disappeared in a flash of colored light, as they reached the end of their duration.
+
+Just as the smoke began to fade, a whirling length of flaming metal came flashing across the battlefield. The Janitor must have realized what was happening in that moment. It lunged with open jaws, trying to kill the queen before Nick’s team could finish her off. But it was already too late.
+
+Because at that very moment, the blade of Devin’s two-handed axe lodged itself in the middle of the queen’s head. Since she was no longer shielded by her enhancement magic, it penetrated her carapace and cut deep into the brain below. The head of the axe released a tremendous explosion when blast striking kicked in half a heartbeat later, slaying the giant beast and sending ichor flying across the chamber to fall like rain.
+
+The mutant’s jaws came down onto empty air a bare instant later. It let out a furious roar, enraged that its meal had been stolen after all the effort it had put into the fight.
+
+“I’ve always wanted to do that.” Devin laughed, picking up a warrior’s shorn mandible to use as a temporary weapon until he could retrieve his axe. At the same time, another of Shaun’s arrows landed beside the Janitor, releasing more blinding smoke into its face.
+
+Before it could recover and start eating, a metal canister came flashing through the air. It broke over the queen’s corpse, dousing it and and most of the nearby bodies with an oily substance that ignited with a whoosh, transforming the roaches’ remains into a roaring pillar of flame.
+
+“Nice shot Veronica.” Sophia clasped her on the shoulder. “That got most of the bodies. We just need to drive the mutant back long enough for them to burn, and the Janitor will finally be out of options for healing.”
+
+“Alright everyone.” Devin let loose a battle cry. “It’s time for the good part. Get ready for one hell of a fight and charge!”
+
+As one, the team began racing to close the distance. They were ready to move onto the next stage of their plan, since the first had succeeded in spectacular fashion. Nick pulled up his profile as he ran, grinning when he looked through his updates. Although he already knew what he would see, since he’d felt the changes occurring within his body.
+
+Congratulations. You have accumulated enough experience to reach level [18].
+
+You have gained one point of magic from your class.
+
+You have 1 free point awaiting allocation.
+
+“Level,” he yelled.
+
+“Level. Level. Level. Two levels.” The rest of the team chimed in.
+
+As they had hoped, stealing the kill on the roach queen had leveled everyone in the party. The move bolstered Team Earth’s strength and let them absorb her essence, while depriving their enemy of the same opportunity. They had already decided how to spend their free points while planning out their next move. Nick put his into Magic, preparing himself for the showdown with the Janitor as the sensation of his core expanding blossomed within his chest.
+
+As they closed the last stretch of ground, he looked over at the brave women and men who were risking their lives for the future of their people, savoring what they had accomplished together.
+
+Nick had always felt a special kind of magic when a plan came together—an exquisite alchemy of effort and result. The euphoria of countless variables lining up just the way he'd intended. In battle, where a good plan could mean the difference between life and death, that feeling was magnified a dozen times over to become something new. A sensation beyond compare.
+
+He could never have done it alone or if he hadn’t been willing to trust his team. Trust that they would watch his back. Trust that they would play their role. That no one would fuck up, freeze up, or freak out and get them all killed.
+
+In this case, Nick’s trust was well founded, as his team came together to form a lethal machine. A synergistic dynamo of talent and the will to endure. Even Shaun put in a flawless performance. Although beyond his opening volley, his only job was to save the rest of his mana, stay out of the way, and try not to die.
+
+Surrounded by crackling blaze, the Janitor roared out its fury. Its force hands began groping blindly, shoveling burning bugs into its mouth. It was desperate to heal before the fuel for its regeneration was consumed by the flames. Although it was able to recover a small amount of health that way, it had lost track of the queen’s position in the smoke and hadn’t been able to locate her remains.
+
+It was certain to find them soon. But his team was already spreading out to prevent that from happening.
+
+As they raced to cover the last stretch of scarred stonework, Nick looked around the room. He was making sure that no other threats remained to hit them from behind during this critical juncture. He nodded in satisfaction as he raised his sword before him.
+
+He had been afraid that the handful of surviving insects would try to exact their revenge. That they would rush the party or attack the Janitor, granting the mutant more fuel and mitigating the success of his plan.
+
+He let out a sigh of relief as he watched the demoralized beasts run for the room’s only exit instead. With the death of their queen, the roaches had lost the will to fight. They turned away from the Janitor and made a mad dash for the exit, uncaring that their odds of surviving such a move weren’t much better than pressing the attack. Not with the constructs waiting in the hall while biding their time.
+
+Nick could hear the bugs battling the gear-swarm as they entered the hallway. The shrill screams of dying beasts echoing out of the passage. He doubted that any of the roaches would survive to repopulate the horde, but that wasn’t his problem.
+
+The diversion had taken the rats out of the fight for at least a few minutes. Although their route to the stairs was still jammed with warring beasts and constructs, the party wouldn’t have to worry about the clever machines interfering with what came next or hitting his party from behind.
+
+Nick turned his gaze to the tier-two monster, which was still shrouded in smoke near the burning corpse of the roach queen.
+
+“Killing the queen gave me enough essence to take my aura to rank one,” Sophia said. “I’m going to pull back long enough to complete the process. I’ll create a fresh round of summons when I’m done. Call out if you need me, but I won’t be gone long.”
+
+With that, she fell back. Sophia looked around to make sure that nothing was nearby, then got that distant look in her eyes that Nick had come to recognize as someone who was in the middle of experiencing a vision. Good. That extra boost to our attributes couldn’t come at a better time, and it will buff the rest of the summons she creates too.
+
+That was all the time he had to consider tactics. Because at that very moment, the rest of the party arrived in front of the Janitor. They spread out to engage the force-wielding mutant, just as the smoke from Shaun’s arrow began to clear.
+
+Nick fell into formation beside the members of his team. He was filled with hope and pride, knowing that the decisive moment had finally arrived. The brutal four-way battle had come down to Team Earth versus the Janitor, and now it was time for their showdown to commence.

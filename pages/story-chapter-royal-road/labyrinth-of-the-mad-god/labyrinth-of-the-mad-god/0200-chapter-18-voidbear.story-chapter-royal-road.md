@@ -1,0 +1,147 @@
+---
+id: 062fd267-6d34-528d-9a82-a3e146fa2b32
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Voidbear"
+slug: 0200-chapter-18-voidbear
+partOf: labyrinth-of-the-mad-god
+position: 200
+ownLength: 3151
+unit: words
+publishedAt: 2025-07-25
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2466050/chapter-18-voidbear"
+royalRoadId: "2466050"
+---
+
+After reading through the System’s description, Nick turned his attention to the monster that was blocking the path running between the mesas.
+
+Thanks to his upgraded eyes, he could make out the details almost as clearly as using his spyglass would have been prior to his evolution. Of course, the magnification the simple device provided let him see even better, so he pulled it out now. He rubbed the stubble covering his chin while cataloguing the voidbear’s features.
+
+His first impression was that the creature had walked here from out of a fever dream—a monster in every sense of the word. It was about twice the size of an adult grizzly bear, and its profile was vaguely similar from a distance. But there its resemblance to an ursine—to any earthly creature for that matter—came to an end and the stuff of nightmares began.
+
+The voidbear’s body was covered in coarse gray fur that stuck straight out like the bristles on a brush. Large patches were matted with blood or covered in filth, like the monster had never bothered to clean itself. Nick even saw some bones that were glued to its coat by the grime.
+
+Its legs had too many joints and if that wasn’t freaky enough already, they weren’t in the same places. The lack of bilateral symmetry gave the creature a lurching, shambling stride that felt wrong on a fundamental level, as if someone who had never seen an animal had drawn one from a second-hand description.
+
+Powerful muscles bulged beneath its skin, and its twisted limbs ended in jutting claws the length of his short sword. The voidbear didn’t have a tail, and its neck was long and incredibly flexible. After watching the monster chase down a rabbit, he learned it was quick for its size and deceptively agile given its awkward appearance.
+
+All of that was bad enough, but the real kicker—the feature that told Nick this wasn’t just a beast from another planet—was its head. The monster’s skull was gigantic compared to the rest of its body. When it opened its mouth, its jaws spread far too wide, revealing row after row of razor-sharp teeth.
+
+The voidbear’s prehensile tongue was over three feet long and darted out from its mouth like a serpent hunting for prey. Its eyes were tiny, pink, and sunken deep into its skull—like a pair of antlions peeking out from the bottom of their pits.
+
+When he switched to evaluating the monster with his skill, Size Up let him know what he already suspected. The thing was strong and incredibly tough, with attributes significantly higher than his own. It was fast, but not too fast compared to Nick, and he should have the edge while using Force Acceleration.
+
+The creature had sharp senses other than its eyesight, but only rudimentary intelligence. It was a relentless predator that relied on raw power to overwhelm its prey, specializing in tenacity rather than tactics or magical abilities. That was all Size Up could tell him at its current level, but combined with his own observations and the details provided by the System, it gave him enough information to come up with a plan.
+
+The direct approach won’t work this time. The voidbear had him beat in life and stamina, and trading blows seemed like a bad idea. While he thought he could survive a few hits from its claws, if the monster’s jaws caught him, it was going to be game over.
+
+Instead of a straight-on engagement, Nick decided to take a page out of Veronica’s book, although he still wasn’t sure if he wanted to try his luck. Use hit and run tactics, focusing on precision strikes. Target its weak points. Since you don’t know where its organs are located, focus on its joints and sensory organs.
+
+Mana Dart isn’t going to do much given its vast pools of vital energy, and it’s strong enough to break through Arcane Shield, so use your other abilities instead. Infusing Blightbane with pure mana might not have much effect either, although there’s no harm in trying.
+
+While he processed the monster’s capabilities, Elizabeth borrowed his spyglass, waiting for Nick to finish his evaluation before saying a word.
+
+He eventually decided to go for it. Given the difficulty rating, the voidbear should be easier to kill than the demon. Although this fight lacked any guardrails whatsoever, he had Liz backing him up this time and his potions for an emergency.
+
+He needed to earn more experience and essence, wanted to try out a few ideas for his new powers in battle, and was eager to collect all the CP he could get. Besides, if that thing is roaming the biome, it could wind up killing some of our allies. I can’t afford to leave it alive.
+
+“Are you willing to take on the monster together?” Nick looked Elizabeth in the eyes. “If not, I’ll tackle it alone.”
+
+She nodded while fingering the hilt of her blade. “I’m game if you are. We both need to level up and train our skills as fast as we can, and I don’t want to leave the monster roaming the pass. From that description, the voidbear will attack anything that draws near, and our people might die if it catches them unaware.”
+
+Liz’s answer only deepened his growing respect for the woman. He admired her ability to adapt to the harsh realities of their new lives, and her desire to help others despite the risk to herself. After going through the Fate of Earth quest, Nick felt the same way. The people who had volunteered to save their planet were his brothers and sisters, and he wasn’t about to let anything that might hurt them walk away after it stepped into his sights.
+
+Since they were going to be fighting alongside one another for the first time, there were several matters he wanted to go over before the battle began. Fortunately, they had the luxury of being able to take their time for this engagement.
+
+Nick moved downwind where they could watch the voidbear from a distance, then the duo got to it. They spent the next half hour working out their general strategy while divulging more details about their skills, abilities, and gear. He wasn’t ready to share everything just yet, including the full story of Blightbane, but he let her know about the powers that formed the core part of his fighting style along with his flask and wand.
+
+When he was done, Elizabeth took her turn.
+
+After hitting level 25 from the battle on the rooftop, she had chosen a Rare class that focused on enhancing her party while eliminating vulnerable targets. Nick had her pegged as a ranged attacker and was surprised to learn that her preferred combat role was an assassin.
+
+Liz would activate her buffs, then hang back while probing her opponent’s weak points and waiting for an opening to appear. When it did, she would blindside her enemy then go in for the kill. In addition to wielding the silver blade sheathed at her hip, which was a powerful magic item from what he could gather, she had a pair of auras and a self-healing ability.
+
+One aura helped people recover vital energy faster. It would only make a small difference for Nick, although it would really shine in a large-scale conflict like the battle on the roof, since it had a long range and was extremely mana efficient.
+
+Her other aura was unusual in form and function. It created a glowing totem that absorbed the damage her allies received from both physical and magical sources. It could only be cast once every ten minutes, and the totem would shatter after its capacity was exceeded.
+
+The best part was that Liz’s aura kicked in after all other forms of defense had been applied, so it only blocked hits that would have caused significant wounds. The totem would break quickly in a big fight, but for just the two of them, it was a potent form of insurance against blows that could cripple or kill them.
+
+In addition to a self-healing ability, she had a combat art that let her unleash a flurry of precision thrusts, and a spell that was the magical equivalent of a flashbang orb as far as he could tell. Finally, her class trait provided a boost to all his abilities, which was flat-out amazing, considering that it could benefit every ally within range.
+
+The self-heal explains how she recovered from the bladewind so fast. Her class is fantastic, and she will be way more useful in a fight than I thought. Once they had hammered out their plan of engagement—along with a few contingencies for various situations—all that was left was to get on with the show.
+
+Nick was going in first. He would draw the monster’s attention while Liz backed him up with her auras and flashbang spell. Once she had a good feel for their opponent, she would close the distance to attack with her sword whenever a vulnerable point was exposed.
+
+As his adrenaline began to flow, they wished each other luck and split up. Based on everything he had observed so far, the moment the monster spotted him, it would attack without hesitation and wouldn’t stop until one of them was dead.
+
+Sure enough, when he drew near, its ears pricked up. Then the voidbear let out a guttural roar and came charging at him in a flash of gray fur.
+
+Liz was standing far enough back that it hadn’t noticed her yet, so Nick stuck to the plan and circled around to keep its attention on him. She had already activated her Regeneration aura, and he was in range to receive the boost from her trait.
+
+Since this was his first time fighting a monster, he needed to learn more about its behavior and capabilities. He had mostly fought constructs and beasts until now, and was wary of letting those experiences lead him to making unwarranted assumptions about the nature of his foe.
+
+As the creature crossed the final stretch of soil, he came to a stop and assumed his stance with Blightbane at the ready. He was prepared to activate Force Acceleration and start casting spells but decided to hold off until he had a better idea of what he was dealing with.
+
+The Voidbear came streaking for him in a shambling surge that he could feel through the soil beneath his boots. Judging by its posture, it’s going to try to knock me over or trample me. It’s moving too fast to use its claws.
+
+Sure enough, the monster came barreling toward him without slowing down, angling its body to hit him with a bulky shoulder. Nick waited until it drew near and leapt, letting the voidbear pass beneath him as he slashed with Heavy Blow. The blade bit deep into the monster’s skin, but he didn’t feel the telltale squish of cutting through muscle or organ.
+
+“It’s hide is way thicker than most beasts,” he reported while the creature came to a skidding stop, sending a billowing cloud of dust into the air. It wasn’t a strategic thinker, but it was smart enough to try something else after its attack failed to connect. This time, the voidbear approached at a slower pace, ready to lay into him with its teeth and claws.
+
+Meanwhile, Liz drew deeply upon the magic within and cast her second aura. As he dodged a ferocious series of swipes from the monster’s paws, a totem wavered into existence. Nick hadn’t been sure what form her spell would take and caught a glimpse out of the corner of his eye.
+
+The totem resembled a scarecrow suspended on a long wooden pole. When it finished materializing, he felt a layer of mana spread across his skin. He could sense it was connected to the magical manifestation. He was curious how it worked, but now wasn’t the time to learn more.
+
+The monster growled in frustration as its attacks failed to connect, using both forelimbs and its teeth in a seamless combination of carnage. It occasionally reared up and tried to crush him or catch him with its freakishly-flexible neck and way-too-wide mouth. But while the creature was fast, Nick was faster—especially when he switched on Force Acceleration to dodge.
+
+It blocked some of his slashes with its claws, although it didn’t seem to mind taking an occasional cut. By now, he was certain there was something unusual about its body. “It’s treating exterior wounds like superficial injuries, and I don’t see any blood spilling through—almost like its wearing leather armor instead of skin.”
+
+Liz had been watching closely the whole time, ready to jump in when an opportunity presented itself. He saw her nodding along with his words, although she didn’t say anything so the monster wouldn’t notice her hiding behind a boulder downwind of its position.
+
+Nick was ready to start working his combat magic into the mix, now that he had a better feel for the creature’s capabilities. It was tougher than the demon, but not nearly as fast. It wasn’t particularly agile, but he had the sense that it could keep this up for hours—if not days—on end.
+
+It’s not a precision fighter, but it’s strong and unrelenting. Plus, its unusual anatomy makes it hard to target vital points. I’m not sure its brain and heart are in the usual places either.
+
+While he dodged and slashed like mad, Nick gathered his concentration and conjured a Piercing Ray. Thanks to his long hours of practice and superhuman Mind, he could divide his attention, casting the spell while focusing on the monster in front of him.
+
+He didn’t need to hold the ball of force mana in his hands anymore, which left them free to wield his blade. While Blightbane held the monster back, a churning sphere of rotating magic coalesced above his left shoulder. He could feel the upgrade to its output from Liz’s trait. It wasn’t a night-and-day difference, but it was a nice bonus that would be invaluable in a large-scale engagement.
+
+After leaping out of the way of a double-armed swipe, he sent the ray streaking for the hulking brute.
+
+Half a heartbeat later, the whirling drill of force and pure mana struck the voidbear between the eyes, picking up speed as the energy transferred from the sphere into the rapidly-rotating ray. The spell parted the monster’s flesh before boring into the bone below. It soon penetrated its skull, which would have been a fatal blow to most living beings.
+
+That was when something strange occurred.
+
+The path of the ray began to bend, deviating from the course Nick had chosen. Instead of passing through the creature’s neck and drilling into its torso, the spell was forced to emerge from the back of its skull. Due to the resistance, it didn’t have enough energy for a second pass and dissipated shortly after.
+
+He was astonished to see daylight shining through a hole that went all the way through the voidbear’s head. He wasn’t surprised by the damage itself—since that was more or less what he’d been hoping would happen—but he was shocked that the gaping wound barely slowed the creature down. It roared in pain, but didn’t stop coming, and though some blue blood was leaking out from the hole in its head, there was no indication that he’d hit a vital point.
+
+He tried again after darting back to open some room, aiming for its heart this time around. Nick swore when the same thing happened. The path of the ray was bent inside the monster’s body, coming out the far side without any appreciable damage.
+
+“Whatever it has for vital organs, it has a way of protecting them. Punching holes in its torso isn’t doing much damage. Try taking out a joint and see if you have better luck.” With that, he launched a series of strikes at the voidbear’s face, keeping it distracted while his partner joined the fray.
+
+When the monster was fully committed to attacking Nick, Liz made her move. She darted in without hesitation—movements as smooth as satin over silk. When the voidbear reared up to build momentum, transferring all its weight onto its hindlegs in the process, she hit it from behind with the point of her sword leading the way.
+
+She plunged the tip deep into the monster’s knee—or one of its knees at any rate—then continued to thrust in a flurry of precision strikes that targeted a joint along that limb. Elizabeth unleashed a dozen lunges in half as many heartbeats, then pulled back as the monster’s leg buckled, sending it crashing to the ground hard enough to knock Nick to his knees.
+
+“Its skin and organs are weird.” She flitted back to open some room. “But its weight-bearing anatomy is vulnerable. We should be able to disable the big bastard if we damage its limbs, then we can figure out how to finish it off.”
+
+Unfortunately, that wound up being easier said than done.
+
+Although Liz’s attack had slowed the monster down, it wasn’t limping as much as he expected. “I think it can reconfigure its tissue at will,” she called out. “Slide its muscles and organs around to avoid critical hits and reinforce wounded areas.”
+
+“It’s not as dumb as I thought.” He danced between a pair of claw swipes, then hopped out of the way of the voidbear’s bite. “It’s adapting to my attacks over time.”
+
+By now, Nick had a decent sense of his opponent and was ready to end the fight. He infused Blightbane with pure mana and got ready to let loose. I’ll try to shear off a limb or decapitate it. Let’s see it walk away from that.
+
+He couldn’t line up a slash on its neck, so he waited for an opening and attacked its shoulder instead.
+
+He wasn’t sure if the silvery mana would have any effect, and was pleasantly surprised to discover it did. It seemed the monster was using mana to manipulate its internal tissue. The effect was disrupted by pure mana’s antimagic properties, increasing the damage as his blade passed through.
+
+This time, he felt Blightbane bite deep into muscle, although it stopped when it hit the bone. “Its skeleton is crazy hard. Almost like swinging at steel.”
+
+As those words left his lips, Nick learned an important detail. While the monster couldn’t cast spells, it could still burn stamina. Its movements abruptly sped up—fast enough that he had trouble moving out of the way, even with Force Acceleration.
+
+He thought he was going to dodge its attack with inches to spare, but the voidbear’s claws abruptly lengthened, granting it extra reach that he hadn’t anticipated.
+
+Before he had time to react, the monster cut through his armor, heading for the tender flesh below.

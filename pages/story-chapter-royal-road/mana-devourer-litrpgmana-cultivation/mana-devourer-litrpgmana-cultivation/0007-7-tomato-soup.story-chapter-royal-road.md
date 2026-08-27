@@ -1,0 +1,181 @@
+---
+id: f309f2ab-c93b-5418-b8b1-ee7fa9340416
+page-type-slug: story-chapter-royal-road
+title: "7. Tomato Soup"
+slug: 0007-7-tomato-soup
+partOf: mana-devourer-litrpgmana-cultivation
+position: 7
+ownLength: 2512
+unit: words
+publishedAt: 2024-06-29
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697784/7-tomato-soup"
+royalRoadId: "1697784"
+---
+
+“Hello, mortal. Have I come at a bad time?”
+
+Markus stared up at the glowing golden paragon of divine energy stood before him, then glanced back at the flaming helldog that had tried to kill him not minutes before. He sighed.
+
+“Nope. Now’s a good time. Sorry the place is a mess. Haven’t had a chance to clean up recently, and the maid’s not due for another week.”
+
+Markus gestured to the small cell around him, covered in shards of broken plate and his recently spilled blood, as the god began to crack a knowing smile, his eyes glowing eerily bright.
+
+“Oh! A joke! Ahahahaha!”
+
+With a deranged grin, the god then proceeded to walk through the bars as if they didn’t exist, their materials apparently not fazing him in the slightest as he strutted inside and conjured a pair of ornate chairs, one behind Markus and another behind himself.
+
+“Be seated.”
+
+By the time Markus’ body had finished being forced into the chair, he blinked, and found himself to be somewhere other than the dimly lit cell he’d came from entirely.
+
+The two of them sat on a high balcony in view of a vast, gilded city. A harbour in the near distance rang loud with the cry of fishmongers, shipwrights, traders, and taverngoers.
+
+Gulls squawked their presence low and high, and chatter and busy merriment seized the entire periphery as far as Markus could see.
+
+Directly below him were the gardens of what appeared to be a grand, silvery palace, the building flanked by extravagant houses and districts with beautiful architecture, though none seemed to rival the sheer splendour of this place.
+
+It was a home fit for a lord. Perhaps a king.
+
+“Well? What do you think?”
+
+Markus snapped to attention, eyes adjusting to the visage of the deity sat opposite him.
+
+“It’s a neat party trick,” he said. “Wish I could just make a chair out of thin air.”
+
+“Hah!” the god barked, a menacing smile upon his face. “Do you always resort to sarcasm when you’re afraid?”
+
+“Mainly when I’m bored,” Markus answered.
+
+“Ahahahahah!” the god cackled without opening his mouth, smiling toothily the whole time. It was perhaps one of the creepiest things Markus had ever seen. “I’m glad I chose to meet you!”
+
+“I’m… happy you’re happy?”
+
+“Naturally!” the god snapped his fingers again, then made two dishes appear before the pair of them, both with stylishly adorned silver lids. “Three guesses for what kind of a god I am. Try! Try.”
+
+Markus stared straight at him, ignoring the dish, intensely aware he’d had nothing to eat or drink besides a slice of cheese since arriving. “Well, you keep conjuring shit out of thin air, so… creation god?”
+
+“What?” the glowing creature narrowed his eyes. “No, don’t be silly. Any god worth their salt can do that. Frankly, I’m insulted to be compared to such a lesser god.”
+
+While the tonal shift was brief, Markus felt it in the god’s reaction. This being could wipe him out on the spot before Markus would even become aware of his killing intent. He needed to watch himself.
+
+The god tutted. “No more guesses? Fine. My name is Randall. Benevolence is the virtue I extol.”
+
+As if to exemplify this, he lifted the coverings off of both lids, revealing what looked to be tomato soup sitting within the bowl facing Markus, and some kind of steak on the plate on Randall’s end. Grabbing a pair of utensils, Randall began to carve his steak.
+
+“Okay… but how do I fit into that?” Markus asked, keeping his eyes off the bowl of warm, rich-smelling soup as best he possibly could. “A war god or something, I’d get, but why does a benevolence god want an arena fighter?”
+
+The moment the words ‘war god’ escaped his lips, Markus heard the knife scrape harshly against Randall’s plate. “Well, the answer to that is rather simple.” Randall regained his composure quickly, taking a small bite of his bloody meat and smiling as he chewed. “Your performance at the arena exemplified my virtue. You brought the one true gift to that walking abomination for all to witness! Yes, you did!”
+
+Markus shuddered as the gears in his brain began to turn. “...death? Does a benevolence god deal in death?”
+
+“A God of Benevolence deals in gifts, and in the matter of gifts that aren’t repaid, he deals in debts.” Randall tutted once more, wiping his lips as blood ran down his chin. “I’m not interested in your capacity as a warrior. No. What interests me most is your ability.”
+
+“What about it?” Markus was guarded, as he should’ve been. There was no telling what Randall did or didn’t know. If he was going to have to bargain for his soul, then such information wasn’t something he was about to give up readily.
+
+“What about it?” Randall’s eyes bugged. “Hah! What about it…” He leaned forwards, as if he were about to share a grand secret. “You know what you did to that creature when you touched it, don’t you?”
+
+“I took some of its energy,” Markus stated coolly.
+
+“You claimed its essence!” Randall laughed, kicking his legs with glee. “The very thing that makes it whole, you took from it! Imagine, with refinement, what you might take from those who owed something to you! Their money, their magic, their blood, their youth, their laughter, their joy, their senses and memories and perhaps even their soul!” Randall grinned even wider, his voice dropping to a conspiratorial whisper. “Imagine having such power over one bound to you. The versatility of such a thing, the finesse of it. I want you to be my collector.”
+
+Markus took a few moments to process what Randall was telling him. Try as he might, he wasn’t able to force the grimace from his face permanently. “You’re telling me you can’t do all of that yourself, then?”
+
+“Your ability is special. Some of my assumptions on its potential might be a tad fanciful, but I’m rarely wrong! I could take your limbs from you, your sight, your ears, your tongue, your life—” he listed them off on one finger after the next as he spoke, “—but to access the contents of one’s mind, magic, and spirit is all too sadly beyond me. Such artistry would be so beautiful to witness.”
+
+“You want me to… torture people? To settle debts that they owe you? As you watch?”
+
+Randall frowned. “When you put it like that, you make it sound crass.” He clicked his fingers once more, and a system notification popped up. “Peruse it at your leisure. I doubt you’ll find a better offer.”
+
+“...you mean you can’t force me to accept?”
+
+Randall grit his teeth, his fork bending a little. “Read the offer. This palace is just the start of it.”
+
+Markus pressed ‘no’ before he could even begin to know what he was missing out on.
+
+“Wha—d-did you mean to do that?!”
+
+“Yes. I’m terribly sorry, but I’m not interested.”
+
+“You have to be interested! Did you not see what I was willing to pay you? I demand that you reconsider!”
+
+“I’m not interested,” Markus stated, arms crossed. “I’d rather waste away in the arena than help fulfill your sick dreams. I don’t care what you’d give me.”
+
+“Oh, would you?” Randall snarled, his eyes turning dark, the grin on his face dissipating in a mist of anger. “I’m your only ticket out of this forsaken world, the most powerful and generous of the gods, the one who would offer the most for your service! And you dare to turn me down?!”
+
+“You don’t sound powerful from where I’m sitting,” Markus said. “You sound like a whiny child that can’t handle not getting his way.” He shrugged his shoulders as Randall seethed before him, his voice as calm as he could manage. “I’ve said no. Are you gonna kill me for that, or can I go back to my life of mortal danger?”
+
+“Go? Now?” Randall laughed maniacally. “You haven’t even eaten your soup yet! You really should eat it first.”
+
+“I don’t want my soup. I want to go back to—” Markus found his words cut short as he lurched forwards in his seat, his face hovering pendulously over the warm bowl of soup. “I want…”
+
+“You cannot refuse a gift from me.” Randal snarled, his body glowing bright. “You will finish it before you leave.”
+
+Before Markus could even react, his head was dunked into the soup bowl. He struggled and thrashed, but he could feel his mind being compelled to drink greedily. It wasn’t the force of a magic spell holding him down, from what he could tell, for his system hadn’t absorbed anything, but simply a command he had neither the mental fortitude nor the ability to overcome or override.
+
+Markus refused to be humiliated so easily. He brought the mana within his body to bear, attempting everything, pushing it towards his lips and trying to enact a barrier of frost, then attempting to melt the bowl when that didn’t work, holding his breath as his arms and legs locked in place, refusing to move, to work as he instructed, as all the while Randall hovered over him, laughing gleefully.
+
+“That’s alright, mortal! If you do not wish to work for me, then you can at least entertain me! Eat, dog! Eat!”
+
+This was bad. He was going to lose consciousness soon if he didn’t do something, drowned in a fucking soup bowl. Was his pride really worth so much that he was willing to die over it? No, but he couldn’t lay down and be walked over. There was no point in fighting to survive in this world if it meant constantly being at the whims of a cruel piece of shit like this.
+
+He still had Divine Mana within his repertoire, but he wouldn’t waste it unless he had to. He had a feeling it might help counteract this effect, but he couldn’t be sure, and he knew that A Grade mana was likely the most valuable thing he possessed by a mile.
+
+If he was going to find a way out of this, he’d have to do it fast, as all the while as he attempted to think, his mind was slipping, his lungs filling with dioxide as he struggled to stay conscious.
+
+He opened his mouth. Allowed the bowl to slowly drain. He worked his body in overdrive to attempt to put a provision in place, to keep himself conscious as he fought his way through this predicament. There was only so much he could do. Only so much preparation he could put in place and so little time to do it in.
+
+“That’s it. Finish it all! Drink it before I drown you in it!”
+
+He wasn’t sure if it would work. He wasn’t sure if he’d waited too long, if he’d even avoid drowning or at the very least permanent damage after being submerged for so long.
+
+Even still he forced himself to keep going. This was a trial he had to beat, and while Markus swallowed gulp after gulp of hot, viscous soup, he listened intently to the chiding rambles of Randall as he stood over him, spectating Markus’ torture and revelling in his own handiwork.
+
+Markus paid special attention to where he stood. He waited until the bowl was finally drained, and found that once the bowl was empty, once he could breathe again, once he could finally move…
+
+Markus turned in a flurry of motion. He’d been doing everything to keep the cyromancy within his own body alive, chilling his esophageous and forcing the soup to remain in place. His nostrils burned. His sinuses were on fire.
+
+He leaned into Randall, the last mouthful still bulging in his cheeks, and with a surge of force, spat the contents of the bowl all over the god’s perfect white robes.
+
+Markus slumped in his seat right after, panting, staring up at the disfigured god, who looked as if he were about to combust from pure, seething rage.
+
+He’d had to swallow his pride for a moment. That didn’t mean he had to swallow the soup.
+
+“What have you… what have you done to me?!” Randall screeched, wiping furiously at his once-pristine robes with both hands, only making the matter worse, spreading tomato sauce everywhere.
+
+“It’s a gift,” Markus said between coughs, his throat in fresh agony. “It’s impolite to refuse a gift, right?”
+
+“Grr… enough of this!”
+
+With a blink and another cough, Markus found himself back in his dingy cell, falling to the hard stone ground. The dog flinched as the two of them materialised, scurrying back as soon as it saw Randall.
+
+“I will not kill you here. I will not put you out of your misery so easily. You have refused my offer, besmirched my name, disrespected me, refused my hospitality, and defaced my godly visage...”
+
+Randall turned, walking through the bars once more, flicking tomato soup off of his hands as he went.
+
+“Such a debt must be repaid in full. Enjoy your new life here, mortal.”
+
+And with that, Randall left, but not before fixing the melted bars in his cell with a small flick of his hand. There was that escape route gone.
+
+Fuck…
+
+[Title unlocked: Grand Defier. You have refused the compelment of a Divine Virtue and lived to tell of it. Your spirit has increased by 5, and your body may bolster a small resistance to a Divine Virtue once per week.]
+
+A title? That was new…
+
+Markus hadn’t gotten one of those until now. He hadn’t even gotten one for killing the bulleater. To think that such an outlandish thing was required to unlock a title was incredible, but the knowledge that he’d gotten at least some benefit from making enemies with Randall was placating to say the least.
+
+He wondered if he might’ve been able to handle things with Randall more diplomatically. He was almost sure it wouldn’t have mattered. Regardless of how respectful he might’ve been, that god would’ve always taken anything other than Markus agreeing to be his torturer as a slight and an insult. There was no way forwards but to refuse, not if he wanted to maintain who he was.
+
+Markus was sat in his cell alone for all of twenty minutes before another god showed up. He still had points to spend and paths to figure out, but before he could even start thinking about any of that, fate decided to intervene once more.
+
+The god cleared his throat. This one was short, round, and had silvery hair travelling all the way down to his waist.
+
+“You’re the one from Earth, are you not?”
+
+Markus simply gave a nod. His throat felt too sore for this.
+
+“I am Maxen. I personify the virtue of Service. I’ve come here to discuss terms.”
+
+Another god already? Great. The last one was a jumped up, sadistic debt collector…
+
+Knowing Markus’ luck, this one was a crack dealer.

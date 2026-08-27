@@ -1,0 +1,207 @@
+---
+id: dac8654e-9caa-5cfb-b8cc-27e6216f5e88
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60: A Momentary Respite"
+slug: 0099-chapter-60-a-momentary-respite
+partOf: labyrinth-of-the-mad-god
+position: 99
+ownLength: 2556
+unit: words
+publishedAt: 2024-12-04
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1939949/chapter-60-a-momentary-respite"
+royalRoadId: "1939949"
+---
+
+Nick braced himself to experience another major teleportation sequence. Thus, he was surprised when the world reappeared only a few seconds later. When he opened his eyes, he found himself standing in what appeared to be a modest hotel room—the same kind that you would have found almost anywhere on Earth before the System arrived.
+
+There was a couch in one corner and a bed in the other, along with an adjoining bathroom. When he walked over to the window and opened the curtains, all that he could see was an infinite expanse of mist that was glowing with its own inner light. What’s going on? This doesn’t seem like the kind of place where I can find a trainer for my Sword skill.
+
+It all became clear a few minutes later, when a message from the System wavered into existence.
+
+Preparations are being made to transport you to a planet with compressed time. They will be complete in approximately one hour.
+
+A complimentary safe room has been provided in the meantime.
+
+Now that he knew what was going on, Nick took off his pack, removed his jacket, and plopped down on the bed. He spread his arms wide and lay back—letting his head hit the pillow with a sigh of relief. After surviving the basement of Darkstone Tower, culminating in a desperate four-way battle, being safe and relatively comfortable was an indescribable luxury.
+
+He closed his eyes and let it all go. The stress of worrying about his friends. The tension that arises when any second might be your last. The fear of another disaster descending upon his head. He was too amped up to sleep, and didn’t have time for a long nap regardless. Instead, he let his mind wander while replaying the battle in his head. Team Earth’s close calls, eventual victory, and the massive pile of gains they had acquired at the end.
+
+On that note, he turned his thoughts to the future. He was still in the middle of a fight for the survival of his planet, and every second was an invaluable resource. One that he had no intention of squandering.
+
+Fortunately, his next objective could be completed lying down. Nick had four attribute points to spend after killing the Janitor. He already had plans for the first two—plans that required a safe environment to make the most of. His mental stats were starting to fall behind his physical and magical attributes, and he wanted to boost them now. Both Mind and Creativity were incredibly useful, and each came with potent side effects when raising them with free points.
+
+He was hoping to use the period of enhanced visualization and mental acuity that came along with the ride to acquire something beyond the points’ inherent value—to deepen his understanding of Mana Dart enough to take the ability to rank three now, since he had just picked up enough essence to advance it.
+
+Taking an ability to rank 3 was another small step, which meant that it wasn’t an upgrade that would change the properties of the spell. Instead, Mana Dart would receive a boost to its efficiency and maximum power, which was still a significant asset. It would let Nick cast the spell more often and dish out more vital energy damage in the process.
+
+He had already picked up some insights from testing the spell in various ways. Now, it was time to consolidate them into a concrete understanding. With that goal in mind, he sent his intentions into the System and said, “I would like to spend one free point on Mind, and one on Creativity. At the same time please.”
+
+With that, Nick closed his eyes and waited for the show to start. A few seconds later, energy began building between his temples as ideas flooded his mind. A hundred different topics were zipping across his synapses, all of which were indescribably interesting. At the same time, his mind began to sharpen. Each thought possessed a clear purpose and level of focus beyond that offered by Arctic Clarity.
+
+With a surge of will, he dismissed the legion of possibilities that were marching across the theater of his mind’s eye, and forced his train of thought onto the matter at hand—deepening his understanding of his first spell, Mana Dart. While he did so, he conjured one as a visual aid. He watched the spell form with his newly enhanced magical perception as pure mana flowed out of his core, through the magical circuitry that the System had carved into his brain, and outside of his body.
+
+A silver wedge winked into existence and began circling his head—bigger and brighter than ever. Nick’s thoughts followed his eyes, drinking in the silvery glow of pure mana. Then he looked deeper still, trying to tease apart the individual weaves that gave the spell its shape. It was his first time trying to analyze a spell on this level, but eventually he began to get a sense of how its matrix was formed. How the underlying structure enhanced and modified the pure mana, but also constrained it.
+
+Before the free points’ effects could wear off, he tried something that he’d been thinking about for some time but hadn’t managed to pull off. He wanted to extract some pure mana from his core and shape it, without activating the ability pathway that the System had given him.
+
+To his delight, Nick was able to squeeze out a tiny flow of silvery mana, which gathered in his hand with an electric tingle. Then he tried to shape it with his will—replicating the energetic structure of the dart circling his head.
+
+It was incredibly difficult to manipulate the raw mana, but he kept at it—focusing with every scrap of his bolstered concentration. Eventually, he was able to weave the threads of mana into a dartlike shape. His creation was unstable, and only a crude approximation of Mana Dart. Like an unskilled artist had tried to copy a masterwork. It winked out of existence a heartbeat later, as the effects of his free points faded away.
+
+Even still, that attempt to understand the structure of the spell and shape it from raw mana, taught Nick things that he had never imagined. He went ahead and gave it another try. But without the free points turbocharging his powers of cognition, he couldn’t get the mana to form.
+
+It was still a significant breakthrough—one that he would explore at length over time. He had the sense that following this path would lead to major gains in the future. When he opened his profile, he saw that they had resulted in some gains in the present too.
+
+You have deepened your connection to the mana within your body and improved the following baseline attribute:
+
+Magic has increased from: 4 to 5.
+
+Your understanding of [Mana Dart] is now sufficient to advance the ability to rank 3.
+
+Would you like to advance [Mana Dart] to rank 3 now?
+
+As it was exactly what he’d been hoping would happen, Nick accepted the prompt. Then he lay back down to experience the vision that accompanied taking his ability up another minor step. First came what he had come to think of as the ‘practical review,’ which covered every time that he had used the spell, along with every insight he’d made since the last time he had ranked up the ability.
+
+When it was over, he was granted a vision of his brain and energetic pathways—watching as the channels comprising Mana Dart grew denser and more complex. This time, he could almost understand why the new configuration increased the efficiency of the spell. Maybe if I combine my attempts to shape mana with the structures I see in these visions, I can learn to create my own spells or modify the ones I already have.
+
+It was a fascinating prospect. But experimenting with it was going to have to wait until Nick got better at controlling mana without relying on the powers the System had granted him. He thought about taking Force Acceleration to rank 1 too but eventually decided against it. Upgrading it up will have to wait. I can’t afford to make Force Acceleration any more powerful until I gain some more Toughness or learn how to control it better, preferably both.
+
+Now that he had accomplished his main objectives, he cast another dart. Nick wanted to compare it to the one he’d just conjured to measure how his new circuitry affected the output. When the wedge of pure mana wavered into existence, it wasn’t any bigger or brighter than before. This time, the upgrade had altered its density and shape.
+
+It was still a stylized dart, but there was a sharpness to the edge that hadn’t been there before. Even more interesting, subtle patterns now covered the surface. They reminded him of System writing, although they didn’t form anything that he could recognize as words. The other change was that the dart was now so full of pure mana that he couldn’t see through it at all. Instead of being translucent, the spell looked like someone had carved off a sliver of the full moon.
+
+Nick visualized a complex flight pattern, and then sent the dart whizzing around the room. It’s faster and more responsive than before. Acting on instinct, he tried guiding the dart mid-flight. A feat that he had accomplished with Piercing Ray but not with Mana Dart. This time, the spell responded to his command. He couldn’t control it completely, but he was able to bend its path in accordance with his will.
+
+This is great. Now I can hit moving targets, or bring the dart around for a second pass if they manage to get out of the way. When the spell ran out of juice, he moved on to his final goal—taking a close look at his mysterious wand.
+
+He had always felt that there was something special about the force-flinging device. Ever since he had claimed it during his orientation, and it had gained the modifier Soulbound. Now he knew that it was a living artifact, which would continue to grow more powerful as it consumed the essence he generated.
+
+Nick was beginning to suspect that the situation with Pax, Astra, Taltos, and the System was far more complex than he had originally thought. That there was a deeper level to everything that had happened to the Earth, which was still playing out behind the scenes. He had a hunch that the wand, the cryptic remarks Pax had made, the shard she had stuck in his finger, and the blurry spot in his inventory were all related.
+
+Maybe one day soon, he would discover more of the truth. For now, he would just have to keep his eyes open and try pick up whatever he could. Regardless of the details, the upgrade to his wand was a most welcome surprise. The device had gained more charges, more power, and the ability to adjust the spread of the blast.
+
+There wasn’t a good spot to fire it in the safe room, but Nick would take it for a test drive soon—once he was standing on the next floor of the tower and had a few hours free to experiment. While he waited for the System to finish its preparations, he opened his profile, then began checking out the massive gains he’d acquired from surviving the first floor of Darkstone Tower.
+
+When he did, he realized that there was one more update waiting for him to read, which he had missed in his haste to upgrade Mana Dart.
+
+The changes to your energetic core have spontaneously enhanced your Force Adept trait.
+
+Force Adept (enhanced): You receive a significant bonus to mana efficiency and scaling from energetic attributes when casting spells that use force mana, and a modest bonus those using pure mana. Force Adepts are unable to cast elemental spells and receive a substantial penalty when manipulating elemental-aspected mana in any way.
+
+Awesome. I knew I felt something shift when all that essence soaked into my core. Nick pumped his fist, then went ahead and read his profile in full.
+
+Contestant Profile: Nicholas ‘Nick’ Henry.
+
+Level: 21.
+
+Tier: 1.
+
+Species: Human of Earth (E).
+
+Class: Kineticist (uncommon).
+
+Base attribute points per level: +1 magic, +1 dexterity every other level.
+
+Free points per level: 1. You have 2 unspent free points at this time.
+
+Attributes
+
+Strength: 9 (10) Dexterity: 10 (18) Toughness: 10 (19)
+
+Mind: 9 (13) Creativity: 8 (10) Charisma: 5
+
+Magic: 5 (18) ??? ???
+
+Abilities
+
+Ability slots: 2 active, 1 passive, 1 free.
+
+Used: 1 active, 1 passive.
+
+Active abilities
+
+Mana dart (spell). Rank 3. Path: Vital energy damage.
+
+Creates a magical projectile formed from pure mana that damages all forms of vital energy (health, mana, and stamina).
+
+Piercing ray (spell). Rank 1. (You have enough essence to advance to rank 2 but lack the understanding required to do so).
+
+Creates a rotating drill of force mana. The spell moves fast but takes time to reach full power.
+
+Passive abilities
+
+Force acceleration. Rank 0. (You have enough essence and understanding to advance to rank 1).
+
+Drastically increases the speed of movement in exchange for draining mana at a rapid rate. (This ability may be turned on and off at will.)
+
+Class Traits
+
+None. (The trait for this class has been incorporated into your bloodline).
+
+Geneline Traits
+
+Gift of Tongues: you can understand and speak the languages of all intelligent creatures.
+
+Awakened to Magic: +1 to magic.
+
+Versatile: +1 to all attributes. +1 free ability slot.
+
+Bloodline Traits
+
+Filled bloodline slots: 2. Open bloodline slots: 1.
+
+Survivor (enhanced): You require 50% less food, water, oxygen, and sleep.
+
+Force Adept (enhanced): You receive a significant bonus to mana efficiency and scaling from energetic attributes when casting spells that use force mana, and a modest bonus those using pure mana. Force Adepts are unable to cast elemental spells and receive a substantial penalty when manipulating elemental-aspected mana in any way.
+
+Skills
+
+Active
+
+Sword: 13
+
+Evasion: 13
+
+Throwing: 8
+
+Light shield: 2
+
+Wand: 14
+
+Inactive (inactive skills may be used but not improved.)
+
+Size up: 10
+
+Foraging: 10
+
+Inventory (uncommon and above)
+
+Bag of molding (rare).
+
+Elixir of restoration (rare). Modifications: Soulbound.
+
+Arena dagger (uncommon). Modifications: Eversharp.
+
+Adventurer’s toolbelt (uncommon). Modifications: Self-maintenance.
+
+Pugilist’s gloves (uncommon). Modifications: Durable.
+
+Adventurer’s coat (uncommon). Modifications: Durable. Self-maintenance.
+
+Cloak of thermal regulation (uncommon). Modifications: Self-maintenance.
+
+Wand of force (rare). Modifications: Soulbound. Skill activation (Wand). Living artifact.
+
+Caster’s buckler (uncommon). Modifications: Durable. Self-maintenance.
+
+??? Sword (unidentified).
+
+Looking at how far he’d come since entering the tower blew him away. On top of everything else, his team was about to receive a month-long training session in the skill of their choice. Nick desperately needed instruction with his sword, and he was finally going to get his chance, far sooner than he had dared to hope.
+
+Not long after, a message from the System appeared.
+
+Your time-compression has been accounted for and a suitable mentor has been located.
+
+Please enter the portal to begin your training.
+
+With a sigh, Nick stepped into the shimmering purple portal that winked into existence a few seconds later. He was weary from his ordeal, but excited to take his first true step on the path of mastering the blade.

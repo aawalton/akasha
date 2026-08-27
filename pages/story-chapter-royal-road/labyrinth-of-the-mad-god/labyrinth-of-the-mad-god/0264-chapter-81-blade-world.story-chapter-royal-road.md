@@ -1,0 +1,103 @@
+---
+id: a3a10fcd-fadc-5b61-b419-b6769beb6903
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81: Blade World"
+slug: 0264-chapter-81-blade-world
+partOf: labyrinth-of-the-mad-god
+position: 264
+ownLength: 2045
+unit: words
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2862921/chapter-81-blade-world"
+royalRoadId: "2862921"
+---
+
+A grin split Nick’s face as he read through the details.
+
+This is exactly what Aurora needs. A source of metal was vital to their development, and the crafters and building crews were going to be thrilled. Establishing a mining operation and transporting raw ore across the badlands would be a considerable undertaking, but by this point, he was confident his people could get the job done.
+
+Moving on, obtaining a pure mana well would let him build the Magitech R&D Center, with a second well available for future projects. He was delighted to have discovered a source of metal mana as the cherry on top, which he hadn’t realized existed until this moment.
+
+While he thought the matter through, Nick continued walking down the drift leading to the main shaft—curious to learn more about the leyline and whatever else was down here. The mine only had a single route to follow, so all he had to do was put one foot in front of the other.
+
+The magic grew thicker the further he went. Soon, the walls changed color, and since the hue reminded him of rust, he was pretty sure he was looking at an extensive iron deposit.
+
+He was happy to have found a source of high-grade metal, which would help his people in countless ways, but he was even more excited to discover the source of the pure mana filling the air like a blanket of moonlight, which the System had called a leyline.
+
+In the fantasy stories he had voraciously consumed in his old life, leylines were bands of magic that traveled across the planet. Their existence implied the physics of mana were more complex than he’d realized. If this is a minor leyline, there must be major ones too. This is a critical discovery. The researchers are going to go nuts.
+
+A few minutes later, Nick reached the end of the drift leading to the central shaft. He wasn’t sure how far down it went, but it wasn’t a problem regardless, thanks to his magic bag. He pulled items from his backpack until it was lighter than air, reducing his effective weight to ten pounds or so.
+
+He activated Force Acceleration and conjured a trio of Mana Darts in case there was something dangerous waiting at the bottom, and after getting the all-clear from Size Up, he leapt into the void. Adrenaline rushed through him as he fell—accompanied by the excitement of exploration and the joy of obtaining a crucial upgrade for his settlement. After falling for a thousand feet or so, he saw the bottom rushing up to greet him, switched off his mobility skill, and landed lightly on his feet.
+
+The only thing down here was a short tunnel leading to small chamber. The walls were made of white stone, from which a cluster of silvery minerals emerged. When he switched on his energetic senses, Nick could see a field of pure mana flowing through them. A bit of their energy was leaking into the environment, which must be what was infusing a portion of the mine’s metal with magic.
+
+He realized the mineral deposit was a single, continuous piece, which made him wonder if the leyline was a physical structure instead of the river of magic he had imagined. He couldn’t sense the metal mana the System had mentioned, but he needed to attune himself to it first.
+
+After we claim the site, studying the mana well should be the easiest way to do it, although I’ll give it a shot right now.
+
+This was his first opportunity to train his mage sight in an area that was rich in pure mana. Nick decided to spend the rest of the day meditating, deepening his connection to the soothing energy his magic relied on. Pure mana was everywhere in trace amounts and learning to sense it clearly was certain to prove useful down the line.
+
+An hour or so into the experience, something shook him out of the light trance he had entered. At first, he thought it might be something dangerous headed his way, but when he focused on the feeling, he realized the sensation was coming from a familiar source—the sword sheathed at his hip. It wasn’t a verbal message this time around, but a request in the form of an image.
+
+Blightbane was telling him to place it on top of the leyline. That doing so would restore the damaged weapon core that was the source of the sword’s power and the place where the Kastillan king’s soul resided. Overcome with curiosity, he removed the weapon from its scabbard and set it against the silvery vein rising from the earth, arranging it so the blade was touching the mysterious substance.
+
+Hours flew by as both man and sword basked in the pure mana emanating from the bottom of the mine. Nick was deepening his connection to this rare form of magical energy, familiarizing himself with a frequency that was a key component of both his offensive spells. Blightbane was healing the final sliver of damage left from its centuries of confinement with the Crimson Blight—a process that was far closer to culmination than he’d realized.
+
+He was getting ready to call it a day when a System message wavered into existence in front of his face, bearing an update that sent adrenaline coursing through his veins and an exquisite sense of anticipation crackling along his synapses.
+
+System update: Hidden achievement.
+
+The artifact weapon Blightbane has been fully restored.
+
+Congratulations, you are the first member of your species to acquire a Legendary item.
+
+You have received a milestone bonus of 20 free attribute points. You have earned a significant amount of species and planetary experience.
+
+“Holy shit.” Nick’s eyes were wide with astonishment, but he didn’t have time to process the fact that he had just received an enormous windfall of points. The reason was due to the occurrence of something even more astonishing.
+
+Blightbane entered the Theater of his Mind’s Eye, revealing the sword in impossibly crisp detail. But that was only the beginning. The sword grew larger by the heartbeat, until it no longer looked like a blade, but the surface of another planet.
+
+Nick was drawn toward it like he was descending from orbit, and when he landed, he found himself standing on a dirt road leading to a modest farmhouse. Crops were sprouting in the fields and there was a herd of alien cattle grazing in the distance.
+
+At first, he didn’t have any idea what was happening or where he was, but then he realized that he recognized the creatures from the vision he’d experienced when his mind had merged with the Crimson Blight. This is the world the blight destroyed. It must be a vision from the past.
+
+It was a peaceful pastoral scene. While standing here was so astounding that it blew his mind, somehow, he was certain that the real surprise was waiting for him inside the farmhouse.
+
+He couldn’t sense even the slightest hint of danger, and being here was soothing to his soul. So, after shrugging at the mystery of it all, Nick walked down the path to the one-story building, stopped in front of the door, and knocked.
+
+“Come in, Nick,” a voice that was both familiar and new to him said. “We have a great deal to discuss.” He opened the door and stepped inside—heart pounding like a drum.
+
+The farmhouse was a simple dwelling, but everything had been arranged with care. The structure had an open layout that included a common area, kitchen, and a doorway leading to bedroom in the corner. Sitting at the kitchen table was a figure that could only be Blightbane itself—the Kastillan king who had sacrificed himself to become a weapon to fight the Crimson Blight. He was covered in rich brown fur, and wise yellow eyes peered out from a wedge-shaped face.
+
+“What is this place?” Nick asked as the soul dwelling within the sword gestured for him to take a seat.
+
+“I was a farmer long before I was a king,” the dignified man replied. “I’ll tell you the story of how I went from one to the other, but not just yet, as we have bigger fish to fry. Today is for celebrating this moment, affirming our friendship, and getting to know each other at last after travelling together for so long.”
+
+Nick was staggered by what was happening, but he was happy to go with the flow. Hanging out with an alien made his inner geek gush, and Blightbane felt like an old friend even though they had only spoken a few times before.
+
+“What should I call you? It feels weird to address you by the same name as the sword.”
+
+“I am the sword, but I take your point.” The man tapped his fingernails against the tabletop. “Long before I was lord of this realm, I was a humble farmer named Fritz. I would be honored if you addressed me thus.”
+
+“In that case, it’s a pleasure to make your acquaintance, Fritz. My name is Nicholas Henry, but everyone calls me Nick.” He held out his hand and Fritz shook it.
+
+“Welcome to my world, Nick. We will feast on my harvest, drink from my private reserve, and speak of matters both great and small. There’s enough magic left over from my core catalyzing that you can remain here for quite some time, so there’s no need to rush. Come help me in the kitchen, and I’ll crack open a keg while we cook.”
+
+They rose from the table and Fritz poured him a mug of the best ale he’d ever tasted. They drained their glasses, filled them up again, then got busy cooking.
+
+Nick didn’t know the recipes, so he handled simple tasks like peeling vegetables, tending to the fire, and carrying water. Before long, a sumptuous aroma had risen to fill the air, and four different pots were simmering on the stovetop.
+
+They sat down at the table when everything was ready. He dug into the food with a gusto, enjoying a delicious meal chocked full of flavors he had never experienced before. In between bites, they shared the stories of the past, getting to know each other as the hours flew by. They didn’t make it to Nick’s adventures in the Labyrinth or Fritz’s ascension to kinghood, but there would be plenty of time for that later.
+
+What must have been four or five subjective hours later, Fritz let him know their time was coming to an end. Nick turned to him and said, “I appreciate the heads-up with the Armada Wurm, and all the other times you helped me out.”
+
+“And I appreciate you destroying the foul entity that plagued my people. My home is nothing but a memory, but I will work with you to protect your planet and help your people flourish. All I ask is if you come across the descendants of the Kastillans who survived, please help them however you can.”
+
+“It’s a deal. Before I go, I have one last question. What will the situation between us be like going forward?”
+
+“My core has healed, but there is still a long way to go before my full strength returns. While I will slumber at times, I will be alert more often—able to offer my perspective, warnings, and advice. For five minutes a day, I can materialize in the physical world and fight by your side.”
+
+Nick nodded along as Fritz continued his explanation. “I can only wield myself, so you will need to find an additional weapon to make the most of this power. Perhaps I will teach you the art of dual wielding when we have some time to spare. Most important of all, you can visit me here for half an hour each day. No time will pass in the outside world, and I can teach you how to transform your knowledge of the Ever-Surging Blade into something far more potent.”
+
+By this point, he could feel his mind being pulled back into his body. They shook hands one final time before he snapped into his own skin, where only a few seconds had passed since the remarkable encounter began.

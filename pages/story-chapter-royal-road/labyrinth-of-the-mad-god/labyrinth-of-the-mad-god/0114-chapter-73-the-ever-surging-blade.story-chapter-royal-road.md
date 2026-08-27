@@ -1,0 +1,61 @@
+---
+id: f8ceb8a8-5e56-501d-be23-66e15c21de82
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73: The Ever-Surging Blade"
+slug: 0114-chapter-73-the-ever-surging-blade
+partOf: labyrinth-of-the-mad-god
+position: 114
+ownLength: 1518
+unit: words
+publishedAt: 2025-01-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1990325/chapter-73-the-ever-surging-blade"
+royalRoadId: "1990325"
+---
+
+Before Rita began the sequence, she demonstrated a few basic stance changes, switching up which foot was in front and what direction she was facing.
+
+Nick realized that it was the same stance he’d been practicing last night. When performed by a master, it became something else entirely. Compared to her, his attempts looked like a drunken ogre stumbling in the dark, while Rita’s gait was smooth as silk. Each step as graceful as oil flowing over water.
+
+With no further introduction, she launched herself into the kata, displaying an agility that took his breath away. Every movement was perfectly controlled and totally balanced. Every turn and bend radiated lethal intent. As she flowed from one position to the next, the space within the circle became a killing field. A domain as unassailable as a fortress. Like she was the absolute ruler of everywhere that her sword could reach.
+
+In between one beat of his heart and the next, Rita raised the blade and then brought it back down. Not overly forceful, but with an incredible sense of finality. Nick had the sense that anything standing before her would be cut down, an outcome as inevitable as the passage of time.
+
+She took a few circling steps and then struck again, drawing a horizontal slash in time with her turn. Rita leaned back as if letting an enemy’s sword pass in front of her face, then thrust and returned to her original pose. As Nick tried to absorb every move that she made, his mentor went through the whole series again.
+
+After completing the third set, she came to a stop, held her sword before her as if thanking it for its service, and then slid it back into its sheath as naturally as breathing. Rita turned to face him and said, “That was the first kata. Its name in my language means endless advance. It is the heart of the ever-surging blade. Always moving forward, never giving way, cutting down all who stand before you. Now step into the circle and give it a try.”
+
+Nick slipped his pack off his shoulders, which he was in the habit of carrying everywhere he went. Then he set the bag against the wall, since he needed to learn without its weight modifying his center of gravity. After a moment of reflection, he decided to leave his toolbelt on, since it was basically a part of his clothing at this point, and he needed to integrate its bulk into his stance.
+
+Now it was his turn to try out the kata. He walked into the circle and raised his sword in front of him, trying to mimic the position and angle that Rita had shown him. She let him attempt the full series on his own for a few minutes. Then his mentor began adding gentle corrections, pointing out errors in his stance and swing.
+
+Her style of instruction was more subtle than Nick had been expecting. She let him try to find and fix his own mistakes before offering guidance with a soft word or demonstration.
+
+At first, he felt clumsy, his mechanics rigid and forced. But as the hours ticked past, his movements began to change. He felt something inside him click into place, his proprioception shifting in response.
+
+He wasn’t just holding the weapon as he walked back and forth. He was the sword. Or the sword was him. The blade wasn’t just a length of metal extending from his body, but an integral part of it, no less important than his legs and arms. It was a state that Nick had reached a few times when practicing on his own and in the heat of battle. Situations when he sent his perceptions into his weapon and the world around him fell away.
+
+When he came back to himself, he realized that he had completely lost track of the passage of time. That he had gone through the entire kata dozens of times without being remotely aware that he was moving his body. His mentor was seated nearby, meditating with her eyes closed.
+
+Nick came to a stop in the stance she had taught him, sweat dripping down to the mat below. His heart was beating slow and steady, and his body felt strangely light.
+
+“Yes.” Rita opened her eyes and smiled. “That’s the way. Good job, Nick. I’m proud of you. You are taking this seriously and giving it your all. Our month together will not be a mere formality for you or a waste of my time after all. Keep pouring yourself into the work and you will take something from this training far more important than gaining a few points in your sword skill.”
+
+Rita rose to her feet and crossed the circle, coming to a stop a few feet in front of him. She seemed to be considering something, then came to a decision while nodding to herself. “Now, I have a question for you. It’s important, and I want you to think about it before you give me your answer. The next words you speak will open some doors and close others, and you need to make sure that you walk the path of power that suits you best.”
+
+His instructor wore a somber expression that matched the gravity of her tone. Nick gave her his undivided attention, trying to demonstrate the respect and gratitude he felt for everything that she had given him so far. He was intensely curious to find out what was going on, but he waited patiently until Rita was ready to speak. When she did, she asked him a question that would change his life forever.
+
+“Would you like to join the School of the Ever-Surging Blade? I’m willing to take you on as my apprentice if you are committed to the way of the sword. It isn’t something that I propose lightly—a pact that I only offer to students with both talent and an affinity for this approach. I’m not asking you to join my faction, and you can change your mind in the future, at least at this stage. But having a master will influence the next set of classes you are offered, and I will leave my mark on your combat style for quite some time to come.”
+
+With that, Rita returned to her meditation to give him time to think. As her words had revealed, Nick was certain that this was no mere formality. That there would be consequences to his decision that he couldn’t even begin to imagine at this juncture. While he was eager to receive instruction from someone so gifted, he wasn’t willing to make a commitment like that unless he was certain that it was the right move to make.
+
+He sat down beside her, with his sword balanced across his knees, pondering the offer on the table. Seeing how it sat deep in his gut, his bones and blood, in addition to his brain. The longer Nick considered the proposal, the more that it appealed to him.
+
+He genuinely liked Rita, even though she frightened him a little. More than that, something in the way she moved, in the kata she had taught him, felt right on a deep, fundamental level. Was in tune with the way that he wished to wield his weapon, now and in the future. He had a sense that joining her school would guide him down the path of power he wished to walk, instead of drawing him away.
+
+In that moment, he made his decision and opened his eyes. Turning to face his instructor, no, his master in the blade, Nick nodded solemnly and said, “Yes. I would like to accept your offer and learn the ever-surging blade. If you are willing to have me, then I am honored to call you master.” He rose to his feet and offered Rita a low bow, which she returned with a nod of her head.
+
+“Then our pact is made. You have taken your first step on the path of the blade, and I accept you as my apprentice, at least for the duration of your stay. If you find your way back to me, I will initiate you formally, and train you in the depths of the sword.
+
+“What you will learn over the next four weeks is only the beginning. One small glimpse of the long road ahead. But the essence of the sword resonates within you. If you seek to master the blade and work hard along the way, I am certain that your concept will one day include it. Now, let’s get you cleaned up and then we will break for lunch. After that, we’ll strap you back into the stance-teaching machine and dial it up to the next stage.”
+
+He was so pumped up by her offer that he didn’t even groan at the thought of another torturous shock session. Wearing a beaming grin, Nick followed his teacher to the waterspout outside. He was looking forward to rinsing off his sweat, filling his belly, and everything that would follow.

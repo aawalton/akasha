@@ -1,0 +1,229 @@
+---
+id: 9874acd2-b270-5e64-8e67-2ff5606cf4a8
+page-type-slug: story-chapter-royal-road
+title: "108 — Book 3, Chapter 7 — Divine Studies, Pt 4"
+slug: 0111-108-book-3-chapter-7-divine-studies-pt-4
+partOf: just-add-mana
+position: 111
+ownLength: 3654
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3143698/108-book-3-chapter-7-divine-studies-pt-4"
+royalRoadId: "3143698"
+---
+
+Once Cale was sufficiently satisfied that he had produced an awe-inspiring sight (and this trick had always worked on people he was trying to impress before, although he was a little concerned about the expression Syphus was now directing toward him,) he let the flame die out.
+
+His apprentices stared at him. Cale grinned right back, waiting patiently for one of them to say something.
+
+"How long have you been waiting to do that?" Flia eventually asked.
+
+"So long," Cale said cheerfully. "Probably centuries. You know how long it's been since I've had a captive audience in a dark void?"
+
+"You did not need to describe our situation like that," Leo said, groaning. "I just managed to get myself to forget! "
+
+"Which is exactly why I needed to describe it like that," Cale said smugly. Leo narrowed his eyes at him, crossing his arms over his chest, but eventually let it pass with a grunt.
+
+"It was really pretty," Damien offered. "I'm not sure I understand what it means, though? Or, um, how to do that. Does it look the same for everyone?"
+
+"No," Cale said. "It differs depending on the mage and your natural mana attunement. Leo might have two, once he incorporates his second core."
+
+"I'm going to have two of what once I incorporate my second core?" Leo asked suspiciously.
+
+"And on a different note," Syphus said. "Hypothetically speaking, if I could enlarge my spell cannon enough for a human to climb inside of it, would you climb inside of it? Preferably while doing that fire thing."
+
+Cale thought about this for a moment. "If I get to pick the target, sure," he agreed cheerfully. Syphus made a noise of satisfaction and rolled backward, pleased.
+
+"I'm still confused," Damien said.
+
+"Cale." Akkau's voice thundered in around them, sounding mildly displeased. "I do not know what you just did, but I request that you do not repeat that. It was rather unpleasant."
+
+"Sorry!" Cale called out, sounding not in the slightest bit apologetic. Akkau's presence faded again, though not without a muttered grumbling that sounded like a complaint about his pesky apprentice erupting inside of his void. Cale thought about calling out that phrasing, then decided against it.
+
+His apprentices, who all wore identical looks of consternation, were clearly thinking the same thing.
+
+"Anyway," Cale said, unperturbed, "the process of creating wyldfire isn't very complicated, but it is difficult. You have to concentrate your mana in your core until your darkwood hits its ignition point. That involves a lot of mana compression exercises, but the result is a near-unbeatable quality of mana saturated with pure, focused intent."
+
+"Wouldn't that damage your core, though?" Damien asked, looking worried. "And what happens if two wyldfire mages have to fight one another? Do their spells just cancel out? Um, if they tried to cancel each other out, I mean."
+
+"Yes, it depends, and no, in that order," Cale answered. "Wyldfire is a pretty dangerous stage to move your core to, which is why it's not an official part of core development. Wyldfire mages are still considered archmages even on Utelia, for example. They're just outside the cloak system. This part is actually common across most of the Great Realms—for the most part, wyldfire mages take on a color title based on the color of their flame."
+
+"A color title?" Leo frowned slightly, then began rummaging through his satchel, as if reminded of something. "I've seen mages with those in my history books, I think... wait, are you telling me there are students here that are on the level of those mages?!"
+
+Cale shrugged. "I'm not really sure I'd call them students, at that point, but I suppose that's technically true," he said. "There are a lot of good reasons for a mage to stay within a magic academy even after they've graduated; for one thing, academies like Brightscale have access to a lot of resources you wouldn't easily get in a typical magical research lab. You'll notice that academies are often built on some of the best possible grounds for magical learning, for example."
+
+"The dungeons," Leo realized, and Cale nodded.
+
+"And the diversity of the regions surrounding the school, but yes, Brightscale and most other magic academies are situated on a confluence of leylines," he said. "Magic research is most often—and most effectively—conducted on academy grounds. That's also generally true across the Great Reams. The only exceptions tend to be realms that don't prioritize magical education, or realms where someone manages to secure a good site before a magic institution is established."
+
+"I'm not sure how to feel about that being the same across a bunch of different realms," Leo muttered to himself, scratching his snout. He made a note in his notebook anyway, then turned back to Cale. "You were saying something about color titles?"
+
+"Right!" Cale beamed. "The intensity of your wyldfire still matters; higher-intensity wyldfire will always beat out lower-intensity variants. The color of the flame is based on the intensity of the wyldfire. In order, the ranks go: red, orange, yellow, white, blue. Not that it matters that much if you aren't a wyldfire yourself. Even red wyldfire is enough to overwhelm most other mages."
+
+"You said it's a dangerous stage," Damien said. "Um... why is it dangerous? Should we be worried about the wyldfires?"
+
+The students that would be joining the tournament on Brightscale Academy's behalf, he meant. Cale chuckled. "You're always so worried about other people," he said. "Never change, Damien."
+
+Damien ducked his head, embarrassed.
+
+"I am proud of you, though," Cale added, smiling at him. "I mean it. Don't ever let go of that part of yourself. It's hard to get it back when you do. People like me... we need to have people like you around. So we don't forget ourselves."
+
+Damien apparently heard something in his voice, because the dreadshade looked up to study his eyes for a long moment.
+
+Cale was tempted to look away, but for once, he forced himself to stay still and meet his apprentice's gaze. And for once, he didn't try to hide the conflict that still raged inside him. The past month and a half with his apprentices had been good, but if he was being honest with himself...
+
+Well, there was a long way to go.
+
+Damien eventually gave him a small nod, and Cale grinned. "That, and I need apprentices around to show off to," he added. All his apprentices groaned, though none of them seemed to begrudge him for it.
+
+"To answer your question properly, though, they're probably fine," Cale said. "You can keep an eye out, if you're worried, but you don't become a wyldfire without knowing what you're getting into. Plus, if they were in any actual danger they most likely would have burned out long before now. The process is most dangerous in the first week or so of ascending to wyldfire. If you remain stable past that, you're probably safe."
+
+"I'm assuming the danger has something to do with the part where you light your core on fire," Leo said.
+
+"And you would be correct!" Cale said brightly. "But to be specific, the danger comes from the fact that a wyldfire core needs to be constantly rebuilt. If you let the wyldfire grow out of control and it consumes your core faster than you can rebuild it, then eventually, your core burns out. That's also the reason it takes around a week to know for sure whether a wyldfire mage is stable or not—it's hard to be certain until the core takes enough damage to affect your magic."
+
+"Their cores burn out?" Damien whispered. He sounded more horrified than Cale expected, and Cale winced, sobering up a little at that realization.
+
+It was a possibility, and it wasn't a pretty one. Rare enough in realms where mages knew to prepare themselves properly for wyldfire, but in the ones where they didn't...
+
+Magic burnout was bad. It wasn't quite the same as becoming purely mundane. Becoming a mage meant making your magic a part of you, and the effect of losing a core was very similar to a realm losing their divines.
+
+By the time a mage could achieve wyldfire, their body would have adapted thoroughly to the presence of magic in its system. That alone made many of its tasks significantly easier—so much so, in fact, that if a mage lost the support of their mana core, there was a good chance that their body would simply fail entirely.
+
+Even when everything else was theoretically healthy, the body would be trying to rely on magic that was no longer there. It was a massive shock to the system, and the mages that survived were never really the same after that.
+
+"It's not as much of a risk when you know what you're doing," Cale said, picking his words carefully now. He could see the concern in Damien's eyes, the worry for his fellow students. "But it is a risk. Magic in general comes with a lot of them. You should never forget that."
+
+Damien took that in and nodded slowly. "What are the signs?" he asked. "If I need to watch for a core burning out?"
+
+Cale remembered, a little belatedly, that Damien wanted to be a healer. Even now, he was trying to learn what he could so others wouldn't be inadvertently hurt. He might not have said it directly, but Cale could tell he was still worried about their wyldfire seniors burning their cores out.
+
+"Inconsistent magic, for the most part," Cale answered. "If you look carefully, you might be able to see their mana occasionally taking on its undifferentiated wyldfire form. More noticeable would be, say, wyldfire leaking from their cores, although it might be too late once you can spot that."
+
+He hesitated for a moment as memories came back to him—one of the ones he could never let himself forget, even if he wanted to. A too-eager apprentice, a mage that wanted to prove himself enough against the forces arrayed against him... A young man who everyone agreed was a prodigy.
+
+They'd ignored the signs, back then.
+
+Ibral was a once-in-a-generation talent in a species where each generation lasted for something like a thousand years. He'd been told from birth that he was destined to lead his people to their salvation. Faced with the constant pressure of those expectations, he'd begun temporarily burning his core at high intensities, always telling himself he would give himself time to recover later.
+
+The trouble with that was that there was never time for later. Not when each accomplishment only made the pressure grow. And by the time anyone realized what he was doing, it had been far too late—his core had been scarred to the point that it couldn't recover anymore.
+
+Not even Cale had noticed. He should have, but he hadn't. He only understood the depth of how wrong things had gone when he saw the flicker of relief in Ibral's otherwise dull eyes when he was told his core would never recover. Relief, from a boy who had once loved magic with everything he had...
+
+That memory still broke his heart.
+
+"Mages casting spells they shouldn't be able to," Cale said finally. "You can burn your core at a higher intensity, if you need to, but it gets easier and easier to rely on. It feels good, to be powerful, and it's easy to tell yourself you need it in the moment. A mage like that might say they only managed to pull it off in the heat of the moment, but it's one of the warning signs."
+
+Damien nodded slowly, though Cale could tell from the look in his eyes that the dreadshade had gleaned a lot more from that answer than Cale had wanted him to. He winced slightly. His apprentices were really far too perceptive sometimes, and Damien in particular always seemed able to catch when his mood shifted.
+
+"I'll keep an eye out," Damien said softly. There was something intent in the way he said it, and it took Cale a moment to realize he wasn't just talking about the wyldfire students.
+
+Cale would never let himself make that mistake again... but it meant a lot to him that Damien wanted to help. "Thank you," he said quietly, offering a small nod.
+
+Damien nodded to him in turn, but there was something reluctant in his body language. He shifted uncomfortably, then spoke again. "There's, um, something else I should probably mention?"
+
+Cale winced, feeling a pit of dread opening up in his stomach. He was pretty sure he knew what Damien was about to tell him, and he was equally certain he wasn't going to like it. He didn't say anything, though. He'd set things up this way for a reason.
+
+"I think I've done the thing," Damien said. "You, um, told me to tell you when I unlock the next stage of the Legacy? The Gift says I'm almost there. I should be able to unlock it once we finish the next dungeon, if I do it right."
+
+Cale slumped.
+
+There it was.
+
+He'd promised Vital he would bring his apprentices and friends to visit, but a month had passed, and that hadn't happened yet. His old friend was waiting for him. He wouldn't be conscious of the wait—time didn't pass for him in the same way now that he was dead—but Cale had made a promise, and this wasn't one of the promises he could just disregard.
+
+He knew himself well enough to know that he'd try, though. He'd try to find excuses, reasons to put it off. So he tied it to something he knew would happen sooner rather than later, and to something that he knew would give him good reason to bring them to see Vital.
+
+Which was to say, he told himself he would do it once Damien unlocked the next stage of his Legacy, so that Vital could offer him guidance.
+
+That meant it would be time soon. Not the moment they finished with the Bitter Path, perhaps, because he'd allowed himself time to set things up. He knew Vital well enough to know that the Monolith would far prefer a farewell party to a forlorn goodbye.
+
+But still, this was far, far sooner than he was ready for. As long as he never did this, he could pretend that Vital was just a simple teleport away. He could talk to his old friend again whenever he wanted.
+
+"Cale?" Damien said gently, and Cale made himself blink a few times.
+
+"I'm fine," he said, though his voice came out a little strained. He forced on a smile anyway. "Congratulations. And thank you for telling me. We'll have to make that trip to the Golden Sands once we finish with the Bitter Path."
+
+Damien took his hand and squeezed it. "We're going to be there for you, you know."
+
+"I know." Cale swallowed—he hated that this was difficult for him. Hated that this was still difficult for him, after countless millennia spent on goodbye. Why was the next one never easier?
+
+He knew the answer, of course. He didn't want it to be easier. If he ever let the next goodbye become easier...
+
+Well, he would have lost a part of himself he couldn't afford to lose.
+
+"Anyway." He cleared his throat. Flia, Leo, and Syphus were all giving him sympathetic looks, though they all preferred to let Damien take the lead whenever he was in one of his moods. He had no idea when they'd come to that arrangement. "That's wyldfire and core development in a nutshell. Who's ready to figure out what their divine alignment is?"
+
+"Is it actually important?" Flia asked dryly, and when Cale gaped at her in mock outrage—it felt good to be able to move the conversation to something less serious, and she knew that—she laughed. "I understand why we need to know, don't get me wrong, but I don't see why we need to make a whole thing out of it. It just affects how we're going to try to integrate the divine intent in our mana, right? But it's not an indication of our personality or strength or future or anything like that.
+
+"You and Akkau are kind of acting like it's some great ritual," she continued, reaching out for her orb. It flickered slightly as her hand approached, then more brightly when she injected some of her mana into it. "But it only has meaning if you assign meaning to it, right? Otherwise, it's just a name. It's not like I'm going to enter the service of this god or it's going to reveal something shocking..."
+
+Flia trailed off, staring at the orb, her brows furrowing slightly. Damien, Leo, and Syphus glanced at her and her orb, then reached for their own orbs, injecting a bit of their mana in turn. None of their results came out any different.
+
+"Is there," Flia said carefully, "perhaps some ambiguity in how the results from the orb could be interpreted?"
+
+"Not really," Cale said sheepishly.
+
+"And the orb simply writes down the name of the entity to which our mana is aligned?"
+
+"That would be correct, yes."
+
+Flia exhaled. "Okay," she said. "Now, as far as I know, you aren't one of the divines, and you're definitely not from Utelia. So please explain why all of these orbs say our alignment is Cale Cadwell Cobbs?"
+
+"Uh," Cale said. "I have a lot of intent?"
+
+"Try again, Cale."
+
+"I have friends in high places?"
+
+"No."
+
+Clearly, there wasn't any getting around this. "In my defense, I didn't actually know this would happen," Cale said. "In fact, I was pretty sure it wouldn't. Normally it only happens if people hang around me for more than a year. I'm just as surprised as you are."
+
+"I highly doubt that," Flia said, although she seemed to take pity on him immediately after. "We're not angry with you. We'd just like some answers."
+
+"I'm a little bit mad," Syphus said. "But mostly because I wanted to be Astiviya-aligned."
+
+"I thought you didn't like her?" Leo glanced at it in askance.
+
+"I don't." Syphus paused. "But she is fierce. Like a rock. I admire her hardness."
+
+"Just for future reference," Leo said, "probably don't tell her that. Or actually, don't use hardness as a compliment in general."
+
+"I think we're getting off topic, guys," Damien interjected.
+
+"Well, on the plus side, that makes a lot more sense now," Cale remarked, gesturing to the orbs. "How do I put this... Okay. Intent, like anything else, is a power you can cultivate. Normally, the extent of intent cultivation goes only as far as creating darkwood. Divine intent is just a fancy term for intent that has a life of its own—all divinities are like that, after a fashion. They're ideas given form, which is what makes their intent special.
+
+"Turns out the same thing can happen if you live long enough, and I've done exactly that, so my intent is a little bit alive in the same way divine intent is. And if it decides it really likes someone, it can, uh, expel the original divine influence inside the mana and replace it with itself. Normally this takes a long time, but if the host mana is particularly receptive, it can speed up the process. A lot."
+
+Flia processed this for a moment, then grimaced. "Oh, by the infernal realms, you're saying we're becoming too much like you."
+
+"I never said anything about too much," Cale objected.
+
+"I know. I did," Flia said flatly. "I think I'm going to need to go outside more. Touch the sand, bask in the sun. Do those things you keep forgetting to do."
+
+Cale paused. "You're just making fun of me, now, aren't you?"
+
+Flia grinned at him. "A little," she admitted. "Honestly, it's kind of sweet you care about us that much. Or that your intent does, I guess."
+
+That was one way to put it. Overprotective was another, and probably the more accurate one.
+
+Not that there was anything to be done about it now. Cale shook his head. "Well, we're done here," he said, resigned. "Might as well see how the rest of the class is doing. I'm kind of curious about how divine intent is distributed in this school, to be honest. Might tell us something about what the dark lord is up to..."
+
+He trailed off. "Akkau?" he prompted. "I finished my explanation. You can let us out now."
+
+Silence.
+
+"Akkau?" Cale glanced around, but the old dragon didn't respond. The silence felt rather pointed, though, so he doubted Akkau was unaware of them. He frowned. What did the old dragon want now?
+
+Flia raised a delicate brow pointedly toward the still-unused orb in front of him, and Cale stared at it for a moment. "Oh. Right. I forgot he wanted me to use that."
+
+"Why are you so embarrassed about it, anyway?" Damien asked. "Based on the explanation you gave us, there shouldn't be any traces of divine intent in your core."
+
+Instead of answering, Cale sighed and reached down to inject a puff of his mana into the orb. He didn't miss the fact that the one he'd been given was different from all the others—this one had been specially built to withstand his mana by Professor Imrys, he suspected. Where she'd managed to find the time for that between all her other new projects, he had no idea.
+
+It was encouraging that this was even possible for him, but the fact that this was how Akkau had chosen to reveal it...
+
+His apprentices stared down at the orb in front of him, baffled. Syphus, of all people, was the first one to voice the question they were all thinking.
+
+"Who the fuck is Colin?"

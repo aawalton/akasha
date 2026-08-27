@@ -1,0 +1,201 @@
+---
+id: 0cac9852-d27d-52d2-825a-21c35c3ad1bb
+page-type-slug: story-chapter-royal-road
+title: "138 — Book 3, Chapter 37 — Alchemy Lessons"
+slug: 0141-138-book-3-chapter-37-alchemy-lessons
+partOf: just-add-mana
+position: 141
+ownLength: 2783
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3427573/138-book-3-chapter-37-alchemy-lessons"
+royalRoadId: "3427573"
+---
+
+Phlogis had, apparently, been able to hear this music all his life.
+
+Not the discordant tune growing louder in the background, the one he called the "bad song." Cale could only imagine how much worse Phlogis's anxiety would be if he'd been subjected to that for his entire existence. But the song he heard had been growing louder for years, now, and without anyone else to corroborate what he was hearing it had become difficult for him.
+
+Cale had only just picked up the ability to hear what Phlogis called the universal voice, so it wasn't surprising that he couldn't hear this song just yet. Phlogis described it as a kind of insidious background static that had been growing slowly louder over the years, and he seemed convinced that if Cale could hear everything else, it was only a matter of time before he heard it too.
+
+"You must listen," he insisted. "Listen until you hear it. Then we can figure out what to do, yes?"
+
+"Of course," Cale assured him. Phlogis seemed to relax a little with that promise, giving him a jerky nod before turning his attention back to the class. He seemed satisfied with just that, though his apprentices gave Cale curious looks.
+
+For his part, Cale did exactly as promised. He hadn't forgotten what he was here for, and this seemed like something important. Perhaps the song that Phlogis heard had something to do with the dragon rain, but if not, then it almost certainly had something to do with the monsters Adam could see.
+
+The extinction of humanity, in other words.
+
+In less somber news, though, the class was fascinating. The magic of this era might have been far behind when it came to spellmaking and spellcasting—or it felt that way, in any case—but the same could not be said for their alchemical knowledge, which seemed to be leagues ahead.
+
+Modern alchemy effectively came about from paying close attention to the mana aspects that various plants and ingredients were able to cultivate. In that sense, each potion was essentially different ratios of mana aspects, with the efficacy of the potion increasing with the purity of each aspect.
+
+Cale decided to call this aspect alchemy. It was effective, and it allowed for a large variety of methods that would achieve the same result. It required some level of intent to influence the final potion, at times, but by and large the process was a refinement of aspects, not meaning.
+
+What the humans of this era did was similar instead to the way they cast their spells, and Cale decided that the appropriate term for it was probably symbolic alchemy. The mages of the era, for the most part, didn't have a powerful enough mana sense to distinguish between the various mana aspects and determine their purity; they needed tools for that.
+
+Instead, their version of alchemy was heavily reliant on the symbolic meaning and purpose of each of their ingredients. There was some overlap with mana aspects, of course—mana aspects were themselves a symbolic representation of various distilled concepts and ideas—but unlike aspect alchemy, the reagents used in symbolic alchemy could represent different things in different potions.
+
+That meant some ingredients were incredibly valuable. Everyman essence, for example, was created by crushing the undifferentiated seeds of a possibility tree; since a possibility tree could conceivably grow into just about anything, everyman essence could likewise fill in for a missing ingredient for just about any recipe.
+
+Cale was immediately intrigued by the idea of a possibility tree, and was likewise immediately disappointed when he was informed that the trees dropped only a single seed every thousand years.
+
+"Typical," he muttered. "Magic trees take forever to fruit."
+
+Thorn shot him a dirty look.
+
+"Sorry," he said sheepishly. "I'll help you fruit, if you want?"
+
+"Not a tree," Thorn deadpanned.
+
+Then there were potions whose ingredients could not be so easily substituted, because the symbolic meaning of their ingredients were too specific for something like everyman essence to fill in the gaps. Often, Instructor Tajia explained, these were legendary potions.
+
+A potion of resurrection could only be brewed using the divine tears, for instance. In all of recorded history, it had only been successfully brewed once. A potion of translocation was simpler, but one needed the fur of a misplacer beast, and humanity had yet to successfully capture and domesticate them.
+
+Growing and maintaining a broad selection of alchemical reagents, Cale learned, was a job unto itself. Any alchemical greenhouse suffered a risk of symbolic contamination if everything growing in it wasn't perfectly calibrated.
+
+There were famous stories of potions gone wrong because of symbolically-contaminated ingredients, which Cale found fascinating. Especially since Instructor Phlogis seemed to grow more comfortable with them and was able to share a few additional snippets.
+
+"Corpsevine," he said, nodding as Tajia began to describe the idea of symbolic contamination. "Caused one of the worst outbreaks of contamination once. Grew too close to the carnivorous mandrake."
+
+Cale blinked, processed that sequence of words, and couldn't help inquiring. "What happened?"
+
+"Corpsevine symbolizes... loss. Regret." Phlogis hesitated. "Understanding of death. Mandrakes became vegetarian."
+
+"They what?"
+
+Phlogis nodded, perfectly serious. "Symbolic contamination. Became vegetarian. Different symbolic meaning. Still useful! But many potions became bad. Need to use for different potion."
+
+"What were they normally used for?" Cale asked, now invested.
+
+"Carnivorous mandrakes used to cure illness in humans. Like... eating sickness. Potions went bad, many people sick." Phlogis saw Cale's expression and hurried to reassure him. "Humans fixed fast! Not bad. And humans discover new mandrakes very useful! Can reverse other symbolic contamination. First discovery! Also good balancing reagent if other symbols contaminated."
+
+"Huh." Cale had to admit, this form of alchemy sounded fun. He liked modern alchemy well enough, of course, but he could imagine spending a life or two managing a greenhouse of his own. Symbolic contamination was just a term for unintentional symbolic association, so he could spend his time discovering new symbolic associations, perhaps.
+
+The second instructor made her way to the stage to speak and took the discussion from there. Her lesson was focused on what she called environmental alchemy—the process of establishing some magical effect without using potions at all, and instead using the inherent symbolic power of various artifacts to turn the room itself into an active brew.
+
+Metaphorically speaking, of course.
+
+Instructor Tajia's lecture had been largely theory. Judging by the look of impatience some of the apprentices were wearing, Cale guessed it she was using her part of the class mostly for the benefit of the guests, which he appreciated. This second instructor's lesson dove straight into practical demonstration, however.
+
+"Environmental alchemy is distinct from spell systems and normal alchemy," Katerina said. "We must not confuse them, yes? You use reagents for those. But for environmental alchemy, you want something stronger! Your symbolic anchors must be real anchors. They must be big. They must carry the weight of the room! The bigger the effect, the bigger the anchor, yes?"
+
+Next to him, Phlogis winced. "Oh no."
+
+"What, is she wrong?" Cale glanced at him curiously.
+
+"Katerina correct. Just..." Phlogis gestured. "Is about to be loud."
+
+Cale was only briefly confused, because immediately after Phlogis said this, Katerina hauled what appeared to be a massive anchor out of nowhere. It crashed into the floor with enough force to crack the stone, and she grunted as she lifted it, biceps bulging with the strain.
+
+"Do not help me!" she called before anyone else could offer to help. "I do not want tiny men to be squished, yes? Or pretty woman. I am talking about you, Tajia."
+
+"I didn't offer!" Tajia yelled.
+
+"I tried to help her once," Marcus muttered. "And, uh, I broke my arm."
+
+"For some reason, I really want her to meet Alina," Cale said.
+
+"Cale," Leo groaned.
+
+"I wonder if she could carry me," Syphus mused.
+
+"Syphus, you're not helping," Leo said.
+
+Katerina lumbered over to the corner of the room and dropped the anchor with a second massive crash; the sound of cracking stone echoed through the room. "This," she said proudly, "is a symbolic anchor for weight! I use it in my gym."
+
+Of course she did.
+
+"I taught about symbolic investiture for environmental alchemy in the last class," Katerina explained with a grunt, pulling out a second anchor. It occurred to Cale that she could just have manifested these in the corners of the room, if she wanted to, which meant she was doing this either to get some practice in or to show off. "If you need to learn about that, ask my apprentices! They have many notes. Today I explain activating the effect. You have seen me do it before, yes? Has anyone figured out how it works?"
+
+One of her apprentices nodded, but everyone else shook their heads. Katerina nodded. "Good! No one lies," she declared, satisfied. "Anastasia, come here and whisper to me. I will tell you if you are correct."
+
+The apprentice—Anastasia, presumably—walked timidly up and spoke quietly. Katerina beamed, clearly delighted by whatever her apprentice had said. "Very good! Extra points. You will help the new ones understand how investiture works, yes?"
+
+"I'd like to exchange notes," Leo immediately volunteered, pulling out his notebook. He seemed to be waiting for something, though? He kept looking at Cale.
+
+Cale stared back at him.
+
+"...Oh! You get extra points, too," he said after a moment. "Uh... I don't know how many yet. I'll figure it out later."
+
+Leo gave him a withering, disbelieving look, then walked off to join Anastasia.
+
+Professor Graystalk eyed Cale for a moment. "I am beginning to believe you are intentionally withholding points from him."
+
+"No, no," Cale protested. "I mean... kind of? But no."
+
+"He might feel you are mocking him, if you continue," Graystalk warned.
+
+"I'm not!" Cale said, raising his hands in surrender. "It's just... it's continued on for a bit too long, and I think it might be weird if I just start giving them to him? He expects me to be flaky about them now. So..."
+
+Cale pulled out his own tiny notebook, hidden in a pocket, and scribbled '50' down on it. "I figure I'll give it to him on a big day of some kind," he said. "Like his birthday, if that's coming up. Or when he figures out palewater. Let him know he's been getting his points all along, you know?"
+
+Graystalk stared at him. "That is surprisingly thoughtful."
+
+Cale coughed. "Just don't tell anyone," he said. "Can't have my apprentices think I'm going soft on them."
+
+"I'm right here," Syphus pointed out.
+
+"You don't care either way, though."
+
+Syphus pondered this. "...True," it admitted. "Do you think there'll be duels later? I want to fight some humans."
+
+"I really, really hope not," Cale said.
+
+Katerina dropped off the last of her anchors with a grunt, then, her shoulders heaving. "All done!" she announced. "You will see I placed four symbolic anchors in this room. One less than the number of anchors for a spell of the First Circle! Why do you think that is? Can any of our guests tell me?"
+
+Cale had a pretty good guess, but he'd noticed the interest with which Graystalk had been looking around the room, and how closely he'd paid attention to everything Tajia had taught them. The professor straightened and cleared his throat, and Cale perked up, wondering if they had come to the same conclusion.
+
+"I am new to this form of magic," Professor Graystalk said. "But I suspect that because you are drawing on the symbolic power of those anchors to create your effect, you do not wish to form a complete spell. Instead, the room itself acts as an incomplete fifth node, through which the symbolic power of all your anchors are threaded."
+
+"Very good!" Katerina seemed delighted by the answer. "Correct. Very correct! You are their teacher for a reason, yes? Most who are new to alchemy do not understand its environmental variant so easily."
+
+"It shares some remarkable similarities to an art I am familiar with," Professor Graystalk said politely.
+
+"I hope you share later!" Katerina said. "For now, I will show you the activation. Then I will hear some guesses on how it works, yes? Anyone who gets it correct will earn points!"
+
+"I don't suppose you have an opening for an apprentice?" Leo called out. Cale shot him a horrified, betrayed expression, and Leo laughed. "For someone who already has a mentor, I mean."
+
+"No! But I will let you know if I ever decide to share," Katerina said, entirely unperturbed. She clapped once, then slapped her hands into the ground—
+
+Cale's eyes narrowed slightly as his mana sense briefly went haywire.
+
+That was a spell, wasn't it? It was a hazy, indistinct version of a spell compared to the refined constructs he was used to, but it did share the same fundamental properties. His mana sense hadn't known what to make of it, in large part because it wasn't a very complicated construct and he was almost certain it wouldn't do anything even if it were refined.
+
+He was almost certain that it was a blank spell that consumed mana but did little else, and as if to confirm the thought, the Gift reacted a second later.
+
+You have learned [Null].
+
+[Null, Level MAX] [No Tier, Active] [100 Mana]
+
+Consumes mana equivalent to the spell cost.
+
+Well... yeah, of course it did. It was good to know that part of the Gift was still working, he supposed.
+
+Yet even though the spell should have done nothing at all, there was an immediate reaction from the symbolic anchors in the room. More accurately, there was a reaction in their respective songs. Cale heard them swell in volume, resonating in response to that single pulse of mana.
+
+It was a catalyst, he realized. That burst of mana had somehow catalyzed a reaction from the symbolic anchors in the room, and now they acted as if they were in the middle of a spell. The harmony lent itself to the air, bent around the room itself, and as it did the small pulse of mana drew in ambient mana like a magnet.
+
+Soon, there was a steady stream of mana flowing between each anchor and filling up the room. Cale looked around in wonder. He felt... good. Somehow it seemed suddenly easier to breathe, like an invisible weight had been lifted off his shoulders, and from the looks of the others, he wasn't the only one.
+
+Except... Was there a discordant note in there? It wasn't like the one he'd heard before, when he'd seen a way to "improve" on Basic Illusion. This one sounded more like what Phlogis had mentioned, a discordant static in the background that he hadn't noticed until this new song played over it.
+
+He lost his focus on it a second later when Katerina spoke.
+
+"I call this the room of recovery!" she announced proudly. "It is very good for you after exercise, yes?"
+
+"We should get one of these in Brightscale," Graystalk said, rolling his shoulders, and Thorn nodded in agreement.
+
+Did Brightscale not already have one? It took Cale a second to pick up on the implications—right, the modern Great Realms did not have the benefit of the Monolith of Life, and recovery of any kind was exponentially harder. This was an era from before Vital's death. Perhaps this was an era that did not even rely on the power of a Monolith of Life.
+
+If that were the case, then healing spells would work normally here. He wondered if the reverse was true. Symbolic alchemy was so different from anything the Great Realms did that perhaps it would still work, if they understood it enough to replicate it. Perhaps symbolic alchemy had always been possible, but had remained hidden and undiscovered as a result of the paradigm they lived with...
+
+They would have to find out, he supposed. He could hear the universal voice in his mana sense, now; perhaps, if he still heard it when they returned to Utelia, it would indicate that this was still possible.
+
+Either way, Cale was suddenly struck by how much he wished Damien was here. His apprentice would have loved to learn about this. A whole new form of magic, one that could potentially revolutionize healing? And Damien was especially sensitive to symbolic meaning; Cale had lost count of the number of times his friend had seen through something he said to what he meant—
+
+There was a timid knock on the door.
+
+Cale blinked.
+
+Was that Damien? It sounded a lot like Damien.

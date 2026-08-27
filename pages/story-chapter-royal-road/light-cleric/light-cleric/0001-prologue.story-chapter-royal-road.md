@@ -1,0 +1,293 @@
+---
+id: 1c3b5109-d602-539a-bd2c-7d3aec338367
+page-type-slug: story-chapter-royal-road
+title: "Prologue"
+slug: 0001-prologue
+partOf: light-cleric
+position: 1
+ownLength: 5067
+unit: words
+publishedAt: 2020-12-11
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/598618/prologue"
+royalRoadId: "598618"
+---
+
+Minerva Aegis, Prophet of Purple Eyes, Mother of Archetypes, and now, apparently, Rescurer of Babies, cursed her lack of foresight. She should have remembered tonight would be the night of the fiercest blizzard the region had seen in decades. She should have dressed for the weather. She should have packed a blanket.
+
+And yet.
+
+She braved the blinding blizzard for the sake of the baby snuggled warm against her skin. The baby had appeared before her—at the wrong place, at the wrong time—and being a prophet Minerva had known who the child was, who she would become, and where she was meant to be. She had, of course, hesitated. She knew what was to come for the child. She remembered the scoldings and the beatings and the fear.
+
+Presently Minerva crossed into Appledell, a small town in the Valley of Three Rivers in the Province of Shannon. The buildings provided some protection from the wind. Minerva took a moment to catch her breath and shake the snow from her hood.
+
+Sacred Heart was the largest building in town, and the old prophet laid the child upon its front step. She knew the baby would be found soon, that she would not suffer long in the storm.
+
+"You are where the story starts. I suppose I must be where it ends."
+
+• • •
+
+Piety Churchstep spent her first few years in the nursery of Sacred Heart, a small, cramped place ruled by acolytes with deriding glares and sharp tongues and firm hands. There were other orphans in the nursery, but as soon as Piety learned to be curious about them, she was set to work scrubbing pots in the kitchen and sweeping dust in the hallways, leaving her too tired for curiosity.
+
+Still, she managed learn.
+
+She learned she was lesser than the acolytes, that her plain clothes marked her an orphan. She learned she and the other orphans were apart from the Daughters of God, who He had chosen for His service, and that only the charity of the acolytes and sisters and especially the Mother Superior guaranteed her a place to live and food to eat and clothes to wear. She learned her pure white hair and tendency to use her left hand set her apart from the other orphan girls who all had brown hair to match brown eyes and brown skin, and who all used their right hands without error. Piety learned that she stood out and to stand out was bad.
+
+At four years old, Piety was removed from the nursery. A tall sister with a serious face and long fingers came to the nursery and introduced herself as Sister Sheliah. The sister knelt and placed her hands firmly on Piety's shoulders.
+
+"I'm the Mistress of Orphans. Happy birthday, Piety."
+
+Piety didn't understand. She didn't know what a birthday was, why it should be happy, or why it should be any different than any other day. So far as she knew, only the eight holy days were special, and winter solstice had passed a couple weeks ago. But Piety did understand Sister Sheliah had paid her a compliment.
+
+"Thank you, Sister," she whispered.
+
+Sister Sheliah nodded. "You're four years old now. It's time you learned to make yourself useful."
+
+Not wanting to be thought useless, Piety spoke before her learned reticence could stop her. "Sister? I know how to wash dishes."
+
+Sister Sheliah smiled at her, and the rare expression put a glow in Piety's chest.
+
+"Good girl, but we'll be teaching you a good deal more than dish washing."
+
+Sister Sheliah took her by the hand and led her down cold, stone hallways interspersed with grey curtains. They stopped at one and Sister Sheliah pushed it aside to reveal a small stone room containing two beds, a wooden chest, a small table with a stub of candle on it, and a girl clad in a simple grey dress. The dress was similar to Piety's, so Piety concluded the girl was also an orphan.
+
+The orphan girl stood when they entered and bowed to the sister, her hands folded at her waist. "Good morning, Sister Sheliah."
+
+"Temperance, this is your new roommate, Piety Churchstep. Piety, meet Temperance Sunday." Sister Sheliah gave Piety a push into the room.
+
+The girls looked at each other.
+
+"Temperance, you'll show Piety to meals and chores and classes today. Understood?"
+
+Temperance bowed again. "Yes, Sister."
+
+"Good. You know where to find me if you need me." Sister Sheliah pulled the curtain closed behind her.
+
+For several minutes, the girls examined each other shyly, neither sure what to do.
+
+Piety couldn't help but notice Temperance had the same brown hair as everyone else, but, rather than contemptuous, she looked friendly. She was short and slight, no bigger than Piety, but surely older to be put in charge. They might have stood there a good deal longer had the morning bell not rung, signaling six-hour.
+
+Temperance took Piety's hand. "I suppose we'd better get to breakfast, or we won't get any."
+
+Again, Piety was led through the hallways until they reached a large room with long, wooden tables: the refectory. Piety had always eaten breakfast in the nursery, only passing through the refectory to go to the kitchens for dish-washing, so it was a novelty to sit at a table with all the other orphans. She squeezed onto the end of a bench, next to Temperance.
+
+Soon, more orphans came from the kitchen and served them, starting with the few sisters chatting quietly at the head table, then the acolytes spread out between two tables, and finally the orphans crowded at one. The porridge and roll and water was the same as she'd been given in the nursery, but for the first time, she saw that the acolytes ate something else, something that smelled wonderful. The acolytes who tended the nursery didn't eat in the nursery, but she always assumed everyone was given the same breakfast: porridge and roll and water
+
+"What's that?" Piety asked Temperance, indicating the acolytes' breakfast. She craned to see it.
+
+"Shush," said Temperance, and her urgency made Piety remember the acolytes' hard hands and an orphan's proper place. She and Temperance ate breakfast in silence.
+
+After breakfast came kitchen duty where Piety was put to work doing what she usually did, washing dishes. After kitchen duty came laundry duty, a new experience. It was similar to washing dishes except done outside in the laundry yard, which, in the winter, was icy work. After laundry duty came lessons taught by Sister Jayne.
+
+"Who are you?" Sister Jayne demanded as she approached the bench where Temperance and Piety sat together at a small desk. Temperance had been reading softly to Piety from the Scriptures, the story of Saint Zyta and the Endless Ocean. The acolytes in the nursery had read to them from the Scriptures daily but had done so in a quick, bored tone.
+
+Piety stood from the bench and bowed her head. "My name is Piety Churchstep. Sister Sheliah said I was to learn to make myself useful."
+
+"Look at me, child."
+
+Piety looked up at the tall Sister.
+
+"I do not abide laziness, foolishness, or stupidity. I will teach you to read and write and figure, and I expect you to learn. Understood?"
+
+"Yes, Sister."
+
+After class came more chores: she ground herbs in the cellar, changed candles in the hallway, then swept the hall outside the room she now shared with Temperance. After chores came dinner: soup, roll, and water as always, but different from what the acolytes ate. After dinner, Piety followed Temperance into the sanctuary for evening sermon.
+
+Piety had never been in the sanctuary before and was so stunned by the grand room that she stopped moving. They entered the sanctuary through a side door hidden by thick, velvet curtains of red and gold. The large, heavy benches were built and carved of wood, stained almost black, and polished to a shine. The walls, where they weren't covered by the curtains, were a pure white stone gleaming in the light of so many candles the air smelled of wax.
+
+Piety wasn't given long to stare. Temperance took her hand and dragged her to the back of the sanctuary, near the outside entrance, and they sat on a bench with the other orphans. All the orphans sat at the back while acolytes and sisters sat in front with the people from the village sitting in between. From here, Piety could see the head of the sanctuary where was a raised dais. Several sisters sat on large, ornately carved chairs upon the dais. Behind and above the dais was a large, round window comprised of colored glass arranged in a stylized sunburst with nine rays, the symbol for God.
+
+A shiver ran through her as she took in the window for the first time.
+
+Behind them was a similar window set above the main entrance, almost right above their heads. Most evenings, she realized, the sun would shine through the window, bathing the sisters on the dais in brilliant colors, but the early dark of winter required candlelight.
+
+"Piety," Temperance whispered urgently, "Piety, sit down. Please sit down."
+
+Piety realized she'd stood on the bench to turn around and gaze in wonder at the stained glass window above her. The other orphans looked at her with varying expressions, some with concern, some snickering behind their hands, some with the same disdain the nursery-tending acolytes had. Piety sank slowly onto the bench, but Temperance's warning had come too late.
+
+Piety was grabbed by the shoulder, pulled from her bench, and hurried down the central aisle. Her feet barely touched the floor as she was hauled over the scarlet and gold rug running from the entryway to the dais. Shocked, Piety was to the dais before she thought to look up at who had grabbed her.
+
+The woman was the angriest looking sister she'd ever seen. Her dress was the same colors as the decorations in the sanctuary, scarlet and gold. Her sunburst pendant was shiny gold and sparkly red stones, her greying brown hair was pulled into a tight bun atop her head. Her grip was strong and her fingernails sharp.
+
+From her new position, Piety could see detail on the chairs at the back of the dais: scroll patterns, tiny sunbursts, and words she didn't know. The sisters who sat in those chairs looked at her with varying degrees of non-expression. Piety recognized some, Sister Sheliah and Sister Jayne she'd met just that morning, others she'd seen before but didn't know.
+
+"Who is this?" It was the woman who had grabbed Piety, and her voice was as harsh as her expression.
+
+At first, Piety thought the woman was addressing her, and she tried to think of a polite way to admit ignorance.
+
+Sister Sheliah answered.
+
+"You named her Piety Churchstep, Mother. Today is her fourth birthday and I brought her to the dormitories."
+
+"Her fourth founday you mean. We do not know her birthday," the woman replied, rebuke evident in her voice.
+
+Sister Sheliah bowed her head. "Yes, Mother."
+
+"What's wrong with her hair?" the Mother demanded.
+
+No sister answered. Piety realized this woman spoke to the sisters the same way sisters spoke to acolytes, the same way acolytes spoke to orphans. This was the Mother Superior.
+
+The Mother knelt next to Piety and grabbed her hair. Piety gasped, and tried to hold still. The Mother put her face close to Piety's. Piety could see her pale brown, almost golden eyes, could see the faint wrinkles across her forehead, could smell the sweet-scented soap in her hair.
+
+"Never before have I seen a child so clearly marked as unclean. You must feel fortunate, Piety Churchstep, that we Daughters of God found you. Your hair marks you. You'd be dead before you could walk had we not taken you in. Hanged for theft, or worse."
+
+"Yes, Mother," Piety replied, mimicking Sister Sheliah's words.
+
+The Mother released Piety's hair and Piety could not stay standing. The pain and shock had drained her. She fell to her knees, bowed her head to the rug-covered dais, and tried not to cry.
+
+"That's right, girl," the Mother said, "kneel and pray to God for His mercy."
+
+The Mother turned away from Piety and addressed the gathered sisters, acolytes, citizens, and orphans, expounding on God's mercy and His punishment for those who displeased Him. She spoke on how God would mark those who were sinister, unclean, unfit to be in His service, He would mark them with unnatural coloring. But Piety wasn't listening. Instead, she did as she'd been told, she knelt upon the rug, lifting her face only enough to see the great stained glass window at the other end of the great room, and she prayed.
+
+For as long as she could remember, Piety had been told about God, about how He lived in the sun and watched from above and loved everybody, even dirty orphans. She had been told to pray and had bowed her head and stayed quiet while the nursery acolytes recited words. But she'd never offered a prayer herself.
+
+For the first time, she considerd asking God for something. She could ask for anything, she realized, and her first thought was to ask God to punish this mean woman, but at the last moment decided against it. She didn't like the way the thought made her feel.
+
+So, instead, she asked for love.
+
+That felt nicer.
+
+Piety's breathing slowed, her thoughts focused, and she felt a tingle in her chest that spread to shoulders and hips, the base of her head and the small of her back. It tingled along her arms all the way to her fingertips and along her legs to the smallest of her toes. It filled her head, her vision, her hearing, until she could see only a fuzzy whiteness, and hear only a glorious, chiming harmony.
+
+From the haze of light, a form sharpened in her mind. It was a place. A room. A room in her mind where no one else could go, a place to be alone with her thoughts, a place to be unafraid.
+
+"Wretch!"
+
+Piety was knocked from the place in her mind by a blow to the back of her head that sent her sprawling. The tingle suffusing her body fled, chased away by a crushing nausea and a heavy pain that repeatedly struck her back and side. Above her there was shouting, angry voices, but for Piety, the world faded away.
+
+Three days later, Piety awoke, stiff and sore, but whole. Temperance embraced her but let go when Piety groaned in pain. Temperance explained to Piety that she had begun to glow and the Mother Superior had never been so angry. The Mother had beaten Piety, kicking her when she fell until Sister Sheliah intervened. Sister Sheliah had been expelled from Sacred Heart.
+
+"I glowed?"
+
+Temperance nodded, her face shining with excitement and creased with worry. "Yeah. Everyone saw it."
+
+"Are you sure?"
+
+"Of course I'm sure."
+
+Piety had her doubts, but kept them to herself.
+
+When Sister Clarice, who introduced herself as Sacred Heart's healer, said she was well enough, Piety returned to chores and classes, and life at Sacred Heart progressed through the years.
+
+She learned to read from the Holy Scriptures and to write by copying the Scriptures onto a slate board with soft chalk. She learned numbers, how to add and subtract and multiply and divide. She learned how to mend and wash clothes, to weed and harvest a garden. She learned to make candles, and grind herbs, and scrub floors. Piety learned to hide her white hair, the mark of God's displeasure, with a scarf lest she be berated by every passerby with the authority to do so. Unfortunately there was little she could do about her white eyebrows standing sharply against her brown skin. She learned to use her right hand rather than her left, lest her knuckles be rapped until they bruised. Sometimes they bled. She learned to recognize the Mother Superior's distinctive stride, even in her sleep.
+
+She learned to be unobtrusive, to stay out of the way, and in so doing, to avoid harsh words and harsh hands. She accomplished this by sweeping. To sweep the halls and the refectory and the kitchen and the sanctuary and especially the cellar, was the least of tasks among the orphans. No one wanted to do it because it was boring and lonely and time consuming. For Piety, it was perfect. She preferred to be alone, it meant she didn't have to deal with the cruel commentary of her peers.
+
+Soon, sweeping became Piety's primary chore, so much so that it became her name: Sweep.
+
+Sweep learned she had no talent for cooking or any task associated with cooking. No matter how many times she was spanked for ruining the meat because she could not turn a spit properly, or for putting too much salt in the bread, or for burning the sauce, she never got it right. Unlike her other lessons, she never learned to do it correctly the next time, or even the time after. Eventually Sister Dora, Sacred Heart's head cook, limited her kitchen duties to washing dishes and cleaning tables, for which Sweep was grateful.
+
+She learned of God and His Eight Saints.
+
+Sister Jayne taught them to read using the Scriptures, the stories of the Eight Saints, which taught lessons of acceptance, tolerance, and community. She read about Saint Esther and the Dread Necromancer; Saint David and the Centaur Herd; Saint Mary and the Flight Through Heaven.
+
+She read the stories again and again, and soon she couldn't help but think the Saints wouldn't have cared that she had white hair or used her left hand or was an orphan. Which, inevitably, lead her to think the Mother Superior, and by extension most inhabitants of Sacred Heart, had it all wrong. She began to think they were wrong when they claimed to know God's will or what He cared about. But she shared that particular revelation only with Temperance and only late at night when everyone else had gone to sleep.
+
+Temperance nodded and shrugged. "But it doesn't matter. We're orphans. I think you're right, but you won't convince them."
+
+Temperance was Sweep's confidant and only friend. Despite the negative attention Sweep received, Temperance didn't regard her as unclean. When the other orphans tossed snide comments at Sweep, Temperance was quick to defend her. When they tried to play nasty tricks to get Sweep in trouble, Temperance would warn her. When she fell behind in her studies because she'd been assigned extra chores, Temperance tutored her. And yet Sweep's status as anathema never translated to Temperance; the others accepted Temperance and pitied her for having to share a room with the white-haired wretch, no matter how Temperance defended her.
+
+Of everything Sweep learned at Sacred Heart, it was what she learned on her own she most cherished: how to go to the secret place in her mind whenever she wanted.
+
+Late one summer evening, when she was nine years old, under a cloud-scattered sky, Sweep found herself alone on the front step of the sanctuary, performing the task for which she had become known. That step, in the shadow of the large double doors, was where she'd been found as a baby, it was where many orphan girls were found, so she always took care to do a thorough job sweeping it.
+
+Once finished, she stepped inside and was ready to go to bed when the clouds shifted and the stained glass window above the door was suddenly lit to as brilliant as she'd ever seen it, casting a multi-colored pool of light upon the dais where the Mother Superior gave her sermons.
+
+Inspired, Sweep walked to the dais but not onto it, afraid to enter the pool of light. With a slow breath, she knelt, laid her broom at her side, and closed her eyes. She cleared her mind, slowed her breathing, and relaxed her body, as she'd been taught for prayer.
+
+But she didn't ask God for anything.
+
+Sister Jayne taught that communicating with God required one to quiet the body and mind so as to ready the soul for asking Him to hear a request. Sweep often overheard the other girls asking for silly favors: rain so weeding would be canceled, or berries in the porridge, or fewer math sums. But Saint Zyta the Poet taught that prayer was to "Empty yourself of self, of selfishness. Only then can you be open to the message of the Divine."
+
+Sweep tried to empty herself of self.
+
+A tingling started at the base of her head, her shoulders went numb, and she was suffused with buzzing vigor, chimes at the edge of hearing. As she had five years before, she saw a place in her mind, a place that was hers, and this time, with no one to stop her, she went there.
+
+A moment later, she blinked away a greenish-yellow afterimage and looked around a small room. It was stone, like the room she shared with Temperance, but this one contained a bookcase filled with eclectic variety, a small table where rested a small wooden box, and a large, comfortable chair upholstered in silver and patterned in swirls and angles of black. There was no door to the room, no windows, but Sweep was unconcerned. Intuitively, she understood this room existed only in her mind and she could leave any time she liked simply by willing it.
+
+Examining the bookcase, she found books she'd never seen before. She knew books other than the Scriptures existed, she had seen them in the library on the rare occasions she was required to sweep it, but few of the titles she read now were the same as those she had peeked at. Sweep had only ever read the Scriptures, and much as she loved the Eight Saints, the prospect of new stories excited her.
+
+The box on the table was held shut with a simple latch and inside rested a stack of something she had no name for—thick pieces of smooth, shiny paper with numbers and shapes on them. Flipping through them she discovered there were only four shapes and each shape was assigned a value from one to ten and each shape also got three portraits, though who the portraits were meant to be of, she had no idea. Interestingly, though some portraits were of people who looked like the people of Sacred Heart—brown hair, brown eyes, brown skin—some depicted people of different colors: pink and black skin, blue and green eyes, yellow and red hair. She was stunned to see such a variety.
+
+None was white-haired, like her, though.
+
+Finally, Sweep turned her attention to the chair. It was a chair similar to those she'd seen in sisters' private rooms while sweeping. It had a high back, sturdy, claw-shaped feet, and a well cushioned seat. She reached out and touched it gently, tracing the black swirls and angles with a finger. As she did, some of the black patterns wavered and became white.
+
+Sweep snatched back her hand and gasped.
+
+In the next moment, she was back in the sanctuary, kneeling on the rug before the dais. A quick look around revealed she was still alone. With a small, relieved sigh, she picked up the broom and left for the dormroom she shared with Temperance. As she navigated the stone corridors, a disquieting thought occurred to her. Sweep had been different for as long as she could remember, and though a secret place she could access whenever she wanted was an exciting prospect, it was also another difference.
+
+Temperance sat on her bed, reading the Scriptures by candlelight, when Sweep entered.
+
+"Temperance, what happens when you pray?"
+
+Temperance looked up and blinked at Sweep. "Uh... well, mostly I try not to fall asleep. Either that or every little thing distracts me."
+
+"So you never, uh, you never go anywhere?" Sweep leaned back against the wall.
+
+Temperance set her book aside and scooted to the bed's edge. "No," she said slowly. "Do you go somewhere?"
+
+Sweep nodded; she tried not to shiver.
+
+"What's wrong?"
+
+Answers galloped through Sweep's mind: I have white hair, I'm left handed, I'm unclean, I'm sinister, I'm different... But she couldn't articulate them. Instead, Sweep dissolved into tears, unable to speak. Temperance helped her to bed where she cried against Temperance's shoulder until exhaustion claimed her.
+
+Eventually, Sweep was able to tell Temperance about the room in her mind, about the book-filled shelves and the small table and its box with odd papers and the chair that had changed color. They talked about it in quiet voices over the warm, soapy water of a laundry tub a few afternoons later.
+
+The laundry yard was dominated by three copper tubs large enough to hold Sweep four times over. The ground was so trampled that grass never grew, and water sloshed over the sides to make mud near the tubs. Wooden clogs big enough to wear over slippers, were stored near the door, making the yard traversable. The yard was lined with a tall wood-slat fence almost twice as tall as Sweep with a narrow gate in one corner held with a wooden latch. Often, while doing laundry, Sweep would imagine what lay beyond the narrow gate.
+
+"A room in your mind. That's incredible," Temperance said.
+
+"It's scary," Sweep countered, though she wanted Temperance to be right.
+
+"Why?"
+
+"Because it means I really am different. The Mother is right."
+
+Temperance frowned. "Don't say that. You've never believed that."
+
+"But..."
+
+"No. You've got a power, like the Saints. You're not unclean, you're special."
+
+Sweep spent the next few moments in silence, trying not to blush. She believed the Mother was wrong about the marks of disfavor, but she couldn't believe she, a simple orphan, was special.
+
+Temperance went on. "Can you go there whenever you want?"
+
+Sweep shrugged. "Maybe. I haven't tried again."
+
+Temperance laughed with delight. "So you could go there and ignore the Mother's boring sermons."
+
+Sweep smiled.
+
+"Where did the books and stuff come from?"
+
+"I don't know," Sweep admitted. "Most of them I've never seen before."
+
+Temperance laughed again. "Your mind knows more things than you do."
+
+Though Sweep was unconvinced of her specialness, she visited the room in her mind often. During the hours long sermons on holydays, she'd play solitary with the playing cards, those thick pieces of paper, using rules from a book she'd found on the shelf. On nights when Temperance slept soundly but she could not, Sweep would go to that private room and read books with titles like the Art of War and Misdirection, and Sky Wars: an Epic in 9 Episodes, and Attic Lights and Sidwalk Endings.
+
+New books would arrive from time to time and Sweep, though thankful for the opportunity to read something new, couldn't stop wondering where they came from. Sometimes she would sit in the room in her mind for hours, sometimes she would enter and exit several times in quick succession, she even considered leaving a note, all hoping to meet whomever it was who added those new books. But the truth was she didn't want to know. If there was someone else, it would mean the room in her mind wasn't hers alone. That it might not be safe.
+
+She never wrote the note.
+
+Sweep considered that she might be making it all up as a way to escape, or perhaps she was hallucinating. But the cushions of the chair felt real, and the games of cards were complex, and the stories in the books were so far outside her experience that she couldn't believe she'd created them all.
+
+Nearly a year later, Sweep found an answer for those unfamiliar items in her mind. In a book called Psychology of Man, Sweep read about the subconscious, a theory about a person's mind below the level of thought. It seemed an odd idea, but it was an explanation she was desperate for. It allowed her to think of the books she'd never read before and the games she'd never played before, as having been absorbed somehow by her subconscious. After all, if her mind could contain a special room, why couldn't it also fill that room? It allowed her to push those worries aside.
+
+Which was how she learned to lie to herself.
+
+When Sweep was eleven, something new appeared in the room, a small table and two short stools. Upon the table was a board patterned in alternating black and white squares and upon the board two sets of delicately carved figures and a small book describing the rules to a game called chess. The game involved sets of pieces, each set with a special movement pattern. The goal was to capture a unique piece: the royal.
+
+Sweep was immediately fascinated, and she made an opening move with a white pawn. A few days later, when she returned, a black pawn had moved.
+
+At first she was frightened.
+
+"It was my subconscious," she told herself, and the fear subsided.
+
+And so she moved another pawn, and the black player responded, and on it went. Sweep lost the first game, and the second, and the third, but she enjoyed it. It was interesting and complex, and she continued to play.
+
+Outside the room in her mind, Sweep suffered at Sacred Heart. She learned suffering was part of life, though orphans suffered more than most and she more than the rest. Sisters smacked her when she wasn't quick enough or humble enough or quiet enough. Acolytes called her names and mocked her hair and reported her to the sisters for 'improper behavior'. Most distressingly, the Mother Superior carried a stout rod for punishing wayward girls, and Sweep felt it on her back frequently.
+
+But Sweep knew there was more to life than suffering at Sacred Heart. She knew because her earliest memory, before the anger of the Mother Superior, before her friendship with Temperance, before even the crowded nursery, was of a pair of bright purple eyes. She dreamed of those eyes sometimes. And every time she was mocked or smacked or beaten, she remembered those eyes and the other life they promised.

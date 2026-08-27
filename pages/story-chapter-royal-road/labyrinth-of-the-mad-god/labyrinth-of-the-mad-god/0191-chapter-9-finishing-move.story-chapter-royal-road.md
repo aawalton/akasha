@@ -1,0 +1,117 @@
+---
+id: 472b7095-6651-5d86-90a1-df84e4cf38fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Finishing Move"
+slug: 0191-chapter-9-finishing-move
+partOf: labyrinth-of-the-mad-god
+position: 191
+ownLength: 2228
+unit: words
+publishedAt: 2025-07-04
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2409307/chapter-9-finishing-move"
+royalRoadId: "2409307"
+---
+
+To vent a little frustration from his failed experiments, Nick reached down, picked up a rock the size of his head, and threw it as hard as he could.
+
+The toss felt effortless after almost doubling his Strength in one day, and the stone went streaking across the grove before slamming into a trunk with a hearty thwack.
+
+The distance caught him by surprise, driving home the realization that he was now over twice as strong as the mightiest man who had ever lived prior to the System’s arrival. And his agility, endurance, reflexes, and fine-motor control had grown just as much. If Nick had entered the last Olympic games in his current state, he would have come away with a gold medal in every single event.
+
+Now that’s more like it. I wonder how hard I can hit something if I really go all out.
+
+He decided to try combining Force Acceleration with Heavy Blow and the Quickdraw Modification from his Half-Length Scabbard. He had used the combo as a finishing move during his battle with the Guardian and wanted to gauge its power, speed, and mana drain, along with the strain it placed on his upgraded body.
+
+With that goal in mind, Nick walked over to a dead tree that was so thick he couldn’t reach his arms around it, then switched on Force Acceleration before doing anything else.
+
+Now that his energetic senses were sharper, he could see the ponderous bands of force mana flowing out from his core to encase his body in a thin layer of concentrated magic. Whenever he moved, the mana on the opposite side reacted, pushing him in the same direction he was already travelling.
+
+Each time that happened, more mana emerged from his core to regenerate the field. That explains why the drain is so much higher while I’m moving. Pleased that he was already learning more about magic and his abilities, Nick assumed his stance, faced the tree, and gripped Blightbane’s hilt.
+
+He visualized the explosive motion he was hoping to achieve… only to be monumentally disappointed.
+
+When he tried using Heavy Blow, nothing happened. He was deeply confused until he remembered that he had placed the rank-0 combat art into his free ability slot so he could keep it after changing his class to Force Weaver. If he wanted to use it, he needed to move Heavy Blow into an active slot first.
+
+He decided that now was a good time for a quick refresher on how his slots worked. He flipped though the relevant pages of his journal until the info was fresh in his mind.
+
+Nick had two active skill slots, one passive slot, and one free slot. Mana Dart and Force Acceleration had come from ability stones, so they would require a slot until rank 6. Heavy Blow only needed to be slotted until it hit rank 1, since it was a class-given ability, and Arcane Shield didn’t take a slot at all, since was provided by his current class.
+
+It meant that if he picked up another power with an ability stone, he would have to use his free slot to swap it in and out. On that note, he gathered his concentration, pulled up his menus, and shifted Heavy Blow from his free slot into an active slot to get a feel for how it worked.
+
+He switched it back and forth a few times before leaving it in his active slot. Nick was pleased to learn that the process was almost instantaneous, although it required a moment of intense concentration. I should be able to swap the ability stored in my free slot without too much trouble. With that out of the way, it’s time to test out my combo.
+
+Nick faced the tree, deepened his stance, then wrapped his fingers around Blightbane, which was sheathed at his left hip. He took a deep breath while bracing himself, then activated Force Acceleration and Heavy Blow and let loose with everything that he had.
+
+At that point, three events occurred at the same time, producing an effect that was greater than the sum of its parts. Stamina flowed out of his well and into his limbs, enabling an explosive burst of power. The instant he began to move, a pulse of force mana erupted from the inside of his right arm, just as the Quickdraw bonus from his scabbard kicked in.
+
+What happened next was so fast that Nick’s eyes couldn’t track it. One moment, the sword was sheathed at his side. Mere milliseconds later, his arm was fully extended. In between, Blightbane lashed out like a force of nature, releasing a crack louder than a peal of thunder.
+
+He spun like a top to keep the momentum from shattering his arm, completing three full revolutions before coming to a stop.
+
+He kept his gaze locked on the trunk all the while. For a second, nothing happened. But then a diagonal line spread across the textured bark. Before his disbelieving eyes, the massive tree split into four separate pieces. The shorn trunk came crashing to the ground with an impact that rattled his bones.
+
+Nick was already blown away by the power of the combination attack, but his jaw dropped with astonishment when he realized what had happened.
+
+Holy shit. I just broke the fucking sound barrier! He shook his head in wonder as he switched off Force Acceleration and returned Blightbane to its sheath, wincing at the bruising to his arms.
+
+That move has a ton of potential, but I can’t control it yet and it causes some internal damage with my current Toughness. It also drains a lot of mana to move that fast with Force Acceleration, even for a fraction of a second. Combining any two of those elements should be fine though, and I’ll keep refining the combo while I’m crossing the biome.
+
+He danced with excitement, celebrating his accomplishment. I have a finishing move now. I need to give it a name.
+
+Whistling as he began contemplating his options, Nick left the grove and continued hiking toward the heart of the Bladewind Badlands—excited to discover what fate had in store for him next.
+
+***
+
+Two hours later, Nick was making his way up the side of a small hill to get a better view of the terrain ahead. He dropped to his belly and crawled the final few feet, so that his profile wouldn’t protrude from the hillcrest.
+
+His morning had proven to be relatively relaxing thus far. He had added several species to the list of beasts he was compiling, learning everything he could about his new neighbors from a safe distance. While some of them seemed friendly enough, Size Up was convinced that others would attack him on sight the moment he entered their territory.
+
+Nick couldn’t blame them for being cautious. This strange new chapter of life on Earth was going to take some time to adapt to. And if any of the beasts remembered humanity’s treatment of animals in the world that had come before, they had every right to hold a grudge.
+
+It was something he hoped they could work on in the future, but diplomacy wasn’t his strong suit, and he gave them a wide berth for now. He had no desire to slaughter innocent creatures—especially ones that would be fighting to defend the planet when the entrances to the Labyrinth opened.
+
+While he mulled the matter over, he pulled out his spyglass and took a long look around. He recorded everything with his PDA, so that he could add more details to the map he was drawing when he camped for the night. There wasn’t much besides dusty soil and scrub grass to the north, but when Nick looked to the east, his eyes widened with surprise.
+
+Drawn across the rust-red earth was a circle. The ring was two feet wide and about the size of a baseball diamond. While finding a perfect circle in the middle of the badlands was weird, the truly unusual part was that the ring was completely black. Whatever it was made from didn’t reflect the sunlight at all. Stranger still, it didn’t have so much as a speck of dirt or blade of grass marring its perfectly-symmetrical perimeter.
+
+If that wasn't a big enough hint that this feature had been placed here by the System, standing in the middle of the circle was a… well, Nick honestly wasn’t sure what it was. It wasn’t an animal, beast, or any alien species he was familiar with. More than anything else, it reminded him of one of the demons he used to battle back in his old life—bygone days filled with an endless procession of online games.
+
+The hulking demon was eight feet tall—ten if you counted its horns. It stood on two cloven hooves that were connected to powerful legs. It didn’t have a tail that he could see, or any form of clothing. Instead, its body was covered in organic plates like the exoskeletons on Sophia’s spear-tongue frogs. The creature’s exposed skin was lemon yellow, and every inch of its profile radiated malice and lethality.
+
+The demon’s frame was heavily muscled and broader at the shoulders than a man. Its yellow arms ended in wide hands featuring wicked black claws the size of Nick’s daggers. Its face was hideous—like something out of a fever dream. The creature had a square chin, and gaping jaws filled with row after row of sharklike teeth. Its nose was big and flat and the tips of its ears formed delicate points. Sweeping horns rose from its skull, ending in razored tines.
+
+Most unusual of all, the demon stood perfectly still, planted in the middle of the ring. It doesn’t seem to be breathing or blinking. Even when a bird landed on its shoulder, the brute didn’t so much as twitch.
+
+When Nick tried viewing the creature with his fledgling energetic senses, its appearance grew stranger still. Instead of having an energetic core like all magic-using lifeforms, the demon seemed to be composed of mana itself—like magical energy had been granted physical form. He tried using Size Up, but the skill came back empty, as if the creature wasn’t even there. He suspected that the total lack of feedback meant the area was shielded in some way.
+
+Intrigued despite the demon’s fearsome visage, he decided to walk a bit closer and get a better look. He didn’t lower his guard and was ready to retreat using Force Acceleration, even though he had a hunch that nothing would happen until he crossed that pitch-black circle.
+
+When Nick came to a stop about 100 feet from the ring, a message from the System appeared.
+
+You have discovered an elite challenge.
+
+The nature of this challenge is: Single combat.
+
+The difficulty rating is: 2.5 stars.
+
+Once begun, the battle will continue until one of the following conditions has been met:
+
+Be advised: Although the construct will cease its attack once you have fallen unconscious or exit the arena, no healing will be provided, and your survival is not guaranteed.
+
+The rewards for this challenge are: 2 (Superior) Healing, Mana, Stamina, and Antidote Potions. 2 Potions of Echolocation (8-hour duration). 30 City Points. A small bonus to species and planetary experience.
+
+Note: Each challenge may only be attempted once. Elite challenges will vanish upon completion.
+
+Nick was intrigued that the System had referred to the demonic figure as a construct. Thus far, all the constructs he’d encountered were mechanical in nature, like the clockwork creations in Darkstone Tower and Kiki the combat doll. This one seemed to be a different type—a creature formed from pure magical energy.
+
+He stood there for a good long while, contemplating the demon while deciding what he wanted to do. He knew that he should probably come back later—especially considering that the System’s warning had been downright ominous. But there was no guarantee the challenge would still be here when he got back, and he wanted that reward.
+
+It was also a valuable opportunity to gauge the difficulty of a challenge that was right in the middle of the scale—information that could wind up saving lives and help his allies streamline their advancement during the Rebuilding Civilization period.
+
+But if Nick was being honest with himself, the main draw was simpler than that. He just wanted to find out what he was capable of. After the rapid growth he had undergone after absorbing the Crimson Blight, evolving to Grade-D, getting a Rare class, and upgrading his gear, he was eager to go all out against a foe that he could destroy without repercussions.
+
+The Guardian had been a tough fight, but by the end of it, he’d been enhanced by so many buffs that gauging his own strength had been impossible. And while this challenge was clearly dangerous, at least there were some guardrails in place in case he got in over his head.
+
+Let’s play it safe, Nick. We can grind a few more levels, work on advancing your abilities, complete the Sword test, then come back and take a shot at it.
+
+He turned around and started walking away but stopped dead in his tracks a few seconds later. “On the other hand, fuck it.” He broke into a broad grin. “I’m in. Let’s do this.”

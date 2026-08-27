@@ -1,0 +1,53 @@
+---
+id: 9b0da6e8-4e9a-5796-ab61-5f6d19de4cdb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55: Magic Bag Crafting"
+slug: 0094-chapter-55-magic-bag-crafting
+partOf: labyrinth-of-the-mad-god
+position: 94
+ownLength: 1372
+unit: words
+publishedAt: 2024-11-22
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1918636/chapter-55-magic-bag-crafting"
+royalRoadId: "1918636"
+---
+
+Before Nick rejoined the epic showdown, there was one more thing that he needed to do along the way. Something that would come in handy when the conflict reached its climax over the next few minutes. While he ran, he slipped off his backpack and opened the flap, carrying the bag with his left arm as he reached inside with his right.
+
+It had been quite a while since he had taken advantage of one of his dimensional storage device’s hidden properties. A quirk that he had discovered back on the Searing Isle that wasn’t listed anywhere in its description. He had already gathered the ingredients he needed to build the weapons he hoped would turn the fight in his favor. Now, he just needed to assemble the pieces. In short, it was time for some crafting, magic bag style.
+
+Nick called upon Arctic Clarity to enhance his focus. He drew on every point of Mind and Creativity to split his awareness—visualizing the task while still controlling his body. Although the items he was making were simple, it took extreme concentration to manipulate objects while they were inside his backpack, especially while on the move.
+
+He already had the components ready to go, thanks to the event where he and Veronica had looted the basement storage room. First, he envisioned the supplies that he wanted to combine—drawing them into focus within his mind’s eye. He had more glass vials and bandages than he needed, so that part wasn’t going to be a problem. What it really came down to was how much oil they had packed inside his bag, which he hadn’t thought to measure until now.
+
+When he visualized the items he was looking for, an image of them popped into his head—floating above the other objects filling his pack. The cooking oil they had found wasn’t going to cut it, so he dismissed it with a thought, along with everything else that he wasn’t using right now. But the smaller cask of lamp oil would do the trick. After examining its contents, Nick judged that he had enough mineral oil to fill twelve glass jars most of the way up—tapered containers that were about as big as a soda bottle.
+
+With the pieces laid out, all that was left was to assemble them. He sent his intentions into his dimensional storage space, pouring the lamp oil into each glass bottle until it was two inches short of the brim. He took strips of gauze and rolled them up before inserting them into the end of each container, then finished them off by wrapping the top with more cloth.
+
+Just like before, the process drained some of his stamina and mana. But he had so much more vital energy by this point that it wasn’t a major concern. As he crossed the last stretch of dirt-strewn soil, Nick ran his eyes across his new weapons. Twelve Molotov cocktails, fully loaded and ready to go. He came to a sliding stop beside Devin and set down his backpack. He let everyone know what he had made while looking around to see what had taken place while he was away.
+
+The first thing he noticed was that the gear-swarm hadn’t done as much damage as he’d hoped. While the brass scorpions had eaten away at the Janitor’s health, it had been able to keep the constructs on the defensive by firing an occasional beam in their direction. The spells hadn’t broken through the gear-turtles’ shields, but they hit hard enough that the constructs decided their harassment wasn’t worth the risk. After one last volley, they pulled back into the tunnel and settled down to wait.
+
+The instant that the mechanical beasts withdrew, the party resumed their offensive. Bolts, arrows, and throwing knives rained down upon the mutant, whose energy felt distinctly weaker than before. However, Nick could still sense flows of force gathering above its head. While it was starting to run low on mana, it wasn’t going to run out anytime soon.
+
+Shaun fired off his last Smoke Arrow to help everyone spot the incoming spell. It was a good thing that he did, because three seconds later, the Janitor fired off two force beams at the same time. Nick had already begun casting his newly upgraded Piercing Ray, but he hadn’t anticipated the doubled spell. He only had a split second to make his decision. Which one should I target?
+
+The first beam was heading toward Veronica, who had the reflexes to get out of the way. Her injuries were no longer slowing her down, thanks to the healing provided by her Acid Bolt. But the second spell was streaking straight for Shaun. Apparently, the mutant had decided to switch tactics. It was trying to take out the party’s weakest member with a surprise attack.
+
+Nick visualized his trajectory and fired, just as the churning ball of mana in his hands his critical mass. It was his first time casting a rank-one version, and he could tell right away that the spell was more potent than before. In addition to packing more raw power, Piercing Ray’s rotation had increased thanks to the insight he’d obtained. The Janitor’s beam was thirty feet out when Nick’s ray met it head on. He prayed that this was going to work, because Shaun was going to get hit if it didn’t.
+
+The two force powers collided head-to-head—the drill bit shining silver from the pure mana that gave it shape. All that was left was to see what happened. To Nick’s relief, the spells pushed against each other for a few seconds before they both detonated in midair.
+
+A chaotic ball of turbulent force expanded in an instant—rotating bands of kinetic energy forming a maelstrom of staggering force. The shockwave was strong enough to knock the party off their feet. Even the Janitor slid back in the soil before regaining control over its momentum. “It worked,” Nick called out. “I should be able to stop some of its beams from getting through.”
+
+Now that they had a counter to the Janitor’s ranged attacks, the party resumed the offensive. Devin went charging into melee range, landing heavy hits with his two-handed axe. Every Blast Strike created an explosion that sent gel flying, leaving behind patches of fiery mana that sizzled as they burned the mutant’s body. It created pseudopods to defend itself. They weren’t completely invisible like its force-limbs, and the athletic warrior was able to dodge them without Kellen’s glasses.
+
+Meanwhile, Veronica sent a fresh barrage plunging into the blob, including a trio of Acidic Bolts. By this point, she had racked up quite a few hits on her target, allowing her class trait to multiply the damage they inflicted. Her magical solvent went to work, hissing and bubbling as it devoured huge pockets of the Janitor’s jellylike flesh.
+
+Shaun and Sophia added some throwing knives and mundane arrows into the mix. While they didn’t do much damage, they served to distract the mutant—taking pressure off the rest of the team. They were saving the last drops of their vital energy for the finale, which Nick was certain was coming soon.
+
+For his part, he stood twenty feet back, on guard against more of the force-beams. Every time that mana began gathering in the air above the Janitor, he called out a warning and everyone opened some space. He took out two more beams over the next few minutes, countering them in a direct exchange of spells.
+
+For the time being, the battle had reached a stalemate. Both sides were running low on reserves and needed to turn the tide in their favor. Whoever succeeded would win the fight, but if they wasted too much energy on an unsuccessful attempt, it would shift the odds in the favor of their enemy. They traded a series of blows, trying to use their remaining energy as efficiently as possible while waiting for an opening to appear in the fickle tide of war.
+
+The problem was, Nick hadn’t seen anything of the sort. While both sides were evenly matched in this moment, the scales would inevitably tip in the Janitor’s favor if the fight dragged on for much longer.

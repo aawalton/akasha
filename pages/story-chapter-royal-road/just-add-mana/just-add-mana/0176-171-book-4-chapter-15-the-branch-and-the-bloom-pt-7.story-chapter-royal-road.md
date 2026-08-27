@@ -1,0 +1,199 @@
+---
+id: edef88fc-070a-5913-830d-65ee78e50841
+page-type-slug: story-chapter-royal-road
+title: "171 — Book 4, Chapter 15 — The Branch and the Bloom, Pt 7"
+slug: 0176-171-book-4-chapter-15-the-branch-and-the-bloom-pt-7
+partOf: just-add-mana
+position: 176
+ownLength: 3183
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3799828/171-book-4-chapter-15-the-branch-and-the-bloom"
+royalRoadId: "3799828"
+---
+
+Cale tried shouting out T’vela’s name a few times, but the pressure and rush of mana around her and her daughter was too intense for her to hear him—from how eagerly he could feel the presence of the realm wrapping around the two, Cale suspected T’vela would make a far greater dark lady than her daughter.
+
+Perhaps that was why this was working when his other attempts hadn’t. The realm needed to change, and she was the perfect vessel for that change. The conflict enacted by her own people had separated her from her daughter and killed her lover. Because of it, once she took the role, she would never be able to hold her daughter again.
+
+That despair would shape her power as a dark lady, and more likely than not, that despair would be visited upon the realm. Strength of mind and character only became fuel to fan the flames, as far as the Dark was concerned.
+
+And that was far too great a price to pay.
+
+Her lover,, it seemed, agreed.
+
+Since T’vela couldn’t hear him shouting, Cale settled for the next best thing: he barreled straight into the atverian commander and her daughter, sending all three of them sprawling.
+
+“What—” T’vela clutched her daughter close protectively, glaring at Cale; the sense of pressure around them vanished abruptly as the ritual was interrupted. “Why did you interrupt? I could feel it working.”
+
+“I got it wrong,” Cale said. He helped T’vela to her feet, then hurried over to Wall, who remained frozen in the same position he'd been in at the moment of his death. He knelt, brushing away the detritus and dirt of the fungal forest floor.
+
+There. Carved into the wood was a crude ritual circle, worn away by the months. He’d been right. And the charms had hidden it from his mana sense, but now that he knew what to look for, he could even sense the faint trace of an active spell around F’lora’s father.
+
+Some sort of stasis spell, he guessed. Wall had frozen himself an instant before death, all to make sure his lover and daughter would be able to live their lives together, free from the shadow of the Dark. The vinewalker must have been brilliant, to predict so much of what would happen, and if not for the corruption trapping the village in place his plan would have gone off without a hitch.
+
+Cale couldn’t help but grin. It was a bit inappropriate for the situation, perhaps, but he admired magical brilliance like nothing else; he would’ve loved to meet the man.
+
+By now, the others had caught up to him. “Cale!” Damien called out. “What’s going on?”
+
+“I got it wrong!” Cale called back happily, still brushing away the dirt to reveal the circle. T’vela was staring at him, confused at first, then with the light of understanding slowly dawning in her eyes as he revealed more and more of the pre-carved ritual circle.
+
+“Cale,” Thorn said, surprisingly patient. “Perhaps you could slow down and explain?”
+
+“Right, right.” Cale was only half paying attention, but he forced himself to slow down, knowing Thorn was right. His behavior could be pretty alarming when his head ran too far ahead of his mouth, and there was F’lora to think about. She seemed frightened by his energy. “Sorry,” he added belatedly.
+
+He took a deep breath and explained what he’d figured out—that Wall had known that this would happen, somehow, or at least that had divined that it was likely. One way or another he had manipulated events such that if he was ever put in this position, he would be able to protect his daughter.
+
+Cale didn’t think Wall had sacrificed himself intentionally, but he’d at least been prepared for the possibility that things would come to this. Something like an [Inscribe Circle] and [Subtle Stasis] to prepare the transferral ritual and delay his death. Stasis spells could be built with a conditional release, and this one released only when the vinewalkers were outside the range of his daughter’s domain.
+
+The vinewalkers glanced at each other. “It explains his behavior when we realized we were under attack,” one muttered. “He is capable of divination. He saw this outcome? But then..."
+
+She trailed off, glancing at F’lora. Cale could tell what she wanted to ask. If he was capable of divination and had seen that this would happen, then why lose to K’teri at all? Surely he would be able to defeat her and prevent the emergence of the Dark. She didn’t want to ask the question in front of his daughter, just in case the answer was that he had done it deliberately.
+
+“Goldsong metal is immune to many magics, including divination,” Cale said finally. “I suspect he understood in time to enact his countermeasures, but not in time to avert it entirely.”
+
+Privately, he wondered if Wall was more brilliant than he’d assumed. Everything about this plan screamed preparation, but the vinewalker had a point; if he had foreseen everything, then he wouldn't have fallen victim to K’teri to begin with. But perhaps K’teri had truly taken him by surprise. Perhaps she had, in fact, almost killed him, but in the instant before he would have died, he divined everything that would result.
+
+Perhaps that instant was all he had needed to concoct this plan to give everything he had to protect his family.
+
+T’vela’s cheeks were wet with her tears. She had listened to all this in silence, and now she approached Wall, whose body was still frozen in the moment of his death. She pressed her forehead gently against his.
+
+“You wonderful fool,” she whispered softly.
+
+Cale let her have her moment. Eventually, she pulled away, wiping at her eyes before straightening. “What do we do, then?” she asked, pulling her daughter close. “How do we help him with this plan of his?”
+
+“We leave,” Cale said. “All of us except F’lora. None of us can be within the range of her domain.”
+
+F’lora looked frightened, and something pained crossed T’vela’s face. “And he will become the realm’s dark lord before his death,” she said. “But the backlash will not strike his murderer?”
+
+“There’s another spell on him,” Cale said carefully, glancing at F’lora. “It will take him before the goldsong does.”
+
+T’vela got the message. She nodded, then knelt by her daughter and spoke, her words soft and tender. “My daughter,” she said. “I will need you to be brave. Do you understand what you must do?”
+
+F’lora nodded, but pressed her face into her mother’s chest, hugging her close. “I don’t want to,” she whimpered.
+
+“You will be able to speak with your father one more time.” T’vela pressed a kiss to the top of her daughter’s head. “He will have many things to tell you, I am sure. Many things he wishes you to know.”
+
+“Really?” F’lora asked. She pulled back from the hug to look up at her mother. “I can... I can talk to him again?”
+
+“I am sure he wants nothing more than to speak with his little flower,” T’vela said, forcing a smile. She reached up to brush a tear away from her daughter's face. “Do you think you are strong enough to speak to him for the both of us?”
+
+F’lora’s eyes widened. “You can’t join us, mama?”
+
+“No,” T’vela said. “This is your special moment, little flower. You get to speak with him one more time.”
+
+“But..." F’lora seemed to struggle with the thought for a moment. She grabbed her mother’s hand and squeezed it. “Then is there anything you want to tell him? I’ll tell him for you! I know I forget things all the time, but I won’t forget this one, I promise!”
+
+T’vela chuckled softly, pulling her daughter close to hide the way her face briefly crumpled. “He knows everything I would want to say, little flower,” she whispered. “This is your moment. Just make sure he knows we both love him.”
+
+“I will,” F’lora promised earnestly.
+
+“Then go to him and wait,” T’vela said. “You must do it alone, but do not be afraid. Your father and I will both be watching over you.”
+
+Cale watched as T’vela guided her daughter back into Wall’s arms. Once F’lora was settled back in the place they had found her, the commander straightened and glanced at Cale, who closed his eyes.
+
+They had given the anchoring feather to M’lori, in part so he could use his mana sense to figure out what the atverians were up to. She was working to keep everyone occupied, but it was only a matter of time until they saw through what she was doing—even now, he could sense a few trying to organize themselves amidst the chaos of her accusations.
+
+“We should hurry,” he told T’vela, who nodded. She bent down to give her daughter one last hug, then gestured for Cale, his friends, and all the vinewalkers to follow her back out of the forest.
+
+Behind them, F’lora huddled in her father’s arms, doing her best to breathe the way he had taught her.
+
+The forest was silent.
+
+F’lora felt strange, sitting on the floor in her father’s arms. He was dead, wasn’t he? The human claimed he wasn’t, but he wasn’t moving or breathing.
+
+She knew about death, young as she was. She had grown up amongst vinewalkers in the middle of the fungal forest, after all, and many of the critters that lived in it did not live for long. Once she had brought her father a small creature she had found, a rotund, fluffy thing with enormous eyes that she thought was the cutest thing ever. Like big dandelion seeds with eyes!
+
+But no matter how careful she was with it, it couldn’t last. The life cycle of one of those fuzzballs was around three weeks, her father had said. Her mother had been reluctant to let her keep it once she discovered this, knowing F’lora would be absolutely devastated when it inevitably passed, but her father seemed certain she could handle it.
+
+“Many creatures in the realms are smaller and more fragile than we are,” he had said, watching the fuzzball as it danced between their palms. “And so we must learn to celebrate the time we have with them.
+
+“All things are part of a cycle, you see. These little creatures have much shorter cycles, which makes the time they share with us all the more precious. Remember that, and hold your time with it in here.”
+
+He had tapped the carapace over her heart gently, and F’lora had nodded obediently. She could do that! “But... why must it be part of a sickle?” she asked.
+
+“Cycle,” her father had corrected with a laugh. He picked her up and smiled at her. “And I believe you will see the answer for yourself.”
+
+And she had.
+
+F’lora had named the fuzzball Mandy and took great care of her, playing with her every single day, but she saw when Mandy began to slow and tire. She cried the day she closed her eyes and finally stopped eating, and then stood guard over her for the next hour, as if her presence could coax her back to life.
+
+It did not, of course, but at the end of the hour Mandy’s body began to wiggle strangely before collapsing into what seemed like dozens of tiny, smaller fuzzballs that bounced around and made little meep noises. Then F’lora was overwhelmed both with grief over Mandy and delight at the tiny little babies that were now crawling all over her bed. It had all been very confusing.
+
+She thought she understood what her dad meant, though, after things had calmed. The cycle meant Mandy would go away, but that made space for her babies. That made sense. She picked one of the babies to take care of, and she never quite got over the grief when one passed, but she did what her father said anyway: she held the good times with each one close to her heart.
+
+So she knew about death, young as she was. She thought she could handle it.
+
+But it was so different when it was her father. It seemed so terribly unfair. Her father wasn’t going to burst into a thousand tiny fuzzballs. He wouldn’t live on as a tiny vinewalker that could live with her.
+
+He would live on through her, but that felt... it felt so lonely. How was she going to live up to his presence? And she would never be able to talk to him after this. To laugh with him. To hear one of his silly jokes, or ask him to show her one of his spells. She couldn’t very well do those things with herself.
+
+F’lora found herself wishing she had listened better to all those little wisdoms he had shared with her. It was more than just the cycle thing, she knew, but she had forgotten most of them by now. She’d assumed she would be able to ask him again later, but this was the last chance she would ever have.
+
+She would make the best of it, she told herself. She would listen as hard as she could to everything he wanted to tell her, and then she would remember it forever.
+
+Was the human right, though? Would her father really wake up? The forest felt so quiet now. There wasn't at all the same pressure around them as when she and her mother were inside that circle. She just felt a little itchy. It didn’t feel like the realm was paying attention.
+
+But that human said they all needed to leave first. F’lora fidgeted. How long would that take? She tried to remember how big the forest was—it took two hours to walk from one side to the other, but they were close to the atverian side of it…
+
+She gave up. She had no idea how long it was going to take. She hoped the human was right, though. She really wanted to talk to her father again. She wanted to apologize for that time she’d plucked a flower from him and startled him so much he fell over.
+
+She’d never apologized for that. She knew what her father would say, though. He would say that it didn’t matter, that she could pluck all the blooms she wanted. The thought made her feel all warm and fuzzy.
+
+Or... no. It wasn’t just the thought. She felt warm and fuzzy on the outside, too. F’lora blinked and looked around—this felt so different from the attention given to T’vela, but there was something there. Like a warmth was beginning to swirl around them, and like something cold was leaving her.
+
+Was this it? Was this what that human had been talking about?
+
+“Hello, little flower,” her father said, and F’lora gasped.
+
+“Dad,” she whispered.
+
+Then her face crumpled, and she wailed, throwing herself into his arms. “Dad,” she sobbed, clutching at him. He felt alive in a way she hadn’t dared to hope for—he was moving, and warm, and he was wearing that smile he always wore when he knew she needed comfort. He held her close, humming a little tune.
+
+“Shh,” he murmured. “It’s alright. It’s going to be okay, little flower.”
+
+How could he expect her to believe that? He wouldn’t be here anymore after this. How could anything be okay again, ever?
+
+But she wanted so badly to believe him. Maybe she could pretend, just for a little bit.
+
+F’lora didn’t know how long they spoke. She kept trying to prolong it, bringing up new subjects whenever the conversation petered out, trying to squeeze all the decades of time she knew they should have shared into this one precious moment. It was an impossible task, but she was determined to try anyway.
+
+Wall was all too happy to play along. He answered every question she had, regaled her with the tales she loved, and told her all the things he had wanted to wait to tell her.
+
+Yet she could tell when he began to tire. It was just like when Mandy had started to slow.
+
+F’lora began talking more, trying to keep him with her. She told him all the plans she had for the village when she was finally grown up, all the places she wanted to explore. She told him about the strangers that had helped them and how strange they were—she’d never seen anyone like them, and she wanted to find where they’d come from. Maybe she could travel with her mother, one day?
+
+Her father smiled at her, but the exhaustion was set so deep into him now that F’lora knew they didn’t have long. "Travelers, hm?" he murmured. “I would have liked to meet them, but alas... Perhaps in the next life.”
+
+“Please don’t go,” F’lora said, because she knew that was a signal he would go soon. “Please, dad.”
+
+“Dad’s tired,” Wall told her, but he pulled her close anyway, pressing a kiss to her forehead. “But I’ll stay as long as you need me.”
+
+F’lora swallowed.
+
+She didn’t know how long it took her, really. But she understood what he meant—that he would resist his death for as long as she wasn’t ready. And though he said nothing about it, she saw how much it took out of him for each second he stayed.
+
+Eventually, she made herself let go.
+
+His final gift to her was a simple one. He gave her a hug, then dissolved into motes of light that resembled Mandy, from what felt like so long ago. They danced around her before drifting through the fungal trees, sinking into various parts of the forest.
+
+His way of telling her he would always be with her, she knew. He had returned to the cycle, and was now part of the forest.
+
+But she was still crying when her mother returned and gathered her into her arms.
+
+“Are you alright, my sweet?” T’vela asked, stroking a hand down her shell.
+
+F’lora shook her head, sniffling. “Not yet,” she said.
+
+But she would be. The strange pressure she had felt within her was gone, now. When had that happened? Her father must have taken it with him, but she hadn’t even noticed. She sniffed again, then tried to force herself to calm, looking around the clearing. Her aunts and uncles were all here, watching with concern, but...
+
+“Where’d... um, where’d the travelers go?” she asked timidly.
+
+“They left,” T’vela said, still comforting her with gentle strokes down the back of her shell. “They were not from this realm, and they could not stay.”
+
+“Oh.” F’lora tried to focus on that. “I didn’t know we could go to other realms.”
+
+“I had not known it either,” T’vela said. Her voice was soft, thoughtful. “Perhaps we should try, so that we can bring back something to plant in this forest. As a gift for your father.”
+
+F’lora nodded, curling up against her mother. “I’d like that,” she said quietly.

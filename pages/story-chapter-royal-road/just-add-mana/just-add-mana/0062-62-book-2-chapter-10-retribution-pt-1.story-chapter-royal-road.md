@@ -1,0 +1,219 @@
+---
+id: 44ddb809-f762-5bb2-84f5-d179a1b83553
+page-type-slug: story-chapter-royal-road
+title: "62 — Book 2, Chapter 10 — Retribution, Pt 1"
+slug: 0062-62-book-2-chapter-10-retribution-pt-1
+partOf: just-add-mana
+position: 62
+ownLength: 3582
+unit: words
+ownProgress: 3582
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2771845/62-book-2-chapter-10-retribution-pt-1"
+royalRoadId: "2771845"
+markedReadAt: "2026-06-29T18:49:44.102Z"
+---
+
+Cale sat in the so-called grass of the Inverted Spires, humming quietly to himself.
+
+Sternkessel sat across from him. The Greater Indictment still wasn't whole, but he was a lot better than he had been after his encounter with the Loomweavers. He hadn't yet regained his ability to speak, for some reason, but most of the blackened metal had faded and been replaced with something closer to a dull bronze. He was also mostly humanoid again, though still too large for his suit to fit completely on his frame.
+
+Akkau had been with them for a while, though he'd excused himself relatively quickly. Cale thought a part of the Headmaster seemed... uncomfortable, perhaps, or guilty? He wasn't sure he was reading it right. Sternkessel had radiated a sort of amused understanding about it, though, so Cale let it go and decided to just enjoy a quiet moment with his favorite professor.
+
+Sternkessel was definitely his favorite professor, he decided. Which had nothing to do with the fact that the man was acting a little bit like a very large cat. He was, at this very moment, curled up in the sun with his head in Cale's lap, rattling in a way reminiscent of a very loud purr.
+
+"You're a lot less upset about this than I expected," Cale commented.
+
+Sternkessel's head tilted in his direction before his shoulders moved in a faint shrug. He gestured in the direction of the Brightscale Academy, then at Cale.
+
+"You're glad you don't have to worry about the academy's problems for the moment, and you trust that I'll fix this?" Cale guessed, and when Sternkessel inclined his head in a nod, Cale chuckled. "Thanks for the vote of confidence, I guess. You still seem... comfortable, though. Not that I want you to be uncomfortable."
+
+Sternkessel nodded once more, then proceeded to sign a rather complicated series of gestures that Cale completely failed to interpret in time.
+
+"Okay, first of all, could you sign this whole time?" Cale asked, shooting Sternkessel a look. "Second, I'm a little rusty in... whichever language it is you just used. Could you repeat that?"
+
+The professor seemed amused, then repeated his words, this time signing a little more deliberately. Cale took a moment to piece together what Sternkessel was saying.
+
+Comfort is relative, Sternkessel signed. While I used to prefer my study, this partial form appears to enjoy warm, soft places with plenty of sunlight. My inhibitions also appear to be significantly lower, or I imagine I would be mortified about most of this.
+
+And to answer your question—yes, but signing is rather taxing in this form. These hands are not made for it. He flexed his claws for emphasis.
+
+Cale snorted a little at that remark. "Well, hopefully you won't be that mortified once we've fixed this, or I'm going to need to convince you it's not a crime to relax," he said, his tone deliberately light. "Do you not take time for yourself?"
+
+Sternkessel pressed a hand to his chest in response, pretending at offense.
+
+Cale laughed. "That's not an answer and you know it," he said, shaking his head. "Guess I'll put kidnapping you on the agenda at some point. Should be an interesting challenge for my apprentices."
+
+Sternkessel radiated a feeling of concern. Cale just grinned without further elaboration, then leaned back to stare at the horizon of the Inverted Spires, watching the sun split across the seams of the sky in silent contentment.
+
+"Are you sure you don't want to head back to the Academy yet?" he asked after a moment. "You seem to be more or less in control now. You don't have to stay alone out here."
+
+There was a flicker of hesitation before Sternkessel reluctantly began to sign his response. I am sure, he indicated. While your potion has returned to me most of my faculties, I do not yet have full control over my magic, and there remain certain... lapses, as we have both observed. I will not risk my students, nor our enemies discovering my current state and speed of recovery.
+
+"And the Observers can't scry into the Inverted Spires now, so this is a pretty safe bet." Cale sounded resigned, mostly because he couldn't help but agree.. Akkau had spent quite a lot of time and had borrowed quite a bit of mana making absolutely sure this place was immune to that sort of scrying—it was already difficult to scry into because of the way space within it was distorted, but the new wards made it virtually impossible.
+
+He might have hated the idea of leaving Sternkessel here, but the plan made sense. Before he could dwell on it further, Sternkessel nudged him, as if knowing what he was thinking and wanting to distract him. I imagine I cannot convince you otherwise, regarding your plans for tonight?
+
+Cale made a face. "Are you still worried about that? I mean, I get why, and playing defensive will still work when it comes to our academy. But that rule doesn't apply to any of the others. The more we mess up the Red Hunters and their plans, the more mistakes they're going to make to try to compensate—and frankly, I think my apprentices and I need the outlet."
+
+Sternkessel radiated disapproval tinged with amusement. He raised his hands to sign out a response, but before he could, his hands fell to his side, and he seemed to go... blank. Cale glanced down at him only to realize that the professor's moment of lucidity appeared to have passed.
+
+He winced. He'd been hoping it would take for longer, this time.
+
+"Lapses" had been underplaying the problem a bit, as much as Cale wanted Sternkessel back in the academy. They were perhaps thirty percent of the way on the road to recovery. It was encouraging, but Cale would have far preferred to deal with the problem in a single step over having to handle all this waiting.
+
+He hated waiting.
+
+Unfortunately, even the best potion he'd been able to conceive in that batch could only partially reverse the effects of Sternkessel's transformation. It restored some of his form and lucidity, but not completely, and each new dose seemed to have something of a diminishing effect. Even before they were done, it was clear that what they had now wouldn't be enough.
+
+Still, Professor Rinkle had apparently been inspired by the idea of using the distortion storm as a liquid base for a potion. She listed about a dozen different ideas, three of which made no sense to Cale and one of which he thought might have caused Orguk to experience an existential crisis. The rest seemed promising, though.
+
+More importantly, even when Sternkessel was in full Greater Indictment mode—that is, entirely reverted to being a creature of pure retribution that had fulfilled its sole purpose—he seemed unwilling to move from his otherwise comfortable position in Cale's lap, so there was clearly something of his professor in there.
+
+Cale very gingerly tried to move. Sternkessel growled at him.
+
+Okay. He was probably stuck here for now.
+
+Hopefully not for too long, though. Cale had plans that night, after all, and he would've hated to miss them.
+
+Fortunately, he didn't.
+
+The moons had begun to rise by the time Cale, Damien, and Leo made their way to Headmaster Akkau's office. Flia had chosen to stay behind, though she seemed rather disappointed to have to do so. She had more to figure out with her fragment of the Leviathan's power, she claimed.
+
+Syphus had mostly just refused to come along because there would be little opportunity for it to fire its new spell cannon, and it had many things it wanted to try. It had promptly sequestered itself away in one of the academy's dueling arenas, dragging an alarmed-looking elf along with it. Apparently some of the elves still owed it money.
+
+Cale figured the three of them would be more than enough, though. It hadn't been hard to adjust his plans to account for that, anyway.
+
+Akkau was thankfully already waiting for them by the time they arrived, though he gave them a stern look as they approached. "You're sure you want to do this?" he asked.
+
+"Not a doubt in my mind," Cale answered easily. Damien and Leo exchanged glances, then nodded.
+
+"Very well." Akkau rubbed at the blackened scale on his wrist in what was apparently a nervous tic. "Then I suppose I will allow this... student exchange program with the Haelforge Academy. Though I remain stunned that their professors agreed to this plan of yours."
+
+"Well, we're only going to be there for a few hours tonight," Cale said cheerfully. "You know, after most of their classes are over and most of the students are asleep."
+
+"Yes," Akkau said dryly. "Thank you for reminding me how difficult it will be to explain why our schools agreed to an exchange program that occurs via [Mass Shadow Teleport] in the middle of the night for the duration of 'a few hours,' as you put it."
+
+"We might need to go back tomorrow night, too. And the night after that if the plan goes long."
+
+"I begin to suspect that you are messing with me," Akkau said, though he seemed more amused than anything else. "How in any of the infernal realms did you convince them to go along with this plan? Haelforge has a reputation for being insistent on handling their own problems; I cannot recall a single time in history that they have ever accepted outside help, even from mages that have impressed them."
+
+"I told them what I was planning," Cale said. "You didn't listen in?"
+
+"You asked me not to." Akkau frowned at him.
+
+Cale blinked. "You listened to me?" he asked, slightly incredulous. "I don't think I've ever actually obeyed when someone told me not to listen in. Though I'll admit I've regretted it sometimes."
+
+Akkau gave him a flat look. "That neither surprises me nor answers my question."
+
+Cale grinned. "Well, I wanted it to be a surprise, and now I'll actually get to pull it off!" he said. "Look, just scry into Haelforge in about thirty minutes. I'm assuming you can get past their wards. It'll be fun for you too, I promise."
+
+Akkau sighed. "I do not know why it continues to surprise me that you can make an ageless immortal being feel their age," he muttered, mostly to himself. "Very well. But you are still technically my apprentice, so if I am not sufficiently entertained, be prepared to do some extra paperwork."
+
+Off to the side, Leo tugged on Damien's arm and leaned down to whisper to him. "Does it ever feel like we're the only ones taking all this seriously?"
+
+"I think it's how they cope?" Damien said hesitantly. "I kind of hope I'm like that some day. It seems more fun than being scared all the time."
+
+Leo opened his mouth to respond, then hesitated.
+
+"...You're right, and I kind of hate that you're right," he grumbled. "I hope Cale's plan is actually good. I can't tell if he's about to prank the Hunters or drown them in a horrifying amount of violence."
+
+Professor Delia had been staunchly against Cale interfering with Haelforge's retribution when the young mage had first suggested it. It didn't matter that he was some absurdly powerful, apparently ancient battlemage she would dearly have loved to spar with: the fact remained that Haelforge's problems were their own, and it was a disgrace to allow outsiders to help with their problems.
+
+Then Cale had explained his plan, and Delia—very reluctantly, and at the urging of her students, all of whom Cale had somehow involved—had been forced to change her mind. She could now conclude that Cale's idea of retribution was both utterly mad and absolutely worth it.
+
+It had taken Haelforge no time at all to identify the Red Hunters in their midst once their presence had been pointed out. Unlike the ones in Brightscale, the Hunters assigned to Haelforge had grown complacent and overconfident. They no longer scanned for changes to the wards, simply because Haelforge never changed those wards. They were a known quantity, and their weaknesses were obvious.
+
+Until they weren't.
+
+Their lack of interest in wards did not mean they had no mages capable of casting them, and while the Hunters at Brightscale Academy were wreathed in all kinds of forbidden magic to hide from the terrifying variety of scryers there, the Hunters at Haelforge Academy were not.
+
+All it took was a simple modification, and suddenly the Haelforge professors had a list of the Red Hunters stationed at their school, where they were stationed, and which students they had visited in the past week. Delia doubted it was a perfectly comprehensive list, but it was enough to get started.
+
+The plan before Cale had been simple: they would round up every Hunter they knew was involved and destroy them in single-handed combat. Repeatedly. When Delia explained this to Cale, however, he just gave her an incredulous look and then proposed something so radically different she'd assumed at first that he was joking.
+
+He was not.
+
+The idea of subterfuge rankled against Delia's instincts, but she had to admit, in this one case, it made a lot of sense. Besides, the look on the Red Hunters' faces would be worth it.
+
+Also they still got to fight, which was important. Maybe this Cale understood the Haelforge way after all. He had destroyed the Firestorm Scale, which would have been a feat worthy enough to put him in the upper ranks of their students if it hadn't also technically been blasphemy.
+
+She wondered briefly if she could poach Cale for Haelforge. Probably not, but she was kind of tempted to try.
+
+Dekora—celebrated Red Hunter and newly minted third-cloak archmage currently masquerading as one of Haelforge Academy's students—did a double-take when she saw Kessi walking around the campus like nothing had happened.
+
+The first thing she did was double-check her link with her Observer, who told her that he'd observed nothing unusual and that everything had proceeded as planned. There were some logistical problems that her handlers would be dealing with on the political end of things, but she didn't need to know what they were.
+
+It infuriated Dekora. She'd earned her third cloak. What was the point in continuing to keep these secrets from her? She should have been promoted into the Hunters' inner circle by now, not pottering around pretending to be a student.
+
+And besides that, nothing unusual her ass! Kessi should have been fighting off the worst of the shimmerdust poisoning. What was she doing just walking around? For that matter, the whole of the Illwyld continent should have been talking about the destruction of the Elemental Shrine of Fire and the raging elemental that had resulted—what did her Observer mean, everything had proceeded as planned?
+
+Dekora was going to have to give him a piece of her mind the next time she visited the Watchful Hive. She didn't care what her handlers said or thought. The whole point of the Observers was that they were there to serve and give them the information they needed. What was their use if they couldn't answer a simple question about what happened?
+
+Clearly, considering Kessi was just walking around and hadn't been arrested or killed, she hadn't managed to corrupt the Firestorm Scale. That was not "according to plan" by any interpretation.
+
+Unless...
+
+Unless the professors were trying to hide what had happened. Dekora snapped her fingers, ignoring the way a few of the students roaming around gave her a puzzled look. They would try to hide it, wouldn't they? Their favored student accidentally killing off an entire class would destroy their reputations, so of course they would. And it was exactly the type of thing the inner circle of Hunters would want to spin into a story.
+
+Come to think of it, she hadn't seen any of Kessi's classmates around, and this explained why. They must all have been dead or horribly injured.
+
+Dekora's disgust grew. Waiting for a story seemed pointless. And why would the Haelforge professors hide the actions of a wild mage when it led to so much death? Their ridiculous sympathy for them knew no bounds, clearly.
+
+Fine. If the professors wouldn't expose her and her handlers wanted to wait, she'd simply have to prove herself. She was fully capable of spinning the story without needing assistance, and she certainly didn't need anyone to do it for her. She would prove she belonged in that inner circle.
+
+"Kessi!" Dekora faked her enthusiasm as she waved at her fellow student. "I was wondering where you've been! Are you alright? I haven't seen anyone from Fire Resonance since you had the class."
+
+"O-oh." Kessi flinched slightly, and something within Dekora snarled in vicious satisfaction at the sight. "I'm fine. Class was fine. Everyone's just... busy, is all."
+
+"Are they?" Dekora put on a look of false sympathy, then placed an arm around Kessi's shoulders. "What are they busy with? I was hoping to get Caea to help me with a project."
+
+"They all managed to rank up their fire resonance several times," Kessi said, sighing. "I didn't get any, though."
+
+What?
+
+"What?" Dekora said. "What do you mean, they ranked up their fire resonance?"
+
+"You wouldn't believe it, but when I touched the Firestorm Scale, I accidentally summoned Vesuvius," Kessi whispered nervously. "And he was grateful. He gave us all blessings. Except me, for some reason? He said I wasn't compatible."
+
+What? No. Kessi had an inverted summoning aspect; she should have summoned a rampaging monster, not a nice elemental god. Besides, her Observer had said everything went as planned, so she had to be lying.
+
+"Are you sure?" Dekora asked. Kessi gave her a strange look.
+
+"What do you mean, am I sure? I was there," she said. "You can ask Vesuvius yourself, if you want. He's visiting. The rest of the class is with him." Kessi jerked a thumb at a nearby classroom, and Dekora whirled around, hurrying to the class without bothering with a response.
+
+Again, what?
+
+When she threw open the door, she saw what was clearly an inverted aspect summon—a creature made of darkness instead of the merry fire that might have been expected from an elemental god of fire. It stood there in eerie silence, with the rest of Kessi's class chatting animatedly amongst themselves, like they weren't standing with a monster.
+
+And it was a monster. She could see it. Every time the flame flickered, she saw the decaying bodies of everyone she'd loved, everyone she'd lost—
+
+"What's the matter, Dekora?" Kessi asked, having rushed after her. She sounded concerned. "Are you alright?"
+
+Everyone she'd killed.
+
+"What are you doing?" Dekora asked, her voice trembling. "You're supposed to kill them all. Why aren't you killing them all? Why are you just—having a lesson?"
+
+"What are you talking about?" Kessi asked, frowning at her. "What do you mean, kill?"
+
+"If you aren't going to kill them all," Dekora said, her voice getting a little frantic and high-pitched, "I'll just do it myself!"
+
+She was a third-cloak archmage. Some of these Haelforge students were powerful, sure, but they were nothing before an archmage. She could use fire magic to slaughter the lot of them, pin the blame on the elemental and salvage all of this...
+
+Some small part of Dekora's mind screamed at her that something was wrong. Her mana sense was going haywire, buzzing violently to the point where she had to fight her instinct not to flee immediately. She grit her teeth—these were novices. She would be fine.
+
+"I'm going to fix this here and now," she growled, gathering her mana for a [Nova Blast].
+
+Ten minutes later, Dekora staggered down a hallway, singed and bleeding. She couldn't stop panting. One of her horns was chipped, and it was a miracle she'd even managed to find this relatively quiet hallway.
+
+She didn't understand. The students should have run out of mana ages ago, but they were flinging around high-cost spells like they were nothing. Their barriers seemed impenetrable, and every one of them were cackling in glee, like fighting a third-cloak archmage was some sort of exciting after class activity.
+
+As if that wasn't enough, she couldn't even run! She tried. Dekora was no stranger to a strategic retreat, even if running away from novice mages was utterly humiliating. But the school's hallways seemed to twist into a maze, and the corridors she'd once known like the back of her hand now seemed like it was an endless series of forks and twists and turns.
+
+She'd have to report this, she knew. Shame burned in her gut at the thought. The two Hunters that had taken her in and trained her had been so kind. They'd treated her like she was their daughter, and now she was going to disappoint them. The thought made her snarl and slam a fist against the wall.
+
+No. She wouldn't. She was still an archmage. There were other spells she could try. She just needed to gather herself and navigate this stupid fucking maze.
+
+Dekora—celebrated Red Hunter, newly minted third-cloak archmage, and the third minotaur to ever be recruited into the ranks of the Red Hunters—staggered her way further down the hall, her anger slowly growing.
+
+She could do this. She could.

@@ -1,0 +1,279 @@
+---
+id: 1e90feb4-a998-59fd-9f24-835cc3637397
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30 — A Class Act"
+slug: 0030-chapter-30-a-class-act
+partOf: just-add-mana
+position: 30
+ownLength: 4450
+unit: words
+ownProgress: 4450
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2573724/chapter-30-a-class-act"
+royalRoadId: "2573724"
+markedReadAt: "2026-06-29T18:48:34.692Z"
+---
+
+It was fairly well known among higher-tier mages that one did not simply throw themselves into the Abyss. Among immortals, it was more generally known that one did not throw themselves into the Abyss unless they went by the name of Cale Cadwell Cobbs.
+
+He was, after all, one of the few mages known to have done so and survived.
+
+To be fair, he'd cheated slightly, and all his connections didn't necessarily mean that it was wise for him to do so again. He was relatively certain he'd be able to make his way back, though, and the fact that he could breathe in the so-called water of the Abyss was a good sign. It meant his presence wasn't unwelcome. If the Leviathan had wanted him gone, the Abyss would have crushed and suffocated him in short order.
+
+She'd always been a very decisive woman.
+
+Still, it seemed she was fine with his presence, and Cale was certain he'd be able to make his way back without too much trouble. He had a thick barrier wrapped around his waist that led out of the Abyss and was anchored in the ground of the Inverted Spires. Pretty much the same trick he'd used earlier to disrupt the spatial rule that kept them from finding out what the Loomweavers had really done. That would be enough for Sternkessel to find him, and even if it wasn't, he had his ways of getting back.
+
+Not pleasant ones, but he did have them.
+
+For now, though, he was here for a reason.
+
+Cale had been thinking about it on and off ever since Flia mentioned her Leviathan's Curse. He'd thought it at the time but had opted to say nothing, if only because he hadn't yet had enough information to come to a clear conclusion.
+
+Now...
+
+Well.
+
+The first clue was that a deep-sea aspect didn't manifest the way Flia's magic did. It increased the volume of water that spells with that aspect could handle, and it specialized in pressure; there were universes he'd been to where deep-sea divine mages were known and feared, for they could cast fifteenth-tier spells that overwhelmed entire continents.
+
+Flia's magic was nowhere near that threatening. Yet her assumption that she had an abyssal aspect core wasn't exactly right, either; abyssal mana wasn't strictly a thing. Her people were probably not wrong to call it the Leviathan's Curse, but Cale was pretty sure the Leviathan would be offended if she knew that was what they'd named it.
+
+The second clue had been Flia's affinity for magical creatures. It would have been one thing if she was simply good with them, but she'd ignored the shadelings' defensive psychic field like it wasn't even there.
+
+Cale grinned wryly. The Leviathan had probably been ecstatic when she found Flia.
+
+The Leviathan acted as guardian and gatekeeper of the Abyss, but those words didn't quite suffice in explaining her multiversal role. Better to say instead that she was the Abyss.
+
+The entire thing was her domain, after all. It was the expression of her power that kept the Great Realms apart, preventing the occurrence of another Planar Collapse. She swam between them on a regular patrol, consuming anything that overstayed its welcome or grew too large, and her presence was a constant through all of time and space.
+
+She was the First Monolith, known also as the Law of What Lies Between, and she was currently swimming lazily toward him.
+
+Cale lifted a hand in a slightly awkward wave. "Hey."
+
+The Leviathan didn't immediately respond. Instead, her enormous, serpentine body flicked gracefully through the endless ocean. She was its singular source of light, though perhaps "singular" wasn't quite the right term—she had eyes along her body that were miles apart, and each one illuminated a section of the depths. Sometimes, Cale saw brief glimpses of other realms as they drifted close.
+
+He tore his eyes away. Staring at other realms through the Abyss generally wasn't a good idea.
+
+Then the Leviathan was close enough to speak, and she did.
+
+"Cale Cadwell Cobbs," she said. She swam closer to him, and Cale didn't move, even as she grew larger and larger; soon, she was so close that he was a tiny speck next to a single one of her glowing eyes.
+
+Cale nodded. "Yup! That's me," he said cheerfully.
+
+The Leviathan laughed a long, slow laugh. "It has been too long," she said. "I see you have not changed. How have you ended up on Utelia?"
+
+"Summoning spell gone wrong," Cale said with a lazy shrug. "Surprised you didn't notice. It dragged me through without any protective magic, even, so now I have voidcytes and probably other visitors to deal with."
+
+"This may be my domain, but I cannot see all within it." Before his eyes, the Leviathan began to shrink, her power and volume condensing until she was something closer to the size of a horse. She swam closer to him, nudging a snout beneath his fingers, and he sighed and scratched her scales obligingly.
+
+The Leviathan purred. One of the nearby realms trembled.
+
+"Why do you come here?" she asked. "You do not visit the Abyss often. You should."
+
+"You know as well as I do why I can't," Cale said, shaking his head. He sounded just a touch regretful. "Two reasons. First is that I wanted to make sure you're aware of the Abyssal we're returning to your care."
+
+"Ah. Yes." The Leviathan blinked slowly, languidly; thousands of her eyes shut one by one, then opened again, creating a soft wave of light. She gave him a pleased nod. "Thank you for that. It is much appreciated."
+
+"The second reason is that you need to learn to talk to your heralds when you appoint them," Cale said. "Flia thinks your blessing is a curse, you know."
+
+"What?" The Leviathan looked puzzled. She cocked her head, then continued to spin with it until she had rotated a full 360 degrees. "Why would my blessing be a curse?"
+
+"Utelians have issues with non-standard magic," Cale said dryly. "She can't cast any of the magic she wants."
+
+"But... she is chosen," the Leviathan protested. "She loves all creatures as I do. I simply gave her the strength to send them back to me. I have lost so many..."
+
+"Are there a lot of Abyssals on Utelia?" Cale asked, frowning slightly, and the Leviathan sighed a long sigh.
+
+"Many and none," she said sadly. "I cannot track them all. I know only that the realm needed someone with my blessing, and so I gave it freely, and I felt one heart respond. Have I caused harm?"
+
+"Nothing you can't correct." Cale patted her on the head gently. "You can reach out through dreams, can't you? Just let her know what's going on. I'm sure she'll understand."
+
+He paused slightly, then frowned. "But... what do you mean, many and none? You aren't normally one for being cryptic."
+
+"I do not know." The Leviathan's body shuddered slightly; she closed her eyes, one after the other, until all sets of them were closed. Then they began opening again in a glowing, hypnotic wave. "It is as though they are there, but they are... lost. Held in a boundary, perhaps. Or trapped in a binding, as this child was."
+
+The Leviathan lifted two hands she didn't have before, and for a moment, she was so stunningly beautiful and human that Cale's breath caught in his throat. From those hands, a tiny golden butterfly fluttered out, then flew back and forth, as if confused and frightened. The Leviathan leaned forward, touching her forehead against it, and at that touch the butterfly calmed.
+
+Soon, it began to weave a happy dance around the length of the Leviathan, who had once more assumed her more serpentine form. Cale watched this for a moment, a small smile forming on his lips, before that smile faded.
+
+"If someone's making use of Abyssals, it could explain some of what's apparently been happening on Utelia," Cale murmured softly, talking mostly to himself. "I haven't been able to make sense of some of the memories I got from Sneaks-In-Darkness, but this could explain some of it."
+
+He shook his head. "I guess most of this doesn't matter to you," he said wryly. He leaned down slightly and smiled. "I'll figure it out. But can you promise me to reach out to Flia? Maybe help her cast some of the spells she wants to cast? She could use a mentor that isn't... well, you know."
+
+He gestured to himself with a laugh, and the Leviathan's eyes crinkled as if amused. "You do not give yourself enough credit, Cale Cadwell Cobbs," she said. She swam forward to bump her snout against his chest. "And you ask much of me, as usual. But I suppose I could, if only for old times' sake."
+
+"You and I both know you'd never let one of your heralds suffer if you knew about it," Cale said with a small laugh. "Thank you, Lev."
+
+"Hmm." The Leviathan hummed noncomittally. "You should visit more often, as I said."
+
+"I'll do my best," Cale said, though they both knew it was a lie. The Leviathan gave him a regal nod nevertheless, then turned to swim away, flicking her tail as she did; the force of it sent him barreling back toward the opening into Utelia.
+
+Probably several times too fast, actually. Cale winced. She'd never been good at controlling her power. This was going to hurt—
+
+Reality blipped.
+
+When Cale opened his eyes again, he was back in the classroom for Magical Geography. He blinked a few times, checking over himself for any injuries. For a moment, he thought he'd passed out, but... no. Sternkessel had somehow known the exact moment he needed to be pulled out and then brought him straight back to class.
+
+He was even still dripping wet. Which was strange, because Cale was pretty sure the water of the Abyss wasn't really water.
+
+Ah well. Sternkessel was staring at him with his arms folded across his chest, and that was probably a more pressing issue. Especially since Cale couldn't actually tell what he was thinking or feeling for once.
+
+First things first, though. "I don't suppose you have some sort of drying spell?" Cale asked hopefully.
+
+That made Sternkessel crack a smile, or at least do whatever the equivalent meant for someone like him. The rings of his head spun around a few times in amusement before he shook his head.
+
+"I'm afraid not," he said. "And while I would normally allow you to head back to change, I believe we should have a few words first."
+
+Cale nodded absently, looking around the classroom. "Makes sense. Where's everyone else?"
+
+"There are many discoveries still to be made in the Inverted Spires, and without the Abyssal to enforce its rules, the place is rendered much safer," Sternkessel answered. He reached into his pocket and delicately unfolded a handkerchief before offering it to Cale, who blinked at it for a moment, then accepted it and began drying his face off with it.
+
+It didn't do much. It was just a handkerchief. But it seemed pretty expensive, and he appreciated the gesture. "So, I take it you're letting them earn extra points?"
+
+Sternkessel nodded. "I suspect they could use them, though I am less certain those credits will get them what they want. Still... It is their choice, after what they have seen today."
+
+"I'm not sure I understand what makes them want the credits so badly, to be honest." Cale handed back the handkerchief and tried not to flinch when Sternkessel just folded it and put it back into his pocket. It was wet! It was going to stain that beautiful suit!
+
+Except it did nothing, so now Cale had questions to ask about Sternkessel's pockets.
+
+"Orstrahl's artifact vault is rumored to contain many potential cures to their various afflictions," Sternkessel answered mildly. He patted his vest pocket as if he knew exactly what Cale was thinking. "Among them include many artifacts that improve a mage's ability to attune, or otherwise alter a mana core."
+
+That made Cale wince. Yeah, he could definitely see why they might want those credits. He could also see why some professors might not want them to get those credits. Artifacts like that rarely came without side effects; of all the ones he'd seen, that cloak Damien wore was perhaps the only one that didn't strike him as immediately dangerous.
+
+"Guess that answers that," Cale muttered. "That's not why you brought me here, though. You brought me here because..."
+
+He trailed off, then eyed the professor hopefully. "Because you wanted to hang out?"
+
+Sternkessel snorted, faintly amused once more. "Hardly."
+
+"Because I know what you are? For the record, I wasn't planning on telling anyone about it."
+
+Sternkessel sighed. "I suppose it should not surprise me that you know, but I harbor no illusions as to being able to stop you should you wish to inform others. Believe it or not, that is not why I wish to speak with you."
+
+Cale grumbled something under his breath. "What is it, then?"
+
+Sternkessel leaned back against his desk and tapped a foot contemplatively. "Mages like you are few and far between, Cale Cadwell Cobbs. My test was meant to measure your ability to deal with the unknown, but you exceeded my expectations; I thought you would discover and free the Abyssal within three expeditions. Not one."
+
+"If you wanted to praise me, you didn't have to get me alone to do it." Cale grinned, and he could practically feel Sternkessel rolling nonexistent eyes in response.
+
+"You are a remarkable mage, even putting aside your raw power," Sternkessel said. "But I wonder if you know when to stop."
+
+"What's that supposed to mean?" Cale raised an eyebrow.
+
+"Many of my students are individuals that need to be pushed to their limits to grow as a mage," Sternkessel said. "You, I suspect, are the sort of mage that has never stopped pushing against your limits. Akkau has informed me of your many lives, and I have no doubt that plays a part, and yet... I fear I would be remiss in my duty if I did not speak to you on this.
+
+"I have seen similar talents burn themselves out before. I have seen mages barrel into one problem after the next, in large part because—for all their talent, knowledge, and power—it is easier than confronting what they fear most. I have seen others grow arrogant and overconfident, until they become convinced their power grants them the right to govern others.
+
+"And that brings us to you." Sternkessel's tone was even rather than accusatory, and Cale relaxed slightly. "I have met many mages through the centuries, but I cannot quite place you. In some things, you act faster and more decisively than even the most experienced mage, and yet in others you are callous. Thoughtless, even. Are you one of those mages always on the run, or do you simply do all this for your own amusement? Are you driven by some third, ineffable motive I have yet to discern?
+
+"I have lived long enough to understand that that which is unknown is dangerous." The professor glanced away slightly, remembering some long-forgotten tragedy, and Cale felt a small pang of sympathy. He was very much familiar with that. "And you, Cale Cadwell Cobbs, are an unknown. So I feel it necessary to understand exactly what it is Akkau has invited into our realm—"
+
+"—and take the measures and precautions necessary, if I turn out to be a threat?" Cale grinned slightly, to the professor's evident surprise. This was the sort of direct conversation he appreciated from other mages. All the better that he was doing it out of concern for his students! Sternkessel was trying to hide it, but Cale could tell; he was worried for them.
+
+"...That is correct." The rings of the professor's head clicked and rotated cautiously. "Though it is not the only reason."
+
+"It's good to know you actually care about your students." Cale nodded approvingly, mostly to himself. "To answer your questions: mostly column A, a little bit of column B, and a non-specified amount of column C."
+
+Sternkessel paused. "There will always exist more problems to be solved," he said eventually. "If it needs to be said, you need not throw yourself into every one of them headfirst."
+
+"I've been around for a long, long time, Professor." Cale's smile faded slightly. Others had tried talking to him about this before, but he'd always blown them off. Sternkessel's genuine concern made it much harder to throw out some snarky, dismissive remark and then pretend the conversation never happened. "I know what you're worried about. Trust me, I've been there and back. I know my limits better than anyone."
+
+"That is... good to hear." Sternkessel's shoulders relaxed, clearly relieved, but there was something distant in his expression.
+
+Cale watched him for a moment. "You were worried about me because I reminded you of someone else," he noted casually.
+
+Sternkessel twitched, then sighed. "I suppose I should have expected you to notice," he muttered. "Yes, though that is a rather personal tale. You exhibit many of the signs that Akkau once did. I simply wished to be sure that you would not tread his path."
+
+Well, he had some questions to ask about that, but it was probably best he save those questions for Akkau himself. "Sounds like you were close," he said instead. "You do realize you're the one that decided to send me straight into the Inverted Spires? If you wanted me to slow down, you could have just opted not to test me."
+
+Sternkessel coughed awkwardly. "A genuine miscalculation," he said, a note of apology in his voice. "I am sorry."
+
+"Don't worry, all mages are allowed a hypocrisy budget. Frankly, you could stand to be a little more hypocritical." Cale grinned. "I mean, look at me! I'm terrible at admitting to my mistakes. Because I haven't made any."
+
+That made Sternkessel snort with genuine laughter, some of the rings on his head spinning rapidly. "Is that meant to reassure me?"
+
+"Not even slightly," Cale said cheerfully. "This is, though: I'm pretty sure I know why the Thread of Fate was so active today. If I'm right, things should slow down for a little while now. Or at least for the next few classes." He paused. "Mostly."
+
+"I fear that, too, was less reassuring than you intended," Sternkessel said dryly, but at this point he had taken his seat and was regarding Cale with a warmth he hadn't held before. "It is appreciated, however. Perhaps the academy will have at least a day without the Red Hunters or any reality-warping entities?"
+
+"Aside from yourself?" Cale snarked right back. Sternkessel nearly fell out of his chair.
+
+"I had forgotten that you were able to identify me," he muttered after regaining his balance. He watched Cale carefully for a long moment. "My instinct is to ask you why you are not afraid, but I suppose we both know the answer to that question."
+
+"I know how to kill Indictments, even Greater ones," Cale agreed casually.
+
+Sternkessel didn't so much as flinch—he simply nodded slowly. "But you have no plans on doing so?"
+
+Cale shot the professor a withering look. "You haven't monologued or threatened to destroy the world yet," he said. "Why would I go around killing every Greater Indictment in sight?"
+
+"Most of my kind are blithering idiots bent on world destruction," Sternkessel said wryly.
+
+Cale waved a hand, dismissive. "Bah," he said. "If there's anything I've learned it's not to make assumptions about people. Except for eighth realm demons. Those guys were the worst. Ontologically evil my ass; if there was something more ontologically evil than ontological evil they're probably that."
+
+Sternkessel's rings rotated once, a single click. "...Do I want to know?"
+
+"You don't."
+
+"I will take your word for it, then." The professor paused for a moment, then offered a slight smile. "You do not have any questions about my nature?"
+
+"Oh, plenty." Cale grinned. "I was just waiting for you to ask. How does a Greater Indictment end up like you? You're supposed to be... I mean, you know."
+
+He gestured vaguely. An Indictment was something like a living mana echo created by the very essence of a realm; the conditions under which they formed tended to vary, but more often than not, they emerged as a response to a mage that had performed some truly cruel and terrible magic, almost like the realm itself wanted to punish the mage.
+
+Each time they appeared, they were murderous, destructive beings, tearing through everything in their path until they ran out of whatever strange power source they used. Greater Indictments were even worse, in that regard—they didn't seem to run out, and would simply continue their rampage until a mage of sufficient power figured out how to stop them.
+
+Thankfully, they were a lot more rare. They formed only in response to a sufficient quantity of karmic backlash or when the perpetrators were entire groups of sufficiently powerful mages. The Loomweavers, it seemed, qualified.
+
+Indictments as a whole were still a bit of a mystery to Cale, in large part because he'd never actually met one that was willing to talk. Some scholars theorized they were a realm's means of self-defense, to prevent dark magic from proliferating to the extent that it wiped out the realm entirely. Others thought it was simply how magic balanced itself out, in the same way that powerful light and healing magic would occasionally create an Absolution.
+
+Sternkessel being a Greater Indictment was a delightful surprise, though. To think one of them had taken up teaching, and seemed protective of his students! Bonus points for the fashion sense, too; most of the Greater Indictments he'd met before hadn't really bothered with clothes.
+
+This changed everything.
+
+Sort of.
+
+It changed everything he knew about Greater Indictments, anyway.
+
+"How I ended up as I am..." Sternkessel mused out loud, interlacing gloved fingers together and regarding Cale contemplatively. "I will confess I did have a rather destructive phase in my youth. Changing required a great deal of introspection and growth on my part, I assure you. Contrary to popular belief, we are quite capable of that. It simply requires a sufficient amount of, ah... persuasion."
+
+Cale cocked his head at the way Sternkessel had hesitated, then grinned. "Persuasion related to a certain dragon, perhaps? I'm sensing some kind of history there."
+
+"It is not what you are thinking."
+
+"Sure it isn't." Cale gave Sternkessel his wisest, most understanding nod, to which the professor simply grunted.
+
+"That is all in the past," he muttered in a way that made Cale think it very much was not. "The point is that I diverged rather quickly from the usual path of a Greater Indictment, and it is likely that others of my kind can do the same. One of these days, I hope to..."
+
+His head rings flicked and rotated briefly, and he shook his head. "It is irrelevant. My personal goals are likely centuries, if not more, from making any sort of progress, and I am... satisfied with the life that I have built here."
+
+There was a long pause in which the only sound that could be heard was Sternkessel's rings quietly clicking away. Then Cale offered the professor a small, tired smile. "It's lonely," he said. "Being the last of your kind. Or the only one, I suppose, but the effect is the same."
+
+"You speak as though you understand," Sternkessel murmured. He looked up at Cale, and then his gaze sharpened, several rings clicking into place all at once. "You... do understand."
+
+Cale froze. "I do," he said, almost not daring to breathe.
+
+"There are no other humans." Sternkessel said this as though he was realizing it for the first time, because he was; Cale had never seen anyone capable of recognizing that fact, but then he'd never before spoken to something like a Greater Indictment. "I have not encountered any others. Why have I not questioned this? Why do I know what you are?"
+
+Cale exhaled slowly. "If I knew the answer to those questions," he said, "I probably wouldn't be here."
+
+He could feel Sternkessel's gaze on him, studying him. For the first time in a long time, Cale found himself at a loss for words. He'd dreamed of this sort of recognition for a long time, but had long ago stopped hoping it would happen; now that it had, he had no idea what to say.
+
+"I'm kind of glad someone finally knows," he said eventually. The words felt grossly insufficient. "I've never been able to tell anyone."
+
+Sternkessel's rings clicked briefly, and when he spoke again, something in his voice had softened. "I suppose this means you understand my position more than almost anyone else," he said. "Is this why you reacted so strongly when you learned of the Abyssal?"
+
+"And a thousand other reasons." Cale smiled wryly. "Yes."
+
+Sternkessel seemed to ruminate on something, then slowly nodded to himself. He stood up and walked toward Cale. "If we are both isolated within the Great Realms," he said, "then perhaps we could help one another. I would not mind lending you my strength in uncovering what happened to your people."
+
+Cale blinked. He wasn't sure what he'd been expecting, but it wasn't this. He thought it through for a moment, feeling an odd warmth at the idea that after all this time, there might be someone else to join him on the greater journey.
+
+"Maybe," he said. "I—Thank you. No one's offered to help with this before. There's a lot I still need to do on Utelia, but sometime far in the future, I think I'd like to take you up on that offer." He offered a small smile. "And I'll help you with your people in return, of course."
+
+To think he'd find someone able to understand. Utelia was full of surprises. Cale was looking forward to seeing what it might show him next.
+
+For now, though... well, he wanted to see how that mana-suppressed little girl and the lizardfolk whose neck had been broken were doing. Plus he'd promised to tell Damien and the others how to deal with their magic, and it was past time for him to make good on that promise.
+
+There was only a week left until the Red Hunters were here in force, after all.
+
+And Cale had so many plans.

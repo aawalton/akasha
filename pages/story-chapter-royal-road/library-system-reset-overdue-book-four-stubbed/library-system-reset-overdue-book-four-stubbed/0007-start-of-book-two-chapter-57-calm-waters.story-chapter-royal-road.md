@@ -1,0 +1,229 @@
+---
+id: af9ac0f3-170f-508a-ac51-7f4af5bb0b2a
+page-type-slug: story-chapter-royal-road
+title: "[Start of Book Two] Chapter 57: Calm Waters"
+slug: 0007-start-of-book-two-chapter-57-calm-waters
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 7
+ownLength: 2830
+unit: words
+publishedAt: 2024-01-04
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1465526/start-of-book-two-chapter-57-calm-waters"
+royalRoadId: "1465526"
+---
+
+A partially stabilized Library meant it no longer shook like a wet dog when it needed Quinn to do something. Not that her vertigo went away entirely, just that it wasn't induced by the Library throwing her around.
+
+Quinn stretched, feeling nicely rested after the last few days. She pulled on a pair of comfortable pants - like those leggings with pockets that looked like slacks she'd always admired. Business casual on the outside, soft and stretchy on their deceptive little comfort side. Her little white button-down blouse, and a loose bow that was sort of like a tie around her neck came next. She could have sworn she'd seen librarian uniforms like this. Either way, she was all about ease of movement and comfort. Next, she grabbed a little badge and popped it on the left side of her chest. It simply read Quinn. It was much easier than introducing herself as a librarian; she liked just being a big part of the whole.
+
+It had been a lovely few days since they returned from the Dabilian home world. She could almost forget that she'd been practically bitten in half by a mimic—an actual monster chest trying to eat her. She shook her head at the memory. Aradie hooted and landed on her shoulder. Luckily, all of her clothing now had a leather pad in the precise spot the owl liked to sit. At least she'd avoid her shoulder getting shredded.
+
+Aradie hooted again and cast some images at Quinn.
+
+"Yeah, yeah, I get it. I'm taking a while this morning. Today's the big day." Nothing was going to dampen her mood this morning, not even a sometimes judgey night owl.
+
+Aradie craned her neck around and looked at Quinn, her black iridescent feathers sparkling in the bright morning light that shone through the windows. Window that Quinn couldn't see out of because of how high up they were. She still had no clue where in the universe they actually were.
+
+"What, it is a big day." she said, raising an eyebrow at the bird. "The books should be ready; we should be able to use them today."
+
+The owl nodded, and Quinn smoothed down the uniform she'd chosen for the day, ready to face everyone downstairs. Even if she was running a bit behind. She made her way down the stairs into the wonderful world she'd been sucked into.
+
+The library over the last few days had become a lot livelier. It seemed word was spreading that it being open was not a hoax and that the Library was, in fact, actually open. She descended the stairs very quickly, now quite certain of her footing as she ran down the spiral staircase, only to be greeted by Dottie at the bottom.
+
+"You're late, Quinn." the little bench said, her tone obviously disapproving.
+
+A pang of guilt hit the Librarian. "I know, I apologize."
+
+"Did you sleep in deliberately? Did you oversleep? Did you overdo it last night? Have you been eating?" The bench's words practically tumbled over one another.
+
+"I have not eaten yet. I didn't stay up too late, but I do think I worked a little bit too hard yesterday." Quinn attempted to answer all of the questions.
+
+"That's all? So you overslept then?" Those words gave a distinct hint of disapproval.
+
+Quinn decided she should try a new tactic but didn't get very far. "You're not in the best mood today, Dottie..."
+
+"Of course I'm not." The bench gestured around with one of her front legs." Look at the Library. It's very busy!"
+
+And Quinn really took it in this time. Even though she'd got a glimpse of it as she walked down the stairs, there was actually a line at the check-in counter. And Jim and Bob, the Aracnio brothers, did not seem to be dealing with it as well as she would like.
+
+Malakai and Milaro were nowhere to be seen. Although in his defense, Milaro. had been gone a few days. She guessed he probably had kingly business back in his empire to take care of. Why he hung around the Library so much she still wasn't quite sure of, apart from the fact that he seemed to be Lynx's long-standing friend.
+
+"Dottie, shouldn't you be overseeing the Aracnio brothers?"
+
+"Well, I was just coming to check on you," she said hurriedly and trotted off back to the check-in desk.
+
+Quinn frowned. "That's odd." She shrugged, knowing that Dottie would step in and at least help. She glanced around, unable to see Lynx yet. He didn't appear to be there.
+
+"Did you call for me?" He popped up right next to her.
+
+Quinn was quite proud that she didn't let out a yelp at his sudden appearance. "You've got to stop doing that. I was not directing my thoughts at you."
+
+"You weren't directing your thoughts at me, but you weren't concealing your thoughts from the Library, which means I could hear them." He paused, giving her a rather disappointed look. "Really, Quinn, it's been a few days now, you should have got a hold of this."
+
+She glowered at him. "Seriously, I've had a lot to get a handle on."
+
+He grimaced. "True, true..."
+
+"And I almost got eaten by a chest, by a mimic chest." She finished off the barb.
+
+"Oh, you're exaggerating." Lynx waved it away. "Malakai said you barely got a scratch."
+
+"I didn't get a scratch. I just very almost got a lot of scratches, and my head bitten off." She scowled at him.
+
+"Quinn, don't disasterize your encounter with the Mishiminaghakufrepil"
+
+She scowled at him. "I'll disasterize any encounter where an apparent table turns into a chest that wants to eat my head. And. It was a mimic."
+
+Lynx shrugged and changed the subject. "Have you had breakfast yet?"
+
+"No."
+
+"I believe Cook has made you cinnamon doughnuts." It was like Lynx knew how much that would take her attention.
+
+Quinn grinned at him. "Oh, well that's worth stopping this conversation." She walked toward the kitchen, smelling the cinnamon in the air, glancing over at her office before she made it there. The Library was definitely coming along. She could feel more liveliness in every aspect around her. The Library was adapting to receiving more books, receiving more patrons. All of their ambient magic leaked into it. Every little bit counted.
+
+At least now there was an actual librarian to man the helm.
+
+Quinn had long since decided she liked being the Librarian.
+
+~~
+
+Cook did, in fact, have an entire platter of cinnamon donuts, and Quinn was not the only one eating them. He glanced up as she walked in.
+
+"Hello," Cook said. "You are late this morning, Librarian."
+
+Quinn grimaced that even Cook, the kitchen golem, noticed she was late. It was probably a bad thing. Everyone had access to the interface, they could all tell the time. She didn't even really have an excuse herself. "It's not like I get paid," she muttered under her breath.
+
+Lynx nudged her with a very corporeal elbow. "What do you mean you don't get paid? Of course, you get paid."
+
+"What, you're paying me in earth dollars?" She raised an eyebrow at him.
+
+"No, I'm paying you in Library currency." He scoffed.
+
+Quinn blinked. "There's a Library currency?"
+
+"Yes, it's sort of a universal currency." Lynx answered after a few seconds of contemplating her question.
+
+"And where is this money?" She crossed her arms and shot him a glare.
+
+He caught onto her look and finally seemed a little apologetic. "Well, you have a library account."
+
+She pinched the bridge of her nose between her fingers and counted to five before looking at Lynx again. "We're gonna have a long talk soon about this whole need-to-know basis, plus your weird need to keep stuff from me, before I figure out a way to throttle you."
+
+Lynx took an involuntary step back. "All of this should have been in the information that we transferred you via the chip."
+
+Quinn closed her eyes for a moment, filtering through information, and found it. "Oh," she said. "Oh, okay, I do know. It's just like online banking was back home. I'll be able to access it now..." And she was flabbergasted at the fact that the little screen that popped up in front of her had what looked like a very substantial balance of... "Is that universal library currency, ULC?"
+
+"Yes, precisely." Lynx sounded a little offended.
+
+"I'm sorry, I guess I haven't accessed all the notes properly?" Which felt odd for her since the other magic was accessed far more easily.
+
+"We have had nothing but trouble with me trying to transfer you the initial information for the Library." Lynx let out a long-suffering sigh. "Once we get the infection of my systems sorted, I'll make sure to look further into this. You should probably just take a night and try to go through everything manually in your brain." With that, Lynx walked out of the room.
+
+Quinn cringed. She knew he was in a bad mood.
+
+"Sometimes, Quinn, you can be somewhat abrasive," Cook said, handed her a doughnut, and walked back to cooking.
+
+Quinn stared after the cook. Cook was probably right. She could be abrasive. She didn't always realize it. She'd have to give the Library manifestation a good apology. As it was, she bit into her doughnut, glanced around the room and noticed that not only assistants sat at one of the tables, but there were also several patrons at another.
+
+She shrugged and walked out of the kitchen toward the check-in desk. "Do patrons just eat with us now, then?"
+
+Dottie didn't show any other sign of noticing her presence other than to answer her. "Yes. We've always fed our patrons. We always have food for everybody. That's the Library. If people need food, if people need shelter, if people need magic, if people need knowledge, they come to the Library. That's what we are."
+
+Quinn decided that Earth really needed a magical library of its own. She moved farther into the check in desk and cleared her throat. "Hey, Lynx, I'm really sorry. I shouldn't have snapped at you. I'll do better."
+
+He actually flashed her a smile. "I understand it, you know. Perhaps now more than I would have 500 years ago. This must be overwhelming. Lots of information. Way too much on your plate. I get it. You've done well so far."
+
+"Thank you," Quinn said, preening a little. "We have a few more hours before the final book's done, right?"
+
+He nodded. "Yeah, it's almost done. The others are... You sure you don't want to open the others first, Quinn?"
+
+She shook her head adamantly. "No. We went to retrieve all four of them together. We should open them all together."
+
+Next to her, Jim spoke to a patron who was returning four very dusty and damaged-looking books. There was a chittering sound behind every word the patron spoke. They looked beetle-like but about as big as a Great Dane. And they were explaining something to the assistant.
+
+"These were my mother's books. They were kept in her burrow. She has been dead for a hundred years. We did not realize until we heard the return alert that we had Library books. We apologize for their condition."
+
+"That's okay," said Jim. "Fines are waived for now."
+
+Quinn didn't understand what the creature was in front of her, even though the Library told her it was a Bectiwode. But the sigh of relief was palpable and understandable in any language. She smiled and nudged Lynx. "It was a good idea to not inflict fines on people yet."
+
+"For now." He said, his tone serious. "In, what, just a little over three weeks, we're going to inflict as many fines as we want."
+
+"You sound positively overjoyed by that fact," Quinn pointed out.
+
+"I like giving people fines. Frankly, every predecessor of yours has loved giving people fines, too." Lynx explained.
+
+Quinn grinned. "Maybe I'll let the power go to my head."
+
+Lynx laughed in response, just in perfect timing for Milaro to walk up to the counter and clear his throat. "You two seem to be having way too much fun," he said.
+
+Quinn rolled her eyes. He reached into his dimensional storage and pulled out three very heavy-looking bags in quick succession, placing them on the counter with a thud.
+
+"These," he said, "hold 270,000 Malachite shards. I do have more. I have access to gaining more. But I know that the Library needs to up its current store levels. So, this is a small contribution."
+
+Quinn smiled. But Lynx...
+
+Lynx looked oddly perturbed.
+
+Quinn nudged him. "Are you okay?"
+
+Lynx shook his head and his reptilian eyes flashed briefly through a plethora of purple shades. "I... I..." He looked up at her again, confused.
+
+"Is that one of your missing things?" she prodded gently.
+
+He nodded.
+
+"Okay." She wished she could figure out the connection for him. "Malachite's triggering a missing thing?"
+
+He shrugged and looked at her helplessly. "I know it opens the doors, but it feels like there should be something else. Something that I'm not thinking of and not remembering." He looked so down. Quinn just wanted to hug him, but she didn't really think that Lynx was the hugging sort of person.
+
+"Hey, it's okay." She kept her tone even and as soothing as she could manage. "We're going to get this all figured out. Harish and Siliqua are right on top of it."
+
+"I know," he said, but he didn't sound convinced. He began pulling the satchels they put the chaos books in out of the isolation drawer.
+
+"Is that wise to do right now?" Milaro asked.
+
+"The isolation drawer has made sure they've got the most out of their regeneration." Lynx placed the last bag on the desk. "They'll be absolutely fine."
+
+Milaro raised an eyebrow very surreptitiously in Quinn's direction. She left Lynx to his satchel sorting and walked over to the side entrance into the check-in desk.
+
+"What's up?" She was positioned very close to Jim and Bob as they dealt with the Library's returns.
+
+"Is Lynx okay?" Milaro asked.
+
+"He's just got some real blackouts now. He's not..." She hesitated. Was it really her place? Then again, the future of magic in the universe was something they all had concerns about. "At least he can identify these blank spaces, and that he can't remember things or think of things or..."
+
+"This is not good," Milaro said. "This whole cleansing process appears to be taking Hirish and Siliqua a lot longer than I anticipated. It's going much slower than I expected."
+
+"Is there anything we can do to speed it up?" Quinn asked.
+
+"Maybe." It was obvious an idea occurred to Milaro at that moment. "I'll see. Where's Malakai?"
+
+Quinn shook her head. "I haven't seen him today."
+
+Milaro narrowed his eyes. "You were late today, weren't you?"
+
+"What is with everybody knowing that I'm late today? I won't do it again. I'm sorry I took a longer shower." Except they were right, she did have a big responsibility, but she really just wanted to sleep in. She was quite certain after they unpacked the books, it was going to be non-stop again. These last almost four days had been such a nice breather. "Look, I'm just trying to weather the calm before the storm. Once we open those books, we're-"
+
+Milaro nodded, "I get it. And I'm really just teasing you, Quinn. You're doing okay."
+
+"I thought so." She waved the thoughts away. There were more important things than her feeling a bit tired. "Anyway, I don't know where Malakai is. What'll we do about, you know..."
+
+"You just have to keep an eye on him." Milaro said, his voice still low. "Then I'll talk to Hirish and Siliqua and...
+
+Lynx cut whatever else he was going to say off. "Come here. It's time." There was so much excitement in Lynx's voice, and he couldn't stop the big grin on his face and Quinn and Milaro moved over to where he stood.
+
+"You open them," he said to Quinn. His excitement must have been contagious, because Quinn felt positively giddy. Now they could finally really work at fixing the damned filtration system. If there was one thing she couldn't wait for, it was getting to see the Library in its full and powerful glory.
+
+One by one, Quinn opened the satchels.
+
+She pulled out all four books, very slowly and carefully. Almost reverently even. They weren't slimy to touch anymore. They were just beautiful
+
+Laws of Chaos, Upside Down, Condition: Excellent
+
+Chaos Theory, Myth and LegendCondition: Good
+
+Reality Combined, Chaos Fever DreamCondition: Good
+
+But when she placed Mastering Your Reality Through Chaos down on the check-in desk. It was like the stitching had disintegrated and the whole thing fell apart.

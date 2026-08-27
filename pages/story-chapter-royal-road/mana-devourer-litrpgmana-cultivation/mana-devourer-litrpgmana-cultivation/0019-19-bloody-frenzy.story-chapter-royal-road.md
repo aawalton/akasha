@@ -1,0 +1,235 @@
+---
+id: 4f2902fe-4982-5d26-ad7a-22df83929adb
+page-type-slug: story-chapter-royal-road
+title: "19. Bloody Frenzy"
+slug: 0019-19-bloody-frenzy
+partOf: mana-devourer-litrpgmana-cultivation
+position: 19
+ownLength: 3037
+unit: words
+publishedAt: 2024-07-09
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1711241/19-bloody-frenzy"
+royalRoadId: "1711241"
+---
+
+Markus didn’t know that he was using a skill, not really, not until the blood started to tear from the creature’s neck of its own accord, until the laceration deepened and grew yet more thick as the trimander struggled and strained, not until what had began as a deep cut transmuted into a gaping wound threatening to decapitate the trimander’s flaming head entirely.
+
+With each ounce of blood that flew from the hideous creature, more of it pooled and coagulated around Markus, floating in an ethereal stream, circling him as he dug deeper still into the creature’s flesh, slicing whatever he could from it in a frenzied maelstrom of motion. He ignored the burning sensation of the hot blood against his fingers, the horrendous screeches it belted as he continued to dig deeper…
+
+His pain was immaterial. Each fresh wound against him was mitigated by the creature’s blood, flowing into his injuries and replenishing his lost blood, regenerating Markus’ body even as still he continued to reduce the trimander’s flaming head to a gory, broken mess.
+
+He brutalised it even as he healed, pushing further, sinking deeper into his own bloodlust, eyes wired open. He’d always felt there was a way he could manipulate blood, he’d just never been put in the position to do it, and now, with this creature at his whims, he was finally discovering the first secret to Hemomancy, earning his first point in it even as he continued to take the creature’s head further off of its body.
+
+It finally launched a real counterattack, even as pained as it was, firing acid at Markus once more, hitting him square in the chest and abdomen, searing him, causing him to cry out.
+
+The injuries didn’t last long. The blood pooling around him travelled to the emerging wounds and soothed them before they could even set.
+
+Panicked, desperate, the creature clamped onto Markus’ left arm, which was almost fully healed by now, holding it as lockjawed as it could and twisting its neck hard.
+
+As Markus’ forearm was ripped off of him, the blood sailed through the air to catch it, pulling it from the trimander’s mouth and forcibly reattaching it to his body. It was back before he could even fully register it being gone.
+
+There was nothing this creature could do. Nothing could prevent its fate. Not now.
+
+The draining elapsed the moment his arm left the creature’s mouth, and while he definitely didn’t need more energy from it, he did stick his arm right back where it was.
+
+Not to syphon mana from it again, but to pull its fucking head off.
+
+The creature panicked, tried to recoil away, but it was too late for that. Markus’ grip was too tight and his spell was in full effect, only ripping further with each passing moment, adding more blood to the growing sphere of energy flowing all around him.
+
+He grabbed the creature from the inside, clamping his hand down and finding a decent grip before lurching to the side with an almighty twist, pulling as hard as he possibly could even while he continued to cut through the ligaments of the creature’s mighty neck.
+
+It was like sawing through oak, but eventually, meaningful progress, and once he was halfway through, it was simply a matter of snapping off the rest.
+
+In moments, Markus heard a monumental crash as a fifty pound head fell from his hands, fully severed, smashing into the stone floor beneath as the creature hurriedly backpedaled, crying out in immeasurable anguish.
+
+Markus felt the pooling blood flowing to his injuries and replenishing him further even as he reached down to pick up his glaive. He felt the power swelling and flowing through him, so much mana drained that it transcended anything he’d ever felt before. No power compared to this, to the absolute authority that now coursed through him.
+
+His glaive glowed a brighter ruby than it ever had before, drinking greedily of the remaining energy as the blood flowed into it until it was finally diminished, the blade absorbing all of the remaining mana and then pulsing with satisfaction, the lines etched around its surface looking like those of an open eye.
+
+[E Grade Blood absorbed.]
+
+[Malichor blade 1 << 3. 15 points available.]
+
+[Blood Required for Evolution: 18/100.]
+
+The fuck… did he have a vampire blade?
+
+The effects of [Rend] abated completely as the last of the blood seeped into the glaive, and Markus felt the smirk upon his lips. Why did he feel so good right now?
+
+He didn’t. He felt angry. Angry he’d been put in this position again. Angry others were being put in danger for the amusement of those considered more important. He should grab that fucking Control Ring and turn what was left of this monster on the rich voyeuristic fucks watching this!
+
+And they were still bidding! He could hear the bastards! Why would they even want it anymore, it had a fucking head missing!
+
+That was it. Time to kill this thing properly. That ought to shut them all up.
+
+Markus made to take a step forwards, and lurched a few feet in an instant.
+
+What the fuck?..
+
+A glance at his system was all the explanation he needed.
+
+His mana capacity was at 640%.
+
+Mana Poisoning III was in effect. He didn’t even know what that did.
+
+Mana Poisoning I was a vitality and stamina drain. Mana Poisoning II drained mana too, as well as making everything else that much worse.
+
+What the fuck did III do?
+
+He didn’t wanna wait around to find out. He tried to cast Frozen Tomb again, eager to cycle some of the mana out of his body, but couldn’t hold it for more than a second. What the fuck?
+
+He tried using Empower as he walked, coating his weapon in Flame Mana. That still worked. Manifest’s creations, however, dissipated after a couple of seconds.
+
+He couldn’t use focus-based skills. Anything that required concentration was out. Was that the only penalty III gave? Hopefully.
+
+Thankfully, he doubted he’d need those skills.
+
+Markus dashed forwards, lurching multiple feet at a time in frantic blinks that he could scarcely control. He had to brace himself for the inevitability that he’d crash face-first into this creature as he picked up speed, angling his glaive in a thrusting motion, ready to take advantage of his momentum…
+
+It jumped back, and he missed it completely, rocketing straight forwards, tripping, and smashing his shoulder into the ground as he rolled onto his back.
+
+Markus kept rolling and pushed himself back up. He had so much energy at his disposal. There was no way he’d be taken out that easily.
+
+“What a monster…” he heard someone state in wonderment.
+
+He ignored it. It wouldn’t be much of a monster at all once it was dead. This creature was on the defensive anyways, clearly scared of losing another head. All Markus had to do was catch it once and he could make another wall mount or two to go with the first.
+
+He charged again, dashing forwards so quickly that it felt like time was skipping. Again, he aimed his weapon directly at the creature’s torso as he ran, and again it evaded him, launching itself out of the way and leaving him biting dirt once more.
+
+This was a problem. One that would be much easier solved with a ranged attack, but there was no point wishing for things he didn’t have. Doing so wouldn’t change the situation one bit.
+
+He could feel his body beginning to heat up; the power he’d absorbed was overwhelming, more than he’d ever handled until now. He didn’t know if he’d be able to maintain this state for long, if he’d still be able to lift his glaive in a few minutes or even move his legs. The rational portion of his brain was quiet against the overwhelming screams of power and righteous hubris that ran the forefront of his mind, but he could still hear them.
+
+He couldn’t get lost in this feeling. He needed to find a way to end this fight quickly.
+
+Markus attempted to lunge at the creature once more, this time putting each ounce of speed and power into his charge as he possibly could. He sprinted with full force, so hard that he couldn’t even angle his weapon properly, not that it ended up mattering.
+
+For a third time, the trimander jumped away, and Markus skidded as he landed against the hard stone floor, bruising his ribs and shattering his nose.
+
+He laid there, slowly rolling onto his back, clutching at his chest, panting from the exertion, the adrenaline, the fresh pain as they all mixed together inside. His lungs ached. His legs felt numb and useless. His eyes watered from the impact.
+
+He wanted nothing more than to lay here and not move. Didn’t take long for the trimander to catch wise to that.
+
+It started stumbling towards him, slowly at first, but eventually, it realised he was downed and began to pick up the pace, walking faster and faster—
+
+A four-legged creature ran between Markus and the monster, its bottom half resembling something between a donkey and an ox, its top half both humanoid and absolutely jacked.
+
+“Get on!” the creature shouted, and Markus launched himself to his feet, clambering onto the creature’s back as it sped away, the crowd of richfolk collectively losing their shit at this development.
+
+“Fuck!” Markus swore the second they’d gained some distance. “I was playing possum! I was gonna stab it in the neck the second it got in range!”
+
+“That was a stupid plan,” the centaur said. “What if it’d decided to spit acid at you until it was sure you were dead?”
+
+“It wasn’t doing that! It was coming straight at me!”
+
+“Ah. I’m sure you would’ve been fine then.”
+
+Markus rolled his eyes. His muscles spasmed as he attempted to sit up on the creature’s back. “I’m sorry, did you have a better plan? Or are we just gonna keep circling it until your legs get tired?”
+
+“No. I prefer running away from problems like that than at them. I only did this much because you seem to be our only chance of survival, and no one else was going to reach you in time.”
+
+“Alright, fine.” Markus flexed his arm, testing the weight of his weapon once more. He sat up straighter on the centaur’s back. “How do you feel about jousting?”
+
+“Jousting?” They continued to travel in a wide arc around the trimander as the centaur spoke, lightly panting. “I don’t know what that is. I’ve never heard of that.”
+
+“Okay… how do you feel about running at it while I stab the living fuck out of it with this blade?”
+
+“Not great, honestly. Don’t really want to run at that thing!”
+
+Markus had to stop himself from trying to bribe the creature with a sugar cube. “You don’t wanna just get eaten by it after I die, though, either, do you? So please just trust me?”
+
+“I guess I’m as screwed if it doesn’t work as I am if I do nothing…” The centaur kept running at a wide berth, non-committal, silent for a long while.
+
+When Markus finally reckoned that the centaur had decided to abandon his suggestion, he suddenly felt his body being lurched as the creature veered directly in the path of the trimander, picking up speed.
+
+“Fuck it, I suppose. Chargeee!”
+
+“Some warning would’ve been nice!”
+
+Markus scrambled to angle his weapon as the two of them careened in the direction of the horrific monster. Markus swung with all of the force and momentum he could muster alongside the speed of his travels, grazing the neck of the middle head as he went, the creature’s bite only narrowly missing him in turn.
+
+Whoa, fuck, that was crazy. He was moving so quickly, and he only had a second’s window to both strike and avoid being hit. He tried to prepare himself better this time, to ensure he’d land a more serious blow, but when he did manage to carve a more sizeable portion out of the creature’s neck, he could swear it was more by luck than skill. Aiming his glaive properly was almost impossible at this speeds, it was just impressive he was able to keep it in his hands through all of the opposing force.
+
+On their third run past, Markus missed entirely, and on their fourth, he clipped the creature’s jaw, almost dropping the glaive in the process as a clang! echoed out through the dense chamber.
+
+This was working, though. A few more good hits and he’d finally—
+
+On the next charge, the creature span and swung its tail, knocking the centaur down and sending Markus flying over ten feet, rolling multiple times before he came to a total and agonising stop.
+
+Fuck… He didn’t want to open his eyes, not really, but he had to. He had to make his body move. He couldn’t just lay here, no matter how inviting the prospect might’ve been.
+
+He’d thought the creature might’ve been upon him at any moment, but no. It was going for the centaur.
+
+Maybe that was a good thing. Maybe it’d be distracted by that creature long enough that he could get some of his energy back. It was huge. Surely it’d take a little while to get through it, and then he could get back up and—
+
+No. What the fuck was he thinking?! He had to make his body move now! That centaur had risked his life to try and help him. What the fuck kind of person was he if he didn’t put everything on the line to do the same now?
+
+Markus’ hand trembled as he took a second Essence Stone from his pocket, the one he’d been storing everything but Mystic Mana inside of, and popped it into his mouth.
+
+It went down a lot easier than it looked like it would. The meteoric change within him was just as prominent as it was last time.
+
+Swallowing these things unlocked a new grade of Overcharge. It brought him further over the limit than mana alone could, allowing him to crest absurd heights as the energy dissolved and filtered through his body.
+
+Springing to his feet was simple. Rushing the monster despite the limp from his fall was rudimentary. Jumping onto the monster’s back and scaling it, using the blade of his weapon as a pick to climb further, Markus got atop of it and let his legs dangle over each side of its middle head, slashing and thrusting at the back of its neck over and over with repeated Empowerments of Flame until he finally pierced deep into the frozen neck’s tough exterior, blasting the creature with energy as he poured mana directly into its wound.
+
+He’d been looking for an outlet, and this made sense. If he could pour mana into a stone, he could pour mana into a creature, and this time, his focus was directly on all of the Flame Mana he still had left in his system. He filtered all of it into a boiling assault on the creature’s neck until finally, the frozen head was warm to the touch, the protective ice on its neck having vanished, and the entirety of its middle head steamed and sizzled with fresh heat, the last of his Flame Mana entirely exhausted.
+
+Now that he’d created an opening, all there was left to do was hack away. The creature tried to shake him, to throw him off, but try as the trimander might, he was too firmly perched, his grip too strong, and the creature couldn’t angle its necks in a proper means to strike back. It started to smash itself against a wall, desperate to dislodge him, but the only thing that was dislodged was the middle head from the creature’s body as finally after about twenty consecutive strikes, Markus managed to cut through enough muscle and bone that he was able to kick the remainder of the head from the monster entirely.
+
+He jumped off of the creature as the head fell, sticking the landing and staring at it.
+
+You know how in video games, when a boss is at half hp or whatever, sometimes they enter a second phase where they become much stronger, tougher, and meaner?
+
+Turns out that wasn’t the case with this one. Turns out when you lose two of your three heads, you just become a useless worm-brained monster that can’t even move its body properly.
+
+Markus almost felt bad as he walked up to execute it, sticking his blade straight in the centre of the last remaining head, drooping so far already that it was almost touching the floor.
+
+The last of the creature’s blood crested the blade’s tip.
+
+[E Grade Blood absorbed.]
+
+[Malichor blade 5 << 9. 45 points available.]
+
+[Blood Required for Evolution: 102/100.]
+
+[Evolve weapon? Mana Core Required.]
+
+[Devour the core of the slain creature?]
+
+It took everything Markus still had in him to press yes. He could feel his eyes closing.
+
+Did whoever won the bid have to buy this dead thing now? They’d all gone quiet.
+
+Or maybe his ears had stopped working.
+
+He couldn’t taste anything. Was that normal? Could he usually taste something?
+
+He couldn’t see. He couldn’t open his eyes.
+
+He couldn’t move…
+
+He couldn’t move!
+
+He couldn’t.
+
+He.
+
+…
+
+…
+
+…
+
+A gasp, sudden and incredible. Air was forced into his lungs. A pulse was firmly established.
+
+Markus opened his eyes, the core of the creature flowing into his body as he consumed it.
+
+That hefty dose of energy might’ve postponed the inevitable for him. He’d been so close to the brink that he’d almost shut down entirely.
+
+He couldn’t. Not yet. He still had so much more to do.
+
+He couldn’t let himself get that close again. He’d barely made it this time.
+
+Markus forced himself upright, all the while being swarmed by the rich, the other prisoners, and Elasar’s workers alike.
+
+Apparently, at some point during the fight, they’d stopped bidding on the trimander, and started bidding on him.

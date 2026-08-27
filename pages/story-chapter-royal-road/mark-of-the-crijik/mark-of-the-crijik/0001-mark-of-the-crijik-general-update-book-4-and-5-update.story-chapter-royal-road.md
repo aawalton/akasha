@@ -1,0 +1,199 @@
+---
+id: 695c40f5-8490-5afe-9185-c699efbfd88a
+page-type-slug: story-chapter-royal-road
+title: "Mark of the Crijik: General update + Book 4 and 5 Update"
+slug: 0001-mark-of-the-crijik-general-update-book-4-and-5-update
+partOf: mark-of-the-crijik
+position: 1
+ownLength: 3038
+unit: words
+publishedAt: 2024-02-22
+link: "https://www.royalroad.com/fiction/50243/mark-of-the-crijik/chapter/1528438/mark-of-the-crijik-general-update-book-4-and-5"
+royalRoadId: "1528438"
+---
+
+Hi!
+
+I'm ThinkTwice, the author of Mark of the Crijik (in case you forgot)! I’m here to give you guys an update on Mark of the Crijik and also confirm that I am okay!
+
+Good news:
+
+I am okay! Physically, I am better than ever. Whatever affected me before is now affecting me a lot less, and I now have a gym membership and have rehabilitated to peak condition in terms of strength.
+
+More good news:
+
+Some of you guys may have noticed that Mark of the Crijik has not been updating on RoyalRoad.
+
+To clarify, Mark of the Crijik is not on permanent hiatus.
+
+Why wait so long to update you guys?
+
+So, physically, I’m better than ever.
+
+Mentally it's very different though. Or rather, similar.
+
+Over the past one year and two months of not posting online I've found my mental health has gotten immeasurably better because I haven't been posting on RoyalRoad and affiliated websites. The lack of constant criticism has done wonders for me.
+
+Basically, -and this may shock readers- people who like your novel don’t go out of their way to tell you unprompted or on websites not called RoyalRoad. They do, however, go out of their way to tell you what they thought was bad and will find ways to do so outside of RoyalRoad comments if they can’t reach me there. People would tell me how they would write my story, what was wrong with my story, how much potential they think I have that I've squandered, and many, many messages about how my mc should be more murderous. Yadda yadda, that's boring stuff that won't make your day happier hearing haha.
+
+Which sucks because negative criticisms and comments have directly impacted my ability to write. It doesn't happen to everyone, but it appears that my story just attracted that kind of attention. Not sure why.
+
+If they weren’t satisfied with their own negativity going unanswered, people would follow me to my discord and DM me telling me how they would have done the story or otherwise didn't like it. You can even go back to chapter 1 on RoyalRoad where one person said my novel was good and the other (upvoted) comments all contain variations of ‘I don’t know why people say this beginning is so good. It’s not’. They act like they’re not the majority, but they were. Which is rare even for RoyalRoad. That’s the kind of attention my novel attracted, and I’ve never been sure why, but it happened. Unsurprisingly, almost all criticisms on all platforms came from RoyalRoad readers. Nowadays, I do still get the occasional DM telling me that RR readers deserve an update, but that’s about the extent of the interactions. That's not to say there aren't wonderful and kind commenters (hopefully yourself!), only that there are the other kind too, and those are the ones that tend to stick to me.
+
+That kind of stuff drains me.
+
+RoyalRoad is a very personal website where it’s easy to get access to the author and I see that as one of the website's plusses, but also as the main issue I've personally had. Posting on RoyalRoad I’ve discovered that I'm an arms-length author.
+
+What does this mean?
+
+If you liked the book and commented positively, I want to give thanks and an explanation. Firstly, I'm so glad you enjoyed the book!
+
+I've really appreciated you, and all the good comments, even during my break. In fact, a lot of positive comments also give feedback. Some constructive. Some not. It’s all relative. However, even feedback in positive comments can mark the start of anxiety with me. That’s not a you thing. That’s a me thing (birthed by the negative commenters). I know having positive feedback (or sometimes negative feedback) on people’s books can be a powerful motivator for some authors. and that you're giving me feedback to help me, but it's having the opposite effect on me.
+
+This goes for comments both good and bad. The truth is, I have a hard time with book talk in general (when it comes to my novels). It's why I avoid comments on RoyalRoad and have a hard time looking at them on Patreon. It’s also why I get severe writers block even when facing feedback that is framed as positive. For example, someone told me they loved my novel, but would then point out every single spelling mistake in individual messages to me. They continued this after I told them to stop doing it several times, and the reason was because they figured it was okay due to framing it positively that they were sending me every single mistake.
+
+So, to all the nice readers out there, I'd love to keep chatting if we cross paths, but with a boundary in place when it comes to my books as a topic. It'll lessen my anxiety and let me enjoy talking with you like I normally do.
+
+I couldn’t write. Period.
+
+Before, people were commenting or DMing me telling me my novel is bad.
+
+So, mentally, I was impacted hard.
+
+I became unable to write Mark of the Crijik for a very long time, though I did try to force it quite a lot. Basically, every time I received criticism, I stopped being able to write on the novel for a few days. When you’re facing criticism every week, that just means I had permanent writers block.
+
+Thankfully, I never grew to hate the series. That happens to some authors but I’m really glad it didn’t happen to me. However, I was still blocked from writing it because if there’s only really criticism that I’m seeing and that’s sticking to my mind.
+
+However, the fact that I was blocked every time I saw criticism was a big issue. The block and the fact that I don’t want to be criticized are the sole and main reasons I will never post this story on RoyalRoad again. That’s not a changeable decision. It’s not a discussion. It’s just a fact.
+
+So, has quitting RoyalRoad helped?
+
+Yes! Absolutely!
+
+I don't have any pressure to constantly post and instead I've been able to work on my books at my own pace and actually edit the plots. When I finished writing book 4 and sent it to my publisher, I was really satisfied with it. The ending especially, since it was one, I’d wanted to do for a long time and furthered the plot immensely. Similarly, I felt great when I finished book 5 of Mark of the Crijik because I was able to take time and go over the plot so that it wasn’t just filler due to having to post on RR for the weekly deadlines. Surprise. It turns out that having more time to think about my novels led to plot progression. And pretty heavy plot progression too.
+
+Frankly, the RoyalRoad readers who were nice were the initial reason why I'd been really struggling with a decision on whether to return or not. The only reason I'd have done it is because I feel responsibility to them, not due to monetary reasons or anything (Amazon pays the bills rather than patreon or rr).
+
+But after a year and two months, I decided that posting to RoyalRoad again is simply not in the cards.
+
+As an example, I wrote the initial versions of this particular post almost exactly one year ago.
+
+Why didn’t I post them?
+
+Simple. Until now my anxiety from simply thinking about posting an update on Mark of the Crijik on RoyalRoad was too high. I’d freeze whenever I went to click that ‘post’ button. (Quite frankly, I’m not even sure I can post it now. Hopefully I do.)
+
+So, to re-iterate again, the story is not going to be on RoyalRoad anymore. Previously, I didn’t see that happening, and after thinking about it for a year and two months my answer is that it definitely won’t be on RoyalRoad anymore.
+
+Does that mean Mark of the Crijik is finished?
+
+No.
+
+I'm legally contracted and obligated to finish Mark of the Crijik. That contract is with my publisher. This means that Mark of the Crijik will be posted and finished eventually but posting it to RoyalRoad was always a personal choice because my publisher only requires me to post on amazon. I posted on RoyalRoad so people could read my story for free and because that's where I started my writing career. My first story was posted there 9 years ago (dropped after 3 chapters haha). Now I've decided to only post it on amazon.
+
+Why Amazon?
+
+Amazon is a lot easier to distance yourself on. That is all I really need in a website.
+
+I can post my books, but I don’t have to do it chapter by chapter, so there’s less weekly stress. Reviews and ratings come in, but I don't have to read or even see them. People don't dm amazon authors often either, or at least they don't do it on the website, and I didn't really post a place to dm me on there.
+
+I was mostly posting on RoyalRoad due to loyalty to the website, but as my mental health got worse I realized that even if the majority of people are absolutely amazing (and they are) there is pretty much nothing a RoyalRoad author can do about the toxic people. They can be reported, but that's only if you read their comments in the first place. They can be blocked, but again, that's only if you read what they've said or written. And the people who message me on discord can't even be addressed, but you can guess where they read the book from. That's right, RoyalRoad.
+
+In the end, if there’s only a way to react to toxic people after the toxicity, then it’s not worth it. Amazon, meanwhile, is distanced in a way that I can simply be myself and write the story I want to write without facing retribution from the vocal minority.
+
+Some people might say that I should just ignore DMs and avoid servers where I meet those people. But I shouldn't have to avoid discord servers where my friends hang out or DMs. Especially not if the source is a single website.
+
+So why haven't I posted any of this on RoyalRoad?
+
+I touched a bit on this earlier, but I’ll explain a bit more here.
+
+Honestly? I’ve been too scared to post here for my mental health.
+
+Like I said, people were DMing me and not just on RoyalRoad. I'm worried that should I post it in finality that Mark of the Crijik is not coming back to RoyalRoad, those same types of people (I know it’s the minority of people not the majority) might take the opportunity to harass me more. Frankly, I don't really want to even deal with this website anymore but as an author in our genre it’s been necessary.
+
+I know that seems strange to the average person, but these kinds of people don't really care about whether the author is okay or not. They think they own the story and that their word is law, so they would try to harass me and demand chapters and changes. I’ve had more than one commenter outright tell me ‘this isn’t good enough. Do it better next time ThinkTwice, or I’ll be mad’. It’s happened before, so I don't particularly want it to happen more.
+
+Posting a full book to amazon and just letting it lay there is much easier for me.
+
+Does this mean I'll never post on RR again?
+
+No. I haven’t mentioned this much in this post, but I'm physically disabled with arthritis (specifically; reactive arthritis.). It's not the worst thing in the world and no longer impacts my daily activities (very, very rarely will I get a flareup anymore), but I can't really work most normal jobs and I mostly use speech to text to type.
+
+So, my potential jobs are to be an author or a voice actor.
+
+Is that why you have a new story posted while not updating Mark of the Crijik?
+
+Yes. My current story The Root of All Evil is being posted on RR and has one completed book currently.
+
+I wasn’t sure I’d be able to do it. But I could. Which is how I discovered that while posting on Mark of the Crijik is too tough for me to do, posting on other stories is a lot easier to do. Essentially my writers/posting block is just for this story, and that’s because the negative comments I got were about this story. My mind now produces a bunch of anxiety every time I think about posting Mark of the Crijik to RoyalRoad.
+
+It helps that The Root of All Evil isn’t a very popular book, which means less overall audience and people who are less likely to DM me bad stuff. I’m also trying to mimic the amazon model. If people start going to dm me on discord or other places about that book too, then I'll have to re-evaluate again if I want to be on RoyalRoad at all. I give my book away for free because I want to, and as soon as that want is gone, then I just don’t post anymore. It’s as simple as that.
+
+Once this series (and any other future ones) has been given time to be read for free on RoyalRoad, I'll be posting them to amazon where I not only have the benefit of seeing my books officially published (which is super cool!) but also be paid to have it there and not be harassed.
+
+In conclusion:
+
+Like I said, I've felt a lot better since stopping. Like. A lot better. So much better.
+
+Just know that the series will never be dropped. I'm legally contracted to finish it! But I will not be returning to RoyalRoad.
+
+People that have received my novel for free seem to be the most vocal about what they hate. And I just have to admit I'm not the kind of guy that can handle that kind of closeness between readers and authors.
+
+The End (of the RoyalRoad updates):
+
+Whew. This turned out longer than I thought it would. I thought I’d post this one year ago. Turns out I couldn’t do that. So it the post just kept getting bigger and bigger.
+
+Either way, if you’ve been thinking about me, thanks! All is good! I look forward to bringing you more books in the future (on Amazon, not RoyalRoad)!
+
+Oh wait, what about book 4 and 5?
+
+Yes, I have updates!
+
+As I’ve mentioned, Mark of the Crijik is on Amazon.
+
+As some readers may recall, I stopped updating on RoyalRoad. The last chapter updated was the beginning of act 3 in book 4 of Mark of the Crijik. So, book 4 on Amazon goes past what is on RR and continues until the end of the book (so the entire third act basically).
+
+Here is the link for MotC book 4 The Burning Lake: https://www.royalroad.com/amazon/B0C3LDKWTC?maas=&ref=dbs_mng_calw_3
+
+On top of that, book 5 is also now complete.
+
+I’ve handed it to the editor, and it will be released on March 6th (about two weeks from now). I won’t lie, book 5 turned out pretty insane. Essentially, I got to sit back and ask myself ‘where do the plot and character relationships really want to go’ and so book 5 is all character, plot, and power progression. (More so than book 4, which gets fairly plot heavy in the last act as well. This is due to the exact same reason in that I had more time to think over the MotC plot while not posting on RR and then I edited the badly paced fluff out).
+
+It’s also by far my longest book ever at 215k words (for reference, Mark of the Crijik book 1 is 110k words), and the reason for that is that the series is entering a new phase.
+
+Here is the link for MotC book 5: The Ascension:
+
+Also, I have a new series out: The Root of All Evil.
+
+The Root of All Evil is my new series. It’s set in the same world as Mark of the Crijik but focuses on completely different aspects of the universe and wider world. There are some differences that become apparent with time (or immediately if you’ve read Mark of the Crijik).
+
+Just like Mark of the Crijik, there is a divine that is present in the series (MotC has The Crijik). The Root of All Evil focuses on a different divine, Ength. They’re the divine of symbols (whose descent led to symbols appearing and the birth of monsters in the world).
+
+Here’s the link to The Root of All Evil: https://www.royalroad.com/fiction/74563
+
+Here's the link to the Amazon pre-order: https://www.royalroad.com/amazon/B0CRXQMQ7R
+
+Here’s the summary:
+
+On Earth, he was a titan of industry. Now, he is prey.
+
+In his past life, Dollar was an unparalleled mind forged by the flames of tribulation. He'd built his wealth and influence from nothing and never looked back.
+
+But after dying and reincarnating into the world of Ioa, he is thrust into poverty and trapped in a forest of flames with nothing but a decrepit wooden hut to protect him.
+
+With family out to kill him, an army of monsters surrounding him, and omnipotent gods sent to assassinate him, Dollar finds that in this new world, success is defined by adversity.
+
+He's climbed his way up from rock bottom once, and he refuses to stay there again.
+
+Knowing he will need his wits and more to survive, he learns the art of rune crafting and gains access to a System. From there, he'll begin his ascent. With the power to craft infinite effects and mold existence itself, nothing will stand in his way.
+
+With the entire world stacked against him, Dollar has them right where he wants them...
+
+The End (of the update):
+
+Hi guys! If you’ve reached the end of this update, I’m glad! I hope you have a wonderful day and have many grand reading adventures.
+
+Also, I hope you have a magnificent birthday cake this year!
+
+Kind regards,
+
+ThinkTwice.

@@ -1,0 +1,399 @@
+---
+id: b24dff31-5032-59ae-89a6-af509a3d1fb6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30"
+slug: 0031-chapter-30
+partOf: light-cleric
+position: 31
+ownLength: 4837
+unit: words
+publishedAt: 2021-08-28
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/741329/chapter-30"
+royalRoadId: "741329"
+---
+
+Temperance sat on the floor of their shared bedroom while the girls sat on their bed, rapt attention on Temperance as she told them a story about their journey from Wheatridge to Olytan Lighthouse. The journey, of course, was false, but the story, about staying in the palace of Noble Putnam and his falsely accused wife, of the treacherous chief butler and the midnight raid, was all true.
+
+Idly, Piety wondered if there really was a town called Wheatridge. It seemed plausible. In fact, giving it more thought, it seemed likely there was more than one.
+
+Piety lay on the bed she shared with Temperance, eyes closed, and tried to focus. She was supposed to be using this time to plan what for what came next; should Frederick and his ilk begin feeding on the citizens of Olytan Lighthouse, or should Devorah attack, or the Twilight Intersect, one of the outer orbiting, aetheric realms, one of the realms of light, finally Intersect with the Prime Realm.
+
+Hirrom had told her that while he might be able to predict the Intersection with certainty if he knew all the factors of the realms’ orbits, such knowledge was vast at best and all he could say was he felt it would be soon.
+
+Tobias was supposed to have contacted the Magistrate of Olytan to convey Royal Isabel’s warning of a potential assault on his city by Kempenny forces, not to mention Frederick Vahramp’s interest in the city and the metaphysical intersection with the Twilight Realm. Piety hoped he had been able to convince the magistrate of the imminent danger but wondered what the magistrate could do about it.
+
+Piety tried again to quiet her mind and seek her scattered companions, but though concentration came easily to her, despite the thrilling tale spun by Temperance, finding Tobias or Hirrom didn’t work. Telepathic communication had become difficult, a side effect of the coming Intersection, or so Hirrom claimed. Piety was certain that if she sought the cosmos, she’d be able to overcome the Twilight Realm’s interference, but she wasn’t ready to commit to the cosmos until absolutely necessary.
+
+A quiet knock preceded the entrance of the Abbot. “Time for bed, girls.”
+
+Rose and Summer sighed with reluctant acceptance and let Temperance tuck them into bed. “Tomorrow night, I’ll tell you about the time I met a cleric who could heal with magic, all right?” The girls made excited sounds of ascent, and Temperance hushed them gently.
+
+“Tempy, do you know any stories about the Light Cleric?” asked one of the girls, Rose, Piety thought.
+
+“I know a few. But we’ll have to save them for later.”
+
+There were a few more sleepy noises that were likely meant to be words, and then Piety felt the girls drift to sleep.
+
+“You’re good with them,” noted the Abbot. “Have you ever considered becoming a cleric, Temperance? I think you would be a competent leader of a church or abbey of your own some day.”
+
+“A leader? Me? No, Pi… Sweep is…”
+
+“Piety is a kind-hearted girl, and a fantastic sweeper, but her path, I think, lies elsewhere.”
+
+Temperance coughed uncomfortably. Piety opened her eyes and sat up. The Abbot regarded her with patient eyes and a small smile.
+
+“Piety? Who is that?” Temperance asked, though the lie was stilted.
+
+Piety shook her head. “It’s all right, Temperance. The Abbot has known all along, haven’t you?”
+
+The Abbot shrugged. “I certainly suspected. There aren’t many girls out there with white hair going by the name Churchstep. I assumed you had your reasons.”
+
+Piety and the Abbot regarded each other for a few moments more before the Abbot looked at Temperance. “Think on it, dear. Good night.”
+
+Temperance closed the door after her and climbed into bed with Piety, pulling the covers over them both.
+
+“She’s right,” Piety said. “You’d make a fantastic leader of the church.”
+
+“But, I don’t believe in God.”
+
+Piety nodded. “I think that’s what would make you great.”
+
+• • •
+
+When she awoke, it was to the sound of rain hammering on the slate shingles of the abbey at Olytan Lighthouse, and she knew it had begun. She recognized this storm as its winds swirled around the building, whistling at windows and rattling at shutters; she recognized the dark clouds that made evening out of noon, threatening to collapse the sky with their weight; she recognized the pounding rain and sudden lightning and rolling thunder. This was the storm of her dreams, heralding war.
+
+Piety sat up suddenly.
+
+Temperance sat up next to her, eyes wide and breathing hard. Rose and Summer were startled from their sleep. One of them screamed sharply.
+
+“Temperance, I have to go now.”
+
+“What are you going to do?”
+
+“I don’t know. Stay in the abbey, you’ll be safe here.”
+
+“Wait, what if you need me to pull you from the cosmos?”
+
+“If I need you, you’ll know.”
+
+“How?”
+
+“I don’t know. How have you ever? I have to go. Now.” She opened the small trunk at the foot of their bed and dressed: stout boots, leather pants, a warm, stout dress, all of it white, or a travel-stained version thereof. When she was done, Piety pulled the sunburst amulet out from under the collar of her nightdress by the thin leather cord around her neck.
+
+Rose and Summer stared at them, tears on their cheeks, clutching at each other. Piety looked at them.
+
+“You’re safe here. Stay with Temperance, all right?”
+
+Lightning lit the room through the shuttered windows and cast their small faces in sharp relief. They nodded.
+
+She needed to get outside, to see what was going on. She considered the window, but that would let the storm in, potentially frightening the children. She opened the bedroom door. The hallway was abuzz with concerned voices.
+
+“Piety.” Temperance put a hand on her arm and joined her in the hallway. She looked at Piety, tears already welling. She swallowed hard and took a deep breath. “I love you. You know that, right?”
+
+Piety smiled at her friend. “Yours was the love I could always count on. I love you too, Temperance.”
+
+Temperance hugged her hard and kissed her cheek several times in quick succession before letting her go so suddenly Piety nearly fell. Temperance looked like she wanted to say more, but she bit her lip instead and gave Piety a small push to the stairs. Piety squeezed Temperance’s shoulders and left.
+
+Outside, the chaos of the storm was echoed by soldiers in the street. They hurried down the rain slick cobbles, white tabards marking them out amongst the villagers who crowded the way to look.
+
+Piety cloaked herself in telekinetic power to keep the rain off and warmth in.
+
+Someone screamed. It was high-pitched to carry over the hubbub and brought quiet to the immediate area. People looked around in an attempt to discover who had screamed and why, but Piety was the only one whose gaze was drawn to the lighthouse. Somehow, she’d known it would be at the lighthouse.
+
+The lighthouse was a beacon of light in the storm; a steady flame enhanced by carefully crafted and well-maintained mirrors. Above the lighthouse, almost blending into the grey storm clouds, a fissure opened in the sky spilling grey light onto the lighthouse, turning the light grey and dimming it to the shadows inbetween light and dark.
+
+The Twilight Intersect was one of the Aetheric Realms, a constant, unchangeable. Piety looked into the fissure and saw nothing. There was nothing physical within, only twilight and all the abstract notions such a massive grey area connoted.
+
+Piety cast her mind voice to Hirrom, shouting to be heard over the interference of the Twilight Realm.
+
+“Where are you? The Intersect is happening now.”
+
+But the interference was too great.
+
+Piety touched her mindspace and opened herself to the cosmos. Power flowed into her. Instantly she felt less attached to the situation, less a sense of immediacy. She knew what needed doing, but she felt less concerned with what might go wrong. She took a moment to examine individual raindrops as they streaked to the stones and splattered against them. She listened to the panicked thoughts of the people of Olytan Lighthouse.
+
+“Hirrom.”
+
+“I’m here, Piety. I hear you.”
+
+She could see them, huddled in their cave, hungry, tired, and afraid.
+
+“It’s here, at the top of the lighthouse. You need to come now.
+
+“We can’t. We can feel the fear, smell the blood. If we come now, we may lose control of the bloodlust.”
+
+“But the Twilight Realm is here. This is why we came.”
+
+“We came to defeat the bloodlust. If we give in to it now, all is for naught.”
+
+Piety cursed and looked at the space above the lighthouse. Surely they hadn’t come all this way for nothing. Perhaps she could bring them to the rift, pull them through the air with telekinesis and thus deliver them to the Twilight Realm. All she had to do was get there, which wasn’t so hard.
+
+There was a second scream, and Piety realized the first hadn’t been for the advent of the Intersection, but the arrival of the vhamps. The horrendous wretches skittered along the rain slick streets and rooftops, leaping upon their prey with deadly efficiency. Piety hadn’t felt them coming. Was that because she’d been so focused on getting Hirrom to the Intersect, because of the Twilight Realm’s interference with her metaphysical senses, or something else?
+
+The questions slid away as she pulled power through the cosmos and focused on turning that energy into light. She pinpointed one of the creatures slithering along the street toward her and let loose a powerful beam of light. But when the power loosed from her hands and struck the beast, it was not the blinding white light she had expected. Instead, it was a grayish light, as though filtered through banks of heavy clouds. It was twilight. The vhamp was stunned, but not destroyed.
+
+“So much for the Light Cleric,” Piety muttered. If the influence of the Twilight Realm stifled light, she’d have to find another way to destroy the vhamps. The answer came to her quickly as she remembered that night in the house of the mayor of Sunslance when she had watched Father Vytal wield the power of his mind like a sword, destroying their minds.
+
+She let her mind expand to cover the block, then the neighborhood, pinpointing each vhamp by the sickly ruddy glow of their auras. She concentrated, and the chaos around her slowed as though catching its breath. Many vhamps had victims in hand or jaw. Some victims had been infected by the venom of the vhamp. Piety pulled on the power of the cosmos, like drawing a large, overstuffed quilt off the drying line in summer, all heavy, cumbersome warmth, and did several things in quick succession in several places at once.
+
+First, she severed whatever part of a vhamp had hold of a person: hands and fingertips and jaws. She was precise with her bladed telekinesis, no victim of a vhamp suffered its edge. Then, with a sometimes subtle sometimes heavy shove, depending on what would put the vhamp furthest from any other potential victims, she isolated each vhamp as best she could. Finally, she sharpened her telepathic power to a long thin point made to breach mental shields and thrust while at the same time encasing each in a second shield to contain the mental scream she knew would result.
+
+And reality caught up with her.
+
+All around her the screaming chaos continued even as vhamps slumped to the ground, blood leaking from eyes, ears, and noses. The blood pooled on the west streets to be washed away by pounding rain.
+
+Though she had channeled the power of the cosmos and not her own, so much power so quickly left her feeling raw, as though she’d stayed too long in the sun. Hirrom had said the power of the cosmos was dangerous and she’d thought he meant she might lose herself to it, but now she wondered if he’d meant she might channel so much power that it harmed her. She closed her eyes and took a breath. For a moment she could see the room in her mind, as it had ever been: bookcase, desk, chessboard. There was still no response note from Devorah. With a quick thought, Piety channeled healing energy and instantly felt better though she knew it was a temporary fix.
+
+Around her, the storm continued. There were more vhamps in the city she knew, but from here, on the street, it would be difficult to find them. She needed to be higher.
+
+“Little sister?”
+
+Piety turned to find Devorah Kempenny in close-fitting, black clothes plastered to her body by the rain. She held a rapier, but Piety got the impression the older girl had several other weapons secreted about her.
+
+“Devorah. I was hoping you would respond to my letter. You need to call off this attack.”
+
+“I… They don’t answer to me.”
+
+“Then why are you here?”
+
+“Freddy Vahramp. He survived.”
+
+“I know.”
+
+“The Intersect will make him more powerful. I’m going to kill him before that happens. Will you help me?”
+
+She wanted to help. Slaying Vahramp would make everyone safer. But she had promised Hirrom and his students she would help them. In the distance, the sounds of battle provided a steady droning undertone. Something large pounded irregular rhythm against the walls of Olytan Lighthouse.
+
+“I need to help Hirrom first. The Twilight Realm will remove the bloodlust.”
+
+Realization sparked in Devorah’s expression. “Hirrom Berek? Piety, no. You can’t give him access to the Intersect. Didn’t you hear what I said about it making them more dangerous?”
+
+“Devorah, I have to do this.”
+
+“No, I won’t let you.”
+
+Piety pulled at the cosmos and spread her telepathic awareness as far and wide as she could. Panic, fury, fear—the minds of the people of Olytan Lighthouse and the High Cleric’s army, and the Mountain Kingdom warriors were buffeted by storm and battle and undead. But she could only do so much at once.
+
+“I’m sorry,” she said to everyone and no one.
+
+Devorah cursed and slashed her sword at the storm. “I will stop you if I must.”
+
+Piety felt the raging bloodlust of Frederick Vahramp slithering through the rain toward them and bit her tongue on a warning. Instead she met Devorah’s gaze calmly though it pained her, even through the cosmos.
+
+“I think you’ll have your hands full, big sister.”
+
+Devorah’s eyes narrowed and she looked up as Frederick leapt from a roof top toward her.
+
+While Devorah and Frederick scuffled, Piety leapt through the rain, making for the lighthouse on bursts of telekinesis. But at an intersection near her goal, she was stopped by a cruel voice she knew too well.
+
+“Sweep, my wretched child, how fortunate that I’ve found you.”
+
+Even through the stifling calm of the cosmos, Piety felt a clutch of fear at that voice. She spun to look down the street. Coming toward her was Willow Vytal. She looked younger than when Piety had last seen her, no hint of grey to her hair. Her face was disturbingly perfect. When she smiled, she showed off a set of elongated canines that almost seemed delicate.
+
+Without hesitation, Piety struck at her with a poniard of telepathy. Willow staggered and her smile was replaced by a snarl. In that moment, she became a thin, sharp thing, a creature designed for predation. Her mental shield was stronger than Piety had expected, but not stronger than the power she could channel from the cosmos.
+
+“Wretch! You dare attack your mother? I will kill you as I should have when I found you on the step of my church!”
+
+Piety was repulsed. Willow thought of herself as her mother? The idea was disgusting, but it gave her pause. She’d given Willow a chance to recant back at Sacred Heart not because of any misguided affection, but because if she could offer a second chance, or a third, without harming others, why shouldn’t she?
+
+Willow hissed and charged, her footing on the wet street certain, her fingers elongating to claws, her eyes glowing with rage and bloodlust.
+
+With a well-practiced downward thrust of telekinetic energy, Piety was airborne. She dragged Willow in her wake with invisible hands under her arms. She streaked to the rent in the sky over the lighthouse where the Twilight Realm intersected with the Prime Realm.
+
+From this vantage, her senses open, she could see the battle spread from the main gate of Olytan Lighthouse. Siege engines of all shapes and sizes pounded the massive wall where white-clad defenders rained death upon the invaders. It was not precisely as it had been in the dream, but the death and destruction was the same.
+
+“Piety! We’re nearly to the walls.” Hirrom’s mind voice sounded far away and distorted, but she recognized his urgency.
+
+Piety clenched her jaw. She couldn’t take Willow to Hirrom, but neither could she ignore his call. She pulled hard at the cosmos and considered the space between. Telekinesis let her move objects through space, perhaps it would let her move space itself. If she could just twist space quickly enough, she might achieve two tasks at once.
+
+“I’ll meet you at the wall.”
+
+She held firm to where she was, the moment stretched, and…
+
+• • •
+
+With a strong twist of telekinesis, she stood with Hirrom on the western wall of Olytan Lighthouse, far from the siege. His students huddled around him.
+
+“Piety!” Hirrom hugged her and she returned the embrace. She could feel his joy, like a warm pair of socks on a rainy day. “You came. We were beginning to think something had happened.”
+
+Piety wasted no time. “Devorah Kempenny battles Frederick, but she also seeks to destroy you. I will take you, one by one, to the rift. We must be quick.” She looked at them, they looked back with awe, and hope, and expectation. None sought the blood of the battlefield, none shied from the twilight, none wavered. She held her hand out to Hirrom, but he shook his head.
+
+“The other’s first. I’ll be last.”
+
+First was Abigail Oats, the farmer’s daughter, the first of the other vhamps to have tasted her blood. Piety held out her hand, and Abigail took it, her fingers trembling, her jaw clenched, but her gaze full of nothing but trust. A thrust of power and they were airborne. Abigail gasped but Piety gave her no time to panic. She twisted the space between here and there and it seemed the Twilight Realm welcomed her, helped pull her to it and it was all she could do to stop below it rather than hurtling into it.
+
+Abigail looked into the Intersect of Twilight, the Place of Eventide, an Aetheric Overlap of Realms, without form, and she sighed. Tears tinged pink leaked down her cheeks and were scattered by rain. Piety swept her arm up and tossed Abigail with her telekinesis. In a moment, the girl was gone.
+
+Second was Rylie Pearce, a glassblower from Kempenny Province. Third was Lloyd Wade, a smith’s apprentice. Fourth was Deanna Hitchlock, a woman from Artio Province, mother of five and grandmother to three. Her eldest daughter-in-law and been expecting her second child when the vhamps attacked. Each of them went to the Twilight Realm with a thrust of power and were gone from the Prime Realm. Just like that, Piety was a third done with the task—not counting Hirrom.
+
+• • •
+
+The moment slowed.
+
+Piety drew Willow up until they were face to face. Willow Vytal was a horrible person, but Piety found herself in a position to offer that second chance. She thought of Hirrom and the vhamps he had saved with her blood, and she wondered if she could have saved the vhamps in the city below rather than attacking. She wondered if she should feed Willow her blood.
+
+“This is your last chance, Willow. The realm beyond has no physical form. If you survive beyond there will be no bloodlust, no greed…”
+
+“Don’t dare to lecture me on greed, wretch. You always wanted what I had, always sought after your betters. You should have stayed in your place.”
+
+Piety shook her head. Perhaps this was a bad idea.
+
+• • •
+
+Between tossing Deanna into the Twilight and returning for the next, her body was pierced by pain she could feel despite the cosmos.
+
+Devorah cursed, her voice a low growl.
+
+Piety looked down at the pain to find a sword point protruding from her stomach. Absently, she grabbed hold of it only to have her left palm slashed as the blade was withdrawn. For the first time, Piety felt the cold rain of the storm.
+
+Piety drew on the cosmos, a warmth to battle the cold of storm and shock, and the wound closed. And she drew on more and wrapped telekinetic force around Devorah, gripping firmly to keep the girl still. Perhaps if she was given a chance to explain, Devorah would see it her way.
+
+But Devorah traveled the omnipresent shadows of Twilight to face Piety from mere inches, balancing on shadow; her aura black against the grey shadows, sparks of blue dancing at the edges.
+
+“Don’t be foolish, Piety.”
+
+She couldn’t go back to the wall, it would lead Devorah straight to the vhamps, but if she twisted space quickly enough…
+
+“Have you killed Frederick yet?” Piety needled.
+
+Devorah sneered. “I’m working on it.”
+
+Piety teleported and Devorah followed.
+
+Piety appeared outside the city walls in war-churned mud. Devorah appeared behind her and immediately had to parry a strike meant for someone else. Piety stood there only a moment before she stood on the wall next to Imogene Avoy, a weaver. When they went to the space just below the Intersect, Devorah was there to meet them. Piety didn’t bother with the toss, she just let go Imogene’s hand and teleported her from the Prime Realm.
+
+Devorah screamed and slashed at Piety’s throat. Piety took the moment to draw more power and healed the wound even as it was made.
+
+“I enjoyed our chess games, big sister. I wish we could have gotten to know each other better.”
+
+Devorah slashed again but Piety was already gone. Unfortunately when she stood among the vhamps, Devorah was already among them. Piety would have to be faster. Devorah had already taken the arm of a man and was about to run him through.
+
+“As did I, little sister. I was always a step or three ahead of you in those games, wasn’t I?”
+
+Piety reached and clenched her hand. Devorah’s rapier disappeared, tossed a hundred miles away into the ocean.
+
+Devorah spun, a blur of shadow, her rapier reclaimed.
+
+Piety teleported behind the man who’d lost his arm and at the same time did not. Almost no blood leaked from the man’s dismemberment. His name was Malcom Wotherspoon; he was a carpenter.
+
+Piety took hold of him while watching Devorah thrust that awful sword at her. At once she teleported skyward and stayed where she was. She grabbed the hand of Treman Maycock, a farmer, and Alice Beale, a printer, as Devorah’s rapier jammed into her shoulder. She both felt it and did not. Again she teleported to the sky. She was tempted to toss those she had and come back for the rest, but she knew it wasn’t time for the endgame, she had to continue setting up the board.
+
+She healed her pierced shoulder, but Devorah was fast, and the next strike took her left knee. She fell to the stone floor of the wall. Somebody screamed.
+
+And she teleported to Sophie Treuwe, a baker’s wife and keeper of his books; and Nicholas Kirk, a carpenter; and Patrick Swan, a fisherman; and Faith, an orphan of Sacred Heart. And she teleported skyward.
+
+“Yes. Until the end you were always one step ahead. But I won that last game.”
+
+Devorah waited for them at the rent in the sky. But she did not expect all of them. Piety floated in a circle of six, four of her holding one, two of her holding two. Devorah hesitated, not knowing who to attack, and in that hesitation, Piety had teleported them to the Twilight Realm.
+
+But she still knelt on the city wall while Devorah thrust at her throat.
+
+Piety’s vision went blurry. She pulled more power through the cosmos and healed her wounds.
+
+Nearby, Hirrom struggled with Devorah, his hands wrapped around her weapon. It wasn’t much of a struggle. Devorah twisted the sword from his grasp and slashed it at him.
+
+Hirrom fell over the side of the wall.
+
+• • •
+
+The moment hesitated.
+
+Willow slashed at her with the speed of a vhamp, and as she had in the chapel of Sacred Heart, Piety let it happen. Willow would not change.
+
+“I’m sorry,” Piety said, and sorrow touched her through the cosmos.
+
+But only for a moment.
+
+In the next, three focused poniards of telepathy pierced the vhamp’s mind. Piety shielded herself against the telepathic scream and closed her eyes against the vision of blood leaking from the eyes, ears, and nose of the woman who had tortured her for years.
+
+• • •
+
+“Devorah! Leave him be and I’ll help you kill Frederick.”
+
+Devorah paused and looked over her shoulder at Piety.
+
+“Please.”
+
+Devorah nodded.
+
+“I’ll wait below the Intersect. Chase him there. Keep his attention on you. I’ll catch hold of him and you can pierce his heart.”
+
+“That’s risky.”
+
+“I know.”
+
+• • •
+
+Piety teleported over the side of the wall where Hirrom clung to the stone, using fingers like claws to climb. She took hold of him and sprang to the sky.
+
+• • •
+
+She stood upon nothing a moment before she got there. Frederick leapt from the peak of the lighthouse to the Intersect but she caught him, grasping him from behind and holding him steady, her telekinesis rigid against the storm.
+
+• • •
+
+And the moment caught up with her.
+
+Piety tossed the body of Willow Vytal into the Twilight Realm.
+
+Piety held Frederick as the bullet destroyed his heart and hers.
+
+Piety stood beneath the point of Intersection, but the rent was gone. Hirrom still in her arms.
+
+And as Frederick’s life poured from his chest, she found she could not heal her own wound. She pulled on the power of the cosmos, but it streamed straight through her into nowhere, like a pump with a broken handle, spewing its contents without restraint.
+
+Her whole body tingled, as it had when she was a child and knelt before the altar of God. Chimes rang faintly, just on the edge of hearing. She blinked and she could see the room in her mind, but she was on the other side of the wall, in the cosmos. In the room, standing at the edge, was an old woman with kind purple eyes.
+
+“Well, I suppose this is the way things start.”
+
+“Minerva, is that you?”
+
+The old woman nodded.
+
+The room beyond faded, as though a cold fog slid in.
+
+“I don’t understand.”
+
+“You were right you know; it is a sort of gift.”
+
+Piety reached to her mindspace but it was as though the wall was still there. Her hand that was not a hand pressed against it but would not pass through. The fog beyond the purple-eyed woman swirled in a cold wind. It began to snow in the mindspace.
+
+“Piety, you must let go of the cosmos.”
+
+Piety pressed harder. “It’s all that’s holding me together.”
+
+Minerva nodded. “I know.”
+
+“Then why?”
+
+“You’re connected to them, the other girls, and if you hang on, you’ll burn them up, just as you did yourself.”
+
+“Piety! Piety if you can hear me, come back!”
+
+Piety sighed and it was as though she expelled the weight of a fortress from her shoulders. She felt relieved and exhausted. Even in the place that was not a place, without form, she felt relief.
+
+“Am I dying?”
+
+Minerva shrugged. “After a fashion. But then again, not really.”
+
+“It feels like I’m dying. I couldn’t heal the wound.”
+
+“Piety, you said I’d know, and you were right. Come back, please come back.”
+
+“What about Temperance?”
+
+The snow became a blizzard. Piety gazed into Minerva’s vivid purple eyes as though from a great distance. Her vision blurred.
+
+“They will die if you persist in the cosmos. Piety, you must let go.”
+
+“Piety, hang on!”
+
+Outside, just beyond the room in her mind, she could sense the passing storm. She could hear Devorah’s screams of sorrow. She could feel…
+
+“But what about Temperance?”
+
+Minerva sighed. “I’m sorry, Piety.”
+
+“Piety?”
+
+Piety took a breath that was not a breath, leaned back in the space that was not a space, and let go the cosmos.

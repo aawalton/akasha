@@ -1,0 +1,185 @@
+---
+id: cb700e90-7305-5db4-9a27-92ba69653520
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Alarm"
+slug: 0002-chapter-2-alarm
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 2
+ownLength: 2771
+unit: words
+publishedAt: 2023-10-21
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1381396/chapter-2-alarm"
+royalRoadId: "1381396"
+---
+
+The red glow suffused the area, like a thin veil of miasma drifting over the ground. If it weren’t for the low blaring alarm trying to burrow into her ears, it’d almost be beautiful.
+
+Quinn had to stop for a moment to let her thoughts catch up with her. The alarm faded into the back of her mind in a neat partition of concentration. She’d learned to shut out the noise of her foster siblings early on. This wasn’t too different on that level.
+
+But she couldn't quite wrap her awareness around what was happening otherwise.
+
+The way the alarm honked reminded her of geese in flight when they took off in their flocks. The timber of the walls all around her reminded her more and more of old Californian redwoods, with the way the intricate knots played with each other, and the grain of wood brushed in the same direction consistently.
+
+A humungous, old, living tree.
+
+Frankly, it was lovely, even under the blood-red alarm flashing light.
+
+But the light did allow her to notice one thing she hadn't seen before. Just out of the corner of her left eye, she thought she saw something move and turned to look. She wasn't expecting what she saw.
+
+For several seconds she just watched.
+
+It wasn't alive, not in the traditional sense that it was a creature anyway, she thought, despite the thrum that seemed to echo through the ground to her from the strange trunk that stood in the middle of the room. That was the only word she could come up with for it. There was a decidedly uneven and ancient air about it. The wood was so old, it was almost smooth grey, sort of like metal.
+
+Perhaps it was petrified.
+
+That’s when Quinn craned her neck to look up at the alarm illuminated ceiling far, far above her.
+
+It was at this point Quinn finally realized she seemed to be standing under the boughs of a tree. Except there weren't leaves or branches as such, but more a massive trunk in the middle of a cavernous room apparently made of wood.
+
+There was a softness to the room like it could nurture whatever was in it. Cautiously ignoring the full flashing alarm, she made her way directly to that center. That was it. This was where that underlying hum came from. Its warmth increased the closer she got to it.
+
+It was whatever the alarm was protecting.
+
+Core was a much more fitting description than trunk, even if the latter was eerily accurate as far as appearances went.
+
+It was difficult to tell why she took those steps, but something about it lulled, soothed, and even calmed. Frankly, it felt like it was calling out to her, not quite whispering her name. It wasn’t exactly like memories or voices in her head, but there was still that element of familiarity.
+
+Despite the existence of the alarm, Quinn felt no real sense of urgency. More that this alarm was indicative of the overall lack of power in the vicinity. To warn people of the severe absence of energy.
+
+Perhaps.
+
+The ancient tree core was much farther away than it seemed, and whatever these emergency protocols were that it put into place, they hampered her every move. Time felt fluid, and yet, she had no idea if it had been several minutes, hours, or days.
+
+There was a foggy sensation to all her thoughts.
+
+This whole setting, from being whisked away, to essentially being in a cave or cavern was so far-fetched that she again considered the possibility she was passed out somewhere in a hospital wing. Maybe she was actually in a coma after the earthquake that seemingly demolished her university Library and couldn’t be woken with a simple pinch.
+
+But she’d worry about that later.
+
+The floor’s sponginess continued to stand out to her. Sort of like one of those kid's playgrounds with the matting meant to protect them as they fell. Only this version of didn’t actually feel safe.
+
+It was as if roots were deliberately standing in her way and the ground was a soil that could suck at her feet and keep her in place. Maybe that was one of the protocols, maybe this whole alarm was set just to protect this tree, or well, the tree that was not a tree but felt like a tree.
+
+This was all making less and less sense.
+
+Maybe she had taken a hit from the table and thus her thoughts were truly hampered.
+
+Air whooshed by her suddenly and in the space of a blink, it stopped.
+
+She found herself right next to the trunk, to the well of sound that vibrated through her entire being. And the room, it seemed, had stopped moving. Upon closer inspection now, it definitely wasn't wood as such. There was a faint woodsy smell about it, but its scent was colder, like stone.
+
+This tree was never going to be firewood. The trunk was so wide and huge in circumference that her arms would only reach a fraction of the way around if she tried to hug it.
+
+It also didn’t appear to be natural; there were lines running through it, these beautiful faint blue fluorescent lines that ran barely under the surface like glowing veins. Upon closer inspection, they flickered in and out, sort of like when everybody and everything had appeared before when she was standing in the college library.
+
+In fact, the harder she looked, the more those lines appeared vein-like or perhaps even similar to circuits as they flooded through the tree, and up the core of the trunk. Suddenly, as she looked up, she saw two bright, bright blue dots staring right back at her.
+
+It took a few moments for her to register that they were, in fact, eyes and not just some glowing something else. Especially once they blinked at her, very slowly.
+
+Not dots.
+
+Definitely eyes.
+
+She blinked back.
+
+Had she fallen down the rabbit hole? Was this a Cheshire cat? Before she could say anything or do anything, a creature leaped down, much larger than any cat she'd anticipated.
+
+Its back stood about thigh height to her paltry five-foot frame and felt much larger than life when it landed on the ground. Quinn stumbled back in shock. She gasped, and may have let out a small scream, but couldn't exactly hear it because the alarms were still blaring.
+
+She was going to be cautious and say that she didn't scream anyway because really, who screams when a massive cat that’s probably the size of a large dog jumps down from God knows where because it's not a tree and that wasn't a branch.
+
+"It's good that you can keep your wits about you," said a voice that really didn't sound like it was happy with anything she'd done ever, nor would it ever approve of any action she'd ever take. "That's enough staring now. Would you rather take a picture? It'll last longer."
+
+It was all Quinn could do to not just stand and stare and catch flies. To be more precise though, that's exactly what she was doing. She just couldn't tear her eyes away from the creature. No one was going to believe this. She reached into her back pocket for her phone…
+
+“What are you doing?” the voice asked, a hint of incredulity in the tone.
+
+She stuttered, lowering her phone hand. “You said to take a pic…”
+
+"Not literally!” it snapped.
+
+She hurriedly put the phone away.
+
+“What are you looking at?" The indignant voice was even worse than the first time it spoke. But maybe there was something else in that tone. Another sentiment that she couldn't quite latch onto. A bit of caution. Perhaps some bone weariness?
+
+"You can talk," she said, realizing quite how awkward that sounded the moment the words left her lips, especially considering it had already spoken to her three times. But it was a fricking talking feline.
+
+"Of course, I can talk, how else would you understand me? You don’t have access to telepathy yet."
+
+To distract herself from the scathing retort sitting on the tip of her tongue as well as the fact that this cat mentioned telepathy, Quinn looked at the creature in front of her. She was mistaken. It wasn't a cat per se. It seemed to be a lynx, maybe? Perhaps that was the right one? A caraval? No, it was a lynx, definitely. Except it wasn't any color she'd ever seen. It was this glowing, deep purple that was almost black and had black stripes.
+
+But maybe they weren't stripes. If only she could get a little closer to see just what those things were because they seemed to move, to twist around its body.
+
+"Excuse me? Do you mind? It's rude to stare."
+
+It was only then that Quinn realized how far forward she'd been leaning to try and get a good look at the creature. Despite the almost overwhelming urge to pet it, to reach out and run her fingers along what she was pretty sure looked like script woven into those stripes? She managed to resist by channeling her embarrassment instead.
+
+"Oh, I'm sorry. I'm really, really sorry. I just, you just, I suddenly, and I'm here…" She pointed at the lynx and gestured all around her, feeling quite helpless.
+
+The creature stared at her which did nothing to alleviate the awkwardness of the situation since it said nothing.
+
+And then it blinked.
+
+Once.
+
+Slowly.
+
+Did it talk to her? Or had she imagined that... she must have hit her head really hard because this was all even more fantastical than falling down a rabbit hole. So, Quinn shut up. Because the stare the lynx was giving her could have cut ice.
+
+The thing was, Quinn was starting to feel less intimidated and more very irritated. Especially if this was all something just playing out in her head. "You know, you could be nicer. I have no clue where I am. I could be dreaming for all I know, and you're just some figment of my imagination. Figments of my own imagination should definitely be a lot nicer to me."
+
+The lynx blinked at her with those massive eyes that were not the right size for a creature that big. They were far larger, almost like anime eyes. Well, except for the fact that they didn't twinkle happily or magically. They seemed pretty angry too.
+
+"I am not a figment of your imagination," the cat spat out. "I am Links."
+
+A giggle escaped Quinn. Her first reaction was to clap her hands over her mouth, but another chuckle escaped her. She couldn't help it. "Lynx. Your name is Lynx. Seriously?"
+
+"Yes, seriously. What's wrong with my name?" There was this indignant undertone to the words that just set Quinn off even harder.
+
+"Lynx. You're in the shape of a lynx. Not exactly original."
+
+"Well, you're not exactly original," the lynx said, or Lynx said, a little bit flustered. "My name doesn’t necessarily relate to my shape. But that's beside the point. You shouldn't be worrying about dreams. You should have realized what this is."
+
+"And how do you propose I realize what this is?" Quinn said, suddenly complete and utterly exhausted. Her sense of time was skewed, but she knew without a shadow of a doubt, that she’d been in this place a lot longer than it seemed.
+
+All of a sudden it was like her energy was gone. In contrast the lights surrounding the trunk seemed to have grown slightly brighter and she could feel a headache coming on. "Why don't you try explaining to me what's happened? Because obviously, I'm in a cavern of some sort with an electrical tree, or whatever this is. And I’m quite sure this is nowhere near my university campus."
+
+"It's not an electrical tree. We don't use electricity here. We don't need to. Or we didn't need to. We’re in emergency power mode right now." Lynx sounded sort of sad and Quinn felt a little bad that she had teased the feline so much.
+
+"Okay, so if you don't use electricity, how do you power things?"
+
+"Through magic, of course. What did you think the blue veins and lines are? I’m quite sure the packet explained everything in detail." Lynx’s impatience had returned full force.
+
+"I thought it was electricity," Quinn said, shaking her head as if she might jolt her hearing a bit. There's no way he could have said what she thought he just said. "Wait a second, did you just say magic?"
+
+"Of course I said magic. I'm a talking feline. How did you think that was possible?" Lynx practically spat the words out, obviously annoyed. "Surely you can't be that dense. Of course magic exists. Maybe not in your world...”
+
+He took a moment, shaking his head and very obviously pressing down his urge to yell. “Anyway, that’s why it was pure luck that we found your magical signature. I guess it's no wonder it's taking you time to digest the facts. You haven't experienced magic before."
+
+Just that statement almost made her blood boil. "Oh, we've heard of it. All right. But nobody believes in magic. We have technology for that sort of stuff. We developed it ourselves."
+
+It wasn't until after she'd made the statement that what Lynx said really sank in. Earth didn't have magic? Her world? And something about a packet? What the hell was that cat on? Wait a second. She was having a literal conversation with a cat. The last thought stopped her in her tracks and only Lynx’s yelling brought her back out of it.
+
+"Are you even listening to me!"
+
+Quinn cringed. "Sorry, my brain was catching up. You can’t just throw around oh by the way magic is real and not expect a person to react." She spoke slowly, glancing around the cavern again, taking it all in. It definitely didn't feel like home, even though she wasn't sure how she could tell that. Even so, she quelled the rising panic she could feel emerging and focused on what Lynx was saying.
+
+"Fine. I guess I'll repeat that. But only once." Lynx cleared his throat. "Anyway, it's partially because your world is starved of magic. But I digress. I'll talk to you about that later. First of all, we need you to synchronize before the Library disappears."
+
+"Say what? Synchronize me? What the hell is going on?"
+
+Lynx actually paused and looked up at her, a brief flash of confusion evident in his expression. It mixed with the annoyance so she couldn’t be quite sure of anything, but she thought she saw a sliver of doubt in his eyes. "Wait, what do you mean, 'what's going on'? Did none of the information get through to you?"
+
+"Information? You call this garbled listing of all the impossible you’re giving me, information?" Quinn pinched the bridge of her nose, suddenly very aware of the increasingly volatile encroaching headache.
+
+"No. I did everything I should have. I set everything up. Initiated all the correct protocols. While the transition was in progress you should have received a bundle of information highlighting the situation here and your place in it." There was a general air of confusion around the cat now.
+
+"What do you mean pulled? I was sitting studying my course catalog and talking to a friend." Quinn even managed to feel a pang of regret at Hallie having disappeared while she scolded the cat. "Everything went static. My friend and everyone else around me warped. I think some glass might have exploded, but I’m hazy on that. I stumbled and am pretty sure I smacked my head on the table. Then it was dark and black and I was here. After which the alarm went off. The only information I received before encountering you was that the system had used too much power and emergency protocols had been engaged."
+
+That's when Lynx started muttering. Quinn could barely make out what the cat was saying under its breath.
+
+"But that doesn't make sense. We sent the packet through. She should have known. She should have come here at least with some knowledge about what..."
+
+Quinn planted her hands on her hips, her small amount of patience evaporated. "How about you just tell me and we can stop wasting time."
+
+"Of course, that's... I'm Links. I am a manifestation of the entirety of the Magical Library of Everywhere. And you are our next Librarian and last hope.”

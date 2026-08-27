@@ -1,0 +1,121 @@
+---
+id: 78d91882-650a-53ab-aeb2-0a9da92b470d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 123: Level 25"
+slug: 0164-chapter-123-level-25
+partOf: labyrinth-of-the-mad-god
+position: 164
+ownLength: 1828
+unit: words
+publishedAt: 2025-04-30
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2244306/chapter-123-level-25"
+royalRoadId: "2244306"
+---
+
+When Nick’s senses unscrambled, he found himself standing in a large, well-furnished room.
+
+This time around, he had been granted a brief vision of the grand tapestry of cosmic forces that connected every world within integrated space. The System must have generated that portal, since this reward isn’t tied to Darkstone Tower.
+
+“Not bad.” Devin took a quick lap around the safe room, then kicked off his boots and took a seat at the table. “I’m going to relax for an hour or two, then train my ass off until the final battle begins. I wish that I could visit the craft world. You’ll have to tell me all about it when you get back.”
+
+Nick was excited too. This was his first chance to witness a civilization that had managed to flourish within the Labyrinth of the Mad God. The clock was ticking, but before he did anything else, he wanted to unwind for a few minutes and check out the massive pile of updates that was sure to be waiting in his menus. After all, they had just completed the second piece of the Fate of Earth quest chain, and Pax had mentioned that he’d hit level 25 during the battle with the kraken vines.
+
+He decided to start with the questing menu. When his display materialized in front of his eyes, he eagerly began to read.
+
+You have completed the final floor of the Tower of Rizzen.
+
+Your performance for this floor has been rated as: Exceptional.
+
+Additional experience and essence have been awarded.
+
+The total prize pool for Team Earth has increased, and species experience has been awarded.
+
+For completing the second stage of the Fate of Earth quest chain, you will receive part of your reward now. The rest will count toward increasing the rarity of the quest reward package that all participants will receive after completing the final stage.
+
+The current value of Team Earth’s reward package is: Platinum.
+
+The maximum value for this quest chain is: Platinum.
+
+Bonus objective completed:
+
+Survive the evaluation challenge course by defeating the Trial Administrator.
+
+Note: You have already received your individual reward for this stage and obtained a Species-Experience Pill.
+
+Awesome, Team Earth managed to boost the reward package to platinum. Now we just need to ace the final stage to kick it up to diamond like Pax said. Nick spent a few minutes fantasizing about what advantages humanity might win by acquiring a diamond-level reward. Then he moved on to his other updates.
+
+Congratulations. You have accumulated enough experience to reach level [25].
+
+You have gained 1 point of Magic from your class.
+
+As a milestone reward for reaching level [25], you have been awarded a bonus free attribute point.
+
+You have 2 free points awaiting allocation.
+
+You may select a new class at any time.
+
+Be advised, you may not obtain additional experience until you choose a new class or decide to keep your current class for an additional 5 levels.
+
+It was great to receive confirmation that he could change his class, but that wasn’t the end of his updates. The next two were something that he had been hoping to accomplish before reaching the next species grade, and Nick was thrilled to have made it in time.
+
+By pushing yourself to the limit in the midst of a deadly battle, you have conditioned your mental acuity and improved the following baseline attributes:
+
+Mind has increased from [9] to [10].
+
+For reaching the attribute cap in Mind, you have been awarded with an additional point of Mind.
+
+Creativity has increased from [8] to [10].
+
+For reaching the attribute cap in Creativity, you have been awarded with an additional point of Creativity.
+
+Hell yes! Visualizing the trajectory of all those meteors was enough to max out both mental attributes. While it was touch and go for a while, taking the challenge course really paid off in the end. On that note, Nick had managed to improve his skills during the last trial too.
+
+Through use, you have improved the following skills:
+
+Evasion has increased from [20] to [22].
+
+Light Shield has increased from [11] to [13].
+
+Note: You may not increase your Sword skill beyond 25 until you complete the trial of mastery. The trial will not be available until your current quest is complete.
+
+“Fucking awesome.” Devin let out a delighted chuckle as Nick dismissed his display. “I hit level 25 and got another class skill for hitting 24. It’s called Flame Dash, and it sounds amazing. I can use my free slot to hold onto it when I pick a new class.”
+
+Nick was planning to do the same thing with Heavy Blow, since you normally had to advance an ability to rank 2 to keep it when changing classes. It took a while, but that free slot came in handy after all. He thought about spending his attribute points now but decided to wait until after he swapped to his new class, since it might affect his priorities.
+
+After having Nick stand in the corner, Devin gave Flame Dash a test drive. Ruby bands of mana congealed around his feet, then twin jets of fire shot out behind him as he activated the ability for the first time. Accompanied by a gust of hot air, the warrior crossed the safe room in the blink of an eye… before slamming straight into the far wall. It reminded Nick of his first time using Force Acceleration, and the mishap left both men giggling for long minutes.
+
+Devin’s mobility ability was more specialized than Nick’s. It could only be used to create an explosive burst of speed, but it also generated a blast that would hit anything that was standing behind him. Fortunately, the contents of the safe room were warded by the System, so they didn’t have to worry about catching anything on fire.
+
+Flame Dash wasn’t as versatile as Force Acceleration, but the power was easy to control, its mana cost was relatively low, and the offensive component would come in handy in a fight. “Now.” Devin rubbed his hands together. “What new class should I take?”
+
+The comment reminded Nick that Devin hadn’t heard the full story of what was going on, including Pax’s warning that they shouldn’t change classes until their evolution was complete. He went ahead and relayed their conversation in full, bringing Devin up to speed with everything that he’d learned.
+
+“That’s crazy. It sounds like something big is going down between Taltos and the System, and the Earth is just a piece on their gameboard. Fuck them both. That really pisses me off, but right now, we need to focus on saving our planet and everyone fighting to make that happen. A reckoning with the forces responsible for this steaming crock of shit can wait until the people we love are safe.”
+
+“That’s my take too. Hopefully, we will get some additional information soon. Pax promised that she would let me know what is really going on before the final battle. She said that we don’t have time to spare, so I should head over to the craft world now and place my order. When I get back, we can brainstorm strategies for dealing with the guardian on the tower’s roof.”
+
+“Sounds good.” Devin let out a sleepy yawn. “I think I’ll get cleaned up and then take a nap while you’re gone.”
+
+The comment reminded Nick that he was absolutely disgusting—covered in sweat, blood, and mud, along with generous patches of grime that he couldn’t even being to identify. He decided to wash up and change into some of the spare clothing he’d taken from the storeroom before heading out. He was in a hurry, but didn’t want to make first contact with an alien race looking like he’d been living in a pile of garbage.
+
+By the time that he was ready to leave, Devin was fast asleep, enjoying a rare moment of guaranteed safety. Which left Nick with one last item to tackle before he began his crafting adventure. How do I get to the craft world? The answer turned out to be painlessly simple. After all, there was only one door set into the walls of the room.
+
+Riding a rising tide of anticipation, he walked over, opened it up, and then stepped past the threshold.
+
+***
+
+The safe room must have been located somewhere on the craft world. Because after a brief flash of light, Nick walked into a comfortable waiting room.
+
+The floor was covered in a rose shag carpet, which felt wondrously soft beneath his boots. There were a few tables and chairs, including one with a pitcher of water. He helped himself to a glass while he figured out where he was and what he was supposed to do.
+
+There were only two doors, and the one that didn’t lead back to the safe room was locked. Since the System had set everything up as part of a reward, he was sure that someone would get to him sooner or later. While he waited, he took advantage of the opportunity to decompress while processing his latest adventure.
+
+He hung his backpack on a rack and took a seat in one of the chairs. Then he let himself relax while reflecting on all the crazy events he’d endured. While Nick let go of the accumulated stress layer by layer, he ran his eyes across the walls, which were covered in weapons and armor of every shape and size.
+
+All the gear on display was high quality—better than anything he’d seen outside of a gold reward chest, although the blades weren’t quite as badass as Rita’s collection. If these items were any indication of the excellence of this shop, this opportunity was even more valuable than he had realized. Taking in the suits of leather and chain, he listened to the noise coming through the door across from him.
+
+He could hear the clang of a hammer working over an anvil. The crackle of a fire blazing somewhere nearby. There were dozens of voices in the distance, riding the air alongside the occasional whir of an electric drill. The scents of oil and smoke hung heavy in the air, along with a hundred other odors he couldn’t begin identify. Everything combined in a blend of industry and innovation. Crafting and commerce.
+
+He closed his eyes and let it wash over him, drinking in the sensations of an alien workshop—safe and sound for at least a short while longer. Nick must have nodded off for a few minutes, because he came back to himself with a start when he heard a polite knock on the door.
+
+“Hello. I’m sorry for the delay, but I’m ready to assist you. Don’t be surprised when you see me, we’re not the same species. I’m going to open the door now. So, please, just relax and, you know, don’t try to kill me or anything.”

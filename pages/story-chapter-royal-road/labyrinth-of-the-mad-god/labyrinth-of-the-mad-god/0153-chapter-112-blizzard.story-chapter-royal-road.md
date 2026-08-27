@@ -1,0 +1,77 @@
+---
+id: a3732ad2-e26f-5894-9fad-459e661571c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 112: Blizzard"
+slug: 0153-chapter-112-blizzard
+partOf: labyrinth-of-the-mad-god
+position: 153
+ownLength: 1894
+unit: words
+publishedAt: 2025-04-04
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2174713/chapter-112-blizzard"
+royalRoadId: "2174713"
+---
+
+Nick and Devin sliced the trunks into even segments, finished stripping the branches, then carved two grooves into the end of each log so they would form a rigid framework when stacked. Then they laid them down two at a time, building up the walls until they were about six feet high.
+
+Taking the time to make sure that everything fit together without any gaps, while racing the fall of night and the blizzard that was brewing in the distance, was nerve-wracking. But as the final sliver of sun dipped below the horizon, Devin lowered the last log in place. Then they stacked snow around the walls to hold in the heat and shield them from the wind.
+
+Since they didn’t have the time or expertise to build a roof or a door, they covered most of the top with a pair of waterproof tarps, then piled up kindling and branches below the open portion. They had another tarp ready to seal the gap if snow started getting inside, although they would have to put out the fire to use it.
+
+While Nick pulled out a pair of thermal sleeping bags he’d taken from the storeroom, Devin laid a ring of rocks around the firepit. “We might have to put out the fire when the storm hits us.” He mirrored Nick’s train of thought. “Let’s put another row of rocks around the inner layer. They should hold the heat for a while after we extinguish the flames.”
+
+Devin’s plan was sound, and there wasn’t enough time to come up with anything else. While Nick leapt over the wall and collected another pile of rocks, his partner built a tepee of kindling. Devin started hitting it with his axe—tiny taps that released thumb-sized patches of fire mana. By the time Nick had finished laying the last stone, Devin was done drying out the wood. Their campfire roared to life, providing blessed relief to his frost-numbed tissue.
+
+For the first few hours, everything was fairly comfortable. It was cold, but not unbearably so, and the temperature had stabilized now that the sun was down. But the wind was picking up, and half of the stars were obscured by the snowstorm that was headed their way.
+
+“I think it will hit us sometime within the next hour,” Devin said. “When it does, it’s going to get a lot colder. Let’s bundle up for now. We will need to put out the fire and seal the roof at some point, but let’s wait as long as we can to keep the stones hot.”
+
+Nick reached into his bag and retrieved some extra blankets and pillows. “I know that I’ve said it before, but your backpack is fucking awesome.” Devin wrapped himself in another layer of cloth. “And you aren’t so bad yourself.”
+
+Nick fought to keep his teeth from chattering as he slipped into the sleeping bag and pulled a blanket over the top. Since it was too cold to sleep and they were too wound up regardless, the men passed the time in conversation while waiting for the blizzard to arrive.
+
+It was Nick’s first chance to speak with Devin at length. He found the athletic warrior to be excellent company—a perfect person to be stranded with in the middle of a hellish ordeal.
+
+Devin was upbeat and far sharper than his casual demeanor revealed. He had a keen eye for detail, a good understanding of people, and a fierce optimism that refused to falter in the face of something as mundane as the fact that they might both be dead by morning. Accompanied by the howling wind, they shared tales from their old lives. Stories of their friends and families and of lazy days that would never come again.
+
+Then they moved on to more recent experiences, starting with their tutorials. It turned out that Devin had been placed in a group with ten other people. They had been dropped into a desert ringed by mountains and forced to endure a variety of trials, ranging from aggressive beasts to hazardous terrain. They had the same exploration reward chests Nick had found, but if there was a dungeon in the desert, they hadn’t located the entrance. One person had died, and another had lost a hand. Devin hadn’t seen any of them since, but he hoped that they were safe.
+
+Then Nick took his turn, sharing the story of his integration, orientation, and tutorial. By the time that he reached the dramatic climax, surviving the war between beasts while the Seraing Isle sank into the sea, the temperature had begun to plummet. The wind was shrieking across the face of the tundra, and the storm would break over them any minute. The men would have been dead without the walls to shield them from the gale, even with the fire’s warmth.
+
+Not long after, the snow began to fall. At first, it was light enough that the flames melted the scattered flakes that fell into their shelter. But before long, it really started coming down and the storm winds made their fire flare up unpredictably.
+
+Devin rose to his feet. “It’s time to seal the top. You put out the fire, and I’ll take care of the tarp.” Nick started scooping up the snow that had piled atop the tarp, dumping it onto the fire until it sputtered and died. Devin grabbed another tarp and pulled it tight across the open section of the roof. He worked the ends back through the logs, then tied the rivets in the tarp to the ones on the opposite side.
+
+As soon as he was done, Nick stomped the final embers out. He activated his crystal device to light up the interior, then ducked below the thin layer of smoke until it diffused through the walls a few minutes later. They rearranged the hot stones around their sleeping bags, lying back-to-back to preserve as much warmth as they could. By the time the men had settled in, the full fury of the blizzard was breaking over their makeshift cabin.
+
+Snow-laden gusts slammed into the sides time and time again as they screamed across the face of the Ever-Winter Tundra. The howling storm was intense, but it wasn’t anything compared to the continent-sized searstorm Nick had endured during his tutorial. He would take subzero weather to boiling rain any day of the week.
+
+The cold was a real problem though. After a few hours, the warmth of the stones began to fade, and their body heat started leeching into the ground. They burned a small fire for a few minutes at a time, letting the smoke filter out before lighting it again. At least the raw timber wasn’t a problem—Devin’s ability burned hot and could easily light the green wood.
+
+By the time that midnight rolled around, it seemed likely that the blizzard wasn’t going to get any worse. The men slept in shifts, resting as much as possible before the next stage began. Nick awoke sometime later. The first thing he noticed was that it was a lot warmer than before. He crawled out of his sleeping bag and saw that light was bleeding back into the world.
+
+“Devin, you let me sleep too long. You were supposed to get in another nap before dawn.”
+
+“No problem. I can’t really sleep with all that noise, and I’m the only one who can keep the fire going anyway. I’ve been tracking the position of the sun, trying to get a sense for the length of the days on this world, simulation, or whatever. The nights seem to be about twice as long as the days, and the battle portion of this trial should begin sometime within the next few hours. Let’s get out of here and see what we have to work with as far as terrain is concerned.”
+
+It was a sensible suggestion, and Nick didn’t have anything to add. The men ate a quick breakfast, then removed the tarp from the roof and poked their heads over the cabin’s wall. An endless winterland awaited their gaze. Fresh snow had erased every trace of their presence—a layer of powder that was stacked all the way up to the top of the cabin.
+
+“We need to find somewhere where the ground is relatively clear. Fighting on top of this will severely hamper our mobility.” Devin nodded his agreement, so they gathered their gear and started walking. They picked out a path beneath the treetops where the snow was thinner, scanning for any trace of the enemy as they crossed the lightly-wooded area.
+
+Maybe I should add some snowshoes to my toolkit. Nick noted as they put more miles beneath their boots. He was certain that a fierce battle was coming. But you would never know it by looking at the pristine, peaceful tundra. The only thing that kept the experience from feeling like a winter vacation was the massive bank of machinery floating above his head.
+
+He wondered how the enclosure’s magic worked. They had been walking in a straight line long enough to reach the floor’s walls several times over, but the position of the machine never changed. He eventually gave up, dismissing the matter as beyond his ability to analyze. Nick turned to Devin and said, “You’re right. Having something like this back on Earth would be amazing. It would enable all kinds of valuable training options.”
+
+“Yea, that’s true.” Devin gestured to include their surroundings. “But it would also be fantastic for recreation. We could use it to take the vacation of a lifetime without ever leaving home. Imagine how much stress we could shed if we could spend a day at the beach or another gorgeous locale anytime we wanted.”
+
+While the pair enjoyed the fantasy of having their own personal simulation dome, they kept most of their attention on the ground ahead, seeking a site suitable for the melee that would inevitably ensue.
+
+Eventually, they came across a series of low hills with shallow valleys running between them. The snow on the hilltops was only a few feet deep, thanks to the strong wind that was still blowing, and the hills offered better visibility than anywhere else they’d seen. Nick checked in with Devin, and after getting his nod of approval, they began preparing themselves for a fight.
+
+He shoveled snow off the hilltop to improve their footing while Devin scouted the area, looking for anything concealed in the valleys or that seemed out of the ordinary. He came walking back ten minutes later, having found nothing but snow, ice, and more snow. They got ready for a brawl, stretching out their bodies and doublechecking their gear. Meanwhile, the men discussed their strategy, working out combos and tactics that were well-suited for fighting as a pair.
+
+Devin’s flames were certain to come in handy against creatures adapted to arctic environments, so he would save his mana for critical moments. Nick would use his darts to disrupt the enemy’s formation, and his sword and rays to dish out damage whenever the opportunity presented itself.
+
+Not long after, the voice from before rang out across the frozen tundra.
+
+“The first environmental challenge is complete. Proceeding to the combat phase of this stage. You have one minute remaining until program initialization. The enemy for this phase is: Ice Elementals.”

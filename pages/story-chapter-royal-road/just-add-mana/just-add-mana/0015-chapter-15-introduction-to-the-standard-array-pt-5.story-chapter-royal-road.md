@@ -1,0 +1,211 @@
+---
+id: 4dd46cbf-1a73-5e6b-989d-2f0abc16a086
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15 — Introduction to the Standard Array, Pt 5"
+slug: 0015-chapter-15-introduction-to-the-standard-array-pt-5
+partOf: just-add-mana
+position: 15
+ownLength: 3690
+unit: words
+ownProgress: 3690
+publishedAt: 2025-08-01
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2483915/chapter-15-introduction-to-the-standard-array"
+royalRoadId: "2483915"
+markedReadAt: "2026-06-29T18:48:01.975Z"
+---
+
+Nala Whiteleaf walked away from that duel with a black eye and a conflicting mess of emotions, chief amongst them being a begrudging respect for a human named Cale Cadwell Cobbs.
+
+And, to her surprise, for the golem named Syphus.
+
+She hadn't expected it. She'd been expecting Cale to call on the golem's assistance, but her initial assumption was that Cale would lose; she hadn't expected every single one of her Brightgrove-modified Standard Array spells to just bounce off his barriers. As if he hadn't shown off enough earlier!
+
+The worst part of it, though, was that he hadn't simply waited for her to exhaust her mana.
+
+No, he'd begun instructing her. Telling her how to put her spells together for greater effect. Professor Graystalk had joined in, once he realized what Cale was doing, pointing out minor inefficiencies with the way she directed her mana and layered her spells.
+
+"You can't just slap [Burn] and [Minor Wind] together," Cale had said reprovingly, clicking his tongue. "[Burn] needs to go first, and there needs to be space in the construct so [Minor Wind] can fuel it. It's a good idea, but it's sloppy."
+
+"You must account for your Brightgrove-modified spells, Ms. Whiteleaf," Graystalk had called, sounding like he was enjoying this far too much. "They are stronger than their more common variants, yes, but [Brightgrove Burn] requires a greater volume of physical material to produce a sustainable flame. You might consider layering a spell such as [Conjure Firewood], though I do believe you missed that particular class."
+
+Perhaps the greatest humiliation for Nala, though, was the fact that when she'd started trying out their suggestions—more out of frustration than anything else—it had worked. It hadn't gotten through Cale's ridiculous barriers, but there was an obvious and remarkable difference in the quality of her spellcasting almost immediately. She left massive tracks of glass in the sand instead of merely scorching it, for one thing.
+
+Some of her friends had even clapped. Like they were being supportive of her. The nerve! That sort of fire was supposed to be the realm of fourth-tier spells, not some Standard Array spells slapped together.
+
+And then when Cale decided he'd exhausted enough of her mana, he called on Syphus to replace him. He'd done it on purpose. Wasted her mana, wasted her spells so she wouldn't be able to defend herself against...
+
+No. Nala hated to admit it, but there was a good chance the golem would have been able to beat her even if she hadn't been exhausted, and the truth was that Cale had left her with more mana than he could have. She'd thought at first that the human left the fight because he was running out of mana, but his magical aura was as strong as ever. Then she thought that perhaps he had simply gotten bored, and she had burned with anger and shame.
+
+Worse, she had also felt relief. When Syphus first stepped onto the stage, her first thought was that she would finally be able to show what she was truly capable of. The battle would be over in an instant, and she could reclaim her honor as a Whiteleaf.
+
+Except the golem had proven quickly to have an almost preternatural sense for magical combat. And the longer the fight went, the more certain Nala was that Cale hadn't left the fight early out of boredom, nor had he done it because he was running low on mana.
+
+Rather, he wanted her to know without a shadow of a doubt that Syphus was a superior combat mage.
+
+And it was.
+
+Every spell she'd thrown, Syphus had somehow known exactly how to avoid. Nala was sure it had something to do with the scrying spells inscribed onto the damn thing, but it wasn't like she could demand that it turn off those spells—they were how it saw. Syphus's advantages were intrinsic to it, the same way her own Brightgrove blood gave her a sharper mana sense and favor from the Gift.
+
+What did that mean? That Syphus had simply allowed her and her elves to mock it relentlessly without retaliation? Why hadn't it said something? Nala supposed she'd never really tried to talk to the thing. Even for a student of the Astral Wing, it was unusual. Artificial life was rather poorly regarded among elves, and spending time with it would have been seen as a slight on her status.
+
+It clearly didn't like her, though. Its scrying eye had narrowed with pleasure after it struck her, etherite crystals folding back with satisfaction.
+
+Which was why Nala was all the more confused when it stuck out a hand and helped her up.
+
+"We're even now," it had said. "Stop messing with me when I try to get to class, though, or I will punch you again."
+
+Nala hadn't quite been able to figure out how to react beyond simply nodding dumbly. Cale had regarded the golem for a moment, then punched its fist with his own. She didn't know what to make of that, either.
+
+She did know that the Brightgrove coffers were going to be far emptier after today. Plenty of her classmates had made bets with Syphus about the results of the casting speed challenge—bets that most certainly dipped into Brightgrove gold—and they had lost rather spectacularly.
+
+That was... something she should probably have been more upset about, but somehow, she couldn't quite muster the energy.
+
+No, the only thing she could think about was getting back to her room so she could sleep off the rest of the day. She'd skip the rest of her classes, but her father would understand.
+
+After that, she was going to need to figure out exactly how much of her world she wanted to re-evaluate, because she did not want to let Cale be the person who made her rethink how she did things. Literally anyone else would have been better. In fact, the first Astral student she encountered...
+
+Without thinking it through, she promptly turned and strode down one of the hallways that led to the Astral Wing, and accosted the first student she saw.
+
+"You," Nala announced, pointing at the dreadshade casting her nervous glances while he tried to sneak past her. He was accompanied by what looked like a water elemental and a minotaur. Nala tried to suppress her shiver of disgust at the sight, and only mostly managed it. "You're coming with me."
+
+"W-what?" the dreadshade cast a wide-eyed, terrified glance at his friends, who gave him equally confused looks. Then Nala grabbed him by the hand and started to drag him away. "Hey, what are you—"
+
+"Stop that," the water elemental demanded, stepping in front of her. Nala almost snapped a spell out, but stopped herself just in time. "You can't just kidnap our friend, Whiteleaf. What do you think you're doing?"
+
+"I can't even leave the Astral Wing," Damien pointed out, trying to pull his wrist back. It was a futile effort. Nala considered this for a moment, then nodded.
+
+"Fine," she said imperially. "Take me to your room, then."
+
+She stared at them expectantly. They stared back.
+
+Then the minotaur groaned. "I know where I remember you from," he said. "You're from Professor Graystalk's class, aren't you? I knew we took too long with lunch."
+
+"It's not our fault the lunchlady is insane," the water elemental argued, and then she paused, narrowing her eyes. "Wait. Graystalk? Intro to Standard? That means he did this."
+
+Nala sighed impatiently. "Well?" she said, tapping her foot. "I will pay you, if that's a problem. I have..."
+
+Bah. She hated using these, but she had plenty of Forest credits, even after losing three of them to Cale and Syphus.
+
+"Here," she said, brandishing three of her Forest credits. One each. That would be a loss of six today, but she could earn them back, and Brightgrove royalty didn't need credits anyway. "This is more than sufficient, I expect?"
+
+They stared at her again. The dreadshade was the first to speak. "I guess we could bring her with us," the dreadshade mumbled. The other two glared at him. "What? We were going back there anyway, and we could use the credits... We might as well."
+
+"Fine," the water elemental said. "But I'm watching you."
+
+"Of course you are," Nala said. "Who doesn't?"
+
+She had no idea why the three of them all twitched at that.
+
+Cale sat in Professor Graystalk's office, clinking his Forest and Astral credits together and watching with fascination as they resonated.
+
+He hadn't quite appreciated the enchantment on them when he'd gotten his first Astral credit, probably because the enchantment hadn't been complete. It had looked like a simple anti-counterfeiting measure, and he hadn't been wrong about that, exactly.
+
+But there was a secondary component to that enchantment that was much harder to spot unless he had two of them in hand. If he was interpreting the emergent magical signature between the two credits he had correctly, then they were specifically made to resonate with one another and resolve into a complete enchantment when all its pieces were connected. He had... two parts out of five, it looked like?
+
+Did that mean there were five Wings in total? He had no idea. Come to think of it, there were a lot of questions he probably should have asked before diving headfirst into all this.
+
+A different man might have taken this as a sign that he needed to be more cautious. Cale did, to his credit, think about this for a moment.
+
+Then he summarily dismissed it. Life was far more exciting when he couldn't be sure what was coming next.
+
+This meeting, for example. The moment Intro to Standard had ended, Professor Graystalk had asked him and Syphus to accompany him to his office. Cale agreed immediately. Syphus was a little bit more cautious about it, but had eventually agreed to come along.
+
+The fact that Syphus hadn't bothered cleaning all the sand off itself before rolling into the office didn't escape either of them, though.
+
+Professor Graystalk had disappeared into a side room shortly after taking them into his office, ostensibly to "freshen up and gather some materials." He'd also told them to make themselves at home, which Cale took as permission to rifle through the professor's drawers, much to Syphus's delight. Unfortunately, Graystalk didn't keep anything particularly interesting in there. It was mostly half-graded papers on the effects of the various spells in the Standard Array along with a couple magically sealed letters that Cale couldn't open without risking making the desk explode.
+
+"He's taking a while," Syphus remarked.
+
+"I'm sure he has his reasons." Cale shrugged. He wasn't too worried about it. According to his schedule scroll, he had about two hours before the next class began. The directional arrow enchanted into it had split into two, one leading to a cafeteria and the other back to the room he shared with Damien.
+
+Cale was impressed. That was a lot of functionality for a single enchantment. He wondered if he could get it to lead him to Akkau's office—he did still need somewhere to put the blood obsidian box that contained the voidcyte, and he had other questions he needed to ask the thing besides.
+
+The side door clicked open before he could think too much about it, though, and Cale abandoned his ruminations to look up at Graystalk. The older elf had abandoned his formal wear for a more casual set of clothes, probably because his formal wear was covered in sand.
+
+Not that "more casual" said all that much. He was still wearing at least three different layers, which was par for the course when it came to elven casual wear.
+
+He was also carrying what looked like a stack of identical spell tomes. They were heavy-looking things, too, although the professor carried them with ease; there was a distinct, heavy thunk when he set them down on the desk. "Welcome back," Cale said, eyeing the tomes. "What's up with these things?"
+
+"I will explain in a moment," Professor Graystalk said, his tone dry. "First, I would like to thank the two of you—and to apologize, especially to Syphus."
+
+Syphus seemed startled. It shifted uncomfortably backward, suddenly self-conscious about the sand it was tracking all over the professor's carpet. "Why?" it asked, its tone guarded.
+
+"I was well aware of the way your classmates were treating you and did little to prevent it." He leaned forward in his chair and steepled his fingers. "You could say I had my reasons, but nevertheless, it has been made clear today that I have not been performing my duties as a professor to the fullest extent; for that, I apologize. Know that I will make myself available for remedial lessons if you require it, and if Ms. Whiteleaf continues to give you trouble, I will take additional preventative measures."
+
+Syphus didn't seem to know what to say. Its etherite crystals had folded backward slightly, and it stared at Graystalk with a mixture of what seemed to be gratitude and confusion. "Thanks?" it said eventually. "But uh... why? If you don't mind me asking."
+
+Graystalk frowned. "It is no secret, perhaps, that us elves are a rather insular species," he said. "The Brightgrove Elves are worse than most in that regard, and while I pride myself as more open-minded than most, I have been less than kind in giving my students the opportunity to prove themselves."
+
+"Is that the whole story?" Cale asked. He leaned back casually, kicking his legs up onto Graystalk's desk. "Because I feel like it isn't."
+
+"Cale." Graystalk's voice held an edge of warning, though he didn't, to Cale's amusement, tell him to put his feet down.
+
+"I'm just saying," Cale said. "Nala has been kind of rude to you this whole time, hasn't she? And you don't seem like the type to let someone mock your class like that. You know as well as I do she's probably half the reason so many of your students weren't taking the Standard Array seriously. Most mages would jump at the opportunity to be taught by someone with a moniker like Mage Killer."
+
+"You do not need to repeat that name," Graystalk muttered, but the tips of his ears were pink again.
+
+"Don't get me wrong," Cale said, ignoring him. "I'm sure part of it is because Standard Array spells aren't special enough for elves like them or whatever. But the other part is Nala Whiteleaf, and you were pretty willing to let her get away with whatever she wanted up until you weren't."
+
+Syphus frowned. "I always thought it was favoritism," it said. "Are you saying—"
+
+"I'm saying it's interesting how quickly she jumped to exiling the professor from the Brightgroves," Cale said. "If this were standard elven politics, there are at least five other threats she could have leveraged before getting to exile. Stripping him of the Mage Killer name, for instance. That's a grave insult by elven standards.
+
+"Which means—unless I'm missing my guess—that there's a reason you need to stay among the Brightgroves." Cale raised an eyebrow. "You're trying to 'accept responsibility' or whatever. Don't get me wrong! You were, by all accounts, definitely an ass to your Astral Wing students. But you're not telling us everything, are you?"
+
+Graystalk sighed. "Can you not simply allow me to take the blame and move on?"
+
+"I kind of want to know too, now," Syphus said. "In fact, I feel like you kind of owe it to us, prof."
+
+The professor sighed again. He was silent for a long, uncomfortable moment, and then he spoke.
+
+"I have a restriction curse, as you may have noticed," he said tiredly, gesturing to the scar over his eye. "It is a lich-cast mark; a powerful variant of the standard curse that cannot be removed by any cleansing magic we have attempted. Worse, it is a curse that worsens over time, narrowing the scope of the spells I can cast.
+
+"I have had this mark for a long time. Before I was even named Mage Killer. This curse is one of the reasons I have grown so greatly as a mage; it has forced me to adapt, to learn the true depths of every spell that remains within my repertoire.
+
+"It has not, however, stopped increasing in strength. And the only magic capable of halting it—not curing it, not reversing it, but merely temporarily halting its progress—is contained within the Brightgrove Pools. Its sacred magics can prevent the curse from progressing, at least for a time. I take the occasional sabbatical to return to the Brightgrove and extend my time without the curse progressing. If I were to be exiled..."
+
+"You'd lose the ability to cast magic entirely," Cale said, frowning. He'd suspected as much. Curses weren't his area of expertise, but ones that left scars were usually not the kind to be trifled with. Really, anything that left any kind of mark tended to be dangerous magic.
+
+It wasn't something he could just dispel, either. Most magical effects were easy enough to break with a sharp burst of mana, because they settled around their target as a sort of pseudo-spellform. Curses, on the other hand, engraved themselves into a mage's core. A blind dispel was more likely to do severe damage than cure the curse.
+
+Cale's own method of countering curses mostly involved not letting them tag him in the first place. It was one of the reasons he kept his barriers up so consistently—his mana core couldn't be tagged with a curse if the curse couldn't reach it in the first place. On the rare occasion one was able to slip past, he simply burned up the part of his core that held it.
+
+There were some advantages to the reincarnation thing.
+
+Almost every world forbade curse magic, and with good reason, but as with all forbidden magics, it never stopped mages from practicing the art. That was part of the reason curses were so common—for all that practitioners were technically rare, curse magic liked to spread. Give a few foolhardy mages enough time and an infinite multiverse, and, well...
+
+This sort of thing was rather depressingly common.
+
+"Wait—are you saying Nala was threatening you with becoming corebound?" It took Syphus a moment to process the gravity of the threat, but the moment it did, it leaned forward and slammed its fists into the desk. Both Cale and Graystalk jumped at the sudden display of emotion. "That's vile. You can't just do that to another mage."
+
+"She is, to the best of my knowledge, unaware of the particulars of my condition." The professor rubbed the bridge of his nose tiredly; Cale could see he'd had this conversation with himself countless times. "She simply knows I cannot lose access to the Brightgrove Pools, and uses that to get what she wants. That ends now, however. Hopefully your little demonstration has humbled her, but if it has not..."
+
+He turned to Cale, clearly wanting to move on from the conversation. "It... surprised me, how much your words and your presence changed the perspective my students hold toward the Standard Array. I received more questions about the Standard Array after that duel than after any class I have ever held."
+
+Graystalk hesitated for a moment, then dipped his head in a slight bow. "I look forward to having you to assist me with my future classes, Cale, and to that end..."
+
+He produced another Astral credit and pressed it into Cale's hands. "Here," he said. "Let it not be said that I am ungrateful, though it does seem that you are collecting these rather quickly." His lips twitched with faint amusement. "I do hope you know what to do with them."
+
+"Absolutely," Cale lied. They stared at one another for a moment.
+
+"...I am sure your friends will inform you of the details," Professor Graystalk said dryly. He nudged the stack of tomes over to the pair. "As I said, I would like to change the way I do things. I will inform Headmaster Akkau to ask the Astral Wing students who were removed prematurely to return. With your help, we may be able to find ways to allow them to cast more of the Standard Array. These tomes should help in the meantime—they are annotated textbooks I had originally created for Ms. Whiteleaf and her friends. Please hand them out as you see fit."
+
+Cale exchanged glances with Syphus, then grinned. "Looking forward to working with you too, then," he said cheerfully. "Syphus, do you have some sort of storage spell?"
+
+Syphus seemed startled. "I do," it said. "But how did you—"
+
+"Great! Let's go for lunch," Cale said brightly. "We might as well get started on this whole Standard Array thing, so let's figure out what's up with your magic, hm?"
+
+Professor Graystalk frowned. "Lunch... This is your first day at the academy, is it not?"
+
+"Sure is. Why?"
+
+He grimaced. "Be cautious, please," he said. "Our lunchlady is rather volatile, and given your personality... Well. Simply put, we do not need another, ah... incident."
+
+"Are you going to elaborate on that, or am I going to have to find out on my own?" Cale asked, and then before Graystalk could answer, he shook his head. "Actually, nevermind, I definitely want to find out on my own. I'll see you there, Syphus."
+
+Without even waiting for a response, he darted out of Graystalk's office, schedule scroll already unfurling. He was starving, now that he thought about it. Being summoned always made him hungry, and he hadn't had a meal since then.
+
+Funny thing was, the cafeteria was on fire even before he arrived.
+
+That was weird. Cale wasn't used to not being the cause of a fire. He contemplated the burning doors for a moment—no one was screaming, so the state of things probably wasn't that unusual—then shrugged and let himself in, voidcyte still in hand. He could always hand it off to Akkau for containment after he'd had a bite.

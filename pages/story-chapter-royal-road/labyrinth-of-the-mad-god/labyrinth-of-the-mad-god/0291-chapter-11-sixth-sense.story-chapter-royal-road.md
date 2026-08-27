@@ -1,0 +1,105 @@
+---
+id: 64c4f336-7436-557d-a494-6dce91cb6ead
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: Sixth Sense"
+slug: 0291-chapter-11-sixth-sense
+partOf: labyrinth-of-the-mad-god
+position: 291
+ownLength: 1973
+unit: words
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3133995/chapter-11-sixth-sense"
+royalRoadId: "3133995"
+---
+
+When Nick confirmed his intentions, the world faded away, and his trial of mastery began.
+
+He found himself standing in a beam of sunlight on the crest of a tall hill. Below him, a verdant countryside stretched toward the horizon—checkered with the green, yellow, and brown of small farmsteads. Fragrant trees with bright-purple blossoms grew everywhere. Their petals were carried by a stiff autumn breeze, filling the air with a riot of color and motion.
+
+In the center of the hilltop stood an elaborate shrine with an offering bowl. Behind the shine sat a cluster of auxiliary buildings with open doorways. The architecture reminded him of a Japanese temple, although it was abundantly clear this landscape wasn’t from the planet of his birth.
+
+Nick was alone for the time being and assumed his opponents would emerge from the structures ahead. It gave him a chance to obtain his bearings and prepare for the ordeal to come—time he intended to take full advantage of.
+
+He took a long look around, keeping his guard up all the while. The first thing he noticed was he was unarmed and unarmored. His tool belt and backpack were nowhere to be found, and he was dressed in a simple clothing that didn’t interfere with his range of motion and offered no protection against attacks.
+
+Just like before, he couldn’t use any powers that weren’t directly tied to the way he used his Evasion skill, which in this case, limited him to Arctic Clarity and Force Acceleration. While he could cast his mobility magic, Nick had a hunch that the System would increase the difficulty of this trial to incorporate its use. While he could move with the enhanced agility he was used to, it wouldn’t make the test any easier.
+
+He called upon Arctic Clarity and activated the passive ability, whetting his concentration as a layer of force mana encased his body to amplify every move he made. With that, he was as ready as he could be. Now it was time to find out if the training he’d undergone was sufficient to clear this trial.
+
+Although he hadn’t spotted any enemies yet, he was expecting an ambush… which was the only reason he didn’t fail his test then and there.
+
+Without warning, an arrow came sailing out of one of the windows, streaking straight for the center of his chest. By the time Nick took a step to the side, two more were headed his way, followed by a collection of rocks, darts, and crossbow bolts.
+
+With his present stats, he could track the trajectory of several dozen missiles at once, projecting the angles of their approach while searching for safe spaces to move his body without being struck. That being said, the flying petals were distracting, and he had to filter them out on top of everything else.
+
+He ducked and dodged like mad, spinning out the way of an arrow, sliding beneath a trio of stones, then leaping over a crossbow bolt that would have pinned his foot to the ground. From time to time, he caught a glimpse of his assailants—shadowy forms moving within the structures ahead. He backed up to give himself more time to react, and they emerged from the buildings to follow him.
+
+He took in the image of crimson-skinned humanoids with deep-green horns. They were dressed in simple leather tunics and armed with a collection of ranged weapons. The archers leapt onto the rooftops to increase their range, while the crossbowman and a pair of warriors wielding slings fanned out in a half-circle around him.
+
+Six opponents so far, but I don’t see the dart-wielders, and I shouldn’t assume that’s the only direction from which danger will appear.
+
+Sure enough, while he was evading the next volley, another pair of darts came sailing out of the windows, which were small and harder to track. Dealing with eight intelligent opponents was pushing the limits of what Nick could handle, both physically and mentally. He couldn’t watch them all at the same time, which meant he had to build a mental model and anticipate some lines of fire without knowing exactly when the next attack would land.
+
+He briefly considered going on the offensive, but his assailants were nimble enough to dodge the stones he tossed their way, and if he closed the distance to fight with his hands, he wouldn’t have enough time to avoid their strikes. Besides, this is my Evasion test. I doubt I can beat it by defeating these guys.
+
+Just when it seemed that the situation was under control, an object passed between him and the sun, revealing its location and the direction it was heading. He threw himself out of the way a heartbeat before a small boulder came crashing into the ground where he’d been standing with a thud that vibrated his teeth.
+
+When Nick spun out of the way of the next barrage, he glanced down the hill—where a pair of catapults were positioned. One was still reloading, but the other had pulled down its basket, and the operator was reaching for the firing lever. That’s ten ranged attacks to contend with.
+
+Each weapon had unique properties. The catapults were slow, but the stones arced from above, which made them hard to spot unless he saw them fire. The dart-blowers were hidden inside the temple, which made tracking their movements tricky. The archers, sling-wielders, and crossbowman were easier to spot, but they were watching him closely, anticipating his movements and firing at where he was heading instead of where he was.
+
+For the next ten adrenaline-soaked minutes, he poured every scrap of his concentration into threading the needle and staying out of harm’s way. He entered a trancelike state, tracking each source of danger while maintaining awareness of his body and calculating which moves would keep him from being struck.
+
+Some patterns were incredibly complex, and dodging every attack was only possible by performing a precise sequence of movements at just the right time. He lost himself in the dance, flowing and bending, weaving and twisting in a frenzy of precisely controlled motions. He knew he hadn’t reached the climax yet, since if this was all he had to deal with, he should have completed the trial already.
+
+So far, every strike had been a projectile fired from range, but Nick wasn’t taking that for granted. He had a sneaking suspicion that the prolonged assault was meant to create an expectancy bias, leaving him vulnerable to threats of another nature.
+
+Sure enough, he felt the paving stone beneath his boot vibrate as earth mana gathered below his feet. He leapt to one side a fraction of a second before a rocky spike emerged from the ground, grazing his leg despite his hasty retreat. When he followed the flow of mana, he spotted a mage poking her head around the corner of a building with a bloodthirsty grin on her face.
+
+For a second, Nick was worried he had failed the test, but it seemed the goal wasn’t to avoid every attack but survive until the end of the trial. It was a good thing, because he wound up taking several more wounds as the barrage intensified, including an arrow through the shoulder that hurt like hell but didn’t hit anything vital.
+
+He knew he was reaching the end when three warriors stepped out of the doorways and came charging his way. One held a sword, another a spear, and the third carried a naginata longer than his body.
+
+They spread out to hit him from three sides at once. The projectiles kept on coming all the while, forcing him to divide his attention. Even with his high Mind, Creativity, and Arctic Clarity, he couldn’t track them all, which made getting out of the way a great deal trickier.
+
+It was the most challenging defense he’d ever maintained, forcing him to dig deep and draw on every scrap of combat experience he had racked up by this point in his adventures. His awareness of time and self faded into the background, leaving only the enemies attacking from all sides and the sensations of his body in motion.
+
+Just when Nick couldn’t take it anymore, the world faded to gray. When color returned, he was standing beside his friends with an update floating in front of his face.
+
+Congratulations, you have completed the Journeyman trial of Evasion mastery. Your skill can now advance to 50, at which point you may take the Adept-level trial.
+
+For reaching the Journeyman stage, you have gained the following bonus:
+
+Sixth Sense
+
+You will feel a faint tingling when an attack is headed your way from outside your field of view. This bonus may not be effective against opponents using advanced concealment techniques.
+
+Through use, you have improved the following skills:
+
+Acrobatics has increased from [10] to [13].
+
+Hell yes. Nick pumped his fist and let out a triumphant cry.
+
+“I assume that means you passed your test,” Kenji said.
+
+“Yea, although that one was touch and go.”
+
+Nick reported everything he had experienced during his trial, in case it offered Kenji any insights. He still wasn’t sure why he was the only person who could clearly remember the details, although he suspected it had something to do with his Portal Visionary technique. After describing the bonus he’d earned, the only thing left was to give it a try.
+
+Sixth Sense wound up being flat-out amazing.
+
+It took him a while to internalize that the prickling on various parts of his body meant an attack was coming from that angle, but as soon as he got the hang of it, his friends’ flung stones and tail lashes no longer hit him unless Kenji activated Blend or the beasts entered stealth mode before launching their strikes.
+
+Even then, he felt a flicker of sensation a bare instant before the blows landed. While Force Acceleration was running, he avoided a fair number of ambush attacks with only a fraction of a second’s warning. All in all, Sixth Sense was a fantastic bonus that was certain to save his life over the trying days ahead.
+
+Nick asked his team to keep up the routine they had developed for Evasion, since it should help him train Light Shield too. This time, instead of trying to dodge, he only let himself block or deflect with his Caster’s Buckler, even if it meant taking the hit. He racked up some painful bruises in the process, but the method was an effective teaching tool.
+
+After a while, he asked Bandit to mix in some attacks with shadow flame, since the lemur could extinguish the fire at will and order it not to cut. It was a good way to practice defending against spells and a useful method to improve his mage sight.
+
+On that note, while he tended to view mana with his eyes, it wasn’t the only way he could sense the magic in his environment. Having Bandit hit him from behind was making him more sensitive to spells he couldn’t see—especially when incorporating the feedback from Sixth Sense.
+
+Kenji adapted the training to his own regimen, since his Heavy Shield skill wasn’t too far behind Nick’s. He couldn’t move the massive tower shield quickly enough to deflect attacks, but he was practicing blocking strikes coming for the rest of his team on top of the ones targeting him directly.
+
+The warrior was working on detaching the shield from his storage strap and positioning in a single motion, since the gigantic slab of armor was too bulky to carry in front of him while crossing the conduit.
+
+Fritz chimed in every now and again to offer helpful pointers, and Nick had a good feeling that they would both pass their Shield trials before reaching the quarantine zone.

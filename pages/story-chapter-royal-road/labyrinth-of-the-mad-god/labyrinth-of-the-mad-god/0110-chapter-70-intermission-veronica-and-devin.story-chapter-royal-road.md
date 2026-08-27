@@ -1,0 +1,73 @@
+---
+id: 44f0d28a-5ee3-5000-821c-6c2e7dc8dec5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70: Intermission: Veronica and Devin"
+slug: 0110-chapter-70-intermission-veronica-and-devin
+partOf: labyrinth-of-the-mad-god
+position: 110
+ownLength: 1817
+unit: words
+publishedAt: 2024-12-27
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1978046/chapter-70-intermission-veronica-and-devin"
+royalRoadId: "1978046"
+---
+
+Devin raised his two-handed axe in front of his face, just in time to keep his trainer’s weapon from rendering his nose concave. While the attack wouldn’t have killed him with the protective magic the axemaster had cast before their session began, getting hit by Yoro’s strikes really fucking hurt. A truth that had been driven into Devin’s body time and time again over the last few days.
+
+The chime of metal against metal rang out across the open air, sending him scrambling to recover his footing before the next attack landed. “Nice save, lad. But you need to widen your stance and put your whole body into it when you block. Otherwise, a little shift like this…” His master yanked Devin’s weapon to one side, pulling on its shaft with the crescent of his axe. “Will send you sprawling in the dirt.”
+
+That last part wasn’t really necessary. By the time that Yoro finished his sentence, Devin was already sitting on the ground, landing hard enough to bruise his tailbone. “Point taken.” He let out a groan, which earned him a chuckle from the mustached man. He was going to be sore in the morning, but it wasn’t the worst injury that Yoro had dealt him, not by a longshot. Devin raised his gaze to inspect his mentor before rising back onto his feet.
+
+Yoro was eight feet tall and covered in dense crimson fur, with a pair of white horns curling up from the top of his head. The man was burly and battle-scarred, every inch of his body covered in dense, bulging muscle. Devin couldn’t even begin to guess how powerful Yoro was when he wasn’t holding back, but he was certain that the man could end his life in a single blow if he were so inclined.
+
+“Take five minutes to catch your breath, then get off your ass and come at me again. We’re doing another hour of two-handed drills, then switching back to the one-handed version. That’s one nifty weapon by the way. I wish that I’d had something like it back when I was still green. If you can find someone to train you in the shield and the path of flame, you’ll wind up with one of the most versatile combat styles I’ve ever seen, at least for a tier-one warrior.”
+
+Devin let out a long sigh, then lay back in the dirt, looking up at the water swirling high above his head. To his perennial surprise and wonder, the training ground he’d been sent to was deep below the surface of the ocean, along with the entire town that held it.
+
+In the distance, he could see squids the size of oil tankers, glowing with their own inner light as they darted among beds of kelp bigger than sequoia redwoods, hunting for fish hiding between the fronds. There must be some manner of magic regulating the pressure down here. Otherwise, it would be crushing at this depth, even at my level.
+
+He got back onto his feet before the allotted time, having learned from experience that Yoro would chew him out for being lazy if he took the full break that was offered. Devin walked over to a bucket of water to take a long drink. Then he picked up his weapon and took his stance, ready to continue his training.
+
+Despite his unusual appearance and gruff demeanor, the giant was a surprisingly good teacher. Yoro was patient, thorough, and had a way of explaining things that let Devin grasp the concept right away. He’d already taught Devin more about the axe than he had learned on his own over the last two months, and their training session had only just begun. He was confident that by the end of their time together, he’d be fighting on a whole new level compared to where he was right now.
+
+He raised his axe in a neutral posture and assumed the open stance he had been taught, where he could shift from offense to defense at a moment’s notice. The instant that his weapon was up, Yoro came for him, whipping his axe around in a powerful sweeping blow at the level of Devin’s knees. It would have knocked him down again if he hadn’t been ready. But he knew by now that Yoro didn’t believe in issuing a warning before launching an attack.
+
+It was a philosophy that Devin agreed with. If it wasn’t going to happen on the battlefield, it shouldn’t happen in practice either. Instead of blocking the strike, he leapt high, intending to jump over the low blow and counter with a chop. The moment his feet left the ground, Yoro let go with one hand, reached back, and then punched Devin square in the nose, hard enough to crack the bone behind.
+
+He went flying back to go sprawling in the dirt once more, staring up at stars dancing around his head. “That was a good counter. But you shouldn’t assume that my axe is all you need to worry about,” Yoro chided before helping Devin back onto his feet.
+
+“My entire body is the weapon. If you only track my axe, you’ll leave yourself wide open, especially since many opponents will be able to attack from range to at least some extent. Follow the blade, get lost in the blade. Follow my hands, get lost in my hands. Follow my eyes… you get the idea. Only by taking in the totality of your opponent and the surrounding battlefield will you truly be ready to fight for your life.”
+
+Devin’s face really fucking hurt, be he found himself grinning anyway. He knew that Yoro was correct. That making a mistake like that in a real fight would be the death of him. Thus, despite the brutal method of instruction, he was grateful for the lesson. Even if his mentor wouldn’t heal him until after their sparring was over. Yoro was right, pain really was the best teacher. Now, how can I do better next time?
+
+“Enough thinking lad. You won’t have time to think when someone is coming to claim your head. Use what you’ve learned and come at me with everything you have. It’s time to show you a few tricks you can use to take down a stronger opponent.”
+
+The clang of steel against steel rang out as Devin rose to the challenge, eager to give it his all and return to his team a better warrior than when he’d left.
+
+***
+
+Veronica raised her wrist-mounted crossbows and scanned the ground in front of her. She ran her eyes over each patch of woodlands before moving onto the next. Never stopping for more than a second, and changing up her blind spot by turning her head.
+
+She knew that the next attack would come at any moment from a random direction, and she needed to be ready. If she hesitated for even an instant, the heatseeking orbs would hit her hard, adding another set of painful bruises to her already impressive collection.
+
+A bare heartbeat later, motion from the branches drew her attention, as two white spheres emerged from the canopy, soaring toward her position at incredible speed. Veronica had been hit by enough of them by now to know that they were like water balloons filled with jelly, tough enough that they would only burst if she struck them dead center with her bolts.
+
+With no time to hesitate, much less to think, she aimed each crossbow independently and fired them back-to-back. Thunk. Thunk. Both bolts streaked through the air to land on target, the magic orbs bursting in a great spray of droplets. It was one of her best shots yet, but she didn’t stop to savor her accomplishment. Acting on instinct, she spun on her heels, just in time to see a third orb coming at her from behind.
+
+Veronica dove to the ground and tucked into a roll, spinning around the instant that she sprang back onto her feet. The orbs wouldn’t stop chasing her just because they missed on the first pass. A lesson she’d internalized after a few painful mistakes.
+
+She fired both crossbows at once this time, waiting until the orb slowed as it came back around. One shot went wide but the other flew true, hitting the magical projectile dead center. She let out a cry of triumph and then turned to her mentor, a winged woman with frosty white skin.
+
+“Did you see that Pellia? I finally got them all…” Veronica’s words were cut short as the fourth orb hit her hard, sending her rolling in the dirt. It must have been coming straight down the whole time, arriving from above her field of view. She was dazed from the strike but didn’t stop moving. The orb wouldn’t stop attacking just because she was down either.
+
+She concentrated and then activated an ability, bone claws pushing through the back of her hands. Ignoring the pain that she’d grown used to by now, she swiped at the orb before it could hit her again, gutting it on the ends of her claws.
+
+“What the hell was that?” Her mentor smacked Veronica on the back of the head, right where her newest bruise was starting to form. “Did I tell you that you could use your claws? This is supposed to be crossbow practice.”
+
+“Sorry Pellia, I reacted on instinct. I’ll try not to do it again.” The expression on her mentor’s face softened when she saw that Veronica was telling the truth. The woman was a merciless teacher, but she wasn’t unforgiving or cruel.
+
+“It’s not a bad reaction and it would have saved you in a real fight. But the purpose of this training is to teach you control, not just to learn how to hit a moving target. That same reflex could have killed you if your opponent was immune to your slash. On that note, I’m adjusting the orbs. They won’t burst anymore unless you hit them with a bolt.
+
+“Oh, and if you see a green one, you’ll have to use your acid shot to take it down. You need to get faster at deciding when to use the ability, but also not to waste it. Mess up too many times and you’ll run out of mana before you burst them all, and I promise that it’s going to hurt if you do. Now, get back on your feet and do it again. Faster and more accurately this time. The next round will begin in five seconds.”
+
+With a growl of frustration, Veronica rose to her feet and started scanning the canopy, ready to give it her all. While she waited for the next attack to come her way, she couldn’t help but wonder how the rest of her team was doing. I wonder what Nick is up to right now.

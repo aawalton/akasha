@@ -1,0 +1,135 @@
+---
+id: 1d97abdd-14b7-55fa-8414-2a2e387483fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter Four: Tutorial: The Searing Isle"
+slug: 0004-chapter-four-tutorial-the-searing-isle
+partOf: labyrinth-of-the-mad-god
+position: 4
+ownLength: 2971
+unit: words
+publishedAt: 2023-09-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331023/chapter-four-tutorial-the-searing-isle"
+royalRoadId: "1331023"
+---
+
+When Nick came to, he was lying on the beach.
+
+He had always loved the ocean. No matter what was going wrong in his life, the rhythmic pounding of waves crashing against the shore inevitably soothed his soul. He had spent some of the worst days of his life at the beach, drawing comfort from the eternal cycle of the tides. Standing juxtaposed between the boundary of three realms: the ocean, land, and sky.
+
+Although he couldn’t remember it yet, that part of his life was over. Dead and buried alongside three-quarters of the human race.
+
+The calm that Nick felt from resting on the shore clashed with the adrenaline still surging in his veins, the tension of his overtaxed muscles wrapping tight around his body like constricting bands of steel. The sting of sunlight warmed the cuts on his feet.
+
+As the roar of the surf beckoned him back to consciousness, he realized that he couldn’t recall how he had made his way down to the beach. His mind was filled with mist and haze. He couldn’t remember anything after he had logged out of the game and fallen asleep.
+
+Although he would soon be swept up in the gravity of his situation, for now, in this fleeting moment of serenity, Nick was okay.
+
+He opened his eyes, then shut them tight again, as the sunny blue sky thrust lances of light deep into his retinas. He squinted, barely opening his eyelids. He waited for his vision to adjust while rubbing his aching temples with the palms of his hands.
+
+I must have been asleep for a while. He felt groggy and discombobulated, still half lost in the space between worlds. He focused on the rhythm of the surf, waiting for reason and recollection to return.
+
+When he could bear to keep his eyes open, Nick sat up and took a long look around. He found himself alone on a pristine dunescape formed from ivory folds of sand, staring out across the open water.
+
+It’s beautiful here. He took a deep breath and smiled. The piercing cries of gulls filled the air, carried by a moist breeze that had kissed the sea for countless miles, leaving the tang of salt upon his lips in passing.
+
+Eventually, his mind was clear enough for questions to begin drifting up from his subconscious, like bubbles rising from the bottom of a muddy lake. Where am I? How did I get here? Did I get blackout drunk and miss the raid?
+
+No matter how intensely he probed his murky memories, he couldn’t remember anything since he had passed out the night before. At least Nick hoped it was the night before. The possibility that he had lost days of his life was a frightening proposition.
+
+When he looked down at his fingers, cognitive dissonance hit him like a punch to the gut. He was shocked to discover that his fingernails were almost an inch long. He shaved every night and trimmed his nails every few days.
+
+Suspecting that he was the victim of some sort of practical joke, Nick tried pulling what he thought were press-on extensions free from his fingertips, only to find that they were his own, natural nails.
+
+What the fuck? He was floored by this discovery. It made even less sense than waking up on the beach, since it would take months for his fingernails to grow to such a length.
+
+His shock turned into alarm when he raised his hands to his face. Extending well past his jawline jutted a full mustache and beard. His bangs were so long that they touched his chin, and the back of his hair fell below his shoulders—longer than he had ever worn it before.
+
+The sense of calm that sitting on the beach had evoked was shattered in that moment. Like a wrecking ball passing through a pane of glass.
+
+As hard as it was to process, it appeared that Nick’s body had aged months since the night of his last memory. Was I in a coma? Why can’t I remember anything? I’m still wearing my jeans and bathrobe, and my muscles show no signs of atrophy. This makes no sense. What’s happening to me?
+
+After a bit of probing, he determined that his head didn’t have any scars or bruises, so his condition wasn’t likely to be a hallucination brought on by a concussion or other traumatic injury to his brain. And though his mind was filled with a roiling mist, his consciousness did not feel otherwise altered. The possibility that he was lost in a drug-induced vision seemed unlikely as well.
+
+As he sat there, eyes reflecting the dawn of an alien horizon, the first part of his life came to an end, and the next chapter of Nick’s tale began.
+
+Although his thoughts were slowly starting to sharpen, his memories stubbornly refused to return. He was going to have to tackle this situation without them. He reached into the pocket of his bathrobe to pull out what he thought was the familiar bulk of his cellphone, only to discover two lightly sanded chocolate chip cookies instead.
+
+While it didn’t really make sense, he was beginning to wonder if he was the victim of an elaborate practical joke after all. Regardless of the truth of his circumstances, he needed to find someone and call for help, then get his brain looked at by a doctor.
+
+Nick rose to his feet, screamed, and immediately fell over. Pain radiated through the bottom of his soles as hot, salted sand pressed into the cuts covering his feet. Wounds that he had no memory of receiving. He froze and tried to focus on the comforting crashing of the waves, gritting his teeth until the pain dipped from excruciating down to merely agonizing.
+
+He gingerly brushed off his toes with a corner of his bathrobe, scared to see what his skin would look like under the layer of sand. When he was finished, he sighed with relief. His feet were sensitive and raw, but the damage wasn’t nearly as bad as he had feared. His reaction had been due to surprise as much as pain.
+
+After spotting some scrapes and bruises on his legs, he carefully probed every inch of his body. The injuries appeared fresh, but most were only skin deep.
+
+The bottom layer of my feet is shredded, but none of the cuts look infected. I’m a bit banged up, but nothing seems to be broken. Did someone jump me and leave me for dead? I seem to have been running without my shoes. Fuck. I don’t have shoes or a hat, and the sunlight is intense. I’m going to get burned if I’m not careful.
+
+Nick had learned long ago that when life seems overwhelming, rather than focusing on a problem as a whole, it’s best to break things down into the simplest possible steps and then solve them one by one. Thus, rather than letting such worrisome thoughts consume him, he focused on his immediate needs.
+
+He tore two long strips from the bottom of his T-shirt, carefully wrapping the cloth around his feet, then tying it in place. Probing them through the wraps still hurt, but he should be able to walk on the soft sand without aggravating his wounds.
+
+Thousands of hours of competitive gaming had conditioned him to always have a plan. He engaged the problem-solving part of his brain while bracing himself to rise to his feet once again. I need to borrow someone’s phone, call the police, and let my family know that I’m all right. Everything else can wait until I’m safe.
+
+After a final, frustrating moment spent trying to remember how he had arrived on these shores through sheer effort of will, Nick sighed and stood up for a second time.
+
+He took a deep breath as he rode out the initial wave of discomfort. Putting weight on his feet still hurt, but it wasn’t nearly as bad as he’d feared. After taking a few tentative steps and adjusting his wrappings, he was ready to begin searching for civilization. He found that if he didn’t step on shells or stones, he could walk along the wave-smoothed sands at a reasonable pace.
+
+The heat was intense, especially with the sunlight reflecting off the white dunes. He was already sweating, and he was just getting started. I need to stick to the shade as much as possible and find something to keep the sun off my head.
+
+Before committing to a direction, Nick cast his gaze across the pristine beach, searching for any signs of other people. But no matter how hard he looked, he found nothing but an unbroken expanse of ivory sand and crystalline water. There were no beach towels or umbrellas set up along the shoreline. No kayaks or surfboards floating atop the waves, which shimmered with strange hues when the light hit them at just the right angle.
+
+He couldn’t spot a single wake or sail, and when he looked up, there were no planes crossing the sky or the ubiquitous trails of vapor they left behind. There wasn’t even any trash. Not so much as an empty can of beer or discarded wrapper. Nick had never laid eyes on such a flawless natural location. Even the national parks were grungy by comparison.
+
+He strained his ears, listening for the sound of voices or engines in the distance. For the first time in his life, no mechanical reverberations rode the breeze. Only the timeless music of wind and water, accompanied by the mournful cries of seabirds.
+
+Moving on, Nick tried to identify the beach by examining the terrain, hoping to spot a familiar landmark along the skyline. The white sands stretched on for as far as his eyes could see in both directions, the shore gradually curving as it merged with the horizon. Behind him, the beach sloped gently upwards until it transitioned into what appeared to be a wide swath of woodlands.
+
+That was when he saw the mountain looming above the roof of the canopy. A mountain billowing a thin band of black smoke.
+
+For a long moment, he was terrified that he was standing near a forest fire before his brain processed what he was seeing. It’s a volcano. This shocking revelation was followed by another. I’m on an island. Decent-sized one too. He looked out across the water, realizing that the unusual color wasn’t just a trick of the light. There were hints of rose and emerald swirling around the endless expanse of blue. Am I somewhere in the Ring of Fire?
+
+It doesn’t matter where I am, Nick decided, still coming to grips with one shocking observation after another. I’m in the middle of nowhere. There’s no sign of anyone nearby. I have little food, no water, no shoes, and no idea where to go.
+
+In that moment, he was filled with a sinking certainty that his circumstances were even more dire than his amnesia. This is a serious situation. You don’t have time to wait for your memories to come back. You’re going to be in trouble if you’re still out in the open when the sun goes down.
+
+He knew that he could go several days without finding food, especially with the cookies in his pocket to sustain him. But water was another story, since Nick was sweating profusely due to the heat.
+
+First things first, I’m going to burn if I stay under this sun. He looked around and saw a palm tree a bit further down the beach. No. It isn’t a palm. The leaves are wrong, he noted as he moved to stand beneath their shade.
+
+While he took stock of his situation, he adjusted the wrappings on his feet, realizing that his toes were already sore from walking with such long nails. Before he set off on his unwilling adventure, he nicked them with a rock and then carefully tore the ends off his crazy-long finger and toenails. They were far too uneven, but they would have to do for now.
+
+Nick picked up a fallen frond to use as a makeshift umbrella, then rose to his feet and started walking. He continued down the beach for what had to be two or three miles. In addition to searching for water and shelter, he was also looking for a private dock or parking lot. He was still hoping to find another living soul somewhere out here, or at least a path that he could follow back to civilization.
+
+But no matter how far he traveled, he couldn’t spot a single sign that anyone else was around. No evidence that other people had ever been in the area, for that matter. Despite this disappointing development, he pressed on.
+
+Okay Nick, it’s time to activate survival protocols. Step one: survey the area, looking for water, shelter, and food in that order. You might still find help, but you can’t count on it given what you’ve already seen. Putting up an SOS is a good idea, but not until you know where you’re going to be waiting it out. Stay on the beach and avoid the trees for now. Visibility will be poor under the canopy, and it’s not a good idea to walk in there without boots.
+
+Keep an eye out for clumps of vegetation, animal activity, or other signs of fresh water. Try to find some elevated ground so that you can take a better look around. Judging from the position of the sun, it's either a few hours before or after noon. Hopefully before. Because, as bad as things are now, when the sun goes down, it’s going to get a lot worse.
+
+Two hours later, running his tongue across increasingly dry lips, he was forced to admit that finding his way back home might take longer than he had hoped—days or possibly even weeks.
+
+The further Nick went, the thirstier he became. He was still sweating profusely, even with the frond to block the sunlight. At least it wasn’t getting any warmer, or he would have had to worry about heatstroke too.
+
+The magnitude of his situation began intruding on his state of mind, cementing his understanding that this wasn’t simply a matter of being injured or lost. His life was on the line, and the next choices he made could mean the difference between surviving this catastrophe or succumbing to it.
+
+He came to a stop as the full implications of his ordeal caught up to him. His breath came fast and shallow, and his pulse began to race.
+
+Don’t freak out. Shut out everything but the next step and just keep breathing. Panicking will only make things worse. Nick had been calling for help every few minutes, but he stopped when he grasped that his voice wouldn’t carry much further than his eyes could see. If there were any dangerous predators in the area, drawing attention to himself would be a critical mistake.
+
+To distract himself from his growing fears, he took a quick survey of his inventory. The top half of a cotton T-shirt. A pair of blue jeans with four small pockets. Two crude foot wraps that won’t last long. A bathrobe with two large pockets holding two chocolate chip cookies and a random stick. One palm frond and… a couple of rocks. He picked up a few stones the size of tangerines and slid them into the empty pocket of his robe, figuring that he could use them to drive off wild animals as a last resort. He would keep an eye out for a suitable walking stick as he traveled.
+
+Other than the cookies, the most valuable item was his bathrobe. Most bathrobes were basically beach towels with arm holes, but his was top of the line. The fuzzy beige fabric was durable and soft. Although Nick always wore it when he was home alone, which was pretty much whenever he was home, it hardly showed any signs of wear.
+
+It felt weird walking without the familiar bulges filling its pockets. Despite the severity of his situation, he laughed when he realized how naked he felt without his cellphone, keys, and wallet.
+
+From the changing angle of the mountain, he determined that he was slowly rounding the perimeter of the island, still heading in the same general direction. By now, the sun had risen enough for him to know that it was morning rather than evening, which meant that he was facing west when looking out across the water.
+
+Nick continued walking south along the beach, marveling at how vibrant the shoreline was. The cries of gulls filled the air, and tiny crabs scuttled along the water’s edge. Clouds of midges flocked around mounds of kelp, adding a tangy scent that reminded him of sushi.
+
+He had just crested the top of a low dune when he stopped dead in his tracks, eyes wide with astonishment. Because that was when his gaze fell upon a large group of animals in the distance, scampering along the shore in scattered clumps. Those look like monkeys, but I don’t recognize the species. Where in the world am I?
+
+There were at least fifty of the creatures moving in a roving tribe. He dropped to his hands and knees to reduce his profile. He knew that many species of primates were aggressively territorial, so being spotted was the last thing he wanted.
+
+His heart pounded in his chest. The fear of discovery sent adrenaline coursing through his veins. Nick had never tried to conceal his presence before, and he poured every drop of concentration into his fledgling attempt at stealth.
+
+He knew that if he made a single mistake, it might be the last one he ever made.

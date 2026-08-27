@@ -1,0 +1,285 @@
+---
+id: 3962d3c7-98db-5975-8dcd-456ae88c7350
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Good Dreams and Bad Luck"
+slug: 0007-chapter-7-good-dreams-and-bad-luck
+partOf: mark-of-the-fool
+position: 7
+ownLength: 2514
+unit: words
+ownProgress: 2514
+publishedAt: 2021-04-06
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/659447/chapter-7-good-dreams-and-bad-luck"
+royalRoadId: "659447"
+markedReadAt: "2026-06-29T20:11:01.060Z"
+---
+
+Theresa continued to watch him for a moment, before sighing and turning away.
+
+“I have dreams too, you know?” Something passed through her expression, too quick for Alex to catch.
+
+He paused. “Yeah, I mean, that’s what makes people wake up in the morning, right? Well, that and work. You never told me about your dreams before, though. What are they?”
+
+The young huntress’ gaze drifted fondly over the fields, before rising up to the southern horizon. “Well…Alric’s my home, and I love it, but it’s not where a smart person would have big dreams, is it?”
+
+“What do you mean?”
+
+“Well, it’s…comfortable.” She frowned as she searched for the right word. “It’s safe, most people have enough to eat and neighbours treat each other well. You can grow up there, work there, have a family and be happy there.”
+
+“...I feel a ‘but’ coming.” Alex said.
+
+“But there’s not much to it, is there?” She looked at him sharply. “I’ve explored most of the Coille Woods—at least as deep as I want to go—raised Brutus and walked about as far south, east and west as I could while still making it back home before dark. And then...that’s it.” She shrugged. “There’s nothing new anymore. Nothing exciting or dangerous-”
+
+“Dangerous?” Alex raised an eyebrow. “It’s pretty dangerous right now.”
+
+“That’s too dangerous. You remember when grandfather used to tell stories about my great-grandfather?”
+
+“Oh yeah, ‘Twin-Blade Lu: most feared man to sail under the Tarim-Lung Navy,” he chuckled, fondly remembering how he’d crowded into the Lu’s inn with his own father and mother—who was pregnant with Selina at the time—and watched the old Lu patriarch weave stories in front of the hearth. It was back when fire held a different meaning to him.
+
+“He sailed with the ambassador’s own crew,” he recalled. “And fought off a hundred pirate ships before he retired. Fell in love with Thameland on a journey here, and ended up bringing his family.”
+
+Theressa smiled. “I loved those stories.”
+
+“I know, you-”
+
+“No, I mean I wanted to be in them.” She spread her hands. “Adventure, seeing different lands, battles, fear…I wanted all that. Why do you think I dodged knitting lessons and kept going into the woods? I was so glad that my brothers were shit with a bow.”
+
+“I...I don’t think those adventures were so happy for him at the time,” he said carefully. “Exciting maybe.”
+
+“I know,” she growled in frustration. “When others weren’t around, grandfather would tell us about some of the bad parts that his father told him: that’s what made me think twice about running off. Great-grandfather buried too many of his friends at sea. Sometimes I’d still think about leaving though—and I still might have—but then…your parents.”
+
+She sighed.
+
+“I’m sorry, Alex.”
+
+He grimaced. “Thanks. It put things in perspective, didn’t it? There was Selina to think about. The future…” He trailed off.
+
+She gave him another long look. “Right. The future. That’s what I thought about too: what would mother, father, my brothers…you…what would any of you think if something happened to me? So I thought I’d better just grow up. There’s a lot in Alric to be thankful for: my family, my friends…”
+
+She paused.
+
+“But then,” he said. “You heard that The Ravener was coming, and you thought, ‘why not’?”
+
+“Yeah.” She ran her hand through her midnight-black hair. “But mostly I found out that you were preparing to run off to wizard land for Uldar knows how long, and didn’t tell anybody.”
+
+“Yeah…” He awkwardly scratched the back of his head. “Sorry, I thought it wasn’t that likely I’d get in, and I would’ve gotten everyone’s hopes up for nothing.” He shrugged. “I only got the acceptance letter the day before yesterday, and I was going to tell you all last night. Like a little birthday announcement.”
+
+“I wouldn’t have been disappointed,” she muttered. “And maybe knowing would have made me think about my own path earlier. Here I was staying to be the responsible one, while you were looking to take Selina and go off to a wonder of the world. So, when I heard everyone was leaving Thameland, I thought…why not? I can see this wizard city for myself. And…”
+
+She shifted in place. “...we’d be together. You, me and Selina.” Her eyes watched him closely.
+
+His heartbeat started to quicken. There was a hint there. It might have been hope making him see it, but he was sure it was there. “I-”
+
+“Shhh!” she raised her hand suddenly.
+
+He startled, his head turning every which way. “What is it?”
+
+“Shhh!” Theresa was on her feet in an instant, her sharp eyes scanning the dark. “Listen.”
+
+Alex shut his mouth and held his breath.
+
+And he heard…nothing.
+
+The wind had stopped.
+
+Crickets had fallen silent, and he could only hear the pipes playing in the south. Alone, they went from ‘cheery’ to ‘eerie’.
+
+“I...can’t hear anything,” he whispered.
+
+“Exactly. The forest is never this quiet.” Theresa slipped back into the circle of firelight with Alex following close behind.
+
+She crept to her sleeping roll and rummaged through it. When she rose, she had tied her quiver to her belt and had her bow in hand. On her opposite hip gleamed two blades: her massive hunting knife and—to his surprise—one of her great-grandfather’s swords. As she silently went to wake Brutus, Alex moved near his sleeping sister and turned to peer into the trees opposite Theresa. This way, they’d be covering most directions. Or so he hoped.
+
+He willed his forceball to drift a few feet ahead of him; it illuminated the foliage beyond the reach of the fire with its red light. He injected slightly more mana into the circuit and the glow brightened. A low, ominous hum groaned from the orb.
+
+There was a scrambling as Brutus woke and rose to his feet, growling from all three heads. Selina groaned in her sleep.
+
+“Do you see anything?” Theresa asked.
+
+“No,” he said, willing the forceball to rise higher. The humming spell drifted until it was just below the branches of the forest canopy. Its light bathed the undergrowth ahead and branches above, but he could see no movement or shape up ahead.
+
+He swallowed saliva and fear.
+
+“You?”
+
+Brutus growled, and Alex heard rustling as the cerberus turned in place.
+
+“...no.” Theresa admitted. “But something’s wrong.”
+
+Alex believed her; it felt like ice was crawling over his spine, but no matter how long he looked, he couldn’t see anything in the trees. He decided to risk a glance backward.
+
+“Theresa, what do you-”
+
+He stopped dead.
+
+She couldn’t see it from her position. Brutus couldn’t smell it either.
+
+But he could see it.
+
+The red glow of his orb outlined shadows in the trees above. There—sliding along the bark of an oak near Theresa’s side—was the shadow of a blade, long and wickedly curved. Slowly, his gaze drifted higher until he was looking into the tree directly above him.
+
+Something was nestled among the branches, illuminated by the fire and the red light of the forceball.
+
+It looked like a cross between a spider and a giant crayfish. Its long, armoured tail wrapped around the tree-trunk and each of its eight legs ended in long, scythe-like blades, which bit into the bark. Its front claws were pointed shears, long enough to cut Alex in half with one snip.
+
+Its jaws were wolf-like and had no lips to hide massive fangs. Despite its densely armoured exoskeleton, it crept down the side of the tree in an eerie silence. It paused, meeting his horrified eyes with eight dead, black orbs.
+
+Alex screamed.
+
+It tensed.
+
+He grabbed his shocked little sister just before it lunged.
+
+Thmp.
+
+He hit the ground hard, rolling away just as it crashed into the earth with all eight sword-like legs. They dug deep where he and Selina had been. The thing had landed in complete silence. Only the crunch of Selina’s Hero dolls shattering could be heard.
+
+“Aleeex!” the little girl screamed.
+
+The monster reared up on its back legs, its jaws parting as if screeching, but no sound came out.
+
+“Here! Over here!” Theresea cried.
+
+Crack.
+
+An arrow glanced uselessly off the spider’s armour as it rushed for the prone forms of Alex and his sister. The blades on its back legs silently churned the earth. Its claws clacked together in rapid succession: the only sound as it rushed forward. Gritting his teeth, Alex mentally grasped the forceball and drove it toward the monster’s head.
+
+The Mark flooded him as soon as he aimed at the monster.
+
+Every failure of throwing coins, rocks, sticks or anything else blasted into his mind, shaking his concentration. Through the mental noise, there was one thought: protect Selina. Through brute force of will, he blasted the spell at the creature’s head, but his aim was shaky.
+
+Crack.
+
+The red forceball missed the head, but drove into the creature’s large body with terrible force, sending it stumbling sideways.
+
+Bang.
+
+Then three sets of fangs were on it.
+
+With the creature off balance, Brutus had barreled into it with all heads snarling, knocking it onto its side. He jumped on its underbelly as it rolled onto its back. He was too close for it to bend its bladed legs and strike him.
+
+Crunch.
+
+Powerful jaws bit down, crushing chitin and pulping the meat beneath.
+
+It writhed beneath the cerberus, trying to buck him off.
+
+Theresa loosed two more arrows, cursing as they bounced off its flailing legs. She spotted a large rock and hefted it over her head, jumping onto the spider’s tail. Forcing her full weight down on it, she pressed the creature in place, then crashed the stone into the joints of the chitin.
+
+Holding tightly to his screaming sister, Alex mentally grasped the forceball as it flickered, poured more mana into it to re-energize the spell, then tried to direct it into the beast's soft underbelly. Again The Mark flooded him with a stream of failures, snapping his concentration. The orb crashed to the earth.
+
+Cursing, he poured more mana to reactivate it, conscious that his reserves were running low. Brutus suddenly yelped as a blade scraped his side; his tough hide narrowly saved him from being split open.
+
+“Shit!” Alex cursed again.
+
+He had to do something different: Brutus couldn’t fend off those blades forever, Theresa was only starting to crack the shell, and The Mark wasn’t letting him direct his spell properly. And, if he shot at it like he did the first time, he might hit one of his companions.
+
+Think. Adapt.
+
+Think. Adapt.
+
+A thought occurred to him: The Mark flooded him with failures, but not those related to spellcraft.
+
+These had to do with combat.
+
+Think. Adapt.
+
+His eyes narrowed, fixing on the beast’s open maw.
+
+What if he didn’t try to hurt it?
+
+He slowly called the orb from where it rested on the earth, willing it to gently drift around the creature. No flood came. Concentrating, he gradually pushed it closer to the beast’s snapping jaws. On reflex, it bit the orb, but its teeth slid off. Alex focused, gently pushing the ball further into the beast’s open mouth.
+
+The clearing darkened as the forceball's red glow slipped into the spider's throat and down its windpipe. No flood came. It began to panic and thrash, silently choking. Alex continued to will the orb deeper until the spell would go no further. Something had stopped the forceball.
+
+Gritting his teeth, he grasped the spell.
+
+The Mark flooded him again, but now, it made no difference.
+
+The orb was inside the monster.
+
+Distractions or not, he couldn’t miss.
+
+He drove the forceball into the side of the monster’s core, forcing it to ricochet as hard as he could around its insides. He felt the spell slam into organs.
+
+Crunch.
+
+The orb crashed into something that burst.
+
+“Screeeeeeeee!” the spider shrieked.
+
+Suddenly, its muffled screams could be heard. Its claws snipped uselessly in the air. Alex smashed his spell through its insides until whitish-grey blood poured from its jaws. Crnch. Theresa had cracked the shell on its tail. She dropped the rock and stabbed her hunting knife into the gap, twisting the blade. Insectile blood sprayed her face and hands.
+
+Its leg movements weakened and Brutus lunged.
+
+Two of his heads seized the beast's armoured shoulders. His middle jaws bit deep into its neck, cutting off its air.
+
+Then he twisted and pulled.
+
+Rrrrrp!
+
+Its throat tore out.
+
+The monster choked and shuddered.
+
+It fell limp beneath the cerberus.
+
+The sound of panting filled the clearing and Alex’s heartbeat quieted in his ears. Shouts and cries arose from the fields.
+
+A man’s voice yelled from the forest. “Hello! Are you okay? Stay there, I’m coming for you!”
+
+“There’s monsters in the woods!” someone cried. “Break camp, break camp!”
+
+Groaning, Alex pulled the flickering forceball from the dead creature as Brutus rolled off of it.
+
+“What was that!? What was that?!” Selina sobbed into his shirt.
+
+“I don’t know,” he wheezed out. “Are you hurt?”
+
+Whimpering, she shook her head into his clothes.
+
+“Were you scared?”
+
+She nodded into his clothes.
+
+“So was I.” He stroked her back, looking worriedly toward Theresa. “Are you and Brutus okay?”
+
+She was rushing toward them, pale with worry. “I’m fine!” She knelt beside them. “Are you both alright?”
+
+“Yeah…” he panted.
+
+Nodding, she quickly ran over to Brutus and gasped. “It hurt you!”
+
+Theresa cursed and dug into her bag.
+
+As she did, a group crashed into the clearing from behind Alex: men and women armed with torches and assorted weapons.
+
+“We heard a devil-like racket,” a bearded man said cautiously. “Is everyone oka-Uldar’s beard!” He gasped, along with several others. “What in all heavens is that thing?!”
+
+Alex opened his mouth to answer.
+
+“It’s a silence-spider,” a strong voice named it from the other side of the clearing.
+
+All turned to follow the sound.
+
+The brush crashed.
+
+A young man stepped through the undergrowth, into the light of fire and the forceball’s red glow.
+
+Alex’s breath stopped.
+
+The newcomer was about his age and nearly as tall as he was, but corded with the powerful muscles of a warrior. Red hair fell to his shoulders and he gripped a strange spear of shining white metal. Alex’s eyes widened. The stranger’s other hand held the head of a silence-spider. It looked like it had come from one at least twice the size of the creature that had nearly killed them.
+
+He was shirtless, and his chest and arms were covered in blue woad tattoos of knots and spirals.
+
+What drew Alex’s horrified eyes, though, was the tattoo on the young man’s chest.
+
+It glowed gold: a shining set of scales just above his heart.
+
+The Mark of the Chosen.
+
+The Heroes’ leader had walked right into their camp.
+
+He looked directly at Alex and smiled as though he had run into a long-lost brother.
+
+“You got a great gift, friend,” he said. “Glad I found you.”

@@ -1,0 +1,187 @@
+---
+id: 7dd79746-8a24-5070-a73b-2eb125ff7fa9
+page-type-slug: story-chapter-royal-road
+title: "121 — Book 3, Chapter 20 — Mana Calibration, Pt 2"
+slug: 0124-121-book-3-chapter-20-mana-calibration-pt-2
+partOf: just-add-mana
+position: 124
+ownLength: 3247
+unit: words
+publishedAt: 2026-04-11
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3260418/121-book-3-chapter-20-mana-calibration-pt-2"
+royalRoadId: "3260418"
+---
+
+Cale began his exercises with what he could admit was a bit of trepidation.
+
+He'd put in a lot of work to get his mana control where it was. Even before his arrival on Utelia, gaining enough control to manipulate his barriers the way he did had been a terribly involved process—one that included no small number of soul-sickening potions, esoteric rituals, and practice.
+
+It stung to lose even a small fraction of that progress, though he knew his soul would heal eventually. As long as he didn't repeat that soul-expansion exercise, it was unlikely the results would stick.
+
+The problem was that his time was limited. There was no telling how much time he had on Utelia, how much he'd get to explore this world of magic that had been sealed to him until now. Given the forces bearing down on them, if he let himself be too careless for even a second...
+
+Who knew how much of his newfound magic he would get to keep? And how long would it be until his mana eventually outgrew even the specialized spells the Gift offered him?
+
+Eh. There wasn't much of a point worrying about it, and he didn't regret doing what he could to help Blood-That-Crawls, whether it was ultimately an enemy or not. All that remained was to see what he could make of the consequences.
+
+An array of brilliantly-lit barriers exploded to life in front of him.
+
+Professor Graystalk, who had been watching silently up until now, took a startled step back at the sight. "What is—" he started, then swallowed the words, staring at the display of power with no small amount of awe. "What exactly are you doing?"
+
+"Oh, it's just a test of my mana control," Cale answered absently, eyeing the array of barriers with interest. It wasn't as bad as he'd feared, but it was worse than he'd hoped. His mana control was about as good as it was when he'd first arrived on Utelia, before he'd acquired his ranks in the various elemental resonances.
+
+Which amounted to a slight advantage in control compared to when he'd started, but only for the aspects he had some degree of resonance with. His overall control was very slightly worse, mostly because the minimum amount of mana he could manipulate at once had shifted.
+
+The smallest barrier he could make and maintain without its mana going out of control was about an order of magnitude stronger than it had been in the last realm, and it was about ten percent larger, if he had to put a number to it.
+
+"This is a test of your mana control?" Graystalk asked incredulously. He swallowed once, unable to take his eyes off the display. "I was aware you had access to an incredible quantity of mana, Cale, but I had assumed your mana control was a weakness."
+
+Cale blinked. "It is," he said, gesturing to the array. "The smallest barrier I can make is about the size of my palm, see? And this is my absolute minimum in terms of how much of my mana I can move at once. I can't work in quantities smaller than this."
+
+He called one of the barriers to hand to demonstrate. The smallest barrier he had at the moment was about equivalent to a seventh-tier spell for an aspect he had no resonance with.
+
+Professor Graystalk only shook his head, however. "You misunderstand," he said. "It is not your control over the quantity of your mana that astonishes me. It is the number of discrete mana constructs you can maintain simultaneously."
+
+"Oh," Cale said. He glanced up at the array he'd created, not quite comprehending. "Is this a lot?"
+
+Graystalk gave him a flat, almost exasperated look, though the corner of his mouth twitched with amusement. "Do you believe creating what appears to be a thousand simultaneous barriers does not amount to 'a lot'?"
+
+"Honestly, I have no idea," Cale said. "It's not like I can track them all independently—it'd be really cool if I could, and I tried for a while, but it's a lot to process all at once. And creating a thousand static barriers isn't very helpful in most fights when I can just create a really big one, unless I tell all my allies to stand still or something."
+
+"It is not the battlefield potential of this that impresses me," Professor Graystalk said, shaking his head. There was a light in his eyes, Cale noticed, and he realized after a moment that the professor was gearing up for a lecture.
+
+He beamed. This would be interesting.
+
+"You are familiar with spell arrays, are you not?" Graystalk asked. "The process of linking many lower-tier spells together to mimic the effect of a higher-tier spell. It is time-consuming and difficult, but typically many times more mana-efficient."
+
+"They're one of your specialties, aren't they?" Cale asked.
+
+"Indeed." Graystalk's expression flickered, but only briefly, presumably at the reminder of the curse that prevented him from casting spells outside the Standard Array. Cale winced to himself. "They are what allow me to match other mages, even when they have access to greater spells. Do you know the primary restriction when it comes to array-based spellcasting, Cale?"
+
+"Uh," Cale said. He thought for a moment. He hadn't learned a lot about it, largely because his problem was very much the opposite; the benefits of a spell array didn't apply to him when his entire problem was that he couldn't cast spells, let alone lower-tier ones. "They're complicated to visualize?"
+
+"That would be the common assumption, and it is not technically incorrect." Graystalk chuckled softly, then glanced up at the magnificent display of barriers blazing above them with what seemed like no small amount of longing. "But it is more accurate to say that an array requires a mage to maintain multiple constructs simultaneously, and it takes decades of training to exceed even ten.
+
+"Five would be simple enough, perhaps. Most mages will achieve this easily. Each additional construct after that becomes exponentially harder, takes exponentially more practice. Ten is the most the average mage should ever expect to achieve, unless they belong to a particularly long-lived or immortal species. To create this many so casually, and to hold a conversation during it..."
+
+The elven professor shook his head, and Cale recognized then that mixture of wonder and yearning in his eyes. He was thinking how little his curse would matter if he was able to achieve this degree of control over simultaneous mana constructs. The world of magic itself would open up to him.
+
+And yet for Cale, it was little more than a fancy party trick. Awkward, that.
+
+"You are far older than I had imagined," Graystalk said softly, with what looked too much like sympathy in his eyes.
+
+Cale made a face, immediately affronted. "Hey," he said. "That's rude. I don't go around calling you old."
+
+The sympathy vanished in an instant. "That would make you a minority amongst my students, I believe," Graystalk said, a dry sort of amusement now in his voice. "I suppose I now understand how they feel."
+
+"I can't tell if you're still calling me old." Cale narrowed his eyes.
+
+"I am not. You are clearly still a child, by elven standards."
+
+"How did you still make that sound like an insult?"
+
+"By teaching far too many classes with my noble brethren as my students," Professor Graystalk said, laughing; Cale saw him for the first time allowing himself to truly relax, a bit of warmth entering his gaze. "I apologize, truly. It is only that you have reminded me once again how much I have left to learn. Is this all there is to the exercise?"
+
+"Sort of," Cale said. It was nice to see the professor letting bask in the joy of magic, and somehow it made him feel better about his own loss of control—it was easy to forget, sometimes, that what was normal for him could still be a wonder to someone else. "This is technically just one of the techniques I learned studying under the Sage of Control." He grinned. "She was an absolute nightmare, let me tell you."
+
+"The Sage of Control?" Graystalk frowned slightly in thought. "A strangely familiar name, but not of this realm, I imagine."
+
+"She isn't, no, but she's not exactly from anywhere else, either," Cale explained absently. He studied his barriers a little more closely as he spoke, checking for any inconsistencies between each 'rank' of barrier, just like the Sage had taught him. "You might have seen mentions of her if you study enough dungeon-spawned relics. Or one of the other Sages, maybe. They're technically a kind of elemental god? Though scholars are largely split on it."
+
+"That may have been where I heard the name before," the professor said. "I believe I may have dismissed them as myth, when I read of them. You are suggesting that these Sages are real?"
+
+"As real as an elemental god usually is," Cale said, shrugging. He squinted at one of his barriers, holding it up to his eye like a lens and poking at it. "That is, they exist relative to the Great Realms, and usually only when someone connects to their plane of existence. Actually finding one of them is usually a long and complicated process."
+
+"That would explain why I dismissed it as a children's tale, I suppose." Graystalk stepped up to join Cale, examining the barrier alongside him, though if he thought anything of it, he said nothing out loud. "I seem to recall a rather absurd series of instructions."
+
+Cale burst out laughing. "Yeah, I'm pretty sure I had to sleep with a turnip under my pillow at some point," he said. "I still have no idea if that was actually part of the instructions or if someone just inserted it in for fun, but it did work. The instructions change from realm to realm, though. Took me ages to find a realm that could reliably find a way to the Sage of Control."
+
+"And it was her that granted you this control?" There was a bit of hunger in Graystalk's voice—the healthy kind that every good mage had, anyway. Cale approved.
+
+"She didn't exactly grant it to me," Cale said. "Studying under her is one of the reasons I can control my mana as well as I can at all, though. This is just the calibration test she makes you do before she gives you any training."
+
+"This is the calibration she does prior to the training?" The professor made a peculiar noise—something like a squeak—in his throat, and Cale did his best not to laugh. He hadn't even known elves were capable of making sounds like that.
+
+"Every day, before training started, she asked me to make a series of barriers," Cale explained. "To keep track of my progress, although I'm pretty sure it was technically also part of the training. Basically she wanted me to make barriers of varying shapes, sizes, and strengths, and since she made me do it every day, about half the day would pass before I could do any actual training. I got kind of sick of it, so I started making groups of them at a time, and eventually..."
+
+Professor Graystalk blinked, briefly at a loss for words. "She frustrated you into gaining a level of simultaneous mana control that any mage would be envious of?"
+
+"To be fair," Cale said, "I was very frustrated. It took so much time! And she had something critical to say about every one of them. And her cats kept distracting me, and if I let myself get distracted, she made me start over."
+
+"Her... cats." Graystalk stared at him.
+
+"Chimeras," Cale allowed. "Technically, they were chimeras. And a few sphinxes. One of them was my roommate."
+
+"I am rapidly reconsidering my desire to find this Sage."
+
+"Oh, yeah, I wouldn't recommend it," Cale said. "I got a lot out of it, but also it took about a thousand years of subjective time, and I'm pretty sure I ended up allergic to cats by the time I got out."
+
+"Allergic to—" Graystalk interrupted himself, trying to stay on topic and immediately failing. "You were roommates with a sphinx?"
+
+"Kind of a nightmare, honestly," Cale said. "Kept leaving me riddles on post-it notes. I did figure out their weaknesses because of that, though, so I guess it wasn't all bad. And he did have a few good jokes."
+
+"This... Sage." Graystalk rubbed at his temples. "Your time with her was a benefit in spite of this?"
+
+"Oh, yeah," Cale said. "I mean, she embodies mana control. Her whole house is filled with these ridiculously complicated mana sigils she's basically maintaining just for their aesthetic value. Half of them are inscribed onto unenchanted vases. The kind that should explode if you put even a little bit of mana into them? Honestly, I feel like she was just showing off at that point. Although she did claim it was for training."
+
+"Training," Graystalk repeated.
+
+"For the cats," Cale explained after a second of hesitation. "Not for me. The vases explode with mana if they try pushing the vases over. Doesn't hurt them, but it's very startling."
+
+There was a long silence as Graystalk stared at him. Cale could practically see him contemplating which question to ask next. No doubt he had plenty of questions about the exercises he'd done and how long they'd taken, and while few of them were repeatable, Cale would be happy to explain—
+
+"Cale," Professor Graystalk said. "Are you certain the imbued vases were only for the cats?"
+
+Cale paused. "Um," he said, pointedly looking anywhere except at the professor. "Yes?"
+
+"Did you, by any chance, keep pushing her vases over?"
+
+"No?" Cale tried to think quickly. "Don't you have any questions about the mana exercises she wanted me to practice with? They were very advanced! Although they did have a tendency to blow off a limb or two, so it's a good thing her plane doesn't retain much in the way of consequence—"
+
+"It occurs to me," Professor Graystalk continued, with just a hint of a smirk, "that it is rather unusual that her home was occupied by so many... cats, as you call them. An elemental plane is greatly influenced by the realm that connects to it, and there are, as I understand it, realms that greatly influence the nature of any individual born within them. Even if that individual would otherwise only be human."
+
+Cale stared at Professor Graystalk, speechless.
+
+He'd figured it out. How had he figured it out? This was one of his greatest secrets!
+
+"Would I be correct in assuming, Mr. Cobbs, that you spent a majority of this particular life as—"
+
+"Don't just say it!" Cale burst out, placing a hand over a very amused Professor Graystalk's mouth. "One of my apprentices will overhear or something. I can't let them know I spent most of one lifetime... you know!"
+
+Graystalk pried Cale's fingers off his mouth, laughing. "Very well, Cale," he said. "Your secret is safe with me. Though I am rather curious about these exercises, now that you mention it."
+
+Cale sighed and relaxed. This was much safer territory.
+
+And more importantly, Graystalk had finally relaxed enough in his presence that he could examine his professor's mana core without much interference, which meant it was finally time to take a look at that curse.
+
+Cale asked for permission first, obviously. It would've been rude to examine another mage's mana core in the level of detail he needed without asking for permission, especially since that degree of perception was easily felt. Professor Graystalk had given him a strange look at the request, especially since Cale refused to explain why, but had ultimately agreed.
+
+So now Cale was absent-mindedly going over the third time he'd lost a limb to one of those exercises—honestly, the more he thought about it, the more certain he was that the Sage of Control was some sort of sadist—while peering closely at Graystalk's mana core.
+
+One of the reasons he hadn't done this earlier was because of the level of trust that was required for this sort of examination. Mana core examination was tantamount to soul examination, and regardless of the pretext it was an inherently intimate act. Trust and some level of connection was virtually required to pull it off, and it was only now that Graystalk had loosened up enough for him to do so.
+
+This particular curse was a nasty one, though. It stank of the energies of a lich. Cale couldn't help but wonder exactly how Graystalk had been inflicted with this curse; this wasn't the sort of curse that could be put on someone else in an instant. It had to have been done with the aid of someone Graystalk had trusted. The lines of betrayal were all there in the scars of his mana core, essentially a catalyst for the curse to latch on to.
+
+There were two things strange about it. The first was that Cale was almost certain this was a divine curse, and if he was reading the mana signature right, it was one of Astiviya's, which meant Cale was going to have some words with the goddess when she showed up for their confrontation.
+
+The second was the way the curse itself functioned. The scar acted like a parasite that latched on to any confluence of magic great enough for it to detect, which amounted essentially to spells above the first and second tier. It would reroute the mana that went into those spell constructs, effectively dramatically increasing their mana cost and causing the spell to fizzle out before it could be cast.
+
+But that meant that—unlike most curses—that scar could be burnt out of the core entirely. Most curses were resistant to that sort of thing, since they were a mark etched into the mana core itself. In order for this one to function, the etching needed to separate from the core temporarily and attach to a spell instead, and that brief period would leave it vulnerable.
+
+Fascinating.
+
+It was especially convenient, then, that Graystalk would be delving the Bitter Path with them. Cale grinned to himself even as the professor looked up at him, ears slightly flushed from how thoroughly Cale had examined his core. "Are you done?" Graystalk grumbled.
+
+"Yep," Cale said cheerfully. "Look, I know you just got done accepting your curse and realizing you could do lots of magic even with it and all, but I'm pretty sure I can break it with that thing we're gonna get in the dungeon. So, you ready to go?"
+
+Graystalk stared at him. "...You told me you needed to examine my mana core for research," he said flatly.
+
+"I did," Cale said. "Research on your curse."
+
+Graystalk sighed. "Incorrigible," he muttered. "Oh, very well. Let us proceed, then. It is about time for class, regardless. Have you successfully calibrated your mana control, as it were?"
+
+"Nope," Cale said cheerfully. "I kind of forgot while I was doing your mana core stuff. But we'll be fine! I've mostly got it. I just need to cast a few tester spells on the way."
+
+"Please do not," Professor Graystalk said, but from the tone of his voice, he was already resigned to it. Cale just hummed to himself, delighted.
+
+Time for some magic. And dungeons!

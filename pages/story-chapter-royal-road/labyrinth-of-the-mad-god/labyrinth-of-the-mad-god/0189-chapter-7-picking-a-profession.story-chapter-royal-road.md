@@ -1,0 +1,117 @@
+---
+id: 65278ef0-9f3a-5058-9f66-ed727fe24764
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Picking a Profession"
+slug: 0189-chapter-7-picking-a-profession
+partOf: labyrinth-of-the-mad-god
+position: 189
+ownLength: 1949
+unit: words
+publishedAt: 2025-06-30
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2398049/chapter-7-picking-a-profession"
+royalRoadId: "2398049"
+---
+
+When Nick awoke, the sky was just starting to lighten with the coming of dawn—a hint of navy blue bleeding through the blackness blanketing the stars.
+
+By this point in his adventures, waking up in a treetop with strange constellations scrawled across the heavens didn’t even faze him. After taking a long look around to make sure nothing hostile was lurking in the woods, Nick turned his attention to his first big decision since returning to the world of his birth. It’s time to dig into the details and pick a Profession.
+
+He had been a professional gamer back in his old life. It had been engaging, if not particularly satisfying, and paid well enough to make ends meet. But what the System was offering was something else entirely. He smiled at the memories his meandering thoughts had evoked, then got down to business.
+
+Although the section on Professions wasn’t one of the Knowledge Point entries he’d gotten his hands on, a summary of the details was included in the Profession prompt in his profile. Good. That makes things a lot easier.
+
+He wasn’t sure if it would last, but now that the Earth was being used as a proxy in the System’s war with the Mad God, the galaxy-spanning AI seemed to be actively trying to help humanity—at least as far as access to information was concerned.
+
+When he thought about it, Nick wasn’t sure why the System didn’t just hand out experience and Epic loot like candy, although he suspected that it had something to do with a detail Pax had mentioned earlier. The System’s primary directive was to cultivate strength through conflict, and its fundamental law was that rewards were always proportional to the difficulty of a given challenge.
+
+While he had a score to settle with both Taltos and the System, and didn’t trust either entity to treat humanity as more than a pawn on a great galactic gameboard, he had to admit that it was nice to provided with some additional clarity regarding his situation—especially when making critical decisions like this one.
+
+As he mulled the matter over, Nick opened his display and started reading.
+
+Picking a Profession
+
+Congratulations. Your species has unlocked the capacity to acquire Professions of Uncommon rarity and below.
+
+You can think of Professions as an additional, utility-based class, with some important differences.
+
+Like classes, Professions provide unique traits and access to a wide range of skills. These skill caps are determined by the Profession’s rarity, at identical values to those granted by classes (Uncommon Professions have a skill cap of 25).
+
+However, Professions do not have levels or grant attribute points. Instead, your profession slots will increase whenever you advance your Tier. At Tier-1, you have access to 1 Profession Slot. At Tier-2, you will gain an additional (Enhanced) Profession Slot.
+
+Additionally, the skills granted by a profession will gain a significant bonus to their rate of growth, making them an excellent way to develop a skillset that is compatible with your chosen path to power.
+
+Professions may be changed after a year has passed. Like classes, the Professions you are offered will be based on your attributes, skills, tendencies, and notable accomplishments. The list of Professions available to you at this time is displayed below. You may search/filter this list by the parameters of your choosing.
+
+Yup. Definitely more helpful. While Nick still had quite a few questions about the Profession system, this was more than enough information to get started.
+
+I should be able to learn more by reading through the list. In fact, I should write down everything in my journal and then memorize it. It will give me a better understanding of what humanity is capable of, and I’ll know some of the skills and traits of everyone who reveals their Profession, which is certain to come in handy.
+
+On that note, he pulled out his book and started writing. As Nick jotted down the first few entries while pondering the possibilities they provided, he broke into a beaming grin. These are even more useful than I’d hoped.
+
+The long list of Professions was divided into six broad categories, although some choices belonged to more than one. They were listed as: gathering, crafting, commerce, performance, adventuring, and miscellaneous. It was interesting that combat wasn’t a category, but he supposed that a person’s class defined their combat capabilities, and Professions were intended to enhance other aspects of their lives.
+
+That being said, some of these professions would come in handy in a fight. The performance category, for example, offered skills like Gymnastics, Sleight of Hand, and Vocal Projection. Crafting, resource gathering, and trading could help him obtain better gear and pick up more consumable items. The miscellaneous section had some interesting choices too, including some intriguing traits related to teamwork, teaching, and leadership.
+
+But with only one year on the Earth’s Shroud of Protection, Nick couldn’t afford to go through the time-intensive process of learning a trade and gamble that it would start paying dividends sooner rather than later.
+
+He was, however, pleased to see that there was considerable depth to his choices, which would help his people establish thriving industries and economies. By the time that he was halfway through the list, he knew he would pick something from the adventuring category.
+
+He needed a Profession that would accelerate his growth while exploring the badlands, completing quests and conquering dungeons along the way. Additionally, he wanted something that offered skills that would help him survive once the entrances to the Labyrinth opened across the planet and it was time to take his fight to other planes of existence. He could pick a new Profession when the year was up, but there wouldn’t be time to advance the skills it provided—so he considered his decisions with that detail in mind.
+
+Since none of the Profession-granted traits offered trait permanence, he began sorting through them based on the skills they came with instead. Any skills he picked up would stay with him forever—even if they became inactive later and couldn’t be raised past that point.
+
+As he worked his way through the list, Nick noticed something curious. The Professions that mentioned they were only available to newly-integrated species were invariably better than the rest.
+
+I wonder if their inclusion is another part of the reward from the Diamond package. As much as this whole situation pisses me off, I have to admit that Pax was right. Combined, these opportunities just might give us a fighting chance.
+
+He eventually narrowed his choices down to four Professions that were each appealing in their own way.
+
+The first was called a Navigator, and it offered skills related to surveying, mapping, and travelling. Its trait would give him a perfect sense of direction, and picking Navigator would help him chart a course no matter what type of terrain he explored. One of the skills would also let him pilot vehicles, which might come in handy later down the road.
+
+The next was called a Prospector. It had some skills that would help him survive in the wild but primarily focused on uncovering rare and useful resources. It didn’t offer much on the extraction side, but it would let him fill his pack with useful materials and identify the locations of resource nodes that would benefit his people.
+
+The third Profession on Nick’s shortlist was the Trailblazer. It was focused on exploring hostile landscapes and would help him identify threats and source provisions. The final option he was considering was called a Scout. It had some overlap with the Trailblazer but was geared toward detecting and tracking enemy troops.
+
+Twenty minutes later, he was ready to make his decision.
+
+The Navigator was a little too specialized, and some of the benefits overlapped with the alien PDA he’d picked up in the basement of Darkstone Tower. The Prospector was certain to come in handy, but it wasn’t a perfect fit either.
+
+Scout was tempting, but Nick didn’t expect to run into enemy armies anytime soon. It might be a decent choice for his next Profession, once the year of protection was up, but not so much during the Rebuilding Civilization period.
+
+The Trailblazer, on the other hand, checked every box on his list. He went ahead and pulled the entry up and read it at length before committing to his decision.
+
+Profession: Trailblazer (Uncommon).
+
+Trailblazers specialize in exploring the multiverse and surviving in uncharted territory, with a lesser emphasis on surveying dangerous biomes. (This Profession is only available to newly-integrated species).
+
+Skills: Foraging. Pathfinding. Size Up (Evaluate Threat). Stealth. Tracking.
+
+Trait: Storm Chaser.
+
+Storm Chaser grants its bearer the power to sense weather patterns, especially dangerous and magical variants. It will help them notice changing conditions early on and may provide some insight into the nature of the danger.
+
+When he reached the end of the entry, Nick considered each component of the Profession in turn.
+
+Tracking and Stealth were certain to be useful skills no matter where Nick went. Trailblazer also came with some old favorites that he’d been hoping to pick up again, Foraging and Size Up. While Foraging wasn’t critical, knowing which sources of food and water were safe and how to collect them was inherently useful—especially when exploring uncharted biomes. Not to mention, alien worlds or other planes of existence, where information regarding the local flora and fauna was nonexistent.
+
+Size Up, on the other hand, had saved Nick’s life on numerous occasions, especially during the early stages of his adventures. It helped him identify hostile critters, hazardous terrain, and countless other forms of danger. Size Up had grown progressively less useful over time—after he had capped the skill at 10 and moved onto more dangerous challenges—although it still helped him to identify obvious threats faster than he otherwise could.
+
+Pathfinding wouldn’t help him much in the Badlands, since visibility was wide open along the dusty plains. But in an environment where his line of sight was restricted, he was sure it would be an invaluable skill, as being lost in a hostile alien wilderness was the last thing he wanted to experience.
+
+The Storm Chaser trait wasn’t his favorite entry on the list, but after getting up close and personal with searstorms, blackmist, blood moons, blizzards, and meteor showers, it was still in the top tier.
+
+He was certain the multiverse had environmental hazards that would end his life in a flash, and having an early warning before they arrived could easily spell the difference between surviving a nasty surprise and succumbing to it. Hell, just knowing when a regular storm is brewing would be pretty sweet.
+
+Satisfied that he had made the best choice, Nick voiced his decision to the System. “I would like to pick my Profession and become a Trailblazer.”
+
+Acknowledged.
+
+Prepare for trait and skill activation.
+
+He braced himself for some intense and potentially unpleasant sensations, but the changes were far more subtle this time around.
+
+He felt the System’s ghostly fingertips enter his brain and make a few small tweaks, before finishing up and fading away a few minutes later. That wasn’t so bad. Probably because nothing it tinkered with was connected to my energetic network and the trait wasn’t transferred to my bloodline.
+
+After coming up with a plan to start training his skills without taking too much time out of his day, Nick climbed down to the ground and grabbed some provisions from his pack.
+
+While he ate breakfast, he used his PDA to provide light, then moved onto his next objectives: inspecting the gear he’d commissioned on the craft world Velen and learning more about his newest spell, Arcane Shield.

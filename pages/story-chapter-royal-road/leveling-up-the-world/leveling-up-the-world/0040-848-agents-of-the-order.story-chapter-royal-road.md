@@ -1,0 +1,167 @@
+---
+id: 504f79da-5710-5fea-ad02-0a9caacfeae7
+page-type-slug: story-chapter-royal-road
+title: "848. Agents of the Order"
+slug: 0040-848-agents-of-the-order
+partOf: leveling-up-the-world
+position: 40
+ownLength: 2053
+unit: words
+ownProgress: 2053
+publishedAt: 2023-12-19
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1448226/848-agents-of-the-order"
+royalRoadId: "1448226"
+markedReadAt: "2026-06-29T22:41:33.305Z"
+---
+
+Going back to his room was always a bittersweet experience. Technically, Dallion didn’t need to stay there. He tended to sleep in his realm or in the wilderness. At one point, he used it to have private conversations with one person or another, but that, too, had ended. Thanks to the duchess, his communication with Eury remained through magic letters, and other than Diroh there wasn’t anyone else he trusted enough to bring here.
+
+Piles of glass, metal, stone, and wooden objects covered parts of the floor. Some of them were brand new, some had been improved dozens of times. In all cases, they had been created by Dallion with the sole purpose of improving his skills. It would have been easy for him to use his domain ruler powers and stash them away. Ironically, he held his personal realm in a much greater regard, preferring to keep it neat and tidy.
+
+Throwing them out also wasn’t an option since Dallion had gotten to know their guardians rather well. Clearly, one of the first things he’d do upon starting his own settlement was to create a building with a basement where to keep them until he gave them away to his future inhabitants.
+
+Tiptoeing to his desk, Dallion placed his hand on the stone orchid. The flower was nearly in full bloom. Apparently, once the void had been purged from Dallion’s being, the seed had become a lot more susceptible. All the music and magic training in the room had made it bloom with ease. A bit more and he’d be able to officially return it to the gorgon.
+
+A knock came from the door.
+
+“Yes?” Dallion looked over his shoulder.
+
+The door opened and a pair of fury-like creatures stepped in. They had fury features, dryad hair, human skin texture, and dragon eyes, glowing red and cyan respectively. Of course, that appearance was nothing more than a set of complex illusions.
+
+“Gleam,” Dallion said with a nod. “Ruby.”
+
+“About time you got back.” The cyan-eyed “fury” crossed her arms. “Would have been a lot faster if you’d taken me along.”
+
+“You’re the one who asked to stay here,” Dallion replied calmly, removing his hand from the stone orchid. “Also, an overseer told me about your tower adventure.”
+
+Gleam’s illusionary form frowned.
+
+“Soon enough, you’ll be able to make as many of those as you want.”
+
+“Yeah. Was still impressive, though,” she said with a cunning smile.
+
+“I’m sure it was.” Unwilling to squeeze his way through the room again, Dallion cast a flight spell and gently floated to the door. As he did, Gleam and Ruby dispelled their illusions, resuming the form of shardflies. “How are the others doing?”
+
+The walls of the second floor corridor were covered in elaborate carvings depicting scenes of nature., One would guess that these had to be done by a master artist, and they would be in many ways wrong. Everything was done by none other than Ruby. The art and carving skill Dallion had taught him through magic had already been put to good use. The little guy had remained true to his artistic nature, while also improving his combat abilities.
+
+Sadly, the same couldn’t be said about the rest of Dallion’s familiars. Lux had very much insisted on learning music skills, which had turned out to be a colossal mistake. It wasn’t that the firebird couldn’t sing, but rather that he kept doing it incessantly in order to impress everyone around. Furthermore, he had combined the skill with his own flames, filling the sky with musical fireworks. One night had proved enough to unite all the nobles in the desire never to go through the experience again.
+
+Nox, on his part, did the same things he did in Dallion’s realm—mostly sleep. That left Gem, who, true to his own nature, floated about exploring as much of the world as he could get away with.
+
+“Lux.” Dallion reached for the door to the firebird’s room.
+
+Before he could even reach it, blue flames emerged from the cracks of the door. Quickly merging to form the firebird’s true form, only smaller.
+
+“Boss!” Lux chirped, flying in circles around him. “You’re back! You’re back! You’re back!”
+
+“Nice to see you too, Lux.” Dallion petted the firebird on the head. “Did you behave while I was gone?”
+
+“Yep! Yep! Absolutely, boss!”
+
+Dallion strongly doubted that, but nodded nonetheless.
+
+Continuing on, He cracked Nox’s door open and peeked inside. A large ball of darkness had curled up on the corner, snoring in catlike fashion.
+
+“Young master,” Taem said from the floor below. “Your apprentice has returned.”
+
+That was fast, Dallion thought. Rushing back to the main room of his house, though, he quickly saw one major detail—the fury that had entered the mansion wasn’t Diroh.
+
+“Gleam,” Dallion said. “Get everyone ready. We’ll be heading into the wilderness soon.”
+
+“Right away?” The shardfly fluttered up to his face. “Do I get to show off before we go?”
+
+“No,” he replied, then went back down the staircase.
+
+“Taem tells me we’re heading into the wilderness,” Diroh said. She was mimicking her voice, mannerisms, even attitude perfectly. However, there was no doubt in Dallion’s mind that the entity standing at the door was nothing else but a copyette.
+
+In his mind, Dallion was going through options on how to deal with the apparent paradox. As good as the copyettes were at mimicking others, they weren’t in condition to explain the presence of two Dirohs in the city. There were enough spells that could cause the butler to forget, and possibly all the item guardians in the area, but they wouldn’t trick the overseers.
+
+“That’s right.” Dallion rushed down the stairs. “On that note, there’s something we need to discuss.”
+
+Upon reaching her, Dallion grabbed the fury by the hand.
+
+ITEM AWAKENING
+
+Reality changed, replacing the inside of Dallion’s mansion with a grey room made entirely of metal.
+
+You are in the land of the RING.
+
+Defeat the guardian to change the land’s destiny.
+
+The fury looked around casually.
+
+“You’re taking a huge risk,” Dallion said. “This better be important.”
+
+“You worry too much. We’ve done this before. Di likes to fly outside most of the time when you’re not here.”
+
+Being a mage allowed her that privilege. Supposedly the rule had been established a few emperors ago, on a whim—as most imperial decrees were. Mages had the right to come and go to the city as they pleased. As in all things, there was a catch. Only mages invited to the capital could set foot there. Technically, the Academy was beyond the emperor’s reach, but with the emperor being a mage himself he had many ways of making the uninvited regret it.
+
+“People might be keeping an eye on her.”
+
+“They are,” the fake Diroh smiled. “From the Academy, all imperial houses, even a few other nobles. Of course, all the watchers are ours.”
+
+No matter how many times he heard it, Dallion felt a feeling of unease. When he had agreed to work for the archbishop, he knew that the Order of the Seven Moons had copyettes in various places. He was astounded to find how many there were. Some of them had taken on the form on a permanent basis, taking on a role for decades or more. Others were only temporary measures lasting days or even hours.
+
+“Why are you here?” Dallion went to the point.
+
+“The archbishop foresaw you’d be allowed a settlement,” the copyette replied.
+
+“And he wants me to turn it down?”
+
+“No. Leaving the capital is a positive development. Settling east will keep you away from the nymph empress. What’s more—” the hand of the nymph changed, morphing into a map of the area “—the archbishop had the perfect location for you.”
+
+“How thoughtful.” Dallion looked closer.
+
+A large red spot marked where the Order wanted him to start his domain. It was beyond the current borders of the empire, though not so much so as to cause any suspicion. It was far from any other settlement, providing Dallion a good opportunity to do anything he wanted, undisturbed and close to a water source. Most notable of all, it was just outside the eastern forest.
+
+“It’s a bit north from what I was thinking,” Dallion said. “Was hoping to keep in touch with some mages.”
+
+“That won’t end up well. The archbishop had prophesied that if you want to have a chance, that’s the spot.”
+
+“Right.” Dallion still had yet to get a straight answer regarding the prophecy skills—or even if it was real—but he couldn’t argue with the results. It was thanks to the archbishop that he had found the fourth Moonstone, not to mention a lot of information about the important players of the capital.
+
+“Take advantage of the calm and use it to grow quickly and prepare.”
+
+Dallion waited. From experience, he knew that wouldn’t be all. Each time the Order had given him something, they requested something more in return. So far, it was just information—a few questions from an item guardian here and there, but the difficulty of the requests was quickly ramping up.
+
+“You must get to ninety-five as quickly as possible,” Diroh said. “A hundred if you can.”
+
+“And I thought that it would be something difficult.”
+
+“That’s the level at which the emperor will start noticing you.”
+
+“I think he’s noticed me plenty already.”
+
+“He finds you amusing.” The copyette’s tone shifted abruptly. “While it’s true that you can give most counts a run for their money, you’re nowhere near an archduke. If we’re to get close to the emperor, you’ll need to be at least that strong.”
+
+At least as much. Deep inside, Dallion knew that all too well. The original plan was never to take on the emperor himself, even if he himself planned on doing just that. In order to get there, he had to get stronger and fast. A hundred, despite what he’d just said, was only the first step.
+
+“I doubt I’ll get there with a single city,” he said.
+
+“You won’t.” The map disappeared. “But it’s a start. Oh, and take a more active role on the political scene. Now that you’re a true domain ruler, you can afford to show a bit of arrogance.”
+
+The conversation ended there. With nothing left to say or ask, Dallion returned to the real world and immediately ordered the copyette to oversee the move. As for himself, the only thing he did was to move the stone orchid back into his domain and make arrangements with Taem.
+
+The butler needed no instructions, but Dallion gave him enough, nonetheless.
+
+“The duchess would like to have an echo ring, young master,” the man said.
+
+“No need. I’ll be passing by often.” Dallion forced a smile.
+
+“Of course, sir. The young duchess also would like to remind you of the conversation you had with her.”
+
+Dallion knew exactly which one she had in mind. He had been warned that certain members of his family might try to kill him, or worse. Apparently, his dropping out of the Elazni heir race had proved to be a temporary measure.
+
+“Tell her not to worry. I have everything under control.”
+
+“Of course, young master.”
+
+Ten minutes later, Dallion flew out of the imperial palace’s domain along with all his familiars, possessions, and “Diroh.” There was no telling when the switch would occur, so Dallion chose to initially head south.
+
+The results didn’t delay. Once the city was out of view, a merchant caravan was spotted. The driver appeared to be an old acquaintance of Dallion’s back when he had first gone to Nerosal. Coincidentally, Diroh—the real one—was also there, sleeping in one of the wagons.
+
+“Time to say goodbye.” The fake ice fury changed form, transforming into a middle-aged man in an expensive merchant outfit. “You’re on your own from here. Don’t worry, though, we have your back.”
+
+“I’m sure.” Dallion didn’t even pretend to be pleased. “Tell the archbishop that when I get to a hundred, I’d like to have a one on one with him.”
+
+“I’m sure he already knows.” The merchant laughed. “But if it’ll make you feel better, I’ll send the message. Who knows? If the Moons are willing, he might even agree to your request.”

@@ -1,0 +1,253 @@
+---
+id: f78acf85-e8cd-5e5f-9c69-92562f65b457
+page-type-slug: story-chapter-royal-road
+title: "Chapter 02"
+slug: 0003-chapter-02
+partOf: light-cleric
+position: 3
+ownLength: 4062
+unit: words
+publishedAt: 2020-12-26
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/605408/chapter-02"
+royalRoadId: "605408"
+---
+
+The third floor of the dormitories held the sisters’ apartments. Sweep had been there many times for chores though, ostensibly, acolytes were meant to tend the sisters. The hallways were wider than the floors below, and colorful tapestries covered the walls. Lanterns, standing on regularly placed pedestals, had been turned low, so the hall was lit but dim.
+
+Sweep led the man to the Mother’s door. Her apartment was at the end of the hall. Sweep had never been inside, and thinking of what lay beyond made her shiver and hunch her shoulders.
+
+“This is it, sir.”
+
+He smiled at her. “Thank you, child.” He knocked on the door, and Sweep turned to leave, but he put a hand on her shoulder. “Just a moment.”
+
+Sweep’s chest ached. The Mother wouldn’t be happy to see her; she never was. She wanted to shy away from him though he’d been kind. She wanted to flee though he’d asked her not to. This was a man of the church, a Son of God as the Mother was a Daughter of God, and Sweep had been taught to obey without question.
+
+She had just come to the decision to suffer the kind man’s disappointment rather than the Mother’s wrath, when the decision was taken from her.
+
+The door opened just enough to reveal Acolyte Kraus. She looked at them through the narrow opening, visibly stunned. Her surprised eyes shifted from the man to Sweep and back several times.
+
+“Good evening,” the man said. “I am Tristam Vytal. Would you tell Willow I’m here to see her?”
+
+Sweep looked at the man, Father Vytal, in surprise. She hadn’t suspected he’d know the Mother Superior.
+
+“Jessica, who is it?” The Mother’s waspish voice struck from inside the room. Hearing the Mother in such a mood, Sweep knew she didn’t want to be seen. She glanced over her shoulder down the long hallway, wondering if she ran as fast as she could, if she’d be out of sight before the Mother came to the door.
+
+“It’s a man,” Acolyte Kraus replied carefully, as wary of the Mother’s reaction as Sweep.
+
+Before Acolyte Kraus could explain further, the Mother said something Sweep could not make out but from Acolyte Kraus’s expression, it wasn’t good. Moments later, Acolyte Kraus was brushed aside and the door pulled all the way open.
+
+Sweep had never seen the Mother Superior in anything but full church uniform, and for a moment she didn’t recognize the woman in the pale gold night gown heavily embroidered with sunbursts, her greying brown hair falling straight down her back without hint of a curl, her arms bare to the shoulder. Sweep had never imagined she might see the Mother’s bare arms. All sisters’, acolytes’, and orphans’ clothing was required to cover to the wrist, including the night gowns.
+
+“Hello, Willow.”
+
+The Mother was furious, a state she achieved regularly, and looked prepared to deliver a severe tongue lashing to whomever might be in her way. But her expression, her aggressive stance, changed as she saw Father Vytal. Her furious snarl became cold and composed, she stood with her back straight and her hands folded at her waist.
+
+“Father,” she inclined her head. “What brings you here?”
+
+Father Vytal chuckled and it turned into a rough cough. The Mother showed no more concern than a raised eyebrow. When he recovered he said, “Nothing more than an old man’s foolish quest. But I find myself in need of a few days’ rest.”
+
+The Mother’s sneer returned. “And you intend to take it here? This is a girls’ orphanage, Tristam. Surely even you are not so crass?”
+
+“You know better, Willow. Do you intend to refuse my request?”
+
+The Mother’s expression hardened, her lips forming a thin, white line. For several moments, there was silence.
+
+The Mother broke it with an explosive sigh. “One of our acolytes recently moved on. You may have her room for the night.”
+
+The Mother turned away then, and Sweep held in a sigh of relief. The Mother seemed not to have seen her at all. Her attention and ire had all been for Father Vytal. For the space of a heartbeat, Sweep thought she might escape, and she held as still as she could, not daring to hope.
+
+But then, with her back turned, the Mother said “Sweep,” in a sharp voice. “Get in here.”
+
+For a moment her breathing stopped. She knew all the pent up anger she’d seen in the Mother this evening was about to be taken out on her back. But she’d been taught to obey and without giving thought to it, Sweep took a step forward.
+
+Father Vytal’s hand on her arm stopped her from taking another step.
+
+“Willow.” The Father’s voice filled the hallway, and cut through the sudden fear suffusing Sweep. “I’ll need someone to show me to the room.”
+
+Sweep could see the Mother’s shoulders shaking with fury, but the calm strength with which the Father held her arm felt like an anchor in peace. He wasn’t going to let her go; he wasn’t going to let the Mother unleash fury upon her.
+
+“Fine.” The word was clipped and punctuated by the door’s firm closing. Sweep held nothing but pity for Acolyte Kraus, trapped in the Mother’s chambers.
+
+Sweep showed Father Vytal to his room and he thanked her before retreating inside. She walked to her own room, knees weak and trembling, navigating by instinct. The halls were dark and cold.
+
+The stub of candle was lit when she arrived. Temperance was slumped over the small table, their old copy of the Scriptures open to the page containing Saint Lucius’ Winter Proclamation. She breathed softly, asleep. The sight made Sweep smile. She’d forgotten about memorizing the poem, but Temperance hadn’t.
+
+Orphans weren’t allowed many candles, so Sweep blew it out before she helped Temperance to bed and covered her with a blanket that was too thin. She considered taking the book to a window a few halls down and memorizing the poem by starlight, but she knew she would be unable to focus. Her mind tumbled with thoughts: dancing among rain clouds, her beating at dinnertime, a man who could cow the Mother. Sweep lay on her bed and went to the room in her mind, for she knew she wouldn’t sleep.
+
+• • •
+
+Sweep woke before Temperance. Quietly, she changed clothes and slipped out, going to the nearest closet to fetch a broom. She started with the orphans’ dormitories even though it was thickly dark in the unlighted halls. She moved on to the refectory, where not even Cook yet stirred. Next was the acolytes’ dormitories where she lingered for a time outside Father Vytal’s room. For a moment, she considered knocking at his door, but could think of no good excuse she might use for why she wanted to see him. By the time she made her way to the sanctuary and was sweeping the front step, it was snowing and the bell tolled six-hour, signaling breakfast.
+
+She got to the refectory just as the porridge was served and sat next to Temperance with a sigh. The refectory was more full than usual for six-hour, acolytes chatted quietly, sisters filled the head table silently.
+
+“Did you hear?” Temperance asked.
+
+“Hear what?”
+
+“We have a guest.”
+
+“You mean Father Vytal?”
+
+Temperance gave her friend a surprised look. “How’d you hear his name?”
+
+Sweep smiled at the thrill of excitement that filled her. Narrowly escaping the Mother’s wrath last night felt like a Saint’s adventure this morning.
+
+“I met him at the door last night and took him to the Mother.”
+
+“Oh.” Temperance’s eyes widened. “Are you all right?”
+
+Sweep nodded. “The Mother was furious, but Father Vytal wouldn’t let her do anything to me. He insisted that I show him to the room he was using instead of letting her summon me to her chambers.”
+
+Temperance’s eyes were wide. “Wow.”
+
+“Yeah.”
+
+They let several moments of quiet pass. Sweep focused on her porridge.
+
+“Have you heard he’s sick?” Temperance asked after a while.
+
+Sweep frowned, remembering the man’s cough. “Is it serious?”
+
+Temperance shrugged. “Rumor is Sister Clarice went to see him, but he’s not better yet.”
+
+She was about to say more, but at that moment, the Mother Superior entered the refectory. Everyone stood, and bowed their heads. Following her was Sister Clarice. Mother Superior made her way to her seat at the head table, but did not sit. Instead, she looked out over the orphans and acolytes. All eyes were on her.
+
+“Some of you may have heard that we received a guest late last night. His name is Father Vytal, and he is one of my mentors from Kinswell, where the High Cleric and the Royals live. He came to Sacred Heart last night, asking for nothing more than a place to rest his head for the night, but I fear his journeys have worn him hard, for this morning, he has a fever and the shakes. Sister Clarice has done what she can for him, and now I ask we all pray for Father Vytal’s health and recovery.”
+
+Everyone bowed her head and silence fell over the refectory.
+
+Sweep wanted to pray for Father Vytal, but found her thoughts running roughshod over her mind. Sister Clarice had healing power. The people of Appledel often came to her for help. Sweep had seen her fix a cut finger with nothing but a deep breath and closed eyes, fix it like it had never happened, like in the Scriptures. If Father Vytal was still ill after Sister Clarice had been to see him, it must be dire. Sweep felt her stomach turn; she was no longer hungry.
+
+After the prayer, everyone sat and ate and went about their days. But Sweep couldn’t stop thinking about Father Vytal. Even during lessons, after Sister Jayne spanked her for being unable to recite Saint Lucius’ Winter Proclamation, her mind returned to Father Vytal. She wanted to do something to help him, but the only thing she could think of was to pray for him, and that seemed woefully inadequate.
+
+Three days later, Temperance was still apologizing for having forgotten to tutor her the poem.
+
+“It’s not your fault,” Sweep insisted
+
+“But I promised,” Temperance began. Sweep interrupted her by hugging her tight then holding her out at arms’ length.
+
+“Forget it, it’s done.”
+
+“You don’t hate me?”
+
+“’Forgiveness is the gift of God but the province of all,’” Sweep quoted.
+
+“Saint Lucius the Just,” said Temperance.
+
+Sweep nodded. “Now get to kitchen duty before you get in trouble.”
+
+Temperance nodded, apologized again, and hurried to the kitchen while Sweep made her way to the gardens. It had grown cold since her founday, a cold snap before true spring, and the gardens were covered in a thin frosty layer. Sweep joined the other orphans descending into the cellar where awaited the task of pounding dry herbs and sealing them in glass jars with wax lids, all overseen by a sister new to the title.
+
+The cellar was earth walls covered with old wood panels and earth floor. The ceiling was low and dusty. Wooden shelves stored all manner of sealed glass jars. The cellar was musty in the summer, but in late winter, it just smelled of earth and cold. They closed the cellar door behind them to shut out as much cold as possible and lit lanterns to light the space and provide a little warmth. Without specific instruction beyond crushing herbs, Sweep took a lantern, found a space away from everyone else, and set to work.
+
+Her thoughts returned to Father Vytal, unable to devote more than the most cursory and automatic of thoughts to the herbs. By the time the other girls had surrounded her, it was too late for her to do anything but stare up at them from her stool.
+
+“Do you know what you did to me?” Faith demanded.
+
+Sweep looked around for Temperance before remembering her friend had kitchen duty and would be unable to help. The sister in charge was at the other end of the cellar in a small circle of orphans with several lanterns. Even if she was inclined to intervene, she wouldn’t see what was about to happen.
+
+“Maybe she’s dumb, like an animal.” Patience, a girl Sweep had never had any conflict with, nudged Sweep hard in the back.
+
+Sweep stood but before she was to her feet, hands grabbed her arms, one grabbed her hair. She knew Patience was among them, but the shadows were deep enough she couldn’t see the others, only hear their breathing, heavy with anticipation. She struggled but they held her tight.
+
+“No,” said Faith. “She’s not dumb. She did it on purpose.”
+
+Sweep wanted to object, but nothing she could say would convince Faith that she’d been acting in her best interest, so she said nothing.
+
+Faith stepped close to Sweep. Her face was lit from below by the solitary lantern, illuminating soft brown features made harsh by anger. Her eyes were hidden by the shadow of a scowl. Her hair, brown like everyone else’s, was pulled back into a tail at the top of her neck.
+
+“Wait,” whispered a worried voice. “Faith, let’s just leave her alone.” It was Lillyfield, the dreamy girl.
+
+“Shut up, Lilly,” Faith snapped. “The Mother beat me with a cane. I still have the marks.”
+
+Sweep couldn’t help herself. “I’ll show you my scars sometime.”
+
+“Do you think it’s funny?” Faith demanded
+
+“What do you want?”
+
+Faith smiled. “I want to return the favor.”
+
+Sweep laughed, she couldn’t help it. The whole scenario was ludicrous. She stopped when Faith slapped her, putting a sting on her cheek and a ring in her ears.
+
+“It’s not funny, Sweep.”
+
+“No,” Sweep agreed, “it’s not. It’s deplorable. You’re just like her, all of you.”
+
+Faith took a step back as though Sweep had returned the blow. The hands holding Sweep’s hair and arms eased but did not let go.
+
+“You hate the Mother because she hit you, and I understand. I feel the same way. But look at what you’re doing.”
+
+Faith took a few moments to collect her anger and umbrage. “You’re an unclean wretch.”
+
+Sweep shrugged. “Maybe so. But I’ve never hit someone just because I could.”
+
+“What’s going on back here? Get back to work you lazy brats.” The sister had come upon them without warning and began to punctuate her words with sharp smacks eliciting protesting squeals. Sweep was not spared the punishment but took it silently and went back to the chore of crushing herbs and worrying about Father Vytal.
+
+Every day that week, at breakfast and dinner and evening sermon, the Mother told them of Father Vytal’s worsening condition, and they all prayed for him. Sweep couldn’t help but think it wasn’t enough, that she, at least, owed him more. She wished she could pray at his side. It might be a small gesture in the grand scheme of things, but Sweep felt certain it would mean more.
+
+On the evening of the tenth day since Father Vytal had fallen ill, after Sweep had finished the evening sweeping of the sanctuary and was ready to go to bed, she was still thinking about Father Vytal. As she left the sanctuary, her gaze was caught by the door to the acolyte’s chambers, and she paused. Father Vytal was in there, still ill. He had been kind to her even though he didn’t know her; he had protected her even though she had strange, white hair.
+
+For several minutes she stood still, staring at the door, not certain she liked where her thoughts were taking her, before she came to a decision. Quickly and quietly, she slipped through the door to the acolytes’ dormitories, hoping her terrified heartbeat wouldn’t give her away.
+
+The halls were dimly lit, but she knew them well and hurried on silent feet to the door to which she had lead Father Vytal only a week ago. She paused outside the door and listened. She could hear nothing but her own nervous breathing. The only sign someone might be in the room was the scent of incense and candles. Carefully, Sweep pushed the door open.
+
+The room was lit with dim lamps. The pungent incense was close and cloying. Lying upon the bed was Father Vytal, his face a mask of pain and lit from odd angles by the candles. The blankets were pulled up to his chin. Sitting next to the bed, in a comfortable armchair, was an acolyte. The young woman’s chin rested upon her chest and she was breathing softly.
+
+Sweep closed the door gently and walked silently to the bed, thankful for the rug that muffled her footsteps. She ignored the acolyte and ignored her fear, looking down at Father Vytal. His face seemed paler, thinner, more deeply lined. His breathing was shallow and ragged.
+
+Sweep slowed her breathing, quieted her thoughts, and tried to empty herself of self. She fought the desire to ask God to heal this kind man. She tried to open herself to the will of the Divine. The tingling buzz was familiar to her now and she welcomed the faint, ghostly chimes. She had always thought these were God’s manifestations and she hoped she was right, that He would look upon her and see her piety and give her what she wanted because she tried so hard not to ask for it.
+
+A halo of light edged her vision, the faint tintinnabulation swelled in her ears, the buzzing tingle swept through her body. For a moment more, she knew nothing else, and in the next, her surroundings filled her.
+
+She felt the acolyte, sleeping nearby, peaceful and resting. She felt the rug beneath her feet and the wooden floor beneath that, sturdy and still. She felt the low fire in the fireplace, its heat diffusing throughout the room. But mostly she felt Father Vytal. The aging man was ill; he was having difficulty breathing, and this difficulty was the root of the problem.
+
+There was a silvery purple light deep within Father Vytal; she saw it in her mind. The light pulsed in time with his heartbeat and swelled to his breathing. And this light, she knew, struggled against the sickness, struggled to heal the man, but the process was stunted. There were black spots throughout, holding it in check.
+
+“He just needs a little light,” Sweep whispered.
+
+She imagined adding light to the spots of black, like lighting candles in the sanctuary, one at a time, and she felt the buzzing tingle within stir. It filled her, slowly at first, but increasingly quickly, and she fed it into the black spots, watching as they cracked, spilling light, and burst, allowing Father Vytal’s silvery purple to fill him.
+
+Father Vytal sat up with a sudden shout. He coughed hard once, twice, thrice. He looked at her, gasping, his eyes bright and clear. Then sighed and lay back down, his face not so pale, not so thinned, not so lined. His eyes drifted closed, and he slept.
+
+“What have you done?” the acolyte whispered.
+
+Sweep started and spun to face the acolyte who stood over her, eyes wide and wild. She grabbed Sweep’s upper arm and pushed her toward the door. “Did you put your filthy hands on the Father? Get out, get out!” Her whisper became a desperate shout.
+
+Sweep pulled free of the acolyte’s painful grip and turned to the door but before she could get there, she heard the distinctive stride of the Mother Superior and her body froze. A moment later, the door was opened and the Mother came in, face narrowed in anger.
+
+“What,” she began to demand, but the sentence went unfinished. Instead, she looked at Sweep and shook with fury. The blankets she held dropped to the floor and she grabbed Sweep by the hair.
+
+“I found her touching Father Vytal,” the acolyte said helpfully.
+
+The Mother Superior didn’t look at the acolyte. “And how did she enter in the first place, Caroline? Did you abandon your watch?”
+
+“N-no,” the acolyte stammered and said nothing more.
+
+But the Mother’s focus was on Sweep. She strode from the room, her grip on Sweep’s hair keeping the girl firmly at her side. Sweep considered struggling, but even if she managed to escape the Mother’s grip, even if she tore her hair out to do so, there was nowhere to go, nowhere to run. And with that, fear killed all other thought.
+
+The Mother Superior’s private rooms were well lit and warmed by a fire in a large, ornate fireplace. Small, delicate figurines lined the mantle. Thick tapestries hung on the walls. A plush couch stood in the center of the room with a pair of thick arm chairs. Sweep noted the details passively.
+
+There were two acolytes Sweep didn’t know sitting at a work table in one corner, mending clothes. They looked up when the Mother and Sweep came in.
+
+“Out,” she snapped at them.
+
+The acolytes hurried to obey, leaving their work on the table and without bothering to bow.
+
+The Mother dragged Sweep to the table where the acolytes had been and pushed her down over the tabletop. Sweep stayed where she’d been put, too frightened to do anything else, closing her eyes to stop the tears and clenching her hands to stop the shaking.
+
+At the first blow across her back, she gasped and jerked forward into the table. At the second, she tried desperately not to cry out. At the third, all she knew was the pain, and, instinctively, she escaped it. She controlled her thoughts, felt the tingly buzz, and entered the room in her mind. Immediately, the pain was muted. It did not disappear completely, she knew the beating continued, she was aware of it in the same way she was aware of birdsong in the laundry yard when focused on washing clothes, or of the candles in the sanctuary during evening sermon; she was aware of it, but could ignore it.
+
+The room in her mind was comfortable in its familiarity: bookshelf, chair, desk, chessboard. For several moments that might have been days or decades, she stood there, her shoulders hunched, her head bowed, trying not to think about what was happening to her. But she couldn’t. She couldn’t not think about it, and she realized that, here, in the room in her mind, she didn’t know what was happening. The Mother might be killing her and she wouldn’t know. She had escaped the pain, but not the beating.
+
+Sweep closed her eyes, clenched her fists and took a deep, shuddering breath. In the next moment she willed her mind back to her body and screamed. She had been beaten from shoulders to knees.
+
+Her scream must have startled the Mother because another blow did not land. Instead, there was pounding at the door then angry conversation.
+
+With tremendous effort, Sweep pushed from the table, to her feet, and turned to see what was happening. The Mother Superior stood at her doorway, a length of dark brown cord hanging from her fist. Her normally immaculate hair had come loose from its bun and her face shone with sweat. In the doorway, two sisters stood, Sister Clarice argued with the Mother. The other sister, Sister Jayne, looked at Sweep with unconcealed shock. Sweep focused on keeping the pain at bay lest she collapse in a heap of shaking, wailing tears.
+
+Sweep knew she had to leave. Whatever else happened, she knew with utter conviction that she needed to leave the Mother’s chambers right now. Carefully, she put one foot in front of the other, ignoring the pain lancing up and down her back, and walked stiffly to the door.
+
+Sister Clarice cut off the conversation to look at Sweep and this brought her to the Mother’s attention as well. Normally the Mother’s attention would have induced a cringe or a flinch, but Sweep found herself meeting the Mother’s gaze.
+
+“Pardon me, Mother.” She nodded painfully to the Mother then turned to look at Sister Clarice and Jayne. “Sisters.” She nodded at them as well. And she left the Mother’s chambers, the older women moving to allow her to pass.

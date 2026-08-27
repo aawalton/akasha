@@ -1,0 +1,71 @@
+---
+id: 4d65da50-3c18-5717-a5a0-e070aad90a75
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89: Squad versus Squad"
+slug: 0130-chapter-89-squad-versus-squad
+partOf: labyrinth-of-the-mad-god
+position: 130
+ownLength: 1789
+unit: words
+publishedAt: 2025-02-10
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2059519/chapter-89-squad-versus-squad"
+royalRoadId: "2059519"
+---
+
+Nick’s party would have died within the first minute of combat if it wasn’t for the month of intensive training they had just undergone. Their opponents were skilled, used to fighting as a team, and had plenty of experience facing other weapon-wielders.
+
+On the other side of the scales, Team Earth had come armed with a plan. They had caught the buccaneers with their pants down and had killed the rest of the pirates within a matter of minutes. Despite the golden-furred warrior’s bravado, it was clear that the ambush had sapped their morale, and they were hesitant to engage Nick’s party in a battle to the death.
+
+Both sides unleashed a hail of ranged attacks as their frontline fighters met in a fierce exchange of blows. The clang of steel against steel reverberated across the outpost as the fire continued to consume the barracks. Smoke filled the air, and the flickering flames threw ever-shifting patches of light and shadow across the fierce melee.
+
+During a momentary lull in the flow of battle, Devin turned to Nick and said, “Leave the furry bastard to me.” He raised his axe with a hard look in his eyes. “You take the dual wielder.” Nick nodded, dodging an arrow from the pirate’s archer along the way.
+
+With that, both parties came together once more. His world narrowed to the woman in front of him, trusting the rest of the team to handle the other pirates. She was fast and furious—so agile that he had a hard time tracking her movements. After his training with Rita, Nick was able to get a sense for her swordplay as their weapons met time and time again. The woman’s style was far removed from the ever-surging blade. Instead of a relentless assault, she darted in and out. Feinting and circling. Appearing to attack from one direction before falling back and stabbing from another.
+
+Her rapid strikes reminded Nick of a serpent. The woman’s lighter weapons weren’t well-suited to blocking his heavy blade, so she relied on dodges that were supplemented with an occasional parry. Every time that she got inside his guard, he was forced to leap back before her blade slit his throat or punctured his vitals. She didn’t give him time to cast a spell, and he hadn’t found an opening to fire his wand.
+
+But as close as she came, the pirate couldn’t quite land a killing blow. By now, he thought that his attributes were superior, but she was better with her weapons, leaving them evenly matched. After catching her blade with his sword and blocking her dagger with his vambrace, Nick landed a solid kick to her chest, forcing the pirate back long enough to see how the rest of his team was doing.
+
+Devin and the golden-furred fighter were engaged in a different deadly dynamic—a contest of pure Strength. His two-handed axe and the pirate’s longsword slammed into each other in a frenzy of blows, Blast Striking releasing explosions that Nick could feel in his bones. Incredibly, the pirate was able to block the blasts head-on. Neither warrior was able to land a direct hit, but Nick was certain that Devin had a plan.
+
+Sure enough, after blocking one final blow, a wave of crackling flame erupted from his position. Flashfire Pulse washed over the pirates’ party in a searing surge. For a second, Nick thought that the ability had done some serious damage. But when the flames faded away, a dome of energy hung in the air for a fraction of a second before winking out of existence. That mage must be some manner defensive specialist. I haven’t seen any offensive spells yet.
+
+Sophia was trying to summon more forces. But every time that she stopped to gather her concentration, the archer fired a shot, forcing her to leap out of the way. “Duck behind a building. I’ll keep her busy,” Shaun said. He sent a Smoke Arrow flying at the other archer, followed by an Electric Arrow when she came darting out of the haze.
+
+Veronica had engaged the whip-wielder, who was remarkably skilled with his weapon. The whip lashed out fast as thought, keeping her from closing the distance and attacking with her claws. But V was far from helpless at that range. Every time she leapt out of the way, she sent a crossbow bolt streaking in the other direction, forcing the man to enact a hasty dodge of his own.
+
+Both of our ranged specialists are engaged with theirs. Same thing with the melee fighters. That leaves the defense mage and Sophia as wildcards. Nick evaluated the battlefield within a handful of heartbeats, eyes never leaving his opponent for more than a fraction of a second. Which was a good thing, because the nimble pirate came charging back in, requiring all his concentration to avoid taking a thrust to his vitals.
+
+He lost himself in the dance of blades, calling on every trick Rita and Kiki had taught him to keep his blood inside his body. By now, the fire had spread, and all three barracks were burning. It felt like they had been battling for hours, but it must have been only a minute or two­. We can’t afford to stay here much longer. The fire is bright enough that it can be seen from the air.
+
+That was when Nick spotted an opening in his opponent’s guard. He lunged, committing to a killing strike with the full power of his body behind it. Just before his blade struck true, a magic shield sprang into existence, as the mage used his wand to block Nick’s swing cold.
+
+He realized in that moment that he had fallen for a trap. That the pirates had lured him into making the move. He got ready to use Force Acceleration to jump back, even though his control was shit. But it was already too late. A killing strike was headed his way and would land half a heartbeat later.
+
+Just before the pirate’s dagger plunged into his throat, a black barbed tongue wrapped around the blade, pulling it free from her hands as Sophia rejoined the battle with a fresh unit of spear-tongues at her side.
+
+Their arrival was a tipping point. The extra units made all the difference, forcing the pirates to deal with the deadly beasts and dividing their attention from Team Earth’s attacks. Sophia directed the frogs while calling out to the team, serving as their general while everyone else was absorbed in their fights. From time to time, she tossed the throwing knife she had kept, proving a distraction at critical moments to keep the pirates off-balance.
+
+The buccaneers knew they were in trouble. They started burning through their reserves of vital energy and unleashing their heaviest hits. It was only a matter of time before their allies arrived after spotting the flames. They only had to hold their own long enough for reinforcements to arrive.
+
+It tipped the scales back in their favor as Team Earth was forced on the defensive. The shield mage kept them from landing any critical blows, and Nick knew that if he wanted to win, the man had to die.
+
+He had come up with a plan to take the mage out, but he had to endure long enough to find an opening. That was when his instincts cried out a warning. He used Force Acceleration to leap to one side, avoiding taking an arrow to his face with inches to spare. It seemed that the pirate’s archer had found a chance to retrieve a piece of gear from the barracks—a bow that was covered in intricate runes.
+
+Each time that the archer nocked an arrow, energy congealed along its length—a swirling, surging flow that Nick recognized as wind mana after triggering the air-bullet traps on Rita’s world. When the pirate released the string, the missile shot forth with incredible force. They were almost impossible to dodge from this range, especially while engaging another enemy.
+
+Before she could fire again, Sophia’s wasps came to the rescue, divebombing the archer every time that she lined up a shot. Nick’s opponent was momentarily engaged with a spear-tongue frog. He began casting Piercing Ray… only to abort the spell when a whip came streaking for his face. He ducked beneath a second strike and blocked a third with his shield, forcing him on the defensive.
+
+The pirate’s whip was incredibly elastic, letting it bend, hang, and lash out in ways that leather could never hope to replicate. It couldn’t do much damage through armor, but it would strip the flesh from Nick’s bones if it hit an unprotected area. Before the man could attack again, Shaun’s arrow grazed his shoulder, forcing him back with a curse.
+
+That was the moment when the opportunity that Nick had been waiting for presented itself at last. The dual-wielding pirate had killed Sophia’s frog and darted in to engage him. Their blades clashed. Once, twice, then a third and final time. At that point, he spotted a hole in her defense. It wasn’t the same opening as last time, but when he saw the mage looking their way, he was certain that it was a variation on the trick that had nearly cost him his life.
+
+Instead of pulling back, Nick committed to the attack, swinging his sword with everything that he had. The woman smiled—fearless in the face of his descending blade. The instant that the shield mage repelled his attack, she would step inside his guard and end his life. But Nick wasn’t about to let them have their way.
+
+The pirates weren’t the only ones who could use trickery and misdirection, and they were unaware of one critical fact. This situation was exactly what Nick had been counting on.
+
+As his sword flashed down, a shield sprang into existence in front of the dual-wielder's face—the same magic that had blocked his last swing cold. Which is why he had already begun channeling pure mana from his core and feeding it to his sword. Silver flames sprang to life along the length of the blade as the edge closed the final foot of open air.
+
+She knew in that instant that something was wrong. The pirate aborted her attack and threw her body out of the way. But it wasn’t fast enough. Nick’s silver-wreathed sword hit the magic barrier… and kept right on going—pure mana parting the shimmering shield like a hot knife through whipped cream.
+
+The woman began to cry out. But before the words parted her lips, Nick’s sword parted her flesh, carving a diagonal slash across her body that cut all the way down to the bone, killing her instantly.

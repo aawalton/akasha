@@ -1,0 +1,285 @@
+---
+id: a3a52ebc-c550-522f-b518-76302cb10cfb
+page-type-slug: story-chapter-royal-road
+title: "14. First Meetings"
+slug: 0014-14-first-meetings
+partOf: mana-devourer-litrpgmana-cultivation
+position: 14
+ownLength: 3236
+unit: words
+publishedAt: 2024-07-04
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1704479/14-first-meetings"
+royalRoadId: "1704479"
+---
+
+“What’s your name?” the small goddess asked, stroking Ember as she spoke.
+
+“Markus.”
+
+“Does it have a meaning?” When Markus only blinked, she elaborated. “Your name. Does it mean anything?”
+
+“Means my mom liked the name Markus,” Markus shrugged.
+
+She snickered. “I suppose that makes sense. Mine doesn’t mean anything either. My name’s Serena.” Suddenly, she patted the bed beside her. “Come! Sit. You look exhausted.”
+
+“I think I’ll stay standing.”
+
+“What if I get up?” she blinked off of the bed in a flash of reality-bending magic, floating back down to the floor beside him. “Better now?”
+
+“I guess so.” Markus was incredibly wary of this situation. He’d met two other gods so far, and while one of them had been polite to him and even given Markus a gift, even he had felt incredibly foreboding, and the trust Markus felt for any of the creatures was close to nil.
+
+Still, he couldn’t deny the tiredness of his body. He walked over to the bed, the only place to sit in the room besides the floor, and sat furtively right on the edge of it. Even then, the mattress was so soft that it invited him to simply melt into it, and with Ember having been laid on it, the entire blanket was toasty.
+
+Still, he could easily resist right now.
+
+“So!” Serena started, taking a seat right there on the cell floor, not conjuring a chair or anything. “Tell me about yourself!”
+
+“What do you wanna know?” Markus asked plainly.
+
+“Everything! Well… all the interesting parts. You decide what’s interesting.”
+
+Markus raised an eyebrow. “That’s… usually not how this goes.” He pointed a finger at her. “You’re supposed to tell me who you are, and what you want from me, and then try and offer me a deal for my service. That’s what everyone else did.”
+
+Serena listened to his words, then shook her head with a tussle of her long, silvery locks. “Well, I’m shaking things up a little. I want you to tell me about yourself.”
+
+“Alright…” Markus put a hand to his chin, rubbed his stubble. “I was summoned here from Earth a couple of days ago. I’ve got a power based around Mana Manipulation, which is apparently a super rare thing. I’ve had a couple of really intense fights recently, as you can probably see from looking at me, and I… don’t really know what you’re looking for here, I’ll be honest.”
+
+Serena yawned, stretching her neck as he spoke. “Shh. None of that. Did your life only start two days ago or something?”
+
+“Wha-no. Why would you wanna know about that, though?”
+
+“Hmm… Because I do. Who were you before you came here?”
+
+“A truck driver.”
+
+He’d expected a blank, clueless stare, but received a nod instead.
+
+Do they… have trucks here?
+
+“Okay. Truck driver. What else?”
+
+“Uhh… I liked playing video games?” Markus ran a hand through his hair. He felt embarrassed. Like he was trying to think of things to say on a dating profile, or on the personal section of a resume. “I didn’t get much time to. I had a pretty hectic day to day. I spent the majority of my time working, sleeping, or reacting to the latest crisis. I wasn’t expecting to get a break, honestly, not that this was exactly what I had in mind for one. Doubt this is anyone’s ideal vacation.”
+
+Serena hummed in acknowledgment as he spoke. When she replied, her cadance was slow, measured. “Did you have dependents at home? Or were you working just to provide for yourself?”
+
+“Uhh… half and half?” Markus shrugged. “I had a roommate. He worked night shifts, and I was on the road a lot, so we didn’t see much of each other. Probably won’t wonder where I am for weeks.”
+
+Serena listened; Serena nodded. “And this… roommate. They were dependent on you?”
+
+“Something like that.” A beat. “Not really. It’s complicated. They helped me out, and now I’m helping them out, or paying them back, or whatever, or at least I was meant to be and now I’m stuck here and—” Markus sighed, rubbing his head. “Why are we talking about this again?”
+
+“Because I asked. I appreciate you being a good sport and indulging me.” She got to her feet, not bothering to brush herself off, and moved over to Ember, who was sat at the other end of the bed. “Tell me about this one. How’d you end up with a pet hellhound?”
+
+“Someone sent her here to kill me,” Markus answered honestly. “Someone who was pissed that I won my first fight, probably. Apparently, some gods were disappointed they didn’t get to see me get splattered.”
+
+“Hmm…” Serena continued to pet and play with the massive dog as he spoke, her eyes trained on the fluffy, fiery creature. She was short, to the point that Markus likely had an entire foot on her. He was a bit taller than average, though, so she wasn’t tiny.
+
+Only, when put next to the lion-sized dog, she looked tiny. It was faintly amusing.
+
+“So when this little terror came and attacked you, you did what to counteract it? A calming technique? An animal companionship spell?”
+
+“The dog had a spell imprinted on her body that forced her to be aggressive. When I drained the mana from her, the spell cancelled out, and she calmed down a lot. After that, I healed her.” He paused for a second, reconsidered. “Or, well, I don’t know if it was entirely healing. I poured mana into her.”
+
+“The moment your mana touched her spirit was likely when you bonded. You broke the previous owner’s bond, and now you’ve taken that place.” Serena ruffled Ember’s fur once more, and then withdrew. “It’s real strange. I’ve never heard of someone doing the things that you do so easily. Well, not a mortal creature. You’re interesting.”
+
+“Well, gee. I’m glad I’m interesting.”
+
+Serena narrowed her eyebrows. “Don’t be a dick. I didn’t put you here. I’m not trying to annoy you, either. I just needed to ask you some things.”
+
+Markus grit his teeth. “Can you tell me what you want, then? I kinda wanna lie down. I’ve almost died like five times this week, and now I have a bed. I’d like to use it.”
+
+“Yeah, go for it. I already got what I came here for anyways. I appreciate you taking the time to talk with me. See ya.”
+
+Markus’ once drooping eyes immediately opened wide. “...huh? That’s it?”
+
+“Yup!” She nodded. “I just needed some help making my mind up about something. Now I’ve made my mind up.” She paused, bit her lip. “Or… I think I have? We’ll see. Anyways, I’m out of time. Gotta go.”
+
+“What was it?” Markus sat up in the bed, too curious to relax. “What’s so interesting about my life? What did you need help deciding?”
+
+“Nothing you need to worry about right now. Just focus on getting some rest, okay?” Serena smiled. She looked the picture of innocence.
+
+Then, she sniffed the air.
+
+“Hold on. You need cleansing. Here.”
+
+In a split second, Markus and the bed around him were drenched in a torrent of water and then instantly dried. If there’d been any odor lingering on him, it was definitely gone now. Even the air felt more crisp. Beyond that, his cuts seemed to sting less.
+
+Markus brr’d off the recent flooding he’d endured, hopping to his feet and trying to flag down Serena as she turned to leave.
+
+“Wait! Why did you come here? What was the point?”
+
+“Try not to die, okay?” she replied, totally ignoring his questions, blinking out of existence before he could think to blabber a single other syllable, thoughts and senses reeling from the experience, as confusing as it was brief.
+
+Well, huh. That just happened.
+
+Technically the second god who’d tried to waterboard him in some fashion. As far as waterboardings went, this was decidedly the far more pleasant of the two experiences.
+
+It had actually been kinda relaxing…
+
+Still, none of this did anything to prevent the burning fucking question in his mind of who the hell that’d been and what the fuck that’d been about?!
+
+Like seriously! How was she gonna ask him all those questions, not elaborate, then turn around and leave like that!
+
+And she almost seemed nice! And not creepy god nice, nice nice!
+
+She’d better fucking turn up again. Markus wanted to know what the fuck that had all been about and he was sure he wasn’t gonna get a wink of sleep until he found out.
+
+Five minutes later, Markus was sound asleep, a 300lb dog curled on top of his feet.
+
+Damn, this was a nice bed.
+
+***
+
+Okay, getting up might’ve been harder if the quilt didn’t partially catch flame. Things like that tended to get people out of bed, no matter how comfy they were or how much they ached all over.
+
+It must’ve been pretty resistant to fire though. The fact they’d likely been sleeping here for hours before even a whiff of smoke had made Markus stir was kinda crazy. Guess even the highest quality bedding wasn’t made with hellhounds in mind, though.
+
+Still, once he was up, and had munched a few leftover morsels from yesterday, whatever seemed least stale, Markus immediately got to opening his system up.
+
+He needed to spend some time on it. Markus could have another fight thrust upon him at any moment, and preparation was paramount.
+
+He started off with his skills/abilities list. Figured it was easier to see if anything he tried to do had attribute-based prerequisites before starting to spend his points.
+
+[Cyromancy: 4. Mastery awakens at 10.]
+
+[Frost Mastery: 6. Path evolution available at 25.]
+
+[Frozen Tomb: 2.]
+
+[Regeneration: 11. Path evolution available at 25.]
+
+[Respite: 2.]
+
+[Unarmed: 5. Mastery awakens at 10.]
+
+[Pyrokinesis: 2. Mastery awakens at 10.]
+
+[Glaive Mastery: 3. Mastery awakens at 10.]
+
+[Evasion: 6. Mastery awakens at 10.]
+
+[Empower: 3. Path awakens at 5.]
+
+[Manifest: 2. Path awakens at 5.]
+
+[Diplomacy: 3. Mastery awakens at 10.]
+
+[Mana Manipulation: 2. Evolution awakens at 5.]
+
+[Identify: 4. Mastery awakens at 10.]
+
+Nope. Seemed he was pretty okay for once. A fair amount of things getting close to Awakening, or to whatever the hell Mastery was, but for now, he seemed to be fine, meaning he could spend as he pleased.
+
+Then there were cores. He’d absorbed three from the goblins during that fight. While it might’ve been ideal to get all seven, he’d hardly had the chance to optimise, and by the time the fight was over, he could barely move. Still, three was good enough.
+
+[F Grade Spirit Core Devoured! Awarding stats based on creature’s primary traits:]
+
+[F Grade Spirit Core Devoured! Awarding stats based on creature’s primary traits:]
+
+[F Grade Spirit Core Devoured! Awarding stats based on creature’s primary traits:]
+
+[+3 Strength!]
+
+[+3 Constitution!]
+
+[Feral Goblin Core (x3) absorbed. Core absorption has increased your mana capacity from 1590 to 1650.]
+
+[3x Feral Goblin Cores can be combined to form 1x E Grade Goblin Core. Do you wish to combine?]
+
+Markus selected yes. He didn’t see any reason not to. The stat boost was pretty welcome too.
+
+He felt a strange churning in his torso as he selected the confirmation, as if something were being split apart and combined inside of him. It didn’t last long, but it was unlike anything he’d ever felt before. Not unnatural, necessarily, but definitely strange.
+
+[E Grade Goblin Core created. +1 Strength! +1 Constitution! +30 mana! Would you like to affix this core to a slot? Slots 1/4.]
+
+Why not. Couldn’t hurt, right?
+
+[Feral Soul gained. Your body is capable of processing raw meat and can withstand higher degrees of physical pain. Wild creatures see you as a fellow beast, making Diplomacy with such creatures slightly more feasible.]
+
+[Spirit Mana Generation bolstered. Your body will now generate F Grade Spirit Mana at a 20% higher rate.]
+
+[Core slot 2 of 4 is in use.]
+
+[Body is now generating 66 (F Grade) Spirit Mana and 33 (G Grade) Frost Mana per hour. Generation increased by up to 400% based on missing mana, as per your inborn trait.]
+
+Well, shit. Those numbers went up a lot. He was generating mana pretty fast once again, product of his recent increases in Spirit and the core he’d just activated. He might have to think twice before activating another. He’d be permanently Overcharged at this rate if he wasn’t careful.
+
+Now, there were stat points to consider. He had 32 last time he’d checked, plus 4 leftover free points that he’d never spent previously. He gained a free point he could use on Arcana or Constitution every level for each 10 points he had in Spirit, meaning that considering he’d levelled up four times recently, he had 28 free points including the four remaining from before.
+
+[Name: Markus Brown]
+
+[Class: Otherworlder (Earth) (Tier: Novice 14)]
+
+[Health: 294/435]
+
+[Mana: 1309/1680]
+
+[Strength: 22]
+
+[Agility: 22]
+
+[Arcana: 10]
+
+[Constitution: 34]
+
+[Spirit: 60]
+
+[???: 0]
+
+Ah… this was difficult. Of course he wanted to keep investing in Spirit, who wouldn’t? He got increasing value out of it for every 10 points he dipped into it, and while the other stats might’ve had breakpoints he hadn’t considered, he at least knew that Spirit hadn’t had one at 50.
+
+That didn’t mean the other stats didn’t have one. And considering the free points he had and the fact he still hadn’t found any way to increase or interact with the sixth mystery stat, he found himself wondering just what he was meant to sink his points into here.
+
+Overcharge helped a lot with getting over his lower physical stats. The temporary health, speed, and physical power the buff afforded had helped to keep him alive in every fight he’d had up until now. But unless he was planning to continue trying to work around his Overcharge and invite further Mana Poisoning into his life, he needed to increase at least one of his physical stats and not rely on his ability to mana overdose as a permanent crutch.
+
+Hell, between his regular and free points he could dump 60 in Con right now. How much of a difference would it make? Probably a major one. When Markus thought back to how many times he was slashed or stabbed or clawed or bitten in his seven versus one brawl, it was fucking insane that he was still alive. The fact that he’d spent half of that fight with nearly 100 Constitution was almost definitely the only reason he was still kicking.
+
+Markus talked himself into raising his Con to 50, using 16 free points. His health total went up by about a third, while his mana went up by 40. Besides that, his body just felt more hardy. More like he could take a smack and keep standing. It was a good feeling.
+
+No new passive though, or anything of the sort. If they did exist for attributes, they unlocked at 100. And that was assuming that they even existed.
+
+12 free points left, and 32 regular.
+
+…10 more in Spirit. Fuck it. He was tankier now, and 10 more points was another free point every time he levelled. It was worth it. Plus the increase of his mana total to over 1800 was a nice thing to witness.
+
+He took Agility up to 30. That left him with 12 free points and 14 regular remaining. He decided to hold onto those points. He might need them for something later, whether it was an Arcana increase or something entirely different.
+
+He told himself he’d remember: if a fight broke out suddenly, he’d spend his remaining points straight away and dump them into a combat stat. No point holding onto them at that point.
+
+Armed with that mantra and little else, Markus left to go and collect his new weapon.
+
+As he walked back through the dimly torchlit corridors beneath the dungeon and crossed out into the open hall that connected to the main foyer, he glanced down the massive set of stone stairs once more, attempting to pierce through the darkness and see if he could figure out what exactly laid down there.
+
+He heard a rumbling from below, and then, after a time, an ear-splitting roar.
+
+This roar wasn’t like that of the bulleater. Whatever this thing was, it’d make the bulleater shit itself, and then eat it. Probably in one bite.
+
+Markus didn’t even wanna know what that thing was. He’d passed plenty of monsters on his way through the dungeons, they were paraded through the main hall of this place even now, being transported and whipped and used and prepped and sold and bought in abundance.
+
+And yet, whatever was down there clearly needed to be kept somewhere separate. Somewhere removed. Somewhere safer.
+
+Markus banked the knowledge. It was something he’d have to investigate later.
+
+After Markus had collected his weapon and gotten a brief explanation on how to use it, he got on his way. He’d paused to admire it briefly, the blade shimmering a light red whenever he grabbed the handle. It was kinda uncanny at first, but cooler the longer he held it. The handle felt great, too, and the weapon looked really nice. The blade was a tad smaller than the first glaive he’d used, the handle a tad shorter too, but that didn’t stop him from feeling it was ten times greater than that which he’d previously had.
+
+That blacksmith knew his shit, clear as day.
+
+As Markus left with his weapon, he found himself visualising combat scenarios as he walked, daydreaming strikes, thrusts, and parries. It was more curiosity than anything, wondering how the weapon would handle and how effective it might be in certain situations. Markus didn’t particularly enjoy violence, after all. Or at least, he never had. The prospect of violence against one or two particular people in his life right now was a bit of a different story.
+
+But that didn’t make him revel in his arena fights or even look forward to them. The only thing he looked forward to was his freedom.
+
+He’d been walking in relative peace through the packed main chamber until a woman waved him over, sat on a nearby stone bench, perfectly still until he’d began to pass her by. She was sat facing the blacksmith, likely having watched him walk from it. Had she been waiting there for him this whole time?
+
+It was difficult to tell what she was from here. She had golden blonde hair, and wore a long hat that covered much of her face. Surely not another goddess?
+
+“You,” she began as soon as he approached, in the characteristically haughty voice of a goddess.
+
+Yup. Markus sighed.
+
+“I am the Sword God, Maesha. My virtue is Strength. I ask that you accompany me to the training rooms, so that we might introduce ourselves to one another.”
+
+Well, shit. It might’ve been yet another fucking immortal, but at least this one didn’t wanna yap at him for 20 years. Eager to test out his new glaive, Markus was more than glad to agree.
+
+Besides, if she meant what he thought she meant, he was stoked. Fighting a god sounded baller as fuck.
+
+Well, assuming she didn’t maim or murder him.

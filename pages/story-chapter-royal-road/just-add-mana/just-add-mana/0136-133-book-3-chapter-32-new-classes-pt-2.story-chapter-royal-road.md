@@ -1,0 +1,201 @@
+---
+id: 071eb329-985e-5720-beb7-573dbdfea4e4
+page-type-slug: story-chapter-royal-road
+title: "133 — Book 3, Chapter 32 — New Classes, Pt 2"
+slug: 0136-133-book-3-chapter-32-new-classes-pt-2
+partOf: just-add-mana
+position: 136
+ownLength: 3255
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3374520/133-book-3-chapter-32-new-classes-pt-2"
+royalRoadId: "3374520"
+---
+
+Cale could sense the reverberating notes of Basic Illusion long after Erik and his apprentices dismissed the spell.
+
+Part of him wondered if anyone else could hear it, too. If they could, then they showed no sign of it, nor did any of the instructors mention it as a means of refining the spell. He was almost certain he could hear exactly what needed to be refined—there were small, dissonant notes in the melody that came about from the way the magic flowed together—but when Elizabeth and her apprentices set out to begin the next stage of their demonstration, there was no mention of even using their mana sense to feel out the spell.
+
+Instead, they began discussing the changes they thought they would need to make, starting by analyzing the node configuration that Erik had laid out to figure out how he'd constructed it to begin with.
+
+"Spell systems are an art form," Elizabeth explained, "and for the purposes of this class, many of them are unique. The same effect can be achieved with many different combinations of reagents and nodes, and a good understanding of them will allow you to cast even when your normal materials and standard patterns aren't available to you."
+
+It sounded very much like the basics of spellcasting via spell systems had emerged through rigorous study and experimentation. Was it possible that they couldn't hear their reagents speaking to one another through their magic?
+
+Maybe they hadn't developed their mana senses as much, since this method of spellcasting didn't require putting complex constructs together. Cale turned to Graystalk. "Is your mana sense picking anything up from that cast?"
+
+"Not quite." Graystalk was staring at the chalk circles, intrigued. "This appears to be a unique form of spellcasting."
+
+"Nothing like music?" Cale persisted, and Graystalk turned a puzzled look to him.
+
+"No," he said. "Are you sensing something in particular?"
+
+"I think so." Cale hummed in thought. Leo, Syphus and Thorn hadn't sensed anything unique, either, judging from the way they all shook their heads when he turned to look at them, so maybe what he was hearing was unique to him.
+
+The Gift had taken note of it, after all, and Cale hadn't missed the fact that his new spell had been delivered in an entirely different tone and format. He called it up again just to see what it had to say.
+
+Basic Illusion (Record)First Circle
+
+Conjures a solid illusory construct. Unlocks access to First Circle spell systems.
+
+Increase your understanding to uncover and record more magic within this domain.
+
+Cale had never seen more beautiful words. He had to tamp down a bit on his excitement, though he didn't bother to stop the grin that stole across his face. This was confirmation that there was some compatibility here with the Gift, even if it was only taking a record of the node configurations he saw. He suspected there was a bit more to it than that, or it wouldn't require him to understand them to unlock more of them, but that part didn't really matter to him.
+
+He loved a good mystery. This was a whole new system to explore!
+
+Cale turned his attention back to Elizabeth and her apprentices for now, though. As eager as he was to figure this out, he'd already blown up a classroom or three rushing ahead of everyone else, and he did know to be careful when engaging with new methods of spellcasting.
+
+Mostly.
+
+It did mean that this second demonstration felt like it was going much slower than the first. Cale wasn't any less interested in what they were doing, of course, but he learned best through experimentation and was itching to do some of his own.
+
+Thankfully, Elizabeth began explaining exactly what she and her apprentices were doing, and that was enough of a distraction to quell the itch for now.
+
+Erik's version of Basic Illusion had intentionally been poorly optimized, essentially the bare-minimum configuration needed for the spell to function. Now, Elizabeth explained, they had to find a way to cast the same spell using less mana and with less interference, which would consume more of the arcane energy within each reagent to achieve the same effect.
+
+Cale watched intently as she drew a new set of circles into the ground, mimicking Erik's original design but with thicker, cleaner lines. Her apprentices helped move the reagents into the new set of nodes as she drew them out. "To truly refine a spell system," she said, "you must understand every aspect of the spell you wish to cast and how to make those aspects work together. Consider what Erik has given us, for instance. How do these reagents result in a casting of Basic Illusion? Nora?"
+
+One of Elizabeth's apprentices cleared her throat. "The glowbeetle nectar provides light," she said, enunciating each word carefully. "The glass marble refracts the light to provide color. Gryphon feathers contain elemental shaping, which allows the illusion to take shape, and the gelatinous residue offers substance to make the illusion corporeal."
+
+"Very good," Elizabeth said approvingly. "And the dirt?"
+
+Nora hesitated. "I don't know," she admitted. "Spontaneity?"
+
+Elizabeth chuckled and gave her apprentice a pat on the head and a surprisingly warm smile; evidently, the way she treated them was very different from the way she treated Erik. "Close," she said. "I know that's what Instructor Erik said, but it hasn't exactly been proven yet. There is some evidence that it works, though. What about you, Jurug?"
+
+The apprentice that responded was one of the few non-human students in the class, though no one seemed to treat him any differently. The enormous, lumbering orc scratched his head for a moment. "Jurug thinks it is filler," he said. "All First Circle spells must use five nodes, yes?"
+
+"Excellent," Elizabeth said with a nod. "Quite right. Many First Circle spells theoretically revolve around three or four core ingredients instead of using the full complement of five, but leaving a node empty risks destabilizing the spell. Thus, we fill the nodes that would otherwise be empty with a neutral ingredient."
+
+She paused, then turned to Erik and narrowed her eyes at him. "Which," she added icily, "is not usually a lump of dirt."
+
+Erik, of course, simply returned her ire with a grin and a jaunty wave. Cale snickered a bit at the sight.
+
+"The dirt complicates things," Elizabeth continued, electing to ignore Erik's shenanigans. "It's a mixed ingredient, first of all, which means it's not magically neutral and introduces a great deal of interference into the spell. If you remember your lessons, that results in both increased cost and reduced effect. Normally, I would simply substitute it for something else, and in any practical situation I would strongly recommend this if possible.
+
+"In keeping with the spirit of this exercise, however, we will discuss techniques to refine sub-optimal reagents instead. There is some benefit to this; you may be forced to use ingredients like these when spellcasting in the wild, so pay close attention. You especially, Xinghuo."
+
+That was her third apprentice, Cale assumed. Xinghuo bowed, her cheeks flushing with embarrassment. The streaks of dirt on her uniform were a pretty solid hint as to why Elizabeth had called her out specifically.
+
+Cale could relate. Every time he accepted any sort of teacher, he eventually disappeared, and then they'd end up finding him in the strangest of places. Including, at one point, half-buried in a graveyard.
+
+"If we had a second empty node, we could use a counterbalancing agent to neutralize the arcane shift caused by the first." Elizabeth demonstrated this by drawing two parallel lines between two of the nodes, though she erased them a moment later. "Since Basic Illusion doesn't allow us that, we'll use a recursive reduction instead. Be careful when using these. They can cause your spell to get clogged, and we all know what can happen with spell clogs..."
+
+She trailed off meaningfully, glancing at Erik, who rolled his eyes and gave her the finger. Two of her apprentices giggled at whatever memory she had conjured; meanwhile, Erik's apprentices grumbled and shot them dirty looks.
+
+Cale sighed wistfully. "You guys need to get yourselves some rivals," he said, nudging Leo and Syphus. "We've been missing out."
+
+"Aren't you the one always telling us we're growing way faster than anyone else?" Leo pointed out.
+
+"I pick Thorn," Syphus said. "Thorn, will you be rivals with me?"
+
+The vinewalker blinked slowly at it, but his expression didn't otherwise change. "No."
+
+Even with only a single eye to express itself, Cale was pretty sure it pouted at that. He grinned, shaking his head, and turned his attention back to Elizabeth. Something about the way she was approaching this was nagging at him. Or maybe it was the way the university instructors were approaching it in general?
+
+She'd begun to modify the configuration Erik had provided, and Cale leaned in with interest, dissecting the changes she'd made. The recursive reduction she mentioned was essentially just a line that spiralled out and then back in to the dirt node. It would, presumably, siphon off some of its arcane energy and allow it to dissipate as waste.
+
+Then, letting her apprentices make the calls, she began making bigger changes to the spell configuration. Nora pointed out that the glowbeetle nectar could be connected directly to the gryphon feather; it didn't matter when color was added to the illusion so long as it was done before the illusion gained substance. Jurug suggested enlarging the light and shape nodes to better reflect the proportion of each required by the spell.
+
+Xinghuo, eager to contribute, offered up the idea of using Galner lines rather than standard connecting lines... which led to Instructor Elizabeth stopping in her tracks and demanding to know where her apprentice had learned about Galner lines in the first place.
+
+And to Cale's absolute delight, that led to a whole other fascinating conversation about how magic worked in this era.
+
+Evidently, none of the students in the class were supposed to even know about the existence of Galner lines, let alone how they could be used within a spell. Elizabeth had to stop everything just to find out how Xinghuo had discovered their existence, and it wasn't until the poor girl admitted to exploring some forbidden ruins that she finally let up with an exasperated sigh.
+
+"You need to tell me when you encounter things like that," Elizabeth said, rubbing her temples. "Now I'm going to have to explain this just to make sure everyone understands the dangers of using them. None of you are to try using these on your own, is that understood?"
+
+Elizabeth made sure that every one of the students nodded in agreement before she continued. "Galner lines are powerful arcane amplifiers, but any mana that moves through them are subject to unpredictable aspect shifts," she said. "Which means significantly higher odds of spell backlash. Never draw a Galner diagram without supervision until at least your fourth year."
+
+Cale and Graystalk both startled a little as they caught on to the implications, and if either of them thought it might have been a coincidence, those thoughts were banished when she began explaining the technical details of how this worked. Every known mana aspect had an associated "Galner number", which denoted how susceptible each aspect was to shifting when pushed through a Galner line.
+
+"Mana attunement," Graystalk muttered, staring intently up at Elizabeth before glancing back at Cale. "We have never identified a concrete mechanism through which a mage attunes their mana from one aspect into another."
+
+"Which means these Galner lines might be why," Cale said thoughtfully. "Actually, maybe you've all got Galner lines in your cores or something? And I guess the Galner number would explain why some aspects are harder to attune. Flia said something about sticky attunements."
+
+"That is the informal term for it, yes," Graystalk said, his brows furrowing. "It seems possible that the magic we are seeing now is how our own modern form of magic developed... I would like to do more research on this when we leave the dungeon. It is possible I may find a solution for our Astral Wing students through the idea of these Galner lines."
+
+He asked, of course, and thankfully Elizabeth saw no issue with elaborating on what they were and how to draw them. She was of the opinion that if a glimpse of forbidden knowledge was ever obtained, then it was best to explain the subject in full. That would minimize the risk of a student recreating it by accident or attempting to study it on their own without an understanding of the dangers involved.
+
+Cale was enthralled by the ensuing explanation of what Galner lines were and how to draw them, mostly because of how absurd the whole thing seemed on the surface. A Galner line looked, for all intents and purposes, exactly like a regular connecting line in a spell system—that was part of what made them so dangerous.
+
+The difference between a Galner line and a standard line existed almost entirely in the mage's conception of a line and the process of drawing it: to draw a Galner line, the mage had to tense every muscle in their dominant arm while visualizing the geometric ideal of a line not as a connection between two nodes, but as one of a series of limiting parallel lines on a hyperbolic plane.
+
+Which was ridiculous, of course, and the mechanics of visualizing a hyperbolic anything eluded Cale. It was, however, also the exact sort of magical quirk that he loved learning about. He practically collected these!
+
+He had to ask, though. "How did anyone even discover this?"
+
+Elizabeth sighed, clearly reluctant to explain, but gave him his answer regardless. "It wasn't discovered so much as it was invented," she said. "Galner lines were created as a result of the rivalry between two mages. First was the royally-appointed geometry mage Galner, also known as the Grand Dimensional Mage. The second was—"
+
+"—Richard!" Erik called out. Elizabeth gave him an annoyed look, but nodded.
+
+"Yes. Richard."
+
+Cale paused. "Just... just Richard?"
+
+"Just Richard," Elizabeth confirmed with a pained expression. "He was a math wizard."
+
+Cale very carefully chose not to comment on that. "How'd their rivalry end up creating Galner lines?"
+
+"...Great magic often emerges from competition?"
+
+Erik snorted. "Oh, please," he said. "Call it what it was! They had the mother of all prank wars."
+
+Cale burst out laughing. "They sound like my type of mage," he said approvingly.
+
+"Excuse me," Professor Graystalk said. "A prank war created an entirely new magical concept?"
+
+"Technically it resulted in a slight modification to the concept of geometry as we know it, which had far-reaching magical consequences." Erik said cheerfully. "Or so we think. There's a lot of research being done on what exactly happened."
+
+"It's more common than you'd think," Cale offered. Graystalk turned to stare at him, then narrowed his eyes.
+
+"...Which foundational magical principle did you accidentally invent?" he asked, his tone accusatory.
+
+"I admit nothing," Cale said hurriedly.
+
+Professor Graystalk just groaned.
+
+That information was enough to satisfy them both, though. Graystalk seemed quite certain he had enough to go on for his research when they returned, and Elizabeth resumed her demonstration after that.
+
+The Basic Illusion her apprentices conjured was larger and brighter compared to Erik's. It was surprisingly hard to tell it was an illusion at all, in fact, and remarkably, when she invited them up to prod at the illusion before dismissing it, Cale found that it even felt real.
+
+That meant that despite its name, a First Circle spell could emulate the effects of perhaps up to a third-tier spell in the Gift's system. First-tier illusory spells were usually still immaterial, and second-tier ones could have minimal substance, but would break easily.
+
+The ones conjured by Basic Illusion felt like actual flesh-and-blood. Stone, in the case of the Syphus illusion, but the point remained. Elizabeth explained that this was a result of the gelatinous residue, which was a remarkably versatile ingredient that could replicate all sorts of textures and surfaces.
+
+Unsurprisingly, Erik whooped at this comment. "That's praise!" he called out. "You praised me!"
+
+Elizabeth sighed. "You are such a child," she muttered, rolling her eyes.
+
+"They're always like this," Nora remarked to Cale, Elizabeth's other apprentices nodding in agreement. "We're taking bets on when they're going to admit they like each other."
+
+Cale snorted. "Can I join? I'm betting they already have and they're just going behind your backs."
+
+"What? That can't... oh no." Nora looked horrified. "That would ruin the pool!"
+
+She rushed off to join the other apprentices, and Cale laughed, shaking his head.
+
+It was Instructor Hikari's turn next. She was more serene than the other two instructors, and so were her apprentices—it wasn't uncommon for apprentices to take after their mentors, Cale supposed. Their own changes were minimal, but there were some things significant about it.
+
+Instead of using a recursive reduction to deal with the dirt, her apprentices planted some seeds within it and used a different spell to induce growth, turning it into grass; this, Hikari explained, completed an alliterative circle and would allow the fifth ingredient to boost the spell rather than simply suppressing it.
+
+Interestingly enough, Cale noticed that the chalk she was using was singing in his mana sense, too. It was a quiet song compared to the one produced by the reagents, but the song was there, nonetheless. From the well-worn look of it, Cale was guessing the difference in quality came from how long she'd been taking care of it and carrying it with her.
+
+In fact, now that he was looking, all three of the university's instructors carried a pouch at their waists with individual pockets for individual pieces of chalk. Erik had used a new piece to draw the first configuration for Basic Illusion, and Elizabeth had used one from somewhere in the middle of her collection—not the oldest one she had, but a reasonably strong medium for the spell, at least.
+
+Hikari's chosen piece of chalk was closer to the end, and about half of it was already used. She gave it a fond smile before she drew out the rest of the circle, and when the spell completed, Cale sucked in a breath.
+
+The song that resulted from the harmony of her new configuration was beautiful. The resulting illusions were almost indistinguishable from real. Without his mana sense, he might not have noticed at all. He could even see his own illusion's chest breathing, and he was pretty sure this version reproduced smells, too.
+
+Magic in this era was clearly strongly rooted in significance and meaning, if the chalk was so important, but more than that...
+
+"This is a fully refined First Circle spell," Hikari said, bowing toward them. "I look forward to what you can share with us in turn. Do not worry if your traditions are different. We would be eager to learn anything we can."
+
+"Actually," Cale said. "There's something I'd like to try, if you don't mind."
+
+Graystalk glanced at him curiously, but nodded his assent, trusting him.
+
+Cale didn't notice. He was too focused on his mana sense, on that strange twist of it that allowed him to hear what these spell systems were doing.
+
+There was still a dissonant note in there, and he was pretty sure he could get rid of it.

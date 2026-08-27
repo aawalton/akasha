@@ -1,0 +1,115 @@
+---
+id: 43f51fa0-ab64-5af5-aaa0-81d07e73b8d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Enhanced Physical Senses"
+slug: 0293-chapter-13-enhanced-physical-senses
+partOf: labyrinth-of-the-mad-god
+position: 293
+ownLength: 1848
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3159157/chapter-13-enhanced-physical-senses"
+royalRoadId: "3159157"
+---
+
+“Hell yes, I would.” Nick acknowledged the query and then closed his eyes while waiting for the show to start.
+
+In addition to an efficiency increase, hitting odd-numbered ranks always came with a vision he had come to think of as an “ability recap.” The System replayed every time he’d used Heavy Blow and every insight he had obtained as a result. It was a useful refresher, and it helped clarify which direction he hoped to take the combat art as time went on.
+
+Heavy Blow was a valuable addition to his arsenal, letting him burn stamina to boost the velocity of his attacks. Its quick activation time let him change the tempo of his strikes on the fly to surprise or his opponents or power through their defense. The ability was also a key component of Sonic Slice, and when it hit rank two, he planned to pick an upgrade that would improve both aspects.
+
+However, this was an important milestone too. Since Heavy Blow was a class-granted ability, it no longer required a slot after reaching rank one. That meant Nick didn’t have to swap combat abilities in and out of his Free Slot anymore, letting him chain his powers together a bit smoother than before.
+
+Far more critically, now that his Free Slot was open, he could use the second ability stone he’d earned for saving Dragon’s Tooth from monstrous ants, and slot the passive skill, Enhance Physical Senses.
+
+Just like Force Riposte, Enhance Senses was a hybrid of spell and combat art. Nick wasn’t sure if such abilities were rare or this was a sign that he was integrating his warrior and mage aspects, but he was eager to find out.
+
+He let his team know what was happening then pulled the stone out of his backpack. Beasts couldn’t use them, so Bandit and Lurk had never seen anything like the rune-covered crystal glowing with a soft inner light.
+
+When they were done inspecting the artifact, he opened his menus and sent his intentions into the System.
+
+You are holding an ability stone containing the ability: Enhance Physical Senses.
+
+Would you like activate the stone and learn the ability now?
+
+When Nick confirmed the prompt, a beam shot out from the crystal and penetrated his brain.
+
+His awareness was drawn inward, giving him a front-row seat as the System’s magic carved the pathway for his new power into his synapses. When the process was complete, it attached the construct to the energetic core burning below his heart and the stamina well pulsating near his naval.
+
+He watched with interest as the AI added channels that connected them to his sensory organs, allowing them to receive an infusion of stamina and mana, although the details were beyond his understanding.
+
+A few minutes later, the System’s touch withdrew and his newest power was ready to go. Before he gave it a try, Nick pulled up his profile to read the description in full.
+
+Enhance Physical Senses (Spell, Combat Art).
+
+Drains mana and stamina to dramatically increase the acuteness of the user’s taste, touch, smell, hearing, and vision.
+
+That’s simple and straightforward, and it sounds incredibly useful. With that, all that was left was to take his ability for a test drive.
+
+He swapped Force Acceleration into his Free Slot, since he could only equip a single passive ability until he advanced to Tier Two, and then switched on Enhance Senses. He was surprised that the mana flowing out from his core was life-aspected—the first time any of his powers had utilized the non-elemental mana stemming from all living things.
+
+All such thoughts were driven from his head when the tsunami of data flowing through his nerves arrived at his brain.
+
+His eyes widened as he struggled to adapt to his upgraded perception. His heart booming in his chest blended with the smell of sweat and blood splattered across his armor. The hiss of air being drawn into his lungs merged with the texture of clothing encasing his skin.
+
+His gut told him that his senses were about 50% sharper than before, which was intense as hell when combined with the extra information provided by his recently evolved organs.
+
+Until his mind finished making the adjustment, Nick shut out the extra data with an effort of will and tried out his new senses one by one.
+
+He began with his eyes, since his vision was a critical component in exploring hostile environments and battling with his life on the line. It was like he had been looking through a dirty window all his life and someone had walked by and wiped it clean, revealing the world in crisp, clear detail for the first time.
+
+He could count the hairs on Kenji’s arms from twenty feet away. Make out every nook and cranny along the passageway’s walls. Everything from subtle textures to minute gradations in color leapt out at him, leaving his vision far richer than before.
+
+The improvements weren’t limited to his long-range eyesight.
+
+When Nick held his hand in front of his face, he could trace the minute whirls of his fingerprints—the dimples of his pores and protrusions of his follicles. Whoa. This is incredible. He could have lost himself in this sensory wonderland for hours in other circumstances, but since they were on the clock, he moved on and focused on his other senses.
+
+When he took a deep breath through his nose, a pungent medley of aromas hit his sinuses hard. He could smell the algae in the water. The mold in the air and the distant reek of monsters. Bandit’s primate musk and Lurk’s reptilian odor. Nick wasn’t used to tracking by smell, but with his upgraded nose he could add it to the mix, enhancing the vibrancy of his olfactory world.
+
+When he switched to his ears, he could hear his friends’ breathing from a dozen feet away. Pick up the subtle rhythm of their heartbeats if they were standing nearby. He could follow the gurgle of debris running through the waterway. The gentle susurrus of air flowing through the conduit.
+
+His taste and touch were equally enhanced. He couldn’t wait to try out his upgraded tongue at Aurora’s mess hall or his hypersensitive skin while enjoying Liz’s company in the most intimate sense possible.
+
+It was a lot of extra information. While it would take some time to get used to navigating the Labyrinth with Enhance running, he could already tell that his new ability would be an invaluable tool, especially after he ranked it up a time or two.
+
+His instincts were telling him that it would synergize with Size Up. The informational skill could provide more insights when it had more data to work with, and it couldn’t protect him from anything Nick couldn’t sense on at least some level.
+
+For now, he swapped Force Acceleration back into his passive slot, so he could respond to an ambush at a moment’s notice, but he was looking forward to exploring Enhance Senses during their downtime and planned to leave it running when he had another Passive Slot to work with.
+
+With his upgrade complete, the party resumed their journey through the endless maze, guided by the System’s arrow.
+
+They engaged in several minor skirmishes as they pressed deeper into the conduit—nothing that tested their limits like their battle with the crayfish.
+
+During these small-scale conflicts, Bandit used his shadow flame in two ways Nick hadn’t seen before. Both were potent applications, and watching the lemur in action gave him some ideas on how he might get more out of his own magic as his mana manipulation improved.
+
+He already knew the Tier-Two beast could control the temperature of his fire at will, which is why the lemur could use his flaming appendages without burning his friends or catching his environment ablaze.
+
+However, Nick hadn’t realized that Bandit could cover his body in shadow flame to create a flickering cloak of inky mana. His Shadow Mantle technique served as both defense and offense in one.
+
+Whenever a ranged attack came Bandit’s way, the shadows would reach out and deflect the projectile. In melee, his mantle would grab incoming weapons and limbs, blunting the strike like a weaker version of Force Riposte. At the same time, shadow flames would spread along the point of contact, covering his opponents in malleable mana that seared and stabbed at the same time.
+
+The lemur’s second technique was even more impressive. Bandit could expend a massive surge of mana and shape it into a replica of his own body.
+
+When he was in Shadow Form, the lemur and his Shadow Clone looked identical. In addition to obfuscating his true position, the mass of mana was a mobile-weapons platform. Bandit’s clone could produce any of the spell-like effects he could manifest—fireballs, flamethrowers, and the like.
+
+Anything unfortunate enough to bite or claw the clone was in for one hell of a surprise. A single touch could coat their limbs in deadly magic, like what happened when his mantle was struck. Last but not least, the beast could detonate the clone’s payload all at once, producing a gigantic ball of black flame that engulfed a wide area.
+
+The Shadow Clone was expensive to manifest and maintain, but it was one of the most badass applications of magic Nick had ever seen.
+
+“Bret is going to go nuts when he hears about this,” Kenji said after watching the lemur in action. “Hopefully, Bandit will be willing to train him, along with our other shadow and fire mages. Maybe someone will develop a similar Concept eventually. Team Earth would benefit from shadow flame’s power and flexibility.”
+
+Nick couldn’t agree more, and he decided to ask the beast for a favor after they completed the quest and made it home. That reminded him that he could add the tribe to the alliance now, even if joining Team Earth would have to wait until the dreadbeasts were wiped out.
+
+“We already have the coyotes of Shady Cave as members,” he explained. “And Desert Rose and Dragon’s Tooth are stalwart allies. If you join the alliance, our portal will connect to your village, and we can start trading goods, services, and knowledge.”
+
+“I was planning to join your faction anyway,” Bandit replied, “so forming an alliance now makes sense. It will be good for my tribe to interact with more humans we can trust, along with other awakened beasts.”
+
+“Awesome.” With that, Nick opened his city menu and made the offer, which the lemur accepted on the spot.
+
+You have formed an alliance with Bandit is the Smartest Creature on Earth.
+
+“Wait? That’s the name of your village?” Nick burst into laughter—followed by Kenji, when he read the update that appeared in front of his eyes.
+
+Bandit looked down in embarrassment, then replied. “I didn’t realize anyone else would see it, so I just said the first thing that came to mind.”
+
+Accompanied by an occasional chuckle, the party rose to their feet and continued their journey, heading deeper into the living maze.

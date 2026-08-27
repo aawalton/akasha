@@ -1,0 +1,123 @@
+---
+id: 763657cb-d809-5826-b04e-2a91913ccd12
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: The First Phase"
+slug: 0221-chapter-38-the-first-phase
+partOf: labyrinth-of-the-mad-god
+position: 221
+ownLength: 2971
+unit: words
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2590584/chapter-38-the-first-phase"
+royalRoadId: "2590584"
+---
+
+Thanks to Blend into the Background, the canyon appeared empty other than the siege engines lining the rim, but that was far from the case—a fact the Armada Wurm became aware of when Kenji’s voice rang out across the battlefield. “It’s time! Begin the first phase!”
+
+With those words, every catapult, ballista, and mangonel arranged along the ravine took aim and fired, filling the air with an assortment of rocks and oversized bolts.
+
+The boss heard the commotion and looked up just in time to take the first volley broadside—muscular body rippling under the impact of the combined assault. Even with magical enhancement, these weapons couldn’t do much damage to something as tough as the wurm, but they still really fucking hurt.
+
+The wooden missiles shattered against its durable gray hide, but the stone bolts had been augmented to increase their penetrative power, letting them sink into the wurm’s skin. The barbed projectiles couldn’t reach anything vital, but that wasn’t the point. While the barrage kept the beast busy, the engineers in the canyon fired all ten anchor shots before climbing to safety on a pair of ropes hanging from the ledge above.
+
+Each stone bolt was attached to a heavy metal chain and the earth shapers had implanted the other end into the middle of a boulder. The wurm thrashed and tried to reduce its profile, caught off guard by the surprise attack and abrupt change in terrain.
+
+Two of the chains snapped beneath the pressure and one anchor shot was torn free from the creature’s hide, but the rest were slowing it down and keeping it from rearing up to reach the canyon’s rim. The hits from the boulder-launching mangonel left livid bruises behind, although nothing that looked like a critical wound.
+
+By this point, adrenaline was surging through Nick’s veins, and his heart was pounding like a caged animal trying to break free. He wanted to get down there and join the fight, but it wasn’t time to reveal his presence. After all, this phase was merely laying the groundwork for the true battle to come.
+
+He watched as invisible hands began filling the catapults with magical land mines. They were distributing them evenly across the ice with two key exceptions—the raised areas where the defenders would stand and the deepest part of the canyon where the wurm was being battered by the mangonel and ballistae.
+
+Any second now, the next phase will begin, and it will be time to get into position. Sure enough, at that point, two events happened at almost the same time. The siege weapons ran out of magical ammunition, switching to regular rocks instead. Meanwhile, the wurm’s body bulged as it opened the armored plates shielding its face, acknowledging that it was in for a serious fight at last.
+
+The beast’s mouth stretched wider and then wider still, until the dark tunnel of its throat was bigger than a barn door. The whole process only took a few seconds, but Arctic Clarity combined with his high Mind let Nick analyze his opponent in short order.
+
+With its mouth hanging open, he could see that the wurm’s skin was several feet thick and Size Up told him it would repel all but the strongest of attacks. It seemed to have some sensory organs that were shielded by the creature’s armored plates, but they would be impossible to target unless he was standing right in front of it.
+
+Its tongue had retracted to allow for the deployment of its troops, and Nick noticed that its throat had three separate tunnels. There was a central chamber covered in jagged teeth leading to its stomach, but there were also fleshy passages to either side, which he assumed connected to the spaces where the army of parasitic beasts lived.
+
+Sure enough, bulges began sliding along both sides of the wurm’s body as the creatures dwelling within began to stir. Through the adjoining passageways, an army emerged from the behemoth’s maw.
+
+Before witnessing it with his own eyes, Nick would never have believed that a living creature could carry hundreds of bulky beasts inside it, but the Armada Wurm was unbelievably massive—to the point he was concerned that even if his attacks could penetrate its hide, he wouldn’t be able to reach its organs. I’ll worry about that once we’re in position. Hopefully the rest of my team has some ideas.
+
+All such thoughts were driven from his head when the first wave of insects emerged. As Kenji had predicted, the first beasts to appear were the slicers—man-sized bugs that looked like a nightmarish cross between army ants and praying mantises.
+
+The slicers had crimson carapaces, wedge-shaped heads, and powerful bodies. Now that he could see them with his own eyes, Size Up told Nick these bugs were powerful opponents—on par with the voidbear he’d fought with Liz. They were strong, fast, and resilient, and he would have trouble facing more than two or three at a time.
+
+The slicers’ angular bodies and blade-arms flashed in the sunlight as they stepped out of the wurm’s mouth and onto the ice… only to go sliding every which way as they crossed the slippery incline.
+
+The ranged units opened fire, taking advantage of the confusion and temporary bottleneck to kill a dozen insects before they adapted by sinking their blade-limbs into the ice to provide additional traction. The slick surfaces slowed them down, but they were able to spread out and advance into the canyon. It was clear these beasts had never fought on icy terrain before, but they were still deadly opponents who outnumbered Team Earth two to one by themselves.
+
+Behind the slicers emerged a massive swarm of stingers—so thick it looked like the wurm was breathing out a dense cloud of buzzing black smoke. With his upgraded eyes, Nick could make out their features clearly despite the distance between them. The stingers looked a bit like armor-plated eagles with two sets of wings. Their pale bodies were built for agility, and in addition to a pair of powerful jaws, they had barbed stingers that could stretch out several feet to jab while midflight.
+
+Size Up informed him that the individual stingers weren’t too dangerous, although their venom would sap the strength from his limbs and eventually paralyze him if he took too many attacks. While the healers could counteract the toxin, if someone was stung multiple times before help arrived, the venom could be deadly.
+
+On top of that, the flying beasts could attack from above and approach from people’s blind spots. They would be especially dangerous to the lightly-armored casters and ranged specialists lining the canyon’s rim.
+
+Of course, the stingers weren’t impeded by the ice at all, and they quickly overtook the legion of slicers. Team Earth had been waiting for this moment, and almost everyone with a ranged attack let loose when the humming horde appeared.
+
+Fireballs, Acid Sprays, and Wind Blades flew alongside bolts, arrows and a range of other attacks as the defenders took advantage of the opportunity to score some kills while the bugs were concentrated. The window only lasted for a few seconds, but it gave them a chance to slaughter over fifty stingers as they emerged from an increasingly furious Capital Boss.
+
+There were still more slicers and stingers emerging from its mouth, and the bashers had yet to appear, but the warriors needed to get into position before they lost the chance. They had been waiting near the far end of the ravine to prevent friendly fire, but as Kenji yelled, “Phase two!” everyone sprang into motion.
+
+Up to this point, Nick hadn’t been able to see his allies. The entire army had been using Blend into the Background to lull the massive creature into a false sense of security—advance into their killing field to devour the Town Boss instead of proceeding with caution.
+
+That all changed when Kenji activated his ability.
+
+The strategist’s new class had come with an aura that was perfect for directing a small army of invisible troops. It was called Tactical Command, and it was one of the most versatile spells Nick had ever seen. Command incorporated a sophisticated type of illusion magic that transmitted images onto the eyeballs of all friendly units in range. Kenji could use it to show his allies anything he wanted, allowing the brilliant tactician to issue complex orders in real time.
+
+For example, if he wanted a unit to advance, a red arrow would stretch out along the ground in front of them—effectively creating an AR overlay the man could control with his mind. In addition to symbols, Kenji could form floating text to communicate his orders, which looked like simplified System messages that were designed to be absorbed at a glance.
+
+Most impressive of all, he could transmit different images to everyone affected by the aura—a feat of cognitive acuity that would challenge even Nick’s Creativity and Mind. In short, with Tactical Command, Kenji could simultaneously issue orders to the entire army and communicate with individual fighters, asking them to coordinate attacks, change formations, and more.
+
+It was expensive to use the ability on so many people at once, which is why he had waited to activate it, but the man had collected enough mana potions that he could keep it running throughout the rest of the fight.
+
+Even more critically for this phase, Command let Kenji highlight each person’s position so everyone on Team Earth could see each other clearly—even with Blend running. It was a brilliant application of the amazing ability, removing the trait’s greatest limitation during a large-scale conflict.
+
+During the handful of heartbeats it took these thoughts to pass through Nick’s mind, the outlines of hundreds of people had wavered into existence. Now he could see the various parties lined up along the canyon’s rim and the melee units heading toward their assigned positions atop the fortified mounds where the ice hadn’t reached. Thanks to the magic coating their boots, no one was sliding along the slick surfaces, allowing them to reposition in less than a minute.
+
+Nick’s party wouldn’t be making their move until the bashers appeared and the slicers were fully engaged, so he was able to watch the battle play out from an elevated position—eager to learn from Kenji’s brilliance before it was his time to shine.
+
+To help take his knowledge of warfare to the next level, Nick had requested to see the orders Kenji was issuing to the various units crossing the battlefield, with the images washed out so they weren’t too distracting. He used Theater of the Mind’s Eye to build a mental model of the canyon, analyzing the movement of Team’s Earth’s forces as a dynamic, unified whole.
+
+Combining his technique with Kenji’s ability let Nick know what everyone was doing at any given moment, providing a profound insight into how the man implemented various strategies and tactics.
+
+Nick was naturally gifted in this area, but the scarred strategist was over one hundred years old, had prior military experience, and had worked with Team Earth during the battle with the Guardian of the Tower of Rizzen. He didn’t have time to get lost in the details, but with his superhuman Mind, he could memorize everything to review later.
+
+The wurm was having a hard time figuring out what was going on, but nothing that powerful would be defenseless against a stealthy opponent or unfavorable terrain. Before it had time to come up with a counter, the last group of defenders climbed their hillock, and the battle proceeded to the next phase.
+
+Under the guidance of Tactical Command, the units in the back of Kenji’s army deactivated Blend. They were on the highest part of the ice-covered incline, and the instant the defenders appeared, the legion of beasts went surging toward their position.
+
+The first wave was annihilated as they crossed the magical mines. Shorn limbs and ichor fell like rain as the slicers scrambled their way up the ice. The blasts took a big bite out of their forces along the approach, although there were so many bugs the devices would be cleared from the canyon floor within a matter of minutes.
+
+While it was undeniably effective, the explosive magic didn’t claim as many lives as Nick had hoped. When he checked in with Size Up, he learned the reason why. These beasts are Grade-D. Just the slicers are a match for our fighters in raw power. We would never have had a chance if we hadn’t made extensive preparations ahead of time.
+
+The casters and ranged attackers were burning through their energetic reserves, since they wouldn’t be able to fire freely once the fighting progressed to hand-to-hand, taking out more slicers as spells and missiles filled the air. The stingers followed the line of fire and once they knew exactly where the ranged units were, Blend stopped working and the bugs began swarming their position… exactly as Kenji had planned.
+
+Dozens of glowing barriers sprang to life as the casters unleashed their fury. A flurry of Fireballs filled the air, along with Lightning Bolts, Acid Clouds, and miniature Tornados—all spells capable of dealing damage over a wide area.
+
+While the mages and skirmishers positioned along the canyon’s rim were engaging the bulk of the flying beasts, they were so numerous that every party had to deal with at least a few of the venomous bastards.
+
+When Nick noticed some of the defenders were wavering into existence even when he wasn’t looking directly at them, he realized Kenji was ordering them to deactivate Blend at precise moments to guide the advance of the army of beasts. By letting themselves be seen, each melee unit could pull fresh groups of slicers at will, retaining the advantage of a fortified, elevated position while preventing too many of the deadly creatures from swarming any single hill.
+
+He isn’t just using Blend defensively—he’s using it to orchestrate the flow of the entire battle at once. Nick had used similar tactics back in his old life as a pro gamer, but to see the technique adapted to an actual battlefield with such masterful precision—all within a few days of humanity obtaining the trait—granted him a renewed appreciation for just how amazing Kenji was.
+
+It also allowed for some clever traps. Nick watched as a trio of beasts surged toward a visible target, only to be taken out along the way by warriors who were Blending nearby. Of course, if a beast knew exactly where an opponent was, the trait stopped working. But since they couldn’t see the other people standing nearby, it greatly impaired their ability to react appropriately, turning their natural instincts against them and sowing confusion among their ranks.
+
+A few seconds later, the last of the stingers emerged from the wurm’s maw and the first basher appeared—elite insects that served as the beast’s personal guard. Unlike the rest of its army, which was specialized toward engaging and subduing prey, these massive insects were built to take a beating and tasked to keep anything dangerous from approaching their host.
+
+The bashers were enormous bugs whose appearance was pure nightmare fuel. Their dark purple carapaces dripped with goo from where they’d been feeding on the wurm. Their heads featured powerful jaws that looked strong enough to bite Nick in half, and that wasn’t even their most powerful weapon. Their long, spike-covered tails had dense balls of chitin on the end, which could be swung hard enough to break every bone in his body if he took a direct hit.
+
+Size Up let him know that each of the bashers was stronger than the yellow demon he’d battled earlier, and the units assigned to deal with them would have one hell of a fight on their hands.
+
+They were also surprisingly agile for their size. Nick watched with interest as the bashers spread out in front of the wurm, knocking missiles out of the air that were headed its way. A team of elite warriors was running out to meet them, and as soon as they were fully engaged, it would be time for him to take on the Capital Boss with Team Earth’s heavy hitters at his side.
+
+By now, fighting had broken out across every corner of the canyon floor as well as the rim above. The support team, which consisted of everyone who was capable of using auras and other enhancement magic, had been standing in the rear of the canyon to prevent this crucial component of the army from being overrun. But now they started making their way over to the biggest hill halfway up the incline, where their powers could reach the whole army at once.
+
+Nick’s heart raced as he watched the support unit—Kenji and Liz among them—slip past the slicers and stingers under the cover of Blend into the Background. Shaun helped ensure their safety by firing a line of Smoke Arrows across their route.
+
+The dense clouds would seem opaque to the beasts but were transparent to the archer’s allies and wouldn’t impair them at all. Once his smokescreen was down, Shaun let loose with Electric Arrows, driving stray slicers out of the support team’s path so they didn’t reveal their presence enroute.
+
+Nick let out a sigh of relief when they reached their assigned position, where they would remain under heavy guard for the rest of the fight. By now, the warriors fighting the bashers had surrounded the bulky bugs, and an arrow appeared beneath his feet pointing toward the Armada Wurm.
+
+At last, it was time for the kill team to join the battle. He prayed they could take the boss out before anyone got seriously hurt, but he knew deep in his bones the wurm wasn’t going down so easily.

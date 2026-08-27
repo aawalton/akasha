@@ -1,0 +1,141 @@
+---
+id: b812c44f-d8b0-5d3c-9ea3-07f4bf17f279
+page-type-slug: story-chapter-royal-road
+title: "383. Back Home"
+slug: 0017-383-back-home
+partOf: leveling-up-the-world
+position: 17
+ownLength: 2085
+unit: words
+ownProgress: 2085
+publishedAt: 2022-01-22
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/829969/383-back-home"
+royalRoadId: "829969"
+markedReadAt: "2026-06-29T22:40:43.941Z"
+---
+
+Leveling up an area was always unexpected, but some cases were far more unexpected than others. Normally, when a house was leveled up it was only basic features that were changed: the walls were of slightly better materials, there would be a few new technological improvements—well within the general understanding of the period—and maybe a new room. When it came to settlements, however, there was no comparison.
+
+There was no comparison between the Dherma that Dallion left and the one that he had come back to. Even when he first awakened in this world, he saw the place as a hamlet of pretty much sheds and huts. Now, there was a bustling city of Mediterranean architecture: nice, large houses of white stones, wide paved streets, adequate shops, even a tavern or two. In the past, no one would think of visiting a hole such as this. Even merchants and travelling monks were rare, and quick to leave. But the greatest change wasn’t the buildings, it was the people themselves. There was no trace of the bleak fear that used to stifle everything in the village. Things were… normal. In fact, they were better than normal. Dallion could sense as many emotions as there were in Nerosal. What was more, the sense of hope and joy emanated even brighter.
+
+So, this is your home village? Nil asked. It’s nothing like you imagined it, dear boy.
+
+It’s nothing like it is now, Dallion replied. There were half the number of buildings and twice as much dirt. And there definitely wasn’t a lake...
+
+Leveling up an area doesn’t only affect the buildings within it, the echo said. Mountains, rivers, forests, they all change for the better. I suspect your crop fields will be doing better as well.
+
+They aren’t my crop fields.
+
+Dallion made his way towards the village gate. That, too, was new. In the past, little protected the village from wild animals. A few old wooden fences were placed here and there, though even they hadn’t been maintained since Dallion’s birth. Now, a fine—if not overly large—stone wall separated this part of the Dherma from the wilderness.
+
+The moment Dallion got ten feet from the gate, he felt the area take effect. This marked the start of the domain.
+
+“Hey!” a guard popped up from somewhere. He was well kept wearing a standard, though well-maintained, set of guard armor. Looking closely, Dallion recognized the man. Just a year ago, he had been one of the people guarding the village chief’s mansion, with the arrogance to match. The only reason he wouldn’t actively bully people was because he had been too fat and lazy to care.
+
+“Urio?” Dallion asked, uncertain if the person before him was the one he thought he was. He had definitely lost weight, transforming it into muscle, and also appeared to have grown a few inches higher—although that probably was due to him no longer slouching as much as before. More surprisingly, the man seemed to be an awakened.
+
+“Dallion Seene.” The guard grinned. “I always thought you’d come back one day. What took you so long? Having fun in the big city?”
+
+“Yeah…” Dallion wasn’t sure how to react. Thanks to his music skill, he could tell that the man wasn’t pretending but was genuinely happy to see him. Coming from a person who actively despised him in the past, that was astounding, to say the least. “Something like that. I see the village has gone through a few changes in the last year.”
+
+“The last year. Good one.” The guard laughed. “It feels like twenty. With everything we’ve been doing, it’s been that long at least. Now, we all love the princess and the young master, but they’re ruthless when it comes to work. I won’t tell you how many houses we had to destroy, only to have them rebuilt. It’s no longer just about mending and maintaining. Things must be well organized if we’re to become a town.”
+
+Dallion found himself nodding. The guard’s vocabulary had increased substantially as well. If there was any need of proof what awakening could achieve, this was it.
+
+“So, what brings you here? Come to see the princess?”
+
+“Sort of,” Dallion remained evasive on the topic. That was indeed one of his key objectives, but even so he felt reluctant to admit it. “I just wanted to see my family again. As you said, it’s been a while…” Half a century, give or take to be precise. “You’ve awakened, I see.”
+
+“Yeah. All thanks to the Order of the Seven Moons.”
+
+The Order’s established a presence? Dallion wondered.
+
+It’s a common practice, dear boy. The Order is constantly expanding, even beyond the boundaries of the empire.
+
+Since he had joined Eury as a hunter trainee, Dallion had learned a bit about the world’s politics. For the most part, he kept his focus on events taking place in the province, but even so, he was well aware of the actual power the Order held. If there was anyone to challenge the Imperial family, it was the Order of the Seven Moons. Their influence stretched into foreign lands and territories, even parts of the wilderness that were completely uninhabited. According to Nil, that was one of the chief reasons that the emperor hadn’t punished Countess Priscord for the death of his relative—to use it as an excuse in front of the Order.
+
+I know, Dallion replied. I just didn’t think it would happen here.
+
+“I’m here to see my family,” Dallion said. “Any changes there?”
+
+“Just a few.” The guard tried to maintain a calm expression, but his internal emotions were loud enough for Dallion to get a pretty good idea. Something dramatic had no doubt taken place, something that the guard thought Dallion would be pleased with.
+
+“Okay. Same house?”
+
+“Err, actually no. Your old house was knocked down. We built a warehouse there. With all the merchants from the nearby villages coming here to trade, it was easier to—"
+
+“I get the idea,” Dallion interrupted. “Where are they now?”
+
+“Everyone moved to your grandfather’s house. That had grown a bit as well since you last saw it. All buildings at the village center have. Just one more of the requirements on the way to full townhood.”
+
+“Right. Full townhood,” Dallion nodded absentmindedly. “Thanks for the welcome. I’ll be off.”
+
+“Be sure to pass by the chief’s mansion. The princess will be very happy to see you.”
+
+I’m not sure about that, Dallion thought as he continued onwards.
+
+That’s a bit harsh, dear boy, Nil said. The man was clearly delighted to see you. Why should it be different with Gloria? After all, you saved her life on more than one occasion.
+
+Things aren’t always what they should be, Dallion said as he kept on walking.
+
+Walking along the cobbled street felt quite strange. Not a moment passed without Dallion staring at the buildings around him, like an absolute tourist. Every few steps he’d look at a building trying to figure out what it had replaced in the past. Sadly, in most cases, he wasn’t able to figure it out.
+
+Compared to Nerosal, the walk was brief and uneventful. A number of people recognized him on the way, but compared to the crowds of the Nerosal Festival, it was almost as if he was incognito. However, his grandfather’s house wasn’t the first place he went. Guilt made him go to the city square—where the main well was—instead. The space had changed quite a bit, appearing like a smaller plaza. The fountain well was still there, probably the only thing that had remained unchanged since last time.
+
+Good to see you’re doing well, Dallion said to the well. I was afraid that with all the changes something else might have taken your place.
+
+As if that would happen, the guardian replied in an amused voice. I’m one of the city guardians after all, and the only one who’s not been improved by the Luors.
+
+I thought they were taking care of the village.
+
+They offered, but I refused. If anyone’s going to level me up, it’s you.
+
+Dallion remained speechless. He never thought that the well would be so sentimental.
+
+When you leveled me up for the first time, you were weak, the whole world was against you, yet you fought against the odds, and at the end kept your promise. The old Luor was strong, the new Luors are likely to get stronger, but I tend to value things beyond strength. Everyone can become strong, but it takes will and determination to keep your word.
+
+It sounds like my grandfather built you. Dallion smiled, tapping the edge of the well with his hand.
+
+He didn’t, but he saved me. Just as you did.
+
+Not wanting to get into a deeper conversation, Dallion was about to say his goodbyes with the well guardian, when a yell prevented him from doing so.
+
+“Brother!” a somewhat familiar voice was heard throughout the square, and possibly the entire city. “You’re back!”
+
+Combat splitting out of habit, Dallion had a few instances jump to the side, as another turned around to see what was going on. It turned out he was right to do so. A boy had charged at him in a deliberate attempt to push him in the water. In one of three instances, he even succeeded. Of course, Dallion chose one of the other two as reality, resulting in the prankster splashing in the outer basin.
+
+“Nice try, Lin,” Dallion said, keeping at a safe distance from the water. “Next time, you might actually get me.”
+
+“You bet I will!” the boy laughed, then quickly got out of the water. In the year that had passed, the boy had grown a full head taller, making him look lankier than before. “I knew you’d be back,” Dallion’s brother said with a cracking voice.
+
+“I’m sure you did,” Dallion said, arms crossed. “And what do you know, you were right. Where are mom and dad?”
+
+“Dad’s out hunting. There’ve been a lot of wild boars lately, so a group went out to deal with them.”
+
+Boars… boars, and bears. In the past, those were the scariest things known to the village, kept at bay by the former village chief and the Luor family. Every hunting party was led by a Luor, and most often they were the ones to kill the beasts. After facing high-level guardians, crackling settlements, and quite a lot of monsters in the wilderness, boars no longer seemed as impressive as before.
+
+“And mom?”
+
+“She’s home. She gets tired easily.”
+
+That didn’t sound too good. From what Gloria and Veil had told Dallion during their visit, their mother was supposed to be fine. At the time, Dallion hadn’t felt any lies, but the way his brother said it made him slightly concerned.
+
+You must stop thinking the worst, Nil said. For all you know she might work a lot. And even if there’s something slightly wrong, you have Lux.
+
+“Hold still for a moment,” Dallion said, ignoring the echo’s comment.
+
+Taking the artifact from his belt, he tapped it twice, then pressed it against Linner’s hair. A blue glow surrounded the item. The boy instinctively tried to pull away, but Dallion grabbed hold of his shoulder faster than his brother could blink.
+
+“Hold still,” Dallion said.
+
+“What’s that?”
+
+“A kaleidervisto with a firebird in it,” Dallion said. “It’ll dry you up so you don’t mess up the house.”
+
+It was a titanic effort, but Dallion’s brother somehow managed to remain still for a full minute. That much time was enough for Lux to dry the boy up, but also heal wounds there could be. Thankfully, the boy had only managed to get a few scrapes and bruises as most children his age would. One done, Dallion moved the kaleidervisto away. The glow faded.
+
+“All set,” Dallion said. “Anything else interesting happen while I was away? An unusual guest?”
+
+“People from the nearby villages come here all the time,” Linnor said as he moved his hand through his hair to check whether it was completely dry. “Merchants, monks… messengers from Countess Priscord come from time to time.”
+
+Nothing out of the ordinary, Dallion thought. For whatever reason, Falkner had not been here. Potentially that was a good thing, although it would be made clear when Dallion had the talk with Gloria. Before that, though, he needed to exchange a few words with his mother… and his grandfather.

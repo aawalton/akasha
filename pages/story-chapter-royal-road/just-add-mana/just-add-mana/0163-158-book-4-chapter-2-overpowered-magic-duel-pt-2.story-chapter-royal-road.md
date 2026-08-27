@@ -1,0 +1,173 @@
+---
+id: fe843bf9-b498-5a7f-9691-9dac03decf9d
+page-type-slug: story-chapter-royal-road
+title: "158 — Book 4, Chapter 2 — Overpowered Magic Duel, Pt 2"
+slug: 0163-158-book-4-chapter-2-overpowered-magic-duel-pt-2
+partOf: just-add-mana
+position: 163
+ownLength: 2992
+unit: words
+publishedAt: 2026-07-11
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3661149/158-book-4-chapter-2-overpowered-magic-duel-pt"
+royalRoadId: "3661149"
+---
+
+There was something suspicious about all this, although Astiviya had not yet placed what that was.
+
+Why had these realmborn creatures constructed a barrier this absurdly overwrought? They were only going to have a simple duel. She was well aware of her reputation—a reputation she had acquired deliberately, in large part due to the trappings of her domain—but while war and spite were among the cornerstones she embodied, she was hardly known for punishing whole institutions over simple slights like these.
+
+Hers was the domain of war, after all, and those institutions had to exist in order to wage it. The same went for those individuals that harbored grudges against her or others. It didn't matter if the war they fought was external or internal, so long as it was a war hard fought. To destroy Brightscale Academy would have been an act outside of her domain: better to embitter them against her, that they would war against her to remove her from her throne.
+
+They would not be able to participate in the upcoming tournament as a result, yes, but that was a small price to pay. What were the odds that they were the school most deserving of the Seed? And with the dark lord on the move, it was better to minimize the number of schools attending, so he would have less of an opportunity to infiltrate it.
+
+But something was wrong. Astiviya was beginning to feel that she had greatly misjudged this mage. The barrier surrounding them was itself an oddity, and the attending crowd was another one, for there was a strange gleam of anticipation in many of their eyes.
+
+Most importantly, she did not feel the rising tide of War, as she would have if this event would lead to the conflict she hoped. Precognition was not among her divine abilities, but she could usually sense what actions would most encourage war, as she had when she challenged Brightscale to begin with.
+
+That feeling was strangely absent now. That had never happened to her in all her centuries of divinity. She didn't know what exactly she felt in its place, but it was strange and unfamiliar.
+
+A warning sign, to be sure. Astiviya had not achieved divinity by disregarding signs like these. She reached out with her divine will to probe at this insolent mage, wondering if he had hidden his strength from her in some way. Yet even if he had, he was not a god. No matter how great his strength, he had no chance against the divine, surely? Even if he were a hidden wyldfire of some regard, it was not like she would lose...
+
+Though not even a wyldfire should have had the ability to hide the extent of their power from her, and the probe seemed to confirm it. He seemed like nothing more than an overconfident novice, even to careful analysis.
+
+She felt a strange sense of foreboding, all the same.
+
+"You are anxious, my love," Purén murmured from beside her. Astiviya scoffed, folding both sets of arms across her chest.
+
+"The Goddess of War does not experience such trivial things as anxiety," she declared, though she regretted the words almost as soon as she spoke them. That had sounded far more impressive in her mind.
+
+"I am well aware. You have said as much before," Purén said, laughing softly. She hated how soothing the sound was. If they didn't have so many watching them, she would have dragged him off to see what other sounds she could draw out of him. "I do try to keep a list of the many emotions you claim not to have, my dear, but it can be difficult to recall the specifics. Perhaps it is worth exploring the source of this nonexistent anxiety regardless?"
+
+"I feel he is hiding something," Astiviya admitted, the words a low murmur to make sure none of her enemies overheard. "This arena is too strongly fortified against my power. There must be a trap within."
+
+"I do not sense the presence of any traps," Purén said, the words as serene as ever.
+
+"There must be something," Astiviya insisted. Sometimes his perpetual lack of reaction to anything and everything frustrated her, though she knew that was a part of his domain, just as her own pursuit of conflict and escalation was a part of hers. "What do you sense, then? Is he a plainroot novice?"
+
+Purén divine senses were stronger than her own, loathe as she was to admit it. If he probed more closely, then perhaps—
+
+"Is that what you sense?" Purén asked. There was no indication that he had expended any effort at all, or that he even thought there was a need to. "How curious. He does not strike me as such."
+
+"What?" Astiviya asked, disbelieving. She reached out again with her senses, imposing her divine will upon this Cale Cadwell Cobbs, and she found again what appeared to be nothing more than a plainroot core.
+
+But it should have been impossible for any realmborn creature to deceive one of the divine! Her intent alone would pierce the veil of any illusion. It didn't matter that Purén was better at this than she was. There should have been no difference in the results unless they were up against another divine being. And that was impossible, because they would have known.
+
+More importantly, the fact that Purén had divined something different with no apparent change on Cale's part suggested that this was some sort of automatic defense, perhaps based on trust. Which suggested, in turn, that Cale trusted him by default more than he did her! That was absurd. She had threatened him, yes, but she was still one of the major divinities in Utelia.
+
+"Human!" Astiviya snapped. "You are hiding the strength of your core from me!"
+
+Cale looked, of all things, genuinely surprised. "Am I?" he asked, as though he hadn't known what he was doing. He looked down at himself, frowned, then shook his head. "Can't do anything about that, I'm afraid. My mana control is still a little off. Don't worry, you'll see it once we get started with this challenge."
+
+Astiviya stared at the human in disbelief. What did he mean, he couldn't do anything about it? Was he suggesting that whatever he was using to deceive a god was not only some automatic process, but so trivial that he couldn't turn it off?
+
+That felt somehow even more insulting than him simply hiding his strength from her.
+
+"When this challenge begins," she snarled, "you will face humiliation. Remember that feeling when we are done. We will end this before it even begins."
+
+"My dear," Purén said. "I am certain you do not mean those words."
+
+"I most certainly do," Astiviya disagreed, scowling.
+
+"She does not," Purén said, this time directing the words to Cale. He dipped his head in an apologetic bow. "I promise you that her true self is much opposed to these actions, strange as it may sound."
+
+"Nah, I get it." Cale shrugged. "It's fine. She's going to have to eat her words anyway."
+
+"Oh?" Purén sounded politely curious. Astiviya hated it. His calm made her want to pin him down against the nearest divine furniture that could withstand their collective might. Unfortunately, no such furniture existed where they were, though the barrier might have made a decent substitute...
+
+Astiviya realized belatedly that she had gotten distracted, and tried to pay attention as Purén continued. "It does occur to me that the Gift is taking unusually long to generate a construct capable of testing your respective mana capacities," he said. "I would expect it to take quite a while for a duel with any divine being, but this exceeds even that."
+
+"I think it's trying to be careful," Cale said. "You know, at some point I should probably get something for the Gift. I feel like it's doing me a lot of favors. I don't suppose you have any ideas?"
+
+"Those that worship it occasionally make offerings," Purén said thoughtfully. "There is a provision for such things. You make a prayer, much like you do to begin a duel, and it will accept what has been offered. This is more often a trade than a true gift, however."
+
+Cale considered this for a moment. "That could work. I don't suppose you happen to know what it likes?"
+
+Astiviya didn't hear whatever Purén said in response, mostly because the two of them and their polite conversation was driving her insane, and she needed to stop listening before she did something stupid. Purén did tend to get along with these realmborn with remarkable ease, but even for him, this was absurd. This mage was her rival! What was he doing, having a polite conversation with her rival?
+
+Wait, no. When had she started to think of Cale as a rival to begin with?
+
+Astiviya groaned and stormed away, fuming and ready to return only when the Gift was finally done preparing its measurement construct. What was taking it so long, anyway? It occasionally mediated disputes between the gods through duels that were similar to these, and even then, it did not take nearly this long to—
+
+As if sensing her thoughts, the Gift chose this exact moment to flash a message to every mage in attendance.
+
+Preparations complete. The first challenge will begin shortly.
+
+The skies opened up above them, and Astiviya stopped in her tracks to stare as an immense scale of pure mana descended from above. There was a faint ripple as it passed through the arena barrier before it landed gently on the ground.
+
+At least, it appeared to. It still unleashed a shockwave the moment it made contact, cracking the foundational stone of the arena beneath it; Astiviya flinched slightly as the force of its landing blew past her.
+
+Astiviya, Goddess of War, you will begin. Imbue the [Weighing Stone] on your end of the scale with your chosen amount of mana.
+
+Astiviya was too busy staring at the scale. A mana capacity challenge like this did not ordinarily involve a scale—the [Weighing Stone] itself was ordinarily sufficient. Those things were terrible at measuring anything precise, but it did consume vast amounts of mana and express it as physical weight. It was a convenient way for the gods to measure themselves against one another, since the sheer quantity of mana they had was too great to measure with precision.
+
+The power of the gods varied greatly enough that it was often clear from that alone who the victor was, but even if a scale was needed, the gods could simply procure it themselves. Who in the world was Cale to have acquired such favor with the Gift that it was helping him make one? And why was it necessary in the first place?
+
+Bah. It didn't matter. Astiviya stepped to her side of the scale, her head held high. All she had to do was imbue her side of the scale with a fraction of her mana.
+
+There was some strategy to the order in which Cale had issued his challenges, she could admit. Starting with a mana capacity challenge meant that misjudging one's opponent became a real danger: if she wasted too much mana here, she would be weakened for the subsequent magical battle.
+
+But since he was a mortal, it didn't matter how much she spent here. Even the slightest fraction of her mana would be enough... to...
+
+Astiviya's thoughts trailed off as she caught a glimpse of Cale's side of the scale. Why in all the infernal realms had the Gift seen fit to create was a massive pile of [Weighing Stones] for him?! They were practically falling off the pan!
+
+"What is this?" Astiviya demanded, bristling immediately at the way her own voice held a touch of nervousness—this was not how a Goddess of War was supposed to sound, "Is the Gift expressing favor in a duel, now? Is this meant to make me falter or misjudge him? This does not strike me as impartial."
+
+Preparations were made for the most likely outcome. The test remains impartial.
+
+What did the Gift mean, the most likely outcome?! Astiviya ground her teeth together in frustration, but did not deign to respond. If this was the game, then so be it. She did not need such cheap tricks to achieve her victory here.
+
+"Fine," she growled. "It does not matter. Thanks to your additional challenge, all I must do is win a single one of these. I will not let this display of yours intimidate me into wasting all my mana."
+
+Purén coughed politely beside her. "I believe you mean you will still win all the challenges, my dear."
+
+Astiviya froze. When had she started to think she would lose one or more of these challenges?
+
+"Yes," she said, recovering. "I only mean to say that I will not succumb to such tricks."
+
+Before she could think much more on that slip-up, she placed her hand on the [Weighing Stone] and shoved her mana into it.
+
+And yet no matter what she told herself—no matter how many times she reminded herself that it did not matter, that this mortal would not beat her in any challenge—she could not bring herself to imbue the stone with more than five percent of her total mana. Trying to push further made that sense of foreboding come screaming back. Some ancient instinct, deep within her, warned her that she needed all her mana for what would come.
+
+Try as she might, she couldn't push past it, and eventually she took a step back, glaring at the scale. It had tipped in her favor nonetheless, and no mortal would beat even five percent of her mana. Making a [Weighing Stone] grow in weight by even a single kilogram was a feat in itself. It had been designed for gods, after all, and hers had grown by at least three hundred.
+
+"There," she said. From the way Purén glanced up at her in concern, she knew he had noticed how little she placed into the stone.
+
+Cale Cadwell Cobbs, imbue the [Weighing Stones] on your end of the scale with your chosen amount of mana.
+
+Cale stepped forward, and Astiviya found herself holding her breath. This was it, she told herself—this would expose this mage as a fraud. The scale wouldn't even tip in his favor—
+
+Every single stone on his side of the scale lit up simultaneously, and the whole thing slammed hard on the other side, to the point where Astiviya's own stone was launched straight up into the air. The scale itself remained intact, though the construct fractured in several places. Astiviya stared at it, her mouth falling open.
+
+"Huh," Cale said, scratching the back of his head. "Oh! Is this scale based on the new one at the Fire Elemental Shrine?"
+
+That is correct. It was calculated that it could best withstand your mana. Likewise, the quantity of [Weighing Stones] was chosen to minimize the odds of you causing one of them to collapse into a black hole.
+
+"Yeah, that's probably fair," Cale said. "Thanks, Gift."
+
+You are welcome.
+
+Astiviya tried desperately to process both the human and the Gift's responses. The Gift reserved this element of itself only for the divine—how exactly was Cale getting it to reply as though they were friends?
+
+Purén's fingers wrapped around her hand, and Astiviya realized belatedly that her breathing had grown frantic; she let out a breath, thankful for his presence, and squeezed it gently. Something within her was beginning to shake, but whether it was her or simply the chains that bound her...
+
+Astiviya hated to admit it, but hers was a miserable existence. She remembered little of how she had acquired the domain of war, but it should have been more than this. Perhaps war itself was not glamorous, but it had once meant something to her. Now it was nothing more than one constricting expression of her being.
+
+How strange a thought for the Goddess of War to have.
+
+It was a truth that all that was divine had to reflect their domain in one way or another, and though some were able to choose which aspects of that domain to reflect, others were less fortunate. Astiviya was among the lesser, in that regard. She held great divine power, and the cost was that she had never been able to choose which aspects of her domain she reflected.
+
+Wars waged internally. The strife that came from a grudge long held. She was war without and within, but of the aspect she reflected, it was mostly the wars held within.
+
+Perhaps Purén had been right, and this was an opportunity. Before, she had not dared to hope, but now?
+
+Well, it remained to be seen. Her domain still demanded that she throw everything she had at this human when the duel began. It demanded many things of her, really.
+
+"I will not allow your tricks any longer," she said. Divine power began to shine from her—golden mana coiled along the edges of her body like smoke, and her eyes began to glow. "The duel is next. When the Gift declares us ready, you will perish. But consider yourself fortunate to have won a victory over the Goddess of War."
+
+"Kay," Cale said. Astiviya did her best not to rise to the bait.
+
+The second challenge may begin. The victor will be the first mage to break their opponent's barrier.
+
+Astiviya cast [Shades of War], and a terrible mist of blood began to rise around her. Figures moved within that mist, slowly coalescing out of the ether—soldiers that had once fought in wars long past, now called to battle again. Each one was a great mage in their own right.
+
+"Survive this, if you can," she said coldly, but her voice was distant, even to her own ears.

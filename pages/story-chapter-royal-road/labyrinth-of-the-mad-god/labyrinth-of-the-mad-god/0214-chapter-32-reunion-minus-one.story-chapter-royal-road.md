@@ -1,0 +1,85 @@
+---
+id: 56eff073-5042-57b6-b450-ed1801ded3f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: Reunion Minus One"
+slug: 0214-chapter-32-reunion-minus-one
+partOf: labyrinth-of-the-mad-god
+position: 214
+ownLength: 2132
+unit: words
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2553139/chapter-32-reunion-minus-one"
+royalRoadId: "2553139"
+---
+
+Nick plopped down on a rock and turned to face Devin and Veronica. His friends were sitting so close their hips were touching, and it was clear their relationship had deepened since arriving on Earth.
+
+Good for them. He smiled at the sight. For a long moment, no one said a word, enjoying each other’s company while savoring the fact that despite the myriad obstacles thrown in their path, they had survived the Mad God’s challenge, returned to the planet of their birth, and found each other again.
+
+While the duo checked out the gear Nick had picked up on the craft world, he ran his eyes across them, getting a sense for the changes they had undergone since he’d seen them last.
+
+Devin’s skin was bronzed after weeks spent crossing the badlands. His short blond hair had been trimmed by someone who knew what they were doing and no he longer sported the spiky, self-chopped look he had worn in the tower. Nick and Devin had evolved at the same time, so he had already seen the warrior’s upgraded body. But somehow, Devin managed to look even more athletic than before, and Nick had watched heads turn as the man walked through the crowd.
+
+Veronica had always been beautiful, but now she was positively stunning. Her lithe frame was accentuated by agile curves, revealing that she had invested in Dexterity over Toughness and Strength, although Nick knew she had a decent amount of both attributes. She had acquired some new armor made of crimson leather that was studded with bits of seashell. Intricate tattoos were visible along her exposed skin, including a superb rendition of a crow flying beneath a full moon on her shoulder.
+
+“I had a hunch you guys would come to the badlands,” Nick broke the silence, “but it’s nice to see that everyone decided to head for the lake. With your help, I’m sure we will build an amazing city. That reminds me. I saw Shaun at the archery range, but where is Sophia?”
+
+Devin shared an unreadable look with V, then said. “We ran into her a few days back. She’s off chasing down a beast she wants to turn into her fourth summon, but I’m sure she’ll be back in time for the big fight.” Nick was disappointed Sophia wasn’t here now—especially after what had happened with Liz—but knowing she was safe and somewhere nearby was a weight off his mind.
+
+He spent the next few hours catching up with his friends, stopping every few minutes to greet someone from Team Earth who wanted to meet him. Shaun came by part of the way through and joined them. The redheaded archer had undergone some explosive growth since the last time Nick had seen him—to the point he could barely tell the young man had been seriously underleveled at the start of climbing the tower.
+
+There was a celebration scheduled to begin at sunset, welcoming everyone who had arrived over the last few days. About an hour before the party began, Kenji came walking over with Elizabeth in toe, along with Sarah, Bret, and a small group of warriors who had been unit and party leaders during the final battle for Earth.
+
+“This is the unofficial leadership of this group,” Kenji explained. “As far as protecting our people and taking out that Capital Boss are concerned at any rate. I want to take a shot at the Armada Wurm the day after tomorrow. I think we have enough people to defeat it, and we can’t afford to risk losing our chance to found our city from the strongest possible position. I doubt there are ten groups out there who are powerful enough beat us to the punch, but I’m not taking that for granted.”
+
+While Kenji spoke, everyone sat in a circle around Devin’s campfire. “We have four teams looking for people who are crossing the badlands, helping to get everyone here in time. We anticipate that another 30 to 40 elites will have joined us before we’re ready to attack the wurm. Additionally, we have several scouts tracking the boss’s position, and a party of information specialists that is studying its capabilities every time the big bad surfaces to feed or battle another boss.
+
+“We’ll go over our plan of engagement in detail before the fight, but I wanted to fill you in on the broad strokes now, so that you can fire up your tactical brain and help refine our strategy.” Nick was surprised when Sarah gestured and a miniature version of the Armada Wurm waved into existence. Her illusions have come a long way since our battle in the arena.
+
+He hadn’t been able to get a good look at the boss before, so he studied it now. Its body reminded him of a giant slug with leathery gray skin. The head, however, was something else entirely. It had eight wedge-shaped plates that separated when it opened its mouth to attack with its tongue or swallow its prey. Since he didn’t see any feet or claws, Nick assumed it used magic to move through the soil, as the motion had seemed effortless when he’d watched the boss dive.
+
+“There are three problems we need to tackle if we want to win this fight without suffering casualties,” Kenji continued. “The first two are fairly obvious, but the third would have caught us by surprise if we hadn’t been so diligent in gathering information. First, we need to lure the boss to the surface, then neutralize its ability to burrow back underground. We can’t hurt it down there, and the wurm might escape before we can finish it off if we’re not careful.
+
+“The good news is that we already have a solution. We have a team of ice and earth mages who can freeze and compact the dirt over a wide area. If we can convince the boss to surface and keep it busy long enough for them to work their magic, we can prevent it from leaving the battlefield.
+
+“The second concern involves the creature’s insane Toughness and massive health pool. At our best guess, this is a replica of a Tier-2, Grade-C beast—not to mention the biggest critter any of us have ever seen. It’s going to take our heavy hitters going full tilt to pierce that hide and bring it down, and even if everything goes well, we’re in for one hell of a fight. That’s the role I would like the three of you to play, along with Sophia, Mirium, Laura, Sarah, Bret, Paul, and a few other elites. Ella too, if she shows up in time.”
+
+When Nick asked how they had learned so much about the Capital Boss, Kenji explained that after discovering the wurm would attack any other boss it encountered, he had asked a team of mobility specialists to lure it into several conflicts like the one Nick had witnessed from the hilltop. They had been followed by a second group that was armed with a range of sensory-enhancing and information-gathering abilities, granting Team Earth a wealth of tactical data.
+
+That’s brilliant. I never would have been able to get everything in place so quickly or efficiently. We’re lucky to have Kenji on our side.
+
+“The third and trickiest issue is the portable army that behemoth carries everywhere it goes. The System’s description didn’t come close to revealing the full extent of the danger. Based on our observations, the boss is a host for three distinct species of parasites. Although I suppose symbiotes is a more accurate term, since everyone gets something out of the bargain. At any rate, there are thousands of Tier-1 creatures living inside the wurm, which will come rushing out the moment it's threatened. The first is a type of beast we’re calling bashers for reference.”
+
+As Kenji spoke, Sarah gestured and a second illusion coalesced into being. “Bashers are insects the size of a draft horse. They have sleek bodies and giant tails with wrecking balls attached to the ends. Don’t let the name fool you. Those tails mean business, but they have powerful bites too. These beasts are heavily armored and serve as the wurm’s last line of defense. We think there are somewhere between 20 and 30 of them. The second species is codenamed slashers.”
+
+Another lifelike illusion appeared above the fire, and Nick leaned in to take a closer look. This beast was about a third of the size of the bashers—armed with a pair of scythe-like blades that reminded him of a praying mantis. “Slicers are fast, strong, and utterly fearless, willing to sacrifice themselves for the sake of the colony. We estimate that there are at least 500 of them living inside the wurm, but that’s just a guess at this point.
+
+“We’re calling the third type of symbiotes stingers for reference. They can fly and have a venomous barb on their tail.” When Sarah conjured a visual aid, Nick saw the stingers were wasplike insects that were relatively small—about the size of an Old Earth eagle.
+
+“We captured one to confirm that our healers can counteract their venom. Without it, they’re not too dangerous by themselves, but stingers are agile and extremely maneuverable. Combined with the other units on the battlefield, they would have wreaked havoc if they caught us unprepared.”
+
+“So,” Nick summarized. “We need to lure the wurm to the surface, alter the ground so it can’t get away, then find a way to bring the big bastard down while dealing with a legion of killer bugs. I wasn’t expecting the Capital Boss to be this tough. While the nature of our enemy is different, this fight seems almost as difficult at the battle on the roof of the tower.”
+
+“As far as the overall strength of the wurm and its army is concerned, it is,” Kenji replied. “But we have the advantage of studying our opponent and preparing a counter strategy beforehand. On top of that, we’ve confirmed that all the bosses generated by the System have animal-level intelligence, so we don’t have to worry about it outsmarting us.”
+
+“Besides,” Sarah chimed in. “We’re not the same people who took on the Guardian of Darkstone Tower. Every member of Team Earth has evolved to Grade-D, and most of us picked up Rare classes after the fight. Since then, our people have only gotten stronger. I think you’ll be pleasantly surprised when you see what we can do.”
+
+They discussed the fight for another half hour, then Kenji called it a day.
+
+Nick picked out a spot to pitch his tent, and by the time he was done, music had risen to fill the air. He stepped through the crack leading to the open space inside the mesa, where a celebration had already begun.
+
+They kept the drinking to a minimum since this was only a prelude to the massive party they planned to throw after the Armada Wurm was defeated. Nick didn’t mind. With his superhuman Toughness, alcohol didn’t affect him much anyway. All he really wanted was a chance to unwind and get reacquainted with some people he hadn’t seen in a while.
+
+Liz was off reconnecting with some of the friends she had made while organizing the group at the base of the tower, and Kenji was busy briefing the individual team leaders on their roles for the upcoming fight.
+
+Everyone on Team Earth looked amazing after evolving to Grade-D. Nick wasn’t normally the type to get caught up in appearances, but he had to admit that he appreciated the view.
+
+He spent most of his time chatting with Devin, V, and Shaun, although he had a lengthy conversation with Sarah, Bret, and Paul too. He hadn’t had a chance to speak with them since their fight against the fallen rhino back in the arena, and it was clear they had undergone some considerable growth in the meantime.
+
+He learned that Bret had already run into Ella—the warrior who had leapt off the tower to retrieve the Guardian’s staff and the first human to evolve to Grade-D. But meeting her would have to wait, since she was off tackling a difficult challenge and wouldn’t reach the lake until late tomorrow.
+
+The party started winding down a few hours later. The musicians stopped playing, and people began making their way toward their tents and bedrolls.
+
+Since Nick only needed to sleep for four hours, he joined a small group that stayed up half the night, swapping stories around a fire that was far enough away from the main campsite that they didn’t have to worry about keeping anyone up.
+
+He fell asleep with a smile on his face—surrounded by other people for the first time since his new life had begun.

@@ -1,0 +1,75 @@
+---
+id: b2253551-4b4b-5064-a175-823ed1db5c0f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 127: Blight Story I"
+slug: 0168-chapter-127-blight-story-i
+partOf: labyrinth-of-the-mad-god
+position: 168
+ownLength: 1745
+unit: words
+publishedAt: 2025-05-09
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2267492/chapter-127-blight-story-i"
+royalRoadId: "2267492"
+---
+
+In that instant, the Crimson Blight’s senses expanded, overwhelming Nick with sheer sensory overload until he began to adjust to the realities of an alien nervous system—the perspective of a creature who viewed the world so differently from his natural state.
+
+At last, he had eyes to see the ocean around him. Skin to feel the currents gliding across his scales. And, most important of all, fins to move. This was a pivotal moment in his development. He had transferred his consciousness into that slender fish—a wild gamble by any accounting. If it was devoured by something stronger before he was ready, he would lose everything. If this humble host couldn’t carry his ambition to the next battlefield, his existence would come to an end with the clatter of tooth against tooth.
+
+Now committed to his course, Nick used some of his essence to enhance the defenseless creature. He formed weapons sufficient to hunt others of its kind, transforming the fish from a scavenger into a predator, albeit one of the lowest order.
+
+Although he was in control, the creature’s mind was still whole—terrified and unable to understand what was happening. He sent a cascade of chemicals coursing through its brain, coaxing it to relax and accept its fate. He could assume direct control whenever he wanted, but his disguise would work better if he left his host’s instinctive behaviors intact.
+
+At last, he was ready to proceed to the next stage of his conquest. Nick ordered the fish to blend in with other others of its kind, following them back to where thousands were sifting through the gunk covering the seabed.
+
+He spent long weeks learning about the creatures and the biome they called home, doing nothing to draw attention to his presence. When he had a firm grasp of his situation, ever so slowly, he began to hunt for more than muck and scraps, taking care not to reveal his true nature and rouse the planet’s ire.
+
+Eventually, the opportunity that he’d been waiting for appeared before his eyes. He followed a fat fish as it fed within a remote crevice along the ocean floor, far away from the rest of the school. He worked his way through the mud, as if nothing was out of the ordinary, until the creature was swimming right beside him. It was a shimmering gray specimen—in peak physical condition and overflowing with vital energy.
+
+The sight filled him with an overpowering need to feed. He couldn’t wait any longer.
+
+In an instant, Nick struck. He opened his modified mouth to take a bite out of the unlucky creature, using powerful jaws that were designed to rend and tear. It realized its plight at the last possible second, but it was already too late. His fangs sank deep, shredding flesh and shearing bone as blood stained the water crimson.
+
+That first bite was indescribably delicious, so rich in nutrients and magical energy that the pleasure drove all other thoughts from his head. By the time that he was done consuming the unfortunate piscine, strength began pouring into his tendrils—more power than he’d had since guiding his rock toward the planet. Reinvigorated, he swam back to the school, ready to resume his hunt and grow stronger still.
+
+He spent the next three months devouring the bottom feeders, and when the last of them slid into his stomach, he knew it was time. He was ready to transfer his core into something bigger—a creature that could spread his influence across the ocean.
+
+Several days later, he found a perfect vessel—a shark the size of a school bus and the apex predator of the region. Once he was sure that no other carnivores were lurking nearby, Nick allowed himself be spotted—a tempting target given the rich essence he contained.
+
+True to its nature, the shark came for him in a flash of ivory fangs. As its jaws closed around him, he struck. His core shot out from the fish that had been his host, forming a spear of fungus that lanced into the roof of the predator’s mouth. His mycelium penetrated flesh and bored deep, tendrils spreading throughout its body before feasting upon the vital energy contained within its core.
+
+The shark knew that its hunt had gone horribly wrong, but there was nothing it could do. He was already inside its body, where it could never hope to reach. Even still, the mighty hunter held on as long as it could. It took him a week to assume full control, tendrils overriding its nervous system before threading their way through its brain. The process depleted his energetic reserves, since the shark’s arcane barrier had resisted his intrusion until the mana filling its core ran dry.
+
+In the end, Nick won, and the shark’s body was his to command. His consciousness expanded in that moment, thanks to the predator’s advanced energetic senses. He could feel the electrical fields of the creatures around him. Taste their blood in the water from miles away. He reveled in the power he now possessed—the strength that he had longed for while living inside the bottom feeder.
+
+At last, he was free to feed as much as he pleased. Over the next year, he hunted as a shark, consuming every creature of the sea that crossed his path. Each meal was a rich source of essence, allowing him to upgrade his body and enhance his powers of perception.
+
+By this point, he was a true apex predator, and the shark’s mutated body had grown more powerful than its natural form. He was strong, swift, and agile. Tough enough to survive any threat that the ocean could throw at him. Listening to the instincts branded into his DNA, he knew that it was time to become something more. To grow beyond the confines of a single host and establish his dominance over this world.
+
+This marked the beginning of a different manner of hunt. Instead of devouring every creature he caught, Nick began infecting some and releasing them into the wild, plugging them into the growing network of thralls that was coordinated by his core. As he levelled up and his powers grew, he was able to control them over great distances. His army ranged far and wide, occasionally returning to transfer the essence they had gathered.
+
+Then, at long last, he had accumulated enough energy to evolve, transforming from an F-grade Calamity-Class Entity, which could assimilate entire ecosystems, into a D-grade core that was capable of global domination.
+
+His new abilities were many. Most important among them, his thralls now had the power to spread the blight on their own. Although he infected and altered a wide range of creatures, the sharks were the elite members of his army. They explored beyond the boundaries their natural habitats, eating some of the creatures they encountered and infecting the rest, adding countless new thralls to his armada.
+
+Although his core remained within his host shark, Nick could sense what any of the others were experiencing. He could issue them standing orders or assume direct control if the situation warranted it. Under his guidance, the thralls ranged far and wide, banding together to take on elite beasts—the old rulers of the sea. One by one, these mighty juggernauts of destruction fell and joined his collective.
+
+Over time, one hundred thralls became ten thousand, then one million, spreading his influence across the sea. But the real gamechanger occurred on the day that his territory reached the closest landmass, where his thralls saw something floating on the surface of the water. A winged beast covered with feathers, with hollow bones that let it fly through the air.
+
+By now, his intelligence had expanded to the point where he could devise complex strategies. Grasp the implications of a global ecosystem that extended beyond waterline. He understood in that moment that his little corner of the ocean was only the beginning. That he was staring at what came next. A thrall that could carry his conquest across the surface of the planet, until he was the ruler of the land, air, and sea.
+
+At first, the birds proved to be illusive prey, taking to the sky whenever they sensed a predator rising from below. But then Nick assumed command of one of his thralls—a fish not much bigger than the first bottom feeders he had subsumed—and sent it swimming near the surface where a seabird could see it.
+
+After some hasty modifications, this thrall was different from the others in his legion. Instead of attacking its prey, it would pretend to flee, then allow itself to be eaten. After a few close passes, the bird noticed its presence. Just when he was certain that it would fly away, it dove in a flash, plunging into the water to snatch up his blight-laden fish and swallow it whole.
+
+He felt the savage joy of triumph when he realized that he’d won. With his command, the fish burst, releasing a tide of spores into the bird’s stomach. The Crimson Blight permeated its body, and he soon assumed control.
+
+Now that the creature was his thrall, Nick used his link to cast his senses inside it. The next thing Nick knew, he was soaring among the clouds, viewing the world from on high for the first time since his rock began orbiting the planet centuries ago.
+
+He left the thrall’s will intact, remaining a silent passenger inside it. He let the bird remain in control until it flew to where the others of its kind migrated en mass. Then he began the cycle of conquest anew. Within a matter of weeks, he had assimilated them all, adding thousands of flyers to his army—creatures capable of carrying the blight to every corner of the planet.
+
+Under his guidance, the flock spread Nick’s spores across the continent, taking control of countless species as his influence spread. He had thought that his domination of this world was inevitable by this point, but his celebration was premature. A fact that he became aware of when his first thrall reached civilization—a coastline filled with cities and ships.
+
+As it happened, part of this planet was already occupied by an industrious species that had climbed the evolutionary ladder to become masters of the globe. A force capable of challenging his rule—perhaps even destroying him if they became aware of his existence.
+
+Nick’s rise to power had just entered a perilous new phase.

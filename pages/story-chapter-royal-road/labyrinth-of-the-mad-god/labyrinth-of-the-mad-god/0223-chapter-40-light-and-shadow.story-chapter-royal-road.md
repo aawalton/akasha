@@ -1,0 +1,85 @@
+---
+id: 0d3ea6be-1603-5933-93e8-65f92c8bc4a1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: Light and Shadow"
+slug: 0223-chapter-40-light-and-shadow
+partOf: labyrinth-of-the-mad-god
+position: 223
+ownLength: 1629
+unit: words
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2602815/chapter-40-light-and-shadow"
+royalRoadId: "2602815"
+---
+
+Paul was one hell of a sniper. Every shot he fired was powerful and precise. His arrows planted themselves in a bug’s eye, joint, or vital organ with every beat of Nick’s heart. But that was only part of what the curly-haired archer could do. Every now and again, he shot a missile that was infused with potent disabling magic.
+
+Paul’s abilities had improved considerably since their arena battle. The man had upgraded his powers to only affect his enemies, letting him use his magic in the middle of a brawl without risk to his team.
+
+Unlike most mages, who relied on raw damage to overcome their opponents’ natural defenses, Paul’s mana could pass through an arcane barrier without engaging it. It was Nick’s first time encountering anything like it. The man’s powers tricked his opponent’s body into thinking his mana belonged to it, letting his spell enter their circuitry without being disrupted along the way.
+
+During their strategy session, he’d learned that the archer could infuse his arrows with a variety of different debuffs. Each targeted a specific attribute, lowering it considerably while his magic was in effect. The basher pummeling Nick lost some agility as its Dexterity was drained, giving him the edge he needed to take the big bug down.
+
+They traded a vicious series of attacks over the next fifteen seconds. Although he avoided taking another direct hit, he racked up a painful collection of scrapes and bruises along the way. However, thanks to his superhuman Toughness, none of his wounds were serious and he didn’t let them distract him.
+
+With Force Acceleration speeding him up and Paul’s magic slowing the basher down, Nick was able to outmaneuver his opponent and line up a killing blow.
+
+He waited until the beast let loose with a powerful swipe from its tail, then made his move. He took a step back to pull his head out of reach, infused Blightbane with pure mana, then slashed with Heavy Blow and Force Acceleration combined, targeting a joint below the spike-ball on the end of its tail.
+
+The attack used the bug’s momentum against it, and with the combined impetus of both strikes, his sword sheared through chitin and severed the appendage. The basher screamed as its blood fountained into the air. Before it could recover, Nick let loose with a second slash that claimed the elite’s head.
+
+While he fought to catch his breath, he looked to see how the rest of his party was doing—able to absorb the situation at a glance thanks to his high Mind.
+
+Paul was targeting one basher after another, occasionally hitting several with the same spell if they were close together. The elites’ attacks lost a portion of their power as Strength fled their limbs, and their carapaces softened when deprived of their natural Toughness. After disabling the final basher, the archer turned his attention to a pack of slicers threatening the support team, hitting them with a series of wide-area spells that were delivered by his arrows.
+
+In addition to diminishing their physical attributes, Nick suspected one of Paul’s abilities impaired his enemies’ Mind. Some of the insects were stumbling around in a daze—unable to process the complexity of the battlefield in time to meet Team Earth’s attacks.
+
+Combined with the buffs the defenders were receiving from the support team’s auras, the imbalance in power was making a big difference, turning what would have been an uphill battle into a far more manageable affair.
+
+Meanwhile, Mirium and Laura were holding their own. They had already killed one basher and were working together to finish off the other. The women waited until blasts from the water elemental knocked the bug off balance, then rushed in to land hits with their poisoned sword and electric staff.
+
+That left one beast battling Devin and the pair charging Sarah and Bret. Since Nick knew the fire-wielding warrior could handle himself, he turned his attention to the siblings to see if they needed his help.
+
+He was just in time to watch as Sarah gathered her concentration and gestured. She had explained how this ability worked during their strategy session, but it was his first time watching it in action. Light mana went flowing from her outstretched hands to coalesce in front of a basher.
+
+The spell was simple in concept but remarkably effective, creating what looked like an ultra-bright flashlight that followed her opponents while shining straight into their eyes. That’s brilliant. He memorized everything he was sensing to reflect on later. Since it’s not touching their bodies or trying to get inside, the bug’s arcane barrier can’t disrupt her mana.
+
+Sarah’s illusion grew brighter by the heartbeat until the radiance was so intense Nick had to look away. But that was nothing compared to what the basher was experiencing. From its perspective, the light was blinding—so potent that the sheer sensory overload must have been incredibly painful. Her magic is amazing, if a little short on offensive power.
+
+He revised his hasty assumption two seconds later, when Sarah raised both arms and created another illusion over her head. This time around, the spell wasn’t designed to create light, but to bend it. The lens-like manifestation was focusing light into a single point—kind of like a gigantic magnifying glass.
+
+No. Not like. Nick corrected himself as the construction spread, gathering sunlight over a wide area and throwing the canyon floor into shade. That’s exactly what it is.
+
+At that point, Sarah turned the focused beam upon the bug she’d blinded, careful not to melt the ice in the process. The basher shrieked as it was consumed by flame, chitin sizzling as the blade of light bisected the beast within a matter of seconds.
+
+Armed with a renewed appreciation for what light magic could do, Nick cut down a stray stinger that was flying past his position while getting ready to engage the wurm—just in time to watch Bret go to work.
+
+Like Sarah’s light, Bret’s shadow magic could be used to blind his enemies, although unlike his sister, he was a magic-using warrior instead of a pure mage. He could only manifest his shadows along his own body or the blade of his colossal greatsword.
+
+However, the warrior could extend them a considerable distance and transfer a pool of dark mana every time he landed a hit, spreading across the surface of his opponent until it covered their eyes.
+
+Nick needed to learn more about shadow magic, but from what he’d observed, most frequencies of mana were either physical, like force, fire, earth, ice, and water, or energetic, like pure and light. Darkness seemed to split the difference and could exhibit either property under the right conditions.
+
+The shadows encasing Bret’s limbs could increase the power of his strikes, bolster his blade’s penetrative power, and reach out to deflect attacks.
+
+It turned the man into a walking arsenal—able to create new weapons at will anywhere near his position. Nick watched in awe as a pool of gloom extended from Bret’s shadow to flow under a slicer that was advancing on Sarah. Before the bug knew what hit it, a sword of darkness thrust from below, stabbing through the beast’s underbelly to pierce its vital organs.
+
+Meanwhile, the man engaged a basher blade to tail in a head-on contest of Strength. The swordsman and elite insect came together in a flash, each swinging their primary weapon for everything they were worth.
+
+Nick’s eyes widened when Bret sent a surge of dark mana blasting out from the back of his greatsword like a booster engine, increasing the speed of his strike. At the same time, his shadow rose to block the basher’s tail, fading away after absorbing the impact.
+
+The bug was afforded no such protection and took the warrior’s greatsword to its flank with a crunch Nick could feel from here. As man and beast exchanged a fierce barrage of blows, he decided this was a perfect opportunity to find out what his upgraded spell could do.
+
+He hadn’t had a chance to assess his new and improved Mana Dart on anything other than himself. He knew that even with its newfound capacity to disrupt vital energy instead of erasing it, the spell would have a minimal effect on a creature as insanely immense as the Armada Wurm.
+
+The bashers, however, were perfect test subjects for finding out what his darts could do—elite enemies that were in the ballpark of what he could handle in a solo fight. He waited until the armored bug was distracted by Bret’s greatsword then sent a silvery missile streaking for its blind side.
+
+With all the magic saturating the ravine, the beast didn’t sense the spell coming. The metallic wedge of pure mana collided with it carapace and then sank into its body to invade its energetic pathways.
+
+The effect was immediate and more dramatic than Nick had expected. The bug let loose a shrill cry of pain as a portion of its stamina, mana, and health were turned against it, diminishing its control over its limbs.
+
+A single dart wasn’t enough to paralyze the creature, but it gave Bret an opening to land a heavy hit. Better still, disrupting the basher’s mana weakened the defensive magic it was using to reinforce its carapace, allowing the greatsword to bite deep.
+
+As dark magic surged around Bret’s arms, he let loose with an incredible overhand chop that claimed the creature’s forelimbs. It wasn’t enough to kill the beast outright, but it was a critical wound, and Nick was certain the siblings could finish it off without his assistance.
+
+They shared a nod then Nick turned to deal with a pair of slicers that were headed their way—immensely satisfied by his dart’s performance.

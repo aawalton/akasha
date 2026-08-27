@@ -1,0 +1,203 @@
+---
+id: 2204b42e-b88a-5275-b112-c6126250fca5
+page-type-slug: story-chapter-royal-road
+title: "99 — Book 2, Chapter 47 — Aftermath, Pt 4"
+slug: 0099-99-book-2-chapter-47-aftermath-pt-4
+partOf: just-add-mana
+position: 99
+ownLength: 3161
+unit: words
+ownProgress: 3161
+publishedAt: 2026-02-12
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3039970/99-book-2-chapter-47-aftermath-pt-4"
+royalRoadId: "3039970"
+markedReadAt: "2026-06-29T18:51:03.064Z"
+---
+
+Cale's apprentices, it seemed, had been busy.
+
+Ridiculously busy. A little more than a week had passed, which was apparently enough time for the room he shared with Damien to be completely remodeled, among other things.
+
+They were loaning out access to the Karmian Well labyrinth to wyldfire students now, whatever that meant? But that necessitated giving those students a preparatory space, re-enchanting the door so that Damien—and Cale, when he came back—wouldn't lose the privacy of their room to random students emerging from the labyrinth, and basically turning the single shared room into a multi-bedroom sort of situation.
+
+"I'm not complaining, but I feel like this definitely counts as some kind of favoritism," Cale said.
+
+Flia laughed. "You should've seen the Headmaster's face when Damien proposed it."
+
+"Damien proposed this?" Cale raised an eyebrow and turned to the dreadshade, who was glaring at Flia in protest.
+
+"You helped me come up with it!" he said. "And then you said I had to tell Akkau myself, so I did!"
+
+"He spent a few of the Wing credits he earned on it, too," Flia said smugly.
+
+"I didn't know you could do that," Cale said. Damien sighed with mock aggravation and sat on his bed, pouting.
+
+"Orstrahl doesn't actually want to give up precious artifacts to overly precocious mages, so there's a lot of other benefits you can get with them," he explained after a moment. "Mostly it just depends if you can trade for it, which we did. Along with a bunch of other stuff."
+
+"I traded for access to Orstahl's historical and legal archives," Leo boasted.
+
+Cale blinked. "Why did you need access to their archives?"
+
+"Because the Red Hunters were still going to do their routine checkup on Brightscale, and we weren't sure if you were done with the Red Commander," he explained. "I was looking for some sort of legal precedent or loophole we could use to delay them, and I found it."
+
+That cleared things up a little, and Cale grimaced when he realized how badly that could have gone—the Red Commander had been too distracted to do much of anything else during their fight, but if a delegation had come to Brightscale and managed to communicate that to him somehow...
+
+Well, it could have turned into a hostage situation pretty quickly.
+
+"Good job," Cale said, shaking his head at his own oversight. "Didn't even think about that. Could've made things bad for me."
+
+Then he paused and narrowed his eyes a little as he looked around at his apprentices. Leo, Syphus, and Flia all looked like they were bursting to tell him something or the other. Damien he'd already heard from while they were gathering the others, but given the way he'd seen the professors giving them looks...
+
+"Okay, I can see you've got a lot more to tell me," Cale said, laughing.
+
+Leo grinned. "You have no idea."
+
+Then he began to speak. In fact, for the next hour or so, Cale just listened to his apprentices talk animatedly over one another, telling him about everything they'd been up to.
+
+Leo told him about the hidden corner he'd uncovered in the academy library after following a series of cryptic hints hidden in different textbooks, and the eventual realization that what he'd found was actually a nascent library dungeon, no more than a few months old. The Chief Librarian, a book elemental, had been absolutely beside himself at the discovery and immediately began organizing teams of librarians to explore it.
+
+He'd also made sure to recruit Leo and include him in that exploration, which Cale thought he'd probably need to find and thank him for—most mages he knew were far more possessive about any dungeons that came into their possession. The Chief Librarian had recognized how much Leo needed it, though, and had also identified that labyrinth magic would be perfect for exploring and cataloguing their new library-in-a-library.
+
+"It's really cool," Leo said earnestly. "You'll have to come down with us sometime. It's got all kinds of books from other realms! I think you might even recognize some of them?"
+
+"I probably will," Cale agreed readily, laughing. He might even have written some of them, but he wasn't going to tell Leo that just yet.
+
+Next was Syphus, who had been mostly quiet until that point, its expression strangely contemplative. It explained that it had earned the attention of one of their dueling instructors, and then with permission had established a sort of remedial dueling class, both for fun and in preparation for that eventual Red Hunter visit.
+
+Dueling was fun for Syphus, but Cale noticed quickly that there was something more to it this time. As much as it loved the rush being in the thick of combat—or of firing spells from a cannon attached to its arm—it was equally invested in its opponents being capable and worthy opponents. Far too quickly, it realized the majority of Brightscale's students weren't actually prepared to fight other mages.
+
+Which began a whole other project. Syphus was more aware than most of the state of the Great Realms, given its connection to its Named patron. Conflict in a realm as unstable as Utelia seemed inevitable, and if the Red Hunters were still going to be visiting...
+
+"The other students here are mostly prepared for dungeon delving," it explained, its tone slightly subdued. In fact, if Cale didn't know any better, he would've said Syphus was worried. "If we ever actually get attacked by other mages, half of them wouldn't stand a chance. Don't think I can stand by and let that happen, so I'm going to make sure they're at least not just going to freeze up."
+
+"I take it the dueling instructors are happy about that?" Cale asked, raising an eyebrow.
+
+Syphus brightened a little at that. "They're very pleased. I believe the students are more enthusiastic when battling me, for some reason. It may have something to do with my initial demonstration."
+
+"...What did you do?"
+
+"I fired my spell cannon into the crowd a few times then slapped the students that challenged me with the slug arm."
+
+Cale snorted a disbelieving laugh. "You what? Why?"
+
+Syphus shrugged. "Motivation. Also, it's much easier to develop [Basic Spellfist Arts] against other mages, especially if they share the art. I've begun sharing it around, even. I wanted to be the only one with it, but..."
+
+It hesitated slightly for the first time, expression surprisingly vulnerable. Flia was the one to elaborate, surprisingly.
+
+"It won't admit it, but it thinks the students will be better protected if they have it," she said. "And it's probably right. A spell that can develop the way [Basic Spellfist Arts] does is rare. Just having it makes a mage much more adaptable."
+
+Cale chuckled. "It's not a bad thing to want to protect your fellow students, you know."
+
+"I'm only doing it because I want to develop the art further," Syphus insisted. "And for the slug contingent."
+
+There was a long pause before Cale sighed. "You've convinced a bunch of them to experiment with the slug arm, huh?"
+
+"That is correct."
+
+"Fine." Cale shook his head, but found himself smiling. "You know what, bring me into one of your classes some time. I might know a trick or two with that."
+
+Syphus brightened. "Excellent."
+
+Flia was the last to give Cale her update. She was visibly pleased with herself, even before she began speaking. She'd started on a critter-saving project with Professor Tarbloom, apparently, with the core of the idea involving her nascent and developing Spark. With it, they hoped to create a series of spells that could be used to identify new species of magical critters that were in danger of fading away.
+
+This was a common problem with magical lifeforms in general. Many came into being more or less spontaneously as a confluence of life and mana, and could die out just as quickly. Especially if the ecosystem they appeared in couldn't support them.
+
+The goal, Flia explained, was to make spells that could identify and locate the critters most in danger of extinction, giving Professor Tarbloom and other like-minded mages time to find a way to preserve, or at the very least record, the species in question.
+
+Cale was nodding in approval even before she finished. "I've seen similar projects in a few different realms," he said. "You'd be surprised how important they become. Good work, Flia."
+
+She flushed happily at the praise.
+
+"Helps you catch potential problems early, too," Cale continued. He glanced surreptitiously at the blood obsidian box Damien was still carrying with him. "Like those species that threaten to wipe out the realm."
+
+"Oh, well... that's not exactly why we're doing it," Flia said, frowning slightly. "It's more so we know that they existed. I haven't been able to stop thinking about it since I learned how many of them just fade away while no one's looking."
+
+"I know what you meant and why you're doing," Cale said, smiling at her. "I'm just saying it'll help people in more ways than you're anticipating. Might hurt them, too. Magical species are pretty unpredictable. You might find something capable of curing some ailment or curse, or you might find something the kingdoms will want to use as a weapon. You should be prepared for that if it happens."
+
+Flia hesitated for a moment, clearly not liking the idea, but eventually gave in with a sigh and a nod. "Professor Tarbloom said the same," she admitted. "We'll try to be prepared."
+
+Then she perked up again. "But it's not the only reason we're developing the spells!" she hurried to add. "I haven't stopped thinking about what the Leviathan was asking of me. If we tweak the spells just right, I think we might be able to use them to find the lost Abyssals still left behind on Utelia, or at least the artifacts they were turned into."
+
+"Even better." Cale grinned. These four were accomplishing a lot, it seemed. They hadn't even been his apprentices for that long. "Actually, speaking of which..."
+
+He rummaged about in his satchel until he uncovered the Red Relics he'd stolen from the Red Commander. Or commandeered, he supposed. "I've got something we should take a look at later. A few Red Hunter artifacts, the kind that was probably built from an Abyssal. We might want to have Imrys on standby for that, I suppose."
+
+"I could use that to test the new spells," Flia said thoughtfully. Then she blinked, and her tone turned a touch teasing. "Does that mean you're finally going to stop avoiding Imrys? She's been asking after you, you know."
+
+Cale groaned. "Figures," he grumbled. "Yeah, I have [Awaken Artifact] back, so I can't keep avoiding her anyway. We can go find her—"
+
+"Before that," Leo interjected, "you should tell us what happened with the Red Commander."
+
+Cale paused. "...You sure I can't just convince you it's done with and we should move on without talking about it?" he tried. His apprentices leveled him with a flat glare, and he snickered. "Sorry. Had to try."
+
+Admittedly, he wasn't really looking forward to this, but he was going to try something different, this life. Keep a few less secrets. Try to become, in some way, the person he'd been before he became Torment's Shadow or Yggdrasil's End.
+
+This felt like the right way to start.
+
+Cale hadn't quite reflected on Torment's Shadow until that moment. It was habit, really—far easier to put the moment out of his mind and focus on the now, on dealing with the threat that was the Red Commander and then navigating what it meant for him after. After all, the biggest realization he'd needed to have was the one he'd started with.
+
+Or more accurately, it was the one that Torment's Shadow had arrived at, all on its own. The nature of that ascension spell would have made it all but impossible for some submerged aspect of himself to fight his way out. It was Torment's Shadow that stood before two children who might very well have died to the machinations of forces far greater than them, and thought I am needed no more.
+
+In the lives Torment's Shadow had lived, it would never have needed to stand in the defense of two innocent lives. Cale remembered all too well what created the need for that mask in the first place—remembered the lives he'd spent trying to rescue and save any innocent he could.
+
+He remembered exactly what it had amounted to each and every time.
+
+Magic was built into the fabric of the realms, and if the Source of all magic was corrupted, then the realms themselves were, too. How many times could he watch as the people he saved walked the same path as their slavers and oppressors? Or, failing that, how many times could he watch as they stumbled into some conveniently placed source of dark magic that promised them the safety they were longing for, yet inevitably turned them against one another?
+
+Or perhaps they would simply fall to starvation and disease within days of achieving freedom, with formerly vibrant fields of grain and fruit turning to rot before their eyes. Perhaps the machine-worlds they were brought to labor in would simply begin to fail and fall apart the moment its ruler was deposed. Perhaps another tyrant would emerge, ready to inflict suffering even greater than before, somehow using the death of their predecessor to achieve greater heights of power.
+
+Cale didn't know how many lives he'd spent trying before he understood that this was more than terrible coincidence and repeated tragedy. One way or another, the suffering across the realms had burned those outcomes into Yggdrasil itself as a Rule. Much like how the Great Realms could create Indictments or their Greater counterparts to punish atrocities, or the forces of karma would bounce back on those that tried to deny others their potential, that version of Yggdrasil had begun to punish any semblance of hope and kindness.
+
+That revelation was what had truly created Torment's Shadow. It was the mask he wore to hide from the part of him that pleaded with him to try, to do something to help, because he now lived in a reality in which any attempt to help would only lead to worse. At the time, before he'd accepted the necessity of becoming Yggdrasil's End, it felt like it was the only thing he could do.
+
+If Cale Cadwell Cobbs couldn't bring hope, then Torment's Shadow would bring justice.
+
+Cruel as it was, he'd seen no other way of living with himself. The alternatives were to do nothing, or to ignore what he learned and keep trying anyway, dooming each person he tried to save to worse fates.
+
+And yet despite himself, he wondered if part of the problem was simply that he'd been alone. Without his worldship, without any meaningful way to travel between the branches of Yggdrasil besides his own deaths, he hadn't been able to find anyone that was able to follow him between his lives. Anyone that could understand him and what he'd been through, in other words.
+
+He wondered if things would have been different, if his apprentices had been with him. Would they have found a way? They were determined, certainly, and even now Cale was reminded that there was a reason he needed to keep others around him when he could. As broad as his perspective was and as much as he'd seen, there were always modes of thinking he didn't naturally reach on his own. They'd proven as much when they helped him save Angus, and in turn the Icon of Battle.
+
+But there was no real point in that speculation. The truly important thing was that as Cale spoke to his apprentices, he found that part of himself—the part that still clung to the distance and separation that Torment's Shadow represented—slowly began to relax, and to believe in what Torment's Shadow itself had already realized.
+
+The war was over. He'd won. The method was cruel and terrible, but it was done, and he was living in the reality that stood in its aftermath. Torment's Shadow was no longer needed.
+
+So what did Cale want to do?
+
+...Figure out baking magic, obviously, and probably the deal with the Gift while he was at it. Try to make things better when he encountered them, instead of just moving on when he was done. Turn his apprentices into the greatest archmages to step on half the Great Realms, let alone Utelia. Fix that thing with Professor Graystalk's mana core, if he could, and help Sternkessel build a people. Help Akkau with the still-unknown threat hunting down all dragonkind.
+
+And he probably ought to find out what happened to humanity. The Red Commander had called him the Fugitive Seal. He might not have interrogated the guy, but that was still the kind of clue divination magic could reach.
+
+There was, obviously, only one way all of this could come together.
+
+"I don't suppose the tournament you guys were talking about happens to involve a series of seemingly unrelated tasks that would let us help five different professors at once?" Cale asked hopefully.
+
+Flia gave him a strange look. "What? No, it's a series of competitive dungeon delves. Why do you think the wyldfires are practicing in the labyrinth?"
+
+"Damn." Cale grumbled. "Guess that was too much to ask for the Thread of Fate. Whatever, we'll just do things the long way around. Leo, how do you feel about absorbing a metaphysically unstable storm into your mana core?"
+
+Leo blinked. "...What?"
+
+"I think he's feeling better," Damien said.
+
+"I am. Ten points to Damien."
+
+"What?" Leo looked outraged. "You didn't—you didn't even give out points for all the other things we've been doing! I found a dungeon!"
+
+"You also plotted a really complex ritual to be drawn out in the Golden Sands with a storm," Cale said thoughtfully. "I was gonna give you points for it, but I forgot."
+
+"You... forgot," Leo repeated, staring at him. "And you aren't going to give them to me now?"
+
+"I did tell you the points don't mean anything. I'm not even recording them."
+
+"I am." Leo walked over to Cale and placed his frankly massive arms on Cale's shoulders. His eyes were practically glowing. Somehow. Was that a labyrinth magic thing? "Give me points. I will do literally anything."
+
+"...100 points if you shove the storm into your mana core next time we go into the labyrinth."
+
+"Done," Leo said immediately.
+
+Behind them, Syphus nodded, pleased. "I have taught you well, Leo."
+
+"Just for the record," Cale said. "I have plans for everyone. Even that guy." He pointed at the monster under Damien's bed, and it reached out with an inky tendril to wave.
+
+Flia blinked. "I'm not sure if I should ask about that one."

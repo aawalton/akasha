@@ -1,0 +1,117 @@
+---
+id: 762d2eda-383f-5e40-9424-b275f4c6687b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Demonic Test Drive"
+slug: 0192-chapter-10-demonic-test-drive
+partOf: labyrinth-of-the-mad-god
+position: 192
+ownLength: 2539
+unit: words
+publishedAt: 2025-07-07
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2416754/chapter-10-demonic-test-drive"
+royalRoadId: "2416754"
+---
+
+Nick spent the next twenty minutes staring at the demon standing in the center of the ring.
+
+Meanwhile, he got ready to rumble, stretching out while devising a core strategy and some contingencies for various situations. He thought about spending his free points but eventually decided to hold off for now.
+
+If I need to, I can assign them mid-battle. My attributes are high enough that the sensations won’t be overwhelming. After making sure nothing dangerous was lurking nearby, he took a swig from his canteen, set his pack down beside the ring, and stepped over the line.
+
+The instant Nick’s boot touched the soil on the interior of the circle, the demon sprang into motion.
+
+One second, it was still as a statue. The next, it was standing right in front of him. The creature moved so fast its body blurred, although it was easy to track its mana signature. The demon sent one hand low, spread its claws, and executed a rising strike. The attack would have gutted him from navel to neck if it had connected cleanly, and it would have knocked him out of the ring if he’d tried to block.
+
+Fortunately, Nick had anticipated the move and decided to dodge instead. He activated Force Acceleration and leapt to one side, evading the demon’s claws by millimeters as Size Up let out a resounding peal of danger. A little late on the draw there, buddy, although it’s nice to see that you’re back in action.
+
+Apparently, the System had stopped the skill from scanning his opponent before the battle began, but now it was good to go. At its current level, Size Up could only tell him that the construct was strong, fast, and incredibly dangerous, which wasn’t super insightful under the circumstances. No worries. It will provide better information once it starts climbing again.
+
+While part of Nick’s brain updated his tactics based on the demon’s blistering speed, the rest of his concentration was focused on his opponent, tracking all four limbs along with its teeth and horns.
+
+He dodged a rapid series of swipes and kicks, with an occasional bite thrown into the mix. If he had faced this opponent before evolving, he would already be dead, but with his current stats combined with being able to use Force Acceleration freely, he was able to endure the barrage of blows by the narrowest of margins.
+
+I have a better sense of its movements now. It’s time to assume the offensive. After leaping back to avoid a powerful roundhouse kick, he adjusted his stance and reached for his belt.
+
+As the construct followed in his wake, Nick drew Blightbane, whipping the blade out of its scabbard in the blink of an eye. The move was slower without Heavy Blow, but it was far more manageable and still multiple times quicker than the fastest swordsman in history before the System arrived.
+
+The move caught the demon by surprise. It blocked at the last possible second by catching the sword with both sets of claws, sending golden sparks flying into the air. The attack only made it take a single step back, but he was already in motion—ready to take advantage of the opening he’d created.
+
+By this point, Nick had drawn his wand with his left hand and pointed the business end at the creature’s leg just as its weight came down. Blam.
+
+After devouring the Janitor’s core and evolving, the wand now had five charges, along with a dial that let him narrow the cone of force—greatly increasing its output when targeting a single enemy. When he pressed the gem that served as a trigger, a cone of force mana so intense that it was visible to the naked eye erupted from the tip. Although, thanks to the wand’s magic, there wasn’t any kickback at all.
+
+The construct stumbled as its hoof was thrown back, pushing the creature off balance. He aimed for its right hoof, pressed the gemstone trigger, and fired again. The impact wasn’t sufficient to knock the big bastard over, but it sent it skidding across the dirt while fighting to remain upright.
+
+Nick wasn’t about to give it a chance to recover. He sheathed his wand, gripped Blightbane with both hands, then let loose with an overhead chop combining Force Acceleration and Heavy Blow. Stamina went flowing out of his well to multiply the power of his swing as force mana erupted from the top of his arms, adding more power to the strike.
+
+The demon was still reeling from the shots from his wand and didn’t see the attack coming. The curved blade carved a gouge across the creature’s chest, continuing until the edge collided with one of its exoskeleton plates, which stopped the weapon’s momentum cold.
+
+It’s tough, but I think I can break through if I avoid those plates. Nick hadn’t had time to infuse the sword with pure mana, but he would try it the next time an opening appeared. He considered adding it now but decided against the move. I don’t know how intelligent it is and don’t want to tip my hand.
+
+When the demon lowered its body and came charging in, he reached for his wand again. This time, the construct brought both arms up in front of its face, bracing itself for impact while getting ready to lunge. The fact that it had anticipated his move and was prepared to counter revealed that this opponent could think and plan after all, which made it far more dangerous.
+
+It would have caught him then and there if he had really been planning to fire his force-flinging device again. But the move had been a feint designed to test his opponent’s reactions. His real play had been to conjure an Arcane Shield, which wavered into existence just as the demon sprang into motion and arrived at his position.
+
+It slammed into the magic barrier with the force of a runaway train. It would have cost a ton of mana to reinforce the shield enough to withstand the blow, so Nick let it shatter instead, launching a Force-Acceleration-bolstered thrust for the construct’s throat the instant the impact knocked it off balance. It threw itself to one side half a heartbeat before his weapon struck true, taking a deep scratch across its shoulder in the process.
+
+The demon came to a skidding stop while grumbling in irritation, touching the wounds marring its bright-yellow body. He took advantage of the opportunity to process everything he’d learned thus far.
+
+Although it was made of mana given physical form, this construct was remarkably similar to a living being. It bled, breathed, and seemed to have something equivalent to a stamina pool. It could anticipate Nick’s attacks and learned from every exchange, building a mental model of his capabilities as it sought to gain the upper hand. Unlike the other constructs I’ve seen, I think this demon is a copy of an actual creature.
+
+That being said, it hadn’t used anything resembling a spell or combat art. Instead, it was relying on technique, experience, and its superior attributes to win the battle. He wasn’t sure why, but he wasn’t complaining—this fight was hard enough as it was.
+
+They exchanged a ferocious series of blows over the next breathless minute. He dodged and parried as many as he could, and each hit he blocked sent him staggering from the demon’s incredible power.
+
+Nick backflipped out of the way of a killer uppercut, rolled past the reach of a brutal stomp, then jumped over a vicious swipe of the creature’s claws. Still in midair, he unleashed a rapid diagonal slash that the construct dodged by the width of his thumb.
+
+It darted in low to gore with its horns, trying to gut him like a fish. But he leaned in and jumped in time with the motion, landing lightly on the creature’s head and using the momentum to hop over its body.
+
+He swerved out of the way of a powerful back kick, evading a cloven hoof by the narrowest of margins, then turned and thrust using Force Acceleration. The creature was spinning to face him and didn’t have time to dodge. Instead, it took Blightbane’s point on the center of its palm, perforating its hand before it pulled away.
+
+Nick still hadn’t shown everything he could do, since he wanted to catch his opponent by surprise. The problem was, he had a sneaking suspicion that the demon was planning to do the same.
+
+They circled each other while trading blows, probing for weakness but finding none. Fighting something stronger than himself was draining, but by now he’d begun to get a sense of its capabilities while analyzing its attack patterns, which let him predict its next move and devise a counter.
+
+The next time the demon swiped with its claws, he blocked with an Arcane Shield at the level of its elbow, so the barrier would interrupt its momentum instead of taking the attack head-on. The spell prevented the creature from bringing its arm all the way down, forcing it to turn while growling in frustration.
+
+It only bought him a fraction of a moment, but that was all Nick needed to make his move.
+
+By now, he had sent pure mana flowing out from his core and into his blade, bathing Blightbane in a coruscating aura the color of the rising moon. Earth’s original moon at any rate.
+
+The demon raised a bright-yellow arm to block the strike. Nick expected the sword to cut straight through the appendage and wreak havoc upon the construct’s internal magical circuity. But when Blightbane hit the chitinous plate running along the outside of its forearm, it blocked the blade cold, cutting out a wedge of black material but not penetrating deep.
+
+He could tell from the feedback that the substance naturally repelled all forms of mana, including pure. It had forced his magic away from the blade at the point of contact, and the damage had been caused by Blightbane’s inherent sharpness instead.
+
+Damn. It’s too bad this thing is made out of mana granted physical form. I would have loved to harvest those plates. Maybe I can find some later.
+
+The stray thought passed through Nick’s mind as he hopped back to dodge the counterattack he knew was coming. But even with Force Acceleration, he didn’t move fast enough to evade the demon’s other arm. Its claws came whipping around in a living blender—poised to slit his throat all the way down to the bone.
+
+The brute smiled in bloodthirsty delight—certain the battle was over. The savage joy it displayed at the prospect of slaughter cemented his certainty that the construct was a duplicate of a predator from another planet.
+
+There were two reasons why the demon was destined to be disappointed.
+
+The first was that while Nick hadn’t reacted fast enough to get out of the way, he was moving in the same direction as the strike, sapping a portion of its power. With his high Toughness, it was enough to keep the torque from snapping his neck like a stick. The reason the creature’s razored claws didn’t tear his flesh to shreds was that he had tilted his chin down so his helmet was in the way, which was perfectly transparent at the moment.
+
+Accompanied by a ringing chime, Nick was flung across the dusty soil while spinning like a top. He hit the ground hard and rolled head over heels, bouncing across the center of the ring. He knew that he would fly out of the circle in another second or two, losing the challenge in the process.
+
+However, this wasn’t his first rodeo. By this point in his adventures, he was no stranger to being smacked around by something bigger than himself. With his superhuman attributes, he wasn’t disoriented by the motion and reacted in the blink of an eye.
+
+When he completed his next revolution, Nick kicked the ground hard and flipped up into the air—still spinning like a dervish. He hit the ground and braced his legs until he came to a skidding stop a few feet away from the black circle.
+
+The demon had followed hot on his heels when it realized he was still breathing, intending to finish the fight before he regained his balance. But he had already reached for his belt loop and brought the end of his wand to bear. He fired the last three charges in half as many heartbeats, targeting his opponent's center of mass.
+
+The triple shockwave picked up the hulking construct and sent it flying. It screamed in rage before landing in a jumbled pile of yellow limbs. The move caught the creature off-guard, although it didn’t deal significant damage. It did, however, buy Nick a couple of seconds to make his next move.
+
+By the time the demon rose to its feet and prepared to charge, a pair of Mana Darts were already headed its way, curving around from opposite sides to hit both temples at once. The construct’s reflexes were incredibly quick—faster than any foe he’d fought other than the Guardian. It raised its forearms in a flash, catching the darts on its antimagic arm plates and deflecting them down into the dirt.
+
+However, the precision move required intense concentration, drawing the demon’s attention away from the Piercing Ray Nick had sent flying high before curving down to come at it from straight above.
+
+The ray’s whirling drill bit came streaking for the spot directly between its horns. The construct flung its body back at the last possible moment—the first enemy he’d encountered that was able to dodge Piercing Ray outright. But he’d had a hunch that was going to happen, which was why he had conjured an Arcane Shield while the creature was distracted—low to the ground and just behind its knees.
+
+Since the demon’s attention was focused on his rapidly rotating ray, it hadn’t noticed the stationary spell forming behind its legs. It tripped over the barrier, screaming as it toppled to the ground.
+
+Nick sheathed his sword and sent stamina surging into his legs the instant it started to fall, using Force Acceleration to rush faster still. He was there by the time the construct began to rise, unsheathing Blightbane while activating Heavy Blow. He unleashed his finishing move, combining both abilities with the bonus from his scabbard, the full power of his body, and his incredible momentum.
+
+Just before he drew, he pushed pure mana into the sword, transforming the weapon into a bolt of bladed silver lightning. Blightbane caught the demon in its chitinous chest plate… then kept right on going, cutting straight through with no appreciable resistance thanks to the incredible power of his swing. After transferring the pure mana into the unarmored tissue below, the weapon came screaming out the far side of the creature’s body, at which point he lost his grip and the sword went flying into the distance.
+
+That move definitely needs some refinement, and I still need to come up with a name. As the stray thought passed through Nick’s head, the towering construct fell to the ground in two separate pieces—eyes wide with astonishment.

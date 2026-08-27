@@ -1,0 +1,135 @@
+---
+id: cfd3b9bb-a7b7-5a69-be93-d84cff9deb1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15 – Wilds – Pt4"
+slug: 0015-chapter-15-wilds-pt4
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 15
+ownLength: 1930
+unit: words
+publishedAt: 2024-11-21
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1916434/chapter-15-wilds-pt4"
+royalRoadId: "1916434"
+---
+
+Kindra blinked, and a blurry world came into focus. Fields stretched before her, patches of green crops leading to a sprawling city built into a mountain. A massive wall surrounded the city. Stone cottages lined the streets, and a massive castle adorned it. Am I dreaming? She squinted and looked at the blurry sky. This has to be a dream.
+
+Looking back at the wall, she studied the dwarven troops that lined it. The mana inside them glowed vibrantly. Well, they are high-level. That’s obvious. A branch broke, and she turned, looking at a massive undead bison beside her. It lumbered forward, and she willed others up to join it.
+
+Rows of undead lined up on the edge of the forest. An undead wyvern circled overhead, and she felt her tether to them grow.
+
+Well, this is creepy.
+
+A deep, masculine voice rang through the air, making everything go silent. “Leave or die, vampire!”
+
+Why can I understand that? Stupid dream. Kindra felt a laugh escape her throat. It flowed into the air, a cackle that was far too loud. “Surrender, and I’ll let your people serve us. Consider this your only warning.”
+
+“I look forward to killing you,” a dwarf bellowed, holding his glowing hammer aloft. It surged, and glowing stones and arrows flew from the ramparts.
+
+With a flick of the hand, Kindra conjured a massive shield. Runes spread across her vision, and the projectiles slammed into it. She smiled, and it twisted to a look of scorn. The shield vanished momentarily, and a massive green cloud billowed out, flowing toward the city like a living plague.
+
+Kindra gestured, and the undead surged forward like a wave of destruction. Bison charged across the fields, ripping up crops as they charged. Wyverns flew, and a barrage of spells filled the air.
+
+With the mocking look of scorn still on her face, Kindra pulled on a massive mana reservoir, feeding it into some skill. Glowing runes surrounded her, and a wave of green energy flooded through the undead. Arrows sunk into them. A barrage of projectiles flew toward her, and she gestured. The shield snapped into view, distorting the image slightly. It wobbled like water, and the projectiles slammed into it.
+
+Kindra opened her mouth. “Like the stone upon the shoreline, you will wear away,” she hissed in some foreign tongue.
+
+What the heck is this dream? She blinked, and the air around her burst into flame. Her heart rate spiked. Something jabbed her in the ribs, and her eyes snapped open, jolting her back to the cave and out of the dream.
+
+The smell of water, stone, and blood lingered in the air. A rocky wall loomed across from her, and the sound of the distant stream burbled. Home sweet—what’s this planet called, anyway? She exhaled and stretched. Rotten cave. Reaching up, she rubbed her eyes and listened to something bang against the stone.
+
+Great. Attackers. She turned to confirm it. A bird was attacking their makeshift door, trying to push through.
+
+Aika flew over and landed lightly on her leg. “They’re strong.”
+
+“Everything is. So much for a tutorial level... or maybe that town was. God, that’s sobering.” Kindra grabbed her spear, stood, and slammed it into the bird, cutting a few feathers and pushing it away. But not too strong. “Crossbow should do it with the right enchantment.”
+
+Standing up, she folded the blankets and stashed them. Pulling out a waterskin, she took a long drink and stretched before packing the supplies away. Alright. Time to get out of here and find the dwarves… assuming there are any left. She grimaced.
+
+“Kindra! Turn!” Aika barked, fear on her face.
+
+Kindra spun and looked at the tunnel. A long tongue flickered down it. The sound of scraping claws bounced through the cave, and horror grabbed Kindra by the throat. She felt the panic creeping up. It grabbed her by the throat, making breathing impossible. The wyvern… what the fuck?
+
+Aika slapped her arm, and Kindra forced her breathing back under control. She moved slightly closer to the corner and looked down the cave. Claws ripped through stone, and a tail swept the stones out of the way. Through all of it, a yellow eye stared at her. Okay. How do I stop a wyvern that literally decided to dig us out?
+
+Kindra looked at the door. The bird wriggled and thrashed at the bar. The scraping claws continued, and Kindra swallowed. Think of a solution, not the problem… We need a shelter. That means we need a new cave or —
+
+Realization hit her like a hammer. The panic faded, and a crooked grin spread across her face. She looked at the wall, a crooked smile spreading across her face. “Stupid wyvern, you deserve this.” She slapped her hand on the wall and triggered Transmutation. Her magic flowed into the stone, and she felt it. Like an extra limb, she felt the stone and the tunnel that extended back toward the surface.
+
+Willing the stone above to fall and reseal, she let it burn her mana. Her pool drained, burning over a hundred mana in a single second. The stone flowed like honey, entombing the wyvern in solid stone.
+
+Kindra smirked. “What a turnip.” She chuckled and looked at the grate. The bird was gone. It gave up? Thank God… Guess I should stop saying that. She shook her head, and the ground trembled, stones bouncing. Trying to get out? Good luck, mate. Kindra turned. “Did you get breakfast?”
+
+“Yes. Ate the rest of the fruit.”
+
+Kindra nodded and looked at the tiger. “Think it’s still good?”
+
+“I don’t think so.” Aika shook her head and looked at the shaking ground. “Is it getting out?”
+
+“Maybe?” Kindra shrugged. “But I doubt it. It would have made it to us earlier if it could dig through rock that fast.” She took a drink and offered some to Aika.
+
+She placed the cap on the waterskin and turned. The ground trembled. Should I waste more mana? It’s stuck underground… She sighed and debated it. Grabbing the crossbow, she shook the thought aside. We can’t get stuck here with some wild wyvern. Hopefully, it goes for the surface if it can dig out.
+
+The ground stopped trembling. Kindra turned and tried to see the mana. There’s too much here. Focusing away from it, she used Enhance Item, draining twenty mana and some of her blood. Red runes spread across the crossbow.
+
+[Basic crossbow has been enhanced with armor-piercing rounds for 24 hours. Each shot will negate up to 20 stamina when fired. This effect lasts ten seconds after being fired.]
+
+That’ll work. She grabbed the pile of bolts.
+
+“How much mana do you have left?” Aika landed next to the pile.
+
+“About a hundred.” Kindra turned. “Should I level? It will cost a hundred mana, so my pool will shrink significantly.” She pulled up her progress.
+
+[Mana: 293.] ‎ [Active Mana: 91.]
+
+[Speed: 6.] ‎[Intellect: 6.] ‎[Dexterity: 8.] ‎[Strength: 4.] ‎[Stamina: 2.]
+
+Maybe I should, but I really need mana more than minor boosts to my body.
+
+Aika frowned and flew up, landing on her shoulder. “Let’s wait and see what we get from the crossbow.” She paused and turned toward the wall of stone that now engulfed the back of the tunnel. “Is it dead?”
+
+“No idea.” Kindra shrugged. “It either got out or is dying. I’m hoping it’s dying.”
+
+“Me too. How much mana would we get?”
+
+“Not sure, but I want to eat it if it dies.” Kindra chuckled and loaded a bolt. Walking to the door, she slid it open, aimed at a bird, and fired. The wooden bolt streaked through the air and slammed into the bird. It tumbled backward, rolling into the wall.
+
+That’ll work. Grabbing another bolt, Kindra ratcheted back the lever and loaded the next bolt. Birds turned, and she aimed, lining the shot and pulling the trigger. The string thrummed, and the bolt flew, staking a nesting bird.
+
+The birds erupted in furious chirping. Runes and magic flooded the room, and Kindra felt waves of fire roll through her mind. It surged, and her head throbbed. Focusing on the runes, she willed a counter into her mind. The immense pressure slowly faded. Her ears popped, and Aika slumped and slid from her shoulder.
+
+Dropping the crossbow, Kindra caught Aika. She scowled and lifted Aika’s body, watching her labored breathing. That’s it. The noise slammed over her in growing fury. With the runes blazing in her mind, she cradled Aika next to her, trying to shield her from the magic.
+
+With a final, surging cry, a quiet spread through the room. Birds launched from their perches, and Kindra slid the door shut. They have to know it’s suicidal to attack head-on, right?
+
+A bird landed, chittered, and moved to the grate. Kindra watched it, walking to her spear. Cradling Aika in her left arm, she reached down and grabbed it.
+
+Die, you little turd. Walking forward, she placed the spear’s tip between the bars and slammed it forward.
+
+The spear cut feathers, sliced a small line across the bird, and knocked it backward. It chirped furiously, causing the rest to do the same. Waves of magic poured across the room, and Kindra scowled.
+
+Holding Aika tighter, Kindra studied her. She’s breathing. That’s good. What does this magic do? She studied the runes floating by. I need a manual on runes. System, give me a quest to get a book on runes.
+
+[No.]
+
+Kindra shifted her focus back to Aika. She’s alive. That’s the good news. Scowling at the birds outside, she waited. How do I shield Aika besides trying to use my body?
+
+After a minute, the sound stopped. Sighing, Kindra looked out. The birds had flown off. Dropping the spear, she opened her bag and set Aika on the blankets. She felt her mana and smiled.
+
+Willing the sequence forward, she triggered Enhance Item.
+
+[Level 5 mechasuit enhanced to provide lesser resistance to paralytic magic for 24 hours.]
+
+A smile spread across Kindra’s face. Well, now. Isn’t that something? Pausing, she memorized the sequences before picking up the crossbow and ratcheting back the bowstring. Sliding a bolt into place, she slid the door open and aimed.
+
+Exhaling, she aimed at the closest one and fired. The bolt zipped forward, clipping the bird and setting it off. Kindra waited. A bird saw her. It chittered and launched itself from the cliff. Others bailed, flying for the exit.
+
+Stepping inside, Kindra shut the door. Why are some staying? She studied the cliffs, and the realization hit. They’re nesting… Some things don’t change. Birds flew next to the door, blaring their magic through it. And you should have gotten a new trick.
+
+Loading another bolt, she aimed through the slit and fired into the flying clump of feathers and bodies. Clipping a wing, the bird fell and hit the distant water with a splash.
+
+Grabbing another bolt, Kindra reloaded and aimed. I need a repeating crossbow. They’ll leave soon. Pulling the trigger, she launched another bolt and grabbed another.
+
+Falling into a steady rhythm, she fired off two dozen bolts while several birds fled, and the noise lost all magic. The birds fled, hiding in the alcoves.
+
+Kindra paused, lowering the weapon. Time to make more bolts. Walking over, she checked on Aika. Looks okay. She’s breathing. Grabbing a branch, she triggered Transmutation and turned it into a small bundle of bolts. She gathered them, and a torrent of mana knocked her onto the floor.

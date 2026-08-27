@@ -1,0 +1,176 @@
+---
+id: b4ee588d-22f7-517e-b718-d598b68ca55e
+page-type-slug: story-chapter-royal-road
+title: "114 — Book 3, Chapter 13— Library Woes, Pt 5"
+partOf: just-add-mana
+position: 117
+ownLength: 3051
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3195803/114-book-3-chapter-13--library-woes-pt-5"
+royalRoadId: "3195803"
+---
+
+The specific palewater exercise that Leo was doing was known as the Seventh Rhythm. Akkau had listed out the names and histories of each exercise when presenting it to them, and Leo had taken meticulous notes. He hadn't focused too much on it at the time outside of that, too consumed first by anticipation, then self-recrimination when he had failed to make it work.
+
+Now, though, as he raced through the labyrinth and the Rhythm pounded in his ears, he felt it coming back to him.
+
+Every palewater exercise had a certain history to it, Akkau had said. Magical civilization as a whole had not always known how to safely advance the development of their mana cores; in fact, for a long time, it had been accepted that only the most talented would ever even move into the realm of palewater. That purity of mana had been seen at the time as something sacred, a sign that one had been chosen by magic itself.
+
+Then came the mage known as the Herald, who had offered the Great Realms the very first palewater exercise. It was a monstrously complex thing, it was said—a dense network of twisting paths that mages would have to dedicate years to study and replicate, given that it had to be done all at once without a single mistake.
+
+Yet that had represented a paradigm shift in the education of mages and in the study of magic, because for the first time in known history, there was a means by which any mage could develop a palewater core. It was so monstrously difficult that there was barely an uptick in the number of palewater mages, certainly, but all that was needed was for the Realms to know that it was possible.
+
+Just like that, study of mana cores and how palewater could be created bloomed. It became understood that mana itself consisted of aspect and intent, and that the intent could be subverted to a greater degree than mere core integration. There was a thin presence of divine intent in any fraction of mana, it was said, and that intent could belong to the mage, if only they could persuade it to change.
+
+That was, in essence, what the palewater exercises were. At their most fundamental, they were a construct that represented the mage's intent, much in the same way a spell construct could convert mana into a spell.
+
+That was one of the reasons there were so many of them. Once mages understood how that first palewater exercise worked, they scrambled to create smaller, simpler ones that were designed to work for a smaller subset of mages. In some abstract way, each circulation pattern represented a mage's ambitions, their way of thinking, their hopes and their dreams.
+
+All derived from the very first pattern gifted to them by the Herald. The only one known to be almost universal in nature—one known to work for any mage, no matter their temperament. It was said that the Herald had done this because of their love for magic, and their belief that the full strength of magic could and should be wielded by all.
+
+That pattern was known as the First Rhythm. It was from the First Rhythm that every other pattern was derived, a simpler version carved out so other mages could more easily use it. There were attempts to simplify the First Rhythm, but by and large, those other patterns were far more effective and much simpler to use, so those attempts fell to the wayside, to be used only for the few mages that truly needed it.
+
+In total, there had been six such attempts, culminating in the Seventh Rhythm. Even simplified as it was, it was still a complex, twisting thing, and yet it didn't surprise Leo that this was what he'd been drawn to the most. He'd been hoping to resonate with the Stone Mind, or perhaps the Flowing River, but in truth he'd known from the moment he'd laid eyes on it that it was the Seventh Rhythm that called to him.
+
+The complexity was a part of it. It made sense—he had a labyrinth core, so of course he was drawn to the most complex of the palewater exercises, to the circulation pattern that most resembled a labyrinth in itself. But there was more to it than that.
+
+The First Rhythm had been created so that every mage could grow into their full potential. The Seventh carried that same wish, borne forward by other mages who had been frustrated and stymied by their attempts with the other patterns, in the hope that it would be easier for the next one that needed it.
+
+It was that hope, more than anything, that resonated with Leo. It was the reason the Rhythm represented his intent most of all. His desire to draw out every scrap of his potential, to stand by his friends as an equal that could fight with them. He wanted them to be able to rely on him.
+
+He wanted to be a true mage.
+
+The thought almost startled him. Leo had always scoffed a little at Cale's various declarations of what it meant to be a true mage—half the time it was some truism buried in a joke, and the other half it was advice meant to keep them alive. He never quite considered it long enough to understand what Cale meant by those words, but now he thought he understood.
+
+A true mage was one that learned every scrap of magic they could. They were one that would overturn every possibility, make every discovery, if it meant they could stand tall alongside the kings and gods of magic. The nuances of that might differ, from mage to mage, but a true mage saw magic for what it was and would not hesitate to grasp at it.
+
+And more than anything, a true mage lived to see it through. For how could one uncover all arcane mysteries if they allowed themselves to die? Leo was aware of this more than any other, being the most mortal among his friends; some part of him had simply accepted the thought, the knowledge that they would outlive him.
+
+No longer. He lived in a world of magic. There could be solutions for anything in that world.
+
+Even, for instance, a solution for the Seventh Rhythm.
+
+His echo hadn't given up the chase. If anything, it had become more frantic. Leo could feel it drawing on greater and greater portions of the Haelforge Library's strength, borrowing from its mana and attempting to overwhelm him with sheer quantity. More than once, he'd barely managed to dodge a sudden shift in the labyrinth, an attempt by its walls to crush him or halt his progress.
+
+But his goals had changed, and his echo knew it. Worse, it seemed that it hadn't figured out what he was doing—it only knew that he was trying something, and was desperately trying to stop him.
+
+Without knowing his true goal, though, it couldn't know that it was only helping him along.
+
+That was the trick of it, wasn't it? In a battle of attrition, Leo would lose. If he was forced to try to hide, to create enough distance to focus his mind and create his first drop of palewater, he would lose. If he fought and threw everything he had at his echo, then more likely than not, he would lose. Formed of the same mind or not, his clone had a single-minded focus he lacked. All it would take was a moment's distraction.
+
+Which was part of why he'd changed up his goal for something completely different. He simplified his plans. If all he needed to do was move through a labyrinth shaped by the Seventh Rhythm, then he could afford to fight off his echo the few times they clashed. As long as it didn't know what he was doing, as long as it still thought he was just running, desperate for a plan...
+
+He didn't need to seize control of the entire labyrinth, after all. That would cost him mana he didn't have. All he needed to do was secure a single path in a single shape, and push the mana within him in that same shape as he ran.
+
+His clone burst out of the wall in front of him. The sight was awe-inspiring, for a moment—Leo had never known he could look quite so intimidating. Granted, the echo was made of pure light and had blazing eyes to match, so it had something of an advantage in that area, but still.
+
+[Bouldertrap], it commanded, and Leo felt the labyrinth shifting around them. The floor became an incline, and somewhere above, a thundering sound crashed through the makeshift halls as a boulder rolled toward them.
+
+Leo couldn't help himself. He grinned. His echo hadn't figured out what he was trying to do yet. It was fighting him conventionally, expecting him to play by the rules of a mage in combat. Even now, it held a tight grasp of the corridor, as if expecting him to try to close off the boulder's path or redirect it away from them.
+
+He did neither. Instead, he rushed straight ahead, barrelling past his clone and shoving it out of the way, to a surprised, startled yelp. Then it scrambled back to its feet and began to run—
+
+—which was how for a moment they found themselves running down the same path, away from the boulder it had created. Leo might've laughed at the absurdity of it if he hadn't been so focused on shaping the path ahead of them. He couldn't afford to care about what his echo did, as long as it didn't interfere with him, because his goal at the moment wasn't to win.
+
+All he needed to do was to create that one drop of palewater before it stopped him. He didn't even need complete success.
+
+His echo eventually roared and crashed off to the side of the path, as if unable to understand why Leo was just ignoring the boulder still thundering after him. The answer to that was simple enough, and it would have known if it hadn't been too angry to think about it. It had the same memories he did, after all.
+
+He'd trained with Syphus. Running from a boulder was effectively just exercise for him, at this point.
+
+Something else struck him, though. The fact was that this was working—that following the path of the Rhythm and calling for his mana to follow was allowing it to move far more than it did when he tried to do that same thing in the privacy of his room.
+
+In all his previous attempts, the palewater exercise that was the Seventh Rhythm just didn't work for him. The intent in his mana resisted transformation.
+
+What, exactly, made this different? Why was this working where all his previous attempts had failed? It wasn't just that it was moving with no other effect. He could feel the transformation, minimal as it was. It took effort, but a tiny amount of Cale's intent was becoming his own.
+
+Leo couldn't help but feel that he needed to understand why that was before he could truly bridge the gap to palewater.
+
+One more step. Another twist, another turn. A [Grasping Hands] from his echo, who tried to trip him with hands of stone; Leo responded by simply leaping over them and continuing.
+
+He just needed to understand what made this different. That, more than anything, was the key he needed.
+
+All he had to do was figure it out before his echo caught him. Because as much as he was trying to preserve his mana and stamina, well...
+
+Leo would run out eventually. He knew that.
+
+And so did his echo.
+
+Cale hated doing nothing, which was probably why he responded to the rumble in his surroundings with a little more enthusiasm than he probably should have. His echo shot him a look, and Cale rolled his eyes.
+
+"What?" he asked. "You were just as bored as I was. We don't like being forced to sit and worry."
+
+"Well, sure," Echo acknowledged. "But we also always wanted to see what that was like on the other side of things."
+
+Cale paused. "Normally I like being right, but this feels kind of unfair."
+
+"Can we focus on the part where my master is about to show up?"
+
+"Are you really going to call whatever they are your master?"
+
+"Yes?" Echo said. It thought about it for a moment, then nodded. "Yeah, I think I'm comfortable with that. I know it's technically just an instinct that was constructed as part of my core, and I'm sure there are several layers of questionable ethics we're going to have to unwind, but also I think it awakened something in me."
+
+Cale sighed. "You could at least pretend to be pissed about it."
+
+"I am pretty mad that my master hurt the library, but it's sort of conflicting with everything else," Echo said. "I'm sure I'll decide one way or another once they show up."
+
+"But they are going to show up?"
+
+"Oh yes," Echo said. "Any moment now."
+
+Cale readied himself. The barrier he maintained surged brightly, a complex prismatic array briefly appearing on its surface before fading away once more; he would be taking no chances with an opponent like this, whose attacks left perception worms and echo magic in the wounds it rent. That sort of creature spoke of a higher form of aberration, the kind that only emerged once in a thousand years.
+
+Not the kind that gave him trouble, necessarily.
+
+But Cale wanted answers. That was the part that would be difficult.
+
+The creature that emerged from the ashen grounds of the Haelforge Library could, perhaps, be charitably called a colony of worms. Less charitably, they were a writhing mass of squirming, white-red things that glommed together into a barely-coherent whole.
+
+That whole eventually did cohere into something that resembled a serpent. It reared up above them, large enough that its head brushed against the ceiling of the Haelforge Library.
+
+Then it roared. Worms came flying out with the sound, and Cale made a secondary barrier just so he wouldn't be splattered. "Gross," he muttered.
+
+"I am the blood that writhes," it hissed. "I am the thunder that crawls beneath the skin. I am the precursor to the end of all that calls itself holy, the worms that will devour them when their divine corpses riddle the realms—"
+
+"That's really long," Cale interrupted. "Can I just call you Blood or something?"
+
+"Hello, master!" Echo said cheerfully.
+
+The worm-serpent stared at them both. "...Creation of mine," it said, slightly more halting—this time looking toward Echo. "Why do you have the will to defy me? What trickery is this? I commanded you to kill that which created you."
+
+"You might want to think about the phrasing of that one," Echo said.
+
+"The origin of your echo," it said, exasperated. "The source. That which resounds. You should not have a will of your own! You are a reflection!"
+
+"Yeah, but this guy doesn't do well with reflections." Echo jerked a thumb at Cale. "Or his reflections don't do well with him, I don't know. Trying to copy him is usually a bad idea. Case in point."
+
+"It matters not," the serpent-worm hissed, agitated. "I will kill you both if I must. The plan must not fail. We must free him. I guard the gate; I will die before I let it fall."
+
+Cale nodded. "Can you tell us more about that?" he asked. "Don't get me wrong. You hurt a library. One way or another, you're going to help us fix it. But if you tell me a little more, I might be able to help."
+
+"Help?" The serpent's tail flicked, uncertain. "You lie."
+
+"You said something about freeing someone," Cale said. "It's very obvious I don't have the full picture. So tell me more, and I might be able to help."
+
+"He's not lying," Echo added helpfully. "He's done this before, and that time he was being held upside-down on top of a vat of acid."
+
+"I cannot trust these words." The serpent's tail-flick this time was agitated. "I cannot. I will not risk him. I will guard the gate. You will die, the traitor and the fool."
+
+"I really think you should listen to him," Echo said, but the serpent was no longer listening; already, Cale could feel it conjuring a dark magic, pouring its power into something vast and terrible...
+
+Ah. He recognized this magic. [Echo Wound]. Most mages would be obliterated by that spell, scattered into nothing more than echoes of their previous self. He had died to it once, even.
+
+But Cale Cadwell Cobbs rarely died to the same thing a second time. And he'd had time with his echo before the serpent finally showed itself. Time to remember how that spell felt, how it worked, and how to counter it.
+
+The Gift was remarkably helpful, in that regard.
+
+He tilted his head, and cast [Acoustic Rebound].
+
+The serpent-thing scoffed. "Fool among fools," it rambled. When it spoke, it seemed, every worm within its body spoke. Its voice echoed and layered onto itself in a way that might have been creepy if Cale hadn't once been roommates with such a creature. "You witness the strength of white wyldfire; I stand only a degree or two beneath the realms of gods. What mortal could hope to match me? The hierarchy of magic itself will reject your blasphemy..."
+
+[Echo Wound] was a spell that took a while. Cale just listened patiently as it continued to ramble, folding his hands behind his back and feeling the magic gather. Over and over it went—echo magic was famously capable of hitting above its tier, for its ability to layer atop itself. Such was the nature of [Echo Wound].
+
+Any other mage, perhaps, would take the opportunity to attack, but both Cale and the serpent were content to wait until it launched.
+
+Then the serpent's spell struck. A gong resounded, a reverberation that echoed like a bell being struck, and the world narrowed to a point like reality itself was holding its breath.

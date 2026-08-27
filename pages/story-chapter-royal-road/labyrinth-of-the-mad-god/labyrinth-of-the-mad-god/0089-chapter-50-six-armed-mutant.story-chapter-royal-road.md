@@ -1,0 +1,77 @@
+---
+id: 61e89d8f-88da-5349-a36e-7dfbd366e68c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50: Six-Armed Mutant"
+slug: 0089-chapter-50-six-armed-mutant
+partOf: labyrinth-of-the-mad-god
+position: 89
+ownLength: 1651
+unit: words
+publishedAt: 2024-11-11
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1897946/chapter-50-six-armed-mutant"
+royalRoadId: "1897946"
+---
+
+It seemed that the Janitor was able to create more of the magical projections than it had revealed until now. It had kept this fact a secret while laying a trap—hiding two more sets of force-arms behind its body while Team Earth moved to counter the first.
+
+Nick had the sense that this configuration was far less efficient, but the creature didn’t care. It wanted their essence and was willing to spend what it needed to get the job done.
+
+One translucent hand was headed straight for him, and another was streaking for Devin. The final pair was closing around Veronica, who couldn’t see them coming. Size Up was screaming at him, warning him that if any of the force-limbs connected, they were going to throw whoever they caught into the mutant’s mouth—shredding them to ragged chunks within the raging maelstrom churning behind its jaws.
+
+He took aim and fired his wand at the arm in front of him, but the others were out of range. The blast knocked it back, buying Nick a couple of heartbeats in the process. He wanted to use the opening to conjure another dart, but there simply wasn’t enough time.
+
+One of the Janitor’s hands had nearly reached Devin. He tried to dodge, twisting to one side in a last-ditch effort. But the appearance of the agile manifestation had caught him by surprise, and he couldn’t get out of the way in time.
+
+Just before the ghostly digits tightened their grip, a pink tongue wrapped around his waist—yanking Devin out of reach at the last possible moment. Relief went flooding through Nick’s body when he realized that Sophia’s summons were back in the fight.
+
+That still left two arms headed for V, and they would land in another three seconds at most. Not to mention the hand that had been knocked back by his wand. He couldn’t afford to worry about that one now. Before the Janitor claimed Veronica’s life, Nick activated Force Acceleration and sprang into motion, multiplying his speed in an instant.
+
+The shock to his body was immense. Bones creaked and muscles strained, but he pushed through the pain and kept on going. He took one step to launch himself forward with his sword raised above his head in a two-handed grip. The move cost him a fair chunk of mana, but he didn’t have a choice. The wand wasn’t sufficient to protect V from this angle, and he had to act now if he wanted to save his friend.
+
+In that moment, Nick decided to gamble with his life—responding to an instinct formed from using his sword over the last few months. He had the sense that the mysterious blade could sever the magical manifestations, even if the party’s other weapons had simply passed through.
+
+The force-arms moved fast, but powered by his ability, his body moved faster still.
+
+As the grasping limbs closed the last few feet between themselves and V, Nick took aim for the spot where they met the Janitor’s body, using Artic Clarity to enhance his focus. He brought his weapon flashing down. But to his dismay, his blade wound up passing straight through the force-spawned projections after all. Shit. That didn’t work. Time seemed to slow down as the implications of his dire predicament washed over him.
+
+In that moment, he was terrified that this was the end. But then a strange thing happened.
+
+Ever since he had picked his sword up in the sewers of Kastilla, he’d had the impression that the weapon was sleeping—wearied by its centuries-long fight with the crimson blight. The ratman Trell had told him that the weapon was special, and he had found numerous clues that this was the case during his time on the bog.
+
+In the heart of that black instant, Nick had the sense that the sword was more than just a weapon. That it had a consciousness. A will of its own. It felt like a slumbering giant had opened one eye to regard him, mumbling something while still half-asleep. He realized that the blade wasn’t just looking at him—it was asking him something. I think that it wants to use some of my mana.
+
+Intrigued by the situation and desperate to save his friend, he gave the weapon his permission. When he did, mana was sucked out of his energetic core and drawn into the blade. It’s only taking in pure mana, he realized as time resumed its full course. The unprecedented encounter had only taken a fraction of a second.
+
+Half a heartbeat later, the length of the curved sword began shining with an intense silver light. Then it hit critical mass and burst into flame, glowing like the full moon at midnight. Nick didn’t have time to think about what was happening—not while the party was in danger.
+
+Two of the Janitor’s force-arms closed around Veronica, ready to extinguish her existence. She screamed as they began pulling her in. Struggling, but unable to break free. Horror blossomed on her face as she stared into the whirling abyss behind the mutant’s sharklike teeth.
+
+The third arm would reach him any second, and V had even less time. Praying that this would work, Nick raised the glowing blade and activated Force Acceleration again. His world narrowed to the silver sword and transparent limbs. He was overcome with a sensation of exquisite urgency. If the sword didn’t cut or didn’t land quickly enough, both of them were going to die.
+
+Moving so fast that the air screamed from his passage, he put every scrap of his concentration into swinging his sword. He brought the blade up in a rising slash toward two of the arms, just as the mutant opened its jaws—ready to swallow V whole. She looked back at him with a heartrending blend of terror and hope, in what might well be the final second of her life.
+
+A bare instant before the Janitor could end her existence, Nick’s sword passed through the mana-spawned projections restraining his friend—life and death balanced on the edge of the blade. The weapon made its final approach, drawing closer and closer until it connected at last. Please, let it work this time.
+
+Now that it was bathed in a coruscating aura of pure mana, when the silver sword struck the Janitor’s force-arms, he felt some resistance. The blade carved through the ethereal limbs, severing them as cleanly as a surgeon’s scalpel. Relief flooded through every cell of his body as the flailing arms flopped to the ground, spasming before vanishing with a pop of displaced air.
+
+Nick yelled and continued his swing, cutting the final hand off near the wrist before the silver flames flickered and faded out of existence. The Janitor screamed and pulled its body back as Veronica toppled to the floor. She was dazed and distracted, but managed to scramble out of the way thanks to the momentary reprieve.
+
+In addition to severing the mutant’s arms, it seemed that the blow had hurt it. The pure mana disrupted the energy forming those projections. It just lost everything that it put into making them. They might be extensions of its core, rather than the manifestation of an ability.
+
+Right now, the details weren’t important. One way or another, Nick’s instincts had been right on the money. His mysterious sword was able to hurt the ghostly limbs after all. Understanding what had happened could wait. All that mattered was that he had a way to protect his friends, not to mention himself.
+
+The creature recovered a few seconds later. It let out a furious roar while turning to swipe at the party with its claw-studded forelimbs. He got ready to leap out of the way, off balance and bruised from using Force Acceleration twice back-to-back. He had a bad feeling that he wasn’t going to make it in time. He couldn’t afford to waste more mana using it again, but it looked like he didn’t have a choice.
+
+Before Nick activated his ability, Devin’s axe hit the Janitor in the side of its wedge-shaped head—powered by every scrap of strength residing in the athletic warrior’s body. His flaming weapon was accompanied by a pair of Sophia’s throwing daggers and one of Shaun’s arrows. Each attack landed in a crack in the mutant’s armor, penetrating the softer tissue below.
+
+“Boom,” Devin said. Then he activated Blast Striking and Flashfire Pulse at the same time. As Nick scrambled out of the way, a pair of explosions rang out. A big blast erupted from the axe and a raging torrent of flame shot out from the man.
+
+It was his first time seeing rank-two Flashfire Pulse in action. The upgrade Devin had picked let him narrow the direction of the pulse. Now he could change the angle of the eruption at will—keeping it from harming his allies while concentrating the flames headed the other way, increasing the power of the ability in the process.
+
+The twin blast was so intense that it knocked the gigantic mutant back. The white shark went skidding along the dirt-covered stone, trailing flames in its wake like the tail of a kite. Now that he was able to recover from the close call, Nick took a good look at his opponent.
+
+Devin’s axe had opened a ragged gash along the Janitor’s neck, through which a patch of superheated mana remained—glowing bright as it sizzled away at the creature’s gelatinous tissue. Another big section was scorched from Flashfire Pulse, thinning the armor in that area. These rank-two abilities are worth their weight in gold. We’d be dead without them.
+
+“Holy shit.” V let out a terrified laugh as the team fell into formation. “That was way too fucking close. Thanks guys, I owe you one. When we get out of here, drinks are on me.”
+
+“Anytime,” Devin replied. “But I’m happy to drink on your dime.”

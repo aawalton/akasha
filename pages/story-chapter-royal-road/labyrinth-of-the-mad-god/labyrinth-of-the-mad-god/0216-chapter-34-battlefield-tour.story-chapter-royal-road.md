@@ -1,0 +1,101 @@
+---
+id: ee73a044-2e43-523d-88ec-d9f90d3a68e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: Battlefield Tour"
+slug: 0216-chapter-34-battlefield-tour
+partOf: labyrinth-of-the-mad-god
+position: 216
+ownLength: 2463
+unit: words
+publishedAt: 2025-09-01
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2566183/chapter-34-battlefield-tour"
+royalRoadId: "2566183"
+---
+
+As he ran, Nick took in the gorgeous panorama stretching from horizon to horizon, working his way around the lake while contemplating the battle to come.
+
+Dealing with the Armada Wurm and its horde of defenders posed a unique challenge, but after thinking the matter through, he was confident they would prevail. He just prayed Team Earth could beat the burrowing behemoth without losing anyone in the process. Every life was precious, and if humanity was going to survive after the entrances to the Labyrinth opened, they needed their elites to exhibit tremendous growth over the coming year—not fall along the wayside.
+
+Nick slowed down as he passed by a group of joggers he had met during the party, exchanging greetings before picking up the pace and resuming his analysis with a smile on his face. No matter what challenges tomorrow might bring, it felt amazing to be among his people again, working together to overcome an obstacle instead of being isolated and thrust into one life-and-death ordeal after the next.
+
+When he thought to pull up his quest menu, he saw that several hundred Town Bosses had already been defeated, along with twenty-three City Bosses. No Capital Bosses were down yet, but judging by how quickly the quest was progressing, it was only a matter of time.
+
+Thank god Kenji was insightful enough to start getting us organized before the quest began. That man is a rock, and we’re lucky to have him on our side.
+
+He was scheduled to meet up with his team an hour after lunch—the elites who would focus on killing the wurm once it was vulnerable and its army was engaged. Since he had some time on his hands, Nick decided to check in with Kenji. Several questions and a few ideas had come to him since they had spoken last and now was as good a time as any to discuss them.
+
+It would also give him a chance to check out the area where they would battle the wurm, since Kenji was there now, supervising the preparations along with the other team leaders. The spot in question was several miles to the north—nestled along a strip of the badlands where the wurm’s territory overlapped with a City Boss’s. They were planning to use it to draw out the colossal construct, although he wasn’t clear on the details.
+
+Finding the place was easy, since there was a long line of people heading to and from that direction, along with a procession of supply carts and siege weapons in various stages of completion. He stopped say hello to everyone he passed. His people were eager to meet “Nick the Silver” after the battle on the rooftop and Kenji’s introduction the day before.
+
+After walking by a pair of scouts who were warning people not to stray into the wurm’s territory, he arrived at the staging area, where a buzzing thrum of activity was taking place. As he made his final approach, Nick kicked his strategic brain into high gear, reviewing everything Kenji had revealed about the Armada Wurm and how he intended to bring the behemoth down.
+
+By observing every boss they could find, the intelligence specialists had learned they were all insanely aggressive. The powerful constructs would pursue anything that crossed into their territory and wouldn’t retreat unless they received a life-threatening wound.
+
+Nick wasn’t sure if the beasts’ behavior had been tweaked for the Rebuilding Civilization quest or the System had chosen to copy creatures that were naturally relentless, but it was a strategic asset under the circumstances. It meant they didn’t have to worry about the wurm getting away during the early stages of the battle.
+
+While drawing the beast to the battlefield wouldn’t be a problem, the next part would be tricker to tackle. If it noticed their army, the creature would attack from belowground, fighting with its teeth and tongue while its body was shielded by tons of dirt. Its minions would be happy to take to the field if their host was threatened, but if Team Earth wanted to kill the Armada Wurm, they needed to convince it to emerge, then prevent it from slipping back below the soil.
+
+Unfortunately, there weren’t any places inside its territory where the ground was solid rock, so they couldn’t just lure it out that way. But after working the problem over with his team, Kenji had come up with a plan to trap the boss on the surface, which brought Nick’s train of thought to the terrain ahead.
+
+It was a deep canyon formed from a gigantic stone that had been split down the middle. It looked like a giant had dropped a rock the size of a city block from high above. The impact had created a crater and broken the stone in half, creating a chasm several hundred feet deep with solid stone walls and a strip of earth running between them.
+
+Spanning the gorge was a network of wooden beams with a series of ropes and pullies hanging from the middle. It wasn’t a bridge—although some people were using it that way—but something the engineers whipped up to lure the boss into position. The idea was that if the wurm were chasing prey that suddenly rose into the air, the beast would have to emerge from the dirt to eat, stretching up and then reaching out with its tongue.
+
+To make sure the construct took the bait, Team Earth was preparing a more-tempting target than their own members. A group of elites had captured a Town Boss and planned to position the bound beast on the canyon floor. Once the pull teams drew the wurm into the gorge and it tried to devour the bound boss, the engineers would use the ropes to raise it into the air, coaxing the colossal creature out of the ground.
+
+That brought him to the next part of Kenji’s plan—how he intended to trap the wurm above ground, where humanity’s elites could engage it directly. Nick had only heard the broad outlines of this phase, so he went to find Kenji, who was overseeing the placement of siege weapons along the canyon’s wall.
+
+When he arrived, the strategist explained what would happen after the wurm took the bait. “While the behemoth is stretching up to grab the dangling Town Boss, our earth mages will go to work, compacting the dirt within the canyon to prevent the wurm from diving.”
+
+Nick nodded along as he absorbed the details. They wouldn’t be able to contain the immensely powerful construct for long, but they only needed to trap it on the surface for a few minutes.
+
+The reason was due to the next part of the plan, which involved flooding the canyon. One end was only a few thousand feet away from one of the rivers branching off from the lake. Earth and water mages had dug a channel and diverted part of the flow to create a temporary reservoir.
+
+Once they lured the wurm into the canyon, they planned to release the water, drench the floor, and then freeze the whole thing. It would only be enough liquid to create a layer of ice about ten feet deep, but they believed the magic the boss used to tunnel through the soil wouldn’t work on ice.
+
+Additionally, none of its armada was adapted to arctic environments, which meant both the boss and the bugs should have trouble navigating the slippery surface, forcing them to fight on unfamiliar terrain that would severely hamper their mobility. When Nick asked if that would be a problem for Team Earth too, Kenji grinned and then pointed to where the units would be positioned.
+
+Along the canyon floor, the earth mages had raised big mounds of soil that looked like small hills. That was where his people would stand—high enough that the water wouldn’t reach them and big enough to fight in formation.
+
+The armada would be forced to cross the ice, then climb uphill over slick terrain to reach the defenders, creating a series of defensive positions that would be difficult to assault. Combined with their barricades and ranged support, the insects should have trouble launching a coordinated strike. There were also designated areas for people with supportive magic to stand—where their magic could bolster the warriors with minimal risk to themselves.
+
+Nick was deeply impressed. He was a decent tactician but could never have put together a plan of this complexity so quickly—one that took into account the nature of their enemy, the available terrain, and the capabilities of hundreds of magic-wielding elites.
+
+He had done most of his fighting in small teams and hadn’t realized Team Earth was capable of terraforming on such a massive scale—effectively designing an ideal battlefield from scratch and then adjusting the topography to match, all within a matter of days.
+
+And that was only half the story.
+
+The canyon rim was an ideal location for all the siege weaponry they’d been building. Most of the devices were already in place and the rest were either in transit or the final stages of construction. There was even a team standing by—ready to save as much equipment as possible if the bladewind arrived before the battle began. However, that would be a serious setback under the circumstances, and everyone was praying the sky would stay clear for another day.
+
+After checking in with his weather-sensing trait and getting the all-clear, Nick continued his inspection. More teams were down in the canyon, making sure the defensive installations were ready to withstand the flooding and the freezing to follow. He only had a rough idea of what the engineers and elemental mages were up to, but he trusted the specialists to do their job and was confident Team Earth could deal with the swarm of beasts.
+
+That just left the wurm itself. It was so big that he doubted the siege weapons could deal serious damage, and even if Sonic Slice was strong enough to cut it, it was so massive that its critical organs were too deep for his finishing move to reach.
+
+Right now, the plan was to wipe out the construct’s elite guards, neutralize its tongue, then drop some big boulders on the wurm to soften it up. Then Nick’s team would unleash their strongest attacks and pray it was enough to crack the big beast’s defense. As the horde was eliminated, more parties would focus on the boss, until all of Team Earth’s might was focused on a single point.
+
+“This is amazing.” Nick clasped Kenji’s shoulder. “I can’t believe you got this all set up within a couple of days.”
+
+“Thanks. Although I can’t take all the credit. Most of our elites have been working on their own plans to take down a boss while crossing the badlands. Some of them were ready before I arrived, although I’d like to think my contribution will make a difference. If we can’t kill the burrowing bastard after all this and have to settle for a City Boss instead, I’m going to cry.”
+
+Nick laughed and then got out of the way, heading back to base camp to meet up with the people he would be fighting beside tomorrow. He stepped into the hollow mesa, where a flurry of activity met his gaze. Everywhere he looked, people were in the middle of one preparation or another, getting their teams and gear ready for the big fight.
+
+He still had an hour before the meetup, so he spent some time touring the camp, getting a better sense of the operation while mulling over a few ideas of his own. When he asked why there was a line leading to a small tent, he learned some of the mages were treating people’s boots with a spell that would keep them from slipping on the ice.
+
+The effect would only last for a few days, but it would grant the entire army what was effectively a short-lasting item modification. It was a type of magic Nick hadn’t seen before, which the mages were calling enchantments. Enchantments generated passive effects that endured until their magic ran out, unlike imbuements, which stored a spell until it was triggered—like the land mines the mages were making out of rocks.
+
+Nick’s new boots already had a no-slip coating, so he didn’t need it himself, but he was deeply impressed. Even without much experience in large-scale military tactics, he could see the value of being able to swap out various enchantments and imbuements on the fly, granting Team Earth temporary capabilities designed to tackle specific obstacles and problematic enemies.
+
+After grabbing a sandwich from the mess hall, he walked over to where an illusion of the wurm and each type of minion were in full view, letting everyone get a better sense of what they would be fighting. He learned that Sarah wasn’t the only one who could craft lifelike illusions, and he could already tell this type of magic would have a wide range of uses both on and off the battlefield.
+
+Being able to create images on demand has a ton of applications for teaching and training. I can’t wait to see what the light mages come up with next.
+
+Nick took a long look at an animated illusion that outlined the plan for tomorrow’s battle. It showed the wurm arriving to take the bait, the mages flooding the canyon and creating the ice, then transitioned to how they expected the swarm to behave once the boss let it loose. It also showed the position of each team. The ranged and siege squads would stand along the canyon’s walls, where they could fire at the insects below.
+
+Defensive squads would guard them from any slicers or stingers that approached their positions. Skirmish squads with highly mobile members would stand in reserve, lending their strength as needed.
+
+Down in the canyon, the biggest group would be fighting the slicers. A smaller team of heavy hitters would deal with the bashers, while the most powerful elites tackled the wurm itself. The support squad was in the middle, where their auras could reach most of the army. Everything would change as the battle progressed, but their core formation looked rock solid from Nick’s perspective.
+
+He stopped long enough to memorize the various troop positions, and the spot where his kill team would assault the boss. He marveled at how different this engagement would be from their battle with the Guardian, where his people had been forced to enter the battle blind and with minimal prep time.
+
+By now, it was only a few minutes until his meet and greet was scheduled to commence, so Nick went to find Veronica, Devin, and the rest of his team.

@@ -1,0 +1,123 @@
+---
+id: f7ad9d58-b1bf-5089-b5eb-d18d11e48a8e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: A Problem with Teeth"
+slug: 0281-chapter-1-a-problem-with-teeth
+partOf: labyrinth-of-the-mad-god
+position: 281
+ownLength: 2396
+unit: words
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3005998/chapter-1-a-problem-with-teeth"
+royalRoadId: "3005998"
+---
+
+Nick ran for his life with Kenji at his side.
+
+The lurk followed hot on his heels—five tons of furious dinosaur that was gaining on him with every step he took. His heart pounded like a taiko drum and adrenaline coursed through his veins as he tried to figure out what had gone wrong.
+
+The System said we would be paired with two friendly beasts. Why did it bring me to the only beast I know that wants to rend me limb from limb?
+
+Most people wouldn’t be able to unpack the dynamics of their situation while being chased by an apex predator, but this wasn’t Nick’s first rodeo, and his superhuman Mind let him divide his attention without losing focus on his surroundings.
+
+Part of his awareness was devoted to picking out a path, trying to find somewhere to hole up while he figured out how to handle his precarious predicament. He couldn’t use Force Acceleration without leaving Kenji behind, and he was worried that killing the lurk would result in him failing the System’s quest.
+
+Bandit is here too. There must be more to this situation than meets the eye… Both trains of thought were derailed when the men turned a corner and found themselves in a shallow alcove facing a brick wall.
+
+“It’s a dead end.” Kenji reached behind his back and detached his spear from the magic strap that made the weapon shrink to the size of a child’s toy.
+
+Nick swore and spun around—fingers gripping Blightbane’s hilt as he got ready to unleash a Sonic Slice.
+
+That was when he realized the lurk had stopped chasing them.
+
+It was standing twenty feet away, blocking the only exit while staring down at him with immense satisfaction.
+
+The towering beast opened its mouth and roared—a primal scream saturated with the thickest killing intent he’d ever sensed. He bowed back like a willow in a gale before his own killer instinct flared to life, becoming a roaring bonfire as Predatory Domain exploded from his position without waiting for a conscious command.
+
+The lurk cocked its head when the psychic assault hit it—impressed that he had returned its challenge in kind. The colossal killing machine closed the distance step by step, savoring the moment as Nick got ready to unleash his strongest attack.
+
+He didn’t want to fight without understanding what was going on, but it looked like he didn’t have a choice. He switched on Force Acceleration, causing a dense layer of force mana to encase his body, multiplying the velocity of every move he made.
+
+He angled his Half-Length Scabbard so the draw-speed bonus it provided would send the sword screaming for the dino’s muscular neck, knowing that he was only going to get one shot at this.
+
+A heartbeat before activated Heavy Blow to create a supersonic blade of force mana, a furry shape darted between the dinosaur’s legs then spun to face the lurk with fury etched into his primate features.
+
+Everything that had happened so far had been one hell of a surprise, but it was nothing compared to the astonishment Nick felt when Bandit spread his arms wide and yelled, “What are you doing? We’ve discussed the matter at length, and you promised you wouldn’t eat him!”
+
+The lurk grunted by way of reply—gaze never leaving his own. Even though the dinosaur didn’t communicate in words, he could still get a sense of what it was saying. In this case, he thought it was something along the lines of, “I won’t eat him, but I didn’t say anything about hurting him a little.”
+
+“No,” the furious lemur replied. “This behavior is unacceptable! We are going to be working as a team for the foreseeable future. You aren’t allowed to eat Neek or hurt Neek. Same goes with his distinguished companion. Do I make myself clear?”
+
+The lurk bared its teeth and issued a growl that rattled his bones… then backed off and withdrew its killing intent.
+
+High Mind or no, Nick’s brain was still catching up to this topsy turvy chain of events. He wasn’t convinced that the lurk wouldn’t change its mind and attack, and he was thrilled to have been reunited with an old friend despite the bizarre circumstances.
+
+But more than anything else, he was shocked to his core when he processed the fact that Bandit could talk.
+
+After meeting Nightsong and the other coyotes, he shouldn’t have been surprised that Bandit could speak, since the intelligent lemur had demonstrated a good grasp of language all the way back on the Searing Isle. While the vocalizations were comprised of the same grunts, chitters, and screeches the furry beast had always made, the translation provided by Gift of Tongues conveyed a posh accent that suited the cheeky little bastard to a tee.
+
+The lemur and the dinosaur went back and forth a while longer, then Bandit turned to face the men and came scampering over, throwing himself into Nick’s arms to deliver a hug that creaked his ribs. Since it didn’t seem like they would be fighting after all, he gave himself to the moment and hugged his friend back.
+
+He had been wondering how the lemur tribe was doing ever since being separated at the end of his tutorial—where they had saved each other’s lives more times than he could count. He was thrilled that the inquisitive primate was alive and well, although it was obvious that Bandit had undergone countless trials of his own since they had last seen one another.
+
+“I’m sorry about that.” Bandit leapt back to the ground. “When the Voice let me know you were coming, I tried to make sure this bloodthirsty brute wouldn’t rekindle your rivalry, but wounded pride heals far slower than flesh.”
+
+The lurk grunted as the beasts walked back the way they had come, with Kenji and Nick following a safe distance behind.
+
+Nick didn’t trust the towering predator, but the lurk didn’t seem inclined to press the matter right now. He considered bringing up Bandit’s pronunciation of his name but decided to wait until they had a chance to catch up first.
+
+While they walked, he took a good look at both beasts—whose appearances had changed considerably since their ordeal on the Searing Isle.
+
+Bandit was a bit bigger than before, although he was still only half Nick’s size, which seemed to be a natural feature of the lemur’s biology rather than a direct indication of his advancement. However, the mana emanating from Bandit’s core and the feedback provided by Size Up told Nick that his friend had gone through changes that were just as profound as his own.
+
+The fact that parts of the lemur’s body were made of shadows and living flame was a pretty big clue all by itself. One eye was comprised of roiling black blaze with a dot of yellow in the middle, granting Bandit a striking appearance and a piercing gaze.
+
+One arm, ear, and the lemur’s tail were formed from a blend of darkness and fire mana instead of flesh and blood, although, when he had clutched Bandit to his chest, the new limbs had felt solid and didn’t burn his skin.
+
+He had the sense that his level and attributes were superior to the beast’s, and their abilities and species grade were comparable. But something about the quality of the mana running through the lemur’s energetic network and the essence coiled around his core told Nick Bandit’s tier was higher than his own.
+
+He must have figured out how to create his Concept. I should ask him for advice since Kenji and I are ready to do the same. After examining his friend, he turned his attention to his rival—the dinosaur that had almost ended his life on the Searing Isle but spared him in the final moment when they were standing in front of the portal.
+
+When Nick had encountered the lurk in his tutorial, the beast had been covered with shaggy gray fur that made it blend into the shadows. Now the fur only formed a mane around its neck, a big wedge down its back, and a few tufts around its elbows and knees.
+
+Since the dino was still tier one, the changes must have come from another source. It was still a juvenile back then, he realized. Now the beast was full grown, and twice as big as before. Its skin was a deep gray green that would still be good camouflage in most environments.
+
+The lurk had lost an eye near the end of their tutorial, during its tussle with the thing in the sea. It still sported a massive scar running down one side of its face, but its missing eye was back, although it was considerably lighter than the other fist-sized orb.
+
+The predator was tough, strong, and mean, and while it didn’t seem to be able to speak, it was clear that it was even smarter than before. As they reentered the saferoom and stood in a circle, Size Up filled in a few final details.
+
+The beast had incredible raw attributes—a natural consequence of being a dinosaur the size of a small house. Otherwise, the lurk’s advancement was in the same ballpark as his own. He had the sense that his abilities were higher ranked while the dino had the advantage in skills.
+
+Nick honestly wasn’t sure who would come out on top if they went at each other with everything they had. He had no desire whatsoever to find out, although the lurk seemed like it would be more than happy to settle their grudge.
+
+Kenji had been silent up to this point, letting Nick take the lead until he understood what was happening. Now that it seemed like they wouldn’t be killing each other after all, he bowed to both beasts and said, “My name is Kenji, and it’s a pleasure to make your acquaintance. Nick told me about your adventures on the Searing Isle, but he didn’t mention how impressive the two of you were.”
+
+Bandit preened at the compliment and the lurk muttered, although Nick had the sense the beast was pleased. The lemur walked over to shake Kenji’s hand. “The name’s Bandit, and any friend of Neek is a friend of mine.”
+
+By this point, Nick’s nerves had calmed and his brain had caught up with the bizarre turn of events. “You know my name is Nick, right?”
+
+“Of course,” Bandit replied, then issued a cackle that contrasted with his refined turn of phrase. “But I’ve been thinking about you that way for so long now that I’m not going to change. Besides, you got to name me. It’s only fair that I return the favor.”
+
+Nick shrugged and conceded the point, though he had a sneaking suspicion that people were going to be making fun of him about this for the rest of his life. He glanced at Kenji, whose innocent expression only confirmed the fact. Yup, I’m not getting out of this one.
+
+“She likes the name you gave her too.” Bandit gestured to the dinosaur looming above his head. “Although she wants to be called Lurk, rather than ‘the lurk.’ Given her enthusiasm for violence, I suggest you humor her.”
+
+Nick hadn’t realized that the lurk… that Lurk was female, but he honestly hadn’t thought much about the dinosaur’s gender. “Fair enough. Lurk it is.” The dino flashed a toothy grin as he continued.
+
+“On the subject of introductions, Kenji is a skilled warrior and the finest tactician I know. We wouldn’t have been able to save the Earth without him, and I’m honored to count him as a friend. Same goes for you, of course. I wouldn’t be standing here if the tribe hadn’t helped me back on the Searing Isle.”
+
+“The feeling is mutual. We wouldn’t have made it without you either. Before we go any further, let me share what I’ve learned about the abominations known as dreadbeasts. The tribe had to deal with the horrible creatures while you were climbing the tower, which is how I wound up in my present state.”
+
+With that, Bandit launched into the tale of his epic battle with the dreadbeasts that had invaded their world while the men were undergoing the Fate of Earth quest. It was a riveting story, full of fierce fights and noble sacrifices. After recounting the tribe’s early conflicts, Bandit shared his showdown with the tiger king—a dreadbeast monarch far more powerful than the rest.
+
+“When he died, all the essence he’d absorbed flowed into me, catalyzing the formation of my Concept and granting me this amazing new body,” the lemur arrived at the end of the story.
+
+“After that, we finished off the rest of the corrupted tigers with the help of some neighboring beast tribes, which is where I met Lurk, and we haven’t seen any trace of them since. It only furthers my suspicions that the dreadbeast’s emergence on our planet was no natural occurrence. My instincts are screaming that something orchestrated the entire series of events, which is why I was so keen on accepting this quest. It's imperative that we understand the dreadbeasts’ true nature so we can purge their taint wherever we find it and make sure our home is never infected by their filth again.”
+
+Nick was still floored by how intelligent the lemur had become. No matter how smart awakened beasts were, he simply shouldn’t have enough experience to understand some of those concepts. When he broached the question, Bandit explained that when he absorbed the tiger’s essence, some memories had come along for the ride.
+
+They didn’t belong to the dreadbeast monarch. Bandit believed that a powerful entity had been involved in the tiger’s corruption, and that a trace of its power lingered within its creations—a being he considered to be just as dangerous as the Mad God.
+
+Nick didn’t know what to make of the situation. However, the multiverse was a big place, and he wouldn’t be surprised if there were other entities out there whose power rivaled Taltos and the System.
+
+For all I know, they are players in a grand game on a scale far beyond anything I can comprehend. Hopefully, Bandit can find a way to keep the dreadbeasts from showing up again. The Earth has enough on her plate as it is.

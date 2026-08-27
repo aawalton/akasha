@@ -1,0 +1,181 @@
+---
+id: 1f9d87ba-d30e-581a-afc1-ebd432ff01c9
+page-type-slug: story-chapter-royal-road
+title: "85 — Book 2, Chapter 33 — Of Knights and Souls, Pt 4"
+slug: 0085-85-book-2-chapter-33-of-knights-and-souls-pt-4
+partOf: just-add-mana
+position: 85
+ownLength: 3451
+unit: words
+ownProgress: 3451
+publishedAt: 2026-01-10
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2930016/85-book-2-chapter-33-of-knights-and-souls-pt-4"
+royalRoadId: "2930016"
+markedReadAt: "2026-06-29T18:50:33.025Z"
+---
+
+In retrospect, Cale thought he should have known something like this was coming, considering how many named mythologies had shown up in his newer spell evolutions. He'd been hoping it was just a coincidence, but clearly, it hadn't been.
+
+This was something that tended to happen whenever the Named were paying attention. Not like this, necessarily, since other realms didn't exactly have the Gift, but even the weight of their attention had an impact on magic and how it functioned.
+
+The fact that he'd gotten a spell that outright summoned one of the Named staggered him, though. The Named could make an appearance every now and then—his own history with Hephaestus and several of the other Named proved that—but only in very limited circumstances, and there were no rituals or spells he knew of that could summon them like this. They could manifest if and when the conditions were right, and no mage could just replicate those circumstances at a whim.
+
+Except him now, apparently. For all the good that did him. It was likely to be more trouble than it was worth.
+
+For one thing, his relationship with Hephaestus was complicated. The god of blacksmiths was as likely to help as he was to mess with him just because he could. For another, now that he'd summoned the guy, Cale had no doubt that it was only a matter of time before the others learned he could. He'd be surprised if the rest of the Named didn't know already.
+
+And that was a problem.
+
+Because there were rules. The Named were practically defined by those rules, in that they were incapable of taking action outside of them; if they weren't, they would have run rampant across the realms a long time ago. The stability of the Great Realms meant very little to them, and their power allowed them to ignore any of the restrictions otherwise placed by the nature of magic or the realms.
+
+It was a tradeoff. Their impossible power came at the price of an impossible existence: as far as the Great Realms were concerned, the majority of the Named simply did not exist. They were instead a wellspring of potential—each of the Named were a series of conflicting myths, with no set origin—connected to each of the Realms, and they were able to act only when circumstances allowed them to coalesce into something whole.
+
+For that moment, they would have a set, determined history, a single origin plucked out of contradiction and paradox. For that moment, they had a mind and an identity.
+
+But only for that moment. Afterward, they would dissolve again into raw potential. It was no surprise, then, that the Named chafed against what they saw as a form of imprisonment. Some of them accepted things as they were, certainly, but a larger fraction were desperate for any form of escape. A way to become permanent.
+
+Cale had encountered the Named before, and he'd learned that he was something of a unique existence to them. When any one of the Named met him, they were able to persist for far longer than any of their usual manifestations. Hephaestus, for instance, had manifested before him when he was in the process of trying to seduce and convince the queen of a group of lava elementals not to go to war.
+
+It had been a bit of an awkward interruption. Especially since Hephaestus kept refusing to leave.
+
+In any case, it was bad enough that he was wanted by the Named for that particular trait of his. If they found out that he could also evolve spells that outright summoned them, meaning he could create spells that would force a manifestation, he would probably never hear the end of it.
+
+As much as he would have loved to convince Hephaestus to keep this a secret, though, Cale was pretty sure it was a lost cause. Sisyphus was nearby and had likely already noticed; even if he hadn't, he was basically certain the other Named were already watching. Nosy little probability clouds that they were.
+
+He had bigger concerns at the moment, anyway. Namely the Red Knight, who he now knew was the Icon of Battle.
+
+Icon wasn't supposed to look like this.
+
+The Icon of Battle he had known was made out of countless interlocking plates weaving over one another. Half those plates were made of calcified shadow, and the other shimmering light; they met at the center in an endless interplay, always seeking territory but never succeeding.
+
+The Icon he was looking at now was, by contrast, oddly mortal-looking. Its armor had been repaired by the transformation [Karmic Upheaval] had forced on it, so it no longer looked like it was partially composed of shattered glass, but even without that it was so clearly, achingly vulnerable compared to what he remembered. This form was a mortal one, with all the limitations that went with it. It looked a lot like the mortal form that Icon could occasionally take, except...
+
+Well, except Icon was bound to this form. Deeply.
+
+A Monolith taking on a mortal form was nothing new. It was a necessity, if they wanted to visit any of the realms. None of them could bear the expression of a Monolith in its entirety. But those mortal forms were also necessarily temporary. They couldn't contain the full weight of a Monolith's existence any more than a realm could.
+
+So how had someone managed to do this to Icon?
+
+Its body was shrinking back into something more manageable, at least. As the effects of [Karmic Upheaval] faded and the haywire magic within Icon's body slowly came to a rest, it returned to what looked like a pristine version of the form it had taken in the beginning. The armor of a knight, its plating a deep blue with a golden trim. It was taller than Cale still, but not by much.
+
+Cale hurried over the moment it shrank, kneeling by its side. Icon wasn't completely unconscious, but it was unable to move. Whatever magic had compelled it and kept it alive in its shattered state had also been supplying it with magic.
+
+"I've seen something like this before, I think," he said after a moment, glancing up at Hephaestus. The Named was staring impassively down at the two of them, and Cale had the distinct impression that he was still trying to decide if he wanted to help them or make some absurd demand. Best to continue before he could come to a decision. "Puppetry magic. If a good puppeteer mage manages to find a body right on the verge of death, they can freeze the body in a sort of permanent stasis, preventing it from healing or dying."
+
+"Puppetry magic should not be able to affect a Monolith," Hephaestus pointed out.
+
+"Not one that's in their true form," Cale agreed. "But if they find a Monolith in a mortal body right before the mortal body dies..."
+
+"It would still take an absurd feat of mortal magic." Hephaestus sniffed. "The soul manipulation required alone is a tier above what an archmage should be capable of."
+
+Cale was silent for a moment. "I'm not convinced whoever did this was mortal," he said quietly.
+
+Hephaestus grunted, but didn't disagree, and Cale continued by closing his eyes and running his mana sense over Icon's prone body. Hephaestus was right, he found. This required a feat of soul engineering that was far beyond any of the liches Cale had ever known. Icon's soul had been carefully anchored a set distance away from its mortal body. Near enough that it was still technically present, but not so much that it completely filled the vessel.
+
+Instead, whoever had done this had intentionally left just enough space for a different, artificial soul to be implanted in its place. That soul wasn't a true soul, and instead acted as a filter—a "mind" for the otherwise overwhelming presence of the Monolith behind it, one that could be made perfectly obedient to the spellcaster's whims.
+
+That underlying soul-engineering spell was still present, as far as Cale could tell. [Karmic Upheaval] had been able to destroy the artificial soul, given it acted essentially as a form of control, but it couldn't replace it with a different one. And that meant there was now just a void inside of Icon where a soul should have been.
+
+Which explained its inability to move, but didn't give him any solutions. Cale couldn't just destroy it, even if he wanted to; Icon was already only tenuously attached to its mortal vessel, and the Law of Arbitration he upheld was still severely damaged, kept in stasis by a puppeteering spell. If he dispelled it, he risked damaging the Law further and losing Icon entirely, and if he increased the strength of the anchor, the mortal vessel would eventually expire to the same result.
+
+To say that Cale was angry would be an understatement, but he tried desperately to keep it under control for Icon's sake.
+
+"Cale..." Icon whispered. There was something important it wanted to tell him, judging from its expression, but it was struggling to even speak. Cale shook his head.
+
+"Stop. You'll break your vessel," he said. "I'm going to fix this. Just... give me a moment. I need to think."
+
+"That soul anchor is a problem," Hephaestus commented. Cale bit back his first response, which was to snap at the god—he did not need one of the Named on his back at the moment—and instead gave him a terse nod.
+
+"It is," Cale said. "I don't suppose you can make him a replacement artificial soul?"
+
+Hephaestus shot him a withering look. "Do I look like Psyche to you?" he growled.
+
+Cale ignored him. It had been a long shot regardless, but he needed to help Icon. He couldn't lose another friend from the Planar War. Not when that friend was right in front of him.
+
+He'd thought Icon was gone. Like Vital, Icon had gone missing during the Planar War, although he was less certain that Icon had died. The memory magic must have been cast in the interim between Yggdrasil's destruction and the Leviathan's twentieth-tier [Abyssal Suspension]. In the time the Great Realms were in chaos, the Monoliths had all been distracted, which was about the only time twentieth-tier magic like that could be cast without alerting all the Monoliths immediately.
+
+Cale remembered searching for Icon, desperate to get it somewhere safe, but he'd been unable to find it before time ran out. After that, the world ended, and in all the lives he'd lived after he had no memory of Icon.
+
+To think that his friend might have been stuck like this that entire time...
+
+But that wasn't a productive line of thought. He needed solutions, and he needed them soon. The gap in Icon's vessel could be taken advantage of by pretty much any stray soul, or possibly even the original control spell if they left the tenuous safety of the realm overlap they were in. Cale held no illusions about the potential range of such magic. The planar boundary was protection, after a fashion, but it was limited.
+
+Then he jolted. There was a potential solution here. It would solve two problems at once—their original plan had called for simply rescuing Angus's soul and allowing it to pass on peacefully, since they had no magic that could create a body for him, but—
+
+"You have a solution," Hephaestus said, looking at him.
+
+"Maybe," Cale said, pacing. He glanced at Icon, then at the shadow of Yggdrasil in the background. That wasn't even the real tree. He'd thought at first it was mocking him, but now, with a little more context...
+
+Vital's here, too.
+
+"I need to talk to everyone involved," he said abruptly. "Help me bring Icon to that tree? I could use the help."
+
+Hephaestus narrowed his eyes at him, then gave him a curt nod. "You realize we'll have to talk about this later," he said, willing his chair over to Icon and picking the vessel up by his arms. He did it with an embarrassing amount of ease, while Cale found himself struggling with the weight of the legs.
+
+"About what happened last time?" Cale grunted.
+
+"About the fact that you just summoned one of us." Hephaestus's tone was grave. "You know what that means."
+
+Cale hesitated, but he knew there was a good chance he'd still need the god's help. He nodded tersely. "Fine. Later."
+
+Back before the fight between the two behemoths had finished, Syphus was working on putting Angus's soul back together.
+
+The golem had to admit that it was frustrated, although it desperately didn't want to. Frustration didn't sit well with it. It was much easier to coast through life indifferent to most things besides sand and battle.
+
+It had been ecstatic when they first came up with the plan, if mostly because it had been adamant that spell slime was obviously useful and it was now getting to prove the point to its friends. It had not, however, anticipated that it would end up missing what was very clearly the fight of the century in the process. Whatever else could be said about its proclivities, it really liked magical violence, and it was missing the greatest show of its life.
+
+That didn't stop it from helping anyway. It had lived a long life, even if most of that life had served as nothing more than a rock being rolled up a hill by a very, very lonely man. It knew what it was like to have only a single purpose and be unable to move away from it, and it knew what it was like to have that purpose forced upon it.
+
+Its relationship with its creator had not been healthy, at first, though it suspected no one would be surprised to know that. The first thing Sisyphus had learned to do was to imbue it with a consciousness, with the majority of the golem and construct-based magic coming later, after centuries of careful observation of mortal magic. That left it completely dependent on Sispyhus for any kind of stimulation and unable to act on its own.
+
+As a result, Syphus was very aware of what it was like to be helpless. That vision it had witnessed—of Angus accomplishing something he had dreamed of his whole life, only to have it ripped away at the last moment and turned instead into a weapon against his own clan, forced to repeat the same pattern over and over—stirred a great deal more anger than it realized it was still capable of containing. It had endured Nala Whiteleaf's taunting without reaction, but this?
+
+It had not been the first to step up to stop Cale from destroying the storm. At the time, it hadn't really cared what would happen to Angus. But now it was glad that Damien had thought to do so, and it was gladder still it could help.
+
+...Even if Syphus was still upset about having to miss out on the fight. It had witnessed a few seconds of it before Damien had called it over, but even those few seconds had been awe-inspiring to witness. Fiery serpents called out into the air to fight some reality-shattering knight? That was the stuff of its dreams.
+
+Ah well. It would just have to ask Cale to show off some of his new spells later. The small amount of the battle it witnessed was itself enough to give it some ideas; the incorporation of ritual spells, for instance, into the rhythm of the battle? That was inspired. If it learned more about rituals, it was certain it could incorporate that sort of magic into the firing of its spell cannon.
+
+For now, it focused on channeling the Spark that Flia granted it into the undifferentiated transformation magic it had learned. Its left arm turned transparent, then began to melt, unable to hold the false transformation. Spell slime, in other words. A product most mages considered to be a failure.
+
+In this case, however, it was made out of pure magic and imbued with the Spark, which meant it was tangible to the pieces of Angus's soul and could be used to help put it back together. It just needed to... well, actually do that.
+
+Syphus stared awkwardly at the pile of soul fragments waiting for it.
+
+"This might feel strange," Syphus said eventually, though it had no idea whether or not the lizardfolk could hear it. Could disembodied souls interact with the world around them? Angus hadn't been conscious of anything until Flia had intervened, as far as it knew. "Or it might be a little awkward. I guess let me know if you need me to stop?"
+
+There was no response, which Syphus probably should have expected. It began slathering Spark-imbued spell slime all over Angus's soul and pressing the fragments together, though it had to find two pieces that fit first.
+
+For anyone else, the task might have been difficult. Each soul fragment was uniquely shaped, influenced by scars and torn roughly apart. It was incredibly hard to tell if two fragments belonged to one another. Soul repair of this type did exist, as rare as it was, and Sisyphus whispered into its mind that most mages who tried something like this took multiple days to put all the pieces of the target soul back together.
+
+Fortunately, Syphus was not most mages. It had centuries of experience putting broken rocks together, and as far as it was concerned, a soul was just a very funny type of rock.
+
+It set itself to work.
+
+Flia paused, briefly distracted from the battle outside when she glanced back at Syphus. The golem was putting the fragments together remarkably well. She could feel Angus slowly resolving into a single being, piece by piece.
+
+"Were you always this good at puzzles?" she asked. She turned to Damien, Leo, and Kazza. "Has Syphus always been this good with puzzles?"
+
+"What?" Leo asked, distracted. His eyes were glued to the fight, and he pushed up his glasses before jotting down a few more notes. Flia sighed, then turned expectantly to Damien. It took the dreadshade a moment before he realized Flia wanted an answer.
+
+"Probably?" Damien offered up hesitantly. "We haven't known each other for that long. I'm glad, though. Angus has been like this for long enough."
+
+"I guess you aren't wrong, there," Flia admitted.
+
+She glanced at Kazza. Unlike the others, the lizardfolk hadn't turned to look at the massive battle outside. Instead he kept his gaze fixed on the soul fragments that had once been an elder of his clan. When he spoke, his words were quiet.
+
+"I do not know your friend," he said. "But I am glad it is here."
+
+Angus of the Golden Sands didn't know how much time passed before he became fully cognizant of his surroundings. The first thing he saw was what appeared to be a golem staring proudly at him, some sort of bizarre slime on its fingers while it patted him. Then his attention was dragged away by the door bursting open, followed by a tall, broad-shouldered man in a floating chair coming in and dragging an enormous suit of armor with him.
+
+Something in the air seemed to change with his presence. It took Angus a moment to understand what it was. He'd seen it in a few of the legends he read about, tales of mythology come to life—tales of the Named, specifically. They were supposedly gods among gods, with motivations no mortal understood and a control of reality that defied all known magic.
+
+What was one of the Named doing here?
+
+And then before Angus could finish processing that, the golem met the eyes of the Named. The presence of a second Named suddenly erupted from the golem, the air between the two crackling under their collective power with enough force to make everyone present freeze.
+
+Everyone except one human, apparently. Angus hadn't noticed him before, but he had his own presence, distinct from the rest, and he gave the two Named an irritated glance. "No," he said. "Absolutely not, you two. If you're going to start something, do it outside. I have a friend to save."
+
+Something about the way he said that made something click inside Angus's mind. He stared, disbelieving, at the human. "You're the Wanderer," he said.
+
+The human smiled at him, but there was something old and sad and ancient in that smile. "That's one of my names, I suppose," he said. "I go by Cale these days. Mind if we have a little talk?"

@@ -1,0 +1,211 @@
+---
+id: 7e8ebca5-1eb8-5542-bc18-25e0913d426f
+page-type-slug: story-chapter-royal-road
+title: "73 — Book 2, Chapter 21 — Eye of the Storm, Pt 1"
+slug: 0073-73-book-2-chapter-21-eye-of-the-storm-pt-1
+partOf: just-add-mana
+position: 73
+ownLength: 3390
+unit: words
+ownProgress: 3390
+publishedAt: 2025-12-13
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2844634/73-book-2-chapter-21-eye-of-the-storm-pt-1"
+royalRoadId: "2844634"
+markedReadAt: "2026-06-29T18:50:08.488Z"
+---
+
+Cale generally tried not to be angry too much of the time. Mostly because it was unhealthy, and he had it on good authority that it was bad for his heart. At the time, he'd pointed out that he would just end up with a new heart, because that was how reincarnation worked.
+
+But sometimes he had lives that he wanted to keep more than others, and this was one of them. Which meant that it wasn't a great sign that he'd gotten truly angry more than once already, despite only having been on Utelia for a few days. The realm seemed determined to test him.
+
+The good news was that he had, through his many lives, technically developed a great number of ways to keep himself from getting angry too often. His slightly absurd sense of humor was one of them, and his ability to compartmentalize was another. The latter was usually enough to keep him calm in most situations.
+
+Usually, anyway. Sometimes there was a little too much to compartmentalize and stay calm.
+
+Thankfully, he hadn't actually crossed the point of no return yet. He could feel it boiling in the back of his mind, but until he confirmed what was happening here—and even then, until he actually saw it for himself—there was no great risk of it boiling over. That was good, because the Brightscale Academy wasn't a great place for him to lose his temper.
+
+But he could feel it coming. The more he knew about the Aspect Cascade, the less he liked it. He'd started with an inkling suspicion that was now developing into a near certainty, and if he was right...
+
+...well. Suffice to say that he really, really hoped he was wrong.
+
+That was about as much thought as Cale wanted to give the matter until he could confront the Aspect Cascade itself.
+
+It didn't take them that much time to create something that would increase the effect of the auric amplifiers, at least. He and Professor Tarbloom worked together and hastily, haphazardly managed to build a compounded amplifier using a variety of mana-conductive sticks and "glue" that Tarbloom donated from their own body.
+
+The whole thing looked ridiculous when it was done. It resembled a child's attempt at modelling a flower out of sticks, with a spiral of the stone amplifiers trailing down to the center of the structure before blooming outward again. That was fine, though; it didn't need to look good, it just needed to function.
+
+Cale compressed the storm within his barrier as much as he could, forcing it smaller and smaller until it was about the size of a brightly-colored, buzzing marble with magic so dense it altered the flow of all the ambient mana around it. Kazza stared at him with wide eyes, struggling to process the impossibility he was witnessing, but Cale was in no mood to explain.
+
+Instead, he placed the Cascade marble at the tip of a petal, allowing the barrier to make contact with the amplifier that had been stuck there. Very, very carefully, he began to thin only the part of the barrier that made contact with the stone, weaving his intent away just enough for whatever remnants remained of the Aspect Cascade's will to leak through.
+
+That first amplifier cracked and shattered almost immediately, which was no surprise. They'd been expecting it, and by the time it shattered it had already grabbed at the thin wisp of intent that flowed from the storm. The precariously-balanced sticks then conducted that will forward, sending it spiraling toward the next stone—which also immediately exploded—then the next and the next.
+
+Cale held on to the final stone in the pattern, retracting his barrier just enough to let it shatter in his palm. He didn't flinch when the shards of the broken stone cut into his hand, but after a moment, his expression grew heavier.
+
+"You're right," he said shortly. His words were slightly distant as he took a deep breath, focusing on keeping himself calm. "It's scared and desperate. And a lot of other things. We need to find a way to get to the Golden Sands."
+
+Kazza looked bewildered but hopeful at the sudden declaration. Before he could say anything, though, Professor Tarbloom frowned. NOW? they wrote. WHILE YOU HOLD THE STORM?
+
+"I know teleportation won't work," Cale said, guessing at the professor's concern. "Storm's too mana-dense to carry along with us. We'll need another way. I'm going to go see if Akkau has anything that might get us there."
+
+"Cale, is everything okay?" Flia asked hesitantly, staring at him. She'd evidently noticed the shift in his mood.
+
+Cale just held her gaze for a moment, then shook his head. Not now.
+
+He didn't trust himself to explain. It was better for them to get to the Cascade itself so he could confirm the worst of his fears and do what he needed to do, preferably before he thought too much about it. If he let himself dwell on it, he wouldn't be able to do it.
+
+He always hated it when things came to this.
+
+Kazza was staring nervously between the three of them, looking almost as lost as the rest of the class. It probably would have been better to send them away before studying the storm in earnest, but it was too late to change that now. Most of the students were murmuring among themselves but were too afraid to ask anything, which was about the best he could hope for.
+
+"Kazza?" Cale prompted. "Do you know where Akkau is?"
+
+Before the lizardfolk could answer, Cale felt a flash of teleportation magic. Akkau strode into the room, three people trailing behind him. Members of the Orstrahl delegation, Cale assumed; there was a beautiful elf who stood tall right behind him, then two others. One was a goblin, and the other wore a dark cloak and a hood that hid most of their features.
+
+Cale's mana sense brushed lightly against the second one, and his brows furrowed slightly. Skeleton. And not just a summoned minion, either. This was the sort of skeleton that only advanced necromancy could bring about, with a fully-realized mind and will of his own. There was no indication of any control magic being used to direct him, which meant he was there of his own free will.
+
+Interesting. He wondered what that meant, though he was a little more worried about the storm for the moment.
+
+"No need to find me," Akkau said dryly. "I have been watching. As have the visiting members of the Orstrahl delegation, as you may know. We will discuss this, but first, I am afraid the rest of Magical Critters is canceled. If you are a student and not my apprentice, please file out of the classroom in an orderly manner and return to your dorms to prepare for your next class."
+
+There was a bit of grumbling, but most of the students knew very well they were in over their heads. Flia frowned and crossed her arms over her chest, though. "I'm staying," she said stubbornly.
+
+Akkau regarded her for a moment, then chuckled. "I expected as much," he said, inclining his head. He waited for the rest of the class to file out before whispering a quick incantation, and moments later, an anti-scrying ward descended over the now mostly-empty classroom.
+
+"Introductions first," Akkau said. "Cale, this is Naria Greenthistle, head of House Greenthistle, a newly formed noble house of the Orstrahl Kingdom. Naria, this is Cale Cadwell Cobbs, my apprentice."
+
+"What about the other two?" Cale asked, eyeing them briefly.
+
+"Members of House Greenthistle," Naria said smoothly, gliding forward. "They are here to accompany me, nothing more. A pleasure to make your acquaintance, Cale."
+
+She was a beautiful woman, and she made no attempt to hide the fact. If anything, Cale thought she was probably trying to seduce him, considering she was nearly pressing herself against him. It might have worked if she'd tried it at about any other time.
+
+"Can you get us to the Golden Sands?" Cale asked Akkau instead, ignoring the brief flash of outrage on Naria's face. She said nothing about it, though, simply gliding back to her position next to the other members of her House.
+
+Akkau seemed slightly amused by this, but didn't comment. Instead, he made a considering noise. "How certain are you that you can end the Cascade?"
+
+Cale noticed that Naria's eyes narrowed slightly at the question. So part of this was a show for the delegation, then? For what purpose? "Completely," he said.
+
+"And how important do you believe it is that you end it as soon as possible?" Akkau asked evenly.
+
+Kazza snarled with outrage at that, shooting out of his seat as if he was willing to confront the dragon himself for even suggesting that it wasn't an immediate emergency. "The Aspect Cascade has been devastating my home for two years," he said, almost trembling. "If you suggest that it is anything less than paramount to end it immediately—"
+
+"Peace," Akkau said, giving Kazza a significant glance. "I ask only to establish the limitations we are working with. I do not intend to change my apprentice's mind on the matter."
+
+Kazza froze, then forced himself to sit back in his seat. "I... apologize," he forced out. "For the earlier incident, as well. Your judgement is wise, Great One."
+
+Cale decided he liked the guy. He was willing to speak his mind, and also willing to back down if he was wrong. That was rare, in the Great Realms.
+
+"We do not need to go quite that far, I think. I am capable of making mistakes. You should ask Cale how we met." Akkau kept his tone light and faintly amused.
+
+"Akkau was handcuffed and shirtless," Cale said helpfully, making Kazza's eyes bulge as he promptly choked on nothing. "And to answer your question, I'd prefer we do it as soon as possible. As in, right away."
+
+Something about this was some sort of political maneuver, it seemed. Akkau wouldn't have brought those Orstrahl delegates with him otherwise. Cale had no idea what impression the old dragon was trying to give them, but he clearly thought it was important; Naria was studying the exchange carefully, as if not quite sure what to make of it.
+
+"That will be difficult," Akkau said, tapping his claws on Tarbloom's desk as he thought. "Physical transportation spells are generally less reliable than teleportation, and even less so when you carry such a quantity of mana with you. Before we proceed, however—Naria here would like your assistance with matters of their House should you succeed. Are you amenable to this?"
+
+Cale blinked, looking more carefully at Naria. He had no idea what she wanted out of him, if anything. "Sure?" he said, more confused by the request than anything else. "I don't see a problem with it."
+
+"Oh, how delightful," Naria said, beaming at him. "I look forward to working together, then."
+
+"Very good," Akkau said. "You see, Naria here apparently holds something over the other nobles in Orstrahl. They would be quite displeased if we were to interfere with their plans to... acquire... the Golden Sands tribe, and have prepared a Decree to penalize our academy should we succeed in ending the Cascade."
+
+"What?" Kazza exclaimed, shooting to his feet again. His tail swished behind him in agitation.
+
+"She has offered to nullify the Decree if you assist her with matters of the House," Akkau continued, as if Kazza hadn't said anything.
+
+"Akkau," Naria said, her tone suddenly sharper and with a hint of warning in it. "We did not agree to reveal this. Especially not to the lizard."
+
+"I do not understand," Kazza said.
+
+"Personally, I believe all parties involved should know the complete truth if we are to settle on an agreement," Akkau said with a shrug. "Kazza. Will you reveal any of this to any of the other Orstrahl nobles or their King?"
+
+"Why would I do that?" Kazza demanded. "Did you—did you want me to come here? Were you aware that Brightscale might have a solution that would not rely on Orstrahl's generosity?"
+
+Naria sighed. "Oh, very well," she muttered. "That is correct, little one. Do forgive the deception. There are spies all around Orstrahl."
+
+"But why aid Orstrahl at all, if you do not approve of their plan?" Kazza asked, frustration leaking into his voice. "You are one of their nobles. You were not always. Why did you join them?"
+
+"You are still a child," Naria said dismissively. "None of this matters. It's a distraction, don't you think?"
+
+Cale put a hand on Kazza's shoulder before the lizardfolk could say anything else. He could tell the poor guy was about to have either an outburst or another breakdown. "She's a politician," he said with a stage whisper. "That's just kind of how they are. I wouldn't worry too much about it. It hurts my head to think the way they do."
+
+Kazza stared at the hand on his shoulder, then at Cale. After a moment, he relaxed and let out a snort. "...You have described my entire stay at the Greenthistle estate. I will have to remember that one."
+
+Naria ignored them both, of course.
+
+Akkau coughed politely. "Regardless," he said. "Physical transportation from the Brightscale Academy to the Golden Sands will be difficult to do accurately, especially as I cannot leave the Academy grounds at the moment."
+
+He gave Cale a significant glance as he said it, and Cale caught what he meant. He couldn't leave the academy undefended against the Red Hunters. And here a small part of him had been hoping he'd finally get to do that dragon riding thing.
+
+"There are a number of spells that might work when layered together," Akkau said. "I will be able to assist. But the best means of spell transportation we have available to us is not one available to me."
+
+Cale frowned, confused by the phrasing. Next to him, however, Kazza had stiffened again.
+
+Then he grunted and nodded to himself. "It is worth it," he said. He turned to Cale. "The Grea—the Headmaster refers to a magic unique to my clan. We are not to teach it to outsiders. Tradition dictates that should one do so, they are to be met with execution."
+
+"Uh... I don't think you need to sacrifice yourself for this," Cale said. Worst case, he'd just blast himself across the continents. His aim wasn't very good when he did that, though, and there tended to be a lot of collateral.
+
+Kazza scoffed. "Feh. We no longer believe in such barbarisms. I mention it only to emphasize the severity of what our magic means to us. I know my clan would approve this use of it, and even if they did not, I would not care. They would, at worst, make me sit out on the next few seasons of hunts."
+
+"But this is faster than anything Akkau has?" Cale asked, glancing at Akkau for confirmation. The old dragon nodded.
+
+"I rely on my wings when physical transportation is required," he said. "There has been no cause for me to learn other forms of physical transportation until now."
+
+"I have a concern. Our magic may be faster, but it requires the participation of every mage of the clan," Kazza said. "You have a plan to circumvent this?"
+
+Akkau laughed.
+
+"Explain your magic," the old dragon said, amused, "and allow Cale a moment. And then, I suspect, you may be asking me why I am not the apprentice instead, though I will still help with the final spell."
+
+Kazza blinked, then gave Cale a dubious look.
+
+Cale just gave him an innocent smile in return.
+
+The Golden Sands tribe, it turned out, made their way across the desert they were named after using a half-ritual, half-spell called the [Gilded Hurricane]. It was interesting enough to provide a very necessary distraction for Cale, though he'd already begun to loosen up slightly by the time Kazza launched into a slightly hesitant and very private explanation.
+
+In the sense that he'd requested a closet for it. Kazza had been willing to explain his clan's magic to Cale, but he refused to let anyone else learn about it. It was a matter of pride, he said. He understood that the secret was likely out no matter what, but this way, most of it would not be a direct result of him babbling about it to outsiders.
+
+Akkau had offered to enclose them within a privacy ward, of course, and Cale's barriers could easily be tuned to block out light and most forms of magical observation. Kazza had insisted on the closet in addition to all the other protections.
+
+So now Cale was in a closet with him.
+
+The complete form of [Gilded Hurricane] was, Kazza explained, a spell that couldn't be cast alone. The spell didn't really exist independently—it only came about from the effects of its constituent spells being cast repeatedly into the same location, causing the magic to converge in on itself in a way that resembled a ritual and spell array. The broad details of this were known, but the actual spells needed for it were not, and no one had ever been able to get the secret out of the lizardfolk of the Golden Sands.
+
+Kazza took a deep, nervous breath.
+
+"Most of the spell is composed of a second tier spell unique to our clan," he said. "It is called [Windstream]. Our best warrior-mages cast a fifth tier [Stable Anchor] to bind our people and homes to the spell as it builds. We cannot see while we are transported through the hurricane, so the head of the clan casts a sixth tier [Path Through the Dunes] so we can set down in the right place. And that is... all of how it works."
+
+He was really far too anxious about this, despite his best attempts at holding firm. The lizardfolk was fidgeting, and his tail kept smacking into the side of the closet and making him jump. "Just checking, but are you sure no one's going to kill you for telling me all this?" Cale asked, only half-joking.
+
+Kazza scowled slightly. "They will not. I am just... I have never once believed I would gift an outsider with this knowledge. I had hoped, if we were to ever share it, it would be out of trust, not desperation."
+
+"Guess it's a lot to expect you to trust me after a few minutes, huh?" he said, keeping his voice light and nudging Kazza. The lizardfolk snorted a bit but managed a small smile.
+
+"I do not wish to offend," he said.
+
+"If you actually fully trusted me I'd be worried about how much longer you're going to live," Cale said, snorting. "There's nothing I can say to earn it now. But if it makes you feel better, I'll try my best to earn it even after all this is over."
+
+Kazza thought for a moment. "I believe that helps, though I do not know why. Thank you, Cale."
+
+He paused. "Now. Why is it Akkau said that I would question why a Great One such as him is not the apprentice?"
+
+Cale grinned. "Can I get a small demonstration of [Windstream]?" he asked. "That's the core of your spell, right? I think Akkau will help with the rest, but that's the part you need all the mages for."
+
+Kazza looked confused. "It is a unique spell, and cannot be easily learned, but if you are certain..."
+
+He obliged.
+
+You have learned [Windstream]!
+
+[Windstream, Level 1] [Second Tier, Active (Unique, Golden Sands)] [30 Mana]
+
+A spell unique to the lizardfolk of the Golden Sands, emerging from their natural affinity with breath magic and their long stay above the heart of a Monolith. Creates the unique spell [Gilded Hurricane] when compounded enough times, allowing rapid physical transportation through their home.
+
+Cale tried not to flinch too much at that description. He hadn't needed the reminder, and it wasn't relevant anyway. He couldn't do anything for Vital.
+
+At least this trip would let him say goodbye.
+
+"Alright, let's go," Cale said. "This next part needs to be done outside."
+
+Kazza looked even more confused, but followed Cale anyway.

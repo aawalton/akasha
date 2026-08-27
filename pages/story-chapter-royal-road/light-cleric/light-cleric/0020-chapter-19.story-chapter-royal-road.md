@@ -1,0 +1,345 @@
+---
+id: 46dbe395-a589-57a4-8132-a2d867ea6ed5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19"
+slug: 0020-chapter-19
+partOf: light-cleric
+position: 20
+ownLength: 4978
+unit: words
+publishedAt: 2021-07-03
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/710248/chapter-19"
+royalRoadId: "710248"
+---
+
+Piety could smell the ocean long before she could see it. The briny tang on the breeze from the east startled her the morning of their sixth day, just as she was finished cleaning up breakfast. She had, of course, had absolutely nothing to do with the preparation of the meal so insisted on being the one to clean up. When the morning breeze padded gently into their campsite, Piety paused in kicking dirt to smother the last of the cook fire. She raised her face to the sky and took a deep breath.
+
+“What’s that?” she asked.
+
+“The ocean,” said Father Vytal.
+
+Piety took another deep breath and felt her chest clench. There was something about the smell she couldn’t identify. Kinswell, where she had lived for several months, was by the ocean, but she’d only seen it once, just before leaving, and this smell, this clean, crisp scent untainted by the stink of the docks, promised a freedom she had not felt since leaving Sacred Heart, and that freedom had felt tenuous, she hadn’t had the opportunity to relish in it.
+
+“It smells nice,” she said and returned to her chores, but her mind stayed on the ocean. She wanted now, with a desperation she couldn’t explain, to see the ocean, to run to it.
+
+Piety’s attention was caught by the trilling cry of a great white bird with grey wings. She looked up to see it circling lazily.
+
+“I wonder,” she said quietly.
+
+Piety closed her eyes and launched her consciousness into the air, stretching it far and fast and in moments found the soft, pleasant spark of the bird. She touched it tenuously because she had never touched the mind of an animal before. The bird’s mind did not respond to her touch—it did not shy away, defend itself, or attack. It seemed unaware of her. With a light touch, she slid her consciousness into the bird’s, and a moment later shared its vision.
+
+At first, it was disconcerting. At once there was nothing beneath her and yet she could feel the solid ground. She felt dizzy, as though she was about to fall and yet knew the strength of the air currents supported her. But the bird continued to circle slowly and, after a few more moments, Piety got used to the odd flat vision and intense sense of smell.
+
+“Piety? Piety, what’s wrong?” It was Temperance. Piety could hear her in a strange echoy way.
+
+Piety suggested to the bird that, perhaps, it might want to fly toward the ocean and the bird acquiesced, altering its wing position, its tail feathers, and suddenly it was riding a warm current and flying east.
+
+“Piety?”
+
+“I’m here” Piety said mentally, “Temperance, you’ve got to see this.” With a thought, she embraced Temperance’s consciousness and lifted it to the bird’s mind and let her see too.
+
+“What’s going on?” Temperance panicked.
+
+“Just hold on to me,” Piety assured her.
+
+Before them was a low, tree-covered hill. The sun touched the tops of the trees and made their winter-bare branches golden. The bird swooped low, and Piety felt Temperance gasp and grab onto her, physically and mentally. The bird continued to descend, picking up speed, bringing them closer to the tops of the trees. Then the bird flapped its wings with long, powerful strokes, and they crested the hill.
+
+Before them spread the panorama of the ocean stretching all the way to the grey-smudged horizon. Its shining surface rippled gently, a multitude of flashes as it reflected the early morning light in white and yellow and orange. More birds like the one whose consciousness they rode flew over that expanse of water
+
+Piety marveled at the sight, at a loss to explain the joy she found in gazing upon the ocean.
+
+“Piety, put me back,” Temperance’s voice came slow and scared. “Put me back right now.”
+
+“Hmm?” Piety blinked slowly and for a moment experienced a double vision as she shared the bird’s sight and saw through her own eyes. With a breath and a moment of concentration, she brought herself fully back to her own senses and brought Temperance with her. She came back into her body to find herself sitting awkwardly, one leg beneath her, the other splayed out, as though she’d fallen, but leaning against Temperance and wrapped in her friend’s embrace.
+
+Leaning over them both, was Father Vytal.
+
+“Piety, are you there?”
+
+Piety nodded and smiled.
+
+“Where did you go?” he asked.
+
+Piety gestured vaguely upward. “Bird. I saw through the bird’s eyes. I really wanted to see the ocean.” Her smile widened. “It was amazing.”
+
+Temperance shivered against her. “That was not fun,” she said.
+
+“Sorry, Temperance.” Piety got her feet under her and stood, then turned to help Temperance to her feet.
+
+“You collapsed,” Temperance said, “I thought you were hurt.”
+
+Piety blushed. “I suppose I should have sat down first. I… I didn’t really think the whole thing through.”
+
+Father Vytal made a small noise and both girls turned to face him.
+
+“You are full of surprises, Piety. Sharing senses with an animal is a rare talent among telepaths. I don’t suppose that’s something they taught you at the High Temple?”
+
+“No.” Piety shook her head. “I just sort of did it.”
+
+“Because you wanted to see the ocean?”
+
+Piety nodded, concerned with her own answers. “I was really excited to see it, like it was something I longed for. But I don’t know why.” She did not voice the thought that perhaps it had been someone else who had been excited to see the ocean. She tried not to think about those old fears that someone else might have access to the room in her mind.
+
+• • •
+
+Upton Port was less a small town and more a medium sized port with a town clinging to its hull. The town was without a wall and without a guard, both of which struck Piety as odd. As the three of them rode into town, Piety found herself looking to the town’s weaknesses, how troops might be able to move in and occupy the hamlet, which positions could be most easily guarded, and which buildings to take first.
+
+With a firm shake of her head, Piety tossed the thoughts from her mind, frightened they might not be hers. On the one hand, she had spent the last several months at a military camp, listening to military minds discuss military matters, but Piety knew she was no strategist and the thoughts felt foreign. Examining a structure for its defensive and offensive potential was not something she did on a regular basis.
+
+Piety shivered at a sudden, cold wind. The scent of snow mixed with that of the ocean, and despite the clear, bright sky above Piety suspected a snow storm was rolling in.
+
+With a small start, Piety realized Father Vytal and Temperance had dismounted and were securing their mounts to the hitching post in front of a small inn, probably the town’s only inn. Giving herself another firm shake, she followed suit.
+
+The small common room of the inn held two tables, seven chairs and a counter with three stools. A small fireplace stood ready with stacked split wood. A narrow staircase dominated one wall, presumably leading to the rooms for rent. Behind the counter stood a man cleaning out a pewter mug with a dubious cloth. The room was dimly lit but clean and smelled faintly of spices and cooking—but what specifically, Piety couldn’t tell.
+
+“Morning, folks,” said the man behind the counter. “You looking to take passage? My brother-in-law is making plans to sail south in the next few days. He has a clean ship and charges a fair price.”
+
+Father Vytal shook his head as he approached the counter. “No, we’re not sailing. We’re planning to meet someone.”
+
+“In Upton Port?”
+
+Father Vytal nodded.
+
+The man shrugged and gestured at the room in a vague sort of way. “Well, here’s as good a place as any I suppose. I’ve got stew on in the back and a barrel of ale tapped two nights ago. Care for some lunch?”
+
+Father Vytal gave the man a few coins, which the other man quickly scooped up before disappearing through the door behind the counter.
+
+Father Vytal took a chair at one of the tables, facing the door and Piety and Temperance joined him.
+
+“So, now what?” Piety asked, feeling anxious.
+
+“Now we wait.”
+
+“Are we sure she’s going to show up?”
+
+“Not sure, no.”
+
+“How long are we going to wait?”
+
+“We’ll wait a few days if necessary, but no longer than the week we’ve been allotted.”
+
+Piety was set to ask another question, but stopped herself. Father Vytal bore his usual patient visage, but her own impatient questions had begun to irritate her. She glanced at the kitchen door, then at the door to the street, then back at the kitchen door, wondering when the lunches would arrive. She considered standing to pace along the small room when the man returned with a tray burdened with bowls of stew and mugs of ale before returning to the kitchen.
+
+Piety picked up her spoon, but rather than eat, she poked at her stew restlessly.
+
+“Piety, relax,” said Father Vytal.
+
+She looked up and found him looking at her intently.
+
+“Do you remember the concentration exercises?”
+
+Piety nodded.
+
+“You need to relax, you’ll have the innkeeper spreading stories if you keep acting like we’ve got something to hide.”
+
+Piety nodded. “Sorry, Father,” she said quietly. “I’m feeling things, thinking things that aren’t me. I’m getting nervous.”
+
+“Like this morning’s incident?” he asked.
+
+“Yes.”
+
+“Use the concentration exercises,” he told her. “Still your mind. We have a mission to accomplish.”
+
+Piety closed her eyes and concentrated on her breathing. She noted the dank, faintly salty aroma permeating everything in Upton Port. The tabletop upon which her hands rested was smooth and faintly damp, as though it had just been cleaned. Her lower back and backside and thighs ached faintly from the ride into town. And then, with ease of practice, she slipped into the room in her mind.
+
+She felt her body go still where it sat at the table, aware of her physical self only in the periphery of her mind. Beside her, Temperance ate slowly, keeping her eyes on her food and trying not to look at her. Piety felt a pang of sorrow. It had been reckless and rude to pluck Temperance’s consciousness from her body. She understood now that Temperance had been terrified, only her trust in Piety keeping her from total panic during the short ordeal. Piety further realized that what she had done frightened her as well. The ability to take someone’s consciousness from their body and put it somewhere else was a power that should have been beyond her.
+
+She looked at the chessboard in the middle of the room with some trepidation. Maybe there really was someone sharing the room in her mind, maybe that was the reason for the foreign feelings and thoughts of this morning. She shivered at the thought and tried to herd her thoughts another direction. She looked at the chessboard. The last game had spanned weeks and she’d managed to maneuver into a draw, the best she’d ever done. This game though, this game she was coming close to an actual win, if she could just manage to defend her Royal long enough to…
+
+But no, that wasn’t right.
+
+Piety sat in the comfortable chair of white and black and silver patterns and let herself become consumed with examining the chessboard. Certainly her opponent had several threats within one or two moves of putting her Royal in check and had two more pieces than her, but, as Piety studied the board, she realized her opponent had presented so many threats in an attempt to make her focus on defense. But the objective of the game was not to defend her Royal, it was to capture the Royal of her opponent, and Piety’s white pieces were in position to do so.
+
+With a small smile, Piety moved a pawn to trap the black Royal. She spent several minutes examining the board to make sure she hadn’t missed anything, that there wasn’t some way for her opponent to escape and, once satisfied, gently placed the black Royal on its side, as she had found her own Royal so many times before.
+
+Satisfied, she stood from the chair and turned her attention to the bookshelf. The bookshelf was well stuffed with a wide variety of books, each of which she had read. She scanned the titles quickly, looking for something new, but found nothing. She took down one of the few volumes she had added to the shelf, the red-leather bound copy of the Scriptures. She opened it and flipped through the pages absently, thinking about all the other books on that shelf and wondering who had put them there.
+
+Long ago, she’d convinced herself that her mind had somehow collected the books and games on their own. But occasionally she suspected there was someone unseen.
+
+With a sudden determinedness, Piety sat on the straight-backed chair at the desk, retrieved a page of paper and shook the bottle of ink. With a silver-feathered quill, Piety wrote a quick note.
+
+Black,
+
+I’m curious, are you real, or are you just in my head?
+
+-White
+
+With a bit of sand and a bit of time, the ink was dry and she folded the note and placed it upon the chessboard, over the black Royal, like a burial shroud.
+
+When she was finished, Piety felt a faint brush against her right hand and looked down to see nothing there.
+
+“Piety,” Temperance whispered, and Piety knew that the sensation was Temperance’s hand on hers in her real body.
+
+“Piety, she’s here.”
+
+Piety eased into her body and opened her eyes. The dimness of the small common room after the sourceless light of the room in her mind, required her eyes to adjust, but she looked to the door anyway, to see the silhouette of a figure well wrapped in robes. She hesitated, looking about the small room before coming to them.
+
+She wore a thick, rough robe like the clerics of long ago and a shawl over her head and face, revealing only her eyes. Piety recognized those eyes, those vibrant purple eyes. Her whole body tingled. Chimes rang at the edge of hearing. Her vision faded to brilliant purple, and when she tried to blink it away, she realized it was the woman’s aura.
+
+“May I sit here?” the woman asked, voice high and quiet, clearly afraid.
+
+Father Vytal nodded. “Certainly.”
+
+Piety took a deep breath, focused in her mindspace, and forced the purple aura to the back of perception. Even so, her vision was edged in violet.
+
+The woman sat and pulled her shawl down around her shoulders to reveal a young, round face. The smile lines at cheeks and eyes from Piety’s memory weren’t present, the iron grey hair was instead dark brown, wavy, and shoulder length. For a moment, Piety doubted this woman was the woman they sought, but there was no mistaking the eyes. Not just because they were the proper color but because behind the fear was a kindness that was everything Piety’s earliest memories had to offer.
+
+“I’m Minerva.”
+
+“Hello, Minerva,” Piety said. “This is Father Vytal, and Sister Temperance. We’re here to rescue you.” She held her hand out to the purple-eyed woman.
+
+Through her fear, Minerva smiled and took Piety’s hand. Piety’s head rang with chimes like belfries on Newyear.
+
+“Yes,” said Minerva. “Thank you for coming. All of you.”
+
+“Minerva.”
+
+At Father Vytal’s voice, Piety started. The chiming faded and she let go Minerva’s hand. She took a deep breath and shook her head. Temperance put a hand on her shoulder, and Piety smiled at her.
+
+Minerva looked at Father Vytal.
+
+“I know you’ve traveled a lot recently, but we should be going. I fear a snowstorm is moving in, and if Erin Kempenny was keeping you prisoner, she may well have sent agents to pursue you.”
+
+Minerva nodded. “I’m ready when you are.”
+
+Just as they stood to leave, a distant bell began to clang. Within moments, a second joined it and a third.
+
+The establishment’s owner came out of the back, a look of concern upon his face. “Do you hear that?”
+
+Father Vytal looked at the purple-eyed woman, Minerva. “Let’s go,” he said. He took her by the arm and guided her to the door, Temperance and Piety close behind.
+
+Before leaving, Piety turned back to the innkeeper. “You should gather your family and get on your brother-in-law’s ship. I think there’s going to be trouble.”
+
+Minerva mounted behind Piety, forcing Temperance to mount behind Father Vytal. Minerva held tight around Piety’s waist. They rode against the flow of people from town toward the port where the boats and ships made hasty preparations to flee. At the edge of town, they could see what made the villagers flee.
+
+From the south, an army of black-and-blue-clad soldiers marched. Officers on chargers road at the head of each column while messengers on lighter horses relayed orders.
+
+"The Dark General marches on Upton Port," said the purpled-eyed woman.
+
+“Are they here for you?” Piety asked as she directed her horse to follow Father Vytal, north and west, away from the approaching army and into the hills.
+
+“No. I don’t think so. They’re going to take the port and use it as a safe harbor for Mountain Kingdom mercenaries.”
+
+“How do you know?”
+
+“I’m a decent student of history.”
+
+“We’ll flee into the hills,” decided Father Vytal. “If they’re here for the port, they’ll ignore us.”
+
+He spurred his horse and Piety followed suit. She kept her eyes on the line of foothills, though couldn’t help but track the progress of Kempenny’s soldiers.
+
+They were nearly upon the hill when Minerva shouted.
+
+“Wait, we’re going the wrong way. The Royal Army is coming over that hill with cannons.”
+
+As she spoke, grey-clad soldiers from Pinefort crested the hill, five of the black, cylindrical fire-arms rolling into position. Quickly, efficiently, the teams working each demon stabilized it, prepped it, and loaded it. Within moments, the demons were ready to launch their deadly projectiles into the black and blue of Kempenny. The black-clad army had turned to meet the grey-clad and, though black outnumbered grey, grey had the advantage of height, the demons, and whatever of their number might be hidden on the other side of the hill.
+
+They were trapped between the armies.
+
+Piety and Father Vytal had only had time to pull their horses to a hasty halt before a disjointed cacophonic roar belched the demons’ fire.
+
+“Stop!” Piety shouted mentally and physically, and she enveloped the four of them on their horses in a dome of telekinesis. A heavy, sharp pressure slammed against her telekinetic shield, and a pressed on the space just above and to the side of her eyes. She smelled burning stew. She winced and swayed on her horse, but the young purple-eyed woman held her upright.
+
+Piety blinked, but it must have been a fast blink, for when she could see again, she looked at the, black-clad army charging the hill, pikes at the ready. One of the men pulled ahead of his compatriots by several strides. He looked young, though age was difficult to determine under the brimmed skullcap helmet. He was tall and strong, his muscles bulging under the short sleeves of the blue tunic under his black tabard. His eyes were lined and narrowed in anger, his mouth open in a defiant scream as he charged.
+
+But what held Piety’s gaze, was the pale green scarf he wore around his neck. She wondered who had given him that scarf; a mother perhaps, who had blessed it and hoped it would keep him safe, a sweetheart who wanted to give him something to remember her by, or maybe he had acquired it himself to keep his neck warm.
+
+The war masters at Pinefort had experimented with a variety of projectiles: arrowheads, spears, bundles of arrows, even just a bunch of small rocks, but the iron balls worked best. The ball struck the man with the green scarf in the stomach and he doubled around it, lifted from his feet. In the next moment, the ball exploded out his back in a spray of red shrapnel. It continued on its course to take off the shoulder of the next soldier, clip another’s head, crushing his helmet, and break the legs of four more after that.
+
+Three more of the demon-belched projectiles ripped into the ranks of the black-clad soldiers. Piety watched soldiers fall in a tangle of broken pikes and limbs, watched them stumble over bodies and slip on muddy blood.
+
+And then the soldiers were upon them. The soldiers thrust their pikes, and Piety’s horse reared. The pikes were turned by the telekinetic field and the field held, but she felt each thrust, like a jab inside her brain. And then, from the top of the hill, the grey-clad soldiers made their own charge, meeting the black-clad halfway down. With the superior position to their advantage, the Royal Army crashed through Kempenny’s with as much destructive force as the demon fire had. Soldiers fell and died in a cacophony of shouts and screams, grinding wood, and twisted metal.
+
+Piety’s telekinetic field held, but the constant buffeting made her shiver with the stress of it.
+
+“Piety!” Father Vytal’s shouted in her mind and she realized he’d been trying to get her attention for several moments.
+
+“Piety, we must leave now,” he said urgently.
+
+“Yes,” she agreed absently, her focus on the shield.
+
+“We can’t get though your telekinesis,” he told her. “And you can’t take the stress of keeping it up under this.”
+
+Piety nodded.
+
+“We’ll retreat up the hill,” Father Vytal said, both mentally and aloud. “The Royal Army will control this position in moments, then drop your shield, Piety.”
+
+Piety nodded again.
+
+A moment later, at Father Vytal’s signal, she released the telekinetic field and spurred her horse up the hill. Piety had thought the grey-clad soldiers would make way for them, but once the telekinetic barrier was down, the soldiers were all around them. Many of them charged past, but a knot of ten or more held their pikes at them threateningly.
+
+“Surrender!” A tall man with the golden knots of rank upon his shoulder shouted at them.
+
+Father Vytal put a finger on the sunburst at his chest. “I am Tristam Vytal, Councilor of the Church of Khulanty. Let us pass,” he commanded.
+
+The officer snorted. “Any fool can wear a sunburst. Dismount and surrender.”
+
+The chaos of battle tumbled down the hill and the noise with it. The officer didn’t need to shout to be heard, but he shouted anyway. The demons roared again, fire bursting from their black maws. Piety flinched and readied her power, but she noted the weapons had been angled to fire over the heads of their own men to strike into the heart of the black-clad army.
+
+Piety didn’t watch.
+
+“Dismount, now!”
+
+Piety looked at the officer, stunned. With all that was happening around them, she did not understand how this man could insist on arresting them.
+
+Father Vytal kept his gaze on the officer and she could feel him preparing to use his telepathy to convince him to let them passed.
+
+Someone nearby shouted, “Arrows!”
+
+Everyone’s eyes went to the sky where the black streaks of a volley of arrows arced toward them.
+
+Piety thrust her hands skyward, but the arrows’ descent was fast, and sharp metal bit at earth and flesh and bone. People screamed. Piety’s horse added its scream to those around them and bucked and writhed as it collapsed. Piety was thrown, landing hard, and struggled to her feet. Panicked, she scanned the bodies. The officer who had tried to arrest them was down, riddled with arrows.
+
+She found Father Vytal, kneeling, could feel his healing energy at work. The purple-eyed woman knelt nearby. She looked up and saw Piety, her purple eyes shining. She gestured at Piety desperately. Hurrying to their side, she found Temperance flat on her back, two arrows piercing her chest.
+
+Without waiting she fed healing energy into Temperance’s body, letting the work Father Vytal had already done guide her. With their combined efforts, the arrows were drawn from her body, the muscles and tissues mended. Temperance coughed before she sat up, wincing.
+
+“We must go,” the purple-eyed woman said.
+
+“Can you stand?” Father Vytal asked.
+
+Temperance nodded. Piety and Father Vytal helped Temperance up and the four of them continued their trek up the hill, tired, dazed, and bruised. The horse Father Vytal and Temperance had been riding was not in evidence. Piety hoped it had run away and wasn’t in the tangle of bodies around them.
+
+They were nearly to the top of the hill where coteries of soldiers manned the dreadful fire-arms. Those demons roared again, launching their deadly projectiles among the enemy.
+
+Piety winced. Temperance sobbed.
+
+“Stop!”
+
+The shout came from behind, and there was no time. No time to turn around, no time to stop it, no time to heal it. One moment, Father Vytal was walking up the hill, supporting Temperance, the next, he was on his knees, the point of a pike protruding from his chest, his mouth open, his eyes wide. Piety knelt in front of him, her power already going into his body, but there was nothing to heal.
+
+The thrust had destroyed his heart.
+
+He had died instantly.
+
+Piety’s breathing slowed and her vision went bright, as though a great light came from every direction, washing out color and sharpening contrast. Chimes rang frantically. Her body went numb, refusing to feel. She closed her eyes and bowed her head and tried to escape, to go somewhere where she didn’t have to look at the bloody pike and Father Vytal’s ruined chest.
+
+When she opened her eyes, she was in the room in her mind and, as before, the wall opposite her desk was gone, and in its place was that great cosmos speckled with stars, outlined in purple.
+
+For a moment, Piety was tempted by that stary void, the purple-tinged cosmos. She recalled how it had felt when she’d been within the cosmos; peaceful, serene, calm, and she wanted to feel that way again. It would have been a great comfort to fall into the cosmos forever, to forget the image seared into her mind, of Father Vytal bloody, ruined, dead. But she quickly rejected the idea. She would not abandon Temperance.
+
+She blinked again, and again and the chaos of battle raged at the foot of the hill. Kempenny’s army had pushed the Royal Army back up the hill with the pure advantage of numbers. Piety knew she hadn’t been in the room in her mind long, so the tide of battle had shifted quickly. The demons roared again and she could feel men die as the heavy, metal spheres crashed into them.
+
+Piety’s gaze moved to behind Father Vytal to the young, grey-clad man, one of their own soldiers, who had stabbed him. His eyes were wide in horror, staring at the weapon in his hands and at where it entered the body of another man.
+
+“Oh my God,” the soldier whispered. “I’ve killed a cleric, God, no.”
+
+In a flare of heat and tears and wails, Piety felt fury, and in a breath choked with the stink of death, she felt it calm to a gentle sadness. Temperance clung to her and sobbed.
+
+The purple-eyed woman knelt next to them. “I’m sorry, Light Cleric. I’m sorry. I didn’t know this would happen. I swear I didn’t.”
+
+The soldier babbled the same words over and over, “God, no, no, please God, no…” Tears tracked through the dirt on his face.
+
+Piety reached out with her telepathy and slipped easily into the young man’s mind. She closed him down, put him to sleep, then found his terror and quieted it. For a moment, she considered removing it entirely, making him forget, but that felt too intrusive. Instead, she kept it from breaking his mind, and let him rest.
+
+A great roar of humanity drew their attention to the battle—much closer than Piety expected. She wanted to make them stop. She wanted to reach into each mind and still them. But she didn’t have enough power. No one did. The only time she felt that much power was from the cosmos.
+
+Piety blinked.
+
+She stood in her mindspce, staring into the cosmos. She stood on the battlefield, staring into combat. She leapt into the cosmos and let it empty her of fear, let it fill her with power.
+
+She reached her mind in all directions at once. She could feel each soldier, could feel their bodies as they hacked at each other with great pieces of metal sharpened for the job. She could feel their fear, their rage, their blind panic, and, with a touch, she quieted them all. The shouts and groans and cries ceased.
+
+She lifted herself off the ground, hovering over the quieted soldiers. Their faces, all upturned to look at her, were illuminated with a bright white light, a light, she realized, emanating from her. The power of the cosmos, filtered through her, sought out those still living and repaired them. In the space of moments, she thought of a dozen things she might say to make them stop fighting forever, but none seemed appropriate. Instead she looked upon her fallen mentor and the sleeping soldier who had killed him, and she wept.
+
+It had happened too fast.

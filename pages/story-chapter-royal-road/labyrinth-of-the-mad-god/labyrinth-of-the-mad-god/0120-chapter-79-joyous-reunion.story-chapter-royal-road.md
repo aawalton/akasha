@@ -1,0 +1,83 @@
+---
+id: 2a121d60-84fc-571c-85da-dfcd86f1ab64
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79: Joyous Reunion"
+slug: 0120-chapter-79-joyous-reunion
+partOf: labyrinth-of-the-mad-god
+position: 120
+ownLength: 2052
+unit: words
+publishedAt: 2025-01-17
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2015506/chapter-79-joyous-reunion"
+royalRoadId: "2015506"
+---
+
+When the world finished putting itself back together, Nick found himself standing in a concrete room that was about thirty feet on all sides, forming a perfect cube. After spotting nothing hostile within, or anything living for that matter, he let out a sigh of long relief.
+
+Good. The System took me to a saferoom instead of teleporting me directly to the next floor. Hopefully, it will give us some time to catch up and plan out our next move before sending us out again. No sooner had that thought crossed his mind than a message from the System appeared.
+
+Your team will be granted a 24-hour rest period before progressing to the next floor of the tower. A countdown clock has been mounted to the wall for your convenience. You may use the obelisk to access your profile during this time without restriction.
+
+Nick set down his pack and took a long look around, glad to be out of the intense green sunlight. Along one wall ran a row of cots. A shower, sink, and a toilet with a privacy screen were arranged in one corner, and a round table with five chairs took up another. As promised, there was a mini-obelisk set in a recess along one wall, with a screen mounted beside it. Nothing to write home about, but it looks safe and relatively comfortable.
+
+The rest of the space was open. Half of the floor was bare concrete, and half was covered in the kinds of mats you would find in a martial arts studio. There was a clock on the wall displaying the minutes he had left until it was time to move on to the second floor of Darkstone Tower. The entire place was immaculately clean—not a speck of dust or grain of dirt to be found.
+
+At that point, he heard footsteps. Something hard hit him in the chest half a heartbeat later. For a second, he thought that he was under attack. When Nick looked down, he saw the top of Sophia’s head and realized that her arms were wrapped around him. He laughed as he returned her embrace, sharing a long, lingering look when she glanced up. “Sophia, it’s great to see you.”
+
+“You too, Nick.” After a final squeeze, she let him go and took a step back. “I knew that you were alright. But after everything that happened, it’s good to see you in one piece.”
+
+“Right back at you.” He broke into a beaming grin.
+
+“Hey, save some of that for the rest of us.” Devin’s booming laugh reverberated off the walls. Before Nick had time to turn around, he was hit for a second time, Devin’s powerful arms squeezing him hard enough to make his ribs creak. “Group hug! Now that just leaves…”
+
+With a flash of orange light, Veronica stepped out of a portal and entered the room. When she saw what the others were up to, she let out an uncharacteristic giggle and ran over to join them, throwing her arms around their backs. The team stayed like that for a long moment, enjoying each other’s company and the knowledge that everyone was still alive. Then they sat down at the table and started to talk.
+
+Nick realized that Shaun was here too, sitting on a cot while waiting for someone to notice him. The red-haired man wasn’t Nick’s favorite person, but his presence no longer felt like such a burden after their journey across the basement, culminating in their climactic fight with the Janitor and roach queen.
+
+“Come on, Shaun.” Devin waved him over. “You’re a part of the team too. No need to be a satellite.”
+
+While no one was thrilled to be working with Shaun instead of Kenji, there was less hostility and more acceptance in the looks the others sent in his direction. It seemed that having a month to think things over was long enough to wrap their heads around his unexpected arrival.
+
+We have to work with him until the quest is over, and he really gave that last fight his all. Nick decided that he would do his best to make Shaun feel included from now on. They needed to work together if they wanted to survive, and the man really did seem to be trying to change.
+
+When Shaun took a seat, Devin threw an arm around his shoulder and said, “It’s weird to have everything back to its normal color again. It’s taking my brain some time to adjust. Did we all get sent to the same planet to train? The one with the green sun.”
+
+After confirming that everyone had gone to the same world, they went around the table. Each member of the team shared their experiences, letting the others know what their training was like and reporting the progress they’d made along the way.
+
+Everyone did their best to include Shaun in the conversation, although Sophia was still a bit cold to him, given how they’d met. But at least the young man no longer seemed like an intruder or outsider. It was a good thing, since they had to rely on one another if they wanted to reach the top of the tower.
+
+Nick still hadn’t forgiven him either, but he honestly couldn’t blame Shaun for what had happened. If he had been separated from his team, he would probably have jumped in the first door he saw too. Hopefully, now that he had been trained with his bow, Shaun could contribute during their battles, especially when he hit level fifteen and activated the ability mastery system.
+
+Nick listened intently, asking an occasional question. It was fascinating to hear the descriptions of other alien species, and he hoped to meet some of the races that his friends described one day. While everyone was busy sharing their various ordeals, he took a good look at each of them, trying to get a sense of how much they had grown. Everyone seemed more imposing than before, even Shaun.
+
+When he sized them up, Nick was thrilled to learn that everyone was significantly more dangerous than when he’d last laid eyes upon them. When Team Earth stepped onto the next floor of the Tower of Rizzen, they would be far more effective in battle, especially when fighting against other weapon-wielders.
+
+When the last person was done sharing their story, everyone reached into their packs and brought out some provisions for an impromptu potluck lunch—sitting around the table while enjoying each other’s company. It seemed that their stay in the training grounds had included free food, so their stores were about as full as they had been a month ago, minus a few perishable items.
+
+While they ate, they started refining their strategies and tactics, incorporating everything that they’d learned into their formations and contingencies. They only had a day in the safe room, and they needed to make it count. While they talked, Nick began memorizing their new proficiencies, along with gains they had made after the last battle in the basement.
+
+It turned out that everyone had chosen to train with their weapon skill except for Sophia. She had opted to improve her battlefield awareness skill instead, so that she could direct her summons more effectively, and fight alongside them with improved coordination. She would be able to help guide the rest of the team too, pointing out openings and vulnerabilities exposed by the shifting tide of battle.
+
+Taken together, the team had undergone remarkable growth over the last month, or day, depending on how you counted the compressed time. Better still, everyone except for Shaun now had experience fighting against other people who were wielding weapons. Something that they had all been short on until now, since most of their battles had been against beasts or magical constructs.
+
+When they were done recounting their training experiences, they began discussing their new abilities. Everyone but Shaun had hit level fifteen while clearing the first floor of the tower, gaining access to the ability mastery system. They had ranked up some abilities before the big fight, and even more of them after. It turned out that defeating the Janitor had boosted Nick the most, due to the mutant’s force-based energy, but the others had gotten more out of stealing the kill on the roach queen.
+
+Devin had taken flashfire pulse to rank two. Like most abilities, it had gained some power and efficiency from rank one, letting the warrior dish out more damage more often. For his rank two upgrade, he had chosen to be able to direct the blast. He could still create a full hemisphere if he wanted, but now he could narrow it down and select the angle.
+
+The axe-wielding warrior no longer had to hold back when fighting alongside his allies and could use the ability freely in battle. Additionally, since the directed flames were more concentrated, it was an indirect upgrade to flashfire pulse’s damage. The new rank also let him hold a charge for longer, so he didn’t have to worry about it dissipating before he found a good chance to unleash it upon his foes.
+
+Blast-striking had advanced to rank two early on in their exploration of the basement, thanks to the prevalence of the fire breathing roaches. As Nick had already observed, the ability had gained the power to leave behind patches of searing mana after Devin’s weapon struck, adding extra damage to every swing on top of the carnage wrought by the initial explosion. Finally, he had been able to take flame resistance to rank one, making the passive ability more effective with a reduced drain on his mana regeneration.
+
+When the warrior was done sharing his gains, Sophia took her turn. She had taken her frostfury wasps to rank two and her spear-tongue frogs to rank one. Both varieties of summed beasts had gained some dexterity and toughness as a result. After advancing the wasps to rank two, she had chosen to increase the potency of their venom. Going forward, the agile insects would be even more deadly in combat and more effective against large targets, which they had demonstrated during their fight with the Janitor.
+
+Sophia’s aura had gone up to rank one during the battle, and she thought that it was close to reaching rank two. Nick was curious how the passive ability would change when she acquired the next upgrade, but the boost to everyone’s attributes was already incredibly useful.
+
+Veronica went next. First, she shared the details of her rank two acidic bolt, letting the others know about its healing properties. The roach queen and her entourage had released a fair amount of acid essence, and V thought that the ability was already getting close to rank three. She had less luck with her other powers. She was still at rank one with her bleeding slash and bone claws, and hoped to find some compatible essence while crossing the next floor.
+
+Shaun shared the details of his abilities with Devin and Sophia, since they hadn’t heard the full description yet. His smoke and electric arrows were generally useful and would become even more so once he was able to upgrade them at level fifteen.
+
+He planned to gain access to the ability mastery system while they were crossing the next floor, since his level had shot up after their battle with the Janitor. He thought he would be able to get several upgrades right away at that point. Shaun had absorbed a fair amount of essence after the last fight, and he had spent considerable time familiarizing himself with both powers in between training sessions.
+
+Nick took the last turn. He let everyone know that he had absorbed an incredible amount of essence from the Janitor and had taken mana dart to rank three, the first member of his team to reach that milestone. He also explained the changes to his wand—the mysterious and most welcome upgrade to the force-flinging tool that had become a core part of his fighting style.
+
+When he finished, he saw that everyone was smiling, savoring their shared progress and boosted lethality. All in all, the team had undergone incredible growth from surviving the garbage war on the tower’s basement, boosting their odds of conquering the next floor.

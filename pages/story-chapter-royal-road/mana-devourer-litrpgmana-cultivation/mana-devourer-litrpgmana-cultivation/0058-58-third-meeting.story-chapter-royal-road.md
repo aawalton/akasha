@@ -1,0 +1,405 @@
+---
+id: 55221260-610a-53e6-bfa7-db83f6ee0895
+page-type-slug: story-chapter-royal-road
+title: "58. Third Meeting"
+slug: 0058-58-third-meeting
+partOf: mana-devourer-litrpgmana-cultivation
+position: 58
+ownLength: 3746
+unit: words
+publishedAt: 2025-07-31
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/2482357/58-third-meeting"
+royalRoadId: "2482357"
+---
+
+“Okay,” Markus said, forcing himself to turn to a sitting position, wiping sweat from the back of his neck, trying to affect his tone with as much calm as humanly possible… “what’s up?”
+
+“Not here,” she said, before reaching out her hand.
+
+Markus took it without question. Why argue at this point?
+
+The pair of them teleported, but didn’t wind up in some scenic place, nor some distant land when they’d reemerged.
+
+Rather, they were sat atop a two-storey building, perhaps a few minutes walk away from the arena.
+
+It was evening; the wind sliced against Markus’ face.
+
+“Surprised you didn’t take us further afield.”
+
+“I couldn’t,” Serena admitted. She pointed out to the arena. “Too exhausted from that.”
+
+Markus hadn’t even thought about it, nor had it register in his brain until she mentioned it. He was looking at a whole arena. Not one with half of its walls caved in, not a dilapidated ruin, but an entire building that looked as polished and pristine as it had when he’d first seen it from the outside.
+
+“You… you did all of that?”
+
+“I did,” she answered coolly.
+
+“I’m… I’m not even sure if ‘impressed’ is the right word.” He tilted his head as he took it in. “You’re insane.”
+
+“You’re one to talk,” she laughed.
+
+Soon after, the mirth drained from her face, her smile turning sombre. “I saw what you went through back there.”
+
+“You did?”
+
+Markus didn’t want to think about it. It was…
+
+“Do you know how many people would’ve begged to die in that situation? How many would’ve rolled over? Given up everything, done unthinkable things just to make the torture stop?”
+
+“I…” Markus looked away. He looked down at the cobbles. His mind raced. “I should’ve never played Randall’s game. I gave him what he wanted. I used that fucking cane. If it wasn’t for my title, or my ability, I’d be—”
+
+“If it wasn’t for a lot of things, a lot of things would be a lot of things,” Serena countered.
+
+She placed a hand on his. She was colder than usual.
+
+“You’re too hard on yourself.”
+
+Markus stayed quiet.
+
+“Randall’s going to come back for you, you know.”
+
+Markus blinked. “You didn’t kill him, then?”
+
+“I hurt him. Took me about a year’s worth of energy to do it. More to clean this place up after.”
+
+Markus looked at her. “Hurt him how much?”
+
+“Enough that he might think I’m a threat. Depends if he’s smart enough to realise how much it depleted me.”
+
+She lowered her voice. “I used to be powerful. Very powerful.” She leaned close to him. “The others all know me as a stripped and dethroned god, but they don’t know how far that goes. How deep my reserves might run. A show of strength like that might make me seem fearsome, or it might have just left me defenseless. Fuck knows. Time will tell.”
+
+Markus blinked in the information, staring at her. Her eyes were flickering between purple and gold, almost as if they were glitching.
+
+“Just how much did you hurt him?” Markus repeated.
+
+“I cut him into six pieces,” Serena said.
+
+Markus blinked.
+
+“And then I stabbed out his eyes,” she added.
+
+Markus stared at her.
+
+“And then I repeated that process about twenty more times, until his healing finally started to slow.”
+
+He felt his jaw beginning to hang.
+
+“And then I realised there was no way I was killing him, so I came back to deal with you. I told your little master that if anything happened to you, it was on his head, then I went the fuck to sleep.”
+
+“Well, that makes two of us on the last part,” Markus all but stammered out.
+
+Seriously. What the fuck did he say to all of this?
+
+“A ‘thank you’ wouldn’t go amiss, you know.”
+
+Oh, right. That made sense.
+
+“Thanks,” Markus said, and he meant it. “I appreciate you sticking your neck out for me. I appreciate it a lot.”
+
+“I didn’t just do it for you,” Serena said. “I wanted to see if I could kill that fuck. Besides, my sister would never forgive me if I’d let her die like that.”
+
+As if by queue, Ember appeared before the pair of them. She licked Markus. He felt a tinge of pain from his Toxicosis as he absorbed some errant Life Mana from her touch.
+
+Still, he stroked her fur, the flames around her only warm. His Adaptive Resistance might’ve still been in effect for all he knew.
+
+“You know Ember?” Markus asked.
+
+“Well, yes. I did send her to kill you, after a—”
+
+Markus didn’t even finish launching himself upright before Serena put a hand on his shoulder.
+
+“Don’t. Please.”
+
+“Fucking explain then.”
+
+“I will. And if you never wanna see me again after, I’ll understand.”
+
+Markus stared between Serena and Ember, feeling like he was the butt of a bad joke. Of course the only good god in his life was the one who had genuinely tried to murder him before they’d even met.
+
+“Talk,” Markus breathed, chest heaving, mind alight.
+
+“I was casing the arena when you came,” Serena said. “I had my own plans for the place already. When you materialised, everything changed.” She sighed, rubbing the back of her neck.
+
+In the distance, a pair of drunkards roamed the streets below, singing a song in terrible rhythm, discordant notes carrying through the dry air.
+
+Serena pointed at him. “You were a wrench in those plans. A being with such potential that letting you fall into the wrong hands was more than ill-advised, it was negligent.”
+
+“And so you tried to have me killed?” Markus asked.
+
+“I didn’t see how you’d survive. You’d killed a juvenile D Grade monster and just barely, armed with an attuned weapon. I sent a B Grade hellhound to kill you unarmed. I’d have done it myself, but I didn’t want to reveal my presence.”
+
+“What if I’d killed Ember?” Markus asked. “What would your sister think then, huh?”
+
+“Killed her?” Serena shook her head, a titter on her lips. “She told me you gave her an annoying itch where you tried to drain her. Worst you’d have managed is tiring her out.”
+
+“And yet, we didn’t kill each other,” Markus finally said, sitting cross-legged, staring at the helldog.
+
+“And yet,” Serena nodded. “That shocked me. I didn’t picture that happening in the slightest. You drained the compulsion to kill you right out of her. Then you were kind to her.”
+
+“That’s right!” Markus panted, blinked, realising there was something wrong with this picture. “That divine energy, she was fucking rabid when she first came into my cell, and that was why! You controlled her mind, didn’t you? You made her want to kill me!”
+
+“I gave her a quest,” Serena corrected, waving her finger. “She knew what that entailed, and she agreed to it. From what I understand, you cancelled that quest entirely.”
+
+“And you had absolutely no clue I could do that?”
+
+“Not until you did it,” Serena said. “When Ember came back to me and you were still alive, I got curious. Curious and worried, because Randall got to you right after she did.
+
+“But then you turned him down, and I realised I was willing to risk revealing myself for this. I wanted to see what kind of a man had tamed my hellhound.”
+
+“So you came to meet me,” Markus said, blinking, staring up at her.
+
+“I came to meet you, yeah.”
+
+“And if you didn’t like what you’d saw, you would’ve killed me right there?”
+
+“A hundred percent, yes.” Serena wasn’t smiling anymore. Her face was dead serious. “You’d shown yourself to be powerful. Gods were already trying to court you. If I didn’t have confidence in the fact that you weren’t nefarious, I’d have taken you out in an instant.”
+
+The sounds of drunken singing drew closer. She smiled again.
+
+“But you were pure. About as pure as a mortal gets around here, at least.” She shrugged. Hovered on her words for a moment. “I was at least sure you weren’t evil, but that didn’t make you any less dangerous. I wasn’t sure what to do with you. Honestly, I’m still not entirely sure.”
+
+“You don’t sound like you plan this stuff out very much,” Markus said dryly.
+
+Serena laughed. “Don’t I?” She tilted her head. “You might be right. Who knows? Either way, when it became clear that Elasar was interested in you—”
+
+“Elasar?”
+
+“Oh, for fuck’s sake.” Serena leaned close, placing a hand around the back of his neck. “Hold still for a moment.”
+
+“What are you—”
+
+Within moments, Markus felt a solid mist descending upon his mind. He couldn’t fully describe the sensation, but it was something akin to being blanketed by pleasant fog.
+
+Then, very suddenly, the sensation receded, leaving something missing in his head… something foreign that hadn’t belonged there at all.
+
+Memories came flooding back in waves. Of that night. The trimander. The other prisoners. The auction. The demon who was supposedly Drathok’s boss. Of his conversation with Lexi. Of all the talking around details Drathok had done with him previously.
+
+“Elasar…” Markus spoke the word like it was familiar for the first time, a growl beneath his tone.
+
+“He’s been gunning for you for a good while now,” Serena stated. “He wants you to serve him in totality.”
+
+“Why the fuck would I ever—”
+
+“Because your mind would be so broken that you wouldn’t be able to tell you were being used,” Serena said. Her eyebrows knit, face serious. “That’s Elasar’s MO—he deprives you of alternatives, he tricks you, and then he forces you into the most predatory contract possible. Drathok’s his minion. Every worker in that arena is, whether they know about Elasar or not.”
+
+“Who is he?” Markus asked. “If he’s that evil, why don’t the gods just take him out?”
+
+“Demons have certain protections against godlike beings, especially on Firrelia. Even the lowest Seconnian demons still originate from a ‘superior’ world, though they were banished from Seconna to pacify a pantheon of frankly prejudiced Seconnan gods who were threatening to slaughter them all.”
+
+“Just because of their species?” Markus asked, brow furrowed.
+
+“It was more a matter of religion. Creatures pledge themselves to planetary bodies, to moons, to stars. A large portion of Seconnan demons are pledged to a disgraced god.”
+
+“Like you?” Markus blurted.
+
+“Like me,” Serena nodded. “Demons hold no real power in the higher worlds, but as a primordial creature with innate magics and mana signatures, they’re considered worth preservation.”
+
+Markus’ eyes narrowed. “God, you talk about them like they’re a rare insect or something.”
+
+“It’s not me talking,” Serena said. “This is the sentiment of the ruling powers.” She leaned forwards, putting her legs over the side of the building and allowing them to dangle. “As for Elasar… he’s a demon from Thiror.”
+
+“The third world?” Markus asked.
+
+“Yes. How’d you know?”
+
+“Either human etymology is more derivative from your solar system than either of us realise, or this autotranslater is just really good.”
+
+“Could be either,” Serena shrugged. “I’ve never had to use one. I’m proficient in most languages.”
+
+“Of course, you’re C-3PO. Got it.”
+
+“Is that a reference?” Serena asked.
+
+“Yeah?..”
+
+“Because I’m not gonna get your references.”
+
+“Well, you knew what a truck driver was.”
+
+“Well, yeah. Firrelia is the weakest world. It’s also the most technologically lacking. Sixent is fully industrialised. You see trucks there all the time.”
+
+Markus wasn’t sure if he was glad or scared to hear the news of a fully industrialised world being only the sixth planet on a list of eleven.
+
+“So is the eleventh world just like some cyberpunk futuristic neon lights dystopia then?”
+
+“Hah, no.” Serena laughed. “The eleventh world is paradise, or at least someone’s version of it.” She frowned, eyes shifting colour again. “Perfect place to lean back in a sunchair, stare out at the spectacle unfolding across the other ten, and laugh, gamble, consume, manipulate, whatever the gods above desire. They get enough energy from the other ten to sustain themselves indefinitely, so they can just live out their endless dream in perfect harmony.”
+
+“Sounds… disgusting.”
+
+“Sounds boring,” Serena corrected. “And it is. To the point that gods are leaving Eleva and pursuing other goals within the construct. This endless cycle sustains all of the worlds below, but, to put it in terms you’ll understand, ratings are dipping, and the core demographic are becoming disillusioned.”
+
+Markus raised an eyebrow. “Those are meant to be terms I understand?”
+
+I mean, I kinda do. Freaky that she can do that.
+
+“So… what does all of that mean? And how does it link back to Elasar?”
+
+“Elasar is a blip on the cosmic radar, as are you. At least right now. But what it means is that with the constant take from above, as well as the constant stagnancy between worlds, Firrelia will be the first to be drained of its natural resources and lose function entirely.”
+
+“That sounds… like a really bad thing.”
+
+Maybe it wasn’t. Maybe terrible worlds like this shouldn’t exist.
+
+But then, two happy drunken singers seemed to take issue with that.
+
+Markus couldn’t tar a whole world with the same brush.
+
+“It is a bad thing,” Serena nodded. “If Firrelia can’t sustain its position, the gods above won’t let it die. They’ll pull more worlds in. More populations will be forced to join this cycle. This system will only expand further, requiring further and further resources to sustain its own weight.”
+
+“It’s already happening, isn’t it?” Markus asked, prodding himself in the chest. “I wouldn’t be here if Firrelia had everything it needed, after all.”
+
+“Drathok’s struggles to make his arena a success are a microcosm of a larger endemic issue,” Serena said. “A really fucking bad one,” she added. “Supplementing fighters turns to supplementing populations and resources as these problems continue to spiral, and before you know it, it’s cities you have to replace. Countries. Continents. Planets that get wiped out by jealousy and foolishness and greed. All that suffering adds up. And if you can’t foot the bill, it’s probably because there’s no one left to make dance.”
+
+“And you wanna break that system before it ruins everything… what does Elasar want?”
+
+“To control it,” Serena said. “Or, at least, as much of it as he knows about. He’s straight up evil. No redeeming qualities. He’d turn this entire solar system into his personal funhouse if he could.”
+
+“Do you think he can?”
+
+“I doubt it,” Serena said. “He’s an incredibly powerful demon on Firrelia, but nothing incredible as far as Thiron goes. That said, he’s smart. If I thought it wasn’t even a possibility, I’d never have came here.”
+
+“And you wanna stop him?”
+
+“Kill him,” Serena said. “Replace him with someone worth leading the demons here.”
+
+“And you think that’s Drathok?”
+
+“I can’t tell you more,” Serena said. She looked at him. Her eyes looked heavy. “We’re not working together. It’s not even a matter of trust. I don’t know what Elasar might torture out of you, or Randall for that matter. I don’t wanna wipe this conversation from you, either. I’m not even sure I have the energy to.”
+
+Markus took in her words as he looked over the city below.
+
+It was pretty, honestly. The architecture was brilliant, and the way the twisting spires were scattered out through the city made each of them look like a distinct, unlit beacon.
+
+He watched Serena’s legs dangle and kick.
+
+He sighed.
+
+“I’m not useful anymore,” Markus said. He rubbed his shoulder. “I’ve got this Toxicosis shit now. Sounds like it sticks. I dunno how the hell I’m meant to Mana Manipulate if I can barely use mana in the first place.”
+
+“You could overcome it,” Serena said. “I can’t help you with it right now, but if you could complete enough quests for me, or reclaim a zone for me… I could grant you a wish.”
+
+“A wish?” Markus repeated, eyes bugged. “That’s really vague…”
+
+“Unless your wish is something completely outrageous, yes. I could grant a miracle of at least reasonable magnitude if you could return some of my power to me. I’m powered by change as much as I am by zone control, or by Divine Arms, or by the strength of other gods and disciples…”
+
+She held up a single palm. In it floated something that almost resembled a screen.
+
+“You remember Daven?”
+
+He did. The nihilistic mage that had been the first to stand with him against the trimander.
+
+Markus began to recognise him even as the image flickered before him, a picture of a man with tattooed blue skin tinkering over a small table.
+
+“Where is he?”
+
+“A meagre accommodation on the city’s outskirts. It’s what I could afford after I bought out his service.”
+
+“Yeah… I’ve just realised that was you. Does he work for you now?”
+
+“No. You made it clear you wanted those prisoners to be free.”
+
+“...I wanna trust you.”
+
+Serena flicked the image away, turning to Markus.
+
+“Then trust me.”
+
+“I don’t want mandatory quests.”
+
+“...”
+
+Markus stared at her. “What? I don’t. You could ask me to do fucking anything. I don’t want a permanent contract either. Let’s put it up for renewal in a month or something. See how we’re both getting along.”
+
+“...fine.”
+
+Markus blinked twice. “Really?”
+
+“Yeah.”
+
+“You’re not even going to haggle?”
+
+“I wouldn’t have even budged before. Take this as a sign that I trust you.”
+
+Markus sucked in a breath. After everything he’d been through, he was sure he’d never sign a contract with a god as long as he was alive.
+
+Was he betraying himself here, being as open to this as he was now?
+
+It felt right. Felt easy.
+
+“Well, let’s discuss terms,” Serena said. “What do you want to know?”
+
+“What can you do for me, and what do you expect from me?”
+
+“I can give you quests, as I previously stated. Quests have rewards, and those can help us both out in time. Also, I can help you out in person from time to time, come out for an hour once every couple or few days. I’m not very strong right now, but that’ll change eventually.”
+
+“Anything else?”
+
+“You’ll unlock a new feature to your system. A lot of features, actually, if you progress far enough down this path. Your current abilities will pale in the face of what Divine and Creation magic can do for you.”
+
+“Creation magic?”
+
+“The mana type behind Divine Arms, and many other elements of the construct that predate the first permutations of magic. It’s the most raw and powerful form of mana. One I doubt your body could even handle at this moment, but that in time you might become proficient in.”
+
+“Sounds pretty baller,” Markus said.
+
+“Yeah… something like that.” Serena snickered. “As for what I want from you? Listen to me, but do as you please. That’s it. No mandatory quests, so I’m gonna throw everything that presents itself at you and trust you to make the right decisions. I’ll be there to consult from time to time, but for the most part, you’re on your own.”
+
+Markus felt a dryness in his throat. “Can you really trust me with all of that responsibility?”
+
+“It’s not like you’re giving me a choice. If I wanna make use of you before one of these other gods claims you or kills you, I need to make a deal you’ll actually honour. Besides, I think you deserve your autonomy. No one’s seen it fit to give you a shred of it.”
+
+She smiled. “By that token. This is your choice. What do you want, Markus?”
+
+“I wanna fight,” Markus said, a promise, an echo. He’d said those words before.
+
+“Yeah?”
+
+“I wanna save myself,” Markus continued.
+
+“Let me help you.”
+
+It was against everything he was. Accepting help was admitting weakness. That’s what he’d ingrained in himself his whole life. What his upbringing had taught him. That to struggle and fail was better than to take.
+
+“...okay.”
+
+But maybe by taking, he could give back.
+
+“Okay!” Serena cheered, jumping up to her feet, causing Ember to leap from side to side in a sudden case of zoomies.
+
+Markus raised to his own feet. Seemed to be what everyone else was doing.
+
+“Alright… can you just give me your hand one more time?”
+
+Markus flinched at the offer before him. This officialised it. He’d finally given up if he took this.
+
+Given up on what? On being self-sufficient?
+
+Or on running away from himself and denying the reality in front of him?
+
+Markus took Serena’s hand.
+
+He felt a surge of magic pulsing inside him.
+
+His Toxicosis hated that.
+
+Serena quelled the pain as soon as it flared. He wasn’t sure how.
+
+He felt her conscious desire and his begin to entwine as the terms they’d set out were ethereally bound in what looked to be a simple handshake, but transcended something so mundane entirely.
+
+The feelings pulsing through his body were indiscernable, muted pain mixing with the presence of an entity so incredibly alien and magnificent in its unintelligability that Markus only marvel at its presence.
+
+When he looked at Serena, for but a second, behind her simple, graceful demeanour, there laid a gossamer string of hands and eyes. Searching, reaching, endlessly interlinking and stretching and pulsing and moving as between them passed the true embodiment of her astral spirit, a version of her so beautiful it put the perfect being before him to shame, a creature so paradoxically astounding that he worried he might blind himself or go mad if he glimpsed it for more than an instant…
+
+But it was gone within an instant. All of it. The truth of Serena, or perhaps only his muddled, confused, and mortal interpretation of it, was lost to him, and the goddess stood before him again.
+
+She smiled.
+
+Upon the back of Markus’ hand was a glowing, golden tattoo, quickly setting into a dark blue ink.
+
+The tattoo signified a crescent moon. Behind it was a softly-lidded eye, partially hidden by the moon itself.
+
+“There. We’re now bound by a contract. How do you feel?”
+
+“I feel…”
+
+[Faith System Unlocked. 15 Faith Points added to your status screen as a signing bonus. Would you like to sign-in and consume your faith points?]

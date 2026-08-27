@@ -1,0 +1,555 @@
+---
+id: b9fb7a01-1da6-5f61-91c8-09ab2d532f5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 07"
+slug: 0008-chapter-07
+partOf: light-cleric
+position: 8
+ownLength: 6863
+unit: words
+publishedAt: 2021-03-13
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/646107/chapter-07"
+royalRoadId: "646107"
+---
+
+At a small hostel a day’s ride from Riverton, seat of Magistrate Putnam, they sat in the small common room. They were the only guests and the hostler had retired to bed an hour earlier.
+
+“What do you know of the genesis of creation?”
+
+Sweep and Temperance looked at each other. Sweep could tell by Temperance’s smile that she could still recite the passage from memory and gestured for her to do so.
+
+“It’s one of the parts not attributed to any one Saint,” Temperance began. “‘In the beginning there was God. And God spoke, and at His word there was light. And on this first day, He created the land and the sky and the sea, three parts of one whole which he named Treyaria.’”
+
+Father Vytal smiled. “Very good. But would you be surprised if I told you there was another version of the beginning?”
+
+“One not in the Scriptures?” Sweep asked.
+
+“It’s in an older copy of the Scriptures,” Father Vytal said.
+
+“Is it blasphemy?”
+
+“Some think so.”
+
+“But not you,” Sweep said shrewdly.
+
+Father Vytal smiled. “In the beginning there was only the void—all and naught, a darkness of light, form without form. And the void was pierced by the three voices of the song of God. The void was shattered into the Twenty-seven Realms, chief among them the Prime Realm, the world as we know it, called Treyaria in honor of His song.
+
+“The earth and the sky and the sea sprang forth with life, the sun and moon were sent spinning around the world. The stars began their endless dance against the velvet dome of night, describing the pattern of the orbit of the twenty-six other realms and their influence upon Treyaria.
+
+“And God took rest in the sun to watch the life He had created. To those of good faith, kind works, and pure thoughts, He extended invitation to paradise in the sun. All others He banished to the realm of spirits on the moon.’”
+
+Several moments of silence followed the recitation.
+
+“Some of it’s the same, but some of it’s different,” Sweep said. “So which is right?”
+
+“Only God knows. But the alternate version tells of the Twenty-seven Realms.”
+
+“They’re real?”
+
+“Yes.”
+
+“Will you teach us about them?”
+
+“Not tonight. When it gets warmer and we can sleep beneath the stars, then I will tell you about them.”
+
+• • •
+
+By the time they reached Riverton, seat of Magistrate Putnam, spring was in full force: flowers opened, birds chorused, bees bumbled. Sweep had known spring before, but the mild warmth of wakening life felt different so far from Sacred Heart. This spring, her first spring free from the Mother Superior, felt more real, more important, more exciting.
+
+Riverton was far larger than Appledel or any of the other villages they had stopped in on their winding journey along the Grand. A short stone wall surrounded the inner city. The outer city spilled outside the wall like a boiled over pot. The streets were jammed with people. Most had the familiar brown skin, brown hair, and brown eyes of a Khulanty native, but here and there were people with drastically different coloring: tall women with skin so dark it was nearly black dressed in bright reds, oranges, and yellows; and stocky people with yellow hair and pale skin who reminded her of Cook at Sacred Heart.
+
+“They’re river traders,” Father Vytal explained. “The Grand River leads all the way to the Eastern Ocean. Kinswell, the capital of Khulanty has an economy based largely on trade with foreign nations. Some traders have the Royal’s permission to take riverboats up river as far as Riverton. The dark skinned women are from the Taranaki Empire in the north. The pale skinned people are from the Mountain Kingdom in the south.”
+
+Father Vytal led them through Outer Riverton, past the small houses and shops, and into Inner Riverton. Guards stood at the gate to the wall, clad in leather armor reinforced with metal plates under a tabard bearing a red stag on a green field. Each held a spear to his shoulder and wore a sword at his hip. Father Vytal explained that the red stag was the symbol for Magistrate Putnam’s family.
+
+The guards saluted Father Vytal.
+
+Magistrate Putnam’s enormous house was on a hill near the center of the city. The streets radiated from the house as rays from the sun, as though the entire city were focused on Noble Putnam’s house. An expansive yard surrounded the house and was in turn surrounded by a high stone fence. Father Vytal led them to a large, fanciful gate that allowed glimpses onto the delicately tended gardens beyond. The guards at the gate in their red and green tabards saluted smartly. A small man wearing clothes in the colors of Noble Putnam, eyeglasses balanced upon his nose, approached. The small man frowned at them.
+
+“What business do you have here, peddler?” The small man demanded.
+
+Sweep was shocked. Except for the Mother Superior, she’d never heard anyone speak to Father Vytal with any tone but respect.
+
+But Father Vytal just smiled his beatific smile, not in the least perturbed. “Tell the Consort Putnam that Father Tristam Vytal is here to see her.”
+
+The man blinked hard, and Sweep saw his gaze harden. He didn’t apologize for his misassumption.
+
+“The Magistrate isn’t here. He’s out hunting.”
+
+Father Vytal shrugged. “I’m not here to see him. I’m here to see Consort Putnam.”
+
+The man smiled then, but it was a sly, nasty smile.
+
+The small man’s thoughts were so loud Sweep couldn’t help hearing them even through her shield—he assumed Father Vytal’s relationship with the Consort Putnam was inappropriate and that he would be able to use it to his advantage. His thoughts spilled about him like curdled milk.
+
+Sweep shivered and covered her nose. Father Vytal continued to smile. Sweep wondered if he had felt he uncontained thoughts.
+
+“Yes, of course, Father. I’ll have a man show you to a guest chamber where you can wash and rest from your travels.” He bowed. His vile thoughts had abated, but Sweep couldn’t get the bad taste out of her mouth.
+
+They were directed to drive the carriage to the stables where a stable master and several stable boys unhitched Steady and prepared him a stall. A young man in the red and green livery of House Putnam led them to a suite of rooms, two stable boys following behind carrying their extra gear.
+
+Father Vytal suggested they wash first, so Sweep and Temperance went into the small washroom separated from the sitting quarters by a short hallway and a thick curtain. The water was not cold, so they took their time about washing. When they were done, they decided to dress in the nice dresses Catherine had given them. Catherine had insisted on gifting each of the girls with a dress she’d sewn. The people of Kaver’s farm made most of their own clothes and Catherine’s job was to make clothes for those whose skills lay elsewhere.
+
+Neither dress fit well, which was little surprise. In the months since leaving Sacred Heart the girls had made many alterations to their clothing: they were all too tight in the shoulders and hips, too short in sleeve and hem. Sweep had noticed Temperance had grown a couple inches taller than her. Though Temperance was two years older, they’d always been the same size and it felt odd that Temperance was now taller.
+
+So they dressed in their travel clothes and took the nice dresses to the sitting room to alter them while they waited for Father Vytal to take his turn in the washroom.
+
+Father Vytal emerged from the washroom clad in his clean white coat with high collar decorated with golden sunbursts over black pants and shirt and soft leather boots. The golden edged, scarlet stole lay about his shoulders as evidence of his office. His sunburst rested in sharp contrast against his black shirt.
+
+“I need to meet with Consort Putnam,” he told them.
+
+“About the purple-eyed woman?” Sweep asked.
+
+He nodded. “I promise to share whatever information I come across, but I fear it won’t be much.” He smiled gently. “There is a garden just outside and several books.” He gestured at the bookshelf. “I trust you two can stay busy until I return?”
+
+Sweep nodded, but forestalled his departure. “Sir? I’m worried about the man at the gate.”
+
+“The chief butler,” Father Vytal nodded. “Why?”
+
+“I… I didn’t mean to, but I read his mind. It’s like he was shouting his thoughts. He means to try to use your relationship with the Consort.”
+
+“Yes. He’s an untrained telepath. He probably catches bits of people’s thoughts without realizing what he’s doing and projects his thoughts when stressed or excited.”
+
+“What do you think he’s going to do?”
+
+“I don’t know, but I shall be on guard for it.” He straightened his stole. “I’ll be back before dinner.”
+
+The girls spent some time finishing their dresses and when they were done, they felt restless. It was still several hours before dinner, so they laid their dresses aside and went for a walk in the gardens. Their sitting room had a pair of double doors that opened onto a short cut lawn and well-trimmed rose bushes. They walked out onto the garden, timid at first, but when a gardener looked up from his work and smiled at them, they relaxed.
+
+The gardener was a wizened man in dirt-stained clothes and a leather apron with pockets filled with shears and a spade.
+
+“You’re the apprentices of the Holy Father what’s just arrived, eh?”
+
+“How’d you know that?” Sweep asked, keeping a check on her fear—he hadn’t threatened them, and they’d done nothing wrong.
+
+“There are no secrets at Putnam manor from old Tam.” He tugged on an earlobe conspiratorially. “I hear every rumor worth hearing.” He bent back to his work. “You two move along now. I have work to do and can’t be entertaining children all afternoon.” Just as though they had addressed him rather than the other way around.
+
+The two walked on only a few minutes more before Sweep was brought up short by the unexpected sight of a skinny man in workman’s clothes and leather apron striding across the garden. It wasn’t the clothes that were unexpected but rather who they clad, the chief butler.
+
+Sweep ducked behind a convenient lilac bush and pulled Temperance along with her. From concealment, they watched the man.
+
+Temperance put her hand on Sweep’s. “Isn’t that the man who called Father Vytal a peddler?”
+
+The skinny man with the balding pate had changed from the red and green livery to plain, ill-fitting workman’s clothes like the gardener was wearing. The two watched him walk briskly, almost furtively, to a side gate. He produced a key from the apron’s pocket and unlocked the gate, and slipped out.
+
+Sweep had been so focused on the chief butler, she hadn’t heard the old gardener come up behind them until his broken cackle made her jump, her heart leap. Temperance choked back a squeak.
+
+The old gardener laughed harder, eyes wet with mirth. “So, you’ve uncovered the master butler’s secret.” He wheezed as he spoke, a symptom of laughter.
+
+“Secret?” Sweep asked despite herself.
+
+“He thinks he keeps it secret, but old Tam knows he’s got a lady-on-call out past the walls in Outer Riverton.” Tam the gardener winked knowingly.
+
+• • •
+
+By the time evening fell, the girls waited in the sitting room, clad in their fine dresses from Catherine Smith. They sat together on the couch, Temperance reading a book from the bookcase, something about medicinal herbs, Sweep had her eyes closed, a throw pillow clutched to her chest her feet tucked under her. But she wasn’t asleep. Instead, she was in the room in her mind, studying the chessboard.
+
+She knew when Father Vytal returned by the approach of his aura. With a peculiar kind of double vision, she could see both the game of chess she was losing and Father Vytal’s silvery purple aura.
+
+“Are you ready for dinner?” he asked.
+
+Sweep blinked herself from the mindspace and stood up as Temperance marked her place in the book with a scrap of cloth. As they followed him through the halls, Sweep couldn’t help but think that they looked like a pair of peasant girls playing dress up next to Father Vytal and his formal church uniform.
+
+Dinner was served in a great dining hall, twice the size of Farmer Kaver’s. Unlike in the farmer’s hall, Father Vytal was not so important a visitor to warrant a seat at the head table. Instead, the three found themselves seated near the end of one of the lower tables. Noble Putnam’s chaplain delivered the pre-dinner prayer: a lengthy litany of reasons to be thankful, among them Noble Putnam’s successful fox hunt.
+
+When they sat down to dinner, Temperance muttered, “I like Father Vytal’s prayers better.”
+
+“Thank you, Temperance.”
+
+Temperance blushed.
+
+After a while a servant, a young woman in a simple green dress, approached and asked them what they wanted to eat. Not long after she was gone, a stranger joined them.
+
+He was a tall man and broad, with an untamed black beard that curled tightly against his jaw. He wore a dark red robe over a simple white shirt and his golden sunburst pendant stood out against that white, marking him a Son of God.
+
+“I did not expect to see you so close to the seat of power, Councilman.”
+
+“Hello, Jack.”
+
+“Any luck finding the Purple Prophesier?”
+
+Father Vytal ignored the question. “What brings a Sword of the Church to Riverton? Are you on your way out, or on your way home?”
+
+“Looking for a distraction, Tristam? You always were one for a good adventure.”
+
+The serving woman came back then, carrying a tray laden with bowls of stew and a plate of biscuits.
+
+“Is there anything I can get you, Father Shane?” she asked the broad, bearded man.
+
+“Beer and supper, Molly dear.” He smiled at her, and winked. Molly smiled back and giggled before going back to the kitchen.
+
+“Still partaking of adventures yourself, Jack?”
+
+Father Shane shrugged. “That’s between me and the confessional, Tristam.” He shifted his focus then to Temperance and Sweep, who were trying to eat and listen while remaining unobtrusive.
+
+“Who are the whelps?”
+
+“My apprentices, Temperance Sunday and Piety Churchstep.”
+
+The girls bowed from their seats at Father Shane.
+
+“Humph, orphan names. Still taking on charity cases?”
+
+“They’re quite gifted students,” Father Vytal went on, as though he hadn’t been interrupted. “They’ve been an invaluable help during some of my… charity cases.”
+
+Father Shane laughed loudly. “Still think you can save the world one broken arm at a time?”
+
+Father Vytal nodded. “Yes, I suppose I do. And what are you doing to save the world?”
+
+Father Shane shrugged. “Officially I’m here to advise Noble Putnam on a matter of some brigands hiding in the hills.”
+
+“And unofficially?”
+
+The warrior priest leaned forward and lowered his bass voice to a whisper. “I’m investigating demon worship.”
+
+Father Vytal raised a questioning eyebrow. “Seriously?”
+
+“Bah.” Father Shane waved dismissively at Father Vytal. “You old skeptic. How can you be a man of God and not believe in demons?”
+
+Sweep was shocked. That Father Vytal, a Son of God, might not believe in everything the Scriptures described, hadn’t occurred to her. But then again, she reminded herself, there was that alternate version describing the genesis of creation. Perhaps there was an alternate story about demons not existing?
+
+“Have you ever seen a demon?” Father Vytal asked. “In all your assignments for the Church, have you ever seen one?”
+
+“Just because I haven’t seen one doesn’t mean they don’t exist,” Father Shane persisted.
+
+“I agree,” Father Vytal said. “But I have seen demons. I’ve seen them in the jealous man coveting another man’s wealth, in the woman who indebts herself to show off for her neighbors, in the haunted eyes of a man addicted to drink. I have seen men and women who do not struggle against the evil in their hearts. Those are the real demons, Jack.”
+
+Father Shane shifted uneasily. “There’s no reason to bring up my drinking, Tristam,” he growled, glowering at Father Vytal.
+
+Molly arrived then, carrying a tray with a bowl of soup and a pitcher of foamy beer. She set it down in front of Father Shane with a wink and a smile. When Father Shane did not return the knowing look, she frowned, then pouted, then stalked away.
+
+Father Vytal leaned forward, reaching a hand halfway across the table. “I’m sorry, my friend. You are right. You have conquered your demons and I should trust your judgment in such matters.”
+
+Father Shane took a breath and reached out to take Father Vytal’s hand. “Thank you, Tristam.”
+
+He turned his attention then to his meal, eating heartily of the stew but only sipping at the beer. Sweep turned her attention to her own meal and Temperance followed suit. Father Vytal and Father Shane chatted about things and people the girls didn’t know. The interesting conversation was not resumed until after they’d had their fill and Noble Putnam stood to bid them all goodnight. Soon thereafter, much of the great hall emptied.
+
+Sweep expected to be tired, but the potential excitement in Father Shane’s mission involving demons, kept her alert. Next to her, Temperance looked just as interested.
+
+“In truth, Tristam, I suspect treason.”
+
+“Noble Putnam has designs on the throne? I wouldn’t have thought it of him.”
+
+“Not his Nobleship, the lady.”
+
+“Callista? No, I do not believe that.”
+
+Father Shane shrugged his massive shoulders and swirled the last of his beer in its mug. “You’ll believe the best of anyone, even our High Cleric.”
+
+“Don’t start, Jack. Marcus Radden is a good man.”
+
+“You never served with him in battle. But you’re right, we shouldn’t start that again.” He tapped his mug against the table, looking thoughtful. “She’s a bare slip of a woman, Tristam. I don’t want to have to haul her to Kinswell for a trial, but I’ve been watching her. She’s acting suspiciously, furtive, nervous. Did you know she goes to secret meetings at least twice a week?”
+
+Father Vytal nodded. “I do.”
+
+Father Shane laughed quietly. “I shouldn’t be surprised. How do you know?”
+
+“She told me. And if that’s your only evidence for suspicion, prepare to look elsewhere.”
+
+“All right then, what has she been doing?”
+
+Father Vytal frowned. “I can’t tell you, Jack. She told me in confidence and as her spiritual advisor, I have sworn to keep her confessions a secret.”
+
+“And I would never ask you to break the seal of confession.”
+
+But Father Shane had a mischievous smile hiding behind his beard, and despite herself, despite that Sweep didn’t like how Father Shane had no respect for Father Vytal, she found Father Shane fascinating and was curious what he would do next.
+
+“So, you say she’s not a traitor. She’s not really summoning demons, is she?”
+
+“Jack.” Father Vytal’s voice held a warning.
+
+“You don’t have to say a word, old friend, your face tells all.”
+
+“Jack, don’t do this.”
+
+“Perhaps our dear Consort Putnam is a smuggler?”
+
+Father Vytal frowned and sat back in his chair. He crossed his arms and his face went blank.
+
+“Slave trade?”
+
+“There’s no slave trade in Khulanty.”
+
+“Don’t pretend to naiveté, Tristam. It doesn’t suit you. And I’ll not be distracted. Does she have gambling debts? No. Taken up with one of those fanatical cults? A dalliance with a nice young man?”
+
+Whatever it was that changed about Father Vytal’s expression, whatever it was that gave away the secret, Sweep didn’t see it. But Father Shane did.
+
+“Really? Little Callie Cross is an adulterer?” Father Shane’s expression had lost its mischievousness in favor of grave concern.
+
+“Callista is a young woman in an arranged marriage who has always loved someone else.”
+
+“God’s Beard, Tristam. You are a hopeless romantic.”
+
+“I’m a counselor and friend to Consort Callista Putnam nee Cross. And I’ll thank you not to blaspheme in front of the children.” Father Vytal nodded pointedly at Temperance and Sweep.
+
+Sweep blushed.
+
+Father Shane looked at them as though he’d forgotten they were there. Sweep had been unabashedly watching the conversation unfold but now felt as though she’d been caught intruding.
+
+“My apologies, young acolytes.” Father Shane bowed his head solemnly.
+
+Sweep blushed further, not least for being mistaken for an acolyte.
+
+Father Shane smiled gently at them before turning back to Father Vytal. “So where does that leave us, Tristam?”
+
+“I don’t know where it leaves you, Jack, but I’ll be staying here a while to council Consort Putnam. Your search for demons and traitors is none of my affair.”
+
+“Bah! What happened to your sense of adventure?”
+
+Father Vytal stood and bowed to Father Shane. “Good night, Jack.”
+
+Sweep and Temperance stood as well.
+
+Father Shane spread his hands. “Oh come on, Tristam, don’t be mad. Besides, you can’t tell me you’re not worried about a potential traitor. You’ve got more invested in the royal family than anyone not Royal. For their sake you might try to help me a bit.”
+
+Sweep almost spoke. She almost told the clerics about the chief butler skulking around the gardens. But she was just a little girl; surely Father Shane would have already investigated the butler. It would be presumptuous to suggest otherwise. So she hesitated.
+
+“We can talk more in the morning,” Father Vytal said.
+
+Sweep and Temperance clasped hands and followed Father Vytal from the dining hall.
+
+“Which do you think it is: demons or traitors?” Sweep asked telepathically.
+
+“I think Father Vytal’s right. I’ve never seen or heard of anyone seeing a demon in real life. Not in modern times anyway.” Temperance’s voice was clear, like she spoke aloud.
+
+“Do you think Father Vytal is going to find the traitors? Do you think he’ll let us help?”
+
+Temperance shivered. “Sounds dangerous.”
+
+“What do you think of Father Shane? I never expected a cleric to act like that.”
+
+“He’s a Sword of the Church. They’re given some leeway, or so I’ve read.”
+
+They chatted telepathically all the way back to their room and into the night.
+
+• • •
+
+White chalk on shiny black stone inscribed a circle crossed with lines and lined with markings she did not understand. She stood in the center of it, waiting, though for what she could not remember. Above, the sky was black pinpointed with shimmering stars. And from within her welled an uncomfortable swell, as though she had lost control of her power, as though the comforting well of still water bubbled like a pot too long on the stove.
+
+She took a deep breath and tried to calm her thoughts and, in turn, the well of power.
+
+Around her, the chalk markings glowed. Dimly at first, but quickly intensifying into a bright light that shone off the black stone and lit the sky, obscuring the stars. But it was within the shadows between the lines she focused her attention. And from those shadows, figures emerged: the crook of an elbow, the swell of a back, the glint of an eye. The sudden stench struck her like a gusty wind, plugging her nose and mouth and eyes, and she gagged.
+
+The light dimmed, faded to nothing and was again just chalk, but the creatures had been summoned. She could see them clearly now, in the starlight, pale, starving creatures that once were human, shambling on paper-dry feet, raising ragged hands like claws, reaching for her. She could feel their thoughts. They were consumed with hunger, a pain that drove them to seek sweet warmth within a living body. And she knew they could smell her, could smell the blood within. She knew no matter how far she ran they would follow that smell.
+
+• • •
+
+“Piety?”
+
+Sweep had her back pressed hard against the wall. Her eyes were wide looking for any sign of the demons with rotting flesh. Temperance sat upon the bed, staring at her through the shadows.
+
+“Piety? Did you have a bad dream?”
+
+Sweep nodded, but stayed pressed against the wall. The creatures in the dream had exuded rank thoughts that made her shoulders itch like stale breadcrumbs in the bed sheets or rotten meat lingering in the corner.
+
+Temperance struck a match, producing a brief flash and sulfur stink. The light and smell helped banish the dream. Temperance lit three small candles on the bedside table, then slid off the bed and walked to Sweep. She put her hands on Sweep’s shoulders.
+
+“Piety?”
+
+“I’m fine. It was a dream.”
+
+“About…”
+
+“No,” Sweep interrupted. “No, it was, do you remember Saint Esther and the Dread Necromancer?”
+
+“Sure. Saint Esther defeats a necromancer from the north.”
+
+“I was… in my dream… there were rotting demons,” Sweep shivered.
+
+“Yuck. And a dread necromancer?”
+
+Sweep nodded. “It was me.”
+
+Temperance laughed, not the sort of comfort Sweep was looking for.
+
+“I’m sorry, I shouldn’t laugh at you, but there’s no way you could be a necromancer.”
+
+Sweep smiled and a small chuckle escaped her lips.
+
+Temperance nodded. “That’s better. Why don’t you come back to bed?”
+
+Sweep nodded though it was several moments more before she could push herself away from the wall. Temperance waited patiently, quietly.
+
+Once Sweep was sitting on the bed, after Temperance had blown out the candles, a noise caught Sweep’s attention; the muffled creek of rusty hinges.
+
+“Did you hear that?” Sweep asked.
+
+“Hear what?”
+
+But Sweep was already creeping through the shadowed room to the window, the dream banished.
+
+The moon shone brightly on the garden beyond, and Sweep could make out the small garden shed and the glow of a candle flame from within.
+
+“What’s going on?” Temperance whispered as she approached Sweep’s shoulder.
+
+“I don’t know.”
+
+But a few minutes on, they saw the chief butler emerge from the storage shed, clad in his workman’s clothes. He looked around and Sweep froze, Temperance gasped, but he didn’t seem to see them. Then he headed into the garden.
+
+“He’s probably going to that side gate we saw him at earlier today,” said Sweep.
+
+“I wonder what he’s doing.”
+
+Sweep was gripped by sudden resolve. Father Shane was looking for a traitor, and Sweep suspected the butler. Earlier she had said nothing because she’d been afraid of being presumptuous. But now she saw an opportunity to gather some proof to present to the Sons of God.
+
+“Let’s follow him.”
+
+“What? No, it’s too dangerous. Besides, he’s probably just going to see his lady-on-call.”
+
+“You don’t have to, but I’m going.”
+
+The window opened easily and silently. Sweep pushed herself upon the sill and dropped onto the other side, the flagstone by the wall was cold on her bare feet. She took a moment to search for the man and found she could just see the candle lantern bobbing through the bushes. He was probably already at the gate. She hurried after.
+
+“Piety!” Temperance whisper-yelled.
+
+Sweep paused to look over her shoulder. Temperance hurried after her, carrying a pair of slippers, her own already on her feet. Sweep smiled.
+
+Moments later, they crouched behind the same bush as when Tam the gardener had spoken to them just that morning. The chill of the spring night tickled Sweep’s legs under her nightdress. Next to her, Temperance rubbed her arms through her sleeves. The butler stood at the side gate in the garden wall, his candle lantern gripped in one hand. There was someone on the other side of the gate and the two conversed. The butler occasionally gestured emphatically.
+
+“What are they saying?” Temperance asked.
+
+Sweep shrugged. “I can’t hear them.”
+
+“Can’t you…” Temperance tapped her head.
+
+“I’m not supposed to read minds without permission.”
+
+“I thought we suspected him of treason. Not reading his mind might get a lot of people hurt.”
+
+Temperance was right. Father Vytal had told her to trust her judgment. If she could stop one man from hurting many others, a bit of telepathic snooping was warranted.
+
+Sweep took a breath and closed her eyes and a moment later she had achieved the calm she needed to touch the still well of power within her. Then she spread her awareness, like spreading a blanket upon the ground. She could see the people in her mind’s eye as faintly glowing light. She focused on the butler, a dark red and sharp white aura, and his thoughts opened to her.
+
+Yes, you fool, bring your filthy marauders around to this gate, yes this gate and don’t worry about them, once I’m Magistrate of Riverton the guard will answer to me and we’ll round them up and put them back in that prison where they belong. Yes, tell them they may have whatever women they like. But not the Consort Putnam, that luscious little slut belongs to me. No! Now, you blithering idiot! I’ve taken care of the guards, poison in a kindly flask of tea. Just a touch bitter you see. Yes, now, bring them now. You may tell the insatiable brute there are a pair of girls that will be to his liking just beyond the lilac hedge.
+
+Sweep wrenched her thoughts from the chief butler’s mind with a despairing cry. Her head hurt and her stomach roiled. She fell to her hands and knees and vomited.
+
+“Piety, Piety please get up. He’s coming this way. There are men with him. Get up! Get up!”
+
+Sweep struggled to her feet. Temperance had a hold of her hand and dragged her through the garden, toward their window. But Sweep could hear heavy whispers and booted footfalls gaining ground on them. When she was grabbed around the waist and lifted her off the ground, she screamed—but only for a moment, because a thick-fingered, heavily-callused hand covered her face, muffling her voice. She tried to bite him but he didn’t seem to notice. She squirmed and kicked, but the man held her fast. She was trapped.
+
+“Little wench,” growled her captor, voice rumbling against her back through his chest.
+
+“Just gut her and leave her, we’re supposed to be raiding the place right? What’s one more dead serving brat?” The new voice was thin and oily.
+
+“Mine. He said they was mine.”
+
+“Right, fine, whatever. Just be quick about it. We’ve got a job to do.”
+
+“Give me the other one too.”
+
+“Gods Wounds, Raimy. Why—“
+
+“Give her!”
+
+The man’s shout rang in Sweep’s ears and his embrace tightened, squeezing the air from her. He removed his hand from her mouth, but she couldn’t scream. She couldn’t think. She could only blink in the moonlight. Temperance whimpered somewhere to Sweep’s left and below her, but Sweep couldn’t make herself turn to look for her. All she could do was hang rigid in the man’s grip, held tight to his chest.
+
+“Be quiet you idiot. Do you want to bring the guards down on us?”
+
+But the large man holding Sweep didn’t respond. He was walking now. He was walking back the way Sweep and Temperance had come from, where the window to their bedroom stood open. Seeing that open window reminded her Father Vytal wasn’t far away, and Sweep hoped that if she screamed loud enough, Father Vytal might hear and come to their rescue. But with the man still holding her as he was, he’d be able to cut off any shout just by squeezing. So she waited.
+
+“Piety, call to Father Vytal,” Temperance said, her voice strained with fear.
+
+“Quiet,” rumbled the man, “or I’ll break your arm.”
+
+Temperance whimpered piteously
+
+Sweep almost discarded the suggestion because, as she’d just reasoned, shouting would only get her squeezed; she’d have to wait until the man set her down before she shouted. But, of course, that wasn’t what Temperance had meant, and it took Sweep several moments before she realized it. In her panic, she’d forgotten the room in her mind and the well of power. She closed her eyes, slowed her breathing, and imagined a small room with a grey chair patterned in black and white and a full bookcase and a desk bearing a quill, a pot of ink, and a pack of playing cards.
+
+And she was calm. And from her calm, Sweep could reach her power. She sought out Father Vytal with her telepathy and she shouted. She did not shout in words, but in pictures. She pictured the butler and his thoughts, she pictured her capture and Temperance’s, and she sent a desperate, wordless cry for help.
+
+When the breath was knocked from her, she lost her calm, lost her hold on her power, and her mind shattered like a dropped mixing bowl. She lay still, unmoving, unable to access the world around her, caught in her broken thoughts, without trying to put them back together again.
+
+She was worried about Temperance; her friend was in trouble, but the spring garden smelled of grass and earth and water. And the stars spun madly above her head though surely she must be still as the water soaked through the back of her nightdress. But dreams of chessmen chased nightmares crawling from the shadows with papery skin and sharp fingers and insatiable hunger. And she screamed.
+
+The man struck her across the face, cutting off her scream. Sweep was brought back into herself. She remembered where she was and that she was in immediate danger. She lay on her back, the man standing over her. He was a hairy brute, coarse black hair covering his cheeks, chin, neck and his bare, tree-trunk-like arms. His eyes were open wide, his lips between his teeth making his beard bristle.
+
+He held a knife.
+
+There were shouts: surprise, anger, pain. Metal clashed. And the man looked away. Sweep didn’t wait. She rolled to her left and scrambled away, praying the man would be distracted long enough for her to escape. She was almost to her feet when he grasped her ankle and she fell with a pained cry.
+
+“Mine!”
+
+Sweep kicked blindly. She felt her right heel connect and her ankle was released. She got to her feet, but her left ankle was sore and she almost fell again. Someone grabbed her from behind and she almost struck out.
+
+“Piety, it’s me.”
+
+Temperance’s voice provided a flood of relief, and Sweep almost fell again. Leaning on Temperance’s shoulder, she managed to get to the manor house wall.
+
+“Think you can climb in?”
+
+Sweep looked at Temperance, confused, and blinked slowly. Temperance pointed and Sweep saw an open window, the window to their room. It seemed like forever ago that they’d snuck into the garden. Then she nodded. Despite her affirmation, Sweep couldn’t manage it on her own. Temperance gave her a boost up and through, climbed in after her, then closed and locked the window.
+
+Even from within their bedroom, they could hear the sounds of armed skirmish. They huddled together on the bed, holding each other tightly. Sweep struggled against the relief flooding her with exhaustion, struggled to keep her eyes open, struggled to keep her body alert, but even as the sounds of fighting erupted and died away and erupted again, she felt safe next to Temperance, like a secure harbor in a storm, like a hearthfire during a blizzard.
+
+She was awoken by a firm knock at the bedroom door.
+
+Sweep sat up in bed and found herself alone. Sunlight streamed in the window. There were no sounds of combat.
+
+The knock came again.
+
+“Just a minute,” Sweep called. She slipped out of bed and replaced the covers so the bed looked neat. Then she found her travel clothes still folded and stacked in the wardrobe. She pulled on the clothes and brushed her hair back from her face. Presentable, she opened the door. Father Vytal stood on the other side clad in simple grey pants and a white tunic. Temperance and Father Shane sat in the common room behind him.
+
+“Congratulations, Piety. You saved House Putnam. Care to join us for luncheon?”
+
+“I slept until noon?”
+
+Father Vytal put a hand on her shoulder and guided her into the suite’s common room. “Your psychic shout woke the entire household. You probably didn’t exhaust yourself as you did at Rauf’s farm, but I thought it best you get some extra sleep.”
+
+Sweep sat next to Temperance on the red and cream patterned couch and availed herself of the rolled ham slices and spicy mustard. “So, it wasn’t Consort Putnam after all?”
+
+“No,” said Father Shane, cracker crumbs stuck in his beard. “Tristam was right on that account. It was the butler, which is cliché.”
+
+“Indeed,” added Father Vytal. “Your decision to follow the butler last night saved us all. He had quite a horde of brigands ready to storm the manor house.”
+
+“It was dangerous is what it was,” Father Shane barked. “What in all nine hells were you thinking? What did you think you were going to do? You should have woken me or Tristam. I’d smack your little bottoms except Tristam would object.”
+
+“Strongly object,” said Father Vytal firmly.
+
+“He wouldn’t really do it,” Temperance confided quietly. “He’s been grumbling at me all morning. He was just worried about us.”
+
+Father Shane grunted.
+
+“Why are you so sour, old friend? You’ve caught your traitor and not a demon in sight.”
+
+Sweep poured herself some tea and indulged in some sugar. She realized she preferred tea with lots of sugar and only moderated herself out of habit. Temperance offered her a small bowl of stewed vegetables and she took it with a smile. All the while, Father Shane munched at his lunch and didn’t say anything. But Father Vytal was patient and his patience won out.
+
+“David, the butler’s name is David, confessed last night that he’d been given money to pay for those sad excuse for mercenaries. He said the money came from the south, a merchant who operates out of Sunslance in Kempenny Province. Says they call themselves the Alicorn Raiders.”
+
+“I see,” said Father Vytal. “So now you go hunting demons in Kempenny?”
+
+“Indeed. I told you they were real, Tristam. Thing is, I was going there anyway. The mayor sent a request to the Church Council and I am to go to Sunslance just as soon as I’m done in Riverton.”
+
+“I think I shall come with you, Jack.”
+
+Father Shane smiled. “So, you do still have a taste for adventure. We can get an escort to take these brats to Kinswell and be off tomorrow morning.”
+
+“No,” said Sweep at the same time Temperance said, “We’re going too.”
+
+Father Shane chuckled. “You can’t be serious, girls. Don’t you remember what happened last night?”
+
+Sweep cleared her throat uncomfortably. “What happened to him? The one who…” The moon-silver knife flashed in her memory. “Was he captured?”
+
+“He’s dead,” Father Shane said bleakly. “And going to Sunslance is going to be just as dangerous.”
+
+“No Jack, they’re right. They’ll be coming with me.”
+
+Father Shane stood and clenched his fists at his side. “You can’t be serious, Tristam. They’re children by God’s Eyes. We can’t take them on what may well be a deadly mission. What happens if they’re attacked again?”
+
+“Have you heard the rumors coming out of Kempenny Province lately?”
+
+Father Shane shook his head. “Just the usual stuff. Governor Kempenny is a dark witch. She’s drinking the blood of her people and so on. What has this got to do with anything?”
+
+“I hear rumors too, Jack. Rumors are that Kempenny’s raised a real army and that their general is a girl little older than my apprentices. If a girl can be a leader of soldiers, then a girl can go to investigate her. They’re coming with me, Jack, and I’m going to Sunslance.”
+
+Father Shane relaxed just a bit, his shoulders no longer taught, his fists no longer white-knuckled, and he cocked his head at Father Vytal.
+
+“What do you know that I don’t, old man?”
+
+Father Vytal smiled. “A great many things, old friend.”
+
+• • •
+
+They spent a week at House Putnam’s manor house. Father Shane groused and stomped and mostly stayed to himself. Father Vytal spent several hours a day cloistered with the Nobles Putnam, but he wouldn’t talk about what was said in those private meetings. Sweep and Temperance spent much of their time in the suite. Often, Temperance would wander the gardens and talk with the gardeners.
+
+When she was alone, Sweep went to the room in her mind. There, while playing cards or sitting with a book in her lap or considering her next chess move, she thought about what had almost happened in the garden. The man called Raimy had meant to kill her. And she couldn’t help but think the Mother Superior had warned her about this, about the world outside the walls of Sacred Heart and how dangerous it was.

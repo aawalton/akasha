@@ -1,0 +1,299 @@
+---
+id: 457a3efe-7b81-55dc-89e7-282922481fb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26"
+slug: 0027-chapter-26
+partOf: light-cleric
+position: 27
+ownLength: 3751
+unit: words
+publishedAt: 2021-08-08
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/730285/chapter-26"
+royalRoadId: "730285"
+---
+
+Lillyfield still couldn’t bring herself to use Willow’s desk, so the following evening they sat again in the cushioned chairs around the low table. Temperance made them all tea. Hirrom refused the offered cup politely, and Temperance blushed.
+
+“Sorry Father, I forgot.”
+
+Hirrom smiled. “Not at all, Mother.”
+
+Tobias stood at the door, looking relaxed, almost lazy, but his gaze stayed on Hirrom. He didn’t trust the vhamp, and Piety couldn’t blame him. He accepted the tea Temperance offered him, but didn’t look any less dangerous with teacup in hand.
+
+Piety took a breath over her tea. Temperance had found some mint to flavor it, and the scent made her smile.
+
+“So,” said Piety, and she had their attention. “Hirrom. As I’m sure you’ve suspected, I was sent here to investigate reported vhamp activity. The Royal herself asked me to come.”
+
+Hirrom nodded.
+
+“She and I both noticed the vhamps have started to change. Their powers and weaknesses no longer seem consistent. You’re an expert in supernatural powers. Do you have any ideas about what’s going on?”
+
+Hirrom leaned back in his chair and steepled his fingers. “Perhaps. My own powers were minor telepathy and aura reading, but after…” he trailed off and his gaze went distant and troubled. “When I awoke, it was stronger. Though not as strong as yours Piety. Physically, I’m stronger, faster, I can see and hear better than ever I did in my youth. But there are the weaknesses; sunlight, gold, and fire.”
+
+He leaned forward and rested his elbows on his knees. Piety saw Tobias stir restlessly. If Hirrom saw it, he gave no indication.
+
+“But now, as you say, some aren’t as weak to sunlight, like myself. Most of us can’t be out during the day, but I can. My guess is that we have different powers based upon what we were like before. But the pitiful creatures Vharamp keeps under his thumb cannot focus on anything but their hunger.”
+
+Piety nodded. “So, those who regain their personalities show some variation?”
+
+“It is my best guess.”
+
+“It will do. Now, about the options you hinted at.”
+
+Hirrom held up his hands. “Now, Mother…”
+
+“Don’t. Hirrom you gave a triple-oath with your undead hand smoldering upon His golden seal. I want to help you.”
+
+Hirrom smiled. “That oath was to control my bloodlust, not to drag you on a potentially dangerous and likely fruitless quest just to save me.”
+
+Tobias took a step forward. “He’s right, Mother. You’ve done what the royal asked of you. There’s no reason to put yourself in further danger.”
+
+“This isn’t about me, Tobias. And it isn’t just about Hirrom either. There may be more like him out there, afraid of what they can do, of what they must do to survive. If I can protect the people of Khulanty and help those cursed through no fault of their own at the same time, it is my duty to do so.”
+
+Tobias frowned but stepped back. The following silence was interrupted only by the crackling fire. Piety didn’t want to be the first to break the silence. She gazed at Hirrom steadily, trying hard not to think about her suddenly itchy throat.
+
+“I don’t want to endanger you,” Hirrom said.
+
+“What will you do then? Starve yourself until you become a mindless, ravenous creature so that I have to hunt you down and destroy you? I suppose you don’t consider that dangerous?”
+
+“Exile,” Hirrom responded promptly. “I’ll go west, past the borders of Khulanty.”
+
+“There are people west of Khulanty,” Piety reminded him.
+
+“I’ll feed on animals. Human blood is sweetest and yours, Piety, unlike any other I’ve tasted since waking in this accursed form, but I can survive just fine on animal blood.”
+
+Piety frowned.
+
+Hirrom put up his hands, a placating gesture. “But I should know better than to stand in the way of a cleric and her duty. I’ll tell you my hypothesis, then we’ll decide whether or not to pursue the idea.”
+
+Piety took a sip of her tea and let its minty warmth sooth her dry throat.
+
+“I taught powers class at the High Temple because before I lived there permanently, I traveled the nation cataloguing as many different powers as I could. It was a hobby of mine. My other hobby was astrology.”
+
+Lillyfield gasped. “I thought that was blasphemy.”
+
+“Oh? What gave you that idea?”
+
+Lillyfield squirmed under the scrutiny of the vhamp cleric. “The Mother… that is, the former Mother Superior, she said astrology was the work of charlatans and blasphemers.”
+
+Hirrom nodded. “Many clerics seem to be under that impression. But I’m surprised your Mother Superior was among them since her desk is covered with star charts.” Hirrom stood and Piety followed him. Temperance and Lillyfield followed suit. Tobias remained by the door.
+
+Hirrom spread his hands on the desk and looked at the parchment covered in multicolored ink: circles and lines, ellipses and cramped writing, mathematical formulae and detailed maps.
+
+“When God first sang, he shattered the chaos into the twenty-seven realms, our realm, called the Prime Realm, and twenty-six other realms which orbit us. Or so some versions of the story go. There are several sworn testimonies of those who have seen, even visited these other realms when they intersect with the Prime Realm. Some realms are filled with civilizations; some don’t even have a physical form. A week or so after the Winter Solstice, astrologists believe the Twilight Realm will Intersect with the Prime Realm.”
+
+Piety was reminded of a similar explanation, now years ago, when Father Vytal had asked Temperance and her if they would be interested in witnessing such an event. Temperance put a hand on her wrist. Piety looked at her and knew she remembered too.
+
+“Father Vytal had planned to see it,” said Piety.
+
+“He was going to take us,” added Temperance.
+
+Hirrom nodded. “Yes, Tristam and I and some others were going to make an event of it, to record observable phenomena, check the math on star charts.” He sighed and a moment of silence stretched.
+
+From the door, Tobias brought them back to the subject at hand. “What does this have to do with you, Father Berek?”
+
+Hirrom stood up straight and nodded. “Quite right. I believe the Twilight Realm, an ethereal place of eventide, is without any sort of civilization. My hypothesis is that within the Twilight Realm, I would become more ethereal than physical, and thus lose my bloodlust.”
+
+Piety nodded. “A neat solution. How do we get you there?”
+
+“Scholars of astrology believe the Intersect will happen on the northern coast in the county of Olytan in Ceres Province. Interestingly, your former Mother Superior’s charts here are… slightly off. It looks to me like according to her charts, the Intersect would have been here, right where this church stands.”
+
+“That sounds dangerous.”
+
+Hirrom shrugged. “Could be. But there are some who believe that being present at an Intersect can bestow powers. Several accounts describe changes, enhancements to those touched by an Intersect. Mother, I didn’t tell you before because my thoughts were muddled with bloodlust, but when Frederick sent me here, he did something to shield the other vhamps from your sight. It was a neat bit of telepathy, but in my state I couldn’t really follow it. He told me the reason he did it was because he wanted you distracted so that he could retrieve his pet. He was coming here for her because the former Mother Superior had promised him access to the Twilight Realm Intersect.”
+
+He tapped an elliptical line that looked darker, fresher than the others. “I think she realized her mistake. She’s taking Vahramp to the Intersect.”
+
+“So even if the Intersect doesn’t save you, we have to go to stop Frederick and Willow.” Piety looked first at Temperance, then Tobias. Neither gave hint of disagreement.
+
+• • •
+
+Magistrate Conrad Wardenburg, the man in charge of governing County Wardenburg in Shannon Province arrived half a week later with a regiment of soldiers clad in his colors of green and white, a silver shield without adornment displayed proudly upon their chests. The magistrate himself was a tall thin man with gaunt cheeks and wispy white hair that was cut short and stood up straight from his head. Despite his frail appearance he wore a sword at his hip and moved like he knew how to use it.
+
+He strode into the Sanctuary through the wide-open front doors in the morning, when sunlight streamed in through the eastern window and painted him in the colors of the sun. Everyone still in town packed the pews of the Sanctuary while Mother Superior Lillyfield Morning talked about Saint Mary and her plea that all God’s children be subject to one another.
+
+His entrance, backed by ten armed and armored soldiers, caused a stir, but he waited for Lillyfield to pause in her reading before he spoke.
+
+“Pardon me… Mother?”
+
+Lillyfield looked up from her reading to focus on the magistrate. Piety saw her swallow hard and look around the room to meet her gaze. Piety smiled and stood. She edged her way to the aisle, gaining the magistrate’s attention.
+
+“Magistrate Wardenburg, nice of you to come. I imagine you have some questions.”
+
+The magistrate’s furrowed expression shifted from Piety to Lillyfield and back.
+
+“Indeed I do. There have been disturbing reports coming from this region.” His gazed flickered to Lillyfield and back again. “Where is Mother Clarice?”
+
+Piety smiled patiently. “Conrad, we’re disrupting the morning sermon.” She walked toward him and gestured at the open doors. “Perhaps we could have this conversation outside.” She walked past the thin man and his soldiers without looking to see if they followed.
+
+On the steps of Sacred Heart, Piety looked at the clear blue sky and couldn’t help but think it would be a beautiful day, despite the faint scent of ash still on the air and the soot stains on the cobble-stone street. That hint of a scent reminded her that she’d stood between the undead and those she’d sworn to protect, and had failed. Four soldiers, one acolyte, two orphans, and five citizens had died that night. The acolyte had survived being clawed across the back but had been infected with the poison of the vhamps. Temperance had sobbed when she described to Piety how she’d given her bitter tea laced with the essence of boiled peach pits.
+
+Soon, Conrad Wardenburg joined her. “I am Magistrate Wardenburg. I came here seeking your Mother Superior.” Only one of his soldiers had accompanied him, standing behind and just to his right. A look inside showed that the rest had chosen to sit in the Sanctuary where Lillyfield continued her morning sermon.
+
+“I know who you are, and you’ve just met the Mother Superior of Sacred Heart.”
+
+“That child?”
+
+“Lillyfield Morning is an infinitely better Mother Superior than the last.”
+
+“What happened to Mother Clarice?”
+
+“She was banished by Willow Vytal before she knew of her promotion. As to Willow Vytal herself…” Piety still wasn’t used to thinking of the woman who had tortured her for years as being the daughter of her mentor, and putting Father Vytal’s name to her made her feel twisted inside, like the world was just a little off kilter. But the pause was momentary, and Piety didn’t think Conrad had noticed.
+
+“I placed her in a trance, a sort of forced meditative state she cannot escape unless she acknowledges her gross transgressions and comes to forgive herself for them rather than justify them.”
+
+“And who gave you the authority to do that?”
+
+Piety shrugged. “I don’t know. God maybe. Even if He didn’t, I’m a Mother of the Church of Khulanty and Willow has consistently violated the law of the church, even going so far as to ignore their summons. I outrank her.”
+
+“So you have her prisoner in your church?”
+
+“It’s not my church, Conrad, it’s…”
+
+But the magistrate stiffened and narrowed his eyes and interrupted her. “Magistrate Wardenburg, if you please, child. I did not rise to my position only to be disrespected by a little girl.”
+
+Piety paused, letting the silence following his anger stretch just to the point of awkwardness before she replied. “I mean you no disrespect. I find titles cumbersome and a poor judge of a person.”
+
+“Be that as it may, child, you shall refer to me as Magistrate, or sir.”
+
+Piety shook her head. “I shall not. In any case, the answer to your question is no. Willow is no longer here. After the attack, she was gone. We don’t know how or where to.”
+
+But Conrad wasn’t prepared to let the matter drop. “That’s enough. The Church may let disrespectful little girls rise to prominent ranks, but I’ll not stand for it. You’ll show me some respect, child, or else.”
+
+“Mother,” Piety said. “If you insist on formality, you should call me Mother. But even if you do, I’ll refer to you by name, Conrad.”
+
+He seemed prepared to grab her, to enforce his exacting standards of formality, but Piety forestalled him. “Will you beat me to make me change my mind?”
+
+And that gave Conrad pause. Piety watched as his pinched expression slowly flushed. Then he cleared his throat uncomfortably.
+
+“So, with Mother Clarice banished years ago and Mother Vytal recently deposed, who installed this child as Mother Superior?” He gestured harshly at the interior of the Sanctuary then held up his hand to forestall her answer. “Allow me to hazard a guess. It was you.”
+
+Piety nodded. “As a Mother it is within my purview. The Church Council may reverse my decision, but as yet they have not.”
+
+“And the reports of vhamps running roughshod over the Three Rivers region?”
+
+“Several nights ago I fought with a small horde of the creatures. Twelve people died.”
+
+Conrad smiled sardonically. “And how many vhamps did you kill, little girl?”
+
+“I’m not sure. I lost count.”
+
+He laughed, assuming she was joking but the laughter died on the cool morning air as Piety looked at him steadily. He cleared his throat uncomfortably.
+
+“Well then. If you’ve deposed the false Mother Superior, installed a new one, and eliminated the vhamp threat, then it seems there’s little left for me to do.”
+
+“No, Conrad.”
+
+He fixed her with his stern gaze and lowered his brows. “You have a task for me?”
+
+Piety sighed, vexed. “Conrad, these people need you. They’re frightened and need protection, guidance. I can’t stay, I have another task, and though I have every faith in Lillyfield to fulfill her role admirably, she doesn’t know how to run a town. They need you.”
+
+The magistrate pursed his lips. Then, eyes still on Piety, he turned his head only slightly and addressed the soldier at his back. “When the sermon is over, return them to the barracks. We’ll need to check the census records then determine the status of every man woman and child in the valley…”
+
+He trailed off and faced Piety fully again. “Will there be anything else, Mother?”
+
+Piety bowed. “No, Conrad. Thank you.”
+
+• • •
+
+Cool autumn air eddied through the sanctuary where Piety sat by herself; three pews back from the dais, on the left. The sun was down so no multicolored light shone through the windows to bathe the dais and its chairs in resplendence. A faint babble of conversation from the activity in the living quarters reached her through the connecting hallway. The tromp of soldier’s boots on patrol outside provided a strict counterpoint. The air still tasted of ash, but with a hint of rain that might wash it away. It didn’t rain much in the Valley of the Three Rivers.
+
+Piety stared at the darkening dais, unable to quit thinking about those who had died. Not only the four soldiers, one acolyte, two orphans, and five citizens who had been killed by vhamps days ago, but those killed by vhamps in the weeks before her arrival, the soldiers who had died under her hands and in the field of battle, and even the vhamps themselves. She couldn’t stop thinking about them.
+
+A gust of wind swirled about her ankles, ruffling her simple cotton dress. She looked down and noted a thin skein of dust driven by the wind. Her hands itched at the sight, longing to hold a broom. But she restrained herself. Twice she had met Father Vytal while sweeping front steps and though a part of her longed for it to happen again, to believe in a power that would grant her wish, she knew it couldn’t happen.
+
+“Sweep?”
+
+Piety looked up to see Lillyfield at the entryway to the hall connecting to the dormitories. Lillyfield shifted nervously.
+
+“I’m sorry, I meant to call you Piety. I forgot.”
+
+“I don’t mind.”
+
+“I thought you were going to join us for dinner?”
+
+Piety nodded. “I just… wanted to think for a bit.”
+
+“Oh. Well, okay.” Lillyfield turned to leave, but then hesitated. “You know, Piety, that you’re a hero, right?”
+
+Piety didn’t reply. The shadows lengthened and deepened within the Sanctuary, only a lone candle on the podium on the dais made sure the Sanctuary didn’t fall completely into darkness.
+
+“Some died, yes, but you saved us. If not for you, we’d all have been killed. And many others too, from what I hear.” She cleared her throat uncomfortably. “Well… anyway.”
+
+Before Lillyfield could leave, Piety spoke. “You’re going to be a great Mother Superior.”
+
+• • •
+
+For a full week Piety had been back in Appledel and slept beneath the roof of Sacred Heart church, a full ten days from Moonday to Sunday and tomorrow would be Moonday again. And in all ten of those days, Piety had yet to visit the kitchen. She’d meant to, she’d wanted to, but between helping Conrad secure the town, setting up elections for the position of mayor, and helping Lillyfield settle into her position at the church, there hadn’t been time.
+
+Early that morning, with Tobias and Temperance readying the horses for their journey north, Piety finally stood at the door to the kitchen where orphans and a few sleepy-eyed acolytes helped Cook prepare the morning meal. She stood at the threshold quietly, watching the busy activity that had yet to take note of her.
+
+It was Cook who finally said, “Well, are you going to just stand there or do you need something, Mother?”
+
+Piety bit her lip. Cook still looked at the bread dough she kneaded thoroughly, but the girls in the kitchen looked up with surprise and awe, and they bowed their heads.
+
+Piety sighed. “Please, don’t bow. I’m just here to get some supplies. Cook…”
+
+Cook stopped kneading and looked at Piety, her face a cold mask of neutrality.
+
+“I’m sorry I didn’t come sooner.”
+
+“You had lives to save, undead to kill.”
+
+“Cook—“
+
+“Frij. My name is Frij.”
+
+Piety rolled the unfamiliar word about her tongue and tried to approximate it. Her pronunciation wasn’t quite the same as Frij’s, and the large woman chuckled, breaking her façade. A few tears tracked down her cheeks.
+
+“By Gods, I’m glad you’re alive, child. I thought that tyrant had killed you and buried you in the cellar.”
+
+“I’m sorry. I didn’t mean to worry you.”
+
+“Bah!” Frij wiped at her tears. “Don’t worry about me; I’m tough.”
+
+Piety smiled. “Speaking of lives to save, I want you to know that without you—“
+
+“Nah. You had Temperance.”
+
+Piety approached Frij. “Anybody else at this place would have beaten me every day for the disaster I brought with me into the kitchen. I looked forward to working here because of you.”
+
+In a sudden rush, Frij strode toward her and picked her up in a full-bodied hug. Piety buried herself in that hug, letting it take away everything else. Then Frij cleared her throat roughly and held Piety out at arm’s length.
+
+“You came here for some supplies, Mother?”
+
+“Please don’t call me that.”
+
+“I’ll call you whatever I please, Mother. Now, to business.”
+
+A selection of dried goods was prepared. Frij and Piety did it on their own, leaving the kitchen workers to finish preparing breakfast. By the time they were finished packing the food in rough canvas, Tobias showed up to help carry the packages to their horses, waiting out front in the courtyard of the acolyte’s dormitories.
+
+Lillyfield stood there talking with Temperance and a girl Piety didn’t know, clad in the grey dress of an orphan. Tobias preceded them by some distance.
+
+“Frij…” Piety paused while Frij chucked at her pronunciation. “How did you ever come to work in a church under so strict a person as Willow Vytal?”
+
+Cook shrugged. “I’m an excellent cook.”
+
+“And she never harassed you because you’ve got yellow hair or pale skin?”
+
+Frij shook her head. “It was never your white hair nor left hand that angered her. It was that you were so obviously special. And she wasn’t.”
+
+Piety swallowed hard. “You know the Mountain Kingdom has allied with General Kempenny?”
+
+“I do.”
+
+“In some places, I’ve heard, yellow hair, pale skin, praying to more than one god… There have been mobs. Ugly things are happening.”
+
+“I’ve heard that as well.”
+
+“What will you do?”
+
+Frij shrugged. “I’ll bake bread. I’ll leave the fighting to soldiers and the politicking to nobles and the vanquishing of villains to you. I’ll bake bread.”
+
+They were at the horses then, and Tobias insisted on doing the packing. Piety let him take the bundles without comment. Frij bowed to Lillyfield, gave Temperance a hug, then Piety, and turned to return to the church and her kitchen.
+
+Piety watched her go, uncertain that she’d expressed just how much the woman had meant to her. She hadn’t even realized just how much until this moment, when she wanted to call Frij back and tell her all over again, wanted her to come with them so she could protect her. But she held her tongue. Frij was happy here, and Piety couldn’t stay, and repeating what had already been said would accomplish nothing but more tears.
+
+And then the horses had been packed.
+
+Lillyfield introduced Piety to Renee and they exchanged brief greetings. Renee had been orphaned in a flood only days after Piety and Temperance had fled. She seemed nice and a good match for Lillyfield. Piety gave them both her blessing, mounted her horse, and followed Tobias out of Appledel.

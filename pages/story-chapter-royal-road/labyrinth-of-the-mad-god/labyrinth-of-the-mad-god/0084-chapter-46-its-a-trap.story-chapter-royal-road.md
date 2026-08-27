@@ -1,0 +1,93 @@
+---
+id: 2379dedf-0af2-5f6f-bb22-a4eaffe2daff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46: It’s a Trap"
+slug: 0084-chapter-46-its-a-trap
+partOf: labyrinth-of-the-mad-god
+position: 84
+ownLength: 1845
+unit: words
+publishedAt: 2024-11-01
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1879707/chapter-46-its-a-trap"
+royalRoadId: "1879707"
+---
+
+“Damn.” Devin let out an appreciative whistle. “That was one hell of an opening move.”
+
+“She’s going to completely overpower the Janitor if it doesn’t do something,” Sophia said.
+
+“Which would be a good thing… right?” Shaun asked, wiping some grime from his face with a rag.
+
+“I think so,” Veronica said. “I don’t want to fight either of them, but at least we can see her attacks coming.”
+
+Over the next thirty seconds, the queen and the Janitor exchanged a fierce barrage of blows, each scoring wounds on the other. Meanwhile, the lesser roaches continued to chip away at the mutant’s vital energy, attacking it from the sides and rear while their monarch kept it from turning away.
+
+She must have been able to sense its force powers too. Because every time that one of the arms came for her, a warrior roach leapt into its path. Their magic-bolstered mandibles cut into the mysterious manifestations, destroying the ghostly hands before they could close around her body.
+
+You can disrupt the hands if you attack the arms. Good to know, although it looks like they’re immune to attacks that don’t use mana. Nick watched on, trying to learn everything that he could from the unexpected opportunity.
+
+The situation was a dramatic reversal of fortune for the Janitor. It wasn’t taking out the roaches nearly as quickly as it had in its blob form. Enduring the bugs’ offensive came at a high cost. It was receiving too much damage to heal it all, though eating an occasional corpse was keeping it from being completely overwhelmed. But the mutant’s loss seemed inevitable at this point. The roaches had trapped it in the corner while pressing their relentless assault.
+
+That was the moment when Nick sensed force mana gathering in the air above the Janitor, along with a thick infusion of essence. Flows far heavier and more turbulent than any he’d seen before. They didn’t look like arms or beams or anything with a stable shape. Instead, band after band of furiously rotating energy were being pressed together, becoming tighter and more compact until the screaming mass was no larger than a bowling ball.
+
+It was a staggering amount of power, in a form that felt incredibly volatile. Like at any moment, the whole thing was going to… explode. “We need to pull back,” Nick yelled. “Now!”
+
+Taking his warning to heart, the party retreated to the far corner of the enclosure, ducking behind a pile of corpses as the roaches continued tearing chunks free from the mutant creature.
+
+By now, the mana was so thick that Nick could taste it in the air. The essence made his energetic pathways tingle as they absorbed the excess. When he glanced down at his wand, the third gem was glowing bright again. Due to the abundance of compatible essence that was saturating the chamber, the device had already recharged, completing a process that normally took an entire day within a matter of minutes.
+
+That was when the full implication of what he’d witnessed washed over him. I can use my wand freely in this fight, and it’s even more powerful than normal. His thoughts were cut off when he felt another massive surge of power. “Get down! It’s going to…”
+
+Before he could finish his sentence, the Janitor completed its spell. The roach queen must have realized that something was wrong, because she tried to pull back at the last possible second. But the white shark reached out and grabbed her with its force arms, holding the massive insect in place.
+
+The lesser bugs had begun running for cover. But they were bunched too tightly for most of them to get away in time. Unable to flee, the queen sent out another round of enhancement magic, causing the horde to glow even brighter, just as the Janitor unleashed its might.
+
+There was a bright flash of light, followed by an explosion so intense that it would have knocked Nick off his feet if he wasn’t already lying on his belly. The compressed ball of mana and essence expanded in the blink of an eye, becoming a bomb of staggering might.
+
+Wild flows of force went flying out in all directions, churning and spinning as they collided with the horde. Some of the bands plowed into the walls, floor, and ceiling before rebounding. They ripped massive chunks of stone free from the chamber’s surfaces before diving into the army of beasts in a rotating blender of magical energy.
+
+The ability didn’t displace as much air as a traditional explosion, or it would have ruptured Nick’s eardrums. He still had to clasp his hands over his ears and shut his eyes tight to protect them from the blast. When he opened his eyes and peered out over the top of the corpse he was hiding behind, he beheld a scene of utter devastation.
+
+Most of the roaches had been slain outright. Torn to bits in an instant. Reduced to chitin-studded paste along the dirt-strewn floor. A few of the ones in the back of the bunch had made it away in time, and the squad guarding the eggs had been too far away to take any damage.
+
+“Holy shit.” Devin rose to his feet while observing the prolific panorama of carnage.
+
+“It’s smarter than I thought,” Sophia said. “It made itself seem vulnerable, luring them roaches in so that it could take them out.”
+
+“Some of the warriors are still alive.” V pointed. “Their heavy armor combined with the queen’s magic was enough to save them.” Nick saw that a few dozen warrior roaches were rising back onto their feet. The surviving forces were scattered. The magic bomb had flung them back, sending them sliding along the floor before coming to a stop, dazed but still in the fight.
+
+The Janitor’s body was riddled with cracks, and chunks of it were missing completely. It must have taken some damage from its own power. Using such an unstable ability came at a price.
+
+But only a slim fraction of the insect army had survived the mutant’s trap. The attack had eliminated the closest melee insects, along with most of the ranged roaches, significantly reducing the horde’s might in a single fell swoop. “The big one is still alive,” Shaun said. The young man looked wild around the eyes but was still holding it together.
+
+When Nick looked at the queen, she was bleeding in a dozen places, but still fighting. The mutant must have deactivated its force-arms before setting off the bomb, because the roaches’ monarch was in the middle of trading a series of heavy hits, trying to finish her nemesis off before it could use any more of its powers.
+
+Meanwhile, the surviving beasts, including most of the forces guarding the eggs, came rushing to her aid. The bugs had taken severe casualties, but they weren’t finished yet. The Janitor tried to heal by eating more corpses. But every time it did, the ranged roaches bathed the body in fire or acid, reducing the remains to charred goop before the mutant could devour them.
+
+When Nick cast his energetic senses in that direction, he could tell that the creature had burned through a large portion of its reserves to enable the devastating attack. It shouldn’t be able to use that bomb ability again. We need to get closer and wait for the right moment to join the fight.
+
+He shared this insight with his team, and they cautiously crossed the chamber, stopping once they were in range of their powers. On the way, he was able to get a good look at the shapeshifting monster, now that there weren’t nearly as many roaches in the way.
+
+The colossal lifeform that Kellen had named the Janitor was even more intimidating up close. It didn’t seem to be an animal or beast, or even a magical construct. He was still a novice in the taxonomy of the multiverse, but this thing didn’t seem to be like anything else he’d seen. It was still radiating some manner of force-related essence, stronger than before. I think that last attack made its body even more unstable, its core is starting to fall apart.
+
+Nick realized that while it generally maintained the figure of a sharklike beast while coated with its white shell of force, the Janitor’s features were amorphous in this form too. He saw the suggestion of fur or scales texturing its exterior for a few seconds at a time, before shifting into something else entirely.
+
+The length and thickness of its body changed as the mutant traded blows with the towering roach queen. The only things that remained constant from one configuration to the next were its six thick legs and the abyss it had for a mouth.
+
+Right in the center of the creature’s bulbous head was a gaping maw. A ragged gash that led all the way into the center of its body, without a gullet or throat in between. The mutant didn’t have the razored jaws that Nick had seen on most of the beasts he fought. The Janitor’s mouth was even worse. He could sense an endless vortex raging inside its body, formed of the same churning force mana and essence that made up its spells.
+
+While size up was screaming that the entire creature was deadly, the maelstrom inside it was even worse. He was certain that if any of them were pulled inside, they’d be dead within seconds, lost beyond any hope of rescue.
+
+Its blob form is great for taking out multiple opponents, but this one is better suited to eliminating elite enemies. Especially with those force arms letting it grab hold to bite.
+
+In time with that thought, Nick sensed mana gathering in the air above the Janitor, as two armlike shapes extended from its core to rise above its back. The moment they were fully formed, the transparent limbs began grabbing the nearby bodies, shoveling them into it pit of its mouth. The horde was able to eliminate most of them, but several made it inside.
+
+The Janitor didn’t bother to chew. It just tilted its head back to let the remains go sliding in before opening its mouth to shove the next dripping handful in.
+
+When it ate, it began to heal. Although thanks to the extensive injuries it had taken from the roaches’ barrage, the queen’s blades, and its own power, the mutant wasn’t able to regenerate all the damage this time.
+
+Even still, if nothing changes, it’s going to eliminate the horde and come out of the exchange fully healed. We need to do something to stop that from happening while we still have time.
+
+“We need to get rid of these bodies,” Sophia said, mirroring his own observation.
+
+But they weren’t the only ones whose thoughts had turned in that direction. The entity that had orchestrated this four-way battle to the death, the mind controlling the constructs, had come to the same conclusion. The gear-swarm was ready to join the fight.

@@ -1,0 +1,221 @@
+---
+id: 65395e7e-3b80-5c8d-9611-0c6473edc9d4
+page-type-slug: story-chapter-royal-road
+title: "846. Fourth Moonstone"
+slug: 0038-846-fourth-moonstone
+partOf: leveling-up-the-world
+position: 38
+ownLength: 2070
+unit: words
+ownProgress: 2070
+publishedAt: 2023-12-17
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1445553/846-fourth-moonstone"
+royalRoadId: "1445553"
+markedReadAt: "2026-06-29T22:41:29.322Z"
+---
+
+The lake turned platinum the moment Dallion touched it with the tip of his harpsisword. Ripples formed, spreading along the surface in perfect circles.
+
+Looking at it for a few moments longer, Dallion bent down and put his hand in. Instantly, the surface hardened in an attempt to trap his hand. Thanks to his reaction trait, Dallion easily pulled his hand out before that could happen.
+
+“Sneaky.” He smiled.
+
+Someone had gone through a lot of trouble to make sure that the item was protected from without and within. The proper way to claim what was hidden was to swim down through the lake, face the guardian, then hope to have enough health left to deal with any remaining surprises. Of course, there were alternatives.
+
+“Nox, I’ll need your help for a bit,” Dallion said.
+
+A dull meow from his realm let Dallion know that the enthusiasm wasn’t shared.
+
+“It’ll just take a moment.”
+
+A crackling puma emerged in the realm beside him. The creature was twice the size of a human, its pitch-black body covered with eyes. This was the first companion familiar Dallion had obtained back when he was still in his home village. Since then, it had grown quite a bit, yet its dislike of water remained the same.
+
+With a yawn, the large puma stepped away from the edge of the lake, waving its tail in annoyed fashion.
+
+GUARDIAN CHALLENGE
+
+Nox has challenged the guardian of CHALICE on your behalf!
+
+The guardian has no choice but to respond to the challenge.
+
+“Thanks, buddy.” Dallion patted the crackling behind the head, proceeding to scratch behind its ear.
+
+Nox looked away indignantly, pretending to be too old for such foolishness, yet never fully moving away.
+
+Large black tentacles emerged from the center of the lake. They were soon followed by a humanoid body with almost as many eyes as the crackling.
+
+“A Scylla?” Dallion wondered. It made sense come to think of it, although it had been a while since he’d faced one. “Want to stay around and—” he began, but before he could finish the sentence, Nox had already disappeared. “Guess not,” Dallion sighed.
+
+CHALICE GUARDIAN - FUOCO
+
+Species: SCYLLA
+
+Class: SHADOW
+
+Health: 84%
+
+Traits:
+
+- BODY 50
+
+- MIND 70
+
+- REACTION 30
+
+- PERCEPTION 40
+
+- MAGIC 40
+
+Skills:
+
+- ATTACK
+
+- GUARD
+
+- ATHLETICS
+
+- ACROBATICS
+
+- SPELLCRAFT
+
+- CARVING
+
+- ARTS
+
+- FIRE WATER (Species Unique)
+
+Weakness: NONE
+
+A white rectangle emerged above the guardian’s head. The traits weren’t particularly impressive, but it had a proper name, suggesting that it was a few levels above the standard creatures.
+
+“I don’t suppose you’ll settle for a draw?” Dallion asked, using his music skill to spread fear into the heart of the guardian. Unfortunately, none of the music strands were able to attach to their target. “Guess not.”
+
+Just to stress on that, the guardian clapped his hands, setting the surface of the lake alight. White flames rose up, reaching all the way up to the creature’s waist.
+
+That’s something new, Adzorg said. Could you move a bit closer?
+
+“I don’t think I have an option.”
+
+When you reach my age, dear boy, you’ll find that there are very few things in the realm of magic that surprise you. This is one of them.
+
+“So, it’s not common nymph magic.”
+
+No, it’s not “common” nymph magic. This is a unique gift to this individual guardian. Very much like Diroh’s ice magic, it shouldn’t exist under normal circumstances.
+
+Thirty levels ago, Dallion might have been worried. Now he pitied the guardian. It wasn’t like he’d be killing the entity. After its defeat, it would return stronger than before and without any void corruption. Still, the fight might well be described as a full-grown tiger fighting a newly born kitten.
+
+Not even bothering to summon his aura sword, Dallion cast a five-circle spell. A blue glow spread from him, freezing the flames solid. Just as he was about to offer another draw, cracks emerged throughout the ice. A loud, shattering sound followed. The flames shot up like a living coil. Wings sprouted, along with a beak and two pearl-like gems that composed the eyes.
+
+A platinum firebird?
+
+The giant creature screeched with all its might, then enveloped the scylla, granting it wings.
+
+COMBAT INITIATED
+
+A fire infused line attack flew in Dallion’s direction.
+
+Choosing to take the fight to the air, Dallion cast a flight spell, avoiding the attack. Then he charged straight at his enemy. The guardian did the same. Platinum swords formed in all of its tentacles, while it summoned a massive crossbow. The design was rather unique, holding three arrows instead of the usual four.
+
+Tentacles extended, encircling Dallion in an attempt to cut off his escape. White flames poured onto him from all directions, followed by a shot of the crossbow.
+
+Dallion didn’t panic. With perfect calm, he cast a series of protective spells. Purple barriers stacked up in front of him. One by one they shattered, though each time they took away from the bolts’ force to the point that Dallion was able to grab them through the air with ease.
+
+Target markers covered the guardian, showing Dallion all weak spots. It was slightly annoying that they would appear on weaker enemies, which he could take out even without knowing them. Still, there was no point in looking a gift horse in the mouth. Using his strength and reflexes, he threw all three arrows back at the base of the tentacles.
+
+CRITICAL HIT
+
+Dealt damage is increased by 200%
+
+CRITICAL HIT
+
+Dealt damage is increased by 200%
+
+CRITICAL HIT
+
+Dealt damage is increased by 200%
+
+The tentacles twisted in pain, while the platinum fire attempted to burn through Dallion. It was futile, of course. He had already covered his body with spells to resist magic of that level.
+
+Just finish it, Vihrogon said. No one likes a show off.
+
+“Sorry,” Dallion whispered, then thrust his harpsisword forward. A jet of water shot from the tip of the weapon.
+
+Noticing the attack, the guardian quickly split into instances, pulling away. Alas for him, the water split up, curving in the direction of each instance, then pierced through his chest.
+
+TERMINAL STRIKE
+
+Dealt damage is increased by 1000%
+
+A red rectangle emerged, followed by a blue one.
+
+CHALICE level has increased!
+
+The CHALICE has been improved to pure MOON PLATINUM.
+
+There was a moment in which Dallion wondered whether it would change into something else. Of course, he knew better. Moon platinum was the rarest metal there was. For there to be anything beyond that, it had to have divine qualities; rather, even more divine qualities.
+
+The guardian disappeared in a cloud of glowing dust, taking with him the flaming lake. With the main feature of the realm gone, it resembled a bowl still shining in a bright white. If anything, the light was a lot stronger than before and how couldn’t it be, since it held one of the greatest treasures the world had to offer: a white Moonstone.
+
+There’s no need to remove it from the chalice, dear boy, Adzorg said. It’s valuable in its own right. Why not simply take it?
+
+“Why not both?” Dallion made his way to the chunk of shining white crystal and placed his hand on it. The next moment, the treasure was gone, moved into his own personal realm. “That makes four.”
+
+He was still a long way from getting all of them. Supposedly, other than their appearance, there was no difference between one Moonstone and another. Initially, Dallion thought that they would affect the respective trait of the Moon they belonged to, but from what he could tell, they all emanated the same type of divine magic. Also, he had noticed that keeping them within his realm tended to boost his magic and awakened powers.
+
+“What do you think, Harp?” Dallion looked at the harpsisword. “Any remarks?”
+
+No, the nymph guardian replied.
+
+Ever since the return of her species, she had become a lot quieter. Dallion couldn’t blame her. At first, he had spent several times per day visiting her tower in the awakened realms in an attempt to cheer her up, or at least find out her concerns. Yet, no matter the approach, the result was the same—a lot of silence and a vague promise she’ll tell him “later.”
+
+“Well, I guess all that’s left to do is go back to the real world, grab the chalice and—”
+
+Collect the stinky mess you left in the chamber, Vihrogon interrupted.
+
+“Crap!” Dallion said. He had completely forgotten the viscount.
+
+Yep, that would be the result, Vihrogon chuckled. As both of you pointed out, you can’t kill him.
+
+Sadly, that included leaving him in the ruin’s vault. With the spells in effect, there was no way that the noble would make it out of here on his own. Dallion would have no choice but to carry him, which was going to end up being a bit messy.
+
+You have no choice, dear boy. Adzorg chimed in. You’re allies after all.
+
+“With allies like these I don’t need… Nevermind.” He left the realm, returning into the real world.
+
+Some of the scholars of the world claimed that everything in a person’s life was perfectly balanced. The more hardships one went through, the greater level he was expected to obtain. That was only partially true. Indeed, the awakened did all the serious fighting, but they enjoyed a far higher level of comfort. In this case, though, Dallion’s shiny moonstone came with a diarrhea plagued noble that he had to save and carry back to the imperial capital. The only positive in the situation was that he’d enjoy seeing the reaction of the Mizovys upon seeing—or rather smelling—the state of their dog.
+
+The trip back to the capital was long and arduous. Even with spells, the viscount proved to be a handful. When he wasn’t dealing with his status effect, he was actively trying to kill Dallion—which, after having his artifact trinkets removed, turned out to be an impossible task.
+
+When, a week later, a crimson cloud fort descended from the sky, Dallion was all too happy. The fury captain in charge of the fort conveyed the usual warning from the emperor, but that had long lost its significance. As long as he continued to play the role of a spoiled fool, there would be no serious punishment.
+
+On the way back to the capital, the fort came across a dozen more coming from the front. Despite the effort the furies had put into patching up the forts’ exteriors, it was obvious that they had suffered heavy casualties. The war near the coasts was getting more costly by the month. Supposedly, the Alliance of Steel and Stone was taking on the brunt of the nymphs’ attacks, but Dallion was starting to have his doubts. More and more awakened joined the provincial armies, and few emerged to replace them.
+
+After another two days, the imperial palace became visible in the distance. Known as the greatest city in the world, it shined brightly like a star in the night. No longer feeling tired, Dallion went to the top of the cloud fort to enjoy the breeze and the view.
+
+Almost as soon as he did so, a green butterfly flew up to him.
+
+“Hey,” Dallion whispered with a smile, as he grabbed the creature.
+
+The butterfly burst into a ball of vapor, which then transformed into a scroll.
+
+New losses. I’m fine, but want to see you soon.
+
+Eury
+
+New losses, Dallion thought. He wasn’t worried that his fiancée couldn’t handle herself, but if things continued like this, in about a year, there’d only be two powers in the world: the empire and the Azure federation. He had to find a way to level up fast and reach the sixth awakening gate.
+
+Reading the scroll once more, he transported it into his realm.
+
+There’s no point in keeping her letters, dear boy, Adzorg grumbled. Technically, you’re not supposed to even talk to her.
+
+“Technically, this isn’t talking,” Dallion replied.
+
+Sure, be a smart ass.
+
+At least that’s better than the alternative, Vihrogon wasn’t able to keep himself from saying.
+
+The comment earned a chuckle.
+
+“Count Elazni.” A crimson fury approached him. “The emperor has ordered you to go to his gardens alone.”
+
+“Of course.” Alone? That wasn’t the most encouraging sign.

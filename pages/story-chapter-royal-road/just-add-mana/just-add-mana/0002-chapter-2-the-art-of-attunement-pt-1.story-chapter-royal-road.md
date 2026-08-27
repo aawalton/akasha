@@ -1,0 +1,175 @@
+---
+id: 6bfc455b-631a-5c68-b583-37cd9e52e038
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 — The Art of Attunement, Pt 1"
+slug: 0002-chapter-2-the-art-of-attunement-pt-1
+partOf: just-add-mana
+position: 2
+ownLength: 2731
+unit: words
+ownProgress: 2731
+publishedAt: 2025-07-17
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442665/chapter-2-the-art-of-attunement-pt-1"
+royalRoadId: "2442665"
+markedReadAt: "2026-06-29T18:47:35.340Z"
+---
+
+Despite Akkau's apparent desire to take Cale... somewhere, the dragon seemed incredibly resistant to the idea of using a teleportation spell to do so. Cale didn't really get it, considering he'd already used one not so long ago. Maybe he was one of the rare few that suffered a form of teleportation sickness?
+
+Cale wasn't complaining too much about it, though. He wasn't exactly fond of letting himself be teleported by a relative stranger, either. It wasn't like he could see his destination ahead of time—for all he knew, he'd get teleported into a cage. Or into a pit of lava.
+
+It wouldn't even have been the first time.
+
+Without the convenience of teleportation, the two were forced to trek through the desert with nothing but a tinted mana barrier to provide some shade. Akkau didn't seem to mind, but then he was a literal dragon; Cale was pretty sure they grew with exposure to the sun or something.
+
+He wasn't quite so lucky. The heat was making him sweat, and he was wearing far too many layers of clothing for a trek through the desert. The old dragon took pity on him there, at least: the moment Cale began taking off his clothing, Akkau quickly cast a temperature control spell to help keep him cool.
+
+See, this was why he needed to be able to cast proper magic. Life would be so much more comfortable! If he could learn a full set of basic spells here, he might be able to carry that knowledge to any other world he was reincarnated in. He might finally be able to actually, properly call himself an archmage!
+
+As they walked, Akkau explained what had happened with the little girl and laid out the details of what he'd wanted to discuss. Apparently, the old dragon was the headmaster of a nearby magic academy; he'd handed the girl to his healers so they could ensure she was okay and find out where she'd been taken from.
+
+He also wanted Cale to enroll as a student. He hadn't been kidding about the whole "learn all the magic you desire thing".
+
+It explained why his Thread of Fate had been of so much interest to the old dragon. Not only were magic academies one of the few things that could minimize its dangers, they could actively benefit from enrolling a student with the Thread.
+
+Part of that was because they were so prone to magical disasters to begin with. Those disasters acted as a sort of focal point for the Thread's possibilities to unspool toward, limiting the scope and magnitude of each disaster to just a little above what was already typical for a magical academy.
+
+And while it wasn't without its risks, graduating classes where the Thread of Fate was involved tended to have much higher rates of archmage-quality casters.
+
+Akkau wasn't saying it, but Cale was willing to bet that part of it was that the dragon wanted to keep an eye on him, too. Any archmage worth their salt would, and Akkau didn't strike him as someone who wanted him purely for the benefits.
+
+Cale agreed readily, to Akkau's apparent surprise. It fit his goals of learning magic, after all. The name of the academy was a bit of a mouthful, though—Kazix Brightscale's Academy of the Attuned Arts? Cale wrinkled his nose.
+
+Akkau hadn't seemed particularly open to criticism of the name, unfortunately. Hopefully, he'd be more open to feedback on other matters. Like the whole getting-kidnapped-by-elves incident.
+
+"What was all that about, anyway?" Cale asked. "I mean, you seemed way too willing to let those elves finish their summoning. Except you had anti-demon scriptures lining the outside of their lair, so you clearly weren't planning to let them succeed." He jerked his head back toward the now-smoking ruins they were walking away from.
+
+Akkau didn't reply for a long moment. He stared straight ahead, and Cale began to wonder if the old dragon had somehow managed to fall asleep while walking with his eyes open.
+
+Pretty useful skill, that. It had taken him far too many lives to learn that one.
+
+"No," Akkau finally said. Cale blinked and looked up at him. "I will give you your answers eventually, but... not yet. It would be too dangerous to tell you now."
+
+"In case you haven't noticed, I have a lot of magic," Cale pointed out. "There are very few things that can actually threaten me. Just so you know."
+
+"I did not say that it would be you that would be in danger," the old dragon said dryly.
+
+Cale had nothing to say to that. "Are you at least going to tell me why they chained you up in dragonsteel?" he asked instead. "Because that was stupid, even for elves willing to cast blood rituals."
+
+Akkau sighed. "It was a calculated planting of false information," he said. "They are students at my academy, and I have ensured that all information on dragons and their weaknesses are appropriately... altered. In this case, they believed that dragonsteel would be the only material capable of holding us captive."
+
+"Huh." Cale was sort of impressed. "In case your students get uppity! Pretty smart."
+
+It was, after all, a proven law of the multiverse that in any given magical academy, at least five students per academic year would "get uppity." Misinformation on the academy's headmaster was an entirely sensible precaution to take. And he supposed that in a world with less than ten dragons remaining, there wouldn't be too much out there that could contradict the lie.
+
+It was odd that this world only had ten dragons remaining, though. Dragons were a multiversal species. Any great disaster that wiped a large number of them out was usually followed by a migrant flock of dragons eager to find new territory.
+
+Eh. Not really his problem, as far as he was concerned.
+
+"So, where are we going?" Cale asked. Akkau gave him a flat look, and then pointed a single claw to the pristine towers in the distance that were practically glowing with magic.
+
+Right! The academy. Cale hummed to himself cheerfully, then decided to try and see if he could get some sort of walking spell.
+
+Cale did not, unfortunately, manage to get any new spells on the way to the academy grounds. Nor did he gain any new ones as he walked through the extensively decorated halls all the way to the old dragon's office. In retrospect, Cale felt like he should have paid more attention to what the university looked like.
+
+Most of the impression that he got was that it was sort of pretentious, which fell more or less in line with what he knew of the Brightclaws.
+
+"Cale," Akkau said. "Pay attention."
+
+Cale was rather decidedly not paying attention, because what Akkau was telling him to do was impossible.
+
+He could solve the majority of problems with sheer brute force. It was like the old adage said: not all problems could be solved with violence. Sometimes, they had to be solved with extreme violence. That was Cale's guiding principle for the vast majority of dark lords he'd dealt with.
+
+Akkau, unfortunately, was not one of those dark lords, and the problem Cale was being presented with couldn't be vaporized with sheer quantities of mana. That meant he was in a bit of a conundrum.
+
+He needed spells! He'd said as much. Instead, Akkau insisted on putting him through a basic series of tests, which would supposedly help determine the best way for him to learn those spells. The limitations of [Spell Intuitionist] meant that he'd need to adhere to this world's rules to be able to obtain anything above the second tier, and Akkau was determined to identify exactly where he placed within those rules.
+
+Cale, on the other hand, rather hated these types of tests. He'd tried a variety of them without much success, and had mostly sworn off them since. There was a small part of Cale that said he could probably stand to listen a bit more...
+
+He ignored it.
+
+"You're asking me to do something impossible," Cale said. "So no."
+
+"I'm asking you to perform a very basic mana attunement," Akkau said, exasperated.
+
+"Like I said, impossible." Cale went back to examining his status, wondering if he'd be better served wandering through the classrooms and stealing spells. Better not—he still didn't know what [Marked] did, and Akkau only knew that it was different for every mage that had it. "I already told you, I have too much mana to do stuff like that."
+
+"No one has too much mana to do an attunement," Akkau growled, irritated. "That quantity of mana doesn't even exist on Utelia, let alone inside a single man. If you had that amount of mana, you would have exploded or set yourself on fire long before now."
+
+Cale had, in fact, both exploded and set himself on fire a number of times across the many lives he'd lived. He considered telling Akkau this, then decided against it. The old dragon didn't need to know that much about him yet.
+
+"Well, I do," Cale said. A little too flippantly for Akkau's tastes, probably, considering the way the dragon seemed on the verge of setting him on fire. That might actually be a good way to level [Fire Resistance], now that he thought about it. Would he get an active spell out of it if it leveled enough?
+
+"You have an archmage-level core," Akkau said. "Archmages are still perfectly capable of performing attunement. It may require more practice, but—"
+
+"No, my core is a few levels above archmage, actually," Cale interrupted idly. "I just keep it contained. Otherwise I'd be exploding or setting myself on fire, like you said."
+
+Akkau stared at him, then muttered something to himself. Cale was pretty sure one of them was a nasty word in an older variant of Draconian. "Assuming I believe you," Akkau said. "What can you do with your magic?"
+
+"I can light things on fire?" Technically, he could transform them into plasma, but eh, same difference. Both things were more than he could usually do.
+
+"Besides that."
+
+Cale began counting on his fingers. "I can crush things, blast things, blow things up, create barriers, slice things, I'm immune to most mana aspects—"
+
+"All right, I get it," Akkau interrupted, rubbing his temples. Cale noticed his brow was twitching slightly. The dragon sighed to himself, then slowly went back over what Cale said. "Putting aside your aspect immunity for the time being... You mentioned barriers."
+
+"Basic ones," Cale said.
+
+"Make one for me," Akkau instructed. Cale stared at him for a moment, then shrugged and held out a hand. He channeled his mana through his palm, willing it into the rough shape of a square barrier.
+
+Something in the old dragon seemed to change once he created the barrier. Akkau eyed it like it was going to bite him, then began examining it, muttering to himself. He rapped on the barrier a few times and made a note about the sound, then traced his fingers along the edges. He spent even longer on each corner of the barrier, testing them with a variety of small spells Cale couldn't identify.
+
+"You know," Cale said mildly, "if all you wanted to do was touch my mana, there are more fun ways to do that."
+
+Akkau ignored him, and Cale sighed. Other immortals were never any fun. He'd yet to meet anyone like himself, though he supposed his situation was rather unique amongst them.
+
+Even with all the lives he'd lived and all the ancient powers he'd met, he'd never so much as heard about another reincarnator. It made him wonder sometimes if he was unique.
+
+He hoped he wasn't. It had been far too long since he'd even seen—
+
+—Akkau had moved on to a different variety of tests. Cale watched with growing fascination as the old dragon retrieved a jar of tiny flakes of colored paper, each one imbued with a small amount of attuned mana. The red one burned upon touching his barrier, the blue one just seemed to melt, the yellow one crackled sharply before turning to ash...
+
+"What are you doing?" Cale asked, finally curious enough to ask. It was rare that he encountered anything he hadn't seen before. Akkau glanced at him, once more raising a single scaled brow in an expression that looked spectacularly unimpressed. Cale was beginning to wonder if the old dragon got a lot of practice at it or something.
+
+Come to think of it, he was in charge of a magic academy. He probably had.
+
+"I am testing for your mana quantity, stability, and natural attunement," Akkau said after a moment.
+
+"And you're doing that by testing a barrier?" Cale asked, interested. "I've never seen it done that way before."
+
+Akkau eyed him, then sighed. "There are three traditional methods of mana testing," he explained, going back to his work as he spoke. There were a lot of different colors of paper, Cale noticed. "The first is by using an item—typically a crystal of some kind—enchanted with a complex mana-measuring spell construct, but those are expensive and tend to have a ceiling on the amount they can handle."
+
+Cale knew about those. He'd blown up a fair number of them by accident.
+
+"The second is by spell detonation," Akkau said. "We get you to cast a special low-efficiency spell with a known mana limit, then measure the fallout that results when the construct fails and the spell detonates."
+
+"You definitely don't want me to do that," Cale said cheerfully. That one he'd also tried before, but only once.
+
+Akkau nodded at him. "The third," he said, "is manual testing. I am not surprised you have not encountered it before—it fell out of favor hundreds of thousands of years ago. It is rare that anyone needs this type of testing; the other two methods are more than sufficient for most mages. I would have said all of them, before..."
+
+He trailed off, then gave Cale's barrier a pointed, narrow-eyed look. Cale just grinned.
+
+"So you're doing manual testing. Weird that I haven't run into it before," Cale said. He paused. "Hang on, are you hundreds of thousands of years old?"
+
+The old dragon glared at him. "I am not, if you must know," he said. "And you're lucky. I keep these around for sentimental reasons, not because I ever expected to use them."
+
+"I can't help but notice you didn't tell me how old you were."
+
+"Attunement papers are an old art," Akkau said, ignoring him. "I am likely one of the few left able to make them. They are supposed to react only when the mana being tested matches their attunement."
+
+"Would it help if I said you're handsome for however old you are?"
+
+"No, Cale, it would not." Akkau finally seemed to tire of ignoring his teasing, but to Cale's surprise—and mild discomfort—there was a certain kind of sadness in his eyes. "I know you do not mean harm, but my age is one of the reminders that I am one of the last of my kind. I do not like to think about it."
+
+"Ah." Cale blinked, slightly at a loss for words. "I'm sorry."
+
+[Blabbermouth] has reached level 3!
+
+"Yes, I get it, thank you," Cale muttered, glaring at the notification. He hadn't realized it was that serious, but then he supposed that any event powerful enough to wipe out the majority of dragons on a world was bound to be a traumatic one to live through.
+
+He wondered if he was missing something. It hadn't been that long since he'd last seen a dragon, but something about the sadness in Akkau's eyes... had something happened to the multiverse—to the so-called Great Realms between his lives?
+
+No. He was pretty sure he would've heard about it at some point. Even if multiversal travel wasn't common, there was still enough bleedthrough that news tended to travel. Something like dragons going extinct was something he would have heard about in one world or the other, and there had been no such news in the years he'd spent in the last realm before getting summoned here.
+
+Cale frowned to himself, then went back to watching Akkau press little pieces of paper against his barrier.

@@ -1,0 +1,67 @@
+---
+id: b31e8eff-1b4a-5e28-ba32-b73e2a6808ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88: No Mercy"
+slug: 0129-chapter-88-no-mercy
+partOf: labyrinth-of-the-mad-god
+position: 129
+ownLength: 1795
+unit: words
+publishedAt: 2025-02-07
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2053877/chapter-88-no-mercy"
+royalRoadId: "2053877"
+---
+
+The party assumed a combat formation facing the three buildings where the pirates were sleeping inside. Sophia crept forward and cracked open the first door, while Veronica took care of the second. The instant that V flashed the hand signal for “attack,” Shaun fired a pair of smoke arrows through the gaps, just like they had planned.
+
+He barely drew the string back—just enough power to send the missiles sliding along the stone floor with the faintest scrape of wood against stone. They hit the far walls with a gentle tap, before releasing thick billows of smoke into the air. Sophia opened the final door with her wasps hovering nearby, ready to proceed with the next stage of their plan.
+
+So far, Nick hadn’t heard any response to their intrusion, although it was hard to be certain with his heart hammering in his chest. Although the tension was so thick that he could taste it on his lips, everyone did their best to move slowly, so they didn’t wake the pirates inside. Every second that passed before their enemy knew Team Earth was there would increase their odds of living through the encounter.
+
+By this point, they were fully committed to the ambush. There wasn’t time to hesitate, so the party sprang into motion. Veronica raised the device strapped to her right wrist and pressed the button on the side. A silver canister went flashing out from the grenade launcher, sailing into the first room with a whump of displaced air. Meanwhile, Devin took the web consumable that V had handed him and threw it into the third chamber, the one that didn’t have any smoke, while Nick turned to face the second.
+
+In the single heartbeat it took for both devices to detonate, time seemed to slow down. Nick gripped his wand in one hand and his sword in the other, with a quartet of Mana Darts circling his head. He trusted the others to play their parts and focused on his own, devoting every scrap of his attention to the door in front of him, poised to strike the instant that the first pirate emerged.
+
+Then time sped back up and the chaos of combat ensued. The napalm grenade erupted in the first room—fire and smoke billowing out from the open doorway. Veronica reached inside, closed the door, and shoved a barrel under the handle. Even if the pirates were able to find the exit while blinded by smoke, they would have to break down the door to escape the burning building.
+
+The instant that the web-bomb went off in the third room, filling the interior with sticky strands, Sophia sent in her wasps. Veronica followed a heartbeat behind with her dual daggers poised to strike. With any luck, they would be able kill everyone inside without getting caught in the webbing themselves.
+
+The pirates in the flame-filled barracks began to scream, followed by the people in the silk-strewn chamber. Nick resisted the urge to look away, as he deepened his stance and got ready to make his move. His heart was lurching in his chest like a caged animal trying to break free, and adrenaline electrified his veins. By now, Arctic Clarity had run out of juice, and he would have to finish the fight without it.
+
+At that point, the door to the burning room shattered after it was struck with incredible force. A man came running out of the smoke-shrouded blaze with his clothes and hair aflame. The instant that he appeared, a pair of black barbed tongues hit him in the stomach like twin battering rams, dropping him to his knees and knocking the wind out of him. He tried to scramble out of the way, but it was already too late. Devins axe was descending like an executioner’s blade, removing the pirate’s head from his shoulders before he had time to scream.
+
+The scene played out in a distant part of Nick’s awareness. All his concentration was riveted on the door in front of him, tracking the voices calling out from within the smoke. Get ready, any second… now! A pirate came running out a bare second, her eyes wide with panic. Not letting himself think about what he was doing, Nick raised his sword and stabbed her in the stomach. He pulled his weapon out in a bright spray of blood, then kicked her back inside and got ready to face his next opponent.
+
+By this point, all three barracks were filled with screaming pirates, although the cries were louder in the rooms filled with fire and webbing. When the next buccaneer came running through the burning doorway, Devin and the frogs hit him as one, shoving the man back inside and knocking down the people behind him. The walls had caught, and the fire was spreading, causing the temperature inside to soar.
+
+Nick could hear the clamor of combat coming from the webbed room. Some of the pirates must have escaped and are fighting back. He wanted to assist Veronica, but he forcefully suppressed the instinct. He had his own job to do and trusted V to handle her own. If she needed help, she would have asked for it.
+
+Another pirate came running out of the room in front of Nick. A heavyset man with blue skin and sharp features. Nick hit him with a pair of Mana Darts, causing his body to go rigid from the pain, then raised the wand and pulled the trigger. Blam. The intense shockwave picked the pirate up and sent him flying into the barracks—body hitting the wall with a heavy thud and the crackle of shattered bone.
+
+By now, the burning room was consumed by flames. It didn’t seem like anyone else had survived, so Devin fell into formation beside Nick, leaving one frog to guard the door just in case. The momentary break in the action gave him a second to assess the situation. The first part of the fight had gone according to plan. He didn’t know how many pirates were still alive, but he prayed that the ambush had whittled their enemy’s numbers down enough for what was coming.
+
+Veronica came darting out of the web-filled room, bleeding from a cut to one arm. She was followed by two of the wasps and a furious pirate—the only survivor of the intense battle inside. Sophia moved to back her up, along with her surviving summons. Nick didn’t get a chance to watch their fight play out, because at that point, all the brigands in the second room came charging out at once.
+
+They were led by an enormous man covered in golden fur, who must have been six feet tall at the shoulder. He had some manner of glowing barrier in front of him, which absorbed both of Nick’s darts and a blast from his wand before winking out of existence.
+
+Shaun fired an Electric Arrow, catching the warrior in the meat of his shoulder. Although the electricity discharged throughout his tissue, the man kept moving, pushing his way into the open with four more pirates behind him. They were only half-awake and missing most of their gear, but it was clear from their expressions that they were veterans. They were afraid but organized. Ready to bring the fight to Team Earth and pay them back for their fallen comrades.
+
+Nick and Devin stood shoulder to shoulder, ready to engage, while Shaun moved behind them to provide covering fire. Nick felt a surge of sensation, which he knew by now came from leveling. The ones in the other rooms must have finished dying. But he didn’t let it distract him.
+
+He ran his eyes across the five pirates in front of him, looking for an opening to launch his next attack. Thanks to his month of training, he could tell from the way they took their stances that these opponents were experienced in fighting with their weapons and working as a team. If he charged in without a plan, they would take him down in a flash.
+
+‘’Well now, what do we have here?” The furred pirate spoke—the promise of murder gleaming in his jet-black eyes. “It appears that our quarry has come to us. What a pleasant reversal of roles. What are those idiots on the walls doing? If they’re not dead, I’ll kill them myself.”
+
+The other pirates looked human for the most part. They had yellow skin and pale eyes, except for the final man, who looked exactly like someone from Earth.
+
+The furry warrior wielded a massive two-handed sword made of black metal. It was even bigger and thicker than Nick’s blade. He had the sense that it was incredibly heavy. That blocking or parrying the colossal weapon would be next to impossible. The man wore a chain mail skirt, with a leather cap protecting his head.
+
+A skinny man dressed in dark green robes was wielding what appeared to be some manner of wand—the first such device Nick had seen other than his own. He stood behind the other fighters and was clearly some manner of ranged specialist.
+
+One of the women wielded a long bow made of a dark red wood. She wore light leather armor and had a pair of daggers sheathed at her hips. A second woman held a short sword in one hand and a dagger in the other—the first dual wielding opponent Nick had ever faced. Her grey leather armor was thicker than his jacket and had rings of metal sewn into the front.
+
+The final pirate was a beefy fellow wearing a chain shirt and leather pants. He stood beside the bowwoman with a coiled whip in his hand. His weapon seemed like it could reach from the back row, which effectively made him a ranged fighter as well. Nick instinctively sized them up, cataloging their capabilities while he got ready to make his move. Two melees. One strength based, one dexterity. Three ranged. One mage, one archer, and one whip with unknown properties.
+
+Nick didn’t much like his odds at three versus five. But Sophia and Veronica must have finished off their opponent sometime over the last few seconds. Because at that point, both women fell into formation behind him. Sophia’s summons weren’t with her. They must have reached the limit of their duration.
+
+Everyone raised their weapons and got ready for a brawl. It seemed that in addition to killing other people for the first time, Team Earth was about to get their first taste of squad versus squad action. Both parties glared at each other for a few more seconds, then the furry warrior barked out an order. The pirates sprang into motion as Nick’s team braced themselves for a brutal battle.

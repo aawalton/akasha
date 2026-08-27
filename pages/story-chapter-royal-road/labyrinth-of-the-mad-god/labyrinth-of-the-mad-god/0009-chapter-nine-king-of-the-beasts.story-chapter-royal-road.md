@@ -1,0 +1,87 @@
+---
+id: 45d2cb7d-78ae-5260-8a24-df8b2b31fc93
+page-type-slug: story-chapter-royal-road
+title: "Chapter Nine: King of the Beasts"
+slug: 0009-chapter-nine-king-of-the-beasts
+partOf: labyrinth-of-the-mad-god
+position: 9
+ownLength: 1782
+unit: words
+publishedAt: 2023-09-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1334912/chapter-nine-king-of-the-beasts"
+royalRoadId: "1334912"
+---
+
+Soaked in sweat, mud, and generous dollops of his own blood, Nick sat within the shadow of a palm, watching the waves sparkle in the sunlight. He took solace from the roar of the surf while processing the shock of nearly being eaten alive by a pack of wild animals.
+
+He didn’t have time to recover for long. His trial was still underway. He understood in that moment that he had a choice to make. That if he chose wrong, he was going to die. He was in desperate need of water, but the stream was miles away. He imagined trying to sneak past the lizards sunning themselves along the bank. Just the thought made his heart race.
+
+Nick rose and started walking in that direction. He came to a stop three steps later. He simply couldn’t thrust himself into another dangerous situation, so soon after surviving the last. He was dead if the reptiles found him again, and he didn’t trust himself to sneak past.
+
+He would have to bet everything on option two. Follow the lemurs that were disappearing into the distance, and pray that they led him to water before he collapsed again.
+
+Noon had come and gone during his marathon escape. The sun hung low in the sky, and there were only a few hours left until nightfall. It was finally cool enough that he wasn’t sweating anymore, but that was the extent of the good news. He couldn’t afford to wait until morning, he needed to find something to drink before he lost the light.
+
+His makeshift footwraps were long gone, and his feet were bloody and raw. Nick limped his way over to the shoreline and rinsed them off in the surf, thrilled to discover that his injuries were less extensive than he had feared.
+
+If anything, they seemed a bit better than before, although he’d rubbed off his scabs while running for his life. The salt stung, but he gritted his teeth until the pain died down, working the debris out of his wounds.
+
+It was a silver lining in what had turned out to be the worst day of his life, at least as far as he could remember. He shredded the rest of his T-shirt to fashion fresh bandages, then began staggering after the tribe.
+
+In the end, it was all that he could do. Nick would have to endure the pain and hope that his wounds didn’t become infected. He would have to deal with it tomorrow. Right now, he needed to find a way to live through today.
+
+At least the lemurs were easy to follow. They stopped every few minutes to hunt for crabs and make brief forays into the forest. He found it odd that the long-limbed primates preferred to reside on the beach instead of climbing into the canopy. But this oddity was nothing compared to the shock of watching them use weapons in battle.
+
+Nick traveled north for the better part of an hour, following his own footsteps in the sand, before he caught up to the tribe. He came to a stop beneath the shadow of a palm, trying to figure out what all the commotion was about. The lemurs had spread across the dunes, breaking into smaller groups with boisterous whuffs and chitters.
+
+Although they already knew he was there, he lowered himself onto his stomach, trying to draw as little attention as possible while he figured out what was going on. He counted far more of the furry primates than he had expected. The group he was following had merged with another, forming a band at least a hundred members strong.
+
+At first, he didn’t understand what the lemur tribe was doing. He was afraid that they had finished foraging and decided to call it a day. Nick needed to find water now, not to mention something to eat. But then his eyes traced the path of an object plummeting from the treetops to where a group of lemurs were plucking something free from the branches and tossing it down into the sand.
+
+He broke into a grin when he spotted several more crews up in the trees, harvesting fruit from a grove of tall palms with bright green leaves. His eyes locked onto the profiles of coconuts the size of basketballs, hanging from the fronds in bunches.
+
+For some reason, Nick was certain that the fruit was nutritious and, more importantly, contained a fair amount of fluid. His suspicions were confirmed when the industrious primates knocked down the next bunch.
+
+Their method was ingenious. Two lemurs grasped the trunk, holding the feet of a third who had leapt on top of the coconuts. Then a second primate joined the one hanging from the fruit. They began swaying back and forth like a kid on a swing, until their combined momentum popped the coconut loose. Their companions swung them around and back onto the trunk, repeating the process until every fruit had been plucked.
+
+Stomach rumbling, Nick scanned the rest of the grove, spotting another score of brown husks hanging from the branches. That was the only promising aspect of the situation. No sooner had the last coconut hit the ground than a pair of lemurs walked over to the pile, carrying rocks and sharpened lengths of bone.
+
+While one held the fruit in place, the other drove the bone into the surface twice, in what was clearly a practiced maneuver. They carried their prize over to where an elderly lemur stood waiting, then went back to open the next. The white-furred lemur took the fruit while chittering its thanks. It brought the holes up to its lips, then tipped its head back to drink.
+
+Nick’s eyes were riveted on the drops that ran down the elder’s chin before falling onto the white sand below, wincing as the fluid soaked into the thirsty dunes. His hunch had been confirmed. Now he was certain that the coconuts were full of water. He was so close, but it wasn’t close enough. He knew what he wanted, but not how to get it.
+
+Although his life was on the line, he had no strength left in his body. No clue as to how he could get his hands on one of the life-giving fruits. While the tribe was willing to let Nick chill in their territory, he doubted that they would let him walk up and steal their dinner.
+
+One thing was certain, if he managed to rouse the lemurs’ ire, he wouldn’t survive to regret his mistake.
+
+Watching the tribe feast was torture. His tongue felt so dry it might crumble to powder, then blow away in the pervasive breeze that kissed the shoreline. His muscles were stuffed with nettles, and his limbs were wrapped in lead. His mind was cluttered with cobwebs and haze, but he forced his thoughts into motion.
+
+Meanwhile, the lemurs kept pounding the coconuts with rocks, drinking from the cracks, before pulling the shells open and devouring the meat inside. I need to swipe one of those before they’re all eaten. How can I steal a drink without the tribe turning on me?
+
+As the remaining coconuts dwindled from eight to five to three, Nick wracked his brain. He was desperate to come up with a strategy that would let him claim one for himself, or at least the fluid inside.
+
+He considered and discarded a dozen plans out of hand, pondering how he might frighten the tribe off or lure them away. How to create a distraction and slip in without them noticing.
+
+Nick felt bad for betraying the lemurs’ trust after some of them had died while saving his life. But his gratitude didn’t run so deep that he was willing to lay down and die.
+
+When the final three coconuts were plucked and tossed into the sand, he knew that he was out of time. The best idea he had come up with was to rush in and get his hands on a drupe. He’d drain the water, then hand the rest back and hope that the lemurs forgave him. He would wager their goodwill against certain death any day of the week.
+
+Just before Nick rose from the sand, tensed to make a mad dash and try to steal a drink, death came streaking out of the forest and descended upon the tribe. Before anyone knew what was happening, the foliage lining the edge of the woods exploded, forming a blizzard of shorn fronds and sundered leaves.
+
+Half a heartbeat later, a creature the size of a bull elephant burst out of the tree line, moving so fast that it blurred before his eyes as it leapt high into the air.
+
+Neither Nick nor the lemurs understood that an attack was underway until the brutal beast claimed its first victims. He wouldn’t have noticed in time to stop himself from revealing his presence, if he hadn’t been looking in just the right spot.
+
+One second, a burly lemur was carrying one of the last coconuts over to a pair that had been patiently waiting. The next, a predator the size of a hunting lodge came crashing onto the shore with an impact he felt in his bones.
+
+The beast stopped for a heartbeat in front of the unlucky lemurs, letting Nick get a good look before it struck in a flash, devouring the primates in a bright spray of blood.
+
+The apex predator he decided to call the lurk was enormous. Its tail and limbs looked reptilian. But instead of feathers or scales, the towering beast was covered in shaggy gray fur, like an allosaurus crossbred with a muppet.
+
+The lurk walked on two powerful legs, ending in taloned feet that bristled like sabers. Its arms were short relative to the size of its body, featuring claws that looked dainty compared to its talons. It had a long, agile neck and a whiplike tail that helped the beast keep its balance when it lunged.
+
+In that moment, a terrible clarity descended upon Nick, cementing his certainty that two things were true. The first was that whatever was happening to him went far beyond a simple kidnapping. None of what he had witnessed was possible on the planet of his birth. Not without a level of genetic manipulation decades beyond the most generous estimate.
+
+The second was that his place in the world had undergone a radical realignment. He had fallen from his comfortable perch at the top of the food chain and landed somewhere near the bottom.
+
+In short, Nick’s Level 0 ass was mincemeat if the beast looming over the tribe caught wind of his presence.

@@ -1,0 +1,287 @@
+---
+id: 8d549849-e6d8-5cee-8c5d-4fd3c03b7a4e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18 — Ghosts in the Dark, Pt 1"
+slug: 0018-chapter-18-ghosts-in-the-dark-pt-1
+partOf: just-add-mana
+position: 18
+ownLength: 4139
+unit: words
+ownProgress: 4139
+publishedAt: 2025-08-07
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2499456/chapter-18-ghosts-in-the-dark-pt-1"
+royalRoadId: "2499456"
+markedReadAt: "2026-06-29T18:48:08.476Z"
+---
+
+The truth of the matter was that Cale hadn't expected this to happen with the voidcyte.
+
+It shouldn't have been able to happen, really. Most cases of voidcyte indigestion didn't lead to a full-blown auric collapse like this; even when they consumed forms of mana that didn't quite agree with them, it took quite a lot to push them to the point of collapse. If not for that, it would have been far easier to deal with voidcyte infestations back in his last universe.
+
+So it had been pretty weird when the voidcyte reacted so strongly. It took him a moment to figure out exactly why, but he had figured it out, and by the look on Akkau's face he was pretty sure the Headmaster had gotten it too.
+
+There was someone else with them. Probably a rogue mage of some kind.
+
+Strange that Syphus hadn't been able to spot them, considering the golem's considerable scrying abilities. Maybe the mage had a specific ward against it? Either way, whoever they were, they'd managed to interfere with the voidcyte somehow. Likely a spell imbued with cursed magic that hit the voidcyte right at the moment of ingestion—Cale was pretty sure that would be enough to cause a collapse.
+
+Not that auric collapses were a well-developed science or anything. It wasn't like they happened frequently enough to study.
+
+Cale felt a little bad he hadn't noticed this rogue mage sooner. He'd been too distracted by whatever was going on with Akkau's magic. And then there had been the whole thing with Damien and his friends, and magic academies often had no small number of minor magical fluctuations happening all the time anyway...
+
+Ah well. Either way, whoever this was, they were very good at hiding, and he'd realized almost immediately that they were probably listening to him too. That left him with very few options when it came to warning his friends without accidentally giving the mage some kind of advantage; if he just told them what was going on, the mage would almost certainly be able to abuse it and navigate the collapse faster than his friends could.
+
+So he'd settled for something simple: remember what I told you back in the labyrinth.
+
+It wasn't perfect, but then he hadn't had time for much better, and Damien and the others were pretty good mages anyway. Hopefully that hint combined with their own experiences as mages would be enough to guide them through the collapse. All they had to do was not panic, think on their feet, and figure out exactly when they needed to run!
+
+...Cale figured he'd better hurry anyway, though. Just in case.
+
+There were far too many people caught up in this for his comfort. How many were there in total? The Headmaster, Syphus, the three students that tried spiking the cafeteria food, his three Ancient Artifact classmates, and one rogue mage. That made nine?
+
+He grimaced. At least Akkau would probably be fine—
+
+"Cale?" Damien sounded panicked, and Cale nearly jumped; he hadn't expected anyone else to land with him. "What happened? Where is everyone?"
+
+Cale looked at Damien for a moment, then sighed. At least this meant the dreadshade was safe. "Calm down," he said sternly instead of answering. He took the dreadshade by the shoulder to steady him. "You're leaking decay mana."
+
+Damien froze. He nodded guiltily and took a few deep breaths, trying to force himself to calm, and slowly Cale felt the mana around him beginning to settle.
+
+The fact that Damien could leak mana at all inside the boundary of an auric collapse was fascinating, though Cale did his best not to fixate on it. Mana usage was supposed to be nearly impossible in this kind of space, especially when the collapse was caused by a voidcyte, of all things. Only archmage-level mages and above were supposed to be able to push mana out of their core at all, and even then it was a rudimentary thing.
+
+Even his own barrier felt like it was closer to a thick layer of gel than an actual protective shield, and trying to shape it felt like he was trying to lug around a sledgehammer. Cale shuddered. It felt kind of gross, really. Auric collapses like this were always kind of unpleasant.
+
+"Our friends are fine," Cale said, gesturing for Damien to follow him and starting off at a light jog. In front of them was pretty much nothing but a perfectly symmetrical, repeating pattern of stone, but he kept an eye out anyway for anything that resembled marks or scuffs. If he remembered right, then there would be some kind of doorway somewhere. "They shouldn't be too far away. You were holding on to Flia when the backlash happened, right?"
+
+Damien nodded, although he looked ashamed. "I lost my grip, though."
+
+"I'd be impressed if you managed to keep it during an auric collapse." Cale gave Damien a reassuring pat on the shoulder, then glanced behind them, just in case. Nothing yet. "The good news is that means she probably won't be too far from us. Same with Leo, since you guys were pretty close together. We should be able to find them pretty quick."
+
+He paused. "Actually, Leo might find us first," he said. "I have no idea if this place counts as a labyrinth. Maybe his labyrinth instincts would work here?"
+
+Damien winced. "I don't think he'd like that."
+
+"Probably not." Cale's smile faded a bit.
+
+"What is this place, anyway?" Damien asked quietly.
+
+Cale considered his response for a moment. "It's an auric collapse," he said eventually. "A rare form of magical backlash, basically. Nearly impossible to replicate in most circumstances. You'd need someone archmage-level or higher for it to even be possible, and then you'd need them to rupture their own core while attempting to cast a twelfth-tier spell or higher."
+
+Damien made an uncomfortable sort of squeaking sound and shuddered. Cale didn't blame him; a core rupture was basically the stuff of nightmares for any mage. "How did this happen, then?" Damien blurted. "How much... how much danger are we really in?"
+
+"The how is something I'm still trying to figure out," Cale admitted. He glanced at Damien, then sighed. "And pretty dangerous, if I'm being honest, but it shouldn't be too bad as long as we keep our wits about us. Based on what I'm feeling, this one should end in about thirty minutes. Give or take."
+
+"What do I need to look out for?" Damien asked next. Cale shot him a look with a slightly raised eyebrow, both surprised and pleased.
+
+"Good question," he said after a moment. "Pretty much anything unusual, really. Think of an auric collapse as... the entirety of someone's magical potential inverting itself."
+
+Cale stopped as he came to what looked like a sort of rectangular outline in the wall, then began running his fingers along its edges. "Normally, a mana core is used to contain and direct magic," he explained as he worked. "But during an auric collapse, the core expresses all that magic outward. It creates something like a pocket dimension that contains a psychic manifestation of every spell the core has ever been used to cast."
+
+"A psychic—" Damien interrupted himself and shook his head. "But that thing wasn't a mage, was it?"
+
+"The voidcyte? No. It's just a pest that eats magic." Cale snorted, then knocked irritably at the wall. There had to be a way to open this thing, but it didn't seem to want to budge. "Makes it a lot more dangerous when they experience an auric collapse, though. A voidcyte-triggered collapse contains a manifestation of every spell they've ever eaten, and let me tell you, that usually includes some pretty disturbing stuff."
+
+"Oh." Damien's voice was small. "I'll... try to keep an eye out, I guess. Also, um, what are you doing?"
+
+"Trying to figure out how to open this door," Cale grumbled. "Collapses tend to be divided into sections for the people caught in them. We need to get into the next one."
+
+Damien hesitated. "...May I try something?"
+
+Cale blinked and stepped back. "Sure."
+
+Damien stepped forward and began pressing on a sequence of bricks. Cale watched for a moment, not entirely sure what the dreadshade was doing, but then there was a distinct click; the stone rumbled, and a door slid open.
+
+Cale whistled. "Nice job," he said. "How'd you know to do that?"
+
+"There was... a pattern. In the decay." Damien hesitated. "I don't know how to explain it better than that."
+
+Cale gave Damien a thoughtful look. "You know, this is just a pet theory of mine, but I've always thought that when a voidcyte triggers an auric collapse, it's different from when a mage does it," he said. He stepped past Damien and into the newer hallway, gesturing for the dreadshade to follow. "An auric collapse from a mage doesn't look anything like this. They're supposed to be unique to the mage, since every core is different. With voidcytes, though, it's the same stone hallways every time."
+
+"Has this, um... happened to you a lot?" Damien asked, following him hesitantly. Cale picked up the pace again into a light jog.
+
+"Far more than is probably healthy," Cale said cheerfully. "The point is, it makes me wonder. It's the same hallways every time, right? Maybe the hallways represent some kind of internal structure all voidcytes share—probably whatever it is that lets them digest magic the way they do."
+
+Damien shuddered. "Are you saying we're inside its digestive system? I feel like that's kind of morbid."
+
+"Maybe a little bit." Cale laughed. "I happen to think it's cool, but that's beside the point. What I'm trying to get at is that if I'm right, you might be exceptionally suited to navigating this thing. More than even Leo, let's say."
+
+"...I don't know if I like where this is going."
+
+"Good! That means you have good survival instincts." Cale smirked. "But think about it—if your decay senses are working so well and we're inside some magical digestive system, then the biggest sources of decay should be the freshest sources of magic. In other words—"
+
+"—our friends." Damien caught on to what he was saying pretty quickly. "You're saying I might be able to find them?"
+
+"Do you think you can?" Cale asked. "Because it could make things a lot easier for us."
+
+"I..." Damien hesitated for a long moment, but eventually pulled his cloak tight around his shoulders and gave him a small, determined nod. "Yeah. I think I can do that."
+
+"Excellent." Cale smiled at Damien. A part of his mind, though, carefully caught and catalogued what was happening with the dreadshade's cloak. That thing was interesting. It was fluttering slightly despite the complete lack of wind, which wasn't all that unusual for magical cloaks, but... it was also somehow drawing in all the trace amounts of ambient decay mana Damien was leaking.
+
+That was probably a good thing. Even trace amounts of decay mana could do a lot of damage. He hadn't paid the cloak much attention before, though, and now that he was, something about it struck him as odd. There weren't that many artifacts like this he couldn't identify at a glance.
+
+(Artifacts like this, in this case, meant specifically cloaks. Cale liked cloaks. They were cool.)
+
+He'd have to find a moment to talk to Damien about it later. For now, though—
+
+"We'll need you to find the next doorway, then," he said. "I'm pretty sure we should come across someone else before that..."
+
+He trailed off, blinking. "Speak of the devil," he said. There was something off in the distance. A lot of somethings.
+
+"What?" Damien looked at him nervously.
+
+"Get ready to fight," Cale said.
+
+"Fight?" Damien shot him a wide-eyed look. "What do you mean, fight?"
+
+Cale lifted his fists and grinned, his mana beginning to swirl around him. It had been a while since he'd gotten into a good brawl, and the manifested spells he could sense in the darkness were perfect for it.
+
+"I mean exactly what I said. Get ready to fight."
+
+Flia had no idea where they were or what they were doing here, but she and Leo ran like their lives depended on it.
+
+They probably did. Flia hadn't exactly known Cale for a long time—in fact, they'd really only known each other for the duration of a single class, and she still hadn't gotten a chance to take a damn nap so she could process all of it—but there had been some genuine worry in the warning he'd given them.
+
+Not a lot of it. Flia wasn't sure if anything could make the human more than mildly concerned, what with everything she'd seen of him. Her, though?
+
+Well, if something could make Cale mildly concerned, she was pretty sure she needed to be worried about her life.
+
+Hence all the running.
+
+The worst part was probably the fact that she was weak here. Weak in a way she wasn't used to being. The Gift wasn't working, and her magic felt like it was entirely sealed—she couldn't even push her mana out of her core, and from what Leo had said, neither could he.
+
+The good news was that his labyrinth senses were still working, though he seemed both reluctant to admit it and angry that he'd somehow ended up in a second labyrinth in the same day. Flia couldn't say she blamed him, but it was all they had, so they were glad for it.
+
+Then she'd turned to look back, and, well... now they were running. Because what they saw definitely qualified as something they needed to be running from.
+
+"We need to find out where the others are," Flia said, risking another quick glance behind them. There was something chasing them. She didn't know what it was, but it appeared in the corner of her sight every time she glanced back down the hallway, and every time she did it was a little bit closer.
+
+It was ugly, too. An ugly, smiling thing that made her core ripple in revulsion, lumbering after them and disappearing whenever they tried to look.
+
+"You think... I don't... know that?" Leo panted. He was struggling a lot more with the whole running thing. "Is it... still there?"
+
+"It's definitely still there," Flia said. "If anything, it's gaining on us."
+
+Leo winced, but forced himself to keep running. She could tell it was wearing him down, though. Flia didn't exactly have physical muscles to exert, but Leo struggled to maintain a full sprint for very long.
+
+They needed a solution that wasn't running, Flia knew, but she had no idea what that might be. There wasn't a chance in any of the eight—seven?—infernal realms that they'd be able to fight this thing, especially without their magic.
+
+But there had to be something they could do other than run. They were mages, for crying out loud!
+
+"Flia," Leo said. "I think—I think you should—"
+
+"Don't you dare." Flia glared at him.
+
+There had to be something.
+
+Unbidden, her thoughts went back to the labyrinth. Cale had said something about running, but that wasn't the only thing he'd done back then, was it? How had he gotten through all the labyrinth's challenges? A huge part of it was sheer experience, but she didn't have experience with whatever this was.
+
+But even for someone like Cale, there had to have been a first time, hadn't there? The man seemed to live for first times, if anything. He'd also gotten past a sphinx without fighting it or answering any of its riddles, all because he'd happened to know... the... rules...
+
+Flia slowed.
+
+"Flia? What are you doing?" Leo cast a panicked gaze past her into the darkness and flinched, but forced himself to slow alongside her, not wanting to leave her behind.
+
+"Cale didn't exactly say to run," Flia said.
+
+"What do you mean? That's exactly what he said! He said all mages need to know when to run!"
+
+"Exactly," Flia said. She stopped entirely in her tracks, and although Leo looked incredibly reluctant, he followed suit. "He told us that we need to know when to run. And he told us we'd know when."
+
+"He said to run the moment we see it," Leo hissed.
+
+"I'm not talking about just now," Flia said. "Back during Professor Imrys's class, in the labyrinth, remember? He said above all else, a mage needs to know when to run."
+
+"The creepy thing following us isn't enough reason to run?" Leo demanded. Flia shook her head slowly.
+
+"Magic has rules," she said. She did it more to convince herself than anything—she wasn't entirely sure, and she was really hoping she wasn't wrong. Flia might not have known exactly what was happening or what they were facing, but all magic did have rules. Mythologies like the sphinx were bound even more tightly by those rules, as a tradeoff for their power.
+
+Cale had taken advantage of that. He'd known the rules. Flia didn't, but... surely she could learn what they were? If this space was so powerful that it could suppress their magic so thoroughly, then it had to have its own rules. Something they could use.
+
+Every time she glanced back, the curse was closer. The speed at which they were running almost seemed like it didn't make a difference—the amount of distance closed was always the same.
+
+Five paces closer, every time.
+
+She took a few steps forward, then glanced back, mentally recording where it was. "Don't look back yet," she told Leo. "Keep looking down the hallway. I want to test something."
+
+Leo stared at her for a moment. "Now?" he asked. There was a tight edge in his voice. "You better not get us killed, Flia."
+
+"It'll be fine." Flia tried not to let the tension show in her own words, though she was pretty sure she failed spectacularly. Whatever was following them was now close enough that she could see its yellowed teeth for the briefest of moments before it vanished again.
+
+It felt almost like it was a manifested curse of some kind, although she had no idea if such a thing was possible. Her core trembled in sympathetic resonance with it, though. That was pretty damning evidence.
+
+But what if that sympathetic resonance was hiding something else? What rules did this thing have to follow?
+
+Flia stepped in the opposite direction, this time toward the curse, then risked another glance.
+
+It was exactly five paces closer.
+
+"You only move when we try to look," Flia said out loud. "A set distance every time, and not only that, but your position is relative to ours. You're already anchored to our cores, aren't you? Or is there more than one of you?"
+
+Leo glanced back at her and nearly jumped with surprise, but caught himself before he started running again. "Wait," he muttered. "You're right. Is it... are there two of them? One for each of us?"
+
+"Mine's about thirty paces from me," Flia said.
+
+"Same," Leo said, and his eyes narrowed slightly in realization. "If it only moves when we look back, then all we have to do is stop looking back, right?"
+
+"That's one way to deal with it." Flia frowned slightly. "But if this thing is moving relative to us, then it's already bound to us in some way. I'd rather we get rid of it entirely. I'm just not sure how we're supposed to do that, without our magic."
+
+Leo took a deep breath, and something in him seemed to settle. "Okay," he said. From the look on his face, he was thinking rapidly. "It's bound by a rule? Like living mythologies are?"
+
+"Seems like it," Flia said. "You have an idea?"
+
+"I've spent a lot of time reading about living mythologies," Leo said, his fingers tightening around his notebook as he thought. "If this thing works anything like one of those, then we need to force it to break that rule. It'll break whatever hold this thing has on us."
+
+Flia's brows drew together. "How are we supposed to do that?"
+
+"It's supposed to stay behind us and get closer every time we look, right?" Leo asked. Flia nodded. "Alright, then I'm going to keep looking ahead. You turn around and look down the opposite direction. That way, there won't be a 'behind'. On three, we both glance back. That should force it to try to manifest in two different places at once."
+
+"Are we sure this is going to work?" Flia asked. She had to admit, though, it sounded right. And Leo had read far more about living mythologies than she. "What's going to happen once it breaks its rule?"
+
+"It's not going to kill it, but it should stun it," Leo said. "...Based on what I've read, anyway. There's a chance we just piss it off, but I don't think I want this thing stuck to my back."
+
+"Me either." Flia managed a smile she wasn't really feeling, and was gratified when Leo smiled back at her. "You ready?"
+
+"Terrified, actually."
+
+Flia snorted. "Me too."
+
+They took their positions, back to back. "One," Leo said. "Two... three!"
+
+They each glanced back at once—
+
+—and there was an impulse.
+
+The magic around them shuddered and contracted, and then something neither of them had noticed unbound itself from their cores and flew back into the darkness. Flia caught a glimpse of what seemed like ribbons and teeth and a manic, permanent smile, and shuddered at the sight.
+
+Leo had it worse, though. The poor guy looked like he was struggling not to vomit.
+
+"Did we—did we do it?" he asked. Flia stared down the corridor, not entirely sure herself; her heart was still hammering.
+
+"We did," she said, but even as she spoke, she saw a shape moving in the darkness. "But not for long. It's moving already. It's just not bound to us anymore. Which means—"
+
+"Now we run." Leo completed the sentence. "I think I get it now." He still looked a little sick, but he managed to flash her a grin, and Flia couldn't stop herself from grinning back.
+
+"So do I," she said. She started off at a sprint, with Leo following close behind.
+
+Then she frowned to herself. "Cale better not be infectious," she muttered.
+
+Sneaks-In-Darkness had no idea how long she had been walking along the same boring stone hallway, but she was pretty sure she was getting close to her targets. She could track them easily enough, at least, no matter how much this strange space dampened her abilities—soul-links were difficult to break, after all. Those who argued the ethics of soul-links with mage initiates simply didn't recognize the importance of the Red Hunters and their mission.
+
+All that said, she couldn't entirely shake the feeling that something was wrong. She didn't know what brought her here in the first place, and it was stranger still that her targets had apparently been brought to the same space. What was that thing that the human captured? Was it the cause of all this?
+
+Now that she thought about it, if she could bring that information back to Commander Isyanek, she would almost certainly be rewarded, wouldn't she? It might even make up for her failure in preventing their involvement from getting out.
+
+The Commander loved esoteric magics like this. Anything that could be used to control, anything that could be turned into a weapon—he wanted them all. They were safe only in his hands, he said; anyone else might abuse the power they granted, but he would make sure they were put to use for the mission.
+
+She shivered at the thought. Every time he spoke of the mission, his eyes burned with such mesmerizing passion. She knew, deep in her heart, that he must have suffered some truly terrible tragedy at the hands of the wild mages. That explained his dedication, his will to see the mission through.
+
+Sneaks-In-Darkness would not disappoint him.
+
+That meant she had two priorities now. First was to find her targets so she could get rid of them—the initiates had failed, and failure was unacceptable among the Red Hunters.
+
+Second, though?
+
+Second was to find that human, that... "Cale," and get him to tell her all his secrets. Maybe she could even bring him to the Commander. She would surely be rewarded for that.
+
+Mind made up, she ran forward. She had to keep running, after all. The human had said something about it, and she wasn't foolish enough to just ignore advice from someone that clearly knew what all of this was.
+
+Behind her, a flickering being of red-purple flame followed, growing with every moment that passed.

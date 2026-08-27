@@ -1,0 +1,193 @@
+---
+id: c7132d33-6dbd-536e-8494-4b6759b5f9c6
+page-type-slug: story-chapter-royal-road
+title: "142 — Book 3, Chapter 41 — Of Wands and Stakes"
+slug: 0145-142-book-3-chapter-41-of-wands-and-stakes
+partOf: just-add-mana
+position: 145
+ownLength: 2887
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3468682/142-book-3-chapter-41-of-wands-and-stakes"
+royalRoadId: "3468682"
+---
+
+Cale learned a lot of things about wands in the next thirty-or-so minutes, and to his absolute delight, about half that information was new to him.
+
+He had known, of course, that an arcane focus was fundamentally reliant on the history of a realm. That was a large part of how they were able to improve the efficiency of a mage—they remembered, in some way, the progress of magic within the realm. Common spells were easier to cast with a focus because the focus knew how that spell was supposed to feel and how the spell construct worked, and as a result, it could take over the spell construct for the mage.
+
+The presence of the Gift meant that in Utelia, the use of an arcane focus was largely redundant. It performed the job of a focus admirably well, maintaining and memorizing spell constructs for any mage that made use of it.
+
+There were still some benefits to using them, of course. They could improve mana flow and mana efficiency, among other lesser benefits; as such, many mages still carried their wands around, just in case. One did not become a mage without developing a healthy case of paranoia.
+
+Still, in Utelia, they were very much more of a suggestion than a mandatory component of spellcasting.
+
+And then there were the arcane foci crafted by House Graystalk. Cale had never heard of them until now, but after a brief demonstration, it was clear that they would have fundamentally changed spellcasting in Utelia if they had ever been distributed en masse.
+
+No wonder Professor Graystalk had compared them to the University's alchemical arts. The process took into account a dozen symbolic elements, down to the age of the wood used to craft the focus and the chanting of words of significance in a language as old as the wood.
+
+But it made sense. An arcane focus worked by somehow tapping into history itself. In packing them with so much symbolic meaning that all represented the age of the realm, the Graystalk family had managed to deepen that link, resulting in a focus capable of maintaining combined spell arrays rather than simple spell constructs.
+
+Yet again, Cale found himself surprised by all the ways in which the magic of this age had a clear influence on the spellcasting of the far future.
+
+The University's instructors, of course, were all appropriately impressed and then fascinated by Graystalk's explanation of arcane foci and what they could accomplish. The way they did their magic was different, but they experimented eagerly.
+
+It didn't take long for them to discover that with a well-crafted focus, they could simply keep their reagents on their person and cast their spells without even a chalk circle to define the nodes. That led to a burst of excited discussion regarding the implications it would have on spellcasting itself.
+
+The use of a wand was a first for them, apparently, and it had the potential to change everything.
+
+Just as long as they survived the dragon rain that was to come.
+
+The thought was a sobering one. As excited as Cale and everyone else was to learn of Professor Graystalk's methods and the new form of focus-crafting he taught—as incredible as it felt when they finally succeeded in crafting their first prototypes—the shadow of what was coming hung over them. Even Damien and Flia felt the tension, though it was clear that neither of them were quite sure why.
+
+So when class was over and the instructors bid their goodbyes, Cale took the time to catch everyone up on everything he'd learned. He explained Hikari's prophecy to his two wayward apprentices, who both looked appropriately horrified by the idea that the University might be destroyed tomorrow.
+
+After that, he went into detail on Trekagor's embedded message, going as far as to draw out the spell circle he'd memorized and hum along to the tune he remembered. Leo took diligent notes of each, his brows furrowing as he sketched into one of his notebooks.
+
+Thorn absorbed the story in silence, his expression grim. He spoke only after Cale had finished his explanation.
+
+"So," he rumbled. "They called this upon themselves."
+
+"I guess that's one way to put it," Cale agreed.
+
+"Hn." Thorn studied the circle Cale had drawn, his gaze intent, then glanced over at Leo's notes and appeared to compare the two; after a moment, he nodded, satisfied. "Will remember this. Design a counter-spell once I understand it."
+
+"We'll need to understand everything that went into the spell," Cale pointed out.
+
+"Yes." Thorn did not look away from the circle. "Would appreciate help."
+
+"You'll have it." It wasn't even a question, really. Even if he hadn't already wanted to help Akkau, what he'd heard from those dragons was more than enough to secure his help.
+
+Thorn nodded, and there was a brief hesitation before he spoke again. "...did not expect answers to be buried so far in the past. None of us would have discovered this if not for your aid. Thank you."
+
+"Eh," Cale said. "I kind of owe it to the big guy, you know? Also, you don't have to look like thanking me hurts you that much."
+
+Against all odds, Thorn snorted. "Was not the apology that hurt," he said. "Don't like admitting I would have failed to figure it out on my own, is all."
+
+"That I can understand," Cale said. "But relying on others isn't so bad. Why do you think I've got four apprentices?"
+
+"Draconic greed," Thorn answered, deadpan.
+
+"Ego," Flia added.
+
+"Okay, first of all, rude," Cale said. "Second, you're technically right, but it's also the learning from others thing. Things can be more than one thing, you know."
+
+The rest of their classes were no less interesting, though Cale was exhausted by the time they retreated into their rooms for the night. There had been two other classes, both of which had given them great insight into the state of humanity, but very little into what had caused their ultimate downfall.
+
+The first of them was Magical Weaponry, which Syphus had taken to with absolute joy. It turned out that while the humans of this era had not yet discovered magical foci, they had managed to adapt a system that would allow them to fire spells quickly; battlemages carried sticks filled with ignition powder and engraved silver cylinders with tiny reagent compartments within them. Spellsticks, they called them.
+
+Guns. They were basically guns. Cale was entirely unsurprised that Syphus took to them so easily; he was also entirely unsurprised that Syphus not only dominated the class but apparently discovered a way to push forward with its own palewater production with it. Something about... eating those guns, apparently?
+
+Thankfully, the University had a lot of spares. Syphus was snacking on them even now, determined to produce its first drop of palewater after discovering that Damien and Flia had already done the same. It was rather competitive about it, which was also something that didn't surprise anyone.
+
+Their last class of the day was thankfully relatively low-key after the chaos of the previous classes. Regional and Historical Studies was nothing more than an overview of the various regions of the world as well as what they knew of the Fog, and while this was normally a class that Cale might have ignored, it was different here.
+
+He learned so much more about what humanity had been in that one class than he'd ever expected to over lifetimes of searching.
+
+Part of him had been afraid of what he'd find—afraid that he'd learn that they had been just another warmongering species bent on conquest, perhaps, and that was the reason they'd been sealed away.
+
+The truth, it seemed, was just the opposite. It wasn't that humanity was without its flaws, of course; even now, there were human-led organizations that were greedy and self-centered, eager for power no matter the consequences. There were nobles that exercised their influence for reasons that were small and petty, and there were merchants that cared more for profit than for their customers.
+
+But those were minor problems, if the University's instructors were to be believed. By and large, humanity had moved past that age into one that embraced its differences and took joy in the exploration of magic and the world around them.
+
+He learned that there was a hero that had sacrificed herself for all dragonkind—that was apparently the reason for the sages' deep loyalty toward humanity. He learned of other disasters and other heroes, too, each one a case of humanity stepping forward to protect another people when they needed it most, and of them returning the favor when humanity most needed it.
+
+From that, Cale could see the picture slowly forming. This was a version of humanity that had bonded deeply with all the people they shared their world with; it was a version of humanity that loved and was loved in turn. Their culture had been shaped from the ground up by individual acts of kindness that were slowly forged and tempered into true bonds.
+
+Cale wondered if he'd been a part of this, once. He remembered nothing of any of this, but... it was a nice thought.
+
+"There's a lot on your mind, huh?" Damien asked quietly. He wasn't quite ready to sleep yet, evidently—he was seated in a chair, staring up at the stars outside the window. Cale himself was already in bed, but despite his exhaustion, his eyes were wide open.
+
+Everyone else was fast asleep, at this point. Cale took a moment before he answered. "Yep," he said simply.
+
+"Ashvali told us something," Damien said. "You don't have to hear it now if it's too much, but..."
+
+"I'd rather hear it now than get distracted in the middle of a fight tomorrow, especially if there's going to be dragon rain," Cale said dryly. "Is it good news or bad news?"
+
+Damien paused. "Good?" he said, though he phrased it like it was a question.
+
+"Questionably good news, then?" Cale raised a brow.
+
+"Something like that." Damien shifted about uncomfortably on his seat, and then sighed. "Ashvali said you might not actually be the last human."
+
+Cale had to resist the urge to jolt to a sitting position, though it was a close thing. His muscles were sore enough as it was; overexertion could tax them, sometimes, and while their dorm was fitted with environmental alchemy that promoted recovery, it hadn't quite done its work yet.
+
+"There's someone else?" he asked finally.
+
+"That's what she implied." Damien glanced down. "She wouldn't tell us anything more. I'm sorry."
+
+"Don't be," Cale answered automatically. "If she's bringing it up now, I'm assuming it's because I'm going to get to meet them sometime soon. Besides, I'm not technically the last of my kind anymore. This place is real now, remember? If we can find some way to link the Fog through to the Abyss permanently, they might even be able to move back and forth..."
+
+Cale caught the expression on Damien's face, then—something indescribably sad flickering across for just a brief moment. Neither of them said anything for a long moment.
+
+"She said it wouldn't work?" Cale asked eventually.
+
+"Just before we left." Damien's fists tightened in his lap. "I didn't understand what she said completely. Something about setting things in motion, and something about this being the first of many steps. She said humanity is going to disappear no matter what we do. She said this realm is going to seal itself off once we leave, and we won't be able to come back."
+
+"Sounds like she said a lot of things."
+
+"Yeah." Damien glanced at him, and to Cale's surprise, he was trembling slightly. "I'm sorry I didn't tell you sooner. And that we didn't manage to get more out of her. We tried, but..."
+
+Cale sighed, then forced himself out of bed, grimacing slightly at the wave of pain that crashed over sore muscles. Then he made his way over to Damien and sat beside him, and he said nothing for a while.
+
+"Flia tried to punch her, didn't she?" Cale asked. "She seemed pissed when she came back."
+
+Damien let out a weak laugh. "Um... M-maybe a bit. I promised I wouldn't tell."
+
+"And Ashvali didn't hurt either of you despite that?"
+
+"No. She seemed amused, more than anything." Damien sounded ashamed, and Cale shook his head, putting a hand on his apprentice's shoulder.
+
+"Don't apologize, first of all," he said. "You did good. Both of you."
+
+"But—"
+
+"Just listen," Cale said, and Damien flinched a little before nodding, looking down. "I've learned more about humanity in the past twelve hours than I even hoped to a year ago. I learned a lot about what we were like, about who we were as a people. Maybe it's not all of us—maybe it's just this world—but it's more than I ever hoped, if we're being honest."
+
+"It shouldn't be," Damien whispered softly, trembling. Cale wrapped an arm around his apprentice, hugging him to his side.
+
+"Yeah, it shouldn't," he agreed wistfully. "I kind of expected it, though. You four have had it pretty good with me so far, but... things don't work out that nicely for me, most of the time. I figured it would work out to something like that. It sucks, but you don't have to worry about me."
+
+"I want to," Damien said.
+
+"I know," Cale said. "That's the best thing about you, you know. You're kind, and you notice everything. I have a harder time hiding how I'm feeling from you than I do from most mind mages, you know that? It's kinda scary." He chuckled.
+
+Damien made a small, indignant noise. "You're trying to make me feel better," he mumbled. "Stop that. This isn't about me. I'm supposed to help you feel better."
+
+"But I do feel better. 'Cause I've got you and the others, see?" Cale mustered up a grin.
+
+"No," Damien said, pointing at him, and Cale let the facade drop; his apprentice was glaring at him, teary-eyed. "I mean, I know you do, and I know you mean everything you're saying, but... I want to worry about you.
+
+"You don't get to comfort me because nothing about this is about me, okay? It's... it's not fair to you. None of this is fair to you, and I'm allowed to hate that! I'm allowed to care about that. I'm allowed to care about you and be sad with you and fight the universe for you..."
+
+Damien sniffed a little, rubbing at his eyes. "I don't want you to face it alone," he said, and though he spoke as bravely as he could, his voice cracked just a bit. "And I don't want you to have to hide how you're feeling so we don't worry about you. I'm going to worry about you either way, got it? So you might as well not bother."
+
+Cale hadn't expected that emotional of an outburst; he was silent for a long moment, looking at the dreadshade's clenched fists and wet eyes.
+
+"You're a good friend, Damien," he said eventually. "And you're right. It sucks."
+
+"Damn right," Damien muttered.
+
+"I don't know how I'll feel if all this gets ripped away from me," Cale admitted. "It's a little weird. I never thought I'd actually see any other human again, and now I'm going to a human university in a human land. If Ashvali is right about all this..."
+
+"Maybe she isn't," Damien offered. "Maybe there's something we can do about it."
+
+Cale smiled faintly. "Maybe," he said. He wasn't all that hopeful about it; if Ashvali said it was the first step in something else, then Cale suspected she knew it wasn't something he would stop. Whatever it was, anyway. "But I'll have you guys no matter what, won't I?"
+
+"You will," Damien asserted, stubborn, and Cale chuckled.
+
+"Thank you," he said.
+
+They shared a comfortable silence for a while after that, just looking up at the stars. Eventually, though, Cale broke the silence. As tired as he was, there was one more thing he needed to check.
+
+"There's more, isn't there?" he asked. "You were in the Fog for a while. You said you were taking classes. What were they about? Was any of it a clue about all this, do you think?"
+
+Damien nodded. "I'm not sure I get it completely yet," he said. "But I'll tell you what I know. Um, you should know about my dad before I start, though..."
+
+They talked for well over an hour, after that, and Cale took in the new information with a thoughtful frown, comforting his apprentice where he could. If he took what Damien was saying at face value, then there was a chance the answer had been staring them in the face the whole time.
+
+He was missing one final piece, perhaps. If it didn't come tomorrow, then it would come when time pushed them forward one last time... for now, though, he was tired, and he had finally calmed enough to rest.
+
+There were just a few things left to handle. That note about hearing symbolic songs, for instance, for Instructor Phlogis's apprentices.
+
+By the time Cale fell asleep, the first soft pitter-patters of rain had begun.

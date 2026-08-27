@@ -1,0 +1,137 @@
+---
+id: 024398b4-7ca7-5fda-8aad-812a49ba1ffc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57: Flame-Wrought Finale"
+slug: 0096-chapter-57-flame-wrought-finale
+partOf: labyrinth-of-the-mad-god
+position: 96
+ownLength: 1939
+unit: words
+publishedAt: 2024-11-27
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1927606/chapter-57-flame-wrought-finale"
+royalRoadId: "1927606"
+---
+
+Everyone backed up while Veronica went to work. She was flinging Molotovs at the frozen mutant in a flurry of motion, but she hadn’t ignited them yet. Instead, she was spreading the flammable fluid across the monster’s body—concentrated on the spot where its core was visible.
+
+When the other oil-bombs had delivered their payload, V lit the last one with a spark from Nick’s flint, took aim, and let loose.
+
+Woosh. A roaring pillar of flame sprang to life—surging twenty feet into the air in the blink of an eye. The heat was so intense that most of the party had to pull all the way back to the corner. Even then, they had to duck behind Devin’s shield and Nick’s pack to protect them from the roaring conflagration.
+
+This was a critical moment. They had to expose the Janitor’s core before the rest of its body thawed and it regained the ability to attack. There was only one person on the team who could handle the job, and he was already on his way.
+
+Devin advanced alone, holding his axe before him like a talisman. He was relying on his class trait and new helmet to shield him from the crackling flames. He charged toward the blazing mutant as his clothes began to smoke. He was still taking considerable damage from the searing heat, but he didn’t let it stop him.
+
+While the athletic warrior closed the last few feet, Nick tracked the location of the Janitor’s core, which was still trapped within a patch of frozen gel. No wait… it’s starting to move. We misjudged the power of V’s trait and used too much heat!
+
+To his abject horror, the core began diving deeper into the mutant’s body as it retreated from the inferno above. He opened his mouth to issue a warning, but Devin must have noticed the same thing.
+
+With a battle cry, Devin used the last of his stamina to unleash a surge of speed. He arrived in front of the blob a handful of heartbeats later—ignoring the blisters forming on his skin and his body hair burning away. Then he swung as hard as he could, adding the strength of his arms, the weight of his weapon, and the momentum of his charge to the power of the blow.
+
+The head of the axe came down like a bladed avalanche, Team Earth’s hope for the future riding alongside it. It hit the softened gel with an impact that Nick could feel in his bones, biting deep into mutant’s body.
+
+It was an incredible attack, but it wasn’t good enough. The heavy hit had carved a deep wedge into the inner layer of gel, but the core was suspended a few inches below.
+
+It would have been the end of them all, if Devin didn’t have two last cards to play.
+
+An explosion rang out when Blast Striking kicked in, widening the fissure further. But it still wasn’t deep enough. If Devin’s final move didn’t expose the core, it was going to get away. Then the Janitor would recover enough to start firing off spells, and the party would die. They had expended everything they had in reserve to create this moment—their last and only chance of winning the fight.
+
+But Devin wasn’t done yet. With a scream, he took one final swing while unleashing Flashfire Pulse. The ability bathed the mutant in a tight cone of fire, momentarily obstructing Nick’s view of the action.
+
+This has to work. It has to. Nick said a prayer, then ran straight into the searing heat while using his pack as a shield. Just when he thought that their efforts had been for naught, he saw the Janitor’s core fly free from its body. It went skidding along the scarred stonework before he lost it in the oily smoke.
+
+He started heading for the last place he saw it—planning to help Devin look. Along the way, he caught sight of the Janitor. By now, the mutant’s body had thawed and begun to sizzle, but it was still alive. Its slimy tissue was pulling itself back together, while reaching out to recover its core.
+
+We need to get there first. It was now or never. If they couldn’t end the creature while it was vulnerable, they were going to lose. “Where did its core go?” Nick cried out. “We need to break it before it’s too late.”
+
+“There. I see it.” Devin didn’t bother to point. He just kicked the core in Nick’s direction.
+
+When he saw the essence-infused sphere sailing toward him, Nick knew that his moment had arrived. Using the last of his reserves, he infused his sword with pure mana, and silver energy sprang to life along its length. He fired off his mana darts as he charged. Each of the magic missiles sank into the mutant’s core—tearing away at the substance forming its protective outer layer.
+
+He came to a skidding stop, raised his blade, and got ready to swing. He could sense an incredible concentration of force energy gathering around the core, as the Janitor put everything it had left into one final attempt to save itself.
+
+It was a critical moment, but Nick was faster. Before the mutant could form a spell, he used Force Acceleration for a fraction of a second and swung as hard as he could—summoning Arctic Clarity to enhance his focus and guide his aim.
+
+His magic blade came down like a silver meteor, cracking the core down the middle. He didn’t have any mana left, but he didn’t care. Acting on instinct, he fed the blade some of his essence instead. He swung again as tendrils of goo stretched out to grab it, then a third and final time.
+
+The last time his sword hit the core, the entire thing shattered.
+
+Nick collapsed like a rag doll, as a black wave of exhaustion threatened to pull him under. He was suffering from severe mana sickness after using the last drops in his reserve, and then burning some of his own essence as additional fuel.
+
+He couldn’t move. Couldn’t speak. Couldn’t do anything but watch from where he lay.
+
+The instant that the Janitor’s core was destroyed, three things happened at almost the same time.
+
+The first was that the mound of gel comprising its body lost cohesion—spreading across the ground as the last of the fire flickered and died. A few big chunks were still intact, but it was clear in that moment that the tier 2 creature was dead at last. By the skin of their teeth, the party had defeated their most dangerous foe yet, without losing anyone along the way.
+
+The second event was a wall of text appeared in front of Nick’s eyes. The System informed him that they had completed a hidden quest and could access their profiles without restriction for the rest of the day. Attached was a long list of gains, but he couldn’t read them just yet.
+
+The reason for this was the third and most shocking occurrence of the lot. A few seconds after Janitor’s core broke, all the energy that was stored inside came flooding back out. A tremendous discharge of essence and mana washed over Nick and the team.
+
+It was far too much power for him to handle. But in his present state, he was helpless to resist as it filled him to the brim and then kept right on coming. It was so intense that he couldn’t think about anything else as it soaked into his being. He could sense an incredible amount of force energy flowing in the mix. There was some pure essence too, along with countless other forms that weren’t compatible with his path to power.
+
+It felt like Nick was drinking from a firehose. Like his soul was splitting in half. He couldn’t take any more and the agony was driving him mad.
+
+But then a strange thing happened. Instead of just filling it, the concentrated essence was absorbed by Nick’s core—condensing as it merged into his being. Infusing it. Strengthening it. Changing it in ways that he couldn’t even begin to understand in that moment.
+
+He gritted his teeth as he writhed on the floor—riding out the electric tsunami flowing through every cell of his body and every pathway of his magical circuitry.
+
+There were other sensations too, which Nick recognized as gaining several levels at once. But they didn’t hold a candle to the impact of the Janitor’s essence soaking into his core like water into dry sand. He could hear his friends calling out—voices tinged with a mixture of triumph, concern, and astonishment. It seemed that the flood of essence had affected them too, but not to nearly the same extent.
+
+He was pretty sure by this point that he was going to live, but he couldn’t even be grateful due to sheer sensory overload. Even though his mana sickness was gradually fading away, he couldn’t so much as blink until he finished absorbing the power permeating every fiber of his being.
+
+When it was finally over, he was able to make sense of the messages floating in front of his eyes. Since the clockwork army had shown no sign of emerging from the tunnel, and he wasn’t in any shape to respond even if it did, Nick went ahead and read his updates in full.
+
+You have completed a hidden quest for this floor.
+
+Quest condition: defeat one of the boss-class entities residing within the tower’s basement.
+
+Your reward package for completing the floor has been enhanced.
+
+Additionally, the reward package for your species upon completing the ‘Fate of Earth’ quest chain has been enhanced.
+
+Neat. I suppose we will find out the details when we reach the stairwell.
+
+Congratulations. You have accumulated enough experience to reach level [19].
+
+You have gained one point of magic and one point of dexterity from your class.
+
+Congratulations. You have accumulated enough experience to reach level [20].
+
+You have gained one point of magic from your class.
+
+As a milestone reward for reaching level [20], you have been awarded a bonus free attribute point.
+
+Congratulations. You have accumulated enough experience to reach level [21].
+
+You have gained one point of magic and one point of dexterity from your class.
+
+You have four free attribute points awaiting allocation at your discretion.
+
+Holy shit. Defeating a tier 2 enemy is worth a ton of experience. And that was only the beginning. Riding the high of surviving the battle and experiencing the most explosive growth of his life, Nick kept right on reading.
+
+Through use, you have improved the following skills:
+
+Sword has increased from [11] to [13].
+
+Evasion has increased from [10] to [13].
+
+Wand has increased from [11] to [14].
+
+Throwing has increased from [7] to [8].
+
+By pushing yourself to the limit in the midst of a deadly battle, you have conditioned your body and improved the following baseline attributes:
+
+Magic has increased from [3] to [4].
+
+Toughness has increased from [9] to [10].
+
+For reaching the attribute cap in Toughness, you have been awarded with an additional point of Toughness.
+
+If all that wasn’t amazing enough, there was a final batch of notifications awaiting his perusal.
+
+You have obtained sufficient essence to take Mana Dart to rank 3. However, you lack the understanding required to advance the ability at this time.
+
+You have obtained sufficient essence to take Piercing Ray to rank 2. However, you lack the understanding required to advance the ability at this time.
+
+You have obtained sufficient essence to take Force Acceleration to rank 1.

@@ -1,0 +1,95 @@
+---
+id: 04c472dd-a8ae-55f2-94b1-31e6e5d925a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61: Wizard Duel II"
+slug: 0243-chapter-61-wizard-duel-ii
+partOf: labyrinth-of-the-mad-god
+position: 243
+ownLength: 1502
+unit: words
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2729505/chapter-61-wizard-duel-ii"
+royalRoadId: "2729505"
+---
+
+Just when Nick thought his attack would land on target, the gems in the mage’s staff lit up and a magic barrier sprang to life—so fast that it must have been an innate property of the staff instead of another spell. Unlike Arcane Shield, this magic formed a hemisphere around the construct’s position, offering total coverage. Even still, the speedy spell caught the mage by surprise, causing it to look away at a critical moment.
+
+While the construct was distracted, he fired two more, trying to drill his way through the barrier. They didn’t break through before running out of energy, but by the time the third whirling bit winked out of existence, the skull’s gemstone eyes were dimmer than before—a promising sign that the staff’s magic was being drained with every spell it absorbed.
+
+While Nick was casting the rays, the mage had begun another spell of its own—something stronger than its prior attacks, judging by the dense flows of mana emanating from its energetic core. After fighting beside Laura during the battle with the wurm, he recognized the buzzing bands of magic coalescing in the air. It’s using lightning…
+
+That was as far as he got before the construct completed its spell and struck in a flash, crossing the distance so quickly it made Sonic Slice seem slow.
+
+The first lightning bolt almost killed him.
+
+Nick had begun reflexively raising his buckler while sending a pair of Mana Darts to intercept, but the electric magic wove a path between them like his missiles were standing still. His shield caught part of the bolt, but most of it hit his legs, lighting him up like a Christmas tree.
+
+Searing pain surged through his body and he collapsed in a heap—unable control his muscles. His skin was smoking and he tasted blood, but he didn’t have time to assess the damage. His instincts were screaming that if he didn’t do something, he would lose his life between the drawing of one breath and the next.
+
+He tried projecting his killing intent, but the construct was either was too far away for his fledgling technique to take full effect, or its mind was shielded against psychic assaults. Predatory Domain was still sufficient to startle the mage, interrupting the spell it was casting and forcing it to start over again.
+
+Nick took advantage of the opportunity to reach down to his belt and slam his Elixir of Restoration while casting a fresh round of spells. The potent connection took the edge off his wounds, reduced his exhaustion, restored his mobility, and topped off his mana, resulting in him feeling a hell of a lot better over the next few seconds.
+
+Meanwhile, both combatants drew deeply upon the magic within, channeling mana from their cores to fuel their next attacks. When he saw more lightning mana forming in front of the construct’s body, he knew he had to act first or he was going to lose this challenge and his life in the bargain.
+
+Luckily, by this point, his magic had finished forming.
+
+While the mage’s lightning bolts traveled insanely fast, casting them took longer than its fire spells. A heartbeat before the construct unleashed its wrath, a trio of Piercing Rays and a pair of Mana Darts hit it. This time, the rays were sufficient to drain the gems and shatter the staff’s shield, letting the wedges of pure mana land on target.
+
+This was Nick’s first time using his upgraded darts on an enemy that was in the middle of casting. He was hoping that destabilizing a portion of the mage’s mana would prevent it from completing the spell, which it did.
+
+However, that was only the beginning.
+
+The half-formed lightning bolt went haywire instead of dispersing. It erupted from point-blank range, sending electricity cascading through the mage’s tissue in a resplendent torrent of crackling energy. The construct staggered but didn’t fall down, casting again as the combatants turned to face each other from across the golden ring.
+
+Now that its shield staff was out of commission, the mage couldn’t use lightning, since Nick could disrupt the magic before its spell went off. Fire hadn’t worked either, so it decided to switch elements, using two at once this time—earth and ice.
+
+In that moment, realization came crashing home. It’s using spells that create physical attacks, which can’t be disrupted with pure mana once they’re formed.
+
+The ice spell conjured an endless barrage of frozen spikes. They weren’t big, but they would shred his armor if he got hit by too many. The earth magic formed heavy stone spears that came flying at him with incredible force. He did his best to deflect the ice with his buckler—helmet clanging whenever it caught a stray shard. Meanwhile, he leapt and dodged and spun like mad, using Force Acceleration to evade the spears with inches to spare.
+
+He sent some spells back in the mage’s direction, which it blocked by raising walls of stone. They absorbed the Mana Darts, and by the time his rays punched through, the construct had moved out of the way. The stalemate continued for another breathless minute, giving Nick a chance to come up with a plan.
+
+I need to end this soon or I’ll run out of mana. He visualized a complex arrangement of flight paths while drawing on the magic within. A trio of spheres of churning force mana coalesced into the air above his head as Nick cast three Piercing Rays at once for the first time.
+
+A heartbeat before the spells hit critical mass, he jumped as high as he could, gaining over twenty feet of air thanks to his new boots and Force Acceleration.
+
+The mage sent out a flurry of icy spikes and a dozen stone spears at once, taking advantage of what appeared to be a critical error in judgment to end the fight in a flash. However, that was exactly what he’d been counting on.
+
+As he rose into the air, Nick had pulled his wand free from its holster, adjusting the cone it created while taking aim. He fired the force-flinging device four times back-to-back while sending his rays screaming out along three separate trajectories—two from the front and one that curved high into the air before coming back down. The intense shockwaves knocked the projectiles out of the sky, sending the mage staggering when the kinetic energy hit it.
+
+Even still, it managed to raise two walls of stone in time. Before it could conjure a third, Nick tightened the cone and used the final charge of his wand. The mage took the blast head-on, losing its balance just as his final ray came streaking back down. The rapidly rotating drill bored a hole straight through its forehead, through which he could see daylight shining through.
+
+Nick sat down hard, gasping for breath as the mage’s body shattered into fading fragments of light and a box materialized beside his boots.
+
+While he recovered from the grueling ordeal, he pulled up his profile to check out his gains.
+
+Congratulations. You have accumulated enough experience to reach level [34].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+You have 3 free attribute points awaiting allocation at your discretion.
+
+By pushing yourself to the limit in the midst of a deadly battle, you have conditioned your body, deepened your understanding of magic, and improved the following baseline attributes:
+
+Dexterity has increased from [19] to [20].
+
+Magic has increased from [13] to [14].
+
+Through use, you have improved the following skills:
+
+Light Shield has increased from [18] to [19].
+
+Size Up has increased from [20] to [21].
+
+Wand has increased from [23] to [24].
+
+Fantastic. When Nick finished reading, he turned his attention to the box beside him. Inside were four glass marbles—color-coded to make them easy to identify. He knew from using them in the tower that if he shattered them against the ground, they would form powerful barriers that could protect him and anyone nearby in a pinch.
+
+Limbs shaking with exhilaration, he rose to his feet, brushed himself off, and continued his journey. While the challenge had been harder than he’d expected, the fight had been a valuable opportunity to square off against a type of opponent he hadn’t faced before and improve his tactics for long-range engagements.
+
+On top of the experience, skill increases, consumables, and voucher, he had gained some insights into magic barriers from watching the mage’s staff in action.
+
+He intended to compare them to what he’d observed from the force bubbles that had transported him in orbit and the shields he’d observed in Darkstone Tower. Hopefully, the knowledge he had obtained would catalyze an insight that would let him advance Arcane Shield soon.
+
+Nick decided that he had done enough exploring for one day and made a beeline for Aurora, ready to soak his muscles in a hot bath, train for a few more days, then attempt his first trial of mastery.

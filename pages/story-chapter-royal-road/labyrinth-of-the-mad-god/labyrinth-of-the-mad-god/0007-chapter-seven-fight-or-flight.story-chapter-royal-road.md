@@ -1,0 +1,169 @@
+---
+id: 7df329fa-f409-5fbb-921f-b8d4cc9752d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seven: Fight or Flight"
+slug: 0007-chapter-seven-fight-or-flight
+partOf: labyrinth-of-the-mad-god
+position: 7
+ownLength: 3468
+unit: words
+publishedAt: 2023-09-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331875/chapter-seven-fight-or-flight"
+royalRoadId: "1331875"
+---
+
+Shelving the mystery of his situation now, Nick continued making his way down the shoreline. He was careful not to walk too fast so that he didn’t tire himself out or aggravate his injuries along the way.
+
+He decided that he would survey the area, building a map in his head while looking for water and somewhere that he could hole up for the night. Whatever is really going on here, there are probably resources in the area that won’t be too hard to find. It wouldn’t be much of a game if everyone died from dehydration by the end of the week.
+
+Nick had already hiked along the northern coastline for hours, and had seen no signs of water, so heading in that direction would be a waste of time. As he continued walking south along the beach, he examined the surrounding terrain.
+
+Except for the area around the obelisk, the interior of the island is higher than the shoreline. There should be water pouring down the slope somewhere as it drains into the sea. There must be a river or lake nearby that the animals use as a primary source of water. I need to find it and wait until nothing dangerous is nearby.
+
+Due to his recent discoveries, the prospect of encountering other people now felt rather threatening. If Nick ran into anyone out here, he would watch them from a distance before approaching. He needed to get his hands on a satellite phone or steal a boat, then make his escape and contact the authorities.
+
+Twenty minutes later, he spotted a narrow swath of green jutting up against the horizon. The verdant smudge was far too small to be the mainland. It had to be another sizable island. One that might not be monitored by the twisted minds that had created the obelisk.
+
+It was interesting, but it didn’t help him right now. Without knowing how strong and in which direction the currents ran, it would be suicide to swim to the distant shore.
+
+Although he was tired and sore, he was making better time than he’d expected. By now, Nick had adjusted to the discomfort of walking on injured feet. The pain had even died down a bit over the last few hours.
+
+His body felt lighter than usual, and when he tried chucking a few rocks to warm up his arm, his coordination seemed unusually sharp. He wasn’t exhausting himself as badly as he’d feared, although he was still sweating far too much.
+
+Now that he thought about it, he felt stronger than before too. Nick stopped and took a close look at his torso and limbs. His muscles were still embarrassingly flabby, but his body had a tad more tone and definition than before, a bit less fat clinging to his waist and rear.
+
+Maybe he wasn’t quite as out of shape as he’d thought. I must have been getting regular exercise before I lost my memories. At least there’s a perk to all this insanity.
+
+He was alone, confused, and afraid, but his mind was clear as a mountain stream. Despite the holes in his memory, his thoughts felt honed to a razor’s edge. He was ready to solve the puzzle of this place, no matter what truths he uncovered. As he ran his gaze across the untamed wilderness surrounding him on all sides, he felt his will to endure solidify, and his resolve burned fierce and bright.
+
+In that moment, Nick vowed that he would endure the island’s challenge. Make his escape and find his way home—no matter what he had to do to survive the days ahead.
+
+Nine miles and three short breaks later, he was starting to worry that he was in even more trouble than he’d realized. He had already traveled a considerable distance and had yet to discover a source of fresh water or any manner of shelter. Nick was afraid that if he didn’t find something soon, he would have to brave the forest and cope with the rough terrain and reduced visibility.
+
+He began looking for any sign of the lemur tribe, figuring that since it was hot outside, following them might lead him to water. Unfortunately, he hadn’t seen any of the furry creatures over the last few hours and didn’t know where they lived.
+
+The lemurs were the closest thing to company he had found on the island. Observing them could teach him how to survive. But there was no guarantee that he would run across them again so easily.
+
+I’ll try to follow them next time, but it will have to wait. If Nick walked all the way back and couldn’t find Bandit’s tribe, he would be in even worse shape than he was now with no water or shelter for miles.
+
+Although he was taking it easy, he hadn’t stopped sweating since waking up on the island, meaning that dehydration would kick in faster than usual. He needed to find water before that happened, or his condition would rapidly decline.
+
+If he was lucky, it would rain sometime over the next few days, but he couldn’t count on luck to save him. In this strange and unprecedented situation, he could only count on himself. His wits combined with the skills he had learned from a lifetime spent solving a vast variety of puzzles.
+
+Before long, Nick’s throat felt as dry as a bone bleaching beneath the desert sun. He knew that it was his mind playing tricks on him; he wasn’t that thirsty yet. He was already growing hungry again, despite finishing off all but the last bite of the second cookie. Delicious or not, the pastries were a poor substitute for a proper meal.
+
+He rode the ragged edge of panic, internalizing the fact that he might die without ever knowing the reason why.
+
+He was stressed out, scared, and growing increasingly worried that his condition would deteriorate before he found the resources he needed to survive. But another nervous half hour of walking along the sun-warmed sand later, Nick caught a lucky break.
+
+As he rounded the southwestern edge of the island and started heading east, he broke into a broad grin. Because that was when he caught sight of a narrow stream running down from the woods. It meandered its way across the beach, bordered by a double row of palms.
+
+It looks like fresh water won’t be a problem after all. Scanning the banks for the presence of animals, he walked over to the brook’s edge.
+
+After making sure that nothing was lurking below the surface, Nick dipped his finger into the stream and stuck it in his mouth. The salty tang turned his smile into a frown. Instead of being fresh, the water tasted brackish. Not nearly as salty as the ocean, but too contaminated to drink.
+
+There’s no reason to worry, he told himself. If I follow the flow upstream and get closer to the source, I should eventually find water clean enough to drink.
+
+Nick was worried about the possibility of microorganisms. The last thing he needed was an upset stomach and explosive diarrhea, on top of being abandoned in the middle of nowhere. Not that he had much choice. He would just have to take his chances until he could build a fire and find a container to bring the liquid to a boil.
+
+He climbed the incline leading to the forest’s edge, glad that the streambank was formed from soft earth that didn’t aggravate the cuts on his feet, although they still stung with every step.
+
+His crude wrappings were already starting to wear, and he needed them to hold up until his wounds healed. Otherwise, there was a risk of dirt working its way in and causing an infection. No longer worried about working up a sweat, he picked up his pace, savoring the image of drinking until his stomach was full.
+
+He felt the thrill of danger hanging in the air as he left the beach behind and stepped beneath the canopy. Hoots and howls resounded in the distance, feeding his imagination with images of predators hiding behind every trunk.
+
+He steeled himself and pressed on. He would drink his fill and leave as quickly as he could, planning out his next move from the safety of the beach.
+
+Thankfully, it seemed that Nick’s journey into the forest would be a short one. A bit further upstream loomed a dense grove of trees, which meant that he was drawing close to a sizable body of fresh water.
+
+Though he was filled with a rising tide of excitement, he had to slow his steps. The mud was growing deeper, and the undergrowth had begun to thicken, forming a dense latticework of brush and vine.
+
+Due to his distraction and reduced field of view, Nick didn’t realize that he wasn’t alone on the bank until he heard an angry squawk. After taking a quick step back, he looked down to track the noise.
+
+That was when his gaze landed on the biggest lizard he’d ever seen. The bulky beast was eight feet long. It had muscular limbs and a thick neck. A forked tongue darted out of a wide mouth filled with row after row of razor-sharp teeth.
+
+It reminded him of the Komodo dragons from the nature documentaries he used to watch with his parents, although the color of the scales seemed off. Instead of green or tan, the lizard’s hide was a muddy brown, scales gleaming with purple iridescence when struck by direct sunlight. The creature had a thick tail that made up nearly half the length of its body and sharp black talons jutting past the end of each foot.
+
+Unfortunately for Nick, the lizard was hungry, hostile, and only too happy to make his acquaintance.
+
+He had never come face-to-face with a predator in the wild until that moment. Never felt the electric fear of staring at a creature that could tear him to pieces without bars or glass between them. The terror of knowing that if he made one wrong move, he would be eaten alive.
+
+When faced with a situation where one’s life hangs in the balance, some people freeze up, paralyzed by the sheer intensity of the moment. Others panic, overwhelmed by the primal need to flee. If he had done either, he would have died within minutes.
+
+Fortunately for Nick, he was the kind of person who reacted to extreme stress in a third, much rarer manner. Instead of locking up or freaking out, he was the type who met every challenge head-on. His reaction to staring death in the face was intense concentration, focusing only on what he had to do and shoving everything else aside.
+
+Although he had been caught completely by surprise, his brain began analyzing the emergent threat without waiting for a conscious command. The lizard was a fearsome predator, and it outweighed him by at least a hundred pounds.
+
+Its frame was built for quick leaps and long runs, allowing it to tear pieces from the bodies of its prey and then follow until they collapsed from exhaustion and blood loss. To Nick’s dismay, the reptile was distinctly less friendly than the supersized primates. It opened its mouth and hissed, offering him a front-row view of its powerful jaws.
+
+He could sense a coiled tension inside the beast, torn between caution and outright aggression. Uncertain whether Nick represented a dangerous intruder or was just another meal.
+
+That uncertainty would evaporate the instant that he showed weakness or lowered his guard. If he had a weapon, he could have driven the lizard off by using his superior reach. Well, if he got lucky and landed a solid blow. But the pair of rocks in his pocket weren’t going to cut it. Nick was effectively unarmed; had no shoes, and getting into a fight was the last thing he wanted.
+
+He began backing away from the menacing reptile, resisting the urge to turn and run. He knew that predators could become confused when meeting new animals, especially ones exhibiting behavior they didn’t recognize.
+
+But if you gave them a reason to categorize you as prey, like running while screaming at the top of your lungs, they’d decide that you’re a suitable meal and pounce. Not that anything guaranteed the lizard wouldn’t attack him anyway.
+
+He needed to get out of range of the creature’s lunge, then make a wide circle around and resume his trek upstream. He was able to take another ten steps before the beast determined that, strange or not, Nick looked good enough to eat.
+
+It hissed, surging forward with explosive speed. The instant it charged, he spun on his heels and fled, wincing every time his battered soles slapped against the muddy ground.
+
+Although the big lizard was surprisingly agile, his legs were longer, and he was spurred onward by what felt like a gallon of adrenaline sloshing through his veins. Nick ran for his life, and the beast followed in his wake as they began the timeless dance of predator and prey.
+
+For the next two minutes, everything went well. He’d managed to open some distance and had calmed down enough to begin charting the path he would follow.
+
+Given how everything had gone up to this point, Nick estimated that if he could keep up this pace, he would make good on his escape sometime within the next few minutes. Which was fortunate, because he was starting to feel weak and was in no shape for a prolonged race.
+
+That was the moment when his toes caught a protruding root. He fell face-first into the sand, placing his throat within easy reach of the lizard’s jaws. Primal terror gripped every cell of his body as the patter of its pursuit drew near.
+
+Knowing that hesitation would be the end of him, he scooped up a lump of mud with his left hand and slid the wand out of his pocket with his right. He rolled to one side just as the beast pounced, soaring through the air that his head had occupied a fraction of a heartbeat prior. The vicious reptile spun to face him, jaws spread wide while streaking for his legs.
+
+Nick hurled a handful of muck into the creature’s face, splattering mud across its eyes. He hoped that it would frighten the beast, but it kept on coming while clawing blindly at the air.
+
+The lizard would regain its sight within a matter of seconds. If he was going to turn this around, then he needed to act fast.
+
+He raised his right arm and clocked the beast square in the jaw with his wand. It was just a glorified stick, but it was the closest thing to a weapon he had. Although the blow couldn’t have done any real damage, the forceful contact surprised the creature, and it darted back to wash its face clean in the stream.
+
+The instant it lifted its head out of the water, Nick pulled a rock from his pocket, took aim, and threw it as hard as he could. The lump of stone went streaking through the air, striking the big lizard between the eyes with a hollow thud. A second rock followed a heartbeat behind the first, whizzing past the end of its snout. The beast hissed and scrambled back, uncertainty causing it to hesitate.
+
+Against the odds, Nick had created an opening. An opening that he didn’t intend to squander. He rose to his feet as the reptile reoriented on his position. He was out of rocks, so he started running.
+
+The creature followed hot on his heels, and he could tell that it was pissed. I wish I had those skills listed on my profile. They would really come in handy right around now.
+
+By now, he was almost back to the beach. Just a little further, and he wouldn’t be trapped on the narrow strip of clear ground running between the undergrowth and the riverbank. Although he was desperately weary, he was managing to outpace his pursuer.
+
+Unfortunately for Nick, while he had hoped that he was nearing the end of his first fight for his life, his struggle had only begun.
+
+He skidded to a stop three steps later when a pair of lizards came streaking out of the woods on an intercept course. They spread out to come at him from three sides at once, blocking his escape.
+
+Nick understood in that terrible moment that he’d been driven into a trap. That the lizard had deliberately let him pull ahead, conserving its stamina while maneuvering him to the spot where its brethren were lying in ambush. With the stream on one side and the predators spread out in a half circle along the other, his path of retreat was completely cut off.
+
+There wasn’t enough room to go around. His only chance was to force his way through.
+
+While his odds were less than stellar, if he waited for the beasts to tighten their net, they would attack from his blind side and land a crippling blow, swarming over him in the blink of an eye.
+
+He only had one chance of escaping with his blood still inside his body. He had to catch them by surprise, make it past the beasts barring his path before they closed the distance. That, or jump into the water.
+
+Nick strongly suspected that the reptiles could swim faster than himself. He would dive only as a last resort. With no time left to consider his options, he opened with a feint. He took a step forward like he was planning to dart into the woods. The instant the lizards moved to counter, he spun on his heels, heading straight for the beast blocking his way to the beach.
+
+In that moment, his attention was drawn to the lizard’s posture. Somehow, he could tell that the creature was out of position to counter a direct approach. Its momentum was pulling it in the other direction. If he timed this just right, he could get away before it recovered.
+
+The lizard hissed and started to turn, intending to catch his legs and drag him down into the mud. At the last possible second, he gathered his strength and sprang.
+
+Mouthing a silent prayer, he soared into the air. His body was definitely stronger than he remembered, because Nick leapt higher than he ever had before. He tucked in his legs while visualizing his next move.
+
+In that instant, he understood with arctic clarity. His next act would determine if he escaped with his life or was torn to pieces. His plan wasn’t going to cut it. Leaping over the beast wasn’t going to be enough to break free. If he wanted to live, he had to fight. And he needed to do it now.
+
+In the heart of that moment, born of adrenaline and need, Nick realized that he had another weapon after all. His own body. The second he landed, he jumped again, heading in a new direction.
+
+The beast was slow to realize that instead of leaping away, Nick had jumped straight for its back, whipping its head up half a heartbeat too late. Its jaws snapped shut with the clatter of tooth against tooth, but the blinding pain he was anticipating never came. It only caught the rim of his robe, tearing a corner free from the fabric. The creature hadn’t expected him to attack instead of run, and he could see fear in its eyes as he came back down.
+
+The first fight for his life had arrived at its climax.
+
+Waiting for just the right moment, Nick brought his feet together, braced his knees, and drove both heels into the center of the beast’s torso with the full power of his body behind it. There was an incredible snap as the creature’s spine fractured, accompanied by a series of lesser cracks as its ribs followed suit.
+
+He had been hoping to stun the beast, teach them that he wasn’t easy prey. But his attack was more effective than he expected. Some of the shorn ribs must have punctured the lizard’s lungs. Because instead of turning around and eviscerating him for his trouble, the giant reptile spasmed and went still.
+
+After leaping away from the corpse, for the next handful of heartbeats, everything came to a standstill. Nick stared into the eyes of the cold-blooded predators, who appeared astonished that he had defeated a member of their pride in a single blow. But then another pair emerged from the tree line, and he understood that his ordeal was still underway.
+
+As furious hisses emerged from the creatures, Nick burst into motion and continued his mad dash for survival.

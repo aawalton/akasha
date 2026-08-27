@@ -1,0 +1,145 @@
+---
+id: 54559ac1-bef0-54aa-a444-03a0787d3512
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57 & 58: Desert Rose"
+slug: 0240-chapter-57-58-desert-rose
+partOf: labyrinth-of-the-mad-god
+position: 240
+ownLength: 3301
+unit: words
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2702032/chapter-57-58-desert-rose"
+royalRoadId: "2702032"
+---
+
+Nick’s battle with Ella had left him with a great deal to contemplate.
+
+He had integrated a side of himself he’d never realized was there, discovered a way to condition his Psi and use it as a weapon, and accepted the truth that the man he had been before the System arrived had no place in this strange new world.
+
+When he went to find Elizabeth, it was clear at a glance she already knew what had happened.
+
+He was expecting a lecture about taking foolish risks. Instead, she walked over and pulled Nick in for a fierce embrace, accepting him for who he was while providing what comfort she could as he came to grips with the maelstrom of emotions still swirling in his chest.
+
+He hugged her back then explained everything that had happened, along with the feelings the experience had evoked. Liz was an amazing listener and knew him better than anyone else. She let him get it all out while offering her unwavering support, and by the time he reached the last word, he was already feeling better.
+
+“The planning committee isn’t meeting again for a few days. The construction team has made a breakthrough, and we want to evaluate our ability to build by hand before we use any more City Points or vouchers. The timing is fortuitous, since it sounds like you could use some time to yourself to process everything that happened.”
+
+“Yea. That sounds nice. I suppose I could get in some training while exploring the badlands. We need to find some regional resources if we want to build any Rare structures that are powered by mana anyway.”
+
+“In that case, I have a destination in mind that will let us kill two birds with one stone. While you’re out there, I want you to visit the settlement you saw the distance, say hello, and learn more about Aurora’s nearest neighbor.”
+
+“I suppose one direction is as good as another, and I’m curious about them too.”
+
+“Good.” She patted him on the shoulder. “While you’re there, if they seem like they will be amiable to an alliance, try to seal the deal right away. Don’t promise anything you don’t have to and remember that you have the stronger bargaining position. I’ll handle the negotiations if there wind up being any points of contention, but I have faith that you can take care of this on your own and it should be a good leadership experience that will help you adjust to your new role.”
+
+Nick grinned at her orders, since it didn’t seem like he was leading anything at the moment. But since he was planning to leave Liz in control of the settlement the second he could, he didn’t mind her taking charge at all.
+
+After checking in with Kenji so the warrior knew where to find him in case there was an emergency, he left Aurora and set off into the badlands. The other settlement’s domain wasn’t visible now that he was outside of his own, but he knew what direction it was in and had a rough idea of how far away it was. I should be able to make it there and back in less than a day, and a chance to stretch my legs and clear my head will do me good.
+
+He was glad there were other people living in the badlands and wanted to start Aurora’s relationship with their nearest neighbors off on the right foot. He assumed they were other elites from Team Earth who had decided to take out a boss instead of heading for the lake, although he supposed it was possible they had entered the biome from one of the bordering regions.
+
+I’ll find out soon enough. He activated Force Acceleration and took off at a moderate pace that let him examine his surroundings as he ran. Soon, Aurora disappeared into the distance, leaving him alone with his thoughts.
+
+The settlement was northeast of his position, which took Nick across a part of the badlands he hadn’t seen before. The soil was redder here, forming swirling bands of crimson and cerise that stretched on for miles.
+
+In the distance, he spotted a grove of tall purple trees that were either from the dimension the System had merged with the Earth or a species that had recently evolved to incorporate mana. Either way, the wood might be a useful crafting material, so he added its location to his map along with anything else of interest he passed by.
+
+Mapping out the surrounding sub-biomes was important, but he was also keeping an eye out for any System-generated events and the like. He was glad that so many of his people were completing them, but that also meant there weren’t going to be nearly as many options once Team Earth began exploring in earnest. It didn’t matter who picked up the City Points, but Nick wanted to earn some experience and items to prepare himself for whatever came next.
+
+The opportunities the System had provided as part of the Rebuilding Civilization quest were also a good source of essence, and he needed to acquire as much as possible. Both to advance his abilities and to develop the Concept that was required to reach Tier-2—a subject that he hoped to learn more about soon, as it would be vital for surviving in the Labyrinth.
+
+On top of everything else, according to the codex, completing difficult quests would generate something called planetary experience, which would help the Earth level and grow stronger, providing benefits to every living creature that called this world home. I wonder if the mana will get thicker when that happens, since reaching level one was what let Earth start generating it to begin with.
+
+Shaking his head at the strangeness of it all, Nick devoured the miles beneath his boots as his thoughts turned to other topics. In addition to advancing his own development, Aurora needed to decide how they wanted to use his Rare and Unique building vouchers and then claim the regional resources that provided the mana they required.
+
+He was glad that he didn’t have to figure out everything himself. He had a decent grasp of tactical consequences of such decisions, but understanding how they would affect the lives of thousands of people, unpacking the economic ramifications, and deducing how each option would play out over the course of months and years was beyond his experience.
+
+In his old life, he’d racked up thousands of hours in city-building games, but his style had involved improving his play through trial and error—experimenting, failing, and trying again until he had a complete understanding of the variables involved.
+
+That wasn’t going to cut it this time, since humanity was only going to get one shot at this. They had to live with the consequences of every choice they made, and it was vital that Team Earth used these invaluable resources as effectively as they could.
+
+That being said, Nick had one of the highest Mind scores on the planet and he’d always been a quick learner. He was sure that his perspective would be valuable too once he had a better grasp of the dynamics at play. On that note, he started mulling over his favorite options in the building menu, starting with the ones he could redeem for Uncommon vouchers.
+
+At the top of his list was a watchtower with a long-distance telescope and an alarm bell that could be heard for miles. If something decided to attack the settlement or another form of danger reared its ugly head, he wanted his people to know about it as quickly as possible.
+
+The tower would make it easy to signal Aurora’s citizens and implement one of the plans Kenji was devising—ranging from “grab your gear and assemble in the town square” to “incoming calamity, run for your lives.”
+
+For the Rare options, Aurora needed to secure some mana-producing regional resources like the cave behind the waterfall. Additionally, such sites needed to be inside the settlement’s domain before he could claim them with CP. The city’s domain would expand when it reached the next tier, but he was hoping to claim at least one before that happened.
+
+The best bet was the island in the middle of the lake, which he planned to explore as soon as some rafts were ready—a project that Kerry had volunteered to oversee after Nick floated the idea during their last meeting. There might also be something interesting underground. If the earth shapers think they’re stable enough, we should check out the tunnels the wurm emerged from.
+
+Which Rare buildings they chose would depend on which types of mana Aurora managed to claim. The two structures he was most interested in—the Item Core Creation and Modification Station, and the Magitech Research and Development Center—required fire, earth, and darkness, and pure, water, and crystalline mana respectively.
+
+Gaining the capacity to install modifications and manufacture the cores required to create magic items from scratch would be an invaluable asset for the settlement and humanity as a whole.
+
+Even simple mods like Durability and Self-Maintenance would be incredibly impactful if Nick could get them into the hands of his people. Installing some stronger modifications would dramatically increase the quality of their gear, helping Team Earth grow more powerful along a new axis during this critical period of preparation.
+
+The R&D center might take longer to yield concrete benefits, but he had no doubt that it would be just as valuable in the end. Nick had come across a wide range of magitech devices over the course of his adventures. He’d found lights in the sewers of Kastilla, mining machines on Blackmist Bog, and clockwork constructs, barrier generators, and elemental cannons in Darkstone Tower to name a few.
+
+By this point, he had acquired quite a collection, stowed safely inside his magic bag. He had been hoping for some time that his people could learn to build these devices themselves, and having a facility dedicated to that purpose would be an incredible asset when humanity set foot into the Labyrinth of the Mad God.
+
+I hope there’s some way to earn more Rare vouchers before the quest ends, he mused. Some of these other buildings sound fantastic too. I would love to pick up the Academy and Tactical Command Center at some point.
+
+Moving on, the Unique options were… unique. None of them had industrial or military applications, and they would disappear from the list when they were redeemed, which meant only one Unique building of each type would exist in the entire world.
+
+So far, his favorite was a structure called, “the Gallery of the Lost,” which would display two perfect replicas of humanity’s lost masterworks on a rotating basis. However, since Unique vouchers could only be redeemed by a Tier-7 city, it was going to be a while before it was time to decide.
+
+Nick considered the matter as he ran. He was able to maintain this pace for hours with his current attributes, effortlessly crossing a swath of the badlands that would have taken him a week to traverse back in his old life. He occasionally stopped to record something interesting or grab a snack from his bag but didn’t come across anything that enticed him to take a closer look.
+
+By the time late afternoon had transitioned into early evening, he could see buildings in the distance. He estimated that he had run well over a hundred miles without stopping for longer than a few minutes at a time, which kind of blew his mind. He pulled out his spyglass to take a closer look while deciding how he wanted to proceed.
+
+There were a dozen or so structures ringed by a low wall, all of which could have fit comfortably inside Aurora’s smallest district. Seven of them were flawlessly constructed and must have been generated by the System. The rest were crude houses, although they seemed functional and sturdy enough to get the job done. They must have built the wall with CP too. I wonder how they are dealing with the bladewind.
+
+When he climbed a tree to get a better view, Nick was able to make several large fields that were already starting to sprout. That’s a good idea. I should talk to Liz about growing our own crops when I get back.
+
+He was glad this settlement was far enough away from Aurora that they wouldn’t be stepping on each other’s toe, and he hoped its residents wouldn’t have any problems with their nearest neighbor being so much bigger than themselves.
+
+He didn’t want to startle anyone, so he picked a boulder that was in plain view of the gate, pulled out some provisions to munch on, and then sat down and waited for someone to notice him.
+
+It was a short wait. Less than ten minutes later, the gate opened, and an armed party came walking out. They didn’t have their weapons at the ready, but there was an implied threat in the way they carried themselves that made perfect sense under the circumstances.
+
+Nick had a whole speech ready to go, since he’d been preparing for this moment during his lengthy run. It wound up being completely unnecessary. It was obvious they had seen him before, because after they took a good look at his face, they started smiling and lowered their guard.
+
+“See, Harold. I told you it was Nick the Silver. If we can’t trust one of humanity’s champions, then Earth is well and truly fucked. Come on in and I’ll find us something to drink.” The woman leading the party raised her voice and waved him over. “Then we can have a nice chat about why you’re here, although I have a hunch it has something to do with that massive domain I can see in my City Placement Menu.”
+
+When he followed them through the gate, he could see the obelisk serving as the city’s core jutting up from the middle of the settlement. He grinned when he spotted his first dog since returning to Earth, which appeared to be an ordinary golden retriever and not a beast. It walked over and sniffed his hand before giving him a lick of approval.
+
+“Hello there. Whose good boy?” Nick petted the dog while Harold and the woman who had spoken to him cleared a table and grabbed some glasses.
+
+“My name is Cathy,” she said after the three of them had taken a seat. “Thanks for kicking the Guardian’s ass, and you know… saving our entire planet. I thought we were toast before you and the crimson arrived. Although maybe don’t cut it quite so close next time.” She broke into a broad grin, and they shook hands.
+
+Even though Nick had witnessed the event with his own eyes, it still sounded surreal to hear her say it out loud. “It was a team effort.” After Harold poured, he reached out to clink his glass with both of theirs. “We’d all be dead if you hadn’t held out long enough for me and Devin to evolve.”
+
+While he didn’t recognize them, it was obvious that everyone in the settlement was a member of Team Earth after all, which wasn’t too surprising given their presence in the badlands and Size Up’s evaluation of their strength.
+
+“I also watched you fight in the Grand Arena of Papillion.” Cathy smiled after taking a shot. “I was in one of the other arenas and they showed the battle on the big screen before our main event. I was astonished you pulled that one off. Although in retrospect, cutting that big rhino down to size isn’t so surprising given everything you’ve accomplished since.”
+
+He finished his drink while she spoke, which turned out to be whiskey, then made small talk over the next few glasses.
+
+Nick was relieved that Aurora’s new neighbors were good people and strong enough to look after themselves. Harold and Cathy explained that they had decided to found a smaller settlement instead of heading for the lake because they’d had their fill of bloodshed. They were prepared to defend their home and the Earth if need be, but they simply didn’t have it in them to enter the Labyrinth and take the fight to other planets, realms, and planes of existence.
+
+They intended to turn their settlement, which they had named Desert Rose, into a thriving agricultural community, learning how to farm all over again now that mana was infused within every animal and plant on the planet and magic was a part of their everyday lives.
+
+Over the months ahead, they hoped to not only discover new culinary delights, but research the properties of various species and learn how to produce food and drinks with magical effects, then branch out into alchemical ingredients once they had grown big enough.
+
+That wasn’t a subject Nick had thought through yet, and he found himself growing just as excited as the pair outlined their ambitions for being able to create everything from attribute-enhancing meals to mass-producing healing potions.
+
+When they were done, he explained the reason for his visit.
+
+“There are two reasons why I decided to stop by today. First, I wanted to meet you, introduce myself, and let you know where to find us. Second, Aurora needs to form alliances with other settlements to reach the next tier. Each tier provides powerful benefits, and it’s vital that we unlock them all before the Rebuilding Civilization quest ends and we lose the chance.
+
+“I know you have different priorities, but you’ll need to do the same thing if you want to grow bigger than tier three, which seems likely given your ambitions. I honestly have no idea what an alliance entails, other than if something nasty threatens you, we’ll come running and help kick its ass. I imagine there will be ample opportunities for mutually beneficial trades, shared research, access to our Token store, and the like. Is that something you would be interested in?”
+
+“Quite possibly,” Cathy said. “But we vote on all big decisions, and I’ll need to confer with my people first. Please wait here. Rodger will keep you company. I’ll leave the bottle to help pass the time.”
+
+With that, the residents of Desert Rose walked into their largest building to consider his proposal. There are twenty-two of them by my count. Nick sipped his whiskey and rubbed the dog’s belly, staring up at the wispy clouds striating the endless azure sky.
+
+He took a deep breath and let his mind wander. Humanity’s struggles were far from over, but he was back on the planet of his birth, surrounded by good people, and in a position to make a real difference going forward. He leaned back in his chair and savored the moment until Cathy came walking back over an hour or so later.
+
+“I’ll make this simple. I’m not a politician and it’s obvious you’re not either. I should probably try to leverage this situation to wring out some concessions first, but I’m going to trust my gut instead and accept your offer with no strings attached. We’re all in this together, fighting for the future of our people in our own unique way, and I’m happy to do anything I can to help out—now and in the future.”
+
+She stuck out her hand and Nick shook it, followed by every other person in the settlement. When it was over, he pulled up his City Management Menu, selected the diplomacy prompt, and requested the alliance.
+
+Cathy accepted it, and an update wavered into existence.
+
+You have formed an alliance with Desert Rose and advanced Aurora’s city quest, taking the settlement one step closer reaching the next tier.

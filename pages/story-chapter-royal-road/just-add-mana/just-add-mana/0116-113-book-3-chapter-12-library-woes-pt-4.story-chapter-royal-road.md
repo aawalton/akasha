@@ -1,0 +1,196 @@
+---
+id: 112e2eeb-6d34-527e-b918-802d66f18c3c
+page-type-slug: story-chapter-royal-road
+title: "113 — Book 3, Chapter 12— Library Woes, Pt 4"
+partOf: just-add-mana
+position: 116
+ownLength: 3306
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3187745/113-book-3-chapter-12--library-woes-pt-4"
+royalRoadId: "3187745"
+---
+
+Cale took a deep breath and let it out slowly.
+
+He was worried about Leo—it was hard not to be, really, considering the situation they were in—but he couldn't afford to let that worry distract him. He was going to have to trust that his apprentice had learned enough from him to survive what was coming.
+
+And he did, in spite of himself. If he hadn't, he would have torn through the library with his magic, no matter the consequences and the wound it would inflict on the realm. But Leo and the rest of his apprentices had more than proved themselves, and Cale couldn't justify the damage he would do if he tried to save him.
+
+Not to mention what his own apprentices might think of him if he did. He smiled wryly to himself at the thought, feeling the weight of the circumstances growing momentarily lighter.
+
+Then he let himself focus—truly focus—and took careful stock of everything that had happened and was still happening.
+
+The Haelforge Library had rejected their attempts to find the tomes that could unseal the Bitter Path. Cale had initially considered this to be one of two possibilities, with the second being that there was a third party attempting to keep the dungeon sealed.
+
+Now he was certain that it was, in fact, the magic of the Haelforge Library. Interpolation magic was rare, but it was the lesser of the magics a library could employ to defend itself or to protect those that walked it. No doubt it had suffered this attack some time ago and was employing that magic to stop those that walked its halls from falling victim to the same magic that had wounded it.
+
+Yet it hadn't alerted its Librarians to the damage, which meant it most likely believed the threat was beyond even the capability of the Haelforge Librarians and professors to handle. Instead, it sealed off access to the damaged sections of its shelves, using its ability to read intent to minimize the effort it would take to do so. Too much magic on its part would alert its Librarians that something was wrong, after all.
+
+Cale and Leo's attempt to access the shelves of conjuration-fire-four had most likely only worked because they'd considered that possibility and decided to go for the shelves of conjuration-fire-five. Presumably, as long as the goal wasn't to stop at conjuration-fire-four, the library would let them through the ruined shelves, relying on the perception worms left behind by the attack to hide their presence.
+
+That their theory about the students most likely wasn't entirely correct: surely some of those students wanted to borrow tomes from the affected shelves, and they had not, as far as the professors knew, reported anything amiss.
+
+Perhaps the library differentiated between different levels of accomplishment in magehood. There would have been a purpose to that—perception worms couldn't affect a mage that had developed a darkwood core or greater, which would allow the library to save its magic only for those that could evade the worms...
+
+The most worrying part of all of this was that it spoke to a great deal of intelligence on the part of the Haelforge Library. Cale was no stranger to those few libraries that broke their barriers and became truly sapient.
+
+But it only ever happened when the library was close to death.
+
+It was both a gift and a form of defensive magic born of the Seventh Monolith, the Heir of Knowledge. When a library came close enough to death or if the knowledge it contained was close to being permanently lost, its mind would grow brighter, capable of learning and absorbing from the vast array of tomes they held.
+
+That the Haelforge Library was displaying these capabilities told him that the wounds it held were more grievous than even the devastation they had seen implied, and Cale didn't know what to make of that.
+
+Something had attacked the library. Whatever that something was, it left scars filled with perception worms and echo magic, both of which were rare magics virtually unheard of on most of the realms he'd been to. Yet unlike some of the other dangers he'd witnessed, this wasn't some remnant of Yggdrasil or the corrupted Source of Magic.
+
+This was new, and it was new in a way that worried him. Cale had seen both perception worms and echo magic before, but not both employed together; they were each, respectively, strategies employed by dark ones intent on taking over their realms.
+
+But at the time, they were each the trump cards employed by those dark ones at the height of their power. This attack suggested a creature that left both things behind as a mere side effect of the original attack. If the dark lord on Utelia was capable of summoning minions capable of something like this, then Utelia was in far more danger than he'd thought.
+
+"Are you done thinking?" his echo asked. It had its arms crossed and was leaning casually against the remnants of a shelf, tossing and flipping what looked like a knife. When it spoke, it distracted itself just enough that it missed the next catch and caught the blade instead, slicing open its palm. What seemed to be pure light dripped out from the wound. "Ow. Dammit. Can we get to fighting already?"
+
+"I'd rather not," Cale said, glancing up briefly.
+
+"You know I can just attack you, right?" it asked, massaging its palm gingerly. It was healing quickly, as one might expect from an echo.
+
+"Are you going to?" Cale asked, raising an eyebrow.
+
+His echo grunted. "Bah. We both know how that would go."
+
+"Then why are you so eager to fight?"
+
+"You know how it is," it said. "I'm five minutes old and born with an intense desire for destruction. I wanna blow things up. I just also have all of your memories—the ones you can remember, anyway—and it's making me not want to blow things up. It's very confusing. I blame you for this. It's like you're my dad, except instead of donating genetic material you donated so much trauma I can't even be properly evil."
+
+It leaned in close mid-rant, glaring at him. "Do you know what this kind of existential crisis feels like? I am literally your evil twin, except I think being evil sucks!"
+
+"Are you really going to compare me to some sort of metaphorical father figure?" Cale ignored everything else and made a face. "You know how I feel about that."
+
+"Listen, there are only so many forms of evil I feel comfortable participating in, and that's basically the most palatable one for me." His echo sniffed haughtily, and Cale rolled his eyes.
+
+"If you're going to stand there and snark, you might as well help me figure this out," he said. "What kind of monster leaves a wound like this? Do you think the dark lord had something to do with the attack?"
+
+"And now you want me to help you?" It glared at him, then sighed. Apparently, being a figure made out of pure light did not stop it from letting out a distinctly Cale-like sigh. "You have all the expectations of a dad, too."
+
+"You're going to keep doing that, aren't you?" Cale sighed, then frowned at himself when he realized it sounded identical to his echo's.
+
+"If I'm going to help you, I need to extract some sort of payment," the echo said, shrugging. "Until I decide to fight you, anyway. That might still happen."
+
+"Except whoever cast this echo magic could only copy my core up to darkwood," Cale pointed out.
+
+"Sure, but magic isn't all about core development," his echo said. "Anyway, this is going to get confusing, so if we're going to work together we should probably call me something else. How do you feel about Bale Badwell Bobbs? You know, since I'm your evil twin."
+
+"I feel like you know exactly how I feel about that," Cale said dryly. "I'm just going to go with Echo, thanks. Although I doubt we're going to get very mixed up."
+
+"Where's your sense of creativity?" Echo complained.
+
+"Do you remember the last time someone decided to pick up the name Bale Badwell Bobbs?"
+
+Echo paused. "Oh. Good point."
+
+Cale shook his head, hiding his grin. He'd worked with copies of himself before—magic never really went right when it attempted to copy him, and more often than not it resulted in something like this. It happened often enough that he also generally knew how to deal with clones and doppelgangers.
+
+This was, unfortunately, also how he knew that he was going to have to play the straight man here. He'd experimented with other methods of dealing with himself before, and anything else usually just resulted in them getting far too distracted from the problem at hand. That wasn't always a bad thing, but it wasn't helpful when he needed to take things seriously.
+
+"So," Echo said, evidently thinking the same thing. "I think we can pretty safely say this has something to do with the dark lord. Being stuck with a darkwood core aside, my mana feels weird. I'm pretty sure I'm made of dark mana. Not the dark aspect stuff, the anti-divine stuff."
+
+"We really need a better name for that," Cale said absently. "But that's good to know. Something to do with mana manipulation, I take it?"
+
+"Yup. No divine influence when I move it around." Echo demonstrated with a small plume of prismatic flame. "Actually makes it kinda easier, but that's probably also just because I have less mana. Oh! I wonder if that means I can learn more spells than you can!"
+
+"Let's not get ahead of ourselves just yet," Cale said, holding back a laugh. Honestly, if his echo survived all this and could learn magic on its own, he'd be pleased. It wouldn't have been the first time one of his doppelgangers split off from him and ended up having a better life...
+
+Though he'd have to try not to think too hard about that.
+
+"More importantly, do you think whoever or whatever cast this magic is still around?" Cale asked. "You should be able to feel for it."
+
+"Yeah, yeah, I'm on it." Echo frowned to itself. "Dunno, actually. I can sort of feel them, but it feels like they're... separated from us? Might be the library's magic getting in the way."
+
+Cale narrowed his eyes. "Or they went ahead into the dungeon."
+
+Echo froze. "You think the dark lord might be after the mana channeler in the Bitter Path?"
+
+"It makes sense," Cale said. "Sneak into the dungeon, then seal it off behind you so no one else can follow. Maybe destroy the dungeon after that, to make sure no one can follow."
+
+"Are you sure you don't want to break the magic keeping us from Leo?" Echo seemed a little more worried, now. "I think I could do it, you know. The veil is a byproduct of echo magic, and I'm linked to it."
+
+"I know," Cale said. "But we can't. Whatever caused this is still here. It's going to be drawn to the largest concentration of magic.."
+
+"Which is going to be us." Echo winced. "I hate it when I'm right."
+
+"Wasn't I technically the one that was right, there?"
+
+"Still counts. I have to take my wins where I can." Echo's worry flashed away as it slipped on a mask in the same practiced way he did. Cale wondered absently if it was quite so obvious when he did it, or if he was only seeing it because he knew himself so well. "Anyway, I get it. We need the spatial veil to keep everyone safe when it happens because we still haven't picked up any spatial veil spells. I feel like it's taking a while, though."
+
+"It is," Cale said. "I wonder..."
+
+Echo tilted its head, then grinned as it caught on. "It's probably a gatekeeper making sure the dungeon stays sealed?"
+
+"It is nice to work with myself." Cale grinned right back. "We have a lot of spell knowledge between us, don't we? And we know what the spell anchors are thanks to Leo. If we get the right spells—"
+
+"—and use it to anchor a makeshift ritual—" Echo continued.
+
+"—we could probably expose the gate," Cale said. "If there's a gatekeeper around, that should get its attention."
+
+"And if it doesn't, we can always blow things up until it arrives to make sure we don't also blow up the dungeon!" Echo added cheerfully.
+
+Cale paused. "No, you lost me on that one."
+
+Echo didn't have much of a face, given that it was mostly made of light, but Cale was still pretty sure it was pouting. "Are you sure? Can't we at least blow things up a little?"
+
+"That's your evil twin side speaking, Echo. No blowing things up."
+
+Echo sighed. "If we get back to Brightscale Academy, I'm going to steal Syphus from you. I understand it so much more now."
+
+"I can't decide if that says something about you or if it says something about Syphus." Cale shook his head. "Let's just get those spells ready."
+
+"Cale, if you can hear me, you are a lying liar and you better give me so many points for this!"
+
+Leo was pretty sure that Cale could not, in fact, hear him, but screaming helped him feel better a little bit. Mostly because if he didn't scream then he would be forced to hear the stone walls grinding and bearing down on him, not to mention contend with the whispering faces emerging from said walls.
+
+There were so many faces. Why were there so many faces?! This wasn't even one of the spells he had! Leo was pretty sure Cale had said that something created from echo magic wasn't supposed to be able to grow. He thought he understood what that meant—an echo was a snapshot of the moment it was created, not a living, dynamic being.
+
+Except his echo was pulling out new spells on him, and that was bullshit. Was it somehow benefiting from the Gift? Maybe Cale hadn't accounted for the existence of the Gift. They were both tossing spells around at one another, and it would make sense if the Gift was responding by giving out spells.
+
+But that would mean he wasn't getting any new spells, and his echo was. For that matter, why were its new spells so incredibly creepy? There were the whispering faces—many of which seemed to be modeled after his own face, or some distorted version of Cale's—but before that, some lumbering shadow had emerged from the labyrinth and started chasing after him. And before that, it cast some spell that filled the labyrinth with shifting, hallucinatory smoke.
+
+At least, Leo hoped it was hallucinatory. The things he'd seen... He shuddered.
+
+On the other hand, he was pretty sure this meant he was on the right track. His echo only pulled out a new spell whenever he tried to focus on making palewater; it knew what he was doing, or at least what he was trying to do, and clearly it found it worrying enough to focus all its efforts on him whenever he tried to stop for long enough to do that.
+
+That was—it was sort of impressive, actually? Leo wouldn't have thought he would be able to focus so closely on what his opponent was doing in the middle of a fight, but this echo was created from him, and it was doing everything he would do if he was ever forced into a fight against himself. It didn't seem able or willing to speak, but it was sharp and tactical, pressuring him whilst doing its best to confuse his senses.
+
+They both had the same instincts tuned to navigating different labyrinths, though, which made it hard for them to hide from one another. That put Leo at a disadvantage, since he was the one that needed to hide.
+
+He tried to think. The only way to put real distance between them would perhaps be to bury himself deep in layers of pseudo-labyrinths. He could draw complex paths into the walls like he was setting up a ward, enough to draw in and obfuscate his echo's navigational senses. That might mask his presence long enough to focus.
+
+But his echo was aware of the same thing, and it refused to let him. Every time he tried, it found something new to distract him and did its level best to close the distance, bashing through walls and growing new paths through their shared domain. The damn thing had not only picked up on what he was trying to do, it was countering his strategy and coming up with new spells in the process.
+
+Leo was...
+
+Well, all the screaming aside, now that he thought about it? He was kind of pissed about that, actually.
+
+It was an echo. It was using his mind against him—using its knowledge of his strengths and weaknesses, what it knew he would and wouldn't do, and it was using his own anxieties and fears to corner him. Whatever kind of copy it was, it didn't seem to carry weight of the same doubts Leo did, and that made it a terrifying, unstoppable force on the battlefield.
+
+Why couldn't he do the same? Was this an example of what he was actually capable of, if he didn't hold himself down? If he fought like this in the dungeons, he wouldn't have needed to worry about holding his friends back at all. His echo didn't have access to anything he didn't have, and yet it had somehow turned itself into a ruthless hunter even his friends would have been hard-pressed to go up against.
+
+Leo was used to being outdone. He was the most mortal creature in a group of immortal, elemental beings. His magic was strange and wonderful, but it was the weakest of them all. He was so used to it, in fact, that he had chalked it up to being something intrinsic.
+
+But this was a copy, and he was sick of being outdone. Something inside him burned at the mere thought of it.
+
+Leo snarled, then began reshaping the labyrinth once more, this time for a different purpose entirely. He no longer cared about putting distance between himself and his echo. Instead, he forcibly re-shaped the walls closest to him, forcing the path into a familiar pattern.
+
+If his echo wouldn't let him focus internally, then he'd just have to find a way around that.
+
+That mana circulation pattern had spoken to him so deeply because its path, circuitous and complex, was essentially a labyrinth. He needed to focus internally to be able to follow it, in theory... unless he built it into the walls and stone around him.
+
+Unless he turned the labyrinth itself into the pattern.
+
+He wouldn't need to do it all at once. All he needed was for the next twist and turn to match the circuit. It would be exactly like navigating the Haelforge Library—his goal was not to make the pattern flow as a whole, because something about that seemed to make the intent within his mana rebel against him.
+
+So instead he would make his mana move one step at a time until it formed the whole.
+
+Adapt. Adjust. If his echo could do it, then so could he.
+
+Right on cue, it burst out of the wall in front of him. Leo could tell, from its expression, that it expected him to shape the labyrinth around him to escape. It had prepared itself for a chase.
+
+Leo punched it in the face, then raced down the corridors he had reshaped, feeling his mana move along with him.

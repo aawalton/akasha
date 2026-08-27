@@ -1,0 +1,181 @@
+---
+id: 46a27775-a72c-5b05-9181-e8c5864f5018
+page-type-slug: story-chapter-royal-road
+title: "95 — Book 2, Chapter 43 — Red Symphony, Pt 4"
+slug: 0095-95-book-2-chapter-43-red-symphony-pt-4
+partOf: just-add-mana
+position: 95
+ownLength: 3138
+unit: words
+ownProgress: 3138
+publishedAt: 2026-02-03
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3008605/95-book-2-chapter-43-red-symphony-pt-4"
+royalRoadId: "3008605"
+markedReadAt: "2026-06-29T18:50:54.670Z"
+---
+
+Torment's Shadow hesitated.
+
+In and of itself, this was strange. Torment's Shadow was not a creature of hesitation, yet it had already hesitated twice. It wasn't sure how long it had been fighting with the Red Commander, but magic came easily to it now in this mana-fused body it had been granted.
+
+Perhaps some of this was because the spell wasn't operating at its full potential. Torment's Shadow was aware, in the abstract, of how the Gates operated and the various stages of divinity; it should not have been able to hesitate once it accepted the contract offered to it by the spell. That meant it had to express the full power of its mana through its body.
+
+But there was a limit. Utelia as a realm wouldn't have been capable of enduring the full expression of its mana, and the spell it cast was only a fifteenth-tier spell besides. And so while the spell should have locked Torment's Shadow into the purest expression of its hatred—in which case it might very well have simply continued until the Red Commander ran out of magic to heal himself, regardless of how long that might have taken—it instead left just the barest glimmer of space for Cale Cadwell Cobbs to assert himself.
+
+Even then, he might not have. In the Red Commander, Cale saw an expression of everything he had most hated about the war. As Torment's Shadow, he could see the trail of pointless cruelty and vapid greed that defined so many of the Lower Branch cultists, and a large part of him wanted nothing more than to see it gone.
+
+If not for that, he might have fought off the hold of his spell sooner.
+
+Instead, Torment's Shadow crushed the Red Commander as thoroughly as it could, destroying him with precise blasts of magic that disintegrated his flesh just as quickly as it regenerated. It could see the nature of the spell the Commander was using—it was something meant to spread and contaminate, a staple trait of many of the spells invented during the Planar War.
+
+Torment's Shadow could not allow this, of course, and fortunately, it did not have to.
+
+The [Twilight Gate of Potential] amplified its senses and mana control to something approaching that of a god. It could sense the way the Red Commander's magic lashed out, and it could alter its own mana composition to fight it. Every pulse of corrupted mana was followed by Torment's Shadow cleansing it with a near-divine barrier of his own, one that expanded out from him enough to capture nearly half the continent in its cleansing flame.
+
+This might have drawn attention, but it had evolved a spell to deal with that, too. In its current state, doing so was almost simple; it could feel the way the Gift wanted to evolve the spell and nudge that evolution on its own terms, though the Gift itself strained against its hold.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+Foreign influence detected! Attempting to purge...
+
+Purge attempt failed. Gift integrity at 99%.
+
+[Shadowblend] has evolved into [Obfuscated Domain]!
+
+[Obfuscated Domain, Level 1] [Fifteenth Tier (Unique), Active] [1.0e33 Mana]
+
+Imbue your actions and their consequences with elemental obfuscation, preventing external sources from detecting, scrying, or otherwise noticing your presence. This spell will not obfuscate you from anyone that becomes directly involved with anything you do, but otherwise has no limit to its spread, and can shield your activity from even divine or extra-planar observation.
+
+Torment's Shadow had known, albeit in some abstract, ill-defined way, that if it allowed other individuals to get involved with the fight, the Red Commander's spell might easily begin to spread out of control. The isolation was a necessity. It meant that even were their battle to shake the continent itself, it was unlikely there would be interference.
+
+Even in its rage, it knew to attempt to keep things contained. It caged the Red Commander into the southeast quadrant of Aersheld, blasting him back to the center every time he attempted to reposition himself. The Greater Indictment it fought earlier was considerate enough to remain trapped and made no attempt to free himself, instead simply enjoying every moment of the Red Commander's beating.
+
+There was something strange, though.
+
+The Commander made no attempt to escape, no matter how much or how long they fought.
+
+Torment's Shadow noticed this, of course. It pondered on the significance of it even as the flesh of the elf-thing it was fighting boiled beneath a blast of mana. His armor was now more an unrecognizable clump of starmetal and melted slag than anything recognizable as armor, and with nothing to guide its shape, his flesh regenerated erratically around it instead of within it.
+
+Unfortunately, the relics he carried remained unharmed. The cages they were kept in had an enchantment similar to that first relic, capable of purifying and absorbing the mana directed at it. While Torment's Shadow was reasonably certain it could overcome any such relic, it chose not to test those limits.
+
+It didn't need to, after all.
+
+The state of the fight was less one-sided than the Red Commander's physical body might have implied. A flesh mage of his caliber didn't need a complete, intact body to do battle.
+
+In fact, the few times the Red Commander was able to regenerate enough of a form to move, he was utterly grotesque. Gone was the handsome, elven face, albeit heavily scarred and modified; instead, he regenerated for function, rapidly creating the organs he needed to cast his spells and nothing else.
+
+And each and every one of those spells sparked even more rage within Torment's Shadow. They were mere echoes of the heights of war magic, certainly—it had seen far worse before—but the thought that anyone might be willing to bring that time of despair back was enough.
+
+Not to mention the nature of the spells themselves. The Red Commander hit Torment's Shadow with a spell meant to inflict visceral, soul-deep pain, the sort that might have once been used by the Lower Branches for interrogation and torture. That pain dug out memories from its very soul. Memories of loss and betrayal, of one of its own crew giving him up in a desperate attempt to save his world; of another who had tried to stop him and fell with a dagger in her back for the trouble.
+
+The Red Commander sought to break the Shadow with these spells. They were complicated combinations of flesh, soul, and memory magic, and their effectiveness could only mean that these spells had been designed specifically to target it. It had a natural immunity, otherwise, to most spells of this nature. It stood above the hierarchy of power that defined such magic.
+
+But the Lower Branches had known this, and they had attempted to work around it. These spells would not work on anyone else, but they would work on the mage they knew of as Yggdrasil's End. In any other situation, the Red Commander's counterattack may very well have incapacitated it.
+
+But Torment's Shadow was already broken, so it did not flinch. It did not hesitate.
+
+Not until it registered that the Red Commander had allowed its last blow to make contact, then altered his trajectory. He had adjusted it just enough to target what appeared to be a herd of goats, and it was only too late that Torment's Shadow noticed the two children leading that herd. It snarled and reached out, creating a barrier just in time to deflect the Red Commander's trajectory, but only barely.
+
+The Red Commander slammed into the back of the herd, and the aura of his corruptive magic immediately began eating into the goats.
+
+Torment's Shadow shot after him.
+
+And that was where it hesitated.
+
+Because no matter the state it was in, it would not allow children to come to harm. It knew there might be consequences, but now was not the time to think of consequences. It needed to act.
+
+It raised a shimmering, prismatic barrier between the children and the Red Commander, and stepped up to stand between them.
+
+Hesa was a young spiderling, only just old enough now that she could accompany her older brother on his pilgrimage. Even then, their parents had fussed over her, covering her in all sorts of charms and protective spells and making her promise at least six separate times to do everything she could to stay safe; she'd rolled her eyes at the time, but promised anyway. She wanted to see Thyrahl!
+
+That, and her favorite goat would be in the herd being led to Thyrahl, and she couldn't stand the idea of saying goodbye so soon. She could tell her brother was a little annoyed with her, though he did his best to hide it—her presence meant he had to take far more breaks than he otherwise would have.
+
+She knew this. She was grateful her brother tolerated her in spite of it. There was absolutely no way she would ever, ever tell Adyr this, because someone needed to keep him in check, and if she needed to be a little brat so he didn't decide he was the Most Important Spiderling in their village she absolutely would be.
+
+But she was grateful, because she knew he could have demanded she stay out of it. Adyr had an apprenticeship in Thyrahl, and if she came along, he would need to escort her back home and then make the trip all over again. If she didn't come along, he would have been able to just stay in Thyrahl and start his apprenticeship.
+
+It was just that if she actually said all that her big brother would get an inflated head the size of Berthanthony, the enormous prize goat of their village, and as his little sister, it was her duty to make sure that did not happen. So she was never going to say it.
+
+This was, of course, when a bizarre flesh-meteor crashed into the back of their herd of goats. It was a miracle the shockwave hadn't sent half of them flying, but after a moment, Hesa realized why—strange, pink tendrils had shot up from the ground to latch on to the legs of the goats, forcing them to stay stuck in place.
+
+Her eyes widened. Jornathena was in danger! Her favorite goat! She launched herself forward, only for Adyr to grab her by the wrist and pull her back, and she twisted to yell at him before she caught the look on his face and saw that he was trembling.
+
+She nearly dropped her bag of supplies in shock. It was then, and only then, that she extended her mana senses far enough to realize exactly what had landed near them.
+
+Hesa doubled over and vomited.
+
+The reaction was so quick that she didn't even register the second presence that appeared shortly afterward. She was too busy trying to parse the disgusting feeling of that magic. Her mana senses might not have been trained up as much as her brother's, but like all spiderlings she was particularly attuned to the intent imbued in magic.
+
+Whatever this thing was, it had the most twisted intent she had ever felt. The feeling of that magic alone was enough to make her heart pound in terror and disgust, and her brother—
+
+Adyr was putting on a brave face, clutching her close, but her big brother was shaking more than she'd ever seen.
+
+"A-Adyr?" she whispered. Her brother nodded, but didn't take his eyes off the strange mage. "I just—um—I want you to know—I'm really glad you brought me with you—"
+
+"You're saying that now?" Adyr hissed at her, incredulous. "You need to prepare to run, sis. We both do."
+
+"Shut up! I don't want you to be mad at me, that's all!" Hesa's face was red, and she had definitely said all that way too loud, and she was also well aware she was fixating on entirely the wrong thing. But it was something normal she could fixate on, and she couldn't help herself. "I know you didn't want to bring me! And if you didn't then maybe I wouldn't have slowed you down and I don't want you to hate me—"
+
+Adyr clasped a hand over her mouth to make her stop talking, which was probably fair. She bit his hand anyway.
+
+"Ow!" Adyr jerked his hand back and glared at her, but his gaze softened almost immediately when he saw the way Hesa was shaking and clinging to him. "...Look. I'm not going to hate you. Just get ready to run if I say so, okay?"
+
+"Why aren't we running already?" Hesa whispered, trembling. She was already crying, and she hated it. Small hiccups, sniffles, the works, just from feeling a mage's mana.
+
+"Because it'll make us targets," Adyr said quietly, and for the first time, Hesa realized there was a second strange mage amongst them. She hadn't noticed him until he was there. Until prismatic mana blazed out of him, bright and fierce and so powerful it was nearly suffocating.
+
+She almost didn't dare to extend her mana senses to it, but she did it anyway. She wanted to know how much she'd screwed up.
+
+She had no idea what to make of what she felt, though. It was cold, nearly devoid of the intent she was used to, except there was a flicker of warmth and determination in there that contrasted with everything. Like there was the ember of a promise in there, buried in the depths of a frozen scar.
+
+Hesa had the vague, terrified, absurd thought that she should enter that line in their village's next poetry competition.
+
+Torment's Shadow did not know what to do. Every part of it wanted to continue this fight, but it couldn't. It couldn't keep doing what it had been doing, because that would only offer more opportunities for the Red Commander to get others caught in the crossfire. Especially now that he knew he could get others involved to force Torment's Shadow to defend them; it had fought enough people like this to know that would be his new focus from this point on.
+
+During the Planar War, many of those would-be victims hadn't cared. They knew what the Shadow was here to do, and they cared little if they died in the process; their realms were dead and dying, and even the death of their oppressors meant only a slightly prolonged life of suffering.
+
+But this was not the Planar War, and the two spiderling children that stood terrified behind Torment's Shadow and its barrier were far from the people of the war-torn branches. It could not use the strategies it once did.
+
+And time was running out. Even now, the Red Commander was bearing the power of that relic down against its barrier. It was repairing it in real time, forcibly keeping the barrier coherent enough to push back the aura the Commander was exuding, but every moment it wasted was another glut of mana he absorbed, enough to turn back hours of fighting and draining the Commander's ability to regenerate.
+
+Which meant it needed a different strategy. The problem was that Torment's Shadow only knew violence. It had been born in it, and once upon a time, it had been the only way for Cale to survive the torment that the war had wrought on him. Now Torment's Shadow had to defend, and it didn't know how.
+
+By now, the Red Commander had regenerated enough to make a sound. He laughed in triumph, despite the pain that must have wracked his body; he was used to pain, it seemed, and practically revelled in it. Only the sheer, visceral nature of the attacks Torment's Shadow used was able to break through that apathy, and now his threshold had simply risen to accommodate.
+
+"What's wrong?" the Red Commander mocked. "Worried about two kids? I have to admit, you did manage to scare me, but you still can't kill me—"
+
+Torment's Shadow silenced him with a blast of spiritual pressure, which was one of the newer functions of its new form, and one the Red Commander still hadn't figured out how to counter. His eyes bulged as he struggled against it, and for a moment, the tendrils around the captive goats retracted. That was enough for a quick blast of cleansing fire to burn away any converted flesh.
+
+The goats shrieked and scattered.
+
+Torment's Shadow ignored the chaos. It needed a solution, but it wasn't capable of one, and the nature of the transformative spell it was using didn't quite allow him to change. It needed to close the gate, but for that, it needed to know who Cale Cadwell Cobbs was; the problem was that it had been fighting for—what, days?
+
+It didn't remember who it had been.
+
+And then its eyes settled on the littler spiderling's abandoned pack of supplies. The pack had spilled open when her brother pulled her back, and out of that pack rolled a simple loaf of bread.
+
+Torment's Shadow stared. Something within it flickered, and then it remembered the echoes of an apprentice's words.
+
+"I'm going to learn some baking magic when you come back," Damien told him earnestly. "Or before you come back, if you take too long. That way, when you're back, we can do some baking magic together."
+
+There was a plea in that, wasn't there?
+
+Torment's Shadow blinked one last time, and Cale Cadwell Cobbs opened his eyes, the last of the Twilight Gate's effects flaking off his skin like ash. Now human again, there was nothing stopping the power of the Red Commander's spell from grabbing his flesh and trying to transform him into yet another avatar.
+
+Cale grinned. "You know," he said. "It just occurred to me. I forgot to warn you."
+
+The Red Commander seemed struck by Cale's sudden change. He narrowed his eyes warily. "What are you talking about?"
+
+"It's just, you know," Cale said. He stuck his hands in his pockets, affecting a sheepish demeanor. "This isn't the first time a hive mind tried to assimilate me, you know? And yeah, you're not really a hive mind, but that's what that spell is trying to do."
+
+The Red Commander frowned, uncomprehending.
+
+"Do you know what happens to a hive mind when its core gets overwhelmed?" Cale asked, his tone conversational. The Red Commander's eyes widened, and the spell snapped off—
+
+Far too late.
+
+Cale Cadwell Cobbs poured his mana straight into the connection his opponent had foolishly opened between them. The Red Commander opened his mouth to snarl and protest, his eyes bulging with impotent rage.
+
+But before he could get even a word out, his mana core shattered and his body collapsed, empty and inert.

@@ -1,0 +1,237 @@
+---
+id: d2cd9e87-52a3-512d-a37a-c203a8211b9a
+page-type-slug: story-chapter-royal-road
+title: "45. Contract"
+slug: 0045-45-contract
+partOf: mana-devourer-litrpgmana-cultivation
+position: 45
+ownLength: 2926
+unit: words
+publishedAt: 2024-08-04
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1744708/45-contract"
+royalRoadId: "1744708"
+---
+
+“Man, they really left a book like this lying around?”
+
+“I don’t think they’re that worried about security,” Rika shrugged. “Those barriers are the real deal. I couldn’t even take your note past a certain threshold. I had to hide it in a vase and come back and check it a few times just to make sure I knew what I was looking for.”
+
+“Damn, you can’t even take something I wrote on through one of those barriers?”
+
+“Apparently not. Luckily, no one seemed to be paying all too much attention to me. Place was busier than usual.”
+
+She stole one more glance at the book, then smiled. “Anyways, get to reading! I wanna know what it says!”
+
+“This is a weird twist on storytime,” Markus laughed, pulling up the book as he spoke and flicking the cover open. “About the author… acknowledgements… blah blah… okay. There’s a contents page. Let’s see…”
+
+On the Nature of Contracts: pp12.
+
+Understanding the Conditions of Contracts: pp26.
+
+The Rights Inherently Granted by Contract Ownership: pp45.
+
+Terminating a Contract Prematurely: pp56.
+
+Understanding Soul Contracts: pp68.
+
+Outlining the Universal Terms Underlying Soul Contracts: pp79.
+
+Conditional Contracts versus Perpetual Contracts: pp90.
+
+Inheriting an Existing Contract: pp102.
+
+Selling a Contract: pp110.
+
+Subletting a Contract: pp115.
+
+Renewing a Contract: pp119.
+
+The Inherent Protections Afforded by a Soul Contract: pp125.
+
+Soul Contracts and their Interactions with Power Differentials: pp146.
+
+Soul Contracts held over Spirits: pp160.
+
+Soul Contracts held over the Undead: pp165.
+
+…
+
+The contents list continued on and on. Markus opened up to the first chapter and began reading aloud, fingers clammy as he held the book up to the light, Rika huddled over him in an attempt to better see the pages despite her inability to read any of it.
+
+“In Firrelian society, and, purportedly, even beyond, contracts make up a… what’sthatsay—multitudinous proportion of instutionialised control paradigms. Contracts, written and signed, or spoken and agreed to, are used to orchestrate everything from treaties to labour, to settle ownership disputes and arrange debt repayments, to pledge resources, to establish and nix trade, to arrange marriage, to permit death, to enforce laws, desires, and agreements all.”
+
+Markus cut off, staring at Rika. “Really? Contracts are that common here?”
+
+“Yeah,” Rika nodded. “There’s a reason I ended up getting a job here, and half of that’s because the contract was verbal. A lot of business owners like to fuck creatures like us by filling their contracts with tricky words we can’t read or understand. This one was straightforwards, and no screens or paper involved.”
+
+“Damn, so if you can’t read in this world…” Markus hadn’t even considered how that might impact system usage until now. Plus, with contracts being such a common thing…
+
+“Yeah. A lot of people can’t read very well. It’s not just me.”
+
+“Have you ever had to sign something you didn’t understand?” Markus asked, peering at her.
+
+Rika already had one pair of arms crossed. She crossed the other pair. “More than once. It doesn’t matter, though. Keep reading, okay?”
+
+“Alright…”
+
+“The power of a contract is determined by the will, technique, and strength of the creature who draws the contract up. Contracts written upon paper might hold some extrinsic value, especially where legality is concerned, but system-based contracts bound by magic have inherent features that make them both easier to enforce and harder to have fail than classic written contracts.”
+
+“It’s rare for anyone to use paper,” Rika said. “At least, I’ve barely seen it.”
+
+“I imagine people only ever draw contracts in paper if they want both parties to have an easy way out,” Markus replied.
+
+He didn’t linger with the thought.
+
+“This guide covers the most total and encompassing of any system-based contracts to exist upon Firrelia while still being accessible by mortal beings: the Soul Contract.”
+
+“Soul Contracts can be traced back to their earliest of recorded uses tens of thousands of years ago, when written records of magic first began. The practice is rumoured to have been first brought to Firrelia by deities, and has since been passed down, taught, attempted, and otherwise replicated by thousands upon millions of creatures with varying degrees of success. An art that requires an extremely vast knowledge of mana and binding principles, as well as a large reserve of power to draw upon and an intimate knowledge of the subject creature—often achieved via appraisal—Soul Contracts are often replicated with varying degrees of accuracy, and many who claim to hold a Soul Contract over another creature in fact do not, instead holding… holy shit, are you hearing this?”
+
+“Yeah… what’s it say?”
+
+“Instead holding…” Markus shook a little as he read the words, the page quivering beneath his fingertips. “a facsimile which may not grant the same guaranteed protections and assurances nor be as easy to enforce, nor as difficult to break as a true Soul Contract.”
+
+“Shit. That’s crazy. Do you think…”
+
+“That Drathok doesn’t have a true Soul Contract over me? I don’t know… it’s pretty fucking powerful, though,” Markus admitted. “I mean, it doesn’t let me escape from here, it compels me to go to my fights, it stops me from being able to attack him, his imps can use the contract’s power to lash chains to me and drag me to my fights…”
+
+He needed to keep reading. He needed to try and determine if the Soul Contract Drathok held over him was even the true genuine thing. If it wasn’t, there was always a chance that it’d be that much easier to break out of.
+
+He returned to the contents page, finding the chapter concerning ‘The Inherent Protections Afforded by a Soul Contract’ and flicking to said page. He scanned and skimmed his way down until he found examples.
+
+“Blah blah blah—here. The subject of a Soul Contract will be unable speak of the nature of their contract to another, unless given express permission by—shit… I don’t have a real fucking contract!”
+
+“Holy shit, you don’t! You’re talking about it right now!”
+
+Rika grinned at him. Markus smiled back. It was an ecstatic feeling to realise even this much, to feel the chains around his neck loosen just a little.
+
+But… reality soon sobered him. Loosened or not, the chains were still there. Even if what he had was something that was meant to mimic a Soul Contract, even if he didn’t have every feature of one, he still at least had some. He kept reading the passage.
+
+Other protections involved:
+
+- Allowing the holder to nullify all attacks made against him by the subject: check.
+
+- Allowing the holder to view the subject of the contract at all times: check, at least as far as Markus knew.
+
+- Allowing the contract holder to inherently know if and when the subject was attempting to break or go against said contract: …not check. Markus distinctly remembered Drathok having to ask him whether or not he didn’t take a weapon to his second fight on purpose, and questioning if he was trying to defy his contract by doing so.
+
+- Allowing the contract holder to restrict and control the movements of the subject: unsure. Markus could be dragged to his fights. He could be compelled to appear at them. He could be stopped from leaving the arena with barriers. Could Drathok move him around otherwise? He assumed that with the chains, he could. Those seemed to be an extension of the contract’s power. He was leaning towards ‘yes’ on this one, but said chains seemed to require proximity. Otherwise, Drathok wouldn’t send anyone to get him before his fights.
+
+- The ability to compel the subject to divulge the details of conversations: Drathok definitely didn’t have this one. Interestingly, Soul Contracts didn’t seem to have any caveat about divulging actions whatsoever, and there was nothing in here about a person being unable to lie about something they’d done, but in the purview of conversations the subject had had specifically, if the owner was aware that two people had spoken, he could ask what about and expect to receive an accurate retelling of the words spoken.
+
+“Drathok can’t do everything on this list…” Markus bit his lip. “He probably wants me to think that he can. Then again, he’s never told me details. That’s probably on purpose, too. If I found out there was something in our contract he couldn’t enforce, I’d probably find a way to exploit it. Better for him to leave the whole thing nebulous.”
+
+“Nebulous?”
+
+“Uhh… obfuscated.”
+
+“What?”
+
+“Unclear.”
+
+Rika groaned, throwing a pair of hands up. “Yes, what you’re saying is unclear. I don’t know what any of these words mean. Can you explain it again?”
+
+Markus sighed. Why had he gone for a more complicated word the second time around?
+
+Rika nodded once he explained again. “Okay, so knowing that, how do you get out of the contract, huh?”
+
+Good question. Markus pulled up the appropriate chapter.
+
+“Should the contract holder specify terms that aren’t met by the holder within a specified margin, a contract may be terminated or put up for review. An example for this would be a promise of payment not being fulfilled within a previously specified margin after a contracted job has been completed… Hmm… can I use this? Drathok gives me rewards for the fights. It’s in the contract.”
+
+Rika narrowed an eyebrow. “Well, is there a time limit on when he has to give them to you?”
+
+“Nothing like that. I wonder if I could refuse to accept one and fuck with him like that?” Markus threw his hands up. “I dunno. Probably not. I’ll keep reading.”
+
+“Death of the contract holder will cause a Soul Contract to immediately terminate assuming an alternate holder hasn’t been selected and agreed upon by both parties.”
+
+“Well, yeah, that’s great, but it’s not like you can attack the guy,” Rika said. “Even if you could, do you really think you could kill him?”
+
+“It’s not a true contract, remember?” Markus said. “Maybe it grants him the power to stop me from attacking him if he’s aware of it, but doesn’t if he’s not aware?”
+
+Rika blinked, eyes sparking with inspiration. “Yeah! What if you could attack him while he was sleeping, or while his back was turned?”
+
+Markus felt kinda weird to even be considering killing Drathok here. Not because he had any love for him. The guy was a fucking asshole and he’d been dreaming of his revenge since he arrived at this place.
+
+Just… he’d not considered it to even be a possibility until now. He’d thought his contract must be absolute. Someone would’ve told him if it wasn’t, right? Perhaps even a god couldn’t tell at a glance.
+
+But no. He’d thought Drathok was simply a force in his life he was going to have to learn to live with no matter what. That’s how everything had been contextualised to him until now. Hell, he was even beginning to feel slightly strange about the reaction he’d had to Drathok in their last conversation, back when he’d lost his shit at the demon and called him every name under the sun.
+
+Why? Was it because they were working together now, in a sense? Was it because some people seemed to care for him, people Markus liked and appreciated in turn, like Lexi, like the blacksmith?
+
+Was it because he’d apologised to Markus, even if only for a fraction of the things that he’d done?
+
+Ugh. What did it matter if they were working together? Drathok had pulled Markus here. Tried to sell him. He’d berated him, assaulted him multiple times, tried to get him killed…
+
+He deserved to die. Markus didn’t feel bad about a single word he’d said, only ashamed that the words had come from an ugly place. As much as he wished that scornful, vitriolic part of him didn’t exist, if there was anyone it were going to rear its ugly head around, he was the best target by far.
+
+And if Drathok had to die so that Markus could be free…
+
+He didn’t want to revel in it, but he’d do it. If surviving this place meant killing the bastard, then he’d kill the piece of shit.
+
+It wasn’t that Markus wanted to find a way to spare Drathok, he was sure. It was that he thought there might be an easier one. That and the fact he’d never even considered this a real possibility until now, those were the things that gave him pause.
+
+His hands became still. He focussed on the page.
+
+“If a contract holder becomes unable to hold or use magic, any contracts they hold will be terminated immediately, as the contract/s would lose their necessary conduit.”
+
+Could Markus… steal or seal away Drathok’s ability to use magic somehow? Sounded just as easy as killing him, which currently sounded downright impossible.
+
+These options were so extreme. They relied on Markus having way more power, resources, and understanding at his disposal than he currently did. He needed to try and find something simpler…
+
+Markus flicked to a new chapter, Conditional Contracts versus Perpetuals. He read into it a little and found that some contracts had conditions that could be fulfilled in order to complete said contract.
+
+Like Markus and his ten fights.
+
+Only…
+
+Did his fights outside of the arena count? The text stated:
+
+[Your soul is intrinsically bound to the will of Drathok of the Severed Star. Drathok may call upon you to fight for him during scheduled arena bouts and you are obligated to participate in earnest. Your contract will be satisfied after ten consecutive victories in armed combat.]
+
+Victories in armed combat… did they need to be during scheduled arena bouts? Who decided if a fight counted? Did Drathok have to sign off on the validity of a fight? If there was a way for him to cheat Markus, the contract may as well be perpetual, and there just might be a way he could do that. Would his fight with the goblins have counted as ‘armed combat’ if he hadn’t ever taken up one of their weapons?
+
+If there was a way to cheat this, Markus wanted to find it. It might be a simpler solution to getting out of here than any of the others. Of course, this one seemed it might be pretty brazen. Assuming the contract decided when its terms were being properly fulfilled, rather than Drathok, would Drathok be notified after each fight towards his total was ticked off, or only when the contract was fully completed?
+
+It was, again, another huge risk. If Markus was caught trying to cheat his way out…
+
+Then again, Markus wasn’t even totally sure if Drathok was trying to keep him here. He was really fucking confused by it, honestly. First, he’d tried to get him killed. Now, he was helping him. What next? Would Drathok care if Markus found a loophole and tried to speed his way through the rest of his contract? Maybe Markus had caused some kind of trouble for him. Perhaps that’s why the gods weren’t coming anymore. He’d definitely lied to him about something.
+
+Maybe Drathok would be happy to see the back of him. He couldn’t be sure. Nothing that the demon did made total sense to him…
+
+Which was why a definitive solution was simpler. Killing him didn’t involve having to make sense of anything…
+
+Markus put the book down. He’d probably burned through a good hour just now reading and talking, and with the clock ticking down in his mind, he knew he needed to spend the last moments he might have in this world preparing.
+
+He checked his mana again, his Essence Stones, Ember’s crystal. She was still absent, and it was likely for the better. He didn’t want her to have to face whatever this was with him. It was gonna be fucked up enough for him to have to deal with—she didn’t deserve that.
+
+All the gods had been sent away… it was just him and Rika. They sat on a fence overlooking a sea of lava, legs dangling, as Markus prepared to dive on in.
+
+Was he stupid to have turned all these gods away?
+
+He was stupid to insult Randall as he had. He was. He could’ve been more courteous, more calm, heard him out better…
+
+No. That guy was a piece of fucking work. He’d have taken total offense to Markus’ refusal regardless. All he cared about in the world was his own gratification.
+
+But the others…
+
+He’d chosen his own path. It was the path that would lead him to survival, that would give him his best chance. He’d done things he’d regretted on the way, and he’d perhaps continue to do things he might regret, but this was about getting past this trial, about escaping, about living. It’d only ever been about trying to survive in a world so hellbent on refusing him that right.
+
+It’d only ever been about freedom. About not being shackled and chained.
+
+Markus would be free.
+
+And all the planning and preparation in the world didn’t do shit in the face of that solemn mantra permeating his mind.
+
+He would be free. No matter what.
+
+That was all that mattered to him.
+
+He looked at Rika. Took comfort in her being sat beside him.
+
+Nothing else mattered but his freedom.
+
+He thought of Randall. His gleeful, smiling, sadistic face. His shrill voice. His shining golden eyes.
+
+He would be free.
+
+The alternative was too terrifying to consider.

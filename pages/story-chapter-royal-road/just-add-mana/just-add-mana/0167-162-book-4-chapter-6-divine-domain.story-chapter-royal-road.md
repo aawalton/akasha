@@ -1,0 +1,221 @@
+---
+id: 79fb89be-1b81-5169-af33-a3a9eaf47d92
+page-type-slug: story-chapter-royal-road
+title: "162 — Book 4, Chapter 6 — Divine Domain"
+slug: 0167-162-book-4-chapter-6-divine-domain
+partOf: just-add-mana
+position: 167
+ownLength: 3629
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3706505/162-book-4-chapter-6-divine-domain"
+royalRoadId: "3706505"
+---
+
+Technically speaking, Cale had no way to win this third challenge. Skilled as he might have been with the sword, he stood no chance against a physique that had quite literally been built for battle. Astiviya had strength enough to cleave the stadium, if she so wished, and while Cale might have been able to predict it and turn that blow aside, he was less confident in his ability to sustain that level of physical battle.
+
+That was the other reason he didn't like wielding swords. Too much physical training involved. What was he supposed to do, not go on adventures?
+
+Thankfully, he and his apprentices had accounted for this possibility. "For the third challenge, I invoke my right to have my second take over," he said, stepping aside. "You know what to do, Icon?"
+
+"I do," the Icon of Battle rumbled.
+
+Astiviya stared suspiciously at Cale, then at the armored form standing across from her. "I feel no magic from him," she said. "But given what you have shown me, I do not believe this is some mundane fighter."
+
+"I am the Law of Arbitration, known also as the Icon of Battle," Icon said, bowing. "I am pleased to fight in Cale's stead."
+
+Astiviya froze. "You're what?" she asked. She turned to the rest of the stadium, as if expecting everyone to be surprised, but just about everyone around them was deep in meditation now. There wasn't so much as a twitch. "You cannot mean to tell me that you are a Monolith. What is a Monolith doing on Utelia? Are you... Are you allied with this human?"
+
+"He is a close personal friend," Icon said.
+
+"You're friends with a Monolith?" Astiviya hissed, this time at Cale. "Why didn't you tell me you were friends with a Monolith when I challenged you to a duel?"
+
+"I didn't think it mattered," Cale said, wondering why she'd started using contractions all of a sudden. Was this that surprising? "I mean, you challenged me to a duel, and I've beaten Monoliths before, so..."
+
+"That was before I knew you were friends with a Monolith!" Astiviya groaned, looking around as if looking for a way out. Her pleading stare was unfortunately lost on Purén, who did not see it. "Can I forfeit?" she asked faintly. "I believe if I fight a Monolith, I may very well die."
+
+"Oh, Icon isn't going to kill you," Cale assured her. "You'll want to fight it, though."
+
+"What do you mean, want to fight it?" Astiviya stared at him incredulously. "I enjoy a good battle, but a Monolith is to a god as gods are to the realmborn. Do you imagine that ants might wish to do battle with you?"
+
+"I've met some brave ants, actually, so... maybe?" Cale frowned in thought. "You'd be surprised what they get up to in those colonies of theirs."
+
+"That is not the point." Astiviya pressed her face into all four of her hands. "Why did you even allow this? Why did Purén encourage this duel?"
+
+"Did he?" Cale asked curiously. "I did wonder, since he's the Prince of Peace and all."
+
+"It was strange, now that I think about it," Astiviya mumbled through her fingers. "He said that I would be offended by someone in Brightscale, and that I should teach them a lesson. It was quite unlike him."
+
+Cale glanced at Purén, who remained seated cross-legged with a faint look of concentration on his face. He frowned. "That cannot be a comfortable position for that guy," he muttered.
+
+Astiviya glared at him. "Stop looking."
+
+"I'm not doing it on purpose!" Cale said. "Anyway, I might have a guess, but I can't tell you until after you fight Icon."
+
+"...You promise it won't kill me?" Astiviya looked warily at the Law of Arbitration, who waved at her.
+
+"I didn't kill you, did I?" Cale pointed out. "Come on."
+
+Astiviya sighed. She reached into her divine element and pulled out two sets of two blades, each one connected by a fiery chain. "Fine," she said.
+
+As if sensing the agreement, the Gift lit up in front of them.
+
+The battle begins in one minute. Astiviya, the Goddess of War, will face the Icon of Battle, known also as the Law of Arbitration. The victor will be decided on first blood.
+
+Under mundane combat rules, participants may only use magic that is inherent to them.
+
+The battle begins in thirty seconds.
+
+The battle begins in three... two... one...
+
+You may begin.
+
+Cale decided, once the fight started in earnest, that he was glad he was on the sidelines for this. When he had thought about how he might survive a fight with her, he had considered the possibility of her wielding four weapons at most. He had not considered the possibility that those swords would be chained together, as if the weapons had been designed by some kind of lunatic. Or perhaps by a fire elemental of some sort, since fire elementals didn't have to concern themselves with pesky limitations like the "the laws of physics" and "accidentally cutting off a limb."
+
+Astiviya's weapons looked like they had been explicitly designed to be as dangerous for its wielder as possible. One set of two swords connected by a chain was already a nightmare; he had no idea how Astiviya managed two of them, especially while whipping them about like they were meteor hammers.
+
+But manage them she did. It helped, he supposed, that she had some telekinetic ability that counted as her inherent magic and thus didn't need to hold on to her weapons at all times. She grabbed them only when she needed to press her advantage and force back one of Icon's blows, but otherwise relied mostly on the chains to rapidly redirect each blade whenever needed.
+
+It was an explosive style that was nearly impossible to predict, and one that Cale hadn't had much practice against. And while half the time it looked as though Astiviya couldn't predict where her swords were going either, Cale knew that was all intentional—an illusion that was as much a part of her style as the weapons themselves.
+
+A skilled warrior would be able to predict the trajectory of her blades based on Astiviya's body language. It was what he would have done, in Icon's position. By giving no indication that she had any idea where her swords were going next, it became equally impossible for her opponents to predict her, and as a bonus it made it more likely for them to underestimate her.
+
+In this case, though, her opponent was the Icon of Battle, who was perhaps the single most experienced individual in all the Realms when it came to duels like these. It made countering her style look simple.
+
+Still, the duel lasted much longer than Cale expected it would. He suspected that was because Icon was intrigued and impressed by Astiviya's style, too—it was deliberately prolonging the fight, just barely deflecting the blades, allowing its own weapons to be caught in the chains and torn out of its grasp.
+
+A lesser warrior might have assumed that Icon was on the back foot, but both Astiviya and Cale knew that was far from the case. Even when whatever weapon it chose was torn away, Icon managed to recover without taking a single blade from those divine blades.
+
+It slid between every attempted swing with a fluid agility that should have been impossible for its size and bulk. It was testing and probing Astiviya's style, bringing out different weapons to use against her. A spear first, to see how her swords fared against it; a set of chains next, to see if it could mimic aspects of her style; a trident, to test if those chains could be caught on its prongs...
+
+On and on it went. Eventually, though, Icon seemed to realize it was having a little too much fun with all this. Astiviya was getting increasingly desperate. In any other situation, she might have enjoyed the fight as much as Icon did, but there was a part of her that believed she was fighting for her life.
+
+Once it recognized that, Icon grew serious. And once it grew serious, the fight ended. In the fraction of a second Astiviya's guard lapsed—a gap no mortal could have taken advantage of—it thrust a blade through the storm of burning chains.
+
+Astiviya, to her credit, recognized the threat and attempted to snap them together to strangle the thrust before it made contact.
+
+But Icon's strength overpowered hers. It followed through with the thrust, spearing her through the chest and slamming its blade into the ground hard enough to leave cracks. The Goddess of War let out a choked sound, her eyes growing wide, but though she reached to try to pull the blade out, she had too little strength left to do so.
+
+Golden light poured out of Icon, signifying both its victory and the end of the duel. The moment that light ended, Cale leapt into action.
+
+"Did you get it?" he called, using [Ethereal Flickerstep] to dash to Astiviya's side. Divine ichor poured from the wound in her chest and pooled beneath her. If Icon had wanted her dead, she would be already, but even so it was hard to remind himself of that fact. She was, at this moment, as close to dead as a god could be without just being dead.
+
+Thankfully, Icon nodded. "The way is open," it said gravely. "You are certain you know what you are doing?"
+
+"Icon, buddy," Cale said. "I never have any idea what I'm doing."
+
+"That is a lie," it replied sternly, though not before pausing for a moment.
+
+"Okay, you got me. You're getting better at catching those." Cale grinned, though this time it didn't quite reach his eyes. "It's still all theoretical, but it's probably the first time we've even had the chance to make this work. We have to try. Make sure you keep hold of this, yeah?"
+
+Icon gravely took the mana construct that Cale held out. It was a simple thing, nothing more than a rope braided out of dense fibers of his power. He looped the other half around his waist so it could act as a tether—he'd need to find his way back out of the domain, when he was done.
+
+"Luck," it said, once he was done.
+
+"It's 'good luck'," Cale corrected automatically. "And I'm not the one that needs it. That'll be Astiviya."
+
+He glanced at her briefly as he spoke. In her chest, where Icon had stabbed through her, a faint rift had torn open. A wound that cut straight into her domain.
+
+Iin most cases, that domain would have been utterly inaccessible. Nothing more than the power of a Monolith was great enough to breach that boundary. But Cale had friends in high places, and this wasn't the first time his enemies had learned that the hard way.
+
+Though it was perhaps the first time they would benefit from it. He reached out to brush his fingers against the rift now, allowing its divine energies to draw him in.
+
+Astiviya had said she wanted to see the full extent of his power. Even with the barrier around this arena, that wasn't something he could risk doing. There were few dangers, after all, that called for him to unleash everything he had, and there were equally few places that could tolerate it.
+
+A divine domain like this one was one of them.
+
+It seemed the war goddess would be getting her wish. That was probably the least he could do, after getting her stabbed through the chest like that... though in all fairness, she had cursed a child. He hadn't exactly forgotten that.
+
+All that remained to be seen was how much of that was her.
+
+The plan, in theory, was a simple one.
+
+Astiviya was clearly more bound by her domain than most. A week ago, Cale would have said there was very little he could do about that. The gods were a necessary part of how the Great Realms functioned, and the fact that they were bound to their domains was a part of that. In a very real sense, they were their domains, and those domains were the pillars that held a realm together from within.
+
+And he knew all too well what would happen if a god were to be severed from their domain. This was, after all, not the first time he had tried to set one free. Considering what happened then, Cale wouldn't be risking any of this if he wasn't almost certain that this time would be different.
+
+But he was. He knew more about the Great Realms than he had ever known before. In the Bitter Path, he had learned about humanity and what it was like in the moments before it had vanished. Through them, he'd learned about a whole other era of magic, one in which its power was based on symbolism and significance.
+
+Then there was what Adam had hinted at in the moments before they left, along with the realization that many of the gods he had met always seemed to act more human or at the very least more free in his presence...
+
+The tipping point was Purén, strangely enough. Their conversation had been brief, but Cale felt like he'd gotten a pretty good idea of what kind of person the god was. Purén would not have encouraged a duel if he had not been certain that the outcome would in some way lead to peace. The knowledge that he'd done exactly that was a good sign that this plan would work.
+
+"Alright," Cale said out loud. "Let's do this, then, shall we?"
+
+He spoke mostly to anchor himself. His voice echoed strangely in the white void around him. Divine domains always manifested like this—they weren't exactly meant to be physical locations, and while there was a great deal of meaning bound to this place, Cale wasn't the sort of conceptual being equipped to perceive it. For him, it looked mostly like he was standing in an empty white void.
+
+One feature stood out. In the middle of that white void was a massive chasm that split the ground in two. Unlike everything else, it was pitch black, like a nothingness painted into the world.
+
+That would be Astiviya's manifestation within the domain. The chasm and its presence in the domain of War was what gave birth to her very existence as a god. If she were to be replaced, the chasm would be wiped away, replaced by some other symbol of divinity that represented whoever ascended to the role.
+
+It was easy enough to guess why she manifested in this way.
+
+"You were the commander in that spell, huh?" Cale muttered. "Must've sucked when you ended up as a goddess of war."
+
+[Spear of the Fissure] had struck him as having a surprisingly personal story for what should have been a simple weapon conjuration, and it hadn't escaped its notice that unlike the rest of Astiviya's spells, it had been listed as being at a mere level 2. That meant she hadn't practiced the spell very often, and while part of that might have been mana limitations, Cale thought it was more likely that she simply avoided it because it reminded her too much of the past.
+
+"Time to see if this works," he said, mostly because he couldn't stand complete silence.
+
+He stepped toward the fissure, making a grasping motion, and prismatic wyldfire began to gather in his hand.
+
+This was slower than his usual bursts of magic. He had to make sure that every drop of mana he used was nothing but the purest expression of his power, taken straight from the burning branches in his core. Prismatic embers licked up along his arm and raced to his hand, and Cale did his best to keep himself steady, even as the weight of his magic grew slowly heavier.
+
+He had done something similar to this when he had been determined to end the Aspect Cascade. Back then he had poured his mana into a weapon he had designed to destroy the very essence of a soul.
+
+What he wanted to do now would be far more difficult.
+
+Wyldfire burned and accumulated within his fist until it had formed a hilt, and that hilt alone was made of almost as much mana as he had expended creating the truebridge between Utelia and the era of the Bitter Path.
+
+He was sweating now. His barriers and the fact that this was his own mana protected him from the worst of the heat, but though the construct was small, the sheer density of mana he harnessed now bent the rules of magic itself all around it. The shaft for a blade slowly began to form above the hilt, his flames climbing higher and higher along its length.
+
+It wasn't enough. Not yet.
+
+The last time he had performed magic of this caliber, though he didn't really think of it was magic, was when he had taken the name Yggdrasil's End. He had forced out every scrap of mana available to him and poured it into an axe designed to tear down the very foundation of the realms themselves. He remembered the way his core had screamed at him, even as he forced himself to slow down, to minimize the damage he was doing. He remembered the way it felt afterward, empty and achingly dry, like a hole had been torn open within him.
+
+While Cale did not intend to do something as drastic as shattering the Great Realms, he did need magic of a similar tier, for what he wanted to do was almost as difficult.
+
+He wanted to break one of the ironclad rules of the Great Realms, and he wanted to do so without causing undue harm and damage. That required enough mana to permanently warp the way magic functioned within Astiviya's domain. It required a level of precision and concentration he had never employed before.
+
+The Gift flickered in front of him as his sword began to form.
+
+Warning, it said. Mana levels are unsustainable for tethering with the Gift. Continued exposure will temporarily sever your soul from the Gift.
+
+Cale winced. Bad timing for the warning, though he appreciated it. "I thought you made use of any excess mana I produce," he said. "You can't do that here?"
+
+The Gift is currently under heavy load from the excess mana produced by your [Sourcefire] evolution.
+
+That made sense. He sighed, hesitating for just a moment. "Well, I can't exactly stop what I'm doing... how long will this last?"
+
+A new tether will take approximately one week to construct, given the current state of your soul.
+
+Cale relaxed at that. One week wasn't too bad. There were magics that Cale had been looking forward to learning in the next week, but in the grand scheme of things, how much time was that, really?
+
+Warning—
+
+"I know," Cale said. "It's fine. I can survive for a week without spells. I've done it before."
+
+Learned spell constructs have been attached to your soul. You will retain access to them. You will be unable to evolve new spells or access unique insights while the Gift is untethered.
+
+Oh. That was a lot better than he'd been thinking. "I get it," he said. "It's fine. Thank you for all your work, Gift. I look forward to seeing you again."
+
+As do I, Cale Cadwell Cobbs.
+
+Magic continued to gather in his hand. The blade he held now was only half-formed, but it pulsed with immeasurable power; around him, the white, endless void almost seemed to dim in comparison to the blazing nexus of mana he held. Still he added more and more of his magic to the construct, creating a blade that would never see a name from the Gift.
+
+He'd just have to name it himself, then. Perhaps something like... Rulebreaker.
+
+After all, if his power could shake the chains that bound even the gods, then perhaps the right expression of that power—the right symbolic understanding—could break them.
+
+By the time he had finished forming the blade, Astiviya's divine domain seemed almost like it had thinned. Through the void Cale thought he could see a glimmer of the Abyss itself, though it was hard to see past the blazing sword he was holding. His arm ached fiercely, and while his mana channels were not quite empty, he had exhausted himself greatly. He needed to do this quickly, before he collapsed.
+
+Cale turned Rulebreaker over, grasped the hilt with both hands, and thrust it into the ground beneath him.
+
+A single line of wyldfire shot from his blade, across the void, and into the chasm that represented Astiviya. Cale swayed on his feet as the fire went out—he had just enough strength left to yank Rulebreaker free, tug on the tether around his waist, and feel Icon begin to pull him back into Utelia.
+
+Perhaps it was a hallucination, but strangely enough, in the moments before he left, he thought he heard something. That he might have caught a glimpse of something within that chasm. A scream that spoke of anger and frustration, of plans foiled—Cale had heard that particular scream so many times he knew exactly what it sounded like—and a glimpse of something red shooting out of the fissure, trying to escape his wyldfire.
+
+It did not escape his wyldfire.
+
+That was good. Even his hallucinations knew not to provoke his wrath.
+
+By the time Icon pulled him out entirely, he had slipped off into what he would later insist was a nap, and absolutely not unconsciousness.

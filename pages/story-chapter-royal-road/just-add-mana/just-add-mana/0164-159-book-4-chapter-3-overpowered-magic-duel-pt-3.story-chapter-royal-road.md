@@ -1,0 +1,159 @@
+---
+id: fcc39bb9-af4e-5d1c-a3e7-4711e81cbd7b
+page-type-slug: story-chapter-royal-road
+title: "159 — Book 4, Chapter 3 — Overpowered Magic Duel, Pt 3"
+slug: 0164-159-book-4-chapter-3-overpowered-magic-duel-pt-3
+partOf: just-add-mana
+position: 164
+ownLength: 2718
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3675792/159-book-4-chapter-3-overpowered-magic-duel-pt"
+royalRoadId: "3675792"
+---
+
+Cale did consider attempting to end the battle immediately, but there were several problems with that.
+
+The first was that he wasn't certain that any blow that would break Astiviya's barrier would not also kill her. He had slain many a god before, but never when they were still subject to the whims of their domain. For all of Astiviya's power, he was now certain she was not entirely free. A result of war cults like the Red Hunters, no doubt—the people of a realm often had more influence over their gods than they thought, and the shape of their beliefs could change how those gods manifested to them.
+
+The second was that regardless of their respective amounts of mana, she was still one of Utelia's deities, and thus could not be underestimated. Much like Professor Sternkessel, some of her magic would hold dominion over his, by sheer virtue of her nature as part of the realm itself. Cale had a way around that, but he didn't particularly want to use it here, and it was rather costly besides. There was no reason to pull them out here.
+
+Third and most important was that he understood just as well as Brightscale's professors did that this was a once-in-a-lifetime opportunity for many of its students. An Inspiration had the potential to change the course of a mage's studies, after all. He had a certain duty to fight this battle the way most duels were fought, rather than the way Cale Cadwell Cobbs would normally fight it.
+
+Besides, the thought of having another real wizard duel was fun! The stakes weren't nearly as dire as his battle against Apophis, so he had a little more room to explore what he could do with his magic. Especially since he had now reached the second rank of draconic resonance.
+
+To make things interesting, he and his apprentices had shortlisted a number of spells he would restrict himself to working with. They had decided, as an additional challenge, that he would try to find an opportunity to evolve them all in the duel. Akkau had approved—a good variety of spells had, after all, the best chance of producing an Inspiration for those watching.
+
+First Tier:[Burn][Create Impulse][Shrivel]
+
+Second Tier:[Enhance Fortitude][Enhance Speed][Minor Dragonfire]
+
+Third Tier:[Elemental Bolt][Summon Rock][Conjure Shadow]
+
+It might have seemed restrictive, but the new understanding of symbolic magic he had gained from the Bitter Path granted him a great deal more flexibility in manipulating what the end result of a spell evolution would be. That and his improved draconic resonance allowing him to automatically learn any spell up to the third tier meant he could finally start learning all the spells he wanted to learn!
+
+But not yet. First he had to deal with the whole mana control thing. [Flight] was a seventh-tier spell, and if he wasn't careful enough with the evolution, he would accidentally create some ninth-tier monstrosity unsuited for daily flight. Cale could be patient for a few days to ensure he didn't accidentally lock himself out of evolving the relevant wind-aspect spell for a month or more.
+
+All that was beside the point, anyway. He was getting ahead of himself. It was just that preparing for a duel against a god had him thinking about all the magic he would now be able to explore.
+
+Astiviya opened with [Shades of War], and Cale felt the first of his new perks activate.
+
+The second stage of draconic resonance, in addition to allowing him to learn third-tier spells simply by being in their vicinity, had granted him something it called [Draconic Insight]. It allowed him to analyze spells he couldn't immediately learn by prying into the Gift's description of them.
+
+Akkau had claimed it was a rare permutation of draconic power, which was fascinating. Cale wondered at the time what aspect of dragons allowed them to peek so easily into the fabric of magic, but he could admit that it was rather convenient.
+
+[Shades of War, Level 32] [Eleventh Tier (Unique), Active] [1.0e14 Mana, Divine Aspect: War]Call upon the souls of those that once gave their lives in service of war. This spell extracts them from the River and gives them corporal form so that they may fight by your side. They will see you as their general, and they will have strength in death as they did in life.
+
+The cost of this spell scales with the strength of the shades summoned. When this spell expires, those souls summoned by it may not be summoned again. Be cautious with its use.
+
+Cale grimaced. If the spell was at Level 32, he doubted Astiviya had been cautious with its use as the Gift suggested. That was probably a good thing as far as the duel was concerned—the army she summoned was enough to fill half the arena, and he could only imagine how many more she might have called if the spell had seen less use.
+
+But that was the duel. As far as Cale was concerned, he'd had quite enough of fighting blood echoes of things from the distant past.
+
+"The dead should stay dead," he said quietly. "Let them rest."
+
+The shades threw their first volley of spells at him, holding nothing back. Cale could sense that these soldiers were strong.
+
+Several seemed to wear the uniform of a general, and others the robes of an accomplished mage; the spells being flung at him were eleventh- and twelfth- tier spells, far beyond the domain of the average mage. Half of them were designed explicitly to break and pierce a mage's personal barrier, and perhaps a quarter of the total were cast by wyldfire mages. One or two of them might even have been dark lords and ladies of the past, judging by the sheer wrongness of their magic.
+
+He wondered what their stories were. These had to be decorated heroes in their own right. Astiviya had selected them with care, pulling only those souls she knew would stand a chance. Perhaps she understood, after the mana capacity demonstration, that she could not hold back.
+
+If that was the case, then she hadn't pushed hard enough. In the Bitter Path, his magic had been greatly restricted. Too much of his knowledge did not apply as well in a world that ran on symbolic power.
+
+Magic of this era, however, was controlled by intent, and Cale had already demonstrated his ability to override the intent of the divine with his own. His apprentices had needed to contend with it, after all.
+
+He glanced up at the volley of spells, and unleashed his intent.
+
+Half of the incoming volley froze in place, the intent within them abruptly overrun with his own. Some of the others shot off-course instead, colliding with other spells with steadier wills behind them.
+
+But a few of them—three in total—stayed intact enough to continue toward him, undeterred by his blast of intent. Cale raised an eyebrow, intrigued, and traced their mana echoes back to their casters. Two of them had been cast by former dark lords, it seemed? The third he suspected was a chosen one of some description.
+
+Fascinating. He conjured a barrier and batted them aside. One managed to offer him some resistance, but for the most part, those spells had exhausted the intent within them to resist his initial burst of will; they did not have what they needed to overcome his wyldfire.
+
+Cale grinned all the same, impressed, and he swore for a moment that one of those shades grinned right back at him.
+
+"How are you doing this?" Astiviya sputtered. She was muttering under her breath, exerting her power to command her shades; already, they were preparing the second volley of spells. Cale wasn't interested in letting them get that far.
+
+The dead should rest. But since Astiviya had summoned them already...
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Conjure Shadow] has evolved into [Shadow of Communion]!
+
+[Shadow of Communion, Level 1] [Twelfth Tier, Active (Unique)] [1.0e31 Mana]Summon a Shadow of Communion from the seventh infernal realm.
+
+A Shadow of Communion is a type of archdemon capable of signing contracts with any ensouled creature of the dead, regardless of their current status and any bindings they may have on their souls. Such contracts may be used to break their current bindings, grant them a new lease on life, or send them back to the River, should they wish it.
+
+Note that a Shadow of Communion is a being with their own will. This spell does not impose any binding upon the Shadow summoned.
+
+The ground in front of Cale began to darken, color and light bleeding out of existence until a perfect circle of void had settled on the stone in front of him. From that void a silhouette slowly rose.
+
+First an expressionless head that held no hint of any facial feature. Then a broad torso with three sets of arms emerging from its sides, bracing the creature's weight on the ground around the hole. Below the waist, that body tapered off into a single thick tail that slipped out from the ground a second before the hole closed.
+
+Then the Shadow opened his eyes. All six of them, vertically-set eyes that began in the center of his chest and continued down to his tail. They glanced around at the battlefield and at the suddenly-frozen army of shadows, each eye moving independently, and then settled on his summoner.
+
+Cale brightened in recognition. "Korav!" he said. "I wasn't expecting to summon you. Listen, can you deal with this shade army? We can use the usual contract. Make sure you get everyone that wants to stay out of the barrier, though."
+
+"Hm." Korav blinked once, slowly. "Ah... Cale. It is good to see you again. I will do that, then. I trust you will have my payment once we are done?"
+
+"You know it," Cale said.
+
+Korav inclined his head in acknowledgement, then spread all six of his arms. As one, every shade on the battlefield froze in place. From the way he had shut his eyes and the way they moved rapidly beneath his skin, Cale knew that the Shadow was negotiating with every shade simultaneously.
+
+Astiviya was staring at them both, her mouth agape. She had started to cast another spell, but Korav's magic interfering with her [Shades of War] had briefly stunned her, as Cale had known it would.
+
+"It pays to know a few lawyers if you're going to dabble with summoning magic," Cale told her, his tone conspiratorial.
+
+That seemed to shake her out of her reverie. Astiviya glared at him. "This is absurd, but it does not matter," she hissed. "Do you think that is the only spell I have in my domain? I could conquer worlds."
+
+"And I've beaten many would-be conquerors," Cale said, shrugging. "Do you have more to show me?"
+
+Astiviya's eyes flashed, and he felt her magic coalesce suddenly into something sharp—an instantaneous cast, he realized. He didn't catch more than the name of the spell from [Draconic Insight] before the display abruptly fizzled, but the name was more than enough for him to understand what she was trying to do.
+
+The name of her spell was [To Turn the Tides of War].
+
+Stupid unpredictable metaphysical spells. She had let him hammer in his advantage, had she, so she could use it to flip whatever advantage he gained on its head? Worse, from the divine power now flooding out across the arena, this spell was probably a specialty belonging to her domain, also known as a Divine Mandate. Much like domains, they had the ability to bypass some of the rules of spell interaction.
+
+Well, if she could do that, then he could do that, too. Probably. Cale went through his shortlist of spells, thought about it for the fraction of a second he had before Astiviya's Mandate completed its work, then went for his favorite option.
+
+He cast [Summon Rock].
+
+"Holy shit, is that my cousin?" Alina said excitedly, leaning forward as if it could help her peer through the barrier at the Shadow of Communion that Cale had summoned. It didn't help much, but thankfully that delightful minotaur apprentice of Cale's reached up to hand her an ocular crystal. She stuck it on her eye and cast a spark of mana into it, zooming all the way in. "It is! Korav! Korav, you bastard, over here!"
+
+"I don't think he can hear you," Leo said awkwardly. "The barrier doesn't let sound from the stadium get to the arena. Akkau didn't want to distract Cale during the duel."
+
+"Smart of him," Flia said wryly.
+
+"Shouldn't we be a little more worried about Cale?" Damien asked, worriedly. "I know he's pretty sure he's going to win this, but he's not allowed to use his magic in the next bit. And she's a goddess, right? We talked about divine magic traps."
+
+Leo, Flia, and Syphus all turned to stare at Damien until he ducked his head sheepishly. "I'm... I'm just saying," he muttered. "I worry about him sometimes."
+
+"There's a lot to worry about with that guy," Alina agreed, to the surprise of the rest of the apprentices. "When he first got here, there was something in him that spooked even me out, and I don't spook easy. Whatever that is, though, it ain't coming out in this fight. Pretty sure you four helped him get it under control."
+
+Damien bit his lip at that, but nodded. 'Yeah," he said quietly. "I just can't help worry about it, I guess. He figured something out at the end of that dungeon we went to, but he still won't tell us everything."
+
+"And I'm going to kick his ass for that as soon as I can," Syphus declared.
+
+"How long is that going to take?" Flia raised an eyebrow.
+
+"I dunno. Couple thousand years, maybe? Sooner if I can trick him. Do you think I could get him to take a punch if I bet on it?"
+
+"...Are you kicking his ass so he tells us what he's hiding, or just because you want to?" Damien asked.
+
+"That second one, obviously," Syphus said.
+
+"Guys," Leo finally said, opening his eyes and glaring at the others half-heartedly. "We should be trying to feel for the Inspiration, not talking about this. You realize half the mages are already in an Inspiration trance, right?"
+
+Alina blinked, then glanced around at the rest of the stadium. Leo was right—the whole place was unusually quiet, and half the students had their eyes squeezed shut and their mana cycling rapidly, as though they were desperately chasing after some fleeting insight. Some of the professors were in the same state, though they were far more serene about it.
+
+Thorn, one of the wyldfire mages that had vouched for Cale and his apprentices, had somehow taken up an entire section of the stadium, covering it with thorny vines and blooming flowers. In each flower was another one of Brightscale's wyldfire mages, meditating on the course of the fight. Not all of them had received an Inspiration just yet, but they were readying themselves for one.
+
+Alina thought it was unlikely that she would get one herself. She was an eons-old archdemon, after all, and she was more interested in cooking and maybe getting the chance to speak to her cousin than in chasing after some dream she hadn't thought about for centuries. Not that the dream didn't matter to her anymore, but...
+
+Cale cast something, then. Or both he and Astiviya did—two spells in quick succession that resulted in the feeling of a stone being dropped into the fabric of magic itself, creating a ripple that bypassed the arena barrier entirely. Alina felt the physical sensation of a shiver crawling up her spine, and she couldn't help the gasp that left her throat.
+
+She'd seen something in that ripple. A glimpse of a far-away dream she had long thought impossible, now suddenly within reach.
+
+Unable to help herself from feeling a sudden surge of hope, she shut her eyes and began to chase after it, ignoring the startled cries of the apprentices around her. She was vaguely aware she had accidentally broken her seat in her surprise, but she could fix that later.

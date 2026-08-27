@@ -1,0 +1,233 @@
+---
+id: 25498b2c-dbda-509e-a54d-d73e39a8999e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47 — Baking Bread, Pt 1"
+slug: 0047-chapter-47-baking-bread-pt-1
+partOf: just-add-mana
+position: 47
+ownLength: 4187
+unit: words
+ownProgress: 4187
+publishedAt: 2025-10-14
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2675875/chapter-47-baking-bread-pt-1"
+royalRoadId: "2675875"
+markedReadAt: "2026-06-29T18:49:11.179Z"
+---
+
+Cale, Damien, and the golem that was definitely still Sisyphus inhabiting Syphus's body all stared at what was now seven jars of sourdough starter sitting in front of them.
+
+"Um... do we really need this much of it?" Damien asked awkwardly. "Also, I feel like you shouldn't put this into food? Not to downplay our efforts down or anything. I just also don't want you to die."
+
+Cale scoffed. "I'm not going to die."
+
+Then he paused, staring critically at the jars sitting in front of him. "...but just in case, what did the Gift say again?" he asked. "It specified that the spell encourages the growth of sourdough-specific microorganisms, right? Nothing about, I don't know, magic yeast?"
+
+"Definitely nothing about magic yeast," Damien said, sounding slightly worried. "...Is magic yeast something I need to start worrying about?"
+
+"Probably not!" Cale said cheerfully. "What about the rest?"
+
+"It does technically specify sourdough," Damien agreed, although he seemed reluctant to do so. Honestly, it was like he was expecting him to use that agreement as an excuse to dismiss his concerns about the starter. Cale would have been offended if he hadn't been planning on doing exactly that.
+
+"Then we'll be fine!" he said cheerfully. "Worst case, we get Nala to taste it. I'm sure she still wants whatever it is she wanted you guys for yesterday. We can just trade that for some help with the taste testing. And since the end result will be great, it's really just a win for her."
+
+"I feel like there are a lot of assumptions in what you just said, and also—" Damien waved a hand helplessly toward the jars. "I'm pretty sure the fact that the starter is glowing and trying to talk is a bad sign!"
+
+"It's not trying to talk," Cale said, wrinkling his nose and giving the jars another once-over. The liquid in one of them responded with an encouraging burble, making him blink. "Er, probably. They're probably not trying to talk. I'm assuming the burbling is just a side effect of all the magic flour I dumped in there."
+
+"Magic—" Damien cut himself off with a groan. "Why did you feel it magic flour? Where did you even get magic flour? No, don't answer that, I know where you got it. Better question: Why did Auntie Alina give you magic flour?"
+
+"Because she wanted to know what would happen!" Cale said with a grin. "I promised to tell her. She would've joined us but she was busy with the mandrake stuff. You were there, remember?"
+
+"I sort of tuned it out after you started talking about how she gets her ingredients," Damien mumbled, his face turning a little red. He rubbed at his temples, staring at the jars again with concern. "Shouldn't our first attempt at this be to make... I don't know, normal bread?"
+
+"What would be the point in that?" Cale gave Damien a blank, puzzled stare. "I've had normal bread. Don't get me wrong, the point of this is the baking magic and not the bread, but I mean, so much of baking magic is an unexplored frontier. Magic bread could be a whole new class of magic, you know."
+
+He paused thoughtfully. "Even if all it does is glow," he added. "I'd call glowing bread a success, really. We could use it as a nightlamp."
+
+"Please do not use a loaf of bread as a nightlamp." Damien muttered something to himself about throwing it out before Cale noticed, to which Cale put on an expression of mock offense. "I'm just saying, doing so many things different for our first loaf seems risky. We don't even know what's going to happen with your spell."
+
+"You have a point there," Cale admitted. "Don't worry, the glowing is secondary. I mostly just want to see what happens first. If there's going to be a bad reaction, I'd rather it happen to an experimental loaf than a real one, you know?"
+
+"That... makes a weird amount of sense." Damien didn't quite seem to know what to do with that fact. He sighed. "Alright. Um, what's next?"
+
+"Well, it's time to get the dough ready, of course." Cale grinned. "Syphus, did you get the stuff?"
+
+"It did indeed," Sisyphus answered dryly for his golem. He reached into Syphus's storage space to withdraw some oil, salt, a bag of flour, and a jar of water, ready to be mixed into dough. Then he glanced at Cale curiously. "I confess I have encountered few mages with such a proclivity for magical baking, of all things. What exactly are you expecting this magic to do?"
+
+"You've never met a bread mage?" Cale asked, raising an eyebrow. "I find it hard to believe that one of the Named hasn't met a bread mage... although come to think of it, I guess you wouldn't have had much of a chance."
+
+Sisyphus shot Cale a withering look. "Enlighten me," he said, his voice dripping with sarcasm.
+
+Cale eyed him for a moment. "Wow that expression looks out of place on Syphus," he muttered. "Bread mages specialize in baking magic. They technically do all baked goods, not just bread, but apparently 'bread mage' sounded better than most of their other options."
+
+"And you admire them because..." Sisyphus trailed off, somehow managing to give Cale an impression of a raised eyebrow.
+
+"Because baking is the pinnacle of magic, obviously," Cale said. He glanced up to find both Sisyphus and Damien staring at him, one skeptical and the other mostly confused, and sighed. "You don't believe me, do you?"
+
+"It's, um..." Damien hesitated. "It's a bit hard to believe?"
+
+Cale clicked his tongue. "Mages these days," he muttered, shaking his head. Then he eyed the two of them again, wondering if he should take the time to explain. In his experience, explaining rarely helped, but then he was intending to spend the foreseeable future around them.
+
+He dumped the ingredients together in a bowl and began to mix it all together, feeling the dough take shape beneath his fingers. He'd missed this. There was something relaxing about the process of baking, even without magic behind it. It was the magic he found special, but it was hard to love the magic without developing some fondness for the act itself.
+
+"Alright," he said. Hopefully he wasn't going to regret this—explaining involved some memories he really would have preferred not to touch. "Like I said, baking is the pinnacle of magic, and I'm not just saying that. Mana aspects embody different concepts, right? And through those aspects, all things are possible. Magic is like a map to reality, and mana aspects are the roads.
+
+"Now think of baking magic like a blindspot," he said. "A hole in the map. You know where the hole is, and if you're very clever, you can figure out the shape of the hole... but you can't get around the fact that the hole is there. That's kind of what baking magic is. Spells that poke at the shape of that hole, trying to identify its borders."
+
+Cale made a face. "Though it's a lot more complicated than that, obviously," he said. "For one thing, it's not a two-dimensional hole, it's a gap in magic encompassing the platonic ideal of bread. The closer you get to bread, the more complex magic gets. Fun fact, actually: did you know there's no [Conjure Bread] spell? They're supposed to be impossible.
+
+"Related fun fact: it's way harder to conjure, say, an illusion of bread than it is literally anything else. It's a great way to figure out if you're trapped in an illusion." Cale grinned. "You have no idea how many illusion spells my love for baking magic has gotten me out of. Or how angry dark lords get when they find out you broke out of their trap because their illusion specialist couldn't conjure bread."
+
+Damien stared at him. "That's... really weird?"
+
+"It's really cool, is what it is!" Cale grinned at the dreadshade, entirely unrepentant. "Believe it or not, that same property is what makes baking magic exceptionally dangerous. If you aren't careful, it can and will override a lot of standard magical defenses. The only reason more people don't use it is because it sounds ridiculous at first glance, and also because it's very hard to learn compared to most magics. Most realms don't ever get to realizing it can be used offensively."
+
+Over to the side, Sisyphus made a noise of understanding. "Hence your interest," he said. "You wish for the power that this baking magic could grant you."
+
+Cale blinked. "Uh, no," he said. "It's just cool. It's the frontier of magic! No matter what realm you go to, no matter how advanced they are, baking magic is always the one thing they haven't completely figured out. There's always new spells, and they're always increasingly complex." He sniffed. "It's beautiful."
+
+Sisyphus stared at him like he was at a loss for words. Damien, on the other hand, looked contemplative.
+
+"So there are holes in what magic can do?" he asked timidly. "Like, um, aspects that stopped existing or something?"
+
+"I mean, that's not exactly what baking magic is," Cale said. "As far as I know, a bread aspect has never existed. I think. But yes, technically magic can have holes in it. Why?"
+
+"It's related to the thing I got," Damien mumbled. Cale's brows furrowed slightly at how reticent the dreadshade was suddenly being—was the poor guy nervous about Sisyphus's presence or something? "Is it... good? If your magic is like that?"
+
+"It can be," Cale said. He eyed Damien for a long moment. Was Damien's new aspect something like that? That would be worrying for a number of different reasons. Come to think of it, he'd called it a Legacy, and Cale hadn't heard that term in connection with an aspect before.
+
+He considered things for a moment, then sighed. He really hadn't wanted to go into this, but if Damien was having doubts...
+
+"There is a special property of magic like this," Cale said after a moment. "How much do you know about how directly opposing magical effects behave? We've seen a bit of this already, if you remember—like when an artifact capable of attuning all mana aspects encounters an aspect that can't be attuned."
+
+Damien looked briefly confused, but answered anyway. "The mana doesn't get attuned," he said. "Some effects are stronger?"
+
+"Some effects override others," Cale corrected. "Technically it's a pretty complex interaction—it depends on the type of magic being used, the mana aspects involved, the strength of the spells, all sorts of things. But there is one deciding factor that matters more than the rest. Some realms call it the Tyranny of Divinity."
+
+"It has to do with the gods?" Damien asked, the poor dreadshade looking more confused than ever.
+
+At the side, leaning against a wall, Sisyphus shook his head. "No," he said, looking at Cale with interest. "The Tyranny of Divinity refers to the fact that at certain stages of core development, your spells become more real than everyone else's. A minor or major divinity can cast a [Fireball] that burns even a [Shield of Water], for example."
+
+"Exactly," Cale said. "And at the pinnacle of that hierarchy stands the Monoliths... although I guess you don't really know what those are yet." Cale frowned for a moment, then shrugged. "Eh, you'll be an archmage soon enough."
+
+Damien made a strangled noise. Cale ignored it.
+
+"Monoliths are each an embodiment of a crucial function of the Great Realms and of magic itself," Cale said. "No magic, mortal or divine, surpasses them. In some realms, they're known as Pillars or Laws; if you find any old texts regarding those, they're talking about the Monoliths. If a Monolith casts a [Fireball] at you, it doesn't matter how good your [Perfect Reflection] is or if you're a fire elemental with perfect immunity to fire. You will be incinerated. Their spell effect is so 'real,' so to speak, that it overrides anything else. With me so far?"
+
+"I wish I wasn't," Damien said, his eyes wide. "T-that sounds terrifying. How are we supposed to fight something like that?"
+
+"You don't," Cale said dryly. "Never fight a Monolith. If you somehow piss one of them off, I recommend you run away as fast as possible. Preferably in my general direction. But I doubt you'll anger them; they are, by nature, pretty fixated on whatever Law they embody."
+
+He smiled at Damien. "You know one of them, even," he added helpfully. "I mean, sort of. The Leviathan is a Monolith, and she's never hurt any of you, even though you've been near Flia's puddles constantly."
+
+If anything, that just made Damien turn even more pale. The dreadshade made a distressed sort of noise, swallowed, and tried his best to look like he wasn't in the middle of a panic attack. "Okay," he said. "Um, what does this have to do with... the holes in magic?"
+
+"It's context," Cale said, drumming his fingers on the table. The dough he was mixing was mostly done and just needed to rest now; he'd forgotten how much waiting was involved in the whole baking process. "You need to understand: the Tyranny is supposed to be absolute. But nothing is ever perfectly absolute, and where there are holes in magic, the rules can bend."
+
+He glanced at Damien, something in his expression dimming slightly. "Once," he said. "there was a brave little mage that wanted to save her realm in the middle of a war. A Monolith sought to destroy her and her realm, you see, but she couldn't bear to see a single other soul die. The only problem? She didn't know any defensive magic. Or offensive magic. She was a simple bread mage, and her followers came to her for food, not shelter.
+
+"Yet when the gaze of the Monolith fell on her realm, she did her best to defend it." Cale sighed, looking off into the distance. "The Tyranny was in full effect: a Monolith's spell tore at her realm, and though she was strong, she wasn't strong enough. She was a major divinity, nowhere close to a Monolith. It shouldn't have worked."
+
+Damien stared at him. "But—but it did?" he asked quietly, his voice soft and hopeful.
+
+"But it did," Cale said. He gave his apprentice a small, tired smile. "She took out a fresh tray, cast [Enlarge Bread], [Fortify Bread], [Refreshing Loaf], [Baker's Heart]... You should have seen the look on that Monolith's face. A stubborn little bread god standing up against a pillar of the Realms, and she stopped him, just for a second, with a giant brioche bun."
+
+Cale snickered a bit, though even now it felt a touch forced. He sighed. "That woman and her spell is the only reason her realm still stands," he said. "She slowed him down by stopping his first spell. It should have been impossible, but she did it. And that kept him there just long enough for me to catch up."
+
+Damien stared at him. "You were there," he said. "You say that like—you say that like you fought—"
+
+Cale winced. "I don't suppose you can pretend you never heard that bit?" he asked hopefully, and when Damien just kept staring, he let out a long breath. "Yeah, I figured as much."
+
+A moment of hesitation.
+
+"Yes," he answered. "There was... a war. A long time ago. A war that most of the Great Realms no longer remember. I prefer not to think about it or talk about it, but it's hard to talk about this without getting into it at least a little." Cale let out a rueful chuckle. "Long story short, everyone took sides. The Monoliths, the Named—everyone. It was the single greatest war that ever struck the Great Realms, and far too many people died for its cause."
+
+"And you were there," Damien said softly. His eyes widened as realization struck him. "You... you said you're just reborn in a different realm every time you die. Were you... were you trapped?"
+
+"I would really rather not talk about it," Cale said, glancing away. "I'll tell you this much. The Monolith's name was Kismet. He was the Second Monolith, the Law of What Must Be, and it was his duty to bring all worlds together when the time came. Something went wrong. We still don't know what, but for the first time, ever, one of his prophecies failed, and the Realms began to end.
+
+"Until that day, we didn't know what would happen if a Monolith broke their own Law. We didn't even know it was possible. Turns out it is, and when it happens, the Monolith goes berserk and does everything they can to enforce their Law. In Kismet's case, he had to bring the realms together, no matter what it took or who he sacrificed.
+
+"We couldn't keep up with him." Cale clenched his fists. "He was the Monolith of Fate. He knew where we would be and everything we were going to try to do, so we were always one step behind. Until the realm of Telvass, where a brave little god did something that should never have worked, and lost her life in the process."
+
+Cale fell silent, and for a moment, no one spoke.
+
+"What was her name?" Damien asked quietly.
+
+"Pumpernickel." Cale gave his apprentice a slight smile. "Not many remember her, but I do. It's a good name for a god of baking."
+
+"It is," Damien agreed soflty. "I'll, um. I'll try to remember her too."
+
+"You don't have to do that," Cale said, this time with a smile that was a little more real. He dragged Damien closer so he could ruffle his not-quite-hair, ignoring the yelp of protest and the way the cloak he wore fluttered dramatically. "But I appreciate it. I'm sure she would have, too.
+
+"Anyway!" Cale straightened. "Does that answer your question?"
+
+"I think it does," Damien said. "Thank you. Um... I guess I should tell you why I was asking."
+
+He took a deep breath. "When I put my mana on that scale, the Gift gave me a new spell. [Legacy of the Verdant Flame]."
+
+Cale's breath caught.
+
+"It said it was a reforged aspect, so I thought maybe..." Damien trailed off as he noticed the way Cale was gripping the table. "U-um, did I do something wrong? Do you know something about this?"
+
+"No, you didn't, and yes, I do." Cale took a deep breath, forcing himself to unclench his fingers and doing his best to give Damien an encouraging smile. "Keep going. I'll explain what I can once you're done."
+
+Serof made it across the Endless Deep and to the shores of the Aersheld continent without incident, which was starting to worry him. One thing going his way was... well, it was one thing. But multiple things in a row, repeatedly, without any complications?
+
+That felt like either the hand of fate or a trap.
+
+Possibly both.
+
+Everything around him was remarkably silent, which only served to make him more nervous. He'd been living with a buzzing in his skull for the past eight years. That the shores here didn't have the sounds of even the bugs or animals around was bizarre.
+
+Serof frowned.
+
+Too bizarre. He should at least have been able to hear the sound of the waves crashing against the shore, but even the sound of that had faded away. That shouldn't have been possible. He turned to glance at the waves—
+
+—or, well, he tried. Serof found himself frozen in place, and realized almost immediately what had happened.
+
+One of the other Observers had spotted him.
+
+He cursed. Of course there would be an Observer surveying the site before the Red Hunter team was meant to make their way across the shore—just because the Hunters themselves weren't there yet didn't mean their Observer wasn't keeping an eye on things, and if they were keeping an eye on things, then their ichorworm could freeze him in place until the Hunters came to investigate. Whichever Observer it was had no doubt already alerted their team, which meant—
+
+—it meant he'd failed. He'd been caught. Serof's heart hammered in his chest, and he stared at the open skies with a sort of desperate longing. How long had it been since he'd seen the sky through anything except a vision? To be caught right on the verge of freedom felt like a mockery of his efforts.
+
+But he couldn't just do nothing. The Observer would be able to see and hear him. Maybe he could try to convince them he belonged?
+
+"I'm supposed to be here," Serof lied. "I'm Observer #27, remember? I was given leave to investigate a disturbance with my ichorworm."
+
+He winced almost as soon as he said it, though the spell that bound him kept the wince from being noticeable. No Observer would ever be given leave to investigate things themselves—that was the whole point of the Hunter teams they were assigned.
+
+"Let me go," he said, feigning impatience. "There's only a six hour window until I can return. If you waste my time, I'll be stuck outside the Hive."
+
+Serof had no way of knowing what the Observer watching him thought of all this, obviously, but he thought he could feel hesitation. That, or he was imagining things.
+
+He was probably imagining things. He didn't have any magic that could reach through to people that were scrying on him.
+
+Still... no, it did feel like his feet were a little looser. He wasn't being held so firmly in the ichorworm's grip. Serof pushed against it, trying to free himself, and saw himself slowly inching one step forward—
+
+—only to suddenly freeze in place again. Serof grimaced. The Observer had changed their minds, then. Or they'd managed to contact someone that had commanded he be kept in place. Serof's mind raced, trying to think of any way out of this, but there was nothing he could do. He specialized in scrying magic, for crying out loud! It was the least defensive magic there was.
+
+"Ah, there it is," a smooth voice spoke from behind him, and Serof suddenly found himself stumbling forward, free from the ichorworm's grasp. He turned around, his eyes widening, and then tried to process what he was looking at.
+
+An... immaculately dressed gentleman with rings for a head? And a very pretty light glowing within those rings.
+
+Serof immediately smacked down his moth instincts. Bad. That's not a lamp.
+
+"Thank you," he said cautiously. He kept himself tense and ready to run, just in case this man was with the Red Hunters, though he couldn't imagine one of the Hunters would destroy an ichorworm. "Um—Who are you?"
+
+"Ah, I am Professor Sternkessel of the Kazix Brightscale Academy of the Attuned Arts." The strange man dipped his sort-of-head toward him in a bow. Serof got the strange, impossible sense that he was being smiled at. "I was investigating the mage that was scrying on the Elemental Shrine of Fire. You wouldn't happen to know who that is, would you?"
+
+"That—it was me," Serof blurted. "But I wasn't doing it by choice! You have to believe me. Please, we need to get out of here before—"
+
+Sternkessel sighed. "Unfortunately, it does appear that more of these things are converging on this location," he said, flicking the dead ichorworm to Serof, who caught it with a yelp. "And it appears a secondary spatial spell has activated. How... inconvenient. You wouldn't happen to know a way out of this, would you?"
+
+Serof stared at him, his heart hammering again, but did his best not to panic. The Brightscale professors were all monsters, weren't they? He had help now. He wasn't alone. He wracked his head, trying to figure out what that "secondary spatial spell" might be.
+
+"One of the spellslates activates a spatial cube trap," Serof said suddenly, and now he was terrified all over again. Their surroundings were beginning to fade, replaced by what appeared to be a labyrinth made out of dark, glimmering crystal. "That might be it. But there isn't—there isn't a way out of those."
+
+"Fascinating," Professor Sternkessel said, and now he sounded amused, for some reason. "Perhaps I can convince Cale to allow me to perform a study on that Thread of Fate of his. I would call it a convenient tool, but from what he has said... well, it appears to have a history of causing innumerable tragedy, as well."
+
+"That's ominous," Serof said. "Is that ominous? You said that like it was supposed to be reassuring, but it was definitely ominous."
+
+Sternkessel chuckled. "We simply have to ensure this is not one of the occasions that lead to tragedy," he said simply. He whipped out a hand, and a long cane extended out of it, tapping against the ground. "Shall we? We only have so much time before your Red Hunters arrive, and I would hate to disappoint Cale by necessitating a rescue."

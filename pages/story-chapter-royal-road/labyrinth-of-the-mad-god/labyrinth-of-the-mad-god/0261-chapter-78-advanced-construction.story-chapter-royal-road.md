@@ -1,0 +1,85 @@
+---
+id: 8a6fbcea-a754-549e-be82-b2114e04dc8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78: Advanced Construction"
+slug: 0261-chapter-78-advanced-construction
+partOf: labyrinth-of-the-mad-god
+position: 261
+ownLength: 1777
+unit: words
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2842534/chapter-78-advanced-construction"
+royalRoadId: "2842534"
+---
+
+Before he started training his skills and conditioning his attributes, Nick decided to check out some of Aurora’s newest buildings.
+
+The planning committee had been working hard over the last few weeks and had nearly completed the first stage of their agenda. There were still a few buildings on their list that lacked the requisite resources, such as ore for the foundry, but the foundation of the city’s industrial, economic, educational, and recreational infrastructure was coming along nicely.
+
+His direct involvement wouldn’t be necessary when the settlement reached the next tier, although he planned to attend the meetings and share his ideas whenever he was in town. Nick began by inspecting the fortifications the committee had placed to protect Aurora’s mana wells, obelisk, and Rare buildings.
+
+The defenses were aesthetically pleasing, with a vibe that split the difference between fantasy castle and Zen garden. The area was ringed by a tall stone wall and featured several interior bulwarks. In addition to an open-air garden where the wells were located, the facility included a vault that shielded the obelisk core and enough room for several Rare buildings.
+
+The complex was covered by a magic barrier that prevented anyone who wasn’t authorized from entering, with a separate list of permissions for the Item-Modification Station, mana wells, and city core. Additionally, each zone was protected by a type of magical trap the mages had invented, which would activate if anything that wasn’t native to Earth stepped on them.
+
+It would have been overkill if they were just worried about monsters, but after what Team Earth had experienced in the Tower of Rizzen, they knew the multiverse was filled with other contestant species, many of which would view humanity as enemies or prey.
+
+At first, Nick didn’t think they would be able to afford such extensive protections, but he had underestimated how fast his people would adapt. Aurora’s citizens had begun scouring the bordering biomes, searching for the events, challenges, and quests that spawned within the Frontier.
+
+As time went by, they had developed a strategic approach to overcoming a wide range of obstacles, maximizing their efficiency and minimizing their risk. His people had grown proficient in dealing with a variety of monsters, including the voidbears he had encountered while crossing the badlands.
+
+As a result, the city was generating a constant supply of City Points and building vouchers, and people were leveling and advancing their abilities faster than before. That meant Aurora could afford more magic buildings, including several that provided quality of life upgrades rather than critical infrastructure, and purchases that wouldn’t yield dividends until later down the road.
+
+Nick stopped to chat with the people walking and then continued his tour—excited to see how things were shaping up.
+
+His next stop was a series of greenhouses in the research district. Each was the size of a basketball court, and featured glass walls and ceilings. They were instilled with magic that could change the tint and had rudimentary temperature controls.
+
+Half of them were filled with research specimens—potential alchemical ingredients and flora from other worlds with mysterious properties. The plants were monitored around the clock in case any of the experiments got out of hand and needed to be destroyed, but so far, everything was going well.
+
+The other greenhouses were open to the public and filled with a vast assortment of flowers, trees, and ferns. Many of the plants were magical and exhibited otherworldly effects ranging from singing flowers to hovering mushrooms to bushes whose scents and colors varied by temperature and time of day. They were a popular destination for dates, and new exhibits were being added all the time.
+
+The planning committee had established a new subcommittee that would focus on beautifying the city, and they were using the greenhouses to evaluate their options for landscaping and ornamentation.
+
+The next buildings were in the industrial district—a pair of granaries that were waiting for the second batch of crops to finish growing. They were imbued with minor magics to keep vermin out, filter the air, and prevent any flames or sparks from triggering explosions. The silos had enough capacity to feed the city for months, although that number would shrink before long, given the rate that new people were joining them.
+
+In between the mess hall and the entertainment district, Nick had placed a Cold-Storage Facility that was almost as big as his house. It was expensive, but served multiple purposes, since it gave them a way to preserve food, create low-temperatures rooms for experimental purposes, and let the industrial teams store substances that were far more stable cold.
+
+He figured it was worth the investment—especially since the facility doubled as an emergency colling station in case Aurora’s low-Toughness residents got heat stroke and needed to cool down, which had already happened on several occasions.
+
+On the topic of food, the scouts had come across a flock of chickens that were struggling to survive in the wild. It was clear the animals had been on a farm before integration, and they didn’t seem to have changed much since. For now, they had set up a free-range chicken ranch on a quiet corner of the industrial district, with wards to keep out the local predators.
+
+That meant eggs were back on the table, and feathers had been added to Aurora’s growing list of materials. While they were eating the birds if they died of natural causes, thanks to the most expensive building Nick had purchased, meat would be available without having to ever hunt again, ensuring the settlement would have favorable relationships with their beast neighbors.
+
+It had cost him an earth-mana well and a ton of points, but what they received in exchange was incredible. This time, he decided to step inside the building he was contemplating instead of walking by.
+
+The Cloning Center was the size of a fast-food restaurant and deceptively simple for how amazing it was. The exterior was formed from an elegant brown stone, and the interior featured three chambers—only two of which were accessible under ordinary circumstances.
+
+The first held a sophisticated magitech interface sitting beside an intake tube that was big enough to hold an elephant with room to spare. If you placed a fresh carcass inside, it would disappear inside the sprawling machine that took up most of the building—never to be seen again. The creature’s biological data was stored inside the device, and in exchange for the earth mana the structure drew, the third chamber could produce anything in the center’s database on demand.
+
+It didn’t work on beasts, which meant the building couldn’t be used to create high-grade parts, but it let Aurora produce a constant supply of meat, along with various animal products of their choosing. The structure was modular, so adding more earth mana would increase its production, but it was never going to reach the point where meat would be a staple of the settlement’s diet.
+
+Even still, it meant that meat, fat, organs, and oil could be used as ingredients and garnish, along with an occasional meat-meal treat if people were willing to spend the Contribution Tokens. After careful deliberation and observation, the settlement’s leaders had okayed killing a single member of a wide variety of animals, adding a range of fish, poultry, red meat, and pork to the device’s database.
+
+Everyone was thrilled that they wouldn’t have to completely change their diets. They could still enjoy some of the tasty dishes from their old lives and satisfy the natural meat cravings many omnivores shared.
+
+Nick’s next stop was the Alchemist’s Laboratory, which had cost him some CP and three Uncommon vouchers to build. Alchemy offered a range of benefits, few of which humanity understood at present. It involved both the magical manipulation of various substances, as well as using the natural properties of mana-containing resources to create everything from industrial materials to potions and other consumables.
+
+The prospect of being able to mass-produce potions had convinced the committee to approve the structure, even though it might be quite a while before that goal was realized. Even still, the possibly of being able to refill people’s mana, stamina, and health at will—along with some of the more exotic rewards people had received like his Echolocation potions—was so appealing that no one had doubted the lab was worth the investment.
+
+After building the Item-Modification Station, which was producing weapons with Self-Maintenance modifications for the time being, Nick had learned that mana-using buildings didn’t completely drain their wells, which meant the research teams could continue studying the energy they contained.
+
+They could also be switched on and off to free up resources, although doing so took an entire day. It meant Aurora could adjust its power supply as needed, which might come in handy sooner or later.
+
+Shortly after placing Aurora’s first magical structures, he had realized there was a secondary reward for creating them, which might wind up being even more valuable in the long run.
+
+Each mana-using building incorporated diverse magical principles. The researchers were confident that studying them would lead to conceptual breakthroughs that would have required years of experimentation otherwise. They could also be used as templates to create additional magic buildings or modify the ones they already had, although the item team said that would require something called a building core, which they couldn’t produce without upgrading the modification station.
+
+For his next stop, Nick walked over to the residential district to see how Ming’s team was doing.
+
+More houses were coming up every day, along with stores, workshops, and countless other buildings. Her crew was in the process of training another thirty people, which would dramatically expand their capacity once the recruits understood what they were doing.
+
+Her original crew was being trained to lead the new teams, and most of them had placed a few points into Creativity and Mind to prepare themselves for their new roles. Two people who had been holding off their decision had picked building-related Professions, and several members from Abby’s group had Professions that helped with construction in one way or another.
+
+After conferring with Ming, he learned that even with Aurora’s expanded population, getting everyone a place to live should be completed ahead of schedule, at which point, the builders would focus on industrial, auxiliary, and defensive structures before working on individual houses for people who wanted them and had contributed enough to earn them.
+
+Grinning at how fast the city was growing and how amazing everything looked, Nick decided to stop by the mess hall for lunch before checking in on a few final projects and then working on developing his skills.

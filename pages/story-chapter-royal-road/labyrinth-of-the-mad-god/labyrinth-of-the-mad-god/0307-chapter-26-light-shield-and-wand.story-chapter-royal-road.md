@@ -1,0 +1,99 @@
+---
+id: edad3e7a-a2ad-5ce0-9b26-21240ad1b5c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Light Shield and Wand"
+slug: 0307-chapter-26-light-shield-and-wand
+partOf: labyrinth-of-the-mad-god
+position: 307
+ownLength: 1943
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3325877/chapter-26-light-shield-and-wand"
+royalRoadId: "3325877"
+---
+
+In addition to his energy-manipulation exercises, teamwork drills, and sparring sessions, Nick spent some time every day preparing for his trials of mastery.
+
+He paid close attention to the feedback his powers provided and the lessons he’d learned from using them. He wouldn’t be able to rely on his skills during the tests themselves, which evaluated his unaugmented prowess in a given area, rather than how effectively he integrated the information his skills offered.
+
+When they camped for the night, he decided he was as ready as he could be and would take both trials after getting a full night’s sleep. When he woke up, he ate a light breakfast, stretched out the kinks in his muscles, and meditated for half an hour while preparing for the ordeals to come.
+
+He decided to start with Wand, since he was looking forward to a bonus that made his devices more powerful. Before he began his test, he reviewed everything he knew about how the Wand skill worked.
+
+During the early stages of his adventures, Nick had no clue what it did. He eventually discovered the skill served two key purposes. It worked in concert with his Magic attribute to boost the output of his wands, but that was only half the story.
+
+Raising Wand also provided enhanced sensory feedback, helping him determine the range of the force-flinging tool, and identify optimal situations to use it. After his skill entered double digits, he had developed an instinctual feel for the scope of each blast, helping him maximize the effect of every shot he fired.
+
+He wasn’t sure what the Wand test would entail beyond using the devices in a range of situations. Regardless of the details, it was time to find out. He took a deep breath, called upon Arctic Clarity to enhance his concentration, then pressed the button on his profile and began his trial of mastery.
+
+Nick blinked, and when he opened his eyes, he was standing on the surface of another planet.
+
+Technically, I wasn’t standing on a planet to begin with, he corrected himself. And I’m pretty sure these tests take place inside my own mind, but I have more important things to worry about right now than creating an unofficial taxonomy of the multiverse.
+
+This time around, he was inside a spacious chamber—part of a sprawling stone temple, judging by the sunlight shining through a row of stained-glass panels twenty feet about his head. He could smell the greenery and loam he’d come to associate with jungles flowing through narrow cracks in the architecture, but he was more interested in the bloodstains and bones covering the floor.
+
+The remains had been gnawed on by some manner of rodent, but the explorers had met their demise by a blend of blunt-force trauma and gigantic blades. He assumed they were explorers at any rate, judging by the decrepit equipment they were wearing, which included magitech flashlights, grappling hooks, and a lockpicking kit like the case Kenji carried.
+
+The stonework was free from battle scars, which meant the bodies had been dragged here from deeper inside the structure. Some of the wounds appeared to have been caused by traps or machinery, while others were inflicted by monsters or beasts. Either way, the skeletons were a clear sign that danger lay ahead.
+
+Nick didn’t see any wands in here, nor was his Wand of Force sheathed at his belt. After inspecting the bones for clues, he headed for the room’s only exit—Arctic Clarity flowing like ice through his veins as he scanned his surroundings for danger.
+
+The trial wound up being rather different from the others he had taken. The only way forward led him through a series of rooms. Each chamber contained an obstacle, a pile of wands on the floor, and an escalating threat that would result in his untimely demise if he couldn’t overcome it in time.
+
+The goal was to figure out what the wands did, learn how to use them, and exit the room before the hazard it held left him in the same state as the remains littering the entrance chamber. Since each trap contained multiple elements that needed to be bypassed, destroyed, or disarmed, the trial was testing his judgment along with his ability to use the devices at his disposal.
+
+The setup reminded him of a nightmare version of the escape rooms he used to tackle with his brother, parents, and Angie every now and again. The memories filled Nick with a poignant wave of longing and loss that he set aside until he had time to process his emotions.
+
+When he stepped into the first room, stone panels dropped from the ceiling, blocking the door he came through and the doorway on the far side. Water began dripping through a series of holes in the roof, gradually filling the enclosure. Before long, he had to dive to grab the next wand in the pile, tying to make it work while dog paddling in a shrinking pocket of air.
+
+He soon discovered all the wands ran on either life, force, pure, or gravity mana—the only frequencies he’d learned to control thus far. That being said, some of them could convert life mana to another variant. While the process was wildly inefficient, it let Nick wield elemental magic for the first time, a fascinating workaround he would contemplate during the days ahead.
+
+He used an ice wand to freeze the water flowing through the holes, stopping the chamber from filling up. Then he unclogged the drains with an earth-manipulation wand that let him pull decades of accumulated gunk out of the pipework, leaving him standing on solid ground once more. Finally, he used a force wand to break through the panel blocking the exit, which formed a blade of kinetic energy instead of the cone he was used to.
+
+The second room featured a spike-covered ceiling that lowered as time went on. When it reached the halfway point, poison gas started flowing through a grate in the wall and the temperature began to climb, making it a three-way contest between perforation, suffocation, and heat exhaustion to see what would kill him first.
+
+A wand that made trees grow from the floor stopped the spikes, a life wand cured the poison, and a wind wand created a buffer that prevented the heat from reaching him. That still left Nick in need of a way out, but when he took a closer look at the roof, he found a hidden hatch that led to another passageway.
+
+The final chamber had walls filled with fist-sized holes that led to the dens of vicious rodents, which must have been what was gnawing on those bones. At first, only a few critters emerged and attacked, but their numbers climbed as the seconds ticked past, until he was in danger of being buried in a furry tide of razored fangs.
+
+While it was hard to focus under the circumstances, he was no stranger to life-and-death decisions, and his superhuman attributes let him evade the hungry creatures while considering the tools at his disposal.
+
+This time, it was less of a puzzle and more of an applied-combat scenario. Each wand was a weapon but only contained enough energy to fire once before running out of steam, which meant they were powered by essence instead of mana from his core.
+
+He had to scramble to survive while figuring out the best way to use the devices’ limited energy, whittling down the horde without losing his cool.
+
+Nick was covered in blood, bites, and bruises, but when he used a Wand of Fireballs to deliver death to the final ravenous rodent, he found himself back in his own, blessedly uninjured, body.
+
+After taking a few seconds to enjoy the fact that he was refreshed and free from pain, he pulled up his profile to check out his reward.
+
+Congratulations, you have completed the Journeyman trial of Wand mastery. Your skill can now advance to 50, at which point you may take the Adept-level trial. For reaching the Journeyman stage, you have gained the following bonus:
+
+Efficient Operator
+
+Wands that run on mana will require less energy per use and wands that are powered by essence will regain charges at a faster rate.
+
+Awesome. Nick was thrilled by the bonus he’d earned, which was certain to come in handy during his adventures to come.
+
+Awash in the bittersweet memories that had arisen during the test, he didn’t feel like taking another trial right away and decided to save Light Shield for the next time the party stopped for the night.
+
+Instead, he processed his feelings by sharing them with his friends, talking about how he had dated Angie on and off throughout his teenage years, the long nights he’d spent gaming with his brother, and the trips his parents had taken them on every summer vacation. By the end, he was bawling his eyes out and Bandit was weeping too.
+
+It had been a while since he’d let himself think about his lost loved ones, along with everyone who had perished when the System erased the world that was with brilliant pillars of light.
+
+“I hope some of them are still alive.” He wiped away tears with a clean cloth from his bag. “Now that we can use portals to travel to other settlements, I’ll start looking for them. Although the odds are high that I’ll never find out what happened to the people I love.”
+
+Kenji and Bandit pulled him in for a hug and even Lurk looked sympathetic. Sharing his story made the others think about old times too, and they spoke of the past as they continued crossing the conduit.
+
+Bandit’s memories of his life as an animal were hazy, but he recounted what it was like to live in the jungle while searching for food, protecting his people, and dealing with deadly predators. He shared how much the tribe had changed after ascending into beasts, including the village they built after observing humanity.
+
+Kenji went next. After living so long, he didn’t have any close friends or family when the System arrived, although he had some acquaintances he hoped were okay. He shared the story of his first love, the woman he’d married and spent several happy decades with before she died from inoperable cancer.
+
+That tragic tale made Nick realize that while many aspects of their new lives were brutal and cruel, there were some major benefits too. In addition to adding another hundred years to his lifespan, his evolved body had never been ill. He hadn’t come down with a cold or deal with infected cuts since his adventures began.
+
+If we can find a way to survive this war between Taltos and the System, our lives should be even better than before—magic supplementing technology to enhance our existence in countless ways.
+
+The next morning, he ate breakfast and began his preparations. He had his team send surprise attacks his way throughout the day, priming his reflexes for the trial to come.
+
+Kenji had taken Heavy Armor to twenty-five earlier in the day and was ready for his test too. The warrior closed his eyes and opened them again a heartbeat later, grinning in satisfaction. Unlike Nick, he couldn’t remember the details of what had happened, but he was pleased with the bonus he’d received, which made his plate and chain mail only weigh half as much while they were touching his body.
+
+Now it was Nick’s turn to discover what the System had in store. He took a deep breath, opened his profile, and began his trial of shield mastery.

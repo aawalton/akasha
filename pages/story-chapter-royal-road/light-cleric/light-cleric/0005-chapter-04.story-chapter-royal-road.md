@@ -1,0 +1,405 @@
+---
+id: 0f4bb444-3596-5fc1-94e7-6a95b05af485
+page-type-slug: story-chapter-royal-road
+title: "Chapter 04"
+slug: 0005-chapter-04
+partOf: light-cleric
+position: 5
+ownLength: 5935
+unit: words
+publishedAt: 2021-01-23
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/619088/chapter-04"
+royalRoadId: "619088"
+---
+
+Before the toll of eight-hour, Father Vytal and his two new apprentices left Appledel. The cold of late winter nipped about their faces, but the hoods of their coats, their stout boots, thick stockings, and fur lined gloves kept them warm. They followed the hard-packed earthen road on the north side of the Middle River, which was banked with ice and flowed pacifically into the farm-rich plain of Khulanty in the east. Behind them, the Western Mountains stretched to the sky. To the north and south, the mountains of the Valley of Three Rivers embraced them.
+
+A sparse wood of thin, white-barked trees, bared of leaves by winter’s cold, stretched away from either bank of the river. The road was cleared of trees and paved with well-fitted, smooth stones. Winter-brown grass and hardy bushes scattered among the wood. A few patches of snow dotted that wood, but most had melted away in the late winter rains. The air was cold, but the sky was clear, threatening neither rain nor snow.
+
+With Appledel behind, Father Vytal asked them about the Scriptures and the Saints.
+
+“Saint Lucius is my favorite,” Sweep said. “He always tried to be fair and just to everyone.”
+
+“But people hated him for it,” Father Vytal countered. “Saint Lucius was exiled.”
+
+Sweep nodded. “Because the governors only wanted what benefited them. They weren’t concerned with actual justice.”
+
+“And how would you define “justice”?”
+
+Sweep looked a question at Temperance who shrugged.
+
+“I don’t understand, sir.”
+
+“I’m asking you to tell me what justice is.”
+
+"Well…”
+
+For Sweep, the concept of justice seemed too obvious to define, making it hard to articulate. She thought about the Stories of Saint Lucius, searching for help.
+
+“Well, it’s… fairness. It’s making sure everyone is treated equally. Like in Saint Lucius’ first story, when he was young: if a poor person breaks the law, and if a rich person breaks the same law, they’re both punished the same.”
+
+Father Vytal nodded. “Good example. But consider two farmers who each own a plot of land of the same size. The first farmer works hard all year long and brings in a healthy crop, but the second farmer is lazy and brings in no crop at all. If we must treat them equally, as you said, then the hard working farmer should give half his crop to the lazy farmer.”
+
+Sweep frowned. “No.”
+
+“Why not?” asked Father Vytal.
+
+“Because the lazy farmer didn’t do anything to earn it. It’s not fair to the one who worked hard. Treating them equally would be letting them each have the benefits of their work: crops for the hard-working farmer, none for the lazy farmer.”
+
+“So we should punish laziness with starvation?”
+
+Sweep didn’t know how to reply. That wasn’t at all what she’d meant.
+
+“Or perhaps we should amend your definition of justice?” Father Vytal continued.
+
+Sweep nodded. “All right. So, justice is treating people the same so long as they work for it?”
+
+Father Vytal shrugged. “Maybe. But consider the child who was born with a twisted leg and can’t walk. Should we deny him food just because he can’t work in the field?”
+
+Sweep found herself frowning again. “No,” she said, “That’s not fair either. I guess justice is… well… I don’t know.”
+
+“It’s not easy to define,” agreed Father Vytal.
+
+“Then how do we achieve it?”
+
+“Achieving a proper definition requires no small amount of thought. I find myself often amending how I define my world, even at so advanced an age.” Father Vytal stroked his beard thoughtfully.
+
+Sweep blushed. “I meant justice. How do we achieve justice?”
+
+“Ah.” Father Vytal smiled, and Sweep wondered if he’d been teasing her. “In Khulanty we choose judges who’ve studied the law, and those judges hear individual cases and then, much like Saint Lucius, they try to be fair. The law tends to side with those who work for their share, but won’t let people starve when it’s within its power to do so.”
+
+“What if the judge is like the Mother?” asked Temperance.
+
+Sweep smiled at her. During lessons at Sacred Heart, Sweep had occasionally asked questions of Sister Jayne and was often spanked for it. Temperance had never asked a question.
+
+Father Vytal frowned but nodded. “Quick to see the flaw. Well done, Temperance. Corrupt judges do exist, which is why they’re overseen by nobles, who must answer to the royal.”
+
+“And what if the royal is corrupt?”
+
+“Indeed. Ostensibly, the Royal must answer to the people. That’s what the First Royal intended.”
+
+After a while, Sweep said, “Justice is more complicated than I thought.”
+
+Father Vytal nodded.
+
+• • •
+
+When the sun began to set, Father Vytal led them off the road and showed them how to set up a tent, make a campfire, and cook dinner without a kitchen.
+
+“I suppose neither of you has traveled cross country before?” he said.
+
+Both girls shook their heads.
+
+Father Vytal sighed. “Of course not. Well, it’s still winter, so we’ll not be camping often, but in a few weeks, when spring comes, we’ll sleep beneath the sky and I’ll show you how to tell position and direction using the stars.”
+
+Sweep and Temperance looked at each other and shared a small smile.
+
+“I am sorry about having to sleep outside in winter,” Father Vytal went on. “It’s going to be cold tonight.”
+
+Sweep shrugged. “Winter nights are always cold.”
+
+Throughout the preparation of camp, Sweep carefully avoided helping with the cooking. She paid close attention to the way Father Vytal threaded the bendy wooden poles in the cleverly crafted oilskin canvas and then staked them into the hard, cold ground to create two little tents. She helped gather firewood, of which there was plenty in the woods. She even took interest in the necessary details of digging a latrine. But when Temperance and Father Vytal began to boil water and portion out dried meat rations, she kept her hands to herself.
+
+Her non-involvement with the cooking did not go unnoticed and did not last. Eventually, Father Vytal handed her a mortar and pestle and a cloth bag that smelled strongly of herbs.
+
+“Sweep, grind some of this for me please.”
+
+Warily, Sweep reached for the items.
+
+“Actually, sir,” said Temperance, “I’ll do that.”
+
+Father Vytal looked at them both, a single brow raised in question. “Is there something I’m missing?”
+
+Sweep gave a small shrug. “I’m bad at cooking.”
+
+Temperance was quick to clarify. “It’s not just that, sir. Anything she has to do with cooking, anything at all, goes terribly wrong.” She looked at Sweep apologetically, but Sweep nodded. “There was one time she was only supposed to put water on the stove to boil and the pot cracked.”
+
+Father Vytal looked perplexed. “And you think it was Sweep’s fault?”
+
+Temperance shrugged. “For anyone else, I’d say no, but something goes wrong every time she has anything to do with preparing a meal.”
+
+“I can wash dishes without a problem though,” said Sweep hurriedly, not wanting Father Vytal to think she was trying get out of work.
+
+Father Vytal chuckled and held the items out to Sweep again. “Crushing herbs should be foolproof.”
+
+Sweep took the mortar and pestle and bag of herbs carefully. She crushed the herbs, making sure to not drop anything. She added the resulting powder to the bubbling stew at Father Vytal’s direction. When nothing broke, nothing was spilled, Sweep sighed with relief.
+
+The stew, however, was overly herby.
+
+It wasn’t inedible, it wasn’t even horrible. In fact, for the orphans, who had only ever had watery soup, sometimes lightly salted, and porridge, never with milk, it was wonderful. But it was definitely overly herby.
+
+They ate silently until Father Vytal fixed them with a rueful grin. “It was my fault,” he told them, “I put too much herbs in the pestle.”
+
+“Yes, sir.” But Sweep and Temperance looked at each other knowingly
+
+They put out the fire and retired to their tents soon thereafter, each armed with a small canvas bag filled with uncooked beans that had warmed next to the fire. Sweep and Temperance shared a tent, a fact they assured Father Vytal they were comfortable with. Snuggled together under four blankets, they were plenty warm and much too excited to go to sleep right away. Instead, they stared at the darkness above them and whispered together.
+
+“Just imagine,” said Temperance. “No more kitchen duty or laundry duty. All the cleaning and mending we do will be for ourselves instead of pampered rich girls.”
+
+“Yeah,” replied Sweep. “No more sweeping.” She couldn’t help sounding wistful; she had enjoyed sweeping. Fortunately, Temperance didn’t seem to notice.
+
+“And no more Mother Superior,” Temperance added. “It doesn’t seem real does it? We don’t have to be afraid of her anymore.”
+
+Temperance hugged Sweep, and Sweep returned the embrace.
+
+“I really thought one day she might start beating you and never stop. I’ve been afraid of that for… for years.”
+
+“I didn’t realize it was that bad. I knew she hated me but…”
+
+“If you’d ever seen the look in her eyes while she hit you, you’d have known. I’m sure the others saw it, but no one ever said so.”
+
+Sweep released Temperance so she could see her face. “Thanks for watching out for me, Temperance.”
+
+“Of course I’m going to watch out for you. We’re… we’re sisters.”
+
+They hugged again.
+
+“What do you think of Father Vytal?” Sweep asked.
+
+“He seems nice enough,” Temperance replied. “And he’s an amazing teacher, isn’t he? It’s like he teaches without knowing it. He just talks, and it all makes so much sense. I’ve learned more about the history of Khulanty today than in the last year.”
+
+“And the Scriptures,” added Sweep. “He thinks about them in a way I would never have considered.”
+
+They whispered on into the night until there was nothing more to say, and then they stared, silently, into the darkness until sleep overtook them.
+
+• • •
+
+Sweep awoke with dreams of purple eyes fading to the back of memory.
+
+Faint light penetrated the canvas walls of the tent, and she could see her breath on the air. For several moments she simply lay there, remembering Temperance’s words the night before; they no longer need fear the Mother Superior. They were out of reach. The Mother no longer mattered. Just thinking the thought made her afraid, like the Mother might hear, and try though she might, Sweep couldn’t dispel it.
+
+Once up, Father Vytal stoked the banked coals into a small, merry fire, then showed them how to break camp. Breakfast was hot tea and warmed flatbread and a bit of dried fruit, and soon they were on their way again.
+
+Sweep found her back was still stiff from the Mother’s ministrations, but Father Vytal’s healing powers had done in seconds what would have taken her body weeks to do on its own, and she looked forward to the walk.
+
+The second day passed much as the first had; the three of them walked along the road and Father Vytal talked to them about whatever was on his mind. He knew a lot about a variety of subjects and when there was something he didn’t know, he admitted it. Sister Jayne had never admitted to not knowing something.
+
+He started by describing the environment of a high scrubland and the importance of the rivers. He told them about the rolling plains they would enter as they made their way out of the Three Rivers Valley, and about how the rivers for which the valley was named joined into the Grand River. He regaled them with the stories and histories of the noble families who managed the lands and for whom the provinces: Ceres, Iz, Shannon, Kempenny, Mineres, and Loreamer were named. He explained that each province in the nation of Khulanty was further divided into counties, each also named for a noble family. He continued to ask them questions about the Scriptures, which stories they’d read and which they liked and why.
+
+And that night, he again assigned Sweep a duty connected to cooking, which Sweep took without complaint, but with a meaningful look at Temperance.
+
+Carefully, Sweep peeled small, wrinkly potatoes, depositing the skins in a small earthenware bowl. She then cut the potatoes into slices and dropped them into the warming water. She was nearly done when the small knife slipped and bit deep into the area between thumb and forefinger of her right hand. With a squeal of pain, she let go of both knife and potato. The potato fell to the ground. The knife remained stuck in her hand.
+
+The pain was different than that of a beating. It was deep; it radiated along her arm to her shoulder, tensed her neck and made her teeth ache. Her heart raced, and her breath went shallow.
+
+Father Vytal took hold of her wrist in one hand and the knife in the other.
+
+“My apologies, Sweep, this will probably hurt a bit.”
+
+He pulled the knife out of her hand in a quick, smooth motion, and the bite of pain was immediately swallowed by the caress of healing.
+
+“Oh,” she said. “How… how do you do that? It’s magic, right?”
+
+He smiled at her. “I think you know.”
+
+Sweep shook her head.
+
+“What did you do when you healed me?” he persisted.
+
+“I…” Sweep hesitated. He’d said that she healed him back at Sacred Heart, but part of her just couldn’t believe it. “Are you sure I… that you didn’t do it yourself?”
+
+Father Vytal nodded. “I was more ill than I’d thought. I had a fever that interfered with my concentration, and that incense they were burning made me slow-witted and sleepy. I am certain you healed me.”
+
+Sweep blushed and looked away and shrugged. “I don’t really know what I did. Can you show me how?”
+
+“I would be remiss if I did not. I had thought to start once we could settle in for a few days, but if you’re ready now…” He laughed at Sweep’s enthusiastic nod.
+
+“The trick is to construct a place in your consciousness, a mindspace, a sort of mental room, where you can come and go as quick as thought. The room will be a place of calm and concentration, and from that space you can access your power as easily as breathing, with all the time in the world.”
+
+Temperance laughed drawing their attention. “She already knows how to do that one,” she said to Father Vytal. She smiled at Sweep. “Didn’t I tell you you’re special?”
+
+Sweep blushed again.
+
+“I’ll finish dinner,” Temperance continued. “You two talk about powers.”
+
+Father Vytal nodded graciously.
+
+“If you already know about the mindspace, tell me what else you know. What was it like when you healed me?”
+
+Sweep told him about the tingle along her skin and the chimes at the edge of hearing. She told him about the silvery purple light she’d seen in him and about adding power to the black splotches. She told him about dancing among the rainclouds.
+
+“And don’t forget that time you glowed,” Temperance said. “The first day I met you.”
+
+“Oh yeah. I forget about that.”
+
+Father Vytal sat in silence, staring past her at the darkness. Temperance fiddled with the food. The crack of the fire and the smell of dinner and the movement of animals around camp were all amplified by his silence. Sweep worried that she’d upset him.
+
+“All that without training,” he said. “Well then, we must, indeed, start immediately. I realize you’re already familiar with the mindspace, but we should start from the beginning, and we should take it slowly.”
+
+They sat next to each other, legs crossed, eyes closed.
+
+“Breathe evenly, in through your nose, out through your mouth. Rest the tip of your tongue on the roof of your mouth. Relax your eyes, your jaw, your neck, your shoulders. Let go of your thoughts, your anxieties, your desires. Empty yourself.”
+
+“Like Saint Weston,” Sweep said.
+
+“Yes. Very good.”
+
+They meditated until Temperance told them dinner was ready.
+
+• • •
+
+The days melted into weeks. Sweep let herself get caught in the excitement of life on the road with Temperance and Father Vytal. She lost herself in camping and lessons and meditation.
+
+One morning, Sweep crawled from their tent to see thick, heavy clouds covering the sky from horizon to horizon. The clouds obscured the last of the mountains that had been easily visible yesterday. It felt to Sweep as though they’d been trapped under an immense, grey mixing bowl. As they broke camp, munching on biscuits that had baked next to the coals overnight, the first light flakes of snow began to fall.
+
+“Isn’t it a bit late in the season for snow?” Temperance asked.
+
+Father Vytal nodded. “Winter seems to be hanging on this year.”
+
+As they resumed their trek, Father Vytal continued their lessons, beginning with the hierarchy of the church, the head of which was called the High Cleric who worked with the Church Council, of which there were fifty, to run the church. Father Vytal, a member of the council himself, was friends with many of the counselors and knew the rest by name. He kept referring to High Cleric Marcus Radden as Marcus. Ranked below the council were the mothers and fathers, women and men who had mastered the teachings of the church but weren’t council members, then the sisters and brothers, and finally the students who were called acolytes.
+
+“That will include you once we get to the High Temple,” he said.
+
+Sweep and Temperance looked at each other askance. Acolytes were girls from good families, not orphans. Neither could imagine becoming an acolyte, no matter that Father Vytal was on the Church Council.
+
+As the day wore on and the snow came heavier, Father Vytal fell silent, and they all focused on putting one foot ahead of the other. They didn’t break for lunch but ate dry rations while they walked. Afternoon quickly grew dark as the clouds became heavier still, and well before the sun set, the clouds brought night.
+
+“It’s not far now,” Father Vytal assured them again.
+
+Sweep had lost track of the number of times he’d said that. In fact, she barely heard his voice over the wind and through the thick fur of her hood. Snow covered the ground in small drifts. The wind had picked up, chilling any exposed skin to the point of pain. They all had their hoods pulled low and their coats fastened tight. The snow was coming down harder now, driven by the wind to swirl about, thick, wet flakes dancing madly. Sweep focused on following Temperance.
+
+When Sweep stumbled and fell, she barely felt it. Something had caught the toe of her boot as she shuffled across the ground. Perhaps a rock. She hit a drift of snow, sending up a small spray of the soft powder, and rolled a few times, coming up to a sitting position. Dumbly, she looked at her hands in her lap through the gloom, her breath steaming in front of her face, and saw the fat, gentle flakes of snow settle upon her to rest. She just needed a little rest.
+
+But she wasn’t allowed rest, she was never allowed enough rest. She was hauled to her feet and was back in the sanctuary of Sacred Heart. She was being dragged down the aisle, everyone looked at her, shaking their heads in disbelief at one so unclean as her. She knew when they reached the end of that aisle, when they reached the dais where sat the light-bathed sisters, she would face punishment of harsh words and harsh hands, as had happened so many times before. They were getting close, she could see the light from the stained glass window bathing the dais.
+
+And then she remembered that she didn’t have to do this anymore. She remembered that she could get away if she wanted to, that these people were no longer her masters, and she struggled.
+
+She struck out with her arms, twisted her body side to side, threw her head back and screamed. Someone yelled at her.
+
+“Piety! Piety, stop, we’re here.”
+
+Sweep gasped and tried to open her eyes but her eyelids were frozen shut. With gloved fingers she pulled them open, stinging her eyes and bringing tears that froze on her cheeks. The sanctuary was gone. She was surrounded by swirling snow but in front of her was Temperance who had firm hold of her shoulders and shouted her name. Beyond Temperance was a large building, well lit, smelling of wood smoke and babbling with voices.
+
+“Where are we?” Sweep rasped.
+
+“We’re at a farm. Father Vytal is talking to the head farmer.”
+
+From a little way off and to her right, Father Vytal asked, “Temperance, is she all right?”
+
+Temperance looked at Sweep for an answer and Sweep nodded.
+
+“She’s fine.”
+
+“Let’s get you inside,” said another, much deeper voice. “This is no kind of weather to be caught in.”
+
+Sweep stumbled as Temperance guided her with an arm around her shoulders. Soon they were entering that well-lighted area and warmth suffused her so that she gasped as her nose and fingers and toes tingled painfully. The air here smelled of recently cooked food, well spiced, and the scent made her mouth water in the kind of anticipation she would never have allowed herself at Sacred Heart.
+
+The dining hall was large. Not as large as the refectory at Sacred Heart, but big enough for two long tables filled with people. Sweep remembered Sister Jayne teaching them about the farms in the valley. This farm wasn’t like the single-family farms and orchards near Appledel that had maybe three or four work hands. Instead, days travel from Appledel or any other town, the farm had to function as its own town. The farmer, who owned the land, acted as the mayor and had a large staff consisting of cooks, crafters, and farmers, who worked for him. It seemed to Sweep, that all those people filled the dining hall now.
+
+Sweep let Temperance steer her through the room as she regained her bearings, desperately trying to dispel the terror she’d let take her. She wanted to be stronger, to dismiss the Mother from her thoughts entirely. But even as she berated herself mentally, she feared that strength would never come.
+
+The people in the dining hall talked and sang and laughed, filling the large room to its rough-hewn rafters. Some set large plates and jugs onto the tables. Two large fireplaces at either end of the hall were filled with flickering orange flames. By the time Temperance helped Sweep onto a bench, Sweep was feeling more like herself. The stinging cold had gone, replaced with a damp, melting, quiet. She was suddenly very sleepy and very hungry.
+
+“Here, drink this.” Temperance pushed a warm mug into her hands.
+
+Without giving it much thought, Sweep raised the drink to her lips and sipped. She had expected water. Instead, it was a sweet and faintly spicy liquid with a pungent odor she recognized.
+
+She swallowed carefully before she said “Cider,” in a stunned whisper. She’d smelled it before, but never tasted it.
+
+“Yeah,” Temperance said, “and look at all this food.”
+
+Sweep had been so focused on the contrast of cold outside and warmth within, the happy bustle of the farmer’s dining hall and the cold formality of the refectory of Sacred Heart, that she hadn’t fully taken stock of the food. This farm was clearly competent and well-prepared.
+
+Just in front of her was a ham hock, bigger than any she’d seen at Sacred Heart, set on a large, white platter. In serving bowls, there were carrots and potatoes, peas and corn and beans. They were prepared in a variety of ways, cooked in water and seasoned lightly with a bit of butter, mashed into a thick paste and smothered in gravy, cooked all together with meat as a savory stew.
+
+Before Cook had come to Sacred Heart, when Sister Dora was still in charge of the kitchen, Sweep had thought there was only one kind of bread: hard, light-brown lumps that had to be soaked in broth before being eaten. Cook had introduced Sacred Heart to breads of varying shades, seasonings, and firmness, though the orphans were rarely treated to anything but those light-brown loaves. This table was stacked with breads and biscuits and pastries of all kinds.
+
+There were stews and gravies, roast ham and beef and rabbit. Each of the long tables had two whole roast turkeys. There was light beer and dark beer, red wine and spiced wine, milk and tea and cider.
+
+Temperance whispered, “Who said ‘Be generous in hospitality, kindness, and good food,’?”
+
+“Saint Claes the Generous,” said Sweep.
+
+All around them, the farmer’s staff selected food, piling it on their plates.
+
+Sweep looked around for Father Vytal and found him at the head of their table, talking with a large man in fine clothes who Sweep assumed was the farmer.
+
+“Do you think we should just help ourselves?” Temperance asked.
+
+Sweep looked around. “Everyone else is, and there’s no one to stop us.” She glanced back at Father Vytal, who was deep in conversation with the large man.
+
+Temperance nodded slowly. “All right then, we’ll help ourselves.”
+
+It was several moments before either of them moved, but eventually Sweep took hold of one of the biscuits next to the ham. Nobody stopped her, nobody hit her, nobody reprimanded her. She held the biscuit close to her face and inhaled deeply, savoring the thick and faintly buttery scent. She had smelled fresh biscuits several times before, but this was the first time she knew she was going to get a taste of one as well. Carefully she set it on her plate and looked at the wealth of food, trying to decide what to select next.
+
+“Hi.”
+
+A boy with a wide smile and large ears, sat next to Sweep.
+
+Sweep dropped the spoon she’d been about to use to put cooked carrots on her plate. Temperance pulled her hand back from the plate of bread. Sweep looked at the boy, trying not to shake, and wondered what she’d done wrong.
+
+The boy took no notice of the fright he’d caused and began filling his plate with food.
+
+“I’m Amos, Amos Stonebrook. Maggie, that’s the farmer’s wife, she told me to sit with you and make sure you have everything you need. She said that you’re the Holy Father’s disciples and that you’re shy. She said that I should be friendly and respectful and not to ask too many questions.” He paused then and looked at them. “Why aren’t you getting any food?” he asked. “Is it some sort of religious reason?”
+
+Sweep frowned, uncertain how to answer. She didn’t want to admit to the way of things at Sacred Heart. She didn’t know how to explain that they were afraid to accept the gift before them. She was ashamed of her fear.
+
+Amos waited several moments before he continued. “Sorry. Maggie told me not to ask too many questions. Do you want me to help you get food?”
+
+Sweep blushed. “No. I can do it.” She looked at Temperance who bit her lip and blushed furiously. She looked back at the boy. “We just… uh… are choosing carefully.”
+
+Amos smiled. Sweep found the smile infectious.
+
+She and Temperance began to select food from the offerings on the table. Sweep relaxed as no one told her to stop.
+
+“Maggie puts on a good feast, huh? She had Gemma, that’s the head cook, she’s been working on this since yesterday morning. All the cooks’ helpers have been running around busy all week.”
+
+Sweep paused in buttering a roll. “The cook’s helpers don’t get to eat?”
+
+Amos waved a hand dismissively. “Most will join us, and only those who have to serve during the feast will have already had theirs.”
+
+Sweep gave a small sigh of relief and felt it echoed by Temperance.
+
+Soon, she and Temperance had filled their plates with selections of meat, bread, cheese, and vegetables, both wanting to experience as many different tastes as possible. They had also taken some milk and some cider and some beer and some wine to share.
+
+When the plates were full and the farmer’s staff settled into their seats, a quiet of anticipation filled the room. No one was eating yet, despite the wonderful mix of smells that tempted them to their plates, and Sweep and Temperance waited with them, wondering what came next.
+
+When the last person was fully seated, when no one reached for just one more biscuit, when all was still, the farmer stood. He was a tall man, and broad, his callused hands and dark skin proved him no stranger to hard work. When he stood, he had everyone’s attention immediately.
+
+“My friends, good evening, and happy Spring’s Beginning.” He had a deep, slow voice, the same voice Sweep remembered from outside, before she’d been brought into this warm and comforting dining hall.
+
+Sweep nudged Temperance. “I hadn’t realized today was Spring’s Beginning.”
+
+Temperance nodded, though whether in agreement or to indicate that she had known, Sweep was uncertain. The farmer continued his speech and the two fell silent.
+
+“Despite this late, snowy squall, spring is upon us, and our work ahead of us. First, I want to thank you all for another successful year. We had our share of trials, including that damn stubborn bull in the north field.” Several people up and down the tables chuckled at the shared memory. “But we made it through and now we greet this new planting season with great promise. Catherine and James, our newest married couple, expect their first child in the coming weeks.” He gestured at a young couple at the other table, a round-faced woman with nut-colored hair, and a burly young man with short stubble covering his head and chin. They both smiled happily as the people around the room applauded enthusiastically.
+
+The farmer paused, taking time to gather his thoughts before continuing. “Tonight we have honored guests.” He gestured to his right, at Father Vytal. “This is Holy Father Tristam Vytal, who is accompanied by his two apprentices.” At this he gestured toward Temperance and Sweep. All eyes turned on the two and Sweep gave a small, reticent wave while Temperance squirmed and blushed.
+
+The farmer cleared his throat lightly and the attention was back on him. “Father Vytal, may I impose upon you for a prayer before we partake of this Feast of Spring’s Beginning?”
+
+Father Vytal nodded and stood while the farmer sat. He looked different somehow, more somber, and stoic, and official. He looked more like a Holy Father than a careful, gentle teacher.
+
+“Good evening.” Father Vytal’s voice had changed too. It was no longer the patient timbre Sweep and Temperance had become accustomed to, but instead something grand, something of bass rumblings and calm authority.
+
+Sweep and Temperance folded their hands upon the table and bowed their heads, just as they had at Sacred Heart. It was the first time they had prayed formally since leaving the church, which struck Sweep as odd. Father Vytal hadn’t insisted they pray. Perhaps he assumed they prayed on their own.
+
+“Love be unto God as His love be unto us. We thank You for Your love and guidance, even in the cruelest of times. We hold this feast of Spring’s Beginning in Your honor, and in honor of Saint Zyta, and we join You in blessing the coming child of Catherine and James Smith. We thank You for the opportunity to bring joy to the world and the chance to love one another.”
+
+When Father Vytal stopped talking, Sweep thought he was only pausing for breath before launching a lengthy sermon. But then he said, “So be it truth,” and everyone echoed him, and then the prayer was over.
+
+“That’s it?” said Sweep quietly.
+
+“I guess so,” said Temperance.
+
+“Wow,” Amos said, turning to Sweep, “that was the quickest prayer I’ve ever heard from a cleric. You two must be really lucky.”
+
+The food had cooled enough to be edible but was still warm, and it lived up to all Sweep’s expectations. The vegetables were sweet and soft except for when they were crisp and crunchy, the bread was warm, the stew was rich, the beef was tender and the turkey was juicy. Sweep decided that she didn’t much like beer, but the spiced wine was nice. Temperance, on the other hand, found the wine to be too flowery and instead preferred the dark beer, which she claimed was smooth and creamy, but which was just bitter to Sweep.
+
+Amos took up the thread of conversation where he had left off. Between mouthfuls, he told them about Cornelius, the old field worker who had begun working on the farm for the current farmer’s grandfather, and about the blocked ditch that had gone unnoticed for a week and had caused a minor drought in the back quarter of the apple orchard, and about his one trip to Appledel a year and a half before.
+
+“Is that where you come from?” Amos asked, but he didn’t wait for an answer. “There’s a huge church there and it trains a bunch of girls to be clerics, like Father Vytal. Me and Smith went to the evening sermon after he bought the special cloth Maggie wanted. This was right after Smith, I mean James Smith of course, decided he liked Catherine. Anyway, it was the boringest sermon I ever heard. Usually Farmer does the prayer, but even though he goes on for a bit, it was nothing like this. The Mother at Appledel just went on and on and on. I feel bad for the girls who live there. They probably have to listen to that every day. If that were me, I’d run away.”
+
+Sweep looked at Temperance who gave a small shrug at Amos’s vision of Sacred Heart. She could see her friend was torn between amusement and painful memories.
+
+Amos changed subjects quickly and soon they were hearing all about the time he fell out of a tree and broke his arm. Sweep tried to listen to the enthusiastic babble and even tried to participate from time to time, but eventually she fell silent and focused on her meal.
+
+The girls tried some of everything, but they ate only half as much as most and were well sated by the time the remains of the dinner were cleared and the kitchen crew brought out pies and cakes.
+
+“It smells so wonderful,” Temperance groaned.
+
+But the two agreed that they were too full from dinner to partake of dessert, though Amos encouraged them to try some.
+
+They sat back, contented in the first full meal they’d been allowed. Sweep half-closed her eyes and let the gentle babble of conversation lull her, taking her thoughts upon a drifting leaf upon a breeze.
+
+And, prompted by Amos’ story of Appledel and the boringest sermon he ever heard, her thoughts wandered to Sacred Heart and the girls she’d left behind: Patience and Midnight, Lillyfield and Joy, Charity and Faith, and all the others. Their meal tonight would be thin soup and cold water and hard bread. They had never been kind to her, and had often been cruel, but Sweep felt a pang in her chest.

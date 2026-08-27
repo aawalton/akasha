@@ -1,0 +1,45 @@
+---
+id: e4f89223-5c65-58c9-81e8-f6cdaaa97393
+page-type-slug: story-chapter-royal-road
+title: "Mark of the Crijik Book 5 is out today!"
+slug: 0002-mark-of-the-crijik-book-5-is-out-today
+partOf: mark-of-the-crijik
+position: 2
+ownLength: 373
+unit: words
+publishedAt: 2024-03-06
+link: "https://www.royalroad.com/fiction/50243/mark-of-the-crijik/chapter/1544417/mark-of-the-crijik-book-5-is-out-today"
+royalRoadId: "1544417"
+---
+
+Hi Everyone! This is ThinkTwice!
+
+You may recognize me from such posts as 'Mark of the Crijik book 4+5 update', ‘Mark of the Crijik Book 3 releases today’ and ‘Mark of the Crijik Book 4 releases today’.
+
+Now, I bring you the sequel!
+
+Swinging in with the steel chair is MotC's fifth novel, Mark of the Crijik Book 5: The Ascension. Weighing in at an incredible 213,000 words, this chonker is ready to kick ass with its special moves [Plot Progression], [Character Progression], and [Power Progression].
+
+Tell me!
+
+Do you want to see Andross controlling the elements like the Avatar?
+
+When he speaks, do you want all of creation to stop and listen?
+
+Does your ideal include Andross walking among godly beings with the confidence of a lion?
+
+Or maybe you want to see those who control the world to tremble in fear at his gaze?
+
+A lot has changed in the world of Mark of the Crijik, with world shattering consequences. Andross, Gold, and his friends are ready to fight to the death to overcome their obstacles. Luckily for them, the only thing standing in their way is the entire world.
+
+The book is available right now through Amazon’s Kindle, Kindle Unlimited, and Paperback!
+
+Links:
+
+Ebook: https://www.royalroad.com/amazon/B0CK58ZS4S
+
+Print: https://www.royalroad.com/amazon/B0CWXGP3N7
+
+Summary:
+
+Andross Silver’s secret has been revealed to the world.An eighth Marked one, born before his predecessor has passed away.Peace and destruction have fluctuated with the appearance of every new Divine, causing humanity to tense, and strain, but never to break. Andross, however, is a new factor. One that others fear can shatter that balance. Unprecedented, his presence heralds chaos and begets destruction.With the eyes of the world on him, Andross prepares for the Descent, a ceremony where he will unveil himself to the eyes of the world. But his existence isn't the only world-shaking event on the horizon. Inné, Marked one of the divine of war, will ascend in less than a year, and the invitation he extends to Andross isn’t one that the newest Marked can refuse.As the powers that be await with bated breath to see what Andross’ next move will be, Inné’s Ascension looms on the horizon, and it threatens to bring down the entire world in its wake.

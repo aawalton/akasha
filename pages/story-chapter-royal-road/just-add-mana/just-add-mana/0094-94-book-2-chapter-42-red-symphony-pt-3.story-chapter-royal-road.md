@@ -1,0 +1,161 @@
+---
+id: 41414d68-f98f-55a5-b909-8b69af426e5a
+page-type-slug: story-chapter-royal-road
+title: "94 — Book 2, Chapter 42 — Red Symphony, Pt 3"
+slug: 0094-94-book-2-chapter-42-red-symphony-pt-3
+partOf: just-add-mana
+position: 94
+ownLength: 3368
+unit: words
+ownProgress: 3368
+publishedAt: 2026-01-31
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2998623/94-book-2-chapter-42-red-symphony-pt-3"
+royalRoadId: "2998623"
+markedReadAt: "2026-06-29T18:50:52.572Z"
+---
+
+The Red Commander did not understand what was happening.
+
+None of this was like in any of the reports he'd read on Yggdrasil's End. Everything they knew indicated that while he was startlingly capable, he couldn't cast any spells. Instead, he relied almost exclusively on powerful barriers that could be shaped and adjusted in an instant, and the sheer amount of mana he could pack into them gave him the ability to respond to nearly any type of magic directed at him.
+
+That, combined with the sheer amount of knowledge he accrued in the many lives he'd lived, made him a dangerous opponent. And all of that was before taking into consideration his allies, who had previously supplied him with some truly dangerous artifacts.
+
+But he shouldn't have been able to cast spells. Yggdrasil's End was bad enough without the ability to use actual magic, like the other mages of the Great Realms. It was widely agreed among his enemies that his inability to use magic was the way his sheer power was balanced out. If that had changed...
+
+If that had changed, then it didn't bode well for their plans.
+
+The Red Commander didn't understand how this was possible. The spells that Cale was using were worse than an expression of high-tier magic—they were spells the Red Commander didn't even recognize, which meant they were most likely unique spells. New ones being created on the fly, and he would have been less sure about that guess if he hadn't been able to feel the Gift at work.
+
+Which explained some of how this was possible, but even then, the Red Commander couldn't wrap his head around it. The nature of the Gift meant that it should have been limited in what it could do. In the same way that it couldn't deny him access to it, it couldn't simply give Yggdrasil's End the spells he needed.
+
+Did that mean Yggdrasil's End was somehow acquiring these spells on his own? That he was doing it in real time, somehow manipulating the Gift to his advantage?
+
+That didn't make any sense. There shouldn't have been time for him to do any of that. It wasn't like the Red Commander hadn't been aware of Yggdrasil's End potentially showing up to interfere with his plans. Like every active Lower Branch cultist, he knew to prepare for the potential appearance of their Fugitive Seal; to that end, he cast an awareness ritual every single week, which would have let him know if the rogue mage appeared anywhere in the realm.
+
+That was the whole reason he hadn't even considered that Yggdrasil's End might have been involved with the failure of the Red Hunters and their plans. It still seemed unlikely! Yggdrasil's End couldn't have been here for more than a week. Not unless he'd found a way to evade that awareness ritual, and that was ludicrous.
+
+But that meant that the End had arrived within the past week and acquired a preposterous number of spells, which seemed equally ludicrous.
+
+The Red Commander wondered if there was some aspect of the Gift he didn't yet understand. That was possible, technically. He hadn't really paid much attention to it beyond a basic analysis of the ways it could benefit his operations and the ways it might try to undermine him. He knew, for example, that it could interfere with his rituals if it expended enough mana.
+
+But he would know if it tried any such thing. It couldn't dispel a magical reaction like that without him noticing. That left him too many questions still.
+
+The most logical answer to all this was that the local dark lord had, for whatever reason, decided to assist Yggdrasil's End. He'd interfered with the Red Hunters once already, a direct violation of the truce they'd established. With the kind of resources a dark lord commanded, the Red Commander could believe the End might very quickly be able to establish a presence and familiarity with the Gift.
+
+He snarled. He'd been delighted to learn that Yggdrasil's End was here. It meant that it was time, and that he would be the one to finally capture the man that had ruined all their plans. But he'd known, even then, that he would need time to go back and make his preparations for the upcoming battle. The last thing he expected was for Yggdrasil's End to appear right in front of him almost immediately, giving him barely any time to prepare.
+
+But even then—even then he should have had the advantage! He had Red Relics he carried around with him for this exact purpose!
+
+The Resonant Distillery, for instance, a culmination of centuries of cult research into the power of the Abyssal One and the relic he'd crafted with the very first of the Abyssal Ones they'd captured. It was theoretically capable of disrupting and absorbing any barrier, even the absurd ones that Yggdrasil's End wielded.
+
+The Mind Revenant was a peculiar thing, and it was his backup relic in case the Distillery failed. It had to be tuned to the actions and behavior of one individual, but once attuned, it would pursue that individual's mind through the realms of dreams and thought. The Red Commander had trained it on every story he could gather of Yggdrasil's End.
+
+He'd also tried to activate it already, and it had failed. Yggdrasil's End wasn't acting like any of the stories the Lower Branch cults knew of. Their records of the Planar War were spotty, but they were almost certain they'd gathered every name from every one of his lives past the War. Had they missed something?
+
+It certainly seemed like it. This version of Yggdrasil's End was concerningly silent, and his eyes were worryingly empty. The Red Commander, for whom such emptiness was a default, had felt the first coil of dread in his heart at the sight of it, which was one of the reasons he'd tried to goad his opponent into speaking.
+
+He regretted it. Those eyes had only gotten colder.
+
+It was different from their records. Those said that Yggdrasil's End simply laughed at threats, bantered with the manic villains he encountered. He became angry only when the lives of the innocent were threatened. This was so different from any of their records that the Red Commander knew that unless something drastic changed, the Mind Revenant would be useless, too.
+
+He gritted his teeth. The latest spell from Yggdrasil's End had nearly flung him off the planet entirely, and only a quick blood spell had saved him; he was using his descent to try to plan, but how could he plan, when the End acted so different from every record they had? How could he counter spells he didn't know were coming?
+
+At least he knew the Distillery worked. He'd only managed to use it once, so far, but it was thrilling to see that their theories were correct. The Abyssal Ones represented some sort of gap in the End's defenses. The Red Commander had experienced a rare moment of true satisfaction and near-manic glee the moment that prismatic mana had been broken down and fed into his core.
+
+The taste was dizzying, far better than he hoped. It was more than any single mage could absorb, but that was fine. The excess filtered back through him and into the rest of the cult, and the knowledge that he had been useful was an even greater source of satisfaction.
+
+It wouldn't be enough to save him, though. Yggdrasil's End hadn't even seemed phased at his use of it, and had abandoned his use of barriers entirely after that incident, getting rid of even the thick, invisible barrier that constantly surrounded him. That might have given the Red Commander an opening had he not also adopted a speed nearly impossible to keep up with.
+
+The Red Commander snarled under his breath.
+
+Fine. None of this mattered. Yggdrasil's End would pay for his interference with the affairs of the Lower Branches, and no matter the magic he now had access to, the Red Commander couldn't die. He was more magic than flesh, his body a mere vessel for the flesh-shaping spells he used; even if Yggdrasil's End obliterated every last cell of his body, as long as even an iota of the mana core remained, he would be able to regenerate from scratch.
+
+And he had contingencies. Ones even the End wouldn't be prepared for. And now that he'd stopped using those barriers, the Red Commander knew exactly what to do next.
+
+The Tainted Marrow was the third of the relics he carried with him. It wasn't a counter for Yggdrasil's End, exactly, but it was a broadly useful artifact that would give him an edge against any other mage. It produced divine-grade Blood Orbs and stored them over time, functioning as a perfect complement to his blood magic—with it, he could match the mana quantities of even Yggdrasil's End, if only temporarily.
+
+Just enough to cast a spell he'd been saving for a situation just like this.
+
+It was a fifteenth-tier spell, the sort with the capacity to destroy an entire realm if it was used carelessly. The Red Commander had created it out of curiosity more than anything else, wanting to deepen his connection with the Empty Throne the cult worshipped. It had taken a continent-spanning ritual constructed out of the actions of over a dozen different teams of Red Hunters.
+
+The result, at the time, had been disappointing. The spell wasn't one he could use unless he intended on giving up on a realm entirely. The Red Commander had even thought of it as a misstep. Clearly, the Empty Throne was punishing him for his hubris.
+
+But perhaps it had merely been waiting. If he could use this spell to capture Yggdrasil's End, or even just kill him within range of the Soul Locus that was the fourth and final relic he carried, he would be celebrated by all the Lower Branch cults for the eternity to come.
+
+That spell was [Avatar of the Broken Throne], and the Red Commander cast it now as he descended through the sky toward the still form of the Fugitive Seal.
+
+Yggdrasil's End would have no defense against this. [Avatar of the Broken Throne] granted him flesh-shaping magic of the highest degree, blazing from him like one of those stars the End seemed to like commanding. The magic was empowered not only by the mana in the spell or the Blood Orbs sacrificed to it, but also by the Empty Throne itself.
+
+It annoyed him that the spell called it the Broken Throne, though. The Red Commander expected that insult, but it still grated. That the Gift would call the Throne broken was just one of its many sins. If not for all the benefits it granted, he would have attempted to destroy it the moment he'd learned that spell.
+
+The Empty Throne was not broken. It was simply waiting for the right king, and with this, the Red Commander finally had the chance to prove himself. The spell that enveloped him now embodied the sheer potential of the Throne and its reach, like a vision of what its king might one day be capable of.
+
+All within its range—everything, mind and flesh and stone—would belong to and fall under the influence of the Throne.
+
+[Avatar of the Broken Throne, Level 1] [Fifteenth Tier (Unique), Active] [120,000 Mana, 120 divine-grade Blood Orbs]
+
+Transform your flesh into an extension of the Broken Throne. The Broken Throne will exact its will upon any organic material within its reach, converting it into a further extension of the Broken Throne that may be freely manipulated by any of its Avatars.
+
+Any sentient organic creature fully transformed in this way, aside from the caster, has their will stripped away to become another Avatar of the Broken Throne. New Avatars are subservient to the original, but otherwise exert the same transformative effect.
+
+To invite the Broken Throne into a realm is to invite its end. Do not cast this spell, Once Named Olarran. That which was lost may still be regained.
+
+The loss of those Blood Orbs was nearly his entire supply and would undoubtedly hurt, but it was a fair price to pay for the defeat of Yggdrasil's End. The warning wasn't worth considering. The Red Commander had abandoned his name, and as far as he was concerned, he was no longer that snivelling coward. That was nothing more than a pathetic attempt by the Gift to appeal to a heart he no longer had, and it was far from the only one.
+
+Olarran had been a man frightened by the magic of the Throne. He had fought to destroy it, at first. Once he changed his mind, he had been among the first to sit upon it.
+
+Now the Throne and its power brought the Red Commander comfort and glee, and he would do anything for it.
+
+He dove for Yggdrasil's End, using the burst of power granted to him by the Empty Throne to navigate through the air much like Yggdrasil's End himself could. He could see the other mage was doing something strange, but it didn't matter. The spell was a rule, a domain imposed on all that surrounded him; it wasn't an effect that could be blocked by something as simple as a barrier or a ward, and even if it was, he had the Distillery. He could use it to break any barrier that got in his way.
+
+The Red Commander readied himself for the end of the End.
+
+Then he noticed that the human beneath him no longer felt human, and his mana no longer felt suppressed. In fact, it blazed out of every power of his skin, giving him the appearance of a creature made of pure mana.
+
+A god made of pure mana. Not a simple divine nor a god of the realm nor even a Monolith, but something that felt like it might have been greater than even Yggdrasil itself had once been.
+
+The Red Commander felt a strange flicker of uncertainty.
+
+Then that god flew up and punched him in the face.
+
+In any other situation, Cale might have enjoyed finally gaining the ability of flight. Torment's Shadow did not indulge in things as wasteful as enjoyment, however, and so he shot up to meet the Red Commander in complete silence.
+
+The blood whips that wrapped around his limbs turned to smoke on contact, unable to bear the sheer density of mana they were trying to constrain. Even the Red Commander's eyes widened with shock. At least, they did shortly before the Shadow's fist made contact with his face, at which point the impact slammed him into the upper floor of the Tower and popped an eye loose from its socket.
+
+His body tore through a wall, then a ceiling, then another wall, and the upper floors of the Tower of Babel began to collapse. None of the impacts were enough to stop him, though. He kept going, smashing straight into the mountain behind him.
+
+Torment's Shadow did not wait for the Red Commander to recover. It followed him past the Tower and to the mountainside, smashing a second fist into the divine-grade starsteel helmet the Commander wore with a bright flash of prismatic mana, and the starsteel bent under the force of the blow, even as it knocked the Commander through the rest of the mountain.
+
+A bright streak of corrupted magic followed him, almost as though it was unable to keep up. Torment's Shadow considered reworking its strategy briefly—it could tell that the Red Commander wasn't dead, despite the damage he'd taken. His body was shattered, and any piece of armor that wasn't starsteel had turned to dust, but even in that state he was healing.
+
+Torment's Shadow thought idly that there was something strange about that mana core. It was limited in how much mana it could hold, which was a great deal less than what Torment's Shadow commanded. But it seemed to bubble and boil in a way that no other mana core it had ever seen did, and mana poured forth from that disturbance like a spring.
+
+It wasn't the Red Commander's own mana, it was sure. The mana was likely coming from somewhere else, though the Shadow didn't know where. It wasn't sure it cared, either; all it meant was that the Red Commander would survive its next blow, and the next, and the next.
+
+A change of strategy might have been a good thing, in light of that, but the Red Commander was panicking. He didn't understand how his greatest spell was being so easily overwhelmed, and even if his face was hidden by his crumpled helmet, his mana was filled with his fear.
+
+Which was the least that the Red Commander deserved.
+
+Torment's Shadow hesitated for only a moment, but did not change its strategy.
+
+It lost track of how long the fight lasted, in fact. The Red Commander fought back, trying new strategies every so often, and the density of their magic warped the land around them. The Shadow fought to kill him, but its opponent was resilient to an absurd degree, healing from nearly every blow and injury. Even soul-based attacks didn't last, the soul itself healing from some outside source and one of the relics on the Commander's belt.
+
+It didn't matter. It would fight as long as it had to.
+
+Though it was unbeknownst to most, the continent of Aersheld carried a great many small villages in combination with the kingdom of Thyrahl. Thyrahl itself was a massive, star-shaped city built in the midst of the tallest of Aersheld's mountains, nearly impossible for most to reach on foot. In spite of that—or perhaps because of it—travel to the kingdom of Thyrahl was considered something of a pilgrimage amongst the villages of Thyrahl.
+
+Every year, those villages would select a handful of individuals to make the climb and reach the kingdom of Thyrahl. It was something of a coming-of-age ceremony, supervised by mountain mages whose spells could command both earth and altitude. It had been a full three hundred years since this tradition had started, and in that time, only a single individual had died on the journey, a hundred and twenty years ago.
+
+That individual had been a goat.
+
+Apparently, it had been about to consume some prickleberries when the shepherd taking care of it had called out for it to stop, using [Animal Communication] to ensure he was understood.
+
+And of course, instead of stopping, the goat stared at him and began to chew the prickleberries, refusing to break eye contact the entire time.
+
+It was discovered later that the goat had been rather badly sick—the sort of sickness that wasn't visible, but caused a great deal of pain, and was deep within its bones. When their best animal-speakers attempted to use their rituals to find out if there had been any mistake on the shepherd's part, they found only that the goat had decided to die on its own terms, and had chosen a form of death it had decided was funny.
+
+They'd held a ceremony after that, though no one was sure if it was a funeral or a celebration. The latter seemed like what the goat probably wanted.
+
+All of this was to say that the people of the many villages around Aersheld were close to the goat herds they tended, and the pilgrimage was meant not only to test the physical abilities of the would-be pilgrims, but their leadership abilities as well. They had to lead a herd of their goats up to Thyrahl with minimal assistance, at best accompanied by a younger sibling if that sibling wanted to come along. Those siblings could help, but would not be considered to have completed the ceremony, even if they succeeded.
+
+And this was the journey that the young spiderlings Adyr and Hesa were on when the still-blazing, wrecked body of the Red Commander slammed into the earth with enough force to crack the ground near the back of their herd of goats.

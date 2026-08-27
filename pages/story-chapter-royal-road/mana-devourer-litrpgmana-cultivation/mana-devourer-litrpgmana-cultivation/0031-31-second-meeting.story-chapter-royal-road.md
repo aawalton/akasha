@@ -1,0 +1,275 @@
+---
+id: f884b0f9-581d-5d7e-b678-a032c2a23fdc
+page-type-slug: story-chapter-royal-road
+title: "31. Second Meeting"
+slug: 0031-31-second-meeting
+partOf: mana-devourer-litrpgmana-cultivation
+position: 31
+ownLength: 3944
+unit: words
+publishedAt: 2024-07-21
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1726603/31-second-meeting"
+royalRoadId: "1726603"
+---
+
+“Hey, why are you here? Answer me.”
+
+“Come in and I’ll tell you,” Serena said, tapping the bedpost, eyes a bright amethyst. “You’re not just going to stand out there all day until I leave, are you?”
+
+“Grr…” Markus sauntered back into his cell, slumping to the floor, back against the wall. He didn’t look at her. “I’m having a pretty rough day. If you’ve got good news, open with that. I don’t wanna do the twenty questions routine.”
+
+“Alright, fine…” Serena sighed, lifting Ember off of her like she weighed almost nothing and placing the massive canine down beside her. She stood, crossing the distance between her and Markus in a blink. “I’m here for you. I made a decision, and I think we can help each other.”
+
+“Didn’t you hear?” Markus said, not looking all the way up at her, his eyes trained on the gold stitching around the hem of her white dress. “I had my contract bought out. I’m meant to just fight my fights and leave, apparently.”
+
+“Hah, what a load of shit.” Serena snickered, laughed. “You believed that?”
+
+“Fuck no. I don’t believe anything Drathok says to me.” He glowered, recent memories assailing him. He felt his nails digging into his palm. “You’re all fucked up in some way or another. Gods, demons. None of you give a shit about anything but yourselves. I’ve seen it over and over.”
+
+Serena nodded. “Yeah, you’re right.”
+
+Markus’ head tilted; he looked up at her.
+
+“What? You thought I’d get mad at you for tarring me with the same brush?” She shrugged, completely uncaring. “You’re right. Gods and devils have their own desires, and who gets dragged into their whims and conflicts? You.” She waved a hand in his direction, as if she were swatting a fly. “Not just you. All of you people. You’re the ones who suffer for it, the ones who fight for us, die for us. It’s selfish.”
+
+“And yet, even knowing that, you’re here to try and recruit me anyways?”
+
+Serena nodded, clasping her hands together. “Bingo.”
+
+“Fuck you.”
+
+He’d said it before his brain could even compute the words. He didn’t feel bad about it after.
+
+Serena blinked, then blinked again, then laughed. “You know what? With the week you’re likely having, fair enough. I’d prefer you hear me out first, but if you really just wanna rot in here with no recourse, then I’ll leave. I can respect when someone’s given up.”
+
+“I haven’t given up shit. I just don’t wanna work for you.” Markus pushed his palms against the floor, sitting up. “Why should I believe that you’re any different than the rest of the assholes I’ve had to deal with? I don’t know anything about you, and you’re not exactly doing a great job of defending yourself, either.”
+
+“Fine. Ask away.”
+
+“What kind of god are you? Why do you want me?”
+
+“Change. Transformation,” she shifted the hue of her eyes from amethyst to gold as she spoke, then black, then back to purple. “And I want you to be my Champion. An agent of my virtue.”
+
+Markus squinted at her. “The fuck does that mean, change? What even is that?”
+
+“All things within the construct shift and move, waxing, waning… velocity, motion, growth, entropy, order, and even the passage of time coalesce to form patterns, both repeating and wondrously new…” she tapered off, then clicked her tongue. “Some things move faster than others, faster than they should, and then yet others get fucked up and stagnate for longer than they ever should.”
+
+Markus felt his eyebrows knit as he attempted to keep up with the sudden shift, suddenly feeling as if he were talking to someone entirely new.
+
+“The universe requires change. It affords stability, renewal, and allows for once tarnished things to become great, for once perfect things to be replaced as the need arises.”
+
+Markus intervened before his mind split in half. “Okay, stop speaking in Old Testament. I never took a philosophy class and I don’t know what ‘coalesce’ means. Just tell me what you want. Plain English. Keep it simple.”
+
+“If you want answers, you’ll have to trust me,” Serena said, raising her hand out for Markus to grab.
+
+Markus looked up at her, and with a measure of strain to his knees, climbed back to his own two feet, ignoring her delicate hand in the process. He stared at her, looking down, their positions reversed, but still she held her hand out to him. Still he felt like the smaller one here.
+
+“I don’t trust you,” he said, hesitating, staring at her hand like it was a snake.
+
+“If I wanted to hurt you, I wouldn’t need to touch you first. I’m a god. You’re F Grade. Think about that before you refuse.”
+
+Markus gulped. He felt sweat beginning to bead on his forehead. He knew it was true. For all of their tricks, gods weren’t exactly secretive about the immense powers they held. He was in no less danger accepting her gesture than he was refusing it.
+
+And she was offering knowledge, information. Maybe he’d touch her hand and learn something new. He could only hope as much.
+
+He reached out and accepted, brushing against her soft fingers as the floor began to slip away beneath him, reality fading to black.
+
+…
+
+Markus gasped as he found himself touching ground somewhere completely different, stumbling forwards and falling towards the ground.
+
+He was caught in a sheen of protective magic, which moved him about and returned him to his feet, grass brushing against his shoes.
+
+He was stood at the top of a large hill, overlooking a landscape that might almost look human if it weren’t for the pink sky in the horizon, the floating towers in the near distance, and the hundred foot two-legged behemoth wandering the forests below, looking like some kind of tree-animal hybrid that towered above its own landscape.
+
+“Where are we?” Markus breathed, taking in the sights all around him, the sheer vastness of the scene that unfurled before him. With each second that passed, he found a new detail to marvel at. Snowy mountaintops in the distance, a lake that looked to cover an area the size of an entire town, paths that ran and wound up into the distance, gently swerving until they forked at the bridge of massive magical barriers that seemed to divide the magnificent landscape into precise segments.
+
+“This is Firrelia.”
+
+That took a second for Markus to take in. For all the time he’d spent in this world, he’d seen barely any of it.
+
+It was beautiful. It was breathtaking.
+
+It was terrifying.
+
+“Specifically, we’re at the edge of the Malar Zone, an F Grade area claimed by—hey, are you okay?”
+
+Markus snapped out of his own head, catching himself as he realised his hands were shaking. He tore his eyes away from the floating towers, centreing himself. “Yeah. Yeah, I’m fine.”
+
+“Didn’t feel real until you got out here for a second, did it?”
+
+“It’s not just that,” Markus admitted. “It’s…”
+
+He didn’t know how to say it. That he still felt lingering trauma from his experience with Randall, and being whisked out of that place reminded him of that same whiplash? That how little he knew about this world horrified him? That a massive part of him still just wanted to go home, and was horrified at the prospect of being dumped back into that arena once more?
+
+It’d been easy to rationalise his hell when he was stuck in it. Taking even a single step outside felt…
+
+“It’s nothing. Go on.”
+
+Serena held his gaze for a moment, then continued, pointing her finger. “This zone is controlled by Farros, God of Temperance, and within it lies a kingdom ruled by a king named Magul.” She narrowed her eyes. “His family took the throne six hundred years ago, which is around the same time Farros took control of this region.” She pointed a finger behind Markus. “Look.”
+
+Markus turned, walked a few paces, and over the top of the hill, he saw the beginnings of a desert sprawling down in the opposite direction, a clear white barrier that bled away around the roads separating this land from a giant sprawling city, a city which stood against a vast mountain, overlooking the entire area. It was bronze and gold and above all, grandiose.
+
+Flying zeppelins so huge they could be seen from miles floated in the sky, anchored in the city’s far end. At the head of it all stood a building that looked to be some cross between a castle and a temple, its reach extending far and wide, its architecture ancient and magnificent, polished and wondrous, a vast trapezium that could serve accommodation for thousands.
+
+“Magul’s kingdom bleeds into that zone, Materia, D Grade. There, sat at its centre, lies the jewel amidst the desert, Sun City.”
+
+Sun City… then that.
+
+“I hear your heart going. Yeah, that’s where you’re kept.”
+
+She grabbed him, and in a flash of motion, they were both stood atop a tall tower in the centre of the city. Markus gasped, wobbled, but once again, didn’t fall, his body held up by strange magic that served to keep him perfectly balanced.
+
+“There, specifically.” She pointed to a large circular building that might’ve resembled Earth’s Colosseum if not for both its increased size and the fact that it sat partially embedded in the mountain, only two thirds of its circular shape visible from the outside.
+
+Markus gulped. “It’s so fucking huge…”
+
+“Yeah, and you’re one of the main attractions right now. Funny, because you’re so small.”
+
+“Last I checked, you were smaller,” Markus muttered, retaining his autonomy as best he could as he was pulled further from rationality with each passing second.
+
+Serena glanced down at herself, as if she was just noticing. “I guess you’re right. Anyways… gotten a good look?”
+
+Markus nodded. He could already anticipate what was coming next. He braced himself for the next jump…
+
+…he hadn’t anticipated this at all.
+
+Markus’ feet fought to find purchase on the ground, but there was no ground to hold him. He was floating, his body so far above that he could scarcely breathe, wisps of cloud billowing around him as he fought and struggled against the hold of ethereal, mind-bending magic.
+
+Serena touched his shoulder. “Relax. You’re fine. You look like a fish out of water.”
+
+Markus realised he was trying to literally swim through the air and attempted to relax his body. It was more than difficult.
+
+“Try breathing. Try walking around.” She smiled. “Just forget what makes sense for a moment. I find that’s the best way to get accustomed to this.”
+
+Markus attempted to do as suggested, but it was too hard. He managed to breathe, just about, but the prospect of walking on air seemed to escape him entirely. Any attempt he made to do so ended in him flailing and falling in place, even when he tried to incorporate [Meditation] to calm his motions. This was simply too much. Too alien for his brain to conceive of.
+
+Eventually, Markus settled for sitting cross-legged, floating in place, and his mind seemed to be satisfied enough with this that the vertigo stopped.
+
+He stared out, his eyes bugging as he began to realise just what he saw.
+
+The entire world within his sight was separated in the same way he’d seen from the hill, endless zones spilling out into the distance with barriers sat around them of purple, red, green, orange, yellow, white, and brown, all of them of varying shapes and sizes, overlapping in places, but mainly used to segregate different regions below, from greenland to savannah to desert to rocky krags and even the seas and isles beyond.
+
+“It never used to be like this,” Serena said, sitting in the air beside Markus. “Each of these areas now represents a god, a virtue, a ruler they’ve imposed, and another part of their grand, collective agenda, imposed by the worlds above.”
+
+“What does any of that mean?” Markus asked, staring out at the kaleidoscope before him, pushing down nausea. “The world never used to be ruled by gods before?”
+
+“Gods always played a part here.” She sighed. “They worked in conjunction with mortals. They fought for their own agendas, their own truths, their own place on the cosmic scale that ranks and decides everything.” She paused. “There are eleven worlds here, Markus. I could take you to the edge of the atmosphere and show you, if you’d like.”
+
+“I think I’ll pass for now,” Markus said, almost retching at the thought of being thrust into space. “What good would showing me do, anyways?”
+
+“I just wanna give you perspective. Firrelia is the lowest ranked world of them all, but this wasn’t always the case. In the tournaments that decide the rankings of planets, that decide their value on the cosmic scale, Firrelia has had the worst showing of any planet for centuries. That result is by these gods’ designs. Do you understand what I’m saying to you, Markus?”
+
+Markus needed a minute to piece all of it together. “Rankings…” He thought hard about what she was saying. Really tried to visualise it. “You’re saying that Firrelia’s one of eleven worlds, and all these worlds get ranked by some kind of tournament. Only… Firrelia intentionally throws during every tournament?”
+
+“Precisely that,” Serena nodded. “If Firrelia never places above last, they never advance. The gods that rule this planet continue to rule unopposed, and the higher powers that put them in those positions continue to control Firrelia from above. Hence, Firrelia continues to be a horrible, disgusting shithole filled with corruption, vice, death, and destruction, unchanging, for now and forevermore.”
+
+“Right…” Markus thought he understood. Somehow, these tournaments dictated the power structure of the worlds. Because they never shifted, the same gods remained in charge down here. Because no one else could oppose them, the status quo remained, and the issues for the planet’s residents only became worse.
+
+Markus blinked, and he found himself touching grass once more, though this time from the seat of a wooden chair. He was sat in a garden, a table before him, a large tree standing sentinel over the pair of them as birds chattered and argued about the branches above.
+
+“Sorry. You looked like you were going to be sick.”
+
+“I still might be,” Markus admitted. He rubbed his head. This was a lot to suddenly take in…
+
+“So, these tournaments. What even are they?”
+
+“Gods use Champions to fight in their tournaments. Champions are more than disciples or servants. They’re beings chosen to exemplify the might and virtue of a god, gifted with divine benefit, though that benefit is limited to the strength of the being and the strength and connection they hold to their god.”
+
+“Why don’t the gods just fight each other?” Markus asked. “Would everything be wiped out?”
+
+“That’s a longer answer than I can explain right now. The easiest way to put it is that no god wishes to put their life and virtue on the line, not when a mortal could in their place.”
+
+“Okay, so you all just hide behind others rather than risk anything. Got it.”
+
+“It’s not that simple,” Serena said, shaking her head. “Losing a Champion is a powerful blow to a god’s spirit. They’re an extension of a god itself. More expendable to some than others, but important either way.”
+
+She looked at him, her eyes serious. “Each Firrelian Champion is slated to lose every tournament that occurs. They only exist to enforce their gods’ desires on Firrelia and sometimes to be used on other worlds. They make the whole world here as terrible as you’ve known it to be. Evil, self-serving, greedy, impetuous… and those who don’t actively participate in the carnage actively enable it.”
+
+This was a lot… an interplanetary conspiracy to control every world beneath the highest one and lock them in a cycle of evil and tyranny… “And what happens if someone tries to fight back against that?”
+
+“They’re cast down. The other gods turn on them. Their powers are stripped away…”
+
+Serena stood, then, and started to pull down the front of her dress.
+
+Markus averted his eyes by instinct, but she stopped right above the collar, revealing what looked to be something between a tattoo and a dark, discoloured scar. “I tried to stop things once already. I confronted the ones who started this shit, demanded to know why. When it came to it, I fought. I lost. I’ve been down here in Firrelia, laying low, trying to rebuild my strength ever since.”
+
+“Because you wanna change things?”
+
+“Because I wanna tear down the fucking heavens,” Serena spat. She sighed, pulling up her dress. “That said, change starts at home. I wanna carve out a new Firrelia, one that can challenge the higher worlds. I think the people of this world deserve it, and they could use a change in management.
+
+“And that,” she finished, “is why I want you. Be my Champion. Help me tear this place down. Rend the filth and corruption from this world.”
+
+“...why me?”
+
+“I don’t understand the question.” Serena scratched her head. She squinted at him. “You know what you are, don’t you?”
+
+“Yes, I’m a Mana Manipulator, I’m very aware of that,” Markus growled. “But why me? Why am I the solution to everyone’s problems, the thing that everyone wants to badly? What makes my powers so special, and why the fuck do I even have them?”
+
+“All life came from Firrelia. Some of the earliest forms of life were crafted by gods themselves. It’s thought that those with the highest attunements to mana are descendants of those created by gods. I can’t say. I wasn’t there.”
+
+She threw her hands up. “All I know is that mana is like the source code of the universe. Those who can fully wield it can all but rewrite reality. They have the potential to become godlike in their own right. What you are is extremely rare, Markus. It’s a gift. A gift that will allow you to become a legend. An agent of change, of justice.”
+
+“And you want me to make a deal with you… how would that even work?”
+
+Serena smiled. “You’re open to the idea, then?”
+
+Markus frowned. “Don’t get ahead of yourself. You’ve thrown a lot of shit at me in the last five minutes, and I’m still trying to wrap my head around it. I’m not even sure if I believe you.”
+
+“Well, for better or worse, it’d work like this.” Serena extended her hand, a glowing circle beginning to appear on her palm, filled with intricate texts of an ancient script that Markus couldn’t quite understand, though he intrinsically felt as if he almost recognised.
+
+“As my Champion, I’d require that you serve my cause. I can’t buy out your contract. However, I would give you a small portion of my power. With my control of the system, I’d be able to grant you quests. Completing those quests would grant you rewards, which would in turn strengthen us both. The more of my agendas you managed to fulfill, the more power I could grant you, and the further the two of us might grow.”
+
+“Hmm…” Markus almost liked the sound of it. He wasn’t supposed to make a deal with a god. He was supposed to finish his fights and leave, feeling like a pendulum was hanging over him the entire time as he definitely didn’t think that was how things were slated to work out.
+
+Markus agreed that this world was fucked up, at least for what little he’d seen of it. But what Serena was talking about was fucking insane. She wanted him to be a weapon on such a massive scale that it’d change the fate of entire worlds.
+
+And Markus just wanted his freedom. Not to be bound to another cause. Not to fight gods and die trying to change things that likely couldn’t be changed. Not to travel the path that had almost gotten her, a literal god, killed in the process when she’d tried to change it…
+
+If what she was saying was even true. She could be just like Maxen. Or any of them. Gilded words and silver tongues, just for them to reveal a nastier, uglier side of themselves the second they were no longer satisfied.
+
+Did he really want to bind himself to someone who could give and take from him on a whim, someone who would expect him to follow their cause, someone he didn’t know and didn’t trust, and wasn’t even offering him freedom from his own contract? Even the asshole gods from before had been able to at least give him that. What would he gain from allying himself with Serena? Even more enemies? Hope that he wouldn’t be fucked over yet again?
+
+Markus grumbled to himself. “Is this deal conditional on me agreeing to help you with your conflicts? Will you order me around? Tell me what to do and when to do it?”
+
+“Working to complete your quests will be mandatory.” She nodded, her face stern. “As of now, yes, that’s the deal I’m willing to offer.”
+
+“...okay. No deal.”
+
+“I promise not to abuse your trust,” Serena said. “We want the same things.”
+
+Markus could feel a lump forming in his throat. He hated this. “A promise from a god doesn’t cut it. If you’re gonna tie me to mandatory quests, then no deal. I don’t wanna owe you anything.”
+
+“...I understand.” She sighed. Rested her head in her hand. “Fucking sucks, but I get it. You have unlimited potential. I’m not sure if I can trust you either. So no, I’m not willing to budge on this.”
+
+“I wanted to,” Markus said. The wind whistled against the trees. The birds were silent and still. “I almost said okay.”
+
+She didn’t respond for a while. Just allowed the pair of them to sit in the garden. The tranquility was overshadowed by consequence, by anticipation.
+
+“I have to put you back soon,” Serena said. “Your contract will compel you to appear at your next fight. You’d walk until your legs stopped working.”
+
+Markus sniffled. “Yeah… I’ve gotten bored of this place. We can go whenever you’re ready.”
+
+In a flash, Markus was returned to his dark, dingy, torchlit cell. Ember was nowhere to be seen.
+
+“I hope you can save yourself, Markus,” Serena said, squeezing his hand for but a moment as the teleportation faded. “If you do change your mind, I’ll be here.”
+
+With that, Serena turned to leave, only to heel face turn at the last possible second.
+
+“Oh! One thing.”
+
+Markus was once again splashed with cold, rejuvenating water that cleansed his entire body and dried before he could even feel shivery, his body immediately warming back up as any blood or dirt on his body completely evaporated.
+
+“That’s all. See ya.”
+
+And like that, Serena teleported away, leaving Markus shaking, trembling, and clutching at the empty space where her hand had once been.
+
+For a full minute, Markus didn’t move. He barely breathed. His heart thundered against his chest.
+
+Then, Markus sighed, steeled himself, clenched his fist, and marched over to Cyrus’ cell, knocking on the bars with the handle of his glaive.
+
+“Hey. You need something?” Cyrus asked.
+
+Markus needed a lot of things right now. Unfortunately, despite the many answers that came to mind, he pushed all else away, and only one word came out of his mouth.
+
+“Training.”

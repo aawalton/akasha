@@ -1,0 +1,193 @@
+---
+id: 8735bc8f-b6c1-5fbf-aa91-ca475dbb5d18
+page-type-slug: story-chapter-royal-road
+title: "139 — Book 3, Chapter 38 — In the Fog of Possibility"
+slug: 0142-139-book-3-chapter-38-in-the-fog-of-possibility
+partOf: just-add-mana
+position: 142
+ownLength: 3446
+unit: words
+publishedAt: 2026-05-23
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3436042/139-book-3-chapter-38-in-the-fog-of-possibility"
+royalRoadId: "3436042"
+---
+
+A few subjective hours ago, Damien sat in one of the motel's seemingly endless supply of rooms, nursing a headache. This particular room was thankfully not occupied by one of the many strange residents of the Fog, which meant he had the time to really sit down and bemoan the loss of his previously headache-free existence.
+
+"I didn't even know dreadshades could get headaches," Flia said, rubbing his back sympathetically. "Not counting the magically-induced ones, I mean."
+
+"We can't, but I'm pretty sure just existing around Cale supersedes that rule," Damien grumbled. Flia chuckled and hummed with agreement, which, strangely enough, made him feel better. She understood what he was going through, at least.
+
+Not that Damien would have given up his apprenticeship with Cale for anything. He would've endured twice as many headaches if it meant he could see and learn as much as he had over the last month. As far as he was concerned, the occasional headache was a small price to pay.
+
+"Managed to figure out whatever it is they're trying to tell us, yet?" Flia asked.
+
+Damien shook his head. "Not yet," he admitted. "I feel like I'm close, but..."
+
+He trailed off, and Flia nodded in understanding. The so-called classes they'd been having were abstract and borderline incomprehensible, filled with explanations of bizarre facts that couldn't possibly have been true. Some, at least, contained useful albeit esoteric magical knowledge. Others were barely classes at all, and were "taught" by strange entities that seemed excited to meet them more than anything else.
+
+That last category of lesson was the only reason Flia wasn't more frustrated than she already was, he knew. Many of those entities had equally strange creatures with them as pets, and they allowed Flia to play with them while they spoke.
+
+This worked fantastically well as a bribe, to Damien's amusement. Flia's affinity for magical creatures hadn't changed, despite their circumstances; she had admitted to him that a part of her loved getting to know and understand so many different species.
+
+That didn't mean that she wasn't getting increasingly frustrated by the cryptic nature of their classes, though, and Damien truthfully felt much the same way. The only difference was that Flia thought their time was being wasted, and Damien was certain that there was a point to all this.
+
+There was a strange, aching familiarity to many of the things they were being taught, like he'd heard all of it somewhere before. That should have been impossible, considering when and where they were, but Damien was used to having his idea of reality restructured by now.
+
+He'd learned from Cale that if something impossible happened, the best question to ask was not how it had happened, but where he was wrong. What assumption was he making that made this seem impossible?
+
+Damien didn't know yet, but he felt like he was close to figuring it out.
+
+"Let's just head to the next class," he said with a sigh, pulling himself to his feet. "It should be our last one before we meet up with Cale, right? I might be able to brainstorm a bit with him."
+
+"That's what Ashvali said." Flia was frowning—she'd made it clear that she didn't quite trust Ashvali. "If we don't, we'll have to find a way to get there on our own. One of these doors has to lead somewhere close."
+
+Damien nodded. They'd discovered in their exploration of this place that every other door seemed to open up to a different realm, and perhaps to a different time entirely; neither of them had the spells to check the latter, but there were few other explanations for the doors that seemed to lead to the same realm, decades apart.
+
+That had been enough for them both to decide not to mess with the alternate doors, really. Neither of them were interested in messing with the history of a realm, and whatever else this place was, it seemed to enable it. Worst case scenario, though, that might enable them to find and rejoin Cale and the others.
+
+Damien would prefer not having to rely on that, considering how much trial and error it would take. Besides—and he could admit this was strange—the same way he was certain there was a point to all these lessons, he was oddly certain Ashvali was trustworthy.
+
+Not that he minded that Flia didn't agree with him. One of them needed to watch out for any tricks.
+
+At least his head was feeling better. Damien took a deep breath, and together, they made their way to their final lesson.
+
+The good news was that the classroom appeared to be a conventional one, remarkably similar to Brightscale Academy's own lecture halls in size and appearance. Damien was grateful. He didn't know if he could have handled another lesson within a tiny bubble at the bottom of the ocean, which was what their last classroom had been.
+
+Their current professor was named The Coming of Tides, and like many of the other entities they had met in the fog, he was a bizarre amalgamation of concept and physical reality. Looking at him produced the distinct impression of oceans moving and continents shifting, of the inevitable march of progress.
+
+Flia took one look at him and wasted no time in asking him rather directly if he was one of the Monoliths, or some sort of precursor to them, and The Coming of Tides laughed. "I am not," he said. "They are Law given Form, and I am merely an Idea given Substance. I thank you for the compliment, however."
+
+"Are there a lot of you?" Flia asked, ever-curious about the different species they encountered.
+
+The Coming of Tides pondered the question before answering. "We are many and we are few," he said. "We are those who remain in flux until your time here is concluded. But know we do not begrudge your choices, whatever they may be."
+
+"That's unnecessarily ominous," Flia complained, and Damien held back a snort. She wasn't wrong. "If you just told us what's going on, we'd be able to help."
+
+"Perhaps," The Coming of Tides agreed. "Or perhaps the knowledge would make you second-guess yourselves. We are giving you all we can, in the hopes that you will preserve us—but ultimately, the choice is yours. Such is the nature of this magic and of the burden we have chosen to carry."
+
+"That wasn't any less ominous," Flia grumbled.
+
+The Coming of Tides chuckled, but did not elaborate. Instead, he smiled at them, or at least conveyed to them the impression of a smile; despite all the time they had been talking, Damien still could not determine if he had a physical body at all. His mind told him he saw something where The Coming of Tides stood, but the memory slipped as soon as he tried to capture it.
+
+"Let us begin our lesson," The Coming of Tides said. "I will speak of the cracks you find in the Great Realms, and how you may take advantage of them..."
+
+They knew of the Great Realms.
+
+Damien didn't know why that had taken him so long to notice. Maybe because that was the default, as far as he was concerned. It would be stranger if anyone he met didn't know about the Great Realms. But they had learned now that the time they were in—the era in which the Bitter Path took place—was far in the distant past, before even the age of Yggdrasil.
+
+The Great Realms should not have existed yet. Yet The Coming of Tides was very clearly aware of what they were, and if they took him at his word, then he also knew of cracks in the foundation of the Realms themselves.
+
+Thinking back on it, while not all of their teachers had mentioned the Great Realms, it seemed clear that they all knew about them. Each one had made an off-handed comment about something that should have been exclusive to the modern structure of the cosmos. Each one had known that they were strangers to the Fog, unfamiliar with its rules.
+
+And each one had warned them of at least one thing that could not be done here: to never walk off the path, to never partake in food not directly offered, to never sleep without a barrier, lest their dreams leak into the unrealized potential around them.
+
+At the time Damien had taken it simply as the warning it was intended as, but now he wondered if it was part of another message. They knew of the Great Realms, and Ashvali was clearly associated in some way with Time itself. Did everyone in this strange motel know something of the future?
+
+If so, what did Damien and Flia have to do with it? None of their teachers so far had seemed surprised about either of them being there, and there was clearly a reason they'd each been called. At the very least the residents of the Fog had somehow been prepared for both of them, given how many of their classes involved some variety of magical creature Flia could learn about.
+
+Damien tried considering it from a different angle. Why would anyone want the two of them here? Flia's presence made sense: the Fog was in some way an ancient version of the Abyss, and perhaps her affinity with the latter gave her some ability to navigate the former. She certainly seemed to possess some intuition for it...
+
+...and she'd also admitted to having made some progress with creating her first drop of palewater as a result. Damien frowned. He wasn't exactly sure how that worked, though meeting a great variety of magical creatures seemed to have something to do with it.
+
+That couldn't have been why he was here, though. He'd gained no such benefit.
+
+It had to have something to do with that odd sense of familiarity so many of these lessons gave him. Maybe it was something only he could notice, or some knowledge only he had... it wasn't like everything here was familiar, after all. It was just enough that he couldn't simply dismiss it out of hand.
+
+Why would he be familiar with any of this?
+
+He hadn't even known that humanity was gone until Ashvali had told them, and his heart ached for his mentor, who had had to endure what must have been a painful loneliness all this time. It was a loneliness Damien was familiar with, but at least Damien knew that his father was out there somewhere, even if he didn't know where.
+
+Cale, though... Cale couldn't even talk about it. He had to endure everyone he knew and loved talking about him and humanity as though they were not only present but common, as if they were a weak species to be belittled throughout the Realms.
+
+Without the obfuscation effect, it became suddenly clear just how prevalent that thought had been. There was an intrinsic assumption that humans were a weak, low-magic species. Their greatest trait was their ingenuity and ability to adapt, but nowhere in his memories did any of them seem exceptional. Cale, perhaps, but then Cale didn't really count.
+
+There had to be a reason for that. There were plenty of species across the Great Realms that had gone extinct, and none of them had had that erasure censored the way humanity had. Someone had done this, but why had they done it? Why was it that the Great Realms couldn't know that humanity was gone?
+
+Or perhaps it wasn't the fact that they were gone that was being censored. Perhaps that was covering up a lesser detail, like humanity's supposed unexceptionality. Had humanity perhaps been responsible for something great, after all, and the effect was there simply to prevent the Realms from remembering what they'd lost?
+
+It seemed to Damien that it was unlikely he would uncover some secret that Cale had not over eons of searching, yet he couldn't help the feeling that something about all this was—relevant? Not quite the right word. Nor was familiar. Rather it felt like it was something he ought to know or had already known, only to have that understanding taken away from him.
+
+But his only locked memories were the ones related to his father.
+
+(Part of him noticed that The Coming of Tides was watching him, his expression suddenly sharp. Part of him understood that this had been the point, that it was the reason he was here. Something strange seemed to be happening to his mana core; it felt almost like a gate had opened within it.
+
+Almost instinctively, he began to cycle his mana in a basic palewater exercise, and this time, Cale's intent responded to him and moved.)
+
+Was his father involved with this, somehow? How?
+
+Damien's mind spun. He still couldn't grasp directly at his memories of his father—some part of the seal had been part of the Great Realms, and that had loosened when they ended up here in the Fog, but the rest of it was still there within his mana core.
+
+There were other memories he could grasp at now that the seal was loosened, though.
+
+Why does so much of this feel so familiar?
+
+Many of these so-called lessons had been incomprehensible, but in the midst of them Damien was certain he was catching glimpses of something. Tradition. Culture? Not a culture that matched anything he knew of, and yet the memories came to him like they'd been waiting for him to remember.
+
+One of the residents was a strange, glimmering fractal of light, and it had spoken to them of a haunting tune that could enslave the mind. Chimesprites, Damien thought, the word coming to him from nowhere. A species so weak that they could only exist and be perceived within music, and for whom music was their only defense.
+
+Another was a lake creature who had spoken of pictures that could capture souls. Vessels, Damien thought; just as fragile as the chimesprites but with a different vulnerability. They were a species whose forms were so fragile that any image or recording of them was liable to capture them whole. They were especially vulnerable to any form of scrying magic, for that scrying magic could pull them straight into the crystals and trap them.
+
+The man-in-the-woods spoke of a being summoned only through mirrors. Cursed mirrors, Damien knew; per their namesake, they inhabited mirrors that were often thought of as cursed, and could interact with the world only when their names were called. Often their time trapped in the mirror would drive them insane, unable to comprehend a world of sound and dimension.
+
+Painful existences, each of them. Powerful in their own right, of course. They were not without their strengths. Chimesprites had learned to exist as infectious music, hummed under the breath, and that alone gave them the ability to spread and reproduce at astonishing speeds until they infested any place they desired.
+
+Vessels had developed the ability to take over the crystals they were drawn into, absorbing any magic placed into it for themselves and replacing the image with whatever they wanted the scryer to see. They were excellent spies that could plant misinformation at a moment's notice—there wasn't a scrying spell in the Great Realms that was ready for them.
+
+Cursed mirrors were traps. Even among their allies, they were often used as a weapon, a role they understood and accepted with a grim determination in their few lucid moments. They could not exist in the world, so they were willing to use their existences to shape a world in which others like them in the future could exist.
+
+They could spread without warning into any other reflective surface, and once all the mirrors in a target location was primed...
+
+All it took was a name to call them. A single word to shatter a thousand mirrors and unleash a thousand beasts into any location, each mirrored and duplicated from one another. How could any place be safe from such an attack? Reflective surfaces could not be entirely removed—even without mirrors, there were windows, the gloss of the tiles, the reflections from a stale puddle of water.
+
+And lacking any of those, there were the eyes of many mortal creatures, with just enough of a shine to be a target.
+
+"Damien?" Flia asked, concerned, and Damien jerked to attention as he realized he'd withdrawn into himself. Curled up more than he'd intended, began breathing heavily in a way that indicated he was about to have a panic attack. Flia had placed a hand on his back without him even noticing.
+
+"I'm—I'm fine," Damien managed after a moment, his voice emerging more cracked and sore than he expected. Apparently he'd been making noises, too. "Sorry about that."
+
+"You're clearly not fine," Flia said, sitting in front of him. The Coming of Tides was gone, Damien noticed. Instead, a strange door hung a foot off the air in front of them, practically beckoning at them. "What's wrong?"
+
+"It's nothing," Damien said, and then at Flia's exasperated look, he sighed. "It's... too difficult to explain, I don't know. I'm sorry. I'll try to explain it later?"
+
+"Promise?" she asked, holding out her pinky finger.
+
+Damien stared at it. "I'm not a child," he protested.
+
+"No, but I know you well enough to know you'll feel bad if you break a pinky promise." Flia grinned at him.
+
+Damien groaned out loud but accepted it, reaching out to grasp her finger with his own. "We shouldn't have let Cale teach us his human traditions," he grumbled.
+
+"Eh, you wouldn't have it any other way." Flia helped him to his feet, and Damien nodded in agreement. That was true. He might not have understood at the time that Cale was the last—or almost the last?—of his kind, but he'd certainly been able to tell how lonely his mentor was.
+
+"We should..." Damien glanced briefly at the door. "Um. I think time is a little weird here. We should try to work on palewater while we can."
+
+Flia glanced at him, then turned to the door and frowned, thoughtful, thoughtful. "Ashvali said we'd be joining Cale now," she said. "You think we'll end up joining him the exact moment she intended, no matter how much time we spend here?"
+
+"It probably shouldn't be too much?" Damien said. "But, um, yeah. That's what I think, anyway."
+
+"Worth a try," Flia decided. "I want to get back to them as soon as possible, but I feel like we're going to need every advantage we can get, considering..."
+
+She trailed off, gesturing, and Damien understood what she meant.
+
+Something had happened a while ago, between their classes. Whatever that something was, they were both certain Cale was involved with it, mostly because the sheer scale of it boggled the mind.
+
+Frankly, the memory of it alone was enough to bring on a splitting headache.
+
+For a brief moment, everything around them had vanished. The motel and the "room" they were in at the time disappeared, replaced by the endless fog they'd seen when they were first pulled into this place. For a moment, the floor beneath them was once again asphalt—a word he'd only just learned when Ashvali casually dropped it—and for a moment, the roads branched out in front of them.
+
+And then the sky cracked.
+
+Water poured in. Flia gasped sharply, her hand clenching around his as the Abyss suddenly flooded into the Fog; Damien felt the crash of two different powers railing against one another, more intense than he'd ever felt before. The two of them were caught in the middle of that struggle, thrown about in the waves like little more than a pest in a tornado.
+
+Then the waves of the Abyss froze. They retracted from the Fog, pushing away until they formed a wall an impossible distance away, and there they seemed to seal the cracks they had created. Neither Flia nor Damien knew exactly what had happened, but they both knew they had witnessed something significant.
+
+At the same time, they knew they had gained something significant.
+
+...Other than trauma.
+
+It was knowledge, in a way. One did not witness the clash of two cosmic forces without it leaving an impression, and often that impression was some inkling of the truth—a picture of the cosmic workings that underpinned the universe.
+
+Strangely enough, Cale's intent responded to it. Damien supposed it made sense. Cale was a sucker for cosmic knowledge.
+
+That would almost certainly be enough to get them the rest of the way to manifesting their first drop of palewater.

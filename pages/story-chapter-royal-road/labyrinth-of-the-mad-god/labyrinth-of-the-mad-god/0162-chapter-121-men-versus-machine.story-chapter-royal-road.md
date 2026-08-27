@@ -1,0 +1,77 @@
+---
+id: 1050edb9-e1b2-574b-a8ec-5aa8a02d728d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 121: Men versus Machine"
+slug: 0162-chapter-121-men-versus-machine
+partOf: labyrinth-of-the-mad-god
+position: 162
+ownLength: 1636
+unit: words
+publishedAt: 2025-04-25
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2230894/chapter-121-men-versus-machine"
+royalRoadId: "2230894"
+---
+
+150 feet. Come on, Pax. Don’t let me down. Just when Nick was certain that he had found a spectacularly dramatic way to kill himself, the crimson forcefield flickered and then faded away. He let out a shuddering sigh, but his ordeal wasn’t over yet.
+
+He had almost reached the machine mounted to the ceiling, but his momentum had begun to slow. More critically, despite Devin’s remarkable launch, Nick was off target by about fifty feet. I’m so close, but I’m not going to make it. He only had a few seconds to make his move before he sailed out of range. Fortunately, he had already come up with a way to adjust his course.
+
+The instant that he realized he was in trouble, he pulled out his wand and aimed it as carefully as he could, praying all the while that this would work. If it didn’t, he wasn’t going to walk out of here with those pills after all, not to mention his life.
+
+One quirk of his wand was that it completely blocked the kickback when it fired, so he couldn’t just use it as a booster engine. Instead, he flipped the shaft around so that the business end was pointing at his chest.
+
+Then, for the first and hopefully last time, Nick pressed the trigger and shot himself with his own wand.
+
+Blam. It felt like he’d been slapped by an angry ogre as he took the blast head-on, aiming the cone of force so that it caught him dead center. The wand was torn from his grip by the incredible impact, altering the angle of his ascent. It fell toward the ground far below, but he didn’t have time to worry about it now. The ceiling was coming up fast, and he only had one chance to get this right.
+
+Nick reached out, almost flying past the scaffolding before his fingers wrapped around a metal bar. Then he grabbed on tight and rode out the shockwave rippling throughout his body. It hurt like hell to stop his momentum cold using the power of his arms, but he had enough Strength and Toughness to pull off the maneuver without breaking his bones in the process.
+
+With a groan, he pulled himself onto a narrow walkway running in front of the big bank of machinery, keeping one hand on the railing to keep his bag from pulling him away. He ran his eyes across the complex device, trying to figure out what he needed to do next.
+
+That was when the voice of the Administrator rang out, and this time, Nick could tell that the entity in charge of the challenge course was pissed. “Intruder detected. Employing lethal countermeasures.”
+
+He sensed an incredible volume of mana coalescing in the air in front of him—even more powerful than the Janitor’s force cannon. In that moment, he knew. Nothing he could do would let him block or dodge the attack. When the spell finished forming in another few seconds, Nick was going to die. It was as simple as that.
+
+Half a heartbeat before the lethal manifestation erased him from the multiverse, a jolt of electricity ran across the machine, buzzing and crackling as it discharged into the crystal-studded device. When it did, the spell fizzled and fell apart, leaving only the scent of ozone behind.
+
+As Nick knees went weak with relief, Pax’s voice reached his ears once more—like she was standing right him. “Great job, Nick. I knew you had it in you. We only have a few seconds before the Administrator recovers, so listen carefully. I need you to locate the control mechanism. It’s a big green crystal embedded into a silver cube.” He frantically scanned the maze of machinery, until his gaze landed on the component in question.
+
+“I see it.”
+
+“Good, now break it. Smacking it with a weapon won’t cut it. You need to use something that can penetrate steel.”
+
+Nick gathered his will, and a ball of churning force coalesced between his hands. Piercing Ray. He packed as much mana into the spell as he could, then sent the drill bit streaking for the crystal. It landed on target and started to spin, but nothing happened. Nick cast a second ray for good measure, adding its power to the first. But still, the crystal resisted his attack.
+
+He was afraid that it wasn’t going to work after all, when the gem abruptly gave way, shattering into fragments just as his second spell ran out of juice. The instant it did, he reported his progress to Pax. “Great. Now pull out the crystal chunks and look for the controller below. It’s a bunch of copper spikes set around a golden sphere, deep in the heart of the machine.”
+
+Nick pulled out the jagged shards, absently tossing them into his pack as he followed Pax’s instructions. “I see it.”
+
+“Use your Mana Darts to drain it completely. Hurry, we’re almost out of time.”
+
+Nick didn’t hesitate. He shot the controller with his silver darts. Once, twice, and then a third time. But the machine was still running. He only had enough mana in his core for one final dart, so he packed every scrap of his reserves into the spell while bracing himself for a bout of mana sickness.
+
+When the magic missile sank into the metal, the entire platform shuddered and then everything went still. The Administrator’s voice and the humming of the fans fell away, leaving velvet silence in their wake.
+
+A few seconds later, the world flashed white. The meteor-filled sky vanished, leaving him standing in the same empty room he’d started off in.
+
+“Fantastic, Nick. You did it. You should have a few hours before Rizzen sends someone over to make repairs. I only have thirty seconds of power left on our transmission, so listen closely and do exactly what I say. I should be able to contact you again once you finish this floor, and we can discuss everything at length then.
+
+“There’s a way to unlock a hidden bonus for the Fate of Earth quest chain. It will take your species reward package past the stated maximum of platinum and all the way to diamond. Your people need it if you want to survive what comes after you reclaim your world and become full citizens of the Labyrinth, and the two of you are the only ones who are in a position to unlock it.
+
+“Here’s what you need to do. First, examine the base of the machine. There should be a receptacle for the Species-Experience Pills. We ordered it to dispense them while we were hacking the shield. Eat one each, and then head for the stairs leading to the next floor. They should be visible now that the trial is over. Before you climb them, tell the System that you want to turn in your voucher to visit a certified crafter, instead of traveling to the communal safe room.
+
+“You can finish absorbing the pills and complete your evolution while you wait for your new gear. I’ll arrange for Devin to tag along with you, although he won’t be able to interact with the crafters. If you leave now, you can gear up and finish your evolution in time for the battle with the guardian on the roof, although it’s going to be close. You just hit level 25, but don’t pick your new class until your evolution is complete.
+
+“We will talk again when you reach the craft world. Hurry, there isn’t a moment to lose. The fate of your people and your planet is in your hands. Good luck, Nick. I’m rooting for you.”
+
+With that, Pax’s voice faded away. He hadn’t checked his updates and was thrilled to learn that he could finally pick a new class, but Nick didn’t have time to think about it now. He trusted her claim that time was of the essence. Instead, he started looking for the part of the machine where the pills were stored.
+
+The next time he looked down, his wand was back in its beltloop. It was the first time he had seen the Soulbound modifier in action. The description said that the wand would be nearly indestructible while he was alive and would return to his side if they were separated. But he had been so paranoid about losing the force-flinging tool that he had never let it out of his sight until now. He was thrilled to learn that the modifier worked as advertised, and that he wouldn’t have to go hunting for the wand down on the ground.
+
+Not long after, he found a small flap embedded in one corner of the machine. When he reached inside, he withdrew two objects that made his fingertips tingle like he had touched a live wire. The instant that he removed them to take a closer look, he knew that he was staring at a pair of Species-Experience Pills.
+
+The pills looked like golden pearls, with intricate patterns that flowed across their surfaces like clouds drifting through the sky. It was a bit weird that something so small could be so powerful, but he was certain that the pills were the real deal.
+
+The reason why was simple. Every cell in his body was screaming, demanding that he devour the pill and that he did it now. His energetic core, his mana channels, and the skill pathways etched into his brain were vibrating. Every fiber of his being wanted whatever was contained inside that tiny golden ball.
+
+Since Pax had told him to hurry, and Nick really wanted to eat it anyway, he shrugged and popped one into his mouth. The next thing he knew, his body had chewed and swallowed the pill without waiting for a conscious command.

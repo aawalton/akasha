@@ -1,0 +1,91 @@
+---
+id: 3e1a76f3-2d1f-5383-8ad7-a87be332c8b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: Ambushers Ambushed"
+slug: 0321-chapter-40-ambushers-ambushed
+partOf: labyrinth-of-the-mad-god
+position: 321
+ownLength: 1972
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3544007/chapter-40-ambushers-ambushed"
+royalRoadId: "3544007"
+---
+
+Everything from the monsters’ dramatic arrival until now had taken place within the span of a breath. Nick raised his sword and deepened his stance as the party sprang into motion.
+
+One of the beetles had taken a direct hit from a glue bomb. Half its legs were stuck together, hampering its mobility and impeding its range of motion. The second monster had swerved at the last moment and was only glued on one side, while the bug that was bringing up the rear before leaping over its brethren wasn’t covered at all.
+
+Following the guidance of Tactical Command, Bandit got ready to deal with the bound beetle. Kenji and Nick squared off against the second, and Lurk charged the creature that hadn’t been hit, which was already headed her way.
+
+He tracked the other monsters with a stray corner of his brain, but most of his awareness was centered on the beetle in front of him. Kenji had deployed his massive tower shield and was thrusting with his spear, forcing the creature to focus on him.
+
+“Watch out for its neck,” Nick said while circling to flank the monster, “it can probably reach around your shield.”
+
+Kenji grunted his agreement while activating Enhance Armor, trading a series of blows to keep his opponent distracted while Nick got into position. His pincer attack wasn’t particularly effective since the monster could attack with its stinger and teeth, but it forced the beetle to divide its attention.
+
+He let loose his Predatory Domain while firing a round of Mana Darts, trying to get a better sense of the monster’s capabilities before closing to melee range. He launched three silvery wedges at once, but only one landed on target.
+
+Even while partially glued, the creature was remarkably agile. It ducked out of the way of one dart, then deflected a second by tearing a branch off a tree and smacking the spell out of the air. The third Mana Dart landed on target, sinking into its body before turning the beetle’s vital energy against it.
+
+The monster flinched while issuing a shrill shriek, but even when combined with his psychic assault, a single dart wasn’t sufficient to stun it, which made him suspect these creatures were Tier 2. It rushed at Kenji, but the move was merely a feint. Its prehensile neck came whipping around to decapitate Nick, trying to skewer him with its stinger at the same time.
+
+Even with Force Acceleration, he couldn’t evade both attacks. Given its insanely massive jaws, he chose to leap out of the way of the beetle’s bite while raising his Caster’s Buckler to catch the barb in the center of his shield.
+
+He felt Strive for Perfection kick in for the first time, which meant he had perfectly timed the block. It absorbed a fair fraction of the impetus, and that was only half the story. Nick had also activated Force Riposte. Tendrils of force mana reached out to engulf the frost-rimed barb, stealing the monster’s momentum and transferring the kinetic energy into his sword arm. The ability enabled a lightning-fast thrust that was even more powerful thanks to his boosted Strength.
+
+Blightbane stuck fast as thought, carving a deep gouge into the creature’s chitin. He sensed icy mana gathering along the point of impact before a heavy burst of subzero magic erupted in his direction, giving him just enough time to spin out of the way. Kenji was already warning the party with Tactical Command, so Nick focused on taking the bulky beetle down as fast as he could.
+
+The men kept Blend into the Background running throughout the fight. The trait wouldn’t work if an enemy knew exactly where they were. However, every time the creatures lost track of the warriors’ positions, Blend kicked in again, providing partial protection that made it harder for the monsters to abruptly change targets.
+
+While this was a difficult battle, Nick was reluctant to use Sonic Slice, as the boom would reveal his position to every predator for miles around. On the other hand, the monsters were agile enough to dodge his darts, which meant it was time to take his newly upgraded rays for a test drive.
+
+He cast Piercing Ray while packing as much mana into the spell as he could, which was considerably more than before thanks to all his practice with free casting. In addition to the rush that always accompanied a life-and-death struggle, he was excited to find out how his massively enhanced magic would perform in the ultimate laboratory of live combat.
+
+Force mana came surging out of his energetic core and into a space above his shoulder. Another benefit of learning to control his magic was that Nick no longer had to position the sphere of swirling energy between his hands, leaving them free as he fought. The churning mass of kinetic magic was a lot bigger than before, and the spell was ready to go just a few seconds later.
+
+Kenji had noticed what he was up to. The strategist Shield Bashed the monster to keep its attention on him while Nick fired his Wand of Force to knock the beetles fighting Bandit and Lurk off-balance.
+
+Meanwhile, silvery flows of pure mana joined the heavy weaves of force as the whirling drill bit emerged from the surface of the sphere. A heartbeat later, Piercing Ray went streaking for the beetle—so fast that made everything other than Sonic Slice seem sluggish by comparison. The drilling beam struck the monster square in the back, spinning faster by the second.
+
+Before using the token and advancing the spell, it took twenty seconds for the ray to reach full power. Now it needed less than five, and that wasn’t all it could do. Thanks to its new armor-piercing bonus, the drill carved through the dense shell of crimson chitin like it was wet clay, plunging into the soft tissue below.
+
+It left a wound the size of an Old Earth quarter… right up until Nick activated the spell’s final upgrade. With an effort of will, he ordered the ray to split. The drill bit and the tendril of force mana linking the ray to the ball by his shoulder split thrice in the blink of an eye, creating eight separate rays that abruptly changed trajectory. Piercing Ray parted the beetle’s flesh as the drills swerved at random, perforating its flesh time and again.
+
+The spell ran out of juice faster when he used it this way, but the results were more than worth it.
+
+The monster collapsed as clear ichor wept from its broken body—multiple holes bored into every organ. “Damn.” Kenji whistled in appreciation. “Those tokens Astra gave us are even more potent than I thought.”
+
+Nick turned to help his beast allies, just in time to catch the end of both fights. By now, Bandit had covered the glue-bound beetle in a torrent of shadow flame. Since it was tied to his Concept, the lemur could control his spell’s effect. The black fire left the adhesive untouched as it seared and stabbed the monster, nullifying its icy shell. The malleable magic couldn’t penetrate the creature’s chitin, but it had boiled its eyeballs and severed its antennae, leaving it blind and in agony.
+
+He was ready to lend the lemur a hand, but his help wasn’t required. Bandit infused his short sword with inky mana, granting it the ability to bypass armor as he drove the blade into the beetle’s body time and again, dodging frantic bites from its hulking jaws along the way. He must have hit a vital organ part of the way through, because the monster screamed, collapsed, and went still, just as Lurk caught her opponent’s neck between her jaws and bit down hard.
+
+The screech of tortured chitin rang out before the shell shattered, decapitating the beetle along the way. However, the creature’s stinger caught Lurk in the meat of her shoulder, infusing her body with subzero venom in a final act of retribution.
+
+The dinosaur screamed as frost billowed from the wound, spreading at an alarming rate.
+
+Lurk had already healed the puncture, but Regeneration was having hard time dealing with the monster’s venom, which was blended with ice mana and some manner of elemental essence. He kicked his brain into high gear, using his superhuman Mind to analyze the problem before the toxin spread through the beast’s veins and froze her heart.
+
+While it seemed similar to Sophia’s frostfury wasps, this was his first time analyzing this type of attack with his mage sight. It made intuitive sense. Nick had only learned the basics while reading his System messages, but he knew that all mana-using creatures naturally produced a protective layer known as the arcane barrier, shielding their bodies from hostile energy.
+
+The beetle had bypassed Lurk’s arcane barrier by injecting its mana after its stinger bit deep. Cycling mana would eventually purge the foreign energy from her system, but the process was slow, and beast’s internal defenses were considerably weaker than her arcane barrier.
+
+While there was a chance that Regeneration could keep her alive long enough to recover, he didn’t like her odds, and the wound was incredibly painful. Nick could hear her flesh freezing for fucks sake.
+
+He tried using his Wand of Healing, but it suffered from the same limitation as her Regeneration ability. While the device could heal the damage, it couldn’t counter the arctic energy ravaging her tissue on a continual basis. That means potions won’t help either.
+
+Listening to his ally’s agonized cries coaxed his brain into overdrive, contemplating everything he had learned about magic over the last few months while seeking out a solution he could enact with the resources at his disposal. In the end, he only came up with one idea that might work, although he wasn’t sure it was possible, or that he could pull it off, even if it was.
+
+By now, the venom was drawing near Lurk’s heart. If Nick was going to help, he had to act now. He decided to try something he’d never attempted before—free casting a Mana Dart and directing the pure mana to nullify the monster’s magic while leaving her vital energy untouched.
+
+He still had to penetrate the beast’s arcane barrier, but once his spell was inside her system, he used mage sight to guide the dart’s magic toward the subzero magic flowing through her bloodstream.
+
+It was by far the most complex free casting he had ever attempted, pushing his Mind and mana control to the limit as he prevented his pure mana from interacting with anything other than the beetle’s venom. Shaking with exertion as sweat ran down his face, he maneuvered his magic into position, guarding the vital organ while canceling out any hostile mana headed that way.
+
+The effect was immediate. When his pure mana touched the subzero substance, the monster’s magic was nullified. He cast several more darts, hunting down each tendril of venom until only trace elements remained and Lurk was able to purge the rest on her own.
+
+His attempt wasn’t perfect, and he wound up neutralizing a bit of the dino’s stamina, mana, and health, but it was trivial compared to what a regular dart would do. When the job was finished, the beast stopped whimpering and let out a shuddering sigh of relief.
+
+Then, in a move that shocked Nick to his core, Lurk bent down and licked his face. It was utterly disgusting, and her breath smelled like microwaved death, but it was the first genuine sign of affection his formal rival had shown. He endured the foul smell and hesitantly pat the multi-ton predator on her head.
+
+“You’re welcome,” he said as the beast curled into a ball to recover from the fight. “I’m glad that worked.”

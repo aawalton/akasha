@@ -1,0 +1,219 @@
+---
+id: d5060239-9356-52e6-93a8-57cdf32d5d49
+page-type-slug: story-chapter-royal-road
+title: "66 — Book 2, Chapter 14 — Storms"
+slug: 0066-66-book-2-chapter-14-storms
+partOf: just-add-mana
+position: 66
+ownLength: 3201
+unit: words
+ownProgress: 3201
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2797710/66-book-2-chapter-14-storms"
+royalRoadId: "2797710"
+markedReadAt: "2026-06-29T18:49:53.433Z"
+---
+
+Combining two spells, it turned out, was a little more complicated than simply attempting to cast them both at once. Cale listened carefully as Leo explained everything he knew, which unfortunately wasn't all that much. His knowledge was mostly theoretical, everything he'd managed to learn from poring over books in the library. Damien didn't even have that—he'd been too fixated on his mana aspect problem to worry about combining spells.
+
+The one thing that every book on the subject agreed on, apparently, was that theoretical knowledge alone was insufficient. Cale decided to ignore this, considering it was all they had to work with. He also decided to ignore the part where Akkau had once explained that spell combinations were something that high-resonance mages could pull off.
+
+He hadn't technically said low-resonance mages couldn't pull it off. Besides, he had draconic resonance! That would help. Fire resonance wouldn't, considering neither of the spells he wanted to work with were related to the fire aspect, and he didn't have any other resonances unlocked yet...
+
+Maybe he could take a quick swim somewhere and talk to the elemental god of water? That seemed like too much work, though.
+
+"The main problem is getting the Gift to acknowledge a spell combination in the first place," Leo explained again, pacing in tight circles around the classroom. This was a subject he'd researched with some passion, clearly, because he'd even drawn up diagrams on the chalkboard. "All the books call it more of an art. Theory is limited because getting the Gift to acknowledge what you're doing varies from mage to mage, so the books mostly describe things that work for a subset of mages. I've never managed to get it to work."
+
+"Probably because you usually need high resonance to combine spells," Cale remarked mildly.
+
+Leo stared at him. "What?" he asked. "None of the books said... I mean, it makes sense, but..."
+
+He trailed off and groaned. "How do you even know that?" he grumbled. "I thought the Gift was unique to Utelia. This is supposed to be the one thing I know more about than you."
+
+"Akkau told me," Cale said brightly. "Specifically when he was trying to get me to attend his academy. It worked pretty well, considering I'm here and all."
+
+"Of course it did." Leo exhaled. "Okay, well, we can't do anything about the resonance requirement. Are you sure you want to try this?"
+
+Cale shrugged. "I don't know if we'll be coming back to Haelforge anytime soon," he said. "I'd like to, but it depends on the professors, so I'd rather figure this out now."
+
+"Right." Leo sighed while Damien shifted slightly in his seat, looking uncomfortable. "Okay, so, I know a few different techniques. Not all of them are going to work for the spells you want to combine, but I'm going to list them anyway, in case it gives us any new ideas."
+
+The minotaur went on to describe a number of spell combination... well, rituals was probably the best word for it. It was a lot more convoluted than Cale had expected; he'd assumed it would be something metaphysical, some response by the Gift to an attempt to intertwine two incompatible spell constructs. It turned out that the Gift just wholly ignored most attempts in that vein.
+
+Instead, mages had developed all sorts of tricks to try to get the Gift to acknowledge them. There was a divination mage, for instance, that insisted that the most consistent way of combining two spells was to draw a specific pattern of runic circles on the ground. That pattern would include two "input" circles as well as one "output" circle, and the mage attempting to combine their magic would cast their spell into each input circle while standing in the output circle. The mage would then have to absorb their newly-Gifted spell as it was cast within the output circle.
+
+Cale's brows furrowed. "Okay, there are several obvious problems with this idea," he said. "Are you saying the combined spell gets cast on the mage trying to combine them? What if they're combining battle spells?"
+
+"There are, uh, several disclaimers," Leo admitted awkwardly. "Written by other people. The mage that published the tome vanished."
+
+Well, no wonder. Cale stared at the diagram Leo had drawn. "Also, are you sure this pattern is right?" he asked. "Because I recognize those runes. That's Runic Faylin."
+
+"You recognize the—" Leo cut himself off. "Of course you do. Yes, I'm sure it's correct. I copied it over into my notes a few times to make sure I'd have it when I have spells I need to merge. The divination mage claimed he found it on an ancient tablet within a dungeon, and that his magics told him it held the secret to spell combination..."
+
+Leo trailed off, looking at Cale's expression, and sighed. "It's something stupid, isn't it."
+
+"That's someone's grocery list," Cale said, amused. Damien let out a little snort next to him. "I mean, if it works..."
+
+"It works, but I think people eventually discovered you can do the same thing by drawing chalk circles without bothering with any runes." Leo let out a low grumble. "I was hoping the runes part would be important. That's why I copied them down! I thought the results would be better, or something."
+
+"Good plan, but that mage might have been a fraud," Cale said.
+
+"I am starting to realize that, yes. I'm also starting to wonder how many of those tomes were written by frauds." Leo narrowed his eyes for a moment. "...Fine. Nevermind that one. It's not going to work for the spells you want to combine anyway, right?"
+
+"I can't really cast [Auric Dominion] into an empty space," Cale agreed. "Plus I'm betting this works best with conjuration spells. Still useful, though! Sounds like it works off spell residue left in the input circles, so you probably don't even need to actually cast something into it. I bet I could get a spell if I put bread into it."
+
+"Why would you—" Leo started, then stopped, shaking his head. "Nevermind. That was a stupid question. I'm... glad you learned something from that, I guess?"
+
+Cale beamed. "What's the next one?"
+
+Leo flipped through his notes, frowning. "It's not going to work well for us, either," he muttered. "Uh, it's a spell collision array. Basically this battlemage figured out that if you set up a rune array to direct two spells at each other and stand right in front of the resulting explosion, you can sometimes absorb the results as a newly Gifted spell. Apparently she used this to make a bunch of different [Fireball] spells?"
+
+Then he frowned at his notes. "I think I might have noted this down wrong," he said. "I wrote down that she used it to make 1,102 different [Fireball] spell variants."
+
+"Huh," Cale said. "No, I believe it. It explains the array I sensed nearby and all the fire magic around it."
+
+Leo paused. "...that battlemage was a Haelforge professor, wasn't she?" he deadpanned. "Or a student. Either way."
+
+"I should ask the professors if I can use it." Cale was pretty sure they would let him just to see what kind of spell he would produce. "...Although come to think of it, this only really lets you combine spells that produce blasts of some kind, doesn't it?"
+
+"Cale, for the love of all the Realms, do not try to combine two elemental blasts in the middle of an academy," Leo said. Before Cale could respond, Damien nodded quickly in agreement, and Cale groaned.
+
+"I'm not that reckless," he protested. "I would've held back!"
+
+Damien reached out to pat his arm. "You're always holding back," he said. "It probably won't help that much, though. Um. No offense."
+
+Cale grumbled something under his breath. "No, you're probably right," he admitted after a moment. "Anything else? Preferably something that'll work for spells that involve more abstract effects."
+
+"Those types of spells are a lot harder to combine than most, from what I know," Leo admitted, beginning to flip through his notes. Cale raised an eyebrow—Leo was going through a truly impressive volume of different techniques. How long had he spent researching this subject?
+
+...Had he been planning to list every single one of them?
+
+"I don't think our options get much better," Leo said hesitantly. "You want to combine [Auric Dominion] and [Create Current], right? Most spell combination techniques revolve around combining the same type of spell, but you want to merge a spell with a personal effect with a spell that has an environmental effect. I'm not sure there's anything in the books for this..."
+
+"How do the two individual spell types normally get combined, then?" Cale asked.
+
+"Let me see." Leo flipped through his notes again. "Spells that alter your abilities usually rely on some kind of physical medium. Some kind of crystal or ore, I guess? You try to cast the spell with it as the focal point instead of yourself, which is apparently the hardest part. And environmental effects usually involve casting the two spells you want to combine on the same environment, preferably affecting the same thing."
+
+Cale nodded thoughtfully. "Neat."
+
+"I'm very concerned about the way you just said that," Leo said. "...And with the way you're staring at the mana channelers. Cale, these things are expensive, you can't just—"
+
+"I am lending them a lot of mana for free, though," Cale said cheerfully. "Enough to cover running their academy several times over. Plus, think about how much residual mana is going to be left behind in Haelforge! Their mages are going to grow so much faster after this."
+
+Damien offered Leo a sympathetic look. "I don't think we're going to be able to convince him not to try."
+
+"I'm getting that impression, yes," Leo grumbled. "How are you going to add the secondary spell effect? You can't use [Create Current] on the mana channeler."
+
+"Believe it or not, I can," Cale said, reaching out to pluck a spare from the sack Leo was carrying. "Why do you think I've been throwing these around?"
+
+"I assumed it was because you're utterly incapable of recognizing when an artifact is an incredibly rare product of magical genius, just like you can't distinguish between a novice and an archmage."
+
+Cale paused. "Okay, first of all," he said indignantly. "I can, I just don't want to. And also it's easy to forget. And also it's not that hard to get from novice to archmage."
+
+"I think you're making his point for him, Cale," Damien said, patting his arm again.
+
+Cale sighed, tossing the active mana channeler up and catching it again. "I've been throwing them around because they slosh," he said. "I was trying to figure out why. I thought it was some kind of liquid medium at first, and I wouldn't want to disturb that with magic in case it's linked to all the students that are drawing from it—but I'm pretty sure what's actually happening is that it's compressing my mana into liquid form. Explains why it can handle so much of it."
+
+He paused to peer more carefully at the channeler. As lightly as he'd been taking them, they were a very sophisticated sort of artifact. Cale had no doubt that the real reason Haelforge had accepted the deal was because they knew the kind of benefits his sheer quantity of mana being poured into their academy would grant them. Even outside the experience their students would be able to gain today, the academy's growth would skyrocket for years afterward.
+
+Which explained why they had been so eager to thrust so many of these precious things into his hands. It was strange that they had this many to begin with, though; Cale wondered if they had access to some sort of dungeon that was producing these regularly. If that was the case, it would almost certainly become a target.
+
+He'd have to remember to give them a warning before he left. Cale wouldn't have been surprised if one of the goals of the Red Hunters was whatever or whoever was producing these for them, and if Dekora's team wasn't involved in it, then there would be a secondary team elsewhere getting ready while they were distracted.
+
+For now, though, whatever was hiding within Haelforge itself tugged at him. Cale eyed the mana channeler tentatively. This one was still a fair ways away from cracking—the students didn't seem to be using his mana as intensively—but he'd use a new one for the test, anyway. Just in case.
+
+"So, are you going to—" Leo started.
+
+"Yup! Gimme the sack." Cale picked out a relatively solid-looking mana channeler, then set it on the desk in front of him. A quick pulse of mana severed its connection to Haelforge. A second, more focused effort began to fill its internal void with liquid mana. Cale allowed it to accumulate until it was mostly full, shaking it every so often to check.
+
+Then he began staring intently at the orb, and both Leo and Damien took a nervous step away from him.
+
+Cale scoffed. "I'm not going to blow anything up!" he said. "What do you take me for? This is just the hard bit. It's not like I've been casting spells for centuries or anything, I have no idea how to cast a spell with a different focal point."
+
+Maybe if he projected the spell construct into the channeler, so it was like the channeler was what was casting the spell? That seemed like the most logical option. Cale called on [Auric Dominion], wincing slightly as he felt the spell construct stir to life within his core. It still had that bitter, uncomfortable sensation that accompanied it—for whatever reason, a part of him really did not like that spell.
+
+Still, it was the only one that would do what he wanted here. Slowly, he pushed the spell construct into the channeler, encountering a surprising amount of resistance as he did so. Cale usually had trouble with trying to use small quantities of mana, but a spell construct was more like... a suggestion of shape for that mana. He hadn't really had trouble manipulating them before, but apparently they really didn't like leaving his core.
+
+Well, too bad. They might not have been made of mana, but they were still manipulated using the same base skill of mana manipulation, and Cale had far too much experience fighting the current of his own mana to lose to trying to move a simple spell. Step by step, he forced the construct into the channeler, then watched in satisfaction as the liquid within automatically filled out its shape.
+
+The mana channeler began to glow. That was step one complete! Step two would be... well, he needed to evolve [Create Current] first, now that he thought about it. He probably should have done that first. Hopefully the resulting spell would still be viable.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Create Current] has evolved into [Move the Tides]!
+
+[Move the Tides, Level 1] [Sixth Tier (Unique), Active] [1.0e24 Mana]
+
+Reconfigure the movement of the very oceans according to your will. This spell lasts for ten minutes.
+
+Cale eyed the description for a moment.
+
+Eh. Good enough, really. He only needed the spell to have some suggestion of moving the natural flow of things.
+
+[Move the Tides] took effect, settling into the enormous quantity of power held within the mana channeler. For a split second, Cale felt the connection between him and the spell build—no doubt the piece of mental control that would ordinarily have allowed him to move the tides, if he'd actually wanted to
+
+Then something changed. A loud, echoing sound tore through the ambient mana all around him. Damien and Leo both stiffened, their eyes darting to what appeared to be a message from the Gift, but—
+
+"Cale," Leo said, his voice strangled. "Why did the Gift just disappear?"
+
+Cale blinked. "...Oops?" he offered awkwardly. "I'm sure it'll be back in a moment."
+
+Spell combination attempt detected. Evaluating request...
+
+Priority mage detected. Allocating resources...
+
+A storm crackled over the ocean.
+
+Allocating resources...
+
+"It might take a little more than a moment," Cale said.
+
+Relevant resonance detected: draconic resonance, first rank. Insufficient assistance provided from resonance. Allocating resources...
+
+Ah, that was why the resonance bit was important. Cale felt like Akkau should probably have told him this part.
+
+"Um," Damien said. "What's happening, exactly?"
+
+"I think the Gift is shutting down a bunch of things so it can combine the spells?" Cale offered. "Apparently combining spells is hard."
+
+"Cale," Leo said, staring at him. "Don't just—help the Gift if it's struggling! We can't just shut off the Gift!"
+
+"How am I supposed to help with whatever this is?" Cale protested. "I just add mana to things! I mean if the Gift wants mana to help, I could—"
+
+...Yes. A mana offering would be appreciated.
+
+Cale blinked. "Okay," he said slowly. "That's direct. Uh... sure, I guess. Take whatever mana you need."
+
+"Cale—" Leo looked like he wanted to strangle him. "Phrasing!"
+
+"What? You asked me to speed it up!" Cale protested.
+
+Consent acquired. Additional processing power obtained via mana donation of 1.0e70 units of mana.
+
+Now combining [Auric Dominion] with [Move the Tides].
+
+The Red Commander glanced out at the ocean, tilting his head slightly at the brewing storm.
+
+Storms were not uncommon for the Endless Deep. Compared to most realms, Utelia had very little inhabitable land; the tiny strip of four continents, aligned in a single row, was laughably artificial. It was clear to him that the ocean served some alternative purpose, and the sheer density of magical phenomena within them only confirmed his suspicion.
+
+Magical phenomena did not emerge without cause. They were products of chaos, more often than not the result of magic colliding with itself. But always that chaos was a result of another action elsewhere, like the flap of a butterfly's wings writ large upon the imprint of a world.
+
+The Red Commander did not like chaos. He did not like the Endless Deep. But he'd placed his office next to it very intentionally, for one simple reason: he did not like when things happened without his knowing.
+
+The Endless Deep was a record. Not one that could be read by most, certainly, and even for him it could only ever hint at the happenings of the world. But he had learned, in his lives, that even a hint was enough to tilt the scales.
+
+A report from the Observers filtered in. Beneath his hood, the Red Commander's eyes narrowed.
+
+The dark lord's involvement would explain the movement of the oceans... but the karmic lines had yet to move.
+
+He drummed his fingers on his desk, then frowned at the movement of his own digits.
+
+"I do not think so," he said, then directed a burst of mana at his fingers, severing them neatly. The wounds closed after themselves, politely, like they should.
+
+He tossed the fingers in with the others.
+
+Strange, strange, strange. Too many things were strange.
+
+Perhaps he needed to get personally involved.

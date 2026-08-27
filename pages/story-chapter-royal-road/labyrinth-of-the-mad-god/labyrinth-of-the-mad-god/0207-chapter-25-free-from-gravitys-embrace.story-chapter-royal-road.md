@@ -1,0 +1,73 @@
+---
+id: 24cd0d14-d180-5c7b-a923-f90533f4749e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: Free from Gravity’s Embrace"
+slug: 0207-chapter-25-free-from-gravitys-embrace
+partOf: labyrinth-of-the-mad-god
+position: 207
+ownLength: 1774
+unit: words
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2510186/chapter-25-free-from-gravitys-embrace"
+royalRoadId: "2510186"
+---
+
+Now that Nick understood just how powerful Psi could be. That it could let it someone read his thoughts and emotions as clearly as the text in his menus—let alone invade his subconscious and influencing the inner workings of his mind—the idea of running into an opponent that used psychic attacks was fucking terrifying.
+
+If he was being honest with himself, the prospect of encountering another person from Team Earth who specialized in Psi scared him almost as bad. He didn’t want to ever be that exposed again. His mind-melding encounter with Liz had revealed a critical vulnerability he hadn’t been aware of until this moment. His helmet would help, but he wasn’t willing to wager his life that it would be good enough.
+
+Fortunately, he had saved up quite a few free points since returning to Earth. If Nick put them all into Psi, he would gain a natural form of psychic protection that should be strong enough to shield him from anyone’s fledgling abilities over the short term. I need to figure out a better solution before we enter the Labyrinth and face a bunch of alien species I’ve never seen before, but it will let me breathe a lot easier over the next year.
+
+He decided that it would be wise to open some distance before spending his points. He didn’t know what the side effects of boosting Psi with free points would be and didn’t want to risk the same thing happening again.
+
+That intense moment of intimacy had been amazing—life changing in ways he hadn’t even begun to process—but it wasn’t something he cared to repeat anytime soon.
+
+Since Liz was back on her feet and would be able to protect herself, Nick walked across the badlands for miles, pondering his feelings for Sophia and everything he’d just experienced until he was certain that his travelling companion was far enough away.
+
+He used Arcane Shield to climb to the top of a nearby mesa, scanned his surroundings for danger, then sat down with his back against a rock. This is far enough out that there should be no chance of that happening again, although I doubt that the effect of spending my points will be as profound as taking Psi from zero to one. Major awakenings have been more extreme than anything else I’ve experienced, and we were both undergoing one at the same time.
+
+Nick pulled up his menu, then put all nine free points into Psi at the same time. Although he knew it would be intense as hell, he had decided to push things as far as he could. The sensations that came with spending his points always taught him something useful, and he wanted to understand this new facility humankind had been granted as quickly and comprehensively as he could.
+
+A few seconds after he signaled his intentions to the System, he felt pressure building inside his skull, expanding his psychic reservoir and the rate at which it refilled. As the System’s energy infused his brain, he felt his sense of self expanding, then shifting, sliding along an axis of reality he hadn’t realized existed until now.
+
+The next thing Nick knew, he was beside himself—quite literally in this case. His body was still seated cross-legged with his shoulders against the stone, but his mind had traveled beyond the boundary of his skin and was free to roam as it pleased. Just like before, there was a slender silver cord connecting this psychic projection to his brain, which stretched thinner the further he walked in any given direction.
+
+He was reluctant to wander too far, since his body was helpless in this state and he wasn’t sure if he would receive any warning if a hungry critter appeared before it began eating him alive. For that matter, I’m not sure I can return to my body if I want to or do anything to protect myself while my mind is separated from my flesh—even if I remain in the area.
+
+Even still, Nick wasn’t too worried. The altered states that accompanied spending his points generally only lasted a few minutes. Since this was the only chance to experiment with this strange state of being he was likely to have anytime soon, he started running some tests as quickly as he could. He began with finding out how fast he could move, zipping around the perimeter of the mesa even faster than he could run using Force Acceleration.
+
+He realized that he was trying to use his body the same way he always did. But as a mental projection, he didn’t have any muscles, or any weight for that matter. If this state is similar to the visions I’ve experienced, I might be able to move simply by willing it to happen.
+
+Sure enough, he didn’t have to walk or run to change locations. All he had to do was gather his concentration and imagine standing somewhere else, and he appeared there in the blink of an eye. I’m probably subconsciously limiting myself in other ways too. I wonder what would happen if…
+
+When he closed his eyes, took twenty steps, then opened them again, he was standing on thin air, having traveled beyond the perimeter of the mesa. I can hover like this, maybe even fly. He had suspected that was the case, but needed to close his eyes to be sure, since he never could have imagined walking through the air while relying on the instincts from his daily, embodied life.
+
+While this out-of-body experience was amazing, something told Nick that it was far from safe. Unless he chose to specialize in Psi, or knew exactly what he was doing, he had a hunch that he was incredibly vulnerable as a mental projection—susceptible to a range of threats that were beyond his understanding.
+
+Taking that into consideration, he decided that it was worth taking some risks just this once. He needed to understand the advantages and limitations of using a psychic body, and he doubted he could replicate this feat without spending several levels’ worth of points at once or picking up a Psi-based class.
+
+After taking one last look over his shoulder to make sure nothing was threatening his body, Nick looked down and began streaking toward the surface of the badlands—not falling, but flying. It was exhilarating to experience such a limitless sense of freedom. The realization of a dream shared by everyone who has watched birds journey across the heavens and wished they could join them.
+
+He laughed as he dipped and dove—pulling off some barrel rolls and precision turns that would make a fighter-jet pilot green with envy. While he reveled in having escaped gravity’s embrace, he flew in the direction they were traveling. He began scouting out the route to the heart of the badlands while casting his senses into the distance and committing every second of the exhilarating experience to memory.
+
+He could perceive something emanating from the ground below. When he focused on the feeling, Nick realized he was sensing the minds of the animals and beasts nearby. He couldn’t read them clearly like his encounter with Liz, which led him to believe they had some manner of innate protection against casual psychic scans.
+
+Even still, he could get a vague sense of their emotions and intentions. It made it easy to detect their presence and predict their behavior, which cemented his certainty that Psi would synergize with Size Up.
+
+He intuited that the strength of the amazing powers provided by this novel state of being were bolstered by his heavy investment into Mind, along with the various altered states he had experienced since the System arrived. That since Nick had such a strong sense of self and a will that had overcome countless challenges, his psychic projection was unusually powerful despite his inexperience using it in this manner. Toughness and Creativity might be playing a role too.
+
+He had a hunch that his willpower would help shield him while exploring the world as a thoughtform. Armor that he desperately needed, since he had left his arcane barrier behind along with his body. On that note, he couldn’t sense his stamina or mana pools at all, which meant he couldn’t cast spells or use combat arts. He was limited to the inherent properties of his psychic projection, along with any Psi-based abilities he might acquire later.
+
+This is so weird and wonderful. Leaving my body feels super dangerous given my ignorance though. Like freeclimbing a skyscraper without a net, although I might be able to pull that off, now that I think about it.
+
+I’m sure some of our people were waiting for the vote before picking their new class. Once Team Earth has some psychic specialists in our ranks, we should be able to learn a lot more about the ins and outs of what Psi can do and how to use it safely.
+
+Nick was tempted to fly to the moon before his time ran out—to push the limits of this form of remote viewing—but the silver cord connecting his mind to his body to his body had already thinned into a thread, and he suspected it would snap if he traveled much further. He wasn’t sure what would happen if it did. But even if it didn’t kill him outright, he strongly suspected that he wouldn’t enjoy the consequences.
+
+Instead, he flew back the way he had come, learning everything he could about Psi. The altered state from spending his points began fading a few minutes later, pulling his mind along the ethereal cord until he snapped back into his own skin.
+
+Nick felt a moment of intense disorientation when he opened his eyes, which he realized came from having a heartbeat and lungs again. He rose to his feet with a smile on his face—thrilled by what he had discovered. While he made his way back to the cave where Elizabeth was waiting, he ran some more tests to see if any of what he’d experienced was still accessible to him.
+
+He felt a tingle along the periphery of his consciousness when an animal was nearby, but that was the extent of his expanded awareness—at least with his present level of Psi. It will probably grow stronger if I raise it. On that note, I should see if I can figure out a way to condition the attribute and pick up more points naturally.
+
+Mulling over everything he’d learned, Nick walked across the badlands to rejoin his travelling companion, contemplating what the future might hold now that humanity’s psychic potential had been unlocked.

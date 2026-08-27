@@ -1,0 +1,187 @@
+---
+id: edd52f38-c6cb-5e71-9be1-3298b6ff6e81
+page-type-slug: story-chapter-royal-road
+title: "71 — Book 2, Chapter 19 — Magical Critters, Pt 3"
+slug: 0071-71-book-2-chapter-19-magical-critters-pt-3
+partOf: just-add-mana
+position: 71
+ownLength: 3211
+unit: words
+ownProgress: 3211
+publishedAt: 2025-12-09
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2832891/71-book-2-chapter-19-magical-critters-pt-3"
+royalRoadId: "2832891"
+markedReadAt: "2026-06-29T18:50:04.401Z"
+---
+
+Kazza was clenching his claws so tightly into the armrests of his chair that he was pretty sure it would leave a visible mark.
+
+Not that he cared. What was happening on that spell projection was far more important. His tribe had always suspected that flickerants were more directly linked to the Aspect Cascade than was apparent, but they had never been able to confirm it. The bulk of flickerant nests resided in Golden Sands territory, but attempting to delve deep into any of their nests was basically suicide.
+
+They had tried, of course. First with scouts sent to dig into the nests, though they never returned once they ventured too deep. Then again with warrior-mages, who had managed to push deeper but still barely escaped with their lives. Even then, they were leagues away from the center of any nest. Those things went deep, they had learned; far beneath the sands of their home and well into the blackstone that marked the magically tumultuous layers beneath.
+
+That was the first sign that the flickerants were more than they seemed. Very few species could survive that far into the blackstone layers, but somehow, the flickerants' natural ability to attune mana seemed to keep them alive. They converted what should have been lethal pressures of mana into less harmful aspects that dissipated more quickly, and that protection was also what made it impossible to delve into the depths of their nests.
+
+At the outermost tunnels, flickerants would descend on mages in droves, biting into their barriers and converting their mana into useless, unstructured dregs. That was what killed the scouts that wandered too deep. Those younger lizardfolk didn't have the spells to fend off hordes of insects.
+
+Their warrior-mages were able to push deeper with that information, though. They built spells of wind and flame that could blast the ants away before they got too close, relying more on the physical effect of the spell than sustaining it with mana.
+
+The problem was that the deeper they got, the stronger and larger those flickerants became. Variants never seen before on the surface began to show up, with no apparent purpose other than to protect their nest and their queen. They were larger and stronger than the base flickerants—too large to simply blow away with a wind spell, and with too much natural elemental resistance to burn easily.
+
+And even if those could be overcome, there were the mirages.
+
+It wasn't an accurate word, really. A mirage didn't describe the actual danger that emerged when enough flickerants gathered together, when their magic pooled together just enough to manifest a fragment of the Aspect Cascade. It was the only word that seemed to fit, though, because what they were able to create wasn't the true Cascade. Just a shadow of it.
+
+Those shadows were still enough to tear their spells to shreds. Their teams had never been able to make it further than when the Cascade mirages started appearing, and they were unwilling to lose any more of their people to investigate what might have simply been a dead end.
+
+So they'd turned to alternatives. Scrying first, to see if their magic could pierce into the heart of the nest and see what needed to be so well-defended. Then teleportation, for they thought that if they could send a warrior into the heart for a fraction of a second, they could pull them out safely and learn what was within. If not that, then perhaps they could teleport whatever lay in the nests out, in some safe and warded arena for study.
+
+None of those options had worked. Their scrying spells failed before they got anywhere close, torn apart by the Cascade mirages and the natural energy of the flickerants. Sight mana attuned to fire and water and storm long before it got anywhere close to the heart of any nest.
+
+Their teleportation rituals had managed to push a little further, for it was in the nature of spatial magic to be able to slip through space itself. To carve gaps through those mirages that they might be able to use.
+
+That was when they ran into the wards.
+
+Actual wards, even. Not the mimicry that magical creatures and monsters were sometimes able to forge through luck or happenstance, but wards built by talented, experienced mages. Those wards caught any threads of spatial magic and fueled the Cascade's power into them, disrupting the spell before it could get where it needed to be.
+
+And while that was pretty damning evidence that there was something about these flickerants, some greater link between them and the Cascade and perhaps even a mind at work behind them...
+
+Well, the Golden Sands didn't have any mages that could pierce those wards. None of the mages they'd attempted to hire could, either. They'd been forced to give up that investigation as a dead end.
+
+Which was why, when Professor Tarbloom had first explained what they were about to attempt, Kazza dismissed it as impossible. The best mages of the Golden Sands had already attempted such. What were the odds a magic academy—without any professional, graduated mages—would succeed on their first try?
+
+He almost managed to convince himself that he'd been tricked by his own instincts. He almost made himself look away, his tail lashing about in irritation.
+
+Almost. Something told him to keep watching, and despite his reluctance, he did.
+
+And he nearly tore through the upholstery of the chair he was seated in when, against all odds, the spell succeeded.
+
+Kazza had no idea how or why it did. Nothing about it seemed different than their own attempts. The only thing he could think of was Cale's presence in the array, and why would the presence of a mere apprentice change the outcome of the spell? Even if that apprentice was a dragon's apprentice, it shouldn't have been enough to...
+
+Kazza's breath caught as the flickerant queen manifested, and he forgot all about his disbelief and his curiosity about this Cale, because that—that was proof. Indisputable, direct proof that the flickerants were somehow linked directly to the Aspect Cascade. Even without actually being there and with the classroom far outside the range of his mana sense, he could recognize the storm that had been ravaging his home on sight, and there was a fragment of it pulsing within the flickerant queen.
+
+Not a mirage. Not an echo of the real thing. A fragment of the Cascade itself, somehow trapped within the body of an insect that should not have been able to wield such power. It sat there and trembled like it was ready to be unleashed—
+
+Kazza froze.
+
+Rogue storms.
+
+Of late, their hunting teams had been accosted by rogue fragments of the Aspect Cascade, far away from where their scouts reported the true bulk of the storm to be residing. It wasn't unusual for pieces of the storm to break off, but not that far away from the main body of it, and not without warning.
+
+Yet they'd lost three hunting teams to this already. Random, impossible to predict outbursts of the Cascade that obliterated the squads unfortunate enough to be in their way, almost like they had been planted there on purpose. And from what he saw, from the crackle of magic around the flickerant queen that even now degraded the scrying spell they were using to watch, he was pretty sure he finally knew how.
+
+Was it a coincidence, then, that Orstrahl had popped up with that oh-so-convenient offer to end the Aspect Cascade?
+
+A low growl ripped through his throat. This felt like sabotage. He glanced at the delegation of nobles that brought him here, but from their useless, vaguely curious expressions, they likely knew nothing about the flickerants specifically. Just pawns, then. No better than the rest of them, and no better than he himself would have been if he hadn't seen this.
+
+He turned his attention to Akkau, his mana core stirring restlessly. "That is a fragment of the Aspect Cascade," he said. "If you do nothing, that class will die, including your apprentice."
+
+Akkau glanced up at him, and for a moment, Kazza felt the full weight of a dragon's attention descend on him. He'd never experienced that before. It wasn't hostile—more just studying him and his intentions, trying to understand his outburst—but even still, the weight of it nearly made him stumble backward.
+
+Then the old dragon shook his head slightly. "My apprentice will be fine, and so will the class."
+
+"Do you understand what the Aspect Cascade is?" Kazza snapped out. His mana surged around him aggressively, responding to his thoughts. "My home has been ravaged by it for decades, and no mage has ever survived it—pah."
+
+He snarled and shot to his feet. "Talk is useless. If you will not rescue your students yourself, then I will do it for you."
+
+With that, Kazza slammed the door open and shot toward the classroom. He didn't know the halls, but he could feel the trace of that scrying spell and where it went. His mana surged into a layered construct of triplicate speed spells, launching him through the halls and toward the classroom.
+
+Dragons. Kazza had always admired the tales, but to think this one would be so sedentary. To take so little action when lives were at risk? He would not stand for it. He would have words with him later, no matter how powerful he was.
+
+For now, he had a class to save.
+
+Cale studied the captured fragment of the Aspect Cascade curiously, even as Professor Tarbloom fretted beside him. The poor thing was writing and erasing on their slate repeatedly, so quickly that Cale had no idea what they were trying to say.
+
+He could guess, he supposed. They seemed pretty upset that the flickerant queen had died so quickly and so messily. She had barely lasted for more than a minute before violently exploding, unleashing what would have been a deadly storm had Cale not already enclosed her in a spherical barrier of prismatic mana.
+
+Now the class was mostly staring in silence as the Cascade raged on, with no apparent signs of stopping. Professor Tarbloom was still trying to decide what to say, and Flia was glancing between the two of them as if trying to decide how to even start with all this.
+
+"Just for the record, I have no idea what to do with this thing," Cale said after a moment.
+
+He could contain it, certainly. The Aspect Cascade was deadly because it could forcibly attune any mana that entered its range, but his true prismatic mana couldn't be attuned, so his barrier served as a perfectly functional means of holding it. The problem was that his usual methods of dispelling magic wouldn't work on this. It was a manifested phenomenon, not an active spell. There was no construct for him to disrupt.
+
+That meant he was stuck just holding it there until he found some way to destroy it or some place where he could safely release it. He couldn't let the barrier lapse for a second—even if this was just a fragment of the storm, it held enough contained chaos to take down half the school. As good as Jaxovar's wards were, the whole forced attunement thing was incredibly destructive to most forms of magic.
+
+In fact, Cale was starting to suspect that the Aspect Cascade was something of a manufactured weapon.
+
+It was far too convenient in both how it worked and in the apparent fact that there was a whole species of insect that took enough of the storm into themselves to become literal bombs. Not to mention how much mana that teleportation array had taken! It hadn't consumed much at first, but the deeper the spell reached, the more it drained him, like it had to punch through something.
+
+Cale frowned slightly. If he had a little time to study this piece of the storm, he might be able to find out more about what it was, exactly. Something about the way it was constructed felt off to him. Most magical phenomena was accidental, a result of mana colliding in some way that caused it to perpetuate itself, but this?
+
+An accidental phenomenon didn't have generally intent. The Aspect Cascade did, even in this tiny, muted form. He could feel wisps of it crackling through the lightning and radiating through his barrier.
+
+If the Aspect Cascade was engineered, that would explain the intent he felt. Weapons were built with intent, after all, and he'd encountered his fair share of carefully calculated destruction. But magic designed to be a tool of war tended to feel angry or destructive, and what he could feel of the Cascade did not.
+
+It was hard to pinpoint what it did feel like. Desperation, perhaps? Cale had no idea what to do with that or what it meant, though. Why would a storm be desperate?
+
+He glanced at Professor Tarbloom, who thankfully had finally decided on what they wanted to say. They held up their slate, which read: HAVE YOU DECIDED WHAT YOU WILL DO WITH THAT?
+
+That was less helpful than he'd been hoping. Cale groaned. "I was hoping for suggestions," he muttered. "Maybe I can just dump it in the Endless Depths? That place is pretty much covered in storms already, right?"
+
+Tarbloom considered this for a moment. IT WOULD PROBABLY JUST MOVE BACK TO LAND. OR TOWARD ILLWYLD TO REJOIN THE MAIN STORM.
+
+Yeah, that was definitely a problem. It was even likely. Cale could feel the storm pushing itself north, toward its home continent; just releasing it meant it would ravage the lands in between itself and the main body of the Aspect Cascade.
+
+"What about the Abyss?" Flia asked quietly. Cale winced at the thought.
+
+"Let's keep that one as a last resort," he said. "Lev has to deal with enough people ejecting the output of their broken spells into the Abyss, and this one is kinda bad."
+
+Flia blinked. "I hadn't realized that was part of her domain."
+
+Tarbloom held up their slate. WHO IS LEV?
+
+"The Leviathan," Cale said absently. "You know, one of the Monoliths—"
+
+The professor snapped their slate in half, staring at him, then looked vaguely embarrassed and cast a quick spell to put it back together. YOU ARE IN CONTACT WITH A MONOLITH?
+
+"We should talk about this later," Cale said quickly, because Tarbloom looked a little too excited by the idea of talking to the Leviathan—which he was starting to suspect the professor would consider a giant magical critter—and because they still had a storm to deal with.
+
+Not that he had any more ideas about how he was going to deal with it. He could evolve a spell to try to handle it, he supposed, but [Auric Dominion] was on cooldown and most of the other spells he'd picked up were about creating physical effects, not dispelling magical ones.
+
+Alternatively, he could just... keep the whole storm? As part of his hoard. It would probably help with the whole draconic resonance thing, although keeping a perpetual barrier around it would be annoying. Not impossible, though. It would just be an extension of what he already did.
+
+He was almost about to suggest this when the classroom door burst open.
+
+Cale had enough time to register a semi-naked lizardfolk man adorned in jewelry wearing an impatient, determined expression before he chanted something loudly. A spell of force and wind swept into the room—
+
+—only for Tarbloom to react and meet it.
+
+The professor held up a hand. Cale caught a flash of a spell construct going off ridiculously quickly for the amount of power it consumed. Then their power flared outward like a web, causing the lizard stranger's errant spell to freeze in place as Tarbloom bore down on it.
+
+Then they reached for their slate and carefully scribbled out a greeting. HELLO! SORRY FOR INTERRUPTING YOUR SPELL. WHO ARE YOU?
+
+Cale blinked, craning his head to eye the slate. "You know, you're really polite to random intruders," he remarked. "It's not your first time, is it?"
+
+NO. I AM INTRUDED UPON VERY OFTEN! I FIND IT DELIGHTFUL.
+
+"I can't tell if you're talking about critters or people," Cale said, though he was probably guilty of the same thing, now that he thought about it.
+
+The stranger had frozen in place as he registered what was happening in the classroom. He stared at the professor, then at Cale, then at the storm that was currently being contained inside his barrier.
+
+"What... what the fuck?" he managed after a moment. "How are you doing that?"
+
+"Holding the storm?" Cale asked. "I'm using a barrier."
+
+"I can see that!" the lizardfolk snapped. "How is it working? That is the Aspect Cascade! It transforms any kind of mana it touches, no matter the strength! You cannot contain it with a simple barrier. If you could, we would not have—"
+
+His voice broke, and he suddenly looked much, much smaller.
+
+"We would not have lost so many to it," he said. "You... you cannot just put a barrier around the Aspect Cascade. You must have done something more. I know many mages hold their secrets as paramount, but... please. My people need a way to defend themselves. Especially if what I suspect is true."
+
+Professor Tarbloom had already shuffled over to give him a pat on the back. Cale winced a bit at the clear desperation in his tone; he hadn't meant to be quite that dismissive about it. Flia was already giving him a look that told him to fix this.
+
+"Look, why don't we start with introductions?" Cale suggested gently. "You should have a seat."
+
+The lizardfolk didn't move. Professor Tarbloom gently guided him to one of the seats instead until he collapsed into a chair, and even then, he stared blankly at the storm still held within Cale's barrier.
+
+"I am... I am Kazza. Kazza of the Golden Sands," the lizardfolk said after a moment. "You are Cale. I was... journeying with the Orstrahl delegation here when your Headmaster asked us to witness your class."
+
+"He did?" Cale raised an eyebrow, then shook his head. "Not important. You're right; a normal barrier wouldn't be able to hold it. I'm a bit of a special case. That doesn't mean I won't be able to help, though, if you can answer some questions."
+
+"Questions?" Kazza asked numbly.
+
+"Just a few," Cale said assuringly. "What I can sense of the Aspect Cascade feels a little strange. It doesn't match the stories I've heard, so if you have any information about how it's been behaving..."
+
+"Our tribe has been tracking it the entire time it has been active," he said quietly. Then he straightened, his gaze locking on to Cale "Do you truly believe you can help? You will not demand anything in return? Our lands? Our cooperation?"
+
+"I can't promise anything," Cale warned. He glanced back to the Cascade, frowning slightly. More and more, that tiny wisp of intent felt out of place. "...but yes. If this is anything like what I think it is... we might even be able to stop it."

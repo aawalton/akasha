@@ -1,0 +1,73 @@
+---
+id: d28e1eac-d352-510c-98ec-35704cd2a140
+page-type-slug: story-chapter-royal-road
+title: "INTERMISSION: Realmwatcher's Diaries — Old Magic"
+slug: 0103-intermission-realmwatcher-s-diaries-old-magic
+partOf: just-add-mana
+position: 103
+ownLength: 767
+unit: words
+ownProgress: 767
+publishedAt: 2026-02-21
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3078286/intermission-realmwatchers-diaries-old-magic"
+royalRoadId: "3078286"
+markedReadAt: "2026-06-29T18:51:11.206Z"
+---
+
+Intermission
+
+"This is old magic," Cale said.
+
+Flia turned to him and frowned slightly, trying to understand what he meant. "You mean magic from before the thing with Yggdrasil?"
+
+Cale blinked. "What? No," he said. "That's just what I call any magic I don't understand yet. It sounds more impressive than just saying I don't get it."
+
+Flia stared at him. "Is that... allowed?"
+
+"No one's stopped me yet," Cale said, shrugging. "Besides, there's power in names and declarations. Saying you don't understand something is tantamount to giving up. But if you call it old magic or ancient sorcery or whatever, you're identifying it as a mystery. In other words, something that can be solved."
+
+"Lying, in other words," Flia said, her tone flat.
+
+Cale laughed. "Eh, you could say that, but I'd call it a little bit of both," he said, his tone flippant. "Besides, I'm not lying about this. It is old magic. This type of magic is the oldest magic of all."
+
+"And what type of magic is that, exactly?"
+
+"Manifested phenomena," Cale said. "It's what happened all the time before the people of the Great Realms learned to use magic for themselves. Now that magical knowledge is more common, it doesn't happen as much anymore, but it does still happen. Things you can't really explain with regular spells, effects that don't follow the same rules as everything else..."
+
+"But they still have rules," Flia said, and Cale grinned at her.
+
+"That's something you have to remember," he said. "Everything has rules. The deadliest magic and monsters out there? They're the ones that are the best at pretending they don't. But they follow their own rules, sure as anything, and if you want to get out alive you have to figure out what those rules are. In a way, manifested phenomena would be great practice if you could actually get them to manifest with any consistency."
+
+Flia rubbed at her face, but did her best to focus. Cale was doing that tone of voice he did sometimes, where he refused to say things directly because he wanted his apprentices to come to some conclusion on their own. She wished any of the others were here with her—Leo tended to be better at these games, as much as it stung her ego to say so. Damien, too, though only when he wasn't frightened. Syphus...
+
+Okay, she still did better than Syphus.
+
+Cale was emphasizing rules again, which meant they probably already knew everything they needed to know about this. They'd first encountered the problem trying to pass from one chamber of the dungeon to the next, only the boundary had acted as a solid wall. Then, when they tried to find their way around it, more of those solid walls had manifested. There was no apparent mana involved, which didn't mean much when it came to manifested phenomena; neither her magic nor Cale's barriers could cut through it...
+
+What was the pattern there? That walls were manifesting? No, they never manifested in the middle of a corridor or halfway up the stairs; they only ever appeared across something that could tangibly be called a threshold. Doorways, for the most part, but also the transition from one hallway to the next, or even—
+
+Suddenly suspicious, Flia grabbed a pencil out of her satchel and drew a line across a piece of paper. Sure enough, the moment the line was complete from one end to the other, she felt her hand being forced out of the way as a wall manifested in between.
+
+"Thresholds?" she asked, incredulous. "It's stopping us from crossing anything that can be defined as a threshold?"
+
+"It gets a little clingy sometimes," Cale said. "Space, I mean. I've never had it happen like this before, but it's not that unusual."
+
+"How does this help us get out?" Flia asked.
+
+"The trick with manifested phenomena," Cale said, "is that they vanish when you force them to break their own rules. Or when you manage to confuse them sufficiently."
+
+Flia blinked, then glanced down at the piece of paper she was holding. Tentatively, she pushed it toward the nearest doorway, then yelped when the line on the piece of paper met the boundary of the door and the entire thing abruptly crumpled with a loud crack.
+
+Then the whole dungeon began to shake.
+
+"Sometimes they vanish violently," Cale added.
+
+"You couldn't have said that before?" Flia demanded.
+
+"But this is the fun part!" Cale grinned.
+
+"The part where we run?"
+
+"Exactly! The part where we run."
+
+"There is something wrong with you, Cale Cadwell Cobbs."

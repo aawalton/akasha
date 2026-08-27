@@ -1,0 +1,135 @@
+---
+id: 1680d60b-fea9-51f3-87fb-5a5b11319ef1
+page-type-slug: story-chapter-royal-road
+title: "Chapter One: Prelude to the Apocalypse"
+slug: 0001-chapter-one-prelude-to-the-apocalypse
+partOf: labyrinth-of-the-mad-god
+position: 1
+ownLength: 2056
+unit: words
+publishedAt: 2023-09-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330268/chapter-one-prelude-to-the-apocalypse"
+royalRoadId: "1330268"
+---
+
+Twelve hours until the end of the world
+
+I’ll grind one more level before I crash. Nick opened the mini fridge tucked beneath his desk, pulling out a can of iced coffee without looking away from the screen. He cracked open the tab and chugged the bitter brew, although the infusion of caffeine would do little to extend his gaming marathon, thanks to the epic tolerance he had built up over the week-long event.
+
+Nick sucked out the final drops hiding in the crevice and then flicked the can into the wastebasket, typing with his free hand all the while.
+
+He glanced up and refreshed the auxiliary monitors positioned above the massive display that dominated his desktop, taking in the various spreadsheets and timers before deciding which raid to join next.
+
+He normally wouldn’t party with casuals, but the rest of Nick’s guild had called it quits for the day after defeating a particularly aggravating boss. The LEDs embedded in his peripherals pulsed in a soothing flux of neon light, coaxing Nick into a trancelike state as he willed his sleep-deprived brain into one final push.
+
+Three hours later, he leveled up, and the satisfaction of watching his character incrementally increase its attributes washed over him. He had even found a shield one tier better than the one he was wearing, letting him jump six ranks on the leaderboard. If he kept up this pace over the next two days, he had a real shot of breaking into the top five by the end of the event.
+
+But none of that mattered now. Only sleep mattered. Nick kicked off his loafers and closed his eyes with a groan, seeking the will to rise from his chair and drag his ass into bed. He was out cold ten seconds later.
+
+Sometime later, he began to dream. It was a strange dream, more vivid than even a lucid dream, with a level of clarity and substance that would have shocked him if he was in a state of mind to ponder the matter properly.
+
+Nick found himself floating in the vastness of space. He was surrounded by myriad pinpricks of light arranged in dazzling configurations, framed by the ghostly radiance of nebulae and other breathtaking celestial spectacles.
+
+He looked over his shoulder and saw the sun; raw elemental power contrasted against the abyssal blackness of space. For the first time in his life, Nick was able to meet Sol’s gaze without searing his retinas to a crisp, filling him with a profound sense of awe.
+
+He kept expecting to wake up at any moment, since this remarkable vision had already lasted far longer than any dream he had experienced before. But since the dream just kept on going, he decided to shelve the mystery, lean in, and enjoy the unique experience.
+
+He spun in a few lazy circles before looking down, where a ball of primordial elements was congealing below his feet, bits of matter coming together to form a larger mass.
+
+Somehow, Nick knew that this swirling cloud was the Earth billions of years ago, back at the dawn of its formation. It seemed that in this dream, time was sped up by a multiple that he couldn’t even begin to estimate. Events were moving along at a reasonable rate, instead of taking countless multiples of his natural lifespan.
+
+The embryonic planet slowly condensed and strengthened its grasp. It began drawing in lesser clouds of matter orbiting the sun and the occasional asteroid caught by the Earth’s gravitational field. Since it seemed like this show would take some time to get to the good part, even at this mind-boggling rate of progression, Nick raised his gaze and took a long look around.
+
+He realized in that moment just how blind the earthbound are to the true beauty of the heavens, thanks to the blanket of light pollution we live beneath. That each of the radiant stars represented stories of creation taking place across the universe, forming a grand tapestry on a scale that defied belief.
+
+Even in the void of space, powers beyond his comprehension warred and danced. A force that he could barely perceive wove its way between the stars—the primal energy of the cosmos itself.
+
+Nick traced vast tendrils of power unfurling across the aether, tiny ribbons of which were winding their way around the sun and flowing into the planet below. They were guiding the Earth’s formation by helping simple chemical interactions grow increasingly complex.
+
+His jaw dropped in awe when a colossal chunk of stone came streaking out of the void, crashing into the Earth with incredible force. The planet-staggering collision obliterated an area the size of a continent. Debris soared into high orbit, filling the air with carbon dioxide and water vapor. I think I just watched the birth of the moon.
+
+Millions of years passed with each blink of Nick’s eyes as the Earth continued to develop. Its mass eventually reached a critical point, and the core began to melt, magma bubbling up to form a roiling hellscape.
+
+Over time, the atmosphere thickened to cool the planet’s exterior. Meanwhile, immense geological pressures created towering mountains and vast trenches, their placement guided by patterns contained within the nurturing energy of the cosmos. After countless eons, water spread across the surface, stirred by tremendous discharges of lightning.
+
+That was when he saw the first spark—a tiny release of energy that felt distinct from the boundless vitality of the heavens.
+
+When he focused on that pinprick of power, Nick was drawn down and down and down… flying toward the surface of the planet like a meteor. He streaked across the sky and then plunged into the depths of a primordial ocean. He came to a stop as he drew near the source of the delicate sparks, which had multiplied during his descent.
+
+I’m witnessing the origin of life on Earth, he realized when the microscopic protoorganisms released another flash. As they replicated and spread throughout the oceans, the little balls of chemicals were refining the cosmic energy infusing the planet, changing it into a power of a different order.
+
+With the mystery of the flashes solved, Nick rose through the primeval waters and returned to low Earth orbit. He watched spellbound as life evolved and grew more complex, propagating throughout the oceans and across the land, altering the composition of soil and sky.
+
+With the advent of life on Earth, the planet was able to refine cosmic energy faster and then faster still, the smoldering power congealing within its core.
+
+When the core was saturated, something amazing would happen. Something that would change the destiny of the world. An event just as important as those first sparks of life. The process was agonizingly close to its culmination when mankind appeared and began conquering the globe, transforming the planet at a rate unmatched in the history of life on Earth.
+
+As humankind thrived and flourished, the planet’s power was refined and purified. The ambient cosmic energy was tempered by humanity’s struggles. Our joy and our pain. Our triumphs and tragedies. When machines rose to fill the sky, Nick knew that his vision had nearly caught up with the present.
+
+By some strange twist of fate, he had been born at just the right time to witness the finale of this incredible journey. To observe the transformation of the old world into something new. Everything slowed to real time as the scene arrived at the present.
+
+He held his breath as a final sliver of energy entered the Earth’s core, filling it to the brim. In that moment, he was overcome with a tremendous sensation of anticipation. A cliffhanger of epic proportion. Whatever was about to happen, it was going to be big.
+
+Just before the vision reached its climax, his alarm went off, and he woke up.
+
+Cool dream, but kind of a tease. Nick opened his eyes with a groan, shaking his head to clear the lingering afterimages of the surreal experience. Warm sunlight was streaming in through the cracks in his blinds, blades of light stabbing deep into his retinas.
+
+He wiped the drool off his face while flailing at the snooze button, not awake enough to notice that he was still sitting at his desk and not lying in bed.
+
+He finally managed to silence his alarm, realizing that it was only a few minutes before noon. He had slept in his chair for over eight hours. Crap. I have to get back online, or the guild is going to kill me. But first, he needed to put on a fresh pot of coffee and run through the shower. Then bag up the garbage piled around his ankles and purge the mountain of dishes that were growing more disgusting by the minute.
+
+Nick summoned his willpower and rose to his feet, skin peeling free from the chair’s leather embrace. He had just drained the lizard and stepped out of his bathroom when he noticed a strange distortion in his vision—a squat blob lurking in the periphery of his view.
+
+He tried wiping the smudge with his fingers. Although he dislodged a wad of gunk from the corner of his eye, the blurry spot stubbornly refused to clear up. If anything, it was darker than before, separating as it started to spread.
+
+He walked into the kitchen and held his eyes beneath the faucet. But the running water didn’t help at all. By now, Nick was starting to get nervous. If this gets any worse, it’s going to impact my play. Maybe it’s an optical migraine. Mom said they could really do a number on your eyesight.
+
+As he pondered the matter, the distorted area continued to expand, forming a kaleidoscopic fractal across the top of his field of view. The strange shapes became more complex as they separated from the mass, forming intricate geometries that resembled some kind of runic language.
+
+Weird. The placement reminds me of a menu. Nick pulled out his phone and started looking up his symptoms. He was praying that whatever this was, it wouldn’t ruin his plans for the day, let alone wind up being something serious.
+
+Whenever he moved his head, the distortion followed his gaze like a sophisticated AR overlay, hovering just above whatever he was looking at. The shapes rapidly grew more distinct, forming weird alien symbols. All sharp points and sweeping curves, bordered by fractal filigree. As he continued to stare, his phone forgotten in the face of this unprecedented experience, the symbols shifted and became words.
+
+Please wait…
+
+I don’t think that an optical migraine can form phrases in English. Nick was growing increasingly worried as his symptoms progressed. No. I can understand the symbols now, but that’s not any language I recognize. This is starting to feel like a complex hallucination rather than a problem with my eyes.
+
+Fuck. I hope there’s nothing wrong with my brain. I need to go to the emergency room and get an MRI before this gets any worse. Like it or not, it’s time to call 911.
+
+Nick had just dialed the final digit when the symbols abruptly multiplied and started streaking in front of his eyes, filling the entirety of his vision.
+
+System Message: Planetary alert.
+
+Notice to all residents. Planet [Earth, 0] has refined sufficient cosmic energy to gain a level. New planetary level: 1.
+
+The playtime of planet [Earth, 1] is 4.543 billion years.
+
+The minimum threshold for System candidacy has been met.
+
+Integration into transdimensional space initiated… Integration complete.
+
+Initiating preparations for planetary ascension.
+
+Scanning the planet for higher-order lifeforms… Search failed.
+
+No higher-order lifeforms have been detected on [Earth, 1].
+
+Scanning for the closest match… Search complete.
+
+Dominant species identified as [Humans].
+
+Initiating System Protocol 147dx3.
+
+Enhancing human geneline to meet the minimum threshold for System eligibility…
+
+Problem: Humans of Earth have no innate capacity for magic or other advanced energies (Species average: 0 Magic, 0 Resonance, 0 Psi).
+
+Solution: Awaken human geneline to enhance magical aptitude from 0 to 1.
+
+Problem: This geneline enhancement exceeds the developmental credits allocated to [Earth, 1] by approximately 300%.
+
+Solution: Remove 75% of biomass from the human species prior to enhancement (acceptable margin of error: 0.5%).
+
+Requesting emergency authorization for pre-tutorial, mandatory questing… Authorization received.
+
+Initiating a species-wide quest: Welcome to the System.

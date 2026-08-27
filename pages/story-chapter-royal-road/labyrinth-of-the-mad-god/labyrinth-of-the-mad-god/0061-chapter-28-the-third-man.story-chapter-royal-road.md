@@ -1,0 +1,79 @@
+---
+id: 64f7d61c-5dbc-5a9c-8041-af48f377c312
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: The Third Man"
+slug: 0061-chapter-28-the-third-man
+partOf: labyrinth-of-the-mad-god
+position: 61
+ownLength: 1831
+unit: words
+publishedAt: 2024-09-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1812256/chapter-28-the-third-man"
+royalRoadId: "1812256"
+---
+
+They took a break and ate lunch a few hours later, then continued on their way. Nick was glad to be back in the part of the facility that was inhabited by the construct swarm. The dirt-packed tunnels had felt considerably more claustrophobic, were harder to navigate, and smelled absolutely fucking awful. Thank heaven for small favors.
+
+He discovered more good news not long after. When they came across the next intersection, Nick realized that the curvature of the wall was visible along the ring-shaped path they followed, indicating that they were drawing near the middle of the floor at last. Since the intersecting path was perfectly straight, it was impossible to get lost past this point, for which he was extremely grateful.
+
+He felt more optimistic than he had in days. All they needed to do now was meet up with the rest of their party and find the stairs, and Nick had a hunch that it would happen relatively soon. A premonition that was borne out less than an hour later. As they passed by a row of rooms and drew near another intersection, Veronica held up a closed fist, the signal they had agreed meant, ‘Stop. I hear something.’
+
+Sure enough, when Nick went still and sent his awareness into his ears, he was able to hear a man’s voice in the distance, although the echoes warped the words too much to make out their meaning. He broke into a broad grin and said, “I think it’s Kenji. We’ve finally found another member of our team.”
+
+His optimism was tempered by V’s reply. “He wouldn’t raise his voice like that unless he was in trouble. We should hurry.” Nick didn’t bother to reply. He just fell in beside Veronica as they started running down the tunnel, heading toward the distant voice. It was difficult to track its origin due to all the echoes, but they were able to figure out which branch to follow before the cries abruptly cut off.
+
+While Nick was concerned about this development, it didn’t put a damper how excited he felt in that moment. He’d been worried about Kenji the whole time they were down here. After all, the last time that he seen the scarred strategist, Kenji had just lost an arm to the river king and was teetering on the verge of death.
+
+Nick had been afraid that the man hadn’t made it into the tower after the blackmist broke over them, since neither he nor V saw Kenji enter the tower. Having the brilliant tactician in their party would be an invaluable boon, and Nick felt his enthusiasm beginning to rise.
+
+In addition to his razor-sharp wit, Kenji was a skilled warrior and stalwart defender. He was better suited to taking hits than anyone else in team, except for maybe Devin. His aura would add some much-needed healing, complimenting V’s new power. Not to mention whatever boosts he’d gained from unlocking the ability mastery system.
+
+It would be a weight off Nick’s shoulders to have such a brilliant person directing their battles. Kenji had the keenest strategic mind out of anyone he’d ever met, on par with the top gamers from old Earth. Having him at their side would be wonderful in so many ways, and Nick couldn’t wait to see him.
+
+Although they didn’t hear him yell past that point, before long, the sounds of battle began reaching their ears, coaxing the duo into a burst of speed. They went streaking down the passage at an incredible rate, burning stamina to get there even faster, since V was starting to get the hang of it.
+
+The world was reduced to a blur as Nick began leaping over fallen stones, keeping an eye out for enemies enroute but spotting none. All the constructs in the area must already be engaged.
+
+Soon, the sound of the gear-rats’ squeaks grew distinct, and Nick knew that they were getting close. They sprinted down another long hall, took a final turn, and then a doorway opened on his left. Veronica and Nick came to a skidding stop, peeking their heads past the doorway to survey the situation before committing to their charge.
+
+It was a better situation than he’d feared. There weren’t any clockwork scorpions, just a big batch of rats. Inside the chamber were at least twenty of the mechanical menaces, swarming around the base of a massive slab of stone that had fallen from the roof. Its sheer sides that were too steep for them to scale. Instead, they were trying to form a pyramid to bridge the distance, each jump from the apex closer than the last.
+
+On top of the rock stood a lone figure, who was busy firing arrows down into the swarm, swearing every time that he fumbled a shot. A few of the rats had shafts sticking out of their bodies, but it wasn’t enough damage to trigger their teleportation reflex.
+
+The man’s back was to them. But he spun around when a rat was able to scamper onto the rock, sending it flying with a hasty kick. When he noticed them standing in the doorway, he turned to look Nick straight into his eyes.
+
+By this point, Nick was reeling from shock, having received the most unpleasant surprise he could imagine. Just as Veronica pointed and said, “Who the fuck is that?”
+
+Because the man in question wasn’t Kenji after all, but someone who Nick had hoped never to see again. A young man who had tried to rob Nick and leave him for dead back on the Blackmist Bog, although he had been woefully inept at the task. “Shaun,” Nick spoke the name and then growled in frustration. “What the hell are you doing here?”
+
+Shaun, along with half of the gear-rats, turned to face the fury reverberating in Nick’s voice. “Hi guys. Fancy meeting you here. Please don’t go. I know that we didn’t part on the best of terms. But I could really use a hand right now, if you happen to have a few minutes to spare.”
+
+Despite the show of bravado, it was clear that Shaun was terrified. His eyes showed the whites all the way around and there were dark circles below, revealing that he hadn’t slept a wink in days. It seemed that he’d been trapped up there for some time, locked in a battle of attrition with the swarm. At least we know there aren’t any other constructs nearby. If they were, the battle would have pulled them in by now.
+
+“Should we leave him?” Veronica cocked both crossbows and took aim, driving back the first few gear-rats headed their way. “Based on what you told me, he doesn’t sound like the kind of person I want on our team. He might have done something to Kenji.”
+
+“Tempting,” Nick raised his sword and prepared to meet the rats’ charge. All of them were covered in a thin layer of silver magic, shielded against his mana darts. Rather than wasting his reserves trying to break through, he decided to take them out the old-fashioned way.
+
+“I suppose that it comes down to how he answers this question.” Nick skewered two rats back-to-back, then looked up again. “Don’t you dare lie to me Shaun. I have a skill that will let me know if you do.” He’s too exhausted to think straight. The bluff should probably work. “What did you do to Kenji?”
+
+“Please don’t go!” Shaun cried out, voice cracking as his hysteria shone through. “I don’t know who that is. But I didn’t do anything to anyone, I swear it. I was running from the blackmist and all the monsters when I saw people heading around the side of the tower. I followed a woman wearing blue robes when she jumped into a hole and wound up alone down here.”
+
+“Stop yelling.” Nick let out a long sigh as he deepened his battle stance. “You’re lucky that you didn’t draw any of the gear-scorpions to you, or you’d be dead already. These clockwork constructs hunt by sound, so you need to learn how to fight as quietly as you can. I’ll tell you what. If you can take out any of them with that bow right now, I might be inclined to treat you better after we get you down from there.”
+
+“Ok. I’ll try.” Shaun lowered his voice and raised his bow, raising Nick’s estimation of the man by just a hair. By now, all the rats were headed Nick’s way. Shaun drew back his bowstring and fired, catching a leaping rat in the stomach. It fell to the floor. But instead of vanishing, it turned and snapped the shaft between its teeth, then started limping its way toward Nick once more.
+
+Veronica began firing the moment the constructs were in range, shooting a fresh bolt every few seconds. She took out two with her initial volley, but the rest leapt out of the way. “Shit. These ones are different, Nick. In addition to their specialized shields, their movements are sharper than before. I think they’re adapting to our attacks in more ways than one. Let’s take them out all at once.”
+
+By now, all of Nick’s concentration was on the approaching rats. He didn’t have time to answer, since a pair of brass rodents were leaping for his throat. He ducked beneath the first flying construct, took aim, and then swung as hard as he could.
+
+He caught the mechanical menace square in the middle, cutting straight through it in a spray of gears and springs that went rolling across the floor. It remains popped out of existence the moment they hit the ground.
+
+She’s right, these ones have more dexterity than the others we fought. At least they’re still pretty fragile. Veronica switched to her bone claws after landing a final shot with her crossbow, fighting with Nick back-to-back as they began a vicious melee. Meanwhile, he swung, ducked, and dodged for everything he was worth.
+
+He leapt over a pair of constructs that were trying to bite his ankles, then ducked below a rat that was springing for his face. He kicked one hard that was coming for his stomach, sending it skidding across the floor. He darted after it, skewering it with the tip of his blade then bringing his boot down hard, pulverizing the brass rodent with a hearty crunch.
+
+By now the rest of the rats had arrived. Veronica took out one more with her claws, although they had a hard time penetrating the constructs’ plastic coating. When Nick had a moment to look over at Shaun, he saw that the man was doing his honest best to help with his bow. But most of his shots fell short or went wide, revealing that his skill with the weapon was still appealingly abysmal.
+
+“They’re in position,” V said. “Let’s finish them.”
+
+By way of reply, Nick raised his wand and fired.

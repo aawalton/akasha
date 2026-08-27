@@ -1,0 +1,207 @@
+---
+id: 94478d84-f9bb-5f9c-9b37-f4dc39bb35f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 — Magical Geography, Pt 6"
+slug: 0028-chapter-28-magical-geography-pt-6
+partOf: just-add-mana
+position: 28
+ownLength: 3972
+unit: words
+ownProgress: 3972
+publishedAt: 2025-08-30
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2560456/chapter-28-magical-geography-pt-6"
+royalRoadId: "2560456"
+markedReadAt: "2026-06-29T18:48:30.512Z"
+---
+
+Cale whistled as they pushed open the enormous golden doors that barred the entrance to the odd, spiral-shaped building at the heart of the Inverted Spires. Or, well, Leo pushed them open. Cale had taken one look at the size of them and immediately delegated the task to their resident minotaur, who rolled his eyes but didn't protest.
+
+They'd been right about what this building was, at least. It was definitely the tapestry archive. The hallway before them was full of layers upon layers of beautifully woven pieces of fabric, each one depicting in intricate detail different stages of Loomweaver history. The largest ones hung from the ceiling and stretched wide across the entire width of the hallway. Smaller ones were attached to the walls, elaborating on details that the large tapestries didn't have space for.
+
+Each one was lit by magic that had been imbued into every thread of the fabric, causing a variety of colored light to scatter across the pristine marble. Even the shelves were glowing, probably because they were stocked with abandoned or lesser tapestries that were still imbued with that same magic.
+
+It was an awe-inspiring sight. Definitely among the top thirty things he'd seen in all his lives, Cale decided, just behind the Echoing Falls he'd encountered a few realms back.
+
+"Whoa," Damien said, looking around. Once again, he drew his cloak around himself, as if afraid his decay mana might leak out and start breaking down some of the art around him.
+
+"I didn't think their archives looked like this," Leo said, looking around in wonder. "The textbooks don't do this justice. Are they drawing in mana, somehow?"
+
+"It looks like a variant of the domain magic we saw earlier," Cale said thoughtfully. The edges of each piece of fabric was embroidered with many of the same circular diagrams they'd noticed before, and they drew mana into them, converting it into light. It was a pretty elegant piece of spellwork.
+
+The three of them walked deeper into the archive, occasionally stopping to admire the stories being told within each piece of fabric. The entirety of the first ten, for instance, were dedicated to the formation of the Loomweaver noble house. It told the tale of a handsome nobleman who had found a poor weaver laboring away under a cruel stepfather, unable to leave because of her ailing mother. He'd been taken by the clothing she wove, the tapestries said, and whisked her away for a life of luxury.
+
+There was a pretty glaring hole in the story, though. Cale was suspicious immediately, since these stories almost never worked out the way the records claimed, but eventually even Leo and Damien were frowning as they examined the tapestries.
+
+"What happened to the weaver's mother?" Leo asked, looking around. "She's not even mentioned after that first one."
+
+"That's, um... a lot of... torture?" Damien said, wincing. A lot of the later tapestries depicted in excruciating detail exactly how the cruel stepfather suffered.
+
+"It's kind of gratuitous," Cale agreed with a slight frown, then hurried his friends past the rest of them. No reason to dwell on whatever all this was supposed to be. The tapestries after that, thankfully, were far less explicitly detailed and a lot more interesting—they were an account of how the products of their family had slowly gained more and more acclaim within Thyrahl's borders.
+
+And they were beautiful. Entire tapestries were dedicated to showing off the design of a single garment, often worn by some picturesque elf or the other. Cale withheld his sigh—really, elves took all the jobs when it came to this sort of thing—but both Leo and Damien seemed enthralled by the art, at least.
+
+Damien in particular... Cale watched him as he looked around, eyes darting from one thing to the next with his cloak held tight around his shoulders. He still didn't seem entirely comfortable with being outside, but Cale wondered if Sternkessel's expeditions weren't in some way a small kindness. The professor was sealing in his decay mana, after all.
+
+Without that, how often did Damien actually leave the walls of the Astral Wing?
+
+Leo, on the other hand, quickly took to sketching the contents of each tapestry with feverish abandon. "I wish I had a recording spell," he muttered, eyes alight with interest. "There's no way we'll be able to take all this down. There's so much of it! If Thyrahl knew these were here..."
+
+He paused, then turned to Cale eagerly. "Do you think we can take some of them?" he asked. "I bet we can get it back to Thyrahl. They'll probably pay us for them, even."
+
+Cale blinked, then raised an eyebrow. "This is probably the most valuable building in the Inverted Spires, and it's right at the center of everything," he said. "Do you think whatever's protecting this place is going to have a rule about touching those things?"
+
+Leo winced and slumped. "Right," he said glumly.
+
+"Maybe after we take care of it," Cale said, patting the minotaur on the shoulder. Or trying to, anyway. He had to tiptoe to reach it. "Worst case, I'm sure Professor Sternkessel has seen them all already. I'm sure he'd be willing to reproduce them if you asked. Isn't that right, professor?"
+
+There was a long pause before the professor responded. For the first time, he sounded vaguely reluctant. "...I suppose you have earned the right."
+
+Cale snickered.
+
+They were at eighteen points now. They'd earned one for the minor discovery of the rule about standing still, then three more for the discovery of the Loomweaver archives. Small discoveries and minor details in the tapestries they walked past amounted to another few points, but they didn't catch everything, partly because Cale was hurrying them along toward the center.
+
+They could afford to leave some points for the other students. Cale was more interested in what would be revealed at the end of it all. What exactly had caused all this? The Loomweavers were supposed to be part of the Thyrahl kingdom. The Inverted Spires, when he'd asked earlier, were apparently located on an island off the southernmost coast of Ercryst, just at the edge where the waters would transition into the Endless Deep. It was about as close to the other side of the world as one could get from Thyrahl.
+
+That their entire noble house had somehow ended up here was bizarre. Even moreso that the land was so strangely distorted. Had the Inverted Spires existed before the Loomweavers arrived, or had their presence caused all this?
+
+"Something feels off about all this," Cale said with a frown. Leo and Damien glanced at him, surprised.
+
+"What do you mean?" Damien asked.
+
+"More off than the land being torn in half and stuck upside-down?" Leo grumbled. Cale ignored him, his gaze growing sharper as he examined each tapestry they came across. They were depicting the Loomweavers' discovery of domain magic, now: they had realized that the fabrics they wove of the stars and constellations somehow captured a fragment of their essence into those fabrics. Eventually, they learned to simplify that into the circular diagrams he'd seen, creating a whole new form of magic and securing the position of the Loomweavers as one of the great noble houses of Thyrahl.
+
+Sternkessel was connected to this place. The fact that he used the same domain magic as the Loomweavers made that rather obvious. He was less certain, however, that the professor was involved with the impossible domain magic they'd witnessed earlier. The dome, perhaps, but not the refractor beast. What would be the point?
+
+More than that, as far as he could tell, nothing in the tapestries indicated that something like the refractor beast was even possible. The Loomweavers had never managed to figure out how to make a moving domain, and that particular detail conflicted with everything Cale knew of domain magic, too. There were some creatures that might have been capable of moving and animating them, but even then, the refractor beast shouldn't have been able to move like that.
+
+It certainly shouldn't have reacted to Leo's labyrinth magic.
+
+There had to be something doing it, though. Maybe it was something he hadn't encountered before. It wouldn't explain everything, but it would explain most of the oddities, including the strangeness of some of the rules. Something that didn't like being observed had rules against anyone looking in its direction; that much made sense, but...
+
+"I feel like I'm missing something," Cale said, an edge of frustration sliding into his voice. His brows furrowed as he glanced around and took in each new tapestry, each new discovery. A few of them held a rather familiar-looking armillary sphere as a decorative object in the background, and though that caught his attention, it wasn't what he was missing.
+
+Probably best he let the professor keep his secrets, anyway. The others could figure it out themselves if they were observant enough, and he didn't need to list every single discovery he made.
+
+Oddly enough, as he considered this, he thought he felt a vague sense of appreciation emanating from their professor.
+
+...He still had no idea how that worked. Cale was pretty sure the professor wasn't reading or feeding thoughts into his mind, but he was doing something.
+
+The domain magic being depicted here was promising, though. If everything with the Gift didn't end up working out for him, there was a chance he'd be able to pick this up and learn it instead. Domain magic was a little more limited than regular spellcasting, and this method in particular seemed like the sort of thing that would take lifetimes of study, but it wasn't like he didn't have time. Maybe he could get a primer from Sternkessel after class—
+
+Cale stopped in his tracks, his eyes narrowing as he came across a new set of tapestries. They were close to the middle of the spiral now. He could feel it. Its curve meant he couldn't see the end of it from where he stood, but the saturation of off-feeling mana was starting to make his teeth ache; just ahead of them and far beneath was the source of all this.
+
+His attention was caught by what was depicted on those tapestries, though. There was an abrupt transition from the beauty of the Loomweavers' homes and palaces to the more sterile brightness of the Inverted Spires, yet in none of them was there any indication that there was anything wrong. If anything, the tapestries depicted their transition to the Spires like it was some sort of perfect, orderly paradise, put into place by some new patriarch.
+
+Don't step on the grass. Don't break the windows.
+
+Cale's eyes narrowed. All rules had some reason or the other behind them. Sometimes, those reasons were simple. Vanity, a misguided pursuit of order, some desperation for power or a need to hide the truth.
+
+A simpler rule had triggered and skipped them past the most important set of tapestries. The corrupted magic was behind them now, and if Cale hadn't been paying attention to it in particular he might not have noticed it at all; whatever this was, it was insidious.
+
+"We got turned around," Cale announced. "Spatial magic. Trying to keep us away from whatever's doing this."
+
+He turned around, and the world skipped again. Almost like Sternkessel's method of transportation, Cale thought absently, except this one wasn't triggered by the professor at all. What was it trying to hide?
+
+He anchored his barriers to the ground and around his friends, then took a few steps forward. A simple trick, but it had broken powerful spatial magics before. Most spatial spells accounted only for the mage, not for complicated barrier constructs with multiple anchor points.
+
+Just like that, a new set of tapestries opened before them. Cale scanned them, his suspicions slowly growing from a spark into a flame.
+
+The Loomweavers' experimentation with domain magic had grown more dangerous and steadily more bold. The tapestries depicted them reaching further and further, attempting to create new domain glyphs out of constellations without names. Other times, they tried to make up their own constellations, using a primitive form of stellar magic. Those tapestries Cale didn't care much about.
+
+The one he did care about was the tapestry that was split in the middle. It depicted a mage designing a new circular diagram, copying it through a scrying glass; across from him, on a different tapestry altogether, was a set of stars that looked familiar.
+
+And he still hadn't spent a single night in Utelia, which meant if that was familiar to him, then the gap in the tapestry was meant to depict...
+
+"They didn't," he hissed. "Are they fucking idiots? What the fuck!"
+
+"What?" Leo turned to him, startled.
+
+"That constellation." Cale pointed angrily at the offending piece of fabric, glaring as if he could set it on fire with his gaze alone. "Do you recognize it?"
+
+Leo studied it for a moment. "...No?"
+
+"Damien? What about you?" Cale whirled on the dreadshade in question, making him shrink back.
+
+"I don't... think so?" Damien squeaked out. Cale caught himself and took a step back before he scared Damien any further.
+
+It didn't stop him from starting to pace angrily, though. He stared at the tapestry again and scowled. "Well, I do," he said. "And that means that constellation isn't from this realm. They were trying to calculate new domain magic using constellations from different realms. Of all the bloody stupid, foolish, idiotic things to do—"
+
+He snarled and cut himself off before he could really get into a rant. Instead, he began making his way deeper into the archive with angry but determined steps. "They were trying to expand the reach of their magic," he said. It was all falling into place now. "They figured out a new kind of domain magic. We saw that. That's incredible for any mage, and frankly world-changing stuff for most of the realms. But they decided what they had wasn't enough and started trying to create new anchors for their magic based on constellations from other realms. Now, pop quiz. What do you think you have to do when you use magic that reaches into other realms?"
+
+"Uh..." Leo exchanged a nervous glance with Damien. Neither of them understood why Cale was quite so aggravated, probably. "You have to take defensive measures, right? Like when you're doing a summoning spell?"
+
+"Exactly." Cale jerked a thumb furiously at the tapestries around them. "Even an apprentice mage knows that. It's magic 101. Don't mess with magic that reaches across the Great Realms unless you know what you're doing, and always, always take measures to protect yourself from the Abyss. Guess what these mages didn't do?"
+
+"They didn't... guard their spells against the Abyss?" Leo said hesitantly. Damien nodded beside him, as if to agree, but he was half-hiding behind Leo at this point. Cale was too worked up to notice.
+
+"Congratulations," Cale said, throwing his hands into the air. "You're smarter than the genius mages that developed a whole new type of magic, apparently! At least you know you need to draw a basic defensive circle!"
+
+"I see you understand," Sternkessel's voice echoed out of nowhere, calm but severe. Cale glared up at him briefly.
+
+"You could have just told me," he muttered. "But yes, I do. And we're fixing this."
+
+"Cale," Leo said carefully. "What's going on?"
+
+Cale let out an aggravated sigh. He was silent for a moment, storming along the hallway like he didn't intend to explain a single thing, but eventually, he spoke. His voice was carefully controlled, like he was trying to stop himself from erupting all over again.
+
+"You already know this, but you can't just reach across the Great Realms without basic protective magic," Cale said. "It's a stupid thing to do. Even if all you're doing is domain magic, if you're designing an anchor that draws from another realm, you're basically casting a fishing line out into the Abyss. Yes, you'll find your target, but you're going to catch a whole lot of inter-realm detritus along the way. That's going to mess with the effects of your magic, which is bad enough on its own, but it also means you're going to bring everything you caught along the way back with you."
+
+He gestured furiously. "Think about it," he said. "The Inverted Spires don't match Loomweaver architecture. You two don't even recognize the architectural style, do you? That's because they caught a lost fragment of a different realm entirely and dragged it back with them. Their magic wasn't designed to do that, so it collapsed as soon as this chunk of land could materialize and brought them all with it.
+
+"And if that weren't bad enough, they caught something with it," Cale said grimly. He pointed up at the tapestries above them, which now depicted almost exactly what he was saying. There was a depiction of the Inverted Spires on one of them, except this time it wasn't inverted at all, being dragged through the space between the Great Realms.
+
+And caught at the bottom, nearly invisible, was something dangerous and formless. They depicted it as nothing more than a swirl of green thread, pulsing beneath the Spires.
+
+"So they break off a piece of a realm—or capture a piece of a lost one—and it acts like a planar net, catching and dragging along one of the many Abyssal Ones along with it," Cale continued grimly, to a sharp gasp from Damien and a wide-eyed stare from Leo. "Except adult Abyssals wouldn't get caught by something this ridiculous. Adult Abyssals don't flinch when a mortal being looks at them, even if their control over reality still gets slightly disrupted. So what do you think happened?"
+
+"They caught—" Damien swallowed, his tone almost unbelieving. "They caught a baby Abyssal?"
+
+"They caught a baby Abyssal," Cale snarled. The center of the spiral was in sight now—it was a large, circular room, with an empty hole set into the center of it. Like a well, except the depths of it were pitch-black, and corroded mana flowed out of it like water. "And you know, if that was all, it would have been fine. A sufficiently motivated mage would be able to find a way to send it back to the Abyss. But the Loomweavers? Oh, they got scared. Like mages always do when they meet something from outside the Great Realms."
+
+There was a spark of genuine disgust in Cale's voice. Both Damien and Leo winced at it, looking slightly uncomfortable, but Cale wasn't done.
+
+"So they bind it with domain magic," he said, gesturing to one of the final tapestries hung around the final room. It depicted the Loomweaver elders as heroes, capturing and corralling something unknowable with their domain magic. The green thread had grown into something larger and snakelike, with eyes beginning to emerge from its body, but golden circles kept it contained. "They make it their guardian. They use it to keep themselves safe and create a beautiful paradise here for themselves, away from the rest of the world, with stupid little rules like 'don't step on the grass' and 'don't break the windows.'"
+
+"Oh," Damien said softly.
+
+Cale exhaled, staring at the hole in the ground. "What they did was the equivalent of a magical lobotomy, do you understand?" he said, his voice quieter but no less intense. "I might not have encountered this specific case of it, but I've seen magical bindings like these. It enforces thought patterns. It tells you what you can think and when you can think it. And the Abyssal they bound is allowed to think only one thing: it must enforce the rules.
+
+"So it sits there, at the bottom of the paradise they've carved out for themselves, and all it can think is that it needs to enforce the rules. The rules are good. It needs to punish anyone that breaks them. Over and over and over, and—"
+
+Cale's voice broke slightly. He turned back to look at Damien and Leo. "Do you know what an Abyssal One is?" he asked.
+
+"I—" Damien started, then shook his head, looking uncertain.
+
+"They're creatures that live in the Abyss," Leo said. "It's not a species, just a name for anything that gets left in the Abyss when its parent realm gets lost or destroyed."
+
+"Right," Cale said. There was still an edge in his voice. "So most of the Abyssal Ones are the last of their kind. They aren't evil, but they can't live in any of the Great Realms anymore. Their very presence corrupts things and breaks the laws of physics and the rules of magic. They are exceedingly powerful, but also incredibly broken, and..."
+
+He trailed off for a moment, his eyes distant. They seemed almost wet. He blinked a few times, then shook his head.
+
+"It doesn't know what's happening to it," Cale said. "They got it so early it couldn't even grow its own mind. It has to enforce the rules and it has to punish, but it doesn't know what that looks like. It barely understands the idea of a punishment, let alone something as complicated as domain magic. But that's all it knows, because it's all the Loomweavers use, so it tries. It copies. It guesses. It thinks it's supposed to use domain magic, so it mimicks that, and it doesn't quite get it right. It doesn't know the difference between a beast and a domain, for example, and the two things get a little bit mixed up. But it keeps trying and doing its best, because according to its binding, that's what rule-enforcers like it are supposed to do."
+
+Cale sighed, the anger suddenly draining out of him. For a moment, he just looked tired and pained. Sad.
+
+Damien hesitated, then walked over and pulled him into a hug, draping his cloak around them both. There was a half-second in which he almost pulled away before he simply sagged and let it happen.
+
+After a moment, Leo joined them. "You care a lot about this," the minotaur observed quietly, but there was no judgement in his voice.
+
+"I suppose I do," Cale muttered. He forced himself to pull away, taking a few steps closer to the hole. "You don't have to follow me, but I need to fix this. I need to free this thing and send it back."
+
+"Can you do that?" Leo asked. Cale nodded.
+
+"I think so. But it'd be easier with some help." He took a deep breath. "Sternkessel, can you get Flia, please? She's another Astral Wing student."
+
+"You are sure you wish to do this?" Sternkessel asked.
+
+"Don't ask that question like you didn't bring me here specifically so I could do this," Cale grumbled. "Yes, I know. It doesn't know what's happening. It's going to try to fight back. But we can make this work, I'm sure of it."
+
+"I cannot guarantee your protection," Sternkessel warned. "I will have my hands full with the students."
+
+"That's fine," Cale said. "I don't need it. But get the kobold here. I think we're going to need them, too. And Damien?"
+
+Damien looked at him, clearly worried. "What is it?"
+
+"You want to heal with your magic." Cale's tone softened slightly. "I think you're discounting all the ways your aspect can still help people. Whatever this thing is, it's bound by an incredibly powerful domain, but we've seen that the domain is impermeable to decay mana. So..."
+
+Tired as he was, Cale managed a small grin. "Make sure you pay attention, because I think it's about time I show you what decay mana can really do. I've been itching to try out [Decay Bite], anyway."

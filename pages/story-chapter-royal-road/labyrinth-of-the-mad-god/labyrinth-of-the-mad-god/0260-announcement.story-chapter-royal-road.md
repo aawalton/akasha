@@ -1,0 +1,23 @@
+---
+id: e2836e03-df80-5c41-93f0-d3f2f5a1909c
+page-type-slug: story-chapter-royal-road
+title: "Announcement"
+slug: 0260-announcement
+partOf: labyrinth-of-the-mad-god
+position: 260
+ownLength: 172
+unit: words
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2836665/announcement"
+royalRoadId: "2836665"
+---
+
+Hey everybody, Magnus here.
+
+I hope your week is going well. I just wanted to pop in and let you know that Skill-Eater 2 was just released on Amazon, and I have a favor to ask.
+
+If you happen to have kindle unlimited or want to show your support for the series(and me as an author) and would be willing to download the book right now, it will help the story get noticed by the algorithm, gain new eyeballs, and promote the overall success of the series. All you have to do is download the book and open to page one, even if you don't plan on (re)reading it anytime soon.
+
+Also, if you would be wiling to leave a rating or review (which amazon might let you do even without a purchase) it would really help me out. Thanks as always to everyone who has left feedback, comments, and corrections. Your participation has made both Skill-Eater and Labyrinth of the Mad God better, and I couldn't do it without you.
+
+Thanks!

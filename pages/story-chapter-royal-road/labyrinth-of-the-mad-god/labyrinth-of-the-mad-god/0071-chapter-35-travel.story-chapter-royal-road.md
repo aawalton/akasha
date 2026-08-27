@@ -1,0 +1,95 @@
+---
+id: 46e4fce3-c56d-5eeb-b829-e5cf64501855
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: Travel"
+slug: 0071-chapter-35-travel
+partOf: labyrinth-of-the-mad-god
+position: 71
+ownLength: 1876
+unit: words
+publishedAt: 2024-10-07
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1839297/chapter-35-travel"
+royalRoadId: "1839297"
+---
+
+They left Kellen’s office in a somber mood, reflecting on everything they’d learned.
+
+Thanks to the map Veronica had found, navigating the mazelike complex was no longer an issue, although they had to occasionally double back to find their way around a collapsed passageway. They continued making their way down to the lowest level, focused on getting there as quickly as possible and preparing Shaun as they went.
+
+He needed to have a firm grasp of their tactics before the next big battle, so that he could stay in formation and not get in anyone’s way. While Shaun desperately needed more combat experience and practice with his abilities and weapons, it would have to wait until they made it to the next floor.
+
+Since attracting the attention of the construct swarm and roach horde seemed like a terminally bad idea at this point, they focused on improving his stealth while drilling the young man in their tactics. Going over everything until they were sure that he understood his position and role.
+
+While Shaun’s bow wouldn’t do much good until he improved his aim and found a better weapon, his abilities could still come in handy, adding some versatility to the team.
+
+After talking the matter through, they decided that he would save his smokescreen for running from the roaches. The rats hunted by sound wouldn’t be deterred by a bit of smoke. Using it at the wrong time could blind his own team, so Shaun agreed to wait for Nick’s command before firing off a smoke arrow. He would focus on protecting himself the rest of the time, while watching for opponents approaching from the rear.
+
+After Nick grouped opponents up with wand, Shaun could use his electric arrows to dish out some area of effect damage, just like Veronica and her napalm grenades. Although judging from the man’s description, they would only do a modest amount of damage.
+
+With any luck, the electricity would have a stunning effect too, increasing Shaun’s utility in battle by a fair margin. The biggest issue was his limited pool of mana. He could only use his abilities three or four times before running dry.
+
+Shaun’s powers honestly weren’t that bad considering his common class, and it was nice to have another ranged fighter in the mix. Once he has more experience in battle, he should be able to make a genuine contribution, even if his damage output is fairly low.
+
+Nick hoped that the power gap would continue to narrow once Shaun caught up in levels, especially after he gained access to the ability mastery system and ranked up his powers a time or two.
+
+As they continued making their way across the floor, Nick reflected on Shaun’s presence. He could tell that the young man was trying his best. He was listening to their guidance, trying to make himself as useful as he could.
+
+Nick still hadn’t forgiven Shaun for trying to rob him. But he decided that he couldn’t blame the man for the situation with Kenji, even though it was frustrating not knowing what had happened to their friend.
+
+With any luck, they would run into Kenji at the top of the tower. It would be deeply reassuring have the scarred tactician at their side during the battle with the boss on the roof. The final obstacle humanity had to overcome before they won back the Earth.
+
+But there was no point in worrying about it now. Not with three more floors to climb before the roof of the Tower of Rizzen would be within their reach.
+
+Although she seemed to have some sympathy for Shaun’s situation, Veronica was less patient with him. Especially when his clumsy movements revealed their location. It forced them to beat a hasty retreat on two separate occasions, when the rats had heard him and came to investigate the disturbance.
+
+Fortunately, they were able to hide before the swarm arrived on scene, preventing the party from bringing the wrath of the constructs down upon their heads.
+
+While it was a tense situation, it was better now that they knew where they were going and how to get there. Although everyone was worried that they would run into the monster known as the Janitor. That all changed a few hours later, when their day arrived at a turning point, transforming their stealthy crossing into a race against the clock.
+
+After heading down a long hallway, they came across another window overlooking the middle of the facility. This time, the floor was only about fifty feet below their boots. Just a few more hours to go. When Nick looked through the glass, he realized that the Janitor had been busy.
+
+The entire area was spotlessly clean, minus the shattered stones that the creature’s powers had torn free from the floor. Not a speck of garbage remained, liquid or solid, and every last scrap of the roaches’ bodies was gone.
+
+It made him wonder how many battles had taken place in this endless war for refuse. The construct collective and the roach colony must be able to regenerate their lost members at a rapid rate for the stalemate to drag months after the personnel maintaining the floor were slaughtered.
+
+But even with their abilities to evolve and adapt, neither army had been able to defeat the Janitor. The danger posed by the artificial life form was even greater than Nick had feared.
+
+It was the most dangerous creature they had encountered yet, except maybe the lord of the shadow hunt. Kellen’s log had stated that the Janitor was both D-grade and tier-two. Although it seemed to have some limitations compared to beings who had advanced that far naturally.
+
+It made Nick wonder how powerful his enemies would become by the time he reached the top of the tower. We need to find a way to evolve our race to D-grade too. We’ve been earning species experience throughout the fate of Earth quest, so hopefully we’re getting close. I still have no idea how to advance our tier. Maybe we can find some clues on one of the other floors.
+
+On a brighter note, the stairwell was still intact after the battle. The exit was impervious to damage as far as Nick could tell, since it had been between the Janitor and the retreating armies while it was pummeling them with powerful magic.
+
+That’s one less thing to worry about. Thank heaven for small favors. We just need to find the rest of our team, then time our entrance into the middle chamber so that we don’t get caught up in the garbage war.
+
+With any luck, the refuse dumps were portaled into the chamber at regular intervals, or at least with a minimum period between each shipment. Nick’s party could wait somewhere nearby until the latest drop was over and the floor’s residents had finished dining, then make a break for the stairs before the next batch arrived.
+
+Now that he was able to take a good look at the enclosure without anything obstructing his view, Nick memorized the layout of the room. He updated his mental map, including all the ground level tunnels he could see.
+
+Five minutes later, he turned to the others and said, “I think I’ve learned everything that I can from here. We’re getting close to the bottom, so let’s keep on going and hope that we run into the others on the way.” Just when Nick was getting ready to leave, Veronica stopped him dead in his tracks with her words.
+
+“Speak of the devil. Isn’t that…? It is. Nick, look over there. I can see Sophia and Devin. They’re ok!” Nick followed V’s finger, filled with a rising tide of excitement on hearing the good news. She gestured to a bank of windows about twenty feet above their heads. A section along the opposite wall that was in the middle of the roaches’ nest.
+
+Sure enough, Nick spotted two people moving along a dirt-lined passageway on the other side of the glass. When he pulled out his spyglass to take a closer look, he could see his friends clearly. Devin and Sophia looked worn out and disheveled, but they were uninjured as Nick could tell. Better still, he couldn’t see any roaches nearby.
+
+Veronica took out the map so that he could track their progress. Judging by their pace and the layout of the floor, before much longer, the pair would be out of the nest and make it down to the lowest level. If Nick’s party headed out now, everyone should be able to meet up only a short distance from the stairwell.
+
+They began yelling and waving their arms. But Devin and Sophia didn’t notice them and were out of sight a few minutes later. No problem, we should be able to catch up with them soon. Things are finally looking up.
+
+He reported his observations with a broad grin. “They are still in one piece. Let’s pick out a route that intersects with the path they’re following. We should be able regroup today and get the hell out of here at last. Nice going V!”
+
+“Um guys,” Shaun chimed in. “I hate to ruin the mood. But what the fuck is that? I think that it’s following them.” When Nick looked through his spyglass toward where Shaun was pointing, his good cheer evaporated like water dripping onto a hot pan. In its place, a leaden dread rose to squeeze his guts, fear replacing joy in the blink of an eye.
+
+Because moving across the floor, heading straight for the path that his friends were following, was the Janitor.
+
+It was easy to track despite its translucent body. The creature was destroying the nest in its wake, devouring the dirt to leave a clear trail behind. That explains why there aren’t any roaches in the area. They know the big bastard is there.
+
+The Janitor wasn’t on the same level as Nick’s friends yet. But it wasn’t far away and was moving in their direction. It must be after their essence, and they don’t know that it’s on their trail. “Veronica. I need you to take the lead while I study this map. We need to find a path that will let us reach them before that thing finds them first.”
+
+“I’m on it,” V replied, not wasting a second as she began walking toward the nearest tunnel.
+
+“I’ll watch the front, Shaun can watch the back. Nick, let me know when you have a route picked out, but let’s keep heading the way we were planning for now. It will take us around the middle of the floor in the opposite direction. That way, we can intercept Devin and Sophia without having to chase them.”
+
+Now racing the creature that was stalking his friends, his team abandoned any pretense of stealth. They started sprinting down the stone halls as fast as their feet would carry them. Adrenaline poured into Nick’s veins, the tension in the air ratcheting up by the heartbeat.
+
+There was a monster coming for Sophia and Devin, and his party was helpless to do anything other than run as fast as they could and pray that they made it in time.

@@ -1,0 +1,183 @@
+---
+id: e27b01e3-a843-5005-8251-e35f42d4389b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15"
+slug: 0016-chapter-15
+partOf: light-cleric
+position: 16
+ownLength: 2376
+unit: words
+publishedAt: 2021-06-07
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/695393/chapter-15"
+royalRoadId: "695393"
+---
+
+Once, the room had been the study of the Mayor of Pinefort. Near the top of the keep within the fort, the room had large windows that afforded a commanding view of the activity in the fort and beyond to the city itself. It had been repurposed into a private meeting room for the commanding officers of the Khulanty army and was furnished with chairs and couches arranged haphazardly as befitted whatever situation was brought to it.
+
+Piety sat next to Temperance on the short couch, watching Father Vytal and Commander Byron argue. Father Christoph sat in a large, high-backed chair, lips pursed thoughtfully. Mother Talitha stood behind Commander Byron’s chair, giving Father Vytal a stern look.
+
+“They’re far too young to be here, on the front lines,” Father Vytal said again. “They’re only acolytes.”
+
+“We have cadets as young as sixteen training here,” Commander Byron said, “going to the front lines.”
+
+“Piety is only thirteen,” Father Vytal said angrily. “And if you think I’m any more likely to change my mind because you’re sending children to die, you’re sorely mistaken.”
+
+“She is invaluable,” Mother Talitha said mildly. “Governor Kempenny’s forces are greater than we expected. Piety’s powers of healing and telepathy have helped save the lives of our soldiers.”
+
+Father Vytal looked at her. “You should know better, Allison. There is nothing gained by war. Nothing.”
+
+Commander Byron stood and paced. “Father Vytal, you act as though we are the aggressor. Do you suggest that we simply let Governor Kempenny march into Kinswell and take the throne?”
+
+“I suggest that we should never have let the situation get this far. We’ve known for years of Erin’s malcontent. We never pursued a path of reconciliation. I’ve been reading reports of intercepted messages between Erin and King Ferdinand of the Mountain Kingdom. We could have approached the Mountain King with our own overtures.”
+
+“None of this helps us now,” Mother Talitha said over Father Vytal, but Father Vytal didn’t stop speaking.
+
+“We could have convinced the council to force her to abdicate her position. Even now, we aren’t pursuing diplomatic avenues. We simply send our young men and women into brutal, violent, and deadly combat. We patch up the ones who survive and send them back out again.”
+
+Commander Byron glared at Father Vytal. “And what would you have us do? Send an envoy of diplomacy to the Governor Kempenny to be murdered?”
+
+Father Vytal shook his head. “Arrest the Governor. She has committed treason.”
+
+“What do you think we’re trying to do?” Commander Byron exploded. “She’s raised an army between herself and us. That makes it a little hard to take her captive.”
+
+“You think too much like a soldier,” Father Vytal chided. “To end this ill-conceived war efficiently, we’ll need to work circumspectly.
+
+Commander Byron did not take the rebuff lightly. “I’ll take your suggestion under advisement, Father.”
+
+“How do you propose to capture the Governor while circumventing the war, Tristam?” Mother Talitha asked.
+
+While the adults discussed various ways of sneaking into the lands still held by Kempenny, Temperance reached over to Piety and took her hand, squeezing gently.
+
+“He’s pretty angry,” Piety said.
+
+“Do you think they’ll let him take us away from here?”
+
+“I don’t want to leave,” Piety replied.
+
+Temperance was quiet for several seconds before she said, “You don’t?”
+
+“No. I’m useful here. I told Cleric Radden that you shouldn’t come.”
+
+“Why did you tell him that?”
+
+“I didn’t want you to get hurt.”
+
+There was another long pause and Piety listened while Mother Talitha and Commander Byron argued about the safest routes into the southernmost areas of Kempenny Duchy.
+
+Piety broke the silence. “You should go with Father Vytal.”
+
+Temperance squeezed Piety’s hand hard. “I’m not leaving you here alone.”
+
+“You don’t want to be here. Don’t make yourself miserable just because of me.”
+
+“I’m not leaving you.” Temperance eased her grip and Piety’s fingers tingled. “I’ll follow wherever you go. If you need to be here, then I do too.”
+
+Temperance released Piety’s hand then and cleared her throat. “Excuse me, Father Vytal?” she said, and immediately had everyone’s attention. She blushed and ducked her head, hunching her shoulders, suddenly shy. “Um,” she cleared her throat. “I realize you’re talking about something else now, but Piety and I won’t be leaving. We’re staying here, to help.”
+
+There were several moments of silence. Father Vytal turned to face the girls, confused and surprised. The other adults looked at him.
+
+“Temperance,” he started, but said nothing more, unable to continue.
+
+“We talked about it,” Temperance said, tapping the side of her head and nodding sideways at Piety. “We’re staying.”
+
+He knelt in front of them, the lines of his face set to a serious cast, his eyes searching them both.
+
+“Girls, I have seen combat, I have seen war up close. I have seen those horrors and I have committed them. I don’t want this for you. You don’t know violence the way I do. Please trust me when I tell you that you’re better off having no part in this.”
+
+Piety swallowed hard. The genuine pleading in his golden-brown eyes made her pause. She wanted nothing more in that moment than to agree with him, to let this man who had saved her from the orphanage save her again from this endless, bloody exhaustion. There was a part of her that would have enjoyed the feeling of safety and comfort that came with letting Father Vytal take care of her. But she shook her head.
+
+“I killed Vahramp’s creatures at Sunslance,” Piety said. “I saw Father Shane ripped apart and helped put him back together only to see him ripped apart again. I’ve seen so many wounds in the last month that they don’t disgust me anymore. Just yesterday, I took a man’s pain away so he could die in peace. I could have healed him, he could have lived, but it would have taken all my power and I would have been useless the rest of the day. Governor Kempenny brought this violence upon us and I will not do nothing. We’re staying, Father.”
+
+“You’re only thirteen,” Father Vytal protested. “You’re only a child.”
+
+Temperance whispered, “We’ve never been children. Sacred Heart made sure of that.”
+
+Father Vytal stood and turned away. He covered his face with his hands and bowed his head. For the several moments of silence that followed, Piety was worried they’d offended him, that he was going to leave and they’d never see him again. She was ready to take it all back, just to take the pain out of his posture, when he lifted his head.
+
+“I have been sent by the Church Council. Key members of the council, have taken interest in those reports concerning acolytes Temperance Sunday and Piety Churchstep. They have ordered the promotion of these acolytes to sisters.”
+
+He turned to face them then, and through the pain in his eyes he smiled.
+
+• • •
+
+Pinefort had a small chapel with three pews on either side of a narrow aisle. The dais was constructed of wood that had faded with age and creaked when trod upon. The walls had all been paneled with wood instead of being left as bare stone. The chapel had no exterior walls and so had no windows. Instead, the room was lit with rows of candles, lending a soft scent of beeswax to the air. Beeswax candles were rare on the warfront, but Piety was happy the chapel was afforded their use. They smelled nice.
+
+A pair of Swords of the Church stood to either side of the door, resplendent in their red armor, the metal plates polished to a shine. They stood silent and still, mute witness. Upon the dais stood Mother Talitha and Father Christoph, the two highest-ranking church officials at Pinefort, excepting Father Vytal. But Father Vytal had a different job at this ceremony.
+
+Mother Talitha was clad in a floor length gown of gold with pale cream slashes on the voluminous sleeves and scarlet stitching along the collar. At her neck was a spill of red lace. Her grey hair was pulled back and held on top of her head with lacquered hair pins decorated in gold and scarlet.
+
+Piety couldn’t imagine where she’d found all that finery in this place. Surely she couldn’t have foreseen needing a formal gown.
+
+Father Christoph was dressed in a suit of dark red with golden buttons. Stylized sunbursts decorated his chest. A stole of golden cloth hung about his neck, each end stripped horizontally in yellow, cream and scarlet.
+
+Piety and Temperance sat in a pew at the back of the small chapel while the elderly father who was one of the few personnel left over from the former mayor’s departure, droned on about the responsibilities of the Church of Khulanty to its people. The words were all splendid and profound, but the speech had begun to repeat its sentiments several minutes ago and Piety found herself considering escaping to the room in her mind.
+
+Temperance pinched Piety just above the elbow. “Are you paying attention?”
+
+Piety gave a small shrug. “Sort of. Is it time?”
+
+“Soon I think.”
+
+There was several more minutes of the elderly priest describing anecdotal evidence to support the position of the church with regards to charity and good works before he paused and fixed them with a distant look and a gentle smile.
+
+“And on this day it is you who take up this task. Let us all witness.”
+
+That was the signal.
+
+Temperance scooted out of the pew and waited for Piety to join her. Father Vytal stood from the pew behind them. Father Vytal was dressed in the palest brown Piety had ever seen. He was clad in robes, like the ancient clerics from the Scriptures, but the archaic dress seemed appropriate for him. The girls walked down the aisle side by side, Temperance toward Father Christoph on the left, and Piety toward Mother Talitha.
+
+Father Christoph spoke first. “Who comes to petition the Church to serve?”
+
+Piety and Temperance had talked all night about how to respond to the ceremonial question. They had, several times before, attended the promotion of acolytes to sisters at Sacred Heart and they knew the questions. The acolyte was supposed to respond with her name and her mother’s name and where she had grown up. But neither Piety nor Temperance had a mother and neither particularly wanted to claim Sacred Heart, or even Three Rivers as their hometown.
+
+“I am Temperance Sunday, daughter of Khulanty.”
+
+Father Christoph smiled at the response. “And who sponsors this child who so petitions?”
+
+“I do,” said Father Vytal from behind them.
+
+Father Christoph nodded once.
+
+“Who comes to petition the Church to serve?” asked Mother Talitha. She fixed Piety with a piercing gaze, her one blue eye reminding Piety of Father Shane.
+
+“I am Piety Churchstep, daughter of Khulanty.”
+
+“And who sponsors this child who so petitions?”
+
+“I do,” said Father Vytal again.
+
+Mother Talitha nodded curtly. “Kneel, children,” she told them.
+
+Temperance and Piety knelt, the simple white dresses they’d been given to wear during this ceremony billowing gently about them. Temperance touched Piety’s knee with her right hand, and Piety took it with her left. Piety opened her telepathy to Temperance.
+
+“I’m scared,” Temperance said. “I’m not sure I can be a proper sister.”
+
+“Why not? The sisters at Sacred Heart didn’t seem to do much to earn the title.”
+
+Temperance shuddered. Piety could feel it in her friend’s hand and in her mind. “I definitely don’t want to be like them. Piety, I don’t want this.” Her body was tensed, ready to stand and flee the small chapel.
+
+Piety squeezed her friend’s hand. “We’ll be like Father Vytal, not the Mother Superior.”
+
+“But I can’t be as brave and strong as Father Vytal,” Temperance objected.
+
+“I’ll be right here, Temperance. I won’t leave you to do this on your own. We’ll help each other.”
+
+The mental conversation took only moments.
+
+Father Christoph shifted his gaze from the girls to Father Vytal behind them. “By what evidence do you sponsor these children?”
+
+Father Vytal knelt behind them, laying a gentle hand on their shoulders like a sort of distant embrace. “I am Tristam Vytal, of the Church of Khulanty. I have witnessed the worthiness of these acolytes of the Church, and I deem them worthy to enter the service of the people of the Church.”
+
+He paused for breath and when he spoke again, he was sending his thoughts to them so that his words echoed gently in their minds.
+
+“I have seen them leap up in the middle of the night to help those in need. I have seen them work tirelessly and never once ask for recompense. I have seen them in desperate danger, and refuse to give up.”
+
+The pride and admiration with which Father Vytal spoke filled the room and filled their minds. His voice was like a warm blanket on a winter day. Piety found the tears had come unbidden and, for the first time she could remember, she didn’t try to stem them.
+
+“They are my daughters in all but blood. They will serve the people of Khulanty well.”
+
+With identical motions, Father Christoph and Mother Talitha withdrew a pair of red-lacquered sunburst amulets from their pockets. Piety’s eyes were on Mother Talitha’s as the woman held open the leather cord and knelt to lower it over Piety’s head. The woman’s expression had faded from hard and formal to kind and smiling. After she put the sunburst over Piety’s head, she kissed her on the forehead.
+
+“You are now as you have ever been, a Child of God,” Mother Talitha whispered a moment before Father Christoph did.
+
+At Sacred Heart, after a ceremony such as this, the Mother would lead them in lengthy prayer and praise of the new Sisters, several hymns sung in their honor, and a great feast. Orphans weren’t allowed a taste of the feast, of course, and could only savor the glorious smells. But on this day, in this place, there was no further praise, no hymns, and no feast. Instead, they stood and filed out of the chapel quietly.

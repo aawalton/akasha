@@ -1,0 +1,53 @@
+---
+id: e4281666-51a8-5943-ba50-290ce086fc47
+page-type-slug: story-chapter-royal-road
+title: "Epilogue: Behind the Scenes"
+slug: 0181-epilogue-behind-the-scenes
+partOf: labyrinth-of-the-mad-god
+position: 181
+ownLength: 661
+unit: words
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2335897/epilogue-behind-the-scenes"
+royalRoadId: "2335897"
+---
+
+On the top of Darkstone Tower, silence reigned.
+
+The champions of Earth had returned to their world and the Mad God had retreated to his realm. The planet shining in the sky above was safe for now, although countless dangers awaited it within the Labyrinth. Thanks to the System’s gambit, humanity would have a fighting chance of ascending to the peaks of power, though the road would be long and fraught with peril.
+
+Sometime later, a robed figure wavered into existence atop the battle-scarred stones, staring up at the brilliant blue world while wondering what the future would hold. Soon, it would be time to set his own plans into motion and a new chapter in the war between demigods would begin.
+
+The figure walked over to where the Guardian had toppled over the edge of the rooftop and said, “If you’re done being dramatic, I would like to hear your opinion.”
+
+After a pregnant pause, a gear-studded hand gripped the stonework, then the clockwork warrior appeared. The Guardian leapt lightly onto the roof, turned to face the speaker, and bowed deeply. “As you command.”
+
+“Take that suit off, Rizzen.” The demigod sighed. “You look ridiculous.” The Guardian reached up and removed its faceplate, revealing the features of a man who was very much alive.
+
+“Yes, Lord Perseverance.” The clockwork exosuit wavered out of existence, fading away until a man wearing a white lab coat stood beside the figure clad in robes. “I must say, that was more fun than I expected. It’s been ages since I worked up a sweat against a tier-1 warrior, even while restricted.”
+
+“Now that you’ve seen the champions of Earth up close, what was your impression of them?” Perseverance gestured toward the planet above. “I find myself intrigued by the three who managed to evolve early—especially the man bonded to that artifact-blade.”
+
+“It’s easy to see why the System chose them as its pawns, along with a handful of others. What they have achieved is remarkable, rising from the ashes despite the whims of the Mad God. Their entire species is fascinating. I wish you had let me collect a few for further study.”
+
+“We can’t afford to tip our hand, Rizzen. Not at this critical juncture. If Taltos or the System catch wind of our involvement, all our plans will be for naught.”
+
+“As you say, Lord Perseverance. Even without research subjects, the data I recorded from their climb will keep me busy for quite some time.” The scientist rubbed his hands together.
+
+“Speaking of their climb, it’s rare to see you take a non-neutral stance, Rizzen.”
+
+The man looked wounded by the accusation. “I have no idea what you mean, your eminence. They won a fair fight against a tier-2 elite. I copied the consciousness of a well-researched specimen, recreated its concept, and matched its performance and personality perfectly. All their victors were the product of their merits—their own effort, potential, and the whims of fortune. If some of the rewards happened to be unusually generous… well a few anomalies are bound to be present in such a rich data set.”
+
+“Don’t you think giving Nick five Species-Experience Pills was excessive? The System only authorized two.”
+
+“I don’t know what you’re talking about.” The scientist adjusted his glasses, then flashed an ear-to-ear grin. “I didn’t give him anything. He stole them fair and square.”
+
+"And rotating the moon to make the Earth rise at the exact moment Kenji was giving his speech?"
+
+"Purely for dramatic effect."
+
+Rizzen bowed and then vanished in a flash of light, leaving Perseverance alone with his thoughts.
+
+The demigod stared up at the Earth, mulling over the pivotal event that had just taken place. Eventually, he smiled and said, “I understand why you’re so excited, old friend. I have no idea what will happen when Nick uncovers the secrets hidden within the Labyrinth of the Mad God, and I can’t wait to find out.”
+
+End of Book Three

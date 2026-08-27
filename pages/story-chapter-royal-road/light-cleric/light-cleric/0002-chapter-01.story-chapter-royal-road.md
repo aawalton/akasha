@@ -1,0 +1,401 @@
+---
+id: a3abfd86-53c8-5c53-a1b2-993e7919ee2f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 01"
+slug: 0002-chapter-01
+partOf: light-cleric
+position: 2
+ownLength: 5410
+unit: words
+publishedAt: 2020-12-12
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/598894/chapter-01"
+royalRoadId: "598894"
+---
+
+Year 1
+
+When she awoke, it was to the cruel hand of the Mother Superior.
+
+Sweep flinched and yelped, scrambling to her feet, hands folded at her waist, back straight. She opened her eyes to the harsh glare of the Mother’s lantern, and had to blink back tears. The Mother Superior was dressed in her full formal church uniform; scarlet, floor-length dress with gold trim, hair pulled up tightly, rod of office snug between belt and waist.
+
+Mentally, Sweep chastised herself for failing to hear the Mother’s footfalls. Hearing those distinctive footfalls, even while asleep, had saved her from such abrupt awakenings before. It had been a dream that had distracted her, a dream of purple eyes and storm-tossed chessboards. It had seemed important at the time.
+
+Sweep kept her eyes on the stone floor, silently, awaiting the Mother’s command.
+
+From the other bed, Temperance struggled to her feet and stood with her head bowed. The Mother didn’t spare Temperance a second glance, and Sweep was grateful. The Mother’s hatred for Sweep resulted in Temperance rarely suffering more than neglect, which was better than the alternative.
+
+The Mother looked at Sweep as she always did, with disdain.
+
+“Acolyte Weaver has taken ill,” the Mother snapped, filling the room with her voice.
+
+“Yes, Mother,” both girls responded.
+
+The Mother pointed at Sweep. “You’ll tend her today in addition to your other duties.”
+
+“Yes, Mother.”
+
+The Mother left without another word, brushing past the curtain that separated their room from the hallway, taking her lamp with her, thrusting them into darkness. Sweep gave a sigh of relief that Temperance echoed. Confrontations with the Mother Superior were often considerably less pleasant.
+
+“Good morning, Temperance,” Sweep said lightly.
+
+Temperance laughed nervously through the darkness, and Sweep heard her sit heavily on her bed.
+
+Since the Mother had taken her lantern with her, Sweep navigated the small room by feel and memory. The small trunk between the two narrow beds held the girls’ clothes. Sweep retrieved a dress, the same grey dress all orphans wore. Despite the nearly two years age gap, both girls were short and skinny and mostly the same size. As such, they were unconcerned with keeping their clothes separate.
+
+“You’re not going now, are you?” Temperance asked.
+
+“If I’m going to have time to eat today, I’ll need to get my sweeping chores started early.”
+
+Temperance sighed again. “Why does she always pick you for extra work?”
+
+Sweep slipped into the dress she had retrieved, pulling the thin belt tight about her waist. She shrugged at Temperance’s question and ran a hand through her short, white hair. She would have preferred to have it long like the other girls, but the Mother insisted it be kept short.
+
+“Why do I have white hair and use my left hand?” Sweep asked in return.
+
+“It’s not fair,” Temperance muttered.
+
+“You once told me that they’re the adults and we’re just orphans.” She bound her short, white hair in a grey handkerchief to keep it hidden. “Of course it’s not fair, it is what it is.”
+
+“I said that?” Temperance scoffed. “Saint Weston the Wise warned against heeding the wisdom of fools.”
+
+“He also said ‘Truth spoken by accident is no less truth.’ I’ll be fine. You should get some more sleep, I’ll see you later.”
+
+Sweep pushed aside the curtain separating their room from the hallway, but Temperance stopped her with a hand on her shoulder. When Sweep turned, Temperance leaned forward and gave her a kiss on the cheek then hugged her tightly.
+
+“Happy birthday,” said Temperance, “It’s Newyear. You’re twelve years old now.”
+
+“Oh.” Sweep returned the hug. “I’d forgotten.”
+
+Temperance released her friend and took a step back. “I know. I wish I had a better present for you.”
+
+Sweep smiled. Neither Sweep nor Temperance knew how old they truly were. The Sisters of Sacred Heart recorded the day an orphan was taken in by the church as the orphan’s founday. Sweep and Temperance had chosen to consider their foundays their birthdays and celebrate as best they could.
+
+Sweep made her way silently through the dark, cold dormitory halls to the sanctuary. It wasn’t any warmer in the sanctuary and barely brighter; the candles had burned down in the night, which meant some orphan had shirked her duty.
+
+Sweep went to the cupboard where the candles were kept and gathered as many as she could without dropping them. Replacing and lighting the candles took nearly an hour, but by the task’s end, she was feeling wide awake and warm, and the sanctuary was well lit, as it was meant to be.
+
+In an alcove at the back of the sanctuary was a small closet where Sweep kept a broom specifically for the sanctuary. The broom wasn’t special, but the Mother got cranky if she thought the sanctuary hadn’t been recently swept.
+
+The sanctuary was a large room and so Sweep had developed a strategy—starting behind the dais, then sweeping the aisle, then between the pews, taking all the dust to the sides of the sanctuary. Once there, she’d sweep the sides until she was at the grand entryway to the sanctuary.
+
+This job, too, took nearly an hour.
+
+At the entryway, she put a hand on one of the great double doors and pushed it open. The doors were never locked; in fact there was no way to lock them as they were meant to always be open to any seeking entry to God’s house. The doors were large, made from solid wood carted from the coast where Kinswell, the capital of Khulanty, was. The doors were stained dark like the pews and carved with religious images. Prominently in the center of each was a large sunburst, the symbol of God. Along each hinge side, were the Eight Saints. Along the bottom of the doors were images of pious mortals, kneeling in prayer. Once a month, Sweep oiled the hinges and polished the copper handles.
+
+Large as the doors were, they swung open easily and quietly. As soon as the door was open, a gust of chilled air pushed inside, carrying the scent of rain. It reminded Sweep of her dreams of the purple-eyed woman, and she smiled. The rain had stopped but the step leading from stone cobbled street to church door was still damp, washed clean.
+
+Sweep slipped her slippers off, stepping out onto the cold, damp stone in her bare feet. She shivered and the hairs upon her arms and legs stood on end. The initial gust had scattered her careful dust pile from the sanctuary, but she re-gathered it and swept it out onto the stone step and then swept the step thoroughly, enjoying the wet stone on her bare feet.
+
+When she was done, she made to move back inside, but stopped when she felt a raindrop strike her shoulder. The water soaked into her dress, and she relished the feeling for several moments before she looked at the grey sky and was graced with another droplet upon her forehead. That droplet suffused her with a tingly energy. It was a familiar feeling, the same she’d felt when first seeing the room in her mind. Just at the edge of hearing came the gentle chimes.
+
+Sweep laughed and felt the power strengthen. She stared into the clouds as more drops pattered about her, streaks of water rushing toward the earth, and for a moment, her mind rushed to meet them, streaking away into the air.
+
+She danced among the clouds, slipping between them, dodging and leaping about the cloudscape. Here, over the valley, the clouds dropped rain, but Sweep could feel that further up, where the clouds were piled atop the mountains in the west, snow fell in thick, wet flakes.
+
+Below her spread the village of Appledel in the Valley of the Three Rivers, nestled in the Western Mountains of the Nation of Khulanty. Miles of orchards and farms hugged the threee rivers in an otherwise arid landscape. The farmland was fed by the three rivers, which eventually merged into the Grand River on the plains east of the valley.
+
+All of this Sweep saw and knew from her place among the clouds. Then she fell, side by side with the other raindrops, she stretched to a streak of water and power. The ground neared at an exhilarating rate, but she felt no fear. She and the others struck but did not stop. They sank into the thirsty earth. Life, long since asleep, woke at her touch, stirred, and strove for the surface.
+
+With a gasp, Sweep returned to herself, breathing hard and feeling as though she’d spent all day scrubbing every floor of Sacred Heart. The rain came more steadily now. She hurried inside, closed the door, and leaned against it. Her heart beat fast and her eyes were shut tight. She slowed her breathing, reminding herself of the meditation exercises used in prayer. Soon, she was able to breathe without gasping, and her muscles relaxed.
+
+It was new and thrilling and frightening. Sweep had grown accustomed to the room in her mind, playing chess with her subconscious, and having access to books she’d never heard of. She had felt the tingly energy and heard the faint chimes since she’d been four years old. But leaping into a storm cloud and falling with the rain was a new development. Not for the first time, Sweep wondered if she was hallucinating.
+
+Either way, there was work yet to be done. She took another breath to steady herself, slipped her slippers back on, and got to it.
+
+Finished in the sanctuary, Sweep moved on to the dormitory hallways, acolytes’ first, orphans’ next. She swept methodically, gathering the debris into a dust pan and disposing of it at windows and side doors, trying to take refuge in the mundane task.
+
+By the time she was finished sweeping the classrooms, the church bell sounded six-hour, alerting Sweep that breakfast was in five minutes. There was an entrance to the refectory near the classrooms, but that entrance was reserved for acolytes and sisters; orphans were forbidden to use it. To get to the orphans’ entrance, she would have to navigate the acolytes’ dormitories, through the hallway between the dormitories and the sanctuary, then through the orphans’ dormitories to the refectory entrance. However, the hour was early enough that acolytes and sisters might not yet be in the refectory.
+
+For several moments, Sweep considered chancing use of the acolytes’ entrance, but she decided she didn’t want a beating so early in the morning. Instead, she walked as quickly as she dared on the circuitous route to the orphans’ entrance. To be caught running in the halls was to risk a beating as well.
+
+Temperance was at the end of the line, looking anxiously down the hallway, when Sweep hurried around the corner. Temperance smiled with relief when she saw her.
+
+“I thought you weren’t going to make it.”
+
+Sweep tried to control her breathing. “You know I wouldn’t miss breakfast.”
+
+The girls filed into the refectory and to the long wooden table nearest the orphans’ entrance. The other two tables were reserved for acolytes. Acolytes weren’t required to wake when orphans were, but even so there were a few girls at those tables. Sweep was relieved she’d made the effort to go the long way around. There was no one at the head table which redoubled Sweep’s relief. If the Mother saw her looking harried she might have decided to investigate. Further, it meant she could eat without worrying about having to use her right hand instead of her left.
+
+The girls sat, Sweep and Temperance at the end of the table, a little separated from the others. The orphans who had kitchen duty in the early morning filed into the refectory from the door near the head table. They carried trays laden with bowls of porridge. The tray was set on the table and the girls each took a bowl. Sweep ate heartily, her early morning work awaking adolescent hunger.
+
+Someone nearby sighed. “What I wouldn’t give for a taste of strawberry.”
+
+Sweep looked up. It was Lillyfield, a petite girl who had the habit of staring off in a dreamy sort of way.
+
+Another girl, Faith, leaned forward and whispered. “Yesterday morning, when I was in the kitchen…” she paused and looked around dramatically. Several orphan girls leaned in, and Faith played to the audience by raising her eyebrows dramatically. “I snitched one and gobbled it down.”
+
+“No!” exclaimed someone further down the table.
+
+“Wasn’t Cook angry with you?” asked Lillyfield.
+
+“That fat old nag?” Faith dismissed Cook, “She didn’t even notice.”
+
+“I tried that once.” Lillyfield said. “Cook rapped my knuckles with that spoon she carries.”
+
+Some of the girls laughed.
+
+“She did you a favor,” said Sweep. She knew she would win no friends by speaking up, but Cook, a recent addition to Sacred Heart, was a good woman, and Sweep didn’t like what Faith had said about her. Besides, it wasn’t wise to brag about breaking the rules. Though the other orphans were not her friends, Sweep strove to reduce the number of victims at Sacred Heart.
+
+The other orphans quieted down. Sweep looked up from her bowl of porridge and down the table to see Lillyfield glaring at her.
+
+“What do you mean?” Lillyfield demanded. “Don’t I deserve a berry once in a while?”
+
+Sweep shrugged. “I wouldn’t know. But I do know that if the Mother found out, you’d have gotten more than a rap on the knuckles.”
+
+“How would Mother find out?” Faith demanded.
+
+Sweep shifted her gaze to Faith who looked about nervously instead of smugly, no longer proud of her burglary.
+
+Sweep shrugged again, but then nodded her head to those few acolytes in the refectory. Several orphans looked at the acolytes and the acolytes hurriedly looked away.
+
+“Thanks a lot, Sweep,” Faith muttered. “Now see what you’ve done?”
+
+Sweep didn’t respond; she was used to being blamed.
+
+“They’ll probably run straight to Mother,” said Lillyfield.
+
+Faith groaned and shot another glare at Sweep.
+
+“It’s not her fault,” Temperance objected. “You shouldn’t have bragged and you shouldn’t have stolen.”
+
+“You don’t always have to take her side,” Faith snapped. “Sweep can’t do anything to you. She’s just unclean. It’s not like she has magic or anything.”
+
+Some of the other girls giggled at the notion.
+
+Temperance opened her mouth to speak again, but Sweep tapped her friend’s knee lightly under the table, the signal to let the confrontation pass. The other girls liked Temperance, they pitied her for having to share a room with Sweep. Sweep didn’t want Temperance to have to deal abuse from the other orphans just because of her.
+
+The mid-hour bell tolled and the girls on kitchen duty emerged to collect the bowls from breakfast. Sweep finished off her porridge before standing. She and Temperance began collecting bowls as well while other girls made their way to morning lessons.
+
+“I’ve warned them before about talking where the acolytes can hear,” Sweep whispered.
+
+Temperance nodded, but when she spoke, it was to change the subject. “I hate washing dishes,” she complained as they carried the bowls into the kitchen. “My hands get all wrinkly and gross.”
+
+“It beats cooking,” Sweep countered.
+
+“What was that?” snapped a harsh voice.
+
+Sweep and Temperance jumped. Sweep spun around, an apology on her lips, when she saw Cook’s stern face. Cook was a large woman with butter-colored hair and eyes like the sky. Cook had been at Sacred Heart just less than a year, and Sweep liked her far better than the previous cook, a thin old sister called Dora. Cook had never hit Sweep for making a mistake in the kitchen, despite Sweep’s many, many mistakes. It was said she was from an island in the south where it was always winter, but Cook never spoke on the subject.
+
+“Did I hear you correctly, young Sweep?” Cook demanded. “Do you mean to tell me you consider cooking beneath you?”
+
+Sweep held her smile in check. “No, ma’am,” she replied and gave a bow, balancing her bowls. “I consider it beyond me. Besides, everyone knows that any meal I help cook ends up with twice as many dishes to clean. If they all haven’t been broken that is.”
+
+Cook’s grim expression melted into loud laughter. Some of the other orphans even joined in. Other than Temperance, Cook was the only person at Sacred Heart who Sweep could relax around.
+
+“All right girls, you know what to do, Sweep, Lillyfield, Midnight, and Joy, to the sinks. Temperance, Hope, and Charity help me at the counter.”
+
+Sweep sighed. She had hoped she might have Temperance to talk to while she cleaned dishes, but she knew Temperance detested the chore and so could not begrudge her friend her minor fortune. For her part, she focused upon her task, ignoring the other girls’ chatter.
+
+The dishes went slowly because the others were more interested in gossip than chores. Occasionally, those assigned to dish washing went out into the refectory to collect the dirty dishes of the sisters and acolytes finished with breakfast. When Sister Dora had been in charge of the kitchen, she made Sweep collect dishes from the refectory by herself, but since Cook had taken over, everyone on dish duty was required to take a turn.
+
+When they were done, Lillyfield, Midnight, and Joy were all happy to have their hands out of the soapy water and went to Cook for further instructions. Sweep joined them slowly.
+
+When Cook looked at her, the woman pursed her lips, considering the situation, then pointed at a mixing spoon and bowl of flour meant to be bread dough. Sweep bit her lip apprehensively.
+
+“Don’t look at me like that, child,” Cook chided her, “You can mix without ruining it, I’m certain.”
+
+Sweep looked at her warily. “Don’t you remember last time?” Cook made a face but pointed to the bowl and mixing spoon. Against her better judgment, but with determination, Sweep approached the bowl and began to mix.
+
+When the next bell sounded, the girls finished the tasks they’d been assigned while Cook inspected.
+
+“All right,” she hollered, “off to lessons with you.”
+
+Sweep set her bowl upon the counter and dusted off her hands. But when she turned to leave she heard a crash behind her. Spinning around, she found her bowl dashed and bread dough splattered upon the stone floor. Sweep gasped and bent to clean the mess, instinctively bracing herself for a blow. Though Sister Dora would have hit her, Cook didn’t.
+
+“No, girl. I’ll tend it. I swear you’re cursed.”
+
+Sweep looked up at Cook. “I’m sorry.”
+
+“Think nothing of it, child. The Weaver girl is ill I hear, and you’re assigned to tend her. I’ll take care of this.”
+
+“But it’s my fault.”
+
+“No. I should have known better than to assign you a cooking task. It never ends well when I do. Off with you. Hurry up.”
+
+Sweep got to her feet and hurried from the kitchen and through the refectory. Temperance had waited for her at the entrance to the orphan’s dormitories.
+
+“We’re going to be late for lessons,” Temperance chided.
+
+“I’m not going to lessons,” Sweep reminded her. “I have to attend Acolyte Weaver.”
+
+“Oh.” Temperance made a face. “I forgot.”
+
+“Will you tutor me after dinner tonight?”
+
+“Of course.” Temperance leaned forward and gave Sweep a quick kiss on the cheek. “For luck,” she said, then disappeared down the hall.
+
+Sweep watched her go, then made her way to the acolytes’ dormitories and Lana Weaver’s room. The acolytes’ dormitories were not cold stone like the orphans’, but wood-paneled and well-lighted, swept clean every morning, usually by Sweep. Each door in the acolytes’ dormitories held a small metal plaque bearing the name of its resident. Sweep had heard of Lana, the girl was from a wealthy family, as were most of the acolytes. Lana was new, she had only been at Sacred Heart a month.
+
+Finding Lana’s door, Sweep knocked once and waited.
+
+“Come in,” Acolyte Weaver called.
+
+The acolytes’ rooms weren’t much larger than those of the orphans, but they weren’t shared. Thick rugs covered the floors, and the bed was twice the size of those the orphans used.
+
+Sweep closed the door behind her and bowed. “Good morning, Acolyte.”
+
+Acolyte Weaver was sitting up in bed, propped by several pillows, reading a small book. She rested the book on her lap and looked at Sweep.
+
+“Oh, hello. You’re Sweep.”
+
+Sweep bowed again. “Are you feeling well enough for breakfast?”
+
+“Yes,” said Lana. “I shall have fruit and spiced cider. And toast with butter and a small bowl of cream.”
+
+Sweep struggled with her surprise. Acolytes were not allowed to order whatever they liked from the kitchen, and if Acolyte Weaver was too sick to attend classes, she would be receiving whatever breakfast Sister Clarice determined was best for her. Sweep wavered between warning the girl and letting her reap the consequences.
+
+“Well?” Lana demanded.
+
+Sweep steeled herself, and tried to help. “Acolyte, it is my duty as an orphan to tend you, but I can’t bring you a breakfast like that. Cook and…”
+
+Acolyte Weaver’s face flushed. “How dare you defy me, motherless girl?” She threw a pillow at Sweep that flew far from its mark.
+
+Sweep didn’t flinch. “I’m not defying you. I’m trying to help. Cook and…”
+
+“I don’t care what that horrid giantess thinks. Bring me my breakfast.”
+
+Sweep hesitated. How many times could her warning be rebuffed before the cause was well and truly lost?
+
+Acolyte Weaver narrowed her eyes and took on a haughty look that Sweep recognized. “I have plenty of experience dealing with rebellious servants back home. Shall I take my hand to you, unclean orphan?”
+
+Sweep shook her head. It was obvious her warnings weren’t wanted and weren’t helping. Acolyte Weaver was just like the Mother Superior, a perfect little tyrant certain of her authority and ready to demonstrate it with force on a whim.
+
+Sweep bowed, departed, and made her way back to the kitchen, walking briskly so anyone who saw her would know she as on an errand and wouldn’t stop her.
+
+When she reached the kitchen, she paused in the doorway. Sister Clarice was in the kitchen, talking to Cook. Sister Clarice was the foremost healer at Sacred Heart. She looked up at Sweep’s presence.
+
+“What is it, Sweep?”
+
+Sweep stepped forward and bowed. “Pardon me, Sister, but Acolyte Weaver has asked me to bring her breakfast.”
+
+Sister Clarice nodded once. “Cook has prepared the broth.”
+
+Sweep hesitated again. She could take the broth to Acolyte Weaver and suffer whatever frustration the other girl decided to deal, or she could tell Sister Clarice and let her deal with the acolyte. The former was likely to get her another pillow thrown at her, along with further verbal abuse. The other was likely to get Acolyte Weaver a scolding. A scolding, Sweep decided, wasn’t so bad. At least that way, Acolyte Weaver would know what was expected of an ill acolyte.
+
+“Pardon, Sister, but Acolyte Weaver has asked for something else.”
+
+The sister frowned. “I see. In that case, I shall tend to Acolyte Weaver for the morning. You tend to her chores.”
+
+Sweep bowed. “Yes, Sister.”
+
+• • •
+
+“Sister Jayne said you must recite the whole poem from memory tomorrow during lessons.”
+
+Sweep looked at the part of the Scriptures Temperance was pointing at, and groaned. It was Saint Lucius’ Winter Proclamation. She knew it, but not by memory. “Well, perhaps Acolyte Weaver will pretend be sick again tomorrow, and I won’t have to do it.”
+
+Temperance looked dubious. “I don’t think Sister Jayne will consider that an adequate excuse.”
+
+“No excuse is adequate for Sister Jayne,” agreed Sweep.
+
+The bell tolled eighteen-hour and Sweep set aside the book. “Well, it will have to wait. I’m not going to miss dinner.” The girls left their room to join the others lining up in the hall to the orphan’s entrance to the refectory.
+
+Dinner, as always, was hard bread and thin soup and plain water. Once dinner was in place, Mother Superior stood at the head table and the sisters followed her lead, prompting the girls to do so as well. When everyone was standing, the Mother bowed her head and everyone followed her example.
+
+The Mother delivered a lengthy prayer, starting with the heresy of celebrating Newyear as though it were one of the Saint’s Holydays. None at Sacred Heart did so, but Sweep knew the villagers of Appledel did. Their celebrations would be heard late into the night. The Mother then moved to extolling the virtues of humility and disparaging petty theft. A few places down from her, Sweep noticed Faith and Lillyfield squirming uncomfortably, faces puffy and red.
+
+“So be it truth,” said the Mother, and everyone in the room echoed her. The Mother sat, then the sisters, then the acolytes, and finally the orphans.
+
+The soup was thin but lightly salted, and the bread wasn’t more than a day old; Sweep ate enthusiastically. No matter how bland the food, Sweep enjoyed eating and never wasted the opportunity.
+
+She tried to focus on eating and ignore the conversation around her, but she still heard the chatter about Faith and Lillyfield’s punishment and blame falling at her feet. Twice today, first with Faith and then with Acolyte Weaver, Sweep had tried to warn someone, to help them avoid trouble, and both times she had failed.
+
+Sweep was caught in her thoughts, so when Temperance nudged her, it was a surprise. Sweep looked around to see the Mother walking toward them. Once again, Sweep had let herself miss the sound of the Mother’s distinctive stride. Belatedly, she shifted her spoon to her right hand.
+
+The girls around Sweep grew quiet as the Mother approached, rod of office held firmly in one hand. Sweep saw the woman out of the corner of her eye, but kept her gaze on her meal. She held still, her left hand flat on the table, her right clenched about the spoon, and tried to breathe evenly so as to keep from shaking. The Mother stopped behind her and just to her left.
+
+When she felt the Mother move, Sweep tensed. The rod blurred as it arced toward her left hand, cracking across her knuckles. Sweep grit her teeth; barely a squeak escaped.
+
+“Overuse of the left hand is a sinister omen,” the Mother declared in a voice that carried throughout the room.
+
+“Yes, Mother,” Sweep replied. She cringed inwardly knowing the Mother would view the response as intractable.
+
+The rod struck again, this time across her shoulders.
+
+“Do not take that tone with me, orphan child.”
+
+“Yes, Mother.”
+
+Conversation in the refectory ceased; none moved. Those eyes not fixed to the table in fear, watched in anticipation. Sweep felt a familiar chiming in her ears and held to it tightly. It helped to ease the pain.
+
+“Does it amuse you to disrespect me?”
+
+Sweep bit her tongue, but the rod fell against her back, nevertheless. She sucked air between her teeth and held herself off the table with shaking arms and willpower.
+
+“There is nothing about you that is not sinister and unclean,” the Mother proclaimed in the voice she used for sermons, and she struck again.
+
+“You have never shown the proper respect,”
+
+Again,
+
+“You are a lazy child, ungrateful for my kindness,”
+
+Again,
+
+“And your unnatural, white hair is disgusting,”
+
+Again.
+
+Sweep leaned over the table, crying silently. Her forehead rested against the wood, tears pooling upon its surface. Still, her spoon was clutched in her right hand. She’d had worse. None of these blows, she thought, would add to the collection of scars on her back.
+
+The Mother leaned down and whispered in Sweep’s ear. “I’d shave you completely if a girl without hair wasn’t worse than one with white hair. I’d beat you daily if I thought it would do any good. As it is, the only reason I don’t turn you out is my oath to care for any girl brought to me.”
+
+The Mother straightened then and looked around the room. For several moments, none moved and all were silent. Then the Mother’s rod flashed.
+
+Temperance screamed in pain and surprise. Many jumped at the sudden sound.
+
+“Next time, stay out of it,” came the Mother’s merciless advice.
+
+• • •
+
+Night had fallen on Newyear, on Sweep’s twelfth birthday. Some few celebrants still tottered through the streets, but the village had largely fallen quiet. Though she appreciated Temperance remembering the date, Sweep was more grateful that no one had realized her founday coincided with the false Holyday.
+
+Sweep stood upon the front step of the church, sweeping. Clouds obscured the moon, but it did not rain. The ache of the beating made her movements stiff. She wept. It was not the ache that humbled her; it was that Temperance had been caught in her struggle against the Mother Superior.
+
+Sweep disliked the Mother, as did most orphans. The Mother belittled them and beat them, and that was reason enough, but Sweep also knew the Mother was wrong about a lot of things. The Mother hated, and lashed out, and was unfair. These actions, Sweep was certain, weren’t the will of God and his Eight Saints. The Mother was not as pious as she pretended.
+
+“Sweeping isn’t so bad, is it?”
+
+Sweep looked up to see a man clad in the rough and stained clothes of a wanderer. On a length of cord around his neck, he wore the sunburst, marking him a Son of God. His hair was grey and his face was lined where it wasn’t covered with a grey beard. He smiled at her.
+
+He wasn’t the first man Sweep had ever seen, many of the villagers who attended the Mother’s sermons were men, but it was the first time a man had addressed her.
+
+Sweep lowered her eyes. “No sir. In fact, I rather enjoy sweeping. It gives me time alone with my thoughts”
+
+“Then why are you crying?” he persisted.
+
+“Other things, sir.”
+
+“You need not lower your eyes to me, child.”
+
+Sweep looked up at him. For a moment, the man’s eyes shone with purple light, and she wondered if this was the moment she had waited for, the moment she’d be taken from the orphanage, the moment the promise of her earliest memory was to be fulfilled. But then the light faded and she saw that his eyes were brown like hers, though perhaps lighter, almost golden.
+
+She looked down again. “Yes, sir.”
+
+The man sighed then coughed a few times.
+
+“Are you ill?” Sweep asked.
+
+“I’m fine. I just need a place to stay a few days.”
+
+Sweep hesitated. Men weren’t allowed at Sacred Heart unless they were attending a sermon. Mother Superior didn’t like them. Sweep wondered whether or not the Mother would turn away a Son of God.
+
+“Is your Mother Superior awake?”
+
+Sweep shrugged. “I do not know, sir.”
+
+“Would you show me to her rooms please?”
+
+Sweep was loath to further invite the Mother’s wrath, but she couldn’t turn him away, he was a Son of God. And he was kind.
+
+She nodded. “Yes, sir.”
+
+“That would be most kind, child.” The man coughed again and took some time to catch his breath before indicating she should lead the way.
+
+Sweep opened one of the main doors and went inside, closing it behind the old cleric. She began to lead him to the side door in the sanctuary but he went before the dais instead, where the Mother delivered her sermons, and knelt.
+
+“Would you care to join me?” the cleric asked.
+
+Somewhere above, the clouds broke, allowing moonlight to shine upon the valley. The light struck the stained glass window and bathed the old man in pale light. Tingly power stirred within Sweep’s breast, the chimes played at the edge of hearing. Sweep nodded, not quite daring to smile, knelt next to him, closed her eyes, and bowed her head.
+
+A gentle buzzing filled her and she could see the place in her mind, but she did not go there. Instead, she stayed here, in the sanctuary, and prayed with a kind old man who needed a place to stay.

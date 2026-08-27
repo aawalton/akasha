@@ -1,0 +1,197 @@
+---
+id: 0c323b69-fd38-51af-802a-a649bfb68099
+page-type-slug: story-chapter-royal-road
+title: "Chapter 331: Cacophany"
+slug: 0010-chapter-331-cacophany
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 10
+ownLength: 2228
+unit: words
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2701203/chapter-331-cacophany"
+royalRoadId: "2701203"
+---
+
+Quinn’s first response to the statement was sheer relief. It rushed through her, sending adrenaline racing through her veins. Then she took a breath, took stock of the situation, and calmed herself down. It took real effort not to just jump up into a celebration dance.
+
+“How exactly do you mean you think you’ve figured out how to restore Ashiron?” she asked, pacing her words slowly and clearly so as not to get caught up in the excitement until she understood exactly what it meant.
+
+“Exactly that!” Siliqua’s eyes were full of exhausted fervor. But she held herself tall and straight, and Quinn could read from her body language and just the aura emanating from her that this was real. They weren’t just basing it on supposition.
+
+Then Cadre stepped into the room too. Quinn took a second to look him over. He still had that distinct gecko-like countenance at four feet tall. It was always a little disconcerting to look at him, but his grin took up most of his face and she knew they’d hit gold. Especially when he spoke.
+
+“I didn’t realize you were here, Cadre,” she said to him. She was racing through all the probabilities but stopped herself, calmed herself again, and pulled herself back. She held her hands up. “You need to explain this. You can’t just come in and make that statement and not say anything else.”
+
+Cadre grinned before launching into an explanation. “You see, we need to remove the soul bomb and its enclosure without exploding the universe.”
+
+“Yes,” Quinn said. “That would, of course, be ideal.” She’d never been a fan of people stating the bleeding obvious, though she knew she did it sometimes too.
+
+“Of course, of course,” Cadre said. “While I do need access to the actual pillar first to make sure the method we want to use will work. There are certain calculations I must do where I have to be in its vicinity and so I haven’t got the final calculations yet, but I am quite certain I’ll be able to get the readings calculated within an acceptable timeline once we’re down there so we can move forward without causing the Library any instability.”
+
+Quinn narrowed her eyes. It sounded way too good to be true and still didn’t actually answer the question. “How sure is ‘you’re quite certain’?” she asked.
+
+He looked like he was actually calculating it in his head. “Oh, about ninety-six point seven percent certain,” he answered.
+
+Quinn cringed a bit at that, although that meant he was only three point three percent uncertain, which sounded like relatively small, if not acceptably. “What do I need to do to bring that closer to a hundred percent, and what do you need from me to get to the end of it?”
+
+“Yes!” Cadre exclaimed excitedly. “Exactly.” He actually clapped his hands. “I am going to need the readings from the actual pillar.”
+
+“I know you’ve said that already. I’m guessing I’ll also need to activate it and instigate whatever this is.” Quinn was proud of her patience.
+
+Siliqua put a hand on Cadre’s shoulder and stepped in front of him. “Okay then, you’ve gone off on a tangent, Cadre. The Librarian is super busy.”
+
+The wood elf turned toward her. “Both you and Lynx will need to perform the shifting ritual.”
+
+“Shifting ritual?” Quinn asked. She’d been wary of rituals, especially since Jasper had never gotten around to teaching her more about them. It was only one of the many things she missed about her friend.
+
+“Ah yes,” Siliqua confirmed. “We had to devise it ourselves because there is no precedence for this and that’s why it’s taken so long. It’s involved so many calculations and projections.” She paused and looked at Quinn. “Sorry, I tend to like listing out just how much work we’ve put into something. It makes me feel as if reaching close to the end is a huge accomplishment.”
+
+Quinn smiled. “It is a huge accomplishment.”
+
+“Thank you.” Siliqua paused and then continued. “I realize you’re busy, Librarian, but we wanted to let you know as soon as we could.”
+
+Quinn was certain they needed to get this shifting done sooner than later, even though the timer was ticking down and still gave them, what, two and a half months and some change. That didn’t fill her with confidence. There had been so many hiccups. Wasting time, or taking too much of it just felt like a fool’s errand. She couldn’t quite put her finger on why though. It was just that same old gut feeling that had already served her so well so many times. And so, like usual, she went with it.
+
+“When will you be ready to perform this ritual?” she asked. It was best to get the details out of the way before getting ahead of themselves, anyway. Quinn had to understand if this was actually an achievable theory.
+
+Cadre’s smile practically split his face. “Very soon. There are some calculations I want to go over again just to make sure that they work, but once I’ve done that we do need to venture down to the actual pillar and obtain two specific measurements, but because they’ll be fluctuating this isn’t something that we can just do once. It...” he paused and Quinn dove in.
+
+“Oh, so you mean you’ll have to measure it while I’m down there just before we do the ritual?”
+
+“Exactly. We need to take the measurement whenever the ritual is performed. So if we went down one day and took the measurements, we’d have to do it the next day if you chose to put it off because the measurements would be microscopically different, but enough so that using the old calculations could potentially be catastrophic.”
+
+Quinn took a breath and counted to three, instilling patience in her, and asked again. “So, when do you think we can do the ritual?”
+
+“Probably tomorrow evening,” Cadre said, and that’s when Milaro walked in to join them all.
+
+His presence was, as always, calming, sort of like Dottie, but without the genuine cuteness factor. It helped ease the tension in the room, as well as her head. He chuckled, “You’re always so enthusiastic, Cadre, but we won’t be ready until after the bardic branch opens. Let Quinn grab some sleep, open the branch, and then we should be able to venture down.” He spoke kindly and looked in good health for the first time in ages.
+
+As much as Milaro had brought some calm to the room, and Malakai was doing his best not to pout at the interruption, Quinn had to let him down.
+
+“I think the sleep’s gonna have to wait. I’m quite certain we’re super close to being able to open the branch,” she said. She squinted as she glanced at her notifications, realizing the pillar had just come online. “Branch first. Sleep next. Asher second. And then the universe!”
+
+She grinned and Milaro laughed. Everybody else chuckled.
+
+“That’s the spirit. Shall we make our way up, then?” Her mentor held out an arm and Quinn followed him up to the Bardic beginner’s section, her step lighter than it had been in a very long time. If they could get Asher back online, then she could breathe for a bit. It didn’t solve everything. It didn’t automatically return the books. It didn’t automatically open the branches, and it certainly didn’t get rid of the threat that still faced the Library. But it did help.
+
+Drukala and Drivok fell into line with them.
+
+“Hello,” Quinn said to her aunt and uncle, suspicious about their sudden appearance. “I don’t have time to train right now. I have to go open a branch.”
+
+“Oh, we know, little niece,” Drukala said, ruffling Quinn’s hair.
+
+She scowled at her aunt. “And?” she asked, pulling away and closer to Milaro as if he’d shelter her from them.
+
+“And we are going to come watch. I haven’t seen any of these branches opened before. Back when we made the Library, it was just the one big room to start with. Now it’s sort of majestic.” Drukala sounded oddly nostalgic.
+
+“There’s nothing sort of about it,” Drivok said. And yet even his eyes were shining.
+
+The little procession made its way to the section and up the stairs. They needed to open this branch, which only left horticulture and the Academy. Quinn felt giddy that they were actually getting close to something that they could tangibly use as an achievement. Once Ashiron was fixed, restoring the Library would be easier.
+
+As soon as they had everything on sure footing where something wasn’t going to blow up in their faces, then she and Lynx would see if they could pull the Library out of its damn funk. She frowned though as she got ready to pull up information.
+
+People had already begun to linger around the area. There were a couple of dozen onlookers all excitedly chatting, including some kids with wide eyes that clutched instruments standing next to their parents. She frowned. What if this turned out like the medical and alchemical branch had and ended up getting dangerous? Those kids and hell, those people, they could all be injured badly.
+
+Dottie trotted up excitedly to her. Quinn could practically feel it radiating off her. It was a very pleasant experience. A sudden influx of serotonin that she so desperately needed. Now she understood a little bit more about Dottie’s role in the whole Library. She couldn’t help but appreciate the bench even more. Plus, she was perceptive.
+
+“Why, Librarian, you look less happy and more concerned than I thought you would,” she said. She sounded disappointed, but not in Quinn, just in the fact that Quinn had to feel upset about something. Quinn tried a weak smile at her despite the serotonin influx into her brain. She was still a little stressed.
+
+“To be honest,” Quinn said and glanced at the kids not too far away from her, “I’m a little worried about the safety of opening a branch with this many spectators. I should have thought about it with the crafting one and we’re just lucky that everything went off without a hitch.”
+
+“That makes perfect sense,” Dottie said. “You just leave this to me. I’ve got this.” And she trotted off.
+
+Quinn watched open-mouthed as a little bench made very short work of the group of people, asking them to please step back beyond the crafting railing and if they really wanted to watch, they had to watch from that distance until the branch had been declared safe for opening.
+
+“Oh, that was easy,” Quinn said.
+
+Milaro chuckled.
+
+Malakai nudged her. “Are you up for this?”
+
+“Yeah, I mean, I’m awake, right?”
+
+He laughed. “I think you are. I think we’d know if you weren’t.”
+
+She looked at him quizzically. “You’re being enigmatic.”
+
+“It’s working? Fantastic. Eric’s tips are paying off.”
+
+“I’m fine, Mal. I just... I’ve got a lot on my mind.”
+
+“I know, and some of that you owe me an explanation of.”
+
+“True, but let’s get this stuff done first.”
+
+“Okay, but I’ll hold you to that.”
+
+She nodded and checked over the statistics for the Library.
+
+Bardic Musical Branch Opening Requirements Met
+
+897/897 books retrieved
+
+282/282 Instruments retrieved
+
+Energy level required: High Medium
+
+Mana required: 9211
+
+Energy requirement: 9875
+
+Patronage level required: generous
+
+Non-restrictive, all borrowing privileges established.
+
+Calibrating...
+
+calculating...
+
+Patronage level met.
+
+Mana requirement met.
+
+Energy requirement met.
+
+Librarian strength required: 12.
+
+Assessing...
+
+Calibrating...
+
+accepted...
+
+Librarian strength met.
+
+All requirements pending fusion.
+
+Combat branch extending.
+
+282/282 Instruments sourced.
+
+Reminder: Duplicate Instruments required after opening
+
+Assessing.
+
+Calibrating.
+
+Bardic Musical branch established.
+
+All requirements met for Bardic Musical Branch to be opened.
+
+Do you wish to proceed?
+
+Yes, No, Place Process on Hold?
+
+This branch was an easy one. Instruments were all there. Everything was clear. She set it to activation, standing back enough to let the magic of the Library do its work. It was wonderful to watch this. Books swirled around. The whole upper section pushed out, creating almost like an amphitheater design in the center of it.
+
+Massive shelves lined the interior of the outer walls of the whole structure and then there were the cases filled with so many instruments that Quinn couldn’t even count. Things like lutes and guitars and mandolins through to ukuleles and zithers and she was quite certain she saw several harps, too. Not even just violins and cellos and violas, but other ones she didn’t recognize that obviously needed more than one hand, some more than two hands even.
+
+There were also so many woodwind instruments. Ones that she was used to like flutes and clarinets and saxophones, but others that looked like an oboe for three mouths and bagpipes for several heads.
+
+It was fascinating to watch, but it was the amphitheater that really caught her attention. The way it was shaped toward the back. She was quite certain with the way the domed ceiling was set that the acoustics had to be amazing. She wondered if there was a magical barrier that would contain the sound so as not to disturb other patrons.
+
+Before she could think any further, a massive cacophony of horns sounded, blaring like an alarm.
+
+Quinn groaned.
+
+At least it wasn’t some new eel.

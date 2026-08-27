@@ -1,0 +1,129 @@
+---
+id: 7781c923-016e-540a-a0ad-6468f336bde6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Blood-Soaked Brawl"
+slug: 0284-chapter-4-blood-soaked-brawl
+partOf: labyrinth-of-the-mad-god
+position: 284
+ownLength: 2608
+unit: words
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3051316/chapter-4-blood-soaked-brawl"
+royalRoadId: "3051316"
+---
+
+The monster attacked Nick the moment it landed, but it didn’t catch him off-guard.
+
+He’d been using Size Up as he walked along the water’s edge. The danger-sensing skill released a resounding ping of alarm a fraction of a second before the creature leapt from the spillway—just enough time to conjure a Mana Dart while raising his sword and taking his stance.
+
+The monster lunged as soon as its weight came down, moving so fast that he couldn’t make out the details. He deflected its opening strike with his Caster’s Buckler and caught the second with Blightbane.
+
+Whatever they were, these things hit hard. The first blow forced him back—boots sliding across the rough cement. The second attack was just as powerful, but it came to a stop with a gentle tap of chitin against metal.
+
+The reason for this dramatic difference was simple. Nick had activated Force Riposte before the strike landed. All the kinetic energy contained within the claw was absorbed by the complex web of force mana enshrouding his sword arm.
+
+The monster’s stolen impetus compressed like a coiled spring as he called upon Arctic Clarity to hone his focus to a razor’s edge and slow time’s passage to a crawl. Combined with his superhuman Mind, it let him process the series of events quickly enough to examine the emerging situation before he lost the chance to launch a counterattack.
+
+Now that it was standing still, he could make out the details of the creature that had landed in front of him. It looked like a mutated cross between a giant grasshopper and an albino crayfish, inheriting the worst features from each species.
+
+Its pale white shell looked thick enough to take some heavy hits, and its bladed pinchers were big enough to shear the limbs from his body. The crustacean’s nightmarish face featured uneven mandibles and jagged teeth that were dripping a foul green fluid that emitted an acrid stench.
+
+The monster cocked its head in confusion as it regarded him in turn—unable to understand why its attack had run out of steam before making contact. Nick didn’t give it a chance to recover. He didn’t need to fully analyze his enemy right now; he just needed to decide where to thrust before the one-second time limit on Force Riposte ran out.
+
+Since this was an armored opponent, an eye was an obvious choice. He felt Fritz’s approval flowing through their bond as he set his gaze upon a pale pink orb and activated the second component of his newest ability. In that instant, the kinetic energy from the monster’s attack was added to the strength of his arm and the stamina the combat art consumed.
+
+Time resumed its full course as Blightbane surged forth like it had been fired from a cannon. The tip went streaking for the crayfish’s eye, spearing the orb then the brain beyond before erupting out the other side in a spew of gray matter and ichor the color of rancid milk.
+
+The first monster died before it knew what hit it, but the battle was far from over. A dozen more were on the walkway, and more were leaping out of the water with every beat of his heart. The shellfish were blocking the passage in both directions, which meant the only way out was through.
+
+“Maintain our formation and stick to the…” Kenji’s sentence transitioned into a colorful string of curses when Lurk charged the closest creature without even glancing at the scarred strategist. Bandit issued a dramatic sigh, met Nick’s gaze, and shrugged before hopping off his perch and scampering along the periphery of the walkway while launching balls of shadow flame.
+
+“We’re going to have to work on that,” Kenji muttered as the men stood shoulder to shoulder, activated Blend into the Background, and engaged the horde, which was multiplying with every breath he drew. A hearty splash followed by the clamor of chitin clattering against stone announced each new addition, and by this point, it was clear these crayfish were swarm predators.
+
+Fortunately, these weren’t the only factors in this battlefield equation. While the other members of the party divided the horde’s attention, Lurk focused her efforts on subtraction.
+
+The dinosaur spread her jaws and bit into one crayfish, tearing its head free from its body and swallowing it in a single gulp. She turned and eviscerated the next with a swipe of razored talons before whipping a third with her tail hard enough to shatter its shell.
+
+Nick realized Lurk was using bursts of stamina to magnify the force of each blow, transforming the multi-ton dino into a dynamo of devastation. She expended her vital energy with perfect timing, exhibiting a level of control far that far surpassed his own. He would reflect on what he was sensing later and see if it led to some useful insights, but now right now, he had bigger fish to fry.
+
+He had two monsters coming for him—spread out far enough that he couldn’t watch them at the same time. It was an effective tactic, but something he’d encountered before and trained himself to deal with during countless shadow boxing and sparring sessions.
+
+Thanks to Force Acceleration, he could match the creatures’ blinding speed. He cast Arcane Shield to block the one on his left, then fired the Mana Dart he had conjured at the pale horror lunging from his right.
+
+When the silver wedge of pure mana sank into the crayfish’s shell, it began to seize while issuing a warbling scream like a banshee driving a fire truck. Thanks to its rank-four upgrade, the spell disrupted all three forms of vital energy at once, turning a portion of the monster’s mana, health, and stamina against it.
+
+Nick could only perceive the crayfish’s mana, but even still, the dart’s efficacy was impressive to behold. It was like a chunk of its mana had defected and become an invading army—attacking the creature’s energetic pathways, besieging its core, and overwhelming any unaffected energy that crossed its path. On top of the stunning effect, the dart’s disruption kept the crayfish from using its vital energy, preventing it from activating spells and combat arts alike.
+
+With his current attributes, Nick could fire dozens of darts without running out of juice, keeping them coming in an unending barrage. Every time his magic disabled a monster, a party member finished it off before it could recover.
+
+He kept a Mana Dart circling above his head while firing the rest the moment they formed—ready to lend a hand if anyone got into trouble and he needed to create an opening. Watching the devastation wrought by his strongest spell made him wonder what would happen when he took it to rank six and renewed his resolve to rank up his other abilities as soon as possible.
+
+Over the adrenaline-soaked minutes that followed, the men made their way over to the wall. When they arrived, they were able to fight side by side instead of back-to-back. It gave Nick a chance to watch Kenji in action—his first time witnessing the man cut loose since their battle with the Armada Wurm.
+
+Every move the veteran warrior made was crisp and precise—each attack flowing into the next like oil over silk. He evaluated the changing conditions of the battlefield in the blink of an eye, putting his spear where it was needed most at any given moment.
+
+He used his oversized shield to block a blow while creating a minute gap in his opponent’s defense. A fraction of a second later, his spear threaded it like a needle to land a killing blow. Kenji’s mastery of martial arts was awe-inspiring to behold—a level of proficiency that came from decades of combat experience and countless hours of practice.
+
+Every maneuver he made served multiple purposes. He secured an advantageous position while creating an opening. Deflected an attack while drawing one monster into another’s line of fire. Never committing to a course of action until the moment he struck.
+
+Most of Nick’s attention was on his own fight, but he memorized everything—resolved to take his martial technique to the next level before their quest came to an end. While he couldn’t perceive the flows of stamina inside another person’s body, he could tell that just like Lurk, Kenji was skilled in using vital energy to create explosive bursts of motion. His control was amazing, but his strategy was even more impressive.
+
+The warrior used the extra speed to throw off his opponents’ timing. Utilized the additional power to break through their guard. Watching the man in action gave Nick some insights into how he could make the most of his own stamina, which he would reflect on when he wasn’t busy fighting for his life.
+
+While Kenji’s tactics were as impressive as they were lethal, that was only half the story.
+
+Nick wasn’t the only one with enough Mind and Creativity to divide his attention while visualizing complex models. Kenji could do it too, focusing on his opponent while providing information to his allies via his unusual aura.
+
+Communicating with Tactical Command was far more efficient than using prearranged signals or even regular speech. Sometimes, parts of his enemy would glow, revealing where Kenji wanted him to strike. On other occasions, the magical overlay highlighted incoming attacks he needed to watch out for or marked where the warrior was planning to use his powers, so the party stayed out of the way.
+
+“That youngster knows his way around the battlefield,” Fritz spoke within Nick’s mind.
+
+“Kenji is over one hundred years old,” he replied with a thought.
+
+“And I had lived nearly thrice that long before I was sealed in this sword and left to rot for centuries. To me, he is a fledgling—barely old enough to set out on his own.”
+
+He chuckled at the Kastillan king’s commentary, although most of his attention was riveted on the enemy in front of him.
+
+When the crayfish missed its swipe by several feet, he realized Blend into the Background was making a big difference. While the monsters that knew exactly where the men were could still see them, most of their opponents only had a general idea of where they were stranding. As a result, they could only perceive an inchoate blur—passively bolstering the duo’s defense.
+
+The trait was just as useful on the offense side of the equation, making blocking and dodging their attacks far more difficult. While Blend was useful in almost any situation, it worked best with supportive magic like Kenji was providing.
+
+Even though Bandit and Lurk weren’t taking orders from Tactical Command right now, the aura was highlighting the men’s positions in their view, letting everyone in Nick’s party perceive each other clearly, no matter what concealment powers they were using.
+
+In addition to letting the beasts see through Blend, Kenji was using Command to track Bandit’s position. Whenever the lemur sank into one shadow and teleported to another, an arrow flashed in Nick’s vision. Similarly, when the primate used Shadow Form to hide, a glowing line highlighted the beast’s profile.
+
+He was too focused on his own battle to watch every move Bandit made, but whenever the lemur stepped into his field of view, he got to witness a move or two before the beast darted past. Nick and Kenji had assumed a defensive position, standing on the side of the passage where they could use the wall to protect their backs and defend each other at a moment’s notice.
+
+Bandit took a different approach. The lemur could dish out some crazy damage with his shadow flame, but his defense wasn’t nearly as robust as the other members of the party.
+
+On the other hand, the primate was fast, hard to spot, and incredibly mobile. He used these advantages to keep the horde from converging on him, darting on all fours to reposition, swinging from protruding roots, and using Shadow Blink to dodge attacks and strike his opponents from behind.
+
+It was a perfect fighting style for taking on creatures that were bigger and stronger than himself. Thus far, Bandit hadn’t taken a single hit while slaughtering just as many monsters as the rest of the party.
+
+Unlike contestant species, the System didn’t provide specific abilities to awakened beasts. It did, however, jumpstart their energetic cores, grant them mana affinities, and boost their attributes in various ways, letting Bandit free-cast magic in a manner that Nick was still learning to replicate.
+
+While free-casting required more concentration than activating an ability, it made up for it with increased versatility. He could tweak the amount of mana he infused into his rays or darts, but he hadn’t been able to customize his spells’ energetic compositions or alter their core functionality.
+
+Bandit, on the other hand, could produce shadow flame in any configuration he wanted, switching up his magical manifestations on the fly to take advantage of the specifics of any given situation.
+
+The more Nick saw the lemur fight, the more impressed he became. He’s combining two types of mana at once—shadow and fire—to produce shadow flame.
+
+While Aurora’s mages had theorized it was possible, thus far, their attempts to merge multiple types of mana into a single manifestation hadn’t born fruit. Since Bandit was tier two, the lemur’s Concept must be the missing ingredient that let two distinct frequencies of mana behave as a unified spell.
+
+Nick wondered what would happen if he combined pure and force mana, along with gravity, life, and the other forms of non-elemental energy he was gradually learning to control. With any luck, studying Bandit’s magic will provide an insight I can use to make that possible.
+
+He watched with interest as his friend fired off a series of ink-black fireballs to assault a group of monsters that was headed Lurk’s way, catching the crayfish broadside and forcing them to dive into the water to save themselves.
+
+When two crustaceans tried to corner the lemur warrior, he produced a cone of shadow flame like a dragon’s breath, engulfing both creatures in a tide of lethal mana. When they swarmed him from three sides at once, he let loose a barrage of projectiles like a shotgun. In addition to being too numerous to dodge, Bandit could control each fire dart freely, causing them to swerve in midair so mote of flame found its mark, maximizing his mana’s efficiency while targeting vital points.
+
+On top of its amazing flexibility, the tier-two beast’s magic was insanely powerful.
+
+While Nick’s darts were potent in their own right, Bandit’s shadow flame was one of the nastiest attacks he’d ever seen. In addition to spreading like fire and burning the lemur’s enemies, the magic took advantage of shadow mana’s malleable properties to take the carnage it wrought to lethal new heights. Once a monster was alight, the flickering flames turned into jagged blades, reaching down to rend tissue while searing flesh at the same time.
+
+And that wasn’t all his magic could to.
+
+Just like Bret, Bandit’s shadows spread to cover his opponents’ eyes, stealing the light of the world before snuffing out their lives. Nick watched a patch of black flame stretch like an elastic cord, wrapping around a crayfish’s limbs and binding them tight.
+
+When one unfortunate monster tried to bite the lemur, Bandit sent a spray of shadow flame straight down its throat. Ichor erupted from its mouth as the creature belched smoke—weaponized mana slicing and scorching its stomach to destroy it from within.
+
+The lemur let loose a bloodthirsty cackle, slipping from one shadow to another as the blood-soaked brawl raged on.

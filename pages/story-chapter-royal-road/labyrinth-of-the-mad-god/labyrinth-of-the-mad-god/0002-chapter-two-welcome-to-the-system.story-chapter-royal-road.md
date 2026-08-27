@@ -1,0 +1,109 @@
+---
+id: 53b23c3a-6f49-564c-a8a3-e885460f0e11
+page-type-slug: story-chapter-royal-road
+title: "Chapter Two: Welcome to the System"
+slug: 0002-chapter-two-welcome-to-the-system
+partOf: labyrinth-of-the-mad-god
+position: 2
+ownLength: 1614
+unit: words
+publishedAt: 2023-09-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330741/chapter-two-welcome-to-the-system"
+royalRoadId: "1330741"
+---
+
+As the alien symbols faded away, a window popped into existence.
+
+Unlike the bizarre System messages, this floating screen was in English. The display felt like it had been made just for Nick, rather than giving him the impression that he was looking behind the scenes at an administrator’s OS. The formatting was different from the other messages too.
+
+Quest: Welcome to the System.
+
+Only the strong shall survive.
+
+Location: Planet Earth.
+
+Objective: Survive the culling. Enter a portal before the shroud of annihilation consumes you.
+
+Rewards: Continued survival (Personal). Geneline enhancement (Species). Mentorship eligibility and access to System tutorial (Species).
+
+“This is 911. Please state the nature of your emergency.” Nick was about to tell the operator that he was having a psychotic break when he noticed a strange blue light shining through his window.
+
+He opened the blinds and saw that the house across the street, a well-maintained two-story building that belonged to his neighbor David, was bathed in a coruscating column of radiance. Swirls of green, blue, and purple warred with one another, as if the northern lights had migrated south and settled into his neighborhood.
+
+The phenomena formed a cylindrical pillar of light, rising from the ground before disappearing amid the clouds. It stretched halfway across the street in Nick’s direction, the beam’s perimeter forming a perfect circle. The space within the pillar shone with a scintillating teal radiance.
+
+The living lightshow was beautiful, otherworldly, and totally alien to his existence. He had just decided that the spectacle was another symptom of whatever had broken inside his brain when the entire column pulsed in a blinding flash.
+
+“Hello? Can you hear me?” The operator’s words turned to screams as the phone clattered against the floorboards, forgotten as Nick stared out the window, eyes wide with shock. Unless he had become totally detached from reality, the entire building was gone… bare earth visible where its foundation had stood mere heartbeats before.
+
+Everything man-made that the light had touched had vanished without a trace, including the surface of the street and the power lines running between the poles. Half of David’s van sat parked along the remnants of the curbside, rubber and metal sliced away as cleanly as a surgeon’s scalpel.
+
+The pillar had taken a modest bite out of the apartment complex behind the house too. He could see an astonished man sitting at his kitchen table in his boxers, a piece of pizza held halfway to his mouth.
+
+Nick could still hear the operator’s panicked voice coming out of his phone, but the meaning of the words no longer reached his ears. He watched entranced as dozens of phantasmic pillars descended across the city, each lasting for about thirty seconds before they flashed and disappeared, erasing whatever the light touched.
+
+When the final column pulsed and then dissipated, silence reigned for a breathless moment. Then, all across the city, terrified screams resounded, accompanied by the mournful wail of sirens.
+
+Those lights are the shroud of annihilation. He stared out his window, witnessing the end of the world as he knew it. I’m not crazy. The System messages were real. This is really happening.
+
+Although he was still in shock, a distant part of Nick’s brain remembered the instructions he had received and was already searching for any sign of a portal. That was when he realized that he could see the azure glow again.
+
+Only this time, instead of looking at it, he was looking through it, radiant patches of color swimming beside his head. One of those pillars is right on top of me.
+
+He began to panic. He had less than thirty seconds to get out of the beam’s path before it obliterated him along with his living room. Heading for the furthest point in his apartment, Nick sprinted down the hallway, desperately searching for the shroud’s edge.
+
+Less than ten seconds left. If the column extends past the far wall, I’ll need to jump out the window. He took two steps into his bedroom before the light cut off. Fortunately, the shroud was only bisecting his apartment instead of covering the whole building. Nick shuddered in relief at the sight.
+
+Staying indoors is a deathtrap. I need to get down to the street where I’ll have some room to maneuver, then avoid the pillars until I can figure something out. The shroud won’t be as dangerous once I understand how it operates.
+
+No sooner had that thought entered his head than his front door flew open. Angie, his childhood friend and on-and-off girlfriend, ran into the living room.
+
+“Nick, where are you? Something terrible is happening.” Angie’s face broke into a relieved grin upon sighting him, shifting into a confused frown after noticing his horrified expression. “I saw your parents pulling into the driveway. Let’s meet up with them and head over to the emergency shelter.”
+
+“Angie, get out of the light. RUN!” Nick screamed and took a step toward her.
+
+He willed himself to dart into the shroud and pull her to safety, but his body flat out refused to obey his commands. She had always been quick on the uptake, and Angie started sprinting toward him, covering most of the distance in a frenzied handful of heartbeats.
+
+Just before she escaped the pillar’s radius, an intense flash forced Nick to close his eyes. When he opened them again, for just a fraction of a second, he saw Angie for the last time, her features lit from within by an unearthly glow. But then she was gone, erased from this world along with half his apartment.
+
+Nick stood dumbfounded, reeling with the sudden loss, as his desk and computer tumbled down the new cliff they straddled. His eyes traced the journey of a family of rats that had been living in the walls, shrieking in terror as they plummeted to the ground below.
+
+The shroud doesn’t affect plants or animals, noted the stray corner of his brain that was still functional. Just people and man-made objects.
+
+The rest of his mind struggled to process the fact that Angie was dead or that his parents waiting for him downstairs were in mortal peril. That was when the shroud descended once more, completely covering his bedroom along with the rest of the building.
+
+Staring at the open air where his living room had stood ten seconds prior, Nick grasped that he was trapped. Out of options and out of time. He had less than thirty seconds before the shroud of annihilation ended his life too.
+
+He was preparing to dive over the edge, knowing that the light would likely kill him even if the fall didn’t, when he caught sight of a doorway set into the interior of his closet. A heavy piece of rough-cut oak with brass fittings that he had never seen before. A liquid orange glow flowed out from between the cracks, bathing his closet in a tangerine radiance that wavered like sunlight reflecting off a pool of water.
+
+Nick had reflexively started a timer, and he was certain that this unprecedented event must be connected to whatever was happening to his world. If there was a portal to be found, this was where he would find it.
+
+Five seconds until the shroud activates. With no time left to think, let alone process what was happening, he leapt into his closet and flung the strange door open.
+
+Inside stretched a long tunnel lined with rough brick. A space that could never have fit within the dimensions of his building. The brickwork was crude and covered in hand-painted graffiti. The air was heavy with the scents of wood smoke and animal droppings.
+
+It was a strange passage, like a preserved slice of a bygone era. At the far end of the corridor sat a shimmering circle of tangerine light that his game-forged mind instantly recognized as a portal.
+
+He stepped past the threshold just before the shroud flashed, disintegrating Nick’s apartment in between one beat of his heart and the next. While he tried to make sense of what was happening, another message appeared, its contents piercing the fog of his bewilderment.
+
+System Message: Planetary alert.
+
+Geneline culling is 99% complete. All portals will close in ten seconds.
+
+Warning: Candidates who fail to enter a portal will not survive the Earth’s ascension.
+
+In the wake of that terrible proclamation, the need to live overrode the need to understand, and Nick started to run. Faster than he had ever run before. In his haste, he failed to spot a patch of broken glass along the way.
+
+The soft soles of his bare feet were brutalized by the sharp surfaces, slicing into his flesh as he sprinted past. He didn’t even feel these injuries with the supersized blizzard of adrenaline swirling in his bloodstream.
+
+The distance was greater than he had originally estimated, the portal growing larger agonizingly slowly. Nick felt a wet sensation spreading below his feet as his savaged flesh stamped the ground crimson with his own blood.
+
+All portals will close in 5 seconds. 4… 3…
+
+Knowing that he wasn’t going to make it in time, Nick reached inside himself, tapping into a well of strength he had never realized was there. The world faded to gray as he threw every fiber of his being into reaching the end of the passage before the clock hit zero.
+
+2… 1…
+
+Just as he arrived before the portal, the circle started closing, radiant edges folding in on themselves like origami. Before the center collapsed into nothingness, Nick threw himself into the shrinking ring of light.
+
+The portal winked out of existence a fraction of a heartbeat later.

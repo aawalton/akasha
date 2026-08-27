@@ -1,0 +1,201 @@
+---
+id: ed74fb4c-87da-5c44-9255-687a17936c96
+page-type-slug: story-chapter-royal-road
+title: "129 — Book 3, Chapter 28 — Bitter Focus, Pt 8"
+slug: 0132-129-book-3-chapter-28-bitter-focus-pt-8
+partOf: just-add-mana
+position: 132
+ownLength: 3368
+unit: words
+publishedAt: 2026-04-30
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3336865/129-book-3-chapter-28-bitter-focus-pt-8"
+royalRoadId: "3336865"
+---
+
+It took Cale some effort to clamp down on his immediate, instinctive response, which was to blast the cot into oblivion.
+
+That wouldn't help, for one thing. For another, it would erase any traces of where Damien and Flia had gone and quite possibly compromise the dungeon in the process. Given he didn't yet know what had happened to them, he wasn't going to risk it, no matter how tempting it was.
+
+He was aware in the abstract that the two of them were probably fine. Theoretically, the worst-case scenario was just that they had been kicked back out of the dungeon and were now sitting around back in the Haelforge Library.
+
+Cale hated relying on theoretically, though. That word had failed him all too many times over the centuries, and with everything else that was clearly abnormal about the dungeon...
+
+Bah.
+
+He had to trust his apprentices, he reminded himself. The whole reason he brought them here was because he trusted them to handle situations like these. Damien and Flia in particular were both exceptionally resourceful mages, and whatever they'd gotten themselves into, they'd be able to get themselves out.
+
+He just had to make sure that everyone else did their part.
+
+"Flia used her connection to the Abyss to try to connect to Adam's mother," Syphus explained. Its usual careless humor had vanished, replaced with a focused sort of tension. "We don't know exactly what happened, but Leo said he felt a spatial distortion of some sort. Flia was able to stabilize it right before she and Damien were pulled through."
+
+"They went into the Fog," Adam blurted. He was perched on Syphus's shoulder and was putting on a brave face, but it was clear he was more frightened than ever. Syphus kept a hand on his back to steady him, and Cale noted that Adam had one of its etherite "ears" clutched in his hands like some sort of protective charm.
+
+"I-I think that's what happened, anyway," Adam continued, shooting a nervous glance back toward the cot. "I don't understand what Ms. Flia was doing, but I know I felt the Fog for a second. And—and I told her how to navigate it, so she should know what to do."
+
+The worried look on Adam's face told Cale there was probably more to worry about than just navigation but he felt himself relax slightly anyway. "Just a teleportation accident, then," he said. There were worse things that could have happened. "Right. I'll need you to tell me what you know about this Fog and how we can get our friends back, but first..."
+
+Cale stepped toward the cot and narrowed his eyes. [Eyes of Ashvali] was still active, and with it he could look through the events surrounding that accident for himself. The mana around the place was still turbulent, which made it more difficult than it otherwise might have been, but he could still confirm a few of his suspicions.
+
+First among them was that there was no future in which Damien and Flia returned through the distortion, which meant he couldn't use the trickery it enabled to call them back. They were going to have to meet up with them somewhere else in the dungeon, which was more or less what he'd been expecting. If things went the way they usually did, there would be an opportunity in the next part of this dungeon.
+
+Second was that there was certainly something to be gleaned from whatever Flia had done to trigger that spatial distortion. He needed a bit of time to examine it more closely, though. "Leo," he said. "What exactly is happening, and how long do you think you can hold it off?"
+
+Leo gritted his teeth, straining. "It's... some sort of catastrophic failure of a spatial spell," he grunted. "Maybe about five minutes. Haven't recovered enough palewater for a boost."
+
+"You won't need to. That should be more than enough." Cale was already flicking rapidly through the past. He had a hunch about what was powering all this, he just needed some kind of confirmation—
+
+—there.
+
+It was barely noticeable, but Cale caught a flicker of mana emerging from the sheets in the cot at the exact moment the distortion first manifested. That indicated that the distortion wasn't so much a natural phenomenon as it was a spatial trap that had been cast on the cot, and that meant...
+
+"We've been looking at this wrong," Cale said, beginning to pace.
+
+A spatial trap was basically a ward, and if there was a ward on the cot, then that changed things. Viewed through that lens, everything strange happening in Adam's basement looked a lot less like mysterious magical phenomena and a lot more like the sort of defenses a mage might put up to protect their research.
+
+"The shamblers were how this started, but we've been assuming everything here is weird because of them," Cale said. "What if they're not? What if Dione figured out what they were, or at least how to use them?"
+
+"What do you mean?" Thorn was watching him intently. Out of genuine interest, Cale realized distractedly—he wasn't thinking of Cale as a lesser mage anymore, and he hadn't quite figured the dungeon out yet either.
+
+"Obfuscation ward, magical darkness, spatial trap, and invisible guards," Cale said, counting them off on his fingers. "It's a basic complement of protective spells. We ignored the cot when we came in and the darkness hid the notes from us until Adam pointed them out, and even after that we had trouble with the shamblers. Flia obviously found a way past them, but then she ran into the spatial trap."
+
+Thorn seemed initially startled by the idea, but then he frowned, mulling over the thought. "Spells like that are difficult to sustain after the mage that cast them passes," he pointed out, shooting a slightly apologetic look to Adam. "You'd need some sort of mana battery."
+
+"Or a spell anchor, yes," Cale said, nodding. "If they were conventional wards, they should have faded by now, and if they're not we should see or sense some evidence of the anchor, unless—"
+
+"—unless she's using a diffuse anchor," Thorn said, snapping his fingers and straightening. He stared around at the shelves again. "Diffuse anchors are easier to hide, depending on how much the caster can spread out the mana flow. You think the spells are using the alchemical ingredients as a mana battery?"
+
+"I think that's part of it—"
+
+"It would explain why so many of these look to be expiring," Thorn continued, muttering the words to himself as he began pulling ingredients from the shelves and examining them more closely. "No self-respecting alchemist would allow his stock to deteriorate to this extent. Good catch; I should have thought of it. Now if we reverse the arcane poles in the ingredients closest to expiring, we might be able to dispel the effect..."
+
+Thorn trailed off awkwardly as Professor Graystalk tapped him on the shoulder. "I do believe you may be stepping outside your role as an observer," the professor said politely, his eyes twinkling. He wore a faintly amused smile, like he understood exactly what was going through the vinewalker's mind.
+
+Thorn blinked, then grunted. "Mm. I... may have gotten ahead of myself, yes. I apologize."
+
+Cale shook his head and chuckled. "I don't mind, but I don't think that's the full picture, either. The diffuse anchor is a distraction."
+
+Thorn frowned at that claim, and even Professor Graystalk looked curious, though both of them said nothing and simply waited for Cale to speak. "Think about it," Cale said. "A diffuse anchor like that would be effective, but it wouldn't be very reliable. It's basically dependent on her husband keeping the basement stocked and it'd break down the moment one of the key ingredients runs out."
+
+"You're saying it's a temporary measure meant to distract anyone who might have cause to investigate," Thorn said. "She only needed it to work for a few weeks."
+
+"Exactly," Cale agreed. "I doubt she planned for it to last as long as it did, but I guess the basement was always stocked."
+
+He glanced over at Adam. The boy was understandably having a hard time with the topic—the intricacies of the magic went over his head, but he understood well enough that they were talking about his mother, and losing her evidently still pained him. His fists were clenched, and he couldn't quite meet any of their eyes.
+
+"She must have been a wonderful mage," Cale said quietly. "I would have liked to meet her."
+
+Adam crumpled in on himself slightly. His eyes were wet, but he wiped fiercely at his eyes. "She was," he said. "I-I miss her a lot."
+
+Over by the cot, Leo took a step back and bit back a groan. "Not to interrupt anything, but I won't be able to hold this back for much longer," he called through gritted teeth. "Do you know how to stop this yet?"
+
+"If Cale is right, we'll have to find the primary spell anchor and disable it." Thorn had evidently decided that the dungeon merited more than mere observation from him. "But I have been able to sense nothing else. If there is another anchor, it is extraordinarily well hidden. We should begin searching."
+
+"It's not hidden at all," Cale said, shaking his head. He took a few steps toward the cot. "Not the way you're thinking, anyway. Think about it—we can't see or sense these shamblers, and she understood them well enough to incorporate them into her defenses. She did the same to the spell anchor."
+
+Thorn frowned at that. "You are certain?"
+
+"I had a hunch earlier," Cale said. His words were soft now, his gaze fixed on the cot, and he held a hand out to Adam, who took it hesitantly. "No one can get near that thing, right? The shamblers freeze anyone that even tries to get close."
+
+"Because that's what the shamblers are protecting," Thorn pointed out. "What are you getting at?"
+
+"A spell anchor needs to be something powerful," Cale said quietly. He helped Adam down from Syphus's shoulder and guided him toward the cot, though far enough still to avoid getting the shamblers' attention. "Something that holds either a great deal of magic or a great deal of meaning. Both, preferably."
+
+Adam looked away from the cot, squeezing Cale's hand tightly, and from the way the boy was trembling Cale knew he'd guessed correctly.
+
+"She's still there, isn't she?" he asked. "You said she passed in the cot, but it's protected by a whole host of defensive spells and the shamblers freeze anyone that tries to get close. If a group of experienced mages can't force their way past it..."
+
+Adam squeezed his eyes shut. "I don't want to look," he whispered. He was shaking badly now, clutching at Cale's hand like it was a lifeline, and without a word Syphus leaned down again to place a hand on his shoulder. "If I look, it'll make it real. I don't want it to be real. It's just monsters there, that's all. Dad took her body away and we had a funeral and she isn't here. She isn't! It's not—that's not Mom! It can't be her because if it's her then she was here and crying and no one helped—"
+
+"Adam," Cale said, kneeling, and the boy yanked his hand away and wiped aggressively at his eyes.
+
+"It's not her!" Adam was breathing heavily now, almost hyperventilating. "I won't look! You can't make me!"
+
+"I'm not going to make you do anything," Cale said, his voice soft but steady. "But I am going to tell you something about spirit magic, okay?"
+
+"...spirit magic?" Adam kept his eyes shut, but his breathing calmed somewhat. Like before, the topic of magic interested him, and he couldn't help himself.
+
+"Spirit magic," Cale repeated. "It's a kind of magic only very powerful mages can do, and they can only do it if they feel a very strong emotion about something really, really important to them."
+
+Adam hesitated, and when he spoke again, his voice was small. "What can it do?"
+
+"You use spirit magic if you want to watch over something even when you're gone," Cale said quietly. "And it has to be fueled by your feelings for what you're watching over. Do you understand what I'm saying?"
+
+"That Mom cared about the stupid notes more than me?" Adam answered bitterly, something raw in his voice. Cale shook his head.
+
+"No," he said. "That kind of spirit can only care about one thing, Adam, and it's whatever was used to fuel their magic. Flia was able to get past it because she made a plea to your mother about protecting you, remember?"
+
+Adam said nothing at first, but Cale could tell he was thinking about it, and eventually he made himself speak. "They never hurt me," he whispered. "The ice shamblers, I mean. They're cold and they freeze stuff, but I don't freeze when they look at me, even though it's happened a bunch."
+
+"Guys," Leo said. There was a note of warning in his voice, though he did his best not to interrupt.
+
+"I could have gotten the notes, couldn't I?" Adam asked. "They would have ignored me."
+
+"Probably," Cale admitted.
+
+"But it's too late for that now because of all the... spatial stuff you were talking about," Adam said, and Cale nodded. That was about the gist of it. "There's something else you need me for, isn't there?"
+
+"You're the only one that can see her, and she did all of this for you." Cale sighed. He would have preferred not to get the kid involved, if it had at all been possible, but it was the only real way they had to disable this magic. "A spell anchor empowered by spirit magic like this only goes haywire like this when the spirit itself is in distress."
+
+"I can see her." Adam was crying freely now, but he was blinking through the tears to look up at the visage of his mother anyway. Cale could sense no more than a shadow, even through Ashvali's eyes. "She looks so sad. I thought she was sad because of the monsters, but it's not that, is it?"
+
+"Probably not, no." Cale could only imagine what it would have been like for her remnant to see the abuse heaped on her son while she was powerless to stop it. No wonder the power of those defenses had crept slowly out of control, sweeping out across the basement.
+
+"I don't want her to be sad anymore," Adam said quietly. "How do I help her?"
+
+"You let her know you'll be okay without her." Cale could feel Leo's magic slowly collapsing against the increasing strain—there wasn't much time left. "How does the Fifth Church do it?"
+
+Adam hesitated. "There's a song," he said. "I remember it from... um. Mom used to sing it to me, which I guess is kind of weird, now that I think about it. I think there's supposed to be magic, but..."
+
+Cale wasn't surprised. Everything seemed to point to the idea that Dione had somehow known this was going to happen, and some form of precognition seemed to be part of the Fifth Intersection's domain. "Go ahead," he said. "We'll lend you our magic."
+
+Adam nodded, took a deep breath to gather himself, then stepped forward. He looked up one last time, as if to memorize what his mother looked like, and then began to sing.
+
+"O the steps you have taken have left us a path; the Fifth will carve it in stone."
+
+Magic around them began to rise, and Cale allowed it to flow from his core into the song, contributing only a low, supporting hum. Thorn, Graystalk, and Syphus did the same.
+
+Something prickled at him. From the way Thorn's eyes narrowed, he'd noticed it too.
+
+"For though your sun may set, the light you leave lingers; the Fifth will paint it on bone."
+
+It was nothing malicious, but this was more than a mere funeral song. The format of it was archaic, but Cale recognized that focus on calling to a greater entity. A more modern version would group the mentions of the Fifth Intersection together, but ultimately...
+
+"We carry you forward, your heart and will in ours; the Fifth will hide us alone."
+
+This wasn't a song so much as it was an incantation, which meant they had just cast a spell.
+
+It had worked, to be fair. Leo let out a gasp as he finally let go of the magic, and the spatial distortion shrank abruptly as it collapsed in on itself, but Cale's mind was more fixated on the oddity of that final verse. He said nothing about it for now, though.
+
+Syphus reached out to catch Adam as the boy collapsed, exhausted by that simple demonstration of magic. In front of them, Dione's body was finally visible, perfectly preserved. There were dried tracks of tears on her cheeks, though Cale could only catch a glimpse of them before they—along with the rest of her—dissolved into motes of light.
+
+"She's with Ashvali now," Adam said quietly, the words coming out choked. "I miss her so much."
+
+"I know," Syphus said, awkwardly patting his back. "It will be okay, Adam."
+
+Cale stepped forward. Nothing stopped him as he reached beneath the cot to pull out a dirtied, dusty sheaf of papers.
+
+Even through the dust, the writing on that first page was clear. There was a sketch of what Cale assumed was an ice shambler, and then beneath it, circled several times in frantic handwriting, were the words: Are they what we become?
+
+Akkau glared at Headmaster Naor, who stood across from him in a tiny nook within the Haelforge Library. They would ordinarily have opted for a much more ornate venue, but Akkau didn't care much for pomp and ceremony at the moment.
+
+"That is not good enough," he said. "Six of my students and one of my professors is in there."
+
+"Which is why I came to get you, is it not?" Naor folded his hands behind his back, perfectly calm and expressionless. Akkau hated that most about his counterpart. No matter how dire the circumstance, he never showed any emotion.
+
+"You came to get me to solve your problems for you," Akkau growled out. "Which I will, but only because I will not leave my students trapped within some dungeon you did not have the sense to properly survey!"
+
+"My faculty can hardly be blamed for a mutation," Naor said with a shrug. "It seems more likely that this was triggered by a student of yours, and that may well mean that you have cost me a valuable dungeon. If anything, you are in debt to me."
+
+Akkau snorted. "We both know you are desperate to get your bony fingers on that mutation to study it, or you would not have brought me here to help."
+
+"I would consider that a debt repaid, yes," Naor said idly.
+
+"You are lucky I do not have the time to argue with you," Akkau said flatly. "A dungeon locking itself and mutating with mages still inside it is a serious matter, Naor. Has lichhood stripped you of your sense?"
+
+"It has allowed me to realign my priorities." Naor clicked his fingers together, then stood. "Regardless, I believe we are done here. You are welcome to study and attempt to break open this dungeon as you wish. Please call me when you do; I am most curious to find what has changed."
+
+With that, he stood up and left. Akkau stared after him for a moment, his eyes narrowed before he let out a snarl and stood as well.
+
+Sternkessel let out a hum. "Perhaps it is the jacket, but I found myself remarkably tempted to teleport his soul anchor into orbit," the professor said.
+
+That made Akkau snort, and he relaxed slightly. "Good thing you kept the jacket, then," he said. "We might still need you to do that. But we will examine this dungeon mutation first."

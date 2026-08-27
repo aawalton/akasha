@@ -1,0 +1,95 @@
+---
+id: b65c6fea-a5ca-5277-99fb-da75cd5decf9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Core"
+slug: 0003-chapter-3-core
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 3
+ownLength: 1488
+unit: words
+publishedAt: 2023-10-22
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1382343/chapter-3-core"
+royalRoadId: "1382343"
+---
+
+Quinn blinked at his last statement, rather skeptical about the whole thing despite wanting to believe she wasn’t dreaming. "I'm your last hope?
+
+"Literally. Our last hope of getting a librarian for the Library." Lynx nodded for emphasis.
+
+Quinn shook her head still not quite parsing his words. "The magical library of what now?"
+
+But Lynx didn't seem inclined to give her an explanation. Instead, the cat sat down and curled its paws under its front, looking at her with a quizzical expression on its face.
+
+While it literally sat like a loaf.
+
+It was all Quinn could do not to comment on its peets disappearing.
+
+Finally, after what seemed like an age, Lynx spoke. "The Magical Library of Everywhere. Also known just as the Library. I understand that your world doesn't have magic, but you were supposed to get all of this information in the time it took you to get here. This is how it works regardless of the background of the individual. It’s always worked like this. It should have uploaded into your brain and given you a generic understanding as soon as you were recognized by the system."
+
+Quinn hugged herself for a moment, took another deep breath, and tried her best to keep her voice even as she steadied herself. "First up – you should be asking people for permission to load stuff into their brains. And secondly…I already told you I didn't get a packet. Explain where I am and what the hell you mean by connecting me to a system before we disappear. That sounds like some dodgy cyberpunk b movie stuff? Just what the hell do you mean?"
+
+This time, the cat just gestured with its paw and patted the ground, and Quinn reluctantly sat down next to him. Not too close though. "Okay, it seems I'll have to catch you up to speed, but it won't be all the information you need. And we have to do this as fast as possible."
+
+“Why do we have to do it fast? It seems to me fast is an extremely good way to leave out very important things.” She raised an eyebrow.
+
+Lynx paused for a second and gave one nod. “That is valid, but as you can see we have been reduced to Emergency Power Mode. We don’t have the time to explain everything in detail. The basics is all I can do. For now.”
+
+“And this synchronization will supposedly extend the time we have?” She eyed him and the red flashing glow all around them warily.
+
+Lynx nodded once more.
+
+"Fine." Quinn crossed her arms and watched him, still ignoring the sound of the alarm in the background. "But at least give me something. This is all… a lot. How is it even possible that I’m your last hope."
+
+"If I knew how it was possible, I could have reversed it and we wouldn't be having this conversation because I’d never have had to go into low power mode in the first place." Lynx started off snappily, and then sighed again. He really seemed to be frustrated. "I hadn't found a compatible signature since even before shutdown, and that’s been…
+
+For just a second he paused and his eyes churned and flickered strangely until a pinpoint of bright blue appeared ever so briefly in the depths of each iris. "468 years and 14 days. Yep, that's it. That's the statistic I needed."
+
+"How did you pull that number out of thin air?" Quinn raised an eyebrow.
+
+"It wasn't thin air, it's part of my database." Lynx grimaced at Quinn's blank stare and continued. "Because I'm the Library, or I'm the manifestation of the Library and thus completely interconnected with the Library, just like you will be once you amalgamate with the core."
+
+"Wait, wait." She shook her hands out in front of her body. "Are you saying that I'm going to turn into you?"
+
+Lynx actually laughed. It was a full-throated belly laugh. "No, no, you will stay you. You just... that connection, can you feel it? Do you sense it? Can you hear it humming? That's the Library. It’s got a wavelength you should be able to detect. And when you connect, you'll be able to feel it and hear it and understand it more and more as it powers up. Help it get new knowledge. Help it replenish its magical supply. Let it give magic back to the universe. Because right now, it's running on almost empty."
+
+Quinn listened. She had heard that hum. It was low and comforting and safe. It thrummed through the floor, right up through her spine. Sometimes it even set her teeth on edge. It was a sensation she'd thought was just nerves. But on reflection, it didn't feel bad, but instead welcoming.
+
+For just a moment, the alarm seemed to blare louder and then it receded again.
+
+Was that really the Library? It was there, she could truly sense it, just like Lynx said. She reached her hand forward, hesitantly, placing it against the trunk or core or whatever the hell it was called. The material under her hand felt nothing like what she'd expected. It was cool to the touch, not rough like stone though, it was smooth. She could feel it tugging at her consciousness. Sense it was magical. It was like everything she'd ever wanted in one place. There was a hitch to her voice when she spoke next.
+
+"Does that mean this is my library?" she asked, her voice barely audible above the alarm.
+
+Even though she couldn't see his face, she knew Lynx was smiling. "Technically. As long as we prevent complete shutdown, there’s so much we can do. We can find the Combat Branch. We can unearth the Horticultural Branch. We can rediscover the Culinary Section and the Alchemical and Medicinal Branches, the Crafting Branch. You don't even understand. We've lost so, so much."
+
+“You’re moving a little too fast for me. All of that is confusing.”
+
+“Sorry.” he seemed to mean it too.
+
+“So if I don’t do this,” Quinn paused. “Then no one can get magical Library books?”
+
+Lynx stopped her, shaking his hand. There was a mild expression of panic on his face. Like he didn't want her to misunderstand. " Magic exists, and people with magical affinities can use magic, which is practically everyone. The Library is like a focal point. It helps you focus, it helps you get better and stronger. The more you know, the more power you have, as long as you understand it too. But we don't have time for more of an explanation. Not right now."
+
+Quinn barely resisted the urge to snap at him. "Look, we need to make time for this. I don't understand this connection you keep saying I have to make."
+
+"We’d have more time if you’d just connect now," Lynx retorted.
+
+"Hey, there's no need to be sarcastic with me. You realize you pulled me here. You're asking me to do something I didn't agree to. You just yanked me through a bloody wormhole or whatever it is, and you just expect me to be okay with connecting myself to a computer?"
+
+"It is not a computer," Lynx corrected her. "The Library, the... listen, I'm sorry. I realize this must be overwhelming and really difficult to understand. You've already got your hand on the core. Can't you feel that? You have to connect. If you don't connect, then there's nothing."
+
+"You mean like, nothing for me to do but go back home, right?" Quinn glanced at Lynx, but could already tell from his expression that that was not what he meant in the slightest. "Wait, you mean everything right where we are, will be gone?"
+
+Lynx nodded. "Yes. Completely and utterly. Everything you've ever known will cease to exist."
+
+She drew in a breath and let herself feel the hum again, that flickering lifeline right beneath her skin. It reached out to her tentatively, like it knew she was confused and uncertain. Maybe its caution could be enough?
+
+Lynx cleared his throat. "Look, I get that you need to know a lot of stuff, but I promise that we will fill you in as soon as the connection's been made and the power drain halted. Can you do that much? Can you accept that?"
+
+Quinn didn't know what else to do. She obviously wasn’t going home anytime soon and definitely not if she suddenly winked out of existence. She hadn't hit her head that hard, and she was pretty sure she wasn’t in a coma, and this was unlike any expectation she'd had of being transported into a different world.
+
+Isekai anime had a lot to answer for.
+
+What was she supposed to do?
+
+It took a lot of courage to speak what she needed to, but she managed. "Fine. Connect us, but I'm going to hold you to that promise."

@@ -1,0 +1,93 @@
+---
+id: 6c19493c-112e-500d-a762-cd07cda18fee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77: Intermission: Sophia and Shaun"
+slug: 0118-chapter-77-intermission-sophia-and-shaun
+partOf: labyrinth-of-the-mad-god
+position: 118
+ownLength: 2495
+unit: words
+publishedAt: 2025-01-13
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2008151/chapter-77-intermission-sophia-and-shaun"
+royalRoadId: "2008151"
+---
+
+Sophia looked up toward the ceiling of the immense cavern, where a fierce battle was taking place high above her head. Darting between enormous clusters of glowing crystals protruding from the roof of an enclosure big enough to hold a thriving metropolis were four of her frostfury wasps.
+
+The quartet of venomous insects was engaged in a dogfight with a trio of giant birds with shimmering silver wings. They reminded her of oversized eagles, although the burning claws were a dead giveaway that these were no creatures of Earth. The wasps wove their way between the crystals, dodging arcs of flame all the while. The birds darted and dove to avoid being stung, and neither side was able to land a killing blow.
+
+Since the stalemate seemed likely to continue for at least a few more minutes, Sophia lowered her gaze to the water by her feet, where a pair of her spear-tongue frogs was dueling against a giant reptile that looked like an azure crocodile with flippers and fins instead of feet.
+
+While the fight raged on both above and below, she tried to take in the battle as a whole. She was still learning to sense when taking command could turn the tide of a conflict. When it was better to let her summons act according to their instincts without direct intervention. From time to time, she received an impression from battlefield awareness, the skill that she had journeyed to this world to train.
+
+She had come a long way over the last four weeks, due to the instruction she had been offered by her mentor. Thanks to her intensive lessons, Sophia could direct more of her summons at once, control them with greater precision, and command separate units, each with their own orders and objectives.
+
+Dira couldn’t offer Sophia advice on how to use her abilities, as it went beyond the scope of their training, but she had been able to figure out quite a bit on her own during their weeks of dueling with their respective summons. As if responding to that thought, the woman began to speak, using some manner of magic that let her words reach Sophia’s ears from a hundred feet away.
+
+“Keep an eye on each skirmish taking place, but don’t let any of them draw you in for more than a second or two at a time. Take in the entirety of the battlefield instead. Feel how the pieces fit together to form a unified whole. You must always be seeking the moment where one small change can claim victory if the odds are in your favor and throw the entire board into chaos if they’re not.
+
+“It will become even more complex when fighting with allies at your side, in conflicts involving greater numbers than we’ve practiced with up to this point. Especially if you’re attacking and defending with your own body at the same time. You can’t divide your attention that many ways at your level, so don’t even try. Instead, seek to perceive the fight as a seamless tapestry of violence. Put your finger on its pulse, hear the music it makes, whatever image lets you wrap your head around it’s unique, shape, sound, color, or taste.
+
+“The more summons you control, the harder maintaining this perspective becomes. Although it will become easier to switch your focus around as needed, the higher that you raise your battlefield awareness skill. Each summoner has their own unique style. Over time, you will have to decide what the optimal number of summons is for you, along with which to direct and which to leave standing orders. As you gain new abilities, your range of options will grow. But no matter what path you follow or what is going on at any given moment…”
+
+Dira’s words abruptly cut off, then resumed from behind Sophia’s back. “Never forget that you are the linchpin of it all. More important than commanding your forces or anything else, you always need to protect yourself.”
+
+Sophia turned around and tried to leap out of the way, but it was already too late. Before the last word reached her ears, a fist slammed into her stomach, knocking the wind out of her. She went sprawling in the dirt, her control over her beasts broken, leaving them to fight on their own, limited initiative.
+
+She let out a groan and climbed onto her feet, trying to reestablish her awareness of the field before the fight was lost. She looked around, anticipating another strike, but her mentor was already darting back and out of reach, continuing to offer advice without any perceptible pauses.
+
+“You’re getting better at this, but six is still too many to use in a real fight. Against another summoner, they would have just killed all your units, then converged to finish you off. Until you can raise your creativity and mind, you should consider upgrading their individual power rather than fielding more forces.
+
+“The other option is to specialize exclusively in your summons and stop trying to develop your personal combat ability, beyond a bit of defense. As with every choice you make on your path to power, you will close as many doors as you open if that’s the direction that you decide go in. I can’t give you advice as to which path to walk. You will have to develop your own concept during the trials ahead.”
+
+Sophia noticed that the silver birds had changed formation. That if she didn’t order her wasps to regroup and pull back, she was going to lose half of them over the next few seconds. Dira smiled when she saw that Sophia had noticed what she was up to, then finished the point she was making.
+
+“Since you’re still a hybrid of summoner and warrior right now, you must learn to direct yourself as well as coordinate your horde. Bear in mind that you are a part of the battle too, an integral player around which the other pieces revolve. It will become even more complex if you try to take the lead and direct your team at the same time, although it will get easier to keep it all in your head the further you train your attributes and skills. Although nothing is more valuable than hands on experience.”
+
+“Yes sensei, thank you for your guidance.” Sophia winced at her fresh bruises without trying to show it. Then she bowed to her instructor, who was standing a bit to one side, waiting for Sophia to recover before launching another attack. The martial arts she’d learned from her mother led her to use the word without thinking about it. Dira seemed to like the honorific, so Sophia had kept on using it.
+
+The woman in question was a four-foot-tall humanoid rabbit covered in feathers. At least, that was the closest thing that Sophia could think of. But over the last four weeks, she had come to see Dira as a mentor and a friend, despite her unusual appearance. Sophia appreciated the guidance that she’d been offered. She sensed that Dira was pushing the limits of what the System would allow her to reveal during exchanges like this one.
+
+“I’m not authorized to train you with your dagger, but you’re going to have to make a choice during your next class selection. Whether you want to specialize purely in controlling your summons, or whether you want to fight alongside them. Each path will lead you down a different series of classes over time. Either way, if you want to be able to fight alongside your friends without becoming a liability, you will have to train your body as diligently as you’ve been developing your tactical mind.
+
+“Not everyone has the potential for both roles, but you do. You’ll also have to think about whether you want to specialize in large-scale conflicts or small-group engagements, at least to some extent. But we can talk about that later. For now, let’s bring all our forces onto the ground and work on fighting alongside them in a coordinated manner. It’s a stronger tactic until you pick up some perceptual abilities that will let you view the field through the eyes of your summons.”
+
+Sophia sent out a mental command, recalling her summons to her position while focusing on Dira’s words.
+
+“This kind of fight is what you will experience most of the time once you leave here tomorrow. Although there will always be exceptions, so it’s good that we got in some practice in coordinating multiple distant units too. I’ve heard more than enough of the sound of my own voice for one day. Enough talking, it’s time for round two.”
+
+Sophia raised both daggers and assumed a defensive stance, as her frostfury wasps arrived and then spread out above her head. The spear-tongue frogs leapt out of the water to guard her flanks, completing the six-unit formation.
+
+Her mentor’s forces took on a different strategy. Instead of staying in one place, Dira drew her bow and leapt on top of the big blue crocodile, riding it as a mount while her eagles flew low to the ground on either side.
+
+Without further warning, they charged Sophia as one. Her sensei began firing arrows from atop the beast, aimed at where Sophia was standing. She leapt out of the way at the last possible moment, then broke into a charge with her summons at her side, ready to engage the enemy.
+
+She was eager to give the battle her all and make the most out of her final hours on this world. As she sprinted to close the distance, Sophia wondered how her friends were doing. She hoped that they were getting this much out of their skills training reward.
+
+***
+
+Shaun drew back the string of his bow, shutting out the world around him to concentrate on the row of targets lined up across the open space ahead. Some of them were relatively close, while others were further back, near the limit of his range. A few of the painted circles were the size of a person, while others were smaller than an apple. Half of the targets were stationary, while the rest followed different patterns of movement, simulating the natural motion of a living opponent.
+
+His mentor Finren, a dark-skinned man without a hair on his body, watched him with a perennial frown. Shaun tried to ignore his presence. To focus on nothing other than the feeling of the weapon in his hands and the target he was trying to hit.
+
+After weeks of grueling struggle, he’d finally graduated from the basics to situations that came closer to simulating a true battlefield. Although Finren said that Shaun wasn’t ready to try firing against an enemy who was shooting back at him yet. Shaun desperately wanted to grow stronger, but he’d learned not to let it distract him, accepting that he had a long road to walk before he would be able to fight on par with the rest of his team.
+
+He let go of his future to focus on the now, letting everything else fade away, except for a target the size of his fist that was flitting through the air like a bird in flight. He nocked his arrow and drew back the string, aiming not for where the target was, but where it would be when his missile arrived. There was an abrupt sense of rightness, the guidance from his bow skill kicking in. Shaun leaned into the feeling and released the arrow in a single, smooth motion.
+
+The arrow shot forth, arrowhead flashing in the green light of an alien sun, before plunging straight into the center of his target with an oh so satisfying thud. He let out a whoop of victory, and turned to face Finren, enjoying the rare look of approval on his mentor’s face.
+
+“Better. You’re improving by the day. But you’re still treating this like a shooting gallery instead of a battlefield. You can’t shut out your surroundings for longer than the instant it takes you to line up the shot, or something is going to claim your head before you even know it’s there.”
+
+Finren took pity after seeing the disappointment on Shaun’s face. He walked over and clasped the young man on the back. “Don’t worry lad, you’re getting there. You’ve made remarkable progress since we began, considering that you were a total beginner at the start. We’ll get you in shape during the little time we have left. At least enough that you can contribute something in a real fight.
+
+“Since your damage output will be low until you can get your hands on a modified bow, you should focus on distracting your enemy or landing a shot in a vital point. Right now, your job is to disrupt and distract. To interrupt their casting and foul your enemy’s formation. To capture their attention and lower their guard, so the rest of your team can get in close take them down. With your abilities, you can function as a decent support fighter, until you level up and get a better class at twenty-five.
+
+“Cool off for a few minutes, then I’ll tweak the settings and we’ll try it again. While you rest, here’s a final bit of advice. I can’t train you in your abilities given the constraints of my contract, but you should learn everything that you can about them on your own. It will give you a massive head start when you hit level fifteen, helping you to rank up your powers several times right away.”
+
+Shaun nodded as he drank from the bucket beside him, pouring the rest over his head to help combat the pervasive heat. His mentor’s words had softened during the last exchange, trying to be encouraging, although pep talks weren’t Finren’s strong suit. “If you really want to catch up to your team, this is one way that you can begin to bridge the gap.”
+
+Shaun sighed, then nodded, intending to give these final hours his all. “Thank you. Really, I can’t tell you how much your guidance means to me. I know that I still have a long way to go, but I really do want to contribute and help the others climb the tower. I’ve been useless for my entire life, and I haven’t always been a good person, but I’m trying to change. Now, while there’s still time.”
+
+“I respect that, lad. But if you mean what you say, then get back up and get ready to go again. It’s time to get back to work. Less talking, more training, as my master always says.” With that, Shaun picked up his bow and began choosing his target, ready to give it his best effort.
+
+He was determined to make something of his new life, to become a better person than he had been before, even if he wound up dying in the process.

@@ -1,0 +1,167 @@
+---
+id: 3e31f217-ea97-535d-b179-39a7fadae08b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: The Coins and the Priests"
+slug: 0005-chapter-5-the-coins-and-the-priests
+partOf: mark-of-the-fool
+position: 5
+ownLength: 1955
+unit: words
+ownProgress: 1955
+publishedAt: 2021-04-05
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/658350/chapter-5-the-coins-and-the-priests"
+royalRoadId: "658350"
+markedReadAt: "2026-06-29T20:10:57.266Z"
+---
+
+The town of Alric stirred with tension.
+
+It seemed like half of the townspeople were out on the streets as Alex, Theresa, Selina and Brutus passed them by. Wagons filled the sides of the roads as people rushed back and forth between townhomes and businesses, stacking their possessions into the wagons and tying them down. Torches flickered on poles or in tightly gripping hands, and weapons that hadn’t seen the outdoors in years hung from the hips of many of the townsfolk.
+
+Alex could feel the panic building.
+
+“Make sure the silver’s close at hand,” a heavy-set woman told her husband as she finished hitching the horses to a cart. “With this many going to the continent, the shipmasters’ll charge whatever they feel to take folks across the channel.”
+
+“It’s already in the front, just don’t let it out of your sight,” an older man grunted as he placed a heavy chest into the cart. He glanced around, scanning the other wagons and carts. His hand remained close to his club. Alex recognized the man; they had always nodded politely to each other and exchanged smiles in the mornings. Now when he spotted Alex, his lips rose in the same wide smile, but his eyes were anxious and agitated.
+
+“We should hurry.” Theresa nodded to Alex. “Something ugly’s brewing.” She eyed their neighbours; her body tensed as though she was in the woods hunting on a moonless night.  “Desperate people do desperate things. Let’s get to the gate quickly.”
+
+Selina looked up to them. “Is there something wrong?”
+
+Alex gave her another weak smile. “Everything’s alright, Selina,” he lied quickly. “Everything’s fine.”
+
+The southwestern gate was not fine.
+
+Despite there still being some time before sunrise, a large crowd had already gathered, forming a line that stretched from the wall and down several blocks. Many—it seemed—had the same idea as Alex: come early in order to beat the crowd. Now, they were all made to wait as the guards stopped each solitary traveller and family, recording the names of every person leaving. Likely, they were keeping an accounting of who would be staying in town and needing protection during these dark times.
+
+“That’s it! That’s it! Order now!” he heard the guard, Paul, shout from ahead. “Keep order and we’ll have you on the road before sunrise!”
+
+Normally, none of the gates opened until daylight, but Alex took one look at the large crowd and recognized how ugly things might turn if they were not allowed to pass through now. People were fidgeting in agitation; some watched the skies or the top of the walls as though monsters might come flying over at any heartbeat.
+
+Most clutched their possessions, and a great many were counting the coins in their purses; having enough for the ship’s passage seemed to be on the minds of most. Alex stealthily patted the inheritance buried at the bottom of his rucksack, as well as the small pouch of coins on his belt, and he gave quiet thanks for his parents’ hard work. The four of them wouldn’t have to worry about passage.
+
+As they stepped into the back of the line, folk took one look at the massive form of Brutus and quickly gave them space. The cerberus seemed proud of himself as he flopped down onto his haunches and tossed the broken pieces of bone onto the side of the road. His three tongues lolled from his mouths and he panted in the mild air of the summer morning.
+
+“Good boy.” Theresa smiled and scratched behind one of his ears. He whined for more attention and pressed his other two heads into her waiting hands.
+
+“Yeah, very good boy.” Selina copied the young woman by rubbing his haunches.
+
+“Yeah, super good boy.” Alex reached out to pat his back.
+
+Brutus gave a low growl.
+
+Alex stopped reaching out to pat his back.
+
+Instead, he chose to let his eyes wander over the buildings spread before the gate. He noted the stables and stalls usually staffed to serve travellers entering town. He noted the guardhouse, and the highchairs where ambitious town boys would shine shoes of any who could pay.
+
+“I’m going to miss this place,” he sighed fondly.
+
+“Already?” Theresa gave him a look. “We’re not even gone yet. Sure you don’t want to stay?”
+
+He shrugged helplessly. “What would be the point? I wouldn’t get to stay here anyway.”
+
+“Well.” She took a long look around. “Let’s hope that it’s still here when we get back.”
+
+Alex reached out and gently rubbed her shoulder. “I’m sure it will be.”
+
+“Next!” Paul shouted from ahead.
+
+The line began moving.
+
+“I hope so, Alex,” Theresa said in a small voice.
+
+They moved toward the gate at a steady pace, and Alex took the time to consider their plan. It was about ten days on foot to the closest town on the sea, and it would be longer with Selina with them; she’d need to be carried part of the way, perhaps by Brutus if Theresa could convince him. They would have to be careful on the road too: the priests would be searching for the Heroes, and The Ravener’s coming would mean monsters would start to roam the land soon. Then there would be the bandits: all these folks on the road would make tempting targets. Anyone fleeing would have to move quickly and preferably in numbers.
+
+“Theresa, you’ve got better eyesight than I do. Maybe look around and see if there’s anyone close by that we know well; someone we could join up with for at least part of the journey. For safety.”
+
+She glanced at him. “I was just about to suggest that.”
+
+With predatory focus, she slowly scanned the crowd, letting her eyes drink in every detail. She was turning to look over those that had joined the line behind them when she suddenly froze.
+
+“Alex…”
+
+“What is it?”
+
+“I want you to turn around slowly and casually, okay? Don’t panic.”
+
+He nodded, feeling a knot tightening in his belly. He slowly turned to follow her gaze…and froze. At the end of the street, three white robed figures passed through the crowds, pausing to help and comfort those who were readying to leave. Though they were still distant, they were clearly headed for the line.
+
+“Oh no,” Alex said under his breath.
+
+Priests.
+
+The priests of Uldar were coming right toward them.
+
+They were making their way down the road, their snow white robes standing out in contrast to the colourful garb of the townsfolk. None of them were looking in his direction, but he had a sinking feeling it would only be a matter of time.
+
+He was fairly sure that some of the Heroes from past generations—especially the Fool—would have tried to run off, but there wasn’t any record of the kingdom failing to find one, only that some had disappeared part way through the journey. His eyes narrowed.
+
+They had some way of detecting the marks, he was sure of it, and he had no idea how or at what range. That put him at a disadvantage. His mind continued to work. The fact that they weren’t rushing right for him meant he had not been found out yet, but-
+
+“Alex!” Theresa hissed. “You’re staring.”
+
+“Shi-” he paused, remembering his little sister was right there. “I mean, crap.” He casually faced the gate.
+
+The line before them had shrunk considerably: only fifteen people stood between them and freedom, and the guardsmen were moving folks through quickly. His back tingled, and he imagined the priests’ eyes suddenly focusing on it and calling out to him. Maybe if the guards worked quickly enough and the priests lingered, they might be alright.
+
+“What’re the priests doing?” he whispered to Theresa.
+
+She threw another glance over her shoulder nonchalantly. “They’re getting close.” Her lips barely moved.
+
+He grimaced. It would take too long to get through the line.
+
+What could he do? If they cut in line, that would bring focus onto them and create a commotion they would end up getting caught up in. It would also bring attention they didn’t want. He frowned; he had heard of some powerful wizards being able to disappear and appear wherever they wanted. He wished he had that spell.
+
+His eyes narrowed in thought.
+
+Wishing wouldn’t get him anywhere. He could only use what he had.
+
+Think. Adapt.
+
+His eyes caught something curious happening up ahead. Six places ahead in the line, a skinny man in a rich doublet was turned on his horse and facing a couple behind him.
+
+“Oi, watch yourself,” he said loudly to the woman. His face was tense with agitation. “Don’t get too close.”
+
+He patted something on his belt: a bulging coin purse.
+
+“Don’t get too close, yourself,” the woman snapped back. “I don’t like the way you’re looking at me.”
+
+“Doesn’t much matter what you like or don’t like. Stay back and keep your hands to yourself.”
+
+The woman’s husband—a big bruiser of a man—stepped forward. “Are you calling my wife a thief?”
+
+“I’m calling her nothing, but I want my proper space and you’re both too close.”
+
+“Your horse is taking up half the line and folk are pushing from the back, what do you expect us to do?”
+
+“I expect you to keep back: I am assistant to the mayor himself!”
+
+“Then why are you running?”
+
+The mayor’s assistant sputtered like an angry teapot. “Say something like that again and I’ll see to it that you and your wife spend the next week in the town dungeon.” He drew a breath as though he were about to shout for the guards.
+
+The bruiser turned red, but said nothing else, and the folk behind him gracefully stepped back so he and his wife could give the pompous ass his space.
+
+An idea formed in Alex’s mind.
+
+“Theresa, I need you to stand behind me,” he whispered. “Block the view of me from the back and tell me if anyone’s watching.”
+
+She shot a look toward the priests. “If you’re going to do something, do it fast.”
+
+Theresa casually slid between him and the back of the line, making it look as though she were merely shifting in place. Alex stealthily reached into his pouch, drawing out a handful of gold coins. His eyes focused on the back of the bruiser. Everyone was desperate for enough coin to get on the ships: if he slipped up to him, pressed a couple into his hand and asked him to throw a punch at the jackass on the horse then-
+
+...no, that would make him stand out: anyone would remember someone who paid them to start a fight. His eyes shifted to the rich man’s back. Plan B, then. Alex slipped the coins to his other hand and wedged one between his thumb and index finger. He focused his mind on how he’d made coin tosses in the past, on the best ones he’d ever made.
+
+Memories flooded in: images of him flipping coins into the fountain yesterday, the feeling of rolling them back and forth across his fingers, other coin tosses he’d made; flipping and catching coins in the air when he was younger.
+
+Each memory organized itself into a guide that pointed out what he had done right each time: which movements of the body had generated distance, how he’d held his hand to determine direction, how much force he’d applied during his best shots.
+
+All coalesced into a careful instruction that guided his hand.
+
+He watched the people in line between him and his target.
+
+When he was sure none were paying attention to him…
+
+Ting.
+
+He flipped the gold coin forward.

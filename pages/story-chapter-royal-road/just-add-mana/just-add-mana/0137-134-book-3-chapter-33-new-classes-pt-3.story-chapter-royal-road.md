@@ -1,0 +1,179 @@
+---
+id: 1c2e8c97-526b-5df1-98b6-1affe1bcfb3a
+page-type-slug: story-chapter-royal-road
+title: "134 — Book 3, Chapter 33 — New Classes, Pt 3"
+slug: 0137-134-book-3-chapter-33-new-classes-pt-3
+partOf: just-add-mana
+position: 137
+ownLength: 3084
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3386410/134-book-3-chapter-33-new-classes-pt-3"
+royalRoadId: "3386410"
+---
+
+Cale was operating mostly by instinct, which, as far as he was concerned, was an ideal state for him when it came to experimenting with magic.
+
+Most of the friends he'd made would probably disagree, having been on the wrong side of his experiments. It wasn't like any of them had gone disastrously wrong, though! His inability to cast any kind of conventional spell meant that his intuition for all other kinds of magic had been honed over the centuries. The only reason those friends kept worrying was because of the unusual nature (and quantity) of his mana.
+
+Granted, they were technically right to worry, in the sense that his experiments never went exactly the way he intended. That was beside the point, though.
+
+Cale stood in front of the spell system that Instructor Hikari and her apprentices had constructed. She'd kept the spell running at his request, though she and the other instructors all denied hearing any sort of "mana song" coming out of their spells. That made Cale all the more certain that he was on to something here.
+
+Maybe he'd even be able to contribute to humanity's understanding of magic.
+
+(Except none of this was real, he reminded himself. This dungeon was unusual, certainly, but at the end of the day it was nothing more than a recreation of the past; even if he discovered something, it would only impact the dungeon's version of events. The reality was that humanity was lost, and nothing he did here would change that.
+
+It would give him answers, though. Answers he'd been looking for over the course of lifetimes. Answers he'd long lost any hope of ever finding. That had to be enough. Whatever happened here, he could at least remember it and carry it with him, and that would be more than he had before.
+
+He knew he must have lived among other humans, once. His first life was faded now, despite his best attempts. He remembered very little of it.
+
+This was his chance to build more memories of what humanity had been.)
+
+Cale closed his eyes, took a deep breath, and let all those other thoughts flow away until his focus was entirely on this new element of his mana sense.
+
+It was a song. That understanding came to him easily. All magic cast through what humanity had termed "spell systems" were songs, and though this one had been named Basic Illusion, that was nothing more than a name that described its effect. There were a thousand other melodies that could have achieved the same—that would have been given the same name.
+
+And names had power, even here, didn't they? In this case, the name constrained its full potential. It was because this melody was nothing more than a Basic Illusion that even the refined version of it could do nothing more than create a mostly static, solid image.
+
+But it could be more. Here the power of the name was a cage, and so Cale discarded it, and focused on the notes instead.
+
+They told so much more than the spell even used.
+
+Glowbeetle nectar sang a melody of yearning. It produced light, yes, but that was only a fraction of its true song. The nectar was the result of a colony of glowbeetles working hard to make food for their young, and the flowers they needed to produce it could only be found and harvested in the presence of direct sunlight.
+
+The great tragedy of a glowbeetle was that they loved light, but their shells would combust in the presence of the sun. Harvesting those flowers was a risk for them. They hid in the shadows anyway, waiting for just the right moment to strike and harvest the petals, to be turned into their trademark nectar.
+
+The glow of that nectar was the only safe means by which they could experience the sun. Its song was a representation of that yearning for the unattainable, of persistence in the face of the impossible.
+
+For the glowbeetle, that was Light.
+
+Significance and meaning, Cale reminded himself. Every part of this spell ached with it. The chalk circles used only the most surface element of each melody, leaving the rest to collide and create dissonance.
+
+But what if he were to use each one to its full potential? Could he? He didn't have age-old chalk with him, nor did he think that circles and lines were sufficient to capture each melody in its entirety. To use them to their fullest they needed to not be constrained at all.
+
+Cale reached down and erased the circle around the glowbeetle nectar, letting its song suffuse him. He let his instinct guide him—he could maintain this melody instead of the circle, as long as he understood it enough. But he needed to understand it before releasing it.
+
+He turned his attention to the glass marble.
+
+Its song was simple and childlike, which didn't surprise him. They were intended for play, after all. But there was history in that song: history that comprised thousands of years in which this simple symbol had been used to entertain and teach.
+
+It was perhaps the most human of all the ingredients chosen for the spell, and its song reflected that. Cale found remarkable depth in every note. In them were all the games played with them, that taught both numbers and physics; in them was the act of trade, when they were used as currency; and in them was art, in that achingly human ability to carve meaning out of possibility.
+
+It was Humanity, Cale realized. The marble was a symbol of something that had remained constant through much of humanity's development, and the full potential of its song was expressed not in simple refraction, but in the history it held.
+
+He erased the circle around the marble, letting a new harmony join with the song from the nectar, and absently realized he was humming along to their joined potential.
+
+Next came the gryphon feather. From it Cale heard a song of flight and freedom, of escape; gryphons were endangered in this world, and their wings were all that brought them respite from their hunters...
+
+Akkau had lived for a long, long time. Not quite as long as Cale, perhaps, but then that human was an exception among exceptions—just a month of having him around was enough to make it clear that he couldn't really be compared with anyone else. It was a good thing he was as good-natured as he was, though Akkau knew more than most how quickly that could vanish, if he was pushed to it.
+
+Their first meeting was proof of that. Cale had been friendly and carelessly cheerful right up until the moment he wasn't: the moment he realized that the two elves had wilfully kidnapped, trapped, and were willing to sacrifice a small child. Then all that friendliness had vanished from his eyes, replaced with a certain cold anger that spoke of countless other choices made in the same vein.
+
+That anger had faded with time. Cale's apprentices were good for him, and Akkau himself was surprised by how much he enjoyed the human's company and friendship. He was irreverent, but it was an irreverence born from eons of experience with everything the Great Realms had to offer.
+
+And with that, oddly enough, came perspective.
+
+It was the sort of perspective that Akkau had long ago forgotten, with as much time as he'd spent on Utelia. An understanding of the sheer scale of the Great Realms, and the knowledge that any act, no matter how petty or selfish, was a mere drop compared to the vast ocean of the Abyss. Cale considered each individual drop to be important, but he never lost sight of the sheer scale of it all, either. It was why he could be furious one moment and calm the next.
+
+Akkau was different. Even for a dragon, he was the type to become unusually attached to his hoard, and any harm done to it was harm he took personally. As the number of students with unusual attunements grew and his ability to protect them seemed to wane, he found himself floundering.
+
+Perhaps that was why he'd allowed things to go as far as they had and why he'd lost track of how bad they were getting. He hadn't even known about the little girl those two elves included in their ritual—if he had, he would have taken action.
+
+...At least, he hoped he would have. It was one of his greatest regrets that he'd allowed himself to fall so far into his spiral, no matter how much those he loved and trusted tried to pull him out of it. His academy had suffered for it. What would Kazix Brightscale think, if he saw what Akkau had become?
+
+Well, thinking about it, he probably would have just told Akkau to pick himself up and do better in the future. That dragon was nothing if not an endlessly forgiving optimist. Akkau still had no real idea what the circumstances were behind Kazix's disappearance, but knowing him, it was probably some heroic sacrifice where he'd defiantly claimed that Akkau would be able to handle things from there.
+
+Akkau sighed. Sometimes, he still missed his mentor.
+
+"Lost in thought again?" Sternkessel glanced at him. The professor's voice was friendly on the surface, but Akkau knew him well enough that he could sense the subtle probing in his tone. He was worried about him, and for good reason: the last time they'd drifted apart...
+
+"I was thinking about Kazix," Akkau admitted. He was tired of hiding things, and had promised he would no longer do so. "I wonder, at times, what he would have made of what I became."
+
+"I am certain he would have been proud." The rings that comprised Sternkessel's head spun and rotated reassuringly. Akkau still wasn't sure how he pulled that off. "He has always believed that it is only the present that matters."
+
+"There is little time to waste in regret," Akkau agreed.
+
+"What made you think of him?"
+
+"This... mutation." Akkau gestured in the direction of the door to the Bitter Path, if it could still be called a door. The metal had warped and taken on a strange, almost barklike appearance, and now root-like tendrils were growing from it, embedding themselves into the ground. "I have seen nothing like it, and I have lived a long time."
+
+"It made you think about the past," Sternkessel said, nodding in understanding. "And about Cale, no doubt."
+
+Akkau grumbled something under his breath. "Do not pretend you have not wondered about him yourself."
+
+"He is a rather curious fellow," Sternkessel said. He knelt by the dungeon door, running his fingers along the metal, and Akkau watched as his rings spun in a way that indicated he was accessing that magic unique to him—that which granted him absolute dominion over space. "Do you believe this mutation is a result of his presence within it?"
+
+"It seems likely." Akkau eyed the growing roots warily. Dungeon mutations were rare enough on their own, but they most often manifested as a simple alteration in the dungeon's mana signature. It indicated that something within the dungeon had shifted, often due to a change in the realm's leylines, and often meant the dungeon itself was now more challenging.
+
+But he had never before seen or even heard of one that manifested as physical changes in the gateway itself. The only way that was possible was if the mutation was something foundational, something inherent to the nature of the dungeon itself, and that could mean...
+
+Well, any number of things. It could mean that the danger was real now, for one thing. Naor had indicated that the dungeon did not normally allow its delvers to die and would simply eject them if they took too much damage, but it was possible that was no longer the case.
+
+Their best chance at understanding exactly what had changed was Sternkessel, whose dominion over space allowed him to examine how a dungeon was attached to the realm and the nature of that connection. The only problem was that the analysis took time, and dragons weren't particularly known for their patience.
+
+He swallowed back his desire to insist on updates, though, and eventually Sternkessel straightened. There was a glint of amusement in his expression, as if he knew exactly how impatient Akkau was, but it disappeared so quickly Akkau couldn't quite be sure if he'd imagined it.
+
+"The mutation is like none I have ever seen," the Greater Indictment reported, one hand still lingering on the doorway that framed the Bitter Path. "It is difficult to describe, but the connection has... grown."
+
+"Grown?" Akkau frowned.
+
+"Increased in length," Sternkessel elaborated. "The roots, I suspect, are necessary to keep the dungeon anchored to Utelia. A typical dungeon is little more than a dimensional pocket attached to the side of the realm, but this one appears to have drifted, and the doorway has created a spatial bridge to compensate. Wherever it is now, it is farther than even I can reach."
+
+"That seems significant." The way in which Sternkessel had said those suggested he had more to say, but was reluctant to state it outright. Akkau glanced back, checking if any of the Haelforge professors were lingering nearby. Most of them stood outside the range of the library's exclusion zone, as they'd requested, though Headmaster Naor was unsurprisingly paying them close attention.
+
+He trusted them, but anything concerning Cale tended to be sensitive, and Sternkessel was well aware of that. A quick spell placed a weak obfuscation ward around them, one that was designed mostly to block surface-level eavesdropping and, more importantly, to alert him to any attempt to break past it. "What do you think that means?"
+
+Sternkessel nodded, acknowledging the placement of the ward. "It is difficult to be certain," he said, "but I suspect that the dungeon is in the process of developing a truebridge."
+
+Akkau froze.
+
+A truebridge was a theoretical construct. Magical scholars from a long, long time ago had once predicted that because dungeons were fundamentally echoes of other realms trickling down through the leylines, they could be used to construct a bridge—a means of moving from one realm to another, without requiring a vessel that could withstand the pressures of moving through the Abyss.
+
+They proved to be practically impossible, of course. A truebridge itself would have to stretch out endlessly into the Abyss to connect to another realm. Any slight movement threatened to shake it apart or break it, and the realms were drifting about all the time. Building a stable one would require, well...
+
+It would require an absurd quantity of mana.
+
+"Oh," Akkau said.
+
+"Indeed," Sternkessel agreed. "It does not appear to be fully built, at least. I suspect the dungeon itself is still intact on the far end of the connection. Larger than normal and able to feed on and grow freely in the Abyss, perhaps, but a truebridge—"
+
+Akkau grimaced in slight irritation at the exact same moment Sternkessel stopped talking; Headmaster Naor had opted to break through his ward after all. Suddenly the lich was standing next to them, examining the dungeon entrance with undisguised interest.
+
+"A half-formed truebridge," he said. "Truly fascinating. Thank you for this discovery; we will no doubt be able to study it to great benefit, and it appears you have not lost your students after all. An opportunity for us all, wouldn't you agree?"
+
+"If the truebridge is completed—" Sternkessel began, but Naor waved a hand dismissively.
+
+"A completed truebridge would require Grand Magic to be deployed within the dungeon," the lich said. "There are no mages capable of that remaining, the methods have long been lost to time, and it is well-known that a divine spark is necessary to perform such magic. There is no need to worry."
+
+"I will prepare the isolation ritual," Akkau said, resigned. "This will not impact their ability to return, yes?"
+
+"Not at all," Sternkessel said. "The danger would become real—as would the lives within—but the dungeon rules will still apply, which may provide some protection. And such a shift would be unmistakable to those within."
+
+"Really, now," Naor said. "This is an absurd degree of posturing. I do not care how talented your students are; they will not be performing a feat of Grand Magic."
+
+Akkau didn't bother responding. Theoretical or not, he was very familiar with the expected consequences that came with the formation of a truebridge, which meant he was busy with the most important part of the isolation ritual: radiation shielding.
+
+Cale was brimming with music.
+
+Whatever this spell was, it was no longer Basic Illusion. He had erased the entirety of the chalk circle and now carried the rhythm of all five arcane reagents within him; the song was one of yearning and freedom and humanity. The gelatinous residue came with a melody of Adaptability, and the grass was Resilience and Presence. The spell was on the verge of completion.
+
+Something was missing, though. He needed something that would bring the rest of the spell together. His altered mana sense swept through the room, searching—
+
+There.
+
+He always did love it when he could solve two problems with a single stone. Not birds, though. He liked birds.
+
+"Professor Graystalk," Cale said. Or sang, he supposed; it was impossible not to sing, with a song of pure creation within him. He was probably going to get crap for that later. "Could you attempt to cast a third-tier spell? It doesn't matter which. Any spell is fine."
+
+Graystalk frowned, confused, but thankfully didn't argue. Cale wasn't sure if he would've been able to hold a full conversation and the spell inside him at the same time.
+
+The professor began to cast, then convulsed as his curse reared its head. The scar on his core detached itself, ready to consume the spell he was casting instead.
+
+Cale didn't let it. Instead, he surrounded it with the melody of this new spell, of this grand magic.
+
+Like the parasite it was, the curse stuck to the melody instead, eager to suck away its power.
+
+But even divinity was subject to the hierarchy of magic. Cale's song stole away the divine spark within the curse instead, causing it to wither and die.
+
+And with that final piece to complete it, his cast completed, and his spell surged to life.

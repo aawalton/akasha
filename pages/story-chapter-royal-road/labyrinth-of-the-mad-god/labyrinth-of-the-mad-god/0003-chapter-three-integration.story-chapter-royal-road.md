@@ -1,0 +1,227 @@
+---
+id: 2dd80254-005a-555b-bf95-dbc4bd0a7b5a
+page-type-slug: story-chapter-royal-road
+title: "Chapter Three: Integration"
+slug: 0003-chapter-three-integration
+partOf: labyrinth-of-the-mad-god
+position: 3
+ownLength: 2319
+unit: words
+publishedAt: 2023-09-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330805/chapter-three-integration"
+royalRoadId: "1330805"
+---
+
+An infinite expanse awaited Nick on the other side of the portal. A limitless horizon of silver and gold stretching out in all directions. Threads of power were woven throughout the tapestry of celestial radiance, pulsating bands of ruby and jade. He felt like he was floating, unable to touch the ground beneath his feet.
+
+He tried to take a deep breath before noticing that there was no air in this place. Not that it mattered much, because Nick no longer had lungs. He realized that his heart had ceased to race. Which made sense, because he didn’t have a heart anymore, or a body at all for that matter.
+
+He would have panicked if he could. But in this disembodied state, he could do nothing but wait and see what strange twist fate had in store for him next.
+
+He discovered that one benefit of being kicked out of your body was that you had no adrenaline to make you feel afraid. No cortisol to stress you out. No nerves to feel pain, or living cells demanding food, water, or sleep.
+
+Before long, Nick began to calm down. He took in the otherworldly display dancing all around him. Sooner or later, something was bound to happen. For now, being suspended within the beating heart of the void felt safe. And he really needed to feel safe right now.
+
+While he waited, he tried to process what he had experienced. But his confusion and grief were overwhelming despite his strange state of dissociation. His mind recoiled from the attempt, like a hand brushing against a hot stove. Angie… Her name resounded within his soul, alongside a profound sense of sorrow and loss. At least she didn’t suffer.
+
+Sometime later, an alien voice spoke, mirroring the words that appeared within his vision.
+
+Quest complete: Welcome to the System.
+
+Congratulations and condolences. 75.33% of your species has perished, but you are one of the lucky ones.
+
+Reward: Your physical and energetic structures will be altered to enable eligibility for System membership.
+
+Hidden Objective Complete: Escape through a portal while experiencing a debilitating traumatic event.
+
+Bonus Reward: All traumatic memories will be suppressed until your psyche is prepared to deal with them (survival instincts will not be impaired by this process).
+
+What the fuck? Nick tried to scream. Stay out of my head. I want to go home.
+
+The System paid no heed to his desires. The inhuman voice droned on as if his objections meant nothing, which, to be fair, did seem to be the case. Although the System was perfectly articulate, its words lacked emotion or anything remotely resembling compassion or empathy.
+
+Partitioning memories to prevent catastrophic mental trauma… partition created.
+
+At that point, there was a sensation of ghostly fingers reaching inside his brain—well, more accurately, his mind—as Nick’s brain was still MIA at the moment. The feeling was invasive, irresistible, and utterly foreign.
+
+He felt the ethereal probe make a few small adjustments before the overwhelming emotions assailing his psyche were severed, leaving him unable to remember why he was upset or what had happened to him after falling asleep in his chair.
+
+After its task was complete, the spectral touch of the System withdrew, and its voice echoed within his mind once more.
+
+Planet Earth now has sufficient developmental credits to awaken its dominant species.
+
+Preparing to alter the geneline of all surviving human beings… Preparations complete.
+
+Creating a stable baseline to enable tutorial participation.
+
+Healing life-threatening injuries and curing all illnesses present in participants (All other injuries will be locked in place until the tutorial begins).
+
+Rejuvenation protocols are in effect for participants over the age of 51.
+
+Maximum age set to 50.
+
+Although he had no idea what any of this meant, at this point, several interesting sensations sprang to life. Nick felt a strange tingling inside his chest, surprised to discover that he had a body once more.
+
+Tiny worms of pure electricity began inching their way throughout his tissue. He felt a subtle shifting within the cells of his lungs—and near where he thought his liver was—before the tingling faded away and the System moved on.
+
+Generating personal statistics from biometric data.
+
+Establishing baseline attributes (species average set to 5 for physical and mental attributes).
+
+Evaluating physical attributes…
+
+At this point, Nick felt a bizarre, penetrating heat, as if a great, impersonal eye was scanning every aspect of his being.
+
+The gaze of the System permeated his body, charting every organ and every cell. Each network formed by artery and nerve. The fibers of his muscles, sinew, and bone. Every drop of bile and blood. The spiraled helix of his DNA itself.
+
+The System mapped his body down to the last molecule. To every atom and quark that comprised his being.
+
+Throughout this process, which seemed to stretch on for weeks on end, he could hear the System’s voice in the background. Faint, as if it were speaking to itself rather than addressing him directly. It was listing a series of game-like attributes and their corresponding numbers.
+
+By the end, the System knew Nick better than his doctor. Better than his own mother. Better than he knew himself. However, it seemed that the process was only halfway finished. Because the all-seeing eye returned its gaze to his head, or more precisely, his brain.
+
+Physical evaluation complete.
+
+Creating psychological profile and evaluating cognitive attributes…
+
+With that, the eye started scanning his brain, reading the connections between his neurons as easily as he absorbed text on a screen. The incomprehensible entity sifted through his memories, logging everything that he had ever done. Everything that he could have done but never tried.
+
+More than just a record, he felt the System teasing out the reasons behind these decisions. The ones that Nick knew and many more he did not.
+
+It dredged up every good feeling and every bad. The worst moments of his life weigh alongside the best. When this process caught up to the present, he lost the ability to track its progress. He could tell that the System was still reading his life’s story, but he couldn’t follow along past the end of his last gaming session.
+
+It was a bit like having the dentist probe his mouth a few minutes after a shot of novocaine, before the anesthesia had taken full effect. Nick knew that he was still being evaluated, but he couldn’t feel the business end of the scanner at all. Several days later, the process was complete, and the System moved on.
+
+Psychological and cognitive evaluations complete.
+
+Forgoing evaluation of energetic attributes as all values are effectively zero (less than 0.1% of sector average for newly integrated citizens).
+
+All members of the human race have been evaluated.
+
+The human geneline is ready to be enhanced.
+
+Forging energetic pathways and awakening attribute: Magic from [0] to [1].
+
+Up to this point, the System’s touch had been relatively light. After walling off his recent memories, it evaluated his body and mind and recorded its findings. What happened next was anything but light. The entity charted out where it wanted to build, then began forcibly altering his cellular structure.
+
+Nick lacked the words to describe this process, as the experience was totally foreign to his existence. At first, it felt like something had gripped him by the stomach, holding him tight while shaping a cavity within. A foundation upon which to lay the next layer of its construction.
+
+A few minutes later, he felt heat building within his chest. A marble of crackling energy was condensing below his heart, fusing to the very fiber of his being. He thought it was over, but the strange sensation was only the beginning of what the System had in store.
+
+As soon as his core finished forming, silver beams began carving subtle channels across his body. It started with a big line running straight down his torso, etching a pathway from nose to toes. It added dozens of auxiliary networks before completing what felt like thousands of tiny conduits running between the nodes and lines.
+
+Finally, some sort of energy was pumped directly into Nick’s being—a heady warmth that somehow tasted sweet. The power filled his newly forged core and began circulating throughout his nascent energetic channels.
+
+The System filled his body completely. Then it added a bit more juice for good measure, until the spreading warmth extended a few inches beyond his skin, forming a mantle of force that he could feel as clearly as his own body.
+
+Over the course of this process, he began to feel that he understood what was happening. There was an order and logic that made inherent sense to him, although he was still struggling to take all this newness in.
+
+By the time the System finished infusing his channels with energy, Nick was poised on the brink of epiphany. An insight that would allow him to understand the changes occurring within and beyond his body.
+
+Mere heartbeats before he reached enlightenment, the fey sensations faded away and soon could no longer be felt at all.
+
+Geneline alteration complete.
+
+Humans of [Earth] have gained the geneline trait [Awakened to Magic].
+
+Awakened to Magic
+
+The System has modified the human geneline, awakening their capacity to manipulate magical energy.
+
+Effects: +1 to Magic
+
+As with all newly integrated planets, members of the human race have also been granted the geneline trait: [Gift of Tongues].
+
+Gift of Tongues
+
+You can understand and speak the languages of all intelligent creatures.
+
+After being held captive for what felt like months, Nick felt the strange force trapping him within the space between worlds start to dissipate. Just before the System let him loose, its grip tightened once more.
+
+The reason for this abrupt reversal became apparent when he absorbed its next announcement.
+
+Terminating geneline alteration protocols.
+
+Problem: Process is unable to terminate.
+
+Reason: A latent geneline trait has been detected.
+
+Warning: Spontaneous activation of a geneline trait will result in the death of approximately 97% of the human species.
+
+Solution: Guide the activation of the latent geneline trait prior to species integration.
+
+The things Nick had experienced up to this point were easily the most intense sensations of his life. What awaited him next was a hundred times worse. The energy that had been trickling throughout his body became a flood. A torrent. A tsunami of incandescent force.
+
+It permeated every fiber of his being. Every cell, molecule, and atom.
+
+He had no idea how long this process took because all he was aware of was pain. Fire burned away the impurities inside his body, ridding him of countless imperfections and inefficiencies. It erased the dross to forge his essence into something stronger than before.
+
+At last, what felt like weeks later, the procedure was complete, and Nick shivered like a newborn foal. However, his ordeal was far from over. The otherworldly energy returned with a vengeance. It went surging into his brain, triggering a cascade of changes within his skull.
+
+This time, instead of pain, the alterations were pleasurable, as if his tissue had always wanted to be this way. As a result, instead of fighting the surgery of the System, his body was an active participant in the process. It took what was strong and made it stronger, smoothing away weakness like an artist sculpting wet clay.
+
+It felt like every speck that made up his being had been improved, as well as the connections between them. He was tougher, smarter, faster, and generally more capable than ever before—like his prior incarnation had been nothing more than a facsimile of his true self, a crooked xerox of his unbound potential.
+
+This shaping seemed to go on for days on end, and Nick soon lost all sense of time’s passage. Eventually, the last cell in his body had been transformed, and he heard the voice of the System once more.
+
+Humans of [Earth] have gained the geneline trait: [Versatile].
+
+Versatile
+
+Human beings are known throughout the multiverse for their remarkable adaptability. The humans of Earth have taken this to the next level, improving their proficiency across the board.
+
+Effects: +1 to all attributes. +1 free ability slot.
+
+At last, the System seemed satisfied. Its tendrils unwound themselves from Nick’s psyche and soul, releasing him to stand under his own power. Despite the mind-boggling implications of everything he’d experienced, he was intensely curious to find out what would happen next.
+
+The mysterious entity didn’t make him wait for long.
+
+Humans of [Earth] have gained the geneline traits: [Awakened to Magic], [Versatile], and [Gift of Tongues].
+
+As a result, your species has evolved to grade [E].
+
+Congratulations! Your species now meets the minimum standard for System candidacy.
+
+Generating citizen profile… profile complete
+
+Nicholas “Nick” Henry.
+
+Level: 0.
+
+Tier: 1.
+
+Species: Human of Earth (E).
+
+Class: (none).
+
+Attributes
+
+Skills: (none).
+
+Abilities: (none).
+
+Class Traits: (none).
+
+Bloodline Traits: (none).
+
+Geneline Traits: Gift of Tongues, Awakened to Magic, Versatile.
+
+The System only flashed his profile for an instant before continuing.
+
+Commencing integration protocols… Integration complete.
+
+Planet [Earth, 1] is now connected to the local transdimensional network.
+
+Eligibility for System mentorship program confirmed.
+
+Bidding open… Bidding closed *(awaiting final confirmation).
+
+Number of divine entities engaged in bidding:
+
+What followed was a number so big that it flooded the entirety of Nick’s view. Thousands of digits surged around his head like a maelstrom, somehow still contained within his view. They threatened to extinguish his sanity with the sheer scale of the universe—no, the multiverse and his own insignificance.
+
+Then, everything froze for a fraction of a second, like a gaming PC under heavy load, before the ocean of digits collapsed back into the original prompt. The line where the number had begun wavered before being replaced by a single word, “many.”
+
+Planet [Earth, 1] is now under the mentorship of [Astra, the Green Mother, S].
+
+Implementing tutorial protocols and engaging portal network.

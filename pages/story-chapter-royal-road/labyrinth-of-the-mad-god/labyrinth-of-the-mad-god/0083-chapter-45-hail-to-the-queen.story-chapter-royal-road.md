@@ -1,0 +1,83 @@
+---
+id: 4991ca9a-b924-56df-a701-3264911e5a47
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45: Hail to the Queen"
+slug: 0083-chapter-45-hail-to-the-queen
+partOf: labyrinth-of-the-mad-god
+position: 83
+ownLength: 1841
+unit: words
+publishedAt: 2024-10-30
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1876073/chapter-45-hail-to-the-queen"
+royalRoadId: "1876073"
+---
+
+Nick looked in the direction that V was pointing, taking in the war raging in the middle of the enclosure.
+
+Although Team Earth’s battle with the insect squadron had only taken a couple of minutes from start to finish, the situation had changed dramatically in that time. He wasn’t surprised given the power contained in the magical attacks that had been flying out from the Janitor’s position, tearing chunks of stone free from the walls as they carved bloody swaths out of the queen’s forces.
+
+The roach army had begun at least two hundred members strong. They had already lost a quarter of their forces to the clear blob wreaking havoc in the far corner of the room.
+
+Every few seconds, Nick could see thick flows of force mana gathering in the air above the Janitor. Once they were fully formed, the bands of transparent energy began weaving themselves together, interlaced with another power that he couldn’t sense as clearly. The spells drew tighter and tighter, packing more and more energy into a progressively smaller space until they reached critical mass.
+
+By now, he could see the mana distinctly, and was able to get a sense of how it worked on a deeper level. He still couldn’t see the essence, but he could feel it. A sense of pressure hanging in the air like a rising storm. I’m getting better at sensing its abilities the longer this fight goes on. They seem to be based on the same principles as my spells.
+
+As he watched, the weaves of condensed mana and essence began to rotate, spinning faster and faster until they became a unified maelstrom of whirling energy. Just before the Janitor let loose, the twisting bands compressed one final time, until they were no thicker than his wrists.
+
+A heartbeat later, the magic shot forth in a rotating beam. It wasn’t quite as fast as Nick’s piercing ray, but it was still a remarkably rapid attack given the power it contained. The churning cable of force went streaking for a squad of warrior roaches.
+
+It carved through anything it encountered along the way, until it landed on target and expanded, becoming a blender as it released the compressed energy. The force barrage only lasted a second past that point. But it was enough to shred everything within a ten-foot radius of the blast, sending shorn limbs and clear ichor raining to the ground.
+
+Nick thought that if he was able to watch just a few more of them in action, it would deepen his insight into piercing ray. But that was his last chance to witness the Janitor’s ability for now. Because that was when the first squadron of warrior roaches, backed by a group of regulars, finished closing the last stretch of ground in between themselves and the transparent monster. All of them were glowing gold with the queen’s enhancement magic.
+
+The buffed bugs spread out to surround the blob, rushing in from all sides in a frenzy of bladed mandibles. They began biting, goring, and slashing at the mutant, preventing it from casting more of its lethal spells. Although the Janitor scored several kills with its amorphous pseudopods, the insects were inflicting heavy damage, faster than the creature could regenerate. They might be able to win this after all.
+
+The flamethrowers and acid-spewers fell into formation shortly after, bathing the mutant in both elements. Their powers began eating away at its surface layer by layer. A few of the melee insects were caught in the crossfire, but their aim was remarkably precise. On top of that, the queen’s magic seemed to provide resistance to both elements. Makes sense. Her aura buffs her own units and reduces their vulnerability to friendly fire at the same time.
+
+Nick had to look away for a few seconds when a squad of regular roaches rushed the party. But they were easy to deal with compared to the larger variants. When he was able to return his attention to the fight in the corner, he saw that the battle had entered a new phase while he was busy.
+
+The Janitor had changed back into its white shark form, letting it defend itself from melee attacks far more efficiently. It used all six clawed limbs to rend and smash, crushing and tearing away at the assaulting forces. Thanks to his sharpening energetic senses, Nick realized that its white surface was a thick shell of force mana. A layer of magic that provided additional resistance to attacks, including the fire and acid coming its way.
+
+At the same time, its force power wreaked devastation upon anything that came close. It was even able to take out the enhanced warriors, although it seemed that the mutant could only focus on two opponents at a time. It’s using the same kinetic energy as before, but in a completely different way. I should be able to see it too.
+
+Nick cleared his mind and focused on the air above the Janitor’s head, trying to figure out the secret of its power. When he concentrated on the heavy flows, the vision resolved itself into something shocking. The Janitor had two arms made of pure force mana extending out from the middle of its back. He had gotten a sense of them earlier, but now he could see them in crisp, clear detail.
+
+They were the source of the invisible attacks. Fists came down to crush. Open palms lashed out to slap. Hands closed around their victims to tear them apart, then flung the savaged insects back into their own forces. They seem to be able to change their length at will but have a limit of about twenty feet.
+
+Nick let everyone know what he’d seen, as the party conferred to decide their next move. Approaching the warring forces was a recipe for disaster, they didn’t have a reason to attack the roaches’ eggs, and the gear swarm was blocking the only way out. Instead, they took advantage of the opportunity to catch their breath and get a better sense of their opponents.
+
+“Who do you think is going to win?” Shaun asked, panting for breath as he drained the water from his canteen.
+
+“It’s looking good for the roaches,” Sophia replied. “Now that they’ve managed to close the distance. But there are two things that are bothering me. The first is that the bugs have limited numbers, and they’ve already taken significant losses. It wouldn’t be as much of a problem if it wasn’t for…” Instead of finishing her sentence, she pointed.
+
+When Nick followed her finger, he saw the Janitor reach out and grab two warriors with its force arms, then threw them into its massive mouth. He realized that the interior was formed of mana teeth and swirling force essence, forming a living blender.
+
+The roaches were obliterated within a matter of seconds. Torn to shreds beneath the incredible, rending pressure. The moment they perished, the mutant began to heal, the ragged gashes in its white shell sealing shut within a matter of moments.
+
+“The queen has to know it can regenerate,” Sophia continued. “She must have a plan for dealing with the problem.”
+
+No sooner had those words passed her lips than the gigantic roach queen sprang into motion. Flanked by her elite guards, the enormous insect began charging across the room, heading for the Janitor in the corner.
+
+“She must have been afraid of being hit by those beams,” Devin said. “She forced the Janitor back into its melee form so she wouldn’t get hit. Now that they are out of the picture, she is going to try to finish it off herself.”
+
+“We need to position ourselves to take advantage of their fight,” Nick said. “No matter who wins, our best chance to finish off the surviving force will be immediately after their showdown.”
+
+With that, the party began to advance, following the contour of the wall to stay as far away from the roach horde as possible. The insect army still had over a hundred fighters on the field, most of which were bunched up in the Janitor’s corner. The party had to stop to engage an occasional beast or two. But with the queen heading into battle, most of the bugs left them alone.
+
+Not long after, they had advanced as far as they dared. They came to a stop just in time to witness the queen go streaking past their position. It was the first chance Nick had to get a good look at the powerful beast up close. He took advantage of the opportunity to evaluate this formidable foe, the only thing keeping the Janitor from attacking his team.
+
+The queen was at least thirty feet long, all sleek curves and sharp angles. Her body was a reddish orange hue that glistened beneath the crystal lights embedded into the ceiling. Like the warrior models, instead of wings, her back was coated by two thick sheets of chitin. Dense plates that would be incredibly difficult to pierce.
+
+It was thinner along her sides and belly. But unlike the regular roaches, the queen was at least lightly armored on every part of her body. Her head came up a good fifteen feet off the ground, ending in a pair of gigantic mandibles that looked strong enough to penetrate steel. One major difference between the queen and her minions was that her first pair of legs came up before tapering down to form a pair of colossal blades, kind of like a praying mantis.
+
+On top of her sheer size and impressive natural weaponry, the queen’s body was glowing with a faint golden light. She must be buffing herself with the same enhancement magic she’s using on her elite forces.
+
+When Nick tried sizing her up, the skill informed him that the queen was incredibly dangerous. Far too powerful for him to tackle alone at any rate. It also gave him the sense that she had several powers that had yet to be revealed. That getting hit by any of them would end his day in the worst possible way.
+
+While these thoughts passed through his mind, the roaches’ leader accelerated. She closed the final stretch of ground between herself and the raging battle, raising her enormous, bladed limbs high into the air. The golden glow around her forelimbs intensified as the beast prepared to strike, boosting their power to new heights.
+
+The queen arrived before the Janitor still running at full speed.
+
+While the melee roaches kept the monster from moving out of the way, she plowed straight into the side of the mutant with the force of a battering ram, bringing her claws down in time with her wicked mandibles. All four natural weapons cut through the white shark’s force armor and sank deep into the translucent tissue below, carving great rents into the quivering surfaces.
+
+It seemed that the battle had arrived at a pivotal moment. Team Earth watched the war between giants, waiting for their moment to strike.

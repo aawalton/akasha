@@ -1,0 +1,147 @@
+---
+id: cc2ab95d-efef-5099-8a9b-d345da3d5160
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Fools and Inheritance"
+slug: 0001-chapter-1-fools-and-inheritance
+partOf: mark-of-the-fool
+position: 1
+ownLength: 2240
+unit: words
+ownProgress: 2240
+publishedAt: 2021-03-26
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/653183/chapter-1-fools-and-inheritance"
+royalRoadId: "653183"
+markedReadAt: "2026-06-29T20:10:49.536Z"
+---
+
+The worst days tended to start with good mornings.
+
+“You’re fired! Fired! Get all of your things and get out of my shop! If I ever catch you here again, I swear on Uldar’s beard you’ll wish I called the guards for you!” Master McHarris roared, his face turning beet red.
+
+As mornings went, this one was shaping up to be great.
+
+Alex Roth froze in the middle of a disaster: collapsed shelving, shattered eggs and flour dust falling like snow in the middle of the bakery. The young man gave an awkward cough and wiped the white powder from his chestnut brown hair. “Does this mean you won’t be giving me this week’s pay?”
+
+McHarris reddened further.
+
+“I mean not for today, obviously, but there was yesterday and Firstday so that’s two silver pieces—”
+
+The baker made a choking noise before stomping across the disaster zone, jabbing his key into his strong box, ripping it open and whipping two dull coins into Alex’s chest.
+
+“There! And you only get that so folk know that McHarris is no cheat! Now get out—” The baker snatched up a rolling pin. “—or you’ll need to put those silvers where your teeth used to be!”
+
+Alex had seen enough of McHarris’ rages to know that he meant it. The young man tore off his apron and scrambled to grab his pay. He sniffed the air near the eggs as he bent: a nasty stench confirmed his suspicions from early this morning. Keeping his face neutral, he jumped up and scuttled for the exit to the front room of the shop.
+
+“Boy…” he heard McHarris say. “What happened to you? You were quickest witted out of any assistant I’ve ever had, but today you act like a bull with half its brains slammed out of its skull. That sister of yours won’t grow up proper if her older brother pulls things like this.”
+
+Alex paused just as he was about to pull open the kitchen door. That was all news to him. McHarris paid well enough, but he terrorized all his assistants. Welts still marked the young man’s arms from when he’d been too slow whipping the custard a couple of days ago.
+
+“I dunno, sir,” he gave a shrug and hid the grin threatening to spring up on his face. “Maybe it’s a special day?”
+
+He was gone before McHarris could say anything else.
+
+The Town of Alric was shrugging off sleep when Alex emerged from the bakery for the last time. The sunlight filtered through a haze of clouds and townsfolk trudged past the square’s fountain with their days’ tools and lunches in hand. A carriage—pulled by a set of proud horses—approached from down the road, their hooves clattering on the cobblestone. On the side of the carriage door was emblazoned the symbol of a lantern: the Sigil of the Traveller, the town’s patron saint.
+
+As it passed, Alex spied what he was looking for: two guardsmen sitting on the side of the fountain. They were bleary-eyed from the night watch, and squinted at Alex as he strolled up as light-footed as a pleased cat.
+
+“Morning Peter, Morning Paul,” Alex made sure to use their names. Remembering details about people made them more friendly to your cause; it was just one of the tricks he’d picked up in the last four years of hustling together every coin he could. “I got something to report.”
+
+Peter groaned, scratching at his stubble-marked chin and craning his neck to look up at Alex. The young man was lean and gangly, and quite a bit taller than most.
+
+“You caught in a snowstorm, boy? It’s mid-summer.”
+
+“Naw, that’s flour, idiot; you don’t recognize one of McHarris’ assistants? By The Heroes’ good graces, I’ve been on night watch with a blind man.” Paul shook his head and peered closer at the flour-encased youth. “Alexander…right? The Roths’ boy? What’s it you have to report?”
+
+A dull ache touched Alex’s heart at the mention of his parents, but he kept his face neutral. Even the largest wounds grew dimmer with time. He jerked a thumb backward toward the bakery. “McHarris is putting rotten eggs into his cakes and covering it with sugar. He could poison somebody.”
+
+Peter raised an eyebrow. “That sounds like a guild violation, not a crime.”
+
+“I don’t think the merchants or nobles that shop there would see it that way, and I don’t have time to run to the guild before he cleans up the evidence.”
+
+Alex held up two flour-dusted silver coins. “This is not a bribe, but I’m just saying that if you go over and take a quick look around, you might do the public some good while pocketing a silver coin each.” He gave a winning smile and rolled the coins across his knuckles. “I know, you’re tired and want to go home, but that’s a third of a day’s wages for you, all for walking fifty steps and having a sniff around his kitchen. If you find nothing, you keep the coin. Sound fair?”
+
+Peter and Paul looked at each other.
+
+“Boy.” Peter shook his head. “You’re bad at bribing people.”
+
+His winning smile shrank. “N-no, it’s not a bribe, I’m—”
+
+“You’re trying to pay us to get a service done for you. It’s a bribe. One where you might not get what you want, so it’s a stupid bribe.”
+
+“The worst attempt I’ve ever seen,” Paul groaned as he lifted himself from the fountain. “But, if he’s willing to try something that stupid, then maybe we should take a look. Last thing we need is for some bigwig to turn all green in the face and keel over. Come on, Peter.”
+
+Alex could hardly contain his excitement as the guards made their way toward McHarris’ shop, though he made sure to hide his smile when Paul turned around.
+
+“Oh, and don’t try that again. Stupid or not, bribery of a guard’ll get you ten lashes. Understand?”
+
+Alex nodded vigorously and gave him a thumbs up. “I’ll be a good boy from now on, sir!”
+
+Paul shook his head. “The hell’s wrong with you?” He pointed up at one of the fountain’s statues rising over their heads. “Act the fool long enough and you’ll get the fool’s mark. That little sister of yours needs a brother she can rely on.”
+
+“I have a plan for that, Paul, don’t you worry,” Alex said. “But thanks for asking. You’re good people.”
+
+“Guardsmen have to make sure the youth are on the right path, don’t we?” Paul rose to his full height, puffing out his chest unconsciously. “Anyway, off you go now, if you’re right, this’ll probably get ugly. Oh, and happy birthday, Alexander. Eighteen’s a big number. Keep those coins and try and treat yourself.”
+
+Alex blinked. Well, he had been right; remembering details about people did make them more friendly. He certainly felt a bit more friendly toward Paul. He’d have to do something nice for him later.
+
+He grinned.
+
+Once he became a full-fledged wizard.
+
+Sliding back behind the fountain, he watched the guards enter the shop and chuckled as McHarris’ cries of dismay echoed through the windows. When the crashing began, he outright cackled. Of all the food he’d ever had from McHarris’, revenge definitely tasted the best.
+
+“Serves you right, you old bully. That’s for browbeating every helper who’s ever worked for you.” He smirked, tossing his last pay into the fountain. As of sunrise this morning, he no longer needed McHarris’ coin. He turned to say silent prayers of thanks to Heroes’ Fountain—one of the many that had been raised in the kingdom of Thameland.
+
+To the hulking figure of The Champion, Alex thanked him for bravery. To the bespectacled, stern Sage, he thanked her for the wits he had shown. To the kind figure of The Saint, he thanked her for the generosity he’d received. And lastly, to the handsome form of The Chosen, he gave him appreciation for luck and blessings.
+
+Beside the four grand figures—who watched the square with benevolent granite eyes—crouched a caricature. It was an ugly sculpting of a man with a chin too curved, eyes too bulging, and a nose that looked like a pumpkin’s stem. A jaunty jester’s hat sat on his head and his statue was the only one that had been stained by bird droppings.
+
+The Fool.
+
+The last of the Heroes, and the least of them. None who had borne the Fool’s mark had left much of an impression in legend. Many had died. Others disappeared. Some had even betrayed the very party they had been chosen for.
+
+The Fool—according to all Alex’s teachers—had nothing to offer anyone, save for a nominal but necessary service to the Heroes. Uldar’s Prophecies called those that bore the mantle necessary, but history had suggested otherwise.
+
+And so, to The Fool, Alex simply offered his empathy. He knew well how it was to struggle. Thankfully, those days were at an end.
+
+Whistling a jaunty tune as the guards grappled with McHarris somewhere in the bakeshop, he strolled down the street with spirits higher than they’d been since before he and his sister were orphaned.
+
+He didn’t catch the slight itching on his right shoulder, nor the way the bulging eyes of The Fool seemed to watch him walk away.
+
+Nine pounds measured out by the magistrate down to the ounce.
+
+Exactly four hundred and fifty gold coins: the entire wealth of the Roth family after the fire had reduced their alehouse to rubble. The parent’s estate had been liquidated, placed into the town trust, and held until their first born child reached adulthood and could claim it under common law.
+
+Now, Alex was eighteen, and it all belonged to him and his sister; a fortune that would have taken him more than twelve years to earn working for McHarris. And that was if he’d never missed a day. With how he had to split his time between the bakery and helping out at the Lu family inn, it probably would have been at least thirty. Decades’ worth of his labour—and his mother and father’s entire legacy—was all stuffed into a heavy burlap sack slung over one of his gangly shoulders. It was hard to believe that his parents had been gone for four years.
+
+With each step toward the inn, the weight of losing his parents and the heaviness of the sack he carried weighed him down; a mix of guilt, excitement, regret and relief came. He wished to Uldar that he had his family rather than a cold sack of gold, but that coin would bring a much better life for him and his sister.
+
+He rounded the corner onto the street he lived on and his eyes narrowed. The sun was setting: he had spent the day at the magistrate’s office, wading through more paper than he’d ever seen at the church’s school. Then he’d gone to spend time at his parents’ graveside. Now, he was on his way home, planning to break the news of his future plans to the Lu family.
+
+Their inn sat at the end of the street—a busy place near the centre of town—and it had been home for Alex and his sister ever since they had been orphaned. Master and Mrs. Lu were kind folks, and he had spent most of his childhood as friends with their daughter, Theresa.
+
+Life normally quieted pretty early in Alric with the arrival of sunset: after darkness fell, burning wood and candles for light was too expensive, so it was avoided. So, the evenings were gloomy around town. But, it seemed that things were even quieter in town than they had been when he was in the graveyard.
+
+This street was usually one of the last to go dark. The Bear’s Bowl tavern would usually be spitting out drunken, brawling farmhands by now. As Alex passed by, the entire building was already dark and silent. The Lu Family inn would have firelight and laughter booming as the last diners finished up for the night, yet now there was only a small light burning through the shuttered windows. No guests could be heard.
+
+Swallowing, Alex quickened his pace, making for the entrance at a half-run. His feet echoed on the cobblestones. The coins jingled in the sack. Moonlight poured over him and the night suddenly seemed colder. He reached the door, pulling firmly on the iron ring.
+
+The door wouldn’t open; it had already been barred.
+
+“Hello?” he called out, feeling the hairs on the back of his neck rise. The street behind him seemed longer, unfamiliar and unfriendly. He switched his grip on the family inheritance so that it was clutched to his chest.
+
+Bang! Bang Bang!
+
+He pounded on the door.
+
+“Master Lu? Theresa? Selina?”
+
+Rapid footfalls approached from inside. The bar slid away. A thin hand tugged the door open.
+
+“Alex!” Mrs. Lu cried. The middle aged woman looking as though she was about to break into tears of relief, grabbed him tightly against her lean form in a hug. “Get inside, quickly!”
+
+“What? What’s going on?”
+
+Instead of answering, she pulled him in with surprising strength and slammed the door behind them. She quickly replaced the bar and dragged him into the hall.
+
+Alex looked around in confusion as she led him toward the common room where he could hear banging and frantic movement.

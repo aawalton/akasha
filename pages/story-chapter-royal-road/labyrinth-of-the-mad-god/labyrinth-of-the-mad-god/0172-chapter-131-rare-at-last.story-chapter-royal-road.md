@@ -1,0 +1,191 @@
+---
+id: 86fbe9f3-6e90-5847-a890-72c990233065
+page-type-slug: story-chapter-royal-road
+title: "Chapter 131: Rare at Last"
+slug: 0172-chapter-131-rare-at-last
+partOf: labyrinth-of-the-mad-god
+position: 172
+ownLength: 2904
+unit: words
+publishedAt: 2025-05-19
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2291191/chapter-131-rare-at-last"
+royalRoadId: "2291191"
+---
+
+Devin rose to his feet, touching the wall with one hand to remain upright. He was wobbly as a newborn foal—still adjusting to the changes that had taken place across every aspect of his being.
+
+When Nick turned to look at his friend, his eyes widened with surprise. The transformation had granted the warrior several inches of height and broadened his muscular frame. While Devin had always been athletic, now he radiated vitality like a statue of a Greek god come to life.
+
+Now that his evolution was complete, Devin could give any Olympic athlete in history a run for their money, then leave them in the dust. The man had already been turning heads when he walked through a crowd. Now, he would draw every eye in the room. Lucky bastard. Wait, maybe I look better too.
+
+“Well, that was worth doing.” Devin began to laugh. “If we eat the rest of those pills, do you think we can do it again?”
+
+Nick took out the remaining Species-Evolution Pills as he considered the question. The moment that he did, he discovered that he already knew the answer. The pills only held a glimmer of their former allure. He could sense that if he wanted to evolve again, he needed to find something far more potent or do it the regular way.
+
+“I guess not.” Devin frowned, following the same train of thought. “We should save them for the rest of the team.”
+
+“By the way.” Nick looked Devin in the eyes, taking in the fiery hues to the warrior’s irises that he’d received after awakening his elemental affinity. “Your appearance just went from a ten to eleven. What about me?”
+
+Devin turned to inspect Nick’s new body. “You’re taller and buffer, and your features seem just a tiny bit different. Don’t worry, you still look like you. That reminds me. Now that the show is over, what the hell happened right before? You were screaming, bleeding, and giving off this awful, sinister energy.”
+
+Nick stretched out while explaining everything that had occurred with the Crimson Blight. Devin listened with wide eyes until he reached the end. “Crazy. That is super fucking intense, not to mention the most terrifying thing I’ve ever heard. Are you still in there, Nick? Or am I addressing our new fungal overlord?”
+
+“Yea. I’m me. At least I think I’m still me.”
+
+“That’s exactly what a zombie-creating, planet-eating mushroom would say.”
+
+“Well, if that’s the case, then you’re pretty fucked too.”
+
+At that point, both men began to laugh. Devin gave Nick a bearhug, then they got down to business. It turned out that on top of everything else, Devin had gained a technique called Total Body Awareness, which granted him control over his muscles on a granular level.
+
+That was when Nick remembered a detail from his updates that had a mystery attached to it. “Did you get a milestone bonus for being one of the first people from Earth to evolve to grade D?”
+
+“Sure did. Plus three to my physical attributes for being the third person to evolve. Wait, if we were numbers two and three, then who was first?”
+
+“I have no idea, but I would love to find out.” Whatever Devin might have said next was fated to remain unuttered. Because at that point, a message from the System wavered into existence, informing them that there wasn’t a moment to spare.
+
+Warning: While you were evolving, Team Earth began the final battle with the guardian on the roof of Darkstone Tower. If you wish to join the fight in time in time to make a difference, you must hurry.
+
+A golden portal winked into existence as the display faded away. “Shit. Why didn't you tell me sooner?” The wheels in Nick’s brain started spinning at a frenetic pace. He needed to make every second count, but he couldn’t afford to fuck up this next part either.
+
+“I have to grab my equipment from Gretta, and we both need to pick our new classes. Start reading through your options and let me know if there’s any way I can help when I get back.”
+
+With that, he darted over to the door leading to the craft world and flung himself through the portal, yelling the instant that reality resolidified. To his relief, Gretta came running, carrying a bag full of gear between her mechanical arms. Each item was a masterwork, but he would have to admire them later. All that mattered right now was that they could handle the output of his upgraded abilities, because Nick would be going all out from the moment he arrived on the tower’s roof.
+
+“Give me your sword. Everything else is ready, and I can attach the pommel stone now. It will just take a second.”
+
+Nick reached into his bag and handed Blightbane over. While Gretta used her magic to attach the pommel to the hilt, he finished strapping on his new gear. When he was done, the bird woman handed the blade back to him. Despite the urgency of the situation, he took just a second to relish the weight of the sword in his hand—perfectly balanced for the first time. Then he turned to Gretta and bowed.
+
+“Sorry. I don’t have time to thank you properly. I’m joining the fight for the future of my world. I can’t tell you how much I appreciate the help. If I ever get a chance, I’ll stop by and let you know how we’re doing.”
+
+“I had a feeling something like this would happen. Don’t worry about me, just get to your people and win. I’ll pray for your success, Nick. Good luck.” He was already stepping through the portal by the time that Gretta finished her sentence.
+
+When he appeared in the safe room, Devin was in the final stages of making his decision. Nick finished adjusting his equipment while pulling up the class-selection menu—able to divide his attention thanks to his high Mind.
+
+He was shocked to learn that he had thirty choices this time around, and each and every one of them was rare. He didn’t have the luxury of considering each class at length, but he’d been pondering the issue for some time and had already come up with a criteria to whittle his options down.
+
+To start, he crossed off all the options that didn’t offer trait permanence with their class trait. Nick had just gained a ton of bloodline slots from Blightborn, and it would be crazy not to pick up a trait that would permanently boost his power. Then he removed all the offerings that focused on wielding a sword, since he already had the skill uncapped from joining the School of the Ever-Surging Blade.
+
+Finally, he narrowed down the rest by focusing on the classes that would grant him the most strength during the battle ahead but also had the potential to fuel his growth after.
+
+It left him with just three rare classes to consider. He was racing against the clock, but he still took five minutes to consider his options. This was the most important decision of his life, and Nick was determined to make the most of it. Meanwhile, Devin made his own choice, picking something called a Magma Warrior that was clearly love at first sight.
+
+He pulled up the three remaining contenders, arranging his menus so that he could view the details side by side.
+
+Class: Impact Warrior (Rare).
+
+Primary Attributes: Dexterity, Toughness, Strength, Magic.
+
+Attributes per Level: +1 to each primary attribute, + 1 free point.
+
+Impact Warriors specialize in the use of force-based combat arts. They can learn to use almost any type of weapon or armor, supplemented by short-range abilities with a modest area of effect.
+
+Ability: Force Slam (Combat Art).
+
+This ability creates a powerful blast of kinetic energy that is triggered by a weapon strike. Force Slam is a physical ability and will not affect ethereal life forms in any way.
+
+Uses per day are determined by the user’s stamina pool and all parameters scale with physical attributes.
+
+Skills: Melee Weapons. Armor. Shields.
+
+Trait: Force Absorption [permanent].
+
+Force Absorption lessens the impetus of anything striking the Impact Warrior’s body, offering them additional protection against most forms of physical attack.
+
+Warning: this trait will become a permanent part of your bloodline. It will remain with you after changing classes, significantly altering your future class options.
+
+Impact Warrior was a fantastic class that specialized in close-range combat. It would let Nick fight on the front lines—able to dish out and take heavy hits for extended periods. Melee Weapon, Armor, and Shield were the broadest skills that he’d ever seen. They would grant him considerable versatility by letting him use almost any piece of gear he came across to its full potential.
+
+The combat art Force Slam seemed similar to his wand, which wasn’t necessarily a bad thing, but wouldn’t offer him any new tricks during the battle ahead. The biggest draw was the impact-absorbing class trait, which would serve as an additional layer of defense, especially when fighting up close.
+
+The next class he considered had a heavier emphasis on magic. It was focused primarily on defense.
+
+Class: Arcane Defender (Rare).
+
+Primary attributes: Magic. Toughness.
+
+Attributes per level: +2 to each primary attribute, + 1 free point.
+
+Arcane Defenders specialize in the creation of magical defenses with no elemental affinity. They can learn some attack spells with medium range but generally utilize protective magic in combat. They are difficult to harm with either physical or magical attacks until their mana runs out, although their offense is weak compared to other rare classes. They have defensive skills that synergize with their powerful protective abilities.
+
+Ability: Force Armor (Aura).
+
+This spell creates a layer force mana over friendly creatures within a radius of 20 feet, enhancing their physical defense. Mana must be expended to restore this armor once its initial protection is expended.
+
+Uses per day are determined by the user’s mana pool and all parameters scale with energetic attributes.
+
+Skills: Shield. Evasion. Parry.
+
+Trait: Warrior Mage [permanent].
+
+Abilities that scale with physical attributes will receive a minor bonus from energetic attributes too. Abilities that scale with energetic attributes will receive a minor bonus from physical attributes too.
+
+Warning: this trait will become a permanent part of your bloodline. It will remain with you after changing classes, significantly altering your future class options.
+
+Arcane Defender would take Nick in a direction that he hadn’t considered, but it would be amazing during the fight ahead. It wasn’t too far off his chosen path to power and having it for 25 levels wouldn’t box him in over the long term.
+
+The big draws were the aura, which would help Nick protect his friends, and the trait, which would provide a boost to all his abilities by letting them scale with additional attributes. On the other hand, the 20-foot range restriction to Force Armor would limit its utility, and Nick had reservations about focusing primarily on defense.
+
+The last class on his list was something else entirely.
+
+Class: Force Weaver (Rare).
+
+Primary attributes: Magic, Creativity, Mind.
+
+Attributes per level: +1 to each primary attribute, + 2 free points.
+
+Force Weavers specialize in the manipulation of force mana, with a lesser emphasis on other forms of non-elemental mana. They do not receive any offensive skills or abilities. However, with diligent training they can learn to shape their own spells by directly controlling the mana inside their cores. Their skills focus on evasion and defense.
+
+Ability: Arcane Shield (Active Spell).
+
+Arcane Shield creates a barrier formed from interwoven layers of force and pure mana. As a result, it can defend against most forms of attack. This barrier can be placed within 50 feet of the caster’s location but must be manually repositioned with an effort of will.
+
+Uses per day are determined by the user’s mana pool and all parameters scale with energetic attributes. (With your present attributes, the maximum size of Arcane Shield is 50 square feet.)
+
+Skills: Evasion. Light shields. Acrobatics. Light Armor.
+
+Trait: Mana Manipulation <Non-Elemental> [permanent].
+
+Mana Manipulation increases a Force Weaver’s sensitivity to mana and makes it easier to manipulate non-elemental energy. This includes both the mana originating in their core and the ambient mana present in the environment. Mana Manipulation is especially helpful when creating original spells that are not granted by the System.
+
+Warning: this trait will become a permanent part of your bloodline. It will remain with you after changing classes, significantly altering your future class options.
+
+As good as both Impact Warrior and Arcane Defender were, by the time that Nick reread his final option, he knew that Force Weaver was the class for him.
+
+The skills were solid and would synergize with his upgraded attributes and Force Acceleration. Better still, Arcane Shield would offer protection from both physical and magical attacks, plugging a major hole in his defenses. It couldn’t guard as many people at once as Force Armor and had to be manually guided, but the spell would be fantastic for blocking attacks from elite enemies and fortifying a position of the battlefield.
+
+While all of that was amazing, the real tiebreaker was the Mana Manipulation trait. Nick had been certain for some time now that truly mastering his powers wouldn’t result from anything granted by the System, although the abilities it provided were efficient, intuitive, and utterly reliable. However, he needed to gain direct control over his mana to unlock his true potential and fight on a level comparable to the elite entities he had encountered on his adventures.
+
+On top of that, after training with Rita, observing the magitech filling the Tower of Rizzen, and witnessing life on the craft world, he understood that if humanity wanted to thrive in the Labyrinth, magic needed to become an everyday part of their lives. Not just the fuel for System-granted spells, but as a new natural force for them to master.
+
+Nick needed to be able to harness the ambient mana in the environment. To create his own spells and use the energy in his core however he saw fit, rather than being limited to a few preset options. To that end, he needed to understand magic on a fundamental level—perceive and manipulate mana directly.
+
+No other class opened that door wider than Force Weaver, and the few that came close wouldn’t boost his combat potential in the short-term. While Mana Manipulation wouldn’t directly enhance his lethality, he had learned from his fight with the Janitor that being able to sense mana had myriad combat applications—the simplest of which was that you couldn’t dodge what you couldn’t see.
+
+With no time to lose and the future of his species hanging in the balance, Nick moved Heavy Blow into his free slot so that the ability would transfer over, then voiced his decision to the System, “I want to become a Force Weaver.”
+
+Acknowledged. Class selection is confirmed as: Force Weaver (Rare).
+
+Deactivating all skills provided by class: Kineticist (Uncommon).
+
+Note: deactivated skills can still be used but can no longer be improved.
+
+Activating new skills and abilities.
+
+The moment that those words faded from the air, Nick felt the System reach into his brain. It forged fresh connections between his neurons, ingraining the use of Arcane Shield on an instinctual level. Warmth blossomed below his heart as the System drew a thread from his energetic core, pulling it up and around his spine before attaching it to the pathway for his new spell.
+
+He didn’t have time to savor the sensations this time around. Every scrap of his concentration was riveted on the decisive battle ahead.
+
+Binding trait Mana Manipulation to contestant’s bloodline.
+
+Nick felt an incredible surge of energy pass through him. It was concentrated around his core and his eyes, but he felt it flow through other places too, adjusting his energetic network in ways that he couldn’t even begin to understand. The results, however, were clear as day.
+
+When the System’s touch withdrew, the grand tapestry of mana was hanging in the air. The rich, ever-shifting blanket of multicolored energy that he’d last seen after becoming a Kineticist. It was complex, wonderous, and staggeringly beautiful, but he would have to explore it later.
+
+Now that his class change was complete, it was time for the showdown with the tower’s guardian to commence. If what Pax had told him was true, there was a way to complete the challenge that would unlock a hidden reward for the members of Team Earth, helping to ensure the survival of his species once they entered the Labyrinth. Nick was determined to achieve it, even if he lost his life in the process.
+
+There were just two quick things he needed to do first. He opened his profile and addressed the System once more. “I would like to advance Force Acceleration to Rank 1 and spend my free points on Toughness.”
+
+He closed his eyes as a vision came over him, reviewing everything he knew about the ability as the System upgraded its potency and efficiency. Meanwhile, his tissue softened and then resolidified, becoming even more resilient than before.
+
+The instant the process was complete, Nick ran to the portal with Devin at his side. He stepped past the threshold a heartbeat later and was sucked into the void between worlds.

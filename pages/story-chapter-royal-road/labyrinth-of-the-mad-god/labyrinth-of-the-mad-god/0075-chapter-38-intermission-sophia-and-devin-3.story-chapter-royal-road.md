@@ -1,0 +1,95 @@
+---
+id: 3fea5a5f-0062-50e7-898d-0bddcc008d6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: Intermission: Sophia and Devin 3"
+slug: 0075-chapter-38-intermission-sophia-and-devin-3
+partOf: labyrinth-of-the-mad-god
+position: 75
+ownLength: 1683
+unit: words
+publishedAt: 2024-10-14
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1850400/chapter-38-intermission-sophia-and-devin-3"
+royalRoadId: "1850400"
+---
+
+Sophia ran for everything that she was worth.
+
+She was burning stamina to keep up the desperate dash, with Devin hot on her heels. She could feel the stones shaking beneath her boots. A rhythmic pounding, as the massive creature followed relentlessly in their wake.
+
+It had been chasing them for hours by this point, without showing any sign of growing tired or losing interest.
+
+It seemed that in its white form, which resembled a shark with legs from the glimpses that she’d caught while looking over her shoulder, the monstrous entity was faster but couldn’t launch its long-ranged attacks. It was the only reason they were still alive.
+
+It had still been able to take out her wasp. But the reach of the invisible ability it used in this form was about twenty feet. It seemed to be more accurate than its other power though. It hadn’t ripped chunks of rock free from the walls like the explosive magic it had used in its clear form. One ability seems focused on raw damage, and the other is geared toward precision. Let’s try not to get hit by either.
+
+Dealing with something that she could see instead of a hidden stalker was a relief. However, the creature’s speed had increased considerably after transforming. Neither version seemed like an opponent that they could beat by themselves. One look at the thing’s endless rows of teeth, jutting out from a head the size of a bakery oven, had convinced Sophia that standing their ground would be a recipe for disaster.
+
+Their only hope was to put more distance between them and pray that the creature lost their scent. The journey across the floor had become a terrifying race with their lives as the prize. While they were faster than their monstrous pursuer, they didn’t have unlimited stores of stamina, although they each had one of V’s potions to use as a last resort.
+
+Things had been barely manageable thus far, but there was no relief in sight. If they made a single wrong turn, were cut off by a collapsed passageway, the roach horde, or entered a chamber with no exit, the creature was going to catch them.
+
+Given its size and the overwhelming power of its invisible attacks, she doubted that they would live long enough to break free if matters took a turn for the worse.
+
+The stark truth staring Sophia in the face was that if the massive monster caught them, they were dead. It was as simple as that. They had to figure out some way to open enough distance to shake its pursuit before their luck ran out.
+
+She wasn’t sure how the creature was tracking them yet, but it had to be using more than just its eyes. They had already tried breaking its line of sight by taking several quick turns and then sprinting as fast as they could. It hadn’t helped at all.
+
+Sophia had tried sending out wasps on two separate occasions, hoping to slow their pursuer down long enough to get away. But that plan ended in failure too. Her first wasp had been able to land an attack by hiding beneath a pile of rubble until the monster ran past. The frost venom seemed to work to some extent, inhibiting the creature for a few minutes.
+
+The second summon had been crushed to paste before it could close the last few feet. In the end, her powers hadn’t been good enough, and she couldn’t afford to waste any more stamina or mana on another attempt. Especially since the damage the first wasp had inflicted had already disappeared.
+
+By this point, she was considering using the parasite to try to fight it. The horrible creature contained in the gem embedded between her breasts. It was a measure of last resort. She couldn’t summon the demon unless she was out of mana and stamina, and it would claim half her health if she did.
+
+Plus, she wasn’t sure that she could win, even with the demon’s power. The creature that was chasing them was far stronger than the flesh-render matriarch she’d battled back in Blackmist Bog.
+
+She had hoped to never use its power again. Regardless, she didn’t have time to call upon it right now. Doing so would take five minutes of uninterrupted concentration, in addition to the other requirements.
+
+Sophia had never told Nick about the worst part of the pact she’d made. That every time she called upon the demon’s powers, its influence over her mind increased. Still, if it came down to using her unwanted passenger or dying, she was willing to give it a shot.
+
+Even if that was how events were fated to play out, it made sense to meet up with their missing allies first. To bring their full power to bear before making their final stand, instead of just a fraction.
+
+Making that decision would have to wait a while anyway. Right now, she just wanted to reach the stairs. Then it would be time to commit to her next move. Sophia wasn’t sure what she would do if they hadn’t found Nick and the others before she made it to the stairwell. Worst case scenario, she would have to leave a hasty note then head up the stairs and hope that the others were to join them later. All she knew for certain was that stopping wasn’t an option.
+
+But none of that mattered now. Right now, all that mattered was making it to the central chamber without being caught by the horror surging across the stones behind them.
+
+With that goal in mind, they ran and ran, and then ran some more. They managed to increase their lead by a good thirty seconds in that time, letting her experience the first glimmer of optimism she’d felt in hours.
+
+Twenty minutes later, their luck ran out.
+
+Sophia thought that they were on the lowest level and had nearly reached the central chamber holding the stairs. By now, the stinking soil was crunching beneath her boots with every step. It seems to be growing thicker the further we head in that direction.
+
+She was worried that they had made a wrong turn. But they had no choice other than to keep on going and hope that they were able to reach their destination before they ran out of steam. They were running down a long passageway with no branching tunnels, the white creature following a few hundred feet behind, when Sophia and Devin reached the end of the line.
+
+They burst out of the tunnel and into a massive enclosure that had once been some manner of factory, or perhaps a processing plant. Not that it mattered.
+
+Sophia discovered that she had two big problems on her hands the moment that they emerged through the doorway, still running at full speed.
+
+The first was that there wasn’t any way out of there except the way they’d come, where the monster was blocking their escape. The second was that the room was far from empty. Hundreds of giant roaches, more than they’d ever seen at once, were milling about.
+
+The beasts had been laying low, hoping that the creature would leave without attracting its attention. But in that moment, the roaches realized that wasn’t going to happen. With screeches that echoed across the chamber, the insect horde sprang to life, charging straight for them in an endless tide of chitin and blades.
+
+In the depths of that black moment, Sophia realized that instead of heading toward the central chamber holding the stairwell, they’d taken a wrong turn along the way. One that had led them straight into the heart of the killer bugs’ territory. Which left her with one last bit of bad news to consider.
+
+In the far corner, a humongous roach at least twenty feet tall was in the middle of laying eggs, surrounded by its elite guard. It must be their queen.
+
+When the roach queen saw them, she let out a furious cry. As the duo ran into the chamber, some manner of magic began gathering in the air around the giant bug. The queen’s mana sank into the warrior roaches, coating them in a shell of golden energy that enhanced their speed and strength, making the lethal beasts that much more deadly.
+
+It appeared that instead of escaping danger, Devin and Sophia had stumbled into the lion’s den. They were trapped, with hundreds of killer insects in front of them, and an immensely powerful opponent behind.
+
+There wasn’t a way out. The only choice remaining was to decide where they would make their stand.
+
+“Fuck,” Devin yelled. "We’re stuck. What are we going to do?”
+
+“We need to push through to the far wall, and hope they start fighting each other. We can’t get hit by both sides at once or we’re dead. There!” She pointed to where a sprawling machine took up an entire corner of the massive space.
+
+“We need to head over there. We can use the machinery to guard our backs and it will offer some cover. Then we’ll hole up as long as we can and pray an opportunity to escape arrives before they get us.”
+
+Devin nodded his agreement, and they began running along the wall. The roaches continued streaming forth, bladed limbs poised to strike. The bugs were furious that they had barged into their nest and were eager to eliminate the intruders.
+
+Just before Devin and Sophia were surrounded, the massive creature burst through the doorway, changing the dynamics of the fight in an instant.
+
+Most of the roaches broke away, moving to protect their queen. But a squad was still headed their way. Sophia drew her daggers as Devin readied his axe, racing to reach cover before they were hit from both sides.
+
+It appeared that a desperate three-way battle had begun. She wasn’t sure if she would live through the next five minutes, let alone endure to the end of the fight.
+
+Where are you, Nick? I could really use your help right now.

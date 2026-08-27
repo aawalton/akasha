@@ -1,0 +1,91 @@
+---
+id: e2636d16-cb5a-58ab-a84f-b06c2c6cbf98
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: It’s Good to be Home"
+slug: 0186-chapter-4-its-good-to-be-home
+partOf: labyrinth-of-the-mad-god
+position: 186
+ownLength: 1833
+unit: words
+publishedAt: 2025-06-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2379793/chapter-4-its-good-to-be-home"
+royalRoadId: "2379793"
+---
+
+When Nick’s pod came to a stop, it vanished with a pop that set his ears ringing.
+
+The moment that his boots touched the ground, it finally hit him. He. Was. Home.
+
+After enduring his survival tutorial on the Searing Isle, braving the dangers of Blackmist Bog, and overcoming the challenges of climbing the Tower of Rizzen, Nick was back.
+
+He took a deep breath, savoring the air filling his lungs. For the first time in months, the breeze caressing his skin felt right in a way that he couldn’t define. He scooped up a handful of dusty red soil and let it sift through his fingers. No. Not soil, he corrected himself. Earth.
+
+For a long while, Nick simply stood there, savoring the moment. Team Earth had overcome the Mad God’s challenge, and their planet was safe at last.
+
+Even if it had changed greatly in his absence, his homeworld was still standing despite every obstacle Taltos had placed in their path. Humanity had lost so much—billions of lives, their global civilization, and every trace of the world that had come before—but now it was time to take it all back. To take their first steps in a magical multiverse filled with unimaginable wonders and terrible danger.
+
+Though the cost had been immeasurable, humanity’s trials had made them stronger, and they had a year of protection to grow stronger still.
+
+Nick knew this was only the beginning. That life in the Labyrinth would come with its own share of ordeals. Not to mention, getting caught in the crossfire in the conflict brewing between Taltos and the System.
+
+But that was tomorrow’s problem. Today, he took comfort in the fact that his people no longer faced the imminent threat of annihilation at the hand of an insane deity.
+
+Even if part of his planet had been merged with an alien dimension—if there was a second moon hanging in the sky beside the one he’d known all his life and monsters now walked the Earth—it was good to be home.
+
+While that was more than enough reason to celebrate, he had another reason to smile. Nick was certain that his friends were somewhere nearby, along with a fair portion of the elites who had battled the Guardian on the roof of Darkstone Tower. Although “nearby” was relative when you were talking about a few thousand people distributed across a biome the size of a large state.
+
+He had a great deal that he needed to take care of in a short span of time. In no particular order, his immediate goals were to: link up with his teammates, check out the new gear he’d ordered from Gretta, examine his gains and peruse his profile, pick his Profession, and read through the Earth 2.0 Codex.
+
+Along the way, Nick wanted to start conditioning his evolved body, train his new skills, hammer out a strategy to make the most out of the Rebuilding Civilization quest, and take the System’s Sword-skill test.
+
+He had quite a few mid-term goals too, including but not limited to: learning to perceive and manipulate mana, advancing his abilities, fully restoring Blightbane, developing his Concept, and figuring out how to progress to Tier-2.
+
+But all of that could wait a little longer. For the next few hours, Nick just wanted to savor the joy of his homecoming, stretch out his legs, and get a good look at the biome that was destined to be his new home.
+
+On that note, he let his mind go blank as he took a deep breath, then let it out while surveying his surroundings.
+
+At the moment, he was standing on the coastline—just a few hundred feet away from the boundary of the beach. He started walking toward the water’s edge while taking it all in. The terrain brought back memories of waking up on the Searing Isle at the dawn of his adventures, although this sunny strip of seaside displayed far more color than those pristine ivory dunes.
+
+The sand was a rich peach hue—punctuated by black boulders that formed intricate patterns that stretched on for miles. Nick knew this entire region was brand-new real estate that had been generated when the planet reached level one, and he was eager to learn more about it. As he ran his eyes across seabirds and scuttling crabs—seaweed and sunbathing seals—he decided that this biome had been woven seamlessly into the rest of the planet.
+
+It was also part of what the System called the Frontier, which meant that it would be populated with events, dungeons, challenges, and quests. He hadn’t seen the shadowy Veil anywhere in the biome during his descent, although he was sure he would learn more about it sooner or later.
+
+Even with his upgraded senses, he couldn’t see anyone nearby, although there were plenty of animals running along the beach. However, the Bladewind Badlands was a huge biome. Even if he didn’t run into his friends right away, he was certain that they would start looking for one of the City Bosses the System had mentioned when the bonus quest began.
+
+The ocean was beautiful, and the crashing of the waves was soothing to Nick’s soul. However, he turned away from the water and started walking inland. While he would probably find something interesting while walking along the shore, he had a hunch that his time would be better spent heading toward the middle of the badlands instead. That big lake I saw would be a perfect place to build a city. I think I’ll head in that direction first.
+
+He wasn’t sure exactly where the lake was, but he was confident that he could find it with a bit of effort. He walked back up the beach, then climbed a small hill that he’d spotted in the distance. Once he was standing on the crest, he took out his spyglass and turned his gaze to the east.
+
+The Bladewind Badlands was comprised of dozens of sub-biomes, which were easy to spot when viewed from above. But before he got to them, he wanted to learn more about the core biome that took up the lion’s share of the region.
+
+In this corner of the badlands, the ground was flat and colorful. Bands of red, orange, yellow, and brown swirled together, forming an earthy color palate. The climate was hot and arid, but there was plenty of life to be found. Nick spotted lizards and hawks, serpents and pachyderms, and that was just a random selection of the creatures he could see from here.
+
+He could tell at a glance that some of them had completed their ascension into beasts. Many of the beasts were considerably larger than their animal counterparts, and others were using spell-like powers. There were plenty of regular insects, birds, and mammals too, and he decided to keep his distance until he had a better understanding of what he was dealing with.
+
+Now that he’d taken a good look at the main biome, he moved onto the sub-biomes he could see from here. While most of the ground was fairly flat, there were hills and plateaus in the distance—even some extensive mesas that reminded Nick of his month with Rita on that strangely-colored world. A cluster of mountains along the horizon had peaks that were white with snow.
+
+While the badlands was a dry desert, many of its sub-biomes were lush. He spotted vast groves of trees, fields full of flowers and grass, a marine headland branching off from what appeared to be a sizable bay, and countless more.
+
+Good. He rubbed his chin while turning in a circle. There is a wide variety of natural resources here, and lots of biodiversity. He couldn’t see the river leading to the lake from here, so he decided to simply start walking and find out what was waiting for him now that magic had become an integral part of life on Earth.
+
+That was when Nick internalized that something had been bothering him ever since the planet’s gravity had gripped him during his meteoric descent. The feeling had only grown stronger over the last half hour. It was an irritating sensation—like a pebble stuck in his shoe, only distributed across his entire body instead of localized to one spot.
+
+When he focused on the source of his annoyance, he decided that his load wasn’t balanced, his armor wasn’t articulating cleanly, and the straps on his pack were just a hair too tight.
+
+Oh. It’s my new Light Armor skill, he realized. Let’s see if I can fix the problem.
+
+Listening to the feedback provided by the skill, he took everything off, then put his gear back on one piece at a time. He began by unlacing his boots, setting the tongues flush against his ankles, then relacing them until the tension was just right. They were snug against his feet but allowed for unfettered mobility in his joints.
+
+Then he donned his new leather armor, playing with the buckles and straps until it fit so comfortably that it felt like a second skin. Nick moved on to his toolbelt, repacking the contents of its pouches until he was satisfied. He tweaked the positioning of the scabbard holding his short sword on one side, then the one holding Blightbane on the other. He adjusted his gloves, cloak, buckler, and helm, then finished up with his jacket and backpack.
+
+When he was done, his body felt perfectly balanced, and his kit was far more comfortable than before. His range of motion had improved, and his gear didn’t jostle or shift, even when he rapidly changed directions.
+
+This Light Armor skill is more useful than I expected. It wasn’t a night and day difference, but it would be easy to tweak things further as the skill improved, and every little bit helped when he was traveling all day and fighting with his life on the line.
+
+As he walked down the hill while heading for the heart of the badlands, Nick took a quick stock of his inventory. Fortunately, thanks to the immense storage capacity of his floatstone-enhanced magic backpack, he had so much water that running out wasn’t going to be a problem. He still had a decent pile of provisions and a ton of supplies from the storeroom he and Veronica had looted back in the tower’s basement.
+
+It meant that he didn’t have anything to worry about other than crossing the biome and finding out what fate had in store for him next.
+
+Soon, it would be time to start rebuilding civilization. To level up and prepare the planet for the dangers its inhabitants would face when their year of protection came to an end. To reunite with his friends and find out if any members of his family were still alive.
+
+But today, all Nick had to do was partake in a joy as old as humanity itself, exploring an uncharted frontier while basking in the mystery of it all.

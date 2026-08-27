@@ -1,0 +1,135 @@
+---
+id: 896c10e1-149a-5252-843d-9de6a0530ac6
+page-type-slug: story-chapter-royal-road
+title: "559. Old New Home"
+slug: 0025-559-old-new-home
+partOf: leveling-up-the-world
+position: 25
+ownLength: 2197
+unit: words
+ownProgress: 2197
+publishedAt: 2022-08-01
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/961068/559-old-new-home"
+royalRoadId: "961068"
+markedReadAt: "2026-06-29T22:41:01.550Z"
+---
+
+Going back to Nerosal was also an experience. After the rogue mage was dealt with, the poison plague was no longer viewed as the threat it had been before. However, the walls and patrols remained. There the empire wasn’t at war, but Dallion had heard it be said that skirmishes were a daily occurrence up north. The south, thankfully, had been spared for the moment and even standard caravan activity had picked up.
+
+“Hello, old birch,” Dallion said as he leaned on the stump of a rather large tree several miles from Nerosal. Too twisted for lumber, too bare for wood, the tree had remained there undisturbed for centuries, at least if one was to believe it. “Anything interesting happen today?”
+
+What am I? I daffodil? The tree grumbled. Awakened keep coming and going, same as always.
+
+That was one of the things about plants, as Dallion had soon found out. Unlike animals, they were extremely self-centered. In part, that was due to the reason that most plants didn’t have a way of seeing anything other than light. The rest was entirely due to their nature. However, Dallion had also learned that they reacted to more than just sunlight. Awakened seemed to emanate some sort of energy as well, as did mages. The latter were the ones Dallion was particularly worried about. Using his position as apprentice hunter, he had done a few inquiries, only to learn that more and more Academy outposts were spreading throughout the world beyond the borders of the empire. No one was sure what the reason or their activities in the area were, but the mages were always extremely protective, even more than usual.
+
+“That’s what you get for being close to a city,” Dallion laughed, patting the rough bark of the tree. “Want some water? I have enough to spare.”
+
+Keep your water! I’ve survived eight doubts and three floods! I don’t need your water!
+
+That was an open lie. For one thing, Dallion knew for a fact that there hadn’t been any floods in the area in the last three centuries. It was possible that the tree was talking about flash storms that had a habit of happening, but even that was rare with all the furies in the city.
+
+“Whatever you say.” Dallion took out a wineskin from his backpack and poured it into the roots of the tree. Of all the plants, he knew this was the only one who had a distinct preference of wine. “See you again in a few weeks.”
+
+The tree replied nothing, returning to its daily run basking routine. Sometimes Dallion wished he could do the same.
+
+Nearing the gate of the outer wall, Dallion flashed his new hunter’s emblem. The guards made a few comments, congratulating Dallion upon earning the title, then let him pass without questions. With a smile and a nod, Dallion then proceeded to the inner gate.
+
+The entire space between the two gates was filled with farmland. Here and there, small clusters of houses had started to appear. The countess had declared that the land remain focused on food production in case there was another instance of poison plants. Dallion, though, knew that the real reason was her stocking up reserves for the upcoming war. According to the general and a few minor nobles in the city Dallion had contact with, conflict was inevitable.
+
+Halfway to the city gates, a female figure dressed entirely in black sat on a small stone chair, patiently waiting. As Dallion neared, it stood up.
+
+“Overseer,” Dallion said with a nod.
+
+“Hello, Dal. I see congratulations are in order.”
+
+“Was there any doubt?”
+
+“A lot. Not all hunters make it on the first time. Jiroh had to go three times.”
+
+“And Eury?” Dallion couldn’t help but asked.
+
+The overseer didn’t reply immediately, walking alongside Dallion, instead.
+
+“Eury was a loss to the city as well,” she said after a while. “And she made it on her first, from what she told me.”
+
+“Right. So, what brings you here? Do you have a job for me already?”
+
+“Lady Marigold has died,” the woman went straight to the point. “Regrettably, you’re not invited to the ceremony. Even so, her granddaughter asked me to let you know.”
+
+The news was sad, though it didn’t shake Dallion to a large degree. Lady Marigold was one of the new nobles who would talk to him on a regular basis, mostly discussions about his past, the village he’d come from, and his first days in Nerosal. Dallion suspected that she knew the truth about his grandfather, it was possible that she had even been present at his delevelling. Despite that, the old woman had never confirmed it.
+
+“Give her my condolences,” Dallion said. “However, that’s just an excuse. What’s the real reason?”
+
+“The countess has aspirations,” the overseer whispered in a fashion that only Dallion would hear. “She has successfully managed to turn around her failure at the festival two years ago and now is the second most powerful person in the province.”
+
+Definitely a spectacular achievement, but as Dallion knew that Countess Priscord wasn’t one to be content with being number two. Her real ambition was to become an Archduke, and there were only two ways for that to happen. One was to earn enough favor from the emperor to the point that a new province was appointed. The second was to challenge and defeat the existing archduke of a province, causing a title-swap. In the second half of the empire’s existence, the second way was mostly used. The emperor was against splintering, just as he was against internal conflict. Only succession disputes were tolerated, though after what had happened forty years ago, it was unlikely that the emperor would be willing to allow another civil war in his lands.
+
+“There are no indications right now, but at some point, you’ll be called to take sides,” the overseer continued. “When that happens, you better have an answer ready.”
+
+That was a polite way of saying that Dallion would be asked whether he was for or against her. Neutrality wasn’t an option, or at least not as long as he remained in the province.
+
+“Thanks. I’ll keep that in mind. Any news on the Star?”
+
+“Cultists, you mean? They haven’t done anything major, but they're still here.”
+
+That wasn’t what Dallion had asked, but he nodded nonetheless.
+
+That would mean that she knows something, but is afraid to share it with you due to your recklessness, Nil said.
+
+Thanks for the obvious, Nil, Dallion replied. He was fully aware of what that meant, just as he was aware that it suggested the Star’s activity being close—somewhere where Dallion could realistically reach. Even with him reaching level sixty-seven and boosting his stats and skills considerably, he was no match for an unrestricted Star. To feel somewhat confident, he’d have to get to level seventy at a bare minimum, preferably eighty. However, leveling had become exceedingly difficult. No wonder that at this point, it took people years to advance even a single level. With most of his bad habits and fears dealt with, the only thing left was to break through his own limits, and that was difficult regardless of the skills and gear Dallion possessed.
+
+The overseer accompanied Dallion to the main gate. The guards there didn’t even bother asking questions, quickly moving aside so that both could pass. Once on the main streets, the woman wished Dallion the best, then disappeared in the blink of an eye. Even a perception trait of forty-four wasn’t enough to see her move away.
+
+If overseers were weak, ear boy, they wouldn’t be chosen to be the guardians of cities, Nil said.
+
+True, Dallion agreed. However, that also meant that the nobles were even stronger in order to be able to subdue them.
+
+It was a short trip from the city gate to the inn Dallion was staying at. After Euryale had left the city, she had offered that he keep her workshop. Initially, Dallion tried, but he found owning the place more burdensome than it was worth. He’d rarely spend time there, and being alone, he couldn’t keep creatures from the wilderness in it either. As a result, he had gone back to the one place he’d an established relationship with: the Gremlin’s Timepiece.
+
+“Back already?” Hannah the innkeeper asked the moment he walked in. On the surface, she was always grumpy about something, even if the regulars knew that she was mostly harsh towards people she was in good relations with. “Did they fail you straight up?”
+
+“I didn’t fail.” Dallion revealed the chain round his neck. “I just was that good.”
+
+“Good, my ass! Remember the mess up you did with the captain’s package?”
+
+Dallion sighed. Hannah had no intention of ever letting him forget that. Back when he had set off to investigate the matter of the Archduke’s missing world sword, he had also agreed to bring back an item of Adzorg from the Icebreaker guild. The negotiations were handled through echo rings and everything was set. Unfortunately, after a rather overbearing fight, Dallion had completely to check the authenticity of the item, merely taking the box it was held in. As a result, he had to go a second time, and sort things right. The only setback was a month's delay, but Hannah had kept ridiculing him on the matter ever since.
+
+“Also, since you clearly don’t have any work right now, I’m expecting you to do some work for the dinner crowd,” the innkeeper said.
+
+Having an awakened of Dallion’s level, let alone a hunter, work as an inn awakened was absurd. However, it was a request he couldn’t effuse. Hannah had taken him in when he’d first arrived in the city, and even now had agreed to keep a room at his disposal for whenever he was in the city. Having to mend a few glasses and possibly play a tune or two was hardly a bother.
+
+“Just have Aspan have something ready for me before the crowd gets here.” Dallion went towards the stairs. “I’ll get some rest and be right down.”
+
+“I’m not your servant, Dal!” Hannah yelled, to the amusement of the few people in the tavern section of the inn. “And better not be late.”
+
+One of these days, dear boy, she’ll have enough and kick your ass in front of everyone, Nil said.
+
+You think I went too far?
+
+Definitely.
+
+I’ll keep that in mind, Dallion said.
+
+The room was largely unchanged since the last time Dallion lived here. The only difference was that there were a lot more things now. In addition to everything he had gathered, Dallion had also taken this and that from Eury’s workshop, before selling off the rest. He has offered to have it all sent to the gorgon, but his fiancé was adamant in her letters that she had already taken everything she wanted.
+
+In a way, Dallion was a bit sad about that. There were a few item guardians in the place he’d spent a while chatting. Then again, there were just as many chatty items in his room even now.
+
+“Hello, all,” Dallion said, as he removed his gear, placing it in the established section of the room.
+
+A chorus of greetings welcomed him. Lately, even the potted plants had developed the habit. Stretching, Dallion passed by the shelf with the stone orchid and looked at it using his music skills. The “plant” remained very much a piece of rock, although there were signs it had spouted somewhat. It was still a long way from hatching, of course. Apparently, occasional music and singing could only do so much.
+
+A marathon, not a sprint, Dallion told himself.
+
+After some consideration, he took his harpsisword again and played a short ballad. The orchid was said to develop in the fashion of the stimuli provided, so Dallion had chosen to combine music, empathy, and attack when singing to it. Knowing Eury’s nature, that was something she’d approve of. The only drawback was that even if he gave it his all, the changes were negligible. The short five-minute melody left him utterly exhausted. Even so, he could sense pulsing from the plant.
+
+“That’s enough music for today,” he said. “Maybe I’ll play some more tonight.”
+
+With that, he lay on the bed, sword still in hand. His original plan was to rest his eyes for a bit before getting a proper nap. However, sleep caught him by surprise, taking him into a dream of endless sky and clouds. The calm made Dallion feel at ease.
+
+I wish I could fly everyday, he said to himself, moving his hand though the edge of the cloud. It felt soft and fluffy, almost like cotton.
+
+“Then why don’t you?” a voice said behind him.
+
+Feeling no sense of urgency, Dallion glanced over his shoulder. A thundercloud was there, black and flickering among the endless whiteness. More interesting, though, there was a thunder fury standing in front.
+
+“Hello, Dal,” she said. Her black skin contrasted with her paper white hair. “Sorry for visiting you like this, but we have to talk.”

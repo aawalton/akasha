@@ -1,0 +1,89 @@
+---
+id: 2dda84f9-35f4-5271-a59d-47959ffdc3ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: A Little Fun"
+slug: 0286-chapter-6-a-little-fun
+partOf: labyrinth-of-the-mad-god
+position: 286
+ownLength: 1877
+unit: words
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3075532/chapter-6-a-little-fun"
+royalRoadId: "3075532"
+---
+
+Nick whistled in appreciation as Lurk’s devastating attack took two monsters off the board in a single move, leaving one tier-one crayfish and the tier-two elite to contend with.
+
+Kenji engaged the lesser crustacean while Nick, Bandit, and Lurk surrounded its lethal cousin. Whoever it turned toward prioritized evasion while the other party members struck from behind. As Nick let loose an endless barrage of slashes and spells, he caught a glimpse of Kenji’s fight out of the corner of his eyes.
+
+The warrior used his massive tower shield to keep the monster from reaching him, thrusting his spear through a series of slots that opened whenever his weapon drew near. In addition to that useful magic, the shield was transparent to Kenji but opaque from the other direction, granting him a clear view of the battlefield while blocking his opponent’s line of sight.
+
+Whenever an opening appeared in the fickle flow of combat, stamina surged into the strategist’s arms as he activated a combat art. Kenji had picked up Shield Bash a few weeks back, and this was Nick’s first time watching the hybrid ability in action.
+
+The heavy slab of metal shot forth with explosive power, transforming from armor to weapon in the blink of an eye. The shield slammed into the crayfish’s shell, transferring all the kinetic energy into its body while releasing a focused wave of force mana. The move stunned the surprised monster, dealing considerable internal damage as the shockwave pulverized its soft tissue after passing through its shell.
+
+It only took the crayfish out of commission for a couple of seconds, but that was all the time the veteran warrior needed. He activated Penetrating Thrust, which caused his spear to leap forward like it had been fired out of a cannon, passing through a slot in his shield to strike the monster’s head. Bolstered by a surge of stamina and the man’s considerable Strength, the point bored a hole through the creature’s chitin, perforating its brain and killing it instantly.
+
+As Kenji moved to flank the elite monster, it switched targets. The creature spun while activating its claw-multiplying ability, trying to take Nick out with a lightning-quick attack that he barely dodged in time. Thanks to Force Acceleration, he leaned out of the way of a double claw, ducked beneath the next set, and spun to one side to avoid its toxic spit.
+
+He didn’t trust his gear to hold up against the mana-bolstered strikes, so he put everything he had into dodging one blow after the next until the ability ran out of juice and the extra claws faded away.
+
+The next time he deflected an attack with his shield, his perception of time slowed down. In that congealed moment, he sensed that he could use Force Riposte to absorb the momentum of the incoming strike, just like he had with his sword. Intrigued, he activated his newest ability as time resumed its full course.
+
+Nick watched with interest as the web of force mana emerged from the energetic channels in his shield arm instead of his sword arm. The magical manifestation caught the monster’s limb, draining the kinetic energy from its strike. Now for the tricky part.
+
+He visulaized what he intended, guided by instinct as he used the ability in a brand-new way. As he’d been hoping, all the force transferred to his sword arm along with a surge of stamina. Half a heartbeat later, his blade shot out in a silver blur to skewer the monster’s head.
+
+It dodged at the last possible second, causing Blightbane to carve a gouge below one pale pink eye instead of inflicting critical damage, but he was more than satisfied with the breakthrough he’d made. Force Riposte is even better than I thought.
+
+“It’s time to finish this, lad. Let this old man have a little fun before the curtain closes and keep your friends safe in the bargain.”
+
+Nick agreed with Fritz’s assessment. While the party had obtained the upper hand, the elite monster was still going strong, and a single hit from its Concept-strengthened magic could deal a lethal blow.
+
+In short, his party needed all the help they could get, and it was time for the Kastillan king to join the fray.
+
+When the crayfish turned to attack Kenji, he gathered his will and triggered the Legendary sword’s unique power. Energy congealed in the air beside him as Blightbane left his hand of its own accord. While Nick drew the short sword sheathed at his hip, Fritz wavered into existence like a mirage in reverse, wielding the weapon that housed his soul.
+
+Nick had explained what his sword could do, but this was the first time Bandit and Lurk had seen Blightbane in action. The lemur let loose a chittering cheer—primate delight clear on his furry face. The dinosaur was shocked when the warrior appeared out of nowhere, although she seemed to understand Fritz was on their side.
+
+The five of them surrounded the tier-two monster in a ring of blades. The crayfish went berserk when it realized it was outgunned, burning through its energetic reserves to create an opening, break through, and live to fight another day.
+
+However, Nick’s team had no desire to be ambushed again and wasn’t about to let their foe slip away. They blocked its path to the water while whaling on the ugly bastard, half a dozen attacks landing with every beat of his heart. With every exchange of blows, curls of chitin and milky ichor rained onto the concrete below.
+
+Whenever the monster tried to mow someone down, Fritz stepped into the path of its attack, deflecting deadly blows in a jaw-dropping display of skill. One advantage to having a sword for a body was it let the man take risks that would be reckless for anyone else. If the king’s manifestation was destroyed, it wouldn’t do permanent damage, although he would have to sleep for most of the day to recover.
+
+While standing in a circle with the monster in the middle, everyone had to be careful not to hit their neighbors with their attacks. It was excellent practice in fighting as a team, although there were a few close calls when Bandit or Lurk didn’t follow Kenji’s orders in time.
+
+In the end, the Kastillan king leapt onto the crayfish’s back, hacking and slashing at its eyes while the others cut off its limbs. One by one, its legs and claws were severed, reducing the monster to a weeping heap of shorn tissue flopping on the floor.
+
+It tried to drag them with it to hell with a massive spray of venom, but Fritz saw it coming, blocking the spew with his body. “That was more fun than I expected. I leave the rest to you.” He dispelled his projection before it suffered critical damage, vanishing in a flash of light.
+
+Before monster could fire again, Lurk bent down and tore its head off, ending the creature once and for all.
+
+Nick only had so much room in his pack, but he wanted to collect the undamaged chitin from the tier-two monster, along with its hulking claws.
+
+The remains had flesh inside and were covered in gore, but that wasn’t a problem. He had an easy way clean what he hoped would be decent crafting materials. He shoved everything into his magic bag, pulled the components apart with an act of will, then removed the meat while leaving the rest in storage.
+
+When he noticed Lurk staring at the tissue in his hands while drooling like a faucet, he took a hasty step back to open some room and tossed the morsel her way. The dino caught the tasty treat out of the air and kept right on going, tearing through the corpses arranged along the spillway.
+
+Everyone sat down while the beast finished her meal, topping off their stamina before continuing down the conduit. Nick let out a sigh of relief when Size Up offered an all clear, indicating they had defeated all the monsters in the area, although lingering much longer wasn’t a good idea.
+
+“I’ve told you a thousand times not to gorge yourself like that,” Bandit admonished the multi-ton killing machine. He chided the dinosaur while rinsing ichor off his fur in a pool of water that miraculously unsoiled despite panoply of carnage engulfing this side of the spillway, which looked like the floor of a particularly unsavory slaughterhouse.
+
+“It dulls your senses and slows you down, and more enemies could arrive at any time. Besides, there’s plenty more where that came from.”
+
+Lurk grumbled, rolled her shoulders in what Nick was learning to recognize as the dinosaur’s version of a shrug, and then let loose a bloody belch that echoed across the stonework. With some prodding from Kenji, the party rose to their feet and pressed on, having received their first taste of what the Labyrinth had in store.
+
+The fight had gone well, but taking down a tier-two elite after dealing with a horde of powerful monsters was exhausting. Everyone needed to take a longer break to decompress and recover their vital energy, and Lurk was groggy after stuffing herself to an extent that would have been comical if she wasn’t a viscera-splattered predator that could devour them all and still have room for dessert.
+
+They proceeded another mile or so down the passage, stopping when they came across an alcove along the earthen wall they followed. The nook was deep enough to conceal their presence and big enough to stretch out, so the party decided to stop and rest. Lurk curled into a ball like a cat and was out like a light a few minutes later.
+
+Nick used the alien PDA he’d found in the tower to create a wan light that didn’t shine into the tunnel, which was bright enough for all of them with their evolved senses. He set the device to sentry mode for good measure, although he wasn’t sure how effective it would be against creatures with stealth abilities.
+
+He opened his backpack and produced a pile of bedding and an assortment of rations, which the three of them munched on while discussing the battle in low voices. Kenji and Bandit both had a week’s worth of food in their bags, but they were saving their provisions in case they got separated and needed to survive on their own supplies.
+
+They were pleased with how the fight had gone, other than Lurk going rogue at the start. Everyone shared their observations and offered suggestions for how they could improve their tactics and teamwork going forward.
+
+When they were done, Bandit climbed on top of Lurk to get some shuteye, and the men set up a watch rotation. Thanks to their Enhanced Survivor traits, they only needed four hours of sleep a night. Since they hadn’t been travelling for a full day yet, two hours each would be sufficient for them to recover completely.
+
+Nick took first watch, sitting in the mouth of the alcove where he could peer in both directions with only his head exposed. Kenji was an old soldier and could fall asleep anywhere within a matter of minutes, leaving him alone with his thoughts.

@@ -1,0 +1,193 @@
+---
+id: 2b59ad60-7348-574c-ab5c-9256c3b8c6dc
+page-type-slug: story-chapter-royal-road
+title: "72 — Book 2, Chapter 20 — Magical Critters, Pt 4"
+slug: 0072-72-book-2-chapter-20-magical-critters-pt-4
+partOf: just-add-mana
+position: 72
+ownLength: 3055
+unit: words
+ownProgress: 3055
+publishedAt: 2025-12-11
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2838859/72-book-2-chapter-20-magical-critters-pt-4"
+royalRoadId: "2838859"
+markedReadAt: "2026-06-29T18:50:06.404Z"
+---
+
+Akkau had to admit, he was surprised by how much the Orstrahl delegation changed as soon as Kazza left the room. Their vapid expressions vanished, replaced by sharp, calculating ones that wouldn't have been out of place on a dragon; their magical signatures sharpened until they matched the archmages they were, rather than the mages they pretended to be.
+
+He wasn't that surprised, of course. These lot were old hats at what they did. "Was there a particular reason you felt it necessary to put on such a guise?" he asked mildly.
+
+Naria Greenthistle simply shrugged. "It is paramount that Kazza believes us incompetent," she said simply. "If the Golden Sands agrees to treat with King Callistan, then the Hunters advance. House Greenthistle would prevent that outcome."
+
+Akkau eyed her thoughtfully. As far as he knew, she was a former elder of the Brightgrove elves, but had agreed to abandon that position in exchange for territory and status within the Orstrahl kingdom. When he first met her, he had assumed she had taken the deal out of greed, but in all their meetings since...
+
+"There are easier ways to accomplish such a thing," Akkau said, his tone neutral. "Simply confirming the young lizard's assumptions, for instance. It would not take much to convince him that Orstrahl only wishes to use his tribe."
+
+"Indeed," Naria agreed easily enough. "And in exchange, House Greenthistle would be implicated for treason against the Crown. Hardly worth the trade, don't you think? Besides, the youth are terribly unpredictable. The poor thing might choose to join Orstrahl simply to spite me."
+
+Akkau snorted, a puff of smoke curling out of his nostrils. "If that is truly a risk, perhaps you should reconsider the way you approach others."
+
+"Direct as ever, Headmaster Akkau," Naria said, pressing her hand to her chest in feigned offense; Akkau did not miss the way she leaned over as if to better present her breasts. "One might almost think you don't like me."
+
+"I do not," Akkau said irritably. "And put those away. You are well aware they do not work on me."
+
+"Reptiles." Naria clicked her tongue, otherwise unperturbed by his rejection. "Still, that new student of yours is fascinating. I don't suppose you'd be willing to lend him to our House? We have a number of... problems... that a sufficiently talented mage might be able to solve, and he appears to be quite talented indeed."
+
+"Absolutely not," Akkau said flatly.
+
+Naria only laughed. Akkau shifted in his seat uncomfortably. There was a reason he'd been nervous about the Orstrahl delegation as soon as he heard it would be led by House Greenthistle. Most other visits involved a simple tour of the premises, and as long as Akkau fed their nobles with the praise they wanted, they would do little to interfere with him.
+
+Naria Greenthistle, though? She plotted.
+
+The good thing about her was that she wasn't entirely on board with the Red Hunters and their plans. More than once, she'd let slip information that allowed Akkau to protect his students, and he knew she wielded her political power at least in part to keep the Brightscale Academy independent from Orstrahl.
+
+None of that meant he could trust her, though. She had made that clear from the beginning: she was out to protect her own interests and assets, and allowing the Red Hunters complete dominion went against those interests. She wanted them kept in check so they could be wielded as a weapon, which meant they needed to have less power than she did.
+
+In that, their goals aligned. But she would just as easily betray the Brightscale Academy if it placed her in a better position to use the Red Hunters, and Akkau was well aware of that.
+
+"It's a rare mage indeed that can contain magic as powerful as the Aspect Cascade," Naria said lightly, crossing one leg over the other. Her two companions—members of her House, though only in name—straightened at the gesture like it was some kind of signal. "Where in the world did you find this child?"
+
+Akkau grimaced internally. He hated this level of posturing. Naria's tone of voice told him she still knew something he didn't, presumably something to do with why Kazza had been brought along with their delegation in the first place. She was doing it as a favor to him, which meant she wanted something in return.
+
+Given her apparent lack of surprise when it came to Cale Cadwell Cobbs and the interest she had already expressed, it was pretty clear what that something was.
+
+Akkau didn't bother correcting her assumption that Cale was a child. "He simply showed up here," the dragon said, shrugging broad shoulders and leaning into his seat. "A victim of a rogue summoning spell, I suspect. I know little about the realm he may have arrived from."
+
+"Did he, now?" Naria asked. "One might call it a stroke of luck that such a powerful mage was brought to Utelia through a summoning spell. A fateful coincidence, even."
+
+Akkau grunted. "I would appreciate it if you simply got to the point, Naria."
+
+"Oh, very well." Naria sighed dramatically, but there was a glint in her eyes. "I desire a trade. You know by now that Orstrahl intends to acquire the Golden Sands and their territory, yes?"
+
+"That much was obvious," Akkau muttered, eyeing the scrying spell. The projection of Cale was watching with interest as Kazza drew on the chalkboard, indicating the route the Aspect Cascade normally took through the sands. "Do you intend to tell me why?"
+
+"While I could make some educated guesses, I suspect we've already arrived at the same conclusion," Naria said, smiling sweetly at him. "Care to share what you've concluded?"
+
+Akkau sighed. If he didn't play her game, he'd be stuck here a lot longer than he wanted to be. "Orstrahl is developing magical weaponry," he said. "The intent, I assume, is to use the Golden Sands as a farm. A means of harvesting one of the most potent anti-mage weapons ever developed."
+
+Naria smiled a self-satisfied smile. "Very good," she said. "And the King, I suspect, has no intention of going through with that promise to end the Aspect Cascade. It's possible he has no idea how to stop it at all."
+
+"He will fail, and then use a clause in the contract to extend shelter to the Golden Sands tribe," Akkau said. "He will pretend to accept responsibility for the failure and bring them into Orstrahl, perhaps as nobles, with plenty of compensation. But it will leave the desert open for occupation by Orstrahl's forces."
+
+"A clever plan, and yet..." Naria reached for the amulet she wore, channeling just enough mana to make the stone within glow. "Only the inner circle of nobility will gain access to these new weapons. House Greenthistle, unfortunately, will be excluded."
+
+"And that is the only reason you are choosing to interfere?" Akkau asked, his tone slightly disbelieving. "Do you understand what a weapon like this could do?"
+
+Naria raised an eyebrow. "Our interests are aligned, are they not?"
+
+Akkau grunted. "I will never understand the way you think," he said. "Very well. What, exactly, are you offering? You have thus far revealed nothing I do not already know, and you would not have come here if you did not want something in return."
+
+"On the contrary, I believe I've helped you quite a bit already," Naria said. "I brought Kazza here, did I not? Would your apprentice have so much information on the Aspect Cascade if I hadn't?"
+
+Akkau frowned. "You could not possibly have known that Brightscale might be able to act on that information," he said. "And there is still no guarantee we can."
+
+"Yet you cannot deny the results." Naria chuckled softly at the glower Akkau gave her. "Oh, very well. I can offer more, of course. Here."
+
+She drew her fingers away from her amulet, and Akkau watched with narrowed eyes as threads of mana pulled away—threads that formed quickly into the telltale whorls of a pre-signed magical decree.
+
+"Orstrahl will be terribly unhappy if you were to interfere with their plans to acquire the Golden Sands," she said. "And they have prepared a contingency for just such an eventuality! How strange. Perhaps they thought the loudly-outspoken Headmaster might interfere with their plans to acquire a weapon of war?"
+
+Akkau glared at her. "I would ask that you continue without the jabs."
+
+"Of course, of course." Naria flicked the contract toward Akkau, who caught it instinctively. "As you can see, they plan to issue a decree to cut funding and force their students to withdraw should you interfere in any way, and we all know that would destroy that promise you made."
+
+Akkau bristled, but said nothing. Orstrahl's ability to do that was being somewhat overstated—the King wouldn't be able to issue such a decree without it being magically enforced, and the political ramifications of making an enemy out of the Brightscale Academy would not be nothing.
+
+But whatever they were planning to do with the Golden Sands, it was important enough that the King was willing to risk it. The magical decree he held was real, and so was the signature. A contract like this required the agreement of all the majority of the noble houses, and if it passed, it would be enforced. The only way to stop it was to dissolve the decree, at which point part of its inherent magic would prevent the same decree from being made again.
+
+Hardly a comfort. But the idea of stopping Cale from going through with ending the Cascade didn't sit well with Akkau.
+
+"You are mentioning this because you have an alternative, I assume," Akkau said. He didn't bother suppressing the growl in his voice.
+
+Nor was Naria intimidated by it. "It just so happens that I have acquired the ability to dissolve that decree," she said. "Convenient, isn't it? Though I must request you refrain from asking how I acquired it. An elf must keep her secrets."
+
+"And what do you want in exchange for dissolving it?" Akkau asked, resigned. He was certain he already knew the answer.
+
+"To borrow your little apprentice, of course," Naria said, smiling at him. "It's a fair trade, don't you think? Simply borrowing him for a couple of tasks and returning him after?"
+
+And there it was.
+
+Akkau thought about it for a moment—or more specifically, he pretended to think about it. It was clear enough that this was some sort of trap, though he wasn't sure if it was one of Naria's own or simply a convoluted plan by Orstrahl. There was something they still knew that he didn't, that much he was sure of.
+
+But he also knew things that both Orstrahl and Naria didn't.
+
+More specifically, by this point, he knew Cale Cadwell Cobbs well enough to know exactly what would happen if anyone tried to manipulate him as part of a trap.
+
+"Very well," Akkau said, feigning a low growl of reluctance. "But my apprentice must agree to it, and we will secure this via contract."
+
+"I wouldn't expect anything different," Naria said brightly. She gave him another one of her trademark sweet smiles. "Though all of this only matters if your little apprentice or academy manages to figure out a way to end that Cascade. Perhaps it won't matter at all, hmm?"
+
+"Perhaps," Akkau said slowly. His tail twitched behind him, as if in agitation.
+
+It wasn't. Mostly, it was from suppressing the desire to give her a vicious grin in turn.
+
+Kazza was still... jittery.
+
+Part of it was being in such close proximity to a fragment of the Cascade. No one—no one got this close to the storm and survived. A single blast from the storm would obliterate your mana core by forcibly attuning it to something else, and if that wasn't enough to kill you outright, the sudden loss of magic to protect oneself against a storm certainly did.
+
+Its first appearance had only grazed them, and it still left half their tribe dead or permanently storm-marked.
+
+Yet Cale was holding it in place like it was nothing. It almost looked tame, trapped in that bubble conjured by the human, and if Kazza had never personally encountered it he might have been fooled into thinking it was. He might have thought of it as a tiny fraction of the storm, too meager to do any real harm except perhaps burn down a desk or two.
+
+It was not. The amount of power he felt behind that barrier was unbelievable. Kazza was certain it was enough to obliterate the academy in its entirety, and yet Cale was just chatting with him while holding it in place. It would be one thing if he was straining to keep it contained, but he didn't even glance at it.
+
+What kind of monster was he? He couldn't just be a human, surely. Humans were just... something. They were just there. He couldn't think of a single interesting human he'd met. He couldn't even think of any humans he'd met, which meant they had to be really forgettable.
+
+Although Kazza did pride himself on his memory. It was the reason he'd been able to draw out their entire log of the Aspect Cascade's movements on the chalkboard, the same one that Cale was studying now. It was also how he'd been able to mark the location of every flickerant nest he knew of.
+
+The amount of power being demonstrated here was... it was unbelievable. And Kazza kept expecting some sort of catch—kept expecting Cale to make some kind of demand of the Golden Sands, or to spring some verbal trap covered in honeyed words before he could counter. That was what outsiders did. They wanted to use them.
+
+Cale did no such thing, though. He stared at the chalkboard with a frown. "Are you seeing what I'm seeing?"
+
+"What...?" Kazza asked blankly. They'd never drawn the full route out like this before, now that he thought about it—all their efforts were focused on predicting where it would go next, and that was easy enough. He stared at the board again.
+
+...It still seemed random.
+
+Yet the water elemental girl frowned up at it like it was significant. "It's moving between the nests," she said.
+
+Was it? Kazza stared at what he'd drawn again. The Cascade certainly seemed to cross over the nests frequently, but there were plenty of times where it curved rather than head straight from one to the other. The storm crisscrossed all over the Golden Sands, so surely it was just coincidence? It would have to cross on top of a flickerant nest eventually.
+
+The strange slime-golem creature that was Professor Tarbloom lifted their writing slate. THE NESTS ARE THE FOCAL POINT OF A SPELL ARRAY, they wrote. SUMMONING SPELL? BUT THERE ARE DIFFERENCES. IT FEELS TOO HAPHAZARD.
+
+"That's because it's only a partial summoning spell," Cale muttered. "It's merged with a Life array."
+
+HEALING? Professor Tarbloom seemed puzzled. BUT HEALING SPELLS DO NOT WORK. NOT WELL, ANYWAY.
+
+"Also, why would a storm need to heal?" Flia frowned.
+
+"That's the question, isn't it?" Cale muttered. "...hey, Professor? You said those auric amplifiers aren't worth much, right?"
+
+THEY ARE NOT. SOME OF MY CRITTERS HELP ME MAKE SPARES!
+
+Cale paused. "Okay. Questions about the labor rights of magical critters later. Tell me if you think this will work..."
+
+Kazza watched as Cale began muttering something about compounded amplification. As far as he could tell, the human wanted to amplify the intent found in a fraction of the storm. But why? He didn't even understand how any of this was even relevant.
+
+The storm moving in the pattern of a spell array was strange, certainly, but it wasn't like it could actually cast a spell. Even if an array was drawn, it needed the intent and will of a mage to actually activate it. Without that, it would just be a picture on the ground. Errant spells would be cast at random all the time if not for this fact, because it wasn't that difficult for nature to accidentally recreate some of the simpler spell arrays.
+
+Besides, Kazza had faced the Aspect Cascade before. He'd never been in the thick of it, of course. He'd be dead if he had. But he'd come close to the edges of the storm, had felt its wind buffeting against him and its lightning crackle near his scales. Like all beastfolk, he was sensitive to intent, and he had never...
+
+...well, that wasn't true, was it? Kazza frowned, thinking back. He'd felt something back then, but it was easy to mix that up with his own emotions when he'd been nearly caught in the storm himself. Even if he caught whispers of something, his own fear had overpowered it.
+
+Kazza glanced at Cale. The human was still talking to the water elemental and the professor, muttering something about amplification. But did they need to amplfiy anything? If he got close enough, he could just feel it for himself.
+
+Had he lived by the Aspect Cascade for two years and missed something so crucial this entire time?
+
+Slowly, Kazza approached the storm still held back by Cale's barrier. He could feel the will imbued into that strange, prismatic mana—it was hard to believe that this supposedly contained every aspect, but it did explain why the Cascade couldn't affect it. If he extended his senses into it, he could feel its intent. Protection, containment, seal.
+
+If he extended his senses beyond it...
+
+desperationragepainhopepainhealwholewholeWHOLE
+
+Kazza staggered back and collapsed to the floor, his head throbbing. His eyes were wide with shock. "What... what was that?"
+
+Cale shot him a sharp glance. "You felt something?" he asked, rushing over to help him up. "What did you feel?"
+
+"I don't... I don't know," Kazza said, still dizzy. "I don't know if I can put it into words, it feels—"
+
+Scared? Why would the storm be scared? It had killed so many of his kin.
+
+"I think it feels scared," Kazza whispered. "But that doesn't make any sense."
+
+Cale's eyes darkened. "...It might," he said. "Tarbloom, help me set up those amplifiers. I need to check what it's feeling for myself."

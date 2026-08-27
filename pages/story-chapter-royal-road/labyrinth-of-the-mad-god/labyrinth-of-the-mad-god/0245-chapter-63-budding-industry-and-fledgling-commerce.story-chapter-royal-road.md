@@ -1,0 +1,109 @@
+---
+id: 015cbd78-c721-5f0a-ab41-398b4cf56b0c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63: Budding Industry and Fledgling Commerce"
+slug: 0245-chapter-63-budding-industry-and-fledgling-commerce
+partOf: labyrinth-of-the-mad-god
+position: 245
+ownLength: 2097
+unit: words
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2741270/chapter-63-budding-industry-and-fledgling-commerce"
+royalRoadId: "2741270"
+---
+
+An hour later, Nick had finished processing the rest of the committee’s requests, expanding Aurora’s industrial, military, and educational infrastructure.
+
+The leader of Aurora has purchased:
+
+5 General-Purpose Classrooms (Common).
+
+1 Tailor’s Station (Common).
+
+1 Weaver’s Station (Common).
+
+1 Woodworking Station (Common).
+
+1 Archery Range (Uncommon).
+
+1 Glass Factory and Adjoining Glassblowing Studio (Uncommon).
+
+1 Training Hall (Uncommon).
+
+1 Large Public Restroom (Uncommon+).
+
+The Common stations didn’t offer the high capacity and specialized tools provided by Uncommon buildings, but they were sufficient to get a range of small-scale industries up and running. The crafters were experimenting with several plants the scouts had found growing in the badlands, looking for something to make cloth to produce everything from curtains to clothing.
+
+The glass factory would let Aurora manufacture windows, and the adjoining studio would let them produce everyday items like cups and plates. The committee planned to add a foundry and alchemist station before long, but that would have to wait until they found the requisite raw materials.
+
+The classrooms had been one of the most popular requests Elizabeth had received over the last few days. Nick’s people were eager to teach each other everything they had learned about advancing their abilities, manipulating mana and stamina, getting the most out of their skills, and dozens more subjects besides.
+
+He placed the classrooms in a half-circle along a scenic stretch of lakeshore, with a central courtyard and some benches in the middle. At Liz’s request, he added more exterior lights across various parts of town, which turned out not to be magic after all. Instead, they were made of a substance that glowed in the dark and recharged during the day.
+
+The Archery Range and Training Hall were designed for warriors with superhuman abilities. Kenji was excited to have them, since the facilities would let people spar and practice using their powers in an environment that wouldn’t be destroyed in the process. Nick planned to check them out a little later, but he had other plans for the rest of his day.
+
+After a vigorous debate, the committee agreed to spend 200 City Points on a public bathroom that drew water from one of the wells and transformed waste into soil. It was something they hoped to eventually make on their own. However, it would have created a disgusting problem if they didn’t deal with it now, and the facility would serve as a template when replicating the design from scratch. The System had destinated the structure as Uncommon+, which he assumed indicated the building was magical, but not powerful enough to be listed as Rare.
+
+For regular waste, the building team was creating compost piles the old-fashioned way. They were located on the outskirts of the industrial district with some fences to keep scavengers out. Since most modern materials couldn’t be manufactured right now, Aurora intended to repair or repurpose any refuse that wasn’t organic.
+
+When they were done for the day, the committee went their separate ways and Nick followed Kerry over to the area that was slated to become the city’s first commercial district. There were already people trading wares from simple stalls and the like, making it one of the busiest parts of town. He bid good afternoon to the merchants and their customers—all of whom Kerry knew well— then the duo got down to business, starting with the token exchange.
+
+Nick hadn’t spent much time looking at the token system included in his City Management Menu. After breaking for lunch, they spent the next few hours discussing the details. It turned out that he could create as many Contribution Tokens as he wanted, and the System would issue them automatically whenever Aurora’s residents completed a range of tasks. It was an aspect of the Rebuilding Civilization quest that would continue past the year of protection, as long as he established an official exchange ahead of time.
+
+“I’ve already worked out the details with Elizabeth,” Kerry explained. “At least for our first iteration of the program. She wants to use the token system to incentivize important tasks and reward everyone whose efforts are helping the settlement. A way to influence people’s behavior without telling them what to do.”
+
+Nick looked over the list, opened a submenu, and then set up the payment structure Liz had suggested, including backpay for everyone who had been working hard since the moment Aurora was founded. Right now, he was the only one who could do it, but he planned to leave Kerry in charge the moment the settlement reached the next tier.
+
+That brought their conversation back to the Token Exchange. “Right now, I have to approve each transaction by hand,” he summarized as he dove into the details. “But if I place a building and designate it as an official exchange, the System will keep records and handle the transfer of tokens afterword.”
+
+“That’s annoying.” Kerry sighed. “But manageable in the short term. I’ll record all the sales, and you can come by every day or two and approve them. We don’t have much to offer yet anyway, although Liz is coordinating with several different teams to come up with a range of perks for our citizens to spend token on, in addition to physical goods.
+
+“To get the ball rolling, I need a sizable storefront—ideally next to a smaller building I can use as my personal shop so I can manage both at once. For now, I want to use the exchange to purchase extra gear and consumables people don’t need and redistribute them to people who do. Some of our elites have collected quite a few pieces they aren’t using that our less-experienced members would benefit from.”
+
+“That makes sense,” Nick said. “I appreciate you handling the details, Kerry. Make sure to pay yourself something fair for all the hard work you’ve put into this. Now, let’s get those buildings placed. Where we’re finished, I’ll go through my inventory and donate everything I don’t need to help get the exchange up and running.”
+
+After asking Stan to join them, he placed five medium-sized buildings along the lakeshore, near the heart of what would soon be the commercial quarter of the inner district. The shops were insulated, had big windows, and included a sales counter, some shelves, and pair of display tables. It was a solid start, and the merchants could finish furnishing their stores by hand.
+
+There wasn’t a Token Exchange included in his list of buildings, but there was an Uncommon storefront that met Kerry’s specifications. Nick even found a way to customize the name for the city-wide announcement.
+
+The leader of Aurora has purchased:
+
+5 Shops (Common).
+
+1 Large Shop [Token Exchange] (Uncommon).
+
+Today’s purchases took Aurora down to five Common and three Uncommon vouchers. He wasn’t worried, since it looked like the building team would be able to handle anything he could spend Commons on, and he expected his people to earn more Uncommon vouchers soon.
+
+They were already generating a constant influx of City Points to purchase more magical buildings and domain-wide effects, and there should be plenty left over to claim any regional resources they discovered. While he mulled the matter over, he followed Kerry inside the building.
+
+The storefront housing the exchange was an elegant, sprawling structure that was big enough to meet the settlement’s needs for the foreseeable future. Kerry was poking through every nook and cranny with a grin plastered on her face, deciding how she wanted to organize the various goods the exchange would offer. On that note, Nick went through his magic bag and removed all the equipment he didn’t need.
+
+He had picked up a decent collection of weapons and armor while climbing the tower, and it felt good to get the gear he didn’t need into the hands of people who did. It freed up quite a bit of space in his dimensional storage for collecting resources and the like, so he got something out of it too. Kerry had him pile everything in the middle of the store and was busy organizing the lot when he said goodbye and walked out of the building.
+
+Nick was heading over to the mess hall to grab a snack when he saw something that made him stop dead in his track. His eyes widened with astonishment when he noticed two people sparring nearby. Such contests were an everyday occurrence in a city of elites, but the nature of this duel was unlike anything he’d seen before.
+
+The combatants were standing ten feet apart with intense concentration twisting their features. In the air between them, a pair of wooden swords was trading a flurry of blows, trying to slip past the other weapon to attack the person behind.
+
+It would have been moderately interesting if they were using magic he wasn’t familiar with, but this was even better. When Nick switched on his mage sight, he couldn’t sense any mana emanating from their cores or surrounding the blades. Instead, the weapons were animated by a form of energy that felt familiar but was hard to perceive.
+
+He let out a low whistle when he put the pieces together.
+
+Holy shit. They are wielding those swords with Psi. I had no idea psychic energy could be used that way. The revelation sent the gears in his head whirling. Psychokinesis has a ton of applications, both on and off the battlefield. Just being able to manipulate objects at range will be incredibly useful.
+
+The attacks were laughably weak, even by the standards of a low-level warrior, but Nick was certain this was just a sneak preview of what was to come—an early prototype in what would one day be a fantastic addition to humanity’s toolkit. He suspected that before long, Psi-based abilities would be just as powerful as magic and combat arts.
+
+His plate was full right now, but he made a mental note to talk to the combatants later and learn more about their technique. He was focused on perfecting his mana manipulation right now, and stamina was next on his list, but he planned to deepen his understanding of Psi the moment he had some capacity to spare.
+
+I should improve Predator Domain first, learn how to actively scan for minds in my environment next, then work on object manipulation. Scouting as a mental projection will be great too, but I’ll let the people who plan to specialize in Psi figure out how to do it safely before I try it again myself.
+
+After running by the mess hall, Nick spent the rest of the day sparring with anyone who had a few minutes to spare. He decided to train intensively for two more days and then take the Sword-skill test. He was glad he hadn’t rushed into it but was looking forward to giving the trial a shot. Hopefully, the experience would offer some insights that would help him prepare for his Evasion test, which was coming up soon, along with several other skills that weren’t far behind.
+
+He started off with Ella, who was a gifted instructor when she wasn’t trying to goad him into going all-out. Over the next half hour, she built on the basics Rita had drilled into him, teaching him how to deal with a variety of weapons, including staffs, hammers, axes, and polearms.
+
+When their session was over, Kenji took his turn, demonstrating a variety of techniques that spear-wielders use and explaining how to counter each. He also drilled Nick in tactics, helping him come up with plans to deal with various situations and different types of opponents. In exchange, Nick went over his duel with the mage, including how to sense what kind of spell was coming by analyzing the mana in the air.
+
+After draining his flask to top off his stamina, he noticed that his elixir was refilling faster than ever, which had to be a result of the changes the Earth had undergone, although he wasn’t clear on the details.
+
+For his last match of the day, he asked Veronica and Devin to attack him at the same time, requesting that V use her crossbows in addition to her claws. It was excellent training in fighting multiple opponents at once and dealing with ranged attacks while defending himself in melee at the same time.
+
+After bidding his friends good evening, he worked his katas while watching the sunset then got in a lengthy conditioning session inside the hollow mesa. Nick ended his day with a hearty meal and a hot bath, dreaming of buildings and blades.

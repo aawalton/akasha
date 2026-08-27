@@ -1,0 +1,101 @@
+---
+id: cb0c4750-1916-590c-860a-c0bdcd7f5da8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47: Alpha Strike"
+slug: 0328-chapter-47-alpha-strike
+partOf: labyrinth-of-the-mad-god
+position: 328
+ownLength: 2091
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3690503/chapter-47-alpha-strike"
+royalRoadId: "3690503"
+---
+
+As he prepared for the conflict to come, Nick took stock of the party’s consumables, which would be vital to winning this fight. He hoped they wouldn’t use them all, but they couldn’t afford to hold back against an opponent as powerful as Xuthu.
+
+Two superior health, stamina, and antidote potions. Nine low-grade health and mana potions and ten stamina. Two potions of heroism and steelskin. Two energy barrier charms and two physical. Two glue bombs, six high-power flashbangs, my Elixir of Restoration, and a fully charged Wand of Force.
+
+Time plays strange tricks in the moment before a battle to the death. Each second crawled by slower than the last until a heads-up display winked into existence in front of Nick’s face.
+
+Kenji’s Tactical Command could make anything appear before his allies’ eyes—everything from words, to maps, to animated arrows and symbols highlighting threats, identifying openings, or showing them where to move. The warrior had been training diligently with his leadership magic, and by this point, he could send separate images to every member of the team.
+
+First, an outline of each party member wavered into existence, letting them know where their allies were, even if their bodies were obscured by walls, pillars, or concealment magic. Next, Kenji did the same thing for Xuthu, revealing the dreadbeast’s position regardless of what was in the way.
+
+“Begin your final preparations.” Nick read the words and they faded away. He switched on Blend and his passive powers first, since they were less likely to draw attention, beginning with Force Acceleration. Force mana flowed out from his core, coating his body in a layer of magic that enhanced the momentum of every move he made.
+
+On the balcony above, shadows congealed around Bandit’s shoulders as the lemur activated Shadow Mantle. Nick could sense the emanations from Kenji’s Enhance Armor and Lurk’s Regeneration too. While he waited for the next signal, he checked his belt loops and pouches, making sure he knew exactly where the consumables he had removed from his pack were stored.
+
+When the word “Auras” appeared, Nick cast Force Armor, forming a protective layer of transparent energy around every member of the team. Kenji added Rejuvenation to the mix, which would help restore their missing health and stamina once the battle began to supplement their potions.
+
+By now, Nick’s heart was pounding despite Arctic Clarity. Xuthu was still asleep, but there was a good chance that it would sense their attacks coming online.
+
+“Prepare yourselves and get into position. Prime your alpha strike and initiate on my mark.”
+
+With that, he began casting. He conjured three Mana Darts and sent them whirling around his head while charging two Piercing Rays. By now, his mana control was good enough that he didn’t have to fire the rays right away, and he gripped Blightbane’s hilt while preparing to unleash Sonic Slice and all five spells at once.
+
+He felt Fritz’s reassurance flowing through their bond—glad to know the king was scanning the battlefield for surprises. Nick wouldn’t be summoning his mentor this time, since the dreadbeast’s magic could harm the warrior’s soul with its draining attacks. However, the sword was designed to withstand them, and Fritz would be providing insights gleaned from centuries of combat experience.
+
+At the same time, Kenji climbed onto the balcony closest to the doorway and got ready to jump, while Lurk moved from an interior hallway to the balcony above the dais containing the Xuthu’s nest. Bandit was in the middle of conjuring the biggest ball of Shadow Flame Nick had ever seen, and Kenji had switched on Bulwark, forming a protective dome around his position that appeared jet black from the far side.
+
+Nick tightened his grip on the Legendary sword’s hilt as a drop of sweat dripped off his chin. As that droplet fell toward the stone tiles below, Xuthu opened its eyes. Before the scorpion had time to move, his sweat splattered, Kenji gave the order to fire, and all hell broke loose.
+
+Nick had been planning this moment for days, pondering how to maximize their odds of dealing significant damage during this critical stage of the fight. It would be the only chance they had to unleash their strongest powers at the same time, and they needed to make it count.
+
+Back when he was a professional gamer, he had called this strategy an alpha strike—a way to secure a vital advantage over a superior foe and rebalance the scales in the opening move. It involved unleashing every power at his team’s command and timing them to land at the same time, maximizing their odds of penetrating a potent defense and inflicting a critical wound.
+
+In this case, Sonic Slice and Piercing Ray were so fast that he needed to let them loose last. He white-knuckled Blightbane’s hilt and sent his Mana Darts streaking for the Storm Lord’s position, just as Bandit fired an immense sphere of Shadow Flame from one of the side balconies.
+
+Meanwhile, Lurk kicked down the guardrail the party had detached the day before. The move left her line of fire clear for an explosive tail strike fortified by force mana, launching a boulder at the scorpion’s back.
+
+Kenji didn’t have a ranged attack, so he flung two high-power flashbangs back-to-back, poised to black out the team’s vision with Command a split-second before they detonated to protect their eyes from the flash.
+
+All of this had taken place within the span of a breath. In that time, Xuthu had risen to its feet while spinning to face Nick, who had been standing in the dreadbeast’s field of view. He drew Blightbane in a single motion, combining his Half-Length Scabbard, Heavy Blow, and Force Acceleration to execute a slash that made the speed of sound seem slow.
+
+He switched off Force Acceleration while sending his Piercing Rays streaking forth, causing the sword to come to a controlled stop as an energy blade erupted from the edge that was followed by a sonic boom.
+
+The dreadbeast monarch was a fearsome foe—more powerful than the entire party combined. However, its Mind wasn’t as advanced as Nick’s, and it couldn’t track every attack coming its way. It was, however, insanely fast. Xuthu raised both claws in front of its face in time to block Sonic Slice. Flakes of golden chitin went flying as the attack gouged its natural armor, but it wasn’t enough to break through.
+
+The other attacks landed a fraction of a second later, obscuring the Storm Lord in a blanket of Shadow Flame as the first flashbang detonated, with the second following a heartbeat behind. The beast screamed as it was struck by six deadly spells and a streaking boulder at once.
+
+Nick was getting ready to take his next shot, but before he had time to make his move, a gigantic body leapt from the dais and came skittering his way.
+
+Green lightning crackled beneath the blanket of Shadow Flame, absorbing the magic to reveal the dreadbeast’s furious form. Its magic was draining the mana powering Bandit’s spell, along with Nick’s Piercing Rays, which had gouged the scorpion’s carapace but were consumed before they reached the soft tissue below.
+
+His Mana Darts held out longer. Both spells tried to devour the other, but Xuthu was Tier 2 and dozens of levels above Nick’s own, which meant its lightning was stronger than his darts. However, something about the contest—each energy trying to dominate the other and take control of the battle—resonated with something deep within his soul.
+
+He was agonizingly close to a breakthrough, but he couldn’t ponder it with the enraged dreadbeast barreling toward him with the promise of murder clear in every crook of its features.
+
+The Storm Lord opened with a move he wasn’t expecting. While charging at full speed, the dreadbeast drew back one claw and thrust with the power of a battering ram. There was no way he could block or deflect it, so he raised Blightbane to catch one edge and shoved himself back, evading the blow with millimeters to spare.
+
+He moved out of the way of the tip, but the creature spread its claw wide as it came to a skidding stop, sending Nick stumbling to regain his footing. The creature attacked with its second claw, whipping around in a low arc intended to shear his legs off at the knees.
+
+By this point, he had realized the Storm Lord didn’t fight like a scorpion at all. Its claws were hinged like a pair of scissors—designed to slice and impale rather than pinch and grab. He managed to leap above the swipe, but Xuthu had anticipated the move.
+
+Its lightning-wreathed tail was poised to thrust. There wasn’t enough time to get out of the way.
+
+He would have died in that moment if a dinosaur-powered boulder hadn’t slammed into the scorpion’s head, knocking it off-balance and buying him a critical second to recover. The move sapped some power from the strike the followed, but it didn’t stop the dreadbeast from aiming at the center of Nick’s chest.
+
+It still would have impaled him if it landed cleanly, but that wasn’t what happened next.
+
+Instead, the arm-long barb encountered Arcane Shield, which he had set at an angle to deflect the appendage rather than blocking it head-on. A second platform materialized below his boots. He backflipped off it as the dreadbeast shattered the first barrier with its claws and sent a bolt of dread lightning arcing his way.
+
+He didn’t want to reveal his immunity yet, so he threw up another barrier. As they had hoped, the energy-draining magic was indiscriminate, eating the spell’s mana instead of banking around.
+
+At that point, the dreadbeast decided to close the distance and end him in melee combat. It charged for his position as he backpaddled, using the pillars for cover. He tried his best to keep Xuthu’s focus on him without being torn asunder for his trouble.
+
+Lurk and Bandit kept firing, distracting the lethal being while Nick fought for his life. Concealed within Bulwark’s black dome, Kenji had leapt to the ground to block the door. His spear was propped up beside him, and he was flinging stones at the scorpion’s eyes to serve as a minor distraction.
+
+Nick knew the strategist was incorporating everything they’d learned from their alpha strike and the exchange that followed into his plan. He was glad someone else was up to the task because he couldn’t afford to divide his attention right now; not when engaging an opponent that required every scrap of his skill to endure one insanely powerful blow after the next.
+
+He trusted Kenji to update him as needed as his world narrowed to the dreadbeast in front of him, leaning on Arctic Clarity and Force Acceleration for everything he was worth as he ducked beneath a scissor claw that would have bisected him at the waist, spun out of reach of a second strike second coming in low, and leaned out of the way of a tail lunge that obliterated one of the pillars lining the room, which weren’t nearly as robust as the structure’s walls and ceiling.
+
+There wasn’t to cast Piercing Ray, even with its recent upgrades, so he conjured an occasional Mana Dart to supplement his swordplay. He kept two spells circling around his head, using them as shields to absorb the dread lightning.
+
+That was when Sixth Sense warned him of a tail strike coming from straight above. He flipped his sword, caught the flat with his left hand for reinforcement, and blocked the barb with the other side, driving him to his knees beneath the force of the impact.
+
+Xuthu tried to trample him, sending Nick rolling along the stones. A boulder from Lurk, a flame lance from Bandit, and a flashbang from Kenji struck Xuthu from three sides at once, distracting it long enough to get out from under the dreadbeast and resume his fighting stance.
+
+He was too close to dodge the next claw and brought up his Caster’s Buckler instead, activating Force Riposte while using Strive for Perfection to reduce the impact. Riposte’s tendrils sought to erase the attack’s momentum while the dread lightning coursing across the scorpion’s exoskeleton consumed the mana powering the spell
+
+In that exquisite a moment of opposition, an elusive epiphany that had been growing throughout the battle almost came to fruition… before the claw overcame Nick’s ability, plowed into his body like a wrecking ball, and sent him flying into the wall.

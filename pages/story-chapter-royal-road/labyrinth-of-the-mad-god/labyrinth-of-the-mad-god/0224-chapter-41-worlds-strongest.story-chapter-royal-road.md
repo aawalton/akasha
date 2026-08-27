@@ -1,0 +1,107 @@
+---
+id: e516e2c3-fe86-5641-9143-ffc9f4839d47
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41: World’s Strongest"
+slug: 0224-chapter-41-worlds-strongest
+partOf: labyrinth-of-the-mad-god
+position: 224
+ownLength: 1854
+unit: words
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2608137/chapter-41-worlds-strongest"
+royalRoadId: "2608137"
+---
+
+Nick cut down the slicers while Sarah and Bret took out a flock of stingers attacking from above.
+
+In the periphery of his vision, Devin was in the middle of a brutal battle with a basher. He was ready to conjure another Mana Dart to help his friend the moment an opening appeared, but the blond warrior didn’t need his assistance.
+
+Devin waited for the elite beast to attack with its tail, judged the angle, and then swung his axe while leaning out of the way of the spike-coated appendage. He dodged the living wrecking ball as his weapon caught the bug’s forelimb, cracking its carapace but not penetrating deep.
+
+That changed when Blast Striking kicked in to create an explosion at the point of contact—shattering the chitin and cleaving the limb from the beast’s body. It was a serious wound, but the basher didn’t pull back. It screamed while pressing the attack, forcing Devin on the defensive.
+
+He cast Blazing Armor during the exchange, causing a thick layer of fiery mana to coalesce along the exterior of his armor. It was hot enough to warp the air around him, but with his Fire Resistance passive and Magma Warrior class trait, the man was immune to the effects of his own powers. The crimson magic bubbled and churned like it was made of lava—Devin’s class living up to its name in every sense of the words.
+
+In addition to bolstering his defense, Blazing Armor would inflict serious damage to anything foolish enough to strike the man with its own body. A fact the basher became acutely aware of when it ducked beneath his axe and struck with its tail in a flash.
+
+The beast’s spike-ball sank into the lavalike mana, sizzling as it burst into flame. Thanks to an assist from Paul’s Toughness-reducing magic, it couldn’t withstand the heat, and the end of its tail was reduced to cinders in two seconds flat.
+
+To the creature’s credit, it was brave enough to lunge for his throat despite the devastating wound. However, Devin had anticipated the move and launched a counterattack, smacking the basher’s head with a swipe of his battleaxe. It wasn’t a powerful hit, but it deflected its jaws while providing enough energy for Flashfire Pulse to kick in.
+
+The unusual ability had to absorb enough hits before it could be used, at which point, the warrior could release a potent surge of flame in any direction he chose. He grinned as a torrent of blaze erupted from his body and washed over the insect, turning it into a charcoaled corpse in the blink of an eye.
+
+Nick realized his friend’s magic was considerably stronger than before and the clockwork framework around his axe was emitting a potent aura. Ella’s gift had offered Devin a considerable upgrade, just when Team Earth needed it most.
+
+Everything from the appearance of the first basher until now had taken place in less than 90 seconds, helping Nick realize just how much information he could process with a Mind over five times higher than it had been back in his old life.
+
+Everyone besides Ella and V converged on the last basher, which had driven Mirium and Laura against the canyon wall, although they’d managed to avoid taking any serious wounds.
+
+While Nick raced to back up the mages, he watched as Ella made her move.
+
+Now that the boss’s army had been fully deployed, the wedge-shaped plates shielding its head closed most of the way and its tongue emerged through the center—a flexible length of coffee-colored chitin with blades protruding along the sides.
+
+The wurm’s tongue was a tool the beast used to feed, but also its primary weapon. Its massive body was incredibly durable but lacked the sharp surfaces most predators used to hunt and kill. Instead, its tongue served in place of claws, horns, and teeth.
+
+The appendage was wider than Nick’s outstretched arms, over fifty feet long, and flexible enough to curl around itself like a snake—a piece of living armor that looked even tougher than the beast’s hide.
+
+Size Up had been screaming “danger!” ever since the wurm surfaced, but when he contemplated engaging its tongue, the skill’s warning went up another octave. Yea… let’s not get hit by that.
+
+Ella was supposed to focus on evasion and keep the wurm distracted until everyone was in position to attack it at once, but that wasn’t what happened.
+
+She grinned and went charging right in, obtaining the boss’s undivided attention as she challenged the titanic creature alone.
+
+Nick could hear Kenji swearing from clear across the battlefield. Ella cackled as she raised her clockwork staff and stepped into range of the wurm’s tongue. Holy shit. She’s either crazy or way more powerful than I realized. Maybe a little of both.
+
+For an appendage with so much mass, the wurm’s tongue was lightning fast. Kenji’s investigation had revealed that it was capable of thrusting, slashing, whipping, and bashing. Taking a direct hit would break every bone in his body and grind his organs to paste, and even a glancing blow would shred his flesh causing some serious damage.
+
+If that wasn’t enough to deal with, the tip was honed to a razored point of magically-reinforced chitin. The living weapon could compress itself, launch like a spring, and transfer all that force into a single point. Nick doubted there was anyone on Earth that could take that attack and live to tell the tale.
+
+Thus, he was shocked to his marrow when Ella came to a skidding stop with her gear-staff at the ready, challenging the boss to take its best shot. It was hard to read the expression of a creature that didn’t have a face, but the wurm seemed shocked by the inexplicable occurrence.
+
+However, the big bastard was happy to accept her invitation. It pulled its tongue to one side and let loose with a whiplike strike that was so quick it created a ripping roar as it tore through the air.
+
+Ella was one of the fastest people on Team Earth and could have moved out of the way in time, but that wasn’t the approach she chose.
+
+Instead, Ella Dimkey—Kenji’s senior and the first human to evolve to Grade-D—met the Armada Wurm head-on in a jaw-dropping display of raw power.
+
+During her approach, mana had begun flowing out from her core to shroud her figure. The woman only knew one spell—a form of gravity magic that increased her mass—but she had advanced it to rank 4 and her artifact staff enhanced the spell’s power to lethal new heights.
+
+And that was only half the story.
+
+Nick was still learning to sense the stamina flowing in his body and had never perceived it moving within another person before. But Ella had so much vital energy that it was visible to the naked eye. Stamina infused every cell with explosive power, then extended beyond the boundary of her skin until her profile was outlined in a coruscating mantle of martial might.
+
+As the wurm’s tongue came lashing for the warrior with enough force to level a skyscraper, Ella gathered every scrap of Strength at her command, adjusted her stance, and swung the gear-staff at the approaching appendage while activating a combat art.
+
+Nick knew the woman was a true elite and Kenji considered her to be his secret weapon. Even still, he was convinced she was about to die and in no way prepared for what happened next.
+
+With an impact that rattled the canyon and knocked him to his knees, Ella’s staff met the wurm’s tongue in a direct contest of force.
+
+His jaw hit the floor when instead of swatting her like a fly, the chitinous appendage was repelled by her attack.
+
+The worm’s tongue rocketed back to strike the ravine’s wall, causing one of the siege engines to topple over the edge. No fucking way.
+
+When Ella unleashed her might, Kenji’s stream of profanity cut off, replaced by manic laughter. Nick understood where the man was coming from, since he was just as astonished himself. It was like watching someone meet a runaway freight train head-on and divert it with their bare hands—something he never would have believed was possible until seeing it for himself.
+
+The move had cost the redheaded warrior a decent chunk of her energetic reserves, but while Ella’s mana was limited, her stamina regeneration was off the charts, refilling her well at an incredible rate.
+
+The wurm was flabbergasted by this turn of events. It turned to face the warrior as if seeing her for the first time, struggling to process the remarkable turn of events.
+
+Of course, Ella had no intention of standing still while waiting for the beast to try its luck again. She used the opportunity free her legs from the ice, which had been driven all the way down to her knees by the cataclysmic exchange, then went on the offensive.
+
+The woman shot forward in a streaking blur, closing the distance in a leather-clad flash as she let loose with everything she had.
+
+Powerful blows fell upon the wurm like rain, forcing it to use its tongue to defend itself instead of attacking the rest of her team. None of Ella’s moves were as strong as that first strike, but any of them would have slain a lesser beast in a single hit.
+
+Her staff lacked the penetrative power and antimagic properties of Blightbane unleashing a Sonic Slice, but they boasted astonishing impetus. Witnessing the woman’s gravity-enhanced swings was like watching a force of nature personified.
+
+On top of her overwhelming Strength and endless well of stamina, she possessed one advantage that Nick was sorely lacking—a true mastery of martial arts combined with decades of combat experience. Every move the centenarian made displayed a perfect awareness of her environment, her enemy, and the position of her body. There wasn’t the slightest hint of hesitation or a millimeter of wasted movement as she battled the Capital Boss to a standstill all by herself.
+
+When the wurm tried to switch targets, Ella either blocked the attack or struck its head, forcing it to defend itself. Her gravity spell was crude, even by Nick’s standards. All the magic did was increase her mass, but combined with her insane power and awe-inspiring combat prowess, it enabled her to fight-toe-to-toe against opponents that were orders of magnitude bigger than herself.
+
+While she wasn’t doing much damage to the behemoth beast, she was bruising it, and far more critically, keeping its tongue away from the rest of the party.
+
+Nick shook his head to clear his mind as he worked with Bret to eviscerate the final basher—immensely glad that Team Earth numbered Ella among its ranks.
+
+He waited until the bug was distracted, then whipped out his wand and fired. The cone of force picked the insect up and slammed it against the rocky wall, stunning it long enough for the shadow-wielding warrior to claim its head.
+
+With that, his party spread out and surrounded the Capital Boss—ready and eager to bring the big bad down.

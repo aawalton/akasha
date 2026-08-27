@@ -1,0 +1,209 @@
+---
+id: 742a7268-1339-5fb3-8708-c6c8babc6455
+page-type-slug: story-chapter-royal-road
+title: "69 — Book 2, Chapter 17 — Magical Critters, Pt 1"
+slug: 0069-69-book-2-chapter-17-magical-critters-pt-1
+partOf: just-add-mana
+position: 69
+ownLength: 3842
+unit: words
+ownProgress: 3842
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2818158/69-book-2-chapter-17-magical-critters-pt-1"
+royalRoadId: "2818158"
+markedReadAt: "2026-06-29T18:49:59.921Z"
+---
+
+Cale thought in retrospect that the class specifically using the word critters—as opposed to beasts, creatures, monsters, or any of the other words more commonly used to describe the mana-twisted species that roamed the Great Realms—should have been a sign as to what its professor would be like. He hadn't really thought too much on the matter the previous night, mostly because he was tired and had dropped straight off into a dreamless sleep.
+
+Now, though, he was forced to face reality: he had absolutely no idea who or what this professor was, but he absolutely loved them. And was possibly in love with them, depending. Metaphorically.
+
+"Cale," Flia said, making an exasperated, slightly disgruntled noise. "Can you please stop staring at our professor like that?"
+
+"But look at them!" Cale whispered back. "They're so friend-shaped!"
+
+"I have no idea what that means," Flia said. "But this is my favorite class and I'd really like it if you didn't get me in trouble with the professor, okay? Also, we still need to talk about the thing after this."
+
+"The thing?" Cale gave her a blank look, and then when she glared at him, slowly nodded. "Right. The thing."
+
+"...You have no idea what it is, do you."
+
+"Of course I do," Cale said. He thought for another moment, then brightened. "Oh! The thing with the Gift. I knew what you were talking about this whole time."
+
+Flia rolled her eyes and turned away to hide her amusement, though Cale still caught her smirking before she began rummaging through her satchel. Their class hadn't actually started yet—there were still students filtering in through the door, and their professor was busy setting up what appeared to be some sort of minor teleportation array—but there was now a set of instructions written on the chalkboard, and Flia was evidently wasting no time in getting everything set up.
+
+Cale, on the other hand, eyed the professor with interest. They were some sort of construct, but they lacked the definition common to elementals and the more deliberate design typical of golems. Instead, they appeared to be some sort of living blob consisting mostly of black slime and vibrant moss, with a few flowers growing from their head and back for good measure.
+
+On top of that, they were expressive in an entirely involuntary way. Cale had never seen anyone whose mana responded so naturally to everything they were doing, and as far as he could tell, it was an entirely subconscious thing. Their mana coalesced into a simplified version of a facial expression, complete with yellow eyes furrowed together and a tongue sticking out in concentration as they completed their spell array.
+
+A spell array that was comically small compared to their too-large arms. Technically, the same could be said for their hat, which Cale decided was instantly endearing.
+
+Flia was probably right in that he needed to stop staring at the professor, though. Cale gathered himself, then went to read through the instructions written on the board instead.
+
+Greetings! it started. You may know me as Professor Tarbloom. Or you may not, in which case I am happy to introduce myself. To forestall any questions for my newer students, I am what is known as a differentiated summon—that is, I was once a summoned construct bound to a powerful mage, but am now an independent being with my own will.
+
+Huh. Cale nodded to himself. That explained Tarbloom's unique appearance, at least. Temporary construct-summoning spells were almost always unique, varying according to the mage that created the spell. And while it was rare, on occasion, those constructs could later develop both sapience and independence. The more powerful the spell, the more likely this would happen, although the construct becoming differentiated was...
+
+Well, it was usually a violent process. For a summon to fully separate themselves from the mage that summoned them, they needed to permanently bind to themselves a portion of the mage's power. And very few mages, of course, were willing to allow this.
+
+Probably the reason Tarbloom didn't elaborate too much on that point. Instead, they moved quickly on from the point.
+
+While verbal magic does allow me to speak, I find this rather uncomfortable and far prefer to write. I will use a small mana-pulse to get your attention if needed, so please look up at the board and check for new instructions whenever that happens! This also applies when I need to speak to you personally—I have a small personal slate I use for such conversations.
+
+Telepathy is an acceptable alternative, but I have been informed most of my students find this uncomfortable. If you are comfortable with mind links, please find the telepathy consent form included in your desks. (This is a joke! I have been informed that I must also clarify when I am making jokes.)
+
+That seemed reasonable. Verbal magic was a bit of an oddity, anyway; most basic acoustic spells used the caster's body as a medium to produce sounds, which Cale could only imagine would be incredibly disconcerting for more gelatinous lifeforms like Tarbloom.
+
+Well, no, he didn't have to imagine it. He'd been to at least one slime-ruled realm where it was something of an underground sport, but given the state of the slimes afterward he was pretty sure they were giving themselves the magical equivalent of a concussion.
+
+"I know they're joking, but do you think Tarbloom would actually accept a mind link?" Cale whispered to Flia. "I've been to a bunch of realms where pretty much everyone is telepathic, so I'm more or less used to it."
+
+Flia blinked and stared at him. "Is that why you're so shameless all the time?"
+
+Cale paused at the thought. "Huh. Is it?" he remarked. "Maybe. Honestly being in a telepathic society for more than an hour is enough to scrub any sense of shame from your soul."
+
+"This explains so much about you," Flia muttered while Cale basked in this moment of self-revelation. "And for the record, I have no idea. Shouldn't you be setting your desk up?"
+
+"I'm not done reading," Cale said. Professor Tarbloom had managed to fit a lot onto that chalkboard. There was a spell of some kind on it, he was pretty sure. Words expanded in his vision as he read them and shrank away when he was done. "Shh. I'm at the best part."
+
+"Wha—that text isn't a book and you're the one that started talking to me!" Flia protested. Cale ignored her in favor of squinting at the rest of the... were instructions actually still the right word at this point? Most of it was really more like a class introduction.
+
+Now, on to expectations! Magical Critters is about studying Utelia's many magical lifeforms and teaching you how to deal with them safely. However, just because the class is about your safety does not mean I do not expect you to treat these little critters with respect! Their presence in this class is what will allow you to survive exploring Utelia's wilderness and its dungeons. Anyone who intentionally mistreats any of my critters will be permanently removed from my classes, and very likely from the academy grounds as a whole.
+
+That said, mistakes are understandable, and some critters are really quite dangerous. It is therefore important that you obey every instruction you are given to the best of your ability. Every risk we take in this class is a measured risk to allow you to understand the true dangers—and beauty!—of the little critters we share our home with. You will be exposed to some dangers intentionally to understand how to overcome them, but you will not be at true risk unless you do not follow my instructions.
+
+Cale wondered briefly if many students had ignored Professor Tarbloom's instructions before. A class like this would undoubtedly have its fair share of incidents—honestly, Cale couldn't think of many ways of studying magical creatures that didn't have some potential of going wrong.
+
+If anything, being able to adapt to problems would keep a lot of would-be mages alive. Measured risks were key! Like that one time he'd led a group of his friends into a gaggle of bookwyrms.
+
+Granted, he hadn't known the bookwyrms were there, so the risk wasn't that measured. But they'd learned a lot from that encounter, so it all balanced out.
+
+Today's class begins with an introduction to a semi-common critter often regarded as a pest, found mostly in the outer regions of Illwyld. Flickerants first appeared in the continent after the Aspect Cascade swept through the Golden Sands, and are suspected to be a direct result of the realm reacting to the Cascade's elemental storm. For those unfamiliar, the Aspect Cascade is a still-rampant storm of wild magic that forcibly alters mana aspects within its perimeter.
+
+Flickerants appear to have adopted this property, albeit at a much smaller scale. They latch on to a host and 'flicker' to an opposing mana aspect in order to induce core poisoning. Despite this, they are largely harmless, as they cannot convert mana in large enough quantities to actually poison their hosts. The mechanism is largely a defensive, discomfort-inducing one, and is only fatal should you fall directly into a flickerant nest or fail to remove them in time.
+
+Cale found himself immediately intrigued. "Flickerants, huh?" he muttered. "Adapting to the Aspect Cascade..."
+
+It wasn't unusual for magical creatures to adapt to the presence of some extreme magical phenomena. Cale had encountered more than a few such species in his time, but most of them were dangerous—anything capable of adapting to extreme conditions tended to be, magically speaking. Low-level pests were an unusual outcome, but it made a certain kind of sense, if the phenomenon persisted for long enough.
+
+He wondered what would happen if a flickerant latched on to him. Probably nothing much. Prismatic cores couldn't really experience core poisoning, and the flickerant wouldn't be able to attune his mana to an opposing aspect in the first place.
+
+Now, while they can be removed through brute force, doing so damages the mana channels they've latched on to. Your first task will be to learn how to repel them by confusing their senses; your second task will be to allow them to latch on, then removing them harmlessly with a quick injection of opposing mana, which will cause them to instantly detach.
+
+Your desks have all been stocked with a single flickerant stored in a vial, an auric amplifier, and a variety of automatic elemental injectors for those that have trouble attuning their mana. Auric amplifiers will confuse the flickerant into mistaking an empty region as a potential host, but the precise amount of will to imbue can be tricky! Set up your desks per the diagram, then experiment with it until you can move your flickerant all the way to the red line.
+
+Ah, so that was what Flia was up to. Cale glanced over at her to see she was working on trying to repel her flickerant to the red line on her desk, to no particular success. It crawled toward her repeatedly with the single-minded determination of a bug that had only one purpose in life.
+
+He did his best not to snicker.
+
+After that, call on me to check on your work and I will supervise as you proceed to the second stage of the experiment. Do not harm your flickerants or attempt to get bitten by more than one! I have had students do this before. I do not know why? Also, do not sneak them into your pockets to start a flickerant biting competition outside class. Nor should you...
+
+Cale blinked and did his best to skim through the rest of the instructions, but it was for the most part just a very long list of things that Tarbloom specifically warned them not to do, up to and including a warning about eating them. He snorted. "Almost feels like Tarbloom's a little traumatized by some of the students," he said, eyeing the professor. They were humming to themselves as they checked over their teleport array, only pausing occasionally to wave a student in. "They still seem to love their class, though. I wonder what that teleport array is for."
+
+"It's probably for the next critter," Flia said absently, frowning at her flickerant. She picked it up and moved it back to the green line on her desk, then concentrated on her auric amplifier once more.
+
+The bug hesitated, antennae flicking, tilting its head toward the amplifier. Flia held her breath.
+
+Then it started crawling toward her again. Flia groaned, then scowled when she saw Cale watching her. "Don't judge me," she muttered defensively. "It just likes me or something."
+
+"That's probably part of it," Cale said, amused. He leaned back against his desk to watch, and after a moment, Flia narrowed her eyes at him.
+
+"You know something," she accused. Cale grinned at her and she let out an exaggerated groan. "If you have any tips, please share. I've tried every single mana concentration I can handle. At this point, I'm starting to feel like it's... you know, my mana thing."
+
+"It's not," Cale said, relenting. "Auric amplifiers don't amplify mana, they amplify will."
+
+He gestured at the flickerant. "Basic lesson in parasitic magical creatures," he said. "Anything that targets mages needs a sense that distinguishes mana cores from free-flowing ambient mana, and the simplest way to do that is to sense whether that mana is imbued with will. Or intent, if you prefer."
+
+Flia blinked, glanced at the board again, and sighed. "Well, now I feel stupid," she mumbled. "Professor Tarbloom even mentioned the part about imbuing will."
+
+"Eh, it was easy to miss. Tarbloom seems to like writing a lot," Cale said with a laugh. He began setting up his own desk before finally releasing his flickerant, watching as its antennae began flicking around in curiosity. It was effectively a very large ant with iridescent chitin, but the mana within felt... chaotic. It pulsed and flickered rapidly between attunements, like it couldn't quite decide what it wanted to be.
+
+Made sense, considering its name. Now he just had to push some of his mana into the auric amplifier.
+
+Which was absolutely not going to happen. It didn't matter that it mostly just amplified imbued will—intent couldn't just float around on its own. It needed mana as a substrate, and Cale was pretty sure if he tried to stuff any amount of his mana into this thing it would explode. Possibly violently.
+
+He grumbled to himself, looked up to get the professor's attention—
+
+—only to find Tarbloom right in front of his desk, smiling happily at him. They held up a smaller slate.
+
+HELLO, it read. YOU MUST BE CALE!
+
+"That's me," Cale agreed cheerfully. "Pleasure to meet you, Professor. I take it you're here to stop me from breaking your amplifier?"
+
+Tarbloom considered this for a moment, then shrugged massive shoulders. The words on the slate rearranged themselves rapidly to form new ones. EH. YOU CAN BREAK IT IF YOU WANT. IT'S CHEAP.
+
+"Really?" Cale eyed the amplifier. Despite the fancy name, it was basically just a rune painted onto a barely mana-conductive rock... so that made sense. "Why're you here then?"
+
+TO OBSERVE, it wrote. YOUR CORE IS UNIQUE! I FIGURED IT MIGHT NOT BE INTERESTED.
+
+Both Cale and Tarbloom stared at the flickerant on his desk. Tarbloom was right—it wasn't moving toward the red line, but it wasn't moving toward him, either. It wandered a little, its antennae occasionally twitching, but did nothing else.
+
+"Yeah, I kind of thought that would happen, too," Cale admitted. "Not sure anything would happen if it bit me either. My mana's mostly immune to that kind of forced change."
+
+FASCINATING, Tarbloom wrote. WELL, YOU ARE WELCOME TO SIMPLY OBSERVE! OR SHARE YOUR OWN CRITTER FACTS OR OBSERVATIONS?
+
+Cale paused for a moment. Tarbloom was looking at him with barely-disguised hope. They probably really wanted to learn what he knew about magical creatures from other realms, huh? And Cale was a lot more comfortable with Tarbloom than with Imrys, so...
+
+"Flickerants do remind me of some other creatures... ah, critters I've encountered," Cale said, watching as Tarbloom instantly brightened. "Actually, you mentioned that flickerants appeared only after a powerful magical phenomenon manifested, right?"
+
+THE ASPECT CASCADE, Tarbloom wrote, nodding furiously enough that their little hat threatened to fall off. Cale tried not to laugh at the sight.
+
+"There's a class of critters that can adapt to magical phenomena like that," he said. "It requires a little bit of malleability in their mana cores, and it's a kind of malleability that means they all share certain traits. If flickerants belong to that class, then they most likely have some sort of queen in their nests, and a tiny portion of their converted mana is donated to the queen."
+
+I KNEW PREPARING THE TELEPORT ARRAY WAS A GOOD IDEA, Tarbloom wrote, beaming at him. I THINK I CAN SUMMON THE QUEEN.
+
+Cale paused. "Are you sure that's a good idea?" he asked. They had been exceptionally careful about emphasizing caution in their introductory message... but it appeared that caution was less important to them than discovering a new critter.
+
+I WILL BE SAFE! they quickly assured him. They gestured a tiny line of inscriptions right around their array. OBSERVE: WARDS BY JAXOVAR HIMSELF. I ONLY WANT A QUICK GLANCE.
+
+A hopeful look. They held their slate up a little higher. HELP ME? I DO NOT HAVE ENOUGH MANA FOR THIS SUMMONING.
+
+Well... on one hand, Akkau had wanted this class to be uneventful.
+
+On the other, Professor Tarbloom looked incredibly eager, and it was unlikely that summoning the queen of such a minor pest could cause that much harm. It would probably be fine?
+
+"Sure," Cale said, giving in. Tarbloom looked thrilled and shuffled rapidly off back to their desk to prepare.
+
+Next to him, Flia shot him a suspicious look. "I only heard half of that conversation, but I somehow get the impression you've already corrupted our professor."
+
+"I've done no such thing!" Cale protested. "I will have you know this is entirely Tarbloom's idea."
+
+"What is?"
+
+"Nothing! You'll see," Cale said quickly. He scooped his flickerant back into its vial, then followed after Tarbloom before Flia could say anything else. Behind him, he heard her sighing with exasperation.
+
+Kazza of the Golden Sands was not part of this delegation by choice. In fact, he would have preferred to avoid visiting Orstrahl altogether, let alone join their little group of nobles in their visit to the so-called Brightscale Academy. As far as he was concerned, his tribe had more important matters to deal with than diplomatic relations with some upstart kingdom on a different continent.
+
+Yet Orstrahl had offered them the power to permanently end the Aspect Cascade that ravaged their lands. They spoke of a ring-like artifact, old and sacred, that would be able to contain it. His father was insistent that they at least hear out the offer, despite Kazza's own protests, and so here he was now, playing at diplomacy with a bunch of scaleless aristocrats that could barely identify a [Fireball] if it struck them in the face.
+
+He knew because he'd threatened to strike one of them with a [Fireball] and they had mistaken it for a [Lesser Fireball], despite the full raging spell burning in his hands. Kazza had been so offended he refused to speak with them for the rest of the day.
+
+His father really shouldn't have trusted him with diplomacy here.
+
+Still, Orstrahl's nobility seemed to find his antics and rash behavior amusing, for some reason. They hadn't kicked him out, and had in fact been polite and gracious hosts, despite Kazza's best attempts to be acerbic and unfriendly. None of it deterred them. They just kept offering him all kinds of bribes and bargains, at some point even telling him to make a selection of pretty women to take with him.
+
+He'd clawed the noble who made that particular offer directly in the face, though the noble had seemed happy about it, for some reason. Or at least he wasn't upset. It was disconcerting how they treated him, like he was some sort of valued pet more than a diplomat from the Golden Sands.
+
+Kazza didn't trust Orstrahl in the slightest. He didn't trust their offer, or their fancy, ornate halls, and he certainly didn't trust any of the gifts they kept throwing at him. They were far too eager to gain the cooperation of his tribe, and what was more, they seemed convinced that they would get it.
+
+When they offered to bring him along on this trip, he'd refused outright. Sitting in a carriage with any of these pretentious hacks seemed like a nightmare made manifest. But then they had mentioned the academy's name, told him it was run by a dragon, and... well, he hadn't been able to deny his interest.
+
+Especially since he was pretty sure this was the academy Izzik attended.
+
+He'd been hoping for a tour, maybe. A chance to get Izzik alone. What he hadn't expected was being stuck in a room watching the Headmaster's apprentice attend a class, for some reason. Kazza had no idea why the Orstrahl delegation seemed so interested in this, and the way they glanced and smirked at each other as if eager for a chance to humiliate Akkau disgusted him.
+
+But his tail flicked in interest when he recognized the flickerants brought into the class. Kazza narrowed his eyes slightly and straightened, then leaned forward to get a closer look. Was this intentional, or...?
+
+No—a quick glance to the side told him the Orstrahl nobles weren't even looking at him. Most of them were here to try to gain some sort of leverage over Akkau, as far as he could tell. Kazza himself was only being brought along as part of what he was sure was some devious plan he hadn't quite figured out yet.
+
+Whatever was happening in this class wasn't planned. Not by the nobles, at least.
+
+Kazza looked at the Headmaster, who seemed incredibly uncomfortable sandwiched between the nobles, then back at the scrying spell.
+
+That apprentice—that human—was approaching some sort of teleport array, and if he was reading those runes right... they were planning to summon something from Illwyld?
+
+It was well-known that flickerants were a product of the Aspect Cascade, but that array was meant to bring across something bigger. Kazza was no expert in reading arrays like this, but he found himself watching with a sudden intensity.
+
+He had always been a mage that relied on his instincts. Those instincts were what told him that whatever Orstrahl wanted for him and his tribe, it was bad.
+
+And those same instincts told him to watch what happened here closely, because if he understood what was happening correctly, then fate itself might have been presenting him with a way out.

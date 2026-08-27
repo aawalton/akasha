@@ -1,0 +1,205 @@
+---
+id: 27cef300-62d9-5e8f-905e-a3df6b6e9e4c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18 – Language"
+slug: 0018-chapter-18-language
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 18
+ownLength: 2058
+unit: words
+publishedAt: 2024-11-26
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1926080/chapter-18-language"
+royalRoadId: "1926080"
+---
+
+Kindra’s mind raced, and her eyes flickered throughout the city. Smithies. Shops. Homes. That has to be the barracks. Undead are everywhere, probably as guards and watchers… Does the necromancer notice when they die? There has to be… She counted, her eyes scanning and estimating. At least a hundred of them… There’s no way they know unless intelligence makes it easier. Hey, system, does it?
+
+[Intelligence increases cognitive function, making memorizing, analyzing, and processing data easier. The stat efficiency varies from individual to individual.]
+
+That didn’t answer the question. Kindra frowned and stepped closer to Sigrid. I’ll have to test it.
+
+The guard must have gotten what he wanted because he waved them through. Kindra walked through the archway and followed through the stone streets, weaving down a few roads and approaching the bank of forges before turning toward a row of small, stone homes.
+
+Following Sigrid up to one, she walked inside and looked around the small room. There were cupboards along the wall. A table and chairs were sitting across from a hearth. A chamber pot was sitting in the corner. Oh, god, no.
+
+Sigrid opened a door, revealing a small room, dresser, chest, and bed. Kindra glanced inside. I have so much work to do. She turned toward Sigrid and smiled.
+
+Sigrid walked over to the bed and gestured. “Sit.”
+
+Walking over, Kindra sat next to her. “Sigrid? Who makes the undead?” She mimed and stammered out her message, taking multiple minutes to get it across.
+
+“Necromancers.” Sigrid frowned. “Don’t anger them.” She gestured to the guns. “What are they?”
+
+Kindra opened her mouth and shut it. How did one jump from medieval tech to a nine-millimeter without something as ludicrous as saying magic? She frowned and gestured at her mouth. “Need words.”
+
+Sigrid took it in stride. She nodded and resumed language lessons, pulling Kindra through the house, pointing, and miming different words.
+
+Time dragged on as an endless stream of new vocabulary hit Kindra. She memorized and walked through the small home, learning the name of every object in the place.
+
+With the patience of a mother, Sigrid continued teaching, and Kindra struggled to keep up.
+
+Come on intelligence stat. Rubbing her eyes, Kindra blinked and tried to stop the swimming language. How long has it been?
+
+“Work,” Sigrid said again, pantomiming the new word.
+
+Kindra blinked, repeated it, and held up her hand. “No more.”
+
+“Break.” Sigrid patted Kindra’s back, walked to a stone counter, and pulled some vegetables from a cupboard.
+
+Kindra tried and failed to get enough will to ask about it. The words swam through her brain. System, do I get mana from learning languages?
+
+[Your mana increased: 937 → 1004.] ‎ [Your actions have caused your mana to increase: 1004 → 1005.]
+
+So, no. Kindra walked over and plopped into a chair. She looked down at her hands, and the door swung open.
+
+A sweaty dwarf with a long brown beard and bald head stood there. Looking like some chiseled statue, he turned, and his muscles rippled. “Who’s this, love?”
+
+“Kindra. Our daughter.”
+
+Kindra waved and ignored the parts she didn’t understand.
+
+“She’s an artificer,” Sigrid finished. She walked over. “Kindra, this is Dain.” She reached out and hugged him. He planted a long kiss on her lips.
+
+Kindra turned away. Well. I didn’t expect that. That’s for darn sure. She rested her head on the table and didn’t bother trying to understand the barrage of words. “Aika? How are you?”
+
+Aika’s voice flowed into her mind. “We’re making a house in a cave. They’re trying to teach me the horrible language and keep looking at me funny. What about you?”
+
+“I can’t learn more words today. It’s exhausting. Also, this city is ruled by some evil necromancer thing. Probably the one that yanked us here. I’m going to have to kill him.”
+
+“Good. I’ll help. The dwarves have been nice to me, but I think Gleon’s sad.”
+
+“Probably.” Kindra turned and looked at the dwarves.
+
+Dain had moved closer. Reaching down, he clapped her on the back, and Kindra smacked into the table. She scowled at the muscled dwarf.
+
+“Sorry.” Dain blushed and grimaced.
+
+“I told you. She’s…” Sigrid gave him a lecture, and Kindra didn’t try to understand it. Probably about my complete lack of strength. She dropped her head onto the table. No wonder they’re saying I’m a kid. Probably the weakest one around.
+
+After a brief lecture, Dain took over in the kitchen, and Sigrid walked out the door.
+
+Kindra lay there, watching him. “Dain, what—”
+
+“Dad.”
+
+“But you aren’t.” Kindra mimed her point across.
+
+Dain nodded, tossed the vegetables in the pot, and walked over. “Yes, but we are watched.” He gestured.
+
+“By who?”
+
+“People. Scared people. And the undead.”
+
+Kindra frowned. “They’d notice? They’re dead.”
+
+“People.” Dain gestured and took a seat next to her. He paused and thought for a moment. “Do you remember?”
+
+Kindra shook her head. No, I have no idea what you’re talking about, and something tells me that spaceships aren’t the norm.
+
+He smiled. “Not important. Remember, I’m your father.” He looked at her with a raised brow.
+
+Kindra sighed. “But you aren’t,” she whispered. “I had one.”
+
+Dain frowned, worry spreading on his face. He turned toward the door, and a knock rang from it.
+
+Seriously? That’s all it took to get the dwarf police or whatever? Kindra turned.
+
+He stood and walked to the door. Opening it, he revealed a frumpy-looking dwarf in a suit. The dwarf frowned, stared at Kindra's hair, and barked out a stream of angry words, his brown eyes glistening with rage and his neat brown beard moving slightly.
+
+Something. She. Something. Town. Kindra gave up and watched the two argue. The reason why was obvious. The frumpy dwarf kept shooting her venomous looks. His hand went for the sword at his side. What did I do? She frowned and tried to figure that out. His eyes flickered to her hair and eyes repeatedly.
+
+“Dad?” Kindra asked.
+
+“Kindra, your room,” Dain said, anger spreading across his face. He flexed his muscles, and Kindra bolted, running into the room and willing a nine millimeter out of her storage. I guess we’ve come to this.
+
+Leaning against the door, she listened. Give me one good reason. She checked the magazine and refilled it while she waited.
+
+The two continued arguing, their voices getting heated. The sound of Sigrid joined. She shouted, and things went quiet.
+
+Poking her head out from the door, Kindra focused on the scene. The frumpy dwarf was storming down the street with a few other dwarfs at his side. Sigrid took a long breath and walked inside, shutting the door behind her.
+
+Kindra willed her gun back to storage and walked out.
+
+Dain turned and nodded. “Thank you, Kindra.”
+
+“Who?” Kindra asked, forcing her exhaustion to the side. I’ll deal with the headache later.
+
+After a minute of miming and several new words, Kindra got the gist of it. Varric was the town's mayor, and Dain now had more work at the forge.
+
+Taking a small paper parcel from Sigrid, he walked to the kitchen.
+
+Kindra turned and looked at the cloth Sigrid had under her arm. Sigrid smiled and held it out, unrolling it to show a tan dress, new moccasins, and some underwear. Ah. I guess these horrible clothes are going to go.
+
+“Thanks,” Kindra said, smiling at her and walking over. She felt the soft fabric and smiled.
+
+“You’re welcome,” Sigrid replied. She walked out and grabbed a small pot, filling it with water.
+
+Walking back into Kindra’s room, she set it there with a rag. Kindra smiled and nodded. She walked over and washed her face, wiping away dirt, blood, and grime that had plastered her face. Strange icy blue eyes stared back at her, and she winced. They were green before. She frowned and rinsed, scrubbing off the grime.
+
+Sigrid walked out of the room and shut the door. Stripping off her old attire, Kindra used the rag to scrub everything else she could reach. Add showers to the list of things to do. She sighed and looked at the stone ceiling, rinsing the rag and scrubbing.
+
+Her thoughts drifted while she worked. Did anyone survive that? Did the ship? She scrubbed hardened blood from her leg. And how did this happen?
+
+The questions went unanswered, and she finished scrubbing. Placing the rag back in the bowl, she changed into the new attire and placed the dirty attire off to the side. Walking to the door, she opened it and peered out. The two were cooking. Sigrid turned, and the smell of blood hit Kindra’s nose. Her mouth watered, and she stared at the meat he was cutting.
+
+Sigrid patted Kindra’s arm. “No.”
+
+Kindra turned and slumped. She gestured out her message: it tastes bad.
+
+Sigrid frowned and nodded. Walking to the counter, she retrieved a slice and placed it on a plate. Adding a fork and knife, she walked it to Kindra.
+
+Kindra cut off pieces and started eating, savoring the raw meat. She’s going to make me try her dish. I can feel it.
+
+Sigrid looked at her. “What do you remember?”
+
+Swallowing the last piece of meat, Kindra paused. How do you tell them about spaceships? Do they even know about planets? She frowned and gestured up at the ceiling with a raised brow.
+
+Dain turned and said something to Sigrid. She said something back.
+
+Kindra shook her head and shrugged, gesturing out the word for sorry. Dain chuckled and hung the pot of stew over the fire. He walked over, patted her shoulder, and sat next to Sigrid.
+
+The two began discussing, and Kindra let them, letting her head drop onto the table. She ran her fingers across the perfectly smooth wood. That’s enough words for one day. I can try again tomorrow.
+
+~~~
+
+Mayor Varric walked down the streets; doubt gnawed on his insides. There was something off about that girl, her strange hair, and stranger eyes. Turning a corner, he walked up a small lane toward the keep. “Was he lying?” He turned to the guards.
+
+“She is tall, but she’s also weak, so I assume so.” The guard shrugged.
+
+“Would they want her dead? She may be a survivor of the recent incident.”
+
+“She’d be dead if she were involved in that.” The guard shook his head. “My skill could let me see that. She’s weak.”
+
+“Another mouth to feed.” Varric sighed and walked inside the stone doors. He turned and walked down a hallway to his office. Sitting in a wooden chair, he picked up papers and studied. “We’re behind on shipments again.”
+
+“We’re always behind.” A guard sat, stretching his legs.
+
+“Which is very dangerous, especially now.” Varric frowned. They all see me as the villain. I’m trying to keep them alive. He looked through the papers, scanning reports on crops and weapons.
+
+“At least we have another crafter. That should speed us up.” The guard said, turning to the other.
+
+The other grunted. “Think any rebels survived?”
+
+“No. They never do. People just can’t help themselves.” The guard frowned and looked at the floor. “And we all know why.”
+
+The other guard grimaced and looked away. Varric frowned. “I need you to speak to the smiths. The weapon and armor shipments need to go out on schedule. You know what will happen if we fail.”
+
+The guard nodded. “I’ll do what I can, sir.”
+
+“And keep an eye on Kindra. There’s something off about her, and we cannot draw their attention.”
+
+A guard nodded. “Of course, sir.”
+
+“It’s the hair and eyes.” The other guard shivered, fear and disdain spreading across his face. “She looks like them. A necromancer.”
+
+“Or an undead,” the other guard replied, nodding. “She gives me the creeps.”
+
+“Maybe she’s some elaborate undead plant. Keep an eye out.” Varric frowned. That’s not good. If they think there is a rebellion, we’re all dead. The sound of footsteps pulled his attention. He looked at his approaching wife.
+
+“We have a problem,” she said, walking into the room. “It seems that Gleon is still alive.”
+
+“Shit.” Varric lurched from his chair. “Where is he?”
+
+“In the forest.”
+
+Varric spun toward the guards. “Find him! I want him strung up before the morning.”

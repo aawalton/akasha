@@ -1,0 +1,199 @@
+---
+id: b2673aec-6d33-59bf-8ae5-c74f947b2901
+page-type-slug: story-chapter-royal-road
+title: "107 — Book 3, Chapter 6 — Divine Studies, Pt 3"
+slug: 0110-107-book-3-chapter-6-divine-studies-pt-3
+partOf: just-add-mana
+position: 110
+ownLength: 3241
+unit: words
+publishedAt: 2026-03-10
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3136609/107-book-3-chapter-6-divine-studies-pt-3"
+royalRoadId: "3136609"
+---
+
+Cale wasn't sure what reaction he had been expecting, but it wasn't quite the exasperated incredulity he got. He supposed he couldn't blame his apprentices, though. He'd been holding out on them for a while.
+
+"Finally," Leo groused. "Do you know how long I've been trying to get anyone to talk to us about this? Everyone talks about it like it's just something you should know, but I can't find it in a single book. Not even in the restricted section!"
+
+Cale reached over to flick one of Leo's horns. "First of all, stop browsing in the restricted section."
+
+"You're telling me not to look in the restricted section?" Leo asked, giving him a look. "Who are you, and what did you do with the real Cale?"
+
+"I'm telling you, specifically, to stop looking in the restricted section," Cale said dryly. "Everyone else can browse it if they want. Actually dangerous magical knowledge—as in magical knowledge that's universally dangerous, and not just books the Brightscale librarians think you shouldn't read—are protected with a secondary layer of magic to avoid people finding them before they're ready. This is stuff that could harm you if you know about it ahead of time, basically."
+
+"Then why me specifically?" Leo sounded almost like he was whining, even though he was instinctively puffing his chest out to try to look intimidating. Cale rolled his eyes and reached up to give the same horn he'd flicked a reassuring pat.
+
+"Because you're the one most likely to find material you actually shouldn't read," he explained simply. "Labyrinth magic is especially suited to that kind of thing. You're actually mostly fine now that you've managed to integrate your mana core, but I'd still be careful. Akkau doesn't hide books with magic unless they really need to be hidden."
+
+"Oh," Leo said, like he hadn't expected a meaningful answer. He thought about this for a moment. "...Wait, are you saying there's a whole second library that's hidden with magic?"
+
+Cale burst out laughing. "If that's how you want to think about it, sure," he said. "If you want, once you reach darkwood stage, it should be safe for you to read just about anything that isn't cursed or laced with some sort of mental compulsion. And I'll teach you to build defensive mind-labyrinth spells before that."
+
+"Really?" Leo's earlier dismay was now entirely forgotten, and though it was hard to see in the darkness Akkau had placed them in, it looked almost like he was wagging his tail. Cale snorted at the sight.
+
+"Yes, really," he said. "I wouldn't take your favorite thing away from you. I'm just telling you to be careful."
+
+"I will!" Leo said. "If you teach me those spells. And help me find those books. And give me some points."
+
+"I can't just give you points when you ask for them. It sets a bad precedent." Which was the excuse he used every single time, although Leo was also right in that he kept forgetting to give the poor minotaur any points... He really would have to remember soon.
+
+"So," Flia said, cutting in before Leo could go off on yet another rant about points. "What's this about mana cores we apparently couldn't know before now? You said something about darkwood stage—are you saying the academic stages are actually a reflection of mana core development?"
+
+"Yes," Cale answered. "Well, sort of. It's simplified a little, but only in the sense that mage rankings are more stratified than the stages of mana core development. Each stage encompasses a fundamental change in your mana core, and the way we rank mages tracks your progress through each stage.
+
+"There's a good reason you haven't heard more about this, though," Cale added. "Learning about alignment ahead of time is usually considered pretty dangerous. Think about it this way—"
+
+He paused here, frowning slightly in consideration, then switched to a different tack. "You remember what I told you all about intent and mana, right?" he asked.
+
+"You told us we need to fully integrate our mana cores so we can infuse our mana with intent," Damien said. "Because, um, it helps us adjust spell effects on the fly? So you can have a more complicated effect with a simpler spell."
+
+Cale nodded, smiling at Damien. "Right," he said. "Mana core development is ultimately just a more complex version of that. Intent infusion is basically just the first but most essential step; with it, you can start infusing intent directly into your mana core, which is how you can start directing it to evolve.
+
+"Right now, you're all at the plainroot stage of core development. It's called plainroot partly because your mana core, at this stage, is largely devoid of your intent." Cale paused to look at his apprentices sternly. "Not devoid of intent entirely, mind you. Mana has a will of its own. There's almost always some intent invested in it, and if it's not yours, it's going to be someone else's.
+
+"That's a vulnerability unique to plainroot cores. They're simple and flexible, in a way, but they can be compromised by almost any spell designed to work with intent. This does not mean you should underestimate a plainroot mage, though I'm guessing I don't need to tell any of you that."
+
+His apprentices were, if anything, uniquely suited to understanding exactly how dangerous a mage could be even when they were still at the plainroot stage. Still, it never hurt to emphasize the dangers of buying too hard into the whole mage ranking business.
+
+"Keep that in mind," Cale added. "Don't assume a mage is weak just because they're at a lesser stage of core development. Improving your core will improve your ability to cast and react to spells, but you're just as vulnerable as anyone else if you don't have your barriers up—"
+
+"Keep your barrier up at all times," his apprentices chorused together. They were used to his lectures on this by now. Cale grumbled a little, but was secretly pleased.
+
+"Exactly," he said.
+
+Then Leo spoke up. "What about the root part?"
+
+Cale blinked. "What?"
+
+"The root part," Leo said. "You said the stage is called plainroot because our mana cores don't have our intent infused into it yet. That explains why it's called plain, but not why it's called root."
+
+"Oh." Honestly, Cale hadn't even considered that he might need to explain that part. "That's because the spherical visualization of a mana core is convenient, but the actual shape of a mana core is a lot more like a tree. Your mana channels resemble roots, for example."
+
+"Huh." Leo nodded thoughtfully. "So I have a tree inside me?"
+
+"I have a tree inside me?" Syphus repeated Leo's words, but sounded horrified.
+
+...Right. Syphus wasn't a big fan of greenery, was it? Cale snorted. "You're welcome to keep visualizing it as a sphere," he said. "Or a boulder, if you want. It doesn't really matter.
+
+"The important part is that there's only two components to the plainroot stage—three, if you're really splitting hairs. Pre-integration, mid-integration, and post-integration. The Utelian ranking system only really considers the pre- and post-integration parts important. You'd call them novices and adepts, respectively.
+
+"Which reminds me." Cale grinned. "As of today, you're all considered adepts. Congratulations! I hope you liked your gifts."
+
+"Wait. That was why you got us gifts?" Flia stared at him like she wasn't sure if she was pleased or offended. "I didn't even know there was something to celebrate."
+
+"No, I had no idea Leo finished his core integration," Cale said cheerfully. "I would've gotten you the gifts anyway. But it does make me seem like I have masterful foresight, doesn't it?"
+
+"...I hate you."
+
+"By which you mean I'm the best mentor ever." Cale grinned. "Anyway, we're getting to the interesting bit. Once you reach full core integration, you're at the peak of the plainroot stage. This is where Akkau's exercise becomes relevant—for the next step, you need to start making palewater in your cores."
+
+"What's—" Damien started.
+
+"What's palewater, you might ask?" Cale barreled onward. "Remember how I said that no mana is entirely devoid of intent and that plainroot cores are uniquely vulnerable? That's because all mana, by default, contains traces of divine intent.
+
+"Now, normally, divine intent is a good thing! Once even a single divinity forms, mana in the realm becomes a lot more stable. You get less unusual manifested phenomena, basic spells become easier to cast, and most things become significantly less likely to explode." He paused. "Seriously. You'd be amazed how many random explosions there are without literal divine intervention."
+
+He'd been to a few realms early enough in their histories that not a single divine had manifested yet. They were always uniquely fascinating experiences.
+
+Or, well, they were unique and fascinating for someone who had lived enough lives that his memories were starting to blur together; they were something different, after all. Cale was pretty certain most sane individuals would just think of them as terrifying, and he would never subject anyone else to them.
+
+Unless they asked, of course. He'd taken someone to one on a date once. Was that the one with all the explosions? Cale only remembered that he'd been jumpy for years after that lifetime. There was only so much violent exploding even he could tolerate, especially when he was trying to relax or admire something cute.
+
+Come to think of it, the explosions weren't that common in any of the other so-called godless realms. Maybe it had just been that particular realm for some reason. It did stick out in his memories...
+
+Damien nudged him gently. "Thinking about explosions?"
+
+Cale coughed. "Right, uh. Yes. I was... remembering." Seeing the look his apprentices were giving him, he rushed to add: "Not like that. They weren't harmful explosions. Just startling."
+
+"Were they at least cool looking?" Syphus asked hopefully. Cale had to snort at that, and he relaxed slightly, though he didn't miss the smug look that Syphus briefly adopted.
+
+"They were reasonably cool," he admitted. "Very showy. Completely harmless, but a lot of fire. And smoke that tasted like grilled onions."
+
+"Okay," Leo said. "I have new questions."
+
+"Nope. We're moving on," Cale said, and rapidly did just that. "The point is, all mana has some degree of divine intent in it. It helps keep mana stable. Trouble is, at higher levels of spellcasting or mana manipulation, that divine assistance starts becoming more and more of a hindrance. It's not meant to replace actual spellcasting, it's just there to help you out.
+
+"But that's not the sort of thing you can tell a mage before they've reached the peak of the plainroot stage. It's safe enough once they know how to consciously infuse intent into their magic, but if they can't, then even knowing about the possibility usually leads to them subconsciously trying to overwrite that divine intent with their own. And if you don't have a clear idea of what intent is when that happens..."
+
+Cale shrugged. "Best case, it permanently reshapes your core before you're ready," he said. "Worst case, it permanently limits your core by making you struggle to cast any spell that doesn't fit your understanding of magic at the time. That's why this information is kept from people until they're at least an adept.
+
+"It's not so much of a risk once you've integrated your mana core. By that point, you know what intent is and how to shape it, and you've probably been working on intent infusion for a while. Palewater is a step up from that. You identify your divine alignment—that is to say, the source of the trace divine intent in your mana, which can differ from mage to mage—and slowly convert that intent into your own.
+
+"The result is a purer form of mana infused solely with your intent that molds itself much more easily to your will. This is what many mages have termed palewater. At the palewater stage, you start creating and feeding palewater to your mana core..."
+
+Cale trailed off, seeing that Leo's hand had shot up somewhere in the middle of his explanation. "Yes, Leo?"
+
+"Are you sure this isn't blasphemy?" Leo asked. "Not that I'm that concerned about blasphemy, considering you just promised to fight a god, but I just want to check. In case I also need to get ready to fight a god."
+
+"You won't have to fight a god," Cale said, snickering. "They want mages to do this. Think of it more like taking a burden away from them. Somewhere out there, there's a divine carrying a rock with your name on it, and you take it back so they don't have to carry it for you."
+
+"Hey," Syphus said, sounding offended. Then it frowned, puzzling over the sentence for a moment. "No, actually, nevermind. I like that. I think."
+
+"Good," Cale said dryly. "The process of creating palewater and feeding it to your core slowly saturates your core with intent; at the end of the palewater stage, your mana core is entirely your own, and you won't need to actively infuse your mana to have it do what you want anymore.
+
+"Palewater mages are expert and master-level mages, in Utelian terminology, depending on whether or not the core is fully converted. You'll know you're at the peak of palewater stage when you can no longer create any additional palewater; it means all the mana in your system is now purified, and your core is automatically generating only palewater-quality mana."
+
+"I, um, don't understand how to convert intent. In general." Damien frowned slightly, looking worried. "Does that mean I can't do it?"
+
+"No. It's not a very intuitive process, don't worry." Cale gave the dreadshade a reassuring pat on the shoulder. "It's the reason identifying your divine alignment is necessary in the first place. Knowing that helps you make the distinction between your intent and the divine intent inherent in your mana, and once you know that, the process comes naturally. I wouldn't worry about it."
+
+"Okay," Damien said, although he definitely still looked worried. 'What about, um, darkwood?"
+
+"Let's finish up with palewater first," Cale said, laughing. "You create palewater, then feed it to your core in graduated quantities that it can tolerate; it's not used to purified mana like that, so you'll feel some resistance as you do it. Once your core adapts, you'll find it starts producing palewater on its own, though the process won't be complete until all the mana produced is palewater.
+
+"And then, yes, there's darkwood. That one's harder to explain. The gulf between a master mage and an archmage, in effect, is the ability to harden and reinforce your intent. This lets your spells resist change from other mages, especially if a counterspell is specifically targeting and attempting to undermine the intent of a spell. For anyone at darkwood, trying to do that is basically just a waste of time.
+
+"The more you practice with processing that hardened mana with your core, the more your core begins to mimic your strength of will. Essentially, the outer layers of your core harden into darkwood, which makes the core itself much harder to compromise. Palewater mages can defensively process and purify any spell or mana attacking the core, but a darkwood mage can often just ignore it."
+
+Syphus seemed to perk up slightly at this. "Could we just practice with hardening intent ahead of time?" it asked. "We can already use intent. Couldn't a mage skip the palewater stage if they wanted?"
+
+Cale nodded. "Good catch, actually. You can and should practice intent hardening early, but you'll want to let go of it before allowing your core to process it. It's possible to skip palewater and focus entirely on intent hardening to build a darkwood core that produces plainroot mana, but part of the rigidity of darkwood is that the core will no longer be able to adapt to produce palewater."
+
+He frowned slightly. "I actually wouldn't be surprised if that's what the Red Hunters do to have their archmage-only force," he said. "It would explain a few things about them...
+
+"Anyway, intent hardening isn't actually that easy to do." Cale chuckled. "It might be easier for you guys, compared to everyone else, but it's still fundamentally a soul exercise. We'll do it as part of practice in that divinity-excluded room you mentioned you found."
+
+Leo stared at him. "I'm starting to feel like it's really convenient that I found that room. Like you planned for me to find it, or something."
+
+"It is, isn't it?" Cale beamed.
+
+"...You aren't going to explain, are you?"
+
+"Nope."
+
+Leo sighed. "I'm just going to assume it's your Thread of Fate thing," he grumbled.
+
+"Or," Cale said, "you found it because you are incredibly smart and I love my apprentices."
+
+"Now I can't decide if I'm proud of myself or worried."
+
+"Ten points for finding the room."
+
+Leo pulled out a notebook and immediately began writing. Cale blinked and leaned over him. "Are you keeping track of your points?"
+
+"Well, you aren't going to do it," Leo said, snapping the book shut before Cale could get a glimpse, then pulled out a different notebook, flipping through it. "You said darkwood mages are harder to counter. Does this have something to do with the hierarchy of magic you mentioned before?"
+
+Cale eyed Leo for a moment. "Yes," he said. "It's the mechanism behind the hierarchy of magic, more or less. A palewater mage can't steal mana from a darkwood mage, even with a mana-stealing spell. They might be able to if they learn intent hardening ahead of time, which is why I intend for you four to practice, as long as you're careful not to process any hardened mana with your core. If you want to experiment, talk to me first."
+
+Leo nodded absently. "What about cloaks?" he asked. "Archmage ranks are divided into cloaks, right?"
+
+"A third-cloak archmage will always beat a second-cloak archmage spell for spell, in terms of intent hardening," Cale agreed. "I had to ask Akkau about that one. It's not that common in the Great Realms. On Utelia, it sounds like you divide the levels of intent hardening into five levels, so a fifth-cloak archmage would be at the peak of the darkwood stage."
+
+"What about wyldfire?" Syphus asked.
+
+Cale pretended to hesitate. "I don't know if I should talk about wyldfire just yet..."
+
+Leo made a low, growling noise in his throat. Cale was impressed; he hadn't even known Leo could do that. "Cale, if you don't tell us about wyldfire now after all of that, I'm going to strangle you."
+
+"No, you won't," Cale said. "You like me too much."
+
+"I will think very hard about strangling you," Leo amended.
+
+"Fine, fine." Cale sighed dramatically, but grinned. "Wyldfire mages are still considered archmages; there isn't a specific term for mages that break the scale like that, since they all do it in their own way. The mechanism for wyldfire is what sets them apart from the rest, though.
+
+"A wyldfire mage takes their carefully cultivated darkwood core," he explained, leaning casually back in his chair, "and burns it for fuel."
+
+Just for effect, he let slip a tiny sliver of undifferentiated mana without attempting to control its shape the way he always did—
+
+—and a pillar of prismatic flame erupted from him.

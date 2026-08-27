@@ -1,0 +1,195 @@
+---
+id: d07b7c04-c67d-5b2b-a6e8-77c3715fba72
+page-type-slug: story-chapter-royal-road
+title: "130 — Book 3, Chapter 29 — Bitter Focus, Pt 9"
+slug: 0133-130-book-3-chapter-29-bitter-focus-pt-9
+partOf: just-add-mana
+position: 133
+ownLength: 3074
+unit: words
+publishedAt: 2026-05-02
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3345560/130-book-3-chapter-29-bitter-focus-pt-9"
+royalRoadId: "3345560"
+---
+
+"We're going to disappear," Adam said. "We can't be fighting among each other like this."
+
+He was older now. Transitions in pilgrimage-type dungeons were some of the worst parts about them—they often happened without warning, as soon as its delvers achieved whatever the intended goal of a scenario was.
+
+In this case, it had apparently been to get a hold of Dione's notes on the ice shamblers. Cale hadn't had much time to read more than just the first page before everything around them turned to snow; for a fraction of a second it was blisteringly cold, and then they were once more inside a building.
+
+Not in a basement again, fortunately, nor did they seem to be in the same house in general. Instead they found themselves in a large chamber decorated with red and gold. Adam stood in the middle of that chamber, and was clearly in the middle of some sort of meeting for a small collection of mages.
+
+All of them were human.
+
+Cale stared, unable to process the sight for a moment. How long had it been since he'd been in a room full of his own kind? Sure, they were arguing with one another the way he would've expected, but that didn't stop the wave of nostalgia that washed over him.
+
+Then Adam caught sight of them standing in the corner. His eyes widened in recognition and he straightened, gaze sweeping across the room. "I'm going to call this meeting adjourned," he said, his voice taking on a stern authority. "Think about what I said."
+
+"You cannot just treat us like children!" a portly man on the far end of the table blustered. Cale did his best not to snort at how red his face got just from that single sentence. He didn't want to call too much attention to him and his little group. They were obscured by shadow for now and evidently these other humans weren't meant to be part of the new scenario, but too much commotion and the dungeon would improvise.
+
+Some things never changed, though. Arrogant merchants, for one thing. Cale would recognize that combination of ostentatious clothing and jewelry anywhere.
+
+"If you insist on acting like children, then I will do exactly that." Adam swept a hand out and the door to the room slammed open. A few of the humans, including the merchant, shot Adam sullen looks, but the rest filed out with thoughtful looks on their faces.
+
+Cale waited for the door to shut again before he said anything. "Political trouble?"
+
+"You don't know the half of it," Adam groaned, sinking back into his chair and plastering a hand to his face. "The future's right in front of us and half of these idiots care more about putting more coin in their pocket than figuring out how to save ourselves."
+
+"What is this future, exactly?" Cale asked, sliding into one of the chairs himself. The others glanced at each other awkwardly before joining him, and soon they were all seated in a circle, with Adam at the head of it.
+
+Adam let out a bedraggled sigh. "Right. You did get pulled away before you got to read any of my mother's notes," he muttered to himself. "You weren't kidding about just getting teleported to people when they're in need, huh? Does that work through time, too? None of you look like you've aged a day."
+
+"Something like that," Cale said. It was better than trying to explain that this was a dungeon construct and they were just looking at a construct of history. Other delvers had tried that, and it... rarely went well.
+
+"Alright," Adam said, taking a deep breath. "It's not like I haven't explained this a dozen times anyway. Okay. So, mom's notes basically say that the ice shamblers are going to be all that remains of us. You know about significance theory?"
+
+Cale raised an eyebrow. He certainly hadn't, which meant it was probably something unique to this era. The others at the table didn't seem to have much more of a clue; Syphus and Leo shook their heads, Thorn frowned, and Graystalk just looked intrigued.
+
+"Let's say we don't." Cale leaned forward.
+
+Adam just nodded, like he'd been expecting that. "Significance theory is the idea that any event of enough significance—basically anything that causes a big enough change in the world or in the cosmos—echoes out through time," he said. "So if a town is about to be burned down, you might see things starting to catch on fire before them, even if there's nothing to set it alight. Or if a realm is about to be destroyed, you might start seeing ghosts of that realm in other realms."
+
+"Or if a species is about to go extinct, you might start seeing echoes of their extinction," Cale said. "That manifest as naked old men, apparently."
+
+Adam snorted. "Don't remind me," he said with a sigh, rubbing his eyes tiredly. "Not everyone can see them, is the biggest problem. My mother and I might be among the first to develop the ability. There's a few others now, but they mostly only see shadows."
+
+"You've dedicated yourself to trying to stop it from happening," Cale concluded. His mind was awhirl with thoughts, but he held himself deliberately back, not wanting the others to see how affected he was by all this—and even then, Professor Graystalk was shooting him a concerned look. "How many years has it been?"
+
+"Twenty." Adam gave him a slightly bitter smile. "After you disappeared, I had to... well, it doesn't matter. I dealt with my father and managed to make a name for myself by working on the magic you taught me."
+
+"He's all grown up," Syphus whispered, wiping surreptitiously at its eye. Which was still nothing but a floating rune. Cale stared at it, then wisely decided not to ask.
+
+"I'm royal advisor now, I guess," Adam said. "Not that it matters, since no one will listen to me."
+
+"You should grow a beard," Syphus suggested. "I've been told that humans take other humans with beards much more seriously."
+
+Adam frowned. "Really?" he asked, stroking his chin thoughtfully. "I might have to give it a try. I know a few like-minded people that have trouble getting their kings to listen; we could all try growing beards..."
+
+"Is that everything that was in her notes?" Cale asked, trying to get them back on track, and Adam shook his head.
+
+"No. There was a lot in there. Mostly about how to use the arcane feedback from them to fuel my magic." Adam looked away for a moment. "You were right, by the way. A lot of those notes were addressed to me personally. If I'd looked for them earlier—"
+
+"You were just a kid," Cale said. "You shouldn't even have had all this on your shoulders."
+
+"There wasn't anyone else." Adam shrugged and gave them a smile that didn't have much heart in it; he stood, then, and walked over to the window with his hands folded behind his back. "But yes. As I was saying, her notes had information on how to use the arcane feedback... well, she called it potential magic."
+
+"Magic fueled by the difference between what is and what could be," Cale said.
+
+"Right." Adam turned enough to shoot him a surprised look—clearly he hadn't expected Cale to catch on to that so quickly. "She figured that was the reason not everyone can see them and why even Ashvali is blind to them. The Fifth Intersection governs potential futures, but only when the path begins in and ends in her domain. If it begins somewhere else entirely, she won't be able to see it."
+
+Cale nodded slowly. "And what exactly does it mean if a path begins outside of her domain?"
+
+"That's what I've been trying to figure out." Adam slumped back into his chair, a frustrated look on his face. "It doesn't make sense. Everything should be a part of the Fifth Intersection's domain. Ashvali governs the infinite possibility of the Fog. What could possibly come from outside of it? There shouldn't even be an outside."
+
+Cale remained silent for a long moment. This felt entirely too coincidental—after how long he'd been searching for answers, to have it all served up to him on a silver platter like this... it felt like there was another shoe that was going to drop, and he didn't like the feeling.
+
+It was like a trap that had been designed for him. This was the sort of thing he would not and could not turn away from, no matter how it was going to turn out. He wanted so desperately to know what had happened, why he was alone, if there was any chance of ever going back.
+
+He thought he had some idea of what might have happened now. He still didn't know what caused it, exactly, but Adam's description of something outside the Fog sounded either like something from the Outer Planes or like it could reference a transformation of the cosmos, and if he was right about when this was—
+
+"Adam," Cale said carefully. "Do you know anything about Yggdrasil?"
+
+Adam frowned and gave him a strange look. "What kind of word is that? Never heard of it. Is it relevant?"
+
+"What about Sisyphus?" Cale continued. "Or Hephaestus?"
+
+"I might have heard that last name before," Adam said. "In a book or something. I don't know. I haven't really had the time for any leisure reading. Is this leading up to something?"
+
+Cale shared a significant glance with Syphus, raising a brow questioningly. It slowly shook its head to indicate that it could not, in fact, communicate with Sisyphus at the moment.
+
+Interesting. So this was almost certainly an earlier iteration of the cosmos, then, one in which Yggdrasil didn't yet exist. If that were the case, then if something from Yggdrasil were to somehow end up in the Fog—perhaps through an application of this "significance theory" that Adam mentioned—then it would certainly escape Ashvali's sight.
+
+Cale didn't know what he could do with that information yet, but he filed it away regardless. Any bit of knowledge was always useful.
+
+"...Okay, I have no idea what any of that was about, and unfortunately I don't have time to stick around," Adam said with a sigh. "The king is going to want an update. I'll put in a good word for you and get you some rooms—it's the least I can do. Feel free to stick around for a bit until you get teleported somewhere else or whatever. Please let me know if you figure anything out."
+
+With that, he stood and hurried out of the door, shutting it behind him.
+
+Cale and the others stared at one another awkwardly for a long moment. Leo was the first to break the silence, and when he did, it was with a question Cale had really been hoping he could avoid.
+
+"Cale," Leo said. "Why didn't we ever notice that you were the last human? I've always thought that humans were everywhere, but now that I think about it, you're the only one I've seen."
+
+"And why didn't you ever tell us?" Syphus added.
+
+Cale winced. He thought about how to respond, but to his surprise, Thorn spoke up before he could.
+
+"He couldn't," the vinewalker supplied with a grunt. "It appears the disappearance of humanity is under a powerful obfuscation curse. The nature of this dungeon shields us from it, but that may be temporary."
+
+"So I'm going to forget again?" Leo asked, looking stricken. "I don't want to forget something that important, I—"
+
+"It's fine," Cale said. Both Thorn and Graystalk were looking at him with concern, which didn't surprise him—neither of them knew quite how to approach it, clearly, and he wasn't sure if he really wanted their sympathy. "It's not your fault. Let's just get this out of the way, and you guys can fill Flia and Damien in on it once we find them. Not sure I have it in me to talk about this more than once."
+
+"You're telling us that Cale's the last of the humans?" Flia asked, sounding more skeptical than she felt. Damien was sitting back with a stunned, dumbfounded look on his face, so he had clearly bought the story wholesale; Flia felt like it was her obligation to be skeptical in his place, although she felt very much like Ashvali was telling the truth. Too many pieces fit for anything else to be the case.
+
+They were in a small building that Ashvali had guided them to that she called "a rest stop in the Fog." Flia had never seen anything quite like it. Strange, brightly-lit tubes decorated the signs outside that declared this place the Infinite Motel, which was a strange choice of name for what she was certain was not anywhere close to infinite.
+
+What looked like a fog elemental of some sort greeted them, dressed in bright red clothing, and at a word from Ashvali directed them to a surprisingly spacious room complete with a warm fireplace and balcony. Oddly enough, they were far higher up in the building than they should have been—Flia didn't remember going up any steps, yet a look out of the balcony showed that the building stretched far down into the fog beneath them, putting them at dizzying heights.
+
+She did not like this place, to say the least. For one thing, she hadn't detected any semblance of spatial magic, and that worried her. If Ashvali or any of the other entities in this Fog could cast undetectable magic, then they were in far more danger than she could even name.
+
+Of course, that left her in a bit of a dilemma, because it also meant that their best option was to keep doing whatever Ashvali wanted. Right now, she seemed to want a cup of tea and a conversation, which was why they were seated by the fireplace sipping at tea.
+
+Flia didn't even like tea.
+
+"My goodness," Ashvali said. "You're so terribly paranoid. When was the last time you've seen a human? Look into my eyes, my dear. Would I lie to you?"
+
+Flia stared at the empty sockets on Ashvali's face. They were still dripping with ichor. "You don't... have any eyes right now."
+
+Ashvali giggled. "True! But if you could see them, I assure you, you would believe me. I am exceptionally trustworthy."
+
+"No one trustworthy says that," Flia pointed out.
+
+"Well, that simply cannot be true, because I just did," Ashvali said. She dipped a finger in her tea to stir it—something that made Flia wince, even with how little she liked the tea—then took a long sip. "Anyway! You have questions, I'm sure. I'll answer any of them I can, so long as you do a teensy little favor for me afterward. Nothing terrible, I assure you?"
+
+"Sorry, our mentor told us not to make any deals with strange entities appearing out of the fog," Flia said automatically.
+
+Ashvali paused, then cackled gleefully to herself. "You're telling the truth!" she said, delighted. "What an incredibly specific warning! This Cale must be quite a character. I would so love to meet him. That is the favor I ask—that you bring him to me."
+
+"I won't promise anything," Flia said. "It might be a trap. We're not doing anything that could hurt him."
+
+Beside her, Damien nodded in agreement. "If you answer our questions, we'll think about it," he added quietly.
+
+"So bold," Ashvali said brightly. She pushed a small plate of biscuits to them. Flia tried not to startle too much at the sudden appearance of the plate—she hadn't even noticed the conjuration, or any use of mana for the spell. "How about a freebie, then? I'll tell you something your mentor would love to know. He'll come find me, all by himself."
+
+"We don't even know if you're telling the truth," Damien said quietly.
+
+"Oh, don't give me that. Neither of you think I'm lying." Ashvali giggled again, then leaned forward and gave them a stunningly bright smile. "Tell me if you think your mentor would want to hear this..."
+
+She whispered something to them. Both Flia and Damien shot from their seats at the words, eyes wide.
+
+"You better not be lying," Flia said, her voice trembling.
+
+"We won't forgive you if you are," Damien added, balling his fists.
+
+"Such spirited children," Ashvali said, laughing. "Shouldn't you be happy? It's good news!
+
+"After all, who wouldn't like knowing they're not the last of their kind?"
+
+Cale was hesitating, and everyone knew it.
+
+Already he really wanted to get back to the magic stuff. Maybe there would be an opportunity after this? The dungeon must have brought them here for a reason, after all. There would be some objective for them to fulfil other than just having a meeting.
+
+Right on cue, the door opened, and a small, goblin-like creature with a clock for a head popped in. "Hello!" it said. "I am the butler! Master Merlin says I am to guide you to your rooms when you are finished! He also says I should tell you that he forgot that you were probably sent here for a reason, and that he knows what that reason is."
+
+There was a long silence as they all stared at the... clock goblin? What was that thing?
+
+"...And that reason is?" Cale prompted.
+
+"Ah!" The goblin startled, like it had forgotten they were there. "Yes! Dragon."
+
+"Dragon?"
+
+"There will be dragon tomorrow." The goblin paused. "Dragon rain. Must prepare!"
+
+Cale decided he would figure out what was going on with that thing later. "Can you just... wait outside, please?" he said. "I need to talk to my friends about something important."
+
+"Yes! Clock will wait outside." The goblin nodded eagerly, then popped out again, slamming the door shut.
+
+Professor Graystalk was the first to speak. "I suppose a bit of levity is appreciated," he said mildly. "Cale? If you are quite alright, I would like to know if I can help. I think all of us would like to know that."
+
+The others all nodded in agreement—even Thorn, who didn't know him yet. Not really. Cale felt a small glow of warmth inside him, and it took him a second to place it, it was so unfamiliar to him.
+
+Hope.
+
+...Damn it.

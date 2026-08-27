@@ -1,0 +1,227 @@
+---
+id: bf1b1492-a262-5df4-a8f4-78f9d602c61a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42 — Fire Resonance, Pt 4"
+slug: 0042-chapter-42-fire-resonance-pt-4
+partOf: just-add-mana
+position: 42
+ownLength: 3933
+unit: words
+ownProgress: 3933
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2645861/chapter-42-fire-resonance-pt-4"
+royalRoadId: "2645861"
+markedReadAt: "2026-06-29T18:49:00.358Z"
+---
+
+Cale didn't really know what had happened, though he did know that something had happened. He'd sensed something strange for a moment, something with an odd familiarity; stranger still was the fact that whatever changed, his mana core had responded with an odd twinge. He was pretty sure he'd experienced that before.
+
+Oh well. That sort of thing happened all the time, anyway. As long as Damien was happy! Cale had long since learned what to prioritize as far as strange feelings went, and as long as something wasn't setting off alarm bells, he wasn't usually too concerned.
+
+Case in point: that last Haelforge student! She was now approaching the Scales, brushing past him and Damien without giving them so much as a glance. Cale would have thought she was being intentionally rude if not for the sense of nervousness he could feel radiating off of her.
+
+And he'd thought Damien was nervous.
+
+More importantly, Cale didn't really like the mana he could feel radiating off of her. Whatever aspect it was, it was esoteric enough that he couldn't recognize it at a glance, which meant it belonged to a very short list of mostly incredibly dangerous aspects.
+
+And he made it a point to remember the dangerous ones, too, so the ones he couldn't remember were usually just ones he hadn't encountered...
+
+Cale frowned slightly. This was the same student that had cast two spells as soon as she'd arrived at the Elemental Shrine. They were low-tier spells, certainly, but they weren't exactly spells that would've helped her with the Scale. Was she planning something? It would explain the nerves.
+
+Then again, spell names didn't always do a good job reflecting their function. There was always the chance they were weirdly named meditative spells. He checked the Gift, just to be sure.
+
+[Basic Physical Enhancement, Level 1] [First Tier, Active] [50 Mana]
+
+Grants a minor boost to basic physical abilities.
+
+[Lesser Shadowstep, Level 1] [First Tier, Active] [50 Mana]
+
+Silence your footsteps when stepping in shadow.
+
+Okay, definitely not, then. Those spells were pretty much what he'd expected. Definitely nothing that would help a mage with the whole fire resonance thing. Then again, they weren't exactly what he'd expect from someone planning some kind of attack, either—if she was planning to ambush them or attack someone, that sort of magic was far too weak.
+
+Maybe she'd cast some stronger spells in tandem with the weaker ones? Draconic resonance would only help him pick up spells within the first and second tier. If she'd cast anything more powerful beforehand, he might not have noticed, although that was generally the sort of thing that drew attention. He'd been watching her pretty carefully after he caught her casting those two spells, so it couldn't have been after, either.
+
+Weird. Cale had no idea what she was trying to accomplish with those spells, unless they were meant to be used in tandem with something else. He swept out with his mana sense, just in case there was anything he'd missed—
+
+—but before he could really get into it, Professor Delia strode past him toward her student. Cale switched tracks to focus on her, immediately curious. She hadn't done this for any of her other students. For this one, though, Delia placed a reassuring hand on her shoulder and leaned down to speak, her voice surprisingly soft. "Remember what we spoke about, Kessi. Fire attuned mana only."
+
+"I know," Kessi replied. Her nerves settled slightly, but now she seemed frustrated instead; there was a faint, irritated pulse of mana from her core that she quickly suppressed. "Thank you," she added, a little belatedly.
+
+Cale frowned and glanced at Damien. "You wouldn't happen to know who that is, by any chance?"
+
+"Um... I don't think so." Damien's face wrinkled a bit as he stared at her, but he eventually shook his head. The faint wisp of fire mana around his eyes followed him as he did, but Damien seemed content to wait until Cale had his turn with the Scale to start meditating. "Why?"
+
+"Just worried. Something doesn't feel right," Cale said, studying Kessi again for a moment. Was there anything else he was missing? Her species was unique, he supposed—she was an aetheral, a sort of jellyfish-like people he'd encountered three or four times throughout his lives. They were surprisingly rare across the Great Realms, in fact, so that might be a factor...
+
+Cale wracked his mind to try to remember what he could about their people. They were rare in part because most realms couldn't properly support them—they required mana-dense oceans to grow to maturity, and that mana had to be rich in a specific blend of aspects for their magical abilities to really blossom. They had mana-reactive skin that fluoresced in response to the presence and flow of magic, making them rather predictable and easy to read when it came to casting.
+
+Now that he thought about it, that explained the thick layers of fabric that Kessi wore. It obfuscated her channeling and her mana signature, making her a much more unpredictable caster. The aetherals he'd met had been... somewhat less reserved, proud of their heritage and the beauty of their work.
+
+In fairness, they had a right to be. Cale might not have encountered them very often, but whenever they were allowed to flourish, aetherals seemed to lead the charge for magical development throughout their entire realm. Magic came naturally to them, in part because it was so easy for them to see what they were doing. Where other mages had to work for years on developing their mana sense, aetherals could simply see.
+
+That made it easy for them to start working with magic far sooner than almost any other species. They could experiment with magic, spell structures, and even refining their own mana cores far before anyone else.
+
+Most importantly of all, the species as a whole had a natural affinity for divination and precognitive magic, allowing them to divine the outcomes of their own experiments and avoid the most disastrous.
+
+If there were aetherals on Utelia, they should have been dominant. What was one of them doing as a quiet girl in her first year of magic class? And attempting to gain a rank of fire resonance, no less? It seemed unlikely that she would need it: despite her nerves, her mana flowed with the sort of steady confidence Cale had come to recognize as a sign of someone with experience.
+
+He couldn't imagine Kessi needed fire resonance unless she had problems similar to Damien's. Which wasn't impossible, admittedly, considering how strange her mana aspect felt.
+
+"Do you think she's planning something?" Damien whispered to him, interrupting his thoughts. Cale blinked.
+
+"Well... no?" he said after a moment. "Not really. She cast a few spells earlier. I'm just trying to figure out why. It still feels like something's wrong, but I don't think she's the cause, exactly."
+
+Damien looked confused. "So it's just a feeling?"
+
+"Hey, I've learned not to ignore my feelings!" Cale protested. Then he paused, catching Damien's disbelieving look. "Depending on the feeling," he amended. "Look, you learn to pay attention to certain things when you have to live with the Thread of Fate."
+
+"The what?" Damien asked, confused.
+
+"Oh, right. I should probably explain that." Cale scratched the back of his head awkwardly. He'd forgotten. "We'll talk about it during lunch."
+
+Professor Delia, meanwhile, was keeping a worried eye on her student, like she was terrified Kessi would accidentally feed the Scale some unattuned mana. And that was actual fear he was seeing too, Cale was pretty sure. She was hiding it well, but it was there.
+
+See, now he was just suspicious of the professor, too. This would be so much easier if whoever was behind this was the type of person that liked monologuing.
+
+"You are staring," Graystalk observed, his voice emerging from just behind Damien. The poor dreadshade leapt into the air like a startled cat, and likely would have collapsed into a pile if a slightly-bemused Graystalk hadn't caught him and placed him slightly to the side. "Ms. Lyrwin—or Kessi, I suppose—is rather new to Haelforge Academy, if you are wondering, hence the... special attention. She is also one of the last remaining members of the Communal Deep."
+
+Cale blinked. "The what?" he asked. "Is that what aetheral society here is called?"
+
+Graystalk observed him for a moment, then nodded. "It is what aetheral society here was called," he corrected mildly, making Cale wince at the implications. "The subject will be covered in History of Magic if you wish to know more. Suffice to say that Ms. Lyrwin is new enough to require a little more supervision than the others."
+
+A faint, teasing note entered his voice. "Though not quite as much supervision as you require."
+
+"Hey! It's not my fault your academy has so much stuff going on," Cale said, waving his arms around emphatically.
+
+Graystalk simply chuckled, folding his hands delicately behind his back. "And yet, I cannot imagine that such a thing bothers you," he said, a little too accurately for Cale's taste. "Why the interest in Ms. Lyrwin? Have you noticed something of concern?"
+
+"Sort of," Cale said. "She cast two spells earlier—[Basic Physical Enhancement] and [Lesser Shadowstep]. Nothing big, but they're weird spells to cast here, aren't they? It's not like they'd help you win at fire resonance."
+
+Graystalk raised an eyebrow. "I feel obliged to point out that one cannot win at fire resonance, though I suspect you would call me a hypocrite," the professor said dryly. Cale beamed and gave him a thumbs up that was smoothly ignored. Instead, he seemed to mull over Cale's words for a moment.
+
+"It is not unusual for a Haelforge student to maintain such spells on their person, in truth," the professor eventually said. "Haelforge Academy is rather famous for the quality of battlemages they produce, but they have a rather... shall we say, hands-off approach to how their students settle their differences and establish a hierarchy."
+
+Cale shot Graystalk a blank look, and the older elven mage let out an exaggerated sigh. "They use mage duels to establish dominance over one another. Haelforge Academy does not intervene provided the students do not outright kill one another."
+
+"Oh! You should've just said so," Cale said, nodding in understanding.
+
+Graystalk shot him an exasperated look. "I am certain you understood what I meant the first time."
+
+"I did, but I also like hearing you talk." Cale grinned unrepentently, ignoring the professor's pointed sigh. "Still weird that she's the only one that cast them, though."
+
+"She does belong to the Haelforge Astral Wing," Graystalk said. "While the Haelforge students do not despise their Astrals nearly as openly as our own students do, they often require them to... prove themselves in battle. Repeatedly."
+
+Cale paused, then slowly turned to look at Graystalk, who correctly interpreted his expression. "Please do not attempt to blow up the Haelforge Academy," the professor added dryly.
+
+"Dang," Cale muttered. "I was hoping you'd think I just wanted to duel that Headmaster."
+
+"Now that could be arranged, though I fear the results of such a duel. I suspect Headmaster Akkau would be delighted, though. Perhaps we could consider it at a later date, when our academy is not plagued by quite so many pests." Graystalk patted Cale on the shoulder. "Your concerns regarding Ms. Lyrwin are noted, although I daresay you should not expect every class you participate in to turn to chaos. You mentioned the Thread should calm, did you not?"
+
+"Well, not now that you said that," Cale said with an exaggerated groan. "Now something's definitely going to happen!"
+
+"Is that how that works?" Graystalk raised an eyebrow, genuinely curious.
+
+"No," Cale admitted. "But fate has... patterns, I guess. First class of the day? I'd be more surprised if something didn't happen."
+
+"I see." Cale was gratified to see Graystalk straighten slightly, his mana core beginning to spin in preparation, just in case he needed to cast. He watched Kessi carefully, ready to act in case anything went wrong.
+
+Cale always did appreciate that sort of professional trust.
+
+Thus far, everything was fine. Kessi was concentrating deeply on the Firestorm Scale, a bead of sweat dripping down her forehead as she focused. The Scale had moved a full four degrees, by this point, which was impressive... and Kessi wasn't even close to done.
+
+She was sagging more and more with each passing moment, though. Focusing enough to attune all her mana was taking a lot out of her, but she was getting a lot in return. In fact, the Firestorm Scale managed to tip a full seven degrees before things started to go wrong, and it wasn't even very noticeable.
+
+Graystalk had started to move before Cale even registered that Kessi's expression had turned from determined into a sort of frightened panic. She did an admirable job of trying to stay calm, though, instead speaking with a sort of tense urgency. "Professor," she said, trying to stop her body from trembling. "I-I can't stop."
+
+"What do you mean, you can't..." Delia trailed off mid-sentence, suddenly alert as Graystalk joined her next to her student; Kessi visibly tried to yank herself away, only for something to keep most of her body frozen in place. The gargoyle professor reached out to try to pull her free, only for her claws to slide off like there was glass in the way. "What is this? Professor Graystalk, this better not be—"
+
+"You know full well I would not interfere with this," Graystalk said tersely, already casting a series of quick Standard Array spells to try to move Kessi out of position. The spells slid off the increasingly panicked student, too, and yet Cale couldn't sense any kind of barrier in the way.
+
+He did get some new spells from that, though. For now, Cale ignored them to see if he could spot anyone in the crowd of students doing this. If Kessi had put up defensive spells—and they were clearly defensive, now that he thought about it—then perhaps she thought she would be targeted for exactly this.
+
+The only question was, by who?
+
+"Kessi, you need to stop channeling," Delia said urgently.
+
+Kessi shook her head, wincing in pain as more sweat soaked into her clothes. "I can't do that either," she said. "I'm trying. I can't stop, I don't know why. I can't control my mana—"
+
+Kessi gasped, convulsing slightly as the flow of mana from her hand suddenly increased; tears built in her eyes as she fought to keep control of her magic. "Professor, please," she whispered, trembling. "Do something."
+
+Delia cursed under her breath. "Focus on attuning," she ordered, her voice tense. "Fast as you can, understand? Do not let any unattuned mana touch that Scale. We need time to figure out what's happening to you."
+
+Her student nodded, gulping down deep breaths to try to keep herself calm. She steadied herself, and slowly but surely, the buildup of that odd, ghost-white mana in her skin began to return to the steady orange of fire.
+
+Except even then, she clearly wasn't attuning fast enough. The faster her mana flowed, the more unattuned mana began to creep up toward her fingers, and whatever force kept hold of her clearly wasn't keeping up. Professor Delia was muttering an increasingly creative list of curses as she cast diagnostic spell after diagnostic spell.
+
+Graystalk, meanwhile, was working on some sort of complex, layered spell array, his eyes flashing as he planned out the spell. Cale could feel him building a lattice of mana in preparation for the working, and he really, really wished he could spare the time to watch.
+
+"Cale?" Damien asked nervously.
+
+"Stay close," Cale responded, surveying the crowd and rapidly moving through it with his mana sense. Graystalk and Delia were both preoccupied with Kessi, which meant this was his opportunity to figure out who or what was behind this—
+
+—a few pieces clicked into place in Cale's mind, and Cale groaned. "Dammit, I'm getting rusty," he complained, striding into the crowd of students. Most of them hadn't even noticed anything was wrong. "Alright, Damien. Here's some apprentice training. Four things connecting all this. Do you know what they are?"
+
+Damien blinked, caught off-guard. "Um... no?" he said helplessly. "We're doing apprentice training now?"
+
+"No better time than a magical emergency!" Cale said cheerfully. "It's probably not even that much of an emergency. I'll give you the first one: [Lesser Shadowstep] is a terrible offensive spell in most cases. Pretty much the only time you could use it offensively is if you're in the dark, and I don't know if you've noticed, but the Elemental Shrine of Fire—"
+
+"—is brightly lit," Damien realized with a frown. "She wouldn't be casting that to get a sneak attack off."
+
+"Exactly." Cale grinned and patted Damien on the back, though he was still striding through the crowd with purpose. A few times, for no apparent reason, he frowned and changed directions, cocking his head slightly as if sensing something moving. "Oh, quick fun fact about aetherals: their species has a natural affinity for divination and precognition."
+
+"She knew she was going to be targeted," Damien said slowly. "But she didn't know how, so she was... preparing to run away?"
+
+"There are tunnels right beneath the shrine, if you reach down far enough with your mana sense," Cale said, tapping the ground with his foot. "I'm willing to bet she researched the area beforehand and knows a quick way to get to them.
+
+"Now the second thing." Cale scanned the air for a moment, frowned, and pivoted again, marching off in a different direction. "She lost control of her mana manipulation, which is reminiscent of..."
+
+"Shimmerdust," Damien said, his eyes growing wide. "The Red Hunters just tried to poison our food yesterday. You think they did the same with Haelforge?"
+
+"There's no reason to think the Brightscale Academy was the only target," Cale said in agreement. "Uncontrolled mana release is one of the earliest symptoms of shimmerdust poisoning. Your mental control gets stuck, for lack of a better word."
+
+"Which means the Red Hunters wanted this to happen," Damien breathed, his fists clenching slightly. "An incident with another wild mage would cement their position in Orstrahl. It might get them even more political power than the King."
+
+Cale paused and glanced at Damien. "Right," he said, his tone approving. "That's the third factor. We know they want to instigate tension, and they have the resources to attempt this sort of sabotage on a massive scale. This probably isn't even their only project—if I had to guess, they have similar plans all over Utelia. Especially in its academies. They just need a few to succeed."
+
+Something pinged on Cale's mana sense again, leaving an oil-slick sensation behind, and he sighed in annoyance: whatever he was sensing was moving fast, trying to avoid him. He would normally have just blasted it, but there were quite a lot of students in the way.
+
+"That's..." Damien shook his head. If dreadshades could turn pale, Cale was pretty sure his friend would be white as a sheet. Instead, he trembled for a moment, then balled his hands into a fist, forcing his expression into something determined. "You said there were four things."
+
+"Yup." Cale spun in a circle, losing track of that oil-slick mana again for a split second before sensing it again—this time closer. Was it avoiding him unintentionally? Or was he looking for the wrong thing? "Shimmerdust explains Kessi's loss of control, but it doesn't explain why she's frozen in place or why neither of our professors can touch her or dispel the effect. I could have tried, but frankly I don't sense anything there to dispel. And the reason for that is—"
+
+There. Cale snapped out with a sharp burst of mana that solidifed into a spherical barrier in an instant, closing around something that buzzed around in the air. He'd been looking for the wrong thing indeed. He smiled grimly as he brought the barrier close enough to inspect.
+
+Inside it was a tiny golden fly with shimmering wings, buzzing around and banging helplessly against the dome he'd created.
+
+Cale held it out to Damien. "Decay mana, please," he requested, and to his credit, Damien didn't hesitate. He unspooled a thread of decay into the barrier, and almost immediately, the gold began to flake off and the wings began to fade. By the time the mana had done its work, there was nothing left in the barrier but a small, unmoving orb of tarnished gold.
+
+Just in front of them, Kessi let out a sob of relief and collapsed to the ground.
+
+"Is it..." Damien asked hesitantly, and Cale gave him a reassuring smile.
+
+"It wasn't alive to begin with," he said. "I wouldn't ask you to do that for me. The Leviathan told me there are other Abyssal Ones on Utelia, bound into artifacts; I'm pretty sure this is the product of one of them. The Red Hunters probably have something that can make dozens of these. They send them out, program them to freeze their targets in place at the worst possible moment, and then have them come back before they can be noticed."
+
+Damien swallowed. "That's... that's horrifying," he said, his eyes fixed on the orb. "No one would notice these. They'd be able to just—"
+
+"Cale!" Professor Graystalk called out to him, his voice booming across the shrine and startling them both, along with half the meditating students. The others were too lost in their resonance trances to notice. Cale shot Damien an apologetic look, then rushed over to join the professors.
+
+They both looked exhausted. There was a complicated mana-trap of some sort that looked to be Professor Graystalk's doing, anchored by spellscripts hastily scribbled onto warding talismans.
+
+Except some of Kessi's mana had slipped through the trap. Cale didn't even need his mana sense to figure that out, because the Firestorm Scale was groaning. Its golden shine had diminished dramatically, replaced with a nauseating sheen of purple that moved as though it was alive.
+
+"We managed to stop most of her mana from reaching the Scale and slow down the process," Graystalk said grimly. "But it's still going to completely corrupt it in a few minutes. We need you to destroy it before that happens."
+
+Cale blinked and opened his mouth to ask a question, only for a set of writhing tendrils to suddenly erupt from the base of the Scale. He closed his mouth again.
+
+"You cannot seriously expect me to believe a student can destroy the Scale," Delia hissed. "This is serious! We need to evacuate our students! If that mana reaches the elemental god—"
+
+"You will still get your rank of fire resonance if you simply offer the Scale your mana," Graystalk added, as if he thought Cale needed extra motivation. He didn't, really. The Firestorm Scale performing a disturbingly accurate impression of the mating dance of a kraken was more than enough. "Just make sure you offer enough to break it, Cale Cadwell Cobbs."
+
+"What are you talking about?!" Delia asked, exasperated. She straightened, evidently ready to start evacuating her students.
+
+Cale just eyed the Scale for a moment, then nodded. "Yeah, okay," he said.
+
+All that mana control for nothing. Really, sometimes it was like the universe wanted him to show off.
+
+Well, if it did, then what could he do but oblige?

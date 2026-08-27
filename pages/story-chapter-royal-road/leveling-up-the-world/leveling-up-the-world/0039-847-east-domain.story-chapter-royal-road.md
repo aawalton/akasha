@@ -1,0 +1,185 @@
+---
+id: 9a812771-16a9-5606-ad2f-75c64d71355e
+page-type-slug: story-chapter-royal-road
+title: "847. East Domain"
+slug: 0039-847-east-domain
+partOf: leveling-up-the-world
+position: 39
+ownLength: 2049
+unit: words
+ownProgress: 2049
+publishedAt: 2023-12-17
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1446091/847-east-domain"
+royalRoadId: "1446091"
+markedReadAt: "2026-06-29T22:41:31.235Z"
+---
+
+There was a stark difference in the emperor’s garden. All the green plants had vanished, replaced by shades of crimson red. Normally, Dallion wouldn’t put any stock in it, but given that the emperor had called for him so suddenly, it was naïve to think this wasn’t meant to intimidate him.
+
+The path, too, had transformed. No longer the straight line of tiles, it zigzagged in deliberate fashion, ensuring that visitors had to walk as long as possible until they made it to the emperor.
+
+You’re in trouble, a vine bush chuckled as Dallion passed by.
+
+At this point, that was pretty obvious. Dallion wouldn’t be surprised if any of the plants attacked him on the way. Most likely, they weren’t going to kill him, but a scratch here and there would be acceptable.
+
+The further he went, the more plants joined in. Curiosity emanated from them, suggesting that the result of the meeting was anyone’s guess.
+
+After several minutes, the path suddenly straightened, leading directly into a massive rosebush.
+
+“Dallion, Dallion, Dallion…” the emperor said. As he did, the rosebush untangled, transforming into an archway. “What will we do with you?”
+
+Shining as bright as ever, the ruler of the empire was on a marble throne, leaning on his left hand. Initially his attire seemed rather simple, made entirely of cotton. That was until one realized that it was  actually alive.
+
+“Emperor.” Dallion fell to one knee. A lazy wave of a hand on the emperor’s side allowed him to stand up.
+
+“You’re like a feral kitten. Sneaking out of our home, then causing trouble before you return.”
+
+The description was rather apt, making Dallion smile on the inside. The first time he’d returned was after the death of the general. With the Order of the Seven Moons claiming that the snob had been a high-ranking member of the Star cult, the emperor had little choice but to make Dallion a full count. After that, all trips were markedly less significant, though never low key.
+
+“And this time you brought back a dead bird with you,” the emperor continued.
+
+“The viscount is very much alive, emperor.”
+
+“He’s politically dead. People have been asking for your head long before this. While it amuses us having you stir up this boring place, you’re no longer a child.” The tall man rubbed his chin. “You’ve entered the teenager phase—no longer cute and requiring a lot of maintenance.”
+
+All of Dallion’s bravado vanished, along with most of his confidence. If one continued the allegory, he was about to be given a time-out. And in this world, that meant a few decades in a prison item. Had he pushed his luck too far?
+
+“And what does one do with children when they grow up?” The emperor moved his head off his hand. “They kick them out.”
+
+There was a long moment of silence.
+
+“Am I being banished?” Dallion found the strength to ask.
+
+“What?” The emperor blinked. “Of course not. What gave you that idea?”
+
+Given everything so far, it was a logical assumption to make.
+
+“You’re making me an archduke?” A sense of euphoria filled Dallion all of a sudden. He had never held much hope for such an outcome, but everything was in the emperor’s hands. As ruler, he could do anything he wished, and that included giving Dallion his own province.
+
+“We’re allowing you to make your own settlement in the wilderness,” the emperor said firmly.
+
+Dallion felt like a deflating balloon. Objectively, that was a huge deal—more than anyone could hope for. Dallion was supposed to be overjoyed, yet after mistakenly considering that he might be made an archduke, this new offer seemed like a massive demotion.
+
+“That’ll give you a chance to make use of all that energy you have in useful ways.”
+
+“Yes, sire. I’ll be sure to help the war effort and—”
+
+“You’ll be creating your new domain to the east,” the emperor interrupted. “At the edge of our borders.”
+
+“The east, emperor?”
+
+Even the Order didn’t expand much to the east. Before the war, they had focused on expanding westwards, even making attempts to cross the world ocean. The only one who’d chosen to hide out east was Arthurows.
+
+“All nobles of significance are already expanding our domain to the west. You’ll have an easier time expanding it east, and without getting distracted by anyone else.”
+
+The hint was clear.
+
+“Yes, sire.”
+
+“Good. We’ll grant you the power to recruit anyone you want, as long as they aren’t from the imperial capital.”
+
+Normally, that wouldn’t be a problem. There wasn’t anyone that Dallion would take from here, anyway. However, there were two exceptions.
+
+“Thank you, emperor. If I may, can I request that an exception be made?”
+
+“You’ll get your apprentice.” The emperor all but sighed. “We don’t consider her part of the city.”
+
+“We’re grateful, but I was hoping that you’d grant me an advisor as well.”
+
+The request visibly caught the emperor’s attention. The man leaned forward, putting his hands together—an indication he wanted to learn more.
+
+“I’d like to take Adzorg, sire.” Dallion fought to say the words. “I’m aware of the esteem you hold him in, but would very much like to make use of his wisdom.” Not to mention that you already promised that you’d give him to me when I won the spire fields battle.
+
+“You want Adzorg?” The emperor asked, as if Dallion had uttered a blasphemy.
+
+“I’ll make sure he’s bound to my domain. And, I promise that he’ll cause no more troubles to you or—”
+
+“After what happened at the Academy, we didn’t think you’d want to have anything to do with the old man. Granted, we’ll have to settle with a less than adequate chess partner. As eager as Alien is to please, his chess skills are rather… nonexistent.” The emperor scratched his chin. “Very well. We’ll give you Adzorg, but only after you've created your domain.”
+
+“I’m grateful, sire.” Dallion bowed deeply.
+
+“Naturally, you’ll still be allowed to spend time in our capital. As we said, we like it when you stir things up. Just don’t go overboard.”
+
+“I’ll try my best, emperor.”
+
+The emperor waved his hand, indicating the conversation was over. On cue, Dallion started walking backwards. After a few seconds, the rosebush closed up before him, shielding the ruler from view.
+
+I don’t think you could have hoped for anything more, dear boy, Adzorg said from his domain. I’m touched by your concern, by the way. Not that I minded my present circumstances.
+
+I can always leave you where you are, old man, Dallion grumbled mentally.
+
+No, no. It’s quite alright. I could use a change of scenery.
+
+Dallion smiled. The only people who preferred a golden cage were those too weak to survive out of it. In their own ways, Dallion and Adzorg had grown beyond that, and even the allure of luxury wasn’t enough to change their mind.
+
+Two overseers were waiting for Dallion once he left the garden. One was a young boy who didn’t seem to like him very much. The two had gotten on the wrong foot ever since Dallion’s first visit to the capitol, and things had gone downhill from there. Even so, he had to accept Dallion’s title. While barons were a dime a dozen, counts were just important enough to be noticed.
+
+“I’ll take you to your house, count,” the boy said with a note of anger.
+
+“Since it’s you, how can I refuse?” Dallion smiled widely.
+
+“Right.” The overseer frowned. “And get your pets under control!”
+
+“There’s been complaints?”
+
+“Gleam created an illusionary tower on the roof of your mansion, count.” The other overseer stepped in, placing a hand on the boy’s shoulder. “Apparently, in response to a comment made by a member of another noble house.”
+
+Dallion nodded. It was no secret which noble house that might be.
+
+“While there’s no law against it, there are certain expectations from members of the emperor’s city.”
+
+“Did she dispel it?”
+
+“Not before a rather long and… interesting conversation. Don’t get me wrong, count. Gleam’s not the most irrational companion the capital has had by far. A lot of children actually admire her. I myself am used to her eccentricities. That doesn’t excuse her behavior, though.”
+
+“I’ll talk to her.” Dallion nodded. By the sound of things, she could use a change of scenery as well. “Anything else?”
+
+“No. Your other companions have behaved quite well.”
+
+“That’s good to know.” Dallion turned to the overseer boy. “Shall we?”
+
+A bubble of reality formed around Dallion and the younger overseer, scooping them from the emperor’s palace. Making its way through matter as if it didn’t exist, the bubble transported Dallion to the door of his mansion, where it popped out of existence. Naturally, the overseer had disappeared as well.
+
+“And a good day to you too.” Shithead, Dallion added mentally.
+
+As Dallion stepped towards the door, it opened.
+
+“Welcome, young master.” Taem said. He took on the complicated role of Dallion’s butler, advisor, and legal expert when it came to the capital. “I hope you’ve had a successful trip.”
+
+“Is there any other kind?” Dallion smiled as he entered.
+
+When the mansion was originally created by Vihrogon, it was a prime example of dryad elegance. For almost a week, it had even created a fashion trend in the city, causing a number of nobles to redecorate or rebuild their own homes in the dryad’s style. Since then, the place had transformed into something completely different. Most of the basement and the first two floors were transformed into a one massive space to hold parties, which happened every other night, regardless of whether Dallion was there or not. The top floor was divided between Dallion’s bedroom, a guest room, and rooms for his familiar companions. Naturally, Taem also had his own quarters, which were in a separate section of the basement.
+
+“Glad to hear that, sir,” the butler said with a straight face. “Would you like for me to call your usual… friends?”
+
+“Not tonight. I have some packing to do.”
+
+“You’re leaving again, sir?” Taem arched a brow.
+
+“Yep, but not for what you think. The emperor granted me the right to create my own settlement.”
+
+“That’s extremely generous, young master. The duchess will be delighted.”
+
+“Yeah…” That wasn’t at all how Dallion saw it. The old woman wasn’t at all pleased with his antics. She had learned to accept them, but never hid her disapproval. The rest of the family, on the other hand, were more than pleased. Dallion’s reckless disregard of social norms meant he would never be proclaimed heir to House Elazni, leaving them to settle things between themselves. “Where’s Diroh?”
+
+“The apprentice is out at the moment. I expect she’ll be back by evening.”
+
+That was highly doubtful. Since her entering the capital—after weeks of delay on the part of the archmage—the fury had received quite the welcome. Finding her exotic, not to mention actual fury royalty, the nobles that despised Dallion had done practically everything to find her favor. Diroh had been warned to be on guard, but even if she hadn’t, spending years in charge of a hunters’ tavern had taught her a thing or two.
+
+“Would you like me to call for her?” Taem offered.
+
+“That would be nice, thanks.” Dallion went up the single staircase in the middle of the room. “I’ll start packing my things.”
+
+“Of course, sir.”
+
+“Oh, and please tell grandma that I’ll—”
+
+“Already done, young master. She wishes you well.”
+
+The silent treatment already? Duchess Elazni wishing him well was the equivalent of her voicing her absolute opposition to him moving out. Since it was an imperial decree, there was nothing she could do, not even voice her opposition in private. Not wishing to see him, though, conveyed the message loud and clear.
+
+“Thank her for me.” Dallion paused for a moment. “Oh, and once I’m gone, tell Ber he can stay here.”
+
+“You’d allow him to stay here in your absence? I’m not sure your house will be able to withstand his lifestyle for long.”
+
+“I’ll still come by from time to time. As long as he doesn’t enter my room, it’s fine to do what he wants. I’m sure he’ll understand.”

@@ -1,0 +1,137 @@
+---
+id: cde1f369-33d8-5b4f-bde2-0da5cc56486f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94: No Regrets for Words Unspoken"
+slug: 0277-chapter-94-no-regrets-for-words-unspoken
+partOf: labyrinth-of-the-mad-god
+position: 277
+ownLength: 2136
+unit: words
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2958970/chapter-94-no-regrets-for-words-unspoken"
+royalRoadId: "2958970"
+---
+
+Nick rubbed his chin as he read the description. This is the first quest I’ve heard of that is limited to a faction leader, and forming a party with friendly beasts is a fascinating proposition.
+
+The more he thought about it, the more he liked the idea.
+
+Developing relationships with the planet’s beasts was vital to Earth’s survival, and overcoming an ordeal together was a perfect way to promote cooperation. He would have accepted the quest regardless. While the other rewards were nice, the one that had him chomping at the bit was selecting a new bloodline trait.
+
+After all, Blightborn gave him twice as many bloodline slots as anyone else his grade, and they were difficult to obtain. If Nick wanted to maximize his potential before the period of protection came to an end, he needed to fill them up.
+
+“This is perfect,” he said. “I wonder who I should bring with me.”
+
+“Actually,” Kenji replied. “I’ve already located an ideal party member.”
+
+The warrior paused for dramatic effect and then pointed at himself. “We didn’t get a chance to climb the tower together, and I’ve been looking for an opportunity to get to know each other better and impart some of the tricks I’ve learned over my long life.”
+
+Nick felt the same way. In addition to possessing the finest tactical mind he’d ever seen, Kenji was a martial-arts master and a bottomless font of wisdom on countless other subjects. The scarred warrior could kick some serious ass and was a perfect partner for exploring the Labyrinth of the Mad God and enduring the hazards of an alien world.
+
+Tackling an elite dungeon with Kenji at his side checked all the boxes on Nick’s list. It would be a nice change of pace and a chance to grow stronger at an accelerated rate without depriving his people of any opportunities in the process. Now that he had delegated his responsibilities, Aurora would be fine without him for a month or two.
+
+He turned and clasped Kenji on the back. “Let’s do this. When do we leave?”
+
+“Since this might take a while, I’ll need the rest of the day to get my affairs in order.”
+
+“That sounds good. If you can check in with Ella, I’ll let Kerry, Stan, and Liz know where we’re going. I’ll meet you at the obelisk at sunrise tomorrow.”
+
+Nick found Elizabeth talking with Ming’s team, working out a way to accelerate their timetable to accommodate all the new arrivals. When they were done with their discussion, he told Liz about the quest he planned to tackle with Kenji.
+
+She had an unreadable expression on her face when he let her know that he would be gone for several weeks, facing the most difficult challenge his people had discovered yet.
+
+Eventually, she turned to him and said, “This opportunity is too valuable to pass up, and it will be good for the two of you to spend some quality time together. Come back safe, and I’ll take care of things while you’re gone.”
+
+After sharing everything he’d learned about the quest, they shifted their discussion to other matters.
+
+Shady Cave had agreed to join the alliance, linking Aurora’s portal to the coyotes’ settlement. Nick could invite them to join Team Earth after he completed the quest and unlocked the option to add beasts to the faction. Several other settlements had expressed interest too, and the leaders would hammer out the details over the coming weeks.
+
+Since he was leaving tomorrow, Liz moved up the timetable for an event he needed to attend. The builders had completed the Memorial to Earth’s Fallen, and it was time to hold the commemorative service they had been planning for weeks.
+
+The crafters and builders had come together to create a monument that celebrated the lives and cherished the memories of the people they’d lost. Not only the brave souls who had fallen while fighting to save their planet, but everyone who perished when the System arrived and erased humankind’s works from the face of the Earth.
+
+There was no way to be sure, but Nick estimated that somewhere between eighty and ninety percent of humanity had died during integration, their tutorials, and everything that followed.
+
+It was a grim reminder of the horror they’d endured, but it wasn’t all bad news.
+
+While the tragedy that had befallen Abby’s people was far from an isolated incident, humanity was relatively safe during the year of protection, except those brave souls who had chosen to explore the frontier in search of power.
+
+He was certain that whatever came next would be far more dangerous. If Earth was going to survive as part of the Labyrinth, its inhabitants needed to come together and grow strong enough to protect the planet, minimizing their losses while they raised the next generation.
+
+On that note, no one knew what had happened to Earth’s children and the women who were pregnant when the System arrived. Several of his citizens had conceived since, although his people were still over six months away from their first births on New Earth.
+
+When he thought to ask, he learned that one consequence of evolving to species grade-D was women could control their fertility cycles, making traditional birth control obsolete.
+
+While these thoughts passed through his head, Nick walked with the other city leaders to inspect the memorial and prepare for the ceremony. Everything had been constructed and decorated by hand. It didn’t seem right to use the System to build it, given its role in the tragedy that had befallen humankind.
+
+The memorial had two components. The first was a vast pool of obsidian that was carved with intricate channels. When the base was filled with fire mana, it created countless points of light across the sea of black stone, representing the lives that had been cut short.
+
+The second was the wall of memories.
+
+Everyone who wanted to contribute had written a remembrance or made an offering, and the city’s crafters had lined the wall with alcoves to place them. The artists had adorned the surfaces with images of the old world, heroes who had fallen in battle, and memories from a way of life that would never come again.
+
+Nick had written a remembrance for his family and friends. For Angie—who had been erased from existence before his eyes—and James, the young man who had sacrificed himself to save Kenji in the Grand Arena of Papillion.
+
+Aurora’s leaders inspected the memorial in silence—awash in painful memories. When they were ready, everyone sat down at a bench and went over what they would say. Before they left, they listened to the musicians practice the piece they planned to play, leaving them all in tears.
+
+That evening, the city’s residents gathered for a formal ceremony that included several speeches followed by a candlelight vigil. Nick honored everyone who had died during the final battle for Earth, along with Ethan, who had fallen while saving his friends from a monster’s ambush.
+
+They were heroes in the truest sense of the word—champions who had laid down their lives to save their species from annihilation.
+
+During the vigil, people spoke of the friends they had lost. He only knew a few of them, but he listened to their stories and honored their memories just the same, vowing that their sacrifices wouldn’t be in vain. I’ll keep our people safe, and your legacies will live on in our hearts.
+
+Elizabeth and Nick walked home in silence—each lost in thoughts of their own.
+
+The ceremony had been beautiful, poignant, and thought-provoking. It was a timely reminder of how precious every moment was. That happiness was ephemeral and existence fleeting. That if you didn’t savor the joy in your life, it might vanish before you had the chance.
+
+When she took his hand, he didn’t let go.
+
+Nick knew her train of thought ran on a parallel track. That she was afraid he would enter the Labyrinth and never return. That this would be the last night they spent together, and any words they held back would remain forever unspoken.
+
+They made it home and sat down at the table—fingers intertwined while staring into each other’s eyes. His heart pounded as a medley of emotions churned in his chest. Bittersweet memories and old regrets. Newborn hope and the desire to drink fully of life before it slipped through his grasp like a fist clenching the sea.
+
+In that pregnant moment, his last vestige of hesitation crumbled like a sandcastle in a summer squall. The situation with Sophia wasn’t his fault, and Nick deserved to find happiness here and now. He couldn’t change the past, and who knew if any of them would live to see tomorrow?
+
+Elizabeth was looking at him with the most vulnerable expression he’d ever seen, lowering her armor and baring her soul. He knew that if he couldn’t be completely honest with her, here and now, he didn’t deserve her and would regret his weakness for the rest of his life.
+
+Nick took a deep breath, met Liz’s gaze, and said, “I love Sophia.”
+
+“I know,” she whispered and turned to go, but he hadn’t let go of her hand.
+
+“And I love you, Elizabeth.” With those words, the sorrow clouding her face evaporated, and she smiled like the sun was rising inside her heart.
+
+“I love you too, Nick. I’ve loved you since the moment our minds were joined. At first, I didn’t want to admit it. It felt wrong to have such intense intimacy arise from an event neither of us asked for nor consented to.”
+
+“After that,” he continued where she’d left off. “There was the situation with Sophia, and all the baggage we’ve been carrying from our old lives. The loss of our families and friends, and our people’s uncertain future.”
+
+“But my feelings are real,” Liz’s voice trembled. “I would never have grown this close to another person without our psychic bond, but that experienced showed me why I love you—it didn’t make me feel that way. You are the kindest person I’ve ever known.”
+
+“Someone with scars on their heart but believes in humanity.”
+
+“Someone who has faith that our people can change. Let go of the strife and short-sightedness of the world that was and become something better—never before seen.”
+
+“I don’t know if we will survive what’s coming. But I want to fight for our future with you at my side.”
+
+“I’m not asking you to set aside your feelings for Sophia. If she comes back, and you want to be with her. I understand. I’m not asking for forever, Nick. I’m not asking for tomorrow. But please, before you plunge into deep and deadly waters, let me have tonight.”
+
+With that, there was nothing more to say. They rose from the table and stepped into each other’s arms. Nick cupped Liz’s face and drew her in until their lips touched.
+
+Their first kiss was hesitant—light as a hummingbird’s breath. Neither of them could believe this was really happening after holding back for so long. But the passion smoldering in her eyes ignited his own.
+
+In that moment, all his longing, love, and lust came rising to the surface and he kissed Elizabeth like he was drowning and she was his air. The next thing he knew, their hands were everywhere. Stroking. Caressing. Exalting. Enticing.
+
+Nick’s heart pounded like a kettle drum as he picked Liz up and carried her into his bedroom—knees wrapped around his hips and teeth nipping at his earlobe. They undressed each other slowly, teasing and stroking until he couldn’t take any more. He pushed her back on the bed, reveling in the sight of her naked body.
+
+Then they came together like fuel and fire, marking the beginning of the best night of his life.
+
+***
+
+Nick awoke with Liz in his arms, grinning as the memory of their passionate lovemaking came back to him in a flash.
+
+Their superhuman bodies had endless endurance, capable of bending and balancing in ways he would never have considered without such vigorous motivation. He hadn’t realized their enhanced sense of touch increased their sensitivity to every sensation—waves of pleasure running through their limbs until their vision blurred.
+
+Their psychic bond played a part too, letting them feel what the other person was experiencing until he couldn’t tell where Liz ended and Nick began.
+
+He didn’t know what came next, but he was sure of one thing—as long as Elizabeth was in his life, he would never be alone again.
+
+When her eyes opened, she didn’t say a word. She just kissed his lips and held him tight. They stayed that way for a good long while, drinking in the warmth of the other until the sun rose.

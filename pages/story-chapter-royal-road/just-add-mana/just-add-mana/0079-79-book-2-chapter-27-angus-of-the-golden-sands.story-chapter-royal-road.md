@@ -1,0 +1,203 @@
+---
+id: b7f42ae2-c9d6-5aa3-9032-ce370fc30a42
+page-type-slug: story-chapter-royal-road
+title: "79 — Book 2, Chapter 27 — Angus of the Golden Sands"
+slug: 0079-79-book-2-chapter-27-angus-of-the-golden-sands
+partOf: just-add-mana
+position: 79
+ownLength: 4914
+unit: words
+ownProgress: 4914
+publishedAt: 2025-12-27
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2884223/79-book-2-chapter-27-angus-of-the-golden-sands"
+royalRoadId: "2884223"
+markedReadAt: "2026-06-29T18:50:21.108Z"
+---
+
+Many years ago, there lived a young lizardfolk named Angus of the Golden Sands.
+
+He was, by all accounts, a relatively normal mage of his clan. He had an equally normal mana core and a natural affinity for breath magic, just like all the other lizardfolk that lived within the Golden Sands. Wild mages in general were a rare thing for the beast clans of Illwyld, in truth; something about the continent they lived on gave them very strong natural affinities, or so the scholars of Utelia had concluded.
+
+Young Angus didn't know any of that, of course. All he knew was that he was just like anyone else in his clan as far as magic went, and he was fine with it. He didn't care that much about magic, anyway. Once he was grown he'd have to worry about hunting and gathering and all sorts of things, but for now, he could happily go around and listen to all the tales and legends held by the elders of his clan.
+
+Angus absolutely loved those legends. They were so interesting! And more than that, every household in their clan kept their own record of the legends, so even the same legends tended to vary slightly between households. Angus spent his time listening eagerly to any adult who was willing to spare the time to talk to him and tell him their version of the legends, listening with rapt attention each time.
+
+In the way very young minds did, he soon decided that those legends had to be real. There were so many of them! It would be weird if at least one of them wasn't real. Plus, no one seemed to know exactly who came up with those legends, and if no one had come up with them then surely they had to be true. They had to have come from somewhere.
+
+Besides, he couldn't imagine any of the elders being creative enough to invent the idea of a flying fortress. They were more interested in things like catching sandfish and managing relations with the nearby tribes and clans, all things Angus decided he didn't have time for. He was going to investigate those legends and prove that they were real!
+
+Which was easier said than done, admittedly. Angus didn't even know how he was going to get started looking for a flying fortress, especially if he couldn't fly himself.
+
+That was okay, though. He was still young, and when he got older, he would go to a magic school and learn how to fly, and then he'd find the fortress. There was plenty of time still for him to research all the legends he could!
+
+So he did just that. He went from household to household, pestering them to tell him every legend in sequence. The flying fortress wasn't the only legend that interested him; there was also a whole series of tales related to the idea of a Wanderer, supposedly a great lizardfolk who wandered through the Great Realms to solve their problems. Those same legends said that the Wanderer would one day return to grant them his favor and knowledge.
+
+Little Angus had absolutely no idea what he could do with those legends, admittedly. The flying fortress was one thing—at least he could search the skies for it. He could make plans, learn to fly, and maybe one day he would track it down where it had undoubtedly gotten lost on the other side of the world amid Utelia's oceans.
+
+It was different with the Wanderer. What was he supposed to do with stories about someone who didn't even share the realm with them? It wasn't like he could follow.
+
+Still, he loved those legends, and he pestered his elders for repeat tellings every night he could. The thought of other realms was in itself a source of endless fascination, especially with all the stories about what those other realms were like; there were so many his head couldn't fit them all, which was his excuse for asking for the same ones, over and over.
+
+One of them, for example, was a legend about a realm with mountains that sang a mournful song of grief and pain. Then the Wanderer arrived to offer his counsel, after which they sang a song of great healing. Another spoke of a realm in which the stars never stopped falling, and people hid beneath the ground until the Wanderer constructed a great barrier that halted those stars in their tracks.
+
+Angus dreamt of joining the Wanderer, sometimes. He dreamt of becoming a mage so great he earned the Wanderer's notice, and then he would be recruited to join him on those adventures across the realms. He would be a great hero too, he decided. He couldn't counsel mountains or build massive barriers, but he had his breath magic and lots of good ideas! That had to count for something.
+
+Besides, one thing was consistent about those stories: the Wanderer rarely used spells to solve a problem. He had magic in spades, but almost always preferred words to spells. Angus thought that if he learned a dozen small, esoteric spells, he might be able to act where the Wanderer could not, and that he might make himself useful that way.
+
+Most of his younger years were spent like this. Young Angus dreamed of a life a part of him knew he would never have. He fixated on learning those exotic spells he thought the Wanderer might need, and on a way to achieve some form of independent flight; the [Gilded Hurricane] was all well and good, but he wasn't exactly going to be able to get the whole clan to follow him into Utelia's oceans on a search for their lost fortress.
+
+It was no surprise then that as he grew older, the other households tried gently to persuade him to find a different calling. These were just stories, they told him. The Wanderer didn't really exist, and the clan needed hunters and warriors, not dreamers that pursued the impossible.
+
+Angus understood this. He really did. He just couldn't help it—those dreams were what drove him, and they were the source of his own little spark of wonder. Still, he acquiesced, at least in part: he trained himself to be a scavenger-mage, self-sufficient and capable of hunting even with his esoteric array of spells. His methods were strange, but they worked, so he no longer faced pressure to conform. He could continue his research on their legends in peace.
+
+He attended an academy, earned a license, and delved into dungeons to find evidence that the realms spoken of in their legends were real. To his delight, he found very quickly that they were. There were some small differences, certainly, but the singing mountains were spoken of in tattered textbooks of some lost realm. In those textbooks, however, the first song they sang was one of death and rot, and it ate away at the realm until almost nothing remained.
+
+Then, one day, for no apparent reason, the song became a song of life. Those old textbooks made no mention of the Wanderer, but that was no surprise; the timelines still matched, and the textbooks still spoke of pilgrims that made their way up the mountains in the hopes of calming them. No doubt the Wanderer had been among them.
+
+Angus was twenty-six when he finally noticed an oddity he'd been ignoring about the legends he'd obsessed over for most of his life.
+
+The details of each legend varied from household to household, but there was one detail that generally stayed the same: the Wanderer's presence. No matter what else changed about the legend, the Wanderer always showed up at the same point, and his solution was always the same. This was true for all legends.
+
+All of them except one.
+
+That legend spoke of a lush green forest. It spoke of a great temple that loomed above it, sharing its secrets with all that dared approach. The temple was defended, of course, or it would have been flooded with visitors—any who tried to approach and was found unworthy would find themselves back at the steps at the base of the temple, or unable to cross the boundary into it, or they would be tangled in vines and flung far, far away.
+
+Even there, the legend varied wildly. Some households described the temple as a living, beating heart, composed of vines and flesh. Others spoke of it as though it were dead and decayed, the last remnant of some old god. Still others claimed it was made of simple stone that thrummed with the beat of the realm itself, and focused instead on the emerald vine-veins that merged with it as though feeding the temple.
+
+The only point of commonality was that at some point, the temple fell. Its power faded. The manner in which this happened varied, of course. Angus listened as he was told of the heart simply no longer beating, of dead, ancient flesh crumbling away with no warning, of an elder that supposedly cut away the vine-veins in a fit of rage, causing the living stone of the temple to rot and decay.
+
+And then there was the Wanderer. When and where the Wanderer showed up and his placement in the legend seemed utterly haphazard and random. Some legends placed him at the very beginning, claiming he had placed the temple there in the first place. Others claimed he brought the temple back to life, with a final warning to take care of the blessing they had been given. In one variant, the temple was dying, and it used the last vestiges of its power to grant the Wanderer a blessing to be spread to the people.
+
+Angus recorded all of this, stared at the different variations of this one legend, and had the thought that perhaps there was no Wanderer in this tale at all. Perhaps the fantastical nature of this particular legend had made it appear like all the other tales of the Wanderer, and so people had simply added him to make it fit with the rest.
+
+So what if this legend didn't speak of a different realm after all? What if, like the tale of the flying fortress, it was historical in nature? If that were the case, then perhaps that temple was real, and perhaps the Golden Sands that defined their clan had not always been a desert.
+
+Perhaps that temple still existed, buried beneath the sand.
+
+Angus was well aware that this conclusion distanced him from the rest of his clan. Anyone he tried to tell about it just shook their heads at him and told him it was a waste of time. Even if he was right, what did it matter? The forest and temple were long gone, and they had better things to do than chase down a long-empty place of power.
+
+Those arguments did nothing to convince Angus, who was particularly stubborn that way. He began his search at once.
+
+It was admittedly slow going. He didn't want to abandon his duties to his clan—even if they didn't believe him, he still loved them, and they loved him in turn—so he continued to hunt and scavenge for food. He trained spells that would blow apart the dunes and search for anything of use within, although he could only ever search small sections of the desert at the time.
+
+That process took decades.
+
+In those decades, the sandfish became harder to hunt, less plentiful within the sand. His fellow tribesmen were finding it more and more difficult to kill the ones they did manage to fish up, thanks to those sandfish growing increasingly powerful defenses against breath magic. Why that was no one knew, but it meant Angus's search became increasingly desperate.
+
+The temple would have the answers they needed, he thought. Those legends spoke of it as having unparalleled knowledge and wisdom, the secrets to how life developed. It would know why their sandfish were becoming dangerous to hunt and why new, deadly magical creatures kept showing up within their sands.
+
+It could give them hope. Hope that they wouldn't have to abandon the only home they'd known.
+
+But it was still decades more before his patience was rewarded, and Angus was nearly a hundred and fifty by the time it happened. His mana core had grown strong with all that practice, but he was frail with age, his joints shaky and his eyes nearly blind. He still went out every night, occasionally with a young lizardfolk who was concerned about crazy old Angus, using his magic to blow apart the dunes and search for any traces that might remain of that old temple.
+
+That night he was alone, though, the young ones having long gone to bed. They would be performing another rite of the [Gilded Hurricane] tomorrow, moving to another part of the desert, and Angus gave it one final try, searched beneath one final dune.
+
+He found nothing, but then Gift sang to him beneath the brightness of Utelia's three moons and rewarded his dedication with a spell.
+
+[Breath Mapping] allowed him to turn his breath into tiny tendrils of air that could search through massive sections of the desert at a time. He shared the spell immediately with his clan, because it was useful even for hunting—it could be tuned to locate places where the sandfish were plentiful and weak—and there was a round of thanks and congratulations that warmed his old heart.
+
+He smiled at them all. They were his family, even if many of them thought of him as their crazy old elder who had never found a partner, who searched the desert every night for a legend that couldn't exist. Even if they hadn't believed in him, they'd supported him, listened to his stories, and helped him.
+
+Now he was going to help them in turn.
+
+He had spent nearly his entire life searching and dreaming of this one temple, and when he cast [Breath Mapping], it latched on to the spark he'd kept burning ever since he was a child and knew exactly what to look for. Its roots dug deep into the desert, searching.
+
+And then Angus felt it, resonating back through the spell into his mind, near the middle of the Golden Sands. It was buried far, far below—much farther down than he would have guessed or even searched, normally—but it was a massive, sprawling thing, impossible to miss once you looked deep enough.
+
+He just never had, because he hadn't once considered just how far down it might be.
+
+"A hundred and fifty years," Angus whispered to himself, his old bones trembling with joy. He might have tried for a celebratory dance as well, but joy was bad enough to make his bones ache, so he left it well enough alone.
+
+For the next week, he set time aside to investigate. He was old enough by now that no one bothered him when he didn't want it, and he shooed off any of the younger lizardfolk that came to him to help. This was his project, after all, and he wanted to give back to his clan.
+
+They had allowed him to lean on them, indulged in his desperation to hear their stories, and the young ones even searched with him and helped him with his notes. Even if they hadn't believed him, he felt their love for him. His time left on Utelia was short, he could feel it in his bones, and if he would soon be leaving them, then he wanted to be sure they would have all the food and safety they needed.
+
+He penned a few notes just in case, of course. Angus wasn't a fool, a hundred and fifty years into his life. If death claimed him before he made it into the temple, then perhaps someone else could take up the mantle and search, and perhaps they would find the answers for dealing with the sandfish and the dangers of the desert.
+
+That done, he left, and began to dig his way toward the temple in earnest.
+
+The journey was surprisingly easy. Angus had expected great difficulty, but the sand parted before him without effort, assisted by his odd collection of spells that allowed him to freeze it in place and construct a somewhat-stable tunnel. As he moved, the Gift provided him with better spells to dig his way into the sand, and what should have been at least a day's work turned instead into an hour.
+
+Just like that, he stood before the entrance to the temple, the sand around it cleared. The sight of it alone took his breath away, which was saying something, considering he was a breath mage. The door alone stood taller than ten of their tallest warriors, and this was just the tip. The very peak of an enormous, pyramid-shaped building.
+
+Angus reached out, brushing his claws reverently across the door, then yelped when bright green mana flashed through the stone and caused it to rumble open. It kicked up a cloud of dust in the process.
+
+When the dust cleared, he took a deep breath and stepped in, and it was everything he imagined yet nothing like it.
+
+The temple was stone inside, too, first of all, not some long dead god-flesh. But it did seem to breathe, and there were veins of emerald running through it, pulsing occasionally with light. The air within was rife with mana he didn't recognize, but for every moment Angus spent here, he felt almost like he was getting younger, healthier. Obviously that couldn't be true—that sort of magic didn't exist—but that was what it felt like. It was such a relief that he could have stood there taking it in for an entire day, if he'd wanted to.
+
+He didn't. His time was limited.
+
+There were alcoves all throughout the temple, packed with scrolls and books. For a moment, Angus wanted nothing more than to curl up and read and understand the legend he had been chasing all his life. How many answers were there in those scroll? They would be answers he had been dreaming of all this time, answers to questions he hadn't quite dared hope would be answered.
+
+Still, he didn't. There would be time for this afterward, when he brought the answers to the sandfish and the dangers of the Golden Sands back to his clan and he knew they would be safe. Then he would come back here and curl up among the scrolls, and he thought he would be quite happy to die there, nesting within a dream.
+
+Reluctantly, Angus made himself head for the center of the temple, down an endless spiral of staircases that undoubtedly led all the way down to the base of the structure. Right at the bottom, surrounded by gold filigree and emerald veins, there was what seemed to be an endless pit; everything around it was brightly lit, but the hole there just extended down into pitch-black darkness.
+
+Angus might have been afraid if not for the sense of life and healing that practically radiated from it. There was a gentle joy there, too, its intent woven in amid the mana, and tiny but concentrated wisps of breath magic.
+
+"You must be the reason we're all attuned to breath magic," Angus said, a touch of wonder in his voice. He didn't know what this was, but he did know it was benevolent and that it wanted to help. He bounced on his feet a moment—goodness, he really did feel better in here, it was almost like his joints had stopped aching altogether—and approached until he stood right at the edge, where a thin barrier prevented him from falling in.
+
+Angus couldn't help but laugh. "Worried about me?" he teased. "I have been searching for you all my life, my friend. I'm hardly going to just fall into you now."
+
+The pit said nothing, of course, but Angus felt a faint whiff of concern within the mana wafting out of it. The barrier pulsed brighter, as if in protest. Angus clicked his tongue.
+
+"Young ones," he said. "You always think your elders are so fragile."
+
+The mana took on a distinct feeling of indignation. Angus could imagine what it was saying—Excuse you? I am ancient, and you are a mere mortal of a hundred and fifty—and laughed again, bright and happy.
+
+"I know," he said. "Forgive me. I have spent all my life searching for you. One would think that my first act would be to kneel in supplication—" To his amusement, the mana appeared dismayed by the thought, if not outright disgusted. "—but it appears my years spent searching have made me unpredictable."
+
+He paused, then knelt anyway, and felt the mana ripple in protest for a moment before it realized he wasn't submitting himself in worship but simply making a request in the form of a prayer. The stone softened beneath his knees as though to make this more comfortable for him, and Angus smiled again, because never in his life would he have imagined the fabled temple attempting to make him more comfortable.
+
+"I seek understanding," he said. "The desert grows more dangerous by the year, and I fear my clan will not survive in it for much longer. The next generation might, and the generation after that, but the creatures are learning to resist our magics. Once a decade, we find a new monster capable of killing our best hunters, and it takes out too many of us before we find their weakness."
+
+Angus bowed his head. "If you can bestow your wisdom and power, then I ask it of you, not for myself, but for my clan. Why does the danger continue to grow? How may we fight it?"
+
+The temple shuddered. Angus felt a brief flash of something, tangled up within the mana—something like regret and guilt, along with gentle reassurance—and then it reached into his mind and mana both, bestowing on him a complicated sort of understanding.
+
+Adaptation. The sandfish were growing resistant because they killed all the ones who could not resist, and the ones that remained were the ones that had the means to survive even the strongest expression of breath magic. This was true of all creatures, on a long enough timescale, but it was especially true for the creatures of Illwyld and of the Golden Sands, where the temple's power was strongest.
+
+The lizardfolk couldn't keep up because the temple's power avoided them. Not because it couldn't give them its blessing, but because it was cruel to force it on them. Because it would mean they had to change rapidly, with no understanding of why or how, all to become better weapons against the sands. It would not do this to them, and yet it could not help but use its power somewhere, because it was leaking out regardless.
+
+It had an answer for him, though. It could change his mana and mana core—just his own, no one else's. It could grant him the power to attune mana into different aspects even when it was under the command of a different mage, which would give their clan options, the ability to use something other than breath magic to harvest the sandfish. The sandfish would adapt to that too, but that adaptation would leave them vulnerable to something else, and eventually they would once more be vulnerable to breath magic.
+
+That way, their clan would be able to retain the core of their magic and its influence on their culture without being forced to change entirely. Their growth in power wouldn't be so great that they eliminated the sandfish entirely, either; this would be only enough to restore them to what they had before the sandfish had started adapting. It was the best solution the temple could think of.
+
+Angus was briefly distracted by the idea that the temple was not, in fact, all-knowing and powerful. And also by the idea that it could think.
+
+Then he pointed out that he was only one mage, and he didn't have that much time remaining. Besides, wasn't this all something his clan could accomplish already, simply by learning spells of different aspects? Breath mana could be attuned to other aspects easily, after all.
+
+He knew as soon as he had the thought that it wasn't so simple. The warrior-mages in their clan were resistant to letting go of their arts at the best of times, and the Gift was known to shift its offerings to accommodate how the mages it gave its spells acted. If they started using other magics to deal with the sandfish, the next generation of mages would likely be unable to learn a good portion of the spells they used for everyday life, and in the worst case, they wouldn't be able to cast even the [Gilded Hurricane].
+
+The temple knew this, too. It countered that he did have plenty of time remaining, that even the short period he'd spent within it had extended his lifespan by months already—a thought that floored him—and by pointing out that he could simply imbue their weapons with his magic, giving each individual the ability to attune their breath arts into something else. As far as the Gift was concerned, it was still breath magic they were casting, only converted into a different aspect by an external tool.
+
+And even when he did eventually pass on, as the temple assured him he would, his new core would simply pass on to someone he deemed worthy. If there was no one, then they could return the temple, or craft his bones into tokens that would do the same thing.
+
+In a strange, morbid way, Angus found he didn't hate the thought of staying with his clan like that. Of helping them, even after his death.
+
+It was a solution. More than that, it was a good solution, or at least good enough for Angus. He would be able to gift his clan a way to live on in the Golden Sands for as long as they wanted, pay them back for their support and their stories, and he would have a legacy that endured with the clan even without ever finding a partner and having children of his own.
+
+This felt like the sort of solution the Wanderer would have found, in all those legends he'd loved. Angus accepted it gladly, feeling the temple's power sink into his skin, through his flesh, and settle around his mana core; he felt a moment of dizziness as there was an abrupt change, shifting his natural affinity.
+
+He thought for a moment that he would feel a sense of loss, but there was none. Just a quiet joy in finally completing his life's work and being able to walk away with a new task, a new hope, and—this was admittedly an absurd thought, but he indulged it anyway—if this was going to make him live longer, then maybe he would live long enough to meet the Wanderer.
+
+"Thank you," he told the temple. The mana around him warmed, almost like it was smiling at him.
+
+Only for Angus to stagger as he felt it shift into alarm and horror. The intent around him snapped into a scream of warning, violently surging into a barrier in a desperate attempt to protect him. It was the strongest thing he had ever seen, a solid mass of will and protection, so thick it seemed to bend space itself around it.
+
+Then he heard a long sigh. The sound sent a chill through him, because the mana around him was so thick he couldn't hear his own breathing, let alone turn to see who was sighing or how they'd frightened the temple so thoroughly.
+
+"Really, now," a voice said. There was something cold and wrong about it, and suddenly Angus found that he didn't want to turn around at all. In fact, he wanted nothing more than to desperately get away from whoever was speaking, and from what he could tell the temple wanted that too. It was trying to yank him away, only something that wasn't the barrier kept him in place, frozen.
+
+"Did you think I wouldn't notice you creating something this interesting?" it continued, its tone casual. Angus felt something dark and cold settling on his shoulder, something his mind absolutely refused to believe was a hand. "I would say you should know better, but this is just part of who you are, isn't it? You poor, dead thing. Even death can't teach you your lessons."
+
+The temple roared in protest. Angus could barely hear anything over the dizzying force of the two powers fighting over him. It was a miracle he was still in one piece at all.
+
+"Oh, yes, I followed you." There was the distinct impression of a nasty smile. "You made it difficult, certainly, but it was only a matter of time. And now you've given me yet another tool I can use. Thank you very much, by the way."
+
+Angus threw the full weight of his mana into escape. He might as well have done nothing at all, for all the effect he had. The temple was the only thing protecting him, and it was losing.
+
+The hand on his shoulder wrenched.
+
+And then Angus of the Golden Sands knew nothing at all.

@@ -1,0 +1,209 @@
+---
+id: ce2f6f58-86ab-52cf-9f87-98537bf37d65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23 – Dwarven Guidance – Pt4"
+slug: 0023-chapter-23-dwarven-guidance-pt4
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 23
+ownLength: 2134
+unit: words
+publishedAt: 2024-12-05
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1942141/chapter-23-dwarven-guidance-pt4"
+royalRoadId: "1942141"
+---
+
+Kindra jerked backward, tumbling onto the ground. The wolf launched itself off the ground. Its mouth opened wide, revealing yellow teeth.
+
+Runes blurred through Kindra’s mind, and she burned mana. A beam of light shot forward, cutting through the wolf as if it weren’t there.
+
+The runes in the undead wolf shattered. The glow in its eyes faded instantly, and the body slammed into her, sending her tumbling. She vaulted up and brushed off the gunk, looking at the rotten corpse. What set it off?
+
+She frowned and tried to figure that out. I made it through the gate without much issue. Why this time? She sniffed and wrinkled her nose, looking down at the corpse. Was it because I smelled like death before?
+
+Footsteps carried down the lane, and she grabbed the carcass. It can wait. I need to get rid of this.
+
+Grabbing the steel bar, she focused on making some bullets for her rifle. Triggering Transmutation, she let her mana drain. Steam and smoke rose from the corpse. A dozen bullets dropped to the ground. Grabbing them, Kindra willed them away and looked at the body. What do I do with the rest of it?
+
+Sighing, she hid it behind the bloomery and started digging, alternating between the bellows and the shovel.
+
+Digging out a chunk of charred dirt, she tossed set it aside. The sound of footsteps grew louder, and she pumped the bellows, nervousness lancing through her body. Please don’t let it be guards or—son of a bitch!
+
+Two dwarves shuffled forward. Their tan uniforms were clean, and their weapons were glowing. Both guards turned and looked at her.
+
+Waving, Kindra returned to the bellows and pumped, forcing air through the bloomery. Smoke billowed from the top of the chimney, and a guard studied her, his eyes locking onto her white hair.
+
+Remind me to make some dye. She smiled and continued pumping air while watching the glowing embers and metal. Grabbing the stick, she pushed some ash out of the hole and resumed pumping.
+
+“Miss, have you seen our hound?” the guard asked.
+
+Kindra nodded. “That way.” She pointed down the street.
+
+“Where’s your father?”
+
+“Mining.” Kindra met his gaze, looking into his brown eyes. Please don’t make me shoot you.
+
+He grimaced, revulsion spreading briefly on his face. After a moment, the emotion vanished, and he stepped forward, his eyes flickered around the area, focusing on the drag marks that remained.
+
+Shit. Kindra watched and readied herself. “It’s nice to meet you, sir. I’ll yell if I see your hound.”
+
+The guard frowned at her. “Where were you before here?”
+
+“Dunno.” Kindra shrugged.
+
+“Curious, that.” The guard took another step forward.
+
+Great. I’m going to shoot a dwarf and end up being a fugitive. Kindra painted a sad smile on her face. “I wish I could. Then I could remember my parents and friends and everything.” Forcing the memories of the crew into her mind, she let the grief of a thousand deaths hit her. Sorrow and grief spread across her face. Water formed in her eyes, and she looked up at the sky. The bluish-green canvas was clear of clouds but not clear of undead birds. They circled far overhead. Please tell me they don’t see the dog.
+
+The guard sighed and turned toward the sound of a cart, studying the approaching figure. “Dain, have you seen the hound?”
+
+“No,” Dain called, the wheels of the cart squawking.
+
+Kindra jerked her focus back toward the road. Oh, thank God… or Death.
+
+“Come on.” The other guard sighed and walked away.
+
+Kindra glanced back toward the carcass and the tiny, incomplete pit. Well, he’s not going to be happy about this. She nudged it further with her foot.
+
+Dain set the cart down and walked over, prodding the top and bottom holes with a stick. His gaze flicked to the carcass, and he turned. “Care to explain?”
+
+“It tried to eat me,” Kindra whispered.
+
+Dain’s expression shifted to one of concern. “You vow it?”
+
+Kindra nodded. “It sniffed me, and that set it off. I don’t know why.”
+
+“The amulet has limits, and scent is one of them.” Dain frowned and patted her on the back. “I’ll inform Sigrid and see if she can get a perfume. Be careful in the meantime.”
+
+“I don’t know how long I can stay here.” Kindra studied his dusty face. “This is risky.”
+
+“For you and us both,” Dain replied with a long breath. He patted her back. “Don’t worry about that. We are working on it.”
+
+“Working on what?” Kindra asked, grabbing the shovel and digging the grave.
+
+“The hidden base.” Dain smiled and winked. “I’ll take you later. In the worst case, you’ll use it, too.” He grabbed a pick and drove it into the ground, helping her dig out a grave.
+
+After a minute, they dumped the carcass and filled in the hole. Tramping the dirt down, Kindra walked to the bellows and resumed pumping.
+
+Dain crushed the ore, periodically turning to check on things.
+
+“Dain?” Kindra asked, waving him closer. “Are you part of the rebellion?”
+
+Dain nodded. “Yes. You met Sigrid’s father, Gleon.” He looked up at a circling undead bird. Broken feathers lined its wings, but it somehow stayed aloft, a painting of the macabre against the pure, clear sky. “Someday, we’ll be free. That’s the vision.”
+
+Kindra pumped the bellow and moved over to him. “Aren’t the necromancers very strong? How can you kill something that strong?”
+
+“Gleon has been working on that for decades.” He walked forward and studied the glowing metal. Grabbing a set of tongs, he fished into it and pulled out chunks of glowing metal, placing them on a flat stone.
+
+Looking more like clumps of ash and glowing coals, it sat there. That’s it? That’s what iron looks like?
+
+“Hammer it gently.” Dain fished out another clump and handed her a hammer from his belt.
+
+Kindra took the hammer and pounded on the soft metal. It mushed, and she hit something hard. Feels like steel mixed with mud. She tried to knock off the debris while shaping the glowing metal blob. Ash remained, and she frowned. How do they do this? Canister? She tapped off the outer layer, breaking more and more away.
+
+The glowing ingot began to form, and the metal’s glow dimmed. Crap. Another thought hit, and she smiled.
+
+Burning a small amount of mana, she triggered Transmutation. It took almost nothing. Mana flowed down the hammer and into the metal. Ash burst off of it. Slag fell away, and a glowing block of steel sat there like a mote of infinite potential. Swords, armor, pots, pans, and many devices danced through Kindra’s mind. She leaned closer, studying the metal. Pity we have to use it on some crummy sword for the undead.
+
+Dain walked over and placed down another lump. Swinging the hammer, Kindra pounded on it, breaking away glass fragments and pieces of ash. Knocking them aside, she ignored some approaching footsteps and focused on the metal. Heat washed over her. Impurities broke away, and she burned a little mana to help finish cleaning it.
+
+Pushing it with the other block, she pounded on the next clump. Heat and smoke drifted around her. Pieces of slag broke free. It’s strange how much junk is on it. Kindra pounded away, trying to get the same glowing block of metal.
+
+Another bloom was placed on the rock. A hammer began smashing it. Watching, Kindra mirrored what Dain was doing to clean and shape the metal. Burning a final bit of mana, Kindra used it to blow away the last of it.
+
+Smiling, she studied her work. That is very cool. Turning, she watched Dain do it without magic. He knocked away the slag and shaped it into a bar, stacking it with the others.
+
+“Dain,” a voice called.
+
+Kindra turned and looked over at the newest visitor. She waved at the short dwarf with a massive beard that reached his belt. That can’t be practical.
+
+He stepped forward with a smile. “Hello, Kindra. Can I borrow your father a moment?”
+
+“Sure.” Kindra nodded.
+
+Dain looked up. A smile spread across his face. “Hello, Stavn.”
+
+The dwarf walked up and looked at the ingots with a nod. “We connected some tunnels and have some rats. I was thinking that she could get a little mana.” He looked around. “It would help. She has far too little for her age.”
+
+Kindra leaned forward. “How do you know that?” she whispered.
+
+Stavn looked at her with a raised brow. “Her language study happened fast, even if it isn’t perfect.”
+
+“Aye. She’s bright.” Dain turned. “There is a spell that shows your level. We used it.”
+
+“She should plan for level fifty as well. Training will help her qualify for a useful option.”
+
+“Yes. That would be ideal.” Dain nodded and turned toward Kindra. “Kindra, this is Stavn. You can trust him. He’s going to help you get some mana, and—” He turned. “She can’t read yet. We’re working on it.”
+
+Stavn nodded. “Understandable. I’ll keep it in mind.”
+
+“And?” Kindra asked.
+
+“And offer you some guidance for future growth of your magic,” Dain finished.
+
+Oh, that’s handy.
+
+“He’ll escort you for a bit.” Dain patted her on the back and walked to the cart of ore. He began crushing them.
+
+Kindra turned and smiled nervously at him. Well, I could use more information on growth… unless you want to provide that, System.
+
+[Your growth is based on use and desire. It’s that simple, Kindra.]
+
+She willed it away with a sigh.
+
+“It is nice to meet you, Kindra.” Stavn turned and walked down the stone street. “Come along.”
+
+Kindra hurried after him, studying his red hair and loose attire. “Doesn’t that hair get everywhere?”
+
+Stavn chuckled. “Aye, but it likes to grow.”
+
+Kindra studied his arms. Small scars ran up and down the stout man. She pointed.
+
+“Fighting is a faster way to level, but it’s dangerous.” Stavn turned toward her. “Keep it in mind. There’s nothing wrong with crafting. Artificer was a good pick. I’d advise something to help with it. Soldier or guard will give you a nice boost to your strength.”
+
+“What if I want to enchant things?” Kindra asked.
+
+“Artificer and a magic class is what I’d recommend for that. You regenerate it a bit faster at the cost of some of your stats.”
+
+“So, pick a magic class?”
+
+“For enchanting or alchemy, yes, but I wouldn’t advise them. We need to hit our quotas.” Stavn sighed. “Always behind.”
+
+Kindra swallowed. “How hard is it to make eight in a week?”
+
+“Very. You have to make charcoal, which takes weeks. You have to mine and refine. That’ll cost you a day. Then you need to forge the blades.”
+
+“But magic?” Kindra probed.
+
+Stavn leaned closer. “Using it while crafting makes it grow faster. That’s problematic.”
+
+Oh. She nodded and followed him down the streets, passing cottages and a few shops.
+
+Turning down a larger street, she headed toward a large building with ornate glass windows. They glowed with a soft light, catching the sun’s rays and almost lighting the nearby town.
+
+Why does it feel so real? Death, is this your church?
+
+[It’s a church, but not to me. ~Death]
+
+Are there other gods?
+
+[There are entities trying to be gods. I’ll leave it at that. ~Death]
+
+Wait. Are you a god? And can you explain?
+
+[There are creatures that gain power through worship. They grant boons in exchange, attempting to gather enough power to ascend to the heavens. ~Death]
+
+He didn’t answer. A shiver ran through Kindra. Admittedly, she’d been desperate to leave that void. Too desperate. The thought nagged at her. “You’re a god?”
+
+[Kindra, I fill that role, so yes. And I’m not your enemy. You have plenty of those. Worry about them. ~Death]
+
+Doubt flickered through her, but she could hardly deal with an entity who could hear her thoughts. Future problem.
+
+Walking up three steps, she paused, and Stavn opened the door. He walked inside, and she followed. Stone pews adorned the floor. A small pulpit sat at the front. Light streamed through the windows, and a dwarven woman in white robes turned. She smiled and stepped forward, causing her long brown braid to sway.
+
+Stavn walked forward. “Hello, priestess. I’d like you to meet Kindra.”
+
+“Ah, the orphan girl.” The priestess beckoned her forward, a glowing smile spreading across her face. Her green eyes glistened, speckles of yellow shining through.
+
+Kindra walked down the aisle, looking at her dust-covered dress and body. Well, this is a little awkward.
+
+Stavn shut the door. The priestess began chanting. Runes whirred around her and surged forward, flooding toward Kindra like a tidal wave.

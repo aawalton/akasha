@@ -1,0 +1,89 @@
+---
+id: f36bef27-e02c-5aee-b79b-e3efabc57290
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Picking a Path"
+slug: 0032-chapter-6-picking-a-path
+partOf: labyrinth-of-the-mad-god
+position: 32
+ownLength: 1921
+unit: words
+publishedAt: 2024-07-31
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1739680/chapter-6-picking-a-path"
+royalRoadId: "1739680"
+---
+
+Now that upgrading his first spell was taken care of, it was time for Nick to decide how he wanted to spend the three free attribute points he’d acquired for defeating the river king and completing the first stage of ‘the fate of Earth’ quest chain.
+
+When he was done, he wanted to check out the new knowledge point entries he’d picked up just before entering Darkstone Tower, then pass out for a few hours before his next ordeal began.
+
+Figuring out how he wanted to spend his free points was always a little tricky. Since life as part of the System was still so new, he had to rely on his instincts as much as his reason. There wasn’t any established wisdom or prior research for him to consult or consider.
+
+Advancing along the myriad paths of power was still terra incognita to the inhabitants of Earth. Nick would just have to do the best he could with the limited information at his disposal.
+
+He walked over to the display and opened his profile, taking in each stat individually as well as their distribution as a whole. Reflecting on how each increase over the last two months had bolstered his capabilities and improved his odds of survival.
+
+Each of the attributes on his profile offered multiple benefits, and he’d reached a place where he could take the direction of his development along more than one viable path.
+
+Over time, he would have to choose what kind of life he wanted to live in this strange new reality, both on and off the battlefield, planning out his expenditures with one eye on the horizon. But he wasn’t there yet.
+
+Right now, Nick needed to make the choice that would offer him the best chance of living through today. There would be time to plan for tomorrow once they pried the Earth free from the Mad God’s grasp.
+
+That still left him with two potential strategies to consider, capitalizing on his strengths or shoring up his weaknesses. The only attribute that was completely out of the running was charisma, since Nick had been alone more often than not and got along fine with his new friends. He had no real need for a boost to his social skills and emotional intelligence.
+
+Maybe that would change when they made it back to Earth and it was time to rebuild human society. But for now, it left him with eight attributes to consider.
+
+His magic was rising rapidly, thanks to his Kineticist class, and his dexterity was moving along at a steady pace too. While he would always want more, he was happy with how both attributes were progressing. Since they would keep going up on their own as he leveled, he didn’t need to bolster them with free points for the foreseeable future.
+
+Given how useful they’ve been in getting out of some tough spots, I should probably invest at least one point into my mental attributes. Creativity had proven to be incredibly beneficial in the right situation, and Nick wanted to enhance his ability to visualize and create sometime relatively soon. But raising it didn’t feel like the right choice now, considering the dynamics of his latest challenge.
+
+But his mind was another story, given what he’d seen when he stepped through that last portal. The layout of the Tower of Rizzen was incredibly complex, more of a maze than a structure. His vision had left him with a sense that there were opportunities and mysteries infused within every stone of the tower, along with countless threats in a vast away of forms.
+
+Boosting his mind would help him to unlock the tower’s secrets, making it easier to choose the best route to the top and maximize his gains along the way. As an added bonus, the side effect of spending a free point in mind could give him a head start in working through the problem right now. Mind it is.
+
+Ready to spend his first point, Nick nodded to himself and sent his intentions into the display. The moment that he confirmed his choice, he crossed the chamber and sat down on the bed. He pulled up his memory of the tower and started pouring over the particulars. The vision that he’d experienced while journeying through the portal network was still fresh, and he was able to recall it with vivid detail.
+
+A few seconds later, the free point kicked in, accompanied by the sensation of someone wiping a clean cloth across the dirty lens of his cognition, leaving everything clearer and sharper than before. His thoughts felt honed to a razor’s edge, and he called upon his arctic clarity to push it even further, that strange ability he’d been developing since early on in his tutorial.
+
+Frigid focus drew him into a state of total concentration, letting him orchestrate his heightened awareness like a musician conducting a symphony. The countless variables began falling into place like a puzzle assembling inside his head.
+
+As Nick had hoped, he started to get a better sense of the Tower of Rizzen as a whole. Not its true purpose and ultimate nature, as that was far beyond the scattered pieces he’d seen, but its underlying logic and the arrangement of its various structures.
+
+There was only so much that he could learn from the information that he had on hand. But as he pondered the matter long and hard, he began to get a sense that the various floors and the conduits running between them were almost like an ecosystem containing its own patterns and cycles.
+
+Various substances and energies were created in certain parts of the tower, then sent to others to be used in a thousand different ways, refined and transformed in the process. Each step created some manner of waste, which was all shuttled down to the basement levels, near where Nick had stepped off the conduit and into his safe room.
+
+Judging from what I’ve seen, this floor plays a role in waste management. Some kind of disposal, processing, or storage facility. Or perhaps a mix of all three. The more that he thought about it, the more certain he became. He wasn’t sure how to use that knowledge just yet, but he had a hunch that it would come in handy sooner rather than later.
+
+Done pondering the tower for now, Nick spent a few minutes enjoying the upgrade to his senses that came with improving his mind. His vision, touch, and hearing were all crisper than before, and he knew from experience that his smell and taste had been enhanced too. When he was done checking in with his body, he was ready to spend his other points.
+
+Nick was tempted to put them both into strength. His sword was getting heavier as the weapon repaired itself and was becoming more difficult to control, especially with its missing pommel stone. On top of that, his pack could now hold up to two hundred pounds, which would weigh one-fifty with its mass-reducing power. But after considering the matter, he decided that it was still manageable for now.
+
+While he would invest more in strength soon, he had a sense that it wasn’t quite the right time. That his other needs were even more pressing. In the end, he decided to put both free points into toughness. He needed to be able to fight without being taken out by a lucky hit, to shrug off blows that would cripple or kill him otherwise. To be able to fight for longer at a peak level of performance.
+
+As important as these improvements were, they were only a secondary concern. The main reason for his choice was force acceleration, the ability that had made all the difference during his last fight. Nick needed his body to be able to withstand the pressure generated by the explosive motion if he wanted to rely on it in battle. Especially if he added stamina into the mix, like when he’d hurled the rock at the river king.
+
+Since he’d nearly lost control of his body the last time that he’d gone up two levels at once, he decided that he needed more experience in handling multiple attribute upgrades simultaneously. Thus, although it would probably be unpleasant, he decided to spend both points at once and try to build up some tolerance to the process.
+
+He hopped off the bed, walked over to the display, and sent his intentions into the screen, letting the System know that he wanted to spend two points on toughness at the same time. Since he was trying to acclimate to the bizarre experience, instead of sitting down, Nick decided to ride out the changes on his feet, simulating what it would feel like if he leveled multiple times in the same battle.
+
+Before long, he felt energy congealing in his extremities before flowing throughout his body, a sensation like electric worms gliding down his veins. As the System’s power flowed throughout his limbs, his flesh began to unravel before drawing tight, muscles writhing like eels in a sack.
+
+The changes went through his body one part at a time, rebinding each layer of connective tissue so that it was denser and more durable than before. Able to shrug off more damage and perform at a higher level without running out of energy.
+
+Nick wouldn’t have enjoyed fighting while these alterations were underway, but he thought that he could have managed it if left with no other choice. I just hope that it doesn’t come up too often, single point gains aren’t nearly as intense as two in the same attribute at once.
+
+Five minutes later, his transformation was complete. After a final pulse of energy, everything went back to normal. He made a fist, feeling the muscles and tendons in his right arm draw tight, the same parts that had been savaged by his epic throw before entering the tower.
+
+With any luck, I’ll be able to use force acceleration without damaging my body as badly. Although he still had a long way to go before he could use the ability at full power without suffering any consequences.
+
+Now that his points were spent, Nick pulled up his profile to check out the changes to his stats, enjoying the satisfaction that always came with watching the numbers go up.
+
+Damn Nick, looking good. His strength and creativity were reaching a level that was equivalent to the best in the world, back on pre-System Earth. And his mind was even higher, something that boggled his brain whenever he stopped to think about it.
+
+But that was only the beginning. His toughness and dexterity had crossed a threshold where he could compete at the level of an Olympic athlete, even without the rigorous training they underwent to perform at that level.
+
+The rapid growth to his attributes let him compensate for the gaps in his skillset, at least to some extent. To fight and dodge, run and jump, well enough to survive his various ordeals.
+
+The difference would become even more pronounced as he earned more skills and trained them up. First on the list, Nick was looking forward to finding out what he would be capable of after a little more development with sword and evasion.
+
+But there would be time to test his evolving limits later. Right now, it was time to bolster something equally important in its own way, his knowledge of the various laws governing the System.

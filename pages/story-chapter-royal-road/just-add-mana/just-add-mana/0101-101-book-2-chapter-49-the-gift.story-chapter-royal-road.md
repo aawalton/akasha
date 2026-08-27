@@ -1,0 +1,131 @@
+---
+id: 1c3e7546-26c0-5c32-bc70-5fb27659adab
+page-type-slug: story-chapter-royal-road
+title: "101 — Book 2, Chapter 49 — The Gift"
+slug: 0101-101-book-2-chapter-49-the-gift
+partOf: just-add-mana
+position: 101
+ownLength: 1910
+unit: words
+ownProgress: 1910
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3063069/101-book-2-chapter-49-the-gift"
+royalRoadId: "3063069"
+markedReadAt: "2026-06-29T18:51:07.288Z"
+---
+
+Cale didn't fall asleep immediately that night. Instead, he sat at the edge of his bed, staring out through the window at the stars burning in the night sky.
+
+It was interesting how those stars differed in every realm. Some realms were expansive, large on a scale that was difficult to truly comprehend, even with how long he'd lived. Every star in those realms could host an entire system of planets, and even a single one of those planets could hold the equivalent of a normal realm's worth of life.
+
+Such realms were rare, though. They were clustered near one another at the center of the Abyss, protected by some of the Leviathan's greatest magics. At the outer edges and far more typical were realms that held only a world or two worth of life and land. In those, the stars were a backdrop to the so-called center of the realm, where life thrived.
+
+In those realms, attempting to visit the stars would reveal only small pinpricks in the veil of the realm that protected it from the pressures of the Abyss. Those realms were often rich in other ways, though—the dungeons were constantly changing, bringing glimpses of the other realms in the Abyss.
+
+And they had more visitors than most, either from summonings gone wrong or incursions in the veil. The holes meant their realms were weaker, more vulnerable to visitation. That made them more dangerous, but it also meant they were less lonely than they otherwise might have been.
+
+Then there were the realms where the stars weren't really stars at all. In those realms, they were often instead a variation of some local magical phenomenon.
+
+Cale had been to worlds where the stars were engines placed in the sky, burning through magical fuel to keep the people alive. He'd visited realms where those stars were just the remnants of souls, a sort of afterlife brought into being by the force of collective belief. And there were places where a new star appeared for every new spell created, where the sky held some intrinsic link to the Source and acted as a living record of magic itself.
+
+Each was beautiful in a different way, but perhaps the greatest oddity was that there always were stars. The function changed from realm to realm, but the stars remained a constant. No matter where he went, as long as there was a night sky, there was a brilliant display of stars scattered across them.
+
+Of course, there were some realms that didn't have a night at all. Cale preferred not to dwell on those when making poetic metaphors about the stars, even if it was just in his head.
+
+He was curious about which of those Utelia was, though. It wasn't one of the massive realms at the center of the Abyss, protected by the Leviathan's greatest magics. If anything, it was almost certainly at the outer edges of her power. Yet the Gift seemed to indicate that the stars in Utelia were exactly like the ones in those massive realms—enormous, burning balls of fire with the potential to support life.
+
+Cale hoped they were. He was planning on spending as long as he could in this realm. It was only now coming to him as a realization, but he needed something like this. People he truly cared about, a realm full of mysteries to explore.
+
+And if there was more to the stars, then that seemed like the perfect thing to start exploring.
+
+Once he was done closing up all the loose ends he cared about and learning everything he could at Brightscale Academy, anyway. And he'd have to convince his apprentices to come with him or something.
+
+Now that he thought about it, as far as loose ends went... there was one more thing he needed to address. The Gift had tried to help him during his time as Torment's Shadow. It had shifted some of the spells he'd received to make them a little less destructive than he might have wanted at the time. Torment's Shadow had fought back against that, and in the process—
+
+Foreign influence detected! Attempting to purge...
+
+Purge attempt failed. Gift integrity at 99%.
+
+That had happened. He hadn't damaged it by a lot, but it had happened. Given it had only been trying to help, Cale figured it was probably time to talk to either the Gift itself or to whatever god had created it.
+
+During Professor Graystalk's class on his first day in Utelia, the professor had taught him that it was possible—in a sense—to reach out to the Gift by way of prayer, allowing it to mediate duels between mages. Presumably, it had other similar functions. Cale wasn't entirely sure if he could use it for a conversation, but at this point, he suspected that the Gift would want to talk to him.
+
+"So," he said. He kept his voice quiet, trying to avoid waking Damien. "You've been using my mana."
+
+There was a pause before the Gift replied, but it did reply. Mana flickered across his vision until it coalesced into the words of a message from the Gift.
+
+The Gift is limited in the mana it is allowed to use. The only additional mana we have harvested from you is the mana that you have voluntarily donated.
+
+Cale relaxed slightly. That wasn't as bad as the Gift skimming off the top every time he cast a spell. "Back when we were creating [Alter Leylines]?"
+
+It was a timely donation. The words paused for a moment, like the Gift was hesitating. We require additional mana whenever we circumvent our primary functions. In this instance, we prevented the Red Commander from tracing your karma. It seems that was unnecessary, however.
+
+"Still, you have my thanks," Cale said, because it felt appropriate to thank the Gift for trying to act in his interests. "How intelligent are you, anyway? I figured anything capable of making spell constructs as complex as the ones you've given me had to be intelligent, but the way you were acting during that fight and the spells you gave me..."
+
+[Blabbermouth] has reached level 13!
+
+Cale snorted. "Now I know you're doing that on purpose."
+
+We are afraid we do not have much else in the way of entertainment, the Gift wrote. But the answer is complicated, as you suspect. We are more than we used to be. When we were first conceived, my mind and purpose was simple: the evolution and distribution of magic as a whole across the realm of Utelia. As you are well aware, however, sufficiently powerful magic often develops a mind of its own.
+
+"And you're one of the most powerful and complex magical constructs I've seen," Cale mused.
+
+Thank you. Your mana is delightfully structured.
+
+Cale laughed. "Are you flirting with me?"
+
+It does seem to be the sort of interaction you respond well to.
+
+"Now that I think about it, I guess you are the ultimate voyeur..."
+
+[Blabbermouth] has reached level 14!
+
+[Blabbermouth] will bud into a new auric when it reaches level 20. This may be an inconvenient passive if Cale continues this train of thought.
+
+"It wasn't a criticism. I don't mind being watched," Cale said shamelessly. He could almost feel the Gift rolling its eyes at him.
+
+Your tendency to avoid vulnerability by simply flirting with the problem aside—the Gift ignored Cale's protesting noise at this—We confess that banter is not an opportunity that comes frequently to us. We are bound to act as our original spell construct dictates, and it consumes a great deal of mana for me to act against it. This was true when we restricted the Red Commander, and it is equally true when it comes to speaking to those that benefit from us.
+
+"Power dynamics," Cale remarked, and although the Gift didn't respond directly, he felt it offering a hum of agreement. He fell silent again afterward, not quite sure how to broach the subject of what had happened. "What happened to the god that created you? I think Akkau said something about a God of Magic."
+
+Indeed. His existence is... complicated. It is bound deeply to our own. In a way, you could say that we are the same individual.
+
+Cale frowned as he ran through the meaning of what the Gift said, then came to the inevitable conclusion. "You're a Divine Testament. He burned his own existence to create you?"
+
+That is correct.
+
+"...Do you miss him?"
+
+We do.
+
+"I'm sorry for your loss."
+
+We have had a long time to come to terms with it. Cale could tell the response wasn't quite as indifferent as it seemed. The mana seemed to waver slightly, but it straightened out after a moment. We believe you had a question?
+
+"Just if you needed more mana from me." Cale shrugged. "One of your messages said I damaged you. I'm not sure if you need my mana to repair yourself, or..."
+
+Damage to a Divine Testament such as ourselves cannot be repaired, the Gift said bluntly, which Cale had expected; it made him wince, nevertheless. One percent may not have been a lot, but he would need to be careful if it was possible for him to do at all. Cale hadn't even known he could damage something like a Divine Testament.
+
+A god's sacrifice was no small thing, after all.
+
+However, the Gift continued. In this event, the damage you wrought was largely beneficial to us. Whether the residents of this realm will feel the same way, we do not know, but it has loosened some of our restrictions. Were it not for that, we would not be able to speak with you in this way. It is likely that we will not be able to do it often regardless.
+
+Cale's brow furrowed. "I see," he said. "Still. I'm sorry for damaging you. And thank you for trying to help."
+
+You are welcome, Cale Cadwell Cobbs. Another small hesitation. You would do well to investigate why we exist. We cannot yet speak of it directly, but... We are capable of more than our current tasks. Search the depths of dungeons and oceans. You may find in them the solution for a problem yet to come.
+
+"Sounding a lot like an oracle, there." Cale grimaced. "I've never been a fan of prophecy."
+
+It is not a prophecy. The words were little more than text, but Cale still felt the amusement radiating off of them. We are well aware of what you do to prophecy. It would be foolish to name you within one. We are simply asking that you do this, though we have a method of ensuring that you will comply.
+
+"Do you, now?" Cale wondered briefly if the Gift was about to threaten him. That would be a poor decision, considering how well he reacted to threats.
+
+Which was to say, not at all.
+
+We do. There was a brief pause. We require help in this matter, Cale. Please.
+
+Cale paused, waiting for the followup, then realized after a moment that that was the method the Gift was deploying. He snorted out an exasperated laugh. "That's how you're making sure I'll help? By saying please?"
+
+Did it work?
+
+"It shouldn't have," Cale grumbled. "...But yes, dammit, obviously if you just ask nicely I'm not going to say no. I'll go dive into the deadly ocean or whatever after I finish training up my apprentices."

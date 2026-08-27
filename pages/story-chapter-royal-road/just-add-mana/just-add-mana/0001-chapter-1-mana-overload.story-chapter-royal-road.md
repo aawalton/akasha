@@ -1,0 +1,287 @@
+---
+id: 45a24eae-7a90-5c05-b122-6aaf38a77ebe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 — Mana Overload"
+slug: 0001-chapter-1-mana-overload
+partOf: just-add-mana
+position: 1
+ownLength: 4170
+unit: words
+ownProgress: 4170
+publishedAt: 2025-07-17
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442662/chapter-1-mana-overload"
+royalRoadId: "2442662"
+markedReadAt: "2026-06-29T18:47:33.159Z"
+---
+
+Cale Cadwell Cobbs did not, as a general rule, enjoy being tied up.
+
+"Not that you guys are ugly or anything." He added the words like it was an afterthought. "But I'd kind of prefer it if you let me go. You can tie me up later. Y'know, with consent?"
+
+Neither of his captors seemed particularly amused. Cale thought that was rather unfortunate. If he had to be put into life-or-death situations one after another, he would've preferred being around people with a sense of humor.
+
+"Hassan," the elven woman—Cale was pretty sure she was an elf, anyway, with the pointed ears and all—hissed. She wasn't wearing a whole lot of clothing, he noticed, which seemed odd given how cold the cave they were in was. Not that he was complaining. "Shut him up."
+
+"Gladly," the other elf growled, stalking over. He was big. Much bigger than Cale had imagined elves would look, in all honesty. Elves were normally thin and beautiful, weren't they? This Hassan fellow looked rugged. Tough. Like he made a habit out of wrestling bears barehanded. Cale was pretty sure he had a whole twig in his hair.
+
+Nice muscles, though. Cale watched the way Hassan's biceps stretched the fabric of his shirt with interest. It was a wonder that thing didn't tear.
+
+Then he noticed the duct tape.
+
+"You can summon people from other worlds but can't cast a basic silencing spell?" Cale asked. Of course, magic did tend to vary slightly between worlds, and he hadn't been here for all that long... but silencing spells were usually fairly simple. "Good ol' duct tape, eh? Useful in every world, apparently. I used some to kill a basilisk once."
+
+Hassan's eyebrow twitched. He ripped out a long piece of tape and slapped it over Cale's mouth. "Any other magic would interfere with the ritual," he growled. "Consider yourself lucky, or you would already be dead. Although you may wish you were, in a moment."
+
+He turned away and stalked back to the edge of the ritual circle where the elven woman was waiting. Cale eyed them with mild curiosity as they took up positions around a familiar-looking circle in the center of the room. Sixty degrees apart, a blood-red gem in the center... standard sacrificial ritual, it looked like.
+
+Not much of a survival instinct, for people that were willing to use sacrificial spells. If he'd kidnapped someone via summoning magic and they were this nonchalant about being caught, he'd have already started running.
+
+The elves began to chant. He heard a few syllables of New Eldritch before casually tuning it out, already bored. Definitely a sacrificial ritual, judging from what he'd heard, and those were some of the least interesting forms of magic he'd had the misfortune of encountering. This was, what, a third-tier spell at best? He had better things to do than wait for them to finish a spell of that level.
+
+"I feel like there are better ways to shut me up," Cale called once he worked his mouth free. It wasn't hard. The tape Hassan had used ranked within the bottom ten percent of tapes he'd had slapped over his mouth, and it was also only a single piece. "You've got to have something better than tape. You look like the type. I mean, you were prepared with these ropes. There's no way you don't have a ball gag or two."
+
+As he spoke, he continued working his hands free from the rope that had been tied around them. That he had a little more trouble with—Hassan was evidently quite experienced with knots.
+
+Cale snickered to himself at the thought, then perked up at the words that flickered into view, encoded as mana only he could see.
+
+You have learned [Escape Artist]!
+
+[Blabbermouth] has reached level 2!
+
+There! Cale grinned. He couldn't deny that he'd been all kinds of excited when he started seeing those messages—this was one of those worlds.
+
+It was rare, but every so often he'd be summoned or reincarnated into worlds that had these massive magical constructs built to empower their people. Sometimes they were divine, other times they were the creation of some mad archmage or eldritch prankster. It had been a while since he'd had to deal with any of them, though.
+
+He kind of missed them. They never knew how to deal with anomalies like him, and more often than not, that meant he could get them to do things they were never meant to do.
+
+And this one seemed to be all about making spells and magic available to its people. Even better! Although the ones it had chosen to give him were a little insulting, and it wasn't like he usually got very far with magic...
+
+Ah well. No reason not to try to use the ones he had access to. Cale considered them for a moment. Neither of the two most recent ones were useful yet. They were passive effects, for one thing: a sort of persistent auric spell cast by the world rather than magic of his own.
+
+They were interesting, though. The fact that they were world spells meant they didn't run into the same issues that his magic usually did. [Escape Artist] would be useful if he "leveled" it enough to break free from his ropes—which he presumably could do just by wiggling enough and straining the boundaries of the spell's abilities—and [Blabbermouth] made him better at distracting his enemies. For now, though?
+
+Hmm.
+
+He evaluated his situation and his tools. The elves were doing their best to ignore him, though Cale could see the elven woman gritting her teeth. More fool them, really. Never leave an enemy time to think.
+
+He had, on hand, barebones access to some sort of system and four different spells, none of which were directly useful for avoiding sacrificial magic. He had his own innate mana, but that was a last resort sort of thing. Cale wasn't a fan of using his mana reserves to blast away every problem, mostly because using his magic at all came with a caveat, and he kind of needed a break. He was rather hoping this world would be that break.
+
+There were the two other captives strapped to the stones next to him, according to his mana sense. People were kind of like tools, right? He couldn't actually see them—he was too carefully bound to his own stone, presumably by design—but he could sense the flow of their mana. One was powerful, and the other was so weak he almost didn't sense it.
+
+Now that he thought about it, maybe [Escape Artist] at level 1 was enough for him to loosen the ropes. If not, the process might help it level. Cale twisted and wriggled around, and to his delight, found that he was actually able to move. Enough to shuffle around and stare at what looked like a shirtless reptilian man with deep crimson scales. He was bound to his own rock by thick, heavy dragonsteel chains.
+
+He wasn't sure what species his newfound companion was, though. He'd never been good at the whole lizards-versus-dragons thing. That he was bound by dragonsteel suggested lizard; using dragonsteel to bind a dragon was stupid. A little like trying to drown a merman in seawater.
+
+Then again, lizards didn't usually have that much mana. Maybe the elves were just stupid? Cale shrugged to himself. It didn't really matter. He cleared his throat.
+
+"Hello!" he said cheerfully. "Want to help me escape from this thing? Can't promise any rewards, but we get to avoid what I assume will be a painful and violent death."
+
+The dragon, quite deliberately, turned away from him. Cale frowned, then shuffled around to look at the captive on his left, hoping she'd be more cooperative; unfortunately, she seemed quite unconscious—
+
+Cale stilled.
+
+She was young. Not even ten, if he had to guess, and a shifter of some kind based on what he could feel from her mana. There were suppression cuffs around her wrists, which explained why her magical signature was so weak, but having those things on for too long on someone so young... That was a recipe for permanent core damage.
+
+Something in his expression changed, and when he went back to the reptilian, the cheer was gone from his voice.
+
+"Hey," he said. "I'm dropping the act. You can break through those chains, can't you?"
+
+For a moment, Cale thought he was going to be ignored again, but something in his tone seemed to break through to his fellow captive. "That is quite the assumption to make," the reptilian man said. His voice was quiet, guarded... but that was most certainly Draconian.
+
+Definitely a dragon, then.
+
+"Like dragonsteel could ever hold a dragon," Cale said with a snort. "That stuff is made to hold everything except dragons."
+
+A moment of silence, and then: "You are well-informed," the dragon said. He turned back to meet Cale's eyes. "I do not owe you answers."
+
+"Maybe not," Cale said steadily. "I suppose that means the K'thonic Vows no longer mean anything to you?"
+
+That seemed to strike home. The dragon lifted his head to stare at him, eyes narrowing. Cale caught a flicker of rage and a hint of a deeper, more profound mourning. "What, exactly, do you know of us?" the dragon demanded. "That time has long passed, human. Less than ten of us remain. The vows of old do not matter in the face of our extinction."
+
+"Which is why you're sitting there, waiting to speed it along." Cale didn't bother keeping the bite of sarcasm out of his voice.
+
+"I would be very careful of what you say next, human." Oh, there was definite rage there now. He could see it simmering, ready to erupt. Cale bit down the impulse to stoke those flames further.
+
+"There is a child on the other side of these stones," he said instead, his voice low. "A young girl. Unconscious. Bound with mana suppressors. Maybe you don't care that much about the old vows, but I doubt those two idiots went to so much trouble to hide her from you because you don't care, am I right?"
+
+Cale had met more ancient, powerful entities than he could count. They were, by and large, capricious beings with very little in common.
+
+Except for one thing.
+
+It was an unspoken agreement of sorts. Something like the rules of war. It was a line in the sand drawn by powers great and old. For those that lived long enough, fought long enough, and experienced everything the universe that had to offer, it was the purest of hearts that mattered the most. The young and inexperienced. The ones that had yet to live their lives.
+
+Children were never to be involved. Not by intent. To do so would be to invite open retribution.
+
+Sure enough, the dragon stilled, just like he had. That simmering rage turned onto a different target. He saw the way the dragon's eyes flicked over to the still-chanting elves, then back to him.
+
+"You judge me," the dragon said. It wasn't a denial, Cale noticed. "But you have the core of an archmage. You could help her yourself, if you wished."
+
+Cale frowned. He probably should have expected that. He answered as honestly as he could; anything less would only jeopardize their tentative rapport. "I can't use my magic while a child's around. Not yet."
+
+"No? Elaborate."
+
+"My mana is tainted." Cale was reluctant to admit to this at the best of times, but this qualified as urgent enough. "My core holds the Thread of Fate."
+
+The dragon's eyes widened slightly—first in disbelief, then in understanding. Cale said nothing, allowing him to work through the implications on his own.
+
+He did have the power to get them out of this situation, that much was true. If he wanted to, he could burn through the elves and their ritual. Third-tier magic was so far beneath him he could barely remember the last time he'd tried to use it.
+
+The problem was the thread of silver-white mana woven throughout his magic. Known as the Thread of Fate colloquially, it was something like a prophetic calling card: ten times out of ten, if he arrived in a new world and used any kind of magic, he'd attract the attention of whatever forces of destiny were in charge of that world.
+
+That typically meant that not only would he be wrapped up with whatever entity was threatening to destroy the world—and there was always someone or something like that—but everyone around him would be, too. For that first use of his magic, anyone around him would get caught in the tidal wave of change he was meant to bring.
+
+Tainted, in other words. Or he thought so, anyway. He'd seen what tended to happen in its wake.
+
+Cale was no different than any other ancient power in this regard. The lines he drew were much the same. In this case? Suffice to say that he'd learned long ago not to let children get tangled with destiny. There was never a good outcome there.
+
+Only lost childhoods and painful memories.
+
+"Very well," the dragon said after a moment. There was something complicated in his expression, something Cale couldn't quite interpret. "I am named Akkau. I will free you and the child, and I will take her out of range of your magic. But I will not fight this battle in your stead, and I will not bring you with me."
+
+Cale grimaced. He'd been hoping for a bit more of a break before his magic got him tangled up with whatever was happening here. "Don't suppose I can convince you otherwise?"
+
+"I have my reasons," Akkau said steadily.
+
+Fair enough. The elves' chanting was getting louder. Cale didn't have much time. He gave the dragon a terse nod. "Do it."
+
+Akkau stood.
+
+The chains he was bound with—again, dragonsteel, specifically made to hold anyone that did not have the dragon affinity bound to their mana—offered about as much resistance as wet paper. The elves reacted, of course, shouting at one another as Akkau broke free, but it was far too late for them to stop him.
+
+Three simple moves. Akkau stepped past him and shattered the rock Cale was bound to with a single strike, freeing him and showering him in shattered stone. He placed a gentle hand on the girl's shoulder, disgust flickering across his features as he saw the cuffs. And he whispered an incantation.
+
+Cale felt the teleportation magic whisk the two of them away and finally, finally let himself relax.
+
+"That sure was something," he said cheerfully to the two dumbstruck elves. "Sucks he didn't bring me with him, but I guess one of us had to do cleanup, eh?"
+
+Outraged sputtering. Cale ignored them—they were busy struggling to keep their rapidly destabilizing ritual from exploding in their faces in the wake of that teleportation spell, which meant he'd have a precious few minutes to decide exactly how he wanted to handle this.
+
+He called to the world's magic to review the spells it had granted him.
+
+[Blabbermouth, Level 2] [Common, Auric Passive]
+
+Makes you good at coming up with things to say. Useful as a distraction, but it's unclear why you'd want this spell.
+
+[Escape Artist, Level 1] [Common, Auric Passive]
+
+The better to untie yourself with. Can't be turned off, so don't get this if you like being tied up.
+
+[Marked, Level MAX] [Planar, Auric Passive]
+
+Identifies you as a creature not of this world. Your presence will affect those around you, for good or for ill.
+
+[Spell Intuitionist, Level MAX] [Personal, Auric Passive]
+
+Allows you to obtain low-tier spells with relative ease. Prerequisites must be met to learn anything above the second tier.
+
+Interesting. Cale raised an eyebrow. He hadn't been expecting the spell descriptions to have so much personality. There wasn't anything about stats or the like, so this fortunately wasn't one of the worlds with the more intrusive type of assistive construct. He shuddered at the memory—the last time one of those worlds had claimed to offer him "Wisdom"...
+
+As for the rest, well. He didn't like [Marked], but there wasn't much he could do about it other than try to dispel it, and after the last time he'd tried dispelling a construct-granted effect like that one, he'd learned to be a little more cautious with his dispels.
+
+Hopefully, he'd find out a little more about what it actually meant with time. Cale hated vague spell descriptions, especially ones like that. They were often more trouble than they were worth.
+
+[Spell Intuitionist], though? Now that was an interesting one. It must have been the reason he'd picked up the other two aurics so easily. Cale was a little tempted to just start messing around to see what happened, but it would probably be easier to do that outside of some gloomy cave.
+
+Or someone's basement. It was possible this was just a basement. He wouldn't put it past either of those elves to have a cave as a basement.
+
+Cale examined the ritual the elves were conducting critically. They were chanting frantically now, still trying to keep it stable—a lost cause, by his estimation, but he wasn't about to stop them. He could try to learn that...
+
+But no. Blood magic was boring. Now, if this had been necromancy, he might have considered studying it until he got a spell out of it. Cale sighed. Of all the people to get summoned by, why did it have to be blood mages?
+
+"Hey," he said, more amicable than he really felt. He coated himself with his mana, recreating the thick barrier he usually kept active as a basic defensive measure, and waved to get the elves' attention. "Do you two think you could use a spell or something? Preferably something that's not blood magic."
+
+That little bit of magic was the last straw needed to tip the ritual over into destabilizing. Cale took a casual step back as the circle promptly exploded, then waited. One, two, three...
+
+Hassan stepped out of the resulting smoke, clothes singed. "Seleya," he growled. "Shall we teach this human a lesson?"
+
+"Gladly," Seleya responded.
+
+Cale was also glad. Mostly because he could finally stop calling her "the other elf" in his head.
+
+"You will regret what you have done," Hassan said disdainfully. "We will make sure your death is slow. Painful. Tell me, mortal—what feeds your arrogance? You have only just entered this world. Your only ally has left."
+
+"I did get four new spells," Cale said brightly. Hassan snorted.
+
+"Ones related to your incessant babbling, no doubt," the elf said. "Enough. We will start simple. You wish to see a spell? Very well. [Burn]."
+
+Cale watched with interest as the spell activated. Magic poured through the elf's mana channels and into some sort of construct created by the system; he couldn't read the construct, but he could certainly interpret the effects.
+
+Easy enough. A basic conversion from base mana into a sticky sort of fire mana that clung to the target and burned them alive. And in theory—
+
+You have learned [Fire Resistance]!
+
+You have learned [Burn]!
+
+Excellent. Cale hummed, pleased, and examined the two new spells.
+
+[Fire Resistance, Level 1] [Common, Auric Passive]
+
+Increases fire resistance.
+
+[Burn, Level 1] [First Tier, Active] [10 Mana]
+
+Set a target alight with your mana.
+
+"Interesting," he said aloud. Active spells had tiers! Excellent. It looked like it was the tier system he was already used to, even, so that wasn't going to take him a bunch of extra work to figure out.
+
+He didn't really need the [Fire Resistance]—his shield was doing an excellent job keeping him safe—but he wasn't going to say no to an extra auric. In fact, Cale amused himself by allowing some of his shield to slip away.
+
+Then he winced and shook his hand. "Ow," he said. One level of fire resistance didn't do much, apparently.
+
+Hassan was staring at him. Cale couldn't tell if he was in disbelief or if he was simply still in denial about the whole situation. Seleya was a little smarter, at least—she had recognized the danger and was slowly starting to back away—so he formed a quick barrier around the exit and went back to examining [Burn].
+
+Cale did not, historically, have a good relationship with spells. Oh, he was good with magic. He had an absolutely monstrous supply of mana and could wield it like an absurd, overpowered hammer. Problem was, he didn't really have the commensurate level of control needed for his reserves, which meant more complex spells were usually beyond him. Things like teleportation and transmutation, for example. Or baking spells, which—oddly enough—had some of the most complex spell structures he'd ever seen.
+
+Even those few times he'd ended up in worlds that offered premade spells like this one, the ones that required mana almost always broke when he tried to use them. He'd long ago learned that it was best for him to just close off his core and prevent any system from reading or using his mana, which was probably the reason the system here wasn't giving him any kind of mana measurement.
+
+Besides, not all systems were benevolent. Giving one unfettered access to his mana was just asking for trouble.
+
+"How much is ten mana, anyway? Is the unit of measurement different here?" Cale asked out loud. Hassan was looking increasingly pale—which was impressive, considering how pale he already was—and was finally beginning to back away. "Eh, don't worry about it. I'll figure it out."
+
+The spell would probably break, but this was a new system. No harm giving it a shot.
+
+He activated the spell, then manually fed his power into the construct that emerged.
+
+Mana overload detected! Attempting to compensate...
+
+Whoops. Cale sighed dramatically. Here it was: the spell would undoubtedly break and fail, and he'd have to just blast the elves or something.
+
+Adjusting spell construct...
+
+Cale blinked.
+
+[Burn] has evolved into [Plasma Transmutation]!
+
+He blinked again. That seemed a little much. He ignored the all-consuming silver flames that erupted before him and eyed the new spell. Maybe he'd really overadjusted the input?
+
+[Plasma Transmutation, Level 1] [Eighth Tier (Unique), Active] [1.0e27 Mana]
+
+Transform your target into a new state of matter. The new state of matter is fire, to be clear.
+
+Okay, there was no way he'd used that much mana. Had he?
+
+Come to think of it, the fact that a simple effect like [Burn] cost ten mana should probably have been an indicator of how the units of mana worked here. In the last world, it would have cost a fraction of a single unit of mana.
+
+Still... transmutation! He'd never been able to perform transmutation before! Okay, yes, technically the spell just lit things on fire with incredible violence, but this world's system called it transmutation and that was good enough for him. He grinned to himself, practically bursting with excitement.
+
+There were many world constructs that would simply reject or try to steal his mana if he were to overload a spell construct to this degree. Many more would simply shatter and then refuse his magic. This one had adapted. It had created something new, judging by that Unique qualifier.
+
+Cale had encountered many things across all the worlds he'd visited and all the lives he'd lived. Certain things were constants: dragons, dark lords, the intricacies of divine prophecy, and the fundamental nature of magic.
+
+So it was saying a lot that he'd never encountered this specific variant of fire transmutation before. Granted, this one wasn't exactly interesting. But the potential! If the spell constructs this system made could evolve to accommodate his mana, he might discover entirely new forms of magic. Entirely new spells that were adapted for him.
+
+He might be able to do things other than blow everything up!
+
+"I hesitate to ask," a dry voice came from behind him. Cale whirled around to see Akkau standing there, one scaled brow slightly raised. "But should I be concerned to find you standing in front of two puddles of melted elf and grinning like a fool?"
+
+"What?" Cale turned back around to look at the still-glowing floor. The rest of the elves had... evaporated. "Uh, no, the grinning is unrelated. I swear."
+
+"Indeed," Akkau said, entirely deadpan. "Come with me, human. If you hold the Thread of Fate, then we must have a conversation."
+
+Ah. It was happening already. Cale frowned. "Can you at least show me a baking spell?" he asked hopefully.
+
+Akkau paused and stared at him. "A... baking spell," he repeated, like he wasn't sure what Cale had said.
+
+"A baking spell," Cale agreed. No further elaboration needed. He stared at Akkau with big, hopeful eyes.
+
+"If you come with me," Akkau said after a moment, "I will ensure you learn all the magic you desire."

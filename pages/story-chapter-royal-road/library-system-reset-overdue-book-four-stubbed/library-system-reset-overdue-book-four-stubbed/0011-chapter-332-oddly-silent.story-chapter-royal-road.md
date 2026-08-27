@@ -1,0 +1,113 @@
+---
+id: 52b122ea-089a-5d16-b328-7f13e4d94a5c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 332: Oddly Silent"
+slug: 0011-chapter-332-oddly-silent
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 11
+ownLength: 2045
+unit: words
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2701252/chapter-332-oddly-silent"
+royalRoadId: "2701252"
+---
+
+Quinn knew she should have known better, and she swore she did. Still, being lulled into a false sense of security made things so easy. Honestly, she shouldn’t have expected a second branch opening to go off without a hitch, especially not making it two in a row. No matter what she did, she couldn’t learn to not tempt fate.
+
+The note of the horn blaring rose very slightly, just a fraction, and what began as a half-funny cacophony was sure to develop into a bleeding ear pain if they couldn’t find it and shut it down. Except Quinn wasn’t entirely sure where to start. She looked around, glancing at everybody else who stood with her, staring in auditory pain at the Library’s new branch.
+
+Lynx popped into being right next to her. “The main Library won’t be affected, but we need to keep everybody out of the branch expansion and the beginners section. The noise extends into those.”
+
+“Fantastic,” Quinn said. “More ground to cover.”
+
+“You sound irritated.”
+
+“I feel like my ears are about to bleed out.” She sighed and took a second to glance at the manifestation. He seemed, somehow, more solid, almost more vibrant. Despite all the confusion surrounding his memories, she was quite certain the restoration had been good for him.
+
+“Okay,” she said, “I’m over my pity party. What is it I need to do?”
+
+He shrugged, “I don’t know, find the source of the horn?
+
+“Isn’t that something you can, like, pinpoint as the manifestation?”
+
+He took a step back and raised an eyebrow. “Isn’t that something you can look into as a fully fledged Librarian?”
+
+“Shut up,” she said, but laughed. She needed that. It took away some of the tension and allowed her to look at things objectively. Several seconds had passed by now, and if she had any inkling of what this was, she was certain they couldn’t afford to let it keep going. So she nodded at him, and they set about looking for the source of the noise.
+
+The whole bunch of them, Quinn, Geneva, Malakai, Milaro, Betty, Drukala, Drivok, and Lynx all made themselves busy, darting into different areas of the Library’s newly opened branch in order to find the damned noise. It echoed in such a way it seemed to come from nowhere and everywhere all at once.
+
+Dottie, meanwhile, took control of the patrons, effectively ushering them back and away from the beginners’ section, out into the crafting beginners’ section, effectively preventing them from entering the newly formed, slightly malfunctioning branch.
+
+Naturally, it wasn’t easy to locate the damned horn. Quinn saw a few of them checking through the instrument storage cabinets in the centre of the area. The dragons were in the amphitheatre, looking behind and underneath seats and on lecterns. She’d leave that to them.
+
+Personally, Quinn thought that starting to look in the instruments was far too easy to start. Her instincts told her it wouldn’t be somewhere obvious, because why, oh why, would the universe make anything easier for them, or more specifically, for her, when it could make it as difficult as possible?
+
+Just once, she would like it if things would go off without a hitch. A small voice in the back of her head that she knew belonged to her mentioned that the crafting branch had gone off marvellously.
+
+“Okay, maybe I’d like two things to go off without a hitch,” she mumbled under her breath as she approached the horn section of the books. Nobody else had visited it yet, so using her own rather unique brand of logic, she stood in front of the horn section and decided to simply go book by book. Starting from the top. It hadn’t been difficult to locate, being that it was directly adjacent to the glass cabinets that held the appropriate instruments for the section.
+
+She began moving the books around, pulling them out, double-checking each book wasn’t attached to a secret passage, or that it wasn’t attached to a hollow book that had a tiny horn in it blaring out the noise. She wouldn’t put it past magic for a blaring horn to be minuscule.
+
+She finished with the second shelf, which was up quite high on the ladder that she was on. The note went up another notch. She sighed, trying to figure out if she could block the sound somehow. Surely there had to be a way for one of her affinities to protect her ears. Given the constant crescendo of the sound, she knew she didn’t have time to formulate that sort of spell or ability. It’d take time for her to figure out the magic, and it was better spent trying to reason out where the damn horn was.
+
+She methodically yanked out book after book, flipped them open, and put them back in place. Yanked out, flipped open, replaced. They were dusty, and for the first few she actually managed to cough herself silly, until she pulled her hoodie up and closed it above her nose so that she could at least stop smashing dust into her face.
+
+She worked through the shelves while the note went another two notches higher. She could already see Betty covering her ears as she, too, flitted about trying to find the sound. Perhaps it affected smaller creatures worse? Or maybe sprites specifically?
+
+Finally, Quinn managed to make it down to the last shelf. She didn’t like her chances. She’d probably have to go through another one of the bookshelves, although some people had seen her doing what she was, and had followed her lead to take on one of the other bookshelves. Sadly, there were hundreds of different instruments, and thus hundreds of different book shelves. She didn’t think it looked good.
+
+Resigned, she settled herself down onto the floor, pushing the ladder away, and began pulling the books on the bottom shelf out too. Remove. Open. Replace.
+
+A bit of franticness rose in her as she approached the end of the shelf and realised there was still no horn. The note went up yet again, and Quinn knew that if she had a headache trying to bash in her head, she was quite certain all the others did now, too.
+
+When she got to the last book and pulled at it, it didn’t come free. There was definite resistance, as if it was attached to something. Nothing moved, no hidden door opened, and so Quinn leveraged herself onto the floor on her stomach and looked for the problem. She blinked and did a double take, not quite understanding what her eyes were seeing.
+
+Of all the things she’d expected or even anticipated, what stood in front of her right now was not one of them. A tiny sprite-like creature looked up at her, its mouth wide, emitting a sound. Somehow, it wasn’t louder now that she was closer to it. Its eyes were almost comically large for its tiny round head. Its little body reminded her of a Funko Pop in its proportions. Tiny clothes, teensy shoes, and it was silver in colouring with a strange pearly sheen to it. It had tufts of magenta hair sticking out of its little head. It almost looked like one of those old troll dolls’ hair. Not the rest of it, just the hair.
+
+And it still held tightly to the book that she’d attempted to pull out, as if it had been running the length of the bookshelves the whole time, trying to outpace her and hoping she’d give up. She wondered if it had literally run behind the books as she kept pulling them out. The poor little thing must have been terrified. Its tiny face was full of panic.
+
+“Excuse me,” she said softly, somehow certain it could hear her and also just as positive that it wasn’t about to bite her finger off. “I’m the new Librarian and we’ve just reopened this branch, pulling it back into the right dimension. Could you stop the noise, please? It’s hurting our ears just a bit.”
+
+The creature blinked up at her, nodded once, and finally, it closed its mouth. The sound cut off immediately, and the silence was practically more deafening than the horn had been. Everybody gasped, whether it was with relief or perhaps pain now that their ears had been used to the sound. Quinn wasn’t quite sure, but she couldn’t help the relief that flooded through her.
+
+“Hi,” she said and inspected the little thing.
+
+Name: E
+
+Species: Key
+
+Library inhabitants loyal and attached to the Library.
+
+Place and the universe: Bardic Collegium.
+
+“Ah, hello little E. Key.” she said softly.
+
+It chuckled, but the sound reverberated in her head. Quinn knew she shouldn’t be surprised by anything these days.
+
+“How are you?” She asked it. It cocked its massive head to one side and smiled up at her. Images of many other little creatures just like it, with slight variations in hair and skin tone, flashed through her mind. She felt an overwhelming sense of fear emanating from them, in a weird sort of stasis that they fell into. That must have been when Lynx plunged the Library into its hiatus. After that, despite time flowing in a very odd way for the creature, there was fear, sadness, and confusion that ran among all of them.
+
+When the re-emergence began, E was tasked with scaring off any foes that might be around. They had no way of knowing the Librarian had come back to restore the Library, nor what happened initially. Sounding the alarm and then recognising the Librarian with a rush of relief were the last couple of images that fluttered through her mind.
+
+“Ah,” she said to it. “Thank you for letting me know. You’re going to be safe. Everything will be fine,” she said, really trying to believe in her words herself. She had so many questions for the little creature. “Do you want to come and meet the others?” She asked.
+
+It nodded quickly and then leapt out of the bookcase. Her shoulder barely registered its weight, and he held onto her hair, wrapping it around his little arm. Lynx, Malakai, and Milaro appeared at her side almost immediately.
+
+“Oh,” Milaro said, as she stood up, dusting herself off. “You found a key. Hello, little E, it is good to see you again.”
+
+The tiny creature chittered in her mind and she knew that somehow the others around them heard it too.
+
+Lynx poked her. “You know we’re going to get everything organised right, eventually. We’ll have all those books retrieved once the doom and gloom of this entire situation has gone. I promise it’ll get easier to run the Library.”
+
+Quinn smiled at her friend. “I really hope you’re right. I had a thought,” and she pulled away ever so slightly from Milaro and Malakai, who were chattering about the keys. Little E stayed on her shoulder as she focused her attention back to Lynx.
+
+“What is it?” He asked.
+
+“About our discussion. I thought it might be pertinent for you to take Carafax’s journals and compare any notes.”
+
+His eyes widened. “That is an excellent research opportunity. I think I’ll take you up on that. Where are they?”
+
+“They’re in my office, in my desk. You should have access to them.” She double checked herself, sure she’d allowed Lynx access to most of her things.
+
+Lynx nodded, his face already thoughtful, and Quinn smiled to herself. She’d had the thought after they’d returned from retrieving the last book. It seemed that the chroniclers never spoke in direct language. Never spoke about things when they could hint at them and guide you in the right direction. Thus, because he told them to look carefully. Quinn felt this might apply to Lynx’s situation, and if not, at least somebody else had read through the journals and might be able to pick something out that she and Malakai had missed.
+
+It wasn’t until she was left to her own devices as Lynx went away and E sat peacefully on her shoulder that a thought in the back of her mind really bugged Quinn. The Library had remained oddly silent throughout the whole branch opening.

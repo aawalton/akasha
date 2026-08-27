@@ -1,0 +1,105 @@
+---
+id: 286f83d2-4071-5c14-88fd-c35bdfcf5b62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50: The Devouring Blade"
+slug: 0331-chapter-50-the-devouring-blade
+partOf: labyrinth-of-the-mad-god
+position: 331
+ownLength: 1664
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3733956/chapter-50-the-devouring-blade"
+royalRoadId: "3733956"
+---
+
+As Xuthu’s claws came whipping down to claim Nick’s head, Kenji made his move.
+
+The warrior came to a skidding stop in front of the dreadbeast. He flung a physical barrier charm to the ground while pulling his massive tower shield into position. A protective dome wavered into existence a bare second before the monarch’s blow arrived.
+
+Kenji braced himself as the scissor claws struck with incredible force, shearing through the barrier and sending him staggering to one side. He released his shield and brought his spear around in a flashing arc that caught the Storm Lord by surprise, almost claiming its remaining eye before gouging the chitin below. The strategist followed up with a Rapid Barrage that forced the creature back, buying time while Nick quaffed a high-grade healing potion.
+
+He spat out a mouthful of blood as his wound sealed shut, unable to do anything but watch as his team made their final stand, desperate to finish the dreadbeast off before it unleashed more lightning and healed the damage they had risked their lives to inflict.
+
+As Nick struggled to rise to his feet, the battle reached its adrenaline-soaked climax.
+
+The scorpion was wounded and weary. It had plenty of mana after sapping so much of the party’s magic, but they had managed to inflict some serious injuries, and its stamina was running on fumes. As matters stood, it was a coinflip as to who would prevail in the ensuing exchange, and he prayed his friends would survive.
+
+He drove Blightbane into the ground, using it to support his body and staggering to remain upright. Wounded or not, he wasn’t going to miss the exchange of blows that would determine their fate.
+
+As it happened, Xuthu had no intention of gambling its life on a final roll of the dice.
+
+Rather than facing the party’s combined might, it forced them back with a barrage of green bolts and charged for the door Kenji had sealed with his gloves. The stone was sturdy, but not strong enough to withstand the force as the dreadbeast burst through the doorway and emerged into the storm-swept courtyard beyond.
+
+“Shit.” Kenji grimaced. “We can’t let it escape. We’ll never get another chance like this. If we don’t defeat Xuthu now, I doubt we ever will.”
+
+By now, Nick’s wounds had healed. He raced beside his friends as the dreadbeast turned its gaze to the roiling heavens, raising its claws while roaring in triumph.
+
+“The bastard stopped running,” Bandit said. “What the hell is it doing?”
+
+They learned the answer two seconds later. Thanks to his growing energetic senses, Nick could feel the monarch reaching out with its magic, calling to the nebulous host above. Terror writhed in his gut when he realized the creature could command the storm directly, drawing upon the massive reservoir of stolen energy contained within the roiling clouds.
+
+In that moment, he was convinced the dreadbeast was ordering the storm to strike, blasting his party with magic multiple times stronger than anything they’d endured before.
+
+That was when the first bolt of dread lightning fell. The magic was far slower than true lightning, and his team scrambled to dodge its lethal touch. While he had intuited the scorpion’s intentions, he had misjudged its target.
+
+“Block that strike before it lands!” Fritz’s voice resounded within his mind.
+
+Nick wasn’t sure what was happening, but he trusted the king with his life and acted without hesitation. He fired a volley of Mana Darts while conjuring a pair of Arcane Shields and free casting as much pure mana as he could. His spells intercepted the brilliant bolt ten feet above Xuthu’s head.
+
+They weren’t strong enough to disperse the lightning, but they sapped a significant amount of energy before the crackling surge stuck the Storm Lord. Even still, the effects were impressive and disheartening in equal measures.
+
+During their deliberations, none of them had considered the possibility that the stolen energy stored in the clouds could be used to rejuvenate the monarch, serving as a more powerful version of his Elixir of Restoration.
+
+As the sizzling current engulfed the golden scorpion, its wounds began to close, erasing a portion of the damage they had worked so hard to impart. Nick could sense stamina and mana pouring into its body too. If I hadn’t intervened, it would have healed enough that winning wouldn’t be possible. We can’t let it happen again.
+
+His party charged, burning through their reserves in and all-or-nothing assault.
+
+They never had a chance. Xuthu cackled while casting a spell Nick hadn’t seen before, creating an explosion of electricity that flung the whole team back.
+
+Before they had time to try again, the Storm Lord let loose its wrath.
+
+He could sense the dreadbeast calling out to the clouds once more, drawing far more power than before. Tendrils of mana reached down from the boiling sky, forming links between the seething stormscape and every member of his party, along with the monarch itself.
+
+He knew with complete and utter certainty that in between the drawing of one breath and the next, five devastating bolts would land, reducing Bandit, Kenji, and Lurk to smoking husks and restoring Xuthu to full power in a single fell swoop.
+
+In the heart of that terrible moment, time stood still.
+
+Over the last frantic seconds, the resonance Nick felt earlier had returned, an order of magnitude stronger than before. Watching the dreadbeast heal itself with pilfered magic brought him to the brink of epiphany once more, and the genes that had been transformed by the blight were salivating like a caged beast staring at fresh meat on the far side of the bars.
+
+However, while both forces reverberated through every fiber of his being, it was nothing compared to his fierce desire to save his friends. He knew they would die when this frozen moment ended, and he would rather embrace oblivion than let that happen.
+
+As he sought a solution that would protect them, regardless of the price he must pay, the final piece of the puzzle fell into place. Just like the dreadbeasts and the Crimson Blight, his path involved dominating his foes by turning their vital energy against them, along with their momentum, killing intent, and technique.
+
+But that only encompassed how Nick would ascend to the peaks of power and had failed to incorporate why.
+
+Unlike the vampiric beings and the fungal parasite, he had no desire to rule the cosmos—no yearning for conquest or longing to bend the multiverse to his will. All he cared about was protecting his homeworld and the people he loved. He would pit his soul against anything that threatened his family, be they monster, man, or beast. Even the gods themselves if they stood in his way.
+
+Nick’s Concept was a reflection of his soul, and his soul was a blade. A sword that cut down his enemies to protect his friends and harmed nothing else. A blade that consumed his foe’s strength and made it his own. Victory through domination.
+
+A window flickered into existence in the periphery of his vision, but there wasn’t time to worry about that now. Filled with a rush of energy like nothing he’d experienced before, Nick reached deep inside himself, unsheathed his soul, and became a Devouring Blade.
+
+As time resumed its full course, he exploded into motion. He had half a heartbeat before all five bolts struck, and he didn’t waste a millisecond.
+
+He called upon his psychic powers, pulling both energy-barrier charms from his belt pouch and flinging them at Bandit and Kenji—free-casting force mana to multiply their speed. As the potent domes sprang into existence a fraction of a second later, he conjured three Arcane Shields above Lurk’s head.
+
+Nick ignored the bolt headed his way, trusting his Concept and blight-altered cells to endure the blast as he spun to face the Storm Lord. Guided by the Devouring Blade, he poured pure mana into Blightbane until the Legendary sword was shining like the full moon. At the same time, he infused it with a power he had never felt before, the fusion of his vital energy and newly born Concept.
+
+As Xuthu’s magic came crashing down, he unleashed his might in a way that hadn’t been possible until that moment. “Severing Slice,” the words left his lips unbidden as a ravenous arc of mana erupted from Blightbane’s edge.
+
+All five bolts landed at once.
+
+Two deflected off the barrier charms, leaving his friends wide-eyed but unharmed. The third punched through each Arcane Shield in turn, striking Lurk but not dealing serious damage. The fourth strike bathed Nick in life-draining energy, only instead of consuming him, he reached out and Devoured the magic in turn.
+
+That left the final and greatest bolt of dread lightning. A blinding torrent of magic poised to restore Xuthu to pristine condition.
+
+Mere inches before it struck, Severing Slice arrived.
+
+To the bewilderment of everyone present, the silver blade formed from Nick’s Concept hit the crackling green arc and rent it asunder, shearing through the lightning bolt like the fang of a hungry beast.
+
+“No!” Xuthu cried out. “That isn’t possible! How can your Concept consume my own?”
+
+Whatever he might have said was fated to remain unuttered. While his vital energy was brimming over, manifesting the Devouring Blade had taken an incredible toll, draining his essence like a shoreline in low tide. He collapsed as the dreadbeast called a final bolt from the clouds, filled with last dregs of the land’s life force.
+
+Nick tried to draw mana from his core, but it took everything he had just to keep his eyes open. It seemed that despite his breakthrough and his friends’ heroic struggles, the Storm Lord would win after all.
+
+As the strike that would seal their fate coalesced within the churning cloudscape, the flapping of leathery wings reached his ears, accompanied by a gust of wind so dark the world turned black.

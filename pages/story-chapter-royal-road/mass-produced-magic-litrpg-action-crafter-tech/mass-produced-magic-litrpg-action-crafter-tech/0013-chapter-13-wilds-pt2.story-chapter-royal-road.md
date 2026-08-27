@@ -1,0 +1,147 @@
+---
+id: 000756c3-3de9-5eea-a8c1-3417cd99657d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13 – Wilds – Pt2"
+slug: 0013-chapter-13-wilds-pt2
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 13
+ownLength: 1974
+unit: words
+publishedAt: 2024-11-18
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1909990/chapter-13-wilds-pt2"
+royalRoadId: "1909990"
+---
+
+Peering into the smoke-filled crater, Kindra smiled. Maybe this will work. Wind, don’t mess it up for me. I can’t have oxygen getting down there. The bison thrashed. It bellowed and tried to stand. Bones snapped, and it dropped, blood running down its legs. Well. That’s one way to do it. Letting it kill itself is easier.
+
+An eager Aika shot into the pit. She began stabbing into the wound, making the bison thrash. Blood spurted from its wounds. Hey, if we can keep the blood flowing, that’ll work. Grabbing her spear, Kindra lowered herself into the pit and smacked the broken leg, ensuring it wouldn’t clot.
+
+The thrashing slowed. The bison groaned.
+
+“Listen, dude; I’m trying to end your suffering. Just help me out.” Kindra slammed her spear into the wound, ripping a small hole and letting more blood ooze out. It’s clotting, darn it. With a sigh, she grabbed a log. “Get out of the pit, Aika.” Triggering Transmutation, she gave a single command. Charcoal.
+
+Tossing the wood onto the pile, she turned and ran. The log smoldered with steam and smoke billowing around it. Scrambling out of the pit, Kindra watched as the process happened far more quickly than usual. The water and several impurities burned away. Then, the methane leaked out and lit on fire. The other logs caught flame, which exacerbated the ordeal.
+
+Yeah. There’s no way that magic can save the charcoal from this mess. The entire thing smoldered. Wood burned, and her spell ended. The charcoal lit on fire. That’s expected. I did toss it into the literal flames. She shook her head and smiled. The bison coughed, and she winced. Come on, just die already.
+
+Aika fluttered up and frowned. “Something is watching us. I think it might be a cat.”
+
+Kindra turned and swallowed. Great. We’re screwed. She looked at the vine. “Do we retreat?”
+
+“I don’t know. Maybe it wants the meat?”
+
+“I want its mana.” Kindra pulled out a gun. I’ll enchant it. I need something to make it pierce this crap. Triggering her skill, she drained her mana and a chunk of her blood.
+
+[Basic 9mm pistol has been enhanced with armor-piercing rounds for 4 hours. Each shot will negate up to 35 stamina when fired. This effect lasts ten seconds after being fired.]
+
+Something tells me it won’t kill the moaning bison. Frowning, Kindra watched the trees. A flicker of black caught the corner of her vision, and a black and gray cat prowled forward. It sniffed and met her eyes, its yellow eyes glowing with mana—a smug expression spread across its face.
+
+It knows we’re nothing. Kindra swallowed. “Aika, when I die, do what you—”
+
+“Stop that!” Aika dove, her spear shooting outward. Her wings fluttered, and she extended the spear.
+
+The cat slapped her away with a paw, slamming her into the ground. It turned and opened its mouth, reaching for Aika’s body.
+
+Kindra felt the cold metal in her hand. She lined the sights, exhaled, and pulled the trigger. The slug burst out of the barrel, trailing magic behind it.
+
+The cat didn’t have time to register the threat. Blood sprayed from its neck, pouring out in an explosion of glowing crimson fluid. The cat turned toward her, the shock visible on its face before it crumpled onto the ground, blood flowing around it.
+
+With her heart thundering and worry gnawing at her, Kindra dashed forward and scooped Aika off the ground. Her lip trembled, and she carried the prone fairy toward the pit. “Aika?” she thought, trying and failing to make the connection. Her eyes watered, and another cat poked its head from the forest.
+
+Spinning, she held Aika with one hand and raised the gun with the other. She lined up the sights and exhaled. “Don’t.”
+
+The cat sprang forward, its black tail swinging. Kindra pulled the trigger. The gun slammed into her hand. The gun barked, and the glowing bullet shot across the ground, hitting the cat in the head. Its skull exploded. Bone and blood splashed into the quiet air.
+
+Growling, Kindra bared her teeth at the lurking creatures in the forest. “If you want a war, I’m ready.”
+
+The rest of the pack surged, and Kindra let her feelings fade away. The panic faded. Grief died, and an icy rage was all that remained. Like a robot, she spun and fired, lining each shot before pivoting to the next. The gun barked in her hand. Glowing slugs flew. Blood splattered, and blood painted the nearby ground and trees.
+
+Squeezing the trigger one final time, Kindra watched the sixth cat die. Blood exploded from its neck, and the two that remained ran. They fled into the forest.
+
+Growling, Kindra placed Aika in the grass. Pulling out another magazine, she swapped them and walked over to a cat. The mana inside glowed. The smell of blood filled the air, and Kindra dragged it back to Aika.
+
+Reaching down, Kindra picked her body up and cradled it against her side. She looked down at the cold form, and the emotion slammed into her. Her eyes watered, and her jaw trembled. Please, Death. Bring her back.
+
+[Familiars may be restored with mana. Current cost: 200.] ‎ [Your mana has increased: 109 → 172.]
+
+She felt her expended mana pool and felt like sobbing. I got so much from the undead. Now it’s just gone. With her lip trembling, she pulled out her knife and cut open the cat.
+
+Cutting out a piece, she bit into it. I’ll need to kill the bison and hope the cats had some. Then I can bring her back. Swallowing the meat, she listened to the stupid bison and watched the fog of mana around her.
+
+Cutting another strip of meat from the cat, she watched the mana inside it release. It slipped free of the body and streamed into her. She let out a breath of relief. I can bring her back. That’s what matters.
+
+She ate and watched the mana from the cats. Some dispersed into the air. Some flowed toward her, and she bit into the mana filled meat. Do I get more from eating this? She ate it eagerly, devouring the raw meat and trying to pull more mana into her.
+
+Like a strange extra limb, it seemed to work. She cut off another bit of meat and pulled again, willing it toward her.
+
+As the last bit flowed into her, she willed the information forward.
+
+[Your mana has increased: 172 → 293.]
+
+She smiled and reached for her mana. Time to bring her back.
+
+~~~
+
+Aika looked out at the strange place. Massive trees surrounded her, and the smell of flowers hung in the air. Looking down, she saw a blue and silver flower. She was lying in it like some bed. Strange. Where’s Kindra? She frowned and couldn’t feel the connection.
+
+Scowling, she crossed her arms and looked up. A forest canopy stretched above her. Is this heaven? And am I sleeping outside? She looked straight up and saw a tree. I am.
+
+A fairy dressed in a green suit fluttered into view. He looked at her in shock and confusion, running his hands through short, golden hair. Saying something, he raised a brow.
+
+What’s his deal? Is he God? Aika swallowed. Kindra. She felt the tears hit. Please let her be safe. She swallowed. She can resummon me, right?
+
+[Yes.]
+
+The male fairy fluttered closer, his shimmering green wings fluttering. He said something in some foreign language.
+
+“I don’t speak fairy. Send me back,” Aika replied with a sigh. She sat up and looked out at the forest. It looked similar to the one she’d been in. Strange. Is this is the same planet? She wrinkled her nose and stretched.
+
+The fairy turned and started shouting. Aika ignored it, standing and peering out into the woods. Looking down, she saw the forest floor and houses built into the trees. People with longer ears and shining hair walked down pathways. Who are they? Elves?
+
+She looked at her wings. Wouldn’t be the strangest thing. She turned to the shouting guy next to her. “How do I go back?”
+
+He turned and looked at her. “My apologies. My name is Vathanl. What—”
+
+English? What? Aika thought as everything faded into blackness and pain. She felt her fingers and toes. The smell of blood hit, and she coughed while hands gently encompassed her.
+
+“You aren’t allowed to die, Aika. That’s the rule.” Kindra pulled her into a small embrace, carefully pulling her against her rough shirt.
+
+“Sorry. Did the gun work?” Aika thought, smiling and looking up at the radiant face above her.
+
+“Yes. I don’t think they had much stamina because it worked really well. The bison finally shut up. So, that’s the good news. The bad news is that the cats have attracted things.”
+
+Aika felt the hands release. She fluttered into the air and studied. Birds were circling them, and the forest was quiet. Too quiet. That was a strange dream.
+
+With her wings blurring, she spun and searched the forest. Maybe I could help her into a tree. Flying upward, she scanned branches and changed her mind instantly.
+
+Yellow eyes in the trees all stared at her. A massive bird hopped forward, and Aika shot back toward the ground. “There’s way too much here. We need a shelter.”
+
+Kindra frowned and looked at the smoldering hole. “We can make a cave, but I can’t promise we can breathe.”
+
+Aika flew across the pit, using her wings to fan the smoke. Weaving back and forth, she blew away smoke and peered into the mess. A group of smoldering logs and charcoal greeted her. The bison was there, breathing laboriously.
+
+Can’t believe it’s still alive. She flew out of the pit. “Should be breathable, but our bison friend is still alive.”
+
+Cutting off another slab of meat, Kindra devoured it and grabbed the vine. She lowered herself into the pit and walked toward a wall.
+
+Aika followed her to a small cave. The small crack appeared to lead into a tunnel. Text flashed into view.
+
+Looking into the pit, she saw a tunnel full of mana leading downward, and words flashed into view.
+
+[You have entered a concentrated mana zone. Please be aware that entities may manifest from the mana.]
+
+“System, what does that mean?” She asked, flying closer to Kindra.
+
+[Mana will attract creatures due to the increased potential for growth. This growth may alter them and cause some mana manifestations.]
+
+Well, that explains all the creatures nearby. Aika frowned and flew through the crack, peering down the long tunnel. But it’s safer than being out there. She turned and gestured.
+
+Kindra squeezed through the opening and looked out into the crater.
+
+“I’ll scout. Seal that if you need.” Aika fluttered down the cave, her vision shifting to a gray scale. I miss infrared. Flying down the narrow passage, she listened. Is that water?
+
+Veering around a corner, she felt a breeze rush by. At least there’s air. Turning another corner, she stopped. The tunnel continued and opened up, revealing a large crack. Like a piece of bread propped against the loaf, the stone had somehow shorn away to create the prominent, narrow place.
+
+Small ledges lined the sides. The sound of water was louder, and Aika saw a stream flowing at the bottom. Water too. That’s good. Turning, she studied the walls. What are all those rocks? One of them moved, spreading its wings and launching into the air.
+
+And we’re trapped by a hundred birds. Aika turned and flew up the passage. She saw Kindra reach down and massage her wounded leg. Kindra is wounded and will need help. Aika nibbled on her lip. How can I kill all those birds very quickly?

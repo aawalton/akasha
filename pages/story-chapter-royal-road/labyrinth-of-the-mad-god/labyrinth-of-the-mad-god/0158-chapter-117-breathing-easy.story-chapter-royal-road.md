@@ -1,0 +1,83 @@
+---
+id: 3c62693e-4938-5032-9964-8def188d61df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 117: Breathing Easy"
+slug: 0158-chapter-117-breathing-easy
+partOf: labyrinth-of-the-mad-god
+position: 158
+ownLength: 1884
+unit: words
+publishedAt: 2025-04-16
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2207570/chapter-117-breathing-easy"
+royalRoadId: "2207570"
+---
+
+Twenty minutes later, the final beast died, spasming as Nick’s ray drilled a hole through its heart.
+
+Winning the fight had required every trick he had learned on his adventures to date. But at last, the magma eels were no more, and the trial was complete. The voice of the Administrator resounded from above, and it sounded distinctly frustrated this time around.
+
+“Stage two has been successfully completed. You have demonstrated an unexpected resilience to extreme weather conditions, and your combat capabilities are well above average for your species grade.
+
+Since variations in temperature have failed to yield satisfactory results, I will introduce other categories of environmental hazards for subsequent rounds. This marks the beginning of your one-hour rest period.”
+
+After a bright flash of light, the massive enclosure returned to its neutral state, and all the heat dissipated between the drawing of one breath and the next. Nick plopped to the ground beside Devin with a shuddering sigh. The men drained three flasks of water in a row to restore their dehydrated tissue as they recovered from the grueling ordeal.
+
+By now, Nick had come to believe that each challenge course would be significantly harder than the last. On top of that, the Trial Administrator was clearly tweaking the contents of each stage based on their performance. It wants us to fail, and it’s stacking the deck against us.
+
+He was dead certain that by the time they reached the fifth stage, and likely well before that point, they would come across a danger that they couldn’t surmount. In short, playing by the rules was a losing proposition. The only chance they had was to…
+
+“I think we should stop indulging this killer machine and find a way to fuck it up instead.” Devin neatly summarized Nick’s realization. “We need get up there and attack it.”
+
+“I agree. Hopefully, the layout of one of the stages will inadvertently offer us a way to reach the ceiling. We need to keep holding our own until our moment arrives.”
+
+He knew that the Administrator was listening, and he was certain that it had a way of defending itself from a direct assault. To confirm his suspicions, he cast Piercing Ray and sent the spell streaking for the machine. Well before the drill closed the distance, it encountered an invisible barrier. It wasn’t even close; the ray ran out of juice without impacting the magic shield whatsoever.
+
+Nick let out a theatrical sigh, like he was surrendering to the inevitable. He hadn’t really given up, but he didn’t see any way to circumvent the trial without Pax’s assistance, and he hadn’t heard her voice since arriving on this floor. We’ll have to keep pressing forward and hope that she contacts me again soon. If a round seems impossible, I’ll try to destroy the machine without her.
+
+He noticed that Devin had quite conspicuously not mentioned Pax either. He must suspect that the Administrator is listening too and is acting for its benefit. The men got as much rest as they could while they waited for the next stage to begin, discussing strategies like they were planning to tackle the trials head-on. Not long after, the Administrator’s voice ran out again.
+
+“Initiating challenge course stage three: The Titan’s Elbow. The nature of this environmental challenge is: Oxygen deprivation, uneven terrain, limited maneuverability. The condition for clearing the first phase is: Survive twelve hours.”
+
+Oxygen deprivation? When he heard those words, Nick realized that they might have caught a lucky break. With their enhanced Survivor traits, the duo only needed half as much oxygen as most members of their species. Hopefully, it meant that they could coast through the next challenge without being weakened by the stage’s environmental hazard. I suppose that we’ll find out soon.
+
+After the world stopped shining, he opened his eyes and took a long look around. When he peered into the distance, only mist and sky met his gaze. When he tilted his head, he realized that he was looking out over a silvery cloudscape that lay thousands of feet below his boots. Boots that were standing upon a narrow ledge of rocky ground.
+
+The men were standing upon the peak of a towering mountain. There were three flat spots about twenty feet across, with deep crevices running between them. Each was bordered by sheer cliffs. We must be tens of thousands of feet up in the air. There were other mountaintops piecing the clouds far below, but nothing nearly as tall as their perch.
+
+It was a gorgeous view, and the chill wind helped to cool his body, lowering his temperature back down to a reasonable level. “The air is a little thin, but this trial doesn’t seem so bad.” Devin shrugged.
+
+“It’s the trait upgrades we got for defeating the Fallen rhino,” he replied. “It seems that we lucked out this time. We can take a break and use the next twelve hours to recover our stamina and mana. Maybe we can figure some way out of this mess in the process.”
+
+“Well, that’s a relief.” The blond warrior started pulling provisions out of his pack, frowning at the holes that had been burned into his clothing by particularly-close shots from the eels.
+
+“We should get some sleep during this round too. It’s likely to be the last chance we get. I’ll take the first watch and try to hammer out a strategy while you’re out.”
+
+“You don’t have to tell me twice.” Devin took the sleeping bag that Nick handed him, finished off the dried meat he was eating, then zipped himself inside. “That lava bullshit was fucking exhausting.”
+
+Nick sat down beside his friend, watching the clouds billowing below while he pondered his options. He had a bad feeling about what they would encounter during the final two stages of the evaluation. A foreboding that if the duo kept playing by the Administrator’s rules, they were going to wind up dead before this ordeal was over.
+
+But try as he might, he couldn’t see what choice they had other than to press on and hope for the best. The machine was shielded by magic far beyond anything he could pump out, and they were trapped in an enclosure with no stairs in sight. He suspected that because the trial was on a double-digit floor, almost in the top ten no less, that it was special in some way. Which is probably the reason why Pax wanted us here.
+
+On that note, it blew Nick’s mind that his momentary mentor—the woman who had been showing him the ropes before the Mad God arrived to claim the Earth and dial the difficulty of his tutorial up to 11—had managed to contact him now. Since he had time on his hands to contemplate the matter at length, he was able to come to a few hypotheses regarding his situation.
+
+She mentioned a transmitter implant. That must have been what I saw sticking out of my thumb when she gave me that last hug. I thought it was just a shard of debris. But Pax said that it tracks my progress through the inventory system, and I noticed a weird blurry spot in mine on several occasions. But how did she know I would need it? That doesn’t seem like the kind of thing you would leave lying around your office under normal circumstances.
+
+It only deepened the mystery surrounding the Earth’s integration and Nick’s orientation, including that cryptic sentence Pax had uttered right at the end, “We’re all counting on you.” Hopefully, when she contacted him again, he would be able to question the woman directly and finally learn the full truth about what was going on.
+
+Since the matter was out of his hands for now, he returned his attention to the task at hand—surviving the Administrator’s evaluation and getting his hands on that Species Experience Pill. He had already come up with a way to reach the machine, maybe even disable it. But nothing he could think of would let him bypass the shield, so he shelved the issue for now.
+
+Instead, Nick began formulating contingencies for various enemies that might appear during the survival portion of this stage, as well as potential challenges for the final two trials.
+
+That was the moment when a woman’s voice spoke inside Nick’s mind. At first it was garbled and faint—too muddled to make any meaning from. But then it grew crisper, like a radio tuning into the right frequency, until he could make out the meaning of the words.
+
+“Nick. Are you there? The signal is finally strong enough to penetrate the Labyrinth’s barrier and piggyback on Darkstone Tower’s communication relay, but it’s too tenuous to last for long. Say something so that I know you can hear me, but nothing that will make the Trial Administrator suspicious.”
+
+He tried not to let the surprise show on his face while he chose his next words. “Pax. I wish that you were with me now. I’m in trouble and could really use your guidance.”
+
+“Thank Astra, we’ve got him on the line again. Nick, I need you to listen and not react no matter what you hear. Maintain a serious poker face and don’t say anything to Devin either. I can’t explain everything now—it’s costing an exorbitant amount of cosmic energy to get this message through the dead zone separating the Labyrinth from the rest of System-integrated space. I’m that glad you made it to the Tower of Rizzen, or I wouldn’t be able to help at all.
+
+“I promise that I’ll tell you everything and answer any questions you have as soon as I can, but here’s what you need to know right now. The Species Evolution Pills are real but they’re not going to give them to you. Having you undergo the evaluation is a trick to get you to exhaust yourself so that you’re easy to eliminate, while giving the tower information on an unregistered species at the same time. It’s a classic Rizzen move. Once every century or so, he lets someone walk away with a pill to let the story spread. It gives him a source of research subjects that deliver themselves to his door.
+
+“The final round will be impossible. Unless you want to try fighting on the bottom of an ocean filled with acid, or on the surface of the moon, you need to do exactly what I say. The next trial will be particularly taxing for the Administrator to process, especially once you make it to the combat phase. While it’s distracted, my team will hack into the power grid linked to that catastrophe-class shield device. A few minutes should do it. Then I’ll bring the barrier down and it will be up to you to disable the computer.
+
+“Once you’re up there, take out the big crystal mounted to the central unit. You need to work fast, or it will reroute power from the simulator to protect itself. Don’t damage the auxiliary machines, or you might destroy the pills too. You need them if you want to ace the final stage of the Fate of Earth quest chain. Shit, that’s all the time I have… losing the… signal. Good luck… I’ll try to… later…”

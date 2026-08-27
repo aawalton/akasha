@@ -1,0 +1,63 @@
+---
+id: 17067465-796a-5fd0-843d-767f8bc20b1b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95: Cat and Mouse"
+slug: 0136-chapter-95-cat-and-mouse
+partOf: labyrinth-of-the-mad-god
+position: 136
+ownLength: 1320
+unit: words
+publishedAt: 2025-02-24
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2087198/chapter-95-cat-and-mouse"
+royalRoadId: "2087198"
+---
+
+The rest of the day proved uneventful despite a few close calls. Several airships made low passes overhead, but none of them had spotted Team Earth or landed to survey the island on foot. Nick wasn’t sure if the pirates lacked the manpower to search each isle individually or if the party had just been lucky, but he was grateful either way.
+
+When night fell, they began the next segment of their journey. They climbed for hours, passing by three massive flying islands before landing on the fourth, just as the horizon began to glow with the arrival of dawn. This isle was covered in rocky soil with big boulders scattered across the surface. It seemed to be some manner of badlands, judging by the low humidity and high heat.
+
+They decided to hide the ship in what appeared to be an abandoned mining facility, since there was a warehouse big enough to fit the vessel through the door. After breaking the lock, the party maneuvered the airship inside and then closed it up again. Then everyone moved into an adjoining barracks where they could watch from the windows and settled down to wait.
+
+Over on the far side of the island, they could see the profile of another base. Like the buildings they were hiding in, this outpost was a mining operation—one that was still in use. There was a cluster of structures beside a big pit surrounded by excavation machinery and magelights that let the miners keep working throughout the night.
+
+Devin rubbed his chin as he looked through Nick’s spyglass. “I wonder what they are digging out of the ground. It must be valuable for them to go through the trouble mining it themselves.”
+
+Everyone else was curious too, and this might be their only chance to learn more about the sky pirates’ operation, which might help them find the stairs. Since they still had plenty of time before sunrise, the party decided to scout it out. Hopefully, they could pick up some useful information by eavesdropping on the miners.
+
+Team Earth left the barracks and walked toward the distant lights. About a quarter of a mile out, Nick and Veronica continued ahead, while everyone else waited behind a cluster of boulders. Now that he was closer, he could make out additional details. He noticed right away that the workers didn’t look like warriors. From the way that the guards kept a watchful eye over everything, he suspected that they were some manner of prisoners who had been forced into hard labor.
+
+The duo crept closer to the perimeter of the dig site, listening to the guards’ conversation from behind a big rock. “We’re almost done excavating the floatstone that is keeping this island aloft. Soon, it will grow heavy enough to come crashing to the ground. Once the isle splits open, we can dig out the last big piece and finally get some rest.”
+
+“I know that the boss is hot to get her hands on as much of this stone as possible. What do we use it for anyway?”
+
+“Isn’t it obvious? What else to you see floating around you besides these big chucks of rocks and dirt?”
+
+“Uhh… skywhales?”
+
+“No, you idiot, our airships. Floatstone is what counteracts the pull of gravity and makes them light enough to fly. A thick strip is built into the keel of each vessel, and another lump forms the core of the ship. Our mining operation is the only reason why Alma agreed to work for Rizzen to begin with. We only had a fraction of the fleet we do now when we arrived. By the time we’re ready to leave, we’ll have enough floatstone to build a true armada. When it’s ready, we can relocate to anywhere on the planet we choose, our contract with Rizzen be damned.”
+
+After listening for a few more minutes, Veronica and Nick decided that they weren’t going to learn anything else. Besides, it was starting to grow light, and they needed to head inside before they were spotted by the ships prowling above.
+
+Along the way, he pondered what he had learned. Floatstone. A magic mineral with an antigravity effect. I wonder what would happen if I put some in my pack. Maybe I can use it to increase its capacity, since the limit is based on weight rather than size. I should try to get my hands on some while we’re here.
+
+That being said, attacking a defended base while they were being hunted by a hostile faction that was hundreds of members strong didn’t seem like the best idea. Nick decided to keep an eye out for a better opportunity to steal some floatstone as he crossed the level.
+
+***
+
+Over the next two days, Team Earth and the sky pirates continued their game of cat and mouse. The voyage left Nick in awe of the sheer scale of this floor, which wound up being far more extensive than he’d originally thought. He wasn’t sure why an open space the size of a small country was inside Darkstone Tower, but it was just one mystery among many that he had no means of unraveling.
+
+Their trip gave him plenty of time to get to know their ride, which turned out to be a multipurpose vehicle rather one specialized for hauling or battle like most of the ships he’d observed. The airship was twenty feet long and ten feet wide in the middle, with plenty of room on the deck for all five members of the party. The wings and sails provided propulsion, although the ship could make minor maneuvers without needing the extra push.
+
+The space below was divided into three areas. There was a cargo hold in the middle and a barracks in the front. It had enough room for three people to sleep and featured a small chamber with a toilet and sink. The final space was the most interesting. It was some matter of engine room, or the magical equivalent in this case.
+
+There was a series of crystals and pipes connected to a pedestal in the middle, which held a fist-sized lump of stone covered in intricate runes. Nick decided that it had to be a piece of the floatstone that the pirates were mining, since there was more embedded throughout the keel. He eventually determined that the machine was there to regulate the power of the floatstone—able to increase or decrease the amount of lift it provided by some mechanism beyond his understanding. The apparatus allowed the ship to ascend or dive, serving as a form of ballast that didn’t need to be jettisoned to function.
+
+He wondered how much lighter than air the mineral was in its natural state. Nick assumed that it was significant, since floatstone was what allowed the massive islands to hover. He wasn’t sure how to remove it and wasn’t willing to tinker with it while they needed it to fly the ship, but he was going to try to take the core with him whenever they were done with this stage of their journey.
+
+On the third day of their voyage, Team Earth’s luck finally ran out. The pirates had adjusted their tactics without the party realizing it. Instead of just prowling the skies, they had begun landing two-man craft on all the major landmasses, trying to catch Nick’s ship when it landed in the morning.
+
+They didn’t spot the little airship until it was too late. Before they knew what was happening, the vessel took to the sky, then released a series of flares—bright green balls that could be seen for miles.
+
+“Oh shit,” Devin said, in what would prove to be a monumental understatement. “That’s not good.”
+
+Everyone sprang into action as a tsunami of adrenaline flowed into Nick’s veins. Their aerial cruise had just become a death race and there wasn’t a second to spare.

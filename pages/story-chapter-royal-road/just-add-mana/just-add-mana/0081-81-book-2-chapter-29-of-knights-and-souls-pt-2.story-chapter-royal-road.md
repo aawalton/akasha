@@ -1,0 +1,215 @@
+---
+id: 1f5bb6c6-3235-59dd-bb30-9a1cafa01d58
+page-type-slug: story-chapter-royal-road
+title: "81 — Book 2, Chapter 29 — Of Knights and Souls, Pt 2"
+slug: 0081-81-book-2-chapter-29-of-knights-and-souls-pt-2
+partOf: just-add-mana
+position: 81
+ownLength: 3699
+unit: words
+ownProgress: 3699
+publishedAt: 2026-01-01
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2898374/81-book-2-chapter-29-of-knights-and-souls-pt-2"
+royalRoadId: "2898374"
+markedReadAt: "2026-06-29T18:50:25.163Z"
+---
+
+Cale was thankful for a particular quirk of shared visions, which was that he didn't actually need to process everything he'd seen immediately. They hadn't all been sucked into the memories Flia had experienced, exactly. Instead, her Spark had drawn it out into a sort of mental package, which allowed Cale to step back the moment he realized what it was going to entail.
+
+It still left him with conflicted feelings, though. That temple was certainly a temple to Vital, and if it hadn't been destroyed, then it was probably still around, somewhere in the desert. Go figure the Source of Vitality wouldn't let something like death completely eradicate him. What remained was more a remnant than the true Vital, but it didn't mean something in Cale didn't ache when he felt that familiar intent within Angus's memories.
+
+He'd have to pay his old friend a visit, once he got the chance.
+
+It was a good thing he didn't let that memory fully unfold, though, because his attention was jerked away rather rudely by a presence he hadn't been expecting. This was largely because he hadn't been expecting any presences at all, of course; being in the middle of a deadly mage-killing storm tended to preclude any possibility of being followed.
+
+And yet, here they were. That was worrying. It meant that whatever this was, if it was dangerous, then it was a level of danger he would almost never willingly expose novice mages to. Especially the incredible up-and-coming ones, like his apprentices! In fact, Cale was still rapidly revising his opinion of them upward, considering how often they kept exceeding his expectations.
+
+That meant he was going to have to deal with whatever this was, though. The way it forcibly stole his attention was another point of concern—there had been a time when he was alert to anything that entered his mana sense, but he'd long since trained himself to react strictly to signals that were sufficiently powerful or interesting or familiar.
+
+In this specific case, it was all three, except the last part felt odd and sideways. Cale would have been excited if Damien wasn't effectively in the middle of soul surgery; if anything interrupted them now...
+
+Well, he'd just have to make sure that didn't happen. Besides, he was still a little excited.
+
+Cale made a series of rapid calculations, then frowned slightly. If he ended up having to fight, he'd have to maintain this barrier around his apprentices the entire time, which wasn't ideal. It would have to be something of a last resort. As much as Flia had managed to calm Angus's soul down, the enormous quantities of magic already invested into the Aspect Cascade would take time to settle.
+
+And until that happened, the Utelian portion of the realm overlap remained incredibly dangerous. It'd be best if he went out there to confront this new presence before it got to them, especially since his barriers weren't entirely reliable within this overlap.
+
+"Flia," Cale said, tapping her on the shoulder and making her jump. She was semi-preoccupied sharing the power of her Spark with Damien as he reached out toward the soul fragments; Damien himself was barely paying any attention, already doing his best to reach out to Angus. "Something's here. I'm going to need your help."
+
+Flia disengaged for long enough to shoot Cale an incredulous stare. "What?" she asked. "We're inside the Aspect Cascade and in a pocket realm. That shouldn't be possible. Should it?"
+
+"It shouldn't be, which is exactly the problem," Cale said dryly. "I need to go investigate. Worst case scenario, if this barrier collapses and lets the Cascade in for any reason, I need you to get everyone evacuated. Just shunt them all into the Abyss. I'll owe Lev a favor, but she'll take care of you until I can get there."
+
+Flia made a strangled sort of noise in her throat. "That's a terrible escape plan," she said. "And the Cascade alters mana aspects."
+
+"It's the best we've got," Cale said, already striding toward the door. He paused for long enough to explain. "The storm can forcibly attune your mana, but it won't be able to get rid of the Spark you imbue inside it. This is a last resort move, don't worry. I'm going to do my best to keep the barrier up. I just want you guys to have a backup plan so you stay safe."
+
+"Oh, now you act like a proper master," Flia grumbled. "Do you have any idea how much responsibility this is? We're all going to die if I screw this up, you know."
+
+She was complaining, but Cale saw the way she was clenching and unclenching her fists, readying her mana just in case. He grinned at her, and she made an exasperated sort of noise before shooing him out of the tree. He laughed. "I'll be back as quick as I can," he promised.
+
+Then he stepped back outside into grassy fields, and felt the shade of the tree he still didn't want to look at looming over him.
+
+Thankfully, the presence that was setting off his mana sense wasn't hard at all to find. It wasn't even trying to hide itself, for one thing—it practically loomed over the horizon as it approached, in a way that would have been ominous if not for the fact that it very clearly had no idea where it was going. Cale would have been amused if not for the fact that it very clearly held enough power to be an existential threat despite its own confusion.
+
+He was still a little bit amused, in fact. That amusement was replaced quickly by a twist of concern and pity when he noticed that it seemed to be limping.
+
+It looked mangled, and even that wasn't quite enough to accurately describe the condition it was in. There was, he supposed, a very vague suggestion of a knight in its shape and form—with heavy emphasis on both the words "vague" and "suggestion", anyway.
+
+It was wearing plate armor, which was most of where he got the knight impression from. That, and there was what looked like a helmet to pass for its head, although it was really more like someone had picked up shards of broken glass by the handful and roughly sculpted it into an impression of a helmet.
+
+The rest of it wasn't much better, and to Cale's dismay, blinking and rubbing his eyes didn't do much to help. One of its arms kept flickering like it wasn't sure it was meant to be there, and occasionally it would split into two or three smaller limbs before snapping abruptly back into one. The rest of the so-called plate armor was really more of an amalgamation of flesh and plate, with flesh mimicking the appearance of plate in the form of hardened chitin. Where it failed, strange yellow tendrils stretched out to wrap around each body part, as if it was only barely holding itself together.
+
+And then there was the sheer presence of it, completely at odds with its appearance. If Cale had witnessed this without his mana sense to warn him, he probably would have assumed it was someone gravely injured. With his mana sense, he was pretty sure this was just what it looked like—and its presence was strong, far greater than anything he'd encountered on Utelia so far.
+
+In fact, it was strong enough that even without a barrier, it straddled both Utelia and the pocket realm. Cale could see pieces of its mana flaking off and shifting, as if under attack by the Aspect Cascade, except it simply had so much of it that the storm couldn't attune it fast enough.
+
+It wasn't just quantity, though. Part of it was its own presence was deflecting the power of the storm, preventing it from fully taking effect. Briefly, Cale remembered his own words about the hierarchy of magic. Spells and effects from something or someone lower in the hierarchy had difficulty affecting entities that stood above them.
+
+This creature, whatever it was, stood somewhere above the mages and archmages of Utelia. He couldn't quite make out where it was in the power scale otherwise—it kept shifting, like it was unstable.
+
+None of those were good signs. Especially since Cale should have been able to recognize anything this high up in the hierarchy instantly, and for the life of him he couldn't tell anything about this one except that it felt familiar. That was going to be a problem, he knew.
+
+On the plus side, it had noticed him by this point and hadn't immediately attacked, so that was a point in its favor. It also looked a little like it was genuinely in pain, though Cale wasn't sure one way or another if it actually was or if that was just what it was like. Either way, he had a very tried-and-true method of dealing with existential threats he hadn't figured out yet.
+
+"Hey there!" he called out cheerfully, sauntering up to meet the knight-thing. "I have a very important question. Do you know any baking magic?"
+
+The knight stopped in its tracks to stare at him. "Hello," it said cautiously. Or perhaps curiously? Cale couldn't really tell. "I cannot say that I do. Why do you ask?"
+
+It wasn't attacking him immediately, which was a good sign. Cale beamed. Some existential threats just wanted to be treated like anybody else. Perhaps this was one of them. There had been a few times when he'd approached one like this and nearly had his head blown off for the trouble, but it wasn't his fault not all eldritch entities were friendly.
+
+"Well, I just learned my first baking spell," Cale said, as if it was obvious. "It turns anything into an oven. I was hoping I'd be able to pick up a few more, you know?"
+
+"I cannot assist you in this," the knight said apologetically, bowing its head. "I congratulate you on your spell, however."
+
+"Thanks!" Cale said. Now he was really wondering why this thing was here—it didn't seem hostile at all. There was still something about it that felt off, though, and that worried him. It was like there was something deeply wrong, just beneath the surface.
+
+Cale hated not knowing things. He was going to have to improvise to try to figure out as much as he could. Preferably through conversation, but if it came down to it, there was a lot you could learn about a mage through their magic.
+
+"Too bad," Cale said, sighing dramatically. "Baking magic is the pinnacle of magic, you know. Only the greatest of mages can bake. Ah well. My name's Cale Cadwell Cobbs; who're you?"
+
+"I am the Red Knight," the knight responded politely, which was, first of all, an absolutely terrible name for something that was not red and barely even looked like a knight.
+
+And second... Cale generally didn't like introducing himself with his full name, because it was a bit of a mouthful, but it was occasionally useful. His name was relatively well-known among the Monoliths, for instance, along with a few other higher-order beings that could communicate between the Great Realms. Sometimes, he could glean quite a lot from how others reacted to his name.
+
+The Red Knight, unfortunately, remained entirely a mystery. It didn't seem to recognize his name consciously at all, but parts of it certainly reacted: the shards of broken glass shuddered in response, and a few of the ones scattered throughout it flinched and sank deeper into its flesh. Cale really wanted to wince at the sight, but suppressed it.
+
+"Why Red Knight?" he asked, frowning. "You don't look red at all. You're more like... blue and yellow, if anything. And most of the yellow is weird vine stuff."
+
+There was a hesitant pause. "I have not given much thought to my name or appearance," the Red Knight said after a moment, looking down at itself and seeming almost startled by the look of its own armor. "But it appears you are correct. My title is inaccurate. Perhaps my master made an error. I will request a correction."
+
+"And who do you work for, exactly?" Cale asked, pouncing on the opportunity. The Red Knight tilted its head.
+
+"I am completing a task for Lifsauhn of the Red Hunters," it said. "I am to track down the fortress that was seen flying through the Golden Sands and to identify the mages involved. If they plan to interfere with the Red Hunters and their plans, I am to interfere by any means necessary."
+
+Cale paused. The Red Knight apparently had no concept of operational security. The confirmation that it was working with the Red Hunters was alarming, though. Sooner or later, this conversation would almost certainly lead to a fight.
+
+Hopefully later, after Damien and Syphus were done fixing up Angus's soul.
+
+"I see," Cale said. "Did you lose track of them or something?"
+
+"In a manner of speaking." The Red Knight inclined its head. "I could sense their mana signatures headed into a magical storm known as the Aspect Cascade, and that is where I am now. However, it seems the storm has manifested a pocket realm, and I am unable to move myself fully into it. As such, my senses are obfuscated by the storm, which is frustrating. But it does appear to be weakening. I will be able to track them down soon."
+
+Well, that was fun. Cale had no idea what to make of that. "What are you going to do when you find them?"
+
+"It is likely that I will have to kill them." The Red Knight did not sound particularly enthusiastic about it, but it didn't sound like it hated the idea, either. "The Red Hunters and their plans cannot abide interference."
+
+"Why's that?" Cale prodded. As he spoke, he began walking up toward it, as if he wanted to get closer for a better conversation; he'd need to reposition himself if they were going to fight, just so stray spells didn't end up hitting the tree and his apprentices within it.
+
+"It is my purpose," the Red Knight said simply. "I was created to serve them and their plans."
+
+Cale paused, then raised an eyebrow. "So you don't agree with them?"
+
+"I neither agree nor disagree with them. I was commanded not to think, so I do not think," it explained. That seemed blatantly incorrect, as far as Cale was concerned, but he decided not to point that out just yet.
+
+Instead, he began circling around the Red Knight, who rotated to face him. Cale made an irritated sort of noise. "No, no, hold still!" he said. "I'm trying to see what you look like from the back. I can't do that if you're turning with me."
+
+"Oh," the Red Knight said, and obediently held itself still. Cale blinked, having not actually expected that to work.
+
+Well, he wasn't going to complain. It allowed him to move about however he wanted, and he took the opportunity to both position himself and examine it a little more closely. He was almost certain now that he was on the verge of recognizing it properly—something about the way it stood and some of the markings on its armor rang a bell, and then there was the way it spoke...
+
+The Aspect Cascade was still fading, so it was no doubt going to figure out who he was soon. He didn't have that much time left to figure this out. "What did you mean, you don't think?" he asked. "You said you were frustrated earlier."
+
+"Frustration is an emotion," it explained. "Emotions do not count. I was able to determine this earlier."
+
+It sounded proud of itself, too. Cale decided on a different tack.
+
+"Alright, then," he said. "You can't agree or disagree with the Red Hunters, but you can feel something about it. How do you feel about what they're doing?"
+
+"I have not given it consideration." The Red Knight hesitated for a moment. "I do not understand what drives them."
+
+"Oh, I can help with that," Cale said. "They think wild mages need to be culled because they're dangerous. Or at least, that's what they claim to think. I'm starting to think they have ulterior motives."
+
+"You know of the Red Hunters?" the Red Knight asked. "I had assumed you were a local of this pocket realm."
+
+Ah, shoot. Cale stilled, but the Red Knight didn't react yet, instead musing over the question.
+
+Then it made a strange, grating sort of noise, which took Cale a moment to recognize as a chuckle. "That is a remarkably foolish belief," it said. "Magic is neither wild nor tame. It is what its users make of it."
+
+Cale froze. He'd heard that line before, almost word for word, he was sure of it. He thought rapidly—the person who had said it didn't look anything like this, but the way it was behaving, and the tiny mannerisms—
+
+—fuck, why was it so hard to remember?
+
+"However," the Red Knight continued, and Cale twitched, knowing what was coming. "It occurs to me that if you are not local to this pocket realm, then it is likely that you are one of the mages I am seeking."
+
+"Maybe this realm has Red Hunters, too," Cale joked, and he could have sworn the Red Knight snorted in response, almost like it was amused.
+
+"A remarkable coincidence, if true," it said. It hadn't moved to attack yet, but he could feel it getting ready to. The mana within its core was spinning up, getting ready to flow into a spell. "But the storm has weakened enough that I can once more sense your mana signatures. You are attempting to heal that soul and end the storm, are you not?"
+
+"Not at all," Cale said. "It's scheduled maintenance. You know, like plumbing? We're just cleaning up the soul to strengthen the storm. You know how it is with maintaining dark, forbidden rituals."
+
+The Red Knight outright laughed, this time, and once more Cale felt that tickle of familiarity in his brain. He grimaced—he was starting to think he knew what this was.
+
+"You are amusing," it said. "It would be a pity to have to kill you. Could I convince you to leave the soul alone, instead?"
+
+"You said it yourself, the Red Hunters' plans are based on a false premise," Cale said. "And honestly, I just don't want to leave someone to a fate of being tortured for eternity, you know?"
+
+He kept his voice light, but he noticed the shards of glass on the Red Knight shuddering again at that statement, and his eyes narrowed.
+
+"It is not that simple," the Red Knight said, its tone regretful.
+
+And that confirmed it. The Red Knight was under a compulsion of some kind. It was a looser compulsion than most of the ones he was familiar with, which meant it would be harder to break. This was something ingrained, built into its purpose.
+
+Not that Cale was ever one to shy away from a challenge. He sighed, then straightened into a stretch, feeling his neck and various other joints pop. "I won't be that easy to kill, either," he said, allowing a sharp smile to slide into his expression. "Normally I'd be the one killing you, but my apprentices have convinced me I need to start trying more. They're infectious that way."
+
+"Is that who resides in the Great Tree?" the Red Knight asked.
+
+"Are you going to target them if I say yes?"
+
+"No," the Red Knight said, surprisingly resolute, and Cale realized after a moment that the intent flaring up within its mana was anticipatory. It was looking forward to the fight.
+
+Or, to put it another way, it liked the idea of sparring with someone it considered an equal.
+
+"To attack them would be honorless, and would force you on the defensive," the Red Knight added, like it needed to explain itself. "That would make the fight less enjoyable."
+
+"And you're really looking forward to this fight, aren't you?" Cale asked dryly. He got the impression that the Red Knight was grinning at him in response.
+
+"You will last longer than most," it replied.
+
+"I used to know someone who would say things like that," Cale said, because he was certain that he did, and he was also now certain that the reason he couldn't remember them wasn't, in fact, his fault. But he'd be able to pry the memory loose now that he knew it was there, with a bit of effort. "Then I beat the crap out of them."
+
+"Then I hope you show me that same courtesy," the Red Knight said politely, and lifted its sword.
+
+"Trust me," Cale said. "I'm going to give us both something to remember."
+
+His strongest resonance was fire, and there was a fire spell he had yet to evolve, picked up from Orguk's panicked casting back during Alchemy 101. In fact, this was probably going to be a great opportunity to evolve his spells, considering his barriers wouldn't be at full effectiveness while they were in the realm overlap.
+
+The Red Knight was waiting for Cale to make the first move, so he obliged and cast [Fire Whip]. With five ranks of fire resonance and his friendship with Vesuvius, he was bound to get something good, though probably not enough to end the fight outright.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Fire Whip] has evolved into [Ten Tongues of Vesuvius]!
+
+Cale wondered briefly if Vesuvius actually had ten tongues. He hadn't noticed, but now he was curious.
+
+[Ten Tongues of Vesuvius, Level 1] [Tenth Tier (Unique), Active] [1.0e29 Mana]
+
+Summon the ten tongues of the elemental god Vesuvius to attack or restrain your opponent. The intensity of this spell is amplified by your resonance.
+
+This spell may inflame the target's passions.
+
+...It was also possible he needed to have a word with the Gift on phrasing.
+
+The Red Knight moved to meet his magic, and Cale let himself grin and flow into the battle.

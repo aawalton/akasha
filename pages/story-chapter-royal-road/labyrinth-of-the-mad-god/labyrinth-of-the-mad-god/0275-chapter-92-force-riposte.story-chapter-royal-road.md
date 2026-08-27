@@ -1,0 +1,91 @@
+---
+id: 53564288-8405-54fb-bb98-ea514bcd80fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92: Force Riposte"
+slug: 0275-chapter-92-force-riposte
+partOf: labyrinth-of-the-mad-god
+position: 275
+ownLength: 1512
+unit: words
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2943248/chapter-92-force-riposte"
+royalRoadId: "2943248"
+---
+
+Nick had been insanely busy over the last few days, but he hadn’t forgotten about the ability stones he’d picked up from the System’s quest. He had pondered his options whenever he had a few minutes to spare and was ready to pull the trigger and add a new power to his collection.
+
+While he was certain that Enhance Senses would be a valuable tool—especially when he entered the Labyrinth and started exploring in earnest—he decided to go with the ability that would enhance his combat potential first.
+
+He reached into his bag and pulled out the rune-covered gem containing Force Riposte, admiring the emerald mineral that glowed with a soft inner light. He copied the engravings into his journal for the researchers to study then pulled up his profile with a grin on his face.
+
+You are holding an ability stone containing the ability: Force Riposte.
+
+Would you like activate the stone and learn the ability now?
+
+“Yes, please.” When Nick acknowledged the prompt, a blinding beam of energy shot out from the stone, passing through his skull and into his brain.
+
+He barely noticed when the gem shattered into fading fragments of light, because the special effects taking place inside his head were far more profound. The System’s ethereal fingertips were molding his gray matter like wet clay, building new synaptic pathways and energetic conduits before hooking them up to his core.
+
+This time around, he felt the ability connect to his stamina well too—a font of vitality near his navel that he was learning to sense with greater clarity. It must be because Force Riposte is both a spell and a combat art.
+
+When the show was over, he understood the basics of how his new power worked, although he would learn a great deal more after trying it for the first time.
+
+Force Riposte only worked when receiving an attack, so he went to find someone who would be more than happy to take her best shot and asked Ella to join him in the training hall for a quick sparring session.
+
+Since she was skilled enough to mitigate most blows and tough enough to survive even if she didn’t, they skipped the warmup and proceeded straight to the main event.
+
+They picked up a pair of practice blades, stepping onto the mat with a ring of onlookers watching from far enough away that they wouldn’t get caught in the crossfire.
+
+After they took their stances and bowed to each other, she let loose with a streaking slash for the side of his torso—maniac grin matching his own as they got ready to find out what would happen next. He only had a fraction of a second to activate the ability, but that was all the time he needed.
+
+Even with a wooden weapon, the effect was impressive.
+
+Since he knew the strike was coming, Nick was able to get his sword up in time. Ella was so strong that he could never have blocked her swing cold under normal conditions, but with the newest power at his disposal, a different outcome ensued.
+
+The first thing he learned was Force Riposte was considerably faster than any of his other powers. The instant he willed it to activate, it was ready to go. He had switched on mage sight before meeting Ella in the ring, watching in fascination as bands of force mana reached out and caught her blade like a fisherman casting a net.
+
+Then, in a complex interaction he couldn’t even begin to understand while witnessing it for the first time, the lattice of mana absorbed the kinetic energy behind her blow. The warrior’s weapon came to a gentle stop as it touched his own with a faint click of wood tapping wood.
+
+The stolen force gathered in his arm like a coiled spring—bolstered by the stamina infusing his muscles and the magic encasing the blade.
+
+Nick could sense that if he waited, the energy would disperse into the air, which meant he could use Force Riposte purely as a form of defense. Since he wanted to test its full function, he lunged for Ella instead.
+
+The blade thrust forward like a bullet, launching itself for the woman’s chest with the force of a battering ram. Her eyes widened as she leapt back in a lightning-quick disengage.
+
+Even still, the tip of his sword caught her with an impact that would have shattered the sternum of a lesser warrior. She went skidding backwards along the mat before bursting into laughter, rubbing the space between her breasts with her fingertips.
+
+“That fucking hurt.” She nodded in approval. “I love that ability and wouldn’t mind picking it up myself. Let’s try it again now that I know what to expect.”
+
+They went back and forth in a vicious exchange of blows, adding other attacks to the mix to test Force Riposte across a range of conditions.
+
+Nick had sparred with Ella enough times to notice the difference right away. While she could deal with his ability in any number of ways, it gave him an edge that hadn’t been there before. She was a blademaster and could defeat him handily unless he used Force Acceleration, but they were both impressed by what his new power could do.
+
+Having a way to blunt the impact of an attack he couldn’t dodge was incredibly valuable, and the counterattack was even better. Force Riposte wasn’t as powerful as Sonic Slice, but it drained far less vital energy without requiring a complicated setup.
+
+Besides, it was still rank zero. Who knew what kinds of awesome upgrades would be on the table when he advanced it a major step or two?
+
+On top of everything else, absorbing force and redirecting it resonated with Nick in a fundamental way. He had a hunch that meditating on the matter would lead to some interesting insights into the nature of force mana. It might bring me one step closer to developing a Concept too.
+
+Before they called it a day, Ella helped him run a few more tests, the first of which was swapping his abilities around.
+
+He only had two active slots until he reached the next tier, which meant he had to put one power in his free slot until he took Mana Dart to rank six or Heavy Blow to rank one. It took a moment of concentration to swap abilities in and out of his free slot. He needed more practice before trying it in battle, but he didn’t think it would cause him too many problems.
+
+Nick tried comboing Force Riposte with Force Acceleration but couldn’t get it to work. He suspected it had something to do with the complex nature of Riposte and the abilities were interfering with each other somehow. That being said, Nick was confident that he would figure out the trick eventually.
+
+Finally, she hit him with Singularity—her signature gravity attack that multiplied the momentum of her blow. The hit sent him flying and bruised the shit out of his ribs until he quaffed his Elixir of Restoration to take the edge off. “Now we know what the limits are at stage zero. That should give you a sense of the strongest attack you can safely absorb.”
+
+When they were done sparring, they shared their observations on how the ability had performed, and Ella offered some advice that would make it even more effective. Riposte wasn’t the right tool for every job, but it was a potent layer of defense and a way to end a fight in a flash against an unsuspecting opponent.
+
+Since they were already in the training hall, he asked for some tips with his short sword too, so he could fight more effectively while summoning Fritz. On that note, the king wanted to meet Ella in person. Nick wasn’t planning on leaving the settlement today and was happy to grant the request.
+
+Fritz and Ella took one look at each other and sprang into motion.
+
+They exchanged a series of attacks that was so fast Nick could barely follow allow. He hadn’t even noticed her pick up the gear staff as both martial-arts masters dueled with their primary weapons instead of wooden blades.
+
+For a second, he thought they were trying to kill each other, but when they both started cackling, he realized the Kastillan had met a kindred soul.
+
+When the five minutes were up, Ella and Fritz exchanged names and bowed. “Your new friend is amazing,” she said after the king vanished in a flash of light. “Please let me do that again some time.”
+
+He would probably get along well with Kenji too, Nick mused. Poor guy was all alone for hundreds of years. We enjoy each other’s company, but Fritz needs to make more friends. Maybe I can find a way for them to interact for longer periods at a time—some kind of illusion instead of visiting in person.
+
+He thanked Ella for her assistance and walked to the mess hall to grab lunch while mulling the matter over.

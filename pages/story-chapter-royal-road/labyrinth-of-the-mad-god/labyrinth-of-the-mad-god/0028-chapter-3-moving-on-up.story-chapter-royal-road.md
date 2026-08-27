@@ -1,0 +1,147 @@
+---
+id: b4984626-78e5-56d6-b829-a2c699d9b6ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Moving on Up"
+slug: 0028-chapter-3-moving-on-up
+partOf: labyrinth-of-the-mad-god
+position: 28
+ownLength: 1698
+unit: words
+publishedAt: 2024-07-24
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1730646/chapter-3-moving-on-up"
+royalRoadId: "1730646"
+---
+
+Excited by the prospect of gearing up followed by sleeping in a real bed for a change, Nick looked around until he spotted a gleaming silver box resting by his boots. A container that hadn’t existed until he finished reading through his quest updates.
+
+He reached down and cracked it open, relieved to find a familiar strip of paper resting on top. Seeing it made him miss the knowledge points that chests had granted during his tutorial, since Nick still had a mountain of questions regarding the System and the strange laws governing his new reality that he needed to have answered.
+
+It reminded him that Kerry the merchant had added some notes to his journal, which he planned to check out before leaving the safe room and entering the tower.
+
+Intending to make every second of safety count, Nick quickly read through the document in his hands.
+
+Congratulations. You have earned a silver quest reward chest.
+
+Contents:
+
+Caster’s buckler (uncommon).
+
+This item has two forms. The first is a vambrace, meant to be worn on the outer arm. When its owner wills it, the plates contained within the vambrace will fan out to form a circular shield (This buckler counts as a light shield.) The metal it is made from offers a modest resistance to most forms of mana.
+
+Modifications: Durable, self-maintenance.
+
+Consumable item voucher (common).
+
+This voucher is redeemable for a choice between a range of consumables (the token may be used at any time when your menu is open).
+
+A new shield, awesome! I can finally put my light shield skill to work. It seems versatile too. Filled with a buoyant enthusiasm, Nick strapped the vambrace onto his left arm, pacing while he gave the device a thorough examination. It seemed that the System had given him exactly what he needed, at least as far as armor was concerned.
+
+Nestled along the back of his forearm was a three-inch-wide band of what felt like aluminum, although it was probably something far more exotic, given its innate resistance to magic.
+
+At first, Nick thought that it was black. But when he held it beneath the gem-lights embedded into the walls, he realized that the metal was navy blue instead, the hue so dark that it barely reflected light back. Not the best color for camouflage, but sunlight shining on it won’t give my position away.
+
+The vambrace was surprisingly light, but hard enough that he couldn’t even scratch it with his old dagger. He sensed that the blade would snap long before the buckler gave way. Like all rewards granted by the System, the item fit Nick perfectly. The padded straps hugged his arm without restricting his range of motion. He drew his sword, so that he could try swinging it with the vambrace in place. It didn’t hamper his movement at all, at least not in its compact form.
+
+With the appetizer out of the way, it’s time for the main course. Grinning with excitement, he sent his intentions into the buckler. Open. In the blink of an eye, the vambrace transformed into a shield, expanding in all directions as the metal plates fanned out to form a circle.
+
+The surface was contoured, designed to redirect force rather than blocking it head on. A detail that Nick needed to internalize before he deflected an arrow into his face or stomach. That must be the difference between a light shield and a heavier type.
+
+He could already tell that his new armor was practical, offering substantial protection against projectiles. The caster’s buckler would help to mitigate two of his biggest weaknesses. Low defense and vulnerability to ranged attacks.
+
+Better still, it seemed that the metal would repel spells to some extent, giving him an option when facing down casters that was vastly superior to desperately trying to leap out of the way in time.
+
+He would practice using it before leaving the safe room, but not just yet. Nick needed to take a nap first. More importantly, he had other gains awaiting his eager perusal. Satisfied with the latest upgrade to his gear, he walked back over to the display and opened his menu.
+
+Before checking out his notifications, he decided to turn in his voucher. There wasn’t any reason that he could think of to save it.
+
+More consumables were always welcome. The flashbang orbs and potion of antidote that he’d found back in the tutorial had been literal lifesavers, not to mention Veronica’s concentrated potion of stamina. This voucher is a real windfall. I hope that everyone else received one too. Excited to find out what he would get, Nick sent his intentions into the display.
+
+You have one voucher in your inventory that can be redeemed at this time. Would you like to do so now?
+
+“Yes please,” Nick replied, figuring that it never hurt to be polite when addressing a universe-spanning entity of mind-boggling power.
+
+You may exchange your voucher for one of the following consumable item packages:
+
+4 Orbs of flashbang.
+
+2 Potions of antidote.
+
+3 Barriers (2 physical, 1 energetic. 5-minute duration).
+
+25 Caffeine pills.
+
+2 Freeze grenades.
+
+6 Smoke bombs.
+
+2 Large bags of caltrops.
+
+1 Bottle of coagulant spray.
+
+3 Glue traps.
+
+15 Instant meals.
+
+That’s a tougher choice than I expected. There’s a lot of good stuff on that list. Nick was sorely tempted by the caffeine pills, but he knew they would be a poor pick. They weren’t nearly as effective as Veronica’s stamina potions, and caffeine just wasn’t the same without coffee.
+
+He continued crossing off everything with functions that he could replicate or that he could make for himself, taking the instant meals and caltrops out of the running. The spray sounded useful, but it overlapped with Nick’s flask, and with his high toughness he didn’t usually bleed all that much before his wounds started healing on their own.
+
+That left him with the flashbangs, the antidotes, the barriers, the freeze grenades, and the glue traps to consider. They all sounded super useful, and Nick had used flashbangs to great effect back during the tutorial.
+
+But the enemies he’d faced on the bog had been a great deal stronger than those on the island. He suspected that whatever awaited him in the tower would be even nastier, able to shrug off considerably bigger blasts. Thus, he reluctantly took the flashbangs and glue traps out of the running, since his mana dart had a modest stunning effect already.
+
+Nick could probably make his own smoke bombs with the right ingredients and a bit of testing. While they would still be useful, he narrowed his options down to the three items that he had no way of replicating. The antidotes, freeze grenades, and barriers.
+
+He eventually decided on the barriers, since they offered a form of protection different from any he had seen so far. While the antidotes could save him under the right circumstances, the barriers would prove useful in almost any tough fight.
+
+Satisfied with his choice, he turned to face the screen. “I’ll take barriers, thanks.” There was a bright flash of light. When it faded, a pair of glass beads shimmered into existence beside the obelisk, along with another scrap of parchment. He picked it up and started to read.
+
+Instant barriers (set of three).
+
+Crush these beads to create a dome of force (fifteen-feet in diameter) that will last for five minutes before dispersing. The user and their party may step through these fields freely. Each will absorb a considerable amount of damage (equal to a rank 5 ability). The clear barriers will protect against physical attacks, while the blue will repel energetic threats.
+
+Not bad at all. Nick slipped the glass orbs into his toolbelt, then returned his attention to the display, opening his list of notifications. He broke into a broad grin as he took in the hearty pile of gains he had made since the day before.
+
+Congratulations. You have accumulated enough experience to reach level [14].
+
+You have gained one point of magic from your class and one free point.
+
+Congratulations. You have accumulated enough experience to reach level [15].
+
+You have gained one point of magic and one point of dexterity from your class and one free point.
+
+As a reward for reaching level [15], you have been awarded a bonus free attribute point.
+
+You have three free attribute points awaiting allocation at your discretion.
+
+Through use, you have improved the following skills:
+
+Sword has increased from [6] to [7].
+
+Evasion has increased from [6] to [7].
+
+Wand has increased from [8] to [9].
+
+Throwing has increased from [5] to [7].
+
+By pushing yourself to the limit in the midst of a deadly battle, you have conditioned your body and improved the following baseline attributes:
+
+Dexterity has increased from [9] to [10].
+
+Toughness has increased from [8] to [9].
+
+For reaching the attribute cap in dexterity, you have been awarded with an additional point of dexterity.
+
+Holy shit. Nick was floored when he read through the biggest pile of increases that he’d ever seen. He was thrilled to learn that he’d been awarded with a point of dexterity for reaching the cap of ten, on top of everything else. A feat that had taken him considerable time and effort. No wonder I was so disoriented when I leveled before, that was a ton of points to get at once.
+
+He was about to move on to reading his full profile to check out his new and improved stats, then decide how he wanted to spend his free points, when another message popped onto the screen.
+
+It revealed something that Nick hadn’t been expecting. Something even more exciting than all the rest.
+
+For reaching level 15, you have unlocked the ability mastery system.
+
+From this point on, once certain conditions are met, you may upgrade your abilities along the path of your choosing.
+
+Warning: the choices you make will influence the classes offered during the next class selection opportunity at level 25.
+
+“Now we’re talking.” Nick’s eyes lit up as he kept on reading, digging into the juicy details of this amazing new facet to his growth.

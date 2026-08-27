@@ -1,0 +1,105 @@
+---
+id: 1bceed27-cfda-5a04-a56c-bf6cc77c22f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76: Sophia’s Demon"
+slug: 0258-chapter-76-sophias-demon
+partOf: labyrinth-of-the-mad-god
+position: 258
+ownLength: 1710
+unit: words
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2830654/chapter-76-sophias-demon"
+royalRoadId: "2830654"
+---
+
+Three Weeks Later
+
+Sophia extended her wrist-blades as the eagle she rode dove toward the trio of monsters flying below.
+
+The fearsome creatures, which looked like mutant roosters the size of a barn, were circling a rocky plateau rising from the acidic mud that covered the floor of the dungeon—one of the few places where she could stop and rest within the most dangerous environment she had ever explored.
+
+Sophia liked being inside the dungeon.
+
+While the view left something to be desired, conquering this hellish wasteland would help her friends. Far more importantly, when she lost control and the demon took over, there wasn’t anything for it to devour other than the nightmares made flesh that called this place home.
+
+The buzzing of wings filled the air as a dozen frostfury royal guards fell into formation beside the beast that was plummeting toward her prey like a feathered meteor—upgrades from the soldiers she had been able to summon before evolving and advancing her abilities.
+
+While Sophia and her demon didn’t agree on much, there was one matter on which they saw eye to eye—this place was a perfect hunting ground.
+
+The predators dwelling in the dungeon flew low while stalking the beasts that lived in the muck. They were at the top of the food chain, and as a result, they rarely looked up. By the time the roosters realized she was there, it was already too late.
+
+She issued her summons a mental command, sending her wasps streaking toward one monster, her eagle toward another, and claiming the third for herself. Then, in a move she would never have made before her evolution, Sophia leapt off the giant bird—chitinous body plunging toward the creature below like the fist of an alien god.
+
+She hit the rooster square in the back, living blades plunging deep into flesh. As she continued to rend and pierce, her barbed tail lashed out and carved into the monster’s wing, sending it spiraling toward the ground as blood and plumage fell like rain.
+
+She severed the tendons of its other wing and then checked on her summons. The great eagle, which she had named Roc after the legends that captivated her as a child, caught its prey by the neck, snapping it with a crack that reverberated across the open air.
+
+Her wasps were firing their frost venom stingers at the final monster, targeting the wings like they’d been practicing. The appendages were almost frozen over, which meant all three birds were plummeting toward the ground at breakneck speed and wouldn’t survive the impact.
+
+Sophia aimed for the strip of dry land that was growing larger by the heartbeat, leaping with explosive power as the entity that had invaded her soul cackled its approval at the slaughter.
+
+She spread her arms, and Roc snatched her out of the air as the fever-dream roosters smashed into the dungeon floor in a cacophony of shattered bones. Her summon set her onto the rocky rise before circling above her head, guarding her position while she took a much-needed break.
+
+She dismissed the System’s level-up notification and released most of her army to save mana—everyone besides the eagle and a single wasp that was trained to wake her if an enemy drew near.
+
+Her talons clicked against the stone as she lay down in a circle like a cat, tucking her head beneath her tail to block out the light. The hard surface and acrid stench barely even registered. This cursed form was too resilient to be bothered by such trivial matters, although she had learned the hard way that falling into the acidic mud would itch like hell until it dried and fell off her body.
+
+At least the System gave me that Spatial Storage Rune for defeating the Guardian. Without it, I would have lost everything I owned and couldn’t collect valuable resources from places like this.
+
+She wanted nothing more than to fall asleep and dream of better days, but her dark passenger rarely passed up such a prime opportunity to gloat.
+
+“You’re getting better at ambushing flying opponents,” the entity warring for control of her soul—the demon that called itself Zenith—spoke within her mind.
+
+“Keep this up, and we will hit tier two in no time at all. Eventually, you will surrender to the inevitable and I’ll gain full control. Then my glorious conquest of this backwater plane of existence will begin.”
+
+Sophia refused to give the demon the satisfaction of a reply, although it could read her thoughts and sense her emotions more clearly every day. She couldn’t wait to fall asleep and enter the refuge of dreams—the only time she still appeared human.
+
+There was a good chance that Zenith would take over while she was out, but that could happen even if she was awake. Thankfully, she didn’t need to worry about what the demon was up to. Until they defeated the dungeon’s boss, there wasn’t much either of them could do besides kill and level up.
+
+Outside was another matter entirely. By this point, the foul creature was in charge almost half the time, and its influence grew stronger by the second. That was why she had to get as far away from other people as possible, especially her allies and friends.
+
+The first time she had come back to herself covered in blood and viscera—the remains of beasts Zenith had torn to pieces—she thought it had slaughtered her people, a prospect that haunted her every waking moment.
+
+Hour by hour, Sophia felt pieces of herself being devoured by the alien presence inside her. Some days, she managed to reclaim a sliver of what was lost, but she knew she was losing this fight.
+
+If she didn’t find a way to turn the situation around, Zenith would win the war, leaving her trapped as a prisoner within her own body for the rest of her days.
+
+It had come close on several occasions, which is why she had left Aurora as fast as Roc could fly and leapt through the first portal she found. If she lost herself in the depths of the dungeon, at least no one she loved would get hurt.
+
+The only reason she hadn’t fallen into despair was the reward she had received while climbing the tower—a consultation with an expert in sapient parasites and symbiotes.
+
+After performing an extensive scan, Gella told Sophia that the product their merger hinged on whose will was stronger. If Sophia was still in control when the joining was complete, she could retain her humanity—gain the ability to transform into her old self as she adapted to the properties of her new body.
+
+Gella had warned her that it wouldn’t be easy. Zenith was an ancient entity that had ruled its world as a god before being cast into the void. Gaining the upper hand seemed impossible at face value, but there were three reasons why Sophia had a chance of coming out on top.
+
+First, the demon had been greatly diminished by its prolonged imprisonment in the space between worlds. Second, it wasn’t native to this plane of existence and had to contend with new natural laws. Finally, given the nature of their contract and the fact that Zenith violated it, the System had granted Sophia a bloodline trait to help even the odds.
+
+Even still, the deck was stacked against her. Her advantages gave her a fighting chance but the road to victory was narrow, winding, and paved in thorns.
+
+In less than a year, their merger would be complete, at which point, she would either regain her humanity or become nothing more than a small voice in the back of the demon’s mind.
+
+Sophia would rather die than lose this fight.
+
+By now, she understood her dark passenger well enough to know that it viewed the Earth as nothing more than a source of sustenance. Left to its own devices, Zenith would feast on humanity and newly awakened beasts until it grew strong enough to return to its dimension, since they were the richest sources of essence on the planet.
+
+“Don’t worry. You will learn to enjoy the hunt. The screams of lesser beings will be music to your ears—their blood richer than the finest wine.”
+
+While she waited for sleep to claim her, Sophia’s thoughts turned to the people she loved to drown out the demon’s mocking voice, taking comfort from the fact that they had risen from the ashes of the old world to find their place in the new.
+
+Helping her friends defeat the Armada Wurm and found Aurora was a blessed mote of light in the midnight storm that had engulfed her existence. Remembering that moment made her smile inside, although her face could no longer convey human expressions.
+
+Of course, even that joy was bittersweet.
+
+Cutting Nick loose was the hardest thing she’d ever done, but Sophia knew it was the right decision. She loved him, but the odds were high that she would never be human again. After everything we’ve been through, he deserves a chance to find happiness.
+
+Nick was so damned noble that if she hadn’t set him free, he would have waited for her and suffered all the while, and she couldn’t bear the thought of putting him through that.
+
+She still dreamed of being together. Her feelings had only grown stronger since writing that letter.
+
+But she knew that she was holding onto her love to keep herself sane, not because she believed they would ever be together. That last embrace they had shared—throwing his arms around her inhuman form without hesitation—would have to be enough until she either overcame this nightmare or succumbed to it.
+
+She hoped Nick would move on and find what happiness he could. That woman who was staring at him the entire battle was gorgeous. It’s obvious that she’s in love with him.
+
+That being said, if Sophia regained her humanity, she would share her feelings in a heartbeat and have no regrets. Life was too short to leave important matters unspoken, and her ordeal had revealed the true value of everything she stood to lose.
+
+While these thoughts circled round and round, slumber embraced her at last—accompanied by Zenith’s mocking laughter.

@@ -1,0 +1,77 @@
+---
+id: aa474cd5-74f6-536a-a4b5-392876086d50
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82: Danger Above"
+slug: 0123-chapter-82-danger-above
+partOf: labyrinth-of-the-mad-god
+position: 123
+ownLength: 1631
+unit: words
+publishedAt: 2025-01-24
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2028146/chapter-82-danger-above"
+royalRoadId: "2028146"
+---
+
+Before the final word left V’s lips, everyone began racing for cover, looking for anything that they could put between themselves and the airships prowling above.
+
+Everything changed in that moment. The colorful vessels that had seemed so wonderfully magical only seconds ago now exuded an air of menace. Their progress across the sky felt like the jaws of a trap closing around his neck.
+
+Fortunately, the floor of the level was covered in dirt, and lush trees and tall ferns were prolific. On a less promising note, the closest grove was at least half a mile away. Some of the ships were already headed in their direction, although he couldn’t spot any signs that they had noticed the party… yet.
+
+But that was the extent of the good news. If Nick’s team didn’t get beneath the canopy before the airships drew near, their crews would spot them and raise the alarm. He turned toward the closest trees as the party raced across the grass, praying that they would make it in time.
+
+His heart began to race as his adrenaline started to flow. They had to duck beneath the branches before they were discovered. They were sitting ducks if the pirates found them down here. Team Earth had no way to reach the high-flying vessels except for Sophia’s wasps. He was certain that the airships would have no such trouble attacking from that range.
+
+They pushed their bodies into a greater burst of speed, sprinting toward the tree line for everything they were worth. “Over there,” Devin pointed to a thick grove of short trees with emerald canopies, just a few hundred feet ahead. “Those branches are denser than the rest.” Praying that it wasn’t already too late, Nick adjusted his course, running alongside his friends as sweat poured down his body.
+
+“A ship is heading our way.” Sophia looked up with fear in her eyes. “We need to get out of the open!” Burning stamina, the party raced along the verdant groundcover, heading for tree line ahead. Seventy feet to go. Twenty. He entered the grove and plunged into the shadows, desperate to conceal his presence in time.
+
+As soon as he made it, Nick darted below a trunk and looked back the way he had come, only to realize that Shaun was lagging behind the rest of the team.
+
+The red-haired archer still had another fifty feet to go, and the airship, one of the small two-man versions, would be on top of them within a matter of seconds. Nick pulled out his spyglass to see if the crew had spotted his team, relieved to discover the men didn’t seem to be looking their way… yet.
+
+Still, it was going to be a photo finish. The pirates would be on top of them within a handful of heartbeats, and Shaun still had to cross the final stretch of open ground. He sprinted as fast as he could, the difference in their levels really showing itself in that moment, leaping below the canopy just as the ship rounded a floating island and flew over their heads.
+
+Everyone went still and remained as quiet as they could. For a few nervous seconds, Nick thought it was too late. That they’d been spotted by hostile forces mere minutes after arriving on the floor.
+
+But then the ship kept on going, sweeping back and forth across the region like they were still on the hunt. “They haven’t found us yet.” He let out a long sigh of relief. “I think that one was scouting the islands instead of surveying the ground. That was way too fucking close. Let’s read our updates, so that we know what we’re dealing with.”
+
+When he pulled up his menus and checked out the message from the System, Nick understood what had clued Veronica in. The notice contained details that hadn’t been available from the display mounted to the last staircase.
+
+Welcome to the second floor of your climb. The name of this floor is: Sky-Pirates’ Lair.
+
+Floor rules:
+
+Warning: Leaving the floor through the side entrance will result in failing the quest.
+
+“Shit,” Devin said after reading the last word. “At least the System didn’t separate us this time. How much do you want to bet that the stairs are going to be somewhere waaaay up there, and not anywhere down here.”
+
+“Nothing,” V let loose a throaty chuckle. “I’m sure that they’re either all the way at the top or in some equally inconvenient place. Remember, there should be more than one set of stairs, and some of the details of the connecting floor are posted on them. I expect that one will be significantly more visible than the others, given the game-like setup for this quest. If the first exit we find seems like a bad match, we might be able to discover another option.”
+
+“I wonder if we will be able to steal a ship,” Sophia mused. “It seems like our only choice if we want to reach the flying islands. Let’s hope that one is docked somewhere on the ground. Otherwise, we’re going to have to lure some pirates into landing, and that will be difficult without revealing our presence in the process.”
+
+It was at this point that Shaun asked the question that must have been on everyone’s mind. “Does that mean we’re going to have to kill other people? I’ve never killed anyone before, or even gotten into a fight. I’m honestly not sure that I have it in me.”
+
+Veronica sighed and then answered. “Let’s hope that it doesn’t come to that. But it seems more likely than not at this point. Start steeling your resolve now, so you’re ready when the time comes. If the pirates are willing to kill us, we must be prepared to do the same. Hesitation is death in a serious fight. If it comes down to us or them, then I’ll choose us and have no regrets.”
+
+Nick had known that this day would come, although he’d been hoping that it was still far off. He had learned from his earlier adventures that many of the inhabitants of the Labyrinth were humanoid and hostile. Ruthless and more than happy to slaughter for profit or pleasure.
+
+Some part of him had always understood that he needed to be willing to kill more than mutants and beasts if he wanted to protect the people he loved. Perhaps one day even other humans from Earth. He wasn’t looking forward to what was coming, but he found that he was ready. He just hoped that his team was ready too.
+
+Of more immediate concern, dealing with other people meant that he would have to adjust his strategies and tactics. Take into account an enemy that could reason, deceive, and anticipate his next move. Given all that, it was critical that his team remained hidden until they were able to gather more information. Learn more about the nature of their opponents before revealing their presence, especially while they were trapped on the ground.
+
+If the pirates discovered them now, they would hunt the party relentlessly from the sky. Swarm Team Earth and surround them, offering no hope of escape and no means of retaliation. Until Nick’s party could steal a ship, they had to remain hidden and leave no clues as to their whereabouts.
+
+Even after they took to the sky, their odds of survival would be poor if the floor’s residents became aware of their location. Especially the roaming bosses, who were certain to be significantly more dangerous than anything else on the level. The roach queen and the Janitor had been bad enough—he had no desire to fight something of comparable strength with human intelligence.
+
+We need to find somewhere to hole up before scouting out our options. It means that the first phase of completing this floor will be stealth exploration rather than open warfare. We can’t do anything that will draw attention to ourselves in the meantime, especially during the day.
+
+Keeping one eye on the sky, the team put their heads together to confer. Nick shared what he’d been thinking and listened to what everyone else had to say. But they didn’t have time for a lengthy strategy session, a truth that Sophia summed up with her next words.
+
+“We can’t stay here for long. The cover isn’t thick enough. If one of those ships flies down to take a closer pass, they are probably going to spot us, especially if they have any powers that boost their perception. The longer that the hunt goes on, the more they will narrow down our probable location unless we keep moving. The pirates aren’t our only enemy, time is our opponent too.”
+
+“And that’s assuming they don’t have any skills or spells that can detect our presence from a distance.” Nick sighed. “You’re right. We need to find somewhere to lay low until we can obtain our bearings and plan out our next move. If we stay down here longer than the next day or two, this is going to end badly for us. We need to find a ship as soon as possible, so that we’re not stuck on the ground and can find a better place to hide…”
+
+Nick was cut off mid-sentence as three shadowy figures came streaking out of the nearby brush, surging for him, Devin, and Veronica in a flash of green scales. He looked up in time to spot two sets of razored claws darting straight for his throat, a heartbeat away from landing a killing blow.
+
+He threw himself into motion, relying on his reflexes to save his life. As bad as things already were, it seemed that their situation had just become a whole lot more complicated.

@@ -1,0 +1,103 @@
+---
+id: 91f4d62f-8553-5f84-a5b1-6f0a09276a20
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Mysteries Revealed"
+slug: 0033-chapter-7-mysteries-revealed
+partOf: labyrinth-of-the-mad-god
+position: 33
+ownLength: 1551
+unit: words
+publishedAt: 2024-08-02
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1742279/chapter-7-mysteries-revealed"
+royalRoadId: "1742279"
+---
+
+The last item on Nick’s checklist before he started getting ready to enter the tower was to check out the new knowledge point unlocks Kerry had added to his journal. Information that would undoubtedly prove useful during the trial to come.
+
+He sat down on the bed and flipped it open, reading through the loose sheets she’d stuck between the pages. The first entry was fascinating, and he hummed to himself as he took it all in.
+
+Species Grade
+
+All integrated species (contestants and beasts alike) are graded on a scale from F to A, beyond which lies the realm of divinity.
+
+Species grade determines an individual’s baseline attribute cap. For example, an E-grade species has an upper limit of 10, while a D-grade species has a cap of 25. After evolving to a higher grade, it becomes easier to train baseline attributes once more, following the same progression as before (it requires considerably less effort to raise deficient attributes via conditioning than ones that are near the cap).
+
+Additionally, species grade influences the durability and performance of internal organs and the strength of the physical senses. It also determines the capacity of a species’ geneline and an individual’s bloodline.
+
+When a species accumulates sufficient transformative energy, generally referred to as species experience, it triggers a species-wide evolution to the next grade, offering a wide range of benefits. Novel attributes may be acquired during species evolution, as well as new geneline traits. Existing geneline traits can also be enhanced.
+
+On occasion, an individual may evolve before the rest of their species, if their personal species experience contribution is unusually high.
+
+In such cases, the individual will benefit from the improvements to their baseline attributes and bloodline capacity. However, they will not receive upgrades to their geneline or acquire novel attributes until the entire species evolves and votes between the available options (based on their collective performance).
+
+Species experience can be acquired by achieving species milestones, overcoming rare and difficult challenges, and by completing species-wide quests issued by the System.
+
+Holy shit. I had no idea that we could keep on evolving. Those benefits sound amazing. I need to do everything in my power to make sure that it happens as quickly as possible. Nick couldn’t even begin to image what a windfall it would be if humanity could move up to the D-grade before they were forced to contend with the next challenge that the Mad God threw their way.
+
+If his species had the chance to evolve, it would greatly increase their odds of surviving in the multiverse, let alone the depths of the Labyrinth. In retrospect, it made the species exp points granted by this quest seem vitally important, rather than a garnish on the main reward.
+
+He copied the information into his journal, freeing up the sheet of paper for other uses, thrilled by what he’d learned. The first new entry had already proven to be invaluable. Nick was immensely glad that he’d loaned his book to Kerry as he kept on reading.
+
+The next sheet held the details of bloodlines, a topic that he had already unlocked. But when he took a closer look, he noticed that there were some differences with the wording and a few details that he hadn't seen before.
+
+Bloodlines
+
+Bloodlines represent an individual’s capacity to permanently bind class traits to their lineage, so that they will not be lost when selecting a new class.
+
+Binding desirable bloodline traits is a key component in guiding development along a chosen path of power and should never be undertaken lightly. The capacity of a bloodline is determined by species grade (and rare geneline traits).
+
+Bloodline traits are bound to individuals and their descendants, but they may be transferred or stolen in rare cases involving extraordinary means. Being granted the option to make a class trait a permanent part of a bloodline is a common reward for completing difficult quests.
+
+Additionally, some class traits include mandatory trait permanence, automatically becoming part of a bloodline once acquired. Selecting classes with trait permanence can be a powerful tool for rapid advancement.
+
+However, this approach can lock the individual out of other options later on, both by influencing the choices offered during class selection and by rendering certain classes unavailable once all bloodline slots have been filled.
+
+Finally, bloodline traits can be enhanced, strengthening their effect without requiring additional space in the bloodline. The means for enhancing bloodline traits are few and far between, requiring expensive and highly sought after resources, or as rewards for exemplary performance on the most arduous of quests assigned by the System.
+
+Much of this information was in line with Nick’s predictions based on his experiences so far. But there was some new information that was fascinating to contemplate.
+
+He only had one more bloodline slot available until he evolved his species grade. Nick would have to ponder any opportunity to add another long and hard before committing to a course. The implication that bloodline traits could be stolen was a worrying proposition, and he intended to learn more about that threat whenever he could.
+
+The next entry was on genelines.
+
+Genelines
+
+Genelines are comparable to bloodlines in many respects.
+
+Instead of granting individual traits, geneline traits are shared by all members of a species. As a result, geneline traits are generally hereditary. Exceptions to this rule do exist, such as the Gift of Tongues trait provided to all newly integrated species.
+
+When a species evolves to a higher grade, they are presented with a list of options (based on their collective performance) for strengthening their geneline by acquiring a new trait or enhancing an existing one. Every member of a species can vote on which traits they wish to acquire.
+
+Individuals who contribute an extreme amount of species experience will be given the opportunity to evolve early. In such cases, they will not receive these upgrades to their geneline traits until their entire species evolves.
+
+That’s the second mention of being able to evolve early. It’s something that I should aim for if I get the chance. Except for the part on voting and unique traits, most of this was in line with what Nick had been expecting. He pulled out the notes on bloodlines to compare the differences side by side before moving on.
+
+The last sheet Kerry had added was on classes, one of the unlocks that Nick had almost bought with his knowledge points back when he had the chance. He was thrilled to see it included, since he really wanted to learn more about classes before he hit level twenty-five and became eligible to change his again.
+
+Classes
+
+Every member of the System is eligible to advance along distinct developmental pathways known as classes. There are millions of classes that have already been discovered, and many more that have yet to be revealed.
+
+Each class offers unique advantages and drawbacks. Selecting the best class for an individual’s environment and needs is a critical component to their long-term survival and growth.
+
+All members of the System are granted the child class at birth, a neutral pathway designed to facilitate growth without guiding them in a predetermined direction.
+
+New classes are chosen at puberty and every 25 levels thereafter (a period of advancement commonly called a cycle). If this option is declined for any reason, it will be offered again every 5 levels until a new class is selected.
+
+The number of classes offered (and their rarity) is determined by the System’s evaluation of an individual’s performance during the last cycle. They are influenced by their achievements, choices, preferences, the growth of their skills, and which upgrades they select for their abilities once the AMS is activated at level 15.
+
+Additionally, each class provides a unique class trait. Since classes determine the path of attribute development, they are often chosen to guide the overall distribution of attributes in addition to other considerations.
+
+Each class is assigned a rarity. The rarity of a class influences: the growth of attributes on leveling, the number of skills provided and the upper limit they can reach, and the relative power of the abilities provided.
+
+While rare classes are generally more powerful (featuring potent traits and abilities), they take longer to level and may not be ideal in certain situations.
+
+Reasons to choose a lower rarity class include: to rapidly increase an individual’s baseline mana, stamina, and health, to fulfill prerequisites required for desired classes, rapid leveling for tier advancement, shoring up underdeveloped areas, and to learn specific skills, traits, or abilities.
+
+Certain powerful classes can only be acquired by following a chain, starting from common or even basic classes in some cases.
+
+Be warned, individuals who chose the easiest classes to level have an advantage early on, but often arrive at a bottleneck when attempting to reach the next tier. It requires intensive training and dangerous opportunities to push past such a bottleneck.
+
+As such, it is generally advisable take a common or basic class only for the first few cycles, then move on to a higher rarity beyond that point.
+
+Ok, that was a ton of useful information. Nick let out a sigh of relief. It looks like starting with a basic class didn’t fuck up my development. One less thing to worry about.

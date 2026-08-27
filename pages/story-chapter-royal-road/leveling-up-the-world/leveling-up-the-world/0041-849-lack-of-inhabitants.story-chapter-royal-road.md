@@ -1,0 +1,237 @@
+---
+id: 46804b16-34e6-5c53-a046-3929d48c0456
+page-type-slug: story-chapter-royal-road
+title: "849. Lack of Inhabitants"
+slug: 0041-849-lack-of-inhabitants
+partOf: leveling-up-the-world
+position: 41
+ownLength: 2025
+unit: words
+ownProgress: 2025
+publishedAt: 2023-12-21
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1449809/849-lack-of-inhabitants"
+royalRoadId: "1449809"
+markedReadAt: "2026-06-29T22:41:35.167Z"
+---
+
+The caravan dropped Dallion off at the start of the forest. The trees started up a lot smaller, though the hundred-foot variety was visible further away. A few brief goodbyes were said, including by a slightly embarrassed Diroh. The fury wasn’t fully clear what had happened. From her perspective, it seemed like she’d gone on a flight, as she often did, and ended up falling asleep at a random merchant caravan.
+
+“Skye would have jumped in if something had happened,” she said, guilt and defensiveness emanating from her.
+
+“It’s fine,” Dallion said. He knew that against the Order, she never stood a chance.
+
+“You don’t have to be like that. I can take care of myself. I’ve been taking care of myself long before you showed up. Before even Ji showed up!”
+
+Dallion looked at her. He could see exactly where this was going. The emotions bubbling within her were all too visible, and yet he could do nothing about it. A few sentences and she would be able to realize the big picture of it all. Everything would become clear with no possibility of misunderstanding. Yet, if she were to learn, so would others, possibly even the emperor.
+
+“I know, Di. I’m just worried this might be a dangerous time for you,” Dallion used music skills to add some calm into his words. “A few want to go against me in any way they can, and now that I’m out of the capital, they’ll try to hurt you just to make a point.”
+
+At those words, Diroh’s pearl necklace expanded, transforming into a cloud fox around her shoulders. The familiar—come from the world of furies—had established a deep bond with Di and was ready to sink its teeth and claws into anyone who’d be considered a threat. Sadly, it had proven helpless against the Order’s copyettes.
+
+“Things will change soon,” Dallion lied, forcing a smile. “We’re at a new beginning.”
+
+The trip through the forest was almost non-eventful. Subtly combining music and magic, Dallion sent out waves of fear all around him, discouraging any wilderness predators from attacking. In doing so, he also took the opportunity to check if anyone was trailing them.
+
+Diroh used a few spells to do something of the sort, although she was still quite limited. The knowledge and artifacts obtained at the Academy had allowed her to be a rather good magic apprentice, but she was still far from the title of mage.
+
+Evening approached. Once the sun fell beneath the horizon, Dallion summoned his aura sword and swung it through the air. A series of spell circles formed.
+
+“I can fly on my own, you know,” Diroh said, crossing her arms.
+
+“You’ll have to.” The spells triggered, all targeting Dallion. “They’re for me, so I could keep up.”
+
+For the first time that day, the fury smiled.
+
+A small sphere of cyan formed, rising into the sky.
+
+“I don’t know that spell.” Diroh looked at it, trying to discern the magic within.
+
+“Guiding light. It’ll lead us to where we need to go.”
+
+Moments later, both of them rose up into the sky, flying after the ball of light. Even with all the spells he’d cast on himself, Dallion remained slower than the fury. It almost made him envious of the ease with which she followed the guiding light, often looking over her shoulder to check how far he was behind her.
+
+Cheeky as always, Dallion thought.
+
+You can’t blame her, Vihrogon said. It’s one of the areas in which she’s better than you.
+
+Not enough to look out for herself.
+
+Were you when you were level forty?
+
+The question was valid. At the time, Dallion constantly complained that people kept underestimating him. After everything he’d achieved, he was convinced he had what it took to fend for himself. Why would Di be any different?
+
+Maybe, he thought.
+
+The flight continued till morning. The lack of domains became more and more apparent, as did the presence of powerful wilderness creatures. For Moons know how long they had been there, without contact with any awakened. It was notable that the dragon had also had its lair here, before Katka had killed it, turning it into a shadow.
+
+Dallion cast a spell, causing the guide light to disappear.
+
+“What’s up?” Icicles formed around the fury as she got ready for combat.
+
+“Nothing.” Dallion played it down. “We’re already there.”
+
+“Where?”
+
+“Just beyond the forest.
+
+The “just beyond” ended up being another twenty minutes of flight. Eventually, the massive trees gave way to a normal forest, which then slowly turned into a plain. There was a river nearby, just as the copyette had claimed, as well as a distant mountain chain.
+
+I’d have preferred a bit less isolated, Adzorg commented. But I suspect this place has its advantages.
+
+“Down there.” Dallion pointed as he flew down.
+
+His first instinct was to create the domain right next to the river. After some consideration, though, he chose to position it up to a mile away. If things went as they should, the settlement would reach the river soon enough.
+
+REALM CREATION
+
+A green rectangle emerged, followed by a blue one.
+
+Name the Land you wish to create.
+
+“Sandstorm,” Dallion said. This time the name was for keeps. In all honesty, he hadn’t given the matter too much thought. Sandstorm sounded well enough, plus it continued the inside joke.
+
+You have created the Land of Sandstorm – Level 1.
+
+You have full control of the Land of Sandstorm.
+
+The glass colossus has returned as the land’s guardian.
+
+Defeat the guardian to change the land’s destiny.
+
+“You’re back?” Dallion asked, surprised. The last time he’d seen this particular guardian was when he’d created his first domain back during the battle in the vortex fields. Back then, Dallion only used the domain as the means to an end. For some reason, though, the area guardian that had appeared had remained linked to him.
+
+“Thought you’re an owner worth having,” the colossus replied.
+
+While the white rectangle described him as being level one—same as the domain itself—Dallion could see that his traits were boosted. In fact, they had retained the exact values as they’d been after the leveling ups.
+
+“Thanks, and sorry about last time.” Dallion waved through the blue rectangle, causing it to disappear. “Ready for a few more rounds?”
+
+COMBAT INITIATED
+
+Not even using a weapon, Dallion charged forward, landing a punch in the colossus’ chest.
+
+TERMINAL STRIKE
+
+Dealt damage is increased by 1000%
+
+SANDSTORM Level increased
+
+The VILLAGE has been improved to Level 2.
+
+It was easy to claim that the guardian hadn’t improved much, but that wouldn’t take into account the eleven levels Dallion had leveled up since then, not to mention that nearly all of his skills had reached the hundred level cap.
+
+The colossus shattered, then re-emerged, stronger than before.
+
+COMBAT INITIATED
+
+The rectangle emerged, though this time it wasn’t Dallion who had initiated it.
+
+“Eager, aren’t you?” he smiled.
+
+Granting the area guardian for his initiative, Dallion waited.
+
+Rows of glass shards emerged, surrounding the entity, then flew all in Dallion’s direction. Each of them was accompanied by a long green cone indicating the path they’d take, including the spot they were aiming for.
+
+Dallion could have easily completed several guard sequences, as he evaded them, but he chose not to. It was bad enough for his opponent that the speed of the ranged projectiles felt like pebbles sinking through honey. Dallion didn’t even bother to deflect them, merely walking forward, as if immune, until he stood a step away from the colossus.
+
+TERMINAL STRIKE
+
+Dealt damage is increased by 1000%
+
+SANDSTORM Level increased
+
+The VILLAGE has been improved to Level 3.
+
+“Wow,” Diroh whispered. “I could even see that.”
+
+Being both in the real world and his domain, she could see everything short of the rectangles. The full strength of a noble was on display.
+
+Was I like that in front of the archduke? Dallion asked, glancing at her.
+
+The greater the level, the greater the difference between gates, Vihrogon said. Domains are yours to control, which no non-awakened could even imagine.
+
+Dallion feared to think what the jump beyond the next level would be.
+
+COMBAT INITIATED
+
+The red rectangle appeared, reminding him that the fight hadn’t ended.
+
+Choosing to avoid ranged damage, the colossus went back to melee, its limbs transforming into sharpened blades.
+
+Without thinking, Dallion punched the air in its direction, performing a point attack. The strength of the attack split the air, yet surprisingly was avoided.
+
+CRITICAL STRIKE
+
+Dealt damage is increased by 200%
+
+The guardian’s left arm shattered as it was torn off.
+
+ARM SEVERED
+
+Enemy will no longer be able to make use of its LEFT ARM
+
+“Good reflexes.” Dallion followed up with three more line attacks. This time, they hit their target long before the colossus got anywhere close.
+
+TERMINAL STRIKE
+
+Dealt damage is increased by 1000%
+
+SANDSTORM Level increased
+
+The VILLAGE has been improved to Level 4.
+
+Level four. By this point, the area of the domain had stretched beyond the river. If Dallion wanted, he could create a town larger than his home village. Of course, it would be a very empty town. At the moment, his domain had one potential citizen and no structures whatsoever.
+
+COMBAT INITIATED
+
+A new red rectangle emerged.
+
+“I think we should stop here,” Dallion said.
+
+From what he remembered, the first five levels of settlement corresponded to a village. After that, it would become a town.
+
+Shards of glass flew by Dallion’s face, while the colossus followed up with a combined acrobatics attack. The motion was fluid and precise. In normal circumstances, even mid-level awakened would have trouble against such an opponent. Dallion, though, could see all the attacks before they happened. Before any awakened markers formed, he knew the reach, speed and trajectory of all attacks in his mind. He also knew the best way to counter.
+
+TERMINAL STRIKE
+
+Dealt damage is increased by 1000%
+
+The torso of the colossus cracked up again, then crumbled to pieces. Only this time, a new rectangle emerged.
+
+SANDSTORM Level not increased due to lack of inhabitants
+
+4000 inhabitants required for SANDSTORM to improve further
+
+The VILLAGE remains Level 4
+
+The area guardian reappeared again, though this time there were no changes
+
+“Was wondering when that would happen,” Dallion said. “Let’s stop it here for now,” he told the colossus. “I promise we’ll continue soon enough.”
+
+The guardian nodded, then disappeared into the ground.
+
+“Well,” Dallion turned to Diroh. “What do you think?”
+
+“You have a whole lot of nothing,” she said unapologetically. “A lot of very nice nothing.”
+
+“A lot of nice nothing,” Dallion let out a chuckle. “We’ll have to do some building.”
+
+Slabs of stone emerged from the ground, creating a wall on the edge of his domain. Ten feet tall, it was enough to stop a few beasts, but couldn’t be considered protection against any real opponents.
+
+“What’s that supposed to be?” The fury narrowed her eyes.
+
+“Just marking the border. We’ll sleep in the open tonight. Tomorrow, we start building.”
+
+“How about building at least one house tonight? Vih can do it easily, and if not him, I—”
+
+“Some fresh air will do you good,” Dallion interrupted.
+
+In truth, he wanted to think a bit before committing to anything. Forging a domain was a lot different than shaping his personal realm; and while he had the option to destroy everything and restart from scratch, he preferred to save some time by spending a while thinking about it first.
+
+“Seriously?” The fury extended her air currents, using them to form the symbols of a fourt-circle spell. Shards of ice emerged from the ground. They were a lot smaller and slower than the wall Dallion had created, but still combined to form a simple and very pyramidal ice structure. “There,” Diroh said. “No need to thank me.”
+
+“You’ve learned a few new spells as well,” Dallion admitted. “Go ahead. I still prefer to sleep in the open, though.”
+
+“What’s so special in the open?”
+
+“There are many Moons tonight,” he said into the sky.

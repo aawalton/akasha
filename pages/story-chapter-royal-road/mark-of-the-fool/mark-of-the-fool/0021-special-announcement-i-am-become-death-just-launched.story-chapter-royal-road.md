@@ -1,0 +1,17 @@
+---
+id: 98ab3c87-337e-5ac9-a693-fa92f9e79d88
+page-type-slug: story-chapter-royal-road
+title: "Special Announcement: I Am Become Death just Launched!"
+slug: 0021-special-announcement-i-am-become-death-just-launched
+partOf: mark-of-the-fool
+position: 21
+ownLength: 308
+unit: words
+publishedAt: 2025-03-20
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2139414/special-announcement-i-am-become-death-just-launched"
+royalRoadId: "2139414"
+---
+
+Hello everyone, well, it's been a long time coming hasn't it? So when I ended Fool last year, I said I would return with another story called I Am Become Death. I expected to publish it in October.Then, I got sick.As you've seen in another note, I developed vertigo and strange nerve symptoms in September which slowed me way down. There's been scans, different doctors and everything and as of today, I am on the road to healing (vestibular physio has been helping a LOT). I thank you all for sticking by my side all this time, through delay after delay.Seriously I appreciate it.Well today, I'm here to tell you that the wait is over. If it's been too long a wait for folks and you've decided to go in a different direction, I fully understand. To the rest? I thank you so deeply for your patience.I Am Become Death has launched on royal road:https://www.royalroad.com/fiction/109537/i-am-become-death-a-progression-fantasyThis tale has been pilfered from Royal Road. If found on Amazon, kindly file a report.You can see the synopsis through the link. Or right here:Nothing will ever change. Unless he changes it. Matthias Stonebreaker is tormented every day.He has no talent for The Gift of magic or the Enforcement of life energy, and will one day be forced over the frontier, where ferocious monsters destroy all those who can't defend themselves.And he certainly can't, until a near-death experience awakens a new path to power. The path of Divine Breath.Now he must learn how to cultivate the very energy of the gods to steal their divine strength.Supported by his cursed brother and younger sister, he will walk the path of shadow and death itself.But he must be careful, for in this world......even death could die.
+
+If you think you'd like that, here's the link again: https://www.royalroad.com/fiction/109537/i-am-become-death-a-progression-fantasyEnjoy, folks! And once again, thank you for waiting.

@@ -1,0 +1,69 @@
+---
+id: 9d27d4f4-3792-592c-8c19-5fbb45636659
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75: Bared Blades by Midnight"
+slug: 0116-chapter-75-bared-blades-by-midnight
+partOf: labyrinth-of-the-mad-god
+position: 116
+ownLength: 1373
+unit: words
+publishedAt: 2025-01-08
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1999403/chapter-75-bared-blades-by-midnight"
+royalRoadId: "1999403"
+---
+
+Nick was happy to compensate Kiki for her time. He just hoped that she would be willing to help him in exchange for something that he already had in his pack.
+
+“Ok. I get it. Let me show you what I have to offer and then you can tell me what you want.” They walked over to a nearby table, then Nick opened the flap of his magic backpack and started pulling out objects from inside.
+
+Over his time living on the Searing Isle, crossing Blackmist Bog, and exploring the basement of the Tower of Rizzen, he had picked up a wide variety of items. From natural resources that might be valuable, to bits of busted magical equipment and pieces he had torn free from especially powerful opponents.
+
+He left a few items out, those he suspected might be best for crafting, but there was still a considerable pile spilling out over the tabletop by the time that he was done. It was the first time in quite a while that Nick had viewed his entire stash outside of his pack. It filled him with pride to see the tangible results of his efforts, many of which had come at considerable risk to his life.
+
+Kiki seemed impressed too. At least in the sense that she took her time, considering and evaluating a half dozen offerings before deciding what she wanted. In the end, she picked up a blue gem the length of Nick’s thumb, which he had found on one of the ratmen in the Sewers of Kastilla.
+
+He already knew that it wasn’t an ability stone or anything of that nature, since it didn’t have any System writing on the exterior, and it wasn’t something that he had any plans or use for right now.
+
+The doll held up the gem and then gestured to Nick, asking if it would be alright. “I’m willing to let you have it,” he answered. “But that’s for training with me for the duration of my stay, not just tonight. Deal?”
+
+Kiki hesitated, then added one small fragment of the stones he’d picked up inside the mine below the bog. The teal mineral that had contained the glowing metal ore he had found in the mining machine. Since he still had several larger pieces, he decided that he could let that one go, and accepted her counteroffer.
+
+“Alright, It’s a deal. You can have the stone and the gem if you help me out for an hour or two each night. Just try not to kill me in the process.” He had the impression that Kiki was laughing as she walked into her private area to put away her acquisitions. Then she led him over to the open part of the enclosure, picked up her sword, and waited for him to get ready.
+
+“Thank you.” Nick strapped his shield onto his arm, slid his wand into its belt loop, and then stepped into the ring.
+
+Thus began his nightly training sessions. In addition to refining his bladework and integrating the lessons Rita had taught him, Nick had several goals that he wanted to accomplish before his month on this world came to an end.
+
+He hoped to improve his evasion, wand, and light shield skills, in addition to pushing his sword skill as high as he possibly could. Nick also wanted to learn how to use stamina at the right time to add versatility and power to his style. He needed to improve his ability to sense external mana and killing intent, which had happened a few times before, but wasn’t anywhere close to reliable yet.
+
+Additionally, he wanted to obtain a better grasp of the strengths and weaknesses of his self-taught combat style. To uncover holes in his defense that a skilled weapon wielder could exploit. He also planned to experiment, trying out new combos and fighting styles while sparring with Kiki. A situation where his mistakes would be painfully obvious, and he could learn at a rapid rate.
+
+By the end of their first session, Nick was covered in sweat and bleeding in a half dozen places. But he had managed to score a few points as well, largely thanks to his wand. The doll had a hard time countering the force-flinging device early on, although she adapted quickly to his technique. The first few shots sent her flying, but then she started ducking down low, riding out the blast like she was diving beneath a wave on the ocean or bracing herself against a hurricane gale.
+
+When it was over, he opened his menus to check out his gains.
+
+Through use, you have improved the following skills:
+
+Sword has increased from [16] to [18].
+
+Evasion has increased from [14] to [15].
+
+Unlike training with Rita, the sapient construct was under no restrictions from the System regarding how they could interact. While Nick was unwilling to use mana dart or piercing ray during their duels, lest he inflict lasting damage, he was able to use his shield, wand, and force acceleration to their fullest during their matches, even if his control with the last still left a lot to be desired.
+
+Sometimes he dueled with his pack on, to simulate how he tended to fight naturally. Other times he took it off, so that he could see what his body was capable of under ideal conditions. He soon learned that Kiki was an excellent sparring partner. She was always willing to give it her all, and happy to mercilessly exploit any weakness he presented, just like an enemy who was trying to kill him.
+
+While the doll had far more combat experience and her attributes were superior by several points, Nick was a quick learner and his performance improved by the day.
+
+The morning after his first nighttime training session with Kiki, Rita pretended that nothing had happened, although it was obvious that she knew exactly what was going on. Now that she had accepted him as her apprentice, their days fell into a regular routine. Nick pushed himself as hard as he could, eager to make the most out of every second they had together.
+
+His master continued to instruct him in his katas in the morning, adding the second and third forms to the first as the days rolled by.
+
+The second form was designed for fighting multiple opponents. It focused on breaking apart their teamwork before he was overwhelmed, then launching an attack once an opening had been created. It involved a great deal of circling and feinting to prevent his enemies from surrounding him, and it was excellent training for improving the speed and precision of his footwork.
+
+The third kata in the School of the Ever-Surging Blade was built for facing beasts that were quite a bit bigger than himself. It came more naturally to Nick than the other forms, since most of the enemies he had fought with his sword up to this point had been beasts. It was centered around dodging blows that were too forceful to block or parry, then targeting a beast’s vital points as its momentum carried the creature past his position.
+
+In the afternoons, Rita strapped Nick into the infernal machine, back to an endless cycle of hum and shock. He soon progressed to the third and final stage, where the machine would place a glowing target in the air somewhere along the circle. Maintaining his stance the entire time, he would have to turn and strike in a single motion.
+
+If he was too slow, or off target by more than an inch, he would get zapped again. He had learned to think of the shocks as an enemy’s blade slicing into his flesh. Every zap represented a killing blow that would end his life in a real battle. He eventually realized that was exactly what the machine was designed to do.
+
+Since the device was teaching him how not to die, Nick began to welcome the shocks. Better that he received a bit of momentary pain now, than wind up with a weapon buried in his guts. While he wasn’t a fan of the agonizing sensation, he found that he agreed with Rita’s sentiment. Pain really is the best teacher.

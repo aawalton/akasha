@@ -1,0 +1,217 @@
+---
+id: 42e48388-321a-5497-88d6-b49d9376504f
+page-type-slug: story-chapter-royal-road
+title: "119 — Book 3, Chapter 18 — To the Void"
+slug: 0122-119-book-3-chapter-18-to-the-void
+partOf: just-add-mana
+position: 122
+ownLength: 3265
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3243440/119-book-3-chapter-18-to-the-void"
+royalRoadId: "3243440"
+---
+
+Cale didn't actually bother leading them very far—the ruined section of the library was large enough that they could just duck behind the collapsed remnant of a bookshelf and have some relative privacy, although Leo gave him an odd look for it.
+
+"I thought we were going to go somewhere else," he said.
+
+Cale shrugged. "Spatial anomalies like the one we're in are a pretty good defense against scrying spells, and I don't exactly trust my own magic right now."
+
+Leo's expression did something complicated at that, but he didn't comment, which Cale appreciated. "Why did we even leave, then?"
+
+"It's impolite to look at an aberration while they're casting an escape spell," Cale explained, nodding sagely. "Private business, that."
+
+Leo stared at him. "Really?"
+
+"No idea," Cale said cheerfully. "It sounded good, though, didn't it?"
+
+"I hate you sometimes."
+
+"And I..." Cale trailed off, thinking carefully about what he was going to say next. "...am very proud of you."
+
+Leo stumbled mid-step, swore to himself, then narrowed his eyes like he was waiting for some kind of punchline. When Cale didn't respond with the most earnest, innocent look he could muster, Leo blinked, looking suddenly uncertain. "I—" he started, then stopped. "Thank you? I think?"
+
+It occurred to Cale, in retrospect, that it was possible he didn't praise his apprentices enough. Or that perhaps they'd been assuming he was joking when he did? He did turn a lot of things into jokes, but he often meant his praise whenever he offered it.
+
+It was just that the things he considered important enough to praise were usually different from what other mages considered important. Which wasn't his fault, really; he just had different priorities. Living long enough tended to do that to you.
+
+He could admit that it had been centuries since he'd taken real responsibility for other people, though. He was probably a little rusty in that department.
+
+"I mean it," Cale said. "I might not say it often enough, but you all make me proud. Besides, you figured out palewater on your own in the middle of a fight! That's the mark of a true mage."
+
+"You say everything is the mark of a true mage. Two weeks ago someone blew up our classroom and you said that was the mark of a true mage." Leo placed a hand on Cale's forehead. "Are you sure you're feeling alright? We can head back if you need to rest."
+
+"I'm fine," Cale said, batting Leo's hand away. It was just important that he establish this, that was all! "And it is a mark of a true mage," he added. "Do you know how often mages blow things up? It's practically more mana-efficient to buy blast-proof robes over general defensive ones."
+
+Leo frowned. "That can't be true."
+
+"I'm pretty sure it actually is." Cale was briefly distracted by the thought as he tried to remember the specifics. He was almost certain he'd been part of some kind of study on the matter at one point, but for some reason their discovery hadn't led to a widespread change in magical fashion. Something about how it would only encourage mages to blow themselves up, under the assumption that they'd be immune to it?
+
+Eh, he would remember eventually. It wasn't important at the moment. What was important at the moment was having that conversation with Leo about Asterion.
+
+Which he was putting off, because that conversation would necessitate taking things more seriously and potentially revealing yet another danger on the horizon.
+
+Cale took a moment to congratulate himself for acknowledging this. Clearly, his time on Utelia was doing him a lot of good.
+
+"I don't know why you're standing there looking smug, but it's making me uncomfortable," Leo said, eyeing him with what was, in Cale's opinion, an unjustified level of suspicion.
+
+"I'm just taking a moment to congratulate myself for all the emotional progress I'm making," Cale said brightly. "In any case, we should probably get to talking about what happened back there. You called on Asterion, I take it?"
+
+Leo stared at him for a moment, then nodded slowly. "I did," he said. "One of my spells when I tried to use palewater to cast it, and then the Gift merged it with a different one. Then I got a new spell out of that called [Asterion's Gaze], which said something about Asterion owing me a Favor..."
+
+Cale listened quietly as Leo explained the details of this new spell, including what it felt like to cast for the first time, the way it linked itself with his mind, and how different its baseline effects were from when Asterion had gotten involved.
+
+Then, with a bit more prompting, Leo explained what he'd sensed when Asterion had first appeared. He went over the way the Labyrinth's presence had manifested, pressing down on them, and with a bit more apprehension explained how it seemed to absorb a part of the aberration's sacrificial spell into itself.
+
+By the time he was done, Cale's expression had sobered into something troubled. This was about as bad as he'd been worried it might be. For one thing, nothing in the spell description accounted for what he'd felt within the Labyrinth. If it had, that might have made things easier—at least then the solution was as simple as telling Leo not to use the spell anymore.
+
+But this meant what he felt wasn't so much a part of the spell as it was part of the Labyrinth itself, and that, in turn, meant that there were greater troubles ahead.
+
+Though that wasn't anything new for them, at this point. As if recognizing his expression, Leo let out a resigned sort of sigh, leaning back against the remains of the shelf before speaking. "This is going to be a problem, isn't it?"
+
+"Just a bit," Cale admitted dryly. "We'll put it on the pile with the rest."
+
+"Can we actually do that?"
+
+"Nope," Cale said with a snort. "How much do you know about mythological places?"
+
+"Not much," Leo admitted. "I didn't even know they were a thing. Or I mean, I did, but they're only ever mentioned as existing when the Named are called into being, and usually with a lot of warnings about not trying to explore them."
+
+"There's a good reason for that," Cale said. He sat back, considering how to best explain this. "Have you heard of the Nothing?"
+
+Leo stared blankly at him.
+
+"I'll take that as a no, then," Cale said dryly. He hesitated for a moment, then began to draw something out in the ash between them, wincing a bit at himself as he did. It felt a little too much like sacrilege, but he didn't entirely trust himself to make a model out of mana, at the moment.
+
+"It's a theoretical place that doesn't actually exist, for the most part," he explained. He drew a circle, then a network of smaller circles within it. "Most cosmological models define our current cosmology with the Abyss at the center, containing all the Great Realms."
+
+"Right," Leo said. He took out a notebook and began studiously copying down everything Cale was drawing.
+
+"At the edges of the Abyss, outside the Leviathan's influence, we have the Outer Planes," Cale continued. He drew a fractured network of lines outside the circle that represented the Abyss, marking each segment as an individual Outer Plane. Then he squinted at the diagram and began circling the Abyss itself again. "Layered on top of the Abyss, you have your various elemental planes, each one representing one of the various mana aspects."
+
+He paused, squinting at his diagram. "I'm starting to regret making this two-dimensional, incidentally."
+
+Leo shrugged. "I get the picture," he said, scribbling again into his notebook. Cale frowned at him and walked over to peek at what he was doing, then did a double-take—Leo had somehow managed to draw a fully shaded, three-dimensional representation of the cosmology he was describing.
+
+"Well," he said after a moment. "I see that you do. So, uh, the further out you go from the Abyss, the less real things get. We don't exactly have a physical location for the Named, but if we did, they would theoretically reside high above even the elemental planes themselves, "
+
+"And the Nothing?" Leo asked, pencil already poised to shade it in.
+
+"Like I said, it doesn't exist," Cale said with a shrug. He gestured to the far edges of the diagram, where the fractured lines of the Outer Planes faded away into nothing. "But if it did, it wouid be here, at the far edges of the Outer Planes, outside of known reality. Expeditions into the Outer Planes themselves are already fraught with danger, and no one's ever actually made their way to the Nothing and returned, so it's all theoretical. Most mages would tell you it can't actually exist and that it's just the boundary of reality itself."
+
+"There's a but coming, isn't there?" Leo asked. "There's always a but."
+
+"Yep," Cale said. He frowned at the diagram for a moment, then tapped a finger on the far edge. "The Nothing is a place that doesn't exist. Does that remind you of anything?"
+
+"Mythological places," Leo said immediately.
+
+"Guess it wasn't hard to see that one coming," Cale said. He chuckled, though the sound came out a little heavier than he hoped. "The Named themselves don't fully exist until they're called on, at which point they'll manifest as one of their many different aspects and interpretations. They have an identity at that point, though, and we think that's what keeps them stable. Places, on the other hand, don't have nearly that amount of stability.
+
+"So suppose one of the Named calls their home into being. There's a reason it doesn't happen that often—not even the Named want to risk the danger that comes with it— but it did happen, a long time ago, before we truly understood the dangers." Cale drew a line between the center of the Abyss and the far edge of the diagram, beyond the Outer Planes. "The new location will manifest in the exact same way the Named do, with a varying appearance and interpretation depending on the details of the original myth.
+
+"But unlike the Named, it would be lacking a certain... stability." Cale drew a new, jagged-looking circle, connected to the line. "Let's say you manage to find and visit Atlantis. The theory goes that when Atlantis is called into being, it doesn't actually fully manifest. Without the stabilizing element of selfhood, a part of it remains within the Nothing, which also shouldn't exist."
+
+"And that's a bad thing," Leo said, frowning at the diagram.
+
+"It's all theory," Cale said. "But it's theory based on what actually happened when mages first tried to launch an expedition into a myth."
+
+Understanding dawned in Leo's eyes. "You were there, weren't you?"
+
+Cale grimaced. "I might have been."
+
+"Atlantis?" Leo sounded awed, which he absolutely should not have been.
+
+"Maybe." Cale sighed, looking up at Leo with a somber expression. "When we had our first classes together, I told you that sometimes, when you name a monster, you give it power."
+
+"You did," Leo acknowledged. "I wondered what you meant by that. I mean, I get that names have power by now, but..."
+
+"But it usually helps us, right?" Cale nodded, though his expression was a little distant. "A lot of monsters gain power from being unknown and unknowable. When you give them a name, they become something concrete. Something lesser.
+
+"Atlantis was the first time I saw that rule broken." Memories came back to him—a name, confidently declared, the monster that chased them flashing into solidity and gaining a terrible power with it; a friend devoured for that arrogance, barriers that should have blocked a star shattering like glass. "We figured it out later. It's the nature of the Nothing. It's every story never told, every idea lost and forgotten, every hope destroyed before coming to fruition. Anything that might have been gone forever."
+
+"Like an afterlife?" Leo asked hopefully, though it was clear he was at least partially just trying to ease the tension.
+
+Cale saw through it, but chuckled softly anyway, some of that tightness dissolving from his shoulders. "That would be nice," he said. "And I suppose that's one way to think of it. But the Nothing is nonexistence, Leo. It's every legend faded into obscurity, every scary story told around a campfire, every monster you make up to scare a friend or sibling.
+
+"It's the thoughts you never share, the shadow in the corner of your eye, the gaze you feel on the back of your neck. All things that aren't real or things that should be gone forever. Gone everywhere except in these places where the edges of reality are worn away just enough to make a bridge to Nothing, where the skin of the world is thin enough for every nameless monster to claw its way back from the brink of being forgotten. And when you name them, you give them a foothold.
+
+"That is what the Nothing is. And when you open a way to it—when you open a way to Atlantis, or Mount Olympus, or any other place anchored in mythology—that's what you're risking, every single time. If what you're saying is true and the Labyrinth is now a real, physical place that has somehow been anchored within the Great Realms... then there's a good chance the Nothing is leaking into it, even now."
+
+There was a long moment of silence. Leo stared blankly, raised a hand, then slowly lowered it again without asking a question.
+
+"Oh," he said eventually.
+
+"Oh?" Cale repeated, blinking.
+
+"Is this above or below the dark lord in terms of priority, do you think?" Leo asked.
+
+Cale paused. "I feel like I've been a bad influence on you, if all you have to say to that is oh. But I mean—I guess it depends? I'd really rather we get the dark lord on our side for all this. We have bigger things to worry about."
+
+"I mean, this all sounds terrifying, don't get me wrong," Leo said. "I might have passed out a little in the middle of that explanation. There's this part in my notes where it's just a big scrawl and then I wrote 'SCARY' in all capital letters, and I don't remember doing any of that."
+
+"That sounds like cause for more concern, if anything?"
+
+"But also," Leo continued, "it could have been worse, couldn't it?"
+
+Cale raised an eyebrow. "How so?"
+
+"The Labyrinth is a prison," Leo said. "It was built as a prison. It is a prison, fundamentally, and as far as I could tell, it's inescapable. Maybe it won't be forever, but if it had to happen somewhere—"
+
+"—it's one of the best places it could have happened." Cale brightened a bit at the thought. "That explains why the Labyrinth incorporated the spell structure into itself; it's probably constantly expanding to try to contain everything inside it. Although that kind of means Asterion's probably not in a great position in there."
+
+Leo grimaced, glancing away. "Speaking of which, the Gift said he owed me a Favor. Do you know what that's about?"
+
+Cale thought for a moment. "With a capital F?"
+
+"Does that matter?" Leo's brows furrowed slightly as he checked, and he stuck his glasses back on to peer at the text. "Yup, capital F."
+
+"It matters," Cale said. "The Named throw lesser favors around all the time—it's not uncommon for them to favor a specific mortal, for example, which usually happens if that mortal happens to be playing their lives particularly close to a myth. Becoming favored isn't usually a good thing. They might help you, but they could just as easily decide to make things worse, if they think it'll help them manifest."
+
+Leo grimaced. "That matches what I've read about them," he said. "But a Favor is different?"
+
+"A Favor is their version of currency," Cale explained. "The Named are basically ideas that are desperate to exist, and they're never completely identical from one manifestation to the next. That means they can barely rely on themselves to advance their own agendas whenever they manifest, let alone each other.
+
+"Favors are binding fragments of their original myths. They guarantee that the Named tied to them will act in accordance with what the Favor demands, and it allows them to get around some of their limitations. They use it as a form of trade, essentially, sometimes to ensure that they'll cooperate with one another when needed and sometimes just to get some guarantee of continuity with themselves."
+
+"That sounds... complicated." Leo shook his head, looking suddenly uncomfortable. "And valuable. They have to mean a lot to the Named, right? If they're, uh, 'binding fragments of the original myth'?"
+
+"They do," Cale agreed.
+
+"Then exactly why did I have one of them?" Leo asked. "I didn't do anything to help Asterion. I wouldn't do anything to help him, even if I could. I mean, I guess if it turns out he didn't create the Impetus on purpose—but I don't even know why we're all cursed—"
+
+Leo cut himself off, his fists clenched in frustration, and Cale sighed.
+
+"I don't know," he admitted. "You probably did help him, even if you didn't realize it at the time. If he's trapped in the Labyrinth, manifested alongside the Nothing...."
+
+"It's just..." Leo gritted his teeth, then looked away again, as if ashamed. "I don't know what I'll do if it isn't his fault."
+
+"Does it need to be?" Cale asked, the words quiet.
+
+"I don't—I don't know." Leo sighed. "I've hated him for such a long time. I just feel like it would be easier, you know?"
+
+"Easier, yes," Cale said. He got to his feet, then offered Leo a hand—more for the spirit of it than anything else, considering Leo was too tall for that to actually help him up. "But a true mage—"
+
+"—never does things the easy way?" Leo snorted, almost pulling Cale down when he accepted the hand. "Cale, you said that specifically because you were insisting on creating fifteen different baking spells instead of just conjuring bread."
+
+"And I stand by it," Cale said with a grin. "Look, the answer's easy enough. We need to figure out a way to talk to Asterion. And I'm pretty sure we've got a way to do exactly that." He jerked a thumb toward the now-open dungeon.
+
+"What does the Bitter Path have to do with anything?" Leo stared at it, brows furrowed.
+
+"Reality's always a bit thinner in dungeons," Cale said, shrugging. "Now come on, we have to get to our next class."
+
+"We're not doing it now?"
+
+"A true mage never enters a dungeon unprepared and without a full complement of friends," Cale said brightly. "And possibly a professor or two."
+
+"You definitely just made that up." Leo made a face. "And what do you mean, a professor or two? Please don't tell me you're planning on dragging one of our professors along."
+
+"Okay," Cale said. "I won't."
+
+"That is not what I meant!"
+
+Cale caught something in the distance, then grinned. "Also, I call dibs on not being the one to explain all this to Professor Delia," he said cheerfully.
+
+Leo stared at him, horrified. "That's not how dibs work," he said weakly, his voice strangled.
+
+"And here she is now!" Cale said. "I believe in you, Leo. Points are on the line, you know."

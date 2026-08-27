@@ -1,0 +1,105 @@
+---
+id: 4ff3515c-0b9f-5f25-9671-9dc3e2b07f7b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Damage Healer"
+slug: 0060-chapter-27-damage-healer
+partOf: labyrinth-of-the-mad-god
+position: 60
+ownLength: 1924
+unit: words
+publishedAt: 2024-09-18
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1809164/chapter-27-damage-healer"
+royalRoadId: "1809164"
+---
+
+Ten minutes later, the last roach fell dead in the dirt, burning as Veronica’s launcher reduced it to char and oily smoke. The battle had been hard fought, requiring the use of a napalm grenade and all three charges of Nick’s wand to outmaneuver their enemy.
+
+The good news was that the fight had leveled them both, taking Veronica to level fifteen. At last, she could use the ability mastery system. Better still, she could take advantage of it to power up her abilities by a fair margin here and now.
+
+“Sick.” She let out a cry of triumph. “I have enough essence and understanding to take acid bolt to rank two and bleeding slash to rank one. No luck with my bone claws just yet. I was hoping to take bleeding slash to rank two right away, but there’s always the next fight.”
+
+“That’s fantastic V.” Nick gave her a well-deserved high five. “I suggest that you take rank one for both abilities first and sit down before you do. Those visions can be pretty intense. Then you can take your time and decide which upgrade you want for your bolt. I’m happy to offer my opinion if you want it, but the choice is pretty personal. Not only will it change how you fight here and now, it will influence the classes you’re offered later, each option taking you down a different path of advancement.”
+
+“Thanks Nick. I appreciate getting a heads up from someone who has already gone through the process.” She rubbed her hands together in anticipation. “Now let’s check out these visions you were talking about.”
+
+While Veronica was busy, Nick walked over to the doorway to stand guard, using the opportunity to look over his own gains.
+
+Congratulations. You have accumulated enough experience to reach level [17].
+
+You have gained one point of magic and one point of dexterity from your class.
+
+You have one free attribute point awaiting allocation at your discretion.
+
+Through use, you have improved the following skills:
+
+Sword has increased from [9] to [10].
+
+Evasion has increased from [8] to [9].
+
+Wand has increased from [10] to [11].
+
+Light shield has increased from [1] to [2].
+
+He was still deciding how he wanted to spend his free point when Veronica spoke up, sounding both exhilarated and a bit spacy from the altered state that accompanied ranking up her abilities. “Holy shit. You weren’t kidding about those visions Nick. That was… honestly pretty amazing. Now, let’s take a look at my upgrade options for taking acid bolt to rank two.”
+
+Nick waited patiently, giving her some space while she mulled the matter over, although he was extremely curious to find out what she’d been offered. A few minutes later, she looked over at him and said, “Shit. This is harder than I thought. Let me know what you think.
+
+“My first option would let me add a splash area of effect on impact, which would be awesome for fighting enemies like the construct swarm. The second increases the range of materials that the acid can dissolve, which might prevent me from being countered or help to deal with problematic opponents with unusual defenses.
+
+“This third one is both intriguing and kind of weird. I can make a portion of the damage that my acid inflicts turn into an energy that heals me and anyone friendly in the area. Although the effect is diffused when I use it on a group.”
+
+“Damn, those are good.” Nick nodded his agreement. “I think you can cross the second one off the list, since you have such a wide range of damage types already. I doubt that you’ll run into problems as far as defenses go often enough to make it worth the opportunity cost.
+
+“But option one and three are both flat out amazing. The only possible concern is how that last one will influence the next batch of classes you are offered. I think it will take your choices in a totally new direction, although that’s just a hunch based on my interactions with the System. You don’t have to pick right away. It’s fine to think it over for a while first.”
+
+Nick wasn’t too surprised by V’s next words, since she’d been planning for this moment for days. “There’s no need to drag this out. I’m ready now. While it’s a bit creepy on the delivery, I want to be able to save lives, not just end them. Right now, your elixir is our only source of healing. As amazing as it is, it’s best when you can use it on yourself in a situation where you’re running low on all three vital energies, instead of as an emergency band aid.
+
+“Plus, we wind up taking some damage almost every fight. Topping off our health as often as possible is sure to come in handy. Not to mention having a source of on-demand healing for serious wounds. Walking around with all these cuts and bruises isn’t a ton of fun, even if we heal them pretty fast naturally. I do want to pick up some more area of effect attacks sooner rather than later. But for now, let’s go with the wild card. Healing acid, here I come.”
+
+“I think that’s the best choice too.” Nick nodded his agreement. “Go ahead and confirm and then sit back down. If you thought the visions were crazy before, you’re in for quite a treat.”
+
+While Veronica had her ability expanded along with her consciousness, Nick went ahead and spent his free point on toughness. It was always a solid choice since it made him harder to hurt and helped him fight for longer at a time.
+
+But the main reason was that he was hoping to reach a place where he could freely use force acceleration in battle without tearing his body apart. Especially if he wanted to add stamina into the mix, like he had when he’d thrown the rock that had helped kill the river king.
+
+He sent his intentions into his menu, then waited until the feeling of snakes slithering through his muscles subsided, enjoying the sense that his tissue was more durable than before. Not long after, Veronica finished with her own improvements.
+
+“Well, that was… memorable.” V walked over to Nick’s side, giving his shoulder a playful punch. “I can’t wait to take these new powers out for a test drive, once we restore our mana and stamina at any rate. We should probably keep moving. The constructs are easy to avoid since they track their targets by sound and we’re both good at being quiet. But I haven’t figured out how the bugs hunt yet.
+
+“If we wait here for long, we run the risk that more of them will show up. Besides, we just cleared the passage we were hoping to follow and…” Whatever V was about to say next was cut off, as she lowered her gaze toward his waist.
+
+“Hey Nick. Maybe I’m crazy, but is your belt… blinking?” He raised one eyebrow, since that wasn’t even close to what he’d been expecting her to say. But when he looked down, he saw that she was right.
+
+“Oh shit. It is. That’s right, I forgot to tell you about the crystal recorder I found earlier.” He explained how he had found the alien device, and what it had revealed about the floor so far.
+
+“Wait, there’s something even worse lurking down here? What am I saying?” V let out a long sigh. “Of course there is. Hopefully this will tell us more about it before we run into it ourselves. Go ahead and summon your science wizard, Nick. I’m looking forward to seeing some alien magic with my own eyes.”
+
+He was about to object to her use of the term ‘science wizard.’ But then he decided that it fit as well as anything else that he could come up with. Instead, he shrugged, reached into his belt pouch, and removed the crystal device. As soon as he touched it, it spoke without waiting for his command.
+
+A location-based log has been detected. Would you like to play it now?
+
+“Yes,” Nick confirmed, and an image of Kellen the researcher shimmered into existence beside him.
+
+“Neat.” Veronica circled the hologram, poking at it with one finger while examining the projection of the alien scientist from all sides.
+
+“Video log one hundred twenty-eight, Waste Disposal Division. Today, I had a long talk with Quipep, the head of waste disposal. She seemed receptive to my project and helped me to flesh out some ideas I’m developing. However, she is unwilling to participate without a stamp of approval from the executive board. An unfortunate and ultimately misguided sense of loyalty in my opinion, although her hearts are in the right place.
+
+“On the bright side, she was willing to divulge a few details about her work that aren’t available in the data network. I will admit that her division has taken an admirable approach toward increasing their efficiency. Most notably by introducing a series of targeted mutations within the species commonly referred to as garbage-feeders. While the corpse-eaters focus on deconstructing especially resilient and problematic materials, the garbage-feeders focus on quantity, eliminating the majority of the waste produced in this section of the tower.
+
+“What were once simple F-grade insects, the same as you’d find on most any planet, have been selectively bred to induce complementary geneline traits. These changes have allowed the bugs to evolve into the E-grade. She has increased the range of organic materials they can consume, allowing them to survive in the presence of pollutants that would kill most other life forms without mutating in an undesired direction.
+
+“Right now, there are four core variants. The base model is resilient and voracious, suitable for most needs. The recently developed solvent-spewers can break down a wide variety of harder substances, while the flamethrowers can assist with cleanup, saving valuable time and resources. Then of course, you have the queen, which is responsible for keeping the colony’s population at optimal levels and adjusting the ratio of variants as needed.
+
+“Quipep is in the final stages of engineering an armored frontline fighter. Perfect for those unfortunate instances when something dangerous is introduced into the tower’s waste conduits and makes it down to this floor still alive and kicking.
+
+“After manufacturing a little diversion, I helped myself to samples of her projects to use in developing my masterpiece, which I have assigned the codename ‘the Janitor.’ These acquisitions should speed up my timetable by several months, and I should produce my first generation of research subjects by the end of the quarter. It will go even faster if I can get my hands on…”
+
+The rest of this log is corrupted, and the data has been lost.
+
+“The janitor huh?” V let out an appreciative whistle. “If it’s stronger than the gear-constructs and the big bugs, we should avoid it if we can. Now how about we get the hell out of here before we’re up to our eyeballs in killer insects?”
+
+Nick nodded his agreement, and they made their way out of the room, continuing along their original course. Before long, their tunnel wound its way back toward specimen refinement and the dirt lining the passageway came to an end, greatly improving the smell.
+
+They continued heading toward the center of the floor, glad to leave the roaches behind them.
+
+With any luck, we’ll find more of our team soon.

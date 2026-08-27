@@ -1,0 +1,117 @@
+---
+id: 11d6a959-5292-504e-b18e-5b0631b2d11a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Level 16"
+slug: 0052-chapter-21-level-16
+partOf: labyrinth-of-the-mad-god
+position: 52
+ownLength: 1927
+unit: words
+publishedAt: 2024-09-04
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1788433/chapter-21-level-16"
+royalRoadId: "1788433"
+---
+
+Thanks to their enhanced Survivor traits, they only needed four hours of sleep. Since he had already taken a nap after entering the tower, Nick volunteered to take the first watch.
+
+When V propped her head against her pack and stretched out, he loaned her his temperature-regulating cloak to use as a blanket. “Thanks.” She smiled up at him. “That’s nice and warm.”
+
+While she slept, he faced the door, listening for anything moving down the passage. He’d written his name by the entrance with charcoal before sealing it up, so he shouldn’t have to worry about the other members of his team walking past without realizing they were inside.
+
+Now that he had some time on his hands, Nick kicked his tactical brain into high gear, pondering everything that had happened since setting foot inside the tower.
+
+Veronica woke up on her own a few hours later, and it was his turn to hit the hay.
+
+When he opened his eyes and sat up, she handed him a plate of assorted provisions. “Breakfast in bed.” She grinned. “Best I could do without being able to cook anything.”
+
+“Thanks.” He took a sip from his canteen and reached for a loaf of travel bread. “This hotel has better service than I was expecting.”
+
+When they were done eating, they started stretching out, warming up their bodies before facing the ordeal that was sure to be waiting for them when they stepped outside and began crossing the floor.
+
+It turned out that Veronica had come up with a few questions while he was asleep. She wanted to know a bit more about the rank two upgrade options offered by the ability mastery system, so that she would be ready to make her picks when she gained access to the AMS in another level.
+
+Nick was happy to oblige. He went into more detail this time, recounting the visions he’d been granted by the System and the options for upgrading his mana dart. Finally, he outlined his reasoning for the path he had chosen, and his speculations regarding the direction he wanted to take his other abilities. She listened closely to every word, saving her comments until he was done.
+
+“No wonder your darts hit so much harder now. But don’t expect any ability to remain effective for long. It’s like you learned in that recording. If anything destroys too much of the swarm, they start adding counters to deal with the problem. Those green scorpion things were able to completely shrug off my acidic bolts. I doubt more than one or two napalm grenades will work against them either.”
+
+“I hear you. Hopefully there is some limit to how many elements they can shield themselves against at once.” After that, they spent a few minutes discussing each of their abilities, in case someone had an insight that the other had missed.
+
+“Piercing ray sounds like it has a lot of potential. I recommend that you upgrade its penetration if you can, it’s our only counter to heavily armored opponents. It should be great against big beasts too, especially when you take it to rank two. With how fast the beam travels, you can use it to execute precision strikes against various weak points.
+
+“Force acceleration seems OP, if you can get it under control. Maybe wait on upgrading that one until you put more points into toughness, or you learn to fine tune the mana you put into it. I saw what happened to your arm when you threw that rock at the river king. If you move any faster, you’ll tear yourself to pieces.”
+
+Before he was ready to head out, Nick opened his profile to see if he’d gained anything from their latest fight. He had a hunch that he’d leveled, although he’d been too distracted during the melee to notice any gains to his attributes.
+
+That made him realize that the accompanying sensations had become less intense over time, as his pool of attributes grew. Good, that means that leveling up won’t be as much as a liability in battle going forward.
+
+To his delight, he had earned enough experience to hit level sixteen after all and had several skill gains awaiting his perusal.
+
+Congratulations. You have accumulated enough experience to reach level [16].
+
+You have gained one point of magic from your class.
+
+You have one free attribute point awaiting allocation at your discretion.
+
+Through use, you have improved the following skills:
+
+Sword has increased from [8] to [9].
+
+Wand has increased from [9] to [10].
+
+Nick put his free point into toughness, then waited until the sensation of electric worms crawling through his muscles subsided. Definitely less intense that time.
+
+When he was done, they made a final inspection of their inventory, reviewed some tactics that incorporated both of their abilities, and unblocked the doorway.
+
+They stepped into the hall and resumed their exploration of the floor. They began heading as best they could toward the center, where with any luck they would find Kenji, Sophia, and Devin if they didn’t run into them along the way.
+
+They made good time over the next few hours, doing their best not to get lost as they navigated one turn after the next. It was trickier since there weren’t any of the clean, four-way intersections in this area. Nick soon decided that the layout of this section felt more organic and less like a preplanned city. Or maybe there is some structural reason for it.
+
+Unfortunately, they were well past the piece of map that Nick had recorded, and he hadn’t found another. He began filling in the gaps as they traveled, judging their position as best he could.
+
+Before long, their surroundings began to change. Instead of long tunnels broken up by the occasional cluster of rooms, the passageways started taking them through large open areas that reminded him of factory floors or some kind of chemical refinement plant.
+
+While the devastation was prolific, it wasn’t nearly as complete as the outer region holding the living quarters, granting them a better idea of what they were dealing with.
+
+They passed by giant tanks connected to one another by a mazelike warren of pipes and ducts. Vats were arranged along conveyor belts, set beside stone tables covered in beakers and tubes. Cauldrons and machines whose purpose he couldn’t even begin to guess.
+
+Nick kept an eye out for useful tools along the way, eventually putting some of the intact beakers and a few dozen test tubes into his pack. He figured that they would be useful for storing various liquids, including V’s concentrated stamina potions.
+
+Here too, not a scrap of organic material remained. Not so much as a drop of blood or splinter of wood. Although far more metal and glass remained unmauled, indicating that the clockwork constructs frequented this region less often.
+
+It was honestly pretty spooky, especially with the way that sound echoed off the stone surfaces, like taking an unguided tour of a disaster zone. Although they spoke little while on the move so as not to attract the swarm’s attention, Nick was glad for Veronica’s company.
+
+She set a different tone than traveling with Sophia. V was blunt and direct instead of reserved, although she was more secretive as well, less forthcoming about herself. Her sense of humor was considerably darker too.
+
+All in all, Veronica was good company, both as a traveling companion, and as a reliable teammate. He soon learned that she had remarkably sharp senses, even by Nick’s new standard, helping him to avoid several packs of gear-rats that he would have stumbled onto otherwise. The difference was even more pronounced when she was concealing her presence.
+
+Although she couldn’t move fast while sneaking, V was quiet as a whisper. She was a perfect scout, able to conceal her presence to a remarkable degree. Agile enough to get around or over all but the most difficult of obstacles in her path.
+
+Nick soon learned that she was right about the constructs. After their last battle, all the gear-scorpions had added another layer to their shielding. The silver of pure mana swirling against a green shell of energy that was able to repel acid.
+
+Half of the rats had them now too, leaving him wondering if any of his spells would be effective by the time that they reached the stairs leading to the next floor.
+
+Late into what Nick was calling their first full day of traveling together, they came across something that he’d been hoping to find for some time now, a solitary gear-rat with a silvery shield of light.
+
+“Hold up,” he whispered into V’s ear. “I want to test how effective those barriers are before we’re forced to fight another group. If it looks like the rat is going to get away, finish it off before it can draw any of the others.”
+
+“That’s a good idea,” she murmured after turning her head, her breath tickling his ear. “This is a good chance to see what we’re dealing with. I’m ready whenever you are.”
+
+With that, Nick concentrated and conjured three of his mana darts. Veronica watched on with interest, since it was her first time seeing him cast the spell without something trying to eat them.
+
+Once the third dart was ready, Nick visualized the trajectory he wanted each to follow and then signaled his intention to fire. Fast as an arrow, each dart flew up, arcing high to come down from above the rat’s field of view.
+
+The chromatic projectiles followed their flightpaths with unerring precision. They hugged the tunnel’s ceiling as they sped for the little construct, then dropped straight down, staggered so they would hit the rat a heartbeat apart.
+
+The first dart caught the machine completely by surprise. But instead of killing it, the missile was absorbed by the translucent barrier. The magic field dimmed noticeably, but the construct appeared otherwise undamaged. It clearly knew that it was under attack and started darting for safety. But before it took two steps, the second mana dart caught it from behind.
+
+This time, the energetic barrier cracked like an eggshell, shattering into glowing fragments before fading out of existence. The third dart landed a second later, striking the unguarded rat right in the head. Like the others that had been felled by Nick’s darts, it fell lifeless to the floor, remaining inert instead of popping out of existence.
+
+“Interesting.” Veronica walked over and poked at the corpse. She picked it up to take a closer look after Nick indicated that it was safe to do so. “Those barriers are strong but not invincible. It was good to discover their limitations, but we should probably avoid wasting our mana on them whenever possible.”
+
+When she was done inspecting the construct, Nick stuck it in his bag along with the rest. “What are you saving those for anyway?” she asked.
+
+“I’m not sure yet,” Nick replied. “But they don’t weigh too much and I’m hoping that they might be valuable to the right person. They also might be useful to research later. We barely know anything about magic, and constructs are a total mystery right now. Maybe one day we can figure out how to make our own.”
+
+“Smart.” She nodded her approval. “I like the way you think. Let’s keep moving. Hopefully, we can find the rest of our team and get out of here before the swarm gets any stronger.”
+
+“Thanks,” he grinned. “I just hope that the others are alright.”

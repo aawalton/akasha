@@ -1,0 +1,357 @@
+---
+id: 2f7ddbab-11d3-5f87-a6ca-1e86be311380
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18"
+slug: 0019-chapter-18
+partOf: light-cleric
+position: 19
+ownLength: 4410
+unit: words
+publishedAt: 2021-07-03
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/710106/chapter-18"
+royalRoadId: "710106"
+---
+
+Summer trundled on, and for the better part of two months, Piety lay in bed, convalescing. Her left collarbone had been crushed and the muscles in her shoulder and down her chest had been shredded. Fortunately, the healers at Pinefort, including a frantic Father Vytal, had worked their power upon her before the damage would have been irreparable Even so, to conserve the power of the healers, her body had to do most of the healing itself, and a set of ragged scars ran from her left shoulder to her sternum.
+
+Piety was forbidden from healing her body herself for fear she’d overexert herself. She didn’t argue to avoid worrying Father Vytal and Temperance.
+
+Piety spent most of her convalescence in the healing ward, allowed to get up and walk only on a limited schedule. And despite the wounded who continued to cycle through the healing ward, some leaving for home, some going back to the war, and some taking their final rest, Piety was not allowed to work as a healer. In fact, she’d been forbidden by Father Christoph from accessing her powers at all.
+
+Piety didn’t tell him, or anyone, about the cosmos appearing in her mind. She remembered Father Vytal telling her about the dangers of piercing the veil between her mind and the Divine beyond. It had not destroyed her, but it had nearly swallowed her. She wasn’t sure the cosmos she’d fallen into was God, but it was all and nothing, everything of creation and the vast emptiness, and such dichotomous contradiction was sometimes how the Scriptures depicted God.
+
+Piety whiled away many of the hours by going to the room in her mind, allowing the healers to think she was resting. No new books appeared upon the bookshelf, but Piety was content with rereading old favorites and often took down the red, leather-bound copy of the Scriptures. She played solitary with the playing cards. She lost three games of chess.
+
+Temperance visited her as often as her duties allowed. They talked about a variety of things, most of them mundane, but more and more, they talked about the clay spheres filled with exploding powder and how that powder might win the war against Kempenny.
+
+“They’ve already used them in the field,” Temperance enthused. “I’ve read some of the reports. They’re calling them thunder spheres. They say they’ve been able to spook horses and distract soldiers. In one battle, they used them to destroy enemy supplies.” Temperance’s face was lit with excitement. “In fact, I’ve been talking with Mother Simmons and we think that if we could get some of the blacksmiths to make some thunder spheres out of iron, and with a fuse, like with the fire blossoms, they could be an actual weapon.”
+
+Piety frowned but Temperance didn’t see. An exploding metal ball, and the wounds it would create, was a disturbing thought.
+
+“Oh, I’ve got something to show you,” Temperance said. She produced a folded piece of parchment from her pocket and smoothed it out against her lap. There were sketches of a long tube and a small, concentrated explosion that would propel an arrowhead along the tube. There were lines and arcs and notes in Temperance’s shorthand.
+
+“What’s this?” Piety picked up the drawing.
+
+“Another weapon. This one would allow our soldiers to fire arrowheads from much further away than a bow. I don’t know if it’ll work, but if it does, our soldiers could attack the enemy without being attacked in return.”
+
+Piety set the parchment face down on her blanket-covered lap. “The enemy are people too.”
+
+Temperance’s enthusiasm drifted away, a puff of smoke from a pinched candle. She took the parchment from Piety, folded it, and tucked it into a small pocket on her dress.
+
+“What do you mean?”
+
+“We’re healers. I use my power and you mix medicines. We’re not soldiers. You’re not a weapon smith.”
+
+“This is a war, Piety. People get hurt, people die, and there’s no way to avoid it. Have you heard that the diplomats Mother Talitha sent out were sent back without their hands? Kempenny, whichever one she is, will not stop. So we have to stop her.” Temperance tapped her pocket and the parchment crinkled. “This will stop her.”
+
+• • •
+
+In early autumn, Piety was finally allowed to leave the healing ward. Father Christoph and Father Vytal weren’t satisfied with her healing progress, but the war had escalated, and more and more soldiers were coming back from the fighting. The larger healing ward in town had started to overflow and Commander Byron had commandeered a nearby warehouse to house the injured and recovering.
+
+Because she was allowed to leave the ward and walk around on her own and sleep in her own bed, Piety was present when Temperance finally unveiled her new weapon for the commanders at Pinefort. She’d been working closely with Mother Simmons and the chief blacksmith, an appropriately large man named Brand. Temperance had kept the details of her project secret from Piety, and Piety hadn’t asked. Father Vytal was away on an assignment. Piety couldn’t help but wonder what he would think.
+
+Sitting on a wooden folding chair brought by a servant, left arm in a tight sling, Piety waited along with high-ranking military and church officers. Her stomach roiled nervously. They’d been directed to an empty field outside town that had once grown crops. Temperance stood a ways off, fiddling with something in a wooden box, which stood on top of another wooden box. Brand stood nearby and moved as Temperance directed. Brand wasn’t as certain in his movements as Elijah had been, his thick-fingered hands used to heavier work, but Piety noted he was just as enthusiastic.
+
+On a wood and metal stand was secured something that looked like a long bell, made of thick, heavy, dark metal. At the other end of the field were several straw and cloth mannequins propped upon wooden stakes. Temperance spent a lot of time with a length of marked wood and asking Brand to move the heavy metal object. Eventually, Temperance raised her hands for silence and the commanders acquiesced.
+
+For several moments, Temperance tried to speak. “Ladies and gentlemen,” she said, then paused. “Uh… as you know… as you may or may not know… that is…” Temperance licked her lips nervously and looked around the crowd until her gaze rested on Piety. Her eyes were wide and her breathing was fast.
+
+Despite her trepidation, Piety smiled. “Just show us,” she whispered.
+
+Temperance nodded frantically.
+
+“Uh… well… Watch this.”
+
+She withdrew a long pole on the end of which was a slowly smoking punk. Carefully, she lowered the smoldering end to the stick of the long bell-like cylinder. A small, brief tongue of flame licked along the curved surface of the cylinder before a hollow pop echoed across the field. The pole in both hands, Temperance backed away quickly.
+
+The resulting explosion rocked the cylinder off its supports, knocked Temperance to the ground, and drew exclamations and oaths from the gathered council members. On the other side of the field, the cluster of straw and cloth dummies was obliterated, the straw scattered, the stakes splintered. Bits of cloth and straw fluttered about in the breeze.
+
+Piety’s chest pounded with a buzzing ring; her skin tingled and head throbbed and she felt she was about to throw up. She couldn’t tear her gaze from the destruction. She tried not to imagine those straw constructs as flesh and bone and blood.
+
+Sound returned slowly and she realized the commanders around her were talking excitedly. They were exclaiming over the power of this new weapon and what it would mean for the war.
+
+“With just one of these, we could turn the war around,” Commander Byron said. “With a platoon, victory is ours within the week.”
+
+Piety tried to stand, but she was woozy and her knees wouldn’t hold her. A servant offered her a water skin and she drank deeply.
+
+“Please, help me stand,” she said.
+
+“Are you sure, Sister?”
+
+Piety nodded, but even that made her dizzy.
+
+Taking a breath to dispel the dizziness, Piety took an unsteady step and had to stop. The servant, Onora was her name, put a hand on her arm.
+
+“Are you ill, Sister? Perhaps you should sit?”
+
+“No, no, I’m fine,” Piety said. She took a step forward that ended with her face down on the ground.
+
+• • •
+
+She dreamed of the ocean, storm-tossed and grey. She dreamed that she stood above it, her feet washed in water and brine while overhead, the storm had broken, tossing rain and wind with wild abandon. And on the cliffs above the ocean, the black and white pawns slaughtered each other with ferocity, efficiency, and abandon. Drenched in rain and lightning, the conflict raged.
+
+And she, unable to watch, fled to the clouds where she pierced the veil and found herself beyond, in the cosmos, the everything and the nothing, and she knew she was a step from witnessing God. The energy of the all and naught filled her
+
+• • •
+
+Though she felt fine, Piety was confined to bed for a week. Onora was assigned to make sure she stayed there. When Piety tried to leave the confines of her bed, Onora threatened to fetch Father Christoph or Mother Talitha. When that didn’t work, she threatened to fetch Sister Sunday.
+
+But though she was made to stay in bed, the happenings of Pinefort managed to reach her ears via Onora. The most talked about of rumors was the new weapons designed by Temperance Sunday, Sister of the Church of Khulanty. Some said the sister would create a weapon that could destroy enemy camps from miles away. Some said she would end the war.
+
+Every blacksmith and foundry in Pinefort set to work making the new weapons: metal tubes, metal balls, hollow spheres; all scrap metal that could be found was melted down to be reshaped into a weapon. Horses went unshod and abandoned buildings were scavenged for hinges and window clasps. Temperance no longer mixed medicines, but rather experimented with and perfected the powder, collaborating with Commander Byron’s officers to design the most efficient weapon they could.
+
+Though Piety was not allowed to leave the curtain-walled space she and Temperance shared, Piety didn’t see much of her friend. Temperance spent a lot of time in her laboratory and, as reported by Onora, oftentimes slept there.
+
+When the end of the week came, Piety tried to visit Temperance in her lab but was turned away by a pair of scarlet clad church soldiers.
+
+“Sorry, Sister,” apologized one of the young men. “Sister Sunday said she’s not to be disturbed.”
+
+By the time Piety went back to work in the healing ward, autumn had cooled the air and turned the leaves. In the healing ward, she worked shoulder to shoulder with Father Vytal, and though the surroundings were horrific, she felt better for being by his side. Often they would take breaks together, walking from the healing ward to a nearby field galley where they were given tea in chipped ceramic cups and bread that wasn’t too stale.
+
+Autumn passed quickly. As the red and gold leaves shed themselves from the aspen trees interspersed amongst the pine, Piety found she had become pensive.
+
+“I don’t like it here.”
+
+She sat next to Father Vytal on a bench in the courtyard where Piety had fought with Frederick Vahramp. She watched the steam from her mug of tea swirl in the cool autumn morning.
+
+“It feels futile,” she continued. “I mean, I’m honored to help injured soldiers, but we’re just sending them right back out there to get injured again. And we’re no closer to capturing General Kempenny. What the hell are we doing here, father?”
+
+Father Vytal chuckled, catching Piety off guard. She looked at her mentor, confused, and he took a sip of tea.
+
+“I’m sorry. It’s not funny.” His expression turned tired and sober again. “War is futile. I think I’ve mentioned it before.”
+
+Piety sighed and nodded and went back to her tea.
+
+“I suppose it’ll snow soon.”
+
+Father Vytal nodded. “I suppose it will.”
+
+• • •
+
+Piety, sitting on the stool she and Temperance shared, stretched her left arm in front of her so that it was parallel to the ground and swung it slowly toward her back, stretching the muscles under the scars across her shoulder and chest. The scars had faded, but would never go away. She kept her breathing even though the tight muscles tried to pull a groan from her throat. Even months later, nearly half a year, the wound ached.
+
+“Want some ointment for that?” Temperance asked.
+
+Piety turned on the stool to look at Temperance. She lay on her back on the lower bunk, looking up at Piety. Last night had been one of the few nights Temperance had slept in their shared space instead of her laboratory. Her fingers were stained black and she smelled of acrid smoke.
+
+“I thought you were sleeping,” Piety said.
+
+Temperance shrugged. “Are you going somewhere?”
+
+Piety stood and stretched. “Father Vytal wants to see me this morning.”
+
+“Was there a message?”
+
+Piety nodded and tapped her head.
+
+“Oh,” said Temperance. She hunched her shoulders and pulled the blanket to her chin. “Is it important?”
+
+“Isn’t it always?” Piety stretched again, restraining a grunt of pain.
+
+“I’ve got some ointment. I mixed it yesterday. It’d ease the pain.”
+
+Piety sighed. “That’s all right, Temperance, I’ve gotten used to it.”
+
+“Are you angry at me?”
+
+Piety frowned. Piety hadn’t really thought about how she felt in the last few months and Temperance’s frank question made her realize why. The demonstration of the powder weapons, the fire-arms as the commanders had taken to calling them, disturbed her.
+
+Eventually, Piety said, “I’m not mad at you, no.”
+
+“Then what’s wrong? You almost never talk to me.”
+
+“You’re almost never here.”
+
+“Neither are you. We’re both busy.”
+
+Piety didn’t answer, but Temperance was quick to fill the silence.
+
+“It’s the demon, isn’t it?” Temperance asked.
+
+That startled Piety. The demon was an awesome beast from the Scriptures, like angels and dragons and undead. Many demons had been slain by the heroes of old. Piety spent a moment, trying to understand why an ancient beast from the Scriptures would have upset Temperance.
+
+“It’s what the soldiers are calling it,” Temperance said. “I overheard some of them while they were bringing in supplies.”
+
+“Demon,” Piety whispered. “Appropriate.”
+
+“You are,” Temperance said, “you’re mad at me. Demon is a terrible name. I just wanted to end the war, and now they’re saying I’ve created some kind of terrible beast.” Sobs stood at the edge of Temperance’s voice.
+
+Piety shifted from her stool to kneel at the side of Temperance’s bunk.
+
+“I’m not mad at you Temperance. I’m just worried about this weapon, and what it’s going to do. There was an accident on the practice field a few days ago. A private had one of his legs blown clean off. What if there’s a larger accident? What if General Kempenny captures one of the weapons? I just… I feel like the harm outweighs the benefit.”
+
+Temperance squeezed her eyes shut. “You nearly died. I want this war to end. I’m trying to end it. I just want to end it.”
+
+“I know.” Piety sighed. She couldn’t think of anything to say that didn’t sound like an accusation.
+
+“We can destroy it when we’re done,” Temperance said in a small voice that begged forgiveness.
+
+“Destroy it how?” Piety tried to keep the demand out of her tone, but even to her the question sounded harsh.
+
+“I’m the only one who knows the formula for the powder,” Temperance explained.
+
+Piety could only blink, nonplussed. She had thought that, at least, Commander Byron would know how to make the powder.
+
+“Mother Simmons suggested that it would be safer if only one person knew it, there are all kinds of spies in camp.”
+
+“Commander Byron?” Piety asked.
+
+“I tried to explain it to him and he said he didn’t care how it worked, just so long as it worked. So, you and I, we could destroy it when the war’s over.”
+
+Piety shook her head. “You’re not going to be able to convince Commander Byron that he should just give up the most powerful weapon ever created.”
+
+Temperance winced. Piety considered apologizing, but softening the blow wouldn’t change anything.
+
+“I don’t have to,” Temperance returned. “All I have to do is refuse to make any more powder. I don’t care what they do to me; when this is over, I’ll never make the powder again.”
+
+“What about the other people in your laboratory? Haven’t any of them seen you make it? What about Elijah back at the High Temple?”
+
+Temperance frowned at Elijah’s name, but stuck to the subject. “No. None of them. Mother Simmons insists I’m the only one in the room when I mix the powder.”
+
+Piety considered, and her thoughts gravitated to the ways someone might forcefully extract the knowledge from her Temperance’s mind.
+
+“A strong and skilled telepath could go into your mind and take the information. I’m pretty sure I could do it. If you fought, it would hurt you.”
+
+“I don’t care.”
+
+“I do.”
+
+“Well then, you’ll just have to protect me.” Temperance slipped out of bed and stood.
+
+Still kneeling at the side of Temperance’s bed, Piety said, “I thought you didn’t have to go work for a couple more hours.”
+
+Temperance dug out a relatively clean dress from the small trunk. Both girls had grown since their arrival at Pinefort, but whereas Piety had sprouted, Temperance was short and curvy. They could no longer share clothes.
+
+“I’m going with you,” Temperance explained.
+
+“Oh. Why?”
+
+“You’re going to talk to Father Vytal. He’s the only other person in camp who might understand my decision.”
+
+• • •
+
+Father Vytal had been afforded an actual room, though a small one. Piety knocked firmly at his door, then opened it and went in. She knew, via mental conversation, that the cleric was alone and had breakfast waiting for them.
+
+The two small folding chairs stood empty and Father Vytal had pulled the end table to the bed, so he could sit there and the girls could have the chairs.
+
+“Sisters,” he greeted them.
+
+Piety blushed. “Stop that,” she told him at the same time that Temperance said, “I’ll never get used to that.”
+
+Father Vytal smiled. “Turnabout is fair play.” And he bowed to them from his sitting position. He regarded Temperance. “Piety said you wanted to talk to me?” He gestured for them to take the chairs.
+
+Piety sat carefully. The hard seated chairs had the tendency to fold under the person who sat upon them if they didn’t balance their weight properly. She took the teapot and poured tea for herself and for Temperance. Temperance still stood by the door, indecisive after Father Vytal’s question. She added sugar to her own tea, but none to Temperance’s. Temperance liked the bitterness.
+
+“Temperance, come sit,” Father Vytal encouraged.
+
+Temperance did as he asked and took up the tea Piety offered her. After blowing on the tea several times and a careful sip, she set the teacup down and looked at him.
+
+“I’ve done something terrible.”
+
+Father Vytal raised an eyebrow and Piety could only smile.
+
+“The fire-arms,” she said, “The demons.”
+
+“Ah.” Father Vytal took a sip of his own tea but neither agreed nor disagreed.
+
+Temperance cleared her throat. “Well,” she went on, “As it turns out, I’m the only one who knows how to make the powder. Piety thinks Commander Byron won’t want to give up such a powerful weapon, but I’ve decided that once the war is over, I won’t make any more.”
+
+Father Vytal set his tea down carefully. “How can it be that you’re the only one to know how to make the powder?” he asked.
+
+Temperance explained about Mother Simmons’s suggestion and Commander Byron’s simple expectations.
+
+“And I was hoping,” she continued, “that you’d support me in my decision. And protect me. Piety says that a telepath could take the information.”
+
+Father Vytal nodded. “One sufficiently strong could, yes. And you’re right, Commander Byron won’t be pleased with your decision. But if I may make a suggestion?”
+
+Temperance nodded.
+
+“You’ll be safer if you can’t remember how to make it.”
+
+Temperance looked confused. “I don’t know how to forget.”
+
+“I could take the information from you, remove it.” He nodded at Piety. “She could do it too.”
+
+Temperance bit her lip and looked down at her hands.
+
+“It’s not a decision you need to make now,” Father Vytal said, “But I think you’ve made the right decision, not to let this weapon remain in the world. I have seen its effects in the field.”
+
+“Is it terrible?” Temperance asked, looking at Father Vytal.
+
+“It is.”
+
+Temperance wept, and they let her. Piety offered her comfort with a hand on her shoulder. When she was done, Temperance looked up. “Thank you for talking to me this morning, Father. I know you’ve probably got something important to do.” She stood.
+
+“It’s quite all right, Sister.”
+
+Temperance made an impatient sound and wiped tears from her eyes. “You don’t have to call me that.”
+
+Father Vytal stood and hugged her. “If you don’t have to report for duty yet, you could keep us company while I talk to Piety about our mission.”
+
+“We have a mission?” Piety asked at the same time Temperance asked, “Is it going to be dangerous?”
+
+“Yes,” he said, in answer to both. “I have been asked to undertake a rescue. A woman who has been advising General Kempenny wants to defect. She’s in a small town called Upton Port, on the coast. But I don’t know how long she’ll be there.”
+
+“How long will it take us to get there?” Piety asked.
+
+“Six days on horse.”
+
+“Is she important enough that she’ll be followed?”
+
+Father Vytal nodded. “I believe she is. My source tells me she’s only been advising the general a fortnight, but the general is not a fool, she is a student of history, and will understand the significance of a woman with purple eyes.”
+
+Piety blinked for a long time. Since Father Vytal had left Temperance and her at the High Temple, Piety had just sort of stopped thinking about the purple-eyed woman. She hadn’t even dreamed about those eyes. But with the mention of her, Piety was hit with a rush of excitement.
+
+It was Temperance who said, “The purple-eyed woman? Are you sure?” She looked at Piety and put a hand on her shoulder.
+
+Father Vytal smiled. “No, I’m not. But then again, I’ve never been sure about any lead in my quest to find her. It’s never stopped me.
+
+“Commander Byron has cleared me to recruit whoever I need. The commander, too, is a student of history. He’s not convinced she’s the purple-eyed woman of legend, but neither does he want Kempenny to have her. Commander Byron believes between liberating this advisor and deploying the new weapons, the war will soon be over.”
+
+Temperance looked away and sighed. “He’s been saying that for a while now.”
+
+Father Vytal put a hand on her shoulder. “I’m not blaming you, Temperance. The council has been trying to create this weapon for nearly a decade.”
+
+Temperance looked up. “What?”
+
+Father Vytal raised an eyebrow. “They didn’t tell you?” But he didn’t wait for a response. “Of course they didn’t.” He cleared his throat and steepled his fingers.
+
+“An old inventor cleric by the name of Raymond stumbled upon an explosive compound while trying to improve plant soil. He considered the compound a failure, but some in the church saw the potential for a weapon and tried to get him to reproduce the compound. He never managed it.” Father Vytal shrugged.
+
+“I know about him,” Temperance said. “He invented matches and promised the people of Artio a better way to conduct mining operations.”
+
+Father Vytal nodded. “That’s him. I wonder if, perhaps, he didn’t want to recreate the powder when he heard what they intended for it. Either way, someone in the church saw your genius, Temperance, as a way to get the weapon they wanted.”
+
+“They used me,” Temperance said, “like a rake or a hammer. I was just a tool.”
+
+It was Father Vytal’s turn to sigh. “I am sorry. Marcus Radden is my friend and I had thought, with his ascension to High Cleric, pursuit of weapons would be a pursuit the church would abandon.”
+
+“No,” said Temperance, but in a distracted sort of way, like she was thinking about something else. “It’s not your fault, Father. This is my burden.”
+
+Father Vytal nodded but said no more.
+
+Piety let the silence stretch for several moments before she returned to the topic that had so excited her. “Father Vytal, the purple-eyed woman?”
+
+“Yes,” he said, “of course. I have a pair of horses being readied and supplies packed as we speak. I take it you want to come with me?”
+
+Piety nodded.
+
+“Wait,” said Temperance, “a pair of horses? I’m going too, aren’t I?”
+
+Father Vytal smiled. “Well, it’s going to be dangerous. I remembered you telling Jack that you didn’t like danger.”
+
+Temperance stood up and gave Father Vytal a stern look. “I’m not letting Piety go without me.”
+
+Father Vytal bowed from where he sat. “Yes, Sister.”
+
+Temperance blushed.
+
+“The horses we’ll be taking are some of the army’s best runners. They can carry two girls without flagging, I assure you.”
+
+“Oh,” said Temperance. “Good.”
+
+Father Vytal looked down at his cup of tea and swallowed it in a gulp. “Well then,” he said, “shall we be off?”
+
+• • •
+
+When they rode out of Pinefort, Father Vytal leading the way, Temperance sitting behind Piety, Piety took a deep breath and felt her shoulders stretch, her spine pop. She felt all the responsibilities of the military camp roll off her shoulders. There was a part of her that felt bad, that told her she was abandoning those at Pinefort who needed her: Commander Byron who relied on her far-reaching telepathy, Father Christoph who relied on her healing power, but a greater part of her looked ahead to the rescue mission, and the woman with purple eyes.

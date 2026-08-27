@@ -1,0 +1,65 @@
+---
+id: 81deda37-9a08-53f8-b1ce-cb91ff18f611
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65: Mirror Image"
+slug: 0105-chapter-65-mirror-image
+partOf: labyrinth-of-the-mad-god
+position: 105
+ownLength: 1429
+unit: words
+publishedAt: 2024-12-16
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1959757/chapter-65-mirror-image"
+royalRoadId: "1959757"
+---
+
+By now, the musical clang of hammer striking anvil had risen to fill the air, as Rita went to work at her forge.
+
+It was a heavy, invigorating rhythm. A song of fire and steel that seemed to capture the urgency of battle. That adrenaline-soaked state of being, where life and death are balanced upon the edge of a blade. It got Nick’s blood pumping and filled him with energy. He threw himself into his workout with renewed vigor, moving his feet in time with the beat.
+
+By now, he was really starting to get excited. During his brief, much needed rest, it had dawned on him how thrilling it would be to be trained by someone who was skilled in the sword. An individual that the System had recognized as a master of the blade. More than merely boosting the skills on his profile, this was a chance to learn the art of battle from someone with incomprehensibly more experience than himself.
+
+His month on this strangely colored world was an opportunity to learn genuine tactics and techniques, as well as the logic behind each maneuver. An invaluable chance to deepen his fundamental understanding of what it meant to wield a blade. To take his first true steps upon the path of the swordsman.
+
+Right now, Nick’s combat style, if you could even call it that, was as raw and uneven as his battered blade. A slapdash approach cobbled together from a lifetime of gaming and absorbing fantasy literature, combined with his fledgling understanding of body mechanics, and a few months of fighting against opponents who were almost exclusively beasts.
+
+He had nothing that could be called a true technique, let alone maneuvers that had been honed and refined over countless battles and long years, handed down from one generation of blademaster to the next. Fired and tempered in the great forge known as war. But at long last, all of that was about to change.
+
+By now, Nick was convinced that Rita would be an excellent instructor. The incredible slash that had severed a hundred stones at once, her obsession with swords, and the lethality contained in every subtle moment she made told him that his mentor was on a level far beyond his understanding. That his latest reward from the System might be his most valuable yet, catalyzing his transformation from a survivor into a warrior.
+
+Nick knew there was only so much that he could learn in a month, but this opportunity had the potential to be a foundational experience. A turning point in his ability to fight for his freedom and the fate of his people.
+
+By the time that he emerged onto the next floor of Darkstone Tower, he would be stronger and more lethal than ever, and his team would be too. To make the most of this experience, he intended to throw himself into Rita’s training with everything that he had.
+
+Panting as he finished his workout, he looked around for somewhere that he could refill his canteen. He had started pushing himself harder as his enthusiasm soared, building up quite a sweat due to the heat. Now, where can I find something to drink? After poking through the objects stacked alongside the porch, he spotted a spigot sticking out from the side of a massive barrel.
+
+Discovering that it was filled with refreshingly cold water, he filled and drained his canteen twice, replenishing his depleted fluids. When Nick turned back around, Rita was there, watching him with an inscrutable expression. Before he could ask what was on her mind, his attention was drawn to the pair of swords his mentor held in her hands, handling the heavy blades as if they weighed nothing at all.
+
+His eyes widened in surprise when he realized that each weapon was a mirror image of his own. Or at least what Nick imagined the blade would look like if it were whole and unmarred, instead of deeply scarred from its long imprisonment, subjected to the decay inflicted by the crimson rot. A parasite that had feasted on the sword’s magic, before escaping to bring about the downfall of an entire civilization.
+
+As he ran his eyes across her handiwork, Nick was dumbstruck by the quality of Rita’s craft. In less than an hour she had forged not one, but two flawless replicas. A feat so far beyond his ability to grasp that he didn’t even try. Instead, he asked, “That’s amazing. But why are there two?”
+
+Rita’s only reply was a cryptic grin. Without further warning, she tossed one of the blades straight at him. The motion was fluid and effortless, despite the fact that the sword was longer than she was tall.
+
+Sensing that if he let the blade hit the dirt, he would lose a piece of Rita’s respect that he could never regain, his hand darted for the soaring hilt. He didn’t let himself hesitate or imagine what the consequences would be if he fumbled the catch and got clipped by the edge.
+
+To Nick’s immense relief and his mentor’s amusement, he darted forward and snatched the blade out of the air. Deciding that he might as well try to score a few bonus points in the process, he tightened his grip and extended his arms, transferring the momentum into a broad, horizontal slash.
+
+“Showoff.” She laughed as he fell into a fighting stance. “Not bad at all. You’re as green as the noonday sun, but when you’re surprised, you act rather than freeze and I like that look in your eyes. It seems this assignment won’t be a complete waste of my time after all. Take a few minutes to get a feel for the sword, and then I’ll introduce you to Kiki.”
+
+Heart still hammering in his chest, Nick held the sword in front of him, letting the blade’s weight, its presence, sink into him. It was significantly heavier than his own weapon, due to the presence of the pommel stone and the missing patches of metal being filled in. That aside, he could already tell that it was a flawless reproduction.
+
+However, while the blade was a twin to his own, when he took a second, slower swing, he realized that there was a world of difference in the balance. Instead of being top-heavy like an axe or mallet, the sword’s weight was centered two inches above the hilt guard. Nick was certain that if he stuck out his fingers beneath that point, the blade would hold perfectly steady.
+
+Although he was still getting used to the extra mass, the weighting made every subtle motion and grip change feel effortless by comparison. When he tried out a series of basic slashes, each move flowed naturally into the next, instead of the sword’s momentum fighting his hand.
+
+He let out a delighted laugh as he threw himself into the task. He could sense that his range of attacks had expanded. Horizontal slashes were so much easier without the tip of the blade pulling the body down, even from his weaker left side.
+
+“This is amazing.” Nick stopped to thank Rita, who had been watching his movements with the intensity of a hawk stalking its prey. She was evaluating his form while muttering to herself, noting what had to be a long list of bad habits that he was blind to. She walked back into her workshop to retrieve the original and handed it to him. Nick put the weapon back into his bag, then turned to face his mentor once more.
+
+“Alright, that’s enough for now. I think I have a solid sense of where you’re at and where we need to begin. With that out of the way, it’s time for you to meet your sparring partner and begin your training in earnest.” Sparring partner? There’s another warrior here besides Rita? Nick opened his mouth to voice the question, but she cut him off with her next words.
+
+“Before I teach you anything, let’s see how you do in an actual battle. Kiki, get over here!” Rita yelled over one shoulder. He expected another person to come walking out of the ranch estate. Perhaps another newly integrated individual with circumstances similar to his own, or one of Rita’s apprentices or disciples.
+
+This train of thought left Nick completely unprepared for who did show up, or more precisely, for what. Because instead of coming through the entrance to the estate, the door to Rita’s workshop opened once more.
+
+“Nick, meet Kiki. She’s going to help show you the ropes.”

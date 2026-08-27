@@ -1,0 +1,190 @@
+---
+id: 4be79701-3220-539f-9dfd-f9f741c94cdf
+page-type-slug: story-chapter-royal-road
+title: "104 — Book 3, Chapter 3 — Catching Up"
+slug: 0107-104-book-3-chapter-3-catching-up
+partOf: just-add-mana
+position: 107
+ownLength: 3383
+unit: words
+ownProgress: 2375
+publishedAt: 2026-03-03
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3111867/104-book-3-chapter-3-catching-up"
+royalRoadId: "3111867"
+---
+
+While Cale had technically been aware of the existence of crablins—which were, as the name implied, crab-goblin hybrids of a sort—he hadn't been expecting to learn about them quite so intimately. Which felt like the only word he could use to adequately describe having a pile of them tied up on his bed.
+
+Admittedly, he'd been hoping his apprentices would have a surprise waiting for him when he returned. This wasn't quite what he'd had in mind, though.
+
+He stared at the pile for a long moment, mildly impressed both by how tightly bound they were and how much they were squirming in spite of it. So far, the only explanation his apprentices had offered was that Leo had managed to make progress with his magic.
+
+Which was great! Cale was glad for him, he really was. He just didn't know what that had to do with their decision to shove all the crablins into a haphazard pile like this, let alone a haphazard pile on his bed.
+
+At least they had the decency to look vaguely sheepish. All except for Syphus, anyway, who Cale was pretty sure just didn't understand what "sheepish" was as an emotion.
+
+Cale made it a point to give his apprentices vaguely suspicious looks and did his best to hide his amusement. He absolutely was not going to encourage this.
+
+Not until he managed to get back at them, anyway.
+
+"This is what I get for being too excited about coming back here," he said with an exaggerated sigh instead. "Are you sure these conditions are humane, Flia? I wouldn't have thought you'd allow for something like this."
+
+"I'll have you know that these are the ideal conditions to store crablins in," Flia said with a sniff. "I checked with Professor Tarbloom. This simulates the natural conditions of their nesting grounds. We're pretty sure it's how they sleep."
+
+"Tied up in a squirming pile?" Cale raised an eyebrow. "They're squirming a lot for being supposedly asleep. And what do you mean, pretty sure?"
+
+"Yes, tied up in a squirming pile. They're an offshoot of goblinkind," Flia said, as if that explained it.
+
+Cale supposed she had a point. "Still waiting for an explanation of that second part."
+
+"The interpretive spells still need work," Flia said. "We know for a fact this is comfortable for them. We're just not sure if this is how they sleep or if this is some sort of mating ritual. If it helps, we're sixty percent sure it's how they sleep."
+
+"So you're forty percent sure they're currently having a mating frenzy on my sheets." Cale eyed the pile again, now somewhat concerned about the squirming. And the noises it was making, for that matter. They did mostly sound like snores, but it wasn't like he'd had any particularly close encounters with crablins before this.
+
+"Well," Flia said. "We weren't sure when you were coming back, so we figured we should make some use of your side of the room. It's not like you've decorated it or anything, you know?"
+
+Cale snorted. "You're acting like I was going to be gone for months," he said. "These guys haven't been here nearly that long. You wouldn't subject Damien to having to sleep next to that."
+
+Indeed, his dreadshade apprentice looked rather bashful about the whole thing and was very pointedly not looking in the direction of the crablins. He seemed for all the world as if he wasn't involved in this, and perhaps a little over a month ago, when Cale had first come to Utelia, he might have believed that.
+
+But he knew his apprentices better than that now.
+
+"Alright," he said. "So, Damien planned this, and the rest of you went along with it?"
+
+"Wha—" Damien looked indignant, then abruptly deflated. "How'd you know?"
+
+Cale laughed. "You're the only apprentice I've got who would come up with something like this and still have the consideration to have a set of freshly-washed sheets hanging outside to dry," he said, grinning. "I do pay attention to things, you know."
+
+"I knew we should've put the sheets inside Magnus's room," Flia muttered, nudging Damien, who made a mortified noise and withered slightly. She let out an exaggerated sigh of her own before meeting Cale's eyes and grinning. "Yeah, you caught us. We just wanted to make sure your welcome back was interesting. Just in case you decide you'd have a better time gallivanting with nobles."
+
+"Never." Cale made a face and shuddered dramatically, then glanced over at the crablins. "I hope you have a plan for them, though. You're the ones that wanted to study them."
+
+Not that he'd been surprised. Flia was bound to notice the moment they started delving dungeons in earnest. Where exactly did the monsters that appeared in dungeons come from, and why were many of them so aggressive? Left alone for long enough, some of them would develop intelligence and culture. That wasn't so strange by itself, though it posed a moral quandary.
+
+Others, though, appeared with fully intact memories. Logic dictated that they must have been summoned from another one of the Great Realms, yet under magical examination there was no evidence that they were anything but another creation of the dungeon. Was there a meaning to that? A purpose?
+
+Cale had seen many scholars study this, but none of them had quite managed to answer those questions, so he was admittedly excited about this particular project.
+
+"Of course we have a plan," Flia said, feigning offense. "Professor Sternkessel will be along to collect them for the new menagerie shortly. We just got him to agree to let us mess with you first."
+
+Cale burst out laughing. "You got Sternkessel to agree to a prank? I'm almost proud," he said. "Thank you. I couldn't have asked for a better welcome."
+
+It was another mark for Sternkessel's recovery, too, and Cale was pleased to hear of it. Last he'd checked, given a regular regimen of potions, the professor had recovered enough to resume teaching his classes. His powers had largely returned to him, and the only remnant of his transformation was mostly that he was spikier than usual and had grown an affinity for leather jackets.
+
+Cale admittedly still wasn't sure how to feel about that one, so instead of dwelling on it, he changed the subject.
+
+"Anyway, I have my own gifts for you four," he said. His apprentices perked up at the words, crowding around him, and Cale quickly got to handing out his presents.
+
+They did still have classes after this. Their next one was a class headed by Akkau himself, apparently the first one he was personally teaching in something like fifty or so years. In fact, his one request with Cale's leave of absence was that he return in time to join that class.
+
+He'd made it just in time, thankfully. Divine Studies was one of the classes he was actually interested in. It seemed especially relevant given the Gift's request that he look into its origins, and even without that, the relationship between the dark and the divine was something he still didn't know much about.
+
+Cale had been a dark lord before, but many aspects of the role remained opaque to him. It was one of the mysteries that still plagued him—it felt like some of his memories from his time as dark lord were outright missing.
+
+Yet it didn't feel like it did when his memories were forcibly altered or removed. Instead, Cale had the sense that he'd given them up voluntarily, for some greater purpose. Every time he felt for those memories in an attempt to retrieve them, he got the same result: a premonition that told him it wasn't time yet, but that it one day would be.
+
+That same premonition now told him that day was likely coming, and it would be best if he was prepared for it. Divine Studies would play into it somehow, although he wasn't sure how just yet. Apparently, Akkau would be discussing the Fettered Divinity tournament, at least in part?
+
+So Cale was excited about that. Not because he wanted to participate in the tournament, but because it felt like it was important.
+
+Granted, on a more personal note, he was also excited because it was one of the few classes he had with all four of his apprentices. And over the last month or so, it had become very clear that Brightscale Academy had a new Rule that, for the professors, took precedence over all others:
+
+Never put Cale Cadwell Cobbs and all his apprentices in the same class without being exceptionally well-prepared for what would happen.
+
+Kelegas Thornblight stood imperiously on the ramparts of his palace, staring out over his kingdom.
+
+It... wasn't much of a kingdom. It wasn't much of a palace, either, for that matter. The only reason he had a palace at all was because the people he commanded had insisted on building it for him.
+
+And there was a certain irony in that, wasn't there? For people had that pledged to obey his every command, they had rather pointedly ignored him when he told them not to build the palace. The best he'd been able to do was insist on them not expending every resource they had on it.
+
+It was just one of the many restrictions that came with the role of a dark one. There was a way things had to be. A dark one had to have a palace, a throne, and a crown. They had to wear armor of bone and metal. They had to have four generals, each of whom would command some portion of their armies.
+
+As much as he'd tried, Kelegas had yet to find a way to work around those limitations, which didn't bode well for his future plans. He needed to find this potential other dark one lurking around Utelia, and soon—already, more than a month had passed without luck from any of his spies.
+
+More and more, he was convinced that if there was another dark one around, then they had figured it out. There was no other palace, no other region of corruption or desolation that should have suggested their presence. They were in hiding, and if they had found a way to hide at all, then they had information that he needed if he ever wanted to truly free his people.
+
+And he did. Staring out at his so-called kingdom was a reminder of that. How long could he look at their crumbling homes and tell himself that it was fine, that he could wait? Without the whisper of divinity in the land, anything they tried to build would inevitably crumble. The stones they used were weak, prone to collapse; the wood tended to rot, even protected by magic and varnish; even their water turned sour, no matter how pure they tried to keep it...
+
+Divinity created imbalance, and, as always, the forgotten were left to suffer. Once again, a familiar hatred stirred within him, and Kelegas stewed in it for a moment more than he normally would have—allowed the embers to burn into a flame before he forcibly quashed it, exhaling.
+
+It is getting worse.
+
+The thought was difficult to avoid now. Fate itself wanted him to attack, damn the consequences. He understood why it was pushing him on an intellectual level; the more he waited, the more his power grew. He didn't know where that growth came from, but he did know that it was a function of time.
+
+Already, spells that had once required rituals could be cast with a moment of focus. His repertoire of devastating spells grew by the week, each one appearing in his mind's eye as if granted by the Gift itself. By himself, he was now capable of destroying at least mundane armies, if not magical ones.
+
+The longer he waited, the more certain his victory. Fate did not want him to wait, and neither did that contract he'd signed. The game of divinity and darkness was one with a predetermined victor, no matter how ostensibly fair the system was meant to be, and the more he tried to stall the more it gnawed at him.
+
+It only made him all the more determined.
+
+Emline touched him on the arm, then, concern written clear in her face, and Kelegas turned to smile down at her. "You read me too well," he noted.
+
+"Only because you wear your thoughts so openly," she said, adopting a light, teasing tone. "What bothers the great dark lord now? More thoughts of vengeance upon the blessed?"
+
+Kelegas sighed, though he saw the humor in her words. She ridiculed it to help anchor him, but more and more... "I wish I could say no," he said. "It is becoming increasingly difficult to ignore."
+
+"Ah." Emline hummed in thought. "Perhaps a distraction is in order?"
+
+"Tempting, but... not right now, my dear."
+
+"Not that kind of distraction." Emline laughed softly, shaking her head. "No. You need to spend more time among your people. You are too focused on everything that harms them."
+
+"Should I not be? It is my role. I chose to rule over them, and that with that choice—"
+
+"—comes responsibility." Emline chuckled. "I begin to think you suspect me of having a poor memory, with how often you repeat it."
+
+"It is a reminder to myself, more than anything," Kelegas admitted, though the words came out slightly guilty. Had he been treating her that way? Before he could ruminate on it, Emline rolled her eyes and gave him an affectionate kiss on the cheek.
+
+"I know," she said. "But if you are to rule, you cannot focus only on what hurts your people. You must know their strengths and understand what brings them joy. How can you build a kingdom they wish to live in if you do not? One cannot build a people through subtraction alone; you think so much of what they cannot do that you have not stopped to consider what they can be."
+
+The words resonated with him. Kelegas hesitated, reflecting on her words for a long moment, then slowly nodded. "You speak wisely, as always," he said, his voice soft. "What would you have me do, then? Walk amongst them? I have tried before, but they do not act as they normally would around their king."
+
+"A problem that I am continuing to look into, as I promised," Emline said, reaching down to give his hand a squeeze. "I do not have a solution as yet, but I believe I am close. A mana channeler could, in theory, share a small part of your essence with your subjects. Just enough to mask the instinct to search for their ruler."
+
+Kelegas felt a small, childish hope flare to life within him, though he tried to keep it out of his voice. "You are certain of this?"
+
+"Not as yet," Emline said, holding up a hand. "And it will be difficult to acquire a mana channeler of sufficient quality, let alone make the necessary modifications. But my research indicates it could be done, and rest assured, I will not stop working on it."
+
+"Thank you." Kelegas hesitated for a moment, then bowed deeply to her. He didn't know where he would be without her and Steve; they did so much to support him, and they were the only two he knew that weren't mired in the tangle of impulse and submission that came with being an aberration. They were the only reason he wasn't lonelier than he already was.
+
+He'd had a life before choosing this role. He couldn't remember what that life was—likely never would—but would the transition have gone so smoothly without them by his side? He doubted it. They had been willing to suffer it with him, believing in his cause and his odds of success, and while the memories of that moment had faded, the loyalty it inspired to each other had not.
+
+"You are being far too melodramatic, Kelegas Thornblight," Emline said, laughing. "What are you doing, bowing to your queen consort? We have things to do! Chief amongst them being a visit to the Ocean Division, which I believe you have been neglecting."
+
+Kelegas had begun to smile at her laugh, but the smile vanished at the mention of the Ocean Division, and his answer came out embarrassingly plaintive. "Do I have to?"
+
+Ocean Division made him uncomfortable, as much as he hated to admit it. He loved all of his subjects equally, but the aberrations of the sea...
+
+Well. It was not that he did not love them, exactly. He wanted for them what he wanted for everyone else, and he would fight for them with equal vigor. It was just that they made him viscerally uncomfortable in a way that he was consciously aware was unfounded—
+
+"You really must get over your fear of tentacles, my dear," Emline told him, and Kelegas groaned, embarrassed.
+
+"It is a rational discomfort," he said stubbornly. "There are entirely too many of them and they are entirely too wet."
+
+"You have already admitted to me that it is an irrational fear, my dear. Backtracking now helps no one."
+
+Kelegas grunted. "I do not understand why they all must have tentacles," he groused. "Can they not simply grow less of them?"
+
+"Do not let them hear you say that." Emline patted his back consolingly. "Besides, overcoming your discomfort will be a worthwhile distraction, will it not? And they have an update that should please you; for one thing, they have acquired a new selection of recruits that bring a much-needed cheer to the division."
+
+Kelegas winced. The other reason the Ocean Division made him uncomfortable was that its members consisted of aberrations that emerged from the deepest depths of the ocean. As much as the tentacles made him uncomfortable, the deep sea frightened him in a way that was difficult to explain.
+
+Perhaps it was simply that it reminded him of the process of becoming a dark lord. That had involved an unrelenting, endless pressure around him, demanding a reshaping of his very soul, carving away pieces that did not suit its purpose.
+
+He fought it, of course. The plan required that he fight it. He had to avoid allowing himself to be reshaped like so many of the others, yet still acquire enough of a dark lord's abilities to tap into the experiences of the others...
+
+Kelegas was relatively certain he had succeeded, but the fight had left him scarred. Perhaps that was the root of his discomfort with the Ocean Division.
+
+"Trust me," Emline told him. She took him by the arm, leading him to the transportation circle that would take them to the Ocean Division barracks. "I will be with you, and you know you cannot appear selective about your own people."
+
+Kelegas sighed. "I am... aware of the problem," he admitted reluctantly. "Please ensure that I visit regularly moving forward. I should not allow my personal difficulties to hinder my relationship with my people."
+
+"I will be sure to do exactly that," Emline said with a playful smirk. "Do not look so apprehensive! Ocean Division has made some great strides—you will be glad to hear of them, I promise you that. For instance, they have discovered fragments of prophecy within the ocean about one of the ritual components you have been searching for; apparently the blessed have been using it as a reward for this tournament they hold..."
+
+Kelegas blinked, surprised—that was significant, and she was right in that he should have visited earlier. He listened attentively as she spoke, and found, against all odds, that he was relaxing. That the distraction was working, in some small way.
+
+It wasn't nearly enough, but it helped, and it calmed his mind just enough to set it working.
+
+Perhaps there were other methods he could use to draw out the other dark one he'd been so curious about. A ritual that would call to them, or to something they desired. He had a spell like that, did he not?
+
+He would speak with the Ocean Division first, which he was no longer quite so apprehensive about. After that... well, he would have to see.

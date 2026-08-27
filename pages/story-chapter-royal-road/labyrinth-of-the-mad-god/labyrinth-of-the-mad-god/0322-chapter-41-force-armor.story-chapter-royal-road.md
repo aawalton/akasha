@@ -1,0 +1,149 @@
+---
+id: 95444d89-8631-53a9-9791-c8786b493a95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41: Force Armor"
+slug: 0322-chapter-41-force-armor
+partOf: labyrinth-of-the-mad-god
+position: 322
+ownLength: 2007
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3562747/chapter-41-force-armor"
+royalRoadId: "3562747"
+---
+
+Nick quaffed his elixir to restore his vital energy. He sighed in relief as the tasty concoction erased his cuts and bruises, then skywalked high enough to peer over the treetops, praying that nothing had noticed the clamor of combat and was headed their way.
+
+When he was confident that the party was safe for the time being, he volunteered to take first watch while his friends got some sleep. He was planning to try his hand at harvesting the monsters’ stingers and shells, but before he began the grisly task, there was something he wanted to do first—pull up his menus and check out his gains.
+
+“Holy shit,” Nick swore softly when he saw how many updates were awaiting his perusal. He started with the massive batch of messages in his city menu, grinning from ear-to-ear when he learned that Elizabeth had taken Aurora to City Tier 6, selected the specialization they had agreed on, and placed the University.
+
+His eyes went wide when he realized how many settlements had joined Team Earth, nodding in agreement as he read the description of the skill they had chosen. Sense Hostility would come in handy when interacting with other settlements and exploring the Labyrinth. It should synergize with Psi to boost his mind sense and enhance the feedback from Size Up, not to mention, help him figure out who he could trust if he met any natives during his brief stay on this world.
+
+Expanding the faction should have boosted his title too, which he decided to examine next.
+
+First Among Equals
+
+Effect: Receive a 50% bonus to experience, essence, and skill gains acquired from any activity that benefits the members of the Promethean Coalition.
+
+Whoa. His jaw dropped when he saw how much title had improved. That’s an insane bonus. It will make a huge difference when we take on the dreadbeasts. Filled with a visceral surge of satisfaction from taking a big step forward on his path to power, Nick swiped the floating screen and kept right on reading.
+
+Congratulations. You have accumulated enough experience to reach level [40].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+As a milestone reward for reaching level [40], you have been awarded a bonus free attribute point.
+
+You have 3 free attribute points awaiting allocation at your discretion.
+
+By pushing yourself to the limit in the midst of a deadly battle, you have improved the following baseline attributes:
+
+Dexterity has increased from [24] to [25].
+
+For reaching the Grade-D attribute cap in Dexterity, you have been awarded with 5 additional points of Dexterity.
+
+Mind has increased from [23] to [24].
+
+Psi has increased from [13] to [15].
+
+By empathizing with another creature and improving your relationship, you have improved the following baseline attribute:
+
+Charisma has increased from [16] to [18].
+
+It’s nice to see my Charisma ticking up after all this time. Going from rivals to… friendlier rivals with Lurk is paying off in more ways than one.
+
+Moving on, the boost to his Dexterity was fantastic, and he couldn’t wait to earn more milestone bonuses for his other attributes. Nick was looking forward to testing out his new agility after he got some rest, but for now, he continued reading.
+
+Through use, you have improved the following skills:
+
+Acrobatics has increased from [15] to [17].
+
+Evasion has increased from [26] to [28].
+
+Light Armor has increased from [15] to [18].
+
+Light Shield has increased from [25] to [29].
+
+Pathfinding has increased from [6] to [11].
+
+Sense Hostility has increased from [0] to [5].
+
+Size Up has increased from [28] to [31].
+
+Stealth has increased from [13] to [17].
+
+Sword has increased from [33] to [35].
+
+Tracking has increased from [15] to [18].
+
+Vital Energy Manipulation has increased from [20] to [22].
+
+Wand has increased from [25] to [26].
+
+He was shocked by how many skill increases he had obtained since the last time he’d opened his menus. Liz must have added all those new members and boosted my title early in the day, which explains how Sense Hostility shot up so fast. Now I know why I had such an easy time sensing the minds of the monsters that were stalking us.
+
+Everything he had read so far was flat-out amazing, but there was one final message awaiting his attention that made him so excited that he wanted to dance.
+
+For gaining your 15th level in the class [Force Weaver] you have been awarded an additional class ability. On this occasion, the ability will be chosen for you, based on your current Build and needs.
+
+The ability you have been granted is: Force Armor.
+
+The reasons it was chosen are: 1) Your physical defense is insufficient to shield you from Tier-2 opponents. 2) You do not possess an aura that benefits your party.
+
+Force Armor
+
+Type: Spell, Passive, Aura.
+
+Range: 50 feet.
+
+Force Armor generates a thin, incredibly durable layer of force mana over its caster and any allies within range. The forcefield is flexible and will not impede mobility in any way. The aura will wrap itself around its recipients’ armor, clothing, and exposed skin. If the spell is shattered, you must pay additional mana to recreate it.
+
+By the time Nick finished reading the description, he was so pumped up that his hands were shaking. While he would never forgive the galactic AI for what it had done to his people, he had to admit that the System had done him a solid this time.
+
+Force Armor was exactly what he needed right now. The ability would shore up one of his major weaknesses—low defense beyond his inherent Toughness. His armor was decent, but it wasn’t designed to handle the damage Tier-2 enemies could dish out. Since the aura was force-mana based, his traits would boost its output, making Force Armor a perfect fit.
+
+He’d been hoping to acquire an aura ever since the decisive battle for Earth. The fight with the Guardian and the brawl with the Armada Wurm had shown him just how useful aura stacking could be, enhancing every member of his team in addition to bolstering his personal power. Parties where every member had an aura to contribute were inherently more powerful than those without. And they are even more critical during large-scale conflicts.
+
+Nick didn’t have any empty ability slots right now, but since this was a class-granted ability, the aura didn’t need a slot while he was a Force Weaver. After he advanced it to rank 1, it wouldn’t require a slot after changing classes either.
+
+As he completed that brief analysis, he felt the System reach inside his skull. Its ghostly fingertips molded his gray matter like wet clay before carving the energetic pathway into his synapses, instilling an instinctive understanding of how the aura worked. When the neural alteration was complete, the System connected the pathway to the energetic core resting two inches below his heart, at which point, his newest spell was good to go.
+
+Since it wouldn’t wake his friends up, he was ready take his awesome new aura for a test drive here and now.
+
+Tingling with anticipation, Nick switched the spell on. Before his delighted eyes, a layer of force mana emerged from his core and spread across his skin, encasing his body in a shell of transparent energy.
+
+As the System had promised, the armor was weightless and didn’t restrict his range of motion. He was pleased that it protected his toolbelt and backpack too, although the dimensional storage device had proven to be impervious to damage thus far.
+
+For his final test, he formed a set of Force Armor around Bandit, Lurk, and Kenji, getting a feel for the cost of protecting the whole party at once. It took a decent chunk of mana to form each set of armor, which he assumed was the same price he would pay if the spell was shattered and needed to be reformed. However, with his Magic approaching triple digits, using the aura wasn’t probability expensive. Even if he had to restore it several times over the course of a battle, maintaining the ability was trivial compared to his innate mana regeneration.
+
+His friends were fast asleep, but Nick was too amped up to wait until morning to discuss his incredible gains. With an effort of will, he sent his mind into Blightbane’s Blade World, where he could speak to Fritz without any time passing.
+
+As usual, the Kastillan King was standing in front of his modest farmstead, watching as Nick descended into the Blade World and landed beside the dwelling. Fritz knew he wanted to talk, but they couldn’t afford to waste their daily training time by standing still, so they exchanged a rapid series of slashes and parries while discussing his newest power.
+
+“That aura is great,” Fritz said, whose voice didn’t echo across Nick’s soul in here like it did in the outside world.
+
+“It will dramatically extend that pile of health potions sitting in your backpack and reduce the odds of someone taking a fatal wound before you can treat them. Since your party doesn’t have a dedicated healer, Force Armor will significantly increase your chances of completing this quest without any casualties.”
+
+The king had decades of combat experience and centuries of using magic under his belt, letting him evaluate the advantages and limitations of Nick’s new aura. At the same time, Fritz helped him adjust to his boosted Dexterity, showing him how to make the most of the extra agility. When their time was up, Nick thanked the man for his help and returned to his body.
+
+He was so wound up that he couldn’t sleep. When his friends awoke, the monster parts had been harvested, and breakfast was waiting. He shared the details of Force Armor between bites and let everyone know about the big news from back home.
+
+The others pulled up their menus to peruse their own gains. “Elizabeth is expanding Aurora and building a global civilization far faster than I expected,” Kenji spoke with respect in his voice. “That woman is brilliant. We’re lucky she’s on our side.”
+
+“I have long since lost count of the ways I’m blessed that Liz is in my life.” Nick smiled. “I can’t wait to see everything in person when we get back.”
+
+“And I can’t wait to officially join your faction,” Bandit added. “My people need those faction skills if we want to survive over the long haul, including the new skill you pick when you hit Faction Level 3.”
+
+“With any luck,” Nick replied, “we will finish this quest finished before long, and we can invite you, along with all the other beast tribes that joined our alliance.”
+
+“That reminds me.” The lemur nodded along with his words. “I know where the Team Earth nickname came from, but what does the ‘Promethean Coalition’ represent?”
+
+Kenji knew more of the details than Nick. He recounted the legend of the man who stole fire from the gods and granted it to humanity, enabling the birth of civilization.
+
+“I see.” The beast finished the last bite on his plate and handed it to Nick. “I like the symbolism. Very fitting under the circumstances.”
+
+Nick put everyone’s dishes into his backpack, separated the waste with an effort of will, then removed it from his dimensional storage and buried it along with the ashes from their fire. They were ready to head out, which meant he just needed to spend his attribute points, and he was ready to roll.
+
+Mindful of the System’s warning that he needed more defense if he wanted to survive blows from creatures like the dreadbeasts he was hunting, he put his points into Toughness again, which he planned to do for at least a few more levels.
+
+When the upgrades to his tissue were complete, the party fell into formation and resumed their quest—eager to put an end to the dreadbeast monarchs, secure the System’s reward, and begin their long journey home.

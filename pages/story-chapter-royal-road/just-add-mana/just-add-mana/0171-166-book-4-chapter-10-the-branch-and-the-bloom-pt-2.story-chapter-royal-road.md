@@ -1,0 +1,187 @@
+---
+id: b0bd4f13-6496-5cf7-9a54-f51394ece773
+page-type-slug: story-chapter-royal-road
+title: "166 — Book 4, Chapter 10 — The Branch and the Bloom, Pt 2"
+slug: 0171-166-book-4-chapter-10-the-branch-and-the-bloom-pt-2
+partOf: just-add-mana
+position: 171
+ownLength: 3446
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3746251/166-book-4-chapter-10-the-branch-and-the-bloom"
+royalRoadId: "3746251"
+---
+
+T'vela left them alone after that, saying she had to report to the queen that strangers had arrived and offered to help. Cale suspected that was her way of giving them privacy—she could not admit to anyone that she was allowing them the chance to examine and probe the sick, but by leaving and ordering the rest of the caretakers to stay outside the tent, she was essentially giving them that permission.
+
+"This is fascinating," Professor Imrys said. She leapt up onto one of the infirmary beds, poking at a flower with her cane and causing the atverian it was attached to to let out a low groan of pain. Thorn frowned and, without a word, cast a spell that caused a vine to erupt from the ground and push Imrys back. "Goodness, my dear, I wasn't looking to harm him."
+
+Thorn gave her a flat look without bothering to respond, and to her credit, Imrys just smiled and stepped back. "My cane allows me to perform an analysis of all the enchantments on an artifact or relic," she said. "It's not quite as effective on living things, but a person infected by a plague is a little bit like an artifact, if you think about it."
+
+"I'm pretty sure they're not?" Damien said.
+
+"Now you're just being silly." Professor Imrys patted him on the arm again. "This may not be my Ancient Artifacts class, but don't you think I'll be letting you fall behind! Artifacts are characterized by a power source and an enchantment, yes? Magical plagues, blessings, and curses all use the same principle; they just use the mage's mana core as the source.
+
+"It's not a perfect analogy, mind you, but it's the reason I can do a teensy bit of diagnostic magic," she continued. She ran a finger along the length of her cane, causing it to glow with mana, and Cale felt a thin stream of it return to her core through her finger. "And goodness, but this is an interesting plague. It is magical, they are correct about that. I believe it is rewriting the mana core itself? But without weakening it. How strange!"
+
+Thorn shook his head. "This is a waste of time," he said curtly. "Cale. We should investigate the source of the plague directly."
+
+"Didn't you say these blooms are meant to warn us to stay away?" Cale asked, frowning. "I'm not sure we should walk in there without knowing more."
+
+"Only when they grow on vinewalker bodies." Thorn said nothing more for a moment, though Cale could tell he had many thoughts running through his mind.
+
+The same ones Cale himself was having, most likely. Thorn had noticed the same thing—T'vela had claimed she needed to discuss with her sisters what they could reveal to them as "outsiders," but if the plague was the entirety of the problem, why would such a discussion be necessary? Why had T'vela mentioned only the plague itself, and not when it had started or what might have caused it?
+
+Cale thought it was likely that the atverian colony here either knew or had their suspicions about what was causing the plague, and that was what they were keeping secret. And Thorn evidently agreed, because he eventually let out an aggravated sigh and approached one of the beds, where a barely conscious, feverish atverian panted and shivered.
+
+"T-tendril..." the atverian whispered softly when he saw Thorn appear in his field of vision. "Have you come to reclaim me for the Holy Mother?"
+
+"No," Thorn said quietly. The word came out gentle—far gentler than Cale had been expecting from him. In fact, his entire demeanour seemed to soften, as if he knew that this atverian had been through enough. "I need your help. Can you tell us your name?"
+
+The atverian struggled to focus. "It is... A'ruk," he managed, the words raspy. "Mate to T'vela. Is she... is she here?"
+
+"She left to tell your queen that help has arrived," Thorn told him. He reached out to take one of A'ruk's hands, a vine coiling around it with remarkable tenderness. Cale felt the pulse of a spell being cast, and a pale green light bloomed along that vine; soon, A'ruk's breathing eased, and he let out a quiet sob of relief.
+
+Thorn gave him a moment before he spoke again. "This tent holds only the sick for now. Can you tell us how this happened?"
+
+A'ruk closed his eyes and squeezed his hand around the vine, as if drawing strength from it. "T'vela brought you here, didn't she?" he whispered. "Just like her... can't tell you herself without lying to the queen, so she leaves it up to me.
+
+"And I sense others with you," he added, though his eyes were bleary and unfocused. Cale doubted he could see far, but his mana sense must have made up for it. "I suppose... that means you are neither Tendril nor from these parts?"
+
+"She trusts you greatly," Thorn said, neither confirming nor denying the guess, and A'ruk let out a quiet laugh.
+
+"Yes," he said, something fond in his voice. "We are childhood friends. How... how did you know to speak to me?"
+
+"She lingered near your bed for a moment more than the others," Thorn said, shrugging. Cale raised a brow. Thorn had been watching everything closely, it seemed.
+
+"Oh? Clever of her..." A'ruk smiled and leaned back in his bed, though not without a pained wince; the movement pulled against the vines and thorns that infested his body. "And you must be quite clever yourselves. If only I could speak to you all in earnest... I can sense your presence, but my vision is quite poor at the moment, I am afraid."
+
+"Can you tell us how this happened?" Thorn repeated.
+
+"Ah, yes... I have a habit of rambling." A'ruk chuckled, then fell into a fit of coughs, shuddering at the pain that each one wrought from his body. In response, the glow from Thorn intensified, and after a moment the atverian managed to steady himself. "Thank you. I will answer your questions, just allow me to gather myself. I do not quite know where to begin...
+
+"You have noticed, perhaps, that there are few other vinewalkers in this camp." A'ruk smiled faintly, not seeming to notice the way Thorn tensed at those words. "Our relationship with the Holy Mother and her Tendrils is... unusual. Your kind filled our halls, once, but that was a long time ago. One by one, you began to move away, to build a life and people of your own. There were those of us that resented that fact and there were those of us that supported it, but none could truly claim the right to keep you with us.
+
+"You established a small colony of your own, not far from here, and for a while, the relationship between our peoples was... cordial. Perhaps not ideal, but we were on speaking terms, and we would share our food amongst each other, at least.
+
+"Then the Holy Mother came to bestow upon us a new task, and for the first time, she did not create a new Tendril to do so. Instead, she seized hold of one of the many vinewalkers within the colony."
+
+Thorn tensed. "Why?"
+
+"We don't know," A'ruk said quietly. "But when she left him, he had... reset. He had no memory of his friends or family, and he chose to stay with us, instead of returning."
+
+"And it happened again." Thorn's voice was almost a growl, and Cale reached out to place a hand on the vinewalker's shoulder. His entire body was trembling as his vines coiled tightly against one another. Did he know something of this? This was a legend Cale himself wasn't familiar with; history may have played out in parallels, but he'd never heard of the Holy Mother taking hold of a Tendril she had already freed.
+
+"It did," A'ruk confirmed. If he sensed Thorn's rage, he said nothing of it. "We do not know what caused this plague, but we do know that it began in the vinewalker colony."
+
+Something about the way he'd said that... Thorn was too angry to notice, so Cale took over. "You don't think they're at fault," he said.
+
+"We have seen and heard nothing of the vinewalkers that live there," A'ruk said. "Many among us believe that they have chosen to war against us, and that this is the first of their attacks. They plan to burn that colony to the ground, but they cannot yet get there without becoming infected. It is the only thing that protects them, and it will not last. Even now, my brothers build on a ritual that will erase what remains of them... I worry for their safety."
+
+"So T'vela asking us for our help is a last-ditch effort to avoid that," Cale mused. Beneath his palm, he could feel the result of Thorn's agonized, conflicted thoughts. Several of his thorns grew and shrank as he breathed and tried to calm himself. "But she can't tell us that directly, or her sisters will report to the queen?"
+
+"I believe so," A'ruk confirmed. "I cannot act myself... You see the state I am in. The plague does not worsen or spread outside that boundary, but it has no cure, either."
+
+Cale took note of that. "We should visit that vinewalker colony for ourselves," he said finally, nodding at Thorn. "If we can work out a way to make sure we don't get infected by the plague—"
+
+"Um," Damien interjected nervously. Cale glanced at him, surprised. "I have a question, if that's okay?"
+
+"Of course," Cale said, gesturing for him to continue.
+
+"It's just, you didn't explain why you and T'vela are so sure it isn't them?" Damien said, before hurriedly adding, "Not that I think it is them! But it sounds like you have a lot of faith that everyone else doesn't, and I think that might be important?"
+
+A'ruk laughed at that, though he winced in pain again as a result. "Ah... To think a fledgling would catch us when so many of our fellows have not," he said, shaking his head. "T'vela is my mate in name only. Her true love is a vinewalker within the colony. Before this happened, many were suspicious of her constant visits to that colony, and revealing the truth would have destroyed the trust many have for her. Since I have no interest in finding a mate myself, I offered to help her hide the relationship by becoming her official mate within the colony."
+
+"Huh," Cale said. His mind whirled—that might have sounded unimportant, but it reminded Cale of something. He wasn't sure what it reminded him of yet, though. "Great catch, Damien."
+
+Damien gave him a shy thumbs up.
+
+"We still need a way to get to the vinewalker colony," Cale said. "If you can give us a direction—"
+
+"South, toward the root with the massive knot," A'ruk said. "You cannot miss it."
+
+"—Great. Then we just need a way to keep ourselves from getting infected. We don't know how this spreads yet, so it might be better if I go first, to see if my regular barrier can handle the infection."
+
+"Cale," Leo said. "I know you can reincarnate, but you realize we don't have a way to find you if you die, right? Even if we can now hop realms?"
+
+"...Huh. Right." Cale blinked. "Maybe that's not a good plan."
+
+"There is no need for that," Featherstrike said, finally speaking up. Cale had thought he'd been silent and contemplative for much of their conversation, but he realized suddenly that the avian mage had spent the entire time casting; he'd just hidden the motions and magic within the fabric of his cloak.
+
+The fact that he'd kept his mana stable the entire time was astonishing, though. No wonder he was a wyldfire mage. Cale had almost forgotten, thanks to the whole flailing-around-for-ten-minutes incident, but he was both skilled and evidently taking Imrys's warning about not destabilizing the stream very seriously.
+
+"The plague spreads only within a boundary, according to T'vela," Featherstrike continued. He brandished six feathers from within his cloak, each one glowing with dizzying spatial magic, and handed them out to every member of their group. "Outside that boundary, it cannot spread, even if someone has already been infected. These talismans will keep us 'outside' the boundary by a technicality. Think of it as something of a spatial bubble."
+
+"Whoa," Cale said, impressed.
+
+"A spell like this requires an anchor, of course." Featherstrike pulled out a seventh feather. Unlike the others, Cale could sense almost no magic from it—it was only when he dialed his mana senses up to their maximum that he noticed the tethers that kept it linked to the other six. "We will occupy the position of the anchor at all times. A'ruk, I believe I can trust you to hold on to this?"
+
+A'ruk stared at it in awe. "I would be honored," he said. "I have never been allowed to touch such great magics before."
+
+"I have some concerns about atverian culture," Leo said. "Mostly, uh, why?"
+
+"Atverian men are mostly just there to propagate the colony," A'ruk said absently, taking hold of the feather and admiring it. "We do not train to fight or learn magic. Many of us turn to the arts, but I cannot help but feel as though there is much we have been missing. Thank you for this, Feathered One. I will treasure it."
+
+"You can just call me Featherstrike," Featherstrike said awkwardly. "Keep it outside the plague boundary, if you would."
+
+"Of course," A'ruk said. "You do not have to worry. I could not leave if I wanted to. I wish you luck discovering the cause of all this, and I hope no one comes to further harm."
+
+There was, in fact, a massive root on the horizon that was tangled within a very noticeable knot. Even if that hadn't been there, though, the group would have been able to find it through their mana sense alone. While it had not been obvious at first, the boundary of the plague became more obvious the closer they got.
+
+They had, after some discussion, decided to leave and investigate without waiting for T'vela or any of her sisters. She was clearly both attached to the situation and politically bound to her queen—there was a reason she had left them when she had. It was best they act on their own, to give them some plausible deniability.
+
+"Are you alright?" Cale asked Thorn, whose expression had remained dark throughout much of the trip. He grunted noncommittally at first, but eventually, he spoke.
+
+"If you met the Holy Mother," Thorn said. "Would you free her, as you did Astiviya? Do you believe she is a slave to her domain?"
+
+Cale frowned. "She's different from most other gods," he said. "Atverians aren't exactly a hive mind, but she's so imprinted on their species that some version of her is created in every realm they appear in. The way I understand it, she managed to link up with all those other versions of herself, so she's a lot more powerful than the average deity and has the knowledge and ability to act across realms... Honestly, she's basically almost a pseudo-Monolith."
+
+"She does not embody a Law," Thorn said.
+
+"Which makes her less limited." Cale shook his head. "I don't think there's anything to free her from. She reminds me a lot of the Outer Gods in some ways. She's spread out across so many realms that she has no real context for how much harm she does to her own children."
+
+Something in Thorn seemed to relax minutely at that, as if he'd almost been afraid that Cale wouldn't acknowledge the problems with what she was doing. "Yes," he said quietly. "She calls herself the Holy Mother, but she has not earned the name."
+
+"If I met her..." Cale thought about it for a moment. "I dunno. I'd probably give her a stern talking-to."
+
+That made Thorn smirk, amused and—was there a hint of fondness in his expression? It was the first time Cale had seen him display that feeling so openly. "Is that so?"
+
+"Well, I can't exactly slay her," he said. "I could slay a version of her, but not all versions of her at the same time. Not without a very specific spell, anyway. I'm pretty sure the best I can do is monologue at her until she's permanently traumatized across all the realms, which, to be clear, I am very good at."
+
+Thorn snorted. "I am inclined to believe you," he said. "Seems no deity would survive contact with Cale Cadwell Cobbs, no matter the intent."
+
+"You don't have to put it like that," Cale said. "I don't need you putting me up on a pedestal, too."
+
+"It is not a pedestal I would put you on," Thorn said.
+
+Cale blinked. "What's that supposed to mean?" he asked suspiciously. Thorn sped up instead of responding, putting on some sort of—was that a cowboy hat? Where had he acquired a cowboy hat?! Cale chased after him. "Hey! What's that supposed to mean?"
+
+It was probably a little bit ill-timed for their first real bonding moment to come in the wake of a tragic story and a potential magical plague, though Cale was of the opinion that some levity could improve almost any situation. It just had to fit the moment, and he'd learned a thing or two about how to make it fit the moment. Apparently, so had Thorn; Cale still had no idea where and when he had acquired that hat.
+
+All that levity fled, however, as they finally approached the boundary of the vinewalker colony.
+
+The place was essentially a forest, though the trees were towering fungal growths rather than actual trees; they were growing on a tree, after all. There was something eerie about the unnatural coloration of it all. Bright purples and oranges filled the canopy above them, and glowing fungal blooms lit the tangle of growth below. filled with a thick tangle of all sorts of vines and flowers.
+
+In spite of that, there were also actual plants abound. That was no real surprise, though, and it wasn't what made the group go suddenly quiet. If this had once been a vinewalker colony, then it was only natural that they had begun to make it their own.
+
+The problem was the corpses.
+
+"I—" Leo started, pale, stopping mid-sentence once before he forced himself to continue. "I thought A'ruk said they thought the vinewalkers caused this. They wouldn't have infected themselves, would they?"
+
+"Plague magic is dangerous work," Cale said quietly. "Sometimes you unleash it and end up a victim of your own power. But no, I don't think that's what happened here. Most of these bodies are fresh."
+
+Littered within and among the fungal undergrowth were dozens of vinewalker corpses. It was hard to tell how many there truly were, considering how thick the growths around them were, but each one bloomed with the same crimson flowers—the ones Thorn had called the agaût-mortis. In this concentration, it felt very much like a warning blaring out at them. Even Cale felt an urge to step back.
+
+But there was a problem even bigger than the presence of those corpses. It wasn't unusual that there might be corpses in the wake of a magical plague.
+
+"Um," Damien said. "Is it just me, or..."
+
+"Not just you," Thorn said shortly. All trace of humor had vanished from him, and he stepped into the boundary with a grim look on his face.
+
+Cale saw it too. There were dozens of vinewalker corpses, yes, many of them freshly made, but that was not the part that worried him and told him that this was more than some simple magical plague.
+
+Every agaût-mortis bloom appeared in the same place on each corpse. They emerged from the same vines, held the same pattern of sickly green; even the positions of the thorns on each corpse was the same.
+
+Now that he thought back on it, the sick atverians in that tent had been in a similar state. It had only been disguised by the fact that each atverian was at a different stage of the illness, masking the similarities. Here, however, they could see plainly the final stage of this plague.
+
+"They're all the same corpse," Cale said. "These aren't from the vinewalker colony. They probably weren't even vinewalkers before the plague infected them. They're just... People that fell to the plague."

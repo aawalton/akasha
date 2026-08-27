@@ -1,0 +1,373 @@
+---
+id: a8735f03-1d3c-55e9-bfd0-34ac8203a3ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20 – Dwarven Guidance"
+slug: 0020-chapter-20-dwarven-guidance
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 20
+ownLength: 3816
+unit: words
+publishedAt: 2024-11-30
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1933062/chapter-20-dwarven-guidance"
+royalRoadId: "1933062"
+---
+
+Kindra looked out at the hazy land. Fog spread through the air, and her army of undead surrounded her. Great. I’m dreaming again.
+
+Like thousands of extra limbs, she felt the connection to them and willed them forward. “Kill them all,” she hissed in some foreign tongue. Why do I have these dreams? She looked at the foggy air that blocked her view. And what am I attacking in this one?
+
+Like ghosts, the undead surged forward, vanishing into the fog. She smiled and followed, walking down the dirt road. She felt a connection end. Then another. Then another. Individual connections became a thousand snapping threads, plucking against her mind in a frenzy. Her smile shifted to an angry frown. Is this what it’s like for them?
+
+Walking forward, a ray of light sliced through the fog, ripping it from the road. Looking at the distant town, Kindra saw a lithe elven woman with platinum hair on the wall. Her gold eyes and her leather armor were glowing in a vibrant golden light. What spell is that? She focused on the distant runes, trying to focus on what her dream body was doing.
+
+Is that an enchantment? She studied and flicked out her hand, willing magic forward. The woman vanished, and a blade slammed into Kindra’s body, sinking through her chest in horrific agony.
+
+She gasped. Her eyes went wide. The smell of her blood filled her mouth, and a shield of magic flashed into existence, knocking the figure and sword away.
+
+Coughing blood, Kindra grabbed and downed a glowing potion. She turned to the elven figure and spit blood. “Too late, bitch,” she hissed. Weaving a spell with her hand, she took a deep breath and ignited it. Rippling green gas filled her bubble. A boulder slammed into her shield, and she ignored it, invoking a sequence of runes.
+
+How did that not wake me up? Kindra swallowed and felt her flesh knit together. The woman blurred, and the shield quivered as thousands of strikes hit it.
+
+How fast – The shield burst into a billion shards of magic. Time distorted. Space quivered, and Kindra’s body jerked across the cosmos, leaving her with a blurry room and the taste of blood in her mouth.
+
+She felt horrible pain across her neck. Did she try to cut my head off in less than a second? She swallowed and felt her throat heal.
+
+Blinking away the blur, she looked at an ornate room. Bookshelves lined the walls. A fire blazed in the hearth, and everything shook. The walls wobbled. The polished floor buckled, and the dream crashed around her.
+
+Shit! Adrenaline spiked through her, and her eyes opened to reveal Dain standing there with a smile. I hate these dreams.
+
+She shivered, trying to force the images away. They lingered, leaving an ache in her body and throat. She pulled the blanket close. It was just a dream—a horrible, horrible dream.
+
+“Good morning,” Dain said, patting her leg. “Sleep well?”
+
+Kindra groaned and shook her head.
+
+He grabbed a chair and moved it next to the bed. “Time to get up so you can finally leave the house.”
+
+Kindra shivered and pulled the blanket closer. “I’m not ready.”
+
+“That’s not what you said yesterday.” Dain chuckled and pulled the blanket away. “Come on. You know enough to communicate, even if your accent is atrocious.”
+
+Kindra forced herself to sit up. She stretched, and the lingering pain faded.
+
+He pulled out a book. “I did some reading. For crafting classes, we have a few that deal in metal, but let’s focus on yours. You said it gave two intellect and Enhance Item at the start?”
+
+She nodded, and he flipped the page, pointing at some runic script she didn’t recognize.
+
+“Based on that, I believe it’s the Artificer class. The blacksmithing class is more balanced, with a focus on strength primary and dexterity if you get tier three or higher.” He glanced at the page, rapidly scanning it. “And you were given a choice between crafting and combat at level three?”
+
+“Yes.” Kindra looked at the book, surprise spreading on her face. Death made the system not that long ago. She looked at the book. “How long have you had this?”
+
+Dain glanced up. “From before the system. That was quite helpful, even if it changed how mana worked.”
+
+A thousand questions danced through Kindra’s mind. She opened her mouth and stopped. No, focus on magic now. I can figure that out later. She nodded.
+
+“You picked a crafting option?” he asked.
+
+“Yes.” Kindra began miming and gesturing. “It makes things.”
+
+“Ah. Transmutation. A good starting option, but it can be a trap.” He smiled and shut the book. “I’d focus on power strikes or enhancements. Pick one or the other.”
+
+“I picked enhancements,” Kindra said.
+
+“Pure crafter then. Good.” He stretched. “How many free attributes are you getting each level?”
+
+Kindra paused and swallowed. Should I tell them that?
+
+Dain leaned forward. “You can tell us, Kindra. I promise not to tell another. And if it’s a tier one, it’s fine.”
+
+“Why?” Kindra asked. “Can you upgrade classes?”
+
+“Yes. It’ll upgrade at level twenty if it’s tier one and again at level fifty if it’s tier two.” He smiled. “So, tier one?”
+
+“No.” Kindra held up four fingers.
+
+His eyes widened. “How long did you train for that?”
+
+“A long time. Several years.” Kindra blushed.
+
+“Well, that’s great news, though it won’t upgrade at level twenty or fifty.”
+
+I guess tier four is good. “Is tier four hard to get?”
+
+“Yes. I’d say one in fifty gets tier four. Beyond that, it is impossible for your first class.”
+
+New questions danced through Kindra’s mind. She opened her mouth, and he chuckled.
+
+“Let’s focus on this one for now.”
+
+Fine. Kindra leaned against the wall.
+
+“Now, for your attributes. I’d recommend picking at least one strength each level. It’s important when working in the mines or forges. A stamina is likely ideal as well. That leaves two. In truth, I’d put another in strength and alter as you see fit on the others. Dexterity and speed are useful.”
+
+“Strength?” Kindra wrinkled her nose. I was just going to make a motor.
+
+“Yes. It’s worth it.”
+
+She shook her head. “I can make things to boost it.”
+
+Dain smiled. “Maybe, but strength is a very powerful attribute. You’ll see.” He paused a moment. “Feel free to level a little, but try to stagger them a bit. You’ll get better options based on desire and use. Not to mention, you’ll need some mana to power your skills each day.” He stood and walked out of the room.
+
+Kindra mulled on it. It makes sense they have a guide… Can he give me advice on growing my skills correctly?
+
+Dain walked inside and handed her a plate of raw meat. “Don’t tell your mum.”
+
+“Can you help provide me with knowledge about skills?” Kindra asked, looking at him.
+
+“Better. Today starts your training. It’ll help ensure you get the options you need, and I’ll help you understand some pitfalls.” Dain walked to the door. “I’m going to get ready.”
+
+“Thanks.”
+
+He walked out, shutting the door behind him.
+
+Kindra got up, picked up a tan dress, and slid it over her head. Reaching over, she quickly ate the raw meat, savoring the taste.
+
+Picking up the plate, she darted out of her room and rinsed it in the wash basin.
+
+Dain smiled at her. “I know this has been hard for you, but thank you for taking it seriously.”
+
+Kindra nodded and shoveled some porridge into her mouth. She swallowed, trying not to taste it. Picking up a mug, she drank the water and rinsed it, placing it on a little drying rack.
+
+“Just pretend to be the scared orphan you are. It’ll be fine.” Dain walked to the door. “And you look young, use that.”
+
+Kindra nodded and followed him out the door. Stars glittered above her head. The rays of the sun crested over the distant horizon. She moved closer to Dain. “What is being an artificer about?”
+
+“Creating things, typically with metal. However, you can expand that a bit with the study. Enchantment is usually the ideal choice. Maybe a few combat skills.” He smiled over his shoulder.
+
+“So you make magical gear?”
+
+Dain shook his head. “No…” He swallowed. “We make simple weapons for the undead.”
+
+Kindra frowned. “They run everything?”
+
+Dain nodded. “You’re bright. I’m sure you’ve figured it out.”
+
+That no one wants to level because the necromancers murder them. She nodded. “Does it level you?”
+
+“Yes. Harder tasks and more magical use will increase the mana you get.” Dain turned and headed up the road that led toward the smithies. “And to make magical gear, you won’t be able to use Transmutation. That’s important for you to know.”
+
+“I can’t?”
+
+“No. It messes with the magical structure of materials.”
+
+Darn. That’ll make it harder. Kindra followed, passing a few undead dwarves. Dain ignored them, escorting her up the road to a distant hill. “We’ll start with a mining run. Do you know much about it?”
+
+“No.” Kindra glanced around the dark village. A few other dwarves were out, moving quickly through the streets. The smell of dirt, stone, and undead lingered.
+
+She walked up the hill, looking toward an opening that sunk into the hill. Dain walked to it, moved to the side, and grabbed one of the mining carts left next to it.
+
+I guess theft isn’t really a thing here. Strange. Kindra walked to the tunnel. Dain grabbed two picks, tossed them into the cart, and pushed it into the tunnel.
+
+Following him, she walked into the mine. Smooth stone pillars and ribs along the passage had been used to fortify it. Those have to be magic. Walking down the tunnels, Kindra reached out and dragged her fingers on the smooth stone.
+
+Winding down the tunnel, she studied the stone walls that were entirely too smooth. Did they use magic for these? She looked down at the impossibly smooth stone floor and back over at Dain. He was wearing simple trousers and a brown shirt. No magic radiated from them. I guess enchanted gear is rare. Or no one wants to level… Why’d Gleon drop me here, then? She looked at Dain. “Why’d Gleon bring me here if leveling is bad?”
+
+Dain continued walking, pulling the cart with him. “He wanted you to learn the basics so your progress wouldn’t be impacted in the long run. We certainly agree with that. We don’t agree that you should try to get as many levels as possible.”
+
+“Because of the necromancers?”
+
+Dain grimaced and didn’t answer. The tension hung there. Okay. That confirms it. Kindra let the topic drop. It sounded like a terrible way to live.
+
+Spiraling downward, the two looped around and followed branches for a few minutes before hitting a large room with large, stone pillars.
+
+Dain walked up to the wall and pointed at a clump of reddish stone that was part of the wall. “This is iron ore, and what we need.”
+
+“Do you magic it out?” Kindra asked, walking over to it and studying.
+
+“You can, but it’s generally not the ideal use of your magic.” Dain picked up the pick. “Time to learn the non-magic way.” He handed it to Kindra.
+
+Grabbing his own, he slammed it into the vein, blowing chips of stone into the air. Looks like rusty stone. Kindra raised her pick and slammed it into the wall. The wood dug into her hands, and the pick vibrated her arms.
+
+“And that’s why you’ll want strength,” Dain said with a grin. “It’s the cornerstone for all smiths.”
+
+But I’m not going to be a blacksmith. Kindra nodded and burned mana on Enhance Item. Glowing red runes spread along the pick.
+
+[Basic mining pick has been enhanced, granting the wielder +20 strength. This lasts for 2 hours.]
+
+Kindra hefted it with far more ease. That’s a big difference. She spun and slammed it into the stone. Stone shards burst around her.
+
+Dain raised a brow. “Enhance item?”
+
+“Yep.” Kindra slammed it into the stone.
+
+“What did you use to boost it?”
+
+Kindra blushed and didn’t answer, slamming the pick into the stone.
+
+“Kindra, please. This is important.”
+
+She turned. “My blood,” she whispered.
+
+Dain went quiet for a moment. He nodded. “If anyone asks, tell them your skill lets you ignore small costs.” He patted her on the back and resumed mining.
+
+“What do you usually use for it?” Kindra asked.
+
+“Sap from plants is easiest,” he replied, pulling the pick back. “You need something capable of holding the magic. That can be metal, gems, or wood. Some can be reused. Others can’t. And it will impact how long the spell lasts.” He slammed the pick into the wall, spraying dust and stone into the air.
+
+“Can you make them permanent?” Kindra asked.
+
+“Completely? No. With that ability, you won’t get more than a week. You get far more with enchanting, but that requires material capable of holding the magic and spell form without burning out.” He pulled the pick back. “And certain materials struggle to hold different spell forms.”
+
+Kindra nodded and slammed her pick into the wall. “Can you use Enhance Item to create an enchantment?”
+
+“No. You need to free cast it or get an enchanting skill.” Dain ripped massive chunks from the wall.
+
+“Can you teach me enchanting?”
+
+“In time, I will. For now, we’ll focus on the basics.” Dain smiled and slammed his glowing pick into the stone. It sunk into the stone, and he slashed downward, ripping a large rock out of the wall.
+
+Kindra stared. “So you have an enchanting skill?”
+
+“Aye. Making things is useful, but keep this in mind. Strength and power strikes are useful in the forge and when fighting.” Dain grabbed the stone and dumped it into the cart.
+
+I can’t really argue with that. “How much mana do I keep for use?”
+
+“Depends on what you want for your future,” Dain said, using his hands to shovel ore into the cart. “Casters want more of it since they rely heavily on their skills instead of the physical boosts they’d get from leveling. Your mum is one.”
+
+“So she has more?”
+
+“Aye. She keeps at least four levels worth of mana at all times.” Dain grabbed his pick. Turning, he attacked. Kindra did the same, breaking stone and slowly freeing the ore. With each piece, she tossed it into the cart. So I need to figure out which to get next. Hmm… I need a book on classes. She glanced at him. And they have one. That made her smile.
+
+Minutes slowly ticked by, and the cart filled quickly. Turning, Kindra watched as Dain attacked the wall like a living backhoe. He ripped through the stone, sending stone and fragments everywhere. Leaning a hand against the wall, magic surged. Runes flared into existence, and a pillar pulled out of the ground, merging with the ceiling.
+
+Whistling, he resumed his assault. Kindra grabbed pieces of ore and tossed them into the cart, quickly filling it.
+
+Dain smiled and gestured to the cart. “Let’s go.”
+
+Kindra looked at the loaded cart, shoving it and failing to make it move.
+
+With a chuckle, Dain grabbed the front and pulled it toward the surface. “You’ll get there.” He paused. “If you make the right choices.” He smiled widely.
+
+“I get it. I get it.”
+
+“Most don’t go artificer, in truth. The intelligence has limited use.”
+
+Kindra winced. “Why?”
+
+“Because it just helps you memorize and remember. It’s great for study and analysis, but it’s better to have something like strength. Then you can pick it as you need it.”
+
+Oh. Makes sense. “So you still get it?”
+
+“Yes. All crafters do, but we can balance things easier.” Dain turned and smiled. “But it’s a solid choice; just remember to boost strength, too.”
+
+“What class are you?” Kindra asked.
+
+“Right. I’m a weaponsmith, which is a blacksmith class specialized in weapons.” Dain turned around a corner and waved at a group of dwarves. “Morning.”
+
+Peering around his large body, Kindra waved.
+
+The group of three turned and waved. The woman with them grinned. “Is that your new daughter?”
+
+Dain nodded and nudged Kindra forward. “Yes, though quite young.”
+
+“Not even level ten?” The woman’s expression shifted to shock.
+
+Kindra flushed. And apparently, I’m super behind. She followed Dain past the group, waving and turning back to him. “Friends?”
+
+“Aye. They’re a good lot.” Dain wheeled the cart around another corner. “Just run ragged. We all are.”
+
+“Why?”
+
+“Supplies. We have to make deliveries, or else they show up.”
+
+Kindra grimaced. Right. So the necromancers are in charge… Were my dreams real? Is that a necromancer? She mused on it.
+
+“Kindra.” Dain stopped and moved closer. He leaned down. “When you get your second class, do not take that one,” he whispered. “I’m begging you.”
+
+“You get a second?” Kindra asked, shock spreading through her. I didn’t know that.
+
+“At level fifty, you get the option, but you can’t free cast if you do.” Dain sighed. “It’s an endless debate if that cost is worth it. You do get a few skills to help with free casting, but you don’t get stats. That hurts.” He pulled the cart forward.
+
+“Did you take a second?”
+
+“Yes, fighter. Most take a second.” Dain stopped. “If you take one, try to get one that works well. We’ll give you some advice when you get closer.”
+
+Kindra nodded and saw the light of the sun piercing the tunnel. Hmm. Wonder what works well with artificer. I’ll add it to my list of things to figure out. She moved up the tunnel.
+
+Emerging from it, Kindra squinted and looked at the two undead dwarves standing beside the mine. “Why are they here?”
+
+“Watching the metal,” Dain replied.
+
+There is no way someone’s sitting here doing that all day. Kindra conjured runes into her mind, walked forward, and tapped one. The glowering magic in the dead dwarf snuffed out, and it dropped like a sack of rotten flesh, slumping into a pile on the ground.
+
+The other undead stood there stiffly. Dain turned, and Kindra brushed her fingers against the other. It dropped like a cut puppet.
+
+Dain stared, his mouth hanging open. Shaking himself out of it, he shoved the cart. “Hurry along, Kindra.” His pace quickened.
+
+Practically sprinting, Kindra raced after him. He shoved the cart up the road, moving quickly toward a large smithy. Large chimneys protruded from the top of the stone dome. A large door sat up front, and a square structure was melded into it.
+
+Supply room? Kindra followed him to the front door and into the forge.
+
+He shut the door. “Care to explain that?”
+
+Kindra looked around the stone room. Two anvils were near the forge, the coals dead. A small layer of ash and soot dusted the fireplace. Bellows were built into the fireplace.
+
+To the side, a shelf of tools lined the wall, and a few barrels sat on the far wall. She looked back at Dain and shrugged. “Just a test.”
+
+“You just killed two undead like that.” Dain snapped. “Gone. Instantly.”
+
+“I used the counter runes.” Kindra smiled at him.
+
+“The counter runes,” Dain muttered, shaking his head. “How did you get counter—“ He cut himself off. “Kindra, that’s very dangerous. Don’t do it again.”
+
+“Don’t they die all the time?”
+
+“Well, yes. But it’s usually in defense or if they do something stupid.” Dain paused. His brow quirked. “Don’t do it unless we can hide it,” he amended.
+
+“Deal.” Kindra chuckled softly.
+
+Dain groaned. “How did you get the counter runes?”
+
+Kindra shrugged. “I don’t know.”
+
+“We’ll discuss it later. Remember, people and things are listening, so be careful, okay?” Dain gave her a stern look.
+
+Kindra nodded and followed him outside. He grabbed the cart and moved toward a strange, tall clay chimney.
+
+Oh! Right... What are these things called again? Kindra blew a hair from her face and walked up to it.
+
+“Kindra, this is a bloomery.” Dain gestured. “You put the ore, limestone, and charcoal into the top. Pump these bellows to blow air through it. If something gets stuck, you need to break it free.” He gestured to a hole at the very bottom. “The metal gathers here.”
+
+Kindra nodded. “Makes sense.”
+
+Dain poured a little charcoal inside. Gathering some wood and grass, he sparked a small fire.
+
+“Why not use magic to refine it?” Kindra asked, gesturing and repeating a few words to get the right one.
+
+“You can’t,” Dain replied, shaking his head. “We’re turning the iron ore into steel. They aren’t the same thing. Transmutation requires the same thing.”
+
+“Can you upgrade it to not use the same thing?” Kindra asked.
+
+Dain studied her, surprise spreading on his face. “Yes, but that requires a great deal of study… Is that what you have?”
+
+She nodded.
+
+“Of course, you do… Do you remember anything?”
+
+Kindra turned and looked out at the town. An undead bird flew overhead, and she looked at it.
+
+“Right. Some other time.” Dain turned his focus to the fire.
+
+I wonder how much it would cost. Kindra focused on her mana.
+
+[Your mana increased: 1005 → 1119.] ‎ [Your actions have caused your mana to increase: 1119 → 1130.]
+
+Nice. Aika must have been busy. Gathering a handful of the ore, coal, and lime, she placed it into a pile and burned ten mana, willing it to make steel.
+
+The entire thing burned. The charcoal ignited in fury. Smoke billowed, and Kindra lurched back.
+
+Dain turned to watch, a smile on his face. Kindra watched, and the ore turned bright white, flowing out into a piece of steel the size of her thumb. Right. Expensive. Still, that’s not too bad. I could make a nice chunk.
+
+Reaching down, Dain picked up the metal and felt it with his thumb. “We’re having a chat when we get home.”
+
+Kindra nodded and followed him to the cart. He grabbed stones and crushed them, turning them into a powder that he dropped into a barrel.
+
+Kindra picked one up. He’s crushing it with his hand? She looked at him.
+
+Dain smiled and handed her a hammer. “Start crushing.”
+
+Grabbing it, she set the stone on a clay brick and pulverized it. Dain used his bare hands, and the two slowly worked through the cart, slowly pulverizing the stone and placing it in the barrel.
+
+The tedious task only became more tedious as Kindra worked. I wish Aika were here; she could entertain me. She crushed the stone and paused, reaching for her connection. “Aika, how are you? Are you doing something fun?”
+
+“Kindra, Gleon is insane!”

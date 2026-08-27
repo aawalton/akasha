@@ -1,0 +1,189 @@
+---
+id: e7dc9020-5757-5514-9daa-f2a08de329bd
+page-type-slug: story-chapter-royal-road
+title: "150 — Book 3, Chapter 49 — Dragonstorm, Pt 8"
+slug: 0153-150-book-3-chapter-49-dragonstorm-pt-8
+partOf: just-add-mana
+position: 153
+ownLength: 3267
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3556720/150-book-3-chapter-49-dragonstorm-pt-8"
+royalRoadId: "3556720"
+---
+
+Sabri's whimpering stopped abruptly as a storm of magic flashed through her bond with Flia. Water rushed into the torn gaps of her limbs. She had taken on the form of a shadeling queen to save her, Flia realized, and now through their evolving bond she was becoming something more. Sabri let out a strange, purring trill, stomping her feet proudly and glaring down at Hakon.
+
+Likewise, Flia felt something strange. She glanced down to find that the hole in her shoulder had filled in with shadow, and when she flexed her arm experimentally, there was only the fading echo of pain. In the fraction of a second it had taken her spell to evolve, the two of them were ready to fight again.
+
+Good.
+
+Yet before she could do anything else, a small, thin root emerged from the floor of the University. If it weren't for the hint of familiar magic blazing at the tip, Flia might not have paid any attention to it. She paused, letting it brush against her ankle, and narrowed her eyes at the information it gave her.
+
+The dragonlords had two cores. If either of those cores were injured, they would simply resurrect from the other. It explained what she was seeing—Hakon's symbolic core had been disrupted, but his other core kept him alive, albeit significantly less coherent.
+
+Hakon snarled at them as if to emphasize the point. "End," he repeated. "You are beneath us."
+
+He stepped forward threateningly, magic gathering in his claws, though his form wavered slightly as he did. Those threads of sickening green spread farther along his scales, eating into the flesh beneath. It looked like it hurt. The good news was that he wasn't outright regenerating, but Flia wasn't certain if this was better. Whatever that green magic was, she had a bad feeling about it.
+
+Or... no. That feeling wasn't coming from her. It was coming from Sabri. The shadeling's instincts recoiled at the green mana, whatever it was. That was more than enough to make Flia cautious—if Sabri thought it was dangerous, then it couldn't be anything good.
+
+Her new spell would give them some options, at least.
+
+[Leviathan's Touch (Lesser), Level 1] [Eighth Tier, Active (Unique)] [17,000 Mana]
+
+The Second Monolith is a primordial dragon, an embodiment of the Law of What Lies Between. Your [Familiar Bond] has been touched by the Leviathan, granting it a fraction of her power and deepening your bond with your chosen familiars.
+
+This spell expands your existing bond and grants your magic the following additional effects:
+
+Unity of Mind — At will, partially meld your mind with that of your familiar, allowing you both to act in concert. Requires a strong existing understanding of your familiar.
+
+Unity of Body — At will, share and redistribute any physical trait with your familiar, including any form of physical injury. Requires both partners to be in agreement.
+
+Synergistic Casting — At will, meld your core with that of your familiar, allowing spells to be cast with both mana types. Requires shared intent for a successful spell.
+
+Hakon lifted a claw, casting out another bolt of jagged green mana. This time Flia was looking out for it, and she noticed the way it dragged against her mana sense. It was the reason she hadn't noticed it in time when he'd first used the spell and why the mana felt so strange. More importantly, she was certain it was the reason it had so easily punctured [Battleflow Barrier].
+
+It wavered between the two types of magic, she realized. Old-era symbolic magic still infused it, but it was wavering, flickering in and out of existence; every time it did, it became an old-fashioned mana bolt instead. Somehow the spell drew power from sitting on that gap between the two extremes, and that power allowed it to shatter even her Abyssal barriers.
+
+Best to try something else, then. Flia drew on her bond with Sabri, and together they manifested a new barrier with Synergistic Casting; in that simple exercise of power, Sabri's all-consuming shadow met her own Abyssal waters—
+
+You have learned [Devouring Tide]!
+
+—and a new mana aspect was born.
+
+Flia felt it as a shift in magic, and perhaps if the circumstances were different, she might have been impressed by her own accomplishment. Sabri's instincts still screamed at her, though, and she knew somehow that this wasn't right. That this wasn't all their magic could do.
+
+It worked to defend them, certainly. The new spell manifested as a wave of liquid shadow that tried to swallow the green bolt of Hakon's magic, though the victor of the clash wasn't as clear-cut as Flia would have hoped. Instead there was a moment where the two spells struggled against one another, green lighting flashing within the wave of shadow, each one trying to consume the other.
+
+When it faded, both spells were gone. That might have been a good thing, but Flia did not like how much effort it had taken to stop something as simple as a mana bolt. If Hakon regained enough of his mind to cast something more complicated...
+
+Speaking of which, Hakon was laughing. It was a broken, gurgling sound that would have sent a chill up her spine, if she'd had one; Flia could feel Sabri recoiling in the back of her mind, disgusted by the sound. "Weak," he muttered. "Why were we so afraid? We should have done this sooner. All you lesser species would have been ours."
+
+You have learned [Devouring Blade]!
+
+A dark wave of devouring-aspect mana slashed toward Hakon. It was a basic offensive spell, nothing more than mana shaped with both her and Sabri's power into something vaguely resembling a blade. The power came from the mana aspect it carried, born from the waters of the Abyss and the eternal hunger of shadow.
+
+It echoed with the sound of a thunderclap as it rent through the air, swallowing everything it touched.
+
+Hakon reached out and caught it, still laughing. His hand flashed as those filaments of green reached his claws and began to burn—eating away at his own scales, Flia saw, even as it allowed him to touch her magic. Yet the combination of that broken magic and the [Devouring Blade] had cut a deep gouge into his scales by the time he tossed it aside, and he didn't even seem to notice.
+
+"You will never beat us," Hakon said, stumbling forward. "We are the embodiment of chaos and resentment. How can you beat that which you possess yourself?"
+
+Erik screamed something incoherent, then blew past her; Flia caught a glimpse of wretched wings tearing their way out of his back and dark-purple skin fused with his own. His suit was torn in strange places, and where those places were torn were clear burn marks or places with transformed, chitinous skin.
+
+Sabri sent her an image. She had caught a closer look at Erik, apparently, and in the fraction of a second before he'd gotten past them both she'd seen...
+
+Flia grimaced. Erik had carved a spell circle into himself. Something that would transform him and grant him power, no doubt, but she could already sense the way it was draining his life force. They had to end this fight quickly.
+
+Luckily, every new spell she cast with Sabri's help would give her something new. Hopefully, that meant they would find something that would work, and soon.
+
+You have learned [Shadowscream]!
+
+Sabri roared soundlessly, channeling the new spell. In an instant, all the shadows in the corridor ahead of them liquified, then crawled up Hakon's scales. Once again, those green filaments began to grow, spreading along his scales enough to fight off its influence. The same happened with every blow Erik managed to strike with his newfound claws.
+
+More and more, the green magic spread, and the feeling in the back of Flia's mind—the feeling that something was wrong—grew.
+
+Hakon was already barely hanging on by a thread, as far as his physical body was concerned. He had been when the fight started, and now he was more a glowing lattice of corrupted magic more than he was a dragon. The whole time, he hadn't stopped laughing, and each time he let out a laugh he sent Erik into another blind rage.
+
+Flia was angry, too, but she was certain now: there was something wrong with this fight.
+
+They should have won already. A physical body was tied to the mana core, and while Hakon was more resilient than most, he had been hurt enough that both his mana cores should have been beyond repair by now. They'd even tried a direct assault on the cores, but again that green mana interfered with them.
+
+It was something about that mana, she knew. It felt like the Dragonstorm, like a manifestation of chaos working its way into the realm of magic. The way they were fighting felt almost like they were empowering it—
+
+Flia froze. She felt Sabri's curiosity probing at her, and slowly she let her thoughts flow through their bond. It felt too much like they were playing into Hakon's games, no matter that he wasn't of a sound enough mind to draw them into one. Their fight was empowering him, somehow?
+
+The Dragonstorm continued to rage, and the more its power suffused the world around them, the more its noose tightened around the humans. Erik was still going because he was borrowing infernal power to do so, but he was struggling to maintain that spell, and even with its help he was fading.
+
+Crushed under the storm. But magic of this strength had to be powered by something, didn't it? Any spell had to have a power source, and one like this would need to be constantly empowered by something. Cale was fighting one end of that, but perhaps there was a secondary source.
+
+Flia wracked her mind. Leo's studies had delved into high-tier spells like these, at some point, and he'd mentioned their effects to her in passing during one of their excursions out into the world with Cale. A spell that created a constant, ongoing effect was most often designed to draw power from itself, to allow it to keep going. It was one of the aspects that made a spell truly high-tier.
+
+What was it that Hakon had said? Sabri nudged a memory over to her, and Flia narrowed her eyes, suddenly straightening.
+
+Hakon had said they would never be beaten because they were the embodiment of chaos and resentment. If that was the essence of the Dragonstorm, then he would never be beaten by magic rooted in that same significance and intent. The devouring aspect she had uncovered was powerful, but it wasn't what she needed for this fight.
+
+"You. Figured it out-out-out. Heh." Hakon seemed to recognize what she'd uncovered from the lull in her spells; he gave her a broken smirk, ignoring the strike from Erik that briefly snapped his neck. He reached up to push it back into place. "But you can do nothing. Nothing. Nothing."
+
+Except Flia had thought about exactly this.
+
+The thought had been in the back of her mind for as long as she'd known about the corruption of the Source of Magic, the terrible realization that endless war had shaped the heart of magic itself. It made sense that it might have happened before—that it might have happened a long, long time ago, even. Perhaps this was where the seed of it began, though it might have been mere coincidence.
+
+Either way, the fact remained that Flia had thought long and hard about this very thing.
+
+What was it that magic meant to her?
+
+She could use it to protect those she cared about, and that was certainly important, but it wasn't why she loved magic or why she'd continued attending Brightscale Academy, even back when she'd thought there was nothing that could be done for her affinity.
+
+What she loved more than anything else was the sheer possibility of life that magic allowed for. It was the same thing Professor Tarbloom loved about it—they were always so joyful whenever they talked about their critters, and she felt the same way. There was always something new and strange just around the corner.
+
+Did Hakon think that her magic was meant only for one single thing? She could fight with it, certainly. She would fight with it, even, if it meant she could protect those she cared about. But it wasn't at all the reason she was a mage, and if Hakon thought she couldn't cast from that place just because she was angry...
+
+She was an apprentice of Cale Cadwell Cobbs, who in some worlds had once been known as the Tamer of Beasts. And the beautiful thing about life and especially about being one of Cale's apprentices was that it was an exercise in contradiction.
+
+"Hey, Sabri," Flia said. The shadeling queen turned to look at her, chirping inquisitively. "You've been a little lonely, haven't you?"
+
+Sabri released a considering chitter. Shadelings had something of a hive mind, and she had been lonely in that sense. But Flia was a good mother, and she had made many more friends besides! She had met all the critters Flia had adopted, for example. She wouldn't have had nearly so fulfilling a life if she'd stayed in the labyrinth.
+
+Flia chuckled. "Can you focus on that for me?" she asked. "That part of your magic that connects with your hive?"
+
+Sabri chirped in agreement. She certainly could.
+
+There were no other shadelings here, of course. But Flia's magic was that of the Abyss, and any combination of two mana aspects produced something that was ever so slightly different from the original. Their first attempt had created the devouring aspect, which took the hunger from Sabri's shadow and the all-encompassing nature of the Abyss and turned it into one.
+
+Their second attempt built on the natural shadeling desire for a hive and on the Abyss's power of connection.
+
+You have learned [Call of the Abyss]!
+
+Shadow darkened the corridor, and for the first time, Hakon's expression flickered. "What did you do?" he demanded. His voice had lost that strange cadence to it.
+
+Flia didn't answer. This was the joy she found in magic, and she didn't want to taint it. Instead, she breathed out slowly, and little critters began to climb out of the shadow.
+
+They were all made of shadow, of course. She wasn't about to summon a horde of critters into a fight, and her magic was hardly strong enough to teleport them all across a realm. But they were echoes of all the little critters she had met and studied, called by the Abyss and given form by shadeling shadow, and more importantly there wasn't an ounce of anger or resentment in the spell.
+
+This was proven by the fact that the green magic that had been spreading across Hakon's scales couldn't come to his defense, this time. He screamed as he was swarmed, and Flia pulled a somewhat stricken Erik away from the scene before his own anger could empower the dragon again.
+
+Soon, one core winked out, followed by the second. A spell of symbolic meaning and magical power, wrapped with a love for magic that ran counter to the resentment that powered the Dragonstorm; that was how one defeated a dragonlord, it seemed.
+
+"I... what was..." Erik started, but he seemed exhausted.
+
+Flia shook her head. "You should go to her," she said quietly, and at that Erik deflated, the fight rushing out of him. He hurried over to Elizabeth's side, where she lay still and unmoving.
+
+Except for a single twitching finger.
+
+Humans, Flia decided, were ridiculous.
+
+Elizabeth had not had any time to think or react. The idea that she had reshaped the bloodbarrier into an artificial heart and was manually pumping her own blood was—it was too ludicrous to imagine, really, but apparently that was what she was doing. She had been conserving her strength through the fight, since it took everything she had to keep herself alive.
+
+It was a temporary measure, though. All of them knew it. The damage was too severe, and this sort of treatment would last only until she could no longer keep up the spell. No one else could take over that duty. The moment she failed, she was dead.
+
+But it reflected an incredible determination. Elizabeth, apparently, absolutely refused to die until she had at least been given the chance to say goodbye to Erik and her students.
+
+"You're ridiculous," Erik said, teary-eyed. Elizabeth rolled her eyes, but she was too exhausted to make a snide remark, and instead let her head rest on his shoulder. Flia saw Erik trembling at the gesture, doing his best to hold back his tears.
+
+"Your spell," Elizabeth said tiredly, and Flia started a little when she realized Elizabeth was talking to her. "Why... did it work?"
+
+"The Dragonstorm is resentment," Flia answered after a moment. "It's being empowered by all this... chaos and fighting, I guess. That spell was a spur of the moment thing that Sabri cast with my magic, and it's not really war magic. The only reason they attacked Hakon was because he wanted to hurt me."
+
+"Could I... see one of them?" Elizabeth asked, her voice pained, and Flia nodded. A small, shadowy butterfly flew up to land on Elizabeth's finger, fluttering just in front of her.
+
+"Dreamwing butterfly," Flia said, feeling strangely awkward. It seemed like such an intimate moment for the two of them. "Their wings are made of dreams collected from all sorts of creatures. You'd normally be able to see more, but this is just a silhouette."
+
+"It's still beautiful," Elizabeth said softly. She reached up to brush a finger over one of its wings. "Thank you... for showing this to me. You don't mind if I keep her and show her to my students, do you?"
+
+Flia nodded, her throat tight. "The spell should last for a few days," she said. "You're free to take care of them. Ask me anything about them you want."
+
+Elizabeth nodded weakly. She seemed entranced by the butterfly. Her finger brushed gently over its wings, one stroke after the next, in time with the pumping of her blood. Erik whispered something to her, soft and broken, and she whispered something back.
+
+Flia saw, then, that Elizabeth was already slowing. She saw also the privacy of the moment, that this was something just for the two of them. The corridor was empty, and she doubted anything else was coming—somehow it felt like the Dragonstorm itself had been purged from here. Its grip had been loosened with Hakon's death.
+
+"I'm going to check on the others," Flia said, her words soft. "I think this place is safe for now. Just... stay here and rest. I'll catch up after we beat the Dragonstorm."
+
+Erik nodded, just slightly, and she thought she saw him whispering a thank you. It was hard to tell.
+
+It was hard not to feel like she had failed in some way, too. But she made herself stand tall and move regardless.
+
+"It's like Cale says," Flia murmured to Sabri, who had shrunken back down to shadeling form and was now purring happily in her arms once more. "Sometimes you fail, and there are people relying on you anyway. Can't let this stop us, am I right?"
+
+Sabri let out a little chirp, and Flia gave her a faint smile, petting her head. "Thanks, Sabri."

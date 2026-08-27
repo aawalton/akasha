@@ -1,0 +1,231 @@
+---
+id: 6c58bb69-12d1-5733-baba-8027a462c2e7
+page-type-slug: story-chapter-royal-road
+title: "127 — Book 3, Chapter 26 — Bitter Focus, Pt 6"
+slug: 0130-127-book-3-chapter-26-bitter-focus-pt-6
+partOf: just-add-mana
+position: 130
+ownLength: 3813
+unit: words
+publishedAt: 2026-04-25
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3317337/127-book-3-chapter-26-bitter-focus-pt-6"
+royalRoadId: "3317337"
+---
+
+Cale felt for Thorn, really.
+
+This whole situation was undoubtedly difficult for the vinewalker. As Cale understood it, the wyldfire mages of Brightscale Academy had largely been away working on their own projects over the last year or so, advancing and researching whatever their magical specializations were. Only the imminent Fettered Divinity tournament had prompted them to return, and even then, they kept to themselves.
+
+That was the problem with having a legendary reputation, really. None of them could return to their classes without causing an uproar, so they mostly stuck to training for the tournament. Their one concession was that they did that training within magically-enhanced glass barriers that allowed students to observe and learn from them—it was the best way they could contribute to the academy without compromising their training.
+
+The result of this, though, was that their interaction with the rest of the students at Brightscale was pretty minimal. Every so often one of the wyldfires would make a trip around the school to watch for any promising student teams, and that was about it.
+
+And from what Cale and the others had learned, although they weren't technically supposed to do this, various teams of students had already been shortlisted for that position long before Akkau had even announced the tournament. They knew better than to finalize that decision before it was time, but any team that was only now beginning to train would face an uphill struggle.
+
+Cale and his team had fortunately started early, thanks to Flia's machinations, and had quickly worked their way onto whatever list the wyldfires maintained. The problem was mostly that, well...
+
+The whole thing must have looked incredibly suspicious from Thorn's perspective. He'd returned to Brightscale only to find that their Headmaster had inexplicably taken on some new human student as a personal apprentice, and then that same student had apparently foiled multiple Red Hunter plots, earned the respect of the rival Haelforge Academy, and ended the years-long disaster that was the Aspect Cascade.
+
+Add all that to the fact that all this had happened right as Utelia's dark lord finally began making his moves and any sane mage would reasonably conclude that this was a dark plot by one of his aberrations, perhaps one that specialized in mental magic or illusions.
+
+It didn't help that wyldfires had a great deal more experience than most other mages, and with that experience came awareness of exactly what magic was capable of. There was every chance that Cale was exactly who he said he was, but someone like Thorn wouldn't be able to help but consider every possibility, every way he might have faked his way into his current position.
+
+Evidently, Thorn had decided one possibility was much more likely than the other. Which was fair. If Cale had been in Thorn's position, he would have done the same. There weren't that many copies of him out there; the likelihood of encountering one was close to zero.
+
+In any case, Cale had potentially lethal magic pressed against his throat, so it was probably best he stopped sympathizing with the guy trying to hold him hostage and address the problem instead.
+
+"First of all, I haven't lied about anything." Cale held his hands up in surrender. Thorn only narrowed his eyes—he knew as well as Cale did that the gesture meant nothing to a reasonably skilled mage, let alone whatever he thought Cale was.
+
+It was worth doing though. There was symbolic meaning to it! Assuming Thorn recognized it, anyway, which Cale was now realizing he might not.
+
+"Answer the question," Thorn ordered. There was an edge of tension in his voice, and he pushed the thorn closer to Cale's neck...
+
+...huh. Whatever spell Thorn was using seemed to be able to cut through his barriers with relative ease. That was fascinating. How long had it been since he'd encountered a spell capable of cutting through his barriers? Sure, his magic was a little more erratic than normal thanks to his loss of control, but still!
+
+Cale poked at the thorn, intrigued, then winced slightly when his finger began to bleed just from that slight touch.
+
+"This is a really cool spell," he said enthusiastically, forgetting for a moment that it was being wielded against him. The surface of the thorn—the blade?—was smooth, but some sort of magic encased the whole thing, turning every part of it into the edge of a blade. "How are you doing this? Sorcery? Or... no, this is a spatial aspect with a poison conjugation? I don't think I've seen that before. How'd you pull that off?"
+
+Professor Graystalk coughed politely, then gave Cale a small nudge. "Perhaps consider addressing Thorn's concerns first, Cale?" he asked. His tone was just lightly reprimanding.
+
+"Oh, right." Cale blinked sheepishly. "Sorry. I meant it, though, I haven't lied about anything. My name is Cale Cadwell Cobbs, and I'm—well, we're not currently in Brightscale, but I'm assuming you're asking me why I'm attending Brightscale, and it's because I really want to learn baking magic."
+
+He paused. "Magic in general," he amended after a moment. "But especially baking magic."
+
+Thorn stared at him. The vinewalker was doing an admirable job of controlling himself, all things considered—despite all the tension in his eyes, the hand extending that magical blade to Cale's throat was perfectly steady.
+
+That was important, given that it was a weird barrier-piercing blade and all.
+
+"What need have you to learn our magic?" Thorn demanded. "You're entirely capable on your own. You were able to casually invoke a fifteenth-tier spell using what appears to be foreign magic. What does Brightscale offer that you could not simply do yourself?"
+
+"Thorn, I'm not here to hurt the students," Cale said, sighing.
+
+"I don't know that," Thorn said, his grip on his blade tightening, and for the first time Cale recognized a glimmer of fear in the vinewalker's eyes. He was doing his best to hide it, but somewhere deep inside he recognized he was outclassed. "I can't know that. I don't even know what you are!"
+
+Cale paused at that, a small frown entering his expression. "What do you mean by that?" he asked slowly.
+
+"You claim to be human," Thorn said, and though his blade hand was steady, Cale recognized now that the rest of his vines were trembling, coiling tightly in on themselves in distress. "But you can't be human. Or—or you are, but you're messing with my mind somehow. Humans are supposed to be weak and uninteresting. And found everywhere, like pests. And full of arrogance and greed."
+
+"Okay, rude."
+
+"Either you're not human, or you made me believe that," Thorn said. "I've been thinking about it since you asked me when I last saw one of you. I cannot remember a single face. I may not bother to remember your names, but I do not forget a face, no matter how wet and fleshy. That tells me you have done something."
+
+"Somehow still rude, but weirdly unique. I don't think I've heard human faces being called wet and fleshy before." Cale made a face. Beside him, Professor Graystalk had stiffened somewhat and was now paying close attention. So there was no getting out of this, really.
+
+He sighed and leaned back, ignoring the way Thorn moved forward to keep the blade at his throat, and contemplated the vinewalker with new eyes. He was impressed. Far more than he'd expected to be, even for someone who had made the cut into wyldfire. The level of control Thorn was exhibiting now was frankly phenomenal given everything he had put together; Cale could count on one hand the number of mages that could maintain this much self-control in this situation, given...
+
+Well.
+
+There was a reason he couldn't keep pushing to explain his situation and what had happened to humanity. Push hard enough against the effect and there was a significant risk to core and soul, leading to instability at best and outright fracturing at worst.
+
+Most of the time, for that to happen, Cale was the one that had to push back against the effect. Any other mage would just forget within moments. He'd assumed that would happen here, too, except either the effect was weaker within the Bitter Path or Thorn himself was an exceptional mage. Perhaps both. Whatever the case, Thorn had managed to latch on to the truth and was now straining to push it off himself, with all the nasty side effects that came with it.
+
+"Thorn," Cale said, making a decision. He met the vinewalker's eyes, his tone deadly serious. "I need to establish a barrier around the three of us if you want to talk about this. Can you let me do that?"
+
+Thorn's blade wavered only slightly as he hesitated. "I have already established an obfuscation boundary," he said.
+
+Cale raised an eyebrow. He had? Cale hadn't even noticed. How exactly had...
+
+Oh. Oh! That was clever. He could sense it now that he was looking: Thorn had seeded small vines into the ground beneath them and shaped them just enough to establish the basic circle required for an obfuscation ward. He must have wanted to avoid Cale's apprentices interfering and set it up to avoid them getting themselves in danger.
+
+His estimation of Thorn went up even more. "The problem isn't that someone might spy on us," Cale said, opting for the truth. "The problem is what I think is some sort of spell or magical phenomenon that affects all of the Great Realms. You're right that there's a compulsion at work, but it's not mine, and I don't know of any way to remove it except temporarily via a barrier."
+
+Thorn was silent for a moment, and Cale could practically see the way he fought himself internally. One side of him screamed that allowing Cale any amount of magic was dangerous. The other said reminded him he would be able to tell if Cale tried to cast a spell, and that he needed to know if Cale was telling the truth.
+
+In the end, though, Thorn seemed to realize there was little he could do if Cale decided to force the issue, and he gave Cale a terse nod. "Fine—"
+
+Thorn froze.
+
+Cale didn't blame him. He wasted no time as soon as Thorn gave him permission, and the world around them instantly lit up with magic. In a very literal sense. The amount of mana he needed to repel the effect was monstrous, and what was more, that mana needed to move as unpredictably as possible.
+
+The result was a dome of prismatic flame that roared to life and swarmed around them like a hurricane. Cale felt the tension within Thorn spike, and even then, the vinewalker kept his blade-hand steady.
+
+Professor Graystalk had likewise frozen into speechlessness, though he regarded the dome with awe instead of dread. Cale appreciated the support.
+
+"Talk," Thorn said.
+
+So he did.
+
+"My name is Cale Cadwell Cobbs," he said. A good explanation needed a proper introduction, after all. "And I am, as far as I know, the last of humanity."
+
+A true mage would never run.
+
+Thorn held those words in his mind, and they gave him just enough courage to meet Cale's eyes even as his every instinct screamed at him to flee. How long had it been since he hit wyldfire that he felt truly afraid? He'd encountered plenty of danger, certainly, but the thing about danger was that there was always a chance of survival.
+
+But Cale had bypassed his instincts so completely that Thorn found himself adrift. A danger he hadn't even known was there was a danger he didn't truly understand the scale of. He couldn't judge his chances of survival here—not really.
+
+What he could do was rely on his instincts, which told him that he could be obliterated in an instant at any time.
+
+Not especially helpful, given his situation. He was surrounded by a wyldfire barrier the likes of which he had never seen before. It felt like he was encased within an impossible storm of magic, and the one time he'd tried to flick on his mana sense to gauge how much power was being brought to bear, it had nearly blinded him.
+
+Which wasn't even supposed to be possible, as far as he knew, so that was yet another thing to fear. Another reason to run.
+
+Instead, Thorn kept his gaze trained on Cale and his [Topological Bane] steady. That spell was his trump card, and it was the one spell that could theoretically destroy even entities that were higher than him on the so-called magical hierarchy. He'd been saving it for the tournament on the off chance that the dark lord deigned to interfere with it, or on the off chance that they would once more be asked to face a god.
+
+Using it now would expose him and make it harder for him to use the spell again later. His arm was already blazing with pain. Like other spells of its type, [Topological Bane] was empowered by an element of sacrifice, and the sacrifice in this case was that the longer he held on to it, the more it would infect him. He could afford it more than most, vinewalkers being what they were, but nevertheless...
+
+It didn't matter. The only chance he had against Cale was to catch him by surprise. He'd taken that choice while he still could, before whatever magic the human was using subverted him, too.
+
+The human's claims complicated things, though. They complicated things a lot. In large part because the primary claim—that this was not some effect orchestrated by Cale himself but the result of a much larger power that the dome around them could only temporarily hold off—seemed indisputably true.
+
+There was no spell structure he could detect within the dome, and yet the paranoid buzz in his mind seemed to be diminishing.
+
+The fear was not, though. Every other conclusion he'd reached about Cale remained true. If anything, he was even more dangerous than Thorn had assumed, and yet—
+
+—and yet Thorn recognized that look in his eyes.
+
+It was very much like the one in Headmaster Akkau's own, when he thought no one was looking. It was the same look the Headmaster had worn when he first explained that he was nearly the last of his kind.
+
+Thorn took a deep breath.
+
+"I can't just take you at your word," he said, though this time there was a distinct note of regret in his voice. "Not with what you're capable of."
+
+Cale tilted his head slightly. It unnerved Thorn how little he seemed to care about the blade at his throat. It took everything Thorn had to keep his hand steady and the magic flowing, but he might as well have been holding up a stick of bread, for all that Cale reacted to it.
+
+"That's probably fair," Cale acknowledged. "What do you need to trust me?"
+
+"I..." Thorn paused, having not expected that immediate concession. "You don't need Brightscale to learn magic. You clearly have it. Why bother attending?"
+
+Cale eyed him. "You've noticed I'm still in the plainroot courses, haven't you?"
+
+"I have." Thorn debated how much to reveal, then decided it didn't matter. "I assumed at first that you were a skilled plainroot illusionist that slipped past the Headmaster's defenses, as absurd as that is. But the magic you have demonstrated is beyond any plainroot, and it is difficult to read the state of your core."
+
+"That's my fault, I'm afraid," Cale said ruefully. "I had to expand my soul a few hours ago to deal with something, which messed up my mana core something fierce. Makes it harder to control my barriers, too. I normally mask my core a bit by default so I don't scare anyone—or blind them, if they look at me with their mana sense—but it's kind of all or nothing at the moment."
+
+Thorn tried not to let that part about expanding his soul distract him too much, as staggering as that statement alone was. "That does not answer my question," he said instead.
+
+"I'm getting there," Cale said. "I'm in the plainroot courses, as you noted, because my entire problem is that I have too much mana to cast spells conventionally. That also means my biggest problem is casting low-tier spells, not high-tier ones."
+
+Thorn hesitantly lowered his blade, biting back the groan of relief as the pressure from [Topographical Bane] lessened. The explanation made sense, although... "You are suggesting you have too much mana to cast even the basic Standard Array."
+
+Cale gave the dome around them a significant glance. "Well, yes. Why do you think we're such good friends?" he asked, nudging Professor Graystalk. The professor rolled his eyes in response. "Graystalk's been helping me with the Standard Array. Not that there's anything I can cast from it yet."
+
+"You are indeed my worst best student," Professor Graystalk said dryly.
+
+"You could at least pretend to be worried about me, you know," Cale said. "Or help in some way."
+
+"It would only encourage the idea that you have me under an illusion or compulsion," Professor Graystalk pointed out. "If anything, I should suggest that Thorn stab you a little bit, as proof that I have not been turned into a loyal minion."
+
+"On reflection, don't listen to this guy," Cale said.
+
+Thorn couldn't help it. He snorted, dropping his blade and letting it retract into his palm with a wince; as he ended the spell, a jolt of jagged green mana spread up along his arm, and he rubbed his shoulder gingerly.
+
+Cale glanced at it, evidently concerned. "You alright there?"
+
+"It is nothing," Thorn lied. He wouldn't be able to use that arm for a while. "I... believe you, I think, but I have questions still."
+
+"Shoot," Cale said.
+
+Thorn frowned, confused. "You wish for me to fire a spell?"
+
+"No, just... it's a phrase. Ask your questions," Cale said, gesturing vaguely. "I shouldn't keep this barrier up for too long. Also, the dungeon might help you remember what I said while we're in here, but I have no idea what's going to happen once we leave."
+
+"We'll concern ourselves with that later," Thorn decided. "My question is this: you claim to be studying at Brightscale to master low-tier magic. How do you not possess this magic already? The Gift should have ensured your foundations."
+
+"Oh, that's easy," Cale said. "I'm not from Utelia. I was summoned here about a month ago."
+
+Thorn froze. His mind whirled and his vines coiled with agitation, reacting to the surge of emotion. Not from Utelia? This human was a summon?
+
+That meant he wasn't from this realm. It meant he had traveled through the Abyss, and not only that, it meant he had survived the Abyss. It meant this human might have information from outside of Utelia, information that might explain what was happening to the Headmaster—
+
+Thorn swallowed. He couldn't get ahead of himself. "You're—a visitor from beyond this realm?" he asked, just to confirm. "You have traveled through the Abyss?"
+
+"Traveled through, swam in, soaked in it for a little bit," Cale said with a shrug. "I move around the Great Realms a lot. Not intentionally, mind you. It's a whole thing."
+
+"And you remember your time in those other realms," Thorn said, intent. "Aside from the infernals, summons don't usually retain a clear memory."
+
+"I'm a bit of a special case," Cale said. "Can't say I remember everything, but it's more because I have a bad memory than anything else. Also because I've been around for a really long time and there's a lot I've just forgotten."
+
+Thorn shook his head, dazed. He conjured a seat of vines just so he could sit down—he really felt like he needed it, at this point, and he was less concerned about maintaining his image now that he'd established that Cale was not the existential threat he'd thought he was.
+
+Still an existential threat, technically, but one that was attempting to play nice. Thorn could work with that.
+
+"I have searched for so long for a means to travel the Great Realms," Thorn said. "And you claim this is something you do by accident? So much that you cannot even remember where you have been?"
+
+"It's something of a curse," Cale said quietly. Something about his gaze grew distant and lonely again. "And not something I can teach. I'm sorry."
+
+It didn't matter. Thorn's mind whirled with possibilities. "You are the Headmaster's apprentice," he said finally. "Do you know of his curse?"
+
+"His..." Cale frowned. "Are you talking about the thing going around and trying to wipe out dragons?"
+
+"Yes." Thorn let out a heavy breath. "Many of us owe him greatly. He believed in us when no other mage would, and it is only through his guidance that we have become the mages we have. We have searched in secret to find a means of slaying this hunter-of-dragons, and yet we have found nothing. If you have the ability to move between the realms..."
+
+"I don't know anything, either," Cale said. "I've been looking into it myself, but I didn't even know this was a problem until I got here. Which is kind of weird, now that I think about it."
+
+"And there is nothing else?" Thorn asked. There was an edge of desperation in his voice, now. "Not a hint as to where this hunter may hide? A solution for the spell of erasure placed upon the Headmaster?"
+
+"Not yet," Cale said. "But I'd like to share notes with you sometime. Maybe after this delve?"
+
+"Please," Thorn said, which was not a word he was used to saying to any other mage. "I would... value your thoughts."
+
+Cale nodded. "I'll get rid of the barrier for now," he said. "Let me know if it starts affecting you again—"
+
+Thorn was momentarily thrown as the human stopped mid-sentence the same moment the mana around them dissipated. Cale's stance had been relaxed through their conversation, but it snapped into something focused all at once. "Leo. What happened?"
+
+"We may have a situation," Leo said, his tone nervous. Thorn frowned, turning to. see what they were talking about...
+
+...Ah. Two of the apprentices were missing, and something strange was happening with the cot. It felt almost like spatial magic was twisting itself into a knot around it, with the result being that the cot was growing in a warped, duplicating fashion.
+
+Despite Leo's nervousness, though, the minotaur was surprisingly focused. Thorn could sense his labyrinth magic weaving in with that twisted space, trying to corral it.
+
+Perhaps this team would be suited for the tournament, although he was starting to think that including Cale might be considered cheating.

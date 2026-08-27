@@ -1,0 +1,83 @@
+---
+id: 46e106e1-2d6d-51e3-bfe9-b1e56d404fe9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: A Fork in the Road"
+slug: 0039-chapter-11-a-fork-in-the-road
+partOf: labyrinth-of-the-mad-god
+position: 39
+ownLength: 1629
+unit: words
+publishedAt: 2024-08-12
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1755478/chapter-11-a-fork-in-the-road"
+royalRoadId: "1755478"
+---
+
+This place is enormous. I’m never going to find the others if I just search through rooms at random. We could wind up chasing each other’s tails for days without ever bumping into one another. I need a better plan.
+
+Eventually, as Nick stared at the floorplan mounted to the wall, an idea came to him. Although part of the map is missing, there seems to be three central tunnels that lead from the outer ring to the middle of the floor, and maybe an inner ring before that point.
+
+He couldn’t say for certain, because that part of the plaque had been reduced to molten slag at some point, erasing the diagram it had displayed. But it was the best he could do with the information he had.
+
+Staying on the outer ring is a recipe for disaster. The only thing that makes sense is if we all head to the middle and meet up there, if we don’t run into each other along the way. Hopefully, the others will come up with the same idea and we can regroup near the exit.
+
+Nick hadn’t traveled with his teammates for long, but he already knew that they were smart people. He trusted that they would come to the same conclusion after discerning the layout of the floor.
+
+With the clock ticking, he needed to make it to the center of the basement as quickly as possible. To take the shortest route to the interior. There simply wasn’t time to explore the far side of the level. He couldn’t be sure that the central tunnels were still intact, but since they were his best bet, he would try the one closest to him and hope for the best.
+
+But when he took a closer look at the map, Nick saw that he was right in the middle between two central tunnels, stretching out to the perimeter loop like the spokes of a wheel. Since either would work as far as he knew, he took a few final minutes to plan out his route.
+
+Set below the map-plate were a pair of arrows, each leading in opposite directions. Fortunately, there was a series of runes engraved beside each. It was the same script used by the System, so Nick was able to read it.
+
+One arrow led to an area called ‘waste disposal,’ while the other would take him to a place labeled ‘specimen refinement.’ It wasn’t a lot of information to work with, but it was better than nothing.
+
+It seemed that he had a decision on his hands after all, since Nick would have to walk one way or the other. But which is my best bet?
+
+In the end, he decided to try his luck with specimen refinement. In part because the destruction in that direction seemed moderately less thorough, and in part because after his journey through the sewers of Kastilla, Nick had smelled enough of other people’s garbage to last a lifetime.
+
+Before he started walking, he stopped long enough to record the floorplan into his travel journal, glad for the clean lines provided by his new ballpoint pen. When he was done, he realized that he’d just made an exact copy of the map, freehand and without messing up a single stroke.
+
+Apparently, the upgrades to his dexterity and mind since the System had entered his life were helping him out in more ways than he’d realized, not to mention his creativity.
+
+When Nick found time, he would give drawing some serious practice, even though he’d only had average artistic ability back in his old life. It seemed like a natural way to both train his attributes and improve the quality of his records over time. Not to mention, he could use a hobby that didn’t involve fighting for his life.
+
+He took a final look at his map, drew his sword, and started walking. Creepy destroyed research facility, here I come.
+
+While he made his way down the debris-filled tunnel, Nick pondered everything that he knew about this floor from his portal vision, combining it with what he could deduce from the map in his hand and what he’d learned from Kellen’s log.
+
+Given all the laboratory equipment I saw, this place seems more like a high-tech processing plant than any sort of landfill or catacombs. The tower must refine or reuse a lot more waste than it disposes of, and this is one of the floors dedicated to that process. If there are multiple divisions or production lines, then each must specialize in dealing with a different type of substance or end product.
+
+While Nick was curious about how everything worked on some level, only a small corner of his awareness was actively pondering the matter. The rest of his brain was concerned with a far more pressing problem. What in the hell reduced half of this place to rubble and how can I stay out of its way?
+
+One thing that he hadn’t been able to internalize from looking at the map was the sheer scale of the place. But as he put a mile under his boots, then another and a third, Nick began to understand. This floor was big, far bigger than the version of the tower he’d seen from the surface of planet Drezen.
+
+He must have underestimated its diameter even more than he had thought, because he’d already walked for several miles and hadn’t come across any of the inner pathways displayed on the diagram. He did, however, come across another cluster of rooms shortly after. Most of the chambers were huge, and each group continued on for what would have been several blocks of his old neighborhood.
+
+Some were empty, save for the remnants of furniture and lab equipment. Many were so destroyed that he couldn’t find a way inside. Even if he had, he wouldn’t have trusted the ceiling not to collapse on top of his head. But every now and then, Nick came across an enclosure that was both stable and only partially wrecked.
+
+He hadn’t seen anything interesting in them so far, so after taking a quick look to make sure that his friends weren’t inside, he continued on his way. After passing each intact chamber, he made a mark in charcoal over the door with an N and an arrow, letting his party know which way he was headed if they were following behind him.
+
+Two nervous hours later, he found himself standing inside what must have once been a cafeteria. It was large enough to hold a thousand people at once, judging by the long rows of tables, racks for trays along the walls, and a massive kitchen and storage area in the back.
+
+Since the lights inside were still working and he needed a change of pace to help break up the tension-laden monotony, Nick decided to spend a few minutes going through the food preparation area, mostly to look for some new tools.
+
+But before he made it halfway across the cafeteria, he came to an abrupt stop, ducking behind a bench while freezing every muscle in his body.
+
+Because that was when Nick came across his first living creature on the floor. Although, when he took a closer look, he decided that living might not be an accurate description after all, because the entity in question was a clockwork rodent the size of a chihuahua.
+
+He had spotted the mechanical critter from a goodly distance away, thanks to the improvements to his vision that had come from raising his mind. It didn’t seem to have spotted him yet, so he pulled out his spyglass to take a closer look, curious despite the tension that had risen to fill the air.
+
+He had never seen anything like it. Not back in his old life, or during the various adventures that had followed. The clockwork rodent seemed to be some manner of robot, although it looked far more steampunk than anything modern.
+
+It was likely the work of advanced magic at play, given its sophistication and lifelike movements. He needed to call it something, so Nick decided to name the construct a gear-rat, the first term that popped into his head.
+
+Its body was formed from a complex brass mechanism. Layers of cogs and springs covered by a coating of something clear and flexible that reminded him of plastic, shining with a faint iridescence beneath the ceiling-crystals’ light.
+
+Other than the unusual composition of its constitution, the mechanical creature looked a great deal like a giant rat. It had a wedge-shaped head and a long tail. Delicate paws were attached to each of its four legs, thankfully without the razored claws that most of the beasts Nick had encountered thus far were packing.
+
+For a long while, he simply stared at the rat, taking in its movements and features. The construct was amazing to watch, displaying a level of agility and precision that would rival any robot from his old life. He wondered who had made it and for what purpose, along with what its presence foretold.
+
+The longer he watched, the more impressed he became. The behavior of the construct made it seem alive, moving exactly the same way that a flesh and blood beast would. When Nick tried sizing it up, the skill informed him that the creature wasn’t particularly dangerous, with one exception, its bite.
+
+Getting caught between the critter’s teeth would be bad news, advice that he was only too happy to follow.
+
+Of course, while one gear-rat might not pose too much of a threat, facing a swarm would be far more dangerous. And if these mechanical rodents were anything like their flesh and blood cousins, where you saw one rat, there were inevitably more.

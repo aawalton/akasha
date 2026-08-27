@@ -1,0 +1,189 @@
+---
+id: 9be90e01-7f4d-5ff2-9ac9-e259d6c19838
+page-type-slug: story-chapter-royal-road
+title: "163 — Book 4, Chapter 7 — Mind Your Step"
+slug: 0168-163-book-4-chapter-7-mind-your-step
+partOf: just-add-mana
+position: 168
+ownLength: 3314
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3714969/163-book-4-chapter-7-mind-your-step"
+royalRoadId: "3714969"
+---
+
+Astiviya felt as though this was her first breath of fresh air in centuries. Which, admittedly, was perhaps in part because of the enormous hole in her chest. She wondered briefly if this was something she should do more often, then realized that she was thinking about whether or not she should more frequently strut about with a hole in her chest, which was a degree of freedom she didn't normally have with her thoughts.
+
+In front of her was the Icon of Battle, that Monolith she'd been fighting against. It was cradling Cale gently in its arms.
+
+"What happened?" Astiviya asked, somewhat disconcerted. The last thing she could remember was losing and getting stabbed in the chest. There was a rather significant gap between that and the now-unconscious human in front of her. "Did I design a trap to kill him if I lost?"
+
+Icon gave her a strange look. "Would you not know if you did?"
+
+Good point. Astiviya thought about it for a moment. It was certainly the sort of thing she was petty enough to do, but she felt no particular urge to do it at the moment. She was also relatively certain Purén had convinced her not to, back when she'd been considering it. Something about how preparing a trap like that was as good as admitting defeat, which had made sense to her at the time.
+
+"I did not," she said after a moment. "Why is he unconscious?"
+
+"He performed what he called experimental magical surgery upon your divine domain in order to free you from its grasp," Icon said.
+
+Astiviya frowned. "That is impossible," she said, though it did explain the freedom of thought she was experiencing. More than the hole in her chest did, at any rate.
+
+"So it was believed," Icon agreed. "And yet he appears to have succeeded."
+
+Astiviya hesitated. She had been this way for so long that even hearing the words felt like a dream, and she wasn't certain she wanted to believe it. Had he succeeded? She supposed she felt no particular urge to start any fights or cause any problems. That alone was strange—it had been such a long time since she had been truly free to think or say anything she wanted.
+
+"I hope he never wakes up," she said experimentally.
+
+Icon stared at her. It didn't say anything, but she felt the pressure of its focus spike dramatically, to the point that it was nearly a deadly force by itself.
+
+"I did not mean that!" she said hurriedly. "It was—I apologize. I am not used to being pleasant. I meant to say I hope he wakes up soon. So I can thank him personally."
+
+Icon seemed skeptical, though the force of its gaze lessened regardless. Behind her, a tinkling laugh caught her attention. Astiviya whirled around immediately.
+
+"Ah, to see the day the Goddess of War finds it within herself to apologize," Purén said, the words warm and fond; Astiviya felt that same warmth echoing within her, and she could not help the broad smile that crossed her face.
+
+"Well," she said. "There is a rather large hole in my chest. It makes it much easier to find things within."
+
+"And she has found her sense of humor again!" Purén's eyes sparkled in delight, and he reached up to bring her in for a kiss, which she accepted joyfully; when they pulled away, Purén had taken on a new form, perhaps in celebration of her return. Purén's height remained the same, but she had taken on a form that was more distinctly feminine. Unable to help herself, Astiviya pulled her consort close—
+
+Icon did not have a throat to clear, but the sound it made was something very similar. "I will note that we are still in the dueling arena," it said. "Perhaps celebrations can wait for after you've fulfilled Cale's conditions, per your agreement?"
+
+Astiviya stared blankly at the Icon of Battle. It took her an embarrassingly long moment to remember what it was talking about. She had agreed to apologize personally to the Graystalk professor and bestow upon him a blessing if she lost this duel, hadn't she?
+
+Normally, she would have complained about that and tried to fight her way out of it. A true blessing from a god was no small thing; it required a small but permanent loss of power, a bestowment of some part of her divinity upon the subject of her blessing. In this case, though, she couldn't quite find it within herself to protest.
+
+Not because she truly felt bad, necessarily. Cale might have freed her from the constraints of her domain, but she was not the same as she had been before her ascension. She had played the role of a petty, vindictive goddess for centuries, and the influence of that role was not one she could shake off easily or immediately. She suspected she would, at the very least, still have the impulse to be cruel.
+
+But she had a choice, now, and Purén would undoubtedly guide her toward a better understanding of her domain. That way, she could reclaim more of her former self and become more of the goddess she should have been.
+
+She looked forward to that journey.
+
+"The Monolith is right," Purén said softly, and Astiviya tried not to let herself be too distracted by the soft, lilting words of her consort. "You have an obligation to fulfil."
+
+"I have an obligation to fulfil to you, too," Astiviya muttered under her breath; she leaned down for another quick kiss, delighting mostly in having the freedom to do so, then sighed and straightened.
+
+It was a simple matter to find Valen Graystalk amid the crowd, and now that the duel was over, the arena's barrier had deactivated, and she was free to approach. As she did, though, Astiviya found herself unnerved by the utter stillness and silence of the crowd. She was used to cheers and jeers whenever she walked amongst the realmborn, not... whatever this was.
+
+Every mage in sight was deep in meditation. They must have all received some sort of Inspiration—Astiviya could feel the ripples of her battle with Cale still rippling out amongst them. A week ago she would have scoffed at the idea that a battle with a mortal could produce such profound waves in the fabric of magic, but now she was no longer surprised.
+
+She left them alone, despite the part of her that was tempted to disrupt them. Even if she did not feel sorry for what she had done yet, she knew she owed something to Cale. This would go a small way toward repaying her debt.
+
+As if sensing her thoughts—probably actually sensing her thoughts, now that she thought about it—Purén let out a tinkling laugh. "My dear," she said, amused, "acting within the bounds of common decency hardly pays toward a debt."
+
+"You were not supposed to hear that," Astiviya muttered, blushing faintly. Just like Purén to find a way to make her blush with a simple conversation.
+
+Unable to bear the silence and the tension any longer, Astiviya flickered with divine power and teleported to where Valen Graystalk was positioned. There she waited impatiently until the elven professor woke from his meditation. From the way magic was rippling around him, she could tell that he was almost done, so she wouldn't have to wait long.
+
+Sure enough, he opened his eyes a moment later, then startled slightly at the sight of the two goddesses standing in front of him. "May I help you?" he asked politely.
+
+"I owe you an apology," Astiviya said.
+
+Graystalk's gaze sharpened slightly. "I do not accept it."
+
+Astiviya knew she would normally have been provoked by this; already, she was tempted to respond by smiting him, but she held back in what she thought was an admirable display of restraint. She tried to ignore Purén snickering to herself beside her. Clearly, the Goddess of Peace did not agree.
+
+"Well, I was not going to offer it," Astiviya said, mostly to be petulant.
+
+Graystalk looked mildly exasperated. Astiviya wondered if everyone at Brightscale had acquired Cale's particular form of irreverence. He looking at her like she was another one of his students!. "You just said you were."
+
+"I said I owe you an apology," Astiviya corrected. "I did not say I would give it."
+
+Graystalk rolled his eyes. "Fantastic. Why are you here, then?"
+
+Astiviya felt Purén's hand grasp her shoulder. She sighed, then forced herself to speak the words, though they came out through gritted teeth. "I owe you an apology," she repeated. "I cannot give it to you now, because I would not mean it. I do not know how your human was able to free me from the constraints of my domain, but my freedom does not change who I am, and after centuries in this role... I am not the woman I once was. I do not yet regret what I have done."
+
+"Those words suggest you will eventually."
+
+"I know who I am now," Astiviya said. "I know who I was, a very long time ago. That woman, I think, would be ashamed of what she has become. I cannot promise that I will find her once more, but if I do, and I truly regret my actions, I will apologize as befits a goddess who accepts her responsibilities."
+
+Graystalk absorbed those words, then sighed. "This is the strangest apology I have received," he muttered. "Very well. I will give you my response when the occasion arrives, then, Be warned that I may not accept it, no matter your sincerity."
+
+Astiviya nodded. "I would expect no less from one I have seeded as an agent of war," she said. She ignored the look Graystalk gave her. "I will take my leave shortly, but before that, I believe I said I would bestow upon you and your parents a blessing."
+
+"I do not—"
+
+"Silence," Astiviya commanded. "I will tolerate your disrespect, but Purén has guided me on this gift. You will not disrespect her."
+
+Graystalk frowned, glancing at the Goddess of Peace, who simply smiled serenely. She hadn't said a single word, of course, but Astiviya shared a connection with her, and through that connection they could know one another in a way that no telepathy offered. She had not known what blessing to offer, but Purén had; thus, she had known as well.
+
+Astiviya cupped all four of her hands together, and divine light began pouring from them into the space between. When she pulled them away, an orb of her power remained floating there, rife with the scent of War. It was small but dense, a pill-shaped collection of divinity.
+
+It descended slowly toward Graystalk, who stared at it.
+
+"When you are ready, you will swallow this," Astiviya commanded. "It will bestow upon you and your family the blessing of the Trials."
+
+"Not sure I like the sound of that," Graystalk said, not moving to take the pill. Astiviya's jaw twitched. The realmborn were so insolent—
+
+Purén placed a calming hand on her bicep and spoke in her stead. "What she means is that you and your family has experienced great strife, as a result of her actions," she said, her words gentle. "This blessing will grant you all understanding of that strife, that it may be easier for you to reunite.
+
+"More than that, once you have understood the wars you each had to fight within, it will use that understanding and grow into a Greater Blessing that will stay with your bloodline, should you wish it. That may take many forms, but in addition to all the normal benefits of such a blessing, it will allow you to call upon her divine power in times of need, either to enhance your magic or make use of hers."
+
+Graystalk seemed mollified by that explanation. He reached out to take the pill, turning it over once in his hands before slipping it into his pocket. "I will... speak to my family again before taking this," he said. "But thank you."
+
+"There is no need for thanks," Astiviya said. "I would prefer, in fact, if you did not bring up that this happened. My worshippers will believe I am getting soft, otherwise."
+
+"You have always been soft," Purén said with a chuckle. "You have only been unable to express it."
+
+Astiviya steadfastly ignored her, though that resolve was rapidly crumbling. "We will leave now," she announced instead. "Your Headmaster remains in his Inspiration trance, and I do not wish to remain to bask in my humiliation. You have received your blessing and your apology—"
+
+"I explicitly did not receive the latter," Graystalk pointed out, raising a brow.
+
+"You have received your blessing and a statement of intent to apologize," Astiviya continued smoothly. "Which fulfils the conditions of this duel. Brightscale may continue to participate in the Fettered Divinity tournament, and I will explicitly provide my backing if it is required. Please convey to your Headmaster my acknowledgement of your academy."
+
+"I will do that," Graystalk said. His gaze lingered curiously on the way Astiviya's hand held on to Purén's. Astiviya couldn't figure out why until she realized that her grip on Purén was tightening with every moment. Purén herself did not complain; she seemed only to grow more amused by the moment.
+
+"...We are leaving now," Astiviya said quickly and abruptly. With that, she tore a hole back to the divine realm and stepped through, tugging a laughing Purén through with her.
+
+Graystalk watched them leave in bemusement. He had imagined many different eventual confrontations with the Goddess of War, but not in the wildest of dreams had he imagined that.
+
+Then his gaze finally fell on Icon, who was still holding Cale protectively. "Oh, dear," he muttered, pushing himself to his feet. "I better find out if he is alright."
+
+Cale did not wake for two days, which caused some panic amongst the faculty of Brightscale Academy, many of whom could be found pacing outside of the infirmary. Eventually, his apprentices were forced to join the Healing Ward's mages in creating a blockade that was capable of keeping a worried dragon away.
+
+This was, in itself, no small feat, and would have awarded them no small number of credits if Akkau had been in the right state of mind to gift them.
+
+"I cannot believe they are calling these anti-dragon wards," Akkau complained instead, glaring at the seal painted on the archway. "How were they even able to do this? They are mere palewater students. Can you believe this, Sterny?"
+
+"Would you like me to teleport you past the wards?" Professor Sternkessel offered, making no comment on the nickname.
+
+"No," Akkau grumbled. "I am well aware of why they are doing this. It simply feels excessive. I am surprised you are enabling me."
+
+Sternkessel hummed. "I have my reasons. Shall we return to your office, then?"
+
+Akkau narrowed his eyes suspiciously, but he saw no trap in the offer. "Fine," he said, sighing. "They will let me know when he recovers, anyway."
+
+It was four days, in total, before Cale was finally well enough to return to classes; three days before the Gift had said his connection with it would be re-established. It was both exciting and frustrating, because while his connection was gone, he couldn't look up what [Sourcefire] had been all about.
+
+The spell was there. He could have cast it, if he'd been willing to risk it. But he had plenty of other magics to explore and projects to catch up on, not to mention a number of classes he'd been looking forward to. He figured it probably wasn't worth taking that risk, considering the implications the name alone had.
+
+That and the Gift had demonstrated some ability to interfere if things went south. Right now it was preoccupied, judging by the amount of activity above Utelia's oceans. Storms had been raging above them for days, and it likely wouldn't be safe to try until those storms had calmed.
+
+So! Cale went back to his classes instead. Specifically, he went back to his classes and to the duty of training his apprentices. Now that Thorn had recommended them so strongly as the secondary team in the tournament, that was especially important—both Cale and his apprentices had been put into a special track to better prepare them for it. For the foreseeable future, they would be training with the academy's best professors in classes tailored to their needs.
+
+This was even more disruptive than it normally would have been for three reasons that Cale was very excited for.
+
+First, the professors themselves had changed dramatically. The Inspirations that many had gained during the duel between Cale and Astiviya meant a lot of their mages had made significant breakthroughs in power and knowledge. Many of them were frantically rewriting their coursework, in fact. In the four days Cale had been gone, the format of every class had been turned pretty much upside-down.
+
+Second, Korav had made deals with many of the shades that Astiviya summoned, and while many of them chose to return to the River, a good deal of them had asked to stay. More specifically, they had asked to stay and work at the Academy as a professor, which Korav had obliged by working out a contract for each of them with the Headmaster.
+
+As a result of all this, "the academy's best professors" as a category had been entirely reworked. On top of several professors that had made leaps and bounds with their magic, the list now included a number of liches, former dark lords, and ancient not-quite-evils that were eager to pass on their knowledge to the next generation.
+
+Third and most significant, however, was that thanks to the Inspiration she had received, Professor Imrys had made a breakthrough with the labyrinth she'd attached to his room.
+
+Specifically, she was claiming that she had invented a means of using it to temporarily travel to other realms.
+
+It was an incredible claim. Cale wasn't even sure if he believed her just yet—there was a reason so many other mages had tried and failed. But Imrys wasn't one to make claims like these if she wasn't absolutely certain.
+
+Either way, he would get to see for himself soon. It was the whole reason he was here. Imrys had insisted he attend her first class on the subject, just in case things went wrong. He had his own reasons for wanting to attend, of course; inter-realm travel had enormous implications for him, and more importantly...
+
+The question of what happened to humanity still pulled at him. That scrap of paper Adam had left him had given him a few ideas, but Cale couldn't be certain of anything yet. He knew only where he needed to start.
+
+Dark one and the holes in his memory surrounding them were connected to this, somehow. It would be difficult to chase after Utelia's dark lord, but if he could just see the cycle of darkness and divinity in its entirety by peeking into other realms, he could pry open the secrets surrounding them.
+
+He really wished the class didn't have to start in his room, though.
+
+Right on cue, Professor Imrys, in all her tiny, mousy glory, leapt onto the dresser with a mad gleam in her eyes. "Everyone is here!" she announced. "I am terribly excited for this, my dears. Welcome to the first ever lecture on Streaming the Realms!"
+
+"I have a question," Cale said. "Can we not call it that?"
+
+"Oh, goodness, no. I've already signed the paperwork," Imrys said, shaking her head. She hopped off his dresser and marched toward the door. "Now, if you would, please follow me into the deadly labyrinth that might kill you. Mind your steps, dearies."

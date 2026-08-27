@@ -1,0 +1,209 @@
+---
+id: 6337b47b-aa5e-5ce2-b7c4-5df69bd34deb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16 – Wilds – Pt5"
+slug: 0016-chapter-16-wilds-pt5
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 16
+ownLength: 2201
+unit: words
+publishedAt: 2024-11-23
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1920681/chapter-16-wilds-pt5"
+royalRoadId: "1920681"
+---
+
+Like being hit by water from a fire hydrant, Kindra staggered into the wall. Mana flooded around her, pouring into her. What? Her hair lifted. Her eyes widened, and she gasped. The mana continued without care, flowing into her like a river of warm metal. Shaking, she forced herself to follow the conduit of mana that led into the stone. Guess the wyvern finally died. Reaching down, she grabbed the bolts, moving them closer to the door.
+
+Loading one, she slid the door open and stepped out. Birds all turned. They chittered and chirped. A group flew, and she fired, catching one in the chest. Stepping back inside, she reloaded.
+
+“What the heck was that?” Aika groaned, sitting up and looking around.
+
+Kindra slid the door shut and smiled. “Magic. Some paralytic type.” She grabbed another bolt. “Want the good news?”
+
+“Yes.” Aika rubbed her eyes, stood, and stretched, massaging her head.
+
+“The birds aren’t that strong, and the wyvern died.” Kindra grinned and watched the flood of mana continue to flow into her. “And I’m making progress on the birds.” She loaded and fired at a flock of birds that soared back into the cave.
+
+The bolt zipped through the air, sinking into the bird. It tumbled, and the group retreated, soaring toward the exit. She reloaded and stepped out the door, aiming at a roosting bird and firing.
+
+“How much mana did we get?” Aika asked, landing on her shoulder.
+
+Kindra smiled. “Not sure. Let me see.”
+
+[Your mana has increased: 302 → 597.][Active mana: 299.]
+
+“A lot,” Kindra whispered. A grin spread across her face. “Want to try wyvern meat? We might get more mana.”
+
+Aika chuckled. “Is it going to waste too much mana?”
+
+Kindra smiled. “We can afford it.” She walked to the back of the cave and focused, forming a tunnel down to the wyvern below. The ground shifted, and a tunnel formed, leading slightly upward.
+
+Crawling through it, Kindra found the buried body. The wyvern had scratched, clawed, and thrashed, trying to swim out of the mountain. Almost made it, too. Grinning, she watched the mana flowing into her.
+
+Pulling out a knife, she crawled forward and looked at its head. Can I drink its blood? And will that give me more? She reached forward. Her knife slid off the scales and hit a seam. Sawing into it, she slowly cut deeper while the mana flowed through the space and into her. At least I’m close to it.
+
+As blood oozed out, Kindra blushed. She leaned forward and licked blood from the wound. A fiery metallic flavor burst through her mouth, and her mouth watered. Why is this so good? She swallowed and looked at the oozing blood. Death, Is this a dark road and all that stupid crap?
+
+[Yes, but the question is one of power and how you get it. It’s dead. Eat it if you want.]
+
+Kindra shrugged. Oh, whatever. She bit into it and felt some part of her latch onto it. Blood flowed into her mouth, and a torrent of mana came with it, surging through her.
+
+[Racial Skill Unlocked: Feed - Some species adapt to feed on the essence of the living or killed. You may feed on the nearby, recently slain, drawing the mana into yourself.]
+
+She willed the text away and licked her lips, savoring the flavor. What is wrong with me, Death?
+
+[That is for you to uncover. ~Death]
+
+Pulling back, she could feel the connection. It thrummed.
+
+Watching it in fascination, she pulled her mouth away. The connection remained. I can just pull it into me? That seems awesome. With that thought, she did, pulling the mana from the body into herself.
+
+A torrent of magic flooded into her, and she gasped, laying there while her body twitched.
+
+“Kindra?” Aika asked. “Are you turning into a vampire?”
+
+“I think that already happened.” Kindra lay there and let it wash over her. “How did that happen?” Scooting backward, she retreated from the cave, and the last of the mana came with her.
+
+[Your mana has increased: 597 → 1097.][Active mana: 807]
+
+Well, now. That’s way more effective. Standing up, Kindra looked at the small cave and focused on Aika. “Guess how much?”
+
+Aika grinned. “How much?”
+
+“Eleven hundred.”
+
+“Well, let’s level and kill everything.” Aika giggled.
+
+Kindra willed her mana into her level.
+
+[Your mana has reduced: 1087 → 967.]
+
+[Your level has increased: 5 → 6.][Your intelligence has increased: 8 → 10.]
+
+[Please select four attributes to increase.]
+
+[Your strength has increased: 4 → 6.] ‎[Your speed has increased: 6 → 8.]
+
+Kindra paused and debated. Do I keep the mana or get some more attributes? Or should I level… Hey! Where’s my skill upgrade?
+
+[New skill unlocked: Machinist Cache - Stash crafting supplies or crafted items into a pocket dimension. Current capacity: 2000 pounds.]
+
+Cool. Kindra stashed her supplies, grabbed her crossbow, and looked at the birds. Time to clear these out. She loaded the crossbow and slid the door open. A bird dove, and she jumped backward. Slamming the door shut, she aimed through the grate and fired.
+
+The bolt flew, clacking off the stone. Kindra reached down and reloaded, slowly working through her pile of bolts and killing errant birds in view. “Aika? See any more?”
+
+Aika flew over and peered into the gloom. She frowned. “No. Where’d they go?”
+
+“Behind rocks or above us, I think.” Kindra slid the door open, stepped out, and stepped back in. A bird shot by, its wings flaring. Tracing it, she fired, clipping a wing and sending it tumbling into the stream. It hit with a splash.
+
+Ratcheting in another shot, she stepped out and back in. The birds didn’t take the bait, hunkering in their shelters above. Walking back inside, Kindra grabbed her gear and willed it into storage. “Do we go deeper or go out?”
+
+Aika fluttered up. “I think the entrance is over there, where the stream leaves.”
+
+“Yeah. I was thinking of heading that way.” Kindra nodded and burned mana to make a quiver from the tiger hide. Loading it with bolts, she stepped out and back in.
+
+The birds didn’t react, and Aika flew out, peering up.
+
+“See anything?”
+
+“Yes, but they seem reluctant to move.” Aika flew down and looked down. “Are you scaling this?”
+
+Stepping forward, Kindra peered up and then peered down. Little ledges lined the wall. “I’m going to spend some mana.” She spent seventy mana, willing it through her body.
+
+[Please select four attributes to increase. You may pick the same attribute.]
+
+Please let this boost help. She pushed them into strength and dexterity.
+
+[Your mana has reduced: 967 → 937.] [Your strength has increased: 6 → 8.] ‎[Your dexterity has increased: 6 → 8.]
+
+Looking down, she mapped the best path to the stream, memorizing ledges and handholds. Turning, she slowly lowered her legs, her fingers digging into the stone.
+
+Dangling, she sank a foot into a crack and moved a hand down, clutching the wall and slowly descending.
+
+A bird launched from the cliffs. Dangling from the wall, Kindra lowered her leg. Moving silently, the bird’s wings flared, and its beak opened wide. Aika shot upward and slammed her spear forward, sinking it into the bird and smashing it into the wall.
+
+Kindra turned. Clutching the wall, she looked up and grimaced. Treacherous birds volleyed off the ledges, soaring toward Aika. Rotten climbing level. She scrambled down, jamming her hands and feet into cracks.
+
+Aika’s spear slashed. Blood sprayed, and she zipped here and there, dodging beaks, wings, and talons.
+
+Kindra scrambled, ignoring the pain and clawing her way down the rock.
+
+Dropping the last six feet, she landed heavily and felt blood roll down her leg. Pain radiated from her scraped and cut fingers and feet. Her old wound throbbed in time with her heart. Forking birds. Grabbing her gun, she whistled and flicked the safety. “Dive, Aika.”
+
+Aika shot downward, swooping toward Kindra’s legs. The birds followed, eagerly chasing the perceived meal. Pulling the gun up, Kindra exhaled and fired. The sound boomed. The feathers blew everywhere, spraying the group of birds with blood.
+
+Altering her aim, she squeezed the trigger. The bullet zipped forward and blew through a bird, practically blowing it apart. Gore splashed, and Kindra felt the connection form with the body. She reached out and grabbed the mana, pulling it into herself.
+
+The birds fled back to the nests. Darn. Save the bullets. Kindra sighed and failed to see the shells.
+
+Aika landed on her shoulder. “Thanks.”
+
+“You okay?” Kindra asked, scowling at the birds and moving down a series.
+
+“Yeah.” Aika looked upward, watching the ledges.
+
+Kindra spun and looked at the stream next to her. The water burbled along the stone. Time to platform. She jumped, landed on a boulder, and vaulted to another. Okay. That stat boost is pretty great. Jumping, she landed on a rocky beach and followed it toward the light.
+
+The light grew brighter and brighter. The water grew deeper, and her beach faded, submersed in the bubbling water. She looked for a path out of the cave and failed to find places to walk. I need fairy wings! How do I get that upgrade?
+
+[Still not a game.]
+
+Kindra sighed and placed her foot in the icy water. It churned around her foot, and she forced herself forward, doing everything possible to keep her balance on the slippery stones.
+
+The light around her grew. The mouth of the cave stretched open, and the canopy of a forest appeared, creating a green carpet that stretched out and vanished. What’s at the forest edge? Squinting, Kindra searched and saw smoke and the outline of a wall. Her eyes widened, and she smiled. We just need to get down and head in that direction.
+
+Slowing, Kindra listened to the sound of crashing water. Am I about to walk off a waterfall? She frowned. “Aika? Is this a waterfall that’s going to murder me?”
+
+Aika zipped out of the cave and hovered there. “Yes, but there is a dry spot on the other side. If you wade across, you could go there, and we could attach a rope—oh. I see a village, and another one, and… what’s that…” She zipped away.
+
+Kindra waded across the water. Is there another exit? She swallowed, pushed against the far wall, and slowly waded forward, inching toward the drop to the forest.
+
+“Kindra! I found at least two villages, and I think there is a camp or something.”
+
+“Are there necromancers in them?” Kindra thought back, creeping forward. “And where is the ledge?”
+
+“Give me a minute.”
+
+Reaching forward with her foot, Kindra took another step forward and looked down at the treetops. A carpet of green stretched below her, and water crashed down the sheer cliffs. Small bushes and vines decorated the sheer rock that dropped out of view. I need stairs! Stairs! I suck at platformers.
+
+Frowning, she looked over and saw a small ledge about a foot wide. She’s out of her darn mind. Maybe if I had a climber class. Hey, system, is that a class?
+
+[No.]
+
+Did Death update you?
+
+[Yes. Would you like to see your assigned tickets?]
+
+Pass. Kindra edged over and looked at the small ledge. She can’t expect me to scale this. She paused. “Aika?”
+
+“One second.”
+
+“Be careful. Also, how am I supposed to get down?”
+
+“I’m trying to find a vine or something. These ones are too strong.”
+
+Kindra sighed and waited, the cold water rushing around her ankles. Time seemed to tick by at a glacial pace. “Aika?”
+
+“I found some dwarves and am trying to get a rope, but they keep staring at me and hitting each other… Oh, screw it.”
+
+Kindra chuckled. Is she stealing a rope?
+
+“Kindra!” Aika shot out of the trees, a rope falling from her hands. A bird that looked more like a pterodactyl shot after her, its green wings drumming against the air.
+
+Dinosaurs? Cool. Kindra pulled out her gun and burned mana.
+
+[Basic 9mm has been enhanced with armor-piercing rounds for 24 hours. Each shot will negate up to 20 stamina when fired.]
+
+Aiming at the bird, she waited, letting it get closer and closer. Its large mouth opened, revealing rows of razor-sharp teeth.
+
+“Kindra?”
+
+“Get ready to dive.” Kindra waited. “Three… Two… One…” She pulled the trigger, and Aika dove. The bang echoed around her. The bullet slammed into the bird’s shoulder, and it veered sharply, slamming into the cliff with a loud crunch.
+
+Darn. Wanted to get all its mana. Kindra reached toward it, clawing at it as it slipped out of range. Aww. She watched Aika zip down into the trees with a long rope.
+
+That’ll help. Kindra smiled, walked onto the little ledge, and burned mana to make a rock she could tie it to.
+
+Aika looped the rope around the stone. “We’ll have to do it a lot to get down. It’s not that long.”
+
+“That’s okay. Thanks, Aika.” Kindra tied it off and used it as support. Leaning outward, she looked down and mapped out the ideal places to make ledges.

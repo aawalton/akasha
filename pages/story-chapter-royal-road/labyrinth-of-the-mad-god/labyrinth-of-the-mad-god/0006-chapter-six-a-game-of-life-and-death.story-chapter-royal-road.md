@@ -1,0 +1,139 @@
+---
+id: c009e910-9ebd-5a62-9db8-62b993d79e58
+page-type-slug: story-chapter-royal-road
+title: "Chapter Six: A Game of Life and Death"
+slug: 0006-chapter-six-a-game-of-life-and-death
+partOf: labyrinth-of-the-mad-god
+position: 6
+ownLength: 1839
+unit: words
+publishedAt: 2023-09-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331821/chapter-six-a-game-of-life-and-death"
+royalRoadId: "1331821"
+---
+
+It was odd that the quest countdown seemed to match the time that Nick had woken up on the beach, but this could be a lucky break. The start of a new round meant that other players should be somewhere nearby. People who could help him get home.
+
+As with the main menu, the information on the questing screen was remarkably game-like. He was still processing everything that he’d read, but it appeared that he had stumbled across an elaborate prop for some sort of live action role play. He wasn’t sure what the Labyrinth was—maybe the setting for their adventure.
+
+Thinking about it filled Nick with a vague sense of unease whose origin he couldn’t pin down, so he moved on to the rest of the description. The Searing Isle, huh? I don’t recognize the name, but it might be made up for the game. I wonder where it comes from. Probably the volcano.
+
+Although he was reasonably certain that this computer wasn’t connected to the internet, and that the information about the game was unlikely to be helpful, he still felt immensely relieved.
+
+This wasn’t an uninhabited island after all. People had been here before and were either somewhere in the area or would return relatively soon. The obelisk looked pristine, handmade, and expensive. Not the kind of thing that you would use once and then abandon.
+
+While he doubted that it would reveal anything useful, he went ahead and selected the final option from the main menu. Despite his predicament, he found that he was curious about the game these people were playing out in the middle of nowhere.
+
+Nick’s predictions were shattered the moment he began to read. The words that appeared shocked him to his core.
+
+Contestant Profile: Nicholas “Nick” Henry.
+
+Level: 0.
+
+Tier: 1.
+
+Species: Human of Earth (E).
+
+Holy shit. My name is in the database. How is that even possible? He took a reflexive step back, as if retreating from the display could shield him from the impact of the words. Was I playing this game before I lost my memories?
+
+No. I couldn't have been playing already if I’m still Level 0. And I wouldn’t start a round without shoes or bandaging these injuries properly. Hoping that it would tell him more about what was happening, Nick ran his eyes across the rest of the screen.
+
+Class: Survivor (Basic).
+
+Base attribute points per level: 0. Free attribute points per level: 1.
+
+Attributes
+
+Abilities
+
+Ability slots: 2 active, 1 passive, 1 free.
+
+No spells or abilities have been acquired.
+
+When Nick saw that he had been assigned a basic class, he felt a surge of disappointment. He knew that he had been cheated somehow, although he had no idea where the emotion came from.
+
+A second page followed the first, which he ignored for now, returning to the questing screen instead. He slowly reread the prompt, pondering every word while trying to suss out its implications.
+
+A one-month time limit. Does that mean if I can hold on until the end, someone will show up and rescue me? Wait, that would mean someone knows I’m here already. What could they possibly want from me? Is this some sort of sick game like that Korean show Angie made me binge last summer, where everyone wound up killing each other?
+
+That thought triggered an outpouring of anxiety, repressed memories scraping along his consciousness like nails dragged across a chalkboard. Why do I feel so sad when I think about Angie? After a moment, Nick’s discomfort began to fade, and he went ahead and examined the final page of his profile.
+
+Class Traits
+
+Survivor: You require 25% less food, water, oxygen, and sleep.
+
+Geneline Traits
+
+Gift of Tongues: You can understand and speak the languages of all intelligent creatures.
+
+Awakened to Magic: +1 to Magic.
+
+Versatile: +1 to all attributes. +1 free ability slot.
+
+Bloodline Traits
+
+None.
+
+Skills
+
+Wand: 0.
+
+Evaluate Danger: 0.
+
+Foraging: 0.
+
+Inventory (Unfiltered)
+
+Blue Jeans (Basic).
+
+1 Chocolate Chip Cookie (Basic).
+
+Bathrobe (Common).
+
+Wand (Uncommon). Modifications: Soulbound. Skill activation (Wand).
+
+I guess my shirt doesn’t count as an item since it’s ripped into pieces. Wait, does that mean this database is being updated in real time? It only lists one cookie instead of the pair I started with. Is there a satellite, spy camera, or drone watching my every move?
+
+Unable to make sense of what was happening, Nick stared at the screen, seeking the meaning hidden behind the words.
+
+Gazing at the bottom of his inventory, he thought that he saw a blurry space at the end of the list. Like an entry had been obscured by a drop of water. When he wiped the area clean with his thumb, it disappeared, so he dismissed the blur as merely a smudge.
+
+Awakened to Magic? Gift of Tongues? While it would be great if these traits were real, I don’t have time to figure out the rules to this game right now. He sighed in disappointment. This display is useless to me except for the clock. I can’t see how it has anything to do with a real-world survival situation.
+
+After reading the word wand for the tenth time as he collected his thoughts, Nick realized that something was sticking out of the pocket of his robe. An item that he had dismissed as a stick during his initial survey of his possessions.
+
+Hoping that it could provide him with clues that the obelisk had not, he reached into his pocket. His fingers brushed past the gooey cookie, which had melted a bit over the course of his hike, and pulled out an object that had to be the wand listed on his profile.
+
+The carved strip of dark wood was the length of the space between his elbow and his wrist. It was covered in engravings that looked like some kind of runic language, all sweeping curves and sharp points. One end came to a rounded knob, while the thicker side was flat on the bottom.
+
+Near the base, there were three small gems embedded at regular intervals—clear stones that glistened beneath the light of the noonday sun. The only other features were two raised protrusions that sat where Nick’s thumb rested when he gripped the wand with the gems facing up.
+
+For just a second, he thought that he felt something when he touched the device. A sense of familiarity, like he’d been using the wand all his life. But when he took a closer look, the feeling passed.
+
+It was, honestly, rather elegant. Prop or not, the carvings had been etched with skill and an impressive attention to detail. It was probably worth something to a collector. More importantly, once Nick got home, a forensic analysis of the wand might reveal hints as to what had happened to him and who was responsible.
+
+He tried fiddling with it for a few more minutes, but nothing happened, no matter what he tried. In short, the wand was weird, but wasn’t worth wasting any more time on right now. Hidden clues aside, he had no need for a theater prop and nearly tossed the wand aside to reduce the weight of his clothing. He hesitated, nearly chucked it a second time, then slipped the device back into his pocket.
+
+When he did, the strange feeling came back, stronger this time. While he had never seen its like before, Nick was certain that the wand belonged to him—that he had claimed it for himself on a primal, fundamental level. It was a weird sensation, but he attributed it to the strange day he was having and moved on to more important matters.
+
+Since Nick had no knowledge points to spend, or any idea of where he might find a chest, he shelved these issues until he had time to spare. With a sigh, he turned away from the screen, considering and discarding a dozen plans out of hand before committing to a course of action.
+
+If this is some kind of reality show or snuff film, whoever is responsible is probably watching me in real time. Operating under the assumption that he was being observed, he scanned the air above his head for drones but found nothing of the sort.
+
+He moved on to the obelisk itself, putting his face against the stone, then examining every inch of its surface for pinhole cameras. Finally, Nick pinched the fabric of his robe and jeans, sliding his fingers across every fold of cloth to check for embedded tracking chips. But that plan was a bust as well.
+
+Discovering no trace of hidden observers, he returned to the matter at hand, securing the resources he needed to survive until he was rescued. He was already growing hungry once more, and his throat was dry, making it hard to swallow.
+
+He was sweating less now that he was in the shade, but the heat was still wringing him dry far faster than normal. He needed to find a source of water within the next twenty-four hours before dehydration began to affect his coordination and judgment.
+
+Since there was a chance that he would lose it and it was already crumbling into pieces, Nick went ahead and ate most of the cookie, the grit of sand crunching between his teeth with every bite. It magnified his thirst by a hair, but it helped to restore his energy.
+
+For just an instant, he was seven years old, standing in his grandmother’s kitchen as she told him stories. The memory lasted for only the ghost of a moment, but it made him feel better, even if his situation was no less dire than before.
+
+Although he was ready to head out, he was weary from his journey across the sands. While it was embarrassing to admit, even inside his own head, he had really let himself go over the last couple of years. He used to play sports back in high school and had exercised regularly. Now, hiking just a few miles along the surf had tired him out.
+
+I can’t afford to sweat more than I already am. I need to conserve fluid. Judging that he would fully recover sometime within the next ten minutes, Nick walked around to the shady side of the pillar and set his back against the stone, reviewing his strategy while waiting for his body to recuperate. His legs were tired from his morning hike, and he had to cover as much ground as possible without exhausting himself further.
+
+After cooling off and calming down, he was ready to go. He tightened his impromptu bandages, hefted his makeshift umbrella to protect him from the sun, and resumed his trek along the beach. As he walked, vibrant hoots and caws resounded in the distance.
+
+Nick assumed that they belonged to familiar animals from the world of his birth, unaware that the Searing Isle was every bit as dangerous as the obelisk had promised. An unforgiving wilderness filled with tooth, fang, and claw.

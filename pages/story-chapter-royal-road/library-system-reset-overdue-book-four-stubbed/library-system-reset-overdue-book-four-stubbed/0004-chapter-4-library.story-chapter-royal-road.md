@@ -1,0 +1,171 @@
+---
+id: 64e7b9ee-7b67-5ace-83f0-77f01bdf728a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4:  Library"
+slug: 0004-chapter-4-library
+partOf: library-system-reset-overdue-book-four-stubbed
+position: 4
+ownLength: 2740
+unit: words
+publishedAt: 2023-10-23
+link: "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1383292/chapter-4-library"
+royalRoadId: "1383292"
+---
+
+Chapter 4
+
+That was all the encouragement Lynx needed. He guided her second hand to join the first, about shoulder-width apart, against the smooth, cold surface of the trunk. His touch was cool and almost wispy, like it was made out of compact smoke.
+
+She could feel the grooves beneath her hands that might have been grains at some stage.
+
+As soon as both her hands hit the surface, the lights throughout the tree began to illuminate, resembling veins or maybe circuits on a motherboard. It was beautiful yet terrifying as she felt a brief surge of power fire up through her, right through her body, to her brain, lighting up her own veins under her skin like Christmas tree lights strung around a bright star.
+
+However, when she opened her mouth to comment on it, it felt as though her veins were on fire. Instead of speaking, she screamed. It obliterated all other thoughts in her head, leaving only the fiery rush of everything, and all of it at once.
+
+There were planetary alignments and stars in skies she'd never seen before. Star systems she'd never heard of, despite her passing interest in astronomy. There were continents with creatures that roamed them as if out of some fantasy book. Floating islands littered skies with rivers falling down into nothingness.
+
+She could have sworn it was pulling memories of video games, only the images were never quite accurate, and always different to what she'd played.
+
+Maybe if she jumped off one of those floating islands, she could fly to the next. Images of massive cities floating in space encased in huge clear domes. Ships on water, through the stars, in bathtubs.
+
+The images continued to assault her brain, inundating her with sensations.
+
+Sounds.
+
+Smells.
+
+Sights.
+
+Suddenly, she was pulled back into the branches of the core she was connecting to. She could trace all of those ley lines right through to the core of the tree itself. She chafed at that word because it wasn't entirely accurate. Tree was the only thing that could explain the roots and branches. She'd come up with something eventually.
+
+And all the while, pain tore through her veins, threatening to rip her apart.
+
+Down through the roots and into the vastness beyond, the leylines or magic veins ran. They gathered in pools of ... power perhaps? Except right now there was nothing but muddy and congealed dregs in the bottom of them. The nodes were withering away, having not been filled for so very long.
+
+Desperation and despair clung to every forgotten and neglected crevice.
+
+Cracks appeared where magic had leaked out, entering the world in a wild form. But she could see the outline of everything that had to happen in order to fill the pools back up. In order to return things to their former glory. All she had to do was let it happen.
+
+No. That wasn't right. What she had to do was let the Library in and allow the flow of power to continue again.
+
+For it to wake the Library up once more.
+
+Suddenly, without a shadow of a doubt, she knew she was the right person. Everything about her could connect seamlessly with these ley lines, with this magic, with the core, and with all these tendrils of magic. She might not understand everything yet, but she did feel the connection.
+
+All she had to do was fix the Library, retrieve all the overdue books, and reopen it to the people who needed it again.
+
+She just had to gather, treat, and spread the magic. That couldn't be too hard, could it?
+
+With that simple thought, the core opened up to her. It was a well of knowledge so profound that it hurt as it entered her mind. The library system did so many different things. It serviced worlds, and encountered dangers, but most of all, it echoed the utter thirst for knowledge she'd been trying to grasp when choosing her major back on Earth. How did that seem so long ago now?
+
+Information poured into her brain faster than she could process it.
+
+None of her past mattered anymore because she was here now, and she'd found the Library she'd been searching for. Being a librarian had been the exact right vocation for her. Just, strangely enough, not in the way she'd assumed. It was perfect, oddly on the nose considering where she found herself.
+
+It had always been a part of her.
+
+The core still thrummed beneath her hands, but now there was less franticness to it. She could feel the all-consuming panic of the Library abating. While there was still an underlying sense of urgency, it was duller than it had been.
+
+You have a connection to the Library of Everywhere’s Core. Potential Librarian, do you accept this connection?
+
+The words flooded her vision, dancing all around her. The options of Yes and No floated with it.
+
+She directed her thoughts toward the Yes.
+
+A bright light flashed all around her. Brighter than anything she’d ever seen, and yet it didn’t hurt her eyes. Instead, it felt all encompassing, gentle, and welcoming.
+
+For now, the Library had found its librarian and the next steps could begin. It was enough to scale back the panic ever so slightly.
+
+There was so much power all around her, but just out of reach. The information in it was so much clearer, so purposeful. So uniquely fitted to her. And so many tasks she'd have to undertake.
+
+She couldn’t just run and jump though, there were steps to take first. Things she’d have to do in order to replenish power reserves and gain access to the full interface. She wasn’t even quite sure how she knew all of this.
+
+Finally, she noticed that the alarms had dimmed, and she allowed herself to blink. Lynx stood against the tree, leaning there with his arms crossed, watching her. There was a very cat-like grin on his face.
+
+"See. I knew you'd fit."
+
+"Nothing that you told me prepared me for this." She removed only one hand and felt a small pang of loss, even as she gestured vaguely all around them. Her breath caught in her throat, because the sense of belonging was overwhelming.
+
+"Yes, it did. I explained it very well thank you very much.” He lifted his nose haughtily for just a moment. “You are what the Library needs. You synced with the Library and now we can go about restoring it."
+
+Quinn held up a hand stopping him short. “No. I’ve linked to the Library now. You owe me a summary. I’m waiting.”
+
+"I get it, I get it." Lynx took a breath and began. "To simplify it as much as I dare: The Library you're sitting in is the distributor of all magic. Everywhere. In the universe. All around us.”
+
+That took Quinn aback. Even though he'd mentioned the Library multiple times, it still didn't feel like one. "This looks more like the bowels of a tree than a library."
+
+"Well, that's because we're in what you'd probably call a basement. In the control center. And it’s not a library, it’s the Library.” Lynx reached out and gently nosed the petrified tree trunk next to them. It glowed briefly at the contact, like it could tell he was there.
+
+Quinn raised an eyebrow in disbelief, and ignored his little barb at the end. "A library that has a control center. What do you even mean by that?"
+
+"Because, like I said, it's the Magical Library. One of a kind. I think that hit on the head you mentioned on the pull through caused the information transfer to malfunction. This would be so much easier if you just automatically knew things." Lynx studied her, a frown on his face.
+
+Quinn had the grace to blush. It was still fuzzy on how she’d hit her head when the world appeared to be dissolving around her, but over time she began to feel a dull throbbing. Odd that it hadn’t been immediate.
+
+Lynx shrugged and continued. "For a very brief understanding that doesn’t go into intricacies at all: Everyone has a magical affinity. If you read a book within your affinity, and understand the knowledge you absorb, you gain the power within. There are a few other requirements, but that's the gist of it. Once you’ve gained the knowledge, you have to return the book. The Library has existed this way for countless years. Millenia. Eons."
+
+Lynx paused, a troubled look on his face, though Quinn was really worried about the fact that she could tell that a lynx had a worried look on its face because it was a lynx. It was a cat. She truly must have knocked her head badly.
+
+"Stop looking at me that way," Lynx said somewhat defensively, perhaps even a little flustered. "I can manifest into other things, too, you know."
+
+A whoosh of air brushed past Quinn's ears ruffling her hair in the process, and suddenly, in place of this beautiful, purple cat, was a child. A small child, about the same size, about the same mass, with dark black hair that had rings and rings of... were those runes engraved into it?
+
+Maybe that's what was on the cat's stripes. Then, there was another gush of wind, and it changed again, revealing what appeared to be a type of owl. It was massive, and it's wingspan brushed the ceiling and touched the floor, yet it didn’t appear to touch the trunk.
+
+Before she could say anything, there was another shimmer in front of her. This one made the air around her vibrate, and a flash of light caused her to close her eyes for a moment. When she opened them again, an adult several inches taller than Quinn, around five feet-seven or so, stood directly in front of her.
+
+She scrambled back and stood up, but the purple hue told her who it was, even if her eyes didn't want to believe it. "Are you... Are you a hologram?” she asked, incredulously. "You look so... so real."
+
+Lynx chuckled, and the tone was a little deeper. He was even taller now, maybe closer to six feet, and his hair was purple-black and shoulder length. But his eyes were these purple orbs with no sclera, and just deep and fathomless, limitless.
+
+Like she imagined the darkest regions of space.
+
+Easy to get lost in if you looked too close.
+
+She shivered.
+
+"I'm not a hologram as such. I'm a... you would call me a manifestation. I'm the Library. The Library is me, but I'm also myself. I evolve frequently because I have to."
+
+Quinn just nodded, unsure of what else to say.
+
+"So, as you've probably gathered," Lynx began, "you are not on your world anymore."
+
+Quinn just looked at him, at the fathomless eyes, at the rune-written hair, and nodded. "Yeah. Yeah, I got that."
+
+At least Lynx had the good grace to laugh. "I hoped you would. Otherwise…” he trailed off, a confused expression crossing his face ever so briefly. "Anyway. The Library is technically located in the system of Gregari. You won't have heard of it. Your world hasn’t discovered these universe designations yet."
+
+"Okay." Quinn mulled that over in her mind. It sounded about as far-fetched as she'd expected. Still, she was trying to keep an open mind which was difficult with so much new information trying to overwhelm her senses. "Go on."
+
+"Well, the Library is everywhere. And anywhere. All the time. And none of the time. It's infinite. And much bigger on the inside."
+
+"That’s been used before.” She snorted at her own joke, but his blank expression told her he didn’t get it. Clearing her throat, she continued. “It's a library building. How can it be much bigger on the inside?"
+
+Again, Lynx laughed. "You're inside the Library right now. And it has no actual physical address. It's in a dimensional pocket all of its own. It functions on mana, energy, and magic. And it pulls in the energy and magic from all of the books, and from all of the patrons. All of the excess. It fuels and cycles and purifies that mana and sends it back out into the universe. Through ley lines, through nodes, using its core to replenish the magic of the universe through the knowledge and the books in the Library. That’s a bit of a simplification, but it’ll do for now."
+
+Quinn wondered what Lynx would consider complex if this was the simplification. If the Library really was as big as Lynx said, then it made no sense that it would only have one librarian. Something had to have happened. Quinn could only hope that Lynx was actually going to tell her.
+
+Since she’d just taken on the job and all, maybe she should have asked about hazard pay first.
+
+"Okay, then," Lynx said and sighed thoughtfully, his brows scrunched together as if he was trying to figure out the best way to phrase what he was going to say. "The Library has existed since the dawn of time. I’ve been here almost as long. All of the knowledge has been gathered over time. It didn't exist until it did. And then it was cataloged in the Library. Anybody who needs to use the Library will find a door leading to it. As long as the door can be opened, you can enter it. It can fit in a tree, it can fit in a floor and be a trapdoor. It can fit on the side of a building. The Library and its knowledge, and therefore its power, is there for everyone."
+
+Lynx paused, and a sadness came flowing off him in a strange, aura-like way. She leaned forward expectantly, wanting to know more. It was like listening to a storyteller, sort of.
+
+Lynx smiled, a little sadly still. "I can see why you were picked. You're the right one. Your affinities are so very strong. But that's just it. All of a sudden, where we had so many librarians before, a master librarian of course, and then multiple librarians assistants to the master librarian, you don't understand how big the Library is. It's..."
+
+And then he paused, because nervous laughter had overcome her and she couldn't stop.
+
+"Of course, I don't know how big it is," she laughed, clutching her stomach. She couldn't help it. It wasn't just amusing. There were so many nerves right there. A little bit of fear, and trepidation. She was terrified. How could any of this be real? She’d just connected to a damned mythical super computer and a shapeshifting cat was telling her its history.
+
+She pinched herself, sobering up a little, but still didn’t wake up in her bed.
+
+"Go on, go on," she said, struggling to remain serious. "I'm sorry, I'll not laugh again."
+
+Lynx inclined his head. "I get it. This must be overwhelming. And I bet even the information package, if it had loaded properly, wouldn't have assuaged all of your fears. This is very big especially coming from a world that doesn’t utilize the Library."
+
+He watched her for another moment and then continued. "The Library has branches. You won't... You won't see them yet. Because they're, for want of a better word, and to go in line with your world, they're offline, and they can't be brought back online until we get the system set up to receive... How could I say this?"
+
+He paused like he was trying to figure out the best way to make her understand. "The Library needs to go back online, and it needs to enable its systems again, to retrieve any lost tomes or Codexis, grimoires… the knowledge in general, to get all of its power back. So, like I said earlier, we need to restore the Library."
+
+"And just how are we supposed to restore the Library? How do I get ..." But that was as far as she got.
+
+Blinding images assaulted her. Of overgrown gardens, rotting food, and torn books being devoured by creatures she couldn’t identify. Pain ripped through her like she'd never experienced and she clenched her eyes shut. As if someone was flaying her skin from her body and it wasn't until her other hand left the trunk of the core as she fell to the ground, that the assault on her mind ceased.

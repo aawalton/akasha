@@ -1,0 +1,16 @@
+---
+id: 22a778e6-93b1-5a8e-bcc6-4b650da2995d
+page-type-slug: story-chapter-royal-road
+title: "Grand Announcement: Paperback, Audiobook and E-book!"
+slug: 0008-grand-announcement-paperback-audiobook-and-e-book
+partOf: mark-of-the-fool
+position: 8
+ownLength: 287
+unit: words
+ownProgress: 206
+publishedAt: 2022-06-23
+link: "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/934176/grand-announcement-paperback-audiobook-and-e-book"
+royalRoadId: "934176"
+---
+
+Hey everybody!So, I’ve gotten the green light to give you all an announcement that I’ve been super excited about. Mark of the Fool will be published on Amazon. (Some of you figured it out already and yes, that’s true). But that’s not all! In addition to its release on Kindle Unlimited, it will also be receiving an audiobook narrated by none other than the great, the magnificent…TRAVIS BALDREE! Yes! Some of you folk might know him from the narration of Primal Hunter, Unbound and a series called Cradle. Words cannot describe how excited I am for this. Also, also...a paperback is coming too. (THAT is making me freak out the most!) The whole thing’s been professionally edited (for 17,000 changes, according to word). So with it being on kindle unlimited, I’ll be taking down chapters 8 to 75. Originally, I had up to chapter 162 as book 1 but uh…my publisher told me that it would’ve actually been too big, so I needed to split it up. (It was over 400k, lol)Stolen from its original source, this story is not meant to be on Amazon; report any sightings.Which means what was book 1 on Royal Road is now volume 1 and volume 2 on Amazon.And I’ve got a cover for volume 1! (My publisher even got me one of those fancy animated covers!And for those of you who love the RR cover? Don’t worry. That’s going to be the Amazon cover for volume 2. (Since Claygon doesn’t exist by chapter 75) Special thanks to all of you. Without you, none of this would be possible. Here’s the link to the amazon page: royalroad.com/amazon/B0B134YJYF/ I’ll definitely post it again.And seriously. Thank you for walking this path with me.

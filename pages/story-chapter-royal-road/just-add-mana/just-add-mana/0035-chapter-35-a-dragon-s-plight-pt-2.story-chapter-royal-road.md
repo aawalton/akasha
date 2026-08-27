@@ -1,0 +1,225 @@
+---
+id: 1bc3581d-cc79-5e79-8961-2398ae4aff25
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 — A Dragon's Plight, Pt 2"
+slug: 0035-chapter-35-a-dragon-s-plight-pt-2
+partOf: just-add-mana
+position: 35
+ownLength: 3834
+unit: words
+ownProgress: 3834
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2604776/chapter-35-a-dragons-plight-pt-2"
+royalRoadId: "2604776"
+markedReadAt: "2026-06-29T18:48:45.593Z"
+---
+
+To say that Cale had mixed feelings about the conversation that followed would be a bit of an understatement.
+
+Cale was largely immune to a wide variety of magics. He'd never spent much time questioning it, mostly because he far preferred using his time to explore the multiverse and contend with all the mysteries it had to offer. There were, however, some forms of magic his immunity didn't completely extend to—this sort of subtle self-censoring information was one of them.
+
+As long as he was aware of it, though, he could fend off the worst of its effects by using the barrier technique he'd developed. If he learned that information while the barrier was in effect, he was generally able to retain it. Unfortunately, that was a benefit that extended to him and him alone. As much as he'd tried, anyone else would simply forget that information as soon as the barrier went away.
+
+The same, unfortunately, applied for Akkau.
+
+It didn't seem to matter that his own species was undergoing a similar sort of erasure from the Great Realms. He could recognize the slow extinction of his own kind, but try as he might, he didn't retain anything Cale tried to tell him about humanity. Sternkessel remained the sole exception to that rule, as far as beings that occupied the Great Realms went.
+
+Not that it mattered that much, in the end. Cale had shared mostly in the hopes that he could learn more about what had happened to humanity, but even while under the effects of his barrier, there wasn't much Akkau could offer him other than reassurance and understanding. He had no memory of any other species undergoing this sort of erasure event.
+
+What was more, he knew what was causing the erasure of dragonkind. It was unlikely to be the same as what had caused the rest of humanity to disappear—the motives were too specific, too entrenched within the culture and history of dragons as a whole.
+
+"There is something that chases us," Akkau said. He flipped his wrist over to show Cale the single black scale that tarnished his otherwise brilliant red. Cale winced at the way it suddenly grated against his mana sense, surprised by the intensity of the sensation. It had been nearly undetectable as long as it was hidden away from him, but as soon as it entered his line of sight...
+
+He could sense the rot coming off that scale. Much like the Inverted Spires, it was infused with something that felt like it didn't quite belong to this plane, a polluted magic that made his mana sense itch.
+
+Akkau's expression was grim when he spoke, the words laden with an all-too-familiar pain. "It hounds us across all the Great Realms like a predator that seeks nothing more than our extinction," he said. "In every world we have faced it, we have lost. Entire clans have devoted themselves and their hoards to its destruction, but they have found no footing in the battle against it. As far as we have determined, it cannot be fought. It cannot be stopped. It does not slow down to eat, breathe, or sleep."
+
+"You're in hiding," Cale guessed, and Akkau nodded tiredly.
+
+"As much as a dragon can hide." Akkau glanced around his office, lips quirking slightly as if recognizing the irony of the statement. "We have fled to the edges of the Great Realms to avoid this creature. It goes against our nature to simply hide away, and it finds us no matter how well we are hidden within the realm, but... we have found that distance between realms, at least, can slow it down."
+
+"Because it needs to hide from the Leviathan," Cale surmised, muttering the words mostly to himself.
+
+Still, Akkau looked up at him, brows furrowing. "It seems unlikely that anything could travel across the Great Realms without the Leviathan being aware of it. I... we had assumed it was allowed free passage."
+
+Cale snorted at that. "Something trying to chase dragons to their extinction? She'd exterminate it the second she caught wind of it," he said. "And if she couldn't, she would have said something to me about it. The fact that she didn't tells me she has no idea, and based on everything else she's said, it sounds like there might be something out there obfuscating her senses."
+
+Which was a worrying thought, to say the least. Even Akkau seemed skeptical. "You believe there might be something capable of obfuscating the senses of a Monolith?" he asked. "The Leviathan is the Law of What Lies Between. Nothing can hide from her in her domain. That is what separates the Monoliths from all others, is it not?"
+
+"It is," Cale agreed, his gaze slightly distant as he thought through the possibilities. "But Monoliths are only absolute within the Great Realms. There are artifacts—rare ones, admittedly—created from pieces of the Outer Planes that can obscure you from the senses of a Monolith. And there's always the possibility that it's another Monolith, or someone backed by one, or even something from the Outer Planes making a move."
+
+Akkau said nothing for a long moment. Cale caught the slight flicker of fear in his eyes, though it was caught and suppressed just as quickly. "I have always thought that the Leviathan was complicit," he admitted quietly. "Or at the very least that she no longer cared about us. We pleaded for her help, and when we received no response, we sought out other Monoliths. Not a single call or petition was ever answered... Though I suppose that should have been our first sign that there was something greater working against us."
+
+The old dragon let out a heavy sigh, and for a moment, he looked his age—like the weight of millennia was bearing down on him. "The scenarios you propose are grim," he said wearily. "If you are even slightly correct... I do not see a means for my people to survive."
+
+Akkau met Cale's gaze. "Do you?"
+
+"I do," Cale answered simply.
+
+Akkau did have a point. Cale knew the Leviathan well enough to know she would never ignore a plight like the one Akkau had just described, but he couldn't blame the old dragon for coming to that conclusion. Nor could he blame him for deciding that the Monoliths had forgotten them. That none of the Monoliths had responded was strange indeed—many could care less about the affairs of the realms, but something like what Akkau described...
+
+It was exactly the sort of thing that the Monoliths were meant to handle. They were the pillars of the Great Realms, the fulcrum upon which the worlds turned and magic functioned. To simply ignore something like this would be inexcusable.
+
+Far more likely that something else was going on.
+
+"But first, I need more information," Cale said. "Tell me more about this thing that hunts you. What does it look like? What does it have to do with that scale on your wrist?"
+
+Akkau rubbed a thumb over his scale at the reminder, wincing slightly as he did. "It appears as one of us," he muttered. "Another dragon, but... wrong. As if it were forged from the metals of the Outer Planes. It wields a twisted version of our own power against us, and seems entirely immune to draconic magic."
+
+The old dragon shook his head, some dark memory flitting through his eyes. "If anything, it appears to burn our mana as fuel and turn the burnt dregs of it into corrupted strength, though I imagine that description does little to help."
+
+"It helps more than you'd think," Cale said. "Go on."
+
+"It marks us whenever it encounters us," Akkau said. He rubbed at his wrist again, this time absent-mindedly, scratching at the scale as if tempted to pull it off. "That is how it kills—not through glorious battle, but through time. Almost as if to mock our efforts to survive. It weaves between us, tears through our spells, destroys our hoards for no reason other than to see us despair. But it does not kill us. Not immediately.
+
+"It simply touches us. A single glancing blow by spell or claw, it matters not. As long as it makes contact, we are marked with this... this scalerot. A plague that rots us from within until we cease to exist." Akkau's voice had turned into something of a low growl by the end of the explanation. "A cruel death for any species, but especially for a dragon."
+
+"It's designed," Cale said, narrowing his eyes slightly. "Whoever's doing this picked the kind of death they knew would cripple your pride. A personal crusade against your entire species."
+
+"That is the conclusion we came to," Akkau agreed, his voice both heavy and a little bit distant. "It is not a curse. A curse might be dispelled, but there are no marks on our mana cores. It is not a blight, nor a parasite attached to my life force, nor some new abomination of soul magic. We have done everything within our power to understand this mark, but we know nothing. Only that it is invisible to all magics except mana sense, and even then only when directly observed."
+
+A sigh. "I am lucky to have only been grazed before I escaped," he said quietly. "I may have decades still before it consumes me. Short, perhaps, for a being that would have otherwise been immortal... but I have lived a full enough life."
+
+Despite himself, the admission made Cale relax slightly. Decades gave him a bit more time to find a solution, even if Akkau himself seemed like he'd given up on it.
+
+Cale was a little less accepting of that sort of thing.
+
+"Let me look at it," Cale said. Akkau offered him his wrist, and Cale took it into his hands, running his mana sense over the scale once again. It was exactly like Akkau said—as far as he could tell, it wasn't linked in any way to his core, his soul, or his life.
+
+Instead, it was like the dragon's very existence had been marked.
+
+"You've tried amputation, I assume?" Cale asked, still probing it with his mana sense.
+
+Akkau grunted. "Not personally, but others have attempted it," he said. "You are not about to blast my arm off, I hope."
+
+Cale snorted. "I'm not that reckless," he said, releasing the dragon's wrist. "What happened?"
+
+"The mark simply transferred itself to a different part of the dragon's body," Akkau said. "Same number of scales, and in the same pattern where possible. It did not worsen the condition of the affected dragon, but it did not help them, either."
+
+"Marked for erasure," Cale muttered. The words tugged at something in the back of his mind, but he couldn't quite place what. He'd never encountered a magic like this before—this was the sort of thing he remembered, long lives be damned—but it reminded him of something.
+
+Stories, perhaps. Tales of a mad god determined to find a way to erase life from all reality, who had scoured the multiverse for a means to scale his power to match the Monoliths themselves. Scribbled notes in ancient books about binding rituals that might forcibly merge the soul of a god with that of a Named, and then again with one of the Monoliths.
+
+Impossibilities, really. Most such tales were simple fiction written to warn mages against excessive experimentation with their souls, and there was a Monolith whose sole purpose was to regulate such experimentation besides.
+
+Then again, Cale had learned a long time ago that impossibilities were sometimes merely inevitabilities. In the vast scale of the multiverse...
+
+Sometimes, life found a way.
+
+But that wasn't always a good thing.
+
+Cale sighed and shook his head, leaning back in his chair and meeting Akkau's questioning expression. "I have some ideas, but I'm going to need to hit the library," he said lazily, mostly to cover up how worrying he found all this. The threat seemed far away, but it was the sort of thing he couldn't just ignore. "Maybe get in contact with a few old friends, although that one's going to take a while. You should let me know if you find anything else, or if that thing with your scale gets worse."
+
+Akkau hesitated. "This is not your problem to solve, Cale," he said, but he said it more as a formality than anything else. Cale could recognize that look in his eyes when he saw it.
+
+Hope.
+
+"It is, and you know it," Cale said, drumming his fingers on the dragon's desk. He fixed the dragon with a sudden, intense stare. "In fact, if I didn't know any better, I'd say you're the real reason I'm here. And that you were hoping I'd be able to do something about all this. Maybe not for you, but for your species as a whole."
+
+Akkau twitched, and something like guilt flashed in his eyes. "Cale—"
+
+"I'd rather you not tell me the truth right now, whatever it is," Cale interrupted, giving the old dragon a friendly grin. "I'm just saying, I know how summoning spells work. I also know they happen to be a particular weakness of dragonkind because of the mindset it requires.
+
+"But!" Cale continued cheerfully. "If you did have something to do with it, I'd rather not know, because I don't really want to be mad at you right now. I have better things to be mad at. Like the Red Hunters, and this thing you say is chasing you. Speaking of which, do you have a name for it?"
+
+Akkau remained silent for a long moment, and when he answered, his tone was hesitant. "Dragonfall."
+
+"Word of advice," Cale said. "Never name your own end like that. Names have power. You might as well hand your own extinction over to fate on a silver platter."
+
+Akkau's eyes flashed slightly. "We are aware of this," he said. "We named it only after most of our kind had already been slaughtered, and only because we needed the independent dragons to understand how severe the threat was."
+
+"I'm not blaming the name for what happened," Cale said, his voice softening slightly. "But let's not give that thing more power than it deserves. If there are less than ten of you left, we're going to need every edge we can get."
+
+"...What do you suggest, then?"
+
+Cale thought for a moment. The power of a name was minimal, in most cases, and a name that didn't reflect the opponent at all would simply have no effect. If he wanted that edge...
+
+"It Who Hunts Across Realms," Cale said. "Vekorax, in the draconic tongue."
+
+"How is that any better?" Akkau asked, brows furrowing slightly.
+
+"Falls and ends cannot be avoided," Cale said. "A blight can continue to spread unseen. But a hunter?"
+
+He grinned and leaned across the table so far that the old dragon had to lean back to avoid getting bumped in the face. "A hunter can always become the hunted."
+
+"...You worry me sometimes, Cale Cadwell Cobbs," Akkau muttered, rubbing his snout and staring at him even as Cale leaned smugly back into his seat. Then he sighed, a bit of invisible tension leaving his shoulders. "Thank you. Truly. To know that I am not alone in this..."
+
+"Less alone than you think," Cale said mysteriously.
+
+Akkau blinked at him. "Regardless," he said. "Thank you."
+
+"You're very welcome." Cale stood up and stretched, yawning; it was getting late, and the light from Utelia's moons were now shining through the windows into Akkau's office. "For the record, I'm not going to let you die that easily, especially if you're the one that arranged things so I'd be summoned here. If you try to let that scalerot take you I'm going to pluck your soul out of the afterlife just so I can give you a good scolding."
+
+"Which one of us is the apprentice, again?" Akkau asked dryly. A note of his usual amusement had crept into his voice. He stood from the desk as well, moving to the window to glance out at the sky. "Do not forget to drink your potion, Cale."
+
+"I won't!" Cale said cheerfully. He headed for the door, turning the knob just as Akkau made a strangled, choking sort of noise.
+
+"Cale," he said. "What did you do to the—"
+
+Cale slammed the door shut and strode off, whistling happily.
+
+A few minutes later found Cale sitting back on his bed opposite Damien. The dreadshade was already fast asleep, though he seemed to be having some sort of nightmare; he tossed and turned repeatedly, letting out the occasional pained whimper under his breath.
+
+Cale winced at the sight. It didn't look much better than some of the dreams he had to endure during his more restless nights. They came less frequently these days, but they were there all the same. Once a month or so, almost like clockwork, to the point that he'd gotten good at predicting exactly when they would happen.
+
+He'd have to make sure he either slept outside or got some damn good wards before the next nightmare, but that was more than a week away. Well after they dealt with the Red Hunters.
+
+As for Damien... Well, it didn't take a genius to realize he'd been through something traumatic regarding his decay mana. Cale didn't know what it was, but many of the dreadshades he'd met had similar stories—accidentally rotting someone they cared about or someone they loved. Entire villages of people, in some cases.
+
+And even out of all those dreadshades, Damien had perhaps the kindest heart he'd seen. Most of the others had grown desensitized to death over time, but Damien? It felt like he was desperately trying to protect all the innocence he had left.
+
+Cale sighed. He'd have to try to figure something out for the guy. As much as he could try to guide him, Damien didn't seem cut out for the role that dreadshades usually played in their realms. Finding a way for him to use that decay mana constructively was only the first step. A second core wouldn't be viable for a dreadshade, so maybe...
+
+He paused, tilting his head slightly as movement around the bed caught his attention. Two tendrils reached up from beneath the bed to gently tug the corners of Damien's blanket back up over his shoulders. Cale blinked, opened his mouth, and then closed it again.
+
+Now that was a sight he never thought he'd see. A monster-under-the-bed acting tender, of all things?
+
+"...Be. Quiet." The monster grumbled at him, almost as if it knew what he was thinking.
+
+Cale snorted. "I'm just glad someone's looking out for him, to be honest," he said. The tendrils stilled warily for a moment, as though unsure what to think, then tipped toward him in hesitant acknowledgement.
+
+After that, they slipped back beneath Damien's bed without another word.
+
+Those things fed on nightmares, didn't they? It almost certainly had some idea of what Damien went through every night. Maybe that was why it was so careful with him. It saw something in those nightmares it could relate to, perhaps, or it just felt bad for Damien in general.
+
+The thought made Cale smile to himself. Millennia of life, and he was still encountering new things. Who ever heard of a monster like that caring about the person they fed on?
+
+Flia had someone looking out for her, too, now that he thought about it, and Syphus had its connection with its Named creator to rely on. The only one that didn't seem to have a guardian of some kind was Leo, and at this point, Cale wouldn't be surprised if it turned out he had an angel or spirit watching over him.
+
+If not, well... Cale would be there. He had yet to learn his lesson about getting attached, after all. Every life he told himself he wouldn't get attached, and every life it happened anyway.
+
+Then again, he wouldn't really be himself if he didn't get attached, would he?
+
+Cale laid back in his bed, staring at the ceiling for another contemplative moment before pulling out the vial Akkau had given him. He swirled it around, watching the cerulean liquid shine with power. The more he shook it, the more it lit up the room in rippling layers of light, like a projection of the ocean's waves.
+
+There was a violence to it, though. A back-and-forth in the bursts of light that resembled a dragon's pride and ambition crashing against a cragged shore. No doubt about it—this elixir contained the distilled essence of a dragon.
+
+Resonance. An entirely new form of magic, as far as he knew.
+
+"Interesting," Cale muttered. He watched it for a moment more, then uncorked the vial and tipped the entire thing into his mouth, swallowing it in a single gulp. "...And weirdly fruity. Huh."
+
+He did try to keep himself awake, more out of curiosity than anything else—he wanted to see if the potion had any effects he could feel with his mana sense—but he'd had quite the long day, and, well... he was tired. Before long, he found himself drifting off to sleep.
+
+Hopefully that resonance vision would be relaxing.
+
+When Cale opened his eyes again, he was sure of three things.
+
+One, he was definitely having a vision. He'd experienced only a few of these throughout his lives, but they all had a very distinct feel to them—a little like the certainty of a lucid dream combined with a powerful sense of magic all around him. In this case, he could feel the might that was the essence of the draconic aspect practically burning itself into the vision.
+
+Two, he was being carried by a dragon in their fully shifted form, though carried was perhaps a generous word for it. He was clutched in one of their claws.
+
+Three...
+
+"What kind of vision is this?" Cale scowled, kicking his legs as though it could free him from the dragon (it could not, but it did generate a bit of a breeze in the princess outfit he was wearing.) "Why am I the damsel in distress?!"
+
+Far beneath them, a knight shouted, his voice full of righteous fury: "I'll save you, princess!"
+
+"Not a princess!" Cale yelled back irritably.
+
+The dragon carrying him—who Cale was pretty sure was representative of the entire essence of dragonkind—made a rumbling growl of amusement. "You wished for the vision to be relaxing," they said. "I merely obliged. Do not worry; your role will be quite relaxing indeed."
+
+Cale narrowed his eyes. "...You better have some really good tea. And baked goods."
+
+"Of course. After all, we dragons are famous for both," the dragon replied, amused.
+
+Cale, for his part, found himself mildly irritated by the fact that he couldn't for the life of him remember if that was a lie.

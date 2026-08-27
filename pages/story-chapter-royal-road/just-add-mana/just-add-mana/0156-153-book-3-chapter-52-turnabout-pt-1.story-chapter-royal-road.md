@@ -1,0 +1,191 @@
+---
+id: c56379cc-dda1-5676-98b5-b80759349ac6
+page-type-slug: story-chapter-royal-road
+title: "153 — Book 3, Chapter 52 — Turnabout, Pt 1"
+slug: 0156-153-book-3-chapter-52-turnabout-pt-1
+partOf: just-add-mana
+position: 156
+ownLength: 3311
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3589070/153-book-3-chapter-52-turnabout-pt-1"
+royalRoadId: "3589070"
+---
+
+Cale spoke often of what it meant to be a true mage, and Damien thought he understood that now more than ever.
+
+Granted, he had a tendency to claim that just about anything was the mark of a true mage. The difference was that sometimes he had a look in his eyes when he said it, and while it was usually only there for an instant, Damien recognized it well enough to know when he was being serious.
+
+A true mage, Cale said, could stand tall when their circumstances threatened to break them. A true mage remembered who they were, no matter how much their opponents might try to make them lose themselves. A true mage could wait until lives were saved and the threat was gone before allowing themselves the time to mourn.
+
+Cale’s insistence on drilling these lessons into them had caused some friction amongst his apprentices at first, but Damien could see that he did this only because he had learned those same lessons the hard way, time and time again.
+
+He was thankful now that he had listened, because those lessons were the only reason he was able to keep his composure when the dragonlord Karadd threw Instructor Hikari’s severed head at his feet.
+
+Even then, it was a close thing. The sight of it, the contemptuous way with which Karadd treated her corpse—it made him feel sick, brought about a tight knot of anger in his chest that he wasn’t used to dealing with.
+
+Damien forced himself to stay grounded, nonetheless. If that was how he felt, he could only imagine what it was like for Instructor Phlogis, who had known Hikari since she was a child.
+
+Sure enough, the glasswork man stared wordlessly at the head for a moment, trembling. Then he fell to his knees and let out a mournful, keening noise.
+
+At that, Karadd only laughed. “Was she the best your humans had to offer?” he asked, his tone mocking. “She put up something of a fight, I suppose, but there is only so much a human can do against their betters. Truly, I cannot begin to understand why our predecessors would sacrifice themselves for such a lowly species.”
+
+Phlogis raised his head, and even without looking at him Damien could feel the intensity of his glare. A hissing, rattling noise emerged from deep within his chest, a clinking of glassware that might have sounded musical if not for the angry swell of mana that accompanied it.
+
+Not for the first time, Damien was reminded that Phlogis was a terrifyingly powerful mage.
+
+Unlike many of the other mages of this era, he had started life as a familiar bound to a dragon, which meant his mana core alone dwarfed that of nearly every other instructor at the University. He had an intuitive understanding of symbolic magic thanks to his ability to hear it as music, and he had been deliberately constructed with the ability to brew any alchemical product he wanted on the fly.
+
+Once he had been given the chance to recover, Phlogis had demonstrated exactly how powerful this combination of traits were. Against the weaker shades, it took him seconds to brew potions that melted straight through the dragonshades they fought, counter their curses, and dissolve their spells. Against the stronger ones, he constructed and cast symbolic spells almost without limitation—if he didn’t have the right reagent, he simply brewed a replacement, and he seemed to do it without even thinking.
+
+If not for the fact that he was quite literally made of glass and therefore incredibly physically weak, Damien was certain he could have held this corridor all on his own.
+
+That, and he seemed to be uniquely vulnerable to the properties of the Dragonstorm. Even now, miniature cracks were once more spreading through his body, rendering almost an entire hour of recovery moot. And now they were up against a dragonlord, which by all accounts seemed to be stronger and more intelligent by an order of magnitude.
+
+Though it was strange that Karadd had done nothing to them yet. Damien frowned, eyeing the dragonlord, then reached out and put a hand on Phlogis’s shoulder.
+
+It was perhaps a testament to the trust they had forged over the last hour of magical combat that Phlogis understood the gesture immediately. The instructor let out a snarl of frustration, but gave him a nod and visibly forced himself to calm; he had, it seemed, grown to trust Damien’s instincts.
+
+A good thing, too. Across the hall from them, Karadd narrowed his eyes and straightened, and Damien thought he caught a flicker of uncertainty in the dragonlord’s eyes.
+
+“Or perhaps she was less important than I supposed,” Karadd said. He smirked at them, though the expression didn’t quite reach his eyes. “I had assumed her corpse would produce more of a reaction, but I suppose she is only human. How about you join us instead, then? I wouldn’t normally make this offer, but seeing as neither of you are human, I could be persuaded to allow this.”
+
+Damien knew nothing of the dragonlords and how different they were from their dragonshade counterparts, but he knew for a fact that a dragonshade would have taken advantage of the opening they presented by now. The moment Phlogis fell to his knees, they would have fired off a spell intending to kill. That Karadd hadn’t yet done so implied that he was either deliberately holding off...
+
+Or that he couldn’t. Karadd was holding back, and on top of that, if Damien was reading him correctly, then he was deliberately trying to provoke them. Why? What would he get out of that?
+
+Always start by figuring out the rules.
+
+“She was important,” Damien said quietly. “You don’t get to say that she wasn’t.”
+
+“Brave of you, to contradict a dragon,” Karadd said. “I can see your soul, child of decay. You belong in this realm even less than I do. What right do you claim gives your judgement more weight than mine?”
+
+“None. You’re right; I don’t know her well. I never even got the chance to meet her, although I think I would’ve liked to.” Damien smiled a small, sad smile. “I don’t think there's a single soul out there that isn’t important, that’s all.”
+
+“A childish notion.” Karadd snorted dismissively.
+
+“Is it?” Damien cocked his head, and slowly, verdant embers began to glow along the edges of his cloak. “I guess it is mostly children that get to hold on to that kind of faith. Is that what makes it childish?”
+
+Karadd seemed to sense here that something was wrong, and his countenance grew wary; he took a step back, gaze fixed on Damien. “Of course it is,” he said. “Anyone who has faced reality knows the only person they can rely on is themselves.”
+
+The embers had grown and ignited now into brilliant green flames that wreathed Damien’s shoulders and spilled down his arms, hiding his face in shadow. “Hikari didn’t believe that.”
+
+“And you claim to know what some human you have never met believed?” Karadd struck back, incredulous.
+
+“I do,” Damien said simply.
+
+It was rarely said, but Damien’s greatest strength was in his ability to understand the people around him. He got Cale, for example, more than anyone else did; he had always been able to peer beneath the mask his mentor was always wearing, and that ability had only grown with time.
+
+More importantly, it had merged in some ways with his connection to the Verdant Flame, and it was that power that Damien drew on now. There was a remnant of the Flame within Instructor Hikari, just enough to understand some of who she had been and what she believed. It was how he was certain he was right.
+
+It was also how he knew beyond a shadow of a doubt that she was far from done with Karadd.
+
+“She almost killed you, didn’t she?” Damien asked, meeting the dragonlord’s gaze directly, and though Karadd tried to hide his reaction, Damien still saw the way he flinched before he caught himself. “You were dying. You’re still dying, or else you would have attacked us already. You’re trying to goad us into something.”
+
+Beside him, Phlogis stiffened, as if coming to the same realization himself.
+
+Karadd sputtered for a moment, then snarled. “You should know better than to mock a dragon. I merely thought to show you mercy.”
+
+Damien was almost disappointed he hadn’t seen this earlier. He could see through Cale. Compared to that, the mask Karadd wore was paper-thin, and just the short exchange they’d had was enough for it to fall apart entirely. That brief glimpse he’d caught of who Hikari had been and her final moments made him certain.
+
+Karadd was panicking and desperate. He was putting all of his remaining strength toward maintaining just the appearance of power, not the reality of it. Beneath the illusion he maintained his cores were broken and leaking and very nearly gone.
+
+“You need us angry,” Damien mused. This time, the panic that flashed across Karadd’s face was so obvious that even Phlogis caught it. “It helps you somehow. I bet it empowers the Dragonstorm, doesn’t it? Does it feed off that kind of magic?”
+
+“You…” Karadd roared, then charged. “I do not need magic to end your impudence! Do not think you have won just because—”
+
+A wall of emerald fire flared to life in front of the dragonlord, forcing him to stop before he ran straight into it. He stumbled painfully, revealing for the first time the extent of his injuries as he collapsed and came to a rolling halt in front of the wall of flame. It must have hurt, but he didn’t seem to care. His eyes gleamed with greed as he took in the wall.
+
+“Fool,” he proclaimed, gesturing toward the fire. “Did you think only offensive spells would feed the storm? Any magic will empower the storm and let me heal, so long as you cast it with..."
+
+Karadd trailed off, then gestured at the fire again, and once again nothing happened. He turned to glare at Damien through it. “What have you done?” he demanded. “Why does your magic defy me?”
+
+“You need magic cast with anger and resentment,” Damien said quietly. “You won’t find any of that in my magic, I’m afraid.”
+
+“You cannot possibly tell me you feel neither,” Karadd growled.
+
+“I feel sorry for you, mostly.” Damien sighed, then stepped into his own fire, walking through it as though it wasn’t even there. This was not a flame that could hurt him, no matter how brightly it burned for the likes of Karadd. "You must have been created from someone incredible."
+
+"What?" Karadd said, staring at him.
+
+"What?" Phlogis spoke up, sounding indignant.
+
+"It's what Instructor Hikari believed," Damien said, his voice soft. "I caught... a glimpse of her final moments, I guess you could say. Sort of an imprint left behind in the Verdant Flame. She knew she was going to lose, by the end of it, but she also knew you were going easy on her. That you figured out she was using you to learn everything she could about magic before the end, and you let her do it anyway."
+
+Behind him, Phlogis fell silent. Karrad continued to stare at him, but now there was something conflicted in his expression, and he couldn't seem to find the right words to speak.
+
+"You should not be able to read her," Karrad muttered eventually. "I did not see you cast a spell."
+
+"It's not a spell," Damien said. "It's a property of one of the mana aspects I can attune. Something called a pillar aspect, I believe."
+
+"No mortal being could hold a pillar aspect," Karadd said, though it seemed he was responding more to object against him than anything else. He hadn't denied any of Damien's claims, and the fight seemed to have left him.
+
+"I'm not exactly a mortal being, but let's put that to the side for the moment." Damien moved to crouch in front of Karadd, who hadn't bothered to pick himself up from his position on the hallway floor. "You're one of the only ones actually able to fight this off, aren't you? You were created in the shadow of another dragon, and you're supposed to be nothing but a collection of their resentment, but somehow you've made yourself into something more."
+
+Karadd was silent. It was Phlogis that spoke next, instead, his voice pained. "Still killed her."
+
+"He did," Damien said. "And he mocked her death."
+
+"And I made sure she suffered," Karadd said loudly.
+
+"That he didn't do," Damien said. "He made sure it was quick. I think he wanted to make it hurt, but something stopped him. It's the same reason he let her learn as much as he did, and it's the same reason he brought her here."
+
+"Didn't bring her here to anger us?" Phlogis asked, now sounding a little confused.
+
+Damien glanced at Karadd, who refused to look at him. "I'm sure that was part of it," he said. "Whatever he is, I don't think he's able to completely fight off his own nature. He needs to be able to justify it both ways. But whatever other reason he had, he also brought her here because he knew she wanted to pass on what she learned to her apprentices."
+
+Karadd started at that, in a way that told Damien he was right.
+
+"Before she died, Hikari was able to cast a final spell," Damien said. "She packaged everything she learned into a telepathic message so her apprentices would be able to continue her work. But she didn't have a lot of time to cast it, and the room the students are in are warded as much as possible to minimize the effect of the Dragonstorm, so the message can't actually get to them. Left alone, the spell would have slowly decayed."
+
+Phlogis stared at Karadd. "...Brought her here to deliver her message?" he asked, slightly disbelieving. "Not to hurt us?"
+
+"Like I said, it was probably a little bit of both." Damien sighed, staring down at the dragonlord who laid in front of him. Karadd's cores were nearly gone, now, and what little energy remained to him he was using to listen. It seemed to bring him a strange sort of comfort. "For what it's worth, we'll make sure it gets to her, Karadd."
+
+"...Hmph." Karadd turned to look up at the ceiling. Dragon blood seeped through the cracks and dripped down upon them. Outside, the Dragonstorm continued to rage, though Damien thought it was perhaps getting weaker. It was hard to say.
+
+Finally, without looking at any of them, he spoke. "She was a worthy opponent, for a human. None of them should have been able to best me, but every time I believed I defeated her, she found something new. She taught me new forms of magic, by the end of it."
+
+His tone was bitter, but Damien listened anyway. They were likely the last words Karadd would ever speak. "I hate them all," he said. "My very existence was seeded on that resentment and hatred. But what I hated more, I think, was being ruled by those emotions. What true dragon would allow it? To be defined by no more than the circumstances of one's birth?
+
+"Yet in the end I am still less than the one who spawned me." Karadd reached up, watching the way the blood of the Dragonstorm trailed down his scales. "It is an ugly thing to know."
+
+"I'm sorry," Damien said.
+
+Karadd turned to look at him. "You truly are," he murmured, sounding surprised. "How strange it is, to have an enemy sympathize with my plight. I would still kill you, you know, if I only had the strength."
+
+Damien was less certain of that claim, but he didn't argue. "You don't," he said instead.
+
+"I do not," Karadd admitted. He closed his eyes. "...My brethren are on their way. You should prepare yourselves. Should you face the true might of a dragonlord, you may not prevail, no matter how strange your magic."
+
+"Worried about us, are you?" Damien offered Karadd a rueful smile. "For what it's worth, I hope you find peace."
+
+"There are worse deaths to be had," Karadd muttered in reply, his words now so soft Damien almost couldn't hear them.
+
+A moment passed before Damien pushed himself back to his feet, sighing. "We should make sure Hikari's message gets to her apprentices," he told Phlogis, his heart feeling oddly heavy. "I'll check the spell over for any traps that might have been left there, but I don't think there are any. If we bring her close enough to the door, it should—"
+
+In retrospect, Damien should have known better than to let his guard down. Karadd was down and out for the count, but they still stood as the University's last line of defense, and so it was no surprise that another dragonlord might find them. Karadd had even warned them of exactly that.
+
+Then again, it might not have made much of a difference. Just as Karadd had been able to hide the true extent of his injuries, this new dragonlord was entirely invisible to Damien's mana sense until the moment he chose to speak.
+
+"What a pathetic display, brother," the dragonlord said. He picked Karadd up by the throat, ignoring the way his brother struggled weakly against him. Damien knew immediately that Karadd was too close to the edge of death to do anything here. "You let yourself grow attached, have you? I suppose I will have to teach you a lesson before you die. Open your eyes, now. I can't have you missing this."
+
+Karadd did not have the strength to comply, not that his brother seemed to care. A tendril of magic propped Karadd's eyes open. In his other hand, his brother raised an open palm, aiming it directly at both Damien and Phlogis.
+
+There was a gathering of terrible magic. Somehow the new dragonlord focused the power of the Dragonstorm into a single spell, and from the feel of it alone, Damien was certain its destructive power would be enough to pierce him, Phlogis, the door behind them, and then every one of the students within. His mind raced for options.
+
+But before he could do anything, Karadd took a deep breath, gathered the last of his energy, and swung himself into the path of his brother's spell.
+
+It would not and should not have done anything. Karadd was too weak to do any more than the rest of them, when it came to blocking a spell like this. It would merely pass through him along with the rest.
+
+That was, of course, not accounting for the familiar prismatic barrier that flashed into existence around Karadd. Something about it dragged and caught against the spell his brother was in the process of casting, and then something in that spell broke.
+
+Damien had the chance to sense little else before Karadd's brother dissolved into what was, as best as he could tell, a small pile of steaming buns.
+
+[Barrier-King's Blessing, Level MAX] [Twelfth Tier, Active (Unique)] [1.0e38 Mana]
+
+Grant all allies a personal barrier identical to the one used by the Barrier-King. Mana cost is multiplied by the number of allies granted this barrier.
+
+A powerful defensive construct in its own right, the Barrier-King's personal barrier features a layer of pure, compressed intent sandwiched within its final, innermost shell. This acts as a counter to spells that may break or bypass the outer shells, overtaking most spells with insufficient intent or cast by a sufficiently distracted mage.
+
+Note that raw intent used in this manner will, on rare occasion, behave unpredictably.

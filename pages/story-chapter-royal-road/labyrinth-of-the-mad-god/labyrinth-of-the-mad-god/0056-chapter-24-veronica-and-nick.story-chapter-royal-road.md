@@ -1,0 +1,115 @@
+---
+id: 0f576155-9e53-5d6a-93cd-7ad623ae1061
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Veronica and Nick"
+slug: 0056-chapter-24-veronica-and-nick
+partOf: labyrinth-of-the-mad-god
+position: 56
+ownLength: 2196
+unit: words
+publishedAt: 2024-09-11
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1798837/chapter-24-veronica-and-nick"
+royalRoadId: "1798837"
+---
+
+This marked the beginning of three days spent traveling together, as Veronica and Nick continued working their way toward the center of the floor. Although it was taking them far longer than he’d originally estimated, he was certain that they were getting close by now.
+
+Part of the problem was that it was hard to navigate the vast underground space without a compass or a complete map. As a result, they made several wrong turns that cost them part of a day. It would have been even worse if Nick wasn’t expanding and correcting the map in his journal as they went. But over time, picking their path became less reliant on guesswork and process of elimination.
+
+Another issue was that even when they knew exactly where they were, they often couldn’t follow a route that made a beeline toward the middle of the facility. Instead, they were forced to weave a path that took them back and forth across the same section more times than he could count.
+
+This was in part due to the facility’s complex layout and in part because of collapsed passages, but mostly because of the tunnels that were filled with enemies and too risky to break through.
+
+Along the way, they came across two medium-sized rat packs that were too tempting to pass up. And after some planning and setup, were able to kill both by luring them into an empty room, bunching them up with Nick’s wand, and then finishing them off with V’s napalm grenade.
+
+Both fights were relatively easy, so they hadn’t gained any skill ups or new levels, but he had a sense that they were drawing close on both fronts. It was exciting that Veronica would hit level fifteen soon. They were both eager to see what upgrades her powers would get when she could access the ability mastery system.
+
+Nick also managed to collect two more gear-rats and one scorpion by ambushing them with his mana darts. He could only afford to take out solitary machines. By now, most of the constructs had silver shields, so he had to blow through a considerable amount of mana on each occasion.
+
+They used these fights to strengthen their teamwork, practicing using their abilities and skills in concert. Over time, they started to feel less like two people attacking the same target and more like a single unit, working efficiently toward a common goal.
+
+Their progress was in part because they were learning more about each other’s preferences and fighting styles. But even more crucially, they were starting to trust one another. Not just in general, but with their lives. It let them take advantage of tiny gaps in their enemies’ defense. Precision maneuvers where if someone made a mistake, it would likely result in the other taking a serious wound or worse.
+
+On the second day, after carrying around his full pack for miles and miles, Nick finally got an update that he’d been looking forward to for some time.
+
+By engaging in rigorous exercise over a prolonged period, you have conditioned your body and improved the following baseline attribute:
+
+Strength has increased from [8] to [9].
+
+Finally! Just one more point and I can cap that one too. On top of letting him swing his sword harder, the gain made his pack feel lighter. A most welcome development under the circumstances.
+
+Thanks to their long hours traveling together, Nick had plenty of time to reflect on how much better it was to explore the magical multiverse with a friend at his side, compared to his lonely month on the Searing Isle.
+
+Fighting beside Veronica felt different from the time that Nick had spent with Sophia out on Blackmist Bog. Both women were intelligent, competent teammates. But their powers and personalities were a stark contrast to one another.
+
+On the battlefield, Sophia tended to take a direct approach that relied on overwhelming her opponents until they were off-balance and exposed. Her primary weapon was her summoned beasts. Semi-expendable forces that could deal damage, distract, and provide cover, guided by her keen tactical awareness. Her powers meant that neither of them had to fight their enemies head on during most engagements, reducing the damage they suffered as a result.
+
+Veronica was the opposite in many respects. Rather than facing their foes directly, she preferred to take them from behind, avoiding exchanging blows whenever possible. Her powers of stealth combined with her natural scouting ability let her land the first hit, inflicting enemies with powers that did considerable damage over time.
+
+One of her favorite tactics was to sneak up close, strike at range with her acidic bolts, then withdraw before their enemies could home in on her location. With V at Nick’s side, they were able to win fights before they even began.
+
+Once a brawl was underway, she preferred to stay at range, especially since her claws’ bleeding poison didn’t work against the gear-swarm. She was incredibly agile but didn’t have the toughness or armor to take big hits. She let Nick engage the constructs, using her bolts to keep her enemies off balance. Distracting them and disrupting their formation while her acid went to work.
+
+While there were more green shields than before, there were still far less than the silver, leading them to believe that the swarm would rather have its members melted than stolen.
+
+Veronica’s new grenade launcher provided an element that only she and Devin could add right now, area of effect damage. Her grenades were perfect for fighting multiple small opponents at once, compensating for one of Nick’s biggest weaknesses.
+
+The downside was that she could only use it once a day, so she had to make each shot count. Even the red-shielded rats were blinded by the flame, giving Nick a chance to get up close and disable them with his sword.
+
+As they traveled, they shared more of their experiences with one another. Both their lives before integration, and everything that had transpired after the System arrived and ended the old world with searing beams raining from the sky.
+
+Veronica had been a fitness instructor back in her old life. Although she had studied geology in college and worked in that field for years before deciding to change things up.
+
+She was deeply impressed when she learned the details of Nick’s solo tutorial run. V was captivated by his description of Bandit and the lemur tribe, and his various run ins with the lurk. “I hope that I can meet the tribe one day. With any luck, they will be waiting for us when we make it back to Earth.”
+
+Other than that, she was most interested in his description of what he’d seen when the System attuned his energetic core-- when Nick was able to behold the full spectrum of mana for the first time. Right now, she could only sense mana as a vague impression of heat, and they both spent some time trying to improve their energetic senses as they walked.
+
+They went over the ability mastery system in detail, speculating and strategizing, trying to figure out how to gain the understanding required to rank up their various powers. They also spent time reviewing everything they had learned about essence so far, trying to bridge the gap between essence and concepts.
+
+Nick knew that he was already generating essence, since his wand had begun refilling automatically, although it still recharged instantly after killing certain creatures. It was filling up even faster in this place, since some manner of force related essence permeated the damage to the stonework. He hoped that it was being absorbed by his force powers too, taking him closer to ranking them up without having to fight.
+
+Since he already had enough essence to rank up piercing ray, Nick devoted considerable time to trying to understand the ability better, working the problem over with V so that she could apply the same logic to her own abilities. She was extremely helpful, making him go over everything that he’d done with mana dart to understand the underlying principle.
+
+He realized that he’d gone through significantly more testing with his darts, both on and off the battlefield, developing an instinctual sense of their limits and capabilities. Whenever his mana was full, he began trying the same thing with his ray. Testing how fast it moved, how much he could control the beam, its maximum range, duration, and the like.
+
+He also tried putting as much and as little mana into the spell as he could, to see how it changed the results. He discovered that he could pump in what he estimated was between seventy-five and one hundred twenty-five percent of the default mana. Since the spell was most efficient at its base level, he left it there most of the time.
+
+Since he had been able to use his ray while sustaining his darts, he also tried casting two rays at once. But that failed spectacularly, and seemed to be more trouble than it was worth, at least for now.
+
+Meanwhile, V continued to teach him what she knew about stealth. How to move quietly, and to pick a path where unseen eyes would have a harder time following his movements. After the first day, she judged him proficient with the basics, and started teaching him advanced drills. How to stay quiet in complex environments with multiple enemies nearby.
+
+Through their various discussions, Nick learned that Veronica knew the details regarding several knowledge point unlocks that he didn’t have in his journal yet. Her tutorial had quite a few people in it, and they had planned out their kp use in advance. It allowed them to explore most of the terms on their profiles, then work on custom queries that went beyond it.
+
+After reading through the rest, she added what she knew to the growing list of entries in his journal. Nick read each of them closely, committing each word to memory, eager to learn everything that he could about the laws of the multiverse and the System.
+
+Builds
+
+Some individuals choose to develop their path to power entirely on their own, especially among newly integrated species. But among established species, a far more common strategy is to follow a build, especially while progressing through the early tiers.
+
+Builds refer to known ways of distributing attributes, training skills, and taking classes in order, guaranteeing that the desired class will be offered at class selection.
+
+Following a build offers predictability and stability. A chance to learn from experienced practitioners who know their ins and outs. They are fiercely guarded secrets by the factions that develop them. A process that typically takes multiple generations and a significant investment of resources to complete.
+
+Complete builds, which take an individual to epic classes or through higher tiers, are even rarer and more valuable than partial builds, which generally only span the first tier and part of the second.
+
+Many builds focus on unlocking key abilities early on and reaching critical attribute thresholds. Some are incredibly strict, while others have room for minor variations.
+
+Free ability slots
+
+All individuals start off with two active ability slots and one passive ability slot. Class abilities from a current class do not require the use of slots. Empty slots are filled when an ability gem is used. Such abilities must be slotted until they are fully mastered at rank 6 or forgotten.
+
+Free slots, on the other hand, allow an ability to be stored in an inactive state. The contents of free slots can be swapped with another ability once per day, if an individual is able to access their profile. In addition to letting an individual have one more ability than they could normally slot, free slots have a number of uses.
+
+Common uses for free slots include: keeping a class-granted ability when changing classes (when the ability is below rank two), swapping out active or passive abilities based on the needs of a given situation, and turning off passive abilities with significant drawbacks that cannot normally be deactivated.
+
+Forgetting abilities
+
+Occasionally, situations may arise where an individual wishes to remove an ability from their profile, a process colloquially known as forgetting. Since the use of abilities is tied to channels carved into an individual’s brain and energetic network, this process can be intensely unpleasant.
+
+When an individual gains the opportunity to learn a new ability, usually by activating an ability stone, but does not have an available slot, an existing ability may be forgotten instead.
+
+Forgetting an ability forcibly converts the pathways and any accumulated essence into the raw materials needed to learn the new ability. All excess essence is lost in this process.
+
+Specialized items and professions can complete this process with no further cost, otherwise the individual must sacrifice class experience to complete the exchange (forgetting an ability is not possible without sufficient experience.)
+
+As class granted abilities do not normally take a slot, they can only be forgotten if they have been slotted to retain the ability when changing classes (for rank 0 or 1 abilities. Rank 2+ abilities may be kept without requiring a slot.)

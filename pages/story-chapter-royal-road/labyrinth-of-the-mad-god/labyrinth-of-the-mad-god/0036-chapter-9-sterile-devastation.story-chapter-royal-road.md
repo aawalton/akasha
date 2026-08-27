@@ -1,0 +1,79 @@
+---
+id: ab77a8b5-c16f-5bd6-9951-c5465454b41a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Sterile Devastation"
+slug: 0036-chapter-9-sterile-devastation
+partOf: labyrinth-of-the-mad-god
+position: 36
+ownLength: 1609
+unit: words
+publishedAt: 2024-08-07
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1748688/chapter-9-sterile-devastation"
+royalRoadId: "1748688"
+---
+
+When the molecules comprising Nick’s body finished putting themselves back together, a process that felt like feathers were tickling every inch of his skin at the same time, he opened his eyes.
+
+He raised his blade and started scanning his surroundings, ready to find out what strange place his adventures had brought him to next.
+
+Today’s journey through the portal network had ended in a flash, and there hadn’t been time for any out of body experiences. No teleportation sickness either. Probably because my trip was so short.
+
+He spun in a circle and took a deep breath in through his nose, sampling that first whiff of a brand-new world. However, on this occasion, no exotic scents were riding the breeze.
+
+In fact, there wasn’t even a hint of alien smells or sounds, despite his senses being more acute than ever before. He couldn’t detect any trace of life in his surroundings. No moisture or decay. The whole place was eerily sterile and as quiet as a tomb.
+
+Nick had been ready for dozens of eventualities. From being attacked right from the get-go, to being transported into an environment without air, gravity, or light. None of which were what he encountered. What he saw as he completed his survey was completely unexpected, to the extent that it took him several minutes to make sense of what he was seeing.
+
+All that he could say for certain what that he was inside a large room, or some manner of enclosed space at any rate, standing on the only intact object that he could spot. A small pedestal that was designed to receive teleported individuals, judging from the diagram on the surface displaying the proper way to exit the platform.
+
+It felt out of place, now that he thought about it, since the System generally created doors and portals wherever the hell it wanted, instead of using designated locations.
+
+It must be part of the internal network designed to take people around the tower. The ones who live here and aren’t being tested by the System. But the presence of the unusual device wasn’t the reason why Nick was so perplexed as to where he was. It was because the rest of the chamber was a scene of utter devastation.
+
+Scores of desks and chairs had been reduced to scorched splinters and slag. Thick piles of glass shards were scattered everywhere, which appeared to have once been some manner of laboratory equipment, judging by the larger fragments. Even the floor was cracked and scarred, wide swaths of stone having melted at one point before fusing back together.
+
+But the most prevalent feature by far was the mounds of the raw rock piled everywhere. When he examined the larger pieces, he realized that some of the surfaces were smooth and polished. That the rubble had once been part of the walls and ceiling before being torn loose by what must have required incredible force.
+
+I think that I’m underground. This enclosure must be carved into bedrock. It’s the only reason that the damage didn’t cause the whole room to collapse. Even still, standing here made him nervous. Nick stared up at the countless tons of stone stretching out above his head, afraid the roof would come down on top of him with every beat of his heart.
+
+He knew that he was being dramatic, since this configuration had clearly been stable for some time. Nick had the sense that the damage had been inflicted long ago, months if not years before. Besides, this was part of a System-sanctioned quest. While there was bound to be danger at every turn, he doubted that the first building he entered would collapse and crush him, although he wasn’t taking it for granted.
+
+Before he tried to find the exit. Before he did anything, Nick needed to know what kind of environment he’d stepped into and figure out what he was dealing with. For now, his best bet was to stay put and observe everything as closely as he could. Maybe his newly improved mind could work in concert with his creativity to help him start shifting through the remnants for clues.
+
+Figuring that it was worth a shot, Nick took a deep breath, let his mind go blank, and visualized. Straining his creativity to the limit, he tried to piece together the copious mounds of debris, reconstructing the room into what it had looked like before it was… I’d say it’s a tie between demolished and devastated at this point.
+
+To his surprise, it worked, and an image wavered into existence within his mind’s eye. While he couldn’t be certain that his vision was correct, it probably wasn’t too far off the mark. What he pictured was some manner of combined laboratory and office space, with glass partitions dividing the large enclosure into three separate areas. Now that he knew what to look for, he could see where the glass had been mounted to the stone. There were still a few fragments stuck to the rocky walls.
+
+He decided to begin his investigation with the offices and turned his attention to them. A pair of enormous desks had sat in opposite corners of the room, surrounded by some manner of furniture and decor, all of which had been smashed to smithereens.
+
+Curious about the people who had worked here, he began sifting through the rubble, hoping to uncover their remains. But after a few minutes of fruitless searching, he gave up and moved onto the shared lab space in the middle of the room.
+
+Using his visualization as a guide, Nick could make out the pulverized remnants of a double row of sinks and burners, with countertops and shelves running between them. All of it had been crushed so thoroughly that only fragments of their frames remained.
+
+Even after poking through the wreckage for a second time, Nick couldn’t figure out what had shattered the walls, floor, most of the ceiling, and everything bigger than a ping pong ball that had once stood between them.
+
+The scars in the rocky exteriors didn’t seem to be bullet holes, toolmarks, or the gouges that rampaging beasts left in their wake. Whatever it was had done a remarkably thorough job. The weird thing was, given that it looked like a war had been fought in here, there weren’t any bodies or gore. No skeletons or cadavers, fragmented or otherwise. There wasn’t even any blood.
+
+In the end, Nick only learned two things. The first was that this section of the floor appeared to be some manner of industrial or research facility. The second was that whatever had happened here was something that he wanted no part of whatsoever. The force required to carve dozens of feet into raw rock must have been tremendous, vastly more power than he was capable of exerting.
+
+Having explored the area and learned what little he could, he was ready to move on and figure out where the closest exit was.
+
+When Nick turned to leave, he caught a glint of metal shining from beneath a massive slab that had fallen from the ceiling. When he went to take a closer look, there seemed to be some manner of container embedded within the floor, hidden behind a false panel until the destruction of the chamber had shattered the tile.
+
+After bending down to inspect the area for traps, he decided that he had discovered something like a floor safe. A concealed container that had once sat beneath the biggest desk in the room. Maybe it’s the personal stash of whomever worked in this office. There might be something valuable inside.
+
+Nick reached into his pack and pulled out his prybar, working the end into a crack that had been formed by the floor shifting. After some straining and pulling, he was able to widen it further, enough to peek inside.
+
+Most of the contents had been destroyed by the immense forces that had unmade the room. But in the back, he spotted what appeared to be a length of yellow crystal protruding from a metal base. The whole thing was covered in runes that looked a lot like System writing, with some subtle differences that made it impossible to read.
+
+For a moment, he thought that he’d found another ability stone, before deciding that it wasn’t quite the same. Regardless, the gem was probably valuable, and Nick intended to retrieve it. It took a bit of finesse to slide the heavy stone slab a few inches over to one side, far enough that he could fit his hand into the gap to claim the curious object.
+
+After sizing it up just in case, Nick reached in and grabbed the crystal-coated device. The instant that his fingers brushed its surface, a voice began to speak.
+
+For a moment, he was worried that he had activated some manner of trap or other nasty surprise. But when he listened to the message that was playing, he began to relax. Since it was a voice recording, his Gift of Tongues trait allowed him to understand the meaning of the words.
+
+“This personal assistant construct is the registered property of: Kellan, Deputy Director of Waste Disposal. All functions have been locked by a biometric seal. Error: bioseal degradation detected. Function, ‘review audio logs,’ is no longer sealed. Would you like to play the entry encoded into this location?”
+
+As far as Nick could tell, he had stumbled upon some manner of alien data device. Perhaps he could figure out what had happened here after all.
+
+“Sure, why not?” With any luck, I’ll learn something useful about this place.

@@ -1,0 +1,351 @@
+---
+id: 735586bc-d5c4-5f2b-98be-58c6c90aeba8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13"
+slug: 0014-chapter-13
+partOf: light-cleric
+position: 14
+ownLength: 4673
+unit: words
+publishedAt: 2021-06-06
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/694794/chapter-13"
+royalRoadId: "694794"
+---
+
+Piety reclined on her bed, reading by flickering candlelight, her blanket pulled up to her neck like a soft embrace. She was reading the red leather-bound copy of the Scriptures given to her by Father Vytal for her birthday. She was in the middle of Saint Mary’s exile in the western desert, when her candle gave one final gutter and went out, allowing darkness to invade.
+
+Piety blinked as her eyes adjusted to the sudden darkness. Light from Kinswell Square cast a faint glow through her window and eventually she was able to see dimly. For several minutes, Piety weighed the value of making the trek to the supply closet for more candles. On the one side, she couldn’t read by the dim light coming through the window. On the other, the hallway would be cold so late at night, and she was quite warm and comfortable in bed, under her blanket.
+
+And then the obvious solution struck her. The room within her mind was always well lit, though the light source was a mystery she had long since come to accept without question. But there wasn’t a copy of the Scriptures in her mindspace, peculiar given the number of hours she’d spent reading them. She had, occasionally, wondered why her subconscious hadn’t put a copy on the bookshelf of her mind, but had eventually dismissed the question and simply accepted it, as she often did with the room in her mind. And so she wondered whether or not she’d be able to take her new copy of the Scriptures into her mindspace. She had never tried to take anything into or out of the mindspace before, but she did know that her clothes always came with her.
+
+And with that realization, she held on to her book and her blanket, and went to the room in her mind.
+
+The first thing she did, as she always did in the mindspace, was to look at the chessboard. Her subconscious had moved another rook, to trap her regent, the most powerful piece on the board. Piety sighed. She’d gotten better and there had been some close games, but she had yet to win, and this game looked like another loss.
+
+She put the game out of her mind for the moment to notice that she held her new copy of the Scriptures and her cotton stuffed linen comforter, one in each hand. She smiled at her success and was ready to settle down and read when another thought came upon her.
+
+Father Vytal and later Father Berek had told her that the mindspace wasn’t a physical space, but rather a representation that allowed one to block out distractions and achieve calm. Piety knew her mindspace was different, and she wondered if the book and blanket were here physically, or if they were a mental representation.
+
+She set the book on the desk and draped the blanket over the chair, then, hands empty, she slipped back into her body and found herself as she had been, trucked under the blanket, book in hand.
+
+With a smile, she put the physical copy of Father Vytal’s birthday present on the desk by her bed, then snuggled under the covers so her body would be lying down while she was in the mindspace. Preparation complete, she slipped back into the mindspace, where her blanket and book awaited her.
+
+Piety told Temperance about her experimentation the next day while they walked through the kitchens of the High Temple’s dining hall. Meals were received differently at the High Temple than at Sacred Heart: everyone walked through the kitchens and selected from a variety of dishes. Sweep and Temperance were still expected to take their turns in the kitchens, but all acolytes were.
+
+“So it’s like you’ve got a filing cabinet in your head. Could you keep anything there? Could you keep my notes for example?”
+
+“I don’t know.”
+
+“It’d be useful if you could. I keep losing mine.”
+
+“More lab fires?”
+
+Temperance nodded. “Sometimes its corrosive solutions, but usually fires,” she said without a hint of humor.
+
+Piety gave her a long look. “Aren’t there any… I don’t know… precautions?”
+
+“Sure. I had to take a class in laboratory safety. But Mother Simmons has me experimenting based upon fifty-year-old notes, so I’m doing a lot of guess work. Sometimes it ends spectacularly.”
+
+“What are you working on now, more fire blossoms?”
+
+“No. Miners in Artio Province say that Father Roquet, the man who invented sulfur matches, had promised to make explosive mining equipment. So I’m trying to figure out what that means.”
+
+“I suppose it’s not a pickax that explodes when you swing it?”
+
+“It involves powder that explodes, kind of like the fire blossoms, but different. I just need to find a reliable way to store it, transport it, and direct it.”
+
+The two found an empty space at one of the long tables in the large dining hall. They were at breakfast earlier than most, so free space was easy to come by. The normal subdued babble was almost nonexistent. Pre-breakfast prayer wasn’t for another hour and morning sermon in the main sanctuary wasn’t for another two. One of the things Piety liked best about the High Temple was that though it was steeped in tradition and ritual, studies were considered more important. Piety preferred to pray alone.
+
+“So, we should experiment,” said Temperance.
+
+“What?”
+
+“With your mindspace.”
+
+“Oh, right. Well, I suppose we should. After dinner?”
+
+Temperance shook her head. “Sorry, Elijah is free after dinner and he’s going to help me with some experiments this evening. It was the only time he had free.”
+
+Piety smiled. “Elijah, huh? He seems nice.”
+
+“I suppose he is. He’s a decent laboratory assistant, certainly.”
+
+Piety let the matter drop. Anytime she hinted to Temperance that Elijah might be interested in her as more than a lab assistant, Temperance tended to get distant.
+
+“Perhaps tomorrow morning? I’ve only got a history class scheduled after breakfast,” suggested Temperance.
+
+“No, I’ll be in lectures all morning tomorrow.”
+
+“Hmm.”
+
+Piety stopped eating and regarded her friend. When they had first come to the High Temple, months ago, they had refused to do anything apart. Now that they were assured the High Temple would be nothing like Sacred Heart and had relaxed into their roles, Piety realized, they mostly only saw each other during breakfast.
+
+“Do you girls mind if I sit here?”
+
+Piety recognized the High Cleric’s baritone rumble and stood to bow, Temperance following suit. High Cleric Radden bowed to them in return as was his custom. He sat and they resumed their seats.
+
+“I hope you’ll excuse the intrusion, but I need to discuss something important with you.”
+
+“I should be going anyway,” said Temperance, preparing to stand, but the High Cleric raised a hand.
+
+“Actually, I wanted to talk to you too, Acolyte Temperance.”
+
+Temperance settled back on the bench and hunched her shoulders uncomfortably.
+
+“As the two of you know, the Governor of Kempenny Province isn’t particularly fond of the Royal Loreamer family. There have been rumors of war. Well, recently it was made official. The Church of Khulanty is giving its support to the Royals. We’re sending a contingent to Pinefort with General Byron and I want you two to be a part of it.”
+
+Piety was stunned. She’d known the war was coming, had started already really, but she’d never thought she might participate. The thought made her stomach clench. She was no longer hungry.
+
+“Us?” she asked. “Why?”
+
+The High Cleric nodded, as though he’d been expecting the question.
+
+“An apprenticeship, at least in name, but the truth is we need you there, both of you. Piety, your reputation is well known, and Temperance, your knowledge of plants, healing, and chemistry is lauded throughout the temple.” The High Cleric sighed. “I would rather not ask it of you. You are acolytes and young acolytes at that. A war is no place for you. But your reputations are such that if we did not send you, questions would be asked. This is as much political as it is tactical. The Royal himself has asked for you.”
+
+Piety met Temperance’s eyes and wondered if her own expression was so frightened. Surreptitiously, she reached a hand to her and Temperance grabbed it.
+
+“If you go, I go.” Temperance’s mind voice was strong.
+
+“It will be unpleasant,” said the High Cleric, oblivious to their mental conversation, “but I assure you you’ll be well back from any fighting. Tristam would have my head if I put you in danger. You’d be supporting our soldiers, mostly in healing. Father Christoph has said he would be grateful to have you.” His expression was of concerned earnestness. Piety couldn’t help but wonder if he practiced it.
+
+Piety looked away, thinking. There was a nervous thrill building in the base of her chest. Piety had no illusions about the glory of war as seen through the eyes of romantic bards. Since coming to the High Temple, she’d read plenty of romantic ballads about battle, and she’d read the personal accounts of soldiers and she knew the difference.
+
+“I think Father Vytal would rather settle disputes without fighting,” said Temperance.
+
+“We wouldn’t be fighting, we’d be healing.”
+
+“I understand that your experience with established authority hasn’t been particularly positive, but hopefully these last few months in the High Temple have shown you that we’re not all bad. Royal Loreamer is a good man who has ruled fairly. He’s asking you to serve the nation.”
+
+And really, that was all Piety had ever wanted, to help people. She liked the High Temple, like attending lectures, liked studying in the library, but she yearned for those months when she’d traveled with Temperance and Father Vytal and had helped those in need.
+
+“Royal Loreamer himself has asked for our help. I can’t refuse that.”
+
+Temperance squeezed gently. “I know.”
+
+• • •
+
+They’d been given a week to prepare, and Temperance was busy scrambling about her laboratories, trying to decide what to bring and what to leave. Mother Simmons was coming too and worked closely with Temperance. Elijah would not be coming, but he, too, helped Temperance prepare to leave. Piety found her time unfilled as she was unenrolled from her classes to give her time to prepare. She packed her clothes and her red-bound Scriptures in an hour and was done.
+
+Which gave her time to think.
+
+With a day left until their departure, late that morning, Piety decided to visit with the High Cleric. She’d never gone to see him before, he’d always summoned her. This time, when Piety entered the antechamber to his office, she found his secretary, Sister Fleetwood, busy with stacks of paper on her desk. She looked up when Piety came in.
+
+“Oh,” she said. “I didn’t know he’d summoned you, Piety.”
+
+Piety shook her head. “He didn’t. This is unscheduled, but I’d like to see him if I could.”
+
+Sister Fleetwood raised her eyebrows, but stood and went to the office door where she knocked twice and entered, pulling the door closed firmly behind her. Piety stood uncomfortably. She considered sitting on one of the chairs meant for waiting guests, but it seemed presumptions, so she stood.
+
+Minutes later, Sister Fleetwood reappeared. “He will see you, acolyte.”
+
+Her expression was faintly disapproving, and Piety avoided her gaze as she went into the office of the High Cleric. He sat on one of the couches of the sitting area of his office. A mug of once-hot tea sat, forgotten, on the table. He read a short sheaf of papers and did not look up when she came in and closed the door. Piety stood uncomfortably in front of the doors, waiting for his acknowledgement.
+
+“Tristam sends his regards,” said the High Cleric suddenly, and Piety jumped. He shook the papers in his hand gently for emphasis.
+
+“Oh.”
+
+Piety didn’t know what else to say, and the High Cleric went back to his reading, expression grim. Several minutes later, he set the papers on the table and looked up at her.
+
+“How is your telekinesis progressing?”
+
+Piety shrugged. “Well enough, sir.” Despite having been unenrolled, Piety continued to go to powers class. Father Berek had been training her telekinesis since the day after the fire blossoms, and she wasn’t willing to give up that training.
+
+The High Cleric shook his head, and a tired smile appeared. “Father Berek says you’re progressing quickly. He tells me he suspects you’ll have several more powers before you come of age.”
+
+Piety shrugged again. She hadn’t come to talk about her powers.
+
+“Piety, have a seat and tell me what you wanted to talk about.”
+
+Piety sat on the couch across the table from the High Cleric. This area, designed for comfortable sitting and casual conversation, was also designed to put visitors at ease. It was often where she spoke with the High Cleric, and it worked. Piety immediately felt calmer.
+
+“I want to talk to you about Temperance.”
+
+“Not to worry, Piety, I haven’t decided to break you two up.”
+
+Piety swallowed hard. “Actually sir, I’d rather she didn’t come. I want you to keep her here, where it’s safe.”
+
+“Oh? Why is that?”
+
+“It’ll be dangerous at Pinefort. I don’t want her to get hurt.”
+
+Cleric Radden nodded and closed his eyes. “You’ll be far from the front lines.” But he said it quietly, without much conviction.
+
+“War is unpredictable, sir.”
+
+Cleric Radden stood and walked to behind this desk, sitting in the large, leather upholstered chair. It creaked when he sat. From behind the desk, Cleric Radden lost the friendly nature he’d had when he was only sitting across the low table from her. He leaned his elbows on the desk, clasped his hands, and rested his chin on the resulting fists. His eyes looked past the opposing wall, to a place beyond.
+
+Eventually, he said, “Yes, it is.”
+
+Piety stood and walked to the desk to face the High Cleric of the Church of Khulanty. She looked at him, for the first time, not as the High Cleric, but as a man, an equal. For the first twelve years of her life, she had been told she was lesser, unworthy, unclean. But the Scriptures had taught her that one person wasn’t inherently better than another. She saw in him the strain of his position.
+
+Piety took a breath to speak, but he spoke before she could.
+
+“You’ve had classes on powers,” he said, but he was still looking to somewhere beyond the room, not her. Piety was afraid he was going to repeat their conversation about the Dread Necromancer.
+
+“But your telekinesis is new, so perhaps you’ve not been taught this.” His eyes remained looking far away, but he directed them toward her, as though he was looking through her, or into her. “The world is made up of very small things,” he said, “things so small you cannot see them, so small that most people don’t know they’re there, so small that we don’t even have a word for them. Now if someone with telekinesis were to rub them together, they could achieve impressive phenomena, some can ignite substances, but when I do it, I generate lightning.”
+
+Sparks danced upon his shoulders. He unclasped his hands and held his fingers out to each other, slightly curled. Sparks arced between his fingers. He focused his eyes upon the space filled with miniature lightning bolts.
+
+“Most telekinetics can’t do this trick, but, as it would turn out, this is the only power I have.”
+
+The sparks died away and he looked up at her again.
+
+“I was a Sword of the Church before I became a councilor. I fought many battles and my power became my greatest weapon. I understand how battle can be chaotic, and I understand your concern for your friend. But do you really think that I could send you to Pinefort and not Temperance? She’d be right behind you, no matter the orders I gave her.”
+
+Piety smiled and the ghost of a laugh escaped her throat, but it was a sad sound. “Yes, sir, she would.”
+
+High Cleric Radden leaned back in his chair and his look was steady on her now, no longer far away. He was his position again, no longer the man. “The two of you will be a great asset to General Byron and his officers. I will not grant your request.”
+
+• • •
+
+Piety stood on the rain slick, stone-paved wharf of Kinswell, staring at the forest of masts on the foreground of the grey-blue ocean. The great expanse of water swelled with white-capped waves all the way to the hazy horizon. The wharf, and the docks beyond, teamed with sounds and smells alien to Piety’s experience. Despite having lived in Kinswell for months, the greatest port in Khulanty, she’d never seen the ocean and it held an unexpected fascination for her.
+
+The murmur of conversation punctuated with shouts and birdcall was underscored by the drone of the surf. Brine permeated the air and was countered by the smell of fish, tar, and bodies washed only by the sea.
+
+She did not stand alone but was accompanied by two docile horses from the stables of the High Temple. She held them by their reins and they shifted gently, occasionally butting her with their noses so that she would pet their noses or scratch their ears. Down on the docks, Temperance stood with a group of clerics headed by Father Christoph, a white-bearded man in a whip thin frame. Temperance had said they would be collecting healing supplies from the ship. The supplies for herbal healing were foreign to Piety, so she stood with their horses while Temperance went with Father Christoph.
+
+From behind, Temperance was butted by a third nose and she turned, smiling. Steady, the donkey Father Vytal had purchased from Rauf Kaver, would join them on their journey south, carrying their personal supplies. Steady whickered and lipped her shoulder. Piety patted his neck.
+
+“Thanks for coming with us, Steady. I’ll make sure they send you back once we get there. War is no place for a donkey.”
+
+“Piety?”
+
+Piety turned to find Temperance approaching. The contingent from the High Temple was ready to meet with the rest of General Byron’s army heading south. Temperance stood next to Piety and patted Steady’s nose.
+
+“Good to see a familiar face, huh?”
+
+Piety nodded. “Are you ready?”
+
+“No. But we’re doing it anyway, right?”
+
+Piety nodded again.
+
+Father Christoph started their contingent of clerics and supply wagons moving, but before the girls could follow suit they heard the shout of a familiar voice.
+
+“Temperance!”
+
+From the main thoroughfare leading to the High Temple, Elijah threaded his way through the dockside crowd, his labored breathing testament to his hurried journey.
+
+“Temperance. I… You haven’t left yet.”
+
+Temperance looked at Piety, confused, then back to Elijah. “Uh… We were just about to leave. Did I forget something?”
+
+“No, no. I just… I wanted…”
+
+Elijah’s cheeks were beet red, but Temperance continued to look confused. Piety realized Temperance really didn’t understand that Elijah was interested in her. The poor boy looked ready to explode with everything as yet unsaid.
+
+Temperance’s expression turned stern. “Elijah, we have to go. What is so important that you ran all the way here from the High Temple?”
+
+“I love you, Temperance.”
+
+Piety felt her eyebrows climb to her hair. Temperance choked. Elijah looked mortified but resolute. He took Temperance’s hand, kissed her fingers, and fled.
+
+• • •
+
+It took a full month for the caravan to reach Pinefort from Kinswell, just over the border of Mineres Province into Kempenny. On her own, even with her inexperience in riding, Piety was certain she could have gotten there quicker, but she learned that an army could march no faster than its supply wagons.
+
+Every night, they set up camp in what Piety and Temperance learned was typical military fashion: everyone in their assigned place according to division and rank, everyone responsible for his or her own gear. The first night was chaotic, and Piety and Temperance sat atop their horses, watching it all and not knowing what to do.
+
+“You girls, who are you?” A skinny young man with the marks of a lieutenant on his shoulders strode toward them, looking determined.
+
+Piety straightened from under the day of riding and gave him her attention.
+
+“I asked you a question, girl. What are you doing riding with the army? Shouldn’t you be back with your father?”
+
+Piety didn’t like the man’s superior attitude, but she ignored his rudeness in favor of expediency and began to explain. “My father isn’t here. We are…”
+
+But the lieutenant interrupted. “This is no place for children. Get back to the civilian’s camp.”
+
+“Lieutenant,” Piety began, but was again interrupted.
+
+“That’s enough, girl. Civilians interfering with military matters are not immune to military discipline.”
+
+“We’re with the church,” she said quickly, hoping to head off any further misunderstanding.
+
+The man frowned. “Where are your sunbursts then?”
+
+“We’re acolytes, not clerics.”
+
+He shook his head. “You’re lying. Come down from that horse.” He stepped to them and grabbed Piety’s ankle.
+
+“Let go.”
+
+Piety pushed her palm at the man, and though she didn’t touch him, he stumbled back. She hadn’t meant to, but she’d shoved him with her telekinesis. He looked up at her, surprised, then went for his sword. Piety wrapped her power about her without more than a cursory thought, then wrapped the young lieutenant in stout bands of power. She spoke gently but firmly into his mind.
+
+“Listen. My name is Piety Churchstep and this is Temperance Sunday. We are acolytes under the command of Father Christoph. If you want to be of help, you’ll show us where the clerics are making camp.”
+
+She released her hold on the man and he staggered. His look of superiority had faded and been replaced by awe, perhaps even fear. Piety didn’t like that look directed at her.
+
+“Yes, ma’am. This way.”
+
+Piety awkwardly nudged her horse into motion, Temperance at her side, and Steady plodding along behind.
+
+“Wow, Piety,” Temperance whispered.
+
+After that, the two made sure to stay near the clerics while traveling. Soon they learned where to put up their tent and shared the necessary chores of a military camp with the other representatives of the church. Piety refrained from helping to cook, but avoided any grumblings that might have resulted by volunteering to clean up afterward and do laundry.
+
+Soon, Piety and Temperance found a rhythm to the military march southward and their place in it. As they became efficient with their duties in the camp, they found themselves with some free time, and so experimented with Piety’s mindspace.
+
+Piety sat facing Temperance from the other side of a stack of books they’d managed to wheedle out of Father Katsinger, the head clerk for the church’s contingent. They had promised to return them in the morning. Next to the books were three wooden boxes containing Temperance’s jumbled notes.
+
+“Well,” said Temperance, and she shrugged, “just pick one, I guess?”
+
+Piety nodded. “All right.” She took the top book from the stack and looked at it: Navigating the Islands: A Study of the Peoples of the Archipelagos. She held the heavy tome in both hands, closed her eyes, and slipped into her mindspace. When she opened her eyes, her hands were empty. Taking a moment to look at the latest chess game, she grimaced at her poor position, moved a cleric, and pulled herself back to the physical world.
+
+“It didn’t work,” Piety said.
+
+Temperance frowned. “All right. Try the next one.” Piety took up the next book: On the Habits of Field Mice. She showed it to Temperance. “Why does Father Katsinger even have this book?”
+
+“Piety, focus.”
+
+“Right.” Again, Piety held the book in both hands, closed her eyes, and slipped to her mindspace. The book did not join her.
+
+“Try the next one.”
+
+Piety sighed. “Are we going to do this with every book in camp?”
+
+“Try it,” Temperance insisted.
+
+The third book was a worn copy of the Scriptures. Piety held the book, closed her eyes, went to the mindspace. And this time it worked.
+
+“But why this time?” Temperance asked. She rested her chin on her hand and hunched, thinking.
+
+Piety flipped through the book, catching familiar phrases from familiar stories as they flashed by. It wasn’t a copy she’d ever seen before, but it was printed in the traditional format and she knew it like she knew her own copy given her by Father Vytal.
+
+“That’s it,” she said.
+
+“Hmm?” Temperance blinked and looked up.
+
+“I know this book. Not this one specifically, but the Scriptures. I didn’t know the other two at all.”
+
+Temperance straightened and her eyes brightened. “I see.” She pulled the books off the stack before she said, “Ah!” and held one out to her. A Brief History of the Founding of the Nation of Khulanty. It was a text they’d both been required to read at the High Temple. “Try this one.”
+
+Piety wasn’t as familiar with this book as she was with the Scriptures, but this, too, proved a success. With a little more experimentation, they determined that she was able to take to the mindspace anything she’d ever read, even if she wasn’t intimately familiar with it. Further, she able to take items other than books, like the blanket she’d taken months ago. She also learned she was unable to remove anything from the mindspace.
+
+“So, if you’re going to store my notes in that magical filing cabinet, you’ll have to read them first, become familiar with them.”
+
+Piety fixed her friend with a wry look. “That’s what all this was about, huh? You just want a fireproof place to store your notes.”
+
+Temperance shrugged. “What else are friends for?” But she couldn’t hide her playful smile.
+
+Piety threw a pillow at her.
+
+• • •
+
+On the south bank of the Grand River in Kempenny Province, Pinefort was one of the original forts in Khulanty. The original wood structure had been built over one hundred years previous, before First Royal Sean Loreamer had held the Council of Kinswell, before Khulanty was a nation. It had been a resting point for riverboats and travelers walking along the river and the last outpost of civilization before the wild lands of the west.
+
+Now it served as a point of commerce between Loreamer and Kempenny Province and was the biggest city on the Grand other than Kinswell itself.
+
+Officially, the war had started three months ago. Governor Kempenny had sent an emissary declaring secession and war with the nation of Khulanty and Loreamer Province in specific. Within a day, houses Artio, Ceres, and Mineres had made declaration lending their provinces’ support to the Royal House of Loreamer. Governor Kempenny was alone in her rebellion.
+
+Despite the official start three months ago, Kempenny soldiers had been making unlawful forays into Loreamer Province for months before that. Now the Royal Council had commandeered the fort as their headquarters for the war.
+
+The former Magistrate of Pinefort, Mayhew Aramick was a staunch supporter of Governor Kempenny and had evacuated his family when occupation by Loreamer forces had become inevitable. He was now entrenched with the Kempenny forces in the south.
+
+Pinefort was a city on the tallest hill in a landscape surrounded by forested hills, with the river guarding its north flank. When the military contingent arrived, the populace had been halved, most fleeing south to support their governor. Those who remained carried on, though much of the city had been abandoned.
+
+Piety and Temperance were given a bunk bed in the great hall along with nearly one hundred others. The large room echoed with the murmured conversation of everyone settling in.
+
+Piety sat on the bottom bunk, and Temperance joined her.
+
+“Well,” said Piety, “here we are.”

@@ -1,0 +1,109 @@
+---
+id: 613df5f3-24de-5787-9e83-b50d92cb2220
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86: Emergency Quest"
+slug: 0269-chapter-86-emergency-quest
+partOf: labyrinth-of-the-mad-god
+position: 269
+ownLength: 1811
+unit: words
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2896452/chapter-86-emergency-quest"
+royalRoadId: "2896452"
+---
+
+Nick turned to Laura as the duo got ready to head out. “Let me know if I’m going too fast. Although, for all I know, I’ll be the one slowing you down.”
+
+“Will do. Let’s run until we meet up with that scout and then come up with a plan based on what we learn.”
+
+With that, all that was left was to cross the biome in record time and pray the settlement could hold on until they arrived.
+
+A field of mana encased Nick’s body as he activated Force Acceleration and took off in a flash… only to be passed by a lightning-wreathed Laura a fraction of a second later.
+
+The pair went streaking away from Aurora. He was moving so fast that the wind would have blinded him if it wasn’t for the transparent faceplate of his helmet, even with the windbreak he’d created with Arcane Shield. He wasn’t sure how, but the lightning mage had clearly come up with her own solution, because she poured on the speed as they left the city limits.
+
+Nick couldn’t make out the terrain below his feet. The ground was reduced to a smear of color and motion, even with his upgraded eyes. He compensated by memorizing every nook and cranny of the topography ahead, creating a mental representation with Theater of the Mind’s Eye, and using it to track where his boots came down.
+
+He was worried about the endangered settlement, but that didn’t make this incredible journey any less thrilling. They were sprinting faster than a car on the freeway—close to a hundred miles per hour by his rough estimate.
+
+Even for such powerful people, the drain on their vital energy was considerable. However, Liz had given each of them a pair of potions from the city’s stockpile. An hour into their trek, they stopped long enough to down the concoctions before pouring on the speed once more.
+
+Before long, they were approaching the border of the Bladewind Badlands. The next biome over was another Frontier region—an endless sea of grass his people had only explored a slim fraction of thus far.
+
+By this point in his adventures, Nick’s Mind was high enough to consider several things at once. Part of his awareness was riveted on the terrain ahead, picking out a path and making sure that every footfall landed precisely where he wanted.
+
+Another slice of his brain was preparing for the battle to come, coming up with strategies and contingencies for a range of situations, including how he could combine his powers with Laura’s.
+
+The rest of his attention was on the woman herself. While he had seen her wield lightning on several occasions, this was his first chance to study Laura’s magic up close. The electricity-aspected mana her core was generating was intense, and he hadn’t examined this frequency of elemental magic in depth until now.
+
+Her mana was potent and ever-surging, racing through her energetic channels in a crackling flash before passing through the boundary of her body. From what he could tell, her ability was enhancing the movement of her muscles while encasing her tissue in a protective layer, shielding her against the incredible force of her own impetus.
+
+Nick had the sense that Laura’s spell did more than enhance her mobility. It also served as a layer of armor that would repel incoming attacks and shock the shit out of anything that managed to touch her. He suspected that channeling the field through her metal staff was what granted her attacks an electric effect.
+
+That’s a fascinating form of magic. I wonder if I can do something similar by modifying Arcane Shield. His musings cut off when he saw smoke on the horizon, which rapidly resolved itself into the profile of a settlement. There was a gigantic black boulder a few miles ahead—the rendezvous point where the scout should be waiting.
+
+Laura saw it too, and they put on the brakes as they approached the towering lump of stone. As the duo came to a stop beside the base of the boulder, a message from the System appeared before his eyes.
+
+System Message: Emergency Quest
+
+Dragon’s Tooth has been discovered by a nest of monsters. As matters stand, the creatures will overwhelm the defenders, destroy the city’s core, and slaughter its inhabitants. The urgency and danger of this situation have qualified it to become an emergency quest.
+
+Quest: Save the settlement.
+
+If you can defeat the horde before the city core is destroyed you will receive: 1000 CP, 5 Uncommon building vouchers, and 25 Common building vouchers.
+
+If you manage to save at least 90% of the endangered citizens, you will also receive a high-quality ability stone.
+
+The difficulty of this quest is rated as: 4 stars.
+
+You will fail both objectives in approximately: 10 minutes, 41 seconds.
+
+Nick absorbed the information at a glance and started scanning his surroundings. The duo needed to act fast, but charging in blind was a recipe for disaster. He pulled out his spyglass and turned toward the settlement, analyzing the onslaught of the colony of monstrous ants.
+
+The creatures were smaller than he’d expected—about the size of a German Shepard—but they were hundreds of them, maybe thousands. When he sized them up, the skill released a resounding ping of danger along with some additional information.
+
+The vicious creatures were tough, strong, and agile. Their mandibles were powerful enough to punch through his armor and tear him apart, and their barbed abdomens could deliver a venomous sting. That being said, Nick was confident he could handle them if he didn’t take on too many at once.
+
+While they evaluated their enemies and searched for the scout, the duo drew closer to the city walls. The ants had chewed through the gate instead of scaling the barrier. Some were streaming through the breach, but most were already inside. He took a good look at the creatures as he got ready to engage the swarm.
+
+Their glossy bodies were a deep brown hue, with crimson markings along their abdomens. The chitin was translucent rather than opaque, revealing the silhouettes of organs below.
+
+Their legs were longer and thinner than Earth ants, and their mandibles were covered in jagged protrusions that were designed to shred flesh rather than slice it. Their stingers were six-inches long and covered in an oily fluid that he fervently desired not to be injected with.
+
+The strange part was the mana covering their bodies. It reminded Nick of Force Acceleration and Laura’s electric ability. But instead of flowing out from their energetic cores, the magic enhancing the insects was coming from the opposite direction of the settlement, where a short hillock was jutting above the horizon.
+
+“Where are the people? I only see monsters from here.”
+
+“I’m not sure,” Laura replied. “I’ll send out a signal to let the scout know where we are.” With that, she raised one hand above her head and drew deeply upon the magic within. Electric mana went surging out from her fingertips, stretching up toward the heavens above.
+
+For a moment, Nick wasn’t sure what was happening, although the woman’s control over her magic was exceptional.
+
+It all became clear a few seconds later.
+
+From out of the clear blue sky, a blinding bolt of lightning came crashing down. A torrent of voltage surged through a dozen ants at once, reducing them to sizzling lumps charcoal in the blink of an eye.
+
+Most remarkable of all, it wasn’t the product of a spell as far as he could tell. Instead, Laura’s energy had created a harmonic resonance with the mana riding the upper atmosphere, guiding it down to the earth below.
+
+Nick was fascinated and would ask the mage about her technique later. Right now, there were people who needed his help, and the clock was ticking. Fortunately, the scout had hidden herself nearby after being driven away from the boulder.
+
+The woman didn’t waste a second. She came rushing over and filled the pair in on what had happened while they were enroute, providing updated counts and locations of the monsters assailing the settlement.
+
+“Get to the main square. The defenders are guarding the building containing the city’s core. The monsters are drawn to it for some reason. They can’t hold out much longer. I’ve been doing what I can to thin the swarm, but more keep boiling out of the burrow leading to their nest.”
+
+There wasn’t a moment to spare. After the scout sent a quick update to Kenji’s team, the three of them entered the settlement, sprinting past the outskirts of the city and into its heart. Dragon’s Tooth was smaller than Aurora—home to a few hundred people as far as he could tell.
+
+When he rounded the corner of the next block, Nick cursed as the trio came to a skidding stop. Hundreds of monsters were engulfing the largest structure in the settlement, and he could sense the mana from offensive magic being cast from within.
+
+“Thank god they reinforced the building housing the city’s core,” the scout said. “If the ants could tunnel through the floor or chew through the walls, everyone would already be dead. I’ll provide ranged support and do whatever I can, but I’m not strong enough to take on more than a few of these monsters at once.”
+
+Nick switched on mage sight to get a better sense for the magic buffing the ants. Mana was flowing through the air, sinking into the monsters’ bodies to multiply their strength. He was pretty sure that he knew what he was looking at, but his suspicions were confirmed when Fritz’s voice resounded within his mind.
+
+“The monsters are under the effect of a powerful aura. It’s coordinating their attacks in addition to buffing their attributes. If you want to win this battle, find the source and sever the spell.”
+
+Nick shared what he’d learned then said, “It must be coming from be their queen, or whatever these monsters have for a leader. If I can take the boss out, it will significantly weaken the swarm.” He turned to Laura and the scout, whose name was Eris. “Can you keep those people alive while I follow this magic back to its source and kill whatever I find?”
+
+“I’m stronger outside and have no desire to spelunk my way through a nest of man-eating insects,” the lightning-mage replied. “I don’t even like regular ones. I’ll hit them hard and draw some pressure off the people besieged inside that building. If kill enough to break the siege or reinforcements arrive faster than we expected, I’ll follow you and lend a hand.”
+
+“Then that’s the plan. Good luck.”
+
+Nick activated Force Acceleration and took off in a surging dash, following the dense flows of mana away from the swarm and toward the outskirts of the city.

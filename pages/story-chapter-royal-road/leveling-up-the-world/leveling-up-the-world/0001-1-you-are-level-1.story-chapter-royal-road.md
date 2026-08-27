@@ -1,0 +1,103 @@
+---
+id: 9d16bd08-8e54-5746-be1b-132a6b72c19e
+page-type-slug: story-chapter-royal-road
+title: "1. You are Level 1"
+slug: 0001-1-you-are-level-1
+partOf: leveling-up-the-world
+position: 1
+ownLength: 1150
+unit: words
+ownProgress: 1150
+publishedAt: 2021-01-02
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/608419/1-you-are-level-1"
+royalRoadId: "608419"
+markedReadAt: "2026-06-29T22:40:09.771Z"
+---
+
+The first thing that Dallion saw after opening his eyes was the floor. The second was a blue glowing rectangle floating in a small empty room. Confusion surged, twisting his forehead until a series of wavy lines appeared.
+
+This doesn’t make sense, Dallion thought.
+
+The last thing he remembered was returning to his dorm and stumbling into bed. There had been a wild party, wilder than he would have liked. Arriving at college was considered a big deal, making it impossible for Dallion to refuse. It wasn’t that the party had been bad, Dallion was sure it had been great… if only he could remember more than fragments of it. There had been dancing, drinking—less than Dallion would admit, since his alcohol tolerance was limited to a can and a half of beer—and atop of a table while wearing plush antlers.
+
+Maybe it’s all a dream?
+
+Dallion closed his eyes then opened them up again. The empty room was still there, as was the floating rectangle.
+
+“Hello?” Dallion turned around.
+
+Rough grey stones covered the walls, floor, and ceiling, lit up only by the cyan glow of the rectangle. There was no furniture, no paintings, statues, windows, or even a door. It was as if someone had dragged him here and sealed off the entrance behind him.
+
+Am I in an escape room?
+
+Dallion took a step towards the center of the room. The moment he did a message appeared within the rectangle.
+
+YOU ARE LEVEL 1
+
+“Level one?” Dallion asked out loud.
+
+On cue the window spun around, revealing additional text instructions.
+
+You are in a small dark room.
+
+Smash the window to choose your destiny!
+
+A sensible person would have taken a moment to think things through. As a visiting tech giant had said during a lecture, life was a series of carefully considered risk-reward situations. The more knowledge and information one had, the easier they would obtain great rewards for little risk. This newly occurred situation, though unusual, was no different. Using his past life experience and picking up on any clues around him, Dallion had every chance of coming to the correct conclusion. Unfortunately, Dallion wasn’t a sensible person.
+
+Without a moment’s thought, the boy took a step forward and struck the rectangle dead center with his fist.
+
+Crack!
+
+The rectangle split into four equal parts. The pieces made a quick whirl in the air, then moved next to each other, forming a perfect row. Three of the smaller rectangles changed color turning red, white, and orange. A new blue rectangle appeared above the row.
+
+RECKLESS!
+
+Decisive reactions, though little thought. Choose the focus you value most so you can continue into the halls of judgement.
+
+Despite the uncertainty of the whole situation, Dallion had to admit feeling a sense of intrigue. It was as if the breaking of the blue rectangle had filled him with euphoria. At this point the only thing he could do was continue with the instruction and see where they led him.
+
+Each of the smaller rectangles had a word written on them with a number beside. The words were Body, Mind, Reaction, and Perception—probably the focus mentioned in the message. All had a value of three, with the exception of Reaction which was at a rounded five. Dallion was tempted to choose Mind with the aim that might help him figure out what was going on. Body was also a good choice, potentially granting him what weeks of going to the gym couldn’t. Ultimately, though, he decided to build on his advantage and go with Reaction.
+
+The instant his knuckles touched the rectangle it melted away in the air along with all the rest. A doorway appeared in the wall in front of him, filling the room with dim yellow light.
+
+“Was that it?” Dallion asked. “Hello? Anyone out there?”
+
+No answer came.
+
+Maybe I should have chosen Body? he thought as he cautiously made his way outside of the room and into a torch lit corridor. At first glance there was nothing special in the corridor; it was yet another example of medieval architecture for several dozen steps forward up to a T-junction. Lit torches covered both walls providing a reasonable degree of flickering light.
+
+Upon reaching the junction, a blue rectangle appeared.
+
+You are at a crossroads.
+
+Choose the item that will serve you best.
+
+Looking to his right, a small round shield was placed on the wall. Dallion had never seen armor of any type in his life, but somehow knew that the object to be a buckler. To be honest it resembled more a metal frisbee disk than anything else. The left corridor, in turn, had a metal short sword pinned to the wall.
+
+“Can I choose both?” Dallion asked.
+
+The blue rectangle didn’t answer.
+
+That would have been too easy. Dallion allowed himself a smile.
+
+Attack or Defense. The choice was obvious, and still he found himself hesitating. What if picked the wrong item? Or worse, what if he had chosen the wrong skills? There was no indication he’d be able to change his choice. Dallion looked at the shield, then at the sword, then at the shield again.
+
+The sword was the obvious choice—great for attack, and possibly marginal defense as well. The buckler, on the other hand, seemed useless for both. Or was it? The rectangle only said the item should serve him best; there was no mention of fighting.
+
+“The hell with it!” Dallion went to the buckler and took it off the wall.
+
+GUARD skills obtained.
+
+You’ve broken through your first barrier!
+
+A green rectangle popped up in front of his eyes. His choice had been made. Before Dallion could turn around in an attempt to get the sword, everything went black. Instinct forced the boy to recoil in an attempt to escape the darkness. To his great surprise, he succeeded thrusting into the light and then into something hard and painful.
+
+“Brother!” a child’s voice pierced his ears.
+
+When he came back to his senses, Dallion was no longer in the dark corridor. Instead, he was sitting on a field, next to a rather large wooden statue. A small group of people had gathered around him, dressed in clothes that would be found unacceptable anywhere except in fantasy movies and really high-end cosplays. Most of the people were adults the age of his parents or older, although there were a few children as well. Carefully looking at them, Dallion could say with absolute certainty that he had never seen them before in his life.
+
+“I knew you’d do it, brother!” A blond-haired boy elbowed his way through the ring of people to Dallion and hugged him like a child who’d just gotten a high-end console as a birthday gift. “I knew you’d awaken!”
+
+“Yeah,” Dallion replied, patting his “brother” on the back. “I awakened…”
+
+What the heck did just happen?!

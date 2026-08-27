@@ -1,0 +1,207 @@
+---
+id: 8a46c431-d3f9-557b-9946-76cea7573b0f
+page-type-slug: story-chapter-royal-road
+title: "60 — Book 2, Chapter 8 — Alchemy 101, Pt 3"
+slug: 0060-60-book-2-chapter-8-alchemy-101-pt-3
+partOf: just-add-mana
+position: 60
+ownLength: 3405
+unit: words
+ownProgress: 3405
+publishedAt: 2025-11-13
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2757595/60-book-2-chapter-8-alchemy-101-pt-3"
+royalRoadId: "2757595"
+markedReadAt: "2026-06-29T18:49:39.473Z"
+---
+
+The good news was that Professor Rinkle was entirely for the plan to experiment with the Orstrahl Kingdom's mystery ingredients. The bad news was that she was unwilling to allow this until the end of class because, as she put it, "the potions might not like one another." Strangely enough, Cale was starting to understand what she meant by all of this, and he couldn't decide if he needed to be worried about that or not.
+
+Ah, well. It wasn't really a problem. Cale was more than happy to work with the recipe she had given them—the idea of her amplification potion was really quite elegant, and he could see from the recipe alone that a lot of thought and research had been put into it. What was even more impressive was that the recipe itself was heavily obfuscated, likely because she'd had to provide it to Orstrahl in order to secure their funding.
+
+Of the dozens of ingredients listed, Cale was pretty sure only about ten of them were active ingredients. He would need to sit down with it if he really wanted to decipher it, though he wasn't really interested in doing so for the moment. Too much effort. Besides, he would have to study up on Utelian ingredients to be able to do so reliably, and he had better things to do with his time.
+
+Like explain to Flia and Orguk exactly what some of these ingredients were! Alchemy was a lot more fun when he had an apprentice to work with, Cale decided. Mostly because his experience through the realms meant that he was full of trivia that even Professor Rinkle wasn't aware of, and he delighted in telling the two students with him exactly where each ingredient came from.
+
+Granted, Flia seemed more uncomfortable about this than Orguk did, but Cale was pretty sure that was because Orguk didn't have much of a sense of shame to begin with.
+
+"Now, you'd think that 'salamander eyes' would be exactly that," Cale said cheerfully, pulling a faintly glowing red sphere out of the ingredient cabinet and showing it to his classmates. Flia was already wincing as if in anticipation of what he might say, and Orguk was leaning forward eagerly. "But when these were first discovered to be a viable potion ingredient, alchemists weren't able to distinguish between salamanders and false salamanders yet. Actual salamanders are terrible potion ingredients—too finicky, and also they tend to run away a lot."
+
+"A lot of potion ingredients tend to run away before you turn them into potion ingredients," Flia pointed out.
+
+"No, I mean after," Cale clarified. "Salamander organs have a tendency to run. The magic ones, anyway. It's unpleasant for everyone involved."
+
+"Orguk wants to know about false salamanders," Orguk said. Cale grinned at him.
+
+"Well, false salamanders are fascinating," he said. "They mimic the magical breeds of salamanders, obviously, because most predators aren't interested in eating those—salamanders are surprisingly good at absorbing nearly any kind of magic, by the way. False salamanders not so much. They're actually born from a type of plant. As the flowers bloom, they turn sort of inside-out and create a realistic copy of a magical salamander."
+
+"And the eyes?" Flia asked wearily.
+
+"They're the seeds!" Cale said cheerfully. "Or testicles. Depending on how you look at it."
+
+"There it is." Flia dragged a hand down her face in exasperation. "Cale, neither of those things are anything alike. You're just saying things for shock value now."
+
+"Only a little bit!" Cale protested. "The rest of it is interesting, isn't it?"
+
+"Orguk is interested," Orguk supplied.
+
+Cale patted the orc heartily on the back. "See? Orguk likes my trivia!" he said. Flia just rolled her eyes at his antics and went back to the recipe, her brows furrowing a little bit at the next step.
+
+"I don't think I've done this one before," she said. "Magical... coagulation?"
+
+"Well! I see some of my students are progressing rather quickly, despite their distractions." Professor Rinkle's voice filtered cheerfully in through the wards. "Indeed! I will demonstrate shortly, and you, my students, will understand the benefits of understanding your potions from within. Keep your eyes on the potion and your hands inside your safety wards at all times!"
+
+"Ooh," Cale said. "Learning!"
+
+He, Flia, and Orguk all sat back and watched as the liquid surrounding them began to churn. The projection spell showed Professor Rinkle stirring her cauldron so aggressively her potion splashed out the sides; it was a wonder her ladle hadn't smacked into any of their wards, come to think of it.
+
+Then she added in the final few ingredients she needed before this step. Massive shadows flitted over the otherwise-bright liquid surrounding them, barely visible through the potion itself.
+
+At least until one particle of an ingredient settled against the ward surrounding them—
+
+"GRAAAH!" Orguk suddenly bellowed. Fire blazed suddenly in his fist. "We are under attack!"
+
+You have learned [Fire Whip]!
+
+Cale slammed a barrier down around Orguk before he could shatter the wards around them. "We are not," he said sharply. "That is a magnified segment of sekrite ore. Don't break the wards."
+
+"But... but..." Orguk gestured at the ore fragment furiously. It was pulsing like it was made of flesh rather than metal, though Cale somehow suspected that wasn't the part that had disturbed Orguk. No—that probably had more to do with the fact that when they were this small, the millions of tiny holes in the ore were now readily apparent.
+
+That, and it occasionally looked like there were fingers reaching out of those holes.
+
+"It's perfectly safe," Cale said, eyeing the ore dubiously. He had to admit, this one was a little creepy, even for him.
+
+"Well?" Flia asked. Cale glanced at her to see that—quite unlike Orguk—she was actually interested in this one. "Got any trivia for us on this one, master?"
+
+"Don't call me that," Cale said automatically before turning back to look at the sekrite with a more critical eye.
+
+"I probably wouldn't have recognized this if it wasn't basically famous," Cale admitted after a moment. "Sekrite is usually famed for its mana-leeching properties, but it's a bit of a double-edged sword. I remember when it was first discovered, dozens of terrified mages were urging their kings to ban it. Lots of claims that the ore was 'haunted', plus a bunch of babbling about hands reaching out for their mana."
+
+Flia raised an eyebrow. "I suppose I can see where they got that," she said. "You think they used a magnification spell on the ore?"
+
+"Doubt it," Cale said, shaking his head. "Mages tend to analyze things magically, not physically. What I'm willing to bet is that their mana cores recognized the threat, even when they themselves didn't. Ended up being plagued by nightmares of the stuff. Funny enough, it's known and used as magebane in some anti-magic realms because of it."
+
+"Huh." Flia seemed impressed by that, at least. "Did that work?"
+
+Cale grimaced. "Not really," he said. "Problem is that anyone can be born with a mana core, and even people who don't like magic probably have one. They usually just end up giving themselves nightmares and convincing themselves that it's a mage causing the nightmares."
+
+"Orguk is confused," Orguk said, the conversation drawing his attention away from the piece of sekrite for a moment. "You are saying there are realms that do not like mana?"
+
+"More like the dominant societies in those realms, but yes, pretty much," Cale said. The topic was normally a somber one for him—those realms were rarely a pleasant experience—but the look of utter confusion and flabbergasted shock on Orguk's face made him snort instead.
+
+"But why?" Orguk demanded. "Mana is magic! Magic is best!"
+
+"Well, you tell them that, if you ever get the chance," Cale said with a laugh. "You might have better luck than I did."
+
+"Orguk will," Orguk said, as if he'd decided on this at that very moment. "Orguk will make them understand how good magic is. Then Orguk will show them how much mana he has."
+
+Cale chuckled, exchanging a glance with Flia. She'd gotten what he was implying almost immediately, and her expression had darkened slightly, but even though she was shaking her head at Orguk's antics, some of the tension in her shoulders had lifted. There was something to be said for having a simplistic approach to things.
+
+Plus, Cale was pretty sure that if anyone from those realms met Orguk they would ignite out of sheer embarrassment within a few minutes. Maybe the orc could change the way they thought. He'd have to remember that, in case he ever found himself in a realm like that again.
+
+"Now watch closely," Professor Rinkle announced, having finished her preparations. Cale glanced up with interest, watching as the piece of sekrite began to glow, though "glow" wasn't quite the right word for it. It was more like the sekrite drew on all the mana around it, drawing out the otherwise ever-present blue the potion emanated.
+
+It was... probably best he just pretend not to see the way the fingers in those holes appeared to reach out and grab at the mana. Some things were just not meant to be seen at scale.
+
+But Professor Rinkle was being precise with her mana, he noted. She was attuning her mana and pulsing it into an anchoring fragment of sekrite at precise intervals while stirring the potion, and each time she did, the sekrite would pull at the appropriate mana aspects within the potion. Certain ingredients were each associated with certain mana aspects, and as the sekrite drained those aspects, those ingredients fell inert and began to clump together.
+
+Cale whistled. "Most alchemists do this kind of thing using ten different ingredients," he said. "Mages don't like using sekrite, for obvious reasons. This is kind of a genius use of it, though."
+
+"Orguk feels uncomfortable," Orguk muttered.
+
+"Do you think there's anything living inside the sekrite?" Flia asked. "Are we hallucinating those fingers, or is there maybe a type of magical creature living in them?"
+
+Cale blinked and glanced at her. "I... have no idea," he admitted after a moment. Microscopic magical species did exist, but there was rarely much research on them; mages that specialized in size-changing charms were few and far between to begin with. "Maybe you should ask for a piece from Professor Rinkle so you can check?"
+
+"I think I might do just that," Flia said thoughtfully.
+
+Another spell caused the newly-clumped ingredients to float slowly out of the potion, along with all fragments of sekrite ore. Cale noted in the projection that Professor Rinkle was careful to separate the sekrite and store it in a jar, presumably to be reused later. That made sense—there was usually just a limited supply of sekrite to begin with, and it wasn't like it ever really got "used up."
+
+As soon as those impurities were cleared out of the potion, it began to change. The blue glow around them faded, turning briefly into a crystal-clear solution that allowed them to see the other little dimly-lit pockets of air where other safety wards had been set up and other students were experimenting with their potions.
+
+Above them, a few undissolved ingredients remained, drifting about and casting faint, distorted shadows on their wards. Cale counted among them what appeared to be draughtfire weed, at least three different abstract shapes that were either an ingredient he didn't recognize or a potion byproduct, and one student desperately swimming for the surface.
+
+He paused, then went back over that in his head again.
+
+"Dammit," he said with a sigh. "Professor Rinkle, there's—"
+
+"I know," she replied over the wards, her voice uncharacteristically strained. Cale raised a brow slightly and eyed the projection spell—it didn't look like she was straining with anything, but his mana sense was somewhat dulled in this state. His range was relative to him, and as far as it was concerned, he was currently surrounded by an ocean's worth of potion.
+
+She was unusually still in the projection, though. Cale cursed under his breath, then turned to track the struggling student. They didn't look like they were at immediate risk of drowning or burning in the potion. The fins indicated that they were some sort of merfolk, so they were at least a good swimmer...
+
+"Cale?" Flia asked, her voice tense. She was watching along with him, and Cale could see she was itching to jump in. The only reason she was holding back was that she didn't know if she could survive in the raw magic surrounding them. "Are we going to do anything about this?"
+
+He could hear the underlying question. Why aren't you doing anything?
+
+"Something's wrong," Cale said. He eyed the small field of safety wards at the base of the cauldron. "We're working in teams of three, remember? If one student is swimming for the surface, with personal wards that protect them from the potion—"
+
+"There are two more trapped in a failing ward," Flia realized, cursing. She spun around, trying to locate the other two by sight alone, but the potion was clouding over again. It was impossible to find anyone else through the murky liquid.
+
+Professor Rinkle's voice came in through the wards again, now definitely strained. "Students, there is an emergency ejection spell in each of your stations," she said. "It can be activated by touching the base of the ward and injecting a small quantity of mana into it. It will restore your size and place you back within the classroom. I would like each of you to do that now, please."
+
+Cale frowned. The few other students he could see were murmuring amongst each other with concern. One by one, someone from each team reached down to activate their ejection spell, causing the safety ward to pop like a bubble as they were promptly ejected.
+
+Flia reached for the base of theirs, but Cale shook his head and stopped her.
+
+"We're not doing that," he said, and when Flia gave him an incredulous look, Cale tilted his head to indicate the projection spell. "She hasn't moved in the last three minutes," he said. "Projection spells don't just stop working because the caster isn't concentrating. That's spell interference, most likely an illusion layered on top of the actual projection."
+
+Flia hesitated. "You're saying someone else is here?"
+
+"Someone who wants us all in the classroom," Cale said. "Rinkle could have activated that spell herself if she actually wanted to. She would have briefed us on it if she couldn't."
+
+"She's... never said anything about an emergency spell before," Flia said slowly. "There have been emergencies, but she was always able to pull out the students without disrupting the rest of the class."
+
+Cale nodded. "I'm going to break the safety ward," he said. "We're going to be surrounded by raw magic, so keep your barriers up at all times. Orguk, I'm going to assume you have the mana to maintain it. Flia, I'll keep one maintained around you, but keep yours up underneath just in case. Can use your water magic to guide us?"
+
+Flia hesitated for a moment, then nodded. "I'm guessing you want to find the other two students?"
+
+"And then get out of here without breaking the size charm, yep," Cale said. "Ready?"
+
+The other two nodded at him. Flia looked worried, but determined, and Orguk... well, Orguk mostly looked excited. "Orguk knew working with mana man was a good idea," the orc said, puffing out his chest.
+
+Cale snorted, but let himself grin just a bit. Then, without further ado—and with perhaps a little more flair than strictly needed—he punched the ward around them with a burst of prismatic mana.
+
+You have learned [Wardbreaker Punch]!
+
+Well... he couldn't complain about that, he supposed.
+
+It was evident pretty quickly what at least part of the problem was. The moment they left the safety of the ward, the magic around them felt remarkably and distinctly wrong; it took Cale a moment to place it, but when he did, he frowned and glanced at Flia. "Corruption?" he guessed.
+
+The water elemental's face was pale. She nodded tersely. "Not in the whole potion," she said. "I can sense it. It's mixing in from over there."
+
+A single glance was enough to show them what she was talking about. From within a cracked and failing safety ward, inky tendrils were oozing out into the surrounding potion, tainting it with whatever corrupted magic they contained. It looked rather a lot like a hatching egg, Cale reflected.
+
+Which probably wasn't a great sign.
+
+The two students they'd been looking for were both unconscious at the base of the ward. Tendrils of their corrupted potion had wrapped around them both, and Cale saw for the first time exactly what Flia meant when she said that corrupted potions attempted to eat everything around them.
+
+Those tendrils were sucking the life out of those students.
+
+One was a crystal elemental, the other an elf; both had plenty of life to spare, technically, which was perhaps the only reason they were still alive. Even immortal beings didn't have infinite life force, however. Many simply regenerated it faster than they expended it. The corrupted potion tipped that balance, causing the crystal elemental's body to dim and the elf to age.
+
+Cale cursed. "Take us there, please," he said. "Quickly."
+
+You have learned [Create Current]!
+
+The liquid around them accelerated, and all three of them torpedoed their way to the failing barrier and the still-spreading potion. Cale was careful not to think about what it was, because if this was anything like what he suspected, then the worst thing he could do now was to name it.
+
+No. The best thing to do now was to retrieve those students and pull them out of the cauldron.
+
+Then he could act.
+
+Grand Warden Sidyrnus was already bored with this task.
+
+Why had he been sent here, of all places? Surely there were other places that could use his talents? He was a Grand Warden, for crying out loud. One did not earn the title of Grand Warden without being able to craft wards that even the Great Divines could not pierce. He could have been deployed for literally anything else. To trap a god, perhaps. Sidyrnus had never trapped a god before, but that might at least prove an interesting challenge.
+
+Instead, the Red Hunters had sent him to Kazix Brightscale's Academy of the Attuned Arts to set a trap for their alchemy professor. Their alchemy professor! What threat did an alchemy professor pose? If they wanted her kidnapped to work on that potion, then they could have hired some simpletons to do it. Why in the world would they need a Grand Warden to capture an alchemy professor?
+
+Bah.
+
+Still, he was a consummate professional, so he set his trap slowly. First, he smuggled in items that were ostensibly potion ingredients but would also function to anchor the bifurcated ward he would need to establish. Despite his disdain, Professor Rinkle was a competent mage, and not someone a Warden like himself could confront in direct battle. Wardens thrived on preparation, not on live spellwork.
+
+And so, as his title demanded, he prepared. He could split Rinkle's attention by undermining her wards; she wouldn't notice, absorbed in her potions as she was. Threatening her students was a guaranteed way to get her cooperation. Because her spellwork mostly relied on communicating with her students through her wards, he could hijack that, too.
+
+Now he had Professor Rinkle and every student of this class trapped within a highly specialized, unbreakable ward-prison, fueled not only by his magic and expert wardcraft but also by sacrificing the life force of one immortal and one near-immortal. The corrupted potion would leak through the sabotaged ward soon enough, and eat through all evidence of his actions. The Brightscale Academy would no doubt have to conclude that this was a tragic and terrible accident, and he would get his pay from the Red Hunters, and perhaps relax in a nice spa for a day or two.
+
+A job well done, as far as he was concerned. Now he just needed to wait to confirm that the potion was well and thoroughly corrupted before he left.
+
+He was a professional, after all.

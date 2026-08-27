@@ -1,0 +1,211 @@
+---
+id: afdf06ec-8a11-56c1-b9d4-6d94d65f29ba
+page-type-slug: story-chapter-royal-road
+title: "83 — Book 2, Chapter 31 — Red Weave, Pt 1"
+slug: 0083-83-book-2-chapter-31-red-weave-pt-1
+partOf: just-add-mana
+position: 83
+ownLength: 3778
+unit: words
+ownProgress: 3778
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2917357/83-book-2-chapter-31-red-weave-pt-1"
+royalRoadId: "2917357"
+markedReadAt: "2026-06-29T18:50:29.113Z"
+---
+
+Cale held his breath as the Gift did its work. He'd been a little wary about evolving [Taunt] for obvious reasons—he couldn't imagine many evolutions of the spell that wouldn't involve driving someone into a berserker rage, and even tangential evolutions seemed likely to touch too close to emotional mind control for his liking.
+
+His reservations with mind control didn't really extend to people that were already under a compulsion, though. Even outside of the fact that he needed a true demonstration of the Red Knight's capabilities to break the hold of whatever twentieth-tier spell was messing with his memories, the one weakness of compulsion magic was often memory and emotion. The two were inextricably linked, which meant a strong burst of emotion could often restore a target's memories, and vice versa.
+
+Of course, the amount of power the Red Knight held and the fact that he was especially vulnerable in the realm overlap meant this was still a dangerous choice. If he was right about Vesuvius's spell evolution being a hint, though, then the Gift would give him something that wouldn't cause too much damage. Hopefully.
+
+He didn't even know how much mana to put into the spell, which might be a problem. Considering what he was fighting, though, he figured it was best to try more mana rather than less.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Taunt] has evolved into [Karmic Upheaval]!
+
+Cale frowned. A karmic spell? Spells weren't supposed to be able to affect karma. As far as he knew, there was no karmic aspect, though it was certainly possible it was just too rare for him to have encountered before. He glanced at the spell description to prepare himself for what was no doubt going to be another disaster.
+
+[Karmic Upheaval, Level 1] [Tenth Tier (Unique), Active] [1.0e29 Mana]
+
+Cause the karmic lines attached to an entity's existence to resonate. This will forcibly and instantaneously create a moment of karmic backlash, which may have unpredictable widespread effects.
+
+In addition, the target of the spell will relive a random memory of karmic significance. Memories associated with the caster's own karmic significance will be prioritized.
+
+This spell may be less effective if the target is unfamiliar with you.
+
+This spell may cause elements of the target memory to manifest. Depending on the manifestation, it may also cause the target entity to experience strong emotional whiplash.
+
+This spell may cost additional mana proportional to the strength of the karmic tangle between caster and target.
+
+Cale would later be embarrassed that his first reaction to the spell description was relief. He had never met the Red Knight before, after all, and so it was unlikely that the spell would have as large an impact as he'd feared.
+
+That was his first thought. His second thought was remembering that he was, in fact, attempting to break a twentieth-tier memory spell that had erased his memory of the Red Knight. And that the Red Knight instinctively imbued its spells with what felt like a fragment of a broken Law, which meant that he almost certainly had known it, at some point.
+
+Worse, he recognized the spells it used, which meant they'd fought before. [Zero Blade] and [Sundagger Comets] were not spells any mage he knew of could cast; his memories of them sat in a vacuum, precisely as though he'd only learned about them through a fight, then had the memory of that fight ripped out of him.
+
+"Well," Cale said. "There were worse spells that could have turned into. I was kind of worried I was going to throw you into some kind of berserker rage."
+
+"It seems impractical to cast spells without knowing what their effects will be," the Red Knight pointed out. It was eyeing him warily—it knew that whatever spell he cast was already taking effect, from the storm of mana gathering around them. It just couldn't counter until the spell actually took shape.
+
+"That's probably true," Cale admitted. "Too late to try a different strategy, though. You might want to prepare yourself."
+
+He was going to have to prepare himself, too. The spell description had mentioned that it would trigger a moment of karmic backlash, and that usually meant something was going to happen to him or the people he loved. There were ways to minimize the impact of it, and all the actions he'd taken so far would hopefully have some mitigating effect... but he couldn't be sure.
+
+Not that he had time to worry about it, because before he could even give it another moment's thought, the gathering spell pulled an enormous amount of additional mana out of him.
+
+The Red Commander flicked the remaining blood off his palms with a satisfied grunt. A good killing spree always helped tame the aggression that otherwise raged unchecked inside him; with how his plans kept moving about on him of late, he'd needed the stress relief. No one would miss this little out-of-nowhere town, and he could always blame it on a wild mage when it was discovered. They had plenty of prisoners to be turned into one.
+
+"Lifsauhn," the Commander said. His assistant scurried up to him, barely sparing a glance for the slaughter, which was the way he preferred his subordinates. He'd put the poor man in a bit of an awkward position, when he granted him that personal assistant status. Lifsauhn was technically still a low-rank Hunter, and any of the commanding officers in his army could order him around. His position as the Commander's assistant didn't change that, mostly because the Commander saw no reason to protect him.
+
+But the position still came with its advantages, so long as one could tolerate his appetites. Access to the Red Hunter treasury, for one thing, and command over any of the four Sentinels besides. Sure, he'd been upset when he learned Lifsauhn had sent out the Red Knight, but he'd gotten over it in short order. He only cut off a single one of Lifsauhn's limbs as punishment, and he'd even gone to great lengths to restore it after. Lifsauhn, of course, had been appropriately grateful.
+
+"Sir?" Lifsauhn said. The Commander tilted his head as though examining a particularly interesting insect, having forgotten he'd only just called the man over.
+
+"See to it that the locals get the news of a wild magic confluence," the Commander said after a moment. "Have your pick of our prisoners and construct a reasonable story. I assume you know what to do."
+
+"Yes, sir," Lifsauhn said, bowing deeply.
+
+Then the Red Commander frowned suddenly, reaching out to snag him by the cloak before he could scurry off again. The dwarf let out a startled squeak as he was lifted bodily into the air.
+
+"Now, now," the Commander said, his tone thoughtful. "I didn't say to do it now. We're not done just yet."
+
+"We're not?" Lifsauhn asked, looking around. It was clear what he was thinking—there was nothing left of the village, so they were very clearly done, weren't they? "I don't understand."
+
+"I will admit, I thought we were, too." The Commander clicked his tongue, dropping Lifsauhn onto the blood-soaked dirt. The dwarf scrambled back up to his feet. "Fascinating. Tell me, assistant—where are we?"
+
+Lifsauhn straightened, slightly put off by the sudden question but sensing an opportunity to learn. "We're in the eastern region of Aersheld, sir," he said, only barely keeping all that nervous tension out of his voice. He was making an admirable effort to sound calm and analytical in spite of it. "In a village called Idefel. The closest location of interest for the Red Hunters would be the Watchful Hive. Is that where you plan to head next, sir?"
+
+"A good guess, but no." The Red Commander cocked his head again, as if listening to a sound only he could hear, then took a few squelching steps through the mud, checking if the dirt had enough blood soaked into it. "I bring it up because Aersheld is a fascinating example of a karmic void. All that divine worship from the local kingdom Thyrahl scours the karmic lines here clean, you see."
+
+"Sir?" Lifsauhn asked, confused. "I don't understand."
+
+"I don't expect you to." The Commander gave his assistant a benevolent smile, which made the dwarf flinch back, for reasons unknown to him. "Suffice to say it occupies a rather unusual position as the bastion against the movements of the Dark Lord. Speaking of which, we have sent our envoy out to speak with him, have we not?"
+
+"Yes, sir," Lifsauhn said hurriedly. "I sent them out as soon as we discovered his interference."
+
+"Good, good," the Red Commander said. He looked into the sky for a moment, staring at lines only he could see, then spoke again. "We have suffered an odd number of setbacks of late. Would you say any observable pattern has emerged, assistant?"
+
+The dwarf's brows furrowed together as he thought. "I do not believe so, sir. We would have traced it by now if there were. Red Hunter interests across Ercryst, Illwyld, and Aersheld have all faced setbacks. The most significant one would be in Illwyld, given what happened with the team we planted at Haelforge. We're still working on finding out what happened there—we believe our Observers were somehow compromised, and while we had a few sympathetic ears at the academy, they had yet to commit to working with us. After their professors discovered our subterfuge, they are proving far more reticent in sharing what they know."
+
+"As expected," the Red Commander said with a distracted nod. "You are correct. It is difficult to identify a pattern, despite the information advantage we should have. Strange, is it not?"
+
+"It is difficult to believe, sir," Lifsauhn admitted.
+
+"A number of our agents have failed to report to us as well," the Red Commander noted. "Sneaks-In-Darkness from the Brightscale Academy, for instance. I recall her being rather eager to move forward in her position with us. It's strange she hasn't reported back, is it not?"
+
+Lifsauhn hesitated for a moment. "I don't think so, sir," he said carefully. "She doesn't make a report unless she has something that makes her look good. Given that it appears our plan with the shimmerdust failed, she must be coming up with an alternative before she makes her report."
+
+The Red Commander let out a low chuckle. "That does sound like behavior we could expect of her," he said. "And yet, her absence stands out to me."
+
+"With respect, sir, Sneaks-In-Dust is rarely reliable," Lifsauhn said. "She has done this before."
+
+"You believe nothing unusual is happening at Brightscale Academy, then?" the Red Commander asked, turning a discerning gaze onto his assistant. Lifsauhn froze.
+
+"I, uh, I didn't say that," the dwarf said nervously. "I just don't think what's happening there is any more unusual than any of the other failures or setbacks we have dealt with. Sir. Our Hunters have never been particularly stringent with our reporting requirements, especially given the network of Observers keeping an eye on their actions at all times, and many of our lesser plans don't come to fruition as we expect. That's the whole reason we have so many of them, isn't it?"
+
+The Red Commander said nothing for a long moment. He allowed Lifsauhn to look increasingly nervous for a good thirty seconds and took his time pacing slowly through the dirt.
+
+Then he laughed, and a flash of relief crossed Lifsauhn's face. "This is why you are my favorite," the Red Commander said, petting the dwarf fondly on the head. Lifsauhn trailed stupidly after him, barely looking at the carnage he'd wrought on the village. "You may be a coward and a fool, but you speak your mind, even when you fear retribution. It is an admirable trait."
+
+"Thank you, sir."
+
+"Was that a compliment?" the Red Commander asked, allowing a sliver of ice to slip into his voice. Beside him, Lifsauhn froze in place, and rightfully so—a misstep when the Commander was in one of his moods had caused more powerful mages to lose their heads. "Perhaps I wish to be surrounded by sycophants who simply agree with everything I say."
+
+"T-then you should not have made me your assistant, sir," Lifsauhn said.
+
+The Red Commander laughed again at that, his posture loosening. "Right you are," he agreed. "You are correct: that the plan at Brightscale Academy has failed is not of particular interest. Yet I find myself suddenly interested in what happens there. Why do you suppose that is?"
+
+"I don't know, sir," Lifsauhn said, and then, clearly still nervous, blurted: "Are you thinking of replacing me, sir?"
+
+The Red Commander chuckled. "No," he said, a strange sort of fondness in his voice. "You are not replaceable, dear Lifsauhn. Do not worry. I was simply making sure you hadn't changed. Now, please focus: are you certain you have no idea why I might consider Brightscale Academy to be an anomaly?"
+
+"I don't, sir," Lifsauhn said, looking relieved.
+
+"Neither do I," the Commander said, his eyes gleaming with interest. "The thought occurred to me rather out of the blue, and believe me when I say this does not usually happen for me. Very few things can cause such a shift. Would you like to know what one of those things is?"
+
+"Yes, sir."
+
+"Karma," the Red Commander said, sweeping his arms out in a grand gesture to the decimated village surrounding them. He reached down to trail a claw through the mud, admiring the taint of blood heavy within it. "That which surrounds and links us all, and nudges events in small unnoticeable ways. Only those most sensitive to its workings might be able to tell when it has had an effect. Within the karmic void of Aersheld, it becomes even more impossible. I should not be able to sense anything short of a true karmic shockwave."
+
+"But you did sense it, sir?" Lifsauhn asked with admiration in his voice. The Red Commander gave him an indulgent smile.
+
+"I did," he said. "I am quite well-attuned with how I think, and I have been on the alert besides. To have a dark lord as an enemy is to watch for even the smallest impulses, for they can pull the strings of karma greater than most. An impulse to destroy the Brightscale Academy is unusual, even for me; it would cause too many complications with our alliance and position in Orstrahl. Thus, I am forced to wonder why the dark lord might conspire to force my attention there..."
+
+The Red Commander trailed off, then turned his attention to Lifsauhn. "Would you like to learn a new spell, assistant?" he asked lightly.
+
+Lifsauhn's eyes went wide. "Yes, sir!"
+
+"Very good." The Red Commander straightened. "I will be performing a blood ritual to investigate this. Pay close attention, assistant; this is a magic not of this realm. Very few are aware it is even possible."
+
+Lifsauhn nodded eagerly, and the Red Commander set to work.
+
+Without the magic the Gift had granted him, he wouldn't have the spells he needed to conduct a ritual of this scale in time. A karmic revelation ritual like the one he was about to perform required the earth to be utterly soaked in blood. It was, as far as he knew, the only means by which a mage could access those otherwise sealed aspects of magic.
+
+The fact that he'd already slaughtered this village helped, but one village simply didn't contain blood in the quantities he needed. Fortunately, that was where the Gift's magic came in—as much as the Gift had resisted giving him this spell, it couldn't avoid performing its core function. That was the disadvantage of powerful, realm-spanning constructs like that. They simply didn't have the ability to be discretionary.
+
+Some time ago, he had been able to force the Gift to create a new, unique spell precisely for circumstances like this. [Echo of Slaughter] was a variant of a necromantic spell that allowed him to bring back everyone he'd recently killed to a stunted sort of life, restoring their bodies but not their minds or their souls. It was a quick and easy way to vent some frustration, but it also happened to be the perfect spell for fueling many kinds of blood magic.
+
+All he needed to do was kill everyone again and again until the village grounds were soaked in a sufficient quantity of blood.
+
+Lifsauhn watched the entire time with that eerie fascination he always had with everything the Red Commander did, with not a word of protest nor even a flicker of disgust. It was one of the reasons he appreciated his assistant so much—Lifsauhn didn't scream as much as any of his previous ones did.
+
+Though it was far from the only reason. Most of the other Hunters would have turned on him if he ever revealed his true self, but Lifsauhn had instead become strangely obsessed with it. The Red Commander had noticed that darkness within the dwarf early on and deemed it a useful trait to be cultivated. It made him far more valuable than any of the others that served him, no matter their strength.
+
+In the times to come, the Red Commander knew, Lifsauhn would be perfect. Perhaps even necessary. He was already indispensible, too important to be actually killed or wasted on some blood ritual. The Commander was vaguely aware that his assistant didn't actually think of himself that way—he thought he was disposable, and seemed to take a twisted sort of enjoyment in the fact—but he was wrong.
+
+His soul was malleable. The obsessiveness with which he followed the Commander had caused his karmic lines to tangle irreversibly with the Commander's. That made him important.
+
+The Commander, of course, saw no reason to actually explain any of this to Lifsauhn.
+
+Once the ritual grounds were sufficiently prepared, the Red Commander took his time drawing a large circle into the mud. Lifsauhn followed after him, careful not to step on the circle but still trotting along as if the stench around them hadn't grown intolerably coppery and metallic.
+
+"What do you know of karma, assistant?" the Red Commander asked.
+
+Lifsauhn frowned in thought, then shook his head. "Nothing, sir," he admitted. "It wasn't part of my education."
+
+"It wouldn't be," the Commander said, still drawing out his circle. "But it is a retributive force present across the Great Realms."
+
+"And something about it changed just now?"
+
+"Any sufficiently powerful being causes karma to bend toward them," the Commander explained as he worked. This particular ritual was an intricate one that required a great deal of focus, but he could spare enough to explain the relatively simple mechanics of this. "When that being is killed, that karma is released in a ripple effect all throughout their karmic lines, mostly unpredictably. You have to be careful about it, though. If you knowingly kill someone before they reach their full potential, all that karmic power that would have been theirs blows back. We call this karmic backlash."
+
+"Is that why no one has killed the dark lord, sir?" Lifsauhn asked. "I know there are mages that should be capable of it."
+
+"Correct," the Red Commander said. "No one wants karmic backlash. Not even me, and you know what I like. Of course, the dark lord's interference in our plans has changed those mathematics, but I have taken steps to reduce the potential backlash. We made contact with the churches of Aersheld, have we not?"
+
+"We have, sir, with your instructions. They will accelerate their prayers. I assume this is related to the karmic void you mentioned." Lifsauhn finally spared the slaughtered village a glance. He stared at the bodies scattered carelessly in the dirt, their blood still soaking down as a secondary spell—[Everlasting Hemmorhage]—ensured the bleeding continued. There was no disgust in his eyes, though, just a sort of distant wonder at the feats his Commander was capable of.
+
+"Indeed it is," the Commander said approvingly. "So. Karmic backlash. I'm sure you have some idea of why I want to avoid it by now."
+
+"It's bad, sir?" the dwarf asked.
+
+"Oh, yes," the Red Commander said. "If you shatter the karmic lines, then fate itself does its best to make sure your every plan fails spectacularly. I had to learn that lesson personally, so I've become attuned to the workings of fate. And now we have a true karmic shockwave, most likely triggered by the dark lord himself."
+
+"What does that mean for us, sir?"
+
+"It means opportunity, assistant." There was a gleam in the Red Commander's eyes. "It means that I can use this ritual to trace every karmic working and consequence and Utelia."
+
+He finished drawing the last part of his circle, then stabbed a curved dagger into the center of his palm, adding his own blood to the mixture in the dirt. The entire diagram began to glow with a sickly yellow-green. The Commander felt the Gift resisting for a moment. It always did, when he tried a working like this, just like it tried to avoid giving him those slaughtering spells.
+
+But it was in its nature to provide. It wouldn't be able to stop itself.
+
+...The Red Commander frowned. It was taking longer than usual.
+
+That wasn't possible. The Gift had never been able to resist one of his workings before. To fight against its nature, it would have to burn vast amounts of precious mana, and he had studied it enough to know it operated a tight ship—it didn't have spare mana to burn just to resist its own divine mandate, let alone the amount it would need to resist a spell like this.
+
+And yet, instead of casting, the yellow-green glow from his ritual was slowly fading instead. The Red Commander stared at the spell that should have confirmed his suspicions, his mind racing while Lifsauhn stared at him.
+
+Then he began to laugh.
+
+"Oh," he said, gleeful. "Oh, you've played your hand, little Gift. He's here, isn't he?"
+
+"Who is?" Lifsauhn asked curiously. The Red Commander turned a fierce grin on his assistant—one so wild that even the dwarf stepped back, his eyes wide, though the Commander neither noticed nor cared.
+
+His laughter turned into outright cackling, even as the realm itself began to react to the atrocities he'd committed. A Greater Indictment was being summoned to punish him, it seemed. He could sense the power gathering. But what did that matter, in light of who was here?
+
+"Yggdrasil's End," the Red Commander answered, his eyes gleaming in delight.

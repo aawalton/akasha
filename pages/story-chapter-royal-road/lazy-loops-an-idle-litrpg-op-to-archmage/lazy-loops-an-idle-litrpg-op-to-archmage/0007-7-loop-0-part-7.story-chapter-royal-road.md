@@ -1,0 +1,133 @@
+---
+id: 68fe80d4-dcfa-5437-9a74-9ca27b8f1c99
+page-type-slug: story-chapter-royal-road
+title: "7. Loop 0, Part 7"
+slug: 0007-7-loop-0-part-7
+partOf: lazy-loops-an-idle-litrpg-op-to-archmage
+position: 7
+ownLength: 2211
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3453219/7-loop-0-part-7"
+royalRoadId: "3453219"
+---
+
+The signal was a crack of gold light from the judge's wand. It split the air between us, and Marsh moved immediately. Good instincts. He was already summoning a force construct, a broad shield that would give him cover while he built something bigger behind it, but it wasn't big enough. It barely covered his feet.
+
+I didn't move. I had nowhere to be and nothing to prove. Marsh could do whatever he wanted. There was no way he was going to win. He circled to my left, his wand out, stance still low, doing everything the dungeon track textbooks told him to do. He had a shield construct up already, a shimmering disc of compressed force he was going to send my way. It was the kind of thing that probably earned him a gold star from Professor Frost. That's what her name was. Frost.
+
+I was still standing in the exact center of the platform with my hands in my pockets. "Are you going to do anything?" Marsh asked.
+
+"I'm thinking about it."
+
+He stopped circling me. The crowd had gone quiet—not the impressed kind of quiet, but the confused kind. They had no idea what I was doing. I heard someone shout, "Do something!"
+
+Marsh decided he had waited long enough and obliged the heckler. He planted his back foot and launched the bolt. It was blunt, fast, textbook second-year magic. He’d probably learned it this morning.
+
+I tilted about three inches to my left. The bolt sailed just past my ribs and slammed into the containment ward behind me, where it dispersed in a shower of blue sparks. I cast under my breath, my wand still in my pocket, pointed loosely at his feet through the fabric. "[Trip]."
+
+Marsh's boots locked together mid-stride. His momentum carried him forward, and he hit the marble face-first with a sound that made several people wince. His shield flickered and dissolved away, but he was already scrambling up. His face red, a little bit of blood trickling from his nose. He braced himself against the marble with one hand while the other was already aiming at me. Credit to him, he recovered faster than I expected, faster than Davos had this morning. He sent another force bolt.
+
+This time, it was lower, aimed at my legs. Almost as if it was commentary about what I had done. I just avoided it with a single step. Like I said, this stuff was basic. But he wasn't done. He had already gotten his laces untangled. He was on his feet and moving before I had even finished my sidestep, but this time, he didn't stop to aim. Instead, he fired them in rapid succession, one after the other, cutting off all my angles.
+
+I actually had to dodge. I stepped back and threw myself to the right. Two movements more than I'd budgeted for the fight. The issue with Marsh wasn't power; his bolts barely hit hard. I didn't even have to worry about him, really. The issue was volume. He figured if he kept firing, kept pressing, eventually I'd give up or, worse, put in effort. And he was right, which was deeply irritating. He sent bolt after bolt my way, and I shifted my weight back and forth. He was herding me backwards toward the edge of the platform, hoping for a ring out. I could feel the containment ward buzzing at my back, close enough that my robes almost went out of bounds. Fuck. I was gonna have to do something.
+
+I cast [Trip] again, not because I thought it would do anything, but to give myself time to think. His boots locked in place again, and I laughed. I hadn't expected the second one to hit. Most people would have applied a counter-jinx or put up a shield. He stumbled, but he had been expecting it this time. He dropped his weight and turned the stumble into a crouch, ripping his laces apart with one hand and firing more bolts at me with the other. This time, one caught the edge of my robe and sent a jolt up my leg, but I didn't gasp.
+
+"Seriously?" Marsh said. He was breathing hard, but grinning. "Tripping charms? What are you, twelve?"
+
+He had a point. I sighed. It was deep and long and theatrical enough that the front three rows definitely heard it. Fine, it was time to put in effort. I pulled my wand out of my pocket; the crowd gasped. I resented the fact that drawing a wand was noteworthy, but I guess that was what happened when you spent an entire fight with your hands in your pockets like you didn't care. I pointed it at the ground between us. "[Light]." And before the orb had even finished forming: "[Enlarge]."
+
+The ball of light, orange this time, hit the marble. It detonated outward into a disc of blinding radiance almost three meters wide. It wasn't a weapon; it didn't need to be. Marsh flinched, his eyes squeezing shut against the sudden burst of light. The spell he'd been winding up went wide, slamming into the containment ward. While Marsh was still blinking away the lights, I pressed my advantage.
+
+I cast [Trip] a third time. "[Trip]." His boots locked and he went down on one knee, his eyes still watering from my other spell. I stepped forward, about to cast [Silence] and finish this, when he surprised me. Marsh hadn't been reaching down for his laces. He'd been gathering mana, which I hadn't bothered to pay attention to.
+
+He'd built it low to the ground where I couldn't quite see the buildup behind his body. When he swung his wand arm up, the force wave was already fully formed. Instead of a bolt, he sent a flat wall of compressed air across the platform.
+
+It threw me back on my ass, skittering me almost to the edge of the ring. The crowd erupted in cheers and laughter.
+
+Marsh ripped his laces apart, but instead of pressing his advantage, he stood and pumped his fist in the air. Actually pumped his fist. I sat on the marble for a moment. My tailbone hurt. And the worst part? It was my own damn fault. I had wanted to be efficient and walked into a trap that anyone could have seen coming. This was what happened when lazy people tried to rush things. The universe punishes initiative. I knew that.
+
+I could yield. I thought about it. Yielding was the easy thing to do. But then there'd be Sara's face afterward, and Finn's disappointment, and my uncle's particular brand of silence at dinner. It'd be worse than any lecture he could give me. All of that was awful emotional labor, which was the worst kind of labor.
+
+No, I couldn't yield. Ending this now saved me from long-term effort and annoyance later. Short bursts of effort now always beat more work later. That was the fundamental equation of my life.
+
+I stood up. The crowd went quiet again. It was time for a firework show.
+
+"[Bang]."
+
+[Bang — Manifestation]
+
+Cost: 7 mana (variable).
+
+A harmless burst of light and sound at a designated point. Three-meter radius. Disorienting but non-damaging.
+
+The burst went off a foot from Marsh's left ear. A flash and a crack like a firework bright in the sky. Harmless, mostly, but he didn't know that. He staggered sideways, hands going to his ears on instinct, his wand dropping to the ground. He tried to recover by picking up his wand and going for a cast, but he sent it off way to my right.
+
+I sent another his way. "[Bang]." This one went off to his right. His head snapped in the opposite direction, and another bolt discharged into the floor at his feet. He was turning in circles now, trying to track a threat that couldn’t be tracked. Because [Bang] didn't come from anywhere. It just happened. "[Bang]." Another one behind him. He spun. His footing was gone. He was disoriented, off balance, and burning mana on half-formed constructs that kept dissolving every time I sent a new burst his way. "[Bang]. [Bang]." 35 mana in five casts. Expensive for what amounted to magical firecrackers, but Marsh was reeling, and this was all I needed.
+
+I got in close, put my wand to his throat, and cast [Silence]. Bain had been kind enough to demonstrate it on me this morning. Seeing a spell cast once was usually all I needed.
+
+[Silence — Enchantment]
+
+Cost: 5 mana.
+
+Suppresses all sound generated by targeted object. Duration: 5 minutes.
+
+The spell connected, and Marsh opened his mouth to vocalize his next cast, but nothing came out. His eyes went wide. He tried again. Silence. His hands went to his throat as if checking for an injury. He couldn't cast without vocalization.
+
+Most mages couldn't, unless you practiced it every day, like I had for the past year and a half. No big deal. I may have been lazy, but who wants to fucking talk when you can just cast magic with a thought? It's a no-brainer. It's not really effort anyway. Think of all the time I would save by not speaking. It's whatever.
+
+Marsh looked at me, and then looked at the judge. "I yield," he tried to say, but no sound came out. He sighed, or tried to, but he couldn't do that either. He raised his hands instead, the universal signal of surrender. The judge's wand flashed red. "Match! Yarrow wins by yield."
+
+I put my wand back into my pocket and walked off the platform. My ass still hurt.
+
+I stepped off the platform before the containment wards had even been dispelled. Total time of the fight couldn't have been more than three minutes. Almost felt like the climb back to my seat would take longer than the match had.
+
+Finn was staring at me as I sat down. "You used at least five different spells!"
+
+"What are you talking about, Finn? I used at least six, which was more than I thought I would." I closed my eyes and let [Scarecrow] reactivate. "I spent maybe 50 or 60 mana, man. Basically a rounding error."
+
+"You barely even moved!"
+
+"I moved once or twice. Had to dodge a couple of spells. Wish I'd been able to get out of the way of the force wave, but taking a hit seemed easier than casting a ward."
+
+He shook his head. "That's insane. You know that, right? You beat a third-year in under three minutes."
+
+"A third-year who picked section four, Finn. Think about what that means. The tryhards are in sections six through ten with you. This guy was in the kiddie pool with me, which means he either didn't care, like me, didn't prepare, like me, or both."
+
+“He’s still older than us. Don’t sell yourself short.”
+
+"He opened with a force bolt. He didn't even add an element. That's not a third-year skill. That's not a third-year problem. That's a not-trying problem."
+
+"You're literally describing yourself, Laz."
+
+"No, I'm describing someone who doesn't try, like me, but who also isn't good at magic. Not me. There's a difference. I don't try because trying is a waste of effort and energy. He didn't try because he didn't know what trying would even look like."I paused and then gestured at the arena.
+
+"The dumbass tied his shoes in a single knot, Finn. Single knots! That's not confidence. That's negligence. Anyone should have cast a Trip spell. It was a formality, practically. Gravity was going to handle him eventually."
+
+"You still beat him using party tricks."
+
+"Enchantment is not party tricks, Finn."
+
+"Trip is literally a prank spell. A party trick."
+
+"Trip is an elegant solution to the problem of people standing up when I'd prefer they didn't. Don't malign my craft."
+
+He laughed, as much in frustration as humor.
+
+I finally decided to let [Scarecrow] handle the business of looking awake now that my conversation with Finn was done. It was about time I got back to the important work of being unconscious. The crowd noise settled into a comfortable blanket of white noise. The matches continued. People fought, won, lost. I didn't care. I slept through it all.
+
+Finn woke me when it was finally over. The sun had shifted, the shadows longer now, and we had begun to settle into the chill of late afternoon. The bracket board had updated, with names glowing in new positions. There were four people left in my section, and my name sat in the upper half, waiting for tomorrow.
+
+"Round two is tomorrow afternoon," Finn said as we filed out with the crowd. "You'll actually have to fight someone who's prepared for you. [Trip] isn't going to work again."
+
+"[Trip] always works. People always have laces."
+
+"Well, what if they wear slip-ons?"
+
+"Then I'll enchant the slip-ons, Finn. The beauty of enchantment is that everything everyone wears, carries, or stands on is a potential weapon against them. The whole world is my arsenal, and I don't even have to carry it with me."
+
+"That's either the laziest or the most terrifying thing you've ever said."
+
+"Both. It's both."

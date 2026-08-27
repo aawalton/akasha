@@ -1,0 +1,83 @@
+---
+id: 06e04b0e-2425-5481-a30d-6ccbf6a6b752
+page-type-slug: story-chapter-royal-road
+title: "Chapter 115: Out of the Freezer and into the Fire"
+slug: 0156-chapter-115-out-of-the-freezer-and-into-the-fire
+partOf: labyrinth-of-the-mad-god
+position: 156
+ownLength: 1807
+unit: words
+publishedAt: 2025-04-11
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2193685/chapter-115-out-of-the-freezer-and-into-the-fire"
+royalRoadId: "2193685"
+---
+
+By now, Nick was adapting to these abrupt changes to his environment.
+
+When the room started shining before revealing a new location, he didn’t waste a second. He started scanning his surroundings, ready to unravel the nature of the challenge and come up with a plan the moment that he knew what he was dealing with.
+
+The first thing that he noticed was that instead of being placed on open terrain this time around, he was surrounded by curved sheets of glossy black stone. There was perhaps a hundred and fifty feet of space between them, and the ground was covered in shadows. He spotted a circle of sunny blue sky high above his head—like he was peering at the heavens through the end of a long tunnel.
+
+Nick realized that he was standing at the bottom of a deep crater, ringed by sheer walls that looked perfectly smooth with no protrusions or cracks. They were several hundred feet tall and climbing them was out of the question. Devin and Nick wouldn’t be doing any exploring this time around and were stuck down here for the duration of the challenge.
+
+He lowered his gaze to inspect the crater floor, which was formed from the same material as the walls. It’s obsidian or some other manner of volcanic rock. Unlike the walls, the ground was covered in countless holes, ranging from the size of his fingers to wider than his body. Other than that, the only features of the crater were the hundreds of boulders lining the base. They came in a vast array of shapes and sizes—all formed from the same black mineral.
+
+He could feel heat rising from the porous surface below his boots, growing more intense by the second. At that point, Devin turned to Nick and said, “Is it just me, or do we seem to be standing in the crater of an active volcano?”
+
+Nick nodded, then sighed. “Yea, that’s my take too. Given the name of the stage, how much to do you want to bet that it’s about to get a whole lot hotter?”
+
+“Not a dime, but I’m thanking my lucky stars for my Fire Resistance passive ability. Are you going to be ok?”
+
+“It’s not a problem right now, thanks to my Toughness and cloak. But who knows how bad it will get before we’re through?” Nick sheathed his sword and put anything that might inhibit his movement into his pack while watching the ground by his feet.
+
+Over the course of their brief conversation, the heat had risen from unpleasantly warm to sweltering and showed no sign of abating. “Uh, Nick. That part of the floor is glowing. That can’t be good.” When his gaze followed Devin’s finger, he saw that the man was right. The big holes were radiating an ominous cherry light that was growing brighter by the second.
+
+Something’s coming, I think the floor is about to… “Get on top the big boulders! Move fast. We don’t have a second to spare.” Devin followed Nick’s advice without hesitation. They both leapt onto one of the largest slabs of obsidian—an oblong chunk the size of a minivan.
+
+No sooner had their boots touched the stone than gouts of lava began shooting up through the countless holes in the rocky crater. Some of the jets climbed a good twenty feet before falling to the ground in a molten rain. The duo only had a few seconds of warning before each emergence, sending them scrambling to avoid the searing spews.
+
+Nick and Devin dodged the deadly droplets headed their way, catching stray splatters on their shields that sizzled before hardening. Within a matter of minutes, the bottom of the crater was covered in a layer of burbling lava.
+
+It kept on rising over the next half hour, further heating the air. The world around Nick was warped by waves of heat rising from below, bending and swaying like a funhouse mirror. It wasn’t quite as hot as he was expecting under the circumstances, but there was no question that falling in the glowing lake would be the last mistake he ever made.
+
+The good news was that the layer of lava kept the sprays from shooting up nearly as high. Better still, the boulders didn’t seem to conduct much heat. They didn’t have to worry about their feet frying unless they stepped onto splatters that had fallen on top.
+
+The bad news was literally everything else about their situation. While the duo dodged the falling spews, Nick analyzed their dilemma. Right now, fear was his greatest foe. With his present attributes, unless he panicked and stepped into the glowing lake, he should be able to navigate the environment.
+
+But it was only going to grow more challenging as the lava kept rising, and he had a hunch that it wasn’t the only threat this challenge would pose. This is much worse than the first stage. If they keep escalating like this, we’re going to be in trouble before we reach the end of the evaluation.
+
+The lava would reach the top of the boulders sometime within the next ten minutes. Nick wasn’t sure what would happen when it did, although he expected the stones would float. It wouldn’t be much of a challenge if the trial just trapped them in a big stone bowl and then filled it up with molten minerals. Although a part of him was worried that was exactly what would happen.
+
+Before they had a chance to find out, the men had another problem to deal with first. It turned out that not all the tubes were magma-channels—some were emitting a putrid green smoke instead.
+
+The foul stuff revealed itself to be a caustic gas that seared Nick’s lungs when he accidentally breathed in a wisp. There wasn’t a lot of it in the air yet—just small patches floating past his head every now and then—but he had to be careful not to breathe at the wrong time or he would cripple himself before the lava got its chance.
+
+The blend of superheated air and deadly gas would have been completely overwhelming if it wasn’t for the breeze that began blowing in from above, tossing bands of cool, clean air into the mix. Devin had his helmet with its built-in oxygen reserve, but Nick had to deal with the problem directly. Timing when he could breathe was yet another variable that he had to pay attention to in the middle of the stressful situation. If he let it distract him and made one wrong move, he was about to take the last bath of his life.
+
+He needed to avoid the gas, evade the flying lava, and be careful not to lose his balance… and the challenge was just getting started. He thought the situation was marginally manageable as it was, but what would happen when the molten minerals reached their level?
+
+The searing surface came closer and closer—heat rising by the heartbeat. Just before the lava touched the top of the boulder and broke over their boots, the stone began to shake, nearly knocking the men off before they recovered their balance. Then, to Nick’s immense relief, the boulder began to rise, riding the roiling lake like ice floating on the top of a drink.
+
+On a less-promising note, the rock nearly flipped over in that moment. After a desperate scramble, the duo realized that they needed to balance the boulder on top of everything else, and they moved to opposite sides of the slab to distribute their weight evenly.
+
+It added another hazard to the environmental challenge. Now he had to keep his balance, dodge the molten spurts, and avoid breathing the bands of caustic air, all at the same time. Not to mention, weather the endurance trial of moving so much in such a hot environment. If Nick didn’t have his Temperature-Regulating cloak or every last point of Toughness, he would have cooked—organs shutting down from overheating.
+
+Devin was having an easier time of it, at least for now. He didn’t have to worry about the gas and the heat wasn’t getting to him yet, thanks to his flame-based class. He still had to dodge the lava and keep his balance. Nick was sure that a fall would kill him. The Flame Resistance passive could only help so much.
+
+Half an hour later, sweat was running down his body, but he was holding his own. Clusters of burns covered his skin where stray drops had hit him. While they hurt like hell, they weren’t serious wounds. But one good splatter or breath of gas would change that—cripple or even kill him outright.
+
+Fortunately, Nick wasn’t the same person he had been just a few short months ago. Dealing with the stressful situation while maintaining his body awareness and tracking multiple factors in his environment was only challenging instead of straight-up impossible.
+
+Just when he thought they might emerge from this trial relatively unscathed, he saw that the obsidian slabs were gradually rising and falling over time, like a platform puzzle in a game.
+
+When he gazed across the roiling hellscape, he realized that there was a pattern to their motion and the boulder below him wouldn’t remain stable for long.
+
+He turned to Devin and said, “We have to jump. Let’s head to separate boulders for now, so we don’t have to keep in sync. Be careful not to land on one that’s about to sink. Pick a target and leap in three, two, one.”
+
+Both men sprang in unison, heading for different rocks just as the slab they were standing on sank into the lava with a hearty plop. Nick didn’t have time to see how Devin was doing. Because the moment that his boots touched the next stone, it began to rotate. Apparently, this one was round rather than a flat slab. He hastily recovered his balance, rolling the rock back the other way, then held his breath as a cloud of gas broke over him.
+
+I need to be extra careful while I’m standing on this one. If I shift it onto the side that’s been sitting below the lava, it’s going to burn through my boots and start cooking my feet. Thank god this mineral doesn’t conduct heat well, or I’d be done for already.
+
+He fought to keep it together as the rubber soles of his shoes slowly melted, leaving stamps of goo behind with every step he took. He was forced to leap to another boulder every few minutes, making this stage of the trial more like a game than anything else he’d encountered in Darkstone Tower.
+
+Nick realized that he was playing the world’s most intense version of “the floor is lava.” Anything less than a perfect score would fry him to a crisp.

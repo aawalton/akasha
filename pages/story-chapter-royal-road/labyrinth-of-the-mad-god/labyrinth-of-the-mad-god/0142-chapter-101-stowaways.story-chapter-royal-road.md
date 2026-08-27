@@ -1,0 +1,85 @@
+---
+id: 697167d6-e5cf-54d1-91dd-656436e93f48
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101: Stowaways"
+slug: 0142-chapter-101-stowaways
+partOf: labyrinth-of-the-mad-god
+position: 142
+ownLength: 2008
+unit: words
+publishedAt: 2025-03-10
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2118011/chapter-101-stowaways"
+royalRoadId: "2118011"
+---
+
+While Nick was eavesdropping on the crew, he learned that this voyage would take a little over a day. With any luck, their trip would prove to be just as uneventful as it was uncomfortable, since the pirates had no reason to disturb the crates while the warship was in the air.
+
+Although the party was divided and surrounded by enemies, he felt relatively safe. At least compared to the danger they would face while trying to escape the ship without being noticed.
+
+However, in this instance, Nick could not have been more wrong.
+
+Roughly twelve hours of sitting in the dark on a jagged pile of rocks later, he heard voices once more, growing louder as they passed through the hold. When he caught the next snippet of their conversation, his blood ran cold.
+
+Instead of an uneventful voyage through the sky, a fresh disaster had descended upon their heads—the very event that Team Earth had been desperately trying to avoid. Nick elbowed Devin to make sure the man was awake as he put his ear up to a crack in the woodwork, hoping to learn more before springing into action.
+
+“I can’t believe that our prey wound up capturing themselves,” one pirate said.
+
+“I was worried they had made it to the stairs when our quest didn’t end after their ship crashed,” another replied. “But it looks like we will receive our reward after all. I’ve never seen Alma in such a good mood. I haven’t heard her threaten anyone all day.”
+
+“It was a lucky break. If we hadn’t opened that crate while searching for contraband, we would never have noticed the three of them inside. Pity the boss won’t let us play with the women, but Alma wants to finish her interrogation first. We can’t complete the quest until we catch the other two, so she’s going to persuade them to reveal the location of their allies before she puts them down.”
+
+“Persuade? I thought that she was planning to torture them until they broke?”
+
+“She is. That’s just what she calls it. Although I must admit, her torture is pretty damn persuasive.” The pirates got a good laugh out of that as their footsteps retreated into the distance. As soon as they were gone, Devin leaned in and whispered into Nick’s ear.
+
+“Fuck. This is bad. The others got caught by the pirates’ boss, and we’re trapped on board until it lands. Every instinct I have says to rush in there and start chopping, but I know it’s not the right move. What are we going to do, Nick? We have to help them.”
+
+“I don’t know. But there’s no way that I’m letting my friends get hurt, even if we have to slaughter every person on this ship in order to save them. We need to get out of here, then determine where the others are being held without letting the pirates know we’re coming. Hopefully, we can figure out a way to escape the warship on the way. There are two small ships attached to the sides. Maybe we can free the others, steal one, and take to the sky before the bastards know what hit them.”
+
+Nick was outwardly calm, but inside, his emotions were running wild. He was terrified for Sophia, Veronica, and Shaun. Furious that the pirates intended to torture his friends before doing something even worse. Anxious that he would have to overcome an immensely powerful enemy in a worst-case scenario, where half the party was disabled, and their opponents knew they were coming.
+
+He called upon Arctic Clarity to still his racing thoughts. To ice over the adrenaline surging in his veins and return his disordered mind into at state of frigid focus. It helped him calm down, letting him kick his tactical brain into high gear.
+
+The buccaneers must have confined the others somewhere below deck. They’re likely locked in a cell or something equivalent. The pirates know that there are more of us, but not where we are. They don’t even know that we’re on the ship as far as I can tell. We need to rescue the others as quickly as possible, but if we fuck up and reveal our presence, all we’ll wind up doing is get caught ourselves. If that happens, we’re all going to die.
+
+“We should find somewhere else to hide. Somewhere closer to the crew, so we can observe their behavior and listen in on their conversations. Once we figure out where the others are being held, we can come up with a plan to free them. Exploring the ship room by room is a last resort, but we’ll do it if we run out of time or other options.”
+
+Devin nodded along with Nick’s words, then offered a suggestion of his own. “Once we’re ready to make our move, we should create a distraction. Catch the ship on fire, or maybe fuck with the controls. Something that will keep the pirates busy while we free our friends and make our escape.”
+
+“That sounds good. Let’s get out of this box, find a place where we can watch the entrance to the cargo hold, and then go from there.” Armed with a plan, the men took out their tools and loosened the lid of the crate. They poked their heads outside, and after making sure that the coast was clear, ducked behind a row of barrels where they could see the stairs.
+
+The hold was huge—filled with hundreds of crates, barrels, and wrapped bundles arranged in orderly rows. It was a bad sign. Whatever else the sky pirates were, they were well-organized, which would make the duo’s rescue attempt even more difficult. Nick doubted that they would be able to find their friends without bumping into some enemies along the way. The men needed to take the buccaneers out quick and quiet, then hide the bodies where no one would find them for a few hours.
+
+Once they eliminated their first opponent, they would have to move fast. The clock was already ticking, but each attack would increase the odds of the buccaneers noticing that something was wrong. The more crew members who went missing, the more likely it would be that someone wondered where they were. Under the circumstances, the sky pirates were certain to realize that intruders were responsible, then organize a search to hunt the duo down.
+
+We’re lucky that they didn’t do a full sweep of the cargo hold already. They must have reason to believe that we’re not on board. Likely some clever deception from Sophia or V.
+
+When Nick looked at Devin, he realized that the man was furious. Angrier than he had ever seen Devin before. “I know how you feel,” he whispered. “But if we mess this up, we will blow our only chance to save them.”
+
+Devin took a deep breath, then stopped shaking and regained control of his emotions. “You’re right. But once they’re safe, I’m going to tear these pirate bastards apart. Even if I have to burn the ship to cinders in order to do it.”
+
+Nick didn’t argue. Not when he felt exactly the same way. His own molten rage was flowing just beyond the bubble of chilly calm that was letting the planning part of his brain function. He had no desire to kill other people, but in this case, he was willing to make an exception.
+
+He knew that life in the Labyrinth twisted many of its inhabitants. That some of the people from Earth were undergoing a similar change. But the casual cruelty and utter disregard for the lives of others that the pirates displayed made his blood boil. The fact that they intended to torture his friends and might have already begun, made him want to lash out, leaving only devastation and ruin in his wake.
+
+While the men grappled with their fury, they surveyed the cargo hold, trying to get a better sense of the layout of the ship before moving to the next area. Nick had known that the airship was big, but standing in the bowels of the vessel drove home the sheer scale of it. There must be hundreds of pirates on board. Sneaking past them is going to be tricky.
+
+There were two exits to the hold, not counting the loading dock that was sealed during flight. One of them was a broad staircase that granted access to the middeck, and the other was a narrow stairway that led to the bilge. Or whatever the equivalent is on a flying vessel.
+
+Since down seemed like an unlikely place to hold prisoners, the men would have to go up. No sooner had that thought crossed his mind than the sound of footsteps reverberated down the main stairwell. Nick and Devin crouched behind some barrels, ducking out of sight just as a pair of pirates set foot into the hold.
+
+One of them was short and fat, with reddish skin and bright green eyes. The other was another member of the golden-furred species they had fought in the burning base. Nick hoped that whatever they were doing, they would go away soon. But he soon realized that the pirates were hiding down here to avoid their duties and would likely linger for quite some time.
+
+It meant that if the men wanted to search the rest of the airship, they needed to take the buccaneers out. Nick looked at Devin, only to see the same insight mirrored in the blond man’s eyes. He flashed a hand signal, asking the warrior which enemy he wanted to take. Devin pointed at the red pirate and Nick nodded in reply.
+
+By now, the buccaneers were sitting at a small table that was out of sight of the stairwell, playing a card game that involved betting on the other person’s hand. They spoke softly, occasionally swearing as piles of coins slid across the tabletop. The duo began their approach, moving from crate to crate as they closed the distance to their targets.
+
+A few minutes later, they were as close as they could get without giving their position away. They looked at each other and Devin raised a fist, telling Nick to wait for his signal. Nick nodded, observing his enemy while waiting for the moment to strike. They watched until the pirates were engrossed in a particularly tense round of betting, completely focused on the cards in their hands. Then the duo made their move.
+
+The red pirate had just laid down his hand, scooping up the coins to the golden pirate’s dismay. The next time they looked up, Team Earth was standing beside them. Nick grabbed the furred-warrior’s mane in one hand and drew a dagger across his throat with the other, prepared to follow up if the man was equipped with a defensive consumable. But his steel met no resistance as it parted the pirate’s throat, leaving him unable to scream as his blood pumped onto the floorboards below.
+
+Devin took a different approach. He swung his two-handed axe as hard as he could, smashing the flat of the blade against the pirate’s head hard enough to crack his skull. Then Devin raised the shaft of his weapon and thrust the butt into the man’s temple. While the pirate was stunned, Devin set down his axe, grabbed him by the head, and then twisted as hard as he could, snapping the man’s neck with a crack that reverberated across the hold.
+
+Shit. That was a better way to kill him. There isn’t nearly as much blood. Without a word, the men shoved the pirates’ bodies into a large crate. Then they moved the table and dragged a barrel over the bloodstains to hide the evidence.
+
+“Hopefully, no one will notice right away,” Nick whispered. “But either way, we need to move fast.” With that, the men crept up the stairs. They were determined to save their friends, no matter how many pirates they had to slaughter along the way.

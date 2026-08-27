@@ -1,0 +1,119 @@
+---
+id: 275be387-149f-561f-8f9b-f0a4433ff624
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: Blade Versus Wurm"
+slug: 0225-chapter-42-blade-versus-wurm
+partOf: labyrinth-of-the-mad-god
+position: 225
+ownLength: 2545
+unit: words
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2613424/chapter-42-blade-versus-wurm"
+royalRoadId: "2613424"
+---
+
+Nick paused for the span of a breath, taking in his titanic foe while deciding how to engage it.
+
+He still couldn’t believe that he was about to battle the colossal creature with the sword in his hand, but by this point in his adventures, he’d grown used to attempting feats that would have been insane by the standards of his old life. This one is insane by the standards of my new life too, he mused. But that’s not going to stop me from giving it my best shot.
+
+He noticed that Ella had turned the wurm to one side, angling its body along the canyon wall. That positioning is perfect. It gives us plenty of room to work with and most of the party will be hard to reach with its tongue.
+
+Nick was deeply impressed that Ella was considering the battlefield as a whole while trading blows with a creature that could annihilate her in a single strike. Although, since Kenji was providing info via Tactical Command, she shouldn’t have to divide her attention too much.
+
+Regardless of the details, the behemoth construct was in an ideal orientation for Team Earth’s heavy hitters to try out a range of attacks and see if anything they could dish out could penetrate the wurm’s hide. Once we solve that problem, we can look for a vital organ to destroy.
+
+While these thoughts passed through Nick’s head, everyone on the kill team fanned out while advancing on the wurm. The beast was big enough that they didn’t have to worry about getting in each other’s way. They needed to keep an eye out for stray slicers and stingers, but with Kenji watching their backs, there wasn’t much risk of being hit without warning.
+
+Devin chose the second-closest position to the wurm’s mouth and Nick picked the next space down. He could watch Ella’s battle out of the corner of his eye, letting him get a better sense of what the wurm could do if he needed to step in and try his luck. He would have to watch out for stray attacks from its tongue, but everyone further down should be in the clear.
+
+By this point, it was easy for him to partition his awareness without losing focus. Part of his mind was tracking the epic struggle between gear-staff and tongue. The rest of his attention was concentrated on the immense sheet of leathery skin in front of him. A pristine canvas waiting for his first stroke.
+
+Nick watched Paul fire a few arrows at the tongue while observing the beast with mage sight. Unfortunately, the missiles bounced off the armored surface, leaving only light scratches behind. “Shit. I can’t use my disabling magic after all. I’m going to focus on weakening the slicers to help the other teams, but I’ll snipe anything that moves toward our position.”
+
+By now, everyone was testing out their various spells and combat arts, probing the construct for weaknesses to exploit before resorting to brute force.
+
+On that note, he fired off a Mana Dart and a Piercing Ray at the wurm’s tongue. The dart sank in, causing the appendage to freeze for a fraction of a second before resuming its assault with no appreciable impairment. The ray was less effective, digging in a few inches before being dispelled by the beast’s arcane barrier.
+
+Nick hadn’t expected his magic to do much against such a massive opponent, but at least he could fire off darts to interrupt its attacks in a pinch. That meant it was up to Blightbane and Sonic Slice to bring the pain. First things first. I’ll never do any internal damage with that armor in the way.
+
+By now, he’d watched enough of his allies’ strikes to determine the boss’s skin was reinforced by powerful earth magic on top of its natural Toughness, rendering it impenetrable to most attacks. If his party wanted to break through, carve into the soft tissue below, and reach something vital, only their strongest powers had any chance of success.
+
+Fortunately, the magical component to the wurm’s defense was susceptible to being disrupted, and Nick had a weapon that could conduct pure mana. He sheathed the blade while infusing it with magic from his core—more than he’d ever managed before. Thanks to Ella’s assault, the beast wasn’t paying attention to him right now, which gave him a chance to go all out.
+
+He activated Force Acceleration, and with a little help from his magic boots, leapt halfway up one of the canyon’s walls, making a temporary ledge for himself by placing an Arcane Shield over a protruding piece of stone.
+
+He waited until Ella launched another attack, then jumped, letting gravity and the weight of his gear add a bit more power to his swing. Along the way, he gathered every scrap of Strength in his body, called upon Arctic Clarity to hone his focus to a razor’s edge, then got ready to unleash a Sonic Slice midflight.
+
+The wurm must have sensed the dense flows of mana encasing his body and infusing his sword, but the massive creature didn’t even try to defend itself. It clearly didn’t consider Nick to be a threat. For that matter, the boss seemed to be treating the entire battle as a pre-feast workout conducted on top of some mildly-inconvenient terrain.
+
+It realized the error of its way when Blightbane erupted from its scabbard accompanied by a sonic boom that reverberated across the ice-covered canyon like a thunderpeal, shining like the full moon on a cloudless night.
+
+Bolstered by Force Acceleration, Heavy Blow, and his Half-Length Scabbard, the silver-shrouded sword parted the wurm’s leathery skin to carve a six-foot gash across its hide. Even with pure mana counteracting its defensive magic, the wurm was so tough his strike met some serious resistance, which had the welcome side effect of preventing Nick from spinning out of control when his boots hit the ground half a heartbeat later.
+
+He must have severed some minor arteries embedded near the surface of the beast’s skin, because amber blood sprayed out to rain onto the ice, steaming as the sticky fluid met the cold surface.
+
+Piercing the beast’s hide was immensely satisfying, even if it was only a minor cut to something so massive. Now that it knows I can hurt it, this is going to get a lot trickier. He needed to make at least one more incision if he wanted to peel back a flap of skin and start digging deeper, but he didn’t have time to worry about it now.
+
+While Nick had accomplished his goal, it wasn’t all good news. His attack had forced the towering titan to acknowledge his existence and the wurm was pissed.
+
+The Capital Boss screamed and brought its tongue whipping around. Ella tried to stop it, but the flexible appendage soared over her head, gathering incredible momentum as it sought to grind him to paste and slice him to ribbons at the same time.
+
+Even with Force Acceleration and a warning from Kenji, he barely got out of the way in time, scrambling to safety as the shockwave rippled throughout his body. Shards of ice clanged against his helmet as he darted back to open some room, while the rest of his party circled around to resume their attacks. At the same time, the wurm roared, calling a fraction of its forces back to defend its position.
+
+On a less promising note, the beast had turned away from the wall, dividing its attacks between Ella and Nick so neither warrior could land a heavy hit.
+
+Although dealing with the enraged boss kept him from landing another slice, it gave the rest of his team time to unleash their strongest attacks. He dodged one lethal blow after the next—barely able to stay out of harm’s way thanks to his defensive skills and mobility-enhancing ability.
+
+While he ducked and leapt and darted like mad, a stray corner of his consciousness took in his party’s attempts to score a critical wound.
+
+Up to this point, V had been focused on landing as many blows as possible. She was making the most of her trait, which let her powers inflict more damage every time she struck the same target. She must have reached the limit of what it could do, because the leather-clad warrior switched gears and started using her abilities.
+
+With a flick of her wrists, a pair of serrated bone claws emerged from the back of both hands, dripping with anticoagulant poison.
+
+Veronica wasn’t as fast as Nick when he was using Force Acceleration, but she was far more agile, and her spatial awareness had bordered on the superhuman even before the System arrived. Her natural athleticism was enhanced by a ton of Dexterity, dedicated daily training, and the feedback provided by several synergistic skills.
+
+He thought that he would eventually be able to dodge like her by combining Evasion and Acrobatics, but he couldn’t hope to emulate the liquid grace V displayed while chaining attacks with her crossbows and claws.
+
+She slipped past the incoming bashers and slicers like smoke, focusing her efforts on stacking damage over time attacks across the wurm’s body.
+
+Over the next thirty seconds, she slashed and shot the boss over fifty times, injecting it with a potent blend of Anticoagulant Poison and Acid Bolts. Thanks to her earlier efforts, her trait was multiplying the damage of both agents many times over, letting her powers punch through the beast’s arcane barrier and take full effect.
+
+As a result, every cut her claws inflicted was bleeding heavily and the dozens of solvent-saturated bolts she’d planted into the boss’s body were sizzling and smoking as its flesh ran like wax. Every so often, she turned and fired a Napalm Grenade, which she had learned to cast as a spell in addition to the wrist-mounted device she had used in the tower. Her aim is amazing. She’s landing those grenades on top of the beast so they won’t melt the ice.
+
+Even the acid, blood loss, and burning combined weren’t enough to threaten the life of such a massive tier-2 creature. But they hurt like hell and the damage would keep ramping up the longer the battle dragged on.
+
+While the lion’s share of his attention was devoted to performing one desperate dodge after the next, part of him was awestricken by the amazing display. Veronica had always been powerful, but after evolving and picking up a Rare class, she had become one of the strongest elites on Earth, especially in large-scale battles.
+
+Nick hadn’t internalized the minutia of how her new abilities worked, although he was familiar with her old ones and the permanent trait she’d retained from her prior class. The short of it was that if her opponent was bleeding, burning, and being dissolved by acid, every friendly entity within range would receive a constant infusion of mana, stamina, and life.
+
+By this point, V’s powers were restoring all three vital energies to a fair portion of Team Earth, healing their wounds while topping off their energetic reserves. It let them fight longer and harder than would otherwise be possible, saving some lives along the way.
+
+Of course, Veronica wasn’t the only person using wide-area supportive magic. Liz and Kenji had their own auras, and so did dozens of other elites.
+
+Nick had gotten his first taste of what aura stacking could do while fighting with the Guardian, but this was his first time witnessing its effect on an entire army at once. Combined with the various enchantments and imbuements the mages had contributed, and Team Earth was many times mightier than the raw sum of its powers.
+
+Devin was taking advantage of the extra stamina and mana to unleash an endless onslaught with his two-handed axe. Every swing bit into the wurm’s hide before Blast Striking kicked in, triggering explosions that caused even more damage.
+
+His strikes left a coating of fiery mana behind, hissing as it seared the beast’s skin. He had learned how to charge Flashfire Pulse while attacking in addition to blocking blows, and every few seconds, he emitted a cracking cone of flame that washed over the wurm in a incandescent tide.
+
+Bret was fighting beside him, chopping away with his shadow-bolstered greatsword. His attacks left mana behind too—patches of darkness that formed tiny blades that kept on stabbing until their magic ran dry.
+
+Until now, Sarah had been using her illusions to keep stray insects off their backs, since Kenji had asked her to save most of her mana in case the course of the battle took an unexpected turn. But with V refilling her core, the light mage had enough energy to create another magnifying glass in the air above their heads, burning the wurm’s back to help keep it distracted.
+
+Weathering the boss’s barrage gave Nick a renewed appreciation for just how amazing Ella was, as well as a chance to become intimately familiar with the mechanics of battling a gigantic tongue. It always attacked with a variation of one of three moves—a whiplike bash, a chain of slashes with its bladed protrusions, or an incredible springing thrust that could bore a hole straight through him like a spear through wet cardboard.
+
+Fortunately, its most powerful attack was designed for facing other gigantic beasts and telegraphed enough that it was easy to dodge. However, the rest of its moves were almost as deadly and harder to predict.
+
+By now, Nick had realized that while his team was dealing some damage, none of their attacks were as good as Sonic Slice for breaking through its living armor. If Team Earth wanted to kill the beast, he needed to switch back to offense.
+
+Fortunately, he wasn’t the only one who had come to that realization. Ella had decided that if she wanted to regain the wurm’s undivided attention, it was time to take drastic measures.
+
+She gathered her strength and leapt while casting her gravity magic. As one of the strangest frequencies of mana Nick had ever seen coalesced around her body, the woman went soaring straight up like something straight out of an anime, rocketing out of the ravine to gain several hundred feet of air.
+
+I didn’t realize she could use that spell to reduce her weight too. The warrior reached the apex of her arc directly above the Capital Boss, then adjusted her magic to reverse its effect. Her mass multiplied in the blink of an eye, setting up one of the most badass combos he had ever seen.
+
+As he threw himself out of the way of the behemoth appendage, Ella plummeted like a Greek god descending from Olympus, arcing her gear-staff behind her head and while activating several combat arts at the same time.
+
+With an impact that vibrated Nick’s bones, she slammed the clockwork artifact into the Armada Wurm’s head. She struck a point a few inches behind its armored plates, following up with a flurry of lesser strikes.
+
+The beast screamed as its tongue went streaking to deal with the insanely powerful warrior, letting him assume the offensive once more. That’s the end of round one. Now it’s time to pierce and peel.

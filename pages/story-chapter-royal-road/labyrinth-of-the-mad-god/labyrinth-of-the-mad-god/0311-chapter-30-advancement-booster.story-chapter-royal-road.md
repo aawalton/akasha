@@ -1,0 +1,123 @@
+---
+id: 612a206b-ffb1-54c7-b8df-dd92e854bfd8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Advancement Booster"
+slug: 0311-chapter-30-advancement-booster
+partOf: labyrinth-of-the-mad-god
+position: 311
+ownLength: 1989
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3383413/chapter-30-advancement-booster"
+royalRoadId: "3383413"
+---
+
+It seemed that Astra and Pax hadn’t forgotten about Nick after all.
+
+He had wondered what his momentary mentor was up to since they’d spoken in the Tower of Rizzen—when Pax revealed the nature of the Mad God’s trap and helped Team Earth defeat the Guardian. Apparently, Astra had tried to offer Earth’s champions some additional support, but Taltos had interfered with the delivery.
+
+The fact that humanity had allies who were lending assistance from beyond the Labyrinth was good news. Nick would try to come up with a way to contact Pax later, but right now, all that mattered was finding out what those tokens did, although he could already tell they were going to be awesome.
+
+He let everyone know what had happened as a box materialized by hit boots, containing three metals disks that glowed with a soft inner light. The package included a convenient scrap of paper that provided the details of how both items worked.
+
+Ability-Upgrade Token
+
+Allows the acquisition of all 3 listed upgrades when an ability advances to Rank 2.
+
+Bloodline-Trait-Enhancement Token
+
+Enhances a bloodline trait, strengthening its primary effect and, in some cases, adding a secondary effect.
+
+“Whoa.” Nick let out a low whistle of appreciation. “These tokens are badass.”
+
+Kenji had received a package too, which led them to believe everyone who had taken part in the decisive battle for the fate of their homeworld had one waiting. That meant Aurora would pick up a major upgrade if they could find a way to get a clear signal long enough for the transmissions to go through. Worst-case scenario, we can bring them here after we conquer the node, claim the hall, and have a few weeks to spare
+
+The strategist decided to save his tokens for now, but Nick was ready to spend the trait token here and now. Two of his bloodline traits were already enhanced, so he pulled up his other options before making his choice.
+
+Blightborn: Your bloodline trait capacity has doubled. +2 to all attributes.
+
+Mana Manipulation [Non-Elemental]: Increases your sensitivity to non-elemental mana, making it easier to perceive and manipulate. This includes both the mana originating within your core and the ambient mana present in the environment. Mana Manipulation is helpful when creating original spells that are not granted by the System.
+
+Both of those are great, but I doubt Blightborn is eligible to be enhanced like this. That trait wasn’t issued by the System, and my instincts are telling me that it has a unique path of advancement.
+
+Sure enough, when he tried using the token, he got an error message. It was worth a shot. He wasn’t too disappointed, however, since enhancing Mana Manipulation was exactly what he needed to get better at free casting and rank up his abilities faster.
+
+After voicing his decision to the System, the disc rose from his hand and started spinning. As the token burst into flame while shining like the sun, he felt the galactic AI’s magic congeal around him—dense weaves of energy he had no vocabulary to describe.
+
+The potent power entered his body, altering his genetic makeup as it took his bloodline trait and made it stronger than ever. It felt like lightning was coursing through his veins. Like fire and ice were dancing across his skin. He spasmed as the last tendril of magic entered his body, leaving him changed in a fundamental way.
+
+When the show was over, Nick refreshed his profile to look over the changes.
+
+Mana Manipulation [Non-Elemental] (Enhanced): Dramatically increases your sensitivity to non-elemental mana, making it significantly easier to perceive and manipulate. This includes both the mana originating within your core and the ambient mana present in the environment. Mana Manipulation is helpful when creating original spells that are not granted by the System.
+
+The description had only changed by a few words, but the improvements were apparent the moment he switched on mage sight. The tapestry of mana flowing across the multiverse had gradually grown brighter and more detailed as he honed his energetic senses, but now it was richer than ever.
+
+He still couldn’t perceive elemental mana as clearly as the rest, thanks to the traits he’d inherited from his classes, but now the force, life, pure, and gravity mana in his environment leapt out at him—like he’d had laser-eye surgery for that spectrum of his energetic senses.
+
+Other forms of non-elemental mana were more vibrant too, although he wasn’t as adept at identifying them yet. When he reached out and tried to draw some force mana into his core, his ability to touch the energy in his environment was considerably more precise, and he could absorb it into his channels faster than before.
+
+It seemed that on top of an upgrade to his mage sight, Nick had just received a big boost to his mana regeneration. This upgrade is even better than I imagined. The last step was to see how the enhanced trait affected his free casting.
+
+He needed to run some experiments before he could grasp the full benefits, but he could already tell that shaping the flows emerging from his fingertips was quicker, easier, and more accurate than before. He could push harder with pulses of force mana and increase his weight further with gravity.
+
+When he tried using his Wand of Healing, feeding it life mana was smoother and more efficient. He gut was telling him that his enhanced Mana Manipulation trait had powerful synergy with Vital Energy Manipulation, and he suspected the upgrade would make it easier to raise the skill too, creating an upward spiral he hoped would significantly shorten the time it took to knock out the understanding requirements for his spells.
+
+It will also help me modify my spells once I learn how to free cast them. I can’t wait to create original spells of my own, although I still have quite a ways to go before that happens.
+
+After reporting his success to Kenji, the warrior said he would have to think long and hard before he used his tokens, but he was excited by the prospect. “I might save the trait tokens until we receive that bloodline library reward for this quest, since it should let me enhance any trait I receive.”
+
+“That’s a good idea,” Nick replied. “I would have done the same thing if I didn’t already have an ideal use for it.”
+
+Thrilled by everything that had happened, the party left the mountaintop and continued their journey across the conduit.
+
+Nick grew accustomed to his enhanced mage sight as they travelled, perceiving the tapestry of non-elemental mana with a clarity that took his breath away. The next time he entered mana stealth, he found the process easier than ever, and when he switched Blend on, no one could sense the energy emanating from his core.
+
+Under Bandit’s guidance, he practiced free casting throughout the day. Thanks to his enhanced trait, he was finally having some success in tweaking the composition of Piercing Ray.
+
+Free casting the ray was a delicate operation. With all the kinetic energy packed into the ball of force mana between his hands, he had to be extremely careful not to destabilize it while testing various ideas, as he had no desire to create an explosion at point-blank range.
+
+He had been trying to increase the amount of pure mana in the drill for days, but until now, adding more had canceled out the flows of force instead of creating a viable matrix. That all changed when he adjusted the ratio, added a supplemental framework, and increased the pressure.
+
+Nick let out a whoop of delight when the ray shimmered and slipped into a stable configuration. It looked like a blend of Mana Dart and Piercing Ray—a whirling silver blade attached to a rotating beam.
+
+Although it wasn’t anywhere close to as powerful as his System-granted spells, creating a modified ray via free casting was a major step forward and it cleared the knowledge component for advancing the ability.
+
+Congratulations. You have deepened your understanding of Piercing Ray and cleared the requirements to advance this ability to Rank 2.
+
+You have accumulated sufficient essence to advance Piercing Ray to Rank 3. However, you lack the understanding required to advance the ability at this time.
+
+Would you like to look at the upgrade options for Rank 2 now?
+
+“Yes, please.” Overjoyed to have advanced two spells in one day, Nick eagerly read through the choices displayed on the floating screen.
+
+You can alter the ability in one of the following ways:
+
+Advancing Piercing Ray to Rank 2 had taken quite a while, but when he reached the end of the list, he knew it was worth the wait. At long last, it was time to add some awesome new functionality to one of his favorite spells—just in time to tackle the dreadbeasts in the quarantine zone.
+
+Every option on the System’s list was amazing. He had another difficult decision on his hands, particularly since an ability’s Rank-2 upgrade determined its developmental path, and each upgrade would take the spell in a different direction.
+
+The first one is interesting. It sounds like it will turn Piercing Ray into a drill shotgun. It will add some area of effect if I split it early, but I could also wait until it penetrates an opponent's defenses, then activate the cluster effect inside their bodies… nasty. It would also make the spell better at destroying structures, along with anything where boring a single hole wasn’t an optimal form of damage.
+
+The benefits of the second choice were straightforward. Right now, it took a good twenty seconds for his drill to reach maximum speed, which was an eternity in the time-warped heat of battle. Being able to bring the pain faster was certain to come in handy, and making the force ball bigger would let the drill spin longer, bolstering its maximum damage.
+
+But in the end, neither option beat boosting the spell’s armor-piercing component, since taking down durable opponents was what Piercing Ray exceled at to begin with. Being able to apply more pressure across a smaller area while simultaneously improving the drill’s penetrative power would make his magic significantly stronger against defensive specialists.
+
+That being said, thanks to the upgrade tokens Astra had provided, Nick wasn’t limited to a single choice. After discussing the matter with Bandit, Kenji, and Fritz for the better part of an hour—making sure it was a good use for the rare and irreplaceable item the goddess had given him—he decided to use a token to acquire the first, second, and third offerings on the list, adding an armor-piercing bonus, faster activation speed, and the shotgun effect to the spell.
+
+He had no idea what kind of developmental path acquiring a triple upgrade would lead to, but he was excited to find out what would happen when the ability reached rank four and eager to experience the massive boost the spell would acquire here and now. He sat down and paid close attention to the ensuing vision, watching as the System enhanced the ability’s pathway to form something significantly more complex than the conduit for Arcane Shield.
+
+When it was over, he copied everything into his journal, pumped his fist in triumph, and pulled up his updates. At which point, he learned that his experimentation had yielded other gains too.
+
+Through use, you have improved the following skills:
+
+Vital Energy Manipulation has increased from [15] to [18].
+
+Through intensive study of magical forces and visualizing complex processes, you have improved the following baseline attributes:
+
+Creativity has increased from [22] to [24].
+
+Magic has increased from [23] to [24].
+
+Mind has increased from [22] to [23].
+
+Savoring the satisfaction of a day filled with major milestones, Nick rose to his feet and continued crossing the cosmic maze—ready to set foot onto another world and tackle his toughest challenge to date.

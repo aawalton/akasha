@@ -1,0 +1,109 @@
+---
+id: 605a404c-12dd-5c8d-bb6b-74aaec19a07c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71: Dinner Surprise"
+slug: 0112-chapter-71-dinner-surprise
+partOf: labyrinth-of-the-mad-god
+position: 112
+ownLength: 2691
+unit: words
+publishedAt: 2024-12-30
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1982710/chapter-71-dinner-surprise"
+royalRoadId: "1982710"
+---
+
+By the time that his stance training session with the demonic machine was over, Nick was drenched in sweat. So weary and sore that he could barely walk. Rita slipped one arm around his waist and led him out of the workshop, over to a pipe running along the outside of the building. She had him lean against the wall, then pulled a handle as soon as he was standing beneath the spout.
+
+To his surprise and her amusement, a stream of icy water came rushing out, drenching him in a matter of seconds and washing the grime away. Once Nick got used to the chill, the impromptu shower was remarkably refreshing. A perfect way to end a grueling day of training.
+
+He took a few minutes to enjoy the cleansing flow, then she shut off the tap and poked him in the ribs to get him moving. “Now that you’re clean, let’s get some food in you and then call it a day.”
+
+Nick’s stomach growled at the thought, and he realized that he hadn’t eaten anything since early in the afternoon. He didn’t want to drip water inside Rita’s house and started looking for a towel. But it turned out that he didn’t need one. His mentor gestured and cast a spell, then pointed straight at him. Over the next minute, the water came streaming off his body, droplets running along his limbs and then falling to the ground like rats leaping off a sinking ship.
+
+She laughed at the look of astonishment on his face. “I forgot that you’re so new to magic. Your species hasn’t had a chance to integrate small, household applications into your everyday life. Magic isn’t just about big flashy attacks, Nick. Mana has myriad other uses beyond those provided by your abilities. Give it a few years. By then, minor shapings like this will seem totally natural, and you’ll wonder how you were able to get by without them.”
+
+Nick found her revelation to be utterly fascinating. It implied that there were other ways to use mana besides powering the spells granted by the System. It was a possibility that he had considered but hadn’t known was feasible until that moment.
+
+If there was a way to control mana directly, it might explain why conditioning his magic attribute had been so difficult up to this point. I’ll have to start experimenting when I have time. See if I can guide the mana out of my core without casting a spell.
+
+Now that he was dry, Nick followed his teacher through the front door of her house, curious to see the interior of his very first alien dwelling. Most of the furniture was scaled to someone of Rita’s size, which he had been expecting, but there were a few chairs that were built for guests of his stature.
+
+He ran his eyes across the walls, taking in the decorations lining the woodwork. There were a few paintings of the prairie and its colossal residents. But most of the adornments were wooden carvings, like the ones arranged along the exterior of the ranch.
+
+“Making swords and killing things with them is my passion,” Rita explained after following his gaze. “But carving wood is my hobby. It’s how I unwind at the end of the day. Maybe I’ll make one of you while you’re here. A little memento of the time we spent together.” She led him across the sitting room and toward the back of the building.
+
+“But enough about me. You look ready to pass out standing up. Go ahead and take a seat at the table. I already have dinner set out and there’s more than enough for both of us. Eat your fill and I’ll show you to your room. We’ll leap right back into the thick of it bright and early tomorrow morning.”
+
+With a sleepy yawn, Nick nodded and walked into the kitchen, where the scent of something delicious rode the air. He was excited to sample whatever smelled so good, then slip into bed and sleep like a rock. He sat down in a chair that was just his size, then looked down to see what they were having for dinner. “Hold up. What the fuck is that?”
+
+The words escaped his lips unnoticed as he stared down into a large bowl sitting in the middle of the table. Because what he saw when he looked inside was the most disgusting thing that he’d ever laid eyes on. Whatever it was, it was still alive. Squirming and squishing, pulsating and gyrating. One glance killed Nick’s appetite, bile rising hot in his throat at the mere prospect of putting that thing in his mouth.
+
+It looked like a slug crossbred with a blobfish. It was a putrid green hue and covered in slime, skin glistening with an oily fluid that was seeping out of its rear. Is that thing sitting in a bowl of its own excrement? How can I tell Rita that I’m not hungry, without being perforated for my trouble? I’ll snack on my own provisions once I’m back in my room.
+
+He looked up at his mentor, still reeling from the shock, who gave him a wink and then nodded encouragingly. “Eat up, while its still fresh. This dish always tastes best while the jil is still alive. Hurry now, before the juices congeal. After such a hard day, you deserve a homecooked meal. This was my mother’s favorite recipe.”
+
+He felt torn in that moment. Caught between his hunger, his revulsion, and his desire to please his mentor. Maybe it won’t be so bad. After all, it smells great. Nick reached out hesitantly; disgust carved into every crook of his features. No. No fucking way. I won’t do it. I don’t care how hungry I am or how badly she beats me. Even the thought of taking a bite made him want to retch.
+
+Nick opened his mouth, and then closed it again, unsure how he should proceed. There was no way in hell that he was going to eat the nasty thing, but he didn’t want to offend his host. Not if he wanted to keep at least some of his blood inside his body when their training resumed. Rita offered him a beaming grin, seemingly oblivious to his dilemma.
+
+He looked for the politest possible way to decline before his brain shut down completely, words failing him in that moment. Just when he was about to mutter some excuse and start limping away as fast as he could, Rita burst into explosive laughter. She was giggling so hard that she began to cry, supporting her weight against the table to remain upright.
+
+This went on for a good five minutes before she calmed down enough to regain the ability to speak. “Your face. The look on…” she broke into helpless titters again, then visibly took control of herself.
+
+“That one never gets old. You can relax, Nick. That isn’t dinner, that’s Gred. He keeps the garden free of pests. I wouldn’t let you eat him even if you wanted to, but no one has tried it yet. Let me put him back in his home before he gets mad, and then I’ll serve you what we’re really eating.” She picked up the bowl and walked outside, chucking the entire way.
+
+He offered a weak smile and then held his head between his hands, utterly defeated by their exchange. It appeared that Nick’s teacher was a bit of a prankster, in addition to being far too interested in the color of his blood.
+
+When she got back, she washed up, then reached into an oven standing in the corner. After opening the door, Rita produced something that looked like actual food. The savory smell intensified as she brough it over to the table. It was some kind of flakey pastry with meat and vegetables inside.
+
+Rita cut him off a big piece, then handed Nick a plate before serving herself. “Wait a few minutes or you’ll burn your mouth. This little dish is one of my specialties. My way of celebrating the start of our brief time together.”
+
+While he waited for his pie to cool, she produced a pair of little bottles and placed two small cups onto the table, which reminded him of a sake set from back on Earth. She poured Nick his first shot and raised her own glass. “We won’t be able to drink most nights, but just one at the start won’t hurt.” She moved her cup toward him. “To swords and skill and the dance of the blade.”
+
+“To surviving long enough to save my world and see my family again.” They brought the cups together with a clink. Their toast complete, they threw them back and drank. The warmth of the alcohol caressed his tongue before sliding down his throat and into his stomach. The liquor tasted great, like berries and honey, with just a hint of spice.
+
+By now, his dinner was ready to eat, so Nick broke off a piece and took his first bite. The pie was every bit as delicious as the smell had promised, and he began digging into the rest with enthusiasm. This was his first full experience with food from another world. He’d done some hunting and forging on the Searing Isle and Blackmist Bog, but that had just been scarfing down raw ingredients prepared over an open flame.
+
+What Rita had whipped up was something else entirely. The flavor of the vegetables complimented one another, enhancing the savory notes provided by the meat. There was cheese and cream in the sauce, mixed in just the right proportion to balance out the texture of the crust. And the spices, oh the spices. They enhanced what was already sumptuous and took it to the next level, playing across Nick’s palate like a symphony.
+
+In short, it was the best meal of his life. He enjoyed every bite, washing it down with an occasional shot of the liquor that his host had generously provided. It was Nick’s first time eating at a table with another person since his new life began, and it warmed his heart alongside his belly. With any luck, when this quest was over, he would find himself sitting around the dinner table with his friends and family. Both those from his old life and everyone he’d met since the System had arrived.
+
+He knew that some of them were probably already dead, but he didn’t let it spoil the mood.
+
+Over dinner, Rita began asking questions, trying to get a better sense of where Nick was coming from. What he’d experienced thus far, and how he felt about it. How his ordeal had shaped his understanding of tactics and tempered his resolve.
+
+He knew that she wasn’t allowed to tell him much about the System or provide advice that went beyond the scope of their training. Instead, he tried to learn everything that he could from the nature of her questions and the intensity of her reactions.
+
+Nick soon discovered that what Rita didn’t say revealed just as much as what she did.
+
+He began with his origin story. The System rebuilding his body and creating his energetic pathways, followed by his encounter with Pax, the momentary mentor. Then he moved on to his early days on the Searing Isle, when he’d started out with holes in his memory and a body that had grown soft from decades of gaming.
+
+She seemed surprised that he had begun his adventures far below the average for his species in most respects. From her commentary, Rita had expected Nick to have been some manner of professional athlete, based on the time that had lapsed and his current attributes.
+
+“You raised your baseline toughness to seven during the tutorial? That’s crazy. Starting from what, four?”
+
+“Two,” Nick mumbled in between bites.
+
+“Bullshit.” She finished another shot. “No need to elaborate. I believe you, but that’s extreme. Most people eventually raise their baselines to nine, but not until they reach the end of tier one. What did you do? Train while standing in the jaws of a rax?”
+
+“That’s closer to the truth than I care to admit.” Nick sighed. He explained that he had been the only human taking part in a survival tutorial inhabited by beasts, then moved on to his experiences in the dungeon. His battle with the ratmen in the sewers of Kastilla and nearly becoming a zombie after being infected with the crimson blight. Her eyes were wide with surprise by the time that he reached the conclusion of his battle with Trell the ratman foreman.
+
+He was relieved to see how shocked Rita was after learning the details. Nick had been hoping that his trial had been harder than most, since it would mean that more of humanity had survived than he had feared.
+
+“Blood of my grandfather,” she swore. “That’s way more dangerous than the average tutorial, even for the Labyrinth. Though not completely unheard of. No wonder you’re so well-geared for your level. Well, don’t stop there.” Rita handed Nick a second plate and poured them both another drink. “Go back to the very start. Tell me everything that happened. I want to hear it all.”
+
+Until that moment, Nick wasn’t sure if he would agree to tell his tale in full. After all, it contained some incredibly painful memories that he didn’t care to dwell on. But when he searched his feelings, he found that he had nothing to hide. That he wanted to get it all off his chest and have someone else understand what he’d been through.
+
+So, he went ahead and told Rita his story of his adventures. The first time that he had recounted it all from beginning to end. From the moment that the System arrived to wipe out most of humanity, until he found himself walking through her door.
+
+Although she was a bit scary at the best of times, Rita was a surprisingly sympathetic listener. Nick got the sense that his instructor was no stranger to suffering herself. That her path to power had been paved with longing and loss.
+
+As he spun out his tale, he continued to drink, until his bottle was empty. When he reached for Rita’s to top off his cup, she stopped him with a hand on his arm. “Don’t drink this one, Nick. It’s brewed for someone whose species grade and tier are higher than your own. If you take even one sip, you’ll be blackout drunk for most of tomorrow, if it doesn’t eat a hole right through you first.”
+
+The sun had long since set before Nick was done. But Rita didn’t say another word until he was finished, concluding with how much he missed his family and friends.
+
+At that point, she took him by the hand and looked into his eyes, her expression one of total sincerity. “Don’t worry, Nick. You’re not in this alone. If they’re out there, I’ll make sure that you live long enough to see them again. Even if I have to beat you half to death in order to whip you into shape.
+
+“On that note, it’s time for bed. We can talk more tomorrow. Get some rest and recover your strength, and we’ll start again bright and early. Or dark and early as the case may be. Since you only need four hours of sleep, I’ll let you have six since I pushed you so hard. Then it’s time for some predawn training. We can take a break to watch the sunrise over the Titans’ Prairie. It’s something that you should see at least once while you’re here.”
+
+With that, Rita showed Nick to his room. He was relieved to see that the bed was just right for someone his size. When she closed the door, he stripped off his clothes and then slipped between the covers. He was out like a light less than a minute later, a black wave of exhaustion drawing him into a deep and dreamless sleep.

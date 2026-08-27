@@ -1,0 +1,147 @@
+---
+id: 0732a0e8-cdae-5dde-ba15-03f9b7df8b58
+page-type-slug: story-chapter-royal-road
+title: "2. Fight or Die"
+slug: 0002-2-fight-or-die
+partOf: mana-devourer-litrpgmana-cultivation
+position: 2
+ownLength: 2378
+unit: words
+publishedAt: 2024-06-29
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697777/2-fight-or-die"
+royalRoadId: "1697777"
+---
+
+[Abominable Bulleater. Essence attunement: Ice. Level ??. Threat level: Extremely High.]
+
+Well, fuck.
+
+Markus didn’t even know what level he was, let alone this creature, and in a sudden lurch of motion, it stopped staring out into space and started whipping its head around to face the droves of onlookers above, snapping its terrifying jaws and snarling in displeasure.
+
+It clearly wasn’t much happier about being here than Markus was, but he had a feeling the creature would feel much better once it noticed the tasty snack stood below it.
+
+He barely had any time to think. Ice affinity… I imbued my weapon with fire just now, right? Does that mean I’ll deal bonus damage to it or something? I fucking hope so.
+
+The idea of even hitting it felt ridiculous. It towered so far above him that he imagined striking it anywhere above the knees would be downright impossible. Maybe he could cut it down to size if he tried hard enough. All he could do was try.
+
+Markus wasn’t weak, at least by average standards. He wasn’t exactly new to fighting either, but he’d never used a weapon in his life and he had no idea how to properly maneuver himself in real combat either. Shockingly, he hadn’t been preparing his whole life for this moment. Hell, he’d been preparing for all of five minutes.
+
+Most isekais started with the hero killing slimes or goblins, right? Something weak, not a fucking Elden Ring boss?
+
+He might’ve tanked a hit or two from a goblin. This thing would likely split him in half with a swipe of its claws.
+
+Guess that means I can’t let it hit me even once. Woo.
+
+He should’ve been pissing himself from fear, but his heart was pounding too heavily, his thoughts too focussed to even change his trajectory, let alone flee. He had to mentally scream at himself to even shift his feet, and with as discreet a motion as he could manage, he swung the glaive before him, testing its weight, the feeling in his hands, trying to get a feel for it in the ever-so-brief moment he had left before everything came tumbling down around him.
+
+“What the…”
+
+The weapon moved far easier in his hands than he thought it by any rights should have. His motions were far too clean, too easy. They almost felt practiced.
+
+By no means did Markus feel like he had a high degree of mastery with the weapon, but the glaive moved with both speed and fluidity of motion, enough so that he at least didn’t feel completely clumsy with it.
+
+“How am I…”
+
+[Iron glaive. Properties: Flame Imbuement, E, 100% charge. Attunement, I.]
+
+Attunement? What even was that?
+
+[Attunement is a property that activates within an object or person once they have been bound to another via the tethers of mana. In the case of objects, the strength of Attunement dictates the shared experience between the object and wielder, conferring unique benefits such as weapon mastery and unique skill access.]
+
+Markus could only skim the words which seemed to generate in response to his thoughts as he drew closer to the creature, but he understood enough from a glance that he at least partially knew what was happening. His ability had somehow linked him to this weapon, and in doing so, he’d absorbed the information necessary to pilot the glaive to at least a basic degree.
+
+It was way better than what he’d hoped for. The creature still hadn’t glanced down at him, still hadn’t moved one of its titanic forelegs in an effort to crush him. He needed to move fast if he wanted to use the element of surprise.
+
+Markus picked up to a jog, the weapon heavy in his arms but not uncomfortably so, twirling it once or twice as he moved closer to his target. Then, with a terrible cry of power, determination, fear, resentment, and desperation, Markus drove the blade of the weapon directly at the knee joint of the bulleater’s right foreleg.
+
+There was such force behind his swing that he struggled to maintain his balance, the sand beneath his feet shifting and crunching as the weapon finally made contact with the creature’s hardened skin.
+
+With the clank! that sounded upon arrival, Markus’ breath caught, fully terrified that the weapon would prove totally ineffective, that it would bounce straight off of the behemoth… while the initial strike seemed to prove ineffective, the mana pulsing through the weapon seemed to be having its own effect.
+
+It was incremental, but the flames within the tip of the blade were eating away at the strike point, creating a weakness in the armored exterior of the creature as it roared in protest. With focus, Markus found he could push the flames further into the tip of the blade, at least for a moment, before it became too much for him to mentally handle and he had to relinquish his hold.
+
+Still, that moment was enough, and the blade finally burned hot enough to sear through the creature’s foreleg, creating a deep, gnarly gash that bled and bubbled with heat.
+
+[F Grade Pyrokinesis: 0 >> 1.]
+
+Pyrokinesis… Had he just learned something new? Just like that?
+
+No time to think about it, because if the creature hadn’t noticed him before, it definitely had now, and as Markus immediately backed up to avoid the enraged kicking and stumbling of the abominable bulleater, he noticed soon to his dismay that the fresh cut he’d made, one which had felt so impressive at the time, was more akin to a papercut than a mortal wound when accounting for this creature’s gargantuan stature.
+
+And now it looked more as if it wanted to maul him than to eat him. He didn’t know which was worse.
+
+Just the impact of the creature’s enraged stomping sent a shockwave through the hot sand that caused his ankles to become buried, caused him to stumble and trip. He forced himself back to his feet, gaining as much distance as he could, but the bulleater was staring him straight on, ready to run him down once more.
+
+He’d expected the creature to immediately charge him, so when it opened its mouth instead, eyes locked on him from over twenty feet away, Markus froze. Was it planning to lunge at him from this distance?
+
+The roars of both crowd and creature meshed together in a discordant medley as the bulleater began to shoot icy spit in Markus’ direction. The globules were large, and the further they travelled, the more they solidified, quickly forming into full on icicles.
+
+Swearing, Markus attempted to slice through one with his blade, but missed, feeling the attack graze the top of his left shoulder, tearing flesh and causing him to cry out. Another five icicles followed in succession, though the second just barely missed Markus’ body.
+
+They were going to skewer him at this rate… Markus thought fast, bringing around the blade and swinging it in a wide arc, trying to distribute the heat evenly around him, hoping it would act as a deterrent for the missiles that were singing straight at him.
+
+All four remaining spears passed through his makeshift attempt at a barrier, two more smashing against him, but with a much lessened impact. While they bruised him heavily, likely even busting a rib or two, the tips appeared to have been melted.
+
+Pain wracked his body, assaulted his spirit, made his nerves come alive and his heart pound in defiance. He felt the mana swirling inside of him as his shoulder refused to properly move, feeling stuck, frozen, as if the ice that cut through him had paralysed him in some way.
+
+[You have been inflicted with Freeze III.]
+
+[E grade Frost Mana absorbed. Mitigation in effect.]
+
+[Freeze III nullified. You have been inflicted with Freeze II. Affected area is very difficult to move and may become frostbitten if not soon treated.]
+
+Fucking wonderful. He still had Flame Mana inside of him, right? That might counteract it. He hadn’t used all of it on the glaive, had he?
+
+[C Grade Flame Mana: 12% of capacity.]
+
+Got it. In that case, could he simply…
+
+Markus focussed on trying to move the mana within his body. He needed to be able to move his shoulder again. He needed this fucking freeze effect to go away before that creature bridged the gap between them. He thought about pressing the blade of his glaive against his affected shoulder, but he imagined that’d only injure him too much for him to be able to flex it after, even if it removed the freezing.
+
+He’d have to learn to command the mana within his body, or learn to use a glaive one-handed. He didn’t think his basic weapon attunement was gonna stretch quite that far.
+
+Shame none of this came with a fucking manual. How the fuck are you supposed to manipulate your body’s fucking mana, and how the fuck was Markus supposed to concentrate over the rumbling of the arena as this crowd lost their sadistic minds watching him squirm?
+
+He tried to push the heat within his body upwards and towards his shoulder, straining as he watched the creature finally begin to take a massive, bounding step in his direction. Its tongue lolled from his mouth, licking its icy lips as it bridged the gap between them in hefty, crushing strides.
+
+Markus jumped back by instinct, backpedalling as he did so, vaguely aware of the spiked walls and pillars in his rearview. Moving hurt a lot with this new [Freeze] affliction, and his entire body felt stiff.
+
+He needed to figure this out fast if he didn’t wanna expire, that thing didn’t look partial to time outs or too concerned about whether he needed a break, and Markus knew he could do this if he just fucking focussed…
+
+Where was the mana within his body? Where the hell was it? He started searching, section by section, for something, anything, an echo of what he’d felt within his weapon when he’d swung it, what he’d felt when he’d connected with the creature’s leg, what he’d noted whenever he’d been touched with magic.
+
+Where had it resonated most? Where?
+
+His chest? No… it was lower than that, closer to his belly, a warmth that glowed and radiated within him in a manner he couldn’t properly parse or describe, but somehow intuitively understood. It was as if it’d always been there, only invisible to him until this moment. He’d needed no system prompt to find it. Once he’d looked within himself, visualisation was only a small step away, and now…
+
+He wasn’t sure how much of the Flame Mana he’d managed to pull from himself, but the action of pushing it through his body was insane, warming his chest, his organs, his blood… It was almost uncomfortable, but still bearable, and in only seconds, he’d pumped enough warm blood around his body that his freeze status downgraded to [Freeze I] and the horrible stiffness almost completely subsided.
+
+Markus felt energy leaking out of him. Whatever he’d done, he’d done it sloppily, and while it had achieved its desired effect, it was draining, affecting his stamina and possibly more. He lurched himself back once more, swinging his weapon again, aiming to bring it down on the same leg he’d struck before as soon as the creature landed.
+
+This was probably his last chance to land a decisive blow. This thing wasn’t going to let him stay out of its range for long, and his speed was hardly a factor when accounting for this creature’s size. It was incredibly difficult not to be trampled, and harder still to even stay upright what with all of these new injuries he’d accumulated.
+
+His body was tired, his mind screaming, but Markus pushed through all of that. He pushed because he had to.
+
+With a monumental swing, one that eclipsed effort and trounced rationality, Markus rounded himself on the creature the moment its leg landed, aiming once again for the same spot, the chink in the armour, the narrowest of openings, the advent of opportunity, he searched and he pushed and he prayed, and—
+
+His glaive bounced straight off, straight out of his hands, sending him tumbling to the side, landing heavily on his right side.
+
+Had he missed? Had he failed to focus properly on the mana within the weapon? Was he just too tired to put the right amount of strength in?
+
+Laying there in the dirt was doing little to help him, but things felt almost hopeless as they were. He’d wanted to exploit that opening, but now with no weapon to assist him…
+
+Wait. Wait a damn second…
+
+He could see the blood leaking from the creature’s leg, bleeding profusely from where he’d struck it before. He grabbed it, hugged the thick trunk of an appendage before the monster could raise it again, using it to prop himself up and get back on his feet. He shoved his hand against the creature’s wound, felt the hot blood threatening to boil his hand as it leaked out of its leg, making Markus want more than anything to flinch away.
+
+He did not flinch away. He didn’t reach for his fallen glaive. Instead, he clutched at the creature’s exposed flesh, its wound, feeling the core of the monster resonate as it roared and bucked in displeasure at his touch.
+
+Right as Markus was scared that this wasn’t going to work, that he’d wasted his only chance to get some distance on this thing again, that he was going to die here and now, helplessly holding on to an alien monster’s foreleg as it bucked and stampeded him to death, the prompt finally came through, causing him to gasp in sudden relief.
+
+[Prolonged contact established. Would you like to drain this creature’s essence?]
+
+Hands shaking, body clenched, an entire world trembling around him to the rhythm of the crowd’s hungry roar, Markus bellowed his approval, screaming into the dark abyss that he’d spawned into for all to hear that he would not just lay down here today and die.
+
+…and the system heard him. And it understood.
+
+And Markus became something to be feared.

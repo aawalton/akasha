@@ -1,0 +1,333 @@
+---
+id: ddae287d-87b9-5e52-892c-e139a08777ef
+page-type-slug: story-chapter-royal-road
+title: "21. Upgrades"
+slug: 0021-21-upgrades
+partOf: mana-devourer-litrpgmana-cultivation
+position: 21
+ownLength: 4096
+unit: words
+publishedAt: 2024-07-11
+link: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1713927/21-upgrades"
+royalRoadId: "1713927"
+---
+
+[C Grade Fledgling Tri Core (Caustic, Flame, Frost) absorbed. Would you like to affix this core to a slot (2/4), or would you like to affix it to your weapon? (0/1).]
+
+Affix it to the weapon… what would that even do? A C Grade core was more valuable than any he currently had, and Markus was sure that having a core that covered multiple elements would most likely not only confer him some good passives but also allow him to generate all kinds of mana. That sounded like something he really, really could do with.
+
+But then, if he put it in the weapon, would it be going to waste? Or would it unlock a new level of power for him beyond anything he could get simply from putting it in his body?
+
+He decided to look at the Malichor Blade’s status screen before making any decisions. He had points to spend, right? What did they do?
+
+[Malichor Blade (Unawakened 9): 45 points available.]
+
+[Weapon Grade: F]
+
+[Sharpness: 12 (+7)]
+
+[Affinity: 11 (+7)]
+
+[Versatility: 5]
+
+[Durability : 15 (+7) ]
+
+[Control: 3]
+
+Okay, Sharpness and Durability seemed pretty straightforwards, but the rest…
+
+Markus pulled up all of the remainders, reading them one after the other.
+
+[Affinity affects a weapon’s interactions with both mana and magic in general, allowing the user to channel spells and skills through the weapon at greater intensity and with lesser fault, as well as making the weapon elligible for higher grades of skill unlocks and unlocking new skills within the weapon at certain breakpoints. Affinity also affects how effective a conduit the weapon might be for the casting of spells, as well as which enchantments and imbuements a weapon might carry.]
+
+That was a long one. So basically affinity just did everything, got it.
+
+[Versatility affects a weapon’s maximum capacity for skill and magic slots, with one extra slot being added for each fifteen points invested. Versatility also increases the reforgability of the weapon, allowing for new metals and materials to be crafted into the weapon in order to confer new and compounding benefits.]
+
+Never mind. Versatility was important too, apparently.
+
+[Control affects a weapon’s ease of use and the intuitiveness of a weapon as a conduit for spells and skills, making a weapon both easier to wield with more points invested as well as allowing for higher Grades of mana to be passed through the weapon. Each 10 points invested in control confers a 25% increase to all Focus-based skills used with the weapon as a conduit.]
+
+And then so was Control. What the hell was his dump stat?
+
+If that wasn’t enough to get his head around… then there were the passives. Maybe they’d explain why some of his stats had bracketed increases. This weapon came with two:
+
+[Malichor Frenzy I: For each two strikes made with the Malichor Blade, your weapon’s Sharpness will increase by 1 and your Control will increase by 1 until the end of combat, with a maximum of +50 Sharpness and +25 Control. Each skill point placed into Control only has 50% effectiveness.]
+
+Okay… so that explained why using it felt so difficult at first and so easy later on. And the lowered effectiveness of putting points in Control was meant to offset that. Hmm.
+
+[Intensity I: The blade reacts to the potency of your Spirit, glowing redder and redder still. For each 10 points of Spirit the wielder has, the blade’s Sharpness, Affinity, and Durability are increased by 1. In times of great turmoil, these bonuses are quadrupled.]
+
+Well, fuck. This malichor stuff was good shit. No wonder he’d been able to land some decent cuts on the trimander eventually, even with its tough exterior. This thing was giving him mega stats at full strength, or at least it seemed to be. He didn’t have a great basis on what was considered a high statline here, but he imagined something that could pierce a monster like that had to be fairly high in the ‘strong’ tier.
+
+Markus resolved to grab another weapon and compare it as soon as he could. He was really curious to see how this stacked up against a common sword or spear.
+
+As for spending these points… Hmm. Didn’t seem like there was anything stopping him from doing it before he decided about evolving it, but that posed another problem. Would the weapon gain new passives that wanted for skills he didn’t have because he’d already spent the points before evolving?
+
+Markus frowned. If that was the case, best thing to do was evolve it first. But then, there were his own levels and stats to consider. Just how much had he levelled from killing that thing anyways?
+
+[Name: Markus Brown]
+
+[Class: Otherworlder (Earth) (Tier: Novice 22)]
+
+[Health: 185/535]
+
+[Mana: 401/1910 (13630 mana sealed)]
+
+[Strength: 30]
+
+[Agility: 43]
+
+[Arcana: 10]
+
+[Constitution: 70]
+
+[Spirit: 70]
+
+[???: 0]
+
+Six level ups, and a mana total that was so ungodly huge that looking at it legitimately made Markus feel scared. What would happen when that dam burst? Would all of that energy flood back into him at once or would it filter in bit by bit?
+
+He could only hope for the latter. In the meantime, apparently levelling up six times at once gave you a lot of points. Like a fuckton.
+
+51 regular points and 42 free points to be exact. Jeez, he was gaining those almost as quickly as he was regular points already. More in Spirit felt like a fucking great idea at this point.
+
+Y’know, not to mention the fact he was about to have a fucking flood of mana wracking his body again any minute now, and the increased capacity might help a touch!
+
+20 points went straight into Spirit. Watching his total increase over 2300 was satisfying. Was he going to put yet more in? Send it to 100?
+
+He hesitated for a moment. Pushing to 100 would use up a lot of his remaining points, and while he’d been happy to dump 20, the only reason to push like that right now would be the hope that some kind of breakpoint existed at 100 that would give him a new passive or some other benefit. He had no means of knowing whether that was the case.
+
+Well, fuck it. Here’s hoping.
+
+The moment he ticked his Spirit up to 100, his screen flashed as a litter of new notifications graced him.
+
+[Spirit milestone reached: Mana Capacity increased by 50%.]
+
+[Meditation has evolved to Greater Meditation.]
+
+[Mana Manipulation: 3 >> 4.]
+
+[Manifest: 2 >> 3.]
+
+[Empower: 3 >> 4.]
+
+[Basic Mana Control unlocked.]
+
+[Skill and Level Growth increased!]
+
+[Free points can now be spent on either Strength or Agility. Please choose an attribute.]
+
+Well, shit. That DID do a lot at once. His mana capacity had just skyrocketed to nearly 3800, and he’d gotten a free level in multiple abilities at once. Not to mention his meditation skill evolving. Who knew that was governed by him levelling his core attributes? He supposed he’d gotten it as the result of a Path, and he didn’t really know how else he was going to increase Respite, not to mention the fact that the skill was already directly modified by his Con and Spirit attributes.
+
+Everything made sense when he thought about it for long enough, but holy fuck was that increase jarring. Hell, if he could double it like that again a few times, he might not even have to worry about exploding once his seal ended!
+
+…probably wishful thinking. What the hell did Mana Control do, anyways?
+
+[Mana Control I (Epic): Allows the user to focus the generation of one specific mana type to increase that generation by up to 100% at the cost of up to 100% generation of another mana type. Can be cast while Meditating.]
+
+Okay, that sounded dope. Only issue was whether or not he’d be able to use it on his weapon, asssuming his weapon did generate its own mana once affixed. He’d have to wait and see about that.
+
+But regardless, this definitely looked like something that could be useful. He could use this to slow his mana generation somewhat at the cost of a specific mana type, which might help with his substantially increased generation at low values. Or at least, he hoped it’d help. The other benefit was preparedness, the ability to have a fuckton of a specific mana type ready for when he thought he might need it, assuming he was able to generate that type in the first place.
+
+Well, Markus knew he could get cores that generated multiple mana types now, so there was no doubt he’d get some use out of this.
+
+Then there was Greater Meditation:
+
+[Respite I: The natural healing rate of your body is increased by 345%, increasing to up to 690% during periods of sleep and relaxation. Natural healing is modified by Constitution and may be increased with more points invested. Greater Meditation can be induced in a quiet and safe environment to heal one targeted area of the body at 1240% of its usual rate and regain and cycle mana of one type at 240% of usual rate for up to six hours per day. Greater Meditation can be induced at all times, but has a 50% reduced effect, requires focus, and cannot cycle mana. Healing during Meditation is modified by Constitution and Spirit. Mana Regeneration is modified by Spirit.]
+
+That… was a lot more flexibility than last time. He could use it on the move? He could cycle mana? Did that mean he could train it? Even push old mana out of his body and replace it? Could he use this to drain some of his excess mana now, not just generate it faster?
+
+Jeez, there was a lot to consider there.
+
+Finally, there was the choice of which attribute to allow himself the ability to spend free points on between Strength and Agility. He assumed he’d never get the option of spending free points on Spirit. That’d be an infinite loop of impossibly huge growth within just a few levels time. He’d be completely unstoppable.
+
+Hmm… it’d be nice if the system would be generous and just let him do that. It’d be pretty broken, sure, but he should be able to fucking break things a little! This place didn’t pull any punches, why should he?
+
+Markus sighed, selecting Agility. Not getting hit was nice. Strength wasn’t guaranteed to be useful all the time, either. What if he went up against something incorporeal? Like a ghost?
+
+Did ghosts exist?
+
+But assuming they did, and he put all his points in Strength, imagine he ran into one and he tried to punch it and his fist went right through the thing and it went ‘whoooooo’ and possessed him instead. That’d suck.
+
+So Agility it was. God, this felt like trying to theorycraft builds in a roguelike with no real guide. Only, if he fucked it up he died, and he had the ticking time bomb of his fuck-crazy mana to consider.
+
+In other words, he needed to fucking get on with it. God, he felt tired.
+
+He was down to 21 regular points and 42 free. Was he increasing his Con to 100 next? Fuck yeah.
+
+Okay, now he had 1000 health. A 33% increase from hitting 100 plus an automatic evolution to Respite that almost doubled its effectiveness alongside the stat increase, and Markus was beginning to have a mild healing factor on his hands.
+
+Like seriously. He passively regenerated seven times faster than he usually would, plus that being doubled during sleep and almost quadrupled in specific areas during focussed meditation. Sure, he was a long way off being a comic book hero, but being able to fully heal a broken bone in the matter of a week or two was pretty fucking crazy, and maybe even in days with meditation.
+
+And that was without [Devour] or healing potions or anything else to aid him. That was just natural hardiness he’d developed from his attribute. Insane.
+
+All of this was without mentioning the passive choice he’d gotten right after he’d ticked over. He stared at it, trying to determine which choice he preferred.
+
+[Tough Skin I (Common): Your body passively takes 10% more force to cut and pierce with the exception of magical means.]
+
+[Robust I (Rare): Your body is less susceptible to the effects of poison, rot, and other maladies. Ingesting dangerous foods and chemicals is easier for you and carries less risks and higher chances of benefit.]
+
+[Gourmand I (Epic): Meals grant temporary health totalling a maximum of 20% of your current health pool. Temporary health lasts until used or until going for too long without food.]
+
+Markus picked Robust. Yes, the others sounded good, but Markus currently ate magic stones for a living and was living off of stale food. He was in a dungeon environment and getting by on what he had was tough. Gourmand sounded great until you realised there was no fucking food to eat, and Tough Skin sounded like the kind of thing that wouldn’t do shit versus half the creatures he’d had to fight so far.
+
+Sure, those passives might’ve proved invaluable later, or maybe they’d have just been overkill. Who knew? Who cares. Markus wasn’t gonna sit around and plan for a future he didn’t even know he had yet, he was gonna front load as much useful shit as he possibly could and go from there.
+
+Speaking of which, he had more notifications to go through and little time to do them. Best get to it while he was still conscious.
+
+Moving on, he found he’d earned two titles. Dope.
+
+[Title unlocked: Original Killer. You are the first to kill a monster of a certain species. +5 Strength. Damage versus reptillians increased. Identify’s effectiveness versus reptillian monsters is increased.]
+
+[Title unlocked: Species Executioner. You have killed the last monster of a species. +10 Strength. Damage versus reptillians increased.]
+
+Okay, so Markus killed what was currently the first and only monster of a new species and got two achievements based on that technicality.
+
+Fucking baller.
+
+That put his Strength up to 45. There you go, Strength. Neglected no more.
+
+At this point, his stats looked like this:
+
+[Strength: 45]
+
+[Agility: 43]
+
+[Arcana: 10]
+
+[Constitution: 100]
+
+[Spirit: 100]
+
+[???: 0]
+
+And he still had 21 regular and 12 free points to go through. Okay, well shit.
+
+10 remaining free points went into Arcana. He was sure he was gonna need it soon with all his looming skill upgrades. Might as well stick it in now. He held on to the remaining 2 free points.
+
+Oh, and raising his Arcana to 20 gave him a basic resistance to magically induced sleep. Dope.
+
+He raised Agility to 50 and kept hold of the remaining 14. Same deal as usual. Keep a small buffer and dump them if he needed to.
+
+Markus had been sat on the floor for so long doing this that his legs were starting to go numb. Still Cyrus slept fitfully in the other cell, and eventually, a certain hellhound popped into existence somewhere in the far corner and clambered over to him sleepily, curling up at his feet as she was oft to do and barking once.
+
+He was happy to see her, only…
+
+Had he absorbed some kind of mana when she’d teleported in? He wasn’t sure what kind. He couldn’t even tell by checking his system. Whatever he’d gotten from it, it’d been too small for him to get a notification, but he could swear he’d felt the pulse of something entering his core. He needed to keep an eye on his mana values before she entered next time and see if there were any jumps.
+
+“Just where do you go, anyways?” he asked the fluffy, burning canine, who flicked an ear in response.
+
+“Yeah… you keep your secrets,” Markus harrumphed, going back to his glaive and the whole reason he’d started sifting through the rest of this in the first place.
+
+He’d thought it’d need to be the first choice he made, and as it turned out, it’d wound up being the last. Maybe it was the pressure of spending something like a C Grade core like this. He was still scared it wouldn’t work out, that the blade would simply eat it and he wouldn’t get any substantial benefit.
+
+Whelp, guess it was time to find out. Markus selected the prompt from before and allowed the core to be consumed, right after accepting his absorption notification and receiving a +150 to his Mana Capacity as a result, alongside another +5 in Strength and Constitution.
+
+Damn, C Grade cores gave big buffs. Whelp, time to slot it in.
+
+[C Grade Core consumed. Malichor Blade awakening.]
+
+[...]
+
+[F Grade Malichor Blade (Unawakened 9) has transformed into D Grade Malichor Blade (Tri Core 1). Blood absorption will advance this weapon’s core further.]
+
+[Passive unlocked: Meld I.]
+
+[Active Skill unlocked: Triple Strike I.]
+
+[Active Skill unlocked: Detonate I.]
+
+[Intensity I has evolved to Intensity II.]
+
+[Core attribute unlocked. Placing points within Core increases weapon’s Mana Capacity and Generation.]
+
+[All weapon stats increased by 10 (excluding Control and Core). 50 points awarded. You have 95 points available.]
+
+Wait, shit, he could evolve this weapon’s core? Could he evolve his own cores?
+
+Notably, the weapon had taken on a red glow around the handle, and any signs of strain around the handle from where it’d been recently bent had vanished.
+
+Wait, or was it a blue glow?
+
+Green?
+
+It cycled between all three, and even the sensations as he held it changed ever-so-briefly too, if he paid attention. Hotter when it went red, colder at blue, and green made the whole thing feel a bit rougher than usual. It was extremely subtle though. He had to pay attention to realise it was even occurring.
+
+Then there was the passives and skills the weapon had come with. That and the fact the weapon now had a mana bar.
+
+[Malichor Blade (Tri Core 1): 95 points available.]
+
+[Weapon Grade: D]
+
+[Mana: 15/300]
+
+[Sharpness: 35 (+20)]
+
+[Affinity: 34 (+20)]
+
+[Versatility: 15]
+
+[Durability : 38 (+20) ]
+
+[Control: 3]
+
+[Core: 1]
+
+More points, more choices…
+
+Intensity II seemed to simply double the bonuses that Intensity I had given, and seeing as they were based on Markus’ Spirit and his Spirit was now 100, those were fuckhuge bonuses.
+
+As for the 95 points he had to spend…
+
+Sharpness was out. He gained so many points of it from his passives that he didn’t need to increase it. Durability seemed like it was fairly high already too.
+
+He wanted to stick some points in Core and see what happened, and so he did so, bringing it to 10 and watching the weapon’s mana total increase to 570. Whoa, that was potent. He wondered if the increase that points in core gave was at all proportional to his Spirit.
+
+86 points left. Versatility got buffed to 30 instantly, two skills required two slots after all. 71 left and he instantly dumped another 16 in Affinity, bringing it to 50 and unlocking yet another new option the second he did.
+
+[New active skill unlocked: Acid Slash I.]
+
+[Compound slot unlocked!]
+
+[Forget existing skills Detonate I and Triple Strike I and forge a new Compound Skill? 95% chance of Common Compound Skill, 4% Rare, 0.9% Epic, 0.1% Legendary.]
+
+[Forget existing skills Triple Strike I and Acid Slash I and forge a new Compound Skill? 75% chance of Common Compound Skill, 15% rare, 7% epic, 2.9% Legendary, 0.1% Transcendent.]
+
+Okay, what the fuck was a compound skill?
+
+[Compound skills are unlocked within a weapon when the user has the required Affinity and requisite abilities to unlock new skills of a certain type. User Arcana and Affinity are used as a means to measure the chances of the user learning a Compound Skill of lower or higher potency. Levels and Mastery in composite skills increase chances of rarer compounds being generated.]
+
+Okay, so not something you necessarily wanted to do straight away unless you needed to or you were feeling really lucky. It was pretty final to give up your existing abilities like that, and if he was going to do so, it felt the only way that Markus would feel comfortable just taking a chance on something like that was if he either had a ton of excess abilities he needed to thin out or he had way better chances of getting something neat.
+
+That being said, it could be that even common compound skills way outclassed regular ones. Was he willing to gamble on a whim just to find that out? Not yet. He hadn’t even read his new active skills, let alone tested them. He’d get to that point before he considered risking a potential sidegrade that might only reduce his options further.
+
+Deciding to let that sit to the side for now, he dumped 24 points into Control, bringing it to 15 and his weapon points remaining to 31. He decided to hang onto those for now. He’d feed them into the weapon bit by bit as he went.
+
+Speaking of which, only now was Markus realising that the seal was beginning to break, and mana was beginning to flow back into his body.
+
+First thing’s first, could he put mana in the spear? Yes. Extremely easily, in fact. That being said, it generated its own, and unlike his body, it wasn’t capable of going over its capacity. As soon as it reached its limit of 570, it stopped generating its own mana completely.
+
+Next, he grabbed his last remaining Essence Stone. Now, he couldn’t afford to put his Mystic Mana in there as it didn’t like to be in the stone with other Mana Types, so he instead poured some of the insane levels of D Grade Frost, Spirit, Caustic, and Flame Mana he’d absorbed from his last fight.
+
+From what he could tell, the Essence Stone reached its capacity at somewhere around 5500 mana. Once he reached that point, it was completely full, and no amount of effort or force could manage to even attempt to slot more mana inside of the stone than what was already contained.
+
+He also found that trying to put C Grade mana in there was a no-go. He’d never tried before, and now he understood that a D Grade essence stone was limited to D Grade in what level of mana it could contain at highest.
+
+Apparently, Markus wasn’t, as he still had that A Grade Divine Mana inside of him.
+
+Once all was said and done, Markus had thankfully not exploded but was still hovering at about 7000 mana, which was thankfully under 200% capacity for him now, what with his massive increases. His mana poisoning, however, hadn’t reduced to I, but to II. Apparently, cresting Mana Poisoning III was a bad thing, and his body didn’t want him being able to be rid of his ailments so easily.
+
+Still, there was a good chance Markus might be able to reduce his poisoning further with that new Meditation skill he’d gotten. If not, he could at least use Frozen Tomb to reduce the Frost Mana in his body, but he’d rather not have to rely on just that.
+
+Tired, aching, in more than fair need of respite, Markus began to meditate, hoping the activity would help to calm his frayed nerves.
+
+His meditation was swiftly interrupted by a silly helldog licking his arm, but hey, she cured a massive scrape running down it in the process, so she more than earned a pat on the head for the effort.
+
+Honestly, he needed to bottle her saliva or something. Come to think of it, could he use her to get more Flame Mana?
+
+Not if it might hurt her, obviously. He needed to test with someone else first and make sure he knew what he was doing. He already knew he could drain a small amount of mana from someone without it hurting them too bad. Maybe Cyrus would be down to help him figure it out.
+
+Whatever. Those were tomorrow’s concerns. For now, Markus wanted to get healed up enough to get back on his feet as soon as possible, and then, as soon as he did, he had a certain treacherous little imp he wanted to go and find.
+
+He needed to test his new weapon, after all, and they were long overdue a reunion by now.

@@ -1,0 +1,73 @@
+---
+id: 074fe0e7-d530-5f91-a555-f2787d2ff5dd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86: Stealthy Approach"
+slug: 0127-chapter-86-stealthy-approach
+partOf: labyrinth-of-the-mad-god
+position: 127
+ownLength: 1763
+unit: words
+publishedAt: 2025-02-03
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2046006/chapter-86-stealthy-approach"
+royalRoadId: "2046006"
+---
+
+When they were ready, they packed up their gear, climbed down from the cave, and walked out into the night. The party followed Veronica as quietly as they could, hoping to avoid any beasts on their way to the pirates’ base.
+
+That two-mile hike must have taken less than an hour, but it felt like it went on forever. Each member of the team was lost in contemplation, facing the grim reality of what they were about to do. Preparing themselves to become killers and leave their old selves behind.
+
+It seemed that the nights here were just as long as the days, at least twelve hours by Nick’s reckoning. It was a good thing. It gave them more time to plan out their assault, and more time to make their escape once they managed to steal an airship.
+
+At last, V held up her hand. The party came to a stop beneath a cluster of trees, looking out over a wide clearing a thousand feet ahead. There, revealed in the moonlight shining through the side of the tower, was the pirates’ fortification. Over the top of the low wall ringing the encampment, Nick could make out the profile of a pair of watchtowers and a cluster of buildings, several smaller structures set beside a big one in the middle.
+
+“The large one is the storeroom,” Veronica whispered. “The airships are on the other side, tied to some manner of dock. There are two sentries in those towers along the wall, and at least nine other people sleeping in the barracks. I couldn’t get close enough to look inside and count. Getting in and out without being spotted took everything that I have.”
+
+Now that they had seen the layout of the pirates’ base with their own eyes, Team Earth drew back far enough that they could confer without the sound giving them away. Although they needed to move fast, before the sun rose or they were attacked by another group of beasts that called this floor home, going in without a plan was a recipe for disaster.
+
+“Fighting outside the walls is out of the question,” Sophia said. "We need to scale them or knock down the gate before they sound the alarm. If we let any of the pirates get away on those ships, we’re done for. This is our one and only chance to take to the sky before they know where we are, and we can’t afford to fuck it up.”
+
+“I agree,” Nick added. “Climbing the walls and silencing the sentries is our best move. We might be able to open the gate, but we will lose the element of surprise. We need to sneak in and hit them hard, then press the advantage before they can equip their gear and fall into formation. If we don’t take some of them out right from the start, they will overwhelm us with superior numbers.”
+
+“This battle will be unlike anything we’ve faced before.” Devin fingered the hilt of his axe. “These are people with unknown classes and abilities. They will have spells, gear, and traits that we’ve never seen before. On top of that, they will be used to fighting as a team, while we’re still learning to do the same. If we can’t take control of the melee before it begins, we don’t stand a chance.”
+
+“You’re both right,” V said. “We’re dead if we don’t take most of them out with our opening move, starting with the lookouts in the towers. Nick and I need to scale the wall and eliminate the sentries without being spotted. Then everyone else can climb up and we’ll head into the compound. It’s safer than opening the gate, which might have some manner of trap or alarm.”
+
+At this point, Shaun chimed in. He was shaking and wide-eyed, like he couldn’t believe what he was saying. But he swallowed hard and then spit it out.
+
+“Once we silence the sentries, we need to kill the ones inside the buildings while they’re fast asleep. We can’t let them attack from a position of strength. I never thought I would say this, but we need to assassinate them while they’re in bed and out of their armor, and try not to fight them at all. We don’t have the skills or firepower to overcome an experienced party battling in formation. If we let them get organized, we’re all going to die.
+
+“I’ve never killed another person before, and I wish to god that I didn’t have to, but we already know that they’re willing to kill us. Besides, they are torturers and murderers. If we hold back past this point, someone is going to wind up making a fatal mistake.” He looked each of them in the eye in turn, voice steadying as he faced the future head on.
+
+“This is the truth of our new reality. If we want to survive, to save the Earth and protect the people we love, we’re going to have to learn how to kill and fight as dirty as we can. Honor and mercy, compassion and restraint, will be the end of us all. Now, here’s what we need to do.
+
+“After we’re over the wall, Devin will open the doors to their barracks. I’ll fire a smoke arrow into all three rooms to blind the pirates and add to the confusion. Veronica can use her last web bomb to immobilize one group, and her napalm grenade to kill the next. That will leave one set of three or four opponents. We can kill them one by one as they come running out of the smoke. With any luck, they’ll all be dead before they even know what hit them.”
+
+Nick was shocked to hear such a ruthless plan leave Shaun’s lips, but he knew that the archer was right. The goal isn’t to fight our enemies, it’s to kill them. It’s finally time to take that step, and we can’t afford to hesitate.
+
+It was something that had been weighing on his mind ever since he had slain the ratmen in the sewers of Kastilla. Although they had been reduced to mindless zombies, controlled by the crimson blight, traces of their humanity remained.
+
+He had known that it was only a taste of what lay ahead. A wake-up call to his new existence as part of the System. A truth that had been driven home when Shaun’s group had ambushed him on the bog, and Ken tried to assassinate him a few days later.
+
+Nick already knew that he would have to kill other people at some point, even other humans from Earth. Through luck and circumstance, he hadn’t been forced to until now. But today, here in this moment, the time had arrived.
+
+Sophia was clearly disturbed by the prospect, although she didn’t voice a disagreement. She just sighed and nodded with the saddest expression on her face that he had ever seen. After speaking his piece, Shaun had accepted the truth of the situation as well, wearing a hard look that made him seem ten years older in an instant.
+
+They discussed the matter for a few more minutes, until it was clear that they were all in agreement. Then the party moved onto hammering out their strategy. Nick and Veronica would climb the wall first, since they were the stealthiest members of the team, supported by a pair of Sophia’s wasps.
+
+They would try to take out both sentries at once, then the others would join them, before they climbed down to fight the pirates sleeping in the barracks below. The only embellishments to Shaun’s plan were that Nick would conjure four mana darts before they opened the doors, and Sophia would summon a full contingent of beasts. With any luck, it would all be over before their enemies knew they were there.
+
+By now, the stars were fading with the coming of dawn and they knew it was time to act. Nick handed Sophia his spyglass, so that she could coordinate the movements of her wasps from a distance. Then he took off his pack and handed it to Devin. Nick felt naked without it, but he needed to move as quietly as he could.
+
+Side by side with Veronica, he crept up to the wall of the fortification, using trees and boulders as cover to stay out of sight of the sentries. It was clear that this base was intended to protect the pirates from beasts, not other people, or they would never have left so many obstructions so close to the wall.
+
+Electric adrenaline filled his veins, setting his heart pounding in his chest. In part due to the fear of being caught, but mostly in anticipation of what he was about to do. With every step he took, Nick expected an alarm to ring out. For arrows and spells to rain down upon his head. But the cries he was anticipating never came.
+
+They reached the wall five tension-saturated minutes later, having chosen a side where the view from the towers was partially obstructed. They stopped and looked up, until they caught sight of the guards. One man was asleep at his post, sitting in a chair with his head braced against the railing. The other was on his feet, muttering to himself as he took long drags from some manner of pipe.
+
+“You get the sleeping one,” he whispered into Veronica’s ear. “I’ll deal with the smoker.” She nodded, reached into her pack, then carefully removed a grappling hook attached to a silk rope, which they’d found in the storeroom event.
+
+Although she had comparable dexterity, Nick had his throwing skill, so she handed him the grapple. Rather than trying to swing it around before letting loose, which he wasn’t sure would count as a throw, he cocked the hook over one shoulder, took aim, and threw.
+
+He watched as the grapple went sailing up and over the wall, coming back down with a faint tap. It set his heart racing even faster, but the sentries showed no sign that they had heard. Nick pulled on the rope as gently as he could, until he felt the hook catch the woodwork and the line went taut.
+
+Since V was nimbler and stealthier than he was, she went up first, pulling her lithe body up the rope without making a sound. A dozen heartbeats later, she was on top of the wall, where she ducked behind a barrel until he arrived. Then it was Nick’s turn to climb.

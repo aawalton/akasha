@@ -1,0 +1,99 @@
+---
+id: 6c1a701a-9582-5c64-9592-cde83bdb33cc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: Dreadbeast Quarantine Zone"
+slug: 0315-chapter-34-dreadbeast-quarantine-zone
+partOf: labyrinth-of-the-mad-god
+position: 315
+ownLength: 1991
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3445241/chapter-34-dreadbeast-quarantine-zone"
+royalRoadId: "3445241"
+---
+
+When Nick passed through the rift, his Portal Visionary technique kicked in.
+
+The experience didn’t last long, since he wasn’t traveling from one world to another, but it gave him a chance to examine the contents of the node, which held one planet and three moons orbiting a star a bit bigger and redder than Earth’s new sun.
+
+He had just enough time to circle the globe, memorizing everything he passed along the way. Two continents were home to thriving cities and two were covered in extensive ruins, revealing that what had once been a global civilization had lost a sizable portion of its population.
+
+Since this node was part of the Labyrinth’s fringe, it must had been added recently—evidence that the Mad God had stolen a planet that had been integrated into the System long ago. Judging by the condition of the abandoned buildings he flew past, a catastrophe had befallen this world decades if not centuries prior, in addition to whatever manner of hellish ordeal Taltos had imposed before incorporating it into his cosmic maze.
+
+Regardless of the details, it was a matter for another day. Nick’s mind was being drawn toward his body like a fisherman reeling in his catch, pulling him into the center of one of the populated continents. He passed over a nation ravaged by war. These cities and stretches of countryside had been devastated far more recently, and since he was approaching a colossal magic dome that encapsulated the epicenter, he strongly suspected the dreadbeasts were the cause of the current calamity.
+
+Sure enough, his consciousness passed through the barrier and sank into his skin, cementing his certainty that he had just obtained his first glimpse of the dungeon the System called a quarantine zone.
+
+His friends had only taken a few steps since exiting the rift, which meant his out-of-body experience had only lasted for a handful of heartbeats. He turned his attention from the planet’s past to the task at hand—surviving long enough to obtain his bearings, then dealing with the life-draining creatures they had come here to kill.
+
+In the distance, Nick could make out the perimeter of the dungeon. It was cut off from the rest of the continent by the most powerful barrier he’d ever seen, forming a hemisphere that was a few hundred miles from one side to the other.
+
+Even from here, the complex flows of multicolored mana were menacing when viewed through his mage sight. Size Up was certain that if he so much as touched the dense weaves of magic forming the dungeon’s wall, he would be erased from existence in the blink of an eye. He switched on Enhance Senses as his team stood back-to-back, scanning their surroundings for danger as they adjusted to an environment that was strikingly different from the conduit they’d left behind.
+
+By this point, Nick had been the first member of his species to explore another world on several memorable occasions. It always filled him with wonder and awe to take in terrain no one had beheld before. While he still felt a bit of that thrill, on this occasion, his excitement was tempered by the knowledge that he had stepped into a crucible filled with lethal beings powerful enough to place an entire planet in peril.
+
+After emerging from the rift, the party found themselves standing in a blighted forest. Many of the trees were dead—skeletal limbs reaching toward the uncaring heavens for salvation that had never arrived. A few scattered groves seemed relatively healthy, and the rest were somewhere in between.
+
+Alive or dead, the forest was dense, filled with copious trunks growing far closer together than any woodland he’d seen yet. The gaps formed an endless series of narrow passageways, small clearings, and dead ends, which meant it was finally time for his Pathfinding skill to shine.
+
+In addition to the sad state of the trees, there wasn’t nearly as much plant or animal life as Nick would expect in a biome like this, which felt barren compared to the scenery he’d surveyed during his brief vision. Thus far, his team hadn’t sensed any predators prowling nearby, so they spread out to search the area while staying close enough to back each other up at a moment’s notice.
+
+When he walked over to take a closer look at one of the dying trunks, he couldn’t see any signs of invasive fungus, insects, parasitic plants, or any other pathogen he was familiar with. However, he noticed something strange when he switched on his mage sight. There wasn’t much magic flowing through the air and suffusing the soil. The scintillating colors he had grown accustomed to were so watered down that he could barely see them at all.
+
+In an environment like this, life mana should be everywhere, along with myriad frequencies of elemental energy. The trace amounts he could perceive within the plants looked thin, and as he studied the flows, he realized that motes of magic were being drawn out of the flora and into the ground—a bizarre and deeply unsettling opposite of the natural order.
+
+“It’s the dreadbeasts.” Bandit followed Nick’s train of thought by watching his gaze. “We killed the ones on Earth before their influence reached this point, but they are sucking the essence out of the planet itself, along with the vital energy of every creature living upon it. In a few months, only bleached bones and dust in the wind will remain.”
+
+“This is terrible.” Kenji frowned. “I had no idea it was this bad. No wonder you are so determined to uncover the dreadbeasts’ true nature and find a way to stop them from returning.”
+
+“And this is just the beginning,” the lemur replied as Lurk grunted her agreement. “I’m sure the drain is worse closer to the heart of their territories.”
+
+“At least we can leave through the rift whenever we want,” Nick said. “If we run into trouble, we can pull back, regroup, and reconsider our options.”
+
+No sooner had those words left his lips than the gash in spacetime started sealing itself shut. No. It’s not shut. He pondered the unsettling development with a grimace. That’s a shield preventing us from passing through, like the shroud protecting Earth.
+
+“Or not.” He sighed. “It seems we won’t be leaving without completing the quest after all. I suppose that’s part of the reason why the System rated this a five-star elite dungeon. In addition to the danger the dreadbeasts pose, we don’t get to take the easy way out.”
+
+“That should boost the quality of our rewards,” Kenji said. “The System always pairs the best prizes with overcoming the most hazardous challenges. I suppose there’s no point in using this area as our base of operations. We should get the lay of the land, find somewhere safe to hole up for the night, and come up with a plan based on what we discover along the way.”
+
+It was a sensible suggestion, so the party set out to survey their surroundings, searching for danger, shelter, and any notable points of interest in that order.
+
+Well before they found anything of the sort, a window materialized in front of Nick’s face.
+
+System Message: Quest Update
+
+You have successfully navigated the Labyrinth and arrived at the node containing the quarantine zone.
+
+Since this quest was issued by a faction, you have been granted access to the informational briefing they provided. It contains a summary of the situation, profiles of the dreadbeast monarchs, and charts of the terrain comprising the region that has been designated as a dungeon.
+
+“That’s new,” Nick said. “The System tends to be pretty bare bones when it comes to explanations. At least we can conduct this operation from an informed position rather than starting from scratch.”
+
+That was when a second, significantly more unsettling, update appeared.
+
+While the dreadbeasts have not been informed of your arrival, they have sensed the rift opening from the far side. It is highly advised that you relocate before perusing the information packet available via your codex.
+
+“Shit!” Kenji cursed after reading the message. “We can strategize later. It’s time to go.”
+
+Nick had no idea how long it would take for the dreadbeasts to arrive at his location. However, he had no doubts that he would experience terminal regrets if he was still standing here when they did. The party picked a direction at random and ran for their lives, burning stamina to pour on the speed as his adrenaline flowed like a faucet.
+
+There was a chance that they would run into dangerous creatures or stumble into hazardous terrain, but the consequences of such events paled in comparison to the certain doom that would befall them if they were caught by beings powerful enough to imperil an entire planet.
+
+As they ran, he conjured a pair of Arcane Shields, using the platforms as stairs until he was skywalking a few dozen feet above the treetops—not high enough to stick out like a sore thumb, but sufficient to scan his surroundings while on the move. As he led his team through the maze of trees, his gaze landed on a series of ravines a few miles beyond the forest’s edge, which should offer substantial cover to both physical and energetic senses.
+
+He returned to the ground after charting a course. Meanwhile, Size Up started tingling like lightning was about to strike. Nick had never felt anything like it, but he was dead certain that danger was approaching. The party pushed themselves harder as his premonition grew stronger. Before long, it was joined by a second disturbance, which was followed by a third, converging on their location like a fist closing around an unfortunate insect.
+
+They shot out from the tree line and sprinted toward a series of deep rents torn into the soil like wounds from the claws of a titanic beast. He picked out a crack that was wide enough for Lurk to pass through and had an earthen ramp leading into its depths.
+
+The team bolted for cover—walls rising on both sides as they arrived at the bottom and darted beneath a rocky ledge. The men activated Blend into the Background, and Bandit assumed his shadow form while switching on his Necklace of Invisibility. Lurk pressed her body into a rocky seam, frozen in place like she was part of the wall.
+
+They remained perfectly still, entering mana stealth as Nick’s portent of doom swelled to a bone-chilling crescendo. Judging by the feedback from Size Up and his mage sight, two of the dreadbeasts heading for the rift wouldn’t pass near their position, but the third would sail directly overhead sometime within the next few seconds.
+
+Not daring to breathe, he caught a brief glimpse of a bestial body soaring through the sky on leathery wings—surrounded by a coruscating nimbus of essence that felt foul in a way he couldn’t put into words.
+
+It vanished a heartbeat later, but the pressure hadn’t lessened. A few miles meant nothing in the face of the overwhelming threat the dreadbeast monarchs posed. Soon, the sounds of combat reached his ears as powerful emanations of magical energy buffeted the blighted landscape above.
+
+It seemed these nightmares made flesh weren’t friends, and after encountering each other at the rift, they had begun to battle. The conflict didn’t last long, and two of the dreadbeasts retreated into the distance.
+
+The third and presumably strongest monarch remained for a while longer before moving on. It passed close enough to the canyon to scare the shit out of Nick, but not near enough to indicate it was aware of their existence.
+
+His team had only been in the quarantine zone for a handful of heartbeats, and he had already encountered three lethal threats. While they had survived their first close call, he knew deep in his bones that conquering the dungeon would only get harder from here.

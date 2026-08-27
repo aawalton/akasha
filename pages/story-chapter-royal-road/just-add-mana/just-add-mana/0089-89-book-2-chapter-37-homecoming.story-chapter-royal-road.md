@@ -1,0 +1,173 @@
+---
+id: 7548ef95-77db-5bba-8ff8-61e30217ce9d
+page-type-slug: story-chapter-royal-road
+title: "89 — Book 2, Chapter 37 — Homecoming"
+slug: 0089-89-book-2-chapter-37-homecoming
+partOf: just-add-mana
+position: 89
+ownLength: 3575
+unit: words
+ownProgress: 3575
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2961243/89-book-2-chapter-37-homecoming"
+royalRoadId: "2961243"
+markedReadAt: "2026-06-29T18:50:40.943Z"
+---
+
+Halia of the Golden Sands missed Angus.
+
+She was the matriarch of her clan, but these days the title felt like it meant increasingly little. It wasn't that no one in the clan respected her—they definitely did, and anyone that didn't learned very quickly why she was so respected, aside from her age—but there were too many problems they faced that weren't within their power to solve.
+
+Angus had always had a way of making her feel like the problems ahead of them weren't hopeless, though. Sure, a lot of his hopes were founded in myth and legend, which was the height of foolishness as far as she was concerned, but the important thing was that he believed in them. He had all the hope and enthusiasm she was lacking, and it had balanced her out. Now that it was gone, she felt the loss of it greater than ever.
+
+Even after two years, it wasn't quite the same.
+
+She sighed. There was little to be done about it now, and if nothing else, perhaps the greatest of their troubles would be over soon. The Aspect Cascade had plagued them for too long now, but assuming Kazza succeeded in his mission, they would be in a far better position.
+
+Granted, that was a pretty big assumption to make.
+
+Kazza had reached out to the elders earlier, but while Halia and the others had tentatively approved, none of them had quite allowed themselves to believe that the foolhardy plan he was proposing would succeed. They moved their own people as requested, but they didn't bother to explain to the others why they were moving. None of them wanted to get anyone's hopes up, and far too many mages had already promised they could end the storm. This would more likely than not be another in a long line of failures.
+
+There was a bit of an argument over it, of course. Allowing mages to mess with a disaster as great as the Aspect Cascade had every chance of simply making it worse, and Kazza's claims about what this new mage could do were simply outlandish. A few of them were convinced that he'd simply been tricked by some sort of illusory magic, but then a few of their scouts had caught wind of the massive fortress moving at speed through the sky.
+
+Halia hadn't known what to think. That was one of Angus's legends, suddenly come to life. What that meant for them she wasn't sure, but it made the wound of his absence ache like it was fresh all over again.
+
+On the other hand, what better way to honor him than to allow this? If he was here, he would almost certainly have said the fortress was a sign that the legends were real, and that it was a sign they should put their faith in the Wanderer. Two years ago Halia would have dismissed it outright, but far stranger things had happened now, and Kazza's tales of a suspiciously competent mage felt almost painfully familiar.
+
+The other elders agreed, albeit for a different reason. They simply decided that it was better safe than sorry. Regardless of whether this mage was going to succeed or not, standing in the path of that fortress was the height of foolishness. Certainly many of the younger members of their clan—those who had grown up listening to Angus's stories—were in awe at the sight, and Halia didn't have the heart to shoot those hopes down any more than she could her own.
+
+Most of the others, she knew, had far more muted hopes. They were mostly hoping this wouldn't make things worse.
+
+"The timing is unfortunate," Orzo said, the elder lizardfolk tapping his staff on the ground with visible irritation. "If these mages fail to end the storm, it would likely break us. We will have no choice but to surrender ourselves to the Orstrahl Kingdom's whims."
+
+"We already have little choice but to do that," Nizir pointed out. She was staring over the horizon in the direction of the Cascade, though there were only a few clouds visible from where they were. "Young Kazza has given us an option we did not have before."
+
+"An option that might make things worse," Orzo grunted, although he didn't refute her point. Instead, he let out a deep sigh. "Forgive me. I am... agitated."
+
+"As you should be," Razak said. The third elder looked the most disgruntled of them all, and wasn't even at his seat; instead, he stood leaning against the walls of their makeshift meeting hall, the sand digging into his scales. "Our problems do not fade even if Kazza and his mages succeed. Ending the Cascade will only put us on even footing with the other clans."
+
+Most of the other elders winced at that, mostly because it was true. Halia was the only one not to flinch, but even her gaze was troubled. "Orstrahl claims they know the cause of Illwyld's troubles," she mused. "Even beyond the solution to the Aspect Cascade, they claim they can end the problem that all the clans are facing."
+
+"The last clan to accept their offer of help disappeared," Razak said darkly, and the mood at the table visibly shifted at that.
+
+They knew it was true. The mothfolk of the Ethereal Field had found their usual prey becoming increasingly incorporeal, impossible to catch in their usual traps and certainly not nourishing even when they could be caught. Even the plants they fed on were apparently set to fade out of existence, for all that it defied logic. They had been the first to agree to Orstrahl's offer of 'help', and then the entire clan had up and vanished overnight.
+
+Hope was at an all time low for the beastfolk clans of Illwyld. Aside from the looming presence of the Aspect Cascade, they faced much the same problems all over the continent—the food they relied on was becoming increasingly scarce. The serpents of the Silver Shores spoke of their fish becoming increasingly poisonous, until even their robust systems could not digest the flesh; the avians of the Strangled Jungle found their own home turning increasingly against them, the vines they had once coexisted with now threatening to choke them out without ever-increasing tithes of blood and magic.
+
+"Orstrahl continues to deny any involvement with the mothfolks' disappearance," Halia said tiredly, but she knew they could tell she agreed with them from the way her tail dragged low in the sand. "But I believe we are right to distrust their motives, and so I would ask that we put our trust in our young ones for now. If we reject every option available to us, we will be left with nothing."
+
+"Some of our own are still working on it," another elder said restlessly. Halia gave him a pitying sort of look and didn't bother to respond. The elders that insisted on involving no outsiders at all were the ones most tiresome, especially given this was a problem created by outsiders in the first place. She was hardly going to refuse their help, Orstrahl aside.
+
+"Kazza will proceed," Halia said authoritatively. "We will not interfere. There is every chance this will push us further toward our end, yes, but we will not meet that end like cowards, hiding from every option for fear that it will make things worse. Is that clear?"
+
+There was a muttering chorus of agreement.
+
+Halia had her own thoughts about what was happening, of course. She had lived for longer than most of the clan—women among the lizardfolk always did, though Angus had lived surprisingly long for one of their men—and she had witnessed the pattern in full. It felt very much like the Illwyld itself was coaxing them toward something. As the availability of their resources fell, the beastfolk clans were all gathering into an ever-shrinking region of safe territory.
+
+All while the life that ordinarily flourished in their home grew more out of control and hostile. Halia was almost certain that was proof of intent, but what that intent was, she couldn't be sure. She did know that if things continued as they were, they would likely be pushed into fighting for survival, and the lizardfolk of the Golden Sands were worse off than most when it came to that. If they had the Aspect Cascade at their backs while a war brewed in front of them, then they would have no chance at all to survive.
+
+They needed this to work. Even if the hope Kazza offered them was a small one, it was one they needed to take.
+
+She left the meeting hall and made her way to the sand that marked the edge of their territory—for now, anyway. The magic they used to move their homes around the desert made their territory despite the beasts that lived beneath the sands, but it was a fragile sort of magic. If things kept going the way they were, she suspected that even that would fail, and the ictharian sharks would gain the ability to break into their homes to feed.
+
+She could see the edge of the Aspect Cascade from here. It would be enough to track what was happening, and to move her people if it became necessary. There were scouts to do this, but Halia felt it was her duty: she had the final word on it, after all.
+
+Though she allowed herself a wry smile at that thought. The elders believed they and she had the final word on it, but in all likelihood, even if they had refused, Kazza would have gone ahead with the plan anyway. She had heard the conviction in his whispered message, and that, more than anything else, made her believe this would work.
+
+Some of the elders joined her, though she suspected it was more out of anxiety than a true sense of duty. Together, they kept watch, staring over the horizon.
+
+Until the sky began to darken. The pressure began to grow. Far away from them, still, but they didn't need to be close to see the power suddenly pouring off the Cascade. Visions of the primal mana aspects themselves flashed within the storm, making some of the others around her wince and cry out in fear.
+
+"They have failed!" one cried. "It was foolish of us to trust a youngling—"
+
+"Quiet, child," Halia snapped, and the youngest of the elders turned to her, outraged. She snorted. He was barely into his hundreds. "Do you not see? The storm has not moved. They are still working on it."
+
+She said the words with conviction, though in truth she was a lot more worried than she pretended. She spoke a message into the [Whispered Breeze], but she could tell even on the attempt that her attempt would not even get close to Kazza; whatever this was, they were on their own.
+
+Halia would just have to have faith. Strangely enough, she found that she did.
+
+Her thoughts wandered back to Angus, whose advice she would most dearly have wished for at times like this. The two of them had never fully reconciled their differences, in truth. Even in his old age, Angus was very much a child, one that loved the legends and folklore carried by their clans. Halia had greater problems to worry about, and had to put the clan ahead of dreams and hope.
+
+But that was the same kind of hope she sorely missed now, surrounded by others who were more fearful than not. It was her turn to hold the beacon of it in his stead, and now that it was on her to do so, she found she missed the solidity of his company.
+
+Perhaps she should have made her move on him when she still had the chance.
+
+But it was too late to think of such things, and the best she could do was carry that beacon in his absence. She liked to think that he would have thought of all this as an adventure, of sorts. The clan of the Golden Sands fighting against a mighty storm, only to be rescued by a mysterious stranger? It would be just like one of the legends he loved so much.
+
+Though Halia herself didn't like the idea of relying on a stranger, she recognized the hope that the Wanderer's legends brought. It was, in a way, part of their clan.
+
+Then the storm began to lighten. Halia's eyes widened slightly, her tail stilling in the sand. The sound that echoed across the desert—that crackle of haywire magic—grew less thunderous, and both the clouds and the primal elemental aspects faded from the sky, piece by piece, until eventually a feeling she had thought long gone grew in its place.
+
+"What..." the other elder said, lost for words, and Halia allowed herself to smile.
+
+"Perhaps, Izin, it is you that should put greater faith in our younglings," she said lightly. "They are the future of our clan, after all. And it seems one of them has now made our future that much brighter."
+
+The skies above the Golden Sands were bright, without a hint of the Aspect Cascade anywhere on the horizon.
+
+For the lizardfolk clan of the Golden Sands, this was a miracle two years in the making. Many of them had no idea what to make of the sudden change in their circumstances. They were glad, of course, but there was a feeling that accompanied it—the worry that none of it was real, and that they would be met by something worse when it was done. Two years of running from the Cascade had taught them that calm sands and clear skies was something to be wary of.
+
+And yet nothing happened, even as the seconds continued to tick past. A wary sort of relief slowly began to trickle into their hearts as they allowed themselves to believe that the nightmare of the storm really was over.
+
+The silence alone was something the lizardfolk of the Golden Sands were unused to—for too long, the storm existed on the periphery of their hearing, its thunder echoing with every strike of errant magic. Now for once there was only wind and sand, and with them, relief they had not known for years.
+
+Then Kazza reached out to all of them, his words dancing along the breeze, this time bright and relieved. Perhaps with an undertone of something worried, but none of them noticed quite yet save for a certain matriarch.
+
+The Aspect Cascade is ended, he said. And we will be safe from its threat forevermore. We will be returning with new friends and a spell we thought lost to us, although the Wanderer asks that we help bring his friends back to their Academy with it.
+
+A small hesitation.
+
+Also... One of the elders we thought lost is not, and he will be returning with us, he added. He will look different from what you remember, but do not be frightened. We will explain everything we can.
+
+Murmurs erupted across the clan. An elder that they thought lost? How could one of their elders possibly have survived in the desert alone, and why would he have wanted to? The only one that always kept himself out like that was—
+
+The clan matriarch interrupted their thoughts with the greatest display of emotion they had ever seen from her. Something like a broken sob as she stared into the distance, like she saw something no one else did.
+
+And before anyone could stop her, she rushed forward into the sand.
+
+The Red Commander laughed in delight as he was blown backward through a mountain, several of his bones shattering in the process.
+
+What a battle! Against a Greater Indictment, no less, without any of the tools he normally had prepared to fight against something of that magnitude. He had sent Lifsauhn back before their battle could start in earnest, of course; the dwarf wouldn't be able to handle a fight of this magnitude. He himself would be fine, of course, though he wasn't entirely sure if he could defeat the Indictment.
+
+That didn't matter so much. More important was the fact that his opponent had an absolutely fascinating set of abilities. Or perhaps it was just a single one applied creatively? He wasn't quite sure yet. Identifying what these things did had never really been his strong point.
+
+The Red Commander had been expecting to summon a Greater Indictment from the moment he decided to cast that ritual spell. The realms always did seem to protest whenever he indulged in the occasional compounded mass slaughter. Mass slaughter in and of itself wasn't usually enough to trigger one—that sort of thing happened all the time—but something about doing necromancy to commit even more slaughter was apparently offensive to the realms. Why this was the case, he had no idea.
+
+But he was really more interested in figuring out how to turn the Indictment into one of his Sentinels. Especially if he'd be fighting Yggdrasil's End anytime soon, though he was hoping for about a week or so to prepare.
+
+Then the Red Commander tilted his head, as if sensing something wrong, and frowned. Perhaps it was more critical that he capture this Indictment than he thought. It seemed someone had managed to break the seal on his Red Knight. But a mage capable of breaking that seal...
+
+He brightened. "Ah, Yggdrasil's End," he said, practically singing out the words. "Now that I know you're here, this is your doing, isn't it? You've stolen my Knight. But I still have so many pieces in play!"
+
+"You speak nonsense," the Greater Indictment across from him said coldly. He was a tall, wooden thing—no doubt some idol that the people of Idefel had once worshipped. It was no surprise that it would become the focal point of the realm's power and turn into an Indictment, but for a worshipped idol, it had quite the strange power indeed.
+
+"Those villagers must have had a truly fascinating set of beliefs, to create something like you," the Commander said with a chuckle. "They didn't even worship a true divine, did they? You must be, what, some kind of false idol they put on a pedestal?"
+
+"I do not care for your questions," the Greater Indictment intoned, and the Red Commander almost pouted, even as it caught him by the wrist and slammed him hard into the ground. The impact shattered his ribs even through the barriers and armor he wore and he laughed again, ignoring it; his magic quickly got to work repairing him, like it always did.
+
+"You Greater Indictments never do," he said jovially. "You're all so boring. Except for your powers. Those are always interesting, did you know that?"
+
+The Indictment didn't respond. Instead, he clapped once, and his form shifted. The tall, thin form was good for speed and had a deceptive amount of strength, but this new one was strangely blocky.
+
+"Oh?" the Red Commander said. "What will you be stealing now?"
+
+The Indictment grabbed at him, and the Red Commander watched as his armor broke off like it was made of putty. Before, that tall, thin form had swiped at him and stolen the speed and strength he granted himself; now it was doing the same with his armor... this thing was brilliant. It was practically made to be his pet.
+
+"You might not want to put that on," the Red Commander said, but the Indictment ignored him, and he chuckled. The melted-putty armor flexed and rippled across its body.
+
+Then it froze in place, staring at him. The Red Commander smiled brightly. How convenient! He hadn't even needed to lure it back to camp.
+
+"I put a great deal of control magic into my armor," he explained casually. "It's a good precaution. Means I can move how I want even when my bones are broken, which is just the sort of thing a flesh mage needs. It works pretty well with abilities like yours, too. What do you do, absorb concepts from things?"
+
+The Indictment didn't answer, mostly because he hadn't willed it to. "Mind you, I doubt that would've worked as well if I wasn't me," the Red Commander continued. "But I am. So... kneel for me, won't you?"
+
+The Indictment shifted stiffly, like it was fighting the command, but even that small piece of armor it had stolen contained too much of his mind. And the Indictment, after all, had little to no experience with having a mind at all..
+
+It knelt.
+
+"How lovely," the Red Commander said. His fingers twitched, and without glancing at them, he sliced them off, letting the severed pieces drop into the ground. Blood flowed freely from the stumps before they sealed off, new fingers growing in their place, and he raised a hand to give his new Sentinel a fistbump. "See this? If you don't like something, you just cut it off and grow something new in its place. The Red Knight was getting boring, anyway."
+
+He hummed for a moment. "I wonder which one of you gets hierarchical precedence," he said. "I suspect I'll be meeting Yggdrasil's End by the end of the week. Think you can steal something from him for me then?"
+
+The Indictment gave him a stiff nod, not having any other choice, and the Red Commander laughed.
+
+"Excellent."

@@ -1,0 +1,162 @@
+---
+id: 384ba0a1-fc67-51d3-bfde-e37b63398f51
+page-type-slug: story-chapter-royal-road
+title: "140 — Book 3, Chapter 39 —Symbolic Weather"
+partOf: just-add-mana
+position: 143
+ownLength: 2618
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3448605/140-book-3-chapter-39--symbolic-weather"
+royalRoadId: "3448605"
+---
+
+Cale was a little bit concerned about Damien and Flia, he had to admit.
+
+He'd been delighted when they stepped in through the door, mostly because the longer these classes went on without the two of them, the more wrong it felt. He was almost at the point of trying to find a way into the Fog just to reunite with them before continuing with any of their classes. As much as he loved learning new things, it just wasn't the same without his apprentices there to make a snarky comment or two.
+
+But something seemed a little... off. And not just because they'd both managed to manifest their first drop of palewater—in fact, they were both rightfully proud of that feat. It was more that Damien seemed strangely distracted and even more fidgety than usual, and Flia seemed kind of pissed.
+
+"You alright?" he whispered, and Damien flinched before responding, which was how Cale knew that something was definitely wrong.
+
+"I'm fine," Damien answered, though he hesitated for a moment before answering. "Just... there's a lot on my mind, that's all."
+
+"Anything you need to talk about?" Cale tried not to push too hard, since Damien tended to shut down if pushed. Damien spent a moment or two thinking about it, which Cale appreciated, before he finally shook his head.
+
+"Not yet," he said. "I don't have all the pieces yet, and this class sounds really cool, from what you told me. But, um, maybe after classes? If that's okay?"
+
+"Of course it is," Cale said, smiling at him, and they both turned their attention to Instructor Phlogis, who had taken center stage.
+
+Thankfully, the introduction of two new students hadn't fazed him as much as Cale had been worried it might have. He seemed to consider them both a part of Cale's group, and he'd become comfortable with Cale in the time the other two instructors had spent giving their respective lectures. That, apparently, was enough for him to begin his own lecture with his usual enthusiasm.
+
+That, or he really liked talking about this aspect of alchemy.
+
+"Okay," Phlogis said, straightening. "Symbolic weather! Must take weather into account when performing alchemy. Also when growing ingredients. Weather is big symbolic influence, like natural form of environment alchemy."
+
+Katerina nodded in agreement. "There are some theories that suggest there are massive environmental anchors embedded deep within the realm," she added. "It would explain some of the more magically anomalous weather we've been having."
+
+"Like the dragon rain?" Cale asked. Flia gave him a strange look, and Cale remembered that neither she nor Damien would have any idea what he was talking about; he mouthed quickly to her that he would explain that later, after class.
+
+"Yes! Dragon rain," Phlogis agreed. "Dragon rain is magic weather. Magic weather is—symbolic contamination. Collection of symbolic contamination. Messy. Difficult to perform alchemy during magic weather. Also difficult to cast spells during magic weather."
+
+Cale nodded; that made sense. If the magic of this era was contingent on symbolic meaning, then chaotic weather that carried its own symbolic associations would undoubtedly mess up any attempt they made at magic. They would have to adjust every spell system and potion recipe to account for it, and depending on the weather in question it was possible there was no way to account for it.
+
+"We talk about types of weather first," Phlogis said, oblivious to Cale's thought processes. "And we talk about ingredients! What to do with your ingredients. Suggestions? Marcus?"
+
+Marcus—Cale had to remind himself that this was Phlogis's apprentice—startled, apparently not expecting to be called on. "Uh," he said. "Enchant the greenhouse with a symbolic neutralizer?"
+
+"Yes, yes," Phlogis said, nodding rapidly. "Good. But standard! All greenhouses come with neutralizer. But what if no greenhouse? What if loose ingredients? Lyubomyra!"
+
+Another one of Phlogis's apprentices, Cale guessed. She seemed more prepared than Marcus had been, because she responded quickly and sharply. "Normally, you'd try to use something symbolically opposed to the weather. If that isn't an option, you can create a temporary neutralizing field by mixing balepowder with holy water and sprinkling the result on any ingredients that might be vulnerable to contamination."
+
+"Very good!" Phlogis said, and Cale noticed that he was proud of his apprentices, grinning at them while he spoke; they seemed to be getting into a rhythm. "Why balepowder and holy water neutralize? Ramses!"
+
+"Balepowder is symbolically associated with the infernal, and holy water is symbolically associated with the divine," Ramses replied. "That interaction creates a symbolic neutralizer, although we don't know why yet."
+
+"You not know why," Phlogis shot back. "I tell already. Incompatible contamination creates neutralization!"
+
+"We don't know that," Ramses argued, but the man was grinning, too, his hands in his pockets. Cale had the feeling that they'd had this argument before. "There are plenty of incompatible symbols that don't create this neutralizing field. Our best symbologists are still working on understanding it!"
+
+"Symbologists stupid," Phlogis said, drawing a snort of laughter from his apprentices and a disapproving (but amused) expression from Instructor Tajia. "Symbols they test not incompatible! Just resistant. Need catalyst to force association, create symbolic evolution."
+
+"Which doesn't exist yet," Ramses said.
+
+"Because symbologists not invent them yet," Phlogis said, huffing petulantly (and while Cale had seen many things in his many lives, witnessing an animate pile of laboratory equipment huff petulantly was a new one for him. He quite liked this man, he decided.) "Too slow. Cannot hear music."
+
+"You're still the only one who can hear that music, sir," Ramses pointed out.
+
+"No! New human can also hear." Phlogis pointed at Cale, who adopted his most innocent expression as all three of the glass-man's apprentices turned to stare at him with exasperation. "Am right, see?"
+
+"You're not just getting his hopes up, are you?" Marcus asked, clearly protective of his mentor.
+
+"He wouldn't do that!" Damien said, immediately defensive in turn. Cale laughed and held up a hand before it devolved into any more of a fight between the two groups.
+
+"He's right, I wouldn't do that," he said. "But I guess you have no reason to trust me. You'll have to take my word for it; I can hear it too. Maybe not as well as he can, but I did just learn how to do it."
+
+Lyubomyra stared at him. "...You will teach us," she said, like she'd decided it already.
+
+"Ah, well." Cale paused, squinting at the three humans. "I'm not sure it can be taught? I mean, I can try after the dragon rain..."
+
+Cale hesitated. He had been about to say that he would teach them after the dragon rain, which was presumably their current "goal" as far as the dungeon was concerned. He wasn't certain if the pilgrimage was still in effect, given the spell he'd cast, but even if they were now in the true version of this realm, the dungeon's conditions seemed largely still in effect.
+
+There was a good chance that after the dragon rain was dealt with, the realm itself would speed up around them until they were deposited into the next event the dungeon considered noteworthy. And Cale felt a little guilty, lying to them like that. Not that it was a lie, exactly, but if he made that promise knowing he might be whisked away...
+
+These three were determined to do this, he could tell. They wanted to be able to relate to Phlogis, presumably because no one else believed their mentor about this. Cale knew a little about what that might be like.
+
+"I'll write a note," he said. "I don't know if I'll be around tomorrow, but if I'm not, I'll leave something with Administrator Branch. Can't promise you'll be able to figure it out just from what I tell you, but it might be a start."
+
+That was enough for them, apparently. The three apprentices nodded, satisfied.
+
+"Am right," Phlogis repeated proudly, and Cale chuckled. "Good! Ingredients handled. Now we talk about weather types. Most common magic weather is bluewinds, followed by brightclouds, then midnight sun and hellfog. Many more. Those just most common. Can expect once every three months at least."
+
+"Two of those sound a lot more threatening," Flia muttered.
+
+Nearby, Marcus—who had been glancing occasionally at Flia—took the opportunity to jump in. "Hellfog is the worst," he said. "The infernal symbolism makes any spells backfiring a lot more dangerous, and also a lot more likely to summon demons. It's just the fog version, though, so it could be worse. The fog version usually just summons, erm, demonic frogs."
+
+"Demonic... frogs," Flia repeated flatly. Marcus nodded again, this time a bit more sheepishly.
+
+"Rhymes with fog," he said. "It's not a strong association, but everything matters when it comes to magic, you know?"
+
+"Right," Flia said doubtfully. "Not used to magic here yet, I guess. Thanks, I appreciate it."
+
+Marcus beamed.
+
+After that, Phlogis went on to explain how symbolic weather was predicted and the various effects they could have on top of the impact they had on spells and ongoing magical effects. Bluewinds and brightclouds were both relatively benign, and did little more than what their names implied—the former made everything seem more blue, and the latter filled the sky with shining silver clouds.
+
+Then there were the more dangerous forms of symbolic weather. The midnight sun was similar to a solar eclipse in appearance, but was so symbolically dense that it altered the fabric of time for anyone that looked directly at it, quite literally freezing them in time.
+
+One had to be very careful not to look at the sky during a midnight sun, because a glimpse alone could very well cause decades to pass. Mages had not yet identified a method of freeing someone from its effects once they were caught under the effect. Cale winced at the thought of it, though dangerous as it was, he could see a few ways that effect might be used for the benefit of mages.
+
+Then Phlogis moved on to demonstrate, and Cale sat up, intrigued. The alchemy instructor drank a variety of potions he had apparently prepared ahead of time and prompted each one to flow through the tubes and vials that made up his body. He made a few rapidfire modifications as they did, boiling one potion or freezing the other, collecting the distillate to mix in with others while depositing the waste out through his wrist—
+
+—until at long last a cerulean-blue potion glowed brightly in his chest. This one sang loudly, if Cale listened to his mana sense. It felt like it somehow contained a piece of the weather itself.
+
+"Brightclouds," Phlogis said shyly. He opened a door in the glass chamber of his chest, one that Cale hadn't even noticed was there, and the instant it made contact with the air, the potion congealed and jumped out.
+
+It shot up toward the ceiling and began to dissipate into silvery streaks of glowing light that shone down on the class. They grew brighter and brighter, coalescing and intertwining until it looked almost like he was staring up at the surface of the ocean, roiling in waves above them. Where the waves crashed against one another or against the corners of the room, bright sparks of light burst out and rained down upon them in glimmering motes.
+
+Cale whooped in delighted awe while his apprentices looked around in wonder, and Phlogis's own apprentices weren't far off.
+
+"Phlogis, you figured it out!" Ramses said, laughing excitedly. "You actually did it! You bottled the weather?"
+
+"Yes," Phlogis said, clearly proud of his feat. The light from the clouds glimmered off the vials and beakers of his body. "Your instructor is first weather-bottler."
+
+"Badass," Lyubomyra declared.
+
+"I vote Phlogis for the next Headmaster," Marcus called. The other instructors rolled their eyes good-naturedly, though Cale suspected Marcus wasn't actually kidding. He grinned.
+
+They took a short break there, basking in the wonder of the shining clouds before they slowly began to dissipate. It was only once they dissipated completely that Phlogis resumed his lesson, and the room quickly sobered as they realized what he was about to explain.
+
+Dragon rain.
+
+The school didn't yet know that the storm coming tomorrow would be far greater than they anticipated, though word of Hikari's prophecy was undoubtedly starting to spread. If Cale had to guess, he would assume that the instructors were talking to one another quietly, trying to avoid a panic but otherwise make sure they were prepared. Likely no amount of preparation would be enough, or else the dungeon would not have sent them here as the challenge.
+
+That meant that their job was to learn as much about the upcoming dragon rain and the capabilities of the University's mages as they could, so they could mount the most effective defense. Cale could, of course, simply cover the entire University in one of his barriers, but somehow he doubted that it was going to be that easy.
+
+It would all depend on what dragon rain was.
+
+"Dragon rain is death of dragons," Phlogis started. Cale narrowed his eyes at this, and beside him, Thorn immediately stiffened. Professor Graystalk frowned slightly. All four of his apprentices glanced at one another, and Leo silently flipped open a new notebook, pencil poised to take notes. "It is blood of dragons. It is blood of extinction. Dragon rain not random. It come every nine years, like clockwork. Not known why yet.
+
+"First thing to know about dragon rain. Rain is not real dragon blood, but it is... symbolically draconic. Caustic. Burns everything. Metal, wood, ground." Phlogis tapped his arm for emphasis. "Only glass safe. But glass not enough."
+
+"Not enough?" Cale's brows furrowed.
+
+"Liquid from rain has stages." Phlogis seemed to struggle to find the right word, rattling inexplicably with some distress until he came to a conclusion. "First is burning. Liquid eats through things. Next is metamorphosis. Liquid changes, turns into monsters."
+
+"And when you say monsters, what do you mean, exactly?" Flia had Sabri in her lap—Cale didn't even know she'd brought the shadeling along with her. Had that been here this entire time?
+
+"Meaning monsters," Phlogis insisted, seeming to guess at her meaning. "Dragons, but... empty. Most have no mind. Attack everything, even friends."
+
+"Some of them are recognizable," Marcus added quietly, and Phlogis nodded, grateful for the elaboration. "We have a few draconic heroes in our history, and we've seen shades of them in the dragon rain. They don't seem to have anything of themselves left, and they don't recognize everything that they should."
+
+"Rain is bad song," Phlogis said. "Bad, bad song. Not as bad as other song, but still bad."
+
+That answered the question about whether Phlogis was just hearing the upcoming dragon rain. If it wasn't that, then more likely than not, that song he heard was what Adam was warning everyone about—the end of the human species, still well on its way. Even now, Cale had no idea what might have caused it.
+
+"Question," Thorn finally rumbled, and the way he did it, the whole room turned its attention to him. "The state of dragons in this world. What is it?"
+
+Ah. Thorn glanced at Cale, who shared a look with him. That was the question, wasn't it? By all accounts, dragons should not have gone extinct yet, but Phlogis spoke of them as if they had, or at least as if they were close to it.
+
+Blood of extinction. What exactly did that mean?
+
+Cale fingered the vial of draconic essence in his pocket, and though he wasn't certain, he thought it felt warmer than it had been before.

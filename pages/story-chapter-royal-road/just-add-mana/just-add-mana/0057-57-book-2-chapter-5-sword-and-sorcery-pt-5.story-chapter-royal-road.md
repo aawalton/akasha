@@ -1,0 +1,199 @@
+---
+id: e216a162-b24d-5433-b151-865d55b7ee4f
+page-type-slug: story-chapter-royal-road
+title: "57 — Book 2, Chapter 5 — Sword and Sorcery, Pt 5"
+slug: 0057-57-book-2-chapter-5-sword-and-sorcery-pt-5
+partOf: just-add-mana
+position: 57
+ownLength: 3217
+unit: words
+ownProgress: 3217
+publishedAt: 2025-11-06
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2737641/57-book-2-chapter-5-sword-and-sorcery-pt-5"
+royalRoadId: "2737641"
+markedReadAt: "2026-06-29T18:49:32.484Z"
+---
+
+The stench struck them long before they arrived at the chamber Sternkessel was apparently rampaging in, and if there had been any doubt about Serof's claims before, those doubts vanished as soon as it hit them. Damien and Leo's faces both turned ashen, and though Syphus had no sense of smell of its own, it could clearly tell that something was off. Its lone eye dimmed as it glanced around.
+
+Cale didn't slow down. If anything, he sped up. This was nothing he hadn't encountered before, and he'd long perfected the art of compartmentalization. It helped that here at the source, the air was practically choked with corrupted mana, and it was easy to focus on that instead of... everything else.
+
+Whatever ritual the Red Hunters had used to revive the Loomweavers was yet another example of magic that had been sealed long ago. The creatures they had used it to bring back were empty husks in all but name, though Cale sensed a small remnant of their souls lingering about them.
+
+That explained why the ritual had still been enough to bring Sternkessel's nature as a Greater Indictment to bear. Cale winced at the sight of him. His once-pristine suit was torn half to shreds and slicked black with blood, and the golden lustre of his metal entirely gone. Instead, jagged, cruel-looking spikes adorned his rings.
+
+He had grown, too. Sternkessel's height had more than doubled, but his spine was now twisted unnaturally, forcing him to move on four limbs instead of two. And those limbs hadn't emerged unscathed, either; they were too long now, bent at cruel-looking angles like several additional joints had been added to each limb.
+
+Leo vomited. More because of everything else in the room than because of Sternkessel's state, Cale supposed. The good news, if it could be called good, was that most of the gore in the room was unrecognizable.
+
+The bad news was that Sternkessel was most definitely not himself. The hatred and desperation oozing off him was palpable, strong enough to leave a visible imprint on the mana around him. That was, at least, a sign that there was something left of their professor in there—if he had succumbed entirely, it was far more likely they'd be faced with something... emptier.
+
+Cale had fought Greater Indictments before. They could be tricky opponents, depending on the abilities that their natures granted them, and even worse was the fact that they couldn't be thrown off-balance; their battles, when they had them, tended to have repercussions on a continental scale.
+
+If he had been anticipating that kind of battle, Cale would have long sent his apprentices and Solsburn back to the academy, but the situation here was a little different. The battle their professor was fighting internally manifested outwardly as a sort of distracted aggression. Cale held no illusions about avoiding a fight entirely, but if he could just find a way to calm Sternkessel down—
+
+Sternkessel was, of course, not going to give him the chance to think. He roared at them, rattling fiercely, and swung a limb of twisted metal at the five of them. Cale grimaced.
+
+"Move!" he snapped, throwing himself out of the way. A surge of broken mana followed up the swipe, tearing through space and leaving behind a vacuum of air that would have sucked him back if he hadn't slammed a barrier into the ground to anchor himself.
+
+Fighting against someone with a spatial domain was such a pain. If they weren't doing it within the spatial cube, it would have been even worse. Even without the ability to freely teleport them, though, Sternkessel's attacks were dangerous. Cale's preferred method of dealing with this type of thing was to create a barrier of mana so dense it warped the space within it, but...
+
+Well, the spatial cube was strained enough as it was. Throwing mana around unrestrained would only make things worse. No—if he was going to use a ridiculous volume of mana to resolve this problem, he needed to keep it constrained.
+
+His fingers twitched over his grip on the sword Solsburn had given him.
+
+Cale hated using swords. That hatred had developed a long time ago, admittedly, and he'd long since allowed the skills he developed with a blade to rust. He didn't have all the muscle memory he'd developed through training, either, nor could he simply pull out the heights of his talents at the drop of a hat.
+
+But some things—the very basics, at least—were difficult to forget, and with the Gift flowing through him, he'd regained something. Around the same time his apprentices had learned it, in fact.
+
+You have learned [Steel Sorcery]!
+
+Cale raised his sword, and it began to glow with a bitter light. He poured his mana into it until he felt the enchantments that held it together began to bend and strain—and what a surprise it was that it held so much of his mana. The sword drank it in with greed until it shone with the kind of light that only a true prismatic mage could wield.
+
+Solsburn's breath caught.
+
+"Keep him distracted," Cale called out, and to their credit, nobody hesitated. They knew what was at stake here. Then he turned to Sternkessel, who had hesitated upon seeing the light of his blade. "I'm not here to hurt you, you know. You have a promise to keep."
+
+Sternkessel simply shrieked threateningly at him, then raised a claw once more—
+
+—only for Syphus to fire an upcast [Burn] at the offending limb. It didn't do a thing to him, obviously, but it made him flinch just enough to throw off his aim. And then Leo was casting a spell to keep him contained, a mess of labyrinth mana rising up around Sternkessel to create a barely-coherent interpretation of space around him. Damien reinforced the spell with thin threads of decay, relying on the inherent, primal fear of decay that most beings had.
+
+Neither of those things actually stopped Sternkessel for more than a split second, and Solsburn had to intervene almost immediately after. He used his blade to cut through the spatial distortion aimed toward them, then shielded them before the detonation could send them flying.
+
+Cale had used that brief flicker of distraction to duck under Sternkessel's guard. There was very little he remembered about how to use a sword, but [Steel Sorcery] held a single basic truth. There was a reason it was capable of cutting through magic where ordinary blades could not, after all.
+
+[Steel Sorcery] could blend will and mana both. Those trained in it could supplement weaker mana cores with pure willpower and become every bit as capable as their more magically-inclined counterparts. Once upon a time, the lowly labourers of a kingdom had managed to overthrow their king's armies with that secret alone.
+
+Normally, that imbuement of will took decades to perfect. Cale was out of practice, but he didn't really need to sharpen his will here, did he? Not when this sword could handle his mana.
+
+Cale aimed and cut.
+
+Not at Sternkessel, of course. No, the true benefit of [Steel Sorcery] was its ability to cut through the immaterial, and so he aimed instead for the remnants of the Loomweavers' souls.
+
+Every moment of distraction bought for him he used to slice through another one. The greatest bundle had been attached to Sternkessel himself, lingering around him as if eager for revenge.
+
+As if Cale would allow them anything like that.
+
+When it was done, Sternkessel just... stopped in place. He didn't change back, though Cale hadn't expected curing him to be quite as simple as removing the source anyway. The kind of transformation he'd been through was of the sort that fundamentally altered one's nature. It wasn't impossible to revert, but it wouldn't be easy.
+
+Cale clenched his fists, then let out a breath.
+
+The important thing was that Sternkessel wasn't attacking them, either. There were deep scores rent into the stone of the labyrinth around him, both from the fight and from his rampage prior to it. According to Serof, their professor had been destroying everything around him in a mad rage, even when the Red Hunter and the entirety of his so-called army was dead.
+
+Serof had also mentioned that every so often, Sternkessel would unleash a wave of dissonant magic that tainted the mana around him and strained the labyrinth's dimensional bounds. That meant they couldn't just leave him here, either, not that Cale would have accepted that as a solution.
+
+Cale took a slow step forward, his gaze steady even when Sternkessel flinched back and began to growl; Cale held a hand out placatingly. "Easy," he muttered. "Remember, I'm not here to hurt you."
+
+Sternkessel stilled, and Cale took another step forward, sweeping his mana sense over the wounded Greater Indictment. Because this was a wound, though not a conventional one; the Red Hunters had managed, apparently by accident, to strike a blow stronger than any they could have struck on purpose.
+
+Though Cale wasn't sure he really believed that this had been an accident. The Hunter that had been sent here had no idea, certainly; anyone used to set this up would certainly die in the process. But did no one at the Red Hunters know that this might happen? With the number of spies they apparently had everywhere, and with Serof's reveal that they had an entire artifact dedicated to watching everything that happened in Utelia...
+
+He doubted that this was an accident. It was too calculated a move. Sternkessel was likely the foremost expert in spatial manipulation on Utelia. Any other mage would need to cast a teleportation spell, and teleportation spells could be circumvented and blocked.
+
+Sternkessel, on the other hand, possessed a domain magic that simply directly commanded regions of space as they existed relative to the stars. It was unblockable and untraceable to most mages, and if he was allowed to operate freely, then the Red Hunters would not be.
+
+Cale wondered briefly how long they'd been preparing for this.
+
+"I-is there anything we can do?" Damien asked, sounding—well, he seemed horrified, though he was doing his best to suppress that horror. His sword was gripped tightly in his hand, and both Serof and Leo were staring grimly at Sternkessel. Instructor Solsburn was keeping a wary eye on all entrances to the little chamber they were in, well aware that his students would be in no state to do so.
+
+"Use your decay mana on these bodies, if you can," Cale said. His voice softened slightly. "I know it might be hard for you, but we don't need to be surrounded by all this."
+
+Damien swallowed, but nodded without offering even a word of complaint. His hands trembled, though. Leo put a hand on his friend's shoulder, and Damien's tension seemed to ease a bit.
+
+Through all this, Cale had the unsettling sense that Sternkessel's feral form was watching him closely. Waiting for him to make a move, no doubt. Cale sighed.
+
+"If I had a cure for you, I wouldn't be waiting," he muttered. "I have some ideas, but nothing we can do in the middle of this labyrinth. We're going to have to bring you back to the academy—"
+
+Sternkessel snarled and took several steps back, his legs scuttling against the ground.
+
+"I know," Cale said. He rubbed the bridge of his nose. "The academy is an intermediary. Our best bet is to set you up in the Inverted Spires, maybe get Akkau to set up some wards just in case anyone tries to explore the place."
+
+Cale would have to provide the mana himself, though. He was under no illusions as to what a Greater Indictment was capable of. Left alone to rampage, they had the power to ravage entire continents. That they never did was simply a result of their so-called programming; in most cases, once a Greater Indictment completed its task, it would stand guardian over the place of their birth.
+
+That made the Inverted Spires a perfect containment site, of sorts, as much as Cale loathed to use the word.
+
+Sure enough, as soon as he mentioned the Inverted Spires, something in Sternkessel seemed to settle. There was a tension in the magic around him that eased, just a bit.
+
+"I did promise to help you figure out how to uplift your kind," Cale said. "Guess this means we have to get started early, huh?"
+
+Sternkessel rattled violently. Leo and Damien both took a step back, lifting their swords; Syphus raised its spell cannon, worried their professor was going to attack again.
+
+Cale just blinked. "Are you... purring?"
+
+The rattling stopped, and Sternkessel simply stared at him with what could only be described as embarrassed silence. Cale snorted.
+
+"Glad you're still in there," he muttered. "We're going to make sure the Red Hunters regret this, don't you worry about that. For now, let's just get you home."
+
+The labyrinth had settled slightly by the time they began making their way back. Without Sternkessel raging against the boundaries of the labyrinth, it was repairing itself quickly, at least in part because it had the benefit of being fueled by two containment cubes instead of a single one.
+
+Cale kept his thoughts about that particular fact carefully blank. One never knew who was watching, especially in a space that had so recently been under Red Hunter control. Once they were back in the academy, he could get Imrys to make sure the artifacts were properly bound to Brightscale, and then he could be more open about his plans. Until then, he would say nothing.
+
+Every so often, a particularly brave monster would approach them. Instructor Solsburn dispatched them with ease, apparently sensing that this was not the time to try to make sure his students got an education in swordsmanship.
+
+Cale appreciated it. Some glimmers of memory were starting to return, there. How long ago had that been? It was terribly rare for him to meet someone twice across his lives, and often these were moments that he treasured, but Solsburn...
+
+Well, Cale would have preferred not to remember that particular life or what he'd encountered within it. The kingdom Solsburn protected, empty or not, had been monstrous.
+
+Time changed all people, though, and Cale knew more than most that the paladins and knights of that place had little choice in the matter. He didn't hold anything against him.
+
+Besides, he had far bigger concerns at the moment.
+
+The trek back to their dorm was mostly uneventful, outside the monsters. Leo gave attuning himself to the labyrinth a shot, but with everything that had happened, his heart wasn't in it. Cale appreciated the attempt, anyway.
+
+As if the labyrinth itself could sense the mood, the final stretch of the route back was marked rather unusually: not by monsters or any new puzzles, but by rain.
+
+Or more precisely, a minor distortion storm. Cale said nothing, but he had them linger in that rain for as long as it lasted, watching as concentrated distortion magic left traces of gold behind in Sternkessel's otherwise blackened metal.
+
+It was nowhere near enough, but it did give him the beginnings of an idea.
+
+Quite a few ideas, in fact.
+
+"You are remarkably calm about this," Akkau said.
+
+Cale wouldn't have said he was calm, really. Tired would be more apt of a description. Akkau's rage had been far more violent before he eventually calmed, and Cale saw the complexity of emotion in the dragon's eyes, though he said nothing about it. He knew the regret of leaving too many things unsaid.
+
+"I don't exactly have anyone to take my anger out on at the moment," Cale said. "Serof's as much a victim of all this as anyone else is, and with everything he's told us, we're going to be able to weed out any Red Hunter sympathizers in the academy faster than ever. Both ours and the Haelforge academy, in fact."
+
+"That is... surprisingly pragmatic." Akkau watched Sternkessel pacing along the walls of the Inverted Spires for a moment, his hands balling into fists before he forced himself to relax. "I would not have expected that from you."
+
+"It's not really a good thing," Cale said mildly.
+
+"Is it not?"
+
+"Not for the Red Hunters, at least. But then we were already going to target their plans, so this doesn't change that much."
+
+"Somehow, I do not entirely believe you."
+
+Cale shrugged and kept his voice light. "For now, the best thing we can do is go back to classes as normal," he said. "According to Serof, we'll have our own Observers keeping an eye on the academy. We can't let on that we're giving him refuge. It'll take time for our messages to reach Thystrahl and for their mages to verify everything we're saying, and we need to make our own preparations if we want to help Serof free his people without just killing everyone in the Hive."
+
+"And you wish for me to handle that side of things while you... attend your classes, develop more baking spells, and sneak out for a purpose you refuse to disclose at night?" Akkau folded his arms across his chest.
+
+Cale glanced up at him. "Has anyone ever told you it's very distracting that you don't wear a shirt? Why are you always going around open-robed like that?"
+
+Akkau stared at him for a moment.
+
+"Sorry. Coping mechanism." Cale didn't sound all that apologetic. "But yes. Just trust me. I know what I'm doing."
+
+Akkau let out an aggrieved sigh. "You ask for a lot," he muttered. "For me to do nothing while my—while Sternkessel is forced to live in this state. I saw that moment he chose to be more than what he was. To this day, it remains one of my greatest inspirations. To have that choice stripped away from him—"
+
+His magic flared around him again, bright with anger. Cale didn't flinch.
+
+"Cyte told you what I am, didn't it?" he said. "I had no idea voidcytes could do that."
+
+"It was only able to do that because of Vekorax's curse," Akkau muttered. "What does that have to do with all this?"
+
+"I am the last of my kind, and he is the first of another," Cale said. "And he is the first to remember. The only one to remember, before you, and you might not remember once Vekorax is dealt with. So trust me. There's very little I wouldn't burn to ash to bring him back."
+
+Akkau was silent for a long moment. "I do not know if you meant that to be reassuring or terrifying," he said. "But I find myself strangely reassured, nonetheless."
+
+"You should get that checked out," Cale told him.
+
+Akkau snorted. "...You're certain whatever plan you have is going to work?"
+
+"I'm certain I'll find a way to make it work," Cale said simply.
+
+Really, there was quite a lot he could learn in his upcoming classes that would help. Baking magic aside—not that he would ever really put that aside—he was pretty excited for what was coming up next.
+
+Alchemy 101.
+
+Cale couldn't think of a better class with which to experiment with his newfound base ingredient.

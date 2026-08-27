@@ -1,0 +1,233 @@
+---
+id: d4a00df1-5b02-5fcf-b6d0-6e4d95bbfd6e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24 — Magical Geography, Pt 2"
+slug: 0024-chapter-24-magical-geography-pt-2
+partOf: just-add-mana
+position: 24
+ownLength: 4170
+unit: words
+ownProgress: 4170
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2535992/chapter-24-magical-geography-pt-2"
+royalRoadId: "2535992"
+markedReadAt: "2026-06-29T18:48:21.429Z"
+---
+
+The first thing Cale did was evaluate everything he knew about the Inverted Spires, which was precisely nothing. He'd been to plenty of other places with the same name, but none of them were anything like the sort of magical anomaly he stood in now. Most of them were fancy, towering exhibitions of magecraft, usually an upside-down conjuration of some sort of castle or fortress. It was a testament to the strength of gravitational magic, and in many cases, eventually also to the conjurer's foolishness.
+
+Mostly because there were not nearly as many architects specialized in gravitational construction as there were gravity mages eager to show off their spells. Stair railings did not work nearly as well when the direction of gravity changed midway up the stairs, it turned out.
+
+He was pretty sure the Inverted Spires he stood in now was no mage-conjured landmark, if only because there was no trace of the types of magic he would have expected out of such a thing. Cale frowned slightly, reviewing what he'd felt just moments before he stepped in. His initial impression of it had been that it was a natural magical anomaly—one of those places where certain aspects of mana collected for one reason or another, lending them strange appearances and even stranger effects.
+
+They weren't exactly uncommon across the Great Realms. Some worlds had more of them than others, but by and large, naturally-occurring magical anomalies like these outside of a magic academy weren't especially dangerous. Many had increased or reduced gravity, some suppressed certain types of magic, and fewer still did strange things like transmuting gold into cheese. There simply wasn't enough unstable or unusual mana aspects floating around to create the more dangerous variety of anomaly most of the time.
+
+There were some exceptions. Every so often, anomalies with specific, beneficial effects would manifest. There was a place in the Fellcross that was able to amplify even post-Collapse healing spells, for example, and the Brightgrove Pools that Graystalk had mentioned sounded similar. Others, like the Ironforge Mountains he'd lived in eight or nine lives ago, simply improved any attempt to forge or craft any form of weaponry within them.
+
+Cale's first impression had been that the Inverted Spires were the second type of anomaly. His mana sense had given him a feeling of warmth and relief when he first examined the boundary. Without even stepping in, he felt like he was being reinvigorated.
+
+That was the first sign that it was a trap. Regional anomalies weren't supposed to take effect until a mage was actually within the region in question.
+
+The second sign was the fact that the moment he took his attention away, his mana sense reported an unpleasant, oily sensation, almost like an aftertaste left behind from the initial sweep. Cale shuddered slightly.
+
+Which meant that this was the third type of natural magical anomaly. For whatever reason—sometimes natural, sometimes not—some places across the realms occasionally developed just the right types and quantities of mana to draw the attention of life from the Outer Planes.
+
+That was a bad thing. Beings from the Outer Planes were fundamentally incompatible with the Great Realms; where they appeared, their presence invariably caused the fabric of the world itself to begin to break down. That could lead to any number of twists in otherwise common-sense rules about the physical world and about magic as a whole.
+
+Worse, when they affected a world enough to create an anomaly like this, mana itself tended to become more unpredictable. That meant anomalies like these were dangerous even for the most experienced of mages.
+
+Not that Professor Sternkessel seemed very concerned about any of that.
+
+"Now," the professor said. He sounded a little too eager, though he was also clearly trying to hold back from expressing it. "Those of you that have attended my prior classes already know how this goes. As we have a new student attending, however, here is a reminder.
+
+"Each of you must work within teams of three. You are to learn as much as you can about the nature of the magical anomaly that suffuses the Inverted Spires while minimizing the danger to yourself and to your team. We will track your progress using a point system."
+
+Copies of Professor Sternkessel manifested beside each team, handing out what looked like a golden watch with a single hand pointing to the number three. Cale eyed it curiously.
+
+"As you can see, you begin with a total of three points," the professor said. "You lose a point if I must intervene to rescue you, though rest assured that I will do so, should it become necessary. You gain one point for each minor discovery you make, two points if you rescue another team in danger before I have to intervene, and three points for a major discovery. You must reach a total of twelve points in order to pass.
+
+"Passing teams receive a single credit of the Wing of their choice, though as usual, I recommend you focus your efforts on survival first and foremost." The professor folded his hands behind his back. "Failing teams—that is, teams that reach zero points—will be removed from the class and may attempt again next semester.
+
+"All that said, it would, of course, be impolite for me to simply throw you into the Spires without the smallest clue as to what they are." Sternkessel lifted two gloved fingers. "As a courtesy, allow me to give you the two most basic rules you must follow to safely explore the Inverted Spires. First: Do not step on the grass. And second: Never, ever look up.
+
+"As one final note..." The professor seemed far too pleased about this. "Given that we have a new student, I will be repeating my introductory lecture on the territories and landmarks surrounding the academy. I suggest you pay attention, because there will be a test, and many of you scored rather poorly last time. The good news is that I will take the better of the two results.
+
+"Now let's begin, shall we?"
+
+With that, the professor clapped once, and promptly vanished. Cale stared at the place where he'd been standing for a moment, his expression contemplative. He'd got the distinct impression that the professor was beaming at them like he was excited, for some reason? And he was almost certain he'd also gotten the impression of a wink at the end.
+
+He could also still feel Sternkessel's presence lingering around them, as if he were still watching them closely. It didn't feel like a scrying spell of any kind... he really needed to find out how the professor was doing that.
+
+For now, though, he had other priorities. Cale considered the rules for a moment, then glanced at Leo and Damien, who were both staring intently at the ground as if looking up would immediately kill them.
+
+It probably would, though maybe not immediately. Cale hadn't really gotten the impression that Sternkessel had lied about anything.
+
+"So, first things first," Cale announced loudly. "I'm going to look up."
+
+Both Damien and Leo's gazes immediately shot toward him, horrified, but before either of them could tackle him—and Leo certainly looked like he was about to do just that—Cale glanced straight up at the sky, and waited.
+
+The Inverted Spires were a difficult place to describe, physically speaking. Cale thought that if he were forced to describe it, he would probably explain that it was something like an artist's canvas torn in half, rotated, stuck back together haphazardly, and then rotated again. The horizon certainly had the look. It resembled the jagged edge of a torn painting, with more of that strange mana fluctuating along its boundary.
+
+The ground they were standing on, on the other hand, was closer in appearance to the placid surface of a lake, sky-blue and smooth as glass. That made the first of Sternkessel's rules a non-starter. For now, Cale couldn't see anything resembling grass he could step on, let alone intentionally step on it.
+
+Also, his experiences told him that breaking rules like "don't step on the grass" tended to have more unpleasant consequences than ones like "don't look up." Admittedly that particular rule of thumb only really worked for him, and he'd needed to get eaten by a few fungal monsters to be sure... But the point remained.
+
+That such a rule even existed was strange, though. Even in corrupted anomalies like these, there were almost always reasons for the rules it upheld. Grass-stepping rules were common for places that held intelligent plant life, but the Inverted Spires were, if anything, the opposite of that.
+
+The glassy surface of the ground was one thing. There were a few pristine white spires rising off the ground in the distance, but there wasn't even a hint of green on those. And when he looked up, he was greeted with the sight of what appeared to be a majestic, ornate city, stretched over the horizon in place of the sky.
+
+That probably ruled out intelligent plant life. All the plants he'd met hated overly-wrought architecture.
+
+"I guess that's why it's called the Inverted Spires," Cale remarked absently. "Looks like the ground and sky swapped places."
+
+He had no idea what he'd expected to happen when he looked up. It was probably for a monster of some kind to show up; that was how these things usually went. There were plenty of monsters and types of actively-cast magic that were affected by observation, so rules about what to look at—or what not to look at—was usually indicative of some form of life being involved.
+
+Which meant he was caught a little off-guard when he noticed what was happening.
+
+"So, don't look up," he said casually. "Just keep looking over the horizon. Does it look like the sky is falling to either of you?"
+
+"Um... No?" Damien said hesitantly. "Should it?"
+
+"Probably not," Cale said. "Just checking. It kinda looks like it's coming down to crush me right now."
+
+"It's what," Damien squeaked. Leo very visibly stopped himself from looking straight up to check.
+
+Cale, of course, ignored all this and began using the opportunity to experiment.
+
+He was relatively certain that the "sky" was closing in at about the same speed he would've been moving if he'd been the one falling toward it. Looking down or in any other direction didn't seem to cancel out whatever effect he was caught in, nor could he feel any foreign magic around him he could dispel, which was fascinating.
+
+Some sort of localized dimensional collapse triggered by direct observation? That seemed about right. There were spells that had side-effects like these, though they were often tediously complex and orders of magnitude overengineered; sometimes, that meant minor, seemingly inconsequential things could cause parts of the spell to backfire or fail without affecting the whole.
+
+He wasn't entirely convinced this was the result of a spell, though. Partly because he couldn't feel any traces of dimensional mana around him and partly because of everything Sternkessel had shown them so far.
+
+Nowhere near enough information to conclude either way, he decided. Cale stepped back toward the boundary of the anomaly and tested pressing a hand against it, only to find that it had turned into something smooth and barrier-like, with a faint sense of static. That lent credence to the idea he was caught up in some sort of dimensional effect, at least.
+
+It also meant there weren't really any trivial ways to break the effect. Cale shrugged to himself and looked up again—this was a perfect opportunity to gather information. The more the sky descended, the more details he could make out. There was what looked like the upside-down remains of a full civilization up there. He could see buildings, more of the spires (though they looked increasingly like spikes descending toward him), and a whole host of bizarre-looking ornaments and fabrics draped across the buildings.
+
+"Alright, note this down," he said. "There's some kind of city up there. I don't think I see any people, so it might be an abandoned civilization of some kind? I dunno. I don't recognize the architectural style, but I'm not familiar with Utelia's history so that probably doesn't mean much."
+
+"Um... shouldn't we be worried about the whole sky falling thing?" Damien asked nervously.
+
+"Can you make a sketch of the buildings?" Leo asked, evidently deciding to just roll with it.
+
+Cale nodded thoughtfully. "I could," he said. "Probably not before it crushes me, though. I'll get back to you on that one. Actually, one of you toss me something? Preferably something you don't mind being destroyed."
+
+Leo eyed him for a moment, then sighed and threw a pencil at him. "That's my least-favorite pencil," he said. "But I'm still going to be annoyed if it gets destroyed. Its name is George."
+
+Cale didn't get a chance to ask Leo about his pencil-naming habits, but he did observe with interest that the pencil flew straight through his hand. Leo saw it too, but neither of them got a chance to comment, because by that point the sky had caught up to him.
+
+Ground and sky crashed together in a thunderous, continent-shaking collision.
+
+Cale got to see exactly none of it, since it resulted in him being buried six feet deep in dirt. His barrier did an admirable job of protecting him from the impact, acting like a drill that parted the ground for him, but that still left him technically trapped.
+
+He wiggled a bit. Nope. He was well and truly stuck. Good thing he'd taken a breath first.
+
+"A little help, please?" he asked politely. "I don't mind if it uses up a point."
+
+Just like before, there was a blip between one moment and the next. When Cale's vision next came into focus, he was standing once more next to Damien and Leo. The only difference was that Professor Sternkessel now stood nearby, arms folded across his chest and a look of disappointment in his... rings? Seriously, how did the guy emote so well?
+
+"Foolish, to waste a point so quickly," the professor chided. Cale checked the golden watch out of curiosity to find that it did indeed now read "two."
+
+"If you give me a resource, I'm going to use it," Cale said cheerfully. He didn't buy that look of disappointment for a second.
+
+Professor Sternkessel snorted with feigned disgust, though there was a touch of barely-disguised pride and interest in there as well. "You remind me of Akkau."
+
+Cale grinned. "I am his apprentice."
+
+"Oh, do not remind me." The professor made a face, though Cale was pretty sure most of his annoyance with that was fake, too. The one thing that was real was that there was a touch of genuine bitterness in his voice. Cale couldn't help but wonder what that was all about.
+
+Sternkessel had no intention of giving him the chance to ask, it seemed, because he vanished as easily as he'd appeared. All he left behind was a lingering trace of mana, but with no apparent use of a spell.
+
+Leo stared at Cale. "Are you... going to explain any of that?" he asked after a moment.
+
+"Hm? Oh, sure," Cale said distractedly. He was already starting to make his way toward the spires in the distance, and he gestured for Leo and Damien to follow along. The other students were beginning to move, too, though they were more studiously staring at the ground than anyone else. The three kobolds had even managed to find some way to retrieve a massive hat of some kind, presumably to make sure none of them looked up.
+
+"It's a test," Cale said as they walked. "I mean, you knew that already, but it's also a test of what you're willing to make use of. He's essentially started us off with two hints and a point buy system. The whole point of this exercise is to learn as much as we can about the Inverted Spires, right? But you can't learn anything without taking risks."
+
+He gestured upward, careful not to look up this time. "Professor Sternkessel gave us three points. He could have started us off with one if he just wanted to be harsh, and two if he wanted to make sure we learn from our mistakes. Three means he wants us to take calculated risks. Even if the only thing we learn is what happens when we look up, that's still valuable information. Leo, notebook?"
+
+Leo handed him his notebook, looking perturbed. "So what did we learn?" he asked. "I didn't see anything happen."
+
+"Me either," Damien said. "You said it looked like the sky was falling? But it didn't look like anything happened, and then Professor Sternkessel showed up."
+
+"If you look up, the sky starts to fall," Cale said. He flipped the notebook open to an empty page, grabbed a pencil from Leo, and began to sketch. "You get about two minutes before it crushes you. My guess is that it's a localized dimensional collapse triggered by direct observation, but I don't know why. Some spells collapse when observed, but I don't sense any spellwork here."
+
+Cale eyed the watch for a moment, waiting to see if it would react. After a moment, it dinged almost reluctantly, and their score clicked back up to a three. Cale grinned.
+
+"And like I said, I got the chance to get a closer look at what's up there, so now we know what the buildings look like." He handed the finished sketch to Leo. "Do any of these look familiar?"
+
+Leo squinted at the notebook, then paused incredulously. "...Cale, these are terrible," he said. "These sketches look like a child drew them."
+
+Damien stood on his tiptoes to take a peek, and then—surprising even himself, apparently, considering the look on his face—let out a very un-dreadshade-like giggle. "Is that a tree?"
+
+"It's a spire!" Cale protested.
+
+"It looks like a drunken unicorn's attempt to draw an artistic, abstract rendering of their own horn," Leo said, unable to keep the amusement out of his voice. "And what is this supposed to be?"
+
+"It's clearly a house!"
+
+"It is a triangle and a square, Cale. This is how children draw houses. Have you never taken an art class?"
+
+Cale sniffed. "I don't need to," he said. Leo just snorted at him before turning to the next page and glancing through the rest of the sketches. His finger paused on one of them, and slowly a frown formed on the minotaur's face.
+
+"You're sure you saw this symbol?" he asked, showing it to Cale, who glanced at it briefly and nodded.
+
+"Yep," he said. "It was plastered all over a lot of the houses, usually woven into cloth. I got to see one up close before it smashed through me! Probably the most accurate drawing in the whole thing."
+
+Leo very deliberately chose to ignore the second part of that response and instead rubbed his chin as he examined the drawing, his brows furrowed. "Strange," he said. There was a gleam of interest in his eyes. "That's the symbol of an old noble house of the kingdom of Thyrahl. I believe they were called the Loomweavers. One of the greatest mysteries in Utelia is what happened to them—as far as we know, the entire noble house, buildings and all, just up and vanished."
+
+Cale blinked. "But if they've been here the whole time, someone would have noticed, right?" he pointed out.
+
+"The buildings look nothing like the Loomweaver palace and estate, even putting aside the atrocity you call your art into account," Leo said. Cale decided to ignore the comment. "Going by what I can see on the horizon alone, these aren't Loomweaver buildings. The Loomweavers loved color. They would have had patchwork quilts all over the place, haphazard paintings, that sort of thing. This sort of white, sterile architecture would be anathema to them."
+
+There was a small chime from the watch, and Cale took it out and examined it to find that their score had once again been raised, this time to a four. He grinned. "Looks like that counts as a discovery too," he said, pocketing it again. "But if they hate sterility so much, why would their symbol be here?"
+
+Leo shook his head. "I wish I knew," he said. And then, a little more hopefully: "Maybe that's what we're here to find out?"
+
+He seemed excited by the prospect. Cale made a small note of it.
+
+"Um, guys?" Damien's voice was timid, but he still reached out and grabbed them both to stop them from walking. "There's grass in front of us. Like, a lot of it."
+
+Cale stopped and stared at the grass. He frowned, leaning down to look more closely. It wasn't really grass, although it certainly looked like it. It seemed more like the glasslike surface of the ground had shattered and now sprouted in tufts of green-shifted fragments.
+
+"Huh," he said after a moment. Then he glanced up at the other two and raised a brow slightly. "You know what's weird about Professor Sternkessel's rules?"
+
+Damien and Leo both looked at him, slightly thrown by the sudden change in topic. "Everything?" Damien offered. Cale laughed.
+
+"Well, that's true," he said. "But I'm talking about all the point mechanics. Think about it—he has a specific clause in there for us to rescue one another, but if that's the case, why put us in teams at all? And more importantly, why isn't there a rule about not putting other teams in danger?"
+
+Damien frowned slightly and exchanged an uncertain look with Leo. "Are you saying he's trying to make us fight one another?"
+
+"Oh, nothing so simple," Cale said, standing up and taking a few steps back from the grass. "It's all about what makes a mage. What you do in the circumstances you're presented with and how you choose to take advantage of them—it says a lot about who you are as a spellcaster.
+
+"I talked about using our points to buy information, but technically, there's another way to gather points and information." Cale dusted off his pants. "That is, you could intentionally put another team in danger and make a discovery from that. All the better if you rescue them. You get to double up on the points."
+
+Damien's eyes went wide. "Is that why..."
+
+"It's happened before, huh?" Cale smiled at Damien, not unkindly. "Live long enough and you learn a lot about how other people think. That said, I'm pretty sure this time they're going to get in over their heads, so... how do we feel about giving our classmates a rescue?"
+
+Right on cue, a small spell sparked in the distance. It was almost unnoticeable, but it was just enough that another student in a different team stumbled and tipped over into the grass. At the same time, the third team ran over to 'help'.
+
+"What are we rescuing them from?" Damien asked helplessly.
+
+"That's the best part!" Cale said happily. "I have no idea. But you know what? I bet we can find a way for you two to work on your attunements while we do it."
+
+They both gaped at him, of course, but Cale was already speeding off toward the others. There was no time to waste, after all! Not when there were mysteries to be solved.
+
+Deep within the faux sky of the Inverted Spires, something with no name began to stir.
+
+It was a thing of rules. All beings of great power were things of rules, really, but this was bound by more than most. It could have no name. It could have no self. It existed only to enforce an arcane set of rules and requirements, a contract enforced over a region of space. For this alone, it existed, and for this alone it was content.
+
+It did now as it always did, growing a refracting beast from the grass that would storm away at the intruders, and it should have been satisfied.
+
+But it was not. Its thoughts—insofar as they could be considered thoughts—were elsewhere.
+
+Something beneath them had looked at it, and whatever it was had survived. Not because of the intervention of the Many-Ringed Anchor, either, or at least not entirely. It had simply withstood the force of a city collapsing on top of it. How? None before had survived a breaching of its rules without intervention from the Anchor.
+
+The thing with no name didn't like it. It had made that rule for a reason. It was one of the only rules that it could truly call its own, and now it had been breached without punishment or payment.
+
+It wasn't enough to awaken it properly. Not yet.
+
+But a rule could not be enforced if those subject to it were unaffected by its consequences.
+
+That meant, if it wanted to enforce its rules, then it needed to be more.

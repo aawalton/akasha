@@ -1,0 +1,219 @@
+---
+id: f09e7501-518e-5d43-9057-713c209514df
+page-type-slug: story-chapter-royal-road
+title: "117 — Book 3, Chapter 16 — Library Woes, Pt 7"
+slug: 0120-117-book-3-chapter-16-library-woes-pt-7
+partOf: just-add-mana
+position: 120
+ownLength: 3476
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3222397/117-book-3-chapter-16-library-woes-pt-7"
+royalRoadId: "3222397"
+---
+
+Interrupting an ongoing spell was easier said than done, even for someone like Cale. It was one of those tricks he'd never quite managed to get the hang of—at least, not without killing the caster, which rather defeated the entire point in this case.
+
+"You believe yourself invincible," the worm-serpent spat, its gaze fixed on him. Its magic was bright as it brought the full force of it to bear, drawing back every drop to fuel its spell. All the while, it trembled with a despairing rage.
+
+"I have witnessed your like," it continued. There was a deep venom in those words, but Cale could hear the pain it was barely suppressing choking every syllable. "Mage-gods that claw for power until they stand at the edge of divinity, untouchable by mortal and aberration both. Did you think we would not prepare for this? That we would not dare to fight one that stands on the cusp?"
+
+"I had nothing to do with the death of your friend," Cale said quietly. "I'll swear an oath on it, if I must, but don't finish that spell. Please. I know what kind of spell you're casting. I've seen it before. If you cast it, it's going to kill you and destroy the dungeon, along with whatever it is you need from it."
+
+"Liar!" The worm-serpent lashed its tail angrily, leaning forward until its face was pressed up against the boundary of its spell. "You are afraid. You know I could kill you with it."
+
+Cale shook his head wearily. "If something like that could kill me, I would've been dead long ago."
+
+For a moment, there was silence. Perhaps something in his tone had gotten through to the aberration, because it stared at him, blank and uncomprehending.
+
+"You lie," it said again, but this time the words were uncertain. "You speak as though you have already survived such a thing, but you could not have. The one who gave me this spell told me it was a last resort that could kill even gods."
+
+The one who gave it that spell? Who would give out a spell like that? Cale frowned at the implications, and beside him, Echo—who fought against the pull of the aberration's magic still—did the same. They shared a brief, worried glance.
+
+Echo was holding out well, at least. Its form was wavering, but so far, it could resist the pull of the worm-serpent's magic.
+
+Only that magic was getting stronger. Every so often Echo would flicker and grimace as it resisted another pull, and each time it happened, it took longer and longer to resist. Eventually, it would be pulled back into the serpent entirely, used up as fuel for the still-building spell.
+
+They were running out of time.
+
+"And you trust them?" Cale demanded, raising his voice. "Someone who gave you a spell fueled by your own life?"
+
+"They understand what it means to be an aberration," the serpent answered, seeming almost defensive. "They understand that any of us would give our lives for the cause, so that our future generations can live freely."
+
+"They gave you a spell that would kill you!" The thought alone angered him, and he clenched his fists, taking a step forward; at the same time, the worm-serpent flinched back, more out of instinct than anything else.
+
+It was clearly startled by its own fear, too. It glanced down at itself in disbelief, then reared up and hissed defiantly at Cale, as if daring him to come closer.
+
+Cale glared right back, then folded his arms across his chest. "That spell you're casting," he said. "It's supposed to keep you safe until it finishes, isn't it? It's one of the tradeoffs for the cost. You get a nigh-impenetrable barrier that stops everything short of a god from reaching you. Which is a kind of mercy, I suppose, if you consider being allowed to choose your last words a mercy."
+
+It was clear the way he said it that he didn't agree. He'd been forced to watch helplessly as a friend lost themselves to a spell like this more than once. Perhaps those friends had seen it as a mercy, to steal one final moment with him and grant him the precious few seconds he needed to win...
+
+...but it was Cale that had to live with it afterward. He had to remember, to preserve forever that moment in time when an ally or friend or lover had chosen to sacrifice themselves to help him.
+
+He despised it. Not his friends or that sacrifice, but this magic that perverted everything he believed magic was for.
+
+Perhaps that hatred was irrational. Cale didn't particularly care.
+
+"You are correct," the worm-serpent acknowledged, still watching him warily. "You cannot touch me until the spell completes. I am safe—"
+
+"—then why did you flinch?"
+
+Cale's gaze was steady, but the aberration's was not. The moment he asked the question, it flinched again, then visibly gathered itself and slithered closer until it was pressed right up against the barrier enacted by its spell.
+
+"You can posture all you want," Cale said. "You don't become a wyldfire-level mage without developing an instinct for evaluating the strength of the people around you. You can ignore that instinct. You can pretend that spell of yours will kill me. But I'm telling you now, if you finish casting that spell, only one of us is walking away, and it's not going to be you."
+
+The worm-serpent snarled at him. "You know nothing," it said. "You do not understand what you have done. You do not understand the precious thing you have taken from us. If you speak the truth, so be it! You seek the dungeon, and I give my life gladly to keep it from your hands. I will not allow you to use its power against our kind!"
+
+It spoke with the kind of brazen determination that reminded Cale all too much of the friends he'd lost. And he knew, on some level, that those individuals had chosen to sacrifice themselves; they had seen the cause as worth their lives, and given themselves accordingly. He couldn't condemn them for it.
+
+And yet.
+
+This was all so unnecessary. There was no great sacrifice here, no cause to be defended—the aberration was taking its own life for nothing. Because it believed of him something that was reasonable for it, perhaps, and yet entirely wrong. If it succeeded in this then it would do nothing except take more lives.
+
+Worse, from what it had said, the dark lord needed something from this dungeon. It would be undermining its own purpose, and all because it saw him as a monster that had to be stopped.
+
+Cale had thought that himself, sometimes.
+
+"You believe I took your friend from you," Cale said, suddenly tired, "and you think I don't know what that's like."
+
+"You cannot know," the aberration said, its voice sharp with tension, as if it worried he would say something that would prove it wrong. "You cannot understand what it is to be an aberration. We are scorned both by the Abyss and the Great Tree. Our presence alone causes the realms to crumble around us. What could you possibly know of the way we must live? Of what it means to lose one of the few that understand?"
+
+It lowered itself, then, sinking closer to the ground as if yearning to be closer to what remnant of its friend remained. It stayed in that position for a long, mournful moment, for once seemingly exhausted of words; when it finally spoke again, the words were somber, more a whisper to itself than a part of the conversation.
+
+"Ravalos was one of the few that would deign to laugh around me," it said. "Even amongst our own kind, my form is disturbing. My understanding of words and language, too. Ravalos did not care. He was always laughing. Often at the world, sometimes at the way I choose to speak, and still other times at things I did not understand. I did not like it... but I did not want it gone."
+
+"And if you die now," Cale said, "it will be."
+
+The worm-serpent stiffened, angry. "Do not speak of what you do not understand—"
+
+"Do you think I don't?" Cale asked steadily, stepping closer; this time, his hands were not clenched, and his eyes were clear. "Look at me. You called me multi-faceted and the static in the fog. That means you were using echo magic to examine me, right? What do you see?"
+
+"A multitude," it answered reluctantly, uncoiling slightly to look at him. "You are... impossible. Too many layers of cause and effect. It is no wonder that your echo behaves so strangely. It fights me even now."
+
+"I'm saving your life, is what I'm doing," Echo muttered sourly. It grimaced as the magic pulled at it again, then forced itself back together, grunting with effort. "I figured you out. You can't complete that spell unless I come back to you."
+
+"You cannot resist forever."
+
+"Don't have to," Echo said. "But seriously, hurry this up."
+
+"You've glimpsed what I am," Cale said, stepping up again, and this time he pressed a hand against the barrier. He didn't bother trying to shatter it—he could have, but without a way to safely interrupt the spell, it would only make the aberration even more defensive. "Do you really think I don't understand what it means to be alone?"
+
+"You cannot," the echo feeder repeated, but this time there was no meaning to the words; it was repeating them only because it had nothing else to say, because it was the only remaining shield it held.
+
+"I won't make this a competition," Cale said. "But you and I, we're shaped by the people we've met. So few of the ones we meet even try to understand, let alone actually understand. It hurts when we lose them... but we're also the only ones who know how much they meant to us. How much they tried.
+
+"Don't get me wrong," Cale added, and now he knelt gently by Ravalos's corpse, enveloping it in a barrier of soft starlight; he didn't know where the memories were coming from, but he was remembering, bit by bit. Small pieces, not nearly enough to know the whole, but enough to understand a little more.
+
+The rites of the dead that aberrations used, for instance, returned to him now. It felt important that the body be taken care of in the right way, returned to the stars to rest in the veil between worlds. That was the only place where existence itself did not reject them, and the rite itself was a sacred means of honoring the dead.
+
+He could perform it, if the echo feeder could not.
+
+"Everyone grieves," he said. "But the thing about grief is that it's unique. We all hold different pieces of the people that mattered to us. It's up to us to remember them, so that piece you hold—the one made up of all the things you shared—isn't lost. Maybe it will be, one day, but until that day comes... we carry that with us."
+
+The echo feeder stared at him, and Cale realized, somewhat belatedly, that he knew what it was. An echo feeder was different from the other creations that emerged from the ripples of cause and consequence. It grew from small, apparently meaningless decisions, each one not quite capable of forming a complete echo; instead, they manifested into tiny worms.
+
+But every life was shaped by those apparently meaningless decisions, and an echo feeder in its complete form was an endless cascade of tens of thousands of could-have-beens, decisions never made, hopes never fulfilled. No wonder, then, that it was difficult for even other aberrations to feel comfortable in its presence. Being near an echo feeder was itself a reminder of regrets and lost opportunities.
+
+Ravalos had been someone truly special, then. Perhaps if he'd been called in sooner, he could have prevented this aberration's death. Cale sighed softly, putting the remnants together in a position that was at least more dignified.
+
+"You know the rites," the echo feeder said, and this time the words were quiet, stricken. "You... you spoke the truth."
+
+"I understand why you didn't believe me," Cale said. "But you really should cancel that spell."
+
+"I cannot." The aberration's voice was agonized, and Cale stiffened, glancing up at it sharply. It was in a different kind of distress, now, slithering within its conjured barrier with clear agitation. "It is—it is the nature of the spell I was given. Once cast, it cannot be stopped. Not even by its caster."
+
+Cale cursed. "What kind of sacrificial spell doesn't let the caster cancel it?" he snapped. Echo was struggling harder to fight that spell now—sooner or later, it was going to succumb. "Who gave you this spell?"
+
+"I do not know," the echo feeder said. "It was given only in the condition of complete anonymity."
+
+"Of course it was." He was going to have words with that person, if he ever found them. If the situation weren't so dire, he would've had words with the echo feeder, too, for accepting deadly spells from anonymous strangers.
+
+"I am sorry," it said suddenly, and Cale glanced up at it, frowning at the shift in tone; there was something plaintive in it, something that felt raw and on the verge of breaking. "I should not have said that you could not understand. You understand more than I did. And now I reap the consequence of my own foolishness, and Ravalos's memory will be lost—"
+
+"Oh, don't be so melodramatic," Cale said. The echo feeder stopped, startled and offended all at once.
+
+"These will be my final words," it said. "Was my offense so great that you will not allow me even this?"
+
+"That depends." Cale tapped lightly on the barrier that separated them. An idea had come to him, helped by his memory of what an echo feeder was and the fact that he could feel Leo heading toward him, glowing a power distinct to palewater and the Labyrinth. "Tell me, Blood-That-Crawls. Will you accept my help?"
+
+The echo feeder hesitated, as if the words were difficult to say, but eventually, it gave him a small nod. "...I wish to live," it admitted. "To carry his memory, at the very least. Will you help me?"
+
+The last question was cautious, disbelieving, as if it was certain he would say no.
+
+Cale smiled. "You only ever had to ask."
+
+Navigating a spatial veil was perhaps the most complicated thing Leo had ever attempted, and it was bizarre, considering this sort of thing was supposed to be his specialty. He'd never encountered a space that resisted his innate senses this much, and [Asterion's Gaze] provided little help, given the veil was... well, invisible.
+
+He made it through eventually, though it hurt his pride a bit at how much that had been luck. Granted, he probably shouldn't have expected to make it through a spell as complex as a spatial veil without any problems, but still.
+
+"Leo!" Cale called out cheerfully. Leo jumped, then opened his mouth to complain. He'd been fighting for his life! Had Cale just been—
+
+Leo paused.
+
+What... what was Cale doing, actually? There was a giant, terrifying amalgam of worms right next to him, which would have been horrifying had this not been the fifth or so time he'd encountered some terrifying abomination or the other next to Cale, and this one seemed docile.
+
+Sort of. It might also have been weeping. It was hard to tell, given it was made of worms and all.
+
+"You're just in time," Cale said. "I need you to go into that thing and disrupt the spell it's casting."
+
+"What?" Leo said.
+
+"What?" The worm-thing said at the same time. Leo winced at the cacophany of noise that assaulted his ears; he'd only barely understood that word, and he was pretty sure it wasn't speaking any language he knew.
+
+Again, this would have been a lot more terrifying if Cale hadn't accidentally led them into a language-scrambling trap two weeks ago.
+
+"I'm kind of busy," Cale said, gesturing to the... was that Cale's echo-clone? Why in the world were they cuddling? "And you're better with mazes than I am. Blood-That-Crawls over here is casting a sacrificial spell that's going to kill it; I need you to navigate the spell construct and get to the core. Then just blast it or something. You should be able to destabilize it."
+
+"Oh," Leo said dully. "Is that all?"
+
+"Pretty much," Cale agreed.
+
+"Can I ask what's... you know, what's going on with all this?" Leo asked. He started to gesture at what he meant, paused, then just flopped his hands in Cale's general direction.
+
+"Oh!" Cale said. "You know how the soul acts as an inviolable barrier that prevents a mage from just reaching into another mage and manipulating their mana?"
+
+"Yes...?"
+
+"Well, in order to delay that sacrificial spell, I have to prevent Blood-That-Crawls from absorbing Echo here," Cale said. "And it just so happens I know this trick that lets you expand your soul a little bit. So I'm keeping my soul wrapped around Echo, which will keep them both safe until you do your thing."
+
+Leo stared at Cale, stricken. Was the man serious? His expression was light and casual, and he spoke as if nothing was wrong, but Leo knew what that meant.
+
+He'd read dozens of books about mages experimenting with the nature of the soul, looking to find a way to expand its boundaries. It was at the forefront of magical research, in large part because souls and mana cores were intrinsically linked; success would mean gaining a consistent, repeatable means of expanding any given mage's mana reserves.
+
+But Cale didn't need to expand his reserves.
+
+It was the last thing he needed. He'd been working for all this time to gain better control of his mana, and Leo knew from the time they'd spent together how much he celebrated every step forward. They'd even held a little party right before Cale left to handle affairs with House Greenthistle, all because he'd managed to scrap out one iota of extra control. Almost enough to push down to fourth-tier spells, which would open a new range of magics up to him.
+
+Had he given all that up just to save... was this not the monster that had caused all this? Leo could feel the connection between it and the copy, and his mana sense told him its magic was the same as the kind that suffused the library's wounds.
+
+"Why?" Leo asked helplessly. "You worked so hard—"
+
+"And I can always do it again," Cale said with a shrug and a small smile. "Still going to need your help, though."
+
+"I don't understand you sometimes." Leo sighed, but stepped up to the worm-thing anyway. "Fine. But I might have an easier way to do this. Just show me the spell construct, if you can."
+
+There was no realm in which palewater could affect wyldfire, and even with the time getting here had taken, he hadn't regenerated enough mana to destabilize a spell construct as Cale suggested. Leo became especially aware of this the moment the serpent began to peel apart, revealing a vibrant core of wyldfire and the complex maze of a spell matrix tangled into it.
+
+A palewater [Asterion's Gaze], as powerful as it was, would have no effect on a wyldfire construct. This was the tyranny of the hierarchy of magic as he understood it.
+
+But then there were the creatures that defined that hierarchy. The Monoliths, those embodiments of cosmic law, were one of them. Cale Cadwell Cobbs was another. The Abyssal Ones simply existed outside of it, bound by their own rules external to the hierarchy.
+
+And then there were the Named, who defied it entirely.
+
+[Asterion's Gaze, Level 1] [Sixth Tier, Active] [8,000 Mana]
+
+Take active control over any part of a labyrinth that falls within your sight. This spell allows you to freely manipulate anything that would be broadly perceived as part of a labyrinth.
+
+At the cost of a Favor, call on the Named Asterion to bestow his personal attention onto a labyrinth of your choice.
+
+Favors remaining: 1
+
+This spell is but a fraction of the Labyrinth.
+
+At the heart of the Labyrinth, Asterion awaits.
+
+Leo had no idea why Asterion apparently owed him a favor. Quite frankly, he hated the thought, and he despised Asterion for what the Named had done to his people. But if Cale was willing to sacrifice his progress for this...
+
+Well, it was a small price to pay.
+
+I'm claiming my Favor, Leo thought. Break the damned spell.

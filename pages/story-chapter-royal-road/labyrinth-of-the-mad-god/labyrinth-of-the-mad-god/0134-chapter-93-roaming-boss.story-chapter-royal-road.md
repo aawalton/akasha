@@ -1,0 +1,169 @@
+---
+id: 0b606039-09bd-5a8c-9268-555c485c2ff8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93: Roaming Boss"
+slug: 0134-chapter-93-roaming-boss
+partOf: labyrinth-of-the-mad-god
+position: 134
+ownLength: 1621
+unit: words
+publishedAt: 2025-02-19
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2077190/chapter-93-roaming-boss"
+royalRoadId: "2077190"
+---
+
+By the time that Nick was done writing, it was an hour or so before noon. He took his turn standing watch, letting Sophia get some well-deserved sleep. Since there wasn’t much to look at beside the ground directly below the island, he took the opportunity to peruse his profile, considering the gains he had made since starting his month of training.
+
+Contestant Profile: Nicholas ‘Nick’ Henry.
+
+Level: 23.
+
+Tier: 1.
+
+Species: Human of Earth (E).
+
+Class: Kineticist (uncommon).
+
+Base attribute points per level: +1 magic, +1 dexterity every other level.
+
+Free points per level: 1. You have 0 unspent free points at this time.
+
+Attributes
+
+Strength: 10 (14) Dexterity: 10 (19) Toughness: 10 (19)
+
+Mind: 9 (15) Creativity: 8 (10) Charisma: 5
+
+Magic: 5 (20) ??? ???
+
+Abilities
+
+Ability slots: 2 active, 1 passive, 1 free.
+
+Used: 1 active, 1 passive.
+
+Active abilities
+
+Mana dart (spell). Rank 3. Path: Vital energy damage.
+
+Creates a magical projectile formed from pure mana that damages all forms of vital energy (health, mana, and stamina).
+
+Piercing ray (spell). Rank 1. (You have enough essence to advance to rank 2 but lack the understanding required to do so).
+
+Creates a rotating drill of force mana. The spell moves fast but takes time to reach full power.
+
+Passive abilities
+
+Force Acceleration. Rank 0. (You have enough essence and understanding to advance to rank 1).
+
+Drastically increases the speed of movement in exchange for draining mana at a rapid rate. (This ability may be turned on and off at will.)
+
+Class Traits
+
+None. (The trait for this class has been incorporated into your bloodline).
+
+Geneline Traits
+
+Gift of Tongues: you can understand and speak the languages of all intelligent creatures.
+
+Awakened to Magic: +1 to magic.
+
+Versatile: +1 to all attributes. +1 free ability slot.
+
+Bloodline Traits
+
+Filled bloodline slots: 2. Open bloodline slots: 1.
+
+Survivor (enhanced): you require 50% less food, water, oxygen, and sleep.
+
+Force Adept (enhanced): You receive a significant bonus to mana efficiency and scaling from energetic attributes when casting spells that use force mana, and a modest bonus to those using pure mana. Force Adepts are unable to cast elemental spells and receive a substantial penalty when manipulating elemental-aspected mana in any way.
+
+Faction
+
+School of the Ever-Surging Blade (initiate)
+
+Faction Bonus: Sword skill is unlocked with no cap, regardless of class.
+
+Skills
+
+Active
+
+Evasion: 19
+
+Light shield: 9
+
+Sword: 24
+
+Throwing: 9
+
+Wand: 16
+
+Inactive (inactive skills may be used but not improved.)
+
+Size up: 10
+
+Foraging: 10
+
+Inventory (uncommon and above)
+
+Bag of molding (rare).
+
+Elixir of restoration (rare). Modifications: Soulbound.
+
+Arena dagger (uncommon). Modifications: Eversharp.
+
+Adventurer’s toolbelt (uncommon). Modifications: Self-maintenance.
+
+Pugilist’s gloves (uncommon). Modifications: Durable.
+
+Adventurer’s coat (uncommon). Modifications: Durable. Self-maintenance.
+
+Cloak of thermal regulation (uncommon). Modifications: Self-maintenance.
+
+Wand of force (rare). Modifications: Soulbound. Skill activation (Wand). Living artifact.
+
+Caster’s buckler (uncommon). Modifications: Durable. Self-maintenance.
+
+Blightbane (unidentified).
+
+??? Short sword (unidentified).
+
+??? Wand (broke, unidentified).
+
+By the time he reached the end, a fierce smile was plastered on his face. Nick was blown away by just how much he had grown since entering the Tower of Rizzen, along with the rest of his team. Only two more levels until I can pick a new class, and I’ll gain a new skill at 24, since that will make a full 15 levels since I chose the Kineticist.
+
+He sat there for a long while, savoring the joy of watching the numbers go up while scanning the patch of sky between their hiding spot and the floor far below. But his satisfaction was bittersweet. Lurking behind his delight was an ocean of worry. While his progress was encouraging, he knew that it wasn’t enough. If he wanted to defeat the guardian on the roof and save his planet, he needed to obtain more power, let alone help the survivors of Earth navigate whatever awaited them as part of the Labyrinth of the Mad God. Nick had to grow stronger, and he was running out of time.
+
+While that’s true. There’s no point in worrying about it now. Just focus on the next step, then deal with the one after that. He took a deep breath and let his mind wander, doing his best to recover from the stressful ordeal while letting the others rest.
+
+Several ships passed below over the next few hours. Each sighting sent a fresh wave of adrenaline surging through Nick’s veins before they sailed on by. But those moments were nothing compared to the scare he received when the boss’s ship came into view, crossing the sky in a glacial procession as it circled the base that his party had burned to the ground.
+
+He woke everyone with a finger on their lips to make sure they didn’t talk, then remained as quiet as he could as the colossal warship flew past. The airship was a massive vessel—at least two hundred feet from bow to stern. Its exterior was painted sky blue, so it was harder to spot from a distance. It had three broad sails and a pair of long wings that granted it the profile of a great, flying beast.
+
+Nick couldn’t see the crew from his position, but what he could see were guns. Sticking out from holes in the sides of the warship were a variety of devices. Some looked like classic cannons, and likely fired projectiles even if their delivery mechanisms were magical in nature. Others were lengths of glowing crystal that were conduits for elemental energy. Six of the biggest weapons were radiating force mana, and a pair of little ones near the front were conducting pure.
+
+By now, he had enough experience in perceiving magic to have a sense of their purpose. Those armaments are designed to punch through a wide variety of shields.
+
+Since the vessel flew through the air instead of floating on the water, many of the guns were lower on the side than they would be on a naval vessel—angled to enable a ground barrage. The top row could be pointed up to deal with other ships, supplementing the spells cast by the crew.
+
+All in all, the flying warship was incredibly imposing. Nick was certain that it could obliterate the cavern where he was hiding if it decided to go all out. And if the vessel itself was that powerful, the pirate boss who commanded it was certain to be just as deadly, confirming what the floor’s rules had implied.
+
+In that moment, any inclination to try to kill the pirates’ leaders vanished like smoke on the breeze. Even if they somehow managed to take one of the elite warriors down, the rest of crew would overwhelm Nick’s party with numbers greater than they had faced during the last fight.
+
+He would love to knock them out of the sky and let gravity handle the rest, but the airship was out of scale for any of their powers to destroy, and it was certain to feature magical protections along with its impressive array of weapons. We need to stay as far away from the warships as possible and avoid drawing attention to ourselves.
+
+The only good news was that the mammoth vessel was slow compared to the other airships Nick had observed. It would be devastating to face from the ground, but they could probably outpace it now, although there was a pair of small ships attached to the sides that were clearly designed to pursue flying targets.
+
+Everyone let out a sigh of relief when the warship sailed out of view. They stayed quiet for another twenty minutes just to be safe, then sat in a circle to discuss what they’d seen.
+
+“We should do our best to avoid fighting for the rest of this floor,” Sophia said. “There must be hundreds of pirates up here, flying dozens of ships or more. We don’t have the firepower or resources to engage in a conflict of that scale. Even if we win a battle or two, we will be swarmed by superior numbers. And if those bosses are as powerful as I expect, they might be able to take us out all by themselves.”
+
+“We might not have a choice, since I doubt that they will leave the floor’s exits unguarded.” Devin rubbed his chin. “We need to locate a stairwell before they find us. Hopefully, we can defeat the guards and climb to the next floor before reinforcements have time to show up.”
+
+“There might be a hidden staircase in addition to the obvious one,” Veronica added. “We can’t count on finding it, but we should keep our eyes open while we cross from island to island.”
+
+Nick nodded along with their words, and then added his own analysis. “It seems likely that one exit will be somewhere near the top of the floor, based on the game-like rules of this quest. Our best bet is to climb as high as we can during the night and hide during the day. If we can make it up there without being spotted, we can start scouting for the stairs.”
+
+“What do we do if they do spot us?” Shaun asked.
+
+“Race for the top and hope that we find the stairs before they catch us,” Sophia replied. “If they surround us, we won’t stand a chance. Let’s pool our observations regarding the islands thus far. Their positions will keep changing, but they seem to maintain the same altitude. Before we set sail, we should come up with a tentative plan for which isles to cross to in which order, and where to hide during the day. This might be our last chance to consider our options at length, and we need to make it count.”

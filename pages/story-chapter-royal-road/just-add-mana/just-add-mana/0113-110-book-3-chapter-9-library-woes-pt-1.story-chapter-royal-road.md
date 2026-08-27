@@ -1,0 +1,225 @@
+---
+id: 50a118e4-9fc8-5511-924c-bf810e3d451f
+page-type-slug: story-chapter-royal-road
+title: "110 — Book 3, Chapter 9 — Library Woes, Pt 1"
+slug: 0113-110-book-3-chapter-9-library-woes-pt-1
+partOf: just-add-mana
+position: 113
+ownLength: 3194
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3161936/110-book-3-chapter-9-library-woes-pt-1"
+royalRoadId: "3161936"
+---
+
+As much as Cale was worried about Leo, he suspected he was the source of much of the minotaur's woes at the moment. He had promised to turn Leo into an archmage, and while he was still certain he could, this was admittedly a complication. One that would take a while to turn into an advantage.
+
+He would need to think about it. He didn't want to go to Leo without any answers or solutions; that would only make things worse. In the meantime, Damien had promised he would keep an eye on Leo, and Akkau had indicated he wanted to speak with Cale after class.
+
+So Cale sent his apprentices off to their next class and approached Akkau. He was entirely unsurprised to find the dragon appeared entirely aware of everything that had happened with Leo.
+
+"Trouble with your apprentices?" Akkau asked, raising a brow the moment Cale approached.
+
+Cale sighed. "In a manner of speaking. But that's not why you called me here, is it?"
+
+"It is not, but I have a moment to spare, and you are technically my apprentice." Akkau chuckled softly. "I believe this may be one of the few things in which I possess more knowledge than yourself. Perhaps you could share your troubles?"
+
+Cale was forced to acknowledge the point. "Do you need me to say it? I figured you were listening."
+
+"Contrary to popular belief," Akkau said dryly, "I make an effort to give my students their privacy. It is rather convenient to allow rumors of my apparent omniscience to spread, however. I have found it adds to my legend. You are much the same, I suspect?"
+
+Cale smirked in spite of himself. He really needed to spend more time with Akkau—the old dragon was now one of the select few that could truly understand him, after all. The only problem with that was that they were both often busy attempting to wrangle the Thread of Fate's various machinations.
+
+"I've engaged in a little rumor-mongering," Cale admitted, which was putting it lightly. Reputation, he had learned, was an excellent tool, and could occasionally solve problems that even absurd amounts of magic couldn't. "Alright, then. Here's how it is..."
+
+Akkau listened politely as Cale explained what he thought was the difficulty Leo was having. He couldn't be certain, given Leo hadn't actually said much, but he felt that he had a pretty good handle on how the minotaur was feeling. Left behind by his peers, even with the progress he was making; less capable than everyone around him; forced to do more just to prove himself.
+
+Strangely enough, that was a feeling Cale was familiar with. Not here and now, no, but a very, very long time ago...
+
+Perhaps that was what had started all this. But the memories were fuzzy, and Cale knew better than to try to prod at them.
+
+"This is always a risk, when taking multiple apprentices," Akkau said eventually. "No matter what you try, one may feel lesser than the others. It is a problem of self-image, which means it will be difficult for words alone to reach him. I suggest that you instead give him opportunities to prove himself—to show that he is the equal of the others, not for their sake, but for his own."
+
+"Right," Cale agreed. He frowned slightly in thought. "Which means it'll have to be something he believes in, and preferably something he won't mind knowing I set up, since he'll probably figure that part out eventually."
+
+Akkau laughed. "You have some experience of your own, I see."
+
+"I did have to manage a crew of wyldfire mages on a ship for several lifetimes," Cale said with a faint smile. "Not quite the same, but the egos were similar."
+
+"Better or worse than managing an unruly clutch of dragons?" Akkau grinned at him.
+
+"And why do you assume I know what that's like?" Cale raised an eyebrow at him.
+
+"You have lived quite a lot of lives. I would be more surprised if you had not sired a clutch of dragonlings, back when our people were more... ahem."
+
+"Promiscuous?"
+
+"Prevalant, Cale."
+
+"I will neither confirm nor deny the hypothetical existence of a clutch of dragonling children," Cale said dryly, playing right along with the joke. It was rare to see Akkau in a more relaxed mood like this. The truth, of course, was that Cale avoided raising children whenever he could.
+
+Perhaps in his younger, more naïve days, it was something he might have considered. But the thought of moving on without them pained him. Bad enough that he had to leave his attachments behind whenever he died—having children would be worse.
+
+"Anyway," Cale said, changing the subject. "What did you want to see me for? Not just to ask if I've fathered any dragons, I assume."
+
+"Indeed not," Akkau said. "Though I do find myself rather curious now as to whether you have been with any dragons at all."
+
+"You'll have to get a few drinks in me if you want the answer to that." Cale grinned, and Akkau chuckled.
+
+"I called you here with regard to your progress with the draconic resonance," he explained. "I have felt it embed itself within you more deeply as of late—there is a part of you my instincts regard as another of my kind. A strange feeling to have when I know otherwise, though I confess..."
+
+Here Akkau hesitated, looking strangely and briefly vulnerable. "It has had the side effect of making me feel less alone," he admitted. "Not an effect I intended, I assure you."
+
+Cale nodded slightly. "Glad I can do that for you," he said quietly. It was about all he could say on the matter. Akkau seemed worried Cale might think he'd done it on purpose explicitly to feel less alone, but Cale knew he would do no such thing.
+
+Unfortunately, they hadn't made much progress in the matter of identifying the cause of dragonkind's extinction. With the rise of the dark lord, they simply hadn't had time to pursue the matter, hoping instead that Vekorax would appear rather than having to be hunted down.
+
+The one time they'd been able to get together and analyze the pattern... well, their best guess was that Vekorax avoided the realms that Cale was present in. That was worrying in and of itself, for it spoke to an awareness of forces that might endanger its hunt, but there was nothing to be done about it for now.
+
+Akkau sighed. He'd been lost in his own thoughts, judging from the look in his eyes. "I believe you are ready for the next stage, and I have finally managed to acquire the requisite ingredients for the catalyst," he said, pulling himself back to the present. "But I must warn you. This vision will likely be more intense than the last."
+
+Cale winced. "Something that always happens with the second potion, I'm guessing?"
+
+"Indeed." Akkau produced a vial that swirled with potent magical energy—and where the others had glimmered with pearlescent light, this one seemed darker, somehow. Violent. "Be cautious, Cale. We dragons are born of many things, and some of those truths are harsher than others."
+
+"I know that better than most." Cale took the vial with the appropriate reverence. "But still. Magic."
+
+All this time, and the ability to do magic still hadn't gotten old. Akkau clearly had the same thought at the same time, for he smiled down at Cale, giving himself that moment to bask in that same, simple joy.
+
+"Magic," Akkau agreed. "I should note that this vial is quite unlike the first—you should drink its contents only when you feel the moment is appropriate."
+
+Cale raised a brow at that. "And how am I supposed to know when the moment is appropriate?"
+
+"Draconic instincts," Akkau said. Cale waited for him to elaborate, then sighed when he didn't.
+
+"That's all I'm going to get, isn't it?"
+
+"Indeed it is." Akkau smirked faintly. "Instinct is inherent to my kind, Cale. Knowing the right moment to drink is itself part of the test."
+
+"Of course it is." Cale slipped the vial into the pocket of his vest, where he wouldn't accidentally forget it. "I'm not going to die if I drink it at the wrong moment, am I?"
+
+"Hardly," Akkau said. "It would merely be extremely unpleasant. And I would have to source the ingredients to brew it again. I suggest you get it right the first time."
+
+"I suppose I'll take that as a challenge."
+
+"That would be the draconic thing to do, yes." Akkau folded his arms across his chest with mock severity. "When you next enter my office, I expect you to have achieved the next stage of draconic resonance, along with at least one new baking spell. Consider it your assignment as my apprentice."
+
+Cale snorted, but grinned. "Count on it."
+
+Time passed in a bit of a blur. The rest of the classes he had that day weren't that important, as far as he was concerned—History of the Great Realms and Magic of the Great Realms were both just classes he attended to lend his knowledge to their respective professors. That was an easy enough task that he could afford to let himself get distracted and focus instead on a different problem: how to help Leo out of his current conundrum.
+
+What his minotaur apprentice didn't yet understand was that of his four apprentices, Leo was, in fact, the one best positioned to make the breakthrough to palewater. Once he did, he'd most likely be able to guide the others to make their respective breakthroughs as well. The nature of the labyrinth aspect and the Named that commanded it practically guaranteed that.
+
+But he couldn't just say that. If he did and Leo was unable to make the breakthrough, then he would, in his eyes, only be compounding on his failures; the fact that neither Cale nor any of the other apprentices considered his accomplishments failures wouldn't factor in.
+
+Akkau was right. Leo needed a win that wasn't just handed to him. Something he could prove himself over. The only way to do that would be to put another problem in front of him that he could work on without stressing out over his personal value...
+
+It wasn't until later in the day that the answer came to Cale in the form of a perfectly timed coincidence.
+
+"Thank the infernal realms for the Thread of Fate," Cale muttered to himself, eyeing the letter. Then he paused, frowning. "I don't think I'm using that expression right. Do people thank the infernal realms?"
+
+"No," a student passing him in the hallway supplied. "We just say 'by the infernal realms.'"
+
+"Right, thanks." Cale nodded absently, then, after he'd taken a few steps, blinked and spun around to find an empty corridor.
+
+...Who had that been? He'd barely noticed them in his mana sense.
+
+Bah. He was letting himself get distracted. That probably—hopefully—wasn't anything important, and if it was, they'd show up again. The Thread of Fate did tend to start beating him over the skull with revelations if he happened to forget something important one too many times.
+
+In any case, he'd received a suspiciously well-timed letter from Haelforge disclosing that they'd had "unexpected issues opening the gateway into the Bitter Path." A quick skim of the details revealed that the gateway was normally hidden deep within the Haelforge library, but some sort of manifested phenomenon was keeping them from reaching it. Each time they tried, the library seemed to expand in impossible ways, even manifesting shelves and alcoves full of books they definitely didn't possess.
+
+And they were asking for help clearing out the library without setting the whole thing on fire.
+
+Cale beamed. Oh, this was perfect. He was already intrigued, and he hadn't even brought Leo into the matter yet! And libraries and labyrinths were pretty much Leo's specialty, so as long as whatever was causing this manifestation wasn't especially dangerous, it would be the perfect thing to get his confidence up.
+
+Which was why he went immediately to get things settled with Akkau, then headed straight for Leo's dorm. He knocked, tapped his foot impatiently, and the moment Leo opened the door—
+
+"Pack your things!" Cale announced. "We're going on a road trip."
+
+"We're what?" Leo stared at him, then looked around, as if expecting the other apprentices to be there. Then he narrowed his eyes, suspicious. "Is this something you're doing just to cheer me up?"
+
+"Only in a technical sense," Cale said cheerfully. "Does it count if it's something I'd do even if you weren't upset?"
+
+Leo paused, then frowned, clearly considering the question. The look he gave Cale afterward was reluctantly defeated. "I have no idea."
+
+"Haelforge's library is mutating and manifesting new books and they have no idea why."
+
+There was an even longer pause at that as Leo visibly searched for a reason to be upset, failed to find any, then grunted in annoyance. "Dammit."
+
+"I know, right?" Cale gave him a sympathetic smile. "Are you in?"
+
+"Like I could forgive myself if I didn't go," Leo said, shaking his head. "Are the others coming?"
+
+"Couldn't get them an exception from their classes," Cale said, which was true. "We'll be back soon enough. Come on, Haelforge isn't going to wait forever."
+
+"I feel like they kind of have to."
+
+"Point." Cale paused. "Two of them."
+
+"Giving me points is an extraordinarily cheap method of cheering me up, Cale. You're better than that."
+
+"Is it working?"
+
+Leo huffed with exasperation, then got out a notebook and—with exaggerated irritation—added another two points to his score.
+
+"Sometimes," Cale said, "being a mage is about being so cheap that no one can predict what you're going to do."
+
+"I assume you have a story tied to that one."
+
+"Sure do! There was this one realm whose mages focused heavily on artifice for battle; they would build these massive, mechanical suits of armor..."
+
+Professor Delia looked remarkably worn-down when Cale and Leo arrived on the Haelforge Academy grounds.
+
+Not in a physical sense, of course. She was a gargoyle, so she was pretty much always in perfect physical condition. But there was a sluggishness about her, a sort of noticeable slowness in the pulse of her mana, and Cale felt a palpable sense of relief emanating from her the moment she noticed they'd arrived.
+
+"You're here," she said. "It's just the two of you, I take it?"
+
+"It was rather short notice," Cale said.
+
+Delia nodded wearily. "I apologize," she said. "We don't like to ask for help. If there weren't other matters we had to deal with..."
+
+"Is something else happening at the academy?" Cale asked.
+
+"Nothing you need to concern yourself with," Delia said, a little too quickly. Cale quirked an eyebrow slightly and leaned back, waiting, and after an awkward glance between the two of them, Leo copied him and did the same.
+
+That almost made him break character. Cale could feel the grin threatening to slide onto his lips.
+
+Thankfully, Delia broke first. "We've had to deal with a number of attempts by the dark lord's forces to breach the academy grounds," she said with a grunt. "We've been able to keep them at bay, but it does mean that several of us need to be on watch at all times."
+
+"Ah." That was worrying. Akkau had been keeping an eye on the other magic academies of Utelia, and while some of them were more private than others—including, for instance, Haelforge Academy—they'd heard nothing about the dark lord actually sending agents into any of the other ones.
+
+Did that mean the dark lord was targeting specific academies already? The ones he knew wouldn't report the matter, perhaps? Or was there something he wanted from Haelforge specifically? He'd have to talk to Akkau about upgrading the wards at each of the other academies; it would be a tough sell, but if they could get a little more information...
+
+"Like I said," Delia said firmly. "Nothing you need to concern yourself with."
+
+Cale sighed. "It's something we could probably help with, you know," he said. "But we'll talk about that some other time. Can you get us to the library and tell us a bit more about the protective seals you have on the gate?"
+
+Delia nodded, seemingly relieved to be off the topic of the dark lord—Cale wouldn't have been surprised if she'd been instructed specifically not to reveal anything about the attacks. He followed along with Leo, admiring the Haelforge Academy's architecture along the way.
+
+He hadn't quite been in the right mood to appreciate it, the last time he was here. But Haelforge was built into the side of an elemental mountain range, with the mana flows from the various different mountains all feeding into the main academy building. He had no doubt that each of the mountains hosted training grounds of their own, too, probably to perfect each elemental magic.
+
+No wonder these guys were famous for their combat magic. Elemental magic was rather famously the basis for most powerful combat spells, which meant Haelforge had nearly the perfect training grounds for it. Perhaps that was why the dark lord was so interested in Haelforge? After all, if he took it over, he'd have the perfect place to train all his troops...
+
+That was all idle speculation, though. It would be hard to know for certain until he met the dark lord or any of his forces personally—
+
+Cale glanced up. He hadn't sensed anything yet, but Leo was already sniffing at the air, a strange look on his face. "Leo?" he asked.
+
+"I'm not sure," Leo said. "It feels like we're already in the library."
+
+"What?" Delia turned back to him. "You must be mistaken. The Haelforge Library is in the deepest depths of the Earth Wing. We're still several floors too high."
+
+Leo shrugged. "I don't know what to tell you," he said. "That's what it feels like."
+
+"Huh," Cale said. "Fascinating. Leo, I want you to periodically try to make palewater while we're investigating."
+
+Leo frowned at him. "I'm not going to get better at doing that just because I'm in a library, you know."
+
+Cale shook his head. "Just humor me," he said. "Mana exercises are a good way to test if a place is trying to screw with you via mana manipulation. Use each of the ones Akkau gave us and tell me if there are any changes."
+
+Leo gave him a slightly suspicious stare, but Cale kept his expression deliberately mild, and after a moment, the minotaur grunted and began circulating his mana in the patterns they'd been given, one after another.
+
+Excellent. Cale couldn't do anything nearly as delicate, but he kept his senses more carefully extended, trying to sense whatever it was Leo had noticed. Delia's letter had indicated that the library was becoming more labyrinthine, and what Leo was noticing now indicated that it was potentially spreading...
+
+Whatever was happening here, Cale wasn't sure he liked it.
+
+It was fascinating, though. He did love new things.

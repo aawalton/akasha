@@ -1,0 +1,85 @@
+---
+id: fb7c5cf1-2ca9-5a5e-9793-48f28a9e504e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Nick to the Rescue"
+slug: 0048-chapter-18-nick-to-the-rescue
+partOf: labyrinth-of-the-mad-god
+position: 48
+ownLength: 1601
+unit: words
+publishedAt: 2024-08-28
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1778413/chapter-18-nick-to-the-rescue"
+royalRoadId: "1778413"
+---
+
+By now, Nick had activated arctic clarity to sharpen his focus. He was already in the middle of casting another spell, picking out his targets while gathering his will. Piercing ray.
+
+It was the first time that he’d been able to cast a ray while sustaining mana darts, a clear sign that he was getting better at controlling his abilities. A ball of churning force mana gathered between his palms over the next three seconds. A raging vortex of kinetic energy with a rotating drill bit coalescing along the exterior.
+
+Before the six-legged constructs could fire again, his spell was ready to go. Nick took aim and sent the ray streaking for the closest gear-scorpion, which arrived at its target in the blink of an eye. The bit attached itself to the machine’s torso and started to spin, drilling into its body with incredible force.
+
+Up to this point, Nick had only fired his rays at unusually tough enemies, the drill breaking through just before the spell ran out of juice. But he had grown more powerful in a short amount of time, and the results were clear to see.
+
+On this occasion, the ray bored through his opponent while the ball of mana hovering between his fingertips was only halfway depleted. There’s still enough power left to launch another attack. Not sure if it would work, Nick picked a new target and then willed the ray to bend, the first time he’d tried to guide its flight after the initial attack.
+
+To his delight, the spell obeyed his command. The whirling drill of force went streaking through the air, catching the next scorpion square in the head.
+
+It was a promising development, and it wasn’t the extent of his opening move. By this time, he’d already given his darts their marching orders too.
+
+Three silver blades sped for the remaining gear-scorpion, whose tail had almost finished orienting on V. Meanwhile, the last dart streaked for a gear-rat that had climbed a pile of rubble and leapt at Veronica’s blindside, catching her unaware.
+
+At this point, three things happened at once. The first was that his ray drilled a hole through the scorpion, and it collapsed to the floor before vanishing in a flash of light.
+
+The second was the trio of darts hit the final ranged construct. The machine froze in place before it could fire the next shot, as the mana powering its body was stripped away.
+
+The third was that Nick’s final spell caught the airborne gear-rat, which was only inches away from sinking its teeth into the back of V’s neck. It slammed into her shoulder instead, before falling lifeless to the ground. She whirled around with fear in her eyes, before realizing that the clockwork creature was already dead.
+
+As soon as she saw what had happened, Veronica reached into her pocket and threw an object at the swarm, a white sphere the size of a paintball. When it hit the ground, it expanded to form a vast spider web, big enough to catch half the remaining rats inside. It must be what she chose for her consumable reward, and she used it at the perfect time.
+
+While this was a marked improvement to their situation, they weren’t out of the woods yet. There were still too many rats that were free to attack, and the rest were already gnawing away at the webbing. It was clear that it wouldn’t hold them for long.
+
+There wasn’t enough time to finish them all before the rest broke free, and more constructs could arrive any moment.
+
+By this point, Nick had traded the element of surprise and most of his mana to take the three most dangerous constructs out of the melee, a fair exchange by any accounting. While it was a perfect way to start the fight, he didn’t have time to savor the moment. He’d already blown through a big chunk of his reserves, and the battle wasn’t over yet.
+
+All the nearby rats were coming for him, now that they knew Nick was there. Shit. What should I do next. There are still too many to fight with my sword. He wasn’t great at taking on multiple small opponents with his current skillset, and the rest of the swarm would break free before too long.
+
+Fortunately, Veronica was armed with a plan, and he was happy to follow her lead. “Nick, use your wand to knock the rest of rats into my web and I’ll finish them all off at once.”
+
+He had no idea how she intended to accomplish the feat, but he didn’t need to understand to do his part. Trusting V without question, Nick drew his wand and took aim.
+
+He fired a blast at five rats that were headed his way. It was the first time that he’d used the wand since entering the tower, and the boost provided by the extra points to his magic attribute were plain as day.
+
+A cone of force so intense that it warped the air in passing erupted from the business end of his wand, flinging the mechanical critters across the tunnel like they’d been slapped by a giant. Four of them were caught in the web and came to a stop, while the fifth recovered and came streaking back toward him.
+
+By now, Nick was sprinting for Veronica, who was running a few steps ahead of the swarm. She had to fight to maintain her lead since she was wounded and exhausted. He fired a second shot the moment that she passed him, catching the rest of the gear-rats, save for the one that had evaded his first blast.
+
+The wand shoved the mechanical menaces across the stone floor, adding their bodies to the mass struggling to break free from the sticky white strands covering that side of the passage.
+
+“Guard my back and open some space,” V cried. The final rat leapt for his throat a heartbeat later. Nick skewered it neatly with his sword, the feedback from his skill helping to guide his thrust.
+
+By this point, all the injured constructs, except the ones that his darts had killed, had vanished with pops of displaced air. Nick was safe for a moment, but he couldn’t relax yet. The trapped rats were chewing through the web. In just a few more seconds they would begin to break free, adding another twenty opponents to the battlefield.
+
+Worse, he was certain that the commotion would draw more enemies to their location before long. Neither of them was in shape for another fight, and he wasn’t sure that he could get away this time if he had to flee again. He had used up a fair amount of his stamina during the final sprint and V was running on fumes.
+
+While there wasn’t anything that they could do about potential reinforcements, the rats bound in webbing were another matter.
+
+It turned out that Veronica wasn’t out of the fight just yet. The reason for her request would become apparent to them all in another handful of heartbeats. While her battle so far had been amazing to behold, she still had one last trick up her sleeve. A finale to bring the curtain down on the rest of her performance.
+
+Wearing a satisfied grin, V spun to face the rats squirming in the web. Then she took aim and raised her right arm. Nick thought he saw something attached to her wrist that looked a great deal like a miniature grenade launcher fitted to the base of one crossbow. Which wound up being exactly what it was.
+
+With a whump, a small canister shot forth. It went flashing through the air, arced high, then landed in the middle of the pack. “Fire in the hole!”
+
+With those words, the canister cracked open, unleashing its payload upon the swarm. A river of liquid flame surged forth from the point of impact, engulfing the trapped rats in a pool of crackling fire a good ten feet across.
+
+The gear-rats began squealing, writhing to break free, desperate to escape the all-consuming conflagration. Although a handful of them came darting out of the blaze, trailing lines of fire in their wake, whatever was inside the grenade was sticky like napalm, and the little brass critters kept right on burning. Their plastic skin emitted a foul black smoke as the gears within began melting.
+
+Nick looked over at V in surprise. He was shocked that she’d taken so many enemies out at once, even if the move had required considerable setup. “New gear for completing the bog,” she explained. “Let’s get out of here while we still can. I’ll fill you in on the details later.”
+
+Nick stopped long enough to throw the mana-drained constructs into his pack, then started running with Veronica at his side. He was curious if the burning rats would disappear too. Sure enough, he heard them vanish as he raced down the tunnel.
+
+They made it down to the intersection, turned left, and then darted into the first doorway they saw, taking cover behind a pile of destroyed laboratory equipment.
+
+They were just in time. No sooner had they ducked out of sight than a tide of gear rats came running past, heading for the site of the battle. There were at least fifty of the little constructs, along with a dozen of the gear-scorpion models. A veritable army of mechanical beasts.
+
+This time, instead of glowing green, most of them were covered in a field of silvery energy that looked just like Nick’s mana darts.

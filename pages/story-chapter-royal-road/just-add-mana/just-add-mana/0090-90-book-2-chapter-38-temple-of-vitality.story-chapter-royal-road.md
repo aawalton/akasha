@@ -1,0 +1,243 @@
+---
+id: 9eb039b1-1cce-5fb9-9a3a-c710a8cb9284
+page-type-slug: story-chapter-royal-road
+title: "90 — Book 2, Chapter 38 — Temple of Vitality"
+slug: 0090-90-book-2-chapter-38-temple-of-vitality
+partOf: just-add-mana
+position: 90
+ownLength: 4167
+unit: words
+ownProgress: 4167
+publishedAt: 2026-01-22
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2967956/90-book-2-chapter-38-temple-of-vitality"
+royalRoadId: "2967956"
+markedReadAt: "2026-06-29T18:50:44.450Z"
+---
+
+Cale was almost surprised by how familiar everything in the temple felt to him. It was only to be expected, but the sense of nostalgia was almost overpowering. If not for his knowledge of the Red Commander and what he had done, Cale would have liked nothing more than to spend a few days here soaking in Vital's presence.
+
+Grieving him, really. Because for all that this place felt like him, it also told him in no uncertain terms that his old friend was gone. What remained was a vestige, one that was only there because of Vital's particular role as the Source of Vitality. It placed him in a unique position to do things like stand right on the razor's edge of death, leaving him some vestige of consciousness.
+
+That vestige of consciousness was almost certainly what he'd used to speak to the lizardfolk of the Golden Sands. The evidence was all around him in the temple: the stories carved into the walls, the dusty scrolls, and half a dozen inside jokes that no one but he and Vital were likely to understand. Not only that, but the legends that the lizardfolk had held on to all this time—those tales of a Wanderer and all the deeds he'd accomplished...
+
+Which meant that Vital had spent his dying days reminiscing about him.
+
+Cale had no idea how to feel about that.
+
+It felt like he'd allowed too much between them to fester unspoken. Cale had always been concerned about how ephemeral he was compared to most of the Monoliths—he was immortal, certainly, but he wasn't omnipresent in the way that they were. A Monolith embodied a Law that existed all throughout the realms, and Cale Cadwell Cobbs was, at the end of the day, a human. One that existed in a single realm at a time, at that.
+
+And because he moved about at random with every death, even a Monolith would have no choice but to search them top to bottom to find him again. Their omnipresence didn't extend to omniscience; just because their Law existed everywhere at once didn't mean their minds weren't more limited, though they were far more capable than the average mortal.
+
+Cale knew that from Vital's perspective, he would be missing for months or years or even decades each time he died. That, more than anything, was what he struggled with. The nature of his existence didn't allow for commitment, and even those precious few times he let himself fall in love during his time in a realm, both he and his various partners always knew he would move on once he died.
+
+Anything he allowed himself to have with Vital would be far more permanent. Truthfully, he wondered sometimes if he'd been scared of the thought, though it seemed foolish now.
+
+The Source of Vitality had never bothered to worry about such things. In fact, he rarely even spared a thought about the future. He was all about enjoying the present for what it was and celebrating each moment of life to the fullest, and when he decided he liked something, he went for it.
+
+Cale glanced at one of the murals on the temple wall—it was depicting some adventure he barely remembered, involving him attempting to bargain with a Devil-King—and snorted. "Now you've got me reminiscing," he muttered. "You didn't tell these guys any of your stories, did you? Because I seem to remember a lot of ladies hanging off your shoulders when we first met."
+
+The mana of the temple coiled around him, faintly indignant, and Cale laughed. "Oh, now you react to me," he said, though he wasn't really surprised. There wasn't much left of Vital here, and the bulk of his consciousness likely hadn't even realized that Cale was present yet. It was mostly the vestiges of his mind reacting to the pattern of old, familiar banter. Limited in scope and in the ways it could express itself, but the familiarity was comforting, in a way.
+
+Perhaps he might have been more coherent a few years ago, but Vital had clearly expended a lot of his remaining power in his attempt to protect Angus. Even now, Cale could feel echoes of that expenditure radiating throughout the temple. To think that someone had resisted the will of a Monolith, even a dead one...
+
+I wish I'd been here, Cale thought, but there was no real use in that kind of thinking. Vital had taught him that, and he wasn't about to disregard it now, especially in the midst of his old friend's grave.
+
+He wasn't above teasing him, though.
+
+"Now that I think about it, I seem to remember you showing up with a different woman every time we met, in the early days," Cale said, narrowing his eyes. And, partly, testing the waters. "You realize you can't just go around picking up women, right? You're a Monolith. There's a power imbalance to consider."
+
+The mana around him turned sullen and sulky, and Cale grinned. "No, not men either, not that I ever saw you with any. Honestly, kinda weird that you went for me after that. I wouldn't have thought myself to be your type. Don't really have the curves, you know?"
+
+Embarrassment flickered in the mana. Cale could almost hear the words: I didn't think you were my type, either.
+
+"Yeah, we both learned something new that one time," Cale said with a snicker. The embarrassment around him flashed into something sharper, then relaxed into something fond.
+
+The temple was big, and it would take Cale some time to make his way toward the center. In almost any other situation, he would have been happy to take his time, reminiscing with even just this vestige of his old friend. But with the knowledge that a fragment of the corrupted Source was still out there, he knew he couldn't afford to take his time.
+
+The best he could do, for now, was to take a little bit of comfort in his old friend's presence as he made his way down. Perhaps some time in the future, when the threat had lessened and if the temple still had power, he could come back to speak properly with Vital's ghost.
+
+He doubted it, though. Even with Vital's domain being that of life and vitality itself, there was a limit to how long he could last as a corpse.
+
+But sometimes, a little bit of wishful thinking was nice.
+
+So Cale made his way down the steps of the temple, laughing and joking with the ghost of an old flame, and pretending—just for the moment—that everything was as it should have been.
+
+Before long, Cale found himself standing before what Angus had dubbed the "worship pit." He grimaced a little at the sight, taking a small, involuntary step away from the edge. Angus hadn't felt it because Vital's presence had protected him, but Cale recognized the jagged edges deeper within the pit. The stone that had been built on top of it hid its true nature well, but farther down were streaks of torn magic and corrupted flesh.
+
+And far below, at the very base of it all, were the shredded remains of the Source of Vitality's heart.
+
+It wasn't a pit at all. Cale remembered well the moment that spear pierced Vital in the chest. He remembered the choked noise the Monolith made as he attempted to pull it out, then the increasingly frantic pulses of power as he tried to heal the damage. Corrupted magic flared brighter with every attempt, like even the Law of Life was somehow feeding the spear, and though the Origin of Force had rushed over to rip it out, the damage had already been done.
+
+Everyone on the battlefield that day felt the moment the Law of Life shattered and the Source of Vitality began to die.
+
+Then one of the nearby worldships fired some sort of space-warping spell sealed into its cannons, like it needed to get Vital's body as far away from the rest of the Monoliths as possible. No doubt the Lower Branches were worried, rightfully, that if they could get to Vital in time, they might be able to reverse the effects of the spear. It was one of the few teleport effects that none of them had been able to trace, not even the Leviathan, and so Vital's body was lost amongst the Great Realms.
+
+Until now, Cale supposed.
+
+Even now, at the bottom of the wound, the leftover shreds of the Source of Vitality's heart beat with a strange, impossible power. Anyone who could get to them would likely be able to boost their magic many times over, but Cale doubted any mortal being could descend far enough down into the pit to retrieve them. The leftover remnants of the spear's magic were still there, infused so deeply within the broken Law that they were impossible to remove, and a killing magic strong enough to end the Law of Life would easily destroy anything lesser.
+
+It disturbed him a bit that the magic still lingered, but it made sense. Anything less and Vital would simply have been able to bring himself back to life. Monoliths were not their vessels, after all, whether those vessels were mortal or otherwise, and Vital was less dependent on his than most.
+
+Not for the first time, Cale thought about how this meant that someone amongst the Lower Branches had engineered that spear to kill his friend. To end the Source of Vitality, who wanted nothing more than for all life to enjoy every moment of what they had. Cale had lingered on this thought before, but he had never had the chance to examine either the spear or the wound. Now that he had, he was more certain than ever that this was engineered, but...
+
+Well, it was far too late to matter. Cale had never been able to find the culprit, as much as he'd searched. No one in the Great Realms should have been able to forge such a weapon, even the gods amongst the Named. More likely than not, this was another secret of the Lower Branch cults that would never be known.
+
+Cale sighed, then stopped procrastinating and braced himself for what was coming next. He knelt at the edge of the worship pit. "Hello, Vital," he said.
+
+The mana exuding from the pit surged with sudden joy, brighter and sharper than the flickers of intent he'd felt while reminiscing on his way down. This was the greater part of what was left of the Source of Vitality's mind, and there was enough left of him to recognize Cale. Part of the tension inside him eased, though he didn't like what he was here for.
+
+"I'd like to talk," he said. "You'll need some of my mana for that, won't you?"
+
+The mana around him coiled suggestively. Cale rolled his eyes. "Not like that," he said. "A blood donation."
+
+A flood of mana poured out of the pit—Vital's equivalent of a sigh, no doubt—but the Monolith couldn't hide that he was eager to be able to speak to Cale, either. There was a sense of acquiescence. Cale held out his palm, created a barrier sharp enough to cut into it, then watched as several drops of his own mana-infused blood poured into the pit.
+
+In most cases, sharing mana in any way required some sort of medium. When Cale shared his mana with Akkau to empower the academy's wards, it was through the medium of a ritual that simply drew on him as the source of its power, then stopped when the crystals made to store that power were full. The mana channeler provided by the Haelforge Academy was different in that it was one of the few genuinely flexible mediums in this regard. Acquiring it would be incredible for his time in Utelia.
+
+Cale didn't have the benefit of either, but Vital was different. As the Source of Vitality, he could make use of the mana infused within Cale's blood with very little preparation, essentially allowing the blood itself to act as a medium for the transfer. This fact made the two of them a deadly combination during the Planar War, especially when Cale allowed himself to be enchanted with a few blood volume increasing spells before each battle.
+
+Granted, those battles tended to be rather messy.
+
+His blood made contact with the shredded remains of Vital's heart, and teal flame began to flare out of the pit, brilliant and bright enough that Cale had to shield his eyes against the glow.
+
+When it faded, Cale's heart nearly stopped. The Source of Vitality was there, an embodiment of the spark of life itself floating languidly with a familiar sort of irreverent grace just above the worship pit. He looked much like he always had in his true form—like a distant relative of a fire elemental turned to solid chitin, overlapping itself like armor wrapped around a muscular frame. Six eyes crinkled with amusement as they watched Cale, and the teal flame atop his head danced merrily.
+
+Even now, staring too long into that flame offered glimpses of entirely different biospheres, all-new ecosystems that Vital had once spent years dreaming of. The only real difference was that now there was nothing new. Where before Vital dreamt whole new lifeforms with every passing moment, now there was only a repetition of ideas he'd already had.
+
+That, more than anything else—more than the gaping wound in his chest or the shredded remains of his heart—convinced Cale that Vital was dead, and that the vestige he was speaking now was exactly that. A vestige.
+
+It didn't make it any less painful, though, and it was all too easy to believe that everything was normal when Vital began to speak.
+
+"Whatcha thinkin' about?," the Monolith asked playfully, like he was amused. He leaned down to examine Cale's expression. "If you're thinking it's your fault I got targeted because we were too effective as a team, I'm going to have to ask you to stop doing that."
+
+"It's hard to think of any other reason you'd be targeted," Cale said with a wry smile. "Also, it's been centuries. Stop being able to read me so well."
+
+"I refuse," Vital said brightly. His voice softened. "I knew what I was getting into. We all did. You need to stop blaming yourself for something you couldn't possibly have known would happen."
+
+"I refuse," Cale said repeated Vital's words back at him, his tone dry.
+
+"Suppose I should have expected that," Vital said with a laugh. "So, what brings you here, old friend? Finally come to say goodbye? Have to be honest, I was sort of hoping you'd be here a few centuries ago."
+
+"I didn't leave you here on purpose. I couldn't find you."
+
+"I figured," Vital said with a shrug. "I'm teasing. Don't blame yourself for that, either. I can see you doing it. It's just good to see you again." He paused expectantly. "So, that goodbye?"
+
+Cale shook his head. "Not why I'm here," he said, slightly uncomfortable. Vital clicked his tongue.
+
+"Of course it's not," he said, sighing. "Alright. What do you need from ol' Vitality now? A resurrection? Because I can tell you, these days a resurrection is pretty beyond me. On account of being dead and waiting for my unfinished business to be able to move on and all."
+
+"I get it," Cale said, trying desperately to move on. He was not at all inclined to talk about the rules surrounding the vestiges of powerful entities like Vital and what they might need to move on, and he certainly wasn't prepared for what this implied about how Vital felt. It was easy to tell what his friend wanted, the plea was practically radiating from his magic, but...
+
+He wasn't ready for that. He didn't know if he ever would be.
+
+But he knew that wasn't fair, either.
+
+"It's just—I found Icon," Cale said, forging ahead stubbornly. "It told me that when we excised the corrupted part of the Source, the pieces that remained were somehow able to survive. I figured if anyone would know anything about that, it would be you."
+
+"You're looking for its avatar?" Vital asked, cocking his head. He raised his eyes as if to scan an invisible horizon, then nodded. "Huh. I can feel it here, yup. Feels like an evil little hole in the world. Wonder why I didn't notice it earlier."
+
+Vital's tone was heavy with implication, and Cale sighed. "Vital..."
+
+"I'm not whole, Cale," Vital said. His illusory body swept down so he could look Cale in the eyes, and though there was sympathy in them, there was also something harder. "I've been dead for a very long time now, and the only pieces of me hanging on are the ones looking for closure. I might look like him and sound like him, but right now, I'm not a person. Not in the ways that mattered to me.
+
+"I can tell that something happened here." Vital's gaze swept over his temple. "I can tell I tried to do something. Tried to help someone, maybe. I can tell that the avatar you're worried about was here. But there isn't enough of me left to act, only to respond, and you know how I feel about that.
+
+"Not to mention the more I decay, the more it's going to hurt those people who live on me," he added. "I can feel them up there, you know. They're struggling. I can make some changes while you're here, try to make everything evolve differently, but sooner or later they're going to adapt and start pushing all the people up there to come down here. I can't control what I do while I'm dormant, not when I'm dead—"
+
+"I know!" Cale snapped, his voice cracking, and Vital floated back, studying him. "I know. You're waiting for me to let you go. You're a ghost, and I'm your unfinished business. It's the rules."
+
+"Monolith ghosts are very powerful, it turns out," Vital joked, and Cale managed a small, pained smile.
+
+"You aren't going to help me find the avatar unless I help you let go, are you?" Cale asked.
+
+"I don't want to keep hurting the people living on me, Cale," Vital said, his voice gentler, and Cale winced and nodded. As if sympathetic, Vital smiled and changed the subject. "What's the place called, anyway? It better be something cool. I don't think I could stand it if they're calling my body something stupid."
+
+"Illwyld," Cale said. "That's the name of the continent, anyway."
+
+"Illwyld," Vital repeated, testing the word. "Hmm. I like the inclusion of the 'y' in 'wild'. Makes it sound like I'm supporting some sort of fae society. Not sure I like the word 'ill', but I guess I'm pretty sick, so."
+
+"Are you trying to make me feel better?"
+
+"Maybe."
+
+Cale sighed. "There's... someone I want you to meet," he said carefully after a moment. "I picked up an apprentice, and he managed to pick up a Legacy of one of your pillar aspects. Verdant Flame."
+
+"Oh, really?" Vital grinned at him. "Can't believe you finally got an apprentice. Just like you to pick up one that can use one of my pillar aspects. What is he, a vineling?"
+
+"Dreadshade."
+
+"Holy shit," Vital said, laughing. "Seriously? A dreadshade with Verdant Flame? How'd you manage to find someone like that? You've outdone yourself, and that's saying something."
+
+He paused before continuing, his voice a little softer. "Maybe I won't be dead forever, then. But you know I'm not going to come back the same, right? You still need to let this version of me go."
+
+"I know." Cale glanced away. "I was just hoping you could talk to him before you go. Give him some guidance. He isn't here with me now, but I'd come back with him."
+
+"So you want me to help you now, and at some undisclosed date in the future, you'll come back here so I can give your apprentice tips, and then you'll say goodbye?"
+
+Cale winced. "I know how it sounds, but that's the gist of it, yeah."
+
+"It does sound pretty bad." Vital hummed. "I'm gonna need some collateral. Proof that you mean it, you know? I'll take your shirt if you promise not to wear another one until you come back. I know how much you hate being shirtless."
+
+"Because you kept trying to make me take off my shirt?" Cale asked dryly.
+
+"Because I kept trying to make you take off your shirt," Vital agreed.
+
+"I did love you back, you know."
+
+"Listen, I understand if you don't want to take off your shirt, so I'll acce—wait, what?" Vital froze in place, staring at him, and Cale looked up and met his gaze.
+
+"I did love you," he repeated. "I never let myself say it, and I think you know why. I was caught up in the reincarnation thing, and the idea of committing to anything with someone like you scared me. But I shouldn't have let that get between us."
+
+"Holy shit," Vital said. "Are you sure you're Cale?"
+
+Cale shot him an annoyed look.
+
+"Sorry, sorry," Vital said. "It's just—you're so avoidant—I didn't think even in saying goodbye you'd... I almost thought you didn't..."
+
+The figure of the Monolith sagged suddenly. "Thanks," he said, his voice smaller. "I'll trust you to come back. That apprentice must have helped you come to terms with a lot of things, huh?"
+
+"Apprentices," Cale said, smiling slightly. "And I've made some friends, too. Do you want to meet them?"
+
+"Well, I was going to ask for a private sendoff, but now I'm conflicted." Vital grinned at him, and Cale rolled his eyes. "Yes, I'd like to meet them."
+
+"I'll get everyone I can to come," Cale said. "Not like that. Don't even start, Vital."
+
+"What do you think I am, a pervert?"
+
+"In front of everyone but Ari, and only because she threatened to castrate you once."
+
+Vital grunted. "I still don't get why she never threatened you."
+
+"I have a sense of timing," Cale said with a small laugh. It was a strange thing he was feeling—light and heavy, all at once.
+
+He didn't hate it as much as he thought he would.
+
+Vital made a face like he was considering a response, then decided against it and cleared his throat instead. "Anyway! You need a teleport from me, right? And I can set it up to take you back wherever you want when you activate the sigil. You know the drill. You gonna go off and kick that avatar's ass?"
+
+"Something like that," Cale said.
+
+Vital frowned at him, suddenly wary. "Cale. End him if you must, but don't go too far," he cautioned.
+
+"He shattered Icon and turned it into a slave, then turned a lizardfolk you were trying to protect into a soulstorm."
+
+Vital's expression darkened. "Ah," he said. "...still. Be careful, Cale. For your own sake. I don't care about him, but I do care about you."
+
+There was a lot implied in that sentence. Cale nodded, his heart heavy, but he wasn't quite sure if he'd changed his mind. "I'll be careful," he promised.
+
+The temple seemed to breathe, and then power began to gather around Cale—not quite life aspect mana, but something close to it. When he was still alive, Vital had once called this spell [To Dance Upon the Web of Life], because he was prone to overly wrought spell names and even more complex spell mechanisms. His domain wasn't exactly teleportation or transportation, which made this particular form of transport both a high-tier spell and frankly incredibly uncomfortable, but it was what he had to work with.
+
+They exchanged a quick, final word about what to expect, and then an enormous fungal bloom sprouted out of the stone beneath Cale and ate him.
+
+Far away, in the eastern corners of Aersheld, the Red Commander paused and glanced at his new Sentinel. The Indictment continued to shuffle awkwardly beside him, attempting to fight off his influence and failing.
+
+"Do you feel that?" he asked. It didn't respond. He shrugged, then turned back to keep walking, only to find himself face to face with an enormous fungal bloom. "...What is that thing?"
+
+Then it lurched, and mana began to blast out of it. Something about it felt... overwhelming, and not in a way he liked. He took an involuntary step back as the pressure descended on him, almost accusatory. "What is this?" he demanded. "Did you do this? What am I feeling?"
+
+His new Sentinel shivered, then let out a broken laugh. It spoke the first words ever since he'd first taken it over.
+
+"Fear," it whispered gleefully.
+
+"Nonsense," the Red Commander said. "I don't feel fear."
+
+"No?" it asked, and then chuckled. "Perhaps you simply haven't felt it yet."

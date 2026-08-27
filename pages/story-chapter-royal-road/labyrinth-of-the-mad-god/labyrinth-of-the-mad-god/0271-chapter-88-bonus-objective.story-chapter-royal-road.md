@@ -1,0 +1,141 @@
+---
+id: 96327b2a-e057-5f83-9998-8924225485d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88: Bonus Objective"
+slug: 0271-chapter-88-bonus-objective
+partOf: labyrinth-of-the-mad-god
+position: 271
+ownLength: 1668
+unit: words
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2914728/chapter-88-bonus-objective"
+royalRoadId: "2914728"
+---
+
+Nick gripped his sword and took his stance, evaluating the battlefield in the blink of an eye.
+
+He had performed well up to this point, inflicting far more damage than he had received in exchange. However, the big bug was one of the most resilient creatures he’d ever faced. While the monster was grievously wounded, a single slash from its mandibles could gut him from nose to navel.
+
+His wand and elixir were out of charges, and his pools of vital energy were running on fumes. He had some stamina and health potions secured in his beltloops, but nothing that could restore his mana. Without Force Acceleration, his offensive spells, and Sonic Slice, he wasn’t sure he could win.
+
+I have one more attack until my magic runs out, at which point, I’ll have to drink the stamina potion and pray Heavy Blow is enough to end the fight.
+
+Nick leaned on Arctic Clarity for everything it was worth as the battle reached its adrenaline-soaked climax. Man and monster paused for a heartbeat, taking the measure of each other before coming together one last time.
+
+He sheathed Blightbane as the queen charged, drawing on the dregs of his mana to unleash a Sonic Slice.
+
+Half a heartbeat before he let loose, a tremendous torrent of lightning erupted across the enclosure, striking the queen from behind as Laura stepped through the tunnel leading to the surface.
+
+The bug smoked and sizzled as the voltage ran rampant throughout its body, but the monster wasn’t dead yet. Nick didn’t let the opening go to waste.
+
+He released a Sonic Slice that provided the thunder to Laura’s lightning, claiming the queen’s head and sending it crashing to the ground.
+
+He switched off Blend into the Background while turning to face the mage. He was about to ask if she had killed the rest when a message from the System shimmered into being.
+
+Congratulations. You have completed the emergency quest…
+
+Nick’s knees turned to rubber, and he began to fall—weakened from stamina depletion and disoriented from mana sickness after draining his energetic reserves dry.
+
+Before he hit the ground, Laura appeared by his side with a crackle of electricity, catching him by the shoulders and supporting part of his weight. “Thanks,” he mumbled as they made their way back to the settlement. “Your timing is amazing.”
+
+The lightning mage smiled, helping Nick walk until his stride had steadied. When they stepped through the shattered gate and entered Dragon’s Tooth, he got his first look at the settlement’s citizens. Most of them seemed to be warriors and mages—not as strong as Aurora’s core members, but not weak either.
+
+They could have repelled the monsters’ attack if they hadn’t been caught by surprise. Several people had fallen before Nick and Laura arrived. More were injured, but it looked like they could hold out until Veronica arrived with Kenji’s team. Laura had incapacitated a few of the bugs instead of slaughtering them outright, so V would be able to use her healing magic.
+
+The mage introduced him to the settlement’s leaders—Athena and Tita. After thanking the pair for the last-minute save, the women agreed to meet back up after the wounded had been tended to and everyone had a chance to recover from the grueling ordeal.
+
+Eris let them know that Kenji would arrive in two hours, so Nick and Laura settled down to wait, munching on provisions to restore some energy. When he was done eating, he was ready to check out his gains from the fight.
+
+A window had been floating in the periphery of his vision ever since the queen had fallen. Since no one needed his help, he concentrated on the screen, granting it permission to enter the center of his vision.
+
+Congratulations. You have accumulated enough experience to reach level [35].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+As a milestone reward for reaching level [35], you have been awarded a bonus free attribute point.
+
+Congratulations. You have accumulated enough experience to reach level [36].
+
+You have gained 1 point of Magic, Creativity, and Mind from your class.
+
+You have 5 free attribute points awaiting allocation at your discretion.
+
+By pushing yourself to the limit in the midst of a deadly battle, you have improved the following baseline attributes:
+
+Dexterity has increased from [21] to [22].
+
+Strength has increased from [21] to [22].
+
+Toughness has increased from [22] to [23].
+
+Through use, you have improved the following skills:
+
+Evasion has increased from [24] to [25].
+
+Size Up has increased from [23] to [25].
+
+Sword has increased from [28] to [30].
+
+Wand has increased from [24] to [25].
+
+Note: You may not increase your Evasion, Size Up, and Wand skills beyond 25 until you complete the trials of mastery.
+
+As Nick had suspected, winning the fight had leveled him twice.
+
+On top of that, he had taken three of his skills to twenty-five. Earning those final points had been tough, and he could finally take the tests of mastery when he was ready. He was also making solid progress in maxing out his conditioning for grade-D, and he was looking forward to the milestone bonus he would receive when each attribute was capped.
+
+He would decide how to spend his points a little later. Right now, Nick wanted to check out the reward he had earned for completing the quest.
+
+Congratulations. You have completed the emergency quest and earned the following rewards: 1000 CP, 5 Uncommon building vouchers, and 25 Common building vouchers.
+
+For completing the secondary objective—save at least 90% of the city’s citizens—you have earned a high-quality ability stone.
+
+For completing a hidden bonus objective—save over 95% of the city’s citizens—you have earned an additional high-quality ability stone.
+
+Both abilities have been selected to complement your existing powers.
+
+Holy shit. I hit the jackpot! A grin spit his face as a wooden box materialized beside his boots. While Nick hadn’t gone into this situation expecting a reward, he wasn’t going to complain, especially when the reward in question filled one of the holes in his profile—his ability slots.
+
+Right now, he only had his free slot available, but he would gain another active slot when he advanced Heavy Blow to rank one, since it was a class-granted ability. He already had enough essence, and clearing the insight requirement should be easy since he knew plenty of combat-art specialists he could ask for advice. I can also pick up more slots if I advance to tier two or take the powers I obtained from ability stones to rank six.
+
+Nick was ready to speak with the leader of Dragon’s Tooth, but they were still dealing with the aftermath of the swarm’s assault.
+
+While he waited, he decided to examine his stones and figure out which power he wanted to pick up first. Laura was checking out her own rewards. They shared an excited grin when their eyes met before returning their attention to the task at hand.
+
+He reached down and opened the box, revealing two rune-covered crystals. There didn’t seem to be a choice this time, but since they had been listed as high quality, he was sure they were going to be good.
+
+Wondering what powers they held, Nick ran his fingertips across the intricate sigils engraved into their surfaces. He pulled out the scrap of paper resting on top, laughing in delight as he read the first entry.
+
+Force Riposte (Spell, Combat Art).
+
+Type: Melee attack/Defensive maneuver.
+
+Activation speed: Instant (requires both stamina and mana to activate).
+
+Range: Weapon.
+
+Absorb the kinetic energy from an incoming blow when it touches your weapon and add it to your next attack. The attack must occur within 1 second or the effect will be lost.
+
+He let out a low whistle. I’ve never heard of an ability that uses mana and stamina together. Sapping momentum from an opponent’s attack and turning it against them sounds insanely powerful.
+
+While having to complete his counter within a second was a considerable limitation, Force Riposte would be potent even at rank zero, and he was certain the ability would be an invaluable addition to his arsenal.
+
+Nerves tingling with the excitement that always came with obtaining a major upgrade, Nick kept on reading—eager to find out what power the second stone held.
+
+Enhance Physical Senses (Spell, Combat Art).
+
+Type: Passive ability.
+
+Range: Determined by species grade.
+
+Drains both mana and stamina to dramatically increase the acuteness of the user’s taste, touch, smell, hearing, and vision.
+
+Nick nodded as he reached the last line. While this ability will come in handy right away, I have a feeling that its true potential won’t reveal itself until I rank it up. It didn’t deal damage directly, but after using Blend into the Background, he knew how powerful perception-boosting abilities could be, both on and off the battlefield.
+
+He decided to call it Enhance Senses for short, or Enhance, for short short. In addition to giving him an edge when fighting stealthy enemies, Enhance would be invaluable while exploring the Labyrinth, dungeons, and other planets.
+
+Boosting his hearing, eyesight, and sense of smell would make it easier to navigate a wide variety of terrain and find valuable resources, and he suspected that Enhance would synergize with Size Up to help him detect danger before he drew near.
+
+It should also make Tracking and Stealth stronger—Pathfinding too, once I figure out how to improve it. While he couldn’t think of any combat applications for enhanced touch and taste, he suspected they would be useful too. At the very least, it should make my meals even more enjoyable than they already are.
+
+He wasn’t ready to pull the trigger and use the stones just yet. Nick put them into his backpack for safekeeping, rose to his feet, and went to find the leaders of Dragon’s Tooth. It wasn’t hard, since they had finished taking care of their people and were already headed his way.

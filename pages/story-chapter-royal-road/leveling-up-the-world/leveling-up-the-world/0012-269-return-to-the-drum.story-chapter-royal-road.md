@@ -1,0 +1,173 @@
+---
+id: 2e3158cd-cb85-573e-ba68-636cbeea4ff6
+page-type-slug: story-chapter-royal-road
+title: "269. Return to the Drum"
+slug: 0012-269-return-to-the-drum
+partOf: leveling-up-the-world
+position: 12
+ownLength: 2213
+unit: words
+ownProgress: 2213
+publishedAt: 2021-09-27
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/757519/269-return-to-the-drum"
+royalRoadId: "757519"
+markedReadAt: "2026-06-29T22:40:32.866Z"
+---
+
+“You came just for this?” The fury asked, sitting across Dallion. “I had higher hopes, since you passed through the gate.”
+
+“Does it matter? As long as I can pay, I can have anything. That’s what you told me during the last visit.”
+
+“A fool and his money are quickly parted.” The fury tilted her head to the side, then made a sign to one of the waiters. The man nodded and quickly rushed to the staircase. “Maybe I can convince you to go through another gauntlet? Your victory last time caused quite the commotion. People have been pouring here for days to match your success. It goes without saying that all of them failed.”
+
+Dallion didn’t say a word. He knew all too well that the game was rigged. Most likely, a few changes had been made after his victory to ensure that similar mistakes don’t happen again. Anyone trying to pass the gauntlet now did nothing but lose a lot of time, while making Belaal a lot of money.
+
+“It’ll only take a few minutes, and this time I guarantee you’ll keep part of your winnings,” the fury continued.
+
+“I don’t think Belaal will approve.”
+
+“Belaal’s not here right now. I have full discretion until he returns.”
+
+A week ago, Dallion would have agreed without hesitation. It wasn’t about the money—that would be lost. It was about testing himself, matching his skills to any tricks the mirror pool had to offer. Unfortunately, it was only relevant for items. If Dallion was to become strong enough to reach his next level, he had to face real enemies and stronger ones at that.
+
+“Maybe some other time.” Dallion looked away.
+
+“Suit yourself.” The fury shrugged.
+
+The waiter returned with a medium-sized wooden box which he placed at Dallion’s table. The fury took it, then slowly removed the lid. A stylish hand mirror was inside.
+
+“Sphere items have become quite pricey lately,” she said. “Are you sure you have enough to buy it?”
+
+Dallion took a pouch from his belt and shook it.
+
+“Seems that you do. Why do you want the mirror?”
+
+“Is that part of the price?”
+
+“No, just curious.” The fury returned the mirror in the box and pushed it towards Dallion.
+
+The mirror was in perfect condition—there were no flaws, cracks, or even scratches anywhere on its surface. There didn’t seem to be anything special about it, just an ordinary mirror made of a unique metal alloy. To anyone this would be nothing more than a low-grade sphere item brought in from the wilderness, but Dallion knew it to be so much more.
+
+Leaving his pouch on the table, Dallion picked up the mirror and examined it.
+
+“You haven’t leveled it up?” he asked.
+
+“No point wasting talent and resources on something so mundane. It would have stayed with the junk for a few months, then we would have made it part of the gauntlet in some way.”
+
+Dallion felt chills run all over his body at the mention of that. He tried to hide it as best he could, but he could tell that the fury had noticed.
+
+“You disapprove?” she asked, in a moment of genuine curiosity.
+
+“I doubt it matters here.” Dallion put the item away. “Is the amount enough?”
+
+“Sentimental value,” the fury said as she opened the pouch. “That’s what people call something cheap that they wish was expensive. This was one of the items you had to mend during the gauntlet, so you probably feel some connection. Not that it bothers me. I could sell all the items you completed, if you wish.”
+
+“And how much will that cost me?”
+
+“More than you have right now, but I’m patient. As long as long as we have an understanding.”
+
+Dallion hesitated. If Nil weren’t blocked right now, he’d probably warn against doing something rash, especially since the fury counted on that. It was obvious that she was taking advantage of the situation, just as it was obvious that Dallion couldn’t refuse.
+
+Psychologically defeated, he took out a second pouch from under his vest and tossed it on the table. To his surprise, the fury didn’t gloat or mock him. Calmly, she closed the first pouch, then took both of them and tossed them on an empty tray that one of the waiters was carrying. Both of them landed perfectly, as if they had been put there by an invisible hand.
+
+“Anything else I could help you with? Information, perhaps?”
+
+“I can’t afford anything else,” Dallion said with a semi-smile. “You know that.”
+
+“Consider this a bonus for making such a large advance purchase.”
+
+That was quite generous of the fury, or it would have been if she hadn’t taken fifty gold coins for the pleasure.
+
+“Did you find out anything about the mage?” Dallion whispered.
+
+Despite several attempts, Dallion hadn’t managed to find anything on the subject. From the looks of it, the old man had only come to warn him not to meddle with the affairs of the Star or the copyette… and had used some very convincing magic in the process. Since then, no one had seen or heard him, as if he had never existed.
+
+“Nothing for the moment. The only thing certain is that he’s no longer in the city. Does that help?”
+
+“No.” Dallion stood up. “No, it doesn’t.”
+
+“Pity. In that case, let me give you some advice. Settle your debts quickly. You’ve joined the river of rising stars and people have started to take notice. The brighter your shine, the more your debt will increase. Keep it in mind.”
+
+No names were mentioned, but Dallion knew exactly what she meant. It seemed that the general that had loaned Dallion the armadil shield was well known in every circle of the city. It wouldn’t be surprising if he turned out to be the leader of the mirror pool—just the sort of person a Star would have dealings with.
+
+“Thanks. I’ll be back when I have enough to buy off more of the items.” Dallion left the table.
+
+“There’s no reason to wait that long,” the fury said behind him. “Come back anytime you wish to relax. The Drum has a wide variety of services.”
+
+Gripping the mirror tightly, Dallion made his way out of the Drum. It was way past midnight, but that didn’t stop groups of clients coming in. Apparently, business was booming thanks to the festival. The city was already filled with tourists, and the event was still days away. In part, Dallion understood why Adzorg hated it so much. The grand event had turned into an otherwise bustling city to a packed circus. Interestingly enough, crime was on the decrease. The mirror pool, the pickpockets, and all other crime elements knew that the nobles didn’t want to lose face in front of the outside world, so if anything were to mess with their perfect event, there would be dire consequences. Only external elements dared to try their luck and they were quickly picked out by city guards before any damage could happen.
+
+“Done?” Eury approached Dallion. She had been waiting outside Belaal’s Drum for a while. Unwilling to let him have further dealings with the mirror pool, she had shuffled her schedule to be close to him during his search for the copyette. It was all a lie, of course, but as much as Dallion wanted to tell her that the creature had already been found, he knew he couldn’t.
+
+“They don’t know a thing,” he replied. “Still, I got what I wanted.”
+
+“Good. It’s a bad idea coming here.”
+
+“Nothing will happen so close to the festival,” Dallion tried to sound reassuring. “As they say, it’s just business.”
+
+“It’s always business until someone gets hurt. Then it becomes personal… or too late.” The gorgon’s snakes moved about on her head. “Let’s get out of here.”
+
+The two made their way out of Gray Harbor and into the city. Once they passed through the city gate, the difference became obvious. Touches and lanterns illuminated every street, leading to the plazas and city squares that had more lights than New York on New Year. Even Euryale’s neighborhood had pretty much transformed into a semi-tourist trap, with people from other towns and cities going to buy items that they couldn’t find in their own locations.
+
+“Don’t they ever sleep?” the gorgon sighed at the sight of people even at this late hour.
+
+“Probably just going about. Isn’t it like this every year?”
+
+“There’ve never been so many problems going on at once. Artifact infections, cults, chainlings, even a copyette… If I were the countess, I’d just cancel the event, but that’s not an option here. In this world, appearance is everything.”
+
+“I thought level was.”
+
+“Levels help create a better perception. Let’s just get inside.”
+
+Eury’s workshop was filled with items. Most were equipment pieces she had to repair. Roughly a third belonged to her hunter group, while the rest were “urgent cases” for people who wanted to look their best for the festival. There were a lot of them, but as the gorgon said, money was no issue, so she was happy to do a bit more work and earn half her funds for the coming year.
+
+There also were a small number of items for her to investigate, given by the city guard. When Dallion had initially learned about that, he had panicked slightly, immediately offering to join her during the exploration. The gorgon had laughed. That was normal—her skills and level remained superior to his at this point.
+
+After barring the door, Eury went to her room to change. The fact that she couldn’t swim in the nearby lake and was forced to rely on bucket water made her slightly grumpy, but that was understandable.
+
+“I won’t be searching tomorrow,” Dallion said while Euryale was undressing. “There are too many people. Besides, with March back, the expedition is about to start.”
+
+“It’s about time.”
+
+“Yeah, I know. She and Vend have been all secretive about something. It might have to do with the Star.”
+
+“Vend’s always been secretive. With his past it’s normal.”
+
+“His past?”
+
+“He used to be a thief and pickpocket. He didn’t tell you?”
+
+“No.” That was sort of a shock, although Dallion could see it. Vend’s gift with combat splitting helped him get out of all sorts of trouble—ideal for picking locks, keeping a lookout, or snatching a purse. It definitely explained why the elite didn’t talk about his past.
+
+“There’s also a chance I get called for the tournament fight,” Dallion continued with the idle conversation.
+
+It had been a while since he had been called to participate. The last time was two days ago, when he had easily defeated his opponent without resorting to familiars or music skills. Being level twenty made a lot of the fights pointless. It also helped him to be favored and not subject to a level cap as far as skills went. Spending a lot of time improving items, Dallion had brought his athletic skills to level thirty-nine, one less than acrobatics and guard; attack was at forty-four and music was two short of fifty. Alas, forging remained at one, mostly because keeping up the illusion that he was searching for the copyette didn’t leave any time for Eury to continue with his training.
+
+“It’ll be against real candidates this time.”
+
+“You’ll do fine. Some of them are still double digits.”
+
+“Yeah…”
+
+That was true, but Dallion’s rival from the Flameforge guild was a bit more skilled. If Dallion was to make any headway, he’d have to rack some levels, something he still failed to achieve.
+
+“You’re staying here tonight, right?” Eury asked. It sounded more like a statement than a question.
+
+“Definitely.” Dallion grinned.
+
+“What are you waiting for, then?” The hint was clear.
+
+“Just thinking about things…” Dallion replied. Then slowly started removing his gear. “I think I’ll try to level up again.”
+
+“Have you ever considered that the reason you’re failing at it is that you’re too wound up?” Eury half emerged from the bedroom. As one might expect, she didn’t have any clothes on. “Fighting against the world only works if you relax a bit now and then.”
+
+“Is that advice for the trial?” Dallion laughed.
+
+The gorgon’s snakes stirred.
+
+“If I had something close by, I’d throw it at you right now. Just forget about the world for one moment. Can you do that?”
+
+Dallion considered it. If he tried to level up now, it would hardly matter, since in terms of the real world, only a moment would pass. Then again, he could just as easily try the following morning.
+
+“You’re right.” He said, only partially convinced. “I’ll be right there.”
+
+The fantasy world had indeed become much scarier than when he had appeared here from Earth. He was no longer in a small village in the middle of nowhere. Now he was in a large city that was targeted by what could only be described as a deity of evil. Living day to day wouldn’t cut it anymore. He had to learn what was really going on fast and get stronger in the process. However, that still didn’t mean he couldn’t have some fun now and again.

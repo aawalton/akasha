@@ -1,0 +1,159 @@
+---
+id: e604a2dc-1088-50b7-ab9c-8ae375da8f37
+page-type-slug: story-chapter-royal-road
+title: "2. Loop 0, Part 2"
+slug: 0002-2-loop-0-part-2
+partOf: lazy-loops-an-idle-litrpg-op-to-archmage
+position: 2
+ownLength: 2521
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3452995/2-loop-0-part-2"
+royalRoadId: "3452995"
+---
+
+The summoning circles burned black, and Kalin slammed both palms into the floor. Shadows like cracks formed in the stone where his magic hit, and from the fissures rose four shapes of condensed shadow. Each one was low to the ground and vaguely wolf-shaped, but with too many legs and empty, sunken sockets where eyes should have been.
+
+Fuck fuck fuck.
+
+[Shadow Manifestation]s. Kalin was a fucking shadow mage. If he wasn't careful, something worse than expulsion could happen here today.
+
+The shadow creatures all stood still for a terrible second that stretched on like a never-ending nap. Then, they roared, but instead of sound, a vacuum sucked warmth from the air and turned the hall a sickly shade of blue. Light dimmed, and their power grew and grew.
+
+The hall exploded into sheer unadulterated hysteria. Students scrambled in every direction as if someone had shouted there was a Frollart in the kitchen. But not everyone was panicking. The girl that Finn had been staring at cast a ward that unfortunately did nothing to stop an advancing shadow wolf. Another student, a boy with platinum blonde hair clearly on dungeon track with bulging biceps and a gym weight for a catalyst, threw a lightning punch. Despite being so close to light element, it also passed through the lead wolf's body before punching a hole in the wall.
+
+One of the teachers sent out a [containment] manifestation, which is a spell that throws out a net of magic that usually dispels ongoing magical effects. And for a brief, glorious moment, the shadow was frozen, and things seemed like they might calm down. But then the shadow simply sank through the floor beneath the net and appeared a foot in front of the net unscathed.
+
+Davos, having finally untangled his laces, attempted to prove his intelligence. He rolled sideways and launched a cone of fire that engulfed the lead creature. It shrieked as the spell worked! For all of five seconds. The dying wolf dissipated, but its smoky body simply flowed into another one of the wolves, making it stronger and larger than either had been before.
+
+I stared in shock at the uselessness of all of their attempts to corral the situation.
+
+Was everyone an idiot? They were fucking shadow manifestations.
+
+But I shook my head and returned to my food. None of this was my problem. Davos had provoked it. Kalin had summoned it. Why did I need to care? Faculty were coming, and someone else could handle this. Besides, I still had to not finish my tea.
+
+Next to me, Finn pushed back from the table.
+
+"Come on, Finn, don't," I said.
+
+"Someone is going to get seriously injured."
+
+"Someone's always going to get seriously injured. It's not your job to worry about how, just clean up after. Sit down. Please?"
+
+But once again, Finn didn't listen to me. He stood and planted his feet, raised his wand, and fired a bolt of healing light. It flew at the flank of the nearest shadow, as if healing magic could do something.
+
+Sure, there was a little logic to it. Healing magic was, in a way, an opposite to shadow manifestation—light element versus dark element, but it wasn't going to work. Shadow elements had a specific weakness, and it was like everyone had forgotten what we’d learned in the Basics of Elements last year. The bolt hit and the shadow actually flinched. Its form rippled like a stone thrown into a pond, but it didn't dissolve. Instead, it turned toward Finn, and the empty sockets where its eyes should have been locked onto him. Then, it screamed.
+
+Finn had time to say "Oh" before the shadow lunged for his jugular. He got up a barrier, gold and light with soul magic, just in time. It was the same stubborn defense work that had won him multiple tournament matches, but it wasn't enough. The shadow hit his barrier with the weight of something that didn't obey physics, and the impact sent Finn skidding into the table, hitting his head.
+
+Finn didn't get up. I sighed. Finn, who had no business being in this fight. Finn, who had stood up because someone was going to get seriously injured, and he was the only person in the school who would have done the same thing for me.
+
+Why did I have to do work? Why couldn't this have been a normal day? I set my tea down. Every rational part of my brain told me this was a terrible idea. The faculty—well, the rest of the faculty, the competent ones—were probably a minute or two away. Someone else could step in and solve the problem. I mean, I had figured it out, like, five minutes ago, so why was everybody else struggling?
+
+But a couple of minutes was a long time, especially when shadow wolves were involved. Finn was hurt on the ground. If anyone else got injured because I sat here running a cost-benefit analysis on basic decency, well, the resulting chaos would likely consume the rest of my Monday. My entire Monday! I had a nap scheduled! God damn it!
+
+I stood up. Standing alone was an astounding event. I hadn't planned on standing for at least another fifteen minutes, and my body knew it, but I was already committed to the worst possible version of this morning.
+
+I raised my wand and targeted the big shadow first. It was circling toward the entrance and was now roughly the size of a horse after absorbing its pack's meat. "[Light]."
+
+[Light - Manifestation]
+
+Cost: 3 mana.
+
+Creates a colored ball of light at the target location.
+
+A bright amber light shot forth from my wand and streaked across the hall. It looked small! Almost pathetic, like a tiny firefly challenging a thunderstorm.
+
+Of course, it missed. The shadow folded sideways through its own shape and let the light sail past, where it splashed harmlessly across the far wall, leaving a warm glow on the brick. The student near the entrance flinched away from the light, like I had thrown something dangerous.
+
+"You need to work on your aim," Finn said. He had finally recovered from his injury enough to stand, though he likely had a concussion.
+
+"My aim is flawless," I said. "The target was uncooperative, not me."
+
+The shadow turned toward me now. Whatever dim intelligence controlled these things had registered me as a threat, which of course I was. Just because I'm lazy doesn't mean I'm not good. The shadow shook itself and lunged at me. I sidestepped with barely an effort. The thing passed close enough that I felt the cold of its shadows, sending a bone-deep chill down my spine.
+
+I needed a different approach. [Light] was going to work, but the spell orbs were a little tiny. Hitting the shadows wasn't going to be a problem, because the light just being near hurt them. The problem was hitting them hard enough. I cast the spell again. This time, a purple sphere this time hit the stone and burst into a pool of warm light. The shadow reared back, unwilling to cross the illuminated ground.
+
+Great! It was working. Light on the floor was harder to dodge than light flying through the air, but the damage didn't hold. Already, the glow was fading. The shadow pressing against its edges, testing the fading light. I needed to make the light bigger, stronger. "[Enlarge]."
+
+[Enlarge - Alteration]
+
+Cost: 4 mana (variable).
+
+Enlarges target object or magical effect at variable scale.
+
+The pool of purple light on the floor tripled in size. What had once been a circle, the width of my breakfast plate, became a blazing disc that covered the aisle between tables. The shadow screamed, this time creating a sound that was worse than nails on a chalkboard, and its legs dissolved beneath it.
+
+Two down, one to go. The second shadow had recovered from whatever the dungeon track student had done to it and was circling back toward me. I was, apparently, the biggest threat in the room now. Wonderful. The things I did for a quiet Monday.
+
+It lunged. Fast, low, and from my left, where most people would have had a blind spot. Most people didn't have [Wideview] active. I saw it coming from the moment it tensed, which meant I had plenty of time to do something about it.
+
+I didn't dodge. Dodging required moving my whole body, and I was tired of moving.
+
+Instead, I pointed my wand at my own chest.
+
+"[Light]."
+
+A warm blue glow bloomed across my torso and spread outward until I was standing in a cocoon of soft light. The shadow hit me and recoiled as if it had bitten into a fire.
+
+Its form shredded on contact, wisps of black mist peeling off its body and evaporating before they reached the floor. It screamed that horrible silent vacuum scream and tried to pull away.
+
+"[Enlarge]."
+
+The blue light swelled outward from my body in a sphere. The shadow didn't stand a chance. It was already too close, already burning, and now there was nowhere to retreat. The light consumed it whole, and it dissolved into nothing.
+
+Finn stared at me from the floor where he was still recovering. "Did you just use yourself as bait?"
+
+"I used myself as a lamp," I corrected. "Much less effort than chasing it."
+
+The dungeon track student looked at me, and then where the shadow had been, and then back at me. His mouth was open, as if he couldn't quite believe I was the one that had saved him.
+
+The third shadow monster was smart enough to have watched what happened to its packmates. It moved quickly, abandoning its target, and sprinted along the far wall where the torchlight was weakest. It was trying to escape out the entrance, heading for the corridor beyond, where there was even less light and shadows were everywhere. It was clear its goal was to escape into the ancient bones of MIRKS and become a future problem.
+
+I was tempted to let it happen, but if a shadow manifestation got loose in the building, it'd take days for the faculty to hunt it down, and then that would involve lockdowns. That would involve routes that were shortcuts being cut off. It would cause so many problems. God, it was so hard to not put in effort some days.
+
+"[Light]."
+
+It was a green one this time. I knew there was a way to control the colors, but it cost an additional 2 mana, and I was lazy. The spear hit the fleeting shadow, and I immediately followed up.
+
+"[Enlarge]."
+
+The green light bloomed like a flower in the sunlight. The shadow twisted, trying to fight the expansion. Its form flickered between solid and mist, but the spell was already doing its work. The light grew faster than the shadow, and it dispersed.
+
+Three down, one to go, and of course it was the biggest one. The horse-sized one. The one that everybody had failed to kill so far; the one that got more powerful the more spells were thrown at it. I didn't even pay attention last year when they went over this in Elemental Magic class. I knew that you killed shadow magic with light magic. Amateurs.
+
+But I was running low on patience. Why did I have to be the one to solve problems? It was just like last year. There'd be some big issue, and nobody would have the brains or the balls or the whatever to take out a fucking problem. I knew coming to this school was a bad idea.
+
+But given the fact that I didn't want anything else to take time out of my day, I decided to put some effort in. I sighed again.
+
+"[Light]."
+
+This time, I actually put a little mana into it, and I visualized everything I could in terms of brightness and intensity. The spear that came out was a blazing white star, and I sent it directly into the center of the shadow's mass. But before it connected…
+
+"[Enlarge]."
+
+The white light enlarged before detonating outward as if it were a bomb. The shadow didn't dissolve so much as evaporate in a single silent flash that turned every surface in the dining hall stark white for a second. Students shielded their eyes, the torches flickered back down to normal, and the sickly blue tinge vanished from the air. Warmth flooded back into the room like someone had opened the doors to summer.
+
+I sat back down. My tea was still warm, so I finished it off. The hall was silent except for the settling of dust and the distant sound of approaching footsteps. Of course, the faculty was here late, finally arriving with impeccable timing. The scorch marks on the floor were already fading as the enchantments on the bricks rebuffed their damage. The splintered bench started knitting itself back into one piece. Kalin stood at the center of all of it, where he had cast the summoning. Hands at his sides, staring at nothing. Davos had fallen back on the ground somehow and was still nursing his pride.
+
+Finn limped over and dropped into the seat across from me, favoring his left side. You could see damage on his face. A bruise was forming where he had hit the shelf directly in the center of his forehead.
+
+"For someone who didn't want to get involved, that was a lot of spells," Finn said, breathing hard.
+
+"I barely spent, like, 40 mana." I picked up my tea, having forgotten that it was empty. "That's what it cost me to clean up someone else's mess, because nobody in this hall full of trained mages could figure out that shadow constructs are weak to light! Light! Literally the thing that's the opposite of shadow! We learned this last year."
+
+"You still missed the first one," Finn retorted.
+
+"The target was uncooperative. I already told you!"
+
+"It looks like you need to work on your aim."
+
+"Then you need your eyes checked. Which is convenient, because you also need your ribs and head checked. You should head to the infirmary."
+
+"I'm fine, I can cast a spell later."
+
+"You're not fine. You have the pain tolerance of a Restralian farm ox and the self-preservation instincts of a moth. If you don't go to the infirmary willingly, I'll [Levitate] you there, which will cost me a bunch more mana, and it's also gonna cost me effort. You know how much I hate effort!"
+
+He almost argued. Then, he saw whatever was in my expression and decided against it, which of course was when the faculty finally took charge. Everyone said I was lazy, but we'd had an entire conversation in the time it took them to get their acts together.
+
+The main doors exploded open, and Deputy Headmaster Aldrick Bain crossed the dining hall. He was already drawing conclusions, his eyes boring into the back of my head as if he could kill me with a look.

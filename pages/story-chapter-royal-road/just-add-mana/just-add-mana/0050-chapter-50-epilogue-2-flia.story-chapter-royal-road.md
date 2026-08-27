@@ -1,0 +1,113 @@
+---
+id: c3d62bc5-5e56-51f6-9c53-11aedd658f20
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50 — Epilogue 2 — Flia"
+slug: 0050-chapter-50-epilogue-2-flia
+partOf: just-add-mana
+position: 50
+ownLength: 1856
+unit: words
+ownProgress: 1856
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2693739/chapter-50-epilogue-2-flia"
+royalRoadId: "2693739"
+markedReadAt: "2026-06-29T18:49:17.385Z"
+---
+
+Flia was having some trouble with the whole meditation thing.
+
+The Leviathan had made it pretty clear what she needed to do: she needed to reach into her core. The problem was that the process wasn't quite so simple for an elemental, and it was even more difficult for Flia than most. She had never been able to relate to what others of her kind described when they searched their cores or their souls. They all spoke of being part of a great cycle, a small piece of some greater whole.
+
+That was the thing about elementals. They were connected to their magic in a very fundamental way: a part of them was supposed to know, beyond any shadow of a doubt, what aspect of their element they embodied. They used that to deepen the strength of their magic, to reinforce their souls and push at the boundaries of their mana cores.
+
+Every elemental was different. Even among water elementals, close-knit communities that they were, the process differed slightly for every single one. Her mother had once explained that reaching into her core felt like the experience of being a single wave in an ocean; one of her aunts had described meditating on the feeling of being "a ripple in a pond." She knew others still that had even more nuanced images they meditated on, from being a single drop of rain to a following a trickle of water filtering through the soil.
+
+Flia had never been able to relate to any of that. It did usually work, if she tried hard enough and for long enough, but that didn't feel remotely sufficient for what she needed to do now. She sighed, opening her eyes and staring at the gentle waves of water rippling through her bed.
+
+Beside her, Sabri made an inquisitive sort of chitter, half-climbing into the pool so it could nudge at Flia's arm. Flia smiled and picked the little shadeling up.
+
+"I've never felt like I was part of some great cycle, you know?" she murmured out loud. "I mean, even before everything started going wrong with my magic, I was apparently something of a problem child. The rest of the family is all gentle and serene, like water elementals are supposed to be. I kept climbing out the windows until my parents had to waterproof them."
+
+She chuckled softly. According to her mother, she always found a way to squeeze her way through the cracks and promptly fall straight into the lake below.
+
+"Young water elementals aren't supposed to climb into lakes," she whispered conspiratorially to the shadeling. "We're too young to have a properly developed sense of self yet, so if we aren't careful we just end up dissolving and our parents have to spend months putting us back together.
+
+"Not that I ever had a problem," she added. "Every time I snuck out my parents would just find me in some hidden alcove under the lake, apparently playing with a small collection of seaweed and shells. Not sure why they were so worried, honestly. Could've done without all the waterproofing."
+
+Sabri burped encouragingly, and Flia patted her, already lost in thought. She needed a different approach, but she was having trouble figuring out what that was. If the normal methods didn't work for her, then she was in uncharted territory; how was she supposed to advance this field of Law-imbued magic, all by herself?
+
+Then again, maybe it wasn't the Law that was the problem. She had always been dangerously adventurous, even as a child. Flia was bold where other water elementals were gentle, loud where they were serene. Even now she had something of a temper, and she rarely tried to flow her way around a problem so much as tackle them directly.
+
+By her own admission, she was a terrible excuse for a water elemental. Flia grinned slightly at the thought. There was a time when just thinking that would have eaten her up, but now she ruminated instead on her family's constant insistence that they loved her anyway. It was incredibly annoying, but now that they weren't constantly in her face about it, she found she was rather touched.
+
+It helped, of course, that she finally had some answers and no longer just felt like there was something terribly wrong with her. That fragment of the Leviathan's Law was the only reason she'd been able to bring that Abyssal One home, and for her, that was enough proof that her particular brand of magic had value.
+
+Now she just needed to figure out how to find where that fragment was hiding and bring it fully under her control.
+
+"You know," she muttered to Sabri, "maybe it's not the Law that's the problem here. What do you think?"
+
+The shadeling warbled at her. Flia nodded.
+
+"Right," she said. "The Leviathan said my affinity with her Law was greater than she anticipated. Which means there's something about me that has that affinity with it..."
+
+Flia trailed off.
+
+When she tried all the old methods—visualizing herself as a ripple on a lake, as a raindrop amid a storm, that sort of thing—she couldn't get deep enough into her core to find where the fragment of the Leviathan was buried within her. Nothing about the image resonated, so the most she could do was a surface-level inspection.
+
+But if the Law had resonated so strongly with her, maybe that was for the same reason all those images had never worked for her. She had never been able to picture herself as just one component of a greater cycle.
+
+No, if she really had to find an aspect of water that represented her, there was only one thing that felt like it fit.
+
+The oceans.
+
+Flia felt the water around her beginning to churn as the realization settled within her. She could never have settled for just being a part of something greater—she wanted to be that something greater. The oceans supported not only the realms themselves, but the enormity of life teeming within them. That represented her soul far more than a drop of rain did, and more importantly, it felt right.
+
+It made sense, too, that she had a strong affinity with the Leviathan's Law. The Abyss itself was not unlike an endless ocean that both separated and connected the Great Realms. It was the truest expression of the Leviathan's power, and the Law explained it perfectly: it was all that stood between the realms.
+
+And what were oceans if not the same idea, applied to a single world?
+
+Her mana core bloomed in her mind's eye. What had been previously impenetrable felt suddenly like it was entirely open to her. She could map where all the spells the Gift had granted her were nestled within her core, could feel the turbulence of her own magic as it cycled through her.
+
+Only now there was a new problem: there was too much of it.
+
+An entire ocean was a far cry from a simple ripple or a wave. The way Flia was visualizing her core made it enormous. She had no idea where to begin looking to find where that fragment of Law might be embedded within her, and she didn't even know what it might look like. For all she knew it was nothing more than a faint influence present everywhere in her core, and if that was what she was trying to identify in something as large as the ocean?
+
+She grimaced. This was going to take her longer than she'd initially thought.
+
+For the next few hours, Flia tried—and failed—to find the part of her that carried the Leviathan's influenced. She lost count of how many different strategies she tried. She used everything she'd learned about resonance, just in case the method was similar; all sorts of meditative techniques from her family, even the ones she found ridiculous; she changed the water she was using as her bed,
+
+None of it worked until Sabri, tired of her wandering around her room and doing everything she could think of, crawled up to her shoulder and bit her.
+
+"Ow," Flia said, not that it really bothered her. She blinked, then smiled softly at the shadeling, giving the grumpy thing a little scritch along its head. "I guess you were getting kind of bored, huh? And probably hungry—"
+
+She stopped mid-sentence.
+
+For that one moment, she let herself fully relax into her bond with Sabri, and in that same infinitesimal second she felt something in the ocean that was her core shift. Like a single current that didn't quite belong.
+
+Almost as soon as she sensed it, she lost it again, but that infinitesimal moment was all she needed. She'd felt for a moment exactly how far the Law's influence extended. It was a single current within her with no apparent source, but that single current drove every wave and touched every ripple within her soul.
+
+"Oh," she said, because she understood now how deeply the Law had touched her magic. A single current like that added to an ocean would change every wave, no matter how slightly, and so in that same way it had touched all her spells...
+
+"Now I just need to find it again so I can grasp it," she said with a sigh. She smiled at Sabri. "I don't suppose you'd mind waiting another couple hours?"
+
+Sabri glared at her, opening its mouth as if threatening to bite her again. Flia snickered and poked its snout.
+
+"I hope you know you can't do that to anyone that isn't me," she said. "Yeah, you're right. Let's go get you some food. I'm sure Alina has some raw meat for you, and after that, I think we'll pay a visit to the academy's menagerie. How does that sound?"
+
+"Plbtrr?" The shadeling tilted its head at her adorably, then bumped its snout against her palm, and she laughed softly.
+
+"You have no idea what I'm saying yet, do you," she said. "It's fine. I just realized I was going about this all wrong. I know what I need to do now."
+
+Flia wasn't like the Leviathan. She didn't embody connection as a whole. But she'd been selected because of her affinity with all kinds of magical creatures, and it was that part of her that drove her magic most strongly. Just like the Law, it was its own current in the ocean of her power.
+
+"Come on," she said. "Let's go."
+
+Flia turned to make her way out of her room, and then—and only then—did she finally notice the gleaming fire sigils that now decorated her room, and also apparently the entire hallway. She paused, blinked, then cautiously poked one to see if it did anything.
+
+It seemed safe enough. She had no idea what this was, though. A professor's spell gone wrong, perhaps?
+
+Or Cale again.
+
+The air kind of smelled like bread, come to think of it, so... definitely Cale again.
+
+Flia sped up her steps. While she didn't technically need to rush, she suddenly felt rather like not rushing would be a bad idea.

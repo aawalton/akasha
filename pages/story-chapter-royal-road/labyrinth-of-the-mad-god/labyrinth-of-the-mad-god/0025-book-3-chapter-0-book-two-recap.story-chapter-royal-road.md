@@ -1,0 +1,53 @@
+---
+id: d6b7cea8-c276-50a3-972c-de1eb031abda
+page-type-slug: story-chapter-royal-road
+title: "Book 3 Chapter 0: Book Two Recap"
+slug: 0025-book-3-chapter-0-book-two-recap
+partOf: labyrinth-of-the-mad-god
+position: 25
+ownLength: 1462
+unit: words
+publishedAt: 2024-07-19
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1724175/book-3-chapter-0-book-two-recap"
+royalRoadId: "1724175"
+---
+
+“Hi everybody, it’s Nick. I’m here with Sophia to give you a rundown on the events that took place during book two, just in case it’s been a while or you’re in need of a quick refresher. But before we get to that, Sophia, would you care to introduce yourself and say a few words? I know that there are a lot of people out there who have been hoping to meet you.”
+
+“Sure. Why not? I’ve never done one of these before. It’s actually kind of exciting. Oh wow, you weren’t kidding Nick. There are way more people here than I expected. I didn’t realize that so many readers have been following our adventures.”
+
+“I know what you mean, I’m still getting used to this too. Don’t worry, everyone here is friendly. Isn’t that right folks? All you have to do is say hello and then share some of your thoughts about what happened to us during our adventures on planet Drezen. The first chapter of book three is coming out soon, when we get to find out what’s inside the tower and take our best shot at winning back our planet.”
+
+“Ok. I’ll give this a go. Hello everybody, Sophia here, I’m glad you’re with us. Nick and I went through some crazy shit crossing Blackmist Bog and we barely made it into the tower in one piece. Sorry, I’m getting ahead of myself. Why don’t I hand this back to you to start things off, since we didn’t meet up until book two?”
+
+“Sounds good Sophia, I’ll get back to you soon. To set the stage, back in book one the System came to Earth, killed a lot of people, and forcibly evolved everyone else, giving them the ability to use magic, level, and all the rest. It looked like that was going to be the worst of it, but then Taltos the Mad God hacked the System, stole the planet, and switched the settings for our tutorial to hell mode.
+
+“I went through a lot of unpleasant stuff learning how to survive and make it in the multiverse. Including entering a dungeon way below the recommend level and almost having my mind overwritten by a nasty alien parasite. I fought a lot of critters when I got back on the island, culminating in a crazy war between beasts when the isle began sinking into the sea. We all had to climb the mountain and then jump into a portal before a cyclone the size of a continent ruined our day. On the other side, I found Taltos waiting for me in some dude’s living room.
+
+“That takes us to the start of book two. When I made it through the portal, the Mad God himself was waiting to greet me, which was quite a surprise and not a good one. While I don’t trust him an inch, Talos made me an offer that I couldn’t refuse. A chance to win an uncommon class for myself and unlock common classes for everyone else, if I agreed to participate in a two round arena battle. I wasn’t really feeling it after barely surviving my tutorial, but there was no way that I was going to pass up such a critical opportunity to grow stronger.
+
+“After giving the matter some thought, I agreed to his terms then stepped into another portal. I had a crazy vision of traveling across the galaxy, then found myself standing in the nicest locker room I’ve ever seen. Only instead of sporting equipment, it was filled with a medieval combat enthusiast’s wet dream.
+
+“A creepy hologram appeared and filled in the details. Our challenge would consist of two fights, with a break between rounds. Apparently, it was some super famous colosseum called the Grand Arena of Papillion. Maybe I’ll make it back there sometime, you’ll have to keep reading to find out. There was a cool crystal there that helped heal my injuries, and some extra weapons to top off my stores. That was when the rest of my team arrived, including you, Sophia. Why don’t you take it from here?”
+
+“Thanks Nick, happy to help. That sounds like quite a trip. Anyway, we introduced ourselves to one another, and made some friends that will be showing up again soon. There was Kenji, the spear-wielding strategist. Veronica, the leather-clad rogue. Devin, a good looking fellow with some flashy fire attacks. The siblings Sarah and Bret, wielders of light and dark. And Paul, who had some nifty arrow-based disables. There were a few others there too, but unfortunately, they didn’t make it. It’s sad, but that’s our life now, so it is what it is.
+
+“We stepped out onto the arena floor, only to find millions of people watching us from the stands. There was an announcer who I would love to get alone in a room for five minutes, although I doubt that he would appreciate what I have in mind. After an aggravating bit of showmanship, we were introduced to our first opponents, a swarm of frostfury wasps led by an elite soldier.
+
+“It was a tough battle, and we lost our first ally during the melee. But in the end, we pulled through by the skin of our teeth. I took the corpses, since no one else wanted them, which is how I wound up getting my dagger and my summoning class. But we can talk more about that later. Why don’t you tag in for a few rounds here Nick.”
+
+“Sure thing Sophia, thanks for taking us this far. For round two we had a surprise visitor show up, the Herald of Slaughter, a being only two steps below Taltos himself. After scaring the crap out of everyone, she used some strange power to transform a rhinoceros into a hideous, muscle-bound mutant. That fight was even tougher than the first, and we lost another good man along the way. But in the end, we pulled it off, and managed to unlock common classes for everyone.
+
+“Before we could say goodbye, the System whisked us away, then finally gave us the rewards for completing the tutorial, on top of what we’d just won. I was able to pick up a sexy new Kineticist class, got my spell piercing ray, and my first rare item, a flask of restoration, along with some other nice gear.
+
+“I had some downtime in a luxury safe room, training my skills and decompressing from my adventures up to that point. While I was there, we learned about what was going on with the lemur tribe back on Earth, who I’m sure we’ll run into again before long. When my time was up, I was ready to take on Taltos’s latest challenge for the fate of the Earth.
+
+“I was transported to planet Drezen, had a cool orbital experience, then set foot onto Blackmist Bog. I had some solo adventures, including fighting some killer frogs and surviving a night where horrors from another dimension rose from the soil, with the blood moon high in the sky. Not long after that, I ran into Sophia, who saved me from getting mugged. Since you were back in the book from that point on, why don’t you wrap up the rest.”
+
+“Will do. Nick and I traveled for a week, heading for the Tower of Rizzen in the distance. Along the way, we got to know one another and became friends. After being sucked into an abandoned mine and fighting a horde of giant centipedes, we ran into a nasty beast called the river king, who looked like a cross between a dragon and a turtle. After escaping from the king, we crossed the river, almost got eaten by some killer fish, then made it to the tower.
+
+“When we got there, we learned that some dude named Jim had taken over, investing in the elites at the cost of everyone else. We were gearing up to stop him, when the last global event was triggered, causing the mists to come streaking for the tower, with the lord of the shadow hunt behind them. The river king was driven our way by the lord, and we had to fight it to let everyone get inside.
+
+“It was a close call, but we pulled it off, jumping into a door at the last possible moment. I thought we were done for a minute there, but now we’re inside the tower and ready to climb. That’s everything I can think of Nick, would you like to wrap this up?”
+
+“Sounds good, thanks again Sophia. That’s it for today’s recap everyone. I hope to see you inside the tower in a few days, thank you so much for following our adventures so far. Bye for now!”

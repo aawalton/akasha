@@ -1,0 +1,169 @@
+---
+id: 5aaa0e57-22df-5017-a11b-e443f9b20ed4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20 — Ghosts in the Dark, Pt 3"
+slug: 0020-chapter-20-ghosts-in-the-dark-pt-3
+partOf: just-add-mana
+position: 20
+ownLength: 2894
+unit: words
+ownProgress: 2894
+publishedAt: 2025-08-12
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2512193/chapter-20-ghosts-in-the-dark-pt-3"
+royalRoadId: "2512193"
+markedReadAt: "2026-06-29T18:48:12.676Z"
+---
+
+Sneaks-In-Darkness had finally managed to make it through the stupid door.
+
+She didn't know how long she'd spent working at the damn thing. It had taken her almost fifteen minutes just to find it, hidden in the stone as it was, and another five minutes just to pry it open. Spending this long doing anything was just embarrassing. She was a part of the Red Hunters! Being stumped by a door was... it was...
+
+Bah. It didn't matter. She was through the door now, though she could swear that for some reason the hallways were getting hotter; it was sweltering, and Sneaks couldn't sweat to cool herself down like most other species could. None of her cooling spells were working, either. Her shadowcloak was helping, but it was only helping so much.
+
+She needed to get to those initiates soon. It was a matter of professional pride, at this point; she could have taken the mission as a failure and gone back to the Commander, told him to activate the bloodrot, but that would definitely alert their enemies to their activities. That had to be a last resort thing, at least until they could establish enough of a foothold that their enemies no longer mattered.
+
+Right now, Headmaster Akkau was one of the only mages still standing in their way. They couldn't afford to anger him too overtly. That dragon, she was told, had spells that could kill every last one of the Red Hunters, and while the Commander had contingency plans in case he used them, he would prefer not to have to use them.
+
+Sneaks-In-Darkness preferred that too. She didn't know what those contingency plans were, exactly, but she'd been around the Commander enough to have noticed the stink of the magic coming up from beneath the floorboards. It felt... wrong, to her mana sense, like she was sensing something that didn't quite belong to any of the Great Realms.
+
+She didn't need to know what it was to know that whatever it did was terrible. But if anyone could be trusted with that kind of power, it was Commander Isyanek; he would make sure that it would be leveraged only to put down the threat of wild magic once and for all.
+
+That meant that right now, she had to do her duty. She had to find those initiates before Headmaster Akkau could disable the magic in those emblems and interrogate them. Preferably, she'd also find Cale and capture him, but Sneaks-In-Darkness knew she might have to wait until she could catch him off-guard.
+
+She hadn't gotten this far by failing to be cautious, after all, and while Cale didn't feel especially dangerous, something about that was off. His barriers had fended off her spells entirely, for one thing. Even if his core didn't feel like that of an archmage's, it was best she treat him like an archmage-level threat, just in case—
+
+Sneaks-In-Darkness stopped in her tracks, her thoughts cut off by what she saw in front of her. She frowned. This wasn't any of the initiates. It was the golem that had somehow managed to cut off her scrying spells. Why did the soul-link feel like it was leading her here?
+
+The golem's eye seemed to blur slightly. Sneaks-In-Darkness watched hesitantly as the eye split into two, then four, each one bound with a slightly different but equally powerful scrying spell.
+
+"I see," the golem said shortly. It cocked its head at her. "My name's Syphus. Well, sort of. Yours is Sneaks-In-Darkness. You're a kobold archmage, a Red Hunter, and... you've got three soul-links to the academy's students."
+
+Sneaks-In-Darkness narrowed her eyes. It had managed to see through her shadowcloak? How was it using magic at all? This space suppressed magic; even she could barely use her spells, although she could use them. Either this golem was an archmage like she was, or...
+
+"Wild mage," she hissed, her voice seething with hatred. She drew her daggers from her belt.
+
+As far as she could tell, the space they were in was completely magically isolated. Normally, the Red Hunters followed protocol; they had to get the wild mages to break first, to prove they were a danger to the public.
+
+In here, though? She could end this thing before it could take a single life. She began to advance, stalking forward.
+
+Syphus looked at her. Its eyes shuffled slightly, the scrying spells rearranging themselves into a different configuration before merging back into a single nexus. "Hm," it said. "Rule: Grows with distance from origin. And you've been ignoring it?"
+
+"What in the eight infernal realms are you talking about," Sneaks-In-Darkness spat.
+
+Syphus's eyes shuffled again, and it laughed. "Seven," it said, sounding amused. "I've been wondering about that. Didn't get the chance to check until now. Syphus really doesn't like it when I do this."
+
+"You just said you were Syphus."
+
+"I said sort of," the golem corrected. It seemed far too amused for the situation. Sneaks-In-Darkness didn't understand it; this thing was far too weak to beat her, and her daggers were enchanted ones besides. The Grand Mage had ensured it could cut through even dragonsteel, and the edges were enchanted with magical rot that would tear through whatever it cut.
+
+The golem was dead. It just didn't know it yet.
+
+Then she took a step forward and burst into flames.
+
+"I think I'll let Cale deal with you," the golem told her as she screamed. She didn't have her magic to protect her, and the shadowcloak did almost nothing against direct fire. "It's been so long since I've met anyone interesting. Cale Cadwell Cobbs, hm? Oh, this is going to be fun."
+
+With that, the golem reached forward and shoved. Space around her seemed to rebound and contort; for a moment, Sneaks-In-Darkness couldn't breathe—
+
+—and when she recovered, she found herself in a burning stone hallway. The heat was suffocating, but what drew her attention most was the figure that stood in the middle of it all; it looked like a fire elemental but wrong, twisted in a way that reminded her of the same rotting mana beneath the Commander's floorboards.
+
+It was humanoid, but its neck was bent the wrong way. Its mouth stretched open all the way down to what would've been its stomach. Every few seconds it let out a sound that sat somewhere between a gurgle and a chuckle.
+
+She gripped her daggers and gritted her teeth. The heat was making her head hurt, but she hadn't earned her archmage title from being weak. Whatever Syphus had done, it had made a mistake—Sneaks-In-Darkness could feel the real initiates now, just behind the reach of this fire creature.
+
+She would claim her victory. There was no other choice.
+
+For Izzik of the Golden Sands, life had ended approximately one week and fourteen hours ago.
+
+Everything that had happened since then felt like he was living some sort of waking nightmare. He kept telling himself it couldn't have been real—that he would wake up any moment and realize everything that happened since that night had been nothing but a particularly terrible hallucination. It was part of the reason he'd allowed himself to follow along with this... this charade for so long.
+
+The Red Hunters were supposed to be heroes. Their methods could be too violent, he knew that; he'd always felt they ought to take wild mages into their fold and teach them, not just execute them. In a different life, he might even have opposed their actions. He'd known some of the mages that drew the Hunters' ire. They'd been his friends.
+
+But Izzik knew all too keenly the consequences a true wild mage could invoke. Wild magic was, after all, the reason for the Aspect Cascade that had ravaged the Golden Sands and killed more than half his clan.
+
+It began something like two years ago, right at the edge of the desert, a sandstorm that crackled with gold-black mana. No one had thought anything of it at first—magical storms were common, and while they were more dangerous than the rest, they could be navigated with just a little extra caution. They had defensive spells and weather wards meant specifically to fend them off.
+
+Except nothing about the Aspect Cascade was common or navigable. Most magical storms could be defended against, but this one? It struck at the mana of all those within it, forcibly reattuning whatever aspect it carried into something different, often before a mage could let loose a single spell.
+
+Not that it would matter even if they managed it, because those spells were forcibly reattuned, too.
+
+Defensive spells withered away instantly, turning into fireballs that were instantly blown out by the wind. Speed and spatial ones, meant to take them out of the range of the storm, turned instead into steel or stone spells that hampered them. Healing spells shifted into plague and blood, tearing apart anyone they tried to heal even more quickly.
+
+Even their own specialty—their breath magic—failed them, turning into suffocating voids that stole flesh and breath alike.
+
+When all else failed, they shifted to the most basic mana construct of all: barriers. But those failed them, too. Solid barriers of force turned instead into planes of fire or ice; the worst ones flashed into aspects related to poison and were dispersed immediately by the storm's winds, sending throngs of people into coughing fits and worse.
+
+Izzik had been sixteen then. He'd watched the Aspect Cascade kill his father, and while his mother had been spared, it left her paralyzed from the waist down. Almost half the mages of the clan had died before the storm passed over them, and among the remainder, the healers hadn't recovered their magic until hours later.
+
+By that time, they'd lost even more of the clan, friends and family alike. Without immediate magical healing at hand and with aspect-frozen mana clinging to their wounds, even the survivors often had permanent scars or life-changing injuries. That was what had happened to his mother.
+
+Storm-marked, they called them. Izzik was storm-marked himself, although only in the form of a scar across the back of his hand. As far as injuries went, he'd gotten off lightly.
+
+Word came in after that the Aspect Cascade had been caused by a wild mage who lost control of his power; the mage in question apparently had a core with a sticky attunement that fell into one of the metamagic categories. Apparently, they hadn't entirely managed to attune their core to the weather aspect when casting a basic weather ward.
+
+A simple mistake, in theory, but one that had caused untold tragedy.
+
+Even now, the Aspect Cascade ravaged the Golden Sands. No one had managed to end it. If anything, it seemed to be growing, drawing strength from the mana it stole and changed. It was a constant danger now, and his clan were always on the run from it, living in sandships to stay ahead of its winds.
+
+So Izzik knew all too well why the work of the Red Hunters was necessary.
+
+And yet.
+
+Before the Storm, he'd wanted to be a healer. He'd loved magic in all his forms, and his father had encouraged that love. Aldur of the Golden Sands smiled warmly with every new attunement he managed, promised to send him to the Brightscale Academy so he could practice his magic, and above all...
+
+There was a little in-joke in their family, based on a moment that Izzik could no longer remember but that his father had spoken about with both amusement and clear pride. When he'd been a hatchling of no older than five, he'd apparently somehow managed to sneak into one of the meetings of the clan elders. He'd watched with wide eyes as they talked about all the magics they needed to invent to help their clan prosper.
+
+Then, being a five-year-old, he'd promptly climbed onto the table and declared he would invent "kindness magic."
+
+Everyone burst out laughing at him, of course, though little Izzik hadn't understood that particular nuance. He just laughed with them. Aldur, on the other hand, had collected him into his arms and kissed him on the forehead, and then he'd told him to never forget that part of him...
+
+Fuck. Izzik missed his father so much. He trembled a little, feeling a tear slide down his scales and onto his robes.
+
+The Red Hunter that had mentored him had reminded him of his father. It was something about his eyes—the way the scales bunched together when he smiled. It had been so easy to listen to everything Durak of the Crimson Sea told him. The only difference was that where Aldur encouraged kindness, Durak warned against it.
+
+Kindness only led to pain, he said. If the academies hadn't tried to be kind to wild mages and teach them to use their magic—if such mages had been locked away, or better yet, culled entirely—the Golden Sands wouldn't have suffered so much death.
+
+And Izzik had listened, but even then, it felt... wrong. There had to be a better way. He asked Durak about it, but Durak always shook his head and smiled at him sadly, telling him there wasn't.
+
+But there had to be, right? A way he could honor his father. A path to something better. Maybe he could change things for the Red Hunters, if he got in. Use their resources to make sure wild mages couldn't hurt anyone, without having to kill them.
+
+That message from Sneaks-In-Darkness had shattered his hopes of that. It had shattered everything he thought he knew about the Red Hunters, too. Izzik had no idea what to think anymore.
+
+Which was why, when Sneaks-In-Darkness showed up in front of them—shadowcloak burned, and raw patches of flesh exposed behind charred patches of scales—and collapsed, Izzik fell back to his oldest, most primal instinct. The one he'd fixated on all the way back when he was a hatchling, and when his father still looked upon him with pride.
+
+He crawled forward, fumbling in his bag.
+
+"Izzik! What are you doing?" Aila whispered at him, alarmed. She stared at the burnt body of Sneaks-In-Darkness with a mixture of horror and fascination; even as badly hurt as she was, Aila looked half-convinced that the mage would just get up and kill them at any moment.
+
+"I don't know," Izzik answered. His heart ached. Everything ached, really. He wished he'd never listened to Durak. He wished he'd never been friends with Aila or Geraal.
+
+He wished he was home, with his mother, listening to the last songs his father had played for them. He was so, so tired of death, of hard choices, of sacrificing one to save another. The Red Hunters were constantly extolling the importance of those hard choices. It drove everything they did.
+
+And in that moment, Izzik wanted to be nothing like them.
+
+He pulled the potion he kept in his bag and stared at it for a long moment, then slowly poured it down Sneaks-In-Darkness's throat.
+
+"You guys should run," he said. The words felt hollow to him, but he said them anyway. "I'll keep her here as long as I can."
+
+"What—" Aila stared at him like he was crazy; to be fair, he probably was. "Why did you give her a healing potion if you were just going to sacrifice yourself, you idiot! If she was already dying, then none of us had to—"
+
+Sneaks-In-Darkness's hand shot up and wrapped around Izzik's throat, and Aila cut herself off, her eyes growing wide.
+
+"Wrong," the Red Hunter said. She grinned, wild and manic, and pulled herself slowly to her feet. "If I died, that would have triggered the bloodrot to go off. This little idiot probably figured that out, didn't he?
+
+"Not that something like that would've killed me." She spat the words out, and something ugly pulsed beneath her scales; Izzik became slowly aware of a bizarre series of tattoos, inked into the flesh. It had been hidden by the fire's damage, earlier, but now it began to pulse with an eerie red, drawing the mana around them into itself. "I would've healed. And oh, I would've made it painful. But I suppose one good turn deserves another, so how about I make this quick?"
+
+That was all the warning he got. There was a sharp movement followed by a terrible crack.
+
+Izzik belatedly realized that was the sound of his own neck breaking. Aila screamed. Geraal's breath quickened.
+
+And then an absolutely monstrous amount of mana flooded into the world.
+
+Izzik wondered if this was what death was like. Perhaps one of the gods of death themselves had descended to take his soul.
+
+But no. All Izzik could see in the corner of his eye was the human. Cale, was it? Sneaks-In-Darkness's hand had left his throat, he realized, but he couldn't move—there was so much mana around him that it formed what felt like a thick gel, keeping him perfectly still and in place. Who was doing this? How was it even possible? To use this amount of mana was...
+
+Izzik saw the expression on Cale's face, then, and changed his mind.
+
+Whatever that was couldn't be human. That was a god of death descending.
+
+It just wasn't Izzik it was coming for.

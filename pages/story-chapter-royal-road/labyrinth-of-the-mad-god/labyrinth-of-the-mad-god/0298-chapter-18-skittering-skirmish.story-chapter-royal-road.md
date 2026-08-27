@@ -1,0 +1,127 @@
+---
+id: 49bbfda4-bbd8-5364-bcc2-df4ecbac58f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Skittering Skirmish"
+slug: 0298-chapter-18-skittering-skirmish
+partOf: labyrinth-of-the-mad-god
+position: 298
+ownLength: 2687
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3211604/chapter-18-skittering-skirmish"
+royalRoadId: "3211604"
+---
+
+Nick’s Piercing Rays went streaking for the monstrous quartet, a heartbeat after Bandit let loose with a volley of shadow flame.
+
+The spiders swerved when they sensed the lemur’s magic headed their way... which put them straight into the path of his. The balls of black fire missed the voidspawn by a good five feet, but his rays moved almost as fast as Sonic Slice.
+
+The monster he was targeting had committed to its dodge and didn’t have time to reposition. It raised its forelimbs to protect its body a bare instant before his magic struck, relying on its arcane barrier and durable scales to endure the penetrating attack.
+
+The spell-spawned drills picked up speed as the spheres of force mana floating beside his head transferred energy through the ray and into the whirling bits. His attacks were digging through the spider’s natural armor, but they were going to take a few seconds to reach full power, and the monsters were already making their move.
+
+While Nick waited for an opening to launch his Mana Darts, Bandit fired a swarm of tiny fireballs and the voidspawn launched acid webs from their spinnerets. The silk stuck to the exterior of Bulwark’s dome, hissing as the sticky solvent ate through the magic comprising Kenji’s spell.
+
+One major difference between these foul creatures and Earth spiders was their spinnerets were located beneath their jaws. That meant they could fire webbing on the move and while engaged in melee combat—a tactic his party needed to be on guard against as the skittering skirmish wore on.
+
+After evading the shadow flame, the monsters spread out and resumed their charge. They lurched from side to side, changing directions unpredictably as they approached Bulwark’s dome, which was an opaque hemisphere from their perspective. Along the way, they launched another round of acidic webbing, weakening Kenji’s barrier before slamming into the forcefield with their blade limbs leading the way.
+
+Everyone needed room to use their powers to their fullest, and his team had spread out while waiting for the brawl to begin. If the perimeter of the dome was a clock, Lurk and Kenji were standing at ten and two, poised to strike the second their opponents came into range.
+
+Nick was standing at six o’clock, preparing to engage the spider that had circled around while following his ray’s magic to the source—trying to take him out before the spell reached full power.
+
+That left one Tier-2 monster unaccounted for. Bandit wasn’t tough enough to engage it head-to-head, but the lemur had another plan in store. He let loose a tremendous surge of mana from his energetic core, which took the form of a Shadow Clone.
+
+All of this had taken place within the span of a breath, and as the spiders assailed the dome from four sides, five events took place within a frenetic handful of heartbeats. While the voidspawn couldn’t get through without shattering Bulwark, his party was under no such restriction.
+
+Bandit’s Clone leapt straight through the barrier, landing on top of the monster coming in from Nick’s right. The inky-black beast gripped the creature’s abdomen with three limbs while raising its free hand to point at the spider’s scale-covered head, unleashing a flamethrower that covered it in living shadows that seared and sliced at the same time.
+
+In addition to being intensely painful, the malleable magic flowed over its eyes, blinding the monster while providing a pressing distraction. It swerved to one side, using its multijointed limbs to stab at the lemur on its back in a move no earthly arachnid could match.
+
+The remaining voidspawn pressed their attack, shattering Kenji’s barrier into fading fragments of light. Bulwark was on its last legs after blocking the webbing, and destroying it only slowed them down for a fraction of a second.
+
+However, that momentary delay, combined with the fact that they couldn’t get a precise read on the party’s locations, meant there was more than enough time to give the creatures a greeting they would never forget.
+
+Lurk leapt and brought both sets of talons down onto the monster headed her way. The Tier-2 voidspawn was a formidable opponent, but its scales couldn’t stop that much mass concentrated along the cutting edge of her fearsome natural weapons.
+
+The dino hit the ground with a thud that rattled Nick’s bones, cutting into the creature’s body but not scoring a critical wound. Before the spider could recover, she followed up with a stamina-bolstered bite, tearing a leg off while dodging a lunge from its venom-drenched mandibles.
+
+Kenji had braced his tower shield against a seam in the stonework, with his long spear protruding through a flap. Thanks to the armor’s modifications, he could see through the metal, granting him a clear view of his opponent while offering total protection from that side. He activated Penetrating Thrust, digging a deep gouge along one side of the spider’s abdomen before it slammed into his shield, forcing him to take several steps back to remain upright.
+
+The scarred strategist had switched on Enhance Armor, which saved him from taking an incapacitating injury as two bladed limbs wrapped around the sides of his shield, screeching as they dug into the metal of his breastplate. Before his foe could follow up or climb over, he cast Shield Bash, transmitting a torrent of force mana from the face of his shield that tossed the monster aside and gave him time to switch up his stance.
+
+Nick didn’t get a chance to see what happened next. High Mind or no, his own enemy had appeared before him, demanding his full attention. if he wanted to live through the next few seconds, he needed to place every scrap of his concentration into dealing with the creature whose tier and level surpassed his own.
+
+On a more promising note, his Piercing Rays had reached full power. The spinning drills pierced the scales and sank into the spider’s legs, tearing them off as the spells passed through. However, the voidspawn was smart enough to angle its limbs so the rays hit the platform instead of striking its torso, mitigating the damage it suffered.
+
+The voidspawn charged as it maneuvered its forelegs, spitting an acid web that would have hit Nick if he hadn’t conjured an Arcane Shield between them. He ducked beneath the barrier’s rim while firing the trio of Mana Darts he’d manifested a few seconds prior.
+
+The silver blades sank into the monster’s thorax, invading its energetic network as his magic disrupted its vital energy and turned a portion of its health, mana, and stamina against it. Most of the enemies he’d fought had been stunned by this assault, but the voidspawn was strong enough that it didn’t lose control over its body, although its movements were considerably less coordinated than before and it couldn’t fire more webbing until his darts wore off.
+
+He didn’t give it a chance.
+
+He rose to his full height and let loose with wicked overhead chop. Blightbane was infused with pure mana, and his strike was bolstered by Force Acceleration and the stamina from Heavy Blow, magnifying the force of his swing. The move wasn’t as powerful as Sonic Slice, but it packed a considerable punch.
+
+However, Nick had underestimated just how tough these voidspawn were.
+
+The chime of metal against scales rang out as his sword caught the creature’s abdomen and went skidding across the surface, shearing off a third leg along the way. That still left seven bladed limbs to deal with, along with the spider’s acidic silk and deadly bite.
+
+By this point in his adventures, Nick could not only cast multiple spells at once but do so on the move—even while fighting with his sword. He kept a continual barrage of Mana Darts and Piercing Rays coming, which he could maintain for quite a while before the mana in his core ran dry.
+
+That was a good thing, because it took every trick he knew to meet the monster in melee and hold his own.
+
+He would have had an easier time if he could use Sonic Slice, but that wasn’t an option right now. Fighting four of these creatures was pressing his party to the limit. If they drew the attention of another pack, they were well and truly fucked, especially the poweful spiders in the middle city that could climb the outer web.
+
+Fortunately, the next strata was a thousand feet below his boots. Even still, their fight would have drawn more trouble to their doorstep if it were the only conflict taking place with the fallen metropolis. But with the endless war taking place across the node, their battle blended with the cacophony of combat echoing across Eroquis.
+
+Not that Nick had time to worry about that now.
+
+He leaned hard on Arctic Clarity, using the technique to hone his concentration as he parried a frantic barrage from the voidspawn’s limbs. He landed several hits with his spells in the process, blocking its webs with Arcane Shield and its mandibles with the Caster’s Buckler strapped to his left arm. Its blade limbs bit into his flesh as the fight wore, but while they were painful, nothing was deep enough that he needed to quaff a potion.
+
+Nick had enough Toughness to run for hours and fight in a prolonged engagement without running out of stamina. Even still, the intense brawl—where a single mistake could cost him his life—was mentally and physically taxing, and the stress only mounted as his scrapes and bruises piled up.
+
+Luckily, he didn’t need to actively track the other spiders. Kenji had turned so he could defend blows from the voidspawn in front of him while watching the battlefield, using Tactical Command to update the party as needed.
+
+When Kenji gave the signal, Nick reacted without hesitation. He drove his opponent back with a well-timed Force Riposte that claimed one of its eyes, then pinned it down with a volley of Rays and Darts while reaching for his wand. Following the tactician’s guidance, he pointed his force-flinging device in the direction Command indicated and fired without hesitation.
+
+The reason became clear a half-second later. Bandit’s Shadow Clone had run out of mana, dispersing as the energy forming the spell’s matrix fell apart. The magical mimic had inflicted some significant damage, but the monster’s arcane barrier was sufficient to extinguish the shadow flame now that the clone wasn’t there to pour on the pain.
+
+Freed from its unwelcome guest, the voidspawn had circled around before rushing to rejoin the fight, preparing to attack Lurk from the beast’s blind side and overwhelm her while she was dealing with the opponent in front of her. However, the creature’s charge had carried it into range of Nick’s wand, and since he hadn’t looked its way, the move caught it by surprise.
+
+The first blast ensued as the spider leapt—venomous fangs and bladed forelimbs poised to strike. After gaining so many points of Magic and training his Wand skill, the device had grown dramatically more powerful in a short span of time. Thus, when the cone of force mana caught the voidspawn broadside, it altered its trajectory, causing its ambush to miss.
+
+Following Kenji’s guidance, Nick fired four times back-to-back, draining the wand’s charges in the blink of an eye. The potent magic struck the airborne horror, sending it flying over the edge of the platform. It tried to secure itself with a hasty web, but the move had come too late. The monster hissed in fury as it toppled toward the lowest level of the city, taken out of the fight in a flash.
+
+The dramatic reversal couldn’t have come at a better time. Everyone was hard-pressed and in desperate need of relief.
+
+Nick hit his enemy with a fresh round of darts while dodging a thrust for his head. Now that its pools of vital energy were running low, the silver missiles’ assault made the creature spasm for a few seconds while staggering away from his position.
+
+It gave him a chance to scan the battlefield and see how his friends were doing. Lurk was trading strikes in a brutal exchange of blows. The spider had her beat on levels and tier, but the beast was considerably more massive and had incredible natural attributes.
+
+While the dinosaur was a fierce combatant and could rapidly regenerate, her moves were calculated to maximize the damage she inflicted while taking as little as possible in exchange. The strategy made sense. She had only been able to heal for a few months but Lurk had been fighting with her life on the line since long before the System arrived.
+
+Additionally, though her stamina well was as deep as the sea, her energetic core was significantly less developed, and the towering predator didn’t have the capacity to use her restorative magic indefinitely.
+
+Nick suspected Regeneration could restore damaged organs eventually, since her missing eye had regrown. However, he had no idea how long that would take and the dino still needed to protect her vital points. She used the long talons on each foot to rake the monster when it tried to stab her with its blade limbs and was careful to evade the acid webs it fired every now and again.
+
+The voidspawn realized its tactic wasn’t working. It tried to leap onto the beast’s back, where it could bite and stab without taking damage in return. At that point, the creature learned that while Lurk’s arms were shorter than her legs, they were far from vestigial.
+
+In a remarkable display of agility, she spun to one side, catching the spider’s limbs with her hands. Lurk spun on one foot and continued the motion, using centrifugal force to keep it from turning while spreading her jaws wide. She took a bite that sheared off two legs and carved a grievous wound along the voidspawn’s abdomen.
+
+She flung the spider to the ground, savaging it with her talons as it skittered back and began to circle—injured, but still determined to take the dino down.
+
+As Nick engaged his opponent with blade and spell, he caught a glimpse of Kenji out of the corner of his eyes.
+
+The warrior was having a hard time. He didn’t have any ranged attacks, and the monster was smart enough not to fall for the same trick twice. However, now that Bandit’s enemy was out of action, the lemur was free to come to his aid.
+
+The beast sank into the shadow below his feet, reappearing behind the spider. Before it realized he had repositioned, the lemur sent a dozen Shadow Darts sailing out in a spread pattern, followed by a gigantic ball of shadow flame. The monster sensed the mana and scrambled to one side, avoiding the first batch of missiles… just as Bandit had planned.
+
+Nick wasn’t sure if Kenji had coordinated the move, but either way, the man was ready to make the most of the opening. He steadied his stance and let loose with Rapid Barrage, hitting the spider with a blurring series of strikes that forced it on the defensive.
+
+The creature parried in a frenzy of limbs, deflecting some strikes and blocking the rest. However, the strategist wasn’t trying to score a critical wound; just keep it pinned down while providing a distraction. Combined with the elemental mana saturating the platform, the voidspawn didn’t notice the big fireball headed its way until the last possible second.
+
+It turned and leapt to one side, but it was already too late.
+
+A roiling sphere of onyx flame struck it square in the abdomen. Instead of dispersing like mundane fire, Bandit’s spell wrapped around the spider like an infernal cloak, burning and biting, singing and stabbing. It covered the creature’s eyes for good measure, leaving it blind and in agony—overwhelmed by the shadow flame suffusing its body.
+
+Bandit and Kenji didn’t let the opening go to waste. They charged as one with their weapons poised to strike, hitting the incapacitated monster from two sides at once with precision attacks that carved into its vital organs.

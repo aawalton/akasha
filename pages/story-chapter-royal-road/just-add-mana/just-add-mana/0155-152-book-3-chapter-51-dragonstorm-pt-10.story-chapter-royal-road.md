@@ -1,0 +1,255 @@
+---
+id: 5ffc0cd0-ea7c-50f5-87c5-7ce2b1bf017c
+page-type-slug: story-chapter-royal-road
+title: "152 — Book 3, Chapter 51 — Dragonstorm, Pt 10"
+slug: 0155-152-book-3-chapter-51-dragonstorm-pt-10
+partOf: just-add-mana
+position: 155
+ownLength: 4104
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3579810/152-book-3-chapter-51-dragonstorm-pt-10"
+royalRoadId: "3579810"
+---
+
+If there was any aspect of magic that Cale felt he'd been missing out on, it was the more conventional form of magical duel in which mages traded elemental spells against one another. Prior to his arrival in Utelia he hadn't even been able to wield those more conventional spells, so his participation in any form of magical combat mostly involved concussive mana blasts, increasingly creative forms of barrier usage, and exploiting every rule and loophole he knew.
+
+(Of course, if he was being honest with himself, the mana blasts were enough to deal with most battles. He just didn't consider them very interesting. It was the same with barriers, really; there may have been entire organizations and realms that practically worshipped him for his control and expertise in anything related to mana barriers, but to Cale even intricate manipulations of barriers were a simple, everyday thing. They were hardly worth his attention.)
+
+So the opportunity to have a true, extended battle that involved a true spectacle was a delight for Cale, despite the circumstances. In some strange way, he was actually grateful to the serpent he fought, who he had decided to name Apophis. At least partially so he could stop thinking about it as "the serpent" in his head, though there were other reasons, too.
+
+For one thing, it felt appropriate. Apep was how one referred to the Named serpent that resided above the Great Realms; while that serpent occasionally took on the name Apophis, it was only a translation of the original. In the same way, this form the avatar of the Dragonstorm had taken was only an interpretation of Apep, filtered through the vision.
+
+For another, this was standard practice for dealing with words and names of power. Cale had plenty of practice with such things—it wasn't that uncommon for ancient beings to leave traps within language and thought itself, waiting for an unsuspecting individual to think the right words. For such beings it was best to give them a nickname, so the mind did not conjure the word by accident.
+
+In any case, for once Cale faced an opponent against which both his mana blasts and his more esoteric spells did little. Neither raw, concussive blasts of magic nor spells that turned things into plasma would do much here, for raw power was only part of the equation. Every spell needed to represent something with history and meaning.
+
+Which was to say Apophis could only truly be hurt by a spell that held both symbolic meaning and magical power, so that his entire being was damaged at once.
+
+It was a thin line to thread. Cale could perhaps have made do with a simple [Fireball], if he'd been able to cast one. There was a great deal of history behind that spell, not only because of how frequently mages made use of it but also because it was usually one of the first offensive spells invented in any given realm.
+
+Unfortunately, that also meant it was a bit too simple of a spell for him. It was still beyond his mana control, especially with how much he'd lost as a result of his encounter with the echo worm. He had to resort to being a bit more creative with what he evolved.
+
+Thankfully, Cale was used to that. Creativity was his specialty.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+Admittedly, though, his loss of control had a few other side effects other than just not being able to throw fireballs. He was, for example, evolving spells that were a little stronger than he was intending.
+
+Case in point.
+
+[Bestow Light] has evolved into [Fires of Prometheus]!
+
+Cale had been hoping to blind Apophis with a blessing of symbolic light. Instead, the river of the Duat blazed suddenly with primordial flame, a deep, dark blue that swept across the waters and covered the serpent in an instant. Prometheum fire crackled and burned at the foundations of the vision-realm, threatening to sear a hole straight through its boundary.
+
+The serpent roared in a combination of pain and anger, and again the sound of it shook the realm itself. The stars trembled and the water churned, and a twist of symbolic power caused the river to erupt into billowing steam that swept across the raging fire. Fog flooded out across the valley, eager to snuff out the flame, though even then it took long moments.
+
+When the flame was finally quelled, Apophis could not hide that it had been scarred. Ugly burns were left across its scales, and it snarled at him, gnashing its fangs in challenge even as green light swept across its scales, healing away the damage.
+
+But not quickly, Cale noticed. Or at least, not as quickly as it had before. When they had first started their fight, every blow he struck healed almost instantly as it drew the power of the Dragonstorm into itself. Its claim was that it would only grow stronger as the Dragonstorm progressed, even trapped as it was in this vision-realm. The resentment and despair wrought within the University would empower the storm, and that in turn would empower its avatar.
+
+His apprentices were supposed to be the final blow. Apophis was viciously proud of the fact, no matter what Cale said. It was certain that they would succumb to their anger and feed the storm, and that it would in turn use that power to destroy him; it seemed to take joy in that irony.
+
+Cale mostly found this claim amusing, especially since it was becoming increasingly clear that it was wrong. If anything, the opposite was happening: one way or another, his apprentices were giving the professors of the University hope.
+
+"This is impossible," Apophis snarled. "I should be growing in strength, even as you weaken. How are you doing this?"
+
+"Me?" Cale raised an eyebrow. "I've been here the whole time. What makes you think I'm doing anything?"
+
+"You lie," it accused angrily. "You have done something. There is a trick!"
+
+"No trick, I assure you," Cale said. "But you can believe whatever you want."
+
+The serpent roared again, and this time with a strike of its tail against the ground it knocked the stars loose from the skies above, sending them sailing down toward Cale in a blast of symbolic fury. How many had once looked upon those very stars and wished upon them? The sight of it was nostalgic, even for Cale.
+
+It was a terrible thing, to turn the sight of a shooting star into a weapon.
+
+A symbolic attack like this could not be deflected by a mere mana barrier, Cale had learned. He could weaken them, but he could not block them entirely.
+
+Fortunately, he had plenty of time to come up with a response.
+
+"What is happening?" Apophis demanded again. "I have cast a spell. I can feel that it has worked. You have cast no magic. How did you stop it?"
+
+"I haven't," Cale said, wondering if it was going to interrogate him on everything it didn't understand. Probably. There was something pitiable about it, like it was desperate to understand anything and everything it could. "But that's the trouble with stars, you know? They're so very far away."
+
+Perhaps they needn't have been, if Apophis's magic had worked to its fullest, but in this isolated vision-realm that drew upon his mind, Cale had the advantage. He knew how far away the stars could be. He knew that they were burning balls of gas, light-years away from where they stood.
+
+In some realms, at least. But that was enough: a spell like this would not strike until he allowed it, by shifting what he understood them to be.
+
+Plenty of time, then, to come up with a spell to defend against it.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Burn] has evolved into [Hearth's Protection]!
+
+The name was nothing impressive, perhaps, but Cale had realized that the Gift was responding well to his intent here. Part of it was the nature of this realm, and part of it, he suspected, was this new understanding he'd gained about how the Gift itself evolved a spell. This system of symbols and meaning had not been entirely eliminated from the Great Realms, and it was this that the Gift used to give a spell new shape and power.
+
+With this knowledge, Cale could focus on a single element of the symbol he wanted a spell evolution to focus on. It was far from a guaranteed thing, but here in a realm of symbols and meaning it worked beautifully, turning his intent into a symbolic anchor for a new spell.
+
+[Burn], for example, was a simple spell to spark a fire. But that fire could represent many things, and for this Cale drew upon a set of memories he ordinarily hesitated to dwell on.
+
+He had lived countless childhoods in his time. He carried countless precious memories with him, and among them there were the memories of every life he'd lived within the colder climates. He remembered well how his younger selves had felt, wrapped in a blanket by the fireside next to his parents.
+
+They felt safe. Like there was nothing in the world that could hurt them. He held so many of these memories that they should have blurred together, but they did not—all those childhoods, all those people he could have been... They were perhaps the most important of what he remembered, and he held those memories safe.
+
+He could wield them now, that feeling of unbreakable safety.
+
+Cale glanced up and saw the stars still shooting toward him, and he released the grip he held over them. The fury of the stars struck and met that unshakeable belief that only a child could hold, that idea that all was safe and right with the world. [Hearth's Protection] was a spell that understood reality the way only a child could.
+
+And so when the stars streaked across the sky and struck the warm, protective boundary around Cale, they dwindled and shrank until they were little more than glowing pebbles, left to skip merrily across the surface of the river. Cale caught one of them in a hand and admired the deep, glittering blue of its surface.
+
+"It's beautiful," he commented. "Thank you for the gift."
+
+Apophis's eyes bulged. As much as a serpent's eyes could bulge, anyway. Cale thought it was a pity it wasn't enjoying this duel as much as he was—once upon a time he had imagined magical battles to be exactly like this, a spectacle that was as much a dance as it was a fight for one's life. Two different understandings and perspectives on magic pitted against one another, warping the world around them.
+
+It was rare enough to witness, since that form of magic was impractical. In the hands of a higher-level mage, any single spell was deadly, and a duel came down to whoever could get a killing spell through first. True duels like these were rare to see, and Cale had never thought he would get to participate in one himself.
+
+Like he said, in some strange way, he was rather grateful to Apophis. That did not mean he would show mercy, or that he planned to prolong the fight in any way; there was too much at stake for that.
+
+He was fortunate, really, in that there was a lot of symbolic potential in just about any elemental spell and that he'd unlocked a great deal of them. It meant he had almost as much creative freedom as he wanted to do the exact kind of magic he'd always dreamed about doing. He'd hoped it would be on a smaller scale than this, of course, but there was always time for that later.
+
+For now, he got to do true magic, the kind that could be used for more than war.
+
+Granted, in this case, it just so happened that the sort of symbolic potential he loved could also be used to inflict incredible violence on this one opponent specifically. That was fine! Much like life, magic itself was full of contradictions.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Orb of Wind] has evolved into [Winds of Change]!
+
+The air stirred into a gentle breeze, but picked swiftly up into a howling gale. As a creature of the storm, Apophis should have been resistant to it. But the symbolic power it held was that of change, and there were few things greater than that which represented a shift in the course of civilization.
+
+Change itself swept through the Duat, and Apophis could do little to push it back. It tried, certainly, first with a tidal wave of water and then with a desperately forged shield. Both fell apart in moments, standing against the winds, until even Apophis began to lose its grip on the ground. It tried to stand its ground, holding for a moment by wrapping its enormous coils around the mountains themselves. It shouted its defiance against the roar of Cale's magic.
+
+But the words were swept away by the wind, and even mountains were subject to change, over time. They crumbled into dust, and the serpent lost its grip. Over and over it tumbled, flung through the air until it was blown through yet another gate of the Duat—the eighth now, Cale thought.
+
+Four more to go until the battle was done. That was the rule, if he remembered this legend correctly. Cale followed after it, tugged along in his plain wooden boat, and as he went through the gate he paid careful attention to the empty void around him. There were gaps in the vision-realm within this void as he transitioned from one country of the Duat to the next, and each time he went through he could catch a small glimpse of what was happening within the University.
+
+He was proud of what he'd seen so far, but he couldn't help but worry, nonetheless. He wanted to look out for them. What sort of mentor would he be if he didn't? This time he saw both Flia and Syphus, struggling against their foes; he saw that they had been hurt, that Elizabeth had been mortally wounded.
+
+When he left the Void and found Apophis waiting for him in the eighth country of the Duat, Cale's gaze had hardened. He had wanted to spare his apprentices this pain, though he knew he wouldn't have been able to do it forever. Sooner or later, they would face the death of someone they tried to protect.
+
+But the Dragonstorm had forced them to endure it sooner than he had ever wanted, and on top of that, it had hurt them. Both Flia and Syphus were injured. Damien and Leo were unlikely to be far behind.
+
+So Cale began to search for a way to interfere. He might have sealed himself in a vision, but that did not mean he was out of tricks. He had his ways of protecting those he cared about.
+
+This one might cost him, but he knew already that his barriers had little to no effect on Apophis. Might as well put them to use somewhere.
+
+"I do not understand." Apophis spat out the words, then rose shakily, hateful eyes glaring balefully at him. "How are they doing this? How do they fight against war without empowering it?"
+
+Well, the Dragonstorm was hardly the embodiment of war, though Cale had no interest in educating Apophis at the moment. He was too busy working on a way to cast through the vision. For now, his duel with Apophis was something of a side project.
+
+Even then, he had managed to push Apophis back.
+
+"Well, you know. They learned from the best." Times like these, Cale wished he had a staff. He didn't have any particular need for one, but it would've been nice to have one to twirl around when he spoke.
+
+"They would die if I were free of this," Apophis spat. "I will free myself and set the full power of the storm upon this accursed land. You know not what you have unleashed."
+
+"I feel like you've forgotten to ask yourself one very important question," Cale said. He wondered if it was too late to commission a staff. Perhaps Graystalk would be willing to make him one?
+
+"And what is that?"
+
+"You haven't asked what you've unleashed."
+
+The banter was mostly a distraction, of course. He'd set all the other pieces in place, carefully carving a circle into the Duat through a set of well-placed spells. He didn't have chalk, unfortunately, but the importance of chalk was largely what it symbolized; in this vision-realm, Cale had a far more effective substrate than chalk.
+
+He had the land of the Duat itself. It was said to be connected to the mortal world through burial chambers, and it was that legend Cale drew on now—he needed only to reach through that connection with a spell. First a symbolic one to establish the connection, then an arcane one to widen it.
+
+To that end, Cale cast [Mark].
+
+Mana overload detected! Attempting to compensate...
+
+There was a second purpose to this spell, of course. More than simply reaching the twelfth country of the Duat and ending the vision, Cale needed a way to destroy Apophis and end the Dragonstorm once and for all. This was difficult because the nature of Apophis was of a primordial force of chaos. He wasn't something that could be destroyed, at least in the legends that spoke of him.
+
+As much as Cale had stripped power away from him by bringing him into this vision, that aspect of the legend hadn't changed, and he needed a way around that. He was almost certain he could evolve this spell into something that would give him what he needed.
+
+Adjusting spell construct...
+
+Cale had learned long ago that he couldn't save everyone. A different version of him might have raged and dedicated itself to destroying Apophis before anyone else could be hurt. But his apprentices had reminded him that it was worth it to try, and to that end Cale had spent their fight studying the vision and the effects of [Resonant Comet].
+
+The essence of the spell was that it took a thing of symbolic power—a vision, in this case—and turned it into something real. To that end, both he and Apophis were now technically isolated within a pocket realm, and neither of them could affect the University with their magic. That alone was an advantage, for Apophis's presence alone would have been enough to overwhelm his apprentices and the mages they fought with, but the more he studied it the more he was certain he could do something more.
+
+All he needed to do was open a gap in the spell that only he could use. Thus the symbolic spell he had seeded, to create the connection without Apophis realizing what he had done.
+
+[Mark] was, by itself, perhaps something unremarkable.
+
+[Mark, Level 1] [First Tier, Active] [100 Mana]
+
+Mark a target, causing nearby spells or magical effects to be drawn toward them.
+
+But Cale had always loved spells like these. They worked beautifully with other spells. Some version of [Mark] existed in many realms, and he'd seen it used in a dozen different creative ways. Perhaps among his favorites were the mages who used it to create complex courses for spells to race through, creating a dazzling display out of simple projectile spells.
+
+Many beautiful works of magic were born from something simple, and it was that power Cale sought to draw on now.
+
+[Mark] had evolved into [Mark of Extinction]!
+
+Cale almost snorted; the Gift had something of a sense of humor, it seemed. He had been aiming for something a little different.
+
+Overwhelming intent detected. Adjusting result...
+
+[Mark of Extinction] has evolved into [Mark of the Beholder]!
+
+[Mark of the Beholder, Level 1] [Fifteenth Tier, Active (Unique)] [1.0e37 Mana]
+
+That which is unseen is decided by its beholder. Gain minor control over the rules that govern an unstable realm-space. This spell cannot be used to overwrite a realm actively stabilized by the Leviathan or any equivalent entity.
+
+Cale grinned. That was good enough for him.
+
+The world around them pulsed and felt suddenly smaller. The skin of reality folded into the bars of a cage, slamming down on them both; Apophis gasped at the sensation, his struggles causing the river to splash over shrinking mountains.
+
+"What have you done?" it managed to ask, though it sounded out of breath.
+
+"Just asserting myself," Cale said. "My therapist says I need to get better at doing that. Or, well, technically he told Damien he needed to be more assertive, but we have the same therapist, so it probably counts."
+
+He glanced up at the sky. With [Mark of the Beholder], he saw the stars as tiny, shining holes through which the realm of the University existed. All he had to do now was reach through them and cast.
+
+So Cale did exactly that.
+
+Mana overload detected! Attempting to compensate...
+
+Adjusting spell construct...
+
+[Instant Magishell] has evolved into [The Many Barriers of Cale Cadwell—
+
+"Not that name, please," Cale said, grimacing. Somehow that was worse than the names people gave him. Maybe the fancy titles were better.
+
+...[Instant Magishell] has evolved into [Barrier-King's Blessing]!
+
+"Better," Cale decided. A little pompous, perhaps—he wasn't the biggest fan of that name, either—but it was better than that other one. Honestly, he had no idea what the Gift had been thinking.
+
+But that would probably be enough to help his apprentices. Now all he had left to do was to deal with Apophis.
+
+It had taken a while for Akkau to fully understand what was happening in this realm. The air was thick with draconic essence, but that draconic essence tasted wrong—dull and metallic on his tongue, a darkened version of the distilled liquid he had given to Cale. For a moment he wondered if Cale had something to do with this, but he dismissed the thought. He knew the kinds of things Cale got up to; this didn't have the same feel about it.
+
+Sternkessel seemed to agree, given the way the Indictment's expression darkened. "More than the truebridge, there is something deeply wrong here," he murmured.
+
+"I agree." Akkau's eyes narrowed as he took in the mana signatures around him. Many of them were difficult to discern in the chaotic storm of mana swirling around them, but even with that interference he could tell there was something fundamentally different about those cores.
+
+And then there were the ones that felt like some twisted mockery of dragonkind. Akkau had no idea what to make of that yet, but he could feel his hackles rising just at the thought of them.
+
+"Calm," Sternkessel said, seeming to notice his anger. "We must identify what has happened here first."
+
+Akkau grunted. "I was calm."
+
+"I am sure." Sternkessel sounded amused, at that, and Akkau sighed. Any of his other professors would have been afraid to contradict him. Sternkessel, on the other hand...
+
+Before he could finish the thought, Akkau caught a glimpse of a figure and froze. He thought for a moment that it was Cale, but the sight of them was wrong—they were too short, for one thing, and their hair was the wrong color.
+
+But that was undeniably a human. What did that mean? Where were they?
+
+Rain poured out of the sky, collecting into a thick sludge on the ground that radiated with what felt like poisonous mana. Akkau frowned, taking a moment to wipe at some of the substance that dripped onto his robes. Somewhat hesitantly, he gave it a sniff, then immediately recoiled.
+
+It smelled foul. Like the rot of a dragon, somehow, except given the form of blood. "Something is very wrong here."
+
+"We can discuss that once we have helped these humans fight off this threat," Sternkessel said, already moving with purpose. "It has been a while since we have fought together. You have not lost your edge, I trust?"
+
+Akkau scoffed. "I am a dragon," he said, as if that was all the answer Sternkessel needed. Stern turned back long enough to give him the faintest of smirks.
+
+"Very well," Sternkessel said. "Then show me what a dragon can do."
+
+Akkau was loath to admit that the Indictment's strategy worked, but... well, it did exactly that. Thus encouraged, he gathered his magic, and tore into the University with a roar.

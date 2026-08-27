@@ -1,0 +1,203 @@
+---
+id: d79d0a2b-3611-5d8d-8f21-4e6d4889e39d
+page-type-slug: story-chapter-royal-road
+title: "149 — Book 3, Chapter 48 — Dragonstorm, Pt 7"
+slug: 0152-149-book-3-chapter-48-dragonstorm-pt-7
+partOf: just-add-mana
+position: 152
+ownLength: 2995
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3547691/149-book-3-chapter-48-dragonstorm-pt-7"
+royalRoadId: "3547691"
+---
+
+If there was anything Flia regretted about their excursion into this dungeon—not that it was a dungeon anymore—it was that she hadn't thought to bring more meat with her. Sabri was getting hungry, and Flia was pretty certain letting her eat the dragonshades was a bad idea, as tempting as the idea was. All that blood couldn't be good for a shadeling.
+
+The thought really was tempting, though. These dragonshades talked too much. Or dragonlords, she supposed? This one had called himself a dragonlord, and unlike his shade counterparts, he seemed able to speak and think for himself.
+
+He was dangerous, she knew that much. He had the appearance of a dragon that cared little for what was happening. His stance was languid, and he was leaning against one of the walls, casually inspecting his claws...
+
+But power poured off of him in waves, and if she watched carefully, Flia thought she could see the Dragonstorm itself being drawn toward this being.
+
+That, apparently, was what it meant to be a dragonlord. Flia found the whole thing rather pretentious, but it didn't make her any less wary of this thing. After all, if her time with Cale had taught her anything, it was that any immortal willing to banter and chat was likely a lot more powerful than they seemed.
+
+"Really? None of you are going to step aside?" The dragonlord named Hakon frowned, disappointed. "How tedious. Only one of you is even able to stand, let alone cast. What could you hope to do against me? I'm giving you a chance, you know."
+
+"A chance to do what? Let these two idiots die?" Flia snorted. "I'd rather not."
+
+"We don't need your help," Instructor Erik muttered weakly. "You should run."
+
+"Shut up, Erik," Instructor Elizabeth hissed. "We don't need to play heroic sacrifice when she was the only one that even saw him coming."
+
+"She saved our lives," Erik complained. "I'm just trying to return the favor."
+
+"Not by sacrificing us, you idiot! We need to find a way to work together!"
+
+"I'm the idiot? You're the one that thought a blood barrier would be enough to stop a dragonlord—"
+
+"As entertaining as this is, I'm beginning to feel a little neglected," Hakon said. To his credit, he did seem faintly amused, though there was a dark glint in his eyes.
+
+He held out a hand and the blood of the Dragonstorm began to coalesce into a terrible-looking spear, the edge of its blade sharp and serrated and gleaming with hunger. Flia did not like the look of it.
+
+"And even if you do find a way to work together," Hakon continued, "I'm afraid the three of you combined wouldn't be able to stop me."
+
+He paused, then peered down at both Erik and Elizabeth. "I will confess, however, that I am impressed by your continued ability to insult one another whilst bleeding to death upon the ground. Truly a valiant example of human resilience."
+
+Flia rather agreed with Hakon on that one, though she suspected her admiration was a little more sincere than his.
+
+She hadn't been prepared the first time. She'd sensed nothing more than a spike of intent and reacted with pure instinct, surrounding herself in a dome of water and doing the same for both Erik and Elizabeth.
+
+Unfortunately, she had been a fraction of a second too late. Her barriers had deflected the blows without stopping them, and while it had stopped Hakon from instantly killing both humans, it had still injured them badly enough to disable them. They were each on the ground, clutching at the wounds in their sides to stem the bleeding.
+
+It was frankly incredible that they were able to banter with one another in that condition. Flia didn't think too hard about it. She eyed the dragonlord warily instead, waiting for his next move.
+
+Yet even prepared, she was almost caught off-guard.
+
+One moment he was there, smirking and self-assured; the next he'd braced his spear and vanished from sight. It was identical to that first attack he'd used on them, except this time he'd somehow adjusted to make it even harder for her to sense what she was doing. It had to be some sort of invisibility spell. Perhaps a movement spell that made him too fast for the eye to see.
+
+If she could just figure it out—
+
+A small disc of water snapped into being, far thinner than her usual barriers, and there was a brief flash of light as Hakon re-manifested with a snarl, his spear halfway through rebounding off the disc; he staggered backward as he tried to catch his balance, his calm broken by an almost comical look of surprise.
+
+Flia might have been a little more amused if he hadn't very clearly been trying to stab Erik through the skull. At least this gave her some information. Whatever Hakon had used was a movement-enhancing spell, or the strike wouldn't have rebounded on him so badly.
+
+It was a good thing she had cast that new spell of hers, as expensive as it was to maintian.
+
+[Battleflow Barrier, Level 5] [Fourth Tier, Active (Unique)] [5,000 Mana]
+
+Imbue the battlefield with a spark of protective magic. Developed through deep study of the behavior of a river barrierbeak, this magic causes environmental mana to reactively gather and compress into a barrier in front of any sudden burst of magic or speed.
+
+For the cost of an additional 3,000 Mana, flood the environment with your own mana to ensure that such barriers are formed out of your own natural mana aspect.
+
+Hakon took a moment to draw himself to his full height, then with exaggerated calm, raised his spear and slowly examined its newly severed tip. "How interesting," he noted. "Your barriers didn't do that to me the first time. A different spell, perhaps? I had assumed you stopped me through luck, the first time, but I see now that I was wrong. Congratulations. It isn't often a dragon is proven wrong, you know."
+
+"That's about to change," Flia said flatly.
+
+Hakon chuckled. "I do so love the confidence of all you lesser species," he said. "Always so eager to prove yourselves the exception. Always so certain you deserve to live. An arrogance born from a life without draconic rule, no doubt. I assure you, things will change quite thoroughly once the Dragonstorm has concluded and humanity has been erased for good."
+
+"And why do you want to erase humanity?" Flia asked, carefully circulating her mana. She needed more palewater for this. She had only managed to produce a single drop, and her enhanced water barriers needed a fraction of palewater to defend against that spear.
+
+She had done it on a whim, but that severed tip told her everything. It suggested that some part of the spear had pierced her barrier before striking the Abyss itself and rebounding. That meant that as she had suspected, her palewater contained her refined Spark, a distillation of her connection to the Leviathan. It strengthened her link to the Abyss despite the nature of the world they were in.
+
+With it, her magic could once more act as a dimensional portal. And if the power of the Dragonstorm was so deeply rooted in symbolic meaning, then what could act as a greater barrier than the domain of the Leviathan itself?
+
+She was, after all, an embodiment of the Law of What Lies Between.
+
+That was the theory of it, but Flia was quietly relieved that it had worked. It had made Hakon more cautious of her, at least—he watched her warily, now, and that meant he was paying slightly less attention to both Erik and Elizabeth.
+
+Her question seemed to catch him off guard, though, like he had assumed she already understood. Hakon sighed dramatically. "You're asking why we want to erase humanity? Really? I had assumed it was obvious," he said. "Our predecessors did all this to save humanity. They sacrificed their whole species in a work of Grand Magic to seal away the results of a human mistake. Why should we have to suffer for what you did? Because your kind did ours a favor centuries ago?"
+
+"You say that like you're a dragon," Flia said, and Hakon stiffened at her words. She'd struck a nerve, it seemed. About time. His languid attitude was beginning to grate on her. "But you're not, really, are you? You said it yourself; it was a willing sacrifice. You're just a byproduct of that spell. Going against the wishes of the original, at that."
+
+"I am a dragon," Hakon snarled, slamming a fist into the wall. A rictus of cracks spread through the stone, with a few pieces crumbling away entirely. Beneath it were the pulsing roots of the University's tree, working hard to hold it together. "It doesn't matter if I'm a product of a spell. We are fractal beings. Any lesser part of a dragon is still a dragon in full."
+
+"Except dragonoids," Flia said. "And wyverns. And wyrms. And kobolds, technically. They have a little bit of draconic blood in them, did you know that?"
+
+"They are impure!" Hakon roared, breathing heavily; his eyes were wild now, staring down at her with trembling rage. "They willfully became something less. They have sullied everything that we are!"
+
+"They willfully became something different," Flia countered. Some of this, at least, was her area of expertise. "They're all highly communal species, did you know that? Maybe they're lesser in your eyes, but I bet you've never seen a wyvern nest singing to herald that season's Hatching. Or a wyrm courting ritual."
+
+"A wyrm—" Hakon blanched. "Why would I want to see that?!"
+
+"Shows what you know," Flia said. "Wyrms court one another by chasing each other through their favored territories, as well as those of their ancestors. It's a way of showing off their entire lineage. Everywhere they've been, everywhere they're planning to go. There's a lot we can learn from the critters of the world, you know."
+
+"Nonsense," Hakon said, glaring at her. "There is nothing that can be learned from lesser beings."
+
+"Says the dragon that got stopped by a duck."
+
+"...What?"
+
+"The spell I used to stop you," Flia said. "I learned it from studying a type of duck. We call them barrierbeaks."
+
+"You—" Hakon snarled, incensed, but after a moment visibly forced himself to calm down. "It matters not," he said. "You didn't ask yourself why I was talking so much, did you? I am a dragonlord. I could have killed you all immediately, if I so wished."
+
+"So why didn't you?"
+
+"Because the Dragonstorm grows with every moment," Hakon said, and this time he'd returned to his languid smile and relaxed stance, though Flia could see that it was strained. "Because even you, with your strange magic, will find yourself weakened the longer it rages. Soon you won't be able to fight back."
+
+"Oh," Flia said. "You were buying time?"
+
+"Is that so difficult to grasp?" Hakon smirked at her.
+
+Flia shrugged. "Not really, considering I was doing the same thing."
+
+Behind her, Erik and Elizabeth both slapped their bloodied palms into a circle they'd managed to draw between the two of them. Magic poured into their spell. It flickered for a moment, as though struggling against the weight of the Dragonstorm, but both instructors simply frowned and pushed harder until the spell came to a peak.
+
+The entire hallway seemed to grow dark. Or sapped of color, perhaps. A crackling orb of white and black forced its way into existence, and everything around it seemed muted in comparison.
+
+Erik pushed himself to his feet, then held his hand out to Elizabeth, who took it.
+
+"You know the funny thing about those two?" Flia asked, her tone conversational. "They're opposites in every way, but they get along anyway. I'd call it weird, but it might just be a human thing. You should see who Cale flirts with."
+
+"Who is Cale?" Hakon asked, but he was eyeing the orb warily. Without realizing it, he had already taken a step back.
+
+"The thing about being opposites," Flia said, ignoring the question, "is that it's pretty convenient for certain rituals. There's one practiced by these critters—you wouldn't know them. They're called dawn beetles and dusk beetles. Their colonies always show up around one another. Every dawn and every dusk, they dance this complicated circular dance and trade places."
+
+"Why do you keep talking about critters?" Hakon demanded. He'd taken another step backward.
+
+"It's a protective shield, it turns out," Flia said. "It uses opposing aspects to create a neutralizing barrier against misfortune."
+
+Understanding dawned in Hakon's eyes. "You need infernal and holy symbols to create a symbolic neutralizer," he argued, as if he could use his logic to just disbelieve in the attack. Part of him itched to attack, but he seemed to recognize the danger he would be in if he tried. He was a physical attacker, after all, and getting even close to the orb caused pieces of his body to melt away.
+
+Flia nodded. "True. As it turns out..."
+
+"I'm a nun of the Third Church," Elizabeth said, her gaze cutting through Hakon.
+
+"And I'm a devil worshipper!" Erik said cheerfully. Without turning to look at him, Elizabeth reached out to smack him on the head. "Ow."
+
+"Stop calling yourself that," Elizabeth said, exasperated. "Do you know how that reflects on me?"
+
+"It's saving our asses, isn't it? If anything, you should thank—"
+
+Neither of them gave any indication that they were about to launch the spell, but Erik's gaze hardened mid-sentence, and their makeshift symbolic neutralizer blasted toward Hakon. The dragonlord snarled and waved a sweeping hand, collecting all the blood in the corridor and gathering it into a shield in front of him.
+
+Yet when the light faded, a massive chunk had been removed from half his torso and a quarter of his face. He swayed slightly on his feet, then dropped.
+
+"That worked really well," Erik said, impressed. "Those blood barriers were a great idea, Liz. Pretty sure we would've bled to death if we didn't adapt it to... you know, stem all the bleeding we were doing."
+
+Elizabeth rolled her eyes, then sighed. "And I suppose your distraction worked rather well," she muttered, her tone begrudging. "Flia, was it? Why did you want to explain all that?"
+
+"Two reasons," Flia said. "One of them is Cale. I don't think I've ever seen him not monologue at someone he was about to beat. Where I'm from, he's a symbol for a lot of things, and I wanted to borrow a little bit of that symbolic strength for your spell."
+
+"Huh," Erik said. "It did feel like that spell was a lot stronger than it should have been. I just thought it was the power of love."
+
+"It's about to be the power of my fist up your ass if you keep talking," Elizabeth said.
+
+"Second," Flia said, electing to ignore them, "connecting with my critters is how I circulate my mana to create palewater, and I'm going to need more of it. Stay alert. I don't think the fight is over."
+
+Both instructors straightened immediately. Flia could appreciate that they took her seriously. The problem was that she could still sense Hakon through her mana sense. He hadn't faded entirely, and she knew better than to think he didn't have something up his sleeve—
+
+Three things happened at once, then.
+
+The first was a barrier of water spontaneously manifesting out of the air thanks to the ongoing effect of [Battleflow Barrier].
+
+The second was Sabri crying out from inside her satchel before making a violent, retching sound. The shadeling grew in a split second, tearing through the leather and physically forcing her out of the way.
+
+The third was a lance of glowing, sickening green, tearing through the barrier, then through Sabri's lower right limbs. If not for the shadeling pushing Flia out of the way, it would have pierced her skull. As it was, it struck and tore through her shoulder, and she gasped at the burst of pain that came with it. Something about this magic interfered with her elemental form.
+
+Then she heard the anguished cry from Erik and whirled around, ready to defend, only to find that same lance of magic had pierced Elizabeth through the heart.
+
+"No," Erik said. "No, no, please—"
+
+Flia shut it out.
+
+She had said, once, that she did not know if Cale had done right in his efforts to end the Planar War. It was true then, and it was true now. She still didn't.
+
+But she did wonder, as a certain coldness spread through her, how many times he had witnessed something like this before he had decided enough was enough. Perhaps she could see it, on a long enough timescale. Perhaps this single event gave her some small grain of understanding.
+
+Hakon staggered to his feet. He hadn't regenerated from his wounds. There was still a chunk taken out of his torso and jaw, and by all rights he should not have been able to move, let alone stand. But the darkness in him had grown into something uncontrollable. Something in his magic felt broken and sick, and it manifested as a network of green filaments spreading through what remained of the right side of his torso.
+
+"End," he said. "I will end-end-end. You."
+
+Sabri whimpered, then tried to push herself to her feet, staggering forward to defend her. Flia's heart clenched, that coldness giving way for a moment before she forced herself to calm.
+
+She would not break.
+
+She had two drops of palewater. Without taking her gaze off Hakon, she put them both into the bond she shared with Sabri.
+
+[Familiar Bond] is unable to evolve. Excess draconic interfere—
+
+Local allied dragonking found, designation "Akkau." Retrying...
+
+[Familiar Bond] has evolved into [Leviathan's Touch (Lesser)].

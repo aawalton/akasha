@@ -1,0 +1,155 @@
+---
+id: 5ecdfc22-0c8c-5f48-8818-90a901ecb3ee
+page-type-slug: story-chapter-royal-road
+title: "558. True Hunter"
+slug: 0024-558-true-hunter
+partOf: leveling-up-the-world
+position: 24
+ownLength: 2060
+unit: words
+ownProgress: 2060
+publishedAt: 2022-07-31
+link: "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/960331/558-true-hunter"
+royalRoadId: "960331"
+markedReadAt: "2026-06-29T22:40:59.543Z"
+---
+
+The ground exploded in a mountain of rocks and dirt, injuring seven of Dallion’s instances. All the rest scattered away from the point of impact, shield in front.
+
+Gleam, at it! Dallion ordered as he summoned his dartblade.
+
+Using that might be a bit optimistic on your part, dear boy, Nil said. I’d suggest sticking to your harpsisword.
+
+Don’t worry, Nil. Dallion burst into a new set of instances. I’m sure Harp will understand.
+
+Copper colored lines filled the air, each was a vector indicating the speed and direction of every stone particle flying about. An ordinary person would see nothing but an impenetrable field of threads, but for Dallion they were nothing more than an intricate game of cat’s cradle. All he had to do was to perform the right actions at the right moments in time.
+
+Athletics, acrobatics, and arts, he thought as his swarm of instances charged forward.
+
+“Guard,” half his instances whispered.
+
+Four types of markers emerged. Slower than the person they were supposed to help, they followed Dallion like a trail of color. Similar to a ballerina, he turned and twisted, dancing his way through the maze of lines. The ones he couldn’t evade he blocked with his armadil shield, and each time he did, the flying pieces of rock became slower and slower until they froze altogether.
+
+So far so good, Dallion thought. It had taken him months to make his seamlessly combine dancing and combat—clearly a theater performer he was not. Thankfully, he didn’t have to be. All that mattered was the win.
+
+Gleam? Dallion looked around, gripping his weapon.
+
+Hold on! The shardfly shouted. Lately she had become testier than usual, despite having leveled up a level. It’s not among the debris.
+
+It has to be somewhere.
+
+A dozen instances of Dallion looked down. Almost instantly, another part of the ground broke open, destroying three instances. The action was so fast that Dallion felt momentary pain as his instances were “killed.”
+
+You really are a pain, he thought. Even after all the training and preparation, his opponent was sneakier than expected. Somehow, it had managed to maintain its mobility, despite the time freeze bonus Dallion’s guard skills should have provided.
+
+A formless mass of blackness oozed out of the ground. Dozens of eyes and teeth emerged as it took form, transforming into a clawed bull-like creature. The presence of the creature alone sent a wave of doubt through Dallion. The creature’s presence alone was enough to petrify him. Many times it had, going all the way back to the first time he left his native village. At the time, the chainling seemed an almost indestructible creature, capable of consuming and twisting everything it touched, capable of casting crude, but powerful spells, not to mention shred any person close. A squad of awakened soldiers, led by a noble from the capital, and a cleric from the Order of the Seven Moons were needed to destroy the chainling, despite it being seriously wounded. Later found that the noble was merely a hereditary noble, the cleric—a cursed albino, and the soldiers had barely done beyond the third awakening gate. His fear of the chainling, however, had remained.
+
+“Astreza, Berannah, Centor, Dararr, Emion, Felygn, Galatea,” Dallion whispered, reciting the names of the Seven Moons.
+
+The fear was bristly swept away, allowing him to attack.
+
+“Lux!” he shouted, initiating an arc slash attack with the edge of his dartblade. Blue flames surrounded the weapon, emitting a cool glow.
+
+MINOR STRIKE
+
+Dealt damage is increased by 10%
+
+The blade ripped through the black silhouette. However, as it did, black tendrils shot out from the rest of the chainling, piercing through Dallion’s right arm, leg and shoulder.
+
+AVERAGE WOUND
+
+Your heals has been reduced by 10%
+
+Four red rectangles appeared shortly after, reducing Dallion’s total health to half. The damage was only inflicted to one of the many instances, but Dallion decided to go on with it. Despite the apparently serious damage, he still had the advantage.
+
+The blue flame grew, spreading from his weapon to the rest of his body. A new set of rectangles appeared, restoring Dallion’s health in increments of five percent.
+
+Dallion swing the blade back, attempting a second attack. The chaingling saw that and pulled away. However, in doing so, it had left a small but vital opening: a spot that Dallion could see to be impossible to cover in the next second. It was then that he pulled the trigger of the dartblade.
+
+“Spark,” he whispered.
+
+A bold, seemingly created entirely of bright blue light, shot out, striking its target. The sound of screams combined with the tearing of metal filled the air. Cracks of light covered the black silhouette. Chunks of darkness crumbled off, like cubes of night, evaporating in the air.
+
+TERMINAL HIT
+
+Dealt damage is increased by 1000%
+
+A new red rectangle appeared. Time returned to normal. All the dust and stone debris flew on, eventually settling to the ground. Nothing but Dallion and the agonizing chainling remained.
+
+“Enough with the theatrics.” A dark-skinned woman emerged several steps from Dallion. She was athletic and muscular, with a simple leather vest. Even so, Dallion knew that she could defeat him easily without breaking a sweat. “Hawk, get rid of it.”
+
+The agonizing chainling quickly remained silent, melting away. Shortly after, a new blob seeped up from the ground, this time taking Dallion’s appearance.
+
+“You still rely too much on your trinkets,” Vela said. “Half your actions are predictable. Some of them are outright sloppy. Still, you managed to pull it off.” She turned towards the second Dallion. “Anything to add?”
+
+“No, nothing to add,” the being said in a far deeper voice. “It’s always a treat to face empaths. Maybe you should fail him a few times just for the sake of it?”
+
+The woman smirked. “Tempting.”
+
+“I’d have healed my wounds just as fast in the real world,” Dallion said. Even if there was one in a thousand chance that Vela failed him, he wasn’t willing to just stand by. “Not ending it would have put me at greater risk.”
+
+“Maybe, maybe not. Either way, you’re good enough to risk your life on your own.” Without warning, she disappeared.
+
+Dallion stared at the empty spot where Vela had been several seconds more. It was difficult to say whether he’d impressed her or not. The woman was masterful in hiding her emotions to the extent that even Dallion’s music skills weren’t able to see beneath her surface. Clearly, she wasn’t the leader of the province’s hunters for nothing.
+
+“Just so you know, she went easy on you.” The other Dallion shifted appearance, morphing into the woman. “I’ve seen her have hunters retake the trial for less.”
+
+“Did I make any mistakes?” Dallion asked.
+
+The creature smirked. In the real world, it was a large building, home to all the hunters in the region. In this realm, though, the guardian maintained its true form and abilities—those of a copyette. Ages ago, the race had attempted to take over the world, but for some unknown reason had failed, ending up becoming banished as a result. Now, the only way they kept on existing was in the form of item and area guardians.
+
+“Did I?” Dallion repeated.
+
+“I could have cut off your arm,” the copyette said, tapping Dallion several times on the shoulder. “If I’d done that, you wouldn’t be able to heal or even shoot.”
+
+“If you had, I’d have chosen another instance.”
+
+“True. But you wouldn’t have won.” The copyette winked. “I didn’t say you lost. I just said that Vela would have had you go through the fight again. Anyway, get out of here and enjoy your victory.”
+
+The copyette’s encouragement wasn’t the best. Then again, hunters weren’t the type that spent time encouraging others. In their line of work, only one thing mattered: was one strong enough to survive or not. Apparently, Vela had deemed that Dallion was.
+
+A moment later, the vast open realm was gone and Dallion was back in the real world, the large hall of the hunter’s den around him. Vela was standing a step away, her hand on his shoulder. Several more hunters were there as well, fixing their armor, eating, or even snoozing.
+
+“‘ow did it go?” a female dwarf asked, looking up from her stone anvil.
+
+“Good enough.” Vela moved her hand away. “Go ahead and make his emblem. You’ll have to bless it yourself.” She turned to Dallion.
+
+He nodded.
+
+“Get some food, get some rest, then you can go through the request scrolls. There’s been some nasties out north. Pay’s not that good, but it’s enough to cut your teeth as a hunter.”
+
+Normally, Dallion would be pleased. High level requests were almost always made by nobles or large trade organizations, earning tens or even hundreds more than the standard tasks Dallion was dealing with. It wasn’t uncommon for an established hunter to live well on three or four hunts per year. Dallion’s goal, though, wasn’t that, at least not right away. His profile was already much higher than he would have liked and even after spending three months being as quiet as possible, there were quite a few nobles keeping an eye on him.
+
+“Maybe next time,” he said. “I’ve already got something going on.”
+
+“Suit yourself.” Vela walked off without a shrug. “Just remember, you’re registered now. If someone requests you personally, you have to go.”
+
+Dallion frowned. That was the price of becoming a full hunter—it earned him a lot of privileges in every town and city in the real world, but he couldn’t refuse direct requests, especially from the Tamin Empire.
+
+“’ey, don’t worry about it,” the female dwarf said. “No one ‘as made a personal request in years. You’re more likely to fight a dragon.”
+
+“Yeah.” Dallion forced a smile. In the last year he had fought a dragon twice, more if dragonlets were to be counted. “Where’s Eury? I’d like to return my apprentice emblem.”
+
+“Off to the west. A big creature was sighted there, so she’s off to kill it and increase her rank.”
+
+Euryale was a gorgon who also was Dallion’s fiancé. They had become engaged three months ago. Sadly, each of them had a different path to follow. Eury had gone to the hunter’s den in Linatol, while Dallion had returned to Nerosal. Since then they’d kept a long distance relationship through letters, but had never seen each other. Dallion had sent her a ring with an echo of hi, once, only to get it back a week later with an explanation that Eury didn’t like echoes. Strictly speaking, he was hoping to see her during his hunter’s test; she had promised to be there. Sadly, she was also very eager to increase her rank for some reason.
+
+“I can give it to ‘er if you like?” The dwarf offered.
+
+“Thanks.”
+
+The fashion in which dwarves forged metal was very different from any other race. For one, they were the only ones granted the natural ability to shape metal with their bare hands. Instead of using tongs and a hammer, the dwarf put an ingot of sun gold on the stone anvil, rolled it to a cone, then gently flattened it to a thin sheep with her hands. After that was done, the draft gently folded the sheet like an origami. Her fingers moved so fast that they were one large blur. Several seconds later, the dwarf stopped, the emblem laying in the middle of the anvil.
+
+“That’s unusual,” Dallion said.
+
+“A thornflower,” the dwarf explained. “Very much like you. Beautiful to observe, but ‘old it too tightly and it makes you bleed.”
+
+“Looks like it’ll make me bleed just wearing it.”
+
+“Nonsense,” the dwarf laughed. “No emblem ‘urts its owner. Once you bless it, you’ll be a full ‘unter.”
+
+Carefully, Dallion picked it up. On closer examination, it really looked like a bloomed rose only with every petal being a thorn.
+
+Thornflower, he thought. Maybe he was that. Quite a lot of people close to him had gotten hurt. However, so had many who had underestimated him.
+
+A thin layer of green light surrounded the emblem. The Moons—the Green Moon in particular—had acknowledged Dallion’s blessing, filling the emblem with divine power. From this moment on, he was a full hunter.

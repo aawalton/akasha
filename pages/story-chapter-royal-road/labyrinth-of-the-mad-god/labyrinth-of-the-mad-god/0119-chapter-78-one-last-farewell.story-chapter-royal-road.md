@@ -1,0 +1,81 @@
+---
+id: 11d8dba2-e58c-5ade-a240-77cda7b4840c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78: One Last Farewell"
+slug: 0119-chapter-78-one-last-farewell
+partOf: labyrinth-of-the-mad-god
+position: 119
+ownLength: 1621
+unit: words
+publishedAt: 2025-01-15
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2011914/chapter-78-one-last-farewell"
+royalRoadId: "2011914"
+---
+
+As with all things, the good and bad alike, Nick’s training was not fated to continue forever. He kept on pushing himself as hard as he could, until at last, his final day with Rita arrived. He had worked harder over the last four weeks than at any other point in his life. Now it was time to take what he had learned and continue fighting for the future of his people. Of every creature that called the Earth home.
+
+He awoke before dawn and stepped out of his bedroom, only to find Rita waiting for him in the kitchen. This was their last morning together, and he wanted to make sure that she knew how grateful he was. Not only for taking him as her apprentice and teaching him the art of the blade, which he deeply appreciated, but for her kindness and support over the last month.
+
+His master had gone above and beyond what the System’s reward had required. She had helped Nick to recover from his prolonged ordeal. To process everything that had happened since the System had obliterated his old way of life, and to prepare him for the ordeal to come.
+
+Though their time together was coming to an end, he hoped to see Rita again. To complete his initiation into the School of the Ever-Surging Blade. But that was a matter for another day. In just a few hours, a portal would open, taking him back to the Tower of Rizzen. Where after climbing a few more floors, the decisive battle for the fate of the Earth would ensue.
+
+Nick realized that he would miss his master. That this month had been more than just training. That he had made his first friend from an alien race. As these thoughts passed through his head, they ate breakfast in a companiable silence, enjoying their last moments together.
+
+He thought that she would offer him a few final pointers before seeing him off. But instead of more drills, Rita had a surprise in store. “Unfortunately, I can’t give you anything to take with you besides the knowledge that you’ve gained and a small memento that has no value beyond the sentimental.”
+
+With that, she handed Nick a small carving of himself wielding a sword. The detail was exquisite, down to every last crook of his features. His face was scrunched in concentration, and a bead of sweat was running down his neck.
+
+“Thank you,” he rose to his feet and offered his master a bow. “For the gift, and for everything.”
+
+“Think nothing of it. I had fun too. Before we part ways, I have one last memorable experience in store. We’ve sighted a rax crossing the Titans’ Prairie, and I thought that you should see it in action before you go.”
+
+It wasn’t what he was expecting, but Nick had to admit that he was curious. He had been wondering about the massive carnivores that only allowed civilization to flourish on this planet up on the plateaus, thanks to the wind bullet barriers created by the flying foxes. His heart began racing in anticipation. He wasn’t sure what to expect, but he knew that it was going to be big.
+
+She led him out of the house, through the gate, and across the rocky flats, over to the highland’s southern edge. Rita came to a stop on an elevated knob of stone, and then pointed into the distance. At first, Nick didn’t see anything out of the ordinary, if you could call a group of cattle the size of oil tankers ordinary.
+
+But when he pulled out his spyglass to take a closer look, his eyes went wide, and his jaw dropped in astonishment. Because that was when what he had thought was a spire of stone a thousand feet high, woke up, uncurled its tail, and opened its eyes.
+
+It was a predatory beast of staggering proportion. A kaiju that would make the biggest dinosaurs from Earth’s past look like a child’s toy. Every inch of its body, every move that it made, radiated raw power on a scale that boggled his brain. Rita had referred to it as a rax, but to Nick’s game-trained brain, it could only be called one thing. Dragon. I’m looking at a dragon with my own eyes.
+
+The rax was a wingless lizard with a long, sinuous body. It had four powerful legs ending in claws capable of demolishing buildings in a single swipe. Its head was angular, with spiraling black horns cresting a mouth filled with jagged teeth the size of shipping containers. More than its staggering physical prowess, the creature radiated a palpable aura of might.
+
+Every energetic sense that Nick had told him that the rax possessed an incredible amount of mana, essence, and what he strongly suspected was some manner of concept. He couldn’t even begin to sort it all out with his developing powers, but he was certain that the beast could take on every member of Team Earth at once without breaking a sweat.
+
+“I thought that you might enjoy seeing a tier-three, grade-C creature. Think of it as a sneak peak of what you might find yourself up against one day. Not everything that powerful will be nearly that large, but it’s a rare opportunity to see something halfway between where you are and the weakest of the gods.”
+
+In that moment, Nick found that he didn’t have anything to say. Words failed him as he watched the dragon stretch out beneath the light of an alien sun. Then it let out a sleepy yawn and turned to face the mega-sized cattle. It must have been using some manner of ability to conceal its presence from its prey. While Nick could see its movements as plain as day, the four-legged herbivores showed no sign that they saw the immense beast coming.
+
+The rax began stalking the fattest of the lot, drawing closer and closer, keeping its colossal body low to the ground to reduce its profile on its approach. His adrenaline began to flow, heart pounding in anticipation of the imminent attack. And then it happened.
+
+Once it drew near, it struck in a flash. The rax’s attack was so fast that it crossed what must have been miles in the span of heartbeats. It was terrifying to watch something so big move so fast. A predator that could wipe out everyone Nick had ever met without batting an eye. It pounced, tearing into the oversized herbivore with blows so powerful that he could feel the ground rumble from miles away.
+
+The cattle struggled and screamed, but it was already too late. A few minutes later, the rax released its prey to expire from its grievous wounds. Nick thought that the rest of the herd was going to get away. But then he felt an incredible concentration of mana begin to build, so strong he could sense it despite the vast distance between them.
+
+“Watch closely,” Rita said. “You don’t want to miss this.” No sooner had those words left her lips, than energy began coalescing in front of the rax’s jaws. For a moment, Nick thought that it was about to breathe fire, but then he realized that it was light-aspected mana instead of flame. The ability continued to build for another few seconds, as the bison-like beasts desperately tried to escape, but their doom was already sealed.
+
+A beam like a laser shot forth from the rax’s position, reducing countless stalks of grass to dust as it crossed the distance in the blink of an eye. It caught two of the creatures in the flank and then kept right on going, obliterating a small mountain before it vanished from view. Both bison had a gaping hole bored straight through them. They took one final step and then fell to the ground, dead before their heads hit the soil.
+
+Nick wasn’t sure how long he stared, committing the moment to memory. Eventually, Rita tugged on his sleeve to get him moving. “We’re almost out of time, and Kiki wants to say goodbye before you go.”
+
+He followed her back to the ranch and started collecting his gear, taking one last look at the place where he had undergone such an incredible amount of growth in such a short span of time. On the way, he tried to thank Rita for everything that she’d done. She stopped him after a few words, embarrassed by the praise.
+
+“It was a good time for us too, Nick. If you want to pay me back, live long enough to find me again. Far too many promising students die young, and I’ll pray to any gods who are listening that you are not one of them.” She drew him in for a hug and then let him loose. Nick pretended not to notice her wipe away a tear, touched that she would miss him too.
+
+As they crossed the last stretch of red stone, Nick opened the skills section of his profile, taking in the gains he had made since arriving on this world.
+
+Skills (active)
+
+Evasion: 18.
+
+Light shield: 6.
+
+Sword: 23.
+
+Throwing: 8.
+
+Wand: 15.
+
+As the timer dwindled down to zero, he walked over to where the portal would appear, only to find Kiki waiting for him. Although she couldn’t talk, by now, Nick could get a sense for what the doll was thinking by watching her gestures. As a glowing blue circle winked into existence, Kiki drew her blade and bowed deep, ending with a swordsman’s salute.
+
+Nick returned the gesture, waved goodbye to Kiki and Rita, then stepped into the portal, his consciousness drawn into the space between the stars.

@@ -1,0 +1,149 @@
+---
+id: cf2069da-e7a9-5499-8de5-859f9e98b21e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46: Aurora’s Dawn"
+slug: 0229-chapter-46-auroras-dawn
+partOf: labyrinth-of-the-mad-god
+position: 229
+ownLength: 2310
+unit: words
+publishedAt: 2025-09-29
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2638572/chapter-46-auroras-dawn"
+royalRoadId: "2638572"
+---
+
+Blightbane erupted from Nick’s scabbard like a volcano blowing its top, shining so bright it left a searing silver bar in his vision.
+
+The mana-infused blade hit the dense wall of tissue and kept right on going. It cut through a layer of bone and parted a powerful magical shield before biting into a second sheet of flesh below, severing them all as a sonic boom reverberated throughout the wurm’s body.
+
+Sticky fluid came gushing out, revealing a cavity where a massive pink organ was suspended by a web of connective tissue. Nick forced his way inside and launched two Sonic Slices back-to-back, carving the quivering mound into three separate pieces.
+
+A fountain of amber blood engulfed him as the boss shuddered and writhed, nearly crushing him in the process.
+
+For an utterly terrifying second, Nick was convinced he’d fucked something up—that he was experiencing the final moment of his all-too-short life. But then the beast convulsed one last time and went still.
+
+When its heart stopped beating, the Armada Wurm shattered into a million motes of golden light, which scattered to the wind before fading away.
+
+Nick found himself standing in warm sunlight. The chill flowing up from the ice beneath his boots felt marvelous after touring the sweltering guts of the colossal creature. In that moment, he was too overwhelmed to process the full implications of what had happened—overcome with relief that he was no longer trapped inside the behemoth beast.
+
+That was when he remembered his friends were in danger. He was bruised, battered, and bone-weary, but his fight wasn’t over until his people were safe.
+
+Fortunately, the end of the battle was already at hand.
+
+When Nick cast his gaze across the canyon floor, the rest of swarm was vanishing too, although Team Earth had killed most of the beasts while he was busy. At that point, his exhaustion caught up to him and he sat down before he collapsed.
+
+Liz came running over to make sure he was all right, followed by the rest of his team. She offered him a lesser stamina potion, which he gratefully accepted then quaffed in a single motion.
+
+As energy returned to Nick’s limbs, a hush fell over the battlefield as Team Earth realized they’d won and the wurm was no more. Then everyone began to cheer.
+
+Hundreds of jubilant voices echoed across the ravine. Everywhere he looked, people were exchanging hugs, fist bumps, and high fives, celebrating this momentous occasion and the victory they’d achieved together. The parties stationed along the rim made their way down, so everyone could enjoy this moment together.
+
+Before he deactivated Tactical Command, Kenji sent a final message letting them know that no one had died during the fight, which kicked everyone’s excitement into high gear.
+
+As Nick joined his voice to the roaring crowd, a message from the System appeared.
+
+Congratulations. You have defeated the Armada Wurm and earned the right to establish a Capital-Class settlement.
+
+As a milestone bonus for being the first team to defeat a Capital Boss, you have received an extra voucher redeemable for a Rare building and 250 BP.
+
+Note: To establish your settlement, you must first designate a leader.
+
+The leader will be chosen by a simple majority vote of all quest participants.
+
+You have 10 minutes to make your decision.
+
+When the update faded away, the cheering transitioned into the murmur of excited voices. Everyone was eager to find out what would happen next and began discussing who should lead the settlement, at least in the short term.
+
+We need someone who will bring out the best in us—a leader who can keep this period of unity going as we roll up our sleeves and get busy building. Elizabeth is a perfect fit, although Kenji or Devin would be a solid pick if we want a leader who epitomizes the power of our elite members.
+
+After mulling the matter over, Nick decided Devin would be an ideal figurehead with Elizabeth serving as his right hand. His approachable personality and popularity with Team Earth would bolster morale, and Nick knew Devin would listen to other people’s opinions before making any major decisions.
+
+There wasn’t a lot of time left, so Nick decided to grab Devin then have Kenji use that voice-projecting magic to ask everyone to vote for him.
+
+However, when Nick tried to locate the blond warrior, the man was nowhere to be found. Shit. He must not want to do it. Let’s go with Liz then. I know she’ll do a great job, and she would have been pulling the strings anyway.
+
+That was when he noticed how many people were looking his way. That Elizabeth and Kenji were addressing the crowd, occasionally stopping to point straight at him. His eyes widened as the realization of what was happening came crashing home. Fuck me. I need to make myself scarce too.
+
+But it was already too late.
+
+Nick’s victories over the Armada Wurm and the Guardian of Darkstone Tower—combined with Kenji and Liz’s enthusiastic recommendations—had sealed his fate.
+
+Although he had no desire whatsoever to be in a position of power, he had stepped into their trap and there was no escape. When the vote was tallied five minutes later, he read the System’s update then lowered his head between his hands as chants of “Silver! Silver!” rang out across the badlands.
+
+Congratulations. You have been nominated as the leader of your settlement. You may place your city core and start building at your convenience.
+
+Elizabeth and Kenji were looking at each other with immense self-satisfaction, sharing a handshake that revealed they’d been conspiring against him from the start. Devin appeared from behind a boulder a few seconds later, laughing when Nick glared at him since it was obvious he hadn’t wanted the job either.
+
+While Nick grappled with the unexpected turn of events, he sighed and pulled up his menus, which featured a new “City” section.
+
+You have earned the right to found a settlement and may place its core anywhere within 5 miles of your current location.
+
+You have 800 City Points (CP). 500 for beating a Capital Boss, 250 as a milestone bonus, and 50 from your personal contribution from challenges and events.
+
+He dismissed the floating screen with a wave of his hand—too flabbergasted to process any additional details just yet. People stopped by to congratulate him as Team Earth started climbing out of the canyon, but he was so surprised that he didn’t know what to say.
+
+Liz saw the expression on Nick’s face and took mercy on him, asking everyone give him some space while he wrapped his head around everything that had happened. He made his way off the ice and up the incline, muttering to himself as he climbed.
+
+While the healers tended to the wounded and the engineers began preparing their siege weapons for transport, the bulk of Team Earth began heading back to base camp—eager to celebrate what they’d accomplished together.
+
+He needed some time to himself while he came to grips with his new station, so he decided to take a walk along the lakeshore. I might as well find out how all this works. Sighing in resignation, he pulled up his city menu and selected the only option on the list, “Place City Core.”
+
+When Nick touched it, a ghostly outline of an obelisk wavered into existence—similar to the one he’d found on the Searing Isle. As he pondered where he wanted to place it, he learned that he could move the core wherever he wanted, like he was using a sophisticated AR overlay that responded to his thoughts.
+
+The next time he looked up, he noticed a big bubble was centered on the obelisk—about a mile wide by his rough estimate. Thinking back to the Rebuilding Civilization quest introduction, he realized the dome represented the settlement’s sphere of influence—the area where he could place buildings and claim points of interest. It would expand as the city grew, but he needed to make sure it was in the best place to take advantage of the available terrain.
+
+He was surprised to find another bubble looming along the horizon, which looked to be about 75 miles out. That must be another settlement. Not everyone who chose the badlands came to the lake after all.
+
+Nick had been planning to confer with Kenji and Elizabeth before placing the core, but after spotting another city’s territory, he decided that he needed make his claim before someone beat him to it. After what his people had gone through to defeat the wurm, he refused to let this prime location slip through their fingers.
+
+I’ll get us started then let the experts figure out what we should build and where to place each structure. The sphere of influence is pretty big, so right now I just need to make sure the core is in a defensible location and the dome touches everywhere we’ll want to start developing right away.
+
+By now, his heart was racing and adrenaline was flowing through his veins. While Nick hadn’t asked for this position, he had to admit that getting to lay the foundation of what he hoped would become a thriving center of civilization was both humbling and exhilarating. After everything his people had endured to reach this moment, humanity was ready to rise from the ashes and find their place in the magical multiverse.
+
+Eventually, his eyes settled on a spot that felt right—a place where the ground was level and the edge of the dome touched the lakeside. Trusting his instincts, he confirmed his choice, and an obelisk rose from the ground, assembling itself molecule by molecule until it was towering above his head.
+
+This one was bigger than the edifices Nick had discovered during his island tutorial. The obsidian pillar topped off over thirty feet in the air. That’s too big to hide, although I should be able to build something around it. I’ll ask Kenji to assign a few scouts to make sure nothing hostile gets close to it for now.
+
+The base of the obelisk was mounted to a marble cube. When he walked over to take a closer look, he realized there was an image embossed on one side—the sprawling weave of stars and portal conduits that represented System-integrated space. It was beautiful, and when he circled around to the far side of the cube, he discovered another image that he’d never seen before.
+
+It bore a superficial resemblance to the ordered layout of the System, but these points and lines were a tangled skein. The conduits were twisting and looping, branching and dead-ending, forming a maze of staggering proportion. No. Not a maze. A labyrinth.
+
+Now that he knew what he was looking at, the image reminded him of the vision he’d experienced while the Earth was being incorporated into the Labyrinth of the Mad God. When he ran his fingertips across the surface, he felt a subtle texture.
+
+He leaned in to take a closer look, and with his newly evolved eyes, he could make out tiny symbols annotating the intricate rendering. He had no idea what they meant, but even a simplified map was certain to come in handy sooner or later, and he was certain the System hadn’t included it merely for decoration. Regardless of the details, it was ultimately a mystery for another day.
+
+Shaking his head at the strangeness of it all, Nick turned away from the obelisk and pulled up his menus, opening them to the new “City Updates” and “City Information” sections.
+
+Congratulations. You have founded a city.
+
+You have 378 pending requests from people who wish to become citizens.
+
+City Information
+
+Name: Unnamed Capital City 1
+
+Population: 1
+
+Leader: Nicholas Henry
+
+City Points: 800 CP
+
+Building Vouchers: 1 Unique building, 3 Rare buildings, 12 Uncommon buildings, 25 Common buildings.
+
+There were additional menus where he could spend CP and redeem building vouchers, but before he opened them and explored his options, he found the submenu where he could adjust some basic settings.
+
+The first thing he did was change his name from Nicholas to Nick, at which point he realized he had a decision to make. I can’t leave the settlement listed as Unnamed Capital City 1.
+
+I’ll pick something simple for now and we can vote on it later. Something that reminds people the nightmare is over—that we survived integration and the Taltos’s challenge. A name that says humanity is back, and our star is rising. Actually, that’s a good idea. What was Latin for sunrise again?
+
+With a flourish, he entered a name and then confirmed both prompts.
+
+Your city has been named Aurora. Its leader is Nick Henry.
+
+Much better. He stepped back while staring up at the obelisk—trying to process the fact that he was the leader of the first capital city of a new, magical Earth—before giving it up at a loss. It simply didn’t feel real yet, although his inner nerd was going to freak out when it did. Instead, he found the right menu and accepted the requests, smiling when he saw Sophia’s name on the list.
+
+Cheers erupted the moment he finished, which told him everyone had received confirmation of their citizenship. When he looked up, he noticed a crowd was watching from a distance, giving him some space while he figured everything out.
+
+When the last person had been added, he opened the “City Management” menu, which had appeared after placing the obelisk serving as the city’s core. He was pleasantly surprised to see that another 4,235 BP had been added to Aurora’s account, which must have come from people who had completed challenges and events while crossing the badlands.
+
+Nick smiled wide as he waved to his people. Now, let’s find out how to spend them.

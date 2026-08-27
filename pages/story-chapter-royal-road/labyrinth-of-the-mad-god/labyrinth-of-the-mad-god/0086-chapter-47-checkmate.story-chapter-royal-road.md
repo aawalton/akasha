@@ -1,0 +1,73 @@
+---
+id: 8d2b77a6-14a2-535e-b12d-ca7729df9fea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47: Checkmate"
+slug: 0086-chapter-47-checkmate
+partOf: labyrinth-of-the-mad-god
+position: 86
+ownLength: 1563
+unit: words
+publishedAt: 2024-11-04
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1885125/chapter-47-checkmate"
+royalRoadId: "1885125"
+---
+
+Now that the Janitor was back in its melee mode and the roach horde had been crippled, the gear swarm was ready to make its move.
+
+Accompanied by the tapping of hundreds of metal claws, the rats came swarming into the chamber. They surged forth, hissing and squeaking, light glinting off their tightly packed bodies like a river of molten brass. The party fell into formation and prepared to hold them off. But they soon realized that none of the constructs were headed their way.
+
+Instead of attacking any of the combatants trapped in the enormous chamber, the mechanical beasts began consuming all the corpses on the field, gnawing away at the slain roaches in a living tide of clockwork. Their impossibly sharp teeth were able to devour the bugs, armor and all, within a handful of heartbeats.
+
+When Shaun raised his bow to take a shot, Nick stopped him with a hand on his arm. “Not now. We can’t afford to have them target us, and we need them to eat. If the rats clean up the bodies, the Janitor won’t be able to heal anymore. At least not at the accelerated rate we’ve seen during this fight. Now, even if it beats the queen, we’ll at least have a chance of taking the mutant down, although the swarm is going to be trouble.”
+
+While the rats went to work, the queen’s entourage raced to her position, desperate to assist their leader before it was too late. She had perhaps a quarter of her original forces left, all of them glowing with the magic she had cast to enhance the horde’s attributes.
+
+The moment that the bugs finished crossing the room and engaged the Janitor, the gear-scorpions and turtles came pouring out of the passageway in a tight formation. The brass army fell upon the roach squad guarding the eggs, killing them all within a matter of seconds while taking few losses in exchange.
+
+They didn’t just destroy the adult roaches. The swarm went on to devour every last egg. When they were done, the constructs retreated into the passage. They resumed their original formation, watching the battle with their pitiless brass eyes.
+
+The queen screamed as her spawn died, but she couldn’t do anything about it. Not with the Janitor right in her face. With the next generation obliterated and only a fraction of her forces remaining nearby, she was in the same situation as everyone else in the room. The only way to survive was to kill everything in here and then try to recover.
+
+Meanwhile, the party repositioned. They dealt with an occasional roach along the way while trying to avoid attracting the constructs’ notice. They came to a stop near the battle between giants. Where they were close enough to jump in if an opportunity presented itself, but far enough back that they wouldn’t get hit by incidental fire.
+
+Team Earth had been given a few final moments to recover and learn more about their enemies. An opportunity that Nick intended to take full advantage of. The first thing he realized was that the swarm was even smarter than he thought. The constructs had waited until the queen was unable to disengage, then moved to put an end to the horde once and for all, removing the mutant’s source of regeneration along the way.
+
+The good news was that they seemed uninterested in the party. Although Nick had no idea what would happen once the Janitor and the horde were out of the picture. The idea of facing an army led by what was effectively a brilliant general was a deeply frightening prospect.
+
+Since they had time to plan out their next move, his team put their heads together while inspecting their gear, certain that this momentary reprieve was only the eye of the storm. That within another few seconds, the battle for their lives would resume.
+
+When the stalemate broke, they would only get one shot to turn the fickle tide of war in their favor, and Nick intended to be ready.
+
+Over the course of their frantic strategy session, Sophia and Devin shared the details of the consumables they’d chosen after entering the tower. Devin had gone for a pair of freeze grenades to give him access to two opposing elements. Sophia had selected a set of mana potions that would help increase the number of summons she could create before running out of energy.
+
+While they hammered out a battle plan along with a few contingencies, Veronica pulled out the glasses she had found on Kellen’s body. When she used them to watch the fight, she learned that the lenses let her perceive force mana. Nick wasn’t sure how useful they would be later. But they were perfect for the situation at hand, granting the team a second member who could see the Janitor’s magic.
+
+In the end, they were able to come up with a strategy that just might let them win, if everything went the way they were hoping. When he looked over at the battle raging in the corner of the room, he saw that it was time to head out, because the clash between titans was drawing near its climax.
+
+“Is everyone ready to do their part?” Nick asked. Four determined nods met his gaze as everyone fell into formation. They began to advance, trying not to draw attention to themselves in the process, waiting for the right moment to spring into motion.
+
+The fight in the corner of the room came to a head less than two minutes later.
+
+The roach queen and the mutant were still locked in a brutal claw to claw melee. They were in the middle of trading a series of lightning-fast blows, powerful enough to vibrate Nick’s teeth within his jaw.
+
+While each gigantic creature tried their best to land a killing blow, the rest of the roaches did what they could to support their matriarch. The handful of ranged variants that were still alive kept pouring on the acid and flame. They didn’t have to worry about friendly fire, thanks to the queen’s enhancement magic.
+
+From time to time, the gear-swarm advanced from the tunnel mouth. They didn’t join the melee. Instead, the scorpions hit the Janitor with a barrage of ranged attacks, keeping it from regenerating too quickly or ending the fight, whittling away at its stamina and mana all the while. They also sent out more rat packs to devour a few final corpses in the far corners of room. Leaving only the pile sitting beside the main battle.
+
+Meanwhile, the melee specialized beasts surrounded the Janitor in a ring of bladed mandibles. They did their best to keep it off balance, so that it couldn’t bring its full power to bear upon their monarch.
+
+The Janitor used its force hands to fend off the roaches that kept hitting it from the sides and rear, swatting, grabbing, and pummeling in a frenzy. It kept raking at the queen with its claws all the while, scraping away at her spell-reinforced chitin armor, but it couldn’t land a bite. Meanwhile, her powerful blade-arms were able to penetrate the shark’s white shell, although the dense layer of force mana mitigated the damage it took in the process.
+
+The queen and the Janitor seemed evenly matched, at least in defense and raw offensive output. But every time that the white shark popped a bug into its mouth, its wounds began to heal, while the damage the queen suffered was permanent.
+
+The mutant was taking progressively more damage over time, but its powers were better suited to endure a battle of attrition. On top of that, the roach horde was rapidly dwindling. When their numbers ran out, the Janitor would be able to use its force arms against the queen, tipping the scales in its favor.
+
+The war between giants had been hard fought. But it was clear that sometime over the next few seconds, the Janitor would come out ahead. Once it did, it would consume the nearby bodies and heal all the damage it had sustained, although it seemed unable to recover mana with that method.
+
+By this point, the queen was nearly spent. She wavered from side to side, utterly exhausted. The big bug was bleeding from a hundred wounds, deep cracks marring the surface of her chitin armor. There were only a few melee insects alive--not enough to do more than annoy the mutant creature.
+
+Free to use the full range of its powers at last, the Janitor went in for the kill, just as the queen’s enhancement magic flickered and faded out of existence. The white shark reached out with both force arms at once. It ignored the warriors’ mandibles and the roaches’ ranged attacks, even though they opened more wounds across its amorphous body, scarring the shell protecting its soft tissue.
+
+The Janitor grabbed the insect monarch by the claws, holding her in place while preparing to lunge with its jaws. It was ready to take her head off in a single bite, heal up, then move on to the next enemy. Their battle had been hard fought, and now it was just one move short of checkmate.
+
+But Team Earth wasn’t about to let that happen. It was time to flip the table and turn the fight in their favor.

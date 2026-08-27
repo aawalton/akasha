@@ -1,0 +1,183 @@
+---
+id: 91087154-131a-5426-9955-7bd310869c1a
+page-type-slug: story-chapter-royal-road
+title: "165 — Book 4, Chapter 9 — The Branch and the Bloom, Pt 1"
+slug: 0170-165-book-4-chapter-9-the-branch-and-the-bloom-pt-1
+partOf: just-add-mana
+position: 170
+ownLength: 3927
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3737274/165-book-4-chapter-9-the-branch-and-the-bloom"
+royalRoadId: "3737274"
+---
+
+Cale's experience of the Great Realms was not typically characterized by being shunted randomly into other realms, though his friends could probably be forgiven for making that mistake. As such, it took him a while to remember the proper protocol for What To Do If You Find Yourself in Another Realm (which was, incidentally, the title of a book he had once written but never published.)
+
+First among those rules was to find some of the locals. Many species could be found all across the Great Realms, but almost every realm had a dominant species of some sort. In Utelia, for instance, it was mostly elves and elemental beings, though it was harder to tell there since it was a great deal more diverse than many of the realms Cale had been to.
+
+A realm's dominant species could tell you many things, but most important among them was whether or not the realm itself was compatible with your form of life. Finding that out immediately was imperative, because not all realms were universally compatible. The infernal realms were the easiest example of this—they were all choked with so much infernal mana that most lifeforms without a filtering barrier would either die or find themselves immediately corrupted. Any species living there had to be able to tolerate that environment by default.
+
+But plenty of other realms were incompatible with humans in a truly staggering number of ways. Cale had over time tuned his barriers to handle most of them, though he still found himself caught off-guard every so often.
+
+Like that one time he'd ended up in a strange liquid dimension that seemed like water but was most assuredly not, because whatever that liquid was, it had been breathable. Which was incredibly cool! It had also been full to the brim with various heavy metals, which was definitely not.
+
+"Dearie," Professor Imrys said. "I do believe you'll have to lead the way on this one. You are our resident expert on other realms, after all! What did you call this? A tree dimension, was it?"
+
+Cale decided to take Imrys's lead in ignoring the way Featherstrike continued to flail about and squawk, despite being firmly held in Leo's arms. "Dimension isn't technically the right term," he said. "It's just how I've been categorizing the different types of realms. It might be a little misleading."
+
+Professor Imrys nodded thoughtfully. "We have not wandered into the elemental planes by mistake, then," she said. "Very good! I was concerned for a minute. This place did seem too lovely to be an elemental plane."
+
+"It's just one of the different types of realms," Cale said. "There are a surprising number of realms where their worlds are trees instead of planets. Could be just one tree, could be a ton of them. Then there are realms suspended entirely in liquid, realms where the world within is just a single endless plain..."
+
+"How delightful," Professor Imrys remarked, her whiskers twitching happily."I look forward to experiencing them for myself. Ah, and you mentioned we must find the locals? I believe some of them may be coming to investigate us now."
+
+Cale nodded. He'd noticed it at around the same time Professor Imrys had, judging by the way she glanced sharply up into the sky. There was a presence soaring toward them—a whole group of mages with darkwood cores, in fact. Not a threat to their party, but it was an impressively powerful squad to send out just to scout them, if that was what this was. He wondered if they'd dealt with visitors before.
+
+The leader of the squad resembled something like a winged ant clad in loose strips of silver armor, though armor might have been a generous term for what looked mostly like fragile rings. Cale wasn't fooled, though—the strength of that armor came from the defensive enchantments that could be packed into each strip. It was the same with the goldsong spear she carried, which looked unassuming but could practically double the capacity of the average mage.
+
+Behind her flew six other mages in a tight formation, each one dressed in a bronze version of that armor and carrying silver-tipped spears. Every one of them, including the leader, wore stern, tense expressions, and when they landed it was with a sharp snap that cracked the bark beneath them.
+
+Despite all the tension, Cale found himself relaxing. He recognized their species! They were atverians, an ant-like people that placed great importance on matters of military discipline. A greeting like this wasn't that unusual amongst them. More importantly, since he sensed no specialized protective magics on them, their presence indicated this realm probably didn't have any airborne toxin ready to kill them.
+
+Other than the pollen, anyway. Cale had been to enough tree dimensions to know that the pollen in them was always dangerous. Thankfully, it was relatively rare for these realms to flower, so he hadn't needed to deal with it very often.
+
+The atverian leader glared down at them and spoke with a stern voice. "Strangers," she greeted. "My name is T'vela. We sensed a significant burst of mana in this vicinity. Were you the cause?"
+
+"Oh, goodness me, look at you!" Professor Imrys exclaimed, tottering forward and speaking over T'vela before she had even finished her question; the atverian mage seemed startled, like she hadn't even noticed Imrys before she spoke. She probably hadn't, since Imrys was barely tall enough to reach her knee. "What an exquisite exoskeleton. Look at the mana retention in your chitin! You would make a beautiful relic. I don't suppose you have any dead I could borrow? I'll only need the tiniest sample of... Damien, my dear, what are you doing? This is a very important—"
+
+Cale was thankful, in that moment, that they had established that so-called "babysitting protocol." And that Damien had studied the spell Imrys used to keep her students quiet. His [Soundshell] finished its cast, enclosing their professor in a bubble of muted sound before she could start talking about turning the atverian dead into a relic. The poor dreadshade looked terribly guilty about it, though.
+
+"I'm sorry!" he whispered. "Just, um, you can't just ask people if you can use the bodies of their dead."
+
+Imrys scowled at him, rattling off what Cale was almost certain was a series of colorful curses, though the bubble kept them all safe from what was surely a scathing retort. It was probably a good thing none of them could hear it. Cale didn't want his apprentices picking up their swear words from her, of all people.
+
+Leo seemed disappointed, though. He'd probably wanted to be the one to cast that spell, but he was currently still preoccupied holding on to Featherstrike to make sure he didn't just float off into the sky above them.
+
+"Sorry about that," Cale told a bemused looking T'vela. "You know how mages can get with their interests."
+
+T'vela, to her credit, only snorted. "I do indeed, but it is good that you stopped her," she said, her tone begrudging. "I can be assured that you do not all wish to desecrate our dead, at least. They have been desecrated enough."
+
+Her words and the way she'd said that gave Cale pause, but before he could ask about them, she continued speaking. "As I have said, I am T'vela, one of the commanders of the local atverian colony. I assume you are travelers? Who among you is your leader?"
+
+"Technically her," Cale said with a slight grimace, nodding toward Professor Imrys. She sat in her bubble looking incredibly put out, though that was almost certainly just a show—Imrys was more than capable of breaking out of that bubble if she'd wanted to. "But she's put me in charge for the time being."
+
+Inside her bubble, Professor Imrys nodded, as if to agree with him.
+
+T'vela glanced between them both. "I see," she said, her mandibles pressing inward in a slight frown. She turned her gaze to Thorn, and Cale saw what he thought was a glimpse of anger before she quelled it ruthlessly.
+
+Yet when she spoke again, she couldn't quite hide her bitterness. "I had hoped that the burst of mana followed by the presence of a Tendril meant that the Holy Mother had finally heard our pleas, but perhaps it was ignorant of me to hope that She would respond now, after months of silence. Is this Tendril meant to assist you with some task of yours, then? What is it that brings strangers like yourselves to the Lower Bark?"
+
+Thorn's default glower grew slightly more pronounced at those words, and Cale winced. "I am no Tendril of the Mother," he said. "I am my own being. You would do well to remember that, atverian."
+
+Right. Vinewalkers and atverians had something of a recurring history throughout the Great Realms. Atverians worshipped the Holy Mother, and vinewalkers were said to be her children. Rather than seeing them as sacred beings, though, atverians tended to believe that vinewalkers were created to aid them in serving the Holy Mother.
+
+The problem was that they often were. The Holy Mother would create them to fulfil some task or the other, often reaching out and puppeting them directly to do so. Once the task was done, she would abandon them, leaving them to do whatever they wished... and since they knew nothing else, in most cases, they would simply continue serving the atverians.
+
+It made it difficult for them to be their own people, and Cale didn't blame Thorn for the way he glowered at T'vela. Yet she seemed if anything oddly reassured by his hostility—some of the bitterness in her voice had bled away when she spoke again, and she gave no indication that she disagreed.
+
+"I see," she said instead, short and neutral. "And why are you here, then, if not at the behest of the Holy Mother? The Lower Bark is not a place suited for most."
+
+"Oh, we're here because of a magical accident," Cale said vaguely, waving a hand. This was the excuse he always used, and it hadn't failed yet. "That's the burst of mana you felt. Doesn't mean we can't help you with whatever's going on, though, if you tell us more about it?"
+
+Leo and Damien both shot him disbelieving looks, as if to ask if this approach usually worked. He'd mentioned it before, and both of them had clearly assumed he'd been kidding. Cale just grinned back at them. They'd find out soon, wouldn't they?
+
+Sure enough, T'vela narrowed her eyes at him in suspicion... but only for a moment. After that, she nodded sharply, having decided he could be trusted. His apprentices' mouths dropped open.
+
+"I suppose it is often said that a stranger's knowledge may offer new perspectives," T'vela said with a sigh. She turned and gestured for the group to follow her. "Perhaps the Holy Mother is providing for us in her own way.
+
+"But it is not safe to remain here. We will discuss the details as we return to the colony. I ask that you allow me to first confer with my sisters so we can decide what we will share, however. We cannot give all our secrets to outsiders, no matter how desperate the need."
+
+"Of course," Cale said, falling into step behind her even as his apprentices stared between them, bewildered. "Lead the way, miss. We'll be happy to help."
+
+Thorn let out a grunt, as if to disagree, then sighed and stepped up to join Cale. The two of them shared a brief look in which Thorn seemed almost to be searching for something; finding it, he nodded at Cale, and the two of them walked on.
+
+Cale and the others walked a respectful distance behind T'vela and her sisters as they muttered amongst themselves. He had no idea what they were talking about, but it was clearly divisive, since they were gesturing animatedly at one another. The sound barrier they erected prevented him from listening in on what they were saying, unfortunately, and he had never quite gotten the hang of mandible-reading.
+
+Not that he would have eavesdropped on them if he'd been able to, of course. The reputation he'd gained for it in some realms was irrelevant. It was just that many mages often forgot such precautions and happened to discuss their plans within earshot, and it wasn't his fault they all picked the most criminally obvious dark alleyways to discuss their plans in.
+
+"Is this how it always is for you, Cale?" Damien whispered.
+
+"You don't need to whisper," Cale said. "That's a two-way barrier. They figured we'd probably want to talk among ourselves, too, in case they're leading us into a trap or something."
+
+"Are they leading us into a trap?" Leo asked, alarmed.
+
+"Eh," Cale said. "It's a possibility, but I doubt it. T'vela seems sincere. And to answer your question, Damien... kind of? My Thread isn't active here since I haven't used any magic yet, but any kind of connection between two realms will usually prioritize locations that hold some kind of significance."
+
+He thought for a moment. "Come to think of it, I don't think I really understood why until the whole Bitter Path thing. I bet the symbolic power of significant events causes the veil of the realm to thin out a bit. Some remnant of significance theory, maybe? Which means it's always easiest to enter a realm in a place where something interesting is happening." He beamed. "That's neat."
+
+"Make it a habit to jump into other realms and help people, do you?" Thorn grumbled, and Cale laughed.
+
+"I used to, sure," he said happily. "Or something like that, anyway. Back when I had my worldship, it was really more about exploration, but it's not like we lost anything by helping whoever we came across. It's a great way to learn a bit more about the realms and how it works.
+
+"Mind you, significance doesn't always mean there's someone to help. Sometimes we'd just drop straight into a trap, or into places where magic's all wrong and we have no idea why." He smiled wistfully. "Good times."
+
+"You are a strange human," Thorn said, shaking his head.
+
+"What I really want to know is what's happening here," Cale continued. "You saw the way T'vela talked about the Holy Mother, didn't you?"
+
+Thorn was silent for a moment, but eventually grunted. "She does not seem to like her," he muttered reluctantly. "Different from what I am used to. Suppose history here might be different."
+
+"You could sit this out, if you want," Cale offered, but Thorn shook his head.
+
+"I am not so small a mage," he said. "And there is still much to learn of this process."
+
+Professor Imrys chose this moment to pop Damien's [Soundshell] with a pin she retrieved from her cloak. "Well said, my dear," she said cheerfully, apparently entirely unaffected by her brief imprisonment. "And goodness, what a quick reaction from Damien earlier! I might even have to award you a credit after class."
+
+"Um," Damien said, confused. "Were you testing me?"
+
+"Oh, no, dear," Professor Imrys said reassuringly, hopping up to give him a pat on the arm. "I just get a little overenthusiastic at times. I don't mind being reminded to be careful! We're exploring a new realm, after all. We might even be the first mages in centuries to do so! But this is still technically a class, so I should teach you more about the magic we used to get here, yes? There are some limitations to this magic, after all. Better you learn about them before we get to helping these poor dears."
+
+Limitations. Cale grimaced. He hated limitations.
+
+"The magic I'm using keeps us tethered to Utelia by creating a path through the Abyss that I'm calling a stream," Imrys explained. She conjured a diagram out of mana and gestured toward it with her cane. "One of the reasons Abyssal travel is so difficult is because the Abyss cannot be controlled, yes? Its currents are unpredictable."
+
+On the diagram, two circles appeared, with a glowing arrow pointing from the one labeled "Utelia" to the one labeled "Tree." "What I have discovered is a magic allows us to use a labyrinth to create a stable current connecting one realm to the other," Imrys said. "But if I just used it to send us here, we wouldn't have any way back! So I built in a secondary spell that keeps me and all my little dears tethered to Utelia.
+
+"Now, because we don't have any way to ensure there's a labyrinth here to repeat the spell or any way to choose what realm we end up in, that tether is always trying to pull us back," Imrys continued. On her diagram, a miniature set of mages appeared, each one tethered to what looked like a fishing line that was constantly trying to reel them back to Utelia. "While the Abyssal current remains stable, we stay here, in this other realm. But if any significant magic happens to disrupt the stream—"
+
+The arrow vanished, and the force keeping the little figures in the tree dimension went with it; all six of them snapped immediately back to the Utelia circle. "We all get pulled back," she said. "So! Whatever problem we help them solve, make sure not to use magic that's too great, yes? We wouldn't want to end this trip early."
+
+Cale was impressed by the spellwork, partly because what she hadn't mentioned was that any significant danger would also snap them back to Utelia; it was a rather elegant setup. Still, something about it felt vaguely like it was a test.
+
+"You didn't throw that limitation in on purpose, did you?" Cale asked.
+
+Professor Imrys shook her head. "Goodness, no. I would never test my students like that," she said, pressing a hand to her chest. "Also... Could we do something about Featherstrike? The poor dear has been upside-down in Leo's arms for ten minutes, now."
+
+It took a solid five minutes to finally convince Featherstrike that he could, in fact, stand on the ground without falling into the tangle of roots that occupied the southern horizon. It made sense that it was harder for him than the others, though—Cale's remark about having to believe in gravity was a bit of an oversimplification.
+
+The real problem was that you had to let go of the idea that "down" was in the direction of the roots. This was much harder for Featherstrike than for anyone else, who explained that he had lived most of his life before Brightscale in the branches of towering trees like these.
+
+Still, he managed it eventually, and fortunately did so just before T'vela and her sisters returned. Excellent! No awkward flailing while she explained the atverians' plight. If she noticed the change, though, she didn't remark on it; perhaps she just chalked it up to the eccentricities of powerful mages, as she had mentioned.
+
+"There is a plague that infests the Lower Bark," T'vela said without preamble. She said the words impassively, but Cale knew by the way she clenched her fists that it affected her more than she wanted to reveal. "We believe it is magical in nature, for it can only spread within a boundary, but that boundary is slowly growing. Already, it has stolen from us the land we need to grow our crops. If we cannot stall its spread, it will soon spread beyond the colony and up to the higher branches. Worse, its growth is accelerating, and no magic we have has been able to forestall its effects."
+
+Cale frowned. A magical plague could be dealt with more directly than a mundane one, but they were still worryingly complex. Alas, it also suggested that their first trip had nothing to do with dark ones after all. Most didn't bother with plagues, and they were hardly subtle about it when they did. That was too bad, but there was always the next one, he supposed. "Can you describe the symptoms?"
+
+"It would be best if you see them for yourselves," T'vela said. There was something heavy in her voice. "We will be there soon. The plague cannot spread outside its boundary. It is safe to interact with those we have... retrieved. But I must warn you that it may not be pleasant."
+
+It didn't take long before they arrived at a small camp outside the colony proper—Cale could sense ahead of them some vast underground structure, a network of halls and passageways built into the bark beneath them that likely served as the main grounds of the atverian colony. The camp was nowhere near as large or extravagant; it was clearly established specifically for the sick, and it had clearly been deliberately built to be easy to tear down and move. Just in case the plague's active boundary changed, Cale assumed, so the caretakers weren't suddenly faced with a magically active and contagious plague.
+
+T'vela nodded at the soldiers guarding it, barking something out in the atvarian language, and they stepped aside for Cale and the others to get through. Cale noticed a few sent them suspicious glares, though, and Thorn especially received a mix of those and some awed, hopeful looks.
+
+Predictably, the vinewalker pointedly ignored both, and the group proceeded on into the nearest tent.
+
+The moment they stepped through, a sickly-sweet scent became immediately apparent. The state of the atverians within was dire. No one quite managed to hide their reaction to it. Especially not Thorn, who stiffened immediately, a strange, creaking noise emerging from within his vines. Some of the nearby atverian caretakers shuffled nervously away from him at the sound, and the tension in the room seemed to ratchet up several times.
+
+Cale's face was grim, though he said nothing at first. There were some magical plagues he had encountered time and time again across the Great Realms, each one reinvented every so often by some greed-driven tyrant or vengeance-obsessed overlord. Cale had almost hoped this would be one of those, because at least those plagues he knew off the top of his head how to cure, or at least the steps needed to disarm them.
+
+Yet what they found instead...
+
+Every sick atverian—and they were all men, Cale noticed, some of whom seemed barely of age—sported thorns that had ripped their way out through their carapaces while flowers blooming through their swollen joints. The thorns were identical to the ones that Thorn sported all over his form, which explained some of T'vela's anger toward the Holy Mother.
+
+But the flowers were what really caught Cale's attention. Each bloom was identical, a brilliant crimson with sickly green veins spreading across their petals. It was those flowers that had provoked Thorn's reaction, too; his expression was stormy, and he stepped forward to brush his fingers against one of their petals, as if he needed to confirm what he was seeing.
+
+"Vinewalker blooms," he muttered darkly.
+
+"You use your flowers to communicate, don't you?" Cale asked.
+
+Thorn gave him a jerky nod. "These are agaût-mortis," he said. "Flowers of warning and death. We bloom them on our bodies as a last resort when we die, to warn others of our kind not to approach."
+
+"So what does it mean that they're growing on the atverians?" Cale asked, hoping for an easy answer.
+
+He didn't get one, of course. Instead, Thorn scowled. "Do not know," he said. "Nothing good."

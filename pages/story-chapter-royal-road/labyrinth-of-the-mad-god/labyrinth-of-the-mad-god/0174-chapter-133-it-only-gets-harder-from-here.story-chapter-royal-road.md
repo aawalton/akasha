@@ -1,0 +1,89 @@
+---
+id: ce254b13-b349-5a60-8d47-f8c2e1d5a360
+page-type-slug: story-chapter-royal-road
+title: "Chapter 133: It Only Gets Harder from Here"
+slug: 0174-chapter-133-it-only-gets-harder-from-here
+partOf: labyrinth-of-the-mad-god
+position: 174
+ownLength: 1809
+unit: words
+publishedAt: 2025-05-23
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2300838/chapter-133-it-only-gets-harder-from-here"
+royalRoadId: "2300838"
+---
+
+Sophia raised her arm over her shoulder and sent her whip lashing out.
+
+The elastic line wrapped around the forelimbs of a mechanical hound, bringing the brass beast crashing to the ground. She ordered a pair of warrior roaches to advance, along with a trio of spear-tongue frogs. Her summons charged in a tight formation, holding the constructs back long enough for her party to dismantle the bound canine.
+
+In response to her mental command, her roaches skittered forward. They sank their mandibles into a clockwork lion and then dragged it back, isolating it from the rest of the machines. She ordered the human members of her party to advance, before their enemy had time to recover.
+
+Issuing a fierce battle cry, her team’s frontline fighters surrounded the lion and unleashed some heavy hits, making short work of the brass feline before moving on to the next. Unlike the variants Sophia had fought while climbing Darkstone Tower, these living machines melted when they were destroyed, soaking into the stone floor like water drawn into a sponge.
+
+“Take out the rest and then get ready to push. After we beat the next wave, we should be ready to assault the pack that’s guarding the portal.”
+
+Sophia’s party advanced toward the rim of the rooftop, keeping pace with the unit on her left. The one on her right was barely holding on, and she would assist them as soon as the portal was destroyed. As her team wiped out a trio of clockwork boars, she checked the time while watching the melee rage on.
+
+It felt strange to be issuing orders instead of fighting with her daggers, which Kenji had warned her would happen. While she tried to offer support with her whip whenever she could, her job was to direct the party and coordinate their movements with her squadron of summoned beasts.
+
+She had 30 seconds until the next wave appeared, so Sophia took advantage of the opportunity to scan the battlefield.
+
+The conflict was nearing the fifteen-minute mark. Although there had been several casualties while attempting to reach the portals, Team Earth was holding up well. Most of their losses had come when three consecutive parties couldn’t defeat the brass beasts quickly enough, resulting in them being swarmed when subsequent waves arrived.
+
+The construct cascades were dangerous, and Kenji’s elite unit was handling them as best they could. This quadrant of the rooftop was in relatively good shape and could continue the assault as planned. It meant that right now, Sophia only needed to focus on the enemy in front of her. She had to destroy the device looming fifty feet ahead, then her team could assist the units on either side.
+
+Since she had chosen a tactical class, Kenji had put her in charge of the ten-member team, which formed in the communal safe room after clearing the tower’s fourth floor. Her party had begun with just Shaun and Veronica. The next day, they had linked up with Sarah, Bret, and Paul, who they had fought beside in the Grand Arena of Papillion.
+
+Ethan and Kira had asked to join later that afternoon—the crossbowman and spear-wielder who Sophia had rescued from stone weasels near the base of Darkstone Tower. Sadly, their friend Elaine had died during the climb.
+
+The final members of her team, Elizabeth and Ken, were both from Jim’s faction and had tagged along at the last minute. Sophia had no idea what had happened to the man himself, since he hadn’t been in the safe room, but she was glad that he was gone. She didn’t trust them completely after everything that had happened, but right now, they were all on the same side. None of them would survive if they lost this fight.
+
+While it was nice to run into some familiar faces, Nick and Devin had failed to show up before the battle began. She was worried about her friends, but she couldn’t afford to think about it now. Nothing was more important than winning this fight and reclaiming the Earth—even her own life. While she waited for the next wave of beasts to come charging through the portal, Sophia checked in with each member of her team.
+
+Shaun and Veronica were standing back-to-back, firing at the constructs’ joints to impede their movement. Beside them, Paul lined up a shot, then put an arrow straight thorough the head of a mechanical jackal that was trying to dart past the frontline. His attacks were significantly more powerful than Shaun’s, although his disabling abilities didn’t work on machines.
+
+Nearby, Sarah’s hands flashed as she cast her magic. Whenever her spells landed on target, her brother rushed in and bisected the stricken construct with a blade wreathed in ever-shifting shadows. Sara’s illusions could blind the metal beasts and disrupt their formations. Bret’s shadows could be used the same way, although he preferred to tear his enemies apart by enhancing his oversized sword.
+
+On the front line, Ethan and Kira were fighting alongside one of Sophia’s frogs, doing their best to destroy a massive brass serpent. Elizabeth and Ken were guarding the party’s ranged members, watching out for constructs that had strayed from their lane.
+
+The instant that the last enemy was down, her team advanced as far as it could, then fell into formation. They couldn’t afford to engage the beasts guarding the portal until they eliminated one more wave. These machines were tough, and taking on two units at once was a terminally bad idea.
+
+Every three minutes, the machinery came to life, clicking and whirring as a fresh group of mechanical quadrupeds stepped through the portal housed within it. Fortunately, these clockwork critters invariably charged straight for the closest opponent. If the constructs were fighting as an organized army, like the gear-swarm in the tower’s basement, Team Earth would have been in serious trouble.
+
+Even so, Sophia was worried about what would happen when the conflict reached the second phase. The beasts in phase one were trouble enough. These metal bastards were durable and strong for their size. Her team had received quite a few wounds while dealing with the first four waves, which Veronica had healed with Vampiric Bolt.
+
+During the gaps between waves, they had tried their best to destroy the portal from range. But in addition to the constructs shielding the devices with their bodies, the silver ring had proven to be incredibly resilient. They had managed to put a few big dents in its surface, but they needed to close the distance if they wanted to finish the job.
+
+Only a few units in her quadrant had managed to break one yet, before moving down the line to help the next team and the next. The result was similar to what happened when the constructs built up a swarm. Over time, the victorious parties would form a wave of destruction and break all the devices in their path, but the process was taking too long.
+
+While Sophia analyzed the evolving situation, her team finished off the next wave and engaged the machines guarding the portal. She fought to maintain a level head as a tsunami of adrenaline flowed through her veins.
+
+This was the most dangerous part of the mission. If they were too slow, the next wave would catch them, forcing her party to battle more beasts than they could handle at once. On that note, while everyone else engaged the enemy, she ordered Bret and a warrior roach to attack the ring now.
+
+A brief but exhausting melee later, the constructs guarding the portal were eliminated—bodies liquefying before draining away. Bret had made considerable progress at destroying the device while the others were fighting, and the party shattered the ring before the next wave emerged.
+
+Her knees went weak as relief ran through her, but this ordeal was far from over. As Sophia turned to assist the unit on her right, an update from the System appeared.
+
+Team Earth has survived for 15 minutes.
+
+This marks the end of phase 1.
+
+Phase 2 will begin in 60 seconds.
+
+The opponents for this phase are: Mechanical Soldiers.
+
+Shit. Kenji warned us about something like this, but I hoped that it wouldn’t happen so soon. Five more minutes, and we would have been able to destroy most of the portals. “Charge the ring on our right,” she ordered. “We need to break it before the next phase begins.”
+
+The other party leaders must have had the same idea. Team Earth surged forth in a living avalanche of blades, as spells light up the night sky in every color of the rainbow. It was a risky gambit, and they lost several units over the next desperate minute. Despite the deaths, Sophia knew it was the right move. The defenders broke over half of the remaining portals before time ran out, undermining the enemy’s rate of reinforcement.
+
+She ordered the party back into formation while scanning her surroundings. Over the last few seconds, a series of modules had risen along the rim of the tower. There were only twenty of them this time around, but they were twice as big as the cylinders housing the beast portals. At least we’re closer this time. Now that we know what we’re dealing with, we should be able to push for the new portals soon.
+
+“We can’t afford to engage the double wave at once,” she yelled. “Pull back fifty feet, then hit them as hard as you can. As soon as we defeat the attacking machines, we’ll engage the guardians. With any luck, we can break the big portal before the second wave of soldiers appears.”
+
+More brass beasts were pouring out of the little rings, but Sophia didn’t have time to worry about them now. She set her gaze upon the contraption that had risen in front of her position. Half a heartbeat later, the inner wall swung open, and a portal flickered to life.
+
+Out of the glowing green ring stepped twenty clockwork soldiers. They were eight feet tall and armed with a variety of heavy weapons. Half the metal men spread out to guard the portal while the rest came charging for her team—the impact of brass against stone reverberating across the battlefield.
+
+The brave defenders of Earth fell into formation, ready to take on opponents that were even tougher than the last. Since her summons were running low on time, she sent them in first to evaluate this new threat before creating another set.
+
+Sophia grimaced as her beasts were torn apart in ten seconds flat. Fuck me. We’re in for one hell of a fight, and it only gets harder from here. Her party braced themselves for impact while she summoned as fast as she could. Where are you, Nick? I could really use your help right about now.

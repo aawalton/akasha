@@ -1,0 +1,85 @@
+---
+id: 27b3ac51-0b4e-5c67-a379-0c420b2eed76
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90: Crystal and Flame"
+slug: 0131-chapter-90-crystal-and-flame
+partOf: labyrinth-of-the-mad-god
+position: 131
+ownLength: 2031
+unit: words
+publishedAt: 2025-02-12
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2063332/chapter-90-crystal-and-flame"
+royalRoadId: "2063332"
+---
+
+The dual-wielder’s body toppled onto the archer, momentarily taking her out of the fight. The woman swore and pushed the corpse to one side. The instant that it was out of his line of fire, Shaun’s arrow plunged into the hollow of her throat, adding a second body to lie beside the first.
+
+The mage and the whip-wielder turned and ran when they realized they were losing the fight, sprinting through the entrance of the warehouse. The golden-furred pirate cursed and tried to follow them, but Devin wouldn’t let him disengage. “You fucking cowards,” the buccaneer screamed. “Alma will slaughter you when she finds out what you’ve done!”
+
+At that point, the warrior went berserk, putting everything he had into one final flurry of blows. But with all five members of Nick’s team on the attack, not to mention Sophia’s summons, he was overwhelmed and unable to bring his fury to fruition. After blocking one last strike, Devin’s axe removed his head from his shoulders.
+
+Nick was about to go after the pirates who had escaped, but he stopped when Shaun let out a tortured groan. He thought that the man had taken a critical wound, but fortunately that wasn’t the case.
+
+“I just leveled twice… and there’s another one. Getting all those points at once is too much.” He groaned. “I think I’m going to be…” That was as far as Shaun got before he was spectacularly sick, retching from the sheer sensory overload of gaining so many attributes at the same time.
+
+Devin moved to stand in front of him, guarding the young man with his shield. “Hang in there, dude. Just get it all out. It will all be over soon, and you can get back on your feet. Until then, I’ve got your back.”
+
+Just when it seemed that the battle was over, the shield mage and the whip-wielding pirate came running back out of the warehouse. The leather-clad man reached inside a bag that he had retrieved from within and removed a small whistle made of bone.
+
+Before anyone had time to react to their reappearance, he brought it to his lips and blew. Veronica’s Acid Bolt caught him in the stomach a heartbeat later. The man dropped his whip and screamed, running back inside the storeroom in a panic. Nick knew the pirate was still alive, because his wounds were starting to heal, but he doubted that the man would last long under the circumstances.
+
+At that point, the shield mage raised his hands and said, “I surrender. Please don’t kill me.” Nick had been about to run him through but hesitated after hearing those words. He had just killed another person for the first time, and was willing to do so again, but cutting down an opponent who wasn’t fighting back was something that he hadn't been prepared for. A mistake that became clear to him three seconds later.
+
+Because that when the side of the warehouse exploded, as a pair of massive creatures came rushing straight for the party. The mage let loose a bloodthirsty cackle. “If it were up to me, I’d call it a draw and let you slip away. But Baro was right. If Alma learns that we let you escape, she’ll mete out a fate far worse than a clean death in battle. She’s going to be pissed that we put the glass-deaths at risk and used the mind-control consumable, but it’s better than the alternative.”
+
+Shaun fired an arrow and V let loose a pair of bolts, but they bounced off a shield the mage had conjured. A pair of wasps came at him from behind, but his barrier was a complete hemisphere. Nick didn’t have time to worry about him now, because the beasts that the pirate called glass-deaths were almost upon him.
+
+He used the final seconds before they arrived to see what he was dealing with. The charging creatures were giant scorpions with blue gemstone exoskeletons. They reflected the rising flames that were rapidly consuming the base. When Nick sized them up, he learned that they were agile and heavily armored. Although the beasts’ claws were small for their size, their stingers were a lethal threat.
+
+His skill conveyed the impression that the beasts possessed a potent venom—one that couldn’t be countered with healing items. He relayed the information to his team, letting them know that they couldn’t afford to take even a single sting, or they would wind up suffering casualties here and now.
+
+Sure enough, when one of the scorpions plunged its barbed tail into a spear-tongue that had moved to engage it, the afflicted tissue began to change. Not turning to stone, but into something that did indeed look like glass. Nick realized that he could see inside the frog’s body as the venom spread. The summon convulsed until the toxin reached the organs below, causing them to solidify and slaying the amphibian within a matter of seconds.
+
+“Keep your distance and don’t let those beasts engage you,” Sophia called out as her frog vanished in a flash of ruby light. “Their venom is even worse than my wasps.” Her remaining summons attacked the glass-deaths before they reached the party, buying time since they couldn’t penetrate the scorpions’ gemstone armor.
+
+Nick had begun casting Piercing Ray the moment that he understood what was happening, pouring all the power into the spell that he could. By now, force mana was congealing between his hands, rotating faster than ever thanks to the upgrade he’d earned during the fight with the Janitor. The sphere component was bigger too. In addition to being more powerful, the spell would operate for longer before it ran out of juice.
+
+He ran his gaze across the battlefield, picking out his target before the ray hit critical mass. He waited until Shaun fired another arrow, which glanced off the creature’s crystal carapace. The beast opened its mouth and hissed in irritation… which provided Nick with the opening he’d been waiting for.
+
+Before the scorpion could close its jaws, he visualized his trajectory and fired. Fast as thought, the head of the ray went streaking across the open air. The white drill bit at the end was bigger and sharper than ever, already rotating before the ray touched down.
+
+Just as Nick had been hoping, the spell landed inside the glass-death’s mouth instead of hitting its carapace. Now that the connection was anchored, his ray picked up speed, spinning faster and then faster still. The crystal beast screamed as his spell bored into its flesh. It tried to break away, stinging and clawing at the magic stuck to its face.
+
+But it was already too late. The ray was inside its body, and the drill carved through its guts within a matter of seconds, bursting out the other side in a great spray of ichor.
+
+Since the spell still had some energy, Nick visualized a new trajectory, bending the beam around to catch the mage in his ankle. It broke through his outer shield, but the man must have activated his wand at the last possible moment. Because instead of drilling through his leg, the ray met a second layer of mana—a type that Nick didn’t recognize.
+
+As the ball in his hand shrank from the size of a cantaloupe to that of an orange, the opposing magics went to war. Their battle sent sparks cascading into the air, accompanied by an incredible screech like a hundred claws dragging across a dozen chalkboards. A heartbeat before his spell ran out of mana, Piercing Ray won the fight, shearing off the pirate’s foot before dissipating. His wand shattered as the device was stressed beyond its limits.
+
+The pirate fell to the ground, grasping at his bloody limb; consumed by pain and the shock of the injury. Before the man could recover, he was swarmed by Sophia’s wasps and met a frozen death a few seconds later.
+
+Nick turned his attention to the other crystal scorpion, only to witness the final moments of the fight. By this point, the beast had a black-barbed tongue wrapped around its tail, preventing it from landing another sting. As frog and scorpion engaged in a contest of raw strength, Sophia’s wasps flew in front of its face. The azure bugs couldn’t penetrate the glass-death’s shell, but they served to block its view, letting Devin close the distance without being spotted.
+
+He came charging in with his great axe raised above his head. The blond warrior brought his weapon down hard, aiming for the base of the beast’s tail. Nick was afraid for his friend, considering the potency of the scorpion’s venom, and went running to back him up. However, Devin didn’t need his assistance.
+
+The axe’s blade bit into the crystal armor with an incredible crack, but it couldn’t sink deep. Then the point of contact exploded as Blast Striking kicked in, severing the beast’s tail and coating the wound with burning mana. Veronica darted in and stabbed it through the eye, perforating its brain and killing it instantly.
+
+All the pirates were down, but Team Earth was still in danger. The buildings had been burning for several minutes now, forming a blazing beacon that was sure to draw every ship in the area. Nick was certain that reinforcements were already on their way. If the party didn’t steal an airship and take to the sky, they were all going to die.
+
+He called out to the others to get them organized. “Veronica and Sophia, get the big ship ready to sail. Even if you can’t figure out how to steer it right away, we need to start climbing as fast as we can. Shaun, grab anything you see that looks valuable, but don’t get distracted. We’re leaving the instant that the girls make sense of the controls.
+
+“Devin, set the other ship ablaze. We can’t afford to let anyone follow us if any of the pirates in the buildings are still alive.” Since there wasn’t a moment to spare, everyone did as Nick suggested. Devin ran over to break the smaller ship, using Blast Striking while chopping at the wings until they were wrecked and the sail was ablaze. By now, all three barracks were burning bright, and the fire had spread to the other buildings.
+
+“Hurry, those flames will be visible for miles. Every pirate in the area will be headed our way soon. We need to get out of here before they learn that we’ve stolen a ship.” While he was talking, Nick knelt beside the fallen pirates. He started throwing random pieces of gear into his pack, keeping one eye on the sky all the while.
+
+Nick and Shaun didn’t have time to sort through the items or pillage the base at their leisure. Instead, they stripped everything that might be valuable from the bodies and tossed it into Nick’s pack. He retrieved all the weapons except for the big sword. The weapon was incredibly heavy, and no one needed it.
+
+Two minutes later, V called out. “I think we have the controls figured out, or at least how to climb.”
+
+Nick stopped looting and yelled. “Climb aboard now. We don’t have a second to spare.” With that, the men raced to board the vessel. Devin untied the moorings from the dock, then helped Nick raise the anchor. Instead of floating straight up like a ballon, the ship hovered in place, rocking gently back and forth.
+
+Sophia was muttering to herself while poking at the machinery. “This wheel acts like a rudder, and this lever must control the yaw. Now, where is the throttle and the pitch? Maybe if I press this switch, then push the wheel forward…”
+
+With that, the whole ship lurched, nearly knocking Nick over the side before he fell into Veronica’s lap. She looked down and then gently pushed him off, chuckling all the while. Sophia turned the wheel, smacked the ship into the dock, then turned it the other way until they were clear on all sides.
+
+She nodded to herself and pulled the wheel back, and suddenly, they were rising fast, sailing up toward the islands above.

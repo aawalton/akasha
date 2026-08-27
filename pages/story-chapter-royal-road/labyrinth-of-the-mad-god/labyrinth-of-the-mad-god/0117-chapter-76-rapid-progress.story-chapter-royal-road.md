@@ -1,0 +1,91 @@
+---
+id: bca2064c-c09e-5fb1-99a7-2c5d7571c8d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76: Rapid Progress"
+slug: 0117-chapter-76-rapid-progress
+partOf: labyrinth-of-the-mad-god
+position: 117
+ownLength: 1849
+unit: words
+publishedAt: 2025-01-10
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2003211/chapter-76-rapid-progress"
+royalRoadId: "2003211"
+---
+
+Not long after, Rita judged that Nick was ready to face Kiki in the ring again, in another pure contest of blade against blade. His heart began to race when the combat doll picked up a sword that was a mirror to his own and took her stance in front of him.
+
+Although Nick had been sparring with her for days by this point, it was different when he didn’t have his wand to open some space, or force acceleration to get out of the way. He was intimately aware that Kiki was stronger than he was and had superior control over her weapon. In short, Nick knew that he was about to get cut, though he was determined to do everything he could not to let that happen.
+
+Thanks to the rigorous training he had undergone, he now recognized the doll’s footwork and form, and had developed a better sense of her reflexes and reach. His arms were a few inches longer, one small advantage that he intended to make the most of.
+
+Kiki bowed to him with a flourish of her blade, and Nick returned the gesture before sinking into his stance. When Rita said, “Mark,” the doll launched herself at him in a streaking blur, the same move that had overwhelmed him during their last official session.
+
+But this time, Nick was ready.
+
+As Kiki’s sword came flashing down, he adjusted his facing and brought his weapon to bear. He took a step that was part of the first kata he’d learned and deepened his stance, catching the doll’s blade and forcing it down the length of his weapon.
+
+Properly braced by his legs and spine, Nick’s body didn’t give way this time, even though her blow was powerful enough to make his arms shake. As crimson sparks rained to the ground, Kiki’s sword followed his own until it struck the guard, setting the metal ringing as her momentum was brought to a screeching halt.
+
+After taking more than his fair share of hits to the face, Nick knew that she would try to use her superior strength to tip the scales in her favor. That Kiki would punch or kick if he left himself open. Sure enough, one wooden hand came off the hilt in a lightning-fast jab.
+
+Instead of bloodying his nose this time around, her fist failed to connect. Nick had leapt back the moment that he felt the pressure lighten and pulled his head out of reach with millimeters to spare.
+
+Before Kiki could resume a two-handed grip, he took a step and sent his blade whipping around in a tight arc, performing the kata’s second position. She barely brought her sword up in time, blocking his swing with the flat of her blade.
+
+Nick moved on to the third position, a rising strike flowing from the first. But his blade sliced nothing but open air, because the doll had already moved out of the way. Before he could recover from his swing, she wheeled around beside him, raised her weapon, and then struck him with the pommel, knocking him to the floor with a ringing in his ears.
+
+Once again, Nick found himself lying on the mat with a blade pressed against his throat. At least this time Kiki didn’t lord the win over him. She just stepped back and resumed her stance, offering him a nod that almost felt respectful.
+
+“Good. Much better than before,” Rita chimed in. “But you can’t just follow the katas in a real fight. They’re designed to ingrain the forms into your body, not to overcome a thinking opponent. The movements are far too predictable, especially to someone who has seen them before.
+
+“You should use them as blueprints for developing your own moves, but you need to be able to improvise in a real fight. Adjust each attack to the features of any given moment. Take advantage of narrow gaps in an opponent’s guard that might only exist for the blink of an eye. A battle is a living thing. To thrive in the midst of combat, your sword must come to life too. But you’ve made real progress in a short span of time, Nick. Now do it again, and don’t let her guess what you’re up to.”
+
+This began an intense hour of dueling. Nick only scored two points, but it took Kiki much longer than before to disarm him, or land what would have been a killing blow if it wasn’t for the enchantment on the blade. When it was over, he was covered in cuts, and his blood dripped to the ground, but he found himself smiling anyway.
+
+He was making solid progress. By the time that he returned to his party, Nick would be able to perform on a whole new level. Protect his friends and fight for the future of his planet and his people. Before he got to that, he still had a lot of work to do, and he intended to give it his all. Rita judged that he’d had enough for the day. She had him use his flask to heal the worst of his wounds, then moved on to the next stage of his training.
+
+Over the next three weeks, Rita drilled Nick from dawn to dusk, giving him half of each night to work on whatever he wanted. On a few occasions, he thought he felt something strange going on with his body—like there was something gliding below his skin. But the sensation never lasted for more than few seconds at a time and there didn’t seem to be anything wrong with him, so he decided that it must be a side effect of pushing himself so hard on a planet that was so different from his home.
+
+Thanks to his nocturnal sparring sessions with Kiki, by the end of the second week, he was scoring points regularly during their matches. By the end of the third, he was almost able to hold his own, landing one good hit for every two that he took. He knew that the doll was restricted by her settings and could hand him his ass if she was able to go all out. But it was still immensely satisfying to watch himself improve in such a tangible manner.
+
+While the construct was bloodthirsty and prideful to a fault, she was an excellent sparring partner. Kiki genuinely loved the thrill of combat, willing to face Nick as many times as he wanted under almost any conditions. He wound up bleeding a fair amount during the process, but he figured that it was an even exchange for the experience he’d gained.
+
+As the days ticked past, they began developing some manner of camaraderie, although he would call it more of a rivalry than a friendship. Being able to use the full range of his powers and gear, minus his offensive spells, offered him many valuable insights for wielding them against a trained opponent. While his light shield performed poorly against such a big blade, Nick learned that the vambrace form could be used to block a heavy hit, and he made some progress in his other goals along the way.
+
+He had a obtained a better sense of when to use his wand to create an opening and land a killing blow. When to evade an attack, rather than trying to parry or block. He was even starting to get the hang of using force acceleration in battle. He was learning how to use the ability to speed up an attack. When to use it to get out of the way of a blow that he wouldn’t have been able to avoid otherwise.
+
+He still tended to overcorrect, wasting too much mana or creating too much distance in the process. But his movements were far more precise than they’d been at the start. Nick was also getting better at controlling how much force he put into each move, preventing himself from damaging his body to nearly the same extent.
+
+He still couldn’t go anywhere close to all out with force acceleration, especially when combined with stamina like his battle with the river king, or he’d wind up breaking his own bones. Turning it on and off in battle was distracting, but manageable when he combined it with arctic clarity. Nick wouldn’t be able to use the ability in every fight, but in the right time and place, he was certain that it would save his life.
+
+He was also working on learning how to consciously increase or reduce the amount of mana that he put into his powers, trying to regulate how much force acceleration drew and reduce its output to a manageable level. While he was making progress, he was still a long way away from having the level of control that he’d obtained while casting mana dart.
+
+Although Nick hadn’t practiced much with his darts or piercing ray, he had spent some time pondering their properties every night. He was trying to understand his spells on a deeper level, so that he could use them more effectively and rank them up as soon as possible.
+
+As the days on the strangely colored planet passed by in a blur, Nick watched his skills grow.
+
+Through use, you have improved the following skills:
+
+Sword has increased from [18] to [23].
+
+Evasion has increased from [15] to [18].
+
+Wand has increased from [14] to [15].
+
+Light Shield has increased from [4] to [6].
+
+Near the end of his final week, Nick received a notice that he’d been hoping to see for a long time. He’d had the sense that the fight with the Janitor had taken him close to solidifying the gain, and his month of intense exercise was enough to put it over the top.
+
+By pushing yourself to the limit in the midst of a deadly battle, followed by rigorous daily exercise, you have conditioned your body and improved the following baseline attribute:
+
+Strength has increased from [9] to [10].
+
+For reaching the attribute cap in strength, you have been awarded with an additional point of strength.
+
+When he let Rita know what had happened, she was thrilled to hear the news. “Those two points will make a world of difference.” She called Kiki over for an impromptu sparring session.
+
+For the first time, Nick didn’t find himself drastically overpowered during the match. The doll was still a bit stronger, but it wasn’t enough to knock him around, or force his sword out of the way during an even exchange of blows.
+
+Now that his arms could handle the weight, Nick could control the heavy blade with greater precision, moving it into position considerably faster than before. If I get another few points of strength, I should be able to start using some one-handed moves, increasing my versatility and letting me use my wand and other tools easier mid-battle.
+
+Since the present was going well, Nick turned his thoughts to the future. I hope that everyone else is making progress too. Our time for training is almost up.

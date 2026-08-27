@@ -1,0 +1,343 @@
+---
+id: 360c1c96-46ba-59e9-a83b-f9fb1ccebd6c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 05"
+slug: 0006-chapter-05
+partOf: light-cleric
+position: 6
+ownLength: 4376
+unit: words
+publishedAt: 2021-01-30
+link: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/622660/chapter-05"
+royalRoadId: "622660"
+---
+
+When dinner was done, Amos bid them good night, lingering until Father Vytal and the farmer approached.
+
+“Well, good night,” he said again and left.
+
+“He was nice,” Sweep commented idly, watching the lithe boy wend his way through the crowd.
+
+Temperance made a disinterested sound. “He talked too much.”
+
+“Hello, girls,” Father Vytal said in his regular voice. “Did you enjoy dinner?”
+
+Both girls nodded. “Yes, sir,” said Sweep. She looked at the farmer. “Do you need help with the dishes, sir?”
+
+The farmer chuckled. “No, child. The kitchen staff will take care of it.”
+
+Father Vytal smiled. “Sweep, Temperance, I’d like you to meet Rauf Kaver.”
+
+The girls bowed to the farmer and he returned the gesture.
+
+Farmer Kaver led them outside where the snow fell thick and steady, blanketing the ground and forming drifts against walls. He led them to a small house that was already lighted inside, its chimney issuing a thin plume of smoke. Inside, there were two small beds, a table, and three simple stools on a grey and brown patterned rug. A small fire licked about the inside of the fireplace. Farmer Kaver fetched firewood from a pile just outside the door and added it to the flames.
+
+“This was James Smith’s cottage until he got married,” Farmer Kaver explained. “They moved to a bigger one to accommodate the family. I’m sorry I can’t provide you better accommodations, Holy Father–“
+
+But Father Vytal cut him off. “Your hospitality is generous and a great compliment to your faith. You have given us more than enough.”
+
+Sweep and Temperance nodded in agreement. This seemed to satisfy the farmer and he prepared to leave when Father Vytal stayed him with a hand on his arm.
+
+“Farmer, forgive me, but I have an ulterior motive for coming to your farm tonight. I’m searching for someone, a woman, who I have heard has passed this way.”
+
+The girls went further into the room, putting down their packs and unpacking clothes and blankets, giving Father Vytal and Farmer Kaver a semblance of privacy.
+
+The farmer nodded solemnly. “Go on, Holy Father.”
+
+“She’s an elder woman, but not infirm. Her hair has gone iron grey. Her most striking feature is her purple eyes.”
+
+Sweep gasped. For a moment, she could see those kind purple eyes looking down upon her. Despite her gasp, neither of the adults turned their attention to her.
+
+Father Vytal went on. “I’ve never seen eyes like hers on anybody else.”
+
+The Farmer nodded. “Neither have I,” he agreed. “Such a woman visited this farm day before the Newyear. She asked only for somewhere to rest for the evening and went on in the morning. She slept in this cottage in fact. It was clear to all of us that she was a holy woman, though she wore no sunburst. She gave her blessing to James and Catherine.”
+
+“Did she tell you where she was going next?”
+
+The Farmer shook his head. “When I asked, she told me she was going where she was needed.”
+
+Father Vytal sighed. “I see.”
+
+“I’m sorry I don’t have better information for you, Holy Father.”
+
+Father Vytal waved away the apology. “It’s quite all right, Rauf. Thank you for your hospitality.”
+
+The Farmer bid them all good night and closed the door as he left.
+
+Because there were only two beds, Father Vytal offered to take the floor, but Sweep and Temperance insisted they didn’t mind sharing. The warmth of the cottage combined with the fullness of their bellies and the knowledge that outside it was cold and snowing, made them all quiet and sleepy. As she lay down, Sweep was certain she would be unable to sleep for wondering why Father Vytal quested after the purple-eyed woman, of thinking of ways to ask without being rude, of memories and dreams, but she was soon fast asleep, snuggled close to Temperance on the narrow bed.
+
+• • •
+
+She dreamt she was in a palace of marble halls and golden rugs, of silver candlesticks and silken tapestries. In her dream, this place of wealth was her home. And she sat upon her throne of silver and shuffled a deck of cards and presided over a game upon a checkered battlefield.
+
+• • •
+
+“Piety, Piety wake up.”
+
+Sweep woke with an intake of breath and the certainty she was supposed to be doing something important. The room was well lit and warm. Someone had stoked the fire. Sweep sat up and looked around. The door was open, snow still fell, and it was still dark. Rauf Kaver stood in the door, speaking with Father Vytal. Behind the farmer was a strong young man who Sweep remembered from dinner as James the Smith.
+
+“Our midwife died this past autumn and the nearest is three miles away. She won’t arrive in time.”
+
+“I understand,” Father Vytal said. “We’ll be ready soon.” He turned to face them. “Girls, get dressed. Catherine Smith is having her baby.”
+
+James and Catherine’s cottage was larger than the one the girls shared with Father Vytal, and was separated into a front room and two small bedrooms. Catherine was in one of the bedrooms, on a bed made for two and propped up on several pillows. Her forehead was slick with sweat, her breathing was fast and short. Father Vytal hurried to her side and put two fingers on Catherine’s temple, his eyes suddenly looking far away. A moment later he pulled away and winced.
+
+“She’s in a lot of pain,” Father Vytal said. “Rauf, do you have willowbark?”
+
+“Uh…” Rauf Kaver shrugged his big shoulders. “I can ask the cook…”
+
+“I can do it,” Temperance said quickly. Everyone looked at her and she shrank back, blushing. “I know how to brew the tea,” she said in a smaller voice. “I’m good with herbs.”
+
+Father Vytal nodded. “Fine. Rauf, take her to the kitchen.”
+
+The farmer descended upon Temperance and scooped her in his arms. Temperance squeaked with fright, but the farmer had spirited her out the door before she could object.
+
+“James, I need you to get more firewood, we need it warm in here, understand?”
+
+The stout, strong young man looked at Father Vytal to his wife and then back to Father Vytal. “Are you sure there’s nothing I can do here?”
+
+“Are you trained in medicine or healing?” Father Vytal asked.
+
+James shook his head. “No, sir.”
+
+“All right then. We’ll need firewood.”
+
+“Yes, sir.”
+
+When James had left, Father Vytal turned to Sweep. “Piety, would you please fetch the stools from the front room?”
+
+Sweep blinked in surprise.
+
+“Sir?”
+
+He had called her Piety instead of Sweep. She hadn’t told him her name so he must have overheard it, perhaps when Temperance called her name to wake her. But why would he choose ‘Piety’ instead of ‘Sweep’?
+
+“Piety? The stools?”
+
+Sweep shook herself. “Of course.”
+
+The two of them sat at Catherine’s bedside upon the stools from the front room. Sweep rested a hand on Father Vytal’s arm while he rested a hand on Catherine’s shoulder.
+
+“Catherine, I’m going to need your help,” Father Vytal said. “Your baby is ready to be born but he needs a little direction.”
+
+But at the same time, he spoke to Sweep, directly into her mind. It was an odd sort of feeling, like the buzzing she felt when power filled her, but tingling just a hairsbreadth from her skull. It felt kind of like a polite knock on a mental door, a gentle clearing of the throat to get someone’s attention. Instinctively, Sweep opened herself to Father Vytal.
+
+“Piety, Catherine’s body is ready to give birth, but the baby has not turned; it’s not in the right position. You have the healing power, can you feel what I mean?” His voice echoed like he was speaking to her from across a vast room.
+
+Sweep controlled her breathing and tried to empty her mind of the panic threatening to take over. She tried to remember what Father Vytal had taught her: careful breaths, relax her body, empty herself of self.
+
+It was difficult. The immediacy of the situation intruded upon her attempted calm. And though Father Vytal had told her she had the healing power she didn’t really know what that meant. They hadn’t practiced healing yet, just meditation. She tried to remember how it had felt the night she had healed Father Vytal. With a deep breath, she reached out and allowed her surroundings to fill her. Something within her stretched, like legs long cramped.
+
+Next to her, Father Vytal was a shining beacon of silvery purple light but he had a barrier around him, like a heavy piece of glass that held all his energy in. On the bed, Catherine glowed a faint orange-yellow like the color of flame, and within her was a bright yellow patch. But something was wrong. The two bodies weren’t working together as they ought. She could feel the confusion, the conflict.
+
+“Yes,” Sweep projected the words at Father Vytal. “Yes, I feel it.”
+
+Aloud, Father Vytal spoke to Catherine. “I have a power,” he said. “Do you know what that means?”
+
+Catherine nodded weakly and her orange aura wavered. Catherine’s body was putting all its effort into the baby.
+
+“Like magic?” Catherine asked. “Like from the Scriptures?”
+
+“Yes, like magic. I’m going to talk to your baby, show him how to face the right way, but I’m going to need your help. He’s been listening to your voice for months now, and he will respond better to you than to me. Do you understand?”
+
+Catherine nodded again. “I’m going to talk to my baby.”
+
+“Very good.”
+
+“Piety, Catherine’s body is failing.”
+
+“I see,” Sweep replied, trying to focus on the tingly feeling suffusing her body.
+
+“I need you to feed her healing energy, like you did for me. Can you do that?”
+
+Sweep’s focus wavered as the notion of someone depending on her filled her thoughts.
+
+“Hold steady, Piety. Go to the mindspace.”
+
+That was something she knew she could do. With ease of practice, she entered the room in her mind. The silver upholstered arm chair with the black and white designs was a welcome and comforting sight. She would have liked to sit in that chair and read one of the many books, or consider her next move in the game of chess, or play at cards on the smooth wooden table, but that was not why she had come. She hadn’t come to escape, but to focus.
+
+Father Vytal was impressed, the wordless thought projecting into her mind.
+
+“Very good. Now I want you to access your power.” Father Vytal’s voice had lost the echoy quality. Now it sounded like he was right next to her.
+
+“How do I do that?”
+
+“Imagine a desk, and upon the desk is a bowl of water. That water is your power.”
+
+Using the room in her mind had given Sweep instantaneous concentration, and she drew it to her like a sun-warmed blanket. She sat at the desk in her mindspace and imagined a bowl of water. It appeared upon the desk without a sound.
+
+“The water is your power. You can access as much or as little as you like.”
+
+It was easy here, to feel that tingly buzz she was coming to associate with her power, to hear the chimes. She closed her eyes to see the orange-yellow light of Catherine fading slowly, and to hear Catherine talking to her unborn child, pleading with him, and to sense Father Vytal trying to encourage the child to turn.
+
+“I want you to access a little of your power,” Father Vytal continued. “Dip a finger into the bowl of water. And then channel that power into Catherine, as you did for me. Take it slow. I don’t want you to hurt yourself.”
+
+With a gentle, mental caress, Sweep reached out to Catherine and found that the woman’s body was feeding its energy into the baby, leaving none for herself. She opened herself and let the tingly energy flow from the water in her mindspace into the pale orange light of Catherine. She willed the energy into helping the body to do what it needed to do, what it was trying to do. The effect was immediate, Catherine’s glow intensified, as did the glow of the baby still inside her. Catherine’s voice became stronger, less pleading and more encouraging. Father Vytal’s grip on Sweep’s arm, which she had forgotten about, eased. She could sense the baby sliding into the position Father Vytal wanted for him. Catherine’s pained breathing came a little easier now.
+
+“Good,” said Father Vytal, “Very good. Take a few minutes to rest, Catherine. We’re not done yet.”
+
+Sweep opened her eyes. Catherine looked much better, her face was flush, her eyes were bright, and though she still looked pained, she also looked determined.
+
+“Piety, how are you holding up?”
+
+Sweep looked up at Father Vytal. His lined, bearded face was narrowed in concern.
+
+“I feel fine,” Sweep replied.
+
+Rauf Kaver and Temperance came back then, Temperance cradled in the large man’s arms, clutching a pack to her chest. When Rauf put her down, she unpacked what she’d brought and directed Rauf to stoking up the fire in the front room. She produced a teakettle and a jar of water. Soaking a cloth in the water, she put it on Catherine’s forehead.
+
+“Oh,” Catherine sighed, “thank you, Sister.”
+
+Temperance recoiled from the title, though Catherine didn’t notice. “My name is Temperance,” she corrected gently. Catherine smiled at Temperance and Temperance smiled in return before turning to Father Vytal. “How are we doing?”
+
+“We’ve encouraged the child into the proper position. So, in a few minutes he’ll start—” but he was cut off by Catherine’s sudden scream. Automatically, he took one of her hands, and Temperance took the other.
+
+Sweep entered the room in her mind, slipping into that place of calm with no more effort than the beating of her heart. She was in the room only a moment before she opened herself to the healing power she now knew for certain was within her. Focusing on the life around her, she saw everyone surrounded by an aura of colored light. She saw Father Vytal, his silvery purple aura encased in a hard, glass-like shell. She saw Temperance, a pale yellow and green. And she could see the bright, hot yellow of the baby and Catherine’s warm orange contracting around the baby. For a moment, the doubt and panic returned, but Sweep focused on the task at hand, and the power did not waver.
+
+Catherine’s body suddenly relaxed and she stopped screaming, her breathing coming fast and labored.
+
+“You’re fine, Catherine, you’re doing very well,” said Father Vytal.
+
+“I haven’t had time to brew the tea yet,” Temperance said.
+
+“The baby’s coming now,” Father Vytal said. “I’m sorry Catherine, but we’ll have to do this without the tea. Piety, take Catherine’s hand and keep your power ready.”
+
+Sweep did as Father Vytal told her while he knelt at the foot of the bed, at Catherine’s feet. Sweep looked across Catherine’s heaving chest at Temperance and Temperance looked back. Temperance’s eyes had gone wide with concern, her brow drawn, her lips thin and white. And yet, Sweep knew Temperance was happy here, helping Catherine through her trial. Sweep gave her friend a small smile and Temperance returned the smile, small and tight.
+
+When Catherine screamed again, Sweep jumped and her hold on the power wavered. With an intake of breath, she entered the room in her mind and with exhalation she took hold of her power. This time, in addition to seeing the orange glow surrounding Catherine, she could taste the woman’s pain, like copper, in the back of her throat and, without thinking, she swallowed it.
+
+It was like all the muscles in her body suddenly tensed at the same time. Her spine bowed and her teeth clenched and sweat sprang from her body. She couldn’t move and she couldn’t think and she couldn’t breathe, all in one infinite moment. But she’d born up under unexpected pain for twelve years, and she did not cry out.
+
+“Oh,” Catherine whispered, her voice hoarse and worn.
+
+Sweep felt Catherine’s grip relax and her body contract and a baby’s first cries filled the room. Through the haze of pain that had colored her vision, Sweep examined Catherine with her healing sense. The passage of the child from the woman’s body had done some damage and Sweep sent energy, helping the body speed along the process of healing. Distantly, she heard James and Rauf; they were arguing loudly. Had they come into the room? There were more voices, but she couldn’t hear them, they were too distant. She could no longer see Catherine, the colors and shapes had blurred beyond recognition. She tried to look up at Temperance, but as she lifted her head it didn’t stop where she’d meant it to. It kept going, and she fell backward into darkness.
+
+• • •
+
+Sweep spent the next few days confined to bed, recovering. Father Vytal explained to her that she had overexerted herself. He explained that powers drew upon personal energy, and to use too much was to risk unconsciousness or even death.
+
+“I am sorry you had to learn that lesson the hard way, and I am grateful you are all right.”
+
+When Sweep explained she’d sensed Catherine’s pain and taken it, Father Vytal was impressed.
+
+“It would seem you’re a martyr in addition to a healer.”
+
+Sweep felt a shiver of fear. In the Scriptures martyrs were people who died for a cause, often painfully and at a young age. But Father Vytal explained that “martyr” also referred to the power to take on another’s pain as one’s own. Not that the explanation was comforting. Sweep had plenty of experience with pain, and she didn’t want to experience more of it.
+
+They also talked about Sweep’s mindspace, the room in her mind.
+
+“Who taught you to construct your mindspace?” Father Vytal asked.
+
+“No one,” she replied, but then changed her mind. “God, maybe.”
+
+“God?”
+
+From under her covers, Sweep shrugged. She recounted the time when she was four years old and just out of the nursery, when she had focused her thoughts to pray and had sensed a safe place within herself, and had been beaten for it. She explained how, years later, she had sensed it again and discovered the room in her mind.
+
+“That’s quite remarkable, Piety. Having more than one gift is uncommon, but I’ve never heard of any child who learned about the mindspace without training.”
+
+“Why do you call me that?” Sweep asked.
+
+She knew the question deviated sharply, but she wanted to ask while the opportunity was fresh.
+
+Father Vytal raised an eyebrow, though whether to question her change of subject or the question itself, was unclear. But he answered, “It’s your name, isn’t it?”
+
+“It is. But everyone has called me Sweep since I was four.”
+
+“Would you rather I didn’t?”
+
+Sweep gave her answer some thought. She liked the name even though the Mother Superior had given it to her. But she hadn’t thought of herself as Piety in a long time. Temperance called her Piety, but that was because she was Temperance. Why had Father Vytal chosen to do so? After a bit, she decided she didn’t mind, no matter the reason.
+
+“I suppose it’s fine.”
+
+Father Vytal gave a nod and returned to the previous subject.
+
+“What did you do with your mindspace before now?”
+
+“I read books, play chess, play cards…” but she trailed off as she saw Father Vytal’s stunned expression. When he didn’t say anything to fill the silence, she said, “I suppose that’s remarkable too?”
+
+“Who do you play chess with?”
+
+Sweep explained about the book called Psychology of Man and the theory of the subconscious and how she’d been playing against herself. As she explained, doubts rose. Even with powers it seemed impossible. And the doubts made her afraid.
+
+But Father Vytal nodded. “I’m surprised Willow would allow such a book into the library.”
+
+“She didn’t,” Sweep told him. “I found it on the bookshelf in the room in my mind. In my mindspace.”
+
+“How did it get there?”
+
+“I don’t know,” Sweep told him. “I think my subconscious is able to learn things and then teach them to me through the books.
+
+Father Vytal was silent for several minutes, considering, and Sweep was afraid he’d changed his mind about her, that she was too much even for him, that he was going to send her back to Sacred Heart.
+
+But Sweep would not go back. She began thinking through ways to avoid going back to the wretched place: politely decline, slip away in the night, outright confrontation. But when the cleric spoke, he eased her fears and Sweep was embarrassed that, even for a moment, she’d thought less of him.
+
+“That is a power I’ve never heard of before. Simply amazing. You are an extraordinary girl, Piety.”
+
+And then Father Vytal explained to her how the mindspace was generally used as a concentration technique and no one he had ever met used it for anything else.
+
+“When you’re recovered, I’d like to start exploring your powers. You’ve come a long way on your own, but untrained powers can be dangerous. As you’ve learned. The more familiar you are with your abilities, the less likely you’ll overtax yourself.”
+
+After a few moments of silence, Sweep said, “Sir, I have a question.”
+
+She swallowed and looked away. Embarrassed now, reluctant, she examined the bedpost just to her left, away from Father Vytal. It was a simple, square cut post of well-smoothed wood painted white. The white paint had worn over the years and was thin in spots.
+
+“Piety?”
+
+Sweep closed her eyes. She didn’t want to ask now; she wished she’d not spoken, but it was too late.
+
+“Sir, what about my hair?”
+
+“Hmm?” His expression had gone politely questioning, eyebrow raised.
+
+Sweep blushed and wished she could sink into the bed. “I mean, my signs of disfavor? I have white hair, and use my left hand. That’s… that’s bad, isn’t it?”
+
+Sweep had never believed the Mother. Reading the Scriptures had convinced her God’s Saints valued virtues of thought and deed, not physical conformity. But she’d been told all her life that the way she looked was wrong, and sometimes she found it difficult not to believe.
+
+“What gave you that idea?” But the Father’s expression hardened and she knew that he knew. He put a hand on her shoulder. “Piety, you have been gifted with great powers and there are some people who will never be able to understand that. There are some people who disparage anything different from them. Including something as inconsequential as hair color.”
+
+Sweep swallowed hard, her cheeks had flushed and her breathing gone shallow. It didn’t matter how many times she’d told herself the Mother was wrong, doubt still nagged at her. She took a deep breath against the tears sliding down her cheeks.
+
+“I know another girl,” Father Vytal continued, “a girl much like yourself, who I have taught since she was quite small. Her hair is silver. Not grey like mine, but pure silver. She is the Heir of Khulanty, and no one would dare call her hair a sign of God’s disfavor.”
+
+“But she’s the Heir. I’m just an orphan.”
+
+“My point, precisely. Willow’s prejudice had nothing to do with your hair color and everything to do with your station. Piety, God does not mark anyone as favored or unfavored. He loves us all and has given us guidance in the Scriptures. The rest is up to us. Do you understand?”
+
+Sweep nodded a little. They were silent for a while as Sweep collected herself and decided to ask the other question burning in her thoughts.
+
+“Sir… about your quest?”
+
+“Yes?”
+
+“I’ve seen her.”
+
+Father Vytal chuckled. “At this point, I’m not surprised. Did she come to Sacred Heart?”
+
+Sweep nodded. “I think so. I remember her eyes from… from a long time ago. It’s the first thing I remember. And then, I’ve had dreams about her.” She described her dreams of playing chess with real soldiers, of being on both ends of the combat, of twilight storm clouds, and of a kind, purple-eyed woman who watched it all.
+
+Father Vytal nodded. “It seems you may be a dreamer as well, someone who can see omens in her dreams.”
+
+“Do you think my dreams mean something?”
+
+“Undoubtedly. But I have no idea what. Interpreting dreams is imprecise work. Omens are often unclear until after their importance has passed.”
+
+“Can you tell me what you know about her?”
+
+Father Vytal smiled. “Studying the Purple-eyed Prophet is the work of a lifetime, but I’ll try for a shortened version.”
+
+His expression turned thoughtful and quiet and faintly melancholy. His gaze focused on a spot far away.
+
+“There are several accounts, though most of them dismissed by skeptics, of a purple-eyed girl appearing at the side of First Royal Dalton Loreamer. She served as an advisor and clairvoyant. There is no record of her name, but she’s sometimes called the Purple Prophesier or some variation thereof. Since that time, there have been all manner of sightings. Sometimes she is a girl little older than you, sometimes she is an old woman, sometimes she is somewhere in between. Most often she is described as elderly. She has appeared in a variety of places throughout Khulanty over the last hundred years. Because of the disparity of age and location, many claim there are several different women with purple eyes.”
+
+“You disagree?”
+
+Father Vytal nodded.
+
+“Who is she?”
+
+“There are several theories. She might be an angel sent to guide us, or a powerful mage with a hidden agenda, or a mischievous spirit from another Realm.”
+
+“But you know better, don’t you?” Sweep said.
+
+Father Vytal smiled and focused upon her once again. “I do. I had the good fortune of meeting her once, when I was younger. We spent some time together. She means a great deal to me.”

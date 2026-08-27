@@ -1,0 +1,207 @@
+---
+id: fd6c0572-4c5a-5ae9-8b88-733934027db6
+page-type-slug: story-chapter-royal-road
+title: "167 — Book 4, Chapter 11 — The Branch and the Bloom, Pt 3"
+slug: 0172-167-book-4-chapter-11-the-branch-and-the-bloom-pt-3
+partOf: just-add-mana
+position: 172
+ownLength: 3714
+unit: words
+publishedAt: 2026-08-01
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3755182/167-book-4-chapter-11-the-branch-and-the-bloom"
+royalRoadId: "3755182"
+---
+
+The canopy above Cale and the others was too thick for much sunlight to filter through, which meant their surroundings were lit only by the luminescent fungal blooms scattered throughout the forest. It made the presence of all the corpses all the more unnerving, and Cale could tell his apprentices were especially affected.
+
+That didn't surprise him. They could barely turn a corner without uncovering another body, each one curled into the same position. The whole thing was surreal enough without the ethereal lighting of the forest coming into play. Damien was obviously doing his best to adjust, but Leo...
+
+Well, Leo was nervously examining every body they came across, which was what he'd been doing ever since Cale made the declaration that they were all the same corpse. "What do you mean, they're all the same corpse?" he asked again, his tone almost pleading. "That doesn't make any sense. It's a plague, isn't it? It's not like it's infecting the same person over and over."
+
+"It's not, no," Cale agreed, pushing his way through the underbrush. His focus was mostly on Thorn, who was by now well ahead of them—the vinewalker was clearly agitated and hadn't bothered to wait for everyone else to catch up, not that Cale could blame him for that. "But you're forgetting something. This is, as far as we know, a magical plague."
+
+"What difference does that make?" Leo asked, clearly agitated.
+
+"Magic is shaped with intent and meaning," Cale said. "Before we knew about this, our best guess would have been that the plague was a warning of some sort—it would explain the presence of the agaût-mortis blooms on every corpse, and it matches the way the plague itself functions, since it's only active inside this boundary and doesn't spread or worsen outside of it."
+
+"But now that we know the end state of the plague..." Leo seemed to catch on, and Cale nodded grimly.
+
+"At its core, it's a transfiguration curse," Cale said. "It's not so much making thorns and flowers erupt from its victims as it is transforming them into a specific copy of a specific person. It would be one thing if all it did was turn them into the same generic vinewalker body, but the fact that the bodies have the same blooms and marks—"
+
+"And the position they're in," Leo said in realization, staring as they passed by yet another one of the corpses. "They're all kind of in the same position, aren't they? I mean, it's not exact since they're not frozen in place, but the plague definitely tried to pose them. Like they're dolls, or... or something."
+
+"I don't know if that's the comparison I'd make, but it's definitely trying to make them match some kind of source," Cale said. A few things didn't quite add up for him yet—magical plagues didn't usually work like this. There was an idea nagging at him, something Damien's words earlier had triggered...
+
+"But why?" Leo asked desperately. "What even is the point of a plague that does this?"
+
+"If I knew that, I'd probably already know how to cure it," Cale muttered distractedly, sighing. Leo was looking at him like he expected him to have all the answers, but he had far too little information to come to any solid conclusions. He needed to talk to Thorn, make sure he wasn't misunderstanding something fundamental to vinewalkers...
+
+Speaking of which, Thorn had gotten a little too far ahead. Cale glanced around quickly to make sure the others were following closely enough, and once he'd confirmed that they were, he jogged ahead to catch up to Thorn. He suspected the vinewalker would prefer to speak in private, and while he knew they couldn't expect to get any real privacy here, a bit of distance from everyone else would do wonders.
+
+He did a quick assessment of the state of things as he caught up. The good news was that Featherstrike's spatial charms were definitely working—there was no indication that the plague was starting to infect them. That meant the only infection condition as far as the plague was concerned was being inside of its active zone. Strange for a plague, perhaps, but nothing too unusual.
+
+But those charms had a definite downside, which was that it was twice as difficult now to make use of his mana sense. He could sense the forest around them, but it was vague and indistinct, a far cry from the usual clarity he enjoyed. Layered on top of it was the impression that he was still inside the camp, surrounded by sick atverians.
+
+It made their surroundings even more eerie, but it did mean he could technically keep an eye on the atverian camp as well. Considering it had taken only a few minutes of work, Cale was honestly quite impressed by how effective and layered the charms were.
+
+...Though he did have more pressing matters to deal with than admiring Featherstrike's handiwork. "Thorn," he called. "Slow down for a second."
+
+Thorn grimaced, and Cale saw him visibly swallow back a retort; he stopped, but stayed tense for a moment before he turned to meet his gaze. "Cale."
+
+"We need to stick together," Cale said. "Our mana senses don't work as well while the charms are active. If we split up..."
+
+Thorn frowned, but he knew Cale was right. The others were still struggling to push through all the vines and fungal growths that blocked their path. Thorn had been able to simply nudge them aside with his magic, and Cale had moved fast enough to take advantage of that, but the others had been a step too slow.
+
+He gave Cale a moment to catch up with him, then began moving again, this time at a considerably slower pace. It kept the others just far enough away that they could speak in relative privacy.
+
+Cale waited patiently for Thorn to speak. He had more he wanted to say, it was clear, but he was struggling to make himself say it.
+
+"This is a foul plague," he muttered finally, keeping his gaze fixed on the bark beneath them. There was a short silence, and then, even more quietly: "Difficult to look at. To separate myself from it."
+
+...Cale could sympathize with that.
+
+And Thorn was worried he would ask for more, he could tell. The vinewalker's posture was guarded, as if preparing himself for Cale to ask him a difficult question or two. What was his history with his people, for example? He'd never seen another vinewalker in Brightscale—was Thorn exiled from his community, or had he voluntarily left? How did he feel, surrounded by the dead of his own people?
+
+As far as Cale was concerned, though, there wasn't much to explain. Whatever history Thorn had with his people, no one would feel comfortable in a field of corpses, let alone one that was all the same corpse. Thorn would undoubtedly bring it up when he was ready, but until then, Cale had no reason to press.
+
+Far more important was addressing the other concern he could see Thorn had, which was the worry that Cale, too, would come to the conclusion that this plague had been created by vinewalkers to punish the atverians.
+
+"I'm not saying it's the same thing," Cale said, "but a necromancer tried resurrecting me as a servant once. And by once, I mean he tried it like, thirty times before I was even dead. I think he figured since he could resurrect the bodies of my past lives? By the time I found his lair he was surrounded by thirty-odd copies of me in various poses. It was really weird, let me tell you."
+
+Thorn stared at him for a moment, then snorted. "Is this your attempt to provide comfort?"
+
+"I've been told I'm very bad at it, which paradoxically makes me very good at it."
+
+"An accurate summation of that attempt, yes," Thorn said, but some of the tension had left his shoulders, and he seemed grateful that Cale had neither pried nor implied anything about the source of the plague. "I do not know what to make of this. It is foul, and yet..."
+
+"I don't think this is a vinewalker plague, if that's what you're worried about," Cale said, more directly this time.
+
+Thorn seemed visibly startled. "You seem... remarkably certain. Most would conclude that the vinewalker we see is the source of the plague. That he cast the spell at the cost of his life, perhaps."
+
+Cale frowned. "That I very much doubt," he said, stopping to kneel next to one of the corpses. This one had died more or less upright, which meant its pose was more intact than the others; it was half-knelt on the ground with its upper body bent forward. "That's not a casting pose. Even if it were and we assume he cast a spell that backfired so hard it killed him, there would be evidence of that. Scarring to his mana core and channels, for example."
+
+"These are corpses," Thorn pointed out. "They no longer have their cores. We cannot determine from them the state of his core at the moment of his death."
+
+"Not from him, no," Cale agreed, getting back to his feet and gesturing for Thorn to follow. "But A'ruk's mana sense was working fine, wasn't it?"
+
+Thorn blinked, following Cale's line of thought. "...It was."
+
+"If this guy created the plague and the plague is transforming its victims into a copy of him for whatever reason," Cale continued, "we'd see mana degradation in its victims. Signs of backlash. A'ruk's mana sense should have been affected, and Imrys would have noticed any scarring to the mana core. She said there were changes to the core, but that it wasn't weakened.
+
+"Which implies he is not the cause so much as a victim," Thorn said, the words emerging surprisingly soft. "That is... You are a perceptive man."
+
+"There's something else about how his body is positioned that's bothering me, though," Cale said. "You see it, don't you?"
+
+Thorn said nothing for a moment. "I do not," he said. Once again, there was something guarded in his tone, like there was something he feared Cale would say. Or perhaps there was something about it he was afraid to acknowledge. It was hard to tell, with him.
+
+Cale cast the body behind them one last glance. "Look at his arms," he said. "The way his upper body is curled. I'm pretty sure he was trying to protect someone or something when he died. I don't know why a plague would anchor itself on him, but if you're worried about his motivations... Well, I don't think you have anything to worry about."
+
+Thorn stared at one of the corpses for a long, long time, saying nothing, but eventually gave Cale a small, grateful nod.
+
+That settled, they waited for the others to catch up to them, then continued on.
+
+The vinewalker colony wouldn't be far, now. They were on the outskirts, but the mana concentration around them was strengthening as they moved deeper into the forest; soon, they would get to wherever the vinewalkers here had established their village.
+
+The group was mostly silent as they pushed their way deeper toward the vinewalker colony. It was hard to find anything to talk about when they were surrounded by the dead, and that was doubly true when the forest itself also seemed devoid of life—there was neither the chirping of birds nor the buzzing of insects.
+
+Whether that was the plague or simply how this place naturally was, Cale couldn't be sure. He doubted the plague was the direct cause, though. If it had transformed every insect and critter in the forest, they would be surrounded by far more than a few dozen corpses.
+
+That didn't make their surroundings any less unnerving, of course. Most likely whatever wildlife hadn't been affected by the plague had been driven away, leaving an empty forest that should have been thriving with life behind them.
+
+All this to say it was somehow worse when the forest finally came to life with rustling nosies, because as far as they were concerned, there should have been nothing left alive to make those sounds. Cale's first thought was that the vinewalkers were somehow still alive here, near the source of the plague, but that couldn't be right—whatever was making the sound was hidden by the mushrooms and foliage, too small to be a vinewalker unless they were crawling about.
+
+The group froze in place, tensing and looking around. It was hard to tell, but there were several weak mana signatures surrounding them, and while they did resemble vinewalkers in some fashion...
+
+Cale grimaced as the first one emerged. Worst of both worlds, then. It was, in fact, a vinewalker crawling toward them. More specifically, it was the upper half of the same vinewalker they'd seen everywhere else, crawling toward them with a strange, fevered determination.
+
+"Shit," Leo said. "What do we—"
+
+"Remember, no big magic!" Imrys announced cheerfully, dancing away from the vines that whipped toward her. "Simple spells only."
+
+"I'm not sure now is the time!" Leo yelped, a defensive spell materializing around him. The vinewalkers headed toward him began to turn, confused, as their senses told them Leo could only be reached through a convoluted, twisting path. "What even counts as big?!"
+
+"Try to keep it third tier and below," Professor Imrys said. "And cast slowly! I need to record the effects it has on the tether."
+
+"Isn't this supposed to be your class?" Leo didn't quite have the time to glare at her, though he certainly tried. The vinewalkers around them were distorting away from their humanoid shapes, growing into a complicated network of roots that threatened to actually trap him in his own makeshift labyrinth.
+
+"It's just the first class, my dear," Imrys said. "Any good professor would change the coursework to better suit their students. Watch out, now! That one's about to reach you."
+
+Cale narrowed his eyes as Leo yelped again, a basic burst of mana scattering the flower that tried to swallow him. This was strange—the atverians hadn't shown them any hostile intent. This was clearly something the plague had provoked, but why had its behavior changed?
+
+Magical plagues could do things regular plagues couldn't, but even then there was normally a rhyme and reason to a change in its behavior. In this case the creatures that were attacking them were infected and transformed, but not yet dead, much like the sick atverians in the tent. Perhaps the plague simply hadn't progressed as far or the difference in location mattered.
+
+The other possibility was that there was a mind behind the plague, but Cale struggled to imagine why someone would do this, or what they wanted of them.
+
+"Cale!" Damien struck out with a [Decay Bolt], wincing as it dissolved the tendril heading toward him into little more than rot; the creature it belonged to let out a mournful cry. "What do we do? They're just victims of the plague, right?"
+
+He sounded panicked. And he was right, too—these were just victims of the plague. Maybe part of the change in behavior came from that, then?
+
+Cale snapped his fingers. "Adaptability," he said.
+
+"What?" Damien stared at him.
+
+"Adaptability," he repeated. "Some magical creatures are better at adapting to and trying to incorporate foreign magics that affect them. This might be one of those. It's usually a pretty cool trait, but in this case..."
+
+Cale sighed, staring at the nearest pseudo-vinewalker attacking them. It was pretty much exactly what he'd feared. Half a vinewalker was a poor description, perhaps; the vinewalker torso was very clearly growing out of a core of flesh and magic, and whatever that core had been originally, it was still alive. Panicked and afraid, most likely, which still didn't explain why it was attacking them—only why it was manifesting so differently from the sick atverians.
+
+"They're in pain," he said.
+
+They were. Past the aggression and strange determination to approach them in particular, there was a core of something frightened and hurt. Cale couldn't even tell what creature their attackers had been originally—birds of some sort, perhaps, judging by the clumps of feathers he could find between the thorns and blooms—but whatever it had been was outright unrecognizable. Vines had erupted through its beak to form the rough outline of a head and neck, and through its wings those vines had formed into the vague shape of a torso.
+
+There was enough magic in there to fly and for them to be aware of its surroundings, but that was more of a curse than a blessing, considering the state they were in. And the more they struggled, the clearer it became that they weren't even much of a threat. Past the shock of their appearance, these things struggled to even stand, squawking miserably.
+
+Damien took a hesitant step forward. "We can't leave them like this," he said quietly. "We don't need to assault them with attack spells or anything, but I think I can..."
+
+He trailed off, hesitating, and shot Cale a pleading look.
+
+"If you can make it painless," Cale said softly.
+
+Damien nodded, swallowing, and approached carefully. Everyone else stepped back while the creatures flailed about at him, more out of fear and panic than any understanding of what Damien was doing.
+
+"I'm sorry," he said quietly, gathering one of them into his arms. Decay-aspect mana flared from him, and after a moment, the body he held fell still.
+
+And then it bloomed, taking on the aspect of the vinewalkers, spreading outward as if it were a flower in and of itself. It avoided Cale and the others, but every infected it touched decayed to dust in an instant. Damien kept his eyes closed and head bowed even after the spell was done, though Leo stared at him, awestruck.
+
+"That was a third tier spell?" he whispered to Cale.
+
+Cale snorted. "Ask him later," he said. Some things weren't his secret to tell.
+
+It became something of a pattern as they moved deeper still toward the vinewalker colony—the deeper they went, the more these half-transformed creatures would appear. There was no sign still of any of the vinewalkers that had once supposedly lived here, but there were plenty of these monsters that appeared out of nowhere to strike at them; eventually, they were forced to move on and avoid the monsters as much as they could.
+
+Better to end the plague at its source, Cale said, than to try to bring every individual creature peace. They could do that after they had quelled the source of the infection. For now, they had to keep moving.
+
+Yet though he didn't say anything just yet, he was starting to get a bad feeling about this.
+
+It was one thing for them to be attacked because the creatures here were fearful and in pain, but that wasn't why they had been attacked. The creatures had been determined and purposeful, if ineffective. That, combined with the increased frequency of those attacks as they got toward the vinewalker village...
+
+It could suggest that the village was the source, he supposed, but it could also mean that the half-transformed were operating under the orders of something intelligent. The second seemed far more likely, and if that was the case, then what they were dealing with might not have been a plague at all.
+
+Cale remembered the story Damien had managed to pry from A'ruk, the one about T'vela's vinewalker lover. At the time, he'd had nothing more than an inkling that this was more than it appeared, but the pieces were now starting to come together, and those pieces no longer matched the idea that this was a magical plague.
+
+He hoped he was wrong now. It would be far too cruel if he was right. A plague would have been easier to deal with, in comparison.
+
+Soon enough, they reached the wooden huts and buildings that the vinewalkers must have been living in. It was a small, cozy village, and there was no indication here that some great magic had been performed that would produce a deadly plague.
+
+They had found the vinewalkers, though. Each one of them was bound in place, wooden tendrils winding painfully through their vines as they tried to force their way toward the center of the village. Cale heard a sharp inhalation from Thorn as he went to help them—their eyes flickered toward him, fearful and hopeful all at once, but also in warning.
+
+"Watch out," one tried to rasp, the words barely emerging through the wood that bound them. "Please, be careful—do not—"
+
+"I know," Thorn said roughly. This kind of magic had to be undone with care. Simply tearing down the roots would cause a great deal of internal damage to the vinewalkers.
+
+But that wasn't what the vinewalker had been trying to warn them about. Cale's attention was focused on that.
+
+On the center of the village, and on the quiet sobbing of a little girl whose cries still echoed through her home.
+
+"Shit," he muttered quietly. He'd been right.
+
+This was no plague. It was the birth of the realm's dark lady. And the one chosen for the role... he could see only a silhouette from where he stood, but in the middle of the village was a small, crying atverian girl.
+
+Curled protectively above her was the very vinewalker corpse they'd been seeing all the while. This one, however, had a shining goldsong spear sticking out of his back—the same kind he'd seen T'vela carrying. The kind atverian commanders used.
+
+It wasn't the first time he had seen such tragedy result in the birth of a new dark one, but he felt an old exhaustion weighing down on him. How many times had it been now?
+
+He had wanted to study the Dark to understand the secrets it kept from him, but he hadn't wanted to do it like this.
+
+He was so very, very tired, sometimes, of all the ways the Realms could hurt its people.
+
+Still... perhaps this was early enough in the cycle that there was something they could do about it.

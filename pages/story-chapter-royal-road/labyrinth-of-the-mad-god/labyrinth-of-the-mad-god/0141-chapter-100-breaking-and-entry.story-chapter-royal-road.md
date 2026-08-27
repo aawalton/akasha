@@ -1,0 +1,71 @@
+---
+id: 49ff490a-6291-5d14-9f68-91a180c11030
+page-type-slug: story-chapter-royal-road
+title: "Chapter 100: Breaking and Entry"
+slug: 0141-chapter-100-breaking-and-entry
+partOf: labyrinth-of-the-mad-god
+position: 141
+ownLength: 1818
+unit: words
+publishedAt: 2025-03-07
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2111751/chapter-100-breaking-and-entry"
+royalRoadId: "2111751"
+---
+
+After Veronica signaled that the coast was clear, everyone scrambled up to join her on top of the wall.
+
+They only had five minutes until the next guard passed through, so they had to move fast. Even with the spotlight-style magelights positioned along the interior, it was hard to see inside the base with all the fog and rain. Nick hoped that there weren’t any pirates in the open area below, since they probably wouldn’t be carrying torches and would be hard to spot in these conditions.
+
+Not that Team Earth had much choice other than to follow through with their plan and hope for the best. They repositioned the grapple, then rappelled down the inner wall. Nick went first this time, ready to climb back up if there was anyone else down there.
+
+Fortunately, the coast was clear. While the others slid down the rope, he examined his surroundings—what little he could see of them under the circumstances. From V’s scouting run, he knew that the base was divided into three main areas. One of them was full of stone buildings. A barracks, kitchen, and common area, judging by the light shining through the windows and the smoke rising from the chimneys.
+
+Beside the buildings sat the airship dock. Nick could see the profile of a massive warship looming against the mist, blocking his view of the magelights mounted to the wall behind it. The Bloody Surprise was incredibly intimidating up close, both the destructive capabilities of its weaponry and the size of its crew.
+
+The final area consisted of a pair of warehouses and a loading dock covered with big crates. The windows of the storerooms were dark, which hopefully meant that everyone had already moved inside the other buildings to wait for the storm to pass. After V unhooked the grapple and put it in her pack, she motioned, and the rest of the team began following her over toward the rows of crates.
+
+That was when Nick heard a cough. Everyone ducked behind a box, just in time to avoid a pirate who was walking through the area. He didn’t seem to be a guard, and Nick wasn’t sure what he was up to until the man pulled out a crowbar, levered the top off a wooden barrel, and then removed a bundle from inside. He put the object into a bag, sealed the lid, and then ambled back the way he had come.
+
+Some of the pirates must be skimming off the top. I suppose there’s no honor among thieves. As soon as he was gone, the team continued, heading past containers of various sizes until they made it to a row of wooden crates that topped off above Nick’s head. While V watched for approaching pirates, the others used their tools to pry open the tops. It took them the better part of ten minutes to find a pair of crates that were big enough to hold several people—filled with some manner of dark ore about halfway to the top.
+
+They looked around for a while longer, but there simply weren't any crates large enough to hold them all. The best they could do was two. Before Team Earth split up and climbed inside, Sophia pulled Nick over to one side.
+
+She looked unusually bashful as she looked him in the eyes and said, “Nick. We haven’t had much time to talk since we entered the tower. I’ve been waiting for the right moment, but who knows if any of us will live to see the sunrise? If this doesn’t work out, I just want you to know how much our time together has meant to me. How much you mean to me. I’ve wanted to tell you for a while now, but never found a chance.”
+
+By this point, his heart had begun to race. Nick had some feelings that he wanted to share too, and it seemed that the time had finally arrived. He was about to tell her that he felt the same way. But before he found the words, Sophia stepped forward and wrapped her arms around him, drawing him in for a tender kiss that electrified every inch of his body.
+
+They stayed that way for another few minutes, until the sound of voices in the distance forced them to scramble for cover. When they broke apart, Devin flashed him a grin and a surreptitious thumbs up. Then, so low that he could barely hear it, Nick heard Veronica mutter, “Fucking finally.”
+
+After sealing up the boxes they had opened, the party split up. Nick and Devin took one crate since they had the bulkiest gear, while Veronica, Shaun, and Sophia moved into the other. It was tricky sealing the final crate from the inside, but with some clever use of tools and their powerful bodies, they managed to get the job done. It was pitch black once they shut the lid, and freezing cold to boot, but at least they had some shelter from the rain.
+
+Now that Team Earth had successfully infiltrated the pirates’ base, all that was left was to settle down and wait until morning, then pray that they remained hidden until they arrived at the highest island. Nick made himself as comfortable as he could, which wasn’t too comfortable considering that he was hiding inside a box full of rocks.
+
+He let his mind wander while listening to the storm beating a rhythm on the wood above his head. He realized that despite it all, he was smiling. That he could still feel Sophia’s lips pressing against his own. He wasn’t sure what the future held for them, but after they pried the Earth free from the clutches of the Mad God, he was going to find out.
+
+Nick hadn’t expected to fall asleep under the circumstances. But he had underestimated the extent to which he had grown accustomed to life and death situations and sleeping in uncomfortable fucking places. Because less than an hour later, he drifted off into the land of dreams.
+
+He was awoken sometime later by the sound of voices. For a second, he couldn’t remember where he was and almost spoke before Devin placed a hand over his mouth. With that, Nick returned to full alertness. He nodded to Devin, then placed his attention into his ears. It seemed that the storm had passed sometime during the night. He could hear the scraping of crates dragging against the stone floor and footsteps coming from all sides.
+
+It was light enough to see, thanks to some narrow gaps in the woodwork, but they weren’t wide enough to peer through and observe his surroundings. Being trapped in an enclosed space while surrounded by enemies was incredibly nerve-wracking, and the tension grew thicker by the heartbeat. Every minute he sat there without being moved made him more and more certain that there was a problem. That the pirates had noticed Team Earth and were surrounding them in a ring of steel.
+
+Nick knew that it was just his imagination playing tricks on him. He called upon Arctic Clarity to calm his nerves, ready to spring into action at a moment’s notice. But the next hour proved blessedly uneventful, as well as the one after that. It made him realize that they might have a different sort of problem on their hands. Hopefully, these crates are slated to be loaded abord the Bloody Suprise on this flight.
+
+Just when he was convinced that it wasn’t going to happen, he heard footsteps approaching. At least two pirates were standing on both sides of the crate. It seemed that instead of using some manner of magic to move them, the pirates were strong enough to lift the heavy boxes with their raw attributes.
+
+“Alright, lads, let’s get this over with. Everyone, grab one side and get ready to lift on my command. And I mean wait for it. We don’t want a repeat of what happened last time, Zer. They are still docking my pay from the mess you made.” The buccaneers laughed as they moved into position.
+
+Without further warning, the crate shook and then rose from the ground. “Fuck. This thing is even heavier than I remembered,” one of them said.
+
+“Less bitching, more loading. The sooner we get out of here, the sooner we can get back to hunting for the intruders and secure a portion of that juicy reward.” I still can’t believe that the fucking System put a hit on us. Nick grumbled to himself. Now I know what it feels like to be on the receiving end of a kill quest.
+
+The crew carried the crate for what must have been several hundred feet, until the slap of boots striking stone transitioned into the tap of leather against wood. They kept on going for a few more seconds, then set the box down with a series of groans. Not long after, the voices receded into the distance, leaving Devin and Nick alone once more.
+
+With that bit of excitement out of the way, there wasn’t anything to do other than wait and see what happened next. Since Nick had already taken a nap, he told Devin to rest while he stood watch. Maybe ‘stood watch’ isn’t the right phrase, considering that I’m sitting down and can’t see anything. He cracked a grin at his own whimsy, then returned his attention to his ears—the only sensory organs that he could rely on under the circumstances.
+
+By the end of the next tension-charged hour, nothing had happened. From time to time, the pirate workers returned, moving more crates from the loading area into the airship’s cargo hold. He occasionally caught snippets of their conversations. Nick didn’t learn anything important, but they seemed to be in the middle of a routine job, which meant that they hadn’t found the rest of his team hiding in the other crate.
+
+Nick hoped that Sophia and the others were nearby, but there was no guarantee that their boxes had been placed anywhere near each other. Their plan was to wait for the airship to take off, then land again before sneaking out of the hold. They had agreed to meet back up at the most substantial cover they could spot from the dock, which, with any luck, would be within walking distance of the stairs leading to the next level of the Tower of Rizzen.
+
+Sometime later, he heard gears turning, accompanied by the creak of rope and the thump of heavy wooden panels falling into place. The ship must be loaded and ready to leave. Sure enough, he got that feeling in his stomach that comes with an abrupt ascent as the warship took to the skies.
+
+There’s no turning back now. All we can do is keep quiet and hope that our luck holds long enough to reach the next island.

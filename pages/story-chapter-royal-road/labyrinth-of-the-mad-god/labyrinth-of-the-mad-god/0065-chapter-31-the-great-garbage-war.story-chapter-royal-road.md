@@ -1,0 +1,85 @@
+---
+id: 538cf892-ece7-546b-80f0-93399df691f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: The Great Garbage War"
+slug: 0065-chapter-31-the-great-garbage-war
+partOf: labyrinth-of-the-mad-god
+position: 65
+ownLength: 1605
+unit: words
+publishedAt: 2024-09-27
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1823423/chapter-31-the-great-garbage-war"
+royalRoadId: "1823423"
+---
+
+Only a few minutes into the rats’ gory feast, a second alarm rang out. A high-pitched tone with a different pattern than the last. Nick wondered what it signified, only to have the answer revealed a heartbeat later.
+
+Over on the other side of the room, near where the empty basins sat, another cluster of portals opened near the ceiling. Through the first set of glowing apertures, nasty sludge began pouring out, rancid brown flowing beside virulent green. Tarry black running next to a sickly iridescent fluid that shimmered like an oil slick.
+
+The rivers of watery waste followed conduits of force mana too. They divided in midair as the channels of filth separated, each flowing down to fill their own pool set into the floor below. Nick was thrilled that he couldn’t smell anything through the glass wall. Part of the river was clearly shit, mixed in with countless other types of refuse.
+
+The other set of portals served a similar function, ejecting trash that was relatively solid. Garbage and muck in every color of the rainbow began pouring down, filling the other half of the basins. Bits of food, scraps of wood, and countless kinds of junk that Nick couldn’t even begin to identify flowed down the transparent channels until they reached the ground.
+
+A few of the gear-rats broke off from the corpses to start nibbing at the solid waste, although they showed no interest in the liquid. Weird. Maybe this was how things were supposed to work before the big disaster. I wonder if the roaches are coming to eat the rest.
+
+Nick didn’t have to wait long to learn the answer. Because the entire scene erupted into chaos less than a minute later. Alerted by the alarm, or perhaps the smell, dozens and then hundreds of oversized roaches began racing out from another series of tunnels. The ones on the side where their nest was visible through the glass.
+
+Half of the big bugs began devouring the waste immediately, while the other half went charging for the constructs to drive them back toward the bodies. They took out a few scattered rats that were slow to retreat, all of which vanished after being seriously wounded.
+
+While each side began eating their respective offerings of corpses and garbage, they fought with one another. The ravenous armies skirmished back and forth, darting in to steal a portion of the resources from their enemy’s half of the room.
+
+The strength of the gear-turtles became obvious over the course of the battle. Blasts of acid from the green roaches splattered against their shields rather than doing any damage.
+
+The roaches had another new type with them too. A red-shelled variant that could unleash a heavy jet of flame within a range of approximately fifteen feet. Each side scored some kills during the exchange, but the defensive specialists in both armies kept the casualties to a minimum. The roaches’ ranged attacks deflected off the turtles’ shields, while the tank roaches absorbed most of the pacifier scorpions’ shots.
+
+The rats are happy to eat the roaches too, Nick noted. This must be a long-standing stalemate for both sides to have such a massive army. They must both be able to restore their losses relatively easily in between battles, although the corpses and garbage might not always be portaled into this room at the same time.
+
+Staring through the window high above, Nick, V, and Shaun sat down to watch the show. It was an excellent opportunity to evaluate the capabilities of both threats from a perfect position to observe the proceedings.
+
+Nick and his party had front row seats to witness the strategies and abilities on display, without having to worry about getting caught in the crossfire. He soon learned that the construct swarm was better at team tactics. It was able to execute complex maneuvers in perfect coordination, to such an extent that it reminded him of computer games from his old life.
+
+The turtle models protected the swarm from ranged fire, while the scorpions dished out damage. When fighting as a group, a handful of rats stayed inside the shield bubbles to protect the bigger constructs from charging roaches, while rest kept on feeding. But that wasn’t the extent of the swarm’s strategy.
+
+A handful of gear-rats darted out every few minutes to strike at the roaches from the sides, sacrificing themselves to damage their enemy’s coordination, rather than trying to reduce their numbers. The kamikaze constructs would rush in, attracting attention while dodging fire. They disrupted the roaches’ formation then fell back, time and time again.
+
+It kept the roaches from being able to mount an effective assault on the swarm, although it didn’t stop the big bugs from trying.
+
+Rather than following a coordinated strategy, the beasts tended to plow right into the fray, using tactics suitable for creatures with animal intelligence. But while the big bugs were lacking in the planning department, they made up for the difference in raw power and rugged durability.
+
+Each time that the insects made a push, their armored warriors led the charge. They soaked up most of the scorpions’ shots on their heavy plates of chitin, while the rest followed behind. Once they were in melee range, the nonspecialized roaches came pouring through the gaps to hit the machines from the front. The flame and acid-spewing bugs kept most of the constructs from leaving their shields and took out the ones that did.
+
+Once they were inside the gear-turtles’ barriers, the roaches were able to overwhelm the constructs completely. However, only two of the forcefield generators fell during the battle, since the swarm tended to pull back or reinforce their line before things reached that point.
+
+While both armies suffered a few dozen losses, it seemed like they were mostly trying to keep the other team from stealing more resources, rather than trying to finish off the opposing side.
+
+Nick had the sense that this scene had played out many times before. That this battle was one small event in an endless cycle. The new equilibrium that had arrived in the aftermath of the calamity that had befallen this floor.
+
+Either way, it was a fantastic opportunity for team Earth, providing a wealth of data that could normally only be obtained by risking their lives. The garbage war taking place far below Nick’s boots let him judge the speed, reflexes, and ranges of each type of opponent. Let him gauge how often they could use their powers, and how they dealt with surprises. What tactics they favored, and the gaps in their teamwork.
+
+It was all incredibly useful information. Intelligence that would help the party keep their blood inside their bodies the next time they found themselves ambushed on the way to the stairs. But there was still one giant piece missing from the puzzle of the floor’s present state.
+
+None of these creatures can deal damage on the scale that we witnessed on the way here. Their attacks aren’t even scratching the stone floor and walls. They can’t be responsible for all the collapsed rooms and passageways.
+
+Something else is down here too. It must be the Janitor that Kellen mentioned in his logs.
+
+Nick would learn just how right he was only a few heartbeats later.
+
+From one of the ground level tunnels on the far side of the enclosure, he felt something stir. He had the sense that powerful mana was radiating out from the passage, flowing across the enclosure in waves. While Nick still couldn’t see mana in the air, by now he was learning how to feel it. It was a dense river of energy, ponderous and powerful, on a scale greater than any he’d encountered before.
+
+Since I can sense it so clearly, it must be pure or force mana. I can barely perceive the other kinds at all right now. He focused on the sensation, a vibration that evoked images of ripping and crushing. Of pushing and pulverizing. Force mana then.
+
+But Nick soon realized that it wasn’t just mana he was feeling. Something else was emanating across the enclosure too. A form of energy that resonated with his wand, to the point that the device was practically vibrating within its beltloop.
+
+When he focused on the strange sensation, Nick had an impression of kinetic energy. Of power and momentum, that was somehow more complex, more refined, than the turgid flows of force mana seeping into the air.
+
+It must be essence, he decided. It feels like what was left behind in the scars along the stonework. It should be related to force too. I can feel the energetic pathways for piercing ray and force acceleration tingling in response.
+
+That was all the time for reflection that Nick was granted before the source of the potent energy was revealed in its full, fell glory.
+
+Before the construct swarm or roach horde could finish their meals, a third contender entered the fray. Something different than anything he had encountered before.
+
+The entity stormed out of the passageway in the blink of an eye. The warring forces were slow to notice the arrival of this new threat, totally consumed with their strange combination of battle and meal. The creature was enormous, at least the size of an elephant, with a shimmer of displaced air around its form that made its position hard to track.
+
+By now, the gear and insect forces realized that something was wrong. They began to pull back, skittering across the stones in a disorganized jumble.
+
+But it was already far too late. The Janitor had arrived.

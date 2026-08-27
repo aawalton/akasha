@@ -1,0 +1,121 @@
+---
+id: 8f70beaa-24ac-52af-8446-1034d38c6dc8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: First Day in the Maze"
+slug: 0283-chapter-3-first-day-in-the-maze
+partOf: labyrinth-of-the-mad-god
+position: 283
+ownLength: 2502
+unit: words
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3029731/chapter-3-first-day-in-the-maze"
+royalRoadId: "3029731"
+---
+
+When Nick stepped outside the saferoom, Bandit jumped onto Lurk’s back.
+
+There was a prominent ridge running along the top of her mane that was a perfect perch for the child-sized primate. The elevated position let the lemur watch the party’s backs while the towering carnivore took point.
+
+Kenji fell into formation on the left, watching for enemies appearing from side passageways or hidden within the warren of pipework lining the wall, while Nick stood on Lurk’s right. In this environment, it was his job to guard against ambushes originating from the waterway running down the middle of the tunnel.
+
+With mage sight and Size Up, he had the best chance of detecting foes that were using magic to conceal their presence. He kept Force Acceleration running—ready to dodge incoming attacks then buy time with Arcane Shield and his Wand of Force while the party responded to the emerging threat.
+
+While the arrangement made perfect sense from a tactical standpoint, Nick had grave reservations about standing so close to Lurk. One quick chomp will bisect me at the waist, and a kick from those talons will gut me like a fish.
+
+On the other hand, despite their prior conflicts, the dino had chosen to move past their grudge during their final interaction on the Searing Isle, when she reached the portal first and was blocking his path. While she had given him quite a scare a few minutes ago, she hadn’t attacked him then either.
+
+The beast knew she made him nervous, and took great delight in that fact, but after Bandit’s admonishment, she hadn’t unleashed her killing intent or made any overtly threatening moves. Putting those pieces together, Lurk seemed to view Nick as a rival rather than an enemy, although the distinction didn’t do much to steady his nerves.
+
+It was going to take some time before he was willing to lower his guard around the colossal carnivore, but Bandit clearly trusted Lurk with his life and Nick trusted Bandit. He had a mountain of questions about how the beasts had set aside their prior animosity but decided to save them until they found a safe place to camp for the night.
+
+While these thoughts drifted through his mind, the four of them made their way down the sprawling conduit. The first hour of their journey was blessedly uneventful, giving everyone a chance to grow accustomed to their environment and the presence of their new party members.
+
+The water began to change color not long after, transitioning from polluted gray to muddy brown. The concrete floor and central channel remained, but the pipe-lined brick walls and ceiling gave way to raw earth that was studded with protruding roots. It made the passage seem more like a storm drain than a sewer, which was considerably more pleasant if no less ominous.
+
+The flowing fluid was clean enough that Foraging was convinced it would be safe to drink if he found a way to filter it, through Nick had no intention of testing that theory unless he was left with no other choice. Fortunately, he had enough food and water in his bag to last for quite a while. He suspected that when they arrived on the world where their quest would take place, the terrain would be able to support life, or the System wouldn’t have sent him there to begin with.
+
+Based on everything I’ve learned so far, it’s pointing us toward risky opportunities that will let us grow stronger as fast as possible, so we can help it invade the Labyrinth and depose the Mad God. Judging by what happened in my tutorial and while climbing the tower, this quest will be insanely dangerous, but not impossible. If we keep our eyes open and play it smart, there should be valuable rewards that aren’t listed in the description.
+
+As they followed the conduit, most of Nick’s attention was on the terrain ahead. However, his Mind was high enough that he could speculate on the ordeal to come without distracting himself.
+
+If he understood what Bandit had told him, dreadbeasts absorbed energy from the world and gave nothing in return, making them abominations in the eyes of other beasts. He suspected that distinction was important, although he wasn’t sure how just yet. It seemed different from the Crimson Blight, which sought to assimilate all life in the multiverse, but didn’t kill its hosts or render the planets it conquered barren wastelands.
+
+Regardless of the details, he was certain the dreadbeasts would pose a deadly threat. I’ll know more when we get there, but we have to survive crossing the Labyrinth first.
+
+In addition to claiming the System’s reward, Nick intended to learn everything he could during the journey. This was a valuable opportunity to study the Mad God’s realm before the year of protection came to an end and the entrances opened for good.
+
+The knowledge he obtained over the coming weeks would help his people prepare for the next phase of their existence. The guardians of Earth needed every advantage they could obtain if they were going to survive being caught in the crossfire between two unimaginably powerful entities—pawns on a galactic chessboard far beyond his comprehension.
+
+Based on the quest’s description and what Nick had experienced during the vision that had come over him while the Earth was being plugged into the Labyrinth, the conduits his party was crossing were passageways linking sizable pockets of space called nodes, including the one that held the Earth and its moons.
+
+Unlike the portals that had whisked him from one corner of the multiverse to the other, these twisting pathways didn’t transport you simply by stepping inside. Instead of behaving like wormholes, they felt like threads strung across the void—stable strips of physical space that ran at right angles to reality, connecting planets and other exotic destinations that were millions of miles apart.
+
+If that were the case, he was travelling hundreds of miles with every step he took, which kind of blew his mind. Or maybe these conduits are holes in the fabric of spacetime and we’re stepping through the place where two dimensions overlap.
+
+Either way, Nick had never expected to find himself walking from one planet to another—a feat that was quintessentially bizarre even by his new, greatly expanded definition of the word.
+
+Moving on, the conduit leading from Earth to the closest node felt different from the ones he had flown past in his vision. The tangled skein that linked the established regions of the Labyrinth had seemed more like the veins of a living creature than mere physical spaces—an extension of the great and malevolent maze that embraced everything Taltos had stolen from the System over countless millennia.
+
+Even with the insights he had obtained with Portal Visionary, Nick didn’t know if the Labyrinth was an extension of the Mad God, an entity he had nurtured to serve his needs, or something greater and more ineffable still. Either way, his instincts were telling him that this conduit only held a trace of the maleficent awareness he had sensed closer to the maze’s heart.
+
+Going by what I learned on the top of Darkstone Tower, the Labyrinth is constantly expanding. The fringe is composed of worlds that survived Taltos’s challenge, and the conduits are built from recycled parts of the planets that failed.
+
+It must take time for the sectors along the fringe to be fully integrated. That must be why the System’s influence is diminished here but not extinguished—even outside the shroud of protection. The fringe isn’t fully within Taltos’s grasp to begin with, and something about the deal they made let the System hold sway over the worlds it’s using as beachheads for its invasion.
+
+While Nick would never forgive the System for what it had done to his people, it seemed to view the planets it had seeded with champions as valuable resources. It made him hopeful that his homeworld wouldn’t be discarded out of hand, although he had no doubt the System would sacrifice the Earth without hesitation to advance its goals.
+
+Big picture aside, if they were to have any chance of surviving over the long-term, his people needed time to adapt to their new lives in the multiverse—grow strong enough to defend themselves before facing Taltos’s wrath.
+
+There were hundreds of other planets that received Diamond rewards, mixed in with thousands of worlds that were added to the Labyrinth around the same time. I’m sure the Mad God is planning to destroy us, but with any luck, he won’t be able to find us the instant the year of protection ends.
+
+While there was reason to hold onto hope, walking across terrain cobbled together from the bones of shattered planets was a deeply ominous experience. His home had been on the chopping block until a short while ago, granting Nick a profound empathy for the victims of the System’s brutal indifference and the Mad God’s malicious machinations.
+
+If I ever get the chance, I’ll pay them back for you too. He made his vow while honoring the nameless trillions who had already fallen, if what Pax had told him was true.
+
+If her side loses this war, countless generations yet unborn will face the horrors of the Labyrinth. I hate how the System used my people, but I can’t deny the truth of her words—this is far bigger than the fate of one world.
+
+As he pondered the cosmic conflict, Nick pulled up the quest the System had issued, reviewing the details while he walked.
+
+Elite Quest: Dreadbeast Quarantine Zone
+
+Note: This quest is only available to faction leaders and a party member of their choosing.
+
+A planet in your sector has issued an emergency request. The dreadbeasts contained within their quarantine zone are too powerful for the barrier to hold and will escape in approximately two months. Someone must enter the zone and destroy the creatures before their corruption spreads across the globe.
+
+Upon accepting this quest, you may bypass the Shroud of Protection and enter the Labyrinth. You will be paired with two intelligent beasts whose goals are compatible with your own and attempt to complete the quest together.
+
+First, you must cross the conduits leading to the node that contains the world where the quarantine zone is located—an area that had been temporarily classified as a dungeon. Once you arrive, you must defeat the dreadbeasts trapped inside, putting an end to the threat they pose to all life on the planet.
+
+This quest serves two purposes. In addition to promoting cooperation with other species, you have a chance to explore the Labyrinth ahead of schedule and obtain a better understanding of the dangers you will face when the conduits open at the end of the Rebuilding Civilization period.
+
+Rewards: Ability to form factions with nonhuman settlements prior to City Tier 7. 3000 CP. Selection of a high-quality bloodline trait from a bloodline library.
+
+Additional rewards may be issued for exceptional performances.
+
+Difficulty: 5 Stars (Elite).
+
+Warning: Elite dungeons are the most difficult trials available within the Rebuilding Civilization period and should not be undertaken lightly. This quest involves several weeks of travel time.
+
+Now that they had adapted to their environment, Nick shared his thoughts with the rest of his team. Bandit and Kenji were fascinated by the insights he’d obtained from his visions. Even Lurk seemed interested, although he wasn’t sure how much the big beast understood.
+
+“That technique is a mystery,” Kenji said while rubbing his chin. “From what I’ve gathered during our time together, Arctic Clarity and Theater of the Mind’s Eye are a perfect fit for your keen analytical mind. Conversely, Predatory Domain stems from all the stress and anger you kept bottled up inside until Ella popped the cork.
+
+“However, Portal Visionary doesn’t fit in with the rest. If I remember correctly, your first vision was before integration, when you saw the Earth refining cosmic energy for eons before hitting level one. That power doesn’t seem to be an extension of your natural inclinations. Its breadth and depth go far beyond anything else I’ve heard of, letting you experience events on a galactic scale and translate the runic languages used by Taltos and the System.”
+
+The warrior clasped Nick on the back. “I have no idea what it all means, but I’m sure of one thing—you can’t die, no matter what. My gut is telling me that you are one of Earth’s most valuable resources in more ways than one.
+
+“Hopefully, you can use that technique to learn the truth behind it all in time to help us survive what’s coming—secure an advantage over the Mad God that wouldn’t be possible otherwise. With any luck, walking through the Labyrinth will trigger more visions we can mine for clues that will show us how to flip the table and take the reins of our destiny.”
+
+“Kenji is right,” Bandit said. “My people were granted some insights when we ascended into beasts. We’ve learned a bit more from defeating the dreadbeasts, but nothing that even comes close to what you described. Your power might be the key to unlocking the secrets of the multiverse… and that isn’t all.”
+
+Everyone leaned in close, responding to the gravity of the lemur’s words. “I sense something growing inside you. A seed that was planted by the abomination you call the Crimson Blight, but you’ve gained control of and made it your own. My intuition is telling me it will grant power beyond your wildest dreams, if it doesn’t destroy you utterly in the process.”
+
+“Holy shit, guys.” Nick had no idea that his companions felt that way. “That’s a lot of responsibility.
+
+“If it makes you feel better,” Kenji replied. “You aren’t the only one who’s special. The System seems to have selected people with unusual talents for a trial by fire—make or break ordeals far more dangerous than what most of us experienced. Sophia and her demon is another, along with Bandit and his run in with the tiger king. I’m certain that Ella is too, although she keeps her cards close to her chest and I don’t know her full story.
+
+“Don’t worry.” The warrior laughed. “You have a head start on your path to power, but you’re not in this alone. This old man and all the elite members of Team Earth are working hard every day. Just because we didn’t get a hell-difficulty tutorial doesn’t mean we can’t advance on our own.”
+
+Kenji and Bandit’s perspective on the matter gave him a great deal to consider. They continued down the conduit in silence—each lost in thoughts of their own. For the next two hours, their journey was peaceful, despite the pervasive tension in the air and an occasional predator that gave the party a wide berth after taking a good look at Lurk.
+
+That all changed five minutes later, when a shelled monstrosity with massive claws leapt out of the waterway, followed dozens more.

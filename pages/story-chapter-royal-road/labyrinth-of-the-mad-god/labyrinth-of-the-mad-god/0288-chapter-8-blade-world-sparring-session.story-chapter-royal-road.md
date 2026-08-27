@@ -1,0 +1,87 @@
+---
+id: 060a81f7-d772-527e-b95f-f82d021a738a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Blade World Sparring Session"
+slug: 0288-chapter-8-blade-world-sparring-session
+partOf: labyrinth-of-the-mad-god
+position: 288
+ownLength: 1723
+unit: words
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3099357/chapter-8-blade-world-sparring-session"
+royalRoadId: "3099357"
+---
+
+Nick woke up a few hours later, feeling completely refreshed. He drained his canteen, ate a light snack, and maintained his gear while his party made their own preparations.
+
+Before they moved on, it was time for another sparring session with Fritz, which took place inside Blightbane’s inner world. He could only visit the Blade World for a subjective half hour each day. No time would pass outside, which meant his training wouldn’t delay their journey, and he intended to take advantage of the Legendary sword’s ability as often as he could.
+
+He unsheathed Blightbane, sat with his legs crossed, and placed the sword across his knees. As always, the sight of the curved blade took his breath away. The weapon had always been impressive, but now that the portions the blight had eroded were fully resorted, the masterwork was glorious to behold.
+
+The sword was forged from a silvery metal—one of the rarest materials found on Fritz’s homeworld. Nick hadn’t been able to see them until recently, but with his mage sight and evolved eyes, he could perceive minute channels etched into the surface, running from the tip of the blade to where his fingers gripped the hilt.
+
+Fritz said they were conduits designed to channel its wielder’s mana. In theory, Blightbane could be infused with any frequency of magic, but for some reason, Nick had only been able to imbue the weapon with pure mana thus far.
+
+When he cleared his mind and focused his will, his awareness was drawn into the sword. Its patterned edge expanded to fill his consciousness, growing larger by the second as if he were descending from orbit to land upon an alien continent.
+
+At some point, his perspective shifted. Instead of looking at a vast sheet of metal, Nick was gazing upon the lost kingdom of Kastilla, which had been destroyed during their war with the Calamity-Class entity known as the Crimson Blight.
+
+The Blade World had been Fritz’s home for hundreds of years, but the blademaster didn’t live in the castle where he had ruled the planet or the metropolis surrounding it. Instead, the man chose to reside in a far humbler abode—the farm where he’d led a quiet life before being called to serve the realm.
+
+Nick didn’t even pretend to understand the dynamics of Blightbane’s inner world, but it mirrored the physical realm in many ways, including the turning of the seasons. Today, Kastilla was draped in the vivid hues of autumn. Fallen leaves blanketed the roads in a thousand vibrant shades, and the fields were filled with ripe crops that were ready to be harvested.
+
+As he descended toward a modest farmstead in the middle of a fertile valley, Fritz stepped out of his home and raised his voice in greeting.
+
+Nick would have enjoyed heading inside to savor a delicious meal and sample some of the exquisite alcohol the warrior brewed. But since time was of the essence, they made the most out of every session and started sparing the moment his boots hit the ground.
+
+The Kastillan king held two perfect replicas of Blightbane in his hands and tossed one to Nick a heartbeat before he landed—who caught the hilt with a flourish.
+
+He raised the weapon and took his stance a fraction of a second before Fritz’s opening strike landed, sending the ringing chime of blade against blade echoing across the farm. The king’s first lesson had been, “a battle never begins or ends,” and had cut Nick down several times before he learned to always be on guard.
+
+While the wounds healed within seconds, they still hurt like hell, and being run through or dismembered was a powerful incentive never to make the same mistake twice. Rita always said that pain is the best teacher. The two of them would get along well.
+
+Fritz nodded his approval when Nick shifted his block into a seamless counterattack. The king effortlessly parried the heavy sword, deflecting it by a few degrees. He stepped into the swing to execute a thrust Nick barely dodged in time, leaving a bloody scratch across one shoulder.
+
+While most of Nick’s attention was focused on their swordplay, part of his mind was free to analyze the lesson and take in his surroundings. He used his superhuman awareness to consider the man who had become his teacher and friend.
+
+Fritz was a bipedal alien whose head came up to the bottom of his chin. When Nick first encountered the species in the sewers of the Kastillan capital, he had thought of them as ratmen, due to their furry faces and wedge-shaped heads. However, those had been muck-covered zombies controlled by the blight—reduced to something less than animals.
+
+The warrior in front of him was something else entirely. Every inch of Fritz radiated a regal nobility—from his refined features to his well-groomed fur to his dignified speech and bearing. His clothes were simple but stylish, and his bright-blue eyes conveyed a piercing intelligence and centuries of experience.
+
+The next exchange demanded Nick’s full attention. The duo battled their way across the rich brown soil, trading blows and counters, dodges and parries. They exchanged a blurringly fast series of strikes and combos, employing a dozen types of misdirection.
+
+Fritz couldn’t use any skills or abilities—or manipulate mana or stamina for that manner. He had lost his vital energy when his mind was separated from his body and his soul merged with Blightbane’s core. However, the warrior still had his brain and every scrap of his talent, along with enough combat experience to make Kenji and Ella seem like novices by comparison.
+
+While Nick usually fought without using his abilities, he wanted to see what the king thought of his newest combat art—brainstorm its best uses and suss out its weaknesses.
+
+The next time Fritz slashed, Nick activated Force Riposte, absorbing warrior’s momentum as their weapons met. He immediately counterattacked, thrusting straight for the hollow of Fritz’s throat.
+
+The king met the blow with a maneuver Nick would never have dared to try himself. He raised his right hand and struck in a flash, using his palm to push against the flat of the blade and alter its course before stepping forward to place his claws against the hollow Nick’s throat.
+
+“I like that ability,” Fritz said. “But I’ve seen if before. If your opponent knows the thrust is coming, it creates an opening they can exploit. It will be less of a liability once you rank Riposte up and improve your Sword skill but be careful using it against the same enemy twice, especially if you find yourself battling another skilled swordsman.”
+
+Nick nodded his agreement—grateful that his mentor had delivered the lesson without tearing out his jugular this time. Even while speaking, they continued their session. The king had mastered several dozen sword schools. For now, he was restricting himself to the Ever-Surging Blade, since Nick needed to perfect the fundamentals before incorporating another style.
+
+They normally didn’t speak much while sparring, since they could always chat when Nick’s mind wasn’t in the Blade World. But he had something to ask that trading blows might help clarify.
+
+“You were tier two when the blight arrived. What was your Concept, and how can I go about forming my own?”
+
+“Indeed, young Nick. I was at the peak of tier two and working on developing my inner world when disaster befell my planet. My Concept was Defender of the Realm—a blend of martial techniques, battlefield leadership, and civil engineering.
+
+“As for forming your own, the process is different for every person, but the trick is to find an image that resonates with your soul. Not just your preferred fighting style, but your orientation toward life and approach to walking the myriad paths of power.”
+
+Fritz paused while they traded a vicious series of thrusts and parries that ended with Nick losing one hand along with his blade. While they waited for the wound to vanish like the memory of a dream upon waking, the king continued.
+
+“I do have a tip that might speed up the process. The closer you come to the peak of tier one, the more essence you naturally exude. If you focus on the types of essence you are generating, it might offer some insights that you haven’t internalized.
+
+“In your case, you have been pumping out a considerable volume of force-related essence since the moment you freed me from my prison. The flow grew even stronger after you became a Kineticist, and then a Force Weaver. However, your growing facility in channeling pure mana is having an effect too.
+
+“It’s hard to sense essence that isn’t comparable with your own, but in your case, I would hazard a guess that it has something to do with nullification, or perhaps disruption is a better term. You have also been generating a decent amount of sword essence—like anyone who is devoted to becoming a blade master.
+
+“But there is something else too. Something that reminds me of the Crimson Blight but feels more… hungry than sinister and all-consuming. There might be more types in the mix, but if you can gain some clarity into which aspects of those four essences resonate with you most, then find a way to merge them into a whole that surpasses its parts, you should be ready to form your fledging Concept, which will deepen and refine itself as you advance through tier two.”
+
+“Thanks, Fritz. That gives me a place to start. As always, I deeply appreciate all the training and advice, not to mention your friendship. My planet wouldn’t be here if it wasn’t for you.”
+
+“Stop trying to make an old man blush and take your best shot before our time is up. You freed me from my prison, slew the abomination that destroyed my people, then gave me a place to belong and a new purpose in life, so let’s call the score even. Just make sure not to die without passing Blightbane to someone else. I would hate to be trapped in the Labyrinth for millennia with no one to talk to.”
+
+Nick laughed and gave the rest of their session his all before the clock hit zero and his mind was drawn back into his body—eager to continue his journey through the malefic maze.
